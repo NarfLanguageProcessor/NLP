@@ -1,0 +1,1 @@
+{"index": 27548, "D": "a person who carries a flag or banner; standard-bearer.", "S": [], "A": []}

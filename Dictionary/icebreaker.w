@@ -1,0 +1,1 @@
+{"index": 145976, "D": "a ship specially built for breaking navigable passages through ice. ", "S": [], "A": []}

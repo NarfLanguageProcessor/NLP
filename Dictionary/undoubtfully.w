@@ -1,0 +1,1 @@
+{"index": 340785, "D": "of uncertain outcome or result.", "S": [], "A": []}

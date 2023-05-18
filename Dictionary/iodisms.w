@@ -1,0 +1,1 @@
+{"index": 157474, "D": "poisoning caused by sensitivity to or overuse of iodine or its compounds.", "S": [], "A": []}

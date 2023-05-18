@@ -1,0 +1,1 @@
+{"index": 322600, "D": "a declaration of an intention or determination to inflict punishment, injury, etc., in retaliation for, or conditionally upon, some action or course", "S": [], "A": []}

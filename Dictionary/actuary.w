@@ -1,0 +1,1 @@
+{"index": 3302, "D": "a person who computes premium rates, dividends, risks, etc., according to probabilities based on statistical records.", "S": ["analyst ", "auditor ", "bookkeeper ", "clerk "], "A": []}

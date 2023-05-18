@@ -1,0 +1,1 @@
+{"index": 212462, "D": "a tentacle or movable stalk bearing an eye, as in certain snails.", "S": [], "A": []}

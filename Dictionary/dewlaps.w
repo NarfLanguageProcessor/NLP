@@ -1,0 +1,1 @@
+{"index": 83769, "D": "a pendulous fold of skin under the throat of a bovine animal.", "S": ["cheek ", "mandible "], "A": []}

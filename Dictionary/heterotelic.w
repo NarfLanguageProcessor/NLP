@@ -1,0 +1,1 @@
+{"index": 137788, "D": "(of an entity or event) having the purpose of its existence or occurrence outside of or apart from itself.", "S": [], "A": []}

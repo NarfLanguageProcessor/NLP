@@ -1,0 +1,1 @@
+{"index": 9601, "D": "variant of alumino-,  especially before a vowel.", "S": [], "A": []}

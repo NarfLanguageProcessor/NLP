@@ -1,0 +1,1 @@
+{"index": 367272, "D": "objects or parts made of wood. ", "S": ["staircase "], "A": []}

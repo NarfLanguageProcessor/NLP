@@ -1,0 +1,1 @@
+{"index": 91313, "D": "an act or instance of dominating. ", "S": ["dictatorship ", "dominance ", "influence ", "oppression ", "repression ", "sovereignty ", "superiority ", "supremacy ", "tyranny "], "A": ["democracy ", "inferiority ", "subservience ", "weakness ", "inability ", "subordination "]}

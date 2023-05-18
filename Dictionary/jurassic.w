@@ -1,0 +1,1 @@
+{"index": 162436, "D": "noting or pertaining to a period of the Mesozoic  Epoch, occurring from 190 to 140 million years ago and characterized by an abundance of dinosaurs and the advent of birds and mammals.", "S": [], "A": []}

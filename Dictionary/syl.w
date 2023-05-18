@@ -1,0 +1,1 @@
+{"index": 290247, "D": "variant of syn-  before l", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227706, "D": "trackless; untrodden", "S": ["impenetrable ", "insurmountable "], "A": ["open ", "passable ", "traveled "]}

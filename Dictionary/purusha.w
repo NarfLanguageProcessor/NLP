@@ -1,0 +1,1 @@
+{"index": 257154, "D": "(in Sankhya and Yoga) one's true self, regarded as eternal and unaffected by external happenings.", "S": [], "A": []}

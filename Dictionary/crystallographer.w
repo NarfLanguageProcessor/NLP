@@ -1,0 +1,1 @@
+{"index": 73422, "D": "the science dealing with crystallization and the forms and structure of crystals.", "S": [], "A": []}

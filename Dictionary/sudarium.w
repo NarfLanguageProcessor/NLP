@@ -1,0 +1,1 @@
+{"index": 310012, "D": "(in ancient Rome) a cloth, usually of linen, for wiping the face; handkerchief.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 354116, "D": "gradually impairing or wasting", "S": [], "A": []}

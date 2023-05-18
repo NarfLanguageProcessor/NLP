@@ -1,0 +1,1 @@
+{"index": 5180, "D": "pertaining to Aesculapius. ", "S": ["medicinal ", "therapeutic "], "A": ["harmful ", "hurting ", "injurious "]}

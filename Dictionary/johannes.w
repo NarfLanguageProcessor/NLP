@@ -1,0 +1,1 @@
+{"index": 161549, "D": "a gold coin formerly used as currency in Portugal, first issued in the early 18th century.", "S": [], "A": []}

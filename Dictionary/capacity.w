@@ -1,0 +1,1 @@
+{"index": 46773, "D": "the ability to receive or contain", "S": ["quantity ", "scope ", "size ", "space "], "A": ["limitation "]}

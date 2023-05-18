@@ -1,0 +1,1 @@
+{"index": 112805, "D": "to filter. ", "S": ["clean ", "drain ", "dribble ", "leak ", "penetrate ", "percolate ", "permeate ", "refine ", "sift ", "trickle ", "winnow "], "A": ["dirty ", "pour ", "pollute "]}

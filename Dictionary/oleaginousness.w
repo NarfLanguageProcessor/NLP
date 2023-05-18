@@ -1,0 +1,1 @@
+{"index": 212041, "D": "having the nature or qualities of oil.", "S": [], "A": []}

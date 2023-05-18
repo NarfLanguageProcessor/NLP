@@ -1,0 +1,1 @@
+{"index": 101869, "D": "to wind  or coil about; encircle.", "S": [], "A": []}

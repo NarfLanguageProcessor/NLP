@@ -1,0 +1,1 @@
+{"index": 34793, "D": "seen from above, as by a bird in flight; panoramic", "S": [], "A": []}

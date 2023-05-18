@@ -1,0 +1,1 @@
+{"index": 192631, "D": "a carbohydrate that does not hydrolyze, as glucose, fructose, or ribose, occurring naturally or obtained by the hydrolysis of glycosides or polysaccharides.", "S": [], "A": []}

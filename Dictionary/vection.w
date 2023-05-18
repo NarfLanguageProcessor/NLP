@@ -1,0 +1,1 @@
+{"index": 357613, "D": "the transference of a disease from one person to another.", "S": [], "A": []}

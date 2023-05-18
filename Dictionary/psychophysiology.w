@@ -1,0 +1,1 @@
+{"index": 255452, "D": "the branch of physiology  that deals with the interrelation of mental and physical phenomena.", "S": [], "A": []}

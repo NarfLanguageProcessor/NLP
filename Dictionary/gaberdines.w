@@ -1,0 +1,1 @@
+{"index": 120803, "D": "a long, loose coat or frock for men, worn in the Middle Ages, especially by Jews.", "S": [], "A": []}

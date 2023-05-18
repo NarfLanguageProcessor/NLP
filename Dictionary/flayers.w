@@ -1,0 +1,1 @@
+{"index": 113799, "D": "to strip off the skin or outer covering of.", "S": [], "A": []}

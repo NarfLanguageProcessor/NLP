@@ -1,0 +1,1 @@
+{"index": 211435, "D": "(in an ancient Roman house) an apartment, especially a dining room, decorated with columns.", "S": [], "A": []}

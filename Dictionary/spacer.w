@@ -1,0 +1,1 @@
+{"index": 298155, "D": "a piece of material used to create or maintain a space between two things", "S": [], "A": []}

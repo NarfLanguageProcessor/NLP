@@ -1,0 +1,1 @@
+{"index": 268189, "D": "pertaining to or characterized by repetition. ", "S": ["boring ", "constant ", "dull ", "monotonous ", "repeated "], "A": ["exciting ", "interesting ", "lively "]}

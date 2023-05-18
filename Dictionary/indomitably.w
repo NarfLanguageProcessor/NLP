@@ -1,0 +1,1 @@
+{"index": 151254, "D": "that cannot be subdued or overcome, as persons, will, or courage; unconquerable", "S": ["mulishly ", "obdurately "], "A": ["graciously ", "obediently "]}

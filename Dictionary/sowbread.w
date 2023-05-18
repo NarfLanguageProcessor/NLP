@@ -1,0 +1,1 @@
+{"index": 298103, "D": "any of several species of cyclamen, especially Cyclamen hederifolium, a low-growing Old World plant having mottled leaves and pink or white flowers.", "S": [], "A": []}

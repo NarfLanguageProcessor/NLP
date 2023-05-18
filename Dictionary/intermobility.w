@@ -1,0 +1,1 @@
+{"index": 155418, "D": "the quality of being mobile. ", "S": [], "A": []}

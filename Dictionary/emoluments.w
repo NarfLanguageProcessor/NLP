@@ -1,0 +1,1 @@
+{"index": 98632, "D": "profit, salary, or fees from office or employment; compensation for services", "S": ["allowance ", "compensation ", "fee ", "income ", "payment ", "profit ", "reimbursement ", "remuneration ", "reward ", "salary ", "stipend ", "wage "], "A": ["debt ", "loss ", "penalty "]}

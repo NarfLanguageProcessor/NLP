@@ -1,0 +1,1 @@
+{"index": 322868, "D": "a person who throws silk or synthetic filaments.", "S": [], "A": []}

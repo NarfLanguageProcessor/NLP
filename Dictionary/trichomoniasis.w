@@ -1,0 +1,1 @@
+{"index": 329450, "D": "a sexually transmitted disease typically asymptomatic in men and resulting in vaginitis with a copious, frothy discharge and itching in women, caused by a trichomonad Trichomonas vaginalis.", "S": [], "A": []}

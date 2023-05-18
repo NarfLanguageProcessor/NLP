@@ -1,0 +1,1 @@
+{"index": 120414, "D": "forceful; turbulent.", "S": [], "A": []}

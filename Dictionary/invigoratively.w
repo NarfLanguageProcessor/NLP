@@ -1,0 +1,1 @@
+{"index": 157231, "D": "to give vigor to; fill with life and energy; energize. ", "S": [], "A": []}

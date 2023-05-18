@@ -1,0 +1,1 @@
+{"index": 78214, "D": "of or for ten years.", "S": ["decimal "], "A": []}

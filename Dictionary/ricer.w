@@ -1,0 +1,1 @@
+{"index": 272512, "D": "an implement for ricing  potatoes, squash, etc., by pressing them through small holes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108700, "D": "an outgoing, gregarious person who thrives in dynamic environments and seeks to maximize social engagement.", "S": ["communicable ", "communicative ", "convivial ", "extraversive ", "extravertive ", "extroversive ", "extroverted ", "extrovertive ", "friendly ", "gregarious ", "sociable ", "social ", "unreserved "], "A": []}

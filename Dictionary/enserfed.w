@@ -1,0 +1,1 @@
+{"index": 100993, "D": "to make a serf  of; place in bondage.", "S": [], "A": []}

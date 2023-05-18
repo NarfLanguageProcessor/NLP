@@ -1,0 +1,1 @@
+{"index": 16593, "D": "x-ray examination of the aorta  following injection of radiopaque dye.", "S": [], "A": []}

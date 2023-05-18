@@ -1,0 +1,1 @@
+{"index": 93141, "D": "an extinct ape of the genus Dryopithecus, known from Old World Miocene fossils.", "S": [], "A": []}

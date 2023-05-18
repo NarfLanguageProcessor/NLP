@@ -1,0 +1,1 @@
+{"index": 324616, "D": "synthetic rutile, TiO2, used as a gem.", "S": [], "A": []}

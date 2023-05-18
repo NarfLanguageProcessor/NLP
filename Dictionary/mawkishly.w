@@ -1,0 +1,1 @@
+{"index": 181497, "D": "characterized by sickly sentimentality; weakly emotional; maudlin.", "S": [], "A": []}

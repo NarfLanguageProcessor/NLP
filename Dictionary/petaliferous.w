@@ -1,0 +1,1 @@
+{"index": 232318, "D": "bearing or having petals.", "S": [], "A": []}

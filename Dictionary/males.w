@@ -1,0 +1,1 @@
+{"index": 178409, "D": " relating to or being a man or boy.", "S": ["boy ", "father ", "guy "], "A": ["girl "]}

@@ -1,0 +1,1 @@
+{"index": 149061, "D": "to affect deeply or strongly in mind or feelings; influence in opinion", "S": [], "A": []}

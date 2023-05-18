@@ -1,0 +1,1 @@
+{"index": 338719, "D": "to destroy or ruin (a building or other structure), especially on purpose; tear down; raze.", "S": [], "A": []}

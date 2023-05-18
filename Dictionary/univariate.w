@@ -1,0 +1,1 @@
+{"index": 345107, "D": "(of a distribution) having one variate. ", "S": [], "A": []}

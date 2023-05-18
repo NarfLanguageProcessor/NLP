@@ -1,0 +1,1 @@
+{"index": 194177, "D": "a hollow form or matrix for giving a particular shape to something in a molten or plastic state.", "S": ["blight ", "mold "], "A": []}

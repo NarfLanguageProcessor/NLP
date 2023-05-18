@@ -1,0 +1,1 @@
+{"index": 12670, "D": "the state or condition of being an angel;  angelic nature.", "S": [], "A": []}

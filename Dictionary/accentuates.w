@@ -1,0 +1,1 @@
+{"index": 1464, "D": "to give emphasis or prominence to.", "S": ["emphasize ", "highlight ", "point up ", "underline ", "underscore "], "A": ["mask "]}

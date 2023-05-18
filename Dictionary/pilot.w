@@ -1,0 +1,1 @@
+{"index": 236774, "D": "a person duly qualified to steer ships into or out of a harbor or through certain difficult waters.", "S": ["aviator ", "captain ", "flier ", "leader ", "navigator "], "A": []}

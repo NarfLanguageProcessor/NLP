@@ -1,0 +1,1 @@
+{"index": 38253, "D": "the practice of dealing with scofflaws by attaching a boot  to the wheel of a car, immobilizing it until its owner reports to the police or pays delinquent fines.", "S": ["footwear "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 238234, "D": "a container, usually with a handle and spout or lip, for holding and pouring liquids.", "S": [], "A": []}

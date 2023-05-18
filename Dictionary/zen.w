@@ -1,0 +1,1 @@
+{"index": 369045, "D": "Compare koan, mondo1. ", "S": [], "A": []}

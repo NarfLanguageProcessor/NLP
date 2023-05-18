@@ -1,0 +1,1 @@
+{"index": 11171, "D": "a son of Antiope by Zeus, and the husband of Niobe. With his twin brother, Zethus, he built the walls of Thebes, charming the stones into place with his lyre.", "S": [], "A": []}

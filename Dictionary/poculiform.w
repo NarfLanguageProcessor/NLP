@@ -1,0 +1,1 @@
+{"index": 240977, "D": "having the shape of a cup;  cup-shaped.", "S": [], "A": []}

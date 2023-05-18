@@ -1,0 +1,1 @@
+{"index": 175215, "D": "a tree trimmed of all but its topmost branches to serve as a landmark or marker.", "S": [], "A": []}

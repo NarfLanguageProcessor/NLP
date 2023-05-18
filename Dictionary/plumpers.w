@@ -1,0 +1,1 @@
+{"index": 240481, "D": "an act of falling heavily; a plumping. ", "S": [], "A": []}

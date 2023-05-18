@@ -1,0 +1,1 @@
+{"index": 124413, "D": "a movement or position of the hand, arm, body, head, or face that is expressive of an idea, opinion, emotion, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 212004, "D": "U.S. sculptor, born in Sweden.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128265, "D": "a city in S Thuringia, in central Germany.", "S": [], "A": []}

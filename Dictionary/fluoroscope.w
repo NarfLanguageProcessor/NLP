@@ -1,0 +1,1 @@
+{"index": 115484, "D": "a tube or box fitted with a screen coated with a fluorescent substance, used for viewing objects, especially deep body structures, by means of x-ray or other radiation.", "S": ["Roentgen rays ", "R\u00f6ntgen rays ", "radioactivity "], "A": []}

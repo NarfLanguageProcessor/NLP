@@ -1,0 +1,1 @@
+{"index": 236042, "D": "of or derived from picric acid. ", "S": [], "A": []}

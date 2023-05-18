@@ -1,0 +1,1 @@
+{"index": 80319, "D": "a member of the Democratic Party.", "S": [], "A": []}

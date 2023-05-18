@@ -1,0 +1,1 @@
+{"index": 35315, "D": "Compare many-valued logic", "S": [], "A": []}

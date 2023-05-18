@@ -1,0 +1,1 @@
+{"index": 352572, "D": "to retract (something sworn  or sworn  to); recant by a subsequent oath; abjure.", "S": [], "A": []}

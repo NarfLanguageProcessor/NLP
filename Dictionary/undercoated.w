@@ -1,0 +1,1 @@
+{"index": 339006, "D": "a coat  or jacket worn under another.", "S": [], "A": []}

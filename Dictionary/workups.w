@@ -1,0 +1,1 @@
+{"index": 367553, "D": "a thorough medical diagnostic examination including laboratory tests and x-rays.", "S": [], "A": []}

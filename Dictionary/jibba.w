@@ -1,0 +1,1 @@
+{"index": 161150, "D": "a long, collarless coat or smock worn by Muslims.", "S": [], "A": []}

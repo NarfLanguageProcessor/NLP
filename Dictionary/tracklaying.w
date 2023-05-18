@@ -1,0 +1,1 @@
+{"index": 327175, "D": "(of a vehicle) having an endless jointed metal band around the wheels", "S": [], "A": []}

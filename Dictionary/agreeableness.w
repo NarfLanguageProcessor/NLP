@@ -1,0 +1,1 @@
+{"index": 6449, "D": "the state or condition of being pleasing or likeable", "S": ["affability ", "agreeability ", "amiableness ", "bonhomie ", "congeniality ", "cordiality ", "friendliness ", "geniality ", "good-naturedness ", "graciousness ", "pleasantness ", "sociability ", "sociableness ", "warmth "], "A": ["aloofness ", "coldness ", "coolness "]}

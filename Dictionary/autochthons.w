@@ -1,0 +1,1 @@
+{"index": 23941, "D": "an aboriginal inhabitant.", "S": ["aboriginal ", "indigene ", "native "], "A": []}

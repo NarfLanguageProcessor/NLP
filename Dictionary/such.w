@@ -1,0 +1,1 @@
+{"index": 309933, "D": "of the kind, character, degree, extent, etc., of that or those indicated or implied", "S": ["aforesaid ", "akin ", "alike ", "analogous ", "comparable ", "corresponding ", "equivalent ", "like ", "parallel ", "said ", "similar ", "such a one ", "such a person ", "such a thing ", "suchlike ", "that ", "the like ", "this "], "A": []}

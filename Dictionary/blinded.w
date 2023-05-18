@@ -1,0 +1,1 @@
+{"index": 36212, "D": "unable to see; having severely impaired or absolutely no sense of sight; sightless", "S": ["dazed ", "distracted ", "dumb ", "giddy ", "groggy ", "shaky ", "wobbly ", "woozy "], "A": ["steady ", "clear "]}

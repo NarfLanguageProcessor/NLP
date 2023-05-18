@@ -1,0 +1,1 @@
+{"index": 29473, "D": "the edible nutritious seed of various plants of the legume family, especially of the genus Phaseolus.", "S": ["berry ", "grain ", "kernel "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86156, "D": "a small locomotive, especially with a switch engine.", "S": [], "A": []}

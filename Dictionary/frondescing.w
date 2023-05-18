@@ -1,0 +1,1 @@
+{"index": 119316, "D": [], "S": ["cleave ", "crack ", "dehisce ", "divide ", "gap ", "part ", "split ", "yaw ", "yawn "], "A": ["combine ", "connect ", "join ", "unite "]}

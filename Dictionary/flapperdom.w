@@ -1,0 +1,1 @@
+{"index": 113981, "D": "something broad and flat used for striking or for making a noise by striking.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 77157, "D": "a collection of data records for computer processing.", "S": ["ASCII file ", "data file ", "file ", "text ", "word processing file "], "A": []}

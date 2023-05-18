@@ -1,0 +1,1 @@
+{"index": 194690, "D": "to mix up in a confused or bungling manner; jumble. ", "S": [], "A": []}

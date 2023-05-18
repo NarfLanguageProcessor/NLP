@@ -1,0 +1,1 @@
+{"index": 62384, "D": "characterized by or causing cohesion", "S": ["close-knit ", "united "], "A": ["detached ", "divided ", "loose ", "separated ", "disjointed ", "friable ", "unconnected "]}

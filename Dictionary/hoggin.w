@@ -1,0 +1,1 @@
+{"index": 142253, "D": "a finely sifted gravel containing enough clay binder for it to be used in its natural form for making paths or roads", "S": [], "A": []}

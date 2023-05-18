@@ -1,0 +1,1 @@
+{"index": 82783, "D": "loss of hope; hopelessness.", "S": ["anguish ", "desperation ", "despondency ", "discouragement ", "gloom ", "melancholy ", "misery ", "pain ", "sorrow "], "A": ["cheer ", "comfort ", "contentment ", "encouragement ", "happiness ", "joy ", "pleasure ", "peace "]}

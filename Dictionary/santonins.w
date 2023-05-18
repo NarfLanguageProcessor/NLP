@@ -1,0 +1,1 @@
+{"index": 278070, "D": "a crystalline compound, C15H18O3, the active principle of santonica. ", "S": [], "A": []}

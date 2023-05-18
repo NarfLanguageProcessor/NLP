@@ -1,0 +1,1 @@
+{"index": 272308, "D": "a low North American shrub, Rhododendron canadense, of the heath family, having rose-colored flowers that appear before the leaves.", "S": [], "A": []}

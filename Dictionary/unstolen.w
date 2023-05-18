@@ -1,0 +1,1 @@
+{"index": 352081, "D": "past participle of steal. ", "S": [], "A": []}

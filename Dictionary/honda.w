@@ -1,0 +1,1 @@
+{"index": 143314, "D": "an eye at one end of a lariat through which the other end is passed to form a lasso, noose, etc.", "S": [], "A": []}

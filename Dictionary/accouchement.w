@@ -1,0 +1,1 @@
+{"index": 1713, "D": "the confinement of childbirth; lying-in.", "S": ["birthing ", "childbearing ", "childbed ", "childbirth ", "delivery ", "labor ", "lying-in ", "parturition "], "A": []}

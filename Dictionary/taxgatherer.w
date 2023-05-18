@@ -1,0 +1,1 @@
+{"index": 317299, "D": "a person who collects taxes.", "S": [], "A": []}

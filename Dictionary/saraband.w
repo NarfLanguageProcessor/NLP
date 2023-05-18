@@ -1,0 +1,1 @@
+{"index": 278268, "D": "a slow, stately Spanish dance, especially of the 17th and 18th centuries, in triple meter, derived from a vigorous castanet dance.", "S": [], "A": []}

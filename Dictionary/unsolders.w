@@ -1,0 +1,1 @@
+{"index": 351526, "D": "to separate (something soldered).", "S": [], "A": []}

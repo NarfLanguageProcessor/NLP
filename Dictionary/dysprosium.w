@@ -1,0 +1,1 @@
+{"index": 89212, "D": "a rare-earth metallic element, highly reactive and paramagnetic, found in small amounts in various rare-earth minerals, as euxenite and monazite", "S": [], "A": []}

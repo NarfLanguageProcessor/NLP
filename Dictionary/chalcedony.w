@@ -1,0 +1,1 @@
+{"index": 52079, "D": "a microcrystalline, translucent variety of quartz, often milky or grayish.", "S": [], "A": []}

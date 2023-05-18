@@ -1,0 +1,1 @@
+{"index": 309895, "D": "a succubus.", "S": ["demon ", "devil ", "fiend ", "goblin ", "hobgoblin ", "nightmare ", "succubus "], "A": ["angel ", "god "]}

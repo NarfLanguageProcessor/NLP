@@ -1,0 +1,1 @@
+{"index": 55103, "D": "the quality, state, or degree of being chlorinous.", "S": [], "A": []}

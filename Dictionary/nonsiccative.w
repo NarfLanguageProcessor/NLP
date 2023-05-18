@@ -1,0 +1,1 @@
+{"index": 207229, "D": "causing or promoting absorption of moisture; drying.", "S": [], "A": []}

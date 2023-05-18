@@ -1,0 +1,1 @@
+{"index": 18293, "D": "the Altar, a southern constellation between Triangulum Australe and Scorpius.", "S": [], "A": []}

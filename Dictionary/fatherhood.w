@@ -1,0 +1,1 @@
+{"index": 110267, "D": "the state of being a father.", "S": ["parenthood "], "A": []}

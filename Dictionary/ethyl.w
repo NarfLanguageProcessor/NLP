@@ -1,0 +1,1 @@
+{"index": 104978, "D": "containing the ethyl group,  as ethyl ether,  C4H10O.", "S": [], "A": []}

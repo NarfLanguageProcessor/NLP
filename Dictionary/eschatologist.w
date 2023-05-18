@@ -1,0 +1,1 @@
+{"index": 104179, "D": "any system of doctrines concerning last, or final, matters, as death, the Judgment, the afterlife, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246484, "D": "to destroy or expend by use; use up.", "S": [], "A": []}

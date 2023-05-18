@@ -1,0 +1,1 @@
+{"index": 221451, "D": "the state or fact of being sufficient;  adequacy.", "S": [], "A": []}

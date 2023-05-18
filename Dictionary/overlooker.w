@@ -1,0 +1,1 @@
+{"index": 220127, "D": "another word (less common) for overseer (def. 1)", "S": [], "A": []}

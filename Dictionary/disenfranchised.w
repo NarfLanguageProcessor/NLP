@@ -1,0 +1,1 @@
+{"index": 87946, "D": "deprived of any of the rights or privileges of citizens, especially the right to vote", "S": ["defenseless ", "helpless ", "impotent ", "incapable ", "ineffective ", "ineffectual ", "inert ", "paralyzed ", "passive ", "vulnerable "], "A": ["able ", "active ", "capable ", "competent ", "effective ", "lively ", "strong "]}

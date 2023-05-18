@@ -1,0 +1,1 @@
+{"index": 26992, "D": "the science or study of the motion of projectiles, as bullets, shells, or bombs.", "S": [], "A": []}

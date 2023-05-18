@@ -1,0 +1,1 @@
+{"index": 318436, "D": "orientation or movement, by an organism with sensory receptors, toward or away from a particular source of stimulation.", "S": [], "A": []}

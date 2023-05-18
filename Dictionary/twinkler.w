@@ -1,0 +1,1 @@
+{"index": 333387, "D": "to shine with a flickering gleam of light, as a star or distant light.", "S": [], "A": []}

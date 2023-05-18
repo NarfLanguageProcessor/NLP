@@ -1,0 +1,1 @@
+{"index": 278769, "D": "a writer of satires. ", "S": ["detractor ", "doubter ", "pessimist ", "skeptic "], "A": ["believer "]}

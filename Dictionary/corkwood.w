@@ -1,0 +1,1 @@
+{"index": 69197, "D": "a stout shrub or small tree, Leitneria floridana, having light green deciduous leaves, woolly catkins, and a drupaceous fruit.", "S": [], "A": []}

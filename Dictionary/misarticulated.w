@@ -1,0 +1,1 @@
+{"index": 188720, "D": "uttered clearly in distinct syllables.", "S": [], "A": []}

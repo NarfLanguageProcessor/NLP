@@ -1,0 +1,1 @@
+{"index": 189732, "D": "to orient wrongly or improperly.", "S": [], "A": []}

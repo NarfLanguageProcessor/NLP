@@ -1,0 +1,1 @@
+{"index": 208120, "D": "compelling or requiring immediate action or attention; dire; pressing", "S": [], "A": []}

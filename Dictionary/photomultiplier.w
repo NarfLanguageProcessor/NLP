@@ -1,0 +1,1 @@
+{"index": 235268, "D": "an extremely sensitive detector of light and of other radiation, consisting of a tube in which the electrons released by radiation striking a photocathode are accelerated, greatly amplifying the signal obtainable from small quantities of radiation.", "S": [], "A": []}

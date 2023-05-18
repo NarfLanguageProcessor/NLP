@@ -1,0 +1,1 @@
+{"index": 183969, "D": "the wishbone or furcula of a fowl.", "S": [], "A": []}

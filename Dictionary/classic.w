@@ -1,0 +1,1 @@
+{"index": 59388, "D": "of the first or highest quality, class, or rank", "S": ["simple ", "typical ", "usual "], "A": ["atypical ", "unusual ", "different "]}

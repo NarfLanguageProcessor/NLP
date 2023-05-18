@@ -1,0 +1,1 @@
+{"index": 235649, "D": "pertaining to, of the nature of, or affected by phthisis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 343638, "D": "to give careful attention to", "S": [], "A": []}

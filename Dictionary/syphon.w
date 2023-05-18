@@ -1,0 +1,1 @@
+{"index": 292208, "D": "a variant spelling of siphon", "S": [], "A": []}

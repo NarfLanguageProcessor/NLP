@@ -1,0 +1,1 @@
+{"index": 225889, "D": "a mental disorder characterized by systematized delusions and the projection of personal conflicts, which are ascribed to the supposed hostility of others, sometimes progressing to disturbances of consciousness and aggressive acts believed to be performed in self-defense or as a mission.", "S": [], "A": []}

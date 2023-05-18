@@ -1,0 +1,1 @@
+{"index": 27167, "D": "a member of a nomadic, primarily Sunni Muslim people of Baluchistan.", "S": [], "A": []}

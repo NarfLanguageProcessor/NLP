@@ -1,0 +1,1 @@
+{"index": 342572, "D": "a past participle of forget. ", "S": [], "A": []}

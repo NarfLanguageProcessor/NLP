@@ -1,0 +1,1 @@
+{"index": 327931, "D": "an act of transgressing;  violation of a law, command, etc.; sin.", "S": ["breach ", "crime ", "error ", "fault ", "infraction ", "infringement ", "lapse ", "misdeed ", "misdemeanor ", "sin ", "wrongdoing "], "A": ["good deed ", "perfection ", "goodness ", "kindness ", "obedience ", "submission ", "virtue "]}

@@ -1,0 +1,1 @@
+{"index": 288322, "D": "to shine with or reflect a subdued, tremulous light; gleam faintly.", "S": ["glimmer ", "glint ", "glitter ", "luster ", "sheen "], "A": ["darkness ", "dullness "]}

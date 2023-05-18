@@ -1,0 +1,1 @@
+{"index": 169580, "D": "one of the expanded, usually green organs borne by the stem of a plant.", "S": [], "A": []}

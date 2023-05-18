@@ -1,0 +1,1 @@
+{"index": 18982, "D": "arched  work or formation.", "S": ["arc ", "arch ", "bend ", "bow ", "curve ", "deflection ", "flexure ", "incurvation ", "round ", "shape "], "A": ["line "]}

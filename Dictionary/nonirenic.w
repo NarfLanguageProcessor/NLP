@@ -1,0 +1,1 @@
+{"index": 204886, "D": "tending to promote peace or reconciliation; peaceful or conciliatory.", "S": [], "A": []}

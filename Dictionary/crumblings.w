@@ -1,0 +1,1 @@
+{"index": 74183, "D": "crumbs; crumbled  bits.", "S": ["bankruptcy ", "collapse ", "demolition ", "destruction ", "extinction ", "insolvency ", "wreck ", "wreckage "], "A": ["building ", "construction ", "creation ", "accomplishment ", "achievement ", "advantage ", "attainment ", "development "]}

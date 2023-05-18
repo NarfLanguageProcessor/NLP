@@ -1,0 +1,1 @@
+{"index": 195221, "D": "pertaining to or of the nature of an ovule. ", "S": [], "A": []}

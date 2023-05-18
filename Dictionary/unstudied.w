@@ -1,0 +1,1 @@
+{"index": 352204, "D": "not studied;  not premeditated or labored; natural; unaffected.", "S": ["instinctive ", "unforced "], "A": ["prepared ", "studied "]}

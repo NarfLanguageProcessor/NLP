@@ -1,0 +1,1 @@
+{"index": 195419, "D": "(of a combined distribution) having more than one variate  or variable.", "S": [], "A": []}

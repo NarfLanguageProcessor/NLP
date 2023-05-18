@@ -1,0 +1,1 @@
+{"index": 365615, "D": "an artificial covering of hair for all or most of the head, of either synthetic or natural hair, worn to be stylish or more attractive.", "S": ["toupee "], "A": []}

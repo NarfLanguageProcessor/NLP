@@ -1,0 +1,1 @@
+{"index": 258296, "D": [], "S": ["annihilate ", "beat ", "defeat ", "demolish ", "kill ", "overcome ", "overpower ", "overwhelm ", "quell ", "ruin ", "squelch ", "stamp out ", "strangle ", "subdue ", "suppress ", "vanquish ", "wreck "], "A": ["aid ", "create ", "encourage ", "help ", "let go ", "surrender ", "yield "]}

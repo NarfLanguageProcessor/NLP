@@ -1,0 +1,1 @@
+{"index": 325431, "D": "a book, especially a very heavy, large, or learned book.", "S": ["magnum opus ", "novel ", "opus ", "publication ", "reference book ", "textbook "], "A": []}

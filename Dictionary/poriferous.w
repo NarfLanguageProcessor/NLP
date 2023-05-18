@@ -1,0 +1,1 @@
+{"index": 243410, "D": "bearing or having pores. ", "S": [], "A": []}

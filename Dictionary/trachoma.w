@@ -1,0 +1,1 @@
+{"index": 327153, "D": "a chronic, contagious infection of the conjunctiva and cornea, characterized by the formation of granulations and scarring and caused by the bacterium Chlamydia trachomatis.", "S": [], "A": []}

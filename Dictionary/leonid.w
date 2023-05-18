@@ -1,0 +1,1 @@
+{"index": 170540, "D": "any of a shower of meteors occurring around November 15 and appearing to radiate from a point in the constellation Leo.", "S": [], "A": []}

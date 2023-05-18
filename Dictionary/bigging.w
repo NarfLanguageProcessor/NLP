@@ -1,0 +1,1 @@
+{"index": 33734, "D": "a building, especially one's home.", "S": [], "A": []}

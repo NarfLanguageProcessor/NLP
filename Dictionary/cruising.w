@@ -1,0 +1,1 @@
+{"index": 74153, "D": "to sail about on a pleasure trip.", "S": ["maritime ", "navigational ", "seafaring "], "A": []}

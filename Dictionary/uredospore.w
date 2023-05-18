@@ -1,0 +1,1 @@
+{"index": 355470, "D": "any of the brownish spores that are produced in each uredium of the rust fungi and spread the infection between hosts", "S": [], "A": []}

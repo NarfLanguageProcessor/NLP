@@ -1,0 +1,1 @@
+{"index": 204764, "D": "of, relating to, or of the nature of instinct. ", "S": [], "A": []}

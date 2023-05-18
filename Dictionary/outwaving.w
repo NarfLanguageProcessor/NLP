@@ -1,0 +1,1 @@
+{"index": 217884, "D": "a disturbance on the surface of a liquid body, as the sea or a lake, in the form of a moving ridge or swell.", "S": [], "A": []}

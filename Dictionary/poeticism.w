@@ -1,0 +1,1 @@
+{"index": 241196, "D": "a poetic  expression that has become hackneyed, forced, or artificial.", "S": [], "A": []}

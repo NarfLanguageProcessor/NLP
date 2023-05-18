@@ -1,0 +1,1 @@
+{"index": 115916, "D": "a thin leaflike stratum or layer; a lamella.", "S": [], "A": []}

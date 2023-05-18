@@ -1,0 +1,1 @@
+{"index": 369513, "D": "lively; peppy.", "S": ["lively ", "peppy ", "speedy ", "sprightly "], "A": ["apathetic ", "inactive ", "lethargic "]}

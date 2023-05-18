@@ -1,0 +1,1 @@
+{"index": 278367, "D": "the membranous sheath of a muscle fiber.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 124989, "D": "cheap, showy, useless trifles, ornaments, trinkets, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 119506, "D": "a hot and stale atmosphere; fug", "S": [], "A": []}

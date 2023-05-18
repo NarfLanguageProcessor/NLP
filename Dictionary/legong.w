@@ -1,0 +1,1 @@
+{"index": 170184, "D": "an elegant Balinese dance-pantomime performed by several girls in elaborate costumes.", "S": [], "A": []}

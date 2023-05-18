@@ -1,0 +1,1 @@
+{"index": 129365, "D": "pregnant1 (def. 1). ", "S": ["fertilization ", "germination ", "gestation ", "gravidness ", "impregnation ", "parturiency ", "propagation "], "A": []}

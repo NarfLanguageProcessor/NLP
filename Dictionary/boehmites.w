@@ -1,0 +1,1 @@
+{"index": 37254, "D": "a mineral, hydrous aluminum oxide, AlO(OH), a major component of bauxite.", "S": [], "A": []}

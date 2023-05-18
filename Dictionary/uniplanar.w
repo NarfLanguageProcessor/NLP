@@ -1,0 +1,1 @@
+{"index": 344946, "D": "confined to a single plane or two-dimensional continuum", "S": [], "A": []}

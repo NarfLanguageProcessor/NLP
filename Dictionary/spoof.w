@@ -1,0 +1,1 @@
+{"index": 300832, "D": "a mocking imitation of someone or something, usually light and good-humored; lampoon or parody", "S": ["burlesque ", "caricature ", "parody ", "prank ", "satire "], "A": ["frankness ", "honesty ", "openness ", "reality ", "truth ", "truthfulness ", "uprightness "]}

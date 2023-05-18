@@ -1,0 +1,1 @@
+{"index": 8985, "D": "one of two or more existing forms of an element", "S": ["gem ", "jewel ", "rhinestone "], "A": []}

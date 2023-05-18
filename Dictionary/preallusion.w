@@ -1,0 +1,1 @@
+{"index": 245672, "D": "a passing or casual reference; an incidental mention of something, either directly or by implication", "S": [], "A": []}

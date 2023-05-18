@@ -1,0 +1,1 @@
+{"index": 159049, "D": "a person who favors or works for isolationism. ", "S": ["rigid "], "A": ["abnormal ", "different ", "exotic ", "foreign ", "irregular ", "new ", "original ", "strange ", "uncommon ", "unconventional ", "uncustomary ", "unique ", "unusual "]}

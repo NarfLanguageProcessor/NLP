@@ -1,0 +1,1 @@
+{"index": 9440, "D": "a painted or carved screen behind or above the altar  or communion table in Christian churches; reredos.", "S": [], "A": []}

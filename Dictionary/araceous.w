@@ -1,0 +1,1 @@
+{"index": 18343, "D": "belonging to the plant family Araceae.", "S": [], "A": []}

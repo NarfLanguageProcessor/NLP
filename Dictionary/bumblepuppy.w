@@ -1,0 +1,1 @@
+{"index": 42710, "D": "a game of whist played carelessly or contrary to rules and conventions.", "S": [], "A": []}

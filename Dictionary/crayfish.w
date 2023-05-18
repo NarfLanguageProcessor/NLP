@@ -1,0 +1,1 @@
+{"index": 71936, "D": "any freshwater decapod crustacean of the genera Astacus and Cambarus, closely related to but smaller than the lobsters.", "S": ["clam ", "conch ", "crawfish ", "crustacean ", "lobster ", "mollusk ", "mussel ", "oyster ", "prawn ", "scallop ", "shrimp ", "snail "], "A": []}

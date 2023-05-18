@@ -1,0 +1,1 @@
+{"index": 322381, "D": "incision into the chest cavity.", "S": [], "A": []}

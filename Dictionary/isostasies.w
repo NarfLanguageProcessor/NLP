@@ -1,0 +1,1 @@
+{"index": 159256, "D": "the equilibrium of the earth's crust, a condition in which the forces tending to elevate balance those tending to depress.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 221090, "D": "to be more important or significant by comparison", "S": ["cloud ", "dim ", "dominate ", "dwarf ", "eclipse ", "outweigh "], "A": ["clear ", "explain ", "brighten ", "fail ", "lighten "]}

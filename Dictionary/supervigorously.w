@@ -1,0 +1,1 @@
+{"index": 312872, "D": "with active strength or force; energetically or powerfully", "S": [], "A": []}

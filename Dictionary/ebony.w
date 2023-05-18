@@ -1,0 +1,1 @@
+{"index": 95017, "D": "a hard, heavy, durable wood, most highly prized when black, from various tropical trees of the genus Diospyros, as D. ebenum of southern India and Sri Lanka, used for cabinetwork, ornamental objects, etc.", "S": ["jet ", "raven ", "wood "], "A": ["white "]}

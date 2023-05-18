@@ -1,0 +1,1 @@
+{"index": 62615, "D": "a palette with irregular holes, placed between lighting and camera to prevent glare", "S": [], "A": []}

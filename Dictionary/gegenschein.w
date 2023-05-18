@@ -1,0 +1,1 @@
+{"index": 123117, "D": "a faint, elliptical patch of light in the night sky that appears opposite the sun, being a reflection of sunlight by meteoric material in space.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 48016, "D": "any of several large, North American deer of the genus Rangifer, related to the reindeer of the Old World.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 130409, "D": "U.S. general.", "S": ["brake ", "coppice ", "copse ", "covert ", "forest ", "orchard ", "plantation ", "spinney ", "stand ", "thicket ", "wood ", "woodland "], "A": []}

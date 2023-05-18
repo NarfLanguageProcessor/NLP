@@ -1,0 +1,1 @@
+{"index": 34866, "D": [], "S": ["intersection "], "A": []}

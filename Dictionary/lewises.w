@@ -1,0 +1,1 @@
+{"index": 171315, "D": "a device for lifting a dressed stone, consisting of a number of pieces fitting together to fill a dovetailed recess cut into the stone.", "S": [], "A": []}

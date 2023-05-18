@@ -1,0 +1,1 @@
+{"index": 93256, "D": "amusing in an odd way; whimsically humorous; waggish.", "S": ["eccentric ", "entertaining ", "funny ", "humorous ", "whimsical "], "A": ["boring ", "common ", "dramatic ", "dull ", "normal ", "sad ", "serious ", "standard ", "tragic ", "unamusing ", "usual "]}

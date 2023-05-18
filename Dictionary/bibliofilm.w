@@ -1,0 +1,1 @@
+{"index": 33247, "D": "a microfilm used especially in libraries to photograph the pages of valuable or much-used books.", "S": [], "A": []}

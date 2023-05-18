@@ -1,0 +1,1 @@
+{"index": 319471, "D": "any of several unsaturated, cyclic, tertiary alcohols having the formula C10H18O, occurring in nature in many essential oils or prepared synthetically", "S": [], "A": []}

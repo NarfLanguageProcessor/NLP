@@ -1,0 +1,1 @@
+{"index": 206232, "D": "by degrees or stages; incrementally", "S": [], "A": []}

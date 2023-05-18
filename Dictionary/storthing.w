@@ -1,0 +1,1 @@
+{"index": 305480, "D": "the parliament of Norway, elected by popular vote, which is divided into the upper house (Lagting,  or Lagthing ), comprising one quarter of the members, and the lower house (Odelsting,  or Odelsthing ), comprising the rest.", "S": [], "A": []}

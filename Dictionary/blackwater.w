@@ -1,0 +1,1 @@
+{"index": 35588, "D": "any of several human or animal diseases characterized by the production of dark urine as a result of the rapid breakdown of red blood cells.", "S": [], "A": []}

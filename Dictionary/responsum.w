@@ -1,0 +1,1 @@
+{"index": 269805, "D": "the reply of a noted rabbi or Jewish scholar as rendered in the Responsa.", "S": [], "A": []}

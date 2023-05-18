@@ -1,0 +1,1 @@
+{"index": 252128, "D": "producing offspring, young, fruit, etc., abundantly; highly fruitful", "S": ["abundance ", "copiousness ", "fecundity ", "fruitfulness ", "gravidity ", "luxuriance ", "plentifulness ", "potency ", "pregnancy ", "productiveness ", "productivity ", "puberty ", "pubescence ", "richness ", "virility "], "A": ["lack "]}

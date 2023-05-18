@@ -1,0 +1,1 @@
+{"index": 52731, "D": "the plural of characteristic. ", "S": ["aspect ", "attribute ", "component ", "essence ", "flavor ", "nature ", "peculiarity ", "personality ", "quality ", "style ", "symptom ", "temperament ", "tendency ", "tone ", "virtue "], "A": ["whole ", "dislike ", "hate ", "hatred ", "inability ", "unimportance "]}

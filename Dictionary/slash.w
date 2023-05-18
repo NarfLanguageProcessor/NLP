@@ -1,0 +1,1 @@
+{"index": 293697, "D": "to cut with a violent sweeping stroke or by striking violently and at random, as with a knife or sword.", "S": ["hack ", "sever ", "slice ", "slit "], "A": ["combine ", "unite ", "aid ", "heal ", "mend "]}

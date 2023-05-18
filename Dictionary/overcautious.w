@@ -1,0 +1,1 @@
+{"index": 218536, "D": "excessively or unnecessarily cautious", "S": ["cautious ", "circumspect ", "reserved ", "restrained "], "A": ["bold ", "careless ", "extroverted ", "incautious ", "outgoing ", "rash ", "uncareful "]}

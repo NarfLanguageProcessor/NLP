@@ -1,0 +1,1 @@
+{"index": 64397, "D": "in a way that shows a resemblance or similarity; similarly", "S": ["likewise "], "A": ["differently ", "dissimilarly ", "unequally ", "unevenly "]}

@@ -1,0 +1,1 @@
+{"index": 103177, "D": "in an equal  or identical manner", "S": ["equitably ", "fairly ", "justly ", "uniformly "], "A": ["unfairly ", "unjustly "]}

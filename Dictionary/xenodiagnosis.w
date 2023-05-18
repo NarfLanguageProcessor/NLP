@@ -1,0 +1,1 @@
+{"index": 368367, "D": "a method of diagnosing certain diseases caused by insects, ticks, or other vectors, by allowing uninfected vectors to feed on the patient and later examining them for infections.", "S": [], "A": []}

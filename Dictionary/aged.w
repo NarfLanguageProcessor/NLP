@@ -1,0 +1,1 @@
+{"index": 5971, "D": "having lived or existed long; of advanced age; old", "S": ["elderly "], "A": ["fresh ", "modern ", "new ", "recent ", "up-to-date ", "young "]}

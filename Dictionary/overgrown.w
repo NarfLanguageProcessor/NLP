@@ -1,0 +1,1 @@
+{"index": 219624, "D": "to grow over; cover with a growth of something.", "S": ["disproportionate ", "excessive ", "huge ", "large "], "A": []}

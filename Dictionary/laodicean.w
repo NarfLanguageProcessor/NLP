@@ -1,0 +1,1 @@
+{"index": 168254, "D": "lukewarm or indifferent, especially in religion, as were the early Christians of Laodicea. ", "S": [], "A": []}

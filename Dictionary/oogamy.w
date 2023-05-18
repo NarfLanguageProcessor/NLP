@@ -1,0 +1,1 @@
+{"index": 212996, "D": "sexual reproduction involving a small motile male gamete and a large much less motile female gamete", "S": [], "A": []}

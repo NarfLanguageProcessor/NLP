@@ -1,0 +1,1 @@
+{"index": 310008, "D": "(especially in former systems of classification) of or relating to a residual category of African languages including most of the non-Bantu and non-Hamitic languages of northern and central Africa", "S": [], "A": []}

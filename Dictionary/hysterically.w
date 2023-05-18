@@ -1,0 +1,1 @@
+{"index": 141743, "D": "in an unrestrained or uncontrolled way", "S": ["crazily ", "desperately ", "energetically ", "excitedly ", "foolishly ", "frantically ", "furiously ", "hastily ", "intensely ", "passionately ", "recklessly ", "violently "], "A": ["calmly ", "normally "]}

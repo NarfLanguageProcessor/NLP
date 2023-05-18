@@ -1,0 +1,1 @@
+{"index": 236002, "D": "a combining form meaning \u201cone trillionth\u201d (10\u221212)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 18302, "D": "a sinuous, spiraling, undulating, or serpentine line or linear motif.", "S": [], "A": []}

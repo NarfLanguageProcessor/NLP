@@ -1,0 +1,1 @@
+{"index": 260379, "D": "violent or excited behavior that is reckless, uncontrolled, or destructive.", "S": [], "A": []}

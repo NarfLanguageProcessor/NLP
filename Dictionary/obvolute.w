@@ -1,0 +1,1 @@
+{"index": 210625, "D": "rolled or turned in.", "S": ["imbricated "], "A": []}

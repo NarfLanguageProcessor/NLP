@@ -1,0 +1,1 @@
+{"index": 145835, "D": "(of a medical disorder) caused by the diagnosis, manner, or treatment of a physician.", "S": [], "A": []}

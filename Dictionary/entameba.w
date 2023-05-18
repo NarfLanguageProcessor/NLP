@@ -1,0 +1,1 @@
+{"index": 101165, "D": "any protozoan of the genus Entamoeba, members of which are parasitic in vertebrates, including the human pathogens E. gingivalis, found in dental plaque, and E. histolytica, the cause of amebic dysentery.", "S": [], "A": []}

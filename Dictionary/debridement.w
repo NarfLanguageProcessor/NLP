@@ -1,0 +1,1 @@
+{"index": 77835, "D": "surgical removal of foreign matter and dead tissue from a wound.", "S": [], "A": []}

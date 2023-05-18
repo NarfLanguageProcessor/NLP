@@ -1,0 +1,1 @@
+{"index": 176828, "D": "a raincoat made of rubberized cloth.", "S": ["overcoat ", "slicker ", "trench coat "], "A": []}

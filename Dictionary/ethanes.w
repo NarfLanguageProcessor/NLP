@@ -1,0 +1,1 @@
+{"index": 104871, "D": "a colorless, odorless, flammable gas, C2H6, of the methane series, present in natural gas, illuminating gas, and crude petroleum", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 68020, "D": "a person who enjoys and contributes to good conversation;  an interesting person in conversation. ", "S": ["chatterbox ", "chatterer ", "communicator ", "conversationist ", "raconteur "], "A": []}

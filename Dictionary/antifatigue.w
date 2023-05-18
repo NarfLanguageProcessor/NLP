@@ -1,0 +1,1 @@
+{"index": 15238, "D": "weariness from bodily or mental exertion.", "S": [], "A": []}

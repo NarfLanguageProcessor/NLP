@@ -1,0 +1,1 @@
+{"index": 255572, "D": "a common mineral consisting of a mixture of pyrolusite and other oxides of manganese, usually found in black, rounded masses", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 121090, "D": "of or relating to the Milky Way.", "S": ["astronomical ", "cosmic "], "A": []}

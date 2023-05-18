@@ -1,0 +1,1 @@
+{"index": 243706, "D": "a descriptive atlas of the Middle Ages, giving sailing directions and providing charts showing rhumb lines and the location of ports and various coastal features.", "S": [], "A": []}

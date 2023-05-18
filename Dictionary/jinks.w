@@ -1,0 +1,1 @@
+{"index": 161326, "D": "boisterous or mischievous play (esp in the phrase high jinks)", "S": [], "A": []}

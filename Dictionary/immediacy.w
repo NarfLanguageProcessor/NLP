@@ -1,0 +1,1 @@
+{"index": 147904, "D": "the state, condition, or quality of being immediate.", "S": ["adjacency ", "approach ", "approximation ", "closeness ", "contiguity ", "imminence ", "likeness ", "loom ", "neighborhood ", "propinquity ", "proximity ", "resemblance ", "similarity ", "vicinity "], "A": ["difference ", "dissimilarity ", "unlikeness "]}

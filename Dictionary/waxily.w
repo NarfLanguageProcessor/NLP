@@ -1,0 +1,1 @@
+{"index": 363419, "D": "resembling wax  in appearance or characteristics", "S": [], "A": []}

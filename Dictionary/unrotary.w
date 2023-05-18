@@ -1,0 +1,1 @@
+{"index": 350075, "D": "turning or capable of turning around on an axis, as a wheel.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 207736, "D": "a person who cannot swim", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 217942, "D": "to get the better of by superior ingenuity or cleverness; outsmart", "S": ["gamesmanship "], "A": []}

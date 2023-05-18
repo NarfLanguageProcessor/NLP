@@ -1,0 +1,1 @@
+{"index": 297043, "D": "the season between spring and autumn, in the Northern Hemisphere from the summer solstice  to the autumnal equinox, and in the Southern Hemisphere from the winter solstice to the vernal equinox.", "S": [], "A": []}

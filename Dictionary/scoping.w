@@ -1,0 +1,1 @@
+{"index": 281204, "D": "the act or practice of eyeing or examining, as in order to evaluate or appreciate.", "S": ["audit ", "check out ", "go through ", "investigate ", "observe ", "oversee ", "probe ", "review ", "scan ", "scrutinize ", "search ", "supervise ", "survey ", "watch "], "A": ["ignore ", "neglect ", "overlook ", "answer ", "reply "]}

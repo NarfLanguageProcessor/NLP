@@ -1,0 +1,1 @@
+{"index": 122711, "D": "a plant where heating and illuminating gas is manufactured and piped to homes and buildings.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 347788, "D": "clearly expressed or presented; lucid. ", "S": [], "A": []}

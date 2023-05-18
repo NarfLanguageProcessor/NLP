@@ -1,0 +1,1 @@
+{"index": 321521, "D": "a device, including a relay actuated by thermal conduction or convection, that functions to establish and maintain a desired temperature automatically or signals a change in temperature for manual adjustment.", "S": ["manager "], "A": []}

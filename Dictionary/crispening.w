@@ -1,0 +1,1 @@
+{"index": 73347, "D": "to make or become crisp. ", "S": [], "A": []}

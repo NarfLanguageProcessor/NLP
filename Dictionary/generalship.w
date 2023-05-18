@@ -1,0 +1,1 @@
+{"index": 123482, "D": "skill as commander of a large military force or unit.", "S": ["approach ", "campaign ", "channels ", "course ", "defense ", "device ", "disposition ", "line ", "maneuver ", "means ", "method ", "move ", "plan ", "ploy ", "policy ", "procedure ", "scheme ", "stratagem ", "system ", "tack ", "technique ", "trick ", "way "], "A": []}

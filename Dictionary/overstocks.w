@@ -1,0 +1,1 @@
+{"index": 221366, "D": "to stock  to excess", "S": ["balance ", "fat ", "glut ", "overflow ", "overrun ", "oversupply ", "remainder ", "surfeit "], "A": ["base ", "core ", "lack ", "need ", "want "]}

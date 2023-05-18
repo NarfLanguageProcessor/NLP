@@ -1,0 +1,1 @@
+{"index": 152658, "D": "any of various lines for hauling  a sail, spar, etc., inward or inboard in order to stow it after use.", "S": [], "A": []}

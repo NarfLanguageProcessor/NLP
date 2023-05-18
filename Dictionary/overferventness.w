@@ -1,0 +1,1 @@
+{"index": 219362, "D": "having or showing great warmth or intensity of spirit, feeling, enthusiasm, etc.; ardent", "S": [], "A": []}

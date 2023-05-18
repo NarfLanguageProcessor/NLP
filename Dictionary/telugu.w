@@ -1,0 +1,1 @@
+{"index": 318462, "D": "a Dravidian language spoken mainly in Andhra Pradesh state, SE India.", "S": [], "A": []}

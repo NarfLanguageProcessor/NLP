@@ -1,0 +1,1 @@
+{"index": 131619, "D": "the act of making gutters. ", "S": ["dip ", "disappear ", "drop ", "duck ", "fall ", "jump ", "leap ", "lunge ", "nose-dive ", "plummet ", "plunge ", "swoop ", "vanish ", "vault "], "A": ["ascend ", "rise "]}

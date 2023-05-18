@@ -1,0 +1,1 @@
+{"index": 129461, "D": "the Honour School of Literae Humaniores, involving the study of Greek and Roman history and literature and philosophy", "S": [], "A": []}

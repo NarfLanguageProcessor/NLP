@@ -1,0 +1,1 @@
+{"index": 117086, "D": "to tell of beforehand; predict; prophesy.", "S": ["augur ", "clairvoyant ", "diviner ", "fortune teller ", "mystic ", "oracle ", "prophesier ", "prophetess ", "seer ", "sibyl ", "soothsayer ", "vaticinator "], "A": []}

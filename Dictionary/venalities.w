@@ -1,0 +1,1 @@
+{"index": 357923, "D": "the condition or quality of being venal;  openness to bribery or corruption.", "S": ["dishonesty ", "sordidness "], "A": []}

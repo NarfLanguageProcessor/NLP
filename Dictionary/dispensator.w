@@ -1,0 +1,1 @@
+{"index": 88938, "D": "a person who dispenses; distributor; administrator.", "S": [], "A": []}

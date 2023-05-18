@@ -1,0 +1,1 @@
+{"index": 133509, "D": "something that happens;  occurrence; event.", "S": ["current events ", "hard news "], "A": []}

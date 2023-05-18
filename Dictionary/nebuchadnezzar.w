@@ -1,0 +1,1 @@
+{"index": 197668, "D": "a king of Babylonia, 604?\u2013561? b.c., and conqueror of Jerusalem. 2 Kings 24, 25.", "S": [], "A": []}

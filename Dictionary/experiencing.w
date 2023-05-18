@@ -1,0 +1,1 @@
+{"index": 107715, "D": "a particular instance of personally encountering or undergoing something", "S": ["appreciate ", "experience ", "have ", "learn ", "notice ", "perceive ", "realize ", "recognize ", "see "], "A": ["ignore ", "miss ", "misunderstand ", "neglect ", "overlook ", "confuse ", "mix up "]}

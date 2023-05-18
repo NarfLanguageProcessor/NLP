@@ -1,0 +1,1 @@
+{"index": 195958, "D": "meal, especially cornmeal, boiled in water or milk until it forms a thick, soft mass, or until it is stiff enough to mold into a loaf for slicing and frying.", "S": ["cereal ", "hominy ", "porridge "], "A": []}

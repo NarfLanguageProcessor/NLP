@@ -1,0 +1,1 @@
+{"index": 148878, "D": "of much or great significance or consequence", "S": ["chiefly ", "especially ", "in particular ", "mainly ", "most of all ", "mostly ", "primarily ", "principally ", "supremely "], "A": ["lastly "]}

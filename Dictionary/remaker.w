@@ -1,0 +1,1 @@
+{"index": 267106, "D": "to make  again or anew.", "S": [], "A": []}

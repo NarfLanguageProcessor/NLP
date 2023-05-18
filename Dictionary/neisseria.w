@@ -1,0 +1,1 @@
+{"index": 198173, "D": "any of several spherical bacteria of the genus Neisseria, certain species of which, as N. gonorrhoeae, are pathogenic for humans.", "S": [], "A": []}

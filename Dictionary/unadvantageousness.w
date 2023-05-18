@@ -1,0 +1,1 @@
+{"index": 334673, "D": "providing an advantage;  furnishing convenience or opportunity; favorable; profitable; useful; beneficial", "S": [], "A": []}

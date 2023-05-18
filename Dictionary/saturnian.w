@@ -1,0 +1,1 @@
+{"index": 278863, "D": "of or relating to the planet Saturn.", "S": [], "A": []}

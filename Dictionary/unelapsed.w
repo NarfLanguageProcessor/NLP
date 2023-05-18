@@ -1,0 +1,1 @@
+{"index": 341084, "D": "(of time) to slip or pass by", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 39220, "D": "a knot used to make a nonslipping loop on the end of a rope.", "S": [], "A": []}

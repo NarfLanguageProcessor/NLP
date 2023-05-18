@@ -1,0 +1,1 @@
+{"index": 176980, "D": "a stone tool about 1 foot (30 centimeters) long.", "S": [], "A": []}

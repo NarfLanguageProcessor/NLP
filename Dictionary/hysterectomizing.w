@@ -1,0 +1,1 @@
+{"index": 141731, "D": "to remove the uterus from by surgery.", "S": [], "A": []}

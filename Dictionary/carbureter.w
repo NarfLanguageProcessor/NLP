@@ -1,0 +1,1 @@
+{"index": 47601, "D": "a device for mixing vaporized fuel with air to produce a combustible or explosive mixture, as for an internal-combustion engine.", "S": [], "A": []}

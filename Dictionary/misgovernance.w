@@ -1,0 +1,1 @@
+{"index": 189351, "D": "to govern or manage badly.", "S": [], "A": []}

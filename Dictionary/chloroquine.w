@@ -1,0 +1,1 @@
+{"index": 55222, "D": "a synthetic substance, C18H26ClN3, used chiefly to control malaria attacks.", "S": [], "A": []}

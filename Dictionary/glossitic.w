@@ -1,0 +1,1 @@
+{"index": 126682, "D": "inflammation of the tongue.", "S": [], "A": []}

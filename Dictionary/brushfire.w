@@ -1,0 +1,1 @@
+{"index": 41809, "D": "a fire in an area of bushes, shrubs, or brush, as distinct from a forest fire.", "S": [], "A": []}

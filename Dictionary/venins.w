@@ -1,0 +1,1 @@
+{"index": 358094, "D": "any of several poisonous substances occurring in snake venom. ", "S": ["bacteria ", "contamination ", "germ ", "toxin ", "venom ", "virus "], "A": ["blessing ", "sterility "]}

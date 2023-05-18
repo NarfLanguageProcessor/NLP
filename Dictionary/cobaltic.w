@@ -1,0 +1,1 @@
+{"index": 61177, "D": "of or containing cobalt,  especially in the trivalent state.", "S": [], "A": []}

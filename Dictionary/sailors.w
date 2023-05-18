@@ -1,0 +1,1 @@
+{"index": 276806, "D": "a person whose occupation is sailing  or navigation; mariner.", "S": ["band ", "company ", "corps ", "crowd ", "gang ", "squad ", "team ", "troop "], "A": ["individual ", "one "]}

@@ -1,0 +1,1 @@
+{"index": 264658, "D": "the act or an instance of re-emerging", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148342, "D": "without emotion; apathetic; unmoved.", "S": ["bravely ", "calmly ", "meekly ", "quietly "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 164557, "D": "a unit of capacity, usually equal to half a barrel or two firkins.", "S": [], "A": []}

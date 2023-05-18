@@ -1,0 +1,1 @@
+{"index": 225802, "D": "related to the medical  profession in a secondary or supplementary capacity.", "S": [], "A": []}

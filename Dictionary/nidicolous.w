@@ -1,0 +1,1 @@
+{"index": 199769, "D": "remaining in the nest for a period after hatching.", "S": [], "A": []}

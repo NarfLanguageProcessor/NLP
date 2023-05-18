@@ -1,0 +1,1 @@
+{"index": 113039, "D": "an inhabitant of Finland,  especially a native who customarily speaks Swedish.", "S": [], "A": []}

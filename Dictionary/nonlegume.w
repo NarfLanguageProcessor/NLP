@@ -1,0 +1,1 @@
+{"index": 204981, "D": "any plant of the legume family,  especially those used for feed, food, or as a soil-improving crop.", "S": [], "A": []}

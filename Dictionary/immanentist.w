@@ -1,0 +1,1 @@
+{"index": 147849, "D": "the belief that the Deity indwells and operates directly within the universe or nature.", "S": [], "A": []}

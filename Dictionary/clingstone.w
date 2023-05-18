@@ -1,0 +1,1 @@
+{"index": 60039, "D": "having a pit to which the pulp adheres closely, as certain peaches and plums.", "S": [], "A": []}

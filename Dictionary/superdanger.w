@@ -1,0 +1,1 @@
+{"index": 311631, "D": "liability or exposure to harm or injury; risk; peril.", "S": [], "A": []}

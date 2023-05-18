@@ -1,0 +1,1 @@
+{"index": 214236, "D": "of or relating to an order, as of animals or plants.", "S": [], "A": []}

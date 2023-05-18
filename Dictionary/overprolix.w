@@ -1,0 +1,1 @@
+{"index": 220660, "D": "extended to great, unnecessary, or tedious length; long and wordy.", "S": [], "A": []}

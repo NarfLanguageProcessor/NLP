@@ -1,0 +1,1 @@
+{"index": 73749, "D": "a projection at a corner of a door or window architrave.", "S": [], "A": []}

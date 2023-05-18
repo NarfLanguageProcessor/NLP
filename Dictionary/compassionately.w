@@ -1,0 +1,1 @@
+{"index": 64452, "D": "having or showing compassion", "S": ["affectionately ", "delicately ", "generously ", "genially ", "graciously ", "helpfully ", "politely ", "sympathetically ", "tenderly ", "thoughtfully "], "A": ["inconsiderately ", "unkindly "]}

@@ -1,0 +1,1 @@
+{"index": 184800, "D": "a compound exhibiting metamerism with one or more other compounds.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 74238, "D": "coagulated blood, or the portion of the blood that forms the clot.", "S": ["juice "], "A": []}

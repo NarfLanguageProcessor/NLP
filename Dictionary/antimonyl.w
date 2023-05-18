@@ -1,0 +1,1 @@
+{"index": 15627, "D": "the univalent group \u2013SbO, believed to exist in certain compounds, as antimony potassium tartrate,  K(SbO)C4H4O6.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 278285, "D": "a thermoplastic copolymer of vinylidene chloride and usually small amounts of vinyl chloride or acrylonitrile", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 67661, "D": "of or relating to flight in the orbit of, but in a direction contrary to, a given rocket, ballistic missile, satellite, etc.", "S": [], "A": []}

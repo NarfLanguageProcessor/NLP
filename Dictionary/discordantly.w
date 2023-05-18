@@ -1,0 +1,1 @@
+{"index": 87600, "D": "being at variance; disagreeing; incongruous", "S": ["individually ", "negatively ", "separately ", "variously "], "A": ["together "]}

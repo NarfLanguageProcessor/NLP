@@ -1,0 +1,1 @@
+{"index": 336015, "D": "given to or characterized by boasting. ", "S": ["humble ", "moderate ", "prudent ", "quiet ", "simple ", "unassuming "], "A": ["brave ", "complex ", "complicated ", "intricate "]}

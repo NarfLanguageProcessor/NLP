@@ -1,0 +1,1 @@
+{"index": 178120, "D": "the act of a person or thing that makes", "S": ["accomplishing ", "building ", "composing ", "constructing ", "creating ", "effecting ", "executing ", "fabricating ", "fashioning ", "forging ", "forming ", "generating ", "manufacturing ", "originating ", "producing ", "shaping "], "A": []}

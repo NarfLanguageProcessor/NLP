@@ -1,0 +1,1 @@
+{"index": 261611, "D": "to adjust  again or anew; rearrange.", "S": ["adapt ", "adjust ", "alter ", "regulate "], "A": ["disarrange ", "disorder ", "disorganize ", "unfit "]}

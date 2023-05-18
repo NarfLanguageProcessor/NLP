@@ -1,0 +1,1 @@
+{"index": 191295, "D": "a former gold coin of Portugal and Brazil.", "S": [], "A": []}

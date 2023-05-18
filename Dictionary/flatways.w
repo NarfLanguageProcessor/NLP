@@ -1,0 +1,1 @@
+{"index": 114144, "D": "with the flat or broad side down or in contact with another surface", "S": [], "A": []}

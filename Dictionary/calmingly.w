@@ -1,0 +1,1 @@
+{"index": 45382, "D": "without rough motion; still or nearly still", "S": [], "A": []}

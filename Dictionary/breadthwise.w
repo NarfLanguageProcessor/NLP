@@ -1,0 +1,1 @@
+{"index": 40224, "D": "in the direction of the breadth. ", "S": [], "A": []}

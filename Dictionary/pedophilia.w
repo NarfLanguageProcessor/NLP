@@ -1,0 +1,1 @@
+{"index": 228990, "D": "sexual desire in an adult for a child.", "S": [], "A": []}

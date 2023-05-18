@@ -1,0 +1,1 @@
+{"index": 202533, "D": "tending to correct  or rectify; remedial", "S": [], "A": []}

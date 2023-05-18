@@ -1,0 +1,1 @@
+{"index": 32713, "D": "an East Indian pepper plant, Piper betle, the leaves of which are chewed with other ingredients.", "S": [], "A": []}

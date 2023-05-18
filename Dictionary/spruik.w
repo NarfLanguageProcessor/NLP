@@ -1,0 +1,1 @@
+{"index": 301417, "D": "to make or give a speech, especially extensively or elaborately; spiel; orate.", "S": [], "A": []}

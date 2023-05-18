@@ -1,0 +1,1 @@
+{"index": 21980, "D": "See under standard time. ", "S": [], "A": []}

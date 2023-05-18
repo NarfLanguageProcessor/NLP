@@ -1,0 +1,1 @@
+{"index": 355717, "D": "a brownish pigment found in faeces and sometimes in urine. It is formed by oxidation of urobilinogen, a colourless substance produced by bacterial degradation of the bile pigment bilirubin in the intestine", "S": [], "A": []}

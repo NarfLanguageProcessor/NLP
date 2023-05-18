@@ -1,0 +1,1 @@
+{"index": 322286, "D": "a pin, or either of two pins, inserted into a gunwale to provide a fulcrum for an oar.", "S": [], "A": []}

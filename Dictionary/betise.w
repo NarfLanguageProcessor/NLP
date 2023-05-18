@@ -1,0 +1,1 @@
+{"index": 32764, "D": "lack of understanding, perception, or the like; stupidity.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 71623, "D": "wearing a cowl. ", "S": ["capistrate ", "cucullate "], "A": []}

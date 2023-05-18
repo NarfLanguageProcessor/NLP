@@ -1,0 +1,1 @@
+{"index": 33440, "D": "(of a bundle) having the xylem lined with phloem on both its inner and outer faces.", "S": [], "A": []}

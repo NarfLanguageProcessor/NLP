@@ -1,0 +1,1 @@
+{"index": 67449, "D": "to make continental,  as in scope or character.", "S": [], "A": []}

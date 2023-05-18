@@ -1,0 +1,1 @@
+{"index": 334106, "D": "a knife with a broad, nearly semicircular blade joined to a short haft at a right angle to the unsharpened side", "S": [], "A": []}

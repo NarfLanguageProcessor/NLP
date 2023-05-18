@@ -1,0 +1,1 @@
+{"index": 271253, "D": "an act or instance of reversing. ", "S": ["U-turn ", "annulment ", "cancellation ", "repeal ", "switch ", "turnabout ", "turnaround "], "A": ["approval ", "enactment ", "validation "]}

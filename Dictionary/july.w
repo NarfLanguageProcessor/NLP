@@ -1,0 +1,1 @@
+{"index": 162224, "D": "the seventh month of the year, containing 31 days. Abbreviation", "S": [], "A": []}

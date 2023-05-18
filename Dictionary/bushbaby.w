@@ -1,0 +1,1 @@
+{"index": 43378, "D": "any of several nocturnal, lemurlike strepsirrhines of the genus Galago, native to African forests, with large ears and eyes, long and slender fingers and toes, thick woolly fur, and a long, large, bushy tail", "S": [], "A": []}

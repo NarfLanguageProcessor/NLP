@@ -1,0 +1,1 @@
+{"index": 20181, "D": "a rich tapestry.", "S": ["drapery "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 289854, "D": "to move from the main track  to a siding,  as a train.", "S": ["alter ", "avert ", "change ", "deflect ", "digress ", "redirect ", "swerve ", "switch ", "veer "], "A": ["continue ", "keep ", "remain ", "stay "]}

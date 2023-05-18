@@ -1,0 +1,1 @@
+{"index": 271421, "D": "to activate, set in motion, or take up again; renew", "S": [], "A": []}

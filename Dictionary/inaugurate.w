@@ -1,0 +1,1 @@
+{"index": 149556, "D": "to make a formal beginning of; initiate; commence; begin", "S": ["commence ", "dedicate ", "induct ", "initiate ", "introduce ", "launch ", "open ", "set up "], "A": ["cease ", "close ", "conclude ", "end ", "finish ", "stop ", "retract "]}

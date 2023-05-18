@@ -1,0 +1,1 @@
+{"index": 320615, "D": "not likely to be appreciated or rewarded; unappreciated", "S": ["boorishness ", "callousness ", "disloyalty ", "inconsiderateness ", "rudeness ", "thoughtlessness "], "A": ["appreciation ", "consideration ", "gratitude "]}

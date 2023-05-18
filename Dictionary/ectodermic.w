@@ -1,0 +1,1 @@
+{"index": 95511, "D": "the outer germ layer in the embryo of a metazoan.", "S": [], "A": []}

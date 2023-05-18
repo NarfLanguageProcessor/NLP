@@ -1,0 +1,1 @@
+{"index": 134176, "D": "of, noting, or engaged in the checking  of hats,  coats, umbrellas, etc., into temporary safekeeping", "S": [], "A": []}

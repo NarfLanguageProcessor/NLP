@@ -1,0 +1,1 @@
+{"index": 244522, "D": "of or relating to a cough.", "S": [], "A": []}

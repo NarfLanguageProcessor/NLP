@@ -1,0 +1,1 @@
+{"index": 36618, "D": "an air or gas vent, especially one to carry off fumes from a tunnel, underground passage, etc.", "S": [], "A": []}

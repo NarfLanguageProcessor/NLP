@@ -1,0 +1,1 @@
+{"index": 11553, "D": "a figure of speech in which an appeal is made to one's listeners or opponents for their opinion or judgment as to the subject under discussion.", "S": [], "A": []}

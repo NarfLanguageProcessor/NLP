@@ -1,0 +1,1 @@
+{"index": 147398, "D": "the third stage of the glaciation of North America during the Pleistocene.", "S": [], "A": []}

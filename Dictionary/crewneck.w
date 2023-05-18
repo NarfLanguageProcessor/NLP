@@ -1,0 +1,1 @@
+{"index": 72851, "D": "a collarless neckline, as on a sweater or jersey, that fits snugly at the base of the neck.", "S": [], "A": []}

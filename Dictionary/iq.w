@@ -1,0 +1,1 @@
+{"index": 157859, "D": "intelligence quotient. ", "S": ["brilliance "], "A": ["inability ", "ineptness ", "stupidity "]}

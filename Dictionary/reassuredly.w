@@ -1,0 +1,1 @@
+{"index": 262103, "D": "to restore to assurance or confidence", "S": [], "A": []}

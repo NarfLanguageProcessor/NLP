@@ -1,0 +1,1 @@
+{"index": 97235, "D": "to give a smooth surface to (metal) by dissolving projecting irregularities at the anode of an electrolytic cell.", "S": [], "A": []}

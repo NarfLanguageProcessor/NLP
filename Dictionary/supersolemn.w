@@ -1,0 +1,1 @@
+{"index": 312681, "D": "grave, sober, or mirthless, as a person, the face, speech, tone, or mood", "S": [], "A": []}

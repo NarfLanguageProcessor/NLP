@@ -1,0 +1,1 @@
+{"index": 107846, "D": "the meaning of a term or statement, as in a philosophical discussion.", "S": [], "A": []}

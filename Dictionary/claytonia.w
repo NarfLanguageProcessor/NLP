@@ -1,0 +1,1 @@
+{"index": 59111, "D": "any of the low, succulent plants constituting the genus Claytonia of the purslane family, having basal leaves and long clusters of white or rose-colored flowers.", "S": [], "A": []}

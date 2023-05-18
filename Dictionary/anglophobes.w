@@ -1,0 +1,1 @@
+{"index": 12922, "D": "a person who hates or fears England or anything English.", "S": [], "A": []}

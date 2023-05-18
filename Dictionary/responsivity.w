@@ -1,0 +1,1 @@
+{"index": 269800, "D": "the quality or state of being responsive. ", "S": [], "A": []}

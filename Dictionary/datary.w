@@ -1,0 +1,1 @@
+{"index": 77154, "D": "the office of the Curia Romana that investigates candidates for papal benefices.", "S": [], "A": []}

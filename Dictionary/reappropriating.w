@@ -1,0 +1,1 @@
+{"index": 261931, "D": "suitable or fitting for a particular purpose, person, occasion, etc.", "S": [], "A": []}

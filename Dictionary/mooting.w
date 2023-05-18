@@ -1,0 +1,1 @@
+{"index": 193196, "D": "open to discussion or debate; debatable; doubtful", "S": ["argument ", "contest ", "controversy ", "deliberation ", "dispute ", "match "], "A": ["agreement ", "peace ", "quiet ", "harmony "]}

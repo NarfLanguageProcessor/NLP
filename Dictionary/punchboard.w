@@ -1,0 +1,1 @@
+{"index": 256555, "D": "a small board  containing holes filled with slips of paper printed with concealed numbers that are punched  out by a player in an attempt to win a prize.", "S": [], "A": []}

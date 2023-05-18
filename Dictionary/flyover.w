@@ -1,0 +1,1 @@
+{"index": 114675, "D": "a formation of aircraft in flight for observation from the ground, especially a prearranged, low-altitude flight over a public gathering.", "S": [], "A": []}

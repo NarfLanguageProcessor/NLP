@@ -1,0 +1,1 @@
+{"index": 208262, "D": "to move rhythmically and steadily to and fro, as a pendulum; oscillate.", "S": [], "A": []}

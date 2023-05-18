@@ -1,0 +1,1 @@
+{"index": 133413, "D": "of or relating to the Hanseatic League or to any of the towns belonging to it.", "S": [], "A": []}

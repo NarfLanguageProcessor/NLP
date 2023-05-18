@@ -1,0 +1,1 @@
+{"index": 175221, "D": "the state of being loquacious;  talkativeness; garrulity.", "S": ["garrulity ", "logorrhea ", "prolixity ", "verboseness "], "A": []}

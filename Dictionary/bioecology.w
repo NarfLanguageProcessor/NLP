@@ -1,0 +1,1 @@
+{"index": 34336, "D": "the study of the interrelations among living organisms in their natural environment; ecology. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 41967, "D": [], "S": ["copying ", "hijacking ", "infringement ", "plagiarism ", "theft "], "A": []}

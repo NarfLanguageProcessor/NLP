@@ -1,0 +1,1 @@
+{"index": 276102, "D": "a shoe made of a single block of wood hollowed out, worn especially by farmers and workers in the Netherlands, France, Belgium, etc.", "S": [], "A": []}

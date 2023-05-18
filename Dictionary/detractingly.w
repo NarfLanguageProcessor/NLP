@@ -1,0 +1,1 @@
+{"index": 83275, "D": "to take away a part, as from quality, value, or reputation (usually followed by from).", "S": [], "A": []}

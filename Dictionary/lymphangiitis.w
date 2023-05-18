@@ -1,0 +1,1 @@
+{"index": 172521, "D": "inflammation of the lymphatic vessels.", "S": [], "A": []}

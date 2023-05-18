@@ -1,0 +1,1 @@
+{"index": 324135, "D": "a precision instrument for comparing tints  or colors with those used as arbitrary standards.", "S": [], "A": []}

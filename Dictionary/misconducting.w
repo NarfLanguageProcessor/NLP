@@ -1,0 +1,1 @@
+{"index": 188983, "D": "improper conduct;  wrong behavior.", "S": ["act up ", "fool around ", "trespass "], "A": ["behave ", "obey "]}

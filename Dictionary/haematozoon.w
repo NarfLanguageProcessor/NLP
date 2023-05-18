@@ -1,0 +1,1 @@
+{"index": 132053, "D": "any microorganism, esp a protozoan, that is parasitic in the blood", "S": [], "A": []}

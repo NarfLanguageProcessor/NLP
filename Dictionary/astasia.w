@@ -1,0 +1,1 @@
+{"index": 21995, "D": "inability to stand due to a limitation or absence of muscular coordination.", "S": ["disequilibrium ", "instability "], "A": []}

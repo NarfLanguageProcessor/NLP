@@ -1,0 +1,1 @@
+{"index": 8194, "D": "of or noting organic compounds essentially aliphatic  in chemical behavior but differing structurally in that the essential carbon atoms are connected in a ring instead of a chain.", "S": [], "A": []}

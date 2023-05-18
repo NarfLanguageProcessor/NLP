@@ -1,0 +1,1 @@
+{"index": 132609, "D": "the time required for one half  the atoms of a given amount of a radioactive substance to disintegrate.", "S": [], "A": []}

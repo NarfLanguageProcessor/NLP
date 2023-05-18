@@ -1,0 +1,1 @@
+{"index": 127660, "D": "a sago palm, Arenga pinnata, of the East Indies, yielding palm sugar.", "S": [], "A": []}

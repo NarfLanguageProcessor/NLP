@@ -1,0 +1,1 @@
+{"index": 223989, "D": "pale; faint or deficient in color; wan", "S": ["anemic ", "feeble ", "ghastly ", "lackluster ", "sickly ", "uninspired "], "A": ["healthy ", "hearty ", "strong "]}

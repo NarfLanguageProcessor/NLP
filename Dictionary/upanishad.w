@@ -1,0 +1,1 @@
+{"index": 354461, "D": "any of a class of speculative prose treatises composed between the 8th and 6th centuries b.c. and first written a.d. c1300", "S": [], "A": []}

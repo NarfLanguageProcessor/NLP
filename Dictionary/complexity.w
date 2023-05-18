@@ -1,0 +1,1 @@
+{"index": 64672, "D": "the state or quality of being complex;  intricacy", "S": ["complication ", "intricacy ", "ramification "], "A": ["clarity ", "directness ", "ease ", "obvious ", "simplicity "]}

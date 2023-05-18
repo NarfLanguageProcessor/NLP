@@ -1,0 +1,1 @@
+{"index": 134948, "D": "a belief or practice of heathens;  idolatry.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 138958, "D": "the regions beneath the surface of the oceans and seas.", "S": [], "A": []}

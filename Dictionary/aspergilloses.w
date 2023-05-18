@@ -1,0 +1,1 @@
+{"index": 21402, "D": "an infection or disease caused by a mold of the genus Aspergillus, characterized by granulomatous lesions of the lungs, skin, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 276510, "D": "a flatiron that is pointed at both ends and has a detachable handle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 160500, "D": "to strike or smash, esp to break the shell of (an egg) at Easter", "S": [], "A": []}

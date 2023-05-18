@@ -1,0 +1,1 @@
+{"index": 209784, "D": "the kernel of a nut,  usually edible.", "S": [], "A": []}

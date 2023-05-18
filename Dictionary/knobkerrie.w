@@ -1,0 +1,1 @@
+{"index": 165621, "D": "a short, heavy wooden club with a knob on one end, used especially by native peoples of South Africa for striking and throwing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 294991, "D": "a person who fights forest fires, especially one with lightweight equipment.", "S": [], "A": []}

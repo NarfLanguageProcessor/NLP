@@ -1,0 +1,1 @@
+{"index": 348915, "D": "to shake tremulously; quiver or tremble", "S": [], "A": []}

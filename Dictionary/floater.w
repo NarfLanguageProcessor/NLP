@@ -1,0 +1,1 @@
+{"index": 114805, "D": "a person or thing that floats.", "S": ["hike ", "increase ", "rise "], "A": ["decrease "]}

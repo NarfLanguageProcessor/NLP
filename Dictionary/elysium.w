@@ -1,0 +1,1 @@
+{"index": 97606, "D": "the abode of the blessed after death.", "S": ["Fat City ", "affluence ", "bed of roses ", "clover ", "gracious life ", "hog heaven ", "lap of luxury ", "life of luxury ", "prosperity ", "velvet ", "wealth "], "A": []}

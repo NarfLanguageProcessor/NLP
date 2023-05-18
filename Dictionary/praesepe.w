@@ -1,0 +1,1 @@
+{"index": 245181, "D": "an open star cluster in the center of the constellation Cancer, visible to the naked eye.", "S": [], "A": []}

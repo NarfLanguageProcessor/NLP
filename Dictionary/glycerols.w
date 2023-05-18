@@ -1,0 +1,1 @@
+{"index": 126218, "D": "a colorless, odorless, syrupy, sweet liquid, C3H8O3, usually obtained by the saponification of natural fats and oils", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 222016, "D": "The release of an egg cell (ovum) from the ovary in female animals, regulated in mammals by hormones produced by the pituitary gland during the menstrual cycle.", "S": [], "A": []}

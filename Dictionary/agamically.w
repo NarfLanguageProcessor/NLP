@@ -1,0 +1,1 @@
+{"index": 5863, "D": "occurring without sexual union; germinating without impregnation; not gamic.", "S": [], "A": []}

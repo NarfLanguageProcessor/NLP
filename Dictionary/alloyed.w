@@ -1,0 +1,1 @@
+{"index": 8856, "D": "a substance composed of two or more metals, or of a metal or metals with a nonmetal, intimately mixed, as by fusion or electrodeposition.", "S": ["adulterated ", "blended ", "diluted ", "doctored ", "loaded ", "mixed ", "spoiled "], "A": []}

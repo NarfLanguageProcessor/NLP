@@ -1,0 +1,1 @@
+{"index": 244629, "D": "of, relating to, or given to drinking.", "S": [], "A": []}

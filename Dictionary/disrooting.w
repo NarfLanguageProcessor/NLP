@@ -1,0 +1,1 @@
+{"index": 89360, "D": "to uproot; dislodge.", "S": [], "A": []}

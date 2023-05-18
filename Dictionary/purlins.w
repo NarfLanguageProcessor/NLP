@@ -1,0 +1,1 @@
+{"index": 256999, "D": "a longitudinal member in a roof frame, usually for supporting common rafters or the like between the plate and the ridge.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 297751, "D": "any of several plants belonging to the genus Dasylirion, of the agave family, native to the southwestern U.S. and northern Mexico, resembling the yucca.", "S": [], "A": []}

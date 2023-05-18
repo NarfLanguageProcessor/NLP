@@ -1,0 +1,1 @@
+{"index": 201478, "D": "the manner of life, practices, or principles of an ascetic. ", "S": [], "A": []}

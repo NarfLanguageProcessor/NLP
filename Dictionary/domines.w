@@ -1,0 +1,1 @@
+{"index": 91327, "D": "lord; master (used as a title of address).", "S": [], "A": []}

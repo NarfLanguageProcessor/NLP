@@ -1,0 +1,1 @@
+{"index": 2314, "D": "defective conversion of cartilage into bone, especially at the epiphyses of long bones, producing a type of dwarfism.", "S": [], "A": []}

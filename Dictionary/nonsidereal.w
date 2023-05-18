@@ -1,0 +1,1 @@
+{"index": 207230, "D": "determined by or from the stars", "S": [], "A": []}

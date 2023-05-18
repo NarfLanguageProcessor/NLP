@@ -1,0 +1,1 @@
+{"index": 8285, "D": "that which nourishes; nutriment; food.", "S": [], "A": []}

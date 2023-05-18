@@ -1,0 +1,1 @@
+{"index": 115702, "D": "coarse food for livestock, composed of entire plants, including leaves, stalks, and grain, of such forages as corn and sorghum.", "S": [], "A": []}

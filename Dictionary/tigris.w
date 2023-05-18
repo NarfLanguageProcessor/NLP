@@ -1,0 +1,1 @@
+{"index": 323506, "D": "a river in SW Asia, flowing SE from SE Turkey through Iraq, joining the Euphrates to form the Shatt-al-Arab. 1,150 miles (1,850 km) long.", "S": [], "A": []}

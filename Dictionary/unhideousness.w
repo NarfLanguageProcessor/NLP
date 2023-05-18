@@ -1,0 +1,1 @@
+{"index": 343713, "D": "horrible or frightful to the senses; repulsive; very ugly", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 186242, "D": "the technique of performing mechanical operations under high magnification through the use of specialized tools.", "S": [], "A": []}

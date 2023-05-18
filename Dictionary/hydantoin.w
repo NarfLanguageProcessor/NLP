@@ -1,0 +1,1 @@
+{"index": 138321, "D": "a colorless, needlelike, crystalline compound, C3H4N2O2, used in the synthesis of pharmaceutical substances and resins.", "S": [], "A": []}

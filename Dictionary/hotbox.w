@@ -1,0 +1,1 @@
+{"index": 144244, "D": "a journal box  overheated by excessive friction of an axle as a result of inadequate lubrication or the presence of foreign matter.", "S": ["third "], "A": []}

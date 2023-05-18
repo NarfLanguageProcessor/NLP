@@ -1,0 +1,1 @@
+{"index": 181162, "D": "to reduce to a mathematical formula or problem; regard in purely mathematical terms.", "S": [], "A": []}

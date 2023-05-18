@@ -1,0 +1,1 @@
+{"index": 265565, "D": "to freeze by regelation. ", "S": [], "A": []}

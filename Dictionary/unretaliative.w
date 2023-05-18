@@ -1,0 +1,1 @@
+{"index": 349801, "D": "to return like for like, especially evil for evil", "S": [], "A": []}

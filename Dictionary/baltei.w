@@ -1,0 +1,1 @@
+{"index": 27152, "D": "(on an Ionic capital) the horizontal band connecting the volutes on either side.", "S": [], "A": []}

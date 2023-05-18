@@ -1,0 +1,1 @@
+{"index": 321593, "D": "a proposition stated or put forward for consideration, especially one to be discussed and proved or to be maintained against objections", "S": ["contention ", "hypothesis ", "opinion ", "premise ", "proposition ", "supposition ", "theory "], "A": ["fact ", "proof ", "reality ", "truth "]}

@@ -1,0 +1,1 @@
+{"index": 126585, "D": "total or partial darkness; dimness. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 274941, "D": "a course, way, or road for passage or travel", "S": ["avenue ", "course ", "direction ", "itinerary ", "journey ", "line ", "passage ", "road ", "track ", "trail ", "way "], "A": []}

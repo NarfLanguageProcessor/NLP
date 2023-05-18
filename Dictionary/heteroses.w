@@ -1,0 +1,1 @@
+{"index": 137746, "D": "the increase in growth, size, fecundity, function, yield, or other characters in hybrids over those of the parents.", "S": [], "A": []}

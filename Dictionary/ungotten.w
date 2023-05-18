@@ -1,0 +1,1 @@
+{"index": 343182, "D": "not obtained or gained.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 168570, "D": "the branch of medicine dealing with the larynx.", "S": [], "A": []}

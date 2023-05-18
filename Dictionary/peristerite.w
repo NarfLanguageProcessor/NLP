@@ -1,0 +1,1 @@
+{"index": 231374, "D": "a whitish, iridescent variety of albite, used as a gem.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 5269, "D": "from, at, or to a distance; far away (usually followed by off)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 40757, "D": "a two-masted sailing vessel, square-rigged on the foremast and having a fore-and-aft mainsail with square upper sails.", "S": ["catamaran ", "craft ", "cutter ", "schooner ", "ship ", "skiff ", "sloop ", "vessel ", "yacht "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 47500, "D": "a massive, black variety of diamond, found chiefly near S\u00e3o Salvador, Brazil, and formerly used for drilling and other cutting purposes.", "S": [], "A": []}

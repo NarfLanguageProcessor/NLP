@@ -1,0 +1,1 @@
+{"index": 246958, "D": "a minister in the Dutch Reformed Church, esp in South Africa", "S": [], "A": []}

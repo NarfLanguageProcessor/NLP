@@ -1,0 +1,1 @@
+{"index": 146779, "D": "barren; sterile.", "S": [], "A": []}

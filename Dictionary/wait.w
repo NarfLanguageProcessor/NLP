@@ -1,0 +1,1 @@
+{"index": 362068, "D": "to remain inactive or in a state of repose, as until something expected happens (often followed by for, till, or until)", "S": ["interval "], "A": ["continuation ", "go "]}

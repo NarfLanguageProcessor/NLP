@@ -1,0 +1,1 @@
+{"index": 250464, "D": "to convert (a material) into a granular free-flowing form", "S": [], "A": []}

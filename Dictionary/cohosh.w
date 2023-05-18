@@ -1,0 +1,1 @@
+{"index": 62413, "D": "either of two unrelated plants of the eastern U.S., Cimicifuga racemosa(black cohosh,  or squawroot ), of the buttercup family, or Caulophyllum thalictroides(blue cohosh,  or papoose-root ), of the barberry family, both used medicinally.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 286036, "D": "a member of an Indigenous people of western Sonora state, Mexico, on the Gulf of California. ", "S": [], "A": []}

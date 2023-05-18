@@ -1,0 +1,1 @@
+{"index": 221811, "D": "presumptuously conceited, overconfident, or proud", "S": [], "A": []}

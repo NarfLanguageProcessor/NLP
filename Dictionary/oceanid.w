@@ -1,0 +1,1 @@
+{"index": 210779, "D": "any of the daughters of Oceanus and Tethys; a sea nymph.", "S": ["Nereid ", "kelpie ", "limniad ", "mermaid ", "naiad ", "nix ", "ocean nymph ", "river nymph ", "sea nymph ", "water elf ", "water sprite "], "A": []}

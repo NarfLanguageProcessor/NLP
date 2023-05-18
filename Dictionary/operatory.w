@@ -1,0 +1,1 @@
+{"index": 213302, "D": "a room or other area with special equipment and facilities, as for dental surgery, scientific experiments, or the like.", "S": [], "A": []}

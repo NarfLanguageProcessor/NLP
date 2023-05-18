@@ -1,0 +1,1 @@
+{"index": 149958, "D": "inclination;  disposition.", "S": ["catty-corner ", "crosswise ", "oblique ", "slanted "], "A": []}

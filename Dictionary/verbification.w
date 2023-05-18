@@ -1,0 +1,1 @@
+{"index": 358406, "D": "to change into or employ as a verb,  as a noun.", "S": ["deponent ", "gerund ", "infinitive ", "participle "], "A": []}

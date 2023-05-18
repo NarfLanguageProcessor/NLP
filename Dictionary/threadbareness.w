@@ -1,0 +1,1 @@
+{"index": 322553, "D": "having the nap worn off so as to lay bare the threads of the warp and woof, as a fabric, garment, etc.", "S": [], "A": []}

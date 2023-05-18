@@ -1,0 +1,1 @@
+{"index": 136607, "D": "the standard unit of inductance in the International System of Units  (SI), formally defined to be the inductance of a closed circuit in which an electromotive force of one volt is produced when the electric current in the circuit varies uniformly at a rate of one ampere per second. Abbreviation", "S": [], "A": []}

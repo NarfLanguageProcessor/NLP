@@ -1,0 +1,1 @@
+{"index": 254442, "D": "(of ashlar) composed of stones having the same length, laid in courses of different heights.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 167990, "D": "a part of the continental crust above sea level having a distinct identity, as a continent or large island.", "S": [], "A": []}

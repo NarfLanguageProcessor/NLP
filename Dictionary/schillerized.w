@@ -1,0 +1,1 @@
+{"index": 280141, "D": "to give a schiller  to (a crystal) by developing microscopic inclusions along certain planes.", "S": [], "A": []}

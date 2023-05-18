@@ -1,0 +1,1 @@
+{"index": 90910, "D": "a little dog  or a puppy.", "S": ["classy ", "dashing ", "rakish ", "spry ", "stylish "], "A": ["plain ", "unstylish "]}

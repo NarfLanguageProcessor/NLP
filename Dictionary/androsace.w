@@ -1,0 +1,1 @@
+{"index": 12447, "D": "any plant of the genus Androsace, of the primrose family, having basal leaves and white or reddish flowers.", "S": [], "A": []}

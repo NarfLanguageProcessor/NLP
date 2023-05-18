@@ -1,0 +1,1 @@
+{"index": 269958, "D": "impatient of control, restraint, or delay, as persons; restless; uneasy.", "S": ["agitated ", "fractious ", "jittery ", "recalcitrant ", "restless ", "tense ", "uneasy ", "unruly "], "A": ["easygoing ", "laid-back ", "obedient "]}

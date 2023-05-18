@@ -1,0 +1,1 @@
+{"index": 276480, "D": "feeling sore  or stiff from horseback riding.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 299132, "D": "to explore caves, especially as a hobby.", "S": [], "A": []}

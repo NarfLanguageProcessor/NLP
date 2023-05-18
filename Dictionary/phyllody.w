@@ -1,0 +1,1 @@
+{"index": 233714, "D": "the abnormal transformation of a floral structure into a foliage leaf.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107477, "D": "an external covering or integument, especially when hard, as the shells of crustaceans (opposed to endoskeleton).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 282539, "D": "to go or look through (a place, area, etc.) carefully in order to find something missing or lost", "S": ["checked ", "considered ", "explored ", "inspected ", "measured ", "questioned ", "researched ", "reviewed ", "scrutinized ", "studied ", "tested ", "tried "], "A": ["unplanned "]}

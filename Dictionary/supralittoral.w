@@ -1,0 +1,1 @@
+{"index": 313169, "D": "of or relating to the biogeographic region of a shore of a lake, sea, or ocean permanently above water but made damp by spray from waves or by capillarity of the substrate.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133247, "D": "an impression or mark made with the palm and fingers on a surface.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83652, "D": "the act or fact of devolving;  passage onward from stage to stage.", "S": [], "A": []}

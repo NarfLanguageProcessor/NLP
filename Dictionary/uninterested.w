@@ -1,0 +1,1 @@
+{"index": 344720, "D": "having or showing no feeling of interest; indifferent.", "S": ["apathetic ", "disinterested ", "indifferent ", "listless ", "unconcerned ", "uninvolved ", "weary "], "A": ["caring ", "concerned ", "energetic ", "interested ", "involved ", "lively ", "untired "]}

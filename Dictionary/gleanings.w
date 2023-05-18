@@ -1,0 +1,1 @@
+{"index": 126093, "D": "the useful remnants of a crop that can be gathered from the field after harvesting", "S": ["accumulation ", "hoard ", "nest egg "], "A": ["debt "]}

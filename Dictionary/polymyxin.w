@@ -1,0 +1,1 @@
+{"index": 242080, "D": "any of various polypeptide antibiotics derived from Bacillus polymyxa.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 278088, "D": "the mahoganylike wood of any of several African trees of the genus Entandrophragma, used for making furniture.", "S": [], "A": []}

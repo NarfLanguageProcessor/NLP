@@ -1,0 +1,1 @@
+{"index": 336086, "D": "to disclose (a confidence, secret, etc.).", "S": [], "A": []}

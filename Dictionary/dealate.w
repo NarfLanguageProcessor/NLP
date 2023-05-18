@@ -1,0 +1,1 @@
+{"index": 77536, "D": "(of certain ants and termites after nuptial flights) having no wings as a result of having bitten or rubbed them off.", "S": [], "A": []}

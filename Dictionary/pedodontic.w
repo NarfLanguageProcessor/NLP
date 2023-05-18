@@ -1,0 +1,1 @@
+{"index": 228962, "D": "the branch of dentistry dealing with the care and treatment of children's teeth.", "S": [], "A": []}

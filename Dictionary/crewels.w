@@ -1,0 +1,1 @@
+{"index": 72842, "D": "a worsted yarn for embroidery and edging.", "S": ["brocade ", "decoration ", "lace ", "needlepoint ", "quilting ", "tapestry "], "A": []}

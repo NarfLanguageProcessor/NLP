@@ -1,0 +1,1 @@
+{"index": 187926, "D": "a small, independent nation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 127525, "D": "a European finch, Carduelis carduelis, having a crimson face and wings marked with yellow.", "S": [], "A": []}

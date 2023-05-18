@@ -1,0 +1,1 @@
+{"index": 343183, "D": "a chisel having a partly cylindrical blade with the bevel on either the concave or the convex side.", "S": [], "A": []}

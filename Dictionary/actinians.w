@@ -1,0 +1,1 @@
+{"index": 3099, "D": "belonging or pertaining to the order or suborder Actiniaria, comprising the sea anemones.", "S": [], "A": []}

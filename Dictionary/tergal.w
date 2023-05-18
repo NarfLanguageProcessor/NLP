@@ -1,0 +1,1 @@
+{"index": 319318, "D": "of or relating to the tergum. ", "S": [], "A": []}

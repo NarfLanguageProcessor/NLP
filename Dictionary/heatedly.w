@@ -1,0 +1,1 @@
+{"index": 134925, "D": "made hot or hotter; warmed.", "S": ["bitterly ", "fiercely ", "furiously ", "hotly ", "indignantly ", "madly ", "savagely ", "sharply ", "violently "], "A": ["gently ", "mildly ", "quietly "]}

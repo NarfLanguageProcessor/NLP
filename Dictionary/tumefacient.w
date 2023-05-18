@@ -1,0 +1,1 @@
+{"index": 332291, "D": "tumefying; causing to swell.", "S": [], "A": []}

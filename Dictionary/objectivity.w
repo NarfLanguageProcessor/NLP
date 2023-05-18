@@ -1,0 +1,1 @@
+{"index": 210122, "D": "the state or quality of being objective", "S": ["detachment ", "equality ", "neutrality "], "A": []}

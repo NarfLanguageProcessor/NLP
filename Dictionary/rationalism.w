@@ -1,0 +1,1 @@
+{"index": 261067, "D": "the principle or habit of accepting reason as the supreme authority in matters of opinion, belief, or conduct.", "S": ["grandeur "], "A": ["bad manners ", "crudeness ", "disproportion ", "imbalance ", "unevenness "]}

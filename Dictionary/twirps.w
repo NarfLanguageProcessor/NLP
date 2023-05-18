@@ -1,0 +1,1 @@
+{"index": 333422, "D": "an insignificant or despicable fellow", "S": [], "A": []}

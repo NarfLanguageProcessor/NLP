@@ -1,0 +1,1 @@
+{"index": 223921, "D": "a palanquin; sedan chair.", "S": [], "A": []}

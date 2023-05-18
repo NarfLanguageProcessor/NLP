@@ -1,0 +1,1 @@
+{"index": 7744, "D": "Pilgrim settler in Plymouth, Massachusetts, 1620.", "S": [], "A": []}

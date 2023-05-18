@@ -1,0 +1,1 @@
+{"index": 101205, "D": "a double meaning.", "S": [], "A": []}

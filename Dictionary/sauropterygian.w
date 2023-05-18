@@ -1,0 +1,1 @@
+{"index": 278993, "D": "any of various Mesozoic marine reptiles of the superorder Sauropterygia, including the suborder Plesiosauria.", "S": [], "A": []}

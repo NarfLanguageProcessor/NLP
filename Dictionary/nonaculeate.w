@@ -1,0 +1,1 @@
+{"index": 201084, "D": "having or being any sharp-pointed structure.", "S": [], "A": []}

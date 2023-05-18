@@ -1,0 +1,1 @@
+{"index": 191290, "D": "Ministry of Information.", "S": [], "A": []}

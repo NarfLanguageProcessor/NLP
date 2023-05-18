@@ -1,0 +1,1 @@
+{"index": 334680, "D": "in a negative, contrary, or unfavorable way or direction", "S": [], "A": []}

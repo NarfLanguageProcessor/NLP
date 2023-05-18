@@ -1,0 +1,1 @@
+{"index": 129281, "D": "expressing gratification; congratulatory.", "S": [], "A": []}

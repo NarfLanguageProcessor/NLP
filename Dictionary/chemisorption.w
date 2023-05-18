@@ -1,0 +1,1 @@
+{"index": 53699, "D": "adsorption involving a chemical linkage between the adsorbent and the adsorbate.", "S": [], "A": []}

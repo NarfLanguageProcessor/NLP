@@ -1,0 +1,1 @@
+{"index": 132, "D": "to destroy the self-confidence, poise, or self-possession of; disconcert; make ashamed or embarrassed", "S": ["chagrin ", "confusion ", "discomfiture ", "discomposure ", "distress ", "mortification ", "shame "], "A": ["happiness ", "pleasure "]}

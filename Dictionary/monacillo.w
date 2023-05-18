@@ -1,0 +1,1 @@
+{"index": 191697, "D": "a low shrub, Malvaviscus arboreus, of tropical America, having scarlet flowers and berrylike fruit that is sticky when young.", "S": [], "A": []}

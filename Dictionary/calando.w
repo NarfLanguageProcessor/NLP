@@ -1,0 +1,1 @@
+{"index": 44769, "D": "becoming slower and softer; dying away.", "S": [], "A": []}

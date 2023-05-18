@@ -1,0 +1,1 @@
+{"index": 314635, "D": "an archaic spelling of swab. ", "S": [], "A": []}

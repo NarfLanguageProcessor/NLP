@@ -1,0 +1,1 @@
+{"index": 229214, "D": "one of a Chinese breed of small dogs having a long, silky coat.", "S": [], "A": []}

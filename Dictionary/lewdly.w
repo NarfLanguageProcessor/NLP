@@ -1,0 +1,1 @@
+{"index": 171308, "D": "inclined to, characterized by, or inciting to lust or lechery; lascivious. ", "S": ["suggestively "], "A": []}

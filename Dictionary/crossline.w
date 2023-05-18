@@ -1,0 +1,1 @@
+{"index": 73845, "D": "a line crossing another line or connecting two separated points", "S": [], "A": []}

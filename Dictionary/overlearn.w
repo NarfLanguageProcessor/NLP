@@ -1,0 +1,1 @@
+{"index": 220038, "D": "to learn  or memorize beyond the point of proficiency or immediate recall.", "S": [], "A": []}

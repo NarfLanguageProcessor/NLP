@@ -1,0 +1,1 @@
+{"index": 276984, "D": "plural of sale. ", "S": ["economic ", "financial ", "monetary ", "profit-making ", "profitable ", "wholesale "], "A": ["not-for-profit "]}

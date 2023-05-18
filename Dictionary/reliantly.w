@@ -1,0 +1,1 @@
+{"index": 266881, "D": "having or showing dependence", "S": [], "A": []}

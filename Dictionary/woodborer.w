@@ -1,0 +1,1 @@
+{"index": 367104, "D": "a tool, operated by compressed air, for boring wood.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 119016, "D": "(in an ancient Roman bath) a room having a bath of unheated water.", "S": ["cold store ", "freezer ", "freezer locker ", "frozen-food locker ", "locker "], "A": []}

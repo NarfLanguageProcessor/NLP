@@ -1,0 +1,1 @@
+{"index": 41880, "D": "a less common word for brutalize (def. 1)", "S": [], "A": []}

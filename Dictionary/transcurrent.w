@@ -1,0 +1,1 @@
+{"index": 327778, "D": "running or extending across or transversely.", "S": [], "A": []}

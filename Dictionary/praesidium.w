@@ -1,0 +1,1 @@
+{"index": 245186, "D": "a variant spelling of presidium", "S": [], "A": []}

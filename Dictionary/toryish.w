@@ -1,0 +1,1 @@
+{"index": 326109, "D": "of, relating to, or resembling a Tory.", "S": [], "A": []}

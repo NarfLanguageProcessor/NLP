@@ -1,0 +1,1 @@
+{"index": 329612, "D": "having three horns or hornlike projections; three-cornered.", "S": [], "A": []}

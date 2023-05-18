@@ -1,0 +1,1 @@
+{"index": 97605, "D": "the omission of a vowel, consonant, or syllable in pronunciation.", "S": ["decrease ", "deflation ", "recession ", "reduction ", "shrinkage "], "A": ["enlargement ", "increase ", "expansion ", "opening "]}

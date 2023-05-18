@@ -1,0 +1,1 @@
+{"index": 33435, "D": "the tapered end of an anvil.", "S": [], "A": []}

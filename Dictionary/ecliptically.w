@@ -1,0 +1,1 @@
+{"index": 95338, "D": "an analogous great circle on a terrestrial globe.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321000, "D": "a person versed in theology, especially Christian theology; divine.", "S": ["clergy ", "cleric ", "philosopher ", "scholar "], "A": []}

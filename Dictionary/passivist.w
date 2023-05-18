@@ -1,0 +1,1 @@
+{"index": 227367, "D": "the quality of being passive. ", "S": [], "A": []}

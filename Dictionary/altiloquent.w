@@ -1,0 +1,1 @@
+{"index": 9532, "D": "(of language) high-flown or pretentious.", "S": [], "A": []}

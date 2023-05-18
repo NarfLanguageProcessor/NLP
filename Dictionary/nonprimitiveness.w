@@ -1,0 +1,1 @@
+{"index": 206172, "D": "being the first or earliest of the kind or in existence, especially in an early age of the world", "S": [], "A": []}

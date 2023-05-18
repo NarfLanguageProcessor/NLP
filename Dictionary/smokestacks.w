@@ -1,0 +1,1 @@
+{"index": 295015, "D": "a pipe for the escape of the smoke  or gases of combustion, as on a steamboat, locomotive, or building.", "S": [], "A": []}

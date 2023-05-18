@@ -1,0 +1,1 @@
+{"index": 64461, "D": "feelings, as happiness or grief, shared with another or others.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 320144, "D": "a structure having four gateways as features of an architectural composition.", "S": [], "A": []}

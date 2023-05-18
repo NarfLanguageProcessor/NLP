@@ -1,0 +1,1 @@
+{"index": 218460, "D": "to purchase in excessive quantities.", "S": [], "A": []}

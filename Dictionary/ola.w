@@ -1,0 +1,1 @@
+{"index": 211992, "D": "a formative of no precise significance found in a variety of commercial coinages (Crayola; granola; Victrola) and jocular variations of words (crapola).", "S": [], "A": []}

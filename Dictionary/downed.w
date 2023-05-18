@@ -1,0 +1,1 @@
+{"index": 92224, "D": "from higher to lower; in descending direction or order; toward, into, or in a lower position", "S": ["absorb ", "consume ", "devour ", "drink ", "eat ", "inhale "], "A": ["build "]}

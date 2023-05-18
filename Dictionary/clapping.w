@@ -1,0 +1,1 @@
+{"index": 59265, "D": "to strike the palms of (one's hands) against one another resoundingly, and usually repeatedly, especially to express approval", "S": ["acclamation ", "applause ", "commendation ", "kudos ", "praise ", "rave ", "recognition "], "A": ["blame ", "censure ", "criticism ", "disapproval ", "condemnation ", "debasement ", "denunciation ", "humiliation "]}

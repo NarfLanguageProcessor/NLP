@@ -1,0 +1,1 @@
+{"index": 232992, "D": "an apparition or specter.", "S": ["apparition ", "dream ", "fancy ", "fantasy ", "image ", "mirage ", "nightmare ", "shade ", "shadow ", "specter ", "spirit ", "vapor ", "vision "], "A": ["actuality ", "being ", "brightness ", "certainty ", "fact ", "light ", "reality ", "truth "]}

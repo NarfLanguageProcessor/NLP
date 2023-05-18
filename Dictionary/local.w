@@ -1,0 +1,1 @@
+{"index": 174264, "D": "pertaining to or characterized by place or position in space; spatial.", "S": ["provincial ", "regional "], "A": ["broad ", "broad-minded ", "liberal ", "unrestricted "]}

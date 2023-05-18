@@ -1,0 +1,1 @@
+{"index": 327759, "D": "to make a written copy, especially a typewritten copy, of (dictated material, notes taken during a lecture, or other spoken material).", "S": ["agent ", "auditor ", "bookkeeper ", "cashier ", "employee ", "operator ", "receptionist ", "salesperson ", "secretary ", "teller ", "worker "], "A": []}

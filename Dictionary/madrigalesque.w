@@ -1,0 +1,1 @@
+{"index": 177255, "D": "a secular part song without instrumental accompaniment, usually for four to six voices, making abundant use of contrapuntal imitation, popular especially in the 16th and 17th centuries.", "S": [], "A": []}

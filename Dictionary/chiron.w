@@ -1,0 +1,1 @@
+{"index": 54787, "D": "a wise and beneficent centaur, teacher of Achilles, Asclepius, and others.", "S": [], "A": []}

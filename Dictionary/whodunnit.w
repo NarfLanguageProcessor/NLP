@@ -1,0 +1,1 @@
+{"index": 365279, "D": "a novel, play, etc, concerned with a crime, usually murder", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 24200, "D": "the action or condition of being automatic; mechanical or involuntary action.", "S": [], "A": []}

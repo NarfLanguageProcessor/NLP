@@ -1,0 +1,1 @@
+{"index": 94768, "D": "a person who earns money", "S": ["acquire ", "bring in ", "collect ", "derive ", "draw ", "gain ", "get ", "make ", "obtain ", "pick up ", "realize ", "reap ", "receive ", "score ", "secure ", "win "], "A": ["discourage ", "dissuade ", "fail ", "forfeit ", "give ", "lose ", "miss ", "pass ", "spend ", "surrender ", "yield ", "give in ", "neglect "]}

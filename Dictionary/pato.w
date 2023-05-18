@@ -1,0 +1,1 @@
+{"index": 227839, "D": "an Argentine game played by two teams of four on horseback, resembling a cross between polo and basketball, using a ball with six large leather handles, the object of which is to place or throw the ball through the opponent's net that hangs from a 9 feet (2.7 meters) high pole.", "S": [], "A": []}

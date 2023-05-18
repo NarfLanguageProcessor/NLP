@@ -1,0 +1,1 @@
+{"index": 187509, "D": "a rock that has been crushed and sheared to such an extent that its original texture has been destroyed.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 129971, "D": "to complain naggingly or constantly; grumble.", "S": ["bear ", "bellyacher ", "bug ", "complainer ", "crab ", "crank ", "crosspatch ", "curmudgeon ", "faultfinder ", "grouser ", "growler ", "grumbler ", "grump ", "kicker ", "malcontent ", "moaner ", "murmurer ", "mutterer ", "sorehead ", "sourpuss ", "whiner "], "A": []}

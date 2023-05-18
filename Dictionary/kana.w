@@ -1,0 +1,1 @@
+{"index": 163022, "D": "a Japanese syllabic script consisting of 71 symbols and having two written varieties.", "S": [], "A": []}

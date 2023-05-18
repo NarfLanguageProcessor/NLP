@@ -1,0 +1,1 @@
+{"index": 167310, "D": "a person or thing that lags;  lingerer; loiterer.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 152395, "D": "to make furious;  enrage.", "S": ["enraged ", "incensed "], "A": []}

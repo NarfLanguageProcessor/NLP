@@ -1,0 +1,1 @@
+{"index": 143395, "D": "in an honest, truthful, or sincere manner", "S": ["fairly ", "genuinely ", "justly ", "sincerely "], "A": ["unfairly ", "unjustly "]}

@@ -1,0 +1,1 @@
+{"index": 142043, "D": "gray or white with age", "S": ["age-old ", "antiquated ", "timeworn "], "A": ["new ", "young "]}

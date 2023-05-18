@@ -1,0 +1,1 @@
+{"index": 251490, "D": "the act of procuring,  or obtaining or getting by effort, care, or the use of special means", "S": ["acquisition "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 329111, "D": "a synthetic glucocorticoid drug, C21H27FO6, used in the symptomatic treatment of inflammation.", "S": [], "A": []}

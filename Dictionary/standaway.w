@@ -1,0 +1,1 @@
+{"index": 302671, "D": "(of a garment) designed or constructed to stand upright or extend outward from the body", "S": [], "A": []}

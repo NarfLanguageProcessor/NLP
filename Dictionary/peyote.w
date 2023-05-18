@@ -1,0 +1,1 @@
+{"index": 229169, "D": "mescal (def. 3). ", "S": ["blotter ", "candy ", "cubes ", "dot ", "hallucinogen ", "microdots ", "mushrooms "], "A": []}

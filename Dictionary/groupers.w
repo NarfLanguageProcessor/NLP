@@ -1,0 +1,1 @@
+{"index": 130353, "D": "any of various sea basses of the family Serranidae, especially of the genera Epinephelus and Mycteroperca, of tropical and subtropical seas.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 38789, "D": "a thrust or hit", "S": [], "A": []}

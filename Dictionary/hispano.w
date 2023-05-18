@@ -1,0 +1,1 @@
+{"index": 141689, "D": "a combining form representing Spain  or Spanish  in compound words", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 63736, "D": "of, relating to, or of the nature of comedy. ", "S": ["amusing ", "comic ", "funny "], "A": []}

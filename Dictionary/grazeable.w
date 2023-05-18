@@ -1,0 +1,1 @@
+{"index": 129405, "D": "to feed on growing grass and pasturage, as do cattle, sheep, etc.", "S": [], "A": []}

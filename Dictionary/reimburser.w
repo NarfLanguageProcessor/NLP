@@ -1,0 +1,1 @@
+{"index": 266125, "D": "to make repayment to for expense or loss incurred", "S": [], "A": []}

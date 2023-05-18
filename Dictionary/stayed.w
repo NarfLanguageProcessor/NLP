@@ -1,0 +1,1 @@
+{"index": 302399, "D": "to spend some time in a place, in a situation, with a person or group, etc.", "S": ["last-minute ", "slow "], "A": ["antique ", "early ", "live ", "old ", "old-fashioned ", "on time ", "prompt ", "punctual "]}

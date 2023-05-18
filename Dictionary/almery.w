@@ -1,0 +1,1 @@
+{"index": 9116, "D": "a recess in the wall of a church or a cupboard in the sacristy where sacred vessels, books, vestments, etc., are kept.", "S": [], "A": []}

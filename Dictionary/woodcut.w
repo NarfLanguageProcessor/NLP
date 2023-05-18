@@ -1,0 +1,1 @@
+{"index": 367134, "D": "a carved block of wood  from which prints are made.", "S": ["etching ", "illustration ", "inscription ", "lithograph "], "A": []}

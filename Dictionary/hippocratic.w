@@ -1,0 +1,1 @@
+{"index": 141417, "D": "of or relating to the ancient Greek physician Hippocrates,  or his writings or teachings", "S": [], "A": []}

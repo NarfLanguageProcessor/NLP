@@ -1,0 +1,1 @@
+{"index": 359561, "D": "to strive in competition or rivalry with another; contend for superiority", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 273260, "D": "exposure to the chance of injury or loss; a hazard or dangerous chance", "S": ["danger ", "exposure ", "hazard ", "liability ", "opportunity ", "peril ", "possibility ", "prospect ", "uncertainty "], "A": ["certainty ", "safety ", "security ", "misfortune ", "plan ", "protection ", "reality ", "truth "]}

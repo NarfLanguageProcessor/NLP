@@ -1,0 +1,1 @@
+{"index": 158332, "D": "incapable of being replaced;  unique", "S": ["irreversible "], "A": ["fixable ", "mendable ", "reparable "]}

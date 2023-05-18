@@ -1,0 +1,1 @@
+{"index": 140723, "D": "of or relating to the semiconscious state prior to complete wakefulness.", "S": [], "A": []}

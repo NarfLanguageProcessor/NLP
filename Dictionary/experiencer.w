@@ -1,0 +1,1 @@
+{"index": 107712, "D": "a person or thing that experiences. ", "S": [], "A": []}

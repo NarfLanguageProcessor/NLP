@@ -1,0 +1,1 @@
+{"index": 243591, "D": "bearing; behavior.", "S": [], "A": []}

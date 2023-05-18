@@ -1,0 +1,1 @@
+{"index": 127748, "D": "any marine dinoflagellate of the genus Gonyaulax, sometimes occurring in great numbers and causing red tide.", "S": [], "A": []}

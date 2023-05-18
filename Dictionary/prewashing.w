@@ -1,0 +1,1 @@
+{"index": 250268, "D": "to apply water or some other liquid to (something or someone) for the purpose of cleansing; cleanse by dipping, rubbing, or scrubbing in water or some other liquid.", "S": [], "A": []}

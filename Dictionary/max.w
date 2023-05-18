@@ -1,0 +1,1 @@
+{"index": 181507, "D": "maximum. ", "S": ["better ", "biggest ", "greater ", "highest ", "largest ", "lion's share ", "maximum ", "ultimate ", "utmost ", "uttermost "], "A": ["least "]}

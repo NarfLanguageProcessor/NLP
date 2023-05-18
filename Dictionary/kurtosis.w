@@ -1,0 +1,1 @@
+{"index": 166513, "D": "the state or quality of flatness or peakedness of the curve describing a frequency distribution in the region about its mode.", "S": [], "A": []}

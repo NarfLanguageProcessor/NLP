@@ -1,0 +1,1 @@
+{"index": 95454, "D": "fits of delight or rapture", "S": [], "A": []}

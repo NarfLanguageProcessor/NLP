@@ -1,0 +1,1 @@
+{"index": 18120, "D": "one of the featherless portions of the skin of a bird.", "S": [], "A": []}

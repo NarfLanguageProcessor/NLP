@@ -1,0 +1,1 @@
+{"index": 85351, "D": "to pour out and spread, as a fluid.", "S": ["diffusion ", "dissemination ", "scatter ", "scattering "], "A": ["collection "]}

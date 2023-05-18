@@ -1,0 +1,1 @@
+{"index": 128112, "D": "any of numerous alcyonarian corals of the order Gorgonacea, having a usually branching, horny or calcareous skeleton.", "S": [], "A": []}

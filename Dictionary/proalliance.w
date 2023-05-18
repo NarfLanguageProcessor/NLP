@@ -1,0 +1,1 @@
+{"index": 250941, "D": "the act of allying  or state of being allied. ", "S": [], "A": []}

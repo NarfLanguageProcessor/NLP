@@ -1,0 +1,1 @@
+{"index": 29261, "D": "(used familiarly) a fine fellow.", "S": [], "A": []}

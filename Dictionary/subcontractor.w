@@ -1,0 +1,1 @@
+{"index": 307582, "D": "a person who or business that contracts to provide some service or material necessary for the performance of another's contract.", "S": [], "A": []}

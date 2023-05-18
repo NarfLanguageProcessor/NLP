@@ -1,0 +1,1 @@
+{"index": 108428, "D": "not included in the canon of Scripture.", "S": [], "A": []}

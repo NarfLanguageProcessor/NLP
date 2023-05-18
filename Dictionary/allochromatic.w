@@ -1,0 +1,1 @@
+{"index": 8804, "D": "pertaining to or having photochemical properties resulting from an impurity or from exposure to radiation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 240601, "D": "(of a cell) capable of developing into any type of cell or tissue except those that form a placenta or embryo", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 10676, "D": "out of the right or proper course, order, or condition; improperly; wrongly; astray", "S": ["awry ", "improper ", "untoward "], "A": ["proper ", "suitable "]}

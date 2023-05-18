@@ -1,0 +1,1 @@
+{"index": 88249, "D": "to depress the hope, courage, or spirits of; discourage. ", "S": ["anguish ", "desperation ", "despondency ", "discouragement ", "gloom ", "melancholy ", "misery ", "pain ", "sorrow "], "A": ["cheer ", "comfort ", "contentment ", "encouragement ", "happiness ", "joy ", "pleasure ", "peace "]}

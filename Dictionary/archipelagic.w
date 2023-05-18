@@ -1,0 +1,1 @@
+{"index": 18986, "D": "a large group or chain of islands", "S": [], "A": []}

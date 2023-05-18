@@ -1,0 +1,1 @@
+{"index": 5586, "D": "artifacts or artistic or literary works of any of the nations of Africa reflecting geographical, historical, or cultural development.", "S": [], "A": []}

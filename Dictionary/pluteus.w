@@ -1,0 +1,1 @@
+{"index": 240651, "D": "the free-swimming, bilaterally symmetrical larva of an echinoid or ophiuroid.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 222427, "D": "a sulfide  in which part of the sulfur is replaced by oxygen.", "S": [], "A": []}

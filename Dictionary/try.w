@@ -1,0 +1,1 @@
+{"index": 329061, "D": "to attempt to do or accomplish", "S": ["shot "], "A": ["idleness ", "laziness ", "peace "]}

@@ -1,0 +1,1 @@
+{"index": 4573, "D": "having greater resources or better skills, education, facilities, etc.", "S": ["preferred ", "recommended ", "selected "], "A": ["disfavored ", "unpopular "]}

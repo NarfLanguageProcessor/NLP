@@ -1,0 +1,1 @@
+{"index": 84563, "D": "the stage in mitosis at which the chromosomes, after their division and separation, are grouped near the poles of the spindle.", "S": [], "A": []}

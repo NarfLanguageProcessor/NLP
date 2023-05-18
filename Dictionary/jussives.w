@@ -1,0 +1,1 @@
+{"index": 162501, "D": "(especially in Semitic languages) expressing a mild command.", "S": [], "A": []}

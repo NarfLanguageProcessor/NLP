@@ -1,0 +1,1 @@
+{"index": 106666, "D": "(in certain lichens) the rim or outer covering of the apothecium.", "S": [], "A": []}

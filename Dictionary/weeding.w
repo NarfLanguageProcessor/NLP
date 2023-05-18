@@ -1,0 +1,1 @@
+{"index": 363750, "D": "a valueless plant growing wild, especially one that grows on cultivated ground to the exclusion or injury of the desired crop.", "S": ["drag ", "haul ", "pick ", "pluck ", "remove ", "rip ", "stretch ", "take out ", "tear ", "tow ", "trail ", "tug ", "yank "], "A": ["push "]}

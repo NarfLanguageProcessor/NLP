@@ -1,0 +1,1 @@
+{"index": 281325, "D": "any of numerous arachnids of the order Scorpionida, widely distributed in warmer parts of the world, having a long, narrow, segmented tail that terminates in a venomous sting.", "S": [], "A": []}

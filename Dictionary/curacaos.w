@@ -1,0 +1,1 @@
+{"index": 75165, "D": "the main island of the Netherlands Antilles, off the NW coast of Venezuela. 173 sq. mi. (448 sq. km). Capital", "S": [], "A": []}

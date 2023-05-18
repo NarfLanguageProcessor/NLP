@@ -1,0 +1,1 @@
+{"index": 324959, "D": "a long, narrow, flat-bottomed sled made of a thin board curved upward and backward at the front, often with low handrails on the sides, used especially in the sport of coasting over snow or ice.", "S": [], "A": []}

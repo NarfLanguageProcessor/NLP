@@ -1,0 +1,1 @@
+{"index": 226201, "D": "Also called", "S": ["Green Berets ", "commandos ", "elite troops ", "guerrilla troops ", "rangers ", "rapid deployment force ", "shock troops ", "storm troops "], "A": []}

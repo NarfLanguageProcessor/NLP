@@ -1,0 +1,1 @@
+{"index": 241746, "D": "pertaining to an organic compound containing several atomic rings, usually fused.", "S": [], "A": []}

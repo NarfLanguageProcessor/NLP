@@ -1,0 +1,1 @@
+{"index": 259612, "D": "to make (a substance) radioactive. ", "S": ["corrupt ", "harm ", "infect ", "injure ", "poison ", "pollute ", "stain ", "taint ", "tarnish "], "A": ["aid ", "assist ", "clean ", "cleanse ", "fix ", "help ", "improve ", "mend ", "purify ", "clear ", "honor ", "praise ", "sanctify ", "upgrade "]}

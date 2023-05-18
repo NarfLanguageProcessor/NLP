@@ -1,0 +1,1 @@
+{"index": 154348, "D": "to have in mind as something to be done or brought about; plan", "S": [], "A": []}

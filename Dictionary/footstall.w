@@ -1,0 +1,1 @@
+{"index": 116260, "D": "the stirrup of a woman's sidesaddle.", "S": [], "A": []}

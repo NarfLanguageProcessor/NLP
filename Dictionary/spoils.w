@@ -1,0 +1,1 @@
+{"index": 300653, "D": "valuables seized by violence, esp in war", "S": ["booty "], "A": ["loss "]}

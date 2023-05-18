@@ -1,0 +1,1 @@
+{"index": 239856, "D": "the use of more words than are necessary to express an idea; redundancy. ", "S": [], "A": []}

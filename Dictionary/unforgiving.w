@@ -1,0 +1,1 @@
+{"index": 342566, "D": "not disposed to forgive or show mercy; unrelenting.", "S": ["cruel ", "heartless ", "relentless ", "ruthless ", "unrelenting "], "A": ["compassionate ", "considerate ", "feeling ", "gentle ", "kind ", "merciful ", "nice ", "sympathetic "]}

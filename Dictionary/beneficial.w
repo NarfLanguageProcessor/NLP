@@ -1,0 +1,1 @@
+{"index": 31562, "D": "conferring benefit; advantageous; helpful", "S": ["benign ", "constructive ", "favorable ", "good ", "helpful ", "profitable ", "useful ", "valuable "], "A": ["bad ", "disadvantageous ", "disagreeable ", "harmful ", "hurtful ", "hurting ", "injurious ", "unhelpful ", "useless ", "worthless "]}

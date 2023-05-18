@@ -1,0 +1,1 @@
+{"index": 307711, "D": "the act or circumstance of proving or being proved conclusively, as by reasoning or a show of evidence", "S": [], "A": []}

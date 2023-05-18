@@ -1,0 +1,1 @@
+{"index": 352012, "D": "to lift from its step,  as a mast.", "S": [], "A": []}

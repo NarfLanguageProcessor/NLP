@@ -1,0 +1,1 @@
+{"index": 76378, "D": "a room at an institution, as on a military base, providing facilities for leisure activities.", "S": [], "A": []}

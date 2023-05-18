@@ -1,0 +1,1 @@
+{"index": 157246, "D": "free from violation, injury, desecration, or outrage.", "S": [], "A": []}

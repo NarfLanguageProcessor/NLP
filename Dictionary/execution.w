@@ -1,0 +1,1 @@
+{"index": 106961, "D": "the act or process of executing. ", "S": ["beheading ", "crucifixion ", "decapitation ", "electrocution ", "gassing ", "hanging ", "hit ", "impalement ", "punishment ", "shooting ", "strangulation "], "A": ["abandoning ", "disregard ", "failure ", "forgetting ", "ignorance ", "leaving ", "neglect "]}

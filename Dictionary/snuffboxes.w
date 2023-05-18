@@ -1,0 +1,1 @@
+{"index": 295902, "D": "a box  for holding snuff,  especially one small enough to be carried in the pocket.", "S": [], "A": []}

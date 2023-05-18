@@ -1,0 +1,1 @@
+{"index": 37310, "D": "something, as an amazing fact, puzzle, or riddle, that astounds or defeats", "S": [], "A": []}

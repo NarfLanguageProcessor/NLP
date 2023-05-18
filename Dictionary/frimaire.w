@@ -1,0 +1,1 @@
+{"index": 119060, "D": "(in the French Revolutionary calendar) the third month of the year, extending from November 21 to December 20.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 38371, "D": "a detailed memorandum, especially one in which documents are listed.", "S": [], "A": []}

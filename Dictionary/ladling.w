@@ -1,0 +1,1 @@
+{"index": 167239, "D": "a long-handled utensil with a cup-shaped bowl for dipping or conveying liquids.", "S": ["clear away ", "dig ", "dig out ", "gouge ", "lift ", "pick up ", "remove ", "scrape "], "A": ["drop ", "lower ", "fill "]}

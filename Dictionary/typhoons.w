@@ -1,0 +1,1 @@
+{"index": 324269, "D": "Compare hurricane (def. 1). ", "S": ["hurricane ", "tropical cyclone ", "tropical storm "], "A": []}

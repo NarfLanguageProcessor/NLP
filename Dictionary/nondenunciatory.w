@@ -1,0 +1,1 @@
+{"index": 202894, "D": "characterized by or given to denunciation.", "S": [], "A": []}

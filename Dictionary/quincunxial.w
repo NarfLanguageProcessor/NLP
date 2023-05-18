@@ -1,0 +1,1 @@
+{"index": 258682, "D": "consisting of, arranged, or formed like a quincunx or quincunxes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 228340, "D": "the nonwarring condition of a nation, group of nations, or the world.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 12132, "D": "one of the Gigantes and father of Asterius.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 203095, "D": "reduced to or fallen into partial ruin or decay, as from age, wear, or neglect.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342640, "D": "refractory or unruly", "S": [], "A": []}

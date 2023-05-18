@@ -1,0 +1,1 @@
+{"index": 117393, "D": "the act or process of forming or the state of being formed", "S": ["anatomical ", "architectural ", "basic ", "constitutional ", "skeletal "], "A": []}

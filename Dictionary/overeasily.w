@@ -1,0 +1,1 @@
+{"index": 219120, "D": "in an easy manner; with ease; without trouble", "S": [], "A": []}

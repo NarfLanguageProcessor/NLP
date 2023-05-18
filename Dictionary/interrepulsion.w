@@ -1,0 +1,1 @@
+{"index": 155796, "D": "the act of repulsing  or the state of being repulsed. ", "S": [], "A": []}

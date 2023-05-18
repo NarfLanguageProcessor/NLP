@@ -1,0 +1,1 @@
+{"index": 158512, "D": "of, relating to, or characterized by irruption. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256985, "D": "to knit with a reverse stitch.", "S": ["babble ", "bubble ", "crow ", "lap ", "plash ", "ripple ", "slosh ", "splash ", "wash "], "A": []}

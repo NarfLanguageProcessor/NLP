@@ -1,0 +1,1 @@
+{"index": 202472, "D": "(of a state benefit) not dependent on national insurance contributions", "S": [], "A": []}

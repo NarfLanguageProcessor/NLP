@@ -1,0 +1,1 @@
+{"index": 149601, "D": "naturally present at birth; innate. ", "S": ["congenital ", "hereditary ", "ingrained ", "innate ", "instinctive ", "intrinsic ", "intuitive "], "A": ["acquired ", "extrinsic ", "learned ", "meditated "]}

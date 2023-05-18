@@ -1,0 +1,1 @@
+{"index": 72812, "D": "(no longer in technical use) a person with cretinism. ", "S": ["absurd ", "daft ", "foolish ", "half-witted ", "idiotic ", "inane ", "moronic ", "silly ", "sophomoric ", "stupid "], "A": []}

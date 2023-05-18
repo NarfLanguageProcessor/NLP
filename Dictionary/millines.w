@@ -1,0 +1,1 @@
+{"index": 187411, "D": "one agate line  of advertising one column in width appearing in one million  copies of a periodical.", "S": [], "A": []}

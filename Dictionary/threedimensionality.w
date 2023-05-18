@@ -1,0 +1,1 @@
+{"index": 322606, "D": "having, or seeming to have, the dimension of depth as well as width and height.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 127517, "D": "a plant, Hydrastis canadensis, of the buttercup family, having a thick yellow rootstock.", "S": [], "A": []}

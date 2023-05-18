@@ -1,0 +1,1 @@
+{"index": 205960, "D": "of or relating to a phobia  or phobias.", "S": [], "A": []}

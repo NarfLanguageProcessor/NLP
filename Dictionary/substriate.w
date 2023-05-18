@@ -1,0 +1,1 @@
+{"index": 309366, "D": "to mark with striae;  furrow; stripe; streak.", "S": [], "A": []}

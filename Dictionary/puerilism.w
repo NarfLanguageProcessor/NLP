@@ -1,0 +1,1 @@
+{"index": 256071, "D": "childishness in the behavior of an adult.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 306822, "D": "a person or thing that stuffs. ", "S": ["gorger ", "gourmand ", "hog ", "pig "], "A": []}

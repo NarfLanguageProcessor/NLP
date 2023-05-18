@@ -1,0 +1,1 @@
+{"index": 161540, "D": "to shake slightly; move to and fro, as by repeated jerks; jiggle", "S": ["fret ", "jiggle ", "squirm ", "twiddle ", "twitch "], "A": ["relax ", "rest "]}

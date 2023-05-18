@@ -1,0 +1,1 @@
+{"index": 125027, "D": "a plural of gymnasium1. ", "S": [], "A": []}

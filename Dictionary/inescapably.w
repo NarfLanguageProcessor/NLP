@@ -1,0 +1,1 @@
+{"index": 151615, "D": "incapable of being escaped, ignored, or avoided; ineluctable", "S": ["certainly ", "completely ", "decisively ", "definitely ", "permanently "], "A": ["doubtfully ", "dubiously ", "questionably "]}

@@ -1,0 +1,1 @@
+{"index": 44249, "D": "any of numerous succulent plants of the family Cactaceae, of warm, arid regions of the New World, having fleshy, leafless, usually spiny stems, and typically having solitary, showy flowers.", "S": [], "A": []}

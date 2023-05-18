@@ -1,0 +1,1 @@
+{"index": 88097, "D": "a less common variant of disenfranchise. ", "S": [], "A": []}

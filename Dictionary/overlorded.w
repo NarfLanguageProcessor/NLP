@@ -1,0 +1,1 @@
+{"index": 220134, "D": "a person who is lord  over another or over other lords", "S": [], "A": []}

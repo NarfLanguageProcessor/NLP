@@ -1,0 +1,1 @@
+{"index": 256707, "D": "any of the minute biting gnats of the family Ceratopogonidae.", "S": ["no-see-um ", "punk ", "punkey ", "punky "], "A": []}

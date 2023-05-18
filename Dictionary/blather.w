@@ -1,0 +1,1 @@
+{"index": 35877, "D": "foolish, voluble talk", "S": ["babble ", "chatter ", "nonsense "], "A": ["sense "]}

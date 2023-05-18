@@ -1,0 +1,1 @@
+{"index": 159148, "D": "a figure whose perimeter  is equal to that of another.", "S": [], "A": []}

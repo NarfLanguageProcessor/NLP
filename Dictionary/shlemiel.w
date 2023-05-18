@@ -1,0 +1,1 @@
+{"index": 288602, "D": "an awkward and unlucky person for whom things never turn out right.", "S": [], "A": []}

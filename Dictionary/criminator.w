@@ -1,0 +1,1 @@
+{"index": 72969, "D": "to charge with a crime. ", "S": [], "A": []}

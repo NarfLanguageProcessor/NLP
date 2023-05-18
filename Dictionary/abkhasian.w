@@ -1,0 +1,1 @@
+{"index": 532, "D": "a Caucasian language of Abkhazia,  best known for its rich consonantism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 21363, "D": "any plant of the genus Asparagus, of the lily family, especially A. officianalis, cultivated for its edible shoots.", "S": [], "A": []}

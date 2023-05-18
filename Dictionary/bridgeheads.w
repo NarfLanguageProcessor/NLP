@@ -1,0 +1,1 @@
+{"index": 40677, "D": "a position held or to be gained on the enemy side of a river, defile, or other obstacle, to cover the crossing of friendly troops.", "S": [], "A": []}

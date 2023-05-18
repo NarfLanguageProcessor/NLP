@@ -1,0 +1,1 @@
+{"index": 138621, "D": "pertaining to forces in or motions of liquids.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111047, "D": "simple past tense of fall. ", "S": [], "A": []}

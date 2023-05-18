@@ -1,0 +1,1 @@
+{"index": 323668, "D": "of or relating to a method of casting concrete walls on site in a horizontal position or preassembling wooden wall and partition frames, then tilting them up into their final position", "S": [], "A": []}

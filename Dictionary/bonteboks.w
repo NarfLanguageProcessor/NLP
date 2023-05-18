@@ -1,0 +1,1 @@
+{"index": 37975, "D": "a purplish-red antelope, Damaliscus dorcas, of southern Africa, having a white face and rump", "S": [], "A": []}

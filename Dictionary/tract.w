@@ -1,0 +1,1 @@
+{"index": 327194, "D": "an expanse or area of land, water, etc.; region; stretch. ", "S": ["estate ", "expanse ", "parcel ", "plot ", "portion ", "section "], "A": ["whole "]}

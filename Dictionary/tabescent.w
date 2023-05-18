@@ -1,0 +1,1 @@
+{"index": 314802, "D": "wasting away; becoming emaciated or consumed.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 350510, "D": "the action of a person who scolds;  a rebuke; reproof", "S": [], "A": []}

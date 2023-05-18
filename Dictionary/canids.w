@@ -1,0 +1,1 @@
+{"index": 46319, "D": "any animal of the dog family Canidae, including the wolves, jackals, hyenas, coyotes, foxes, and domestic dogs.", "S": [], "A": []}

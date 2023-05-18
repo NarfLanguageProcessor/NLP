@@ -1,0 +1,1 @@
+{"index": 311736, "D": "to approve, support, or sustain", "S": [], "A": []}

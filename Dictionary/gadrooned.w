@@ -1,0 +1,1 @@
+{"index": 120895, "D": "an elaborately carved or indented convex molding.", "S": [], "A": []}

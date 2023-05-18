@@ -1,0 +1,1 @@
+{"index": 286274, "D": "the Serpent, a constellation consisting of two separate parts, the head (Serpens Caput ) and the tail (Serpens Cauda ), with Ophiuchus in between.", "S": [], "A": []}

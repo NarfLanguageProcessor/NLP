@@ -1,0 +1,1 @@
+{"index": 240752, "D": "the belief in intermediary spirits between humans and God.", "S": [], "A": []}

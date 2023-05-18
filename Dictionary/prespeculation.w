@@ -1,0 +1,1 @@
+{"index": 249543, "D": "the contemplation or consideration of some subject", "S": [], "A": []}

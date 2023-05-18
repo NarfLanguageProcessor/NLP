@@ -1,0 +1,1 @@
+{"index": 246880, "D": "a member of a subclass of English adjectival words, often quantitative in meaning, that may be placed before an article or other determiner,  as all in all the paintings or half in half her salary.", "S": [], "A": []}

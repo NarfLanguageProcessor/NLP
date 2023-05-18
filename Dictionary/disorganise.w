@@ -1,0 +1,1 @@
+{"index": 88813, "D": "to destroy the organization, systematic arrangement, or orderly connection of; throw into confusion or disorder.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 98840, "D": "a person working for another person or a business firm for pay.", "S": [], "A": []}

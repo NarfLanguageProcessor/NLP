@@ -1,0 +1,1 @@
+{"index": 241852, "D": "having several estrus cycles annually or during a breeding season.", "S": [], "A": []}

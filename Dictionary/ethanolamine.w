@@ -1,0 +1,1 @@
+{"index": 104877, "D": "a viscous liquid with an odor of ammonia, C2H7NO, used to remove carbon dioxide and hydrogen sulfide from natural gas, and in the manufacture of antibiotics.", "S": [], "A": []}

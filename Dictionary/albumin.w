@@ -1,0 +1,1 @@
+{"index": 7526, "D": "any of a class of simple, sulfur-containing, water-soluble proteins that coagulate when heated, occurring in egg white, milk, blood, and other animal and vegetable tissues and secretions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 180167, "D": "the act of buying or selling in a market. ", "S": ["buying ", "commerce ", "retailing ", "selling "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 151955, "D": "not fertile; unproductive; sterile; barren", "S": [], "A": []}

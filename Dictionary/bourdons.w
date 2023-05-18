@@ -1,0 +1,1 @@
+{"index": 39018, "D": "the drone string of a stringed instrument.", "S": [], "A": []}

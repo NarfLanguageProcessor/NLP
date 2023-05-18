@@ -1,0 +1,1 @@
+{"index": 184024, "D": "a member of an Apache tribe that originally inhabited northern Mexico and the southwestern United States east of the Rio Grande, intermarried with the Chiricahua and Lipan, and that is presently located in New Mexico.", "S": [], "A": []}

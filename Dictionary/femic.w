@@ -1,0 +1,1 @@
+{"index": 111143, "D": "of or relating to a group of rock-forming minerals in which iron and magnesium are essential components.", "S": [], "A": []}

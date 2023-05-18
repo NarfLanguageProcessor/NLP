@@ -1,0 +1,1 @@
+{"index": 176597, "D": "a circular volcanic landform resulting from explosive ash eruptions.", "S": [], "A": []}

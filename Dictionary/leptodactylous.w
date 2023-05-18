@@ -1,0 +1,1 @@
+{"index": 170737, "D": "having slender toes or fingers.", "S": [], "A": []}

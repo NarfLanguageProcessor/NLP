@@ -1,0 +1,1 @@
+{"index": 271999, "D": "a member of the Rhynchophora, a former name for the superfamily of beetles (Curculionoidea) that comprises the weevils and bark beetles", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 348764, "D": "to rove or go about stealthily, as in search of prey, something to steal, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 286219, "D": "showing no significant level of serum antibodies, or other immunologic marker in the serum, that would indicate previous exposure to the infectious agent being tested.", "S": [], "A": []}

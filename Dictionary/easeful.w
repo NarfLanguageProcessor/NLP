@@ -1,0 +1,1 @@
+{"index": 94889, "D": "comfortable; quiet; peaceful; restful.", "S": ["cozy ", "easy ", "peaceful ", "quiet ", "restful ", "snug ", "soothing ", "undisturbed ", "untroubled "], "A": []}

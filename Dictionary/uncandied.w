@@ -1,0 +1,1 @@
+{"index": 336433, "D": "impregnated or incrusted with or as if with sugar", "S": [], "A": []}

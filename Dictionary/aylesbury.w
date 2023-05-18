@@ -1,0 +1,1 @@
+{"index": 6771, "D": "one of an English breed of white, domestic ducks.", "S": [], "A": []}

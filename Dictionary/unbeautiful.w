@@ -1,0 +1,1 @@
+{"index": 335681, "D": "having beauty;  possessing qualities that give great pleasure or satisfaction to see, hear, think about, etc.; delighting the senses or mind", "S": ["awful ", "grisly ", "grotesque ", "hideous ", "horrid ", "unseemly ", "unsightly "], "A": ["attractive ", "beautiful ", "good-looking ", "gorgeous ", "handsome ", "pretty ", "lovely "]}

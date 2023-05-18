@@ -1,0 +1,1 @@
+{"index": 15255, "D": "of or relating to a substance that inhibits the ability to produce offspring; contraceptive.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351111, "D": "not sighted", "S": ["dark ", "groping "], "A": ["aware ", "seeing ", "sighted "]}

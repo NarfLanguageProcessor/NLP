@@ -1,0 +1,1 @@
+{"index": 126848, "D": "glucose formation in animals from a noncarbohydrate source, as from proteins or fats.", "S": [], "A": []}

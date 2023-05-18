@@ -1,0 +1,1 @@
+{"index": 318855, "D": "any opinion, principle, doctrine, dogma, etc., especially one held as true by members of a profession, group, or movement.", "S": ["creed ", "culture ", "dogma ", "outlook ", "philosophy ", "theory ", "view "], "A": []}

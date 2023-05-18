@@ -1,0 +1,1 @@
+{"index": 175509, "D": "an awkward, stupid person; clumsy, ill-mannered boor; oaf.", "S": ["deride ", "insult ", "jeer ", "mock ", "offend ", "ridicule ", "torment "], "A": ["compliment ", "flatter ", "please ", "praise ", "admire ", "approve ", "ignore ", "respect "]}

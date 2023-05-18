@@ -1,0 +1,1 @@
+{"index": 229081, "D": "having no equal; matchless; unrivaled.", "S": [], "A": []}

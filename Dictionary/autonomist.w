@@ -1,0 +1,1 @@
+{"index": 24259, "D": "the belief in or a movement toward autonomy. ", "S": [], "A": []}

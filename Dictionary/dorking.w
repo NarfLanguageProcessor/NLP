@@ -1,0 +1,1 @@
+{"index": 91684, "D": "one of an English breed of chicken, having five toes on each foot instead of the usual four.", "S": [], "A": []}

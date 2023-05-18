@@ -1,0 +1,1 @@
+{"index": 207354, "D": "a person who does not smoke.", "S": [], "A": []}

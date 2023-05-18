@@ -1,0 +1,1 @@
+{"index": 39250, "D": "a spar projecting from the upper end of the bow of a sailing vessel, for holding the tacks of various jibs or stays and often supporting a jib boom.", "S": ["nose "], "A": ["straighten "]}

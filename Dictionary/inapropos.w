@@ -1,0 +1,1 @@
+{"index": 149505, "D": [], "S": ["extraneous ", "foreign ", "garbage ", "immaterial ", "impertinent ", "inapposite ", "inappropriate ", "inappurtenant ", "inapt ", "inconsistent ", "irrelative ", "irrelevant ", "remote ", "unsuitable ", "unsuited "], "A": ["applicable ", "related ", "relevant ", "suitable "]}

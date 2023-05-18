@@ -1,0 +1,1 @@
+{"index": 36853, "D": "having an obtuse, thick, or dull edge or point; rounded; not sharp", "S": ["flat "], "A": ["dishonest "]}

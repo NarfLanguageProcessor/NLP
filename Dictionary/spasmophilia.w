@@ -1,0 +1,1 @@
+{"index": 298557, "D": "a condition in which only moderate mechanical or electrical stimulation produces spasms,  convulsions, or tetany.", "S": [], "A": []}

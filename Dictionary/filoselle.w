@@ -1,0 +1,1 @@
+{"index": 112772, "D": "soft silk thread, used esp for embroidery", "S": [], "A": []}

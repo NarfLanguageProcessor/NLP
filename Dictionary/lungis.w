@@ -1,0 +1,1 @@
+{"index": 176230, "D": "a cloth used as a turban, scarf, sarong, etc., in India, Pakistan, and Myanmar (Burma).", "S": ["bandana ", "hat "], "A": []}

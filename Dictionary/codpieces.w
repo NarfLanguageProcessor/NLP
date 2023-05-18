@@ -1,0 +1,1 @@
+{"index": 61801, "D": "(in the 15th and 16th centuries) a flap or cover for the crotch in men's hose or tight-fitting breeches, usually matching the costume and often decorated.", "S": [], "A": []}

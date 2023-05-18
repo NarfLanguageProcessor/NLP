@@ -1,0 +1,1 @@
+{"index": 575, "D": "having necessary power, skill, resources, or qualifications; qualified", "S": [], "A": []}

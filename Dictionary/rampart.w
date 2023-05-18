@@ -1,0 +1,1 @@
+{"index": 260390, "D": "such an elevation together with the parapet.", "S": ["barricade "], "A": ["depression ", "ditch "]}

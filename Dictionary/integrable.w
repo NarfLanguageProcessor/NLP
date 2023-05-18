@@ -1,0 +1,1 @@
+{"index": 154220, "D": "capable of being integrated,  as a mathematical function or differential equation.", "S": ["centripetal ", "combining "], "A": []}

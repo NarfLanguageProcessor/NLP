@@ -1,0 +1,1 @@
+{"index": 138608, "D": "a steroid hormone, C21H30O5, of the adrenal cortex, active in carbohydrate and protein metabolism.", "S": [], "A": []}

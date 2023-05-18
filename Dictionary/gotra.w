@@ -1,0 +1,1 @@
+{"index": 128287, "D": "a Hindu clan tracing its paternal lineage from a common ancestor, usually a saint or sage.", "S": [], "A": []}

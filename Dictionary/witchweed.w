@@ -1,0 +1,1 @@
+{"index": 366558, "D": "an Old World parasitic plant of the genus Striga, introduced into the southern U.S.", "S": [], "A": []}

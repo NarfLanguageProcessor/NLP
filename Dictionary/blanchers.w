@@ -1,0 +1,1 @@
+{"index": 35678, "D": "to whiten by removing color; bleach", "S": [], "A": []}

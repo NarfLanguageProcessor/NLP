@@ -1,0 +1,1 @@
+{"index": 23409, "D": "a type of circus clown who usually wears battered ordinary clothes and is habitually maladroit or unlucky", "S": [], "A": []}

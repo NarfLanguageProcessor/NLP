@@ -1,0 +1,1 @@
+{"index": 330376, "D": "an airplane with three supporting wings, one above another", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 65790, "D": "a sweet preparation of fruit or the like, as a preserve or candy.", "S": ["cake ", "candy ", "pastry "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 276824, "D": "a Eurasian plant, Onobrychis viciifolia, of the legume family, having pinnate leaves and clusters of pink flowers, used for forage.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 161690, "D": "a large folding knife or pocketknife; jackknife.", "S": [], "A": []}

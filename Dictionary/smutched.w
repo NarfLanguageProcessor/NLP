@@ -1,0 +1,1 @@
+{"index": 295159, "D": "to smudge or soil.", "S": ["blacken ", "smear ", "smudge ", "sully "], "A": ["clean ", "cleanse ", "clear ", "flourish ", "grow ", "improve ", "purify ", "sterilize "]}

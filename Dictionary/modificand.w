@@ -1,0 +1,1 @@
+{"index": 191138, "D": "a word that is modified, or qualified, by another. In red books,books is a modificand.", "S": [], "A": []}

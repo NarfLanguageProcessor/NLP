@@ -1,0 +1,1 @@
+{"index": 341003, "D": "to practice economy;  avoid waste or extravagance.", "S": [], "A": []}

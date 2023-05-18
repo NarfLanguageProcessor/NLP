@@ -1,0 +1,1 @@
+{"index": 46012, "D": "a small canal or tubular passage, as in bone.", "S": [], "A": []}

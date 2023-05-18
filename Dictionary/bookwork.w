@@ -1,0 +1,1 @@
+{"index": 38135, "D": "work or research that requires studying or reading, as distinguished from laboratory experimentation or the like.", "S": [], "A": []}

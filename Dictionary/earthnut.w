@@ -1,0 +1,1 @@
+{"index": 94844, "D": "any of various roots, tubers, or underground growths, as the peanut and the truffle.", "S": [], "A": []}

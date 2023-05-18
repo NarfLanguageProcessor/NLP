@@ -1,0 +1,1 @@
+{"index": 129523, "D": "NZ another name for butterfish (def. 2)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308599, "D": "(not in scientific use) any chloride, especially potassium chloride, KCl, used as a fertilizer.", "S": [], "A": []}

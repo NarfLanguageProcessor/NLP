@@ -1,0 +1,1 @@
+{"index": 332893, "D": "any of various oleoresins derived from coniferous trees, especially the longleaf pine, Pinus palustris, and yielding a volatile oil and a resin when distilled.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 325810, "D": "the ruler of a small state or realm", "S": [], "A": []}

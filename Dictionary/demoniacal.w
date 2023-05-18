@@ -1,0 +1,1 @@
+{"index": 80790, "D": "of, relating to, or like a demon; demonic", "S": ["crazed ", "devilish ", "infernal ", "maniacal ", "manic ", "satanic "], "A": ["sane "]}

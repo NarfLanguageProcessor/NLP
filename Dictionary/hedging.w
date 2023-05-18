@@ -1,0 +1,1 @@
+{"index": 135232, "D": [], "S": ["prevarication "], "A": ["certainty ", "clarity ", "fact ", "frankness ", "honesty ", "openness ", "reality ", "surety ", "trustworthiness ", "truth ", "truthfulness ", "uprightness "]}

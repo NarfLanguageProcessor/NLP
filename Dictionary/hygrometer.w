@@ -1,0 +1,1 @@
+{"index": 139346, "D": "any instrument for measuring the water-vapor content of the atmosphere.", "S": [], "A": []}

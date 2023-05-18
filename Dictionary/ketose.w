@@ -1,0 +1,1 @@
+{"index": 164147, "D": "a monosaccharide that contains a ketone group.", "S": [], "A": []}

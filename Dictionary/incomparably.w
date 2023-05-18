@@ -1,0 +1,1 @@
+{"index": 150094, "D": "beyond comparison; matchless or unequaled", "S": ["eminently ", "especially ", "superlatively "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 333961, "D": "extremely liberal,  especially in politics.", "S": [], "A": []}

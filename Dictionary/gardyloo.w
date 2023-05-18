@@ -1,0 +1,1 @@
+{"index": 122125, "D": "(a cry formerly used in Scotland to warn pedestrians when slops were about to be thrown from an upstairs window.)", "S": [], "A": []}

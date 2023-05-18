@@ -1,0 +1,1 @@
+{"index": 138503, "D": "any skin condition characterized by red vesicular areas.", "S": [], "A": []}

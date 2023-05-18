@@ -1,0 +1,1 @@
+{"index": 302971, "D": "to disturb or agitate suddenly as by surprise or alarm.", "S": ["agitate ", "alarm ", "amaze ", "astonish ", "astound ", "awe ", "scare ", "shake up ", "shock ", "stagger ", "stun ", "terrify "], "A": ["bore ", "calm ", "expect ", "reassure ", "soothe "]}

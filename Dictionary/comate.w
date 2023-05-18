@@ -1,0 +1,1 @@
+{"index": 63604, "D": "a mate  or companion.", "S": ["accomplice ", "aide ", "ally ", "assistant ", "associate ", "buddy ", "co-worker ", "colleague ", "comrade ", "cousin ", "crony ", "guide ", "mate ", "nurse ", "partner ", "playmate ", "protector "], "A": ["antagonist ", "enemy ", "foe ", "opponent "]}

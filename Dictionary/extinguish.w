@@ -1,0 +1,1 @@
+{"index": 108354, "D": "to put out (a fire, light, etc.); put out the flame of (something burning or lighted)", "S": ["douse ", "quench ", "smother ", "snuff out ", "stamp out ", "suffocate "], "A": ["start "]}

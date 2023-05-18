@@ -1,0 +1,1 @@
+{"index": 35740, "D": "(of paper or other writing surface) having no marks; not written or printed on", "S": ["bare ", "barren ", "untouched ", "unused ", "vacant "], "A": ["full ", "dirty ", "filled "]}

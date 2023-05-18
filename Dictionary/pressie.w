@@ -1,0 +1,1 @@
+{"index": 249578, "D": "an informal word for present 2 (def. 21)", "S": [], "A": []}

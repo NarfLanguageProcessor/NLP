@@ -1,0 +1,1 @@
+{"index": 96399, "D": "lacking eyes", "S": ["blind ", "sightless ", "unseeing ", "unsighted ", "visionless "], "A": []}

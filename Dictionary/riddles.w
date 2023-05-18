@@ -1,0 +1,1 @@
+{"index": 272638, "D": "a question or statement so framed as to exercise one's ingenuity in answering it or discovering its meaning; conundrum. ", "S": ["complexity ", "conundrum ", "dilemma ", "enigma ", "mystery ", "puzzle ", "quandary ", "teaser "], "A": ["solution ", "confidence ", "good fortune ", "simplicity "]}

@@ -1,0 +1,1 @@
+{"index": 19676, "D": "the Ram, a zodiacal constellation between Pisces and Taurus.", "S": ["Aquarius ", "Cancer ", "Capricorn ", "Gemini ", "Libra ", "Pisces ", "Sagittarius ", "Scorpio ", "Taurus ", "Virgo ", "horoscope sign ", "leo ", "zodiac sign "], "A": []}

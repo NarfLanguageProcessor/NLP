@@ -1,0 +1,1 @@
+{"index": 360627, "D": "capable of being formed into or of becoming glass; vitrifiable.", "S": [], "A": []}

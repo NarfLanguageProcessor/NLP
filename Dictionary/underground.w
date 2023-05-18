@@ -1,0 +1,1 @@
+{"index": 339296, "D": "beneath the surface of the ground", "S": ["buried ", "covered ", "subterranean "], "A": ["authorized ", "ground ", "known ", "legal ", "public ", "sky "]}

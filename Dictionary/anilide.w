@@ -1,0 +1,1 @@
+{"index": 13117, "D": "any compound containing the univalent group C6H5NH\u2013, derived from aniline, as acetanilide,  C8H9NO.", "S": [], "A": []}

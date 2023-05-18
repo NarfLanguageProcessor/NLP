@@ -1,0 +1,1 @@
+{"index": 263417, "D": "to seek advice or information from; ask guidance from", "S": [], "A": []}

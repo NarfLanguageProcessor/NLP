@@ -1,0 +1,1 @@
+{"index": 333140, "D": "trivial, feeble, silly, or tedious talk or writing.", "S": ["babble ", "ramble "], "A": ["be quiet "]}

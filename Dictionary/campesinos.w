@@ -1,0 +1,1 @@
+{"index": 45843, "D": "(in Latin America) a peasant or farmer.", "S": [], "A": []}

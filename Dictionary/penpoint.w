@@ -1,0 +1,1 @@
+{"index": 229804, "D": "the point or writing end of a pen, especially a small, tapering, metallic device having a split tip for drawing up ink and for writing; nib. ", "S": [], "A": []}

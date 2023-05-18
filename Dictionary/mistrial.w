@@ -1,0 +1,1 @@
+{"index": 190360, "D": "a trial  terminated without conclusion on the merits of the case because of some error in the proceedings.", "S": [], "A": []}

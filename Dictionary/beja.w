@@ -1,0 +1,1 @@
+{"index": 30895, "D": "a member of a group of nomadic, predominantly Muslim peoples of Sudan, Egypt, and Eritrea.", "S": [], "A": []}

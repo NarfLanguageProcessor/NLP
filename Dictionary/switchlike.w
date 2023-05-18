@@ -1,0 +1,1 @@
+{"index": 314584, "D": "a slender, flexible shoot, rod, etc., used especially in whipping or disciplining.", "S": [], "A": []}

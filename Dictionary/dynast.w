@@ -1,0 +1,1 @@
+{"index": 86056, "D": "a ruler or potentate, especially a hereditary ruler.", "S": ["czar ", "emperor ", "king ", "monarch ", "shah ", "sultan "], "A": ["commoner ", "subject "]}

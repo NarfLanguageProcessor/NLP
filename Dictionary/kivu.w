@@ -1,0 +1,1 @@
+{"index": 165279, "D": "a lake in central Africa, on the border between the Democratic Republic of the Congo and Rwanda. 1,040 sq. mi. (2,700 sq. km).", "S": [], "A": []}

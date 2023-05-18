@@ -1,0 +1,1 @@
+{"index": 38617, "D": "a person who employs or superintends workers; manager. ", "S": ["capital ", "champion ", "fine ", "fly ", "top "], "A": ["lousy ", "terrible "]}

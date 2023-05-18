@@ -1,0 +1,1 @@
+{"index": 328946, "D": "of, in, or pertaining to the latest trend  or style.", "S": [], "A": []}

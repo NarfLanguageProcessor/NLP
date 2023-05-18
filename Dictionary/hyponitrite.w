@@ -1,0 +1,1 @@
+{"index": 141045, "D": "a salt or ester of hyponitrous acid. ", "S": [], "A": []}

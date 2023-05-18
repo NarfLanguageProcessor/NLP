@@ -1,0 +1,1 @@
+{"index": 239820, "D": "a full or abundant supply or amount", "S": ["enough ", "good deal ", "luxury ", "plethora ", "quantity ", "torrent ", "wealth "], "A": ["lack ", "need ", "want ", "poorness "]}

@@ -1,0 +1,1 @@
+{"index": 42067, "D": "impetuous; dashing.", "S": [], "A": []}

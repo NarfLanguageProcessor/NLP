@@ -1,0 +1,1 @@
+{"index": 329623, "D": "having three ribs, costae, or raised lines.", "S": [], "A": []}

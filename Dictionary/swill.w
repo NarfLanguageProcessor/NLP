@@ -1,0 +1,1 @@
+{"index": 314417, "D": "liquid or partly liquid food for animals, especially kitchen refuse given to swine; hogwash.", "S": ["refuse ", "rubbish ", "slop ", "slops ", "trash ", "waste "], "A": ["assets ", "possessions ", "property ", "sense "]}

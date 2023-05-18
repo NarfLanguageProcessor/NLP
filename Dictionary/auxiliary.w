@@ -1,0 +1,1 @@
+{"index": 24520, "D": "additional; supplementary; reserve", "S": ["ancillary "], "A": ["chief ", "important ", "necessary ", "superior "]}

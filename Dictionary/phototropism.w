@@ -1,0 +1,1 @@
+{"index": 235458, "D": "phototropic tendency or growth.", "S": [], "A": []}

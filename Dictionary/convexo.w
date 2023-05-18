@@ -1,0 +1,1 @@
+{"index": 68083, "D": "a combining form representing convex  in compound words", "S": [], "A": []}

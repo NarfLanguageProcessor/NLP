@@ -1,0 +1,1 @@
+{"index": 299794, "D": "a peg or plug of wood, especially one used as a spigot.", "S": ["nozzle ", "valve "], "A": []}

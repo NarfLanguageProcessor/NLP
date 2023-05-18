@@ -1,0 +1,1 @@
+{"index": 171752, "D": "any erect or creeping, mosslike, evergreen plant of the genus Lycopodium, as the club moss or ground pine.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 240359, "D": "a ruffian; rowdy; tough.", "S": [], "A": []}

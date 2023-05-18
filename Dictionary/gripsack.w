@@ -1,0 +1,1 @@
+{"index": 130015, "D": "a traveling bag; grip. ", "S": ["bag ", "baggage ", "carry-on ", "grip ", "haversack ", "portmanteau ", "satchel ", "suitcase "], "A": []}

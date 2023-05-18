@@ -1,0 +1,1 @@
+{"index": 51924, "D": "the husks of grains and grasses that are separated during threshing.", "S": ["banter ", "deride ", "fun ", "jeer ", "jolly ", "josh ", "kid ", "mock ", "rag ", "rally ", "razz ", "rib ", "scoff ", "taunt ", "tease "], "A": ["compliment ", "flatter ", "praise "]}

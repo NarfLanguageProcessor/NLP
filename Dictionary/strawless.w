@@ -1,0 +1,1 @@
+{"index": 305944, "D": "a single stalk or stem, especially of certain species of grain, chiefly wheat, rye, oats, and barley.", "S": [], "A": []}

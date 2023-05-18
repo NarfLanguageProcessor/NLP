@@ -1,0 +1,1 @@
+{"index": 6644, "D": "without concern for history or historical development; indifferent to tradition.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 206868, "D": "in a way that exhibits deep respect or veneration", "S": [], "A": []}

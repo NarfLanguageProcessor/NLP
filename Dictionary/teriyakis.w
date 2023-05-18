@@ -1,0 +1,1 @@
+{"index": 319340, "D": "a dish of grilled slices of beef, chicken, or fish that have been marinated in soy sauce seasoned with sake, ginger, and sugar.", "S": [], "A": []}

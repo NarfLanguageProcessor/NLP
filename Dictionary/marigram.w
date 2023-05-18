@@ -1,0 +1,1 @@
+{"index": 180060, "D": "a graphic representation from a marigraph.", "S": [], "A": []}

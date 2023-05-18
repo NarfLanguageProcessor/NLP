@@ -1,0 +1,1 @@
+{"index": 87143, "D": "to disclaim knowledge of, connection with, or responsibility for; disown; repudiate", "S": ["adverse ", "gloomy ", "pessimistic ", "unfavorable ", "weak "], "A": ["confident ", "favorable "]}

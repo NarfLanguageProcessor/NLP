@@ -1,0 +1,1 @@
+{"index": 88095, "D": "a less common variant of disenfranchise. ", "S": ["bar ", "exclude ", "invalidate ", "preclude ", "prohibit ", "rule out ", "suspend "], "A": ["add ", "allow ", "include ", "permit ", "aid ", "assist ", "help ", "mobilize "]}

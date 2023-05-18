@@ -1,0 +1,1 @@
+{"index": 338095, "D": "excellence of manners or social conduct; polite behavior", "S": [], "A": []}

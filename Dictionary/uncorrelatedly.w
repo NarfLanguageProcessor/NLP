@@ -1,0 +1,1 @@
+{"index": 338018, "D": "to place in or bring into mutual or reciprocal relation; establish in orderly connection", "S": [], "A": []}

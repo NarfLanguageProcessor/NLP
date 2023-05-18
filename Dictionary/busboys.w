@@ -1,0 +1,1 @@
+{"index": 43371, "D": "a waiter's helper in a restaurant or other public dining room.", "S": [], "A": []}

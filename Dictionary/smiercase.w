@@ -1,0 +1,1 @@
+{"index": 294861, "D": "any soft cheese suitable for spreading or eating with a spoon, especially a sour cottage cheese.", "S": [], "A": []}

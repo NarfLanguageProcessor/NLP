@@ -1,0 +1,1 @@
+{"index": 369263, "D": "(in certain fungi) any of several specialized branches of hyphae, bearing the isogametes that unite to produce a zygospore.", "S": [], "A": []}

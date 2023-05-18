@@ -1,0 +1,1 @@
+{"index": 169483, "D": "lowercase alphabet.", "S": [], "A": []}

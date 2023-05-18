@@ -1,0 +1,1 @@
+{"index": 18157, "D": "achievement quotient. ", "S": [], "A": []}

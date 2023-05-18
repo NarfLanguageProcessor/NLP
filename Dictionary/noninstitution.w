@@ -1,0 +1,1 @@
+{"index": 204768, "D": "an organization, establishment, foundation, society, or the like, devoted to the promotion of a particular cause or program, especially one of a public, educational, or charitable character", "S": [], "A": []}

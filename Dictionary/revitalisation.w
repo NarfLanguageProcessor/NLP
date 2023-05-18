@@ -1,0 +1,1 @@
+{"index": 271410, "D": "the act or process of giving new life or fresh vitality or energy to someone or something", "S": [], "A": []}

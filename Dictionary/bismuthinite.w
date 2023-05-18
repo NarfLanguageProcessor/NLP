@@ -1,0 +1,1 @@
+{"index": 35068, "D": "a mineral, bismuth sulfide, Bi2S3, occurring in lead-gray masses", "S": [], "A": []}

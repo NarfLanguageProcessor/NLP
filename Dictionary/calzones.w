@@ -1,0 +1,1 @@
+{"index": 45536, "D": "a turnover made of pizza dough, usually containing cheese, prosciutto, and herbs or garlic and either baked or fried.", "S": [], "A": []}

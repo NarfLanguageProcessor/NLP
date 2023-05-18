@@ -1,0 +1,1 @@
+{"index": 53009, "D": "a soft, lusterless silk or rayon tie fabric, often made with a faint stripe effect.", "S": [], "A": []}

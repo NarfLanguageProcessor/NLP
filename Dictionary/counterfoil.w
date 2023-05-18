@@ -1,0 +1,1 @@
+{"index": 70823, "D": "a part of a bank check, money order, etc., that is kept by the issuer and on which a record of the transaction is made; stub.", "S": ["certificate ", "voucher "], "A": []}

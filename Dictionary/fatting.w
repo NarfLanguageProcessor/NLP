@@ -1,0 +1,1 @@
+{"index": 110359, "D": "having too much flabby tissue; corpulent; obese", "S": ["blub ", "fat ", "flab ", "flitch ", "nettle ", "seethe ", "sob ", "swell ", "swollen ", "thick ", "wail ", "weep ", "whale ", "whimper ", "whine "], "A": []}

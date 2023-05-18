@@ -1,0 +1,1 @@
+{"index": 287911, "D": "a paper money, cupronickel or silver coin, and monetary unit of Israel equal to 100 agorot", "S": [], "A": []}

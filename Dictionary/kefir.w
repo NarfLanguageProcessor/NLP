@@ -1,0 +1,1 @@
+{"index": 163615, "D": "a tart-tasting drink originally of the Caucasus, made from cow's or sometimes goat's milk to which the bacteria Streptococcus and Lactobacillus have been added.", "S": [], "A": []}

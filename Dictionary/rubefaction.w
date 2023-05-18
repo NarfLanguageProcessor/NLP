@@ -1,0 +1,1 @@
+{"index": 275145, "D": "the act or process of making red, especially with a rubefacient.", "S": [], "A": []}

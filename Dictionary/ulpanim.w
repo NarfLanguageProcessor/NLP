@@ -1,0 +1,1 @@
+{"index": 333817, "D": "an institute or school for intensive study of Hebrew, especially by immigrants to Israel.", "S": [], "A": []}

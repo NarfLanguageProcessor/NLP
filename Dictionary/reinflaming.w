@@ -1,0 +1,1 @@
+{"index": 266291, "D": "to kindle or excite (passions, desires, etc.).", "S": [], "A": []}

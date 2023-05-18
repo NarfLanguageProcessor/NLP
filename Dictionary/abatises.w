@@ -1,0 +1,1 @@
+{"index": 157, "D": "an obstacle or barricade of trees with bent or sharpened branches directed toward an enemy.", "S": [], "A": []}

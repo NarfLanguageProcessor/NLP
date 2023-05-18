@@ -1,0 +1,1 @@
+{"index": 125486, "D": "a person or thing that girdles. ", "S": [], "A": []}

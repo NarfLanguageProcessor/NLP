@@ -1,0 +1,1 @@
+{"index": 369828, "D": "of or relating to zoology. ", "S": ["bodily ", "natural "], "A": ["gentle ", "mild "]}

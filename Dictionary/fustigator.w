@@ -1,0 +1,1 @@
+{"index": 120662, "D": "to cudgel; beat;  punish severely.", "S": [], "A": []}

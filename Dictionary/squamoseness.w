@@ -1,0 +1,1 @@
+{"index": 301691, "D": "covered with or formed of squamae; scaly. ", "S": [], "A": []}

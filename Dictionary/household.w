@@ -1,0 +1,1 @@
+{"index": 144419, "D": "the people of a house collectively; a family including its servants.", "S": ["everyday ", "ordinary "], "A": ["abnormal ", "different ", "special ", "uncommon "]}

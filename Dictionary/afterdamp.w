@@ -1,0 +1,1 @@
+{"index": 5653, "D": "an irrespirable mixture of gases, consisting chiefly of carbon dioxide and nitrogen, left in a mine after  an explosion or fire.", "S": [], "A": []}

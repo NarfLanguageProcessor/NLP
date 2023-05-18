@@ -1,0 +1,1 @@
+{"index": 74312, "D": "the brown, hard outer portion or surface of a loaf or slice of bread (distinguished from crumb).", "S": ["cover ", "glaze ", "laminate ", "paint ", "smear ", "stain "], "A": ["strip "]}

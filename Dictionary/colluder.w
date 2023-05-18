@@ -1,0 +1,1 @@
+{"index": 63144, "D": "to act together through a secret understanding, especially with evil or harmful intent.", "S": ["accomplice ", "collaborator ", "plotter ", "traitor "], "A": []}

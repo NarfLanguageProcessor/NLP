@@ -1,0 +1,1 @@
+{"index": 200220, "D": "a sturdy chiffon or voile constructed in either plain or novelty weaves and generally used in the manufacture of women's garments, curtains, and drapery.", "S": [], "A": []}

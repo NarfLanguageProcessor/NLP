@@ -1,0 +1,1 @@
+{"index": 77873, "D": "to remove burrs  from (a piece of machined work); burr. ", "S": [], "A": []}

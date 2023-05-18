@@ -1,0 +1,1 @@
+{"index": 57436, "D": "British a variant spelling (used in the building industry) for sill (def. 1), sill (def. 2), sill (def. 3), sill (def. 4)", "S": [], "A": []}

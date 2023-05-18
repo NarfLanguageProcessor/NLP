@@ -1,0 +1,1 @@
+{"index": 192557, "D": "a measure consisting of one foot.", "S": [], "A": []}

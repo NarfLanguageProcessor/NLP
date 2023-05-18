@@ -1,0 +1,1 @@
+{"index": 28328, "D": "a cylindrical wooden container with slightly bulging sides made of staves hooped together, and with flat, parallel ends.", "S": ["dash ", "fly ", "jog ", "race ", "rush ", "shoot ", "sprint ", "travel "], "A": ["remain ", "stay ", "walk ", "dally ", "dawdle ", "delay ", "linger ", "procrastinate ", "slow ", "wait "]}

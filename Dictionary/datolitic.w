@@ -1,0 +1,1 @@
+{"index": 77202, "D": "a mineral, calcium and boron silicate, CaB(SiO4)(OH), usually occurring in rock cavities in the form of colorless, prismatic crystals.", "S": [], "A": []}

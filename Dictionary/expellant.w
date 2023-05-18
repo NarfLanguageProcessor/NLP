@@ -1,0 +1,1 @@
+{"index": 107669, "D": "expelling, or having the power to expel.", "S": [], "A": []}

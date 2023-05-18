@@ -1,0 +1,1 @@
+{"index": 119508, "D": "musty; ill-smelling.", "S": ["damp ", "fetid ", "malodorous ", "mildewy ", "musty ", "rank ", "stagnant ", "stale ", "stinky ", "stuffy "], "A": []}

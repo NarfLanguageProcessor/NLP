@@ -1,0 +1,1 @@
+{"index": 213797, "D": "a person who makes or sells eyeglasses and, usually, contact lenses, for remedying defects of vision in accordance with the prescriptions of ophthalmologists and optometrists.", "S": [], "A": []}

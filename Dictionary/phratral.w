@@ -1,0 +1,1 @@
+{"index": 235523, "D": "a grouping of clans or other social units within a tribe.", "S": [], "A": []}

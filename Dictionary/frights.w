@@ -1,0 +1,1 @@
+{"index": 119011, "D": "sudden and extreme fear; a sudden terror.", "S": ["consternation ", "dismay ", "horror ", "panic ", "trepidation "], "A": ["calm ", "confidence ", "contentment ", "happiness ", "bravery ", "calmness ", "courage "]}

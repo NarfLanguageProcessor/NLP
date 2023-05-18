@@ -1,0 +1,1 @@
+{"index": 348583, "D": "a movement toward a goal or to a further or higher stage", "S": [], "A": []}

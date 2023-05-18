@@ -1,0 +1,1 @@
+{"index": 197729, "D": "something necessary  or indispensable", "S": ["aliment ", "comestibles ", "diet ", "fare ", "feed ", "grub ", "nourishment ", "nurture ", "nutriment ", "provender ", "provisions ", "shingle ", "subsistence ", "sustenance ", "viands ", "victuals "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303072, "D": "the electrostatic unit of inductance, equivalent to 8.9876 \u00d7 1011 henries and equal to the inductance of a circuit in which an electromotive force of one statvolt is produced by a current in the circuit which varies at the rate of one statampere per second.", "S": [], "A": []}

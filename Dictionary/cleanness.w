@@ -1,0 +1,1 @@
+{"index": 59631, "D": "the state or quality of having clean  or trim lines", "S": ["clarity ", "cleanliness ", "clearness ", "freshness ", "pureness ", "spotlessness "], "A": ["dirtiness "]}

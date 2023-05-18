@@ -1,0 +1,1 @@
+{"index": 358697, "D": "a small, movable, graduated scale running parallel to the fixed graduated scale of a sextant, theodolite, barometer, etc., and used for measuring a fractional part of one of the divisions of the fixed scale.", "S": [], "A": []}

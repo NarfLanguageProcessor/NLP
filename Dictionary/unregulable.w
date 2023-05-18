@@ -1,0 +1,1 @@
+{"index": 349375, "D": "that can be regulated;  controllable.", "S": [], "A": []}

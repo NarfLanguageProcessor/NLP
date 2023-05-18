@@ -1,0 +1,1 @@
+{"index": 215732, "D": "(formerly) a cupronickel coin and monetary unit of East Germany", "S": [], "A": []}

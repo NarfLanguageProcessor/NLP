@@ -1,0 +1,1 @@
+{"index": 145352, "D": "the dry external covering of certain fruits or seeds, especially of an ear of corn.", "S": [], "A": []}

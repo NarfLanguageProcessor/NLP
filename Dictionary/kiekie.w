@@ -1,0 +1,1 @@
+{"index": 164508, "D": "a climbing bush plant, Freycinetia banksii, of New Zealand, having elongated leaves and edible berries", "S": [], "A": []}

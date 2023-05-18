@@ -1,0 +1,1 @@
+{"index": 14828, "D": "anticapitalist riots", "S": [], "A": []}

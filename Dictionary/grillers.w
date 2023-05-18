@@ -1,0 +1,1 @@
+{"index": 129868, "D": "a person who grills  food, especially as a cook in a restaurant.", "S": [], "A": []}

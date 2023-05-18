@@ -1,0 +1,1 @@
+{"index": 41455, "D": "a huge sauropod dinosaur of the genus Apatosaurus (formerly Brontosaurus) and closely related genera, of the Jurassic Period, having a massive body, a small head and long neck, and thick columnar limbs, and ranging up to 77 feet (23.5 meters) in length.", "S": [], "A": []}

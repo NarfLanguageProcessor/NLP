@@ -1,0 +1,1 @@
+{"index": 73128, "D": "an instrument for determining the freezing point of a liquid or solution.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148142, "D": "a technique for the separation and identification of mixtures of proteins, consisting of electrophoresis  followed by immunodiffusion.", "S": [], "A": []}

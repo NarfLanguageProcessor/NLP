@@ -1,0 +1,1 @@
+{"index": 366714, "D": "the ability to reason and act, esp quickly (esp in the phrase have one's wits about one)", "S": ["fun ", "joke ", "satire "], "A": ["seriousness "]}

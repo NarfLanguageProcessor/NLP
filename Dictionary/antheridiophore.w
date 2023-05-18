@@ -1,0 +1,1 @@
+{"index": 14342, "D": "A structure that bears the antheridia in some liverworts. See more at  liverwort.", "S": [], "A": []}

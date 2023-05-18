@@ -1,0 +1,1 @@
+{"index": 149248, "D": "to challenge as false (another's statements, motives, etc.); cast doubt upon.", "S": [], "A": []}

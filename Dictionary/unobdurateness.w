@@ -1,0 +1,1 @@
+{"index": 346988, "D": "unmoved by persuasion, pity, or tender feelings; stubborn; unyielding.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 239322, "D": "a lightproof container for a photographic plate,  loaded into the camera with the plate  and having a slide that is removed before exposing.", "S": [], "A": []}

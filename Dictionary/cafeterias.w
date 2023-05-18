@@ -1,0 +1,1 @@
+{"index": 44473, "D": "a restaurant in which patrons wait on themselves, carrying their food to tables from counters where it is displayed and served.", "S": ["lunchroom ", "snack bar "], "A": []}

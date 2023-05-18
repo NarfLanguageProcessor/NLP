@@ -1,0 +1,1 @@
+{"index": 185192, "D": "a central nervous system stimulant, C10H15N, used clinically in the treatment of narcolepsy, hyperkinesia, and for blood pressure maintenance in hypotensive states", "S": [], "A": []}

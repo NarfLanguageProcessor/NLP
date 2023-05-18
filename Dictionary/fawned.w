@@ -1,0 +1,1 @@
+{"index": 110543, "D": "a young deer, especially an unweaned one.", "S": ["crouch ", "grovel "], "A": ["deny ", "fight ", "force ", "honor ", "ignore ", "refuse ", "reject "]}

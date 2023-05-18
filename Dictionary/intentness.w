@@ -1,0 +1,1 @@
+{"index": 154405, "D": "something that is planned, proposed, or intended; purpose; design; intention", "S": ["concentration "], "A": ["surrender "]}

@@ -1,0 +1,1 @@
+{"index": 176237, "D": "any nematode worm  of the superfamily Metastrongylidae, parasitic in the lungs  of various mammals.", "S": [], "A": []}

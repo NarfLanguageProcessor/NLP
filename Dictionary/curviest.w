@@ -1,0 +1,1 @@
+{"index": 75582, "D": "curved. ", "S": ["curved ", "curvilineal ", "curvilinear ", "curving ", "loopy ", "snaky ", "sweeping ", "twisted ", "twisting ", "winding "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 32226, "D": "a shelflike sleeping space, as on a ship, airplane, or railroad car.", "S": ["dock ", "port ", "wharf "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 300980, "D": "a diploid cell in certain spore-bearing plants, as liverworts, that produces four haploid spores through meiosis; a spore mother cell.", "S": [], "A": []}

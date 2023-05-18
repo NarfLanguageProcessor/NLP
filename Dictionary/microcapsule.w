@@ -1,0 +1,1 @@
+{"index": 185951, "D": "a tiny capsule,  20\u2013150 microns in diameter, used for slow-release application of drugs, pesticides, flavors, etc.", "S": [], "A": []}

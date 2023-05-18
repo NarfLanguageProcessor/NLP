@@ -1,0 +1,1 @@
+{"index": 251897, "D": "of or relating to prognosis. ", "S": ["ailment ", "disorder ", "malady ", "problem ", "sickness "], "A": ["health "]}

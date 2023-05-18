@@ -1,0 +1,1 @@
+{"index": 26487, "D": "the delivery of personal property returnable to the bailor after being held for some purpose.", "S": [], "A": []}

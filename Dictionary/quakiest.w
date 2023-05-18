@@ -1,0 +1,1 @@
+{"index": 257852, "D": "tending to quake;  shaky or tremulous.", "S": ["aquiver ", "palpitating ", "quavering ", "quivering ", "quivery ", "shaky ", "shivering ", "shivery ", "trembling ", "tremulant ", "twittery ", "wobbly "], "A": []}

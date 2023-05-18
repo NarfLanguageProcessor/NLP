@@ -1,0 +1,1 @@
+{"index": 134539, "D": "the nut of the hazel; filbert.", "S": [], "A": []}

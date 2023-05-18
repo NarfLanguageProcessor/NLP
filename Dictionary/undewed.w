@@ -1,0 +1,1 @@
+{"index": 340284, "D": "moisture condensed from the atmosphere, especially at night, and deposited in the form of small drops upon any cool surface.", "S": [], "A": []}

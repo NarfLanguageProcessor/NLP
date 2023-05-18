@@ -1,0 +1,1 @@
+{"index": 148747, "D": "to sue in a court of law.", "S": [], "A": []}

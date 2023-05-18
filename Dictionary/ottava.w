@@ -1,0 +1,1 @@
+{"index": 215995, "D": "(of notes in a score) at an octave higher than written (when placed above the staff) or lower than written (when placed below the staff). Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 123806, "D": "the science dealing with the chemical changes in and the composition of the earth's crust.", "S": [], "A": []}

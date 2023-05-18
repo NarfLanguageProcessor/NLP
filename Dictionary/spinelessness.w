@@ -1,0 +1,1 @@
+{"index": 299879, "D": "having no spines  or quills.", "S": ["dastardliness ", "fearfulness ", "pusillanimity ", "pusillanimousness ", "timidity ", "unmanliness "], "A": []}

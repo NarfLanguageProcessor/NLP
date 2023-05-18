@@ -1,0 +1,1 @@
+{"index": 259861, "D": "a triangular sail set in the manner of a square sail above the uppermost yard of a topsail schooner.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 35239, "D": "an evergreen shrub, Purshia tridentata, of western North America, having bitter three-toothed leaves and yellow flowers, valuable for forage.", "S": [], "A": []}

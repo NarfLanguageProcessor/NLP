@@ -1,0 +1,1 @@
+{"index": 344196, "D": "involving, done by, or decided by only one person, side, party, or faction", "S": [], "A": []}

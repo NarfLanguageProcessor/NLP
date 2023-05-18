@@ -1,0 +1,1 @@
+{"index": 251103, "D": "the trunk of an elephant.", "S": ["beak ", "organ ", "snoot ", "snout ", "trunk "], "A": []}

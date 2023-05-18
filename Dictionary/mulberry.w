@@ -1,0 +1,1 @@
+{"index": 194870, "D": "the edible, berrylike collective fruit of any tree of the genus Morus.", "S": ["aggregate fruit ", "fig ", "pineapple "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 275636, "D": "a quick review or summary of main points of information, usually oral", "S": ["recap ", "synopsis "], "A": []}

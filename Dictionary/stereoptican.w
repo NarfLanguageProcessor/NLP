@@ -1,0 +1,1 @@
+{"index": 303947, "D": "a projector usually consisting of two complete lanterns arranged so that one picture appears to dissolve while the next is forming.", "S": [], "A": []}

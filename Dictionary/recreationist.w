@@ -1,0 +1,1 @@
+{"index": 263588, "D": "a person who advocates that national parks, seashores, lakes, etc., be preserved in their natural state for recreation,  farming, or scientific study.", "S": [], "A": []}

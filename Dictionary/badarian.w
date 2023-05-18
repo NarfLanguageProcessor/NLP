@@ -1,0 +1,1 @@
+{"index": 26162, "D": "of, relating to, or belonging to the predynastic culture of Upper Egypt, 4100\u20133500 b.c., characterized by flint tools, stone axes, and pottery.", "S": [], "A": []}

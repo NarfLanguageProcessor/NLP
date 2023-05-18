@@ -1,0 +1,1 @@
+{"index": 269420, "D": "springing back; rebounding.", "S": ["buoyant ", "strong ", "supple ", "tough ", "volatile "], "A": ["delicate ", "weak "]}

@@ -1,0 +1,1 @@
+{"index": 166479, "D": "a transparent lilac-colored variety of spodumene, used as a gem.", "S": [], "A": []}

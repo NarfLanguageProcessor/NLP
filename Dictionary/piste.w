@@ -1,0 +1,1 @@
+{"index": 238151, "D": "a track or trail, as a downhill ski run or a spoor made by a wild animal.", "S": [], "A": []}

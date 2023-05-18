@@ -1,0 +1,1 @@
+{"index": 139686, "D": "situated in the rear or at the back; posterior", "S": ["back ", "back door ", "back end ", "backside ", "bottom ", "butt ", "rear end ", "tail "], "A": ["front "]}

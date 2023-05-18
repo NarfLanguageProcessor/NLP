@@ -1,0 +1,1 @@
+{"index": 127731, "D": "imitation of the ornate and intricate style of G\u00f3ngora y Argote.", "S": ["bombast ", "delicacy ", "floridness ", "fustian ", "grandiloquence ", "pomposity ", "purism ", "rhetoric ", "wordiness "], "A": ["conciseness "]}

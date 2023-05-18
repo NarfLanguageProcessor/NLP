@@ -1,0 +1,1 @@
+{"index": 195640, "D": "a lepton similar in most respects to the electron except that it is unstable, it may be positively charged, and its mass is approximately 207 times greater; the positively charged muon is the antiparticle of the negatively charged muon. Symbol", "S": [], "A": []}

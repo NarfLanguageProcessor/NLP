@@ -1,0 +1,1 @@
+{"index": 49075, "D": "to criticize or reprimand severely.", "S": ["insulting ", "offensive ", "rude "], "A": ["kind ", "nice ", "respectful "]}

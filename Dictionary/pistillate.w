@@ -1,0 +1,1 @@
+{"index": 238160, "D": "having a pistil  or pistils. ", "S": [], "A": []}

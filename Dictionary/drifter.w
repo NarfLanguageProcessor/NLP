@@ -1,0 +1,1 @@
+{"index": 93065, "D": "a person or thing that drifts. ", "S": ["hobo ", "transient "], "A": []}

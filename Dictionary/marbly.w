@@ -1,0 +1,1 @@
+{"index": 179856, "D": "like marble  in appearance, hardness, coldness, etc.", "S": [], "A": []}

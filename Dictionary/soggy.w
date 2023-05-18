@@ -1,0 +1,1 @@
+{"index": 296396, "D": "soaked; thoroughly wet; sodden.", "S": ["humid ", "moist ", "muggy ", "mushy ", "saturated ", "soaked ", "sodden ", "soft ", "spongy ", "sticky ", "sultry ", "waterlogged "], "A": ["arid ", "cool ", "dry ", "hard "]}

@@ -1,0 +1,1 @@
+{"index": 293808, "D": "something that is native to, characteristic of, or associated with the Slavs  or Slavic.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 137479, "D": "the production of more than one kind of fruit in one plant.", "S": [], "A": []}

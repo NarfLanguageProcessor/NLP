@@ -1,0 +1,1 @@
+{"index": 92346, "D": "tyrannized over; oppressed", "S": [], "A": []}

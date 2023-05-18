@@ -1,0 +1,1 @@
+{"index": 27495, "D": "a person employed by a bank,  especially as an executive or other official.", "S": ["broker ", "dealer ", "financier ", "investor ", "manager ", "officer "], "A": []}

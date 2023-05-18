@@ -1,0 +1,1 @@
+{"index": 368536, "D": "any of six isomeric compounds that have the formula C8H11N, are derivatives of xylene,  and resemble aniline", "S": [], "A": []}

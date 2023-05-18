@@ -1,0 +1,1 @@
+{"index": 270435, "D": "a network; any reticulated system or structure.", "S": ["network ", "screen "], "A": []}

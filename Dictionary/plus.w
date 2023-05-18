@@ -1,0 +1,1 @@
+{"index": 240617, "D": "more by the addition of; increased by", "S": ["positive ", "surplus "], "A": ["detrimental ", "minus ", "negative "]}

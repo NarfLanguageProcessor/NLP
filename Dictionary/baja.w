@@ -1,0 +1,1 @@
+{"index": 26563, "D": "a narrow peninsula in northwestern Mexico between the Gulf of California and the Pacific, forming two territories of Mexico. 55,634 sq. mi. (144,090 sq. km). Capitals", "S": [], "A": []}

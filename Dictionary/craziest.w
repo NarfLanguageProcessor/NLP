@@ -1,0 +1,1 @@
+{"index": 72346, "D": "mentally deranged; demented; insane. ", "S": ["insane ", "kooky ", "mad ", "nuts ", "nutty ", "silly ", "wacky "], "A": ["balanced ", "calm ", "collected ", "rational ", "reasonable ", "sane ", "sound "]}

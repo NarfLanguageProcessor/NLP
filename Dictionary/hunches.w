@@ -1,0 +1,1 @@
+{"index": 145113, "D": "to thrust out or up in a hump; arch", "S": ["inkling ", "instinct ", "intuition ", "premonition "], "A": ["knowledge ", "reason ", "trust "]}

@@ -1,0 +1,1 @@
+{"index": 87740, "D": "able to distinguish differences or distinctions; differentiating; analytic. ", "S": ["astute ", "choosy ", "discerning ", "eclectic ", "fastidious ", "finicky ", "fussy ", "refined ", "selective "], "A": ["open ", "uncritical ", "undemanding ", "undiscriminating ", "unfussy "]}

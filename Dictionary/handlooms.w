@@ -1,0 +1,1 @@
+{"index": 133229, "D": "a loom  operated manually, in contrast to a power loom. ", "S": [], "A": []}

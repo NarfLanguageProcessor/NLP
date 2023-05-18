@@ -1,0 +1,1 @@
+{"index": 114254, "D": "having no defects or faults, especially none that diminish the value of something", "S": ["exactly ", "meticulously ", "precisely "], "A": []}

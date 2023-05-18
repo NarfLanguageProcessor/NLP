@@ -1,0 +1,1 @@
+{"index": 123491, "D": "the entire body of individuals born and living at about the same time", "S": ["bearing ", "breeding ", "formation ", "genesis ", "origination ", "procreation ", "propagation ", "reproduction "], "A": ["destruction "]}

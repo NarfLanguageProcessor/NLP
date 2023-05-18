@@ -1,0 +1,1 @@
+{"index": 206434, "D": "radiant  brightness or light", "S": [], "A": []}

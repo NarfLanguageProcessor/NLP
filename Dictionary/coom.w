@@ -1,0 +1,1 @@
+{"index": 68290, "D": "soot; coal dust; smut.", "S": [], "A": []}

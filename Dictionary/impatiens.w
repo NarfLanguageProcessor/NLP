@@ -1,0 +1,1 @@
+{"index": 148358, "D": "any of numerous plants belonging to the genus Impatiens, of the balsam family, having irregular flowers in which the calyx and corolla are not clearly distinguishable and bearing fruit that bursts open to scatter the seeds.", "S": [], "A": []}

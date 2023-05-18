@@ -1,0 +1,1 @@
+{"index": 92838, "D": "causing great dread,  fear, or terror; terrible", "S": ["atrocity ", "awfulness ", "frightfulness ", "ghastliness ", "gruesomeness ", "horridness ", "monstrosity ", "rankness ", "repulsiveness "], "A": []}

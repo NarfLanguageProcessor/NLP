@@ -1,0 +1,1 @@
+{"index": 31696, "D": "the biogeographic region that includes the bottom of a lake, sea, or ocean, and the littoral and supralittoral zones of the shore.", "S": [], "A": []}

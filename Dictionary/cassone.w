@@ -1,0 +1,1 @@
+{"index": 49013, "D": "a large Italian chest of the Middle Ages and Renaissance, usually highly ornamented.", "S": [], "A": []}

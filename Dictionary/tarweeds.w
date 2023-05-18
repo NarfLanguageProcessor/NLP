@@ -1,0 +1,1 @@
+{"index": 316853, "D": "any of several resinous or gummy, composite plants of the genus Grindelia, having solitary flower heads.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 49318, "D": "a boy or youth who is in a sexual relationship with a man.", "S": [], "A": []}

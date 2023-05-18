@@ -1,0 +1,1 @@
+{"index": 359386, "D": "the dignity, office, or period of office of a viceroy.", "S": [], "A": []}

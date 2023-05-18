@@ -1,0 +1,1 @@
+{"index": 182938, "D": "sweetly or smoothly flowing; sweet-sounding", "S": ["agreeable ", "dulcet ", "euphonic ", "fluid ", "harmonic ", "honeyed ", "mellifluent ", "mellow ", "pleasing ", "resonant ", "songful ", "soothing ", "symphonious ", "tuned ", "tuneful "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 287513, "D": "a river in northern central Africa, flowing northwest from the Central African Republic into Lake Chad. 1,400 miles (2,254 km) long.", "S": [], "A": []}

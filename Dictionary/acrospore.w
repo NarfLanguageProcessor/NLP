@@ -1,0 +1,1 @@
+{"index": 3035, "D": "a spore  borne at the tip of a sporophore, as a basidiospore.", "S": [], "A": []}

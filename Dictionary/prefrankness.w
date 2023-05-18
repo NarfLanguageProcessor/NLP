@@ -1,0 +1,1 @@
+{"index": 247662, "D": "plainness of speech; candor; openness. ", "S": [], "A": []}

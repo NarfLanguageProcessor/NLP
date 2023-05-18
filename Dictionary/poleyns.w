@@ -1,0 +1,1 @@
+{"index": 241537, "D": "a piece for the knee, made of plate or leather.", "S": [], "A": []}

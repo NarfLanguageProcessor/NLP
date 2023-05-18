@@ -1,0 +1,1 @@
+{"index": 39959, "D": "the partly ground husk of wheat or other grain, separated from flour meal by sifting.", "S": [], "A": []}

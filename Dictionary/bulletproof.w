@@ -1,0 +1,1 @@
+{"index": 42546, "D": "(of vehicles, glass, clothing, etc.) capable of resisting or absorbing the impact of a bullet. ", "S": ["protected ", "shielded "], "A": ["breakable ", "unprotected ", "weak "]}

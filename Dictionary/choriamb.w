@@ -1,0 +1,1 @@
+{"index": 55788, "D": "a foot of four syllables, two short between two long or two unstressed between two stressed.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27899, "D": "without covering or clothing; naked; nude", "S": ["bare ", "defined ", "disclosed ", "discovered ", "naked ", "resolved ", "solved ", "uncovered ", "unprotected "], "A": ["clothed ", "hidden ", "ambiguous ", "blocked ", "closed ", "concealed ", "obscure ", "unclear ", "vague "]}

@@ -1,0 +1,1 @@
+{"index": 70435, "D": "a heavy, coarse fabric made of cotton or mixed fibers and often resembling wool, used in the manufacture of work clothes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 267990, "D": "a person or thing that repairs. ", "S": [], "A": []}

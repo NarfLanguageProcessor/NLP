@@ -1,0 +1,1 @@
+{"index": 16968, "D": "a surgical procedure to remove the end of a tooth root in endodontic therapy.", "S": [], "A": []}

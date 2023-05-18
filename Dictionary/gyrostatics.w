@@ -1,0 +1,1 @@
+{"index": 125611, "D": "the science that deals with the laws of rotating bodies.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 328020, "D": "to turn from one language into another or from a foreign language into one's own", "S": ["adapted ", "rendered ", "reworded ", "rewritten ", "transliterated "], "A": []}

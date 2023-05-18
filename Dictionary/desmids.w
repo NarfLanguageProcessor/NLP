@@ -1,0 +1,1 @@
+{"index": 82697, "D": "any single-celled freshwater algae of the family Desmidiaceae, characterized by a division of the body into mirror-image halves joined by a bridge containing the nucleus, and having a spiny or bristly exterior", "S": [], "A": []}

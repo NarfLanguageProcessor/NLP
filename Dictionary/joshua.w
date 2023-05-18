@@ -1,0 +1,1 @@
+{"index": 161813, "D": "the successor of Moses as leader of the Israelites. Deuteronomy 31", "S": [], "A": []}

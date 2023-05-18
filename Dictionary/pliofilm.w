@@ -1,0 +1,1 @@
+{"index": 240140, "D": "a brand of resinlike rubber hydrochloride that forms a clear, flexible, water-resistant, heat-sealable plastic, used for packaging, raincoats, etc.", "S": [], "A": []}

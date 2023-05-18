@@ -1,0 +1,1 @@
+{"index": 488, "D": "a native or inhabitant of Abyssinia", "S": [], "A": []}

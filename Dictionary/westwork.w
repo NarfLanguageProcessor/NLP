@@ -1,0 +1,1 @@
+{"index": 364291, "D": "(in German Romanesque architecture) a monumental western front to a church, treated as a tower or towers containing an entrance and vestibule below and a chapel above.", "S": [], "A": []}

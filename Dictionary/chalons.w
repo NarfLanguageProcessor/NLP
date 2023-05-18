@@ -1,0 +1,1 @@
+{"index": 52211, "D": "a city in and the capital of Marne, in NE France", "S": [], "A": []}

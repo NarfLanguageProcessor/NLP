@@ -1,0 +1,1 @@
+{"index": 346510, "D": "to regulate by or adjust to a certain measure or proportion; soften; tone down.", "S": [], "A": []}

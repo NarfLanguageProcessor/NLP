@@ -1,0 +1,1 @@
+{"index": 95723, "D": "nervously irritable; impatient and anxious.", "S": [], "A": []}

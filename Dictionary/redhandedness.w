@@ -1,0 +1,1 @@
+{"index": 264144, "D": "in the very act of a crime, wrongdoing, etc., or in possession of self-incriminating evidence", "S": [], "A": []}

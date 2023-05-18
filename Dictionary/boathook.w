@@ -1,0 +1,1 @@
+{"index": 36997, "D": "a hook mounted at the end of a pole, used to pull or push boats toward or away from a landing, to pick up a mooring, etc.", "S": [], "A": []}

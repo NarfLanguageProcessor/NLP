@@ -1,0 +1,1 @@
+{"index": 197829, "D": "a cemetery, especially one of large size and usually of an ancient city.", "S": [], "A": []}

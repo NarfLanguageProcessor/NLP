@@ -1,0 +1,1 @@
+{"index": 71855, "D": "a hard, brittle cake or biscuit.", "S": [], "A": []}

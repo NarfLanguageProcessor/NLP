@@ -1,0 +1,1 @@
+{"index": 69280, "D": "the commission or rank of a cornet", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 127483, "D": "goddamned (used as a euphemism in expressions of anger, disgust, surprise, etc.).", "S": [], "A": []}

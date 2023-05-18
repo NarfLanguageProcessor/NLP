@@ -1,0 +1,1 @@
+{"index": 269255, "D": "to set  again", "S": ["reconstituted ", "reconstructed ", "transformed "], "A": ["degenerated ", "deteriorated ", "preserved "]}

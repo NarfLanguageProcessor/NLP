@@ -1,0 +1,1 @@
+{"index": 179701, "D": "toward humankind", "S": [], "A": []}

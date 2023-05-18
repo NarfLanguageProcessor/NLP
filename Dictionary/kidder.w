@@ -1,0 +1,1 @@
+{"index": 164455, "D": "a person who kids", "S": ["actor ", "banana ", "buffoon ", "card ", "clown ", "comedian ", "comic ", "fool ", "gagster ", "humorist ", "jester ", "jokester ", "prankster ", "punster ", "stooge ", "trickster ", "wag ", "wit "], "A": []}

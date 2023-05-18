@@ -1,0 +1,1 @@
+{"index": 278747, "D": "of, pertaining to, containing, or characterized by satire", "S": ["acerbic ", "biting ", "caustic ", "corrosive ", "mocking ", "mordant ", "sardonic ", "satirical ", "trenchant "], "A": ["calm ", "kind ", "mild ", "nice "]}

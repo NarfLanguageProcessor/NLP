@@ -1,0 +1,1 @@
+{"index": 237813, "D": "the process of burning designs on wood, leather, etc., with a heated tool.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 306902, "D": "deprived of consciousness or strength", "S": ["amazed ", "astonished ", "bewildered ", "confused ", "dismayed ", "floored ", "overwhelmed ", "shocked ", "speechless ", "startled ", "surprised "], "A": ["clear ", "oriented ", "understanding "]}

@@ -1,0 +1,1 @@
+{"index": 267215, "D": "the correction of something bad or defective.", "S": [], "A": []}

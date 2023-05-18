@@ -1,0 +1,1 @@
+{"index": 85755, "D": "something or someone regarded as remarkable, unusual, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 56114, "D": "a member of a Christian millenarian sect founded in the US about 1848, holding that only the just will enter eternal life, that the wicked will be annihilated, and that the ignorant, the unconverted, and infants will not be raised from the dead", "S": [], "A": []}

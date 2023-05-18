@@ -1,0 +1,1 @@
+{"index": 154277, "D": "the quality or state of being intellectual.", "S": ["refinement "], "A": ["ignorance "]}

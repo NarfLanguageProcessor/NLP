@@ -1,0 +1,1 @@
+{"index": 281053, "D": "to speak derisively; mock; jeer (often followed by at)", "S": [], "A": []}

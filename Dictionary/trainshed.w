@@ -1,0 +1,1 @@
+{"index": 327474, "D": "(in a railroad station) a shelter completely covering railroad tracks and their adjoining platforms.", "S": [], "A": []}

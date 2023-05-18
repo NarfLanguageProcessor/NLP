@@ -1,0 +1,1 @@
+{"index": 190931, "D": "a disorderly or riotous crowd of people.", "S": ["jostle ", "swarm "], "A": ["retreat ", "surrender "]}

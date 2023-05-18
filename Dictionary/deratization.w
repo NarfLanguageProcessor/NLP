@@ -1,0 +1,1 @@
+{"index": 82013, "D": "extermination of rats, especially aboard a merchant vessel.", "S": [], "A": []}

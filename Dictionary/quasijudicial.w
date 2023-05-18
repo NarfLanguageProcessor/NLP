@@ -1,0 +1,1 @@
+{"index": 258120, "D": "noting, pertaining to, or exercising powers or functions that resemble those of a court or a judge", "S": [], "A": []}

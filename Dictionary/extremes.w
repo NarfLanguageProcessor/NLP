@@ -1,0 +1,1 @@
+{"index": 108716, "D": "of a character or kind farthest removed from the ordinary or average", "S": ["terminus "], "A": ["aid ", "base ", "beginning ", "blessing ", "boon ", "bottom ", "center ", "commencement ", "good fortune ", "good luck ", "help ", "inside ", "interior ", "middle ", "minimum ", "nadir ", "opening ", "peace ", "prosperity ", "start ", "success "]}

@@ -1,0 +1,1 @@
+{"index": 92101, "D": "an implement for snuffing out candles, consisting either of a scissorlike device with two broad flat blades or of a cone at the end of a handle.", "S": [], "A": []}

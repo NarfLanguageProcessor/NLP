@@ -1,0 +1,1 @@
+{"index": 36254, "D": "narrow-minded and subjective; unwilling to understand another viewpoint", "S": [], "A": []}

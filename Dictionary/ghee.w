@@ -1,0 +1,1 @@
+{"index": 124516, "D": "a kind of liquid butter, used especially in the cooking of India, made from the milk of cows or buffaloes and clarified by boiling.", "S": ["margarine ", "oil ", "shortening "], "A": []}

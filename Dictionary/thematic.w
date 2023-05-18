@@ -1,0 +1,1 @@
+{"index": 320888, "D": "of or relating to a theme. ", "S": ["confined ", "insular ", "limited ", "parochial ", "particular ", "regional ", "restricted ", "sectional "], "A": []}

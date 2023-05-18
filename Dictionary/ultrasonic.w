@@ -1,0 +1,1 @@
+{"index": 334061, "D": "of, relating to, or utilizingultrasound. ", "S": ["accelerated ", "brisk ", "expeditious ", "hasty ", "hurried ", "immediate ", "prompt ", "rapid ", "swift "], "A": ["delayed ", "leisurely ", "slow ", "sluggish "]}

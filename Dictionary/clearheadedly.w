@@ -1,0 +1,1 @@
+{"index": 59657, "D": "having or showing an alert mind.", "S": [], "A": []}

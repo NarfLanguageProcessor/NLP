@@ -1,0 +1,1 @@
+{"index": 166587, "D": "a unit of energy, equivalent to the energy transferred or expended in one hour by one kilowatt of power; approximately 1.34 horsepower-hours. Abbreviation", "S": [], "A": []}

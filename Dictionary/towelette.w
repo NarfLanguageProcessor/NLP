@@ -1,0 +1,1 @@
+{"index": 326746, "D": "a small paper towel,  usually premoistened in a sealed package.", "S": [], "A": []}

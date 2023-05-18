@@ -1,0 +1,1 @@
+{"index": 66689, "D": "to draft for military or naval service.", "S": ["conscript ", "enlist ", "inaugurate ", "recruit ", "swear in "], "A": ["close ", "end ", "finish ", "take away "]}

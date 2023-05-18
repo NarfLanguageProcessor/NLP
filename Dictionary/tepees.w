@@ -1,0 +1,1 @@
+{"index": 319139, "D": "a tent of the American Indians, made usually from animal skins laid on a conical frame of long poles and having an opening at the top for ventilation and a flap door.", "S": ["encampment ", "tent "], "A": []}

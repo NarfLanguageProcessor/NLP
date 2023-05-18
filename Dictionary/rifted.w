@@ -1,0 +1,1 @@
+{"index": 272772, "D": "an opening made by splitting, cleaving, etc.; fissure; cleft; chink.", "S": ["break ", "crack ", "damage ", "divide ", "grab ", "injure ", "mangle ", "pull ", "rive ", "rupture ", "separate ", "sever ", "shred ", "slash ", "snatch ", "split ", "wrench ", "yank "], "A": ["attach ", "combine ", "fix ", "join ", "mend ", "sew ", "unite ", "insert "]}

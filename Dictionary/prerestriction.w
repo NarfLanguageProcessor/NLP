@@ -1,0 +1,1 @@
+{"index": 249152, "D": "something that restricts;  a restrictive  condition or regulation; limitation.", "S": [], "A": []}

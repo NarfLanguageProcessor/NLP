@@ -1,0 +1,1 @@
+{"index": 313597, "D": "to yield (something) to the possession or power of another; deliver up possession of on demand or under duress", "S": ["crying Uncle ", "throwing in the towel "], "A": []}

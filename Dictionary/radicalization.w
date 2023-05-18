@@ -1,0 +1,1 @@
+{"index": 259565, "D": "the act or process of becoming more extreme, as in beliefs, actions, or politics", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310317, "D": "the state or quality of being satisfactory or in accord with what is desired or called for; appropriateness", "S": ["capability ", "capacity ", "competence ", "eligibility ", "fitness ", "suitability ", "worthiness "], "A": ["impotence ", "inability ", "incompetence ", "ineptness "]}

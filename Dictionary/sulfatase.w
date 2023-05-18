@@ -1,0 +1,1 @@
+{"index": 310406, "D": "any of a class of enzymes that catalyze the hydrolysis of sulfuric acid esters.", "S": [], "A": []}

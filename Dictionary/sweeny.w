@@ -1,0 +1,1 @@
+{"index": 314242, "D": "atrophy of the shoulder muscles in horses.", "S": [], "A": []}

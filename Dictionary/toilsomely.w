@@ -1,0 +1,1 @@
+{"index": 325164, "D": "characterized by or involving toil;  laborious or fatiguing.", "S": ["badly ", "vigorously "], "A": ["easily "]}

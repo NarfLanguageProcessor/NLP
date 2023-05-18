@@ -1,0 +1,1 @@
+{"index": 187448, "D": "one thousandth of a rem. Abbreviation", "S": [], "A": []}

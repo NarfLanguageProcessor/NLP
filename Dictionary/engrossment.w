@@ -1,0 +1,1 @@
+{"index": 100499, "D": "the act of engrossing. ", "S": ["attention ", "captivation ", "concentration ", "enthrallment ", "fascination ", "immersion ", "intentness ", "preoccupation "], "A": []}

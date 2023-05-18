@@ -1,0 +1,1 @@
+{"index": 357272, "D": "containing or resembling varioles, especially in texture.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 134194, "D": "a thin face with sharp features.", "S": [], "A": []}

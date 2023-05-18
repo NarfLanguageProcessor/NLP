@@ -1,0 +1,1 @@
+{"index": 250475, "D": "a small allowance formerly paid by a shipper to the master and crew of a vessel for the loading and care of the goods", "S": [], "A": []}

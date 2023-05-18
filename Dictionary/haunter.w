@@ -1,0 +1,1 @@
+{"index": 134336, "D": "to visit habitually or appear to frequently as a spirit or ghost", "S": ["Doppelganger ", "apparition ", "appearance ", "banshee ", "demon ", "kelpie ", "phantasm ", "phantom ", "revenant ", "specter ", "spirit ", "spook ", "vision ", "visitor "], "A": ["being ", "reality "]}

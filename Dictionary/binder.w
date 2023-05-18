@@ -1,0 +1,1 @@
+{"index": 34171, "D": "a person or thing that binds. ", "S": ["folder ", "notebook "], "A": []}

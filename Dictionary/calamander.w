@@ -1,0 +1,1 @@
+{"index": 44721, "D": "the hard, mottled brown and black wood of any of several trees of the genus Diospyros, used for cabinetwork.", "S": [], "A": []}

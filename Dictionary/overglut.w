@@ -1,0 +1,1 @@
+{"index": 219559, "D": "to feed or fill to satiety; sate", "S": [], "A": []}

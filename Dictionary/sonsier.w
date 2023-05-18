@@ -1,0 +1,1 @@
+{"index": 297314, "D": "strong and healthy; robust.", "S": ["bosomy ", "buxom ", "curvaceous ", "sonsie ", "voluptuous "], "A": []}

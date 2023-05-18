@@ -1,0 +1,1 @@
+{"index": 152099, "D": "distended with air or gas; swollen.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 78226, "D": "conforming to the recognized standard of propriety, good taste, modesty, etc., as in behavior or speech.", "S": ["appropriately ", "competently ", "satisfactorily ", "sufficiently "], "A": ["inadequately ", "insufficiently ", "unequally ", "unsatisfactorily ", "unsuitably "]}

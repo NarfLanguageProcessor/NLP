@@ -1,0 +1,1 @@
+{"index": 76122, "D": "the process of copying or ripping audio files from a CD or DVD.", "S": [], "A": []}

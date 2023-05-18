@@ -1,0 +1,1 @@
+{"index": 86419, "D": "a substance, C30H32N2O2, used in the form of its hydrochloride in the treatment of diarrhea.", "S": [], "A": []}

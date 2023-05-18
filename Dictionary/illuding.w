@@ -1,0 +1,1 @@
+{"index": 147458, "D": "to deceive or trick.", "S": ["delude ", "pretend "], "A": ["protect ", "support "]}

@@ -1,0 +1,1 @@
+{"index": 209256, "D": "a subtle difference or distinction in expression, meaning, response, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 273945, "D": "to move along a surface by revolving or turning over and over, as a ball or a wheel.", "S": [], "A": []}

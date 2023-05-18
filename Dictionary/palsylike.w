@@ -1,0 +1,1 @@
+{"index": 224192, "D": "any of a variety of atonal muscular conditions characterized by tremors of the body parts, as the hands, arms, or legs, or of the entire body.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 233731, "D": "the production of leaves in abnormal numbers or places.", "S": [], "A": []}

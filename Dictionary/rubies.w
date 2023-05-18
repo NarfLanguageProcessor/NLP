@@ -1,0 +1,1 @@
+{"index": 275188, "D": "a red variety of corundum,  used as a gem.", "S": ["cardinal ", "coral ", "crimson ", "flaming ", "glowing ", "maroon ", "rose ", "wine "], "A": []}

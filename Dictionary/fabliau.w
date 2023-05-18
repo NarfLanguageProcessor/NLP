@@ -1,0 +1,1 @@
+{"index": 108891, "D": "a short metrical tale, usually ribald and humorous, popular in medieval France.", "S": [], "A": []}

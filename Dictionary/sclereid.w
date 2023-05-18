@@ -1,0 +1,1 @@
+{"index": 280919, "D": "a short, thickened plant cell of the sclerenchyma,  typically containing branched pits.", "S": [], "A": []}

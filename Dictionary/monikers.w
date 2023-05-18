@@ -1,0 +1,1 @@
+{"index": 191970, "D": "a person's name, especially a nickname or alias.", "S": ["appellation ", "sobriquet "], "A": []}

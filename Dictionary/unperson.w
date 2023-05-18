@@ -1,0 +1,1 @@
+{"index": 347774, "D": "a public figure, especially in a totalitarian country, who, for political or ideological reasons, is not recognized or mentioned in government publications or records or in the news media.", "S": [], "A": []}

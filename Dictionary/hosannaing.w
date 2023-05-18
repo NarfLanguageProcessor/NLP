@@ -1,0 +1,1 @@
+{"index": 144135, "D": "(an exclamation, originally an appeal to God for deliverance, used in praise of God or Christ.)", "S": [], "A": []}

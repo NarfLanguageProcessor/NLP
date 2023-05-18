@@ -1,0 +1,1 @@
+{"index": 343095, "D": "with exultant, often mischievous joy or delight; merrily", "S": [], "A": []}

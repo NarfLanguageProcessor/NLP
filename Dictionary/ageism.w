@@ -1,0 +1,1 @@
+{"index": 5978, "D": "discrimination against persons of a certain age group. ", "S": ["age bias ", "generation gap "], "A": []}

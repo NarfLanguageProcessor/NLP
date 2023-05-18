@@ -1,0 +1,1 @@
+{"index": 348030, "D": "the quality or state of being unpleasant. ", "S": ["nastiness "], "A": ["agreement ", "friendliness ", "kindness ", "pleasantness ", "sweetness "]}

@@ -1,0 +1,1 @@
+{"index": 102224, "D": "the inner serous layer of the pericardium, lying directly upon the heart.", "S": [], "A": []}

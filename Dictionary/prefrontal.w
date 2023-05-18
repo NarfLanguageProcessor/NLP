@@ -1,0 +1,1 @@
+{"index": 247675, "D": "anterior to, situated in, or pertaining to the anterior part of a frontal  structure.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 26345, "D": "any of a family of musical wind instruments in which sounds are produced in reed pipes supplied with air from a bag inflated either by the player's mouth, as in the Irish bagpipes or Highland bagpipes of Scotland, or by arm-operated bellows, as in the Northumbrian bagpipes", "S": [], "A": []}

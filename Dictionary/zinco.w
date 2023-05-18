@@ -1,0 +1,1 @@
+{"index": 369425, "D": "short for zincograph (def. 1)", "S": [], "A": []}

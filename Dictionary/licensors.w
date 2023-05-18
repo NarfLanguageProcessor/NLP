@@ -1,0 +1,1 @@
+{"index": 171631, "D": "a person or body that issues a license  allowing someone to do or use something", "S": [], "A": []}

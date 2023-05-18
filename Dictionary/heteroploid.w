@@ -1,0 +1,1 @@
+{"index": 137724, "D": "of a chromosome number that is neither the haploid nor diploid number characteristic of the species", "S": [], "A": []}

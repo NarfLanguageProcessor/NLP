@@ -1,0 +1,1 @@
+{"index": 72947, "D": "an action or an instance of negligence that is deemed injurious to the public welfare or morals or to the interests of the state and that is legally prohibited.", "S": [], "A": []}

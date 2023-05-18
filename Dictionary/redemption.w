@@ -1,0 +1,1 @@
+{"index": 264057, "D": "an act of redeeming  or atoning for a fault or mistake, or the state of being redeemed. ", "S": ["amends ", "atonement ", "compensation ", "expiation ", "penance ", "recompense ", "redress ", "reparation ", "repentance ", "restitution ", "shrift "], "A": []}

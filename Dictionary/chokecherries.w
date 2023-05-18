@@ -1,0 +1,1 @@
+{"index": 55344, "D": "any of several cherries,  especially Prunus virginiana, of North America, that bear an astringent fruit.", "S": [], "A": []}

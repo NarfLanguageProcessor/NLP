@@ -1,0 +1,1 @@
+{"index": 113354, "D": "a spearlike implement with barbed prongs for spearing fish in the water.", "S": [], "A": []}

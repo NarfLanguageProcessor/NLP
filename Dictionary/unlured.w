@@ -1,0 +1,1 @@
+{"index": 345855, "D": "anything that attracts, entices, or allures.", "S": [], "A": []}

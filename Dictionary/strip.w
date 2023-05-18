@@ -1,0 +1,1 @@
+{"index": 306364, "D": "to deprive of covering", "S": ["band ", "bar ", "belt ", "bit ", "fillet ", "layer ", "ribbon ", "rod ", "section ", "segment ", "slab ", "stripe ", "tape "], "A": ["whole "]}

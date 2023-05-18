@@ -1,0 +1,1 @@
+{"index": 160764, "D": "pertaining to or advocating the political principles and doctrines of Thomas Thomas Jefferson,  especially those stressing minimum control by the central government, the inalienable rights of the individual, and the superiority of an agrarian economy and rural society.", "S": [], "A": []}

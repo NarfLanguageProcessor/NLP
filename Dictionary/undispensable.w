@@ -1,0 +1,1 @@
+{"index": 340562, "D": "capable of being dispensed  with or done without; not necessary or essential.", "S": [], "A": []}

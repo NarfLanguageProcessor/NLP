@@ -1,0 +1,1 @@
+{"index": 210440, "D": "becoming obsolete; passing out of use, as a word", "S": [], "A": []}

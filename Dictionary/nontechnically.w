@@ -1,0 +1,1 @@
+{"index": 207788, "D": "in a way that is peculiar to a certain specialized field of study or activity", "S": [], "A": []}

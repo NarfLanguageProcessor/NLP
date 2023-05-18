@@ -1,0 +1,1 @@
+{"index": 194734, "D": "a clayey rock with the texture and composition of shale but little or no lamination.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 22622, "D": "a cell that ingests foreign particles and retains them in suspension in the cytoplasm.", "S": [], "A": []}

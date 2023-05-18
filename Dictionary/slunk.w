@@ -1,0 +1,1 @@
+{"index": 294608, "D": "a simple past tense and the past participle of slink. ", "S": ["coast ", "cower ", "glide ", "glissade ", "go stealthily ", "gumshoe ", "lurk ", "meander ", "pass quietly ", "prowl ", "pussyfoot ", "shirk ", "sidle ", "skitter ", "skulk ", "slick ", "slide ", "slip ", "snake ", "sneak ", "steal ", "undulate "], "A": []}

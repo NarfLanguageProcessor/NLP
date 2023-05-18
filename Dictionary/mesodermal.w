@@ -1,0 +1,1 @@
+{"index": 184212, "D": "the middle germ layer of a metazoan embryo.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 164889, "D": "any of several marine food fishes of the drum  family, especially of the genus Menticirrhus, found off the eastern coast of the United States.", "S": ["expert ", "judge ", "law "], "A": ["amateur ", "greenhorn ", "ignoramus ", "proletariat ", "rookie ", "student "]}

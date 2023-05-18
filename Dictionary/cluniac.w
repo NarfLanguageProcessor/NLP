@@ -1,0 +1,1 @@
+{"index": 60706, "D": "of or relating to a reformed Benedictine order founded at the French town of Cluny in 910", "S": [], "A": []}

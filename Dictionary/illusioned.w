@@ -1,0 +1,1 @@
+{"index": 147507, "D": "something that deceives by producing a false or misleading impression of reality.", "S": [], "A": []}

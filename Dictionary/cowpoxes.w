@@ -1,0 +1,1 @@
+{"index": 71653, "D": "an eruptive disease appearing on the teats and udders of cows,  in which small pustules form that contain a virus used in the vaccination of humans against smallpox.", "S": [], "A": []}

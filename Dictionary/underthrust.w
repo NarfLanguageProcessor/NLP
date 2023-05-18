@@ -1,0 +1,1 @@
+{"index": 340005, "D": "a thrust fault  in which the footwall moved and the hanging wall did not (opposed to overthrust).", "S": [], "A": []}

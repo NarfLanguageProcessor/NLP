@@ -1,0 +1,1 @@
+{"index": 2277, "D": "any of several tropical American herbs of the genus Achimenes, cultivated for their showy, tubular flowers.", "S": [], "A": []}

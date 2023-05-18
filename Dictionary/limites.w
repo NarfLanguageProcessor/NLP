@@ -1,0 +1,1 @@
+{"index": 172404, "D": "a boundary, especially the fortified border or frontier of a country.", "S": [], "A": []}

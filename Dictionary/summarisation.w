@@ -1,0 +1,1 @@
+{"index": 310901, "D": "the act or process of providing a summary,  a brief restatement of something that captures all its important points", "S": [], "A": []}

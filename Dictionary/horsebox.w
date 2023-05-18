@@ -1,0 +1,1 @@
+{"index": 143997, "D": "a van or trailer used for carrying horses", "S": [], "A": []}

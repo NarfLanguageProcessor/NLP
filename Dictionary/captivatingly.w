@@ -1,0 +1,1 @@
+{"index": 47209, "D": "attracting and holding the attention or interest, as by beauty or excellence; enchanting The newly fallen snow turns our real-life world of brown grass and gray skies into a captivating fairyland.", "S": [], "A": []}

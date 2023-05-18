@@ -1,0 +1,1 @@
+{"index": 164136, "D": "any of a class of organic compounds containing a carbonyl group, CO, attached to two alkyl groups, as CH3COCH3 or CH3COC2H5.", "S": [], "A": []}

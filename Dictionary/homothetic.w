@@ -1,0 +1,1 @@
+{"index": 143272, "D": "similar; similarly placed.", "S": [], "A": []}

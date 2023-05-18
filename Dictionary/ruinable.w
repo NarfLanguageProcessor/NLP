@@ -1,0 +1,1 @@
+{"index": 275434, "D": "the remains of a building, city, etc., that has been destroyed or that is in disrepair or a state of decay", "S": [], "A": []}

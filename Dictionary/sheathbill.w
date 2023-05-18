@@ -1,0 +1,1 @@
+{"index": 287715, "D": "either of two white sea birds, Chionis alba or C. minor, of the colder parts of the Southern Hemisphere", "S": [], "A": []}

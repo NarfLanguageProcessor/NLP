@@ -1,0 +1,1 @@
+{"index": 130029, "D": "an antifungal medication, produced from the fungus Penicillium griseofulvin and taken orally to treat ringworm and other fungal infections of the skin.", "S": [], "A": []}

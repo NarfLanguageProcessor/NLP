@@ -1,0 +1,1 @@
+{"index": 6445, "D": "the procedure followed by a government for determining the acceptability to a foreign government of a proposed envoy.", "S": [], "A": []}

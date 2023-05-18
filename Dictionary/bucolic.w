@@ -1,0 +1,1 @@
+{"index": 42124, "D": "of or relating to shepherds; pastoral.", "S": ["agrarian ", "pastoral "], "A": []}

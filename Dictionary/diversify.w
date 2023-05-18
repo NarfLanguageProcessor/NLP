@@ -1,0 +1,1 @@
+{"index": 90248, "D": "to make diverse, as in form or character; give variety or diversity  to; variegate.", "S": ["expand ", "transform "], "A": ["continue ", "keep ", "remain ", "stay "]}

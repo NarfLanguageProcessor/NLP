@@ -1,0 +1,1 @@
+{"index": 300550, "D": "a small, thin, sharp piece of wood, bone, or the like, split or broken off from the main body.", "S": ["disintegrate ", "fracture ", "rive ", "shatter ", "smash ", "split "], "A": ["combine ", "fix ", "mend "]}

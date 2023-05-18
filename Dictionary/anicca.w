@@ -1,0 +1,1 @@
+{"index": 13092, "D": "the cycle of birth, growth, decay, and death through which every living thing must pass.", "S": [], "A": []}

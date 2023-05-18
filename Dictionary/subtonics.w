@@ -1,0 +1,1 @@
+{"index": 309547, "D": "the seventh tone of a scale, being the next below the upper tonic. ", "S": [], "A": []}

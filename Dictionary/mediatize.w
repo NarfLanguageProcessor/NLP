@@ -1,0 +1,1 @@
+{"index": 182044, "D": "to annex (a principality) to another state, while allowing certain rights to its former sovereign.", "S": [], "A": []}

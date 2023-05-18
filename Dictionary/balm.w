@@ -1,0 +1,1 @@
+{"index": 27068, "D": "any of various oily, fragrant, resinous substances, often of medicinal value, exuding from certain plants, especially tropical trees of the genus Commiphora.", "S": ["lotion ", "ointment ", "potion ", "salve "], "A": []}

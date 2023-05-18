@@ -1,0 +1,1 @@
+{"index": 60460, "D": "a small room, enclosed recess, or cabinet for storing clothing, food, utensils, etc.", "S": ["cabinet ", "container ", "locker ", "room ", "vault ", "wardrobe "], "A": []}

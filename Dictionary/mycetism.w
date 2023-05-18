@@ -1,0 +1,1 @@
+{"index": 185730, "D": "poisoning due to mushrooms.", "S": [], "A": []}

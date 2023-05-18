@@ -1,0 +1,1 @@
+{"index": 261390, "D": "rod; rods.", "S": ["experimentation ", "field work ", "research and development "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 143773, "D": "sty2. ", "S": ["den ", "dump ", "hovel ", "pen ", "pigpen ", "shack "], "A": []}

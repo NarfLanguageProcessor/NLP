@@ -1,0 +1,1 @@
+{"index": 32782, "D": "a plant, Stachys (formerly Betonica) officinalis, of the mint family,  having hairy leaves and dense spikes of purple flowers, formerly used in medicine and dyeing.", "S": [], "A": []}

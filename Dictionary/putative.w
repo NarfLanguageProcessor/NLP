@@ -1,0 +1,1 @@
+{"index": 257270, "D": "commonly regarded as such; reputed; supposed", "S": ["presumed ", "presumptive ", "reputed ", "supposed "], "A": ["proven ", "real ", "true "]}

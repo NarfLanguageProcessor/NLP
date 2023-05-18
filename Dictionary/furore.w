@@ -1,0 +1,1 @@
+{"index": 120485, "D": "a public outburst, esp of protest; uproar", "S": [], "A": []}

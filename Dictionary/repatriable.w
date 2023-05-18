@@ -1,0 +1,1 @@
+{"index": 268050, "D": "to bring or send back (a person, especially a prisoner of war, a refugee, etc.) to their country or land of citizenship.", "S": [], "A": []}

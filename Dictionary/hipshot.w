@@ -1,0 +1,1 @@
+{"index": 141503, "D": "having the hip  dislocated.", "S": [], "A": []}

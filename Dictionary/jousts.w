@@ -1,0 +1,1 @@
+{"index": 161918, "D": "a combat in which two knights on horseback attempted to unhorse each other with blunted lances.", "S": ["bout ", "contest ", "duel ", "tilt ", "tournament ", "tourney "], "A": ["agreement "]}

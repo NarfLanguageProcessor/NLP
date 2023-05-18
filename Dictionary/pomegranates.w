@@ -1,0 +1,1 @@
+{"index": 242852, "D": "a chambered, many-seeded, globose fruit, having a tough, usually red rind and surmounted by a crown of calyx lobes, the edible portion consisting of pleasantly acid flesh developed from the outer seed coat.", "S": ["color ", "lavender ", "lilac ", "mauve ", "periwinkle ", "plum ", "violet "], "A": []}

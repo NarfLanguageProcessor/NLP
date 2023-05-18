@@ -1,0 +1,1 @@
+{"index": 163440, "D": "a Polynesian shrub, Piper methysticum, of the pepper family, the aromatic roots of which are used to make an intoxicating beverage.", "S": [], "A": []}

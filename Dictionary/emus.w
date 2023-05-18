@@ -1,0 +1,1 @@
+{"index": 98978, "D": "a large, flightless, ratite bird, Emu (Dromaius) novaehollandiae, of Australia, resembling the ostrich but smaller and having a feathered head and neck and rudimentary wings.", "S": [], "A": []}

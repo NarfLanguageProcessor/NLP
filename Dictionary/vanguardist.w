@@ -1,0 +1,1 @@
+{"index": 356970, "D": "the beliefs and activities of persons who consider themselves to be leaders in a particular field or school of thought.", "S": [], "A": []}

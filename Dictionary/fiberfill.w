@@ -1,0 +1,1 @@
+{"index": 111965, "D": "synthetic fibers,  as polyester, used as a filling  or insulating material for pillows, cushions, comforters, winter garments, etc.", "S": [], "A": []}

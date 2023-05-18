@@ -1,0 +1,1 @@
+{"index": 180586, "D": "a hard, flat surface of stone, wood, or metal, on which a mass of molten glass is rolled and shaped in glassmaking.", "S": [], "A": []}

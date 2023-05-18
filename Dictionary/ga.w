@@ -1,0 +1,1 @@
+{"index": 120760, "D": "a Kwa language of Ghana, spoken in Accra and vicinity.", "S": [], "A": []}

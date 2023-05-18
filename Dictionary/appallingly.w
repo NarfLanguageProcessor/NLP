@@ -1,0 +1,1 @@
+{"index": 17542, "D": "causing dismay or horror", "S": ["fearfully ", "hopelessly ", "shockingly "], "A": ["calmly ", "easily "]}

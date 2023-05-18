@@ -1,0 +1,1 @@
+{"index": 256243, "D": "U.S. journalist and publisher, born in Hungary.", "S": [], "A": []}

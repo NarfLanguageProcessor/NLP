@@ -1,0 +1,1 @@
+{"index": 210606, "D": "an act or instance of obverting. ", "S": [], "A": []}

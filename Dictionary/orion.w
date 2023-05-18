@@ -1,0 +1,1 @@
+{"index": 214635, "D": "a giant hunter who pursued the Pleiades, was eventually slain by Artemis, and was then placed in the sky as a constellation.", "S": [], "A": []}

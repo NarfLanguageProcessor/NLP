@@ -1,0 +1,1 @@
+{"index": 19632, "D": "a member or descendant of the prehistoric people who spoke Indo-European.", "S": [], "A": []}

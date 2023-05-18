@@ -1,0 +1,1 @@
+{"index": 310613, "D": "any salt or ester of sulphuric acid, such as sodium sulphate, Na 2 SO 4, sodium hydrogen sulphate, or diethyl sulphate, (C 2 H 5) 2 SO 4", "S": [], "A": []}

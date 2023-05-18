@@ -1,0 +1,1 @@
+{"index": 187152, "D": "a stone  functioning as a milepost.", "S": ["anniversary ", "breakthrough ", "discovery ", "event ", "landmark ", "occasion ", "turning point "], "A": []}

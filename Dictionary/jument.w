@@ -1,0 +1,1 @@
+{"index": 162280, "D": [], "S": ["draft animal ", "pack animal ", "pack horse ", "pack mule ", "sumpter "], "A": []}

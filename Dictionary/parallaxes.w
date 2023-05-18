@@ -1,0 +1,1 @@
+{"index": 225723, "D": "the apparent displacement of an observed object due to a change in the position of the observer.", "S": [], "A": []}

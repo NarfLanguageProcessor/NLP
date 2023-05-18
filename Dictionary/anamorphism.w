@@ -1,0 +1,1 @@
+{"index": 11839, "D": "metamorphism, usually occurring deep under the earth's surface, that changes simple minerals to complex minerals.", "S": [], "A": []}

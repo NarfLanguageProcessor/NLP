@@ -1,0 +1,1 @@
+{"index": 110876, "D": "to give food to; supply with nourishment", "S": ["barley ", "corn ", "fodder ", "forage ", "grain ", "hay ", "meal "], "A": []}

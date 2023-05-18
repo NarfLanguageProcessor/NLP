@@ -1,0 +1,1 @@
+{"index": 329804, "D": [], "S": ["chic ", "chichi ", "contemporary ", "current ", "fly ", "latest ", "mod ", "modern ", "now ", "smart ", "swank "], "A": ["antiquated ", "dull ", "old ", "old-fashioned ", "past ", "unfashionable "]}

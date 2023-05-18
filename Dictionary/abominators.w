@@ -1,0 +1,1 @@
+{"index": 700, "D": "to regard with intense aversion or loathing; abhor.", "S": [], "A": []}

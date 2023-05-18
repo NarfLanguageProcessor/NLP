@@ -1,0 +1,1 @@
+{"index": 335828, "D": "(of a fortified place) under siege; surrounded by enemy forces and cut off from help or supplies", "S": [], "A": []}

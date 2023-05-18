@@ -1,0 +1,1 @@
+{"index": 199744, "D": "Compare scotophobia. ", "S": [], "A": []}

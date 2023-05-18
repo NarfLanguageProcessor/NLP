@@ -1,0 +1,1 @@
+{"index": 137113, "D": "something that is handed down from the past, as a tradition", "S": ["ancestry ", "culture ", "custom ", "legacy ", "right ", "tradition "], "A": ["whole "]}

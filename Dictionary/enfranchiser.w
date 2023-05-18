@@ -1,0 +1,1 @@
+{"index": 100284, "D": "to grant a franchise to; admit to citizenship, especially to the right of voting.", "S": [], "A": []}

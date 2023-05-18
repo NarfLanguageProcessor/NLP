@@ -1,0 +1,1 @@
+{"index": 186312, "D": "of or relating to Micronesia,  its inhabitants, or their languages.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 157655, "D": "ionization temperature; ionization current", "S": [], "A": []}

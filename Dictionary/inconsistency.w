@@ -1,0 +1,1 @@
+{"index": 150267, "D": "the quality or condition of being inconsistent. ", "S": ["deviation ", "difference ", "disagreement ", "disparity ", "divergence ", "inequality ", "paradox "], "A": ["accord ", "agreement ", "alikeness ", "conformity ", "equality ", "harmony ", "likeness ", "sameness ", "similarity ", "uniformity "]}

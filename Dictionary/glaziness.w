@@ -1,0 +1,1 @@
+{"index": 126070, "D": "to furnish or fill with glass", "S": [], "A": []}

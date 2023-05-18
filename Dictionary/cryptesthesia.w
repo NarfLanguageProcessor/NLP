@@ -1,0 +1,1 @@
+{"index": 73183, "D": "allegedly paranormal perception, as clairvoyance or clairaudience.", "S": [], "A": []}

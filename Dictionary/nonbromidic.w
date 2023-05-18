@@ -1,0 +1,1 @@
+{"index": 201724, "D": "pertaining or proper to a platitude; being a bromide;  trite.", "S": [], "A": []}

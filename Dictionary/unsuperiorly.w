@@ -1,0 +1,1 @@
+{"index": 352420, "D": "higher in station, rank, degree, importance, etc.", "S": [], "A": []}

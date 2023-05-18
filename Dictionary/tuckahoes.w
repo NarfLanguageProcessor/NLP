@@ -1,0 +1,1 @@
+{"index": 332105, "D": "the edible, underground sclerotium of the fungus Poria cocos, found on the roots of trees in the southern United States.", "S": [], "A": []}

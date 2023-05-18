@@ -1,0 +1,1 @@
+{"index": 233615, "D": "fond of or devoted to music; music-loving", "S": ["concert ", "instrumental ", "musical ", "operatic ", "symphonious "], "A": []}

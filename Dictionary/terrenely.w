@@ -1,0 +1,1 @@
+{"index": 319540, "D": "earthly; worldly. ", "S": [], "A": []}

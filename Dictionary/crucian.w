@@ -1,0 +1,1 @@
+{"index": 74072, "D": "a European cyprinid fish, Carassius carassius, with a dark-green back, a golden-yellow undersurface, and reddish dorsal and tail fins", "S": [], "A": []}

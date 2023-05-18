@@ -1,0 +1,1 @@
+{"index": 253037, "D": "the body of officials by whom such proceedings are instituted and carried on.", "S": ["pursuit "], "A": ["defeat ", "failure ", "neglect "]}

@@ -1,0 +1,1 @@
+{"index": 99693, "D": "having or seeming to have no end, limit, or conclusion; boundless; infinite; interminable; incessant", "S": ["ceaselessly ", "forever "], "A": ["ceasing ", "ending ", "halting ", "intermittent ", "interrupted "]}

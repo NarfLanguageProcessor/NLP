@@ -1,0 +1,1 @@
+{"index": 242900, "D": "the science that deals with fruits and fruit growing.", "S": ["anatomy ", "cytology ", "ecology ", "genetics ", "horticulture ", "morphology ", "pathology ", "physiology ", "phytology ", "taxonomy "], "A": []}

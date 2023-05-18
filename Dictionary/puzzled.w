@@ -1,0 +1,1 @@
+{"index": 257369, "D": "a toy, problem, or other contrivance designed to amuse by presenting difficulties to be solved by ingenuity or patient effort.", "S": ["baffled ", "bewildered ", "clueless ", "doubtful ", "mystified ", "perplexed ", "rattled "], "A": ["clear "]}

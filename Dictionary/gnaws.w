@@ -1,0 +1,1 @@
+{"index": 127093, "D": "to bite or chew on, especially persistently.", "S": ["chomp ", "eat ", "nibble "], "A": ["build ", "construct ", "rebuild "]}

@@ -1,0 +1,1 @@
+{"index": 327473, "D": "a self-propelled, connected group of rolling stock.", "S": ["caravan ", "convoy ", "line ", "track "], "A": ["individual "]}

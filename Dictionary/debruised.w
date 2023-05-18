@@ -1,0 +1,1 @@
+{"index": 77846, "D": "to overlay (a charge) other than an ordinary with an ordinary.", "S": [], "A": []}

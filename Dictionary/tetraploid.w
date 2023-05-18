@@ -1,0 +1,1 @@
+{"index": 320151, "D": "having a chromosome number that is four times the basic or haploid number.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 37580, "D": "to do (something) badly; bungle (often followed by up)", "S": ["bolix ", "bollix ", "botch "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 185045, "D": "belonging or pertaining to the group Metatheria, comprising the marsupial mammals.", "S": [], "A": []}

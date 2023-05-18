@@ -1,0 +1,1 @@
+{"index": 340316, "D": "very sheer and light; almost completely transparent or translucent.", "S": [], "A": []}

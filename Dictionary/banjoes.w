@@ -1,0 +1,1 @@
+{"index": 27475, "D": "a musical instrument of the guitar family, having a circular body covered in front with tightly stretched parchment and played with the fingers or a plectrum.", "S": [], "A": []}

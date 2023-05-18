@@ -1,0 +1,1 @@
+{"index": 14783, "D": "the antiparticle of a baryon,  having baryon number  \u22121 and charge, strangeness, and other quantum numbers opposite in sign to those of the baryon. ", "S": [], "A": []}

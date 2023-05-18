@@ -1,0 +1,1 @@
+{"index": 15317, "D": "a variety of serpentine occurring in a brownish-green lamellar form.", "S": [], "A": []}

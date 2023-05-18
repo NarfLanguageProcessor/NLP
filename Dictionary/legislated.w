@@ -1,0 +1,1 @@
+{"index": 170117, "D": "to exercise the function of legislation;  make or enact laws.", "S": ["authorized ", "constitutional ", "justifiable ", "legal ", "permissible ", "proper ", "rightful ", "statutory ", "valid "], "A": ["illegal ", "illegitimate ", "incorrect ", "unacceptable ", "wrong "]}

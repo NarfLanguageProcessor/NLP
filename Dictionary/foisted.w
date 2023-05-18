@@ -1,0 +1,1 @@
+{"index": 115832, "D": "to force upon or impose fraudulently or unjustifiably (usually followed by on or upon)", "S": ["impose "], "A": []}

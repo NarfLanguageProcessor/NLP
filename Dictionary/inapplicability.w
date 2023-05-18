@@ -1,0 +1,1 @@
+{"index": 149475, "D": "not applicable;  unsuitable.", "S": ["impossibility ", "uselessness ", "worthlessness "], "A": []}

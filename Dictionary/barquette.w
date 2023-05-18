@@ -1,0 +1,1 @@
+{"index": 28264, "D": "a small, boat-shaped pastry shell filled with a savory or sweet mixture and served as an hors d'oeuvre or dessert.", "S": [], "A": []}

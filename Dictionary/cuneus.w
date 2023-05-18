@@ -1,0 +1,1 @@
+{"index": 75013, "D": "a wedge-shaped convolution on the medial surface of the occipital lobe of the cerebrum.", "S": [], "A": []}

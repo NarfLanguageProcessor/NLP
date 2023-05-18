@@ -1,0 +1,1 @@
+{"index": 46560, "D": "any rigid structural member projecting from a vertical support, especially one in which the projection is great in relation to the depth, so that the upper part is in tension and the lower part in compression.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 271446, "D": "to activate, set in motion, or take up again; renew", "S": ["invigorating ", "refreshing "], "A": ["friendly ", "hot ", "responsive ", "temperate ", "warm "]}

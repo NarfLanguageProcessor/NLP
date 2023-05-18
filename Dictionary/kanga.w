@@ -1,0 +1,1 @@
+{"index": 163054, "D": "a piece of gaily decorated thin cotton cloth used as a garment by women in E Africa", "S": [], "A": []}

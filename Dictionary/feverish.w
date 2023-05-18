@@ -1,0 +1,1 @@
+{"index": 111886, "D": "having fever. ", "S": ["fevered ", "fiery ", "hectic "], "A": ["calm ", "chilled ", "chilly ", "cold ", "cool ", "freezing "]}

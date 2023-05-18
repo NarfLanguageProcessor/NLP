@@ -1,0 +1,1 @@
+{"index": 98251, "D": "to take or clasp in the arms; press to the bosom; hug. ", "S": ["encompassing ", "joining ", "meeting ", "spanning ", "stretching ", "touching "], "A": []}

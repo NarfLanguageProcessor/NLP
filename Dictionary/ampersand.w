@@ -1,0 +1,1 @@
+{"index": 11024, "D": "a character or symbol (& or \ue029) for and", "S": [], "A": []}

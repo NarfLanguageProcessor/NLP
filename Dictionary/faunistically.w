@@ -1,0 +1,1 @@
+{"index": 110432, "D": "of or relating to the geographical distribution of animal life.", "S": [], "A": []}

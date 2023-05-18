@@ -1,0 +1,1 @@
+{"index": 217574, "D": "to run faster than (someone)", "S": [], "A": []}

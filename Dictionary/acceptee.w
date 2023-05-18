@@ -1,0 +1,1 @@
+{"index": 1483, "D": "a person who is accepted,  as for military service.", "S": [], "A": []}

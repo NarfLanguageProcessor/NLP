@@ -1,0 +1,1 @@
+{"index": 190278, "D": "abounding in or clouded by mist. ", "S": ["cloudy ", "foggy ", "fuzzy ", "hazy ", "murky ", "overcast "], "A": ["bright ", "clear ", "sunny "]}

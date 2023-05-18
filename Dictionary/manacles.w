@@ -1,0 +1,1 @@
+{"index": 178869, "D": "a shackle for the hand; handcuff.", "S": ["bonds ", "captivity ", "chains ", "check ", "cuffs ", "curb ", "handcuffs ", "hindrance ", "irons ", "obstruction ", "restraint ", "shackles ", "trammels "], "A": ["aid ", "assistance ", "encouragement ", "freedom ", "help ", "liberation ", "promotion "]}

@@ -1,0 +1,1 @@
+{"index": 164167, "D": "a metal container in which to boil liquids, cook foods, etc.; pot.", "S": ["boiler ", "cauldron ", "pot ", "steamer "], "A": []}

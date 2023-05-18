@@ -1,0 +1,1 @@
+{"index": 87909, "D": "to deprive of influence, importance, etc.", "S": [], "A": []}

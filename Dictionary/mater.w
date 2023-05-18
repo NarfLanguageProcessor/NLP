@@ -1,0 +1,1 @@
+{"index": 181091, "D": "mother1. ", "S": ["blurred ", "cloudy ", "dark ", "dingy ", "dull ", "faint ", "fuzzy ", "gloomy ", "lackluster ", "murky ", "shadowy ", "vague "], "A": ["bright ", "cheerful ", "clear ", "distinct ", "encouraging ", "happy ", "light ", "lively ", "luminous ", "shining ", "sparkling ", "vivacious "]}

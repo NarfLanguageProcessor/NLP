@@ -1,0 +1,1 @@
+{"index": 182376, "D": "having a large amount of yolk, as certain eggs or ova.", "S": [], "A": []}

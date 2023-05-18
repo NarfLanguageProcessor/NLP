@@ -1,0 +1,1 @@
+{"index": 277564, "D": "pertaining to Samoa  or its Polynesian people.", "S": [], "A": []}

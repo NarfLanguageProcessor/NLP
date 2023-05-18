@@ -1,0 +1,1 @@
+{"index": 223219, "D": "a device representing the front of an ecclesiastical pallium, consisting of a broad Y-shaped form covered with crosses.", "S": [], "A": []}

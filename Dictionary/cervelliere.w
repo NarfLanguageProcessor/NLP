@@ -1,0 +1,1 @@
+{"index": 51637, "D": "a close-fitting cap of mail or plate; coif.", "S": [], "A": []}

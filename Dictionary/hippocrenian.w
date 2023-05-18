@@ -1,0 +1,1 @@
+{"index": 141421, "D": "a spring on Mount Helicon sacred to the Muses and regarded as a source of poetic inspiration.", "S": [], "A": []}

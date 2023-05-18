@@ -1,0 +1,1 @@
+{"index": 98960, "D": "an agent that forms or preserves an emulsion, esp any food additive, such as lecithin, that prevents separation of sauces or other processed foods", "S": [], "A": []}

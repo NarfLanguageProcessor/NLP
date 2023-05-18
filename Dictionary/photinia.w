@@ -1,0 +1,1 @@
+{"index": 234970, "D": "any of various trees or shrubs belonging to the genus Photinia, of the rose family, having clusters of small white flowers and red, berrylike fruit.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 212748, "D": "a single continuous action (esp in the phrase down it in a oner)", "S": ["ideal ", "model "], "A": []}

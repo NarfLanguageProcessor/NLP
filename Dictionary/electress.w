@@ -1,0 +1,1 @@
+{"index": 96908, "D": "the wife or widow of an Elector of the Holy Roman Empire.", "S": [], "A": []}

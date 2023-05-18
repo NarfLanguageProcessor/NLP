@@ -1,0 +1,1 @@
+{"index": 211871, "D": "any of several seeds,  as the castor bean, sesame, or cottonseed, from which an oil  is expressed.", "S": [], "A": []}

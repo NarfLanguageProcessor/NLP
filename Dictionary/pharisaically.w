@@ -1,0 +1,1 @@
+{"index": 233094, "D": "of or relating to the Pharisees.", "S": [], "A": []}

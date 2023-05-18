@@ -1,0 +1,1 @@
+{"index": 285071, "D": "Semitic characteristics, especially the ways, ideas, influence, etc., of the Jewish people.", "S": [], "A": []}

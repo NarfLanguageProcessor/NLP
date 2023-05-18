@@ -1,0 +1,1 @@
+{"index": 79069, "D": "to mar the surface or appearance of; disfigure", "S": ["mischief "], "A": []}

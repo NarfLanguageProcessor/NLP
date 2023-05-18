@@ -1,0 +1,1 @@
+{"index": 120415, "D": "full of fury,  violent passion, or rage; extremely angry; enraged", "S": ["desperate ", "enraged ", "fierce ", "frantic ", "frenetic ", "frenzied ", "incensed ", "livid ", "raging ", "vehement ", "violent "], "A": ["calm ", "cheerful ", "gentle ", "happy ", "peaceful "]}

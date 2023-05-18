@@ -1,0 +1,1 @@
+{"index": 165200, "D": "a musical instrument of ancient Greece consisting of an elaborate wooden soundbox having two arms connected by a yoke to which the upper ends of the strings are attached.", "S": [], "A": []}

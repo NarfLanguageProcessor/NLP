@@ -1,0 +1,1 @@
+{"index": 50083, "D": "capable of burning, corroding, or destroying living tissue.", "S": ["acridity ", "acridness ", "corrosiveness ", "incisiveness ", "mordacity ", "mordancy ", "trenchancy "], "A": []}

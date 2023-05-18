@@ -1,0 +1,1 @@
+{"index": 232105, "D": "pertaining or relating directly and significantly to the matter at hand; relevant", "S": ["admissible ", "applicable ", "appropriate ", "germane ", "opportune ", "related "], "A": ["improper ", "inapplicable ", "inappropriate ", "irrelevant ", "unfitting ", "unrelated ", "unsuitable "]}

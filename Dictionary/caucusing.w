@@ -1,0 +1,1 @@
+{"index": 49908, "D": "a faction within a legislative body that pursues its interests through the legislative process", "S": [], "A": []}

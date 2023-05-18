@@ -1,0 +1,1 @@
+{"index": 332510, "D": "a member of any of several related Indian peoples living in the valleys of various Brazilian rivers, especially the Amazon.", "S": [], "A": []}

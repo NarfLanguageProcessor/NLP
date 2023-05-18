@@ -1,0 +1,1 @@
+{"index": 21779, "D": "a person to whom some right or interest is transferred, either for their own enjoyment or in trust.", "S": ["assistant ", "broker ", "commissioner ", "deputy ", "handler ", "lawyer ", "minister ", "officer ", "operative ", "operator ", "promoter ", "representative ", "worker "], "A": []}

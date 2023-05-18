@@ -1,0 +1,1 @@
+{"index": 37428, "D": [], "S": ["contraction "], "A": ["dispersal ", "enlargement ", "increase ", "separation "]}

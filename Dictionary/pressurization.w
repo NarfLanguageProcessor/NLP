@@ -1,0 +1,1 @@
+{"index": 249610, "D": "the process or act of pressurizing. ", "S": [], "A": []}

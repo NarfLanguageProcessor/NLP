@@ -1,0 +1,1 @@
+{"index": 230989, "D": "the envelope of modified leaves surrounding the antheridia in mosses.", "S": [], "A": []}

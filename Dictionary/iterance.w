@@ -1,0 +1,1 @@
+{"index": 159519, "D": "iteration. ", "S": ["litany ", "recurrence ", "reiteration ", "repeat ", "rhythm "], "A": ["original "]}

@@ -1,0 +1,1 @@
+{"index": 260387, "D": "violent in action or spirit; raging; furious", "S": ["excessive ", "flagrant ", "growing ", "prevalent ", "raging ", "rife ", "spreading ", "unbridled ", "unchecked ", "uncontrollable ", "unrestrained ", "violent ", "wanton "], "A": ["gentle ", "mild ", "moderate ", "moral ", "restrained "]}

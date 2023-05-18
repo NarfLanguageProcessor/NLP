@@ -1,0 +1,1 @@
+{"index": 156679, "D": "the entrance of foreign matter into a blood vessel of the body.", "S": [], "A": []}

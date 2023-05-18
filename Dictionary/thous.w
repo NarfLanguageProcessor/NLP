@@ -1,0 +1,1 @@
+{"index": 322485, "D": "the second person singular subject pronoun, equivalent to modern you  (used to denote the person or thing addressed)", "S": [], "A": []}

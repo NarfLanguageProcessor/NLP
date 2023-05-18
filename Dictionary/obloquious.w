@@ -1,0 +1,1 @@
+{"index": 210271, "D": [], "S": ["insulting ", "offensive ", "rude "], "A": ["kind ", "nice ", "respectful "]}

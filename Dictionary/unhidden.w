@@ -1,0 +1,1 @@
+{"index": 343705, "D": "concealed; obscure; covert", "S": ["bare ", "defined ", "disclosed ", "discovered ", "naked ", "resolved ", "solved ", "uncovered ", "unprotected "], "A": ["clothed ", "hidden ", "ambiguous ", "blocked ", "closed ", "concealed ", "obscure ", "unclear ", "vague "]}

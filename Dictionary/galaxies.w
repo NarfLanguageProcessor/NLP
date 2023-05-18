@@ -1,0 +1,1 @@
+{"index": 121179, "D": "Milky Way. ", "S": ["Milky Way ", "elliptical galaxy ", "irregular galaxy ", "island universe ", "spiral galaxy ", "star cluster ", "star system "], "A": []}

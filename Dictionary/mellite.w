@@ -1,0 +1,1 @@
+{"index": 182950, "D": "a pharmaceutical containing honey.", "S": [], "A": []}

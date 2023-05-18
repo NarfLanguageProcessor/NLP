@@ -1,0 +1,1 @@
+{"index": 288762, "D": "a child's rocker having a seat supported between two boards cut and painted to resemble animals.", "S": ["agent ", "informer ", "police officer ", "private eye ", "private investigator ", "prosecutor ", "reporter ", "sleuth ", "spy "], "A": []}

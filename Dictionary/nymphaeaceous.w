@@ -1,0 +1,1 @@
+{"index": 200117, "D": "belonging to the Nymphaeaceae, the water lily family of plants.", "S": [], "A": []}

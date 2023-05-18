@@ -1,0 +1,1 @@
+{"index": 183086, "D": "the amount melted  or the result of melting. ", "S": [], "A": []}

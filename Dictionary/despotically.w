@@ -1,0 +1,1 @@
+{"index": 82880, "D": "of, relating to, or of the nature of a despot  or despotism;  autocratic; tyrannical.", "S": [], "A": []}

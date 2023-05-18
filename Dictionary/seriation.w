@@ -1,0 +1,1 @@
+{"index": 286064, "D": "the arrangement of a collection of artifacts into a chronological sequence.", "S": [], "A": []}

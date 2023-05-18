@@ -1,0 +1,1 @@
+{"index": 8807, "D": "Compare autochthonous (def. 4). ", "S": [], "A": []}

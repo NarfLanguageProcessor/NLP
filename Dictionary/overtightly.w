@@ -1,0 +1,1 @@
+{"index": 221599, "D": "firmly or closely fixed in place; not easily moved; secure", "S": [], "A": []}

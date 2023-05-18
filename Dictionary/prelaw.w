@@ -1,0 +1,1 @@
+{"index": 248180, "D": "of, relating to, or engaged in studies in preparation for the formal study of law.", "S": [], "A": []}

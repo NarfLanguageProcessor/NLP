@@ -1,0 +1,1 @@
+{"index": 178837, "D": "riches or material wealth. Matthew 6", "S": ["avarice ", "gain ", "possessions ", "riches ", "wealth "], "A": []}

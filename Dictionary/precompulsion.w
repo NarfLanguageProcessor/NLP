@@ -1,0 +1,1 @@
+{"index": 246315, "D": "the act of compelling;  constraint; coercion.", "S": [], "A": []}

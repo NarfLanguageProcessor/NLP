@@ -1,0 +1,1 @@
+{"index": 127993, "D": "any of numerous, often weedy plants of the genus Chenopodium, having inconspicuous greenish flowers.", "S": [], "A": []}

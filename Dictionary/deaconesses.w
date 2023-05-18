@@ -1,0 +1,1 @@
+{"index": 77424, "D": "(in certain Protestant churches) a woman belonging to an order or sisterhood dedicated to the care of the sick or poor or who is engaging in other social-service duties, as teaching or missionary work.", "S": [], "A": []}

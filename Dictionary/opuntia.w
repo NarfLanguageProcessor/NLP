@@ -1,0 +1,1 @@
+{"index": 213889, "D": "any cactus of the genus Opuntia, esp prickly pear, having fleshy branched stems and green, red, or yellow flowers", "S": [], "A": []}

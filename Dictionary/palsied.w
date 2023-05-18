@@ -1,0 +1,1 @@
+{"index": 224187, "D": "paralyzed; unable to move or control certain muscles.", "S": ["debilitated ", "disabled ", "paralyzed ", "shaking ", "sick ", "trembling "], "A": ["healthy "]}

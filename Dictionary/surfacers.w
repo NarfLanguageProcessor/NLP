@@ -1,0 +1,1 @@
+{"index": 313390, "D": "the outer face, outside, or exterior boundary of a thing; outermost or uppermost layer or area.", "S": [], "A": []}

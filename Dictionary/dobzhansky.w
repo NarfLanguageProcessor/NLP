@@ -1,0 +1,1 @@
+{"index": 90575, "D": "U.S. geneticist, born in Russia.", "S": [], "A": []}

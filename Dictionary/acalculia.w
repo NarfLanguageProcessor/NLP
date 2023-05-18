@@ -1,0 +1,1 @@
+{"index": 1254, "D": "inability or loss of the ability to perform arithmetic operations.", "S": [], "A": []}

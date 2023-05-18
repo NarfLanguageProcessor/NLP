@@ -1,0 +1,1 @@
+{"index": 114355, "D": "the coat of wool that covers a sheep or a similar animal.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 36208, "D": "(esp formerly) a protective screen or structure, as over a trench", "S": [], "A": []}

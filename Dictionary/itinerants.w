@@ -1,0 +1,1 @@
+{"index": 159559, "D": "traveling from place to place, especially on a circuit, as a minister, judge, or sales representative; itinerating;  journeying.", "S": ["emigrant ", "evacuee ", "expatriate ", "immigrant ", "traveler "], "A": ["native "]}

@@ -1,0 +1,1 @@
+{"index": 317160, "D": "a compound that exhibits tautomerism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 48827, "D": "an armored enclosure for guns in a warship.", "S": [], "A": []}

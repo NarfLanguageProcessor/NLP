@@ -1,0 +1,1 @@
+{"index": 294217, "D": "an insole placed in a shoe for warmth or to adjust the size.", "S": [], "A": []}

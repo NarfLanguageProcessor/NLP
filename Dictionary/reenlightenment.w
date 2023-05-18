@@ -1,0 +1,1 @@
+{"index": 264749, "D": "the act of enlightening. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 28742, "D": "an abnormal increase in the number of basophils  in the blood, occurring in some types of leukemia, severe anemia, and other disorders.", "S": [], "A": []}

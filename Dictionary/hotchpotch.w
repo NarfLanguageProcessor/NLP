@@ -1,0 +1,1 @@
+{"index": 144256, "D": "a thick soup or stew of vegetables or meat, often thickened with barley.", "S": ["stew "], "A": ["order ", "organization "]}

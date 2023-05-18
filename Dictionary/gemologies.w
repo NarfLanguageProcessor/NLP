@@ -1,0 +1,1 @@
+{"index": 123369, "D": "the science dealing with natural and artificial gemstones.", "S": [], "A": []}

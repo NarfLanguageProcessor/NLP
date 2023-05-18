@@ -1,0 +1,1 @@
+{"index": 282191, "D": "he engraved, carved, or sculptured (it); she engraved, carved, or sculptured (it). Abbreviation", "S": [], "A": []}

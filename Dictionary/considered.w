@@ -1,0 +1,1 @@
+{"index": 66811, "D": "thought about or decided upon with care", "S": ["studied ", "treated "], "A": ["disregarded ", "forgotten ", "neglected ", "unplanned ", "unstudied "]}

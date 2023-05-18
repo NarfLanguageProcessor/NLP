@@ -1,0 +1,1 @@
+{"index": 172755, "D": "an act or instance of marking with or tracing by lines. ", "S": ["boundary ", "channel ", "edge "], "A": ["inside ", "interior "]}

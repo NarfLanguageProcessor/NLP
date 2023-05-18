@@ -1,0 +1,1 @@
+{"index": 86345, "D": "a crystalline compound, C27H42O3, the aglycone of dioscin", "S": [], "A": []}

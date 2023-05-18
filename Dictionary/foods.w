@@ -1,0 +1,1 @@
+{"index": 116084, "D": "any nourishing substance that is eaten, drunk, or otherwise taken into the body to sustain life, provide energy, promote growth, etc.", "S": ["bread ", "cooking ", "cuisine ", "drink ", "fare ", "feed ", "foodstuff ", "meal ", "meat ", "snack "], "A": ["deprivation ", "starvation "]}

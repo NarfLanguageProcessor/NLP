@@ -1,0 +1,1 @@
+{"index": 286306, "D": "genitive of Serpens. ", "S": [], "A": []}

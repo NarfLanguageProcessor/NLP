@@ -1,0 +1,1 @@
+{"index": 357601, "D": "US, Canadian and Australian another name for veal (def. 2)", "S": [], "A": []}

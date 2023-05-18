@@ -1,0 +1,1 @@
+{"index": 141540, "D": "thermobarometer (def. 1). ", "S": [], "A": []}

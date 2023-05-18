@@ -1,0 +1,1 @@
+{"index": 317640, "D": "an element of the manganese family, not found in nature, but obtained in the fission of uranium or by the bombardment of molybdenum. Symbol", "S": [], "A": []}

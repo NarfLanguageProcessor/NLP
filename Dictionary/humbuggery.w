@@ -1,0 +1,1 @@
+{"index": 144921, "D": "pretense; sham.", "S": [], "A": []}

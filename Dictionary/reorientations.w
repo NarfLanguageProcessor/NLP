@@ -1,0 +1,1 @@
+{"index": 267914, "D": "the act or state of reorienting  or of being reoriented. ", "S": [], "A": []}

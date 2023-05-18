@@ -1,0 +1,1 @@
+{"index": 44957, "D": "capable of or made for performing calculations,  especially arithmetical calculations", "S": ["consciously ", "knowingly ", "pointedly ", "purposely ", "studiously ", "voluntarily ", "willfully "], "A": ["unintentionally ", "unwittingly "]}

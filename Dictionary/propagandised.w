@@ -1,0 +1,1 @@
+{"index": 252503, "D": "to propagate or publicize (principles, dogma, etc.) by means of propaganda. ", "S": [], "A": []}

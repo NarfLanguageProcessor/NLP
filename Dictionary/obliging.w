@@ -1,0 +1,1 @@
+{"index": 210212, "D": "willing or eager to do favors, offer one's services, etc.; accommodating", "S": ["accommodating ", "willing "], "A": ["disobliging ", "inconsiderate ", "mean ", "uncooperative ", "unfriendly ", "unhelpful "]}

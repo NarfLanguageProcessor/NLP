@@ -1,0 +1,1 @@
+{"index": 321126, "D": "the theoretical or speculative part of a science or subject.", "S": [], "A": []}

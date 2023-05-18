@@ -1,0 +1,1 @@
+{"index": 200000, "D": "tending toward black; blackish.", "S": [], "A": []}

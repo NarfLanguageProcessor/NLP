@@ -1,0 +1,1 @@
+{"index": 191660, "D": "a variant of mama. ", "S": [], "A": []}

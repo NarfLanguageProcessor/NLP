@@ -1,0 +1,1 @@
+{"index": 338788, "D": "serving to depress;  inducing a state of depression", "S": [], "A": []}

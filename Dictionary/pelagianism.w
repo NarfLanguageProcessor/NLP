@@ -1,0 +1,1 @@
+{"index": 229226, "D": "a heretical doctrine, first formulated by Pelagius, that rejected the concept of original sin and maintained that the individual takes the initial steps towards salvation by his own efforts and not by the help of divine grace", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86165, "D": "genuine; authentic.", "S": [], "A": []}

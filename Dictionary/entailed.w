@@ -1,0 +1,1 @@
+{"index": 101154, "D": "involved with or following from something by logical necessity or as a consequence", "S": ["basic ", "inbred ", "inviolable ", "natural ", "nonnegotiable ", "nontransferable ", "sacrosanct ", "unassailable ", "untransferable "], "A": ["acquired ", "changeable ", "impermanent ", "transitory "]}

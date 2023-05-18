@@ -1,0 +1,1 @@
+{"index": 181288, "D": "of, relating to, or having the characteristics of a matron;  maturely dignified; stately.", "S": ["dignified ", "female ", "honorable ", "ladylike ", "mature ", "motherly ", "respected ", "stately "], "A": []}

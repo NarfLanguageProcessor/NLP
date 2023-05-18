@@ -1,0 +1,1 @@
+{"index": 3394, "D": "a programming language particularly suited to real-time applications", "S": [], "A": []}

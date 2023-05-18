@@ -1,0 +1,1 @@
+{"index": 166430, "D": "the Asiatic wild ass of the Russian steppes, probably a variety of kiang or onager", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 253051, "D": "the ordinary form of spoken or written language, without metrical structure, as distinguished from poetry or verse.", "S": [], "A": []}

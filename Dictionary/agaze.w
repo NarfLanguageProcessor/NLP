@@ -1,0 +1,1 @@
+{"index": 5964, "D": "staring intently; gazing", "S": [], "A": []}

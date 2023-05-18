@@ -1,0 +1,1 @@
+{"index": 226074, "D": "the formation of a word by the addition of a derivational suffix to a phrase or compound, as of greathearted, which is great heart plus -ed.", "S": [], "A": []}

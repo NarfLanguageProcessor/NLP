@@ -1,0 +1,1 @@
+{"index": 184031, "D": "a plural of mademoiselle. ", "S": ["adolescent ", "daughter ", "lady ", "schoolgirl ", "teenager ", "young woman "], "A": ["boy "]}

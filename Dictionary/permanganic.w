@@ -1,0 +1,1 @@
+{"index": 231576, "D": "of or derived from permanganic acid. ", "S": [], "A": []}

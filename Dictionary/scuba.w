@@ -1,0 +1,1 @@
+{"index": 282124, "D": "a portable breathing device for free-swimming divers, consisting of a mouthpiece joined by hoses to one or two tanks of compressed air that are strapped on the back.", "S": [], "A": []}

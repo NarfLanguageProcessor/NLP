@@ -1,0 +1,1 @@
+{"index": 171412, "D": "any of various composite plants of the genus Liatris, native to North America, having long spikes of purplish flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 87917, "D": "to disillusion; disenchant (usually used in the passive and followed by of or with)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 217451, "D": "the outer side,  surface, or part; exterior", "S": ["farther ", "foreign ", "out "], "A": ["central ", "interior ", "middle "]}

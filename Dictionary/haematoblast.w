@@ -1,0 +1,1 @@
+{"index": 132011, "D": "any of the undifferentiated cells in the bone marrow that develop into blood cells", "S": [], "A": []}

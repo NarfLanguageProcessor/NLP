@@ -1,0 +1,1 @@
+{"index": 352247, "D": "to bring under complete control or subjection; conquer; master.", "S": [], "A": []}

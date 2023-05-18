@@ -1,0 +1,1 @@
+{"index": 351991, "D": "in a way that is secret and quietly careful; furtively or surreptitiously", "S": [], "A": []}

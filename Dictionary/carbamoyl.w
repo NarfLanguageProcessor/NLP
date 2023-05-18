@@ -1,0 +1,1 @@
+{"index": 47417, "D": "The radical NH2CO, derived from carbamic acid.", "S": [], "A": []}

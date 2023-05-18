@@ -1,0 +1,1 @@
+{"index": 308816, "D": "of, relating to, or situated near the pharynx. ", "S": [], "A": []}

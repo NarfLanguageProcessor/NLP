@@ -1,0 +1,1 @@
+{"index": 210941, "D": "having the form of an octahedron. ", "S": [], "A": []}

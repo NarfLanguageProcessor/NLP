@@ -1,0 +1,1 @@
+{"index": 276284, "D": "the chief of a confederation.", "S": [], "A": []}

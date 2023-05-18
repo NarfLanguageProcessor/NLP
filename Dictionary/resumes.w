@@ -1,0 +1,1 @@
+{"index": 270147, "D": "to take up or go on with again after interruption; continue", "S": ["continue ", "go on ", "proceed ", "regain ", "reopen ", "restart ", "return to ", "take up "], "A": ["cease ", "complete ", "end ", "finish ", "halt ", "stop "]}

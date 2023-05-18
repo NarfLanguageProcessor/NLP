@@ -1,0 +1,1 @@
+{"index": 357677, "D": "a star of the first magnitude in the constellation Lyra.", "S": [], "A": []}

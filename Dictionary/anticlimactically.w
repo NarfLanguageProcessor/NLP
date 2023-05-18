@@ -1,0 +1,1 @@
+{"index": 14954, "D": "of, like, pertaining to, or expressing anticlimax. ", "S": [], "A": []}

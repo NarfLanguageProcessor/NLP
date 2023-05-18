@@ -1,0 +1,1 @@
+{"index": 80221, "D": "to free of lice;  remove lice from.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 199434, "D": "a broadcast  of news  on radio or television.", "S": ["advertisement ", "announcement ", "performance ", "program ", "publication ", "show ", "simulcast ", "transmission "], "A": []}

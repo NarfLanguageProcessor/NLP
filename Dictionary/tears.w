@@ -1,0 +1,1 @@
+{"index": 317548, "D": "Related adjective", "S": ["crack ", "hole "], "A": ["closing ", "closure ", "juncture ", "perfection "]}

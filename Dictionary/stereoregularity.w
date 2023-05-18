@@ -1,0 +1,1 @@
+{"index": 303953, "D": "(of a polymer) the degree to which successive configurations in space along the chain follow a simple rule.", "S": [], "A": []}

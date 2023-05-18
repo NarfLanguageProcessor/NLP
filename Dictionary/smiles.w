@@ -1,0 +1,1 @@
+{"index": 294889, "D": "Samuel. 1812\u20131904, British writer", "S": ["beam ", "grin ", "laugh ", "smirk "], "A": ["frown ", "glower "]}

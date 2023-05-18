@@ -1,0 +1,1 @@
+{"index": 37162, "D": "a small, independent or family-owned grocery store, usually located in a densely populated urban environment, traditionally serving a Hispanic clientele.", "S": ["convenience store ", "trading post "], "A": []}

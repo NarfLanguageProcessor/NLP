@@ -1,0 +1,1 @@
+{"index": 283282, "D": "of or relating to a seignior.", "S": [], "A": []}

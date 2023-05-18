@@ -1,0 +1,1 @@
+{"index": 192452, "D": "a one-to-one homomorphism.", "S": [], "A": []}

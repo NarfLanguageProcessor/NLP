@@ -1,0 +1,1 @@
+{"index": 212118, "D": "variant of oleo-  before a vowel", "S": [], "A": []}

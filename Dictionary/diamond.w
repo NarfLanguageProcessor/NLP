@@ -1,0 +1,1 @@
+{"index": 84350, "D": "a pure or nearly pure, extremely hard form of carbon, naturally crystallized in the isometric system.", "S": ["gem ", "jewel ", "rhinestone "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 38661, "D": "a shop specializing in herbs, spiritual items, etc.", "S": [], "A": []}

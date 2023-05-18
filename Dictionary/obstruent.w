@@ -1,0 +1,1 @@
+{"index": 210514, "D": "(of a substance) producing an obstruction.", "S": ["in the way "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 361898, "D": "a light, four-wheeled carriage, with or without a top, having a crosswise seat in front and two lengthwise seats facing each other at the back.", "S": [], "A": []}

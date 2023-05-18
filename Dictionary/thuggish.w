@@ -1,0 +1,1 @@
+{"index": 322930, "D": "a violent, lawless, or vicious person, especially one who commits a crime such as assault, robbery, or murder", "S": [], "A": []}

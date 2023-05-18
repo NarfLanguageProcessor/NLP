@@ -1,0 +1,1 @@
+{"index": 348061, "D": "a condition, state, or situation, especially an unfavorable or unfortunate one", "S": [], "A": []}

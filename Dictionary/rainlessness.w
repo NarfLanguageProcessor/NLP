@@ -1,0 +1,1 @@
+{"index": 260103, "D": "Compare drizzle (def. 6). ", "S": ["lack ", "scarcity "], "A": ["abundance ", "excess ", "surplus ", "plenty ", "sufficiency "]}

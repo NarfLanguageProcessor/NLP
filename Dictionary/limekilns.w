@@ -1,0 +1,1 @@
+{"index": 172343, "D": "a kiln or furnace for making lime by calcining limestone or shells.", "S": [], "A": []}

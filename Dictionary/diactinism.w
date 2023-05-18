@@ -1,0 +1,1 @@
+{"index": 84076, "D": "capable of transmitting actinic  rays.", "S": [], "A": []}

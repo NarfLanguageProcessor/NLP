@@ -1,0 +1,1 @@
+{"index": 293723, "D": "to spread or apply thickly", "S": ["brush ", "coat ", "cover ", "daub ", "decorate ", "depict ", "design ", "draw ", "dye ", "portray ", "sketch ", "tint ", "wash "], "A": ["reveal ", "uncover ", "whiten "]}

@@ -1,0 +1,1 @@
+{"index": 50689, "D": "any of various calcined mixtures of clay and limestone, usually mixed with water and sand, gravel, etc., to form concrete, that are used as a building material.", "S": [], "A": []}

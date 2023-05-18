@@ -1,0 +1,1 @@
+{"index": 40440, "D": "a .303-caliber, gas-operated, air-cooled, clip-fed submachine gun.", "S": [], "A": []}

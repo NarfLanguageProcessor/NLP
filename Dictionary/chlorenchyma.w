@@ -1,0 +1,1 @@
+{"index": 55067, "D": "parenchymal tissue containing chlorophyll. ", "S": [], "A": []}

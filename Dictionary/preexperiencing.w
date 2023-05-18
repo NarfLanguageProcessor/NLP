@@ -1,0 +1,1 @@
+{"index": 247438, "D": "a particular instance of personally encountering or undergoing something", "S": [], "A": []}

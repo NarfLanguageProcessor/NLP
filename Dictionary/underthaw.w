@@ -1,0 +1,1 @@
+{"index": 339996, "D": "to pass or change from a frozen to a liquid or semiliquid state; melt.", "S": [], "A": []}

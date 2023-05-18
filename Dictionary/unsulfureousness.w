@@ -1,0 +1,1 @@
+{"index": 352368, "D": "consisting of, containing, or pertaining to sulfur.", "S": [], "A": []}

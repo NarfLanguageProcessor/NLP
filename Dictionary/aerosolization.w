@@ -1,0 +1,1 @@
+{"index": 5137, "D": "to disperse or discharge as an aerosol", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 368480, "D": "growing in or adapted to dry, especially dry and hot, regions.", "S": [], "A": []}

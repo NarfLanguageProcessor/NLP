@@ -1,0 +1,1 @@
+{"index": 134196, "D": "any deep-sea fishes  of the genera Argyropelicus, Sternoptyx, and related genera, of tropical and temperate waters, having a silvery, hatchet-shaped body.", "S": [], "A": []}

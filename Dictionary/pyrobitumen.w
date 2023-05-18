@@ -1,0 +1,1 @@
+{"index": 237760, "D": "any of the dark, solid hydrocarbons including peat, coal, and bituminous shale.", "S": [], "A": []}

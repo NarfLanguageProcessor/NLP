@@ -1,0 +1,1 @@
+{"index": 74106, "D": "genitive of Crux. ", "S": [], "A": []}

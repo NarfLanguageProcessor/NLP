@@ -1,0 +1,1 @@
+{"index": 279469, "D": "an attitude scale  in which a positive answer to an item implies agreement with items appearing lower on the scale. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 153912, "D": "of, relating to, or of the nature of instinct. ", "S": ["impulsive ", "ingrained ", "inherent ", "innate ", "intuitive ", "natural ", "spontaneous ", "visceral "], "A": ["acquired ", "extrinsic ", "learned "]}

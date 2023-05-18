@@ -1,0 +1,1 @@
+{"index": 351982, "D": "not steady  or firm; unstable; shaky", "S": ["erratic ", "groggy ", "precarious ", "rickety ", "rocky ", "unstable ", "wobbly "], "A": ["certain ", "definite ", "dependable ", "stable ", "steady ", "strong ", "sure "]}

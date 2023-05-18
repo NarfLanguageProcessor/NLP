@@ -1,0 +1,1 @@
+{"index": 328185, "D": "the quality or state of being transparent.", "S": [], "A": []}

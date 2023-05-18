@@ -1,0 +1,1 @@
+{"index": 121747, "D": "a decorative figure composed of a number of Greek capital gammas, esp radiating from a centre, as in a swastika", "S": ["hakenkreuz "], "A": []}

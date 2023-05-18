@@ -1,0 +1,1 @@
+{"index": 2598, "D": "a condition characterized by atrophy of the muscles of the calf of the leg.", "S": [], "A": []}

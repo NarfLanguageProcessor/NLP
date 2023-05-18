@@ -1,0 +1,1 @@
+{"index": 359083, "D": "of, relating to, or of the nature of a vestige", "S": [], "A": []}

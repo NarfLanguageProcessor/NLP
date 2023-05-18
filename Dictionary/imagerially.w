@@ -1,0 +1,1 @@
+{"index": 147577, "D": "the formation of mental images, figures, or likenesses of things, or of such images collectively", "S": [], "A": []}

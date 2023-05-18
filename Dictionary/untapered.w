@@ -1,0 +1,1 @@
+{"index": 352687, "D": "becoming gradually thinner, narrower, or smaller toward one end", "S": [], "A": []}

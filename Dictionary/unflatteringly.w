@@ -1,0 +1,1 @@
+{"index": 342359, "D": "enhancing the appearance of a person or thing, as by highlighting pleasing features or making less pleasing ones inconspicuous", "S": ["adversely ", "critically "], "A": ["agreeably ", "approvingly ", "favorably ", "positively "]}

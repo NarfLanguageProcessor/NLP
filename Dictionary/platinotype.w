@@ -1,0 +1,1 @@
+{"index": 239455, "D": "a process of printing positives in which a platinum  salt is used, rather than the usual silver salts, in order to make a more permanent print.", "S": [], "A": []}

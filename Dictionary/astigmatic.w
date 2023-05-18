@@ -1,0 +1,1 @@
+{"index": 22102, "D": "pertaining to, exhibiting, or correcting astigmatism. ", "S": ["nearsighted ", "shortsighted "], "A": ["far-sighted "]}

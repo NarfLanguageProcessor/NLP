@@ -1,0 +1,1 @@
+{"index": 18362, "D": "Compare insect. ", "S": ["harvestman ", "mite ", "scorpion ", "tarantula ", "tick "], "A": []}

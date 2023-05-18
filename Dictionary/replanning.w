@@ -1,0 +1,1 @@
+{"index": 268251, "D": "a scheme or method of acting, doing, proceeding, making, etc., developed in advance", "S": ["rehabilitation ", "reorganization ", "repair ", "restoration "], "A": ["neglect "]}

@@ -1,0 +1,1 @@
+{"index": 168873, "D": "the weathering process by which rock is changed to laterite.", "S": [], "A": []}

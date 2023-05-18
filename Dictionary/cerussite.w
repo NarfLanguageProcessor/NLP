@@ -1,0 +1,1 @@
+{"index": 51626, "D": "a mineral, lead carbonate, PbCO3, found in masses or in colorless, transparent crystals", "S": [], "A": []}

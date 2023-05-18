@@ -1,0 +1,1 @@
+{"index": 353768, "D": "to work or ornament with wavy lines or markings resembling the form or tracks of a worm.", "S": [], "A": []}

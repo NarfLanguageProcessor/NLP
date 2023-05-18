@@ -1,0 +1,1 @@
+{"index": 235667, "D": "of or relating to long-period oscillation in the longitudinal motion of an aircraft, rocket, or missile.", "S": [], "A": []}

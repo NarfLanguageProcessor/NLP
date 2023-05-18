@@ -1,0 +1,1 @@
+{"index": 317777, "D": "abounding or swarming with something, as with people", "S": ["richness "], "A": ["lack ", "need ", "scarcity ", "want "]}

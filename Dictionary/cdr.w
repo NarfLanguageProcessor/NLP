@@ -1,0 +1,1 @@
+{"index": 50298, "D": "a compact disc onto which data can be written but not erased or modified.", "S": [], "A": []}

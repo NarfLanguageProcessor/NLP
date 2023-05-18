@@ -1,0 +1,1 @@
+{"index": 318517, "D": "a technique of painting in which an emulsion consisting of water and pure egg yolk or a mixture of egg and oil is used as a binder or medium, characterized by its lean film-forming properties and rapid drying rate.", "S": ["acrylic ", "color ", "cosmetic ", "dye ", "enamel ", "latex ", "makeup ", "oil ", "pigment ", "stain ", "varnish ", "wax "], "A": []}

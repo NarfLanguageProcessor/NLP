@@ -1,0 +1,1 @@
+{"index": 145394, "D": "a pen or enclosed coop for small animals", "S": ["buffet ", "cabinet ", "sideboard "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 193199, "D": "open to discussion or debate; debatable; doubtful", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 330319, "D": "consisting of or existing in three persons, as the Godhead.", "S": [], "A": []}

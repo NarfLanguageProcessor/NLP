@@ -1,0 +1,1 @@
+{"index": 127249, "D": "language characterized by circumlocution and jargon, usually hard to understand", "S": ["amphigory ", "balderdash ", "baloney ", "bosh ", "bull ", "bunk ", "cant ", "drivel ", "gibberish ", "hooey ", "rigmarole ", "rubbish "], "A": ["sense ", "truth "]}

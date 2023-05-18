@@ -1,0 +1,1 @@
+{"index": 299197, "D": "a small sac or cavity in female or hermaphroditic invertebrates used to store sperm for fertilizing eggs, as in the queen bee.", "S": [], "A": []}

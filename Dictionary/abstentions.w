@@ -1,0 +1,1 @@
+{"index": 1062, "D": "an act or instance of abstaining. ", "S": ["abstinence ", "avoidance ", "self-control ", "self-denial ", "self-restraint ", "sobriety "], "A": ["self-indulgence "]}

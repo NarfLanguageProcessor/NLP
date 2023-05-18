@@ -1,0 +1,1 @@
+{"index": 161810, "D": "to chaff; banter in a teasing way.", "S": ["banter ", "jest ", "jive ", "kid ", "needle ", "razz ", "rib ", "spoof ", "tease "], "A": []}

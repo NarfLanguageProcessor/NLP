@@ -1,0 +1,1 @@
+{"index": 301501, "D": "any of numerous plants of the genus Euphorbia, having a milky juice and flowers with no petals or sepals.", "S": [], "A": []}

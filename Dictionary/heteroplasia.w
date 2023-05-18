@@ -1,0 +1,1 @@
+{"index": 137719, "D": "the replacement of normal cells by abnormal cells, as in cancer.", "S": [], "A": []}

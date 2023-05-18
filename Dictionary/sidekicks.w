@@ -1,0 +1,1 @@
+{"index": 289753, "D": "a close friend.", "S": ["buddy "], "A": ["antagonist ", "detractor ", "enemy ", "foe ", "opponent "]}

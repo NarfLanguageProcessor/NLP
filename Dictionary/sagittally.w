@@ -1,0 +1,1 @@
+{"index": 276687, "D": "(in direction or location) from front to back in the median plane or in a plane parallel to the median.", "S": [], "A": []}

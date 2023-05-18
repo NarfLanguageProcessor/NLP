@@ -1,0 +1,1 @@
+{"index": 261901, "D": "to assign (a person, committee, etc) to a post or role again", "S": [], "A": []}

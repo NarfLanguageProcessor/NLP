@@ -1,0 +1,1 @@
+{"index": 309302, "D": "established by proof or competent evidence", "S": ["accepted ", "approved ", "closed ", "concluded ", "confirmed ", "endorsed ", "identified "], "A": ["disapproved ", "uncertain "]}

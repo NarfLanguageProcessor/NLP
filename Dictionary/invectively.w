@@ -1,0 +1,1 @@
+{"index": 157060, "D": "vehement or violent denunciation, censure, or reproach.", "S": [], "A": []}

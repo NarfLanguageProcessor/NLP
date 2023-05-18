@@ -1,0 +1,1 @@
+{"index": 249314, "D": "a period before the season, especially the period of time in organized sports when athletes train and practice for the regular season", "S": [], "A": []}

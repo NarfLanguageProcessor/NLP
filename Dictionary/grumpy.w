@@ -1,0 +1,1 @@
+{"index": 130576, "D": "surly or ill-tempered; discontentedly or sullenly irritable; grouchy.", "S": ["cantankerous ", "crotchety ", "grouchy ", "irritable ", "sullen ", "surly ", "testy "], "A": ["cheerful ", "happy ", "nice ", "pleasant "]}

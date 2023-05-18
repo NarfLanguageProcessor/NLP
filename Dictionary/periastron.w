@@ -1,0 +1,1 @@
+{"index": 230765, "D": "the point at which the stars of a binary system are closest (opposed to apastron).", "S": [], "A": []}

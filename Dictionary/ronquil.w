@@ -1,0 +1,1 @@
+{"index": 274171, "D": "any ray-finned fish  of the small family Bathymasteridae, inhabiting only the North Pacific  and Arctic  Oceans, mostly on or near the seafloor.", "S": [], "A": []}

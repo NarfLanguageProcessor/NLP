@@ -1,0 +1,1 @@
+{"index": 125243, "D": "with great care or caution; warily.", "S": ["calculating ", "cautious ", "chary ", "circumspect ", "considerate ", "dainty ", "delicate ", "discreet ", "fastidious ", "guarded ", "hesitant ", "reluctant ", "safe ", "squeamish ", "suspicious ", "timid ", "wary "], "A": ["careless ", "rash ", "rough ", "uncareful "]}

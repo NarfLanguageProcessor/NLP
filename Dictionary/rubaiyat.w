@@ -1,0 +1,1 @@
+{"index": 275084, "D": "(in Persian poetry) a verse form consisting of four-line stanzas", "S": [], "A": []}

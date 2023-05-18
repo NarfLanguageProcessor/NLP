@@ -1,0 +1,1 @@
+{"index": 9153, "D": "the place where an almoner resides or where alms are distributed.", "S": [], "A": []}

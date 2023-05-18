@@ -1,0 +1,1 @@
+{"index": 108671, "D": "being or developing outside the uterus.", "S": [], "A": []}

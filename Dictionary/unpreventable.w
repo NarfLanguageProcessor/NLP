@@ -1,0 +1,1 @@
+{"index": 348448, "D": "to keep from occurring; avert; hinder", "S": ["imminent ", "impending ", "inescapable ", "inexorable ", "irresistible ", "necessary ", "unavoidable ", "undeniable "], "A": ["avoidable ", "distant ", "escapable ", "later "]}

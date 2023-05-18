@@ -1,0 +1,1 @@
+{"index": 153011, "D": "existing in one from birth; inborn; native", "S": ["deep-seated ", "elemental ", "inborn ", "ingrained ", "inherent ", "instinctive ", "intrinsic ", "intuitive "], "A": ["acquired ", "extrinsic ", "incidental ", "learned ", "meditated "]}

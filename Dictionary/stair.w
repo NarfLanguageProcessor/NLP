@@ -1,0 +1,1 @@
+{"index": 302432, "D": "one of a flight or series of steps for going from one level to another, as in a building.", "S": ["amount ", "extent ", "grade ", "intensity ", "point ", "quality ", "rate ", "scale ", "scope ", "severity ", "size ", "standard ", "strength ", "term "], "A": ["dullness ", "lethargy ", "whole ", "unimportance "]}

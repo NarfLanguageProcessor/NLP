@@ -1,0 +1,1 @@
+{"index": 336130, "D": "to remove the braces of.", "S": ["attenuate ", "cripple ", "disable ", "eviscerate "], "A": ["aid ", "assist ", "enable ", "help ", "strengthen ", "animate ", "assuage ", "cure ", "fix ", "grow ", "heal ", "increase ", "invigorate ", "mend ", "please ", "soothe "]}

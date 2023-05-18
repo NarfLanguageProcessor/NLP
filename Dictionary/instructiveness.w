@@ -1,0 +1,1 @@
+{"index": 153981, "D": "serving to instruct  or inform; conveying instruction,  knowledge, or information; enlightening.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 265943, "D": "to fasten or attach (a thing) so that it is supported only from above or at a point near its own top; suspend. ", "S": [], "A": []}

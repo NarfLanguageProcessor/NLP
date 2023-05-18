@@ -1,0 +1,1 @@
+{"index": 125460, "D": "an opal that reflects light in a bright luminous glow.", "S": [], "A": []}

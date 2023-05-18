@@ -1,0 +1,1 @@
+{"index": 187688, "D": "the daily Jewish religious service conducted in the afternoon.", "S": [], "A": []}

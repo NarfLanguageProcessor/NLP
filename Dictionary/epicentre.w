@@ -1,0 +1,1 @@
+{"index": 102248, "D": "Compare focus (def. 6)", "S": [], "A": []}

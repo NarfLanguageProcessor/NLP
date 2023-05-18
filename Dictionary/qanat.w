@@ -1,0 +1,1 @@
+{"index": 257404, "D": "an underground aqueduct in the Middle East  or North Africa  through which water flows downhill from an aquifer or well to the surface.", "S": [], "A": []}

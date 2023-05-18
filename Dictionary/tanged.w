@@ -1,0 +1,1 @@
+{"index": 316020, "D": "a strong taste or flavor.", "S": [], "A": []}

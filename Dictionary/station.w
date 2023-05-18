@@ -1,0 +1,1 @@
+{"index": 303085, "D": "a place or position in which a person or thing is normally located.", "S": ["depot ", "house ", "location ", "site ", "terminal "], "A": ["unemployment "]}

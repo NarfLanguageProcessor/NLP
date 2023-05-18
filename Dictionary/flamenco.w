@@ -1,0 +1,1 @@
+{"index": 113865, "D": "a style of dancing, characteristic of the Andalusian Roma, that is strongly rhythmic and involves vigorous actions, as clapping the hands and stamping the feet.", "S": [], "A": []}

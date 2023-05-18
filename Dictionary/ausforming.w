@@ -1,0 +1,1 @@
+{"index": 23668, "D": "a treatment to strengthen hard steels, prior to quenching, in which the specimen is plastically deformed while it is in the austenite temperature range", "S": [], "A": []}

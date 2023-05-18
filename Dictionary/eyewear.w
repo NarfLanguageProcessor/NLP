@@ -1,0 +1,1 @@
+{"index": 96463, "D": "any of various devices, as spectacles, contact lenses, or goggles, for aiding the vision or protecting the eyes. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1641, "D": "easy to deal with; eager to help or please; obliging. ", "S": ["considerate ", "friendly ", "generous ", "helpful ", "hospitable ", "polite ", "unselfish "], "A": ["greedy ", "mean ", "selfish "]}

@@ -1,0 +1,1 @@
+{"index": 305260, "D": "full of or abounding in stones  or rock", "S": ["expressionless ", "frigid "], "A": ["friendly ", "smiling ", "soft ", "warm "]}

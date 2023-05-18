@@ -1,0 +1,1 @@
+{"index": 216418, "D": "the exposed portion of such a stratum or vein.", "S": ["offshoot "], "A": ["depression "]}

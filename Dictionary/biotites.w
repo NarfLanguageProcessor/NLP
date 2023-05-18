@@ -1,0 +1,1 @@
+{"index": 34589, "D": "a very common mineral of the mica group, occurring in black, dark-brown, or dark-green sheets and flakes", "S": [], "A": []}

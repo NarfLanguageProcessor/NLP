@@ -1,0 +1,1 @@
+{"index": 70888, "D": "to light  (an interior) with windows or lights on opposite sides.", "S": [], "A": []}

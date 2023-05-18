@@ -1,0 +1,1 @@
+{"index": 230423, "D": "the chloride  of any particular element or group with the maximum proportion of chlorine.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 159380, "D": "delivered or put out for use, sale, etc.; put into circulation", "S": ["expressed "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 262797, "D": "to charge again with electricity.", "S": [], "A": []}

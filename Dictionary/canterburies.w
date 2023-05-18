@@ -1,0 +1,1 @@
+{"index": 46594, "D": "a stand having sections for holding magazines, sheet music, or loose papers.", "S": [], "A": []}

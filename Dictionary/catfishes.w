@@ -1,0 +1,1 @@
+{"index": 49614, "D": "any of the numerous fishes of the order or suborder Nematognathi (or Siluroidei), characterized by barbels around the mouth and the absence of scales.", "S": [], "A": []}

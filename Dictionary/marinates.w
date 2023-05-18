@@ -1,0 +1,1 @@
+{"index": 180089, "D": "to steep (food) in a marinade. ", "S": ["bathe ", "brine ", "immerse ", "pickle ", "steep "], "A": ["dry "]}

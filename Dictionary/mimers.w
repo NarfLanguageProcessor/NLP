@@ -1,0 +1,1 @@
+{"index": 187579, "D": "the art or technique of portraying a character, mood, idea, or narration by gestures and bodily movements; pantomime.", "S": [], "A": []}

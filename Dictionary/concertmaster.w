@@ -1,0 +1,1 @@
+{"index": 65224, "D": "the leader of the first violins in a symphony orchestra, who is usually also the assistant to the conductor.", "S": [], "A": []}

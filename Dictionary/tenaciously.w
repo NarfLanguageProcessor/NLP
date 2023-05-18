@@ -1,0 +1,1 @@
+{"index": 318674, "D": "in a strong, tight, or secure manner", "S": ["adamantly ", "decisively ", "doggedly ", "persistently ", "resolutely ", "staunchly ", "steadfastly ", "strictly ", "stubbornly "], "A": ["indefinitely ", "weakly "]}

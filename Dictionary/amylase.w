@@ -1,0 +1,1 @@
+{"index": 10518, "D": "any of a widely distributed class of enzymes that catalyze the hydrolysis of starch, glycogen, and related polysaccharides to oligosaccharides, maltose, or glucose.", "S": [], "A": []}

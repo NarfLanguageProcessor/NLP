@@ -1,0 +1,1 @@
+{"index": 288513, "D": "a band  of material sewn into a shirt  for stiffening, finishing, or the like, as a neckband to which the collar is sewn or buttoned.", "S": [], "A": []}

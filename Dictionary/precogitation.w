@@ -1,0 +1,1 @@
+{"index": 246212, "D": "concerted thought or reflection; meditation; contemplation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 329037, "D": "a narrower diminutive of the orle, usually ornamented with fleurs-de-lis at the edges and often doubled.", "S": [], "A": []}

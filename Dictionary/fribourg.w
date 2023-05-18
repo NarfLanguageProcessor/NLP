@@ -1,0 +1,1 @@
+{"index": 118903, "D": "a canton in W Switzerland. 644 sq. mi. (1,668 sq. km).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 262013, "D": "an act of ascending;  upward movement; a rising movement", "S": [], "A": []}

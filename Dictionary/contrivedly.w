@@ -1,0 +1,1 @@
+{"index": 67792, "D": "obviously planned or forced; artificial; strained", "S": [], "A": []}

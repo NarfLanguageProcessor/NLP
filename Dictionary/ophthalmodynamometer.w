@@ -1,0 +1,1 @@
+{"index": 213446, "D": "a device for measuring the blood pressure of the retinal blood vessels.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 315571, "D": "a narrative that relates the details of some real or imaginary event, incident, or case; story", "S": ["account ", "anecdote ", "fable ", "fiction ", "legend ", "myth ", "narrative ", "novel ", "short story ", "yarn "], "A": ["nonfiction ", "truth "]}

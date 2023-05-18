@@ -1,0 +1,1 @@
+{"index": 80166, "D": "affected with or characteristic of delirium. ", "S": ["crazed ", "insane ", "mad ", "maniacal ", "manic ", "unhinged "], "A": ["balanced ", "rational ", "reasonable ", "sane ", "sound "]}

@@ -1,0 +1,1 @@
+{"index": 115033, "D": "of or relating to the state of Florida.", "S": [], "A": []}

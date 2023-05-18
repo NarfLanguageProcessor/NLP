@@ -1,0 +1,1 @@
+{"index": 282669, "D": "producing or carrying a fatty, oily, or waxlike substance", "S": [], "A": []}

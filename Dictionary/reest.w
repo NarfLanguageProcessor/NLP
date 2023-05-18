@@ -1,0 +1,1 @@
+{"index": 264802, "D": "to cure, smoke, or dry (meat or fish).", "S": [], "A": []}

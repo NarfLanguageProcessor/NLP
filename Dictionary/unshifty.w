@@ -1,0 +1,1 @@
+{"index": 350990, "D": "resourceful; fertile in expedients.", "S": [], "A": []}

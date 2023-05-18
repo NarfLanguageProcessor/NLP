@@ -1,0 +1,1 @@
+{"index": 310923, "D": "the act or process of summing. ", "S": ["addition ", "aggregate ", "sum "], "A": ["part "]}

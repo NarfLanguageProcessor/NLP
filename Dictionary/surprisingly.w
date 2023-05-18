@@ -1,0 +1,1 @@
+{"index": 313561, "D": "in a way that causes a feeling of wonder or astonishment", "S": ["especially ", "exceptionally ", "notably ", "principally ", "specially ", "unusually "], "A": ["normally ", "usually "]}

@@ -1,0 +1,1 @@
+{"index": 369318, "D": "(among the ancient Babylonians and Assyrians) a temple of Sumerian origin in the form of a pyramidal tower, consisting of a number of stories and having about the outside a broad ascent winding round the structure, presenting the appearance of a series of terraces.", "S": [], "A": []}

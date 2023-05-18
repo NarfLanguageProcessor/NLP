@@ -1,0 +1,1 @@
+{"index": 93691, "D": "doubtfulness; doubt.", "S": ["apprehension ", "distrust ", "doubt ", "fear ", "foreboding ", "misgiving ", "skepticism ", "suspicion ", "uncertainty ", "wariness "], "A": ["belief ", "certainty ", "confidence ", "faith ", "sureness ", "trust ", "unconcern "]}

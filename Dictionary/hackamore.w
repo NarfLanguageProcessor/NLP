@@ -1,0 +1,1 @@
+{"index": 131851, "D": "a simple looped bridle, by means of which controlling pressure is exerted on the nose of a horse, used chiefly in breaking colts.", "S": ["check ", "control ", "curb ", "deterrent ", "halter ", "headstall ", "leash ", "rein ", "restraint ", "trammels "], "A": ["encouragement ", "liberation "]}

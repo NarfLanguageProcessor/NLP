@@ -1,0 +1,1 @@
+{"index": 182570, "D": "an instrument for measuring large resistances, especially the resistance of insulation.", "S": [], "A": []}

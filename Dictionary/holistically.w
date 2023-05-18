@@ -1,0 +1,1 @@
+{"index": 142461, "D": "involving or emphasizing the whole, as with a theory or practice", "S": [], "A": []}

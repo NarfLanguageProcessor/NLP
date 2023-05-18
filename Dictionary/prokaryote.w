@@ -1,0 +1,1 @@
+{"index": 252032, "D": "any cellular organism that has no nuclear membrane, no organelles in the cytoplasm except ribosomes, and has its genetic material in the form of single continuous strands forming coils or loops, characteristic of all organisms in the kingdom Monera, as the bacteria.", "S": [], "A": []}

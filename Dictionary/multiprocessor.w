@@ -1,0 +1,1 @@
+{"index": 195295, "D": "a number of central processing units linked together to enable parallel processing to take place", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 234597, "D": "a native or inhabitant of Phoenicia. ", "S": [], "A": []}

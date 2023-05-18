@@ -1,0 +1,1 @@
+{"index": 165543, "D": "a break in the slope of a river profile caused by renewed erosion by a rejuvenated river", "S": [], "A": []}

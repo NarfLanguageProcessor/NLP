@@ -1,0 +1,1 @@
+{"index": 366456, "D": "a forked bone, formed by the fusion of the two clavicles, in front of the breastbone in most birds; furcula.", "S": [], "A": []}

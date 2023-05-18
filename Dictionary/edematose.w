@@ -1,0 +1,1 @@
+{"index": 95676, "D": "effusion of serous fluid into the interstices of cells in tissue spaces or into body cavities.", "S": [], "A": []}

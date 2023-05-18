@@ -1,0 +1,1 @@
+{"index": 101963, "D": "the ancient Greek goddess of the dawn, identified by the Romans with Aurora.", "S": ["dawn "], "A": []}

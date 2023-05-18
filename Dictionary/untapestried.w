@@ -1,0 +1,1 @@
+{"index": 352689, "D": "furnished or covered with tapestries. ", "S": [], "A": []}

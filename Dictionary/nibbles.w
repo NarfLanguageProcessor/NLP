@@ -1,0 +1,1 @@
+{"index": 199555, "D": "to bite off small bits.", "S": ["crumb ", "peck ", "snack ", "taste ", "tidbit "], "A": ["lot "]}

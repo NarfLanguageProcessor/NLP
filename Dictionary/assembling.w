@@ -1,0 +1,1 @@
+{"index": 21658, "D": "to bring together or gather into one place, company, body, or whole.", "S": ["assemblage ", "assortment ", "compilation ", "lot ", "number ", "selection ", "set ", "store "], "A": ["division ", "individual ", "separation "]}

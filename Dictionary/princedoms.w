@@ -1,0 +1,1 @@
+{"index": 250617, "D": "(often capital) another term for principalities", "S": [], "A": []}

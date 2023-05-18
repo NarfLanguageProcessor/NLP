@@ -1,0 +1,1 @@
+{"index": 108724, "D": "the extreme  or terminal point, limit, or part of something.", "S": ["terminus "], "A": ["aid ", "base ", "beginning ", "blessing ", "boon ", "bottom ", "center ", "commencement ", "good fortune ", "good luck ", "help ", "inside ", "interior ", "middle ", "minimum ", "nadir ", "opening ", "peace ", "prosperity ", "start ", "success "]}

@@ -1,0 +1,1 @@
+{"index": 49514, "D": "any of a group of chemically related neurotransmitters, as epinephrine and dopamine, that have similar effects on the sympathetic nervous system.", "S": [], "A": []}

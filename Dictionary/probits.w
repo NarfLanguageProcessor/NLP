@@ -1,0 +1,1 @@
+{"index": 251069, "D": "a normal equivalent deviate increased by five.", "S": [], "A": []}

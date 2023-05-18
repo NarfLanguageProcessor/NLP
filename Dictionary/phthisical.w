@@ -1,0 +1,1 @@
+{"index": 235648, "D": "pertaining to, of the nature of, or affected by phthisis.", "S": ["consumptive "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 196076, "D": "a round or oblong melon,  occurring in many varieties, having a juicy, often aromatic, sweet, yellow, white, or green, edible flesh.", "S": [], "A": []}

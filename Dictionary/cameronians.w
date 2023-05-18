@@ -1,0 +1,1 @@
+{"index": 45704, "D": "English photographer, born in India.", "S": [], "A": []}

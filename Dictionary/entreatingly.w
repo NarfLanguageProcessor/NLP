@@ -1,0 +1,1 @@
+{"index": 101663, "D": "to ask (a person) earnestly; beseech; implore; beg", "S": [], "A": []}

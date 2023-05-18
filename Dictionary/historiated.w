@@ -1,0 +1,1 @@
+{"index": 141870, "D": "(especially of initial letters on an illuminated manuscript) decorated with animals, flowers, or other designs that have a narrative or symbolic purpose.", "S": [], "A": []}

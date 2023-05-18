@@ -1,0 +1,1 @@
+{"index": 299850, "D": "total number or capacity of spindles  in a mill, area, etc.", "S": [], "A": []}

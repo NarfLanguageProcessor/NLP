@@ -1,0 +1,1 @@
+{"index": 201886, "D": "in an unconcerned, indifferent, or unexcited manner; casually", "S": ["casually ", "indifferently "], "A": []}

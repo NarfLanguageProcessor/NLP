@@ -1,0 +1,1 @@
+{"index": 130955, "D": "a person who spends some time at another person's home in some social activity, as a visit, dinner, or party.", "S": ["caller ", "client ", "companion ", "customer ", "inmate ", "patron ", "recipient ", "tenant ", "vacationer ", "visitor "], "A": ["enemy ", "manager ", "opponent ", "owner "]}

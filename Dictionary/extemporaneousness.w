@@ -1,0 +1,1 @@
+{"index": 108193, "D": "done, spoken, performed, etc., without special advance preparation; impromptu", "S": [], "A": []}

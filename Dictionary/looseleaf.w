@@ -1,0 +1,1 @@
+{"index": 175118, "D": "(of a book, notebook, etc.) consisting of individual leaves held in a binder (loose-leaf binder ), as by rings that open and close, in such a way as to allow their removal, return, or replacement without tearing.", "S": [], "A": []}

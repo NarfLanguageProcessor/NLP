@@ -1,0 +1,1 @@
+{"index": 115040, "D": "reddish; ruddy; rosy", "S": ["adornment ", "coloring ", "embroidery ", "exaggeration ", "ornamentation "], "A": ["plainness "]}

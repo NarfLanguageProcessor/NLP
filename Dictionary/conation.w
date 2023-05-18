@@ -1,0 +1,1 @@
+{"index": 65037, "D": "the part of mental life having to do with striving, including desire and volition.", "S": ["picture ", "plan ", "project ", "recipe ", "scheme ", "setup ", "story "], "A": ["idleness ", "inactivity "]}

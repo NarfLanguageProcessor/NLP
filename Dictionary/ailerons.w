@@ -1,0 +1,1 @@
+{"index": 6770, "D": "a movable surface, usually near the trailing edge of a wing, that controls the roll of the airframe or effects maneuvers, as banks and the like.", "S": ["airfoil ", "appendage ", "feather ", "pennon ", "pinion "], "A": ["base ", "headquarters "]}

@@ -1,0 +1,1 @@
+{"index": 320033, "D": "a polygon having four angles or sides; a quadrangle or quadrilateral.", "S": [], "A": []}

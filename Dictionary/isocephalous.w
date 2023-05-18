@@ -1,0 +1,1 @@
+{"index": 158816, "D": "(of a composition) having the heads of all figures on approximately the same level.", "S": [], "A": []}

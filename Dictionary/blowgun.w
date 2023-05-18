@@ -1,0 +1,1 @@
+{"index": 36613, "D": "a pipe or tube through which darts or other missiles are blown  by the breath.", "S": ["ammunition ", "bomb ", "cannon ", "firearm ", "gun ", "knife ", "machete ", "machine gun ", "missile ", "nerve gas ", "pistol ", "revolver ", "rifle ", "shotgun ", "sword ", "tear gas "], "A": []}

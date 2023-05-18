@@ -1,0 +1,1 @@
+{"index": 261031, "D": "the act of ratifying;  confirmation; sanction.", "S": ["approval ", "authorization ", "confirmation ", "enactment ", "sanction "], "A": ["disapproval ", "opposition ", "refusal ", "veto "]}

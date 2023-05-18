@@ -1,0 +1,1 @@
+{"index": 185486, "D": "of, noting, or characteristic of a metropolis  or its inhabitants, especially in culture, sophistication, or in accepting and combining a wide variety of people, ideas, etc.", "S": ["cosmopolitan ", "urban ", "urbane "], "A": ["country ", "rural "]}

@@ -1,0 +1,1 @@
+{"index": 14799, "D": "antagonistic to growth.", "S": [], "A": []}

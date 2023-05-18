@@ -1,0 +1,1 @@
+{"index": 356197, "D": "the views or habit of mind of a utopian;  impracticable schemes of political or social reform.", "S": [], "A": []}

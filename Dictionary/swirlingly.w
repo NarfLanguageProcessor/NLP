@@ -1,0 +1,1 @@
+{"index": 314543, "D": "to move around or along with a whirling motion; whirl; eddy.", "S": [], "A": []}

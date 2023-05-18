@@ -1,0 +1,1 @@
+{"index": 151556, "D": "not equilateral;  having unequal sides.", "S": [], "A": []}

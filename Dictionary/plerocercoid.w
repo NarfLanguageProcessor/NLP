@@ -1,0 +1,1 @@
+{"index": 239868, "D": "the wormlike larval stage of some tapeworms, intermediate between the first parasitic larval stage and adult.", "S": [], "A": []}

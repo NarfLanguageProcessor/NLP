@@ -1,0 +1,1 @@
+{"index": 83463, "D": "to lay waste; render desolate", "S": [], "A": []}

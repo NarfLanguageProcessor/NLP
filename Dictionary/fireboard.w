@@ -1,0 +1,1 @@
+{"index": 113114, "D": "a board  used to close a fireplace.", "S": ["mantelpiece "], "A": []}

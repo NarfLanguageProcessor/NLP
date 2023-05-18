@@ -1,0 +1,1 @@
+{"index": 237100, "D": "U.S. detective, born in Scotland.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 126320, "D": "the sport of flying in a glider", "S": ["aerial ", "floating ", "soaring "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288162, "D": "the traditional seven-day period of mourning observed by Jews immediately following the funeral of a parent, sibling, child, or spouse.", "S": [], "A": []}

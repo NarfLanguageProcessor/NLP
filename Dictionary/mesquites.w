@@ -1,0 +1,1 @@
+{"index": 184456, "D": "any of several usually spiny trees or shrubs belonging to the genus Prosopis, of the legume family, as P. juliflora or P. glandulosa, of western North America, having bipinnate leaves and beanlike pods and often forming dense thickets.", "S": [], "A": []}

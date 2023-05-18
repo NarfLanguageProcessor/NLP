@@ -1,0 +1,1 @@
+{"index": 75363, "D": "a game played on ice in which two teams of four players each compete in sliding curling stones  toward a mark in the center of a circular target.", "S": ["corkscrew ", "curly ", "frizzy ", "permed ", "ringleted "], "A": ["straight ", "uncurled "]}

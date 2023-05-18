@@ -1,0 +1,1 @@
+{"index": 298914, "D": "the study of ghosts, phantoms, or apparitions.", "S": [], "A": []}

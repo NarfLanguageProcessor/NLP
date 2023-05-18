@@ -1,0 +1,1 @@
+{"index": 191756, "D": "the principles of monarchy.", "S": [], "A": []}

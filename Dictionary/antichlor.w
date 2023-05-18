@@ -1,0 +1,1 @@
+{"index": 14869, "D": "any of various substances, especially sodium thiosulfate, used for removing excess chlorine  from paper pulp, textile, fiber, etc., after bleaching.", "S": [], "A": []}

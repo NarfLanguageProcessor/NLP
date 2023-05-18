@@ -1,0 +1,1 @@
+{"index": 129718, "D": "a novice surfer or one with poor form.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 341958, "D": "not faithful; false to duty, obligation, or promises; disloyal", "S": ["apostasy ", "defection ", "dereliction ", "disloyalty ", "fickleness ", "inconstancy ", "perfidy ", "treachery ", "treason "], "A": ["devotion ", "faithfulness ", "fidelity ", "loyalty "]}

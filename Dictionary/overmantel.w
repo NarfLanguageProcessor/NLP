@@ -1,0 +1,1 @@
+{"index": 220187, "D": "situated above a mantelpiece.", "S": [], "A": []}

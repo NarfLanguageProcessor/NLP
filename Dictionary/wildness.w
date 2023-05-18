@@ -1,0 +1,1 @@
+{"index": 365723, "D": "living in a state of nature; not tamed or domesticated", "S": ["barbarity ", "bloodthirstiness ", "brutality ", "cruelty ", "ferociousness ", "murderousness ", "savagery ", "viciousness ", "violence "], "A": []}

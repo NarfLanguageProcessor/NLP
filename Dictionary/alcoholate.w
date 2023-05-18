@@ -1,0 +1,1 @@
+{"index": 7677, "D": "any of a class of compounds, analogous to hydrates, containing chemically combined alcohol,  as chloral alcoholate, C4Cl3H7O2.", "S": [], "A": []}

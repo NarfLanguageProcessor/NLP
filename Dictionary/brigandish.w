@@ -1,0 +1,1 @@
+{"index": 40751, "D": "a bandit, especially one of a band of robbers in mountain or forest regions.", "S": [], "A": []}

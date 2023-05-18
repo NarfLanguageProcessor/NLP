@@ -1,0 +1,1 @@
+{"index": 321147, "D": "a person who theorizes. ", "S": ["logician ", "sage ", "savant ", "sophist "], "A": []}

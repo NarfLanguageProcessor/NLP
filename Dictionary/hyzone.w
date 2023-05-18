@@ -1,0 +1,1 @@
+{"index": 142006, "D": "triatomic hydrogen,  H3.", "S": [], "A": []}

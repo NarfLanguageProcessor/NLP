@@ -1,0 +1,1 @@
+{"index": 157244, "D": "the fact or quality of being safe or protected from attack, infringement, destruction, or interference", "S": [], "A": []}

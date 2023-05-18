@@ -1,0 +1,1 @@
+{"index": 364943, "D": "a saw  for two persons, as a pitsaw, used to divide timbers lengthwise.", "S": [], "A": []}

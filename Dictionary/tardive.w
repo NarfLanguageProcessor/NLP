@@ -1,0 +1,1 @@
+{"index": 316548, "D": "appearing or tending to appear late, as in human development or in the treatment of a disease.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 218013, "D": "a member of a mixed Khoikhoi and Negroid people of southern Africa, living chiefly in N Namibia", "S": [], "A": []}

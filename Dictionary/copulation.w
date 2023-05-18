@@ -1,0 +1,1 @@
+{"index": 68727, "D": "sexual intercourse.", "S": ["intercourse ", "procreation ", "sexual intercourse "], "A": []}

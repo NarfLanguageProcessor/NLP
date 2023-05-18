@@ -1,0 +1,1 @@
+{"index": 131121, "D": "a former money of account of the United Kingdom,  equal to 21 shillings", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 57675, "D": "the art or technique of video photography, traditionally used in movies, but also in the production of TV shows and other video content", "S": [], "A": []}

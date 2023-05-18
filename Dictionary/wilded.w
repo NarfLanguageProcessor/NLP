@@ -1,0 +1,1 @@
+{"index": 365693, "D": "living in a state of nature; not tamed or domesticated", "S": [], "A": []}

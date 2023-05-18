@@ -1,0 +1,1 @@
+{"index": 246530, "D": "the act or process of converting; state of being converted.", "S": [], "A": []}

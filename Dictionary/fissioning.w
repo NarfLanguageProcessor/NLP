@@ -1,0 +1,1 @@
+{"index": 113434, "D": "the act of cleaving or splitting into parts.", "S": [], "A": []}

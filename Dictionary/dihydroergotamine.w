@@ -1,0 +1,1 @@
+{"index": 85583, "D": "an ergot alkaloid, C33H37N5O5, used in the treatment of various types of migraine headache.", "S": [], "A": []}

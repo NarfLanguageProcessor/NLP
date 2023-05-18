@@ -1,0 +1,1 @@
+{"index": 152409, "D": "to introduce, as if by pouring; cause to penetrate; instill (usually followed by into)", "S": ["infusion ball ", "steeper ", "tea egg ", "tea filter ", "tea infuser ", "tea maker "], "A": []}

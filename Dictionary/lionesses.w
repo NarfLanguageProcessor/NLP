@@ -1,0 +1,1 @@
+{"index": 173060, "D": "a female lion.", "S": ["cat ", "cougar ", "wildcat "], "A": []}

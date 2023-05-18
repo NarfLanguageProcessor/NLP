@@ -1,0 +1,1 @@
+{"index": 129827, "D": "a fabled monster, usually having the head and wings of an eagle and the body of a lion.", "S": ["cat ", "cougar ", "wildcat "], "A": []}

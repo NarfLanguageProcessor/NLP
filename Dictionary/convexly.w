@@ -1,0 +1,1 @@
+{"index": 68081, "D": "Compare concave (def. 1). ", "S": [], "A": []}

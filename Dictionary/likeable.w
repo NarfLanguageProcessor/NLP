@@ -1,0 +1,1 @@
+{"index": 172174, "D": "readily or easily liked;  pleasing", "S": ["amiable ", "appealing ", "attractive ", "charismatic ", "charming ", "engaging ", "enjoyable ", "genial ", "good-natured ", "sweet ", "sympathetic ", "winsome "], "A": ["cold ", "cool ", "disagreeable ", "irritable ", "mean ", "repellent ", "repulsive ", "ugly ", "unfriendly ", "unhappy ", "unpleasant "]}

@@ -1,0 +1,1 @@
+{"index": 100799, "D": "to convert into an enol  or enolate.", "S": [], "A": []}

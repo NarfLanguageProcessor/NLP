@@ -1,0 +1,1 @@
+{"index": 353509, "D": "to bring or come out of a twisted  condition.", "S": ["acquire ", "evolve ", "form ", "produce ", "realize "], "A": ["destroy ", "fail ", "lose ", "neglect ", "ruin ", "complicate ", "conceal ", "confuse ", "cover ", "hide ", "mystify ", "obscure ", "tangle ", "twist ", "wind "]}

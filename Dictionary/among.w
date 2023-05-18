@@ -1,0 +1,1 @@
+{"index": 10899, "D": "in, into, or through the midst of; in association or connection with; surrounded by", "S": ["amid ", "amidst ", "betwixt ", "encompassed by ", "in dispersion through ", "in the midst of ", "in the thick of ", "mid ", "surrounded by ", "with "], "A": ["away from ", "outside ", "separate "]}

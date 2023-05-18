@@ -1,0 +1,1 @@
+{"index": 112125, "D": "composed of fibrous and conductive tissue, as in the vascular  systems of higher plants", "S": [], "A": []}

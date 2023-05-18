@@ -1,0 +1,1 @@
+{"index": 38432, "D": "a member of a noble Italian family, originally from Siena, that was important in Italian politics and society from the 16th to the early 19th century.", "S": [], "A": []}

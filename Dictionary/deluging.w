@@ -1,0 +1,1 @@
+{"index": 80293, "D": "a great flood of water; inundation; flood. ", "S": ["avalanche ", "barrage ", "cataclysm ", "inundation ", "spate ", "torrent "], "A": []}

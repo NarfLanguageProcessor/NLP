@@ -1,0 +1,1 @@
+{"index": 327141, "D": "a fine-grained volcanic rock consisting essentially of alkali feldspar and one or more subordinate minerals, as hornblende or mica", "S": [], "A": []}

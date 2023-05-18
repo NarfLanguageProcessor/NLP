@@ -1,0 +1,1 @@
+{"index": 209437, "D": "trivial; unimportant or insignificant; nugatory.", "S": [], "A": []}

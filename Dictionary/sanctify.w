@@ -1,0 +1,1 @@
+{"index": 277651, "D": "to make holy; set apart as sacred; consecrate.", "S": ["consecrate ", "hallow "], "A": ["condemn ", "degrade ", "desecrate ", "dirty ", "dishonor ", "disrespect ", "lower "]}

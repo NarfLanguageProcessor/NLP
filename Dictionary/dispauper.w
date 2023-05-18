@@ -1,0 +1,1 @@
+{"index": 88902, "D": "to divest of the status of a person having the privileges of a pauper,  as of public support or of legal rights as a pauper. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 66490, "D": "belonging to a person or thing by nature or from birth or origin; inborn.", "S": [], "A": []}

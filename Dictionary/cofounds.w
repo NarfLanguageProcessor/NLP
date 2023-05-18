@@ -1,0 +1,1 @@
+{"index": 62194, "D": "to establish (an organization) with another or others.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 36890, "D": "to redden, as from embarrassment or shame", "S": ["bloom ", "blossom ", "burning ", "color ", "flush ", "flushing ", "glow ", "glowing ", "mantling ", "reddening ", "redness ", "rosiness ", "ruddiness ", "scarlet "], "A": ["paleness ", "pallidity ", "whiteness "]}

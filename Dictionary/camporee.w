@@ -1,0 +1,1 @@
+{"index": 45927, "D": "a small camp gathering of boy scouts or girl scouts, usually from a region or district (distinguished from jamboree).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 232877, "D": "a metal disk or boss worn on a man's breast as an ornament or as a military decoration or used to adorn the harness of a horse.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 282588, "D": "suitable to or characteristic of the season", "S": ["adequacy ", "compatibility ", "competence ", "consistency ", "eligibility ", "preparedness ", "qualification ", "readiness ", "suitability "], "A": ["inability ", "inadequacy ", "bad manners ", "disagreement ", "discord ", "immorality ", "impropriety ", "indecency "]}

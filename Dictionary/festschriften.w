@@ -1,0 +1,1 @@
+{"index": 111713, "D": "a volume of articles, essays, etc., contributed by many authors in honor of a colleague, usually published on the occasion of retirement, an important anniversary, or the like.", "S": [], "A": []}

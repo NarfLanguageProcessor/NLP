@@ -1,0 +1,1 @@
+{"index": 43352, "D": "any of various small tackles for use on shipboard.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 68406, "D": "a hard, lustrous resin obtained from various tropical trees and used chiefly in making varnishes.", "S": [], "A": []}

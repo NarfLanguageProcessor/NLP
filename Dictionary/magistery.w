@@ -1,0 +1,1 @@
+{"index": 177430, "D": "an agency or substance, as in alchemy, to which faculties of healing, transformation, etc., are ascribed.", "S": [], "A": []}

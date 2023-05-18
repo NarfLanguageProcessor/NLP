@@ -1,0 +1,1 @@
+{"index": 280122, "D": "a movement or passage of light or playful character, especially as the second or third movement of a sonata or a symphony.", "S": [], "A": []}

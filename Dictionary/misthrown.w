@@ -1,0 +1,1 @@
+{"index": 190254, "D": "to propel or cast in any way, especially to project or propel from the hand by a sudden forward motion or straightening of the arm and wrist", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 39186, "D": "U.S. soldier and pioneer.", "S": [], "A": []}

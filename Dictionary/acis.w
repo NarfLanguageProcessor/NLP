@@ -1,0 +1,1 @@
+{"index": 2543, "D": "the lover of Galatea, killed by Polyphemus out of jealousy.", "S": [], "A": []}

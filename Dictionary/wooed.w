@@ -1,0 +1,1 @@
+{"index": 367277, "D": "to seek the favor, affection, or love of, especially with a view to marriage.", "S": ["cultivate ", "pursue ", "solicit "], "A": ["ignore ", "answer ", "disregard ", "repulse "]}

@@ -1,0 +1,1 @@
+{"index": 107536, "D": "a soluble toxin  excreted by a microorganism.", "S": [], "A": []}

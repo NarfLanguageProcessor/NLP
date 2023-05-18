@@ -1,0 +1,1 @@
+{"index": 199968, "D": "any of various plants of the genus Solanum, especially the black nightshade or the bittersweet.", "S": [], "A": []}

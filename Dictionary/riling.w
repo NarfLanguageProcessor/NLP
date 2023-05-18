@@ -1,0 +1,1 @@
+{"index": 272923, "D": "to irritate or vex.", "S": ["annoy ", "bother ", "disturb ", "exasperate ", "gall ", "inflame ", "irk ", "irritate ", "peeve ", "provoke ", "roil ", "vex "], "A": ["aid ", "appease ", "assist ", "calm ", "comfort ", "delight ", "help ", "make happy ", "pacify ", "placate ", "please ", "soothe ", "mollify "]}

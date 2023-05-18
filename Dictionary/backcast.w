@@ -1,0 +1,1 @@
+{"index": 25749, "D": "a short backward and often upward swing of a fishing rod, its line, and its lure in preparation for the cast that immediately follows.", "S": [], "A": []}

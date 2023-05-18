@@ -1,0 +1,1 @@
+{"index": 182568, "D": "a unit of resistance, equal to one million ohms. Symbol", "S": [], "A": []}

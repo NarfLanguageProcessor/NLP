@@ -1,0 +1,1 @@
+{"index": 66453, "D": "to affect or influence by or as if by invocation or spell.", "S": ["crave "], "A": ["answer ", "command ", "give "]}

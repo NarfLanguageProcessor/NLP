@@ -1,0 +1,1 @@
+{"index": 28909, "D": "to catch birds at night by dazzling them with a light and then capturing them in a net.", "S": [], "A": []}

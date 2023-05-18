@@ -1,0 +1,1 @@
+{"index": 15254, "D": "See also ferrimagnetism", "S": [], "A": []}

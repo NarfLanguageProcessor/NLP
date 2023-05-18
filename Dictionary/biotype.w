@@ -1,0 +1,1 @@
+{"index": 34584, "D": "a group of organisms having the same genotype.", "S": [], "A": []}

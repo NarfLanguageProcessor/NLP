@@ -1,0 +1,1 @@
+{"index": 46153, "D": "glowing; incandescent.", "S": ["ignition "], "A": ["calm ", "order ", "peace "]}

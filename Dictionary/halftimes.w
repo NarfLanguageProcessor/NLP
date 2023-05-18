@@ -1,0 +1,1 @@
+{"index": 132621, "D": "the period indicating completion of half  the time  allowed for an activity, as for a football or basketball game or an examination.", "S": [], "A": []}

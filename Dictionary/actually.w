@@ -1,0 +1,1 @@
+{"index": 3299, "D": "as an actual  or existing fact; really.", "S": ["absolutely ", "for real ", "genuinely ", "in fact ", "indeed ", "literally ", "really ", "truly ", "verily "], "A": []}

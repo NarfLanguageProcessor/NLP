@@ -1,0 +1,1 @@
+{"index": 265859, "D": "a warrant, pledge, or formal assurance given as security that another's debt or obligation will be fulfilled.", "S": [], "A": []}

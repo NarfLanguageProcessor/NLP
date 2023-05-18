@@ -1,0 +1,1 @@
+{"index": 72200, "D": "a network of fine cracks or crackles on the surface of a painting, caused chiefly by shrinkage of paint film or varnish.", "S": [], "A": []}

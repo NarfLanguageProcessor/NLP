@@ -1,0 +1,1 @@
+{"index": 209950, "D": "a river in the W Russian Federation in Asia, flowing NW to the Gulf of Ob. 2,500 miles (4,025 km) long.", "S": [], "A": []}

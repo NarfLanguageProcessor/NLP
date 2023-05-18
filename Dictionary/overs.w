@@ -1,0 +1,1 @@
+{"index": 220933, "D": "above in place or position", "S": ["advantage ", "edge ", "margin ", "point ", "start ", "supremacy ", "top "], "A": ["center ", "disadvantage ", "interior ", "rear "]}

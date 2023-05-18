@@ -1,0 +1,1 @@
+{"index": 163281, "D": "(in the Netherlands and in Dutch colonies) a large cabinet of the 17th and 18th centuries, having two doors and often a number of drawers at the bottom, and usually having an elaborately painted or carved decoration with a heavy cornice.", "S": [], "A": []}

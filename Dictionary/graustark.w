@@ -1,0 +1,1 @@
+{"index": 129291, "D": "a novel (1901) by George Barr McCutcheon about the romantic and melodramatic adventures of military and courtly figures in the fictional kingdom of Graustark.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 314019, "D": "the tail  of a swallow  or a deeply forked tail like that of a swallow.", "S": [], "A": []}

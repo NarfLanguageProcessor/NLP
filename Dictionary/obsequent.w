@@ -1,0 +1,1 @@
+{"index": 210364, "D": "(of a river) flowing into a subsequent stream in the opposite direction to the original slope of the land", "S": [], "A": []}

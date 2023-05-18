@@ -1,0 +1,1 @@
+{"index": 81640, "D": "capable of removing hair.", "S": [], "A": []}

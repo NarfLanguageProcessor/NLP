@@ -1,0 +1,1 @@
+{"index": 324896, "D": "any of various stones  or stonelike objects, formerly supposed to have been formed in the head or body of a toad,  worn as jewels or amulets.", "S": [], "A": []}

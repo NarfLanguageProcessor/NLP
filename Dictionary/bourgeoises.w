@@ -1,0 +1,1 @@
+{"index": 39024, "D": "a female member of the bourgeoisie. ", "S": ["materialistic "], "A": ["adventurous ", "imaginative ", "inspired ", "nonconforming ", "original ", "untraditional "]}

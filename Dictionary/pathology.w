@@ -1,0 +1,1 @@
+{"index": 227748, "D": "the science or the study of the origin, nature, and course of diseases.", "S": ["anatomy ", "cytology ", "ecology ", "genetics ", "horticulture ", "morphology ", "physiology ", "phytology ", "pomology ", "taxonomy "], "A": []}

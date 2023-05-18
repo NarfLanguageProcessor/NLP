@@ -1,0 +1,1 @@
+{"index": 115951, "D": "friendly or neighborly; sociable.", "S": ["camaraderie ", "closeness ", "companionship ", "comradeship ", "familiarity ", "fellowship ", "nearness ", "neighborliness ", "sociableness "], "A": ["distance "]}

@@ -1,0 +1,1 @@
+{"index": 238270, "D": "of or relating to Pythagoras,  to his school, or to his doctrines.", "S": [], "A": []}

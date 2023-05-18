@@ -1,0 +1,1 @@
+{"index": 44123, "D": "a chief of an Indian clan or tribe in Mexico and the West Indies.", "S": [], "A": []}

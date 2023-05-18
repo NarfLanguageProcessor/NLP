@@ -1,0 +1,1 @@
+{"index": 264500, "D": "the state of being redundant.", "S": ["repetition "], "A": ["lack ", "need ", "want "]}

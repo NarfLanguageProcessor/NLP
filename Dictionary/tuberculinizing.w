@@ -1,0 +1,1 @@
+{"index": 331930, "D": "to inoculate with tuberculin. ", "S": [], "A": []}

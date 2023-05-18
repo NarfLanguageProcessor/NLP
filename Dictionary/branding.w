@@ -1,0 +1,1 @@
+{"index": 39916, "D": "the kind, grade, or make of a product or service, as indicated by a stamp, trademark, or the like", "S": ["lettering "], "A": []}

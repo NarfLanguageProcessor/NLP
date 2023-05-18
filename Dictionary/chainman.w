@@ -1,0 +1,1 @@
+{"index": 51988, "D": "a person who holds and positions a chain  in taking measurements.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 79795, "D": "godlike or divine in form or nature.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 70907, "D": "a sign or device stamped on a coin after its minting.", "S": [], "A": []}

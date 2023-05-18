@@ -1,0 +1,1 @@
+{"index": 71660, "D": "the highly polished, usually brightly colored shell of a marine gastropod  of the genus Cypraea, as that of C. moneta(money cowrie ), used as money in certain parts of Asia and Africa, or that of C. tigris, used for ornament.", "S": [], "A": []}

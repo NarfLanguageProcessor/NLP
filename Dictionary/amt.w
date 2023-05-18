@@ -1,0 +1,1 @@
+{"index": 11394, "D": "an administrative division in Denmark.", "S": [], "A": []}

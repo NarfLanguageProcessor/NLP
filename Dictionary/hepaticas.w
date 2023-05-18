@@ -1,0 +1,1 @@
+{"index": 136652, "D": "any plant belonging to the genus Hepatica, of the buttercup family, having heart-shaped leaves and delicate purplish, pink, or white flowers.", "S": [], "A": []}

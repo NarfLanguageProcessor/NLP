@@ -1,0 +1,1 @@
+{"index": 230257, "D": "crystals, occurring in the gastric glands, that during digestion are converted into pepsin. ", "S": [], "A": []}

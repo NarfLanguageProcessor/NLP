@@ -1,0 +1,1 @@
+{"index": 249996, "D": "something serving to represent or indicate some fact, event, feeling, etc.; sign", "S": [], "A": []}

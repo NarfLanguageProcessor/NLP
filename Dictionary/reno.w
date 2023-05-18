@@ -1,0 +1,1 @@
+{"index": 267686, "D": "a renovation, as of a building or room.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 69405, "D": "a right to receive maintenance in the form of housing, food, or clothing, especially the right enjoyed by the sovereign or a private benefactor to receive such maintenance from a religious house.", "S": [], "A": []}

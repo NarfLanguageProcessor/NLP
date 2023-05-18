@@ -1,0 +1,1 @@
+{"index": 15892, "D": "allaying or preventing the growth of new tissue.", "S": [], "A": []}

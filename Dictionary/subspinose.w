@@ -1,0 +1,1 @@
+{"index": 309257, "D": "full of spines; spiniferous; spinous.", "S": [], "A": []}

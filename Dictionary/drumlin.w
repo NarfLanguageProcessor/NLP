@@ -1,0 +1,1 @@
+{"index": 93555, "D": "a long, narrow or oval, smoothly rounded hill of unstratified glacial drift.", "S": [], "A": []}

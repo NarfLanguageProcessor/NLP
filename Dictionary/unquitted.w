@@ -1,0 +1,1 @@
+{"index": 348971, "D": "to stop, cease, or discontinue", "S": [], "A": []}

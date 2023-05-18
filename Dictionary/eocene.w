@@ -1,0 +1,1 @@
+{"index": 101927, "D": "noting or pertaining to an epoch of the Tertiary Period, occurring from 55 to 40 million years ago and characterized by the advent of the modern mammalian orders.", "S": [], "A": []}

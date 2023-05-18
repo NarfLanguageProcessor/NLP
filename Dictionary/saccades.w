@@ -1,0 +1,1 @@
+{"index": 276147, "D": "the act of checking a horse quickly with a single strong pull of the reins.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 20177, "D": "to place in proper, desired, or convenient order; adjust properly", "S": ["construction ", "manufacturing "], "A": []}

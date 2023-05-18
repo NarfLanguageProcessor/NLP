@@ -1,0 +1,1 @@
+{"index": 324183, "D": "the act of typing or printing a text.", "S": [], "A": []}

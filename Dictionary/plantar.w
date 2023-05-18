@@ -1,0 +1,1 @@
+{"index": 239084, "D": "of or relating to the sole of the foot.", "S": [], "A": []}

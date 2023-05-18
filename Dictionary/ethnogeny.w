@@ -1,0 +1,1 @@
+{"index": 105082, "D": "the branch of ethnology that deals with the origin of races or peoples", "S": [], "A": []}

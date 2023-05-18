@@ -1,0 +1,1 @@
+{"index": 73276, "D": "any of various protozoalike algae of the phylum Cryptophyta usually having two flagella, common in both marine and freshwater environments where they appear along the shore as algal blooms, some also occurring as intestinal parasites.", "S": [], "A": []}

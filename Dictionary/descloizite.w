@@ -1,0 +1,1 @@
+{"index": 82426, "D": "a mineral, lead zinc vanadate.", "S": [], "A": []}

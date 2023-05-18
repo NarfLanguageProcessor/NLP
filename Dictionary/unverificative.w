@@ -1,0 +1,1 @@
+{"index": 353761, "D": "the act of verifying. ", "S": [], "A": []}

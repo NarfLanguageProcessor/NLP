@@ -1,0 +1,1 @@
+{"index": 366288, "D": "the season of winter.", "S": ["chill ", "snow "], "A": ["heat ", "warmth "]}

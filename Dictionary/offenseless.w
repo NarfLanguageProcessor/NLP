@@ -1,0 +1,1 @@
+{"index": 211570, "D": "without offense. ", "S": ["childlike ", "gullible ", "ignorant ", "innocuous ", "wide-eyed "], "A": ["knowledgeable ", "untrusting ", "wise ", "dishonest ", "sophisticated ", "unclear "]}

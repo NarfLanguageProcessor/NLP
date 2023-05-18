@@ -1,0 +1,1 @@
+{"index": 77409, "D": "to sell (a work of art) from a museum's or gallery's collections, especially with a view to acquiring funds for the purchase of other works.", "S": [], "A": []}

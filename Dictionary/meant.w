@@ -1,0 +1,1 @@
+{"index": 181774, "D": "simple past tense and past participle of mean1. ", "S": ["coming ", "designed ", "doomed ", "intended "], "A": ["distant ", "remote ", "unsettled "]}

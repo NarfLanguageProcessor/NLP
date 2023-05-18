@@ -1,0 +1,1 @@
+{"index": 291751, "D": "to make singular. ", "S": ["acknowledge ", "admire ", "celebrate ", "characterize ", "differentiate ", "dignify ", "discriminate ", "honor ", "immortalize ", "individualize ", "mark ", "praise ", "signalize "], "A": ["condemn ", "confuse ", "denounce ", "disgrace ", "disregard ", "ignore ", "mix up ", "reproach ", "shame "]}

@@ -1,0 +1,1 @@
+{"index": 149545, "D": "lack of attention;  negligence.", "S": ["carelessness ", "negligence "], "A": ["regard ", "respect "]}

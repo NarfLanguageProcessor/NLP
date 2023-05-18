@@ -1,0 +1,1 @@
+{"index": 234701, "D": "the study and treatment of voice disorders.", "S": [], "A": []}

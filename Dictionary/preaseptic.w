@@ -1,0 +1,1 @@
+{"index": 245766, "D": "pertaining to the period before the use of aseptic  practices in surgery.", "S": [], "A": []}

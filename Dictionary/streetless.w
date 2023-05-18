@@ -1,0 +1,1 @@
+{"index": 306022, "D": "a public thoroughfare, usually paved, in a village, town, or city, including the sidewalk or sidewalks.", "S": [], "A": []}

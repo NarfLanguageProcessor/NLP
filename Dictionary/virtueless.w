@@ -1,0 +1,1 @@
+{"index": 360247, "D": "moral excellence; goodness; righteousness.", "S": [], "A": []}

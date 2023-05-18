@@ -1,0 +1,1 @@
+{"index": 59980, "D": "the science that deals with the phenomena of climates  or climatic conditions.", "S": ["storm chaser ", "weather-forecaster ", "weathercaster ", "weatherman/woman "], "A": []}

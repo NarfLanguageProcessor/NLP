@@ -1,0 +1,1 @@
+{"index": 83381, "D": "a positively charged particle consisting of a proton and a neutron, equivalent to the nucleus of an atom of deuterium.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 76408, "D": "the time  between sunrise and sunset.", "S": ["daylight ", "light ", "sunlight ", "sunshine "], "A": ["darkness ", "night "]}

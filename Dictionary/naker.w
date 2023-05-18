@@ -1,0 +1,1 @@
+{"index": 196652, "D": "one of a pair of small kettledrums used in medieval music", "S": [], "A": []}

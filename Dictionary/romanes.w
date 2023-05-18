@@ -1,0 +1,1 @@
+{"index": 274032, "D": "Romany; the language of the Gypsies", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309320, "D": "to use (an adjective, verb, etc.) as a substantive;  convert into a substantive", "S": [], "A": []}

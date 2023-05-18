@@ -1,0 +1,1 @@
+{"index": 124199, "D": "a specialist in the study of German culture, literature, or linguistics.", "S": [], "A": []}

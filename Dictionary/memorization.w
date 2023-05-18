@@ -1,0 +1,1 @@
+{"index": 183210, "D": "to commit to memory;  learn by heart", "S": ["consciousness ", "mind ", "recollection ", "remembrance ", "thought "], "A": ["forgetfulness ", "ignorance "]}

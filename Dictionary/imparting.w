@@ -1,0 +1,1 @@
+{"index": 148315, "D": "to make known; tell; relate; disclose", "S": ["offering "], "A": ["appropriating ", "getting ", "taking "]}

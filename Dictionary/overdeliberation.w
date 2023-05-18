@@ -1,0 +1,1 @@
+{"index": 218900, "D": "careful consideration before decision.", "S": [], "A": []}

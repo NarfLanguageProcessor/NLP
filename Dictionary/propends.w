@@ -1,0 +1,1 @@
+{"index": 252576, "D": "to incline or tend.", "S": [], "A": []}

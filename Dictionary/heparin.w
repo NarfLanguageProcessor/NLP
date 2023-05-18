@@ -1,0 +1,1 @@
+{"index": 136632, "D": "a polysaccharide, occurring in various tissues, especially the liver, and having anticoagulent properties.", "S": [], "A": []}

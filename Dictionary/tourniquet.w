@@ -1,0 +1,1 @@
+{"index": 326679, "D": "any device for arresting bleeding by forcibly compressing a blood vessel, as a bandage tightened by twisting.", "S": [], "A": []}

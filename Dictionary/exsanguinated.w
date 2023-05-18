@@ -1,0 +1,1 @@
+{"index": 108104, "D": "to drain of blood; make bloodless.", "S": [], "A": []}

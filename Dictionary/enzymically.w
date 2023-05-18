@@ -1,0 +1,1 @@
+{"index": 101907, "D": "of or relating to an enzyme. ", "S": [], "A": []}

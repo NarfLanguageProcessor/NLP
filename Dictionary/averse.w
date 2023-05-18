@@ -1,0 +1,1 @@
+{"index": 24701, "D": "having a strong feeling of opposition, antipathy, repugnance, etc.; opposed (often used in combination)", "S": ["allergic ", "antagonistic ", "hesitant ", "hostile ", "loath ", "reluctant ", "unwilling "], "A": ["agreeable ", "friendly ", "kind ", "ready ", "willing "]}

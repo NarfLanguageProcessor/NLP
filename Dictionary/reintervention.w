@@ -1,0 +1,1 @@
+{"index": 266457, "D": "the act or fact of intervening. ", "S": [], "A": []}

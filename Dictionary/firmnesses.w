@@ -1,0 +1,1 @@
+{"index": 113275, "D": "not soft or yielding when pressed; comparatively solid, hard, stiff, or rigid", "S": ["durability ", "hardness ", "inflexibility ", "toughness "], "A": ["flexibility ", "indefiniteness ", "infirmity ", "instability ", "movability ", "softness ", "uncertainty ", "weakness "]}

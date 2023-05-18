@@ -1,0 +1,1 @@
+{"index": 241794, "D": "(of a rock or metal) composed of aggregates of individual crystals.", "S": [], "A": []}

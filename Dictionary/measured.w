@@ -1,0 +1,1 @@
+{"index": 181800, "D": "ascertained or apportioned by measure", "S": ["consistent ", "deliberate ", "systematic "], "A": ["unmethodical ", "unsystematic "]}

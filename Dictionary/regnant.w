@@ -1,0 +1,1 @@
+{"index": 265740, "D": "reigning; ruling (usually used following the noun it modifies)", "S": ["predominant ", "prevalent ", "reigning ", "ruling ", "sovereign ", "widespread "], "A": []}

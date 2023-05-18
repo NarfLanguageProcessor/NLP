@@ -1,0 +1,1 @@
+{"index": 334593, "D": "to be close to or in contact with; abut on", "S": [], "A": []}

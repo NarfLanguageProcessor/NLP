@@ -1,0 +1,1 @@
+{"index": 336154, "D": "possessing or exhibiting courage or courageous endurance.", "S": [], "A": []}

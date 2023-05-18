@@ -1,0 +1,1 @@
+{"index": 12653, "D": "any of the eight practices of Yoga, including the abstentions, mandatory actions, posture, breath control, control of the senses, concentration, meditation, and contemplation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 350290, "D": "compensation given to those who voluntarily save a ship or its cargo.", "S": [], "A": []}

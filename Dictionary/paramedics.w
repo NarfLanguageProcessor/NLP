@@ -1,0 +1,1 @@
+{"index": 225803, "D": "a person who is trained to assist a physician or to give first aid or other healthcare in the absence of a physician, often as part of a police, rescue, or firefighting squad.", "S": ["nurse "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201902, "D": "having been described or distinguished", "S": [], "A": []}

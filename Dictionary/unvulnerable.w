@@ -1,0 +1,1 @@
+{"index": 353973, "D": "capable of or susceptible to being attacked, damaged, or hurt", "S": [], "A": []}

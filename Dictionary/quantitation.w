@@ -1,0 +1,1 @@
+{"index": 257938, "D": "to determine the quantity  of, especially with precision.", "S": [], "A": []}

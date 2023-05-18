@@ -1,0 +1,1 @@
+{"index": 233636, "D": "of or relating to the ancient Macedonian city of Philippi", "S": [], "A": []}

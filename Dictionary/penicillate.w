@@ -1,0 +1,1 @@
+{"index": 229646, "D": "having a penicil or penicils.", "S": [], "A": []}

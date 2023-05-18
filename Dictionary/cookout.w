@@ -1,0 +1,1 @@
+{"index": 68245, "D": "a party or entertainment featuring the cooking and eating of a meal out of doors.", "S": ["picnic "], "A": []}

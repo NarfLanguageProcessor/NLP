@@ -1,0 +1,1 @@
+{"index": 351624, "D": "a particular kind, species, variety, class, or group, distinguished by a common character or nature", "S": ["amateurish ", "coarse ", "harsh ", "homemade ", "makeshift ", "primitive ", "raw ", "rude ", "rudimentary ", "simple ", "unprocessed "], "A": ["refined ", "smooth ", "sophisticated ", "polished "]}

@@ -1,0 +1,1 @@
+{"index": 134730, "D": "determined to have one's own way; willful; stubborn; obstinate", "S": ["impulsive "], "A": ["calm ", "docile ", "moderate ", "obedient ", "submissive ", "tolerant "]}

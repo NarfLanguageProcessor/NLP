@@ -1,0 +1,1 @@
+{"index": 52675, "D": "a brand of medicated, often flavored petrolatum in a small tube, used as a salve for or protection against chapped lips.", "S": [], "A": []}

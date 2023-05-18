@@ -1,0 +1,1 @@
+{"index": 83158, "D": "the quality of being determinate. ", "S": [], "A": []}

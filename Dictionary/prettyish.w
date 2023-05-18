@@ -1,0 +1,1 @@
+{"index": 250063, "D": "pleasing or attractive to the eye, as by delicacy or gracefulness", "S": [], "A": []}

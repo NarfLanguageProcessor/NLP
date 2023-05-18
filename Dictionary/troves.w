@@ -1,0 +1,1 @@
+{"index": 331405, "D": "a collection of objects.", "S": ["accretion ", "aggregation ", "buildup ", "growth ", "inflation ", "pile ", "quantity "], "A": ["decrease ", "shrinkage ", "lessening ", "loss ", "reduction ", "subtraction "]}

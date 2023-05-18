@@ -1,0 +1,1 @@
+{"index": 296809, "D": "any of various games played by one person with one or more regular 52-card packs, part or all of which are usually dealt out according to a given pattern, the object being to arrange the cards in a predetermined manner.", "S": ["gem ", "jewel ", "rhinestone "], "A": []}

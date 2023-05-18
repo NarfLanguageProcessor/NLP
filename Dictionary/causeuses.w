@@ -1,0 +1,1 @@
+{"index": 50059, "D": "an upholstered settee for two persons.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 23627, "D": "a large, black European wild ox, Bos primigenius", "S": [], "A": []}

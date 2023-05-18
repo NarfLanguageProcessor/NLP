@@ -1,0 +1,1 @@
+{"index": 226316, "D": "a person who pardons. ", "S": [], "A": []}

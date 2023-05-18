@@ -1,0 +1,1 @@
+{"index": 320728, "D": "of or relating to the theater  or dramatic presentations", "S": ["campy ", "comic ", "exaggerated ", "melodramatic ", "operatic ", "showy "], "A": ["comedic ", "real "]}

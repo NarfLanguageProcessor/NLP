@@ -1,0 +1,1 @@
+{"index": 41231, "D": "any of the swollen hyphal tips of certain fungi, on which ants can feed.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321384, "D": "a thermoelectric current. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 240629, "D": "of, relating to, or resembling plush. ", "S": [], "A": []}

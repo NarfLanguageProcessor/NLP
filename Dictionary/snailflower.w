@@ -1,0 +1,1 @@
+{"index": 295224, "D": "a tropical vine, Vigna caracalla, of the legume family, having fragrant, yellowish or purplish flowers,  a segment of which is shaped like a snail's  shell.", "S": [], "A": []}

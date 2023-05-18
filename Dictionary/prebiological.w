@@ -1,0 +1,1 @@
+{"index": 245862, "D": "of or relating to chemicals or environmental conditions existing before the development of the first living things.", "S": [], "A": []}

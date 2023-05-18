@@ -1,0 +1,1 @@
+{"index": 211175, "D": "moving or tending to move the eyeball", "S": [], "A": []}

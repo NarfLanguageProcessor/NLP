@@ -1,0 +1,1 @@
+{"index": 93916, "D": "driving under the influence (of alcohol or drugs)", "S": ["DWI ", "driving under the influence ", "driving while intoxicated "], "A": []}

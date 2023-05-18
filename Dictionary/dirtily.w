@@ -1,0 +1,1 @@
+{"index": 86858, "D": "soiled with dirt; foul; unclean", "S": [], "A": []}

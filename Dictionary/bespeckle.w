@@ -1,0 +1,1 @@
+{"index": 32485, "D": "to speckle.", "S": ["besprinkle ", "blotch ", "dot ", "fleck ", "mottle ", "speck ", "spot ", "sprinkle ", "stipple "], "A": []}

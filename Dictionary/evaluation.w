@@ -1,0 +1,1 @@
+{"index": 105961, "D": "an act or instance of evaluating  or appraising.", "S": ["appraisal ", "assessment ", "calculation ", "decision ", "interpretation ", "opinion "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 145393, "D": "a small or humble dwelling of simple construction, especially one made of natural materials, as of logs or grass.", "S": ["box ", "bungalow ", "cabin ", "chalet ", "cot ", "cottage ", "hovel ", "lean-to ", "lodge ", "shack ", "shanty ", "shed ", "shelter ", "summer house "], "A": []}

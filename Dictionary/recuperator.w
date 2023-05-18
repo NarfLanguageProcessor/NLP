@@ -1,0 +1,1 @@
+{"index": 263777, "D": "a person or thing that recuperates.", "S": [], "A": []}

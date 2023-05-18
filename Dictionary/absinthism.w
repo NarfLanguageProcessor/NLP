@@ -1,0 +1,1 @@
+{"index": 969, "D": "a diseased condition resulting from excessive drinking of absinthe", "S": [], "A": []}

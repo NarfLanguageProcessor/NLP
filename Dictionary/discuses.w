@@ -1,0 +1,1 @@
+{"index": 87787, "D": "a circular disk more than 7 inches (18 centimeters) in diameter and 2.2 pounds (1 kilogram) in weight, usually wooden with a metal rim and thicker in the center than at the edge, for throwing for distance in athletic competition.", "S": ["disc ", "plate ", "platter "], "A": []}

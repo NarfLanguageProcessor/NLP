@@ -1,0 +1,1 @@
+{"index": 118441, "D": "to disagree; quarrel.", "S": [], "A": []}

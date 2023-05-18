@@ -1,0 +1,1 @@
+{"index": 91399, "D": "a donee of the king, especially one given the right by the king to property obtained by escheat or forfeit.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 100349, "D": "a machine for converting thermal energy into mechanical energy or power to produce force and motion.", "S": [], "A": []}

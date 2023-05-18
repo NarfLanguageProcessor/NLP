@@ -1,0 +1,1 @@
+{"index": 218725, "D": "satisfied; feeling comfortable and at peace with one's circumstances.", "S": [], "A": []}

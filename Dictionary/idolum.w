@@ -1,0 +1,1 @@
+{"index": 146669, "D": "a mental picture; idea", "S": [], "A": []}

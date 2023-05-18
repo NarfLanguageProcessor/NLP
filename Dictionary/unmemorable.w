@@ -1,0 +1,1 @@
+{"index": 346200, "D": "not worth remembering or easily remembered", "S": ["dreary ", "dull ", "lackluster "], "A": ["bright ", "clear ", "light ", "lively "]}

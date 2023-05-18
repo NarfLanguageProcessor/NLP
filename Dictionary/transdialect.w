@@ -1,0 +1,1 @@
+{"index": 327787, "D": "to translate (speech, writing, etc.) into a different dialect. ", "S": [], "A": []}

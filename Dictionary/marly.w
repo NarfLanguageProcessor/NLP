@@ -1,0 +1,1 @@
+{"index": 180219, "D": "a friable earthy deposit consisting of clay and calcium carbonate, used especially as a fertilizer for soils deficient in lime.", "S": [], "A": []}

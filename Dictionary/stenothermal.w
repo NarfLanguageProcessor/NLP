@@ -1,0 +1,1 @@
+{"index": 303706, "D": "Compare eurythermal", "S": [], "A": []}

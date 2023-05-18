@@ -1,0 +1,1 @@
+{"index": 275251, "D": "British another word for ruck 2", "S": ["crease ", "crinkle ", "crumple ", "fold ", "furrow ", "plait ", "ruck "], "A": ["smoothness "]}

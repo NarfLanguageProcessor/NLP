@@ -1,0 +1,1 @@
+{"index": 77720, "D": "a discussion, as of a public question in an assembly, involving opposing viewpoints", "S": ["argument ", "contest ", "controversy ", "deliberation ", "dispute ", "match "], "A": ["agreement ", "peace ", "quiet ", "harmony "]}

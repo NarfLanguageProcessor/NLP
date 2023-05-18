@@ -1,0 +1,1 @@
+{"index": 36324, "D": "a heavy and prolonged snowstorm covering a wide area.", "S": [], "A": []}

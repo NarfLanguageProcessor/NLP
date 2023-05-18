@@ -1,0 +1,1 @@
+{"index": 111813, "D": "a type of pasta in the form of narrow ribbons", "S": [], "A": []}

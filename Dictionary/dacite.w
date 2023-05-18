@@ -1,0 +1,1 @@
+{"index": 75981, "D": "A fine-grained light gray volcanic rock consisting primarily of quartz, plagioclase feldspar, and potassium feldspar, and also containing biotite, hornblende, or pyroxene. It is the fine-grained equivalent of granodiorite.", "S": [], "A": []}

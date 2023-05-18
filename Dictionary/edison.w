@@ -1,0 +1,1 @@
+{"index": 95771, "D": "U.S. inventor, especially of electrical devices.", "S": [], "A": []}

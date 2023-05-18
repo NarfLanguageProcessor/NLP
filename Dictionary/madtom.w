@@ -1,0 +1,1 @@
+{"index": 177274, "D": "any of several tadpolelike, freshwater catfishes of the genus Noturus, of the central and eastern U.S., having a poisonous pectoral spine", "S": [], "A": []}

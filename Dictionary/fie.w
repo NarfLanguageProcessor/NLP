@@ -1,0 +1,1 @@
+{"index": 112311, "D": "(used to express mild disgust, disapprobation, annoyance, etc.)", "S": [], "A": []}

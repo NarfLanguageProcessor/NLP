@@ -1,0 +1,1 @@
+{"index": 170129, "D": "a person who gives or makes laws.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 324201, "D": "to write by means of a typewriter;  type.", "S": ["copy ", "transcribe ", "write "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 58059, "D": "to walk or go about or around, especially ceremoniously.", "S": ["cover ", "drift ", "encompass ", "reach ", "spread "], "A": ["exclude ", "remain ", "run ", "rush ", "stay "]}

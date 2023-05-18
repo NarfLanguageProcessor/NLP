@@ -1,0 +1,1 @@
+{"index": 289066, "D": "characterized by or abounding with showers", "S": ["drizzly ", "stormy ", "wet "], "A": ["dry "]}

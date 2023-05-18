@@ -1,0 +1,1 @@
+{"index": 68572, "D": "a chemical compound of high molecular weight produced by polymerizing two or more different monomers together.", "S": [], "A": []}

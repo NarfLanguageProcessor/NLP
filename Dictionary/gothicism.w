@@ -1,0 +1,1 @@
+{"index": 128270, "D": "conformity or devotion to the gothic style in the arts.", "S": [], "A": []}

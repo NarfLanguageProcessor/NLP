@@ -1,0 +1,1 @@
+{"index": 323597, "D": "any of numerous, chiefly epiphytic bromeliads of the genus Tillandsia, including Spanish moss and many species cultivated as ornamentals.", "S": [], "A": []}

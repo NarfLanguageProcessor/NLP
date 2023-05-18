@@ -1,0 +1,1 @@
+{"index": 4613, "D": "an exciting or very unusual experience.", "S": ["biography ", "confession ", "diary ", "journal ", "letter ", "life story ", "memoir "], "A": []}

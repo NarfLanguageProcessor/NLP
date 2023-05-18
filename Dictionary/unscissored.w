@@ -1,0 +1,1 @@
+{"index": 350506, "D": "to cut or clip out with scissors. ", "S": [], "A": []}

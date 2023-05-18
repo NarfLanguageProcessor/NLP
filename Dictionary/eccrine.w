@@ -1,0 +1,1 @@
+{"index": 95149, "D": "of or relating to certain sweat glands, distributed over the entire body, that secrete a type of sweat important for regulating body heat  (distinguished from apocrine).", "S": [], "A": []}

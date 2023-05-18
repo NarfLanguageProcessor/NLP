@@ -1,0 +1,1 @@
+{"index": 249734, "D": "to mention or introduce (an idea, proposition, plan, etc.) for consideration or possible action", "S": [], "A": []}

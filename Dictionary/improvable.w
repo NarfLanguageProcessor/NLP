@@ -1,0 +1,1 @@
+{"index": 149179, "D": "to bring into a more desirable or excellent condition", "S": ["correctable "], "A": ["incurable "]}

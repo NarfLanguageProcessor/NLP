@@ -1,0 +1,1 @@
+{"index": 368966, "D": "a small, slender freshwater fish, Brachydanio rerio, having luminous bluish-black and silvery-gold horizontal stripes", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 114376, "D": "to grin or laugh coarsely or mockingly.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 191114, "D": "a manner of acting or doing; method; way", "S": ["approach ", "condition ", "fashion ", "form ", "mechanism ", "method ", "posture ", "procedure ", "process ", "quality ", "situation ", "status ", "style ", "system ", "technique ", "tone "], "A": ["disorganization "]}

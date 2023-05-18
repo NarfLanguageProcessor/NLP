@@ -1,0 +1,1 @@
+{"index": 47853, "D": "failure of the muscle fibers at the lower end of the esophagus to relax, resulting in swallowing difficulty and regurgitation.", "S": [], "A": []}

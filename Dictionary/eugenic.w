@@ -1,0 +1,1 @@
+{"index": 105419, "D": "of or relating to measures intended to produce a perceived improvement in the characteristics of the human species or a human population, especially through reproductive policy.", "S": ["ancestral ", "hereditary ", "historical "], "A": ["acquired "]}

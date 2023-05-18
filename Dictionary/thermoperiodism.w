@@ -1,0 +1,1 @@
+{"index": 321470, "D": "the response of a plant to cycles of temperature fluctuation", "S": [], "A": []}

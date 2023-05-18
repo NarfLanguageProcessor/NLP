@@ -1,0 +1,1 @@
+{"index": 63868, "D": "to direct with specific authority or prerogative; order", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 4226, "D": "a variant of admonition. ", "S": ["admonition ", "chiding ", "reprimand ", "reproach ", "reproof ", "scolding "], "A": ["praise "]}

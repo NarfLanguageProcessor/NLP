@@ -1,0 +1,1 @@
+{"index": 317405, "D": "touchdown; touchdowns.", "S": [], "A": []}

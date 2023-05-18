@@ -1,0 +1,1 @@
+{"index": 171606, "D": "the plural of louse. ", "S": ["ant ", "flea ", "insect ", "mosquito ", "rodent "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 292565, "D": "an assemblage or combination of things or parts forming a complex or unitary whole", "S": ["chip ", "electronics ", "wiring "], "A": []}

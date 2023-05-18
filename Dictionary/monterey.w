@@ -1,0 +1,1 @@
+{"index": 192894, "D": "a city in W California, on Monterey Bay", "S": [], "A": []}

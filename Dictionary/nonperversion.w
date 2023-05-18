@@ -1,0 +1,1 @@
+{"index": 205927, "D": "the act of perverting. ", "S": [], "A": []}

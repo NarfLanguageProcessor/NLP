@@ -1,0 +1,1 @@
+{"index": 348399, "D": "having prescience,  or knowledge of things or events before they exist or happen; having foresight", "S": [], "A": []}

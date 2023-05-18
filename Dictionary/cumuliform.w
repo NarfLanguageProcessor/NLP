@@ -1,0 +1,1 @@
+{"index": 74967, "D": "having the appearance or character of cumulus clouds.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 60135, "D": "to cut, or cut off or out, as with shears", "S": [], "A": []}

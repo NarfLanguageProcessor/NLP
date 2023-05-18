@@ -1,0 +1,1 @@
+{"index": 368781, "D": "hors d'oeuvres, consisting of tiny open sandwiches spread with caviar, smoked sausage, etc, or a cold dish such as radishes in sour cream, all usually served with vodka", "S": [], "A": []}

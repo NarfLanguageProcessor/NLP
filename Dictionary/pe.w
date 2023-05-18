@@ -1,0 +1,1 @@
+{"index": 228316, "D": "the 17th letter of the Hebrew alphabet.", "S": ["athletics ", "calisthenics ", "gym class ", "gymnastic ", "phys ed "], "A": []}

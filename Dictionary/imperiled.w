@@ -1,0 +1,1 @@
+{"index": 148551, "D": "to put in peril  or danger; endanger.", "S": ["at hazard ", "endangered ", "exposed ", "in jeopardy ", "in peril ", "jeopardized ", "susceptible ", "threatened ", "vulnerable "], "A": []}

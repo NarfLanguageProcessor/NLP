@@ -1,0 +1,1 @@
+{"index": 261177, "D": "a shaky, rattling  object, as a rickety vehicle.", "S": ["makeshift ", "rickety ", "unsound ", "unstable "], "A": []}

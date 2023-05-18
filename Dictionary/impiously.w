@@ -1,0 +1,1 @@
+{"index": 148715, "D": "not pious or religious; lacking reverence for God, religious practices, etc.; irreligious; ungodly.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201075, "D": "engaged in action;  characterized by energetic work, participation, etc.; busy", "S": ["lying ", "reclining ", "repose "], "A": ["active "]}

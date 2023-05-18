@@ -1,0 +1,1 @@
+{"index": 303580, "D": "any crime of unspecified class that involves fraud, especially one that involves the selling of the same property to different people.", "S": [], "A": []}

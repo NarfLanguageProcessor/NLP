@@ -1,0 +1,1 @@
+{"index": 151778, "D": "the quality of being infallible,  or of being absolutely trustworthy", "S": [], "A": []}

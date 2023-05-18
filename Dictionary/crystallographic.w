@@ -1,0 +1,1 @@
+{"index": 73425, "D": "of, relating to, or dealing with crystals  or crystallography ", "S": [], "A": []}

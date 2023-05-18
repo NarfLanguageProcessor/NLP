@@ -1,0 +1,1 @@
+{"index": 246084, "D": "of or relating to a cyclone", "S": [], "A": []}

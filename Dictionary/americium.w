@@ -1,0 +1,1 @@
+{"index": 10321, "D": "a transuranic element, one of the products of high-energy helium bombardment of uranium and plutonium. Symbol", "S": [], "A": []}

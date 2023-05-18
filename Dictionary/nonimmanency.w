@@ -1,0 +1,1 @@
+{"index": 204569, "D": " the state of being inherent or exclusively existing within something", "S": [], "A": []}

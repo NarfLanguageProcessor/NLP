@@ -1,0 +1,1 @@
+{"index": 106652, "D": "a person who takes or has taken part in an exchange,  as of students or prisoners.", "S": [], "A": []}

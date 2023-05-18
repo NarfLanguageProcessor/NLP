@@ -1,0 +1,1 @@
+{"index": 60963, "D": "a railroad, ship, etc., used mainly to haul or supply coal. ", "S": [], "A": []}

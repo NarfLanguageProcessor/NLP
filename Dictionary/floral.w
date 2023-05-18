@@ -1,0 +1,1 @@
+{"index": 114983, "D": "pertaining to or consisting of flowers", "S": ["decorative "], "A": []}

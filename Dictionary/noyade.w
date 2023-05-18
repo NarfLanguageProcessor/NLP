@@ -1,0 +1,1 @@
+{"index": 200770, "D": "destruction or execution by drowning, especially as practiced at Nantes, France, in 1793\u201394, during the Reign of Terror.", "S": [], "A": []}

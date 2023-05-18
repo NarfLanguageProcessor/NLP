@@ -1,0 +1,1 @@
+{"index": 312309, "D": "the explosion of a star, possibly caused by gravitational collapse, during which the star's luminosity increases by as much as 20 magnitudes and most of the star's mass is blown away at very high velocity, sometimes leaving behind an extremely dense core.", "S": ["void "], "A": []}

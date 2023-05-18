@@ -1,0 +1,1 @@
+{"index": 341414, "D": "free from many changes or variations; uniform", "S": ["fickle ", "fluctuating ", "volatile "], "A": ["stable "]}

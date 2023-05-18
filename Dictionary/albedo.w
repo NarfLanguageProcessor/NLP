@@ -1,0 +1,1 @@
+{"index": 7409, "D": "the ratio of the light reflected by a planet or satellite to that received by it.", "S": [], "A": []}

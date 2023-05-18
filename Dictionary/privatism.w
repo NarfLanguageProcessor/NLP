@@ -1,0 +1,1 @@
+{"index": 250850, "D": "concern with or pursuit of one's personal or family interests, welfare, or ideals to the exclusion of broader social issues or relationships.", "S": [], "A": []}

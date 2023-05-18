@@ -1,0 +1,1 @@
+{"index": 113681, "D": "soft and limp; not firm; flabby", "S": ["debilitated ", "emasculated ", "enervated ", "enfeebled ", "epicene ", "flabby ", "flimsy ", "inelastic ", "irresilient ", "lax ", "limp ", "loose ", "nerveless ", "quaggy ", "sapped ", "slack ", "soft ", "weak ", "weakened "], "A": ["firm ", "taut ", "tight "]}

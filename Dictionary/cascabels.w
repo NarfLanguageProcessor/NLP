@@ -1,0 +1,1 @@
+{"index": 48758, "D": "a knoblike projection at the rear of the breech of a muzzleloading cannon.", "S": [], "A": []}

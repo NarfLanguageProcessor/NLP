@@ -1,0 +1,1 @@
+{"index": 205965, "D": "involving the sounds, production, or transcription of speech", "S": [], "A": []}

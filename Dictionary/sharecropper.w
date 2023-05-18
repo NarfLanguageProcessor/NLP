@@ -1,0 +1,1 @@
+{"index": 287488, "D": "a tenant farmer who pays as rent a share  of the crop.", "S": ["grower ", "laborer ", "peasant ", "producer ", "rancher "], "A": []}

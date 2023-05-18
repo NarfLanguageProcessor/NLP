@@ -1,0 +1,1 @@
+{"index": 365165, "D": "a condition of heavily falling or blowing snow in which visibility is very poor.", "S": ["gale ", "precipitation ", "squall "], "A": []}

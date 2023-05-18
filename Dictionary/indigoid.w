@@ -1,0 +1,1 @@
+{"index": 151023, "D": "of or relating to that group of vat dyes that have a molecular structure similar to that of indigo. ", "S": [], "A": []}

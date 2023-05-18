@@ -1,0 +1,1 @@
+{"index": 50842, "D": "the middle point, as the point within a circle or sphere equally distant from all points of the circumference or surface, or the point within a regular polygon equally distant from the vertices.", "S": [], "A": []}

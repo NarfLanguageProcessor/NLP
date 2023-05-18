@@ -1,0 +1,1 @@
+{"index": 155790, "D": "existing or communicating between different religions.", "S": [], "A": []}

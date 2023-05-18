@@ -1,0 +1,1 @@
+{"index": 85338, "D": "an instrument that is used to study atomic crystal structure by measuring the angles at which x-rays, neutrons, or electrons are diffracted by matter.", "S": [], "A": []}

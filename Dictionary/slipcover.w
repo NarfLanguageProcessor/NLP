@@ -1,0 +1,1 @@
+{"index": 294154, "D": "a cover  of cloth or other material for a piece of furniture, as an upholstered chair or sofa, made so as to be easily removable.", "S": [], "A": []}

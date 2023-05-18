@@ -1,0 +1,1 @@
+{"index": 273428, "D": "a necklace of diamonds or other gems, especially in more than one string.", "S": ["choker ", "jewelry ", "pendant ", "strand "], "A": []}

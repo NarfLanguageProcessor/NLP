@@ -1,0 +1,1 @@
+{"index": 130164, "D": "an instrument having a cruciform wooden frame with a plumb line at the end of each arm, used for laying out lines at right angles to existing lines.", "S": [], "A": []}

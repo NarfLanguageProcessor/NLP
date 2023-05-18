@@ -1,0 +1,1 @@
+{"index": 91582, "D": "a device for holding a door  open, as a wedge or small weight.", "S": [], "A": []}

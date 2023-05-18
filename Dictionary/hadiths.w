@@ -1,0 +1,1 @@
+{"index": 131945, "D": "a traditional account of things said or done by Muhammad or his companions.", "S": [], "A": []}

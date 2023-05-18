@@ -1,0 +1,1 @@
+{"index": 300875, "D": "spindrift. ", "S": ["breakers ", "lather ", "rapid ", "rapids ", "soapsuds ", "spindrift ", "spray ", "suds ", "surf ", "wild water "], "A": []}

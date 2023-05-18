@@ -1,0 +1,1 @@
+{"index": 53508, "D": "a cat, Acinonyx jubatus, of southwestern Asia and Africa, resembling a leopard but having certain doglike characteristics, often trained for hunting deer, antelope, etc.", "S": ["bobcat ", "caracal ", "cougar ", "jaguar ", "leopard ", "lion ", "lynx ", "mountain lion ", "ocelot ", "panther ", "puma ", "tiger ", "wildcat "], "A": []}

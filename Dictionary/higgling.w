@@ -1,0 +1,1 @@
+{"index": 139223, "D": "to bargain, especially in a petty way; haggle.", "S": [], "A": []}

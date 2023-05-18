@@ -1,0 +1,1 @@
+{"index": 32633, "D": "to get or be astride of; have or place the legs on both sides of.", "S": ["arise ", "escalate ", "go up ", "rise ", "soar "], "A": ["decrease ", "lessen ", "lower ", "descend "]}

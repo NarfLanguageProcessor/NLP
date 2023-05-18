@@ -1,0 +1,1 @@
+{"index": 82966, "D": "to reduce (an object) to useless fragments, a useless form, or remains, as by rending, burning, or dissolving; injure beyond repair or renewal; demolish; ruin; annihilate. ", "S": ["broken ", "demolished ", "devastated ", "lost ", "ravaged ", "ruined ", "shattered ", "smashed ", "wrecked "], "A": ["fixed ", "repaired ", "sober ", "successful "]}

@@ -1,0 +1,1 @@
+{"index": 292933, "D": "to reduce to a skeleton,  outline, or framework.", "S": [], "A": []}

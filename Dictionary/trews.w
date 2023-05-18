@@ -1,0 +1,1 @@
+{"index": 329056, "D": "close-fitting tartan trousers, worn especially by certain Scottish regiments.", "S": [], "A": []}

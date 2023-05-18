@@ -1,0 +1,1 @@
+{"index": 46467, "D": "any of various slender, open boats, tapering to a point at both ends, propelled by paddles or sometimes sails and traditionally formed of light framework covered with bark, skins, or canvas, or formed from a dug-out or burned-out log or logs, and now usually made of aluminum, fiberglass, etc.", "S": ["kayak ", "outrigger "], "A": []}

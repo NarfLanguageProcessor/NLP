@@ -1,0 +1,1 @@
+{"index": 113031, "D": "a finite  state or quality.", "S": [], "A": []}

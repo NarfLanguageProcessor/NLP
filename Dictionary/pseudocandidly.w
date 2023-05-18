@@ -1,0 +1,1 @@
+{"index": 254573, "D": "in a frank, outspoken, straightforward way; openly and without holding back", "S": [], "A": []}

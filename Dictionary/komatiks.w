@@ -1,0 +1,1 @@
+{"index": 165958, "D": "a sled made by binding crossbars to wooden runners with rawhide, invented and first used by the Inuit of northern Canada.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 295455, "D": "a composite plant, Achillea ptarmica, of Europe, the powdered leaves of which cause sneezing. ", "S": [], "A": []}

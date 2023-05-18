@@ -1,0 +1,1 @@
+{"index": 10203, "D": "a variant spelling of emir", "S": [], "A": []}

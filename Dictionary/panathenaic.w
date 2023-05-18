@@ -1,0 +1,1 @@
+{"index": 224359, "D": "of or relating to a Panathenaea,  a festival in honor of the goddess Athena.", "S": [], "A": []}

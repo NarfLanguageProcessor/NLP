@@ -1,0 +1,1 @@
+{"index": 309095, "D": "freedom from danger, risk, etc.; safety. ", "S": [], "A": []}

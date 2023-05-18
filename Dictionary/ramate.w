@@ -1,0 +1,1 @@
+{"index": 260250, "D": "having branches; branching out or off.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 41852, "D": "(of wine, especially champagne) very dry.", "S": [], "A": []}

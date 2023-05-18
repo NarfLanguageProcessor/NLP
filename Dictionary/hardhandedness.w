@@ -1,0 +1,1 @@
+{"index": 133656, "D": "oppressive or tyrannical; stern or cruel.", "S": [], "A": []}

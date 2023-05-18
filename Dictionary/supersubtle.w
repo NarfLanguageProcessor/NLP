@@ -1,0 +1,1 @@
+{"index": 312761, "D": "extremely or excessively subtle;  oversubtle.", "S": [], "A": []}

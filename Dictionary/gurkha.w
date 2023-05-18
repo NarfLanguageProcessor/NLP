@@ -1,0 +1,1 @@
+{"index": 131496, "D": "a member of a Rajput people, Hindu in religion, who achieved dominion over Nepal in the 18th century.", "S": [], "A": []}

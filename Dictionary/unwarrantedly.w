@@ -1,0 +1,1 @@
+{"index": 354056, "D": "justified or well-founded", "S": [], "A": []}

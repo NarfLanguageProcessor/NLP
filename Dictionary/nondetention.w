@@ -1,0 +1,1 @@
+{"index": 202984, "D": "the act of detaining. ", "S": [], "A": []}

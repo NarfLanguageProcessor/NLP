@@ -1,0 +1,1 @@
+{"index": 60020, "D": "to settle (a matter) decisively", "S": [], "A": []}

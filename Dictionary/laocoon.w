@@ -1,0 +1,1 @@
+{"index": 168252, "D": "a priest of Apollo at Troy who warned the Trojans of the Trojan Horse, and who, with his two sons, was killed by two huge serpents sent by Athena or Apollo.", "S": [], "A": []}

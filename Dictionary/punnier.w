@@ -1,0 +1,1 @@
+{"index": 256730, "D": "having, involving, or characteristic of a pun. ", "S": [], "A": []}

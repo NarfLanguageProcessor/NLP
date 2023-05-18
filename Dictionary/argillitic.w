@@ -1,0 +1,1 @@
+{"index": 19507, "D": "any compact sedimentary rock composed mainly of clay materials; clay stone.", "S": [], "A": []}

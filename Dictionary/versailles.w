@@ -1,0 +1,1 @@
+{"index": 358755, "D": "a city in and the capital of Yvelines, in N France, about 12 miles (19 km) SW of Paris", "S": [], "A": []}

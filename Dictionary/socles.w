@@ -1,0 +1,1 @@
+{"index": 296243, "D": "a low, plain part forming a base for a column, pedestal, or the like; plinth.", "S": [], "A": []}

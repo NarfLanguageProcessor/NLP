@@ -1,0 +1,1 @@
+{"index": 202603, "D": "having the margin notched or scalloped so as to form rounded teeth, as a leaf.", "S": [], "A": []}

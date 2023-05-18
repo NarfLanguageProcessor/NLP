@@ -1,0 +1,1 @@
+{"index": 250737, "D": "a religious house governed by a prior or prioress, often dependent upon an abbey.", "S": ["nunnery "], "A": []}

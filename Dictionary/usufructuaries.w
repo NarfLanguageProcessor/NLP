@@ -1,0 +1,1 @@
+{"index": 356061, "D": "of, relating to, or of the nature of usufruct. ", "S": [], "A": []}

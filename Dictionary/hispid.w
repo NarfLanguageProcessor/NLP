@@ -1,0 +1,1 @@
+{"index": 141692, "D": "rough with stiff hairs, bristles, or minute spines.", "S": ["aristate ", "barbellate ", "chaetophorous ", "echinate ", "setaceous ", "setal ", "setarious ", "setiferous ", "setose ", "spiny "], "A": ["clean-shaven ", "smooth "]}

@@ -1,0 +1,1 @@
+{"index": 163517, "D": "a cooked dish consisting of rice, lentils, and spices.", "S": [], "A": []}

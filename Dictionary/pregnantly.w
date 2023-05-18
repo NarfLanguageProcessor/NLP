@@ -1,0 +1,1 @@
+{"index": 247727, "D": "having a child or other offspring developing in the body; with child or young, as a woman or female mammal.", "S": [], "A": []}

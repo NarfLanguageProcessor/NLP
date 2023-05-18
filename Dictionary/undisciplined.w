@@ -1,0 +1,1 @@
+{"index": 340457, "D": "not exhibiting self-control or good behaviour", "S": ["headstrong ", "inconsistent ", "unruly ", "wayward "], "A": ["obedient "]}

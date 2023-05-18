@@ -1,0 +1,1 @@
+{"index": 121125, "D": "an amino sugar that is a major component of glycolipids and chondroitin.", "S": [], "A": []}

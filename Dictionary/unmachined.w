@@ -1,0 +1,1 @@
+{"index": 345886, "D": "an apparatus consisting of interrelated parts with separate functions, used in the performance of some kind of work", "S": [], "A": []}

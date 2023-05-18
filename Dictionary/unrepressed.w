@@ -1,0 +1,1 @@
+{"index": 349608, "D": "subjected to, affected by, or characteristic of psychological repression", "S": ["extensive ", "far-reaching ", "inclusive ", "wide-ranging "], "A": ["narrow "]}

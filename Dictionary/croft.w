@@ -1,0 +1,1 @@
+{"index": 73605, "D": "a small farm, especially one worked by a tenant.", "S": [], "A": []}

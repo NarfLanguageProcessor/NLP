@@ -1,0 +1,1 @@
+{"index": 78861, "D": "in the form of an X; crossed; intersected.", "S": ["cross ", "cut across "], "A": []}

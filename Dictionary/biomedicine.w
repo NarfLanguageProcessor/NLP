@@ -1,0 +1,1 @@
+{"index": 34435, "D": "the application of the natural sciences, especially the biological and physiological sciences, to clinical medicine. ", "S": [], "A": []}

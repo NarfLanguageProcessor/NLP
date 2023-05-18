@@ -1,0 +1,1 @@
+{"index": 209201, "D": "at the present day; in these times", "S": ["current "], "A": ["late ", "old "]}

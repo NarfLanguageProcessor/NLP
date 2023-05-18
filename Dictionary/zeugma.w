@@ -1,0 +1,1 @@
+{"index": 369145, "D": "Compare syllepsis. ", "S": [], "A": []}

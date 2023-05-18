@@ -1,0 +1,1 @@
+{"index": 354297, "D": "to render devoid of wit;  derange.", "S": [], "A": []}

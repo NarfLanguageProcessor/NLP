@@ -1,0 +1,1 @@
+{"index": 30826, "D": "Aphra (\u02c8\u00e6fr\u0259). 1640\u201389, English dramatist and novelist, best known for her play The Rover (1678) and her novel Oroonoko (1688)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 213857, "D": "the power or right of choosing.", "S": ["benefit ", "choice ", "opportunity ", "preference ", "privilege ", "right "], "A": ["disadvantage ", "misfortune ", "loss ", "refusal "]}

@@ -1,0 +1,1 @@
+{"index": 147508, "D": "Compare trompe l'oeil. ", "S": [], "A": []}

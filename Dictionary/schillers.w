@@ -1,0 +1,1 @@
+{"index": 280143, "D": "a bronzelike luster, sometimes with iridescence, occurring on certain minerals.", "S": [], "A": []}

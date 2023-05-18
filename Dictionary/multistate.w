@@ -1,0 +1,1 @@
+{"index": 195365, "D": "of or operating in several states  of a nation", "S": [], "A": []}

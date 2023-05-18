@@ -1,0 +1,1 @@
+{"index": 83727, "D": "any of certain officials in India, such as a financial minister or prime minister of an Indian state.", "S": ["President ", "chancellor ", "chief executive ", "chief minister ", "chief of state ", "chief officer ", "commander in chief ", "doge ", "grand vizier ", "head of cabinet ", "head of state ", "leader ", "person in charge ", "premier "], "A": []}

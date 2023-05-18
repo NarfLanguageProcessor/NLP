@@ -1,0 +1,1 @@
+{"index": 207048, "D": "an expert in science,  especially one of the physical or natural sciences. ", "S": [], "A": []}

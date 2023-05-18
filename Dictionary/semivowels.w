@@ -1,0 +1,1 @@
+{"index": 285138, "D": "a speech sound of vowel quality used as a consonant, as (w) in wet or (y) in yet.", "S": [], "A": []}

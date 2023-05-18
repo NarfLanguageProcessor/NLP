@@ -1,0 +1,1 @@
+{"index": 321670, "D": "any of a class of compounds containing a ring composed of one atom each of sulfur and nitrogen and four atoms of carbon.", "S": [], "A": []}

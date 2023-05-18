@@ -1,0 +1,1 @@
+{"index": 161629, "D": "a woman on whom a jointure has been settled.", "S": [], "A": []}

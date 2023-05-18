@@ -1,0 +1,1 @@
+{"index": 147287, "D": "the broad, upper portion of either hipbone.", "S": [], "A": []}

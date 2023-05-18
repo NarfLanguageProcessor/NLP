@@ -1,0 +1,1 @@
+{"index": 336786, "D": "the position of the pieces when a king is checkmated.", "S": [], "A": []}

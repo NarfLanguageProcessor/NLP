@@ -1,0 +1,1 @@
+{"index": 18791, "D": "of or relating to an archduke  or an archduchy. ", "S": [], "A": []}

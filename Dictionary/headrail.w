@@ -1,0 +1,1 @@
+{"index": 134687, "D": "a railing  on a sailing vessel, extending forward from abaft the bow to the back of the figurehead.", "S": ["babushka ", "bandanna ", "handkerchief ", "hankie ", "scarf ", "shawl ", "veil "], "A": []}

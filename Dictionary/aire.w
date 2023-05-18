@@ -1,0 +1,1 @@
+{"index": 6891, "D": "a suffix that forms nouns denoting a person characterized by or occupied with that named by the stem, occurring in loanwords from French", "S": [], "A": []}

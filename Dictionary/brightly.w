@@ -1,0 +1,1 @@
+{"index": 40778, "D": "radiating or reflecting light; luminous; shining", "S": ["brilliantly ", "splendidly "], "A": ["darkly ", "dully ", "miserably ", "sadly "]}

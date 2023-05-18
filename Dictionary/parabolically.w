@@ -1,0 +1,1 @@
+{"index": 225370, "D": "having the form or outline of a parabola. ", "S": [], "A": []}

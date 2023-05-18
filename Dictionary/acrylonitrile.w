@@ -1,0 +1,1 @@
+{"index": 2840, "D": "a colorless, flammable, poisonous, carcinogenic liquid, C3H3N, used for the production of polymers and copolymers, as rubbers, fibers, and clear plastics for beverage containers.", "S": [], "A": []}

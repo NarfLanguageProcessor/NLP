@@ -1,0 +1,1 @@
+{"index": 107787, "D": "to come to an end; terminate, as a contract, guarantee, or offer.", "S": ["buried ", "deceased ", "late ", "lifeless "], "A": ["alive ", "living "]}

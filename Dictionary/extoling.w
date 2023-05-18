@@ -1,0 +1,1 @@
+{"index": 108384, "D": [], "S": ["acclaim ", "applaud ", "celebrate ", "commend ", "eulogize ", "exalt ", "glorify ", "laud ", "praise "], "A": ["blame ", "castigate ", "censure ", "condemn ", "criticize ", "debase ", "denounce ", "disapprove ", "humiliate ", "decrease ", "discourage "]}

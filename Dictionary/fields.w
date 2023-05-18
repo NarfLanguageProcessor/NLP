@@ -1,0 +1,1 @@
+{"index": 112339, "D": "U.S. vaudeville and motion-picture comedian.", "S": ["acreage ", "area ", "campus ", "country ", "district ", "environs ", "gardens ", "habitat ", "holding ", "land ", "lot ", "premises ", "property ", "realm ", "sphere ", "spot ", "terrace ", "terrain ", "territory ", "tract ", "zone "], "A": ["sky "]}

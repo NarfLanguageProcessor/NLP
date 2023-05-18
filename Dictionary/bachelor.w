@@ -1,0 +1,1 @@
+{"index": 25661, "D": "an unmarried man.", "S": ["celibate ", "single ", "stag "], "A": ["groom ", "husband ", "spouse "]}

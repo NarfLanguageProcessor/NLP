@@ -1,0 +1,1 @@
+{"index": 17088, "D": "a temporary suspension of breathing, occurring in some newborns (infant apnea ) and in some adults during sleep (sleep apnea ).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 94541, "D": "filled, covered, or clouded with or as with dust. ", "S": ["chalky ", "dirty ", "sandy "], "A": ["clean ", "clear "]}

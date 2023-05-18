@@ -1,0 +1,1 @@
+{"index": 66756, "D": "following as an effect or result; resulting (often followed by on, upon, or to)", "S": [], "A": []}

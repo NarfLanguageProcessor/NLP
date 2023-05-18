@@ -1,0 +1,1 @@
+{"index": 328522, "D": "of the nature of trash;  inferior in quality; rubbishy; useless or worthless.", "S": [], "A": []}

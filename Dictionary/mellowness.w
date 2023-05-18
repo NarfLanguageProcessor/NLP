@@ -1,0 +1,1 @@
+{"index": 182968, "D": "soft, sweet, and full-flavored from ripeness, as fruit.", "S": ["ability ", "capability ", "experience ", "manhood ", "maturation ", "sophistication ", "wisdom "], "A": ["ignorance ", "impotence ", "inability ", "incompetence ", "stupidity ", "decline ", "downfall ", "imperfection ", "incompleteness ", "stoppage "]}

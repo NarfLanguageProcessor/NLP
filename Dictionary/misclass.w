@@ -1,0 +1,1 @@
+{"index": 188930, "D": "a number of persons or things regarded as forming a group by reason of common attributes, characteristics, qualities, or traits; kind; sort", "S": [], "A": []}

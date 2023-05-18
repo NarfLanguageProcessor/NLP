@@ -1,0 +1,1 @@
+{"index": 263687, "D": "a person or thing that rectifies. ", "S": [], "A": []}

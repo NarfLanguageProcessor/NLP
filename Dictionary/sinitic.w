@@ -1,0 +1,1 @@
+{"index": 291812, "D": "a branch of Sino-Tibetan consisting of the various local languages and dialects whose speakers share literary Chinese as their standard language.", "S": [], "A": []}

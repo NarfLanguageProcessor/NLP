@@ -1,0 +1,1 @@
+{"index": 276964, "D": "a jump in which the skater leaps from the back inside edge of one skate, making one full rotation of the body in the air, and lands on the back outside edge of the other skate.", "S": [], "A": []}

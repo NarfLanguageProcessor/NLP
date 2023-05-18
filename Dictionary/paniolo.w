@@ -1,0 +1,1 @@
+{"index": 224689, "D": "a person who herds cattle; cowboy.", "S": [], "A": []}

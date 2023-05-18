@@ -1,0 +1,1 @@
+{"index": 129748, "D": "a female given name, form of Margaret. ", "S": [], "A": []}

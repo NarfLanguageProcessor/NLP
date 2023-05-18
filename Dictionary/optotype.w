@@ -1,0 +1,1 @@
+{"index": 213879, "D": "type used on an eye chart.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 152692, "D": "to take or receive (property, a right, a title, etc.) by succession or will, as an heir", "S": ["acquire ", "derive ", "obtain ", "receive ", "succeed ", "take over "], "A": ["fail ", "forfeit ", "lose "]}

@@ -1,0 +1,1 @@
+{"index": 224589, "D": "a large, broad-bladed African knife used as a weapon or as an implement for cutting heavy jungle growth, sugarcane, etc.; machete.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 15312, "D": "a daughter of Oedipus and Jocasta who defied her uncle, King Creon, by performing funeral rites over her brother, Polynices, and was condemned to be immured alive in a cave.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111671, "D": "pertaining to or befitting a feast, festival, holiday, or gala occasion.", "S": ["cheerful ", "clubby ", "festive ", "genial ", "hearty ", "jolly ", "jovial ", "lively ", "pleasant ", "sociable "], "A": ["apathetic ", "depressed ", "gloomy ", "lethargic ", "sad ", "unfriendly ", "unhappy "]}

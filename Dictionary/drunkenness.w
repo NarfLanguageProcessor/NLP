@@ -1,0 +1,1 @@
+{"index": 93587, "D": [], "S": ["intoxication "], "A": ["abstinence ", "soberness ", "sobriety ", "temperance "]}

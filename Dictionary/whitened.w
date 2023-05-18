@@ -1,0 +1,1 @@
+{"index": 365157, "D": "to make or become white.", "S": ["bleach "], "A": ["brighten ", "darken "]}

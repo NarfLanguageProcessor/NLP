@@ -1,0 +1,1 @@
+{"index": 86034, "D": "a device for measuring mechanical force, as a balance.", "S": [], "A": []}

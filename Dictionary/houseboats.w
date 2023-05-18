@@ -1,0 +1,1 @@
+{"index": 144384, "D": "a flat-bottomed, bargelike boat  fitted for use as a floating dwelling but not for rough water.", "S": [], "A": []}

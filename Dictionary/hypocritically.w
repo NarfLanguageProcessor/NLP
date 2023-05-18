@@ -1,0 +1,1 @@
+{"index": 140892, "D": "of the nature of hypocrisy,  or pretense of having virtues, beliefs, principles, etc., that one does not actually possess", "S": [], "A": []}

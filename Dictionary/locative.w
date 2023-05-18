@@ -1,0 +1,1 @@
+{"index": 174315, "D": "(in certain inflected languages) noting a case whose distinctive function is to indicate place in or at which, as Latin dom\u012b \u201cat home.\u201d", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 282090, "D": "having scruples,  or moral or ethical standards; having or showing a strict regard for what one considers right; principled", "S": ["TLC ", "awareness ", "care ", "carefulness ", "concern ", "consciousness ", "fastidiousness ", "meticulousness ", "pain ", "punctiliousness ", "spotlight "], "A": ["ignorance ", "unconsciousness "]}

@@ -1,0 +1,1 @@
+{"index": 351902, "D": "of, relating to, or suggestive of the stage. ", "S": [], "A": []}

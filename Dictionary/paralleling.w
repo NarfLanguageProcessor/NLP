@@ -1,0 +1,1 @@
+{"index": 225737, "D": "a form of trading in which companies buy highly priced goods in a market in which the prices are low in order to be able to sell them in a market in which the prices are higher", "S": ["echoing ", "emulating ", "following ", "matching ", "reflecting "], "A": []}

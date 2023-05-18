@@ -1,0 +1,1 @@
+{"index": 27836, "D": "barbed wire. ", "S": ["fence ", "fencing "], "A": []}

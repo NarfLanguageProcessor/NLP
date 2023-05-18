@@ -1,0 +1,1 @@
+{"index": 257933, "D": "one of the class of values of a variate that divides the total frequency of a sample or population into a given number of equal proportions.", "S": [], "A": []}

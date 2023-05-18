@@ -1,0 +1,1 @@
+{"index": 118539, "D": "an act or instance of freaking out.", "S": ["go crazy ", "lose it "], "A": []}

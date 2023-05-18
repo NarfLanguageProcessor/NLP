@@ -1,0 +1,1 @@
+{"index": 91165, "D": "a technician who moves or pushes the camera dolly during or between shots.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25799, "D": "(in a lathe) one of several gears for driving the headstock at various speeds.", "S": [], "A": []}

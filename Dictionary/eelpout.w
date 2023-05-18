@@ -1,0 +1,1 @@
+{"index": 95908, "D": "any fish of the family Zoarcidae, especially Zoarces viviparus, of Europe.", "S": [], "A": []}

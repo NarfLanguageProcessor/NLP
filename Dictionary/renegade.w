@@ -1,0 +1,1 @@
+{"index": 267597, "D": "a person who deserts a party or cause for another.", "S": ["reactionary "], "A": ["obedient ", "passive ", "submissive "]}

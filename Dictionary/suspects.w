@@ -1,0 +1,1 @@
+{"index": 313728, "D": "to believe to be guilty, false, counterfeit, undesirable, defective, bad, etc., with little or no proof", "S": ["assume ", "believe ", "consider ", "doubt ", "presume ", "speculate ", "think ", "wonder "], "A": ["abstain ", "disregard ", "forget ", "ignore ", "leave ", "neglect ", "know ", "misunderstand ", "trust "]}

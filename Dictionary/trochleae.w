@@ -1,0 +1,1 @@
+{"index": 330937, "D": "a pulleylike structure or arrangement of parts.", "S": [], "A": []}

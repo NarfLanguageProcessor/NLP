@@ -1,0 +1,1 @@
+{"index": 40366, "D": "something braided or entwined, especially a plait of hair; braid.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 130746, "D": "a woody, climbing shrub Paullinia cupana, of the soapberry family, growing in parts of South America, having seeds that contain caffeine and are used in soft drinks.", "S": [], "A": []}

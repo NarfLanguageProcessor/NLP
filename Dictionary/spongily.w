@@ -1,0 +1,1 @@
+{"index": 300769, "D": "of the nature of or resembling a sponge;  light, porous, and elastic or readily compressible, as pith or bread.", "S": [], "A": []}

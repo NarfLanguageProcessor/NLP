@@ -1,0 +1,1 @@
+{"index": 143207, "D": "the quality or state of being homophonic. ", "S": [], "A": []}

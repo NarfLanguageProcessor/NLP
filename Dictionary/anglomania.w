@@ -1,0 +1,1 @@
+{"index": 12911, "D": "an intense admiration of, interest in, or tendency to imitate English institutions, manners, customs, etc.", "S": [], "A": []}

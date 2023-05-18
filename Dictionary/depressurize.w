@@ -1,0 +1,1 @@
+{"index": 81872, "D": "to remove the air pressure from (a pressurized  compartment of an aircraft or spacecraft).", "S": [], "A": []}

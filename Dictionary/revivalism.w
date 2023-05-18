@@ -1,0 +1,1 @@
+{"index": 271424, "D": "the form of religious activity that manifests itself in revivals. ", "S": [], "A": []}

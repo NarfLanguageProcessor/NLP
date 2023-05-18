@@ -1,0 +1,1 @@
+{"index": 203446, "D": "the act of explaining or making something clear", "S": [], "A": []}

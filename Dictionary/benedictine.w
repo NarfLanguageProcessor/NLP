@@ -1,0 +1,1 @@
+{"index": 31524, "D": "a member of any congregation of nuns following the rule of St. Benedict.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 198095, "D": "of or relating to Black people or to the Negritos.", "S": [], "A": []}

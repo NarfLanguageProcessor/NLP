@@ -1,0 +1,1 @@
+{"index": 258311, "D": "at or to which; the end toward which something tends.", "S": [], "A": []}

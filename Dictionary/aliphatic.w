@@ -1,0 +1,1 @@
+{"index": 8326, "D": "pertaining to nonaromatic hydrocarbon compounds in which the constituent carbon atoms can be straight-chain, branched chain, or cyclic, as in alicyclic  compounds; saturated, as in the paraffins; or unsaturated, as in the olefins and alkynes.", "S": [], "A": []}

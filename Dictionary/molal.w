@@ -1,0 +1,1 @@
+{"index": 191388, "D": "noting or pertaining to a solution containing one mole  of solute per kilogram of solvent.", "S": [], "A": []}

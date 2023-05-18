@@ -1,0 +1,1 @@
+{"index": 102525, "D": "an electrical appliance consisting of a metal spiral head that rotates at high speed, plucking unwanted hair", "S": [], "A": []}

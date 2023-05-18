@@ -1,0 +1,1 @@
+{"index": 108385, "D": "to praise highly; laud; eulogize", "S": [], "A": []}

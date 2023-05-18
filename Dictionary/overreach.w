@@ -1,0 +1,1 @@
+{"index": 220776, "D": "to reach  or extend over or beyond", "S": ["overdo "], "A": []}

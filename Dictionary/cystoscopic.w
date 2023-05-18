@@ -1,0 +1,1 @@
+{"index": 58564, "D": "a slender, cylindrical instrument for examining the interior of the urinary bladder and for the introduction of medication therein.", "S": [], "A": []}

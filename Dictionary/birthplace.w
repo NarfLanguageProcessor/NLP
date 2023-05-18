@@ -1,0 +1,1 @@
+{"index": 34918, "D": "place  of birth  or origin.", "S": ["fatherland ", "motherland "], "A": []}

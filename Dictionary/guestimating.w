@@ -1,0 +1,1 @@
+{"index": 130964, "D": "a variant of guesstimate. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 100392, "D": "a person who translates from a foreign language into English. ", "S": [], "A": []}

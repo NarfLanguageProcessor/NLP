@@ -1,0 +1,1 @@
+{"index": 53695, "D": "a woman's garment of linen, lace, or the like, worn, toward the end of the Victorian era, over a low-cut or open bodice to cover the neck and breast.", "S": ["camisole ", "dress ", "lingerie ", "shift ", "shirt ", "smock "], "A": []}

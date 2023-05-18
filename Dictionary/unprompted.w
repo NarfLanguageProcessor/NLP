@@ -1,0 +1,1 @@
+{"index": 348616, "D": "without prompting; spontaneous", "S": ["abrupt ", "hasty ", "impetuous ", "instinctive ", "offhand ", "passionate ", "spontaneous ", "violent "], "A": ["calm ", "deliberate ", "planned ", "sensible "]}

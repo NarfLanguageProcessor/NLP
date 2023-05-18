@@ -1,0 +1,1 @@
+{"index": 115462, "D": "the most reactive nonmetallic element, a pale-yellow, corrosive, toxic gas that occurs combined, especially in fluorite, cryolite, phosphate rock, and other minerals. Symbol", "S": [], "A": []}

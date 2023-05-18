@@ -1,0 +1,1 @@
+{"index": 219725, "D": "truthful; ethical; fair;  not lying or cheating", "S": [], "A": []}

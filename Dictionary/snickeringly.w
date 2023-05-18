@@ -1,0 +1,1 @@
+{"index": 295489, "D": "to laugh in a half-suppressed, indecorous or disrespectful manner.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 146739, "D": "a person with an optimistic and confident outlook.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 316862, "D": "a bushy or treelike cactus, Opuntia leptocaulis, of the southwestern U.S., having slender, spiny branches, greenish-yellow flowers, and red berrylike fruit.", "S": [], "A": []}

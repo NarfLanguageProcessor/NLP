@@ -1,0 +1,1 @@
+{"index": 343130, "D": "to look or stare with sullen dislike, discontent, or anger.", "S": [], "A": []}

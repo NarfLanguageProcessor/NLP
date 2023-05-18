@@ -1,0 +1,1 @@
+{"index": 367052, "D": "struck or affected with wonder.", "S": ["dazed "], "A": ["clear ", "oriented ", "understanding "]}

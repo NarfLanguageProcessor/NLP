@@ -1,0 +1,1 @@
+{"index": 89325, "D": "to fail to remember;  forget.", "S": ["be unable to remember ", "draw a blank ", "fail to recall ", "fail to recollect "], "A": []}

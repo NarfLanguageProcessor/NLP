@@ -1,0 +1,1 @@
+{"index": 182557, "D": "an instrument that generates a high voltage in order to test the resistance of insulation, etc", "S": [], "A": []}

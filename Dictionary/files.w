@@ -1,0 +1,1 @@
+{"index": 112586, "D": "a folder, cabinet, or other container in which papers, letters, etc., are arranged in convenient order for storage or reference.", "S": ["annals "], "A": []}

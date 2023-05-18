@@ -1,0 +1,1 @@
+{"index": 308620, "D": "a basic salt of nitric acid.", "S": [], "A": []}

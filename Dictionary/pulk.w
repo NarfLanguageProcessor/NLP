@@ -1,0 +1,1 @@
+{"index": 256244, "D": "a sledge that is pulled by dogs while a person skis behind to steer and brake", "S": [], "A": []}

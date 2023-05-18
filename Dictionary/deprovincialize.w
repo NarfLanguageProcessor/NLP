@@ -1,0 +1,1 @@
+{"index": 81906, "D": "to make provincial  in character.", "S": [], "A": []}

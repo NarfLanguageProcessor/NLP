@@ -1,0 +1,1 @@
+{"index": 204574, "D": "a person who migrates to another country, usually for permanent residence.", "S": [], "A": []}

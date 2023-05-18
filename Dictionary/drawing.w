@@ -1,0 +1,1 @@
+{"index": 92789, "D": "the act of a person or thing that draws.", "S": ["cartoon ", "depiction ", "design ", "etching ", "graphics ", "layout ", "likeness ", "painting ", "picture ", "sketch ", "study ", "work of art "], "A": []}

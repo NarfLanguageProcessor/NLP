@@ -1,0 +1,1 @@
+{"index": 256991, "D": "environs or neighborhood.", "S": ["confines ", "limit "], "A": []}

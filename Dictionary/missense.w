@@ -1,0 +1,1 @@
+{"index": 190019, "D": "Relating to a mutation that changes a codon for one amino acid into a codon for a different amino acid. See more at  point mutation.", "S": [], "A": []}

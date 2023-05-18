@@ -1,0 +1,1 @@
+{"index": 358957, "D": [], "S": ["abscess ", "cyst ", "pimple ", "sore ", "ulcer ", "welt "], "A": []}

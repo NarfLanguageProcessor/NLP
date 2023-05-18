@@ -1,0 +1,1 @@
+{"index": 210592, "D": "overhanging; projecting over another part.", "S": [], "A": []}

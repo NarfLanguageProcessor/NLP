@@ -1,0 +1,1 @@
+{"index": 194133, "D": "to borrow (a small item or amount) without intending to return or repay it.", "S": [], "A": []}

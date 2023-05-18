@@ -1,0 +1,1 @@
+{"index": 70938, "D": "an offer  or proposal made to offset or substitute for an earlier offer  made by another.", "S": [], "A": []}

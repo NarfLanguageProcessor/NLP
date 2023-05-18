@@ -1,0 +1,1 @@
+{"index": 23339, "D": "an official examination and verification of accounts and records, especially of financial accounts.", "S": ["analysis ", "check ", "examination ", "investigation ", "review ", "scrutiny ", "survey ", "verification "], "A": []}

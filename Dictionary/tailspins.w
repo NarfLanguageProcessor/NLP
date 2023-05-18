@@ -1,0 +1,1 @@
+{"index": 315414, "D": "spin (def. 23). ", "S": ["plunge ", "slide "], "A": ["ascent ", "evenness ", "increase ", "level ", "rise "]}

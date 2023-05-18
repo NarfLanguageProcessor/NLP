@@ -1,0 +1,1 @@
+{"index": 344812, "D": "to present (a person) to another so as to make acquainted.", "S": [], "A": []}

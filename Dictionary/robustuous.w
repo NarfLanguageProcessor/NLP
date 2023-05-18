@@ -1,0 +1,1 @@
+{"index": 273627, "D": [], "S": ["booming ", "hearty ", "hefty ", "potent ", "powerful ", "prosperous ", "sturdy ", "tough ", "vigorous "], "A": ["fragile ", "impotent ", "incapable ", "ineffective ", "lethargic ", "small ", "unstable ", "weak ", "wobbly "]}

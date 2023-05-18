@@ -1,0 +1,1 @@
+{"index": 144466, "D": "one of a married couple responsible for a group of young people, as students, living in a dormitory, hostel, etc., sometimes acting solely as an advisor, but often serving as host or hostess, chaperon, housekeeper, etc.", "S": [], "A": []}

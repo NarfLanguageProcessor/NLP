@@ -1,0 +1,1 @@
+{"index": 304930, "D": "of solid and sturdy form or build; thick-set and, usually, short.", "S": ["chunky ", "corpulent ", "stout ", "sturdy "], "A": ["skinny ", "thin ", "weak "]}

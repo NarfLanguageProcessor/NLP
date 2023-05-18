@@ -1,0 +1,1 @@
+{"index": 16748, "D": "an opening, as a hole, slit, crack, gap, etc.", "S": [], "A": []}

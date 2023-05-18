@@ -1,0 +1,1 @@
+{"index": 51937, "D": "consisting of, covered with, or resembling chaff. ", "S": [], "A": []}

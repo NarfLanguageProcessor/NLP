@@ -1,0 +1,1 @@
+{"index": 134907, "D": "the deepest feelings; the strongest affections", "S": [], "A": []}

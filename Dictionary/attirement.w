@@ -1,0 +1,1 @@
+{"index": 23095, "D": "dress; attire. ", "S": ["apparel ", "attire ", "costume ", "ensemble ", "frock ", "garb ", "gown ", "robe ", "skirt ", "smock ", "suit ", "uniform ", "wardrobe "], "A": []}

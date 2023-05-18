@@ -1,0 +1,1 @@
+{"index": 211854, "D": "smeared or covered with oil;  greasy", "S": [], "A": []}

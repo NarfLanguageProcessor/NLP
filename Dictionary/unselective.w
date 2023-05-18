@@ -1,0 +1,1 @@
+{"index": 350720, "D": "having the function or power of selecting;  making a selection. ", "S": ["aimless ", "extensive ", "haphazard ", "unplanned ", "wholesale "], "A": ["planned "]}

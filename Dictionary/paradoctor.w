@@ -1,0 +1,1 @@
+{"index": 225523, "D": "a doctor  who parachutes to patients in remote areas.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 224623, "D": "a sudden feeling of mental or emotional distress or longing", "S": ["anguish ", "misery ", "passion ", "torment ", "torture ", "woe "], "A": ["contentment ", "happiness ", "joy ", "comfort ", "health "]}

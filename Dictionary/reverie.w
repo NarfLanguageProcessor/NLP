@@ -1,0 +1,1 @@
+{"index": 271240, "D": "a state of dreamy meditation or fanciful musing", "S": ["contemplation ", "fantasy ", "meditation ", "trance "], "A": ["nightmare "]}

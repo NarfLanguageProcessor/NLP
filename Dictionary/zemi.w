@@ -1,0 +1,1 @@
+{"index": 369032, "D": [], "S": ["amulet ", "fetish ", "juju ", "mascot ", "phylactery ", "trinket "], "A": []}

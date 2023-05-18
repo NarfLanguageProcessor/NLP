@@ -1,0 +1,1 @@
+{"index": 201282, "D": "any cold-blooded vertebrate of the class Amphibia, comprising frogs and toads, newts and salamanders, and caecilians, the larvae being typically aquatic, breathing by gills, and the adults being typically semiterrestrial, breathing by lungs and through the moist, glandular skin.", "S": [], "A": []}

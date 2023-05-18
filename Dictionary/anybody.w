@@ -1,0 +1,1 @@
+{"index": 13089, "D": "any person.", "S": ["anyone ", "everybody ", "everyone ", "public "], "A": []}

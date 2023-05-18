@@ -1,0 +1,1 @@
+{"index": 280120, "D": "(in South Africa) a hut, screen, or shelter constructed from branches and canvas, scraped animal hides, or the like.", "S": [], "A": []}

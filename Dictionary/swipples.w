@@ -1,0 +1,1 @@
+{"index": 314534, "D": "the freely swinging part of a flail, which falls upon the grain in threshing; swingle.", "S": [], "A": []}

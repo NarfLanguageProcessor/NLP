@@ -1,0 +1,1 @@
+{"index": 151711, "D": "not to be expiated; not allowing for expiation or atonement", "S": [], "A": []}

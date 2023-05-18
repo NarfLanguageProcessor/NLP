@@ -1,0 +1,1 @@
+{"index": 343432, "D": "to bargain in a petty, quibbling, and often contentious manner", "S": [], "A": []}

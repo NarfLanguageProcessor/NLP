@@ -1,0 +1,1 @@
+{"index": 92503, "D": "characterized by or admitting currents of air, usually uncomfortable.", "S": ["breezy ", "uncluttered "], "A": ["burdensome ", "close ", "closed ", "heavy ", "oppressive ", "stuffy "]}

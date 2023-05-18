@@ -1,0 +1,1 @@
+{"index": 298699, "D": "the act, utterance, or discourse of a person who speaks. ", "S": ["diction "], "A": ["disconnection "]}

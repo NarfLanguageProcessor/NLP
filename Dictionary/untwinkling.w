@@ -1,0 +1,1 @@
+{"index": 353504, "D": "an act of shining with intermittent gleams of light.", "S": [], "A": []}

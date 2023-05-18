@@ -1,0 +1,1 @@
+{"index": 194371, "D": "sheepskin that has been processed to resemble another fur, especially seal or beaver.", "S": [], "A": []}

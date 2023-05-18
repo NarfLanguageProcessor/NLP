@@ -1,0 +1,1 @@
+{"index": 246810, "D": "the act, process, or fact of moving from a higher to a lower position.", "S": [], "A": []}

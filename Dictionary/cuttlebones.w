@@ -1,0 +1,1 @@
+{"index": 75864, "D": "the calcareous internal shell of cuttlefishes,  used to make powder for polishing and fed to canaries and other pet birds to supply their diet with lime.", "S": [], "A": []}

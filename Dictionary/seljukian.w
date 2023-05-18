@@ -1,0 +1,1 @@
+{"index": 283571, "D": "noting or pertaining to any of several Turkish dynasties that ruled over large parts of Asia from the 11th to the 13th centuries.", "S": [], "A": []}

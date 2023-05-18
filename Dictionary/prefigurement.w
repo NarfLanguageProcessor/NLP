@@ -1,0 +1,1 @@
+{"index": 247578, "D": "to show or represent beforehand by a figure or type; foreshadow.", "S": ["augury ", "auspice ", "bodement ", "boding ", "foreboding ", "forerunner ", "foretoken ", "harbinger ", "indication ", "portent ", "premonition ", "presage ", "prognostic ", "prognostication ", "prophecy ", "sign ", "straw ", "warning ", "writing ", "writing on the wall "], "A": []}

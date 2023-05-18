@@ -1,0 +1,1 @@
+{"index": 325976, "D": "a specimen from the locality at which the type was first collected.", "S": [], "A": []}

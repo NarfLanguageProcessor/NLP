@@ -1,0 +1,1 @@
+{"index": 167175, "D": "to put (something) on or in, as a burden, load, or cargo; load.", "S": [], "A": []}

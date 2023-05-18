@@ -1,0 +1,1 @@
+{"index": 204810, "D": "the policy or practice of refraining from interference,  especially in political affairs.", "S": ["free trade "], "A": []}

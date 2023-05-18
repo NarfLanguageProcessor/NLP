@@ -1,0 +1,1 @@
+{"index": 268568, "D": "to print  again; print  a new impression of.", "S": ["album ", "booklet ", "brochure ", "copy ", "dictionary ", "edition ", "essay ", "fiction ", "magazine ", "manual ", "novel ", "pamphlet ", "paperback ", "publication ", "text ", "textbook ", "tome ", "volume ", "work ", "writing "], "A": []}

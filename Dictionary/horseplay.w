@@ -1,0 +1,1 @@
+{"index": 144058, "D": "rough or boisterous play  or pranks.", "S": ["hijinks ", "misbehavior ", "rowdiness "], "A": []}

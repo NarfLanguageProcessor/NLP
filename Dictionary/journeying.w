@@ -1,0 +1,1 @@
+{"index": 161902, "D": "a traveling from one place to another, usually taking a rather long time; trip", "S": ["nomadic ", "peripatetic ", "roving ", "wandering "], "A": ["settled "]}

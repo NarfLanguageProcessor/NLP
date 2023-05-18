@@ -1,0 +1,1 @@
+{"index": 345000, "D": "in or relating to a single series", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311582, "D": "corresponding in form, nature, or character; similar.", "S": [], "A": []}

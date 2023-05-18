@@ -1,0 +1,1 @@
+{"index": 338400, "D": "to cover or coat with soft, adhesive matter, as plaster or mud", "S": [], "A": []}

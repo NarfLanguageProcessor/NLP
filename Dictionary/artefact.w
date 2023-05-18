@@ -1,0 +1,1 @@
+{"index": 20458, "D": "something made or given shape by man, such as a tool or a work of art, esp an object of archaeological interest", "S": [], "A": []}

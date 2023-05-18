@@ -1,0 +1,1 @@
+{"index": 22161, "D": "variant of astro-  before a vowel.", "S": [], "A": []}

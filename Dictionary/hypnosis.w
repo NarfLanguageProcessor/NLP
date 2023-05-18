@@ -1,0 +1,1 @@
+{"index": 140726, "D": "an artificially induced trance state resembling sleep, characterized by heightened susceptibility to suggestion.", "S": ["opiate "], "A": ["analeptic ", "stimulant "]}

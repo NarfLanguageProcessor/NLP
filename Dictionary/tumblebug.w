@@ -1,0 +1,1 @@
+{"index": 332267, "D": "any of several dung beetles that roll balls of dung in which they deposit their eggs and in which the young develop.", "S": [], "A": []}

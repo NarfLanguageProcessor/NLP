@@ -1,0 +1,1 @@
+{"index": 292958, "D": "a slap, smack, or blow, especially one given with the open hand.", "S": ["berate ", "castigate ", "censure ", "flog ", "lash ", "punish ", "upbraid "], "A": ["compliment ", "laud ", "praise ", "aid ", "assist ", "guard ", "help ", "lose ", "protect ", "surrender "]}

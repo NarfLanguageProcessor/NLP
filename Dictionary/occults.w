@@ -1,0 +1,1 @@
+{"index": 210734, "D": "of or relating to magic, astrology, or any system claiming use or knowledge of secret or supernatural powers or agencies.", "S": ["conundrum ", "enigma ", "problem ", "question ", "riddle ", "secrecy ", "subtlety ", "thriller "], "A": ["known ", "understanding "]}

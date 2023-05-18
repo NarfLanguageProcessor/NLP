@@ -1,0 +1,1 @@
+{"index": 343303, "D": "simple past tense and past participle of groove. ", "S": [], "A": []}

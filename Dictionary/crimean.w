@@ -1,0 +1,1 @@
+{"index": 72944, "D": "of or relating to the Crimea or its inhabitants", "S": [], "A": []}

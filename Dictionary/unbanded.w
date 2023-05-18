@@ -1,0 +1,1 @@
+{"index": 335581, "D": "marked or fitted with a band  or bands. ", "S": [], "A": []}

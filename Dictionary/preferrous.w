@@ -1,0 +1,1 @@
+{"index": 247553, "D": "of or containing iron, especially in the bivalent state.", "S": [], "A": []}

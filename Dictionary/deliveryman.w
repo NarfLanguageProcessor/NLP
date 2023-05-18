@@ -1,0 +1,1 @@
+{"index": 80194, "D": "a person employed to make deliveries  of merchandise to purchasers, usually by means of a truck.", "S": [], "A": []}

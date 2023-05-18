@@ -1,0 +1,1 @@
+{"index": 114724, "D": "to court triflingly or act amorously without serious intentions; play at love; coquet.", "S": ["coquette ", "cruiser ", "heartbreaker ", "operator ", "philanderer ", "player ", "seducer ", "siren ", "swinger ", "tease ", "trifler ", "vamp ", "vixen ", "wanton ", "wolf "], "A": []}

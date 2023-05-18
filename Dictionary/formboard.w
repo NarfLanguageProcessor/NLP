@@ -1,0 +1,1 @@
+{"index": 117407, "D": "a board  or slab serving as a form  for poured concrete.", "S": [], "A": []}

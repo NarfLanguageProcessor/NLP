@@ -1,0 +1,1 @@
+{"index": 135037, "D": "the number seven.", "S": ["heptad ", "septenary "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 276205, "D": "an instrument for measuring the amount of sugar in a solution, as by determining the specific gravity of the solution.", "S": [], "A": []}

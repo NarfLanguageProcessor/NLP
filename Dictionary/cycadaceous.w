@@ -1,0 +1,1 @@
+{"index": 56976, "D": "belonging or pertaining to the order Cycadales.", "S": [], "A": []}

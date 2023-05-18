@@ -1,0 +1,1 @@
+{"index": 118650, "D": "any of several plants belonging to the genus Freesia, of the iris family, native to southern Africa, having fragrant white, yellow, or sometimes rose-colored, tubular flowers.", "S": [], "A": []}

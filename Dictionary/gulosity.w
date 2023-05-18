@@ -1,0 +1,1 @@
+{"index": 131231, "D": "gluttony or greediness.", "S": [], "A": []}

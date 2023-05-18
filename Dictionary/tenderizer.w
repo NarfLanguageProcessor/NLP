@@ -1,0 +1,1 @@
+{"index": 318759, "D": "a substance, such as the plant enzyme papain, rubbed onto meat to soften the fibres and make it more tender", "S": [], "A": []}

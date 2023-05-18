@@ -1,0 +1,1 @@
+{"index": 106798, "D": "relating to or causing excommunication.", "S": [], "A": []}

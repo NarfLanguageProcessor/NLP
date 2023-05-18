@@ -1,0 +1,1 @@
+{"index": 163571, "D": "a person, esp a student, who is keen, enthusiastic, or zealous", "S": ["pallbearer "], "A": []}

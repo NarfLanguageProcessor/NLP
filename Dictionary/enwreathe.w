@@ -1,0 +1,1 @@
+{"index": 101893, "D": "to surround or encircle with or as with a wreath.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 350658, "D": "characterized by or requiring a sitting posture", "S": [], "A": []}

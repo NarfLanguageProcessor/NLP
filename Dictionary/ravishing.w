@@ -1,0 +1,1 @@
+{"index": 261307, "D": "extremely beautiful or attractive; enchanting; entrancing. ", "S": ["alluring ", "captivating ", "dazzling ", "enchanting ", "enticing ", "gorgeous ", "lovely ", "seductive ", "stunning "], "A": ["homely ", "ugly "]}

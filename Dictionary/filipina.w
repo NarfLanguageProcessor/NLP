@@ -1,0 +1,1 @@
+{"index": 112667, "D": "of or relating to female inhabitants of the Philippines or to women or girls of Philippine origin or descent; Philippine", "S": [], "A": []}

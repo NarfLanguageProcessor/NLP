@@ -1,0 +1,1 @@
+{"index": 174902, "D": "a long rope used to guide a horse during training or exercise.", "S": [], "A": []}

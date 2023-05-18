@@ -1,0 +1,1 @@
+{"index": 367527, "D": "a man employed or skilled in some form of manual, mechanical, or industrial work. ", "S": ["drudge ", "farmhand ", "grunt ", "hand ", "hireling ", "operative ", "peon ", "worker ", "workingman "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 284799, "D": "partly or to some degree public. ", "S": [], "A": []}

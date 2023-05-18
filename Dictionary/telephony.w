@@ -1,0 +1,1 @@
+{"index": 318175, "D": "the construction or operation of telephones  or telephonic  systems.", "S": ["transmission ", "wireless "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 104588, "D": "(in Spanish America) a landed estate or a cattle ranch.", "S": [], "A": []}

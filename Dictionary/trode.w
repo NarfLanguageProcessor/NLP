@@ -1,0 +1,1 @@
+{"index": 330976, "D": "archaic a past tense of tread", "S": [], "A": []}

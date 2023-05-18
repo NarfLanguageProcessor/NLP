@@ -1,0 +1,1 @@
+{"index": 354272, "D": "sweetly or innocently charming; winning;  engaging", "S": [], "A": []}

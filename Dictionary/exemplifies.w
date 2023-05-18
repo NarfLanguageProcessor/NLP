@@ -1,0 +1,1 @@
+{"index": 107022, "D": "to show or illustrate by example. ", "S": ["demonstrate ", "depict ", "elucidate ", "embody ", "epitomize ", "illuminate ", "illustrate ", "manifest ", "mirror ", "personify ", "represent ", "spell out ", "symbolize ", "typify "], "A": ["conceal ", "confuse ", "distort ", "hide ", "mix up ", "obscure ", "cover "]}

@@ -1,0 +1,1 @@
+{"index": 147822, "D": "imitating;  copying; given to imitation. ", "S": ["counterfeit ", "echoic ", "onomatopoeic "], "A": ["different ", "genuine ", "original "]}

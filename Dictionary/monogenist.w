@@ -1,0 +1,1 @@
+{"index": 192322, "D": "the theory that the human race has descended from a single pair of individuals or a single ancestral type.", "S": [], "A": []}

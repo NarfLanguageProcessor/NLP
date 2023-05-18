@@ -1,0 +1,1 @@
+{"index": 91674, "D": "a person who uses a dory,  especially a person who engages in fishing, lobstering, etc.", "S": [], "A": []}

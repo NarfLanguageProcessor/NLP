@@ -1,0 +1,1 @@
+{"index": 295763, "D": "the part of an animal's head projecting forward and containing the nose and jaws; muzzle.", "S": [], "A": []}

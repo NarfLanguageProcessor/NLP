@@ -1,0 +1,1 @@
+{"index": 195241, "D": "having many phases,  stages, aspects, or the like.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 73985, "D": "the black or reddish berry of a heathlike, evergreen shrub, Empetrum nigrum, of northern regions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 55944, "D": "one of a Chinese breed of medium-sized dogs having a thick black, blue, red, or cream coat and a blue-black tongue.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 220619, "D": "the state of being preoccupied. ", "S": [], "A": []}

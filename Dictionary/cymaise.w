@@ -1,0 +1,1 @@
+{"index": 57447, "D": "a pewter wine jar having a spout, a fixed handle on the side opposite the spout, and a bail for carrying.", "S": [], "A": []}

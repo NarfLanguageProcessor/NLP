@@ -1,0 +1,1 @@
+{"index": 39324, "D": "bytes per inch.", "S": [], "A": []}

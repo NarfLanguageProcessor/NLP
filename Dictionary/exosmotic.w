@@ -1,0 +1,1 @@
+{"index": 107483, "D": "osmosis toward the outside of a cell or vessel.", "S": [], "A": []}

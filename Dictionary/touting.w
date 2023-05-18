@@ -1,0 +1,1 @@
+{"index": 326705, "D": "the act of vigorously and boastfully describing, advertising, or promoting something or someone, especially in a persistent or annoying way", "S": ["advertisement ", "buildup ", "hoopla ", "hype ", "plug ", "promotion ", "publicity "], "A": []}

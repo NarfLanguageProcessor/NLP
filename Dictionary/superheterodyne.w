@@ -1,0 +1,1 @@
+{"index": 311975, "D": "denoting, pertaining to, or using a method of processing received radio or video signals in which an incoming modulated wave is changed by the heterodyne  process into a lower-frequency wave and then subjected to amplification and subsequent detection.", "S": [], "A": []}

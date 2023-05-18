@@ -1,0 +1,1 @@
+{"index": 163259, "D": "a revolving escapement for minimizing positional error.", "S": [], "A": []}

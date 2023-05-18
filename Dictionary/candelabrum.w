@@ -1,0 +1,1 @@
+{"index": 46147, "D": "an ornamental branched holder for more than one candle.", "S": ["candelabra ", "sconce "], "A": []}

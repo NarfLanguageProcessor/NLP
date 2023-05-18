@@ -1,0 +1,1 @@
+{"index": 222288, "D": "the process or result of oxidizing. ", "S": ["ignition "], "A": ["calm ", "order ", "peace "]}

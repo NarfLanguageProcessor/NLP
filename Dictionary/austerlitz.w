@@ -1,0 +1,1 @@
+{"index": 23706, "D": "a town in S Moravia, in the SE Czech Republic", "S": [], "A": []}

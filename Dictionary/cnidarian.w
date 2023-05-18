@@ -1,0 +1,1 @@
+{"index": 60781, "D": "any invertebrate animal, as a hydra, jellyfish, sea anemone, or coral, considered as belonging to the phylum Cnidaria,  characterized by the specialized stinging structures in the tentacles surrounding the mouth; a coelenterate.", "S": [], "A": []}

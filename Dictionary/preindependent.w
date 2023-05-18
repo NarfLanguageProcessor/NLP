@@ -1,0 +1,1 @@
+{"index": 247940, "D": "not influenced or controlled by others in matters of opinion, conduct, etc.; thinking or acting for oneself", "S": [], "A": []}

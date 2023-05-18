@@ -1,0 +1,1 @@
+{"index": 209905, "D": "any of various devices providing a pivot for an oar in rowing, especially a swiveling, crutchlike or ringlike metal device projecting above a gunwale.", "S": [], "A": []}

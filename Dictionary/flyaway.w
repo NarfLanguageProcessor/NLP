@@ -1,0 +1,1 @@
+{"index": 114528, "D": "fluttering or streaming in the wind; windblown", "S": [], "A": []}

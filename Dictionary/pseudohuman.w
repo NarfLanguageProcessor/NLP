@@ -1,0 +1,1 @@
+{"index": 254806, "D": "of, relating to, characteristic of, or having the nature of people", "S": [], "A": []}

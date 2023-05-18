@@ -1,0 +1,1 @@
+{"index": 273188, "D": "excellent; splendid; fine.", "S": ["astonishing ", "boss ", "cool ", "divine ", "keen ", "prime ", "primo ", "rewarding ", "satisfying ", "smashing ", "swell "], "A": ["dull "]}

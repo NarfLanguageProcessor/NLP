@@ -1,0 +1,1 @@
+{"index": 128249, "D": "idle talk or rumor, especially about the personal or private affairs of others", "S": ["buzz ", "chatter ", "chitchat ", "conversation ", "hearsay ", "news ", "scandal ", "slander ", "tale "], "A": ["quiet ", "silence "]}

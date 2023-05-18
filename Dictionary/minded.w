@@ -1,0 +1,1 @@
+{"index": 187704, "D": "having a certain kind of mind  (usually used in combination)", "S": ["determined ", "inclined "], "A": ["unwilling "]}

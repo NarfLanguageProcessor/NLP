@@ -1,0 +1,1 @@
+{"index": 39643, "D": "to use boastful language; boast", "S": ["aloof ", "bossy ", "cavalier ", "cocky ", "haughty ", "imperious ", "pompous ", "presumptuous ", "pretentious ", "smug ", "vain "], "A": ["humble ", "modest ", "shy ", "timid ", "unsure "]}

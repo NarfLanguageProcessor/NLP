@@ -1,0 +1,1 @@
+{"index": 68015, "D": "familiar by use or study (usually followed by with)", "S": [], "A": []}

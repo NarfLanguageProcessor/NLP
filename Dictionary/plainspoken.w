@@ -1,0 +1,1 @@
+{"index": 238803, "D": "candid; frank; blunt.", "S": ["blunt ", "candid ", "forthright ", "guileless ", "honest ", "matter-of-fact ", "naive ", "outspoken ", "straightforward "], "A": ["artful ", "deceitful ", "devious ", "dishonest ", "lying ", "tactful ", "tricky ", "untruthful "]}

@@ -1,0 +1,1 @@
+{"index": 200384, "D": "a salt or ester of nitrous acid.", "S": [], "A": []}

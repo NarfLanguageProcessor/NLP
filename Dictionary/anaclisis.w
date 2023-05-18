@@ -1,0 +1,1 @@
+{"index": 11550, "D": "the choice of an object of libidinal attachment on the basis of a resemblance to early childhood protective and parental figures.", "S": [], "A": []}

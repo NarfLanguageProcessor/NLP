@@ -1,0 +1,1 @@
+{"index": 135128, "D": "a person who harasses a public speaker or performer with impertinent questions, insults, etc.", "S": ["dissident ", "militant ", "radical ", "rebel "], "A": []}

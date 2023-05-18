@@ -1,0 +1,1 @@
+{"index": 178264, "D": "(of a state or other political unit) poorly apportioned, especially divided, organized, or structured in a manner that prevents large sections of a population from having equitable representation in a legislative body.", "S": [], "A": []}

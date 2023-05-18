@@ -1,0 +1,1 @@
+{"index": 360983, "D": "having a voice,  especially a loud voice;  sounding; sonorous.", "S": [], "A": []}

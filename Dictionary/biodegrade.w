@@ -1,0 +1,1 @@
+{"index": 34329, "D": "to decay and become absorbed by the environment", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 213298, "D": "a person engaged, employed, or skilled in some branch of work, especially productive or industrial work; worker.", "S": ["cadre ", "crew ", "faculty ", "force ", "organization ", "personnel ", "team ", "work force "], "A": ["incompetence "]}

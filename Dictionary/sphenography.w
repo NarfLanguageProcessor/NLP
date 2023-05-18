@@ -1,0 +1,1 @@
+{"index": 299461, "D": "the art of writing in cuneiform characters.", "S": [], "A": []}

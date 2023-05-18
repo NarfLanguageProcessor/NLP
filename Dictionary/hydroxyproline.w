@@ -1,0 +1,1 @@
+{"index": 139051, "D": "a nutritionally nonessential amino acid, C5H9NO3, found chiefly in collagen.", "S": [], "A": []}

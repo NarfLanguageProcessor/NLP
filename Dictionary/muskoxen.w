@@ -1,0 +1,1 @@
+{"index": 196082, "D": "a bovine ruminant, Ovibos moschatus, of Arctic regions of North America and Greenland, that is between an ox and a sheep in size and anatomy.", "S": [], "A": []}

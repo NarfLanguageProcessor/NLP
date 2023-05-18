@@ -1,0 +1,1 @@
+{"index": 5319, "D": "fond attachment, devotion, or love", "S": [], "A": []}

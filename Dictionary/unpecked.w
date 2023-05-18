@@ -1,0 +1,1 @@
+{"index": 347591, "D": "to strike or indent with the beak, as a bird does, or with some pointed instrument, especially with quick, repeated movements.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 330339, "D": "having or existing in three phases. ", "S": [], "A": []}

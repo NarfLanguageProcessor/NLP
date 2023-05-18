@@ -1,0 +1,1 @@
+{"index": 60641, "D": "a deformed or distorted hand,  similar in nature to a clubfoot.", "S": [], "A": []}

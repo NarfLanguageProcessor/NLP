@@ -1,0 +1,1 @@
+{"index": 312732, "D": "an overlying stratum or layer.", "S": ["coating ", "facade ", "skin ", "surface "], "A": ["core ", "interior ", "middle ", "center ", "inside "]}

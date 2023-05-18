@@ -1,0 +1,1 @@
+{"index": 99168, "D": "(of a beam) fixed at the ends; built into its supports", "S": [], "A": []}

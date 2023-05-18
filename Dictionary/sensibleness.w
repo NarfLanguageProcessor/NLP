@@ -1,0 +1,1 @@
+{"index": 285368, "D": "having, using, or showing good sense  or sound judgment", "S": ["acumen ", "good sense ", "insight ", "intelligence ", "judgment ", "logic ", "practicality ", "prudence ", "rationality ", "sense ", "sound judgment ", "wisdom ", "wit "], "A": ["ignorance ", "ineptness ", "irrationality ", "stupidity "]}

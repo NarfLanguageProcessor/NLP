@@ -1,0 +1,1 @@
+{"index": 238108, "D": "(used as an exclamation of mild contempt or impatience.)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 356251, "D": "to give audible expression to; speak or pronounce", "S": ["pure ", "sheer ", "unmitigated "], "A": ["indefinite ", "mixed ", "uncertain ", "imperfect ", "incomplete ", "unfinished "]}

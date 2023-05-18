@@ -1,0 +1,1 @@
+{"index": 187772, "D": "a variant of miniver. ", "S": [], "A": []}

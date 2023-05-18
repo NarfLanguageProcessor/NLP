@@ -1,0 +1,1 @@
+{"index": 292658, "D": "the act of a person or thing that sits.", "S": ["conference ", "discussion ", "hearing ", "period ", "term "], "A": []}

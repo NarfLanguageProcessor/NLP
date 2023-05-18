@@ -1,0 +1,1 @@
+{"index": 336417, "D": "to arch slightly; bend or curve upward in the middle.", "S": [], "A": []}

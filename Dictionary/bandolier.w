@@ -1,0 +1,1 @@
+{"index": 27366, "D": "a soldier's broad shoulder belt having small pockets or loops for cartridges", "S": [], "A": []}

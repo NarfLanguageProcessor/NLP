@@ -1,0 +1,1 @@
+{"index": 153681, "D": "lack of sobriety  or moderation; intemperance; drunkenness.", "S": ["alcoholism ", "boozing ", "crapulence ", "dipsomania ", "inebriation ", "inebriety ", "intemperance ", "intoxication ", "tipsiness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108390, "D": "to praise highly; laud; eulogize", "S": ["admiring ", "approbatory ", "approving ", "commendatory ", "congratulatory ", "laudatory ", "praising "], "A": []}

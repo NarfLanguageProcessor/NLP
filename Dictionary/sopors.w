@@ -1,0 +1,1 @@
+{"index": 297472, "D": "a deep, unnatural sleep; lethargy.", "S": ["coma ", "slumber ", "trance "], "A": ["consciousness ", "wakefulness ", "activity ", "interest ", "life ", "liveliness "]}

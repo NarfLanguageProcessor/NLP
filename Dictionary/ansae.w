@@ -1,0 +1,1 @@
+{"index": 13935, "D": "a looped handle, especially of a vase.", "S": [], "A": []}

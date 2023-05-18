@@ -1,0 +1,1 @@
+{"index": 64015, "D": "the principles, practices, and spirit of commerce.", "S": [], "A": []}

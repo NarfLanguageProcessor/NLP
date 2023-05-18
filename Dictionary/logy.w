@@ -1,0 +1,1 @@
+{"index": 174601, "D": "lacking physical or mental energy or vitality; sluggish; dull; lethargic.", "S": [], "A": []}

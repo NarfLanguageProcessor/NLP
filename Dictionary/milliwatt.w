@@ -1,0 +1,1 @@
+{"index": 187460, "D": "a unit of power equal to one thousandth of a watt. Abbreviation", "S": [], "A": []}

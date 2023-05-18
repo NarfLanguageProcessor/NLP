@@ -1,0 +1,1 @@
+{"index": 226438, "D": "of or relating to different eyepieces (of telescopes or microscopes) that all focus their images in the same plane, so that they can be interchanged without readjusting the instrument.", "S": [], "A": []}

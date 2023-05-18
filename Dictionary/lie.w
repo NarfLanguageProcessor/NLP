@@ -1,0 +1,1 @@
+{"index": 171801, "D": "a false statement made with deliberate intent to deceive; an intentional untruth. ", "S": ["deceit ", "deception ", "dishonesty ", "disinformation ", "distortion ", "evasion ", "fabrication ", "falsehood ", "fiction ", "forgery ", "inaccuracy ", "misrepresentation ", "myth ", "perjury ", "slander ", "tale "], "A": ["nonfiction ", "truth "]}

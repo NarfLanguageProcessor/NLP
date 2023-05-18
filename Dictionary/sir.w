@@ -1,0 +1,1 @@
+{"index": 292308, "D": "a respectful or formal term of address used to a man", "S": ["mister "], "A": ["madam "]}

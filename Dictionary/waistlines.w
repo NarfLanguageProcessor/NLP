@@ -1,0 +1,1 @@
+{"index": 362066, "D": "the circumference of the body at the waist", "S": ["midriff "], "A": []}

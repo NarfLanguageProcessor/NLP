@@ -1,0 +1,1 @@
+{"index": 118582, "D": "a person who goes about in search of plunder; pirate; buccaneer.", "S": ["bandit ", "desperado ", "footpad ", "highwayman ", "marauder ", "outlaw ", "pillager ", "pirate ", "robber ", "soldier ", "thief "], "A": []}

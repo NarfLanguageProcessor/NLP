@@ -1,0 +1,1 @@
+{"index": 149853, "D": "an individual occurrence or event.", "S": ["action ", "design ", "movement ", "narrative ", "scenario ", "scene ", "scheme ", "story ", "structure ", "theme "], "A": ["cessation ", "inaction ", "inactivity ", "stoppage ", "decline ", "decrease "]}

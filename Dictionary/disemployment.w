@@ -1,0 +1,1 @@
+{"index": 87907, "D": "to put out of work; cause to become unemployed.", "S": [], "A": []}

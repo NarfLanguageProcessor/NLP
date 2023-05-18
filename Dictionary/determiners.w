@@ -1,0 +1,1 @@
+{"index": 83178, "D": "a person or thing that determines. ", "S": [], "A": []}

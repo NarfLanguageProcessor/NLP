@@ -1,0 +1,1 @@
+{"index": 153441, "D": "something inscribed.", "S": ["caption ", "engraving ", "epitaph ", "lettering ", "signature "], "A": []}

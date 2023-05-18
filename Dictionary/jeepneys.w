@@ -1,0 +1,1 @@
+{"index": 160738, "D": "a Philippine twin-benched jitney bus, seating about a dozen passengers.", "S": [], "A": []}

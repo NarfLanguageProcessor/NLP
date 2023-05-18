@@ -1,0 +1,1 @@
+{"index": 180938, "D": "carcinoma  of the breast.", "S": [], "A": []}

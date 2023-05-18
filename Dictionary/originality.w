@@ -1,0 +1,1 @@
+{"index": 214600, "D": "the quality or state of being original. ", "S": ["boldness ", "brilliance ", "cleverness ", "daring ", "freshness ", "imagination ", "individuality ", "ingenuity ", "innovation ", "inventiveness ", "resourcefulness ", "spirit "], "A": ["being ", "reality "]}

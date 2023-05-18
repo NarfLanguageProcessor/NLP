@@ -1,0 +1,1 @@
+{"index": 295642, "D": "condescending, patronizing, or socially exclusive; snobbish.", "S": [], "A": []}

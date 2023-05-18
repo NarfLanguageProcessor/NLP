@@ -1,0 +1,1 @@
+{"index": 141031, "D": "abnormally slow motility, as of the stomach or intestine (opposed to hypermotility).", "S": [], "A": []}

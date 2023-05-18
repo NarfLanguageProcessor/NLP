@@ -1,0 +1,1 @@
+{"index": 192683, "D": "(of an electric or electronic circuit) having only one stable  state.", "S": [], "A": []}

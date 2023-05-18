@@ -1,0 +1,1 @@
+{"index": 167034, "D": "an enzyme capable of hydrolyzing lactose into glucose and galactose.", "S": [], "A": []}

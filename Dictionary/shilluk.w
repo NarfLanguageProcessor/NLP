@@ -1,0 +1,1 @@
+{"index": 288303, "D": "a member of a Nilotic people of Sudan.", "S": [], "A": []}

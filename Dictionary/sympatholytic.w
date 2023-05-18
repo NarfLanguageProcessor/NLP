@@ -1,0 +1,1 @@
+{"index": 290965, "D": "opposing the effects of stimulation of the sympathetic  nervous system.", "S": [], "A": []}

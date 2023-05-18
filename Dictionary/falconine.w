@@ -1,0 +1,1 @@
+{"index": 109435, "D": "of, relating to, or resembling a falcon", "S": [], "A": []}

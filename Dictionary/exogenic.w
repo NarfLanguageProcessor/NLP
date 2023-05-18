@@ -1,0 +1,1 @@
+{"index": 107364, "D": "arising from or relating to the surface of the earth (opposed to endogenetic).", "S": [], "A": []}

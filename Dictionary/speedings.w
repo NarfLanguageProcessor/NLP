@@ -1,0 +1,1 @@
+{"index": 299027, "D": "the act or practice of exceeding the speed limit", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 180476, "D": "any of several slender, chiefly arboreal carnivores of the genus Martes, of northern forests, having a long, glossy coat and bushy tail.", "S": [], "A": []}

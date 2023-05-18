@@ -1,0 +1,1 @@
+{"index": 369253, "D": "having bilateral symmetry; divisible lengthwise into similar or symmetrical halves.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 56696, "D": "of or appropriate for the church  or a church;  ecclesiastical", "S": [], "A": []}

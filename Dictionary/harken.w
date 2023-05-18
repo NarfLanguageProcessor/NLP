@@ -1,0 +1,1 @@
+{"index": 133774, "D": "hearken. ", "S": ["accept ", "admit ", "attend ", "get ", "observe ", "take notice ", "tune in "], "A": ["deny ", "dispute ", "ignore ", "miss ", "refuse ", "reject ", "disobey ", "disregard ", "forget ", "neglect ", "turn away "]}

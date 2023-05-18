@@ -1,0 +1,1 @@
+{"index": 153492, "D": "feeding on insects, especially when they constitute the entire diet, as in the case of many arachnids, birds, and small mammals.", "S": [], "A": []}

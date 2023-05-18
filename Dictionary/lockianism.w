@@ -1,0 +1,1 @@
+{"index": 174368, "D": "an adherent of the philosophy of Locke.", "S": [], "A": []}

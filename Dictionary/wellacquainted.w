@@ -1,0 +1,1 @@
+{"index": 364008, "D": "having personal knowledge as a result of study, experience, etc.; informed (usually followed by with)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 15796, "D": "a natural, basic, or habitual repugnance; aversion.", "S": ["animosity ", "animus ", "antagonism ", "aversion ", "disgust ", "dislike ", "distaste ", "enmity ", "hatred ", "hostility ", "ill will ", "loathing ", "rancor "], "A": ["friendliness ", "friendship ", "good will ", "kindness ", "liking ", "love ", "loving ", "sympathy ", "meeting "]}

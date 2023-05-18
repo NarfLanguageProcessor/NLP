@@ -1,0 +1,1 @@
+{"index": 238743, "D": "a person or thing that plays. ", "S": ["list ", "troupe "], "A": ["catch ", "keeping ", "retention "]}

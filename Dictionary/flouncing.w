@@ -1,0 +1,1 @@
+{"index": 115137, "D": "material used in making flounces. ", "S": ["fling ", "jerk ", "mince ", "prance ", "sashay ", "stamp ", "storm ", "strut "], "A": []}

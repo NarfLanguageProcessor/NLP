@@ -1,0 +1,1 @@
+{"index": 287603, "D": "broken into many small pieces", "S": ["busted ", "collapsed ", "cracked ", "crippled ", "crumbled ", "crushed ", "damaged ", "defective ", "demolished ", "fractured ", "fragmented ", "injured ", "mangled ", "mutilated ", "ruptured ", "severed ", "smashed "], "A": ["perfect ", "unbroken "]}

@@ -1,0 +1,1 @@
+{"index": 65441, "D": "a growing together, as of tissue or embryonic parts; coalescence.", "S": [], "A": []}

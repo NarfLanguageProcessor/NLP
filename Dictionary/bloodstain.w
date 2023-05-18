@@ -1,0 +1,1 @@
+{"index": 36479, "D": "a spot or stain made by blood.", "S": [], "A": []}

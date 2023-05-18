@@ -1,0 +1,1 @@
+{"index": 238633, "D": "a sandy bathing beach at a seashore resort.", "S": [], "A": []}

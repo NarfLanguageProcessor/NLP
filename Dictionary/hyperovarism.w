@@ -1,0 +1,1 @@
+{"index": 140364, "D": "precocious sexuality in girls due to abnormally heavy ovarian secretion.", "S": [], "A": []}

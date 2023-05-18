@@ -1,0 +1,1 @@
+{"index": 23420, "D": "first Roman emperor 27 b.c.\u2013a.d. 14", "S": [], "A": []}

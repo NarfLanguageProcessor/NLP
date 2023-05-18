@@ -1,0 +1,1 @@
+{"index": 143591, "D": "a ruffian or hoodlum.", "S": ["aggro ", "breach of peace ", "disorder ", "disorderliness ", "disorderly behavior ", "disruption ", "disruptiveness ", "disturbance of the peace ", "hoodlumism ", "riotousness ", "rowdiness ", "rowdyism ", "ruffianism "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 366903, "D": "any large fish  of the genus Anarhichas, as A. lupus of the northern Atlantic, allied to the blenny and noted for its ferocious appearance and habits.", "S": [], "A": []}

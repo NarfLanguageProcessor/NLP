@@ -1,0 +1,1 @@
+{"index": 131141, "D": "a stringed musical instrument with a long, fretted neck, a flat, somewhat violinlike body, and typically six strings, which are plucked with the fingers or with a plectrum.", "S": [], "A": []}

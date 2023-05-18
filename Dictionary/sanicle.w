@@ -1,0 +1,1 @@
+{"index": 277941, "D": "any plant belonging to the genus Sanicula, of the parsley family, as S. marilandica, of America, used in medicine.", "S": [], "A": []}

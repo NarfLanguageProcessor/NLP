@@ -1,0 +1,1 @@
+{"index": 293858, "D": "a large heavy hammer  wielded with both hands.", "S": [], "A": []}

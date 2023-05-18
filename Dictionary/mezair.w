@@ -1,0 +1,1 @@
+{"index": 185567, "D": "a movement in which the horse makes a series of short jumps forward while standing on its hind legs.", "S": [], "A": []}

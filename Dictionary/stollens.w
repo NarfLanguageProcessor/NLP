@@ -1,0 +1,1 @@
+{"index": 305069, "D": "a sweetened bread made from raised dough, usually containing nuts, raisins, and citron.", "S": [], "A": []}

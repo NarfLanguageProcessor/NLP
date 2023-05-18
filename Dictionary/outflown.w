@@ -1,0 +1,1 @@
+{"index": 216652, "D": "to surpass in flying,  especially in speed or distance", "S": [], "A": []}

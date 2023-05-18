@@ -1,0 +1,1 @@
+{"index": 102816, "D": "bacterial DNA that is extrachromosomal and that may replicate autonomously as a plasmid or become incorporated into the chromosome and replicate with it.", "S": [], "A": []}

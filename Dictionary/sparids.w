@@ -1,0 +1,1 @@
+{"index": 298426, "D": "any of numerous fishes of the family Sparidae, chiefly inhabiting tropical and subtropical seas, comprising the porgies, the scups, etc.", "S": [], "A": []}

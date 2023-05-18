@@ -1,0 +1,1 @@
+{"index": 295212, "D": "a tooth growing out beyond or apart from others.", "S": [], "A": []}

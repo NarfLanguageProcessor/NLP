@@ -1,0 +1,1 @@
+{"index": 229224, "D": "the hair, fur, wool, or other soft covering of a mammal.", "S": [], "A": []}

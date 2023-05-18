@@ -1,0 +1,1 @@
+{"index": 313033, "D": "giving support. ", "S": ["abetting ", "accessory ", "adjuvant ", "ancillary ", "appurtenant ", "assistant ", "backup ", "collateral ", "complementary ", "contributory ", "extra ", "reserve ", "secondary ", "spare ", "subordinate ", "subservient ", "subsidiary ", "supporting "], "A": []}

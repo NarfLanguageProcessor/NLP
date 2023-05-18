@@ -1,0 +1,1 @@
+{"index": 281011, "D": "of or relating to the sclera.", "S": ["debilitated ", "disabled ", "paralyzed ", "shaking ", "sick ", "trembling "], "A": ["healthy "]}

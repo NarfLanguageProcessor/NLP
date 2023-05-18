@@ -1,0 +1,1 @@
+{"index": 349882, "D": "a critical article or report, as in a periodical, on a book, play, recital, or the like; critique; evaluation.", "S": [], "A": []}

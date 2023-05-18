@@ -1,0 +1,1 @@
+{"index": 213918, "D": "of the nature of, resembling, or suggesting an oracle", "S": [], "A": []}

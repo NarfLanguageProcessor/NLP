@@ -1,0 +1,1 @@
+{"index": 76853, "D": "a genus of tiny, freshwater crustaceans having a transparent body, used in biological research and as food for tropical fish.", "S": [], "A": []}

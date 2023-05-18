@@ -1,0 +1,1 @@
+{"index": 9055, "D": "very attractive or tempting; enticing; seductive. ", "S": ["beguiling ", "captivating ", "charming ", "enticing ", "seductive ", "tempting "], "A": ["repulsive "]}

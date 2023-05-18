@@ -1,0 +1,1 @@
+{"index": 68252, "D": "a wood- or coal-burning stove  for use in cooking. ", "S": [], "A": []}

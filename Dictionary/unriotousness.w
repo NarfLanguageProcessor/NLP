@@ -1,0 +1,1 @@
+{"index": 349981, "D": "(of an act) characterized by or of the nature of rioting  or a disturbance of the peace.", "S": [], "A": []}

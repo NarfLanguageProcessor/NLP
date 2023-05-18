@@ -1,0 +1,1 @@
+{"index": 72092, "D": "parasympathetic. ", "S": [], "A": []}

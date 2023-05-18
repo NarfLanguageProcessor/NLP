@@ -1,0 +1,1 @@
+{"index": 343661, "D": "the handle of an ax, hatchet, hammer, or the like.", "S": [], "A": []}

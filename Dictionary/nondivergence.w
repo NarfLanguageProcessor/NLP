@@ -1,0 +1,1 @@
+{"index": 203242, "D": "the act, fact, or amount of diverging", "S": [], "A": []}

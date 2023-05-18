@@ -1,0 +1,1 @@
+{"index": 88681, "D": "to deprive of limbs; divide limb from limb", "S": ["cripple ", "dismantle ", "maim ", "mutilate ", "sever ", "sunder "], "A": ["aid ", "combine ", "help ", "repair ", "connect ", "join "]}

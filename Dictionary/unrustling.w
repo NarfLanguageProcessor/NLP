@@ -1,0 +1,1 @@
+{"index": 350176, "D": "to make a succession of slight, soft sounds, as of parts rubbing gently one on another, as leaves, silks, or papers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 169634, "D": "to incline or bend from a vertical position", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27224, "D": "an island in the W central Pacific Ocean, in the Gilbert Islands group of Kiribati.", "S": [], "A": []}

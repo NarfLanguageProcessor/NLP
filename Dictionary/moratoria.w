@@ -1,0 +1,1 @@
+{"index": 193312, "D": "a suspension of activity", "S": [], "A": []}

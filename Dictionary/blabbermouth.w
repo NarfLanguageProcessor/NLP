@@ -1,0 +1,1 @@
+{"index": 35424, "D": "a person who talks too much, especially indiscreetly.", "S": ["babbler ", "blabber ", "blowhard ", "chatterbox ", "chatterer ", "gasbag ", "gossiper ", "gossipmonger ", "jabberer ", "loudmouth ", "squealer ", "tattletale ", "windbag "], "A": []}

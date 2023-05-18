@@ -1,0 +1,1 @@
+{"index": 279715, "D": "a footing or ledge formed by a setoff in a wall.", "S": [], "A": []}

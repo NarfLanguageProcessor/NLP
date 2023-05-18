@@ -1,0 +1,1 @@
+{"index": 146493, "D": "Compare dialect (def. 1). ", "S": [], "A": []}

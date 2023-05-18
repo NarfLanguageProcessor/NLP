@@ -1,0 +1,1 @@
+{"index": 85945, "D": "a person or thing that dims.", "S": [], "A": []}

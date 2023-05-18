@@ -1,0 +1,1 @@
+{"index": 24645, "D": "to take vengeance  or exact satisfaction for", "S": ["antagonistic ", "hostile ", "vindictive "], "A": ["agreeable ", "friendly ", "kind ", "nice "]}

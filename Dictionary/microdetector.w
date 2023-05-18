@@ -1,0 +1,1 @@
+{"index": 186079, "D": "an instrument measuring small quantities or changes.", "S": [], "A": []}

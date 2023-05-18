@@ -1,0 +1,1 @@
+{"index": 143405, "D": "the act or process of sharpening something on a hone  or whetstone", "S": ["civilizing ", "clarifying ", "cleaning ", "cultivating ", "distillation ", "elevating ", "focusing ", "improving ", "perfecting ", "polishing ", "purifying ", "sharpening "], "A": []}

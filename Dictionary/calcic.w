@@ -1,0 +1,1 @@
+{"index": 44860, "D": "pertaining to or containing lime or calcium.", "S": [], "A": []}

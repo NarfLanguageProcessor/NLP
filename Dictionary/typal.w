@@ -1,0 +1,1 @@
+{"index": 324153, "D": "of, relating to, or constituting a type. ", "S": [], "A": []}

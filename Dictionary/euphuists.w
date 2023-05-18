@@ -1,0 +1,1 @@
+{"index": 105684, "D": "Compare Euphues. ", "S": [], "A": []}

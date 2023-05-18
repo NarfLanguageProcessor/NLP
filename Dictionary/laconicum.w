@@ -1,0 +1,1 @@
+{"index": 166989, "D": "the sudatorium of an ancient Roman bath.", "S": [], "A": []}

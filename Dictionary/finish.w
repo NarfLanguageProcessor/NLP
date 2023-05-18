@@ -1,0 +1,1 @@
+{"index": 113014, "D": "to bring (something) to an end or to completion; complete", "S": ["accomplishment ", "defeat ", "ending ", "finale "], "A": ["beginning ", "opening ", "start ", "birth ", "commencement ", "creation ", "failure ", "forfeit "]}

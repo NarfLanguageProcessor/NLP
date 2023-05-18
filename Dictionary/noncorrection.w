@@ -1,0 +1,1 @@
+{"index": 202531, "D": "something that is substituted or proposed for what is wrong or inaccurate; emendation.", "S": [], "A": []}

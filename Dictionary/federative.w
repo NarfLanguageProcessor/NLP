@@ -1,0 +1,1 @@
+{"index": 110827, "D": "pertaining to or of the nature of a federation.", "S": [], "A": []}

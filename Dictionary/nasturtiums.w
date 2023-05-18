@@ -1,0 +1,1 @@
+{"index": 197197, "D": "any plant of the genus Tropaeolum, cultivated for its showy, usually orange, red, or yellow flowers or for its fruit, which is pickled and used like capers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128982, "D": "to bestow or confer, especially by a formal act", "S": ["allowing ", "authorizing ", "letting ", "sanctioning ", "tolerating "], "A": []}

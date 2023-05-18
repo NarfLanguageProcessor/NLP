@@ -1,0 +1,1 @@
+{"index": 29681, "D": "(often used ironically) a person or thing that is beautiful, remarkable, or amazing", "S": ["vision "], "A": ["frump ", "schlump "]}

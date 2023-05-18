@@ -1,0 +1,1 @@
+{"index": 318742, "D": "a raw, inexperienced person; novice.", "S": [], "A": []}

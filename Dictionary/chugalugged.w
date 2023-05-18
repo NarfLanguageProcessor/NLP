@@ -1,0 +1,1 @@
+{"index": 56570, "D": "to swallow (a container of beverage) without interruption.", "S": ["consume ", "gobble ", "guzzle ", "imbibe ", "inhale ", "quaff ", "swallow ", "swig ", "swill "], "A": ["nibble "]}

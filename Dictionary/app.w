@@ -1,0 +1,1 @@
+{"index": 17531, "D": "a software application,  often a small, specialized program for mobile devices", "S": [], "A": []}

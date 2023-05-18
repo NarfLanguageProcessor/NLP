@@ -1,0 +1,1 @@
+{"index": 270385, "D": "to bear witness;  give or afford evidence.", "S": [], "A": []}

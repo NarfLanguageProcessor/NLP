@@ -1,0 +1,1 @@
+{"index": 336990, "D": "not classical;  contrary to classical  precepts.", "S": [], "A": []}

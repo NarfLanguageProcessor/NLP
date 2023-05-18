@@ -1,0 +1,1 @@
+{"index": 332439, "D": "any sessile marine chordate of the subphylum Tunicata (Urochordata), having a saclike body enclosed in a thick membrane or tunic  and two openings or siphons for the ingress and egress of water.", "S": [], "A": []}

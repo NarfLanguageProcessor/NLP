@@ -1,0 +1,1 @@
+{"index": 271460, "D": "the act of revoking;  annulment.", "S": ["abrogation ", "cancellation ", "repeal "], "A": ["approval ", "confirmation "]}

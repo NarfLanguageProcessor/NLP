@@ -1,0 +1,1 @@
+{"index": 257924, "D": "able to be measured or counted", "S": ["perceptible ", "quantitative ", "significant "], "A": ["imperceptible ", "insignificant ", "unmeasurable "]}

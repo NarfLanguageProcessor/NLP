@@ -1,0 +1,1 @@
+{"index": 288126, "D": "a long coat closed up to the neck, worn by men in India", "S": [], "A": []}

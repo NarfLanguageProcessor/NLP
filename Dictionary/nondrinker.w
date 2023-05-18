@@ -1,0 +1,1 @@
+{"index": 203294, "D": "a person who abstains from alcoholic beverages.", "S": ["teetotaler ", "teetotalist "], "A": ["drinker "]}

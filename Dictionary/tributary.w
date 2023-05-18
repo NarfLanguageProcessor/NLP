@@ -1,0 +1,1 @@
+{"index": 329282, "D": "a stream that flows to a larger stream or other body of water.", "S": ["accessory ", "dependent ", "feeding ", "minor ", "satellite ", "shoot ", "side ", "sub ", "subject ", "subordinate "], "A": ["important ", "major "]}

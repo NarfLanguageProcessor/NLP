@@ -1,0 +1,1 @@
+{"index": 86703, "D": "(no longer in technical use) a person with alcoholism or alcohol use disorder, especially characterized by an irresistible, typically periodic craving for alcoholic drinks.", "S": [], "A": []}

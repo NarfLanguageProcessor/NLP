@@ -1,0 +1,1 @@
+{"index": 120342, "D": "a nitrofuran, C8H7N3O5, that is used in the treatment of giardiasis, and bacterial gastroenteritis and dysentery.", "S": [], "A": []}

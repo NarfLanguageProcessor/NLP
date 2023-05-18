@@ -1,0 +1,1 @@
+{"index": 278742, "D": "the use of irony, sarcasm, ridicule, or the like, to expose, denounce, or deride the folly or corruption of institutions, people, or social structures", "S": ["banter ", "caricature ", "irony ", "mockery ", "parody ", "sarcasm ", "skit ", "spoof ", "wit "], "A": ["seriousness "]}

@@ -1,0 +1,1 @@
+{"index": 249895, "D": "characterized by assumption of dignity or importance, especially when exaggerated or undeserved", "S": ["arty ", "exaggerated ", "grandiose ", "hollow ", "overblown ", "pompous ", "showy ", "stilted ", "turgid "], "A": ["genuine ", "honest ", "moderate ", "modest ", "plain ", "simple "]}

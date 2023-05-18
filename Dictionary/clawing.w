@@ -1,0 +1,1 @@
+{"index": 59599, "D": "a sharp, usually curved, nail on the foot of an animal, as on a cat, dog, or bird.", "S": ["dig ", "rip ", "scratch "], "A": ["agree ", "cure ", "fix ", "heal ", "help ", "hide ", "mend ", "wait "]}

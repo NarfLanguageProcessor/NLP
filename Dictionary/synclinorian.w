@@ -1,0 +1,1 @@
+{"index": 291447, "D": "a regional structure of general synclinal form that includes a series of smaller folds.", "S": [], "A": []}

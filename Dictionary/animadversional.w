@@ -1,0 +1,1 @@
+{"index": 13145, "D": "an unfavorable or censorious comment", "S": [], "A": []}

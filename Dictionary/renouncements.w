@@ -1,0 +1,1 @@
+{"index": 267727, "D": "to give up or put aside voluntarily", "S": ["disapproval ", "rebuttal ", "rejection ", "repudiation ", "retraction ", "veto "], "A": ["allowance ", "approval ", "confirmation ", "ratification ", "sanction ", "agreement ", "permission "]}

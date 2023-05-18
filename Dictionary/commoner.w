@@ -1,0 +1,1 @@
+{"index": 64166, "D": "a common person, as distinguished from one with rank, status, etc.", "S": ["bourgeois ", "bourgeoisie ", "citizen ", "civilian ", "peasant "], "A": []}

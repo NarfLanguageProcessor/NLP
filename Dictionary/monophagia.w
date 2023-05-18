@@ -1,0 +1,1 @@
+{"index": 192492, "D": "the eating of or craving for only one kind of food.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 143233, "D": "(of two or more speech sounds) having the same place of articulation, as p, b, and m, which are all bilabial.", "S": [], "A": []}

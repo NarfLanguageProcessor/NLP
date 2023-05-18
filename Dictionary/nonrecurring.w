@@ -1,0 +1,1 @@
+{"index": 206570, "D": "not occurring or happening again, especially often or periodically.", "S": [], "A": []}

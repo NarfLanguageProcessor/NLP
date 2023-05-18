@@ -1,0 +1,1 @@
+{"index": 187157, "D": "a small white or yellowish nodule resembling a millet seed, produced in the skin by the retention of sebaceous secretion.", "S": [], "A": []}

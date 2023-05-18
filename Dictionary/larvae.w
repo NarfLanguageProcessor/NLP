@@ -1,0 +1,1 @@
+{"index": 168671, "D": "the immature, wingless, feeding stage of an insect that undergoes complete metamorphosis.", "S": ["butterfly ", "canker ", "moth ", "tractor "], "A": []}

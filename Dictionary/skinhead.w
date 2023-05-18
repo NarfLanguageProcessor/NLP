@@ -1,0 +1,1 @@
+{"index": 293255, "D": "a baldheaded man.", "S": ["bald ", "clean-shaven "], "A": ["furry ", "hairy ", "hirsute "]}

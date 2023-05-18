@@ -1,0 +1,1 @@
+{"index": 102061, "D": "(in ancient Greek drama) an interlude or section alternating with the stasimon, especially in tragedy, varying in number from three to six and containing the main action of the drama.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 242763, "D": "the act of polluting  or the state of being polluted. ", "S": ["abuse ", "corruption ", "deterioration ", "infection "], "A": ["sterility "]}

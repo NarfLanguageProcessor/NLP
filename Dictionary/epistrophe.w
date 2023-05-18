@@ -1,0 +1,1 @@
+{"index": 102899, "D": "Compare anaphora (def. 1). ", "S": [], "A": []}

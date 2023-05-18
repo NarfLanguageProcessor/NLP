@@ -1,0 +1,1 @@
+{"index": 201541, "D": "pertaining to or characteristic of atheists  or atheism;  containing, suggesting, or disseminating atheism", "S": [], "A": []}

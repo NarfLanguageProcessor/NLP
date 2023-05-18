@@ -1,0 +1,1 @@
+{"index": 344197, "D": "developing or evolving in a steady, consistent, and undeviating way.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 46236, "D": "any resinous wood used for torches or as a substitute for candles.", "S": [], "A": []}

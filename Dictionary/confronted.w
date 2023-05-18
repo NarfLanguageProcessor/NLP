@@ -1,0 +1,1 @@
+{"index": 66073, "D": "to face in hostility or defiance; oppose", "S": ["accost ", "defy ", "encounter ", "meet ", "oppose ", "repel ", "resist "], "A": ["avoid ", "dodge ", "evade ", "surrender ", "yield "]}

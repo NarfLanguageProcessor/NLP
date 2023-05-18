@@ -1,0 +1,1 @@
+{"index": 180776, "D": "a stroke made by hitting the cue ball with the cue held almost or quite perpendicular to the table.", "S": [], "A": []}

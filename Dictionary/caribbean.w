@@ -1,0 +1,1 @@
+{"index": 48006, "D": "of or relating to the islands or region of the Caribbean Sea,  or to its inhabitants.", "S": [], "A": []}

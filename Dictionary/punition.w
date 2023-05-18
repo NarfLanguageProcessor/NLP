@@ -1,0 +1,1 @@
+{"index": 256685, "D": "punishment. ", "S": ["admonition ", "castigation ", "chastisement ", "punishment ", "reformation ", "reproof ", "rod "], "A": ["allowance ", "blunder ", "coddling ", "goof ", "indulgence ", "mistake ", "permissiveness ", "petting ", "spoiling "]}

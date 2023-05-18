@@ -1,0 +1,1 @@
+{"index": 189046, "D": "to create  amiss or deformed.", "S": ["aberration ", "anomaly ", "geek ", "monster ", "mutant ", "weirdo "], "A": []}

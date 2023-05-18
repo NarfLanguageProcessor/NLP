@@ -1,0 +1,1 @@
+{"index": 101945, "D": "denoting, relating to, or characteristic of the early part of the Stone Age, characterized by the use of crude stone tools", "S": [], "A": []}

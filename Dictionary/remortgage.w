@@ -1,0 +1,1 @@
+{"index": 267461, "D": "to take out a new or different mortgage on a property", "S": [], "A": []}

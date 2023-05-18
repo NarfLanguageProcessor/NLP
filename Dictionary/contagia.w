@@ -1,0 +1,1 @@
+{"index": 67243, "D": "the causative agent of a contagious or infectious disease, as a virus.", "S": [], "A": []}

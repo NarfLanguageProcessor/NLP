@@ -1,0 +1,1 @@
+{"index": 250388, "D": "a spur  having a single sharp goad or point.", "S": [], "A": []}

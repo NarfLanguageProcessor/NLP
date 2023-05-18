@@ -1,0 +1,1 @@
+{"index": 338747, "D": "free from religious sects or denominationalism; not limited or belonging to any particular religious group or groups.", "S": [], "A": []}

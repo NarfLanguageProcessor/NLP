@@ -1,0 +1,1 @@
+{"index": 340929, "D": "able to resist wear, decay, etc., well; lasting; enduring. ", "S": [], "A": []}

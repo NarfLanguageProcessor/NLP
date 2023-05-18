@@ -1,0 +1,1 @@
+{"index": 258415, "D": "a search or pursuit made in order to find or obtain something", "S": [], "A": []}

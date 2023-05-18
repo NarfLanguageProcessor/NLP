@@ -1,0 +1,1 @@
+{"index": 356084, "D": "someone who seizes an office or position of power by force or without legal right, or who is perceived to have done so", "S": ["autocrat ", "boss ", "chief ", "commander ", "despot ", "fascist ", "leader ", "tycoon ", "tyrant "], "A": ["employee ", "follower ", "worker "]}

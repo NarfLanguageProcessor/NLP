@@ -1,0 +1,1 @@
+{"index": 322263, "D": "the property exhibited by certain gels of becoming liquid when stirred or shaken.", "S": [], "A": []}

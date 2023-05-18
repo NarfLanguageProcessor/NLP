@@ -1,0 +1,1 @@
+{"index": 184508, "D": "a dining room  aboard ship or at a naval base.", "S": [], "A": []}

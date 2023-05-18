@@ -1,0 +1,1 @@
+{"index": 61821, "D": "the joint education  of the sexes at the same institution and in the same classes.", "S": [], "A": []}

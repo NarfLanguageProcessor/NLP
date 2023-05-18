@@ -1,0 +1,1 @@
+{"index": 89243, "D": "fond of or given to disputation;  argumentative; contentious", "S": ["battling ", "belligerent ", "boxing ", "brawling ", "contending ", "determined ", "fencing ", "hostile ", "jousting ", "martial ", "militant ", "sparring ", "tilting ", "warmongering ", "wrestling "], "A": ["kind ", "nice ", "peaceful "]}

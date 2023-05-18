@@ -1,0 +1,1 @@
+{"index": 327990, "D": "of or relating to a transition  from one position, state, stage, subject, concept, etc., to another", "S": [], "A": []}

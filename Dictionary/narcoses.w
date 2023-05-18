@@ -1,0 +1,1 @@
+{"index": 196964, "D": "a state of stupor or drowsiness.", "S": ["stupor "], "A": ["expectation ", "understanding "]}

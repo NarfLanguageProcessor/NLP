@@ -1,0 +1,1 @@
+{"index": 82638, "D": "worth having or wanting; pleasing, excellent, or fine", "S": [], "A": []}

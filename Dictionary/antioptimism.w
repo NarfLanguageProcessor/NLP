@@ -1,0 +1,1 @@
+{"index": 15729, "D": "a disposition or tendency to look on the more favorable side of events or conditions and to expect the most favorable outcome.", "S": [], "A": []}

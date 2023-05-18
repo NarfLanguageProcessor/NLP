@@ -1,0 +1,1 @@
+{"index": 200231, "D": "of or relating to niobium;  columbic.", "S": [], "A": []}

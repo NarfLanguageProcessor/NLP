@@ -1,0 +1,1 @@
+{"index": 50877, "D": "one 100th of a gram, equivalent to 0.1543 grain. Abbreviation", "S": [], "A": []}

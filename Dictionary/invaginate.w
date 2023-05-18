@@ -1,0 +1,1 @@
+{"index": 157004, "D": "to insert or receive, as into a sheath; sheathe.", "S": [], "A": []}

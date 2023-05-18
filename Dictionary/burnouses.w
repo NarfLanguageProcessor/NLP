@@ -1,0 +1,1 @@
+{"index": 43240, "D": "a hooded mantle or cloak, as that worn by Arabs.", "S": [], "A": []}

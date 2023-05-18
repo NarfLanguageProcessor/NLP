@@ -1,0 +1,1 @@
+{"index": 205720, "D": "to articulate (a consonant other than a normal palatal) as a palatal  or with relatively more contact between the blade of the tongue and the hard palate,  as in certain pronunciations of the l-sound in million.", "S": [], "A": []}

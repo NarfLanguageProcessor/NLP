@@ -1,0 +1,1 @@
+{"index": 62521, "D": "joint inheritance. ", "S": [], "A": []}

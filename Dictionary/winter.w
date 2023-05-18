@@ -1,0 +1,1 @@
+{"index": 366243, "D": "the cold season between autumn and spring in northern latitudes (in the Northern Hemisphere from the winter solstice  to the vernal equinox; in the Southern Hemisphere from the summer solstice to the autumnal equinox).", "S": ["cold "], "A": ["heat "]}

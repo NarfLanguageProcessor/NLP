@@ -1,0 +1,1 @@
+{"index": 353571, "D": "having the polish and suavity regarded as characteristic of sophisticated social life in major cities", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 339136, "D": "to take into the mouth and swallow for nourishment; chew and swallow (food).", "S": [], "A": []}

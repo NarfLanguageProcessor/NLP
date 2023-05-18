@@ -1,0 +1,1 @@
+{"index": 317018, "D": "the act or process of making a kind of knotted lace of cotton or linen thread with a shuttle.", "S": ["brocade ", "decoration ", "lace ", "needlepoint ", "quilting ", "tapestry "], "A": []}

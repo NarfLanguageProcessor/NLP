@@ -1,0 +1,1 @@
+{"index": 311112, "D": "any of various plants of the genus Oenothera, of the evening primrose family, having flowers that bloom during the day.", "S": [], "A": []}

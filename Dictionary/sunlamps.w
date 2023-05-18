@@ -1,0 +1,1 @@
+{"index": 311144, "D": "a lamp that generates ultraviolet rays, used as a therapeutic device, for obtaining an artificial suntan, etc.", "S": [], "A": []}

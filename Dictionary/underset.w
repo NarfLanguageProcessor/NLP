@@ -1,0 +1,1 @@
+{"index": 339771, "D": "a current of water below the surface and flowing in a direction contrary to the water on the surface.", "S": [], "A": []}

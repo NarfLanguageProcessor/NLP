@@ -1,0 +1,1 @@
+{"index": 286988, "D": "a technique of ornamentation in which a surface layer of paint, plaster, slip, etc., is incised to reveal a ground of contrasting color.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 132779, "D": "pertaining to or characterized by hallucination", "S": ["dreamlike ", "fanciful ", "fantastic ", "illusory "], "A": ["ordinary ", "real "]}

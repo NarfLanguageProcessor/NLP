@@ -1,0 +1,1 @@
+{"index": 51494, "D": "a climbing, tropical American plant, Monstera deliciosa, of the arum family, characterized by cordlike, aerial roots and large, perforated leaves.", "S": [], "A": []}

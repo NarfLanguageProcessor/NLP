@@ -1,0 +1,1 @@
+{"index": 188557, "D": "a royal prince (placed after the name when used as a title).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 243168, "D": "having little or no money, goods, or other means of support", "S": ["destitute ", "impoverished ", "indigent ", "low ", "meager ", "needy ", "penniless ", "poverty-stricken ", "underprivileged "], "A": ["affluent ", "prosperous ", "rich ", "wealthy ", "well-to-do ", "comfortable ", "fortunate ", "solvent "]}

@@ -1,0 +1,1 @@
+{"index": 127946, "D": "a number that is equal to 1 followed by a googol  of zeros and expressed as \ue01c.", "S": [], "A": []}

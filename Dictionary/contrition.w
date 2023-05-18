@@ -1,0 +1,1 @@
+{"index": 67784, "D": "sincere penitence or remorse.", "S": ["humiliation ", "penance ", "penitence ", "remorse ", "repentance ", "sorrow "], "A": ["happiness "]}

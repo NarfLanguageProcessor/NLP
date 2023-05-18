@@ -1,0 +1,1 @@
+{"index": 264391, "D": "either of two small fringilline birds, Carduelis flammea or C. hornemanni, of northern North America and Eurasia, the adults of which have a crimson crown patch.", "S": [], "A": []}

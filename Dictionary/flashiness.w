@@ -1,0 +1,1 @@
+{"index": 114029, "D": "sparkling or brilliant, especially in a superficial way or for the moment", "S": ["adornment ", "bauble ", "decoration ", "frill ", "fussiness ", "gaudiness ", "knickknack ", "meretriciousness ", "ornament ", "ostentation ", "pretentiousness ", "showiness ", "tawdriness ", "toy ", "trinket "], "A": ["plainness "]}

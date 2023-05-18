@@ -1,0 +1,1 @@
+{"index": 71446, "D": "the expectation or mean value of the variable formed by multiplying the differences obtained by subtracting two given variates from their respective means; the product of the standard deviations of two given variates and the coefficient of correlation between them.", "S": [], "A": []}

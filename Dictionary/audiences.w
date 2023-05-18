@@ -1,0 +1,1 @@
+{"index": 23280, "D": "the group of spectators at a public event; listeners or viewers collectively, as in attendance at a theater or concert", "S": ["congregation ", "crowd ", "gallery ", "gathering ", "market ", "public "], "A": []}

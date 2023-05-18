@@ -1,0 +1,1 @@
+{"index": 5725, "D": "in or during any or every afternoon", "S": ["siesta ", "teatime "], "A": []}

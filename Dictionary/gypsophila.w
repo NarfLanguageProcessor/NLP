@@ -1,0 +1,1 @@
+{"index": 125434, "D": "any plant belonging to the genus Gypsophila, of the pink family, native to Mediterranean regions, having small, panicled, pink or white flowers, as baby's breath.", "S": [], "A": []}

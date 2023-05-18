@@ -1,0 +1,1 @@
+{"index": 96070, "D": "outward flow, as of water.", "S": [], "A": []}

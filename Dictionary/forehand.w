@@ -1,0 +1,1 @@
+{"index": 116693, "D": "Compare backhand (def. 5). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 84715, "D": "a compound containing two bromine atoms, as ethylene dibromide,  C2H4Br2.", "S": [], "A": []}

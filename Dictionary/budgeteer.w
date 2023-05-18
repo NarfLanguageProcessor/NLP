@@ -1,0 +1,1 @@
+{"index": 42185, "D": "a person, especially a government or business official, who prepares a budget.", "S": [], "A": []}

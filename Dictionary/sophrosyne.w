@@ -1,0 +1,1 @@
+{"index": 297452, "D": "moderation; discretion; prudence.", "S": ["caution ", "discretion ", "foresight ", "frugality ", "moderation ", "restraint ", "thrift ", "vigilance ", "wisdom "], "A": ["carelessness ", "ignorance ", "indiscretion ", "negligence ", "thoughtlessness ", "wildness "]}

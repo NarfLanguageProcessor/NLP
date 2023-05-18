@@ -1,0 +1,1 @@
+{"index": 47462, "D": "any of numerous enzymes that catalyze the hydrolysis of disaccharides, polysaccharides, and glycosides.", "S": [], "A": []}

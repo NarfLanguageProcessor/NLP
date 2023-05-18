@@ -1,0 +1,1 @@
+{"index": 27552, "D": "banderole. ", "S": ["banderol ", "banner ", "banneret ", "burgee ", "colors ", "ensign ", "guidon ", "masthead ", "oriflamme ", "pennant ", "pennon ", "standard ", "streamer "], "A": []}

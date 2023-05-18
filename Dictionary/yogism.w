@@ -1,0 +1,1 @@
+{"index": 157552, "D": "a school of Hindu philosophy advocating and prescribing a course of physical and mental disciplines for attaining liberation from the material world and union of the self with the Supreme Being  or ultimate principle.", "S": [], "A": []}

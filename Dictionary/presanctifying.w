@@ -1,0 +1,1 @@
+{"index": 249219, "D": "to make holy; set apart as sacred; consecrate.", "S": [], "A": []}

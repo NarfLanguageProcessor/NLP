@@ -1,0 +1,1 @@
+{"index": 342963, "D": "capable of producing or creating.", "S": [], "A": []}

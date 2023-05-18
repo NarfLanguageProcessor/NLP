@@ -1,0 +1,1 @@
+{"index": 45682, "D": "of or relating to public finance.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 115707, "D": "fat; stout; plump.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 218034, "D": "any of several tubules that compose an insect ovary.", "S": [], "A": []}

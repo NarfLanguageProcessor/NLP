@@ -1,0 +1,1 @@
+{"index": 308313, "D": "the place at which two things, or separate parts of one thing, are joined or united, either rigidly or in such a way as to permit motion; juncture.", "S": [], "A": []}

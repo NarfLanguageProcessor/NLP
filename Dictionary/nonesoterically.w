@@ -1,0 +1,1 @@
+{"index": 203636, "D": "understood by or meant for only the select few who have special knowledge or interest; recondite", "S": [], "A": []}

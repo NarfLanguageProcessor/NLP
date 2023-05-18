@@ -1,0 +1,1 @@
+{"index": 199428, "D": "a person, typically a boy,  who sells or delivers newspapers.", "S": [], "A": []}

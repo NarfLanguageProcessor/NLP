@@ -1,0 +1,1 @@
+{"index": 55478, "D": "a sterol, C27H46O, that occurs in all animal tissues, especially in the brain, spinal cord, and adipose tissue, functioning chiefly as a protective agent in the skin and myelin sheaths of nerve cells, a detoxifier in the bloodstream, and as a precursor of many steroids", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 295868, "D": "an avalanche consisting largely or entirely of snow. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 78491, "D": "a bending, sloping, or moving downward.", "S": [], "A": []}

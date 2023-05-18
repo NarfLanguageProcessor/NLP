@@ -1,0 +1,1 @@
+{"index": 359690, "D": "to regard or treat as of little value or account.", "S": ["draw away "], "A": ["commend ", "compliment ", "develop ", "enlarge ", "exaggerate ", "exalt ", "expand ", "extend ", "grow ", "increase ", "laud ", "overestimate ", "overrate ", "overvalue ", "praise ", "raise ", "upgrade ", "value "]}

@@ -1,0 +1,1 @@
+{"index": 322683, "D": "feeling very pleased or happily excited; delighted", "S": ["elated "], "A": ["bored "]}

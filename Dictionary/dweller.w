@@ -1,0 +1,1 @@
+{"index": 94643, "D": "a person or thing that lives or resides in a specified place or environment", "S": ["inhabitant ", "resident "], "A": []}

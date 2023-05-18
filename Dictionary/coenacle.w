@@ -1,0 +1,1 @@
+{"index": 61939, "D": "a variant spelling of cenacle", "S": [], "A": []}

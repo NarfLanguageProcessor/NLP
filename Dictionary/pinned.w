@@ -1,0 +1,1 @@
+{"index": 237165, "D": "a small, slender, often pointed piece of wood, metal, etc., used to fasten, support, or attach things.", "S": ["committed ", "hooked ", "matched "], "A": ["available ", "disengaged ", "inoperable ", "not working ", "uninvolved "]}

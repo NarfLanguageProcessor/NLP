@@ -1,0 +1,1 @@
+{"index": 271862, "D": "a rare metallic element of the manganese subgroup", "S": [], "A": []}

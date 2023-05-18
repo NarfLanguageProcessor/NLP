@@ -1,0 +1,1 @@
+{"index": 95855, "D": "to draw forth or bring out, as something potential or latent; elicit; develop.", "S": [], "A": []}

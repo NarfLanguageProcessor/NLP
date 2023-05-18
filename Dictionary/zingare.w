@@ -1,0 +1,1 @@
+{"index": 369449, "D": "a female Romani. ", "S": ["bohemian ", "nomad ", "roamer ", "sharper ", "vagrant "], "A": []}

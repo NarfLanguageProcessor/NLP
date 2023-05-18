@@ -1,0 +1,1 @@
+{"index": 113214, "D": "any object built into a building frame to block a concealed hollow space through which a fire  might pass from one part of the building to another.", "S": [], "A": []}

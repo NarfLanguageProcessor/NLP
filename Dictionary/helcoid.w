@@ -1,0 +1,1 @@
+{"index": 135442, "D": [], "S": ["cankerous ", "ulcerated "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 12589, "D": "a substance that produces anesthesia,  as halothane, procaine, or ether.", "S": ["analgesic ", "anodyne ", "dope ", "gas ", "hypnotic ", "inhalant ", "narcotic ", "opiate ", "pain-killer ", "shot ", "soporific ", "spinal "], "A": []}

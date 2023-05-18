@@ -1,0 +1,1 @@
+{"index": 13966, "D": "liable to be asked to give account; responsible", "S": [], "A": []}

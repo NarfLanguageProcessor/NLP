@@ -1,0 +1,1 @@
+{"index": 204870, "D": "calculated to create ill will or resentment or give offense; hateful", "S": [], "A": []}

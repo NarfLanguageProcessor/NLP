@@ -1,0 +1,1 @@
+{"index": 165711, "D": [], "S": ["ability ", "aptitude ", "background ", "capability ", "expertise ", "ingenuity ", "knowledge ", "proficiency ", "wisdom "], "A": ["clumsiness ", "ignorance ", "impotence ", "inability ", "incompetence ", "ineptness ", "stupidity ", "awkwardness ", "ineptitude ", "lack "]}

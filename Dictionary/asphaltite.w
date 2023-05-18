@@ -1,0 +1,1 @@
+{"index": 21452, "D": "a natural, solid hydrocarbon having a melting point higher than that of asphalt.", "S": [], "A": []}

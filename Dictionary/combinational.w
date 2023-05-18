@@ -1,0 +1,1 @@
+{"index": 63655, "D": "the act of combining or the state of being combined.", "S": ["combinable ", "combinative ", "combinatorial ", "combinatory ", "conjunctional ", "connectional ", "connective "], "A": []}

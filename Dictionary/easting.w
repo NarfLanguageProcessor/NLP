@@ -1,0 +1,1 @@
+{"index": 94936, "D": "the distance due east  made good on any course tending eastward; easterly departure.", "S": [], "A": []}

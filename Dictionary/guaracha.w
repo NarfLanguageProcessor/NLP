@@ -1,0 +1,1 @@
+{"index": 130742, "D": "a vigorous Cuban dance in triple meter.", "S": [], "A": []}

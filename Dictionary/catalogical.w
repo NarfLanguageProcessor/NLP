@@ -1,0 +1,1 @@
+{"index": 49290, "D": "a list or record, as of items for sale or courses at a university, systematically arranged and often including descriptive material", "S": [], "A": []}

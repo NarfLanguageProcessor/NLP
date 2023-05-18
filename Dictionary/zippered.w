@@ -1,0 +1,1 @@
+{"index": 369509, "D": "fastened or fitted with a zipper  or zippers", "S": [], "A": []}

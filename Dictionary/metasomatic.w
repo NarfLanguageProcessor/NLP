@@ -1,0 +1,1 @@
+{"index": 184991, "D": "the series of metamorphic processes whereby chemical changes occur in minerals or rocks as a result of the introduction of material, often in hot aqueous solutions, from external sources.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 258751, "D": "a brownish-black, resinous substance consisting of a mixture of alkaloids, obtained as a by-product in the manufacture of quinine  and formerly used as a cheap substitute for it.", "S": [], "A": []}

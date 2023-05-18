@@ -1,0 +1,1 @@
+{"index": 136023, "D": "a colorless or pale-yellow, crystalline compound, C16H14O6\u00b73H2O, the coloring material of logwood", "S": [], "A": []}

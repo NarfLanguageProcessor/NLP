@@ -1,0 +1,1 @@
+{"index": 131052, "D": "a shoulder strap attached to the inner side of a shield.", "S": [], "A": []}

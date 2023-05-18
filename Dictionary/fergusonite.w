@@ -1,0 +1,1 @@
+{"index": 111337, "D": "a rare-earth mineral, yttrium columbate and tantalate, found in pegmatites.", "S": [], "A": []}

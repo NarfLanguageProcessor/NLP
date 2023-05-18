@@ -1,0 +1,1 @@
+{"index": 227891, "D": "the tracing of descent exclusively through the male members of a family.", "S": [], "A": []}

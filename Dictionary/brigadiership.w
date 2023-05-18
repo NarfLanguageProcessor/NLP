@@ -1,0 +1,1 @@
+{"index": 40744, "D": "a rank between colonel and major general.", "S": [], "A": []}

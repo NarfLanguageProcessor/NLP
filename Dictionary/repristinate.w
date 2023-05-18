@@ -1,0 +1,1 @@
+{"index": 268576, "D": "to restore to the first or original state or condition.", "S": [], "A": []}

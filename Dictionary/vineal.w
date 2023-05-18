@@ -1,0 +1,1 @@
+{"index": 359875, "D": "of or relating to grapes or grapevines.", "S": [], "A": []}

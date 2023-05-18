@@ -1,0 +1,1 @@
+{"index": 208119, "D": "a resident of a city or urban  community.", "S": [], "A": []}

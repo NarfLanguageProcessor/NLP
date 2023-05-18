@@ -1,0 +1,1 @@
+{"index": 332994, "D": "the use of affectedly archaic language in novels, etc", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 357596, "D": "venereal disease.", "S": ["AIDS ", "acquired immune deficiency syndrome ", "gonorrhea ", "herpes ", "syphilis ", "the clap ", "venereal disease "], "A": []}

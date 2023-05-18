@@ -1,0 +1,1 @@
+{"index": 223393, "D": "See also Lower Palaeolithic, Middle Palaeolithic, Upper Palaeolithic", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 22494, "D": "a lake in western Canada, in northwestern Saskatchewan and northeastern Alberta. About 200 miles (320 km) long; about 3,000 sq. mi. (7,800 sq. km).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 217388, "D": "to exceed in volume of sales; sell  more than", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 353232, "D": "going beyond ordinary limits; surpassing; exceeding.", "S": [], "A": []}

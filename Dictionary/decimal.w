@@ -1,0 +1,1 @@
+{"index": 78352, "D": "pertaining to tenths or to the number 10.", "S": ["decagonal ", "decennial ", "decuple ", "denary ", "tenfold "], "A": []}

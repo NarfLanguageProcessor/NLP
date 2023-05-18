@@ -1,0 +1,1 @@
+{"index": 239284, "D": "of or relating to a plastron. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 93054, "D": [], "S": ["arid ", "bare ", "barren ", "dehydrated ", "dusty ", "parched ", "stale ", "torrid "], "A": ["damp ", "full ", "moist ", "wet "]}

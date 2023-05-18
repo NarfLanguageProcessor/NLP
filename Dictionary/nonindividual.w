@@ -1,0 +1,1 @@
+{"index": 204665, "D": "a single human being, as distinguished from a group.", "S": [], "A": []}

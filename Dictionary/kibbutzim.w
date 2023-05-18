@@ -1,0 +1,1 @@
+{"index": 164391, "D": "(in Israel) a community settlement, usually agricultural, organized under collectivist principles.", "S": [], "A": []}

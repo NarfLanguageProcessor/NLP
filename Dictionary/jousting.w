@@ -1,0 +1,1 @@
+{"index": 161917, "D": "a combat in which two knights on horseback attempted to unhorse each other with blunted lances.", "S": ["battling ", "belligerent ", "boxing ", "brawling ", "contending ", "determined ", "fencing ", "hostile ", "martial ", "militant ", "sparring ", "tilting ", "warmongering ", "wrestling "], "A": ["kind ", "nice ", "peaceful "]}

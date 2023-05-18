@@ -1,0 +1,1 @@
+{"index": 10208, "D": "aberrant meiosis  in which only an equational division occurs, as in parthenogenesis.", "S": [], "A": []}

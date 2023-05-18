@@ -1,0 +1,1 @@
+{"index": 38220, "D": "to lift or raise by pushing from behind or below.", "S": ["addition ", "advance ", "breakthrough ", "expansion ", "hike ", "improvement ", "increment ", "jump ", "lift ", "rise "], "A": ["decline ", "decrease ", "lessening ", "loss ", "shrinkage ", "stagnation ", "worsening "]}

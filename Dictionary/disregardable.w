@@ -1,0 +1,1 @@
+{"index": 89309, "D": "to pay no attention to; leave out of consideration; ignore", "S": [], "A": []}

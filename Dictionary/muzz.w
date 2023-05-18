@@ -1,0 +1,1 @@
+{"index": 196374, "D": "to study intensely; grind. ", "S": [], "A": []}

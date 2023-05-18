@@ -1,0 +1,1 @@
+{"index": 308604, "D": "any of a class of substances that blunt the senses, as opium, morphine, belladonna, marijuana, and alcohol, that in large quantities produce euphoria, stupor, or coma, that when used constantly can cause habituation or addiction, and that are used in medicine to relieve pain, cause sedation, and induce sleep.", "S": [], "A": []}

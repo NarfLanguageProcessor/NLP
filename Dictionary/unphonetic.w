@@ -1,0 +1,1 @@
+{"index": 347877, "D": "of or relating to speech sounds, their production, or their transcription in written symbols.", "S": [], "A": []}

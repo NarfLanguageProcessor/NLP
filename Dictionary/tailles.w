@@ -1,0 +1,1 @@
+{"index": 315366, "D": "a tax that was levied by a king or seigneur on his subjects or on lands held under him and that became solely a royal tax in the 15th century from which the lords and later the clergy were exempt.", "S": [], "A": []}

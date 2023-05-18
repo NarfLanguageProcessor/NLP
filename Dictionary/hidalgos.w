@@ -1,0 +1,1 @@
+{"index": 138318, "D": "a man of the lower nobility in Spain.", "S": [], "A": []}

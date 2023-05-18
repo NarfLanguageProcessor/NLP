@@ -1,0 +1,1 @@
+{"index": 256164, "D": "younger; inferior in rank; junior, as in appointment.", "S": [], "A": []}

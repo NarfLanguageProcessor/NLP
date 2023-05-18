@@ -1,0 +1,1 @@
+{"index": 86368, "D": "pertaining to or affecting both ears; binaural.", "S": [], "A": []}

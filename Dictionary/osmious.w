@@ -1,0 +1,1 @@
+{"index": 215371, "D": "of or containing osmium  in its lower valences.", "S": [], "A": []}

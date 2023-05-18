@@ -1,0 +1,1 @@
+{"index": 169362, "D": "a bill, especially for food or drink in a tavern.", "S": [], "A": []}

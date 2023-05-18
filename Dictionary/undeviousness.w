@@ -1,0 +1,1 @@
+{"index": 340274, "D": "departing from the most direct way; circuitous; indirect", "S": [], "A": []}

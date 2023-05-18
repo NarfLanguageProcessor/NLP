@@ -1,0 +1,1 @@
+{"index": 8918, "D": "any of the members of a class of speech sounds that, taken together, are commonly felt to be a phoneme, as the t-sounds of toe, stow, tree, hatpin, catcall, cats, catnip, button, metal, city; a speech sound constituting one of the phonetic manifestations or variants of a particular phoneme.", "S": [], "A": []}

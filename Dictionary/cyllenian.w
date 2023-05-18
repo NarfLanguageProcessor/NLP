@@ -1,0 +1,1 @@
+{"index": 57437, "D": "of or relating to Mount Cyllene in Arcadia, Greece, or to the god Hermes, reputed to have been born there.", "S": [], "A": []}

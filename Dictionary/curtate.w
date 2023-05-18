@@ -1,0 +1,1 @@
+{"index": 75507, "D": "having been shortened; reduced; abbreviated. ", "S": ["abbreviated ", "brief ", "crisp ", "precise ", "shortened ", "terse "], "A": ["enduring ", "lasting ", "lengthy ", "long "]}

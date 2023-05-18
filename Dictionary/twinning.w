@@ -1,0 +1,1 @@
+{"index": 333401, "D": "the bearing of two children at one birth.", "S": ["combine ", "marry ", "mate "], "A": ["disconnect ", "disjoin ", "divide ", "separate "]}

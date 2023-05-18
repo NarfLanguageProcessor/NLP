@@ -1,0 +1,1 @@
+{"index": 44787, "D": "a light vehicle pulled by one or two horses, seating two to four passengers, and having two or four wheels, a seat for a driver on a splashboard, and sometimes a folding top.", "S": ["awning ", "bonnet ", "canopy ", "cover ", "shade "], "A": []}

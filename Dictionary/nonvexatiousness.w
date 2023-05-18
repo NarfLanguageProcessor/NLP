@@ -1,0 +1,1 @@
+{"index": 208258, "D": "causing vexation; troublesome; annoying", "S": [], "A": []}

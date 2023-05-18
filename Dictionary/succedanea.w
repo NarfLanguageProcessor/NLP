@@ -1,0 +1,1 @@
+{"index": 309789, "D": "a substitute.", "S": ["backup ", "replacement ", "stand-in ", "surrogate "], "A": ["being ", "entity ", "permanent "]}

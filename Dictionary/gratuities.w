@@ -1,0 +1,1 @@
+{"index": 129276, "D": "a gift of money, over and above payment due for service, as to a waiter or bellhop; tip.", "S": ["bonus ", "fringe benefit ", "perk "], "A": []}

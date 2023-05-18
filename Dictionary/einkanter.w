@@ -1,0 +1,1 @@
+{"index": 96529, "D": "a pebble or boulder having a single facet formed by the action of windblown sand.", "S": [], "A": []}

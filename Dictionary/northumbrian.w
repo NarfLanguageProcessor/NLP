@@ -1,0 +1,1 @@
+{"index": 208647, "D": "of or relating to Northumbria,  Northumberland, or the inhabitants or dialect of either.", "S": [], "A": []}

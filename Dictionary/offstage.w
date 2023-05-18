@@ -1,0 +1,1 @@
+{"index": 211689, "D": "off  the stage  or in the wings; away from the view of the audience (opposed to onstage).", "S": ["unauthorized "], "A": ["authoritative ", "authorized ", "confirmed ", "official "]}

@@ -1,0 +1,1 @@
+{"index": 247015, "D": "to deduct a certain amount from (a bill, charge, etc.)", "S": [], "A": []}

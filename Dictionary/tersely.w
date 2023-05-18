@@ -1,0 +1,1 @@
+{"index": 319642, "D": "in an effectively concise manner; succinctly", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 32997, "D": [], "S": ["attend ", "court ", "date ", "escort ", "go out with ", "go steady with ", "keep company with "], "A": ["disagree ", "mismatch "]}

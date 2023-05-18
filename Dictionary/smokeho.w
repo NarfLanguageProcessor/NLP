@@ -1,0 +1,1 @@
+{"index": 294994, "D": "a variant spelling of smoko", "S": [], "A": []}

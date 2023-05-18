@@ -1,0 +1,1 @@
+{"index": 5934, "D": "a variegated chalcedony showing curved, colored bands or other markings.", "S": ["font "], "A": []}

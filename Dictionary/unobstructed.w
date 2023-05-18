@@ -1,0 +1,1 @@
+{"index": 347048, "D": "(of a passageway, view, etc) not blocked by any object", "S": ["clear ", "free ", "open ", "unhampered ", "unimpeded "], "A": ["obstructed "]}

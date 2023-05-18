@@ -1,0 +1,1 @@
+{"index": 60327, "D": "a substance, C12H15ClO3, used principally to reduce elevated plasma triglyceride and cholesterol levels.", "S": [], "A": []}

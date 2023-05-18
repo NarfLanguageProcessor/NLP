@@ -1,0 +1,1 @@
+{"index": 151860, "D": "to affect or contaminate (a person, organ, wound, etc.) with disease-producing germs.", "S": ["affect ", "poison ", "taint ", "touch "], "A": ["aid ", "help ", "protect ", "purify "]}

@@ -1,0 +1,1 @@
+{"index": 231984, "D": "to act or portray (a character in a play, a part, etc.).", "S": ["enact ", "perform ", "play ", "portray "], "A": ["direct ", "fail ", "prevent ", "stop "]}

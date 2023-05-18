@@ -1,0 +1,1 @@
+{"index": 213399, "D": "a country of uncertain location, possibly southern Arabia or the eastern coast of Africa, from which gold and precious stones and trees were brought for Solomon. 1 Kings 10", "S": [], "A": []}

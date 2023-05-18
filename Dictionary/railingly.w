@@ -1,0 +1,1 @@
+{"index": 260036, "D": "a bar of wood or metal fixed horizontally for any of various purposes, as for a support, barrier, fence, or railing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 240042, "D": "a brand name for a thermoplastic polymer of methyl methacrylate that is light in weight, resistant to weathering, capable of being bent when hot but returning to its original shape when reheated, used for signs", "S": [], "A": []}

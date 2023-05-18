@@ -1,0 +1,1 @@
+{"index": 18520, "D": "the act of arbitrating; arbitration. ", "S": ["answer ", "award ", "conclusion ", "decision ", "decree ", "finding ", "opinion ", "ruling ", "sentence "], "A": ["accusation "]}

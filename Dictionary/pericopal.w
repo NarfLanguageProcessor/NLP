@@ -1,0 +1,1 @@
+{"index": 230880, "D": "a selection or extract from a book.", "S": [], "A": []}

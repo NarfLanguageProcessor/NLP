@@ -1,0 +1,1 @@
+{"index": 115778, "D": "an excessively conservative or old-fashioned person, especially one who is intellectually dull (usually preceded by old)", "S": ["dodo ", "fogey ", "fossil ", "fuddy-duddy ", "stick-in-the-mud "], "A": []}

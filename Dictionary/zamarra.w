@@ -1,0 +1,1 @@
+{"index": 368788, "D": "a sheepskin coat of the kind worn by shepherds in Spain.", "S": [], "A": []}

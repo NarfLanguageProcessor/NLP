@@ -1,0 +1,1 @@
+{"index": 131782, "D": "the act or fact of inhabiting; inhabitancy.", "S": [], "A": []}

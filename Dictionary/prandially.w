@@ -1,0 +1,1 @@
+{"index": 245301, "D": "of or relating to a meal, especially dinner.", "S": [], "A": []}

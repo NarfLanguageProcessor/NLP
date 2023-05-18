@@ -1,0 +1,1 @@
+{"index": 275738, "D": "the act of breaking or bursting", "S": ["busted ", "collapsed ", "cracked ", "crippled ", "crumbled ", "crushed ", "damaged ", "defective ", "demolished ", "fractured ", "fragmented ", "injured ", "mangled ", "mutilated ", "severed ", "shattered ", "smashed "], "A": ["perfect ", "unbroken "]}

@@ -1,0 +1,1 @@
+{"index": 200127, "D": "a young nymph.", "S": ["dryad ", "fairy ", "goddess ", "mermaid ", "naiad ", "spirit ", "sprite ", "sylph "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 137571, "D": "having unlike gametes, or reproducing by the union of such gametes (opposed to isogamous).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 142331, "D": "a boisterous, bold, and carefree girl; a tomboy.", "S": ["fresh ", "mincing ", "na\u00efve ", "teenage ", "unsophisticated ", "young "], "A": ["matronly ", "mature ", "sophisticated "]}

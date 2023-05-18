@@ -1,0 +1,1 @@
+{"index": 279077, "D": "to rescue from danger or possible harm, injury, or loss", "S": ["deliver ", "free ", "recover ", "salvage "], "A": ["confine ", "hold ", "limit ", "lose ", "restrain ", "abandon "]}

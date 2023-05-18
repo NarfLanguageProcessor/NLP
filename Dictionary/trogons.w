@@ -1,0 +1,1 @@
+{"index": 331001, "D": "any of several brilliantly colored birds of the family Trogonidae, especially of the genus Trogon, of tropical and subtropical regions of the New World.", "S": [], "A": []}

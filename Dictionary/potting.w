@@ -1,0 +1,1 @@
+{"index": 244825, "D": "a container of earthenware, metal, etc., usually round and deep and having a handle or handles and often a lid, used for cooking, serving, and other purposes.", "S": ["bury ", "cover ", "farm ", "grow ", "implant ", "raise ", "scatter ", "sow ", "transplant "], "A": ["uncover "]}

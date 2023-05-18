@@ -1,0 +1,1 @@
+{"index": 352876, "D": "to remove or throw off the thatch  from", "S": [], "A": []}

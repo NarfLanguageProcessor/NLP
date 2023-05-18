@@ -1,0 +1,1 @@
+{"index": 237855, "D": "(formerly) thermomagnetic (def. 1). ", "S": [], "A": []}

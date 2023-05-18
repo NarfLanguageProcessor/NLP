@@ -1,0 +1,1 @@
+{"index": 151672, "D": "not exhaustible; incapable of being depleted", "S": ["bountiful ", "endless ", "infinite ", "limitless ", "never-ending "], "A": ["bounded ", "calculable ", "ending ", "finite ", "limited "]}

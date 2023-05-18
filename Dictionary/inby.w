@@ -1,0 +1,1 @@
+{"index": 149590, "D": "into the house or an inner room; inside; within", "S": [], "A": []}

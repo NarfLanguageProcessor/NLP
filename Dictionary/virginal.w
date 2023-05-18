@@ -1,0 +1,1 @@
+{"index": 360143, "D": "of, pertaining to, characteristic of, or befitting a virgin", "S": ["celibate ", "clean ", "continent ", "innocent ", "moral ", "nice ", "quiet ", "simple ", "stainless ", "vestal ", "virgin "], "A": ["bad ", "cluttered ", "complex ", "complicated ", "corrupt ", "evil ", "imprecise ", "impure ", "intricate ", "sinful ", "stained ", "unchaste "]}

@@ -1,0 +1,1 @@
+{"index": 211942, "D": "all right; proceeding normally; satisfactory or under control", "S": ["average ", "common ", "cool ", "fair ", "hip ", "kosher ", "large ", "moderate ", "okay ", "pleasing ", "standard ", "swell ", "welcome "], "A": ["abnormal ", "bad ", "extraordinary ", "extreme ", "unacceptable ", "unreasonable ", "unusual "]}

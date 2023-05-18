@@ -1,0 +1,1 @@
+{"index": 79630, "D": "that degrades;  debasing; humiliating", "S": ["demeaning ", "derogatory ", "disgraceful ", "humiliating "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158886, "D": "a figure of speech or sentence having a parallel structure formed by the use of two or more clauses, or cola, of similar length, as \u201cThe bigger they are, the harder they fall.\u201d", "S": [], "A": []}

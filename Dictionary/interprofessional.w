@@ -1,0 +1,1 @@
+{"index": 155723, "D": "involving trained workers with expertise in different fields, especially within the healthcare industry", "S": [], "A": []}

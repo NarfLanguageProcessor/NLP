@@ -1,0 +1,1 @@
+{"index": 149305, "D": "not liable to decomposition or putrefaction; incorruptible", "S": [], "A": []}

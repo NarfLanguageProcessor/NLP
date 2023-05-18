@@ -1,0 +1,1 @@
+{"index": 265737, "D": "of or relating to a sovereign, sovereignty, or reign", "S": [], "A": []}

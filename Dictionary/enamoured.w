@@ -1,0 +1,1 @@
+{"index": 99053, "D": "in love; captivated; charmed", "S": ["crazy ", "nuts "], "A": ["balanced ", "collected ", "disenchanted ", "unenthusiastic "]}

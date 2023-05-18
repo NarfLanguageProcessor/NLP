@@ -1,0 +1,1 @@
+{"index": 110321, "D": "daughter of Muhammad and wife of Ali.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 134763, "D": "curing or curative; prescribed or helping toheal. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 163700, "D": "a groove in a shaft, the hub of a wheel, etc., for receiving part of a key  holding it to another part.", "S": [], "A": []}

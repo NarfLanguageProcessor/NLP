@@ -1,0 +1,1 @@
+{"index": 236025, "D": "a variety of carnation, tulip, etc., having an outer margin of another color.", "S": [], "A": []}

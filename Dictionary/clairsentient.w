@@ -1,0 +1,1 @@
+{"index": 59098, "D": "Compare clairaudience, clairvoyance (def. 1). ", "S": [], "A": []}

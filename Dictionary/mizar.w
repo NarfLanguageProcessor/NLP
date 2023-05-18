@@ -1,0 +1,1 @@
+{"index": 190812, "D": "a double star in the middle of the constellation Ursa Major.", "S": [], "A": []}

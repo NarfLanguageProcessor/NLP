@@ -1,0 +1,1 @@
+{"index": 75251, "D": "like curd;  full of or containing curd;  coagulated.", "S": [], "A": []}

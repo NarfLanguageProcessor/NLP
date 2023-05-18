@@ -1,0 +1,1 @@
+{"index": 329088, "D": "a group of three, especially of three closely related persons or things.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 252396, "D": "the whole body of warships and auxiliaries belonging to a country or ruler.", "S": [], "A": []}

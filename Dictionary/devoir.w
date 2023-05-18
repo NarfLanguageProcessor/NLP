@@ -1,0 +1,1 @@
+{"index": 83639, "D": "an act of civility or respect.", "S": ["assignment ", "burden ", "duty ", "errand ", "housework ", "routine ", "workout "], "A": ["happiness ", "peace "]}

@@ -1,0 +1,1 @@
+{"index": 110008, "D": "at or to a great distance; a long way off; at or to a remote point", "S": ["area ", "gap ", "length ", "orbit ", "radius ", "scope ", "separation ", "size ", "space ", "span ", "stretch ", "width "], "A": ["height "]}

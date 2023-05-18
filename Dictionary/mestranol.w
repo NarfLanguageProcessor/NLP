@@ -1,0 +1,1 @@
+{"index": 184532, "D": "an estrogen, C21H26O2, used in oral contraceptives in combination with a progestin.", "S": [], "A": []}

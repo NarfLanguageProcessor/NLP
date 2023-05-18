@@ -1,0 +1,1 @@
+{"index": 301457, "D": "to eject or discharge as or like foam or froth; spew (often followed by forth).", "S": ["barmy ", "boiling ", "burbling ", "carbonated ", "creamy ", "ebullient ", "effervescent ", "fermented ", "fizzy ", "frothy ", "lathery ", "scummy ", "seething ", "simmering ", "spumescent ", "spumous ", "sudsy ", "yeasty "], "A": []}

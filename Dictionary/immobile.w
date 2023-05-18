@@ -1,0 +1,1 @@
+{"index": 148020, "D": "incapable of moving or being moved.", "S": ["immovable ", "stagnant ", "static ", "stationary "], "A": ["mobile ", "moving ", "unfixed "]}

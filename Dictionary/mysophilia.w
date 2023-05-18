@@ -1,0 +1,1 @@
+{"index": 189721, "D": "a pathological attraction to dirt or filth.", "S": [], "A": []}

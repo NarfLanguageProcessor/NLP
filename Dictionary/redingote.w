@@ -1,0 +1,1 @@
+{"index": 264196, "D": "a dress or lightweight coat, usually belted, open along the entire front to reveal a dress or petticoat worn underneath it.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 124449, "D": "a person or thing that gets. ", "S": [], "A": []}

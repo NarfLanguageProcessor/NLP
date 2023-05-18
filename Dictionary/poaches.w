@@ -1,0 +1,1 @@
+{"index": 240894, "D": "to cook (eggs, fish, fruits, etc.) in a hot liquid that is kept just below the boiling point.", "S": ["smuggle "], "A": ["give ", "receive "]}

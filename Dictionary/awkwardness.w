@@ -1,0 +1,1 @@
+{"index": 25037, "D": "lacking skill or dexterity.", "S": ["ignorance ", "ineptitude "], "A": ["politeness ", "sophistication "]}

@@ -1,0 +1,1 @@
+{"index": 336410, "D": "without excitement, agitation, or passion", "S": [], "A": []}

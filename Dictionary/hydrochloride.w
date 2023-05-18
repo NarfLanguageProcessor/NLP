@@ -1,0 +1,1 @@
+{"index": 138569, "D": "a salt, especially of an alkaloid, formed by the direct union of hydrochloric acid with an organic base that makes the organic constituent more soluble.", "S": [], "A": []}

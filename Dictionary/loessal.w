@@ -1,0 +1,1 @@
+{"index": 174525, "D": "a loamy deposit formed by wind, usually yellowish and calcareous, common in the Mississippi Valley and in Europe and Asia.", "S": [], "A": []}

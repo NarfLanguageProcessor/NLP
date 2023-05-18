@@ -1,0 +1,1 @@
+{"index": 7921, "D": "(in classical architecture) a part of a pier, flanking a pilaster or engaged column and supporting either impost of an arch.", "S": [], "A": []}

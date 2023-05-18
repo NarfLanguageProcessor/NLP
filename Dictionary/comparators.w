@@ -1,0 +1,1 @@
+{"index": 64408, "D": "any of various instruments for making comparisons,  as of lengths or distances, tints of colors, etc.", "S": [], "A": []}

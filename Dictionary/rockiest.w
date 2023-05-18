@@ -1,0 +1,1 @@
+{"index": 273698, "D": "full of or abounding in rocks. ", "S": ["craggy ", "jagged ", "rough "], "A": ["even ", "smooth "]}

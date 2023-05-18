@@ -1,0 +1,1 @@
+{"index": 11840, "D": "a curved mirror or other optical device for giving a correct image of a picture or the like distorted by anamorphosis. ", "S": [], "A": []}

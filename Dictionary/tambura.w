@@ -1,0 +1,1 @@
+{"index": 315873, "D": "an Asian musical instrument of the lute family having a small, round body and a long neck.", "S": [], "A": []}

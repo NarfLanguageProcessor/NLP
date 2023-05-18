@@ -1,0 +1,1 @@
+{"index": 73609, "D": "a person who rents and works a small farm, especially in Scotland or northern England.", "S": ["metayer ", "peasant farmer ", "sharecropper "], "A": []}

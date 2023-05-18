@@ -1,0 +1,1 @@
+{"index": 35605, "D": "any of various plants of the genus Utricularia, including aquatic, terrestrial, and epiphytic forms throughout the world.", "S": [], "A": []}

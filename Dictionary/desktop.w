@@ -1,0 +1,1 @@
+{"index": 82674, "D": "small or compact enough to fit or be used on a desk", "S": ["PC ", "home computer ", "work station "], "A": []}

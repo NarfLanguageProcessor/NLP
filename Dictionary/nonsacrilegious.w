@@ -1,0 +1,1 @@
+{"index": 206966, "D": "pertaining to or involving sacrilege", "S": [], "A": []}

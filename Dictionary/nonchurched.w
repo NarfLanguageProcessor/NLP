@@ -1,0 +1,1 @@
+{"index": 201930, "D": "formally presented or taught at church. ", "S": [], "A": []}

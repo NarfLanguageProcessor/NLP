@@ -1,0 +1,1 @@
+{"index": 171262, "D": "to rise or float in the air, especially as a result of a supernatural power that overcomes gravity.", "S": ["drift ", "float ", "fly ", "hang ", "hover ", "rise ", "soar "], "A": ["land "]}

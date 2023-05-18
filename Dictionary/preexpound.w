@@ -1,0 +1,1 @@
+{"index": 247456, "D": "to set forth or state in detail", "S": [], "A": []}

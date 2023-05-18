@@ -1,0 +1,1 @@
+{"index": 122390, "D": "having illumination provided by burning gas", "S": [], "A": []}

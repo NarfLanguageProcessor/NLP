@@ -1,0 +1,1 @@
+{"index": 348313, "D": "destined in advance; foreordained; predetermined", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 255108, "D": "any of various methods, theories, or systems, as astrology, psychokinesis, or clairvoyance, considered as having no scientific basis.", "S": [], "A": []}

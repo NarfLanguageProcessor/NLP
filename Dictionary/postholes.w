@@ -1,0 +1,1 @@
+{"index": 244189, "D": "a hole  dug in the earth for setting in the end of a post,  as for a fence.", "S": [], "A": []}

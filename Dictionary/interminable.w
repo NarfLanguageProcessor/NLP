@@ -1,0 +1,1 @@
+{"index": 155371, "D": "incapable of being terminated; unending", "S": ["boundless ", "continuous ", "endless ", "eternal ", "incessant ", "limitless ", "long-winded ", "never-ending ", "perpetual ", "protracted "], "A": ["brief ", "ceasing ", "ending ", "ephemeral ", "halting ", "intermittent ", "interrupted ", "limited ", "stopping ", "temporary ", "terminable ", "transient "]}

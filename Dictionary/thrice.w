@@ -1,0 +1,1 @@
+{"index": 322664, "D": "three times, as in succession; on three occasions or in three ways.", "S": [], "A": []}

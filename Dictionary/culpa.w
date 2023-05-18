@@ -1,0 +1,1 @@
+{"index": 74778, "D": "negligence; neglect (distinguished from dolus)", "S": [], "A": []}

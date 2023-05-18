@@ -1,0 +1,1 @@
+{"index": 11508, "D": "having no spines or thorns.", "S": [], "A": []}

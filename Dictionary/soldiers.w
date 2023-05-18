@@ -1,0 +1,1 @@
+{"index": 296577, "D": "a person who serves in an army; a person engaged in military service.", "S": ["artillery ", "battalion ", "command ", "company ", "corps ", "infantry ", "squad ", "troops "], "A": ["individual ", "whole "]}

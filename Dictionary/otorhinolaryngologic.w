@@ -1,0 +1,1 @@
+{"index": 215972, "D": "of or relating to the medical practice involving the ear, nose, and throat.", "S": [], "A": []}

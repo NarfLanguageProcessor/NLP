@@ -1,0 +1,1 @@
+{"index": 263084, "D": "to draw back; start or shrink back, as in alarm, horror, or disgust.", "S": ["confused ", "coy ", "diffident ", "embarrassed ", "reticent ", "self-conscious ", "sheepish ", "timid "], "A": ["aggressive ", "bold ", "forward "]}

@@ -1,0 +1,1 @@
+{"index": 239492, "D": "a broad, thin muscle on each side of the neck, extending from the upper part of the shoulder to the corner of the mouth, the action of which wrinkles the skin of the neck and depresses the corner of the mouth.", "S": [], "A": []}

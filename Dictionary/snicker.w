@@ -1,0 +1,1 @@
+{"index": 295484, "D": "to laugh in a half-suppressed, indecorous or disrespectful manner.", "S": ["chortle ", "chuckle ", "giggle ", "laugh ", "smirk ", "sneer "], "A": ["praise "]}

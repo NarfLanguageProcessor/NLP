@@ -1,0 +1,1 @@
+{"index": 217020, "D": "to pass from one place or position to another.", "S": [], "A": []}

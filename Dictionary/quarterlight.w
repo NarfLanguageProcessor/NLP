@@ -1,0 +1,1 @@
+{"index": 258053, "D": "a small pivoted window in the door of a car for ventilation", "S": [], "A": []}

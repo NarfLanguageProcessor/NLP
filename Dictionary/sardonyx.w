@@ -1,0 +1,1 @@
+{"index": 278462, "D": "a chalcedony that is used for cameos and has sard and chalcedony of another color, usually white, arranged in straight parallel bands.", "S": [], "A": []}

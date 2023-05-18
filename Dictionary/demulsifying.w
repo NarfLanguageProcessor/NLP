@@ -1,0 +1,1 @@
+{"index": 80932, "D": "to break down (an emulsion) into separate substances incapable of re-forming the emulsion that was broken down.", "S": [], "A": []}

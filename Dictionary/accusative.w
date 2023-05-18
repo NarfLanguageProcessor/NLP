@@ -1,0 +1,1 @@
+{"index": 1857, "D": "similar to such a case form in function or meaning.", "S": [], "A": []}

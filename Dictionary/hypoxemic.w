@@ -1,0 +1,1 @@
+{"index": 141348, "D": "inadequate oxygenation of the blood", "S": [], "A": []}

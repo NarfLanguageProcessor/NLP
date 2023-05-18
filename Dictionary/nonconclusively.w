@@ -1,0 +1,1 @@
+{"index": 202220, "D": "serving to settle or decide a question; decisive; convincing", "S": [], "A": []}

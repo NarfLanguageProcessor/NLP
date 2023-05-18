@@ -1,0 +1,1 @@
+{"index": 105442, "D": "any member of the protist phylum Euglenophyta, comprising unicellular organisms, either green and photosynthetic or colorless and nonphotosynthetic, characterized by one or two anterior flagella and, in photosynthetic forms, an eyespot at the base of the flagella", "S": [], "A": []}

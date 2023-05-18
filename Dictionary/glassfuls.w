@@ -1,0 +1,1 @@
+{"index": 125971, "D": "an amount contained by or sufficient to fill a glass  or tumbler.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 50478, "D": "a plant, Apium graveolens, of the parsley family, whose leafstalks are eaten raw or cooked.", "S": [], "A": []}

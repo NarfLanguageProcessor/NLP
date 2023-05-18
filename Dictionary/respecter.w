@@ -1,0 +1,1 @@
+{"index": 269701, "D": "someone or something that is influenced by the social standing, importance, power, or any deterrent put forth by persons or things (used chiefly in negative constructions)", "S": [], "A": []}

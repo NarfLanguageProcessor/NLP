@@ -1,0 +1,1 @@
+{"index": 301095, "D": "free from any spot,  stain, etc.; immaculately clean", "S": ["abstinence ", "decency ", "monogamy ", "virginity "], "A": ["badness ", "corruption ", "disgrace ", "dishonesty ", "dishonor ", "evil ", "immorality ", "wildness "]}

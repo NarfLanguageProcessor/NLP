@@ -1,0 +1,1 @@
+{"index": 178485, "D": "one of the four schools of Islamic law, founded by Malik ibn Anas (c715\u2013795).", "S": [], "A": []}

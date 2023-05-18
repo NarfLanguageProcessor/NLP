@@ -1,0 +1,1 @@
+{"index": 271727, "D": "any of various rod-shaped structures.", "S": [], "A": []}

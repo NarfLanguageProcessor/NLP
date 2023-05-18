@@ -1,0 +1,1 @@
+{"index": 298106, "D": "a Hindu banker.", "S": [], "A": []}

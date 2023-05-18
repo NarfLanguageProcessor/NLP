@@ -1,0 +1,1 @@
+{"index": 147802, "D": "a compound containing the =NH group united with a nonacid group.", "S": [], "A": []}

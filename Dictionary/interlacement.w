@@ -1,0 +1,1 @@
+{"index": 155140, "D": "to cross one another, typically passing alternately over and under, as if woven together; intertwine", "S": [], "A": []}

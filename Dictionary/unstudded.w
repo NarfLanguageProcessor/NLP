@@ -1,0 +1,1 @@
+{"index": 352203, "D": "a boss, knob, nailhead, or other protuberance projecting from a surface or part, especially as an ornament.", "S": [], "A": []}

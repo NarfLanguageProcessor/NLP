@@ -1,0 +1,1 @@
+{"index": 364322, "D": "contraction of we have", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97545, "D": "drawn or brought out in response to something", "S": ["bring out ", "evoke ", "extort ", "extract ", "obtain ", "wrest ", "wring "], "A": ["give ", "placate ", "soothe "]}

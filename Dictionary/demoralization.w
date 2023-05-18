@@ -1,0 +1,1 @@
+{"index": 80886, "D": "to deprive (a person or persons) of spirit, courage, discipline, etc.; destroy the morale  of", "S": ["confusion ", "depression ", "intimidation ", "trepidation "], "A": ["calm ", "happiness "]}

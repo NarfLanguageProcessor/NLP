@@ -1,0 +1,1 @@
+{"index": 172546, "D": "the accumulation of lymph in soft tissue with accompanying swelling, often of the extremities", "S": [], "A": []}

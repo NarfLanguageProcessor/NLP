@@ -1,0 +1,1 @@
+{"index": 220457, "D": "having, compelled by, or ruled by intense emotion or strong feeling; fervid", "S": [], "A": []}

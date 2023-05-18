@@ -1,0 +1,1 @@
+{"index": 351085, "D": "to shove or turn (someone or something) aside or out of the way.", "S": [], "A": []}

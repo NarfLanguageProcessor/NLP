@@ -1,0 +1,1 @@
+{"index": 343205, "D": "to pass by gradual or imperceptible degrees, as one color into another.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 104711, "D": "an estrogenic hormone, C18H24O2, produced by the maturing Graafian follicle, that causes proliferation and thickening of the tissues and blood vessels of the endometrium.", "S": [], "A": []}

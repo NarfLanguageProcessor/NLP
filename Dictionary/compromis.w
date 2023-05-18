@@ -1,0 +1,1 @@
+{"index": 64898, "D": "a formal document, executed in common by nations submitting a dispute to arbitration, that defines the matter at issue, the rules of procedure and the powers of the arbitral tribunal, and the principles for determining the award.", "S": [], "A": []}

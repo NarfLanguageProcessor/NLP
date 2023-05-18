@@ -1,0 +1,1 @@
+{"index": 129216, "D": "a woman who is separated, divorced, or lives apart from her husband.", "S": [], "A": []}

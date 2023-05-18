@@ -1,0 +1,1 @@
+{"index": 293527, "D": "a broad, flat, somewhat thick piece of stone, wood, or other solid material.", "S": [], "A": []}

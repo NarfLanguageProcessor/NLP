@@ -1,0 +1,1 @@
+{"index": 132819, "D": "resembling or derived from a halogen.", "S": [], "A": []}

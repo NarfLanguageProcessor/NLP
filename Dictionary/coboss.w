@@ -1,0 +1,1 @@
+{"index": 61245, "D": "(used to summon cows from the pasture.)", "S": [], "A": []}

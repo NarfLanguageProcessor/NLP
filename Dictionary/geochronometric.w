@@ -1,0 +1,1 @@
+{"index": 123816, "D": "the determination of the absolute age of earth materials, as by radiometric dating.", "S": [], "A": []}

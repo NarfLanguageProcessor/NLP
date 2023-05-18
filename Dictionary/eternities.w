@@ -1,0 +1,1 @@
+{"index": 104852, "D": "infinite time; duration without beginning or end.", "S": ["aeon ", "afterlife ", "age ", "ages ", "endlessness ", "everlastingness ", "future ", "immortality ", "imperishability ", "infiniteness ", "infinitude ", "infinity ", "perpetuity ", "timelessness "], "A": []}

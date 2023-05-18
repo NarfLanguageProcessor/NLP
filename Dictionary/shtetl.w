@@ -1,0 +1,1 @@
+{"index": 289310, "D": "(formerly) a Jewish village or small-town community in eastern Europe.", "S": [], "A": []}

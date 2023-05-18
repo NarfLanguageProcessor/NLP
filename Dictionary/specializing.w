@@ -1,0 +1,1 @@
+{"index": 298759, "D": "to pursue some special line of study, work, etc.; have a specialty", "S": ["train "], "A": ["stop "]}

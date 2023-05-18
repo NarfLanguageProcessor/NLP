@@ -1,0 +1,1 @@
+{"index": 48105, "D": "a crystalline, water-soluble powder, C12H24N2O4, used as a muscle relaxant.", "S": [], "A": []}

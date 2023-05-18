@@ -1,0 +1,1 @@
+{"index": 291930, "D": "to give synonyms  for (a word, name, etc.); furnish with synonyms. ", "S": [], "A": []}

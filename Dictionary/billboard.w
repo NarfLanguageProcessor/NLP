@@ -1,0 +1,1 @@
+{"index": 33978, "D": "a flat surface or board,  usually outdoors, on which large advertisements or notices are posted.", "S": ["advertisement ", "placard ", "poster ", "signboard "], "A": []}

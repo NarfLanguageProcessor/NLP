@@ -1,0 +1,1 @@
+{"index": 150149, "D": "impossible to understand or comprehend; unintelligible.", "S": [], "A": []}

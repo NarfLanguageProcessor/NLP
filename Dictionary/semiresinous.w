@@ -1,0 +1,1 @@
+{"index": 284858, "D": "full of or containing resin. ", "S": [], "A": []}

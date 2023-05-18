@@ -1,0 +1,1 @@
+{"index": 101159, "D": "the act or fact of entailing,  or involving by necessity or as a consequence", "S": ["consequence ", "ramification ", "repercussion ", "residual ", "result "], "A": ["elimination ", "exclusion ", "neglecting ", "rejection ", "removal "]}

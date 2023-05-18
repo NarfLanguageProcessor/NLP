@@ -1,0 +1,1 @@
+{"index": 162993, "D": "a divine being or spiritual force in Shinto", "S": [], "A": []}

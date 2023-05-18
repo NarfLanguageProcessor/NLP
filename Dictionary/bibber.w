@@ -1,0 +1,1 @@
+{"index": 33204, "D": "a steady drinker; tippler (usually used in combination)", "S": ["alcoholic ", "bacchanal ", "boozer ", "carouser ", "debauchee ", "dipsomaniac ", "drinker ", "drunk ", "inebriate ", "lush ", "soak ", "sot ", "souse ", "sponge ", "stiff ", "tippler ", "toper ", "wino "], "A": ["abstainer ", "ascetic ", "nephalist ", "teetotaler "]}

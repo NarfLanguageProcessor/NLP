@@ -1,0 +1,1 @@
+{"index": 18238, "D": "a dry spirit, especially of Scandinavia, made from redistilled grain or potato alcohol and usually flavored with caraway seeds.", "S": [], "A": []}

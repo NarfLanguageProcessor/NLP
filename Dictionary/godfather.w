@@ -1,0 +1,1 @@
+{"index": 127336, "D": "a man who serves as sponsor for a child at baptism.", "S": ["elder ", "patron "], "A": []}

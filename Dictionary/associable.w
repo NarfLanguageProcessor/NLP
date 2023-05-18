@@ -1,0 +1,1 @@
+{"index": 21861, "D": "capable of being associated. ", "S": ["germane ", "pertinent ", "relevant ", "suitable ", "suited ", "useful "], "A": ["improper ", "inappropriate ", "irrelevant ", "unfitting ", "unsuitable "]}

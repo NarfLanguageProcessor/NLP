@@ -1,0 +1,1 @@
+{"index": 110169, "D": "a prevailing custom or style of dress, etiquette, socializing, etc.", "S": ["fad ", "form ", "look ", "mode ", "model ", "pattern ", "shape ", "thing ", "tone ", "trend "], "A": ["disorganization ", "departure "]}

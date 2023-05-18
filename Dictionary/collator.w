@@ -1,0 +1,1 @@
+{"index": 62877, "D": "a person or machine that collates texts or manuscripts", "S": [], "A": []}

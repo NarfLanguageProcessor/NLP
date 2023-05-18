@@ -1,0 +1,1 @@
+{"index": 290132, "D": "a person who signs  a document, register, etc.; signer; signatory", "S": [], "A": []}

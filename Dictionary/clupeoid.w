@@ -1,0 +1,1 @@
+{"index": 60727, "D": "resembling a fish of the family Clupeidae; clupeid.", "S": [], "A": []}

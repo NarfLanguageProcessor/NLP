@@ -1,0 +1,1 @@
+{"index": 126793, "D": "to look or stare with sullen dislike, discontent, or anger.", "S": ["scowl "], "A": ["grin ", "ignore ", "overlook ", "smile "]}

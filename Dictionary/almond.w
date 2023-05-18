@@ -1,0 +1,1 @@
+{"index": 9144, "D": "the nutlike kernel of the fruit of either of two trees, Prunus dulcis(sweet almond ) or P. dulcis amara(bitter almond ), which grow in warm temperate regions.", "S": [], "A": []}

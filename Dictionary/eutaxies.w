@@ -1,0 +1,1 @@
+{"index": 105870, "D": "good order or management.", "S": [], "A": []}

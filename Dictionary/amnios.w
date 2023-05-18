@@ -1,0 +1,1 @@
+{"index": 10844, "D": "amniocentesis. ", "S": [], "A": []}

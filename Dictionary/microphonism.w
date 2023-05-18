@@ -1,0 +1,1 @@
+{"index": 186370, "D": "a usually undesirable property of some electronic circuits or components in which mechanical vibrations of a component affect the signal being transmitted through the circuit.", "S": [], "A": []}

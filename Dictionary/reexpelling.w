@@ -1,0 +1,1 @@
+{"index": 264875, "D": "to drive or force out or away; discharge or eject", "S": [], "A": []}

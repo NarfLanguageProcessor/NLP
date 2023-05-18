@@ -1,0 +1,1 @@
+{"index": 148724, "D": "not to be appeased, mollified, or pacified; inexorable", "S": ["inexorable ", "intractable ", "relentless ", "ruthless ", "uncompromising ", "unforgiving ", "unrelenting ", "unyielding "], "A": ["compassionate ", "flexible ", "kind ", "merciful ", "remorseful ", "sympathetic ", "yielding "]}

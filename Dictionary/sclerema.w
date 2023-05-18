@@ -1,0 +1,1 @@
+{"index": 280921, "D": "sclerosis, or hardening, especially of the skin.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 327200, "D": "one of the supporters of Tractarianism; a supporter of the Oxford movement.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 105805, "D": "a variant spelling (esp US) of eurhythmics", "S": [], "A": []}

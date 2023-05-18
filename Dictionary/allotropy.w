@@ -1,0 +1,1 @@
+{"index": 8987, "D": "a property of certain elements, as carbon, sulfur, and phosphorus, of existing in two or more distinct forms; allomorphism.", "S": [], "A": []}

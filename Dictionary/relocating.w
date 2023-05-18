@@ -1,0 +1,1 @@
+{"index": 267037, "D": "to move (a building, company, etc.) to a different location", "S": ["advance ", "carry ", "change ", "dislocate ", "disturb ", "impel ", "position ", "push ", "remove ", "shift ", "shove ", "transfer ", "transpose "], "A": ["dissuade ", "hold ", "keep ", "lose ", "order ", "pull ", "remain ", "repress ", "stay ", "suppress "]}

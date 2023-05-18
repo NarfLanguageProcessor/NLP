@@ -1,0 +1,1 @@
+{"index": 67097, "D": [], "S": ["apprehension ", "definition ", "exegesis ", "explication ", "exposition ", "inference ", "interpretation ", "reading ", "rendering ", "rendition ", "translation ", "version "], "A": ["vagueness "]}

@@ -1,0 +1,1 @@
+{"index": 33530, "D": "to endure; bear.", "S": [], "A": []}

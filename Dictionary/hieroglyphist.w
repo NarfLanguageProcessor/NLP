@@ -1,0 +1,1 @@
+{"index": 139142, "D": "a person who studies hieroglyphics;  hieroglyphologist.", "S": [], "A": []}

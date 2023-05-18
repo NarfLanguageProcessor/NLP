@@ -1,0 +1,1 @@
+{"index": 182049, "D": "of, relating to, or characteristic of a mediator.", "S": [], "A": []}

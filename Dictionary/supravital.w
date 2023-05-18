@@ -1,0 +1,1 @@
+{"index": 313275, "D": "pertaining to or involving a staining method for a preparation of living cells.", "S": [], "A": []}

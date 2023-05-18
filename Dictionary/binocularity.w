@@ -1,0 +1,1 @@
+{"index": 34235, "D": "an optical device, providing good depth effect, for use with both eyes, consisting of two small telescopes fitted together side by side, each telescope having two prisms between the eyepiece and objective for erecting the image.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 525, "D": "to renounce, repudiate, or retract, especially with formal solemnity; recant", "S": [], "A": []}

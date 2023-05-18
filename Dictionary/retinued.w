@@ -1,0 +1,1 @@
+{"index": 270536, "D": "a body of retainers in attendance upon an important personage; suite.", "S": [], "A": []}

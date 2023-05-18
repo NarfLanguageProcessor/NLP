@@ -1,0 +1,1 @@
+{"index": 5917, "D": "a tall shrub, Mahonia trifoliolata, of the barberry family, of southwestern North America, having stiff, oblong leaflets with spiny teeth and a red fruit used in jelly.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 152209, "D": "the state of being informal;  absence of formality. ", "S": ["casualness ", "familiarity ", "nonchalance ", "simplicity ", "spontaneity "], "A": ["inability "]}

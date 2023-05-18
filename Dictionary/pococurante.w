@@ -1,0 +1,1 @@
+{"index": 240963, "D": "a careless or indifferent person.", "S": ["casual ", "forgetful ", "hasty ", "inaccurate ", "indifferent ", "indiscreet ", "irresponsible ", "lackadaisical ", "lax ", "negligent ", "nonchalant ", "reckless ", "sloppy ", "thoughtless ", "wasteful "], "A": ["attentive ", "careful ", "caring ", "mindful ", "responsible "]}

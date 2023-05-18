@@ -1,0 +1,1 @@
+{"index": 26993, "D": "a smokeless powder consisting of nitroglycerine and nitrocellulose chiefly in a 40 to 60 percent ratio", "S": [], "A": []}

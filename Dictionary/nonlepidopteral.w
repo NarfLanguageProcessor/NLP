@@ -1,0 +1,1 @@
+{"index": 204983, "D": "belonging or pertaining to the Lepidoptera,  an order of insects comprising the butterflies, moths, and skippers, that in the adult state have four membranous wings more or less covered with small scales.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 174880, "D": "depressed or sad because of the lack of friends, companionship, etc.; lonely", "S": [], "A": []}

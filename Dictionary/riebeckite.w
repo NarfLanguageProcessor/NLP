@@ -1,0 +1,1 @@
+{"index": 272709, "D": "an amphibolic mineral, silicate of sodium and iron, occurring usually in feldspathoid rocks.", "S": [], "A": []}

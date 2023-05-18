@@ -1,0 +1,1 @@
+{"index": 312549, "D": "harsh, cutting, or bitter derision, often using irony to point out the deficiencies or failings of someone or something", "S": [], "A": []}

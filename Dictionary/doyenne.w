@@ -1,0 +1,1 @@
+{"index": 91016, "D": "a woman who is the senior member, as in age or rank, of a group, class, profession, etc.", "S": ["ancient ", "doyen ", "elder ", "elderly person ", "first-born ", "grandfather ", "grandmother ", "head ", "matriarch ", "old folk ", "old-timer ", "oldster ", "patriarch ", "pensioner ", "retired person ", "senior citizen "], "A": []}

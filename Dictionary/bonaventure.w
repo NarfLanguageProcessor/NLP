@@ -1,0 +1,1 @@
+{"index": 37784, "D": "a mast fitted with a lateen sail (bonaventure mizzen ) or lugsail, situated behind the mizzenmast at or near the stern, used in the 16th and early 17th centuries.", "S": [], "A": []}

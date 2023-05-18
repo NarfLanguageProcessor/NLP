@@ -1,0 +1,1 @@
+{"index": 146543, "D": "pertaining to the nature of idiosyncrasy,  or something peculiar to an individual", "S": ["characteristic ", "distinctive ", "individual ", "peculiar ", "singular ", "specific ", "unique "], "A": []}

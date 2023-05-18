@@ -1,0 +1,1 @@
+{"index": 43676, "D": "butter;  milk fat;  a mixture of glycerides, mainly butyrin, olein, and palmitin.", "S": [], "A": []}

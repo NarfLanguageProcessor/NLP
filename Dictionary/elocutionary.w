@@ -1,0 +1,1 @@
+{"index": 97717, "D": "a person's manner of speaking or reading aloud in public", "S": ["eloquent ", "rhetorical ", "stylistic "], "A": []}

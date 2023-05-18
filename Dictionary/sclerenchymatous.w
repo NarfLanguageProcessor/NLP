@@ -1,0 +1,1 @@
+{"index": 280924, "D": "supporting or protective tissue composed of thickened, dry, and hardened cells.", "S": [], "A": []}

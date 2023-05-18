@@ -1,0 +1,1 @@
+{"index": 28579, "D": "the state of being a base.", "S": [], "A": []}

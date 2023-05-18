@@ -1,0 +1,1 @@
+{"index": 176114, "D": "a molecule or group of molecules that emits light when illuminated.", "S": [], "A": []}

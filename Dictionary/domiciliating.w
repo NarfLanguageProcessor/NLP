@@ -1,0 +1,1 @@
+{"index": 91293, "D": "to domicile.", "S": ["naturalize "], "A": ["abandon ", "disjoin ", "fix ", "mend ", "neglect "]}

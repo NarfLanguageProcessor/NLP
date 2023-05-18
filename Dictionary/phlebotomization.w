@@ -1,0 +1,1 @@
+{"index": 234469, "D": "to subject to phlebotomy;  bleed.", "S": [], "A": []}

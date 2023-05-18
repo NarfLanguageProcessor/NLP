@@ -1,0 +1,1 @@
+{"index": 79408, "D": "to deprive (a woman) of virginity.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 252708, "D": "to make favorably inclined; appease; conciliate.", "S": ["appease ", "assuage ", "atone ", "mollify ", "pacify ", "placate ", "satisfy "], "A": ["agitate ", "incite ", "irritate ", "provoke ", "upset ", "worry "]}

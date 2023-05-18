@@ -1,0 +1,1 @@
+{"index": 85773, "D": "the leaves of the dill  plant, especially when used dried and as a food flavoring.", "S": [], "A": []}

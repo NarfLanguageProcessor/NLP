@@ -1,0 +1,1 @@
+{"index": 141866, "D": "the branch of knowledge dealing with past events.", "S": ["past "], "A": ["future "]}

@@ -1,0 +1,1 @@
+{"index": 217641, "D": "to stretch  forth; extend", "S": [], "A": []}

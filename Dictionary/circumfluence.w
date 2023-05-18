@@ -1,0 +1,1 @@
+{"index": 58127, "D": "flowing around; encompassing. ", "S": [], "A": []}

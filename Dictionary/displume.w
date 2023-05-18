@@ -1,0 +1,1 @@
+{"index": 89092, "D": "to strip of plumes; deplume.", "S": [], "A": []}

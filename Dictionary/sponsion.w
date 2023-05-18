@@ -1,0 +1,1 @@
+{"index": 300811, "D": "an engagement or promise, especially one made on behalf of another.", "S": [], "A": []}

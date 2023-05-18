@@ -1,0 +1,1 @@
+{"index": 162477, "D": "a person versed in the law, as a judge, lawyer, or scholar.", "S": ["barrister ", "counselor ", "legal expert "], "A": []}

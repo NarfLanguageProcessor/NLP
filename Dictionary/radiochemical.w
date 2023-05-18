@@ -1,0 +1,1 @@
+{"index": 259641, "D": "pertaining to or involving radiochemistry.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 4955, "D": "(of an organism or tissue) requiring the presence of air or free oxygen for life.", "S": ["aquarobics ", "dance workout ", "drill ", "exercise ", "high impact ", "low impact ", "slimnastics ", "step ", "workout "], "A": []}

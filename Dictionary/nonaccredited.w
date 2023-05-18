@@ -1,0 +1,1 @@
+{"index": 201035, "D": "officially recognized as meeting the essential requirements, as of academic excellence", "S": [], "A": []}

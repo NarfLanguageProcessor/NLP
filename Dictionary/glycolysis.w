@@ -1,0 +1,1 @@
+{"index": 126270, "D": "the catabolism of carbohydrates, as glucose and glycogen, by enzymes, with the release of energy and the production of lactic or pyruvic acid.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 367197, "D": "a tract, especially on a farm, set aside for trees.", "S": ["jungle ", "park ", "thicket ", "timber ", "wood ", "woodland "], "A": []}

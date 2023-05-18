@@ -1,0 +1,1 @@
+{"index": 366893, "D": "a North American shrub, Symphoricarpos occidentalis, of the honeysuckle family, having gray, hairy, egg-shaped leaves and pinkish, bell-shaped flowers, and bearing white berries. ", "S": [], "A": []}

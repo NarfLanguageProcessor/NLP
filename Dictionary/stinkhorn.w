@@ -1,0 +1,1 @@
+{"index": 304694, "D": "any of various rank-smelling, brown-capped mushrooms of the genus Phallus, especially P. impudicus.", "S": [], "A": []}

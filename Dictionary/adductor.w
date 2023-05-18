@@ -1,0 +1,1 @@
+{"index": 3621, "D": "any muscle that adducts  (opposed to abductor).", "S": [], "A": []}

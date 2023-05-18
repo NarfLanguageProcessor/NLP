@@ -1,0 +1,1 @@
+{"index": 2408, "D": "any bulbous African plant belonging to the genus Acidanthera, of the iris family, having sword-shaped leaves and long tubular flowers.", "S": [], "A": []}

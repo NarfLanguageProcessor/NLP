@@ -1,0 +1,1 @@
+{"index": 194301, "D": "a trap  for mice, especially one consisting of a rectangular wooden base on which a metal spring is mounted.", "S": ["land mine "], "A": []}

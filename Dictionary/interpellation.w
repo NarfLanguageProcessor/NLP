@@ -1,0 +1,1 @@
+{"index": 155592, "D": "a procedure in some legislative bodies of asking a government official to explain an act or policy, sometimes leading, in parliamentary government, to a vote of confidence or a change of government.", "S": [], "A": []}

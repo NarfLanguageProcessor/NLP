@@ -1,0 +1,1 @@
+{"index": 30783, "D": "the theory or doctrine that human or animal psychology can be accurately studied only through the examination and analysis of objectively observable and quantifiable behavioral  events, in contrast with subjective mental states.", "S": [], "A": []}

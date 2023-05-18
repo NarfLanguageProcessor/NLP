@@ -1,0 +1,1 @@
+{"index": 181296, "D": "a pine, Pinus massoniana, of China, yielding a wood used in furniture-making, the construction of houses, etc.", "S": [], "A": []}

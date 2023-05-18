@@ -1,0 +1,1 @@
+{"index": 36624, "D": "the sound of any vapor or gas issuing from a vent under pressure.", "S": ["blasting "], "A": []}

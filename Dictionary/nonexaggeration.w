@@ -1,0 +1,1 @@
+{"index": 203723, "D": "the act of exaggerating  or overstating.", "S": [], "A": []}

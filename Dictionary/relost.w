@@ -1,0 +1,1 @@
+{"index": 267047, "D": "to come to be without (something in one's possession or care), through accident, theft, etc., so that there is little or no prospect of recovery", "S": [], "A": []}

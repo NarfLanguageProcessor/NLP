@@ -1,0 +1,1 @@
+{"index": 127882, "D": "kind or generous; considerate; benevolent.", "S": [], "A": []}

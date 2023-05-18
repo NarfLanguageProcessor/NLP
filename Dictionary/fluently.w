@@ -1,0 +1,1 @@
+{"index": 115262, "D": "smoothly, relatively rapidly, and easily, with few or no errors", "S": ["calmly ", "comfortably ", "conveniently ", "efficiently ", "effortlessly ", "freely ", "handily ", "quickly ", "readily ", "regularly ", "simply ", "smoothly ", "surely ", "well "], "A": ["difficultly ", "insufficiently "]}

@@ -1,0 +1,1 @@
+{"index": 143282, "D": "the relation that exists between two mappings in a topological space if one mapping can be deformed in a continuous way to make it coincide with the other.", "S": [], "A": []}

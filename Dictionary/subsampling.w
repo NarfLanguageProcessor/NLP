@@ -1,0 +1,1 @@
+{"index": 309042, "D": "a specimen from or a small part of a sample. ", "S": [], "A": []}

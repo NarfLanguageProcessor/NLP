@@ -1,0 +1,1 @@
+{"index": 153324, "D": "seeking facts, information, or knowledge", "S": [], "A": []}

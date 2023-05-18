@@ -1,0 +1,1 @@
+{"index": 338596, "D": "challenged or resisted boldly or openly; rebelled against", "S": [], "A": []}

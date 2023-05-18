@@ -1,0 +1,1 @@
+{"index": 302040, "D": "to wriggle or writhe.", "S": ["flounder ", "writhe "], "A": ["straighten "]}

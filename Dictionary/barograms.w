@@ -1,0 +1,1 @@
+{"index": 28165, "D": "a record traced by a barograph or similar instrument.", "S": [], "A": []}

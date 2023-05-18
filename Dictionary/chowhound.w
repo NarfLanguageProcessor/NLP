@@ -1,0 +1,1 @@
+{"index": 55954, "D": "a person who eats food in large quantities or with great gusto; glutton.", "S": [], "A": []}

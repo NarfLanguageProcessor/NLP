@@ -1,0 +1,1 @@
+{"index": 348272, "D": "without previous instance; never before known or experienced; unexampled or unparalleled", "S": [], "A": []}

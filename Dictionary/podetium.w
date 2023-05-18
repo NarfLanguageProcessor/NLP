@@ -1,0 +1,1 @@
+{"index": 241023, "D": "(in certain lichens) a stalk bearing an apothecium.", "S": [], "A": []}

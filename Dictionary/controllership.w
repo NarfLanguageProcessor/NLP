@@ -1,0 +1,1 @@
+{"index": 67808, "D": "an employee, often an officer, of a business firm who checks expenditures, finances, etc.; comptroller.", "S": [], "A": []}

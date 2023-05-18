@@ -1,0 +1,1 @@
+{"index": 195732, "D": "dark, gloomy, and cheerless.", "S": ["cloudy ", "dark ", "dim ", "dirty ", "dismal ", "dreary ", "foggy ", "fuzzy ", "misty ", "muddy ", "nebulous ", "stormy "], "A": ["apparent ", "bright ", "brilliant ", "cheerful ", "clean ", "clear ", "distinct ", "good ", "happy ", "hopeful ", "light ", "moral ", "plain ", "pleasant "]}

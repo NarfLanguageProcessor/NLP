@@ -1,0 +1,1 @@
+{"index": 27754, "D": "pieces of meat, fowl, fish, or the like, roasted or smoked over fire, especially when basted in a barbecue sauce", "S": ["cookout ", "picnic "], "A": []}

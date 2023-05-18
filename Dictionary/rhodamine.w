@@ -1,0 +1,1 @@
+{"index": 272254, "D": "a red dye obtained by heating an alkyl aminophenol with phthalic anhydride.", "S": [], "A": []}

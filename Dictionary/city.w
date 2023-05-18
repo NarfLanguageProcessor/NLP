@@ -1,0 +1,1 @@
+{"index": 58634, "D": "a large or important town.", "S": ["burghal ", "citified ", "civic ", "civil ", "interurban ", "intraurban ", "megalopolitan ", "municipal ", "urban "], "A": ["rural "]}

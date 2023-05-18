@@ -1,0 +1,1 @@
+{"index": 87433, "D": "to change or cause to change in colour; fade or stain", "S": [], "A": []}

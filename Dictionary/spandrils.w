@@ -1,0 +1,1 @@
+{"index": 298316, "D": "an area between the extradoses of two adjoining arches, or between the extrados of an arch and a perpendicular through the extrados at the springing line.", "S": [], "A": []}

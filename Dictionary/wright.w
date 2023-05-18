@@ -1,0 +1,1 @@
+{"index": 367977, "D": "a worker, especially a constructive worker (used chiefly in combination)", "S": ["artisan "], "A": ["apprentice ", "unskilled worker "]}

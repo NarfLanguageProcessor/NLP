@@ -1,0 +1,1 @@
+{"index": 124944, "D": "the process of attenuating worsted fibers and making them parallel by using a gill box  while combing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 149684, "D": "encapsulate. ", "S": [], "A": []}

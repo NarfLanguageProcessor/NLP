@@ -1,0 +1,1 @@
+{"index": 43758, "D": "the small core of plastic, wood, or metal that is the base for buttons covered with fabric, leather, etc", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288521, "D": "any shirt  fabric, as broadcloth or oxford.", "S": [], "A": []}

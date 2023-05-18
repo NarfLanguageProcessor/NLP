@@ -1,0 +1,1 @@
+{"index": 156661, "D": "located in, taking place in, or resulting from action beneath the lithosphere.", "S": [], "A": []}

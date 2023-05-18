@@ -1,0 +1,1 @@
+{"index": 257620, "D": "having four sides.", "S": ["parallelogram ", "rectangle ", "rhombus ", "square "], "A": []}

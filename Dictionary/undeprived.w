@@ -1,0 +1,1 @@
+{"index": 338793, "D": "marked by deprivation;  lacking the necessities of life, as adequate food and shelter", "S": [], "A": []}

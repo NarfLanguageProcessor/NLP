@@ -1,0 +1,1 @@
+{"index": 44453, "D": "a ductile silvery-white element of the alkali metal group that is the most electropositive metal. It occurs in pollucite and lepidolite and is used in photocells. The radioisotope caesium-137, with a half-life of 30.2 years, is used in radiotherapy. Symbol", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 46802, "D": "a first-magnitude star in the constellation Auriga.", "S": [], "A": []}

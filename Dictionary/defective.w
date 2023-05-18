@@ -1,0 +1,1 @@
+{"index": 79157, "D": "having a defect  or flaw; faulty; imperfect", "S": ["abnormal ", "damaged ", "deficient ", "faulty ", "flawed ", "inadequate ", "insufficient ", "unhealthy ", "unsound "], "A": ["adequate ", "ample ", "enough ", "perfect ", "sound ", "strong ", "sufficient ", "well ", "working "]}

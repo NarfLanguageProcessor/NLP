@@ -1,0 +1,1 @@
+{"index": 187561, "D": "a pulpit in a mosque.", "S": [], "A": []}

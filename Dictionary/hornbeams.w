@@ -1,0 +1,1 @@
+{"index": 143836, "D": "any North American shrub or tree belonging to the genus Carpinus, of the birch family, yielding a hard, heavy wood, as C. caroliniana(American hornbeam ).", "S": [], "A": []}

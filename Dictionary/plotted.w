@@ -1,0 +1,1 @@
+{"index": 240223, "D": "a secret plan or scheme to accomplish some purpose, especially a hostile, unlawful, or evil purpose", "S": ["definite ", "destined ", "familiar ", "fated ", "fixed ", "in the cards ", "old hat ", "ordained ", "ordinary ", "prearranged ", "precise ", "routine ", "set ", "settled ", "specific ", "trite ", "written "], "A": ["vague "]}

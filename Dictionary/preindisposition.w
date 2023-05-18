@@ -1,0 +1,1 @@
+{"index": 247952, "D": "state of being indisposed. ", "S": [], "A": []}

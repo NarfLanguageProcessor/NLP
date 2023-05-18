@@ -1,0 +1,1 @@
+{"index": 154384, "D": "a device used to measure x-ray intensity  in radiography in order to determine correct exposure time.", "S": [], "A": []}

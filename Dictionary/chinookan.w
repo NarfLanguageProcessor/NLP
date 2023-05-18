@@ -1,0 +1,1 @@
+{"index": 54644, "D": "a language family comprising only Lower Chinook  and Upper Chinook. ", "S": [], "A": []}

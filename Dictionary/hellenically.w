@@ -1,0 +1,1 @@
+{"index": 135683, "D": "Compare Hellenistic (def. 3). ", "S": [], "A": []}

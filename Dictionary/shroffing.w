@@ -1,0 +1,1 @@
+{"index": 289263, "D": "(in India) a banker or money-changer.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 11041, "D": "the class comprising the amphibians.", "S": [], "A": []}

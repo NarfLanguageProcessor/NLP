@@ -1,0 +1,1 @@
+{"index": 83460, "D": "tending or threatening to devastate", "S": [], "A": []}

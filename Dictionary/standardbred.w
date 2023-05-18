@@ -1,0 +1,1 @@
+{"index": 302657, "D": "pertaining to a horse of the Standardbred breed.", "S": [], "A": []}

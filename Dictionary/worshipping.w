@@ -1,0 +1,1 @@
+{"index": 367686, "D": "reverent honor and homage paid to God or a sacred personage, or to any object regarded as sacred.", "S": ["appreciative ", "deferential ", "gracious ", "polite ", "reverential ", "solemn "], "A": ["impolite ", "rude "]}

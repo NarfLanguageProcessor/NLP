@@ -1,0 +1,1 @@
+{"index": 53677, "D": "any technique for making engravings or etchings using chemicals and without the aid of photography.", "S": [], "A": []}

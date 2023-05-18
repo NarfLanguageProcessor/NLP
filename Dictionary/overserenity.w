@@ -1,0 +1,1 @@
+{"index": 221059, "D": "the state or quality of being serene,  calm, or tranquil; sereneness.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 350952, "D": "not having shaved or been shaven recently", "S": ["shaggy "], "A": []}

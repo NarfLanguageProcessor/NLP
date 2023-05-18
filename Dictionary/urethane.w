@@ -1,0 +1,1 @@
+{"index": 355551, "D": "any derivative of carbamic acid having the formula CH2NO2R.", "S": [], "A": []}

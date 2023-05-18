@@ -1,0 +1,1 @@
+{"index": 45236, "D": "a member of a body of Hussites in the 15th century holding that the chalice as well as the bread should be received by the laity in the Eucharist.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 102950, "D": "to form a covering of epithelial  cells over, as a wound.", "S": [], "A": []}

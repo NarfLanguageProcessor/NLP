@@ -1,0 +1,1 @@
+{"index": 709, "D": "opposite to or away from the mouth.", "S": [], "A": []}

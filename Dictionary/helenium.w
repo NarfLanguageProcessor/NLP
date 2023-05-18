@@ -1,0 +1,1 @@
+{"index": 135458, "D": "any plant of the American genus Helenium, up to 1.6 m (5 ft) tall, some species of which are grown as border plants for their daisy-like yellow or variegated flowers", "S": [], "A": []}

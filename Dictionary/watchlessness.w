@@ -1,0 +1,1 @@
+{"index": 363078, "D": "not watchful or alert; lacking in vigilance", "S": [], "A": []}

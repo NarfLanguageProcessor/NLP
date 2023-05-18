@@ -1,0 +1,1 @@
+{"index": 219239, "D": "to exert  excessively.", "S": [], "A": []}

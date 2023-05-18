@@ -1,0 +1,1 @@
+{"index": 133278, "D": "a person who is or is required to be overtly or ostentatiously friendly", "S": ["applicant ", "aspirant ", "bidder ", "competitor ", "contender ", "contestant ", "nominee ", "successor "], "A": []}

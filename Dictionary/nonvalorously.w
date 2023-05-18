@@ -1,0 +1,1 @@
+{"index": 208170, "D": "having valor; courageous; valiant; brave. ", "S": [], "A": []}

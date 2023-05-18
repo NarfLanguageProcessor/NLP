@@ -1,0 +1,1 @@
+{"index": 94081, "D": "a stupid person; dumbbell; blockhead.", "S": ["blockhead ", "clod ", "dodo ", "dolt ", "dullard ", "dumbbell ", "dunce ", "fool ", "halfwit ", "idiot ", "ignoramus ", "imbecile ", "knothead ", "knucklehead ", "moron ", "nitwit ", "numskull ", "oaf ", "simpleton "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 26650, "D": "a Mesopotamian diviner who, when commanded by Balak to curse the Israelites, blessed them and uttered favorable prophecies after having been rebuked by the ass he rode. Numbers 22\u201323.", "S": [], "A": []}

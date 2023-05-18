@@ -1,0 +1,1 @@
+{"index": 72630, "D": "to furnish with crenels  or battlements.", "S": [], "A": []}

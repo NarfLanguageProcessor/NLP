@@ -1,0 +1,1 @@
+{"index": 46531, "D": "a first-magnitude star in the constellation Carina", "S": [], "A": []}

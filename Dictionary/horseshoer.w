@@ -1,0 +1,1 @@
+{"index": 144074, "D": "a U-shaped metal plate, plain or with calks, nailed to a horse's hoof to protect it from being injured by hard or rough surfaces.", "S": ["anvil ", "farrier ", "plover ", "smithy "], "A": []}

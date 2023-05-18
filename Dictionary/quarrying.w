@@ -1,0 +1,1 @@
+{"index": 258018, "D": "an excavation or pit, usually open to the air, from which building stone, slate, or the like, is obtained by cutting, blasting, etc.", "S": ["drilling "], "A": []}

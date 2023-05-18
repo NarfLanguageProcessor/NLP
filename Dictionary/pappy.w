@@ -1,0 +1,1 @@
+{"index": 225292, "D": "like pap;  mushy.", "S": ["cushiony ", "cushy ", "doughy ", "downy ", "flabby ", "fleshy ", "gelatinous ", "mushy ", "pulpy ", "quaggy ", "spongy ", "squashy ", "squishy ", "yielding "], "A": []}

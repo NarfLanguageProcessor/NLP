@@ -1,0 +1,1 @@
+{"index": 287292, "D": "something that is not what it purports to be; a spurious imitation; fraud or hoax.", "S": ["bogus ", "fictitious ", "fraudulent ", "phony "], "A": ["authentic ", "genuine ", "real ", "honest ", "natural ", "true ", "truthful "]}

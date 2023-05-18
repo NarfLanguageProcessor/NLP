@@ -1,0 +1,1 @@
+{"index": 351742, "D": "a person employed by a government to obtain secret information or intelligence about another, usually hostile, country, especially with reference to military or naval affairs.", "S": [], "A": []}

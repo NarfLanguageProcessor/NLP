@@ -1,0 +1,1 @@
+{"index": 366981, "D": "Compare man (def. 1), girl (def. 1). ", "S": [], "A": []}

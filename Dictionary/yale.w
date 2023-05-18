@@ -1,0 +1,1 @@
+{"index": 145587, "D": "English colonial official, born in America", "S": [], "A": []}

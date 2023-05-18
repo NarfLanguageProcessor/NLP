@@ -1,0 +1,1 @@
+{"index": 250266, "D": "being washed before sale, especially to produce a soft texture or a worn look", "S": [], "A": []}

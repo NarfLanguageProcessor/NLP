@@ -1,0 +1,1 @@
+{"index": 217082, "D": "to play  better than.", "S": ["outrun ", "overcome ", "overtake ", "overwhelm ", "top ", "triumph ", "whip "], "A": ["fall behind ", "lose ", "surrender ", "fail ", "give up "]}

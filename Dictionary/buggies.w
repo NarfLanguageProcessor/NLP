@@ -1,0 +1,1 @@
+{"index": 42308, "D": "infested with bugs", "S": ["demented ", "foolish ", "infested ", "nutty "], "A": ["sane "]}

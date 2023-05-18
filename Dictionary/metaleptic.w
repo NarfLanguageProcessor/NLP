@@ -1,0 +1,1 @@
+{"index": 184693, "D": "the use of metonymy to replace a word already used figuratively.", "S": [], "A": []}

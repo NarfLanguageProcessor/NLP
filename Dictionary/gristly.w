@@ -1,0 +1,1 @@
+{"index": 130059, "D": "resembling or containing gristle; cartilaginous. ", "S": ["fibrous ", "gangling ", "lank ", "lanky ", "muscular ", "reedy ", "ropy ", "sinewy ", "spindling ", "spindly ", "threadlike ", "tough ", "wiry "], "A": []}

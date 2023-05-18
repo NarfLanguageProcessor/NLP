@@ -1,0 +1,1 @@
+{"index": 137138, "D": "Compare pseudohermaphrodite. ", "S": ["androgynous ", "bi ", "double-gaited ", "gynandrous ", "hits both ways ", "intersexual ", "monoclinous ", "swings both ways ", "switch-hitting "], "A": []}

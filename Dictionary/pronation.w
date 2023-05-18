@@ -1,0 +1,1 @@
+{"index": 252385, "D": "rotation of the hand or forearm so that the surface of the palm is facing downward or toward the back (opposed to supination).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 52679, "D": "to subject (wine) to chaptalization. ", "S": [], "A": []}

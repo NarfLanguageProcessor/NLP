@@ -1,0 +1,1 @@
+{"index": 128544, "D": "an instrument on a transit for measuring angles of inclination in terms of their tangents.", "S": [], "A": []}

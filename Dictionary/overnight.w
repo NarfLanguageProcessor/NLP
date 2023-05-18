@@ -1,0 +1,1 @@
+{"index": 220356, "D": "for or during the night", "S": ["dazzling ", "ephemeral ", "flashing ", "fleeting ", "momentary ", "rapid ", "spectacular ", "speedy ", "swift ", "transient "], "A": ["slow "]}

@@ -1,0 +1,1 @@
+{"index": 228490, "D": "a member of a class of persons, as in Europe, Asia, and Latin America, who are small farmers or farm laborers of low social rank.", "S": ["laborer ", "sharecropper "], "A": []}

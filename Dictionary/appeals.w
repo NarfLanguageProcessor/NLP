@@ -1,0 +1,1 @@
+{"index": 17609, "D": "an earnest request for aid, support, sympathy, mercy, etc.; entreaty; petition; plea.", "S": ["application ", "bid ", "call ", "claim ", "demand ", "overture ", "petition ", "plea ", "proposal ", "question ", "suit "], "A": ["answer ", "reply "]}

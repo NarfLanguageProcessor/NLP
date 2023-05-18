@@ -1,0 +1,1 @@
+{"index": 175089, "D": "a variant of loony1. ", "S": ["fanatic ", "fiend ", "freak ", "looney ", "lunatic ", "psycho ", "psychopath ", "zealot "], "A": []}

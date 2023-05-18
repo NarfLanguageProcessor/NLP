@@ -1,0 +1,1 @@
+{"index": 154738, "D": "the act of contradicting;  gainsaying or opposition.", "S": [], "A": []}

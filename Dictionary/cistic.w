@@ -1,0 +1,1 @@
+{"index": 58465, "D": "a box or chest, especially for sacred utensils.", "S": [], "A": []}

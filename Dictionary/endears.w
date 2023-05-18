@@ -1,0 +1,1 @@
+{"index": 99624, "D": "to make dear,  esteemed, or beloved", "S": ["captivate ", "cherish "], "A": ["disconnect ", "dislike ", "hate ", "release ", "unfasten "]}

@@ -1,0 +1,1 @@
+{"index": 171724, "D": "to pass the tongue over the surface of, as to moisten, taste, or eat (often followed by up, off, from, etc.)", "S": [], "A": []}

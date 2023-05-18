@@ -1,0 +1,1 @@
+{"index": 238251, "D": "an itinerant vendor of small wares that are usually carried in a case with collapsible legs, allowing it to be set up or removed quickly.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227023, "D": "to take or have a part or share, as with others; partake; share (usually followed by in)", "S": ["colleague ", "member ", "partner ", "party ", "player ", "shareholder "], "A": ["enemy ", "boss "]}

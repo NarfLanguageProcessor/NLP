@@ -1,0 +1,1 @@
+{"index": 149240, "D": "of, relating to, or characterized by impertinence or effrontery", "S": [], "A": []}

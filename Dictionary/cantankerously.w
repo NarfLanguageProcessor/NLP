@@ -1,0 +1,1 @@
+{"index": 46566, "D": "disagreeable to deal with; contentious; peevish", "S": [], "A": []}

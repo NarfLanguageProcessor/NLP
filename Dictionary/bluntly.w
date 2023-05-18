@@ -1,0 +1,1 @@
+{"index": 36862, "D": "starkly and directly, with no attempt to be tactful or diplomatic", "S": ["all out ", "at full speed ", "at full throttle ", "directly ", "full-bore ", "openly ", "peak performance ", "wide open "], "A": []}

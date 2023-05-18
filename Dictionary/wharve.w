@@ -1,0 +1,1 @@
+{"index": 364439, "D": "a wheel or round piece of wood on a spindle, serving as a flywheel or as a pulley.", "S": [], "A": []}

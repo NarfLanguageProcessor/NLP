@@ -1,0 +1,1 @@
+{"index": 245162, "D": "of or relating to the ancient town of Praeneste in Italy, or to the Latin dialect spoken there.", "S": [], "A": []}

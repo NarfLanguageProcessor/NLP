@@ -1,0 +1,1 @@
+{"index": 43983, "D": "a variant of caboshed. ", "S": [], "A": []}

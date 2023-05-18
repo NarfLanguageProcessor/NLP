@@ -1,0 +1,1 @@
+{"index": 7112, "D": "a Hawaiian shrub or climber, Rubus macraei, bearing a large, red, edible raspberry.", "S": [], "A": []}

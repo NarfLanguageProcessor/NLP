@@ -1,0 +1,1 @@
+{"index": 308241, "D": "an interval  that is a subset of a given interval. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118403, "D": "a mineral of the spinel group, an oxide of zinc, manganese, and iron, occurring in black octahedral crystals or in masses", "S": [], "A": []}

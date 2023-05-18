@@ -1,0 +1,1 @@
+{"index": 108192, "D": "with little or no advance preparation", "S": ["freely ", "on the spur of the moment ", "spontaneously "], "A": []}

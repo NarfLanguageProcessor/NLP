@@ -1,0 +1,1 @@
+{"index": 11053, "D": "living or able to live both on land and in water; belonging to both land and water.", "S": ["floating ", "marine ", "maritime "], "A": []}

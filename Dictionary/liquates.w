@@ -1,0 +1,1 @@
+{"index": 173272, "D": "to heat (an alloy or mixture) sufficiently to melt the more fusible matter and thus to separate it from the rest, as in the refining of tin.", "S": [], "A": []}

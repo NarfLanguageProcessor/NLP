@@ -1,0 +1,1 @@
+{"index": 268449, "D": "a transversely corded fabric of wool, silk, rayon, or cotton.", "S": [], "A": []}

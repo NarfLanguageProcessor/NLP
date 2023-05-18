@@ -1,0 +1,1 @@
+{"index": 187187, "D": "of, for, or pertaining to the army or armed forces, often as distinguished from the navy", "S": ["naval "], "A": ["civilian ", "noncombatant "]}

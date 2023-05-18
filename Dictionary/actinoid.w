@@ -1,0 +1,1 @@
+{"index": 3151, "D": "raylike; radiate.", "S": [], "A": []}

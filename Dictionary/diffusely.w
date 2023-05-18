@@ -1,0 +1,1 @@
+{"index": 85350, "D": "to pour out and spread, as a fluid.", "S": ["circumlocutorily ", "discursively ", "in a roundabout way ", "not immediately ", "periphrastically ", "secondhand "], "A": ["directly ", "immediately ", "primarily "]}

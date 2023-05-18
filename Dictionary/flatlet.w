@@ -1,0 +1,1 @@
+{"index": 114090, "D": "a residential apartment with only one or two rooms.", "S": [], "A": []}

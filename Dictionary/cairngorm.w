@@ -1,0 +1,1 @@
+{"index": 44609, "D": "smoky quartz. ", "S": [], "A": []}

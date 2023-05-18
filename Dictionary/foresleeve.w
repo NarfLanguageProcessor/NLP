@@ -1,0 +1,1 @@
+{"index": 116998, "D": "the part of the sleeve  covering the forearm.", "S": [], "A": []}

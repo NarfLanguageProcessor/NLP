@@ -1,0 +1,1 @@
+{"index": 266126, "D": "to make repayment to for expense or loss incurred", "S": ["compensate ", "indemnify ", "offset ", "pay ", "refund ", "repay ", "restore "], "A": ["damage ", "deprive ", "lose ", "penalize ", "take "]}

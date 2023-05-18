@@ -1,0 +1,1 @@
+{"index": 297667, "D": "full of or feeling sorrow;  grieved; sad.", "S": ["anguish ", "grief ", "heartache ", "heartbreak ", "hopelessness ", "melancholy ", "misery ", "mourning ", "poignancy ", "sorrow "], "A": ["cheer ", "delight ", "happiness ", "joy ", "advantage ", "benefit ", "comfort "]}

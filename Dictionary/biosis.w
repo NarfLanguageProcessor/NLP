@@ -1,0 +1,1 @@
+{"index": 34542, "D": "a combining form meaning \u201cmode of life,\u201d used in the formation of compound words", "S": [], "A": []}

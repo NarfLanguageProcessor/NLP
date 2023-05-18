@@ -1,0 +1,1 @@
+{"index": 129711, "D": "a cloth placed on the lap of the bishop, as during the celebration of Mass or when he confers orders.", "S": [], "A": []}

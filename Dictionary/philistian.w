@@ -1,0 +1,1 @@
+{"index": 233654, "D": "of or relating to Philistia, an ancient country in Palestine, or its inhabitants", "S": [], "A": []}

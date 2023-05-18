@@ -1,0 +1,1 @@
+{"index": 181237, "D": "to enroll in a college or university as a candidate for a degree.", "S": ["enter ", "join ", "register "], "A": ["erase ", "leave ", "withdraw "]}

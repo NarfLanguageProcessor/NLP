@@ -1,0 +1,1 @@
+{"index": 264957, "D": "to give food to; supply with nourishment", "S": [], "A": []}

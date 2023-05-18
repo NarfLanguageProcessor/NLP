@@ -1,0 +1,1 @@
+{"index": 61132, "D": "the back of the skirt on a man's coat  or jacket.", "S": ["aid ", "good deed ", "instrumentality ", "intervention ", "ministration ", "mitzvah ", "offices ", "support ", "troubleshooting "], "A": []}

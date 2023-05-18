@@ -1,0 +1,1 @@
+{"index": 345202, "D": "the emotion of great delight or happiness caused by something exceptionally good or satisfying; keen pleasure; elation", "S": [], "A": []}

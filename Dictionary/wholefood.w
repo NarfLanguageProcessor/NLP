@@ -1,0 +1,1 @@
+{"index": 365282, "D": "food with little or no refining or processing and containing no artificial additives or preservatives; natural or organic food", "S": [], "A": []}

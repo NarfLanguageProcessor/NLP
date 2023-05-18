@@ -1,0 +1,1 @@
+{"index": 156138, "D": "having the form or function of a valve. ", "S": [], "A": []}

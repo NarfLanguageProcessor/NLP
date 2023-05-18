@@ -1,0 +1,1 @@
+{"index": 48197, "D": "a white hydrous chloride of potassium and magnesium, KMgCl3\u22c56H2O, used chiefly as a source of potassium and magnesium.", "S": [], "A": []}

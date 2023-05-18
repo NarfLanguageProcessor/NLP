@@ -1,0 +1,1 @@
+{"index": 335948, "D": "not blemished or tarnished in any way", "S": ["flawless ", "intact ", "spotless ", "undamaged ", "unsullied "], "A": ["damaged ", "defective ", "harmed ", "hurt ", "injured "]}

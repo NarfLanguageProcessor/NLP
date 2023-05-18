@@ -1,0 +1,1 @@
+{"index": 116911, "D": "predecessor; ancestor; forebear; precursor.", "S": ["precursor "], "A": ["result "]}

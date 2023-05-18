@@ -1,0 +1,1 @@
+{"index": 112680, "D": "(especially in law) son of nobody; bastard.", "S": [], "A": []}

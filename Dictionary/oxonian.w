@@ -1,0 +1,1 @@
+{"index": 222464, "D": "of or relating to Oxford,  England, or to Oxford  University (in England).", "S": [], "A": []}

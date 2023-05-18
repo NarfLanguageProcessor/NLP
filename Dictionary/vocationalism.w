@@ -1,0 +1,1 @@
+{"index": 360902, "D": "the practice or policy of requiring vocational  training of all college or high school students.", "S": [], "A": []}

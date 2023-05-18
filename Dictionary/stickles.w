@@ -1,0 +1,1 @@
+{"index": 304316, "D": "to argue or haggle insistently, especially on trivial matters.", "S": ["hesitate ", "vacillate ", "waver "], "A": ["accept ", "agree ", "aid ", "approve ", "believe ", "commend ", "consent ", "endorse ", "give in ", "go along ", "help ", "praise ", "sanction ", "support ", "surrender "]}

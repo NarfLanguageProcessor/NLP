@@ -1,0 +1,1 @@
+{"index": 215030, "D": "pertaining to or supporting the theory that evolution follows a predetermined course rather than branching off in different directions as a result of natural selection.", "S": [], "A": []}

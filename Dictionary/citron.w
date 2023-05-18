@@ -1,0 +1,1 @@
+{"index": 58868, "D": "a pale-yellow fruit resembling the lemon but larger and with thicker rind, borne by a small tree or large bush, Citrus medica, allied to the lemon and lime.", "S": [], "A": []}

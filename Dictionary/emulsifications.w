@@ -1,0 +1,1 @@
+{"index": 98958, "D": "the process of making two liquids into a colloidal suspension, in which particles of one liquid are dispersed throughout the other but not dissolved in it", "S": [], "A": []}

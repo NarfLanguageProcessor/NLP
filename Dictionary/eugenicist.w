@@ -1,0 +1,1 @@
+{"index": 105422, "D": "a specialist in measures intended to produce a perceived improvement in the human species or a human population.", "S": [], "A": []}

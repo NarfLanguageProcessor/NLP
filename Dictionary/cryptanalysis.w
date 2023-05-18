@@ -1,0 +1,1 @@
+{"index": 73169, "D": "the procedures, processes, methods, etc., used to translate or interpret secret writings, as codes and ciphers, for which the key is unknown.", "S": ["Morse alphabet ", "cryptography "], "A": []}

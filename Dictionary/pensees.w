@@ -1,0 +1,1 @@
+{"index": 229814, "D": "a collection of notes, essays, etc., dealing with religious and philosophical matters by Blaise Pascal, published posthumously in 1670.", "S": [], "A": []}

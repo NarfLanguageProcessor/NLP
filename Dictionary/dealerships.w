@@ -1,0 +1,1 @@
+{"index": 77550, "D": "authorization to sell a commodity", "S": [], "A": []}

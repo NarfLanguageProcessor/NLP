@@ -1,0 +1,1 @@
+{"index": 88308, "D": "characterized by or causing dishonour or discredit", "S": [], "A": []}

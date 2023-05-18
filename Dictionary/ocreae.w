@@ -1,0 +1,1 @@
+{"index": 210906, "D": "a sheathing part, as a pair of stipules united about a stem.", "S": [], "A": []}

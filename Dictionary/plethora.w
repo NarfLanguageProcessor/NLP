@@ -1,0 +1,1 @@
+{"index": 239905, "D": "overabundance; excess", "S": ["deluge ", "excess ", "glut ", "overabundance ", "plenty ", "profusion ", "surfeit "], "A": ["lack ", "scarcity ", "shortage ", "want ", "rarity "]}

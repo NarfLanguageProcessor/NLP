@@ -1,0 +1,1 @@
+{"index": 232283, "D": "a house  or hospital for persons infected with pestilential disease.", "S": [], "A": []}

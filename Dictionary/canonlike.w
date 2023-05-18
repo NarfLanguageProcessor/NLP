@@ -1,0 +1,1 @@
+{"index": 46515, "D": "an ecclesiastical rule or law enacted by a council or other competent authority and, in the Roman Catholic Church, approved by the pope.", "S": [], "A": []}

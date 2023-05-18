@@ -1,0 +1,1 @@
+{"index": 118926, "D": "of, relating to, or of the nature of friction. ", "S": [], "A": []}

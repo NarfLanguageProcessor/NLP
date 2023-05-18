@@ -1,0 +1,1 @@
+{"index": 142353, "D": "to raise or lift, especially by some mechanical appliance", "S": ["erect ", "heave ", "pick up "], "A": ["abandon ", "decrease ", "depress ", "destroy ", "drop ", "lessen ", "lower ", "neglect "]}

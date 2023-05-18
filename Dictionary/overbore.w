@@ -1,0 +1,1 @@
+{"index": 218389, "D": "simple past tense of overbear. ", "S": ["badger ", "bully ", "coerce ", "harass ", "hector ", "intimidate ", "lean on ", "oppress "], "A": ["aid ", "assist ", "help ", "leave alone "]}

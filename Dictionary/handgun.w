@@ -1,0 +1,1 @@
+{"index": 133159, "D": "any firearm that can be held and fired with one hand; a revolver or a pistol.", "S": ["musket ", "pistol ", "revolver ", "rifle ", "shotgun ", "weapon "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 230214, "D": "the berry of the pepper plant, Piper nigrum, dried and used as a condiment, in pickling, etc.", "S": [], "A": []}

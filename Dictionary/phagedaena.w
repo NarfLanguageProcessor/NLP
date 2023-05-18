@@ -1,0 +1,1 @@
+{"index": 232779, "D": "a rapidly spreading ulcer that destroys tissues as it increases in size", "S": [], "A": []}

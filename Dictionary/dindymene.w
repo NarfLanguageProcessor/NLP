@@ -1,0 +1,1 @@
+{"index": 86072, "D": "a mother goddess of Phrygia and Asia Minor, identified by the Greeks with Rhea and by the Romans with Ops.", "S": [], "A": []}

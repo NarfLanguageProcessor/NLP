@@ -1,0 +1,1 @@
+{"index": 63642, "D": "a narrow valley or deep hollow, especially one enclosed on all but one side.", "S": ["canyon ", "dale ", "dell ", "glade ", "gorge ", "vale "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 222492, "D": "a waxlike mineral resin; mineral wax.", "S": [], "A": []}

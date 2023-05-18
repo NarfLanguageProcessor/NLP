@@ -1,0 +1,1 @@
+{"index": 208898, "D": "no thing; not anything; naught", "S": ["nobody "], "A": ["something "]}

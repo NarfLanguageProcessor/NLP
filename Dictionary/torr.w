@@ -1,0 +1,1 @@
+{"index": 326234, "D": "a unit of pressure, being the pressure necessary to support a column of mercury one millimeter high at 0\u00b0C and standard gravity, equal to 1333.2 microbars.", "S": [], "A": []}

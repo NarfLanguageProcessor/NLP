@@ -1,0 +1,1 @@
+{"index": 123542, "D": "pertaining or according to genetics. ", "S": ["constitutionally ", "intrinsically ", "naturally "], "A": []}

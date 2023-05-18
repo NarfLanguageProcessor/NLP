@@ -1,0 +1,1 @@
+{"index": 87084, "D": "to disturb the arrangement of; disorder; unsettle.", "S": [], "A": []}

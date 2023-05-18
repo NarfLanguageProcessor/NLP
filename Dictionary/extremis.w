@@ -1,0 +1,1 @@
+{"index": 108718, "D": "in extremity.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 134049, "D": "a person who harvests;  reaper.", "S": ["grower ", "laborer ", "peasant ", "producer ", "rancher "], "A": []}

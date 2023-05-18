@@ -1,0 +1,1 @@
+{"index": 347770, "D": [], "S": ["apathetic ", "careless ", "dull ", "inattentive ", "indifferent ", "lackadaisical ", "lethargic ", "passive ", "sleepy ", "tired ", "weary "], "A": ["activated ", "active ", "attentive ", "careful ", "caring ", "concerned ", "energetic ", "fresh ", "interested ", "lively ", "vivacious "]}

@@ -1,0 +1,1 @@
+{"index": 139127, "D": "rule or government by priests or ecclesiastics.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 176977, "D": "a field of study concerned with language in its broadest sense and including cultural and behavioral features associated with language.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 144059, "D": "a habitual bettor on horse  races.", "S": [], "A": []}

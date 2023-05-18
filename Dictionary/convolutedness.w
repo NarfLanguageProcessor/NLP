@@ -1,0 +1,1 @@
+{"index": 68153, "D": "twisted; coiled.", "S": [], "A": []}

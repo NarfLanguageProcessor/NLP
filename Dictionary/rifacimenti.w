@@ -1,0 +1,1 @@
+{"index": 272726, "D": "a recast or adaptation, as of a literary or musical work.", "S": [], "A": []}

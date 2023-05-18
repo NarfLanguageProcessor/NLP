@@ -1,0 +1,1 @@
+{"index": 218106, "D": "an excessive amount or abundance;  surfeit", "S": ["plethora "], "A": ["lack ", "necessity ", "need ", "want "]}

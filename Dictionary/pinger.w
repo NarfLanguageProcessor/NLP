@@ -1,0 +1,1 @@
+{"index": 237022, "D": "a device that makes a pinging sound, esp one that can be preset to ring at a particular time", "S": [], "A": []}

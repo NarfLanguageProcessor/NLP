@@ -1,0 +1,1 @@
+{"index": 309245, "D": "to pursue some special line of study, work, etc.; have a specialty", "S": [], "A": []}

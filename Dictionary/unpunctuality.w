@@ -1,0 +1,1 @@
+{"index": 348822, "D": "the quality or state of being punctual. ", "S": [], "A": []}

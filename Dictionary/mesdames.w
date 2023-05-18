@@ -1,0 +1,1 @@
+{"index": 184030, "D": "a plural of madam. ", "S": ["madame "], "A": []}

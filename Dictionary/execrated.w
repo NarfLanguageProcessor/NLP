@@ -1,0 +1,1 @@
+{"index": 106940, "D": "to detest utterly; abhor; abominate.", "S": ["abhorred ", "anathematized ", "avoided ", "condemned ", "cursed ", "detested ", "disliked ", "loathed ", "shunned "], "A": []}

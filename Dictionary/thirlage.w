@@ -1,0 +1,1 @@
+{"index": 322098, "D": "an obligation imposed upon tenants of certain lands requiring them to have their grain ground at a specified mill", "S": [], "A": []}

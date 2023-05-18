@@ -1,0 +1,1 @@
+{"index": 211292, "D": "one of a layer of cells lining the pulp cavity of a tooth, from which dentin is formed.", "S": [], "A": []}

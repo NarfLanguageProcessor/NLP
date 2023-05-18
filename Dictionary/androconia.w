@@ -1,0 +1,1 @@
+{"index": 12376, "D": "a scale on the forewing of certain male butterflies from which an odor attractive to females is emitted.", "S": [], "A": []}

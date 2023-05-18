@@ -1,0 +1,1 @@
+{"index": 358950, "D": "of or relating to a vesica  or bladder, especially the urinary bladder.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 66382, "D": "the formation or expression of an opinion or theory without sufficient evidence for proof.", "S": ["accepted ", "granted ", "presumed "], "A": ["genuine ", "natural ", "real ", "unassumed ", "unexpected "]}

@@ -1,0 +1,1 @@
+{"index": 41358, "D": "a diseased condition in which a bronchus or the bronchi are distended, characterized by paroxysmal coughing and copious expectoration of sputum.", "S": [], "A": []}

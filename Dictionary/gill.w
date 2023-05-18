@@ -1,0 +1,1 @@
+{"index": 124923, "D": "the respiratory organ of aquatic animals, as fish, that breathe oxygen dissolved in water.", "S": ["chop ", "choppers ", "jowl "], "A": ["humbleness ", "meekness ", "timidity "]}

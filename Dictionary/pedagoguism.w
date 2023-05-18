@@ -1,0 +1,1 @@
+{"index": 228741, "D": "the principles, manner, method, or characteristics of pedagogues.", "S": [], "A": []}

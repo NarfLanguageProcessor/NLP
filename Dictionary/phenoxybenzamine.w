@@ -1,0 +1,1 @@
+{"index": 233448, "D": "an alpha blocker, C18H22ClNO, used to dilate vascular peripheral blood vessels in the treatment of Raynaud's disease and in pheochromocytoma.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 315549, "D": "a hound with long pendent ears.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310408, "D": "a salt or ester of sulfuric acid.", "S": [], "A": []}

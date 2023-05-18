@@ -1,0 +1,1 @@
+{"index": 302164, "D": "a person or thing that stabilizes.", "S": ["equilibrium "], "A": ["instability "]}

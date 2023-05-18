@@ -1,0 +1,1 @@
+{"index": 87583, "D": "a person who studies and collects phonograph records, especially those of a rare or specialized nature.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 122693, "D": "any of the microscopic, multicellular animals of the class or phylum Gastrotricha, of fresh or salt waters, characterized by bands of cilia on the ventral surface of the bottle-shaped or ribbony body and by a protrusible feeding apparatus at the mouth.", "S": [], "A": []}

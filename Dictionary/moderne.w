@@ -1,0 +1,1 @@
+{"index": 191087, "D": "pretentiously modern; striving to appear modern but lacking style or conviction.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 176957, "D": "(in heterogamous reproduction) the larger and usually female of a pair of conjugating gametes. ", "S": [], "A": []}

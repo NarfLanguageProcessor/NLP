@@ -1,0 +1,1 @@
+{"index": 92145, "D": "(especially of a person in public office) advocating peace, compromise, or a conciliatory national attitude", "S": [], "A": []}

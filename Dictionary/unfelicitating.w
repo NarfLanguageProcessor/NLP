@@ -1,0 +1,1 @@
+{"index": 342130, "D": "to compliment upon a happy event; congratulate. ", "S": [], "A": []}

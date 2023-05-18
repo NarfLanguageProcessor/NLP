@@ -1,0 +1,1 @@
+{"index": 132117, "D": "retarding or stopping the flow of blood within the blood vessels", "S": [], "A": []}

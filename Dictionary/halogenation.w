@@ -1,0 +1,1 @@
+{"index": 132813, "D": "to treat or combine with a halogen. ", "S": [], "A": []}

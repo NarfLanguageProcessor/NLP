@@ -1,0 +1,1 @@
+{"index": 231905, "D": "displaying perseverance; resolutely persistent; steadfast", "S": ["dogged "], "A": ["fickle ", "inconstant ", "unsteadfast "]}

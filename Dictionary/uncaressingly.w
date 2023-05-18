@@ -1,0 +1,1 @@
+{"index": 336516, "D": "gently touching, patting, or stroking a person or thing to show affection", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 110878, "D": "raw material for processing or manufacturing industry.", "S": [], "A": []}

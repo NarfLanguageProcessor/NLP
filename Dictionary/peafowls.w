@@ -1,0 +1,1 @@
+{"index": 228393, "D": "any of several gallinaceous  birds of the genera Pavo, of India, Sri Lanka, southeastern Asia, and the East Indies, and Afropavo, of Africa.", "S": [], "A": []}

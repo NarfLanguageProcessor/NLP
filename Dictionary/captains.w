@@ -1,0 +1,1 @@
+{"index": 47186, "D": "a person who is at the head of or in authority over others; chief; leader.", "S": ["boss ", "commander ", "director ", "executive ", "leader ", "officer ", "operator ", "owner ", "pilot ", "skipper "], "A": ["follower "]}

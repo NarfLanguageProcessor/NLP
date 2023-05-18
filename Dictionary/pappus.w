@@ -1,0 +1,1 @@
+{"index": 225304, "D": "a downy, bristly, or other tuftlike appendage of the achene of certain plants, as the dandelion and the thistle.", "S": [], "A": []}

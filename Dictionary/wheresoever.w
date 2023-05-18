@@ -1,0 +1,1 @@
+{"index": 364681, "D": "in or to whatsoever place; wherever.", "S": ["in whatever place ", "where "], "A": []}

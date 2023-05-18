@@ -1,0 +1,1 @@
+{"index": 37429, "D": "drunk. ", "S": ["baked ", "broiled ", "browned ", "crisped ", "fried ", "ready ", "stewed "], "A": ["rare ", "raw ", "undone ", "unfinished "]}

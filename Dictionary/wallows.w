@@ -1,0 +1,1 @@
+{"index": 362276, "D": "to roll about or lie in water, snow, mud, dust, or the like, as for refreshment", "S": ["flounder ", "lurch ", "totter "], "A": ["steady ", "straighten "]}

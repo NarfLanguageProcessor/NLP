@@ -1,0 +1,1 @@
+{"index": 88039, "D": "a person who favors the separation of church and state, especially the withdrawal of special rights, status, and support granted an established church by a state; an advocate of disestablishing a state church.", "S": [], "A": []}

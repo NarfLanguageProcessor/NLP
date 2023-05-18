@@ -1,0 +1,1 @@
+{"index": 227130, "D": "a man of many parts", "S": ["ability ", "competence ", "quality ", "stature ", "talent "], "A": ["inability ", "inadequacy ", "incompetence ", "weakness ", "disadvantage ", "impotence ", "ineptness ", "lack ", "lowliness "]}

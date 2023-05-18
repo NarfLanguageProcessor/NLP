@@ -1,0 +1,1 @@
+{"index": 154254, "D": "of, relating to, or like an integument. ", "S": [], "A": []}

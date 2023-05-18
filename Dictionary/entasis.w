@@ -1,0 +1,1 @@
+{"index": 101190, "D": "a slight convexity given to a column or tower, as to correct an optical illusion.", "S": [], "A": []}

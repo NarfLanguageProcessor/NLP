@@ -1,0 +1,1 @@
+{"index": 149598, "D": "located nearer the longitudinal axis or center, as of an airplane", "S": [], "A": []}

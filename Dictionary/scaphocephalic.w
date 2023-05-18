@@ -1,0 +1,1 @@
+{"index": 279644, "D": "having a head that is abnormally long and narrow as a result of the two parietal bones on the top of the skull closing prematurely", "S": [], "A": []}

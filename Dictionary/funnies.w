@@ -1,0 +1,1 @@
+{"index": 120310, "D": "comic strips in a newspaper", "S": ["farce ", "fun ", "humor ", "satire ", "sitcom "], "A": ["sadness ", "tragedy ", "seriousness "]}

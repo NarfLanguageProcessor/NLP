@@ -1,0 +1,1 @@
+{"index": 327713, "D": "transcendental  character, thought, or language.", "S": [], "A": []}

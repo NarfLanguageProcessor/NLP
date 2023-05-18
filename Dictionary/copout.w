@@ -1,0 +1,1 @@
+{"index": 68585, "D": "an act or instance of copping out; reneging; evasion", "S": ["alibi ", "evasion ", "excuse ", "justification ", "plea ", "pretext ", "rationalization "], "A": []}

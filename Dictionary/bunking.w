@@ -1,0 +1,1 @@
+{"index": 42894, "D": "a built-in platform bed, as on a ship.", "S": ["crash ", "locate ", "occupy ", "reside ", "settle "], "A": ["depart ", "leave ", "move ", "go "]}

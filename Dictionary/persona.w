@@ -1,0 +1,1 @@
+{"index": 231952, "D": "a person.", "S": ["character ", "identity ", "personality "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 363464, "D": "without courage or fortitude; fainthearted.", "S": [], "A": []}

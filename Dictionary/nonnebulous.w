@@ -1,0 +1,1 @@
+{"index": 205453, "D": "hazy, vague, indistinct, or confused", "S": [], "A": []}

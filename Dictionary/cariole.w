@@ -1,0 +1,1 @@
+{"index": 48079, "D": "a small, open, two-wheeled vehicle.", "S": [], "A": []}

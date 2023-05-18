@@ -1,0 +1,1 @@
+{"index": 244558, "D": "of or relating to the uterus or womb.", "S": [], "A": []}

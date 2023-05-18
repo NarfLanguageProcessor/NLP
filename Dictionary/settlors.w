@@ -1,0 +1,1 @@
+{"index": 286695, "D": "a person who makes a settlement of property.", "S": [], "A": []}

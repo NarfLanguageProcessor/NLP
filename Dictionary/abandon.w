@@ -1,0 +1,1 @@
+{"index": 87, "D": "to leave completely and finally; forsake utterly; desert", "S": ["spontaneity "], "A": ["restraint ", "self-restraint "]}

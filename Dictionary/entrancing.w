@@ -1,0 +1,1 @@
+{"index": 101639, "D": "delightful; enchanting.", "S": ["enticing ", "fascinating "], "A": ["boring "]}

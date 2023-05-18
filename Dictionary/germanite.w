@@ -1,0 +1,1 @@
+{"index": 124201, "D": "a mineral consisting of a complex copper arsenic sulphide containing germanium, gallium, iron, zinc, and lead", "S": [], "A": []}

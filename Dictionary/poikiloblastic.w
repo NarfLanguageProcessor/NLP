@@ -1,0 +1,1 @@
+{"index": 241288, "D": "(of metamorphic rocks) having small grains of one mineral embedded in metacrysts of another mineral.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 285013, "D": "rigid or firm; difficult or impossible to bend or flex", "S": [], "A": []}

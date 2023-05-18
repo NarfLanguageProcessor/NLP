@@ -1,0 +1,1 @@
+{"index": 76622, "D": "to make damp; moisten", "S": ["bedew ", "besprinkle ", "dabble ", "humidify ", "moisten ", "rinse ", "spray ", "sprinkle ", "water ", "wet "], "A": ["collect ", "dehydrate ", "dry ", "gather "]}

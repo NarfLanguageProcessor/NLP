@@ -1,0 +1,1 @@
+{"index": 135576, "D": "a telescope with a divided, adjustable objective, formerly used to measure small angular distances, as those between celestial bodies.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 240249, "D": "a man who ploughs, esp using horses", "S": [], "A": []}

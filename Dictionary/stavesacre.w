@@ -1,0 +1,1 @@
+{"index": 303213, "D": "a larkspur, Delphinium staphisagria, of Europe and Asia Minor, having violently emetic and cathartic poisonous seeds.", "S": [], "A": []}

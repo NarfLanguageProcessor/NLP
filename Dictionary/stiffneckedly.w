@@ -1,0 +1,1 @@
+{"index": 304370, "D": "having a stiff neck; having torticollis.", "S": [], "A": []}

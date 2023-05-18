@@ -1,0 +1,1 @@
+{"index": 318897, "D": "the formal title of the Japanese emperor, esp when regarded as a divine religious leader", "S": [], "A": []}

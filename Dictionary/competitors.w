@@ -1,0 +1,1 @@
+{"index": 64556, "D": "a person, team, company, etc., that competes;  rival.", "S": ["competition "], "A": []}

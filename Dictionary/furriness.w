@@ -1,0 +1,1 @@
+{"index": 120501, "D": "consisting of or resembling fur", "S": ["bristliness ", "downiness ", "fluffiness ", "hirsuteness ", "pilosity ", "pubescence "], "A": []}

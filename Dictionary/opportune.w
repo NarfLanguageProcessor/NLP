@@ -1,0 +1,1 @@
+{"index": 213660, "D": "appropriate, favorable, or suitable", "S": ["apt ", "auspicious ", "convenient ", "felicitous ", "fortuitous ", "fortunate ", "propitious ", "timely "], "A": ["inappropriate ", "inauspicious ", "inopportune ", "unfortunate ", "unhappy ", "unlucky ", "unsuitable ", "untimely "]}

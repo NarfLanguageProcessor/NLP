@@ -1,0 +1,1 @@
+{"index": 359817, "D": "a member of the \u201cCongregation of the Mission,\u201d founded in France in 1625, engaged chiefly in conducting missions and clerical seminaries.", "S": [], "A": []}

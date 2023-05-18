@@ -1,0 +1,1 @@
+{"index": 352987, "D": "of, relating to, or accompanied by thunder. ", "S": [], "A": []}

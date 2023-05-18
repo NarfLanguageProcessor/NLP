@@ -1,0 +1,1 @@
+{"index": 28340, "D": "(in North America) a stretch of usually level land that is sparsely vegetated or barren", "S": ["barren ", "desert ", "waste ", "wasteland "], "A": []}

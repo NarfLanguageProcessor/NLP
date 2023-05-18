@@ -1,0 +1,1 @@
+{"index": 299885, "D": "the spinal  or vertebral column; backbone.", "S": ["bone ", "vertebrae "], "A": []}

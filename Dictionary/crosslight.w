@@ -1,0 +1,1 @@
+{"index": 73842, "D": "a light  shone across the path of another to illuminate an area left dark by the first light. ", "S": [], "A": []}

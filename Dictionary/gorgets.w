@@ -1,0 +1,1 @@
+{"index": 128094, "D": "a patch on the throat of a bird or other animal, distinguished by its color, texture, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 173027, "D": "a Scot word for linnet (def. 1)", "S": [], "A": []}

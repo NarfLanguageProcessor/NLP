@@ -1,0 +1,1 @@
+{"index": 221141, "D": "to simplify  to the point of error, distortion, or misrepresentation.", "S": ["distortion ", "exaggeration ", "fabrication ", "falsehood ", "falsification ", "misstatement ", "untruth "], "A": ["truth "]}

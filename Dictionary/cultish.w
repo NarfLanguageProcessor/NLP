@@ -1,0 +1,1 @@
+{"index": 74809, "D": "intended to appeal to a small group of fashionable people", "S": [], "A": []}

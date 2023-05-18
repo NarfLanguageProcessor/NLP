@@ -1,0 +1,1 @@
+{"index": 101694, "D": "a person who organizes and manages any enterprise, especially a business, usually with considerable initiative and risk.", "S": ["enterprise ", "venture capital "], "A": []}

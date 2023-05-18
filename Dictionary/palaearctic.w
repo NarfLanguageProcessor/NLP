@@ -1,0 +1,1 @@
+{"index": 223283, "D": "of or denoting a zoogeographical region consisting of Europe, Africa north of the Sahara, and most of Asia north of the Himalayas", "S": [], "A": []}

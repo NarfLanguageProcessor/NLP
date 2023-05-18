@@ -1,0 +1,1 @@
+{"index": 301862, "D": "a somewhat prolonged, sharp, shrill cry, as of pain, fear, or surprise.", "S": ["disclosure ", "ratting ", "revelation ", "telling "], "A": ["secret "]}

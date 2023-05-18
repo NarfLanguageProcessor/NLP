@@ -1,0 +1,1 @@
+{"index": 160854, "D": "a compassionate love for humanity or for the world as a whole.", "S": [], "A": []}

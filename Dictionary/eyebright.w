@@ -1,0 +1,1 @@
+{"index": 96369, "D": "any of various plants belonging to the genus Euphrasia, of the figwort family, as E. officinalis of Europe, formerly used for treating diseases of the eye. ", "S": [], "A": []}

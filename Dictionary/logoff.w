@@ -1,0 +1,1 @@
+{"index": 174660, "D": [], "S": ["shut ", "shut off ", "switch off ", "unplug "], "A": ["begin ", "open ", "start ", "turn on "]}

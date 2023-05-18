@@ -1,0 +1,1 @@
+{"index": 79950, "D": "noting a case whose distinctive function is to indicate place down from which.", "S": [], "A": []}

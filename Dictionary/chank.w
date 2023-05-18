@@ -1,0 +1,1 @@
+{"index": 52503, "D": "to eat noisily or greedily.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158920, "D": "(of ashlar) composed of stones of uniform size.", "S": [], "A": []}

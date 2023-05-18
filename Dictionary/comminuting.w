@@ -1,0 +1,1 @@
+{"index": 64055, "D": "to pulverize; triturate.", "S": ["break ", "crumble ", "mash ", "squash ", "squeeze ", "trample "], "A": ["put together ", "let go ", "pull ", "release "]}

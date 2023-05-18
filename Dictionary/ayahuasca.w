@@ -1,0 +1,1 @@
+{"index": 6690, "D": "a woody South American vine, Banisteriopsis caapi, of the malpighia family, having bark that is the source of harmine, a hallucinogenic alkaloid used by Amazon Indians.", "S": [], "A": []}

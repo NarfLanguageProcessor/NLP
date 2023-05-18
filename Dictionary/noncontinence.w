@@ -1,0 +1,1 @@
+{"index": 202440, "D": "self-restraint or abstinence, especially in regard to sexual activity; temperance; moderation.", "S": [], "A": []}

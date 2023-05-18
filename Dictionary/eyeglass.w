@@ -1,0 +1,1 @@
+{"index": 96386, "D": "glass (def. 7). ", "S": ["hand glass ", "hand lens ", "lens ", "loupe ", "simple microscope "], "A": []}

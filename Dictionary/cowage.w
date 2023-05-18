@@ -1,0 +1,1 @@
+{"index": 71543, "D": "a tropical vine, Mucuna pruriens, of the legume family, bearing reddish or blackish pods.", "S": [], "A": []}

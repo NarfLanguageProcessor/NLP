@@ -1,0 +1,1 @@
+{"index": 15885, "D": "checking or preventing fever.", "S": [], "A": []}

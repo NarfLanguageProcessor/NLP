@@ -1,0 +1,1 @@
+{"index": 240476, "D": "to make or become plump. ", "S": [], "A": []}

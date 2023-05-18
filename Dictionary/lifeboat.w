@@ -1,0 +1,1 @@
+{"index": 171892, "D": "a double-ended ship's boat,  constructed, mounted, and provisioned so as to be readily able to rescue and maintain persons from a sinking vessel.", "S": ["barge ", "canoe ", "catamaran ", "craft ", "dinghy ", "gondola ", "raft ", "sailboat ", "schooner ", "ship ", "yacht "], "A": []}

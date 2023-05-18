@@ -1,0 +1,1 @@
+{"index": 21828, "D": "a person who assists  or gives aid and support; helper.", "S": ["aide ", "apprentice ", "associate ", "attendant ", "backup ", "colleague ", "companion ", "deputy ", "friend ", "partner ", "representative ", "secretary "], "A": ["antagonist ", "boss ", "detractor ", "enemy ", "foe ", "manager ", "opponent ", "stranger ", "adversary ", "leader "]}

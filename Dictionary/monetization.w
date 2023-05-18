@@ -1,0 +1,1 @@
+{"index": 191900, "D": "the act or process of making an income from something that otherwise would not generate revenue", "S": [], "A": []}

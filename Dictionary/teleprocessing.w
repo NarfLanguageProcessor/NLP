@@ -1,0 +1,1 @@
+{"index": 318211, "D": "computerized processing and transmission of data over the telephone or other long-distance communications systems.", "S": [], "A": []}

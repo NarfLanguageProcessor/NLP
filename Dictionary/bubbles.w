@@ -1,0 +1,1 @@
+{"index": 41934, "D": "a nearly spherical body of gas contained in a liquid.", "S": ["ebullition ", "ferment ", "fermentation ", "froth ", "sparkle "], "A": ["dullness ", "flatness "]}

@@ -1,0 +1,1 @@
+{"index": 336520, "D": "a state of mind in which one is troubled; worry, anxiety, or concern", "S": ["callous ", "heartless ", "unemotional ", "unsympathetic "], "A": ["caring ", "compassionate ", "feeling ", "kind ", "nice ", "sympathetic "]}

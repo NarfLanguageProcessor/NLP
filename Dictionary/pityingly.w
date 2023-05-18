@@ -1,0 +1,1 @@
+{"index": 238377, "D": "full of or expressing pity", "S": [], "A": []}

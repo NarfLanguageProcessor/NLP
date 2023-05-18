@@ -1,0 +1,1 @@
+{"index": 144687, "D": "to gather or crowd together in a close mass.", "S": [], "A": []}

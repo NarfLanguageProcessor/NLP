@@ -1,0 +1,1 @@
+{"index": 193152, "D": "of or relating to the Moors,  a Muslim people of NW Africa.", "S": [], "A": []}

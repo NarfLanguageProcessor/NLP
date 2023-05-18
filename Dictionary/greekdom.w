@@ -1,0 +1,1 @@
+{"index": 129502, "D": "of or relating to Greece,  the Greeks, or their language.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 369453, "D": "vitality, animation, or zest.", "S": ["assail ", "contravene ", "tar "], "A": ["agree ", "aid ", "allow ", "approve ", "assist ", "compliment ", "concede ", "confirm ", "corroborate ", "go along ", "help ", "join ", "praise ", "stay ", "support "]}

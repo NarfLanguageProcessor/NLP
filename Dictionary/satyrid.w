@@ -1,0 +1,1 @@
+{"index": 278753, "D": "any butterfly of the family Satyridae, having typically brown or dark wings with paler markings", "S": [], "A": []}

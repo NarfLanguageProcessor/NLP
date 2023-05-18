@@ -1,0 +1,1 @@
+{"index": 253555, "D": "a plasma protein involved in blood coagulation that on activation by factors in the plasma is converted to thrombin. ", "S": [], "A": []}

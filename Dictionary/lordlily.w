@@ -1,0 +1,1 @@
+{"index": 175257, "D": "suitable for a lord, as trappings or ceremonies; grand or magnificent.", "S": [], "A": []}

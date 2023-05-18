@@ -1,0 +1,1 @@
+{"index": 121991, "D": "a framework spanning a railroad track or tracks for displaying signals.", "S": ["booth ", "platform ", "support ", "table "], "A": []}

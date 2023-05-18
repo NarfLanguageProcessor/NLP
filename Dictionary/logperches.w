@@ -1,0 +1,1 @@
+{"index": 174709, "D": "a darter, Percina caprodes, of eastern North American lakes and streams, having a piglike snout.", "S": [], "A": []}

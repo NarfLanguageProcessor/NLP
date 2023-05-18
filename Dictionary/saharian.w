@@ -1,0 +1,1 @@
+{"index": 276722, "D": "a desert in northern Africa, extending from the Atlantic Ocean  to the Nile valley. About 3,500,000 square miles (9,065,000 square kilometers).", "S": [], "A": []}

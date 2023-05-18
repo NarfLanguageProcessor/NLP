@@ -1,0 +1,1 @@
+{"index": 54202, "D": "to express disapproval of; scold; reproach", "S": [], "A": []}

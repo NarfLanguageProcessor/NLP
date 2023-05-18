@@ -1,0 +1,1 @@
+{"index": 352462, "D": "to assume (something), as for the sake of argument or as part of a proposition or theory", "S": [], "A": []}

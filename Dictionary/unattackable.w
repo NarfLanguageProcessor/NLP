@@ -1,0 +1,1 @@
+{"index": 335373, "D": "to set upon in a forceful, violent, hostile, or aggressive way, with or without a weapon; begin fighting with", "S": ["bulletproof ", "impassable ", "impregnable ", "indomitable ", "invulnerable ", "irresistible ", "unassailable ", "unbeatable ", "untouchable "], "A": ["beatable "]}

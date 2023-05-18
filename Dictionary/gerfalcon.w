@@ -1,0 +1,1 @@
+{"index": 124158, "D": "a variant spelling of gyrfalcon", "S": [], "A": []}

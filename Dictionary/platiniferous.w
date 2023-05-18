@@ -1,0 +1,1 @@
+{"index": 239436, "D": "platinum-bearing", "S": [], "A": []}

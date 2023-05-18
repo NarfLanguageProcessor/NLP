@@ -1,0 +1,1 @@
+{"index": 368149, "D": "a lead molybdate mineral, PbMoO4, occurring usually in tabular crystals, and varying in color from grayish to bright-yellow or red; yellow lead ore.", "S": [], "A": []}

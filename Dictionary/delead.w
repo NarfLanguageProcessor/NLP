@@ -1,0 +1,1 @@
+{"index": 79960, "D": "to remove lead  adhering to (a metal object) after cold-drawing through a die in which the lead  served as a lubricant.", "S": [], "A": []}

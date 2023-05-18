@@ -1,0 +1,1 @@
+{"index": 96449, "D": "the stalk  or peduncle upon which the eye  is borne in lobsters, shrimps, etc.", "S": [], "A": []}

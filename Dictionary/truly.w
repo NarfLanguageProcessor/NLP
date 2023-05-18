@@ -1,0 +1,1 @@
+{"index": 331551, "D": "in accordance with fact or truth;  truthfully", "S": ["absolutely ", "actually ", "definitely ", "exactly ", "genuinely ", "honestly ", "legitimately ", "positively ", "rightly ", "sincerely ", "surely ", "very "], "A": ["doubtfully ", "questionably "]}

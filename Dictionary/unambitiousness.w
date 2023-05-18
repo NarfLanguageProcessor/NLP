@@ -1,0 +1,1 @@
+{"index": 334892, "D": "having ambition;  eagerly desirous of achieving or obtaining success, power, wealth, a specific goal, etc.", "S": [], "A": []}

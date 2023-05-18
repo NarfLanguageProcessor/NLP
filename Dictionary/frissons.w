@@ -1,0 +1,1 @@
+{"index": 119135, "D": "a sudden, passing sensation of excitement; a shudder of emotion; thrill", "S": [], "A": []}

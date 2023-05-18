@@ -1,0 +1,1 @@
+{"index": 360008, "D": "to break, infringe, or transgress (a law, rule, agreement, promise, instructions, etc.).", "S": ["breach ", "contravene ", "defy ", "disobey ", "disregard ", "disrupt ", "infringe ", "offend ", "oppose ", "tamper with "], "A": ["aid ", "assist ", "help ", "obey ", "regard ", "behave ", "comply ", "purify "]}

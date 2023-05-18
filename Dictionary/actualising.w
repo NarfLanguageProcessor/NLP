@@ -1,0 +1,1 @@
+{"index": 3288, "D": "to make actual  or real; turn into action or fact.", "S": [], "A": []}

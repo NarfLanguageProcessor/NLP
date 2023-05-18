@@ -1,0 +1,1 @@
+{"index": 20207, "D": "a substance that interrupts the normal development of an insect.", "S": [], "A": []}

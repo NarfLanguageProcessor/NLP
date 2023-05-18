@@ -1,0 +1,1 @@
+{"index": 42243, "D": "response of an aircraft structure to buffet, esp an irregular oscillation of the tail", "S": ["agitated ", "blustering ", "dirty ", "dry ", "grating ", "jarring ", "raging ", "rasping "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 10932, "D": "a medium dry sherry of Spain.", "S": ["Robin Hood ", "Santa Claus ", "cavaliere servente ", "gigolo "], "A": []}

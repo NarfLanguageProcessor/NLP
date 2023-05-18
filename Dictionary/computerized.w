@@ -1,0 +1,1 @@
+{"index": 64989, "D": "to control, perform, process, or store (a system, operation, or information) by means of or in an electronic computer  or computers.", "S": ["automated ", "digital "], "A": []}

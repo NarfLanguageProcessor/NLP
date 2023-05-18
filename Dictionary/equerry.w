@@ -1,0 +1,1 @@
+{"index": 103207, "D": "an officer of a royal or similar household, charged with the care of the horses.", "S": ["hostler "], "A": []}

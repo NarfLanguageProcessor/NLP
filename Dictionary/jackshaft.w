@@ -1,0 +1,1 @@
+{"index": 159954, "D": "a short shaft,  connected by belting, gears, etc., that transmits motion from a motor or engine to a machine or machines being driven (distinguished from main shaft).", "S": [], "A": []}

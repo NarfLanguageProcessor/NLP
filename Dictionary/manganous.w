@@ -1,0 +1,1 @@
+{"index": 179150, "D": "containing bivalent manganese. ", "S": [], "A": []}

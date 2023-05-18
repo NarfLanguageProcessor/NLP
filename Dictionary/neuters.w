@@ -1,0 +1,1 @@
+{"index": 199299, "D": "(of a verb) intransitive.", "S": ["castrate ", "mutilate ", "spay ", "sterilize "], "A": ["continue ", "keep ", "remain "]}

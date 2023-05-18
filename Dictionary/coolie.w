@@ -1,0 +1,1 @@
+{"index": 68275, "D": "an unskilled laborer, especially formerly in China and India.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 164952, "D": "full of kinks;  closely twisted", "S": ["aberration ", "anomaly ", "corruption ", "debauchery ", "deviance ", "fetish ", "immorality ", "kink "], "A": ["conformity ", "normality ", "regularity "]}

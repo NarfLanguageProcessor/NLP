@@ -1,0 +1,1 @@
+{"index": 207453, "D": "the extrusion of a solution of fiber-forming substances through holes in a spinneret to form filaments.", "S": [], "A": []}

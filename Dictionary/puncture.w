@@ -1,0 +1,1 @@
+{"index": 256616, "D": "the act of piercing or perforating, as with a pointed instrument or object.", "S": ["flat tire "], "A": ["closure ", "misfortune "]}

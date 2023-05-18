@@ -1,0 +1,1 @@
+{"index": 247321, "D": "to mention separately as if in counting; name one by one; specify, as in a list", "S": [], "A": []}

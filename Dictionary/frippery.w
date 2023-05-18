@@ -1,0 +1,1 @@
+{"index": 119092, "D": "finery in dress, especially when showy, gaudy, or the like.", "S": ["adornment ", "bauble ", "decoration ", "flashiness ", "frill ", "fussiness ", "gaudiness ", "knickknack ", "meretriciousness ", "ornament ", "ostentation ", "pretentiousness ", "showiness ", "tawdriness ", "toy ", "trinket "], "A": ["plainness "]}

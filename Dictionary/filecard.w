@@ -1,0 +1,1 @@
+{"index": 112571, "D": "a card of a size suitable for filing, typically 3 \u00d7 5 inches (7.62 \u00d7 12.7 centimeters) or 4 \u00d7 6 inches (10.16 \u00d7 15.24 centimeters).", "S": [], "A": []}

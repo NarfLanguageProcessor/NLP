@@ -1,0 +1,1 @@
+{"index": 312513, "D": "answerable or accountable, as for something within one's power, control, or management (often followed by to or for)", "S": [], "A": []}

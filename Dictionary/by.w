@@ -1,0 +1,1 @@
+{"index": 33134, "D": "near to or next to", "S": ["aside ", "away ", "through "], "A": []}

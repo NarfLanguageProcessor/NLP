@@ -1,0 +1,1 @@
+{"index": 302688, "D": "rank or status, especially with respect to social, economic, or personal position, reputation, etc.", "S": ["existing "], "A": ["unsteady ", "variable "]}

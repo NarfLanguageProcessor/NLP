@@ -1,0 +1,1 @@
+{"index": 22200, "D": [], "S": ["pressure ", "strain ", "stress "], "A": ["calmness ", "contentedness ", "ease ", "looseness ", "peace ", "relaxation ", "slack "]}

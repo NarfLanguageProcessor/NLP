@@ -1,0 +1,1 @@
+{"index": 73076, "D": "hairy. ", "S": ["bristliness ", "downiness ", "fluffiness ", "hirsuteness ", "pilosity ", "pubescence "], "A": []}

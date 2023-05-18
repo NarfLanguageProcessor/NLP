@@ -1,0 +1,1 @@
+{"index": 169333, "D": "a person who breaks or violates the law.", "S": ["blackmailer ", "crook ", "culprit ", "delinquent ", "felon ", "fugitive ", "gangster ", "hoodlum ", "hooligan ", "mobster ", "offender ", "racketeer ", "scofflaw "], "A": ["police "]}

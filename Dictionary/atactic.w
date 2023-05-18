@@ -1,0 +1,1 @@
+{"index": 22385, "D": "(of a polymer) not stereospecific; lacking tacticity.", "S": [], "A": []}

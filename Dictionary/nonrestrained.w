@@ -1,0 +1,1 @@
+{"index": 206813, "D": "characterized by restraint", "S": [], "A": []}

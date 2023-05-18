@@ -1,0 +1,1 @@
+{"index": 106713, "D": "producing excitement;  stirring; thrilling", "S": [], "A": []}

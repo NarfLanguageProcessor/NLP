@@ -1,0 +1,1 @@
+{"index": 168672, "D": "of, relating to, or in the form of a larva. ", "S": ["elemental ", "elementary ", "embryonic ", "primitive ", "simple "], "A": ["complex ", "complicated ", "difficult ", "intricate ", "sophisticated "]}

@@ -1,0 +1,1 @@
+{"index": 295156, "D": "to mash or push, especially to push down or in; compress", "S": [], "A": []}

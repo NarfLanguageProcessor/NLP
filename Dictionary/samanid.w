@@ -1,0 +1,1 @@
+{"index": 277468, "D": "a member of the rulers of Persia in the 9th and 10th centuries.", "S": [], "A": []}

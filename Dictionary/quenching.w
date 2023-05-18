@@ -1,0 +1,1 @@
+{"index": 258324, "D": [], "S": ["dampen ", "douse ", "quash ", "quell ", "snuff out ", "suppress "], "A": ["dry ", "encourage ", "aid ", "assist ", "bear ", "begin ", "build ", "construct ", "create ", "fix ", "give birth ", "help ", "release ", "repair ", "start "]}

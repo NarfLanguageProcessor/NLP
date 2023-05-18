@@ -1,0 +1,1 @@
+{"index": 291555, "D": "a group of symptoms that together are characteristic of a specific disorder, disease, or the like.", "S": ["ailment ", "disorder ", "malady ", "problem ", "sickness "], "A": ["health "]}

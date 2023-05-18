@@ -1,0 +1,1 @@
+{"index": 254038, "D": "a short popular saying, usually of unknown and ancient origin, that expresses effectively some commonplace truth or useful thought; adage; saw.", "S": [], "A": []}

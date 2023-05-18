@@ -1,0 +1,1 @@
+{"index": 149615, "D": "to breed  (individuals of a closely related group) repeatedly.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 33729, "D": "conceited or self-important.", "S": ["aloof ", "bossy ", "cavalier ", "cocky ", "haughty ", "imperious ", "pompous ", "presumptuous ", "pretentious ", "smug ", "vain "], "A": ["humble ", "modest ", "shy ", "timid ", "unsure "]}

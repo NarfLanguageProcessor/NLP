@@ -1,0 +1,1 @@
+{"index": 159782, "D": "a long, usually white cotton dress that covers the body completely, worn by women of North Africa and the Middle East.", "S": [], "A": []}

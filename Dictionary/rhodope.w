@@ -1,0 +1,1 @@
+{"index": 272297, "D": "a mountain range in SW Bulgaria. Highest peak, Mus Allah, 9,595 feet (2,925 meters).", "S": [], "A": []}

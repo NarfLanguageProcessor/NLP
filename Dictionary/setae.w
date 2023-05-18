@@ -1,0 +1,1 @@
+{"index": 286618, "D": "a stiff hair; bristle or bristlelike part.", "S": [], "A": []}

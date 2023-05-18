@@ -1,0 +1,1 @@
+{"index": 12492, "D": "to administer extreme unction to.", "S": [], "A": []}

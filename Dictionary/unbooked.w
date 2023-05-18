@@ -1,0 +1,1 @@
+{"index": 336067, "D": "a handwritten or printed work of fiction or nonfiction, usually on sheets of paper fastened or bound together within covers.", "S": [], "A": []}

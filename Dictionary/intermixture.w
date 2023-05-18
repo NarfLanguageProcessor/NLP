@@ -1,0 +1,1 @@
+{"index": 155415, "D": "a mass of ingredients mixed together.", "S": ["admixture ", "adulterant ", "adulteration ", "amalgam ", "amalgamation ", "blend ", "combination ", "composite ", "compound ", "debasement ", "denaturant ", "fusion ", "hybrid ", "reduction "], "A": ["division ", "separation "]}

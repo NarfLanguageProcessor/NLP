@@ -1,0 +1,1 @@
+{"index": 78318, "D": "the point, goal, game, etc, that determines who wins a match or championship", "S": [], "A": []}

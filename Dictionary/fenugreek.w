@@ -1,0 +1,1 @@
+{"index": 111283, "D": "a plant, Trigonella foenum-graecum, of the legume family, indigenous to western Asia, but extensively cultivated elsewhere, chiefly for forage and for its mucilaginous seeds, which are used in medicine.", "S": [], "A": []}

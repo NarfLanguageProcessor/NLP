@@ -1,0 +1,1 @@
+{"index": 78702, "D": "characterized by dignified propriety in conduct, manners, appearance, character, etc.", "S": ["civilized ", "polite ", "sedate ", "staid "], "A": ["impolite ", "inappropriate ", "indecent ", "indecorous ", "unbecoming ", "unfit ", "unrefined ", "unseemly ", "unsuitable "]}

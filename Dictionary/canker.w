@@ -1,0 +1,1 @@
+{"index": 46345, "D": "a gangrenous or ulcerous sore, especially in the mouth.", "S": ["blight ", "corrosion ", "scourge "], "A": ["blessing ", "boon "]}

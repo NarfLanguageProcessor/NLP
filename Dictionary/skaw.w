@@ -1,0 +1,1 @@
+{"index": 292860, "D": "a cape at the N tip of Denmark.", "S": [], "A": []}

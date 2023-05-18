@@ -1,0 +1,1 @@
+{"index": 145661, "D": "Yankee  character or characteristics.", "S": [], "A": []}

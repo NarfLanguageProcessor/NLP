@@ -1,0 +1,1 @@
+{"index": 102133, "D": "a plural of ephemeron. ", "S": ["caller ", "client ", "companion ", "customer ", "inmate ", "patron ", "recipient ", "tenant ", "vacationer ", "visitor "], "A": ["enemy ", "manager ", "opponent ", "owner "]}

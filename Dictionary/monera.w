@@ -1,0 +1,1 @@
+{"index": 191871, "D": "(in the five-kingdom system of taxonomic classification) the kingdom of prokaryotic organisms that include the bacteria and typically reproduce by asexual budding or fission, and that are nourished through photosynthesis or chemosynthesis.", "S": [], "A": []}

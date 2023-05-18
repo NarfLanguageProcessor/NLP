@@ -1,0 +1,1 @@
+{"index": 45605, "D": "a dealer in bills of exchange.", "S": [], "A": []}

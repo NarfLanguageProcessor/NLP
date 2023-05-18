@@ -1,0 +1,1 @@
+{"index": 133020, "D": "a clawlike deformity of a toe,  usually the second or third, in which there is a permanent flexion of the second and third joints.", "S": [], "A": []}

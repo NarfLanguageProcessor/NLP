@@ -1,0 +1,1 @@
+{"index": 9065, "D": "a deposit of sand, mud, etc., formed by flowing water.", "S": ["delta ", "deposition ", "dregs ", "drift ", "grounds ", "lees ", "precipitate ", "precipitation ", "sediment ", "settlings ", "silt "], "A": ["debit ", "withdrawal "]}

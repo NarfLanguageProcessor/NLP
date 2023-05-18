@@ -1,0 +1,1 @@
+{"index": 149623, "D": "built-in (def. 2). ", "S": ["deep-seated ", "fixed ", "implanted ", "inbred ", "inherent ", "innate ", "intrinsic ", "rooted "], "A": ["acquired ", "extrinsic ", "incidental ", "learned "]}

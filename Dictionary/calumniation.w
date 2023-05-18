@@ -1,0 +1,1 @@
+{"index": 45487, "D": "to make false and malicious statements about; slander.", "S": ["aspersion ", "calumny ", "defamation ", "denigration ", "libel ", "malice ", "obloquy ", "slander ", "traducement ", "vilification "], "A": ["compliment ", "kindness ", "praise "]}

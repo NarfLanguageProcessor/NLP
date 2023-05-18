@@ -1,0 +1,1 @@
+{"index": 275223, "D": "to mark or color with red.", "S": [], "A": []}

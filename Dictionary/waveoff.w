@@ -1,0 +1,1 @@
+{"index": 363357, "D": "(on an aircraft carrier) the last-minute signaling to an aircraft making its final landing approach that it is not to land on that particular pass but is to go around and come in again.", "S": [], "A": []}

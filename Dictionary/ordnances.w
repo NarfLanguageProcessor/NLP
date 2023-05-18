@@ -1,0 +1,1 @@
+{"index": 214267, "D": "cannon or artillery.", "S": ["munitions "], "A": []}

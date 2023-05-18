@@ -1,0 +1,1 @@
+{"index": 164715, "D": "a spicy pickled  or fermented  mixture containing cabbage, onions, and sometimes fish, variously seasoned, as with garlic, horseradish, red peppers, and ginger.", "S": [], "A": []}

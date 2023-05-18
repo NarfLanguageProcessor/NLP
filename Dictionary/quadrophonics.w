@@ -1,0 +1,1 @@
+{"index": 257704, "D": "a variant spelling of quadraphonics", "S": [], "A": []}

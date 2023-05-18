@@ -1,0 +1,1 @@
+{"index": 54100, "D": "U.S. artist, author, and educator.", "S": ["Chi "], "A": []}

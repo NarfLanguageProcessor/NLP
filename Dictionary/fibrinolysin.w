@@ -1,0 +1,1 @@
+{"index": 112026, "D": "a proteolytic enzyme, formed in the blood from plasminogen, that causes the breakdown of the fibrin in blood clots.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 206153, "D": "something that preserves  or tends to preserve. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 192901, "D": "a system for teaching young children, in which the fundamental aim is self-motivated education by the children themselves, as they are encouraged to move freely through individualized instruction and physical exercises, accompanied by special emphasis on the training of the senses and the early development of reading and writing skills.", "S": [], "A": []}

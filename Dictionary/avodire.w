@@ -1,0 +1,1 @@
+{"index": 24842, "D": "the hard, light-colored wood of a West African tree, Turraeanthus africana, of the mahogany family, used for making furniture.", "S": [], "A": []}

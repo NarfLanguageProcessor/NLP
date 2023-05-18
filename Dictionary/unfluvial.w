@@ -1,0 +1,1 @@
+{"index": 342443, "D": "of or relating to a river", "S": [], "A": []}

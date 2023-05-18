@@ -1,0 +1,1 @@
+{"index": 349401, "D": "the act of a person who rejoices. ", "S": [], "A": []}

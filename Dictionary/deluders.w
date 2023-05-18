@@ -1,0 +1,1 @@
+{"index": 80285, "D": "to mislead the mind or judgment of; deceive", "S": ["cheat ", "con artist ", "perjurer ", "phony ", "storyteller "], "A": []}

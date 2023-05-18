@@ -1,0 +1,1 @@
+{"index": 201351, "D": "pertaining to or due to aphesis. ", "S": [], "A": []}

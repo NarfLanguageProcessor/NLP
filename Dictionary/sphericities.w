@@ -1,0 +1,1 @@
+{"index": 299509, "D": "a spherical  state or form.", "S": ["circularity ", "completeness ", "oneness ", "rotundity ", "wholeness "], "A": []}

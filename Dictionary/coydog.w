@@ -1,0 +1,1 @@
+{"index": 62427, "D": "the offspring of a coyote  and a dog. ", "S": [], "A": []}

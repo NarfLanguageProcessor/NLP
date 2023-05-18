@@ -1,0 +1,1 @@
+{"index": 93263, "D": "amusing in an odd way; whimsically humorous; waggish.", "S": ["comedy ", "comicality ", "comicalness ", "drollery ", "farcicality ", "funniness ", "hilariousness ", "humorousness ", "jocoseness ", "jocosity ", "jocularity ", "waggery ", "waggishness ", "wittiness "], "A": []}

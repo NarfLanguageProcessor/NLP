@@ -1,0 +1,1 @@
+{"index": 281416, "D": "an unprincipled, dishonorable person; villain.", "S": ["crook ", "rascal "], "A": []}

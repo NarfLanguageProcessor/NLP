@@ -1,0 +1,1 @@
+{"index": 232374, "D": "a minute, round, nonraised hemorrhage in the skin or in a mucous or serous membrane.", "S": [], "A": []}

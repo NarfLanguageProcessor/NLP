@@ -1,0 +1,1 @@
+{"index": 322178, "D": "a sensation of dryness in the mouth and throat caused by need of liquid.", "S": ["appetite ", "desire ", "eagerness ", "hankering ", "hunger ", "longing ", "lust ", "passion ", "yearning "], "A": ["aversion ", "disgust ", "dislike ", "distaste ", "hate ", "hatred ", "indifference ", "repulsion ", "wetness "]}

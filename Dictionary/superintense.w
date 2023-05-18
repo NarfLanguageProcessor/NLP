@@ -1,0 +1,1 @@
+{"index": 312138, "D": "existing or occurring in a high or extreme degree", "S": [], "A": []}

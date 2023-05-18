@@ -1,0 +1,1 @@
+{"index": 62849, "D": "a woman's fur or lace collar", "S": [], "A": []}

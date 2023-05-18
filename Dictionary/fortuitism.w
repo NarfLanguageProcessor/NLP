@@ -1,0 +1,1 @@
+{"index": 117714, "D": "Compare tychism", "S": [], "A": []}

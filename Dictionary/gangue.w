@@ -1,0 +1,1 @@
+{"index": 121928, "D": "rock or mineral matter of no value occurring with the metallic ore in a vein or deposit.", "S": [], "A": []}

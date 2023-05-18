@@ -1,0 +1,1 @@
+{"index": 315620, "D": "a tall palm, Corypha umbraculifera, of southern India and Ceylon, having large fronds used for making fans and umbrellas, for covering houses, and in place of writing paper", "S": [], "A": []}

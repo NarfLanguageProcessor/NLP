@@ -1,0 +1,1 @@
+{"index": 166242, "D": "a mixing bowl characterized by a wide mouth and body with two handles projecting vertically from the juncture of the neck and body, used to mix wine and water.", "S": ["jar ", "pot ", "urn "], "A": []}

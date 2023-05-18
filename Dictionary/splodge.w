@@ -1,0 +1,1 @@
+{"index": 300582, "D": "a large irregular spot or blot", "S": [], "A": []}

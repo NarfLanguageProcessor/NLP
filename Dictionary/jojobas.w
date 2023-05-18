@@ -1,0 +1,1 @@
+{"index": 161667, "D": "a shrub, Simmondsia chinensis (or S. californica), of the southwestern U.S. and Mexico, bearing seeds that are the source of an oil (jojoba oil ) used in cosmetics and as a lubricant.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 318886, "D": "a state in the southeastern United States. 42,246 sq. mi. (109,415 sq. km). Capital", "S": [], "A": []}

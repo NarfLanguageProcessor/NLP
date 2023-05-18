@@ -1,0 +1,1 @@
+{"index": 212219, "D": "less than normal mental development.", "S": [], "A": []}

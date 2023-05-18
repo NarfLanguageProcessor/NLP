@@ -1,0 +1,1 @@
+{"index": 244758, "D": "food or a meal that happens to be available without special preparation or purchase", "S": ["banquet ", "feast ", "supper "], "A": []}

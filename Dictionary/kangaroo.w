@@ -1,0 +1,1 @@
+{"index": 163058, "D": "any herbivorous marsupial of the family Macropodidae, of Australia and adjacent islands, having a small head, short forelimbs, powerful hind legs used for leaping, and a long, thick tail", "S": ["bandicoot ", "euro ", "koala ", "opossum ", "possum ", "wallaby ", "wombat "], "A": []}

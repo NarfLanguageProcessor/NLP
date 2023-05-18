@@ -1,0 +1,1 @@
+{"index": 109543, "D": [], "S": ["pollution "], "A": ["development ", "growth "]}

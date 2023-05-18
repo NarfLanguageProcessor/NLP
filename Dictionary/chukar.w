@@ -1,0 +1,1 @@
+{"index": 56581, "D": "a partridge, Alectoris chukar, of Asia and the Middle East, introduced into North America as a game bird.", "S": [], "A": []}

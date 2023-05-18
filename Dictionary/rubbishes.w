@@ -1,0 +1,1 @@
+{"index": 275121, "D": "worthless, unwanted material that is rejected or thrown out; debris; litter; trash.", "S": ["debris ", "junk ", "lumber ", "rubble ", "trash ", "waste "], "A": ["possessions "]}

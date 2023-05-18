@@ -1,0 +1,1 @@
+{"index": 161497, "D": "given to, characterized by, intended for, or suited to joking  or jesting; waggish; facetious", "S": ["cheerful ", "humorous ", "joking ", "jolly ", "jovial ", "lighthearted ", "playful ", "teasing "], "A": ["depressed ", "gloomy ", "sad ", "serious ", "unhappy "]}

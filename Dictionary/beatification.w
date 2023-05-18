@@ -1,0 +1,1 @@
+{"index": 29610, "D": "the act of beatifying. ", "S": ["adoration ", "church service ", "devotion ", "prayer ", "rite ", "ritual "], "A": ["censure ", "condemnation ", "criticism ", "debasement ", "denunciation ", "disdain ", "dishonor ", "dislike ", "disregard ", "disrespect ", "hate ", "humiliation ", "scorn "]}

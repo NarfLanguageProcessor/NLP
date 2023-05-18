@@ -1,0 +1,1 @@
+{"index": 198895, "D": "any of various kinds of net  fabric", "S": ["lace ", "screen ", "trellis ", "web "], "A": []}

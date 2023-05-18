@@ -1,0 +1,1 @@
+{"index": 124994, "D": "the technique, found in some medieval English music, of singing voice parts in parallel thirds.", "S": [], "A": []}

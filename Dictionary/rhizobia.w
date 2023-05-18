@@ -1,0 +1,1 @@
+{"index": 272173, "D": "any of several rod-shaped bacteria of the genus Rhizobium, found as symbiotic nitrogen fixers in nodules on the roots of the bean, clover, etc.", "S": [], "A": []}

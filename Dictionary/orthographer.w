@@ -1,0 +1,1 @@
+{"index": 215050, "D": "a person versed in orthography or spelling.", "S": [], "A": []}

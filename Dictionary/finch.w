@@ -1,0 +1,1 @@
+{"index": 112879, "D": "any of numerous small passerine birds of the family Fringillidae, including the buntings, sparrows, crossbills, purple finches, and grosbeaks, most of which have a short, conical bill adapted for eating seeds.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 265591, "D": "a person or thing that regenerates. ", "S": [], "A": []}

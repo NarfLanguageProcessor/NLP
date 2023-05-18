@@ -1,0 +1,1 @@
+{"index": 119538, "D": "fruit-bearing; producing fruit.", "S": ["breeding ", "fertile ", "fruitful ", "generating ", "pregnant ", "proliferant ", "prolific ", "propagating ", "reproducing ", "rich ", "spawning ", "teeming "], "A": ["impotent ", "infertile ", "sterile ", "unfruitful ", "unproductive "]}

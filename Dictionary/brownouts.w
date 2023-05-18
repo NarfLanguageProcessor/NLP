@@ -1,0 +1,1 @@
+{"index": 41658, "D": "the elimination of some or reduction of all electric lights of a city, especially as a precaution against attack in time of war.", "S": ["blackness ", "dark ", "dusk ", "gloom ", "obscurity ", "twilight "], "A": ["brightness ", "light ", "lightness "]}

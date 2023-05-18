@@ -1,0 +1,1 @@
+{"index": 338992, "D": "a person employed, as in an office, to keep records, file, type, or perform other general office tasks.", "S": [], "A": []}

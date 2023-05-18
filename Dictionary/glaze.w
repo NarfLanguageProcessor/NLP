@@ -1,0 +1,1 @@
+{"index": 126055, "D": "to furnish or fill with glass", "S": ["enamel ", "sheen "], "A": ["darkness ", "dullness "]}

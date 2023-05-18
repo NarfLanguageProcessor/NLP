@@ -1,0 +1,1 @@
+{"index": 133397, "D": "Carthaginian general who crossed the Alps and invaded Italy (son of Hamilcar Barca).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 238970, "D": "having a flattened shape, as an anatomical joint.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 252626, "D": "a woman who speaks for God or a deity, or by divine inspiration.", "S": ["augur ", "clairvoyant ", "mystic ", "oracle ", "prophesier ", "seer ", "sibyl ", "soothsayer ", "vaticinator "], "A": []}

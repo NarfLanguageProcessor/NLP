@@ -1,0 +1,1 @@
+{"index": 222772, "D": "a line or succession of pack  animals, as mules or burros, used to transport food and supplies over terrain unsuitable for wagons or other vehicles.", "S": [], "A": []}

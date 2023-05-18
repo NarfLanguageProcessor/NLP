@@ -1,0 +1,1 @@
+{"index": 149251, "D": "to challenge as false (another's statements, motives, etc.); cast doubt upon.", "S": ["assail ", "contravene ", "tar "], "A": ["agree ", "aid ", "allow ", "approve ", "assist ", "compliment ", "concede ", "confirm ", "corroborate ", "go along ", "help ", "join ", "praise ", "stay ", "support "]}

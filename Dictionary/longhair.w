@@ -1,0 +1,1 @@
+{"index": 174921, "D": "an intellectual.", "S": ["erudite ", "intellectual ", "learned "], "A": ["ignorant ", "stupid "]}

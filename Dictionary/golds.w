@@ -1,0 +1,1 @@
+{"index": 127549, "D": "a precious yellow metallic element, highly malleable and ductile, and not subject to oxidation or corrosion. Symbol", "S": ["bracelet ", "brooch ", "costume ", "earring ", "gem ", "glass ", "gold ", "jewel ", "knickknack ", "necklace ", "ornament ", "pendant ", "silver ", "tiara ", "treasure ", "trinket "], "A": ["plainness "]}

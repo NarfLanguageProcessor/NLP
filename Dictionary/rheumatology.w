@@ -1,0 +1,1 @@
+{"index": 271934, "D": "the study and treatment of rheumatic diseases.", "S": [], "A": []}

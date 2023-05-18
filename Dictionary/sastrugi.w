@@ -1,0 +1,1 @@
+{"index": 278640, "D": "Long, wavelike ridges of snow, formed by the wind and found on the polar plains. Sastrugi are usually up to several meters high and are often parallel to the prevailing wind direction.", "S": [], "A": []}

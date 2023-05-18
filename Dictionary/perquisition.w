@@ -1,0 +1,1 @@
+{"index": 231836, "D": [], "S": ["examination ", "exploration ", "hunt ", "inquiry ", "inspection ", "investigation ", "pursuit ", "quest ", "research "], "A": ["ignorance "]}

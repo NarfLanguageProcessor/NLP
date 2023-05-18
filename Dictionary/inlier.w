@@ -1,0 +1,1 @@
+{"index": 152983, "D": "an outcrop of a formation completely surrounded by rocks of younger age.", "S": [], "A": []}

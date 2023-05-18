@@ -1,0 +1,1 @@
+{"index": 172136, "D": "a flammable mixture of hydrocarbons that boils at from 20\u00b0C to 135\u00b0C, obtained from petroleum by distillation and used as a solvent.", "S": [], "A": []}

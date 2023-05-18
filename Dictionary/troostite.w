@@ -1,0 +1,1 @@
+{"index": 331122, "D": "a microconstituent of hardened and tempered steel, consisting of a very fine aggregate of ferrite and cementite.", "S": [], "A": []}

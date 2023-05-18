@@ -1,0 +1,1 @@
+{"index": 120665, "D": "having a stale smell; moldy; musty", "S": [], "A": []}

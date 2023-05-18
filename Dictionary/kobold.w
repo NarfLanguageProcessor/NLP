@@ -1,0 +1,1 @@
+{"index": 165799, "D": "a spirit or goblin, often mischievous, that haunts houses.", "S": ["gnome ", "gremlin "], "A": ["angel "]}

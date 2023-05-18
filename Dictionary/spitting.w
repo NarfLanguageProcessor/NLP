@@ -1,0 +1,1 @@
+{"index": 300273, "D": "to eject saliva from the mouth; expectorate. ", "S": ["drool ", "hiss ", "spew ", "sputter "], "A": ["swallow "]}

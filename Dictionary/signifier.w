@@ -1,0 +1,1 @@
+{"index": 290174, "D": "a person or thing that signifies. ", "S": ["explanation ", "expression ", "gesture ", "hint ", "implication ", "inkling ", "manifestation ", "omen ", "proof ", "reminder ", "sign ", "signal ", "suggestion ", "symptom ", "trace ", "warning "], "A": ["misinformation "]}

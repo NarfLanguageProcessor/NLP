@@ -1,0 +1,1 @@
+{"index": 39734, "D": "prolonged mental fatigue.", "S": ["lethargy ", "weakness ", "weariness "], "A": ["ability ", "energy ", "health ", "liveliness ", "strength ", "vigor "]}

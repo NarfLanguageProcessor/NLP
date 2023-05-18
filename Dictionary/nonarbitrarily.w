@@ -1,0 +1,1 @@
+{"index": 201417, "D": "based on the judgment or will of an individual", "S": [], "A": []}

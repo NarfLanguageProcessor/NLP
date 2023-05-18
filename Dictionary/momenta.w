@@ -1,0 +1,1 @@
+{"index": 191631, "D": "force or speed of movement; impetus, as of a physical object or course of events", "S": [], "A": []}

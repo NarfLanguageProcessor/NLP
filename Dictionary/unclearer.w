@@ -1,0 +1,1 @@
+{"index": 337017, "D": "free from darkness, obscurity, or cloudiness; light", "S": ["ambiguous ", "confused ", "fuzzy ", "hazy ", "imprecise ", "obscure ", "uncertain ", "unsettled ", "unsure ", "vague "], "A": ["certain ", "clear ", "definite ", "explicit ", "secure ", "sure "]}

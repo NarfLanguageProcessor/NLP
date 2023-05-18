@@ -1,0 +1,1 @@
+{"index": 155705, "D": "the act of interpreting;  elucidation; explication", "S": ["analysis ", "clarification ", "explanation ", "judgment ", "meaning ", "perception ", "reading ", "translation "], "A": ["complication ", "ignorance ", "misconception ", "misunderstanding ", "release "]}

@@ -1,0 +1,1 @@
+{"index": 37565, "D": "bitt (def. 1). ", "S": ["batten ", "bit ", "block ", "chock ", "metal ", "spur ", "support ", "wedge ", "wood "], "A": ["whole "]}

@@ -1,0 +1,1 @@
+{"index": 368186, "D": "a dimorph of sphalerite, zinc sulfide, ZnS, similar in structure to greenockite and brownish-black in color.", "S": [], "A": []}

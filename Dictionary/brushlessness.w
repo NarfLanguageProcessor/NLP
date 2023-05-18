@@ -1,0 +1,1 @@
+{"index": 41820, "D": "requiring no brush  to use or apply", "S": [], "A": []}

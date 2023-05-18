@@ -1,0 +1,1 @@
+{"index": 147579, "D": "a physical likeness or representation of a person, animal, or thing, photographed, painted, sculptured, or otherwise made visible.", "S": ["appearance ", "copy ", "drawing ", "figure ", "form ", "icon ", "illustration ", "likeness ", "model ", "photograph ", "picture ", "portrait ", "statue "], "A": ["difference ", "original "]}

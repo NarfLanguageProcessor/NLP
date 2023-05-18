@@ -1,0 +1,1 @@
+{"index": 352441, "D": "having been replaced or taken over by someone or something else", "S": [], "A": []}

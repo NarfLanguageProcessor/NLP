@@ -1,0 +1,1 @@
+{"index": 132189, "D": "any eellike, marine cyclostome of the order Myxiniformes, having undeveloped eyes, a barbel-rimmed, circular mouth, and horny teeth for boring into the flesh of fishes  to feed on their interior parts.", "S": [], "A": []}

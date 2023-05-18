@@ -1,0 +1,1 @@
+{"index": 69724, "D": "to eat or wear away gradually as if by gnawing, especially by chemical action.", "S": ["powdery ", "soft "], "A": ["flexible ", "pliable "]}

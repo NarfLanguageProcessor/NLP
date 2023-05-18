@@ -1,0 +1,1 @@
+{"index": 318083, "D": "a turn in which a skier places one ski far forward of the other and gradually angles the tip of the forward ski inward in the direction to be turned.", "S": [], "A": []}

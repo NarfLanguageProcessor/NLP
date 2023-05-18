@@ -1,0 +1,1 @@
+{"index": 203428, "D": "the height to which something is elevated  or to which it rises", "S": [], "A": []}

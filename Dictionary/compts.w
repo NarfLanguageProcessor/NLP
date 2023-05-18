@@ -1,0 +1,1 @@
+{"index": 64937, "D": "an archaic spelling of count1. ", "S": [], "A": []}

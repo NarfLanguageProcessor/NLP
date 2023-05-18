@@ -1,0 +1,1 @@
+{"index": 179215, "D": "a hole,  usually with a cover, through which a person may enter a sewer, drain, steam boiler, etc., especially one located in a city street.", "S": [], "A": []}

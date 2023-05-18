@@ -1,0 +1,1 @@
+{"index": 206094, "D": "of or relating to a practical point of view or practical considerations.", "S": [], "A": []}

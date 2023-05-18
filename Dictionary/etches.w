@@ -1,0 +1,1 @@
+{"index": 104819, "D": "to cut, bite, or corrode with an acid or the like; engrave with an acid or the like, as to form a design in furrows that when charged with ink will give an impression on paper.", "S": ["depict ", "engrave ", "imprint ", "incise ", "ingrain ", "inscribe ", "portray ", "stamp "], "A": ["build ", "confuse ", "neglect "]}

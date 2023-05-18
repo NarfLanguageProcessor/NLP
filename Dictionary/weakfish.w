@@ -1,0 +1,1 @@
+{"index": 363459, "D": "any food fish of the genus Cynoscion, as C. regalis, inhabiting waters along the Atlantic and Gulf coasts of the United States.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 141740, "D": "an uncontrollable outburst of emotion or fear, often characterized by irrationality, laughter, weeping, etc.", "S": ["agitation ", "delirium ", "excitement ", "frenzy ", "madness ", "nervousness ", "panic "], "A": ["calm ", "calmness ", "collectedness ", "peace "]}

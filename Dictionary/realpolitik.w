@@ -1,0 +1,1 @@
+{"index": 261789, "D": "political realism or practical politics, especially policy based on power rather than on ideals.", "S": ["civics "], "A": []}

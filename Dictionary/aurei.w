@@ -1,0 +1,1 @@
+{"index": 23520, "D": "a gold coin and monetary unit of ancient Rome, from Caesar to Constantine I.", "S": [], "A": []}

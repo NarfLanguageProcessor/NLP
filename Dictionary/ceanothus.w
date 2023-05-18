@@ -1,0 +1,1 @@
+{"index": 50300, "D": "any North American shrub or small tree of the largely western genus Ceanothus, having clusters of small white or blue flowers.", "S": [], "A": []}

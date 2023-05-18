@@ -1,0 +1,1 @@
+{"index": 278441, "D": "excessively luxurious or sensual.", "S": [], "A": []}

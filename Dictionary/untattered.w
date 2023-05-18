@@ -1,0 +1,1 @@
+{"index": 352715, "D": "torn to tatters;  ragged", "S": [], "A": []}

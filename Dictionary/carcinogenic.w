@@ -1,0 +1,1 @@
+{"index": 47663, "D": [], "S": ["destructive ", "harmful ", "mortal "], "A": []}

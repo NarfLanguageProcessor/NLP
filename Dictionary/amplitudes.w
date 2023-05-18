@@ -1,0 +1,1 @@
+{"index": 11342, "D": "the state or quality of being ample, especially as to breadth or width; largeness; greatness of extent.", "S": ["breadth ", "extent ", "magnitude ", "mass ", "size ", "volume ", "width "], "A": []}

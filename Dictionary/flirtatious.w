@@ -1,0 +1,1 @@
+{"index": 114709, "D": "given or inclined to flirtation. ", "S": ["amorous "], "A": ["cool ", "modest ", "shy "]}

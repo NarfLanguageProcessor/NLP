@@ -1,0 +1,1 @@
+{"index": 201756, "D": "any external prop or support built to steady a structure by opposing its outward thrusts, especially a projecting support built into or against the outside of a masonry wall.", "S": [], "A": []}

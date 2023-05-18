@@ -1,0 +1,1 @@
+{"index": 68945, "D": "cord  covered with yarns or fabric, used decoratively.", "S": ["covering ", "cushioning ", "lining ", "padding "], "A": []}

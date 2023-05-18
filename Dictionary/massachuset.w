@@ -1,0 +1,1 @@
+{"index": 180752, "D": "a member of a North American Indian people formerly living around Massachusetts Bay", "S": [], "A": []}

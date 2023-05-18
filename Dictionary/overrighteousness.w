@@ -1,0 +1,1 @@
+{"index": 220879, "D": "characterized by uprightness or morality", "S": [], "A": []}

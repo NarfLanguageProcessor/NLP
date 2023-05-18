@@ -1,0 +1,1 @@
+{"index": 187790, "D": "to become mixed, blended, or united", "S": ["flowing ", "joining "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 250440, "D": "a person whose office it is to perform religious rites, and especially to make sacrificial offerings.", "S": ["cleric ", "elder ", "father ", "friar ", "lama ", "monk ", "preacher ", "rector "], "A": []}

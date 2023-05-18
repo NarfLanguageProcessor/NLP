@@ -1,0 +1,1 @@
+{"index": 10730, "D": "ammunition. ", "S": ["armament ", "bomb ", "bullet ", "cartridge ", "chemical ", "explosive ", "gunpowder ", "materiel ", "missile ", "munition ", "napalm ", "rocket ", "shrapnel ", "torpedo "], "A": []}

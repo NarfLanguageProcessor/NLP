@@ -1,0 +1,1 @@
+{"index": 295342, "D": "to growl threateningly or viciously, especially with a raised upper lip to bare the teeth, as a dog.", "S": ["complicated ", "convoluted ", "disturbing ", "intricate ", "obscure ", "perplexing ", "sophisticated "], "A": ["easy ", "simple "]}

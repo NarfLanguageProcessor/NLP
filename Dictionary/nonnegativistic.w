@@ -1,0 +1,1 @@
+{"index": 205465, "D": "a negative  or pessimistic attitude.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43460, "D": "to make one's way through woods by cutting at undergrowth, branches, etc.", "S": ["assault ", "attack ", "surprise ", "waylay "], "A": []}

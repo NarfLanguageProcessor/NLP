@@ -1,0 +1,1 @@
+{"index": 336775, "D": "aggressively and blindly devoted to a certain system of beliefs, especially patriotism or nationalism", "S": [], "A": []}

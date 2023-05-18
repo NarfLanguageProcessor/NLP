@@ -1,0 +1,1 @@
+{"index": 332175, "D": "to pull at with force, vigor, or effort.", "S": [], "A": []}

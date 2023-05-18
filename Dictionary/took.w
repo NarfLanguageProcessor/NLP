@@ -1,0 +1,1 @@
+{"index": 325686, "D": "simple past tense of take. ", "S": ["aloof ", "away ", "detached ", "distant ", "isolated "], "A": ["friendly ", "sympathetic ", "known ", "visible "]}

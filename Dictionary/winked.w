@@ -1,0 +1,1 @@
+{"index": 366173, "D": "to close and open one eye quickly as a hint or signal or with some sly meaning (often followed by at)", "S": ["eye ", "eyeball ", "gloat ", "goggle ", "ogle ", "smirk ", "sneer ", "squint ", "stare ", "wink "], "A": []}

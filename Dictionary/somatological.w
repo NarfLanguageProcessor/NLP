@@ -1,0 +1,1 @@
+{"index": 296981, "D": "the branch of anthropology that deals with human physical characteristics.", "S": [], "A": []}

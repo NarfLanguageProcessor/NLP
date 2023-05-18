@@ -1,0 +1,1 @@
+{"index": 48861, "D": "a book  in which to record money received and paid out.", "S": [], "A": []}

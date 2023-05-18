@@ -1,0 +1,1 @@
+{"index": 139901, "D": "the use, especially for emphasis, of a word order other than the expected or usual one, as in \u201cBird thou never wert.\u201d", "S": [], "A": []}

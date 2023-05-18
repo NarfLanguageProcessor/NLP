@@ -1,0 +1,1 @@
+{"index": 280416, "D": "an ancient annotation upon a passage in a Greek or Latin text.", "S": [], "A": []}

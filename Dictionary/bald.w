@@ -1,0 +1,1 @@
+{"index": 26767, "D": "having little or no hair on the scalp", "S": ["bare ", "hairless ", "naked "], "A": ["hairy ", "hirsute "]}

@@ -1,0 +1,1 @@
+{"index": 202520, "D": "the act or state of coordinating  or of being coordinated. ", "S": [], "A": []}

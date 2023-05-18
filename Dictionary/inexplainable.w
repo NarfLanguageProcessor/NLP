@@ -1,0 +1,1 @@
+{"index": 151714, "D": "not explainable; incapable of being explained; inexplicable.", "S": ["baffling ", "incomprehensible ", "mysterious ", "mystifying ", "odd ", "peculiar ", "puzzling ", "strange ", "unaccountable ", "unfathomable "], "A": ["comprehensible ", "explainable ", "fathomable ", "intelligible ", "normal ", "regular ", "standard ", "understandable ", "usual "]}

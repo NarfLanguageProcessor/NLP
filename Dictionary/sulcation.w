@@ -1,0 +1,1 @@
+{"index": 310361, "D": "having long, narrow grooves or channels, as plant stems, or being furrowed or cleft, as hoofs.", "S": ["culvert ", "dike ", "duct ", "eaves ", "pipe ", "sewer ", "tube "], "A": []}

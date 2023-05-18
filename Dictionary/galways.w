@@ -1,0 +1,1 @@
+{"index": 121589, "D": "a county in S Connaught, in W Republic of Ireland. 2,293 sq. mi. (5,940 sq. km).", "S": [], "A": []}

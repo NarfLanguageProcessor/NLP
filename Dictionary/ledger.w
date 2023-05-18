@@ -1,0 +1,1 @@
+{"index": 169894, "D": "an account book or digital file of final entry, in which business transactions are recorded", "S": ["books ", "daybook ", "journal ", "register "], "A": []}

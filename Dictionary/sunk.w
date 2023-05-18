@@ -1,0 +1,1 @@
+{"index": 311137, "D": "a simple past tense and past participle of sink. ", "S": ["flawed ", "impaired ", "injured ", "run-down "], "A": ["healthy "]}

@@ -1,0 +1,1 @@
+{"index": 40373, "D": "a movable piece of metal for closing the breech  in certain firearms.", "S": [], "A": []}

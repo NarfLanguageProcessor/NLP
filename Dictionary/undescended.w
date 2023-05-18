@@ -1,0 +1,1 @@
+{"index": 340142, "D": "(of a testicle) not having descended  from the abdominal cavity into the scrotum.", "S": [], "A": []}

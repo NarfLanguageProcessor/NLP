@@ -1,0 +1,1 @@
+{"index": 215117, "D": "correctness or orthodoxy of action or practice.", "S": [], "A": []}

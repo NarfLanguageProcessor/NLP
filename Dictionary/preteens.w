@@ -1,0 +1,1 @@
+{"index": 249852, "D": "a boy or girl under the age of 13, especially one between the ages of 9 and 12.", "S": ["juvenile ", "kid ", "minor ", "offspring ", "youngster ", "youth "], "A": ["adult ", "parent "]}

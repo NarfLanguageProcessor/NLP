@@ -1,0 +1,1 @@
+{"index": 260196, "D": "the offence committed when a player deliberately scrapes an opponent's leg, arm, etc, with the studs of his or her boots", "S": ["comb ", "scour ", "scrape "], "A": ["disperse ", "distribute ", "divide ", "plant ", "scatter "]}

@@ -1,0 +1,1 @@
+{"index": 349422, "D": "to send or consign to an inferior position, place, or condition", "S": [], "A": []}

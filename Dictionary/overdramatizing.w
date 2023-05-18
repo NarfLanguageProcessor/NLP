@@ -1,0 +1,1 @@
+{"index": 219070, "D": "to put into a form suitable for acting on a stage.", "S": ["act ", "dramatize ", "exaggerate ", "overact ", "overplay "], "A": ["play down "]}

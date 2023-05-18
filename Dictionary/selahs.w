@@ -1,0 +1,1 @@
+{"index": 283413, "D": "an expression occurring frequently in the Psalms, thought to be a liturgical or musical direction, probably a direction by the leader to raise the voice or perhaps an indication of a pause.", "S": [], "A": []}

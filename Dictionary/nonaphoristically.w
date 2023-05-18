@@ -1,0 +1,1 @@
+{"index": 201353, "D": "of, like, or containing aphorisms", "S": [], "A": []}

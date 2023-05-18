@@ -1,0 +1,1 @@
+{"index": 109827, "D": "any aquatic plant belonging to the genus Cabomba, of the water lily family, having very small flowers and submerged and floating leaves.", "S": [], "A": []}

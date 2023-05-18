@@ -1,0 +1,1 @@
+{"index": 235204, "D": "movement occurring upon exposure to light.", "S": [], "A": []}

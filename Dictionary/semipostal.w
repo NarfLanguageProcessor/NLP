@@ -1,0 +1,1 @@
+{"index": 284752, "D": "a postage stamp sold by a government at a premium above its face value, the excess being used for a nonpostal purpose, as a charity.", "S": [], "A": []}

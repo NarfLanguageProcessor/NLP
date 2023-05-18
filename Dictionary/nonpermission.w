@@ -1,0 +1,1 @@
+{"index": 205881, "D": "authorization granted to do something; formal consent", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 312446, "D": "an extremely powerful nation, especially one capable of influencing international events and the acts and policies of less powerful nations.", "S": [], "A": []}

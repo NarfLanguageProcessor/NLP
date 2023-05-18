@@ -1,0 +1,1 @@
+{"index": 65784, "D": "a candy or other confection. ", "S": [], "A": []}

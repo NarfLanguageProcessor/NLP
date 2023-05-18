@@ -1,0 +1,1 @@
+{"index": 70076, "D": "astronautics, especially as applied to space flight.", "S": [], "A": []}

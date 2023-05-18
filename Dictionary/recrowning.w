@@ -1,0 +1,1 @@
+{"index": 263632, "D": "any of various types of headgear worn by a monarch as a symbol of sovereignty, often made of precious metal and ornamented with valuable gems.", "S": [], "A": []}

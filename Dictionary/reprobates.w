@@ -1,0 +1,1 @@
+{"index": 268603, "D": "a depraved, unprincipled, or wicked person", "S": ["culprit ", "felon ", "hoodlum ", "lowlife ", "pickpocket ", "wrongdoer "], "A": ["goody-goody "]}

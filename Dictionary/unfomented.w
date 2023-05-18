@@ -1,0 +1,1 @@
+{"index": 342473, "D": "to instigate or foster (discord, rebellion, etc.); promote the growth or development of", "S": [], "A": []}

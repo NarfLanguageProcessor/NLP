@@ -1,0 +1,1 @@
+{"index": 66655, "D": "(in prescriptions) conserve; keep.", "S": ["bluff ", "cheat ", "crime ", "deception ", "dupe ", "fraud ", "graft ", "mockery ", "swindle "], "A": ["honesty "]}

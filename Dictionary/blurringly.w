@@ -1,0 +1,1 @@
+{"index": 36881, "D": "to obscure or sully (something) by smearing or with a smeary substance", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 241175, "D": "an inferior poet;  a writer of indifferent verse.", "S": [], "A": []}

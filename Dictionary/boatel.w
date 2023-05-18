@@ -1,0 +1,1 @@
+{"index": 36989, "D": "a waterside hotel  with dock space for persons who travel by boat. ", "S": [], "A": []}

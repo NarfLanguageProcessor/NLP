@@ -1,0 +1,1 @@
+{"index": 24688, "D": "to assert or affirm with confidence; declare in a positive or peremptory manner.", "S": ["purported ", "so-called ", "stated ", "supposed "], "A": ["certain ", "definite ", "sure "]}

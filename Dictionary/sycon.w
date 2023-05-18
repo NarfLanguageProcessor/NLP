@@ -1,0 +1,1 @@
+{"index": 289674, "D": "a type of sponge having a thick body wall that is folded to form many short canals leading to the spongocoel.", "S": [], "A": []}

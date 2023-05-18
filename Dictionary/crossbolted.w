@@ -1,0 +1,1 @@
+{"index": 73781, "D": "a lock controlling two bolts  moving in opposite directions, as to the top and bottom of a doorframe.", "S": [], "A": []}

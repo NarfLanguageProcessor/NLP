@@ -1,0 +1,1 @@
+{"index": 296368, "D": "a person easily stirred to sentiment or tender emotion.", "S": ["bleeding-heart liberal ", "liberal ", "sentimental fool ", "sympathizer "], "A": []}

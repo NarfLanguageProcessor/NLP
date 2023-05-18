@@ -1,0 +1,1 @@
+{"index": 200078, "D": "a member of any of various Indigenous Black peoples from the region surrounding the southern Nile Valley, especially those speaking a Nilotic  language.", "S": [], "A": []}

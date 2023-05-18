@@ -1,0 +1,1 @@
+{"index": 337556, "D": "directed, managed, or carried on", "S": [], "A": []}

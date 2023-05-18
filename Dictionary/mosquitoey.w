@@ -1,0 +1,1 @@
+{"index": 193851, "D": "any of numerous dipterous  insects of the family Culicidae, the females of which suck the blood of animals and humans, some species transmitting certain diseases, as malaria and yellow fever.", "S": [], "A": []}

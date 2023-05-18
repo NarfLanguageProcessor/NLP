@@ -1,0 +1,1 @@
+{"index": 28379, "D": "a town in E Rhode Island.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 48293, "D": "a former English colony on the Atlantic coast of North America", "S": [], "A": []}

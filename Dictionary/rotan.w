@@ -1,0 +1,1 @@
+{"index": 274604, "D": "another name for rattan (def. 1)", "S": [], "A": []}

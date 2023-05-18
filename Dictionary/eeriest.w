@@ -1,0 +1,1 @@
+{"index": 95924, "D": "uncanny, so as to inspire superstitious fear; weird an eerie midnight howl.", "S": [], "A": []}

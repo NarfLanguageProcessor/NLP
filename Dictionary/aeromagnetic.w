@@ -1,0 +1,1 @@
+{"index": 5055, "D": "of, relating to, or based on an aerial survey of the earth's magnetic field", "S": [], "A": []}

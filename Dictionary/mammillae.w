@@ -1,0 +1,1 @@
+{"index": 178799, "D": "the nipple of the mamma, or breast.", "S": ["bosom ", "chest ", "nipple "], "A": []}

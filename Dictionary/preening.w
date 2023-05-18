@@ -1,0 +1,1 @@
+{"index": 247290, "D": "the act of trimming or dressing the feathers, fur, etc., with the beak or tongue", "S": ["beautify ", "clean ", "groom ", "prettify ", "primp ", "prink ", "tidy "], "A": ["dirty "]}

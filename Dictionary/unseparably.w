@@ -1,0 +1,1 @@
+{"index": 350790, "D": "capable of being separated, parted, or dissociated.", "S": [], "A": []}

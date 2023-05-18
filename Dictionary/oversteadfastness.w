@@ -1,0 +1,1 @@
+{"index": 221336, "D": "firmness in purpose, resolution, faith, attachment, etc.", "S": [], "A": []}

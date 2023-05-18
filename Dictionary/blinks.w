@@ -1,0 +1,1 @@
+{"index": 36260, "D": "a small temperate portulacaceous plant, Montia fontana with small white flowers", "S": ["flash ", "flicker ", "flutter ", "sparkle ", "squint "], "A": ["attend ", "be aware ", "pay attention "]}

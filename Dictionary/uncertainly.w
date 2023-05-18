@@ -1,0 +1,1 @@
+{"index": 336669, "D": "not definitely ascertainable or fixed, as in time of occurrence, number, dimensions, or quality.", "S": ["dubiously "], "A": []}

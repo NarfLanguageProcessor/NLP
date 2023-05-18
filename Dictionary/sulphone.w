@@ -1,0 +1,1 @@
+{"index": 310729, "D": "any of a class of organic compounds containing the divalent group \u2013SO 2 linked to two other organic groups. Certain sulphones are used in the treatment of leprosy and tuberculosis", "S": [], "A": []}

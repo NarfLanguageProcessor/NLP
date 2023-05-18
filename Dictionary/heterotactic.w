@@ -1,0 +1,1 @@
+{"index": 137782, "D": "of, relating to, or characterized by heterotaxis.", "S": [], "A": []}

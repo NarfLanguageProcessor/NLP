@@ -1,0 +1,1 @@
+{"index": 1476, "D": "the act of accepting;  acceptance.", "S": [], "A": []}

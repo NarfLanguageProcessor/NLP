@@ -1,0 +1,1 @@
+{"index": 177561, "D": "the boundary between the earth's magnetosphere and interplanetary space, about 40,000 miles (65,000 km) above the earth, marked by an abrupt decrease in the earth's magnetic induction.", "S": [], "A": []}

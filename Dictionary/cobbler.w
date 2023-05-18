@@ -1,0 +1,1 @@
+{"index": 61201, "D": "a person who mends shoes.", "S": ["bootmaker "], "A": []}

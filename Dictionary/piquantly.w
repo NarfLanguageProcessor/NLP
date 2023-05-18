@@ -1,0 +1,1 @@
+{"index": 237523, "D": "agreeably pungent or sharp in taste or flavor; pleasantly biting or tart", "S": [], "A": []}

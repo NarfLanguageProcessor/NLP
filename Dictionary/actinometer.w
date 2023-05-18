@@ -1,0 +1,1 @@
+{"index": 3162, "D": "a device for measuring intensity of radiation, especially that of the sun.", "S": ["ASA scale ", "Scheiner scale ", "exposure meter ", "photometer ", "radiometer "], "A": []}

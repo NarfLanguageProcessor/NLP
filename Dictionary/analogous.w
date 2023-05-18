@@ -1,0 +1,1 @@
+{"index": 11807, "D": "having analogy;  corresponding in some particular", "S": ["akin ", "comparable ", "corresponding ", "related "], "A": ["alien ", "disconnected ", "dissimilar ", "unlike ", "unrelated "]}

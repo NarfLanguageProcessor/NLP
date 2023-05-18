@@ -1,0 +1,1 @@
+{"index": 130370, "D": "Compare black grouse, capercaillie, ruffed grouse, spruce grouse. ", "S": [], "A": []}

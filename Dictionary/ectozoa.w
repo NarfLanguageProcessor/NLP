@@ -1,0 +1,1 @@
+{"index": 95584, "D": "any animal parasite, as the louse, that lives on the surface of its host (opposed to entozoon).", "S": [], "A": []}

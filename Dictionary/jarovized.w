@@ -1,0 +1,1 @@
+{"index": 160497, "D": "to vernalize.", "S": [], "A": []}

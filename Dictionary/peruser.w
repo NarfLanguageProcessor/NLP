@@ -1,0 +1,1 @@
+{"index": 232165, "D": "to read through with thoroughness or care", "S": ["anthology ", "bookworm ", "editor ", "elocutionist ", "lector ", "lecturer ", "primer ", "proofreader ", "reciter ", "scholar "], "A": []}

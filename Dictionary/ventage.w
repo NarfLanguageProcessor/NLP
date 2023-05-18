@@ -1,0 +1,1 @@
+{"index": 358148, "D": "a small hole or vent,  as one of the fingerholes of a flute.", "S": [], "A": []}

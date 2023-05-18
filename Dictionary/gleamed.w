@@ -1,0 +1,1 @@
+{"index": 126077, "D": "a flash or beam of light", "S": ["glimmer ", "glint ", "glisten ", "glitter ", "glow ", "radiate ", "shimmer ", "shine ", "twinkle "], "A": ["dull "]}

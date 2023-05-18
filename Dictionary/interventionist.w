@@ -1,0 +1,1 @@
+{"index": 156167, "D": "of, relating to, or advocating intervention, esp in the affairs of a foreign country", "S": [], "A": []}

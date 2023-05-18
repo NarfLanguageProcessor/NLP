@@ -1,0 +1,1 @@
+{"index": 251629, "D": "any of a group of proteins that are converted to active enzymes  by partial breakdown, as by the action of an acid or other enzyme. ", "S": [], "A": []}

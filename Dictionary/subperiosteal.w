@@ -1,0 +1,1 @@
+{"index": 308803, "D": "the normal investment of bone, consisting of a dense, fibrous outer layer, to which muscles attach, and a more delicate, inner layer capable of forming bone.", "S": [], "A": []}

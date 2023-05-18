@@ -1,0 +1,1 @@
+{"index": 71323, "D": "the act of a person or thing that courses. ", "S": ["exploration ", "hunting ", "inquiry ", "interrogation ", "investigation ", "probe ", "prosecution ", "pursuit ", "quest ", "race ", "raid "], "A": []}

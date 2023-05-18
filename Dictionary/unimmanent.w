@@ -1,0 +1,1 @@
+{"index": 344266, "D": "remaining within; indwelling; inherent.", "S": [], "A": []}

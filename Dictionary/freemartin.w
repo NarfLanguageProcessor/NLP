@@ -1,0 +1,1 @@
+{"index": 118633, "D": "a female calf that is born as a twin with a male and is sterile as a result of exposure to masculinizing hormones produced by the male.", "S": ["dogie ", "heifer ", "maverick ", "veal ", "yearling "], "A": []}

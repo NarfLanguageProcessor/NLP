@@ -1,0 +1,1 @@
+{"index": 351806, "D": "implied or understood without being spoken or uttered.", "S": ["implicit ", "implied ", "tacit "], "A": ["explicit "]}

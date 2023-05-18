@@ -1,0 +1,1 @@
+{"index": 19743, "D": "a severe critic.", "S": ["attacker ", "carper ", "caviler ", "censor ", "complainant ", "complainer ", "defamer ", "disparager ", "doubter ", "maligner ", "muckraker ", "nagger ", "quibbler ", "scolder ", "slanderer ", "vilifier ", "worrier ", "zapper "], "A": []}

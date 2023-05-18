@@ -1,0 +1,1 @@
+{"index": 222555, "D": "something that nourishes an animal or vegetable organism; food; nutriment.", "S": ["diet ", "food ", "fuel ", "nutrient ", "nutriment ", "support ", "sustenance "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 335408, "D": "not appealing to the senses or mind through beauty, form, character, etc", "S": ["disgusting ", "repugnant ", "repulsive ", "unappealing "], "A": ["attractive ", "pleasant ", "pleasing "]}

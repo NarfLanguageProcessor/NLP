@@ -1,0 +1,1 @@
+{"index": 16301, "D": "the act of taxing. ", "S": [], "A": []}

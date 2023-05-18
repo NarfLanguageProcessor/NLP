@@ -1,0 +1,1 @@
+{"index": 202552, "D": "having the quality of corroding  or eating away; erosive.", "S": [], "A": []}

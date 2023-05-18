@@ -1,0 +1,1 @@
+{"index": 32617, "D": "to bestride.", "S": ["mount ", "ride "], "A": []}

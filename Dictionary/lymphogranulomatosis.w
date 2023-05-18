@@ -1,0 +1,1 @@
+{"index": 172576, "D": "widespread infectious granuloma of the lymphatic system.", "S": [], "A": []}

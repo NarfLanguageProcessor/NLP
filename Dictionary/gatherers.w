@@ -1,0 +1,1 @@
+{"index": 122757, "D": "a person or thing that collects, brings together, or accumulates", "S": ["connoisseur ", "hobbyist "], "A": []}

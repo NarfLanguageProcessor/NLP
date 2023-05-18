@@ -1,0 +1,1 @@
+{"index": 167516, "D": "(in Malaysia) a dish of Chinese origin consisting of rice noodles served in curry or hot soup", "S": [], "A": []}

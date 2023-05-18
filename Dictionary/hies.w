@@ -1,0 +1,1 @@
+{"index": 139189, "D": "to hasten; speed; go in haste.", "S": ["expedite ", "hurry ", "rush ", "scurry ", "speed "], "A": ["dawdle ", "delay ", "halt ", "slow "]}

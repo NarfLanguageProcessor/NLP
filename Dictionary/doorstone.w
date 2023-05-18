@@ -1,0 +1,1 @@
+{"index": 91580, "D": "a stone  serving as the sill of a doorway.", "S": [], "A": []}

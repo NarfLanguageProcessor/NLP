@@ -1,0 +1,1 @@
+{"index": 61781, "D": "to direct (a movie or other performance) with another or others.", "S": [], "A": []}

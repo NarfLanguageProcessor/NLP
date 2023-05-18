@@ -1,0 +1,1 @@
+{"index": 289408, "D": "an object or device that shuts (something) off", "S": ["faucet ", "pipe ", "spigot "], "A": []}

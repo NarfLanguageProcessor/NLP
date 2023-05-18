@@ -1,0 +1,1 @@
+{"index": 24684, "D": "a lake near Naples, Italy, looked upon in ancient times as an entrance to hell,  from whose waters vile-smelling vapors arose, supposedly killing birds flying over it.", "S": [], "A": []}

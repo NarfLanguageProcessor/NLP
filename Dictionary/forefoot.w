@@ -1,0 +1,1 @@
+{"index": 116661, "D": "one of the front feet of a quadruped, an insect, etc.", "S": [], "A": []}

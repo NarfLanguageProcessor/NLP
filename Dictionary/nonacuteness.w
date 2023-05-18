@@ -1,0 +1,1 @@
+{"index": 201088, "D": "sharpness or intensity", "S": [], "A": []}

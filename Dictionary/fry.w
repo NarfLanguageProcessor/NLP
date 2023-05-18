@@ -1,0 +1,1 @@
+{"index": 118875, "D": "to cook in a pan or on a griddle over direct heat, usually in fat or oil.", "S": ["saut\u00e9 "], "A": []}

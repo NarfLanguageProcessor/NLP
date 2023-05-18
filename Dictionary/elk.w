@@ -1,0 +1,1 @@
+{"index": 97650, "D": "the moose, Alces alces.", "S": [], "A": []}

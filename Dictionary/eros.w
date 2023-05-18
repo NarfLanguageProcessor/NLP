@@ -1,0 +1,1 @@
+{"index": 103905, "D": "the ancient Greek god of love, identified by the Romans with Cupid.", "S": [], "A": []}

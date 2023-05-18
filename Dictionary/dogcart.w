@@ -1,0 +1,1 @@
+{"index": 90857, "D": "a light, two-wheeled, horse-drawn vehicle for ordinary driving, with two transverse seats back to back, and originally having a box under the rear seat for carrying a dog. ", "S": [], "A": []}

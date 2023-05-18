@@ -1,0 +1,1 @@
+{"index": 138458, "D": "placer mining using a pressurized stream of water.", "S": [], "A": []}

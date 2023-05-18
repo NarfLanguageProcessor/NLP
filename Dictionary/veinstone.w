@@ -1,0 +1,1 @@
+{"index": 357776, "D": "valueless rock or mineral matter occurring in a vein; gangue.", "S": [], "A": []}

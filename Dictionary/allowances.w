@@ -1,0 +1,1 @@
+{"index": 9013, "D": "the act of allowing. ", "S": ["compensation package ", "perk ", "perquisite "], "A": []}

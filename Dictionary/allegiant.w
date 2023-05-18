@@ -1,0 +1,1 @@
+{"index": 8592, "D": "loyal; faithful.", "S": ["constant ", "dependable ", "devoted ", "firm ", "liege ", "loyal ", "reliable ", "staunch ", "steadfast ", "true ", "unswerving ", "unwavering "], "A": []}

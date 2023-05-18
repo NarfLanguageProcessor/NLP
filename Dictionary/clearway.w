@@ -1,0 +1,1 @@
+{"index": 59677, "D": "a road on which only emergency stops are permitted.", "S": [], "A": []}

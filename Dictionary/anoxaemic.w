@@ -1,0 +1,1 @@
+{"index": 13920, "D": "a deficiency of oxygen  in the arterial blood.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 106653, "D": "a person or thing that exchanges", "S": [], "A": []}

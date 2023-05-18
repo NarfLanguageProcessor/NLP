@@ -1,0 +1,1 @@
+{"index": 341196, "D": "made more visible, more important, etc.; stressed", "S": [], "A": []}

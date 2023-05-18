@@ -1,0 +1,1 @@
+{"index": 150070, "D": "inconvenient, as not affording sufficient space or room; uncomfortable", "S": [], "A": []}

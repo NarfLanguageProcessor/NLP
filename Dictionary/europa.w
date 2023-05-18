@@ -1,0 +1,1 @@
+{"index": 105821, "D": "a sister of Cadmus who was abducted by Zeus in the form of a bull and taken to Crete, where she bore him Rhadamanthus, Minos, and Sarpedon.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 34343, "D": "of or relating to electric  phenomena occurring in living organisms.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 42447, "D": "a wood having a convex face, now rarely used.", "S": [], "A": []}

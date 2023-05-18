@@ -1,0 +1,1 @@
+{"index": 271029, "D": "a person whose business it is to upholster  furniture and, sometimes, to furnish and put in place hangings, curtains, carpets, etc.", "S": [], "A": []}

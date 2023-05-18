@@ -1,0 +1,1 @@
+{"index": 212987, "D": "(an exclamation used to sympathize with someone else\u2019s pain or dismay, or to express one\u2019s own)", "S": [], "A": []}

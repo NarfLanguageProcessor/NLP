@@ -1,0 +1,1 @@
+{"index": 83199, "D": [], "S": ["clarification "], "A": ["bad manners ", "corruption ", "crudeness ", "dirtying ", "pollution ", "rudeness "]}

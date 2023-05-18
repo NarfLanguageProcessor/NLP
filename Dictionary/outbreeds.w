@@ -1,0 +1,1 @@
+{"index": 216289, "D": "to breed  selected individuals outside the limits of the breed  or variety.", "S": [], "A": []}

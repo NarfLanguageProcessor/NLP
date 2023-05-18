@@ -1,0 +1,1 @@
+{"index": 37342, "D": "a city in and the capital of Colombia, in the central part.", "S": [], "A": []}

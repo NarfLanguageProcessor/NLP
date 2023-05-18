@@ -1,0 +1,1 @@
+{"index": 233989, "D": "a potion, charm, or drug supposed to cause the person taking it to fall in love, usually with some specific person.", "S": ["Cialis ", "Viagra ", "love philter ", "magic instrument ", "magic potion ", "stimulant "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 363235, "D": "a ski on which to water-ski, designed to plane over water", "S": [], "A": []}

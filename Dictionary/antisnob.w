@@ -1,0 +1,1 @@
+{"index": 16214, "D": "a person who imitates, cultivates, or slavishly admires social superiors and is condescending or overbearing to others.", "S": [], "A": []}

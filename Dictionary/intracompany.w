@@ -1,0 +1,1 @@
+{"index": 156450, "D": "occurring within a company, especially between employees or branches of the company.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 334921, "D": "to treat or cause to unite with ammonia. ", "S": [], "A": []}

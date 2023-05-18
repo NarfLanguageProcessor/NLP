@@ -1,0 +1,1 @@
+{"index": 140938, "D": "of, relating to, or situated in the hypogastrium.", "S": [], "A": []}

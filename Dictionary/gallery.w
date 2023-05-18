@@ -1,0 +1,1 @@
+{"index": 121333, "D": "a raised area, often having a stepped or sloping floor, in a theater, church, or other public building to accommodate spectators, exhibits, etc.", "S": ["arcade "], "A": []}

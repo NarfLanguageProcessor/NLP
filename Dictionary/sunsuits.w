@@ -1,0 +1,1 @@
+{"index": 311224, "D": "any of various brief garments or outfits worn by women and children for leisure or play in warm weather, as shorts and a halter.", "S": [], "A": []}

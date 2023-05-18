@@ -1,0 +1,1 @@
+{"index": 69780, "D": "a person who practices or endorses corruption,  especially in politics.", "S": [], "A": []}

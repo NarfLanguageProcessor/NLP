@@ -1,0 +1,1 @@
+{"index": 162478, "D": "of or relating to a jurist  or to jurisprudence; juridical.", "S": ["argumentative ", "debatable ", "dialectic ", "dialectical ", "disputative ", "juridical ", "moot ", "polemical ", "rhetorical "], "A": []}

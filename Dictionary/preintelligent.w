@@ -1,0 +1,1 @@
+{"index": 248045, "D": "having good understanding or a high mental capacity; quick to comprehend, as persons or animals", "S": [], "A": []}

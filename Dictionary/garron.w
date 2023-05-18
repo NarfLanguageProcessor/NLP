@@ -1,0 +1,1 @@
+{"index": 122280, "D": "a small sturdy pony bred and used chiefly in Scotland and Ireland", "S": [], "A": []}

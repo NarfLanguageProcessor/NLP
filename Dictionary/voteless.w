@@ -1,0 +1,1 @@
+{"index": 361409, "D": "lacking or without a vote. ", "S": [], "A": []}

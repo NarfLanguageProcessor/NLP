@@ -1,0 +1,1 @@
+{"index": 328378, "D": "of or relating to the former South African province of Transvaal or its inhabitants", "S": [], "A": []}

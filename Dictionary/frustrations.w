@@ -1,0 +1,1 @@
+{"index": 119673, "D": "act of frustrating;  state of being frustrated", "S": ["annoyance ", "dissatisfaction ", "failure ", "grievance ", "irritation ", "resentment "], "A": ["happiness ", "pleasure ", "advance ", "aid ", "assistance ", "blessing ", "boon ", "boost ", "help ", "promotion ", "success ", "support ", "triumph "]}

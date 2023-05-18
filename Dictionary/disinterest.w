@@ -1,0 +1,1 @@
+{"index": 88468, "D": "lack of interest; indifference. ", "S": ["inattention ", "indifference ", "lethargy "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 169676, "D": "the disposal of a building, land, or other property to a buyer under special arrangements for simultaneously leasing it on a long-term basis to the original seller, usually with an option to renew the lease.", "S": [], "A": []}

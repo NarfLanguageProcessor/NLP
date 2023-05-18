@@ -1,0 +1,1 @@
+{"index": 341224, "D": "charmed or captivated (usually followed by of, with, or sometimes by)", "S": [], "A": []}

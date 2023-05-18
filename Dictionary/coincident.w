@@ -1,0 +1,1 @@
+{"index": 62483, "D": "happening at the same time.", "S": ["ancillary ", "attendant ", "attending ", "coinciding ", "collateral ", "concomitant ", "consonant ", "contemporaneous ", "contemporary ", "coordinate ", "correspondent ", "incident ", "satellite ", "simultaneous ", "synchronous "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 75784, "D": "a charmingly attractive or cute person, especially a girl or a young woman (often used as a form of address)", "S": ["charmer "], "A": ["actuality ", "eyesore ", "fact ", "reality "]}

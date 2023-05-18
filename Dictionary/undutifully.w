@@ -1,0 +1,1 @@
+{"index": 340940, "D": "in a way that is required by moral or legal obligation, societal or cultural expectations, or a person\u2019s position or occupation", "S": [], "A": []}

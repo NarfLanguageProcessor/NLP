@@ -1,0 +1,1 @@
+{"index": 111276, "D": "a wolflike monster, a son of Loki and Angerboda, chained by Gleipnir but destined to be released at Ragnarok to eat Odin and to be killed by Vidar.", "S": [], "A": []}

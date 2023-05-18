@@ -1,0 +1,1 @@
+{"index": 109457, "D": "a chair or seat, originally one capable of being folded, used by a bishop or other prelate when officiating in his own church away from his throne or in a church not his own.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 178877, "D": "that can be managed; tractable;  governable; achievable.", "S": [], "A": []}

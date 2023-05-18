@@ -1,0 +1,1 @@
+{"index": 70617, "D": "to act  in opposition to; frustrate by contrary action.", "S": [], "A": []}

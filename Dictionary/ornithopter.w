@@ -1,0 +1,1 @@
+{"index": 214780, "D": "a heavier-than-air craft designed to be propelled through the air by flapping wings.", "S": [], "A": []}

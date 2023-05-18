@@ -1,0 +1,1 @@
+{"index": 223244, "D": "a member of a group of North American Indians of the Uto-Aztecan family dwelling in California, Nevada, Utah, and Arizona.", "S": [], "A": []}

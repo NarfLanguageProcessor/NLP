@@ -1,0 +1,1 @@
+{"index": 273204, "D": "(of a liquid surface) to form small waves or undulations, as water agitated by a breeze.", "S": [], "A": []}

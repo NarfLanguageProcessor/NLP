@@ -1,0 +1,1 @@
+{"index": 284231, "D": "noting or pertaining to a driving axle of an automobile or the like, the inner end of which is carried by the differential gear and the outer end of which is keyed to a wheel supported by the axle housing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 319715, "D": "to form of small squares or blocks, as floors or pavements; form or arrange in a checkered or mosaic pattern.", "S": ["decorate "], "A": []}

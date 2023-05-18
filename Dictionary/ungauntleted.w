@@ -1,0 +1,1 @@
+{"index": 342939, "D": "a medieval glove, as of mail or plate, worn by a knight in armor to protect the hand.", "S": [], "A": []}

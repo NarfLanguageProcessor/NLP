@@ -1,0 +1,1 @@
+{"index": 47189, "D": "a powder, C9H8Cl3NO2S, of white to cream color, used as a fungicide on vegetables, fruits, and flowers.", "S": [], "A": []}

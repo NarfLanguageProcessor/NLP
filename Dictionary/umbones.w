@@ -1,0 +1,1 @@
+{"index": 334194, "D": "a boss on a shield, as one at the center of a circular shield.", "S": [], "A": []}

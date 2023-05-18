@@ -1,0 +1,1 @@
+{"index": 345663, "D": "to settle or pay (a debt)", "S": ["expected ", "outstanding ", "overdue ", "owed ", "payable ", "scheduled "], "A": ["paid ", "settled "]}

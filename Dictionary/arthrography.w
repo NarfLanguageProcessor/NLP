@@ -1,0 +1,1 @@
+{"index": 20606, "D": "x-ray examination of a joint following injection of a radiopaque substance.", "S": [], "A": []}

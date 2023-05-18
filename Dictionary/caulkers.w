@@ -1,0 +1,1 @@
+{"index": 49986, "D": "a person who caulks  the seams of boats or the like.", "S": [], "A": []}

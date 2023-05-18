@@ -1,0 +1,1 @@
+{"index": 250470, "D": "(of a female) first among equals.", "S": [], "A": []}

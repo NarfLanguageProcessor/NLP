@@ -1,0 +1,1 @@
+{"index": 202358, "D": "the act of conserving;  prevention of injury, decay, waste, or loss; preservation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 17238, "D": "not political;  of no political  significance", "S": [], "A": []}

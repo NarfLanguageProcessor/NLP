@@ -1,0 +1,1 @@
+{"index": 54979, "D": "to chase; run after.", "S": ["annoy ", "badger ", "bait ", "bother ", "chase ", "harass ", "hound ", "hunt ", "pursue ", "tease ", "torment "], "A": ["aid ", "help ", "ignore ", "make happy ", "neglect ", "please ", "retreat ", "run away "]}

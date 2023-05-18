@@ -1,0 +1,1 @@
+{"index": 306365, "D": "a relatively long, narrow band of a different color, appearance, weave, material, or nature from the rest of a surface or thing", "S": ["ribbon "], "A": []}

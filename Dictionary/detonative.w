@@ -1,0 +1,1 @@
+{"index": 83248, "D": "the act of detonating. ", "S": ["fiery ", "frenzied ", "hazardous ", "meteoric ", "stormy ", "tense ", "touchy ", "ugly ", "uncontrollable ", "unstable ", "violent "], "A": ["calm ", "controlled ", "gentle ", "laid-back ", "mild ", "moderate ", "safe "]}

@@ -1,0 +1,1 @@
+{"index": 14540, "D": "of or relating to human beings or their span of existence on earth.", "S": [], "A": []}

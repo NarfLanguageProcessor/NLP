@@ -1,0 +1,1 @@
+{"index": 302335, "D": "a form of vertigo associated with decompression sickness", "S": ["careen ", "falter ", "lurch ", "reel ", "shake ", "teeter ", "wobble "], "A": ["carry on ", "continue ", "stay "]}

@@ -1,0 +1,1 @@
+{"index": 53816, "D": "a book containing detachable blank cheques and issued by a bank or building society to holders of cheque accounts", "S": [], "A": []}

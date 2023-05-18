@@ -1,0 +1,1 @@
+{"index": 110604, "D": "a distressing emotion aroused by impending danger, evil, pain, etc., whether the threat is real or imagined; the feeling or condition of being afraid.", "S": ["anticipate ", "avoid ", "dread ", "expect ", "foresee ", "shun ", "suspect ", "worry "], "A": ["face ", "meet ", "want ", "calm ", "steady ", "stretch "]}

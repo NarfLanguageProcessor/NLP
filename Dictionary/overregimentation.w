@@ -1,0 +1,1 @@
+{"index": 220817, "D": "the act of regimenting  or the state of being regimented. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 18851, "D": "a small fish, Toxotes jaculatrix, of brackish and fresh waters in southeastern Asia, that preys upon shoreside spiders and insects by spitting drops of water at them and knocking them into the water.", "S": [], "A": []}

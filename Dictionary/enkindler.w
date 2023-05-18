@@ -1,0 +1,1 @@
+{"index": 100626, "D": "to kindle  into flame, ardor, activity, etc.", "S": [], "A": []}

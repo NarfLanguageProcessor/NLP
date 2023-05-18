@@ -1,0 +1,1 @@
+{"index": 354076, "D": "vigilant or alert; closely observant", "S": [], "A": []}

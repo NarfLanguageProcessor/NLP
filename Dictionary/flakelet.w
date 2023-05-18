@@ -1,0 +1,1 @@
+{"index": 113821, "D": "a small flake,  as of snow.", "S": [], "A": []}

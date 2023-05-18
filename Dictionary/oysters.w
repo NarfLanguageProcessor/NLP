@@ -1,0 +1,1 @@
+{"index": 211930, "D": "any of several edible, marine, bivalve mollusks of the family Ostreidae, having an irregularly shaped shell, occurring on the bottom or adhering to rocks or other objects in shallow water.", "S": ["clam ", "conch ", "crawfish ", "crustacean ", "lobster ", "mollusk ", "mussel ", "oyster ", "prawn ", "scallop ", "shrimp ", "snail "], "A": []}

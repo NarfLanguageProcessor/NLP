@@ -1,0 +1,1 @@
+{"index": 179725, "D": "a representation, usually on a flat surface, as of the features of an area of the earth or a portion of the heavens, showing them in their respective forms, sizes, and relationships according to some convention of representation", "S": ["design ", "drawing ", "graph ", "outline ", "picture ", "plan ", "print ", "sketch "], "A": []}

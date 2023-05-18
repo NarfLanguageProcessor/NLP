@@ -1,0 +1,1 @@
+{"index": 11119, "D": "a plant having the sum of the chromosome numbers of two parental species, owing to the doubling of the chromosomes in a hybrid of two species.", "S": [], "A": []}

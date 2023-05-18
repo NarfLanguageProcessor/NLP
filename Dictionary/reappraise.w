@@ -1,0 +1,1 @@
+{"index": 261916, "D": "to assess the worth, value, or quality of (someone or something) again", "S": [], "A": []}

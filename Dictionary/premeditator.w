@@ -1,0 +1,1 @@
+{"index": 248352, "D": "to meditate, consider, or plan beforehand", "S": [], "A": []}

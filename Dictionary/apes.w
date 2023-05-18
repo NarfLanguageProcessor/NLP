@@ -1,0 +1,1 @@
+{"index": 16754, "D": "See also catarrhine. ", "S": ["emulate ", "imitate "], "A": []}

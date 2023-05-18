@@ -1,0 +1,1 @@
+{"index": 276180, "D": "of the nature of or resembling that of sugar", "S": [], "A": []}

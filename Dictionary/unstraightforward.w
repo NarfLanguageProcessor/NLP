@@ -1,0 +1,1 @@
+{"index": 352119, "D": "going or directed straight ahead", "S": [], "A": []}

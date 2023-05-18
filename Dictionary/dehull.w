@@ -1,0 +1,1 @@
+{"index": 79747, "D": "to remove the hulls  from (beans, seeds, etc.); hull. ", "S": [], "A": []}

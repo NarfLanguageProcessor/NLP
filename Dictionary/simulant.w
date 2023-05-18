@@ -1,0 +1,1 @@
+{"index": 291173, "D": "simulating; feigning;  imitating.", "S": ["counterfeit ", "echoic ", "onomatopoeic "], "A": ["different ", "genuine ", "original "]}

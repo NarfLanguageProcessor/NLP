@@ -1,0 +1,1 @@
+{"index": 207813, "D": "having a temper  or disposition of a specified character (usually used in combination)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321698, "D": "(of a person) dull-witted; stupid.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 184567, "D": "to subject to metabolism;  change by metabolism. ", "S": [], "A": []}

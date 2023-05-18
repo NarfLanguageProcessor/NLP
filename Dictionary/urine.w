@@ -1,0 +1,1 @@
+{"index": 355668, "D": "the liquid-to-semisolid waste matter excreted by the kidneys, in humans being a yellowish, slightly acid, watery fluid.", "S": ["droppings ", "dung ", "feces ", "manure "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45647, "D": "any of several shrubs of the genus Camellia, especially C. japonica, native to Asia, having glossy evergreen leaves and white, pink, red, or variegated roselike flowers.", "S": [], "A": []}

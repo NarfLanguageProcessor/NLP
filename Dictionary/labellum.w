@@ -1,0 +1,1 @@
+{"index": 166630, "D": "the petal of an orchid that differs more or less markedly from the other petals, often forming the most conspicuous part; the lip.", "S": [], "A": []}

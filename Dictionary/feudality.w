@@ -1,0 +1,1 @@
+{"index": 111834, "D": "the state or quality of being feudal.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 115141, "D": "struggling, especially clumsily or helplessly", "S": [], "A": []}

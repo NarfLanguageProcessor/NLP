@@ -1,0 +1,1 @@
+{"index": 359574, "D": "a person or thing that views. ", "S": ["observer ", "onlooker ", "spectator ", "watcher "], "A": ["participant "]}

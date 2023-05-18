@@ -1,0 +1,1 @@
+{"index": 15282, "D": "a liquid used in the radiator of an internal-combustion engine to lower the freezing point  of the cooling medium.", "S": [], "A": []}

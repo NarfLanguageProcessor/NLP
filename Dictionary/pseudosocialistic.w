@@ -1,0 +1,1 @@
+{"index": 255144, "D": "of or relating to socialists or socialism. ", "S": [], "A": []}

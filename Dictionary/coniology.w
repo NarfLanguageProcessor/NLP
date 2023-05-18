@@ -1,0 +1,1 @@
+{"index": 66353, "D": "a variant spelling of koniology", "S": [], "A": []}

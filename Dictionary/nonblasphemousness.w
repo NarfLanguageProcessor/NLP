@@ -1,0 +1,1 @@
+{"index": 201686, "D": "uttering, containing, or exhibiting blasphemy;  irreverent; profane.", "S": [], "A": []}

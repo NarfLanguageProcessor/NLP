@@ -1,0 +1,1 @@
+{"index": 322394, "D": "a rare mineral, thorium silicate, ThSiO4, occurring in the form of yellow or black crystals.", "S": [], "A": []}

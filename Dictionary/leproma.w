@@ -1,0 +1,1 @@
+{"index": 170682, "D": "the swollen lesion of leprosy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 142780, "D": "grown  or produced at home  or in a particular region for local consumption", "S": ["domestic "], "A": []}

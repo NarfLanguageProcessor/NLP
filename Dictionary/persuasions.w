@@ -1,0 +1,1 @@
+{"index": 232065, "D": "the act of persuading  or seeking to persuade. ", "S": ["seduction "], "A": ["disability ", "impotence ", "incompetence ", "ineffectiveness ", "weakness "]}

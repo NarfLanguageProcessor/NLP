@@ -1,0 +1,1 @@
+{"index": 347775, "D": "having an agreeable or pleasing personality;affable; amiable; sociable. ", "S": [], "A": []}

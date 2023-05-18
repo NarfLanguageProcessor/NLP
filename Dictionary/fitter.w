@@ -1,0 +1,1 @@
+{"index": 113550, "D": "a person or thing that fits. ", "S": ["improving ", "well "], "A": ["sicker ", "smaller ", "unhealthy ", "worse "]}

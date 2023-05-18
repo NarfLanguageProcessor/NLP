@@ -1,0 +1,1 @@
+{"index": 139237, "D": "a person of superior intellectual interests and tastes.", "S": ["cerebral ", "scholarly "], "A": []}

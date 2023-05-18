@@ -1,0 +1,1 @@
+{"index": 279867, "D": "the act of scattering. ", "S": [], "A": []}

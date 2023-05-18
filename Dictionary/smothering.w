@@ -1,0 +1,1 @@
+{"index": 295099, "D": "to stifle or suffocate, as by smoke or other means of preventing free breathing.", "S": ["hot ", "muggy ", "oppressive ", "scorching ", "sizzling ", "soggy ", "sticky ", "stifling ", "sweltering ", "torrid "], "A": ["calm ", "cold ", "cool ", "dry ", "freezing ", "frigid ", "mild "]}

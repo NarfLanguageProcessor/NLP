@@ -1,0 +1,1 @@
+{"index": 86823, "D": "a money of account of Iraq, one 20th of a dinar, equal to 50 fils.", "S": [], "A": []}

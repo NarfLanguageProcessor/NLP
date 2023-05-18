@@ -1,0 +1,1 @@
+{"index": 163246, "D": "a shrub or small tree, Pittosporum crassifolium, of New Zealand, having shiny leaves with a white, felty underside, red flowers, and densely hairy fruit.", "S": [], "A": []}

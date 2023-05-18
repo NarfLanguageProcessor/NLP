@@ -1,0 +1,1 @@
+{"index": 182392, "D": "hypertrophy of the heart.", "S": [], "A": []}

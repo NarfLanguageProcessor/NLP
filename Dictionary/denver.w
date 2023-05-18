@@ -1,0 +1,1 @@
+{"index": 81399, "D": "U.S. country singer.", "S": [], "A": []}

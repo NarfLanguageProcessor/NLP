@@ -1,0 +1,1 @@
+{"index": 362502, "D": "(formerly in N England and the Midlands) a subdivision of a shire or county corresponding to a hundred.", "S": [], "A": []}

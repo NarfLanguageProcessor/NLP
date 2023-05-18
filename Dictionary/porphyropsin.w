@@ -1,0 +1,1 @@
+{"index": 243543, "D": "a purple pigment occurring in the retina of the eye of certain freshwater fishes", "S": [], "A": []}

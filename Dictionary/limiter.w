@@ -1,0 +1,1 @@
+{"index": 172402, "D": "a person or thing that limits. ", "S": ["modifier ", "qualifier "], "A": []}

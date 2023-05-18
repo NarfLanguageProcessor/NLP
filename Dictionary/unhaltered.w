@@ -1,0 +1,1 @@
+{"index": 343458, "D": "a rope or strap with a noose or headstall for leading or restraining horses or cattle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 84670, "D": "a print produced by the diazo process.", "S": [], "A": []}

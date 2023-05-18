@@ -1,0 +1,1 @@
+{"index": 348574, "D": "to a thorough or very great extent or degree; deeply", "S": [], "A": []}

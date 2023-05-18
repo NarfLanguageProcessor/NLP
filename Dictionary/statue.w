@@ -1,0 +1,1 @@
+{"index": 303137, "D": "a three-dimensional work of art, as a representational or abstract form, carved in stone or wood, molded in a plastic material, cast in bronze, or the like.", "S": ["bronze ", "bust ", "effigy ", "figure ", "icon ", "image ", "likeness ", "marble ", "piece ", "sculpture ", "statuary ", "statuette "], "A": ["entity "]}

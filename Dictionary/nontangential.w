@@ -1,0 +1,1 @@
+{"index": 207752, "D": "pertaining to or of the nature of a tangent;  being or moving in the direction of a tangent. ", "S": [], "A": []}

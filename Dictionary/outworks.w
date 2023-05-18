@@ -1,0 +1,1 @@
+{"index": 217953, "D": "to work  harder, better, or faster than.", "S": ["bastion ", "fortress ", "mainstay ", "redoubt "], "A": ["harm ", "hurt ", "injury "]}

@@ -1,0 +1,1 @@
+{"index": 99048, "D": "to fill or inflame with love (usually used in the passive and followed by of or sometimes with)", "S": ["affection ", "amativeness ", "fancy ", "fondness ", "lovingness ", "passion ", "romance "], "A": ["dislike ", "hate ", "hatred "]}

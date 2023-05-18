@@ -1,0 +1,1 @@
+{"index": 21152, "D": "the powdery residue of matter that remains after burning.", "S": [], "A": []}

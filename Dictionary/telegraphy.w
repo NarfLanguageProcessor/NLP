@@ -1,0 +1,1 @@
+{"index": 318051, "D": "the art or practice of constructing or operating telegraphs.", "S": ["transmission ", "wireless "], "A": []}

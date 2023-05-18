@@ -1,0 +1,1 @@
+{"index": 213042, "D": "a brown or amber tea grown in China and Taiwan and partially fermented before being dried.", "S": [], "A": []}

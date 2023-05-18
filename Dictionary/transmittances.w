@@ -1,0 +1,1 @@
+{"index": 328118, "D": "the ratio of the radiant flux transmitted  through and emerging from a body to the total flux incident on it", "S": ["change ", "flow ", "journey ", "movement ", "passing ", "progress ", "transfer ", "transition ", "trip "], "A": ["stagnation "]}

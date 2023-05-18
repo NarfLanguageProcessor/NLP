@@ -1,0 +1,1 @@
+{"index": 234528, "D": "a magnesium-rich mica mineral, usually yellowish-brown, but sometimes reddish-brown.", "S": [], "A": []}

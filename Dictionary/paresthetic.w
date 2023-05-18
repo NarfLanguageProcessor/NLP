@@ -1,0 +1,1 @@
+{"index": 226420, "D": "an abnormal sensation, as prickling, itching, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 358956, "D": "to raise vesicles or blisters on; blister.", "S": [], "A": []}

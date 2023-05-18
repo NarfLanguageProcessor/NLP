@@ -1,0 +1,1 @@
+{"index": 327697, "D": "permitting the passage of heat.", "S": [], "A": []}

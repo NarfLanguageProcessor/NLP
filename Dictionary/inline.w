@@ -1,0 +1,1 @@
+{"index": 152988, "D": "an ornamented type with a line  of white or of a contrasting color running just inside the edge and following the contour of each letter.", "S": ["matched "], "A": ["dissimilar ", "divergent ", "imbalanced ", "inconsistent ", "irregular ", "rough ", "uneven ", "unstable ", "unsteady ", "variable ", "wavering ", "wobbly "]}

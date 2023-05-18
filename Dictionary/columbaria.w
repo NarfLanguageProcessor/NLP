@@ -1,0 +1,1 @@
+{"index": 63503, "D": "a sepulchral vault or other structure with recesses in the walls to receive the ashes of the dead.", "S": [], "A": []}

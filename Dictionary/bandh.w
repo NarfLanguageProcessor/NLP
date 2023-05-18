@@ -1,0 +1,1 @@
+{"index": 27315, "D": "(in India) a general strike", "S": [], "A": []}

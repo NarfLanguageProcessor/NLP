@@ -1,0 +1,1 @@
+{"index": 219754, "D": "in a way that is not proud or arrogant; modestly", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 340611, "D": "indifferent to moral restraints; given to immoral or improper conduct; licentious; dissipated. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 7653, "D": "of, relating to, or belonging to the Alcidae, a family of sea birds including the auks, guillemots, puffins, and related forms", "S": [], "A": []}

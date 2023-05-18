@@ -1,0 +1,1 @@
+{"index": 147909, "D": "occurring or accomplished without delay; instant", "S": [], "A": []}

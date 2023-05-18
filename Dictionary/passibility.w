@@ -1,0 +1,1 @@
+{"index": 227318, "D": "capable of feeling, especially suffering; susceptible of sensation or emotion; impressionable.", "S": [], "A": []}

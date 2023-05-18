@@ -1,0 +1,1 @@
+{"index": 258514, "D": "a plant or cutting, especially of hawthorn, set  to grow, as in a hedge.", "S": ["fence ", "shrubbery "], "A": ["opening "]}

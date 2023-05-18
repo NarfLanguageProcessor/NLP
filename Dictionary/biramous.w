@@ -1,0 +1,1 @@
+{"index": 34720, "D": "consisting of or divided into two branches", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 125527, "D": "the state or time of being a girl. ", "S": ["boyhood ", "teens "], "A": ["adulthood ", "infancy "]}

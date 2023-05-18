@@ -1,0 +1,1 @@
+{"index": 187146, "D": "any of the people from Spain who invaded Ireland and defeated the Tuatha D\u00e9 Danann, and who were the ancestors of the present Irish people.", "S": [], "A": []}

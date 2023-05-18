@@ -1,0 +1,1 @@
+{"index": 343324, "D": "not begrudging; not stinting; wholehearted", "S": ["enthusiastically ", "graciously ", "liberally ", "warmly ", "wholeheartedly "], "A": ["coldly ", "grudgingly ", "heartlessly ", "selfishly ", "sparingly ", "stingily "]}

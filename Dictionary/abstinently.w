@@ -1,0 +1,1 @@
+{"index": 1078, "D": "practicing abstinence;  refraining from any indulgence of a particular appetite, impulse, or desire, as from alcohol, sexual activity, social media, etc.", "S": [], "A": []}

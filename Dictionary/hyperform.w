@@ -1,0 +1,1 @@
+{"index": 140138, "D": "a pronunciation or grammatical form  or usage produced by hypercorrection.", "S": [], "A": []}

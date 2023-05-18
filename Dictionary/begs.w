@@ -1,0 +1,1 @@
+{"index": 30733, "D": "to ask for as a gift, as charity, or as a favor", "S": ["ask ", "beseech ", "implore ", "plead ", "pray ", "solicit ", "sue ", "urge "], "A": ["answer ", "reply "]}

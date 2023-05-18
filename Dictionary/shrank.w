@@ -1,0 +1,1 @@
+{"index": 289123, "D": "a simple past tense of shrink. ", "S": ["decrease ", "diminish ", "drop off ", "dwindle ", "fall off ", "lessen ", "narrow ", "reduce ", "shorten ", "shrivel ", "wane ", "weaken ", "wither "], "A": ["develop ", "enlarge ", "expand ", "extend ", "grow ", "increase ", "lengthen ", "raise ", "rise ", "strengthen ", "blow up ", "loosen ", "stretch "]}

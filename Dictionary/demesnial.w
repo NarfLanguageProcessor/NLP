@@ -1,0 +1,1 @@
+{"index": 80457, "D": "possession of land as one's own", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 353975, "D": "of, relating to, or characteristic of a vulture.", "S": [], "A": []}

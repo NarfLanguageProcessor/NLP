@@ -1,0 +1,1 @@
+{"index": 241680, "D": "an organized civil force for maintaining order, preventing and detecting crime, and enforcing the laws.", "S": ["file ", "form ", "organize "], "A": ["destroy ", "disarrange ", "disorder ", "disorganize ", "displace ", "jumble ", "mismanage ", "mix up ", "scatter "]}

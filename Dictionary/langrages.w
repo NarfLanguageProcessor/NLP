@@ -1,0 +1,1 @@
+{"index": 168099, "D": "a kind of shot consisting of bolts, nails, etc., fastened together or enclosed in a case, formerly used for damaging sails and rigging in sea battles.", "S": [], "A": []}

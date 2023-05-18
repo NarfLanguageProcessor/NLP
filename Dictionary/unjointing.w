@@ -1,0 +1,1 @@
+{"index": 345212, "D": "to sever or dislocate a joint  of; disjoint.", "S": [], "A": []}

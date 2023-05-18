@@ -1,0 +1,1 @@
+{"index": 244624, "D": "the act of drinking.", "S": ["alcohol ", "booze ", "brew ", "cup ", "draft ", "glass ", "gulp ", "libation ", "liquid ", "liquor ", "potable ", "potion ", "pull ", "quaff ", "refreshment ", "shot ", "sip ", "slug ", "spirits ", "spot ", "sup ", "swallow ", "swig ", "swill ", "taste ", "toast "], "A": []}

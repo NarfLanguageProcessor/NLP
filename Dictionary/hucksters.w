@@ -1,0 +1,1 @@
+{"index": 144678, "D": "a retailer of small articles, especially a peddler of fruits and vegetables; hawker.", "S": ["costermonger ", "hawker ", "salesperson ", "seller "], "A": []}

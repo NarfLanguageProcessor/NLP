@@ -1,0 +1,1 @@
+{"index": 236706, "D": "a bag or case made of cloth that is filled with feathers, down, or other soft material, and is used to cushion the head during sleep or rest.", "S": ["cushion ", "padding "], "A": []}

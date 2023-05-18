@@ -1,0 +1,1 @@
+{"index": 40881, "D": "the technique or practice of maneuvering a dangerous situation to the limits of tolerance or safety in order to secure the greatest advantage, especially by creating diplomatic crises.", "S": [], "A": []}

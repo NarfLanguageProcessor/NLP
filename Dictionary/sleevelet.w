@@ -1,0 +1,1 @@
+{"index": 293941, "D": "a fitted sleeve  or cover worn on the forearm for warmth or to protect a shirt sleeve. ", "S": [], "A": []}

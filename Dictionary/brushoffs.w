@@ -1,0 +1,1 @@
+{"index": 41828, "D": [], "S": ["boycott ", "brush aside ", "cold-shoulder ", "contradict ", "cut ", "deny ", "disclaim ", "dismiss ", "disown ", "disregard ", "ostracize ", "override ", "rebuff ", "refuse ", "reject ", "repudiate ", "scorn ", "send away ", "slight ", "snub ", "spurn ", "sweep aside "], "A": ["attend ", "pay attention "]}

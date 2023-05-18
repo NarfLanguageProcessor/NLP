@@ -1,0 +1,1 @@
+{"index": 330138, "D": "the period between Trinity Sunday  and Advent.", "S": [], "A": []}

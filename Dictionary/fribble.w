@@ -1,0 +1,1 @@
+{"index": 118892, "D": "to act in a foolish or frivolous manner; trifle.", "S": ["best-dressed ", "clotheshorse ", "dandy ", "dude ", "fop ", "sharpy ", "snappy dresser ", "swell "], "A": []}

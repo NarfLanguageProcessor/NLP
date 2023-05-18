@@ -1,0 +1,1 @@
+{"index": 20691, "D": "uttered clearly in distinct syllables.", "S": ["aloud ", "emphatically ", "noisily ", "powerfully ", "vehemently ", "vociferously "], "A": ["inaudibly ", "quietly ", "silently "]}

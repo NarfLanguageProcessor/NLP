@@ -1,0 +1,1 @@
+{"index": 20104, "D": "simple past tense of arise. ", "S": ["came "], "A": []}

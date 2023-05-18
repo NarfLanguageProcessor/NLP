@@ -1,0 +1,1 @@
+{"index": 253465, "D": "any of a class of soluble compounds derived from proteins  by the action of the gastric juices, pancreatic juices, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 167706, "D": "a thin plate, scale, or layer.", "S": [], "A": []}

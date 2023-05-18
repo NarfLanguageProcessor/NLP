@@ -1,0 +1,1 @@
+{"index": 63126, "D": "a conference at which scholars or other experts present papers on, analyze, and discuss a specific topic.", "S": ["discussion ", "meeting ", "seminar ", "symposium "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 36654, "D": "an explosion.", "S": ["eruption "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 120740, "D": "a mechanical or electronic device to detonate an explosive charge, especially as contained in an artillery shell, a missile, projectile, or the like.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 233576, "D": "to treat (persons) in a philanthropic manner.", "S": [], "A": []}

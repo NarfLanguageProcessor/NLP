@@ -1,0 +1,1 @@
+{"index": 80369, "D": "to determine or mark off the boundaries or limits of", "S": [], "A": []}

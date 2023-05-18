@@ -1,0 +1,1 @@
+{"index": 90755, "D": "of or relating to the twelve-tone system of serial music", "S": [], "A": []}

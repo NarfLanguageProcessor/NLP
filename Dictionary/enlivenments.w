@@ -1,0 +1,1 @@
+{"index": 100696, "D": "to make vigorous or active; invigorate", "S": ["elation ", "euphoria ", "high spirits ", "hilarity ", "joy "], "A": ["depression ", "sadness ", "sorrow ", "unhappiness ", "woe ", "discouragement ", "misery "]}

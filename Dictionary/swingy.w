@@ -1,0 +1,1 @@
+{"index": 314495, "D": "characterized by swing;  lively; swinging", "S": [], "A": []}

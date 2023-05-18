@@ -1,0 +1,1 @@
+{"index": 173948, "D": "(of time) whole or entire, especially when tediously long, slow in passing, etc.", "S": ["constant ", "continuing ", "deep-rooted ", "enduring ", "inveterate ", "long-lasting ", "permanent ", "persistent "], "A": ["short-lived ", "temporary "]}

@@ -1,0 +1,1 @@
+{"index": 359664, "D": "a province or main administrative division of Turkey.", "S": [], "A": []}

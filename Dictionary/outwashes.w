@@ -1,0 +1,1 @@
+{"index": 217872, "D": "the material, chiefly sand or gravel, deposited by meltwater streams in front of a glacier.", "S": [], "A": []}

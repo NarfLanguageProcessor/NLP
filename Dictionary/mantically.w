@@ -1,0 +1,1 @@
+{"index": 179562, "D": "of or relating to divination.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 64069, "D": "the act of empathizing, or expressing sympathy or sorrow for someone about something", "S": ["compassion ", "condolence ", "pity ", "sympathy "], "A": ["disdain ", "indifference ", "mercilessness "]}

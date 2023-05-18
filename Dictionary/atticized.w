@@ -1,0 +1,1 @@
+{"index": 23081, "D": "to affect Attic  style, usages, etc.; intermingle with Attic elements.", "S": [], "A": []}

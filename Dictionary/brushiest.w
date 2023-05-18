@@ -1,0 +1,1 @@
+{"index": 41814, "D": "resembling a brush,  especially in roughness or shagginess.", "S": [], "A": []}

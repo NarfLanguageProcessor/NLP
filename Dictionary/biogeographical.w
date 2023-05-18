@@ -1,0 +1,1 @@
+{"index": 34383, "D": "the study of the geographical distribution of living things.", "S": [], "A": []}

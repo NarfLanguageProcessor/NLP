@@ -1,0 +1,1 @@
+{"index": 37070, "D": "a repeated, jerky movement; bob.", "S": ["bumble ", "bungle ", "err ", "flounder "], "A": ["do well ", "succeed "]}

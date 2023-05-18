@@ -1,0 +1,1 @@
+{"index": 197309, "D": "a mineral, hydrated sodium carbonate, Na2CO3\u22c510H2O.", "S": [], "A": []}

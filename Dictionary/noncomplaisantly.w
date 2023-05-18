@@ -1,0 +1,1 @@
+{"index": 202154, "D": "inclined or disposed to please; obliging; agreeable or gracious; compliant", "S": [], "A": []}

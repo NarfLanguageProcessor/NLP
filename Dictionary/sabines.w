@@ -1,0 +1,1 @@
+{"index": 276082, "D": "of or belonging to an ancient people of central Italy who lived chiefly in the Apennines northeast of Rome and were subjugated by the Romans about 290 b.c.", "S": ["evergreen "], "A": []}

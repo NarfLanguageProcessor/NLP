@@ -1,0 +1,1 @@
+{"index": 215118, "D": "the correction of deformities; orthopedics.", "S": [], "A": []}

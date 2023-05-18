@@ -1,0 +1,1 @@
+{"index": 49009, "D": "a long, close-fitting garment worn by members of the clergy or others participating in church services.", "S": ["bishop ", "chaplain ", "cleric ", "evangelist ", "missionary ", "pastor ", "pontiff ", "preacher ", "priest ", "rabbi "], "A": ["layman ", "layperson "]}

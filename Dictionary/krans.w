@@ -1,0 +1,1 @@
+{"index": 166235, "D": "a sheer rock face; precipice", "S": [], "A": []}

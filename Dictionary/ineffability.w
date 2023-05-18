@@ -1,0 +1,1 @@
+{"index": 151469, "D": "incapable of being expressed or described in words; inexpressible", "S": [], "A": []}

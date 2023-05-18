@@ -1,0 +1,1 @@
+{"index": 361450, "D": "any of the pieces, in the shape of a truncated wedge, that form an arch or vault.", "S": [], "A": []}

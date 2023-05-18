@@ -1,0 +1,1 @@
+{"index": 98875, "D": "the giving or delegation of power or authority; authorization", "S": ["approval ", "assent ", "blessing ", "clearance ", "consent ", "go ahead ", "permission ", "seal of approval ", "thumbs-up "], "A": ["denial ", "disagreement ", "disapproval ", "opposition ", "refusal ", "rejection ", "veto "]}

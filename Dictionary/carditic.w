@@ -1,0 +1,1 @@
+{"index": 47870, "D": "inflammation of the pericardium, myocardium, or endocardium, separately or in combination.", "S": [], "A": []}

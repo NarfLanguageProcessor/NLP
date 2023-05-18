@@ -1,0 +1,1 @@
+{"index": 356664, "D": "any plant of the genus Valeriana, as the common valerian V. officinalis, having small, fragrant flowers of white, lavender, or pink and a root that is used medicinally.", "S": [], "A": []}

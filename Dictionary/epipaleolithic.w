@@ -1,0 +1,1 @@
+{"index": 102643, "D": "of, relating to, or characteristic of the human cultures existing at the end of the Paleolithic and the beginnings of the Mesolithic periods of the Stone Age.", "S": [], "A": []}

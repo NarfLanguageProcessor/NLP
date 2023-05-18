@@ -1,0 +1,1 @@
+{"index": 34736, "D": "a basin or tublike garden ornament for birds  to drink from or bathe in.", "S": [], "A": []}

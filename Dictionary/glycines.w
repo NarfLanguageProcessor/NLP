@@ -1,0 +1,1 @@
+{"index": 126232, "D": "a colorless, crystalline, sweet, water-soluble solid, H2NCH2COOH, the simplest amino acid", "S": [], "A": []}

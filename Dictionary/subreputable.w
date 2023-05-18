@@ -1,0 +1,1 @@
+{"index": 308992, "D": "held in good repute;  honorable; respectable; estimable", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 894, "D": "the code name for an FBI investigation (1978\u201380) of bribery, involving members of Congress.", "S": [], "A": []}

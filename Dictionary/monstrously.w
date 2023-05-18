@@ -1,0 +1,1 @@
+{"index": 192852, "D": "frightful or hideous, especially in appearance; extremely ugly.", "S": ["grotesquely ", "heinously ", "hideously "], "A": []}

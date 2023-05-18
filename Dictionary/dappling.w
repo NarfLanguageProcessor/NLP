@@ -1,0 +1,1 @@
+{"index": 76877, "D": "a spot or mottled marking, usually occurring in clusters.", "S": ["bespeckle ", "besprinkle ", "blotch ", "dot ", "fleck ", "mottle ", "speck ", "spot ", "sprinkle ", "stipple "], "A": []}

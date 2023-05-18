@@ -1,0 +1,1 @@
+{"index": 127978, "D": "a common merganser,Mergus merganser, of Eurasia and North America.", "S": [], "A": []}

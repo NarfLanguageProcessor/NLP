@@ -1,0 +1,1 @@
+{"index": 39244, "D": "the distance a bow  sends an arrow.", "S": [], "A": []}

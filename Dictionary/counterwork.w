@@ -1,0 +1,1 @@
+{"index": 71209, "D": "work  or action to oppose some other work  or action.", "S": ["counteract ", "foil ", "offset ", "oppose ", "resist ", "respond ", "retaliate ", "ward off "], "A": ["aid ", "assist ", "help ", "support ", "agree ", "allow ", "divide ", "encourage ", "facilitate ", "permit ", "separate "]}

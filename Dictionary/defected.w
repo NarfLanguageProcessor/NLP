@@ -1,0 +1,1 @@
+{"index": 79147, "D": "having deserted a country, cause, etc., especially in order to adopt another", "S": ["abandon ", "abscond ", "depart ", "desert ", "pull out ", "quit ", "reject ", "renounce ", "revolt ", "withdraw "], "A": ["allow ", "approve ", "come ", "continue ", "persevere ", "remain ", "stay ", "support "]}

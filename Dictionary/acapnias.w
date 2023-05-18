@@ -1,0 +1,1 @@
+{"index": 1338, "D": "a deficiency of carbon dioxide in the blood and tissues.", "S": [], "A": []}

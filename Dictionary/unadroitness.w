@@ -1,0 +1,1 @@
+{"index": 334653, "D": "dexterity, flexibility, ease, and speed in the use of the hands or body", "S": [], "A": []}

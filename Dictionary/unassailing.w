@@ -1,0 +1,1 @@
+{"index": 335303, "D": "to attack vigorously or violently; assault. ", "S": [], "A": []}

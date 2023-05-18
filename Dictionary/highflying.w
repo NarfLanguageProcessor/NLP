@@ -1,0 +1,1 @@
+{"index": 139254, "D": "moving upward to or along at a considerable height", "S": [], "A": []}

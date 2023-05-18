@@ -1,0 +1,1 @@
+{"index": 341517, "D": "to hinder or prevent by estoppel.", "S": [], "A": []}

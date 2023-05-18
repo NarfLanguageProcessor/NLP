@@ -1,0 +1,1 @@
+{"index": 254426, "D": "certain writings (other than the canonical books and the Apocrypha) professing to be Biblical in character.", "S": [], "A": []}

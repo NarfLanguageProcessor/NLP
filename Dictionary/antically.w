@@ -1,0 +1,1 @@
+{"index": 14821, "D": "a grotesque, fantastic, or ludicrous gesture, act, or posture.", "S": [], "A": []}

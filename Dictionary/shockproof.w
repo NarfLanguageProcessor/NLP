@@ -1,0 +1,1 @@
+{"index": 288656, "D": "(of timepieces, machinery, etc.) protected against damage resulting from anticipated shocks. ", "S": [], "A": []}

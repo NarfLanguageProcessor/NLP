@@ -1,0 +1,1 @@
+{"index": 348150, "D": "to consider something deeply and thoroughly; meditate (often followed by over or upon).", "S": [], "A": []}

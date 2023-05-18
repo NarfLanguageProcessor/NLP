@@ -1,0 +1,1 @@
+{"index": 369667, "D": "(in the 19th century) a union of German states for the maintenance of a uniform tariff on imports from other countries, and of free trading among themselves.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 221111, "D": "to shoot  or go over, beyond, or above; miss", "S": ["leave ", "skip "], "A": ["uphold "]}

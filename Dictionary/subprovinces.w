@@ -1,0 +1,1 @@
+{"index": 308920, "D": "an administrative division or unit of a country.", "S": [], "A": []}

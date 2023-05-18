@@ -1,0 +1,1 @@
+{"index": 324425, "D": "the withdrawing of wine from a barrel, as for testing or tasting.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 316588, "D": "a native or inhabitant of North Carolina (used as a nickname).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 36871, "D": "to obscure or sully (something) by smearing or with a smeary substance", "S": ["cloudy ", "dim ", "dull ", "fuzzy ", "indistinct ", "unclear "], "A": ["bright ", "clear ", "distinct ", "energized ", "full of life ", "illuminated ", "invigorated ", "lively "]}

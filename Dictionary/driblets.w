@@ -1,0 +1,1 @@
+{"index": 93032, "D": "a small portion or part.", "S": ["bit ", "dash ", "drip ", "drop ", "droplet ", "globule ", "hint ", "little ", "morsel ", "particle ", "pinch ", "smidgen ", "speck ", "sprinkling ", "tear "], "A": ["lot "]}

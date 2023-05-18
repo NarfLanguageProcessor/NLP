@@ -1,0 +1,1 @@
+{"index": 57574, "D": "a strong girth used on stock saddles, having a ring at each end to which a strap running from the saddle is secured.", "S": ["cakewalk ", "piece of cake "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 105847, "D": "an antiseptic solution prepared from chlorinated lime and boric acid, formerly used in treating wounds.", "S": [], "A": []}

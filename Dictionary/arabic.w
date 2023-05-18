@@ -1,0 +1,1 @@
+{"index": 18310, "D": "of, belonging to, or derived from the language or literature of the Arabs. ", "S": ["cipher ", "figure ", "integer ", "notation ", "numeral ", "symbol "], "A": ["letter "]}

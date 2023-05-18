@@ -1,0 +1,1 @@
+{"index": 143274, "D": "an organ or part having a structure similar to that of another organ or part; homologue.", "S": [], "A": []}

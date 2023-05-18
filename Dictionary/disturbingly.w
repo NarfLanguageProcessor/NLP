@@ -1,0 +1,1 @@
+{"index": 89976, "D": "upsetting or disquieting; dismaying", "S": ["horribly ", "shockingly ", "terribly "], "A": []}

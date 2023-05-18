@@ -1,0 +1,1 @@
+{"index": 310400, "D": "any compound containing an arsenide  and a sulfide.", "S": [], "A": []}

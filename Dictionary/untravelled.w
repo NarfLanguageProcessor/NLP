@@ -1,0 +1,1 @@
+{"index": 353294, "D": "(of persons) not having travelled widely; narrow or provincial", "S": [], "A": []}

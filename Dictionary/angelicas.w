@@ -1,0 +1,1 @@
+{"index": 12677, "D": "any plant belonging to the genus Angelica, of the parsley family, especially A. archangelica, cultivated in Europe for its aromatic odor and medicinal root and for its stalks, which are candied and eaten.", "S": [], "A": []}

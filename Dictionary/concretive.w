@@ -1,0 +1,1 @@
+{"index": 65459, "D": "Compare reinforced concrete. ", "S": [], "A": []}

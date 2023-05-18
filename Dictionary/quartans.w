@@ -1,0 +1,1 @@
+{"index": 258030, "D": "(of a fever, ague, etc.) characterized by paroxysms that recur every fourth day, both days of consecutive occurrence being counted.", "S": [], "A": []}

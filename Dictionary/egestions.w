@@ -1,0 +1,1 @@
+{"index": 96166, "D": "the process of egesting;  the voiding of the refuse of digestion.", "S": [], "A": []}

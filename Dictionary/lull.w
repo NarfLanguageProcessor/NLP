@@ -1,0 +1,1 @@
+{"index": 176004, "D": "to put to sleep or rest by soothing means", "S": ["breather ", "calmness ", "hiatus ", "hush ", "layoff ", "letup ", "respite ", "time-out "], "A": ["continuation ", "clamor ", "loudness ", "noise "]}

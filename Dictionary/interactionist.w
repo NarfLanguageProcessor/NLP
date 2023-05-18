@@ -1,0 +1,1 @@
+{"index": 154426, "D": "a theory that the mind and the body may each affect the other.", "S": [], "A": []}

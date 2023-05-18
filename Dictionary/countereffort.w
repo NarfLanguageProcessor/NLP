@@ -1,0 +1,1 @@
+{"index": 70771, "D": "exertion of physical or mental power", "S": [], "A": []}

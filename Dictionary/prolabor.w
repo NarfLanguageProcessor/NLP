@@ -1,0 +1,1 @@
+{"index": 252039, "D": "productive activity, especially for the sake of economic gain.", "S": [], "A": []}

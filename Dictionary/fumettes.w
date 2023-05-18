@@ -1,0 +1,1 @@
+{"index": 120065, "D": "a stock made by simmering fish, chicken, game, etc., in water, wine, or in both, often boiled down to concentrate the flavor and used as a flavoring.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 360738, "D": "victuals; foodstuffs.", "S": [], "A": []}

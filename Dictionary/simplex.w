@@ -1,0 +1,1 @@
+{"index": 291071, "D": "simple; consisting of or characterized by a single element.", "S": ["elemental ", "fundamental ", "rudimentary ", "straightforward ", "underlying "], "A": ["additional ", "advanced ", "extra ", "secondary "]}

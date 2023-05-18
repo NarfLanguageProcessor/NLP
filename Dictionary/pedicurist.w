@@ -1,0 +1,1 @@
+{"index": 228909, "D": "professional care and treatment of the feet, as removal of corns and trimming of toenails.", "S": [], "A": []}

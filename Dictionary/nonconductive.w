@@ -1,0 +1,1 @@
+{"index": 202254, "D": "having the property or capability of conducting. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 258147, "D": "consisting of four.", "S": ["quadruple ", "quadruplicate ", "tetrad "], "A": []}

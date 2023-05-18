@@ -1,0 +1,1 @@
+{"index": 4515, "D": "a person who commits adultery. ", "S": ["Casanova ", "Don Juan ", "chaser ", "cruiser ", "dallier ", "debaucher ", "flirt ", "gallant ", "lady's man ", "lover ", "man on the make ", "operator ", "skirt chaser ", "swinger ", "womanizer "], "A": []}

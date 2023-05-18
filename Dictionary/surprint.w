@@ -1,0 +1,1 @@
+{"index": 313546, "D": "to print  over with additional marks or matter; overprint.", "S": [], "A": []}

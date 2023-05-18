@@ -1,0 +1,1 @@
+{"index": 122533, "D": "the largest muscle in the calf of the leg, the action of which extends the foot, raises the heel, and assists in bending the knee.", "S": [], "A": []}

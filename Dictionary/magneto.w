@@ -1,0 +1,1 @@
+{"index": 177521, "D": "a small electric generator with an armature that rotates in a magnetic field provided by permanent magnets, as a generator supplying ignition current for certain types of internal combustion engines or a hand-operated generator for telephone signaling.", "S": [], "A": []}

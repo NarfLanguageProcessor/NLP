@@ -1,0 +1,1 @@
+{"index": 28502, "D": "having no base;  without foundation; groundless", "S": ["flimsy ", "gratuitous ", "groundless ", "unfounded ", "unjustifiable ", "unjustified ", "unsubstantiated ", "unsupported ", "untenable ", "unwarranted "], "A": ["called-for ", "justified ", "proven ", "reasonable ", "warranted "]}

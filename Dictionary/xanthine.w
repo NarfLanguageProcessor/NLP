@@ -1,0 +1,1 @@
+{"index": 368233, "D": "a crystalline, nitrogenous compound, C5H4N4O2, related to uric acid, occurring in urine, blood, and certain animal and vegetable tissues.", "S": [], "A": []}

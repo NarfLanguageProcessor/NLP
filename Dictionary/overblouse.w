@@ -1,0 +1,1 @@
+{"index": 218363, "D": "a blouse  designed to be worn outside the waistband of a skirt or a pair of slacks.", "S": [], "A": []}

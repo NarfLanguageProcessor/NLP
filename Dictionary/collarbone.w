@@ -1,0 +1,1 @@
+{"index": 62841, "D": "the clavicle.", "S": [], "A": []}

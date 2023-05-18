@@ -1,0 +1,1 @@
+{"index": 711, "D": "relating to or typical of the original or earliest known inhabitants of a region, or their descendants", "S": ["earliest ", "original "], "A": ["modern ", "new "]}

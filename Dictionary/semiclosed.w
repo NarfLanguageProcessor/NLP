@@ -1,0 +1,1 @@
+{"index": 283924, "D": "having or forming a boundary or barrier", "S": [], "A": []}

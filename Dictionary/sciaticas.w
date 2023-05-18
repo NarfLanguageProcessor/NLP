@@ -1,0 +1,1 @@
+{"index": 280621, "D": "pain and tenderness at some points of the sciatic nerve,  usually caused by a prolapsed intervertebral disk; sciatic  neuralgia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 63760, "D": "a person or thing that is progressing well or is very promising", "S": ["arriver "], "A": []}

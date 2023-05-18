@@ -1,0 +1,1 @@
+{"index": 89987, "D": "a cream-colored, water-insoluble solid, C10H20N2S4, used chiefly in the treatment of chronic alcoholism, producing highly unpleasant symptoms when alcohol is taken following its administration.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 179611, "D": "done, operated, worked, etc., by the hand or hands rather than by an electrical or electronic device", "S": ["human ", "standard "], "A": ["automated ", "automatic "]}

@@ -1,0 +1,1 @@
+{"index": 208882, "D": "a pad  of blank pages for writing notes. ", "S": ["notebook ", "paper "], "A": []}

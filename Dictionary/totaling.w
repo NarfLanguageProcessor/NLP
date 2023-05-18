@@ -1,0 +1,1 @@
+{"index": 326444, "D": "constituting or comprising the whole; entire; whole", "S": ["accretion ", "computing ", "counting ", "reckoning ", "summation "], "A": ["decrease ", "deduction ", "lessening ", "loss ", "reduction ", "shrinkage ", "subtraction ", "withdrawal "]}

@@ -1,0 +1,1 @@
+{"index": 271173, "D": "determined to have revenge;  vindictive.", "S": ["implacable ", "rancorous ", "resentful ", "spiteful ", "vindictive "], "A": []}

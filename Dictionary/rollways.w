@@ -1,0 +1,1 @@
+{"index": 273993, "D": "a place on which things are rolled or moved on rollers.", "S": [], "A": []}

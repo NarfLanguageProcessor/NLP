@@ -1,0 +1,1 @@
+{"index": 232042, "D": "to secrete a salty, watery fluid from the sweat glands of the skin, especially when very warm as a result of strenuous exertion; sweat.", "S": ["bathed ", "drenched ", "dripping ", "glowing ", "soaked ", "sweating ", "wet "], "A": []}

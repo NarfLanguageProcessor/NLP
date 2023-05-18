@@ -1,0 +1,1 @@
+{"index": 68711, "D": "a member of the Coptic Church. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 17713, "D": [], "S": ["cognitive ", "cognizable ", "cognoscible ", "comprehensible ", "corporeal ", "discernible ", "intelligible ", "knowing ", "observant ", "palpable ", "patent ", "perceptible ", "percipient ", "perspicacious ", "recognizable ", "sensible ", "sensitive ", "tangible ", "translucent ", "trenchant "], "A": ["imperceivable "]}

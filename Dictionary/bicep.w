@@ -1,0 +1,1 @@
+{"index": 33386, "D": "a biceps muscle, especially the one at the front of the upper arm.", "S": ["branch ", "rod ", "wing "], "A": ["leg "]}

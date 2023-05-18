@@ -1,0 +1,1 @@
+{"index": 72378, "D": "the fatty part of milk, which rises to the surface when the liquid is allowed to stand unless homogenized.", "S": ["fluffy ", "gooey ", "greasy ", "luscious ", "lush ", "milky ", "oily ", "rich ", "soft ", "velvety "], "A": ["dry ", "poor ", "rough "]}

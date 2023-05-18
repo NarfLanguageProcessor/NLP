@@ -1,0 +1,1 @@
+{"index": 111758, "D": "having an offensive odor; stinking.", "S": [], "A": []}

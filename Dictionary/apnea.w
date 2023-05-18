@@ -1,0 +1,1 @@
+{"index": 17076, "D": "a temporary suspension of breathing, occurring in some newborns (infant apnea ) and in some adults during sleep (sleep apnea ).", "S": ["hiatus ", "intermission ", "interval ", "layoff ", "lull ", "pause ", "recess ", "respite ", "rest ", "suspension ", "time off "], "A": ["continuation ", "persistence "]}

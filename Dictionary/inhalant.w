@@ -1,0 +1,1 @@
+{"index": 152632, "D": "a medicine, allergen, or other substance that is inhaled. ", "S": ["opiate "], "A": ["analeptic ", "stimulant "]}

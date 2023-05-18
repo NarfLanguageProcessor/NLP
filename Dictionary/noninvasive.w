@@ -1,0 +1,1 @@
+{"index": 204867, "D": "not invading adjacent healthy cells, blood vessels, or tissues; localized", "S": [], "A": []}

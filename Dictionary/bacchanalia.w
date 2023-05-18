@@ -1,0 +1,1 @@
+{"index": 25619, "D": "Compare Dionysia. ", "S": ["binge ", "rampage ", "spree "], "A": ["lack ", "moderation ", "need ", "want "]}

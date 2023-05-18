@@ -1,0 +1,1 @@
+{"index": 228132, "D": [], "S": ["collapse "], "A": ["achieve ", "succeed "]}

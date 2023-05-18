@@ -1,0 +1,1 @@
+{"index": 116291, "D": "the clothes, manners, actions, etc., of a fop. ", "S": ["amenity ", "decoration ", "doodad ", "extravagance ", "flounce ", "frippery ", "fuss ", "garbage ", "garnish ", "gathering ", "gimcrack ", "gingerbread ", "lace ", "ruffle ", "superfluity ", "tuck "], "A": ["plainness "]}

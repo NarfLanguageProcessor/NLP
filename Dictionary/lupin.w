@@ -1,0 +1,1 @@
+{"index": 176294, "D": "any leguminous plant of the genus Lupinus, of North America, Europe, and Africa, with large spikes of brightly coloured flowers and flattened pods", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 326370, "D": "the act of inflicting excruciating pain, as punishment or revenge, as a means of getting a confession or information, or for sheer cruelty.", "S": ["excruciating ", "harrowing ", "intense ", "tortuous "], "A": ["pleasant ", "pleasing "]}

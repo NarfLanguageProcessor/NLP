@@ -1,0 +1,1 @@
+{"index": 367410, "D": "a book of words, usually with definitions, explanations, etc.; a dictionary.", "S": ["dictionary ", "glossary ", "terminology ", "thesaurus ", "vocabulary "], "A": []}

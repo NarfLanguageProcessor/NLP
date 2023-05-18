@@ -1,0 +1,1 @@
+{"index": 341930, "D": "to lose brightness or vividness of color.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 305658, "D": "to make or become straight  in direction, form, position, character, conduct, condition, etc. (often followed by up or out).", "S": [], "A": []}

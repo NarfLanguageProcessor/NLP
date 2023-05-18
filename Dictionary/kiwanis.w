@@ -1,0 +1,1 @@
+{"index": 165283, "D": "an organization founded in 1915 for the promulgation of higher ideals in business, industrial, and professional life.", "S": [], "A": []}

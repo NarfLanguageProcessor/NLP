@@ -1,0 +1,1 @@
+{"index": 287200, "D": "to move or sway with short, quick, irregular vibratory movements.", "S": ["flustered ", "jolted ", "overcome ", "rattled ", "upset "], "A": []}

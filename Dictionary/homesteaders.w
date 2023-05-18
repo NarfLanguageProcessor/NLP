@@ -1,0 +1,1 @@
+{"index": 142895, "D": "the owner or holder of a homestead. ", "S": ["pilgrim "], "A": []}

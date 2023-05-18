@@ -1,0 +1,1 @@
+{"index": 100492, "D": "completely occupied or absorbed, as by something that captures the mind or attention; showing or characterized by such absorption", "S": [], "A": []}

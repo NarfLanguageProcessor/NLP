@@ -1,0 +1,1 @@
+{"index": 306341, "D": "resembling a string  or strings;  consisting of strings  or stringlike pieces", "S": ["fibrous ", "gangling ", "gristly ", "lank ", "lanky ", "muscular ", "reedy ", "ropy ", "sinewy ", "spindling ", "spindly ", "threadlike ", "tough ", "wiry "], "A": []}

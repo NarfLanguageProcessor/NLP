@@ -1,0 +1,1 @@
+{"index": 280263, "D": "belonging to the Schizophyceae, a group of unicellular bluish-green algae, occurring in both salt and fresh water and often causing pollution of drinking water.", "S": [], "A": []}

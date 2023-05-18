@@ -1,0 +1,1 @@
+{"index": 315505, "D": "a person who takes something, esp a bet, wager, or offer of purchase", "S": ["bloodsucker ", "bootlicker ", "deadbeat ", "flunky ", "freeloader ", "groupie ", "hanger-on ", "idler ", "leech ", "scrounger ", "sponge ", "stooge ", "sucker ", "sycophant "], "A": []}

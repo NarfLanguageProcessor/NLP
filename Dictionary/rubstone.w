@@ -1,0 +1,1 @@
+{"index": 275237, "D": "a stone,  especially a whetstone, used for polishing or sharpening.", "S": [], "A": []}

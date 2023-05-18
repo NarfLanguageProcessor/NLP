@@ -1,0 +1,1 @@
+{"index": 156077, "D": "the act or process of buying, selling, or exchanging commodities, at either wholesale or retail, within a country or between countries", "S": [], "A": []}

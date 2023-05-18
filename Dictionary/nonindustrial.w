@@ -1,0 +1,1 @@
+{"index": 204679, "D": "not of or relating to an industrial society, place, or age", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 257091, "D": "to utter a low, continuous, murmuring sound expressive of contentment or pleasure, as a cat does.", "S": ["hum ", "murmur ", "sing ", "sound "], "A": []}

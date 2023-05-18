@@ -1,0 +1,1 @@
+{"index": 335865, "D": "affected by or as if by witchcraft or magic; under a spell", "S": [], "A": []}

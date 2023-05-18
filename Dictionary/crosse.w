@@ -1,0 +1,1 @@
+{"index": 73802, "D": "a long-handled racket used in the game of lacrosse.", "S": [], "A": []}

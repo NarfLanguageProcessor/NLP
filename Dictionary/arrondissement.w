@@ -1,0 +1,1 @@
+{"index": 20313, "D": "the largest administrative division of a French department, comprising a number of cantons.", "S": [], "A": []}

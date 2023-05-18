@@ -1,0 +1,1 @@
+{"index": 133316, "D": "to write (something) by hand.", "S": ["endorse ", "engross ", "ink ", "inscribe ", "pen ", "sign ", "signature ", "subscribe "], "A": ["reject "]}

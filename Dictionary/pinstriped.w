@@ -1,0 +1,1 @@
+{"index": 237251, "D": "(of a fabric or garment) having a pattern of pin stripes.", "S": [], "A": []}

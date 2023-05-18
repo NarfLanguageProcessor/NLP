@@ -1,0 +1,1 @@
+{"index": 65101, "D": "an excessively favorable opinion of one's own ability, importance, wit, etc.", "S": [], "A": []}

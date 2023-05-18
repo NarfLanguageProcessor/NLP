@@ -1,0 +1,1 @@
+{"index": 196494, "D": "any congenital growth or pigmented blemish on the skin; birthmark or mole", "S": [], "A": []}

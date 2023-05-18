@@ -1,0 +1,1 @@
+{"index": 365629, "D": "a scolding or reproof.", "S": ["bawl out ", "carpet ", "criticize ", "dress down ", "jaw ", "revile ", "tell off ", "tongue-lash ", "vituperate ", "wig ", "yell at "], "A": ["compliment ", "laud ", "praise "]}

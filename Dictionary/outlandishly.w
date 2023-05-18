@@ -1,0 +1,1 @@
+{"index": 216892, "D": "freakishly or grotesquely strange or odd, as appearance, dress, objects, ideas, or practices; bizarre", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 135632, "D": "a protozoan of the order Heliozoa, having a spherical body and radiating pseudopods.", "S": [], "A": []}

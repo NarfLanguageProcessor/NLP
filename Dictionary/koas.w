@@ -1,0 +1,1 @@
+{"index": 165791, "D": "a Hawaiian acacia, Acacia koa, of the legume family, characterized by spreading branches and gray bark.", "S": [], "A": []}

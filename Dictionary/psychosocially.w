@@ -1,0 +1,1 @@
+{"index": 255489, "D": "of or relating to the interaction between social  and psychological factors.", "S": [], "A": []}

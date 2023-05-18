@@ -1,0 +1,1 @@
+{"index": 64760, "D": "a constituent part; element; ingredient. ", "S": ["belly ", "entrails ", "innards "], "A": ["border ", "cowardice ", "exterior ", "exteriority ", "fear ", "margin ", "outside ", "periphery "]}

@@ -1,0 +1,1 @@
+{"index": 339610, "D": "to praise  to a lesser degree or extent than the circumstances warrant.", "S": [], "A": []}

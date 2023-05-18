@@ -1,0 +1,1 @@
+{"index": 234976, "D": "emitting radiation having the chemical effects of light and ultraviolet rays, as on a photographic film.", "S": [], "A": []}

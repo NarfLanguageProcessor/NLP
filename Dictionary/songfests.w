@@ -1,0 +1,1 @@
+{"index": 297204, "D": "an informal, often spontaneous gathering at which people sing folk songs,  popular ballads, etc.", "S": [], "A": []}

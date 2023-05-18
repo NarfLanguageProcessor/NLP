@@ -1,0 +1,1 @@
+{"index": 364597, "D": "a face  that or a person who is pallid, as from fear.", "S": [], "A": []}

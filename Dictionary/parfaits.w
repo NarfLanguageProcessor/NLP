@@ -1,0 +1,1 @@
+{"index": 226431, "D": "a dessert of ice cream and fruit or ice cream and syrup in alternate layers, often topped with whipped cream and served in a tall, narrow, short-stemmed glass.", "S": [], "A": []}

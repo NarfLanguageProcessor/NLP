@@ -1,0 +1,1 @@
+{"index": 307179, "D": "the quality of being ancient; ancientness", "S": [], "A": []}

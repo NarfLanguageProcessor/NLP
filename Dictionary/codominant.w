@@ -1,0 +1,1 @@
+{"index": 61797, "D": "being one of two or more species that are equally dominant  in a biotic community", "S": [], "A": []}

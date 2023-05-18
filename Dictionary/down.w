@@ -1,0 +1,1 @@
+{"index": 92197, "D": "from higher to lower; in descending direction or order; toward, into, or in a lower position", "S": ["downward "], "A": ["above ", "cheerful ", "cheery ", "happy ", "heartened ", "higher "]}

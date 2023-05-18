@@ -1,0 +1,1 @@
+{"index": 319377, "D": "to bring to an end; put an end to", "S": ["concluding "], "A": []}

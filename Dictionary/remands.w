@@ -1,0 +1,1 @@
+{"index": 267119, "D": "to send back, remit, or consign again.", "S": ["captivity ", "confinement ", "custody ", "incarceration ", "isolation "], "A": ["freedom ", "liberation ", "liberty "]}

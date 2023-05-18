@@ -1,0 +1,1 @@
+{"index": 201508, "D": "capable of being assimilated. ", "S": [], "A": []}

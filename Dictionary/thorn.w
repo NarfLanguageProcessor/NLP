@@ -1,0 +1,1 @@
+{"index": 322398, "D": "a sharp excrescence on a plant, especially a sharp-pointed aborted branch; spine; prickle.", "S": ["barb ", "bramble ", "brier ", "nettle ", "point ", "spine ", "thistle "], "A": []}

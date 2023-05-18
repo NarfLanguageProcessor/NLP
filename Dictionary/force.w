@@ -1,0 +1,1 @@
+{"index": 116404, "D": "physical power or strength possessed by a living being", "S": ["effort ", "strength ", "violence "], "A": ["passivity ", "discouragement ", "ease ", "happiness ", "hindrance ", "idleness ", "lethargy ", "peace ", "powerlessness ", "relaxation ", "weakness "]}

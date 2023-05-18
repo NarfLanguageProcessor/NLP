@@ -1,0 +1,1 @@
+{"index": 356525, "D": "a fungal  infection of the vagina.", "S": [], "A": []}

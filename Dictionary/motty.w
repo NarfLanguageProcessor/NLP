@@ -1,0 +1,1 @@
+{"index": 194108, "D": "the target at which coins are aimed in pitch-and-toss", "S": [], "A": []}

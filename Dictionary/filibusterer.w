@@ -1,0 +1,1 @@
+{"index": 112617, "D": "a member of a legislature who makes such a speech.", "S": [], "A": []}

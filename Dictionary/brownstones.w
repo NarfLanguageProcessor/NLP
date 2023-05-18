@@ -1,0 +1,1 @@
+{"index": 41663, "D": "a reddish-brown sandstone, used extensively as a building material.", "S": [], "A": []}

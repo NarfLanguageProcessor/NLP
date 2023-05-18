@@ -1,0 +1,1 @@
+{"index": 321503, "D": "a vacuum bottle or similar container lined with an insulating material, such as polystyrene, to keep liquids hot or cold.", "S": ["flask ", "water bottle "], "A": []}

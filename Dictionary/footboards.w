@@ -1,0 +1,1 @@
+{"index": 116145, "D": "a board  or small platform on which to support the foot  or feet. ", "S": [], "A": []}

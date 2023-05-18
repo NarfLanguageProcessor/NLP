@@ -1,0 +1,1 @@
+{"index": 107901, "D": "a person or thing that explores. ", "S": ["adventurer ", "experimenter ", "pathfinder ", "pilgrim ", "pioneer ", "searcher ", "seeker ", "traveler "], "A": []}

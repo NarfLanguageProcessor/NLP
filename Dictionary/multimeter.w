@@ -1,0 +1,1 @@
+{"index": 195192, "D": "a device consisting of one or more meters, as an ammeter and voltmeter, used to measure two or more electrical quantities in an electric circuit, as voltage, resistance, and current.", "S": [], "A": []}

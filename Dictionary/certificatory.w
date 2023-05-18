@@ -1,0 +1,1 @@
+{"index": 51586, "D": "a document serving as evidence or as written testimony, as of status, qualifications, privileges, or the truth of something.", "S": [], "A": []}

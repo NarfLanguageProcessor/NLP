@@ -1,0 +1,1 @@
+{"index": 121826, "D": "an ancient region in what is now NW Pakistan.", "S": [], "A": []}

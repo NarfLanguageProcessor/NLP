@@ -1,0 +1,1 @@
+{"index": 359429, "D": "pertaining to the sheriff or viscount.", "S": [], "A": []}

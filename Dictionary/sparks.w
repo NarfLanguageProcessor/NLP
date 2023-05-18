@@ -1,0 +1,1 @@
+{"index": 298465, "D": "U.S. historian and editor.", "S": ["blaze ", "bonfire ", "heat ", "inferno "], "A": []}

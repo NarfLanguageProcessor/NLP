@@ -1,0 +1,1 @@
+{"index": 116602, "D": "an elongate sediment-filled sea-floor depression bordering an island arc or other orogenic belt.", "S": [], "A": []}

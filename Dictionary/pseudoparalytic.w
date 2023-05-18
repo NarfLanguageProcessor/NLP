@@ -1,0 +1,1 @@
+{"index": 254984, "D": "the inability to move a part of the body owing to factors, as pain, other than those causing actual paralysis. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 344480, "D": "of, pertaining to, of the nature of, or resulting from industry", "S": [], "A": []}

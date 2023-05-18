@@ -1,0 +1,1 @@
+{"index": 1042, "D": "the act of absorbing. ", "S": ["consumption ", "digestion ", "intake ", "penetration ", "retention ", "saturation "], "A": ["boredom ", "distraction "]}

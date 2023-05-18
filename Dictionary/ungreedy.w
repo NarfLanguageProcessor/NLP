@@ -1,0 +1,1 @@
+{"index": 343277, "D": "excessively or inordinately desirous of wealth, profit, etc.; avaricious", "S": [], "A": []}

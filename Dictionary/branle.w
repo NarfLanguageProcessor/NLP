@@ -1,0 +1,1 @@
+{"index": 39948, "D": "a lively 16th- and 17th-century round dance originating in France.", "S": [], "A": []}

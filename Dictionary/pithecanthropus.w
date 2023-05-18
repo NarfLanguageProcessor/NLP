@@ -1,0 +1,1 @@
+{"index": 238293, "D": "a former genus of extinct hominins whose members have now been assigned to the proposed species Homo erectus.", "S": [], "A": []}

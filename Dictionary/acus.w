@@ -1,0 +1,1 @@
+{"index": 3366, "D": "a needle, especially one used in a surgical operation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 361147, "D": "the simultaneous discharge of a number of missiles or firearms.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 92291, "D": "being in the designated path from a launch pad to the point on a course generally taken as the target", "S": [], "A": []}

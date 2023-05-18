@@ -1,0 +1,1 @@
+{"index": 340275, "D": "capable of being devised, invented, or contrived.", "S": [], "A": []}

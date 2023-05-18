@@ -1,0 +1,1 @@
+{"index": 312280, "D": "of, relating to, or being above or beyond what is natural; unexplainable by natural law or phenomena; abnormal.", "S": ["celestial ", "fairy ", "ghostly ", "heavenly ", "metaphysical ", "miraculous ", "mythical ", "psychic ", "superhuman ", "uncanny "], "A": ["earthly ", "hellish ", "usual ", "known "]}

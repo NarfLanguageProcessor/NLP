@@ -1,0 +1,1 @@
+{"index": 6273, "D": "absence of the tongue, especially when congenital.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 137017, "D": "a person who believes that differences between individuals or groups, including moral and intellectual attributes, are predominantly determined by genetic factors (opposed to environmentalist).", "S": [], "A": []}

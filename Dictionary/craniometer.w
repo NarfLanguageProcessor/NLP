@@ -1,0 +1,1 @@
+{"index": 72077, "D": "an instrument for measuring the external dimensions of skulls.", "S": [], "A": []}

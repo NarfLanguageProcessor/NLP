@@ -1,0 +1,1 @@
+{"index": 111677, "D": "to form pus; generate purulent matter; suppurate.", "S": ["fevered ", "infected ", "irritated ", "sore ", "swollen "], "A": []}

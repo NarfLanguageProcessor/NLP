@@ -1,0 +1,1 @@
+{"index": 217420, "D": "to surpass in shining;  shine more brightly than.", "S": ["outperform ", "outplay ", "transcend "], "A": ["aid ", "fail ", "fall behind ", "help ", "lose ", "surrender "]}

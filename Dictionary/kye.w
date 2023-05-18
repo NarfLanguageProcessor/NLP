@@ -1,0 +1,1 @@
+{"index": 164502, "D": "a private Korean-American banking club to which members pay contributions and from which they may take out loans, usually to start small businesses.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 301191, "D": "a species of herring, Clupea sprattus, of the eastern North Atlantic.", "S": [], "A": []}

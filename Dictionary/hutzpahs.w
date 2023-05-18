@@ -1,0 +1,1 @@
+{"index": 145428, "D": "unmitigated effrontery or impudence; gall", "S": ["boldness "], "A": ["humility ", "manners ", "meekness ", "modesty ", "politeness ", "respect ", "shyness ", "timidity "]}

@@ -1,0 +1,1 @@
+{"index": 181930, "D": "a caliperlike instrument for measuring the length of newborn infants.", "S": [], "A": []}

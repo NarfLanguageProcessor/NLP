@@ -1,0 +1,1 @@
+{"index": 342545, "D": "given up, especially as a penalty or as a consequence of crime or fault", "S": [], "A": []}

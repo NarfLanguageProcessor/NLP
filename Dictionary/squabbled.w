@@ -1,0 +1,1 @@
+{"index": 301592, "D": "to engage in a petty quarrel.", "S": ["bicker ", "disagree ", "fall out ", "quarrel ", "quibble ", "wrangle "], "A": ["agree ", "concur ", "make peace ", "surrender ", "yield "]}

@@ -1,0 +1,1 @@
+{"index": 259674, "D": "a photographic image produced by the action of x-rays or nuclear radiation.", "S": ["Roentgen rays ", "R\u00f6ntgen rays ", "radioactivity "], "A": []}

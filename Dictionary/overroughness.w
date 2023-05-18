@@ -1,0 +1,1 @@
+{"index": 220911, "D": "having a coarse or uneven surface, as from projections, irregularities, or breaks; not smooth", "S": [], "A": []}

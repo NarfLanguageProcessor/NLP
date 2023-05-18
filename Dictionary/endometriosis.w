@@ -1,0 +1,1 @@
+{"index": 99843, "D": "the presence of uterine lining in other pelvic organs, especially the ovaries, characterized by cyst formation, adhesions, and menstrual pains.", "S": [], "A": []}

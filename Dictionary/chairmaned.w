@@ -1,0 +1,1 @@
+{"index": 52015, "D": "the presiding officer of a meeting, committee, board, etc.", "S": [], "A": []}

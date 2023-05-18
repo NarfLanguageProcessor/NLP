@@ -1,0 +1,1 @@
+{"index": 183085, "D": "to become liquefied by warmth or heat, as ice, snow, butter, or metal.", "S": ["damp ", "melted ", "running ", "smooth ", "solvent ", "splashing ", "succulent ", "wet "], "A": ["broken ", "dry ", "intermittent "]}

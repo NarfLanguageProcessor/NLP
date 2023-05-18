@@ -1,0 +1,1 @@
+{"index": 132501, "D": "the pilgrimage to Mecca, which every adult Muslim is supposed to make at least once in their lifetime", "S": [], "A": []}

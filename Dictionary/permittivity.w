@@ -1,0 +1,1 @@
+{"index": 231626, "D": "the ratio of the flux density produced by an electric field in a given dielectric to the flux density produced by that field in a vacuum.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158935, "D": "noting or pertaining to atoms and ions having an equal number of electrons.", "S": [], "A": []}

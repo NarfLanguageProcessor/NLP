@@ -1,0 +1,1 @@
+{"index": 94505, "D": "the state or period of partial darkness between day and night; the dark part of twilight.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 348200, "D": "to have as belonging to one; have as property; own", "S": [], "A": []}

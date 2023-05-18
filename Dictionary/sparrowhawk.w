@@ -1,0 +1,1 @@
+{"index": 298491, "D": "a small, short-winged European hawk, Accipiter nisus, that preys on smaller birds.", "S": [], "A": []}

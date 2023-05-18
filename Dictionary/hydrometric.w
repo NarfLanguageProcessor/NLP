@@ -1,0 +1,1 @@
+{"index": 138784, "D": "an instrument for determining the specific gravity of a liquid, commonly consisting of a graduated tube weighted to float upright in the liquid whose specific gravity is being measured.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 263767, "D": "lying down; reclining; leaning.", "S": [], "A": []}

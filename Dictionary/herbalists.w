@@ -1,0 +1,1 @@
+{"index": 136895, "D": "a person who collects or deals in herbs, especially medicinal herbs.", "S": [], "A": []}

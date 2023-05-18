@@ -1,0 +1,1 @@
+{"index": 66980, "D": "relating to or being a conspiracy,  a secretive plan that is unlawful, harmful, or evil", "S": [], "A": []}

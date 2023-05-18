@@ -1,0 +1,1 @@
+{"index": 259382, "D": "a small or secondary rachis, as the axis of a spikelet in a grass inflorescence.", "S": [], "A": []}

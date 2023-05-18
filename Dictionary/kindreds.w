@@ -1,0 +1,1 @@
+{"index": 164789, "D": "a person's relatives collectively; kinfolk; kin. ", "S": ["agnate ", "cognate ", "congeneric ", "incident ", "kin ", "parallel "], "A": ["dissimilar "]}

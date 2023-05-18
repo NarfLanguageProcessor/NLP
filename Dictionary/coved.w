@@ -1,0 +1,1 @@
+{"index": 71453, "D": "a small indentation or recess in the shoreline of a sea, lake, or river.", "S": [], "A": []}

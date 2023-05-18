@@ -1,0 +1,1 @@
+{"index": 219757, "D": "to chase or search for (game or other wild animals) for the purpose of catching or killing.", "S": [], "A": []}

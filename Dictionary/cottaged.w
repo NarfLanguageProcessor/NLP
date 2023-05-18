@@ -1,0 +1,1 @@
+{"index": 70407, "D": "a small house, usually of only one story.", "S": [], "A": []}

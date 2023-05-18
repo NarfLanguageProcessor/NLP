@@ -1,0 +1,1 @@
+{"index": 18576, "D": "a specialist in the cultivation and care of trees and shrubs, including tree surgery, the diagnosis, treatment, and prevention of tree diseases, and the control of pests.", "S": [], "A": []}

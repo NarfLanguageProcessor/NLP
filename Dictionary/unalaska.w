@@ -1,0 +1,1 @@
+{"index": 334790, "D": "an island off the coast of SW Alaska, one of the Aleutian Islands. About 75 miles (120 km) long.", "S": [], "A": []}

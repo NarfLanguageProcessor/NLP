@@ -1,0 +1,1 @@
+{"index": 202865, "D": "government by the people; a form of government in which the supreme power is vested in the people and exercised directly by them or by their elected agents under a free electoral system.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 194337, "D": "the structures enclosing or being within this cavity, considered as a whole.", "S": ["box ", "cavity ", "door ", "entrance ", "gate ", "rim "], "A": []}

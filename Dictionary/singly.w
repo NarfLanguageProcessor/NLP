@@ -1,0 +1,1 @@
+{"index": 291726, "D": "apart from others; separately.", "S": ["separately ", "severally "], "A": ["together "]}

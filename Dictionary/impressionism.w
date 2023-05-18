@@ -1,0 +1,1 @@
+{"index": 149079, "D": "a manner of sculpture in which volumes are partially modeled and surfaces roughened to reflect light unevenly.", "S": [], "A": []}

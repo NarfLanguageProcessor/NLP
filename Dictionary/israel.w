@@ -1,0 +1,1 @@
+{"index": 159357, "D": "a republic in southwest Asia, on the Mediterranean", "S": [], "A": []}

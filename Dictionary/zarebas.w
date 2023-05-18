@@ -1,0 +1,1 @@
+{"index": 368908, "D": "(in the Sudan and adjoining regions) a protective enclosure, as of thorn bushes.", "S": [], "A": []}

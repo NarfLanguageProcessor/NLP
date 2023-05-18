@@ -1,0 +1,1 @@
+{"index": 7474, "D": "the sodium end member of the plagioclase feldspar group, light-colored and found in alkalic igneous rocks.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 316237, "D": "containing trivalent tantalum. ", "S": [], "A": []}

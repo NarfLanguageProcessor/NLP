@@ -1,0 +1,1 @@
+{"index": 228048, "D": "open; gaping; expanded.", "S": ["accessible ", "clear ", "free ", "susceptible ", "wide "], "A": ["hindered ", "limited ", "restricted ", "concealed "]}

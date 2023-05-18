@@ -1,0 +1,1 @@
+{"index": 88672, "D": "to deprive (a ship) of masts;  break off the masts  of.", "S": [], "A": []}

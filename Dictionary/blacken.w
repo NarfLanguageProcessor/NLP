@@ -1,0 +1,1 @@
+{"index": 35477, "D": "to make black;  darken.", "S": ["blot ", "smudge "], "A": ["bleach ", "compliment ", "enhance ", "lighten ", "praise ", "whiten "]}

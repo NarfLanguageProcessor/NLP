@@ -1,0 +1,1 @@
+{"index": 268574, "D": "an annual deduction, duty, or payment out of a manor or estate, as an annuity or the like.", "S": ["peroration ", "summary "], "A": []}

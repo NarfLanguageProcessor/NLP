@@ -1,0 +1,1 @@
+{"index": 276342, "D": "a person who maintains that the Eucharistic elements have only symbolic significance and are not corporeal manifestations of Christ.", "S": [], "A": []}

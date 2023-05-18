@@ -1,0 +1,1 @@
+{"index": 76466, "D": "(in Persian and Indian architecture) a veranda or open hall for reception of visitors.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 264288, "D": "to subject to a process of vaporization and subsequent condensation, as for purification or concentration.", "S": [], "A": []}

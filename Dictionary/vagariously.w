@@ -1,0 +1,1 @@
+{"index": 356481, "D": "characterized by vagaries;  erratic; capricious", "S": [], "A": []}

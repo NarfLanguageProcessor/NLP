@@ -1,0 +1,1 @@
+{"index": 153267, "D": "a patient  who stays in a hospital while receiving medical care or treatment.", "S": [], "A": []}

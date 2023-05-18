@@ -1,0 +1,1 @@
+{"index": 205404, "D": "an individual, species, or the like, resulting from such a departure.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 94233, "D": "a hard blow or hit, especially one that makes a dull sound; thump.", "S": [], "A": []}

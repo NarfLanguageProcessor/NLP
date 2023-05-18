@@ -1,0 +1,1 @@
+{"index": 326046, "D": "another spelling of torque (def. 1)", "S": [], "A": []}

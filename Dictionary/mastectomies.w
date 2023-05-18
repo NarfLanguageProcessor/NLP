@@ -1,0 +1,1 @@
+{"index": 180838, "D": "the operation of removing all or part of the breast or mamma.", "S": [], "A": []}

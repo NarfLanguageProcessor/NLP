@@ -1,0 +1,1 @@
+{"index": 175259, "D": "a minor, unimportant, or petty lord. ", "S": [], "A": []}

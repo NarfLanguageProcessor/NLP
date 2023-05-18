@@ -1,0 +1,1 @@
+{"index": 250880, "D": "a reward for victory or superiority, as in a contest or competition.", "S": ["admired ", "cherished ", "dear ", "esteemed ", "favorite ", "hallowed ", "loved ", "popular ", "respected ", "revered ", "treasured ", "venerated ", "well-liked "], "A": ["disliked "]}

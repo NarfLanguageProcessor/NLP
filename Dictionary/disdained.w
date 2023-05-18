@@ -1,0 +1,1 @@
+{"index": 87811, "D": "to look upon or treat with contempt; despise; scorn.", "S": ["decayed ", "deserted ", "ignored ", "overlooked ", "spurned ", "undervalued ", "unused ", "unwanted "], "A": ["cared for ", "considered ", "heeded ", "used "]}

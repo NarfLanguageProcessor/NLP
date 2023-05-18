@@ -1,0 +1,1 @@
+{"index": 322960, "D": "thumbscrew (def. 2). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 65347, "D": "fully, but in few words; succinctly", "S": ["briefly ", "in a few words ", "in a word ", "in short ", "shortly "], "A": []}

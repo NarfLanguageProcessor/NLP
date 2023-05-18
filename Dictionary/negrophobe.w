@@ -1,0 +1,1 @@
+{"index": 198119, "D": "a person who strongly fears or dislikes Black people.", "S": [], "A": []}

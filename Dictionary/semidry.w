@@ -1,0 +1,1 @@
+{"index": 284130, "D": "partially or nearly dry. ", "S": [], "A": []}

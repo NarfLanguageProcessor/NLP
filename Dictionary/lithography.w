@@ -1,0 +1,1 @@
+{"index": 173701, "D": "the art or process of producing a picture, writing, or the like, on a flat, specially prepared stone, with some greasy or oily substance, and of taking ink impressions from this as in ordinary printing.", "S": [], "A": []}

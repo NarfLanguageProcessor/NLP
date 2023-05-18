@@ -1,0 +1,1 @@
+{"index": 111622, "D": "any of various plants belonging to the genus Ferula, of the parsley family, chiefly of the Mediterranean region and central Asia, generally tall and coarse with dissected leaves, many of the Asian species yielding strongly scented, medicinal gum resins.", "S": [], "A": []}

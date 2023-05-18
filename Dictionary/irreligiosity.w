@@ -1,0 +1,1 @@
+{"index": 158285, "D": "not religious; not practicing a religion and feeling no religious impulses or emotions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 24402, "D": "a nonmotile algal spore that develops adult characteristics before being released", "S": [], "A": []}

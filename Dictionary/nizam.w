@@ -1,0 +1,1 @@
+{"index": 200516, "D": "the title of the ruler of Hyderabad from the beginning of the 18th century to 1950.", "S": [], "A": []}

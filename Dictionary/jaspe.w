@@ -1,0 +1,1 @@
+{"index": 160538, "D": "given a veined and spotted appearance imitating jasper.", "S": [], "A": []}

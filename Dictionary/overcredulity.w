@@ -1,0 +1,1 @@
+{"index": 218781, "D": "willingness to believe or trust too readily, especially without proper or adequate evidence; gullibility.", "S": [], "A": []}

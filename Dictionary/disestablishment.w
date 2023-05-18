@@ -1,0 +1,1 @@
+{"index": 88038, "D": "to deprive of the character of being established;  cancel; abolish.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 348353, "D": "not prejudiced; without preconception; unbiased; impartial", "S": ["impartial "], "A": ["biased ", "prejudiced ", "unfair ", "unjust "]}

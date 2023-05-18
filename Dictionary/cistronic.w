@@ -1,0 +1,1 @@
+{"index": 58582, "D": "a segment of DNA that encodes for the formation of a specific polypeptide chain; a structural gene.", "S": [], "A": []}

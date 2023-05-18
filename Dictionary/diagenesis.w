@@ -1,0 +1,1 @@
+{"index": 84118, "D": "the physical and chemical changes occurring in sediments between the times of deposition and solidification.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311217, "D": "a reddish variety of oligoclase feldspar, used as a gem, having a red and bright-yellow play of color.", "S": [], "A": []}

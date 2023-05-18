@@ -1,0 +1,1 @@
+{"index": 21941, "D": "taking too much for granted; presumptuous.", "S": ["domineering ", "forward ", "overbearing "], "A": ["doubting ", "unassuming "]}

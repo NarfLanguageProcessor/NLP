@@ -1,0 +1,1 @@
+{"index": 41104, "D": "of huge size; gigantic; tremendous. ", "S": ["big ", "colossal ", "giant ", "huge ", "immense ", "mammoth ", "tremendous "], "A": []}

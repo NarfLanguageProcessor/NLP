@@ -1,0 +1,1 @@
+{"index": 233180, "D": "a district in ancient Greece whose chief city was Pharsalus.", "S": [], "A": []}

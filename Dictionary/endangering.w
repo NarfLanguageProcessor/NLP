@@ -1,0 +1,1 @@
+{"index": 99584, "D": "to expose to danger;  imperil", "S": ["expose ", "imperil ", "menace ", "threaten "], "A": ["guard ", "help ", "protect ", "save "]}

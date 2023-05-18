@@ -1,0 +1,1 @@
+{"index": 97308, "D": "pertaining to both electricity and heat, especially to the production of heat by electric current.", "S": [], "A": []}

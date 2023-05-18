@@ -1,0 +1,1 @@
+{"index": 250502, "D": "of the first importance; demanding the fullest consideration", "S": ["fit ", "informed ", "prepared ", "ready "], "A": ["ignorant ", "unprepared ", "unready ", "unsuitable "]}

@@ -1,0 +1,1 @@
+{"index": 330784, "D": "of, pertaining to, celebrating, or commemorating a triumph  or victory", "S": ["triumphant "], "A": []}

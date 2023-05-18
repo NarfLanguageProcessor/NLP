@@ -1,0 +1,1 @@
+{"index": 210971, "D": "the eighth part of a circle.", "S": [], "A": []}

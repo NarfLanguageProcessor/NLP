@@ -1,0 +1,1 @@
+{"index": 24236, "D": "idiomorphic (def. 1). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 156819, "D": "to practice introspection;  consider one's own internal state or feelings.", "S": [], "A": []}

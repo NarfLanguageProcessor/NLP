@@ -1,0 +1,1 @@
+{"index": 178092, "D": "a person who causes contention or discord.", "S": [], "A": []}

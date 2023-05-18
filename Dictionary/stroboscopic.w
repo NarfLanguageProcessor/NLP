@@ -1,0 +1,1 @@
+{"index": 306439, "D": "a device for studying the motion of a body, especially a body in rapid revolution or vibration, by making the motion appear to slow down or stop, as by periodically illuminating the body or viewing it through widely spaced openings in a revolving disk.", "S": [], "A": []}

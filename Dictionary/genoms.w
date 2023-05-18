@@ -1,0 +1,1 @@
+{"index": 123649, "D": "a full set of chromosomes; all the inheritable traits of an organism.", "S": [], "A": []}

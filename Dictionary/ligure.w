@@ -1,0 +1,1 @@
+{"index": 172152, "D": "a precious stone, probably the jacinth. Exodus 28", "S": [], "A": []}

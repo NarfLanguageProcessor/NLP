@@ -1,0 +1,1 @@
+{"index": 207429, "D": "the quality or state of being specific. ", "S": [], "A": []}

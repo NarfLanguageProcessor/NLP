@@ -1,0 +1,1 @@
+{"index": 162059, "D": "involving the use or exercise of judgment. ", "S": ["subjective "], "A": []}

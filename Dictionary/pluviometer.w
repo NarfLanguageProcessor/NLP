@@ -1,0 +1,1 @@
+{"index": 240694, "D": "rain gauge. ", "S": ["Nilometer ", "hygrometry ", "udometer "], "A": []}

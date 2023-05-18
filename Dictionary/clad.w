@@ -1,0 +1,1 @@
+{"index": 58994, "D": "a simple past tense and past participle of clothe. ", "S": ["arrayed ", "attired ", "clothed ", "covered ", "dressed ", "face ", "garbed ", "robed ", "sheathed "], "A": ["exposed "]}

@@ -1,0 +1,1 @@
+{"index": 306984, "D": "any of various large fishes of the family Acipenseridae, inhabiting fresh and salt waters in the North Temperate Zone,  valued for their flesh and as a source of caviar and isinglass", "S": [], "A": []}

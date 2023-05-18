@@ -1,0 +1,1 @@
+{"index": 334149, "D": "bearing an umbel or umbels.", "S": [], "A": []}

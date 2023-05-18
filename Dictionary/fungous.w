@@ -1,0 +1,1 @@
+{"index": 120262, "D": "of the nature of or resembling a fungus;  funguslike", "S": [], "A": []}

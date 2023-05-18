@@ -1,0 +1,1 @@
+{"index": 218263, "D": "guaranteed; sure; certain; secure", "S": [], "A": []}

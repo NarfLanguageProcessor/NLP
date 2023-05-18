@@ -1,0 +1,1 @@
+{"index": 331371, "D": "Compare Bermuda shorts, breeches, knickers (def. 1), short (def. 29a), slacks. ", "S": [], "A": []}

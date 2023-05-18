@@ -1,0 +1,1 @@
+{"index": 47422, "D": "an organic ion containing a negatively charged carbon atom (opposed to carbonium ion).", "S": [], "A": []}

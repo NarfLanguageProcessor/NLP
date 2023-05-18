@@ -1,0 +1,1 @@
+{"index": 97823, "D": "to produce (especially literary work) by long and intensive effort.", "S": ["bear down ", "cram ", "do double duty ", "grind ", "lucubrate ", "overwork ", "study ", "sweat and slave ", "toil away ", "work day and night ", "work late ", "work like a dog ", "work overtime "], "A": []}

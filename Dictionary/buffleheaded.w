@@ -1,0 +1,1 @@
+{"index": 42254, "D": "a small North American duck, Bucephala albeola, the male of which has bushy head plumage.", "S": [], "A": []}

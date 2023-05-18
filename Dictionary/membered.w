@@ -1,0 +1,1 @@
+{"index": 183110, "D": "having members, especially of a specified number or kind (often used in combination)", "S": [], "A": []}

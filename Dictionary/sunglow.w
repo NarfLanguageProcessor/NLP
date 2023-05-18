@@ -1,0 +1,1 @@
+{"index": 311130, "D": "a diffused, hazy light seen around the sun,  caused by atmospheric dust.", "S": ["croon ", "moan ", "mumble ", "murmur ", "purr ", "sing ", "strum ", "throb ", "trill ", "warble ", "whisper "], "A": []}

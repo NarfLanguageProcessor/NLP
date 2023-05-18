@@ -1,0 +1,1 @@
+{"index": 286043, "D": "twelve-tone technique. ", "S": ["writer "], "A": []}

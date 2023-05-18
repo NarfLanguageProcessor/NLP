@@ -1,0 +1,1 @@
+{"index": 62386, "D": "the quality of sticking together, or of causing things to stick together", "S": [], "A": []}

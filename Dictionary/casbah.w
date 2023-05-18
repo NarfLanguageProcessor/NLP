@@ -1,0 +1,1 @@
+{"index": 48755, "D": "(sometimes capital) a variant spelling of kasbah", "S": [], "A": []}

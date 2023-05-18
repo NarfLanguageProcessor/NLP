@@ -1,0 +1,1 @@
+{"index": 287544, "D": "Israeli military and political leader; prime minister 2001\u201306.", "S": [], "A": []}

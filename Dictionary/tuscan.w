@@ -1,0 +1,1 @@
+{"index": 332981, "D": "of, relating to, or characteristic of Tuscany,  its people, or their dialect.", "S": [], "A": []}

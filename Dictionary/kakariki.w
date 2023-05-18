@@ -1,0 +1,1 @@
+{"index": 162828, "D": "any of various green-feathered New Zealand parrots of the genus Cyanoramphus", "S": [], "A": []}

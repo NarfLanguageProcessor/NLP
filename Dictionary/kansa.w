@@ -1,0 +1,1 @@
+{"index": 163081, "D": "a member of a North American Indian people formerly of eastern Kansas, now living mostly in northern Oklahoma.", "S": [], "A": []}

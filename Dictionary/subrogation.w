@@ -1,0 +1,1 @@
+{"index": 309017, "D": "the substitution of one person or thing for another, esp the placing of a surety who has paid the debt in the place of the creditor, entitling him to payment from the original debtor", "S": [], "A": []}

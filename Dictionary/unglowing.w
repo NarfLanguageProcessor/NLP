@@ -1,0 +1,1 @@
+{"index": 343131, "D": "incandescent. ", "S": [], "A": []}

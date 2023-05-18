@@ -1,0 +1,1 @@
+{"index": 240228, "D": "characterized by the intricacies or complications of a plot  or intrigue", "S": [], "A": []}

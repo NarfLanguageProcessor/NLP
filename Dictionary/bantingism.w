@@ -1,0 +1,1 @@
+{"index": 27609, "D": "a weight-reduction method based on a diet high in proteins and low in fats and carbohydrates.", "S": [], "A": []}

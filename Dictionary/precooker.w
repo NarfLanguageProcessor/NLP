@@ -1,0 +1,1 @@
+{"index": 246539, "D": "to cook  (food) partly or completely beforehand, so that it may be cooked  or warmed and served quickly at a later time.", "S": [], "A": []}

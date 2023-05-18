@@ -1,0 +1,1 @@
+{"index": 220621, "D": "to absorb or engross to the exclusion of other things.", "S": [], "A": []}

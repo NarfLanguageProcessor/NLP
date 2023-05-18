@@ -1,0 +1,1 @@
+{"index": 284977, "D": "having a somewhat firm consistency; more or less solid. ", "S": ["muddy ", "spongy ", "squishy "], "A": ["hard ", "stiff ", "unfeeling ", "unromantic "]}

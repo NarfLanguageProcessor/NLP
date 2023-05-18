@@ -1,0 +1,1 @@
+{"index": 154111, "D": "capable of being or proper to be insured,  as against loss or harm.", "S": [], "A": []}

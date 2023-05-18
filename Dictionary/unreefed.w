@@ -1,0 +1,1 @@
+{"index": 349276, "D": "a ridge of rocks or sand, often of coral debris, at or near the surface of the water.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 340450, "D": "showing good or outstanding judgment and understanding", "S": [], "A": []}

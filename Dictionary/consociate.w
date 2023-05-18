@@ -1,0 +1,1 @@
+{"index": 66869, "D": "associate. ", "S": ["companion ", "comrade ", "disciple ", "follower "], "A": ["enemy ", "foe ", "opponent ", "adversary ", "antagonist "]}

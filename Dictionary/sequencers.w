@@ -1,0 +1,1 @@
+{"index": 285835, "D": "a device for the automatic determination or regulation of a sequence. ", "S": [], "A": []}

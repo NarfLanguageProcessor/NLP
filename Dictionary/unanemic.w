@@ -1,0 +1,1 @@
+{"index": 334981, "D": "affected with anemia;  having a deficiency of the hemoglobin, often accompanied by a reduced number of red blood cells.", "S": [], "A": []}

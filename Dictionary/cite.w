@@ -1,0 +1,1 @@
+{"index": 58606, "D": "to quote (a passage, book, author, etc.), especially as an authority", "S": ["allege ", "allude to ", "indicate ", "mention ", "name ", "offer ", "point out ", "present ", "recount ", "refer to ", "repeat ", "specify ", "spell out ", "tell "], "A": ["conceal ", "deny ", "take ", "withhold ", "forget ", "insert "]}

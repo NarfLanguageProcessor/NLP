@@ -1,0 +1,1 @@
+{"index": 339707, "D": "a portion of space within a building or other structure, separated by walls or partitions from other parts", "S": [], "A": []}

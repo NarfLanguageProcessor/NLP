@@ -1,0 +1,1 @@
+{"index": 142926, "D": "a sermon, usually on a Biblical topic and usually of a nondoctrinal nature.", "S": ["lecture "], "A": []}

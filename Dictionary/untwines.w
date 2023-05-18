@@ -1,0 +1,1 @@
+{"index": 353501, "D": "to bring or come out of a twined condition.", "S": ["detach ", "disengage ", "emancipate ", "extricate ", "unravel ", "unscramble ", "untangle ", "untie "], "A": ["attach ", "connect ", "tangle ", "tie ", "unite ", "block ", "close ", "combine ", "hide ", "join "]}

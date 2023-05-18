@@ -1,0 +1,1 @@
+{"index": 99246, "D": "a series of steps constituting a phrase.", "S": [], "A": []}

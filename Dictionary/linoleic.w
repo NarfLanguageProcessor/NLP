@@ -1,0 +1,1 @@
+{"index": 172981, "D": "of or derived from linoleic acid.", "S": [], "A": []}

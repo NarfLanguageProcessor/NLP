@@ -1,0 +1,1 @@
+{"index": 351587, "D": "bringing or boding ill luck.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158370, "D": "not resistible; incapable of being resisted or withstood", "S": ["alluring ", "charming ", "fascinating ", "inevitable ", "inexorable ", "invincible ", "overpowering ", "overwhelming ", "potent ", "powerful ", "seductive ", "tempting ", "unavoidable "], "A": ["avoidable ", "escapable ", "impotent ", "incapable ", "ineffective ", "repulsive ", "weak "]}

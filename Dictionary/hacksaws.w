@@ -1,0 +1,1 @@
+{"index": 131906, "D": "a saw  for cutting metal, consisting typically of a narrow, fine-toothed blade fixed in a frame.", "S": [], "A": []}

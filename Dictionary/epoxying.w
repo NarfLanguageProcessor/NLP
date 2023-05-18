@@ -1,0 +1,1 @@
+{"index": 103119, "D": "having the structure of an epoxide.", "S": [], "A": []}

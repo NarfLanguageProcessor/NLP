@@ -1,0 +1,1 @@
+{"index": 200852, "D": "a gangrenous ulceration of the mouth or genitalia, occurring mainly in debilitated children.", "S": [], "A": []}

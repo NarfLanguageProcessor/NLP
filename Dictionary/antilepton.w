@@ -1,0 +1,1 @@
+{"index": 15427, "D": "the antiparticle of a lepton. ", "S": [], "A": []}

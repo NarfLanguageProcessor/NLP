@@ -1,0 +1,1 @@
+{"index": 247448, "D": "an act or instance of exploding;  a violent expansion or bursting with noise, as of gunpowder or a boiler (opposed to implosion).", "S": [], "A": []}

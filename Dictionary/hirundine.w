@@ -1,0 +1,1 @@
+{"index": 141664, "D": "of, relating to, or resembling the swallow.", "S": [], "A": []}

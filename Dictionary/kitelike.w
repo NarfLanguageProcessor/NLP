@@ -1,0 +1,1 @@
+{"index": 165192, "D": "a light frame covered with some thin material, to be flown in the wind at the end of a long string.", "S": [], "A": []}

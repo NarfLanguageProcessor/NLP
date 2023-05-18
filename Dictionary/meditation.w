@@ -1,0 +1,1 @@
+{"index": 182200, "D": "the act of meditating. ", "S": ["introspection ", "reflection ", "rumination ", "self-examination "], "A": []}

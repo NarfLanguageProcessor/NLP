@@ -1,0 +1,1 @@
+{"index": 23648, "D": [], "S": ["aureate ", "auric ", "auriferous ", "aurous ", "blond ", "blonde ", "caramel ", "dusty ", "flaxen ", "honeyed ", "mellow yellow ", "ochroid ", "straw ", "tan ", "tawny ", "wheat "], "A": []}

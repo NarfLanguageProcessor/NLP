@@ -1,0 +1,1 @@
+{"index": 28629, "D": "of or relating to Saint Basil  or to his monastic rule.", "S": [], "A": []}

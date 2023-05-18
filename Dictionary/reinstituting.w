@@ -1,0 +1,1 @@
+{"index": 266405, "D": "to set up; establish; organize", "S": ["proceed ", "renew ", "restore ", "return to "], "A": ["halt ", "stop "]}

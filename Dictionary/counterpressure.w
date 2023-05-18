@@ -1,0 +1,1 @@
+{"index": 70999, "D": "pressure  in the opposite direction or with opposing effect.", "S": [], "A": []}

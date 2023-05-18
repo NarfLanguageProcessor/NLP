@@ -1,0 +1,1 @@
+{"index": 79114, "D": "a person who defaults  or fails to fulfill an obligation, especially a legal or financial one.", "S": ["borrower "], "A": ["creditor ", "lender ", "mortgagee "]}

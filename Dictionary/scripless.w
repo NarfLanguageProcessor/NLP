@@ -1,0 +1,1 @@
+{"index": 281863, "D": "a receipt, certificate, list, or similar brief piece of writing.", "S": [], "A": []}

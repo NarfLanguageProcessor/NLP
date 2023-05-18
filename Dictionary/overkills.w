@@ -1,0 +1,1 @@
+{"index": 219964, "D": "the capacity of a nation to destroy, by nuclear weapons, more of an enemy than would be necessary for a military victory.", "S": ["plethora "], "A": ["lack ", "necessity ", "need ", "want "]}

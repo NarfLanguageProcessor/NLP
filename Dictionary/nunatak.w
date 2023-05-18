@@ -1,0 +1,1 @@
+{"index": 209631, "D": "a hill or mountain that has been completely encircled by a glacier.", "S": [], "A": []}

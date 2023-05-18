@@ -1,0 +1,1 @@
+{"index": 46226, "D": "a slender stand  or table, often with a tripod base, for holding a candlestick or candelabrum.", "S": [], "A": []}

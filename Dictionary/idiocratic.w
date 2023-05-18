@@ -1,0 +1,1 @@
+{"index": 146473, "D": "idiosyncrasy. ", "S": [], "A": []}

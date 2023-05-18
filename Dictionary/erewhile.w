@@ -1,0 +1,1 @@
+{"index": 103576, "D": "a while  before; formerly.", "S": ["already ", "earlier ", "heretofore ", "once "], "A": ["currently ", "future ", "presently ", "subsequently "]}

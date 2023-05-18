@@ -1,0 +1,1 @@
+{"index": 246730, "D": "to state or set forth the meaning of (a word, phrase, etc.)", "S": [], "A": []}

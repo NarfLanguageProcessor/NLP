@@ -1,0 +1,1 @@
+{"index": 226107, "D": "the feeding by certain insect larvae on host tissues such that the host remains alive until larval development is complete and then usually dies.", "S": [], "A": []}

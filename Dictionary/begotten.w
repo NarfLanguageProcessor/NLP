@@ -1,0 +1,1 @@
+{"index": 30697, "D": "a past participle ofbeget. ", "S": ["heir "], "A": ["parent "]}

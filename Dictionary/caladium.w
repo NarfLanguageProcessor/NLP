@@ -1,0 +1,1 @@
+{"index": 44711, "D": "any of several tropical American plants of the genus Caladium, of the arum family, cultivated for their variegated, colorful leaves.", "S": [], "A": []}

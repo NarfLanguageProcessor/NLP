@@ -1,0 +1,1 @@
+{"index": 103159, "D": "to make equal", "S": [], "A": []}

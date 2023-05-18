@@ -1,0 +1,1 @@
+{"index": 308811, "D": "having a petiole  or peduncle.", "S": [], "A": []}

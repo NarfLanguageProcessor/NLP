@@ -1,0 +1,1 @@
+{"index": 170924, "D": "a written or printed communication addressed to a person or organization and usually transmitted by mail.", "S": [], "A": []}

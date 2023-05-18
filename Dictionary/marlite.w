@@ -1,0 +1,1 @@
+{"index": 180233, "D": "a type of marl that contains clay and calcium carbonate and is resistant to the decomposing action of air", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 177020, "D": "extremely close-up photography in which the image on the film is as large as, or larger than, the object", "S": [], "A": []}

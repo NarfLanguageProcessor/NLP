@@ -1,0 +1,1 @@
+{"index": 289184, "D": "the office, term, or jurisdiction of a sheriff.", "S": [], "A": []}

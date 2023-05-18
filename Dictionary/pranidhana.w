@@ -1,0 +1,1 @@
+{"index": 245306, "D": "(in Mahayana Buddhism) the resolution not to enter nirvana until all beings are ready to enter.", "S": [], "A": []}

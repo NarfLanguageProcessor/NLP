@@ -1,0 +1,1 @@
+{"index": 305800, "D": "a passenger who stands in a crowded bus or subway train and holds onto a strap  or other support suspended from above.", "S": ["driver ", "traveler "], "A": []}

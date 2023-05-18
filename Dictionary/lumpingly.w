@@ -1,0 +1,1 @@
+{"index": 176143, "D": "a piece or mass of solid matter without regular shape or of no particular shape", "S": [], "A": []}

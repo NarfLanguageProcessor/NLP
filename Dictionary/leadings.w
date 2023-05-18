@@ -1,0 +1,1 @@
+{"index": 169536, "D": "chief; principal; most important; foremost", "S": ["front ", "lead ", "leaders ", "leading "], "A": ["followers ", "rear "]}

@@ -1,0 +1,1 @@
+{"index": 258262, "D": "a female sovereign or monarch.", "S": [], "A": []}

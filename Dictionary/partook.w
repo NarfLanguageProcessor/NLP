@@ -1,0 +1,1 @@
+{"index": 227122, "D": "the simple past tense of partake. ", "S": ["consume ", "devour ", "divide ", "engage ", "feed ", "ingest ", "participate ", "receive ", "sample ", "savor ", "sip ", "take "], "A": ["abstain ", "collect ", "gather ", "give ", "hold ", "keep ", "maintain ", "offer ", "refuse ", "reject ", "shun ", "starve "]}

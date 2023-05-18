@@ -1,0 +1,1 @@
+{"index": 24154, "D": "to undergo or cause to undergo autolysis", "S": [], "A": []}

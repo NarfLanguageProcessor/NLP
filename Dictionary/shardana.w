@@ -1,0 +1,1 @@
+{"index": 287476, "D": "a member of an ancient people of the eastern Mediterranean who served as mercenaries in the Egyptian army and may have settled in Sardinia and Sicily.", "S": [], "A": []}

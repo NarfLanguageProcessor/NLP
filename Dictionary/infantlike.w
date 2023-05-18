@@ -1,0 +1,1 @@
+{"index": 151825, "D": "a child during the earliest period of their life, especially before they can walk; baby.", "S": [], "A": []}

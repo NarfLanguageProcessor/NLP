@@ -1,0 +1,1 @@
+{"index": 195005, "D": "forming or shaped like a head or dense cluster.", "S": [], "A": []}

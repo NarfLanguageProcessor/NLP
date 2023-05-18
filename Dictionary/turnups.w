@@ -1,0 +1,1 @@
+{"index": 332878, "D": "something that is turned up or that turns up.", "S": [], "A": []}

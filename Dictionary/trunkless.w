@@ -1,0 +1,1 @@
+{"index": 331638, "D": "the main stem of a tree, as distinct from the branches and roots.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82627, "D": "a termination or ending, as the final line of a verse.", "S": [], "A": []}

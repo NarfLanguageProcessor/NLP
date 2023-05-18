@@ -1,0 +1,1 @@
+{"index": 310563, "D": "showing irritation or ill humor by a gloomy silence or reserve.", "S": ["acrimony ", "anger ", "gloominess ", "moodiness ", "moroseness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 5598, "D": "one of a breed of red beef cattle, raised originally in southern Africa, well adapted to high temperatures.", "S": [], "A": []}

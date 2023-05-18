@@ -1,0 +1,1 @@
+{"index": 325433, "D": "foolish or silly behavior; tomfoolishness.", "S": ["absurdity ", "antics ", "bunk ", "clowning ", "craziness ", "folly ", "foolery ", "foolishness ", "fun ", "giddiness ", "horseplay ", "insanity ", "irresponsibility ", "lunacy ", "madness ", "ridiculousness ", "senselessness ", "shenanigans ", "silliness "], "A": ["sense ", "seriousness "]}

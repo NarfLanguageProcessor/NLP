@@ -1,0 +1,1 @@
+{"index": 55074, "D": "of or containing chlorine  in the pentavalent state.", "S": [], "A": []}

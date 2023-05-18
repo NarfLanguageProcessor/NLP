@@ -1,0 +1,1 @@
+{"index": 242130, "D": "consisting of or characterized by two or more names or terms.", "S": [], "A": []}

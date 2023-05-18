@@ -1,0 +1,1 @@
+{"index": 58639, "D": "a white crystalline powder, C9H13N3O5, that is a ribonucleoside consisting of d-ribose and cytosine.", "S": [], "A": []}

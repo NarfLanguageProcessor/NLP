@@ -1,0 +1,1 @@
+{"index": 280266, "D": "any of the Schizophyta, a group of organisms comprising the schizomycetes and the schizophyceous algae, characterized by a simple structure and reproduction by simple fission or spores.", "S": [], "A": []}

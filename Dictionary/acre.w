@@ -1,0 +1,1 @@
+{"index": 2794, "D": "a common measure of area", "S": ["acreage ", "estate ", "plot ", "property "], "A": []}

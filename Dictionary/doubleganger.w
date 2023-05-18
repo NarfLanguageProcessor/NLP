@@ -1,0 +1,1 @@
+{"index": 91954, "D": "doppelg\u00e4nger. ", "S": [], "A": []}

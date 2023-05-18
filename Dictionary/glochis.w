@@ -1,0 +1,1 @@
+{"index": 126542, "D": "a short hair, bristle, or spine having a barbed tip.", "S": [], "A": []}

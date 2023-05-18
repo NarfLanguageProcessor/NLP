@@ -1,0 +1,1 @@
+{"index": 251017, "D": "a patient who is the initial member of a family to come under study.", "S": [], "A": []}

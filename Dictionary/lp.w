@@ -1,0 +1,1 @@
+{"index": 175714, "D": "a full-length music album, typically comprised of ten to twelve songs", "S": ["33 ", "45 ", "78 ", "EP ", "gramophone record ", "long-playing record ", "platter "], "A": []}

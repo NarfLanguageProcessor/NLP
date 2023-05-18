@@ -1,0 +1,1 @@
+{"index": 109593, "D": "of, relating to, or characteristic of a family", "S": ["genetic "], "A": []}

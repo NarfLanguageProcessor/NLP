@@ -1,0 +1,1 @@
+{"index": 246901, "D": "of, relating to, or used in diagnosis. ", "S": [], "A": []}

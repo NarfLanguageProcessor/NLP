@@ -1,0 +1,1 @@
+{"index": 114775, "D": "to move lightly and swiftly; fly, dart, or skim along", "S": [], "A": []}

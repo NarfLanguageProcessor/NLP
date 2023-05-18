@@ -1,0 +1,1 @@
+{"index": 1023, "D": "deeply interested or involved; preoccupied", "S": [], "A": []}

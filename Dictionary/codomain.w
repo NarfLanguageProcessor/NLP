@@ -1,0 +1,1 @@
+{"index": 61795, "D": "the set of values that a function is allowed to take", "S": [], "A": []}

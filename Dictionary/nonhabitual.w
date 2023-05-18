@@ -1,0 +1,1 @@
+{"index": 204378, "D": "of the nature of a habit;  fixed by or resulting from habit", "S": [], "A": []}

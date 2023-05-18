@@ -1,0 +1,1 @@
+{"index": 54384, "D": "coldness, especially a moderate but uncomfortably penetrating coldness", "S": ["biting ", "chilly ", "freezing ", "frigid ", "frosty ", "icy ", "wintry "], "A": ["friendly ", "heated ", "hot ", "responsive ", "warm ", "kind ", "slow ", "temperate "]}

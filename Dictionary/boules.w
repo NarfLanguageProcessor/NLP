@@ -1,0 +1,1 @@
+{"index": 38927, "D": "a game, popular in France, in which metal bowls are thrown to land as near as possible to a target ball. It is played on rough surfaces", "S": [], "A": []}

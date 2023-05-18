@@ -1,0 +1,1 @@
+{"index": 215990, "D": "having a harmful effect on the organs or nerves concerned with hearing and balance.", "S": [], "A": []}

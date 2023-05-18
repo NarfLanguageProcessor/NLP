@@ -1,0 +1,1 @@
+{"index": 2123, "D": "a yellowish, pleasant-smelling liquid, C4H8O2, obtained from various carbohydrates, as glucose, by fermentation", "S": [], "A": []}

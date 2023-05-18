@@ -1,0 +1,1 @@
+{"index": 190972, "D": "political control by a mob. ", "S": [], "A": []}

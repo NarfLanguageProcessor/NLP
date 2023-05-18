@@ -1,0 +1,1 @@
+{"index": 191566, "D": "any invertebrate of the phylum Mollusca, having a soft unsegmented body and often a shell, secreted by a fold of skin (the mantle). The group includes the gastropods (snails, slugs, etc), bivalves (clams, mussels, etc), and cephalopods (cuttlefish, octopuses, etc)", "S": [], "A": []}

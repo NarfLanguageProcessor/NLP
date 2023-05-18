@@ -1,0 +1,1 @@
+{"index": 319379, "D": "the act of terminating ", "S": [], "A": []}

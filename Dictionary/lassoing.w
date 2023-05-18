@@ -1,0 +1,1 @@
+{"index": 168768, "D": "a long rope or line of hide or other material with a running noose at one end, used for roping horses, cattle, etc.", "S": ["bag ", "catch ", "enmesh ", "ensnare ", "entangle ", "hook ", "lasso ", "nab ", "trap "], "A": ["free ", "let go ", "release "]}

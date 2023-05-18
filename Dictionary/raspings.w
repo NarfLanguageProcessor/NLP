@@ -1,0 +1,1 @@
+{"index": 260918, "D": "browned breadcrumbs for coating fish and other foods before frying, baking, etc", "S": ["abrasion ", "attrition ", "brushing ", "caress ", "friction ", "grinding ", "kneading ", "pat ", "polish ", "rasping ", "scouring ", "scraping ", "shine ", "smear ", "smoothing ", "stroking ", "swab ", "swipe ", "wear ", "wipe "], "A": []}

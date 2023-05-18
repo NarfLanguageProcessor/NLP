@@ -1,0 +1,1 @@
+{"index": 178995, "D": "a person or nation holding a mandate. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 71724, "D": "a person who steers a racing shell. ", "S": ["aviator ", "captain ", "flier ", "leader ", "navigator "], "A": []}

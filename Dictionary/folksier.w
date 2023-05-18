@@ -1,0 +1,1 @@
+{"index": 115948, "D": "friendly or neighborly; sociable.", "S": ["down-to-earth ", "homey ", "low-key ", "rustic ", "unpretentious "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 352610, "D": "an article of furniture consisting of a flat, slablike top supported on one or more legs or other supports", "S": [], "A": []}

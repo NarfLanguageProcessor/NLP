@@ -1,0 +1,1 @@
+{"index": 9463, "D": "to make different in some particular, as size, style, course, or the like; modify", "S": ["cooked ", "corrected ", "modified ", "transformed ", "updated "], "A": ["unqualified "]}

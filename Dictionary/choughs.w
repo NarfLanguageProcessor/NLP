@@ -1,0 +1,1 @@
+{"index": 55921, "D": "any of several crowlike Old World birds, especially Pyrrhocorax pyrrhocorax, of Europe.", "S": [], "A": []}

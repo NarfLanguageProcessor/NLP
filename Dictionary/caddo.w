@@ -1,0 +1,1 @@
+{"index": 44303, "D": "a member of any of several North American Indian tribes formerly located in Arkansas, Louisiana, and eastern Texas, and now living in Oklahoma.", "S": [], "A": []}

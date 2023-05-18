@@ -1,0 +1,1 @@
+{"index": 219646, "D": "delighted, pleased, or glad, as over a particular thing", "S": [], "A": []}

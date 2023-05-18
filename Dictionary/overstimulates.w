@@ -1,0 +1,1 @@
+{"index": 221352, "D": "to rouse to action or effort, as by encouragement or pressure; spur on; incite", "S": [], "A": []}

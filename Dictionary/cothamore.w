@@ -1,0 +1,1 @@
+{"index": 70309, "D": "a frieze fabric, often used in the manufacture of overcoats.", "S": [], "A": []}

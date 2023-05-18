@@ -1,0 +1,1 @@
+{"index": 59790, "D": "a person who has kleptomania. ", "S": [], "A": []}

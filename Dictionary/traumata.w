@@ -1,0 +1,1 @@
+{"index": 328547, "D": "the condition produced by this; traumatism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 165364, "D": "Compare resonator (def. 4). ", "S": [], "A": []}

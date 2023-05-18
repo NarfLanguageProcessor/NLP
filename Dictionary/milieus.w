@@ -1,0 +1,1 @@
+{"index": 187169, "D": "surroundings, especially of a social or cultural nature", "S": ["ambience ", "surroundings "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 87956, "D": "to release from attachment or connection; loosen; unfasten", "S": ["back off ", "detach ", "disconnect ", "disentangle ", "dissociate ", "extricate ", "liberate ", "withdraw "], "A": ["attach ", "connect ", "couple ", "entangle ", "join ", "link ", "collect ", "combine ", "fasten ", "gather ", "hold ", "keep ", "maintain ", "unite "]}

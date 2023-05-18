@@ -1,0 +1,1 @@
+{"index": 327485, "D": "a flat, shallow container or receptacle made of wood, metal, etc., usually with slightly raised edges, used for carrying, holding, or displaying articles of food, glass, china, etc.", "S": ["plate "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 109239, "D": "a variant spelling of Faial", "S": [], "A": []}

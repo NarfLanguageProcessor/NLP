@@ -1,0 +1,1 @@
+{"index": 139599, "D": "a fold of mucous membrane partly closing the external orifice of the vagina in a virgin.", "S": [], "A": []}

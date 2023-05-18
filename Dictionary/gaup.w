@@ -1,0 +1,1 @@
+{"index": 122867, "D": "a variant spelling of gawp", "S": [], "A": []}

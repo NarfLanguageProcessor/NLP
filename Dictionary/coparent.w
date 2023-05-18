@@ -1,0 +1,1 @@
+{"index": 68423, "D": "a divorced or separated parent who shares equally with the other parent in the custody and care of a child.", "S": [], "A": []}

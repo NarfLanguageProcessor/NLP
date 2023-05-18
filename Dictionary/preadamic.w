@@ -1,0 +1,1 @@
+{"index": 245512, "D": "a person supposed to have existed before Adam. ", "S": [], "A": []}

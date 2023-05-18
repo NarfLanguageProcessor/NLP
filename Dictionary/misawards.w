@@ -1,0 +1,1 @@
+{"index": 188758, "D": "to give as due or merited; assign or bestow", "S": [], "A": []}

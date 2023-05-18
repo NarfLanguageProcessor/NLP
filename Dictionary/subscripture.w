@@ -1,0 +1,1 @@
+{"index": 309081, "D": "the sacred writings of the Old or New Testaments or both together.", "S": [], "A": []}

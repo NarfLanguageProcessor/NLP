@@ -1,0 +1,1 @@
+{"index": 79590, "D": "to take away the glamour  of; treat so as to reduce the attractiveness or status of.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 98597, "D": "a medicine or procedure that promotes menstrual discharge.", "S": [], "A": []}

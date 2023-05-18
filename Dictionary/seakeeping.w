@@ -1,0 +1,1 @@
+{"index": 282451, "D": "the ability of a vessel to endure rough conditions at sea and navigate safely during long storms.", "S": [], "A": []}

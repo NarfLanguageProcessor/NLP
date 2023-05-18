@@ -1,0 +1,1 @@
+{"index": 173317, "D": "to make liquid; liquefy. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 197751, "D": "kissing, caressing, and other sexual activity between partners that does not involve stimulation of the genitals or sexual intercourse.", "S": ["canoodling ", "caressing ", "cuddling ", "embracing ", "fondling ", "lovemaking ", "parking ", "petting ", "smooching "], "A": []}

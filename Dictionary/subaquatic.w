@@ -1,0 +1,1 @@
+{"index": 307198, "D": "living or growing partly on land, partly in water.", "S": ["submerged ", "undersea "], "A": []}

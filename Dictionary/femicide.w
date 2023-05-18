@@ -1,0 +1,1 @@
+{"index": 111144, "D": "the act of killing a woman, as by a domestic partner or a member of a criminal enterprise", "S": [], "A": []}

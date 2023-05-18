@@ -1,0 +1,1 @@
+{"index": 29507, "D": "to hold up; support", "S": ["carry ", "deliver ", "take "], "A": ["fail ", "hold ", "keep ", "lose ", "maintain ", "remain "]}

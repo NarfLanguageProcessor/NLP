@@ -1,0 +1,1 @@
+{"index": 47152, "D": "enclosed in or formed into a capsule. ", "S": [], "A": []}

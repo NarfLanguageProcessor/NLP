@@ -1,0 +1,1 @@
+{"index": 308871, "D": "a condition of reduced potency, as of a medication.", "S": [], "A": []}

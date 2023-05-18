@@ -1,0 +1,1 @@
+{"index": 152677, "D": "capable of being inherited.", "S": ["genetic ", "inborn ", "transmitted "], "A": ["acquired "]}

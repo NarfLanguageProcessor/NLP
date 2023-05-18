@@ -1,0 +1,1 @@
+{"index": 363278, "D": "a unit of energy equal to the energy of one watt operating for one hour, equivalent to 3600 joules. Abbreviation", "S": [], "A": []}

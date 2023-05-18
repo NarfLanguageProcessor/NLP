@@ -1,0 +1,1 @@
+{"index": 250365, "D": "the act of a person or thing that pricks. ", "S": ["cut ", "gash ", "jab ", "perforation ", "pinhole ", "prickle ", "puncture ", "stab ", "wound "], "A": []}

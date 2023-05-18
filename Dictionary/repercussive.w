@@ -1,0 +1,1 @@
+{"index": 268144, "D": "causing repercussion; reverberating.", "S": [], "A": []}

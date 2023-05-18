@@ -1,0 +1,1 @@
+{"index": 159211, "D": "a beta-adrenergic receptor agonist, C11H17NO3, used as a bronchodilator.", "S": [], "A": []}

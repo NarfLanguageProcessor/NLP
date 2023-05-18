@@ -1,0 +1,1 @@
+{"index": 158743, "D": "a distinctive doctrine, theory, system, or practice", "S": ["congregation ", "denomination ", "faith ", "religion ", "sect ", "society "], "A": ["agnosticism ", "disbelief "]}

@@ -1,0 +1,1 @@
+{"index": 34703, "D": "a missile or rocket propellant,  composed of fuel and oxidizer, the components of which are kept in separate compartments prior to combustion.", "S": [], "A": []}

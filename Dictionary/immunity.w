@@ -1,0 +1,1 @@
+{"index": 148128, "D": "the state of being immune  from or insusceptible to a particular disease or the like.", "S": ["amnesty ", "charter ", "freedom ", "impunity ", "indemnity ", "license ", "prerogative ", "protection "], "A": ["imprisonment ", "incarceration "]}

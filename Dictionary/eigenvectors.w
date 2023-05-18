@@ -1,0 +1,1 @@
+{"index": 96478, "D": "characteristic vector. ", "S": [], "A": []}

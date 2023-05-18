@@ -1,0 +1,1 @@
+{"index": 81635, "D": "to remove the hair from (hides, skin, etc.).", "S": ["bare ", "hairless ", "naked "], "A": ["hairy ", "hirsute "]}

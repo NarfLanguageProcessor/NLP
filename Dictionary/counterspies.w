@@ -1,0 +1,1 @@
+{"index": 71108, "D": "a spy  active in counterespionage.", "S": ["undercover agent "], "A": []}

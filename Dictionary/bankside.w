@@ -1,0 +1,1 @@
+{"index": 27528, "D": "the slope of the bank  of a stream or river.", "S": [], "A": []}

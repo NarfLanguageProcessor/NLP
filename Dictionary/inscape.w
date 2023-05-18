@@ -1,0 +1,1 @@
+{"index": 153419, "D": "the unique essence or inner nature of a person, place, thing, or event, especially depicted in poetry or a work of art.", "S": [], "A": []}

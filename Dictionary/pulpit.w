@@ -1,0 +1,1 @@
+{"index": 256350, "D": "a platform or raised structure in a church, from which the sermon is delivered or the service is conducted.", "S": ["lectern ", "podium "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 163889, "D": "an unstressed syllable prefixed to onomatopoeic and other expressive words, usually forming adverbs or interjections", "S": [], "A": []}

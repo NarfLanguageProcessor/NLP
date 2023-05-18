@@ -1,0 +1,1 @@
+{"index": 362828, "D": "an African wild swine, Phacochoerus aethiopicus, having large tusks and warty protuberances on the face.", "S": ["boar ", "pig ", "piglet ", "swine "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 210238, "D": "the act of obliterating  or the state of being obliterated. ", "S": [], "A": []}

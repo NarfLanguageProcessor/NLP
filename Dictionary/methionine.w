@@ -1,0 +1,1 @@
+{"index": 185264, "D": "an amino acid, CH3SCH2CH2CH(NH2)COOH, found in casein, wool, and other proteins or prepared synthetically", "S": [], "A": []}

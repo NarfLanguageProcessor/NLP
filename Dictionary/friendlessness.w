@@ -1,0 +1,1 @@
+{"index": 118951, "D": "a person attached to another by feelings of affection or personal regard.", "S": ["isolation ", "loneliness ", "lonesomeness ", "solitariness ", "solitude ", "withdrawal "], "A": []}

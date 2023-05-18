@@ -1,0 +1,1 @@
+{"index": 121743, "D": "the third letter of the Greek alphabet (\u0393, \u03b3).", "S": [], "A": []}

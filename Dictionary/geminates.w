@@ -1,0 +1,1 @@
+{"index": 123308, "D": "to make or become doubled or paired.", "S": [], "A": []}

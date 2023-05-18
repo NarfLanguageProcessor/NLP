@@ -1,0 +1,1 @@
+{"index": 231765, "D": "a large stone passing through the entire thickness of a wall.", "S": ["acknowledge ", "contemplate ", "deal with ", "examine ", "favor ", "grant ", "look at ", "recognize ", "regard ", "scrutinize ", "see ", "study "], "A": ["disregard ", "forget ", "ignore ", "look away ", "neglect ", "refuse "]}

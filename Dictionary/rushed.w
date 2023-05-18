@@ -1,0 +1,1 @@
+{"index": 275776, "D": "to move, act, or progress with speed, impetuosity, or violence.", "S": ["pressed "], "A": []}

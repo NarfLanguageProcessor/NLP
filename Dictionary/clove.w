@@ -1,0 +1,1 @@
+{"index": 60578, "D": "the dried flower bud of a tropical tree, Syzygium aromaticum, of the myrtle family,  used whole or ground as a spice.", "S": ["cleavage ", "crater ", "crevasse ", "fissure ", "gorge ", "ravine ", "rift ", "schism ", "void "], "A": ["closing ", "closure ", "remembrance ", "solid "]}

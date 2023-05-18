@@ -1,0 +1,1 @@
+{"index": 170124, "D": "having the function of making laws", "S": ["constitutionally "], "A": ["illegally ", "illicitly ", "unlawfully "]}

@@ -1,0 +1,1 @@
+{"index": 110792, "D": "an Egyptian unit of area equivalent to 1.038 acres (0.42 ha).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 85701, "D": "the act of dilating;  state of being dilated. ", "S": ["expansion ", "extension "], "A": []}

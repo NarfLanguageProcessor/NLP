@@ -1,0 +1,1 @@
+{"index": 204804, "D": "suspension of interchange in relations, especially commercial or political relations.", "S": [], "A": []}

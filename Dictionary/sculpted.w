@@ -1,0 +1,1 @@
+{"index": 282193, "D": "to carve, model, or make by using the techniques of sculpture. ", "S": ["chiseled ", "engraved ", "sculptured "], "A": []}

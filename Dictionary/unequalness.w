@@ -1,0 +1,1 @@
+{"index": 341429, "D": "not equal;  not of the same quantity, quality, value, rank, ability, etc.", "S": ["disparity ", "disproportion ", "imbalance ", "inequity ", "unevenness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 206059, "D": "of, pertaining to, containing, or resembling porphyry,  its texture, or its structure.", "S": [], "A": []}

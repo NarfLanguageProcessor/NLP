@@ -1,0 +1,1 @@
+{"index": 28886, "D": "a quantity or number coming at one time or taken together", "S": ["bind ", "bundle ", "collect ", "gather ", "load ", "store ", "stow "], "A": ["disperse ", "distribute ", "divide ", "scatter ", "separate ", "spread ", "use ", "waste ", "detach ", "disconnect ", "loosen ", "unfasten "]}

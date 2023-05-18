@@ -1,0 +1,1 @@
+{"index": 266802, "D": "to learn (something previously known) again", "S": ["clean up ", "cram ", "go over ", "look over ", "polish up ", "read up ", "refresh one's memory ", "refurbish ", "renovate ", "reread ", "retouch ", "review ", "revise ", "study ", "touch up "], "A": ["forget "]}

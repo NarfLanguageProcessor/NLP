@@ -1,0 +1,1 @@
+{"index": 181763, "D": "what is intended to be, or actually is, expressed or indicated; signification; import", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 264545, "D": "any of several yellowish African antelopes of the genus Redunca, living near lakes and rivers, the male of which has short, forward-curving horns.", "S": [], "A": []}

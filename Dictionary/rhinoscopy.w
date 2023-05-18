@@ -1,0 +1,1 @@
+{"index": 272095, "D": "examination of the nasal passages, esp with a special instrument called a rhinoscope (\u02c8ra\u026an\u0259\u028a\u02ccsk\u0259\u028ap)", "S": [], "A": []}

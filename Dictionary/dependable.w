@@ -1,0 +1,1 @@
+{"index": 81549, "D": "capable of being depended  on; worthy of trust; reliable", "S": ["loyal ", "staunch ", "steady ", "sturdy ", "true ", "trustworthy "], "A": ["disloyal ", "undependable ", "unfaithful ", "unreliable ", "unstable ", "untrustworthy ", "weak ", "wobbly "]}

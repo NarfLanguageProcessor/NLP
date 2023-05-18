@@ -1,0 +1,1 @@
+{"index": 151493, "D": "not able to produce the desired effect; ineffective.", "S": [], "A": []}

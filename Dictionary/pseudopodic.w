@@ -1,0 +1,1 @@
+{"index": 255036, "D": "a temporary protrusion of the protoplasm, as of certain protozoans, usually serving as an organ of locomotion or prehension.", "S": [], "A": []}

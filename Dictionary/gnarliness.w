@@ -1,0 +1,1 @@
+{"index": 127019, "D": "twisted with or as if with gnarls or knots; gnarled", "S": [], "A": []}

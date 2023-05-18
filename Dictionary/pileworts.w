@@ -1,0 +1,1 @@
+{"index": 236606, "D": "a weedy composite plant, Erechtites hieracifolia, having narrow flower heads enclosed in green bracts.", "S": [], "A": []}

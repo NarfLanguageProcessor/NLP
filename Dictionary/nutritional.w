@@ -1,0 +1,1 @@
+{"index": 209808, "D": "the act or process of nourishing or of being nourished; the use of food for life, health, and growth", "S": ["comestible ", "dietary ", "digestible ", "nourishing ", "nutrient ", "nutritious ", "nutritive ", "peptic ", "salutary ", "sustaining ", "sustentative "], "A": []}

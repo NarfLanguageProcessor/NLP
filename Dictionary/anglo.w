@@ -1,0 +1,1 @@
+{"index": 12905, "D": "a white American of non-Hispanic descent, as distinguished especially from an American of Mexican or Spanish descent.", "S": [], "A": []}

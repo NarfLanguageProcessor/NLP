@@ -1,0 +1,1 @@
+{"index": 56752, "D": "a long, slender, deep-fried pastry resembling a cruller.", "S": [], "A": []}

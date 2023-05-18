@@ -1,0 +1,1 @@
+{"index": 314913, "D": "a small flap, strap, loop, or similar appendage, as on a garment, used for pulling, hanging, or decoration.", "S": ["acid ", "cubes ", "dots ", "drug ", "hallucinogen ", "microdots ", "sunshine "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 155027, "D": "to hold or make fast to something, as with a grapple.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 35318, "D": "having two valences, as aluminum with valences of two and three.", "S": [], "A": []}

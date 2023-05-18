@@ -1,0 +1,1 @@
+{"index": 74618, "D": "the ball a player strikes with the cue, as distinguished from the other balls on the table.", "S": ["bald ", "clean-shaven "], "A": ["furry ", "hairy ", "hirsute "]}

@@ -1,0 +1,1 @@
+{"index": 272634, "D": "filled with, and often thoroughly weakened by, something undesirable (used in combination)", "S": ["addled ", "ruined ", "withered "], "A": ["developing ", "flourishing ", "germinating ", "growing ", "improving ", "ripening "]}

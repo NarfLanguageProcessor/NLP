@@ -1,0 +1,1 @@
+{"index": 291368, "D": "free of deceit, hypocrisy, or falseness; earnest", "S": [], "A": []}

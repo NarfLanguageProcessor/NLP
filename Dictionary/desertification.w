@@ -1,0 +1,1 @@
+{"index": 82506, "D": "the processes by which an area becomes a desert. ", "S": ["erosion ", "logging "], "A": []}

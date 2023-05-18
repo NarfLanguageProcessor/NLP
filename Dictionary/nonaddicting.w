@@ -1,0 +1,1 @@
+{"index": 201101, "D": "a person with an uncontrolled compulsion to continue engaging in an activity despite suffering negative personal or professional consequences", "S": [], "A": []}

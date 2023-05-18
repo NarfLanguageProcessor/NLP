@@ -1,0 +1,1 @@
+{"index": 33635, "D": "furnished or fitted with two filaments or threads.", "S": [], "A": []}

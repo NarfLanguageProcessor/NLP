@@ -1,0 +1,1 @@
+{"index": 315640, "D": "inclined to talk  a great deal", "S": ["articulate ", "chatty ", "effusive ", "garrulous ", "glib ", "loquacious ", "voluble "], "A": ["quiet ", "silent ", "untalkative "]}

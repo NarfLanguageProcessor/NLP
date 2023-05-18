@@ -1,0 +1,1 @@
+{"index": 23517, "D": "golden or gilded.", "S": [], "A": []}

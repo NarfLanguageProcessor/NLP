@@ -1,0 +1,1 @@
+{"index": 145831, "D": "(in the 16th and 17th centuries) the study of chemistry in relation to the physiology, pathology, and treatment of disease.", "S": [], "A": []}

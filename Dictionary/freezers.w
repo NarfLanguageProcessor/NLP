@@ -1,0 +1,1 @@
+{"index": 118685, "D": "a refrigerator, refrigerator compartment, cabinet, or room held at or below 32\u00b0F (0\u00b0C), used especially for preserving and storing food.", "S": ["cooler ", "refrigerator "], "A": []}

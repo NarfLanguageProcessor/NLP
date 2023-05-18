@@ -1,0 +1,1 @@
+{"index": 75612, "D": "any of several large nocturnal phalangers of the genus Phalanger, of N Australia, New Guinea, and adjacent islands, having dense fur, prehensile tails, large eyes, and a yellow nose", "S": [], "A": []}

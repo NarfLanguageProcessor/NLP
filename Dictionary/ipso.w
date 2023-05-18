@@ -1,0 +1,1 @@
+{"index": 157857, "D": "by the law itself; by operation of law.", "S": [], "A": []}

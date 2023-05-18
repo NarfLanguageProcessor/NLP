@@ -1,0 +1,1 @@
+{"index": 61161, "D": "to attempt to influence by gentle persuasion, flattery, etc.; cajole", "S": ["allurer ", "charmer ", "lurer ", "persuader ", "siren ", "tempter ", "wheedler "], "A": []}

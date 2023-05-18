@@ -1,0 +1,1 @@
+{"index": 212728, "D": "of, relating to, or characteristic of dreams.", "S": [], "A": []}

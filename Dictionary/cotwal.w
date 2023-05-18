@@ -1,0 +1,1 @@
+{"index": 70469, "D": "an Indian police officer.", "S": [], "A": []}

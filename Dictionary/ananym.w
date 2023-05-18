@@ -1,0 +1,1 @@
+{"index": 11860, "D": [], "S": ["AKA ", "alias ", "allonym ", "anonym ", "assumed name ", "false name ", "fictitious name ", "nickname ", "nom de guerre ", "pen name ", "professional name ", "pseudonym "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 327333, "D": "a gummy substance derived from various low, spiny, Asian shrubs belonging to the genus Astragalus, of the legume family, especially A. gummifer", "S": [], "A": []}

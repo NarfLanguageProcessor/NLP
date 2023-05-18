@@ -1,0 +1,1 @@
+{"index": 90518, "D": "dekameter; dekameters.", "S": [], "A": []}

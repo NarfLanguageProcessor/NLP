@@ -1,0 +1,1 @@
+{"index": 189857, "D": "to pronounce  incorrectly.", "S": ["sputter ", "stutter "], "A": []}

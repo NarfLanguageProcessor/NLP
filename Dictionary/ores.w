@@ -1,0 +1,1 @@
+{"index": 214325, "D": "a metal-bearing mineral or rock, or a native metal, that can be mined at a profit.", "S": ["metal "], "A": []}

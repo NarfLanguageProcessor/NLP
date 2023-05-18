@@ -1,0 +1,1 @@
+{"index": 348469, "D": "that pries;  looking or searching curiously.", "S": [], "A": []}

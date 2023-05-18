@@ -1,0 +1,1 @@
+{"index": 21113, "D": "a soft, brown, lumpy gum resin having a bitter, acrid taste and an obnoxious odor, obtained from the roots of several Near Eastern plants belonging to the genus Ferula, of the parsley family, used in folk medicine to prevent disease and in Indian cuisine as a flavoring, and formerly used in medicine as a carminative and antispasmodic.", "S": [], "A": []}

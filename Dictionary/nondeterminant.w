@@ -1,0 +1,1 @@
+{"index": 202988, "D": "a determining  agent or factor.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 313100, "D": "the process of suppurating. ", "S": ["emission ", "flow ", "seepage "], "A": ["assignment ", "damming ", "delegation ", "employment ", "engagement ", "hiring ", "hold ", "imprisonment ", "incarceration ", "indebtedness ", "keep ", "loading ", "owing ", "retention "]}

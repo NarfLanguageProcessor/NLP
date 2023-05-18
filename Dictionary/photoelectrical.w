@@ -1,0 +1,1 @@
+{"index": 235090, "D": "pertaining to the electronic or other electric  effects produced by light.", "S": [], "A": []}

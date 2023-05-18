@@ -1,0 +1,1 @@
+{"index": 88723, "D": "the condition of having an abnormally shaped body part, especially as a congenital condition.", "S": [], "A": []}

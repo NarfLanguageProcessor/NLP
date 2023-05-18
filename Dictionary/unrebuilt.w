@@ -1,0 +1,1 @@
+{"index": 349141, "D": "to repair, especially to dismantle and reassemble with new parts", "S": [], "A": []}

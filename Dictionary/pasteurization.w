@@ -1,0 +1,1 @@
+{"index": 227430, "D": "the process of heating beverages, such as milk, beer, wine, or cider, or solid foods, such as cheese or crab meat, to destroy harmful or undesirable microorganisms or to limit the rate of fermentation by the application of controlled heat", "S": [], "A": []}

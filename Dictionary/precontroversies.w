@@ -1,0 +1,1 @@
+{"index": 246523, "D": "a prolonged public dispute, debate, or contention; disputation concerning a matter of opinion.", "S": [], "A": []}

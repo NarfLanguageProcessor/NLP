@@ -1,0 +1,1 @@
+{"index": 270594, "D": "to reply to, usually in a sharp or retaliatory way; reply in kind to.", "S": [], "A": []}

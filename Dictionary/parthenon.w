@@ -1,0 +1,1 @@
+{"index": 226977, "D": "the temple of Athena Parthenos on the Acropolis at Athens, completed c438 b.c. by Ictinus and Callicrates and decorated by Phidias", "S": [], "A": []}

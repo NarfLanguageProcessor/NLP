@@ -1,0 +1,1 @@
+{"index": 247219, "D": "a person or thing that eliminates. ", "S": [], "A": []}

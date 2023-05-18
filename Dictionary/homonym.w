@@ -1,0 +1,1 @@
+{"index": 143174, "D": "a word pronounced the same as another but differing in meaning, whether spelled the same way or not, as heir and air; a homophone (def. 1). ", "S": ["homophone "], "A": []}

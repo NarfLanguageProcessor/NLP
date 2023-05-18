@@ -1,0 +1,1 @@
+{"index": 286656, "D": "covered with setae or bristles; bristly.", "S": ["aristate ", "barbellate ", "chaetophorous ", "echinate ", "hispid ", "setaceous ", "setal ", "setarious ", "setiferous ", "spiny "], "A": ["clean-shaven ", "smooth "]}

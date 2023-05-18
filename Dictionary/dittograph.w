@@ -1,0 +1,1 @@
+{"index": 90159, "D": "an instance of dittography; a passage containing reduplicated syllables, letters, etc.", "S": [], "A": []}

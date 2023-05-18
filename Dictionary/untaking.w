@@ -1,0 +1,1 @@
+{"index": 352647, "D": "the act of a person or thing that takes. ", "S": [], "A": []}

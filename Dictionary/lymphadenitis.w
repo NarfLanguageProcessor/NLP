@@ -1,0 +1,1 @@
+{"index": 172506, "D": "inflammation of a lymphatic gland.", "S": [], "A": []}

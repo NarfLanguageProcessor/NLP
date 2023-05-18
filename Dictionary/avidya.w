@@ -1,0 +1,1 @@
+{"index": 24777, "D": "ignorance of the identity of oneself with Brahman, resulting in imprisonment within the cycle of birth and death.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 317207, "D": "a place where liquors are sold to be consumed on the premises.", "S": [], "A": []}

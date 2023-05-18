@@ -1,0 +1,1 @@
+{"index": 9398, "D": "by this or that time; prior to or at some specified or implied time; previously", "S": ["before ", "earlier ", "once ", "previously ", "then "], "A": ["later "]}

@@ -1,0 +1,1 @@
+{"index": 314821, "D": "an island in the Sibuyan Sea, Philippines, one of the Romblon Islands. 265 sq. mi. (686 sq. km).", "S": [], "A": []}

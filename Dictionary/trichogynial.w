@@ -1,0 +1,1 @@
+{"index": 329419, "D": "a hairlike prolongation of a carpogonium, serving as a receptive organ for the spermatium.", "S": [], "A": []}

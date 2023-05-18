@@ -1,0 +1,1 @@
+{"index": 65303, "D": "(of a system of points) lying on the circumference of a circle.", "S": [], "A": []}

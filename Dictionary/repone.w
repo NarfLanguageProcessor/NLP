@@ -1,0 +1,1 @@
+{"index": 268362, "D": "to restore (someone) to his or her former status, office, etc; rehabilitate", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 330474, "D": "a precursor of trypsin  that is secreted by the pancreas and is activated to trypsin  in the small intestine.", "S": [], "A": []}

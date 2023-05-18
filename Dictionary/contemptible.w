@@ -1,0 +1,1 @@
+{"index": 67351, "D": "deserving of or held in contempt;  despicable.", "S": ["abhorrent ", "abominable ", "disgusting ", "hateful ", "odious ", "vile ", "worthless "], "A": ["delightful ", "kind ", "likeable ", "lovable ", "nice ", "pleasant ", "pleasing "]}

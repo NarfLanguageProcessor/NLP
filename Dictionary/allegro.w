@@ -1,0 +1,1 @@
+{"index": 8620, "D": "brisk or rapid in tempo.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 323198, "D": "the theory that chance is an objective reality at work in the universe, esp in evolutionary adaptations", "S": [], "A": []}

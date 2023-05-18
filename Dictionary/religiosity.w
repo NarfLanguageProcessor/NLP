@@ -1,0 +1,1 @@
+{"index": 266950, "D": "the quality of being religious;  piety; devoutness.", "S": ["piety "], "A": ["animosity ", "apathy ", "coldness ", "coolness ", "dishonesty ", "dislike ", "disloyalty ", "disregard ", "disrespect ", "enmity ", "hate ", "hatred ", "inconstancy ", "indifference ", "insincerity ", "lethargy ", "treachery ", "unsteadiness "]}

@@ -1,0 +1,1 @@
+{"index": 198003, "D": "a photographic negative.", "S": [], "A": []}

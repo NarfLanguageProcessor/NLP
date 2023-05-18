@@ -1,0 +1,1 @@
+{"index": 57089, "D": "a synthetic nonnarcotic and nonaddictive analgesic, C18H25NO, that blocks the effects of morphine or morphinelike drugs", "S": [], "A": []}

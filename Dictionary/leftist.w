@@ -1,0 +1,1 @@
+{"index": 169991, "D": "a member of the political Left or a person sympathetic to its views.", "S": ["liberal "], "A": ["conservative "]}

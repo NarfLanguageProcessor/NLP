@@ -1,0 +1,1 @@
+{"index": 235274, "D": "pertaining to a substance, as selenium, having a conductivity that decreases upon absorption of electromagnetic radiation. ", "S": [], "A": []}

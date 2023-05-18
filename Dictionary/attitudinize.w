@@ -1,0 +1,1 @@
+{"index": 23108, "D": "to assume attitudes;  pose for effect.", "S": ["masquerade ", "pose "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 142703, "D": "feeding on solid food particles in the manner of most animals.", "S": [], "A": []}

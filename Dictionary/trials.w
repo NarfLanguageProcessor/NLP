@@ -1,0 +1,1 @@
+{"index": 329110, "D": "the determination of a person's guilt or innocence by due process of law.", "S": ["bench test ", "dry run ", "dummy run ", "practical test ", "practice run ", "rehearsal ", "road test ", "spot check ", "taste test ", "test flight ", "trial ", "tryout "], "A": []}

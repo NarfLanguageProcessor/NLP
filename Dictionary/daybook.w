@@ -1,0 +1,1 @@
+{"index": 76272, "D": "a book  in which the transactions of the day  are entered in the order of their occurrence.", "S": ["album ", "diary ", "ledger ", "log ", "logbook ", "notebook ", "record ", "scrapbook "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 333980, "D": "an instrument that uses scattering phenomena to detect the position of objects too small to be seen by an ordinary microscope. ", "S": [], "A": []}

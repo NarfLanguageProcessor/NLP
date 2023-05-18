@@ -1,0 +1,1 @@
+{"index": 92463, "D": "a large flexible cylindrical container towed by a ship, used for transporting liquids", "S": [], "A": []}

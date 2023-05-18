@@ -1,0 +1,1 @@
+{"index": 103815, "D": "a condition resulting from excessive dilation of the blood vessels, usually affecting the extremities, which feel hot and painful", "S": [], "A": []}

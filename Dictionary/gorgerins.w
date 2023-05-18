@@ -1,0 +1,1 @@
+{"index": 128089, "D": "the neckline portion of a capital of a column, or a feature forming the junction between a shaft and its capital.", "S": [], "A": []}

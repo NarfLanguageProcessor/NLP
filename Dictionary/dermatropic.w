@@ -1,0 +1,1 @@
+{"index": 82224, "D": "(especially of viruses) in, attracted toward, or affecting the skin.", "S": [], "A": []}

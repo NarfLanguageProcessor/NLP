@@ -1,0 +1,1 @@
+{"index": 10249, "D": "serving to amend;  corrective.", "S": ["bettering ", "emendatory ", "improving ", "rectifying ", "reformative ", "reformatory ", "reparative ", "restorative "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 328572, "D": "painfully difficult or burdensome work; toil.", "S": ["strive ", "sweat ", "tend ", "toil "], "A": ["ignore ", "neglect ", "be lazy ", "idle ", "laze ", "rest "]}

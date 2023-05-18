@@ -1,0 +1,1 @@
+{"index": 120061, "D": "any smokelike or vaporous exhalation from matter or substances, especially of an odorous or harmful nature", "S": ["effluvium ", "exhalation ", "exhaust ", "haze ", "miasma ", "reek ", "smog ", "smoke ", "stench ", "vapor "], "A": []}

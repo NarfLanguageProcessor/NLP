@@ -1,0 +1,1 @@
+{"index": 318908, "D": "a projection formed on the end of a timber or the like for insertion into a mortise of the same dimensions.", "S": ["coincide ", "conform ", "correspond ", "harmonize ", "jibe "], "A": ["clash ", "differ ", "disagree ", "fight ", "mismatch ", "divide ", "oppose ", "refuse ", "separate "]}

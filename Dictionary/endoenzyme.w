@@ -1,0 +1,1 @@
+{"index": 99796, "D": "an enzyme  that functions within a cell.", "S": [], "A": []}

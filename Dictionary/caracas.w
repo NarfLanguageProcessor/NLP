@@ -1,0 +1,1 @@
+{"index": 47281, "D": "a city in and the capital of Venezuela, in the N part.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128662, "D": "resembling grain;  granular.", "S": ["gritty ", "homespun "], "A": []}

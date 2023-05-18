@@ -1,0 +1,1 @@
+{"index": 357309, "D": "an objectionable or undesirable animal, usually predatory, as a coyote or bobcat.", "S": ["beast ", "creature ", "pet "], "A": ["mineral ", "plant "]}

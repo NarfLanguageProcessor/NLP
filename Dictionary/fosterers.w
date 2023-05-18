@@ -1,0 +1,1 @@
+{"index": 117853, "D": "to promote the growth or development of; further; encourage", "S": [], "A": []}

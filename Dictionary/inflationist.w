@@ -1,0 +1,1 @@
+{"index": 152110, "D": "an advocate of inflation  through expansion of currency or bank deposits.", "S": [], "A": []}

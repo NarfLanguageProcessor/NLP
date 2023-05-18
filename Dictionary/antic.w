@@ -1,0 +1,1 @@
+{"index": 14815, "D": "a grotesque, fantastic, or ludicrous gesture, act, or posture.", "S": ["joke ", "shenanigan ", "trick "], "A": []}

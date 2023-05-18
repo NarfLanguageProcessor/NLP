@@ -1,0 +1,1 @@
+{"index": 367009, "D": "the plural of woman. ", "S": ["gentle sex ", "womenfolk "], "A": []}

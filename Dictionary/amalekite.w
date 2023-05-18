@@ -1,0 +1,1 @@
+{"index": 9750, "D": "a member of the tribe of Amalek. Genesis 36", "S": [], "A": []}

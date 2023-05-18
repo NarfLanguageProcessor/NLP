@@ -1,0 +1,1 @@
+{"index": 78675, "D": "to remove controls,  especially government or other official controls,  from", "S": ["denationalize "], "A": []}

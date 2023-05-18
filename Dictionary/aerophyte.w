@@ -1,0 +1,1 @@
+{"index": 5107, "D": "epiphyte. ", "S": ["epiphyte ", "epiphytic plant "], "A": []}

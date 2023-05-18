@@ -1,0 +1,1 @@
+{"index": 58413, "D": "Compare transpadane", "S": [], "A": []}

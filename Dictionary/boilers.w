@@ -1,0 +1,1 @@
+{"index": 37440, "D": "Compare fire-tube boiler, water-tube boiler. ", "S": ["platitude "], "A": ["coinage ", "nuance "]}

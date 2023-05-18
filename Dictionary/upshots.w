@@ -1,0 +1,1 @@
+{"index": 355018, "D": "the final issue, the conclusion, or the result", "S": ["aftereffect ", "gist "], "A": ["beginning ", "cause ", "commencement ", "foundation ", "initiation ", "introduction ", "opening ", "origin ", "source ", "start "]}

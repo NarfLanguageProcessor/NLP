@@ -1,0 +1,1 @@
+{"index": 185397, "D": "pertaining to meter  or poetic measure.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 29887, "D": "that suits or gives a pleasing effect or attractive appearance, as to a person or thing", "S": ["enhancing ", "fair ", "welcome "], "A": ["improper ", "inappropriate ", "indecorous ", "tasteless ", "ugly ", "unattractive ", "unbecoming ", "unfitting ", "unseemly ", "unsuitable "]}

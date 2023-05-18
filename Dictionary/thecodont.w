@@ -1,0 +1,1 @@
+{"index": 320788, "D": "any of various reptiles of the extinct order Thecodontia, occurring in the late Permian to late Triassic periods and characterized by teeth set in sockets.", "S": [], "A": []}

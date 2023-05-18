@@ -1,0 +1,1 @@
+{"index": 152494, "D": "to take, as food, into the body (opposed to egest).", "S": [], "A": []}

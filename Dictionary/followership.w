@@ -1,0 +1,1 @@
+{"index": 115994, "D": "the ability or willingness to follow a leader.", "S": [], "A": []}

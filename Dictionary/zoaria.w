@@ -1,0 +1,1 @@
+{"index": 369608, "D": "a collection of distinct, individual zooids that make up a compound or colonial organism.", "S": [], "A": []}

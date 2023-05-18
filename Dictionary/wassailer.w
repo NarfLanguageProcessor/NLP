@@ -1,0 +1,1 @@
+{"index": 362967, "D": "a salutation wishing health to a person, used in England in early times when presenting a cup of drink or when drinking to the person.", "S": [], "A": []}

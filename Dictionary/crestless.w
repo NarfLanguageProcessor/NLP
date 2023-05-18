@@ -1,0 +1,1 @@
+{"index": 72787, "D": "the highest part of a hill or mountain range; summit.", "S": [], "A": []}

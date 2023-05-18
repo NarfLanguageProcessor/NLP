@@ -1,0 +1,1 @@
+{"index": 26836, "D": "a large bundle or package prepared for shipping, storage, or sale, especially one tightly compressed and secured by wires, hoops, cords, or the like, and sometimes having a wrapping or covering", "S": ["carriage ", "consignment ", "merchandise ", "payload ", "shipment ", "shipping ", "transportation "], "A": ["benefit "]}

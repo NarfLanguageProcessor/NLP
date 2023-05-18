@@ -1,0 +1,1 @@
+{"index": 141224, "D": "any of several parts or organs of the mouth, as the labrum of a crustacean.", "S": [], "A": []}

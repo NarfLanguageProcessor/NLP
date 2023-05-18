@@ -1,0 +1,1 @@
+{"index": 9347, "D": "(of a set of characters) including letters, numbers, and, often, special characters, as punctuation marks", "S": [], "A": []}

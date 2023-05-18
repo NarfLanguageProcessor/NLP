@@ -1,0 +1,1 @@
+{"index": 250860, "D": "any of various deciduous or evergreen shrubs of the genus Ligustrum, especially L. vulgare, having clusters of small white flowers and commonly grown as a hedge.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 81088, "D": "a first-magnitude star in the constellation Cygnus.", "S": [], "A": []}

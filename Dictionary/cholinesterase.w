@@ -1,0 +1,1 @@
+{"index": 55494, "D": "an enzyme, found especially in the heart, brain, and blood, that hydrolyzes acetylcholine to acetic acid and choline. ", "S": [], "A": []}

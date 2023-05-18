@@ -1,0 +1,1 @@
+{"index": 235195, "D": "the phenomenon in which the absorption of electromagnetic radiation  by an atom in a gas induces the atom to emit a bound electron and thereby become ionized.", "S": [], "A": []}

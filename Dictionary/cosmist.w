@@ -1,0 +1,1 @@
+{"index": 70027, "D": "the philosophy of cosmic evolution.", "S": [], "A": []}

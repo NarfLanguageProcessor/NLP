@@ -1,0 +1,1 @@
+{"index": 52634, "D": "dispirited; chagrined; dejected.", "S": ["dejected ", "despondent ", "discouraged ", "dispirited "], "A": ["cheerful ", "encouraged ", "happy ", "heartened "]}

@@ -1,0 +1,1 @@
+{"index": 138325, "D": "a cyst with watery contents that is produced in humans and animals by a tapeworm in the larval state; cysticerus.", "S": [], "A": []}

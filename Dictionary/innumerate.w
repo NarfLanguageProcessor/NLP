@@ -1,0 +1,1 @@
+{"index": 153113, "D": "unfamiliar with mathematical concepts and methods; unable to use mathematics; not numerate. ", "S": [], "A": []}

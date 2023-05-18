@@ -1,0 +1,1 @@
+{"index": 107352, "D": "existing or occurring outside of erythrocytes, as in the development of several malarial parasites in the liver.", "S": [], "A": []}

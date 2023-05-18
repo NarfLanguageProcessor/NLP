@@ -1,0 +1,1 @@
+{"index": 169662, "D": "having much knowledge; scholarly; erudite", "S": [], "A": []}

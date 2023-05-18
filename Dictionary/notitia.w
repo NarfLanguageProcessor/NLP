@@ -1,0 +1,1 @@
+{"index": 208963, "D": "a register or list, esp of ecclesiastical districts", "S": [], "A": []}

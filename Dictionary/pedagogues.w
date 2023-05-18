@@ -1,0 +1,1 @@
+{"index": 228739, "D": "a teacher; schoolteacher.", "S": ["department ", "institute ", "personnel ", "staff ", "university "], "A": ["inability ", "incompetence ", "ineptness ", "lack ", "need ", "students "]}

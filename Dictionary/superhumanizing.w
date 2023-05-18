@@ -1,0 +1,1 @@
+{"index": 311989, "D": "to make humane,  kind, or gentle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 20217, "D": "the seizure of money or property to prevent a debtor paying one creditor in advance of another", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 138475, "D": "noting or pertaining to hydrazoic acid; triazoic.", "S": [], "A": []}

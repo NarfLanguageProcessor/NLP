@@ -1,0 +1,1 @@
+{"index": 131278, "D": "a rubbery, tumorlike lesion associated with tertiary syphilis.", "S": [], "A": []}

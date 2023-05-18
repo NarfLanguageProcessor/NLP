@@ -1,0 +1,1 @@
+{"index": 267372, "D": "the act of remitting  a case to another court for decision.", "S": [], "A": []}

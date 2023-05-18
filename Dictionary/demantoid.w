@@ -1,0 +1,1 @@
+{"index": 80362, "D": "a brilliant green variety of andradite garnet, used as a gem.", "S": [], "A": []}

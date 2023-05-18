@@ -1,0 +1,1 @@
+{"index": 220546, "D": "an excess over a particular amount; surplus", "S": ["exorbitance ", "extravagance ", "extravagancy ", "inordinateness ", "lavishness ", "overabundance ", "plethora ", "profusion ", "superabundance ", "superfluity ", "surfeit "], "A": ["lack ", "need ", "scarcity ", "want "]}

@@ -1,0 +1,1 @@
+{"index": 78453, "D": "serving to declare,  make known, or explain", "S": ["analytical ", "informative ", "interpretive ", "supplementary "], "A": ["confusing ", "mysterious ", "obscure ", "perplexing ", "puzzling ", "vague "]}

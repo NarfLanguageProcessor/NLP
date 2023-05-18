@@ -1,0 +1,1 @@
+{"index": 169078, "D": "an opaque, white glass first produced in Venice during the Renaissance, often used in thread form to decorate clear glass pieces.", "S": [], "A": []}

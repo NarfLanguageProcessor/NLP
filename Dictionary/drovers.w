@@ -1,0 +1,1 @@
+{"index": 93444, "D": "a person who drives cattle or sheep to market.", "S": ["bronco "], "A": []}

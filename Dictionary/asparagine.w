@@ -1,0 +1,1 @@
+{"index": 21359, "D": "a white, crystalline, amino acid, NH2COCH2CH(NH2)COOH, soluble in water, obtained from certain plants, especially legumes, and used chiefly as a nutrient in culture media for certain bacteria. Abbreviation", "S": [], "A": []}

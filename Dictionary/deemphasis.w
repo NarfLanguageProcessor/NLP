@@ -1,0 +1,1 @@
+{"index": 78974, "D": "a reduction in emphasis", "S": [], "A": []}

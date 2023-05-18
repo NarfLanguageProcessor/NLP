@@ -1,0 +1,1 @@
+{"index": 312109, "D": "the quality of being given to asking questions; intellectual curiosity or eagerness for knowledge", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 237908, "D": "a salt or ester of pyrophosphoric acid. ", "S": [], "A": []}

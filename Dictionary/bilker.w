@@ -1,0 +1,1 @@
+{"index": 33964, "D": "to defraud; cheat", "S": ["con man ", "crook ", "hustler ", "swindler "], "A": []}

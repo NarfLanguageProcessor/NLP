@@ -1,0 +1,1 @@
+{"index": 7832, "D": "an ancient form of divination, using a rooster to select grains of food placed on letters of the alphabet.", "S": [], "A": []}

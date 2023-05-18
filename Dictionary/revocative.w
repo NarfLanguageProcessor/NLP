@@ -1,0 +1,1 @@
+{"index": 271462, "D": "the act of revoking;  annulment.", "S": [], "A": []}

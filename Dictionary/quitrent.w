@@ -1,0 +1,1 @@
+{"index": 259035, "D": "rent  paid by a freeholder or copyholder in lieu of services that might otherwise have been required.", "S": [], "A": []}

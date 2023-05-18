@@ -1,0 +1,1 @@
+{"index": 221127, "D": "an omission or error due to carelessness", "S": ["lapse ", "mistake ", "neglect "], "A": ["achievement ", "success ", "accuracy ", "advantage ", "attention ", "correction ", "perfection "]}

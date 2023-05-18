@@ -1,0 +1,1 @@
+{"index": 263654, "D": "the act or process of recruiting. ", "S": ["business ", "contracting ", "enrollment ", "hiring ", "job ", "service ", "trade "], "A": ["fun ", "unemployment ", "avocation ", "entertainment ", "hobby ", "pastime ", "recreation ", "surrender "]}

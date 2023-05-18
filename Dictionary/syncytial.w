@@ -1,0 +1,1 @@
+{"index": 291433, "D": "a multinucleate mass of cytoplasm that is not separated into cells.", "S": [], "A": []}

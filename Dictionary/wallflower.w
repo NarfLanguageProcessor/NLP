@@ -1,0 +1,1 @@
+{"index": 362245, "D": "a person who, because of shyness, unpopularity, or lack of a partner, remains at the side at a party or dance.", "S": ["observer "], "A": ["extrovert "]}

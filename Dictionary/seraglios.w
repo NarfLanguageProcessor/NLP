@@ -1,0 +1,1 @@
+{"index": 285892, "D": "the part of a Muslim house or palace in which the wives and concubines are secluded; harem.", "S": ["concubines ", "purdah ", "serail "], "A": []}

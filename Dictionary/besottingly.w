@@ -1,0 +1,1 @@
+{"index": 32461, "D": "to intoxicate or stupefy with drink.", "S": [], "A": []}

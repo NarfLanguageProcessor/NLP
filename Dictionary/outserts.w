@@ -1,0 +1,1 @@
+{"index": 217394, "D": "an additional folded signature or sheet into which another is bound.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 368162, "D": "a wonder child or child prodigy.", "S": ["gifted person ", "intellectual genius ", "polymath ", "talented person ", "whiz kid "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 12554, "D": "in regard to; about; concerning.", "S": ["regarding ", "respecting ", "touching "], "A": []}

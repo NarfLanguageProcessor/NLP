@@ -1,0 +1,1 @@
+{"index": 65334, "D": "characterized by concinnity; elegant; harmonious; stylistically congruous.", "S": [], "A": []}

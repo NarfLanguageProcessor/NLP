@@ -1,0 +1,1 @@
+{"index": 88423, "D": "(of an economy) to slow down the rate of inflation.", "S": [], "A": []}

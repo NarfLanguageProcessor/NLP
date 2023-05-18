@@ -1,0 +1,1 @@
+{"index": 14944, "D": "an adherent of classicism  in literature or art (contrasted with romanticist).", "S": [], "A": []}

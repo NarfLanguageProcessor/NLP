@@ -1,0 +1,1 @@
+{"index": 273986, "D": "the first public showing of an aircraft.", "S": ["mount ", "rise ", "soar "], "A": ["decline ", "decrease ", "drop ", "fall ", "slump ", "descend ", "go down "]}

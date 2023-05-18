@@ -1,0 +1,1 @@
+{"index": 266977, "D": "a repository or receptacle for relics.", "S": ["arca "], "A": []}

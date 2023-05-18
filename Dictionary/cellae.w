@@ -1,0 +1,1 @@
+{"index": 50548, "D": "the principal enclosed chamber of a classical temple.", "S": [], "A": []}

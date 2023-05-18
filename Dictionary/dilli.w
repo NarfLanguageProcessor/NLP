@@ -1,0 +1,1 @@
+{"index": 85754, "D": "a city on NE Timor, the capital of East Timor.", "S": [], "A": []}

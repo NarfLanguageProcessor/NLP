@@ -1,0 +1,1 @@
+{"index": 193606, "D": "the branch of biology dealing with the form and structure of organisms.", "S": ["linguistic ", "semantic "], "A": ["solecistic ", "ungrammatical "]}

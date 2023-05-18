@@ -1,0 +1,1 @@
+{"index": 321822, "D": [], "S": ["brains ", "chitlins ", "chitterlings ", "giblets ", "gizzard ", "heart ", "kidneys ", "liver ", "marrow ", "mountain oyster ", "pancreas ", "prairie oyster ", "stomach ", "sweetbread ", "tongue ", "tripe "], "A": []}

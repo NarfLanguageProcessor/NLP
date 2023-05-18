@@ -1,0 +1,1 @@
+{"index": 59986, "D": "the highest or most intense point in the development or resolution of something; culmination", "S": ["capstone ", "turning point "], "A": ["base ", "bottom ", "foot ", "nadir "]}

@@ -1,0 +1,1 @@
+{"index": 308967, "D": "a member of the clergy in charge of a parish in the Protestant Episcopal Church.", "S": [], "A": []}

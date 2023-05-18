@@ -1,0 +1,1 @@
+{"index": 236140, "D": "to spend time in a wasteful, trifling, or ineffective way; dawdle (often followed by around)", "S": [], "A": []}

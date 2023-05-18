@@ -1,0 +1,1 @@
+{"index": 350692, "D": "not seemly;  not in keeping with established standards of taste or proper form; unbecoming or indecorous in appearance, speech, conduct, etc.", "S": ["inappropriate ", "indecent ", "tawdry ", "undignified ", "untoward "], "A": ["proper ", "suitable "]}

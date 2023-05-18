@@ -1,0 +1,1 @@
+{"index": 161750, "D": "one's neighbors, friends, business associates, etc.", "S": ["bag ", "bent ", "craving ", "dependence ", "enslavement ", "fixation ", "hang-up ", "hook ", "inclination ", "kick ", "monkey on one's back ", "obsession ", "shot ", "thing "], "A": ["indifference "]}

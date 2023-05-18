@@ -1,0 +1,1 @@
+{"index": 22109, "D": "an instrument for determining the presence and severity of astigmatism. ", "S": [], "A": []}

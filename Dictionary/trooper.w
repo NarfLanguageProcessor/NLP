@@ -1,0 +1,1 @@
+{"index": 331110, "D": "a horse-cavalry soldier.", "S": ["food for powder ", "fresh fish ", "militiaman "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 251622, "D": "a person or business that employs  one or more people, especially for wages or salary", "S": [], "A": []}

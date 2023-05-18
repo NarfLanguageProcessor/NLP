@@ -1,0 +1,1 @@
+{"index": 127302, "D": "a small carriage for young children to ride in; stroller.", "S": ["bus ", "car ", "chaise ", "charabanc ", "perambulator ", "stage ", "train ", "vehicle ", "victoria "], "A": ["player ", "pupil ", "student "]}

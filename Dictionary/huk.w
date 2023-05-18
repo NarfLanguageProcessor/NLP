@@ -1,0 +1,1 @@
+{"index": 144783, "D": "a member of the Hukbong Mapagpalaya ng Bayan (People's Liberation Army ), a Communist agrarian revolutionary group in central Luzon in the Philippines.", "S": [], "A": []}

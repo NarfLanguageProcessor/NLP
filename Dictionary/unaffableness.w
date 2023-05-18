@@ -1,0 +1,1 @@
+{"index": 334704, "D": "the quality of being pleasantly easy to approach and talk to; friendliness or warm politeness", "S": [], "A": []}

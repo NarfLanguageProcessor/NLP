@@ -1,0 +1,1 @@
+{"index": 362081, "D": "a period of waiting;  pause, interval, or delay.", "S": [], "A": []}

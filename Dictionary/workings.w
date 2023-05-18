@@ -1,0 +1,1 @@
+{"index": 367511, "D": "the act of a person or thing that works. ", "S": ["belly ", "entrails ", "innards "], "A": ["border ", "cowardice ", "exterior ", "exteriority ", "fear ", "margin ", "outside ", "periphery "]}

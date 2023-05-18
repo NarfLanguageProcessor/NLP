@@ -1,0 +1,1 @@
+{"index": 28288, "D": "a heavy barrier of artillery fire to protect one's own advancing or retreating troops or to stop the advance of enemy troops.", "S": ["blast ", "bombardment ", "fusillade ", "gunfire ", "hail ", "salvo ", "shelling ", "shower ", "storm ", "volley "], "A": []}

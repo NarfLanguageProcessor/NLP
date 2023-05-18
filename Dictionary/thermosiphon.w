@@ -1,0 +1,1 @@
+{"index": 321513, "D": "an arrangement of siphon  tubes that enables water in a heating apparatus to circulate by means of convection.", "S": [], "A": []}

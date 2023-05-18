@@ -1,0 +1,1 @@
+{"index": 127843, "D": "an opening through which eggs or sperm are released, especially in invertebrates.", "S": [], "A": []}

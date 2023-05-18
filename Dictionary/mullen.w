@@ -1,0 +1,1 @@
+{"index": 194939, "D": "any of various plants belonging to the genus Verbascum, of the figwort family, native to the Old World, especially V. thapsus, a tall plant with woolly leaves and a dense spike of yellow flowers.", "S": [], "A": []}

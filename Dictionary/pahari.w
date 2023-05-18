@@ -1,0 +1,1 @@
+{"index": 223052, "D": "one of several hill peoples inhabiting the area in India SW of the Ganges River.", "S": [], "A": []}

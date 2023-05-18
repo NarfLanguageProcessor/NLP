@@ -1,0 +1,1 @@
+{"index": 269207, "D": "to feel or show displeasure or indignation at (a person, act, remark, etc.) from a sense of injury or insult.", "S": ["dislike "], "A": ["be happy ", "like ", "love "]}

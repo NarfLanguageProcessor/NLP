@@ -1,0 +1,1 @@
+{"index": 216872, "D": "a male sovereign or monarch; a man who holds by life tenure, and usually by hereditary right, the chief authority over a country and people.", "S": [], "A": []}

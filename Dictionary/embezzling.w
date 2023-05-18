@@ -1,0 +1,1 @@
+{"index": 98070, "D": "to appropriate fraudulently to one's own use, as money or property entrusted to one's care.", "S": ["appropriate ", "filch ", "loot ", "misappropriate ", "misuse ", "pilfer ", "purloin ", "skim "], "A": ["give ", "receive "]}

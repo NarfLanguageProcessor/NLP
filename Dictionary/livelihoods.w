@@ -1,0 +1,1 @@
+{"index": 173945, "D": "a means of supporting one's existence, especially financially or vocationally; living", "S": ["employment ", "income ", "living ", "subsistence ", "sustenance "], "A": ["avocation ", "entertainment ", "fun ", "pastime ", "recreation ", "unemployment "]}

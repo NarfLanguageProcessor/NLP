@@ -1,0 +1,1 @@
+{"index": 4486, "D": "(of certain gemstones, especially adularia) having a milky, bluish luster.", "S": [], "A": []}

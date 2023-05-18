@@ -1,0 +1,1 @@
+{"index": 9436, "D": "offerings made to a church.", "S": [], "A": []}

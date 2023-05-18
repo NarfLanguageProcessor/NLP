@@ -1,0 +1,1 @@
+{"index": 35931, "D": "brilliant decoration or display", "S": ["coat ", "emblem ", "ensign ", "escutcheon ", "heraldry ", "insignia ", "shield ", "signet "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 213993, "D": "to deliver an oration;  speak pompously; declaim.", "S": ["address ", "expound ", "grandstand ", "lecture ", "moralize ", "pontificate ", "preach ", "sermonize ", "talk ", "vociferate "], "A": []}

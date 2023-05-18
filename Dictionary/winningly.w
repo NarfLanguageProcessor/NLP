@@ -1,0 +1,1 @@
+{"index": 366208, "D": "the act of a person or thing that wins. ", "S": ["admirably ", "attractively ", "beautifully ", "finely ", "happily ", "perfectly ", "pleasantly "], "A": ["badly ", "incorrectly ", "mistakenly ", "unfortunately ", "unsuccessfully ", "wrongly "]}

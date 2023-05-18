@@ -1,0 +1,1 @@
+{"index": 315930, "D": "a branching tropical plant, Amaranthus tricolor, of the amaranth family, cultivated in Asia as a green vegetable.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 7578, "D": "a mayor having judicial powers.", "S": [], "A": []}

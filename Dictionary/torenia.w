@@ -1,0 +1,1 @@
+{"index": 326083, "D": "any of several plants belonging to the genus Torenia, of the figwort family, native to Africa and Asia, having two-lipped, usually blue or purple flowers.", "S": [], "A": []}

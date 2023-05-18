@@ -1,0 +1,1 @@
+{"index": 96419, "D": "the lens or combination of lenses in an optical instrument through which the eye  views the image formed by the objective lens or lenses; ocular.", "S": [], "A": []}

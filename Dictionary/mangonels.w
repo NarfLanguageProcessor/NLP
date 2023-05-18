@@ -1,0 +1,1 @@
+{"index": 179190, "D": "(formerly) any of various military engines for throwing large stones, darts, and other missiles.", "S": [], "A": []}

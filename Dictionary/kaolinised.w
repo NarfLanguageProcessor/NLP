@@ -1,0 +1,1 @@
+{"index": 163116, "D": "to convert (minerals containing kaolinite) into kaolin  by weathering.", "S": [], "A": []}

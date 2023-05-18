@@ -1,0 +1,1 @@
+{"index": 260073, "D": "a dark band  in the solar spectrum caused by water vapor in the atmosphere.", "S": [], "A": []}

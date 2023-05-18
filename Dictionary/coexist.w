@@ -1,0 +1,1 @@
+{"index": 62103, "D": "to exist  together or at the same time.", "S": ["coincide ", "synchronize "], "A": []}

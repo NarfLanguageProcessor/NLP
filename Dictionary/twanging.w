@@ -1,0 +1,1 @@
+{"index": 333178, "D": "to give out a sharp, vibrating sound, as the string of a musical instrument when plucked.", "S": [], "A": []}

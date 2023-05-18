@@ -1,0 +1,1 @@
+{"index": 99481, "D": "to come upon or meet with, especially unexpectedly", "S": ["confrontation ", "interview ", "rendezvous "], "A": ["avoidance ", "evasion ", "retreat ", "surrender ", "yielding "]}

@@ -1,0 +1,1 @@
+{"index": 283758, "D": "occurring, done, or published every half year or twice a year; biannual. ", "S": ["biannual "], "A": []}

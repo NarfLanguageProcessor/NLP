@@ -1,0 +1,1 @@
+{"index": 304822, "D": "a stock; family or branch of a family; line of descent.", "S": ["ancestry ", "genetics ", "lineage "], "A": []}

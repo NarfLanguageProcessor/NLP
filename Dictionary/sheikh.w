@@ -1,0 +1,1 @@
+{"index": 287895, "D": "a high priest or religious leader, esp a Sufi master", "S": [], "A": []}

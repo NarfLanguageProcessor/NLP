@@ -1,0 +1,1 @@
+{"index": 140197, "D": "the state of being immune  from or insusceptible to a particular disease or the like.", "S": [], "A": []}

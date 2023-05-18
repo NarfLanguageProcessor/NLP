@@ -1,0 +1,1 @@
+{"index": 329508, "D": "the quality or condition of being trichromatic. ", "S": [], "A": []}

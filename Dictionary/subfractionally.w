@@ -1,0 +1,1 @@
+{"index": 308025, "D": "pertaining to fractions;  comprising a part or the parts of a unit; constituting a fraction", "S": [], "A": []}

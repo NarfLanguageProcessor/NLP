@@ -1,0 +1,1 @@
+{"index": 131805, "D": "to accustom (a person, the mind, etc.), as to a particular situation", "S": ["abiding ", "accustomed ", "confirmed ", "continuing ", "enduring ", "fixed ", "ingrained ", "lasting ", "lingering "], "A": ["ephemeral ", "fleeting ", "indefinite ", "transient "]}

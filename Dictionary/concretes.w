@@ -1,0 +1,1 @@
+{"index": 65451, "D": "Compare reinforced concrete. ", "S": ["asphalt ", "road ", "sidewalk "], "A": []}

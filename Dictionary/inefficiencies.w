@@ -1,0 +1,1 @@
+{"index": 151496, "D": "the quality or condition of being inefficient;  lack of efficiency.", "S": ["carelessness ", "disorganization ", "inability "], "A": []}

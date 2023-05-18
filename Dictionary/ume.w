@@ -1,0 +1,1 @@
+{"index": 334250, "D": "a river in N Sweden, flowing SE from the W border to the Gulf of Bothnia. Aabout 285 miles (460 km) long.", "S": [], "A": []}

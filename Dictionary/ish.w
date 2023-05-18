@@ -1,0 +1,1 @@
+{"index": 158653, "D": "(used to modify or moderate something previously stated or as a vague reply to a question) somewhat; in a way; not exactly", "S": [], "A": []}

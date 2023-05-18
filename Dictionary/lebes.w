@@ -1,0 +1,1 @@
+{"index": 169777, "D": "a wine bowl having an oval body without handles and a rounded base.", "S": [], "A": []}

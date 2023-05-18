@@ -1,0 +1,1 @@
+{"index": 302885, "D": "a religious teacher or counselor.", "S": ["elder ", "important person ", "mentor ", "national leader ", "wise old man "], "A": []}

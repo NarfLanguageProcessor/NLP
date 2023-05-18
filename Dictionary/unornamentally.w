@@ -1,0 +1,1 @@
+{"index": 347254, "D": "used or grown for ornament", "S": [], "A": []}

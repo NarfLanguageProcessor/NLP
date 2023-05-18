@@ -1,0 +1,1 @@
+{"index": 179973, "D": "a cocktail made of tequila, lime or lemon juice, and an orange-flavored liqueur, usually served in a salt-rimmed glass.", "S": [], "A": []}

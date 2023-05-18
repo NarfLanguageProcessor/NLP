@@ -1,0 +1,1 @@
+{"index": 83427, "D": "being between two persons in intimate relationship", "S": [], "A": []}

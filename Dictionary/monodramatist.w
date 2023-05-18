@@ -1,0 +1,1 @@
+{"index": 192267, "D": "a dramatic piece for only one performer.", "S": [], "A": []}

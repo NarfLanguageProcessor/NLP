@@ -1,0 +1,1 @@
+{"index": 335346, "D": "adopted in order to deceive; fictitious; pretended; feigned", "S": ["easy ", "genuine ", "instinctive ", "real ", "simple "], "A": ["complex ", "complicated ", "difficult ", "dishonest ", "false ", "intricate ", "cultured ", "metropolitan ", "modern ", "sophisticated "]}

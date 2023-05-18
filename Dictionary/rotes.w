@@ -1,0 +1,1 @@
+{"index": 274644, "D": "proceeding mechanically and repetitiously; being mechanical and repetitious in nature; routine; habitual", "S": ["memorization ", "repetition ", "routine "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 341208, "D": "not employed; without a job; out of work", "S": ["idle ", "inactive ", "jobless ", "underemployed "], "A": ["active ", "busy ", "working "]}

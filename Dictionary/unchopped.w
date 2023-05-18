@@ -1,0 +1,1 @@
+{"index": 336840, "D": "diced, minced, or cut into small bits.", "S": [], "A": []}

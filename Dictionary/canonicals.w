@@ -1,0 +1,1 @@
+{"index": 46492, "D": "the vestments worn by clergy when officiating", "S": [], "A": []}

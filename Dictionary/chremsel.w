@@ -1,0 +1,1 @@
+{"index": 55971, "D": "a flat cake made from matzo meal, topped or stuffed with a filling, as of ground meat or fruit and nuts.", "S": [], "A": []}

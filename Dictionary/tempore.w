@@ -1,0 +1,1 @@
+{"index": 318596, "D": "temporarily; for the time being.", "S": [], "A": []}

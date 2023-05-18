@@ -1,0 +1,1 @@
+{"index": 194759, "D": "a thick, tubular case for the hands, covered with fur or other material, used by women and girls for warmth and as a handbag.", "S": ["botch ", "flub ", "fumble ", "mishandle "], "A": ["do well ", "correct "]}

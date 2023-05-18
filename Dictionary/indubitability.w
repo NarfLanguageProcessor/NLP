@@ -1,0 +1,1 @@
+{"index": 151300, "D": "that cannot be doubted; patently evident or certain; unquestionable.", "S": [], "A": []}

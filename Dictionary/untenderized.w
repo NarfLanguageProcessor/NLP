@@ -1,0 +1,1 @@
+{"index": 352809, "D": "to make (meat) tender,  as by pounding or by a chemical process or treatment.", "S": [], "A": []}

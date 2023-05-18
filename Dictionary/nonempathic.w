@@ -1,0 +1,1 @@
+{"index": 203476, "D": "relating to or characterized by empathy,  the psychological identification with the emotions, thoughts, or attitudes of others", "S": [], "A": []}

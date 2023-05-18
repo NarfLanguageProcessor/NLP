@@ -1,0 +1,1 @@
+{"index": 167097, "D": "any of a group of internal esters derived from hydroxy acids.", "S": [], "A": []}

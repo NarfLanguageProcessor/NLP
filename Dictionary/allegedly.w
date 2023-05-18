@@ -1,0 +1,1 @@
+{"index": 8582, "D": "according to what is or has been alleged. ", "S": ["purportedly ", "supposedly "], "A": []}

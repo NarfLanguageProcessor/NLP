@@ -1,0 +1,1 @@
+{"index": 146407, "D": "of or relating to ideology. ", "S": ["abstract ", "academic ", "analytical ", "as a premise ", "assumed ", "codified ", "conjectural ", "contingent ", "formalistic ", "formularized ", "general ", "hypothetical ", "ideal ", "idealized ", "ideational ", "imaginative ", "impractical ", "in the abstract ", "in theory ", "instanced ", "intelle "], "A": []}

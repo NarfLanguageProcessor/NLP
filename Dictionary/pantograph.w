@@ -1,0 +1,1 @@
+{"index": 224987, "D": "an instrument for the mechanical copying of plans, diagrams, etc., on any desired scale.", "S": ["live rail ", "overhead wires "], "A": []}

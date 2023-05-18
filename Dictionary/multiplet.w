@@ -1,0 +1,1 @@
+{"index": 195253, "D": "a group of several related spectral lines, usually of nearly the same wavelengths.", "S": [], "A": []}

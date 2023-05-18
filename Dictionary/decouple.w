@@ -1,0 +1,1 @@
+{"index": 78718, "D": "to cause to become separated, disconnected, or divergent; uncouple.", "S": [], "A": []}

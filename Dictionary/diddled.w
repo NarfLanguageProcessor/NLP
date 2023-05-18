@@ -1,0 +1,1 @@
+{"index": 85047, "D": "to cheat; swindle; hoax.", "S": ["dally ", "dawdle ", "diddle-daddle ", "loiter ", "tarry "], "A": ["hurry "]}

@@ -1,0 +1,1 @@
+{"index": 145412, "D": "an encampment of huts. ", "S": [], "A": []}

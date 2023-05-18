@@ -1,0 +1,1 @@
+{"index": 278438, "D": "a reddish-brown chalcedony, used as a gem.", "S": [], "A": []}

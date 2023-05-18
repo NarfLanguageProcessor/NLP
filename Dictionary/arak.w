@@ -1,0 +1,1 @@
+{"index": 18400, "D": "any of various spirituous liquors distilled in the East Indies and other parts of the East and Middle East from the fermented sap of toddy palms, or from fermented molasses, rice, or other materials.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 339433, "D": "a person who installs or repairs telephone, telegraph, or other wires.", "S": [], "A": []}

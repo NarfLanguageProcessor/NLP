@@ -1,0 +1,1 @@
+{"index": 199632, "D": "a hard, silvery-white, ductile and malleable metallic element, allied to iron and cobalt, not readily oxidized", "S": ["anodize ", "bronze ", "chrome ", "cover ", "electroplate ", "enamel ", "encrust ", "face ", "flake ", "foil ", "gild ", "laminate ", "layer ", "nickel ", "overlay ", "platinize ", "scale ", "silver ", "stratify "], "A": []}

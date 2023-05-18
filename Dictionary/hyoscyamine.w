@@ -1,0 +1,1 @@
+{"index": 139769, "D": "a poisonous alkaloid, C17H23NO3, obtained from henbane and other solanaceous plants, used as a sedative, analgesic, mydriatic, and antispasmodic.", "S": [], "A": []}

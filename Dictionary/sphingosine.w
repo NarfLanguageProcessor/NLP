@@ -1,0 +1,1 @@
+{"index": 299600, "D": "a basic unsaturated amino alcohol, C18H33(OH)2NH2, produced by the hydrolysis of sphingomyelin or gangliosides.", "S": [], "A": []}

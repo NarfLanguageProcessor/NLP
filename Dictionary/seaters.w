@@ -1,0 +1,1 @@
+{"index": 282611, "D": "a person or thing that seats. ", "S": [], "A": []}

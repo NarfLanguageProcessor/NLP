@@ -1,0 +1,1 @@
+{"index": 213560, "D": "of, relating to, or of the nature of opinion. ", "S": ["adamant ", "dogmatic ", "headstrong ", "inflexible ", "intransigent ", "recalcitrant ", "steadfast ", "tenacious ", "unyielding ", "willful "], "A": ["amenable ", "flexible ", "obedient ", "pliant ", "soft ", "submissive ", "surrendering ", "willing ", "yielding ", "irresolute "]}

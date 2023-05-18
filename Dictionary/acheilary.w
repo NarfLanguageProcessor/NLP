@@ -1,0 +1,1 @@
+{"index": 2220, "D": "having no labellum or lip, or one that is undeveloped, as in the flower of certain orchids.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 26107, "D": "the examination of bacteria with a microscope.", "S": [], "A": []}

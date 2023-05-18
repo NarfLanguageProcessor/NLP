@@ -1,0 +1,1 @@
+{"index": 140709, "D": "of or relating to a state resembling sleep or hypnosis", "S": [], "A": []}

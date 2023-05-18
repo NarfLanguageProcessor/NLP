@@ -1,0 +1,1 @@
+{"index": 254156, "D": "exceptional valor, bravery, or ability, especially in combat or battle.", "S": ["accomplishment ", "aptitude ", "dexterity ", "excellence ", "expertise ", "genius ", "mastery ", "readiness ", "talent "], "A": ["failure ", "inability ", "incapacity ", "lack "]}

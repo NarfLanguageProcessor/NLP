@@ -1,0 +1,1 @@
+{"index": 151819, "D": "the persistence in an adult of markedly childish anatomical, physiological, or psychological characteristics.", "S": ["ignorance "], "A": []}

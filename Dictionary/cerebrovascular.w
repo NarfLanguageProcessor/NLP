@@ -1,0 +1,1 @@
+{"index": 51442, "D": "of, relating to, or affecting the cerebrum and its associated blood vessels.", "S": [], "A": []}

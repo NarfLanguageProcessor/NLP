@@ -1,0 +1,1 @@
+{"index": 171689, "D": "of, relating to, or resembling a lichen. ", "S": [], "A": []}

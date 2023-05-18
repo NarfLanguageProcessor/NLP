@@ -1,0 +1,1 @@
+{"index": 178617, "D": "of or derived from malonic acid;  propanedioic.", "S": [], "A": []}

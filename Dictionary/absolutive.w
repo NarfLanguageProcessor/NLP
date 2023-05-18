@@ -1,0 +1,1 @@
+{"index": 998, "D": "noting or pertaining to the grammatical case or inflectional form of the subject of an intransitive verb and the direct object of a transitive verb in an ergative language such as Inuit.", "S": [], "A": []}

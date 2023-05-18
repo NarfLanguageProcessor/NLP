@@ -1,0 +1,1 @@
+{"index": 108633, "D": "a premature contraction of the heart, resulting in momentary interruption of the normal heartbeat.", "S": [], "A": []}

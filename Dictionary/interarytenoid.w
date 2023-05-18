@@ -1,0 +1,1 @@
+{"index": 154474, "D": "pertaining to either of two small cartilages on top of the cricoid cartilage at the upper, back part of the larynx.", "S": [], "A": []}

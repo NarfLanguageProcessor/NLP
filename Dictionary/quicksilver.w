@@ -1,0 +1,1 @@
+{"index": 258516, "D": "the metallic element mercury.", "S": ["capricious ", "changeable ", "flighty ", "temperamental ", "unpredictable ", "unstable ", "volatile "], "A": ["constant ", "stable ", "steadfast ", "steady "]}

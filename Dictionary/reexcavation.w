@@ -1,0 +1,1 @@
+{"index": 264854, "D": "a hole or cavity made by excavating. ", "S": [], "A": []}

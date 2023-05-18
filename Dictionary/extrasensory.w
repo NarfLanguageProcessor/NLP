@@ -1,0 +1,1 @@
+{"index": 108626, "D": "outside one's normal sense perception.", "S": ["visionary "], "A": []}

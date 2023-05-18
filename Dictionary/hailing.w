@@ -1,0 +1,1 @@
+{"index": 132335, "D": "to cheer, salute, or greet; welcome. ", "S": ["apology ", "appreciation ", "confession ", "gratitude ", "reaction ", "response "], "A": ["criticism ", "question ", "disapproval ", "request "]}

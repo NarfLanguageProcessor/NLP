@@ -1,0 +1,1 @@
+{"index": 259225, "D": "the beliefs, practices, and precepts of the rabbis of the Talmudic period.", "S": [], "A": []}

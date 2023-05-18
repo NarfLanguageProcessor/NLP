@@ -1,0 +1,1 @@
+{"index": 346997, "D": "to confuse, bewilder, or stupefy.", "S": [], "A": []}

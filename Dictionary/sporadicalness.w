@@ -1,0 +1,1 @@
+{"index": 300924, "D": "(of similar things or occurrences) appearing or happening at irregular intervals in time; occasional", "S": [], "A": []}

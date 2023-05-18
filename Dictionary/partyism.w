@@ -1,0 +1,1 @@
+{"index": 227066, "D": "adherence to a political party  or organization.", "S": [], "A": []}

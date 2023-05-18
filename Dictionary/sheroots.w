@@ -1,0 +1,1 @@
+{"index": 288115, "D": "a cigar having open, untapered ends.", "S": [], "A": []}

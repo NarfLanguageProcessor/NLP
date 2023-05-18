@@ -1,0 +1,1 @@
+{"index": 50843, "D": "any line  that bisects a plane figure", "S": [], "A": []}

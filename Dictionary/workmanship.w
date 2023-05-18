@@ -1,0 +1,1 @@
+{"index": 367525, "D": "the art or skill of a workman  or workwoman.", "S": ["artistry ", "handiwork "], "A": ["ignorance "]}

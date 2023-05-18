@@ -1,0 +1,1 @@
+{"index": 198751, "D": "brashly presumptuous or insolent; pushy", "S": [], "A": []}

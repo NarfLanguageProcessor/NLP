@@ -1,0 +1,1 @@
+{"index": 27333, "D": "having crooked legs; bowlegged.", "S": [], "A": []}

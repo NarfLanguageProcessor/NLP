@@ -1,0 +1,1 @@
+{"index": 65435, "D": "an assemblage; gathering", "S": ["foyer ", "lounge "], "A": []}

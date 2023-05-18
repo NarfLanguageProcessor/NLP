@@ -1,0 +1,1 @@
+{"index": 112795, "D": "foul with, characterized by, or having the nature of filth;  disgustingly or completely dirty.", "S": [], "A": []}

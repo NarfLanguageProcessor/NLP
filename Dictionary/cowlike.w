@@ -1,0 +1,1 @@
+{"index": 71628, "D": "the mature female of a bovine animal, especially of the genus Bos.", "S": [], "A": []}

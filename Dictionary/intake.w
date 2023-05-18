@@ -1,0 +1,1 @@
+{"index": 154193, "D": "the place or opening at which a fluid is taken into a channel, pipe, etc.", "S": ["absorption "], "A": []}

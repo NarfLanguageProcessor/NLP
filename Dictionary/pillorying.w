@@ -1,0 +1,1 @@
+{"index": 236703, "D": "a wooden framework erected on a post, with holes for securing the head and hands, formerly used to expose an offender to public derision.", "S": [], "A": []}

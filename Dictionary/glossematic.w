@@ -1,0 +1,1 @@
+{"index": 126660, "D": "a school of linguistic analysis developed by Louis Hjelmslev (1899\u20131965) in Copenhagen in the 1930s based on the study of the distribution of glossemes.", "S": [], "A": []}

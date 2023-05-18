@@ -1,0 +1,1 @@
+{"index": 328338, "D": "of or relating to the stars; consisting of stars.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 151235, "D": "the quality or state of being indolent. ", "S": ["disinclination ", "idleness ", "laziness ", "procrastination "], "A": ["diligence ", "industry "]}

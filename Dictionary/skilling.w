@@ -1,0 +1,1 @@
+{"index": 293200, "D": "a former silver coin of Denmark, Sweden, and the Danish West Indies.", "S": [], "A": []}

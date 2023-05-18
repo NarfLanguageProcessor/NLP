@@ -1,0 +1,1 @@
+{"index": 148072, "D": "not mortal; not liable or subject to death; undying", "S": ["endless ", "enduring ", "eternal ", "everlasting ", "indestructible ", "never-ending ", "timeless "], "A": ["ceasing ", "ending ", "stopping ", "temporary ", "terminable ", "transient ", "interrupted "]}

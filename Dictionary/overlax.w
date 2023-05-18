@@ -1,0 +1,1 @@
+{"index": 220026, "D": "not strict or severe; careless or negligent", "S": [], "A": []}

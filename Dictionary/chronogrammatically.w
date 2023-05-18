@@ -1,0 +1,1 @@
+{"index": 56437, "D": "an inscription in which certain Roman numeral letters express a date or epoch on being added together by their values.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 122400, "D": "a mixture of gasoline  and ethyl alcohol,  generally containing no more than 10 percent alcohol,  used as an alternative fuel for some automobiles.", "S": ["diesel fuel ", "juice ", "oil ", "petrol "], "A": []}

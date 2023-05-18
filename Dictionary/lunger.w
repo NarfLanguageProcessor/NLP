@@ -1,0 +1,1 @@
+{"index": 176217, "D": "a person who has chronic lung  disease, especially tuberculosis.", "S": [], "A": []}

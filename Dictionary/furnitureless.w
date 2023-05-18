@@ -1,0 +1,1 @@
+{"index": 120474, "D": "the movable articles, as tables, chairs, desks or cabinets, required for use or ornament in a house, office, or the like.", "S": [], "A": []}

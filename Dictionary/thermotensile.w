@@ -1,0 +1,1 @@
+{"index": 321538, "D": "of or relating to tensile strength in so far as it is affected by temperature", "S": [], "A": []}

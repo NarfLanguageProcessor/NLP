@@ -1,0 +1,1 @@
+{"index": 320740, "D": "of or relating to the theater  or dramatic presentations", "S": ["acting ", "exhibitionism ", "histrionics ", "stagecraft ", "staginess ", "theatricality ", "theatrics "], "A": []}

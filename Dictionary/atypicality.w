@@ -1,0 +1,1 @@
+{"index": 22647, "D": "not typical;  not conforming to the type; irregular; abnormal", "S": [], "A": []}

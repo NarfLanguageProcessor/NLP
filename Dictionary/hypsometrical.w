@@ -1,0 +1,1 @@
+{"index": 141543, "D": "vertical control in mapping; the establishment of elevations or altitudes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 297916, "D": "any thing or place from which something comes, arises, or is obtained; origin", "S": [], "A": []}

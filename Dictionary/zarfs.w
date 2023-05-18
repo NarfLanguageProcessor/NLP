@@ -1,0 +1,1 @@
+{"index": 368913, "D": "(in the Levant) a holder, usually of ornamental metal, for a coffee cup without a handle.", "S": [], "A": []}

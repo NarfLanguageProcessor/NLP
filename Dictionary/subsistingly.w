@@ -1,0 +1,1 @@
+{"index": 309215, "D": "to exist; continue in existence.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 142223, "D": "the plural of hoe  or ho. ", "S": ["bore ", "bulldoze ", "burrow ", "clean ", "discover ", "dredge ", "drill ", "enter ", "excavate ", "exhume ", "go into ", "gouge ", "harvest ", "penetrate ", "scoop ", "search ", "shovel ", "sift ", "uncover ", "unearth "], "A": ["bury ", "cover ", "fill "]}

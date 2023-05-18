@@ -1,0 +1,1 @@
+{"index": 37944, "D": "a hat, usually tying under the chin and often framing the face, formerly much worn by women but now worn mostly by children.", "S": ["cap ", "capote ", "chapeau ", "coronet ", "cover ", "headdress ", "headgear ", "hood "], "A": []}

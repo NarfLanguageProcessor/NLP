@@ -1,0 +1,1 @@
+{"index": 76451, "D": "the Dales (sometimes not capital) short for the Yorkshire Dales", "S": ["dell ", "dingle ", "glen ", "ravine ", "spout ", "trough ", "vale "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 125937, "D": "a very harsh, bright, dazzling light", "S": ["flame ", "glow "], "A": ["dullness ", "grin ", "smile "]}

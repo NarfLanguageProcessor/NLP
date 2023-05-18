@@ -1,0 +1,1 @@
+{"index": 285198, "D": "a money of account of Japan, one 100th of a yen, now used only in certain quotations, as on foreign exchange.", "S": [], "A": []}

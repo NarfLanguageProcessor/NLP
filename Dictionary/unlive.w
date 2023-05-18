@@ -1,0 +1,1 @@
+{"index": 345699, "D": "to undo or reverse (past life, experiences, etc.)", "S": [], "A": []}

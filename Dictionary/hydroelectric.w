@@ -1,0 +1,1 @@
+{"index": 138631, "D": "pertaining to the generation and distribution of electricity derived from the energy of falling water or any other hydraulic source.", "S": [], "A": []}

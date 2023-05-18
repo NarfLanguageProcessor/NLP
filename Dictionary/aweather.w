@@ -1,0 +1,1 @@
+{"index": 24987, "D": "upon or toward the weather  side of a vessel; in the direction of the wind (opposed to alee).", "S": [], "A": []}

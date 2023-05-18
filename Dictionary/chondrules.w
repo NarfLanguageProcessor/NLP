@@ -1,0 +1,1 @@
+{"index": 55642, "D": "a small round mass of olivine or pyroxene found in stony meteorites.", "S": [], "A": []}

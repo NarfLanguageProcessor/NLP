@@ -1,0 +1,1 @@
+{"index": 289714, "D": "an epithet of Buddha meaning \u201che who has attained his goal.\u201d", "S": [], "A": []}

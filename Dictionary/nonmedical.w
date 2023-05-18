@@ -1,0 +1,1 @@
+{"index": 205214, "D": "not of, relating to, or using medical theory or practice", "S": [], "A": []}

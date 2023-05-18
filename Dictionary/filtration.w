@@ -1,0 +1,1 @@
+{"index": 112806, "D": "the act or process of filtering", "S": [], "A": []}

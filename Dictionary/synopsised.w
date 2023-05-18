@@ -1,0 +1,1 @@
+{"index": 291961, "D": "to make a synopsis  of; summarize.", "S": [], "A": []}

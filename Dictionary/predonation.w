@@ -1,0 +1,1 @@
+{"index": 247139, "D": "an act or instance of presenting something as a gift, grant, or contribution.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288312, "D": "a thin slip or wedge of metal, wood, etc., for driving into crevices, as between machine parts to compensate for wear, or beneath bedplates, large stones, etc., to level them.", "S": ["dressing ", "layer ", "mixture ", "stuffing "], "A": ["exteriority ", "outside "]}

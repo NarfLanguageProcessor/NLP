@@ -1,0 +1,1 @@
+{"index": 268674, "D": "reproduction (def. 3). ", "S": ["impression "], "A": ["hypothesis ", "theory "]}

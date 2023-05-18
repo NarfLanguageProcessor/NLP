@@ -1,0 +1,1 @@
+{"index": 156048, "D": "interwoven or ornamented with threads", "S": [], "A": []}

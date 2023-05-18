@@ -1,0 +1,1 @@
+{"index": 189100, "D": "a criminal offense defined as less serious than a felony.", "S": ["offense ", "transgression ", "violation "], "A": ["obedience "]}

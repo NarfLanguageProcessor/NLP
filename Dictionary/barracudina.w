@@ -1,0 +1,1 @@
+{"index": 28283, "D": "any of several slender, large-mouthed, pelagic fishes of the family Paralepididae.", "S": [], "A": []}

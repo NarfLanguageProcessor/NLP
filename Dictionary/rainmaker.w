@@ -1,0 +1,1 @@
+{"index": 260105, "D": "(among American Indians) a medicine man who by various rituals and incantations seeks to cause rain. ", "S": ["battery ", "cannon ", "ordnance "], "A": []}

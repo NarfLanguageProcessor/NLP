@@ -1,0 +1,1 @@
+{"index": 48265, "D": "of or relating to flesh; fleshy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 18502, "D": "a powerful medieval crossbow with a steel bow, used to shoot stones, metal balls, arrows, etc.", "S": [], "A": []}

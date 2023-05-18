@@ -1,0 +1,1 @@
+{"index": 126774, "D": "to scowl or frown.", "S": [], "A": []}

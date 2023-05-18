@@ -1,0 +1,1 @@
+{"index": 9994, "D": "doubtfulness or uncertainty of meaning or intention", "S": ["doubt ", "uncertainty ", "vagueness "], "A": ["certainty "]}

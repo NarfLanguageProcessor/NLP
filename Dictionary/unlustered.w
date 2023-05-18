@@ -1,0 +1,1 @@
+{"index": 345859, "D": "having or finished with a luster. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 213823, "D": "to make as effective, perfect, or useful as possible.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 134827, "D": "a person, event, or thing causing heartbreak. ", "S": ["Casanova ", "Lothario ", "Prince Charming ", "Romeo ", "charmer ", "ladies' man ", "lady-killer ", "libertine ", "lover ", "philanderer ", "playboy ", "rake ", "rou\u00e9 ", "seducer ", "skirt chaser ", "smooth operator ", "stud ", "wolf ", "woman chaser "], "A": []}

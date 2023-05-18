@@ -1,0 +1,1 @@
+{"index": 168352, "D": "a small stony particle ejected from a volcano.", "S": [], "A": []}

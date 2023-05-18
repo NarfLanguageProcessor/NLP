@@ -1,0 +1,1 @@
+{"index": 167361, "D": "(in tonic sol-fa) the sixth note of any major scale; submediant", "S": [], "A": []}

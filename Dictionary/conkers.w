@@ -1,0 +1,1 @@
+{"index": 66468, "D": "a game in which a player swings a horse chestnut (conker), threaded onto a string, against that of another player to try to break it", "S": [], "A": []}

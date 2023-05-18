@@ -1,0 +1,1 @@
+{"index": 77122, "D": "a member of the Asuras, survivors of the ancient culture of Harappa", "S": [], "A": []}

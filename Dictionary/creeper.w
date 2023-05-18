@@ -1,0 +1,1 @@
+{"index": 72553, "D": "a person or thing that creeps.", "S": ["climber "], "A": []}

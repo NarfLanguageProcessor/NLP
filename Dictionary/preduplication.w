@@ -1,0 +1,1 @@
+{"index": 247171, "D": "an act or instance of duplicating. ", "S": [], "A": []}

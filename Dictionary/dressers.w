@@ -1,0 +1,1 @@
+{"index": 92982, "D": "a dressing table  or bureau. ", "S": ["closet ", "wardrobe "], "A": []}

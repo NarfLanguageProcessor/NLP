@@ -1,0 +1,1 @@
+{"index": 37926, "D": "mentally unbalanced; mad; crazy.", "S": ["bananas ", "bats ", "crazy ", "gaga ", "loony "], "A": ["sane "]}

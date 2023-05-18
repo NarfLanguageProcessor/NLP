@@ -1,0 +1,1 @@
+{"index": 266383, "D": "to put in place and connect (machinery, equipment, etc) again", "S": [], "A": []}

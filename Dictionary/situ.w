@@ -1,0 +1,1 @@
+{"index": 292660, "D": "situated in the original, natural, or existing place or position", "S": [], "A": []}

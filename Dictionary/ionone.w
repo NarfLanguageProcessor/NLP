@@ -1,0 +1,1 @@
+{"index": 157672, "D": "a light-yellow to colorless, slightly water-soluble liquid that is either one or a mixture of two unsaturated ketones having the formula C13H20O, used chiefly in perfumery.", "S": [], "A": []}

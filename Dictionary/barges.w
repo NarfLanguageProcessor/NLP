@@ -1,0 +1,1 @@
+{"index": 27969, "D": "a capacious, flat-bottomed vessel, usually intended to be pushed or towed, for transporting freight or passengers; lighter.", "S": ["raft "], "A": []}

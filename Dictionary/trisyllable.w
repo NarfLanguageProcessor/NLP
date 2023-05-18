@@ -1,0 +1,1 @@
+{"index": 330579, "D": "a word of three syllables, as pendulum.", "S": [], "A": []}

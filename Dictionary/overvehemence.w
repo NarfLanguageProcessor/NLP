@@ -1,0 +1,1 @@
+{"index": 221745, "D": "the quality of being vehement;  ardor; fervor.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 316030, "D": "in a way that barely touches or involves someone or something", "S": [], "A": []}

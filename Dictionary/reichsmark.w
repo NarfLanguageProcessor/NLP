@@ -1,0 +1,1 @@
+{"index": 266065, "D": "Compare Deutsche mark, mark2 (def. 1), ostmark. ", "S": [], "A": []}

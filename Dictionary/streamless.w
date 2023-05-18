@@ -1,0 +1,1 @@
+{"index": 305986, "D": "a body of water flowing in a channel or watercourse, as a river, rivulet, or brook.", "S": [], "A": []}

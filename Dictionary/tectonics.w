@@ -1,0 +1,1 @@
+{"index": 317722, "D": "the science or art of assembling, shaping, or ornamenting materials in construction; the constructive arts in general.", "S": [], "A": []}

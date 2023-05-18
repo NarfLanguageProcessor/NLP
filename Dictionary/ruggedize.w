@@ -1,0 +1,1 @@
+{"index": 275411, "D": "to construct (electronic equipment, cameras, and other delicate instruments) so as to be resistant to shock, vibration, etc.", "S": [], "A": []}

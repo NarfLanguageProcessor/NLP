@@ -1,0 +1,1 @@
+{"index": 136759, "D": "the number seven.", "S": ["hebdomad ", "septenary "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 289419, "D": "another word (esp Brit) for formwork", "S": ["shield "], "A": ["abandon ", "disregard ", "endanger ", "expose ", "forget ", "harm ", "hurt ", "ignore ", "injure ", "join ", "lay bare ", "loose ", "open ", "reveal ", "show ", "surrender ", "tell ", "uncover ", "unmask "]}

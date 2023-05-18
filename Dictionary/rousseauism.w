@@ -1,0 +1,1 @@
+{"index": 274924, "D": "the doctrines or principles of Jean Jacques Rousseau  or his adherents.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 139594, "D": "belonging or pertaining to the Hymenoptera, an order of insects having, when winged, four membranous wings, and comprising the wasps, bees, ants, ichneumon flies, and sawflies.", "S": [], "A": []}

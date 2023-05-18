@@ -1,0 +1,1 @@
+{"index": 191853, "D": "an investor; angel; backer.", "S": [], "A": []}

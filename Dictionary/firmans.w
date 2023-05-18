@@ -1,0 +1,1 @@
+{"index": 113255, "D": "an edict or administrative order issued by or in the name of a Middle Eastern sovereign (formerly by an Ottoman Turkish sultan).", "S": [], "A": []}

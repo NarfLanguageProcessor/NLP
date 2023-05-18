@@ -1,0 +1,1 @@
+{"index": 55136, "D": "a chemical compound containing carbon  and chlorine, as carbon tetrachloride,  or containing carbon,  chlorine, and hydrogen, as chloroform.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310914, "D": "to make a summary  of; state or express in a concise form.", "S": ["broadcasting ", "coverage "], "A": []}

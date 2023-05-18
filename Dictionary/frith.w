@@ -1,0 +1,1 @@
+{"index": 119140, "D": "a variant of firth", "S": ["anchorage ", "arm ", "bay ", "bayou ", "bight ", "cave ", "cavern ", "creek ", "estuary ", "firth ", "gulf ", "harbor ", "hole ", "lagoon ", "nook ", "retreat ", "slough ", "sound ", "wash "], "A": []}

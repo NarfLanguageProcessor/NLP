@@ -1,0 +1,1 @@
+{"index": 58761, "D": "a common virus of the herpesvirus family, usually harmless or causing mild colds but capable of producing severe systemic damage in infected newborns and immunosuppressed persons. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 238092, "D": "a basin with a drain used for certain ablutions, now generally in the sacristy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 323247, "D": "to touch or stroke lightly with the fingers, a feather, etc., so as to excite a tingling or itching sensation in; titillate.", "S": ["caressing ", "stroking ", "titillation "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 165755, "D": "a junk pitch  that moves erratically toward home plate, usually delivered by holding the ball between the thumb and the knuckles of the first joints of the first two or three fingers", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111295, "D": "a person invested with a fief.", "S": [], "A": []}

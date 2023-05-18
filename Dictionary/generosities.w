@@ -1,0 +1,1 @@
+{"index": 123511, "D": "readiness or liberality in giving.", "S": ["goodness ", "hospitality ", "kindness ", "largesse ", "unselfishness "], "A": ["meanness ", "malevolence ", "selfishness ", "unkindness "]}

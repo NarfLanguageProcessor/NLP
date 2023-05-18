@@ -1,0 +1,1 @@
+{"index": 276851, "D": "farewell; goodbye.", "S": ["adieu ", "adios ", "arrivederci ", "bye ", "bye-bye ", "cheerio ", "good day ", "so long "], "A": ["hello "]}

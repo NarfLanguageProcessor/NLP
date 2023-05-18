@@ -1,0 +1,1 @@
+{"index": 335501, "D": "to declare frankly or openly; assert; confess; admit", "S": [], "A": []}

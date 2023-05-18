@@ -1,0 +1,1 @@
+{"index": 331653, "D": "to tie, bind, or fasten.", "S": ["bracket ", "prop ", "reinforcement ", "support ", "supporter ", "trussing "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 79239, "D": "the act of deferring  or putting something off until later; postponement", "S": ["adjournment ", "delay ", "holdover ", "moratorium ", "pause ", "putting off ", "stay ", "suspension "], "A": ["advance ", "expedition ", "forging "]}

@@ -1,0 +1,1 @@
+{"index": 94476, "D": "one of an American breed of hardy red hogs having drooping ears.", "S": [], "A": []}

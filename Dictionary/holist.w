@@ -1,0 +1,1 @@
+{"index": 142459, "D": "Compare organicism (def. 1). ", "S": [], "A": []}

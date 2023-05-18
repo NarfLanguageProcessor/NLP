@@ -1,0 +1,1 @@
+{"index": 52131, "D": "a nontechnical term for Biblical Aramaic, which was once believed to be the language of the ancient Chaldeans", "S": [], "A": []}

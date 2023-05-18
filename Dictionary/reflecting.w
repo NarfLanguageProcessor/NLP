@@ -1,0 +1,1 @@
+{"index": 265120, "D": "casting back light, heat, sound, etc., from a surface", "S": ["introspective ", "meditative ", "pensive ", "reflective ", "thoughtful "], "A": ["ignorant ", "unthoughtful "]}

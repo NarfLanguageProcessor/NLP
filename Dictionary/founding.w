@@ -1,0 +1,1 @@
+{"index": 117934, "D": "to set up or establish on a firm basis or for enduring existence", "S": ["authorizing ", "colonizing ", "endowing ", "instituting ", "originating ", "planting "], "A": []}

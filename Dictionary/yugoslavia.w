@@ -1,0 +1,1 @@
+{"index": 159651, "D": "formerly, a federal republic in S Europe", "S": [], "A": []}

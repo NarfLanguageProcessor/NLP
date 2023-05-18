@@ -1,0 +1,1 @@
+{"index": 37318, "D": "(on a truck) a rear-wheel assembly composed of four wheels on two axles, either or both driving axles, so mounted as to support the rear of the truck body jointly.", "S": ["gnome ", "goblin ", "imp ", "leprechaun "], "A": []}

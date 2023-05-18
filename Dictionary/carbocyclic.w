@@ -1,0 +1,1 @@
+{"index": 47456, "D": "(of a chemical compound) containing a closed ring of carbon atoms", "S": [], "A": []}

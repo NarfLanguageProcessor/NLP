@@ -1,0 +1,1 @@
+{"index": 344654, "D": "to cause by incitement; foment", "S": [], "A": []}

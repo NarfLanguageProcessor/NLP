@@ -1,0 +1,1 @@
+{"index": 10732, "D": "the larval stage of a lamprey.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 279721, "D": "insufficiency or shortness of supply; dearth.", "S": ["dearth ", "drought ", "famine ", "inadequacy ", "insufficiency ", "lack ", "paucity ", "shortage "], "A": ["abundance ", "enough ", "excess ", "plenty ", "sufficiency "]}

@@ -1,0 +1,1 @@
+{"index": 206348, "D": "the quality or fact of being prudent,  or wise in practical affairs, as by providing for the future.", "S": [], "A": []}

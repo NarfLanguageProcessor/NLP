@@ -1,0 +1,1 @@
+{"index": 263399, "D": "to constitute  again; reconstruct; recompose.", "S": ["refurbish "], "A": ["abandon ", "antique ", "break ", "damage ", "decline ", "destroy ", "forfeit ", "harm ", "hurt ", "injure ", "kill ", "lose ", "ruin ", "weaken "]}

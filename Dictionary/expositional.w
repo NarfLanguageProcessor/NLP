@@ -1,0 +1,1 @@
+{"index": 107960, "D": "a large-scale public exhibition or show, as of art or manufactured products", "S": ["analytical ", "informative ", "interpretive ", "supplementary "], "A": ["confusing ", "mysterious ", "obscure ", "perplexing ", "puzzling ", "vague "]}

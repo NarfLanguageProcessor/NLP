@@ -1,0 +1,1 @@
+{"index": 117068, "D": "to reject or renounce under oath", "S": ["cheating ", "untrue "], "A": ["faithful ", "loyal ", "trustworthy "]}

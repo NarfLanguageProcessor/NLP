@@ -1,0 +1,1 @@
+{"index": 74070, "D": "involving an extremely important decision or result; decisive; critical", "S": ["essentially ", "exigently ", "imperatively ", "necessarily ", "pressingly "], "A": []}

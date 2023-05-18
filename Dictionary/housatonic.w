@@ -1,0 +1,1 @@
+{"index": 144379, "D": "a river flowing S from NW Massachusetts through SW Connecticut to Long Island Sound near Stratford, Connecticut. 148 miles (240 km) long.", "S": [], "A": []}

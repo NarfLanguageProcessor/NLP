@@ -1,0 +1,1 @@
+{"index": 188094, "D": "the graphic record produced by a myocardiograph.", "S": [], "A": []}

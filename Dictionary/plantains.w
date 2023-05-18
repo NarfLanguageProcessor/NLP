@@ -1,0 +1,1 @@
+{"index": 239081, "D": "a tropical plant, Musa paradisiaca, of the banana family, resembling the banana.", "S": [], "A": []}

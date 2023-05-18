@@ -1,0 +1,1 @@
+{"index": 164866, "D": "any condition caused by motion of the body, as seasickness.", "S": [], "A": []}

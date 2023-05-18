@@ -1,0 +1,1 @@
+{"index": 228863, "D": "the branch of medicine concerned with the development, care, and diseases of babies and children.", "S": [], "A": []}

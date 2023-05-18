@@ -1,0 +1,1 @@
+{"index": 171198, "D": "having common sense and sound judgment; sensible.", "S": ["acumen ", "good sense ", "insight ", "intelligence ", "judgment ", "logic ", "practicality ", "prudence ", "rationality ", "sense ", "sound judgment ", "wisdom ", "wit "], "A": ["ignorance ", "ineptness ", "irrationality ", "stupidity "]}

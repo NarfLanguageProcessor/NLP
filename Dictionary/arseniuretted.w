@@ -1,0 +1,1 @@
+{"index": 20390, "D": "combined with arsenic  so as to form an arsenide.", "S": [], "A": []}

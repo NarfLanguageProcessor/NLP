@@ -1,0 +1,1 @@
+{"index": 88258, "D": "to deprive of a helmet.", "S": [], "A": []}

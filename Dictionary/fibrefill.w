@@ -1,0 +1,1 @@
+{"index": 111985, "D": "a synthetic fibre used as a filling for pillows, quilted materials, etc", "S": [], "A": []}

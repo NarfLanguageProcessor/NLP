@@ -1,0 +1,1 @@
+{"index": 206615, "D": "of, relating to, or characterized by regeneration.", "S": [], "A": []}

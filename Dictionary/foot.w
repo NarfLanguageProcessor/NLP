@@ -1,0 +1,1 @@
+{"index": 116131, "D": "(in vertebrates) the terminal part of the leg, below the ankle joint, on which the body stands and moves.", "S": ["hoof ", "pad ", "paw "], "A": ["head ", "lid "]}

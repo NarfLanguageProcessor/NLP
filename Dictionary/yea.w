@@ -1,0 +1,1 @@
+{"index": 146695, "D": "yes (used in affirmation or assent).", "S": ["yes "], "A": []}

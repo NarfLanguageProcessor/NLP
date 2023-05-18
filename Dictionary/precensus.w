@@ -1,0 +1,1 @@
+{"index": 245998, "D": "an official enumeration of the population, with details as to age, sex, occupation, etc.", "S": [], "A": []}

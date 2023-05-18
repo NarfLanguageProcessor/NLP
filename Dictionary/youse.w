@@ -1,0 +1,1 @@
+{"index": 157763, "D": "you  (usually used in addressing two or more people).", "S": [], "A": []}

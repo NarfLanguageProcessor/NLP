@@ -1,0 +1,1 @@
+{"index": 189995, "D": "the book containing the prayers and rites used by the priest in celebrating Mass over the course of the entire year.", "S": [], "A": []}

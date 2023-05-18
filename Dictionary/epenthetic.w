@@ -1,0 +1,1 @@
+{"index": 102080, "D": "the insertion of one or more sounds in the middle of a word, as the schwa in the nonstandard pronunciation  [el-uhm]  /\u02c8\u025bl \u0259m/  of elm.", "S": [], "A": []}

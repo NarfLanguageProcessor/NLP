@@ -1,0 +1,1 @@
+{"index": 74116, "D": "in a raw or unprepared state; unrefined or natural", "S": ["awkwardness ", "clumsiness ", "gawkiness ", "gracelessness ", "inelegance ", "ineptitude "], "A": ["coordination ", "experience ", "grace ", "sophistication "]}

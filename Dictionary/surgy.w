@@ -1,0 +1,1 @@
+{"index": 313460, "D": "billowy; surging  or swelling.", "S": [], "A": []}

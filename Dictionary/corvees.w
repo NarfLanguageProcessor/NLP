@@ -1,0 +1,1 @@
+{"index": 69904, "D": "unpaid labor for one day, as on the repair of roads, exacted by a feudal lord.", "S": ["chain gang ", "forced-labor camp ", "gulag ", "hard labor ", "rock pile ", "servitude ", "slavery "], "A": []}

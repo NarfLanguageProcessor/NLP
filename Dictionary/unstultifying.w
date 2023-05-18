@@ -1,0 +1,1 @@
+{"index": 352216, "D": "to render absurdly or wholly futile or ineffectual, especially by degrading or frustrating means", "S": [], "A": []}

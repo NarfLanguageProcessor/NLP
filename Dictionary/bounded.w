@@ -1,0 +1,1 @@
+{"index": 38968, "D": "having bounds or limits.", "S": ["belted ", "bordered ", "surrounded "], "A": ["free ", "loose ", "unbounded ", "unconfined ", "unlimited "]}

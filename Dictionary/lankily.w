@@ -1,0 +1,1 @@
+{"index": 168180, "D": "ungracefully thin and rawboned; bony; gaunt", "S": [], "A": []}

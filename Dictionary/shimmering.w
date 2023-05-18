@@ -1,0 +1,1 @@
+{"index": 288320, "D": "to shine with or reflect a subdued, tremulous light; gleam faintly.", "S": ["bright ", "glistening ", "glittering ", "glowing ", "shining ", "sparkling "], "A": ["dark ", "dull ", "gloomy ", "unhappy "]}

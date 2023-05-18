@@ -1,0 +1,1 @@
+{"index": 74614, "D": "any of the woolly, composite plants of the genus Gnaphalium, having simple leaves and tubular flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 55742, "D": "a stringed instrument of a group including the harps, lutes, lyres, and zithers.", "S": [], "A": []}

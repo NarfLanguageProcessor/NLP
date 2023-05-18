@@ -1,0 +1,1 @@
+{"index": 25767, "D": "the rear curtain of a stage setting.", "S": ["scenery "], "A": []}

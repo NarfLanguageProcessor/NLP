@@ -1,0 +1,1 @@
+{"index": 26561, "D": "a soft, usually green, woolen or cotton fabric resembling felt, used chiefly for the tops of billiard tables.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 346706, "D": "liable or subject to change or alteration.", "S": [], "A": []}

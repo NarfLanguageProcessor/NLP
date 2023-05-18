@@ -1,0 +1,1 @@
+{"index": 15835, "D": "producing or tending to produce infectious or contagious, often epidemic, disease; pestilential.", "S": [], "A": []}

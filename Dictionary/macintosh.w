@@ -1,0 +1,1 @@
+{"index": 176813, "D": "a variant of mackintosh. ", "S": ["CPU ", "PC ", "calculator ", "laptop ", "mac ", "mainframe ", "microcomputer ", "number cruncher ", "personal computer ", "word processor "], "A": []}

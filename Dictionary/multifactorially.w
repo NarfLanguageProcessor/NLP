@@ -1,0 +1,1 @@
+{"index": 195076, "D": "having or stemming from a number of different causes or influences", "S": [], "A": []}

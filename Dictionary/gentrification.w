@@ -1,0 +1,1 @@
+{"index": 123761, "D": "the buying and renovation of houses and stores in deteriorated urban neighborhoods by upper- or middle-income families or individuals, raising property values but often displacing low-income families and small businesses.", "S": [], "A": []}

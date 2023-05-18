@@ -1,0 +1,1 @@
+{"index": 79448, "D": "to withhold (property, especially land) by force or violence, as from the rightful owner.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108938, "D": "having a specified kind of face  or number of faces  (usually used in combination)", "S": ["buzzed ", "inebriated ", "intoxicated ", "loaded ", "pickled ", "plastered ", "polluted ", "sloshed ", "smashed ", "soused ", "tanked ", "trashed ", "wasted "], "A": ["sober ", "straight "]}

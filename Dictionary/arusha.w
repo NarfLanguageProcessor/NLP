@@ -1,0 +1,1 @@
+{"index": 20814, "D": "a city in N Tanganyika, in Tanzania.", "S": [], "A": []}

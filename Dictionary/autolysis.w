@@ -1,0 +1,1 @@
+{"index": 24156, "D": "the breakdown of plant or animal tissue by the action of enzymes contained in the tissue affected; self-digestion.", "S": [], "A": []}

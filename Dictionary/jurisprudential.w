@@ -1,0 +1,1 @@
+{"index": 162474, "D": "the science or philosophy of law.", "S": [], "A": []}

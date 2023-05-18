@@ -1,0 +1,1 @@
+{"index": 256030, "D": "the act of a person or thing that puddles. ", "S": ["amuse oneself ", "dabble ", "dawdle ", "doodle ", "fool around ", "loiter ", "muck around ", "play ", "play around ", "play the fool ", "potter ", "puddle ", "putter ", "tinker ", "trifle "], "A": ["labor ", "toil ", "work "]}

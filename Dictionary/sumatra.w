@@ -1,0 +1,1 @@
+{"index": 310874, "D": "a large island in the W part of Indonesia. 164,147 sq. mi. (425,141 sq. km).", "S": [], "A": []}

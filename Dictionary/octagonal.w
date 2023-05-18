@@ -1,0 +1,1 @@
+{"index": 210937, "D": "having eight angles and eight sides.", "S": ["octadic ", "octennial "], "A": []}

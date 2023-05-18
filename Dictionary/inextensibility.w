@@ -1,0 +1,1 @@
+{"index": 151749, "D": "not extensible;  incapable of being extended or stretched.", "S": [], "A": []}

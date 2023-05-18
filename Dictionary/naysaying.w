@@ -1,0 +1,1 @@
+{"index": 196618, "D": "to say nay to; deny; reject; oppose.", "S": ["adverse ", "gloomy ", "pessimistic ", "unfavorable ", "weak "], "A": ["confident ", "favorable "]}

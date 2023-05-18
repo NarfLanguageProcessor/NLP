@@ -1,0 +1,1 @@
+{"index": 38176, "D": "a venomous, tree-dwelling snake, Dispholidus typus, of tropical and southern Africa, having black to greenish scales.", "S": [], "A": []}

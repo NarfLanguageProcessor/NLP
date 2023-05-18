@@ -1,0 +1,1 @@
+{"index": 228469, "D": "a microscopic lamellar structure found in iron or steel, composed of alternating layers of ferrite and cementite.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 153454, "D": "to carve in or on something; engrave.", "S": [], "A": []}

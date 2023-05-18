@@ -1,0 +1,1 @@
+{"index": 298159, "D": "spacecraft. ", "S": ["UFO ", "extraterrestrial spacecraft ", "extraterrestrial vessel ", "spacecraft ", "unidentified flying object "], "A": []}

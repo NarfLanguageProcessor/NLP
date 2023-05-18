@@ -1,0 +1,1 @@
+{"index": 8403, "D": "tending to become alkaline; slightly alkaline.", "S": [], "A": []}

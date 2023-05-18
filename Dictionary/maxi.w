@@ -1,0 +1,1 @@
+{"index": 181508, "D": "maxiskirt. ", "S": ["preeminent ", "transcendent ", "utmost "], "A": ["inferior ", "lowest "]}

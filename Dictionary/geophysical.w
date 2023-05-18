@@ -1,0 +1,1 @@
+{"index": 124000, "D": "of or relating to geophysics", "S": [], "A": []}

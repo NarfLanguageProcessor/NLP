@@ -1,0 +1,1 @@
+{"index": 87955, "D": "the act or process of disengaging  or the state of being disengaged. ", "S": ["disconnection ", "separation ", "withdrawal "], "A": []}

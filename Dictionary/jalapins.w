@@ -1,0 +1,1 @@
+{"index": 160210, "D": "a resin that is one of the purgative principles of jalap.", "S": [], "A": []}

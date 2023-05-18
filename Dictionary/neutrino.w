@@ -1,0 +1,1 @@
+{"index": 199322, "D": "any of the massless or nearly massless electrically neutral leptons. There is a distinct kind of neutrino associated with each of the massive leptons.", "S": [], "A": []}

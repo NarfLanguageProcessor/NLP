@@ -1,0 +1,1 @@
+{"index": 269377, "D": "pertaining to or constituting a residue or remainder; remaining; leftover. ", "S": ["bit ", "fragment ", "particle ", "piece ", "remains ", "residue ", "shred ", "vestige "], "A": ["whole ", "base ", "core ", "lack ", "need ", "want "]}

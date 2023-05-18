@@ -1,0 +1,1 @@
+{"index": 311992, "D": "an ecclesiastical vestment worn over the shoulders", "S": [], "A": []}

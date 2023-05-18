@@ -1,0 +1,1 @@
+{"index": 331426, "D": "to believe, think, or suppose.", "S": [], "A": []}

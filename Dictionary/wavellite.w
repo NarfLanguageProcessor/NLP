@@ -1,0 +1,1 @@
+{"index": 363352, "D": "a hydrous aluminum fluorophosphate occurring as white to yellowish-green or brown aggregates of radiating fibers.", "S": [], "A": []}

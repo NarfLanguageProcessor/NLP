@@ -1,0 +1,1 @@
+{"index": 350161, "D": "to crumple or crush into wrinkles", "S": [], "A": []}

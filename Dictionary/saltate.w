@@ -1,0 +1,1 @@
+{"index": 277258, "D": [], "S": ["bound ", "bump ", "carom ", "hop ", "jump ", "leap ", "rebound ", "ricochet "], "A": []}

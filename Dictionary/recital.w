@@ -1,0 +1,1 @@
+{"index": 262908, "D": "a musical entertainment given usually by a single performer or by a performer and one or more accompanists.", "S": ["concert ", "musical ", "presentation ", "reading ", "recitation ", "rehearsal "], "A": ["truth "]}

@@ -1,0 +1,1 @@
+{"index": 109630, "D": "extremely hungry", "S": ["empty ", "hollow ", "hungering ", "ravening ", "starved "], "A": ["full "]}

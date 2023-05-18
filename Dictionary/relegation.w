@@ -1,0 +1,1 @@
+{"index": 266828, "D": "assignment or banishment to an inferior position, place, rank, or condition", "S": ["distribution "], "A": ["holding ", "keeping ", "retention "]}

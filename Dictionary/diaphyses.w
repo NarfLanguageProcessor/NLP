@@ -1,0 +1,1 @@
+{"index": 84429, "D": "the shaft of a long bone.", "S": ["beam ", "chimney ", "cylinder ", "duct ", "rod ", "tunnel "], "A": []}

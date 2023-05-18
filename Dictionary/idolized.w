@@ -1,0 +1,1 @@
+{"index": 146650, "D": "to regard with blind adoration, devotion, etc.", "S": ["admired ", "cherished ", "dear ", "esteemed ", "favorite ", "hallowed ", "loved ", "popular ", "prized ", "respected ", "revered ", "treasured ", "venerated ", "well-liked "], "A": ["disliked "]}

@@ -1,0 +1,1 @@
+{"index": 58900, "D": "a yellowish, unctuous substance with a strong musklike odor, obtained from a pouch in the genital region of civets and used in perfumery.", "S": [], "A": []}

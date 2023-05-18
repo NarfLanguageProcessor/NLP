@@ -1,0 +1,1 @@
+{"index": 143406, "D": "a type of lace with a floral sprig pattern", "S": [], "A": []}

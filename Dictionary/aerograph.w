@@ -1,0 +1,1 @@
+{"index": 5026, "D": "any automatic recording instrument for atmospheric measurement that is carried aloft by aircraft.", "S": [], "A": []}

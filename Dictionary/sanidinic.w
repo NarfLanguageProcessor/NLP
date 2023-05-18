@@ -1,0 +1,1 @@
+{"index": 277945, "D": "a glassy, often transparent variety of orthoclase in which sodium may replace as much as 50 percent of the potassium", "S": [], "A": []}

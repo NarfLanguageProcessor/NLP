@@ -1,0 +1,1 @@
+{"index": 9713, "D": "of the color of pure snow, of the margins of this page, etc.; reflecting nearly all the rays of sunlight or a similar light.", "S": [], "A": []}

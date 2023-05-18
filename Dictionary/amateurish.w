@@ -1,0 +1,1 @@
+{"index": 9866, "D": "characteristic of an amateur,  especially in having the faults or deficiencies of an amateur;  inept", "S": ["incompetent ", "inept "], "A": ["able ", "competent ", "dexterous ", "skillful "]}

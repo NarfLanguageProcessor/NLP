@@ -1,0 +1,1 @@
+{"index": 284045, "D": "characterized by decadence,  especially culturally or morally", "S": [], "A": []}

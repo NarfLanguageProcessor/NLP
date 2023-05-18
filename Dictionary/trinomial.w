@@ -1,0 +1,1 @@
+{"index": 330184, "D": "consisting of or pertaining to three terms.", "S": [], "A": []}

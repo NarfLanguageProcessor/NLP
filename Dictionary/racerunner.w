@@ -1,0 +1,1 @@
+{"index": 259352, "D": "a whiptail lizard,Cnemidophorus sexlineatus, common in the eastern and central U.S., that runs with great speed.", "S": [], "A": []}

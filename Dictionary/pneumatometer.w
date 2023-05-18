@@ -1,0 +1,1 @@
+{"index": 240757, "D": "an instrument for measuring either the quantity of air inhaled or exhaled during a single inspiration or expiration or the force of inspiration or expiration.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 46519, "D": "the position or office of canon;  canonry.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 73341, "D": "the act of curling or state of being curled", "S": ["coil "], "A": ["line "]}

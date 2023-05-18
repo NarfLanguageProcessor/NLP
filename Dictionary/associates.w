@@ -1,0 +1,1 @@
+{"index": 21866, "D": "to connect or bring into relation, as thought, feeling, memory, etc.", "S": ["retinue "], "A": ["leader "]}

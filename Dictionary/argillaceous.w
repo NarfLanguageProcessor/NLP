@@ -1,0 +1,1 @@
+{"index": 19503, "D": "of the nature of or resembling clay; clayey.", "S": [], "A": []}

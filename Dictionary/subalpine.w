@@ -1,0 +1,1 @@
+{"index": 307149, "D": "pertaining to the regions at the foot of the Alps.", "S": [], "A": []}

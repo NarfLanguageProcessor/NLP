@@ -1,0 +1,1 @@
+{"index": 115748, "D": "unable to sail or navigate because of heavy fog. ", "S": [], "A": []}

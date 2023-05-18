@@ -1,0 +1,1 @@
+{"index": 346284, "D": "to change the form or nature of; transform.", "S": [], "A": []}

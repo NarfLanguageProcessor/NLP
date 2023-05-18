@@ -1,0 +1,1 @@
+{"index": 271418, "D": "to give new life to.", "S": ["enliven ", "modernize ", "quicken ", "reinvigorate ", "rejuvenate ", "renovate ", "repair ", "replenish ", "restore ", "resuscitate ", "revive ", "stimulate "], "A": ["break ", "damage ", "destroy ", "dull ", "hurt ", "kill ", "ruin ", "depress ", "discourage ", "dissuade ", "halt ", "stop "]}

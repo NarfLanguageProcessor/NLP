@@ -1,0 +1,1 @@
+{"index": 6461, "D": "a degree awarded by a French university, based on a competitive examination given by the state and qualifying the recipient for the highest teaching positions in a lyc\u00e9e or for the rank of professor in a school of law or medicine.", "S": [], "A": []}

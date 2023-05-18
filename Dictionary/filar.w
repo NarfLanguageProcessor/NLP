@@ -1,0 +1,1 @@
+{"index": 112536, "D": "of or relating to a thread or threads.", "S": ["capillaceous ", "capilliform ", "filamentous ", "ropy "], "A": []}

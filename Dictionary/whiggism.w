@@ -1,0 +1,1 @@
+{"index": 364783, "D": "the principles or practices of Whigs. ", "S": [], "A": []}

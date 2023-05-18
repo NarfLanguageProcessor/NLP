@@ -1,0 +1,1 @@
+{"index": 150994, "D": "not digestible; not easily digested.", "S": ["disagreeing ", "green ", "hard ", "malodorous ", "moldy ", "poisonous ", "putrid ", "raw ", "rotten ", "rough ", "tasteless ", "toxic ", "undercooked ", "uneatable ", "unhealthy ", "unpalatable ", "unripe "], "A": []}

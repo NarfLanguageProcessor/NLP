@@ -1,0 +1,1 @@
+{"index": 124216, "D": "a person who hates or fears Germany, Germans, or German culture.", "S": [], "A": []}

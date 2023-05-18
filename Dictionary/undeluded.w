@@ -1,0 +1,1 @@
+{"index": 338693, "D": "entertaining a false belief or opinion; mistaken or deceived in mind or judgment", "S": [], "A": []}

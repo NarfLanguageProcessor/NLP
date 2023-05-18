@@ -1,0 +1,1 @@
+{"index": 21797, "D": "the practice or policy of assimilating or encouraging the assimilation  of people from all ethnic groups and cultures of origin", "S": [], "A": []}

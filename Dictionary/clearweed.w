@@ -1,0 +1,1 @@
+{"index": 59679, "D": "a plant, Pilea pumila, of the nettle family, having drooping, green flower clusters and smooth stems.", "S": [], "A": []}

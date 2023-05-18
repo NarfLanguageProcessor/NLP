@@ -1,0 +1,1 @@
+{"index": 308294, "D": "the doctrine that all knowledge is limited to experiences by the self, and that transcendent knowledge is impossible.", "S": [], "A": []}

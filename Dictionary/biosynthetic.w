@@ -1,0 +1,1 @@
+{"index": 34540, "D": "of, relating to, or characterized by biosynthesis,  the formation of chemical compounds by a living organism, or a laboratory process modeled after these reactions in living organisms.", "S": [], "A": []}

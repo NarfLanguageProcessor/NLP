@@ -1,0 +1,1 @@
+{"index": 140114, "D": "(of an alloy) having more of the alloying element than the eutectoid  composition.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 149087, "D": "having the ability to impress  the mind; arousing admiration, awe, respect, etc.; moving; admirable", "S": ["earnestly ", "soberly "], "A": []}

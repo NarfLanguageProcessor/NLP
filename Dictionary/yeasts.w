@@ -1,0 +1,1 @@
+{"index": 146750, "D": "any of various small, single-celled fungi of the phylum Ascomycota that reproduce by fission or budding, the daughter cells often remaining attached, and that are capable of fermenting carbohydrates into alcohol and carbon dioxide.", "S": ["fungus "], "A": []}

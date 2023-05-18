@@ -1,0 +1,1 @@
+{"index": 225931, "D": "an elevation raised above the main wall or rampart of a permanent fortification.", "S": [], "A": []}

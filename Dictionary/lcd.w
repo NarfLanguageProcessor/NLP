@@ -1,0 +1,1 @@
+{"index": 169484, "D": "a method of displaying readings continuously, as on digital watches, portable computers, and calculators, using a liquid crystal  film, sealed between glass plates, that changes its optical properties when a voltage is applied.", "S": [], "A": []}

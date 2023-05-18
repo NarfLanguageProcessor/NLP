@@ -1,0 +1,1 @@
+{"index": 298567, "D": "pertaining to, of the nature of, or characterized by spasm, especially tonic spasm.", "S": [], "A": []}

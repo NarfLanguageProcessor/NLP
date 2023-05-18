@@ -1,0 +1,1 @@
+{"index": 133669, "D": "(James) Keir (k\u026a\u0259). 1856\u20131915, British Labour leader and politician, born in Scotland; the first parliamentary leader of the Labour Party", "S": [], "A": []}

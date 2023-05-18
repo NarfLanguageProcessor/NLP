@@ -1,0 +1,1 @@
+{"index": 69953, "D": "of, relating to, or being in a line, curve, etc., connecting or comprising points on the earth's surface at which an earthquake wave arrives simultaneously.", "S": [], "A": []}

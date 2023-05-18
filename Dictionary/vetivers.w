@@ -1,0 +1,1 @@
+{"index": 359161, "D": "the long, fibrous, aromatic roots of an East Indian grass, Vetiveria zizanioides, used for making hangings and screens and yielding an oil used in perfumery.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 249066, "D": "to bring to a fine or a pure state; free from impurities", "S": [], "A": []}

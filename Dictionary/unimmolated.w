@@ -1,0 +1,1 @@
+{"index": 344276, "D": "to sacrifice.", "S": [], "A": []}

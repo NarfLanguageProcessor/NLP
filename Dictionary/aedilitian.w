@@ -1,0 +1,1 @@
+{"index": 4784, "D": "one of a board of magistrates in charge of public buildings, streets, markets, games, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 239509, "D": "a flat, dull, or trite remark, especially one uttered as if it were fresh or profound.", "S": ["banality ", "bromide "], "A": ["coinage ", "nuance "]}

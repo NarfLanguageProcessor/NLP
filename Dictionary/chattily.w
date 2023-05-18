@@ -1,0 +1,1 @@
+{"index": 53150, "D": "characterized by friendly and informal talk or writing, often about minor or personal matters", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 312920, "D": "rotation of the hand or forearm so that the palmar surface is facing upward (opposed to pronation).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111564, "D": "a ferroalloy containing up to 80 percent tungsten. ", "S": [], "A": []}

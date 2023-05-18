@@ -1,0 +1,1 @@
+{"index": 337365, "D": "to force or drive, especially to a course of action", "S": [], "A": []}

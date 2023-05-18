@@ -1,0 +1,1 @@
+{"index": 47923, "D": "without anxiety or worry.", "S": ["breezy ", "cheerful ", "cheery ", "happy ", "happy-go-lucky ", "jaunty ", "jovial "], "A": ["depressed ", "dissatisfied ", "sad ", "troubled ", "unhappy "]}

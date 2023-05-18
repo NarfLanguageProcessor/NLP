@@ -1,0 +1,1 @@
+{"index": 45977, "D": "a nation in N North America", "S": [], "A": []}

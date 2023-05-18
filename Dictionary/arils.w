@@ -1,0 +1,1 @@
+{"index": 19712, "D": "a usually fleshy appendage or covering of certain seeds, as of the bittersweet, Celastrus scandens, or the nutmeg.", "S": ["chaff ", "pod ", "rind "], "A": ["center ", "inside ", "interior ", "middle "]}

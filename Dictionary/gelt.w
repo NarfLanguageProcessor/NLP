@@ -1,0 +1,1 @@
+{"index": 123283, "D": "a simple past tense and past participle of geld1. ", "S": ["bread ", "clams ", "gravy ", "greenbacks ", "kale "], "A": []}

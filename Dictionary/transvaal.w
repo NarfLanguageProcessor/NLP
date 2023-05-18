@@ -1,0 +1,1 @@
+{"index": 328376, "D": "a province in the northeastern part of the Republic of South Africa.  110,450 sq. mi. (286,066 sq. km). Capital", "S": [], "A": []}

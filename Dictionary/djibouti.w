@@ -1,0 +1,1 @@
+{"index": 90507, "D": "Formerly French So\u00b7ma\u00b7li\u00b7land, French Ter\u00b7ri\u00b7to\u00b7ry of the A\u00b7fars and Is\u00b7sas  [uh-fahrz uhnd -ee-sahz]  /\u0259\u02c8f\u0251rz \u0259nd \u02c8i s\u0251z/ .", "S": [], "A": []}

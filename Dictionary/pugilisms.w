@@ -1,0 +1,1 @@
+{"index": 256136, "D": "the art or practice of fighting with the fists; boxing.", "S": ["battle ", "mill ", "prelim ", "prizefighting ", "slugfest ", "sparring "], "A": []}

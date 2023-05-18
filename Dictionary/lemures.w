@@ -1,0 +1,1 @@
+{"index": 170366, "D": "ghosts, especially those of a family\u2019s dead, considered troublesome unless exorcised or appeased, as during the annual festival of Lemuralia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 147227, "D": "the construction of an artificial opening from the ileum through the abdominal wall, permitting drainage of the contents of the small intestine.", "S": [], "A": []}

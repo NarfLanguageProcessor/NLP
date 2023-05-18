@@ -1,0 +1,1 @@
+{"index": 157698, "D": "a former county in N England, now part of Humberside, North Yorkshire, South Yorkshire, Cleveland, and Durham.", "S": [], "A": []}

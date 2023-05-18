@@ -1,0 +1,1 @@
+{"index": 347003, "D": [], "S": ["acceptably ", "adequately ", "okay ", "passably ", "tolerably ", "well enough "], "A": ["unsatisfactorily "]}

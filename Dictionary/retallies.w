@@ -1,0 +1,1 @@
+{"index": 270295, "D": "an account or reckoning; a record of debit and credit, of the score of a game, or the like.", "S": [], "A": []}

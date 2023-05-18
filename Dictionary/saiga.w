@@ -1,0 +1,1 @@
+{"index": 276759, "D": "a goatlike antelope, Saiga tatarica, of western Asia and eastern Russia, having a greatly enlarged muzzle.", "S": [], "A": []}

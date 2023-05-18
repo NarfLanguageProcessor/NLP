@@ -1,0 +1,1 @@
+{"index": 59348, "D": "(of cigars) light-colored and, usually, mild.", "S": ["belvedere ", "bouquet ", "cheroot ", "corona ", "havana ", "panatela ", "smoke ", "stogie ", "stogy ", "tobacco ", "toby ", "weed "], "A": []}

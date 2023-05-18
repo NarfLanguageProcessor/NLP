@@ -1,0 +1,1 @@
+{"index": 191180, "D": "to regulate by or adjust to a certain measure or proportion; soften; tone down.", "S": ["inflect "], "A": ["leave alone "]}

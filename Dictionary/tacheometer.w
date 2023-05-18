@@ -1,0 +1,1 @@
+{"index": 314970, "D": "a type of theodolite designed for the rapid measurement of distances, elevations, and directions", "S": [], "A": []}

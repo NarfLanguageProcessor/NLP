@@ -1,0 +1,1 @@
+{"index": 48003, "D": "a member of a group of Indian peoples formerly dominant through the Lesser Antilles, now found in small numbers in a few areas of the West Indies and in parts of Central America and northeastern South America.", "S": [], "A": []}

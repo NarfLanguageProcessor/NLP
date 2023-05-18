@@ -1,0 +1,1 @@
+{"index": 320662, "D": "a card with different pictures on opposite sides, as a horse on one side and a rider on the other, which appear as if combined when the card is twirled rapidly, thus illustrating the persistence of visual impressions.", "S": [], "A": []}

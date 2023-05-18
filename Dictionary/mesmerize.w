@@ -1,0 +1,1 @@
+{"index": 184150, "D": "to hypnotize. ", "S": ["enthrall ", "fascinate ", "hypnotize ", "stupefy "], "A": ["bore ", "tire ", "disgust ", "enliven ", "repel "]}

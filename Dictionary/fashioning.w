@@ -1,0 +1,1 @@
+{"index": 110163, "D": "a prevailing custom or style of dress, etiquette, socializing, etc.", "S": ["accomplishing ", "building ", "composing ", "constructing ", "creating ", "effecting ", "executing ", "fabricating ", "forging ", "forming ", "generating ", "manufacturing ", "originating ", "producing ", "shaping "], "A": []}

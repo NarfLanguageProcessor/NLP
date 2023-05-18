@@ -1,0 +1,1 @@
+{"index": 164602, "D": "any of several small, oviparous cyprinodont fishes, especially of the genus Fundulus, found in salt, brackish, and fresh waters.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 96593, "D": "to drive or force out; expel, as from a place or position", "S": ["fired ", "freed ", "laid-off ", "released ", "sacked "], "A": []}

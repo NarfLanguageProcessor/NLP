@@ -1,0 +1,1 @@
+{"index": 22447, "D": "trademark proprietary names for mepacrine", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 129154, "D": "any colonial animal of the extinct class Graptolithina, most common in the Ordovician and Silurian Periods, thought to be related to the pterobranchs.", "S": [], "A": []}

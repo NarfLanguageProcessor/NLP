@@ -1,0 +1,1 @@
+{"index": 197627, "D": "to make neat", "S": ["arrange ", "clean ", "groom ", "order "], "A": ["disorder ", "disorganize ", "mix up "]}

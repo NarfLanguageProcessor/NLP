@@ -1,0 +1,1 @@
+{"index": 38898, "D": "having a bough  or boughs  (usually used in combination)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 186672, "D": "a band  in the middle of a range of frequencies.", "S": [], "A": []}

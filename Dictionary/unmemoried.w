@@ -1,0 +1,1 @@
+{"index": 346204, "D": "having a memory  (usually used in combination)", "S": [], "A": []}

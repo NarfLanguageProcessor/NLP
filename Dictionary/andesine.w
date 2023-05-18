@@ -1,0 +1,1 @@
+{"index": 12314, "D": "a mineral, intermediate in the plagioclase feldspar group, having a play of colors and usually found as crystals in igneous rocks.", "S": [], "A": []}

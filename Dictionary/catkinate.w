@@ -1,0 +1,1 @@
+{"index": 49770, "D": "a spike of unisexual, apetalous flowers having scaly, usually deciduous bracts, as of a willow or birch.", "S": [], "A": []}

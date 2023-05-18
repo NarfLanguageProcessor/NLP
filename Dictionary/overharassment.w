@@ -1,0 +1,1 @@
+{"index": 219650, "D": "an act or instance of harassing;  torment, vexation, or intimidation", "S": [], "A": []}

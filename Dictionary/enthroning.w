@@ -1,0 +1,1 @@
+{"index": 101408, "D": "to place on or as on a throne. ", "S": ["inaugurate ", "induct "], "A": ["dishonor "]}

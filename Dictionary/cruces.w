@@ -1,0 +1,1 @@
+{"index": 74065, "D": "a plural of crux. ", "S": [], "A": []}

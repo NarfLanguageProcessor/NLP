@@ -1,0 +1,1 @@
+{"index": 336622, "D": "yielded or formally surrendered", "S": [], "A": []}

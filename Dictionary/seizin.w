@@ -1,0 +1,1 @@
+{"index": 283368, "D": "(originally) possession of either land or chattel.", "S": [], "A": []}

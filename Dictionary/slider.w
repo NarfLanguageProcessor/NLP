@@ -1,0 +1,1 @@
+{"index": 294046, "D": "a person or thing that slides. ", "S": [], "A": []}

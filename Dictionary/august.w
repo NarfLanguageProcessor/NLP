@@ -1,0 +1,1 @@
+{"index": 23405, "D": "inspiring reverence or admiration; of supreme dignity or grandeur; majestic", "S": ["grand "], "A": ["undignified "]}

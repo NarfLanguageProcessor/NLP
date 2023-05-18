@@ -1,0 +1,1 @@
+{"index": 287433, "D": "a crudely built hut, cabin, or house.", "S": [], "A": []}

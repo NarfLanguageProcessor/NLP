@@ -1,0 +1,1 @@
+{"index": 280492, "D": "a man who presides over or teaches in a school.", "S": [], "A": []}

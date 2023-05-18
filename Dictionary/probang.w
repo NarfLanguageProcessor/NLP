@@ -1,0 +1,1 @@
+{"index": 251020, "D": "a long, slender, elastic rod with a sponge, ball, or the like, at the end, to be introduced into the esophagus or larynx, as for removing foreign bodies, or for introducing medication.", "S": [], "A": []}

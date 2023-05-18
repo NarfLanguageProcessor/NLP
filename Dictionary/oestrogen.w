@@ -1,0 +1,1 @@
+{"index": 211521, "D": "any of several steroid hormones, that are secreted chiefly by the ovaries and placenta, that induce oestrus, stimulate changes in the female reproductive organs during the oestrous cycle, and promote development of female secondary sexual characteristics", "S": [], "A": []}

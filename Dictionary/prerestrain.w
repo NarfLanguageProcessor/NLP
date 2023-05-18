@@ -1,0 +1,1 @@
+{"index": 249149, "D": "to hold back from action; keep in check or under control; repress", "S": [], "A": []}

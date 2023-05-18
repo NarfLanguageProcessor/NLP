@@ -1,0 +1,1 @@
+{"index": 294370, "D": "a store at which cheap, ready-made clothing may be purchased.", "S": [], "A": []}

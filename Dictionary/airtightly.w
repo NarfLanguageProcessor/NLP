@@ -1,0 +1,1 @@
+{"index": 7009, "D": "preventing the entrance or escape of air or gas.", "S": [], "A": []}

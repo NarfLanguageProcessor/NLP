@@ -1,0 +1,1 @@
+{"index": 20986, "D": "a standard code, consisting of 128 7-bit combinations, for characters stored in a computer or to be transmitted between computers.", "S": ["clear text ", "plaintext ", "unencrypted text ", "vanilla text "], "A": ["encoded "]}

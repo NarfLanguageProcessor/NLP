@@ -1,0 +1,1 @@
+{"index": 171401, "D": "streaked or spotted with gray or white.", "S": [], "A": []}

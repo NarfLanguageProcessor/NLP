@@ -1,0 +1,1 @@
+{"index": 323595, "D": "the operation, practice, or art of tilling  land.", "S": ["cultivation ", "culture ", "horticulture ", "husbandry "], "A": []}

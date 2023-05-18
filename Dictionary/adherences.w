@@ -1,0 +1,1 @@
+{"index": 3842, "D": "the quality of adhering;  steady devotion, support, allegiance, or attachment", "S": ["attachment ", "faithfulness ", "loyalty ", "obedience "], "A": ["disloyalty ", "inconstancy ", "unsteadiness "]}

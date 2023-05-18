@@ -1,0 +1,1 @@
+{"index": 283249, "D": "a stanza of four to seven lines with a distinctive rhythmic pattern.", "S": [], "A": []}

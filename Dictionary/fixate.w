@@ -1,0 +1,1 @@
+{"index": 113593, "D": "to obsessively concentrate one's attention (usually followed by on)", "S": ["haunt ", "infatuate ", "obsess "], "A": []}

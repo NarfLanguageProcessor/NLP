@@ -1,0 +1,1 @@
+{"index": 123738, "D": "a man  of good family, breeding, or social position.", "S": [], "A": []}

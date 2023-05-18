@@ -1,0 +1,1 @@
+{"index": 144482, "D": "articles of household equipment, as kitchen utensils, or glassware.", "S": ["plumbing "], "A": []}

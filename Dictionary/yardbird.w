@@ -1,0 +1,1 @@
+{"index": 145729, "D": "a convict or prisoner.", "S": ["convict ", "crook ", "culprit ", "felon ", "fugitive ", "gangster ", "hoodlum ", "hooligan ", "lawbreaker ", "mobster ", "offender ", "thug "], "A": ["police "]}

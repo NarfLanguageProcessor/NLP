@@ -1,0 +1,1 @@
+{"index": 119242, "D": "any tropical marine fish  of the family Antennariidae, having a wide, froglike mouth and broad, limblike pectoral fins.", "S": [], "A": []}

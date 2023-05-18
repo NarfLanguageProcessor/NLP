@@ -1,0 +1,1 @@
+{"index": 360678, "D": "a tube or receptacle for oil, occurring in the fruits of most plants of the parsley family.", "S": [], "A": []}

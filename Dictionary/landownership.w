@@ -1,0 +1,1 @@
+{"index": 168001, "D": "an owner  or proprietor of land. ", "S": [], "A": []}

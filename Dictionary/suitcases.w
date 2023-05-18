@@ -1,0 +1,1 @@
+{"index": 310320, "D": "a usually rectangular piece of luggage especially for carrying clothes while traveling.", "S": ["equipment ", "gear ", "luggage ", "paraphernalia "], "A": []}

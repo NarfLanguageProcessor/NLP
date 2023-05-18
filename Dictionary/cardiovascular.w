@@ -1,0 +1,1 @@
+{"index": 47864, "D": "of, relating to, or affecting the heart and blood vessels.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 250940, "D": "a creature from outer space; extraterrestrial. ", "S": [], "A": []}

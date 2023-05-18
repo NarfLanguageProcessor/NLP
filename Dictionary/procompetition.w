@@ -1,0 +1,1 @@
+{"index": 251309, "D": "the act of competing;  rivalry for supremacy, a prize, etc.", "S": [], "A": []}

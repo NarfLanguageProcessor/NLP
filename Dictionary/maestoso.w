@@ -1,0 +1,1 @@
+{"index": 177315, "D": "with majesty; stately (used as a musical direction).", "S": [], "A": []}

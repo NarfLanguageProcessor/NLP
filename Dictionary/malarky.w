@@ -1,0 +1,1 @@
+{"index": 178291, "D": "speech or writing designed to obscure, mislead, or impress; bunkum", "S": ["absurdity ", "babble ", "balderdash ", "baloney ", "bombast ", "bull ", "bunk ", "drivel ", "foolishness ", "gibberish ", "giddiness ", "hogwash ", "jive ", "poppycock ", "prattle ", "rubbish ", "silliness ", "trash "], "A": ["possessions ", "sense ", "truth "]}

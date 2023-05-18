@@ -1,0 +1,1 @@
+{"index": 367378, "D": "(used to express surprise, mild embarrassment, etc., or as a casual apology.)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 18203, "D": "of or relating to Aquarius, or to the Age of Aquarius. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 122559, "D": "inflammation of the stomach and intestines.", "S": [], "A": []}

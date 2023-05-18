@@ -1,0 +1,1 @@
+{"index": 242209, "D": "having a corolla of separate petals.", "S": [], "A": []}

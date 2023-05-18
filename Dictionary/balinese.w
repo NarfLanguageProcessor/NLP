@@ -1,0 +1,1 @@
+{"index": 26849, "D": "of or relating to Bali,  its people, or their language.", "S": [], "A": []}

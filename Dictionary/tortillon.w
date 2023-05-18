@@ -1,0 +1,1 @@
+{"index": 326325, "D": "a stump made of paper twisted to a point, used in drawing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 159927, "D": "unskilled or untrained for one's work; amateur", "S": [], "A": []}

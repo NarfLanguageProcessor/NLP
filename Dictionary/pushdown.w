@@ -1,0 +1,1 @@
+{"index": 257186, "D": "a sudden, downward shift by an aircraft in the direction of the flight path.", "S": ["depress ", "drop ", "reduce ", "sink "], "A": ["raise ", "rise "]}

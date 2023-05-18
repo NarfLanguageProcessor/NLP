@@ -1,0 +1,1 @@
+{"index": 197811, "D": "(of an animal, bird, etc) feeding on carrion", "S": [], "A": []}

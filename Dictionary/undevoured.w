@@ -1,0 +1,1 @@
+{"index": 340280, "D": "to swallow or eat up hungrily, voraciously, or ravenously.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 50880, "D": "(not in technical use) a percentile.", "S": [], "A": []}

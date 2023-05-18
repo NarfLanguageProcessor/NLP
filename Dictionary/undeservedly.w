@@ -1,0 +1,1 @@
+{"index": 340162, "D": "according to desert; justly; rightly.", "S": [], "A": []}

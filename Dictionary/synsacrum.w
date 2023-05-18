@@ -1,0 +1,1 @@
+{"index": 291998, "D": "a dorsal ridge of bone in the pelvic region of birds, formed by the fusion of certain thoracic, lumbar, sacral, and caudal vertebrae.", "S": [], "A": []}

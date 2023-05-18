@@ -1,0 +1,1 @@
+{"index": 13451, "D": "an embryonic area capable of forming a structure", "S": [], "A": []}

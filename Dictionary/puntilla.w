@@ -1,0 +1,1 @@
+{"index": 256755, "D": "(in bullfighting) a short dagger used for cutting the spinal cord of the bull.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 277550, "D": "(in India) an association, esp one formed to organize political activity", "S": [], "A": []}

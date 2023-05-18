@@ -1,0 +1,1 @@
+{"index": 351414, "D": "struck, as with a hard blow.", "S": [], "A": []}

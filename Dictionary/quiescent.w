@@ -1,0 +1,1 @@
+{"index": 258551, "D": "being at rest; inactive or motionless; quiet; still", "S": ["asleep ", "at rest ", "dormant ", "fallow ", "idle ", "immobile ", "in abeyance ", "inert ", "inoperative ", "latent ", "motionless ", "passive ", "quiet ", "slumbering ", "stagnant ", "still "], "A": ["active "]}

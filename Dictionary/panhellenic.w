@@ -1,0 +1,1 @@
+{"index": 224638, "D": "of or relating to all Greeks or to Panhellenism.", "S": [], "A": []}

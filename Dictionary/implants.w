@@ -1,0 +1,1 @@
+{"index": 148737, "D": "to put or fix firmly", "S": ["bridge ", "choppers ", "partial "], "A": []}

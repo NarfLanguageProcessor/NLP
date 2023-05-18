@@ -1,0 +1,1 @@
+{"index": 195632, "D": "a bar for holding the edges of window panes within a sash.", "S": [], "A": []}

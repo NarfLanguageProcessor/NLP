@@ -1,0 +1,1 @@
+{"index": 214498, "D": "of, relating to, or having the nature of an orgy. ", "S": ["indecent ", "lewd ", "pornographic ", "prurient ", "salacious ", "vulgar "], "A": ["clean ", "decent ", "moral "]}

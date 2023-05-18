@@ -1,0 +1,1 @@
+{"index": 21272, "D": "the omission of conjunctions, as in \u201cHe has provided people with jobs, with opportunity, with self-respect.\u201d", "S": [], "A": []}

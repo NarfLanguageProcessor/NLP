@@ -1,0 +1,1 @@
+{"index": 193502, "D": "in or during the morning  regularly.", "S": ["dawn "], "A": ["darkness ", "sunset "]}

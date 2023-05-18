@@ -1,0 +1,1 @@
+{"index": 350082, "D": "to undergo decomposition; decay.", "S": [], "A": []}

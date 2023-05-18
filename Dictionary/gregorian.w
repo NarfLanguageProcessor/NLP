@@ -1,0 +1,1 @@
+{"index": 129665, "D": "of or relating to any of the popes named Gregory,  especially Gregory I  or Gregory XIII. ", "S": [], "A": []}

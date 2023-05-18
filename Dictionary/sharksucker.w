@@ -1,0 +1,1 @@
+{"index": 287538, "D": "any of several remoras, as Echeneis naucrates, usually found attached to sharks. ", "S": [], "A": []}

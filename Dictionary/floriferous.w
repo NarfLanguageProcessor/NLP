@@ -1,0 +1,1 @@
+{"index": 115043, "D": "producing blossoms; flower-bearing.", "S": [], "A": []}

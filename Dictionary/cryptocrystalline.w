@@ -1,0 +1,1 @@
+{"index": 73221, "D": "having a microscopic crystalline  structure.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 279167, "D": "a tool or device for cutting, typically a thin blade of metal with a series of sharp teeth.", "S": ["carve ", "divide ", "rip ", "slash ", "slice "], "A": ["combine ", "unite ", "close ", "connect ", "join ", "mend "]}

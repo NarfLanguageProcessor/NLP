@@ -1,0 +1,1 @@
+{"index": 73820, "D": "one of the fine wires or fibers, strands of spider web, or the like, crossing in a focal plane of an optical instrument to center a target or object or to define a line of sight.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 301013, "D": "an inert, tough polymer forming the resistant outer coat of a pollen grain or spore.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 115518, "D": "a blush; rosy glow", "S": ["even ", "horizontal ", "level ", "plane ", "smooth ", "square ", "true "], "A": ["broken ", "dishonest ", "irregular ", "rough ", "uneven ", "upright ", "vertical "]}

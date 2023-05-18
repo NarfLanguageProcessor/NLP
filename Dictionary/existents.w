@@ -1,0 +1,1 @@
+{"index": 107260, "D": "existing;  having existence. ", "S": ["existing "], "A": []}

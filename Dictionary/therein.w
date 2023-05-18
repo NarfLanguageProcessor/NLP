@@ -1,0 +1,1 @@
+{"index": 321243, "D": "in or into that place or thing.", "S": ["in that ", "in that matter ", "in that respect ", "in there ", "inside ", "internally ", "inward ", "there "], "A": []}

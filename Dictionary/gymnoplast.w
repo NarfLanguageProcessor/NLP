@@ -1,0 +1,1 @@
+{"index": 125081, "D": "a mass of protoplasm without an enclosing wall.", "S": [], "A": []}

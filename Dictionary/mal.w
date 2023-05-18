@@ -1,0 +1,1 @@
+{"index": 178138, "D": "a combining form meaning \u201cbad,\u201d \u201cwrongful,\u201d \u201cill,\u201d occurring originally in loanwords from French (malapert); on this model, used in the formation of other words (malfunction; malcontent).", "S": [], "A": []}

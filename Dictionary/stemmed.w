@@ -1,0 +1,1 @@
+{"index": 303600, "D": "having a stem  or a specified kind of stem  (often used in combination)", "S": ["arise ", "derive ", "emanate "], "A": ["cease ", "decrease ", "end ", "halt ", "lessen ", "repress ", "stop "]}

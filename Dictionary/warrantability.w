@@ -1,0 +1,1 @@
+{"index": 362755, "D": [], "S": ["just punishment ", "nemesis ", "punitive action ", "retribution ", "retributive justice ", "virtue rewarded "], "A": []}

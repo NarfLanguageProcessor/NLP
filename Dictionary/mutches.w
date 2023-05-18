@@ -1,0 +1,1 @@
+{"index": 196241, "D": "a close-fitting linen or muslin cap, as worn by elderly women or babies.", "S": [], "A": []}

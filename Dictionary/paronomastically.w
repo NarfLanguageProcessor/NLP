@@ -1,0 +1,1 @@
+{"index": 226756, "D": "the use of a word in different senses or the use of words similar in sound to achieve a specific effect, as humor or a dual meaning; punning.", "S": [], "A": []}

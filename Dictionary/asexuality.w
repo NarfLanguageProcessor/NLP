@@ -1,0 +1,1 @@
+{"index": 21105, "D": " the state or quality of having little or no sexual attraction to other people", "S": [], "A": []}

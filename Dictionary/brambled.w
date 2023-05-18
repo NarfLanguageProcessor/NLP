@@ -1,0 +1,1 @@
+{"index": 39820, "D": "any prickly shrub belonging to the genus Rubus, of the rose family.", "S": ["bobble ", "bungle ", "stumble "], "A": []}

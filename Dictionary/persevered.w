@@ -1,0 +1,1 @@
+{"index": 231903, "D": "to persist in anything undertaken; maintain a purpose in spite of difficulty, obstacles, or discouragement; continue steadfastly.", "S": ["endure ", "hold on ", "keep going ", "persist ", "press on ", "proceed ", "pursue ", "stand firm "], "A": ["cease ", "discontinue ", "give up ", "stop "]}

@@ -1,0 +1,1 @@
+{"index": 199396, "D": "a large island in E Canada. 42,734 sq. mi. (110,680 sq. km).", "S": [], "A": []}

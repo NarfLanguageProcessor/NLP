@@ -1,0 +1,1 @@
+{"index": 83607, "D": "a person who makes a devise.", "S": [], "A": []}

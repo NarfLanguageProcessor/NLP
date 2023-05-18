@@ -1,0 +1,1 @@
+{"index": 84920, "D": "any angiospermous plant of the class (or subclass) Dicotyledoneae, producing seeds with two cotyledons and having an exogenous manner of growth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 167443, "D": "a landed proprietor.", "S": [], "A": []}

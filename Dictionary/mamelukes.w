@@ -1,0 +1,1 @@
+{"index": 178741, "D": "a member of a military class, originally composed of slaves, that seized control of the Egyptian sultanate in 1250, ruled until 1517, and remained powerful until massacred or dispersed by Mehemet Ali in 1811.", "S": [], "A": []}

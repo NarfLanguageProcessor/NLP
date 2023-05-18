@@ -1,0 +1,1 @@
+{"index": 277901, "D": "the bloodroot, Sanguinaria canadensis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 264993, "D": "Compare initiative (def. 4a). ", "S": [], "A": []}

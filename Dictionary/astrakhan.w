@@ -1,0 +1,1 @@
+{"index": 22185, "D": "a fur of young lambs, with lustrous, closely curled wool, from Astrakhan.", "S": [], "A": []}

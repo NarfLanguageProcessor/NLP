@@ -1,0 +1,1 @@
+{"index": 272733, "D": "of common or frequent occurrence; prevalent; in widespread existence, activity, or use", "S": [], "A": []}

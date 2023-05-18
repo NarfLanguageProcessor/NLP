@@ -1,0 +1,1 @@
+{"index": 277356, "D": "any of various plants of sea beaches, salt marshes, and alkaline regions, especially belonging to the genus Salsola, of the amaranth family, as S. kali, a bushy plant having prickly leaves, or belonging to the genus Salicornia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 238825, "D": "(in competitive sports) the playing of an extra game, rounds, innings, etc., in order to settle a tie.", "S": ["crown ", "showdown ", "tournament "], "A": []}

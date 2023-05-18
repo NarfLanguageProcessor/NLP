@@ -1,0 +1,1 @@
+{"index": 219173, "D": "pertaining to or involving emotion  or the emotions. ", "S": ["flamboyant ", "frenzied ", "histrionical ", "maudlin ", "mawkish ", "overwrought ", "sensational ", "sentimental ", "stagy "], "A": ["deadpan ", "low-key ", "matter-of-fact ", "understated "]}

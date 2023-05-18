@@ -1,0 +1,1 @@
+{"index": 170123, "D": "having the function of making laws", "S": ["congressional ", "parliamentary ", "senatorial "], "A": []}

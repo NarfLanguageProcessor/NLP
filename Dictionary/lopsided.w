@@ -1,0 +1,1 @@
+{"index": 175212, "D": "heavier, larger, or more developed on one side than on the other; unevenly balanced; unsymmetrical.", "S": ["one-sided ", "unbalanced ", "unequal "], "A": ["balanced ", "even "]}

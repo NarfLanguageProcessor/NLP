@@ -1,0 +1,1 @@
+{"index": 140867, "D": "endearing, as a pet name, diminutive, or euphemism.", "S": ["byname ", "diminutive ", "nickname ", "pretty name "], "A": []}

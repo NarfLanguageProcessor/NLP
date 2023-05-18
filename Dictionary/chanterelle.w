@@ -1,0 +1,1 @@
+{"index": 52545, "D": "a mushroom, Cantharellus cibarius, having a bright yellow-to-orange funnel-shaped cap, a favorite edible species in France.", "S": [], "A": []}

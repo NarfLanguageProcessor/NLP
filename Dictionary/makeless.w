@@ -1,0 +1,1 @@
+{"index": 178098, "D": "having no mate or match.", "S": ["collapse ", "crumple ", "decline ", "decrease ", "descend ", "drop ", "pitch ", "plunge ", "reduce ", "sink ", "slump ", "tumble "], "A": ["ascend ", "expand ", "go up ", "grow ", "increase ", "raise ", "rise ", "strengthen "]}

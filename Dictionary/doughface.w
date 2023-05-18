@@ -1,0 +1,1 @@
+{"index": 92039, "D": "a Northerner who sympathized with the South during the controversies over new territories and slavery before the Civil War.", "S": [], "A": []}

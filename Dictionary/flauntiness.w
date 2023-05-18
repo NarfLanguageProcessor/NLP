@@ -1,0 +1,1 @@
+{"index": 114175, "D": "(of persons) given to display; inclined to be ostentatious, showy, or vain.", "S": [], "A": []}

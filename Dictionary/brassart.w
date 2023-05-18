@@ -1,0 +1,1 @@
+{"index": 40008, "D": "a decorative cloth band, often braided or tasseled, worn around the upper arm, as by military personnel to signify a particular group, regiment, etc.", "S": [], "A": []}

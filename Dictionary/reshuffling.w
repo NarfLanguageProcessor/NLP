@@ -1,0 +1,1 @@
+{"index": 269338, "D": "to walk without lifting the feet or with clumsy steps and a shambling gait.", "S": ["readjust ", "reconstruct ", "reorganize ", "reposition ", "revamp ", "rework "], "A": ["remain "]}

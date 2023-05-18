@@ -1,0 +1,1 @@
+{"index": 156718, "D": "having many interrelated parts or facets; entangled or involved", "S": [], "A": []}

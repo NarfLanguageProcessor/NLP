@@ -1,0 +1,1 @@
+{"index": 176008, "D": "a song used to lull a child to sleep; cradlesong.", "S": ["soothe "], "A": ["aggravate ", "agitate ", "arouse ", "continue ", "develop ", "disturb ", "enlarge ", "excite ", "expand ", "extend ", "grow ", "incite ", "increase ", "intensify ", "irritate ", "move ", "prolong ", "raise ", "rise ", "start ", "upset ", "win "]}

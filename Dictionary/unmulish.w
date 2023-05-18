@@ -1,0 +1,1 @@
+{"index": 346662, "D": "of or like a mule,  as being very stubborn, obstinate, or intractable.", "S": [], "A": []}

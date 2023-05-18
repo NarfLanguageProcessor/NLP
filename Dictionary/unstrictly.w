@@ -1,0 +1,1 @@
+{"index": 352168, "D": "characterized by or acting in close conformity to requirements or principles", "S": [], "A": []}

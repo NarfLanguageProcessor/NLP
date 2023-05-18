@@ -1,0 +1,1 @@
+{"index": 198421, "D": "a movement in Protestant theology, beginning after World War I, stressing the absolute sovereignty of God and chiefly characterized by a reaction against liberal theology and a reaffirmation of certain doctrines of the Reformation.", "S": [], "A": []}

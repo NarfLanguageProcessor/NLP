@@ -1,0 +1,1 @@
+{"index": 275133, "D": "masonry built of rubble  or roughly dressed stones.", "S": [], "A": []}

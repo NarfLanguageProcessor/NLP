@@ -1,0 +1,1 @@
+{"index": 305473, "D": "an abnormal rise in the level of the sea along a coast caused by the onshore winds of a severe cyclone.", "S": [], "A": []}

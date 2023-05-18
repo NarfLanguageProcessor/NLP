@@ -1,0 +1,1 @@
+{"index": 335665, "D": "the growth of hair on the face of an adult man, often including a mustache.", "S": [], "A": []}

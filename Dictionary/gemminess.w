@@ -1,0 +1,1 @@
+{"index": 123349, "D": "having gems; set with gems.", "S": [], "A": []}

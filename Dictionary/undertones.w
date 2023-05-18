@@ -1,0 +1,1 @@
+{"index": 340019, "D": "a low or subdued tone", "S": ["connotation ", "overtone ", "tinge ", "undercurrent "], "A": ["lot "]}

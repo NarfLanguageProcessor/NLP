@@ -1,0 +1,1 @@
+{"index": 312955, "D": [], "S": ["change ", "commerce ", "network ", "swap ", "transaction ", "transfer "], "A": ["stagnation "]}

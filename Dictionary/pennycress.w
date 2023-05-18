@@ -1,0 +1,1 @@
+{"index": 229739, "D": "any of several plants belonging to herbs of the genus Thlaspi, of the mustard family, especially T. arvense, of Europe, bearing somewhat round, flat pods.", "S": [], "A": []}

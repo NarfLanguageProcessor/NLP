@@ -1,0 +1,1 @@
+{"index": 198803, "D": "Russian diplomat and statesman.", "S": [], "A": []}

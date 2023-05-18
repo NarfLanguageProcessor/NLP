@@ -1,0 +1,1 @@
+{"index": 158093, "D": "the master  of a foundry or ironworks; a manufacturer of iron. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259710, "D": "almost entirely transparent to radiation; almost entirely invisible in x-ray photographs and under fluoroscopy.", "S": [], "A": []}

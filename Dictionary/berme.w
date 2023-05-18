@@ -1,0 +1,1 @@
+{"index": 32142, "D": "a horizontal surface between the exterior slope of a rampart and the moat.", "S": [], "A": []}

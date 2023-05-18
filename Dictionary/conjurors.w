@@ -1,0 +1,1 @@
+{"index": 66463, "D": "a person who conjures  spirits or practices magic; magician.", "S": ["conjurer "], "A": []}

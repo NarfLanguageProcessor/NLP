@@ -1,0 +1,1 @@
+{"index": 109401, "D": "the official state political party in Spain from 1936 until disbandment in 1977.", "S": [], "A": []}

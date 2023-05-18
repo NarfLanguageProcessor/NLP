@@ -1,0 +1,1 @@
+{"index": 252802, "D": "the act of offering or suggesting something to be considered, accepted, adopted, or done.", "S": [], "A": []}

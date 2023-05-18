@@ -1,0 +1,1 @@
+{"index": 248439, "D": "of or relating to present and recent time; not ancient or remote", "S": [], "A": []}

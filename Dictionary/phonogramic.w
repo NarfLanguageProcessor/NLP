@@ -1,0 +1,1 @@
+{"index": 234724, "D": "a unit symbol of a phonetic writing system, standing for a speech sound, syllable, or other sequence of speech sounds without reference to meaning.", "S": [], "A": []}

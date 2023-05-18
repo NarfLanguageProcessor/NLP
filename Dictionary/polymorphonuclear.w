@@ -1,0 +1,1 @@
+{"index": 242096, "D": "(of a leukocyte) having a lobulate nucleus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 69177, "D": "a person or thing that corks. ", "S": [], "A": []}

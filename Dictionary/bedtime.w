@@ -1,0 +1,1 @@
+{"index": 30240, "D": "the time  at which a person usually goes to bed", "S": ["lights out ", "sack time ", "sleep time ", "sleepy time ", "slumbertime ", "time to hit the hay ", "time to hit the sack ", "time to retire ", "time to turn in "], "A": []}

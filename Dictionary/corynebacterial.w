@@ -1,0 +1,1 @@
+{"index": 69120, "D": "rod-shaped bacteria  of the genus Corynebacterium, many species of which are pathogenic.", "S": [], "A": []}

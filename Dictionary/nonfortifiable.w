@@ -1,0 +1,1 @@
+{"index": 204156, "D": "to protect or strengthen against attack; surround or provide with defensive military works.", "S": [], "A": []}

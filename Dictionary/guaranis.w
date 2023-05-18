@@ -1,0 +1,1 @@
+{"index": 130753, "D": "a paper money and monetary unit of Paraguay, equal to 100 centimos.", "S": [], "A": []}

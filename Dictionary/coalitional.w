@@ -1,0 +1,1 @@
+{"index": 60992, "D": "a combination or alliance, especially a temporary one between persons, factions, states, etc.", "S": [], "A": []}

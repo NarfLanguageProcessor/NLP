@@ -1,0 +1,1 @@
+{"index": 140650, "D": "a short line (-) used to connect the parts of a compound word or the parts of a word divided for any purpose.", "S": [], "A": []}

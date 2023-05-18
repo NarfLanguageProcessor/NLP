@@ -1,0 +1,1 @@
+{"index": 49181, "D": "to cause (a nutrient or other substance) to undergo catabolism. ", "S": [], "A": []}

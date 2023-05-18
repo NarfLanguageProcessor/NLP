@@ -1,0 +1,1 @@
+{"index": 365961, "D": "(in the folklore of the Ojibwe and other Algonquian peoples) a cannibalistic giant, the transformation of a person who has eaten human flesh.", "S": [], "A": []}

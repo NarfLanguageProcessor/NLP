@@ -1,0 +1,1 @@
+{"index": 251545, "D": "an act or instance of distributing.", "S": [], "A": []}

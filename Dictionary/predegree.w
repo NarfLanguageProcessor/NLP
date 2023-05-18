@@ -1,0 +1,1 @@
+{"index": 246740, "D": "any of a series of steps or stages, as in a process or course of action; a point in any scale.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332622, "D": "a jet engine having a large impeller that takes in air, part of which is used in combustion of fuel, the remainder being mixed with the products of combustion to form a low-velocity exhaust jet.", "S": ["fanjet ", "pulsejet ", "ramjet ", "reaction engine ", "rocket ", "rocket motor ", "turbojet ", "turboprop "], "A": []}

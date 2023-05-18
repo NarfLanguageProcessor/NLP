@@ -1,0 +1,1 @@
+{"index": 195413, "D": "possessing several or many values.", "S": [], "A": []}

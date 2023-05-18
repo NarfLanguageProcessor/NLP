@@ -1,0 +1,1 @@
+{"index": 237929, "D": "small turnovers or dumplings with a filling, as of meat or fruit.", "S": [], "A": []}

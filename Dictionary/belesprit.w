@@ -1,0 +1,1 @@
+{"index": 31043, "D": "a person of great wit or intellect", "S": [], "A": []}

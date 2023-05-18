@@ -1,0 +1,1 @@
+{"index": 89314, "D": "neglectful; careless.", "S": ["careless ", "inconsiderate ", "neglectful ", "negligent ", "unthoughtful "], "A": []}

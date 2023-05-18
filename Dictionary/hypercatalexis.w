@@ -1,0 +1,1 @@
+{"index": 139951, "D": "the addition of one or more syllables after the final foot in a line of verse.", "S": [], "A": []}

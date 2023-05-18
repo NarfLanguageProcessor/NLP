@@ -1,0 +1,1 @@
+{"index": 318416, "D": "having an accumulation of yolk near the vegetal pole, as the large-yolked eggs or ova of reptiles and birds.", "S": [], "A": []}

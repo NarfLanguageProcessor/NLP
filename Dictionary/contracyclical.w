@@ -1,0 +1,1 @@
+{"index": 67559, "D": "countercyclical. ", "S": [], "A": []}

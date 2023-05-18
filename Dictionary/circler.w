@@ -1,0 +1,1 @@
+{"index": 57974, "D": "a closed plane curve consisting of all points at a given distance from a point within it called the center. Equation", "S": [], "A": []}

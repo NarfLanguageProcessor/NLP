@@ -1,0 +1,1 @@
+{"index": 179535, "D": "(in Spain and Spanish America) a cloak or wrap.", "S": ["cloth ", "scarf ", "stole "], "A": []}

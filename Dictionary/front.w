@@ -1,0 +1,1 @@
+{"index": 119330, "D": "the foremost part or surface of anything.", "S": ["frontal "], "A": ["inferior ", "last "]}

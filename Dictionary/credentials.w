@@ -1,0 +1,1 @@
+{"index": 72487, "D": "information that identifies an account and keeps it secure, as username and password", "S": ["diploma "], "A": ["disapproval ", "refusal "]}

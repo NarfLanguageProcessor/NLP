@@ -1,0 +1,1 @@
+{"index": 352656, "D": "a claw, especially of a bird of prey.", "S": [], "A": []}

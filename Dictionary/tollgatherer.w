@@ -1,0 +1,1 @@
+{"index": 325304, "D": "a person who collects tolls, taxes, or other imposts.", "S": [], "A": []}

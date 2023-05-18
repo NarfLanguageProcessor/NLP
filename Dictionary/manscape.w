@@ -1,0 +1,1 @@
+{"index": 179502, "D": "(of a man) to remove (unwanted body hair other than scalp hair) by waxing, shaving, etc.", "S": [], "A": []}

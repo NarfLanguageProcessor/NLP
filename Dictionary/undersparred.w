@@ -1,0 +1,1 @@
+{"index": 339854, "D": "having spars  too small to carry the necessary sail.", "S": [], "A": []}

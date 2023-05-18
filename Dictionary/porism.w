@@ -1,0 +1,1 @@
+{"index": 243420, "D": "a type of mathematical proposition considered by Euclid, the meaning of which is now obscure. It is thought to be a proposition affirming the possibility of finding such conditions as will render a certain problem indeterminate or capable of innumerable solutions", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 331715, "D": "deserving of trust  or confidence; dependable; reliable", "S": ["conscientiously ", "earnestly ", "firmly ", "resolutely ", "sincerely ", "staunchly ", "steadfastly "], "A": []}

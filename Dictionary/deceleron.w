@@ -1,0 +1,1 @@
+{"index": 78170, "D": "an aileron that acts as a brake.", "S": [], "A": []}

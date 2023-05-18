@@ -1,0 +1,1 @@
+{"index": 361309, "D": "a cavity, usually in the lungs, containing pus.", "S": [], "A": []}

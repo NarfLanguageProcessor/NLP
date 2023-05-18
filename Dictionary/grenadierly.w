@@ -1,0 +1,1 @@
+{"index": 129726, "D": "(in the British army) a member of the first regiment of household infantry (Grenadier Guards ).", "S": [], "A": []}

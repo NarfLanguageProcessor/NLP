@@ -1,0 +1,1 @@
+{"index": 219583, "D": "a degree or step in a scale, as of rank, advancement, quality, value, or intensity", "S": [], "A": []}

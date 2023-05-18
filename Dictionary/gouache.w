@@ -1,0 +1,1 @@
+{"index": 128294, "D": "a technique of painting with opaque watercolors prepared with gum.", "S": [], "A": []}

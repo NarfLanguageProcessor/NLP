@@ -1,0 +1,1 @@
+{"index": 27011, "D": "an air or gasbag compartment in a balloon  or airship, used to control buoyancy and maintain shape.", "S": [], "A": []}

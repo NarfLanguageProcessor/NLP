@@ -1,0 +1,1 @@
+{"index": 118250, "D": "a fight, battle, or skirmish.", "S": ["erode ", "frazzle ", "unravel ", "wear away "], "A": ["please ", "sew "]}

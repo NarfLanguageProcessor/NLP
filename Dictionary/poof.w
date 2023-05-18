@@ -1,0 +1,1 @@
+{"index": 243123, "D": "(used to express or indicate a sudden disappearance)", "S": [], "A": []}

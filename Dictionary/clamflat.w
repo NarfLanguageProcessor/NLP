@@ -1,0 +1,1 @@
+{"index": 59139, "D": "a level stretch of mud, exposed by the tide, where clams burrow.", "S": [], "A": []}

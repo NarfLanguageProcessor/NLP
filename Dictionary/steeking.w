@@ -1,0 +1,1 @@
+{"index": 303378, "D": "to shut, close, fasten or lock (a window, door, or the like).", "S": [], "A": []}

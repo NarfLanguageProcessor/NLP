@@ -1,0 +1,1 @@
+{"index": 242782, "D": "a radioactive element discovered by Pierre and Marie Curie in 1898; Symbol", "S": [], "A": []}

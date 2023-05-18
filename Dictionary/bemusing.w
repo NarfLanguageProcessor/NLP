@@ -1,0 +1,1 @@
+{"index": 31443, "D": "to bewilder or confuse.", "S": ["amaze ", "bewilder ", "daze ", "muddle ", "perplex ", "puzzle ", "stun ", "stupefy "], "A": ["clarify ", "clear up ", "enlighten ", "explain "]}

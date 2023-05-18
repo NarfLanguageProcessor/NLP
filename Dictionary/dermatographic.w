@@ -1,0 +1,1 @@
+{"index": 82163, "D": "a condition in which touching or lightly scratching the skin causes raised, reddish marks.", "S": [], "A": []}

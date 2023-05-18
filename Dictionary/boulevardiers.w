@@ -1,0 +1,1 @@
+{"index": 38932, "D": "a person who frequents the most fashionable Parisian locales.", "S": [], "A": []}

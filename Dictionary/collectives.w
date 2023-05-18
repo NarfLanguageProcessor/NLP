@@ -1,0 +1,1 @@
+{"index": 62908, "D": "formed by collection. ", "S": ["commune "], "A": []}

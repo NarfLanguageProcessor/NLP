@@ -1,0 +1,1 @@
+{"index": 210563, "D": "characterized by diminished responsiveness to stimuli, often due to a state of reduced consciousness", "S": ["cripple ", "dampen ", "debilitate ", "sap ", "soften ", "undermine ", "water down ", "weaken "], "A": ["aid ", "assist ", "encourage ", "help ", "strengthen ", "enliven ", "increase "]}

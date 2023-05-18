@@ -1,0 +1,1 @@
+{"index": 206742, "D": "of, relating to, or of the nature of a republic.", "S": [], "A": []}

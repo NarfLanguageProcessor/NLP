@@ -1,0 +1,1 @@
+{"index": 188714, "D": "to arrange  incorrectly or improperly", "S": ["befuddle ", "clutter ", "complicate ", "derange ", "discombobulate ", "disturb ", "fluster ", "perturb "], "A": ["calm ", "comfort ", "explain ", "order ", "soothe ", "arrange ", "clarify ", "clear up ", "do well ", "enlighten ", "fix ", "help ", "organize ", "succeed ", "untangle ", "untwist "]}

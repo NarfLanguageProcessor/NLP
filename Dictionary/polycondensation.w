@@ -1,0 +1,1 @@
+{"index": 241778, "D": "formation of a polymer by chemical condensation  with the elimination of a small molecule, such as water.", "S": [], "A": []}

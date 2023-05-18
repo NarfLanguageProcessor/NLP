@@ -1,0 +1,1 @@
+{"index": 243948, "D": "a mailbox, especially one for public deposit of mail.", "S": ["letter drop ", "letterbox ", "mail drop ", "mailbox ", "pillar box "], "A": []}

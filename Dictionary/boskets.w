@@ -1,0 +1,1 @@
+{"index": 38577, "D": "a grove; thicket.", "S": ["foliage ", "hedge ", "shrubbery ", "thicket ", "topiary ", "tree "], "A": []}

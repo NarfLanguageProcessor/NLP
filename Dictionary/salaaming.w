@@ -1,0 +1,1 @@
+{"index": 276901, "D": "a salutation meaning \u201cpeace,\u201d used especially in Islamic countries.", "S": ["accost ", "acknowledge ", "address ", "approach ", "attend ", "embrace ", "hail ", "meet ", "receive ", "salute ", "shake hands ", "stop "], "A": ["avoid ", "disregard ", "dodge ", "ignore ", "shun ", "slight "]}

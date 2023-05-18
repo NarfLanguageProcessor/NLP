@@ -1,0 +1,1 @@
+{"index": 192063, "D": [], "S": ["abbot ", "friar ", "priest "], "A": []}

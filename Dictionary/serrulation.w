@@ -1,0 +1,1 @@
+{"index": 286392, "D": "serrulate  condition or form.", "S": [], "A": []}

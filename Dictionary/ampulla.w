@@ -1,0 +1,1 @@
+{"index": 11355, "D": "a dilated portion of a canal or duct, especially of the semicircular canals of the ear.", "S": ["beaker ", "canteen ", "carafe ", "chalice ", "decanter ", "jug ", "urn ", "vial "], "A": []}

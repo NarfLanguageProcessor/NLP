@@ -1,0 +1,1 @@
+{"index": 368034, "D": "a watch attached to a strap or band worn about the wrist.", "S": ["timepiece "], "A": []}

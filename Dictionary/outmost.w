@@ -1,0 +1,1 @@
+{"index": 217015, "D": "farthest out; outermost.", "S": ["far-off ", "farthermost ", "farthest ", "final ", "furthermost ", "furthest ", "last ", "most distant ", "outermost ", "remotest ", "terminal ", "ultimate ", "utmost ", "uttermost "], "A": []}

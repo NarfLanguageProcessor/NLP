@@ -1,0 +1,1 @@
+{"index": 105666, "D": "feeling or generating intense happiness, confidence, and a sense of well-being", "S": [], "A": []}

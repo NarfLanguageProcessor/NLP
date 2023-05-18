@@ -1,0 +1,1 @@
+{"index": 26304, "D": "baglike; hanging loosely.", "S": ["billowing ", "floppy ", "oversize ", "roomy "], "A": ["firm ", "fitting ", "tight "]}

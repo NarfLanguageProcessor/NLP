@@ -1,0 +1,1 @@
+{"index": 1708, "D": "to confront boldly", "S": [], "A": []}

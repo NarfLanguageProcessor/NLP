@@ -1,0 +1,1 @@
+{"index": 58393, "D": "any of several whitefishes of the genus Coregonus, of the Great Lakes and smaller lakes of eastern North America.", "S": [], "A": []}

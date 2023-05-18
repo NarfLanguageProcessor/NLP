@@ -1,0 +1,1 @@
+{"index": 244379, "D": "bearing or about to bear young; travailing.", "S": [], "A": []}

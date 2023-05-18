@@ -1,0 +1,1 @@
+{"index": 80179, "D": "the sudden disappearance of a lesion or of the signs and symptoms of a disease", "S": [], "A": []}

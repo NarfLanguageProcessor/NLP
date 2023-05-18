@@ -1,0 +1,1 @@
+{"index": 78687, "D": "of pertaining to, or characteristic of the English gothic architecture of the late 13th through the late 14th centuries, characterized by curvilinear tracery, elaborate ornamental sculpture and vaulting, and refinement of stonecutting techniques.", "S": ["embellished "], "A": ["marred ", "unadorned "]}

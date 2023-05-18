@@ -1,0 +1,1 @@
+{"index": 163683, "D": "Compare keyway (def. 1). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 264009, "D": "to define (something) again or differently", "S": ["reconsider "], "A": []}

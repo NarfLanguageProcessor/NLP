@@ -1,0 +1,1 @@
+{"index": 178133, "D": "a member of a people living in northern Mozambique and adjacent regions of Tanzania and Malawi.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 113599, "D": "the act of fixing or the state of being fixed.", "S": ["fascination ", "infatuation ", "preoccupation "], "A": ["dislike ", "hate ", "hatred "]}

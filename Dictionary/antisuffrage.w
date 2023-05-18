@@ -1,0 +1,1 @@
+{"index": 16285, "D": "the right to vote, especially in a political election.", "S": [], "A": []}

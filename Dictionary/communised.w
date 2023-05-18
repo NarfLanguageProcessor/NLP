@@ -1,0 +1,1 @@
+{"index": 64268, "D": "to impose Communist  principles or systems of government on (a country or people).", "S": [], "A": []}

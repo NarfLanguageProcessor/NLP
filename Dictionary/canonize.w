@@ -1,0 +1,1 @@
+{"index": 46510, "D": "to place in the canon  of saints.", "S": ["beatify ", "consecrate "], "A": ["condemn ", "degrade ", "dishonor ", "hate ", "lower "]}

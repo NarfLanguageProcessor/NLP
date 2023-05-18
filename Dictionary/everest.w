@@ -1,0 +1,1 @@
+{"index": 106150, "D": "a mountain in S Asia, on the boundary between Nepal and Tibet, in the Himalayas", "S": [], "A": []}

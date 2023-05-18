@@ -1,0 +1,1 @@
+{"index": 98948, "D": "desirous of equaling or excelling; filled with emulation", "S": [], "A": []}

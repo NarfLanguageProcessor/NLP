@@ -1,0 +1,1 @@
+{"index": 63277, "D": "visual inspection of the interior of the colon with a flexible, lighted tube inserted through the rectum.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 199522, "D": "New York  (approved especially for use with zip code).", "S": [], "A": []}

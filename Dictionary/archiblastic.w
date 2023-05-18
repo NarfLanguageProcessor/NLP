@@ -1,0 +1,1 @@
+{"index": 18910, "D": "of, relating to, or derived from an archiblast. ", "S": [], "A": []}

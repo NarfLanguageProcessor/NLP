@@ -1,0 +1,1 @@
+{"index": 283562, "D": "in the direction of or toward oneself", "S": [], "A": []}

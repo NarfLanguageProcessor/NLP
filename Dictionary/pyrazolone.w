@@ -1,0 +1,1 @@
+{"index": 237638, "D": "any of the group of heterocyclic compounds containing the pyrazoline ring in which one carbon atom is doubly linked to an oxygen atom not in the ring.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 91182, "D": "a dish of tomatoes, green peppers, vine leaves, or eggplants stuffed with a mixture of meat, rice, and spices.", "S": [], "A": []}

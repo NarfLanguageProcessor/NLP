@@ -1,0 +1,1 @@
+{"index": 284694, "D": "not quite permanent. ", "S": [], "A": []}

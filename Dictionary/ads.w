@@ -1,0 +1,1 @@
+{"index": 4440, "D": "American Dialect Society.", "S": ["announcement ", "circular ", "commercial ", "endorsement ", "flyer ", "notice ", "plug ", "promotion "], "A": []}

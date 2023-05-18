@@ -1,0 +1,1 @@
+{"index": 129198, "D": "covered with grass. ", "S": ["carpeted ", "lush ", "verdant "], "A": []}

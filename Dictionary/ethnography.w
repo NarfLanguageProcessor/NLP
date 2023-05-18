@@ -1,0 +1,1 @@
+{"index": 105092, "D": "a branch of anthropology dealing with the scientific description of individual cultures.", "S": [], "A": []}

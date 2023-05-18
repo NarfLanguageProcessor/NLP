@@ -1,0 +1,1 @@
+{"index": 11575, "D": "an unstressed syllable or syllable group that begins a line of verse but is not counted as part of the first foot.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 177061, "D": [], "S": ["shock ", "temblor ", "upheaval "], "A": ["perfection "]}

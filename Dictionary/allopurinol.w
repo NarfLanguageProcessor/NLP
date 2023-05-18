@@ -1,0 +1,1 @@
+{"index": 8933, "D": "a substance, C5H4N4O, used primarily in the treatment of chronic gout to decrease the synthesis of uric acid.", "S": [], "A": []}

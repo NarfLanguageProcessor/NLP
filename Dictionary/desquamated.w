@@ -1,0 +1,1 @@
+{"index": 82896, "D": "to come off in scales, as the skin in certain diseases; peel off.", "S": ["doff ", "shed "], "A": []}

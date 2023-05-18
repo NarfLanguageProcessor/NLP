@@ -1,0 +1,1 @@
+{"index": 50599, "D": "any of several enzymes, produced primarily by fungi and bacteria, that catalyze the hydrolysis of cellulose. ", "S": [], "A": []}

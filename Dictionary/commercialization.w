@@ -1,0 +1,1 @@
+{"index": 64019, "D": "the condition of being focused on the profitable aspects of something, especially to excess", "S": [], "A": []}

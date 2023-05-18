@@ -1,0 +1,1 @@
+{"index": 341418, "D": [], "S": ["abstract ", "fantastic ", "otherworldly ", "sublime ", "supernatural ", "ultimate "], "A": ["poor ", "real ", "secondary "]}

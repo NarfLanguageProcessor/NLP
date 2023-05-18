@@ -1,0 +1,1 @@
+{"index": 29035, "D": "the right or turn to use a club or racket.", "S": [], "A": []}

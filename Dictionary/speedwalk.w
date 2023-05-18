@@ -1,0 +1,1 @@
+{"index": 299040, "D": "an endless conveyor belt, moving walk,  or the like used to transport standing persons from place to place.", "S": [], "A": []}

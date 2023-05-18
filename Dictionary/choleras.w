@@ -1,0 +1,1 @@
+{"index": 55452, "D": "an acute, infectious disease, endemic in India and China and occasionally epidemic elsewhere, characterized by profuse diarrhea, vomiting, cramps, etc.", "S": [], "A": []}

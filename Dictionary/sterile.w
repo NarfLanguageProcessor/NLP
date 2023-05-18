@@ -1,0 +1,1 @@
+{"index": 304023, "D": "free from living germs or microorganisms; aseptic", "S": ["antiseptic ", "arid ", "barren ", "bleak ", "desolate ", "futile ", "hygienic ", "impotent ", "infertile "], "A": ["cheerful ", "contaminated ", "fertile ", "fruitful ", "potent ", "productive ", "profitable ", "unclean ", "unsanitary "]}

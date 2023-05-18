@@ -1,0 +1,1 @@
+{"index": 126020, "D": "a mineral, iron and cobalt sulfarsenide, (Co,Fe)AsS, occurring in grayish-white crystals.", "S": [], "A": []}

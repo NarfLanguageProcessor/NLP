@@ -1,0 +1,1 @@
+{"index": 325668, "D": "The two oval-shaped masses of tissue at the back of the throat that lie between the mouth and the pharynx. The tonsils are thought to prevent infections of the breathing passages but often become infected themselves.", "S": [], "A": []}

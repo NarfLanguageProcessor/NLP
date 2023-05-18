@@ -1,0 +1,1 @@
+{"index": 325654, "D": "a prominent oval mass of lymphoid tissue on each side of the throat.", "S": [], "A": []}

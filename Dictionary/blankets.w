@@ -1,0 +1,1 @@
+{"index": 35729, "D": "a large, rectangular piece of soft fabric, often with bound edges, used especially for warmth as a bed covering.", "S": ["absolute ", "across-the-board ", "sweeping ", "unconditional ", "wide-ranging "], "A": ["conditional ", "limited "]}

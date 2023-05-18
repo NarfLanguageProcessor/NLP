@@ -1,0 +1,1 @@
+{"index": 117178, "D": "a fine; penalty. ", "S": ["abandon ", "lose ", "relinquish ", "renounce ", "surrender "], "A": ["keep ", "win "]}

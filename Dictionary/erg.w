@@ -1,0 +1,1 @@
+{"index": 103579, "D": "the centimeter-gram-second unit of work or energy, equal to the work done by a force of one dyne when its point of application moves through a distance of one centimeter in the direction of the force; 10\u22127 joule.", "S": [], "A": []}

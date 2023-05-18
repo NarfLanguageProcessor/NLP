@@ -1,0 +1,1 @@
+{"index": 175366, "D": "(in India) a small container for water, usually of brass or copper and round in shape.", "S": [], "A": []}

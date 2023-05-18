@@ -1,0 +1,1 @@
+{"index": 67166, "D": "a person who gives professional or expert advice", "S": ["planning board "], "A": []}

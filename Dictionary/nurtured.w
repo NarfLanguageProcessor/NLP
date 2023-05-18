@@ -1,0 +1,1 @@
+{"index": 209741, "D": "to feed and protect", "S": ["accomplished ", "civilized ", "cultured ", "enlightened ", "informed ", "intelligent ", "knowledgeable ", "literate ", "prepared ", "schooled ", "skilled ", "trained ", "well-read "], "A": ["ignorant ", "inexperienced ", "stupid ", "unaware ", "uneducated ", "uninformed ", "unprepared ", "unrefined ", "unsophisticated "]}

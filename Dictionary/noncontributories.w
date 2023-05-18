@@ -1,0 +1,1 @@
+{"index": 202473, "D": "pertaining to or of the nature of contribution; contributing. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83423, "D": "a cupronickel coin and monetary unit of Germany until the euro  was adopted, equal to 100 pfennigs. Abbreviation", "S": [], "A": []}

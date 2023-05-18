@@ -1,0 +1,1 @@
+{"index": 86154, "D": "a member of a tall, pastoral people of Sudan.", "S": [], "A": []}

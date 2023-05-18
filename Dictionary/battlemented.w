@@ -1,0 +1,1 @@
+{"index": 29147, "D": "a parapet or cresting, originally defensive but later usually decorative, consisting of a regular alternation of merlons and crenels; crenelation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 142318, "D": "any shrubby climbing plant of the genus Hoya, of the milkweed family, especially the wax plant, H. carnosa, a pot plant with waxy white flowers.", "S": [], "A": []}

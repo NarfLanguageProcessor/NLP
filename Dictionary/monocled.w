@@ -1,0 +1,1 @@
+{"index": 192188, "D": "an eyeglass for one eye.", "S": [], "A": []}

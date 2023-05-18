@@ -1,0 +1,1 @@
+{"index": 104874, "D": "a month equivalent to Tishri in the modern Jewish calendar. 1 Kings 8", "S": [], "A": []}

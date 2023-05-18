@@ -1,0 +1,1 @@
+{"index": 284715, "D": "the property of being luminous at temperatures below incandescence, as from slow oxidation in the case of phosphorus or after exposure to light or other radiation.", "S": [], "A": []}

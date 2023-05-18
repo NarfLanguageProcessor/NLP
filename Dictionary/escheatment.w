@@ -1,0 +1,1 @@
+{"index": 104187, "D": "the reverting of property to the state or crown when there is no qualified heir or claimant; escheat. ", "S": [], "A": []}

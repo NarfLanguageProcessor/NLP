@@ -1,0 +1,1 @@
+{"index": 74799, "D": "a sharp, knifelike structure, as the mouthparts of certain bloodsucking flies.", "S": [], "A": []}

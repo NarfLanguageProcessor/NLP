@@ -1,0 +1,1 @@
+{"index": 306309, "D": "an out made by a batter to whom three strikes have been charged, or as recorded by the pitcher who accomplishes this.", "S": [], "A": []}

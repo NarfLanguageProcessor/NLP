@@ -1,0 +1,1 @@
+{"index": 303555, "D": "of or relating to the stars; consisting of stars.", "S": ["astronomical ", "cosmic ", "galactic "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309934, "D": "of any such  kind; similar.", "S": ["aforesaid ", "akin ", "alike ", "analogous ", "comparable ", "corresponding ", "equivalent ", "like ", "parallel ", "said ", "similar ", "such a one ", "such a person ", "such a thing ", "that ", "the like ", "this "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 233289, "D": "a colorless, shiny, crystalline, water-insoluble isomer of anthracene, C14H10, derived from coal tar", "S": [], "A": []}

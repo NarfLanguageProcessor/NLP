@@ -1,0 +1,1 @@
+{"index": 66889, "D": "giving comfort; consoling. ", "S": [], "A": []}

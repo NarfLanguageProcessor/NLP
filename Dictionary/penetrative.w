@@ -1,0 +1,1 @@
+{"index": 229619, "D": "tending to penetrate;  piercing.", "S": ["astute ", "intelligent ", "penetrating ", "sharp ", "shrewd ", "smart "], "A": ["blunt ", "dull ", "foolish ", "idiotic ", "ignorant ", "imbecile ", "slow ", "stupid ", "unintelligent ", "unstylish "]}

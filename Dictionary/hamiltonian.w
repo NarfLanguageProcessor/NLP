@@ -1,0 +1,1 @@
+{"index": 132967, "D": "pertaining to or advocating Hamiltonianism. ", "S": [], "A": []}

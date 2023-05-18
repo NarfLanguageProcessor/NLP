@@ -1,0 +1,1 @@
+{"index": 115288, "D": "a liquid preparation, containing alcohol as a solvent or as a preservative, that contains in each cubic centimeter the medicinal activity of one gram of the crude drug in powdered form.", "S": [], "A": []}

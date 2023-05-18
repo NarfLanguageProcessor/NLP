@@ -1,0 +1,1 @@
+{"index": 49485, "D": "oral religious instruction, formerly especially before baptism or confirmation.", "S": [], "A": []}

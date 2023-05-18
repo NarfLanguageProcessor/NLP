@@ -1,0 +1,1 @@
+{"index": 296170, "D": "caused or influenced by society or social factors", "S": [], "A": []}

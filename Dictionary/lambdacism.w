@@ -1,0 +1,1 @@
+{"index": 167576, "D": "a speech articulation error or disorder characterized by excessive use of the sound l, as in its substitution for other consonant sounds.", "S": [], "A": []}

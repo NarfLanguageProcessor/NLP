@@ -1,0 +1,1 @@
+{"index": 74987, "D": "lateness; delay. ", "S": [], "A": []}

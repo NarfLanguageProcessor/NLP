@@ -1,0 +1,1 @@
+{"index": 129616, "D": "superiority, mastery, or victory.", "S": [], "A": []}

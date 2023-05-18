@@ -1,0 +1,1 @@
+{"index": 83987, "D": "having the qualities of a devil; devilish; fiendish;  outrageously wicked", "S": ["cruel ", "fiendish ", "heinous ", "hellish ", "vicious ", "vile ", "wicked "], "A": ["gentle ", "good ", "kind ", "nice "]}

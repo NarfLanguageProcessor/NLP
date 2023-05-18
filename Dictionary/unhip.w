@@ -1,0 +1,1 @@
+{"index": 343743, "D": "ill-informed about or unsympathetic to current fads or trends.", "S": [], "A": []}

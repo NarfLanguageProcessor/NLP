@@ -1,0 +1,1 @@
+{"index": 29140, "D": "the field  or ground on which a battle  is fought.", "S": ["arena ", "battleground ", "front line "], "A": []}

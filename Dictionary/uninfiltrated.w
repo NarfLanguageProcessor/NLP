@@ -1,0 +1,1 @@
+{"index": 344514, "D": "to filter into or through; permeate. ", "S": [], "A": []}

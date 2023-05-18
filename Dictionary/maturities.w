@@ -1,0 +1,1 @@
+{"index": 181367, "D": "the state of being mature; ripeness", "S": ["ability ", "capability ", "experience ", "manhood ", "maturation ", "sophistication ", "wisdom "], "A": ["ignorance ", "impotence ", "inability ", "incompetence ", "stupidity ", "decline ", "downfall ", "imperfection ", "incompleteness ", "stoppage "]}

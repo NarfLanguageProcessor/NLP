@@ -1,0 +1,1 @@
+{"index": 195268, "D": "a number to be multiplied by another.", "S": [], "A": []}

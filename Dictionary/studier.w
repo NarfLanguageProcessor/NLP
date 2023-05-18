@@ -1,0 +1,1 @@
+{"index": 306801, "D": "application of the mind to the acquisition of knowledge, such as by reading, investigation, or reflection", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288694, "D": "a shaped piece of horn,  metal, or the like, inserted in the heel of a shoe  to make it slip on more easily.", "S": ["embed ", "enter ", "fill in ", "imbed ", "implant ", "include ", "inject ", "introduce ", "stick "], "A": ["erase ", "forget ", "dislodge ", "displace ", "halt ", "leave alone ", "remove "]}

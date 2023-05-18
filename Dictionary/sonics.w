@@ -1,0 +1,1 @@
+{"index": 297243, "D": "the branch of science that deals with the practical applications of sound.", "S": [], "A": []}

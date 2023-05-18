@@ -1,0 +1,1 @@
+{"index": 57093, "D": "any complete round or series of occurrences that repeats or is repeated.", "S": ["pedal "], "A": []}

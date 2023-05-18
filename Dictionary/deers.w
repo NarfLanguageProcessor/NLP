@@ -1,0 +1,1 @@
+{"index": 79033, "D": "any of several ruminants of the family Cervidae, most of the males of which have solid, deciduous antlers.", "S": ["buffalo ", "camel ", "cattle ", "cow ", "elephant ", "giraffe ", "hippopotamus ", "hog ", "horse ", "llama ", "pig ", "rhinoceros ", "swine ", "tapir "], "A": []}

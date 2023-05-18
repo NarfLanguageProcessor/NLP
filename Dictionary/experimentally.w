@@ -1,0 +1,1 @@
+{"index": 107728, "D": "pertaining to, derived from, or founded on experiment", "S": ["analytically ", "empirically ", "on probation ", "on trial ", "provisionally ", "temporarily "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 75531, "D": "a respectful bow made by women and girls, consisting of bending the knees and lowering the body.", "S": ["bob ", "bow ", "curtsey ", "dip ", "gesture ", "obeisance "], "A": []}

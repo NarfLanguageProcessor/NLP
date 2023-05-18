@@ -1,0 +1,1 @@
+{"index": 277367, "D": "a gamelike prank in which a youth grabs something belonging to another and throws it to a third, preventing the owner from retrieving it as it is tossed back and forth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 147989, "D": "the state or condition of being imminent  or impending", "S": [], "A": []}

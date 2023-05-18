@@ -1,0 +1,1 @@
+{"index": 15308, "D": "an antibody produced by an animal in reaction to the introduction of globulin  from another animal.", "S": [], "A": []}

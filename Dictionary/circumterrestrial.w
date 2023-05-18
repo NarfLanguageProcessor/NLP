@@ -1,0 +1,1 @@
+{"index": 58266, "D": "surrounding or revolving about the earth.", "S": [], "A": []}

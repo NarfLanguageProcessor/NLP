@@ -1,0 +1,1 @@
+{"index": 306555, "D": "a white or grayish-white, amorphous powder, SrO, resembling lime in its general character", "S": [], "A": []}

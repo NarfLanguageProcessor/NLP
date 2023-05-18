@@ -1,0 +1,1 @@
+{"index": 4542, "D": "serving to foreshadow; faintly indicative", "S": ["classic ", "classical ", "ideal ", "model ", "rep "], "A": ["imperfect "]}

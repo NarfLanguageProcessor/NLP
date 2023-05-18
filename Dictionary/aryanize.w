@@ -1,0 +1,1 @@
+{"index": 19642, "D": "(in Nazi doctrine) to remove all non-Aryan persons from (office, business, etc.).", "S": [], "A": []}

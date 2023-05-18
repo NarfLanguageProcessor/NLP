@@ -1,0 +1,1 @@
+{"index": 336237, "D": "preoccupied with depressing, morbid, or painful memories or thoughts", "S": [], "A": []}

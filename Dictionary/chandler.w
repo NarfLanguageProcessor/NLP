@@ -1,0 +1,1 @@
+{"index": 52445, "D": "a person who makes or sells candles and sometimes other items of tallow or wax, as soap.", "S": ["banker ", "merchant ", "retailer ", "trader ", "trafficker ", "vendor ", "wholesaler "], "A": ["customer "]}

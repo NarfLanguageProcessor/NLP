@@ -1,0 +1,1 @@
+{"index": 91829, "D": "any of several single-user, command-driven operating systems for personal computers, especially MS DOS. ", "S": ["OS ", "operating system ", "system software "], "A": []}

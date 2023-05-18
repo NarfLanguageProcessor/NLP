@@ -1,0 +1,1 @@
+{"index": 13860, "D": "a person who has or experiences anorexia  or especially anorexia nervosa. ", "S": [], "A": []}

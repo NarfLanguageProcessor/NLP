@@ -1,0 +1,1 @@
+{"index": 339535, "D": "a belief or judgment that rests on grounds insufficient to produce complete certainty.", "S": [], "A": []}

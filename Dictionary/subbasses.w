@@ -1,0 +1,1 @@
+{"index": 307300, "D": "the pedal stop on an organ that produces the deepest or lowest tones; fundamental bass.", "S": [], "A": []}

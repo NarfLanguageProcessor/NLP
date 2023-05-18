@@ -1,0 +1,1 @@
+{"index": 60372, "D": "a covered walk, especially in a religious institution, having an open arcade or colonnade usually opening onto a courtyard.", "S": [], "A": []}

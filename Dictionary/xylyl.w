@@ -1,0 +1,1 @@
+{"index": 368538, "D": "of, containing, or denoting the group of atoms (CH 3) 2 C 6 H 3 -, derived from xylene", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349052, "D": "harsh; grating; rasping. ", "S": [], "A": []}

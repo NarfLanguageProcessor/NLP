@@ -1,0 +1,1 @@
+{"index": 79292, "D": "to make foul, dirty, or unclean; pollute; taint; debase. ", "S": [], "A": []}

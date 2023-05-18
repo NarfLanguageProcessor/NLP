@@ -1,0 +1,1 @@
+{"index": 237811, "D": "an object ornamented by pyrography.", "S": [], "A": []}

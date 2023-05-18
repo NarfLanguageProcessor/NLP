@@ -1,0 +1,1 @@
+{"index": 85912, "D": "gradually reducing in force or loudness; decrescendo (opposed to crescendo).", "S": ["attenuation ", "declination ", "depreciation ", "diminution ", "extenuation ", "regression ", "retrenchment "], "A": ["increase "]}

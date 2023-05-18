@@ -1,0 +1,1 @@
+{"index": 165097, "D": "a female given name, Scandinavian form of Christine. ", "S": [], "A": []}

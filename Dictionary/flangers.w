@@ -1,0 +1,1 @@
+{"index": 113933, "D": "a projecting rim, collar, or ring on a shaft, pipe, machine housing, etc., cast or formed to give additional strength, stiffness, or supporting area, or to provide a place for the attachment of other objects.", "S": [], "A": []}

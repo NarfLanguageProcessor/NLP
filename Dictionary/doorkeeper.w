@@ -1,0 +1,1 @@
+{"index": 91554, "D": "a person who guards the entrance of a building.", "S": ["protector "], "A": []}

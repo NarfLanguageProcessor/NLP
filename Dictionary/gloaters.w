@@ -1,0 +1,1 @@
+{"index": 126450, "D": "to look at or think about with great or excessive, often smug or malicious, satisfaction", "S": [], "A": []}

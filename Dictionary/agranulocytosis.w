@@ -1,0 +1,1 @@
+{"index": 6428, "D": "a serious, acute blood disease, sometimes related to drug or radiation therapy, characterized by extreme leukopenia, fever, and ulcerations of the mucous membranes.", "S": [], "A": []}

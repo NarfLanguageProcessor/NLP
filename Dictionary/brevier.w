@@ -1,0 +1,1 @@
+{"index": 40500, "D": "a size of type approximately 8-point, between minion and bourgeois.", "S": [], "A": []}

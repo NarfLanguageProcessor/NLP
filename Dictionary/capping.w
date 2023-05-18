@@ -1,0 +1,1 @@
+{"index": 47037, "D": "overburden (def. 3). ", "S": ["eventual "], "A": ["auxiliary ", "beginning ", "first ", "introductory ", "opening "]}

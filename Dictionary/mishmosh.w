@@ -1,0 +1,1 @@
+{"index": 189417, "D": "a confused mess; hodgepodge; jumble.", "S": ["collage ", "compilation ", "hodgepodge ", "reproduction "], "A": ["original "]}

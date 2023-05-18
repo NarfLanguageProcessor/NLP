@@ -1,0 +1,1 @@
+{"index": 140468, "D": "adherence to or insistence on ritual. ", "S": [], "A": []}

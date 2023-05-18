@@ -1,0 +1,1 @@
+{"index": 118845, "D": "to feel or express worry, annoyance, discontent, or the like", "S": [], "A": []}

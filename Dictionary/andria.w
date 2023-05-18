@@ -1,0 +1,1 @@
+{"index": 12361, "D": "a city in Apulia, S Italy.", "S": [], "A": []}

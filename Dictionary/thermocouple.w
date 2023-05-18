@@ -1,0 +1,1 @@
+{"index": 321383, "D": "a device that consists of the junction of two dissimilar metallic conductors, as copper and iron, in which an electromotive force is induced when the conductors are maintained at different temperatures, the force being related to the temperature difference", "S": [], "A": []}

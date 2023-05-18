@@ -1,0 +1,1 @@
+{"index": 307976, "D": "pertaining to or marked by a temperature slightly above normal.", "S": [], "A": []}

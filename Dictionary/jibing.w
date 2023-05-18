@@ -1,0 +1,1 @@
+{"index": 161170, "D": "to be in harmony or accord; agree", "S": ["arrogant ", "caustic ", "incongruous ", "mocking ", "paradoxical ", "ridiculous ", "sardonic ", "satiric ", "satirical ", "twisted ", "unexpected ", "wry "], "A": ["straight "]}

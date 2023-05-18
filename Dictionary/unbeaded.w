@@ -1,0 +1,1 @@
+{"index": 335658, "D": "ornamented with or largely composed of beads", "S": [], "A": []}

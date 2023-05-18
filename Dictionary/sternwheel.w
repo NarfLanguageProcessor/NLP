@@ -1,0 +1,1 @@
+{"index": 304125, "D": "a paddle wheel  at the stern  of a vessel.", "S": [], "A": []}

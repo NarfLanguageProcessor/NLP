@@ -1,0 +1,1 @@
+{"index": 237241, "D": "a person of less than 16 years of age placed under the jurisdiction of a juvenile court because of habitual disobedience, intractability, or antisocial but noncriminal behavior.", "S": ["affix ", "bind ", "clasp ", "fasten ", "fix "], "A": ["detach ", "let go ", "loose ", "loosen ", "release ", "unfasten ", "disjoin "]}

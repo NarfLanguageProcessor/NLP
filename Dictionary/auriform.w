@@ -1,0 +1,1 @@
+{"index": 23590, "D": "shaped like an ear, as the shell of certain mollusks.", "S": [], "A": []}

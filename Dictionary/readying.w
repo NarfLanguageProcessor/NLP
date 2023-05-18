@@ -1,0 +1,1 @@
+{"index": 261592, "D": "completely prepared or in fit condition for immediate action or use", "S": ["exploratory ", "preparatory ", "prior "], "A": ["additional ", "extra ", "secondary "]}

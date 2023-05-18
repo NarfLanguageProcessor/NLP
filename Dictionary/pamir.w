@@ -1,0 +1,1 @@
+{"index": 224252, "D": "a mountainous region in central Asia, largely in Tajikistan, where three mountain ranges (the Hindu Kush, the Tien Shan,  and the Himalayas) converge", "S": [], "A": []}

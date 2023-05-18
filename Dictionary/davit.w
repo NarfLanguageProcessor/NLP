@@ -1,0 +1,1 @@
+{"index": 77323, "D": "any of various cranelike devices used singly or in pairs for supporting, raising, and lowering especially boats, anchors, and cargo over a hatchway or side of a ship.", "S": [], "A": []}

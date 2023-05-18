@@ -1,0 +1,1 @@
+{"index": 360771, "D": "to give life to; animate; quicken.", "S": ["animate ", "invigorate ", "quicken ", "refresh ", "revive "], "A": ["dull ", "kill "]}

@@ -1,0 +1,1 @@
+{"index": 52963, "D": "of or like paper; papery.", "S": [], "A": []}

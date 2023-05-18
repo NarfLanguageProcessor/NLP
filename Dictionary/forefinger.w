@@ -1,0 +1,1 @@
+{"index": 116655, "D": "the first finger next to the thumb.", "S": ["digit ", "pointer "], "A": []}

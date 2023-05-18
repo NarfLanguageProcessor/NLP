@@ -1,0 +1,1 @@
+{"index": 92109, "D": "the 12 peers or paladins represented in old romances as attendants of Charlemagne.", "S": [], "A": []}

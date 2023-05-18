@@ -1,0 +1,1 @@
+{"index": 219, "D": "abbreviation.", "S": [], "A": []}

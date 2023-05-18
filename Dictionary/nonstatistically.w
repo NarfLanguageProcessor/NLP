@@ -1,0 +1,1 @@
+{"index": 207506, "D": "of, pertaining to, consisting of, or based on statistics. ", "S": [], "A": []}

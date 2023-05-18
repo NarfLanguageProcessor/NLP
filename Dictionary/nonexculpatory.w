@@ -1,0 +1,1 @@
+{"index": 203750, "D": "tending to clear from a charge of fault or guilt.", "S": [], "A": []}

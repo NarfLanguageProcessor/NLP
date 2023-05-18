@@ -1,0 +1,1 @@
+{"index": 150703, "D": "incapable of being tired out; not yielding to fatigue; untiring.", "S": ["dedication ", "determination ", "endurance ", "grit ", "moxie ", "persistence ", "spunk ", "stamina ", "steadfastness ", "tenacity "], "A": ["apathy ", "cowardice ", "indifference ", "irresolution ", "weakness "]}

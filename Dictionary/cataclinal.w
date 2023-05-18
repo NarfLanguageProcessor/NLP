@@ -1,0 +1,1 @@
+{"index": 49196, "D": "(of streams, valleys, etc) running in the direction of the dip of the surrounding rock strata", "S": [], "A": []}

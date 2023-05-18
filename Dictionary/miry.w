@@ -1,0 +1,1 @@
+{"index": 188357, "D": "of the nature of mire;  swampy", "S": ["clammy ", "glutinous ", "mucky ", "mucous ", "muculent ", "muddy ", "oozy ", "scummy ", "sludgy ", "slushy ", "viscous ", "yukky "], "A": []}

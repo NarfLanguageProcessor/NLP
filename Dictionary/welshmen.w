@@ -1,0 +1,1 @@
+{"index": 364089, "D": "a native or inhabitant of Wales.", "S": [], "A": []}

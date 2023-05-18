@@ -1,0 +1,1 @@
+{"index": 131932, "D": "the angle between a fault plane and the vertical, measured perpendicular to the strike of the fault; complement of the dip.", "S": [], "A": []}

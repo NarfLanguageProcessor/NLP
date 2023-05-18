@@ -1,0 +1,1 @@
+{"index": 64991, "D": "to control, perform, process, or store (a system, operation, or information) by means of or in an electronic computer  or computers.", "S": ["load ", "log in "], "A": []}

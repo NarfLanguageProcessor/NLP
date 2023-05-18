@@ -1,0 +1,1 @@
+{"index": 79781, "D": "proving directly.", "S": [], "A": []}

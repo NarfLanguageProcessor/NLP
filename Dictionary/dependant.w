@@ -1,0 +1,1 @@
+{"index": 81554, "D": "a person who depends on another person, organization, etc, for support, aid, or sustenance, esp financial support", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 89289, "D": "a formal discourse or treatise in which a subject is examined and discussed; dissertation.", "S": ["commentary ", "dissertation ", "exposition ", "treatise ", "writing "], "A": []}

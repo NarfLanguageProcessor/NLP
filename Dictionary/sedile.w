@@ -1,0 +1,1 @@
+{"index": 282994, "D": "one of the seats (usually three) on the south side of the chancel, often recessed, for the use of the officiating clergy.", "S": [], "A": []}

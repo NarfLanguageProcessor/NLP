@@ -1,0 +1,1 @@
+{"index": 48250, "D": "a traveling amusement show, having sideshows, rides, etc.", "S": [], "A": []}

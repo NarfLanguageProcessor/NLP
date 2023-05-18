@@ -1,0 +1,1 @@
+{"index": 136281, "D": "to cut into two equal parts; to bisect, especially along a medial longitudinal plane.", "S": [], "A": []}

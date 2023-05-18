@@ -1,0 +1,1 @@
+{"index": 184260, "D": "the study of atmospheric phenomena of relatively small size, as thunderstorms or tornadoes, and of the detailed structure of larger disturbances.", "S": [], "A": []}

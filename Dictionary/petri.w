@@ -1,0 +1,1 @@
+{"index": 232464, "D": "variant of petro-1  before elements of Latin origin", "S": [], "A": []}

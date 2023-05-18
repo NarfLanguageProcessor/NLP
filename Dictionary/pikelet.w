@@ -1,0 +1,1 @@
+{"index": 236518, "D": "a dialect word for a crumpet (def. 1)", "S": [], "A": []}

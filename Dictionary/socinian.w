@@ -1,0 +1,1 @@
+{"index": 296148, "D": "a follower of Faustus and Laelius Socinus who rejected a number of traditional Christian doctrines, as the Trinity, the divinity of Christ, and original sin, and who held that Christ was miraculously begotten and that salvation will be granted to those who adopt Christ's virtues.", "S": [], "A": []}

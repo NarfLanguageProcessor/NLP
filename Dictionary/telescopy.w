@@ -1,0 +1,1 @@
+{"index": 318225, "D": "the use of the telescope. ", "S": [], "A": []}

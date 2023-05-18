@@ -1,0 +1,1 @@
+{"index": 312276, "D": "an extreme or fanatical loyalty or devotion to a nation.", "S": [], "A": []}

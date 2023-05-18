@@ -1,0 +1,1 @@
+{"index": 16812, "D": "apheliotropic  tendency or type of growth.", "S": [], "A": []}

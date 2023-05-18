@@ -1,0 +1,1 @@
+{"index": 160212, "D": "(in Indian architecture) decorated and pierced slabs of marble used as a screen.", "S": [], "A": []}

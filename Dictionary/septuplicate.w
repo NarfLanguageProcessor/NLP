@@ -1,0 +1,1 @@
+{"index": 285794, "D": "a group, series, or set of seven identical copies (usually preceded by in).", "S": ["hebdomad ", "heptad ", "septenary "], "A": []}

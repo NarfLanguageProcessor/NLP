@@ -1,0 +1,1 @@
+{"index": 76677, "D": "to move one's feet or body, or both, rhythmically in a pattern of steps, especially to the accompaniment of music.", "S": ["bounce ", "bump ", "fling ", "flop ", "hurtle ", "jolt ", "lug ", "snatch ", "thrust ", "tug ", "twitch ", "wiggle ", "wrench ", "wriggle ", "wring ", "yank "], "A": []}

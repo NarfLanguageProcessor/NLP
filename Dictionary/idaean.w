@@ -1,0 +1,1 @@
+{"index": 146283, "D": "of, pertaining to, associated with, or inhabiting Mount Ida in Asia Minor or Crete.", "S": [], "A": []}

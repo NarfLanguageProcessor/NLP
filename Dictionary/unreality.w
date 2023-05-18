@@ -1,0 +1,1 @@
+{"index": 349107, "D": "lack of reality;  quality of being unreal", "S": ["deceit ", "duplicity ", "falsehood ", "inaccuracy ", "insincerity ", "mendacity "], "A": ["honesty ", "truth ", "certainty ", "constancy ", "faithfulness ", "fidelity ", "forthrightness ", "loyalty ", "reality ", "right "]}

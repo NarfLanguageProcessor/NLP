@@ -1,0 +1,1 @@
+{"index": 175942, "D": "a one- or two-person sled for coasting or racing down a chute, used especially in Europe.", "S": ["bobsled "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 202090, "D": "commemorative (def. 1). ", "S": [], "A": []}

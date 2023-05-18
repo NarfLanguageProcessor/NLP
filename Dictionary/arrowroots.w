@@ -1,0 +1,1 @@
+{"index": 20334, "D": "a tropical American plant, Maranta arundinacea, the rhizomes of which yield a nutritious starch.", "S": [], "A": []}

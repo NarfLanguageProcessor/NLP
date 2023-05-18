@@ -1,0 +1,1 @@
+{"index": 204057, "D": "the act of a person or thing that finds;  discovery.", "S": [], "A": []}

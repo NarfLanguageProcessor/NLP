@@ -1,0 +1,1 @@
+{"index": 35739, "D": "(of paper or other writing surface) having no marks; not written or printed on", "S": ["barrenness ", "blank ", "desolation ", "gap ", "hollowness ", "nothingness ", "vacancy ", "vacuity ", "vacuousness ", "vacuum ", "void "], "A": ["fullness "]}

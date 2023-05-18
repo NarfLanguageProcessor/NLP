@@ -1,0 +1,1 @@
+{"index": 337335, "D": "to change (a prison sentence or other penalty) to a less severe one", "S": [], "A": []}

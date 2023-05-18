@@ -1,0 +1,1 @@
+{"index": 364368, "D": "the work or industry of capturing and rendering whales;  whale fishing.", "S": ["whipping "], "A": ["accomplishment ", "achievement ", "boon ", "building ", "construction ", "creation ", "forfeit ", "good fortune ", "loss ", "rise ", "success ", "surrender ", "victory ", "win ", "yielding "]}

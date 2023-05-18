@@ -1,0 +1,1 @@
+{"index": 345692, "D": "objects strewn or scattered about; scattered rubbish.", "S": [], "A": []}

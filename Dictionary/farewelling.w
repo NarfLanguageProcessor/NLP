@@ -1,0 +1,1 @@
+{"index": 109926, "D": [], "S": ["Godspeed ", "adieu ", "adios ", "bye-bye ", "cheerio ", "farewell ", "gluckliche Reise ", "goodbye ", "happy landing ", "pleasant journey ", "tsetchem leshalom "], "A": []}

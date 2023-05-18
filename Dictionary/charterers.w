@@ -1,0 +1,1 @@
+{"index": 52971, "D": "a document, issued by a sovereign or state, outlining the conditions under which a corporation, colony, city, or other corporate body is organized, and defining its rights and privileges.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 58757, "D": "the study of the microscopic appearance of cells, especially for the diagnosis of abnormalities and malignancies.", "S": [], "A": []}

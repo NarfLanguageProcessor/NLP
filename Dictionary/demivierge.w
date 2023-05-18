@@ -1,0 +1,1 @@
+{"index": 80687, "D": "a girl or woman who behaves in a sexually provocative and permissive way without yielding her virginity.", "S": [], "A": []}

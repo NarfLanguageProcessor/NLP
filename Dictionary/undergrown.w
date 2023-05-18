@@ -1,0 +1,1 @@
+{"index": 339304, "D": "not grown  to normal size or height", "S": ["childish ", "premature "], "A": ["mature "]}

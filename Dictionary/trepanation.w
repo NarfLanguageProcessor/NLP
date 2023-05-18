@@ -1,0 +1,1 @@
+{"index": 328960, "D": "a tool for cutting shallow holes by removing a core.", "S": [], "A": []}

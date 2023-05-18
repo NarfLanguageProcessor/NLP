@@ -1,0 +1,1 @@
+{"index": 5457, "D": "that can be afforded;  believed to be within one's financial means", "S": ["cheap ", "economical "], "A": ["costly ", "expensive ", "pricey ", "exorbitant ", "premium "]}

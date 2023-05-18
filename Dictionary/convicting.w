@@ -1,0 +1,1 @@
+{"index": 68093, "D": "to prove or declare guilty of an offense, especially after a legal trial", "S": ["compromising ", "damaging ", "damning "], "A": []}

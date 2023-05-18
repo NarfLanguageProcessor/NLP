@@ -1,0 +1,1 @@
+{"index": 312727, "D": "of the nature of, characterized by, or proceeding from superstition", "S": [], "A": []}

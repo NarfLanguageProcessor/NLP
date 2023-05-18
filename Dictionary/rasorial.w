@@ -1,0 +1,1 @@
+{"index": 260899, "D": "given to scratching the ground for food, as is the habit of chickens and other gallinaceous  birds.", "S": [], "A": []}

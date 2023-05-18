@@ -1,0 +1,1 @@
+{"index": 221464, "D": "an excessive supply. ", "S": ["carry ", "cram ", "fill ", "lade ", "pack ", "pile ", "stack ", "store ", "stuff "], "A": ["use ", "abstain ", "diet ", "disarrange ", "disorder ", "fast ", "lose "]}

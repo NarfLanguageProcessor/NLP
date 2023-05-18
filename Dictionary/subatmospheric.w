@@ -1,0 +1,1 @@
+{"index": 307254, "D": "(of a quantity) having a value lower than that of the atmosphere", "S": [], "A": []}

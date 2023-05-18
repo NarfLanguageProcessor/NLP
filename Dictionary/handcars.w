@@ -1,0 +1,1 @@
+{"index": 133116, "D": "a small railroad car  or platform on four wheels propelled by a mechanism worked by hand,  used on some railroads for inspecting tracks and transporting workers.", "S": [], "A": []}

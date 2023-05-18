@@ -1,0 +1,1 @@
+{"index": 335764, "D": "inclined or eager to fight; aggressively hostile; belligerent; pugnacious. ", "S": [], "A": []}

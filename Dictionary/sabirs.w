@@ -1,0 +1,1 @@
+{"index": 276088, "D": "lingua franca (def. 2). ", "S": [], "A": []}

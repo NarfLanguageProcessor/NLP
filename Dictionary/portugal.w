@@ -1,0 +1,1 @@
+{"index": 243738, "D": "a republic in SW Europe, on the Iberian Peninsula, W of Spain. (Including the Azores and the Madeira Islands) 35,414 sq. mi. (91,720 sq. km). Capital", "S": [], "A": []}

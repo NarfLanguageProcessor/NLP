@@ -1,0 +1,1 @@
+{"index": 329575, "D": "a variety of backgammon.", "S": [], "A": []}

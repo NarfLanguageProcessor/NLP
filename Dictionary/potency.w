@@ -1,0 +1,1 @@
+{"index": 244658, "D": "the state or quality of being potent. ", "S": ["capability ", "efficacy ", "efficiency ", "vigor "], "A": ["impotence ", "inability ", "incompetence ", "inefficiency ", "weakness ", "apathy ", "enervation ", "idleness ", "inactivity ", "incapacity ", "lack ", "laziness ", "lethargy ", "powerlessness "]}

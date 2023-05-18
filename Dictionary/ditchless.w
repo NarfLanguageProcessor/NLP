@@ -1,0 +1,1 @@
+{"index": 90079, "D": "a long, narrow excavation made in the ground by digging, as for draining or irrigating land; trench.", "S": [], "A": []}

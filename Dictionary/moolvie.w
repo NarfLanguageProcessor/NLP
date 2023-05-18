@@ -1,0 +1,1 @@
+{"index": 193018, "D": "(esp in India) a Muslim doctor of the law, teacher, or learned man also used as a title of respect", "S": [], "A": []}

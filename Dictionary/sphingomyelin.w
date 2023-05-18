@@ -1,0 +1,1 @@
+{"index": 299598, "D": "any of the class of phospholipids occurring chiefly in the brain and spinal cord, composed of phosphoric acid, choline, sphingosine, and a fatty acid.", "S": [], "A": []}

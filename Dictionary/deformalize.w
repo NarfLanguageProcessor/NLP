@@ -1,0 +1,1 @@
+{"index": 79461, "D": "to make less formal;  reduce the strictness, preciseness, etc., of.", "S": [], "A": []}

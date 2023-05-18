@@ -1,0 +1,1 @@
+{"index": 311698, "D": "flowing out or forth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 29408, "D": "a list of persons for whom prayers are to be offered", "S": [], "A": []}

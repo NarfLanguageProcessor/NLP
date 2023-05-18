@@ -1,0 +1,1 @@
+{"index": 141941, "D": "of or relating to actors or acting.", "S": ["flamboyant ", "frenzied ", "histrionical ", "maudlin ", "mawkish ", "overemotional ", "overwrought ", "sensational ", "sentimental ", "stagy "], "A": ["deadpan ", "low-key ", "matter-of-fact ", "understated "]}

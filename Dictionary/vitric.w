@@ -1,0 +1,1 @@
+{"index": 360631, "D": "of or relating to glass.", "S": [], "A": []}

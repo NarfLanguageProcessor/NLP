@@ -1,0 +1,1 @@
+{"index": 239857, "D": [], "S": ["covetous ", "gluttonous ", "hoarding ", "money-grubbing ", "predatory ", "rapacious ", "selfish ", "tight "], "A": []}

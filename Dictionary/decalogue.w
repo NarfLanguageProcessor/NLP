@@ -1,0 +1,1 @@
+{"index": 77972, "D": "the Ten Commandments.  Exodus 20", "S": ["Law of Moses ", "Mosaic Law ", "ten injunctions "], "A": []}

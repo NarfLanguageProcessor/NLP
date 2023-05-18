@@ -1,0 +1,1 @@
+{"index": 186794, "D": "an early Jewish interpretation of or commentary on a Biblical text, clarifying or expounding a point of law or developing or illustrating a moral principle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183638, "D": "a dealer in textile fabrics; dry-goods merchant.", "S": [], "A": []}

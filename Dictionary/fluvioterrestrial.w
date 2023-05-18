@@ -1,0 +1,1 @@
+{"index": 115604, "D": "(of animals) able to live in rivers and on land", "S": [], "A": []}

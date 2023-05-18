@@ -1,0 +1,1 @@
+{"index": 102445, "D": "growing on or close to the ground.", "S": [], "A": []}

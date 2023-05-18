@@ -1,0 +1,1 @@
+{"index": 19328, "D": "a toxic alkaloid obtained from the seeds of the areca,  used chiefly in veterinary medicine as an agent for killing and expelling intestinal worms.", "S": [], "A": []}

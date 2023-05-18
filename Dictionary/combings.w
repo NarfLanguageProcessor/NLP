@@ -1,0 +1,1 @@
+{"index": 63675, "D": "hairs removed with a comb  or a brush.", "S": [], "A": []}

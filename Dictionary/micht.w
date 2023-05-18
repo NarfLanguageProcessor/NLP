@@ -1,0 +1,1 @@
+{"index": 185777, "D": "a Scot word for might 1, might 2", "S": [], "A": []}

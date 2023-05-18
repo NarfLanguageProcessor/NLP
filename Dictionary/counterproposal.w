@@ -1,0 +1,1 @@
+{"index": 71014, "D": "a proposal  offered to offset or substitute for a preceding one.", "S": [], "A": []}

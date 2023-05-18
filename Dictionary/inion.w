@@ -1,0 +1,1 @@
+{"index": 152771, "D": "a point at the external occipital protuberance of the skull.", "S": [], "A": []}

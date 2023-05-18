@@ -1,0 +1,1 @@
+{"index": 258459, "D": "waiting in a line", "S": ["adjoin ", "follow ", "line up ", "score ", "touch "], "A": ["center ", "disarrange ", "disjoin ", "disorder ", "disorganize ", "divide ", "forget ", "ignore ", "lose ", "mess up ", "mix up ", "scatter ", "separate "]}

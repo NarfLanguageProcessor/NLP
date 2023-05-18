@@ -1,0 +1,1 @@
+{"index": 35688, "D": "a silver coin of France of the 14th\u201318th centuries, debased in later years.", "S": [], "A": []}

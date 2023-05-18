@@ -1,0 +1,1 @@
+{"index": 191438, "D": "the number of molecules or atoms that participate in an elementary process.", "S": [], "A": []}

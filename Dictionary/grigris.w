@@ -1,0 +1,1 @@
+{"index": 129851, "D": "an African charm, amulet, or fetish.", "S": [], "A": []}

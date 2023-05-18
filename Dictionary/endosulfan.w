@@ -1,0 +1,1 @@
+{"index": 100002, "D": "a chlorinated hydrocarbon insecticide and miticide, C9H6Cl6O3S, in widespread use on food and forage crops.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 91485, "D": "a decorative embellishment; trinket; bauble", "S": ["additions ", "adornments ", "attachments ", "decorations ", "embellishments ", "extras ", "frills ", "ornaments ", "trimmings "], "A": []}

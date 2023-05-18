@@ -1,0 +1,1 @@
+{"index": 92208, "D": "directed downward, as the eyes.", "S": ["anguish ", "grief ", "heartache ", "heartbreak ", "hopelessness ", "melancholy ", "misery ", "mourning ", "poignancy ", "sorrow "], "A": ["cheer ", "delight ", "happiness ", "joy ", "advantage ", "benefit ", "comfort "]}

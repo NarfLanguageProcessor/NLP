@@ -1,0 +1,1 @@
+{"index": 113239, "D": "the act of a person or thing that fires. ", "S": ["fiery ", "flammable ", "incendiary ", "volatile "], "A": ["noncombustible "]}

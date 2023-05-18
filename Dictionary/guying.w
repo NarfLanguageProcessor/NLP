@@ -1,0 +1,1 @@
+{"index": 131056, "D": "a man or boy; fellow", "S": [], "A": []}

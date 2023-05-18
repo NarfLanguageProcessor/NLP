@@ -1,0 +1,1 @@
+{"index": 345841, "D": "mournful, dismal, or gloomy, especially in an affected, exaggerated, or unrelieved manner", "S": [], "A": []}

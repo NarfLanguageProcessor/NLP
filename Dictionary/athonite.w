@@ -1,0 +1,1 @@
+{"index": 22615, "D": "of or relating to Mount Athos.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359534, "D": "a camera tube in which a charge-density pattern is formed on a photoconductive surface scanned by a beam of low-velocity electrons for transmission as signals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 142284, "D": "pigpen (def. 1). ", "S": ["pen ", "piggery ", "sty "], "A": []}

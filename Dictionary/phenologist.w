@@ -1,0 +1,1 @@
+{"index": 233393, "D": "the science dealing with the influence of climate on the recurrence of such annual phenomena of animal and plant life as budding and bird migrations.", "S": [], "A": []}

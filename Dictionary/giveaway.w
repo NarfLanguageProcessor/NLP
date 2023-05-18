@@ -1,0 +1,1 @@
+{"index": 125695, "D": "an act or instance of giving something away.", "S": ["prognostic "], "A": []}

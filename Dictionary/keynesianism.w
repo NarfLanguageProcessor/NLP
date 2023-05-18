@@ -1,0 +1,1 @@
+{"index": 163658, "D": "of or relating to the economic theories, doctrines, or policies of Keynes  or his followers, especially the policy of maintaining high employment and controlling inflation by varying the interest rates, tax rates, and public expenditure.", "S": [], "A": []}

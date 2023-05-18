@@ -1,0 +1,1 @@
+{"index": 8490, "D": "a person with alcoholism  or alcohol use disorder;  an alcoholic. ", "S": ["booze ", "drink ", "ethanol ", "liquor ", "methanol ", "smoke "], "A": []}

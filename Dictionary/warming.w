@@ -1,0 +1,1 @@
+{"index": 362691, "D": "having or giving out a moderate degree of heat, as perceived by the senses", "S": ["encouraging ", "reassuring ", "refreshing ", "soothing "], "A": ["aggravating ", "depressing ", "dispiriting ", "distressing ", "disturbing ", "irritating ", "upsetting ", "worrying "]}

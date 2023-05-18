@@ -1,0 +1,1 @@
+{"index": 277463, "D": "a Hindu religious society or movement.", "S": [], "A": []}

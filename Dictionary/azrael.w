@@ -1,0 +1,1 @@
+{"index": 25392, "D": "(in Jewish and Islamic angelology) the angel who separates the soul from the body at the moment of death.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 282060, "D": "very pleasing, especially to the senses; delectable", "S": ["ambrosial ", "appetizing ", "delectable ", "delightful ", "exquisite ", "heavenly ", "inviting ", "luscious ", "lush ", "magnificent ", "mouthwatering ", "rich ", "succulent ", "tasty ", "yummy "], "A": ["unappetizing "]}

@@ -1,0 +1,1 @@
+{"index": 103715, "D": "Compare umbrella plant (def. 2). ", "S": [], "A": []}

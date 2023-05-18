@@ -1,0 +1,1 @@
+{"index": 235943, "D": "an improvement, as in health, business conditions, work, production, etc.", "S": ["acceleration "], "A": []}

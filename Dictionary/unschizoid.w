@@ -1,0 +1,1 @@
+{"index": 350485, "D": "of or relating to a personality disorder marked by dissociation, passivity, withdrawal, inability to form warm social relationships, and indifference to praise or criticism.", "S": [], "A": []}

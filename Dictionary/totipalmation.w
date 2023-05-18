@@ -1,0 +1,1 @@
+{"index": 326511, "D": "totipalmate condition or formation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 129052, "D": "an abnormal growth, resembling a bunch of grapes, on the fetlock of a horse", "S": ["wine "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 165529, "D": "a descendant of the Dutch settlers of New York.", "S": [], "A": []}

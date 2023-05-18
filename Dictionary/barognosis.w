@@ -1,0 +1,1 @@
+{"index": 28163, "D": "the ability to estimate or perceive differences in the weight of an object.", "S": [], "A": []}

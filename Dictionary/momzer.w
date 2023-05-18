@@ -1,0 +1,1 @@
+{"index": 191676, "D": "bastard; illegitimate child.", "S": [], "A": []}

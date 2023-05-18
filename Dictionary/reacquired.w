@@ -1,0 +1,1 @@
+{"index": 261508, "D": "to come into possession or ownership of; get as one's own", "S": ["recovered ", "regained ", "reinstated ", "reintegrated ", "restored ", "retrieved "], "A": []}

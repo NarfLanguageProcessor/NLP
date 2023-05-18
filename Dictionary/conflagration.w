@@ -1,0 +1,1 @@
+{"index": 65977, "D": "a destructive fire, usually an extensive one.", "S": ["blaze ", "bonfire ", "inferno ", "wildfire "], "A": []}

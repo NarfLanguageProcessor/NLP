@@ -1,0 +1,1 @@
+{"index": 194342, "D": "having a mouth  of a specified kind (often used in combination)", "S": ["eaten ", "mangled ", "masticated ", "tasted "], "A": []}

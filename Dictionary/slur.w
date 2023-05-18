@@ -1,0 +1,1 @@
+{"index": 294611, "D": "to pass over lightly or without due mention or consideration (often followed by over)", "S": ["accusation ", "innuendo ", "put down ", "smear "], "A": ["praise ", "approval ", "blank ", "compliment ", "flattery ", "honor ", "respect "]}

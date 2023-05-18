@@ -1,0 +1,1 @@
+{"index": 272405, "D": "one of a series of curved bones that are articulated with the vertebrae and occur in pairs, 12 in humans, on each side of the vertebrate body, certain pairs being connected with the sternum and forming the thoracic wall.", "S": ["banter ", "bone ", "jest ", "joke ", "needle ", "razz ", "ridge ", "stay "], "A": []}

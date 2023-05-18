@@ -1,0 +1,1 @@
+{"index": 191482, "D": "of or containing molybdenum,  especially in the trivalent or hexavalent states, as molybdic acid, H2MoO4.", "S": [], "A": []}

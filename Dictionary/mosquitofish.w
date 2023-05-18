@@ -1,0 +1,1 @@
+{"index": 193853, "D": "any of several fishes  that feed on mosquito  larvae, as Gambusia affinis, found in the southeastern U.S., now introduced into other parts of the world for mosquito  control.", "S": [], "A": []}

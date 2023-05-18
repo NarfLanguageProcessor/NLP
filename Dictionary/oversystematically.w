@@ -1,0 +1,1 @@
+{"index": 221146, "D": "in a focused, consistent, and methodical way", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 24107, "D": "self-induced hypnosis  or hypnotic state.", "S": [], "A": []}

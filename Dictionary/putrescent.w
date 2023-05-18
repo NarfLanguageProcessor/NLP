@@ -1,0 +1,1 @@
+{"index": 257314, "D": "becoming putrid; undergoing putrefaction.", "S": ["altered ", "contaminated ", "decayed ", "defiled ", "distorted ", "doctored ", "falsified ", "foul ", "infected ", "polluted ", "tainted "], "A": ["clean ", "pure "]}

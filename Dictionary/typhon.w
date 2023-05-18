@@ -1,0 +1,1 @@
+{"index": 324262, "D": "a signal horn operated by compressed air or steam.", "S": [], "A": []}

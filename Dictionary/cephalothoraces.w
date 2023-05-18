@@ -1,0 +1,1 @@
+{"index": 51196, "D": "the anterior part of the body in certain arachnids and crustaceans, consisting of the coalesced head and thorax. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 278732, "D": "a fabric in a warp-effect or filling-effect satin weave,  as acetate, rayon, nylon, or silk, often having a glossy face and a soft, slippery texture.", "S": ["lustrous ", "silken "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 363884, "D": [], "S": ["balancing ", "consideration ", "deciding ", "deliberation ", "evaluating ", "judging ", "measuring ", "reflection "], "A": []}

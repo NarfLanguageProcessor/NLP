@@ -1,0 +1,1 @@
+{"index": 154102, "D": "not endurable; unbearable; insufferable", "S": ["a bit much ", "enough ", "heavy-handed ", "impossible ", "inadmissible ", "insufferable ", "intolerable ", "last straw ", "oppressive ", "unacceptable ", "unendurable ", "unsufferable ", "unsupportable ", "unsurpassable "], "A": []}

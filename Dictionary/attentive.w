@@ -1,0 +1,1 @@
+{"index": 23031, "D": "characterized by or giving attention;  observant", "S": ["aware ", "conscientious ", "interested ", "observant ", "vigilant ", "watchful "], "A": ["careless ", "inattentive ", "negligent ", "unaware "]}

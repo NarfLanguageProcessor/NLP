@@ -1,0 +1,1 @@
+{"index": 272394, "D": "a silver or cupronickel coin and monetary unit of Iran, equal to 100 dinars.", "S": [], "A": []}

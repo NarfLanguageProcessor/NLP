@@ -1,0 +1,1 @@
+{"index": 334597, "D": "to declare or pronounce formally; decree", "S": [], "A": []}

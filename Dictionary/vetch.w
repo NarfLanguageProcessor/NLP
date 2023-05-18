@@ -1,0 +1,1 @@
+{"index": 359138, "D": "any of several mostly climbing plants belonging to the genus Vicia, of the legume family, having pinnate leaves ending in tendrils and bearing pealike flowers, especially V. sativa(spring vetch ), cultivated for forage and soil improvement.", "S": [], "A": []}

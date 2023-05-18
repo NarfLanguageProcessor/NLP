@@ -1,0 +1,1 @@
+{"index": 250864, "D": "participating in the knowledge of something private or secret (usually followed by to)", "S": ["bathroom ", "latrine ", "lavatory ", "outbuilding "], "A": []}

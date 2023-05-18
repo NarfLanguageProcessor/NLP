@@ -1,0 +1,1 @@
+{"index": 170181, "D": "a person employed to transact business outside an office, especially on behalf of one whose responsibilities require presence in the office.", "S": [], "A": []}

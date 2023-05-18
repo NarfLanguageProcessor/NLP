@@ -1,0 +1,1 @@
+{"index": 288079, "D": "a frozen dessert made with sweetened fruit juice or pur\u00e9e, typically containing milk or cream, with egg white or gelatin often added.", "S": [], "A": []}

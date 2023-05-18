@@ -1,0 +1,1 @@
+{"index": 220666, "D": "in a way that stands out so as to be easily seen; noticeably or conspicuously", "S": [], "A": []}

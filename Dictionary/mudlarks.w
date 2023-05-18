@@ -1,0 +1,1 @@
+{"index": 194709, "D": "a person who gains a livelihood by searching for iron, coal, old ropes, etc., in mud  or low tide.", "S": [], "A": []}

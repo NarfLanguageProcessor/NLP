@@ -1,0 +1,1 @@
+{"index": 172198, "D": "of the same form, appearance, kind, character, amount, etc.", "S": [], "A": []}

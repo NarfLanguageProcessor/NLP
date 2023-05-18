@@ -1,0 +1,1 @@
+{"index": 201371, "D": "failure to appear, as in a court.", "S": ["AWOL ", "absenteeism ", "cut ", "hooky ", "nonattendance ", "truancy ", "vacancy "], "A": ["abundance ", "enough ", "existence ", "plenty ", "presence "]}

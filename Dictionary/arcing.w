@@ -1,0 +1,1 @@
+{"index": 19187, "D": "any unbroken part of the circumference of a circle or other curved line.", "S": ["arc "], "A": ["compress ", "concentrate ", "condense ", "destroy ", "neglect ", "shorten ", "straighten "]}

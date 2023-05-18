@@ -1,0 +1,1 @@
+{"index": 136248, "D": "plankton  that spend part of their life cycle in a vegetative state on the sea bottom, riverbed, etc. (opposed to holoplankton).", "S": [], "A": []}

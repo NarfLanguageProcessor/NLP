@@ -1,0 +1,1 @@
+{"index": 247909, "D": "of or relating to an inauguration", "S": [], "A": []}

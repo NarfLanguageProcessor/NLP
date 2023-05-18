@@ -1,0 +1,1 @@
+{"index": 114608, "D": "making flight  or passing through the air; that flies", "S": ["ascent "], "A": ["declension ", "decline "]}

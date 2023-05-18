@@ -1,0 +1,1 @@
+{"index": 30642, "D": "an act or circumstance of entering upon an action or state", "S": ["first crack ", "first stage ", "head start ", "preliminaries ", "very beginning "], "A": []}

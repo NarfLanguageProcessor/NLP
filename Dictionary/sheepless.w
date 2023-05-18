@@ -1,0 +1,1 @@
+{"index": 287825, "D": "any of numerous ruminant mammals of the genus Ovis, of the family Bovidae, closely related to the goats, especially O. aries, bred in a number of domesticated varieties.", "S": [], "A": []}

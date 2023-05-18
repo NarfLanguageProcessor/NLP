@@ -1,0 +1,1 @@
+{"index": 286253, "D": "therapy  by means of injections of a serum obtained especially from an immune animal.", "S": [], "A": []}

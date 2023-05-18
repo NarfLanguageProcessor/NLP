@@ -1,0 +1,1 @@
+{"index": 9802, "D": "a federal territory in N Brazil. 51,177 sq. mi. (132,550 sq. km). Capital", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 354541, "D": "to build  up, as with the result of establishing, increasing, enlarging, or fortifying.", "S": [], "A": []}

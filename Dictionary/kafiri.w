@@ -1,0 +1,1 @@
+{"index": 162723, "D": "an Indo-Iranian language, or small group of languages, of Nuristan, closely related to but not a part of the Indic subbranch.", "S": [], "A": []}

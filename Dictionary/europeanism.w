@@ -1,0 +1,1 @@
+{"index": 105825, "D": "European  characteristics, ideas, methods, sympathies, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148645, "D": "incapable of being upset or agitated; not easily excited; calm", "S": ["delicately ", "indifferently ", "lightly ", "moderately ", "quietly "], "A": ["harshly ", "roughly ", "violently "]}

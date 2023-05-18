@@ -1,0 +1,1 @@
+{"index": 8850, "D": "Compare authigenic. ", "S": [], "A": []}

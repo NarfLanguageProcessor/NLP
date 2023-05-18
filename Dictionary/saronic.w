@@ -1,0 +1,1 @@
+{"index": 278524, "D": "the period of 223 synodic months, equaling 6585.32 days or 18 years, 11.32 days (or 10.32 days if 5 leap years occur in the interval), after which eclipses repeat but are shifted 120\u00b0 west.", "S": [], "A": []}

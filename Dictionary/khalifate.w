@@ -1,0 +1,1 @@
+{"index": 164228, "D": "the rank, jurisdiction, or government of a caliph. ", "S": [], "A": []}

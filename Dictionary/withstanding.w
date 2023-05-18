@@ -1,0 +1,1 @@
+{"index": 366678, "D": "to stand or hold out against; resist or oppose, especially successfully", "S": ["opposing "], "A": ["unwary ", "unwatchful "]}

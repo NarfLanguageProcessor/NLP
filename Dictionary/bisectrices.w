@@ -1,0 +1,1 @@
+{"index": 34974, "D": "an imaginary line bisecting  either the acute angle (acute bisectrix ) or the obtuse angle (obtuse bisectrix ) of the optic axes of a biaxial crystal.", "S": [], "A": []}

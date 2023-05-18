@@ -1,0 +1,1 @@
+{"index": 107057, "D": "a person or thing that exercises. ", "S": [], "A": []}

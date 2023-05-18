@@ -1,0 +1,1 @@
+{"index": 112830, "D": "of or relating to an organism that lives on or in animal excrement.", "S": [], "A": []}

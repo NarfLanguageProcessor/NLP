@@ -1,0 +1,1 @@
+{"index": 15331, "D": "the antithesis of gravity;  a hypothetical force by which a body of positive mass would repel a body of negative mass.", "S": [], "A": []}

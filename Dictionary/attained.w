@@ -1,0 +1,1 @@
+{"index": 22956, "D": "reached or achieved, often after considerable time and effort", "S": ["captured ", "collected ", "seized "], "A": ["deprived ", "forfeited ", "lost "]}

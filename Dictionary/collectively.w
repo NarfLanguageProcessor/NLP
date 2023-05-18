@@ -1,0 +1,1 @@
+{"index": 62906, "D": "as a whole group rather than as individual persons or things", "S": ["en masse ", "generally "], "A": ["incompletely ", "partly "]}

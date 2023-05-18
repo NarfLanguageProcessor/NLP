@@ -1,0 +1,1 @@
+{"index": 344451, "D": "showing, signifying, or pointing out; expressive or suggestive (usually followed by of)", "S": [], "A": []}

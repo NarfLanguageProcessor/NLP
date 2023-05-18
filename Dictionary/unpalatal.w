@@ -1,0 +1,1 @@
+{"index": 347373, "D": "of or relating to the palate. ", "S": [], "A": []}

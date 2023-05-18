@@ -1,0 +1,1 @@
+{"index": 241448, "D": "a member of a Slavic people who once lived in the Elbe River basin and on the Baltic coast of northern Germany.", "S": [], "A": []}

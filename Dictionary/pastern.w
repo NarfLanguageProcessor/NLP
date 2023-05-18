@@ -1,0 +1,1 @@
+{"index": 227412, "D": "the part of the foot of a horse, cow, etc., between the fetlock and the hoof.", "S": [], "A": []}

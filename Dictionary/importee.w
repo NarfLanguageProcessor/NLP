@@ -1,0 +1,1 @@
+{"index": 148882, "D": "an imported  person or thing.", "S": [], "A": []}

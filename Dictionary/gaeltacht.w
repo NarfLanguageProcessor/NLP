@@ -1,0 +1,1 @@
+{"index": 120924, "D": "See also Gaidhealtachd", "S": [], "A": []}

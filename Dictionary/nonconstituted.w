@@ -1,0 +1,1 @@
+{"index": 202376, "D": "to compose; form", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 68033, "D": "in a contrary or opposite way; on the other hand", "S": ["opposite "], "A": ["equally ", "same ", "similarly "]}

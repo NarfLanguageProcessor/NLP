@@ -1,0 +1,1 @@
+{"index": 335905, "D": "to release from bonds or restraint, as a prisoner; free.", "S": ["disengage ", "disentangle ", "free ", "loose ", "loosen ", "release ", "slip ", "unblock ", "unbutton ", "unclasp ", "unfasten ", "unlock ", "unloose ", "unloosen ", "unravel ", "untie ", "unwrap "], "A": ["button ", "fasten ", "hold ", "tie "]}

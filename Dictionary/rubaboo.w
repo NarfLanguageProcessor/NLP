@@ -1,0 +1,1 @@
+{"index": 275080, "D": "soup made from pemmican, flour, and water, once common among fur trappers, hunters, etc.", "S": [], "A": []}

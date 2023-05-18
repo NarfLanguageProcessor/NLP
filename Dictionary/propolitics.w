@@ -1,0 +1,1 @@
+{"index": 252747, "D": "the science or art of political  government.", "S": [], "A": []}

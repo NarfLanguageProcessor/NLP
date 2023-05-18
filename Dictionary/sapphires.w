@@ -1,0 +1,1 @@
+{"index": 278189, "D": "any gem variety of corundum other than the ruby, especially one of the blue varieties.", "S": [], "A": []}

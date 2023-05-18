@@ -1,0 +1,1 @@
+{"index": 184298, "D": "(of bacteria) growing best at moderate temperatures, between 25\u00b0C and 40\u00b0C.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 366422, "D": "a smart or facetious remark.", "S": ["clowning ", "gag ", "one-liner ", "prank ", "quip ", "witticism ", "zinger "], "A": []}

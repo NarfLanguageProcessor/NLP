@@ -1,0 +1,1 @@
+{"index": 202941, "D": "the act of depriving. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 179629, "D": "any of various birds of paradise of the New Guinea region, having dark, metallic plumage.", "S": [], "A": []}

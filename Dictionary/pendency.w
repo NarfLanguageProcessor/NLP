@@ -1,0 +1,1 @@
+{"index": 229553, "D": "the state or time of being pending, undecided, or undetermined, as of a lawsuit awaiting settlement.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 178927, "D": "a conventional representation of a sleeve with a flaring end, used as a charge.", "S": [], "A": []}

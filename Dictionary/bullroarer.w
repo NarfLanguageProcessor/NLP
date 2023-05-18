@@ -1,0 +1,1 @@
+{"index": 42638, "D": "a wooden slat that produces a roaring sound when whirled around one's head on the end of a string or thong, used by some peoples of the world in religious ceremonies and by others as a toy.", "S": [], "A": []}

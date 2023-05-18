@@ -1,0 +1,1 @@
+{"index": 114150, "D": "with the flat  side, rather than the edge, foremost or in contact.", "S": [], "A": []}

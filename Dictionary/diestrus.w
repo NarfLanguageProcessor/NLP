@@ -1,0 +1,1 @@
+{"index": 85201, "D": "(in female mammals) an interval of sexual inactivity between periods of estrus. ", "S": [], "A": []}

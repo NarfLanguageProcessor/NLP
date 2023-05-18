@@ -1,0 +1,1 @@
+{"index": 92011, "D": "without doubt; certainly; surely; unquestionably.", "S": ["assurance ", "assuredness ", "certainty ", "certitude ", "confidence ", "conviction ", "positiveness ", "proof ", "surety "], "A": ["distrust ", "doubt ", "fear ", "theory ", "uncertainty "]}

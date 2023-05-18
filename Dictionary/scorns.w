@@ -1,0 +1,1 @@
+{"index": 281303, "D": "open or unqualified contempt; disdain", "S": ["derision ", "disdain ", "mockery ", "ridicule ", "sarcasm ", "sneer "], "A": ["flattery ", "praise ", "respect ", "compliment "]}

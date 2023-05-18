@@ -1,0 +1,1 @@
+{"index": 302722, "D": "a light, open, one-seated, horse-drawn carriage with two or four wheels.", "S": [], "A": []}

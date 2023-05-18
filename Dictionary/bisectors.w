@@ -1,0 +1,1 @@
+{"index": 34973, "D": "a line or plane that bisects  an angle or line segment.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 64018, "D": "commercial  quality or character; ability to produce a profit", "S": [], "A": []}

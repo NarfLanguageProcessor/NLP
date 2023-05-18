@@ -1,0 +1,1 @@
+{"index": 106966, "D": "an official who inflicts capital punishment in pursuance of a legal warrant.", "S": ["firing squad ", "hired assassins ", "hit squad "], "A": []}

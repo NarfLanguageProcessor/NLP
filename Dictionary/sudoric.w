@@ -1,0 +1,1 @@
+{"index": 310039, "D": [], "S": ["moist ", "sticky ", "stinky ", "wet "], "A": ["dry "]}

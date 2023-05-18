@@ -1,0 +1,1 @@
+{"index": 50452, "D": "renowned; well-known", "S": [], "A": []}

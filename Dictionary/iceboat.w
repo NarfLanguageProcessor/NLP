@@ -1,0 +1,1 @@
+{"index": 145968, "D": "a vehicle for rapid movement on ice,  usually consisting of a T-shaped frame on three runners driven by a fore-and-aft sailing rig or, sometimes, by an engine operating a propeller.", "S": [], "A": []}

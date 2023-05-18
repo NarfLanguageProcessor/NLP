@@ -1,0 +1,1 @@
+{"index": 327773, "D": "situated within or passing through the crystals of a substance.", "S": [], "A": []}

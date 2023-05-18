@@ -1,0 +1,1 @@
+{"index": 353691, "D": "zealous; ardent; impassioned", "S": [], "A": []}

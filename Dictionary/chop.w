@@ -1,0 +1,1 @@
+{"index": 55674, "D": "to cut or sever with a quick, heavy blow or a series of blows, using an ax, hatchet, etc. (often followed by down, off, etc.)", "S": ["cleave ", "cube ", "divide ", "hack ", "mince ", "slash ", "whack "], "A": ["join ", "unite ", "lengthen "]}

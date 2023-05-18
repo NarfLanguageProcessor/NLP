@@ -1,0 +1,1 @@
+{"index": 72327, "D": "to move in a prone position with the body resting on or close to the ground, as a worm or caterpillar, or on the hands and knees, as a young child.", "S": ["clamber ", "creep ", "drag ", "inch ", "plod ", "poke ", "slide ", "slither ", "squirm ", "wriggle "], "A": ["run ", "rush "]}

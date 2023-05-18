@@ -1,0 +1,1 @@
+{"index": 3289, "D": "the doctrine that all reality is animate or in motion.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 135597, "D": "the ancient Greek god of the sun, represented as driving a chariot across the heavens; identified by the Romans with Sol.", "S": [], "A": []}

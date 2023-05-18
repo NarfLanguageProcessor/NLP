@@ -1,0 +1,1 @@
+{"index": 248867, "D": "to exceed something else in weight; be the heavier.", "S": [], "A": []}

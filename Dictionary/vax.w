@@ -1,0 +1,1 @@
+{"index": 357592, "D": "a vaccine  or vaccination", "S": [], "A": []}

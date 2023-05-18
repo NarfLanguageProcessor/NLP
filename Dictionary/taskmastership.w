@@ -1,0 +1,1 @@
+{"index": 316890, "D": "a person whose function it is to assign tasks,  especially burdensome ones, to others.", "S": [], "A": []}

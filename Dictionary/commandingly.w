@@ -1,0 +1,1 @@
+{"index": 63884, "D": "being in command", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 46841, "D": "a low-growing, creeping plant, Arctotheca calendulacea, used as a ground cover in warm climates.", "S": [], "A": []}

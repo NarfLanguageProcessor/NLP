@@ -1,0 +1,1 @@
+{"index": 355890, "D": "a hypothetically reconstructed parent language, as Proto-Germanic, the ancestor of the Germanic languages.", "S": [], "A": []}

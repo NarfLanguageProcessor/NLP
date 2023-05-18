@@ -1,0 +1,1 @@
+{"index": 45056, "D": "a city in S Alberta, in SW Canada.", "S": [], "A": []}

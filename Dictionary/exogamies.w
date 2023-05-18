@@ -1,0 +1,1 @@
+{"index": 107355, "D": "Compare endogamy. ", "S": [], "A": []}

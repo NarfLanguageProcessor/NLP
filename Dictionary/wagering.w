@@ -1,0 +1,1 @@
+{"index": 361827, "D": "something risked or staked on an uncertain event; bet", "S": ["bet "], "A": ["certainty ", "proof ", "protection ", "reality ", "safeguard ", "safety ", "surety "]}

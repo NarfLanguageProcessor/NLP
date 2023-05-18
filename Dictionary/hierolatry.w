@@ -1,0 +1,1 @@
+{"index": 139158, "D": "worship or veneration of saints or sacred things.", "S": [], "A": []}

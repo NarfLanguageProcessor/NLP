@@ -1,0 +1,1 @@
+{"index": 218743, "D": "to cook (something) until dry, burnt, or inedible", "S": [], "A": []}

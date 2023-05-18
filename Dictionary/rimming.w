@@ -1,0 +1,1 @@
+{"index": 272971, "D": "the outer edge, border, margin, or brink of something, especially of a circular object.", "S": ["insignificant ", "minimal ", "minor ", "negligible "], "A": ["important ", "major ", "significant "]}

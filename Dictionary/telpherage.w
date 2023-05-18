@@ -1,0 +1,1 @@
+{"index": 318450, "D": "a transportation system in which cars or other carriers are suspended from or run on wire cables or the like, especially one operated by electricity.", "S": [], "A": []}

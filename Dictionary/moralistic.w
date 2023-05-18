@@ -1,0 +1,1 @@
+{"index": 193283, "D": "explaining or interpreting something in terms of right and wrong, especially in a self-righteous or tiresome way", "S": ["honest ", "honorable ", "humane ", "principled ", "proper ", "virtuous "], "A": ["corrupt ", "dishonest ", "immoral ", "improper ", "unethical ", "unjust ", "unrighteous "]}

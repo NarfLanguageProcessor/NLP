@@ -1,0 +1,1 @@
+{"index": 179514, "D": "a very large, impressive, or stately residence.", "S": ["building ", "dwelling ", "estate ", "hall ", "home ", "manor ", "palace ", "residence "], "A": ["office "]}

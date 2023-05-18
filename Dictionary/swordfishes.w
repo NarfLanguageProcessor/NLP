@@ -1,0 +1,1 @@
+{"index": 314677, "D": "a large, marine food fish, Xiphias gladius, having the upper jaw elongated into a swordlike structure.", "S": [], "A": []}

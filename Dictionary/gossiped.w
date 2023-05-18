@@ -1,0 +1,1 @@
+{"index": 128230, "D": "idle talk or rumor, especially about the personal or private affairs of others", "S": ["alleged ", "assumed ", "putative ", "regarded ", "rumored ", "supposed "], "A": ["real "]}

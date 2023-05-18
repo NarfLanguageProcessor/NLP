@@ -1,0 +1,1 @@
+{"index": 100764, "D": "to elevate in degree, excellence, or respect; dignify; exalt", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 334314, "D": "without apology, embarrassment, or defensiveness; unashamedly", "S": ["blatantly ", "brazenly ", "candidly ", "flagrantly ", "forthrightly ", "fully ", "honestly ", "plainly ", "publicly ", "readily ", "simply ", "unashamedly ", "willingly "], "A": ["incompletely "]}

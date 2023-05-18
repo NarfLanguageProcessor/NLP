@@ -1,0 +1,1 @@
+{"index": 295278, "D": "any of numerous limbless, scaly, elongate reptiles of the suborder Serpentes, comprising venomous and nonvenomous species inhabiting tropical and temperate areas.", "S": ["ambiguous ", "ancillary ", "circuitous ", "implied ", "incidental ", "oblique ", "tortuous "], "A": ["direct ", "straight ", "straightforward "]}

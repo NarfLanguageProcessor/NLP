@@ -1,0 +1,1 @@
+{"index": 135802, "D": "to give or provide what is necessary to accomplish a task or satisfy a need; contribute strength or means to; render assistance to; cooperate effectively with; aid; assist", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 216850, "D": "a traveling from one place to another, usually taking a rather long time; trip", "S": [], "A": []}

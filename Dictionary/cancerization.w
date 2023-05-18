@@ -1,0 +1,1 @@
+{"index": 46107, "D": "the state of becoming cancerous.", "S": [], "A": []}

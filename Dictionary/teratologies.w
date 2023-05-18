@@ -1,0 +1,1 @@
+{"index": 319211, "D": "the science or study of monstrosities or abnormal formations in organisms.", "S": [], "A": []}

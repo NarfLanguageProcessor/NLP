@@ -1,0 +1,1 @@
+{"index": 79518, "D": "cleverness or skill in using either the body or mind; dexterity or nimbleness", "S": ["nimbleness "], "A": []}

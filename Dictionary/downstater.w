@@ -1,0 +1,1 @@
+{"index": 92324, "D": "the southern part of a U.S. state. ", "S": [], "A": []}

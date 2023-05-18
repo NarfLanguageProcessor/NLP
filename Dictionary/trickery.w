@@ -1,0 +1,1 @@
+{"index": 329535, "D": "the use or practice of tricks  or stratagems to deceive; artifice; deception.", "S": ["chicanery ", "deceit ", "dishonesty ", "razzle-dazzle ", "scam ", "shell game ", "stunt "], "A": ["frankness ", "honesty ", "openness ", "truthfulness ", "reality ", "truth "]}

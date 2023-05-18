@@ -1,0 +1,1 @@
+{"index": 124645, "D": "(of a cat) castrated.", "S": [], "A": []}

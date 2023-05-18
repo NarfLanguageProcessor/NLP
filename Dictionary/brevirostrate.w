@@ -1,0 +1,1 @@
+{"index": 40512, "D": "having a short beak or bill.", "S": [], "A": []}

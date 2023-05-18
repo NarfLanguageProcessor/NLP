@@ -1,0 +1,1 @@
+{"index": 28466, "D": "of, at, or forming the base.", "S": [], "A": []}

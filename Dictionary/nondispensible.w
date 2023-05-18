@@ -1,0 +1,1 @@
+{"index": 203187, "D": "an obsolete spelling of dispensable. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 204968, "D": "to separate or split into thin layers.", "S": [], "A": []}

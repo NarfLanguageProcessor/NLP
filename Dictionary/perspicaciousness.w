@@ -1,0 +1,1 @@
+{"index": 232023, "D": "having keen mental perception and understanding; discerning", "S": ["acumen ", "astuteness ", "discrimination ", "insightfulness ", "judgment ", "keenness ", "perceptiveness ", "percipience ", "percipiency ", "perspicacity ", "sagaciousness ", "sagacity ", "sageness ", "shrewdness "], "A": []}

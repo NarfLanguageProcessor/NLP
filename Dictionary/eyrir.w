@@ -1,0 +1,1 @@
+{"index": 96559, "D": "an aluminum bronze coin of Iceland, one 100th of a kr\u00f3na.", "S": [], "A": []}

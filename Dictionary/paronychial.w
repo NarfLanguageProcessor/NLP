@@ -1,0 +1,1 @@
+{"index": 226741, "D": "inflammation of the folds of skin bordering a nail of a finger or toe, usually characterized by infection and pus formation; felon.", "S": [], "A": []}

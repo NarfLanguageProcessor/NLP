@@ -1,0 +1,1 @@
+{"index": 92211, "D": "a pipe, tube, or passage for conducting fluid materials downward.", "S": [], "A": []}

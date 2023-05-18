@@ -1,0 +1,1 @@
+{"index": 291987, "D": "of or relating to the synovia; (of a joint) surrounded by a synovia-secreting membrane", "S": [], "A": []}

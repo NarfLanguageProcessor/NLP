@@ -1,0 +1,1 @@
+{"index": 129762, "D": "a numerical system for measuring the size of fibers, filaments, or yarns, based on the weight in grams of 10,000 meters of the fibrous material.", "S": [], "A": []}

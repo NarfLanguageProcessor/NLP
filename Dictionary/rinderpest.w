@@ -1,0 +1,1 @@
+{"index": 273003, "D": "an acute, usually fatal infectious disease of cattle, sheep, etc., caused by a paramyxovirus of the genus Morbillivirus and characterized by high fever, diarrhea, and lesions of the skin and mucous membranes.", "S": [], "A": []}

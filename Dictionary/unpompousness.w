@@ -1,0 +1,1 @@
+{"index": 348148, "D": "characterized by an ostentatious display of dignity or importance", "S": [], "A": []}

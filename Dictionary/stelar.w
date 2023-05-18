@@ -1,0 +1,1 @@
+{"index": 303548, "D": "an upright stone slab or pillar bearing an inscription or design and serving as a monument, marker, or the like.", "S": [], "A": []}

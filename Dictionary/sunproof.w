@@ -1,0 +1,1 @@
+{"index": 311176, "D": "impervious to sunlight or damage by the rays of the sun. ", "S": [], "A": []}

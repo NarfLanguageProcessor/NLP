@@ -1,0 +1,1 @@
+{"index": 277451, "D": "a simultaneous or successive discharge of artillery, bombs, etc.", "S": [], "A": []}

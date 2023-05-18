@@ -1,0 +1,1 @@
+{"index": 227420, "D": "any of several rod-shaped bacteria of the genus Pasturella, certain species of which are parasitic and pathogenic for humans and animals.", "S": [], "A": []}

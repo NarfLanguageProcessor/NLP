@@ -1,0 +1,1 @@
+{"index": 111697, "D": "pertaining to or suitable for a feast or festival", "S": ["cheery ", "chipper ", "convivial ", "gala ", "happy ", "hearty ", "jovial ", "joyful ", "joyous ", "jubilant ", "lighthearted ", "merry ", "peppy ", "upbeat "], "A": ["apathetic ", "depressed ", "lethargic ", "miserable ", "sad ", "serious ", "sorrowful ", "troubled ", "unhappy ", "upset "]}

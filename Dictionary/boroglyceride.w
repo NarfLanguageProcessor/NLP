@@ -1,0 +1,1 @@
+{"index": 38480, "D": "any compound containing boric acid and glycerol, used chiefly as an antiseptic.", "S": [], "A": []}

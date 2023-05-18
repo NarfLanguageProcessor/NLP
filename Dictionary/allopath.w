@@ -1,0 +1,1 @@
+{"index": 8893, "D": "a person who practices or favors allopathy.", "S": [], "A": []}

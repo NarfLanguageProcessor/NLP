@@ -1,0 +1,1 @@
+{"index": 95696, "D": "an ancient city in NW Mesopotamia, on the modern site of Urfa", "S": [], "A": []}

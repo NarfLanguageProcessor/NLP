@@ -1,0 +1,1 @@
+{"index": 57035, "D": "a person who conducts sightseers; guide.", "S": ["conductor ", "guide ", "pilot "], "A": []}

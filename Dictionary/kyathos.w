@@ -1,0 +1,1 @@
+{"index": 164377, "D": "a deep bowl set on a foot, often having a high voluted or serpentine handle rising from the brim and terminating immediately above the juncture of the body and the stem", "S": [], "A": []}

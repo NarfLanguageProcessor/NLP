@@ -1,0 +1,1 @@
+{"index": 228989, "D": "an adult who is sexually attracted to young children.", "S": [], "A": []}

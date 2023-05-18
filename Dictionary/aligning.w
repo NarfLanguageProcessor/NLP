@@ -1,0 +1,1 @@
+{"index": 8262, "D": "to arrange in a straight line; adjust according to a line.", "S": ["averaging ", "calculating ", "calibrating ", "checking ", "gauging ", "grading ", "leveling ", "mapping ", "rhyming ", "scaling ", "surveying "], "A": []}

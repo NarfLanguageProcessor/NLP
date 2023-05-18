@@ -1,0 +1,1 @@
+{"index": 82033, "D": "to remove (oneself, a car, etc) from a register", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 32157, "D": "of or relating to Bern  or its inhabitants.", "S": [], "A": []}

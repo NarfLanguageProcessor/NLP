@@ -1,0 +1,1 @@
+{"index": 151100, "D": "absolutely necessary, essential, or requisite", "S": ["actually ", "approximately ", "necessarily ", "originally ", "permanently ", "quite ", "really ", "substantially ", "truly ", "typically ", "virtually "], "A": ["doubtfully "]}

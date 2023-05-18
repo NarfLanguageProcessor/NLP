@@ -1,0 +1,1 @@
+{"index": 212051, "D": "an ornamental shrub or small tree, Elaeagnus angustifolia, of Eurasia, having fragrant yellow flowers and an olivelike fruit.", "S": [], "A": []}

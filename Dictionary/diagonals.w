@@ -1,0 +1,1 @@
+{"index": 84151, "D": "extending from one edge of a solid figure to an opposite edge, as a plane.", "S": ["leaning "], "A": ["evenness ", "level "]}

@@ -1,0 +1,1 @@
+{"index": 369748, "D": "a plant whose structure adapts it for dispersion by animals.", "S": [], "A": []}

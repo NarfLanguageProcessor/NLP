@@ -1,0 +1,1 @@
+{"index": 146646, "D": "a worshiper of idols.", "S": ["agnostic ", "atheist "], "A": ["believer "]}

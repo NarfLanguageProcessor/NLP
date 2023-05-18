@@ -1,0 +1,1 @@
+{"index": 70950, "D": "a quilt or coverlet for a bed; bedspread.", "S": ["bedcover ", "blanket ", "cover ", "coverlet ", "spread "], "A": []}

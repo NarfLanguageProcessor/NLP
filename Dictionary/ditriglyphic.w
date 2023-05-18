@@ -1,0 +1,1 @@
+{"index": 90134, "D": "the distance, on centers, between a metope and the second one distant.", "S": [], "A": []}

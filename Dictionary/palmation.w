@@ -1,0 +1,1 @@
+{"index": 224041, "D": "a palmate  state or formation.", "S": [], "A": []}

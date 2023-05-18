@@ -1,0 +1,1 @@
+{"index": 71706, "D": "the manners or behavior of a coxcomb. ", "S": [], "A": []}

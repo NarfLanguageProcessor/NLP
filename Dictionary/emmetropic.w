@@ -1,0 +1,1 @@
+{"index": 98612, "D": "the normal refractive condition of the eye, in which the rays of light are accurately focused on the retina.", "S": [], "A": []}

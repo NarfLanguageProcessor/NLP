@@ -1,0 +1,1 @@
+{"index": 157180, "D": "to examine, study, or inquire into systematically; search or examine into the particulars of; examine in detail.", "S": ["analytical "], "A": []}

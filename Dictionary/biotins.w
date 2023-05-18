@@ -1,0 +1,1 @@
+{"index": 34583, "D": "a crystalline, water-soluble vitamin, C10H16O3N2S, of the vitamin B complex, that is present in all living cells and functions as a growth factor and as a catalyst in carboxylation reactions.", "S": [], "A": []}

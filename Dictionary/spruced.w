@@ -1,0 +1,1 @@
+{"index": 301399, "D": "any evergreen, coniferous tree of the genus Picea, of the pine family, having short, angular, needle-shaped leaves attached singly around twigs and bearing hanging cones with persistent scales.", "S": ["file ", "form ", "organize "], "A": ["destroy ", "disarrange ", "disorder ", "disorganize ", "displace ", "jumble ", "mismanage ", "mix up ", "scatter "]}

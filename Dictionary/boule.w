@@ -1,0 +1,1 @@
+{"index": 38926, "D": "Compare baguette (def. 1), batard. ", "S": [], "A": []}

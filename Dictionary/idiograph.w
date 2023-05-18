@@ -1,0 +1,1 @@
+{"index": 146487, "D": "Compare logotype (def. 2). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 211257, "D": "king of Ithaca; son of Laertes; one of the heroes of the Iliad and protagonist of the Odyssey", "S": [], "A": []}

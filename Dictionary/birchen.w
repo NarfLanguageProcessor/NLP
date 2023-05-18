@@ -1,0 +1,1 @@
+{"index": 34725, "D": "of or relating to birch. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 358470, "D": "rich in verdure;  freshly green; verdant.", "S": [], "A": []}

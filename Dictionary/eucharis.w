@@ -1,0 +1,1 @@
+{"index": 105284, "D": "any amaryllidaceous plant of the South American genus Eucharis, cultivated for their large white fragrant flowers", "S": [], "A": []}

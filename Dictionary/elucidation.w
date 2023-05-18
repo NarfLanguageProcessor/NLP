@@ -1,0 +1,1 @@
+{"index": 97815, "D": "the act of explaining or making something clear", "S": ["clarification ", "commentary ", "definition ", "explanation "], "A": ["complication "]}

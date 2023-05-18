@@ -1,0 +1,1 @@
+{"index": 333585, "D": "the state or capacity of being everywhere, especially at the same time; omnipresence", "S": ["pervasiveness "], "A": []}

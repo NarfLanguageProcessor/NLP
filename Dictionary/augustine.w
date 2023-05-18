@@ -1,0 +1,1 @@
+{"index": 23414, "D": "one of the Latin fathers in the early Christian Church; author; bishop of Hippo in N Africa.", "S": [], "A": []}

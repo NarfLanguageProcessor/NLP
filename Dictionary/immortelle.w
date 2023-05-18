@@ -1,0 +1,1 @@
+{"index": 148094, "D": "an everlasting plant or flower, especially Xeranthemum annuum.", "S": [], "A": []}

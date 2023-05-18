@@ -1,0 +1,1 @@
+{"index": 301587, "D": "short and stout; squat.", "S": [], "A": []}

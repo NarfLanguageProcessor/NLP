@@ -1,0 +1,1 @@
+{"index": 200657, "D": "a large reddish insectivorous bat, Nyctalus noctula, common to Europe and Asia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351509, "D": "yielding readily to touch or pressure; easily penetrated, divided, or changed in shape; not hard or stiff", "S": [], "A": []}

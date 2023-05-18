@@ -1,0 +1,1 @@
+{"index": 301026, "D": "one of the minute, active bodies into which the spore of certain Sporozoa  divides, each developing into an adult individual.", "S": [], "A": []}

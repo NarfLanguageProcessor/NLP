@@ -1,0 +1,1 @@
+{"index": 3078, "D": "a hunter who, for having seen Diana bathing, was changed by her into a stag and was torn to pieces by his own hounds.", "S": [], "A": []}

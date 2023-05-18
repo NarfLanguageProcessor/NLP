@@ -1,0 +1,1 @@
+{"index": 47750, "D": "a usually collarless knitted sweater or jacket that opens down the front.", "S": [], "A": []}

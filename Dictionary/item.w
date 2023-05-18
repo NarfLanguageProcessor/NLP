@@ -1,0 +1,1 @@
+{"index": 159501, "D": "a separate article or particular", "S": ["component ", "element ", "feature ", "information ", "piece ", "thing "], "A": ["whole ", "heedlessness ", "ignorance ", "neglect "]}

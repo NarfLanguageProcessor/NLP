@@ -1,0 +1,1 @@
+{"index": 327926, "D": "to violate a law, command, moral code,  etc.; offend; sin. ", "S": ["abandoned ", "dishonored ", "disobeyed ", "disregarded ", "ignored ", "isolated ", "retracted ", "violated "], "A": ["OK ", "complete ", "connected ", "continuous ", "fixed ", "flowing ", "happy ", "kept ", "satisfied ", "unbroken ", "uplifted ", "whole ", "working "]}

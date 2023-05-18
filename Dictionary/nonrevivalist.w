@@ -1,0 +1,1 @@
+{"index": 206882, "D": "a person, especially a member of the clergy, who promotes or holds religious revivals. ", "S": [], "A": []}

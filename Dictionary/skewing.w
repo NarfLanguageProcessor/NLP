@@ -1,0 +1,1 @@
+{"index": 293044, "D": "a process of removing excess gold leaf from a stamped surface.", "S": ["catty-corner ", "crosswise ", "oblique ", "slanted "], "A": []}

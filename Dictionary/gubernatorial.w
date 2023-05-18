@@ -1,0 +1,1 @@
+{"index": 130862, "D": "of or relating to a state governor  or the office of state governor. ", "S": ["administrative ", "dominant ", "guiding ", "ruling "], "A": ["inferior ", "subordinate "]}

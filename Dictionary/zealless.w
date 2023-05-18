@@ -1,0 +1,1 @@
+{"index": 368940, "D": "fervor for a person, cause, or object; eager desire or endeavor; enthusiastic diligence; ardor.", "S": [], "A": []}

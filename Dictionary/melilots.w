@@ -1,0 +1,1 @@
+{"index": 182863, "D": "a cloverlike plant of the genus Melilotus, of the legume family, grown as a forage plant.", "S": [], "A": []}

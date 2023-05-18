@@ -1,0 +1,1 @@
+{"index": 169908, "D": "simple past tense and past participle of lead1. ", "S": [], "A": []}

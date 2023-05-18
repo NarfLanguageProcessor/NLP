@@ -1,0 +1,1 @@
+{"index": 331633, "D": "any plectognath fish  of the family Ostraciontidae, of warm seas, having a boxlike body encased in bony, polygonal plates.", "S": [], "A": []}

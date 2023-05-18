@@ -1,0 +1,1 @@
+{"index": 322988, "D": "a blow with something thick and heavy, producing a dull sound; a heavy knock.", "S": ["bang ", "beat ", "blow ", "clonk ", "clout ", "clump ", "clunk ", "fall ", "flutter ", "hammer ", "hit ", "knock ", "plop ", "poke ", "pound ", "pounding ", "pulse ", "rap ", "slap ", "smack ", "strike ", "throb ", "thunk ", "thwack ", "wallop ", "whack "], "A": []}

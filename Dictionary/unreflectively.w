@@ -1,0 +1,1 @@
+{"index": 349303, "D": "not reflective;  thoughtless; lacking in due deliberation; heedless; rash", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 255525, "D": "(of a substance or drug) tending to produce symptoms like those of a psychosis; hallucinatory.", "S": ["hallucinatory ", "kaleidoscopic ", "multicolored "], "A": ["monochrome "]}

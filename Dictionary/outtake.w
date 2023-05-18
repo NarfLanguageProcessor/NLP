@@ -1,0 +1,1 @@
+{"index": 217713, "D": "a segment of film or videotape edited out of the final version, as because of a technical error.", "S": ["blurb ", "clip ", "excerpt ", "one-liner ", "quotation ", "slogan ", "snippet "], "A": []}

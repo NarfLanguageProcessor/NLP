@@ -1,0 +1,1 @@
+{"index": 124705, "D": "the heart, liver, gizzard, and the like, of a fowl, often cooked separately.", "S": ["brains ", "chitlins ", "chitterlings ", "gizzard ", "heart ", "kidneys ", "liver ", "marrow ", "mountain oyster ", "pancreas ", "prairie oyster ", "stomach ", "sweetbread ", "thymus ", "tongue ", "tripe "], "A": []}

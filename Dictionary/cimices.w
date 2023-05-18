@@ -1,0 +1,1 @@
+{"index": 57512, "D": "a bedbug of the genus Cimex.", "S": [], "A": []}

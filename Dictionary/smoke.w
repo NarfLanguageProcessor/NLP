@@ -1,0 +1,1 @@
+{"index": 294987, "D": "the visible vapor and gases given off by a burning or smoldering substance, especially the gray, brown, or blackish mixture of gases and suspended carbon particles resulting from the combustion of wood, peat, coal, or other organic matter.", "S": ["exhaust ", "fog ", "gas ", "mist ", "pollution ", "smog ", "soot ", "vapor "], "A": []}

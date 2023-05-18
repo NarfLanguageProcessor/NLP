@@ -1,0 +1,1 @@
+{"index": 245930, "D": "to take by force or stratagem; take prisoner; seize", "S": [], "A": []}

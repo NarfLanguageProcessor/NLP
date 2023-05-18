@@ -1,0 +1,1 @@
+{"index": 344784, "D": "to roll, wind, or involve, one within another.", "S": [], "A": []}

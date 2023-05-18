@@ -1,0 +1,1 @@
+{"index": 92865, "D": "of the nature of or characteristic of dreams;  visionary.", "S": ["fanciful ", "introspective ", "nightmarish ", "otherworldly ", "pensive ", "quixotic ", "utopian ", "whimsical "], "A": ["real "]}

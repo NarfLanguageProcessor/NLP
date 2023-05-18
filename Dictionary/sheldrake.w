@@ -1,0 +1,1 @@
+{"index": 287920, "D": "any of several Old World ducks of the genus Tadorna, certain species of which have highly variegated plumage.", "S": [], "A": []}

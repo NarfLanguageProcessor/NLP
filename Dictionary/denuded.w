@@ -1,0 +1,1 @@
+{"index": 81372, "D": "made naked or bare", "S": ["bald ", "exposed ", "naked ", "uncovered "], "A": ["clothed ", "covered ", "robed "]}

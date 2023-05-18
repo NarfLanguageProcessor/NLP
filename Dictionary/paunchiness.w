@@ -1,0 +1,1 @@
+{"index": 228126, "D": "having a large and protruding belly; potbellied", "S": ["bulk ", "chubbiness ", "fatness ", "overweight ", "plumpness ", "rotundness ", "stoutness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133342, "D": "a shoulder-shaped frame with a hook at the top, usually of wire, wood, or plastic, for draping and hanging  a garment when not in use.", "S": ["blade ", "dagger ", "saber "], "A": []}

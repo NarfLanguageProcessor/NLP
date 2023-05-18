@@ -1,0 +1,1 @@
+{"index": 178102, "D": "a person or thing that makes. ", "S": ["builder ", "inventor ", "manufacturer ", "producer "], "A": []}

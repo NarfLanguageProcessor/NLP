@@ -1,0 +1,1 @@
+{"index": 316363, "D": "an inn or tavern where liquor for sale is kept on tap. ", "S": ["bar ", "hotel ", "inn ", "lodge ", "lounge ", "pub ", "saloon ", "watering hole "], "A": []}

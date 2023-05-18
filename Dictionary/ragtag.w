@@ -1,0 +1,1 @@
+{"index": 259973, "D": "ragged  or shabby; disheveled.", "S": ["decrepit ", "dirty ", "impoverished ", "indigent ", "mean ", "moth-eaten ", "poor ", "shabby ", "shoddy ", "sick ", "sleazy ", "squalid ", "tattered "], "A": ["neat "]}

@@ -1,0 +1,1 @@
+{"index": 35610, "D": "the flat cutting part of a sword, knife, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 102578, "D": "any of various Old World plants belonging to the genus Epimedium, of the barberry family, having small, pinnate leaves and spurred white, yellow, or reddish flowers.", "S": [], "A": []}

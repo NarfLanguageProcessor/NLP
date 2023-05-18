@@ -1,0 +1,1 @@
+{"index": 59669, "D": "having clear or sharp eyesight.", "S": ["visionary "], "A": []}

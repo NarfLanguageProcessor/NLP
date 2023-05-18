@@ -1,0 +1,1 @@
+{"index": 103922, "D": "pertaining to a rhetorical question", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 140007, "D": "overly correct;  excessively fastidious; fussy", "S": [], "A": []}

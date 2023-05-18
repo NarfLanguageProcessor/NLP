@@ -1,0 +1,1 @@
+{"index": 191886, "D": "a preparation extracted from the bark of a South American tree, Pradosia lactescens, and used chiefly as an astringent and as an expectorant.", "S": [], "A": []}

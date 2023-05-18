@@ -1,0 +1,1 @@
+{"index": 292867, "D": "an airline that maintains a regular schedule of flights.", "S": ["agenda ", "almanac ", "card ", "chronology ", "diary ", "docket ", "journal ", "lineup ", "list ", "program ", "table ", "timetable "], "A": []}

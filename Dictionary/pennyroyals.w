@@ -1,0 +1,1 @@
+{"index": 229762, "D": "an aromatic Old World plant, Mentha pulegium, of the mint family, having clusters of small purple flowers and yielding a pungent essential oil used medicinally and as an insect repellent.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 120000, "D": "offensive to good taste, especially as being excessive; overdone or gross", "S": ["amply ", "generously ", "handsomely ", "lavishly ", "richly "], "A": ["meagerly ", "meanly ", "poorly "]}

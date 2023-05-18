@@ -1,0 +1,1 @@
+{"index": 247081, "D": "forcible separation or division into parts.", "S": [], "A": []}

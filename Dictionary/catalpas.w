@@ -1,0 +1,1 @@
+{"index": 49309, "D": "any of several trees constituting the genus Catalpa, of the bignonia family, especially C. speciosa, of the central U.S., or C. bignonioides, of the southern U.S., having opposite, sometimes whorled leaves, clusters of white flowers, and long, beanlike seed pods.", "S": [], "A": []}

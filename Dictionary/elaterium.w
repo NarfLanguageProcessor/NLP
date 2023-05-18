@@ -1,0 +1,1 @@
+{"index": 96788, "D": "a greenish sediment prepared from the juice of the squirting cucumber, used as a purgative", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 290916, "D": "to shine or polish to a high sheen, especially with wax", "S": [], "A": []}

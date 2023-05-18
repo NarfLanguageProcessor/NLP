@@ -1,0 +1,1 @@
+{"index": 151118, "D": "not dissoluble; incapable of being dissolved, decomposed, undone, or destroyed.", "S": ["binding ", "enduring ", "firm ", "imperishable ", "lasting "], "A": ["dissoluble "]}

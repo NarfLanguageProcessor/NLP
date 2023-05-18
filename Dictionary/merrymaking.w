@@ -1,0 +1,1 @@
+{"index": 183963, "D": "the act of taking part gaily or enthusiastically in some festive or merry  celebration.", "S": ["amusement ", "carousal ", "conviviality ", "enjoyment ", "festivity ", "frolic ", "jolly ", "merriment ", "pleasure ", "revelry "], "A": ["gloom ", "misery ", "sadness ", "sorrow ", "unhappiness "]}

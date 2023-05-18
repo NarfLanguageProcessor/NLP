@@ -1,0 +1,1 @@
+{"index": 19387, "D": "the observation and study of the planet Mars.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 145949, "D": "a manner or style of dramatic structure or content characteristic of Ibsen. ", "S": [], "A": []}

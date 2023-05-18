@@ -1,0 +1,1 @@
+{"index": 52139, "D": "a herdsman's hut in the Swiss Alps.", "S": ["cabin ", "hut "], "A": []}

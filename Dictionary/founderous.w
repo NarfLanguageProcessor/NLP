@@ -1,0 +1,1 @@
+{"index": 117931, "D": "likely to cause foundering; miry; swampy. ", "S": [], "A": []}

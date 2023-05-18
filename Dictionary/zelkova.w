@@ -1,0 +1,1 @@
+{"index": 369023, "D": "any of several trees of the genus Zelkova, native to Asia, related to and resembling the elms.", "S": [], "A": []}

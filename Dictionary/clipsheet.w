@@ -1,0 +1,1 @@
+{"index": 60146, "D": "a sheet  of paper printed on one side for convenience in cutting and reprinting, containing news items, features, cartoons, etc., and distributed by public relations firms, publishers, and similar organizations.", "S": [], "A": []}

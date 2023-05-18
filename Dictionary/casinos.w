@@ -1,0 +1,1 @@
+{"index": 48905, "D": "a building or large room used for meetings, entertainment, dancing, etc., especially such a place equipped with gambling devices, gambling tables, etc.", "S": ["bank ", "club ", "clubhouse ", "dive ", "hall ", "honky-tonk ", "house ", "joint ", "roadhouse ", "rotunda ", "saloon ", "track "], "A": []}

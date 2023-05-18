@@ -1,0 +1,1 @@
+{"index": 30640, "D": "a person or thing that begins. ", "S": ["learner ", "neophyte ", "newcomer ", "novice "], "A": ["expert ", "professional ", "teacher "]}

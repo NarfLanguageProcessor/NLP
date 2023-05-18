@@ -1,0 +1,1 @@
+{"index": 198558, "D": "an instrument for determining the speed and direction of cloud motion.", "S": [], "A": []}

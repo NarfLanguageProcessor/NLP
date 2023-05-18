@@ -1,0 +1,1 @@
+{"index": 165469, "D": "like or befitting a knave; untrustworthy; dishonest.", "S": [], "A": []}

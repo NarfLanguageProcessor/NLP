@@ -1,0 +1,1 @@
+{"index": 57506, "D": "treasures, especially church treasures, as art objects or jeweled vestments.", "S": [], "A": []}

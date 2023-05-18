@@ -1,0 +1,1 @@
+{"index": 316944, "D": "a person or thing that establishes or strongly influences what is considered to be stylish, acceptable, or worthwhile in a given sphere of interest, as the arts.", "S": [], "A": []}

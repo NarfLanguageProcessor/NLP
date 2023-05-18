@@ -1,0 +1,1 @@
+{"index": 176420, "D": "of, relating to, or employed in the lustrum, or rite of purification.", "S": ["aperient ", "aperitive ", "emetic ", "expiatory ", "laxative ", "lustrative ", "physic ", "purgatorial ", "purificatory "], "A": []}

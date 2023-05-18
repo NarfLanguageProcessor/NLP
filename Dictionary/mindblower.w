@@ -1,0 +1,1 @@
+{"index": 187703, "D": "a hallucinogenic drug.", "S": [], "A": []}

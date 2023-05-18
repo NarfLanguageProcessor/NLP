@@ -1,0 +1,1 @@
+{"index": 265351, "D": "to support or enclose (a picture, photograph, etc) in a new or different frame", "S": ["reevaluate ", "reexamine ", "replan ", "rethink "], "A": []}

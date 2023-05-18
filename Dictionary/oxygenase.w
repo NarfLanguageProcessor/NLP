@@ -1,0 +1,1 @@
+{"index": 222308, "D": "an oxidoreductase enzyme that catalyzes the introduction of molecular oxygen  into an organic substance.", "S": [], "A": []}

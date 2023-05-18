@@ -1,0 +1,1 @@
+{"index": 232612, "D": "the feet of a pig, especially used as food.", "S": [], "A": []}

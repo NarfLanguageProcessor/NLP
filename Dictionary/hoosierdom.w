@@ -1,0 +1,1 @@
+{"index": 143642, "D": "a native or inhabitant of Indiana (used as a nickname).", "S": [], "A": []}

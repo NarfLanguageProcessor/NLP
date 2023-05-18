@@ -1,0 +1,1 @@
+{"index": 86381, "D": "a general name for a family of chlorinated hydrocarbons, C12H4Cl4O2, typically used to refer to one isomer, TCDD, a by-product of pesticide manufacture", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 277286, "D": "a person who makes or sells salt. ", "S": ["barbed ", "biting ", "bitter ", "caustic ", "incisive ", "peppery ", "piercing ", "poignant ", "salty ", "scathing ", "spicy ", "telling ", "trenchant ", "zesty "], "A": ["blah ", "bland ", "calm ", "dull ", "gentle ", "kind ", "mild ", "nice ", "pleasant ", "soothing ", "sweet ", "weak "]}

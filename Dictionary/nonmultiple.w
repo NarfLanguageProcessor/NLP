@@ -1,0 +1,1 @@
+{"index": 205386, "D": "consisting of, having, or involving several or many individuals, parts, elements, relations, etc.; manifold.", "S": [], "A": []}

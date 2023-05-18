@@ -1,0 +1,1 @@
+{"index": 299093, "D": "to hold or bind by or as if by a spell; enchant; entrance; fascinate.", "S": ["arresting ", "captivating ", "engrossing ", "enthralling ", "fascinating ", "gripping ", "interesting ", "intriguing ", "riveting "], "A": ["boring ", "repulsive ", "uninteresting "]}

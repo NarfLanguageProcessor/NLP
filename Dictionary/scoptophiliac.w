@@ -1,0 +1,1 @@
+{"index": 281222, "D": "the obtaining of sexual pleasure by looking at nude bodies, erotic photographs, etc.", "S": [], "A": []}

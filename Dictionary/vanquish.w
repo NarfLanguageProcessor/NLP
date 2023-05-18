@@ -1,0 +1,1 @@
+{"index": 357021, "D": "to conquer or subdue by superior force, as in battle.", "S": ["conquer ", "crush ", "overcome ", "overpower ", "quell ", "repress ", "rout ", "subdue ", "surmount "], "A": ["give in ", "let go ", "lose ", "release ", "surrender ", "win ", "yield "]}

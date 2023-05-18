@@ -1,0 +1,1 @@
+{"index": 170962, "D": "a coin and monetary unit of Romania, equal to 100 bani. Abbreviation", "S": [], "A": []}

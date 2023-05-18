@@ -1,0 +1,1 @@
+{"index": 36293, "D": "without thought or regard; carefree; heedless", "S": ["carefree ", "jaunty ", "jovial ", "lighthearted ", "sprightly "], "A": ["depressed ", "lethargic ", "troubled ", "worried "]}

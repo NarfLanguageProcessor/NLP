@@ -1,0 +1,1 @@
+{"index": 316256, "D": "any of several books of esoteric doctrine regarding rituals, disciplines, meditation, etc., composed in the form of dialogues between Shiva and his Shakti; Agama.", "S": [], "A": []}

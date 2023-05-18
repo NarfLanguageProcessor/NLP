@@ -1,0 +1,1 @@
+{"index": 173421, "D": "a genetic doctrine formulated by Lysenko and asserting that acquired characteristics are inheritable.", "S": [], "A": []}

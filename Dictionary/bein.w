@@ -1,0 +1,1 @@
+{"index": 30877, "D": [], "S": ["cooperate ", "enlist ", "enter ", "follow ", "side with "], "A": ["avoid ", "shun ", "stop "]}

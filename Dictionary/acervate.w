@@ -1,0 +1,1 @@
+{"index": 1973, "D": "pertaining to growth, especially of fungi, that forms a dense, heaped-up mass.", "S": [], "A": []}

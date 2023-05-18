@@ -1,0 +1,1 @@
+{"index": 230650, "D": "having the stem apparently passing through the leaf, owing to congenital union of the basal edges of the leaf round the stem.", "S": [], "A": []}

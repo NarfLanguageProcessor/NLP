@@ -1,0 +1,1 @@
+{"index": 49537, "D": "to arrange in categories  or classes; classify.", "S": ["class ", "division ", "grade ", "group ", "kind ", "league ", "level ", "list ", "rank ", "section ", "tier "], "A": ["whole "]}

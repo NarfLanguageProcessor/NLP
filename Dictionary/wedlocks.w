@@ -1,0 +1,1 @@
+{"index": 363727, "D": "the state of marriage; matrimony.", "S": ["alliance ", "association ", "coupling ", "espousal ", "mating ", "matrimony ", "nuptials ", "union ", "wedding "], "A": ["antagonism ", "disunion ", "division ", "divorce ", "separation "]}

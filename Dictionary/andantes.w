@@ -1,0 +1,1 @@
+{"index": 12299, "D": "moderately slow and even.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 171117, "D": "variant of leuko-  before a vowel.", "S": [], "A": []}

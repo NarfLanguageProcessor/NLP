@@ -1,0 +1,1 @@
+{"index": 167495, "D": "lakefront. ", "S": ["beach ", "cay ", "cliff ", "coast ", "edge ", "embankment ", "lakefront ", "lakeside ", "ledge ", "levee ", "oceanfront ", "reef ", "riverside ", "seaboard ", "seafront ", "shore ", "strand ", "waterfront "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 195453, "D": "a toll or fee given to the proprietor of a mill for the grinding of grain, usually consisting of a fixed proportion of the grain brought or of the flour made.", "S": [], "A": []}

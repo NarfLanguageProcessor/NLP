@@ -1,0 +1,1 @@
+{"index": 143966, "D": "causing horror. ", "S": ["abominable ", "appalling ", "awful ", "cruel ", "disgusting ", "dreadful ", "eerie ", "frightful ", "ghastly ", "grim ", "grisly ", "gruesome ", "hair-raising ", "heinous ", "hideous ", "horrid "], "A": ["attractive ", "beautiful ", "delightful ", "gentle ", "good ", "nice ", "pleasant ", "pleasing ", "pretty ", "wonderful "]}

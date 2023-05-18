@@ -1,0 +1,1 @@
+{"index": 310896, "D": "a comprehensive and usually brief abstract, recapitulation, or compendium of previously stated facts or statements.", "S": ["arbitrary ", "cursory ", "curt ", "hasty ", "succinct ", "terse "], "A": ["lengthy ", "long-winded ", "wordy ", "large ", "long ", "unabridged "]}

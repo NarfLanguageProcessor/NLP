@@ -1,0 +1,1 @@
+{"index": 45469, "D": "calorie (def. 1a). ", "S": ["Bear Flag State ", "Cal ", "El Dorado ", "Gold Coast ", "Gold Rush State ", "Golden Bear State ", "Golden Poppy State ", "Golden State ", "La La Land ", "Sunkist State "], "A": []}

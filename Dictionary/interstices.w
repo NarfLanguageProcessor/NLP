@@ -1,0 +1,1 @@
+{"index": 155995, "D": "an intervening space.", "S": ["aperture ", "chink ", "cleft ", "cranny ", "crevice ", "fissure ", "gap ", "hole ", "interval ", "slit ", "space "], "A": ["closure ", "solid "]}

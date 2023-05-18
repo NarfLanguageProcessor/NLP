@@ -1,0 +1,1 @@
+{"index": 75753, "D": "reduction; decrease; diminution", "S": ["dispatch ", "hew ", "kill ", "level ", "lop ", "massacre ", "mow ", "mow down ", "raze ", "slaughter ", "slay "], "A": ["plant "]}

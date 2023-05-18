@@ -1,0 +1,1 @@
+{"index": 104800, "D": "a lightweight cotton or worsted fabric constructed in plain weave and loosely woven.", "S": [], "A": []}

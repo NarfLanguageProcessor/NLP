@@ -1,0 +1,1 @@
+{"index": 43117, "D": "the appointed head of a fortress.", "S": [], "A": []}

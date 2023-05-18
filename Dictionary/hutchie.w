@@ -1,0 +1,1 @@
+{"index": 145399, "D": "a groundsheet draped over an upright stick, used as a temporary shelter", "S": [], "A": []}

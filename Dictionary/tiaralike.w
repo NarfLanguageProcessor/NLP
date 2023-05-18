@@ -1,0 +1,1 @@
+{"index": 323140, "D": "a jeweled, ornamental coronet worn by women.", "S": [], "A": []}

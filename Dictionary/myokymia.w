@@ -1,0 +1,1 @@
+{"index": 188158, "D": "twitching of individual segments of a muscle.", "S": [], "A": []}

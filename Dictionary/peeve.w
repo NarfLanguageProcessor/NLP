@@ -1,0 +1,1 @@
+{"index": 229095, "D": "to render peevish; annoy.", "S": ["annoyance ", "bother ", "gripe ", "nuisance ", "pest ", "vexation "], "A": ["delight ", "happiness ", "pleasure "]}

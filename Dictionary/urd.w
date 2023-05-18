@@ -1,0 +1,1 @@
+{"index": 355428, "D": "a plant, Vigna mungo, of the legume family, widely cultivated in tropical Asia for its edible seeds and for forage.", "S": [], "A": []}

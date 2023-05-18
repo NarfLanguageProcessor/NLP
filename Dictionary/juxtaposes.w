@@ -1,0 +1,1 @@
+{"index": 162625, "D": "to place close together or side by side, especially with an arresting or surprising effect, or in a way that invites comparison or contrast.", "S": ["appose ", "connect ", "pair "], "A": []}

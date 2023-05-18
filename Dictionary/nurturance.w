@@ -1,0 +1,1 @@
+{"index": 209738, "D": "warm and affectionate physical and emotional support and care.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 132100, "D": "profuse bleeding from ruptured blood vessels", "S": [], "A": []}

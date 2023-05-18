@@ -1,0 +1,1 @@
+{"index": 91480, "D": "a Scot word for dove 1, pigeon 1", "S": [], "A": []}

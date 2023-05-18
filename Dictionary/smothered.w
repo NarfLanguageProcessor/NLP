@@ -1,0 +1,1 @@
+{"index": 295095, "D": "to stifle or suffocate, as by smoke or other means of preventing free breathing.", "S": ["consumed ", "drenched ", "drowned ", "quenched "], "A": []}

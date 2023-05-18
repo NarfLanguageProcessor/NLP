@@ -1,0 +1,1 @@
+{"index": 273561, "D": "a long, loose or flowing gown or outer garment worn by men or women as ceremonial dress, an official vestment, or garb of office.", "S": ["arrayed ", "attired ", "clothed ", "covered ", "dressed ", "face ", "garbed ", "sheathed "], "A": ["exposed "]}

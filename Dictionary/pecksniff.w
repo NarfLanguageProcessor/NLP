@@ -1,0 +1,1 @@
+{"index": 228604, "D": "a person of Pecksniffian  attitudes or behavior", "S": [], "A": []}

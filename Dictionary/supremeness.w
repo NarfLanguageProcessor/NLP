@@ -1,0 +1,1 @@
+{"index": 313286, "D": "highest in rank or authority; paramount; sovereign; chief.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 165470, "D": "like or befitting a knave; untrustworthy; dishonest.", "S": ["avarice ", "greed ", "malice "], "A": ["benevolence ", "generosity ", "goodness ", "honor ", "morality ", "virtue "]}

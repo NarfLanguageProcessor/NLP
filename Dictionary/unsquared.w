@@ -1,0 +1,1 @@
+{"index": 351864, "D": "a rectangle having all four sides of equal length.", "S": [], "A": []}

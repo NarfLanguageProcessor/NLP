@@ -1,0 +1,1 @@
+{"index": 130108, "D": "the act of complaining or whimpering.", "S": ["bleach "], "A": ["brighten ", "darken "]}

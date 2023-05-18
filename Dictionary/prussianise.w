@@ -1,0 +1,1 @@
+{"index": 254283, "D": "to make Prussian,  as in character, method, organization, etc.", "S": [], "A": []}

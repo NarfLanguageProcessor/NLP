@@ -1,0 +1,1 @@
+{"index": 80323, "D": "to remove magnetization from.", "S": [], "A": []}

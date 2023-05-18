@@ -1,0 +1,1 @@
+{"index": 262543, "D": "a brightening exhibited by cooling iron as latent heat of transformation is liberated.", "S": [], "A": []}

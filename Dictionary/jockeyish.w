@@ -1,0 +1,1 @@
+{"index": 161470, "D": "a person who rides horses professionally in races.", "S": [], "A": []}

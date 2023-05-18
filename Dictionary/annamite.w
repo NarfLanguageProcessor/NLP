@@ -1,0 +1,1 @@
+{"index": 13477, "D": "of or relating to Annam,  its people, or their language.", "S": [], "A": []}

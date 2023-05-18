@@ -1,0 +1,1 @@
+{"index": 199639, "D": "an electrotype with a deposit of nickel. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 145239, "D": "to throw or fling with great force or vigor.", "S": ["slingshot "], "A": []}

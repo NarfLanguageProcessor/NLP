@@ -1,0 +1,1 @@
+{"index": 117757, "D": "forward (defs. 1, 2). ", "S": ["advanced ", "along ", "before ", "earlier ", "forward "], "A": ["behind "]}

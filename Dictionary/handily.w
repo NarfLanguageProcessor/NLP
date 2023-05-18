@@ -1,0 +1,1 @@
+{"index": 133192, "D": "skillfully; dexterously; expertly", "S": ["cleverly ", "conveniently ", "easily ", "smoothly "], "A": []}

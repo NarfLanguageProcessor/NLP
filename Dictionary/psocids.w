@@ -1,0 +1,1 @@
+{"index": 255613, "D": "any of numerous minute winged insects of the family Psocidae (order Psocoptera), including most of the common barklice, having mouth parts adapted for chewing and feeding on fungi, lichens, algae, decaying plant material, etc., and occurring on the bark of trees and the leaves of plants.", "S": [], "A": []}

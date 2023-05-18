@@ -1,0 +1,1 @@
+{"index": 121166, "D": "a book in the New Testament, written to the Christians in Galatia. Abbreviation", "S": [], "A": []}

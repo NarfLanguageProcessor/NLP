@@ -1,0 +1,1 @@
+{"index": 333171, "D": "to give out a sharp, vibrating sound, as the string of a musical instrument when plucked.", "S": ["nasality ", "resonance ", "resound ", "sound ", "vibration "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 300861, "D": "any cylindrical piece or device on which something is wound.", "S": [], "A": []}

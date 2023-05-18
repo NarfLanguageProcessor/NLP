@@ -1,0 +1,1 @@
+{"index": 283003, "D": "the deposition or accumulation of sediment. ", "S": [], "A": []}

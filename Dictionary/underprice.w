@@ -1,0 +1,1 @@
+{"index": 339618, "D": "to price  (goods or merchandise) lower than the standard price  or fair value.", "S": ["cheapen "], "A": ["add ", "build up ", "reinforce ", "strengthen "]}

@@ -1,0 +1,1 @@
+{"index": 200120, "D": "a butterfly of the family Nymphalidae, comprising the brush-footed butterflies.", "S": [], "A": []}

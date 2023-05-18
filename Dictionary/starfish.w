@@ -1,0 +1,1 @@
+{"index": 302886, "D": "any echinoderm of the class Asteroidea, having the body radially arranged, usually in the form of a star,  with five or more rays or arms radiating from a central disk; asteroid.", "S": [], "A": []}

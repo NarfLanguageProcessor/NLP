@@ -1,0 +1,1 @@
+{"index": 253982, "D": "feeling pleasure or satisfaction over something regarded as highly honorable or creditable to oneself (often followed by of, an infinitive, or a clause).", "S": ["appreciative ", "glad ", "great ", "honored ", "illustrious ", "noble ", "satisfied "], "A": ["ignorant ", "infamous ", "lowly ", "undignified ", "unimportant ", "unknown "]}

@@ -1,0 +1,1 @@
+{"index": 354201, "D": "to make or become white.", "S": [], "A": []}

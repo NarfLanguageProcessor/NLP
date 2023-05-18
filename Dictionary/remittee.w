@@ -1,0 +1,1 @@
+{"index": 267362, "D": "a person or company to which a remittance is made.", "S": [], "A": []}

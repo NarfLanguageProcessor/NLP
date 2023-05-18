@@ -1,0 +1,1 @@
+{"index": 328475, "D": "a lighting device used to trap insects, especially moths.", "S": [], "A": []}

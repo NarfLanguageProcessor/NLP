@@ -1,0 +1,1 @@
+{"index": 258230, "D": "Formerly Low\u00b7er Can\u00b7a\u00b7da  [loh-er]  /\u02c8lo\u028a \u0259r/ .", "S": [], "A": []}

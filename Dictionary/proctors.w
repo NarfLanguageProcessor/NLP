@@ -1,0 +1,1 @@
+{"index": 251445, "D": "a person appointed to keep watch over students at examinations.", "S": ["agent ", "delegate ", "minister ", "representative ", "supervisor "], "A": []}

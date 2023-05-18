@@ -1,0 +1,1 @@
+{"index": 247891, "D": "the quality or state of being important;  consequence; significance.", "S": [], "A": []}

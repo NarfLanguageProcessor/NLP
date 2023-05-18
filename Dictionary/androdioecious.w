@@ -1,0 +1,1 @@
+{"index": 12381, "D": "having staminate and monoclinous flowers on separate plants of the same species.", "S": [], "A": []}

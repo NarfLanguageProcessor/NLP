@@ -1,0 +1,1 @@
+{"index": 5142, "D": "the atmosphere and the space  beyond considered as a whole.", "S": [], "A": []}

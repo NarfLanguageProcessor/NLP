@@ -1,0 +1,1 @@
+{"index": 293150, "D": "the act or sport of gliding on skis. ", "S": [], "A": []}

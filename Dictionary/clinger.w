@@ -1,0 +1,1 @@
+{"index": 60027, "D": "to adhere closely; stick to", "S": [], "A": []}

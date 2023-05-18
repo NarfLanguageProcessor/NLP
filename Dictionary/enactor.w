@@ -1,0 +1,1 @@
+{"index": 99001, "D": "to make into an act or statute", "S": [], "A": []}

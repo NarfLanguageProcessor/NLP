@@ -1,0 +1,1 @@
+{"index": 42102, "D": "the skin  of a buck  or deer.", "S": [], "A": []}

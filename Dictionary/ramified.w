@@ -1,0 +1,1 @@
+{"index": 260315, "D": "to divide or spread out into branches or branchlike parts; extend into subdivisions.", "S": ["confusing ", "convoluted ", "elaborate ", "muddled ", "sophisticated ", "tangled ", "winding "], "A": ["clear ", "simple "]}

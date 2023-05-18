@@ -1,0 +1,1 @@
+{"index": 158797, "D": "a colorless, very volatile liquid or flammable gas, C4H8, used chiefly in the manufacture of butyl rubber.", "S": [], "A": []}

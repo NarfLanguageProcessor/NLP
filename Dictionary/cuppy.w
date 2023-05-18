@@ -1,0 +1,1 @@
+{"index": 75107, "D": "cup-shaped; hollow.", "S": [], "A": []}

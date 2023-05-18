@@ -1,0 +1,1 @@
+{"index": 362176, "D": "a streak, stripe, or ridge produced on the skin by the stroke of a rod or whip; welt. ", "S": ["grain ", "mark ", "rib ", "ridge ", "streak ", "strip ", "texture ", "weal ", "weave ", "welt "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 23536, "D": "a brand of chlortetracycline. ", "S": [], "A": []}

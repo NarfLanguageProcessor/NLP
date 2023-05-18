@@ -1,0 +1,1 @@
+{"index": 34291, "D": "marked with two ocelli  or eyelike parts.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 236939, "D": "a very small check  woven into fabric, much used in the manufacture of men's and women's suits.", "S": [], "A": []}

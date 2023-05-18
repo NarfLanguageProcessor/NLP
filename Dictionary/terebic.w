@@ -1,0 +1,1 @@
+{"index": 319257, "D": "of or derived from terebic acid. ", "S": [], "A": []}

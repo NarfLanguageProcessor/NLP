@@ -1,0 +1,1 @@
+{"index": 179116, "D": "having or showing boldness, courage, or strength; resolute.", "S": ["adulthood ", "boldness ", "bravery ", "courage ", "fortitude ", "masculinity ", "mettle ", "nobility ", "potency ", "virility "], "A": ["cowardice ", "fear ", "timidity ", "weakness ", "irresolution "]}

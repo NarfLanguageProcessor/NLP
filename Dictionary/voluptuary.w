@@ -1,0 +1,1 @@
+{"index": 361265, "D": "a person whose life is devoted to the pursuit and enjoyment of luxury and sensual pleasure.", "S": ["epicurean "], "A": []}

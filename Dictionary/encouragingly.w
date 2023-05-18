@@ -1,0 +1,1 @@
+{"index": 99490, "D": "to inspire with courage, spirit, or confidence", "S": ["favorably ", "hopefully "], "A": []}

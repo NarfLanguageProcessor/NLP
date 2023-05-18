@@ -1,0 +1,1 @@
+{"index": 90245, "D": "of a different kind, form, character, etc.; unlike", "S": ["individually ", "negatively ", "separately ", "variously "], "A": ["together "]}

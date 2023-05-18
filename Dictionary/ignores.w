@@ -1,0 +1,1 @@
+{"index": 147092, "D": "to refrain from noticing or recognizing", "S": ["avoid ", "discount ", "fail ", "forget ", "neglect ", "overlook ", "reject ", "scorn "], "A": ["accomplish ", "achieve ", "approve ", "attend ", "complete ", "finish ", "succeed ", "praise "]}

@@ -1,0 +1,1 @@
+{"index": 65721, "D": "a woman who conducts; a female leader, guide, director, or manager.", "S": [], "A": []}

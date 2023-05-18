@@ -1,0 +1,1 @@
+{"index": 109143, "D": "a gradual decrease in the visibility of a scene.", "S": ["breakout ", "departure ", "desertion ", "disappearance ", "flight ", "freedom ", "liberation ", "outbreak ", "rescue ", "withdrawal "], "A": ["arrival ", "coming ", "entrance ", "stay ", "staying ", "directness ", "meeting "]}

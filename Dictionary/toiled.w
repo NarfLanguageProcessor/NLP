@@ -1,0 +1,1 @@
+{"index": 325138, "D": "hard and continuous work; exhausting labor or effort.", "S": ["strive ", "sweat "], "A": ["be lazy ", "idle ", "laze ", "relax ", "rest "]}

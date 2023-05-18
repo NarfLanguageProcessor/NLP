@@ -1,0 +1,1 @@
+{"index": 68927, "D": "courteous and gracious; friendly; warm", "S": ["affability ", "affection ", "affectionateness ", "agreeability ", "agreeableness ", "amiableness ", "bonhomie ", "congeniality ", "congenialness ", "cordiality ", "friendliness ", "geniality ", "genialness ", "goodwill ", "graciousness ", "pleasantness ", "warmth "], "A": []}

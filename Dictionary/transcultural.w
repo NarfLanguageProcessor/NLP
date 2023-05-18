@@ -1,0 +1,1 @@
+{"index": 327774, "D": "of or relating to culture  or cultivation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 4628, "D": "inclined or willing to engage in adventures;  enjoying adventures. ", "S": ["audaciousness ", "audacity ", "boldness ", "bravery ", "daredeviltry ", "recklessness ", "venturesomeness "], "A": ["carefulness ", "cowardice ", "humility ", "timidity "]}

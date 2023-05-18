@@ -1,0 +1,1 @@
+{"index": 97236, "D": "containing positive electricity;  tending to migrate to the negative pole in electrolysis.", "S": [], "A": []}

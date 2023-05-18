@@ -1,0 +1,1 @@
+{"index": 117058, "D": "a large tract of land covered with trees and underbrush; woodland.", "S": ["province "], "A": ["city ", "metropolis ", "urbanity "]}

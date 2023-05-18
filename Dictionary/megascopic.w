@@ -1,0 +1,1 @@
+{"index": 182513, "D": "another word for macroscopic", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 214004, "D": "a member of an Oratory.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 339598, "D": "to inhabit; live in; be the inhabitants of", "S": [], "A": []}

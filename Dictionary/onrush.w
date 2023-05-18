@@ -1,0 +1,1 @@
+{"index": 212907, "D": "a strong forward rush, flow, etc.", "S": ["attack ", "avalanche ", "blitz ", "charge ", "dash ", "deluge ", "flood ", "flow ", "flux ", "haste ", "hastiness ", "hurriedness ", "hurry ", "onslaught ", "push ", "race ", "scramble ", "stampede ", "storm ", "stream ", "surge ", "swiftness "], "A": ["defense ", "delay ", "rest ", "retreat ", "slowness "]}

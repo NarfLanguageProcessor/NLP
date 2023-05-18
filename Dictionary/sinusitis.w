@@ -1,0 +1,1 @@
+{"index": 292143, "D": "inflammation of a sinus  or the sinuses. ", "S": [], "A": []}

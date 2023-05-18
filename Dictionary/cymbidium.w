@@ -1,0 +1,1 @@
+{"index": 57487, "D": "any of various orchids of the genus Cymbidium, native to Asia and Australia, having long clusters of numerous showy, variously colored flowers.", "S": [], "A": []}

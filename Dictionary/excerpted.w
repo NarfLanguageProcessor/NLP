@@ -1,0 +1,1 @@
+{"index": 106631, "D": "a passage or quotation taken or selected from a book, document, film, or the like; extract.", "S": ["cited ", "copied "], "A": []}

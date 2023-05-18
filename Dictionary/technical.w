@@ -1,0 +1,1 @@
+{"index": 317644, "D": "belonging or pertaining to an art, science, or the like", "S": ["high-tech ", "industrial ", "mechanical ", "professional ", "scholarly ", "scientific ", "special ", "specialized ", "technological ", "vocational "], "A": []}

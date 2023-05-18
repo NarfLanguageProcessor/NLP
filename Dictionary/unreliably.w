@@ -1,0 +1,1 @@
+{"index": 349437, "D": "not reliable;  not to be relied or depended on.", "S": ["unfaithfully "], "A": []}

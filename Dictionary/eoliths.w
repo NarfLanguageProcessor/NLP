@@ -1,0 +1,1 @@
+{"index": 101946, "D": "a chipped stone of the late Tertiary Period in Europe once thought to have been flaked by humans but now known to be the product of natural, nonhuman agencies.", "S": ["relic ", "skeleton ", "specimen ", "trace "], "A": []}

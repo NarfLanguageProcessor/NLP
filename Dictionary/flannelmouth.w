@@ -1,0 +1,1 @@
+{"index": 113961, "D": "a person whose speech is thick, slow, or halting.", "S": [], "A": []}

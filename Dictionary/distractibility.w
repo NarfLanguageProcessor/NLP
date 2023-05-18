@@ -1,0 +1,1 @@
+{"index": 89872, "D": "inability to sustain one's attention or attentiveness, which is rapidly diverted from one topic to another", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 94790, "D": "an ornament worn on or hanging from the lobe of the ear. ", "S": [], "A": []}

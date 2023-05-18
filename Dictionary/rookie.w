@@ -1,0 +1,1 @@
+{"index": 274236, "D": "an athlete playing their first season as a member of a professional sports team", "S": ["colt ", "newcomer "], "A": ["expert ", "professional "]}

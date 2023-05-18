@@ -1,0 +1,1 @@
+{"index": 81349, "D": "of or relating to surgery performed in the oral cavity.", "S": [], "A": []}

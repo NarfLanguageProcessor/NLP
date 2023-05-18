@@ -1,0 +1,1 @@
+{"index": 219134, "D": "to develop the faculties and powers of (a person) by teaching, instruction, or schooling.", "S": [], "A": []}

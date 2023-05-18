@@ -1,0 +1,1 @@
+{"index": 335888, "D": "adequate to bid  upon", "S": [], "A": []}

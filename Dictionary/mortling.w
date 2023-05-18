@@ -1,0 +1,1 @@
+{"index": 193755, "D": "wool obtained from dead sheep.", "S": [], "A": []}

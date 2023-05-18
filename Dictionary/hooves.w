@@ -1,0 +1,1 @@
+{"index": 143666, "D": "a plural of hoof. ", "S": ["dogs ", "hoof "], "A": []}

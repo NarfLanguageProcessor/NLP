@@ -1,0 +1,1 @@
+{"index": 2415, "D": "of the nature of or resembling acid;  sharp; sour", "S": [], "A": []}

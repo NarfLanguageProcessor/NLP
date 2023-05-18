@@ -1,0 +1,1 @@
+{"index": 136789, "D": "a verse of seven metrical feet.", "S": [], "A": []}

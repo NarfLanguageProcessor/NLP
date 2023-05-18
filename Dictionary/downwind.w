@@ -1,0 +1,1 @@
+{"index": 92363, "D": "in the direction toward which the wind  is blowing", "S": [], "A": []}

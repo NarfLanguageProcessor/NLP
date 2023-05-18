@@ -1,0 +1,1 @@
+{"index": 153481, "D": "a substance or preparation used for killing insects. ", "S": ["defoliant ", "fungicide ", "pesticide "], "A": []}

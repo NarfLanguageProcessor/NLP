@@ -1,0 +1,1 @@
+{"index": 122376, "D": "having the form of gas;  gaseous.", "S": [], "A": []}

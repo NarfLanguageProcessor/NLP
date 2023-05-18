@@ -1,0 +1,1 @@
+{"index": 289480, "D": "of or relating to Siam,  its people, or their language.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133093, "D": "a bag or box of leather, fabric, plastic, or the like, held in the hand or carried by means of a handle or strap, commonly used for holding money, personal grooming items, small purchases, etc.", "S": ["backpack ", "bag ", "evening bag ", "leather ", "pocketbook ", "purse "], "A": []}

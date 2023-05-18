@@ -1,0 +1,1 @@
+{"index": 300965, "D": "bearing spores.", "S": [], "A": []}

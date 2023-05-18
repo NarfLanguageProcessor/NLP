@@ -1,0 +1,1 @@
+{"index": 146700, "D": "(of a sheep or goat) to bring forth young.", "S": [], "A": []}

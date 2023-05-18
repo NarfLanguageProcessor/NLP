@@ -1,0 +1,1 @@
+{"index": 188601, "D": "an instance of bad fortune; mishap.", "S": ["blunder ", "misfortune ", "woe "], "A": ["achievement ", "advantage ", "blessing ", "boon ", "correction ", "favor ", "fortune ", "good fortune ", "good luck ", "happiness ", "miracle ", "perfection ", "progress ", "prosperity ", "success ", "win ", "wonder "]}

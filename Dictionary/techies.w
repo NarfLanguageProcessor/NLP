@@ -1,0 +1,1 @@
+{"index": 317635, "D": "a student, enthusiast, or specialist in a particular technical  field or subject, especially electronics.", "S": ["computer specialist ", "engineer ", "guru ", "hacker ", "programmer "], "A": []}

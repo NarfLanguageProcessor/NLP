@@ -1,0 +1,1 @@
+{"index": 36544, "D": "the flower of a plant, especially of one producing an edible fruit.", "S": ["bloom ", "burgeon ", "unfold "], "A": ["shrink "]}

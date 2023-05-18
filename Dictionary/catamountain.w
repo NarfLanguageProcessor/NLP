@@ -1,0 +1,1 @@
+{"index": 49326, "D": "a wild animal of the cat family, as the European wildcat, the leopard, or panther.", "S": [], "A": []}

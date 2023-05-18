@@ -1,0 +1,1 @@
+{"index": 309583, "D": "lying or extending across or in a cross direction; cross.", "S": [], "A": []}

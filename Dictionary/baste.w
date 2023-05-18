@@ -1,0 +1,1 @@
+{"index": 28825, "D": "to sew with long, loose stitches, as in temporarily tacking together pieces of a garment while it is being made.", "S": ["grease "], "A": []}

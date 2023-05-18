@@ -1,0 +1,1 @@
+{"index": 18110, "D": "either of two points in an eccentric orbit, one (higher apsis ) farthest from the center of attraction, the other (lower apsis ) nearest to the center of attraction.", "S": [], "A": []}

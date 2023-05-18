@@ -1,0 +1,1 @@
+{"index": 106768, "D": "solely; only;  in a manner limited to what is designated", "S": ["alone ", "completely ", "entirely ", "only ", "solely ", "wholly "], "A": ["incompletely ", "partially "]}

@@ -1,0 +1,1 @@
+{"index": 109266, "D": "to shirk; evade work or responsibility.", "S": [], "A": []}

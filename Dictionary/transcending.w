@@ -1,0 +1,1 @@
+{"index": 327728, "D": "to rise above or go beyond; overpass; exceed", "S": ["poignant "], "A": ["crude ", "dull ", "flawed ", "horrible ", "horrifying ", "imperfect ", "inferior ", "ordinary ", "poor ", "ugly "]}

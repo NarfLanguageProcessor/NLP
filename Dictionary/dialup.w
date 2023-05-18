@@ -1,0 +1,1 @@
+{"index": 84305, "D": "relating to or denoting a type of computer data transmission encoded in audio format and transmitted through a telephone call to an internet service provider", "S": [], "A": []}

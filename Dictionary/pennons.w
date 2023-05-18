@@ -1,0 +1,1 @@
+{"index": 229781, "D": "a distinctive flag in any of various forms, as tapering, triangular, or swallow-tailed, formerly one borne on the lance of a knight.", "S": ["banner ", "color ", "ensign ", "jack ", "pennant ", "pinion ", "streamer ", "symbol "], "A": []}

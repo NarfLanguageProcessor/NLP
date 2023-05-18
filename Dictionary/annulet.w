@@ -1,0 +1,1 @@
+{"index": 13644, "D": "an encircling band, molding, or fillet, as on the shaft of a column.", "S": [], "A": []}

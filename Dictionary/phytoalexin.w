@@ -1,0 +1,1 @@
+{"index": 234240, "D": "any of a class of plant compounds that accumulate at the site of invading microorganisms and confer resistance to disease.", "S": [], "A": []}

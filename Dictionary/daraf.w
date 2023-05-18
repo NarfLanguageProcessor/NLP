@@ -1,0 +1,1 @@
+{"index": 76883, "D": "a unit of elastance equal to a reciprocal farad", "S": [], "A": []}

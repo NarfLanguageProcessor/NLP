@@ -1,0 +1,1 @@
+{"index": 218747, "D": "moderately cold; neither warm nor cold", "S": [], "A": []}

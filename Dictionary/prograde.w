@@ -1,0 +1,1 @@
+{"index": 251901, "D": "Having a rotational or orbital movement that is the same as most bodies within a celestial system. In our solar system, prograde movement for both rotating and orbiting bodies is in a counterclockwise direction when viewed from a vantage point above the Earth's north pole. Compare  retrograde.", "S": [], "A": []}

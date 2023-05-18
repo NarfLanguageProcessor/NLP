@@ -1,0 +1,1 @@
+{"index": 56548, "D": "a variant of chador. ", "S": [], "A": []}

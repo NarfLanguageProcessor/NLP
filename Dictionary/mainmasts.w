@@ -1,0 +1,1 @@
+{"index": 177901, "D": "the second mast  from forward in any ship having two or more masts,  except for a yawl, ketch, or dandy.", "S": [], "A": []}

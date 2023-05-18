@@ -1,0 +1,1 @@
+{"index": 259355, "D": "a person who regularly attends horse races, especially for the purpose of betting.", "S": [], "A": []}

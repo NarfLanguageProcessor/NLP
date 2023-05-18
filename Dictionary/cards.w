@@ -1,0 +1,1 @@
+{"index": 47890, "D": "the playing of such a game", "S": ["badge ", "calendar ", "check ", "label ", "poster ", "program ", "sheet ", "ticket "], "A": []}

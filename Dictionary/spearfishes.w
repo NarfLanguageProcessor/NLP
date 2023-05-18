@@ -1,0 +1,1 @@
+{"index": 298716, "D": "any of several fishes  of the genus Tetrapturus, resembling the sailfish but having the first dorsal fin much less developed", "S": [], "A": []}

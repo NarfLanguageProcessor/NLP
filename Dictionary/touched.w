@@ -1,0 +1,1 @@
+{"index": 326567, "D": "(of the mind or feelings) affected with emotion; moved, especially with sympathy or gratitude", "S": ["affected ", "disturbed ", "impressed ", "stirred "], "A": ["unemotional ", "unmoved ", "untouched "]}

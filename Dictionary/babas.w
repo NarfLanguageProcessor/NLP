@@ -1,0 +1,1 @@
+{"index": 25448, "D": "a spongelike cake leavened with yeast and often containing raisins, baked in a small mold and then usually soaked with a rum syrup.", "S": [], "A": []}

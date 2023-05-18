@@ -1,0 +1,1 @@
+{"index": 290659, "D": "a white, ductile metallic element, used for making mirrors, coins, ornaments, table utensils, photographic chemicals, conductors, etc. Symbol", "S": ["bracelet ", "brooch ", "costume ", "earring ", "gem ", "glass ", "gold ", "jewel ", "knickknack ", "necklace ", "ornament ", "pendant ", "silver ", "tiara ", "treasure ", "trinket "], "A": ["plainness "]}

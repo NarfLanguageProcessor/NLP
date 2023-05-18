@@ -1,0 +1,1 @@
+{"index": 66783, "D": "a school giving instruction in one or more of the fine or dramatic arts; specifically, a school of music.", "S": ["glasshouse ", "nursery "], "A": []}

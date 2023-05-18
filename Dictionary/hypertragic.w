@@ -1,0 +1,1 @@
+{"index": 140588, "D": "characteristic or suggestive of tragedy", "S": [], "A": []}

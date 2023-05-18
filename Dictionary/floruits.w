@@ -1,0 +1,1 @@
+{"index": 115080, "D": "he (or she) flourished", "S": [], "A": []}

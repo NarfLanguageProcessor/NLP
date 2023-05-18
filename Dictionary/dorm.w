@@ -1,0 +1,1 @@
+{"index": 91687, "D": "dormitory. ", "S": ["square "], "A": []}

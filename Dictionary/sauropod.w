@@ -1,0 +1,1 @@
+{"index": 278984, "D": "any herbivorous dinosaur of the suborder Sauropoda, from the Jurassic and Cretaceous periods, having a small head, long neck and tail, and five-toed limbs", "S": [], "A": []}

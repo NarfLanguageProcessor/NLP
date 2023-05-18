@@ -1,0 +1,1 @@
+{"index": 352437, "D": "of, relating to, or having supervision.", "S": [], "A": []}

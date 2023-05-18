@@ -1,0 +1,1 @@
+{"index": 255719, "D": "belonging or pertaining to the arthropod subclass Pterygota, comprising the winged insects.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 79015, "D": "either of two shrubs, Vaccinium stamineum or V. caesium, of the heath family, native to the eastern U.S., having clusters of small, white or greenish flowers and blue or greenish berries.", "S": [], "A": []}

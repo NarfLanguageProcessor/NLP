@@ -1,0 +1,1 @@
+{"index": 213083, "D": "inflammation of an ovary, usually combined with an inflammation of the Fallopian tubes; ovaritis.", "S": [], "A": []}

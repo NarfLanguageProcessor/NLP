@@ -1,0 +1,1 @@
+{"index": 132372, "D": "a ball  of hair  accumulated in the stomach or intestines of a cat or other animal as a result of the animal's licking its coat.", "S": [], "A": []}

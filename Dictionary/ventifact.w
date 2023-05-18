@@ -1,0 +1,1 @@
+{"index": 358159, "D": "a pebble or cobble that has been faceted, grooved, and polished by the erosive action of wind-driven sand.", "S": [], "A": []}

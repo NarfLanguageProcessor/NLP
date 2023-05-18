@@ -1,0 +1,1 @@
+{"index": 362733, "D": "bent or twisted out of shape, especially from a flat or straight form", "S": ["angled ", "arced ", "arched ", "bowed ", "contorted ", "crooked ", "drooping ", "hooked ", "humped ", "hunched ", "inclined ", "limp ", "looped ", "round ", "rounded ", "slumped ", "stooped ", "twined ", "twisted ", "wilted "], "A": ["straight "]}

@@ -1,0 +1,1 @@
+{"index": 139783, "D": "(of an igneous rock) intermediate in texture between coarse-grained intrusive rocks and fine-grained extrusive rocks.", "S": [], "A": []}

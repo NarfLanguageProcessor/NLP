@@ -1,0 +1,1 @@
+{"index": 342893, "D": "impudence; effrontery. ", "S": [], "A": []}

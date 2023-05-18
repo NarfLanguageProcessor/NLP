@@ -1,0 +1,1 @@
+{"index": 81486, "D": "to depict; portray.", "S": [], "A": []}

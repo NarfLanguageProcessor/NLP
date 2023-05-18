@@ -1,0 +1,1 @@
+{"index": 254187, "D": "Compare distal (def. 1). ", "S": ["adjacent ", "bordering ", "contiguous "], "A": []}

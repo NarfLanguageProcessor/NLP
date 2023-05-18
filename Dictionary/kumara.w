@@ -1,0 +1,1 @@
+{"index": 166446, "D": "a convolvulaceous twining plant, Ipomoea batatas, of tropical America, cultivated in the tropics for its edible fleshy yellow root", "S": [], "A": []}

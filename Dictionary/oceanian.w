@@ -1,0 +1,1 @@
+{"index": 210775, "D": "of or relating to Oceania or its inhabitants", "S": [], "A": []}

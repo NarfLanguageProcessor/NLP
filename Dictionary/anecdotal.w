@@ -1,0 +1,1 @@
+{"index": 12470, "D": "pertaining to, resembling, or containing anecdotes", "S": ["unreliable ", "unscientific "], "A": ["scientific "]}

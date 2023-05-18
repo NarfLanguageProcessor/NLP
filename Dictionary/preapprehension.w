@@ -1,0 +1,1 @@
+{"index": 245733, "D": "anticipation of adversity or misfortune; suspicion or fear of future trouble or evil.", "S": ["inkling ", "instinct ", "intuition ", "premonition "], "A": ["knowledge ", "reason ", "trust "]}

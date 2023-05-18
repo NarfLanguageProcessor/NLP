@@ -1,0 +1,1 @@
+{"index": 282377, "D": "the intelligence and counterespionage service of the Nazi SS.", "S": ["deviation ", "normal deviation ", "predictable error ", "probable error ", "range of error ", "standard error "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 236627, "D": "a person who journeys, especially a long distance, to some sacred place as an act of religious devotion", "S": [], "A": []}

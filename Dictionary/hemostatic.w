@@ -1,0 +1,1 @@
+{"index": 136489, "D": "arresting hemorrhage, as a drug; styptic.", "S": [], "A": []}

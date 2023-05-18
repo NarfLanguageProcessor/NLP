@@ -1,0 +1,1 @@
+{"index": 256882, "D": "to acquire by the payment of money or its equivalent; buy.", "S": ["bought ", "enjoyed ", "had ", "held ", "inherited ", "kept ", "retained "], "A": ["lost "]}

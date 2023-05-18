@@ -1,0 +1,1 @@
+{"index": 328863, "D": "to shake involuntarily with quick, short movements, as from fear, excitement, weakness, or cold; quake; quiver.", "S": ["anxious ", "apprehensive ", "frightened ", "nervous ", "scared ", "shocked ", "suspicious ", "timid "], "A": ["brave ", "calm ", "happy ", "unafraid ", "unworried "]}

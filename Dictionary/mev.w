@@ -1,0 +1,1 @@
+{"index": 185545, "D": "million electronvolts (10 6 electronvolts)", "S": [], "A": []}

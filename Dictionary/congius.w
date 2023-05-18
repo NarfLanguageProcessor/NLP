@@ -1,0 +1,1 @@
+{"index": 66183, "D": "(in prescriptions) a gallon (3.7853 liters).", "S": [], "A": []}

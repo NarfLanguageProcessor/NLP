@@ -1,0 +1,1 @@
+{"index": 306925, "D": "a monumental pile of earth or other material, in memory of Buddha or a Buddhist saint, and commemorating some event or marking a sacred spot.", "S": [], "A": []}

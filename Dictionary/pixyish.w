@@ -1,0 +1,1 @@
+{"index": 238486, "D": "a fairy or sprite, especially a mischievous one.", "S": ["capricious ", "daft ", "impish ", "prankish ", "puckish ", "silly ", "touched ", "whimsical "], "A": []}

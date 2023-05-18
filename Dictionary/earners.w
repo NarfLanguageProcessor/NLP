@@ -1,0 +1,1 @@
+{"index": 94769, "D": "to gain or get in return for one's labor or service", "S": [], "A": []}

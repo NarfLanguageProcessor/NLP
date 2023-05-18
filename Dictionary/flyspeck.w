@@ -1,0 +1,1 @@
+{"index": 114732, "D": "a speck  or tiny stain from the excrement of a fly. ", "S": ["dab ", "droplet ", "fleck ", "speck "], "A": []}

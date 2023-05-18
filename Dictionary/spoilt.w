@@ -1,0 +1,1 @@
+{"index": 300659, "D": "a simple past tense and past participle of spoil. ", "S": ["besmirched ", "cooked ", "desecrated ", "dirty ", "dishonored ", "exposed ", "polluted ", "profaned ", "ravished ", "tainted ", "trashed ", "vitiated "], "A": ["clean ", "pure "]}

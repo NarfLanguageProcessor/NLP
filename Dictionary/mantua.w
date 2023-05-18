@@ -1,0 +1,1 @@
+{"index": 179605, "D": "a woman's loose gown worn as a robe or overdress in the early 18th century.", "S": ["fiber ", "taffeta ", "thread ", "tulle "], "A": []}

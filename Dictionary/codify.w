@@ -1,0 +1,1 @@
+{"index": 61761, "D": "to compile (laws, rules, etc.) into an orderly, formal code.", "S": ["summarize "], "A": ["disarrange ", "disorder ", "disorganize ", "disperse ", "enlarge ", "expand ", "lengthen ", "mix up ", "scatter "]}

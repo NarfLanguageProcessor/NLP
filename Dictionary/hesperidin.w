@@ -1,0 +1,1 @@
+{"index": 137395, "D": "a crystallizable, bioflavinoid glycoside, C28H34O15, occurring in most citrus fruits, especially in the spongy envelope of oranges and lemons.", "S": [], "A": []}

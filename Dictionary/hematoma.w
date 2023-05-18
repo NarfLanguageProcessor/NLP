@@ -1,0 +1,1 @@
+{"index": 135979, "D": "a circumscribed collection of blood, usually clotted, in a tissue or organ, caused by a break in a blood vessel.", "S": [], "A": []}

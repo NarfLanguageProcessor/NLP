@@ -1,0 +1,1 @@
+{"index": 110997, "D": "belonging or pertaining to the cat family, Felidae.", "S": [], "A": []}

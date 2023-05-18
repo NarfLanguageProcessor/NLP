@@ -1,0 +1,1 @@
+{"index": 175012, "D": "enduring injury, trouble, or provocation long and patiently.", "S": ["deferential ", "docile ", "gentle ", "passive ", "serene ", "subdued ", "submissive ", "timid ", "unassuming "], "A": ["bold ", "brave ", "disobedient ", "excited ", "intractable ", "troubled ", "unyielding "]}

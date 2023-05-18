@@ -1,0 +1,1 @@
+{"index": 110421, "D": "the animals of a given region or period considered as a whole.", "S": ["Animalia ", "animal group ", "animal life ", "animality ", "animals ", "brute creation ", "kingdom Animalia "], "A": []}

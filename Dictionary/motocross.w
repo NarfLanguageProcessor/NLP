@@ -1,0 +1,1 @@
+{"index": 194027, "D": "a timed motorcycle race over a closed course consisting of a winding dirt trail with hills, jumps, sharp turns, and often muddy terrain. Abbreviation", "S": [], "A": []}

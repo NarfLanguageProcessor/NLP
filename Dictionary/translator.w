@@ -1,0 +1,1 @@
+{"index": 328029, "D": "a person who translates. ", "S": ["linguist "], "A": []}

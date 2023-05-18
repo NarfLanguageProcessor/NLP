@@ -1,0 +1,1 @@
+{"index": 161620, "D": "having or provided with joints. ", "S": [], "A": []}

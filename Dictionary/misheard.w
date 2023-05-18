@@ -1,0 +1,1 @@
+{"index": 189405, "D": "to hear incorrectly or imperfectly", "S": [], "A": []}

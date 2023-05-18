@@ -1,0 +1,1 @@
+{"index": 49018, "D": "any of several large flightless, ratite birds of the genus Casuarius, of Australia, New Guinea, and adjacent islands, characterized by a bony casque on the front of the head.", "S": [], "A": []}

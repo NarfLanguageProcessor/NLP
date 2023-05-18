@@ -1,0 +1,1 @@
+{"index": 102340, "D": "the thin, waxy outer layer of the insect exoskeleton.", "S": [], "A": []}

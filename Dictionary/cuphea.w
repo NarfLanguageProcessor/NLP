@@ -1,0 +1,1 @@
+{"index": 75077, "D": "any of various New World plants belonging to the genus Cuphea, of the loosestrife family, having tubular, usually reddish or purple flowers.", "S": [], "A": []}

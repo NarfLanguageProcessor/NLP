@@ -1,0 +1,1 @@
+{"index": 81302, "D": "a paste, powder, liquid, or other preparation for cleaning the teeth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 134700, "D": "any of various jibs or staysails set forward of the foremost mast of a vessel.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 206194, "D": "to beget or generate (offspring).", "S": [], "A": []}

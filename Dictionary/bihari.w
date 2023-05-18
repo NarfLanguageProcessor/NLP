@@ -1,0 +1,1 @@
+{"index": 33803, "D": "a native or inhabitant of Bihar.", "S": [], "A": []}

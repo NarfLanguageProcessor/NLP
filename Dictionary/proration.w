@@ -1,0 +1,1 @@
+{"index": 252905, "D": "the act of dividing, distributing, limiting, or calculating something proportionately, as fees, wages, quotas, funding, etc.", "S": [], "A": []}

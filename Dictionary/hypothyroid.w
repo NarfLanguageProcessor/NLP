@@ -1,0 +1,1 @@
+{"index": 141307, "D": "deficient activity of the thyroid gland. ", "S": [], "A": []}

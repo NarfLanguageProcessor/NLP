@@ -1,0 +1,1 @@
+{"index": 37000, "D": "a yard  or waterside location at which boats,  small craft, and the like are built, maintained, docked, etc.", "S": ["berth ", "harbor ", "landing ", "moorings ", "pier ", "port ", "quay ", "slip ", "wharf "], "A": []}

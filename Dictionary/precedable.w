@@ -1,0 +1,1 @@
+{"index": 245966, "D": "to go before, as in place, order, rank, importance, or time.", "S": [], "A": []}

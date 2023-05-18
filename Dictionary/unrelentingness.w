@@ -1,0 +1,1 @@
+{"index": 349429, "D": "not relenting;  not yielding or swerving in determination or resolution, as of or from opinions, convictions, ambitions, ideals, etc.; inflexible", "S": [], "A": []}

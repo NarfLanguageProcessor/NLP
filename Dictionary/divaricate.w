@@ -1,0 +1,1 @@
+{"index": 90207, "D": "to spread apart; branch; diverge.", "S": ["jagged "], "A": ["straight "]}

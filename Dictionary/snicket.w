@@ -1,0 +1,1 @@
+{"index": 295492, "D": "a passageway between walls or fences", "S": [], "A": []}

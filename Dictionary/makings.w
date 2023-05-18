@@ -1,0 +1,1 @@
+{"index": 178121, "D": "he had the makings of a leader", "S": ["appropriateness ", "capability ", "capacity ", "competency ", "expertise ", "fitness ", "know-how ", "proficiency ", "qualification ", "savvy ", "skill ", "suitability "], "A": ["ignorance ", "impotence ", "inability ", "inappropriateness ", "incompetence ", "ineptness ", "lack "]}

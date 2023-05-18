@@ -1,0 +1,1 @@
+{"index": 17943, "D": "a program or position in which someone learns a trade by working under a certified expert", "S": ["culture ", "discipline ", "improvement ", "information ", "learning ", "literacy ", "scholarship ", "schooling ", "science ", "study ", "teaching ", "training "], "A": ["ignorance ", "destruction ", "neglect "]}

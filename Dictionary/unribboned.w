@@ -1,0 +1,1 @@
+{"index": 349920, "D": "a woven strip or band of fine material, as silk or rayon, varying in width and finished off at the edges, used for ornament, tying, etc.", "S": [], "A": []}

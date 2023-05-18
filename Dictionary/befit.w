@@ -1,0 +1,1 @@
+{"index": 30469, "D": "to be proper or appropriate for; suit; fit", "S": ["agree ", "become ", "behoove ", "benefit ", "beseem ", "correspond ", "do ", "go ", "match ", "serve ", "suit "], "A": ["differ ", "disagree ", "refuse "]}

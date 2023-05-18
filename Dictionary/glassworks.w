@@ -1,0 +1,1 @@
+{"index": 126002, "D": "a factory where glass is made.", "S": [], "A": []}

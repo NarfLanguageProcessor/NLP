@@ -1,0 +1,1 @@
+{"index": 352310, "D": "not achieving or not attended with success", "S": ["abortive ", "disastrous ", "doomed ", "failed ", "foiled ", "fruitless ", "futile ", "ill-fated ", "ineffective ", "ineffectual ", "losing ", "thwarted ", "useless ", "vain "], "A": ["effective ", "effectual ", "fruitful ", "hopeful ", "lucky ", "productive ", "profitable ", "successful ", "useful "]}

@@ -1,0 +1,1 @@
+{"index": 38656, "D": "a software program that can execute commands, reply to messages, or perform routine tasks, as online searches, either automatically or with minimal human intervention (often used in combination)", "S": [], "A": []}

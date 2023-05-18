@@ -1,0 +1,1 @@
+{"index": 59904, "D": "one of a Scottish breed of strong, hardy draft horses, having a feathering of long hairs along the backs of the legs.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 297516, "D": "a white, crystalline, sweet, water-soluble powder, C6H8(OH)6, occurring in cherries, plums, pears, seaweed, and many berries, obtained by the breakdown of dextrose and used as a sugar substitute for diabetics and in the manufacture of vitamin C, synthetic resins, candy, varnishes, etc.; sorbol.", "S": [], "A": []}

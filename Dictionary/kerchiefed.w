@@ -1,0 +1,1 @@
+{"index": 163993, "D": "a woman's square scarf worn as a covering for the head or sometimes the shoulders.", "S": [], "A": []}

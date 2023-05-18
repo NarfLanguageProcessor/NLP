@@ -1,0 +1,1 @@
+{"index": 91860, "D": "a basket for carrying objects on the back; pannier.", "S": ["drapery "], "A": []}

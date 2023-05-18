@@ -1,0 +1,1 @@
+{"index": 354615, "D": "to bring (a book, figures, or the like) up to date  as by adding new information or making corrections", "S": [], "A": []}

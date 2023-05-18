@@ -1,0 +1,1 @@
+{"index": 339692, "D": "a particular, detail, or point (usually preceded by in)", "S": [], "A": []}

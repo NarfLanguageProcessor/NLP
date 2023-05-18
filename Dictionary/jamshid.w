@@ -1,0 +1,1 @@
+{"index": 160292, "D": "the king of the peris  who, given a human form as punishment for his boast of immortality, became a powerful and wonder-working Persian king.", "S": [], "A": []}

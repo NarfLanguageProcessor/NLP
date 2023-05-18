@@ -1,0 +1,1 @@
+{"index": 170660, "D": "of, relating to, or resembling a rabbit or hare.", "S": [], "A": []}

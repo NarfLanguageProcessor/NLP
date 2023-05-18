@@ -1,0 +1,1 @@
+{"index": 148215, "D": "a glassy or crystalline material composed of slag and meteoric materials, produced by the impact  of a meteorite striking the earth.", "S": [], "A": []}

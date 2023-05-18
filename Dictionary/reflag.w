@@ -1,0 +1,1 @@
+{"index": 265099, "D": "to register (a foreign ship) so that it flies the flag of the registering nation and thereby comes under the latter's protection.", "S": [], "A": []}

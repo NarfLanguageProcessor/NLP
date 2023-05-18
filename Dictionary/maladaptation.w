@@ -1,0 +1,1 @@
+{"index": 178194, "D": "incomplete, inadequate, or faulty adaptation. ", "S": [], "A": []}

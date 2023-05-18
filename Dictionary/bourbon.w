@@ -1,0 +1,1 @@
+{"index": 39007, "D": "a member of a French royal family that ruled in France 1589\u20131792, Spain 1700\u20131931, and Naples 1735\u20131806, 1815\u201360.", "S": ["alcohol ", "drink ", "liquor ", "spirits "], "A": []}

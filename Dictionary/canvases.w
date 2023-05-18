@@ -1,0 +1,1 @@
+{"index": 46719, "D": "a closely woven, heavy cloth of cotton, hemp, or linen, used for tents, sails, etc.", "S": ["tarp ", "tarpaulin "], "A": []}

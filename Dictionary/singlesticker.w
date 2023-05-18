@@ -1,0 +1,1 @@
+{"index": 291719, "D": "a vessel, especially a sloop or cutter, having one mast.", "S": [], "A": []}

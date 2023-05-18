@@ -1,0 +1,1 @@
+{"index": 251561, "D": "an early symptom that signals the onset of an illness or disease; a symptom or series of symptoms that precedes the more obvious, diagnosable symptoms that develop along with the condition", "S": [], "A": []}

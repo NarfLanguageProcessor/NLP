@@ -1,0 +1,1 @@
+{"index": 319384, "D": "pertaining to or forming the extremity or boundary; terminal; terminating. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 166895, "D": [], "S": ["blubbering ", "crying ", "discharge ", "distress ", "drops ", "grieving ", "lamentation ", "lamenting ", "moisture ", "mourning ", "pain ", "regret ", "sadness ", "sob ", "sob act ", "sobbing ", "sorrow ", "teardrop ", "wailing ", "water ", "waterworks ", "weep ", "weeping ", "weeps ", "whimpering ", "woe "], "A": []}

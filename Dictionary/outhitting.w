@@ -1,0 +1,1 @@
+{"index": 216798, "D": "to deal a blow or stroke to", "S": ["beat ", "clobber ", "drub ", "edge ", "knock out ", "outplay ", "overpower ", "take ", "thrash ", "trounce ", "win "], "A": ["fail ", "forfeit ", "lose ", "surrender "]}

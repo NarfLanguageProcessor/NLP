@@ -1,0 +1,1 @@
+{"index": 11057, "D": "(of animal ova) showing complete but unequal cleavage after fertilization", "S": [], "A": []}

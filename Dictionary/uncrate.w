@@ -1,0 +1,1 @@
+{"index": 338138, "D": "a slatted wooden box or framework for packing, shopping, or storing fruit, furniture, glassware, crockery, etc.", "S": ["take out ", "unload "], "A": ["fill ", "load ", "pack "]}

@@ -1,0 +1,1 @@
+{"index": 274942, "D": "a defeat attended with disorderly flight; dispersal of a defeated force in complete disorder", "S": ["humbled ", "overpowered ", "overwhelmed "], "A": []}

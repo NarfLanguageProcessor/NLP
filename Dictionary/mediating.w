@@ -1,0 +1,1 @@
+{"index": 182033, "D": "to settle (disputes, strikes, etc.) as an intermediary between parties; reconcile. ", "S": ["arbitrate ", "intercede ", "interfere ", "intervene ", "negotiate ", "resolve "], "A": ["refuse "]}

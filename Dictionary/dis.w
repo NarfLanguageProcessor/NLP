@@ -1,0 +1,1 @@
+{"index": 86863, "D": "lady; woman.", "S": ["belittle ", "criticize ", "cut down to size ", "disparage ", "dump on ", "find fault ", "knock ", "malign ", "mudsling ", "pan ", "pooh pooh ", "put down ", "rap ", "rip ", "roast ", "run down ", "slam ", "slander ", "take a dig at ", "take down a peg ", "tear down ", "tear to pieces "], "A": []}

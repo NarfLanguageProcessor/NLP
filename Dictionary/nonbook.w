@@ -1,0 +1,1 @@
+{"index": 201706, "D": "a book  without artistic or literary merit or substance, especially one that has been developed primarily to exploit a fad or make a profit quickly", "S": [], "A": []}

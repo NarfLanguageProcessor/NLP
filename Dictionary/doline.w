@@ -1,0 +1,1 @@
+{"index": 91129, "D": "a shallow usually funnel-shaped depression of the ground surface formed by solution in limestone regions", "S": [], "A": []}

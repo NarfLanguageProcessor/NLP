@@ -1,0 +1,1 @@
+{"index": 143891, "D": "a variety of quartz resembling flint.", "S": [], "A": []}

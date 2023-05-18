@@ -1,0 +1,1 @@
+{"index": 195653, "D": "decorated with a mural  or murals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 339075, "D": "to develop  (something) short of the required amount", "S": [], "A": []}

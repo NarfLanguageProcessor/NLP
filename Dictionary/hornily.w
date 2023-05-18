@@ -1,0 +1,1 @@
+{"index": 143868, "D": "consisting of a horn or a hornlike substance; corneous.", "S": [], "A": []}

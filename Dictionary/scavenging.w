@@ -1,0 +1,1 @@
+{"index": 279923, "D": "to take or gather (something usable) from discarded material.", "S": ["lurk ", "roam ", "skulk ", "slink ", "stroll ", "tramp "], "A": ["ignore ", "neglect "]}

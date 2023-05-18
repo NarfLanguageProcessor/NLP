@@ -1,0 +1,1 @@
+{"index": 126655, "D": "a person who writes glosses; glossarist.", "S": [], "A": []}

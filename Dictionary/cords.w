@@ -1,0 +1,1 @@
+{"index": 68967, "D": "clothing, especially trousers, of corded  fabric; corduroys.", "S": ["knickers ", "shorts ", "slacks ", "trousers ", "underpants "], "A": []}

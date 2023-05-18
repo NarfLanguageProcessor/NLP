@@ -1,0 +1,1 @@
+{"index": 259491, "D": "a device for determining the presence and location of an object by measuring the time for the echo of a radio wave to return from it and the direction from which it returns.", "S": ["sonar "], "A": []}

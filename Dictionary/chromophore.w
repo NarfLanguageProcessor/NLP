@@ -1,0 +1,1 @@
+{"index": 56357, "D": "any chemical group that produces color in a compound, as the azo group \u2212N=N\u2212.", "S": [], "A": []}

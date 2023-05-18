@@ -1,0 +1,1 @@
+{"index": 96862, "D": "a composite weed, Inula helenium, naturalized in North America, having large yellow flowers and aromatic leaves and root.", "S": [], "A": []}

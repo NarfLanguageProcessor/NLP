@@ -1,0 +1,1 @@
+{"index": 173504, "D": "to give attention with the ear; attend closely for the purpose of hearing; give ear.", "S": ["accept ", "admit ", "attend ", "get ", "observe ", "take notice ", "tune in "], "A": ["deny ", "dispute ", "ignore ", "miss ", "refuse ", "reject ", "disobey ", "disregard ", "forget ", "neglect ", "turn away "]}

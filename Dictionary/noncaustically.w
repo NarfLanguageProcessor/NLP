@@ -1,0 +1,1 @@
+{"index": 201851, "D": "capable of burning, corroding, or destroying living tissue.", "S": [], "A": []}

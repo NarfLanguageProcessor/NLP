@@ -1,0 +1,1 @@
+{"index": 26492, "D": "the act of parachuting from an aircraft, especially to escape a crash, fire, etc.", "S": ["relieve ", "rescue "], "A": ["harm ", "hurt ", "injure "]}

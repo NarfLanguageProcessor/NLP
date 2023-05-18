@@ -1,0 +1,1 @@
+{"index": 255897, "D": "of, relating to, or situated near the pubes  or the pubis. ", "S": [], "A": []}

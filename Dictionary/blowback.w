@@ -1,0 +1,1 @@
+{"index": 36596, "D": "the escape to the rear of gases formed during the firing of a weapon or in a boiler, internal-combustion engine, etc", "S": [], "A": []}

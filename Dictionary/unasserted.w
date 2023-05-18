@@ -1,0 +1,1 @@
+{"index": 335311, "D": "resting on a statement or claim unsupported by evidence or proof; alleged", "S": [], "A": []}

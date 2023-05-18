@@ -1,0 +1,1 @@
+{"index": 38870, "D": "yarn with loops producing a rough, nubby appearance on woven or knitted fabrics.", "S": [], "A": []}

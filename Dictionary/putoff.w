@@ -1,0 +1,1 @@
+{"index": 257290, "D": "an act or instance of putting off.", "S": ["adjourn ", "hold off ", "postpone ", "reschedule ", "shelve ", "suspend "], "A": ["carry out ", "continue ", "do "]}

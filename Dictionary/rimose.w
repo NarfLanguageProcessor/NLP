@@ -1,0 +1,1 @@
+{"index": 272972, "D": "full of crevices, chinks, or cracks.", "S": [], "A": []}

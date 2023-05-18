@@ -1,0 +1,1 @@
+{"index": 286261, "D": "a group of organisms, microorganisms, or cells distinguished by their shared specific antigens as determined by serologic testing.", "S": [], "A": []}

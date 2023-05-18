@@ -1,0 +1,1 @@
+{"index": 171379, "D": "Compare assets (def. 1)", "S": ["accountability ", "burden ", "culpability ", "debt ", "duty ", "obligation "], "A": ["asset ", "irresponsibility "]}

@@ -1,0 +1,1 @@
+{"index": 293733, "D": "the act or work of covering something with slates. ", "S": ["appoint ", "assign ", "choose ", "decide ", "draft ", "elect ", "elevate ", "name ", "present ", "propose ", "recommend ", "submit ", "suggest ", "tap "], "A": ["condemn ", "dissuade ", "ignore ", "refuse ", "reject ", "deny ", "discourage ", "stop ", "take back "]}

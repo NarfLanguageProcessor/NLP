@@ -1,0 +1,1 @@
+{"index": 88895, "D": "to send off or away with speed, as a messenger, telegram, body of troops, etc.", "S": ["alacrity ", "celerity ", "expedition ", "expeditiousness ", "haste ", "hurry ", "hustle ", "precipitateness ", "promptitude ", "promptness ", "quickness ", "rapidity ", "rustle ", "speediness ", "swiftness "], "A": ["delay ", "rest ", "slowness "]}

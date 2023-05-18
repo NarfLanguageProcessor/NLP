@@ -1,0 +1,1 @@
+{"index": 295026, "D": [], "S": ["cigarette ", "crop ", "smoking "], "A": []}

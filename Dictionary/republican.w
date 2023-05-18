@@ -1,0 +1,1 @@
+{"index": 268728, "D": "of, relating to, or of the nature of a republic.", "S": ["congressperson ", "lawmaker ", "leader ", "legislator ", "member of Congress ", "officeholder ", "president ", "representative ", "senator "], "A": []}

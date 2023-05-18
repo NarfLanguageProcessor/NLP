@@ -1,0 +1,1 @@
+{"index": 212011, "D": "old-fashioned; of an older or former kind.", "S": ["ancient ", "archaic ", "old-fashioned ", "out-of-date ", "outmoded "], "A": ["current ", "modern ", "new ", "young "]}

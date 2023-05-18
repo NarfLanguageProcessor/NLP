@@ -1,0 +1,1 @@
+{"index": 204592, "D": "absolutely necessary or required; unavoidable", "S": [], "A": []}

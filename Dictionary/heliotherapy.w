@@ -1,0 +1,1 @@
+{"index": 135606, "D": "treatment of disease by means of sunlight.", "S": [], "A": []}

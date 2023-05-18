@@ -1,0 +1,1 @@
+{"index": 15530, "D": "the use or application of medicine.", "S": [], "A": []}

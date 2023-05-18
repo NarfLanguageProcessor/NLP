@@ -1,0 +1,1 @@
+{"index": 278777, "D": "one of a class of woodland deities, attendant on Bacchus, represented as part human, part horse, and sometimes part goat and noted for riotousness and lasciviousness.", "S": [], "A": []}

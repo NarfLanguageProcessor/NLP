@@ -1,0 +1,1 @@
+{"index": 27307, "D": "a small flag or streamer fastened to a lance, masthead, etc.", "S": ["banner ", "banneret ", "bannerol ", "burgee ", "colors ", "ensign ", "guidon ", "masthead ", "oriflamme ", "pennant ", "pennon ", "standard ", "streamer "], "A": []}

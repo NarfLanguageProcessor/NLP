@@ -1,0 +1,1 @@
+{"index": 302779, "D": "the innermost, stirrup-shaped bone of a chain of three small bones in the middle ear  of humans and other mammals, involved in the conduction of sound vibrations to the inner ear.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 272296, "D": "a mineral, manganese metasilicate, MnSiO3, occurring usually in rose-red masses, sometimes used as an ornamental stone; manganese spar.", "S": [], "A": []}

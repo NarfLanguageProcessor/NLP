@@ -1,0 +1,1 @@
+{"index": 305638, "D": "to stray from the road, course, or line of march.", "S": [], "A": []}

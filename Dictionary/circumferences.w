@@ -1,0 +1,1 @@
+{"index": 58117, "D": "the outer boundary, especially of a circular area; perimeter", "S": ["girth "], "A": ["center ", "inside ", "interior ", "middle "]}

@@ -1,0 +1,1 @@
+{"index": 13195, "D": "soul; life.", "S": ["psyche ", "soul "], "A": ["body "]}

@@ -1,0 +1,1 @@
+{"index": 115722, "D": "an enemy in war.", "S": [], "A": []}

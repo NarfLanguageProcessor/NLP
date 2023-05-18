@@ -1,0 +1,1 @@
+{"index": 132331, "D": "to cheer, salute, or greet; welcome. ", "S": [], "A": []}

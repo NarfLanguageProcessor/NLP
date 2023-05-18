@@ -1,0 +1,1 @@
+{"index": 101125, "D": "third person singular present indicative of ensue. ", "S": ["arise ", "befall ", "come up ", "emanate ", "occur ", "turn out "], "A": ["cause ", "cease ", "disregard ", "halt ", "neglect ", "precede ", "repress ", "stop "]}

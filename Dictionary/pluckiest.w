@@ -1,0 +1,1 @@
+{"index": 240328, "D": "having or showing pluck  or courage; brave", "S": ["courageous ", "gutsy ", "heroic ", "spirited ", "spunky ", "valiant "], "A": ["afraid ", "cowardly ", "fearful ", "meek ", "timid "]}

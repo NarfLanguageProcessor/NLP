@@ -1,0 +1,1 @@
+{"index": 368969, "D": "any of several horselike African mammals of the genus Equus, each species having a characteristic pattern of black or dark-brown stripes on a whitish background", "S": [], "A": []}

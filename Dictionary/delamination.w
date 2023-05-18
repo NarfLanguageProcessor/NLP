@@ -1,0 +1,1 @@
+{"index": 79936, "D": "a splitting apart into layers.", "S": ["lamination ", "layer ", "stratum "], "A": []}

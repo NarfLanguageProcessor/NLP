@@ -1,0 +1,1 @@
+{"index": 14548, "D": "Compare biocentrism (def. 2). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 361852, "D": "to wobble or shake, especially while in motion", "S": ["bobble ", "flourish ", "flutter ", "jerk ", "jiggle ", "joggle ", "quiver ", "twitch ", "wag ", "wave ", "wiggle "], "A": []}

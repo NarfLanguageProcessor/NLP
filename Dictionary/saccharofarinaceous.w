@@ -1,0 +1,1 @@
+{"index": 276194, "D": "pertaining to or consisting of sugar and meal.", "S": [], "A": []}

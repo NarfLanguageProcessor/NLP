@@ -1,0 +1,1 @@
+{"index": 209760, "D": "an act or instance of nodding one's head, especially involuntarily or spasmodically.", "S": [], "A": []}

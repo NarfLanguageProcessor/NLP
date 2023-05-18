@@ -1,0 +1,1 @@
+{"index": 11316, "D": "clasping the stem, as some leaves do at their base.", "S": [], "A": []}

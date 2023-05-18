@@ -1,0 +1,1 @@
+{"index": 207931, "D": "full of twists, turns, or bends; twisting, winding, or crooked", "S": [], "A": []}

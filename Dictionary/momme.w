@@ -1,0 +1,1 @@
+{"index": 191662, "D": "a Japanese unit of weight equal to 3.75 grams.", "S": [], "A": []}

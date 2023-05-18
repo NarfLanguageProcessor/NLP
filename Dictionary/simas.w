@@ -1,0 +1,1 @@
+{"index": 290727, "D": "an assemblage of rocks, rich in silica and magnesium, that constitutes the lower layer of the earth's crust and is found beneath the ocean floors and the sial of continents.", "S": [], "A": []}

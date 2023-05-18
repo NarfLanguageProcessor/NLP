@@ -1,0 +1,1 @@
+{"index": 120941, "D": "an iron hook with a handle for landing large fish.", "S": ["appliance ", "device ", "gear ", "gizmo ", "machine ", "machinery ", "means ", "mechanism "], "A": []}

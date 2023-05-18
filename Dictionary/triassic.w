@@ -1,0 +1,1 @@
+{"index": 329172, "D": "noting or pertaining to a period of the Mesozoic Era, occurring from 230 to 190 million years ago and characterized by the advent of dinosaurs and coniferous forests.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 272229, "D": "any of numerous protozoa of the widespread subphylum (or superclass) Rhizopoda, characterized by a pseudopod and comprising most members of the phylum Sarcodina, including the amebas and foraminifers.", "S": [], "A": []}

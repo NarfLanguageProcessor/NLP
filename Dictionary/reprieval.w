@@ -1,0 +1,1 @@
+{"index": 268546, "D": "reprieve;  respite.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62191, "D": "a person who founds  or establishes something with another.", "S": [], "A": []}

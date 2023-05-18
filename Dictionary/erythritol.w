@@ -1,0 +1,1 @@
+{"index": 103774, "D": "a white, crystalline, water-soluble, sweet-tasting, tetrahydroxyl compound, C4H10O4, related to the carbohydrates, obtained from certain lichens and used for coronary vasodilation and in the treatment of hypertension.", "S": [], "A": []}

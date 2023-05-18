@@ -1,0 +1,1 @@
+{"index": 278570, "D": "a long, flat, narrow muscle extending obliquely from the front of the hip to the inner side of the tibia, assisting in bending the hip or knee joint and in rotating the thigh outward", "S": [], "A": []}

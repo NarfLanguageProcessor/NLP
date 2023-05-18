@@ -1,0 +1,1 @@
+{"index": 275547, "D": "an alcoholic liquor or spirit distilled from molasses or some other fermented sugar-cane product.", "S": [], "A": []}

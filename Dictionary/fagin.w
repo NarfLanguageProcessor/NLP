@@ -1,0 +1,1 @@
+{"index": 109207, "D": "(in Dickens' Oliver Twist) a villainous old man who trains and uses young boys as thieves.", "S": [], "A": []}

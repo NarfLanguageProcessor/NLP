@@ -1,0 +1,1 @@
+{"index": 226083, "D": "an organism that lives on or in an organism of another species, known as the host, from the body of which it obtains nutriment.", "S": ["bloodsucker ", "bootlicker ", "deadbeat ", "flunky ", "freeloader ", "groupie ", "hanger-on ", "idler ", "leech ", "scrounger ", "sponge ", "stooge ", "sucker ", "sycophant ", "taker "], "A": []}

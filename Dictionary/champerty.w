@@ -1,0 +1,1 @@
+{"index": 52355, "D": "a sharing in the proceeds of litigation by one who agrees with either the plaintiff or defendant to help promote it or carry it on.", "S": [], "A": []}

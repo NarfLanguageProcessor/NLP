@@ -1,0 +1,1 @@
+{"index": 197594, "D": "of, relating to, or characteristic of Naples", "S": [], "A": []}

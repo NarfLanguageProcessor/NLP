@@ -1,0 +1,1 @@
+{"index": 123492, "D": "the entire body of individuals born and living at about the same time", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175131, "D": "any of various plants belonging to the genus Lysimachia, of the primrose family, having clusters of usually yellow flowers, as L. vulgaris(garden loosestrife ) or L. quadrifolia(whorled loosestrife ).", "S": [], "A": []}

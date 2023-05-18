@@ -1,0 +1,1 @@
+{"index": 97164, "D": "the state of being electronegative", "S": [], "A": []}

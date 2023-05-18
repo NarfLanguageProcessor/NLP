@@ -1,0 +1,1 @@
+{"index": 109415, "D": "a broad, short sword having a convex edge curving sharply to the point.", "S": ["blade ", "dagger ", "saber "], "A": []}

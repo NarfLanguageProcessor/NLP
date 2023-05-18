@@ -1,0 +1,1 @@
+{"index": 219656, "D": "ungentle and unpleasant in action or effect", "S": [], "A": []}

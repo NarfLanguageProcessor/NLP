@@ -1,0 +1,1 @@
+{"index": 228477, "D": "any caryophyllaceous plant of the genus Sagina, having small white flowers that are spherical in bud", "S": [], "A": []}

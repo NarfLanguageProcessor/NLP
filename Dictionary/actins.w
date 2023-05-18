@@ -1,0 +1,1 @@
+{"index": 3225, "D": "a globulin that is present in muscle plasma and that in connection with myosin plays an important role in muscle contraction.", "S": [], "A": []}

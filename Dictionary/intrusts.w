@@ -1,0 +1,1 @@
+{"index": 156878, "D": "a less common variant of entrust. ", "S": ["allocate ", "charge ", "engage ", "give ", "hold ", "invest ", "offer ", "promise ", "send "], "A": ["cancel ", "keep ", "let go ", "refuse ", "release ", "take ", "withhold ", "conceal ", "deny ", "disallow ", "disapprove ", "dissuade ", "fix ", "hide ", "reject ", "remain ", "retain ", "retract ", "stay "]}

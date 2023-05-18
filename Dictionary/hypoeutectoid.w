@@ -1,0 +1,1 @@
+{"index": 140933, "D": "(of steel) having less carbon than the 0.8 percent of eutectoid  steel.", "S": [], "A": []}

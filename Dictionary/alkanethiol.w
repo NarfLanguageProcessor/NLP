@@ -1,0 +1,1 @@
+{"index": 8464, "D": "any compound containing an alkyl group joined to a mercapto group, as methyl mercaptan or methanethiol, CH3SH.", "S": [], "A": []}

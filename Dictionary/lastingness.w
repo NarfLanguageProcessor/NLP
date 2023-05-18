@@ -1,0 +1,1 @@
+{"index": 168780, "D": "continuing or enduring a long time; permanent; durable", "S": ["endurance ", "grit ", "persistence ", "stamina ", "staying power "], "A": ["weakness ", "cowardice ", "fear "]}

@@ -1,0 +1,1 @@
+{"index": 281362, "D": "any of the large diving ducks of the genus Melanitta, inhabiting northern parts of the Northern Hemisphere.", "S": [], "A": []}

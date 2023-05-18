@@ -1,0 +1,1 @@
+{"index": 287235, "D": "the act of a person or thing that shakes. ", "S": [], "A": []}

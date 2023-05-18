@@ -1,0 +1,1 @@
+{"index": 69114, "D": "a form of inflorescence in which the flowers form a flat-topped or convex cluster, the outermost flowers being the first to open.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351946, "D": "disturbed or agitated suddenly, as by surprise or alarm", "S": [], "A": []}

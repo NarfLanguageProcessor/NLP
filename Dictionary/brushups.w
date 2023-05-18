@@ -1,0 +1,1 @@
+{"index": 41832, "D": "the act or process of reviewing a subject, technique, or the like, for the purpose of renewing the memory, skill, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111114, "D": "felted  material, either woven or felt  fabric.", "S": ["dishevel "], "A": ["explain ", "straighten ", "untangle ", "untwist "]}

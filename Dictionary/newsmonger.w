@@ -1,0 +1,1 @@
+{"index": 199457, "D": "a person who spreads gossip or idle talk; a gossip or gossipmonger.", "S": ["buttinsky ", "eavesdropper ", "fink ", "gossip ", "intruder ", "meddler ", "rubberneck ", "scandalmonger ", "snoop ", "snooper ", "tattletale ", "troublemaker ", "yenta "], "A": []}

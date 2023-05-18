@@ -1,0 +1,1 @@
+{"index": 23127, "D": "a lawyer; attorney-at-law.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133151, "D": "the quantity or amount that the hand  can hold", "S": ["few ", "scattering ", "smattering ", "spattering ", "sprinkling "], "A": ["lot ", "mass "]}

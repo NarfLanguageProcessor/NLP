@@ -1,0 +1,1 @@
+{"index": 20264, "D": "a sharp ridge, as between adjoining channels of a Doric column.", "S": [], "A": []}

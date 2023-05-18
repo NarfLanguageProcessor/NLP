@@ -1,0 +1,1 @@
+{"index": 264837, "D": "that which tends to prove or disprove something; ground for belief; proof.", "S": [], "A": []}

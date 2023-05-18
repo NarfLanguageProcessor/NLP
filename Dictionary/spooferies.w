@@ -1,0 +1,1 @@
+{"index": 300836, "D": "good-humored mockery or teasing.", "S": [], "A": []}

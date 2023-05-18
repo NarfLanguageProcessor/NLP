@@ -1,0 +1,1 @@
+{"index": 142797, "D": "like or suggestive of home;  familiar; warmly comfortable.", "S": [], "A": []}

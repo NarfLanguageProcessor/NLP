@@ -1,0 +1,1 @@
+{"index": 361351, "D": "one of the original Afrikaner settlers of the Transvaal and the Orange Free State who migrated from the Cape Colony in the 1830s", "S": [], "A": []}

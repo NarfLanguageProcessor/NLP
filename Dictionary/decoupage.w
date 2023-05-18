@@ -1,0 +1,1 @@
+{"index": 78717, "D": "the art or technique of decorating something with cut-outs of paper, linoleum, plastic, or other flat material over which varnish or lacquer is applied.", "S": [], "A": []}

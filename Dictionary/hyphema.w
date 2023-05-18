@@ -1,0 +1,1 @@
+{"index": 140640, "D": "hemorrhage in the anterior chamber of the eye, usually caused by trauma.", "S": [], "A": []}

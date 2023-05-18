@@ -1,0 +1,1 @@
+{"index": 249521, "D": "the act of soliciting.", "S": [], "A": []}

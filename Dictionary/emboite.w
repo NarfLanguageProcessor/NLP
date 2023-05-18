@@ -1,0 +1,1 @@
+{"index": 98146, "D": "a step, performed in series, in which the dancer stands on the toes with legs together and then springs up, swinging one foot out and around to the front of the other.", "S": [], "A": []}

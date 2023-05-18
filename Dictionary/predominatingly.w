@@ -1,0 +1,1 @@
+{"index": 247133, "D": "to be the stronger or leading element or force.", "S": [], "A": []}

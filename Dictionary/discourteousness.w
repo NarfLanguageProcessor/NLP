@@ -1,0 +1,1 @@
+{"index": 87659, "D": "not courteous;  impolite; uncivil; rude", "S": ["coarseness ", "disrespect ", "impoliteness ", "rudeness "], "A": ["politeness "]}

@@ -1,0 +1,1 @@
+{"index": 56556, "D": "an African plant, Cyperus esculentus sativus, of the sedge family, having a tuberous, edible root.", "S": [], "A": []}

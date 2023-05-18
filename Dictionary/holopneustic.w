@@ -1,0 +1,1 @@
+{"index": 142645, "D": "having all the spiracles open, as the tracheal systems of most insects.", "S": [], "A": []}

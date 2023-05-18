@@ -1,0 +1,1 @@
+{"index": 285958, "D": "a complimentary performance of vocal or instrumental music in the open air at night, as by a lover under the window of his lady.", "S": ["belt out ", "chant ", "croon ", "hum ", "intone ", "serenade ", "shout ", "wait ", "warble ", "whistle "], "A": ["be quiet "]}

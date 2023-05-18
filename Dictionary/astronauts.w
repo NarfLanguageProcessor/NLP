@@ -1,0 +1,1 @@
+{"index": 22306, "D": "a person engaged in or trained for spaceflight.", "S": ["cosmonaut ", "pilot "], "A": []}

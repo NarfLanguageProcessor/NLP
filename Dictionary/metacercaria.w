@@ -1,0 +1,1 @@
+{"index": 184590, "D": "the encysted larva of a trematode, usually found in or on an aquatic intermediate host.", "S": [], "A": []}

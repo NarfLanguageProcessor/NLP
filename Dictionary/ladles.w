@@ -1,0 +1,1 @@
+{"index": 167237, "D": "a long-handled utensil with a cup-shaped bowl for dipping or conveying liquids.", "S": ["dipper ", "spoon "], "A": []}

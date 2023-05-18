@@ -1,0 +1,1 @@
+{"index": 68115, "D": "persuading or assuring by argument or evidence", "S": ["decisively ", "definitively "], "A": []}

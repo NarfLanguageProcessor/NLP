@@ -1,0 +1,1 @@
+{"index": 250763, "D": "a primary sere or succession from bare ground to the community climax", "S": [], "A": []}

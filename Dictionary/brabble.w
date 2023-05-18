@@ -1,0 +1,1 @@
+{"index": 39335, "D": "to argue stubbornly about trifles; wrangle. ", "S": [], "A": []}

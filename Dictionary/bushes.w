@@ -1,0 +1,1 @@
+{"index": 43407, "D": "a low plant with many branches that arise from or near the ground.", "S": ["bush league ", "junior league ", "junior varsity ", "minors ", "triple-A "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 318255, "D": "(in ancient Greece) a building in which religious mysteries were celebrated.", "S": [], "A": []}

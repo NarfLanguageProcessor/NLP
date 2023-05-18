@@ -1,0 +1,1 @@
+{"index": 133671, "D": "capable of enduring fatigue, hardship, exposure, etc.; sturdy; strong", "S": [], "A": []}

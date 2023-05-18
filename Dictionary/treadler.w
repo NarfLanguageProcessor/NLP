@@ -1,0 +1,1 @@
+{"index": 328672, "D": "a lever or the like worked by continual action of the foot to impart motion to a machine.", "S": [], "A": []}

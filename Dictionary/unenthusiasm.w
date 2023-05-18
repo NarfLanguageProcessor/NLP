@@ -1,0 +1,1 @@
+{"index": 341357, "D": "absorbing or controlling possession of the mind by any interest or pursuit; lively interest", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 270806, "D": "to put a new tread  on (a worn pneumatic tire casing) either by recapping or by cutting fresh treads  in the smooth surface.", "S": [], "A": []}

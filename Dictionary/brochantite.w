@@ -1,0 +1,1 @@
+{"index": 41121, "D": "a mineral, hydrous copper sulfate, Cu4(OH)6SO4, occurring in green fibrous masses and similar in physical properties to antlerite", "S": [], "A": []}

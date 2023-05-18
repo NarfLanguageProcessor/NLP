@@ -1,0 +1,1 @@
+{"index": 287284, "D": "of little depth; not deep", "S": ["banality ", "bromide ", "chestnut ", "corn ", "inanity ", "motto ", "platitude ", "prose ", "shibboleth ", "stereotype ", "tag ", "triteness "], "A": ["coinage ", "nuance "]}

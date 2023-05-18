@@ -1,0 +1,1 @@
+{"index": 335447, "D": "having due authority;  having the sanction or weight of authority", "S": [], "A": []}

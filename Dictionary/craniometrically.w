@@ -1,0 +1,1 @@
+{"index": 72081, "D": "the science of measuring skulls, chiefly to determine their characteristic relationship to sex, body type, or genetic population.", "S": [], "A": []}

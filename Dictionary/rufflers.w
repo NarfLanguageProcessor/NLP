@@ -1,0 +1,1 @@
+{"index": 275376, "D": "to destroy the smoothness or evenness of", "S": ["blowhard ", "blusterer ", "bouncer ", "braggadocio ", "egotist ", "vaunter "], "A": []}

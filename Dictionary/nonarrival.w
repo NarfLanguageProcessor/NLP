@@ -1,0 +1,1 @@
+{"index": 201444, "D": "an act of arriving;  a coming", "S": [], "A": []}

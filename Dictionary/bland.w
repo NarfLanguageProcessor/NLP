@@ -1,0 +1,1 @@
+{"index": 35689, "D": "pleasantly gentle or agreeable", "S": ["banal ", "boring ", "dull ", "insipid ", "tame ", "tedious ", "watery ", "white-bread ", "wishy-washy "], "A": ["bright ", "exciting ", "interesting ", "lively "]}

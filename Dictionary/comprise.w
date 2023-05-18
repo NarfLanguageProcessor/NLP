@@ -1,0 +1,1 @@
+{"index": 64885, "D": "to include or contain", "S": ["amount to ", "compose ", "constitute ", "contain ", "cover ", "encompass ", "form ", "hold ", "include ", "involve ", "span "], "A": ["abandon ", "destroy ", "exclude ", "neglect ", "ruin ", "let go ", "reject ", "release ", "unloose "]}

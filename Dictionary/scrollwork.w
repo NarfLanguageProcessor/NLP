@@ -1,0 +1,1 @@
+{"index": 281979, "D": "decorative work  in which scroll  forms figure prominently.", "S": [], "A": []}

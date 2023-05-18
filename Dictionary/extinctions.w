@@ -1,0 +1,1 @@
+{"index": 108348, "D": "the act of extinguishing. ", "S": ["annihilation ", "destruction ", "elimination ", "obsolescence "], "A": []}

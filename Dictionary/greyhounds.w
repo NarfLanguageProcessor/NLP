@@ -1,0 +1,1 @@
+{"index": 129685, "D": "one of a breed of tall, slender, short-haired dogs, noted for its keen sight and swiftness.", "S": [], "A": []}

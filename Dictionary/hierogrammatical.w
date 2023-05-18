@@ -1,0 +1,1 @@
+{"index": 139151, "D": "a writer of hierograms.", "S": [], "A": []}

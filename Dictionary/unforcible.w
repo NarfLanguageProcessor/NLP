@@ -1,0 +1,1 @@
+{"index": 342505, "D": "done or effected by force", "S": [], "A": []}

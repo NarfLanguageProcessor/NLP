@@ -1,0 +1,1 @@
+{"index": 325062, "D": "a brittle or chewy brown candy made of sugar or molasses boiled down with butter, often mixed with nuts.", "S": [], "A": []}

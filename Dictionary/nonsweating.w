@@ -1,0 +1,1 @@
+{"index": 207735, "D": "to perspire, especially freely or profusely.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 150125, "D": "the state of being incomplete; incompleteness. ", "S": [], "A": []}

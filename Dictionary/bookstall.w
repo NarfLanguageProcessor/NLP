@@ -1,0 +1,1 @@
+{"index": 38127, "D": "a stand, booth, or stall  at which books  are sold, usually secondhand.", "S": [], "A": []}

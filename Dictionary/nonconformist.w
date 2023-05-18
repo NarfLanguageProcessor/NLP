@@ -1,0 +1,1 @@
+{"index": 202292, "D": "a person who refuses to conform, as to established customs, attitudes, or ideas.", "S": ["bohemian ", "dissident ", "oddball ", "offbeat ", "original ", "rebel ", "sectarian ", "weird "], "A": ["conforming ", "conformist ", "conventional ", "normal ", "straight ", "usual "]}

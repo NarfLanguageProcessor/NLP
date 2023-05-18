@@ -1,0 +1,1 @@
+{"index": 170459, "D": "a weave structure in which paired warp yarns are intertwined in a series of figure eights and filling yarn is passed through each of the interstices so formed, producing a firm, open mesh.", "S": [], "A": []}

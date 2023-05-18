@@ -1,0 +1,1 @@
+{"index": 78729, "D": "to diminish or lessen in extent, quantity, strength, power, etc.", "S": ["drained ", "reduced ", "vacant ", "weakened "], "A": ["energized ", "full "]}

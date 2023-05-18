@@ -1,0 +1,1 @@
+{"index": 98920, "D": "to color or become purple  or purplish.", "S": [], "A": []}

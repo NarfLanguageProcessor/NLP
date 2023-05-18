@@ -1,0 +1,1 @@
+{"index": 359059, "D": "held completely, permanently, and inalienably", "S": ["dressed ", "robed "], "A": []}

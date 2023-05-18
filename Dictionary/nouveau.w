@@ -1,0 +1,1 @@
+{"index": 209072, "D": "newly or recently created, developed, or come to prominence", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158441, "D": "not to be revoked or recalled; unable to be repealed or annulled; unalterable", "S": ["immutable ", "irreversible ", "permanent "], "A": ["alterable ", "changeable ", "reversible ", "revocable "]}

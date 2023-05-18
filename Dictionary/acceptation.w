@@ -1,0 +1,1 @@
+{"index": 1479, "D": "the usual or accepted  meaning of a word, phrase, etc.", "S": ["connotation ", "denotation ", "intent ", "meaning ", "message ", "purport ", "sense ", "significance ", "value "], "A": []}

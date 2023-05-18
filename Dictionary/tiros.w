@@ -1,0 +1,1 @@
+{"index": 324551, "D": "one of a series of satellites for transmitting television pictures of the earth's cloud cover.", "S": [], "A": []}

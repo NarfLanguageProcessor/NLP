@@ -1,0 +1,1 @@
+{"index": 262243, "D": "a return of part of the original payment for some service or merchandise; partial refund.", "S": [], "A": []}

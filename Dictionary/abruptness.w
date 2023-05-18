@@ -1,0 +1,1 @@
+{"index": 887, "D": "sudden or unexpected", "S": ["hill ", "ramp ", "shelf "], "A": ["upgrade "]}

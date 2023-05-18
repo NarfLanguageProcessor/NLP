@@ -1,0 +1,1 @@
+{"index": 175207, "D": "hanging limply; lopping", "S": [], "A": []}

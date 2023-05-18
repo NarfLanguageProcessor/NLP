@@ -1,0 +1,1 @@
+{"index": 296592, "D": "a nonstandard or ungrammatical usage, as unflammable and they was.", "S": ["ignorant ", "uneducated "], "A": ["educated ", "intelligent "]}

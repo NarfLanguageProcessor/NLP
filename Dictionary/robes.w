@@ -1,0 +1,1 @@
+{"index": 273571, "D": "a long, loose or flowing gown or outer garment worn by men or women as ceremonial dress, an official vestment, or garb of office.", "S": ["apparel ", "attire ", "dress ", "ensemble ", "fashion ", "garb ", "getup ", "style ", "suit ", "uniform ", "wardrobe "], "A": []}

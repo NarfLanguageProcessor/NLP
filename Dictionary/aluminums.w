@@ -1,0 +1,1 @@
+{"index": 9637, "D": "a silver-white metallic element, light in weight, ductile, malleable, and not readily corroded or tarnished, occurring combined in nature in igneous rock, shale, clay, and most soil", "S": ["bottle ", "bucket ", "canister ", "jar ", "package "], "A": []}

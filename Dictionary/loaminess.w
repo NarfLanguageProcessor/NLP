@@ -1,0 +1,1 @@
+{"index": 174108, "D": "relating to, characterized by, or being soil that is rich and crumbly because it contains roughly equal parts of sand and silt and a smaller proportion of clay", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 20760, "D": "artistic workmanship, effect, or quality.", "S": ["ability ", "accomplishment ", "brilliance ", "finesse ", "flair ", "genius ", "mastery ", "proficiency ", "style ", "talent ", "virtuosity ", "workmanship "], "A": ["clumsiness ", "failure ", "ignorance ", "inability ", "incapacity ", "incompetence ", "ineptness ", "lack ", "weakness ", "lot "]}

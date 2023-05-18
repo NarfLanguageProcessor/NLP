@@ -1,0 +1,1 @@
+{"index": 10767, "D": "the act of impregnating with ammonia,  as in the manufacture of fertilizer.", "S": [], "A": []}

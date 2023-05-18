@@ -1,0 +1,1 @@
+{"index": 114121, "D": "enhancing the appearance of a person or thing, as by highlighting pleasing features or making less pleasing ones inconspicuous", "S": [], "A": []}

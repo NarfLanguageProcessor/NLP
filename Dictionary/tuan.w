@@ -1,0 +1,1 @@
+{"index": 331825, "D": "(in Malay-speaking countries) sir; lord", "S": [], "A": []}

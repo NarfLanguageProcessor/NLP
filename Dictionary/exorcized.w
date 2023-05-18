@@ -1,0 +1,1 @@
+{"index": 107459, "D": "to seek to expel (an evil spirit) by adjuration or religious or solemn ceremonies", "S": [], "A": []}

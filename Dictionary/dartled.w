@@ -1,0 +1,1 @@
+{"index": 77030, "D": "to dart  or shoot forth repeatedly.", "S": [], "A": []}

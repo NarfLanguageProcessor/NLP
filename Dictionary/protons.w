@@ -1,0 +1,1 @@
+{"index": 253770, "D": "a positively charged elementary particle that is a fundamental constituent of all atomic nuclei. It is the lightest and most stable baryon, having a charge equal in magnitude to that of the electron, a spin of \u00bd, and a mass of 1.673 \u00d7 10-27 kg. Symbol", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 113435, "D": "the act of cleaving or splitting into parts.", "S": ["division ", "parting ", "severance "], "A": []}

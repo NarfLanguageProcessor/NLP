@@ -1,0 +1,1 @@
+{"index": 261233, "D": "to work havoc upon; damage or mar by ruinous or destructive action", "S": ["greedy ", "marauding ", "rapacious ", "voracious "], "A": []}

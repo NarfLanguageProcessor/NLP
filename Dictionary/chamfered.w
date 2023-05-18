@@ -1,0 +1,1 @@
+{"index": 52291, "D": "Compare bevel. ", "S": ["slanting ", "sloping "], "A": []}

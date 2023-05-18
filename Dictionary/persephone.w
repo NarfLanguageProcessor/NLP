@@ -1,0 +1,1 @@
+{"index": 231893, "D": "a daughter of Zeus and Demeter, abducted by Pluto to be queen of Hades, but allowed to return to the surface of the earth for part of the year.", "S": [], "A": []}

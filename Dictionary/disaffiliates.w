@@ -1,0 +1,1 @@
+{"index": 86942, "D": "to sever affiliation with; disassociate", "S": ["disassemble ", "disengage ", "disentangle ", "dissociate ", "isolate ", "segregate ", "separate ", "sever "], "A": ["associate ", "attach ", "combine ", "desegregate ", "join ", "unite ", "connect ", "couple ", "fasten ", "fix ", "hold ", "remain ", "stay "]}

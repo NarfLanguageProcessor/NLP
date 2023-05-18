@@ -1,0 +1,1 @@
+{"index": 359946, "D": "a region in E North America variously identified as a place between Newfoundland and Virginia", "S": [], "A": []}

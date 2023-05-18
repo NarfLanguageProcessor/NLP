@@ -1,0 +1,1 @@
+{"index": 175429, "D": "a loudmouthed person.", "S": ["arrogant ", "bombastic ", "cocky ", "exultant ", "pompous ", "pretentious "], "A": ["humble ", "modest "]}

@@ -1,0 +1,1 @@
+{"index": 105946, "D": "to escape from by trickery or cleverness", "S": ["elusive ", "wanted "], "A": ["enduring ", "lasting ", "lengthy ", "long ", "permanent "]}

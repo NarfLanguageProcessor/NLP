@@ -1,0 +1,1 @@
+{"index": 271269, "D": "capable of reversing  or of being reversed. ", "S": ["capricious ", "fickle ", "fluctuating ", "mercurial ", "protean ", "shifting ", "unpredictable ", "unsettled ", "unstable ", "varying ", "volatile "], "A": ["calm ", "constant ", "stable ", "steadfast ", "steady ", "unvarying "]}

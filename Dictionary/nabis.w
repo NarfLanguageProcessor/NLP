@@ -1,0 +1,1 @@
+{"index": 196421, "D": "See also synthetism", "S": [], "A": []}

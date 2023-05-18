@@ -1,0 +1,1 @@
+{"index": 209065, "D": "something that nourishes;  food, nutriment, or sustenance.", "S": ["nutrition ", "sustenance "], "A": ["deprivation ", "starvation "]}

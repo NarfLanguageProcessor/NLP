@@ -1,0 +1,1 @@
+{"index": 339902, "D": "a handling characteristic of an automotive vehicle that causes it to turn less sharply than the driver intends because the front wheels slide to the outside of the turn before the rear wheels lose traction.", "S": [], "A": []}

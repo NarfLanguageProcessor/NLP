@@ -1,0 +1,1 @@
+{"index": 131075, "D": "free from guile;  sincere; honest; straightforward; frank.", "S": ["unsophisticated "], "A": ["artful ", "clever ", "crafty ", "cunning ", "deceitful ", "dishonest ", "guileful ", "tricky "]}

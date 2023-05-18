@@ -1,0 +1,1 @@
+{"index": 218682, "D": "complying;  obeying, obliging, or yielding, especially in a submissive way", "S": [], "A": []}

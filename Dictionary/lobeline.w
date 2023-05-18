@@ -1,0 +1,1 @@
+{"index": 174205, "D": "a crystalline, poisonous alkaloid, C22H27NO2, obtained by extraction from lobelia", "S": [], "A": []}

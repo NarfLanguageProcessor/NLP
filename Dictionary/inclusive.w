@@ -1,0 +1,1 @@
+{"index": 149987, "D": "including or encompassing the stated limit or extremes in consideration or account (usually used after the noun)", "S": ["broad ", "comprehensive "], "A": ["exclusive ", "narrow "]}

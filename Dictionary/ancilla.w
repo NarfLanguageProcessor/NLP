@@ -1,0 +1,1 @@
+{"index": 12233, "D": "an accessory; auxiliary or adjunct.", "S": ["hand ", "worker "], "A": ["antagonist ", "boss ", "enemy ", "manager ", "opponent "]}

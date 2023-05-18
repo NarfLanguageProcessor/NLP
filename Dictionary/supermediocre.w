@@ -1,0 +1,1 @@
+{"index": 312239, "D": "of only ordinary or moderate quality; neither good nor bad; barely adequate", "S": [], "A": []}

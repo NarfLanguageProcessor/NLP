@@ -1,0 +1,1 @@
+{"index": 88202, "D": "to cause loathing or nausea in.", "S": [], "A": []}

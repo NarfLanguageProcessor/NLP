@@ -1,0 +1,1 @@
+{"index": 200056, "D": "a large, Indian antelope, Boselaphus tragocamelus, the male of which is bluish gray with small horns, the female tawny and hornless.", "S": [], "A": []}

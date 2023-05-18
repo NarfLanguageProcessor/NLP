@@ -1,0 +1,1 @@
+{"index": 227830, "D": "a shop where pastry, especially French pastry,  is made and sold.", "S": ["bread ", "cake ", "croissant ", "doughnut ", "phyllo ", "pie "], "A": []}

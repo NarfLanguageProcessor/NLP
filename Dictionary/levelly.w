@@ -1,0 +1,1 @@
+{"index": 171206, "D": "having no part higher than another; having a flat or even surface.", "S": ["constantly ", "smoothly ", "steadily ", "uniformly "], "A": ["irregularly ", "roughly ", "unevenly ", "unfairly ", "unjustly "]}

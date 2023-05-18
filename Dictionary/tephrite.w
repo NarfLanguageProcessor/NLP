@@ -1,0 +1,1 @@
+{"index": 319154, "D": "a basaltic rock consisting essentially of pyroxene and plagioclase with nepheline or leucite.", "S": [], "A": []}

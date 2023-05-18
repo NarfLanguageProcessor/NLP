@@ -1,0 +1,1 @@
+{"index": 248393, "D": "the head of the cabinet in France or Italy or certain other countries; first minister; prime minister.", "S": [], "A": []}

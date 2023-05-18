@@ -1,0 +1,1 @@
+{"index": 273587, "D": "strengthening. ", "S": ["analeptic ", "boost ", "bracer ", "conditioner ", "cordial ", "drug ", "fillip ", "invigorator ", "pick-me-up ", "pickup ", "refresher ", "restorative ", "stimulant ", "strengthener "], "A": []}

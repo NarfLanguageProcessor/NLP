@@ -1,0 +1,1 @@
+{"index": 172025, "D": "a type characterized by thin, light  lines.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321472, "D": "a thermophilic organism.", "S": [], "A": []}

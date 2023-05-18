@@ -1,0 +1,1 @@
+{"index": 278770, "D": "to attack or ridicule with satire. ", "S": [], "A": []}

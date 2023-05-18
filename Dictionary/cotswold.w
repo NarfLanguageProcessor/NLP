@@ -1,0 +1,1 @@
+{"index": 70401, "D": "one of an English breed of large sheep having coarse, long wool.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 325384, "D": "a plant, Physalis ixocarpa, of the nightshade family, native to Mexico, having yellow flowers with five blackish spots in the throat and bluish, sticky berries in a purple-veined calyx.", "S": [], "A": []}

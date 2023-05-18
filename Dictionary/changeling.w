@@ -1,0 +1,1 @@
+{"index": 52486, "D": "a child surreptitiously or unintentionally substituted for another.", "S": ["backup ", "replacement ", "stand-in ", "surrogate "], "A": ["being ", "entity ", "permanent "]}

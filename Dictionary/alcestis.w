@@ -1,0 +1,1 @@
+{"index": 7620, "D": "the wife of Admetus who gave up her life in order that the Fates might save the life of Admetus and later was brought back from Hades by Hercules.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 366247, "D": "any of several North American hollies of the genus Ilex, having red berries  that are persistent through the winter. ", "S": [], "A": []}

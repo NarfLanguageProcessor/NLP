@@ -1,0 +1,1 @@
+{"index": 54992, "D": "a short, fine woolen mantle worn by men in ancient Greece.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 15620, "D": "a salt containing pentavalent antimony  and oxygen, as potassium antimonate,  KSb(OH)6.", "S": [], "A": []}

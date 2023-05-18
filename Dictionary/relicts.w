@@ -1,0 +1,1 @@
+{"index": 266900, "D": "a species or community living in an environment that has changed from that which is typical for it.", "S": ["dowager "], "A": []}

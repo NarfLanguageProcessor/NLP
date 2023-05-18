@@ -1,0 +1,1 @@
+{"index": 118943, "D": "a doughnut or other small cake  cooked in deep fat.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 23868, "D": "an antibody  that an organism produces against any of its own tissues, cells, or cell components.", "S": [], "A": []}

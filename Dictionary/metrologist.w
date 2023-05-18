@@ -1,0 +1,1 @@
+{"index": 185454, "D": "the science of weights and measures.", "S": [], "A": []}

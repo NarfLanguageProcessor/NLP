@@ -1,0 +1,1 @@
+{"index": 234403, "D": "of or relating to phytotoxin.", "S": [], "A": []}

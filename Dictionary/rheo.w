@@ -1,0 +1,1 @@
+{"index": 271864, "D": "a combining form meaning \u201cflow,\u201d \u201ccurrent,\u201d \u201cstream,\u201d used in the formation of compound words", "S": [], "A": []}

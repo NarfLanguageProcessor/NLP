@@ -1,0 +1,1 @@
+{"index": 148184, "D": "to enclose within walls.", "S": ["circumscribed ", "cramped ", "imprisoned ", "restrained ", "restricted "], "A": ["healthy ", "well "]}

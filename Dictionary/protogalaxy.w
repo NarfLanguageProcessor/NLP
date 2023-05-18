@@ -1,0 +1,1 @@
+{"index": 253667, "D": "the large concentration of gas and dust from which a galaxy  is formed.", "S": [], "A": []}

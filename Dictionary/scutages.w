@@ -1,0 +1,1 @@
+{"index": 282303, "D": "(in the feudal system) a payment exacted by a lord in lieu of military service due to him by the holder of a fee.", "S": [], "A": []}

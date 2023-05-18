@@ -1,0 +1,1 @@
+{"index": 346530, "D": "having been pacified or appeased, or showing appeasement", "S": [], "A": []}

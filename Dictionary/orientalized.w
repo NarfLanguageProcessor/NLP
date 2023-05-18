@@ -1,0 +1,1 @@
+{"index": 214549, "D": "to make or become Asian, especially East Asian.", "S": [], "A": []}

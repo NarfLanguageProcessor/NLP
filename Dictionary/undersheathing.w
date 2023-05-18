@@ -1,0 +1,1 @@
+{"index": 339782, "D": "the act of a person who sheathes. ", "S": [], "A": []}

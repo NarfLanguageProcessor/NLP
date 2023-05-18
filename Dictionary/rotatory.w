@@ -1,0 +1,1 @@
+{"index": 274631, "D": "pertaining to or of the nature of rotation", "S": ["whirling "], "A": []}

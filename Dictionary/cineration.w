@@ -1,0 +1,1 @@
+{"index": 57703, "D": "an incinerator.", "S": ["incineration "], "A": []}

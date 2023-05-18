@@ -1,0 +1,1 @@
+{"index": 66274, "D": "a female member of a congress,  especially of the U.S. House of Representatives.", "S": ["legislator "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 89626, "D": "indifferent to moral restraints; given to immoral or improper conduct; licentious; dissipated. ", "S": ["corruption ", "corruptness ", "debauchery ", "dissolution ", "licentiousness ", "profligacy "], "A": []}

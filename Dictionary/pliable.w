@@ -1,0 +1,1 @@
+{"index": 240059, "D": "easily bent; flexible; supple", "S": ["docile ", "flexible ", "limber ", "malleable ", "manageable ", "pliant ", "spongy ", "supple "], "A": ["hard ", "inflexible ", "obstinate ", "rigid ", "stiff ", "stubborn ", "unyielding "]}

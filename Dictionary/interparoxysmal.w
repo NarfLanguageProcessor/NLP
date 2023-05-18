@@ -1,0 +1,1 @@
+{"index": 155577, "D": "occurring in the period or periods between paroxysms. ", "S": [], "A": []}

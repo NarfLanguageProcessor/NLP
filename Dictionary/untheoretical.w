@@ -1,0 +1,1 @@
+{"index": 352895, "D": "of, relating to, or consisting in theory;  not practical (distinguished from applied).", "S": [], "A": []}

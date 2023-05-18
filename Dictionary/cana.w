@@ -1,0 +1,1 @@
+{"index": 45966, "D": "an ancient town in N Israel, in Galilee", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 216666, "D": "to surpass (another person) in running, walking, etc.; outstrip.", "S": [], "A": []}

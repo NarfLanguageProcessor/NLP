@@ -1,0 +1,1 @@
+{"index": 308543, "D": "(in a human or other conscious being) the element, part, substance, or process that reasons, thinks, feels, wills, perceives, judges, etc.", "S": [], "A": []}

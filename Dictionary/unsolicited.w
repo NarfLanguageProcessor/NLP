@@ -1,0 +1,1 @@
+{"index": 351543, "D": "given or supplied without being requested or asked for", "S": ["spontaneous ", "uninvited ", "unwelcome ", "voluntary "], "A": ["asked ", "invited ", "requested ", "solicited "]}

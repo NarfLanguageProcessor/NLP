@@ -1,0 +1,1 @@
+{"index": 3074, "D": "capable of being acted  or suitable for acting", "S": [], "A": []}

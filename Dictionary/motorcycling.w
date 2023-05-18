@@ -1,0 +1,1 @@
+{"index": 194057, "D": "a motor vehicle  similar to a bicycle but usually larger and heavier, chiefly for one rider but sometimes having two saddles or an attached sidecar for passengers.", "S": [], "A": []}

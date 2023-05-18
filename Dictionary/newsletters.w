@@ -1,0 +1,1 @@
+{"index": 199452, "D": "a written report, issued periodically, typically by a business, institution, or other organization, that presents information and news to people with a specific interest in the organization or subject", "S": ["bulletin ", "journal ", "magazine ", "pamphlet "], "A": []}

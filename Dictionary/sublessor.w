@@ -1,0 +1,1 @@
+{"index": 308377, "D": "a lease  granted by one who is already a lessee of a property, as an apartment.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 339953, "D": "underside; bottom surface. ", "S": ["base ", "basement ", "basis ", "bed ", "bedrock ", "belly ", "depths ", "floor ", "foot ", "footing ", "ground ", "groundwork ", "nadir ", "pedestal ", "pediment ", "rest ", "seat ", "sole ", "substratum ", "substructure ", "support ", "underbelly ", "underside "], "A": ["annex ", "ceiling ", "top "]}

@@ -1,0 +1,1 @@
+{"index": 134841, "D": "in a way that shows a specified feeling, mood, personality trait, or kind of heart (usually used in combination)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 353632, "D": "excessively proud of or concerned about one's own appearance, qualities, achievements, etc.; conceited", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 195205, "D": "(of leaves) having veins.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 63551, "D": "any of various vines or shrubs of the genus Columnea, native to tropical America, that have tubular, showy, two-lipped flowers and are often cultivated as houseplants.", "S": [], "A": []}

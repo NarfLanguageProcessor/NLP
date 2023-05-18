@@ -1,0 +1,1 @@
+{"index": 274517, "D": "any of various reddish cabinet woods, sometimes with a roselike odor, yielded by certain tropical trees, especially belonging to the genus Dalbergia, of the legume family. ", "S": ["business ", "staff "], "A": []}

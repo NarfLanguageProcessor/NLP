@@ -1,0 +1,1 @@
+{"index": 273673, "D": "one of the curved pieces on which a cradle or a rocking chair rocks. ", "S": ["artist ", "musician ", "performer "], "A": ["conductor "]}

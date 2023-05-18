@@ -1,0 +1,1 @@
+{"index": 227602, "D": "something made up of an incongruous variety of pieces or parts; hodgepodge", "S": ["jumble ", "mishmash ", "plaid ", "tartan "], "A": ["calm ", "method ", "order ", "organization ", "system "]}

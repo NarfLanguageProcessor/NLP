@@ -1,0 +1,1 @@
+{"index": 65402, "D": "along with something else, as a related feature or circumstance", "S": ["accordingly ", "collectively ", "cooperatively ", "in tandem ", "mutually ", "simultaneously ", "together ", "unitedly "], "A": ["singly "]}

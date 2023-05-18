@@ -1,0 +1,1 @@
+{"index": 327803, "D": "to change the elements of; transmute.", "S": [], "A": []}

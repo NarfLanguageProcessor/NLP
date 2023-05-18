@@ -1,0 +1,1 @@
+{"index": 119624, "D": "any product of plant growth useful to humans or animals.", "S": [], "A": []}

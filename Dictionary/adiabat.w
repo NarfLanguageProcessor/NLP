@@ -1,0 +1,1 @@
+{"index": 3871, "D": "a line on a thermodynamic chart relating the pressure and temperature of a substance undergoing an adiabatic change.", "S": [], "A": []}

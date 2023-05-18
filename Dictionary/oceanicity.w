@@ -1,0 +1,1 @@
+{"index": 210778, "D": "the degree to which the climate of a place is influenced by the sea.", "S": [], "A": []}

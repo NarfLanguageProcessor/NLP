@@ -1,0 +1,1 @@
+{"index": 145908, "D": "any of the lesser ancient Iranian gods.", "S": [], "A": []}

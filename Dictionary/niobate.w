@@ -1,0 +1,1 @@
+{"index": 200228, "D": "any salt of niobic acid; columbate.", "S": [], "A": []}

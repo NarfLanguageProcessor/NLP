@@ -1,0 +1,1 @@
+{"index": 293600, "D": "a person or thing that slakes. ", "S": [], "A": []}

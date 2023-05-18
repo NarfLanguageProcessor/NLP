@@ -1,0 +1,1 @@
+{"index": 151182, "D": "to make individual  or distinctive; give an individual  or distinctive character to.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 26783, "D": "senseless, stupid, or exaggerated talk or writing; nonsense.", "S": ["bosh ", "bull ", "bunk ", "claptrap ", "crock ", "drivel ", "flummery ", "fudge ", "fustian ", "jargon ", "malarkey ", "moonshine ", "poppycock ", "rigmarole ", "rot ", "trash ", "tripe ", "twaddle "], "A": ["sense ", "truth "]}

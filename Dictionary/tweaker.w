@@ -1,0 +1,1 @@
+{"index": 333212, "D": "an engineer's small screwdriver, used for fine adjustments", "S": [], "A": []}

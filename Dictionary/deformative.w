@@ -1,0 +1,1 @@
+{"index": 79465, "D": "to mar the natural form or shape of; put out of shape; disfigure", "S": [], "A": []}

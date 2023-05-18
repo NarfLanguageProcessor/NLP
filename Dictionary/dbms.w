@@ -1,0 +1,1 @@
+{"index": 77391, "D": "a set of software programs for controlling the storage, retrieval, and modification of organized data in a computerized database.", "S": [], "A": []}

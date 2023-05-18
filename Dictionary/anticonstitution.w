@@ -1,0 +1,1 @@
+{"index": 15017, "D": "the system of fundamental principles according to which a nation, state, corporation, or the like, is governed.", "S": [], "A": []}

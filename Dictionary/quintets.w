@@ -1,0 +1,1 @@
+{"index": 258905, "D": "any set or group of five persons or things.", "S": ["assemblage ", "band ", "cast ", "choir ", "chorus ", "orchestra ", "quartet ", "sextet ", "trio ", "troupe "], "A": ["fraction ", "individual ", "part "]}

@@ -1,0 +1,1 @@
+{"index": 74152, "D": "an inland waterway or canal for pleasure cruising. ", "S": [], "A": []}

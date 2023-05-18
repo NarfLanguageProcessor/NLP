@@ -1,0 +1,1 @@
+{"index": 135995, "D": "a microorganism, as a bacterium, that lives in the blood.", "S": [], "A": []}

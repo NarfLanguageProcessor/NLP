@@ -1,0 +1,1 @@
+{"index": 17360, "D": "stroke1 (def. 6). ", "S": ["occlusion ", "seizure ", "stroke ", "thrombosis "], "A": ["consciousness "]}

@@ -1,0 +1,1 @@
+{"index": 95950, "D": "a person or thing that effects. ", "S": [], "A": []}

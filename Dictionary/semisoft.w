@@ -1,0 +1,1 @@
+{"index": 284972, "D": "having a somewhat soft  consistency or quality.", "S": [], "A": []}

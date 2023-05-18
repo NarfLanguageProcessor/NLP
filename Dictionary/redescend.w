@@ -1,0 +1,1 @@
+{"index": 264095, "D": "to go or pass from a higher to a lower place; move or come down", "S": [], "A": []}

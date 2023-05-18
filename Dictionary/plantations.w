@@ -1,0 +1,1 @@
+{"index": 239089, "D": "a large farm or estate in a tropical or semitropical zone, for the cultivation of cotton, tobacco, coffee, sugarcane, etc., typically by enslaved, unpaid, or low-wage resident laborers.", "S": ["estate ", "homestead ", "orchard ", "ranch "], "A": []}

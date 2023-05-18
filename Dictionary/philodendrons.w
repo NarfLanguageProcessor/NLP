@@ -1,0 +1,1 @@
+{"index": 233819, "D": "a tropical American climbing plant belonging to the genus Philodendron, of the arum family, usually having smooth, shiny, evergreen leaves, often used as an ornamental houseplant.", "S": [], "A": []}

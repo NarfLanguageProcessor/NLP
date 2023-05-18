@@ -1,0 +1,1 @@
+{"index": 294759, "D": "impressive or wonderful", "S": ["collapsing ", "cracking ", "crumbling ", "fracturing ", "shattering ", "splintering ", "splitting ", "tearing "], "A": ["enduring ", "strong "]}

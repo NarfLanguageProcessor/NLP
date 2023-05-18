@@ -1,0 +1,1 @@
+{"index": 117701, "D": "occurring or appearing once a fortnight. ", "S": [], "A": []}

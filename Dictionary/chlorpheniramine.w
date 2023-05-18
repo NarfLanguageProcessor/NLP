@@ -1,0 +1,1 @@
+{"index": 55234, "D": "an antihistaminic compound, C20H23ClN2O4, used in treating the symptoms of allergies.", "S": [], "A": []}

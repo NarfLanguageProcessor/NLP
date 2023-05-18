@@ -1,0 +1,1 @@
+{"index": 159871, "D": "an impertinent, presumptuous person, especially a young man; whippersnapper.", "S": ["punk ", "rascal "], "A": ["angel "]}

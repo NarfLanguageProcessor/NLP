@@ -1,0 +1,1 @@
+{"index": 313505, "D": "(of a difficulty or challenge) able to be overcome; manageable", "S": [], "A": []}

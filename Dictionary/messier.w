@@ -1,0 +1,1 @@
+{"index": 184492, "D": "French astronomer.", "S": ["chaotic ", "confused ", "sloppy "], "A": ["ordered ", "organized ", "systematic "]}

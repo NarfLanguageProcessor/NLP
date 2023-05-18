@@ -1,0 +1,1 @@
+{"index": 348445, "D": "widespread;  of wide extent or occurrence; in general use or acceptance.", "S": [], "A": []}

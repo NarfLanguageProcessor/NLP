@@ -1,0 +1,1 @@
+{"index": 154982, "D": "a local or national organization of male students, primarily for social purposes, usually with secret initiation and rites and a name composed of two or three Greek letters.", "S": [], "A": []}

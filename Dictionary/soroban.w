@@ -1,0 +1,1 @@
+{"index": 297621, "D": "a Japanese abacus of Chinese derivation.", "S": [], "A": []}

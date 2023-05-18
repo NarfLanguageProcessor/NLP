@@ -1,0 +1,1 @@
+{"index": 242910, "D": "an arrangement of a man's hair in which it is brushed up high from the forehead.", "S": ["crew cut ", "hairdo ", "hairstyle "], "A": []}

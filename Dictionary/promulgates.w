@@ -1,0 +1,1 @@
+{"index": 252364, "D": "to make known by open declaration; publish; proclaim formally or put into operation (a law, decree of a court, etc.).", "S": ["declare ", "notify ", "promote ", "publish "], "A": ["bottle up ", "collect ", "conceal ", "gather ", "hide ", "keep ", "keep quiet ", "keep secret ", "refrain ", "repress ", "suppress ", "withhold "]}

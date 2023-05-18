@@ -1,0 +1,1 @@
+{"index": 124536, "D": "to place or collect in a ghetto", "S": [], "A": []}

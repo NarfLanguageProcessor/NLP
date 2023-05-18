@@ -1,0 +1,1 @@
+{"index": 152186, "D": "act of flowing in.", "S": ["arrival ", "incursion ", "inflow ", "introduction ", "invasion "], "A": ["retreat ", "departure "]}

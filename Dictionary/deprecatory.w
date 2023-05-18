@@ -1,0 +1,1 @@
+{"index": 81816, "D": "of the nature of or expressing disapproval, protest, or depreciation.", "S": ["belittling ", "critical ", "deprecating ", "deprecative ", "depreciative ", "depreciatory ", "derogative ", "derogatory ", "detractive ", "disapproving ", "slighting ", "uncomplimentary "], "A": []}

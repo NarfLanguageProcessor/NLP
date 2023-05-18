@@ -1,0 +1,1 @@
+{"index": 169891, "D": "a relatively narrow, projecting part, as a horizontal, shelflike projection on a wall or a raised edge on a tray.", "S": [], "A": []}

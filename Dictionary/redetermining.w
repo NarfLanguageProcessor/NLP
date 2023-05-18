@@ -1,0 +1,1 @@
+{"index": 264124, "D": "to conclude or ascertain, as after reasoning, observation, etc.", "S": [], "A": []}

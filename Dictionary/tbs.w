@@ -1,0 +1,1 @@
+{"index": 317376, "D": "a radiotelephone for short-range communication between vessels.", "S": [], "A": []}

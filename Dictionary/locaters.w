@@ -1,0 +1,1 @@
+{"index": 174307, "D": "a person who locates  something.", "S": ["radar "], "A": []}

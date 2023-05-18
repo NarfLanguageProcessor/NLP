@@ -1,0 +1,1 @@
+{"index": 230563, "D": "perpetually, repeatedly, or continually; throughout the year or years", "S": [], "A": []}

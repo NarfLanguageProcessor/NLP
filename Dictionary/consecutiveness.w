@@ -1,0 +1,1 @@
+{"index": 66714, "D": "following one another in uninterrupted succession or order; successive", "S": ["arrangement ", "array ", "progression ", "string "], "A": ["interruption ", "stoppage "]}

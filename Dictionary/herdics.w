@@ -1,0 +1,1 @@
+{"index": 136979, "D": "a low-hung carriage with two or four wheels, having the entrance at the back and the seats at the sides.", "S": [], "A": []}

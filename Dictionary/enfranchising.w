@@ -1,0 +1,1 @@
+{"index": 100286, "D": "to grant a franchise to; admit to citizenship, especially to the right of voting.", "S": ["emancipate ", "empower ", "free ", "liberate ", "manumit ", "naturalize ", "release "], "A": ["hold ", "incarcerate ", "limit ", "restrain "]}

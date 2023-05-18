@@ -1,0 +1,1 @@
+{"index": 249153, "D": "to go or come back, as to a former place, position, or state", "S": [], "A": []}

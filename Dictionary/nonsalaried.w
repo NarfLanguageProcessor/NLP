@@ -1,0 +1,1 @@
+{"index": 206973, "D": "receiving a salary", "S": [], "A": []}

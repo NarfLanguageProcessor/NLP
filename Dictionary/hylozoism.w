@@ -1,0 +1,1 @@
+{"index": 139524, "D": "the doctrine that matter is inseparable from life, which is a property of matter.", "S": [], "A": []}

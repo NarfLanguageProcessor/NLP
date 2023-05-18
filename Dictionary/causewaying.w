@@ -1,0 +1,1 @@
+{"index": 50062, "D": "a raised road or path, as across low or wet ground.", "S": [], "A": []}

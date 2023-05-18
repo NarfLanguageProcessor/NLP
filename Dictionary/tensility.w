@@ -1,0 +1,1 @@
+{"index": 318987, "D": "of or relating to tension", "S": ["resilience "], "A": ["constraint ", "inelasticity ", "inflexibility ", "resistance "]}

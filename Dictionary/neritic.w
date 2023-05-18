@@ -1,0 +1,1 @@
+{"index": 198711, "D": "of or relating to the region of water lying directly above the sublittoral zone of the sea bottom.", "S": [], "A": []}

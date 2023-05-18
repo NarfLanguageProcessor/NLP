@@ -1,0 +1,1 @@
+{"index": 47395, "D": "a group of travelers, as merchants or pilgrims, journeying together for safety in passing through deserts, hostile territory, etc.", "S": [], "A": []}

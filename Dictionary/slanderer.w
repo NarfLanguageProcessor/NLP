@@ -1,0 +1,1 @@
+{"index": 293627, "D": "defamation; calumny", "S": ["attacker ", "carper ", "caviler ", "censor ", "complainant ", "complainer ", "defamer ", "disparager ", "doubter ", "maligner ", "muckraker ", "nagger ", "quibbler ", "scolder ", "vilifier ", "worrier ", "zapper "], "A": []}

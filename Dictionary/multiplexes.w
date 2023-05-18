@@ -1,0 +1,1 @@
+{"index": 195258, "D": "having many parts or aspects", "S": ["cinema ", "movie house ", "multiplex "], "A": []}

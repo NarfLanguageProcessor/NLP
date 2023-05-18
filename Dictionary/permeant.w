@@ -1,0 +1,1 @@
+{"index": 231586, "D": "permeating;  pervading.", "S": [], "A": []}

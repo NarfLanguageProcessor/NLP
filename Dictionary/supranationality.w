@@ -1,0 +1,1 @@
+{"index": 313194, "D": "outside or beyond the authority of one national  government, as a project or policy that is planned and controlled by a group of nations.", "S": [], "A": []}

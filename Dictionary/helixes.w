@@ -1,0 +1,1 @@
+{"index": 135645, "D": "a spiral.", "S": ["braid ", "tendril "], "A": ["line "]}

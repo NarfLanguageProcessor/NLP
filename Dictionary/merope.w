@@ -1,0 +1,1 @@
+{"index": 183915, "D": "a queen of Corinth and the foster mother of Oedipus.", "S": [], "A": []}

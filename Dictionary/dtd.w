@@ -1,0 +1,1 @@
+{"index": 93635, "D": "a description of the different types of elements and markup tags allowable in a particular SGML, XML, or HTML document and where they can occur within the document.", "S": [], "A": []}

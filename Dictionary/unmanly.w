@@ -1,0 +1,1 @@
+{"index": 345982, "D": "not manly;  not characteristic of or befitting a man; weak, timid, or cowardly.", "S": ["unmanful ", "unmanlike "], "A": ["manlike ", "manly ", "strong "]}

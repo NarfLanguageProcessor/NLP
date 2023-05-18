@@ -1,0 +1,1 @@
+{"index": 203776, "D": "the act or process of exhorting. ", "S": [], "A": []}

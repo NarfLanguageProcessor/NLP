@@ -1,0 +1,1 @@
+{"index": 70166, "D": "a large English variety of apple.", "S": [], "A": []}

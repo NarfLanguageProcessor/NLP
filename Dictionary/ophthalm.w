@@ -1,0 +1,1 @@
+{"index": 213421, "D": "variant of ophthalmo-  before a vowel", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 137403, "D": "a toothed aquatic bird of the extinct genus Hesperornis, fossils of which are found in rocks of Cretaceous age in Kansas, having the rear legs modified for swimming and reaching a length of more than 4 feet (1.2 meters).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 88702, "D": "the inability to conform muscular action to desired movements because of faulty judgment of distance.", "S": [], "A": []}

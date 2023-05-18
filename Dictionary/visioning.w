@@ -1,0 +1,1 @@
+{"index": 360411, "D": "the act or power of sensing with the eyes; sight.", "S": ["calculate ", "envisage ", "estimate ", "forecast ", "predict ", "propose ", "see "], "A": ["destroy ", "disbelieve ", "disorder ", "disorganize ", "disregard ", "forget ", "ignore ", "neglect "]}

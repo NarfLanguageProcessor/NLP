@@ -1,0 +1,1 @@
+{"index": 266229, "D": "any of several large deer of the genus Rangifer, of northern and Arctic regions of Europe, Asia, and North America, both male and female of which have antlers.", "S": [], "A": []}

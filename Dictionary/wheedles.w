@@ -1,0 +1,1 @@
+{"index": 364504, "D": "to endeavor to influence (a person) by smooth, flattering, or beguiling words or acts", "S": ["cajole ", "finagle "], "A": ["disenchant ", "disgust ", "dissuade ", "offend ", "repel ", "repulse ", "turn off "]}

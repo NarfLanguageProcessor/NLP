@@ -1,0 +1,1 @@
+{"index": 168650, "D": "a knee-high boot of oiled leather with a moccasin foot, worn by lumbermen and trappers.", "S": [], "A": []}

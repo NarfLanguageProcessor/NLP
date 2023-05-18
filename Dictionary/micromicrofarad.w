@@ -1,0 +1,1 @@
+{"index": 186284, "D": "picofarad. Symbol", "S": [], "A": []}

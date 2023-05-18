@@ -1,0 +1,1 @@
+{"index": 48244, "D": "a former duchy and crown land of Austria", "S": [], "A": []}

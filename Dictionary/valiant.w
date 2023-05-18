@@ -1,0 +1,1 @@
+{"index": 356717, "D": "boldly courageous; brave; stout-hearted", "S": ["courageous ", "fearless ", "gallant ", "gutsy ", "heroic ", "indomitable ", "intrepid ", "noble ", "plucky ", "stout ", "strong-willed ", "vigorous "], "A": ["afraid ", "cowardly ", "fearful ", "meek ", "timid ", "weak "]}

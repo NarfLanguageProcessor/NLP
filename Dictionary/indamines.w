@@ -1,0 +1,1 @@
+{"index": 150650, "D": "any of a series of basic organic compounds, the simplest having the formula C12H11N3, which form bluish and greenish salts, used in the manufacture of dyes.", "S": [], "A": []}

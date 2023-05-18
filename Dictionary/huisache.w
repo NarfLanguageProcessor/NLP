@@ -1,0 +1,1 @@
+{"index": 144776, "D": "a tropical and subtropical New World shrub, Acacia farnesiana, of the legume family, having clusters of fragrant, deep-yellow flower heads.", "S": [], "A": []}

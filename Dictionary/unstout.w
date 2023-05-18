@@ -1,0 +1,1 @@
+{"index": 352109, "D": "bulky in figure; heavily built; corpulent; thickset; fat", "S": [], "A": []}

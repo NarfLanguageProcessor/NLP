@@ -1,0 +1,1 @@
+{"index": 123470, "D": "the act or process of generalizing.", "S": ["abstraction ", "half-truth ", "law ", "observation ", "principle ", "universality "], "A": ["detail ", "specific ", "specificity "]}

@@ -1,0 +1,1 @@
+{"index": 106324, "D": "of, relating to, or promoting evolution;  evolutionary", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 234732, "D": "phonetic spelling, writing, or shorthand.", "S": ["shorthand "], "A": []}

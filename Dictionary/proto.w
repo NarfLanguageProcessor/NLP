@@ -1,0 +1,1 @@
+{"index": 253577, "D": "a combining form meaning \u201cfirst,\u201d \u201cforemost,\u201d \u201cearliest form of,\u201d used in the formation of compound words (protomartyr; protolithic; protoplasm), specialized in chemical terminology to denote the first of a series of compounds, or the one containing the minimum amount of an element.", "S": [], "A": []}

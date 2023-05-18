@@ -1,0 +1,1 @@
+{"index": 250647, "D": "chiefly; mainly.", "S": ["basically ", "chiefly ", "first and foremost ", "generally ", "importantly ", "largely ", "mostly ", "notably ", "particularly ", "predominantly "], "A": []}

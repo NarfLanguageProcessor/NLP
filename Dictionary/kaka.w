@@ -1,0 +1,1 @@
+{"index": 162821, "D": "any of several New Zealand parrots of the genus Nestor, especially N. meridionalis, having chiefly greenish and olive-brown plumage.", "S": [], "A": []}

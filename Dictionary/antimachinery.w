@@ -1,0 +1,1 @@
+{"index": 15490, "D": "an assemblage of machines  or mechanical apparatuses", "S": [], "A": []}

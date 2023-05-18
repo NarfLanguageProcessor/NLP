@@ -1,0 +1,1 @@
+{"index": 42104, "D": "(in the US and Canada) breeches, shoes, or a suit of buckskin", "S": [], "A": []}

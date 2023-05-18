@@ -1,0 +1,1 @@
+{"index": 286249, "D": "resembling serum;  of a watery nature.", "S": [], "A": []}

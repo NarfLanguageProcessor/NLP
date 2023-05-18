@@ -1,0 +1,1 @@
+{"index": 235601, "D": "of or relating to Phrygia, its people, or their language.", "S": [], "A": []}

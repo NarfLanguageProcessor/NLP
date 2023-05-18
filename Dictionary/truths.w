@@ -1,0 +1,1 @@
+{"index": 331730, "D": "the true  or actual state of a matter", "S": ["authenticity ", "faith ", "integrity ", "realism ", "revelation ", "sincerity "], "A": ["dishonesty ", "apathy ", "disloyalty ", "falseness ", "inconstancy ", "lying ", "treachery ", "unsteadiness "]}

@@ -1,0 +1,1 @@
+{"index": 218588, "D": "circumspect  observation or action; caution; prudence", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 135873, "D": "of or relating to the blood or blood vessels.", "S": [], "A": []}

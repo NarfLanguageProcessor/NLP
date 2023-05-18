@@ -1,0 +1,1 @@
+{"index": 155655, "D": "connecting or being between poles", "S": [], "A": []}

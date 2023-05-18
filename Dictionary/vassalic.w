@@ -1,0 +1,1 @@
+{"index": 357452, "D": "of, relating to, or resembling a vassal  or vassalage.", "S": [], "A": []}

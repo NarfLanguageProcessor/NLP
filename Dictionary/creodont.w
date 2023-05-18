@@ -1,0 +1,1 @@
+{"index": 72656, "D": "any of a diverse group of extinct predatory mammals, from the Paleocene to Pleistocene epochs, that constituted the suborder Creodonta, of the order Carnivora, developing along evolutionary lines somewhat parallel to those of the ancestors of modern carnivores and typically having a stocky, doglike body and a long, low skull.", "S": [], "A": []}

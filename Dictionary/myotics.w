@@ -1,0 +1,1 @@
+{"index": 188273, "D": "pertaining to or producing miosis. ", "S": [], "A": []}

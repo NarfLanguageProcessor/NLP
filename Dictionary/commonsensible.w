@@ -1,0 +1,1 @@
+{"index": 64184, "D": "sound practical judgment that is independent of specialized knowledge, training, or the like; normal native intelligence.", "S": ["balanced ", "commonsense ", "judicious ", "levelheaded ", "practical ", "prudent ", "rational ", "reasonable ", "sage ", "sapient ", "sound ", "wise "], "A": []}

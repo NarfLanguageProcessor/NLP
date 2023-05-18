@@ -1,0 +1,1 @@
+{"index": 241007, "D": "a newborn or unweaned calf, especially one that is taken from its mother and hand-fed.", "S": [], "A": []}

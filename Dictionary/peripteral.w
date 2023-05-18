@@ -1,0 +1,1 @@
+{"index": 231269, "D": "(of a classical temple or other structure) surrounded by a single row of columns.", "S": [], "A": []}

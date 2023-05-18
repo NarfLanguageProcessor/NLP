@@ -1,0 +1,1 @@
+{"index": 43776, "D": "a bronze coin of The Gambia, one 100th of a dalasi.", "S": [], "A": []}

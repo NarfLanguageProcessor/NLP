@@ -1,0 +1,1 @@
+{"index": 176556, "D": "a rare variety of granite containing tourmaline embedded in quartz and feldspar", "S": [], "A": []}

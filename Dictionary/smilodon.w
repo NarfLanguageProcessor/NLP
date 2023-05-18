@@ -1,0 +1,1 @@
+{"index": 294895, "D": "any of several saber-toothed cats of the extinct genus Smilodon, that ranged from California through most of South America during the Pleistocene Epoch and had upper canine teeth more than 6 inches (15 centimeters) long.", "S": [], "A": []}

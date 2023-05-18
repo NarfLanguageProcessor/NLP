@@ -1,0 +1,1 @@
+{"index": 31674, "D": "the inner or back room of a two-room cottage, especially when used as a combined parlor and bedroom.", "S": ["boy ", "child ", "descendant ", "heir ", "relative ", "sibling "], "A": ["daughter "]}

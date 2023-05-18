@@ -1,0 +1,1 @@
+{"index": 142022, "D": "a hero sandwich.", "S": ["blimpie ", "grinder ", "hero ", "poorboy ", "sub ", "submarine ", "submarine sandwich ", "wedge "], "A": []}

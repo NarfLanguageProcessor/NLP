@@ -1,0 +1,1 @@
+{"index": 123771, "D": "an act of bending the knee or touching it to the ground in reverence or worship.", "S": ["angle ", "arc ", "arch ", "bend ", "bending ", "bob ", "curtsy ", "curvature ", "curve ", "flection ", "flexure ", "inclination ", "kowtow ", "nod ", "obeisance ", "round ", "salaam ", "turn ", "turning "], "A": ["line "]}

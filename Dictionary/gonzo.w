@@ -1,0 +1,1 @@
+{"index": 127865, "D": "(of journalism, reportage, etc.) filled with bizarre  or subjective  ideas, commentary, or the like.", "S": ["crazy ", "far-fetched ", "insane ", "odd ", "strange ", "unconventional ", "weird ", "wild "], "A": []}

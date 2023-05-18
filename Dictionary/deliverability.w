@@ -1,0 +1,1 @@
+{"index": 80184, "D": "capable of delivery.", "S": [], "A": []}

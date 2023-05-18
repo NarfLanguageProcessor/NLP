@@ -1,0 +1,1 @@
+{"index": 210269, "D": "censure, blame, or abusive language aimed at a person or thing, especially by numerous persons or by the general public. ", "S": [], "A": []}

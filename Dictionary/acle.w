@@ -1,0 +1,1 @@
+{"index": 2572, "D": "the hard, durable wood of a Philippine leguminous tree, Albizzia acle, used for making fine furniture.", "S": [], "A": []}

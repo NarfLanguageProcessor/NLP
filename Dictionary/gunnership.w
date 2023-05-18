@@ -1,0 +1,1 @@
+{"index": 131400, "D": "a person who operates a gun or cannon.", "S": [], "A": []}

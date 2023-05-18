@@ -1,0 +1,1 @@
+{"index": 199966, "D": "at or during the night  regularly or frequently", "S": ["every night "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 206124, "D": "an unfavorable opinion or feeling formed beforehand or without knowledge, thought, or reason.", "S": [], "A": []}

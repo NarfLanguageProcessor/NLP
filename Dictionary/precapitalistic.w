@@ -1,0 +1,1 @@
+{"index": 245928, "D": "pertaining to capital  or capitalists;  founded on or believing in capitalism", "S": [], "A": []}

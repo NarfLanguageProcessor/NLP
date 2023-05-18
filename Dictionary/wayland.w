@@ -1,0 +1,1 @@
+{"index": 361992, "D": "(in northern European folklore) the king of the elves, a smith and artificer", "S": [], "A": []}

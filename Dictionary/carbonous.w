@@ -1,0 +1,1 @@
+{"index": 47559, "D": "of, containing, or derived from carbon. ", "S": [], "A": []}

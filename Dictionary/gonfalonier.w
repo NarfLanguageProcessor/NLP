@@ -1,0 +1,1 @@
+{"index": 127719, "D": "the bearer of a gonfalon.", "S": [], "A": []}

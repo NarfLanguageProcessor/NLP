@@ -1,0 +1,1 @@
+{"index": 64214, "D": "used or shared in common by everyone in a group", "S": ["common ", "communistic ", "community ", "conjoint ", "conjunct ", "cooperative ", "general ", "intermutual ", "joint ", "mutual ", "neighborhood ", "public "], "A": ["individual ", "personal ", "private ", "unshared "]}

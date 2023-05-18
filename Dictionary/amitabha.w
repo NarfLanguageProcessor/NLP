@@ -1,0 +1,1 @@
+{"index": 10684, "D": "a Buddha who rules over paradise, enjoying endless and infinite bliss.", "S": [], "A": []}

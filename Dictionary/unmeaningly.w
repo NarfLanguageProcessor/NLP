@@ -1,0 +1,1 @@
+{"index": 346116, "D": "not meaning  anything; devoid of intelligence, sense, or significance, as words or actions; pointless; empty.", "S": [], "A": []}

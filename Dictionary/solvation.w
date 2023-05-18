@@ -1,0 +1,1 @@
+{"index": 296924, "D": "the process in which there is some chemical association between the molecules of a solute and those of the solvent. An example is an aqueous solution of copper sulphate which contains complex ions of the type [Cu(H 2 O) 4 ] 2+", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 79336, "D": "most reliable or complete, as of a text, author, criticism, study, or the like", "S": ["certainty ", "efficiency ", "skill ", "truthfulness ", "veracity "], "A": ["inability "]}

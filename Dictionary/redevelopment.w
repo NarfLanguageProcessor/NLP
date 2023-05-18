@@ -1,0 +1,1 @@
+{"index": 264131, "D": "the act or process of redeveloping. ", "S": [], "A": []}

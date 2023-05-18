@@ -1,0 +1,1 @@
+{"index": 264694, "D": "to make into an act or statute", "S": ["clarify ", "construe ", "decipher ", "depict ", "describe ", "enact ", "explain ", "illustrate ", "portray ", "read ", "solve ", "translate ", "understand ", "view "], "A": ["confuse ", "disbelieve ", "mix up ", "obscure ", "cloud ", "direct ", "fail ", "misunderstand ", "mystify ", "stop "]}

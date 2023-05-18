@@ -1,0 +1,1 @@
+{"index": 234740, "D": "a fine-grained volcanic rock composed chiefly of alkali feldspar and nepheline, some varieties of which split into pieces that ring on being struck.", "S": [], "A": []}

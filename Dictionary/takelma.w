@@ -1,0 +1,1 @@
+{"index": 315497, "D": "a member of an Indigenous North American people of southwestern Oregon.", "S": [], "A": []}

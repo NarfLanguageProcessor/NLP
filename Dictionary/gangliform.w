@@ -1,0 +1,1 @@
+{"index": 121877, "D": "having the form of a ganglion. ", "S": [], "A": []}

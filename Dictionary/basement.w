@@ -1,0 +1,1 @@
+{"index": 28516, "D": "a story of a building, partly or wholly underground.", "S": ["cellar ", "storage ", "vault "], "A": ["attic "]}

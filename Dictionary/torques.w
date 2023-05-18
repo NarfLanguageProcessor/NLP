@@ -1,0 +1,1 @@
+{"index": 326231, "D": "a ringlike band or formation about the neck, as of feathers, hair, or integument of distinctive color or appearance; a collar.", "S": ["armband ", "collar ", "force ", "necklace ", "revolution ", "turn ", "twist "], "A": ["stagnation "]}

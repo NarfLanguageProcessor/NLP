@@ -1,0 +1,1 @@
+{"index": 213934, "D": "an advocate of oralism.", "S": [], "A": []}

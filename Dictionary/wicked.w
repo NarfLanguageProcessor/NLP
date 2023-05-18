@@ -1,0 +1,1 @@
+{"index": 365446, "D": "evil or morally bad in principle or practice; sinful; iniquitous", "S": ["devilish ", "evil ", "impish ", "mischievous ", "nasty ", "naughty ", "vicious ", "villainous ", "wayward "], "A": ["clean ", "decent ", "good ", "kind ", "moral ", "nice ", "obedient "]}

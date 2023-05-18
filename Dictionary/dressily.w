@@ -1,0 +1,1 @@
+{"index": 92988, "D": "appropriate to somewhat formal occasions", "S": [], "A": []}

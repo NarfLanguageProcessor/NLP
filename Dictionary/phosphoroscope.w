@@ -1,0 +1,1 @@
+{"index": 234941, "D": "an instrument for measuring the duration of evanescent phosphorescence in different substances.", "S": [], "A": []}

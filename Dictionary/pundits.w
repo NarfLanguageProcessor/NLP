@@ -1,0 +1,1 @@
+{"index": 256631, "D": "a learned person, expert, or authority.", "S": ["buff ", "cognoscenti ", "expert ", "intellectual ", "philosopher ", "professor ", "scholar ", "thinker "], "A": ["ignoramus "]}

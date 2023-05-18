@@ -1,0 +1,1 @@
+{"index": 88516, "D": "having the joints or connections separated", "S": ["detachment ", "disconnectedness ", "disconnection ", "disjuncture ", "disunion ", "division ", "divorce ", "parting ", "severance ", "split "], "A": ["connection ", "juncture ", "marriage "]}

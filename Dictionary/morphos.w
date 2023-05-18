@@ -1,0 +1,1 @@
+{"index": 193629, "D": "any of various large, tropical American butterflies of the genus Morpho, having brilliant blue, iridescent wings with an underside of brown or gray and eyelike spots.", "S": [], "A": []}

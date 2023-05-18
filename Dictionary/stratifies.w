@@ -1,0 +1,1 @@
+{"index": 305865, "D": "to form or place in strata  or layers.", "S": ["flake ", "laminate ", "plate "], "A": []}

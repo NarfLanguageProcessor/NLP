@@ -1,0 +1,1 @@
+{"index": 304940, "D": "a close-fitting covering for the foot and part of the leg, usually knitted, of wool, cotton, nylon, silk, or similar material.", "S": ["hose ", "hosiery ", "sock "], "A": []}

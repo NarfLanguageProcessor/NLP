@@ -1,0 +1,1 @@
+{"index": 192217, "D": "an angiospermous plant of the class Monocotyledones, characterized by producing seeds with one cotyledon  and an endogenous manner of growth.", "S": [], "A": []}

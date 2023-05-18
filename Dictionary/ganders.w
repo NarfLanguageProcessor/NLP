@@ -1,0 +1,1 @@
+{"index": 121823, "D": "Compare goose (def. 2). ", "S": ["blush ", "eye ", "eyeball ", "flash ", "glimpse ", "lamp ", "look ", "peek ", "peep ", "sight ", "slant ", "squint ", "swivel ", "view "], "A": []}

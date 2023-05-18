@@ -1,0 +1,1 @@
+{"index": 207579, "D": "the state or quality of being subjective; subjectiveness. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 9056, "D": "very attractive or tempting; enticing; seductive. ", "S": ["appealingly ", "attractively ", "charmingly ", "delightfully ", "elegantly ", "exquisitely ", "gorgeously ", "gracefully ", "handsomely ", "magnificently ", "seductively ", "splendidly ", "sublimely ", "superbly ", "tastefully ", "wonderfully "], "A": ["poorly "]}

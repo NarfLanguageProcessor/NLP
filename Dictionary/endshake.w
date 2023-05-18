@@ -1,0 +1,1 @@
+{"index": 100080, "D": "the free longitudinal movement of arbors or the like between bearings.", "S": [], "A": []}

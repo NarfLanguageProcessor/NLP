@@ -1,0 +1,1 @@
+{"index": 109844, "D": "of or relating to a discontinuous, asymmetric, alternating current from the secondary winding of an induction coil.", "S": [], "A": []}

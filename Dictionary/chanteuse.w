@@ -1,0 +1,1 @@
+{"index": 52549, "D": "a female singer, especially one who sings in nightclubs and cabarets.", "S": ["artist ", "crooner ", "diva ", "musician ", "soloist ", "vocalist ", "voice "], "A": []}

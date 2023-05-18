@@ -1,0 +1,1 @@
+{"index": 31613, "D": "a poplin-like fabric having a crosswise corded effect, woven with coarse yarn in the filling direction.", "S": [], "A": []}

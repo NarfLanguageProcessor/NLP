@@ -1,0 +1,1 @@
+{"index": 91948, "D": "a customs officer or official.", "S": [], "A": []}

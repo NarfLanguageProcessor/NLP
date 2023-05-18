@@ -1,0 +1,1 @@
+{"index": 321364, "D": "an ammeter  that measures amperage by means of a thermocouple.", "S": [], "A": []}

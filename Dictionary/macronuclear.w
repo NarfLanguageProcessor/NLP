@@ -1,0 +1,1 @@
+{"index": 177005, "D": "the larger of the two types of nuclei  occurring in ciliate protozoans, having a multiple set of chromosomes and functioning in cell metabolism and protein synthesis.", "S": [], "A": []}

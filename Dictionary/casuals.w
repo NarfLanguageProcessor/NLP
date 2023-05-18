@@ -1,0 +1,1 @@
+{"index": 49142, "D": "happening by chance; fortuitous", "S": ["attire ", "garb ", "regalia ", "sportswear ", "wardrobe "], "A": []}

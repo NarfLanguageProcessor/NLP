@@ -1,0 +1,1 @@
+{"index": 330288, "D": "any minute, flagellate protozoan of the genus Trypanosoma, parasitic in the blood or tissues of humans and other vertebrates, usually transmitted by insects, often causing serious diseases, as African sleeping sickness in humans, and many diseases in domestic animals.", "S": [], "A": []}

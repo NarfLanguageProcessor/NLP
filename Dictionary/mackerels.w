@@ -1,0 +1,1 @@
+{"index": 176822, "D": "a food fish, Scomber scombrus, of the North Atlantic, having wavy cross markings on the back.", "S": [], "A": []}

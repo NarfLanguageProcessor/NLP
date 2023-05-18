@@ -1,0 +1,1 @@
+{"index": 296877, "D": "either of the two points in the ecliptic farthest from the equator.", "S": ["ceiling ", "crest ", "elevation ", "extent ", "peak ", "pinnacle ", "prominence ", "stature "], "A": ["base ", "bottom ", "nadir "]}

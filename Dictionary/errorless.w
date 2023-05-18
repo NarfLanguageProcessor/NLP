@@ -1,0 +1,1 @@
+{"index": 104003, "D": "a deviation from accuracy or correctness; a mistake, as in action or speech", "S": ["correct ", "exact ", "faultless ", "perfect ", "precise ", "right ", "unerring "], "A": []}

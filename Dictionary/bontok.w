@@ -1,0 +1,1 @@
+{"index": 37980, "D": "a member of a people who inhabit northern Luzon in the Philippines.", "S": [], "A": []}

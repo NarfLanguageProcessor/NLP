@@ -1,0 +1,1 @@
+{"index": 183415, "D": "the period of permanent cessation of menstruation, usually occurring between the ages of 45 and 55.", "S": ["climacteric ", "grand climacteric ", "midlife crisis "], "A": []}

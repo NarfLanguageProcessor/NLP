@@ -1,0 +1,1 @@
+{"index": 242805, "D": "a wretched coward; craven.", "S": ["cowardliness ", "cravenness ", "faint-heartedness ", "fearfulness ", "pusillanimity ", "timidity "], "A": []}

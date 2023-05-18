@@ -1,0 +1,1 @@
+{"index": 162452, "D": "of or relating to the administration of justice.", "S": ["argumentative ", "debatable ", "dialectic ", "dialectical ", "disputative ", "juristic ", "moot ", "polemical ", "rhetorical "], "A": []}

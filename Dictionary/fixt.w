@@ -1,0 +1,1 @@
+{"index": 113620, "D": "a simple past tense and past participle of fix. ", "S": [], "A": []}

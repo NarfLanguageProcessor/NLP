@@ -1,0 +1,1 @@
+{"index": 283047, "D": "sedulous  quality, application, or activity; diligence.", "S": ["dedication ", "determination ", "endurance ", "grit ", "moxie ", "persistence ", "spunk ", "stamina ", "steadfastness ", "tenacity "], "A": ["apathy ", "cowardice ", "indifference ", "irresolution ", "weakness "]}

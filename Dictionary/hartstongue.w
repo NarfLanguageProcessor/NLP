@@ -1,0 +1,1 @@
+{"index": 134026, "D": "a fern, Phyllitis scolopendrium, having long, leathery, wavy-edged leaves.", "S": [], "A": []}

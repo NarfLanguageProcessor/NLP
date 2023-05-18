@@ -1,0 +1,1 @@
+{"index": 309194, "D": "pertaining to or characteristic of apes or monkeys; simian.", "S": [], "A": []}

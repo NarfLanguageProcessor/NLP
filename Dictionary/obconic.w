@@ -1,0 +1,1 @@
+{"index": 209967, "D": "(of a fruit or similar part) shaped like a cone and attached at the pointed end", "S": [], "A": []}

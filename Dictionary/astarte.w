@@ -1,0 +1,1 @@
+{"index": 21992, "D": "an ancient Semitic deity, goddess of fertility and reproduction worshiped by the Phoenicians and Canaanites.", "S": [], "A": []}

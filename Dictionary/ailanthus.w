@@ -1,0 +1,1 @@
+{"index": 6762, "D": "any tree belonging to the genus Ailanthus, of the quassia family, especially A. altissima, widely grown in cities.", "S": [], "A": []}

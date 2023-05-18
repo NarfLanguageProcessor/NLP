@@ -1,0 +1,1 @@
+{"index": 339148, "D": "to give less than sufficient emphasis to; minimize.", "S": [], "A": []}

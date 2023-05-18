@@ -1,0 +1,1 @@
+{"index": 119439, "D": "a plant, Helianthemum canadense, of the rockrose family, native to eastern North America, having narrow leaves and a solitary yellow flower.", "S": [], "A": []}

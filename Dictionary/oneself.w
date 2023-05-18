@@ -1,0 +1,1 @@
+{"index": 212762, "D": "a person's self (used for emphasis or reflexively)", "S": ["character ", "ego ", "identity ", "individuality ", "myself ", "person ", "personality "], "A": ["other "]}

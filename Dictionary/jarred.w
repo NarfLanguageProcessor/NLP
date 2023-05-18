@@ -1,0 +1,1 @@
+{"index": 160504, "D": "a broad-mouthed container, usually cylindrical and of glass or earthenware", "S": ["aghast ", "appalled ", "astonished ", "dismayed ", "frightened "], "A": ["comforting "]}

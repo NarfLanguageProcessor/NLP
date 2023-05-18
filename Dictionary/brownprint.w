@@ -1,0 +1,1 @@
+{"index": 41659, "D": "a process of photographic reproduction using a mixture of iron and silver salts to produce a white image on a sepia ground.", "S": [], "A": []}

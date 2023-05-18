@@ -1,0 +1,1 @@
+{"index": 200655, "D": "any of numerous dull-colored moths of the family Noctuidae, the larvae of which include the armyworms and cutworms.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43374, "D": "a large motor vehicle, having a long body, equipped with seats or benches for passengers, usually operating as part of a scheduled service; omnibus. ", "S": ["integrate "], "A": []}

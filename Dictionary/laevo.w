@@ -1,0 +1,1 @@
+{"index": 167270, "D": "variant of levo-. ", "S": [], "A": []}

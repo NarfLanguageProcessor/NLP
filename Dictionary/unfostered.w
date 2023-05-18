@@ -1,0 +1,1 @@
+{"index": 342619, "D": "promoted or cultivated", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 181451, "D": "of or relating to Mauritania, a republic in NW Africa, or its inhabitants", "S": [], "A": []}

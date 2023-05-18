@@ -1,0 +1,1 @@
+{"index": 258260, "D": "belonging or proper to a queen", "S": ["aristocratic ", "blue-blooded ", "elite ", "gentle ", "highbred ", "imperial ", "kingly ", "patrician ", "silk-stocking ", "thoroughbred ", "titled ", "upper-class ", "wellborn "], "A": []}

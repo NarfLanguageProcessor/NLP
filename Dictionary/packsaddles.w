@@ -1,0 +1,1 @@
+{"index": 222765, "D": "a saddle specifically designed for holding or supporting the load on a pack animal.", "S": ["howdah ", "pillion ", "seat "], "A": []}

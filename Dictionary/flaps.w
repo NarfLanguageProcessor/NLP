@@ -1,0 +1,1 @@
+{"index": 113993, "D": "swelling of the lips of a horse.", "S": ["accessory ", "adjunct ", "appendage ", "apron ", "cover ", "drop ", "fly ", "fold ", "hanging ", "lapel ", "lobe ", "lug ", "overlap ", "pendant ", "ply ", "queue ", "skirt ", "strip ", "tab ", "tag ", "tail ", "tippet "], "A": ["calm ", "peace ", "peacefulness "]}

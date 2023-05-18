@@ -1,0 +1,1 @@
+{"index": 305614, "D": "Italian violinmaker of Cremona (pupil of Nicol\u00f2 Amati).", "S": [], "A": []}

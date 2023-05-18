@@ -1,0 +1,1 @@
+{"index": 125905, "D": "striking obliquely and bouncing off at an angle", "S": [], "A": []}

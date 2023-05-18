@@ -1,0 +1,1 @@
+{"index": 40276, "D": "disintegration; disruption; dispersal.", "S": ["breakdown ", "disintegration ", "dissolution ", "divorce ", "separation ", "split ", "termination "], "A": ["beginning ", "engagement ", "marriage ", "start ", "introduction "]}

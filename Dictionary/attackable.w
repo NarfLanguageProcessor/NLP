@@ -1,0 +1,1 @@
+{"index": 22935, "D": "to set upon in a forceful, violent, hostile, or aggressive way, with or without a weapon; begin fighting with", "S": ["assailable ", "defenseless ", "exposed ", "insecure ", "pregnable ", "prone ", "susceptible ", "unguarded ", "unprotected ", "weak "], "A": []}

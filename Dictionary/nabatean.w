@@ -1,0 +1,1 @@
+{"index": 196411, "D": "a subject of the ancient kingdom of Nabataea. ", "S": [], "A": []}

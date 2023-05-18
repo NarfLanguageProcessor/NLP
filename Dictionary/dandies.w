@@ -1,0 +1,1 @@
+{"index": 76704, "D": "a man who is excessively concerned about his clothes and appearance; a fop.", "S": ["coxcomb ", "dandy ", "dude ", "fashion plate ", "fine gentleman ", "fop ", "lady-killer ", "lounge lizard ", "person of fashion ", "popinjay ", "swell "], "A": []}

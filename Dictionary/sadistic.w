@@ -1,0 +1,1 @@
+{"index": 276516, "D": "pertaining to or characterized by sadism;  deriving pleasure or sexual gratification from extreme cruelty", "S": ["barbarous ", "brutal ", "perverse ", "ruthless ", "vicious "], "A": ["gentle ", "kind ", "nice "]}

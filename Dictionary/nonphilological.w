@@ -1,0 +1,1 @@
+{"index": 205949, "D": "the study of literary texts and of written records, the establishment of their authenticity and their original form, and the determination of their meaning.", "S": [], "A": []}

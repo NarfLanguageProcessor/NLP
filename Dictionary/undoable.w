@@ -1,0 +1,1 @@
+{"index": 340715, "D": "to reverse the doing of; cause to be as if never done", "S": [], "A": []}

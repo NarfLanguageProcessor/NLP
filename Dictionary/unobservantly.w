@@ -1,0 +1,1 @@
+{"index": 347037, "D": "quick to notice or perceive; alert.", "S": [], "A": []}

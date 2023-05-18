@@ -1,0 +1,1 @@
+{"index": 270517, "D": "any of a group of substances related to vitamin A and functioning like vitamin A in the body.", "S": [], "A": []}

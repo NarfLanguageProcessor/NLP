@@ -1,0 +1,1 @@
+{"index": 259571, "D": "of or going to the root or origin; fundamental", "S": [], "A": []}

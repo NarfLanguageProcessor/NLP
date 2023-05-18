@@ -1,0 +1,1 @@
+{"index": 101197, "D": "a realization or actuality as opposed to a potentiality.", "S": [], "A": []}

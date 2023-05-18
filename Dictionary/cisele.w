@@ -1,0 +1,1 @@
+{"index": 58398, "D": "noting or pertaining to velvet having a chiseled or embossed pattern produced by contrasting cut and uncut pile.", "S": [], "A": []}

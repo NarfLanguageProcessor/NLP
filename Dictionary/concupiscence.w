@@ -1,0 +1,1 @@
+{"index": 65485, "D": "sexual desire; lust.", "S": ["desire ", "lechery ", "prurience "], "A": []}

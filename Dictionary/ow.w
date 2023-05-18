@@ -1,0 +1,1 @@
+{"index": 222027, "D": "(used especially as an expression of intense or sudden pain.)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 40378, "D": "knee-length trousers,  often having ornamental buckles or elaborate decoration at or near the bottoms, commonly worn by men and boys in the 17th, 18th, and early 19th centuries.", "S": ["hosiery ", "sock ", "tights ", "tube ", "tubing "], "A": []}

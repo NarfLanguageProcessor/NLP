@@ -1,0 +1,1 @@
+{"index": 91922, "D": "a small, roundish mark made with or as if with a pen.", "S": ["acid ", "cubes ", "drug ", "hallucinogen ", "microdots ", "sunshine ", "tabs "], "A": []}

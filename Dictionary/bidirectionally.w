@@ -1,0 +1,1 @@
+{"index": 33545, "D": "capable of reacting or functioning in two, usually opposite, directions.", "S": [], "A": []}

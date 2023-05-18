@@ -1,0 +1,1 @@
+{"index": 320967, "D": "of or relating to Theodosius I, who made Christianity the official state religion of the Roman Empire.", "S": [], "A": []}

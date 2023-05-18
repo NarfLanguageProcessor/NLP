@@ -1,0 +1,1 @@
+{"index": 97208, "D": "the motion of colloidal particles suspended in a fluid medium, due to the influence of an electric field on the medium.", "S": [], "A": []}

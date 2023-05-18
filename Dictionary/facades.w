@@ -1,0 +1,1 @@
+{"index": 108931, "D": "any side of a building facing a public way or space and finished accordingly.", "S": ["appearance ", "cloak ", "coloring ", "cover ", "disguise ", "disguisement ", "face ", "front ", "guise ", "mask ", "masquerade ", "pretense ", "semblance ", "show ", "veil ", "veneer ", "window-dressing "], "A": ["character ", "personality "]}

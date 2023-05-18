@@ -1,0 +1,1 @@
+{"index": 109591, "D": "a social unit consisting of one or more adults together with the children they care for", "S": ["clan ", "folk ", "group ", "house ", "household ", "people ", "tribe "], "A": ["parent "]}

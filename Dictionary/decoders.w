@@ -1,0 +1,1 @@
+{"index": 78533, "D": "a person who decodes  messages or the like.", "S": ["artist ", "commentator ", "editor ", "exponent ", "linguist ", "philosopher ", "scholar ", "writer "], "A": []}

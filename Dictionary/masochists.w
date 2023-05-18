@@ -1,0 +1,1 @@
+{"index": 180719, "D": "a person who has masochism,  the condition in which sexual or other gratification depends on one's suffering physical pain or humiliation.", "S": [], "A": []}

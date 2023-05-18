@@ -1,0 +1,1 @@
+{"index": 317672, "D": "a theory and movement, prominent about 1932, advocating control of industrial resources, reform of financial institutions, and reorganization of the social system, based on the findings of technologists and engineers.", "S": [], "A": []}

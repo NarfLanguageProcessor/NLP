@@ -1,0 +1,1 @@
+{"index": 101088, "D": "to bewitch", "S": ["charm ", "conjure ", "decoy ", "enchant ", "ensorcel ", "mesmerize ", "spellbind "], "A": []}

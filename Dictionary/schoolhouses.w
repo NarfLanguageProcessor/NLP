@@ -1,0 +1,1 @@
+{"index": 280463, "D": "a building in which a school is conducted.", "S": ["academy ", "department ", "faculty ", "hall ", "institute ", "institution ", "seminary ", "university "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 172695, "D": "materials pertaining to Abraham Lincoln,  as objects, writings, or anecdotes.", "S": [], "A": []}

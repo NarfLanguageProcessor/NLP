@@ -1,0 +1,1 @@
+{"index": 49187, "D": "misuse or strained use of words, as in a mixed metaphor, occurring either in error or for rhetorical effect.", "S": ["ignorant ", "uneducated "], "A": ["educated ", "intelligent "]}

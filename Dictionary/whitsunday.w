@@ -1,0 +1,1 @@
+{"index": 365239, "D": "the seventh Sunday after Easter, celebrated as a festival in commemoration of the descent of the Holy Spirit on the day of Pentecost.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 48444, "D": "the bone of a bird's wing formed by fusion of the carpal and metacarpal bones.", "S": [], "A": []}

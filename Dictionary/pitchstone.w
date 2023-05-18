@@ -1,0 +1,1 @@
+{"index": 238259, "D": "a glassy volcanic rock having a resinous luster and resembling hardened pitch.", "S": [], "A": []}

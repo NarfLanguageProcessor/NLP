@@ -1,0 +1,1 @@
+{"index": 801, "D": "a machine for testing the abrasion resistance of a material.", "S": [], "A": []}

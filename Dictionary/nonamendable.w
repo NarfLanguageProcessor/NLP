@@ -1,0 +1,1 @@
+{"index": 201275, "D": "to alter, modify, rephrase, or add to or subtract from (a motion, bill, constitution, etc.) by formal procedure", "S": [], "A": []}

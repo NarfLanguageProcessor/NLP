@@ -1,0 +1,1 @@
+{"index": 230380, "D": "one one-hundredth part; 1/100.", "S": [], "A": []}

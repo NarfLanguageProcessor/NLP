@@ -1,0 +1,1 @@
+{"index": 123846, "D": "the science dealing with dynamic processes or forces within the earth.", "S": [], "A": []}

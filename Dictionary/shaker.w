@@ -1,0 +1,1 @@
+{"index": 287205, "D": "a person or thing that shakes. ", "S": ["appendage ", "fist ", "grip ", "palm "], "A": ["foot "]}

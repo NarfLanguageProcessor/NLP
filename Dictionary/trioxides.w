@@ -1,0 +1,1 @@
+{"index": 330261, "D": "an oxide  containing three oxygen atoms, as As2O3.", "S": [], "A": []}

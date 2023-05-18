@@ -1,0 +1,1 @@
+{"index": 181992, "D": "a helicopter for evacuating the wounded from a battlefield.", "S": [], "A": []}

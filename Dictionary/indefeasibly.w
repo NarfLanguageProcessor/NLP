@@ -1,0 +1,1 @@
+{"index": 150710, "D": "not defeasible;  not to be annulled or made void; not forfeitable.", "S": [], "A": []}

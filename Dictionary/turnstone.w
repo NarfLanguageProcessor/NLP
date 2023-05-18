@@ -1,0 +1,1 @@
+{"index": 332872, "D": "any shorebird of the genus Arenaria, characterized by the habit of turning  over stones  in search of food.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 146212, "D": "the historical analysis and interpretive study of symbols or images and their contextual significance; iconography.", "S": [], "A": []}

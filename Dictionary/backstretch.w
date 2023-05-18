@@ -1,0 +1,1 @@
+{"index": 25963, "D": "the straight part of a race track opposite the part leading to the finish line.", "S": [], "A": []}

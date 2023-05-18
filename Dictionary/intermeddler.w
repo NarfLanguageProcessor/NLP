@@ -1,0 +1,1 @@
+{"index": 155307, "D": "to take part in a matter, especially officiously; meddle.", "S": ["buttinsky ", "eavesdropper ", "fink ", "gossip ", "intruder ", "meddler ", "newsmonger ", "rubberneck ", "scandalmonger ", "snoop ", "snooper ", "tattletale ", "troublemaker ", "yenta "], "A": []}

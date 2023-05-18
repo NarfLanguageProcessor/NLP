@@ -1,0 +1,1 @@
+{"index": 36195, "D": "a disease so characterized.", "S": [], "A": []}

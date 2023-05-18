@@ -1,0 +1,1 @@
+{"index": 285785, "D": "a dividing wall, membrane, or the like, in a plant or animal structure; dissepiment.", "S": [], "A": []}

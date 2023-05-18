@@ -1,0 +1,1 @@
+{"index": 231999, "D": "to attribute human nature or character to (an inanimate object or an abstraction), as in speech or writing.", "S": [], "A": []}

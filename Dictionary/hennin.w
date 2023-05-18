@@ -1,0 +1,1 @@
+{"index": 136595, "D": "a conical or heart-shaped hat, sometimes extremely high, with a flowing veil or piece of starched linen about the crown, worn by women in the 15th century.", "S": [], "A": []}

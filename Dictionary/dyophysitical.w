@@ -1,0 +1,1 @@
+{"index": 86294, "D": "a person who maintains that Christ has two distinct natures, one divine and the other human; an adherent of Dyophysitism. ", "S": [], "A": []}

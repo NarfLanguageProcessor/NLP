@@ -1,0 +1,1 @@
+{"index": 172893, "D": "a tongue-shaped organ, process, or tissue.", "S": [], "A": []}

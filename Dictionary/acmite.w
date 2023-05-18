@@ -1,0 +1,1 @@
+{"index": 2593, "D": "a rare pyroxene mineral, sodium-ferric iron silicate, NaFe(Si2O6), found in feldspathoid rocks.", "S": [], "A": []}

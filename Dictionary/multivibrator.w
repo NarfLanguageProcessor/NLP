@@ -1,0 +1,1 @@
+{"index": 195427, "D": "an electronic oscillator consisting of two transistors or other electronic devices, coupled so that the input of each is derived from the output of the other", "S": [], "A": []}

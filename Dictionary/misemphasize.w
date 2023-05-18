@@ -1,0 +1,1 @@
+{"index": 189196, "D": "to give emphasis  to; lay stress upon; stress", "S": [], "A": []}

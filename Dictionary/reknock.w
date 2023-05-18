@@ -1,0 +1,1 @@
+{"index": 266683, "D": "to strike a sounding blow with the fist, knuckles, or anything hard, especially on a door, window, or the like, as in seeking admittance, calling attention, or giving a signal", "S": [], "A": []}

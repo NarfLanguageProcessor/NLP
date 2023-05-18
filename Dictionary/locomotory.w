@@ -1,0 +1,1 @@
+{"index": 174429, "D": "of, relating to, or affecting locomotion.", "S": [], "A": []}

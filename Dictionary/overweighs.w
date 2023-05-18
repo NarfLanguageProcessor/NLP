@@ -1,0 +1,1 @@
+{"index": 221818, "D": "to exceed in weight; overbalance or outweigh", "S": ["cloud ", "dim ", "dominate ", "dwarf ", "eclipse ", "outweigh "], "A": ["clear ", "explain ", "brighten ", "fail ", "lighten "]}

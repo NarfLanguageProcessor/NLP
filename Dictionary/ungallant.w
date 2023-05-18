@@ -1,0 +1,1 @@
+{"index": 342890, "D": "brave, spirited, noble-minded, or chivalrous", "S": [], "A": []}

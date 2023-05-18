@@ -1,0 +1,1 @@
+{"index": 298022, "D": "a person who is left-handed.", "S": ["ambilevous ", "awkward ", "clumsy ", "dubious ", "gauche ", "insincere ", "maladroit ", "sinister ", "sinistral "], "A": ["right-handed "]}

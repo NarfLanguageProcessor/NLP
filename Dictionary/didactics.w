@@ -1,0 +1,1 @@
+{"index": 85025, "D": "the art or science of teaching", "S": [], "A": []}

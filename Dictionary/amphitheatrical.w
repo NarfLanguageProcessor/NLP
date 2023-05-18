@@ -1,0 +1,1 @@
+{"index": 11240, "D": "an open-air, oval or round building with tiers of seats around a central open area, as those used in ancient Rome for gladiatorial contests.", "S": [], "A": []}

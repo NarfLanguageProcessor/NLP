@@ -1,0 +1,1 @@
+{"index": 42965, "D": "(formerly) an aluminum-copper coin and monetary unit of the Yemen Arab Republic, the 40th part of a riyal.", "S": [], "A": []}

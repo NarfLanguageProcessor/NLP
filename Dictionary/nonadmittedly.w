@@ -1,0 +1,1 @@
+{"index": 201153, "D": "allowed to enter; granted entrance or entry", "S": [], "A": []}

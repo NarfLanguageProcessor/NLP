@@ -1,0 +1,1 @@
+{"index": 315285, "D": "a river in southwestern Europe, flowing west through central Spain and Portugal to the Atlantic Ocean  at Lisbon. 566 miles (910 kilometers) long.", "S": [], "A": []}

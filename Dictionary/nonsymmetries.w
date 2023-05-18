@@ -1,0 +1,1 @@
+{"index": 207265, "D": "the correspondence in size, form, and arrangement of parts on opposite sides of a plane, line, or point; regularity of form or arrangement in terms of like, reciprocal, or corresponding parts.", "S": [], "A": []}

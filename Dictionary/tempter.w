@@ -1,0 +1,1 @@
+{"index": 318644, "D": "a person or thing that tempts,  especially to evil.", "S": ["charmer ", "coquette ", "courtesan ", "enchantress ", "flirt ", "seductress ", "siren ", "temptress ", "vamp "], "A": []}

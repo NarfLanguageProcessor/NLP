@@ -1,0 +1,1 @@
+{"index": 329765, "D": "any leguminous plant of the temperate genus Trifolium, having leaves divided into three leaflets and dense heads of small white, yellow, red, or purple flowers", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359785, "D": "a sanctuary of a Brahman temple.", "S": [], "A": []}

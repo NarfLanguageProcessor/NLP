@@ -1,0 +1,1 @@
+{"index": 245062, "D": "present participle.", "S": [], "A": []}

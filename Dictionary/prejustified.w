@@ -1,0 +1,1 @@
+{"index": 248131, "D": "to show (an act, claim, statement, etc.) to be just or right", "S": [], "A": []}

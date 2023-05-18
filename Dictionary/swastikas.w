@@ -1,0 +1,1 @@
+{"index": 314170, "D": "a figure used as a symbol or an ornament in the Old World and in America since prehistoric times, consisting of a cross with arms of equal length, each arm having a continuation at right angles.", "S": ["hakenkreuz "], "A": []}

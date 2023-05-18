@@ -1,0 +1,1 @@
+{"index": 348, "D": "departing from the right, normal, or usual course.", "S": ["aberrancy ", "aberration ", "anomaly ", "deviation ", "divergence ", "irregularity ", "unnaturalness "], "A": ["conformity ", "normality ", "regularity ", "sameness "]}

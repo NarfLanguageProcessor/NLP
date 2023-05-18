@@ -1,0 +1,1 @@
+{"index": 271676, "D": "to write  in a different form or manner; revise", "S": ["adjusted ", "amended ", "improved ", "updated "], "A": ["kept "]}

@@ -1,0 +1,1 @@
+{"index": 109740, "D": "a window over a door or another window, especially one having the form of a semicircle or of half an ellipse.", "S": ["aperture ", "casement ", "dormer ", "fenestella ", "fenestra ", "jalousie ", "lancet ", "lunette ", "oriel ", "porthole ", "skylight "], "A": []}

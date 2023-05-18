@@ -1,0 +1,1 @@
+{"index": 227497, "D": "the office or term of office of a pastor. ", "S": ["priesthood "], "A": []}

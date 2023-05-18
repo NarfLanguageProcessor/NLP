@@ -1,0 +1,1 @@
+{"index": 236283, "D": "the ancient Roman personification of familial affection, patriotism, and piety.", "S": [], "A": []}

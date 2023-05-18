@@ -1,0 +1,1 @@
+{"index": 92835, "D": "to fear greatly; be in extreme apprehension of", "S": ["alarming ", "frightening "], "A": ["pleasant ", "pleasing ", "welcomed ", "wonderful "]}

@@ -1,0 +1,1 @@
+{"index": 19551, "D": "a very large southern constellation, now divided into Vela, Carina, Puppis, and Pyxis, four separate constellations lying largely south of Canis Major.", "S": [], "A": []}

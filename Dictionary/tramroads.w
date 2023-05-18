@@ -1,0 +1,1 @@
+{"index": 327602, "D": "(in a mine) a small railroad for trams. ", "S": [], "A": []}

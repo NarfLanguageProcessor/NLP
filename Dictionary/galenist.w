@@ -1,0 +1,1 @@
+{"index": 121221, "D": "the medical system or principles of Galen. ", "S": [], "A": []}

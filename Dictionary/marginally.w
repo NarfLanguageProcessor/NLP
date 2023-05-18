@@ -1,0 +1,1 @@
+{"index": 180003, "D": "by a minimal, insignificant, or almost insufficient amount", "S": ["kind of ", "lightly ", "somewhat "], "A": ["a lot ", "considerably ", "greatly "]}

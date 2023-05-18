@@ -1,0 +1,1 @@
+{"index": 87942, "D": "to deprive (a church, school, etc.) of endowment.", "S": [], "A": []}

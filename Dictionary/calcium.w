@@ -1,0 +1,1 @@
+{"index": 44928, "D": "a silver-white divalent metal, occurring combined in limestone, chalk, gypsum, etc., occurring also in vertebrates and other animals, as a component of bone, skeletal mass, shell, etc., and as a necessary element in nerve conduction, heartbeat, muscle contraction, and many other physiological functions. Symbol", "S": [], "A": []}

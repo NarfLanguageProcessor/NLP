@@ -1,0 +1,1 @@
+{"index": 178543, "D": "any of various dwarf Australian eucalyptuses, as Eucalyptus dumosa and E. oleosa, that sometimes form large tracts of brushwood.", "S": [], "A": []}

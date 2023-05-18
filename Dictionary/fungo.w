@@ -1,0 +1,1 @@
+{"index": 120251, "D": "(in practice sessions) a ball tossed into the air by the batter and struck as it comes down.", "S": [], "A": []}

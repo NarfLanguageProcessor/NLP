@@ -1,0 +1,1 @@
+{"index": 175293, "D": "a hard protective case or sheath, as the protective coverings secreted by certain protists.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 346458, "D": "not mitigated; not softened or lessened", "S": ["absolutely ", "altogether ", "completely ", "entirely ", "exactly ", "fully ", "perfectly ", "quite ", "thoroughly ", "unconditionally ", "utterly ", "wholeheartedly ", "wholly "], "A": ["inadequately ", "incompletely ", "partially ", "partly "]}

@@ -1,0 +1,1 @@
+{"index": 56111, "D": "mainly Australian a slang name for Christmas", "S": [], "A": []}

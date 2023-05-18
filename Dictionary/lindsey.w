@@ -1,0 +1,1 @@
+{"index": 172720, "D": "U.S. jurist and authority on juvenile delinquency.", "S": [], "A": []}

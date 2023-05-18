@@ -1,0 +1,1 @@
+{"index": 151541, "D": "without skill or aptitude for a particular task or assignment; maladroit", "S": ["clumsily ", "stiffly "], "A": ["adroitly ", "gracefully ", "skillfully "]}

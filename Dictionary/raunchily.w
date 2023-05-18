@@ -1,0 +1,1 @@
+{"index": 261217, "D": "vulgar or smutty; crude; earthy; obscene", "S": [], "A": []}

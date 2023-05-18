@@ -1,0 +1,1 @@
+{"index": 112281, "D": "to move about restlessly, nervously, or impatiently.", "S": ["fret ", "jiggle ", "squirm ", "twiddle ", "twitch "], "A": ["relax ", "rest "]}

@@ -1,0 +1,1 @@
+{"index": 106291, "D": "an act or instance of evoking;  a calling forth", "S": ["conjuration ", "invocation ", "summons "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 335165, "D": "not set apart or voted for some purpose or use, as money, revenues, etc.", "S": [], "A": []}

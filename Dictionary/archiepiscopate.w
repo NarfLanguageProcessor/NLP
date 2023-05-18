@@ -1,0 +1,1 @@
+{"index": 18942, "D": "the tenure of office of an archbishop.", "S": [], "A": []}

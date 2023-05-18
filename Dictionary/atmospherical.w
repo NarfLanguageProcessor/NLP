@@ -1,0 +1,1 @@
+{"index": 22717, "D": "pertaining to, existing in, or consisting of the atmosphere", "S": [], "A": []}

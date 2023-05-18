@@ -1,0 +1,1 @@
+{"index": 273528, "D": "(chiefly of horses) of the color sorrel, chestnut, or bay, sprinkled with gray or white.", "S": ["horse "], "A": []}

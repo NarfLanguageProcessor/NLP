@@ -1,0 +1,1 @@
+{"index": 343857, "D": "full of hope;  expressing hope", "S": [], "A": []}

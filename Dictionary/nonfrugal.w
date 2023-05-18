@@ -1,0 +1,1 @@
+{"index": 204201, "D": "economical in use or expenditure; prudently saving or sparing; not wasteful", "S": [], "A": []}

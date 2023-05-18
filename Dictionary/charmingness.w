@@ -1,0 +1,1 @@
+{"index": 52912, "D": "pleasing; delightful", "S": ["allure ", "charm "], "A": ["denial ", "disavowal ", "disclaimer ", "refusal ", "retraction ", "revocation ", "ugliness "]}

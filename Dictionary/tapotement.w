@@ -1,0 +1,1 @@
+{"index": 316408, "D": "the use of various light, quick chopping, slapping, or beating strokes on the body during massage.", "S": [], "A": []}

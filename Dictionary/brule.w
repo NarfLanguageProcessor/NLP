@@ -1,0 +1,1 @@
+{"index": 41734, "D": "(in the Pacific Northwest) an area of forest destroyed by fire.", "S": [], "A": []}

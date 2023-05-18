@@ -1,0 +1,1 @@
+{"index": 369356, "D": "any of various enzyme precursor molecules that may change into an enzyme as a result of catalytic change.", "S": [], "A": []}

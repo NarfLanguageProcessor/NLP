@@ -1,0 +1,1 @@
+{"index": 301037, "D": "a person or thing that sports,  as a participant in a sport. ", "S": [], "A": []}

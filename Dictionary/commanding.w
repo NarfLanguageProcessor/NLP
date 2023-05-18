@@ -1,0 +1,1 @@
+{"index": 63883, "D": "being in command", "S": ["assertive ", "compelling ", "decisive ", "dominant ", "dominating ", "forceful ", "imposing ", "impressive ", "lofty "], "A": ["humble ", "ineffective ", "modest ", "secondary ", "subordinate ", "unimportant ", "unimpressive ", "weak "]}

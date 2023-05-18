@@ -1,0 +1,1 @@
+{"index": 51694, "D": "forming mats; growing in dense tufts.", "S": [], "A": []}

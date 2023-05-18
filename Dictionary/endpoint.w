@@ -1,0 +1,1 @@
+{"index": 100070, "D": "the point  on each side of an interval marking its extremity on that side.", "S": ["apocalypse ", "bane ", "coup de gr\u00e2ce ", "cutoff ", "death knell ", "deathblow ", "doom ", "end of the world ", "fate ", "final blow "], "A": []}

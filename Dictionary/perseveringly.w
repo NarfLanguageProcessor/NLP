@@ -1,0 +1,1 @@
+{"index": 231906, "D": "displaying perseverance; resolutely persistent; steadfast", "S": ["ardently ", "assiduously ", "carefully ", "diligently ", "eagerly ", "earnestly ", "energetically ", "enthusiastically ", "hastily ", "hurriedly ", "laboriously ", "nimbly ", "painstakingly ", "purposefully ", "restlessly ", "vigorously "], "A": ["idly ", "inactively ", "quietly "]}

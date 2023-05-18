@@ -1,0 +1,1 @@
+{"index": 327442, "D": "capable of being trained. ", "S": ["amenable ", "apt ", "bright ", "docile ", "eager ", "intelligent ", "qualified ", "skilled ", "smart "], "A": []}

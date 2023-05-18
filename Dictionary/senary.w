@@ -1,0 +1,1 @@
+{"index": 285206, "D": "of or relating to the number six.", "S": ["hexadic ", "hexagonal ", "semestral ", "sextuple "], "A": []}

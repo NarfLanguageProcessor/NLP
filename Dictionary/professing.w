@@ -1,0 +1,1 @@
+{"index": 251699, "D": "to lay claim to, often insincerely; pretend to", "S": ["acknowledge ", "admit ", "affirm ", "avow ", "confess ", "feign ", "pretend ", "proclaim ", "stump "], "A": ["conceal ", "deny ", "disavow ", "disown ", "dispute ", "hide ", "refuse ", "renounce ", "repudiate ", "be quiet ", "contradict ", "invalidate ", "question ", "reject "]}

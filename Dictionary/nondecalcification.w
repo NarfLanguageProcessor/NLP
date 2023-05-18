@@ -1,0 +1,1 @@
+{"index": 202705, "D": "the act or process of decalcifying. ", "S": [], "A": []}

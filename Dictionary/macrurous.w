@@ -1,0 +1,1 @@
+{"index": 177112, "D": "long-tailed, as a lobster (opposed to brachyurous).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 16674, "D": "the point at which the stars of a binary system are farthest apart (opposed to periastron).", "S": [], "A": []}

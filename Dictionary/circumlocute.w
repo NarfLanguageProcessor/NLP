@@ -1,0 +1,1 @@
+{"index": 58156, "D": [], "S": ["avert ", "bypass ", "dodge ", "escape ", "evade ", "fend off ", "shun ", "sidestep ", "ward off "], "A": ["face ", "meet ", "allow ", "help ", "permit ", "stay ", "take on "]}

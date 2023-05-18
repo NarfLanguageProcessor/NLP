@@ -1,0 +1,1 @@
+{"index": 103378, "D": "having wheels all of the same size or diameter, as a vehicle.", "S": [], "A": []}

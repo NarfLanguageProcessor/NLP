@@ -1,0 +1,1 @@
+{"index": 300815, "D": "a structure projecting from the side or main deck of a vessel to support a gun or the outer edge of a paddle box.", "S": [], "A": []}

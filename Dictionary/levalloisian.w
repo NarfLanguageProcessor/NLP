@@ -1,0 +1,1 @@
+{"index": 171167, "D": "of, relating to, or characteristic of a distinctive late Lower and Middle Paleolithic method of preparing a stone core so that preformed thin, oval or triangular flakes with sharp edges could be struck from it.", "S": [], "A": []}

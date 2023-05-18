@@ -1,0 +1,1 @@
+{"index": 207053, "D": "a searching examination or investigation; minute inquiry.", "S": [], "A": []}

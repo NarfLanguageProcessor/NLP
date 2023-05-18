@@ -1,0 +1,1 @@
+{"index": 262743, "D": "ability, willingness, or quickness to receive or accept ideas, requests, experiences, etc.", "S": ["acceptance ", "broad-mindedness ", "impartiality ", "interest ", "observance ", "receptivity ", "responsiveness ", "tolerance ", "understanding "], "A": ["disagreement ", "disbelief "]}

@@ -1,0 +1,1 @@
+{"index": 184975, "D": "pertaining to or noting a story, conversation, character, etc., that consciously references or comments upon its own subject or features, often in the form of parody", "S": [], "A": []}

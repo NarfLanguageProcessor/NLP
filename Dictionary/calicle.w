@@ -1,0 +1,1 @@
+{"index": 45105, "D": "a cuplike depression or formation, as in corals.", "S": [], "A": []}

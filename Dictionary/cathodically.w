@@ -1,0 +1,1 @@
+{"index": 49714, "D": "pertaining to a cathode  or phenomena in its vicinity.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 150446, "D": "so extraordinary as to seem impossible", "S": ["absurd ", "improbable ", "inconceivable ", "preposterous ", "ridiculous ", "unbelievable ", "unimaginable "], "A": ["believable ", "imaginable ", "plausible ", "reasonable ", "sensible "]}

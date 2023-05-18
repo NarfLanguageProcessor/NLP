@@ -1,0 +1,1 @@
+{"index": 79277, "D": "the state of being deficient;  lack; incompleteness; insufficiency.", "S": [], "A": []}

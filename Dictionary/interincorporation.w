@@ -1,0 +1,1 @@
+{"index": 155053, "D": "the act of incorporating  or the state of being incorporated. ", "S": [], "A": []}

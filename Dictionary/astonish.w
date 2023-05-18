@@ -1,0 +1,1 @@
+{"index": 22141, "D": "to fill with sudden and overpowering surprise or wonder; amaze", "S": ["amaze ", "astound ", "bewilder ", "boggle ", "confound ", "daze ", "dumbfound ", "flabbergast ", "overwhelm ", "shock ", "startle ", "stun ", "stupefy "], "A": ["clear up ", "expect ", "explain "]}

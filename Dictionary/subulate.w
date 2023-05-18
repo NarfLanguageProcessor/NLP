@@ -1,0 +1,1 @@
+{"index": 309634, "D": "slender, somewhat cylindrical, and tapering to a point; awl-shaped.", "S": [], "A": []}

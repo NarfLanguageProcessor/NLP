@@ -1,0 +1,1 @@
+{"index": 38401, "D": "of or relating to the north wind.", "S": ["arctic ", "freezing ", "frosty ", "glacial ", "icy ", "polar "], "A": []}

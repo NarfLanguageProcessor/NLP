@@ -1,0 +1,1 @@
+{"index": 150427, "D": "to make (a liquid) thicker by addition of another substance or by evaporation.", "S": ["agglomeration ", "concentration ", "concretion ", "condensation ", "congelation ", "consolidation ", "curdling ", "embolism ", "inspissation ", "thickening "], "A": ["dispersal ", "separation "]}

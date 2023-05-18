@@ -1,0 +1,1 @@
+{"index": 338111, "D": "to lay bare; disclose; reveal.", "S": ["bring to light ", "crack ", "discover ", "divulge ", "expose ", "unearth "], "A": ["conceal ", "hide ", "cover ", "secret "]}

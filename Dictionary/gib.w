@@ -1,0 +1,1 @@
+{"index": 124640, "D": "a hooked prolongation that develops during the spawning season on the lower jaw of a male salmon or trout.", "S": [], "A": []}

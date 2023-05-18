@@ -1,0 +1,1 @@
+{"index": 186696, "D": "Compare endhand, forehand (def. 7). ", "S": [], "A": []}

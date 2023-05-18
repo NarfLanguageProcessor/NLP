@@ -1,0 +1,1 @@
+{"index": 304614, "D": "to hinder, block, or thwart.", "S": ["choke off ", "crimp ", "foil ", "impede ", "obstruct ", "stall ", "stonewall ", "thwart "], "A": ["abet ", "advance ", "aid ", "assist ", "forward ", "help ", "support ", "allow ", "clarify ", "clear up ", "enlighten ", "explain ", "explicate ", "let go ", "release "]}

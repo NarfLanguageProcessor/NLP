@@ -1,0 +1,1 @@
+{"index": 327039, "D": "the tube in humans and other air-breathing vertebrates extending from the larynx to the bronchi, serving as the principal passage for conveying air to and from the lungs; the windpipe.", "S": ["esophagus ", "larynx "], "A": []}

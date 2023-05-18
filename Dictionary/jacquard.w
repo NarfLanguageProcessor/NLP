@@ -1,0 +1,1 @@
+{"index": 160013, "D": "a fabric with an elaborately woven pattern produced on a Jacquard loom. ", "S": [], "A": []}

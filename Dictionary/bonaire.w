@@ -1,0 +1,1 @@
+{"index": 37768, "D": "an island in the E Netherlands Antilles, in the S West Indies. 95 sq. mi. (245 sq. km).", "S": [], "A": []}

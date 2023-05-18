@@ -1,0 +1,1 @@
+{"index": 222031, "D": "equality, esp in financial transactions", "S": [], "A": []}

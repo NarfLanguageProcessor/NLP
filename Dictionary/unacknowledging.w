@@ -1,0 +1,1 @@
+{"index": 334501, "D": "to admit to be real or true; recognize the existence, truth, or fact of", "S": [], "A": []}

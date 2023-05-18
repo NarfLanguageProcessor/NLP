@@ -1,0 +1,1 @@
+{"index": 140351, "D": "an abnormally acute sense of smell.", "S": [], "A": []}

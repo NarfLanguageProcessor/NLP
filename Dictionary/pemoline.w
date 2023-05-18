@@ -1,0 +1,1 @@
+{"index": 229473, "D": "a synthetic, weak, central nervous system stimulant, C9H8N2O2, with sympathomimetic activity, used as an adjunct in the management of hyperkinetic behavior disorders.", "S": [], "A": []}

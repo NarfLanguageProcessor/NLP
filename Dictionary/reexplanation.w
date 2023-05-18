@@ -1,0 +1,1 @@
+{"index": 264883, "D": "the act or process of explaining. ", "S": [], "A": []}

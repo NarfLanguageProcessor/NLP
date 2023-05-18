@@ -1,0 +1,1 @@
+{"index": 114745, "D": "an iron or steel plate  for reinforcing a flitch beam. ", "S": [], "A": []}

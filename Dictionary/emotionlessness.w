@@ -1,0 +1,1 @@
+{"index": 98665, "D": [], "S": ["indifference ", "insensitivity ", "lethargy "], "A": ["interest "]}

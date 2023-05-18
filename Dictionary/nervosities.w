@@ -1,0 +1,1 @@
+{"index": 198768, "D": "the quality of being nervous; nervousness. ", "S": [], "A": []}

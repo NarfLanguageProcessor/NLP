@@ -1,0 +1,1 @@
+{"index": 267719, "D": "a formal notifying  or informing.", "S": [], "A": []}

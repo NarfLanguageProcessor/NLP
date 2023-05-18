@@ -1,0 +1,1 @@
+{"index": 3845, "D": "any substance bonded to another by an adhesive.", "S": [], "A": []}

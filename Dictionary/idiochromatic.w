@@ -1,0 +1,1 @@
+{"index": 146464, "D": "(of a mineral) deriving a characteristic color from its capacity to absorb certain light rays.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 92410, "D": "a person who dozes. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 209879, "D": "loose fiber obtained by untwisting and picking apart old ropes, used for caulking the seams of ships.", "S": [], "A": []}

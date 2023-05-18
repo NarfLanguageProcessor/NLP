@@ -1,0 +1,1 @@
+{"index": 346267, "D": "any knit, woven, or knotted fabric of open texture.", "S": [], "A": []}

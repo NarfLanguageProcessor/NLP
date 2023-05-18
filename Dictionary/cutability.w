@@ -1,0 +1,1 @@
+{"index": 75736, "D": "the lean yield of a beef carcass", "S": [], "A": []}

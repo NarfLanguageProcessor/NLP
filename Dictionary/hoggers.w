@@ -1,0 +1,1 @@
+{"index": 142249, "D": "a person or thing that hogs. ", "S": [], "A": []}

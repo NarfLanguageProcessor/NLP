@@ -1,0 +1,1 @@
+{"index": 270978, "D": "to go or come back, as to a former place, position, or state", "S": ["rebound ", "retreat ", "return ", "revolving ", "rotating "], "A": []}

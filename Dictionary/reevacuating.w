@@ -1,0 +1,1 @@
+{"index": 264823, "D": "to leave empty; vacate. ", "S": [], "A": []}

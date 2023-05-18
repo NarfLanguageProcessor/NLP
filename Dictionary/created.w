@@ -1,0 +1,1 @@
+{"index": 72420, "D": "having come into being as the result of action or someone\u2019s creative  process", "S": ["assembled ", "completed ", "constructed ", "fabricated ", "finished ", "made ", "manufactured ", "produced "], "A": ["flat ", "puny ", "skinny ", "weak "]}

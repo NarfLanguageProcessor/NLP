@@ -1,0 +1,1 @@
+{"index": 43335, "D": "a person or thing that bursts. ", "S": [], "A": []}

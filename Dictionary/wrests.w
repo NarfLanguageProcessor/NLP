@@ -1,0 +1,1 @@
+{"index": 367940, "D": "to twist or turn; pull, jerk, or force by a violent twist.", "S": ["exact ", "extort ", "extract ", "seize ", "usurp ", "wrench ", "wring "], "A": ["give "]}

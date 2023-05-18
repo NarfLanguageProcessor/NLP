@@ -1,0 +1,1 @@
+{"index": 87142, "D": "to disclaim knowledge of, connection with, or responsibility for; disown; repudiate", "S": [], "A": []}

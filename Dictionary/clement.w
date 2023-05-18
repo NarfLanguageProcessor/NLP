@@ -1,0 +1,1 @@
+{"index": 59758, "D": "mild or merciful in disposition or character; lenient; compassionate", "S": ["balmy ", "clear ", "fair ", "fine ", "moderate ", "peaceful ", "temperate ", "warm "], "A": ["hard ", "hard-hearted ", "harsh ", "mean ", "severe ", "unforgiving ", "violent "]}

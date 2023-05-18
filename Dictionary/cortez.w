@@ -1,0 +1,1 @@
+{"index": 69837, "D": "(in Spain or Portugal) the two houses constituting the national legislative body.", "S": [], "A": []}

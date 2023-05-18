@@ -1,0 +1,1 @@
+{"index": 262874, "D": "by or from one to the other; in a way that involves equal exchange between two people or groups; mutually", "S": ["conversely ", "mutually ", "vice versa "], "A": []}

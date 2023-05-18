@@ -1,0 +1,1 @@
+{"index": 9821, "D": "any variety of the sour cherry, Prunus cerasus, having colorless juice.", "S": [], "A": []}

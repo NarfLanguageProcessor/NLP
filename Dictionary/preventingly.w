@@ -1,0 +1,1 @@
+{"index": 250163, "D": "to keep from occurring; avert; hinder", "S": [], "A": []}

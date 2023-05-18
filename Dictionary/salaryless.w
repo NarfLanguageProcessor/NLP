@@ -1,0 +1,1 @@
+{"index": 276961, "D": "a fixed compensation periodically paid to a person for regular work or services.", "S": [], "A": []}

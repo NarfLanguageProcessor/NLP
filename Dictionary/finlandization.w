@@ -1,0 +1,1 @@
+{"index": 113040, "D": "the neutralization of a country in terms of its allegiance to the superpowers, in the way that the Soviet Union rendered Finland  neutral and friendly without making it a satellite state or requiring that it adopt Communism.", "S": [], "A": []}

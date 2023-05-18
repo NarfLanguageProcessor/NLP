@@ -1,0 +1,1 @@
+{"index": 304135, "D": "any of a group of solid, mostly unsaturated, polycyclic alcohols, as cholesterol andergosterol,  derived from plants or animals.", "S": [], "A": []}

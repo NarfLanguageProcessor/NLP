@@ -1,0 +1,1 @@
+{"index": 268355, "D": "to make smooth and glossy, especially by rubbing or friction", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 140474, "D": "pertaining to, like, or befitting a saint", "S": [], "A": []}

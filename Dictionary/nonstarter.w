@@ -1,0 +1,1 @@
+{"index": 207498, "D": "an issue, plan, etc., that does not get or deserve to get under way.", "S": ["loser "], "A": []}

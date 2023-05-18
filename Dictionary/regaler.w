@@ -1,0 +1,1 @@
+{"index": 265507, "D": "to entertain lavishly or agreeably; delight. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 34188, "D": "any of various twining or vinelike plants, especially certain species of the genera Convolvulus and Calystegia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 48111, "D": "(in certain inflected languages, especially of the Caucasian group) abessive (def. 1). ", "S": [], "A": []}

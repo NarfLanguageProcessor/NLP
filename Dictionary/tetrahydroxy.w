@@ -1,0 +1,1 @@
+{"index": 320067, "D": "(of a molecule) containing four hydroxyl groups.", "S": [], "A": []}

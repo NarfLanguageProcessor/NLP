@@ -1,0 +1,1 @@
+{"index": 230245, "D": "lively spirits or energy; vigor; animation.", "S": ["gusto ", "starch ", "verve "], "A": ["apathy ", "discouragement ", "idleness ", "inactivity ", "laziness ", "lethargy "]}

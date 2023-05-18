@@ -1,0 +1,1 @@
+{"index": 122276, "D": "a body of troops stationed in a fortified place.", "S": ["capture ", "conquer ", "hold ", "invade ", "keep ", "overrun "], "A": ["abandon ", "give up ", "let go ", "release ", "retreat ", "surrender ", "yield "]}

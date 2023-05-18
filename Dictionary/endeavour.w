@@ -1,0 +1,1 @@
+{"index": 99630, "D": "to try (to do something)", "S": ["aim ", "effort ", "enterprise ", "struggle ", "undertaking ", "venture "], "A": ["idleness ", "inactivity ", "passivity ", "entertainment ", "fun ", "pastime ", "peace "]}

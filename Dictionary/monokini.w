@@ -1,0 +1,1 @@
+{"index": 192376, "D": "a close-fitting one-piece bathing suit with cutouts that reveal large areas of skin.", "S": [], "A": []}

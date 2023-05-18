@@ -1,0 +1,1 @@
+{"index": 339018, "D": "interested or affected", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 325181, "D": "an establishment where toys  are sold and sometimes also manufactured.", "S": [], "A": []}

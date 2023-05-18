@@ -1,0 +1,1 @@
+{"index": 104478, "D": "a short literary composition on a particular theme or subject, usually in prose and generally analytic, speculative, or interpretative.", "S": ["article ", "discussion ", "dissertation ", "manuscript ", "paper ", "piece ", "study ", "thesis ", "treatise "], "A": ["idleness ", "pass "]}

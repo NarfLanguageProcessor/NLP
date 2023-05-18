@@ -1,0 +1,1 @@
+{"index": 67920, "D": "the act of conveying; transmission; communication.", "S": ["car ", "carriage ", "communication ", "machine ", "movement ", "transfer ", "transference ", "transmission ", "transportation ", "vehicle "], "A": ["hold ", "possession "]}

@@ -1,0 +1,1 @@
+{"index": 21315, "D": [], "S": ["appeal ", "application ", "call ", "demand ", "desire ", "inquiry ", "invitation ", "offer ", "suit "], "A": ["answer ", "refusal ", "reply "]}

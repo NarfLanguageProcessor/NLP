@@ -1,0 +1,1 @@
+{"index": 189552, "D": "deceptive; tending to mislead. ", "S": ["ambiguous ", "deceitful ", "disingenuous ", "evasive ", "false ", "inaccurate ", "puzzling ", "wrong "], "A": ["accurate ", "correct ", "frank ", "honest ", "right ", "sincere ", "straight ", "truthful "]}

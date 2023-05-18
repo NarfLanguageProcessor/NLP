@@ -1,0 +1,1 @@
+{"index": 114626, "D": "without material strength or solidity", "S": ["outwardly "], "A": ["carefully ", "deeply ", "thoroughly "]}

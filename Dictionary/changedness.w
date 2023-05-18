@@ -1,0 +1,1 @@
+{"index": 52479, "D": "to make the form, nature, content, future course, etc., of (something) different from what it is or from what it would be if left alone", "S": [], "A": []}

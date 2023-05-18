@@ -1,0 +1,1 @@
+{"index": 55346, "D": "mine atmosphere so low in oxygen and high in carbon dioxide as to cause choking. ", "S": [], "A": []}

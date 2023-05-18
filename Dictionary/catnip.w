@@ -1,0 +1,1 @@
+{"index": 49792, "D": "a plant, Nepeta cataria, of the mint family, having egg-shaped leaves containing aromatic oils that are a cat attractant.", "S": [], "A": []}

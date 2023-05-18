@@ -1,0 +1,1 @@
+{"index": 261887, "D": "to come into sight; become visible", "S": ["exchanged ", "rebounded ", "refunded ", "repaid ", "repeated ", "reverberated ", "revolved "], "A": ["held ", "kept ", "retained "]}

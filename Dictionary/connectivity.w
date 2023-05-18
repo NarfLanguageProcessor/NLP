@@ -1,0 +1,1 @@
+{"index": 66516, "D": "the state or quality of being connected or connective", "S": ["connectedness ", "relatedness "], "A": ["detachment ", "disconnectedness ", "disjunction "]}

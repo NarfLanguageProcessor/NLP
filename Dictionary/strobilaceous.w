@@ -1,0 +1,1 @@
+{"index": 306418, "D": "resembling a strobilus; conelike.", "S": [], "A": []}

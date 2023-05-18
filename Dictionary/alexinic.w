@@ -1,0 +1,1 @@
+{"index": 7971, "D": "complement (def. 10). ", "S": [], "A": []}

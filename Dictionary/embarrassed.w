@@ -1,0 +1,1 @@
+{"index": 98002, "D": "to cause confusion and shame to; make uncomfortably self-conscious; disconcert; abash", "S": ["ashamed "], "A": ["composed "]}

@@ -1,0 +1,1 @@
+{"index": 170277, "D": "a spearlike implement having three or more prongs, for use in spearing fish.", "S": [], "A": []}

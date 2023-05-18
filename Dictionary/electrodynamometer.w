@@ -1,0 +1,1 @@
+{"index": 97032, "D": "an instrument that uses the interaction between the magnetic fields produced by the currents in two coils or sets of coils to measure current, voltage, or power.", "S": [], "A": []}

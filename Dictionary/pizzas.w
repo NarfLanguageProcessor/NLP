@@ -1,0 +1,1 @@
+{"index": 238498, "D": "a flat, open-faced baked pie of Italian origin, consisting of a thin layer of bread dough topped with spiced tomato sauce and cheese, often garnished with anchovies, sausage slices, mushrooms, etc.", "S": [], "A": []}

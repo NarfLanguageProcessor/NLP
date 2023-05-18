@@ -1,0 +1,1 @@
+{"index": 70485, "D": "a sleeping berth in a passenger compartment that can be collapsed to form a benchlike seat for daytime use.", "S": [], "A": []}

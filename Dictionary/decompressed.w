@@ -1,0 +1,1 @@
+{"index": 78636, "D": "to cause to undergo decompression. ", "S": [], "A": []}

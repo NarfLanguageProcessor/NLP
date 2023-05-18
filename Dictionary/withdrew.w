@@ -1,0 +1,1 @@
+{"index": 366598, "D": "the simple past tense of withdraw. ", "S": ["depart ", "disengage ", "drop out ", "eliminate ", "go ", "leave ", "pull back ", "pull out ", "quit ", "retire ", "retreat "], "A": ["begin ", "come ", "continue ", "engage ", "enter ", "join ", "keep ", "persevere ", "stay ", "arrive ", "combine ", "come in ", "face ", "meet ", "unite "]}

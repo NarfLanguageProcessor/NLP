@@ -1,0 +1,1 @@
+{"index": 149191, "D": "not provident;  lacking foresight; incautious; unwary.", "S": ["carelessness ", "neglect ", "shortsightedness ", "waste ", "wastefulness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 34535, "D": "a device that senses and transmits information about a biological process, as blood pressure, of an individual under observation.", "S": [], "A": []}

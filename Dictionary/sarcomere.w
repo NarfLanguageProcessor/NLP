@@ -1,0 +1,1 @@
+{"index": 278383, "D": "any of the segments of myofibril in striated muscle fibers.", "S": [], "A": []}

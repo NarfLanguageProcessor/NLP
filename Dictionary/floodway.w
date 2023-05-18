@@ -1,0 +1,1 @@
+{"index": 114923, "D": "the channel and adjacent shore areas under water during a flood,  especially as determined for a flood of a given height.", "S": [], "A": []}

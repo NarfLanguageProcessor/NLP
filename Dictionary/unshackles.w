@@ -1,0 +1,1 @@
+{"index": 350879, "D": "to free from shackles;  unfetter.", "S": ["release "], "A": ["harm ", "hold ", "hurt ", "imprison "]}

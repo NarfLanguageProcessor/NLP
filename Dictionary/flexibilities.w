@@ -1,0 +1,1 @@
+{"index": 114491, "D": "the ability to bend easily or without breaking", "S": ["resilience "], "A": ["constraint ", "inelasticity ", "inflexibility ", "resistance "]}

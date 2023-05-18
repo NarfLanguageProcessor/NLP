@@ -1,0 +1,1 @@
+{"index": 240724, "D": "of or relating to air, gases, or wind.", "S": [], "A": []}

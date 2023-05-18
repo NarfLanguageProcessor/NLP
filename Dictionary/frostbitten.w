@@ -1,0 +1,1 @@
+{"index": 119416, "D": "injured by frost or extreme cold.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 323031, "D": "producing thunder  or a loud noise like thunder", "S": [], "A": []}

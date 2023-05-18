@@ -1,0 +1,1 @@
+{"index": 3273, "D": "a person who acts  in stage plays, motion pictures, television broadcasts, etc.", "S": ["artist ", "character ", "clown ", "comedian ", "entertainer ", "performer ", "player ", "star ", "villain "], "A": ["audience ", "fan "]}

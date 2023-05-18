@@ -1,0 +1,1 @@
+{"index": 78504, "D": "an instrument for measuring magnetic declination.", "S": [], "A": []}

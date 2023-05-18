@@ -1,0 +1,1 @@
+{"index": 364921, "D": "one of a breed of small, swift dogs resembling a greyhound, used for hunting rabbits and for racing.", "S": [], "A": []}

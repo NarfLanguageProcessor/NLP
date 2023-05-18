@@ -1,0 +1,1 @@
+{"index": 235152, "D": "a silhouette photograph made by placing an object directly on sensitized paper and exposing it to light.", "S": [], "A": []}

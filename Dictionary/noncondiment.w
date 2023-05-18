@@ -1,0 +1,1 @@
+{"index": 202242, "D": "something used to give a special flavor to food, as mustard, ketchup, salt, or spices.", "S": [], "A": []}

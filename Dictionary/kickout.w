@@ -1,0 +1,1 @@
+{"index": 164435, "D": [], "S": ["ax ", "boot ", "bounce ", "can ", "cashier ", "chase ", "chuck ", "discharge ", "dismiss ", "drop ", "eject ", "evict ", "expel ", "extrude ", "fire ", "oust ", "out ", "reject ", "remove ", "sack ", "throw out ", "toss out "], "A": ["allow ", "hold ", "keep "]}

@@ -1,0 +1,1 @@
+{"index": 95964, "D": "producing or capable of producing an intended effect; adequate. ", "S": ["effective ", "efficacious "], "A": ["incapable ", "unproductive ", "useless "]}

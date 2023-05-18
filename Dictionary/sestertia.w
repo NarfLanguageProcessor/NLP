@@ -1,0 +1,1 @@
+{"index": 286594, "D": "a money of account of ancient Rome, equal to 1000 sesterces.", "S": [], "A": []}

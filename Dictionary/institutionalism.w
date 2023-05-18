@@ -1,0 +1,1 @@
+{"index": 153938, "D": "the system of institutions or organized societies devoted to public, charitable, or similar purposes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227593, "D": "characterized by or made up of patches. ", "S": [], "A": []}

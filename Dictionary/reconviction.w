@@ -1,0 +1,1 @@
+{"index": 263473, "D": "a fixed or firm belief", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 76474, "D": "to waste time; loiter; delay.", "S": ["connoisseur "], "A": ["professional "]}

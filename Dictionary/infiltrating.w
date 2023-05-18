@@ -1,0 +1,1 @@
+{"index": 152005, "D": "to filter into or through; permeate. ", "S": ["inbound "], "A": ["outgoing ", "outward ", "public "]}

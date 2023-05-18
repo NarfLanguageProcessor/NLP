@@ -1,0 +1,1 @@
+{"index": 1342, "D": "a seaport and resort in SW Mexico, on the Pacific.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 267380, "D": "a remaining, usually small part, quantity, number, or the like.", "S": [], "A": []}

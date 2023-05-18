@@ -1,0 +1,1 @@
+{"index": 84097, "D": "the six Macedonian generals who, after the death of Alexander the Great, fought for control of his empire in the Wars of the Diadochi (321\u2013281 bc)", "S": [], "A": []}

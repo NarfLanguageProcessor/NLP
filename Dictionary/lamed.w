@@ -1,0 +1,1 @@
+{"index": 167625, "D": "the 12th letter of the Hebrew alphabet.", "S": ["cripple ", "disable ", "immobilize ", "maim ", "paralyze "], "A": ["aid ", "assist ", "enable ", "help ", "allow ", "assuage ", "permit ", "please ", "soothe ", "strengthen "]}

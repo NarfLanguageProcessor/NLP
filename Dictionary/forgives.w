@@ -1,0 +1,1 @@
+{"index": 117252, "D": "to grant pardon for or remission of (an offense, debt, etc.); absolve.", "S": ["absolve ", "condone ", "excuse ", "forget "], "A": ["condemn ", "accuse ", "blame ", "hold ", "increase ", "keep ", "maintain ", "sentence "]}

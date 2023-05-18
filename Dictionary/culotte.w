@@ -1,0 +1,1 @@
+{"index": 74773, "D": "women's pants, usually knee-length or calf-length, cut full to resemble a skirt.", "S": ["dress ", "kilt ", "petticoat ", "sarong "], "A": ["center ", "inside ", "interior ", "middle "]}

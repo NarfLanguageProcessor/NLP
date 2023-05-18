@@ -1,0 +1,1 @@
+{"index": 341693, "D": "to free from an obligation or liability to which others are subject; release", "S": [], "A": []}

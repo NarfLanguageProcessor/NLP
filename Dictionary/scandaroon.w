@@ -1,0 +1,1 @@
+{"index": 279560, "D": "a large variety of fancy pigeon having a long thin body and an elongated neck and head", "S": [], "A": []}

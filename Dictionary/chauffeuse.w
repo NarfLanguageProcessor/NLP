@@ -1,0 +1,1 @@
+{"index": 53173, "D": "a fireside chair having a low seat and a high back.", "S": [], "A": []}

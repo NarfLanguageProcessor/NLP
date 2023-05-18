@@ -1,0 +1,1 @@
+{"index": 277871, "D": "(in India) an association or union, esp a political or labour organization", "S": [], "A": []}

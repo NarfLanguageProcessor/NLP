@@ -1,0 +1,1 @@
+{"index": 273504, "D": "road (def. 4). ", "S": ["dock ", "harbor ", "haven ", "port ", "refuge ", "slip ", "wharf "], "A": []}

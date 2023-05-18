@@ -1,0 +1,1 @@
+{"index": 338088, "D": "possessing or characterized by courage;  brave", "S": [], "A": []}

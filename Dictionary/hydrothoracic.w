@@ -1,0 +1,1 @@
+{"index": 139009, "D": "the presence of serous fluid in one or both pleural cavities.", "S": [], "A": []}

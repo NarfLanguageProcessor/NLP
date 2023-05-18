@@ -1,0 +1,1 @@
+{"index": 365194, "D": "a composition, as of lime  and water or of whiting, size,  and water, used for whitening walls, woodwork, etc.", "S": [], "A": []}

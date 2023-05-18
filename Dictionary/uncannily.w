@@ -1,0 +1,1 @@
+{"index": 336443, "D": "having or seeming to have a supernatural or inexplicable basis; beyond the ordinary or normal; extraordinary", "S": [], "A": []}

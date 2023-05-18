@@ -1,0 +1,1 @@
+{"index": 283376, "D": "(of an animal) represented in a sitting posture", "S": [], "A": []}

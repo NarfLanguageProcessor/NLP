@@ -1,0 +1,1 @@
+{"index": 32960, "D": "having whiskers; bearded.", "S": ["shaggy ", "unshaven "], "A": []}

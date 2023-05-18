@@ -1,0 +1,1 @@
+{"index": 120896, "D": "ornamentation with gadroons. ", "S": [], "A": []}

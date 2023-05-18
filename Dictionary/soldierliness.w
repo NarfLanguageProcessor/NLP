@@ -1,0 +1,1 @@
+{"index": 296575, "D": "of, like, or befitting a soldier. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 207269, "D": "the act or state of feeling sorrow or compassion for another", "S": [], "A": []}

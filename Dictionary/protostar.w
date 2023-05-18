@@ -1,0 +1,1 @@
+{"index": 253853, "D": "an early stage in the evolution of a star,  after the beginning of the collapse of the gas cloud from which it is formed, but before sufficient contraction has occurred to permit initiation of nuclear reactions at its core.", "S": [], "A": []}

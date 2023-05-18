@@ -1,0 +1,1 @@
+{"index": 179352, "D": "(among the Algonquian people) a supernatural being that controls nature; a spirit, deity, or object that possesses supernatural power.", "S": [], "A": []}

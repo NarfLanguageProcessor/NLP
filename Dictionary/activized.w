@@ -1,0 +1,1 @@
+{"index": 3268, "D": "to make active;  activate.", "S": ["animate ", "electrify ", "empower ", "excite ", "invigorate ", "motivate ", "reinforce ", "stimulate ", "strengthen ", "trigger "], "A": ["bore ", "calm ", "deaden ", "depress ", "discourage ", "dishearten ", "dissuade ", "dull ", "weaken ", "halt ", "stop "]}

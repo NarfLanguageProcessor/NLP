@@ -1,0 +1,1 @@
+{"index": 191462, "D": "a person who sexually assaults someone, especially a child", "S": [], "A": []}

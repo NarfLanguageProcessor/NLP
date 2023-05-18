@@ -1,0 +1,1 @@
+{"index": 209633, "D": "the doubling, in writing, of the final vowel symbol to indicate the addition, in speech, of the indefinite suffix n to certain nouns.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97211, "D": "an instrument for generating static electricity by means of induction.", "S": [], "A": []}

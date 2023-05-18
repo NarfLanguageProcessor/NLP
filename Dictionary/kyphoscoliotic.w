@@ -1,0 +1,1 @@
+{"index": 165027, "D": "a condition in which the spinal column is convex both backward and sideways.", "S": [], "A": []}

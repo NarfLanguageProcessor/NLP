@@ -1,0 +1,1 @@
+{"index": 310949, "D": "like or characteristic of summer;  summery", "S": ["mild ", "moist ", "pleasant ", "temperate ", "tropical "], "A": ["autumnal ", "cool ", "freezing ", "inclement ", "sweltering ", "torrid "]}

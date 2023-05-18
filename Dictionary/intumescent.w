@@ -1,0 +1,1 @@
+{"index": 156916, "D": "a swelling up, as with congestion.", "S": ["distended ", "tumefied "], "A": ["deflated ", "shrunken "]}

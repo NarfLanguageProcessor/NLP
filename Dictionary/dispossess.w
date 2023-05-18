@@ -1,0 +1,1 @@
+{"index": 89154, "D": "to put (a person) out of possession, especially of real property; oust.", "S": ["evict "], "A": ["give ", "keep ", "take in "]}

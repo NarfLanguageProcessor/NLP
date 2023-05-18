@@ -1,0 +1,1 @@
+{"index": 14755, "D": "of or relating to any substance that prevents, inhibits, or alleviates heartbeat irregularities.", "S": [], "A": []}

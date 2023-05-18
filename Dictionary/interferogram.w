@@ -1,0 +1,1 @@
+{"index": 154934, "D": "a photographic record of light interference patterns produced with an interferometer, used for recording shock waves and fluid flow patterns.", "S": [], "A": []}

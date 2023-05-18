@@ -1,0 +1,1 @@
+{"index": 49003, "D": "a member of an ancient people related to the Elamites, who ruled Babylonia from c1650 to c1100 b.c.", "S": [], "A": []}

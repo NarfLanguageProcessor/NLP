@@ -1,0 +1,1 @@
+{"index": 185778, "D": "a contemptuous term for a person of Irish birth or descent.", "S": [], "A": []}

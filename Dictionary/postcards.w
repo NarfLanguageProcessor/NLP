@@ -1,0 +1,1 @@
+{"index": 243965, "D": "a small, commercially printed card,  usually having a picture on one side and space for a short message on the other.", "S": ["card ", "communication ", "dispatch ", "invite ", "kite ", "line ", "memo ", "message ", "missive ", "note ", "scratch ", "tab "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 366064, "D": "toward the wind;  toward the point from which the wind  blows.", "S": [], "A": []}

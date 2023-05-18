@@ -1,0 +1,1 @@
+{"index": 308613, "D": "the abstraction, in topology, of a subsequence.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 122171, "D": "open shrubby vegetation of dry Mediterranean regions, consisting of spiny or aromatic dwarf shrubs interspersed with colourful ephemeral species", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 36641, "D": "a sudden, hard stroke with a hand, fist, or weapon", "S": ["battle ", "campaigning ", "clash ", "combat ", "competition ", "discord ", "fighting ", "rivalry ", "strife ", "struggle ", "war "], "A": ["ceasefire ", "peace ", "surrender ", "truce "]}

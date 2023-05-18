@@ -1,0 +1,1 @@
+{"index": 166927, "D": "cut into narrow, irregular lobes; slashed; jagged.", "S": [], "A": []}

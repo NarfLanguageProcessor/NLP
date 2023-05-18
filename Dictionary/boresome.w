@@ -1,0 +1,1 @@
+{"index": 38425, "D": "tedious; dull; wearisome; boring. ", "S": ["annoying ", "boring ", "dull ", "exhausting ", "ho-hum ", "laborious ", "monotonous ", "onerous ", "tedious ", "tired ", "tiring ", "uninteresting "], "A": ["active ", "easy ", "eventful ", "exciting ", "interesting ", "light ", "lively ", "trivial "]}

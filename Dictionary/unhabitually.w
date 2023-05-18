@@ -1,0 +1,1 @@
+{"index": 343420, "D": "as a habit, or an established way of being or acting; routinely or regularly", "S": [], "A": []}

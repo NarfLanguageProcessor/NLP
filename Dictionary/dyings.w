@@ -1,0 +1,1 @@
+{"index": 85602, "D": "ceasing to live; approaching death;  expiring", "S": ["death ", "decease ", "dying ", "eternal rest ", "eternal sleep ", "final sleep ", "gravepassing ", "last rest ", "last sleep "], "A": []}

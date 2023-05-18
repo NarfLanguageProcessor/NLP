@@ -1,0 +1,1 @@
+{"index": 204107, "D": "continual change from one point or condition to another.", "S": [], "A": []}

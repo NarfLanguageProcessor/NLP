@@ -1,0 +1,1 @@
+{"index": 208016, "D": "a formal agreement between two or more states in reference to peace, alliance, commerce, or other international relations.", "S": [], "A": []}

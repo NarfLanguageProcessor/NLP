@@ -1,0 +1,1 @@
+{"index": 289056, "D": "to rock or sway to and fro", "S": [], "A": []}

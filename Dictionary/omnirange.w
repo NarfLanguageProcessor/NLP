@@ -1,0 +1,1 @@
+{"index": 212546, "D": "a radio navigational aid in which stations emit distinctive signals on each of 360 degrees, giving the bearing of each degree with reference to magnetic north.", "S": [], "A": []}

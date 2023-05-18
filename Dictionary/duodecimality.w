@@ -1,0 +1,1 @@
+{"index": 94252, "D": "pertaining to twelfths or to the number 12.", "S": [], "A": []}

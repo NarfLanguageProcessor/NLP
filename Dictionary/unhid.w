@@ -1,0 +1,1 @@
+{"index": 343700, "D": "simple past tense and a past participle of hide1. ", "S": [], "A": []}

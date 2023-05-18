@@ -1,0 +1,1 @@
+{"index": 305886, "D": "a cloud of a class characterized by large dark, rounded masses, usually in groups, lines, or waves, the individual elements being larger than those in altocumulus and the whole being at a lower altitude, usually below 8,000 feet (2,400 meters).", "S": [], "A": []}

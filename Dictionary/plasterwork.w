@@ -1,0 +1,1 @@
+{"index": 239235, "D": "finish or ornamental work  done in plaster. ", "S": [], "A": []}

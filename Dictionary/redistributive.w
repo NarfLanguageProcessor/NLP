@@ -1,0 +1,1 @@
+{"index": 264301, "D": "favoring, supporting, or practicing income redistribution", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 159702, "D": "a tentlike dwelling of the Mongol and Turkic peoples of central Asia, consisting of a cylindrical wall of poles in a lattice arrangement with a conical roof of poles, both covered by felt or skins.", "S": ["canvas ", "pavilion "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349680, "D": "to free or deliver from confinement, danger, or difficulty", "S": [], "A": []}

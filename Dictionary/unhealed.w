@@ -1,0 +1,1 @@
+{"index": 343589, "D": "not having healed physically, mentally, or emotionally", "S": [], "A": []}

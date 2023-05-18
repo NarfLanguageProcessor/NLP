@@ -1,0 +1,1 @@
+{"index": 84994, "D": "style of speaking or writing as dependent upon choice of words", "S": ["eloquence ", "fluency ", "inflection ", "intonation ", "phrasing ", "pronunciation ", "wording "], "A": ["conciseness "]}

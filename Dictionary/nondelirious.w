@@ -1,0 +1,1 @@
+{"index": 202852, "D": "affected with or characteristic of delirium. ", "S": [], "A": []}

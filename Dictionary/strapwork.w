@@ -1,0 +1,1 @@
+{"index": 305816, "D": "a type of ornamentation imitating pierced and interlaced straps or bands, usually forming a geometric pattern.", "S": [], "A": []}

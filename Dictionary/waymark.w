@@ -1,0 +1,1 @@
+{"index": 362008, "D": "a symbol or signpost marking the route of a footpath", "S": [], "A": []}

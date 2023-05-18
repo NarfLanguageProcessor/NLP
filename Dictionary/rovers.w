@@ -1,0 +1,1 @@
+{"index": 274984, "D": "a person who roves; wanderer.", "S": ["drifter ", "freebooter ", "itinerant ", "maverick ", "migrant ", "pirate ", "traveler ", "vagrant ", "wanderer "], "A": []}

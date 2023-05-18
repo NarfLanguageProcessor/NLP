@@ -1,0 +1,1 @@
+{"index": 325982, "D": "a person or thing that tops. ", "S": ["quip ", "rejoinder ", "repartee "], "A": ["kindness ", "question ", "request ", "sympathy "]}

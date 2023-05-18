@@ -1,0 +1,1 @@
+{"index": 314706, "D": "past participle of swear. ", "S": ["affirmed ", "bound ", "confirmed "], "A": []}

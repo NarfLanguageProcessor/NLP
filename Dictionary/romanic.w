@@ -1,0 +1,1 @@
+{"index": 274038, "D": "derived from the Romans. ", "S": [], "A": []}

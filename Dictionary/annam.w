@@ -1,0 +1,1 @@
+{"index": 13475, "D": "a former kingdom and French protectorate along the E coast of French Indochina", "S": [], "A": []}

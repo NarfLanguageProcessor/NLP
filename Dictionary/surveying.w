@@ -1,0 +1,1 @@
+{"index": 313649, "D": "the science or scientific method of making surveys  of land.", "S": ["attentive ", "discerning ", "discriminating ", "intelligent ", "mindful ", "perceptive ", "vigilant "], "A": ["careless ", "heedless ", "inattentive ", "neglectful ", "negligent ", "unaware ", "undiscriminating "]}

@@ -1,0 +1,1 @@
+{"index": 277526, "D": [], "S": ["boring ", "dreary ", "dull ", "ho-hum ", "humdrum ", "plodding ", "repetitious ", "repetitive ", "tedious ", "tiresome "], "A": ["bright ", "clear ", "eventful ", "exciting ", "interesting ", "light ", "lively "]}

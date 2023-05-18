@@ -1,0 +1,1 @@
+{"index": 270904, "D": "contemplation of the past; a survey of past time, events, etc.", "S": ["hindsight "], "A": ["forethought ", "prophesy ", "prospect "]}

@@ -1,0 +1,1 @@
+{"index": 86785, "D": "the office of a director. ", "S": ["cabinet ", "committee ", "jury ", "panel "], "A": ["individual ", "one "]}

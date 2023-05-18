@@ -1,0 +1,1 @@
+{"index": 5994, "D": "an organization, company, or bureau that provides a particular service", "S": ["bureau ", "company ", "department ", "firm ", "office "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 41122, "D": "(in weaving tapestries) a device on which the filling yarn is wound, used as a shuttle in passing through the shed of the loom to deposit the yarn.", "S": [], "A": []}

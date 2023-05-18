@@ -1,0 +1,1 @@
+{"index": 244504, "D": "Compare pretension2 (def. 1). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 315890, "D": "untamed or untamable.", "S": [], "A": []}

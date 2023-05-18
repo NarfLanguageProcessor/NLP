@@ -1,0 +1,1 @@
+{"index": 227851, "D": "the office, dignity, jurisdiction, province, or residence of an ecclesiastical patriarch. ", "S": [], "A": []}

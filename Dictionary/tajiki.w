@@ -1,0 +1,1 @@
+{"index": 315479, "D": "the language of the Tajik, belonging to the West Iranian subbranch of the Indo-European family", "S": [], "A": []}

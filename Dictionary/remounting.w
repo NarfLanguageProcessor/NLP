@@ -1,0 +1,1 @@
+{"index": 267478, "D": "to mount again; reascend.", "S": [], "A": []}

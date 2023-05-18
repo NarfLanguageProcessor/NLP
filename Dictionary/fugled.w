@@ -1,0 +1,1 @@
+{"index": 119837, "D": "to act as a guide or model.", "S": [], "A": []}

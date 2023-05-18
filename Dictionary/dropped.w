@@ -1,0 +1,1 @@
+{"index": 93363, "D": "a small quantity of liquid that falls or is produced in a more or less spherical mass; a liquid globule", "S": ["discarded ", "released "], "A": []}

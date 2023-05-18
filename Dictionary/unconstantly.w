@@ -1,0 +1,1 @@
+{"index": 337741, "D": "without pausing; unceasingly", "S": [], "A": []}

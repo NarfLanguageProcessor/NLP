@@ -1,0 +1,1 @@
+{"index": 95285, "D": "the uncontrollable and immediate repetition of words spoken by another person.", "S": [], "A": []}

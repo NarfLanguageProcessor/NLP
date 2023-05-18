@@ -1,0 +1,1 @@
+{"index": 142846, "D": "therapy  for a disease by means of an agent that is similar to but not identical with the causative agent of the disease.", "S": [], "A": []}

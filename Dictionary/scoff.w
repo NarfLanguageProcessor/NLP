@@ -1,0 +1,1 @@
+{"index": 281047, "D": "to speak derisively; mock; jeer (often followed by at)", "S": ["belittle ", "deride ", "jeer ", "mock ", "reject ", "ridicule ", "scorn ", "sneer "], "A": ["approve ", "compliment ", "flatter ", "praise ", "admire ", "believe ", "commend ", "honor ", "respect ", "trust "]}

@@ -1,0 +1,1 @@
+{"index": 180715, "D": "the condition in which sexual gratification depends on suffering physical pain or humiliation.", "S": ["flagellation "], "A": ["sadism "]}

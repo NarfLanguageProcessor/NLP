@@ -1,0 +1,1 @@
+{"index": 301379, "D": "one tooth of such a wheel.", "S": ["cog ", "cogwheel ", "pinion "], "A": []}

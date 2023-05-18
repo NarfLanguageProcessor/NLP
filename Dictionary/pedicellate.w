@@ -1,0 +1,1 @@
+{"index": 228871, "D": "having a pedicel  or pedicels. ", "S": [], "A": []}

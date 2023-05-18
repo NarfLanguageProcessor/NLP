@@ -1,0 +1,1 @@
+{"index": 269692, "D": "a particular, detail, or point (usually preceded by in)", "S": ["appreciation ", "awe ", "consideration ", "deference ", "dignity ", "esteem ", "fear ", "honor ", "recognition ", "regard ", "reverence ", "tribute "], "A": ["criticism ", "disdain ", "dishonor ", "disregard ", "disrespect ", "ignorance ", "neglect ", "bad manners ", "disfavor "]}

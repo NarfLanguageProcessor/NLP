@@ -1,0 +1,1 @@
+{"index": 89172, "D": "to spread  out; extend.", "S": [], "A": []}

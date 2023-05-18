@@ -1,0 +1,1 @@
+{"index": 60049, "D": "of or relating to the combined study of disease symptoms and pathology.", "S": [], "A": []}

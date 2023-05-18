@@ -1,0 +1,1 @@
+{"index": 113618, "D": "the state or quality of being fixed;  stability; permanence.", "S": ["determination ", "inflexibility ", "steadfastness "], "A": ["flexibility ", "indefiniteness ", "infirmity ", "instability ", "movability ", "softness ", "uncertainty ", "weakness "]}

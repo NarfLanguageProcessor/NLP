@@ -1,0 +1,1 @@
+{"index": 74392, "D": "an executive in an organization who oversees policies and decisions relating to technology and science.", "S": [], "A": []}

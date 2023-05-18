@@ -1,0 +1,1 @@
+{"index": 276646, "D": "a variety of rutile occurring as needlelike crystals embedded in quartz.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349929, "D": "a past participle of ride. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 36465, "D": "a bullfrog, especially Rana catesbeiana.", "S": [], "A": []}

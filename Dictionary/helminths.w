@@ -1,0 +1,1 @@
+{"index": 135773, "D": "a worm, especially a parasitic worm.", "S": [], "A": []}

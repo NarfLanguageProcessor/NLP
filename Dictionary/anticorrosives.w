@@ -1,0 +1,1 @@
+{"index": 15042, "D": "something that prevents or counteracts corrosion.", "S": [], "A": []}

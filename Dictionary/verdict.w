@@ -1,0 +1,1 @@
+{"index": 358449, "D": "the finding or answer of a jury given to the court concerning a matter submitted to their judgment.", "S": ["answer ", "award ", "conclusion ", "decision ", "decree ", "finding ", "opinion ", "ruling ", "sentence "], "A": ["accusation "]}

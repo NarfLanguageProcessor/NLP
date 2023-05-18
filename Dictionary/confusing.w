@@ -1,0 +1,1 @@
+{"index": 66094, "D": "causing or tending to cause confusion", "S": ["baffling ", "bewildering ", "complex ", "complicated ", "confounding ", "difficult ", "disconcerting ", "perplexing ", "upsetting "], "A": ["clear ", "easy ", "plain ", "simple "]}

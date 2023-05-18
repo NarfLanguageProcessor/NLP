@@ -1,0 +1,1 @@
+{"index": 167692, "D": "one of a class of fabulous monsters, commonly represented with the head and breast of a woman and the body of a serpent, said to allure youths and children in order to suck their blood.", "S": ["conjurer ", "enchanter ", "enchantress ", "hag ", "magician ", "necromancer ", "occultist ", "sorcerer ", "sorceress "], "A": []}

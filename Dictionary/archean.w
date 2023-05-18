@@ -1,0 +1,1 @@
+{"index": 18802, "D": "the Precambrian  eon that preceded the Proterozoic  and during which the earliest datable rocks were formed and from which the oldest known fossil forms, including cyanobacteria,  have been recovered.", "S": [], "A": []}

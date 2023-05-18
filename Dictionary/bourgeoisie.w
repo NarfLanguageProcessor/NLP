@@ -1,0 +1,1 @@
+{"index": 39025, "D": "the bourgeois  class.", "S": ["bourgeois ", "citizen ", "civilian ", "peasant "], "A": []}

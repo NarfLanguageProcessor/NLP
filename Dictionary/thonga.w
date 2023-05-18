@@ -1,0 +1,1 @@
+{"index": 322321, "D": "a Bantu language spoken in Mozambique, Zambia, and South Africa.", "S": [], "A": []}

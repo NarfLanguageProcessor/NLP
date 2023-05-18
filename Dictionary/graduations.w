@@ -1,0 +1,1 @@
+{"index": 128576, "D": "an act of graduating;  the state of being graduated. ", "S": ["convocation "], "A": []}

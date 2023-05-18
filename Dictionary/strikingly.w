@@ -1,0 +1,1 @@
+{"index": 306315, "D": "in a way that is impressive, noticeable, or conspicuous", "S": ["extremely ", "highly ", "remarkably "], "A": []}

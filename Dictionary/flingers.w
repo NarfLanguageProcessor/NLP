@@ -1,0 +1,1 @@
+{"index": 114645, "D": "a person or thing that flings. ", "S": [], "A": []}

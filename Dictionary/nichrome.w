@@ -1,0 +1,1 @@
+{"index": 199604, "D": "a brand name for a nickel-base alloy, containing chromium and iron, having high electrical resistance and stability at high temperatures.", "S": [], "A": []}

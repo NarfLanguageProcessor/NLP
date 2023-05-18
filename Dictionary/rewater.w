@@ -1,0 +1,1 @@
+{"index": 271594, "D": "a transparent, odorless, tasteless liquid, a compound of hydrogen and oxygen, H2O, freezing at 32\u00b0F or 0\u00b0C and boiling at 212\u00b0F or 100\u00b0C, that in a more or less impure state constitutes rain, oceans, lakes, rivers, etc.", "S": [], "A": []}

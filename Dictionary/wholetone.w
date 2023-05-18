@@ -1,0 +1,1 @@
+{"index": 365303, "D": "an interval of two semitones, as A-B or B-C\u266f; a major second.", "S": [], "A": []}

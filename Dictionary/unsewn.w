@@ -1,0 +1,1 @@
+{"index": 350866, "D": "to remove or rip the stitches of (something sewed).", "S": [], "A": []}

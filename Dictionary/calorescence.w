@@ -1,0 +1,1 @@
+{"index": 45410, "D": "incandescence caused by absorption of radiation having a frequency below that of visible light.", "S": [], "A": []}

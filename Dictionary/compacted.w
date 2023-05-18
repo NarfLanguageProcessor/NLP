@@ -1,0 +1,1 @@
+{"index": 64336, "D": "joined or packed together; closely and firmly united; dense; solid", "S": ["determined ", "okay ", "settled "], "A": ["denied ", "undone ", "unfinished ", "vetoed "]}

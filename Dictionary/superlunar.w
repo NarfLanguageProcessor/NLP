@@ -1,0 +1,1 @@
+{"index": 312202, "D": "situated beyond the moon; celestial", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 207762, "D": "to dull the luster of (a metallic surface), especially by oxidation; discolor.", "S": [], "A": []}

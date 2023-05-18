@@ -1,0 +1,1 @@
+{"index": 234618, "D": [], "S": ["endless ", "enduring ", "eternal ", "everlasting ", "indestructible ", "never-ending ", "timeless "], "A": ["ceasing ", "ending ", "stopping ", "temporary ", "terminable ", "transient ", "interrupted "]}

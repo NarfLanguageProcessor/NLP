@@ -1,0 +1,1 @@
+{"index": 109970, "D": "(of fish and game) reared on a farm rather than caught in the wild", "S": ["acreage ", "estate ", "field ", "garden ", "grassland ", "homestead ", "lawn ", "meadow ", "nursery ", "orchard ", "pasture ", "plantation ", "ranch "], "A": []}

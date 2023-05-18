@@ -1,0 +1,1 @@
+{"index": 229574, "D": [], "S": ["fluctuate ", "lurch ", "seesaw ", "teeter ", "vacillate ", "waver ", "wobble "], "A": ["remain ", "stay ", "stabilize ", "steady "]}

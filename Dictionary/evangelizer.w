@@ -1,0 +1,1 @@
+{"index": 106018, "D": "to preach the gospel to.", "S": ["clergy ", "cleric ", "evangelist ", "missionary "], "A": []}

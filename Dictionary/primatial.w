@@ -1,0 +1,1 @@
+{"index": 250493, "D": "an archbishop or bishop ranking first among the bishops of a province or country.", "S": [], "A": []}

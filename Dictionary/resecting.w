@@ -1,0 +1,1 @@
+{"index": 269125, "D": "to do a resection  on.", "S": ["black out ", "cross out ", "cut out ", "edit ", "eradicate ", "expunge ", "exterminate ", "stamp out "], "A": ["add ", "insert ", "lose ", "put in "]}

@@ -1,0 +1,1 @@
+{"index": 338198, "D": "a clear, transparent mineral or glass resembling ice.", "S": [], "A": []}

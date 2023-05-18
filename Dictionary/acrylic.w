@@ -1,0 +1,1 @@
+{"index": 2837, "D": "of or derived from acrylic acid. ", "S": ["color ", "cosmetic ", "dye ", "enamel ", "latex ", "makeup ", "oil ", "pigment ", "stain ", "varnish ", "wax "], "A": []}

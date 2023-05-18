@@ -1,0 +1,1 @@
+{"index": 233531, "D": "defending or protecting, especially from disease.", "S": [], "A": []}

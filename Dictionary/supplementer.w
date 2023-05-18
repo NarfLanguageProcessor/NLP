@@ -1,0 +1,1 @@
+{"index": 312970, "D": "something added to complete a thing, supply a deficiency, or reinforce or extend a whole.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 89507, "D": "harmful or injurious service;  an ill turn.", "S": ["injustice "], "A": ["advantage ", "aid ", "assistance ", "benefit ", "blessing ", "favor ", "good ", "help ", "right "]}

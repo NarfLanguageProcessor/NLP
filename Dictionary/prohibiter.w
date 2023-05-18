@@ -1,0 +1,1 @@
+{"index": 251962, "D": "to forbid (an action, activity, etc.) by authority or law", "S": [], "A": []}

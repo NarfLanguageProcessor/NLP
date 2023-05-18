@@ -1,0 +1,1 @@
+{"index": 64297, "D": "to reverse the direction of (a current or currents), as by a commutator. ", "S": [], "A": []}

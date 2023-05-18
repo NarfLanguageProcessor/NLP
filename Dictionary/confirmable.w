@@ -1,0 +1,1 @@
+{"index": 65931, "D": "to establish the truth, accuracy, validity, or genuineness of; corroborate; verify", "S": ["absolute ", "clear ", "definite ", "genuine ", "positive ", "real ", "safe ", "sure ", "true ", "undeniable "], "A": ["counterfeit ", "doubted ", "doubtful ", "false ", "invalid ", "uncertain ", "unreal ", "unsure ", "vague "]}

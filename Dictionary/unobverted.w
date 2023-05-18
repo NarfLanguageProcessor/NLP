@@ -1,0 +1,1 @@
+{"index": 347066, "D": "to turn (something) so as to show a different surface.", "S": [], "A": []}

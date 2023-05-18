@@ -1,0 +1,1 @@
+{"index": 82572, "D": "to prepare the preliminary sketch or the plans for (a work to be executed), especially to plan the form and structure of", "S": ["architecture ", "arrangement ", "composition ", "construction ", "drawing ", "form ", "idea ", "layout ", "map ", "method ", "model ", "pattern ", "picture ", "plan ", "scheme ", "study "], "A": ["disorganization ", "being "]}

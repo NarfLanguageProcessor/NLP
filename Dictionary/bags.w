@@ -1,0 +1,1 @@
+{"index": 26354, "D": "a lot; a great deal", "S": ["bulk ", "chunk ", "extent ", "load ", "lot ", "measure ", "number ", "supply ", "ton ", "volume "], "A": []}

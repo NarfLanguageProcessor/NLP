@@ -1,0 +1,1 @@
+{"index": 202850, "D": "the act or process of deliquescing. ", "S": [], "A": []}

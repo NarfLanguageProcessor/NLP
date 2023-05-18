@@ -1,0 +1,1 @@
+{"index": 265282, "D": "a person who advocates or practices reform; reformer. ", "S": [], "A": []}

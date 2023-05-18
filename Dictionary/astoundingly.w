@@ -1,0 +1,1 @@
+{"index": 22158, "D": "capable of overwhelming with amazement; stunningly surprising.", "S": [], "A": []}

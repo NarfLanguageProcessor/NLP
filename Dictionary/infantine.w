@@ -1,0 +1,1 @@
+{"index": 151822, "D": "infantile. ", "S": ["childlike ", "foolish ", "naive ", "youthful "], "A": ["experienced ", "wise "]}

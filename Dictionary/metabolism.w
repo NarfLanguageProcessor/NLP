@@ -1,0 +1,1 @@
+{"index": 184562, "D": "Compare anabolism, catabolism. ", "S": ["anabolism ", "catabolism ", "consumption ", "digestion ", "ingestion ", "inhalation "], "A": []}

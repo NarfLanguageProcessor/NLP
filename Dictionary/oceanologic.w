@@ -1,0 +1,1 @@
+{"index": 210791, "D": "of or relating to the ocean and its study.", "S": [], "A": []}

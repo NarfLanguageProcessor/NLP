@@ -1,0 +1,1 @@
+{"index": 345957, "D": "authorized or decreed, as by the passing of a law", "S": [], "A": []}

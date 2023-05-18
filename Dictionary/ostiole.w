@@ -1,0 +1,1 @@
+{"index": 215723, "D": "a small opening or pore, especially in the fruiting body of a fungus.", "S": [], "A": []}

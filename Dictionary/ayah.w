@@ -1,0 +1,1 @@
+{"index": 6687, "D": "an Indian maid or nurse, especially one employed in a colonial household.", "S": ["baby-sitter ", "governess "], "A": []}

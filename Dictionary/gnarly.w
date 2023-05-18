@@ -1,0 +1,1 @@
+{"index": 127016, "D": "twisted with or as if with gnarls or knots; gnarled", "S": ["boss ", "fine ", "great ", "hairy ", "keen ", "magnificent ", "marvelous ", "neat ", "nifty ", "sensational ", "superb ", "swell ", "wonderful "], "A": []}

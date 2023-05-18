@@ -1,0 +1,1 @@
+{"index": 155304, "D": "to take part in a matter, especially officiously; meddle.", "S": ["hamper ", "hinder ", "impede ", "inhibit ", "intrude ", "obstruct ", "prevent "], "A": ["advance ", "aid ", "allow ", "assist ", "encourage ", "facilitate ", "forward ", "help ", "permit ", "promote ", "support ", "abet ", "benefit ", "continue ", "go "]}

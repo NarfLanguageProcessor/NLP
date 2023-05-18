@@ -1,0 +1,1 @@
+{"index": 201854, "D": "pertaining to the sky or visible heaven, or to the universe beyond the earth\u2019s atmosphere, as in celestial body.", "S": [], "A": []}

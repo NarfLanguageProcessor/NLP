@@ -1,0 +1,1 @@
+{"index": 142492, "D": "any of numerous trees or shrubs of the genus Ilex, as I. opaca(American holly ), the state tree of Delaware, or I. aquifolium(English holly ), having glossy, spiny-toothed leaves, small, whitish flowers, and red berries.", "S": [], "A": []}

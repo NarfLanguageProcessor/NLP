@@ -1,0 +1,1 @@
+{"index": 174994, "D": "a medieval ship  used in northern Europe especially by the Norse, having a long, narrow, open hull, a single square sail, and a large number of oars, which provided most of the propulsion.", "S": [], "A": []}

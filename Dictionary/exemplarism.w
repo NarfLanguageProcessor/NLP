@@ -1,0 +1,1 @@
+{"index": 107008, "D": "the doctrine that all knowledge is based on the perception of the exemplars  of reality that exist in the mind of God.", "S": [], "A": []}

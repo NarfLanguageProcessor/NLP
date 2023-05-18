@@ -1,0 +1,1 @@
+{"index": 294310, "D": "to hit hard, as in boxing or cricket; slug.", "S": ["effort ", "endeavor ", "industry ", "job ", "performance ", "production ", "struggle ", "task ", "trial "], "A": ["fun ", "idleness ", "laziness ", "unemployment ", "entertainment "]}

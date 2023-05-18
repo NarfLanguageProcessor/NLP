@@ -1,0 +1,1 @@
+{"index": 241999, "D": "any of a class of polymers with an imido group", "S": [], "A": []}

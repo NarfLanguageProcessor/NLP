@@ -1,0 +1,1 @@
+{"index": 150032, "D": [], "S": ["detached ", "muddled ", "separated ", "uncoordinated "], "A": ["attached ", "connected ", "united ", "ordered "]}

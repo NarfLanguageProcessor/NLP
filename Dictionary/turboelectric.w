@@ -1,0 +1,1 @@
+{"index": 332620, "D": "noting, pertaining to, or utilizing machinery that includes a generator driven by a turbine", "S": [], "A": []}

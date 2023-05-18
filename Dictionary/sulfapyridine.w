@@ -1,0 +1,1 @@
+{"index": 310398, "D": "a sulfanilamide  derivative, C11H11N3O2S, formerly used for infections caused by pneumococci, now used primarily for a particular dermatitis.", "S": [], "A": []}

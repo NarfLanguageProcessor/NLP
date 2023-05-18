@@ -1,0 +1,1 @@
+{"index": 52203, "D": "a soft fabric of plain weave in wool, cotton, rayon, or other staple fiber, either in a solid color or, more often, a small print.", "S": [], "A": []}

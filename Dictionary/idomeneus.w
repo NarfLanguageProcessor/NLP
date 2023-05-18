@@ -1,0 +1,1 @@
+{"index": 146670, "D": "a king of Crete who fought on the Greek side in the Trojan War", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 261600, "D": "to suspend the meeting of (a club, legislature, committee, etc.) to a future time, another place, or indefinitely", "S": [], "A": []}

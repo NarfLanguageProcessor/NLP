@@ -1,0 +1,1 @@
+{"index": 68561, "D": "being or operating in the same plane.", "S": [], "A": []}

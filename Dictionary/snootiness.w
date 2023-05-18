@@ -1,0 +1,1 @@
+{"index": 295706, "D": "snobbish. ", "S": ["arrogance ", "pretension "], "A": ["humility "]}

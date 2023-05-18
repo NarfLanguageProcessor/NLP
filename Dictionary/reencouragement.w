@@ -1,0 +1,1 @@
+{"index": 264705, "D": "the act of encouraging. ", "S": [], "A": []}

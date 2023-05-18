@@ -1,0 +1,1 @@
+{"index": 157329, "D": "not voluntary; independent of one's will; not by one's own choice", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 250915, "D": "serving temporarily, especially as a substitute during another's absence; not permanent; temporary", "S": [], "A": []}

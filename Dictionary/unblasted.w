@@ -1,0 +1,1 @@
+{"index": 335941, "D": "withered; shriveled; blighted;  ruined.", "S": [], "A": []}

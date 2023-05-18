@@ -1,0 +1,1 @@
+{"index": 338242, "D": "in a way that lacks care, finish, polish, or completion", "S": [], "A": []}

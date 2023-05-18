@@ -1,0 +1,1 @@
+{"index": 23202, "D": "in twain;  in two; apart.", "S": [], "A": []}

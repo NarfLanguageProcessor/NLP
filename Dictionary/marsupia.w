@@ -1,0 +1,1 @@
+{"index": 180446, "D": "the pouch or fold of skin on the abdomen of a female marsupial.", "S": [], "A": []}

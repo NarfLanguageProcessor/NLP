@@ -1,0 +1,1 @@
+{"index": 17125, "D": "corrected for spherical aberration at two wavelengths or colors and for chromatic aberration  at three wavelengths.", "S": [], "A": []}

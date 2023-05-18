@@ -1,0 +1,1 @@
+{"index": 319936, "D": "belonging or pertaining to the Nautiloidea (Tetrabranchiata), a subclass or order of cephalopods with four gills, including the pearly nautilus and numerous fossil forms.", "S": [], "A": []}

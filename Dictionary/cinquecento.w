@@ -1,0 +1,1 @@
+{"index": 57827, "D": "the 16th century, with reference to Italy, especially to the Italian art or literature of that period.", "S": [], "A": []}

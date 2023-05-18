@@ -1,0 +1,1 @@
+{"index": 117496, "D": "a collection or system of formulas. ", "S": ["blueprint ", "canon ", "code ", "credo ", "creed ", "custom ", "description ", "direction ", "equation ", "form ", "maxim ", "method ", "precept ", "prescription ", "principle ", "procedure ", "rite ", "ritual ", "rote ", "rubric ", "specifications ", "theorem ", "way "], "A": ["deviation "]}

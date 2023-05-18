@@ -1,0 +1,1 @@
+{"index": 105214, "D": "a star or something shaped like a star.", "S": [], "A": []}

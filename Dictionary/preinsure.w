@@ -1,0 +1,1 @@
+{"index": 248039, "D": "to guarantee against loss or harm.", "S": [], "A": []}

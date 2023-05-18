@@ -1,0 +1,1 @@
+{"index": 49402, "D": "of the nature of a catastrophe,  or disastrous event; calamitous", "S": ["calamitous ", "cataclysmic ", "catastrophic ", "devastating ", "disastrous ", "fatal ", "ruinous ", "tragic "], "A": []}

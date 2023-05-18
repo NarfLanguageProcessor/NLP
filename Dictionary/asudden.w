@@ -1,0 +1,1 @@
+{"index": 22356, "D": [], "S": ["abruptly ", "all of a sudden ", "quickly ", "swiftly "], "A": ["expectedly ", "slowly "]}

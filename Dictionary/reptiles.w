@@ -1,0 +1,1 @@
+{"index": 268712, "D": [], "S": ["cheater ", "coward ", "cur ", "dastard ", "heel ", "informer ", "louse ", "rascal ", "scoundrel ", "skunk ", "slink ", "snake ", "toad ", "weasel ", "wretch "], "A": []}

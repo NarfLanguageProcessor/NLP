@@ -1,0 +1,1 @@
+{"index": 92093, "D": "a small, nocturnal South American monkey of the genus Aotus, having large, owllike eyes", "S": [], "A": []}

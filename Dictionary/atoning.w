@@ -1,0 +1,1 @@
+{"index": 22793, "D": "to make amends or reparation, as for an offense or a crime, or for an offender (usually followed by for)", "S": ["conciliatory ", "contrite ", "regretful ", "remorseful ", "repentant ", "sorry "], "A": ["happy ", "unrepentant "]}

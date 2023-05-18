@@ -1,0 +1,1 @@
+{"index": 315150, "D": "the basic metrical unit in medieval music.", "S": [], "A": []}

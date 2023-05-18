@@ -1,0 +1,1 @@
+{"index": 174700, "D": "excessive, uncontrollable, or incoherent talkativeness", "S": [], "A": []}

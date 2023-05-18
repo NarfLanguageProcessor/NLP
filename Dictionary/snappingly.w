@@ -1,0 +1,1 @@
+{"index": 295311, "D": "to make a sudden, sharp, distinct sound; crack, as a whip; crackle. ", "S": [], "A": []}

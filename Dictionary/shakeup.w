@@ -1,0 +1,1 @@
+{"index": 287224, "D": "a thorough change in a business, department, or the like, as by dismissals, demotions, etc.", "S": ["overhaul ", "restructuring "], "A": []}

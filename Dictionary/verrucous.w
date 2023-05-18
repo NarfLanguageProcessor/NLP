@@ -1,0 +1,1 @@
+{"index": 358746, "D": "of, pertaining to, marked by, or like a wart or warts.", "S": [], "A": []}

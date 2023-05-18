@@ -1,0 +1,1 @@
+{"index": 341416, "D": "free from many changes or variations; uniform", "S": [], "A": []}

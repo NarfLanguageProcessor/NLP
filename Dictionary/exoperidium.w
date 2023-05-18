@@ -1,0 +1,1 @@
+{"index": 107407, "D": "the outer of the two layers into which the peridium  is divided.", "S": [], "A": []}

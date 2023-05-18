@@ -1,0 +1,1 @@
+{"index": 8302, "D": "an allowance paid to a person by that person's spouse or former spouse for maintenance, granted by a court upon a legal separation or a divorce or while action is pending.", "S": [], "A": []}

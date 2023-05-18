@@ -1,0 +1,1 @@
+{"index": 54665, "D": "of, like, or decorated with chintz.", "S": ["cheap ", "frowzy ", "schlocky ", "shabby ", "sleazy ", "tacky "], "A": []}

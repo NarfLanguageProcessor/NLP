@@ -1,0 +1,1 @@
+{"index": 89341, "D": "characterized by, having, or showing disrespect;  lacking courtesy or esteem", "S": ["chutzpah ", "gall ", "guts ", "spunk "], "A": ["cowardice ", "caution ", "fear ", "humility ", "manners ", "modesty ", "politeness ", "respect ", "shyness ", "timidity "]}

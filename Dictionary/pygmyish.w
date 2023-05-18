@@ -1,0 +1,1 @@
+{"index": 236435, "D": "a Negrito of southeastern Asia, or of the Andaman or Philippine islands.", "S": [], "A": []}

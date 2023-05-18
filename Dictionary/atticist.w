@@ -1,0 +1,1 @@
+{"index": 23078, "D": "the style or idiom of Attic Greek occurring in another dialect or language.", "S": [], "A": []}

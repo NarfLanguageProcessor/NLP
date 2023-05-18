@@ -1,0 +1,1 @@
+{"index": 42331, "D": "any of various Old World, boraginaceous herbs, as Anchusa officinalis, having rough leaves, used in medicine, and Lycopsis arvensis, a bristly, blue-flowered herb.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 327466, "D": "a self-propelled, connected group of rolling stock.", "S": [], "A": []}

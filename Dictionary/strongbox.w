@@ -1,0 +1,1 @@
+{"index": 306511, "D": "a strongly made, lockable box  or chest for safeguarding valuable possessions, as money, jewels, or documents.", "S": ["coffer ", "depository ", "safe "], "A": []}

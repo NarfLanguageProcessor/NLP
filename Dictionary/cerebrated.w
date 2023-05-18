@@ -1,0 +1,1 @@
+{"index": 51391, "D": "to use the mind; think or think about.", "S": ["cogitate ", "contemplate ", "deliberate ", "ponder ", "ratiocinate ", "reason ", "reflect "], "A": ["disregard ", "forget ", "ignore ", "neglect "]}

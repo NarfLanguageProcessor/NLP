@@ -1,0 +1,1 @@
+{"index": 176883, "D": "of or relating to macrobiotics  or its dietary practices.", "S": [], "A": []}

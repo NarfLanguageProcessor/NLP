@@ -1,0 +1,1 @@
+{"index": 88083, "D": "to mar the appearance or beauty of; deform; deface", "S": ["deform ", "distort ", "maim ", "mangle ", "mar ", "mutilate ", "scar "], "A": ["aid ", "beautify ", "cure ", "heal ", "help ", "repair ", "adorn ", "assist ", "decorate ", "embellish ", "fix ", "mend ", "ornament "]}

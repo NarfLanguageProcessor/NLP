@@ -1,0 +1,1 @@
+{"index": 34195, "D": "a twining plant stem, as of the hop.", "S": [], "A": []}

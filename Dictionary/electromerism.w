@@ -1,0 +1,1 @@
+{"index": 97136, "D": "a type of tautomerism in which the isomers (electromers) differ in the distribution of charge in their molecules", "S": [], "A": []}

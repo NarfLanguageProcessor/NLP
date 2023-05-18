@@ -1,0 +1,1 @@
+{"index": 26592, "D": "a brand name for any of a series of thermosetting plastics prepared by heating phenol or cresol with formaldehyde and ammonia under pressure", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 40884, "D": "a stone, esp when thrown", "S": [], "A": []}

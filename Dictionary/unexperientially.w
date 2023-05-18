@@ -1,0 +1,1 @@
+{"index": 341785, "D": "pertaining to or derived from experience. ", "S": [], "A": []}

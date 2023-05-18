@@ -1,0 +1,1 @@
+{"index": 152763, "D": "incapable of being imitated or copied; surpassing imitation; matchless.", "S": [], "A": []}

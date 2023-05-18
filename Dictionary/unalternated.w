@@ -1,0 +1,1 @@
+{"index": 334867, "D": "to interchange repeatedly and regularly with one another in time or place; rotate (usually followed by with)", "S": [], "A": []}

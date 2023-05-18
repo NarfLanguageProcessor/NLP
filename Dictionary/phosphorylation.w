@@ -1,0 +1,1 @@
+{"index": 234922, "D": "the chemical or enzymic introduction into a compound of a phosphoryl group (a trivalent radical of phosphorus and oxygen)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 253235, "D": "(in classical architecture) an antechamber or vestibule.", "S": [], "A": []}

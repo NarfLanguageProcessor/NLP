@@ -1,0 +1,1 @@
+{"index": 36786, "D": "a bluish, argillaceous sandstone used for building purposes, flagging, etc.", "S": [], "A": []}

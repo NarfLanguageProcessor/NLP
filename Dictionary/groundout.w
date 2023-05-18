@@ -1,0 +1,1 @@
+{"index": 130327, "D": "a play in which a batter is put out at first base after hitting a ground ball to the infield.", "S": [], "A": []}

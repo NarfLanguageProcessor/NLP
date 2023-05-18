@@ -1,0 +1,1 @@
+{"index": 135039, "D": "taking place, coming together, or published once every seven days; weekly", "S": [], "A": []}

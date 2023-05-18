@@ -1,0 +1,1 @@
+{"index": 75436, "D": "a less common variant of curry1. ", "S": ["sauce ", "seasoning "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 225650, "D": "a republic in central South America between Bolivia, Brazil, and Argentina. 157,047 sq. mi. (406,750 sq. km). Capital", "S": [], "A": []}

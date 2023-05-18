@@ -1,0 +1,1 @@
+{"index": 215305, "D": "pertaining to an osculum.", "S": [], "A": []}

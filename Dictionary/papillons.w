@@ -1,0 +1,1 @@
+{"index": 225224, "D": "one of a breed of toy spaniels having a long, silky coat and large, erect ears held so that they resemble the wings of a butterfly.", "S": [], "A": []}

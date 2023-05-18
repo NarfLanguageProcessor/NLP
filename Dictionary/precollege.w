@@ -1,0 +1,1 @@
+{"index": 246237, "D": "Compare university. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 280991, "D": "protein  that is fibrous and insoluble in water, serving a protective or supportive function in the body.", "S": [], "A": []}

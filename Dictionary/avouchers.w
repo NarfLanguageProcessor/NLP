@@ -1,0 +1,1 @@
+{"index": 24877, "D": "to make frank acknowledgment or affirmation of; declare or assert with positiveness.", "S": [], "A": []}

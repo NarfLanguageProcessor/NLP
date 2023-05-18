@@ -1,0 +1,1 @@
+{"index": 366182, "D": "any of various marine gastropods; periwinkle1. ", "S": [], "A": []}

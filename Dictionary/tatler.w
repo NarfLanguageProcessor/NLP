@@ -1,0 +1,1 @@
+{"index": 316980, "D": "a triweekly periodical (1709\u201311) written, edited, and published by Richard Steele with the collaboration of Joseph Addison.", "S": [], "A": []}

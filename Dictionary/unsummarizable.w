@@ -1,0 +1,1 @@
+{"index": 352388, "D": "to make a summary  of; state or express in a concise form.", "S": [], "A": []}

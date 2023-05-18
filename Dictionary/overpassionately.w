@@ -1,0 +1,1 @@
+{"index": 220456, "D": "in a way that is driven by intense feeling or strong conviction", "S": [], "A": []}

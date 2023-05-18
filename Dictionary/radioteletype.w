@@ -1,0 +1,1 @@
+{"index": 259801, "D": "a teletypewriter equipped for transmitting or receiving messages by radio instead of wire.", "S": [], "A": []}

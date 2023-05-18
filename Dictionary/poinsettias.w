@@ -1,0 +1,1 @@
+{"index": 241314, "D": "a plant, Euphorbia (Poinsettia) pulcherrima, of the spurge family, native to Mexico and Central America, having variously lobed leaves and brilliant scarlet, pink, or white petallike bracts.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 95394, "D": "a person who economizes. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 165985, "D": "a member of an Indigenous people living in west-central Africa along the lower course of the Congo River.", "S": [], "A": []}

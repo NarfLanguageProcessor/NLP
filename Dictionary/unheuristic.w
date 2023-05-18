@@ -1,0 +1,1 @@
+{"index": 343694, "D": "serving to indicate or point out; stimulating interest as a means of furthering investigation.", "S": [], "A": []}

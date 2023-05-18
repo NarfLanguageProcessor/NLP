@@ -1,0 +1,1 @@
+{"index": 202045, "D": "capable of being collected. ", "S": [], "A": []}

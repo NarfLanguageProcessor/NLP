@@ -1,0 +1,1 @@
+{"index": 67016, "D": "not changing or varying; uniform; regular; invariable", "S": ["criterion ", "framework ", "guideline ", "restriction ", "specification "], "A": []}

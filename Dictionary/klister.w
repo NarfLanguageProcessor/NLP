@@ -1,0 +1,1 @@
+{"index": 165362, "D": "a sticky wax for use on skis, as for slopes where the snow is excessively wet.", "S": [], "A": []}

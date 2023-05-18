@@ -1,0 +1,1 @@
+{"index": 166403, "D": "of or relating to Kufa  or its inhabitants.", "S": [], "A": []}

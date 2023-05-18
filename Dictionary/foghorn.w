@@ -1,0 +1,1 @@
+{"index": 115773, "D": "a deep, loud horn  for sounding warning signals in foggy weather, as to ships.", "S": ["alarm ", "signal ", "siren "], "A": []}

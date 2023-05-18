@@ -1,0 +1,1 @@
+{"index": 83884, "D": "the ninth letter of the Arabic alphabet.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1455, "D": "any oscine bird of the family Prunellidae, of Europe and Asia, resembling sparrows but having more finely pointed bills, as the hedge sparrow.", "S": [], "A": []}

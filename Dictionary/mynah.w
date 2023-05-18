@@ -1,0 +1,1 @@
+{"index": 187659, "D": "any of various tropical Asian starlings of the genera Acridotheres, Gracula, etc, esp G. religiosa (see hill mynah), some of which can mimic human speech", "S": [], "A": []}

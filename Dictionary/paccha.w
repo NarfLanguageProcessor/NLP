@@ -1,0 +1,1 @@
+{"index": 222570, "D": "an Incan wooden container for holding liquids.", "S": [], "A": []}

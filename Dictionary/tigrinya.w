@@ -1,0 +1,1 @@
+{"index": 323505, "D": "a Semitic language spoken in northern Ethiopia.", "S": [], "A": []}

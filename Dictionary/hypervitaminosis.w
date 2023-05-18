@@ -1,0 +1,1 @@
+{"index": 140622, "D": "an abnormal condition caused by an excessive intake of vitamins. ", "S": [], "A": []}

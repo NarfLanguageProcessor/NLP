@@ -1,0 +1,1 @@
+{"index": 274045, "D": "a fossil resin similar to amber, used for jewelry.", "S": [], "A": []}

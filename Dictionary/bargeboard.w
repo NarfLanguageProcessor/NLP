@@ -1,0 +1,1 @@
+{"index": 27952, "D": "a board, often carved, hanging from the projecting end of a sloping roof.", "S": [], "A": []}

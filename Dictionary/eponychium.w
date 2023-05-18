@@ -1,0 +1,1 @@
+{"index": 103084, "D": "the modified outer layer of the epidermis that partially covers the fetal fingernails and toenails and that persists after birth as the cuticle.", "S": [], "A": []}

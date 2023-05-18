@@ -1,0 +1,1 @@
+{"index": 101510, "D": "to place in a tomb; bury; inter.", "S": ["funeral ", "interment ", "sepulture "], "A": []}

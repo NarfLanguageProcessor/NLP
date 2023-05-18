@@ -1,0 +1,1 @@
+{"index": 82827, "D": "to regard with contempt, distaste, disgust, or disdain; scorn; loathe.", "S": ["abhorrent ", "abominable ", "disgusting ", "hateful ", "odious ", "vile ", "worthless "], "A": ["delightful ", "kind ", "likeable ", "lovable ", "nice ", "pleasant ", "pleasing "]}

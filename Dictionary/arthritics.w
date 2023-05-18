@@ -1,0 +1,1 @@
+{"index": 20572, "D": "relating to, having, or experiencing arthritis. ", "S": [], "A": []}

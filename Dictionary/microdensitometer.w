@@ -1,0 +1,1 @@
+{"index": 186073, "D": "a densitometer  for measuring the density of minute areas of photographic negatives.", "S": [], "A": []}

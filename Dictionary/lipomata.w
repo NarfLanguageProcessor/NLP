@@ -1,0 +1,1 @@
+{"index": 173197, "D": "a benign tumor consisting of fat tissue.", "S": [], "A": []}

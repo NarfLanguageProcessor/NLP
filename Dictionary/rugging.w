@@ -1,0 +1,1 @@
+{"index": 275417, "D": "a bulky, coarse fabric with a full nap, used as a floor covering.", "S": [], "A": []}

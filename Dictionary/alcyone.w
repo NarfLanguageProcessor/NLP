@@ -1,0 +1,1 @@
+{"index": 7661, "D": "a third-magnitude star in the constellation Taurus", "S": [], "A": []}

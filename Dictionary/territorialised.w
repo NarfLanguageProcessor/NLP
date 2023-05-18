@@ -1,0 +1,1 @@
+{"index": 319603, "D": "to extend by adding new territory. ", "S": [], "A": []}

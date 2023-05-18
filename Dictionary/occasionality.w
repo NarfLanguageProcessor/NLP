@@ -1,0 +1,1 @@
+{"index": 210648, "D": "occurring or appearing at irregular or infrequent intervals; occurring now and then", "S": [], "A": []}

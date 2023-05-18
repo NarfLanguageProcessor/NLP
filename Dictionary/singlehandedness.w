@@ -1,0 +1,1 @@
+{"index": 291707, "D": "accomplished or done by one person alone", "S": [], "A": []}

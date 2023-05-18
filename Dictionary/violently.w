@@ -1,0 +1,1 @@
+{"index": 360022, "D": "in a way that involves uncontrolled or destructive force", "S": ["fiercely ", "forcefully ", "forcibly ", "intensely ", "powerfully ", "strongly ", "vigorously "], "A": ["weakly "]}

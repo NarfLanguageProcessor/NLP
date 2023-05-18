@@ -1,0 +1,1 @@
+{"index": 311734, "D": "to encode (a message) that is already a cryptogram.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 215411, "D": "any fern of the genus Osmunda, such as the royal fern, having large spreading fronds", "S": [], "A": []}

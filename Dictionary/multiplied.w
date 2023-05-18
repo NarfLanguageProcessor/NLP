@@ -1,0 +1,1 @@
+{"index": 195280, "D": "to make many or manifold; increase the number, quantity, etc., of.", "S": ["added ", "aggregated ", "amplified ", "augmented ", "compounded ", "duplicated ", "increased ", "reduplicated ", "repeated ", "reproduced "], "A": ["decreased ", "divided ", "reduced "]}

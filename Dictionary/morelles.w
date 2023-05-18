@@ -1,0 +1,1 @@
+{"index": 193391, "D": "any edible mushroom of the genus Morchella, especially M. esculenta.", "S": [], "A": []}

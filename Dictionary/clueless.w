@@ -1,0 +1,1 @@
+{"index": 60678, "D": "ignorant, unaware, or uninformed", "S": ["baffled ", "bewildered ", "doubtful ", "mystified ", "perplexed ", "rattled "], "A": ["clear "]}

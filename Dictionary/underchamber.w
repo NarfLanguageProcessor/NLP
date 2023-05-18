@@ -1,0 +1,1 @@
+{"index": 338963, "D": "a room, usually private, in a house or apartment, especially a bedroom", "S": [], "A": []}

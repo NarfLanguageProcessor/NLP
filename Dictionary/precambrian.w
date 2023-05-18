@@ -1,0 +1,1 @@
+{"index": 245909, "D": "noting or pertaining to the earliest era of earth history, ending 570 million years ago, during which the earth's crust formed and life first appeared in the seas.", "S": [], "A": []}

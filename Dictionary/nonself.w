@@ -1,0 +1,1 @@
+{"index": 207113, "D": "any antigen-bearing foreign material that enters the body and normally stimulates an attack by the body's immune system (distinguished from self).", "S": [], "A": []}

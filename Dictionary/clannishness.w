@@ -1,0 +1,1 @@
+{"index": 59231, "D": "of, relating to, or characteristic of a clan. ", "S": [], "A": []}

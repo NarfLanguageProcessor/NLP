@@ -1,0 +1,1 @@
+{"index": 11079, "D": "a trisyllabic foot, the arrangement of the syllables of which is short, long, short in quantitative meter, or unstressed, stressed, unstressed in accentual meter. Thus, together is an accentual amphibrach.", "S": [], "A": []}

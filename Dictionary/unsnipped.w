@@ -1,0 +1,1 @@
+{"index": 351466, "D": "to cut with a small, quick stroke, or a succession of such strokes, with scissors or the like.", "S": [], "A": []}

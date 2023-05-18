@@ -1,0 +1,1 @@
+{"index": 5920, "D": "a substance obtained from agar  and used for chromatographic separations.", "S": [], "A": []}

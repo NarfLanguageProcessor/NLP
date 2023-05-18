@@ -1,0 +1,1 @@
+{"index": 266142, "D": "to restore (a tooth, organ, limb, or other structure) to its original site.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349202, "D": "hitherto unrecognized planets", "S": ["anonymous ", "bearded ", "camouflaged ", "concealed ", "disguised ", "hidden ", "incog ", "isolated ", "masked ", "masquerading ", "obscure ", "under assumed name ", "unknown "], "A": ["known ", "openly ", "seen ", "unhidden "]}

@@ -1,0 +1,1 @@
+{"index": 12349, "D": "British major hanged as a spy by the Americans in the Revolutionary War", "S": [], "A": []}

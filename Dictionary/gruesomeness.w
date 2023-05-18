@@ -1,0 +1,1 @@
+{"index": 130513, "D": "causing great horror; horribly repugnant; grisly", "S": ["atrocity ", "awfulness ", "dreadfulness ", "frightfulness ", "ghastliness ", "horridness ", "monstrosity ", "rankness ", "repulsiveness "], "A": []}

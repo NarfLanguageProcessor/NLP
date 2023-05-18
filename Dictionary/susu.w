@@ -1,0 +1,1 @@
+{"index": 313814, "D": "an institutionalized kinship group among the Dobuans, composed of a woman, her brother, and the woman's children.", "S": [], "A": []}

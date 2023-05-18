@@ -1,0 +1,1 @@
+{"index": 216487, "D": "out of doors; in the open air", "S": ["garden "], "A": ["indoors "]}

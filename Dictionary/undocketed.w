@@ -1,0 +1,1 @@
+{"index": 340719, "D": "a list of cases in court for trial, or the names of the parties who have cases pending.", "S": [], "A": []}

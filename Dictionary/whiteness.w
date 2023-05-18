@@ -1,0 +1,1 @@
+{"index": 365160, "D": "the quality or state of being white. ", "S": ["hoariness ", "pallidity ", "white "], "A": ["blackness ", "darkness "]}

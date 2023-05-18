@@ -1,0 +1,1 @@
+{"index": 95057, "D": "a seething or overflowing, as of passion or feeling; outburst.", "S": ["bubbles ", "ferment ", "fermentation ", "froth ", "sparkle "], "A": ["dullness ", "flatness "]}

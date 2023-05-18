@@ -1,0 +1,1 @@
+{"index": 117733, "D": "the act or practice of predicting the future.", "S": ["fascination ", "illusion ", "wizardry "], "A": ["reality "]}

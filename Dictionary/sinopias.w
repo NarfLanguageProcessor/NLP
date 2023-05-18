@@ -1,0 +1,1 @@
+{"index": 291950, "D": "a red ocher, used from antiquity to the Middle Ages.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 141247, "D": "the side of a right triangle opposite the right angle.", "S": [], "A": []}

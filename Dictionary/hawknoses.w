@@ -1,0 +1,1 @@
+{"index": 134483, "D": "a nose curved like the beak of a hawk.", "S": [], "A": []}

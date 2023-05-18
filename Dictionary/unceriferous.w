@@ -1,0 +1,1 @@
+{"index": 336667, "D": "producing or secreting wax, as a gland.", "S": [], "A": []}

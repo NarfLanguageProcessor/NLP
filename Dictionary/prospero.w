@@ -1,0 +1,1 @@
+{"index": 253216, "D": "(in Shakespeare's The Tempest) the exiled Duke of Milan, who is a magician.", "S": [], "A": []}

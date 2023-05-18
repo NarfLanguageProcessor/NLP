@@ -1,0 +1,1 @@
+{"index": 214341, "D": "(on the internet) a top-level domain  appearing as a suffix on domain names used especially for nonprofit organizations.", "S": [], "A": []}

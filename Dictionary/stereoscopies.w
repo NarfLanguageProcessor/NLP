@@ -1,0 +1,1 @@
+{"index": 303965, "D": "the study of the stereoscope and its techniques.", "S": [], "A": []}

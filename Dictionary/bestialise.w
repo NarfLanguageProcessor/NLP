@@ -1,0 +1,1 @@
+{"index": 32572, "D": "to make bestial  or beastlike", "S": [], "A": []}

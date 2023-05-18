@@ -1,0 +1,1 @@
+{"index": 1378, "D": "an irrational or disproportionate fear of bites or infestation by small parasitic insects or mites, causing crawling or itching sensations on the skin.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27970, "D": "any of several stones forming the sloping edge of a gable.", "S": [], "A": []}

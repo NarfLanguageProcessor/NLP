@@ -1,0 +1,1 @@
+{"index": 298900, "D": "a representation or photograph of a spectrum.", "S": [], "A": []}

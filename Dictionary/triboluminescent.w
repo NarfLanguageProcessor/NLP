@@ -1,0 +1,1 @@
+{"index": 329235, "D": "luminescence  produced by friction, usually within a crystalline substance.", "S": [], "A": []}

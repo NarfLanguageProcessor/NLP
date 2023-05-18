@@ -1,0 +1,1 @@
+{"index": 84091, "D": "of or consisting of a dyad; being a group of two.", "S": [], "A": []}

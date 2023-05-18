@@ -1,0 +1,1 @@
+{"index": 276348, "D": "a visible sign of an inward grace, especially one of the solemn Christian rites considered to have been instituted by Jesus Christ to symbolize or confer grace", "S": ["minister's rank ", "orders ", "priest's rank ", "rite of ordination "], "A": []}

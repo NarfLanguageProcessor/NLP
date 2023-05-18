@@ -1,0 +1,1 @@
+{"index": 164243, "D": "an Indian sword, having a broad, usually single-edged blade and a disklike pommel with a point.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 156737, "D": "an intriguing mystery", "S": ["absorbing ", "alluring ", "appealing ", "beguiling ", "captivating ", "compelling ", "curious ", "enthralling ", "exciting ", "fascinating ", "gripping ", "provocative ", "puzzling ", "riveting ", "stimulating ", "stirring ", "thought-provoking "], "A": ["boring ", "unexciting ", "unstimulating "]}

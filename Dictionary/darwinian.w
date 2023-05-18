@@ -1,0 +1,1 @@
+{"index": 77048, "D": "pertaining to Charles Darwin  or his doctrines.", "S": [], "A": []}

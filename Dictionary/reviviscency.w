@@ -1,0 +1,1 @@
+{"index": 271449, "D": "the act or state of being revived; revival; reanimation.", "S": [], "A": []}

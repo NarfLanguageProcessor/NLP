@@ -1,0 +1,1 @@
+{"index": 68603, "D": "a malleable, ductile, metallic element having a characteristic reddish-brown color", "S": [], "A": []}

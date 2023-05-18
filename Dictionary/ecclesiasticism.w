@@ -1,0 +1,1 @@
+{"index": 95132, "D": "ecclesiastical principles, practices, or spirit.", "S": [], "A": []}

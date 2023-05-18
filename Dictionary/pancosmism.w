@@ -1,0 +1,1 @@
+{"index": 224392, "D": "the philosophical doctrine that the material universe is all that exists", "S": [], "A": []}

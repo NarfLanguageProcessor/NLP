@@ -1,0 +1,1 @@
+{"index": 215226, "D": "of, pertaining to, characteristic of, or resembling the literary work of George Orwell  or the totalitarian future described in his antiutopian novel 1984 (1949).", "S": [], "A": []}

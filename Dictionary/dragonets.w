@@ -1,0 +1,1 @@
+{"index": 92566, "D": "any fish of the genus Callionymus, the species of which are small and usually brightly colored.", "S": [], "A": []}

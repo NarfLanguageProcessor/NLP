@@ -1,0 +1,1 @@
+{"index": 325640, "D": "a membrane separating a vacuole from the surrounding cytoplasm in a plant cell.", "S": [], "A": []}

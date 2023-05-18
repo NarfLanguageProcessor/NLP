@@ -1,0 +1,1 @@
+{"index": 312986, "D": "the act, method, or process of supplying. ", "S": [], "A": []}

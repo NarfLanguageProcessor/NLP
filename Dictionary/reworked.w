@@ -1,0 +1,1 @@
+{"index": 271660, "D": "to work  or form again", "S": ["reconstituted ", "reconstructed ", "transformed "], "A": ["degenerated ", "deteriorated ", "preserved "]}

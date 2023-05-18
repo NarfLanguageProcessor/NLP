@@ -1,0 +1,1 @@
+{"index": 6192, "D": "a person who opposes a plan, proposed legislation, or any drastic change", "S": [], "A": []}

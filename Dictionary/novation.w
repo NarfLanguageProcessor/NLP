@@ -1,0 +1,1 @@
+{"index": 209094, "D": "the substitution of a new obligation for an old one, usually by the substitution of a new debtor or of a new creditor.", "S": [], "A": []}

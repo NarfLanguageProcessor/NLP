@@ -1,0 +1,1 @@
+{"index": 304936, "D": "of solid and sturdy form or build; thick-set and, usually, short.", "S": [], "A": []}

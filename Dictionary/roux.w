@@ -1,0 +1,1 @@
+{"index": 274979, "D": "a cooked mixture of butter or other fat and flour used to thicken sauces, soups, etc.", "S": [], "A": []}

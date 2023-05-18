@@ -1,0 +1,1 @@
+{"index": 301419, "D": "(in southern Africa) a small stream.", "S": [], "A": []}

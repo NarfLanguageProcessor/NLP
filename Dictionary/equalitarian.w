@@ -1,0 +1,1 @@
+{"index": 103164, "D": "pertaining or adhering to the doctrine of equality  among all people; egalitarian.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 47758, "D": "any of the perchlike fishes  of the family Apogonidae, many species of which are bright red with black markings.", "S": [], "A": []}

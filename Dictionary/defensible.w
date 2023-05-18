@@ -1,0 +1,1 @@
+{"index": 79213, "D": "capable of being defended  against assault or injury", "S": ["logical ", "permissible ", "plausible ", "tenable ", "valid "], "A": ["improbable ", "irrational ", "unbelievable ", "unlikely ", "unreasonable "]}

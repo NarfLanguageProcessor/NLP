@@ -1,0 +1,1 @@
+{"index": 45909, "D": "any of several plants of the genera Lychnis and Silene, having white, pink, or reddish flowers.", "S": [], "A": []}

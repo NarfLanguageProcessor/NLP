@@ -1,0 +1,1 @@
+{"index": 108406, "D": "characterized by or given to extortion. ", "S": [], "A": []}

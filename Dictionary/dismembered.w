@@ -1,0 +1,1 @@
+{"index": 88679, "D": "to deprive of limbs; divide limb from limb", "S": ["busted ", "collapsed ", "cracked ", "crippled ", "crumbled ", "crushed ", "damaged ", "defective ", "demolished ", "fractured ", "fragmented ", "injured ", "mangled ", "mutilated ", "ruptured ", "severed ", "shattered ", "smashed "], "A": ["perfect ", "unbroken "]}

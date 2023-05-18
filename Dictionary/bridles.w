@@ -1,0 +1,1 @@
+{"index": 40708, "D": "part of the tack or harness of a horse, consisting usually of a headstall, bit, and reins.", "S": ["check ", "control ", "curb ", "deterrent ", "hackamore ", "halter ", "headstall ", "leash ", "rein ", "restraint ", "trammels "], "A": ["encouragement ", "liberation "]}

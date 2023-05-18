@@ -1,0 +1,1 @@
+{"index": 170304, "D": "an oil jar having an ellipsoidal body, narrow neck, flanged mouth, curved handle extending from below the lip to the shoulder, and a narrow base terminating in a foot", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 8774, "D": "an antibody  that reacts with an antigen from a genetically different individual of the same species.", "S": [], "A": []}

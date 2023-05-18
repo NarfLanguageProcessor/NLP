@@ -1,0 +1,1 @@
+{"index": 209479, "D": "a person who has no faith or religion; skeptic.", "S": [], "A": []}

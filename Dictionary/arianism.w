@@ -1,0 +1,1 @@
+{"index": 19634, "D": "the doctrine, taught by Arius, that Christ the Son was not consubstantial with God the Father.", "S": [], "A": []}

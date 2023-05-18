@@ -1,0 +1,1 @@
+{"index": 215173, "D": "a device or support, especially for the foot, used to relieve or correct an orthopedic problem.", "S": [], "A": []}

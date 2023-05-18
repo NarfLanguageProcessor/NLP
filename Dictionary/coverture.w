@@ -1,0 +1,1 @@
+{"index": 71507, "D": "a cover or covering; shelter; concealment.", "S": [], "A": []}

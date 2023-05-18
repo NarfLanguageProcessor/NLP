@@ -1,0 +1,1 @@
+{"index": 177089, "D": "the gross structure  of a metal, as made visible to the naked eye by deep etching.", "S": [], "A": []}

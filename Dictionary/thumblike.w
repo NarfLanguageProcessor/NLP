@@ -1,0 +1,1 @@
+{"index": 322966, "D": "the short, thick, inner digit of the human hand, next to the forefinger.", "S": [], "A": []}

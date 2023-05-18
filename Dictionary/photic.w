@@ -1,0 +1,1 @@
+{"index": 234967, "D": "of or relating to light.", "S": [], "A": []}

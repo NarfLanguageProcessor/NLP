@@ -1,0 +1,1 @@
+{"index": 44746, "D": "any of several aromatic plants belonging to the genus Calamintha (or Satureja) of the mint family, having simple, opposite leaves and drooping clusters of flowers.", "S": [], "A": []}

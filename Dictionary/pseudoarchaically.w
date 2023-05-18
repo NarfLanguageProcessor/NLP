@@ -1,0 +1,1 @@
+{"index": 254514, "D": "marked by the characteristics of an earlier period; antiquated", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 132960, "D": "a city in central North Korea.", "S": [], "A": []}

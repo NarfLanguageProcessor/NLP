@@ -1,0 +1,1 @@
+{"index": 35868, "D": "brazenly obvious; flagrant", "S": ["conspicuous ", "flagrant ", "glaring ", "outright ", "overt ", "shameless ", "unabashed "], "A": ["concealed ", "hidden ", "moral ", "secret "]}

@@ -1,0 +1,1 @@
+{"index": 152593, "D": "of, relating to, or situated in the groin.", "S": [], "A": []}

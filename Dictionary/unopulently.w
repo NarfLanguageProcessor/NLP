@@ -1,0 +1,1 @@
+{"index": 347198, "D": "characterized by or exhibiting opulence", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332645, "D": "being in a state of agitation or tumult; disturbed", "S": ["crazily ", "desperately ", "energetically ", "excitedly ", "foolishly ", "frantically ", "furiously ", "hastily ", "hysterically ", "intensely ", "passionately ", "recklessly ", "violently "], "A": ["calmly ", "normally "]}

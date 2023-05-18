@@ -1,0 +1,1 @@
+{"index": 180081, "D": "a seasoned liquid, usually of vinegar or wine with oil, herbs, spices, etc., in which meat, fish, vegetables, etc., are steeped before cooking.", "S": ["vinegar "], "A": []}

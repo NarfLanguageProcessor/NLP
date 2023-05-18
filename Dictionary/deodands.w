@@ -1,0 +1,1 @@
+{"index": 81405, "D": "(before 1846) an animal or article that, having been the immediate cause of the death of a human being, was forfeited to the crown to be applied to pious uses.", "S": [], "A": []}

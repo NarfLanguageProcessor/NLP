@@ -1,0 +1,1 @@
+{"index": 103835, "D": "a defect of vision in which objects appear red", "S": [], "A": []}

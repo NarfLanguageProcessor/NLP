@@ -1,0 +1,1 @@
+{"index": 241641, "D": "pertaining to or affecting many joints.", "S": [], "A": []}

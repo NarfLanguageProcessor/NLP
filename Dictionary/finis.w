@@ -1,0 +1,1 @@
+{"index": 113012, "D": "end; conclusion. ", "S": ["over "], "A": ["incomplete ", "indirect ", "stopping ", "unfinished "]}

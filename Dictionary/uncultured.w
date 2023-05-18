@@ -1,0 +1,1 @@
+{"index": 338297, "D": "lacking good taste, manners, upbringing, and education", "S": ["boorish ", "coarse ", "crass ", "ignorant ", "philistine ", "rude ", "uncivilized ", "uncouth ", "unlettered ", "unpolished ", "unrefined ", "vulgar "], "A": ["cultured "]}

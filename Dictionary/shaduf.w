@@ -1,0 +1,1 @@
+{"index": 287111, "D": "a variant spelling of shadoof", "S": [], "A": []}

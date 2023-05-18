@@ -1,0 +1,1 @@
+{"index": 159100, "D": "of, relating to, or having equality of measure.", "S": [], "A": []}

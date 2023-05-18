@@ -1,0 +1,1 @@
+{"index": 33749, "D": "a wild sheep, Ovis canadensis, of the Rocky Mountains, with large, curving horns. ", "S": [], "A": []}

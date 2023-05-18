@@ -1,0 +1,1 @@
+{"index": 75568, "D": [], "S": ["rounded ", "shapely "], "A": ["flat "]}

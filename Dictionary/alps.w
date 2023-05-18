@@ -1,0 +1,1 @@
+{"index": 9392, "D": "a mountain range in S Europe, extending from France through Switzerland and Italy into Austria, Slovenia, and Croatia. Highest peak, Mont Blanc, 15,781 feet (4,810 meters).", "S": ["sierra "], "A": []}

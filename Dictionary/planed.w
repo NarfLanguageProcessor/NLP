@@ -1,0 +1,1 @@
+{"index": 238909, "D": "a flat or level surface.", "S": ["depressed "], "A": []}

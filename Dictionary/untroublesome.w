@@ -1,0 +1,1 @@
+{"index": 353393, "D": "causing trouble,  annoyance, or difficulty; vexatious", "S": ["accessible ", "clear ", "effortless ", "obvious ", "painless ", "simple ", "smooth ", "straightforward ", "uncomplicated "], "A": ["complicated ", "difficult ", "hard ", "obscure "]}

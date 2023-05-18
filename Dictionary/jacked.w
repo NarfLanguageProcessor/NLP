@@ -1,0 +1,1 @@
+{"index": 159892, "D": "very stimulated and excited, as from coffee or drugs.", "S": ["hoist ", "shove "], "A": ["condemn ", "decline ", "decrease ", "demote ", "denounce ", "depress ", "destroy ", "drop ", "fall ", "hurt ", "lower ", "raze ", "ruin "]}

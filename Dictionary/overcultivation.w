@@ -1,0 +1,1 @@
+{"index": 218814, "D": "the act or art of cultivating. ", "S": [], "A": []}

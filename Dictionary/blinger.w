@@ -1,0 +1,1 @@
+{"index": 36245, "D": "expensive and flashy jewelry, clothing, or other possessions.", "S": [], "A": []}

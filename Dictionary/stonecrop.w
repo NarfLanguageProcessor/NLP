@@ -1,0 +1,1 @@
+{"index": 305199, "D": "any plant of the genus Sedum, especially a mosslike herb, S. acre, having small, fleshy leaves and yellow flowers, frequently growing on rocks and walls.", "S": [], "A": []}

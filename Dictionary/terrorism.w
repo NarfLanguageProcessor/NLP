@@ -1,0 +1,1 @@
+{"index": 319626, "D": "the unlawful use of violence or threats to intimidate or coerce a civilian population or government, with the goal of furthering political, social, or ideological objectives.", "S": ["chaos ", "complication ", "disturbance ", "lawlessness ", "trouble ", "unrest "], "A": ["calm ", "harmony ", "order ", "peace ", "quiet ", "agreement ", "calmness "]}

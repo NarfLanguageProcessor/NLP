@@ -1,0 +1,1 @@
+{"index": 213707, "D": [], "S": ["antagonism ", "contradiction ", "contradistinction ", "contrariety ", "inversion ", "reversal "], "A": ["agreement "]}

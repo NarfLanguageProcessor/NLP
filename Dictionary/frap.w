@@ -1,0 +1,1 @@
+{"index": 118417, "D": "to bind or wrap tightly with ropes or chains.", "S": [], "A": []}

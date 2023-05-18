@@ -1,0 +1,1 @@
+{"index": 315588, "D": "having talent  or special ability; gifted.", "S": ["accomplished ", "adept ", "brilliant ", "capable ", "intelligent ", "proficient ", "skilled ", "smart "], "A": ["clumsy ", "dull ", "incompetent ", "inept ", "stupid ", "unable ", "unintelligent ", "unskilled "]}

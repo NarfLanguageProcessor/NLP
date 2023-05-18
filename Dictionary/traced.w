@@ -1,0 +1,1 @@
+{"index": 327028, "D": "a surviving mark, sign, or evidence of the former existence, influence, or action of some agent or event; vestige", "S": ["drawn ", "duplicated ", "etched ", "imitated ", "imprinted ", "outlined ", "reproduced ", "sketched "], "A": []}

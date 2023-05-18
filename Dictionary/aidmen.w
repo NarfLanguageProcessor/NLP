@@ -1,0 +1,1 @@
+{"index": 6715, "D": "a military medical corpsman trained to provide initial emergency treatment.", "S": [], "A": []}

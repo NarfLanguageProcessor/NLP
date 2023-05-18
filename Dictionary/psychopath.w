@@ -1,0 +1,1 @@
+{"index": 255430, "D": "a person with a psychopathic  personality, which manifests as amoral and antisocial behavior, lack of ability to love or establish meaningful personal relationships, extreme egocentricity, failure to learn from experience, etc.", "S": ["lunatic ", "maniac ", "psycho ", "sociopath "], "A": []}

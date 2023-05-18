@@ -1,0 +1,1 @@
+{"index": 214367, "D": "noting or pertaining to a class of chemical compounds that formerly comprised only those existing in or derived from plants or animals, but that now includes all other compounds of carbon.", "S": [], "A": []}

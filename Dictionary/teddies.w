@@ -1,0 +1,1 @@
+{"index": 317746, "D": "a woman's one-piece undergarment combining a chemise and underpants, sometimes having a snap crotch.", "S": ["camisole ", "dishabille ", "nightdress ", "nightie ", "peignoir ", "robe ", "wrap ", "wrapper "], "A": []}

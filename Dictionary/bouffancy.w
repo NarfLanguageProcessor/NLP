@@ -1,0 +1,1 @@
+{"index": 38880, "D": "puffed out; full", "S": [], "A": []}

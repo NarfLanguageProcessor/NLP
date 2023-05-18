@@ -1,0 +1,1 @@
+{"index": 88175, "D": "to separate; disintegrate; scatter.", "S": [], "A": []}

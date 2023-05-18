@@ -1,0 +1,1 @@
+{"index": 74966, "D": "a combining form representing cumulus  in compound words.", "S": [], "A": []}

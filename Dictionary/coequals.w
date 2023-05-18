@@ -1,0 +1,1 @@
+{"index": 62028, "D": "equal with another or each other in rank, ability, extent, etc.", "S": ["associate ", "colleague ", "compeer ", "contemporary ", "equal "], "A": []}

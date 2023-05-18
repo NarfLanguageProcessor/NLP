@@ -1,0 +1,1 @@
+{"index": 245678, "D": "the act or process of altering;  the state of being altered", "S": [], "A": []}

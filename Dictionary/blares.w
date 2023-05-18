@@ -1,0 +1,1 @@
+{"index": 35749, "D": "to emit a loud, raucous sound", "S": ["bark ", "clang ", "honk ", "hoot ", "resound ", "roar ", "scream ", "shout ", "shriek ", "toot ", "trumpet "], "A": ["toot "]}

@@ -1,0 +1,1 @@
+{"index": 49201, "D": "of, relating to, or resulting from a cataclysm. ", "S": ["calamitous ", "catastrophic ", "disastrous ", "fatal ", "ruinous ", "tragic "], "A": ["advantageous ", "blessed ", "fortunate ", "happy ", "successful "]}

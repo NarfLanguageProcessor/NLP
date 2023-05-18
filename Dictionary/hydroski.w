@@ -1,0 +1,1 @@
+{"index": 138947, "D": "a hydrofoil attached to a seaplane to aid in takeoffs and landings.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 298691, "D": "a person who speaks. ", "S": ["announcer ", "elocutionist ", "lecturer ", "mouthpiece ", "orator ", "rhetorician ", "speechmaker ", "spokesperson "], "A": []}

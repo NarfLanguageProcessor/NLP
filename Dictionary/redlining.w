@@ -1,0 +1,1 @@
+{"index": 264336, "D": "a discriminatory practice by which banks, insurance companies, etc., refuse or limit loans, mortgages, insurance, etc., within specific geographic areas, especially inner-city neighborhoods.", "S": ["comprehend ", "discern ", "discriminate ", "extricate ", "separate ", "understand "], "A": ["misinterpret ", "mistake ", "misunderstand "]}

@@ -1,0 +1,1 @@
+{"index": 193462, "D": "a Polynesian people of New Zealand, esp of the Chatham Islands, closely related to the mainland M\u0101ori", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 345976, "D": "made clear or evident to the eye or understanding; shown plainly", "S": [], "A": []}

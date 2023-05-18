@@ -1,0 +1,1 @@
+{"index": 231951, "D": "a human being, whether an adult or child", "S": ["body ", "character ", "customer ", "guy ", "human ", "individual ", "life ", "man ", "somebody ", "woman "], "A": ["inanimate "]}

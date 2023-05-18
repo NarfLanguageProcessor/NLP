@@ -1,0 +1,1 @@
+{"index": 185979, "D": "chip1 (def. 5). ", "S": ["chip ", "circuitry ", "microprocessor ", "silicon chip "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 198510, "D": "of or relating to Nepal,  its inhabitants, or their language.", "S": [], "A": []}

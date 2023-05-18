@@ -1,0 +1,1 @@
+{"index": 355253, "D": "the sacred asp as represented upon the headdress of divinities and royal personages of ancient Egypt, usually directly over the forehead, as an emblem of supreme power.", "S": [], "A": []}

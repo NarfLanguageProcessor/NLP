@@ -1,0 +1,1 @@
+{"index": 83247, "D": "the act of detonating. ", "S": ["ignition "], "A": []}

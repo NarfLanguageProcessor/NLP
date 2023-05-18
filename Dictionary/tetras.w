@@ -1,0 +1,1 @@
+{"index": 320185, "D": "any of several tropical, freshwater fishes of the family Characidae, often kept in aquariums.", "S": [], "A": []}

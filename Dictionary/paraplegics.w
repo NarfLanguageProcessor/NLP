@@ -1,0 +1,1 @@
+{"index": 225992, "D": "having paraplegia;  paralyzed in the lower half of the body or in both lower limbs as a result of spinal disease or injury.", "S": [], "A": []}

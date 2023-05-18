@@ -1,0 +1,1 @@
+{"index": 213240, "D": "unreserved, candid, or frank", "S": ["aboveboard ", "bare-faced ", "blunt ", "candid ", "direct ", "downright ", "forthright ", "from the hip ", "honest ", "lay it on the line ", "like it is ", "matter-of-fact ", "open ", "plain ", "plainspoken ", "saying what one thinks ", "sincere ", "straight ", "straightforward ", "truthful ", "up front "], "A": []}

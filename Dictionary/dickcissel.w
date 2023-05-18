@@ -1,0 +1,1 @@
+{"index": 84881, "D": "a bunting, Spiza americana, of the eastern and central U.S., having a brownish back streaked with black and a yellowish breast and in the male a black patch on the throat.", "S": [], "A": []}

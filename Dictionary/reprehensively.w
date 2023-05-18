@@ -1,0 +1,1 @@
+{"index": 268476, "D": "the act of reprehending;  reproof; censure.", "S": [], "A": []}

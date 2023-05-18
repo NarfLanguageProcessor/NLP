@@ -1,0 +1,1 @@
+{"index": 324230, "D": "the study of the causes and treatment of blindness.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 212590, "D": "eating both animal and plant foods.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246685, "D": "the act of deceiving;  the state of being deceived. ", "S": [], "A": []}

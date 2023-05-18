@@ -1,0 +1,1 @@
+{"index": 64466, "D": "capable of existing or living together in harmony", "S": ["accord ", "coherence ", "concord ", "conformity ", "consistency ", "consonance ", "symmetry "], "A": ["difference ", "disagreement ", "discord ", "incongruity ", "irregularity ", "nonconformity ", "refusal "]}

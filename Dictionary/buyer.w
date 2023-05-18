@@ -1,0 +1,1 @@
+{"index": 42361, "D": "a person who buys;  purchaser.", "S": ["client ", "consumer ", "customer ", "patron ", "purchaser ", "shopper ", "user "], "A": ["manager ", "owner "]}

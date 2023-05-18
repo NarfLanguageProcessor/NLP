@@ -1,0 +1,1 @@
+{"index": 285357, "D": "that which can be sensed", "S": [], "A": []}

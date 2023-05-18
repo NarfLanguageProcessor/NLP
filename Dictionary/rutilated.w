@@ -1,0 +1,1 @@
+{"index": 275941, "D": "containing fine, embedded needles of rutile.", "S": [], "A": []}

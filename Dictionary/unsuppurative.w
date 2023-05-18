@@ -1,0 +1,1 @@
+{"index": 352472, "D": "suppurating;  characterized by suppuration. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 6374, "D": "a person engaged in a contest, conflict, struggle, etc., especially the protagonist  in a literary work.", "S": [], "A": []}

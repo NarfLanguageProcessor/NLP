@@ -1,0 +1,1 @@
+{"index": 275501, "D": "attended with, making, or causing a rumbling  sound.", "S": [], "A": []}

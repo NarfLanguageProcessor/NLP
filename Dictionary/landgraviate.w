@@ -1,0 +1,1 @@
+{"index": 167941, "D": "the office, jurisdiction, or territory of a landgrave.", "S": [], "A": []}

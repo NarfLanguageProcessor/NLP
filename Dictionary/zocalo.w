@@ -1,0 +1,1 @@
+{"index": 369614, "D": "a public square or plaza, especially in the center of a city or town.", "S": [], "A": []}

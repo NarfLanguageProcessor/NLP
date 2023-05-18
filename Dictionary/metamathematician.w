@@ -1,0 +1,1 @@
+{"index": 184798, "D": "the logical analysis of the fundamental concepts of mathematics,  as number, function, etc.", "S": [], "A": []}

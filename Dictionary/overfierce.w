@@ -1,0 +1,1 @@
+{"index": 219365, "D": "menacingly wild, savage, or hostile", "S": [], "A": []}

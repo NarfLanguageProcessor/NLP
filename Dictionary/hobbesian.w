@@ -1,0 +1,1 @@
+{"index": 142081, "D": "a person who believes in or advocates the principles of Thomas Hobbes. ", "S": [], "A": []}

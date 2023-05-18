@@ -1,0 +1,1 @@
+{"index": 139867, "D": "the principle or practice of unselfish concern for or devotion to the welfare of others (opposed to egoism).", "S": [], "A": []}

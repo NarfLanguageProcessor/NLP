@@ -1,0 +1,1 @@
+{"index": 300725, "D": "the forward displacement of a vertebra.", "S": [], "A": []}

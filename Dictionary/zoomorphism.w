@@ -1,0 +1,1 @@
+{"index": 369862, "D": "zoomorphic  representation, as in ornament.", "S": [], "A": []}

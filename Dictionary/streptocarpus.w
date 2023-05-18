@@ -1,0 +1,1 @@
+{"index": 306099, "D": "any of various plants belonging to the genus Streptocarpus, of the gesneria family, native to Africa and Asia, having showy white, pink, or purplish flowers and often cultivated as a houseplant.", "S": [], "A": []}

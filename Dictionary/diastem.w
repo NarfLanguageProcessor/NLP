@@ -1,0 +1,1 @@
+{"index": 84552, "D": "a minor hiatus in an orderly succession of sedimentary rocks.", "S": [], "A": []}

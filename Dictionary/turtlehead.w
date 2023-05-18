@@ -1,0 +1,1 @@
+{"index": 332957, "D": "any of several North American plants belonging to the genus Chelone, of the figwort family, having opposite, serrated leaves and spikes of purple or white, two-lipped flowers.", "S": [], "A": []}

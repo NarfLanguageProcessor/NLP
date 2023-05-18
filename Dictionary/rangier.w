@@ -1,0 +1,1 @@
+{"index": 260567, "D": "(of animals or people) slender and long-limbed.", "S": ["gangly ", "lanky ", "leggy ", "skinny ", "spindly "], "A": ["chubby "]}

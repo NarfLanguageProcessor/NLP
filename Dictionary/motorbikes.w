@@ -1,0 +1,1 @@
+{"index": 194039, "D": "a small, lightweight motorcycle.", "S": ["scooter "], "A": []}

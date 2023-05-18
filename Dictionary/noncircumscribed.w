@@ -1,0 +1,1 @@
+{"index": 201949, "D": "to draw a line around; encircle", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 70863, "D": "a program or an act of combating guerrilla warfare and subversion.", "S": [], "A": []}

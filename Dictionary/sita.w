@@ -1,0 +1,1 @@
+{"index": 292604, "D": "(in the Ramayana) the wife of Ramachandra, abducted by Ravana and later rescued.", "S": [], "A": []}

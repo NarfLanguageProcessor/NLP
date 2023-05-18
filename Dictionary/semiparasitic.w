@@ -1,0 +1,1 @@
+{"index": 284653, "D": "commonly parasitic  but also capable of living on dead or decaying animal matter.", "S": [], "A": []}

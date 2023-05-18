@@ -1,0 +1,1 @@
+{"index": 339822, "D": "a horizontal timber, block, or the like serving as a foundation of a wall, house, etc.", "S": [], "A": []}

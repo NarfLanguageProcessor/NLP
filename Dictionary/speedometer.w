@@ -1,0 +1,1 @@
+{"index": 299032, "D": "an instrument on an automobile or other vehicle for indicating the rate of travel in miles or kilometers per hour.", "S": [], "A": []}

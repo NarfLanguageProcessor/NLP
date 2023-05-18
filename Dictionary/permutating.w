@@ -1,0 +1,1 @@
+{"index": 231644, "D": "to cause (something) to undergo permutation.", "S": ["refurbish "], "A": []}

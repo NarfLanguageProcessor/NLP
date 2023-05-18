@@ -1,0 +1,1 @@
+{"index": 367155, "D": "a material or finish that imitates the natural grain  of wood  in pattern, color, and sometimes texture.", "S": [], "A": []}

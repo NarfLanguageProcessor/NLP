@@ -1,0 +1,1 @@
+{"index": 302499, "D": "not fresh; vapid or flat, as beverages; dry or hardened, as bread.", "S": ["musty ", "smelly ", "sour ", "stagnant ", "watery "], "A": ["damp ", "moist ", "wet "]}

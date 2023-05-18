@@ -1,0 +1,1 @@
+{"index": 305483, "D": "noting or pertaining to the side, as of a hill or dale, that receives or has received the thrust of a glacier or other impulse.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 9102, "D": "a mineral, red iron aluminum garnet.", "S": [], "A": []}

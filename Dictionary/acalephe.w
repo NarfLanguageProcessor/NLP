@@ -1,0 +1,1 @@
+{"index": 1260, "D": "(in former classifications) any coelenterate of the group Acalephae, including the sea nettles and jellyfishes.", "S": [], "A": []}

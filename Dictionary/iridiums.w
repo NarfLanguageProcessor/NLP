@@ -1,0 +1,1 @@
+{"index": 157969, "D": "a precious metallic element resembling platinum", "S": [], "A": []}

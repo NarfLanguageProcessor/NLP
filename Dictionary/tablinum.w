@@ -1,0 +1,1 @@
+{"index": 314872, "D": "(in an ancient Roman house) a large, open room at the side of the peristyle farthest from the main entrance.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 106921, "D": "to regard or judge with forgiveness or indulgence; pardon or forgive; overlook (a fault, error, etc.)", "S": ["flexible ", "soft "], "A": ["rigid ", "stern ", "unyielding "]}

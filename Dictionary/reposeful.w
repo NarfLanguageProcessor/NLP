@@ -1,0 +1,1 @@
+{"index": 268396, "D": "full of or suggesting repose;  calm; quiet.", "S": ["cool ", "harmonious ", "low-key ", "mild ", "placid ", "serene ", "slow ", "smooth ", "soothing ", "tranquil "], "A": ["agitated ", "excited ", "harsh ", "nervous ", "rough ", "uncool ", "violent "]}

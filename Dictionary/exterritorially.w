@@ -1,0 +1,1 @@
+{"index": 108335, "D": "extraterritorial. ", "S": [], "A": []}

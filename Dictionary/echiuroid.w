@@ -1,0 +1,1 @@
+{"index": 95261, "D": "any wormlike invertebrate of the phylum Echiuroidea, found in sand and mud of tropical and subtropical seas, having at the mouth a ciliated, often elongated prostomium.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 96388, "D": "the fundus of the eye  as seen through an ophthalmoscope, examined chiefly to determine changes in the blood vessels.", "S": [], "A": []}

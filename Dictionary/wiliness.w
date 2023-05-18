@@ -1,0 +1,1 @@
+{"index": 365755, "D": "full of, marked by, or proceeding from wiles;  crafty; cunning.", "S": ["artfulness ", "artifice ", "astuteness ", "craftiness ", "deceit ", "duplicity ", "guile ", "slyness ", "trickery "], "A": ["artlessness ", "frankness ", "honesty ", "openness ", "sincerity ", "truthfulness "]}

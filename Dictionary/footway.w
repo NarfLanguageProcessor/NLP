@@ -1,0 +1,1 @@
+{"index": 116268, "D": "a way or path for people going on foot.", "S": ["bridge "], "A": []}

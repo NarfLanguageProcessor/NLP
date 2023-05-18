@@ -1,0 +1,1 @@
+{"index": 165573, "D": "characteristic of a knight;  noble, courageous, and generous", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 177835, "D": "letters, packages, etc., that are sent or delivered by means of a postal system", "S": ["communication ", "letter ", "package ", "parcel ", "post ", "postcard "], "A": ["conversation "]}

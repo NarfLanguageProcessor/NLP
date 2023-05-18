@@ -1,0 +1,1 @@
+{"index": 165227, "D": "tawdry or showy and usually appealing to popular or undiscriminating taste", "S": ["gaudy ", "glittering ", "ornate ", "ostentatious ", "showy ", "vulgar "], "A": ["drab ", "modest ", "plain ", "refined ", "simple "]}

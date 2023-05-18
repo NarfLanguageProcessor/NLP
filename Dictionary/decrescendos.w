@@ -1,0 +1,1 @@
+{"index": 78767, "D": "gradually reducing force or loudness; diminuendo (opposed to crescendo).", "S": [], "A": []}

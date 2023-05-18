@@ -1,0 +1,1 @@
+{"index": 106287, "D": "capable of being evoked. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 33677, "D": "to divide or fork  into two branches.", "S": ["bisect ", "branch ", "diverge ", "divide ", "fork ", "furcate ", "ramify ", "separate ", "split "], "A": ["agree ", "combine ", "join ", "unite "]}

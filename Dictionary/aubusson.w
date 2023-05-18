@@ -1,0 +1,1 @@
+{"index": 23236, "D": "an ornate rug constructed in a flat tapestry weave, often in pastel colors.", "S": [], "A": []}

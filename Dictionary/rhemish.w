@@ -1,0 +1,1 @@
+{"index": 271857, "D": "of, relating to, or originating in Reims", "S": [], "A": []}

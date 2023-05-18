@@ -1,0 +1,1 @@
+{"index": 286640, "D": "having setae or bristles.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 50825, "D": "a silver coin of ancient Rome, first issued by Diocletian as one 100th of a solidus, later greatly debased.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227286, "D": "the range of frequencies that pass  with a minimum of attenuation through an electronic filter.", "S": [], "A": []}

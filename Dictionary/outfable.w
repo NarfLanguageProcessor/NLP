@@ -1,0 +1,1 @@
+{"index": 216555, "D": "a short tale to teach a moral lesson, often with animals or inanimate objects as characters; apologue", "S": [], "A": []}

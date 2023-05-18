@@ -1,0 +1,1 @@
+{"index": 42711, "D": "to bungle or blunder awkwardly; muddle", "S": ["botcher ", "bungler ", "fumbler ", "stumbler "], "A": []}

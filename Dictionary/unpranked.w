@@ -1,0 +1,1 @@
+{"index": 348261, "D": "a trick of an amusing, playful, or sometimes malicious nature.", "S": [], "A": []}

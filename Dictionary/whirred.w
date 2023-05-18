@@ -1,0 +1,1 @@
+{"index": 365003, "D": "to go, fly, revolve, or otherwise move quickly with a humming or buzzing sound", "S": ["bombinate ", "boom ", "cannonade ", "drum ", "echo ", "growl ", "grumble ", "hum ", "pattern ", "quaver ", "rattle ", "resound ", "roar ", "ruffle ", "rumble ", "rustle ", "sound ", "trill ", "whirr "], "A": ["soothe "]}

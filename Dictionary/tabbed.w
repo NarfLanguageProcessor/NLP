@@ -1,0 +1,1 @@
+{"index": 314767, "D": "a small flap, strap, loop, or similar appendage, as on a garment, used for pulling, hanging, or decoration.", "S": ["called ", "conscript ", "elect ", "exclusive ", "named ", "pegged ", "pick ", "picked ", "select ", "selected "], "A": ["ignored ", "inferior "]}

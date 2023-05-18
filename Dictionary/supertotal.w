@@ -1,0 +1,1 @@
+{"index": 312817, "D": "constituting or comprising the whole; entire; whole", "S": [], "A": []}

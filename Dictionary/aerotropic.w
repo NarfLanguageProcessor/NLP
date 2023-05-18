@@ -1,0 +1,1 @@
+{"index": 5164, "D": "growth or movement in the direction of a supply of air or oxygen.", "S": [], "A": []}

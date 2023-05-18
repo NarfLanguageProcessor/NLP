@@ -1,0 +1,1 @@
+{"index": 9091, "D": "a Greek work on astronomy by Ptolemy.", "S": [], "A": []}

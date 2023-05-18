@@ -1,0 +1,1 @@
+{"index": 186416, "D": "a microphotograph reproduced in print  for reading by a magnifying device.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246938, "D": "an act of predicting. ", "S": ["forecast ", "forecasting ", "guess ", "indicator ", "prognosis ", "prophecy "], "A": ["proof ", "reality ", "truth "]}

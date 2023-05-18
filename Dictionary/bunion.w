@@ -1,0 +1,1 @@
+{"index": 42877, "D": "inflammation of the synovial bursa of the big toe, usually resulting in enlargement of the joint and lateral displacement of the toe.", "S": ["abscess ", "blister ", "bruise ", "bump ", "contusion ", "inflammation ", "injury ", "nodule ", "sore ", "tumor ", "welt "], "A": ["decrease ", "depression "]}

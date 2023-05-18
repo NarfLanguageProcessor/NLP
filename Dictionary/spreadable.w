@@ -1,0 +1,1 @@
+{"index": 301216, "D": "capable of being spread;  easily spread", "S": [], "A": []}

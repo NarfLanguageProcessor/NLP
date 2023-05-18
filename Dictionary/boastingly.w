@@ -1,0 +1,1 @@
+{"index": 36976, "D": "to speak with exaggeration and excessive pride, especially about oneself.", "S": [], "A": []}

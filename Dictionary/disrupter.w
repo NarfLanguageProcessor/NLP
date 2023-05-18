@@ -1,0 +1,1 @@
+{"index": 89371, "D": "to cause disorder or turmoil in", "S": ["anarchist ", "demagogue ", "firebrand ", "malcontent ", "propagandist ", "protestor ", "radical ", "troublemaker ", "zealot "], "A": ["moderate "]}

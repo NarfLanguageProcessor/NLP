@@ -1,0 +1,1 @@
+{"index": 326581, "D": "relating to or noting a device that begins to operate when it senses a person\u2019s motion or presence, without needing to be touched", "S": [], "A": []}

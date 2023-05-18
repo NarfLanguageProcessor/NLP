@@ -1,0 +1,1 @@
+{"index": 83310, "D": "an organism that uses organic waste as a food source, as certain insects.", "S": [], "A": []}

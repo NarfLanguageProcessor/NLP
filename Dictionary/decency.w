@@ -1,0 +1,1 @@
+{"index": 78204, "D": "the state or quality of being decent.", "S": ["civility ", "correctness ", "courtesy ", "decorum ", "dignity ", "good manners ", "honesty ", "modesty ", "propriety ", "righteousness ", "virtue "], "A": ["bad manners ", "discourtesy ", "immorality ", "impoliteness ", "impropriety ", "rudeness ", "unsuitableness ", "wrong ", "inappropriateness "]}

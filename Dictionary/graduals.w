@@ -1,0 +1,1 @@
+{"index": 128566, "D": "taking place, changing, moving, etc., by small degrees or little by little", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 224357, "D": "a festival in honor of the goddess Athena, celebrated yearly in ancient Athens, with each fourth year reserved for greater pomp, marked by contests, as in athletics and music, and highlighted by a solemn procession to the Acropolis bearing a peplos embroidered for the goddess.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 203110, "D": "of or relating to a dynasty,  a sequence of rulers or other powerful or wealthy people, usually from the same family", "S": [], "A": []}

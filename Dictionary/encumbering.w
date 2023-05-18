@@ -1,0 +1,1 @@
+{"index": 99547, "D": "to impede or hinder; hamper", "S": ["intrusive ", "meddling ", "nosy ", "pushy "], "A": ["avoiding ", "dodging ", "ignorant "]}

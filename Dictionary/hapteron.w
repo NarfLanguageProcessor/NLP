@@ -1,0 +1,1 @@
+{"index": 133530, "D": "a structure by which a fungus, aquatic plant, or algae colony attaches to an object; a holdfast. ", "S": [], "A": []}

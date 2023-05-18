@@ -1,0 +1,1 @@
+{"index": 215555, "D": "characterized by or given to pretentious or conspicuous show in an attempt to impress others", "S": ["classy ", "conspicuous ", "extravagant ", "flamboyant ", "garish ", "gaudy ", "glittery ", "jaunty ", "splashy ", "swank "], "A": ["calm ", "moderate ", "modest ", "plain ", "tasteful "]}

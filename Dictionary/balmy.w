@@ -1,0 +1,1 @@
+{"index": 27072, "D": "mild and refreshing; soft; soothing", "S": ["mild ", "moist ", "pleasant ", "temperate ", "tropical "], "A": ["autumnal ", "cool ", "freezing ", "inclement ", "sweltering ", "torrid "]}

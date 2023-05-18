@@ -1,0 +1,1 @@
+{"index": 114907, "D": "a form of psychotherapy in which the patient receives abrupt and intense, rather than gradual, exposure to a fear-producing situation.", "S": ["inundation "], "A": []}

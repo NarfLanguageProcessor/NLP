@@ -1,0 +1,1 @@
+{"index": 227226, "D": "the wife of Minos, mother of Ariadne, and mother of the Minotaur by the Cretan bull.", "S": [], "A": []}

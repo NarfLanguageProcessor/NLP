@@ -1,0 +1,1 @@
+{"index": 14968, "D": "preventing coagulation, especially of blood.", "S": [], "A": []}

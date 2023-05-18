@@ -1,0 +1,1 @@
+{"index": 141174, "D": "to cause (a person) to become less sensitive to (a substance producing an allergic reaction); desensitize.", "S": [], "A": []}

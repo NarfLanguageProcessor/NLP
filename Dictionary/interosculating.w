@@ -1,0 +1,1 @@
+{"index": 155556, "D": "to interpenetrate; inosculate.", "S": [], "A": []}

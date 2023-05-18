@@ -1,0 +1,1 @@
+{"index": 39433, "D": "brevity of diction; concise or abridged form of expression.", "S": [], "A": []}

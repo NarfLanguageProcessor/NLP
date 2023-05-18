@@ -1,0 +1,1 @@
+{"index": 133866, "D": "to bring into harmony,  accord, or agreement", "S": ["adjust ", "cooperate ", "coordinate ", "integrate ", "reconcile ", "unify "], "A": ["conceal ", "differ ", "disagree ", "disarrange ", "disconnect ", "disorder ", "disorganize ", "disperse ", "dispute ", "disturb ", "divide ", "oppose ", "refuse ", "scatter ", "separate "]}

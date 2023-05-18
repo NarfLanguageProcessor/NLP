@@ -1,0 +1,1 @@
+{"index": 140514, "D": "(of a person, ideas, tastes, manners, etc.) altered by education, experience, etc., so as to be worldly-wise; not naive", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 192503, "D": "consisting of one leaf, as a calyx.", "S": [], "A": []}

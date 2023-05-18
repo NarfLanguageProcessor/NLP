@@ -1,0 +1,1 @@
+{"index": 101700, "D": "a low floor between two higher floors, the lower one usually being a ground floor; mezzanine.", "S": ["balcony "], "A": []}

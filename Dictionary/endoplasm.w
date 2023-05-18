@@ -1,0 +1,1 @@
+{"index": 99889, "D": "Compare ectoplasm (def. 1). ", "S": [], "A": []}

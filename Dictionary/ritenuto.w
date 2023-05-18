@@ -1,0 +1,1 @@
+{"index": 273302, "D": "(of a passage in a musical score) immediately slower.", "S": [], "A": []}

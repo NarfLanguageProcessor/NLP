@@ -1,0 +1,1 @@
+{"index": 272361, "D": "a wheezing or snoring sound heard upon auscultation of the chest, caused by an accumulation of mucus or other material.", "S": [], "A": []}

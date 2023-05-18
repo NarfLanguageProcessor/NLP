@@ -1,0 +1,1 @@
+{"index": 289374, "D": "a side road taken instead of a turnpike  or expressway to avoid tolls or to travel at a leisurely pace.", "S": [], "A": []}

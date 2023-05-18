@@ -1,0 +1,1 @@
+{"index": 331750, "D": "(among the Shuar subgroup of the Jivaro people of Ecuador) the shrunken head of an enemy kept as a trophy", "S": [], "A": []}

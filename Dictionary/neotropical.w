@@ -1,0 +1,1 @@
+{"index": 198501, "D": "belonging or pertaining to a geographical division comprising that part of the New World extending from the tropic of Cancer southward.", "S": [], "A": []}

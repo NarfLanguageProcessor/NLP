@@ -1,0 +1,1 @@
+{"index": 47887, "D": "a person who plays cards. ", "S": [], "A": []}

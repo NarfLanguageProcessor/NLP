@@ -1,0 +1,1 @@
+{"index": 46686, "D": "the religious official of a synagogue who conducts the liturgical portion of a service and sings or chants the prayers and parts of prayers designed to be performed as solos.", "S": ["chanter ", "hazan ", "leader ", "precentor ", "singer ", "soloist ", "vocalist "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359836, "D": "a very hot Indian curry made with meat or poultry, flavored with tamarind, vinegar, and garlic.", "S": [], "A": []}

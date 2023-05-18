@@ -1,0 +1,1 @@
+{"index": 816, "D": "an embrace, used in greeting someone.", "S": [], "A": []}

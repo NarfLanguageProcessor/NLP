@@ -1,0 +1,1 @@
+{"index": 359222, "D": "ability to live, especially under certain conditions", "S": ["activity ", "growth ", "heart ", "soul "], "A": ["apathy ", "dullness ", "inactivity ", "indifference ", "lethargy "]}

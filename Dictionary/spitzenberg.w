@@ -1,0 +1,1 @@
+{"index": 300284, "D": "any of several red or yellow varieties of apple that ripen in the autumn.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 325230, "D": "a crystalline, water-insoluble, solid, unsaturated compound, C14H10, used chiefly in organic synthesis.", "S": [], "A": []}

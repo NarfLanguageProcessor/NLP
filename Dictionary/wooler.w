@@ -1,0 +1,1 @@
+{"index": 367303, "D": "a domestic animal raised for its wool. ", "S": [], "A": []}

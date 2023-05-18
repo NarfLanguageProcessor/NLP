@@ -1,0 +1,1 @@
+{"index": 177672, "D": "(formerly) the wife of a maharajah.", "S": ["czar ", "emperor ", "king ", "monarch ", "shah ", "sultan "], "A": ["commoner ", "subject "]}

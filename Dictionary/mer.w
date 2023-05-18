@@ -1,0 +1,1 @@
+{"index": 183596, "D": "a combining form meaning \u201cmember of a particular group\u201d", "S": [], "A": []}

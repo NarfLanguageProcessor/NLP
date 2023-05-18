@@ -1,0 +1,1 @@
+{"index": 61894, "D": "the body cavity of higher metazoans, between the body wall and intestine, lined with a mesodermal epithelium.", "S": [], "A": []}

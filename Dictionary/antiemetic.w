@@ -1,0 +1,1 @@
+{"index": 15179, "D": "of or relating to a substance that is useful in the suppression of nausea or vomiting.", "S": [], "A": []}

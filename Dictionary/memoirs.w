@@ -1,0 +1,1 @@
+{"index": 183167, "D": "a collection of reminiscences about a period, series of events, etc, written from personal experience or special sources", "S": ["account ", "annals ", "biography ", "record ", "relation ", "story ", "tale "], "A": ["future "]}

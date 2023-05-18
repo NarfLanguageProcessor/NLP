@@ -1,0 +1,1 @@
+{"index": 208097, "D": "coincidence in pitch of two or more musical tones, voices, etc.", "S": [], "A": []}

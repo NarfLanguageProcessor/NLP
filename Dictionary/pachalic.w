@@ -1,0 +1,1 @@
+{"index": 222591, "D": "a variant spelling of pashalik", "S": [], "A": []}

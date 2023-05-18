@@ -1,0 +1,1 @@
+{"index": 249965, "D": "a variant of praetexta. ", "S": [], "A": []}

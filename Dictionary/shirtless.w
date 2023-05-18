@@ -1,0 +1,1 @@
+{"index": 288522, "D": "a long- or short-sleeved garment for the upper part of the body, usually lightweight and having a collar and a front opening.", "S": [], "A": []}

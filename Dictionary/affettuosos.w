@@ -1,0 +1,1 @@
+{"index": 5345, "D": "with affection and tenderness (a musical direction).", "S": [], "A": []}

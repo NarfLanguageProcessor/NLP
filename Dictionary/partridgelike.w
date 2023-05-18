@@ -1,0 +1,1 @@
+{"index": 227126, "D": "any of several Old World gallinaceous  game birds of the subfamily Perdicinae, especially Perdix perdix.", "S": [], "A": []}

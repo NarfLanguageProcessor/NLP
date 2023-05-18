@@ -1,0 +1,1 @@
+{"index": 355609, "D": "to push or force along; impel with force or vigor", "S": ["appetite ", "compulsion ", "craving ", "impulse ", "itch ", "longing ", "lust ", "passion ", "weakness ", "yearning "], "A": ["disgust ", "dislike ", "distaste ", "hate ", "hatred ", "indifference ", "deterrent ", "discouragement ", "hindrance "]}

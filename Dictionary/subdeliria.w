@@ -1,0 +1,1 @@
+{"index": 307702, "D": "a mild delirium  with lucid intervals.", "S": [], "A": []}

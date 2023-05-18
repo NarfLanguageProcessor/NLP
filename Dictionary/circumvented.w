@@ -1,0 +1,1 @@
+{"index": 58279, "D": "to go around or bypass", "S": ["humbled ", "overpowered ", "overwhelmed ", "routed "], "A": []}

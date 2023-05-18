@@ -1,0 +1,1 @@
+{"index": 202119, "D": "not communicable,  especially with reference to a disease that is not transmitted through contact with an infected or afflicted person.", "S": [], "A": []}

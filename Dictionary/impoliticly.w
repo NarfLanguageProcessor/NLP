@@ -1,0 +1,1 @@
+{"index": 148850, "D": "not politic,  expedient, or judicious.", "S": [], "A": []}

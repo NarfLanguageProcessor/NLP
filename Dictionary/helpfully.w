@@ -1,0 +1,1 @@
+{"index": 135807, "D": "giving or rendering aid or assistance; of service", "S": ["kindly "], "A": []}

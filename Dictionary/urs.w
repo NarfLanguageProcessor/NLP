@@ -1,0 +1,1 @@
+{"index": 355875, "D": "an ancient Sumerian city on the Euphrates, in S Iraq", "S": [], "A": []}

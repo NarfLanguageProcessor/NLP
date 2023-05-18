@@ -1,0 +1,1 @@
+{"index": 98771, "D": "a collection of pus in a body cavity, especially the pleural cavity.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 271372, "D": "the act of violating. ", "S": [], "A": []}

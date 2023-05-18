@@ -1,0 +1,1 @@
+{"index": 131345, "D": "a battle between two or more people or groups armed with guns,  especially a confrontation between two gunfighters using revolvers in the frontier days of the American West.", "S": [], "A": []}

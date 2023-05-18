@@ -1,0 +1,1 @@
+{"index": 332244, "D": "a thin, fine, machine-made net of acetate, nylon, rayon, or silk.", "S": ["fiber ", "taffeta ", "thread "], "A": []}

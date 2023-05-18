@@ -1,0 +1,1 @@
+{"index": 259729, "D": "(of drugs) producing effects similar to those produced by X-rays", "S": [], "A": []}

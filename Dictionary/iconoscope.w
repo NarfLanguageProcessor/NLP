@@ -1,0 +1,1 @@
+{"index": 146233, "D": "a television camera tube in which a beam of high-velocity electrons scans a photoemissive mosaic.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 226257, "D": "a joint heir; coheir.", "S": [], "A": []}

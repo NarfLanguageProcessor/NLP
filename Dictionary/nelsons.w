@@ -1,0 +1,1 @@
+{"index": 198190, "D": "a hold in which pressure is applied to the head, back of the neck, and one or both arms of the opponent.", "S": [], "A": []}

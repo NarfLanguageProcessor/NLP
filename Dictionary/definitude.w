@@ -1,0 +1,1 @@
+{"index": 79342, "D": "definiteness; exactitude; precision.", "S": ["certainty ", "efficiency ", "skill ", "truthfulness ", "veracity "], "A": ["inability "]}

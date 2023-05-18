@@ -1,0 +1,1 @@
+{"index": 126887, "D": "a double boiler in which glue  is melted.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288232, "D": "to put (something) aside and replace it by another or others; change or exchange", "S": ["apparatus ", "appliance ", "engine ", "equipment ", "gear ", "instrument ", "motor ", "system ", "tool ", "utensil ", "vehicle "], "A": ["end "]}

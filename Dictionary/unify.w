@@ -1,0 +1,1 @@
+{"index": 344103, "D": "to make or become a single unit; unite", "S": ["bring together ", "consolidate ", "merge "], "A": ["divide ", "part ", "separate ", "disconnect ", "disjoin ", "divorce "]}

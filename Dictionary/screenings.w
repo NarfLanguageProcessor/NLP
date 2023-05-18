@@ -1,0 +1,1 @@
+{"index": 281712, "D": "refuse separated by sifting", "S": ["sand ", "shale "], "A": []}

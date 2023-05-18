@@ -1,0 +1,1 @@
+{"index": 205018, "D": "a limiting  condition; restrictive weakness; lack of capacity; inability or handicap", "S": [], "A": []}

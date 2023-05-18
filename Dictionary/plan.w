@@ -1,0 +1,1 @@
+{"index": 238877, "D": "a scheme or method of acting, doing, proceeding, making, etc., developed in advance", "S": ["arrangement ", "deal ", "idea ", "intention ", "method ", "policy ", "procedure ", "program ", "project ", "proposal ", "strategy ", "suggestion ", "system ", "treatment "], "A": ["disorganization "]}

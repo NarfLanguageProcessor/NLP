@@ -1,0 +1,1 @@
+{"index": 48734, "D": "a variety of the winter melon, Cucumis melo inodorus, having a wrinkled, yellow rind and sweet, juicy, greenish flesh.", "S": ["cantaloupe ", "gourd ", "papaya ", "watermelon "], "A": []}

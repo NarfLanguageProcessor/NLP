@@ -1,0 +1,1 @@
+{"index": 141243, "D": "characterized by or causing low blood pressure, as shock.", "S": [], "A": []}

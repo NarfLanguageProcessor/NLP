@@ -1,0 +1,1 @@
+{"index": 172225, "D": "John. ?1614-57, English Puritan pamphleteer and leader of the Levellers, a radical group prominent during the Civil War", "S": [], "A": []}

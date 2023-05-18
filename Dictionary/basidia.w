@@ -1,0 +1,1 @@
+{"index": 28583, "D": "plural of basidium. ", "S": [], "A": []}

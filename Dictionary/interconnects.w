@@ -1,0 +1,1 @@
+{"index": 154733, "D": "to connect  with one another.", "S": ["annex "], "A": ["detach ", "disconnect ", "disjoin ", "divide ", "separate ", "subtract ", "withdraw "]}

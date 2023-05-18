@@ -1,0 +1,1 @@
+{"index": 93981, "D": [], "S": ["allay ", "appease ", "assuage ", "calm ", "conciliate ", "curb ", "gentle ", "honey ", "mollify ", "placate ", "propitiate ", "quell ", "quiet ", "reconcile ", "soften ", "soothe ", "sugar ", "sweeten "], "A": ["aggravate ", "agitate ", "incite ", "irritate ", "provoke ", "trouble ", "upset ", "worry "]}

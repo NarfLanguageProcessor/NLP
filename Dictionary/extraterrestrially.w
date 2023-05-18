@@ -1,0 +1,1 @@
+{"index": 108654, "D": "outside, or originating outside, the limits of the earth.", "S": [], "A": []}

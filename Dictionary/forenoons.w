@@ -1,0 +1,1 @@
+{"index": 116816, "D": "the period of daylight before noon.", "S": ["dawn "], "A": ["darkness ", "sunset "]}

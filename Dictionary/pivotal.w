@@ -1,0 +1,1 @@
+{"index": 238460, "D": "of, relating to, or serving as a pivot. ", "S": ["central ", "climactic ", "critical ", "crucial ", "decisive ", "essential ", "momentous ", "vital "], "A": ["inessential ", "minor ", "secondary ", "trivial ", "uncritical ", "unimportant "]}

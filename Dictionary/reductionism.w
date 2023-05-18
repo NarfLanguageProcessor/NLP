@@ -1,0 +1,1 @@
+{"index": 264484, "D": "the theory that every complex phenomenon, especially in biology or psychology, can be explained by analyzing the simplest, most basic physical mechanisms that are in operation during the phenomenon.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 279570, "D": "of or relating to Scandinavia,  its inhabitants, or their languages.", "S": [], "A": []}

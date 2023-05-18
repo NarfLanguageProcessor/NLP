@@ -1,0 +1,1 @@
+{"index": 322499, "D": "of or relating to Thrace or its inhabitants.", "S": [], "A": []}

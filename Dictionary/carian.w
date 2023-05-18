@@ -1,0 +1,1 @@
+{"index": 47995, "D": "a native or inhabitant of Caria. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 358633, "D": "of the nature of or resembling vermin. ", "S": ["disheveled ", "grimy ", "grubby ", "grungy ", "muddy ", "nasty ", "soiled ", "squalid "], "A": ["clean ", "pure "]}

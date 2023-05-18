@@ -1,0 +1,1 @@
+{"index": 166125, "D": "an aluminum bronze coin and monetary unit of the Czech Republic, equal to 100 halers. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175721, "D": "an oceangoing military ship, used by amphibious forces for landing troops and heavy equipment on beaches.", "S": [], "A": []}

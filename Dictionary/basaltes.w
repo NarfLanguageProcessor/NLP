@@ -1,0 +1,1 @@
+{"index": 28468, "D": "a type of unglazed stoneware, usually black with a dull gloss, developed by Josiah Wedgwood.", "S": [], "A": []}

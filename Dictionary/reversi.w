@@ -1,0 +1,1 @@
+{"index": 271267, "D": "a game played on a draughtboard with 64 pieces, black on one side and white on the other. When pieces are captured they are turned over to join the capturing player's forces; the winner is the player who fills the board with pieces of his colour", "S": [], "A": []}

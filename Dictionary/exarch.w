@@ -1,0 +1,1 @@
+{"index": 106498, "D": "a title originally applied to a patriarch but later applied only to a bishop ranking below a patriarch and above a metropolitan.", "S": [], "A": []}

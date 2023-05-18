@@ -1,0 +1,1 @@
+{"index": 33276, "D": "excessive fondness for acquiring and possessing books.", "S": [], "A": []}

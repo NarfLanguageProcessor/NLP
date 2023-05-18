@@ -1,0 +1,1 @@
+{"index": 303425, "D": "a small antelope, Raphicerus campestris, of grassy areas of eastern and southern Africa.", "S": [], "A": []}

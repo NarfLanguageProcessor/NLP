@@ -1,0 +1,1 @@
+{"index": 320562, "D": "(used, as after comparative adjectives and adverbs, to introduce the second member of an unequal comparison)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 74815, "D": "the practices and devotions of a cult. ", "S": [], "A": []}

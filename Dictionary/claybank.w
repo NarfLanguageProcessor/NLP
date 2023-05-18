@@ -1,0 +1,1 @@
+{"index": 59049, "D": "a dull yellow color; dun; brownish-yellow.", "S": [], "A": []}

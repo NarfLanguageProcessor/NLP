@@ -1,0 +1,1 @@
+{"index": 203139, "D": "having or exhibiting discipline;  rigorous", "S": [], "A": []}

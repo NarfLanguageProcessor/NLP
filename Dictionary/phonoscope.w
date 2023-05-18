@@ -1,0 +1,1 @@
+{"index": 234773, "D": "an instrument for making visible the motions or properties of a sounding body.", "S": [], "A": []}

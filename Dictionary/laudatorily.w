@@ -1,0 +1,1 @@
+{"index": 169104, "D": "containing or expressing praise", "S": [], "A": []}

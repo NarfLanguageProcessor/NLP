@@ -1,0 +1,1 @@
+{"index": 172613, "D": "a glycoprotein that is released by antigen-stimulated or mitogen-stimulated T cells and is toxic to various other cells.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 244541, "D": "having the shape or appearance of an umbo; bosslike", "S": [], "A": []}

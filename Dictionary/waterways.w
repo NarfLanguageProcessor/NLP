@@ -1,0 +1,1 @@
+{"index": 363247, "D": "a river, canal, or other body of water serving as a route or way of travel or transport.", "S": ["inlet "], "A": []}

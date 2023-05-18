@@ -1,0 +1,1 @@
+{"index": 176961, "D": "an immunoglobulin of unusually high relative molecular mass, observed in the blood in some diseases", "S": [], "A": []}

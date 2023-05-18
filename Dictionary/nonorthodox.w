@@ -1,0 +1,1 @@
+{"index": 205668, "D": "not conforming with established or accepted standards, as in religion, behaviour, or attitudes", "S": [], "A": []}

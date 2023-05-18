@@ -1,0 +1,1 @@
+{"index": 119408, "D": "a degree or state of coldness sufficient to cause the freezing of water.", "S": ["blight ", "dip ", "drop ", "freeze ", "hoarfrost ", "ice ", "rime "], "A": []}

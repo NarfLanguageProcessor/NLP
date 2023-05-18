@@ -1,0 +1,1 @@
+{"index": 302619, "D": "a person or thing that stamps. ", "S": [], "A": []}

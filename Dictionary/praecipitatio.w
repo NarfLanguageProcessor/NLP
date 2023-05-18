@@ -1,0 +1,1 @@
+{"index": 245121, "D": "precipitation  from a cloud that reaches the surface of the earth (distinguished from virga).", "S": [], "A": []}

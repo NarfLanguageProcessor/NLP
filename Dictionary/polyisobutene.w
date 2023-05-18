@@ -1,0 +1,1 @@
+{"index": 242001, "D": "a polymer of isobutylene,  used chiefly in the manufacture of synthetic rubber.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 51874, "D": "a bristle or seta, especially of a chaetopod.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 117712, "D": "the state or quality of being fortuitous; fortuitous  character.", "S": ["accident ", "blessing ", "fluke ", "fortuitousness ", "fortune ", "happenstance ", "kismet ", "luck "], "A": ["bad fortune ", "misfortune ", "plan "]}

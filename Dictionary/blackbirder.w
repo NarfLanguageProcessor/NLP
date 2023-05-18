@@ -1,0 +1,1 @@
+{"index": 35452, "D": "(formerly) a person or ship illegally engaged in the slave trade, especially in the Pacific.", "S": [], "A": []}

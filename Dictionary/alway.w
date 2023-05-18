@@ -1,0 +1,1 @@
+{"index": 9710, "D": "always. ", "S": ["consistently ", "constantly ", "ever ", "invariably ", "regularly ", "repeatedly "], "A": ["at no time ", "never "]}

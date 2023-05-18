@@ -1,0 +1,1 @@
+{"index": 176257, "D": "a dull or stupid person; blockhead.", "S": ["blockhead ", "boob ", "dolt ", "fool ", "goof ", "oaf ", "sap ", "sucker "], "A": ["brain "]}

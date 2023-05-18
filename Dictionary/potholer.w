@@ -1,0 +1,1 @@
+{"index": 244719, "D": "an explorer of caves; spelunker.", "S": [], "A": []}

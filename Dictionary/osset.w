@@ -1,0 +1,1 @@
+{"index": 215469, "D": "a member of an Aryan people of Ossetia whose religion combines features of Islam and Christianity.", "S": [], "A": []}

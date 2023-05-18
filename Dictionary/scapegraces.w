@@ -1,0 +1,1 @@
+{"index": 279624, "D": "a complete rogue or rascal; a habitually unscrupulous person; scamp.", "S": ["caitiff ", "miscreant ", "rapscallion ", "reprobate ", "rogue ", "scamp ", "scoundrel ", "trickster ", "varlet ", "villain "], "A": []}

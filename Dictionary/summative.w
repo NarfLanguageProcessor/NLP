@@ -1,0 +1,1 @@
+{"index": 310924, "D": "of greater effect or value than the strict sum of the individual contributing parts; additive", "S": ["aggregate ", "increasing "], "A": ["decreasing ", "subtracting "]}

@@ -1,0 +1,1 @@
+{"index": 266932, "D": [], "S": ["renew ", "revitalize ", "revive "], "A": ["kill "]}

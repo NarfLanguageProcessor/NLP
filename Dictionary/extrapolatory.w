@@ -1,0 +1,1 @@
+{"index": 108602, "D": "to infer (an unknown) from something that is known; conjecture.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 75067, "D": "the process of recovering precious metals from lead by melting the alloy in a cupel and oxidizing the lead by means of an air blast", "S": [], "A": []}

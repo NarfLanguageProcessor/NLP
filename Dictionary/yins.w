@@ -1,0 +1,1 @@
+{"index": 147156, "D": "(in Chinese philosophy and religion) the negative, dark, and feminine principle, the counterpart of yang.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183542, "D": "to refer briefly to; name, specify, or speak of", "S": ["acknowledgment ", "comment ", "footnote ", "indication ", "notice ", "notification ", "recognition ", "reference ", "remark ", "utterance "], "A": ["ignorance ", "silence "]}

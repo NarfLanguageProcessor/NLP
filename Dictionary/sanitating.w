@@ -1,0 +1,1 @@
+{"index": 277969, "D": "to make sanitary; equip with sanitary appliances", "S": [], "A": []}

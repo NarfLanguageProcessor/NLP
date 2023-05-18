@@ -1,0 +1,1 @@
+{"index": 237872, "D": "an apparatus for measuring high temperatures that uses the radiation emitted by a hot body as a basis for measurement.", "S": [], "A": []}

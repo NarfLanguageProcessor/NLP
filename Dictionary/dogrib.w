@@ -1,0 +1,1 @@
+{"index": 90982, "D": "a member of a Dene Native Canadian people of northern Canada", "S": [], "A": []}

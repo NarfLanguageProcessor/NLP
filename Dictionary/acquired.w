@@ -1,0 +1,1 @@
+{"index": 2739, "D": [], "S": ["captured ", "collected ", "seized "], "A": ["deprived ", "forfeited ", "lost "]}

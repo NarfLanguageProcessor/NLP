@@ -1,0 +1,1 @@
+{"index": 274306, "D": "the loose mass of epidermal cells covering the apex of most roots,  serving to protect the meristematic cells behind it.", "S": [], "A": []}

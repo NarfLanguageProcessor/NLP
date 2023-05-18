@@ -1,0 +1,1 @@
+{"index": 278625, "D": "disrespectful or impudent; impertinent; insolent", "S": ["arrant ", "audacious ", "bold ", "brassy ", "brazen ", "cheeky ", "discourteous ", "disrespectful ", "flip ", "flippant ", "fresh ", "insolent ", "mouthy ", "overbold ", "rude ", "saucy ", "smart-alecky ", "smart-mouthed ", "wise "], "A": []}

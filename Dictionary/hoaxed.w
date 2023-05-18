@@ -1,0 +1,1 @@
+{"index": 142070, "D": "something intended to deceive or defraud", "S": ["bamboozle ", "bluff ", "chicane ", "con ", "deceive ", "delude ", "dupe ", "fleece ", "flimflam ", "fool ", "frame ", "gammon ", "gull ", "hoodwink ", "murphy ", "rook ", "sting ", "swindle "], "A": []}

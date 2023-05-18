@@ -1,0 +1,1 @@
+{"index": 257137, "D": "following someone or something in order to overtake, capture, woo, etc.", "S": ["ensuing ", "following "], "A": ["preceding "]}

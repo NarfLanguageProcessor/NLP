@@ -1,0 +1,1 @@
+{"index": 287750, "D": "a simple or rude structure built for shelter, storage, etc.", "S": [], "A": []}

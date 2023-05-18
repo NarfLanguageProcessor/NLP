@@ -1,0 +1,1 @@
+{"index": 241853, "D": "a plastic polymer of ethylene  used chiefly for containers, electrical insulation, and packaging.", "S": [], "A": []}

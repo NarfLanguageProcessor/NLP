@@ -1,0 +1,1 @@
+{"index": 296547, "D": [], "S": ["bring in ", "come to ", "require ", "sell for ", "take ", "yield "], "A": ["disallow ", "lose ", "refuse ", "reject "]}

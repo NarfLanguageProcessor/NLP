@@ -1,0 +1,1 @@
+{"index": 2972, "D": "the unsegmented, preoral portion of the body of an arthropod.", "S": [], "A": []}

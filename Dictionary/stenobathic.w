@@ -1,0 +1,1 @@
+{"index": 303650, "D": "of or relating to marine or freshwater life that can tolerate only limited changes in depth (opposed to eurybathic).", "S": [], "A": []}

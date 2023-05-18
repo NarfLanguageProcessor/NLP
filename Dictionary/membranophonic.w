@@ -1,0 +1,1 @@
+{"index": 183147, "D": "any musical instrument, as a drum, in which the sound is produced by striking, rubbing, or blowing against a membrane  stretched over a frame.", "S": [], "A": []}

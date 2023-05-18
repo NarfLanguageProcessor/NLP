@@ -1,0 +1,1 @@
+{"index": 226217, "D": "a screen against a draft or the wind.", "S": [], "A": []}

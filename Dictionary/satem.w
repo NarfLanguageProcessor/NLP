@@ -1,0 +1,1 @@
+{"index": 278693, "D": "belonging to or consisting of those branches of the Indo-European family in which alveolar or palatal fricatives, as the sounds (s) or (sh), developed in ancient times from Proto-Indo-European palatal stops", "S": [], "A": []}

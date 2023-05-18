@@ -1,0 +1,1 @@
+{"index": 138733, "D": "to subject or be subjected to hydrolysis. ", "S": [], "A": []}

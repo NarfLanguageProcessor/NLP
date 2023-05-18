@@ -1,0 +1,1 @@
+{"index": 208807, "D": "particularly or especially; in a way worthy of being noted", "S": ["conspicuously ", "greatly ", "markedly ", "noticeably ", "particularly ", "prominently ", "remarkably ", "strikingly ", "very "], "A": ["insignificantly "]}

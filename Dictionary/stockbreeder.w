@@ -1,0 +1,1 @@
+{"index": 304908, "D": "a person who breeds or rears livestock as an occupation", "S": ["breeder ", "herder ", "herdsman "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 206710, "D": "pertaining to or characterized by repetition. ", "S": [], "A": []}

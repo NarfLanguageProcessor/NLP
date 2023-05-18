@@ -1,0 +1,1 @@
+{"index": 244917, "D": "a person or thing that pounds,  pulverizes, or beats.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 245587, "D": "to announce or praise (a product, service, etc.) in some public medium of communication in order to induce people to buy or use it", "S": [], "A": []}

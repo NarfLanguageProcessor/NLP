@@ -1,0 +1,1 @@
+{"index": 281179, "D": "to go swiftly or hastily; dart.", "S": ["bolt ", "dart ", "dash ", "hustle ", "scamper ", "scurry ", "whiz ", "zip "], "A": ["dawdle ", "decelerate ", "slow ", "wait ", "cease ", "delay ", "discourage ", "dissuade ", "halt ", "hinder ", "remain ", "retard ", "stay ", "stop ", "walk "]}

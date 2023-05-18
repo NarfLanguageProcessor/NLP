@@ -1,0 +1,1 @@
+{"index": 293030, "D": "to give an oblique direction to; shape, form, or cut obliquely.", "S": ["alter ", "bias ", "misrepresent ", "slant "], "A": ["straighten "]}

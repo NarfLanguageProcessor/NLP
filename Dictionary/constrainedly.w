@@ -1,0 +1,1 @@
+{"index": 67071, "D": "forced, compelled, or obliged", "S": [], "A": []}

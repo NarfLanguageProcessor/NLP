@@ -1,0 +1,1 @@
+{"index": 33674, "D": "to divide or fork  into two branches.", "S": ["angled ", "bifurcate ", "branched ", "branching ", "divaricate ", "divided ", "furcate ", "split ", "tined ", "zigzag "], "A": ["joined "]}

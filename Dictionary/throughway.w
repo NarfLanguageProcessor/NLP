@@ -1,0 +1,1 @@
+{"index": 322851, "D": "a thoroughfare, esp a motorway", "S": ["artery ", "avenue ", "boulevard ", "expressway ", "highway ", "pathway ", "roadway ", "route ", "street ", "thoroughfare "], "A": []}

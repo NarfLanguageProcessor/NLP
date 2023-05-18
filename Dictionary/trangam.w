@@ -1,0 +1,1 @@
+{"index": 327627, "D": "an odd gadget; gewgaw; trinket.", "S": [], "A": []}

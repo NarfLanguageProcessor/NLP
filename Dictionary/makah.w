@@ -1,0 +1,1 @@
+{"index": 178080, "D": "a member of an American Indian people of the Olympic Peninsula in northwest Washington.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 196957, "D": "stupor produced by narcotics.", "S": ["analgesia ", "anesthesia ", "apathy ", "coma ", "inactivity ", "indifference ", "lethargy ", "narcosis ", "numbness ", "stupefaction ", "stupor ", "torpor ", "trance ", "unconsciousness "], "A": ["concern ", "consciousness ", "feeling ", "interest ", "sympathy "]}

@@ -1,0 +1,1 @@
+{"index": 100399, "D": "a native or a naturalized citizen of England.", "S": [], "A": []}

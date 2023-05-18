@@ -1,0 +1,1 @@
+{"index": 21511, "D": "to articulate (the beginning of a word or syllable) with an h-sound, as in which, pronounced (hwich), or hitch as opposed to witch or itch.", "S": [], "A": []}

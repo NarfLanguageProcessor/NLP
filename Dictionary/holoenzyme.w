@@ -1,0 +1,1 @@
+{"index": 142580, "D": "an enzyme  complete in both its apoenzyme and coenzyme components.", "S": [], "A": []}

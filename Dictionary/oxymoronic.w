@@ -1,0 +1,1 @@
+{"index": 222368, "D": "a figure of speech by which a locution produces an incongruous, seemingly self-contradictory effect, as in \u201ccruel kindness\u201d or \u201cto make haste slowly.\u201d", "S": [], "A": []}

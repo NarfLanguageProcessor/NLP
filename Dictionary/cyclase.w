@@ -1,0 +1,1 @@
+{"index": 57086, "D": "an enzyme, as adenyl cyclase, that catalyzes the formation of a cyclic  compound.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 38187, "D": "a wasteful and worthless project undertaken for political, corporate, or personal gain, typically a government project funded by taxpayers", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288659, "D": [], "S": ["compression wave ", "seismic wave "], "A": []}

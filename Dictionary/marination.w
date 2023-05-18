@@ -1,0 +1,1 @@
+{"index": 180091, "D": "to steep (food) in a marinade. ", "S": [], "A": []}

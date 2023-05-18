@@ -1,0 +1,1 @@
+{"index": 79073, "D": "a variant spelling of defecate", "S": [], "A": []}

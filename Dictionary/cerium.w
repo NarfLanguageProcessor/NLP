@@ -1,0 +1,1 @@
+{"index": 51515, "D": "a steel-gray, ductile metallic element of the rare-earth group found only in combination. Symbol", "S": [], "A": []}

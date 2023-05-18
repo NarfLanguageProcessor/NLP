@@ -1,0 +1,1 @@
+{"index": 279970, "D": "the general appearance of a place; the aggregate of features that give character to a landscape.", "S": ["backdrop ", "decor ", "furnishings ", "furniture ", "landscape ", "setting ", "spectacle ", "terrain "], "A": []}

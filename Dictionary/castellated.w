@@ -1,0 +1,1 @@
+{"index": 49057, "D": "built like a castle, especially with turrets and battlements.", "S": [], "A": []}

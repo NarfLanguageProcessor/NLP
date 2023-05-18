@@ -1,0 +1,1 @@
+{"index": 18250, "D": "any geological formation that absorbs and holds water but does not transmit it at a sufficient rate to supply springs, wells, etc.", "S": [], "A": []}

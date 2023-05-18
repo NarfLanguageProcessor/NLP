@@ -1,0 +1,1 @@
+{"index": 140170, "D": "(especially of rocket-fuel propellant constituents) igniting spontaneously upon contact with a complementary substance.", "S": [], "A": []}

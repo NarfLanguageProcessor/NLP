@@ -1,0 +1,1 @@
+{"index": 147754, "D": "a misunderstanding, disagreement, etc., of a complicated or bitter nature, as between persons or nations.", "S": ["brouhaha ", "entanglement ", "quandary ", "spat ", "squabble "], "A": ["agreement ", "ease ", "harmony ", "peace ", "simplicity "]}

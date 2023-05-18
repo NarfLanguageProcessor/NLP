@@ -1,0 +1,1 @@
+{"index": 72530, "D": "any system, doctrine, or formula of religious belief, as of a denomination.", "S": [], "A": []}

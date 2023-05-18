@@ -1,0 +1,1 @@
+{"index": 95995, "D": "conveying or conducting away from an organ or part (opposed to afferent).", "S": ["deviating ", "diffusive ", "divergent ", "diverging ", "eccentric ", "outward ", "radial ", "spiral ", "spreading "], "A": ["centripetal "]}

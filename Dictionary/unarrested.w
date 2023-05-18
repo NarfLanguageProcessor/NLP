@@ -1,0 +1,1 @@
+{"index": 335239, "D": "to seize (a person) by legal authority or warrant; take into custody", "S": [], "A": []}

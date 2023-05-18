@@ -1,0 +1,1 @@
+{"index": 260066, "D": "clothing; apparel; attire.", "S": ["apparel ", "array ", "clothes ", "clothing ", "garments "], "A": []}

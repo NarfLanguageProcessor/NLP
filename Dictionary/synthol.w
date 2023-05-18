@@ -1,0 +1,1 @@
+{"index": 292066, "D": "a synthetic  motor fuel produced by heating, under pressure, hydrogen and carbon monoxide in the presence of a catalyst.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 180599, "D": "masculine.", "S": ["grandmother ", "mommy ", "parent "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 130098, "D": "having gray or partly gray hair.", "S": ["gray "], "A": []}

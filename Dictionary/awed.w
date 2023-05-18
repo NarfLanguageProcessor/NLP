@@ -1,0 +1,1 @@
+{"index": 24989, "D": "filled with or expressing awe. ", "S": ["astonished ", "baffled ", "befuddled ", "dazed ", "mystified ", "perplexed ", "puzzled ", "rattled ", "shocked ", "startled ", "stunned ", "surprised "], "A": ["aware ", "clear "]}

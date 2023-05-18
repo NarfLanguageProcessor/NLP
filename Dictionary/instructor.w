@@ -1,0 +1,1 @@
+{"index": 153982, "D": "a person who instructs;  teacher.", "S": ["adviser ", "coach ", "guide ", "lecturer ", "mentor ", "professor ", "teacher ", "trainer ", "tutor "], "A": ["pupil ", "student "]}

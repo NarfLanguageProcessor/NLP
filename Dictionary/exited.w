@@ -1,0 +1,1 @@
+{"index": 107272, "D": "a way or passage out", "S": ["blow ", "depart ", "get off ", "go out ", "quit ", "retire ", "withdraw "], "A": ["arrive ", "come ", "continue ", "enter ", "remain ", "stay ", "discourage ", "dissuade ", "stop ", "surrender "]}

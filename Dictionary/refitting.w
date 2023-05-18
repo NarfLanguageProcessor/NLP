@@ -1,0 +1,1 @@
+{"index": 265091, "D": "to fit,  prepare, or equip again.", "S": ["reworking ", "transformation ", "variation "], "A": []}

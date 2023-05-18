@@ -1,0 +1,1 @@
+{"index": 63011, "D": "to bind or fasten together.", "S": ["amass ", "arrange ", "assemble ", "collect ", "compose ", "cull ", "edit ", "gather ", "glean ", "organize "], "A": ["destroy ", "disarrange ", "disorder ", "disorganize ", "disperse ", "distribute ", "divide ", "scatter ", "separate ", "spread "]}

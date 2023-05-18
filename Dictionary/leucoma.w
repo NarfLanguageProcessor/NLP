@@ -1,0 +1,1 @@
+{"index": 171059, "D": "a white opaque scar of the cornea", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 40433, "D": "a charm or trinket, especially one attached to a watch chain.", "S": [], "A": []}

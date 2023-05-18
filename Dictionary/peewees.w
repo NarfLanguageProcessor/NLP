@@ -1,0 +1,1 @@
+{"index": 229108, "D": "very small; tiny.", "S": ["Lilliputian ", "half-pint ", "homunculus ", "midget ", "peewee ", "punk ", "shrimp "], "A": []}

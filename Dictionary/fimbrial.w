@@ -1,0 +1,1 @@
+{"index": 112813, "D": "a fringe or fringed border.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 160926, "D": "characterized by jerks  or sudden starts; spasmodic.", "S": ["bouncy ", "bumpy "], "A": ["fluid ", "smooth "]}

@@ -1,0 +1,1 @@
+{"index": 1206, "D": "the centimeter-gram-second unit of electrical power, equivalent to 10\u22127 watt.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 284076, "D": "partly detached. ", "S": [], "A": []}

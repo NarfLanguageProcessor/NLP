@@ -1,0 +1,1 @@
+{"index": 321468, "D": "responding to or affected by periodic  differences in temperatures.", "S": [], "A": []}

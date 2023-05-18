@@ -1,0 +1,1 @@
+{"index": 331629, "D": "to cause (a circular object) to roll along; roll.", "S": ["cycle ", "gyration ", "reel ", "revolution ", "rotation ", "run ", "spin ", "turn ", "twirl ", "undulation ", "whirl "], "A": []}

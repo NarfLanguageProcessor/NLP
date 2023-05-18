@@ -1,0 +1,1 @@
+{"index": 162216, "D": "the fictitious name of an actual family that was the focus of a 19th-century sociological study of the inheritance of feeble-mindedness and its correlation with social degeneracy.", "S": ["ditch ", "duck ", "elude ", "escape ", "evade ", "fend off ", "shuffle ", "sidestep ", "skirt "], "A": ["face ", "meet ", "take on ", "release "]}

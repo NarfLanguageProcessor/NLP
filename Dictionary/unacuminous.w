@@ -1,0 +1,1 @@
+{"index": 334547, "D": "keen insight; shrewdness", "S": [], "A": []}

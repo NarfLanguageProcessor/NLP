@@ -1,0 +1,1 @@
+{"index": 367817, "D": "a cowboy, especially one in charge of saddle horses.", "S": ["bronco "], "A": []}

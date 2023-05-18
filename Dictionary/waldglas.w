@@ -1,0 +1,1 @@
+{"index": 362168, "D": "common medieval and Renaissance glassware, made from unrefined materials and characterized by a green color.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 51928, "D": "bargaining; haggling.", "S": [], "A": []}

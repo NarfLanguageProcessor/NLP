@@ -1,0 +1,1 @@
+{"index": 271362, "D": "to assail with contemptuous or opprobrious language; address or speak of abusively.", "S": [], "A": []}

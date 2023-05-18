@@ -1,0 +1,1 @@
+{"index": 231862, "D": "(in a series of salts  of a given metal or group) the salt  in which the metal or group has a high, or the highest apparent, valence.", "S": [], "A": []}

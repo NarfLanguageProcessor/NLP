@@ -1,0 +1,1 @@
+{"index": 35435, "D": "a contemptuous term used to refer to any dark-skinned person.", "S": [], "A": []}

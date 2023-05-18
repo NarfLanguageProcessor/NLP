@@ -1,0 +1,1 @@
+{"index": 171715, "D": [], "S": ["authority ", "justice ", "lawfulness ", "legitimacy ", "permissibility ", "right ", "validity "], "A": ["injustice ", "unfairness "]}

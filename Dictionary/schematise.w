@@ -1,0 +1,1 @@
+{"index": 280089, "D": "to reduce to or arrange according to a scheme. ", "S": [], "A": []}

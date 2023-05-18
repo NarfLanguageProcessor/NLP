@@ -1,0 +1,1 @@
+{"index": 363594, "D": "a forecast  of weather  conditions, especially on radio or television.", "S": [], "A": []}

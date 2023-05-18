@@ -1,0 +1,1 @@
+{"index": 288428, "D": "a vessel, especially a large oceangoing one propelled by sails or engines.", "S": [], "A": []}

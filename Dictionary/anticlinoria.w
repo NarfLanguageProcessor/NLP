@@ -1,0 +1,1 @@
+{"index": 14960, "D": "a compound anticline, consisting of a series of subordinate anticlines and synclines, the whole having the general contour of an arch.", "S": [], "A": []}

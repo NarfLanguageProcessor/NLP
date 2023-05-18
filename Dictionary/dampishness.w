@@ -1,0 +1,1 @@
+{"index": 76635, "D": "slightly wet; moist", "S": [], "A": []}

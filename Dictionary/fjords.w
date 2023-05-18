@@ -1,0 +1,1 @@
+{"index": 113652, "D": "a long, narrow arm of the sea bordered by steep cliffs", "S": ["inlet "], "A": []}

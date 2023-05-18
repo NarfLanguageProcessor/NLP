@@ -1,0 +1,1 @@
+{"index": 209276, "D": "a member of any of the various peoples inhabiting Nubia. ", "S": [], "A": []}

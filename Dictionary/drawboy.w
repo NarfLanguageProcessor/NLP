@@ -1,0 +1,1 @@
+{"index": 92764, "D": "an apparatus for controlling and manipulating the harness cords on a power loom.", "S": [], "A": []}

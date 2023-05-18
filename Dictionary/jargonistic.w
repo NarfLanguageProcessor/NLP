@@ -1,0 +1,1 @@
+{"index": 160467, "D": "the language, especially the vocabulary, peculiar to a particular trade, profession, or group", "S": [], "A": []}

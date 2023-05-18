@@ -1,0 +1,1 @@
+{"index": 204543, "D": "giving light; illuminating. ", "S": [], "A": []}

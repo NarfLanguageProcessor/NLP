@@ -1,0 +1,1 @@
+{"index": 185691, "D": "any member of a group of minerals, hydrous silicates of aluminum with other bases, chiefly potassium, magnesium, iron, and lithium, that separate readily into thin, tough, often transparent, and usually elastic laminae; isinglass.", "S": [], "A": []}

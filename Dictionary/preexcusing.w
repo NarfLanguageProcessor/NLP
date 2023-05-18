@@ -1,0 +1,1 @@
+{"index": 247405, "D": "to regard or judge with forgiveness or indulgence; pardon or forgive; overlook (a fault, error, etc.)", "S": [], "A": []}

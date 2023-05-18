@@ -1,0 +1,1 @@
+{"index": 91491, "D": "to draw or scribble idly", "S": [], "A": []}

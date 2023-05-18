@@ -1,0 +1,1 @@
+{"index": 75149, "D": "a dome-shaped structure, esp the sensory structure within the semicircular canals of the ear", "S": [], "A": []}

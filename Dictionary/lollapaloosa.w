@@ -1,0 +1,1 @@
+{"index": 174790, "D": "an extraordinary or unusual thing, person, or event; an exceptional example or instance.", "S": [], "A": []}

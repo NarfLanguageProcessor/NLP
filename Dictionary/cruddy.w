@@ -1,0 +1,1 @@
+{"index": 74110, "D": "covered, encrusted, or saturated with dirt, grease, or other objectionable substance; filthy", "S": ["atrocious ", "awful ", "cheap ", "crummy ", "dreadful ", "lousy ", "poor ", "rough ", "sad ", "unacceptable "], "A": ["OK ", "good ", "great ", "lucky ", "pleasing ", "sophisticated ", "superior ", "wonderful "]}

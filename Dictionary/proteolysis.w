@@ -1,0 +1,1 @@
+{"index": 253455, "D": "the breaking down of proteins into simpler compounds, as in digestion.", "S": [], "A": []}

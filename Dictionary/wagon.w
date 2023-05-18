@@ -1,0 +1,1 @@
+{"index": 361888, "D": "any of various kinds of four-wheeled vehicles designed to be pulled or having its own motor and ranging from a child's toy to a commercial vehicle for the transport of heavy loads, delivery, etc.", "S": ["caravan ", "carriage "], "A": []}

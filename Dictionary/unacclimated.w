@@ -1,0 +1,1 @@
+{"index": 334429, "D": "having become accustomed to a climate or environment", "S": [], "A": []}

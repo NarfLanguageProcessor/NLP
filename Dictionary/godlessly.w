@@ -1,0 +1,1 @@
+{"index": 127350, "D": "having or acknowledging no god or deity; atheistic.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 224369, "D": "a thin, flat cake  of batter fried on both sides on a griddle or in a frying pan;  griddlecake or flapjack.", "S": ["bump ", "collapse ", "collide ", "ditch ", "dive ", "drop ", "hurtle ", "meet ", "overturn ", "plunge ", "slip ", "smash ", "topple ", "tumble "], "A": ["ascend ", "rise "]}

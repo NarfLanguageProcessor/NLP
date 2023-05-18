@@ -1,0 +1,1 @@
+{"index": 33983, "D": "having a bill  or beak, especially one of a specified kind, shape, color, etc. (usually used in combination)", "S": ["advertised ", "publicized "], "A": []}

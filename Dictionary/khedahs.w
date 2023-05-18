@@ -1,0 +1,1 @@
+{"index": 164284, "D": "(in India) an enclosure constructed to ensnare wild elephants.", "S": [], "A": []}

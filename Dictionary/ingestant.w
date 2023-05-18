@@ -1,0 +1,1 @@
+{"index": 152488, "D": "something that is ingested,  especially a substance that may be associated with an allergic reaction.", "S": [], "A": []}

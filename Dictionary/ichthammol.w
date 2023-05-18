@@ -1,0 +1,1 @@
+{"index": 146054, "D": "a viscous, reddish-brown to brownish-black substance, obtained by the destructive distillation of bituminous shales, used in medicine chiefly as an antiseptic, analgesic, and local stimulant in skin disorders.", "S": [], "A": []}

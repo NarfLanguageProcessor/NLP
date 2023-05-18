@@ -1,0 +1,1 @@
+{"index": 99817, "D": "proceeding from within; derived internally.", "S": ["autogenous ", "domestic ", "gut ", "home ", "in-house ", "inland ", "innermost ", "inside ", "interior ", "internal ", "intimate ", "inward ", "private ", "remote ", "secret ", "visceral ", "viscerous "], "A": []}

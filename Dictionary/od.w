@@ -1,0 +1,1 @@
+{"index": 211184, "D": "a hypothetical force formerly held to pervade all nature and to manifest itself in magnetism, mesmerism, chemical action, etc.", "S": ["overdose "], "A": []}

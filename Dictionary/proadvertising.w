@@ -1,0 +1,1 @@
+{"index": 250924, "D": "the act or practice of calling public attention to one's product, service, need, etc., especially by paid announcements in newspapers and magazines, over radio or television, on billboards, etc.", "S": [], "A": []}

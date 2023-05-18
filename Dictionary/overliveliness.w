@@ -1,0 +1,1 @@
+{"index": 220101, "D": "full or suggestive of life  or vital energy; active, vigorous, or brisk", "S": [], "A": []}

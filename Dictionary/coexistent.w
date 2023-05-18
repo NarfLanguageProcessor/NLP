@@ -1,0 +1,1 @@
+{"index": 62107, "D": "the act or state of coexisting. ", "S": ["coetaneous ", "coeval ", "coexisting ", "concomitant ", "contemporaneous ", "simultaneous ", "synchronic ", "synchronous "], "A": []}

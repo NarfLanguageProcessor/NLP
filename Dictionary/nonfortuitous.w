@@ -1,0 +1,1 @@
+{"index": 204159, "D": "happening or produced by chance; accidental", "S": [], "A": []}

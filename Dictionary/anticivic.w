@@ -1,0 +1,1 @@
+{"index": 14926, "D": "of or relating to a city; municipal", "S": [], "A": []}

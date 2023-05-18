@@ -1,0 +1,1 @@
+{"index": 81722, "D": "to bring a political  character or flavor to; make political", "S": [], "A": []}

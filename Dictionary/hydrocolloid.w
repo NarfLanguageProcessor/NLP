@@ -1,0 +1,1 @@
+{"index": 138598, "D": "a substance that forms a colloid  when combined with water.", "S": [], "A": []}

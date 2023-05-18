@@ -1,0 +1,1 @@
+{"index": 262887, "D": "to give, feel, etc., in return.", "S": ["complementary ", "mutual "], "A": ["different ", "dissimilar ", "unequal ", "unlike "]}

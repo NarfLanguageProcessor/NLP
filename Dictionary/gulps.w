@@ -1,0 +1,1 @@
+{"index": 131244, "D": "to gasp or choke, as when taking large drafts of a liquid.", "S": ["draught ", "mouthful "], "A": ["nibble "]}

@@ -1,0 +1,1 @@
+{"index": 319455, "D": "a branch of technology that utilizes management, financial, and engineering expertise in the installation and efficient operation and maintenance of equipment and machinery", "S": [], "A": []}

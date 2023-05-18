@@ -1,0 +1,1 @@
+{"index": 119383, "D": "of or relating to the frontal and parietal  bones of the cranium.", "S": [], "A": []}

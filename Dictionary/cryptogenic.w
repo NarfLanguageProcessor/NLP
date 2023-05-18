@@ -1,0 +1,1 @@
+{"index": 73240, "D": "of obscure or unknown origin, as a disease.", "S": [], "A": []}

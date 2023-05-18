@@ -1,0 +1,1 @@
+{"index": 334894, "D": "moving from place to place; itinerant; shifting.", "S": [], "A": []}

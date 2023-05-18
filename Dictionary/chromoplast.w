@@ -1,0 +1,1 @@
+{"index": 56366, "D": "a plastid containing coloring matter other than chlorophyll.", "S": [], "A": []}

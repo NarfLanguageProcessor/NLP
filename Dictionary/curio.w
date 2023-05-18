@@ -1,0 +1,1 @@
+{"index": 75311, "D": "any unusual article, object of art, etc., valued as a curiosity.", "S": ["trinket "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 339028, "D": [], "S": ["disagreeing ", "green ", "hard ", "malodorous ", "moldy ", "poisonous ", "putrid ", "raw ", "rotten ", "rough ", "tasteless ", "toxic ", "uneatable ", "unhealthy ", "unpalatable ", "unripe "], "A": []}

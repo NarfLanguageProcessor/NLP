@@ -1,0 +1,1 @@
+{"index": 135103, "D": "(in ancient Greece and Rome) a public sacrifice of 100 oxen to the gods.", "S": ["bloodshed ", "butchery ", "crime ", "havoc ", "killing ", "mass murder ", "slaughter ", "slaying ", "warfare "], "A": ["peace "]}

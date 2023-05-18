@@ -1,0 +1,1 @@
+{"index": 22557, "D": "capable of stopping radiant heat or infrared radiation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25498, "D": "any protozoan of the genus Babesia, certain species of which are parasitic and pathogenic for warm-blooded animals.", "S": [], "A": []}

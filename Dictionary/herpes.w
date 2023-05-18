@@ -1,0 +1,1 @@
+{"index": 137290, "D": "Compare chickenpox, genital herpes, oral herpes, shingles. ", "S": ["AIDS ", "acquired immune deficiency syndrome ", "gonorrhea ", "syphilis ", "the clap ", "venereal disease "], "A": []}

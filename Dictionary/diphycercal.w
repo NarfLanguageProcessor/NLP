@@ -1,0 +1,1 @@
+{"index": 86420, "D": "having a tail or caudal fin with the spinal column extending horizontally to the end of the tail, characteristic of lungfish, several other primitive fishes, and the juvenile stage of modern bony fishes.", "S": [], "A": []}

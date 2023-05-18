@@ -1,0 +1,1 @@
+{"index": 90214, "D": "a distinguished female singer; prima donna.", "S": ["famous singer ", "lead singer ", "opera singer "], "A": []}

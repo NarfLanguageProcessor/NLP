@@ -1,0 +1,1 @@
+{"index": 160824, "D": "any of various marine coelenterates of a soft, gelatinous structure, especially one with an umbrellalike body and long, trailing tentacles; medusa.", "S": ["baby ", "chicken ", "jellyfish ", "namby-pamby ", "pansy ", "pantywaist ", "quitter ", "sissy ", "weakling ", "wimp ", "wuss "], "A": []}

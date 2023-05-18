@@ -1,0 +1,1 @@
+{"index": 319739, "D": "the outer, usually hard, integument or coat of a seed.", "S": [], "A": []}

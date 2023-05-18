@@ -1,0 +1,1 @@
+{"index": 57002, "D": "a naturally occurring toxic glucoside, C8H16N2O7, obtained from the seeds of cycad plants, carcinogenic in humans and other mammals.", "S": [], "A": []}

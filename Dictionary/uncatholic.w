@@ -1,0 +1,1 @@
+{"index": 336581, "D": "broad or wide-ranging in tastes, interests, or the like; having sympathies with all; broad-minded; liberal.", "S": [], "A": []}

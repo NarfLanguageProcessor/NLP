@@ -1,0 +1,1 @@
+{"index": 310544, "D": "marked by or given to sulking;  sullen.", "S": ["brooding ", "mean ", "moody ", "sour "], "A": ["cheerful ", "happy "]}

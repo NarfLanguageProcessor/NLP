@@ -1,0 +1,1 @@
+{"index": 42996, "D": "Compare privileged (def. 5). ", "S": ["laden ", "loaded ", "taxed "], "A": ["unloaded "]}

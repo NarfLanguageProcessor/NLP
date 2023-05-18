@@ -1,0 +1,1 @@
+{"index": 354139, "D": "to think; suppose.", "S": [], "A": []}

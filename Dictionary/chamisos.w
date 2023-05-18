@@ -1,0 +1,1 @@
+{"index": 52305, "D": "a saltbush, Atriplex canescens, of the western U.S. and Mexico, having grayish, scurfy foliage.", "S": [], "A": []}

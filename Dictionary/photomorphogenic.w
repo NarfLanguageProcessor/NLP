@@ -1,0 +1,1 @@
+{"index": 235266, "D": "plant development that is controlled by light.", "S": [], "A": []}

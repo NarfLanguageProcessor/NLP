@@ -1,0 +1,1 @@
+{"index": 286401, "D": "a type of hydroid that forms stiff, feathery colonies in which the cups holding the zooids are sessile.", "S": [], "A": []}

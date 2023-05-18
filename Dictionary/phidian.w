@@ -1,0 +1,1 @@
+{"index": 233515, "D": "of, associated with, or following the style of Phidias, as exemplified in the Parthenon.", "S": [], "A": []}

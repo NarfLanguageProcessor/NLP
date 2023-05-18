@@ -1,0 +1,1 @@
+{"index": 49961, "D": "having an obvious stem rising above the ground.", "S": [], "A": []}

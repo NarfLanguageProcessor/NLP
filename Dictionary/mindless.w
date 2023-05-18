@@ -1,0 +1,1 @@
+{"index": 187716, "D": "without intelligence; senseless", "S": ["foolish ", "gratuitous ", "senseless ", "silly ", "thoughtless "], "A": ["reasonable ", "sensible ", "serious ", "thoughtful ", "wise ", "attentive ", "mindful "]}

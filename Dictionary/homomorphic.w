@@ -1,0 +1,1 @@
+{"index": 143167, "D": "pertaining to two sets that are related by a homomorphism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 63368, "D": "without color", "S": ["boringness ", "drabness ", "dreariness ", "flatness ", "flavorlessness ", "insipidity ", "insipidness ", "jejuneness ", "lifelessness ", "pallidness ", "uninterestingness ", "vapidity ", "vapidness "], "A": []}

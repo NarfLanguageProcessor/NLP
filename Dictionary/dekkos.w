@@ -1,0 +1,1 @@
+{"index": 79909, "D": "a look or glance", "S": [], "A": []}

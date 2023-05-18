@@ -1,0 +1,1 @@
+{"index": 115069, "D": "pertaining to flowers or a flora.", "S": [], "A": []}

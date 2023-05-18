@@ -1,0 +1,1 @@
+{"index": 259784, "D": "the technical application of any form of radiation to industry.", "S": [], "A": []}

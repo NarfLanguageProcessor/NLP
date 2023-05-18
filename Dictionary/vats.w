@@ -1,0 +1,1 @@
+{"index": 357520, "D": "a large container, as a tub or tank, used for storing or holding liquids", "S": ["barrel ", "basin ", "cask ", "cistern ", "container ", "tank ", "tub "], "A": []}

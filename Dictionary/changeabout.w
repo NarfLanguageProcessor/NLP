@@ -1,0 +1,1 @@
+{"index": 52476, "D": [], "S": ["U-turn ", "policy change ", "reversal ", "turnabout ", "turnaround "], "A": ["stagnation "]}

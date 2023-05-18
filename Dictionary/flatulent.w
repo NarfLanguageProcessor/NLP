@@ -1,0 +1,1 @@
+{"index": 114136, "D": "generating gas in the alimentary canal, as food.", "S": ["bombastic ", "inflated ", "oratorical ", "overblown ", "pompous ", "prolix ", "shallow ", "superficial ", "swollen ", "tedious ", "tumescent ", "tumid ", "turgid ", "windy ", "wordy "], "A": ["brief ", "unpretentious "]}

@@ -1,0 +1,1 @@
+{"index": 173213, "D": "any of the class of proteins  that contain a lipid combined with a simple protein. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 5847, "D": "the fragrant, resinous wood of an East Indian tree, Aquilaria agallocha, of the mezereum family, used as incense in Asia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293139, "D": "any of various types of boats small enough for sailing or rowing by one person.", "S": [], "A": []}

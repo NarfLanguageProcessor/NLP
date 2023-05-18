@@ -1,0 +1,1 @@
+{"index": 249157, "D": "to exact punishment or expiation for a wrong on behalf of, especially in a resentful or vindictive spirit", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 241326, "D": "a person or thing that points. ", "S": ["arrow ", "dial ", "director ", "gauge ", "guide ", "indication ", "indicator ", "mark ", "signal "], "A": []}

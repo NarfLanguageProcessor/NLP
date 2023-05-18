@@ -1,0 +1,1 @@
+{"index": 158778, "D": "a line drawn on a weather map or chart that connects points at which the barometric pressure is the same.", "S": [], "A": []}

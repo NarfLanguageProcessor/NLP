@@ -1,0 +1,1 @@
+{"index": 342495, "D": "a past participle of forbid. ", "S": ["acceptable ", "admissible ", "bearable ", "lawful ", "legitimate ", "permitted ", "proper ", "tolerable "], "A": ["illegal ", "illegitimate ", "intolerable ", "prohibited ", "unacceptable ", "unbearable ", "unlawful ", "unsuitable "]}

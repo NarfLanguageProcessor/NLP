@@ -1,0 +1,1 @@
+{"index": 81689, "D": "to regret deeply or strongly; lament", "S": ["grumbling ", "protesting ", "whining "], "A": ["appreciating ", "enjoying ", "praising "]}

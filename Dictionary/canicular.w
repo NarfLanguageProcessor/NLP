@@ -1,0 +1,1 @@
+{"index": 46314, "D": "pertaining to the rising of the Dog Star or to the star itself.", "S": [], "A": []}

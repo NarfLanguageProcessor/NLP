@@ -1,0 +1,1 @@
+{"index": 58474, "D": "the larva of certain tapeworms, having the head retracted into a bladderlike structure; a bladder worm.", "S": [], "A": []}

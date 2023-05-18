@@ -1,0 +1,1 @@
+{"index": 321580, "D": "(in the Iliad) a Greek who accused Agamemnon of greed and Achilles of cowardice during the Trojan War.", "S": [], "A": []}

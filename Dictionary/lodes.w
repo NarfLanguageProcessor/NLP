@@ -1,0 +1,1 @@
+{"index": 174486, "D": "a veinlike deposit, usually metalliferous.", "S": ["vein "], "A": []}

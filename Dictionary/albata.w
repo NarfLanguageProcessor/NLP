@@ -1,0 +1,1 @@
+{"index": 7402, "D": "a variety of German silver consisting of nickel, copper, and zinc", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 360130, "D": "streaks of water drops or ice particles falling out of a cloud and evaporating before reaching the ground (distinguished from praecipitatio).", "S": [], "A": []}

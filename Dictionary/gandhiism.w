@@ -1,0 +1,1 @@
+{"index": 121830, "D": "the principles associated with Mohandas Gandhi,  especially his principles of noncooperation and passive resistance in gaining political and social reforms.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 334677, "D": "inclined or willing to engage in adventures;  enjoying adventures. ", "S": [], "A": []}

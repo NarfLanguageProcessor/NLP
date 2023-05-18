@@ -1,0 +1,1 @@
+{"index": 162718, "D": "(in South Africa) a contemptuous term used to refer to a Black person", "S": [], "A": []}

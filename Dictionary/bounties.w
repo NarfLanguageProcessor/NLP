@@ -1,0 +1,1 @@
+{"index": 38990, "D": "a premium or reward, especially one offered by a government", "S": ["donation ", "gift ", "largess ", "premium ", "prize ", "reward "], "A": ["penalty ", "punishment "]}

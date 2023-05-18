@@ -1,0 +1,1 @@
+{"index": 52193, "D": "a person or thing that challenges. ", "S": ["contender "], "A": []}

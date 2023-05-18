@@ -1,0 +1,1 @@
+{"index": 155033, "D": "growth  or growing together, as of one thing with or into another.", "S": [], "A": []}

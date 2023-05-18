@@ -1,0 +1,1 @@
+{"index": 33064, "D": "best friend (def. 1). ", "S": [], "A": []}

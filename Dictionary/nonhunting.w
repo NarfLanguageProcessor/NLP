@@ -1,0 +1,1 @@
+{"index": 204492, "D": "the act of a person, animal, or thing that hunts.", "S": [], "A": []}

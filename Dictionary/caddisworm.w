@@ -1,0 +1,1 @@
+{"index": 44301, "D": "the aquatic larva of a caddisfly,  having an armored head and a pair of abdominal hooks, and typically living in a case built from sand or plant debris.", "S": [], "A": []}

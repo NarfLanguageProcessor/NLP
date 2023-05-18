@@ -1,0 +1,1 @@
+{"index": 37219, "D": "a close-fitting, one-piece, usually sleeved garment for the torso, having a snap crotch.", "S": ["bodice ", "pullover ", "turtleneck "], "A": []}

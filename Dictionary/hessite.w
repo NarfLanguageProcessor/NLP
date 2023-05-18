@@ -1,0 +1,1 @@
+{"index": 137411, "D": "a rare mineral, silver telluride, Ag2Te, found in silver ores", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25620, "D": "characterized by or involving drunken revelry", "S": ["alcoholic ", "bacchanal ", "boozer ", "carouser ", "debauchee ", "dipsomaniac ", "drinker ", "drunk ", "inebriate ", "lush ", "soak ", "sot ", "souse ", "sponge ", "stiff ", "tippler ", "toper ", "wino "], "A": ["abstainer ", "ascetic ", "nephalist ", "teetotaler "]}

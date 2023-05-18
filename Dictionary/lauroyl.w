@@ -1,0 +1,1 @@
+{"index": 169230, "D": "containing the lauroyl group. ", "S": [], "A": []}

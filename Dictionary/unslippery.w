@@ -1,0 +1,1 @@
+{"index": 351362, "D": "tending or liable to cause slipping  or sliding, as ice, oil, a wet surface, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 283951, "D": "of, relating to, or characteristic of commerce.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259688, "D": "a radioactive isotope,  usually artificially produced", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 319509, "D": "any rock formation or series of formations or the area in which a particular formation or group of rocks is predominant.", "S": ["clay ", "coast ", "dirt ", "dust ", "gravel ", "land ", "mud ", "sand ", "shore ", "surface ", "terrain ", "turf "], "A": ["sky "]}

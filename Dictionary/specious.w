@@ -1,0 +1,1 @@
+{"index": 298812, "D": "apparently good or right though lacking real merit; superficially pleasing or plausible", "S": ["deceptive ", "erroneous ", "false ", "inaccurate ", "incorrect ", "plausible ", "spurious ", "untrue "], "A": ["accurate ", "correct ", "genuine ", "honest ", "real ", "right ", "true ", "truthful ", "valid "]}

@@ -1,0 +1,1 @@
+{"index": 270145, "D": "to take up or go on with again after interruption; continue", "S": [], "A": []}

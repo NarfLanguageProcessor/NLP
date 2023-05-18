@@ -1,0 +1,1 @@
+{"index": 40602, "D": "a kiln  or furnace in which bricks  are baked or burned.", "S": [], "A": []}

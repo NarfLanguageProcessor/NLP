@@ -1,0 +1,1 @@
+{"index": 1784, "D": "to assume to oneself without right or authority; usurp.", "S": [], "A": []}

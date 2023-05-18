@@ -1,0 +1,1 @@
+{"index": 353882, "D": "to impair the quality of; make faulty; spoil. ", "S": [], "A": []}

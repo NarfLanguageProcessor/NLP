@@ -1,0 +1,1 @@
+{"index": 265060, "D": "a method of paying a debt by borrowing additional money thus creating a second debt in order to pay the first", "S": [], "A": []}

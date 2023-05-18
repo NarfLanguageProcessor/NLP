@@ -1,0 +1,1 @@
+{"index": 226260, "D": "to make extremely, excessively, or completely dry, as heat, sun, and wind do.", "S": ["evaporate ", "scorch ", "sear "], "A": ["grow ", "moisten ", "wet "]}

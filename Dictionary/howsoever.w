@@ -1,0 +1,1 @@
+{"index": 144585, "D": "to whatsoever extent or degree.", "S": [], "A": []}

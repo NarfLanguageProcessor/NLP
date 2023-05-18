@@ -1,0 +1,1 @@
+{"index": 218691, "D": "to relate to; be connected with; be of interest or importance to; affect", "S": [], "A": []}

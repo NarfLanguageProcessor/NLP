@@ -1,0 +1,1 @@
+{"index": 137678, "D": "of, relating to, or characteristic of a heteronym.", "S": [], "A": []}

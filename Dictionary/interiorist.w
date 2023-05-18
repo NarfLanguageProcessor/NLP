@@ -1,0 +1,1 @@
+{"index": 155074, "D": "a theory that truth is discovered by introspection rather than by examination of the outside world.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 78329, "D": "having or characterized by a decidua.", "S": [], "A": []}

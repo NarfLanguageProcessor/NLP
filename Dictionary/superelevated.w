@@ -1,0 +1,1 @@
+{"index": 311715, "D": "(of a curve in a road, railroad track, etc.) banked.", "S": [], "A": []}

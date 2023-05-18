@@ -1,0 +1,1 @@
+{"index": 12974, "D": "excruciating or acute distress, suffering, or pain", "S": ["agony ", "grief ", "heartache ", "heartbreak ", "misery ", "sorrow ", "suffering ", "torment ", "woe "], "A": ["delight ", "happiness ", "health ", "joy ", "comfort ", "relief "]}

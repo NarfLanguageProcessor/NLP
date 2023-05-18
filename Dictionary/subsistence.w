@@ -1,0 +1,1 @@
+{"index": 309209, "D": "the state or fact of subsisting.", "S": ["livelihood ", "ration ", "sustenance "], "A": ["bills ", "debt ", "ignorance ", "neglect ", "poverty "]}

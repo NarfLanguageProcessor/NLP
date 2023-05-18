@@ -1,0 +1,1 @@
+{"index": 141324, "D": "(on a classical column) any member, as a necking, between the capital and the shaft.", "S": [], "A": []}

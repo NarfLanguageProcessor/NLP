@@ -1,0 +1,1 @@
+{"index": 122186, "D": "containing or resembling the taste or odour of garlic", "S": [], "A": []}

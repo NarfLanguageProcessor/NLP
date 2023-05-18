@@ -1,0 +1,1 @@
+{"index": 118262, "D": "having delicate health; not robust; weak", "S": [], "A": []}

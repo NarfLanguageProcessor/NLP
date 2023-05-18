@@ -1,0 +1,1 @@
+{"index": 296412, "D": "carefully or elegantly done, operated, or designed.", "S": ["dolled up ", "dressed to advantage ", "dressed to kill ", "dressed to the teeth ", "dressed-up ", "gussied up ", "in full dress ", "in full feather ", "spiffed up ", "spruced up ", "well-dressed ", "well-turned-out "], "A": []}

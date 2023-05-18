@@ -1,0 +1,1 @@
+{"index": 90061, "D": "an echoic word, the referent of which is a click or brief tone interval, used to designate the dot of Morse code, International Morse code, etc.", "S": [], "A": []}

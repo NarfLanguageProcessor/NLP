@@ -1,0 +1,1 @@
+{"index": 186518, "D": "a spectrophotometer  for examining light emitted, transmitted, or reflected by minute objects.", "S": [], "A": []}

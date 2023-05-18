@@ -1,0 +1,1 @@
+{"index": 274059, "D": "Compare Ladin (def. 2). ", "S": [], "A": []}

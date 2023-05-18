@@ -1,0 +1,1 @@
+{"index": 309378, "D": "a furrow or groove.", "S": [], "A": []}

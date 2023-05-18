@@ -1,0 +1,1 @@
+{"index": 242502, "D": "of, relating to, or offering instruction in a variety of industrial arts, applied sciences, or technical subjects", "S": [], "A": []}

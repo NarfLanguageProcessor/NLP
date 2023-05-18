@@ -1,0 +1,1 @@
+{"index": 227115, "D": "a person who shares or is associated with another in some action or endeavor; sharer; associate.", "S": [], "A": []}

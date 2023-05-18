@@ -1,0 +1,1 @@
+{"index": 340776, "D": "to unfold; render single.", "S": [], "A": []}

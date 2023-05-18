@@ -1,0 +1,1 @@
+{"index": 79201, "D": "the act of throwing a person or thing out of a window", "S": [], "A": []}

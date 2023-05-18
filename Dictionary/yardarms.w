@@ -1,0 +1,1 @@
+{"index": 145728, "D": "either of the outer portions of the yard  of a square sail.", "S": [], "A": []}

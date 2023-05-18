@@ -1,0 +1,1 @@
+{"index": 112847, "D": "a person entitled to participate in the final  or decisive contest in a series, as in musical or athletic competition.", "S": [], "A": []}

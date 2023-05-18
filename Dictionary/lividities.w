@@ -1,0 +1,1 @@
+{"index": 173998, "D": "a discolored, bluish appearance caused by a bruise, pooling of blood due to congestion of blood vessels, strangulation, etc.", "S": [], "A": []}

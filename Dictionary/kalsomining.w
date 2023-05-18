@@ -1,0 +1,1 @@
+{"index": 162946, "D": "a variant of calcimine. ", "S": [], "A": []}

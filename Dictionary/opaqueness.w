@@ -1,0 +1,1 @@
+{"index": 213203, "D": "not transparent or translucent; impenetrable to light; not allowing light to pass through.", "S": ["ambiguity ", "equivocalness ", "muddiness ", "murkiness ", "obscureness ", "obscurity ", "uncertainty ", "unclearness "], "A": ["certainty ", "definiteness "]}

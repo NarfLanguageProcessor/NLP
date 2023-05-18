@@ -1,0 +1,1 @@
+{"index": 13937, "D": "the first inhabitants of Medina to accept Islam.", "S": [], "A": []}

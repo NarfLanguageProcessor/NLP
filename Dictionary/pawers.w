@@ -1,0 +1,1 @@
+{"index": 228247, "D": "the foot of an animal having claws.", "S": [], "A": []}

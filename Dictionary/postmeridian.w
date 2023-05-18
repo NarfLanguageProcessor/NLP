@@ -1,0 +1,1 @@
+{"index": 244302, "D": "of or relating to the afternoon.", "S": ["siesta ", "teatime "], "A": []}

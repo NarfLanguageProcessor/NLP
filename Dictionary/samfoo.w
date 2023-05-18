@@ -1,0 +1,1 @@
+{"index": 277532, "D": "a style of casual dress worn by Chinese women, consisting of a waisted blouse and trousers", "S": [], "A": []}

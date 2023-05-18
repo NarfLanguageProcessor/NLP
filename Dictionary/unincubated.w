@@ -1,0 +1,1 @@
+{"index": 344437, "D": "to sit upon (eggs) for the purpose of hatching.", "S": [], "A": []}

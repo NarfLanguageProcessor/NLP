@@ -1,0 +1,1 @@
+{"index": 17651, "D": "a tap or stamp of the foot, formerly serving as a warning of one's intent to attack, but now also used as a feint.", "S": [], "A": []}

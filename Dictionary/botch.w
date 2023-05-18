@@ -1,0 +1,1 @@
+{"index": 38687, "D": "to spoil by poor work; bungle (often followed by up)", "S": ["bobble ", "bumble ", "bungle ", "err ", "flub ", "fumble ", "miscalculate ", "mishandle ", "misjudge ", "mismanage ", "muff ", "screw up "], "A": ["do well ", "succeed ", "break ", "build ", "create ", "grow ", "help ", "repair "]}

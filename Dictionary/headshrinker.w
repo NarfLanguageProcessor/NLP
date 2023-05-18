@@ -1,0 +1,1 @@
+{"index": 134711, "D": "shrink (def. 9). ", "S": ["psychotherapist ", "therapist "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 364395, "D": "a bamboo of the genus Phyllostachys, of China.", "S": [], "A": []}

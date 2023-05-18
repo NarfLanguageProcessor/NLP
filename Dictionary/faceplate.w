@@ -1,0 +1,1 @@
+{"index": 108952, "D": "(on a lathe) a perforated plate,  mounted on the live spindle, to which the work is attached.", "S": [], "A": []}

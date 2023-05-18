@@ -1,0 +1,1 @@
+{"index": 244732, "D": "a person who hunts for food or profit, ignoring the rules of sport.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 252624, "D": "a person who speaks for God or a deity, or by divine inspiration.", "S": ["prognosticator ", "seer ", "witch "], "A": []}

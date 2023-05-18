@@ -1,0 +1,1 @@
+{"index": 278250, "D": "a strong, hard, usually green cheese of Swiss origin, made with sour skim milk and sweet clover.", "S": [], "A": []}

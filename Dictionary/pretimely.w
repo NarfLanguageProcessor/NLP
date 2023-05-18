@@ -1,0 +1,1 @@
+{"index": 249981, "D": "occurring at a suitable time; opportune; well-timed", "S": [], "A": []}

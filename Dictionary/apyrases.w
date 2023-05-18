@@ -1,0 +1,1 @@
+{"index": 17017, "D": "a relatively nonspecific ATPase occurring in plants and molds.", "S": [], "A": []}

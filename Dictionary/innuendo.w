@@ -1,0 +1,1 @@
+{"index": 153103, "D": "an indirect intimation about a person or thing, especially of a disparaging or a derogatory nature.", "S": ["insinuation "], "A": ["evidence ", "proof "]}

@@ -1,0 +1,1 @@
+{"index": 158861, "D": "a salt or ester of isocyanic acid. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 223281, "D": "any one of the 12 legendary peers or knightly champions in attendance on Charlemagne.", "S": ["champion ", "hero ", "knight ", "supporter "], "A": []}

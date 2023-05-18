@@ -1,0 +1,1 @@
+{"index": 202207, "D": "pertaining to concepts  or to the forming of concepts.", "S": [], "A": []}

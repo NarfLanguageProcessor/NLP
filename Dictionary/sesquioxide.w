@@ -1,0 +1,1 @@
+{"index": 286551, "D": "an oxide  containing three atoms of oxygen and two of another element, as aluminum oxide,  Al2O3.", "S": [], "A": []}

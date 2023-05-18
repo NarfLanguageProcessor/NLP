@@ -1,0 +1,1 @@
+{"index": 208552, "D": "to make normal", "S": ["assign ", "conduct ", "distribute ", "establish ", "file ", "place ", "plan "], "A": ["disarrange ", "disorder ", "keep ", "break ", "change ", "confuse ", "depart ", "disorganize ", "disturb ", "jumble ", "leave alone ", "mismanage ", "mix up ", "unsettle ", "upset "]}

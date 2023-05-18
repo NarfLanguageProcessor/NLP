@@ -1,0 +1,1 @@
+{"index": 364526, "D": "a person or thing that wheels. ", "S": [], "A": []}

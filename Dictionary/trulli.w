@@ -1,0 +1,1 @@
+{"index": 331555, "D": "a dwelling of the Apulia region of Italy, roofed with conical constructions of corbeled dry masonry.", "S": [], "A": []}

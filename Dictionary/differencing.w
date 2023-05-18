@@ -1,0 +1,1 @@
+{"index": 85276, "D": "the state or relation of being different; dissimilarity", "S": ["anticipate ", "ascertain ", "detect ", "determine ", "differentiate ", "discriminate ", "distinguish ", "divine ", "figure out ", "find out ", "foresee ", "perceive "], "A": ["confuse ", "doubt ", "miss ", "mix up ", "overlook ", "forget ", "ignore ", "lose ", "misunderstand ", "neglect "]}

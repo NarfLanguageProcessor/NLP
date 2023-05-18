@@ -1,0 +1,1 @@
+{"index": 215417, "D": "a heavy, coarse cotton in a plain weave, for grain sacks and sportswear and also finished into cretonne.", "S": [], "A": []}

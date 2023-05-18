@@ -1,0 +1,1 @@
+{"index": 96273, "D": "a conceited, boastful person.", "S": ["boaster ", "braggart ", "egoist ", "egomaniac "], "A": []}

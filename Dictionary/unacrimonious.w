@@ -1,0 +1,1 @@
+{"index": 334526, "D": "caustic, stinging, or bitter in nature, speech, behavior, etc.", "S": [], "A": []}

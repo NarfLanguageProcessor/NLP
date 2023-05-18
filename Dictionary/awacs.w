@@ -1,0 +1,1 @@
+{"index": 24920, "D": "a sophisticated detection aircraft, fitted with powerful radar and a computer, capable of simultaneously tracking and plotting large numbers of low-flying aircraft at much greater distances than is possible with ground radar.", "S": [], "A": []}

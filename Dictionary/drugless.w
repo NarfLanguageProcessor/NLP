@@ -1,0 +1,1 @@
+{"index": 93514, "D": "being without the use of drugs,  as certain methods of medical treatment.", "S": [], "A": []}

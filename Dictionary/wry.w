@@ -1,0 +1,1 @@
+{"index": 367952, "D": "bitterly or disdainfully ironic or amusing", "S": ["droll ", "ironic ", "mocking ", "sardonic ", "warped "], "A": ["straight ", "straightforward "]}

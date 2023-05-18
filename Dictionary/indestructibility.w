@@ -1,0 +1,1 @@
+{"index": 150829, "D": "not destructible; that cannot be destroyed.", "S": [], "A": []}

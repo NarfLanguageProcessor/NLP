@@ -1,0 +1,1 @@
+{"index": 313398, "D": "a sport in which a person stands or lies prone on a surfboard  and rides the crest of a breaking wave toward the shore; surfing.", "S": [], "A": []}

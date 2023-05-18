@@ -1,0 +1,1 @@
+{"index": 194546, "D": "high-muck-a-muck. ", "S": ["VIP ", "big gun ", "big kahuna ", "bigshot ", "bigwig ", "celebrity ", "character ", "eminence ", "leader ", "lion ", "luminary ", "nabob ", "notability ", "notable ", "official ", "person of influence ", "personage ", "star ", "top cat "], "A": []}

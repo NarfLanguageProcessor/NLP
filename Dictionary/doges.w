@@ -1,0 +1,1 @@
+{"index": 90872, "D": "the chief magistrate in the former republics of Venice and Genoa.", "S": ["President ", "chancellor ", "chief executive ", "chief minister ", "chief of state ", "chief officer ", "commander in chief ", "dewan ", "grand vizier ", "head of cabinet ", "head of state ", "leader ", "person in charge ", "premier "], "A": []}

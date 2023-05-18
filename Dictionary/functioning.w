@@ -1,0 +1,1 @@
+{"index": 120148, "D": "performing a specified action or activity; working; operating", "S": ["functional ", "working "], "A": ["idle "]}

@@ -1,0 +1,1 @@
+{"index": 194154, "D": "palatal or palatalized, especially referring to sounds spelled ll and \u00f1 in Spanish, gl and gn in Italian, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 252272, "D": "a person to whom a promise  is made.", "S": [], "A": []}

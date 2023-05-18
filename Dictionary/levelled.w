@@ -1,0 +1,1 @@
+{"index": 171202, "D": "having no part higher than another; having a flat or even surface.", "S": ["equalize ", "flatten "], "A": ["roughen "]}

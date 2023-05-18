@@ -1,0 +1,1 @@
+{"index": 34626, "D": "representing, characterized by, or including members from two parties or factions", "S": [], "A": []}

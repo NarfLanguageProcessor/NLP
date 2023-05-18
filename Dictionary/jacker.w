@@ -1,0 +1,1 @@
+{"index": 159895, "D": "any of various portable devices for raising or lifting heavy objects short heights, using various mechanical, pneumatic, or hydraulic methods.", "S": [], "A": []}

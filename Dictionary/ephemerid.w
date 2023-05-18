@@ -1,0 +1,1 @@
+{"index": 102135, "D": "an insect of the order Ephemeroptera, comprising the mayflies.", "S": [], "A": []}

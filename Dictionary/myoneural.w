@@ -1,0 +1,1 @@
+{"index": 188193, "D": "of or relating to both muscle and nerve.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 53647, "D": "of or relating to alchemy; alchemic.", "S": [], "A": []}

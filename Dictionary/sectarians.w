@@ -1,0 +1,1 @@
+{"index": 282844, "D": "of or relating to sectaries  or sects. ", "S": ["factional ", "parochial ", "partisan "], "A": ["conforming "]}

@@ -1,0 +1,1 @@
+{"index": 301889, "D": "(of bottles, tubes, mops, etc) designed to be squeezed, especially in order to extract something", "S": [], "A": []}

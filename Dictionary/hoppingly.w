@@ -1,0 +1,1 @@
+{"index": 143727, "D": "to make a short, bouncing leap; move by leaping with all feet off the ground.", "S": [], "A": []}

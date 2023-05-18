@@ -1,0 +1,1 @@
+{"index": 96499, "D": "a cardinal number, ten times eight.", "S": [], "A": []}

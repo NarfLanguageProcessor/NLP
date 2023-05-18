@@ -1,0 +1,1 @@
+{"index": 34710, "D": "involving the fourth, but no higher, power of the unknown or variable.", "S": [], "A": []}

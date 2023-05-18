@@ -1,0 +1,1 @@
+{"index": 68547, "D": "the exclusive right  to make copies,  license, and otherwise exploit a literary, musical, or artistic work, whether printed, audio, video, etc.", "S": ["absorb ", "exclude ", "possess ", "take over ", "utilize "], "A": ["abstain ", "fail ", "ignore ", "lack ", "let go ", "lose ", "need ", "reject ", "release "]}

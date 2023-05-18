@@ -1,0 +1,1 @@
+{"index": 305999, "D": "the bed of a stream. ", "S": [], "A": []}

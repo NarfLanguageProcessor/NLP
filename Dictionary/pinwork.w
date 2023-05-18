@@ -1,0 +1,1 @@
+{"index": 237290, "D": "(in the embroidery of needlepoint lace) crescent-shaped stitches raised from the surface of the design.", "S": [], "A": []}

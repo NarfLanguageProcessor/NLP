@@ -1,0 +1,1 @@
+{"index": 308108, "D": "the prepared earth surface on which a pavement or the ballast of a railroad track is placed or upon which the foundation of a structure is built.", "S": [], "A": []}

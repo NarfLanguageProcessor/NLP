@@ -1,0 +1,1 @@
+{"index": 122224, "D": "to provide or supply with something ornamental; adorn; decorate", "S": ["decorated ", "embellished "], "A": ["marred ", "unadorned "]}

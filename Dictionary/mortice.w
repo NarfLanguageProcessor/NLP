@@ -1,0 +1,1 @@
+{"index": 193724, "D": "a notch, hole, groove, or slot made in a piece of wood or the like to receive a tenon of the same dimensions.", "S": [], "A": []}

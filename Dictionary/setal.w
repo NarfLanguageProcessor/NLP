@@ -1,0 +1,1 @@
+{"index": 286619, "D": "a stiff hair; bristle or bristlelike part.", "S": ["aristate ", "barbellate ", "chaetophorous ", "echinate ", "hispid ", "setaceous ", "setarious ", "setiferous ", "setose ", "spiny "], "A": ["clean-shaven ", "smooth "]}

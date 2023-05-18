@@ -1,0 +1,1 @@
+{"index": 80438, "D": "to separate a company from another with which it was previously merged", "S": [], "A": []}

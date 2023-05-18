@@ -1,0 +1,1 @@
+{"index": 284878, "D": "not fully rigid;  partly rigid. ", "S": [], "A": []}

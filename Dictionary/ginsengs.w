@@ -1,0 +1,1 @@
+{"index": 125353, "D": "any of several plants of the genus Panax, especially P. pseudoginseng, of eastern Asia, or P. qinquefolius, of North America, having an aromatic root used medicinally.", "S": [], "A": []}

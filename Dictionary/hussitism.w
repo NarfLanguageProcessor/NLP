@@ -1,0 +1,1 @@
+{"index": 145378, "D": "a member of the religious reformist and nationalistic movement initiated by John Huss  in Bohemia in the late 14th century.", "S": [], "A": []}

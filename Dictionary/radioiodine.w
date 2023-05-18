@@ -1,0 +1,1 @@
+{"index": 259684, "D": "any of nine radioisotopes of iodine,  especially iodine 131  and iodine  125, used as radioactive tracers in research and clinical diagnosis and treatment.", "S": [], "A": []}

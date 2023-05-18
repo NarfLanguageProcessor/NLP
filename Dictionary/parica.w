@@ -1,0 +1,1 @@
+{"index": 226481, "D": "a snuff used by certain Indians of South America containing dimethyltryptamine and other hallucinogenic agents, obtained from the seeds of the tree Piptadenia peregrina.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 197639, "D": "in a pleasingly orderly and clean condition", "S": ["accurately ", "adroitly ", "aptly ", "cleanly ", "efficiently ", "expertly ", "methodically ", "nicely ", "precisely ", "skillfully "], "A": []}

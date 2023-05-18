@@ -1,0 +1,1 @@
+{"index": 365850, "D": "a carpet woven like Brussels carpet, on a Jacquard loom but having the loops cut to form a velvet pile.", "S": [], "A": []}

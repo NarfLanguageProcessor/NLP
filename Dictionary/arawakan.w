@@ -1,0 +1,1 @@
+{"index": 18489, "D": "a family of numerous languages that developed in ancient South America and spread north to Central America and to islands in the Caribbean and Atlantic.", "S": [], "A": []}

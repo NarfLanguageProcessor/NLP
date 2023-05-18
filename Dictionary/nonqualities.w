@@ -1,0 +1,1 @@
+{"index": 206425, "D": "an essential or distinctive characteristic, property, or attribute", "S": [], "A": []}

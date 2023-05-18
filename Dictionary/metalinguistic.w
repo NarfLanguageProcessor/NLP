@@ -1,0 +1,1 @@
+{"index": 184700, "D": "of or relating to metalinguistics or a metalanguage.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 112416, "D": "any tree or shrub belonging to the genus Ficus, of the mulberry family, especially a small tree, F. carica, native to southwestern Asia, bearing a turbinate or pear-shaped fruit that is eaten fresh, preserved, or dried.", "S": ["aggregate fruit ", "mulberry ", "pineapple "], "A": []}

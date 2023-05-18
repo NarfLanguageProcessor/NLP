@@ -1,0 +1,1 @@
+{"index": 270942, "D": "the act of moving a tooth backward.", "S": [], "A": []}

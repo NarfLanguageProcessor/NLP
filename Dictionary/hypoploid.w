@@ -1,0 +1,1 @@
+{"index": 141127, "D": "having a chromosome number that is less than the diploid number.", "S": [], "A": []}

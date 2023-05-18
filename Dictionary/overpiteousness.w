@@ -1,0 +1,1 @@
+{"index": 220509, "D": "evoking or deserving pity;  pathetic", "S": [], "A": []}

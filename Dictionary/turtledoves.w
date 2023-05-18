@@ -1,0 +1,1 @@
+{"index": 332955, "D": "any of several small to medium-sized Old World doves of the genus Streptopelia, especially S. turtur, of Europe, having a long, graduated tail", "S": [], "A": []}

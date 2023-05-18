@@ -1,0 +1,1 @@
+{"index": 196314, "D": "to utter words indistinctly or in a low tone, often as if talking to oneself; murmur.", "S": ["bear ", "bellyacher ", "bug ", "complainer ", "crab ", "crank ", "crosspatch ", "curmudgeon ", "faultfinder ", "growler ", "grumbler ", "grump ", "kicker ", "malcontent ", "moaner ", "murmurer ", "sorehead ", "sourpuss ", "whiner "], "A": []}

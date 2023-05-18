@@ -1,0 +1,1 @@
+{"index": 74599, "D": "suitable for or inviting cuddling", "S": ["lovable "], "A": ["despicable ", "disgusting "]}

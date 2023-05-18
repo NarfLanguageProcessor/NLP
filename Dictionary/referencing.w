@@ -1,0 +1,1 @@
+{"index": 264992, "D": "an act or instance of referring. ", "S": ["ascribe "], "A": ["absolve ", "exculpate ", "exonerate ", "praise "]}

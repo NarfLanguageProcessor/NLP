@@ -1,0 +1,1 @@
+{"index": 233498, "D": "a blue protein pigment, found in algae, involved in the process of photosynthesis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 164171, "D": "the formal contract in a Jewish religious marriage that includes specific financial protection for the wife in the event that the husband dies or divorces her.", "S": [], "A": []}

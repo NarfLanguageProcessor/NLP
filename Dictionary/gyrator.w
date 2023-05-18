@@ -1,0 +1,1 @@
+{"index": 125469, "D": "an electronic circuit that inverts the impedance", "S": [], "A": []}

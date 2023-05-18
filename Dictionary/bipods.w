@@ -1,0 +1,1 @@
+{"index": 34688, "D": "a two-legged support, as for an automatic rifle.", "S": [], "A": []}

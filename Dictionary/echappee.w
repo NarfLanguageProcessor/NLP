@@ -1,0 +1,1 @@
+{"index": 95172, "D": "a melodic ornamental tone following a principal tone by a step above or below and proceeding by a skip.", "S": [], "A": []}

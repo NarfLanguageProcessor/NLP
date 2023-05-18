@@ -1,0 +1,1 @@
+{"index": 46375, "D": "the parent compound of tetrahydrocannabinol,  the active principle of marijuana.", "S": [], "A": []}

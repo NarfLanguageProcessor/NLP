@@ -1,0 +1,1 @@
+{"index": 291743, "D": "a German opera, especially of the 18th century, using spoken dialogue and resembling ballad opera.", "S": [], "A": []}

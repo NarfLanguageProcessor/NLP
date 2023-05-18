@@ -1,0 +1,1 @@
+{"index": 334349, "D": "to bring forth a fetus from the uterus before the fetus is viable; miscarry.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 229855, "D": "a combining form occurring in loanwords from Greek, meaning \u201cfive\u201d (Pentateuch); on this model, used in the formation of compound words (pentavalent).", "S": [], "A": []}

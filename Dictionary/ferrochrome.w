@@ -1,0 +1,1 @@
+{"index": 111527, "D": "a ferroalloy containing up to 70 percent chromium. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 322713, "D": "any of several minute insects of the order Thysanoptera, that have long, narrow wings fringed with hairs and that infest and feed on a wide variety of weeds and crop plants.", "S": [], "A": []}

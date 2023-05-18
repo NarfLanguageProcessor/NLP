@@ -1,0 +1,1 @@
+{"index": 53206, "D": "any foot covering, as a shoe or boot; footwear.", "S": [], "A": []}

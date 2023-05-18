@@ -1,0 +1,1 @@
+{"index": 4951, "D": "a U.S. two-stage, liquid-propellant sounding rocket developed in the 1940s that carried scientific instruments and occasionally biological specimens into the upper stratosphere.", "S": [], "A": []}

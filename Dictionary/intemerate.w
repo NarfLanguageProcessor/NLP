@@ -1,0 +1,1 @@
+{"index": 154307, "D": "inviolate; undefiled; unsullied; pure.", "S": ["celibate ", "monogamous ", "platonic ", "subdued ", "unblemished ", "virginal "], "A": ["corrupt ", "defiled ", "dirty ", "lewd ", "unchaste ", "wanton "]}

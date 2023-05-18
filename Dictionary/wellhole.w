@@ -1,0 +1,1 @@
+{"index": 364037, "D": "the shaft of a well. ", "S": [], "A": []}

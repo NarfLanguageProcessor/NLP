@@ -1,0 +1,1 @@
+{"index": 348316, "D": "that may be predicated or affirmed; assertable.", "S": [], "A": []}

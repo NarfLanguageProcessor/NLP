@@ -1,0 +1,1 @@
+{"index": 176002, "D": "a palm branch for use with the etrog during the Sukkoth festival service.", "S": [], "A": []}

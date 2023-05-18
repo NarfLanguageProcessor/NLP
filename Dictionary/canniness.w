@@ -1,0 +1,1 @@
+{"index": 46429, "D": "careful; cautious; prudent", "S": ["artfulness ", "artifice ", "astuteness ", "craftiness ", "deceit ", "duplicity ", "guile ", "slyness ", "trickery ", "wiliness "], "A": ["artlessness ", "frankness ", "honesty ", "openness ", "sincerity ", "truthfulness "]}

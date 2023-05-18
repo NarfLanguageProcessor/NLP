@@ -1,0 +1,1 @@
+{"index": 135090, "D": "a member of the Semitic peoples inhabiting ancient Palestine and claiming descent from Abraham, Isaac, and Jacob; an Israelite.", "S": ["Hasidic ", "Judaistic ", "Semitic "], "A": []}

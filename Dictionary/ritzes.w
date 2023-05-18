@@ -1,0 +1,1 @@
+{"index": 273342, "D": "ostentatious or pretentious display.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 103365, "D": "Compare probabilism (def. 2). ", "S": [], "A": []}

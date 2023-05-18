@@ -1,0 +1,1 @@
+{"index": 90265, "D": "a person engaged in activities that divert attention from a primary focus.", "S": [], "A": []}

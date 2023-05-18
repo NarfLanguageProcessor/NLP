@@ -1,0 +1,1 @@
+{"index": 85684, "D": "dilated; broadened.", "S": [], "A": []}

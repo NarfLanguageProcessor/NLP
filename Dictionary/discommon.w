@@ -1,0 +1,1 @@
+{"index": 87480, "D": "(at Oxford and Cambridge) to prohibit (tradespeople or townspeople who have violated the regulations of the university) from dealing with the undergraduates.", "S": [], "A": []}

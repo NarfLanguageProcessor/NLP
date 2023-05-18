@@ -1,0 +1,1 @@
+{"index": 299255, "D": "one of the minute, usually actively motile gametes in semen, which serve to fertilize the ovum; a mature male reproductive cell.", "S": [], "A": []}

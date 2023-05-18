@@ -1,0 +1,1 @@
+{"index": 355435, "D": "a compound, CO(NH2)2, occurring in urine and other body fluids as a product of protein metabolism.", "S": [], "A": []}

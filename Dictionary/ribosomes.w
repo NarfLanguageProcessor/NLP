@@ -1,0 +1,1 @@
+{"index": 272478, "D": "a tiny, somewhat mitten-shaped organelle occurring in great numbers in the cell cytoplasm either freely, in small clusters, or attached to the outer surfaces of endoplasmic reticula, and functioning as the site of protein manufacture.", "S": [], "A": []}

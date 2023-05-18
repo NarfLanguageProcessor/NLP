@@ -1,0 +1,1 @@
+{"index": 68702, "D": "(of animals) living in dung", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 98114, "D": "to serve as an emblem  of; represent by an emblem.", "S": [], "A": []}

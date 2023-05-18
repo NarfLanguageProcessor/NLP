@@ -1,0 +1,1 @@
+{"index": 219674, "D": "to make necessary repairs on; restore to serviceable condition", "S": ["alteration ", "amendment ", "improvement ", "modification ", "reconsideration ", "reexamination ", "review "], "A": ["worsening "]}

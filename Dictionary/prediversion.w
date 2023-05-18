@@ -1,0 +1,1 @@
+{"index": 247105, "D": "the act of diverting  or turning aside, as from a course or purpose", "S": [], "A": []}

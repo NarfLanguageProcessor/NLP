@@ -1,0 +1,1 @@
+{"index": 215257, "D": "to swing or move to and fro, as a pendulum does.", "S": ["fluctuate ", "lurch ", "seesaw ", "teeter ", "vacillate ", "waver ", "wobble "], "A": ["remain ", "stay ", "stabilize ", "steady "]}

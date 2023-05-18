@@ -1,0 +1,1 @@
+{"index": 183903, "D": "the development of an embryo from egg fragments lacking the egg nucleus but having an introduced male nucleus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 73922, "D": "given to odd notions, whims, grouchiness, etc.", "S": [], "A": []}

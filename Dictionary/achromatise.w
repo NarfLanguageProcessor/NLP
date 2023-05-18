@@ -1,0 +1,1 @@
+{"index": 2343, "D": "to make achromatic;  deprive or free of color.", "S": [], "A": []}

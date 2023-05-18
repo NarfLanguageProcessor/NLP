@@ -1,0 +1,1 @@
+{"index": 344255, "D": "permeated or inspired, as with an ideal, meaning, characteristic, etc.", "S": [], "A": []}

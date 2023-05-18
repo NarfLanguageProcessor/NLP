@@ -1,0 +1,1 @@
+{"index": 315519, "D": "a mountain-dwelling bovid, Budorcas taxicolor, native to the eastern Himalayas, China, and northern Myanmar (Burma), that resembles a cross between a goat and a musk ox.", "S": [], "A": []}

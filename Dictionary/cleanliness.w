@@ -1,0 +1,1 @@
+{"index": 59630, "D": " the quality, state, or habit of being cleanly,  or keeping oneself clean and neat", "S": ["freshness ", "purity ", "sanitation "], "A": ["dirtiness ", "filth ", "griminess "]}

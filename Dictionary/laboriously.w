@@ -1,0 +1,1 @@
+{"index": 166747, "D": "in a way that involves or requires much effort, exertion, care, or attention to detail", "S": ["arduously ", "energetically ", "hard ", "painfully ", "resolutely ", "tiresomely ", "vigorously "], "A": []}

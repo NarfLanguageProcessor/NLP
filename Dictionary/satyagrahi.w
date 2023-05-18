@@ -1,0 +1,1 @@
+{"index": 278701, "D": "an exponent of nonviolent resistance, esp as a form of political protest", "S": [], "A": []}

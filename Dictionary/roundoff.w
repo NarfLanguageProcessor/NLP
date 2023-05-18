@@ -1,0 +1,1 @@
+{"index": 274877, "D": "of or relating to the act or process of rounding.", "S": ["culminate ", "finish off ", "top off "], "A": ["start "]}

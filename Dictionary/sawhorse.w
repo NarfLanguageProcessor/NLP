@@ -1,0 +1,1 @@
+{"index": 279175, "D": "a movable frame or trestle for supporting wood being sawed. ", "S": ["beam ", "brace ", "horse ", "stand ", "support "], "A": []}

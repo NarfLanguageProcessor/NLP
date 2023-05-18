@@ -1,0 +1,1 @@
+{"index": 282301, "D": "plural of scutum. ", "S": [], "A": []}

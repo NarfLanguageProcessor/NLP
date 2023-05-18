@@ -1,0 +1,1 @@
+{"index": 56197, "D": "a salt of chromic acid,  as potassium chromate, K2CrO4.", "S": [], "A": []}

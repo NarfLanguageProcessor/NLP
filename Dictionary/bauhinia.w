@@ -1,0 +1,1 @@
+{"index": 29213, "D": "any of numerous trees, shrubs, or vines of the genus Bauhinia, native to warm regions, having two-lobed leaves and showy, usually white, purple, or reddish flowers, widely planted in southern Florida.", "S": [], "A": []}

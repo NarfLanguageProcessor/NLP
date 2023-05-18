@@ -1,0 +1,1 @@
+{"index": 210505, "D": "something that obstructs,  blocks, or closes up with an obstacle or obstacles; obstacle or hindrance", "S": ["blockage ", "hindrance ", "interference "], "A": ["aid ", "assistance ", "help ", "advantage ", "beginning ", "contentment ", "continuation ", "go ", "liberation ", "opening ", "peace ", "start "]}

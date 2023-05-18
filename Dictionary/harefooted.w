@@ -1,0 +1,1 @@
+{"index": 133734, "D": [], "S": ["abrupt ", "careless ", "expeditious ", "hurried ", "ill-advised ", "impulsive ", "quick ", "rapid ", "reckless ", "sudden ", "swift ", "urgent "], "A": ["careful ", "cautious ", "kind ", "leisurely ", "slow ", "sluggish ", "thoughtful ", "wise "]}

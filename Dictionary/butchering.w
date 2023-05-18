@@ -1,0 +1,1 @@
+{"index": 43577, "D": "a retail or wholesale dealer in meat.", "S": ["bloodshed ", "butchery ", "crime ", "havoc ", "killing ", "mass murder ", "slaughter ", "slaying ", "warfare "], "A": ["peace "]}

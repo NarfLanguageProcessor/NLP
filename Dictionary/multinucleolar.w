@@ -1,0 +1,1 @@
+{"index": 195218, "D": "of, relating to, or forming a nucleolus. ", "S": [], "A": []}

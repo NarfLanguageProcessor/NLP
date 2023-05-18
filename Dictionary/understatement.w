@@ -1,0 +1,1 @@
+{"index": 339898, "D": "the act or an instance of understating,  or representing in a weak or restrained way that is not borne out by the facts", "S": ["distortion ", "litotes ", "restraint ", "underestimate "], "A": ["exaggeration ", "overstatement "]}

@@ -1,0 +1,1 @@
+{"index": 275006, "D": "a rough, disorderly person.", "S": ["disorderly ", "loud ", "rambunctious ", "raucous ", "rebellious ", "rude ", "turbulent ", "unruly ", "uproarious "], "A": ["calm ", "compliant ", "manageable ", "obedient ", "quiet ", "soft ", "subdued ", "mild ", "moderate "]}

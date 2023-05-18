@@ -1,0 +1,1 @@
+{"index": 191122, "D": "to do shoddily; make a mess of", "S": [], "A": []}

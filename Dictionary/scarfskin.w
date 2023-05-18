@@ -1,0 +1,1 @@
+{"index": 279754, "D": "the outermost layer of the skin;  epidermis.", "S": ["fur ", "leather ", "skin ", "wool "], "A": []}

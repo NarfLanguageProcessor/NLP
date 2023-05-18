@@ -1,0 +1,1 @@
+{"index": 286509, "D": "a tropical, herbaceous plant, Sesamum indicum, whose small oval seeds are edible and yield an oil.", "S": [], "A": []}

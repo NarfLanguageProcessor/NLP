@@ -1,0 +1,1 @@
+{"index": 259195, "D": "a wooden beater for mixing plaster or mortar.", "S": [], "A": []}

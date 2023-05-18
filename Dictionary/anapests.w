@@ -1,0 +1,1 @@
+{"index": 11886, "D": "a foot of three syllables, two short followed by one long in quantitative meter, and two unstressed followed by one stressed in accentual meter, as in for the nonce.", "S": [], "A": []}

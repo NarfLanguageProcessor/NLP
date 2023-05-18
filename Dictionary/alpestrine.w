@@ -1,0 +1,1 @@
+{"index": 9314, "D": "subalpine (def. 2). ", "S": [], "A": []}

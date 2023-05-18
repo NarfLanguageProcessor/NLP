@@ -1,0 +1,1 @@
+{"index": 22975, "D": "a clay mineral, basic hydrous silicate of magnesium and aluminum, the active ingredient of fuller's earth.", "S": [], "A": []}

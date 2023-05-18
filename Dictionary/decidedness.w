@@ -1,0 +1,1 @@
+{"index": 78313, "D": "in no way uncertain or ambiguous; unmistakable; unquestionable", "S": ["assertiveness ", "conclusiveness ", "decisiveness ", "determination ", "emphaticalness ", "firmness ", "purpose ", "purposefulness ", "resoluteness ", "resolution ", "resolve ", "willpower "], "A": []}

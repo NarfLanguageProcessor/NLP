@@ -1,0 +1,1 @@
+{"index": 227997, "D": "a person who is easily swindled, deceived, coerced, persuaded, etc.; sucker.", "S": ["doormat ", "sitting duck "], "A": []}

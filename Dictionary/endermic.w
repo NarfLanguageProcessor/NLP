@@ -1,0 +1,1 @@
+{"index": 99658, "D": "acting through the skin, as a medicine, by absorption.", "S": [], "A": []}

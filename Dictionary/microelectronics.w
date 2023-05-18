@@ -1,0 +1,1 @@
+{"index": 186103, "D": "the technology dealing with the design, development, and construction of electronic systems utilizing extremely small elements, especially solid-state devices employing microminiaturization.", "S": ["chip ", "circuitry ", "microchip ", "microprocessor ", "silicon chip "], "A": []}

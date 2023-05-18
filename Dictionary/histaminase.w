@@ -1,0 +1,1 @@
+{"index": 141714, "D": "an enzyme that catalyzes the decomposition of histamine,  used in treating allergies.", "S": [], "A": []}

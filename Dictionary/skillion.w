@@ -1,0 +1,1 @@
+{"index": 293202, "D": "a lean-to serving as a room or a shed.", "S": [], "A": []}

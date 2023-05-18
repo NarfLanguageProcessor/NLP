@@ -1,0 +1,1 @@
+{"index": 175291, "D": "any of several small, usually brilliantly colored Australasian parrots having the tongue bordered with a brushlike fringe for feeding on nectar and fruit juices.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 29663, "D": "Compare aesthetician (def. 2). ", "S": ["coiffeur ", "coiffeuse ", "cosmetologist ", "hairdresser ", "shaver "], "A": []}

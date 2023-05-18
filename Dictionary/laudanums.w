@@ -1,0 +1,1 @@
+{"index": 169099, "D": "a tincture of opium.", "S": ["anesthetic ", "dope ", "hard drug ", "heroin ", "merchandise ", "opiate ", "opium ", "painkiller ", "sedative ", "tranquilizer "], "A": []}

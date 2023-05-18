@@ -1,0 +1,1 @@
+{"index": 352041, "D": "a particular kind, sort, or type, as with reference to form, appearance, or character", "S": [], "A": []}

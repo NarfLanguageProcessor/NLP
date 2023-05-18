@@ -1,0 +1,1 @@
+{"index": 185039, "D": "a flat stone that has a shallow depression in the upper surface for holding maize or other grains to be ground with a mano.", "S": [], "A": []}

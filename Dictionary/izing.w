@@ -1,0 +1,1 @@
+{"index": 159787, "D": "an act or instance of reusing ideas, passages, etc., from one\u2019s previous work in another work and not referencing the original content; plagiarism of oneself", "S": [], "A": []}

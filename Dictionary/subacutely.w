@@ -1,0 +1,1 @@
+{"index": 307084, "D": "somewhat or moderately acute. ", "S": [], "A": []}

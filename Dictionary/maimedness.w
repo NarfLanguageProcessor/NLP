@@ -1,0 +1,1 @@
+{"index": 177873, "D": "partly or wholly deprived of the use of some part of the body by wounding or the like", "S": [], "A": []}

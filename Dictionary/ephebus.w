@@ -1,0 +1,1 @@
+{"index": 102115, "D": "a youth of ancient Greece just entering manhood or commencing training for full Athenian citizenship.", "S": [], "A": []}

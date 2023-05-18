@@ -1,0 +1,1 @@
+{"index": 263056, "D": "to identify as something or someone previously seen, known, etc.", "S": ["admit ", "know ", "make ", "note ", "notice ", "observe ", "perceive ", "remember ", "see "], "A": ["deny ", "forget ", "ignore ", "misinterpret ", "miss ", "misunderstand ", "neglect ", "overlook ", "refuse ", "lose ", "unfasten "]}

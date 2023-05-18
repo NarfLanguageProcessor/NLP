@@ -1,0 +1,1 @@
+{"index": 82977, "D": "serving or designed to destroy", "S": ["decimate ", "demolish ", "devastate ", "dismantle ", "level ", "pulverize ", "raze ", "ruin ", "wreck "], "A": ["build ", "construct ", "create ", "repair "]}

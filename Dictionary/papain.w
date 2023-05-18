@@ -1,0 +1,1 @@
+{"index": 225104, "D": "a proteolytic enzyme found in the fruit of the papaya  tree, Carica papaya.", "S": [], "A": []}

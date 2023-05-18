@@ -1,0 +1,1 @@
+{"index": 181080, "D": "a partner in marriage; spouse. ", "S": [], "A": []}

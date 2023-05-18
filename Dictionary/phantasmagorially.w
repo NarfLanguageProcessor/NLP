@@ -1,0 +1,1 @@
+{"index": 232964, "D": "having a fantastic or deceptive appearance, as something in a dream or created by the imagination.", "S": [], "A": []}

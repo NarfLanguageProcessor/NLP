@@ -1,0 +1,1 @@
+{"index": 68965, "D": "a native or inhabitant of C\u00f3rdoba, Spain.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 306142, "D": "a similar litter on wheels, adapted for use in ambulances and hospitals.", "S": ["cot ", "pallet "], "A": []}

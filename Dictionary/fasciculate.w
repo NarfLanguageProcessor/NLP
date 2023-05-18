@@ -1,0 +1,1 @@
+{"index": 110094, "D": "arranged in a fascicle  or fascicles.", "S": [], "A": []}

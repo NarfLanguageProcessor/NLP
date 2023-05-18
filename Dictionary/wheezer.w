@@ -1,0 +1,1 @@
+{"index": 364579, "D": "to breathe with difficulty and with a whistling sound", "S": [], "A": []}

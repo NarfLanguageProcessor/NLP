@@ -1,0 +1,1 @@
+{"index": 178096, "D": "any structure to which a ship is tied up, as a bollard or buoy.", "S": [], "A": []}

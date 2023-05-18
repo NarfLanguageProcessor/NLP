@@ -1,0 +1,1 @@
+{"index": 225082, "D": "a disease that affects all the animals in a geographical area", "S": [], "A": []}

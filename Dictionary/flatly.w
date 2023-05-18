@@ -1,0 +1,1 @@
+{"index": 114092, "D": "absolutely and without qualification", "S": ["absolutely ", "categorically ", "emphatically ", "firmly ", "unequivocally "], "A": []}

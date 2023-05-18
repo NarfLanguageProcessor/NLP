@@ -1,0 +1,1 @@
+{"index": 81770, "D": "to place for safekeeping or in trust, especially in a bank account", "S": ["conveyed ", "dispatched ", "expressed ", "forwarded ", "mailed ", "sent ", "shipped ", "transported ", "trucked "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 249200, "D": "a presentiment or foreboding.", "S": ["apprehension ", "apprehensiveness ", "augury ", "auspice ", "boding ", "forecast ", "foretoken ", "forewarning ", "harbinger ", "intimation ", "misgiving ", "omen ", "portent ", "premonition ", "presentiment ", "prognostic ", "prognostication ", "prophecy ", "sign ", "warning "], "A": []}

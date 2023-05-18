@@ -1,0 +1,1 @@
+{"index": 74394, "D": "either of two keys on a PC keyboard that is held down while pressing another key, as to issue a command.", "S": ["Alt ", "F key "], "A": []}

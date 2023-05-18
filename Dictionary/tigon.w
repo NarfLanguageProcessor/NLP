@@ -1,0 +1,1 @@
+{"index": 323494, "D": "the hybrid offspring of a male tiger and a female lion", "S": [], "A": []}

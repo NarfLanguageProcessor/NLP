@@ -1,0 +1,1 @@
+{"index": 52101, "D": "a common mineral, cuprous sulfide, Cu2S", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 206522, "D": "temporary withdrawal or cessation from the usual work or activity.", "S": [], "A": []}

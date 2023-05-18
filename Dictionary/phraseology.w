@@ -1,0 +1,1 @@
+{"index": 235509, "D": "manner or style of verbal expression; characteristic language", "S": ["diction ", "language ", "locution ", "manner ", "parlance ", "style ", "syntax ", "wording "], "A": []}

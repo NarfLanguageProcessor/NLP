@@ -1,0 +1,1 @@
+{"index": 123991, "D": "the practice of eating earthy matter, especially clay or chalk, as in famine-stricken areas.", "S": [], "A": []}

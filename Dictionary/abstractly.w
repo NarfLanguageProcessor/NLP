@@ -1,0 +1,1 @@
+{"index": 1100, "D": "thought of apart from concrete realities, specific objects, or actual instances", "S": ["conceivably ", "hypothetically ", "theoretically "], "A": []}

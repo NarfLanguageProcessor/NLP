@@ -1,0 +1,1 @@
+{"index": 35144, "D": "a small, modest, European-style restaurant or caf\u00e9.", "S": ["lounge ", "restaurant ", "tavern "], "A": []}

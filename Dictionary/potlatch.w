@@ -1,0 +1,1 @@
+{"index": 244747, "D": "(among Indigenous people of the northern Pacific coast, especially the Kwakiutl) a ceremonial festival at which gifts are bestowed on the guests and property is destroyed by its owner in a show of wealth that the guests later attempt to surpass.", "S": ["barbecue ", "dinner ", "festival ", "festivity ", "fiesta ", "gala ", "picnic ", "repast "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 278066, "D": "the dried flower heads of any of several species of wormwood, belonging to the genus Artemisia, used as a vermifuge.", "S": [], "A": []}

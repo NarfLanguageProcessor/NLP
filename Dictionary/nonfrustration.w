@@ -1,0 +1,1 @@
+{"index": 204206, "D": "act of frustrating;  state of being frustrated", "S": [], "A": []}

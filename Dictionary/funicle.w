@@ -1,0 +1,1 @@
+{"index": 120269, "D": "the stalk of an ovule or seed.", "S": [], "A": []}

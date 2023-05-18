@@ -1,0 +1,1 @@
+{"index": 327642, "D": "to make or become tranquil. ", "S": ["sedate "], "A": ["agitate ", "anger ", "arouse ", "distress ", "disturb ", "excite ", "incite ", "irritate ", "rouse ", "upset ", "worry "]}

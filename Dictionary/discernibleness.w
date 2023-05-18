@@ -1,0 +1,1 @@
+{"index": 87279, "D": "capable of being discerned;  distinguishable.", "S": [], "A": []}

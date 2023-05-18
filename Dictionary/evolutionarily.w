@@ -1,0 +1,1 @@
+{"index": 106316, "D": "pertaining to evolution  or development; developmental", "S": [], "A": []}

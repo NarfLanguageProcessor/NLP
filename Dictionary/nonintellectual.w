@@ -1,0 +1,1 @@
+{"index": 204787, "D": "not appealing to or characteristic of people with a developed intellect", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 346945, "D": "an angular or V-shaped cut, indentation, or slit in an object, surface, or edge.", "S": [], "A": []}

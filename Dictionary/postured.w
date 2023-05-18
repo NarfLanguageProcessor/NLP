@@ -1,0 +1,1 @@
+{"index": 244544, "D": "the relative disposition of the parts of something.", "S": ["affect ", "attitudinize ", "display ", "fake ", "masquerade ", "playact ", "pose "], "A": ["withhold "]}

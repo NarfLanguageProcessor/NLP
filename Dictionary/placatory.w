@@ -1,0 +1,1 @@
+{"index": 238536, "D": "serving, tending, or intended to placate", "S": ["appeasing ", "assuaging ", "calm ", "civil ", "disarming ", "irenic ", "mollifying ", "pacific ", "peaceable ", "placating ", "propitiative ", "quiet ", "willing "], "A": ["antagonistic ", "fighting ", "refusing ", "stubborn "]}

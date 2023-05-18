@@ -1,0 +1,1 @@
+{"index": 16203, "D": "skeptical  attitude or temper; doubt.", "S": [], "A": []}

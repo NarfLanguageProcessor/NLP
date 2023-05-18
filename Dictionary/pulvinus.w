@@ -1,0 +1,1 @@
+{"index": 256483, "D": "a cushionlike swelling at the base of a leaf or leaflet, at the point of junction with the axis.", "S": [], "A": []}

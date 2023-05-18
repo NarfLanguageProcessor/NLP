@@ -1,0 +1,1 @@
+{"index": 54284, "D": "an inflammation of the hands and feet caused by exposure to cold and moisture.", "S": [], "A": []}

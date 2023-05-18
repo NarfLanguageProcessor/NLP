@@ -1,0 +1,1 @@
+{"index": 66067, "D": "an act of confronting. ", "S": ["battle ", "contest ", "crisis ", "dispute ", "encounter ", "fight ", "meeting ", "showdown ", "strife "], "A": ["agreement ", "calm ", "peace "]}

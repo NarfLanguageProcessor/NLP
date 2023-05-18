@@ -1,0 +1,1 @@
+{"index": 228585, "D": "to strike or indent with the beak, as a bird does, or with some pointed instrument, especially with quick, repeated movements.", "S": ["beak ", "dig ", "hit ", "jab ", "kiss ", "mark ", "nibble ", "pick ", "pinch ", "poke ", "prick ", "rap ", "strike ", "tap "], "A": ["flattery ", "praise "]}

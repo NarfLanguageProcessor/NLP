@@ -1,0 +1,1 @@
+{"index": 123632, "D": "a repository (usually in a synagogue) for books and other sacred objects which can no longer be used but which may not be destroyed", "S": [], "A": []}

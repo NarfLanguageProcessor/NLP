@@ -1,0 +1,1 @@
+{"index": 283486, "D": "the branch of astronomy that deals with the measurement of the moon's surface and its gravitational field.", "S": [], "A": []}

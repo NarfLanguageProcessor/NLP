@@ -1,0 +1,1 @@
+{"index": 119853, "D": "leader. ", "S": ["absolute ruler ", "despot ", "fuehrer ", "oppressor ", "strongman ", "totalitarian ", "tyrant "], "A": []}

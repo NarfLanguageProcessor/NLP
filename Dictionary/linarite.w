@@ -1,0 +1,1 @@
+{"index": 172671, "D": "a mineral, a complex basic sulfate of lead and copper, having a deep-blue color resembling that of azurite.", "S": [], "A": []}

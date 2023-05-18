@@ -1,0 +1,1 @@
+{"index": 163415, "D": "a small venomous spider, Latrodectus katipo, of New Zealand, commonly black with a red or orange stripe on the abdomen", "S": [], "A": []}

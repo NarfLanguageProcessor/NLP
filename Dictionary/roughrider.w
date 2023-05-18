@@ -1,0 +1,1 @@
+{"index": 274806, "D": "a person who breaks horses to the saddle.", "S": ["broncobuster ", "buckaroo ", "cavalryman ", "cowboy ", "dragoon ", "equerry ", "equestrian ", "gaucho ", "jockey ", "postilion ", "pricker "], "A": []}

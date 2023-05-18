@@ -1,0 +1,1 @@
+{"index": 135643, "D": "an inert, gaseous element present in the sun's atmosphere and in natural gas, and also occurring as a radioactive decomposition product, used as a substitute for flammable gases in dirigible balloons. Symbol", "S": [], "A": []}

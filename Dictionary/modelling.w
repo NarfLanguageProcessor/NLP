@@ -1,0 +1,1 @@
+{"index": 191055, "D": "the act or an instance of making a model", "S": ["create ", "design "], "A": ["photograph "]}

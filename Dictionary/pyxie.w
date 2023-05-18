@@ -1,0 +1,1 @@
+{"index": 238482, "D": "either of two trailing, shrubby, evergreen plants, Pyxidanthera barbulata or P. brevifolia, of the eastern U.S., having numerous small, starlike blossoms and growing in sandy soil.", "S": [], "A": []}

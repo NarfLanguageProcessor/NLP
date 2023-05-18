@@ -1,0 +1,1 @@
+{"index": 171622, "D": "formal permission from a governmental or other constituted authority to do something, as to carry on some business or profession.", "S": ["accredited ", "approved ", "certified ", "permitted "], "A": ["refused "]}

@@ -1,0 +1,1 @@
+{"index": 326241, "D": "to subject to fire or intense heat; parch, roast, or scorch.", "S": ["bake ", "blot ", "deplete ", "drain ", "empty ", "evaporate ", "exhaust ", "sear ", "shrivel ", "wilt ", "wipe ", "wither "], "A": ["bloom ", "dampen ", "expand ", "fill ", "grow ", "soak ", "wet ", "moisten "]}

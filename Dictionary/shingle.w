@@ -1,0 +1,1 @@
+{"index": 288352, "D": "a thin piece of wood, slate, metal, asbestos, or the like, usually oblong, laid in overlapping rows to cover the roofs and walls of buildings.", "S": ["coast ", "shore ", "waterfront "], "A": []}

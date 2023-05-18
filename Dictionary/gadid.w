@@ -1,0 +1,1 @@
+{"index": 120876, "D": "belonging or pertaining to the cod family, Gadidae.", "S": [], "A": []}

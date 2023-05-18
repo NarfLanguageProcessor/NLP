@@ -1,0 +1,1 @@
+{"index": 327142, "D": "(of the texture of certain igneous rocks) characterized by a parallel arrangement of crystals, which mark the flow of the lava when still molten", "S": [], "A": []}

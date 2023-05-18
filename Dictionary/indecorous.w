@@ -1,0 +1,1 @@
+{"index": 150695, "D": "not decorous; violating generally accepted standards of good taste or propriety; unseemly.", "S": ["improper ", "indecent ", "rude ", "uncouth ", "vulgar "], "A": []}

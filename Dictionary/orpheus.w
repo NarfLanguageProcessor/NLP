@@ -1,0 +1,1 @@
+{"index": 214882, "D": "a poet and musician, a son of Calliope, who followed his dead wife, Eurydice, to the underworld. By charming Hades, he obtained permission to lead her away, provided he did not look back at her until they returned to earth. But at the last moment he looked, and she was lost to him forever.", "S": [], "A": []}

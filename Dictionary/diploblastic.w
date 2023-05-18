@@ -1,0 +1,1 @@
+{"index": 86519, "D": "having two germ layers, the ectoderm and endoderm, as the embryos of sponges and coelenterates.", "S": [], "A": []}

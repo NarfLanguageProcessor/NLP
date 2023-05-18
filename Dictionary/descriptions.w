@@ -1,0 +1,1 @@
+{"index": 82449, "D": "a statement, picture in words, or account that describes; descriptive  representation.", "S": ["characterization ", "confession ", "definition ", "depiction ", "detail ", "explanation ", "information ", "narration ", "narrative ", "picture ", "portrayal ", "report ", "sketch ", "statement ", "story ", "summary ", "tale ", "version "], "A": ["concealment "]}

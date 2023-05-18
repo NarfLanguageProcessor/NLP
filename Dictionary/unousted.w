@@ -1,0 +1,1 @@
+{"index": 347284, "D": "expelled or removed", "S": [], "A": []}

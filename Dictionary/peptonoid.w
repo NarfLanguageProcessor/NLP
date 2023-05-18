@@ -1,0 +1,1 @@
+{"index": 230306, "D": "any of a class of diffusible, soluble substances into which proteins are converted by partial hydrolysis.", "S": [], "A": []}

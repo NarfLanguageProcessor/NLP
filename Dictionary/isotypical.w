@@ -1,0 +1,1 @@
+{"index": 159306, "D": "of or relating to an isotype. ", "S": [], "A": []}

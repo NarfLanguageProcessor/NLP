@@ -1,0 +1,1 @@
+{"index": 248748, "D": "a person who prepares a specimen, as an animal, for scientific examination or exhibition.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 47553, "D": "to char (organic matter) until it forms carbon. ", "S": ["burn "], "A": []}

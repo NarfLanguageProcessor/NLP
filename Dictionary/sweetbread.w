@@ -1,0 +1,1 @@
+{"index": 314276, "D": "the pancreas of an animal, especially a calf or a lamb, used for food.", "S": ["brains ", "chitlins ", "chitterlings ", "giblets ", "gizzard ", "heart ", "kidneys ", "liver ", "marrow ", "mountain oyster ", "pancreas ", "prairie oyster ", "stomach ", "thymus ", "tongue ", "tripe "], "A": []}

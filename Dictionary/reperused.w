@@ -1,0 +1,1 @@
+{"index": 268174, "D": "to read through with thoroughness or care", "S": [], "A": []}

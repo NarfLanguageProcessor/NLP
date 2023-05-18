@@ -1,0 +1,1 @@
+{"index": 304707, "D": "any of various limestones that emit an unpleasant odor when scratched or struck.", "S": [], "A": []}

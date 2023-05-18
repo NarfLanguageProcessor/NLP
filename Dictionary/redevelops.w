@@ -1,0 +1,1 @@
+{"index": 264133, "D": "to develop  (something) again.", "S": [], "A": []}

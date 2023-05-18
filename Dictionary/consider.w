@@ -1,0 +1,1 @@
+{"index": 66796, "D": "to think carefully about, especially in order to make a decision; contemplate; reflect on", "S": ["acknowledge ", "contemplate ", "deal with ", "examine ", "favor ", "grant ", "look at ", "recognize ", "regard ", "scrutinize ", "see ", "study "], "A": ["disregard ", "forget ", "ignore ", "look away ", "neglect ", "refuse "]}

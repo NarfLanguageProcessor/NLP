@@ -1,0 +1,1 @@
+{"index": 69288, "D": "a musical instrument consisting of a straight or curved tube of wood or ivory having finger holes like a recorder and a cup-shaped mouthpiece like a trumpet", "S": [], "A": []}

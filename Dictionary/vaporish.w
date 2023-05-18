@@ -1,0 +1,1 @@
+{"index": 357075, "D": "of the nature of or resembling vapor", "S": [], "A": []}

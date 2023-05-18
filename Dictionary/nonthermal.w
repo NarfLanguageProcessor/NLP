@@ -1,0 +1,1 @@
+{"index": 207884, "D": "of, relating to, or caused by heat or temperature", "S": [], "A": []}

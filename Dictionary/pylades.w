@@ -1,0 +1,1 @@
+{"index": 236541, "D": "a son of Strophius who befriended Orestes, accompanied him in his wanderings, and eventually married Electra, sister of Orestes.", "S": [], "A": []}

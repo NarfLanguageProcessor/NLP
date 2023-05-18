@@ -1,0 +1,1 @@
+{"index": 349473, "D": "to recall to the mind by an act or effort of memory; think of again", "S": ["abandoned ", "buried ", "erased ", "gone ", "lapsed ", "lost ", "obliterated ", "omitted ", "repressed ", "suppressed "], "A": ["existing "]}

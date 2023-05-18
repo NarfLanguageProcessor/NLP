@@ -1,0 +1,1 @@
+{"index": 253968, "D": "bulging out beyond the surrounding surface; protruding;  projecting", "S": ["convex "], "A": ["contracting "]}

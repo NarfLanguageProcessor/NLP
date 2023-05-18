@@ -1,0 +1,1 @@
+{"index": 146834, "D": "any of several American warblers of the genus Geothlypis, having a throat  that is yellow,  especially the common yellowthroat, G. trichas.", "S": [], "A": []}

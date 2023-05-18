@@ -1,0 +1,1 @@
+{"index": 160260, "D": "a large gathering, as of a political party or the teams of a sporting league, often including a program of speeches and entertainment.", "S": ["shindig "], "A": []}

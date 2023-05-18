@@ -1,0 +1,1 @@
+{"index": 281397, "D": "a person, especially a man, who is a native or inhabitant of Scotland; Scot.", "S": [], "A": []}

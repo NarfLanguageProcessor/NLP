@@ -1,0 +1,1 @@
+{"index": 64149, "D": "an article of trade or commerce, especially a product as distinguished from a service.", "S": ["asset ", "goods ", "material ", "produce ", "product ", "property ", "stock "], "A": []}

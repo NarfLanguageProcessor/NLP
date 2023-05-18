@@ -1,0 +1,1 @@
+{"index": 75335, "D": "a radioactive element not found in nature but discovered in 1944 among the products of plutonium after bombardment by high-energy helium ions. Symbol", "S": [], "A": []}

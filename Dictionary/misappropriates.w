@@ -1,0 +1,1 @@
+{"index": 188706, "D": "to put to a wrong use.", "S": ["embezzle ", "misspend ", "misuse ", "plunder ", "swindle "], "A": ["give "]}

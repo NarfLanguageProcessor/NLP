@@ -1,0 +1,1 @@
+{"index": 273316, "D": "of or relating to the theology of Albrecht Ritschl (1822\u201389), who developed a liberal Christian theology and maintained that religious faith is based on value judgments.", "S": [], "A": []}

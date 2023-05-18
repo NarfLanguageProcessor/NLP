@@ -1,0 +1,1 @@
+{"index": 205547, "D": "required as a matter of obligation; mandatory", "S": [], "A": []}

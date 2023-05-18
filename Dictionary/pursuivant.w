@@ -1,0 +1,1 @@
+{"index": 257141, "D": "a heraldic officer of the lowest class, ranking below a herald.", "S": ["catchpole ", "law officer ", "messenger ", "summoner "], "A": []}

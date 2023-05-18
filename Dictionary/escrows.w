@@ -1,0 +1,1 @@
+{"index": 104256, "D": "a contract, deed, bond, or other written agreement deposited with a third person, by whom it is to be delivered to the grantee or promisee on the fulfillment of some condition.", "S": ["bond ", "deed ", "guarantee ", "insurance ", "pledge ", "security "], "A": []}

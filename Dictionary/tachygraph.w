@@ -1,0 +1,1 @@
+{"index": 314990, "D": "tachygraphic writing.", "S": [], "A": []}

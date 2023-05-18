@@ -1,0 +1,1 @@
+{"index": 76998, "D": "a person or thing that darns. ", "S": [], "A": []}

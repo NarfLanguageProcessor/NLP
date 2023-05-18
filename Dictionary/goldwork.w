@@ -1,0 +1,1 @@
+{"index": 127568, "D": "work  produced by a goldsmith.", "S": [], "A": []}

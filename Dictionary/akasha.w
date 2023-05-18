@@ -1,0 +1,1 @@
+{"index": 7124, "D": "(in the philosophies of India) the ether, regarded as including material and nonmaterial entities in a common medium.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158443, "D": "in a way that can never be reversed, undone, or canceled; permanently", "S": ["certainly ", "completely ", "decisively ", "definitely ", "permanently "], "A": ["doubtfully ", "dubiously ", "questionably "]}

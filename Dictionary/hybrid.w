@@ -1,0 +1,1 @@
+{"index": 138250, "D": "the offspring of two animals or plants of different breeds, varieties, species, or genera, especially as produced through human manipulation for specific genetic characteristics.", "S": ["amalgam ", "combination "], "A": ["division ", "separation "]}

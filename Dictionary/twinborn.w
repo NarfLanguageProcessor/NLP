@@ -1,0 +1,1 @@
+{"index": 333351, "D": "born  at the same birth.", "S": [], "A": []}

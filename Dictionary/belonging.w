@@ -1,0 +1,1 @@
+{"index": 31266, "D": "something that belongs. ", "S": ["acceptance ", "affinity ", "association ", "attachment ", "inclusion ", "kinship ", "loyalty ", "rapport ", "relationship "], "A": ["dislike ", "hatred ", "opposition "]}

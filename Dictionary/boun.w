@@ -1,0 +1,1 @@
+{"index": 38948, "D": "to prepare; make ready.", "S": [], "A": []}

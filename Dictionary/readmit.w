@@ -1,0 +1,1 @@
+{"index": 261624, "D": "to allow (someone) to enter or be admitted again", "S": [], "A": []}

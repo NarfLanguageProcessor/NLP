@@ -1,0 +1,1 @@
+{"index": 336306, "D": "the takeover of a large conglomerate with a view to retaining the core business and selling off some of the subsidiaries to help finance the takeover", "S": [], "A": []}

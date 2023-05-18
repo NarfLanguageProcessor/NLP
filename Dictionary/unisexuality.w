@@ -1,0 +1,1 @@
+{"index": 345010, "D": "of or relating to one sex only.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 164743, "D": "a transferase that catalyzes the phosphorylation of a substrate by ATP.", "S": [], "A": []}

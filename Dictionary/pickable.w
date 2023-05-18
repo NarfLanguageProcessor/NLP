@@ -1,0 +1,1 @@
+{"index": 235853, "D": "to choose or select from among a group", "S": [], "A": []}

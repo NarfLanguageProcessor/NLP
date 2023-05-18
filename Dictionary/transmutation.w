@@ -1,0 +1,1 @@
+{"index": 328147, "D": "the act or process of transmuting. ", "S": ["alteration ", "conversion ", "metamorphosis ", "mutation ", "transfiguration "], "A": ["stagnation "]}

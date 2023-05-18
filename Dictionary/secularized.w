@@ -1,0 +1,1 @@
+{"index": 282902, "D": "to make secular;  separate from religious or spiritual connection or influences; make worldly or unspiritual; imbue with secularism. ", "S": [], "A": []}

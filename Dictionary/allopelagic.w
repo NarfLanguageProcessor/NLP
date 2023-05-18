@@ -1,0 +1,1 @@
+{"index": 8905, "D": "living or growing at different depths.", "S": [], "A": []}

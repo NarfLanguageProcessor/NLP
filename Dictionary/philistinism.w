@@ -1,0 +1,1 @@
+{"index": 233661, "D": "a person who is lacking in or hostile or smugly indifferent to cultural values, intellectual pursuits, aesthetic refinement, etc., or is contentedly commonplace in ideas and tastes.", "S": ["bewilderment ", "disregard ", "illiteracy ", "insensitivity "], "A": ["cognizance ", "understanding "]}

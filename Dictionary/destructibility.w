@@ -1,0 +1,1 @@
+{"index": 82974, "D": "capable of being destroyed;  liable to destruction. ", "S": [], "A": []}

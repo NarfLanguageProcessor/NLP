@@ -1,0 +1,1 @@
+{"index": 155515, "D": "a part or space between two nodes, knots, or joints, as the portion of a plant stem between two nodes.", "S": [], "A": []}

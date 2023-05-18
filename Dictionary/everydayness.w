@@ -1,0 +1,1 @@
+{"index": 106162, "D": "of or relating to every day; daily", "S": ["commonness ", "habitualness ", "normalcy ", "normality ", "ordinariness ", "regularity ", "routineness "], "A": []}

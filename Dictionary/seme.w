@@ -1,0 +1,1 @@
+{"index": 283660, "D": "covered with many small, identical figures.", "S": [], "A": []}

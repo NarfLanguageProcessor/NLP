@@ -1,0 +1,1 @@
+{"index": 260156, "D": "See under guna. ", "S": ["archduke ", "emeer ", "emir ", "monarch ", "nobleman ", "potentate ", "rajah ", "royalty ", "ruler ", "sovereign "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 344831, "D": "by means of direct perception, an instinctive inner sense, or gut feeling rather than rational thought", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 112976, "D": "a covering used to protect a finger.", "S": [], "A": []}

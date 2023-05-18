@@ -1,0 +1,1 @@
+{"index": 367648, "D": "worrying,  annoying, or disturbing; causing worry", "S": ["alarming ", "bothersome ", "disquieting ", "disturbing ", "upsetting ", "vexing ", "worrying "], "A": []}

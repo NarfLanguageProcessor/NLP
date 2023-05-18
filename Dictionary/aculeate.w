@@ -1,0 +1,1 @@
+{"index": 3337, "D": "having or being any sharp-pointed structure.", "S": ["biting ", "bitter ", "caustic ", "harsh ", "incisive ", "mordant ", "penetrating ", "poignant ", "scathing ", "sharp "], "A": ["bland ", "blunt ", "calm ", "dull ", "gentle ", "kind ", "mild ", "nice ", "pleasant ", "soothing ", "stupid ", "sweet ", "unintelligent "]}

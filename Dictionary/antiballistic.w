@@ -1,0 +1,1 @@
+{"index": 14779, "D": "designed to detect, intercept, or destroy ballistic  missiles", "S": [], "A": []}

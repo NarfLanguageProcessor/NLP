@@ -1,0 +1,1 @@
+{"index": 292671, "D": "a deep urn, vase, or bucket-shaped vessel, especially one made in the ancient world.", "S": [], "A": []}

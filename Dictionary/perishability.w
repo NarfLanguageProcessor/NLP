@@ -1,0 +1,1 @@
+{"index": 231303, "D": "subject to decay, ruin, or destruction", "S": [], "A": []}

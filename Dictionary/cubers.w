@@ -1,0 +1,1 @@
+{"index": 74449, "D": "a solid bounded by six equal squares, the angle between any two adjacent faces being a right angle.", "S": [], "A": []}

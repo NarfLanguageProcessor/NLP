@@ -1,0 +1,1 @@
+{"index": 290219, "D": "the son of Sigmund and Hjordis and the husband of Gudrun. He kills the dragon Fafnir, acquires the treasure of Andvari, wins Brynhild for Gunnar, and is finally killed at the behest of Brynhild, whom he had once promised to marry", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 113107, "D": "a ball of fire,  as the sun; a shooting star.", "S": ["bolide ", "comet ", "falling star ", "fireball ", "meteorite ", "meteoroid "], "A": []}

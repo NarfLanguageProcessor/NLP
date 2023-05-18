@@ -1,0 +1,1 @@
+{"index": 366179, "D": "a person or thing that winks. ", "S": [], "A": []}

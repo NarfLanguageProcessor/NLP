@@ -1,0 +1,1 @@
+{"index": 196503, "D": "a group of related scripts, including Devanagari,  derived from Brahmi and used for the writing of many of the languages of India.", "S": [], "A": []}

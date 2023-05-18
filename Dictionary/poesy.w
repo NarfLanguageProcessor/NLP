@@ -1,0 +1,1 @@
+{"index": 241167, "D": "the work or the art of poetic composition.", "S": ["ballad ", "composition ", "creation ", "epic ", "haiku ", "limerick ", "lines ", "lyric ", "ode ", "poetry ", "quatrain ", "rhyme ", "rime ", "rune ", "song ", "sonnet ", "verse ", "words ", "writing "], "A": []}

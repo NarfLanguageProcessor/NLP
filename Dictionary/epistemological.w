@@ -1,0 +1,1 @@
+{"index": 102844, "D": "pertaining to epistemology,  a branch of philosophy that investigates the origin, nature, methods, and limits of human knowledge.", "S": [], "A": []}

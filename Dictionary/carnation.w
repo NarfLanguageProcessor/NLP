@@ -1,0 +1,1 @@
+{"index": 48204, "D": "any of numerous cultivated varieties of the clove pink, Dianthus caryophyllus, having long-stalked, fragrant, usually double flowers in a variety of colors", "S": [], "A": []}

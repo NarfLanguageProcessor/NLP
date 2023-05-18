@@ -1,0 +1,1 @@
+{"index": 97694, "D": "pertaining to or having the form of an ellipse. ", "S": ["asymmetrical ", "craggy ", "elliptical ", "jagged ", "lumpy ", "unbalanced "], "A": ["even ", "smooth ", "normal ", "regular "]}

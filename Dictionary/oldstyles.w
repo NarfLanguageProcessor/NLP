@@ -1,0 +1,1 @@
+{"index": 212029, "D": "a type style differentiated from modern by the more or less uniform thickness of all strokes and by slanted serifs.", "S": [], "A": []}

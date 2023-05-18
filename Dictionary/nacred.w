@@ -1,0 +1,1 @@
+{"index": 196464, "D": "lined with or resembling nacre. ", "S": [], "A": []}

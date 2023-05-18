@@ -1,0 +1,1 @@
+{"index": 35818, "D": "the launching of a rocket, guided missile, or spacecraft.", "S": ["launch ", "liftoff ", "takeoff "], "A": ["splashdown ", "crash ", "landing "]}

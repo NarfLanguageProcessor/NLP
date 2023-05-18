@@ -1,0 +1,1 @@
+{"index": 167122, "D": "of or relating to a lacuna. ", "S": [], "A": []}

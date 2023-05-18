@@ -1,0 +1,1 @@
+{"index": 305959, "D": "a long, narrow mark, smear, band of color, or the like", "S": ["barred ", "grooved ", "marked ", "ridged ", "striate ", "striated ", "striped ", "tore ", "variegated ", "veined ", "whelked "], "A": []}

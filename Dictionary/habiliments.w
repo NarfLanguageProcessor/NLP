@@ -1,0 +1,1 @@
+{"index": 131761, "D": "clothes as worn in a particular profession, way of life, etc.", "S": ["appliance ", "device ", "gear ", "gizmo ", "machine ", "machinery ", "means ", "mechanism "], "A": []}

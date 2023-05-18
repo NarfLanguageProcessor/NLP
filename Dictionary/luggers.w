@@ -1,0 +1,1 @@
+{"index": 175952, "D": "a small ship lug-rigged on two or three masts.", "S": [], "A": []}

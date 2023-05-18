@@ -1,0 +1,1 @@
+{"index": 271009, "D": "to make or become a single unit; unite", "S": ["join ", "reconcile ", "reconvene ", "rejoin "], "A": ["estrange ", "go separate ways ", "separate "]}

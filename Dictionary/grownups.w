@@ -1,0 +1,1 @@
+{"index": 130436, "D": "a mature, fully grown person; adult.", "S": ["developed ", "full-fledged ", "full-grown ", "fully developed ", "grown ", "mature ", "of age "], "A": []}

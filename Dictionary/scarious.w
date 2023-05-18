@@ -1,0 +1,1 @@
+{"index": 279774, "D": "thin, dry, and membranous, as certain bracts; chaffy.", "S": [], "A": []}

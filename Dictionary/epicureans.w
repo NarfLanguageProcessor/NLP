@@ -1,0 +1,1 @@
+{"index": 102334, "D": "fond of or adapted to luxury or indulgence in sensual pleasures; having luxurious tastes or habits, especially in eating and drinking.", "S": ["gourmet ", "libertine "], "A": []}

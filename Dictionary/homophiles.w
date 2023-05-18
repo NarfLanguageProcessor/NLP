@@ -1,0 +1,1 @@
+{"index": 143199, "D": "a gay person, especially a gay man.", "S": [], "A": []}

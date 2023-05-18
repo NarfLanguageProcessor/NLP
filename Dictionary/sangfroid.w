@@ -1,0 +1,1 @@
+{"index": 277868, "D": "coolness of mind; calmness; composure", "S": ["aplomb ", "calmness ", "composure ", "coolness ", "equanimity "], "A": []}

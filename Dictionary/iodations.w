@@ -1,0 +1,1 @@
+{"index": 157430, "D": "a salt of iodic acid,  as sodium iodate, NaIO3.", "S": [], "A": []}

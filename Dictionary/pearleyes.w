@@ -1,0 +1,1 @@
+{"index": 228449, "D": "any of several deep-sea fishes of the family Scopelarchidae, having large, hooked teeth on the tongue, telescopic eyes,  and an iridescent patch on each eye  tube.", "S": [], "A": []}

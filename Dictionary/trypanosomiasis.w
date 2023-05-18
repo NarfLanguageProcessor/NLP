@@ -1,0 +1,1 @@
+{"index": 330294, "D": "any infection caused by a trypanosome. ", "S": ["African sleeping sickness ", "catalepsy ", "encephalitis ", "encephalitis lethargica ", "narcolepsy "], "A": []}

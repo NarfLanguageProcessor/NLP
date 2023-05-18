@@ -1,0 +1,1 @@
+{"index": 203869, "D": "to get rid of by destroying; destroy totally; extirpate", "S": [], "A": []}

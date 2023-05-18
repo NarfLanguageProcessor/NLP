@@ -1,0 +1,1 @@
+{"index": 192221, "D": "government by only one person; autocracy.", "S": ["absolutist ", "absolutistic ", "arbitrary ", "autarchic ", "autarchical ", "authoritarian ", "autocratic ", "autocratical ", "autonomous ", "despotic ", "dictatorial ", "full ", "preeminent ", "sovereign ", "supreme ", "totalitarian ", "tyrannic ", "tyrannical ", "tyrannous "], "A": []}

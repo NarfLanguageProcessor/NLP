@@ -1,0 +1,1 @@
+{"index": 41847, "D": "a city in and the capital of Belgium, in the central part.", "S": [], "A": []}

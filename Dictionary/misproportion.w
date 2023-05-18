@@ -1,0 +1,1 @@
+{"index": 189864, "D": "comparative relation between things or magnitudes as to size, quantity, number, etc.; ratio.", "S": ["deformation ", "deformity "], "A": ["grin ", "smile "]}

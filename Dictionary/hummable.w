@@ -1,0 +1,1 @@
+{"index": 145014, "D": "(of a piece of music) able to be hummed  easily; melodic; tuneful.", "S": [], "A": []}

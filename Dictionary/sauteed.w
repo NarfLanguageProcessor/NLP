@@ -1,0 +1,1 @@
+{"index": 279014, "D": "cooked or browned in a pan containing a small quantity of butter, oil, or other fat.", "S": ["browned "], "A": []}

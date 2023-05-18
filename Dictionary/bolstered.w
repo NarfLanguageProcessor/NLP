@@ -1,0 +1,1 @@
+{"index": 37627, "D": "pillowed or cushioned; provided with firm but comfortable support", "S": ["approved ", "assisted ", "endorsed ", "favored "], "A": ["disapproved "]}

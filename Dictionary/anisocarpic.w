@@ -1,0 +1,1 @@
+{"index": 13284, "D": "(of a flower) having a lower number of carpels than of other floral parts.", "S": [], "A": []}

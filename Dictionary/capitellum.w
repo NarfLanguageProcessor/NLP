@@ -1,0 +1,1 @@
+{"index": 46933, "D": "an enlarged knoblike structure at the end of a bone that forms an articulation with another bone; capitulum", "S": [], "A": []}

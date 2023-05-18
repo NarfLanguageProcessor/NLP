@@ -1,0 +1,1 @@
+{"index": 153753, "D": "to look carefully at or over; view closely and critically", "S": ["audit ", "check out ", "go through ", "investigate ", "observe ", "oversee ", "probe ", "review ", "scan ", "scrutinize ", "search ", "supervise ", "survey ", "watch "], "A": ["ignore ", "neglect ", "overlook ", "answer ", "reply "]}

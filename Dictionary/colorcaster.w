@@ -1,0 +1,1 @@
+{"index": 63331, "D": "an announcer, especially in sports, who provides supplementary information or comment.", "S": [], "A": []}

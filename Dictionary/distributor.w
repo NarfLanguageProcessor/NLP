@@ -1,0 +1,1 @@
+{"index": 89929, "D": "a person or thing that distributes.", "S": ["dealer ", "trader "], "A": []}

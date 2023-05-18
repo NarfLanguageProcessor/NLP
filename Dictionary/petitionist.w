@@ -1,0 +1,1 @@
+{"index": 232427, "D": "a formally drawn request, often bearing the names of a number of those making the request, that is addressed to a person or group of persons in authority or power, soliciting some favor, right, mercy, or other benefit", "S": [], "A": []}

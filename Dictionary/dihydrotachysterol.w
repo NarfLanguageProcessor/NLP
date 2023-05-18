@@ -1,0 +1,1 @@
+{"index": 85591, "D": "a white, crystalline, water-insoluble sterol,  C28H46O, derived from ergosterol", "S": [], "A": []}

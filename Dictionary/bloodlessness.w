@@ -1,0 +1,1 @@
+{"index": 36453, "D": "without blood", "S": ["chlorosis ", "emptiness ", "ischemia ", "lifelessness "], "A": []}

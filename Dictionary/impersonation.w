@@ -1,0 +1,1 @@
+{"index": 148610, "D": "the act of pretending to be someone else, with intent to mislead or deceive", "S": ["acting ", "enactment ", "pose ", "role "], "A": []}

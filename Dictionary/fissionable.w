@@ -1,0 +1,1 @@
+{"index": 113431, "D": "capable of or possessing a nucleus or nuclei capable of undergoing fission", "S": ["thermonuclear "], "A": []}

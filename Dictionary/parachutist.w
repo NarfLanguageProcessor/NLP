@@ -1,0 +1,1 @@
+{"index": 225437, "D": "a folding, umbrellalike, fabric device with cords supporting a harness or straps for allowing a person, object, package, etc., to float down safely through the air from a great height, especially from an aircraft, rendered effective by the resistance of the air that expands it during the descent and reduces the velocity of its fall.", "S": [], "A": []}

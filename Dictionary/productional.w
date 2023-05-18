@@ -1,0 +1,1 @@
+{"index": 251590, "D": "the act of producing;  creation; manufacture.", "S": [], "A": []}

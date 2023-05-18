@@ -1,0 +1,1 @@
+{"index": 338754, "D": "made naked or bare", "S": [], "A": []}

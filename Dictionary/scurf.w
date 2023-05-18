@@ -1,0 +1,1 @@
+{"index": 282264, "D": "the scales or small shreds of epidermis that are continually exfoliated from the skin.", "S": ["dudgeon ", "ire ", "resentment ", "temper ", "wrath "], "A": ["happiness ", "love "]}

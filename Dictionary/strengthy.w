@@ -1,0 +1,1 @@
+{"index": 306060, "D": [], "S": ["potent ", "robust "], "A": ["weak "]}

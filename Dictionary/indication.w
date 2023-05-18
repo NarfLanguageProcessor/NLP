@@ -1,0 +1,1 @@
+{"index": 150907, "D": "anything serving to indicate  or point out, as a sign or token.", "S": ["explanation ", "expression ", "gesture ", "hint ", "implication ", "inkling ", "manifestation ", "omen ", "proof ", "reminder ", "sign ", "signal ", "suggestion ", "symptom ", "trace ", "warning "], "A": ["misinformation "]}

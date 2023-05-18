@@ -1,0 +1,1 @@
+{"index": 17404, "D": "the development of a gametophyte from a sporophyte without meiosis.", "S": [], "A": []}

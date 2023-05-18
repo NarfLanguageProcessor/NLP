@@ -1,0 +1,1 @@
+{"index": 213548, "D": "a heraldic monster having the head, neck, and wings of an eagle, the body of a lion, and the tail of a bear.", "S": [], "A": []}

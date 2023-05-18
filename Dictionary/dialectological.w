@@ -1,0 +1,1 @@
+{"index": 84209, "D": "the study dealing with dialects  and dialect  features.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 181994, "D": "the state of being mediate. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83821, "D": "a white, crystalline, water-soluble solid, C9H13N, that stimulates the central nervous system", "S": [], "A": []}

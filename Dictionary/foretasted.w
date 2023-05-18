@@ -1,0 +1,1 @@
+{"index": 117076, "D": "a slight and partial experience, knowledge, or taste of something to come in the future; anticipation.", "S": ["assume ", "await ", "count on ", "forecast ", "foresee ", "prepare for ", "see "], "A": ["doubt "]}

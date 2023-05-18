@@ -1,0 +1,1 @@
+{"index": 130225, "D": "a zinc or aluminum coin of Austria until the euro  was adopted, one 100th of a schilling.", "S": [], "A": []}

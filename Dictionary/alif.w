@@ -1,0 +1,1 @@
+{"index": 8246, "D": "the first letter of the Arabic alphabet.", "S": [], "A": []}

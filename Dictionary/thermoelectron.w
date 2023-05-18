@@ -1,0 +1,1 @@
+{"index": 321402, "D": "an electron  emitted by an incandescent material.", "S": [], "A": []}

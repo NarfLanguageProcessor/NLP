@@ -1,0 +1,1 @@
+{"index": 198074, "D": "a person who negotiates; negotiator. ", "S": [], "A": []}

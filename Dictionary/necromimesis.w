@@ -1,0 +1,1 @@
+{"index": 197803, "D": "a pathological state in which a person believes they are dead.", "S": [], "A": []}

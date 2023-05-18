@@ -1,0 +1,1 @@
+{"index": 91611, "D": "a person who uses drugs, as a controlled substance or a performance-enhancing drug.", "S": ["addict ", "drug user ", "junkie ", "user "], "A": []}

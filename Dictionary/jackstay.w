@@ -1,0 +1,1 @@
+{"index": 159968, "D": "a rod or batten, following a yard, gaff, or boom, to which one edge of a sail is bent.", "S": [], "A": []}

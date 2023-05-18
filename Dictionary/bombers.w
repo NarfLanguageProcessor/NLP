@@ -1,0 +1,1 @@
+{"index": 37711, "D": "an airplane equipped to carry and drop bombs. ", "S": ["bombardier "], "A": []}

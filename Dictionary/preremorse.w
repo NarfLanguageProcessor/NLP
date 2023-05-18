@@ -1,0 +1,1 @@
+{"index": 249106, "D": "deep and painful regret for wrongdoing; compunction.", "S": [], "A": []}

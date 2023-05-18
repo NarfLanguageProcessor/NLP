@@ -1,0 +1,1 @@
+{"index": 283085, "D": "abounding in seed. ", "S": ["decay ", "destitution ", "filth ", "filthiness ", "foulness ", "grubbiness ", "impoverishment ", "indigence ", "poorness ", "smuttiness ", "squalor ", "starvation ", "uncleanliness ", "uncleanness ", "wretchedness "], "A": []}

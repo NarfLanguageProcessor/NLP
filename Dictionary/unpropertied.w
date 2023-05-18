@@ -1,0 +1,1 @@
+{"index": 348636, "D": "owning property", "S": [], "A": []}

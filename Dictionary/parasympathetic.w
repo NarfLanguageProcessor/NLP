@@ -1,0 +1,1 @@
+{"index": 226064, "D": "pertaining to that part of the autonomic nervous system consisting of nerves and ganglia that arise from the cranial and sacral regions and function in opposition to the sympathetic  system, as in inhibiting heartbeat or contracting the pupil of the eye.", "S": [], "A": []}

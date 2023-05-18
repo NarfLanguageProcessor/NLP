@@ -1,0 +1,1 @@
+{"index": 76824, "D": "in the style of Dante; characterized by impressive elevation of style with deep solemnity or somberness of feeling.", "S": [], "A": []}

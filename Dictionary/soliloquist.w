@@ -1,0 +1,1 @@
+{"index": 296781, "D": "to utter a soliloquy;  talk to oneself.", "S": ["announcer ", "elocutionist ", "lector ", "lecturer ", "monologist ", "reciter ", "rhetorician "], "A": []}

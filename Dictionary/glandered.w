@@ -1,0 +1,1 @@
+{"index": 125910, "D": "affected with glanders. ", "S": [], "A": []}

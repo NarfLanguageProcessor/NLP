@@ -1,0 +1,1 @@
+{"index": 322506, "D": "a person who is morally or mentally enslaved by some power, influence, or the like", "S": ["servitude ", "slavery "], "A": ["mastery "]}

@@ -1,0 +1,1 @@
+{"index": 172301, "D": "characterized by ease in bending the body; supple; lithe. ", "S": ["agile ", "graceful ", "lithe ", "nimble ", "pliable ", "resilient ", "spry ", "supple "], "A": ["awkward ", "clumsy ", "hard ", "inflexible ", "rigid ", "stiff ", "unhandy "]}

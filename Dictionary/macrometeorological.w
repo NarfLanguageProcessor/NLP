@@ -1,0 +1,1 @@
+{"index": 176994, "D": "the study of large-scale atmospheric phenomena, as the general circulation of the air or global weather conditions.", "S": [], "A": []}

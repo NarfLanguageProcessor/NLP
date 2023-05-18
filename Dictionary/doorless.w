@@ -1,0 +1,1 @@
+{"index": 91557, "D": "a movable, usually solid, barrier for opening and closing an entranceway, cupboard, cabinet, or the like, commonly turning on hinges or sliding in grooves.", "S": [], "A": []}

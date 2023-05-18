@@ -1,0 +1,1 @@
+{"index": 332764, "D": "a person who favors or admires Turkey, Turkish customs, or Turks.", "S": [], "A": []}

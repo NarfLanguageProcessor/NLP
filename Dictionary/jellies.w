@@ -1,0 +1,1 @@
+{"index": 160817, "D": "gelatine capsules of temazepam, dissolved and injected as a recreational drug", "S": ["gelatin "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 268004, "D": "a distinct portion, section, or division of a wall, wainscot, ceiling, door, shutter, fence, etc., especially of any surface sunk below or raised above the general level or enclosed by a frame or border.", "S": [], "A": []}

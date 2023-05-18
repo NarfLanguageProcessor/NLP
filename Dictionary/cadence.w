@@ -1,0 +1,1 @@
+{"index": 44311, "D": "rhythmic flow of a sequence of sounds or words", "S": ["accent ", "inflection ", "intonation ", "lilt ", "tempo "], "A": []}

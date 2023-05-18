@@ -1,0 +1,1 @@
+{"index": 298713, "D": "a long, stabbing weapon for thrusting or throwing, consisting of a wooden shaft to which a sharp-pointed head, as of iron or steel, is attached.", "S": [], "A": []}

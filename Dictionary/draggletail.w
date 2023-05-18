@@ -1,0 +1,1 @@
+{"index": 92542, "D": "slut; slattern.", "S": ["lout "], "A": []}

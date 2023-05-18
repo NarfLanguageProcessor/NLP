@@ -1,0 +1,1 @@
+{"index": 52571, "D": "a porch or vestibule of a Brahman temple.", "S": [], "A": []}

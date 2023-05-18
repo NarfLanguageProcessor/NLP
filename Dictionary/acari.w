@@ -1,0 +1,1 @@
+{"index": 1349, "D": "a mite, especially of the genus Acarus.", "S": [], "A": []}

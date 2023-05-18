@@ -1,0 +1,1 @@
+{"index": 242425, "D": "Compare analytic (def. 3), synthetic (def. 3). ", "S": [], "A": []}

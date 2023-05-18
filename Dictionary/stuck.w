@@ -1,0 +1,1 @@
+{"index": 306763, "D": "simple past tense and past participle of stick2. ", "S": ["cemented ", "fast ", "fastened "], "A": []}

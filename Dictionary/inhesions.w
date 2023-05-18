@@ -1,0 +1,1 @@
+{"index": 152695, "D": "the state or fact of inhering; inherence.", "S": [], "A": []}

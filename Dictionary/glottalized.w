@@ -1,0 +1,1 @@
+{"index": 126749, "D": "pronounced with glottal coarticulation.", "S": [], "A": []}

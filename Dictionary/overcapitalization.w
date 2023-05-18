@@ -1,0 +1,1 @@
+{"index": 218504, "D": "to fix the total amount of securities of a corporation in excess of the limits set by law or by sound financial policy.", "S": [], "A": []}

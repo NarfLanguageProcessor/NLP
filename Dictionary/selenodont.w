@@ -1,0 +1,1 @@
+{"index": 283487, "D": "having molar teeth with crowns formed of crescent-shaped cusps.", "S": [], "A": []}

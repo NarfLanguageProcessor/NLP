@@ -1,0 +1,1 @@
+{"index": 167385, "D": "to remove the clerical character or nature of; secularize", "S": [], "A": []}

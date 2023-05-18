@@ -1,0 +1,1 @@
+{"index": 205940, "D": "pertaining to pharmacy  or pharmacists.", "S": [], "A": []}

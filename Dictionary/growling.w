@@ -1,0 +1,1 @@
+{"index": 130431, "D": "to utter a deep guttural sound of anger or hostility", "S": ["grating ", "husky ", "low ", "rasping ", "rough ", "thick "], "A": ["thin "]}

@@ -1,0 +1,1 @@
+{"index": 28311, "D": "a handrail placed at hip height, used by a dancer to maintain balance during practice.", "S": [], "A": []}

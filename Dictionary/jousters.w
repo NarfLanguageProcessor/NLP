@@ -1,0 +1,1 @@
+{"index": 161916, "D": "a combat in which two knights on horseback attempted to unhorse each other with blunted lances.", "S": ["assailant ", "boxer ", "champion ", "combatant ", "mercenary ", "militant ", "opponent ", "soldier ", "tanker ", "warlord ", "warrior "], "A": ["peacemaker "]}

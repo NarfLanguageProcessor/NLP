@@ -1,0 +1,1 @@
+{"index": 186427, "D": "the use or preparation of microprograms.", "S": [], "A": []}

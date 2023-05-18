@@ -1,0 +1,1 @@
+{"index": 260012, "D": "having or represented as having emanating rays;  radiate", "S": [], "A": []}

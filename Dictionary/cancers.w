@@ -1,0 +1,1 @@
+{"index": 46116, "D": "any disease characterized by such growths.", "S": ["corruption ", "disease ", "malignancy ", "sickness ", "tumor "], "A": ["health ", "wholesomeness "]}

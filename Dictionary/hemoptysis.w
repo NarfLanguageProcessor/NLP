@@ -1,0 +1,1 @@
+{"index": 136460, "D": "the expectoration of blood or bloody mucus.", "S": [], "A": []}

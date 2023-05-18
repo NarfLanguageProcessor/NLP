@@ -1,0 +1,1 @@
+{"index": 96042, "D": "a delicate stroking motion in massage.", "S": [], "A": []}

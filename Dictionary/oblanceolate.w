@@ -1,0 +1,1 @@
+{"index": 210156, "D": "inversely lanceolate,  as a leaf.", "S": [], "A": []}

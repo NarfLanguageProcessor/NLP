@@ -1,0 +1,1 @@
+{"index": 286171, "D": "to deliver or compose a sermon;  preach.", "S": ["bishop ", "chaplain ", "cleric ", "evangelist ", "missionary ", "pastor ", "pontiff ", "preacher ", "priest ", "rabbi "], "A": ["layman ", "layperson "]}

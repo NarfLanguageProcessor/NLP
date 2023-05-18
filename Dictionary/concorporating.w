@@ -1,0 +1,1 @@
+{"index": 65430, "D": "to unite in one body, unit, or mass.", "S": [], "A": []}

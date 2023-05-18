@@ -1,0 +1,1 @@
+{"index": 104281, "D": "having the ability to shape diverse elements or concepts into a unified whole", "S": [], "A": []}

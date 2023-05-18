@@ -1,0 +1,1 @@
+{"index": 104510, "D": "a member of a Palestinian sect, characterized by asceticism, celibacy, and joint holding of property, that flourished from the 2nd century b.c. to the 2nd century a.d.", "S": [], "A": []}

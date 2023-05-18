@@ -1,0 +1,1 @@
+{"index": 103702, "D": "any of the Furies.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 50499, "D": "of, relating to, or located in the cavity of the abdomen.", "S": ["stomachic "], "A": []}

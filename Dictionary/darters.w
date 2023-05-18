@@ -1,0 +1,1 @@
+{"index": 77025, "D": "a person or thing that darts  or moves swiftly.", "S": [], "A": []}

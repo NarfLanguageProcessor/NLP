@@ -1,0 +1,1 @@
+{"index": 131644, "D": "to eat greedily or voraciously; gormandize.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 216236, "D": "to redden, as from embarrassment or shame", "S": [], "A": []}

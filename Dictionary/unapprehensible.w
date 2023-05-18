@@ -1,0 +1,1 @@
+{"index": 335145, "D": "capable of being understood.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 54701, "D": "marked by or being in sprightly good humor and health.", "S": ["lively ", "sprightly "], "A": ["inactive ", "lethargic "]}

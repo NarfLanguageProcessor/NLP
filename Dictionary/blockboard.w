@@ -1,0 +1,1 @@
+{"index": 36359, "D": "a type of plywood in which soft wood strips are bonded together and sandwiched between two layers of veneer", "S": [], "A": []}

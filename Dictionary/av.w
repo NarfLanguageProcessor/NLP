@@ -1,0 +1,1 @@
+{"index": 24559, "D": "the eleventh month of the Jewish calendar.", "S": ["KJ ", "King James Bible ", "King James Version "], "A": []}

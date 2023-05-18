@@ -1,0 +1,1 @@
+{"index": 108239, "D": "so as to cover a wide range or area; broadly", "S": ["broadly ", "largely "], "A": []}

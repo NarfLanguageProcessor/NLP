@@ -1,0 +1,1 @@
+{"index": 154571, "D": "(of population figures, etc) estimated at a time between official censuses", "S": [], "A": []}

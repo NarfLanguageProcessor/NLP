@@ -1,0 +1,1 @@
+{"index": 290729, "D": "a colorless crystalline selective herbicide, C7H12ClN5, used for season-long weed control in corn and other crops.", "S": [], "A": []}

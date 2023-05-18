@@ -1,0 +1,1 @@
+{"index": 319223, "D": "a rare-earth, metallic element present in certain minerals and yielding colorless salts. Symbol", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 171878, "D": "the office, authority, incumbency, or jurisdiction of a lieutenant. ", "S": [], "A": []}

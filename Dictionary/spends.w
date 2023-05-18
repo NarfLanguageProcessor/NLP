@@ -1,0 +1,1 @@
+{"index": 299153, "D": "a child's pocket money", "S": ["allocate ", "concentrate ", "consume ", "contribute ", "donate ", "drop ", "employ ", "expend ", "give ", "invest ", "put in ", "settle ", "use ", "waste "], "A": ["build ", "hold ", "keep ", "neglect ", "save ", "shun ", "take ", "take away ", "withhold ", "fill ", "hoard ", "set aside "]}

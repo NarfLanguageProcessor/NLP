@@ -1,0 +1,1 @@
+{"index": 49153, "D": "an oversubtle or disingenuous reasoner, especially in questions of morality.", "S": ["bigot ", "charlatan ", "crook ", "impostor ", "phony ", "trickster "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97140, "D": "any visible or audible manifestation of atmospheric electricity, as lightning or thunder.", "S": [], "A": []}

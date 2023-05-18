@@ -1,0 +1,1 @@
+{"index": 250625, "D": "greatly liberal; lavish; magnificent", "S": [], "A": []}

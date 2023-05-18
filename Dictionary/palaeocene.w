@@ -1,0 +1,1 @@
+{"index": 223321, "D": "of, denoting, or formed in the first epoch of the Tertiary period, which lasted for 10 million years", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 134584, "D": "a board  forming the head  of anything, especially of a bed.", "S": [], "A": []}

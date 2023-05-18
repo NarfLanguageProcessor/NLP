@@ -1,0 +1,1 @@
+{"index": 328107, "D": "the act or process of transmitting.", "S": [], "A": []}

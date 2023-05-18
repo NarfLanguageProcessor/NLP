@@ -1,0 +1,1 @@
+{"index": 6410, "D": "variant of agro-  or agri-  before a vowel.", "S": [], "A": []}

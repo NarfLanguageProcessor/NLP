@@ -1,0 +1,1 @@
+{"index": 145618, "D": "iamb. ", "S": ["blank verse ", "dactylic hexameter ", "iamb "], "A": []}

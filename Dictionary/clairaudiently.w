@@ -1,0 +1,1 @@
+{"index": 59087, "D": "having or claiming to have the power to hear sounds said to exist beyond the reach of ordinary experience or capacity, as the voices of the dead", "S": [], "A": []}

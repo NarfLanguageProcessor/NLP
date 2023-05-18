@@ -1,0 +1,1 @@
+{"index": 233783, "D": "the arrangement of leaves on a stem or axis.", "S": [], "A": []}

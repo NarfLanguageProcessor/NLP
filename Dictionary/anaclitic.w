@@ -1,0 +1,1 @@
+{"index": 11551, "D": "exhibiting or pertaining to anaclisis.", "S": [], "A": []}

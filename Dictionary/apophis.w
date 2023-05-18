@@ -1,0 +1,1 @@
+{"index": 17330, "D": "a demon serpent of darkness whom Ra, as sun god, destroys every morning at dawn.", "S": [], "A": []}

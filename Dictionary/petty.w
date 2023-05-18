@@ -1,0 +1,1 @@
+{"index": 232579, "D": "of little or no importance or consequence", "S": ["frivolous ", "lesser ", "minor ", "narrow-minded "], "A": ["greater ", "major ", "big ", "enormous ", "first-class ", "first-rate ", "great ", "huge ", "immense ", "important ", "large ", "significant ", "superior "]}

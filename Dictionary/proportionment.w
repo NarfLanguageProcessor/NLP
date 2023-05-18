@@ -1,0 +1,1 @@
+{"index": 252784, "D": "the act of proportioning. ", "S": [], "A": []}

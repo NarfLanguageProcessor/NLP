@@ -1,0 +1,1 @@
+{"index": 38715, "D": "one and the other; two together", "S": ["one and the other ", "the couple ", "the pair ", "the two ", "twain "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 317678, "D": "the description and study of the arts and sciences in their geographical and ethnic distribution and historical development.", "S": [], "A": []}

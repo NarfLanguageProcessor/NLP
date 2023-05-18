@@ -1,0 +1,1 @@
+{"index": 269092, "D": "to free or deliver from confinement, danger, or difficulty", "S": ["preserving "], "A": ["wasting "]}

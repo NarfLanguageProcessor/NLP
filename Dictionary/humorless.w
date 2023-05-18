@@ -1,0 +1,1 @@
+{"index": 145052, "D": "a comic, absurd, or incongruous quality causing amusement", "S": ["arrogant ", "dreary ", "genteel ", "musty ", "pompous ", "self-important ", "staid ", "stodgy "], "A": ["adventurous ", "clear ", "willing "]}

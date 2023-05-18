@@ -1,0 +1,1 @@
+{"index": 250427, "D": "the condition or office of a priest. ", "S": ["cardinalate ", "ecclesiastics ", "ministry ", "pastorate ", "rabbinate "], "A": []}

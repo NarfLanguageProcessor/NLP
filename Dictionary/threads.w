@@ -1,0 +1,1 @@
+{"index": 322575, "D": "a slang word for clothes", "S": ["accouterment ", "apparel ", "attire ", "civvies ", "costume ", "dress ", "duds ", "finery ", "garb ", "garments ", "gear ", "habiliment ", "outfit ", "rags ", "raiment ", "wardrobe ", "weeds "], "A": []}

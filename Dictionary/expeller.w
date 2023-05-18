@@ -1,0 +1,1 @@
+{"index": 107674, "D": "a person or thing that expels. ", "S": [], "A": []}

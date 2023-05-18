@@ -1,0 +1,1 @@
+{"index": 71241, "D": "people living or raised in the country;  rustics.", "S": [], "A": []}

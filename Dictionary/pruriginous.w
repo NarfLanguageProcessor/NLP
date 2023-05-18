@@ -1,0 +1,1 @@
+{"index": 254272, "D": "of, relating to, or causing prurigo.", "S": [], "A": []}

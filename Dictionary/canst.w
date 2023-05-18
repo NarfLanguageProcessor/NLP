@@ -1,0 +1,1 @@
+{"index": 46545, "D": "2nd person singular present tense of can1. ", "S": [], "A": []}

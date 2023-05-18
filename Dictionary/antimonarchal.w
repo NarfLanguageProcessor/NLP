@@ -1,0 +1,1 @@
+{"index": 15605, "D": "pertaining to, characteristic of, or befitting a monarch", "S": [], "A": []}

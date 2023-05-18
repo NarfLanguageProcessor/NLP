@@ -1,0 +1,1 @@
+{"index": 198043, "D": "to pay no attention or too little attention to; disregard or slight", "S": ["debtor ", "defaulter ", "felon ", "hoodlum ", "juvenile delinquent ", "lawbreaker ", "offender ", "wrongdoer "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 28799, "D": "any tree of the genus Tilia, especially T. americana, the American linden, having drooping branches and large, toothed, ovate leaves.", "S": [], "A": []}

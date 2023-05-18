@@ -1,0 +1,1 @@
+{"index": 201594, "D": "to keep away from; keep clear of; shun", "S": [], "A": []}

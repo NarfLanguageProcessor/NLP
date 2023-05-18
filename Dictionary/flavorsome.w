@@ -1,0 +1,1 @@
+{"index": 114230, "D": "of a full, rich, pleasant flavor;  tasty.", "S": ["palatable ", "sapid "], "A": []}

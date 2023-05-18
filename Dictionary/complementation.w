@@ -1,0 +1,1 @@
+{"index": 64626, "D": "complementary distribution. ", "S": [], "A": []}

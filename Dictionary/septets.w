@@ -1,0 +1,1 @@
+{"index": 285705, "D": "any group of seven persons or things.", "S": [], "A": []}

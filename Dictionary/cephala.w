@@ -1,0 +1,1 @@
+{"index": 51088, "D": "the head, especially of an arthropod.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 197939, "D": "a small, slender, rodlike instrument, usually of polished steel, with a sharp point at one end and an eye or hole for thread at the other, for passing thread through cloth to make stitches in sewing.", "S": ["acuminate ", "barbed ", "edged ", "fine ", "honed ", "horned ", "jagged ", "keen ", "peaked ", "piercing ", "pointed "], "A": ["blunt ", "dull "]}

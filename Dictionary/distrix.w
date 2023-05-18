@@ -1,0 +1,1 @@
+{"index": 89947, "D": "the splitting of the ends of hairs", "S": [], "A": []}

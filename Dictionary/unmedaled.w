@@ -1,0 +1,1 @@
+{"index": 346135, "D": "a flat piece of metal, often a disk but sometimes a cross, star, or other form, usually bearing an inscription or design, issued to commemorate a person, action, or event, or given as a reward for bravery, merit, or the like", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 260576, "D": "a variety of mandarin orange, bearing a tart fruit.", "S": [], "A": []}

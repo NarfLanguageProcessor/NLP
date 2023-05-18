@@ -1,0 +1,1 @@
+{"index": 33162, "D": "twice a year; semiannually", "S": [], "A": []}

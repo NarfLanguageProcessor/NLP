@@ -1,0 +1,1 @@
+{"index": 311768, "D": "pertaining to or dealing with morals or the principles of morality; pertaining to right and wrong in conduct.", "S": [], "A": []}

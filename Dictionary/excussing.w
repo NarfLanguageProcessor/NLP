@@ -1,0 +1,1 @@
+{"index": 106927, "D": "to take possession of (goods) by legal authority.", "S": [], "A": []}

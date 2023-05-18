@@ -1,0 +1,1 @@
+{"index": 299899, "D": "(esp of plants) bearing spines or thorns", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83989, "D": "having the qualities of a devil; devilish; fiendish;  outrageously wicked", "S": [], "A": []}

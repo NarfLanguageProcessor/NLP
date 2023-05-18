@@ -1,0 +1,1 @@
+{"index": 85322, "D": "the act of flowing off or away.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 173957, "D": "a large, reddish-brown, glandular organ located in the upper right side of the abdominal cavity, divided by fissures into five lobes and functioning in the secretion of bile and various metabolic processes.", "S": ["dweller ", "inhabitant ", "occupant "], "A": ["alien ", "foreigner ", "immigrant "]}

@@ -1,0 +1,1 @@
+{"index": 301230, "D": "to draw, stretch, or open out, especially over a flat surface, as something rolled or folded (often followed by out).", "S": ["advance ", "advancement ", "dissemination ", "escalation ", "increase ", "spreading ", "transmission "], "A": ["halt ", "stop ", "abridgment ", "compression ", "decrease ", "extreme ", "reduction "]}

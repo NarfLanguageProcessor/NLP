@@ -1,0 +1,1 @@
+{"index": 160269, "D": "of, relating to, or characteristic of the novelist Henry James  or his writings.", "S": [], "A": []}

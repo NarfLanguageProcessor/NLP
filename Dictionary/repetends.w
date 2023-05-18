@@ -1,0 +1,1 @@
+{"index": 268178, "D": "the part of a repeating decimal that is repeated, as 1234 in 0.123412341234. \u2026", "S": [], "A": []}

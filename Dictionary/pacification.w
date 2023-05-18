@@ -1,0 +1,1 @@
+{"index": 222696, "D": "the act, process, or policy of pacifying", "S": ["demilitarization ", "demobilization "], "A": ["surrender ", "yielding "]}

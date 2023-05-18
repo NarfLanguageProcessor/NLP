@@ -1,0 +1,1 @@
+{"index": 49699, "D": "the investment of emotional significance in an activity, object, or idea.", "S": [], "A": []}

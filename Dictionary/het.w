@@ -1,0 +1,1 @@
+{"index": 137422, "D": "a heterosexual person.", "S": [], "A": []}

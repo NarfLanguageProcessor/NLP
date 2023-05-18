@@ -1,0 +1,1 @@
+{"index": 231546, "D": "a medicinal capsule that resembles a pearl in shape.", "S": [], "A": []}

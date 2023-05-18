@@ -1,0 +1,1 @@
+{"index": 241295, "D": "cold-blooded (def. 1)  (opposed to homoiothermal).", "S": [], "A": []}

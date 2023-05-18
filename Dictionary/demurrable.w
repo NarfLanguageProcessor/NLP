@@ -1,0 +1,1 @@
+{"index": 80947, "D": "to make objection, especially on the grounds of scruples; take exception; object", "S": [], "A": []}

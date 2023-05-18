@@ -1,0 +1,1 @@
+{"index": 174426, "D": "a self-propelled, vehicular engine, powered by steam, a diesel, or electricity, for pulling or, sometimes, pushing a train or individual railroad cars.", "S": ["engine "], "A": []}

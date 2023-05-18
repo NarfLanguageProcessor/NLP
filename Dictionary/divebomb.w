@@ -1,0 +1,1 @@
+{"index": 90218, "D": "to attack with or as if with a dive bomber. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 231585, "D": "the act of permeating.", "S": [], "A": []}

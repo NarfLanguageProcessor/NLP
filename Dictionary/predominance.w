@@ -1,0 +1,1 @@
+{"index": 247124, "D": "the state, condition, or quality of being predominant", "S": ["preponderance "], "A": ["subservience ", "surrender ", "weakness ", "yielding "]}

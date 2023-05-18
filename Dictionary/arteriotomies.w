@@ -1,0 +1,1 @@
+{"index": 20540, "D": "the incision or opening into the lumen of an artery for the removal of a clot, embolus, or the like, or, formerly, for bloodletting.", "S": [], "A": []}

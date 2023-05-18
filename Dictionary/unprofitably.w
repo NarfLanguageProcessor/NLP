@@ -1,0 +1,1 @@
+{"index": 348569, "D": "being without profit; not showing or turning a profit", "S": ["at a loss ", "bankrupt ", "behindhand ", "delinquent ", "in arrears ", "in debt ", "in dire straits ", "in hock ", "in the hole ", "insolvent ", "losing money ", "nonpaying ", "to the bad "], "A": ["in the black "]}

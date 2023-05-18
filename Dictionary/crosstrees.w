@@ -1,0 +1,1 @@
+{"index": 73880, "D": "either of a pair of timbers or metal bars placed athwart the trestletrees at a masthead to spread the shrouds leading to the mast above, or on the head of a lower mast to support the platform or top.", "S": [], "A": []}

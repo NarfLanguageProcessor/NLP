@@ -1,0 +1,1 @@
+{"index": 288308, "D": "a relentless and revengeful moneylender in Shakespeare's Merchant of Venice.", "S": ["Shylock ", "shark ", "swindler "], "A": []}

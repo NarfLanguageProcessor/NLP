@@ -1,0 +1,1 @@
+{"index": 246426, "D": "to proclaim or commend publicly.", "S": ["beep "], "A": ["conceal ", "refrain "]}

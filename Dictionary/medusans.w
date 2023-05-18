@@ -1,0 +1,1 @@
+{"index": 182265, "D": "pertaining to a medusa  or jellyfish.", "S": [], "A": []}

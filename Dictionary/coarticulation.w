@@ -1,0 +1,1 @@
+{"index": 61069, "D": "concomitance of articulation,  as in fro, ostensibly a succession of three discrete sounds but physically a single articulation  (f-) blending into a coarticulation (-fr-), which blends into an articulation  (-r-), which blends into a coarticulation (-ro-), which blends into an articulation  (-o).", "S": [], "A": []}

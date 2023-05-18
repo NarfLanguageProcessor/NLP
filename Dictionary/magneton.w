@@ -1,0 +1,1 @@
+{"index": 177555, "D": "a unit of magnetic moment, used in measuring the magnetic moment of atomic and subatomic particles.", "S": [], "A": []}

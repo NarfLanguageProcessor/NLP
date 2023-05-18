@@ -1,0 +1,1 @@
+{"index": 216861, "D": "to extend beyond the main body or line; project; protrude (often followed by out)", "S": [], "A": []}

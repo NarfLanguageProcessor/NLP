@@ -1,0 +1,1 @@
+{"index": 4260, "D": "an adjective  used as a noun,  as meek in Blessed are the meek; absolute adjective.", "S": ["accessory ", "adjunct ", "attribute ", "dependent ", "identifier ", "modifier ", "qualifier "], "A": []}

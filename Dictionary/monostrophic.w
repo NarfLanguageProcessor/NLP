@@ -1,0 +1,1 @@
+{"index": 192701, "D": "consisting of stanzas or strophes all having the same metrical structure.", "S": [], "A": []}

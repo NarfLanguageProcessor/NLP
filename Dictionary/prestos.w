@@ -1,0 +1,1 @@
+{"index": 249679, "D": "quickly, rapidly, or immediately.", "S": [], "A": []}

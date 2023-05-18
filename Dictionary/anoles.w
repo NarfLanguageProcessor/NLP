@@ -1,0 +1,1 @@
+{"index": 13735, "D": "any of numerous chiefly insectivorous New World lizards of the genus Anolis, related to the iguana, that have the ability to change the color of their skin among a wide range of green and brown shades.", "S": [], "A": []}

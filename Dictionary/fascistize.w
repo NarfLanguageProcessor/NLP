@@ -1,0 +1,1 @@
+{"index": 110143, "D": "to make fascist;  convert to fascism or a fascist  philosophy or methods.", "S": [], "A": []}

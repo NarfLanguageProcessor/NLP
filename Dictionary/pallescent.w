@@ -1,0 +1,1 @@
+{"index": 223958, "D": "becoming paler in colour with increasing age", "S": [], "A": []}

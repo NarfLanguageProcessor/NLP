@@ -1,0 +1,1 @@
+{"index": 53755, "D": "a chemical that causes an animal to become irreversibly sterile without changing its mating behavior or longevity.", "S": [], "A": []}

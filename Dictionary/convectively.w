@@ -1,0 +1,1 @@
+{"index": 67913, "D": "to transfer (heat or a fluid) by convection. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43925, "D": "any of several large-headed fishes, especially a sculpin, Scorpaenichthys marmoratus, of Pacific coastal waters of North America.", "S": [], "A": []}

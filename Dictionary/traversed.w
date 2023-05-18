@@ -1,0 +1,1 @@
+{"index": 328610, "D": "to pass or move over, along, or through.", "S": ["bisect ", "crisscross ", "cross ", "cut across ", "go over ", "pass over ", "pass through ", "ply ", "roam ", "span ", "tread "], "A": ["stay "]}

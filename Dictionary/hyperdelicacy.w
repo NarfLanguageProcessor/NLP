@@ -1,0 +1,1 @@
+{"index": 140033, "D": "fineness of texture, quality, etc.; softness; daintiness", "S": [], "A": []}

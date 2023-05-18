@@ -1,0 +1,1 @@
+{"index": 90472, "D": "developed from two fertilized ova, as fraternal twins.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 145248, "D": "a member of an Indian tribe, the northwestern member of the Iroquoian family, living west of Lake Huron.", "S": [], "A": []}

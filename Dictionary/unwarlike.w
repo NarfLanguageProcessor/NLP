@@ -1,0 +1,1 @@
+{"index": 354031, "D": "fit, qualified, or ready for war;  martial", "S": [], "A": []}

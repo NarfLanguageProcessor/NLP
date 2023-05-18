@@ -1,0 +1,1 @@
+{"index": 108207, "D": "to speak extemporaneously", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 46684, "D": "of or relating to the gospel or liturgical north side of a church (opposed to decani).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 196032, "D": "absorbed in thought; meditative.", "S": [], "A": []}

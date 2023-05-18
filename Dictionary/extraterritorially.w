@@ -1,0 +1,1 @@
+{"index": 108658, "D": "beyond local territorial  jurisdiction, as the status of persons resident in a country but not subject to its laws.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 119766, "D": "to muddle or confuse", "S": ["bewildered ", "bugged ", "chagrined ", "confounded ", "confused ", "crushed ", "discombobulated ", "disconcerted ", "embarrassed ", "fazed ", "humbled ", "humiliated ", "mortified ", "rattled ", "shamed "], "A": ["clear ", "oriented ", "understanding "]}

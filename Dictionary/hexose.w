@@ -1,0 +1,1 @@
+{"index": 138109, "D": "any of a class of sugars containing six atoms of carbon, including glucose and fructose.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 329741, "D": "an article or thing of very little value.", "S": ["baloney ", "bull ", "bunk ", "flummery ", "frippery ", "frivolity ", "froth ", "hogwash ", "malarkey ", "minutia ", "trifle ", "triviality "], "A": ["sense ", "truth "]}

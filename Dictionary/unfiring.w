@@ -1,0 +1,1 @@
+{"index": 342290, "D": "the act of a person or thing that fires. ", "S": [], "A": []}

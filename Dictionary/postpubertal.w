@@ -1,0 +1,1 @@
+{"index": 244431, "D": "of, relating to, or characteristic of puberty. ", "S": [], "A": []}

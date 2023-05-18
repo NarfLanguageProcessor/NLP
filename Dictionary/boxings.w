@@ -1,0 +1,1 @@
+{"index": 39299, "D": "the material used to make boxes or casings.", "S": ["battle ", "mill ", "prelim ", "prizefighting ", "pugilism ", "slugfest ", "sparring "], "A": []}

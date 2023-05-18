@@ -1,0 +1,1 @@
+{"index": 75042, "D": "skill employed in a shrewd or sly manner, as in deceiving; craftiness; guile. ", "S": ["design ", "method ", "strategy "], "A": ["frankness ", "honesty ", "ignorance ", "openness ", "reality ", "truthfulness "]}

@@ -1,0 +1,1 @@
+{"index": 367746, "D": "2nd person singular past tense of will1. ", "S": [], "A": []}

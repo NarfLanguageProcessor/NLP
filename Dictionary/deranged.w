@@ -1,0 +1,1 @@
+{"index": 81999, "D": "insane. ", "S": ["crazed ", "demented ", "distracted ", "irrational ", "maniacal ", "unbalanced ", "unhinged "], "A": ["balanced ", "rational ", "reasonable ", "sane ", "sensible ", "sound ", "stable "]}

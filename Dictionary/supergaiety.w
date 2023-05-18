@@ -1,0 +1,1 @@
+{"index": 311914, "D": "the state of being joyous, vivacious, or cheerful.", "S": [], "A": []}

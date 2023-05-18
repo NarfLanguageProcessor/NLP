@@ -1,0 +1,1 @@
+{"index": 288201, "D": "a pasture or grazing ground.", "S": [], "A": []}

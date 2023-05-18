@@ -1,0 +1,1 @@
+{"index": 91988, "D": "to a double  measure or degree", "S": ["double ", "twice "], "A": []}

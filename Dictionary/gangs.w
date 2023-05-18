@@ -1,0 +1,1 @@
+{"index": 121920, "D": "a group or band", "S": ["band ", "bunch ", "clan ", "clique ", "company ", "crew ", "organization ", "party ", "ring ", "squad ", "syndicate ", "team ", "tribe ", "troop "], "A": ["individual "]}

@@ -1,0 +1,1 @@
+{"index": 88742, "D": "a large amusement park in Anaheim, Calif.", "S": [], "A": []}

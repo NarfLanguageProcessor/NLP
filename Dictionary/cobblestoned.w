@@ -1,0 +1,1 @@
+{"index": 61210, "D": "a naturally rounded stone, larger than a pebble and smaller than a boulder, formerly used in paving.", "S": ["brick ", "cobblestone ", "flagstone ", "gravel ", "macadamize ", "surface ", "tar ", "tile "], "A": ["dig up ", "strip "]}

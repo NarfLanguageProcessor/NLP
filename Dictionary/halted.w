@@ -1,0 +1,1 @@
+{"index": 132860, "D": "to stop; cease moving, operating, etc., either permanently or temporarily", "S": ["frozen ", "immobile ", "inert ", "lifeless ", "paralyzed ", "stagnant ", "stationary ", "steadfast "], "A": ["alive ", "lively ", "mobile ", "moving ", "unfixed "]}

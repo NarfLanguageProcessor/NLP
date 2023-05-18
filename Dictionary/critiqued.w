@@ -1,0 +1,1 @@
+{"index": 73508, "D": "an article or essay criticizing  a literary or other work; detailed evaluation; review.", "S": ["abstracted ", "analyzed ", "considered ", "criticized ", "examined ", "investigated ", "judged ", "outlined ", "studied ", "summarized ", "surveyed "], "A": ["unplanned "]}

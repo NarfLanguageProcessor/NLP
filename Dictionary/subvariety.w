@@ -1,0 +1,1 @@
+{"index": 309697, "D": "the state of being varied or diversified", "S": [], "A": []}

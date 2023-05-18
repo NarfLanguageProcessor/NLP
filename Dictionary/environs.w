@@ -1,0 +1,1 @@
+{"index": 101840, "D": "the surrounding parts or districts, as of a city; outskirts; suburbs.", "S": ["suburb ", "surroundings ", "vicinity "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 239557, "D": "the Low German vernacular dialects spoken in northern Germany.", "S": [], "A": []}

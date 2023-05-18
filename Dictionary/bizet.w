@@ -1,0 +1,1 @@
+{"index": 35395, "D": "French composer, especially of opera.", "S": [], "A": []}

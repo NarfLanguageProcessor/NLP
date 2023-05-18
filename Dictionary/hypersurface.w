@@ -1,0 +1,1 @@
+{"index": 140541, "D": "a mathematical object that generalizes the concept of surface  from three-dimensional Euclidean space to hyperspace.", "S": [], "A": []}

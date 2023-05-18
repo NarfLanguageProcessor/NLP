@@ -1,0 +1,1 @@
+{"index": 218863, "D": "the act or process of falling into an inferior condition or state; deterioration; decay", "S": [], "A": []}

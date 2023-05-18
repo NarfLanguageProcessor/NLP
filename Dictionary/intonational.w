@@ -1,0 +1,1 @@
+{"index": 156372, "D": "the pattern or melody of pitch changes in connected speech, especially the pitch pattern of a sentence, which distinguishes kinds of sentences or speakers of different language cultures.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25974, "D": "the movement of a bat, racket, or the like, toward the back of a player in preparation for the forward movement with which the ball is struck.", "S": [], "A": []}

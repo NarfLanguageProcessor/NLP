@@ -1,0 +1,1 @@
+{"index": 288740, "D": "a person certified by a rabbi or Jewish court of law to slaughter animals for food in the manner prescribed by Jewish law.", "S": [], "A": []}

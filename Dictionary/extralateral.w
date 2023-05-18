@@ -1,0 +1,1 @@
+{"index": 108520, "D": "of or relating to the right of a mine owner to the vein or lode of an ore when it extends under an adjacent mining property.", "S": [], "A": []}

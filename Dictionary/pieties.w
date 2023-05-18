@@ -1,0 +1,1 @@
+{"index": 236288, "D": "reverence for God or devout fulfillment of religious obligations", "S": ["fervor ", "loyalty ", "religiosity ", "reverence ", "zeal "], "A": ["apathy ", "agnosticism ", "atheism ", "disbelief ", "disloyalty ", "faithlessness ", "inconstancy ", "indifference ", "treachery "]}

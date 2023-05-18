@@ -1,0 +1,1 @@
+{"index": 45055, "D": "the skin  or hide of a calf. ", "S": [], "A": []}

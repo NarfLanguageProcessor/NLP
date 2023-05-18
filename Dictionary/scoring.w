@@ -1,0 +1,1 @@
+{"index": 281288, "D": "the act or practice of scoring", "S": ["lettering "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 96342, "D": [], "S": ["eerie ", "ghastly ", "scary ", "shadowy ", "spectral ", "supernatural ", "weird "], "A": ["normal "]}

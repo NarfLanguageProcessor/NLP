@@ -1,0 +1,1 @@
+{"index": 151112, "D": "not disputable or deniable; uncontestable. indisputable evidence.", "S": ["absolutely ", "clearly ", "presumably ", "surely ", "undoubtedly ", "unequivocally ", "unquestionably "], "A": ["doubtfully ", "indefinite ", "questionably "]}

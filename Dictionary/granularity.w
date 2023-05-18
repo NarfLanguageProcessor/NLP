@@ -1,0 +1,1 @@
+{"index": 128992, "D": "the state or quality of being grainy or granular", "S": [], "A": []}

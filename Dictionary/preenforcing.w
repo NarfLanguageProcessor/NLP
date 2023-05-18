@@ -1,0 +1,1 @@
+{"index": 247283, "D": "to put or keep in force; compel obedience to", "S": [], "A": []}

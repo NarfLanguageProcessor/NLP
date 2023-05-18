@@ -1,0 +1,1 @@
+{"index": 52119, "D": "a very common mineral, copper iron sulfide, CuFeS2, occurring in brass-yellow crystals or masses", "S": [], "A": []}

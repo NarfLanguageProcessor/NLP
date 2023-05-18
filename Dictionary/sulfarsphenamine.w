@@ -1,0 +1,1 @@
+{"index": 310403, "D": "a yellow, water-soluble, arsenic-containing powder, C14H14As2N2Na2O8S2, formerly used in the treatment of syphilis.", "S": [], "A": []}

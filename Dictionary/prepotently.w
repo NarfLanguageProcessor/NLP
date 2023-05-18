@@ -1,0 +1,1 @@
+{"index": 248906, "D": "preeminent in power, authority, or influence; predominant", "S": [], "A": []}

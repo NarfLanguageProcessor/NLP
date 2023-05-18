@@ -1,0 +1,1 @@
+{"index": 48820, "D": "the number of cases  handled by a court, an agency, a social worker, etc., either at any given moment or over a stated period.", "S": [], "A": []}

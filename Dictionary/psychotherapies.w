@@ -1,0 +1,1 @@
+{"index": 255517, "D": "the treatment of psychological disorders or maladjustments by a professional technique, as psychoanalysis, group therapy,  or behavioral therapy. ", "S": [], "A": []}

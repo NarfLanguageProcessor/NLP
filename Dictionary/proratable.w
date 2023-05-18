@@ -1,0 +1,1 @@
+{"index": 252899, "D": "to make an arrangement on a basis of proportional distribution.", "S": [], "A": []}

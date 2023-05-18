@@ -1,0 +1,1 @@
+{"index": 142203, "D": "the figure described by the extremity of a vector that has a fixed origin and a position vector equal to the velocity of a moving particle.", "S": [], "A": []}

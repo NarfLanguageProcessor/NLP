@@ -1,0 +1,1 @@
+{"index": 220962, "D": "to cause (a substance) to unite with the greatest possible amount of another substance, through solution, chemical combination, or the like.", "S": [], "A": []}

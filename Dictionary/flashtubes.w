@@ -1,0 +1,1 @@
+{"index": 114045, "D": "electronic flash. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 181209, "D": "the female head of a family or tribal line.", "S": ["matron "], "A": ["patriarch "]}

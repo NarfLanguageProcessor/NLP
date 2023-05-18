@@ -1,0 +1,1 @@
+{"index": 192863, "D": "a member of a dark-skinned people of mixed ethnic origins inhabiting the highland areas of Vietnam.", "S": [], "A": []}

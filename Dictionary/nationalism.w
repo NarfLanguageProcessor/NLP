@@ -1,0 +1,1 @@
+{"index": 197261, "D": "spirit or aspirations common to the whole of a nation", "S": ["fanaticism ", "jingoism "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 18835, "D": "the primitive enteron or digestive cavity of a gastrula.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 24829, "D": "a large, usually pear-shaped fruit having green to blackish skin, a single large seed, and soft, light-green pulp, borne by the tropical American tree Persea americana and its variety P. adrymifolia, often eaten raw, especially in salads.", "S": [], "A": []}

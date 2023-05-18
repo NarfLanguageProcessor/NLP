@@ -1,0 +1,1 @@
+{"index": 307495, "D": "the act of commending;  recommendation; praise", "S": [], "A": []}

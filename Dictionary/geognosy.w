@@ -1,0 +1,1 @@
+{"index": 123869, "D": "a science dealing with the constituent parts of the earth, its envelope of air and water, its crust, and the condition of its interior.", "S": [], "A": []}

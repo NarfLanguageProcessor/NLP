@@ -1,0 +1,1 @@
+{"index": 328511, "D": "quilting having an embossed design produced by outlining the pattern with single stitches and then padding it with yarn or cotton.", "S": [], "A": []}

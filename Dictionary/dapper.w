@@ -1,0 +1,1 @@
+{"index": 76865, "D": "neat; trim; smart", "S": ["classy ", "dashing ", "rakish ", "spry ", "stylish "], "A": ["plain ", "unstylish "]}

@@ -1,0 +1,1 @@
+{"index": 3602, "D": "a machine designed for the rapid, automatic addressing of mail in large quantities.", "S": [], "A": []}

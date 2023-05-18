@@ -1,0 +1,1 @@
+{"index": 360791, "D": "the action of cutting into or dissecting a living body.", "S": [], "A": []}

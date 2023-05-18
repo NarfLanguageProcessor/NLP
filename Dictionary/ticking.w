@@ -1,0 +1,1 @@
+{"index": 323228, "D": "a strong cotton fabric, usually twilled, used especially in making cloth ticks. ", "S": ["breathing ", "contemporary "], "A": ["apathetic ", "asleep ", "inactive ", "lethargic ", "sluggish "]}

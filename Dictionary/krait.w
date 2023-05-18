@@ -1,0 +1,1 @@
+{"index": 166223, "D": "any of several large, usually banded, placid but highly venomous snakes constituting the genus Bungarus, of the cobra family, common in southeastern Asia and the Malay Archipelago.", "S": [], "A": []}

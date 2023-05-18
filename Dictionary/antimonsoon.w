@@ -1,0 +1,1 @@
+{"index": 15640, "D": "a current of air lying above a monsoon  and moving in an opposite direction.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 109478, "D": "a bit of finery; a showy article of dress.", "S": [], "A": []}

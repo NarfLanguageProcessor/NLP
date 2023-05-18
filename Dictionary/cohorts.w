@@ -1,0 +1,1 @@
+{"index": 62411, "D": "a group or company", "S": ["companion ", "comrade ", "disciple ", "follower "], "A": ["enemy ", "foe ", "opponent ", "adversary ", "antagonist "]}

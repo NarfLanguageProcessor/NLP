@@ -1,0 +1,1 @@
+{"index": 253924, "D": "capable of being protracted,  lengthened, or protruded.", "S": ["approaching ", "continual ", "continuing ", "continuous ", "endless ", "expansible ", "expansile ", "extendible ", "extensile ", "going on ", "lengthening ", "perpetual ", "ranging ", "spanning ", "spreading ", "stretch ", "stretchable ", "stretching "], "A": []}

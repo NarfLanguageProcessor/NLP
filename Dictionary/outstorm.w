@@ -1,0 +1,1 @@
+{"index": 217635, "D": "a disturbance of the normal condition of the atmosphere, manifesting itself by winds of unusual force or direction, often accompanied by rain, snow, hail, thunder, and lightning, or flying sand or dust.", "S": [], "A": []}

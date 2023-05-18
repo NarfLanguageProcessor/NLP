@@ -1,0 +1,1 @@
+{"index": 210955, "D": "consisting of or divided into eight parts.", "S": [], "A": []}

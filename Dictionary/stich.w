@@ -1,0 +1,1 @@
+{"index": 304255, "D": "a verse or line of poetry.", "S": [], "A": []}

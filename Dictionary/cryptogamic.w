@@ -1,0 +1,1 @@
+{"index": 73235, "D": "any of the Cryptogamia, a former primary division of plants that have no true flowers or seeds and that reproduce by spores, as the ferns, mosses, fungi, and algae.", "S": [], "A": []}

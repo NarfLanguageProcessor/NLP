@@ -1,0 +1,1 @@
+{"index": 116229, "D": "a plate  running beneath and supporting a row of studs; mudsill.", "S": [], "A": []}

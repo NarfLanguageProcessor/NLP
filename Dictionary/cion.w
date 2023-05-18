@@ -1,0 +1,1 @@
+{"index": 57843, "D": "variant of -tion", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 91137, "D": "a large earthenware jar used by the ancient Romans.", "S": [], "A": []}

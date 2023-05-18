@@ -1,0 +1,1 @@
+{"index": 245884, "D": "of or relating to gills or to the homologous, embryonic parts in animals without gills.", "S": [], "A": []}

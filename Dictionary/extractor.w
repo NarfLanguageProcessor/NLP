@@ -1,0 +1,1 @@
+{"index": 108469, "D": "a person or thing that extracts. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 345931, "D": "a curse; imprecation.", "S": [], "A": []}

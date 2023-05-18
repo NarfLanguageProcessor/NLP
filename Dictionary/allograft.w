@@ -1,0 +1,1 @@
+{"index": 8851, "D": "a tissue or organ obtained from one member of a species and grafted  to a genetically dissimilar member of the same species.", "S": [], "A": []}

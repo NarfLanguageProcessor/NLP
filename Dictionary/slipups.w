@@ -1,0 +1,1 @@
+{"index": 294227, "D": [], "S": ["blooper ", "blunder ", "error ", "goof ", "miscalculation ", "miscue ", "misjudgment ", "misstep ", "transgression "], "A": []}

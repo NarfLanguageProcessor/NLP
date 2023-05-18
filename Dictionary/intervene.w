@@ -1,0 +1,1 @@
+{"index": 156152, "D": "to come between disputing people, groups, etc.; intercede; mediate.", "S": ["arbitrate ", "intercede ", "interfere ", "involve ", "meddle ", "negotiate "], "A": ["combine ", "connect ", "join ", "leave ", "unite "]}

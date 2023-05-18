@@ -1,0 +1,1 @@
+{"index": 69923, "D": "a dry red or white wine of Sicily.", "S": [], "A": []}

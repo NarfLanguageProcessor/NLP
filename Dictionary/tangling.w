@@ -1,0 +1,1 @@
+{"index": 316084, "D": "to bring together into a mass of confusedly interlaced or intertwisted threads, strands, or other like parts; snarl. ", "S": ["coil ", "labyrinth ", "mess ", "morass ", "skein ", "snarl "], "A": ["order ", "organization ", "simplicity "]}

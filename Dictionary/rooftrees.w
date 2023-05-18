@@ -1,0 +1,1 @@
+{"index": 274222, "D": "the ridgepole of a roof. ", "S": [], "A": []}

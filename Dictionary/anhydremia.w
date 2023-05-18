@@ -1,0 +1,1 @@
+{"index": 13057, "D": "an abnormal decrease in the volume of the blood, due to loss of water.", "S": [], "A": []}

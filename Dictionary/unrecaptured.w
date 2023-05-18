@@ -1,0 +1,1 @@
+{"index": 349157, "D": "to capture  again; recover by capture;  retake.", "S": [], "A": []}

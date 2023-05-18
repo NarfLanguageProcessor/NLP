@@ -1,0 +1,1 @@
+{"index": 279268, "D": "a cocktail made with rye or bourbon, bitters, Pernod, and sugar, stirred or shaken with ice, strained and served with a twist of lemon rind.", "S": [], "A": []}

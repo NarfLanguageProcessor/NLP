@@ -1,0 +1,1 @@
+{"index": 13959, "D": "(in the philosophy of Fichte) any of the six successive steps by which the absolute ego attains self-knowledge.", "S": [], "A": []}

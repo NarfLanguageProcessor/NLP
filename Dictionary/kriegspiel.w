@@ -1,0 +1,1 @@
+{"index": 166286, "D": "a game using small figures and counters that represent troops, ships, etc., played on a map or miniature battlefield, developed for teaching military tactics to officers.", "S": ["dress rehearsal ", "tryout "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288551, "D": "a tree, said to be an acacia, probably Acacia seyal, that yielded the shittim wood of the Old Testament.", "S": [], "A": []}

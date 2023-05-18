@@ -1,0 +1,1 @@
+{"index": 318559, "D": "a pattern, mold, or the like, usually consisting of a thin plate of wood or metal, serving as a gauge or guide in mechanical work.", "S": ["arrangement "], "A": ["disorder ", "disorganization ", "plainness "]}

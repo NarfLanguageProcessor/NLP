@@ -1,0 +1,1 @@
+{"index": 188048, "D": "a slow, stately dance in triple meter, popular in the 17th and 18th centuries.", "S": [], "A": []}

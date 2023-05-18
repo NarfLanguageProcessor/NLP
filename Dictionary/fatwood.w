@@ -1,0 +1,1 @@
+{"index": 110375, "D": "kindling; lightwood.", "S": ["coals ", "firewood ", "lightwood ", "tinder ", "twigs ", "wood "], "A": []}

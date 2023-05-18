@@ -1,0 +1,1 @@
+{"index": 139253, "D": "a person who is extravagant or goes to extremes in aims, pretensions, opinions, etc.", "S": [], "A": []}

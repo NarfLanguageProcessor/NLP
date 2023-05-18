@@ -1,0 +1,1 @@
+{"index": 125605, "D": "stabilized by means of a gyrostabilizer.", "S": [], "A": []}

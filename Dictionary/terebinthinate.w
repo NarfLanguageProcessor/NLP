@@ -1,0 +1,1 @@
+{"index": 319266, "D": "of, relating to, or resembling turpentine.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 268473, "D": "deserving of reproof, rebuke, or censure; blameworthy.", "S": ["dreadfully ", "wickedly "], "A": []}

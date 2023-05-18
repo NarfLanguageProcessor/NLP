@@ -1,0 +1,1 @@
+{"index": 323304, "D": "any of the discs used in the game of tiddlywinks", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 32149, "D": "a group of islands in the Atlantic, 580 miles (935 km) E of North Carolina", "S": [], "A": []}

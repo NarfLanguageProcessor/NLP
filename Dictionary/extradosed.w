@@ -1,0 +1,1 @@
+{"index": 108494, "D": "(of an arch) having a curved intrados, the form of which is repeated by the extrados. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 20299, "D": "to claim unwarrantably or presumptuously; assume or appropriate to oneself without right", "S": ["appropriate ", "assume ", "commandeer ", "confiscate ", "demand ", "expropriate ", "preempt ", "presume ", "seize ", "take ", "usurp "], "A": ["abstain ", "give ", "keep ", "offer ", "refuse ", "reject "]}

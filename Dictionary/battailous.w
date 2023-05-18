@@ -1,0 +1,1 @@
+{"index": 29081, "D": "ready for battle; warlike.", "S": [], "A": []}

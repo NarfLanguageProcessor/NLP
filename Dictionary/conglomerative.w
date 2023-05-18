@@ -1,0 +1,1 @@
+{"index": 66202, "D": "the act of conglomerating;  the state of being conglomerated. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256800, "D": "the condition of being a pupil or duration for which one is a pupil", "S": [], "A": []}

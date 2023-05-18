@@ -1,0 +1,1 @@
+{"index": 17106, "D": "a writer of apocalyptic  literature.", "S": [], "A": []}

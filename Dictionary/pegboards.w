@@ -1,0 +1,1 @@
+{"index": 229125, "D": "a board  having holes into which pegs  are placed in specific patterns, used for playing or scoring certain games.", "S": [], "A": []}

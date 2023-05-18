@@ -1,0 +1,1 @@
+{"index": 231639, "D": "to alter; change.", "S": ["capricious ", "fickle ", "fluctuating ", "mercurial ", "protean ", "shifting ", "unpredictable ", "unsettled ", "unstable ", "varying ", "volatile "], "A": ["calm ", "constant ", "stable ", "steadfast ", "steady ", "unvarying "]}

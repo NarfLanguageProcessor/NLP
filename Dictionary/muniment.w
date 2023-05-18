@@ -1,0 +1,1 @@
+{"index": 195599, "D": "a document, as a title deed or a charter, by which rights or privileges are defended or maintained.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 80279, "D": "(in ancient Rome) a temple, shrine, or sanctuary.", "S": [], "A": []}

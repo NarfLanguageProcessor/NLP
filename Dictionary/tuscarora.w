@@ -1,0 +1,1 @@
+{"index": 332986, "D": "a member of an Indian people living originally in North Carolina and later, after their admission into the Iroquois confederacy, in New York.", "S": [], "A": []}

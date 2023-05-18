@@ -1,0 +1,1 @@
+{"index": 127090, "D": "the act of a person or thing that gnaws. ", "S": [], "A": []}

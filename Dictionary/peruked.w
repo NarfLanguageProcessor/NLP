@@ -1,0 +1,1 @@
+{"index": 232148, "D": "a man's wig of the 17th and 18th centuries, usually powdered and gathered at the back of the neck with a ribbon; periwig.", "S": [], "A": []}

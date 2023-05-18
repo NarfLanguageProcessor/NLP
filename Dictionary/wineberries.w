@@ -1,0 +1,1 @@
+{"index": 366074, "D": "a prickly shrub, Rubus phoenicolasius, of China and Japan, having pinkish or white flowers and small, red, edible fruit.", "S": [], "A": []}

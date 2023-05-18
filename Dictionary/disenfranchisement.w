@@ -1,0 +1,1 @@
+{"index": 87947, "D": "the act of depriving a person of the rights or privileges of citizens, especially the right to vote; the state of being so deprived", "S": [], "A": []}

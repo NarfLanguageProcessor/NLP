@@ -1,0 +1,1 @@
+{"index": 279062, "D": "a sport resembling boxing but permitting blows to be delivered with the feet as well as the hands.", "S": [], "A": []}

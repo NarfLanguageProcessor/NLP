@@ -1,0 +1,1 @@
+{"index": 179013, "D": "a branch of the Niger-Congo subfamily of languages, spoken in western Africa and including Mende, Malinke, Bambara, and Kpelle.", "S": [], "A": []}

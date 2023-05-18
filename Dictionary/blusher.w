@@ -1,0 +1,1 @@
+{"index": 36891, "D": "a person who blushes. ", "S": ["cardinal ", "coral ", "crimson ", "flaming ", "glowing ", "maroon ", "rose ", "wine "], "A": []}

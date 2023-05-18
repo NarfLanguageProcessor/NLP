@@ -1,0 +1,1 @@
+{"index": 216059, "D": "(used to express duty or moral obligation)", "S": ["concern ", "need ", "tax "], "A": []}

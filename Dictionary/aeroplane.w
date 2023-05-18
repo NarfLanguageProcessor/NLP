@@ -1,0 +1,1 @@
+{"index": 5116, "D": "airplane. ", "S": ["aircraft ", "airliner ", "cab ", "jet ", "plane ", "ship "], "A": []}

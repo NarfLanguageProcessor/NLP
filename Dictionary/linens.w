@@ -1,0 +1,1 @@
+{"index": 172788, "D": "fabric woven from flax yarns.", "S": ["clothing ", "dry goods ", "textiles ", "white goods ", "yard goods "], "A": []}

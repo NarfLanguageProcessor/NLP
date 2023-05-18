@@ -1,0 +1,1 @@
+{"index": 42931, "D": "a coarse, open fabric of worsted or cotton for flags, signals, etc.", "S": ["streamer "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246485, "D": "the act of consuming, as by use, decay, or destruction.", "S": [], "A": []}

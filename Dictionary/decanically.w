@@ -1,0 +1,1 @@
+{"index": 78007, "D": "of or relating to a dean or deanery", "S": [], "A": []}

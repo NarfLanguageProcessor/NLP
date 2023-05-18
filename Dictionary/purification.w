@@ -1,0 +1,1 @@
+{"index": 256942, "D": "the act or process of making something pure and free of any contaminating, debasing, or foreign elements", "S": ["distillation "], "A": ["dirtying "]}

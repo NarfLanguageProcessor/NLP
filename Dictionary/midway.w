@@ -1,0 +1,1 @@
+{"index": 186845, "D": "in the middle of the way or distance; halfway.", "S": ["halfway "], "A": ["exterior ", "extreme ", "outside ", "peripheral "]}

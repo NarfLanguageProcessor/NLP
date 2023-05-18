@@ -1,0 +1,1 @@
+{"index": 161639, "D": "the larva of any of several chalcid flies of the family Eurytomidae, especially of the genus Harmolita, that feeds within the stems of grasses, often causing a gall near the first joint. ", "S": [], "A": []}

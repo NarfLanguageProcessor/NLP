@@ -1,0 +1,1 @@
+{"index": 121479, "D": "an abnormal stonelike mass, usually of cholesterol, formed in the gallbladder or bile passages.", "S": ["bilestone ", "calculus ", "concretion ", "cystolith "], "A": []}

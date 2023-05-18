@@ -1,0 +1,1 @@
+{"index": 299661, "D": "seasoned with or containing spice", "S": ["acidity ", "aroma ", "essence ", "extract ", "seasoning ", "sweetness ", "zest "], "A": ["blandness "]}

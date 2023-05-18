@@ -1,0 +1,1 @@
+{"index": 131416, "D": "an aperture, as in a protective wall or the side of a ship, through which a gun  can be aimed and fired.", "S": [], "A": []}

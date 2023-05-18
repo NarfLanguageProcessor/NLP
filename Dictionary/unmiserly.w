@@ -1,0 +1,1 @@
+{"index": 346405, "D": "of, like, or befitting a miser;  penurious; stingy.", "S": [], "A": []}

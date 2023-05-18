@@ -1,0 +1,1 @@
+{"index": 181301, "D": "a subterranean storehouse or dwelling", "S": [], "A": []}

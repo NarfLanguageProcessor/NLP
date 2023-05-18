@@ -1,0 +1,1 @@
+{"index": 30158, "D": "to drench or muddy.", "S": [], "A": []}

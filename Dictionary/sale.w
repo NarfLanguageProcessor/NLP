@@ -1,0 +1,1 @@
+{"index": 276966, "D": "the act of selling. ", "S": ["auction ", "business ", "buying ", "deal ", "demand ", "marketing ", "purchase ", "reduction ", "selling ", "trade ", "transaction "], "A": []}

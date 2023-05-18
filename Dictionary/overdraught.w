@@ -1,0 +1,1 @@
+{"index": 219074, "D": "a current of air passed above a fire, as in a furnace", "S": [], "A": []}

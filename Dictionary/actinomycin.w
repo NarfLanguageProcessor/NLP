@@ -1,0 +1,1 @@
+{"index": 3177, "D": "any of a group of related antibiotics derived from several species of streptomyces bacteria, used against susceptible bacteria and fungi and in the treatment of various cancers.", "S": [], "A": []}

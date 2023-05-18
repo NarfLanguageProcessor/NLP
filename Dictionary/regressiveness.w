@@ -1,0 +1,1 @@
+{"index": 265809, "D": "regressing  or tending to regress; retrogressive. ", "S": [], "A": []}

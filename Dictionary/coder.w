@@ -1,0 +1,1 @@
+{"index": 61718, "D": "a person or device that translates information into a code. ", "S": [], "A": []}

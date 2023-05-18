@@ -1,0 +1,1 @@
+{"index": 279713, "D": "barely; hardly;  not quite", "S": ["hardly ", "rarely ", "seldom "], "A": ["frequently "]}

@@ -1,0 +1,1 @@
+{"index": 156979, "D": "to put into an urn,  especially ashes after cremation.", "S": ["burying ", "entombment ", "funeral ", "inhumation ", "sepulture "], "A": []}

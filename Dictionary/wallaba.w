@@ -1,0 +1,1 @@
+{"index": 362223, "D": "any of several trees belonging to the genus Eperua, of the legume family, native to the Guianas and northern Brazil.", "S": [], "A": []}

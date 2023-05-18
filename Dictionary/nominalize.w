@@ -1,0 +1,1 @@
+{"index": 200882, "D": "to convert (another part of speech) into a noun, as in changing the adjective lowly into the lowly or the verb legalize into legalization.", "S": [], "A": []}

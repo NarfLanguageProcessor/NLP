@@ -1,0 +1,1 @@
+{"index": 118315, "D": "a person or company to whom a franchise  is granted.", "S": [], "A": []}

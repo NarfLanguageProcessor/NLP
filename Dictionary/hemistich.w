@@ -1,0 +1,1 @@
+{"index": 136298, "D": "the exact or approximate half of a stich, or poetic verse or line, especially as divided by a caesura or the like.", "S": [], "A": []}

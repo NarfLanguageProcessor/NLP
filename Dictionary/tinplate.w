@@ -1,0 +1,1 @@
+{"index": 324071, "D": "thin iron or steel sheet coated with tin.", "S": [], "A": []}

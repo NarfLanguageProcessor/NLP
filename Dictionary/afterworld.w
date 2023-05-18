@@ -1,0 +1,1 @@
+{"index": 5801, "D": "the future world,  especially the world after  death.", "S": ["Promised Land ", "immortality ", "nirvana ", "paradise "], "A": ["hell ", "misery ", "sorrow ", "unhappiness "]}

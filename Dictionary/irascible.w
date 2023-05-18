@@ -1,0 +1,1 @@
+{"index": 157884, "D": "easily provoked to anger; very irritable", "S": ["cantankerous ", "cranky ", "feisty ", "grouchy ", "passionate ", "surly ", "testy ", "uptight "], "A": ["cool ", "happy ", "pleasant "]}

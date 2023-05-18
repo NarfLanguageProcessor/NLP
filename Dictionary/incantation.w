@@ -1,0 +1,1 @@
+{"index": 149661, "D": "the chanting or uttering of words purporting to have magical power.", "S": ["enchantment ", "hymn "], "A": ["reality "]}

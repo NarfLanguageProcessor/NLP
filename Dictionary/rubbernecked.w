@@ -1,0 +1,1 @@
+{"index": 275107, "D": "to look about or stare with great curiosity, as by craning the neck  or turning the head.", "S": ["eye ", "eyeball ", "focus ", "gawk ", "gaze ", "glare ", "goggle ", "look ", "ogle ", "peer ", "rivet "], "A": ["ignore "]}

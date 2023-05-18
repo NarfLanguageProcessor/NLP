@@ -1,0 +1,1 @@
+{"index": 32517, "D": [], "S": ["dab ", "deface ", "smear ", "smudge ", "spatter "], "A": ["clean ", "cleanse ", "purify ", "strip "]}

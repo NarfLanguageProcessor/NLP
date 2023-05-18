@@ -1,0 +1,1 @@
+{"index": 127053, "D": "sycophantic; fawning. ", "S": [], "A": []}

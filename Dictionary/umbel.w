@@ -1,0 +1,1 @@
+{"index": 334133, "D": "an inflorescence in which a number of flower stalks or pedicels, nearly equal in length, spread from a common center.", "S": [], "A": []}

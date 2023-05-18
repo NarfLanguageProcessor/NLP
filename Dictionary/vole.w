@@ -1,0 +1,1 @@
+{"index": 361100, "D": "any of several small mouselike or ratlike rodents of the genus Microtus and related genera, having short limbs and a short tail.", "S": [], "A": []}

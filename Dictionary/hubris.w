@@ -1,0 +1,1 @@
+{"index": 144648, "D": "excessive pride or self-confidence; arrogance.", "S": ["audacity ", "chutzpah ", "cockiness ", "pretension ", "vanity "], "A": ["humility ", "modesty ", "respect ", "timidity "]}

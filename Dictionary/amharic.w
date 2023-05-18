@@ -1,0 +1,1 @@
+{"index": 10363, "D": "the Semitic language that is the official language of Ethiopia.", "S": [], "A": []}

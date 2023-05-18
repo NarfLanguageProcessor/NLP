@@ -1,0 +1,1 @@
+{"index": 118538, "D": "queer; odd; unusual; grotesque", "S": ["foible ", "idiosyncrasy ", "peculiarity ", "quirk ", "weirdness "], "A": ["conformity ", "normalcy ", "normality ", "regularity ", "sameness ", "standard ", "usualness "]}

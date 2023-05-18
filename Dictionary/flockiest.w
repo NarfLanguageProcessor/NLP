@@ -1,0 +1,1 @@
+{"index": 114859, "D": "like or characterized by flocks  or tufts; flocculent.", "S": [], "A": []}

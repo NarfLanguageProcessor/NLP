@@ -1,0 +1,1 @@
+{"index": 213677, "D": "tolerating no opposition or resistance; irresistible.", "S": [], "A": []}

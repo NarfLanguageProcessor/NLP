@@ -1,0 +1,1 @@
+{"index": 140526, "D": "redundant (def. 5b). ", "S": [], "A": []}

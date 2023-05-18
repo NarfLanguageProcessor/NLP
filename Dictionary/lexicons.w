@@ -1,0 +1,1 @@
+{"index": 171352, "D": "a wordbook or dictionary, especially of Greek, Latin, or Hebrew.", "S": ["dictionary ", "glossary ", "terminology ", "thesaurus ", "vocabulary ", "wordbook "], "A": []}

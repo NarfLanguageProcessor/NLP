@@ -1,0 +1,1 @@
+{"index": 332794, "D": "the total time consumed in the round trip of a ship, aircraft, vehicle, etc.", "S": ["U-turn ", "turnabout "], "A": ["approval ", "enactment ", "validation "]}

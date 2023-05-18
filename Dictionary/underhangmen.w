@@ -1,0 +1,1 @@
+{"index": 339319, "D": "a person who hangs  criminals who are condemned to death; public executioner.", "S": [], "A": []}

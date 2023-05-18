@@ -1,0 +1,1 @@
+{"index": 356048, "D": "habitual or customary", "S": ["balance ", "criterion ", "equality ", "equatability ", "equivalence ", "level ", "mean ", "median ", "model ", "norm ", "parity ", "sameness ", "standard "], "A": ["difference ", "disproportion ", "dissimilarity ", "extreme ", "imbalance ", "inequality "]}

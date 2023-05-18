@@ -1,0 +1,1 @@
+{"index": 295963, "D": "a pit filled with rubble, etc, into which rain or waste water drains", "S": [], "A": []}

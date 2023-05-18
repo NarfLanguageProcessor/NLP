@@ -1,0 +1,1 @@
+{"index": 275672, "D": "a person, animal, or thing that runs, especially as a racer.", "S": ["competition "], "A": []}

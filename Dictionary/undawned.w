@@ -1,0 +1,1 @@
+{"index": 338409, "D": "the first appearance of daylight in the morning", "S": [], "A": []}

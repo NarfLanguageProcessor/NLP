@@ -1,0 +1,1 @@
+{"index": 122271, "D": "a variant spelling of garigue", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256040, "D": "informal a variant of podge", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107004, "D": "worthy of imitation; commendable", "S": ["admirable ", "commendable ", "estimable ", "excellent ", "honorable ", "laudable ", "meritorious ", "sterling ", "typical "], "A": ["bad ", "dishonorable ", "poor ", "unworthy "]}

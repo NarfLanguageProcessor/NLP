@@ -1,0 +1,1 @@
+{"index": 95121, "D": "an assembly, especially the popular assembly of ancient Athens.", "S": [], "A": []}

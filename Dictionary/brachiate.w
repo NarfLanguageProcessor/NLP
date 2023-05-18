@@ -1,0 +1,1 @@
+{"index": 39378, "D": "having widely spreading branches in alternate pairs.", "S": [], "A": []}

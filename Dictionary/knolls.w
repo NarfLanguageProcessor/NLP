@@ -1,0 +1,1 @@
+{"index": 165657, "D": "a small, rounded hill or eminence; hillock.", "S": ["bluff ", "cliff ", "dune ", "hilltop ", "promontory ", "ridge "], "A": ["decline ", "depression "]}

@@ -1,0 +1,1 @@
+{"index": 102662, "D": "a Christian festival, observed on January 6, commemorating the manifestation of Christ to the gentiles in the persons of the Magi; Twelfth-day.", "S": [], "A": []}

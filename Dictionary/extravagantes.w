@@ -1,0 +1,1 @@
+{"index": 108677, "D": "decretals circulating outside some recognized collection of canon law. Those of John XXII and the so-called Extravagantes communes form part of the Corpus Juris Canonici", "S": [], "A": []}

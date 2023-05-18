@@ -1,0 +1,1 @@
+{"index": 267039, "D": "the act or process of moving to a different place", "S": ["move ", "remotion "], "A": []}

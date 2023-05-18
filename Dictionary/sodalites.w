@@ -1,0 +1,1 @@
+{"index": 296269, "D": "a mineral, sodium aluminum silicate, Na4Al3Si3O12Cl, occurring massive and in crystals, usually blue in color and found in certain alkali-rich igneous rocks.", "S": [], "A": []}

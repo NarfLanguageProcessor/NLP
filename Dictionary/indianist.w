@@ -1,0 +1,1 @@
+{"index": 150888, "D": "action or policy for promoting the interests of Indians,  especially American Indians. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111095, "D": "a dense, fine-grained, igneous rock consisting typically of feldspar and quartz, both of which may appear as phenocrysts.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 71141, "D": "a natural or prevailing disposition to move, proceed, or act in some direction or toward some point, end, or result", "S": [], "A": []}

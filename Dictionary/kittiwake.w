@@ -1,0 +1,1 @@
+{"index": 165256, "D": "either of two small, pearl-gray gulls of the genus Rissa, the black-legged R. tridactyla of the North Atlantic and the red-legged and red-billed R. brevirostris, of the Bering Sea,  both nesting on narrow cliff ledges and having a rudimentary hind toe.", "S": [], "A": []}

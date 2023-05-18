@@ -1,0 +1,1 @@
+{"index": 13584, "D": "any of various trees and shrubs of the genus Annona, native to tropical America, and grown for their edible fruits.", "S": [], "A": []}

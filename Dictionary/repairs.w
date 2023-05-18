@@ -1,0 +1,1 @@
+{"index": 267994, "D": "to restore to a good or sound condition after decay or damage; mend", "S": ["care ", "conservation ", "preservation ", "supply ", "upkeep "], "A": ["destruction ", "neglect ", "negligence ", "end ", "entertainment ", "finish ", "fun ", "stop "]}

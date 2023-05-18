@@ -1,0 +1,1 @@
+{"index": 276642, "D": "with a knowing or thoughtful expression; in a way that suggests careful reflection", "S": ["carefully ", "intelligently ", "judiciously ", "sensibly ", "shrewdly "], "A": ["foolishly ", "stupidly ", "unthinkingly "]}

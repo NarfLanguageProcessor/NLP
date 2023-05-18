@@ -1,0 +1,1 @@
+{"index": 149913, "D": "the act of inciting. ", "S": ["instigation ", "provocation "], "A": ["hindrance "]}

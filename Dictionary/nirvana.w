@@ -1,0 +1,1 @@
+{"index": 200284, "D": "freedom from the endless cycle of personal reincarnations, with their consequent suffering, as a result of the extinction of individual passion, hatred, and delusion", "S": ["heaven "], "A": ["agitation ", "misery ", "sadness ", "sorrow ", "trouble ", "unhappiness ", "upset ", "woe "]}

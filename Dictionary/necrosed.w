@@ -1,0 +1,1 @@
+{"index": 197838, "D": "to affect or be affected with necrosis. ", "S": [], "A": []}

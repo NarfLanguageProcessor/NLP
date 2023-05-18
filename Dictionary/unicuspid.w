@@ -1,0 +1,1 @@
+{"index": 344040, "D": "having but one cusp.", "S": [], "A": []}

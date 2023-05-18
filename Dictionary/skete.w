@@ -1,0 +1,1 @@
+{"index": 293025, "D": "a settlement of monks or ascetics.", "S": [], "A": []}

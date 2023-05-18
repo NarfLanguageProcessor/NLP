@@ -1,0 +1,1 @@
+{"index": 288233, "D": "any of several rod-shaped aerobic bacteria of the genus Shigella, certain species of which are pathogenic for humans and other warm-blooded animals.", "S": [], "A": []}

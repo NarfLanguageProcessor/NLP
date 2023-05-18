@@ -1,0 +1,1 @@
+{"index": 69779, "D": "the act of corrupting  or state of being corrupt. ", "S": ["bribery ", "crime ", "exploitation ", "extortion ", "fraud ", "graft ", "malfeasance ", "nepotism "], "A": ["cleanliness ", "cleanness ", "decency ", "goodness ", "honesty ", "honor ", "kindness ", "pureness ", "purification ", "purity ", "sterility ", "truthfulness ", "wholesomeness "]}

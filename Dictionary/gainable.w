@@ -1,0 +1,1 @@
+{"index": 121009, "D": "to get (something desired), especially as a result of one's efforts", "S": [], "A": []}

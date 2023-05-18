@@ -1,0 +1,1 @@
+{"index": 116406, "D": "enforced or compulsory", "S": ["compelled ", "contrived ", "enforced ", "involuntary ", "mandatory ", "unwilling "], "A": ["voluntary "]}

@@ -1,0 +1,1 @@
+{"index": 333036, "D": "a tuft or clump of growing grass or the like.", "S": [], "A": []}

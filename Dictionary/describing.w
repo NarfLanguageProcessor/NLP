@@ -1,0 +1,1 @@
+{"index": 82439, "D": "to tell or depict in written or spoken words; give an account of", "S": ["definitive ", "detailed ", "eloquent ", "expressive ", "identifying ", "illuminating ", "pictorial ", "revealing ", "vivid "], "A": ["dull "]}

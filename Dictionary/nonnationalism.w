@@ -1,0 +1,1 @@
+{"index": 205424, "D": "spirit or aspirations common to the whole of a nation", "S": [], "A": []}

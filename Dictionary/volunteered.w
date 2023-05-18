@@ -1,0 +1,1 @@
+{"index": 361252, "D": "a person who voluntarily offers to perform a service or other undertaking.", "S": ["offered ", "proffered ", "tendered "], "A": []}

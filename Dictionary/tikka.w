@@ -1,0 +1,1 @@
+{"index": 323527, "D": "(of meat, esp chicken or lamb) marinated in spices then dry-roasted, usu. in a clay oven", "S": [], "A": []}

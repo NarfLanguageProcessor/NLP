@@ -1,0 +1,1 @@
+{"index": 11327, "D": "a direct-current generator with a rotating armature, capable of magnifying a small amount of power supplied to the field winding of the device and using the amplified power to operate an attached, direct-current motor.", "S": [], "A": []}

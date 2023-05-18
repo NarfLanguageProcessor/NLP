@@ -1,0 +1,1 @@
+{"index": 77499, "D": "the angle with the horizontal made by the outboard rise  of the bottom of a vessel at the widest frame.", "S": [], "A": []}

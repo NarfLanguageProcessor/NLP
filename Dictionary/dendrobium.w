@@ -1,0 +1,1 @@
+{"index": 81035, "D": "any of numerous epiphytic orchids of the genus Dendrobium, native to tropical and subtropical regions of the Eastern Hemisphere, having variously colored, often showy flowers.", "S": [], "A": []}

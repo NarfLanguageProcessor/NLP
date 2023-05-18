@@ -1,0 +1,1 @@
+{"index": 179898, "D": "a person who marches  on foot", "S": ["radical ", "rioter ", "striker "], "A": []}

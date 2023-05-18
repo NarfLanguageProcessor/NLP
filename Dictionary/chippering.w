@@ -1,0 +1,1 @@
+{"index": 54703, "D": "marked by or being in sprightly good humor and health.", "S": ["chip ", "chirp ", "chirrup ", "peep ", "tweedle ", "tweet ", "twitter "], "A": []}

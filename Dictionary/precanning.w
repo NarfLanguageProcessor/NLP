@@ -1,0 +1,1 @@
+{"index": 245921, "D": "the act, process, or business of preserving cooked food by sealing in cans  or jars.", "S": [], "A": []}

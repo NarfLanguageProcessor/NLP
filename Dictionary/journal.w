@@ -1,0 +1,1 @@
+{"index": 161874, "D": "a daily record, as of occurrences, experiences, or observations", "S": ["account ", "almanac ", "annals ", "calendar ", "daily ", "diary ", "gazette ", "magazine ", "memoir ", "monthly ", "newspaper ", "note ", "paper ", "periodical ", "publication ", "review ", "tabloid ", "weekly "], "A": []}

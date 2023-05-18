@@ -1,0 +1,1 @@
+{"index": 76990, "D": "(used euphemistically) damnedest. ", "S": [], "A": []}

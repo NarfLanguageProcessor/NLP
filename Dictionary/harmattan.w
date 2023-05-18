@@ -1,0 +1,1 @@
+{"index": 133812, "D": "(on the west coast of Africa) a dry, parching land breeze, charged with dust.", "S": ["sandstorm "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 59649, "D": "the act of clearing.", "S": ["approval ", "authorization ", "consent ", "go ahead ", "green light "], "A": ["denial ", "disapproval ", "opposition ", "refusal ", "veto "]}

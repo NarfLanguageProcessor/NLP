@@ -1,0 +1,1 @@
+{"index": 101993, "D": "the difference in days between a solar year and a lunar year.", "S": [], "A": []}

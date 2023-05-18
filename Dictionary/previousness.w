@@ -1,0 +1,1 @@
+{"index": 250213, "D": "coming or occurring before something else; prior", "S": ["antecedence ", "earliness ", "lead ", "precedency ", "precession ", "preeminence ", "preexistence ", "preference ", "primary ", "priority ", "rank ", "seniority ", "superiority ", "supremacy "], "A": ["subservience "]}

@@ -1,0 +1,1 @@
+{"index": 157733, "D": "comparative of young. ", "S": ["youthful "], "A": ["experienced ", "mature ", "old ", "older ", "shrinking ", "withering "]}

@@ -1,0 +1,1 @@
+{"index": 331759, "D": "a variant of czarism. ", "S": [], "A": []}

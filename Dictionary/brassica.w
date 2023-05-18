@@ -1,0 +1,1 @@
+{"index": 40026, "D": "any plant belonging to the genus Brassica, of the mustard family, including many economically important vegetables, as cabbage, kale, broccoli, cauliflower, turnip, and mustard.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 130897, "D": "a member of the political party in medieval Italy and Germany that supported the sovereignty of the papacy against the German emperors", "S": [], "A": []}

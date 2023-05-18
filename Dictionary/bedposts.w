@@ -1,0 +1,1 @@
+{"index": 30153, "D": "one of the upright supports of a bedstead.", "S": [], "A": []}

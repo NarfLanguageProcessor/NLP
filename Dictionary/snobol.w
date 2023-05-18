@@ -1,0 +1,1 @@
+{"index": 295651, "D": "String Oriented Symbolic Language", "S": [], "A": []}

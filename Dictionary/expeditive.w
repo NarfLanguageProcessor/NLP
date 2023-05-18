@@ -1,0 +1,1 @@
+{"index": 107665, "D": [], "S": ["agile ", "brisk ", "hot ", "nimble ", "quick ", "rapid ", "swift "], "A": ["clumsy ", "slow ", "dull "]}

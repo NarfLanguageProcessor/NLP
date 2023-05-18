@@ -1,0 +1,1 @@
+{"index": 88650, "D": "causing gloom or dejection; gloomy; dreary; cheerless; melancholy", "S": ["disturbingly ", "horribly ", "shockingly ", "terribly "], "A": []}

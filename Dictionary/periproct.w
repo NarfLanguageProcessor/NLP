@@ -1,0 +1,1 @@
+{"index": 231261, "D": "(in certain echinoids) that part of the body surface bordering the anus.", "S": [], "A": []}

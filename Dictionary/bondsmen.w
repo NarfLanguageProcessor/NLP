@@ -1,0 +1,1 @@
+{"index": 37828, "D": "a person who by bond becomes surety for another.", "S": ["bondswoman "], "A": []}

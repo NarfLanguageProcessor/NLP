@@ -1,0 +1,1 @@
+{"index": 247125, "D": "the state, condition, or quality of being predominant", "S": [], "A": []}

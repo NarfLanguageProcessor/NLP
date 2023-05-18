@@ -1,0 +1,1 @@
+{"index": 192259, "D": "living as a community in a single nest, as certain ant colonies.", "S": [], "A": []}

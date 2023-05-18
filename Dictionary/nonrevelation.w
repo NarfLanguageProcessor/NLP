@@ -1,0 +1,1 @@
+{"index": 206860, "D": "the act of revealing or disclosing; disclosure. ", "S": [], "A": []}

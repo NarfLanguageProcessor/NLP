@@ -1,0 +1,1 @@
+{"index": 259867, "D": "the part of a liquid, especially an oil, remaining after its more soluble components have been extracted by a solvent.", "S": [], "A": []}

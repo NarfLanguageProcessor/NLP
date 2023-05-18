@@ -1,0 +1,1 @@
+{"index": 361584, "D": "(of an animal or man) represented as wounded.", "S": [], "A": []}

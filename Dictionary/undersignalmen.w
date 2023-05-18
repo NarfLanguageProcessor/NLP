@@ -1,0 +1,1 @@
+{"index": 339819, "D": "a person whose occupation or duty is signaling,  as on a railroad or in the army.", "S": [], "A": []}

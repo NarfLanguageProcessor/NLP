@@ -1,0 +1,1 @@
+{"index": 368525, "D": "a compound tissue in vascular plants that helps provide support and that conducts water and nutrients upward from the roots, consisting of tracheids, vessels, parenchyma cells, and woody fibers.", "S": [], "A": []}

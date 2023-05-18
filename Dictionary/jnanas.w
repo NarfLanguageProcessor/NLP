@@ -1,0 +1,1 @@
+{"index": 161410, "D": "knowledge acquired through meditation and study as a means of reaching Brahman.", "S": [], "A": []}

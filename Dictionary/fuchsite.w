@@ -1,0 +1,1 @@
+{"index": 119736, "D": "a bright green variety of muscovite having chromium in place of some of the aluminum.", "S": [], "A": []}

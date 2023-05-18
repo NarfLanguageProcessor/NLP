@@ -1,0 +1,1 @@
+{"index": 200727, "D": "a difficult or intricate point, situation, plot, etc.", "S": [], "A": []}

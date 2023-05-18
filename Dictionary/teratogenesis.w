@@ -1,0 +1,1 @@
+{"index": 319201, "D": "the production or induction of malformations or monstrosities, especially of a developing embryo or fetus.", "S": [], "A": []}

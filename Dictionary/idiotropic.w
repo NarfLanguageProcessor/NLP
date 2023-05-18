@@ -1,0 +1,1 @@
+{"index": 146575, "D": "of or characterized by introspection; introspective. ", "S": [], "A": []}

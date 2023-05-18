@@ -1,0 +1,1 @@
+{"index": 190799, "D": "any of a group of medium-sized, RNA-containing viruses  having a helical envelope, infectious to humans and other animals and a cause of influenza.", "S": [], "A": []}

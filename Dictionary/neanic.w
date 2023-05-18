@@ -1,0 +1,1 @@
+{"index": 197589, "D": "of or relating to the early stages in the life cycle of an organism, esp the pupal stage of an insect", "S": [], "A": []}

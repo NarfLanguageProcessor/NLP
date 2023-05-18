@@ -1,0 +1,1 @@
+{"index": 1086, "D": "thought of apart from concrete realities, specific objects, or actual instances", "S": [], "A": []}

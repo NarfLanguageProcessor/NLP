@@ -1,0 +1,1 @@
+{"index": 188095, "D": "an instrument for recording the movements of the heart.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201237, "D": "an adjustment to a line; arrangement in a straight line.", "S": [], "A": []}

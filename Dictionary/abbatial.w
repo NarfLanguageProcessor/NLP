@@ -1,0 +1,1 @@
+{"index": 192, "D": "of or relating to an abbot, abbess,  or abbey. ", "S": [], "A": []}

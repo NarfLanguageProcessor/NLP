@@ -1,0 +1,1 @@
+{"index": 56936, "D": "a food pouch in front of the mouth in certain insects.", "S": [], "A": []}

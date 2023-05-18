@@ -1,0 +1,1 @@
+{"index": 221901, "D": "extremely or excessively excited or agitated", "S": ["frantic "], "A": ["calm ", "collected ", "cool ", "rested ", "unruffled "]}

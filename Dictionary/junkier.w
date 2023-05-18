@@ -1,0 +1,1 @@
+{"index": 162397, "D": "of the nature of junk;  trashy.", "S": ["atrocious ", "awful ", "cheap ", "crummy ", "dreadful ", "lousy ", "poor ", "rough ", "sad ", "unacceptable "], "A": ["OK ", "good ", "great ", "lucky ", "pleasing ", "sophisticated ", "superior ", "wonderful "]}

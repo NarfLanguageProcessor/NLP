@@ -1,0 +1,1 @@
+{"index": 30691, "D": "any tropical plant belonging to the genus Begonia, including species cultivated for the handsome, succulent leaves and waxy flowers.", "S": [], "A": []}

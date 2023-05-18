@@ -1,0 +1,1 @@
+{"index": 232696, "D": "any of numerous plants belonging to the genus Phacelia, of the waterleaf family, chiefly of the western U.S. and Mexico, having clusters of violet, blue, or white flowers.", "S": [], "A": []}

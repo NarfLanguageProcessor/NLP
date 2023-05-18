@@ -1,0 +1,1 @@
+{"index": 267499, "D": "a group of saddle horses from which ranch hands choose mounts for the day.", "S": [], "A": []}

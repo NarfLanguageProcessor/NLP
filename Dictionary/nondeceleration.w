@@ -1,0 +1,1 @@
+{"index": 202714, "D": "the fact of losing speed, or the act of reducing the speed of something", "S": [], "A": []}

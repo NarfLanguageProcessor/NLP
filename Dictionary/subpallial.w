@@ -1,0 +1,1 @@
+{"index": 308745, "D": "of or relating to the mantle of a mollusk.", "S": [], "A": []}

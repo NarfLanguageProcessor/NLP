@@ -1,0 +1,1 @@
+{"index": 46293, "D": "a game of solitaire often adapted to gambling purposes.", "S": [], "A": []}

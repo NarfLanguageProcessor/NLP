@@ -1,0 +1,1 @@
+{"index": 171664, "D": "a white, gelatinous, polysaccharide starch, (C6H10O5)n, obtained from various lichens. ", "S": [], "A": []}

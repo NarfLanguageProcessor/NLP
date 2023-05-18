@@ -1,0 +1,1 @@
+{"index": 156412, "D": "intransitive.", "S": [], "A": []}

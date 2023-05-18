@@ -1,0 +1,1 @@
+{"index": 122827, "D": "the leader or chief official of a political district under Nazi control.", "S": [], "A": []}

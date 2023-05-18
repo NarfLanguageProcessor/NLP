@@ -1,0 +1,1 @@
+{"index": 317641, "D": "pertaining to or characterized by cultural changes brought about by advances in technology, electronics, and communications", "S": [], "A": []}

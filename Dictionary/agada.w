@@ -1,0 +1,1 @@
+{"index": 5824, "D": "the nonlegal or narrative material, as parables, maxims, or anecdotes, in the Talmud and other rabbinical literature, serving either to illustrate the meaning or purpose of the law, custom, or Biblical passage being discussed or to introduce a different, unrelated topic.", "S": [], "A": []}

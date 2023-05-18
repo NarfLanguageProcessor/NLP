@@ -1,0 +1,1 @@
+{"index": 304909, "D": "the breeding  and raising of livestock for marketing or exhibition.", "S": [], "A": []}

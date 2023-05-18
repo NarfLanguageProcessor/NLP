@@ -1,0 +1,1 @@
+{"index": 310322, "D": "appropriate for or compatible with a particular person, task, occasion, etc.; fitted", "S": ["appropriate ", "satisfactory ", "suitable "], "A": ["improper ", "unacceptable ", "unfitting ", "unsuitable ", "inappropriate ", "incorrect "]}

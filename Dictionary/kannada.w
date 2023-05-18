@@ -1,0 +1,1 @@
+{"index": 163073, "D": "a Dravidian language spoken mainly in the state of Karnataka, in southwest India.", "S": [], "A": []}

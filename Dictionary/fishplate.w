@@ -1,0 +1,1 @@
+{"index": 113390, "D": "a metal or wooden plate or slab, bolted to each of two members that have been butted or lapped together.", "S": [], "A": []}

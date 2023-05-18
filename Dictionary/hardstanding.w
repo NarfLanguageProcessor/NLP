@@ -1,0 +1,1 @@
+{"index": 133702, "D": "a hard-surfaced area on which heavy vehicles or airplanes can be parked.", "S": [], "A": []}

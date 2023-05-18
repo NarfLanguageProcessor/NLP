@@ -1,0 +1,1 @@
+{"index": 15006, "D": "pertaining to or characteristic of a confederation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 22790, "D": "lack of tone; atony.", "S": [], "A": []}

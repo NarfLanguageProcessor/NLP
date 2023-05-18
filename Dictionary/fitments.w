@@ -1,0 +1,1 @@
+{"index": 113538, "D": "equipment; furnishing.", "S": [], "A": []}

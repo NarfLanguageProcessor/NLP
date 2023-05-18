@@ -1,0 +1,1 @@
+{"index": 120779, "D": "talkative; garrulous.", "S": ["chattering ", "chatty ", "effusive ", "garrulous ", "glib ", "gossiping ", "gushing ", "jabbering ", "long-winded ", "loose-lipped ", "loquacious ", "mouthy ", "prattling ", "prolix ", "talky ", "verbose ", "voluble ", "windy ", "wordy "], "A": ["close-mouthed ", "quiet ", "secretive "]}

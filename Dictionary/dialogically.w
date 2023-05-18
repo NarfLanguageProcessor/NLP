@@ -1,0 +1,1 @@
+{"index": 84285, "D": "of, relating to, or characterized by dialogue. ", "S": [], "A": []}

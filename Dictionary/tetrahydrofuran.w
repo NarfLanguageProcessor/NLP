@@ -1,0 +1,1 @@
+{"index": 320065, "D": "a clear liquid, C4H8O, soluble in water and organic solvents, used as a solvent for resins, in polymerizations and as a chemical intermediate.", "S": [], "A": []}

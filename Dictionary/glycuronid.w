@@ -1,0 +1,1 @@
+{"index": 126307, "D": "a glycoside that yields glucuronic acid upon hydrolysis.", "S": [], "A": []}

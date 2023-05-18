@@ -1,0 +1,1 @@
+{"index": 298304, "D": "a noosed rope with which to hobble an animal, especially a horse or cow.", "S": [], "A": []}

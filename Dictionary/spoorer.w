@@ -1,0 +1,1 @@
+{"index": 300911, "D": "a track or trail, especially that of a wild animal pursued as game.", "S": [], "A": []}

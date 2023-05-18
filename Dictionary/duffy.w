@@ -1,0 +1,1 @@
+{"index": 93888, "D": "Irish and Australian politician.", "S": [], "A": []}

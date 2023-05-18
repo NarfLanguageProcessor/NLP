@@ -1,0 +1,1 @@
+{"index": 322133, "D": "inflammation of the thyroid gland. ", "S": [], "A": []}

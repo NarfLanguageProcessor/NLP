@@ -1,0 +1,1 @@
+{"index": 74535, "D": "a common European bird, Cuculus canorus, of the family Cuculidae, noted for its characteristic call and its brood parasitism.", "S": [], "A": []}

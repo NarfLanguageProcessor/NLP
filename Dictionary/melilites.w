@@ -1,0 +1,1 @@
+{"index": 182860, "D": "a sorosilicate mineral group, consisting chiefly of sodium, calcium, and aluminum silicates, occurring in igneous rocks.", "S": [], "A": []}

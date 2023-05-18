@@ -1,0 +1,1 @@
+{"index": 154784, "D": "to cross  one with another; place across each other.", "S": ["divide ", "intersect "], "A": []}

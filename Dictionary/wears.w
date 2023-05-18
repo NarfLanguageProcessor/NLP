@@ -1,0 +1,1 @@
+{"index": 363570, "D": "to carry or have on the body or about the person as a covering, equipment, ornament, or the like", "S": ["wear and tear "], "A": ["building ", "construction ", "development ", "improvement ", "strengthening "]}

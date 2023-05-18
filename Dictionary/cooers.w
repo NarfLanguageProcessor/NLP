@@ -1,0 +1,1 @@
+{"index": 68212, "D": "to utter or imitate the soft, murmuring sound characteristic of doves.", "S": [], "A": []}

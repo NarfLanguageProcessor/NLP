@@ -1,0 +1,1 @@
+{"index": 233560, "D": "of, pertaining to, engaged in, or characterized by philanthropy;  benevolent", "S": ["altruistic ", "humanitarian ", "patriotic "], "A": ["misanthropic ", "miserly ", "stingy ", "uncharitable "]}

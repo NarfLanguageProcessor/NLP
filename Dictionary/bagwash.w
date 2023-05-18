@@ -1,0 +1,1 @@
+{"index": 26363, "D": "a laundry that washes clothes without drying or pressing them", "S": [], "A": []}

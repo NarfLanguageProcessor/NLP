@@ -1,0 +1,1 @@
+{"index": 366992, "D": "potential or actual power  from the endeavors of women", "S": [], "A": []}

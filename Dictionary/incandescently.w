@@ -1,0 +1,1 @@
+{"index": 149656, "D": "(of light) produced by incandescence. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 125170, "D": "government by women.", "S": [], "A": []}

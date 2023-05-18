@@ -1,0 +1,1 @@
+{"index": 136175, "D": "a hydrate  in which there are two molecules of the compound for each molecule of water.", "S": [], "A": []}

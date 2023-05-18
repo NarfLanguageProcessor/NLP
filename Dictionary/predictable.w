@@ -1,0 +1,1 @@
+{"index": 246930, "D": "able to be foretold or declared in advance", "S": ["certain "], "A": ["improbable ", "unexpected ", "unforeseen ", "unpredictable "]}

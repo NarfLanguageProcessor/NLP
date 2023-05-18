@@ -1,0 +1,1 @@
+{"index": 154644, "D": "an advanced state of human society, in which a high level of culture, science, industry, and government has been reached.", "S": [], "A": []}

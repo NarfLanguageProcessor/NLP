@@ -1,0 +1,1 @@
+{"index": 173439, "D": "a crystalline, basic, amino acid, H2N(CH2)4CH(NH2)COOH, produced chiefly from many proteins by hydrolysis, essential in the nutrition of humans and animals. Abbreviation", "S": [], "A": []}

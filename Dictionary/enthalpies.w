@@ -1,0 +1,1 @@
+{"index": 101375, "D": "a quantity associated with a thermodynamic system, expressed as the internal energy of a system plus the product of the pressure and volume of the system, having the property that during an isobaric process, the change in the quantity is equal to the heat transferred during the process. Symbol", "S": [], "A": []}

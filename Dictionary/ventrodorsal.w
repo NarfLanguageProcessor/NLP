@@ -1,0 +1,1 @@
+{"index": 358247, "D": "pertaining to the ventral and dorsal  aspects of the body; extending from the ventral to the dorsal  side.", "S": [], "A": []}

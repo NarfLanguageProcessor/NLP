@@ -1,0 +1,1 @@
+{"index": 93382, "D": "an instrument similar to a radiosonde  that is attached to a parachute and released from an aircraft.", "S": [], "A": []}

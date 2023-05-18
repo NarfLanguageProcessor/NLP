@@ -1,0 +1,1 @@
+{"index": 288786, "D": "to hit, wound, damage, kill, or destroy with a missile discharged from a weapon.", "S": ["firing ", "gunfire "], "A": []}

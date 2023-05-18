@@ -1,0 +1,1 @@
+{"index": 6252, "D": "a noncarbohydrate group, usually an alcohol or phenol, combined with a sugar to form a glycoside.", "S": [], "A": []}

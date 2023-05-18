@@ -1,0 +1,1 @@
+{"index": 74664, "D": "a hardened leather piece for protecting the breast, worn over mail.", "S": [], "A": []}

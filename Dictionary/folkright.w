@@ -1,0 +1,1 @@
+{"index": 115943, "D": "a law or right of the people as opposed to that of the privileged classes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 358458, "D": "either of two pigments, consisting usually of carbonate of copper prepared by grinding either azurite (blue verditer ) or malachite (green verditer ).", "S": [], "A": []}

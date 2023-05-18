@@ -1,0 +1,1 @@
+{"index": 210030, "D": "to mark (a word or passage) with an obelus.", "S": [], "A": []}

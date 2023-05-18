@@ -1,0 +1,1 @@
+{"index": 67768, "D": "the act of contributing. ", "S": [], "A": []}

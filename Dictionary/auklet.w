@@ -1,0 +1,1 @@
+{"index": 23424, "D": "any of several small auks  of the coasts of the North Pacific, as Aethia cristatella(crested auklet ), having a crest of recurved plumes.", "S": [], "A": []}

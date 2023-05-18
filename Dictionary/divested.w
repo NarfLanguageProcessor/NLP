@@ -1,0 +1,1 @@
+{"index": 90304, "D": "to strip of clothing, ornament, etc.", "S": ["bald ", "exposed ", "naked ", "uncovered "], "A": ["clothed ", "covered ", "robed "]}

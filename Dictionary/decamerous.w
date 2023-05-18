@@ -1,0 +1,1 @@
+{"index": 77980, "D": "consisting of ten parts or divisions.", "S": [], "A": []}

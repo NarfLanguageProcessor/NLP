@@ -1,0 +1,1 @@
+{"index": 248725, "D": "a package assembled by a manufacturer, distributor, or retailer and containing a specific number of items or a specific assortment of sizes, colors, flavors, etc., of a product.", "S": [], "A": []}

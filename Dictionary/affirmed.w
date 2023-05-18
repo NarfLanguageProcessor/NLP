@@ -1,0 +1,1 @@
+{"index": 5402, "D": "positively stated or asserted, often in a formal way", "S": ["accepted ", "allowed ", "authorized ", "backed ", "endorsed ", "passed ", "permitted ", "ratified ", "recognized ", "sanctioned ", "supported "], "A": ["disapproved ", "refused ", "uncertain "]}

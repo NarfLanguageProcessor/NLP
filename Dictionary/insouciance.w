@@ -1,0 +1,1 @@
+{"index": 153738, "D": "the quality of being insouciant;  lack of care or concern; indifference.", "S": ["indifference ", "insensitivity ", "lethargy "], "A": ["interest "]}

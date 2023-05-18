@@ -1,0 +1,1 @@
+{"index": 193539, "D": "a portion of horseradish or other bitter herb that is eaten at the Seder meal on Passover.", "S": [], "A": []}

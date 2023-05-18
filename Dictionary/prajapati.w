@@ -1,0 +1,1 @@
+{"index": 245274, "D": "a Vedic god personifying a creative force that evolves all things from itself.", "S": [], "A": []}

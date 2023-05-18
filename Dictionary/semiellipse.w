@@ -1,0 +1,1 @@
+{"index": 284147, "D": "a half ellipse,  usually one containing both ends of the major axis.", "S": [], "A": []}

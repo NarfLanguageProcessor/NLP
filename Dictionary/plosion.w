@@ -1,0 +1,1 @@
+{"index": 240199, "D": "the forced release of the occlusive phase of a plosive,  whether voiceless or voiced, either audible due to frication or inaudible due to a contiguous following consonant.", "S": [], "A": []}

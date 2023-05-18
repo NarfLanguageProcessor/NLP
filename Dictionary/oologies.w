@@ -1,0 +1,1 @@
+{"index": 213038, "D": "the branch of ornithology that studies birds' eggs.", "S": [], "A": []}

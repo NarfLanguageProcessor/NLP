@@ -1,0 +1,1 @@
+{"index": 260773, "D": "an establishment or reestablishment of harmonious relations", "S": ["conciliation ", "d\u00e9tente ", "friendship ", "harmonization ", "harmony ", "reconciliation "], "A": ["aloofness "]}

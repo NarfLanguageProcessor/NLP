@@ -1,0 +1,1 @@
+{"index": 209369, "D": "any of the class of enzymes that catalyze the hydrolysis of nucleosides. ", "S": [], "A": []}

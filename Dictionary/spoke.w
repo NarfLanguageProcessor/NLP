@@ -1,0 +1,1 @@
+{"index": 300662, "D": "a simple past tense of speak. ", "S": ["batten ", "billet ", "boom ", "crossbar ", "crosspiece ", "ingot ", "lever ", "paling ", "pig ", "pole ", "rail ", "rib ", "rule ", "shaft ", "slab ", "spar ", "stake ", "stick ", "streak ", "strip ", "stripe ", "stroke "], "A": ["failure ", "loss ", "whole "]}

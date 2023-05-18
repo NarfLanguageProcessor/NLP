@@ -1,0 +1,1 @@
+{"index": 40641, "D": "a newly married man or a man about to be married.", "S": ["benedict ", "groom ", "helpmate ", "husband ", "mate ", "newlywed ", "spouse "], "A": ["bride "]}

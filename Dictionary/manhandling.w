@@ -1,0 +1,1 @@
+{"index": 179209, "D": "to handle roughly.", "S": ["crime ", "damage ", "harm ", "injury ", "maltreatment ", "misdeed ", "offense ", "pollution ", "violation ", "wrongdoing "], "A": ["advantage ", "benefit ", "blessing ", "favor ", "good ", "good deed ", "kindness ", "obedience ", "pleasure "]}

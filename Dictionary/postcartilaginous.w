@@ -1,0 +1,1 @@
+{"index": 243969, "D": "of or resembling cartilage. ", "S": [], "A": []}

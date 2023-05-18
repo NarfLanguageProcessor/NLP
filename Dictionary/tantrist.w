@@ -1,0 +1,1 @@
+{"index": 316260, "D": "an adherent of Tantra.", "S": [], "A": []}

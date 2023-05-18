@@ -1,0 +1,1 @@
+{"index": 96698, "D": "any of several women in Arthurian romance, as the daughter of King Pelles and the mother, by Lancelot, of Sir Galahad.", "S": [], "A": []}

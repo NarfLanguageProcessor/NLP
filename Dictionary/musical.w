@@ -1,0 +1,1 @@
+{"index": 195983, "D": "of, relating to, or producing music", "S": ["choral ", "melodic ", "operatic ", "rhythmic ", "symphonic ", "vocal "], "A": ["discordant "]}

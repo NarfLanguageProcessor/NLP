@@ -1,0 +1,1 @@
+{"index": 134608, "D": "a structure supporting the hoisting sheaves at the top of a mine shaft.", "S": [], "A": []}

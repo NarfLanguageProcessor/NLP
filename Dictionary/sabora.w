@@ -1,0 +1,1 @@
+{"index": 276095, "D": "one of a group of Jewish scholars, active in the rabbinical academies of Babylonia during the 6th century a.d., whose editing of the work of the Babylonian amoraim constituted the final stage in the preparation of the Babylonian Gemara.", "S": [], "A": []}

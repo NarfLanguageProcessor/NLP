@@ -1,0 +1,1 @@
+{"index": 172501, "D": "a clear yellowish, slightly alkaline, coagulable fluid, containing white blood cells in a liquid resembling blood plasma, that is derived from the tissues of the body and conveyed to the bloodstream by the lymphatic  vessels.", "S": [], "A": []}

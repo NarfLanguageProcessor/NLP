@@ -1,0 +1,1 @@
+{"index": 169259, "D": "an ornamental pendant, usually jeweled, worn on a chain around the neck.", "S": ["bracelet ", "cable "], "A": []}

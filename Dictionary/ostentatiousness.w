@@ -1,0 +1,1 @@
+{"index": 215557, "D": "characterized by or given to pretentious or conspicuous show in an attempt to impress others", "S": ["act ", "array ", "demonstration ", "example ", "exhibit ", "parade ", "presentation "], "A": ["concealment ", "hiding ", "dullness ", "modesty ", "plainness ", "simplicity "]}

@@ -1,0 +1,1 @@
+{"index": 117613, "D": "the magnesium end member, Mg2SiO4, of the olivine group.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332287, "D": "one of the carts used during the French Revolution to convey victims to the guillotine.", "S": ["rickshaw ", "truck ", "wagon "], "A": []}

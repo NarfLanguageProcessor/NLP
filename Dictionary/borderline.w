@@ -1,0 +1,1 @@
+{"index": 38384, "D": "on or near a border  or boundary.", "S": ["marginal "], "A": ["certain ", "definite ", "exact ", "sure "]}

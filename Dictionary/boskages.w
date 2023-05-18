@@ -1,0 +1,1 @@
+{"index": 38574, "D": "a mass of trees or shrubs; wood, grove, or thicket.", "S": ["thicket "], "A": []}

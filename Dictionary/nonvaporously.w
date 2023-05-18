@@ -1,0 +1,1 @@
+{"index": 208180, "D": "having the form or characteristics of vapor", "S": [], "A": []}

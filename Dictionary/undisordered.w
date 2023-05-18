@@ -1,0 +1,1 @@
+{"index": 340547, "D": "lacking organization or in confusion; disarranged.", "S": [], "A": []}

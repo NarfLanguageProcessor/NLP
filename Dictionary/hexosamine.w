@@ -1,0 +1,1 @@
+{"index": 138105, "D": "any hexose  derivative in which a hydroxyl group is replaced by an amino group.", "S": [], "A": []}

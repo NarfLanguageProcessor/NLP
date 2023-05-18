@@ -1,0 +1,1 @@
+{"index": 25339, "D": "a group of islands in the N Atlantic, W of Portugal", "S": [], "A": []}

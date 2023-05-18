@@ -1,0 +1,1 @@
+{"index": 69434, "D": "Spanish explorer in North America.", "S": [], "A": []}

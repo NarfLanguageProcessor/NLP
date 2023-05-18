@@ -1,0 +1,1 @@
+{"index": 241452, "D": "a three-masted sailing vessel used in the Mediterranean", "S": [], "A": []}

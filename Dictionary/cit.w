@@ -1,0 +1,1 @@
+{"index": 58590, "D": "pure consciousness.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 295150, "D": "Scot a variant of smir", "S": [], "A": []}

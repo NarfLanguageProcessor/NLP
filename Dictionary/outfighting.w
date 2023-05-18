@@ -1,0 +1,1 @@
+{"index": 216605, "D": "fighting at a distance and not at close range", "S": [], "A": []}

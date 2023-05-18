@@ -1,0 +1,1 @@
+{"index": 304040, "D": "a person, substance, or device that sterilizes", "S": ["disinfectant ", "preservative "], "A": []}

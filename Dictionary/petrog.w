@@ -1,0 +1,1 @@
+{"index": 232494, "D": "petrography.", "S": [], "A": []}

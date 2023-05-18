@@ -1,0 +1,1 @@
+{"index": 287798, "D": "a dog  trained to herd and guard sheep. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 178591, "D": "an artificial mixture of chalk and clay for making into bricks.", "S": [], "A": []}

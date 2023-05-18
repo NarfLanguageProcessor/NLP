@@ -1,0 +1,1 @@
+{"index": 232360, "D": "a broad-brimmed hat worn by ancient Greek travelers and hunters, often represented in art as a winged hat worn by Hermes or Mercury.", "S": [], "A": []}

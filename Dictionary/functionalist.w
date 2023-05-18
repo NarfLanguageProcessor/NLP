@@ -1,0 +1,1 @@
+{"index": 120131, "D": "a person who advocates, or works according to, the principles of functionalism. ", "S": [], "A": []}

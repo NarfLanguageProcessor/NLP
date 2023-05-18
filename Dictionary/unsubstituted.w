@@ -1,0 +1,1 @@
+{"index": 352288, "D": "a person or thing acting or serving in place of another.", "S": [], "A": []}

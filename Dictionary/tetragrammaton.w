@@ -1,0 +1,1 @@
+{"index": 320045, "D": "the Hebrew word for God, consisting of the four letters yod, he, waw, and he, transliterated consonantally usually as YHWH, now pronounced as Adonai or Elohim in substitution for the original pronunciation forbidden since the 2nd or 3rd century b.c.", "S": [], "A": []}

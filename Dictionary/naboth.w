@@ -1,0 +1,1 @@
+{"index": 196442, "D": "the owner of a vineyard coveted by Ahab, slain by the scheming of Jezebel so that Ahab could secure the vineyard. 1 Kings 21.", "S": [], "A": []}

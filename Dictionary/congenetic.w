@@ -1,0 +1,1 @@
+{"index": 66151, "D": "alike in origin.", "S": [], "A": []}

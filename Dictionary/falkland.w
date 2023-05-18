@@ -1,0 +1,1 @@
+{"index": 109466, "D": "a self-governing British colony also claimed by Argentina", "S": [], "A": []}

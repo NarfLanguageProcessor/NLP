@@ -1,0 +1,1 @@
+{"index": 321119, "D": "of, relating to, or consisting in theory;  not practical (distinguished from applied).", "S": ["abstract ", "academic ", "analytical ", "imaginative ", "intellectual ", "logical ", "metaphysical ", "philosophical ", "speculative ", "vague "], "A": ["concrete ", "ignorant ", "illogical ", "material ", "objective ", "physical ", "real ", "simple "]}

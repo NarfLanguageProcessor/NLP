@@ -1,0 +1,1 @@
+{"index": 56281, "D": "the difference in color quality between a color and a reference color that has an equal brightness and a specified chromaticity.", "S": [], "A": []}

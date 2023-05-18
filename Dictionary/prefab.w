@@ -1,0 +1,1 @@
+{"index": 247472, "D": "prefabricated. ", "S": ["billet ", "bivouac ", "camp ", "cantonment ", "dormitory ", "encampment ", "enclosure ", "garrison ", "headquarters ", "hut ", "quarters ", "tent "], "A": []}

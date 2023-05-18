@@ -1,0 +1,1 @@
+{"index": 173795, "D": "the pulverization and removal of urinary calculi using a lithotripter.", "S": [], "A": []}

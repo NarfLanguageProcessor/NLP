@@ -1,0 +1,1 @@
+{"index": 278021, "D": "(in the French Revolution) a revolutionary of the poorer class", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133615, "D": "embroidery openwork having elaborate symmetrical designs created by blocks of satin stitches within which threads of the embroidery fabric are removed.", "S": [], "A": []}

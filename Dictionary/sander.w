@@ -1,0 +1,1 @@
+{"index": 277753, "D": "a person or thing that sands  or sandpapers.", "S": ["camel ", "cream ", "khaki ", "off-white ", "tan ", "taupe "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 283789, "D": "partially self-governing, especially with reference to internal affairs.", "S": [], "A": []}

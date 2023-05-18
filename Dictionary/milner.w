@@ -1,0 +1,1 @@
+{"index": 187497, "D": "British statesman and colonial administrator.", "S": [], "A": []}

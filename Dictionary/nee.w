@@ -1,0 +1,1 @@
+{"index": 197907, "D": "formerly known as (used following the person\u2019s current or recognized name to introduce a previous, usually feminine, name)", "S": [], "A": []}

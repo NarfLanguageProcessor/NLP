@@ -1,0 +1,1 @@
+{"index": 73558, "D": "needlework done with a needle having a small hook at one end for drawing the thread or yarn through intertwined loops.", "S": ["darning ", "embroidery ", "knitting ", "lace ", "quilting ", "sewing ", "stitchery ", "stitching ", "tatting "], "A": []}

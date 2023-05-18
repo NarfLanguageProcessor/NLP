@@ -1,0 +1,1 @@
+{"index": 146278, "D": "rhythmical or metrical stress.", "S": [], "A": []}

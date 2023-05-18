@@ -1,0 +1,1 @@
+{"index": 221188, "D": "moving or proceeding with little or less than usual speed or velocity", "S": [], "A": []}

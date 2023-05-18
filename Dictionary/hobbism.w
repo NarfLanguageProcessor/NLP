@@ -1,0 +1,1 @@
+{"index": 142097, "D": "the doctrines of, or those attributed to, Hobbes,  especially the doctrine of absolute submission to a royal sovereign in order to avoid the anarchic disorder resulting from the uncontrolled competition of individual interests.", "S": [], "A": []}

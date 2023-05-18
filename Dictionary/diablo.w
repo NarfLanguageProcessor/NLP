@@ -1,0 +1,1 @@
+{"index": 83979, "D": "Spanish for \u201cdevil.\u201d", "S": ["Beelzebub ", "Lucifer ", "Mephistopheles ", "Satan ", "adversary ", "dastard ", "djinn ", "fiend ", "genie ", "hellion ", "imp ", "monster ", "ogre ", "rogue ", "villain "], "A": ["angel ", "god "]}

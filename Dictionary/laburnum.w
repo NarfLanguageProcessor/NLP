@@ -1,0 +1,1 @@
+{"index": 166812, "D": "any of several small trees belonging to the genus Laburnum, of the legume family, having elongated clusters of pendulous yellow flowers, especially L. alpinum, the Scotch laburnum.", "S": [], "A": []}

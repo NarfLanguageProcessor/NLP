@@ -1,0 +1,1 @@
+{"index": 246762, "D": "the base of an altarpiece, often decorated with small paintings or reliefs.", "S": [], "A": []}

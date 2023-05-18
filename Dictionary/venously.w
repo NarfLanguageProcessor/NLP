@@ -1,0 +1,1 @@
+{"index": 358144, "D": "of, relating to, or of the nature of a vein. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 350412, "D": "not savory;  tasteless or insipid", "S": ["distasteful ", "nasty ", "objectionable ", "obnoxious ", "shady ", "unappetizing ", "unpalatable ", "unpleasant "], "A": ["agreeable ", "appetizing ", "delicious ", "delightful ", "good ", "great ", "kind ", "nice ", "palatable ", "pleasant ", "pleasing ", "tasty ", "wonderful "]}

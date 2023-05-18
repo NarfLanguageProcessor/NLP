@@ -1,0 +1,1 @@
+{"index": 171997, "D": "the territory subject to a sovereign or liege  lord.", "S": [], "A": []}

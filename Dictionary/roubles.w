@@ -1,0 +1,1 @@
+{"index": 274731, "D": "a silver or copper-alloy coin and monetary unit of Russia, the Soviet Union, and its successor states, equal to 100 kopecks.", "S": [], "A": []}

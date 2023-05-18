@@ -1,0 +1,1 @@
+{"index": 84951, "D": "a brand name for a dictating machine.", "S": [], "A": []}

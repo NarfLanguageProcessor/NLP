@@ -1,0 +1,1 @@
+{"index": 87427, "D": "to change or spoil the color of; fade or stain.", "S": ["checkered ", "flecked ", "motley ", "parti-colored ", "speckled ", "spotted ", "stippled ", "variegated "], "A": ["uncolored ", "unspotted "]}

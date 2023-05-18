@@ -1,0 +1,1 @@
+{"index": 181998, "D": "a plural of medium. ", "S": [], "A": []}

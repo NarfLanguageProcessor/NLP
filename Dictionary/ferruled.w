@@ -1,0 +1,1 @@
+{"index": 111577, "D": "a ring or cap, usually of metal, put around the end of a post, cane, or the like, to prevent splitting.", "S": ["bash ", "beat ", "lash ", "spank ", "thrash "], "A": []}

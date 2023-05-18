@@ -1,0 +1,1 @@
+{"index": 297570, "D": "a group of algal cells surrounded by hyphal tissue, occurring on the surface of the thallus and functioning in vegetative reproduction.", "S": [], "A": []}

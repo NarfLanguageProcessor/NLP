@@ -1,0 +1,1 @@
+{"index": 89193, "D": "the act of disproving. ", "S": ["disapproval ", "rebuttal ", "rejection ", "repudiation ", "retraction ", "veto "], "A": ["allowance ", "approval ", "confirmation ", "ratification ", "sanction ", "agreement ", "permission "]}

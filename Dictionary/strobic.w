@@ -1,0 +1,1 @@
+{"index": 306415, "D": "spinning or appearing to spin", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 228597, "D": "somewhat hungry", "S": ["cantankerous ", "crabby ", "cranky ", "crotchety ", "fiery ", "grouchy ", "hot-blooded ", "hot-tempered ", "ill-tempered ", "impatient ", "irascible ", "irritable ", "quick-tempered ", "short-fused ", "snappish ", "snappy ", "temperamental ", "testy ", "touchy ", "volatile "], "A": ["calm ", "easygoing ", "placid "]}

@@ -1,0 +1,1 @@
+{"index": 158210, "D": "a region that is under the political jurisdiction of one nation but is related to another by reason of cultural, historical, and ethnic ties.", "S": [], "A": []}

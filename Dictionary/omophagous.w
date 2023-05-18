@@ -1,0 +1,1 @@
+{"index": 212602, "D": "the eating of raw food, especially raw meat.", "S": ["cannibalistic ", "flesh-eating ", "predacious "], "A": []}

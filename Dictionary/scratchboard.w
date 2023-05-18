@@ -1,0 +1,1 @@
+{"index": 281614, "D": "a cardboard coated with impermeable white clay and covered by a layer of ink that is scratched  or scraped in patterns revealing the white surface below.", "S": [], "A": []}

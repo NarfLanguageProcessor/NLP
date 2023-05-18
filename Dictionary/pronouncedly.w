@@ -1,0 +1,1 @@
+{"index": 252438, "D": "strongly marked", "S": [], "A": []}

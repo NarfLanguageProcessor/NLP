@@ -1,0 +1,1 @@
+{"index": 113316, "D": "any of various cold-blooded, aquatic vertebrates, having gills, commonly fins, and typically an elongated body covered with scales.", "S": ["angle ", "bait ", "bob ", "cast ", "chum ", "extract ", "extricate ", "find ", "net ", "produce ", "seine ", "trawl ", "troll "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 223886, "D": [], "S": ["cancel ", "dismiss ", "suspend ", "withdraw "], "A": ["allow ", "permit ", "approve ", "emphasize ", "enforce ", "keep ", "pass ", "sanction ", "validate "]}

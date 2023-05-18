@@ -1,0 +1,1 @@
+{"index": 120872, "D": "mechanical or electronic contrivances; gadgets", "S": ["instrumentation "], "A": []}

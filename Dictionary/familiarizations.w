@@ -1,0 +1,1 @@
+{"index": 109606, "D": "to make (onself or another person) well-acquainted or conversant with something.", "S": ["acclimatization ", "agreement ", "compliance ", "correspondence ", "habituation ", "naturalization "], "A": ["disagreement "]}

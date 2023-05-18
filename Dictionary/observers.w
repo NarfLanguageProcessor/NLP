@@ -1,0 +1,1 @@
+{"index": 210404, "D": "someone or something that observes.", "S": ["assemblage ", "assembly ", "audience ", "company ", "congregation ", "crowd ", "draw ", "gate ", "gathering ", "gross ", "house ", "onlookers ", "patrons ", "public ", "spectators ", "turnout ", "witnesses "], "A": []}

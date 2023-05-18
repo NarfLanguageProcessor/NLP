@@ -1,0 +1,1 @@
+{"index": 200943, "D": "a prefix meaning \u201cnot,\u201d freely used as an English formative, usually with a simple negative force as implying mere negation or absence of something (rather than the opposite or reverse of it, as often expressed by un-1)", "S": [], "A": []}

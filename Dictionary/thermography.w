@@ -1,0 +1,1 @@
+{"index": 321422, "D": "a technique for imitating an embossed appearance, as on business cards, stationery, or the like, by dusting printed areas with a powder that adheres only to the wet ink, and fusing the ink and powder to the paper by heat.", "S": [], "A": []}

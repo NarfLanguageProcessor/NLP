@@ -1,0 +1,1 @@
+{"index": 51299, "D": "any of several four-footed, herbivorous dinosaurs of the suborder Ceratopsia, of the late Cretaceous Period,  having an enlarged skull with a beak, a large perforated frill at the back, and, in some species, one or three horns.", "S": [], "A": []}

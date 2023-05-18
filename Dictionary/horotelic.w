@@ -1,0 +1,1 @@
+{"index": 143945, "D": "of or relating to evolution at a rate standard for a given group of plants or animals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 11036, "D": "a joint permitting only slight motion, as that between the vertebrae.", "S": [], "A": []}

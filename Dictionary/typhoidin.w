@@ -1,0 +1,1 @@
+{"index": 324255, "D": "a culture of dead typhoid  bacilli used by cutaneous inoculation to detect the presence of a typhoid  infection.", "S": [], "A": []}

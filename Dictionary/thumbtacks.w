@@ -1,0 +1,1 @@
+{"index": 322984, "D": "a tack  with a large, flat head, designed to be thrust into a board or other fairly soft object or surface by the pressure of the thumb. ", "S": ["drawing pin ", "fastener ", "tack ", "thumb tack "], "A": []}

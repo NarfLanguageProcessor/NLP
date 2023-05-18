@@ -1,0 +1,1 @@
+{"index": 204301, "D": "a sugar, C6H12O6, having several optically different forms, the common dextrorotatory form (dextroglucose,  or d-glucose ) occurring in many fruits, animal tissues and fluids, etc., and having a sweetness about one half that of ordinary sugar, and the rare levorotatory form (levoglucose,  or l-glucose ) not naturally occurring.", "S": [], "A": []}

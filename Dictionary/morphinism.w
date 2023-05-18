@@ -1,0 +1,1 @@
+{"index": 193576, "D": "morphine addiction", "S": [], "A": []}

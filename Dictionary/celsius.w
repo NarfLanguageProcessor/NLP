@@ -1,0 +1,1 @@
+{"index": 50643, "D": "Swedish astronomer who devised the Celsius temperature scale.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 177686, "D": "the Muslim messiah, an expected spiritual and temporal ruler destined to establish a reign of righteousness throughout the world.", "S": [], "A": []}

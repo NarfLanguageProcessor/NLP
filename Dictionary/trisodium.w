@@ -1,0 +1,1 @@
+{"index": 330596, "D": "pertaining to molecules containing three sodium  atoms.", "S": [], "A": []}

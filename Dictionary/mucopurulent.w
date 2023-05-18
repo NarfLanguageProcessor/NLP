@@ -1,0 +1,1 @@
+{"index": 194603, "D": "containing or composed of mucus and pus.", "S": [], "A": []}

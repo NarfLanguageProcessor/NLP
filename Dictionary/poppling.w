@@ -1,0 +1,1 @@
+{"index": 243291, "D": "to move in a tumbling, irregular manner, as boiling water.", "S": [], "A": []}

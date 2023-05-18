@@ -1,0 +1,1 @@
+{"index": 112943, "D": "(of a violin, cello, etc.) the strip of wood on the neck against which the strings are stopped by the fingers. ", "S": [], "A": []}

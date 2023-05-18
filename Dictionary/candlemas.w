@@ -1,0 +1,1 @@
+{"index": 46214, "D": "a church festival, February 2, in honor of the presentation of the infant Jesus in the Temple and the purification of the Virgin Mary", "S": [], "A": []}

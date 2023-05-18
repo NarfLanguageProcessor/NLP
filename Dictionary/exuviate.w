@@ -1,0 +1,1 @@
+{"index": 108853, "D": "to cast off or shed (exuviae); molt.", "S": ["molt ", "peel "], "A": []}

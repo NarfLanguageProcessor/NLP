@@ -1,0 +1,1 @@
+{"index": 89557, "D": "the act of making or becoming unlike.", "S": ["attitude ", "performance ", "show "], "A": ["reality "]}

@@ -1,0 +1,1 @@
+{"index": 268285, "D": "the condition of being abundantly supplied or filled; fullness.", "S": ["engorgement ", "feeding ", "filling ", "glut ", "gratification ", "indulgence ", "satiety ", "saturation ", "surfeit "], "A": ["lack ", "need ", "want "]}

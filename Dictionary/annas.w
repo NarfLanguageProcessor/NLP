@@ -1,0 +1,1 @@
+{"index": 13483, "D": "a former cupronickel coin of Pakistan, the 16th part of a rupee", "S": [], "A": []}

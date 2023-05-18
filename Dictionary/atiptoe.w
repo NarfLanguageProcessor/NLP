@@ -1,0 +1,1 @@
+{"index": 22649, "D": "standing or walking on tiptoe  (usually used predicatively).", "S": [], "A": []}

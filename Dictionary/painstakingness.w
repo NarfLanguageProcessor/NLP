@@ -1,0 +1,1 @@
+{"index": 223166, "D": "taking  or characterized by taking pains  or trouble; expending or showing diligent care and effort; careful", "S": ["attentiveness ", "care ", "conscientiousness ", "fastidiousness ", "meticulousness ", "punctiliousness ", "scrupulousness "], "A": ["negligence "]}

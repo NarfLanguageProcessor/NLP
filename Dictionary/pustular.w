@@ -1,0 +1,1 @@
+{"index": 257247, "D": "of, relating to, or of the nature of pustules.", "S": ["corrupt ", "disgusting ", "moldy ", "noxious ", "overripe ", "putrid ", "rancid ", "rotting ", "sour ", "spoiled ", "stale "], "A": ["fresh ", "good ", "helpful ", "perfumed ", "pleasant ", "pure ", "sweet ", "wholesome "]}

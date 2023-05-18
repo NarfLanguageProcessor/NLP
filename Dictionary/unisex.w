@@ -1,0 +1,1 @@
+{"index": 345006, "D": "of, designed, or suitable for any gender", "S": ["agamous ", "castrated ", "neuter "], "A": []}

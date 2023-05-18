@@ -1,0 +1,1 @@
+{"index": 151500, "D": "not egalitarian;  lacking in or disdaining equality.", "S": [], "A": []}

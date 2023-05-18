@@ -1,0 +1,1 @@
+{"index": 132903, "D": "a dryad who is the spirit of a particular tree.", "S": [], "A": []}

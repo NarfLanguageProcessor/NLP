@@ -1,0 +1,1 @@
+{"index": 183498, "D": "a person who believes in or advocates mentalism.", "S": ["augur ", "channeller ", "clairvoyant ", "diviner ", "fortune-teller ", "haruspex ", "horoscopist ", "medium ", "mental telepathist ", "oracle ", "palm reader ", "prophet ", "psychic ", "seer ", "soothsayer ", "telepathis ", "telepathist ", "thought reader "], "A": []}

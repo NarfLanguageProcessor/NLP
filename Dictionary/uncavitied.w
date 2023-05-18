@@ -1,0 +1,1 @@
+{"index": 336616, "D": "any hollow place; hollow.", "S": [], "A": []}

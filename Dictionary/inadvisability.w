@@ -1,0 +1,1 @@
+{"index": 149398, "D": "not advisable;  inexpedient; unwise.", "S": ["absurdity ", "craziness ", "foolishness ", "idiocy ", "indiscretion ", "lunacy ", "madness ", "recklessness ", "silliness ", "stupidity "], "A": ["care ", "carefulness ", "intelligence ", "sense "]}

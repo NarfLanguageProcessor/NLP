@@ -1,0 +1,1 @@
+{"index": 155695, "D": "the exertion of force upon a surface by an object, fluid, etc., in contact with it", "S": [], "A": []}

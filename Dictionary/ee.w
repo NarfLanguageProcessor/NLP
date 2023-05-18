@@ -1,0 +1,1 @@
+{"index": 95882, "D": "a proportional shoe width size narrower than EEE and wider than E.", "S": [], "A": []}

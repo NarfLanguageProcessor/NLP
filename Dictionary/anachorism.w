@@ -1,0 +1,1 @@
+{"index": 11523, "D": "Compare anachronism", "S": [], "A": []}

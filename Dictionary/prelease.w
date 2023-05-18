@@ -1,0 +1,1 @@
+{"index": 248184, "D": "to sign or grant a lease  on (a building, apartment, etc.) in advance of construction", "S": [], "A": []}

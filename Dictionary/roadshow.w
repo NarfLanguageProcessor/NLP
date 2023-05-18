@@ -1,0 +1,1 @@
+{"index": 273498, "D": "a show, such as a play or musical comedy, performed by a touring group of actors.", "S": [], "A": []}

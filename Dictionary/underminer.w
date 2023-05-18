@@ -1,0 +1,1 @@
+{"index": 339487, "D": "to injure or destroy by insidious activity or imperceptible stages, sometimes tending toward a sudden dramatic effect.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349254, "D": "that recurs;  occurring or appearing again, especially repeatedly or periodically.", "S": [], "A": []}

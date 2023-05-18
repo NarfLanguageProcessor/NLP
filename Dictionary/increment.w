@@ -1,0 +1,1 @@
+{"index": 150463, "D": "something added or gained; addition; increase.", "S": ["accession ", "accretion ", "accrual ", "addition ", "advancement ", "augmentation ", "enlargement ", "increase ", "profit ", "raise ", "rise ", "supplement "], "A": ["decline ", "decrease ", "deduction ", "drop ", "fall ", "lessening ", "loss ", "reduction ", "shrinkage ", "subtraction "]}

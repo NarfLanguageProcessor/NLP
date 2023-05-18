@@ -1,0 +1,1 @@
+{"index": 197420, "D": "to a sickening or disgusting degree.", "S": [], "A": []}

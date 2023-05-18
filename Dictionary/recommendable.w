@@ -1,0 +1,1 @@
+{"index": 263152, "D": "to present as worthy of confidence, acceptance, use, etc.; commend; mention favorably", "S": ["appropriate ", "apt ", "commendable ", "desirable ", "expedient ", "fit ", "fitting ", "judicious ", "politic ", "prudent ", "seemly ", "sensible ", "sound ", "suggested ", "suitable ", "tactical ", "well "], "A": []}

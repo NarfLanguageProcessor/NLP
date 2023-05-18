@@ -1,0 +1,1 @@
+{"index": 151077, "D": "lack of discretion; imprudence. ", "S": [], "A": []}

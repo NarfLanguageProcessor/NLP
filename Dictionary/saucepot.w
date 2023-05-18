@@ -1,0 +1,1 @@
+{"index": 278894, "D": "a cooking pot  having a handle on each side and a close-fitting lid, used especially for stewing and simmering.", "S": [], "A": []}

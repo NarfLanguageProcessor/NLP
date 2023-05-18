@@ -1,0 +1,1 @@
+{"index": 251938, "D": "the act of progressing;  forward or onward movement.", "S": [], "A": []}

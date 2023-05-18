@@ -1,0 +1,1 @@
+{"index": 90763, "D": "a word or line of verse containing 12 syllables. ", "S": [], "A": []}

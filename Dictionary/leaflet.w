@@ -1,0 +1,1 @@
+{"index": 169577, "D": "a small flat or folded sheet of printed matter, as an advertisement or notice, usually intended for free distribution.", "S": ["advertisement ", "brochure ", "bulletin ", "flyer ", "pamphlet "], "A": []}

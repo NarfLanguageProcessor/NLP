@@ -1,0 +1,1 @@
+{"index": 113547, "D": "made so as to follow closely the contours of a form, shape, or space", "S": ["adapted ", "equipped ", "matched ", "qualified ", "suited "], "A": ["ill-equipped ", "inappropriate ", "incorrect ", "lacking ", "needing ", "unfit ", "unfitted ", "unprepared ", "unqualified ", "wrong "]}

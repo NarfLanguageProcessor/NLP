@@ -1,0 +1,1 @@
+{"index": 215236, "D": "one of an ancient people of south-central Italy.", "S": [], "A": []}

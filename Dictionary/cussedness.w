@@ -1,0 +1,1 @@
+{"index": 75677, "D": "cursed. ", "S": ["anger ", "cattiness ", "cruelty ", "evil ", "hatefulness ", "malevolence ", "maliciousness ", "meanness ", "orneriness ", "revenge ", "spite ", "vengefulness ", "viciousness "], "A": []}

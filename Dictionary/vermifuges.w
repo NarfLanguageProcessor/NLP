@@ -1,0 +1,1 @@
+{"index": 358606, "D": "serving to expel worms or other animal parasites from the intestines, as a medicine.", "S": [], "A": []}

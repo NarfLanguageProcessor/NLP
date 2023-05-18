@@ -1,0 +1,1 @@
+{"index": 333552, "D": "any of several medium-sized, tree-dwelling Amazon basin monkeys of the genus Cacajao, the only New World monkeys having a short tail", "S": [], "A": []}

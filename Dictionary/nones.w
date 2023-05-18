@@ -1,0 +1,1 @@
+{"index": 203633, "D": "the fifth of the seven canonical hours, or the service for it, originally fixed for the ninth hour of the day (or 3 p.m.).", "S": ["no one ", "nobody ", "nothing "], "A": ["some "]}

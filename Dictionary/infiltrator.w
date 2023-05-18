@@ -1,0 +1,1 @@
+{"index": 152009, "D": "a soldier, intelligence agent, or other person who moves surreptitiously and gradually into an organization, territory, community, or the like, especially with hostile intent", "S": ["spy "], "A": []}

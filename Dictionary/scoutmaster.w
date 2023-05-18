@@ -1,0 +1,1 @@
+{"index": 281466, "D": "the leader or officer in charge of a band of scouts. ", "S": [], "A": []}

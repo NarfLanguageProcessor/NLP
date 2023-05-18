@@ -1,0 +1,1 @@
+{"index": 9373, "D": "absence of skin pigmentation, as in albinism", "S": [], "A": []}

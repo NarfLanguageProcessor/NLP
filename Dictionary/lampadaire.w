@@ -1,0 +1,1 @@
+{"index": 167761, "D": "a pedestal of the Empire period for a lamp or candelabrum.", "S": [], "A": []}

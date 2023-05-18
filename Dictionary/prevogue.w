@@ -1,0 +1,1 @@
+{"index": 250237, "D": "something in fashion, as at a particular time", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 336897, "D": "a belt or girdle.", "S": [], "A": []}

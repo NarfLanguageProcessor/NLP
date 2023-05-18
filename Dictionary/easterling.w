@@ -1,0 +1,1 @@
+{"index": 94923, "D": "a native of a country lying to the east, especially a merchant from the Baltic.", "S": [], "A": []}

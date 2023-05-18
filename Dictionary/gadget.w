@@ -1,0 +1,1 @@
+{"index": 120867, "D": "a mechanical contrivance or device; any ingenious article.", "S": ["apparatus ", "appliance ", "contraption ", "gimmick ", "gizmo ", "object ", "tool ", "utensil ", "widget "], "A": []}

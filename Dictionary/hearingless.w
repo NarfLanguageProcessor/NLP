@@ -1,0 +1,1 @@
+{"index": 134800, "D": "the faculty or sense by which sound is perceived.", "S": [], "A": []}

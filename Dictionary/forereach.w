@@ -1,0 +1,1 @@
+{"index": 116892, "D": "to gain, as one ship on another.", "S": [], "A": []}

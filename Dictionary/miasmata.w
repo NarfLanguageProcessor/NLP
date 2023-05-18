@@ -1,0 +1,1 @@
+{"index": 185661, "D": "noxious exhalations from putrescent organic matter; poisonous effluvia or germs polluting the atmosphere.", "S": ["fetor ", "fumes ", "gas ", "mephitis ", "odor ", "pollution ", "reek ", "smell ", "smog ", "stench ", "stink ", "vapor "], "A": ["perfume ", "sweetness "]}

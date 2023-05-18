@@ -1,0 +1,1 @@
+{"index": 103071, "D": "of, relating to, or of the nature of an epoch. ", "S": ["fitful ", "infrequent ", "occasional ", "periodic ", "recurrent ", "recurring ", "seasonal "], "A": ["constant ", "frequent ", "permanent ", "regular ", "usual "]}

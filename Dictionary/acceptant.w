@@ -1,0 +1,1 @@
+{"index": 1478, "D": "willingly or readily accepting  or receiving; receptive.", "S": ["accepting ", "acceptive ", "amenable ", "open ", "open-minded "], "A": []}

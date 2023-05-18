@@ -1,0 +1,1 @@
+{"index": 180869, "D": "a person's greatest piece of work, as in an art.", "S": ["classic ", "gem ", "jewel ", "monument ", "treasure "], "A": ["worst "]}

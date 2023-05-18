@@ -1,0 +1,1 @@
+{"index": 128583, "D": "Greek characteristics or style", "S": [], "A": []}

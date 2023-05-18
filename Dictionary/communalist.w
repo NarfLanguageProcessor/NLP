@@ -1,0 +1,1 @@
+{"index": 64221, "D": "a theory or system of government according to which each commune is virtually an independent state and the nation is merely a federation of such states.", "S": [], "A": []}

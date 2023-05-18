@@ -1,0 +1,1 @@
+{"index": 50956, "D": "mentally and emotionally confident, focused, and well-balanced", "S": [], "A": []}

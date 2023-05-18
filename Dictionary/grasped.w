@@ -1,0 +1,1 @@
+{"index": 129162, "D": "to seize and hold by or as if by clasping with the fingers or arms.", "S": ["anticipated ", "recognized "], "A": []}

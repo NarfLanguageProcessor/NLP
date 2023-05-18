@@ -1,0 +1,1 @@
+{"index": 12738, "D": "of, noting, or pertaining to angina,  especially angina pectoris. ", "S": [], "A": []}

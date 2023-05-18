@@ -1,0 +1,1 @@
+{"index": 146016, "D": "a slender, long-tailed mongoose, Herpestes ichneumon, inhabiting Africa and southern Europe, and believed by the ancient Egyptians to devour crocodile eggs.", "S": [], "A": []}

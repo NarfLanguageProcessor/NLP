@@ -1,0 +1,1 @@
+{"index": 234272, "D": "of plant origin.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 231823, "D": "puzzling or bewildering; hard to understand, figure out, or solve", "S": ["baffling ", "complicated ", "confusing ", "convoluted ", "disconcerting ", "knotty ", "mysterious ", "mystifying ", "puzzling ", "thorny ", "worrying "], "A": ["clear ", "easy ", "simple ", "straightforward ", "untroublesome "]}

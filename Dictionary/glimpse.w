@@ -1,0 +1,1 @@
+{"index": 126343, "D": "a very brief, passing look, sight, or view.", "S": ["flash ", "glance ", "impression ", "peek ", "sight ", "sighting "], "A": ["stare "]}

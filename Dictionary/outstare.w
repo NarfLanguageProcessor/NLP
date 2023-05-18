@@ -1,0 +1,1 @@
+{"index": 217596, "D": "to outdo in staring; stare  down.", "S": [], "A": []}

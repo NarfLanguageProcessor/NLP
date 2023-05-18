@@ -1,0 +1,1 @@
+{"index": 353594, "D": "being of use  or service; serving some purpose; advantageous, helpful, or of good effect", "S": [], "A": []}

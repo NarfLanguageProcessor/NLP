@@ -1,0 +1,1 @@
+{"index": 158214, "D": "a member of an Italian association that became prominent in 1878, advocating the redemption, or the incorporation into Italy, of certain neighboring regions (Italia irredenta ) having a primarily Italian population.", "S": [], "A": []}

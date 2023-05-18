@@ -1,0 +1,1 @@
+{"index": 132968, "D": "the political principles or doctrines held by or associated with Alexander Hamilton, especially those stressing a strong central government and protective tariffs.", "S": [], "A": []}

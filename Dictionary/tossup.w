@@ -1,0 +1,1 @@
+{"index": 326427, "D": "the tossing of a coin to decide something by its fall.", "S": ["possibility ", "probability ", "prospect ", "tendency ", "trend "], "A": ["unlikelihood "]}

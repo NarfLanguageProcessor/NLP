@@ -1,0 +1,1 @@
+{"index": 34742, "D": "a cage for confining birds. ", "S": ["cage ", "corral ", "enclosure ", "hutch ", "mew ", "pound "], "A": []}

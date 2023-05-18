@@ -1,0 +1,1 @@
+{"index": 88494, "D": "the action or process of withdrawing from an obligation or commitment, especially from a political or military involvement", "S": [], "A": []}

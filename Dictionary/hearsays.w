@@ -1,0 +1,1 @@
+{"index": 134809, "D": "unverified, unofficial information gained or acquired from another and not part of one's direct knowledge", "S": ["gossip "], "A": ["quiet ", "silence "]}

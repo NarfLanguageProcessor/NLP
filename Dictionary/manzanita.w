@@ -1,0 +1,1 @@
+{"index": 179711, "D": "any of several western North American shrubs or small trees belonging to the genus Arctostaphylos, of the heath family, having leathery leaves and clusters of white to pink flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 21422, "D": [], "S": ["precipitous ", "rocky ", "rugged ", "stony "], "A": ["flat ", "smooth "]}

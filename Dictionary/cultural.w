@@ -1,0 +1,1 @@
+{"index": 74842, "D": "of or relating to culture  or cultivation.", "S": ["artistic ", "developmental "], "A": []}

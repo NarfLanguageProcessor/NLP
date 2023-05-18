@@ -1,0 +1,1 @@
+{"index": 278620, "D": "stewed fruit; fruit sauce.", "S": ["answer back ", "give lip ", "mouth off ", "wise off "], "A": []}

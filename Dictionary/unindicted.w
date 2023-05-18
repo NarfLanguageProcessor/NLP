@@ -1,0 +1,1 @@
+{"index": 344454, "D": "having been charged with an offense or crime, especially legally or formally", "S": [], "A": []}

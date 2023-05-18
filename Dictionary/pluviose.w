@@ -1,0 +1,1 @@
+{"index": 240701, "D": "(in the French Revolutionary calendar) the fifth month of the year, extending from January 20 to February 18.", "S": [], "A": []}

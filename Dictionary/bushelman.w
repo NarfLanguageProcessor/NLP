@@ -1,0 +1,1 @@
+{"index": 43401, "D": "a person who alters or repairs garments; busheler.", "S": [], "A": []}

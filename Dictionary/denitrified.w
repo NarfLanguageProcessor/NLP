@@ -1,0 +1,1 @@
+{"index": 81141, "D": "to reduce (nitrates) to nitrites, ammonia, ammonium compounds, and free atmospheric nitrogen, as in soil by bacteria or other microbes.", "S": [], "A": []}

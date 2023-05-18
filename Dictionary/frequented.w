@@ -1,0 +1,1 @@
+{"index": 118786, "D": "happening or occurring at short intervals", "S": ["busy "], "A": ["abandoned ", "deserted ", "domestic ", "empty ", "insular ", "unexplored "]}

@@ -1,0 +1,1 @@
+{"index": 156256, "D": "(of a person) not having made a will", "S": [], "A": []}

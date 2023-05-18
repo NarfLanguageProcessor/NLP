@@ -1,0 +1,1 @@
+{"index": 314912, "D": "a city in and the capital of Eastern Azerbaijan province, in NW Iran.", "S": ["Heriz rug ", "Kashan rug ", "Kirman ", "Persian rug ", "oriental rug "], "A": []}

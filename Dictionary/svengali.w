@@ -1,0 +1,1 @@
+{"index": 313911, "D": "a person who completely dominates another, usually with selfish or sinister motives.", "S": [], "A": []}

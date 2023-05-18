@@ -1,0 +1,1 @@
+{"index": 271156, "D": "reveling;  boisterous festivity", "S": ["debauchery ", "festivity "], "A": ["sadness ", "work "]}

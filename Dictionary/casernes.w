@@ -1,0 +1,1 @@
+{"index": 48840, "D": "a lodging for soldiers in a garrison town; barracks.", "S": [], "A": []}

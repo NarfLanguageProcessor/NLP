@@ -1,0 +1,1 @@
+{"index": 329802, "D": "a gangster who specializes in gunning people down.", "S": ["assassin ", "butcher ", "cut-throat ", "enforcer ", "executioner ", "hatchet man ", "hatchet woman ", "hit man ", "hit woman ", "killer ", "manslayer ", "murderer ", "murderess ", "slaughterer ", "slayer "], "A": []}

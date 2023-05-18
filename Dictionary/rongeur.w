@@ -1,0 +1,1 @@
+{"index": 274160, "D": "a strongly constructed instrument with a sharp-edged, scoop-shaped tip, used for gouging out bone.", "S": [], "A": []}

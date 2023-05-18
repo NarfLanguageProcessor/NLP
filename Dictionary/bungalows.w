@@ -1,0 +1,1 @@
+{"index": 42841, "D": "a cottage of one story.", "S": ["cabin ", "chalet ", "home ", "hut ", "lean-to ", "lodge ", "ranch ", "shack ", "shanty "], "A": []}

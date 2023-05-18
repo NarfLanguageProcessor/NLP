@@ -1,0 +1,1 @@
+{"index": 105077, "D": "the belief in the inherent superiority of one's own ethnic group or culture.", "S": [], "A": []}

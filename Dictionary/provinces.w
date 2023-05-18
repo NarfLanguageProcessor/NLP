@@ -1,0 +1,1 @@
+{"index": 254074, "D": "an administrative division or unit of a country.", "S": ["area ", "gap ", "length ", "orbit ", "radius ", "scope ", "separation ", "size ", "space ", "span ", "stretch ", "width "], "A": ["height "]}

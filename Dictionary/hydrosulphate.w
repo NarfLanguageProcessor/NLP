@@ -1,0 +1,1 @@
+{"index": 138975, "D": "any quaternary acid salt formed by addition of an organic base to sulphuric acid, such as aniline hydrosulphate, C 6 H 5 NH 3 HSO 4", "S": [], "A": []}

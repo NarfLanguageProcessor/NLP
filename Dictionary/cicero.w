@@ -1,0 +1,1 @@
+{"index": 57033, "D": "a Continental unit of measurement for type, equal to 12 Didot points, or 0.178 inch (4.5 millimeters), roughly comparable to a pica.", "S": [], "A": []}

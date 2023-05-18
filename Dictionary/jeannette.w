@@ -1,0 +1,1 @@
+{"index": 160709, "D": "a city in W Pennsylvania, near Pittsburgh.", "S": [], "A": []}

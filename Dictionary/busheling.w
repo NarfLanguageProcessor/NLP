@@ -1,0 +1,1 @@
+{"index": 43397, "D": "a unit of dry measure containing 4 pecks, equivalent in the U.S. (and formerly in England) to 2,150.42 cubic inches or 35.24 liters (Win\u00b7ches\u00b7ter bushel ), and in Great Britain to 2,219.36 cubic inches or 36.38 liters (Im\u00b7pe\u00b7ri\u00b7al bushel ).Abbreviation", "S": [], "A": []}

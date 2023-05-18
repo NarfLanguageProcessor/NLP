@@ -1,0 +1,1 @@
+{"index": 230145, "D": "a group of American Indian language families of central and coastal California, including Wintu, Maidu, Yokuts, Miwok, and Costanoan, thought to be descendants of a single protolanguage spoken at a remote period.", "S": [], "A": []}

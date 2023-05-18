@@ -1,0 +1,1 @@
+{"index": 186266, "D": "a tiny meteorite having a diameter of 10\u201340 micrometres, found esp in rainwater and seawater, having entered the atmosphere as a micrometeoroid (extremely small meteoroid)", "S": [], "A": []}

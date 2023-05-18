@@ -1,0 +1,1 @@
+{"index": 70704, "D": "a charge  by an accused person against the accuser.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 238730, "D": "made of plaid,  or having a similar pattern.", "S": [], "A": []}

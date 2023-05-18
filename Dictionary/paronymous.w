@@ -1,0 +1,1 @@
+{"index": 226748, "D": "containing the same root or stem, as the words wise and wisdom.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 318189, "D": "a photograph  taken with a telephoto lens.", "S": [], "A": []}

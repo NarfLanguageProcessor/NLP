@@ -1,0 +1,1 @@
+{"index": 248993, "D": "an insect in the nonfeeding, inactive stage between the larval period and the pupal period.", "S": [], "A": []}

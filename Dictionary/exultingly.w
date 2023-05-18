@@ -1,0 +1,1 @@
+{"index": 108826, "D": "to show or feel a lively or triumphant joy; rejoice exceedingly; be highly elated or jubilant", "S": [], "A": []}

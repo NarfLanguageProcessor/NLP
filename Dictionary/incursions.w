@@ -1,0 +1,1 @@
+{"index": 150611, "D": "a hostile entrance into or invasion of a place or territory, especially a sudden one; raid", "S": ["aggression ", "attack ", "foray ", "infiltration ", "inroad ", "intrusion ", "penetration ", "raid "], "A": ["retreat "]}

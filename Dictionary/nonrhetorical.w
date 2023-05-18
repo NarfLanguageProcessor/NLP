@@ -1,0 +1,1 @@
+{"index": 206894, "D": "used for, belonging to, or concerned with mere style or effect, rather than truth, substance, or meaning", "S": [], "A": []}

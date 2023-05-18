@@ -1,0 +1,1 @@
+{"index": 214272, "D": "a desert plateau in the southern Inner Mongolia Autonomous Region  in northern China. About 35,000 sq. mi. (90,650 sq. km).", "S": [], "A": []}

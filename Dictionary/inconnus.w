@@ -1,0 +1,1 @@
+{"index": 150236, "D": "a person who is unknown; stranger.", "S": [], "A": []}

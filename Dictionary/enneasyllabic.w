@@ -1,0 +1,1 @@
+{"index": 100747, "D": "consisting of or pertaining to nine syllables.", "S": [], "A": []}

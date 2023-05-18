@@ -1,0 +1,1 @@
+{"index": 218109, "D": "to use wrongly or improperly; misuse", "S": [], "A": []}

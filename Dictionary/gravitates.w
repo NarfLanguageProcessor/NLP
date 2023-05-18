@@ -1,0 +1,1 @@
+{"index": 129387, "D": "to move or tend to move under the influence of gravitational  force.", "S": ["drift ", "incline ", "lean ", "tend "], "A": ["ascend ", "depart ", "increase ", "leave ", "rise "]}

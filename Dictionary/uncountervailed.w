@@ -1,0 +1,1 @@
+{"index": 338078, "D": "to act or avail against with equal power, force, or effect; counteract.", "S": [], "A": []}

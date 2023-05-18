@@ -1,0 +1,1 @@
+{"index": 76111, "D": "the part of a pedestal between the base and the cornice or cap.", "S": [], "A": []}

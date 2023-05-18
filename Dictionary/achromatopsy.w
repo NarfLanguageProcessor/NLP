@@ -1,0 +1,1 @@
+{"index": 2361, "D": "color blindness (def. 2). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 289733, "D": "short whiskers extending from the hairline to below the ears and worn with an unbearded chin.", "S": ["eyebrow ", "fiber ", "fur ", "grass ", "haircut ", "hairstyle ", "mane ", "strand ", "wig ", "wool "], "A": []}

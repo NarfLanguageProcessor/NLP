@@ -1,0 +1,1 @@
+{"index": 79225, "D": "capable of being deferred  or postponed", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 283550, "D": "selfhood. ", "S": ["character ", "existence ", "identification ", "integrity ", "name ", "personality ", "status "], "A": ["difference ", "dissimilarity ", "opposition "]}

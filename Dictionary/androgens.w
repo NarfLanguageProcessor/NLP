@@ -1,0 +1,1 @@
+{"index": 12395, "D": "any substance, as testosterone or androsterone, that promotes male characteristics.", "S": [], "A": []}

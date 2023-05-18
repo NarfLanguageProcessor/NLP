@@ -1,0 +1,1 @@
+{"index": 21516, "D": "an apparatus or device employing suction.", "S": [], "A": []}

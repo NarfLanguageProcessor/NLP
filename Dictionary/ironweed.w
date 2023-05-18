@@ -1,0 +1,1 @@
+{"index": 158112, "D": "any of certain North American composite plants of the genus Vernonia, having tubular, chiefly purple or red disk flowers.", "S": [], "A": []}

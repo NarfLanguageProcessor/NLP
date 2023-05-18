@@ -1,0 +1,1 @@
+{"index": 190263, "D": "any whale of the suborder Mysticeti, as finback and humpback whales, characterized by a symmetrical skull, paired blowholes, and rows of baleen plates for feeding on plankton.", "S": [], "A": []}

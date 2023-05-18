@@ -1,0 +1,1 @@
+{"index": 167976, "D": "a person or organization that owns and leases apartments to others.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 228108, "D": "a member of the \u201cMissionary Society of St. Paul  the Apostle,\u201d a community of priests founded in New York in 1858.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 146432, "D": "(in the ancient Roman calendar) the fifteenth day of March, May, July, or October, and the thirteenth day of the other months.", "S": [], "A": []}

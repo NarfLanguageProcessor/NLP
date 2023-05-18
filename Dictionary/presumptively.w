@@ -1,0 +1,1 @@
+{"index": 249757, "D": "affording ground for belief or presumption", "S": ["presumably "], "A": ["improbably ", "unlikely "]}

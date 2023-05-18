@@ -1,0 +1,1 @@
+{"index": 203457, "D": "to beautify by or as if by ornamentation; ornament; adorn.", "S": [], "A": []}

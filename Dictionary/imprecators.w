@@ -1,0 +1,1 @@
+{"index": 149009, "D": "to invoke or call down (evil or curses), as upon a person.", "S": [], "A": []}

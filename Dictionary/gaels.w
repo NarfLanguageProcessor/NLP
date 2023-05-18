@@ -1,0 +1,1 @@
+{"index": 120923, "D": "a Scottish Celt or Highlander.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 143091, "D": "having only one alternative form, or one allele, of a gene or genes", "S": [], "A": []}

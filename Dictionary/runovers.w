@@ -1,0 +1,1 @@
+{"index": 275689, "D": "the amount of type matter for a given article, story, etc., that is carried over to another page, column, or line.", "S": [], "A": []}

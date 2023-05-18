@@ -1,0 +1,1 @@
+{"index": 55918, "D": "a variation of a two-handed game, as backgammon, allowing the participation of three or more persons, in which one player accepts the bets of all the others on the outcome of a game between that player and one other active player, who is permitted to receive advice from the nonplayers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 195239, "D": "pierced with a hole or holes", "S": [], "A": []}

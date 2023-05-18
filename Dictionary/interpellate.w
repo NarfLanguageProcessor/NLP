@@ -1,0 +1,1 @@
+{"index": 155589, "D": "to call formally upon (a minister or member of a government) in interpellation. ", "S": [], "A": []}

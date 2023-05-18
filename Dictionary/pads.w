@@ -1,0 +1,1 @@
+{"index": 222881, "D": "a cushionlike mass of soft material used for comfort, protection, or stuffing.", "S": ["buffer ", "cushion ", "filling ", "packing ", "stuffing ", "wad ", "wadding ", "waste "], "A": []}

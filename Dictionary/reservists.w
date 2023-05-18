@@ -1,0 +1,1 @@
+{"index": 269250, "D": "a person who belongs to a reserve  military force of a country.", "S": [], "A": []}

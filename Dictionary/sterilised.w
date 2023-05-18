@@ -1,0 +1,1 @@
+{"index": 304029, "D": "to destroy microorganisms in or on, usually by bringing to a high temperature with steam, dry heat, or boiling liquid.", "S": [], "A": []}

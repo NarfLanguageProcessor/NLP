@@ -1,0 +1,1 @@
+{"index": 349245, "D": "made, put, or set right; corrected or remedied", "S": [], "A": []}

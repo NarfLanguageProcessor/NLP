@@ -1,0 +1,1 @@
+{"index": 95763, "D": "instructive or beneficial, especially morally or spiritually; uplifting", "S": [], "A": []}

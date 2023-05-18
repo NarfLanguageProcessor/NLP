@@ -1,0 +1,1 @@
+{"index": 33792, "D": "an important person, especially an official", "S": ["mogul "], "A": ["nobody ", "nonentity "]}

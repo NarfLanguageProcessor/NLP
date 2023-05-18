@@ -1,0 +1,1 @@
+{"index": 343388, "D": "an unguis.", "S": ["fingernail ", "paw ", "tentacle "], "A": []}

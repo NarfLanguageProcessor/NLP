@@ -1,0 +1,1 @@
+{"index": 140808, "D": "the point on the ground immediately below the centre of explosion of a nuclear bomb in the atmosphere", "S": [], "A": []}

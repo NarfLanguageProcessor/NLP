@@ -1,0 +1,1 @@
+{"index": 1737, "D": "the act of coupling.", "S": [], "A": []}

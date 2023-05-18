@@ -1,0 +1,1 @@
+{"index": 353372, "D": "having achieved victory or success; victorious; successful. ", "S": [], "A": []}

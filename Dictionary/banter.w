@@ -1,0 +1,1 @@
+{"index": 27598, "D": "an exchange of light, playful, teasing remarks; good-natured raillery.", "S": ["chitchat ", "gossip ", "repartee ", "ribbing ", "small talk "], "A": ["flattery ", "praise ", "work "]}

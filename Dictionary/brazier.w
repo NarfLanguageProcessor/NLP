@@ -1,0 +1,1 @@
+{"index": 40164, "D": "a metal receptacle for holding live coals or other fuel, as for heating a room.", "S": ["can ", "canister ", "cask ", "kettle ", "pail ", "pot "], "A": []}

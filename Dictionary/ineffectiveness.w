@@ -1,0 +1,1 @@
+{"index": 151480, "D": "not effective;  not producing results; ineffectual", "S": ["impotence ", "inadequacy ", "infirmity "], "A": ["strength "]}

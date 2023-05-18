@@ -1,0 +1,1 @@
+{"index": 226915, "D": "a member of the clergy, especially a Protestant minister; pastor; rector.", "S": [], "A": []}

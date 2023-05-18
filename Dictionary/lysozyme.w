@@ -1,0 +1,1 @@
+{"index": 173464, "D": "an enzyme  that is destructive of bacteria and functions as an antiseptic, found in tears, leukocytes, mucus, egg albumin, and certain plants.", "S": [], "A": []}

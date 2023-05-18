@@ -1,0 +1,1 @@
+{"index": 139652, "D": "the most posterior of the three primary divisions of the brain  in the embryo of a vertebrate or the part of the adult brain  derived from this tissue, including the cerebellum, pons, and medulla oblongata; rhombencephalon.", "S": [], "A": []}

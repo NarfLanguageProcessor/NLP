@@ -1,0 +1,1 @@
+{"index": 22697, "D": "a process for separating gases or vapors of different molecular weights by transmission through a porous substance.", "S": [], "A": []}

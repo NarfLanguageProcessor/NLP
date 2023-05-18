@@ -1,0 +1,1 @@
+{"index": 205943, "D": "a white, crystalline, water-soluble, poisonous mass, C6H5OH, obtained from coal tar, or a hydroxyl derivative of benzene", "S": [], "A": []}

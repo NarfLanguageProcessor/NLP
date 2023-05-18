@@ -1,0 +1,1 @@
+{"index": 140130, "D": "an advocate of federalism. ", "S": [], "A": []}

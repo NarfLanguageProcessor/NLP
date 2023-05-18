@@ -1,0 +1,1 @@
+{"index": 10313, "D": "of or relating to the United States of America  or its inhabitants", "S": [], "A": []}

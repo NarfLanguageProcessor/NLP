@@ -1,0 +1,1 @@
+{"index": 179399, "D": "carrying or operated by one or more persons; crewed", "S": ["barricaded ", "covered ", "guarded ", "protected ", "reinforced ", "secured ", "strengthened ", "walled "], "A": ["open ", "unguarded ", "unprotected "]}

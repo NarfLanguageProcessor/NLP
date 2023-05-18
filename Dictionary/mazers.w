@@ -1,0 +1,1 @@
+{"index": 181605, "D": "a large metal drinking bowl or cup, formerly of wood.", "S": [], "A": []}

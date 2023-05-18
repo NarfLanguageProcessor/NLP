@@ -1,0 +1,1 @@
+{"index": 22748, "D": "the act or process of splitting into smaller parts, sections, groups, etc.; fragmentation or disintegration", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 88192, "D": "to change the appearance or guise of so as to conceal identity or mislead, as by means of deceptive garb", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 277088, "D": "a member of any of various North American Indian peoples speaking a Salishan language.", "S": [], "A": []}

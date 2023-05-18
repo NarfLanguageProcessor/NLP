@@ -1,0 +1,1 @@
+{"index": 156748, "D": "an introduction. ", "S": ["addition ", "debut ", "establishment ", "inauguration ", "influx ", "initiation ", "installation ", "launch ", "opening ", "preface ", "presentation "], "A": ["close ", "closing ", "conclusion ", "end ", "ending ", "finish ", "completion ", "epilogue "]}

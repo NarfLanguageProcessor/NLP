@@ -1,0 +1,1 @@
+{"index": 172382, "D": "the final, utmost, or furthest boundary or point as to extent, amount, continuance, procedure, etc.", "S": ["cap ", "ceiling ", "check ", "curb ", "deadline ", "maximum ", "restraint ", "restriction "], "A": ["freedom ", "liberation ", "minimum ", "beginning ", "center ", "commencement ", "inside ", "interior ", "middle ", "opening ", "start "]}

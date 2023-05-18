@@ -1,0 +1,1 @@
+{"index": 71447, "D": "(of one magnitude with respect to another) varying in accordance with a fixed mathematical relationship", "S": [], "A": []}

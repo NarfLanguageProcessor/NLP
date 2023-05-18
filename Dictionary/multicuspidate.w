@@ -1,0 +1,1 @@
+{"index": 195054, "D": "having a cusp  or cusps.", "S": [], "A": []}

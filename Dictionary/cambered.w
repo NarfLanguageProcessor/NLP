@@ -1,0 +1,1 @@
+{"index": 45590, "D": "to arch slightly; bend or curve upward in the middle.", "S": ["arc "], "A": ["compress ", "concentrate ", "condense ", "destroy ", "neglect ", "shorten ", "straighten "]}

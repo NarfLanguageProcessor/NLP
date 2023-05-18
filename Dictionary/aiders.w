@@ -1,0 +1,1 @@
+{"index": 6708, "D": "to provide support for or relief to; help", "S": ["comforter ", "intercessor "], "A": []}

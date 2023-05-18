@@ -1,0 +1,1 @@
+{"index": 229635, "D": "any of several flightless, aquatic birds of the family Spheniscidae, of the Southern Hemisphere, having webbed feet and wings reduced to flippers.", "S": [], "A": []}

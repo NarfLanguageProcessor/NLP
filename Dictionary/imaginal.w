@@ -1,0 +1,1 @@
+{"index": 147585, "D": "of, relating to, or having the form of an imago.", "S": [], "A": []}

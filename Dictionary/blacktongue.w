@@ -1,0 +1,1 @@
+{"index": 35578, "D": "canine pellagra.", "S": [], "A": []}

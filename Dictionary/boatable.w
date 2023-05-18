@@ -1,0 +1,1 @@
+{"index": 36982, "D": "a vessel for transport by water, constructed to provide buoyancy by excluding water and shaped to give stability and permit propulsion.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 39790, "D": "the action of a brake  or set of brakes,  as in stopping a vehicle.", "S": [], "A": []}

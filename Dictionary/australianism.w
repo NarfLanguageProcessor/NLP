@@ -1,0 +1,1 @@
+{"index": 23714, "D": "the Australian national character or spirit", "S": [], "A": []}

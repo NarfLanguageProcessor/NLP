@@ -1,0 +1,1 @@
+{"index": 213813, "D": "optimum (def. 3). ", "S": ["excellent "], "A": []}

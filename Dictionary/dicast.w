@@ -1,0 +1,1 @@
+{"index": 84740, "D": "(in ancient Athens) a citizen eligible to sit as a judge.", "S": [], "A": []}

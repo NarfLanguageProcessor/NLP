@@ -1,0 +1,1 @@
+{"index": 6441, "D": "pertaining to a state or region in which the effect of gravity  is zero.", "S": [], "A": []}

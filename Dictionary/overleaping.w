@@ -1,0 +1,1 @@
+{"index": 220035, "D": "to leap over or across", "S": ["negotiate "], "A": ["run into "]}

@@ -1,0 +1,1 @@
+{"index": 56116, "D": "the figure or mark of a cross.", "S": [], "A": []}

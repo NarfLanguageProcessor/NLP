@@ -1,0 +1,1 @@
+{"index": 294588, "D": "of, relating to, or characteristic of a slum", "S": [], "A": []}

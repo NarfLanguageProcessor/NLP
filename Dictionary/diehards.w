@@ -1,0 +1,1 @@
+{"index": 85141, "D": [], "S": ["authority ", "bureaucracy "], "A": ["proletariat "]}

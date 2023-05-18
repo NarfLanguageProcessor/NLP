@@ -1,0 +1,1 @@
+{"index": 160149, "D": "a person who is or has been confined in jail;  convict or ex-convict.", "S": ["captive ", "felon ", "prisoner "], "A": ["victim "]}

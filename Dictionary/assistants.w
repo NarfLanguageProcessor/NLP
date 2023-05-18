@@ -1,0 +1,1 @@
+{"index": 21830, "D": "a person who assists  or gives aid and support; helper.", "S": ["administration ", "authority ", "committee ", "government ", "ministry "], "A": []}

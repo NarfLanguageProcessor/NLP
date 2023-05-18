@@ -1,0 +1,1 @@
+{"index": 234303, "D": "botany. ", "S": ["anatomy ", "cytology ", "ecology ", "genetics ", "horticulture ", "morphology ", "pathology ", "physiology ", "pomology ", "taxonomy "], "A": []}

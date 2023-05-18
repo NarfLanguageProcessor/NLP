@@ -1,0 +1,1 @@
+{"index": 13079, "D": "any of various totipalmate swimming birds of the family Anhingidae, having a very long and flexible neck.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83073, "D": "a manufacturer's representative who calls on customers to supply information on products and visits stores to monitor sales and replenish stock.", "S": [], "A": []}

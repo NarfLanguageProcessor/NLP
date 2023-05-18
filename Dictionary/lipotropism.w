@@ -1,0 +1,1 @@
+{"index": 173231, "D": "having an affinity for lipids and thus preventing or correcting excess accumulation of fat in the liver.", "S": [], "A": []}

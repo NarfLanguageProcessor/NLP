@@ -1,0 +1,1 @@
+{"index": 216047, "D": "a musical instrument of the Middle East and northern Africa belonging to the lute family.", "S": [], "A": []}

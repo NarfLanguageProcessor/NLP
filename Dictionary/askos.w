@@ -1,0 +1,1 @@
+{"index": 21321, "D": "an oil or wine jar, characterized by an ellipsoidal body and a short, flanged spout from which a thin handle extends in an arc to join the back of the jar.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 249837, "D": "the terminal outgrowth of the tarsus  of an arthropod.", "S": [], "A": []}

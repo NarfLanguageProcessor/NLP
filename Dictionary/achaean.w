@@ -1,0 +1,1 @@
+{"index": 2184, "D": "of or relating to Achaea or the Achaeans.", "S": [], "A": []}

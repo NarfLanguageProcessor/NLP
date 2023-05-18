@@ -1,0 +1,1 @@
+{"index": 221447, "D": "thin, tenuous, or rarefied, as a fluid or an odor.", "S": ["abstract ", "abstruse ", "esoteric ", "mystical ", "philosophical ", "spiritual ", "supernatural ", "theoretical "], "A": ["concrete ", "factual ", "obvious ", "physical ", "real "]}

@@ -1,0 +1,1 @@
+{"index": 278182, "D": "a soldier employed in the construction of fortifications, trenches, or tunnels that approach or undermine enemy positions.", "S": ["prospector "], "A": []}

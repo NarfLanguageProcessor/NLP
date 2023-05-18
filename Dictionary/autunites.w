@@ -1,0 +1,1 @@
+{"index": 24505, "D": "a yellow mineral, a hydrous calcium uranium phosphate, CaU2P2O12\u22c58H2O, occurring in crystals as nearly square tablets", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246361, "D": "occurring or existing simultaneously or side by side", "S": [], "A": []}

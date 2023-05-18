@@ -1,0 +1,1 @@
+{"index": 124580, "D": "of, characteristic of, or resembling a ghost;  phantasmal; spectral.", "S": ["eerie ", "ghastly ", "scary ", "shadowy ", "spectral ", "supernatural ", "weird "], "A": ["normal "]}

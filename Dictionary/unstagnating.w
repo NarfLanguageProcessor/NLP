@@ -1,0 +1,1 @@
+{"index": 351906, "D": "to cease to run or flow, as water, air, etc.", "S": [], "A": []}

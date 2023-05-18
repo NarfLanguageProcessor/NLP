@@ -1,0 +1,1 @@
+{"index": 272813, "D": "the quality or state of being righteous. ", "S": ["fairness ", "goodness ", "rectitude ", "respectability "], "A": ["dishonor "]}

@@ -1,0 +1,1 @@
+{"index": 168316, "D": "either of the two parts of a garment folded back on the chest, especially a continuation of a coat collar.", "S": [], "A": []}

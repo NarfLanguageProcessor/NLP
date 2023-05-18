@@ -1,0 +1,1 @@
+{"index": 94607, "D": "a napped fabric, in a twilled or plain weave, of cotton, wool, silk, or rayon.", "S": [], "A": []}

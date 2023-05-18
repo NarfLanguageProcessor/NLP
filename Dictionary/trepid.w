@@ -1,0 +1,1 @@
+{"index": 328977, "D": "fearful or apprehensive, especially trembling from fear.", "S": [], "A": []}

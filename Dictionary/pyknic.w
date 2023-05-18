@@ -1,0 +1,1 @@
+{"index": 236536, "D": "Compare asthenic (def. 2), athletic (def. 5). ", "S": [], "A": []}

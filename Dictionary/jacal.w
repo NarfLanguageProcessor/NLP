@@ -1,0 +1,1 @@
+{"index": 159835, "D": "(in the southwestern U.S. and Mexico) a hut with a thatched roof and walls consisting of thin stakes driven into the ground close together and plastered with mud.", "S": [], "A": []}

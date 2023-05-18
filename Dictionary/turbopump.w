@@ -1,0 +1,1 @@
+{"index": 332631, "D": "a turbine-driven pump,  as one used to feed propellant to a rocket engine.", "S": [], "A": []}

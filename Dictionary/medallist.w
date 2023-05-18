@@ -1,0 +1,1 @@
+{"index": 181972, "D": "a designer, maker, or collector of medals", "S": [], "A": []}

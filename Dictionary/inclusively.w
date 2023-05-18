@@ -1,0 +1,1 @@
+{"index": 149988, "D": "including or encompassing the stated limit or extremes in consideration or account (usually used after the noun)", "S": [], "A": []}

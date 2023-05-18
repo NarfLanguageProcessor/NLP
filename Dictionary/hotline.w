@@ -1,0 +1,1 @@
+{"index": 144295, "D": "a direct telecommunications link enabling immediate communication between heads of state in an international crisis", "S": [], "A": []}

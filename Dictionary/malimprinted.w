@@ -1,0 +1,1 @@
+{"index": 178488, "D": "(of an animal or person) suffering from a defect in the behavioural process of imprinting, resulting in attraction to members of other species, fetishism, etc", "S": [], "A": []}

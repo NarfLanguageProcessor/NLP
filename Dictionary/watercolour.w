@@ -1,0 +1,1 @@
+{"index": 363134, "D": "any water-soluble pigment, including opaque kinds such as gouache and tempera", "S": [], "A": []}

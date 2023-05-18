@@ -1,0 +1,1 @@
+{"index": 248320, "D": "occurring, coming, or done too soon", "S": [], "A": []}

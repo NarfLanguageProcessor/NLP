@@ -1,0 +1,1 @@
+{"index": 160519, "D": "a wig, especially one made of worsted.", "S": [], "A": []}

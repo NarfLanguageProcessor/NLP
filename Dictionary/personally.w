@@ -1,0 +1,1 @@
+{"index": 231973, "D": "through direct contact; in person;  directly", "S": ["directly ", "individually ", "privately "], "A": ["generally ", "objectively "]}

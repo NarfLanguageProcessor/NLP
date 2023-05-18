@@ -1,0 +1,1 @@
+{"index": 205407, "D": "in a way that expresses resistance to or revolt against authority", "S": [], "A": []}

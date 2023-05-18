@@ -1,0 +1,1 @@
+{"index": 212848, "D": "without others or anything further; alone; solely; exclusively", "S": ["alone "], "A": []}

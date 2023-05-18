@@ -1,0 +1,1 @@
+{"index": 298941, "D": "an instrument for determining the radiant-energy distribution in a spectrum, combining the functions of a spectroscope with those of a radiometer. ", "S": [], "A": []}

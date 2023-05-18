@@ -1,0 +1,1 @@
+{"index": 198407, "D": "of or relating to newborn children.", "S": [], "A": []}

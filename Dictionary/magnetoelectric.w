@@ -1,0 +1,1 @@
+{"index": 177527, "D": "of or relating to the induction of electric current  or electromotive force by means of permanent magnets.", "S": [], "A": []}

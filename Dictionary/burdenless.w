@@ -1,0 +1,1 @@
+{"index": 43000, "D": "that which is carried; load", "S": [], "A": []}

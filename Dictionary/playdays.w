@@ -1,0 +1,1 @@
+{"index": 238729, "D": "a day  for relaxation or for participation in sports contests; a holiday.", "S": [], "A": []}

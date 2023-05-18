@@ -1,0 +1,1 @@
+{"index": 133818, "D": "causing or capable of causing harm;  injurious", "S": ["alarmingly ", "critically ", "desperately ", "perilously ", "precariously ", "recklessly ", "seriously ", "severely "], "A": ["lightly "]}

@@ -1,0 +1,1 @@
+{"index": 70456, "D": "any small North American rabbit of the genus Sylvilagus, having a brownish coat and fluffy white tail. ", "S": ["bunny ", "hare ", "rodent "], "A": []}

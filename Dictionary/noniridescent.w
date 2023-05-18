@@ -1,0 +1,1 @@
+{"index": 204889, "D": "displaying a play of lustrous colors like those of the rainbow.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 80557, "D": "to deprive of military  character; free from militarism. ", "S": ["demobilization "], "A": ["surrender ", "yielding "]}

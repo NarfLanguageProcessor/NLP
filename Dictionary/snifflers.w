@@ -1,0 +1,1 @@
+{"index": 295525, "D": "to sniff  repeatedly, as from a head cold or in repressing tears", "S": [], "A": []}

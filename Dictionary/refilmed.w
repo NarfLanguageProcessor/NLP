@@ -1,0 +1,1 @@
+{"index": 265048, "D": "a thin layer or coating", "S": [], "A": []}

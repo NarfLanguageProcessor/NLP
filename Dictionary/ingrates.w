@@ -1,0 +1,1 @@
+{"index": 152556, "D": "an ungrateful  person.", "S": ["bounder ", "self-seeker "], "A": []}

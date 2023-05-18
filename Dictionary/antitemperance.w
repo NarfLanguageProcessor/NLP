@@ -1,0 +1,1 @@
+{"index": 16304, "D": "moderation or self-restraint in action, statement, etc.; self-control.", "S": [], "A": []}

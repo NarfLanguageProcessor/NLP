@@ -1,0 +1,1 @@
+{"index": 37717, "D": "a moth of the family Bombycidae, comprising a single species, Bombyx mori, the Chinese silkworm moth.", "S": [], "A": []}

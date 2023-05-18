@@ -1,0 +1,1 @@
+{"index": 15800, "D": "a natural, basic, or habitual repugnance; aversion.", "S": [], "A": []}

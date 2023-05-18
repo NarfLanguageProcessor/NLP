@@ -1,0 +1,1 @@
+{"index": 105007, "D": "a colorless, oily, slightly water-soluble liquid, C4H10S, having a garliclike odor", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 280407, "D": "a course of study for seminarians, taken prior to their theological studies.", "S": [], "A": []}

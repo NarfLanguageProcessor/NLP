@@ -1,0 +1,1 @@
+{"index": 30199, "D": "a room  furnished and used for sleeping.", "S": ["chamber ", "cubicle "], "A": []}

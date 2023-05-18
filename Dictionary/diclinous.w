@@ -1,0 +1,1 @@
+{"index": 84908, "D": "(of a plant species, variety, etc.) having the stamens and the pistils in separate flowers, either on the same plant or on different plants; either monoecious or dioecious.", "S": [], "A": []}

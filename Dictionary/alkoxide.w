@@ -1,0 +1,1 @@
+{"index": 8521, "D": "a compound formed from an alcohol by the replacement of the hydrogen of the hydroxyl group with a metal, as sodium methoxide, CH3ONa, from methyl alcohol, CH3OH.", "S": [], "A": []}

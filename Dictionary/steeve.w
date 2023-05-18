@@ -1,0 +1,1 @@
+{"index": 303487, "D": "to stuff (cotton or other cargo) into a ship's hold.", "S": [], "A": []}

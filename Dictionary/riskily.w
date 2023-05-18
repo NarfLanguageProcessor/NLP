@@ -1,0 +1,1 @@
+{"index": 273253, "D": "attended with or involving risk;  hazardous", "S": ["alarmingly ", "critically ", "desperately ", "perilously ", "precariously ", "recklessly ", "seriously ", "severely "], "A": ["lightly "]}

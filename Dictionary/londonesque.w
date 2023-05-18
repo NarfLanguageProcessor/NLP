@@ -1,0 +1,1 @@
+{"index": 174859, "D": "resembling or characteristic of London, England.", "S": [], "A": []}

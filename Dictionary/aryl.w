@@ -1,0 +1,1 @@
+{"index": 19692, "D": "containing an aryl group. ", "S": [], "A": []}

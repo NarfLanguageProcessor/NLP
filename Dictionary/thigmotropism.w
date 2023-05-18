@@ -1,0 +1,1 @@
+{"index": 321766, "D": "oriented growth of an organism in response to mechanical contact, as a plant tendril coiling around a string support.", "S": [], "A": []}

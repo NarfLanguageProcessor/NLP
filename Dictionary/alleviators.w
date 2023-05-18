@@ -1,0 +1,1 @@
+{"index": 8692, "D": "a person or thing that alleviates. ", "S": ["mediator ", "referee "], "A": []}

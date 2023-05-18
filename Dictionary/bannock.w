@@ -1,0 +1,1 @@
+{"index": 27562, "D": "a flat cake made of oatmeal, barley meal, etc., usually baked on a griddle.", "S": [], "A": []}

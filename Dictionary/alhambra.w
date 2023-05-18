@@ -1,0 +1,1 @@
+{"index": 8165, "D": "a palace and citadel of the Moorish kings in Granada, Spain", "S": [], "A": []}

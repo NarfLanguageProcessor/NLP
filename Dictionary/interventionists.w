@@ -1,0 +1,1 @@
+{"index": 156168, "D": "the policy or doctrine of intervening, especially government interference in the affairs of another state or in domestic economic affairs.", "S": [], "A": []}

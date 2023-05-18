@@ -1,0 +1,1 @@
+{"index": 109061, "D": "noting or pertaining to verbs that express the idea of making or rendering in a certain way and that take a direct object and an additional word or group of words indicating the result of the process, as made in They made him king.", "S": [], "A": []}

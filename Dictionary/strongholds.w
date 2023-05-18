@@ -1,0 +1,1 @@
+{"index": 306526, "D": "a well-fortified place; fortress.", "S": ["bastion ", "fortress ", "garrison ", "redoubt "], "A": []}

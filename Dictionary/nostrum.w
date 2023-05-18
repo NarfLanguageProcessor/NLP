@@ -1,0 +1,1 @@
+{"index": 208792, "D": "a medicine sold with false or exaggerated claims and with no demonstrable value; quack medicine.", "S": ["catholicon ", "cure ", "drug ", "elixir ", "fix ", "formula ", "medicine ", "panacea ", "potion ", "remedy ", "treatment "], "A": ["disease ", "injury "]}

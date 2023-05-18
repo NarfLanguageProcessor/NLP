@@ -1,0 +1,1 @@
+{"index": 340571, "D": "(of a bird) represented with wings and legs spread", "S": [], "A": []}

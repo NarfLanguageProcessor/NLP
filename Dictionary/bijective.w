@@ -1,0 +1,1 @@
+{"index": 33812, "D": "the mapping from the set of married men to the set of married women is bijective in a monogamous society", "S": [], "A": []}

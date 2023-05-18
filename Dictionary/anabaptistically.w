@@ -1,0 +1,1 @@
+{"index": 11459, "D": "a member of any of various Protestant sects, formed in Europe after 1520, that denied the validity of infant baptism, baptized believers only, and advocated social and economic reforms as well as the complete separation of church and state.", "S": [], "A": []}

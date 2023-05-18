@@ -1,0 +1,1 @@
+{"index": 341918, "D": "moving, acting, working, proceeding, etc., with ease, sometimes with superficiality", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342380, "D": "not fleshly;  not carnal or corporeal; spiritual.", "S": ["incorporeal ", "nonmaterial "], "A": ["bodily ", "essential ", "important ", "material ", "meaningful ", "physical ", "real ", "relevant ", "solid ", "substantial "]}

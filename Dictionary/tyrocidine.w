@@ -1,0 +1,1 @@
+{"index": 324528, "D": "an antibiotic that is the main constituent of tyrothricin", "S": [], "A": []}

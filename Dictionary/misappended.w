@@ -1,0 +1,1 @@
+{"index": 188675, "D": "to add as a supplement, accessory, or appendix;  subjoin", "S": [], "A": []}

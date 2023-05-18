@@ -1,0 +1,1 @@
+{"index": 96769, "D": "an elastic substance occurring naturally, as natural rubber, or produced synthetically, as butyl rubber or neoprene.", "S": [], "A": []}

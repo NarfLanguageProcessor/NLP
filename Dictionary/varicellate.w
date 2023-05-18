@@ -1,0 +1,1 @@
+{"index": 357199, "D": "having small varices, as certain shells.", "S": [], "A": []}

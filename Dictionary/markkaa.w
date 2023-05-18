@@ -1,0 +1,1 @@
+{"index": 180186, "D": "a cupronickel or bronze coin and monetary unit of Finland until the euro  was adopted, equal to 100 pennia; finmark. Abbreviation", "S": [], "A": []}

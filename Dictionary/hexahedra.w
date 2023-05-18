@@ -1,0 +1,1 @@
+{"index": 137952, "D": "a solid figure having six faces, as a cube.", "S": ["die "], "A": []}

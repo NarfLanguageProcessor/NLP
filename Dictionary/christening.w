@@ -1,0 +1,1 @@
+{"index": 56126, "D": "the ceremony of baptism, especially as accompanied by the giving of a name to a child.", "S": ["ablution ", "debut ", "dedication ", "immersion ", "introduction ", "launching ", "purgation ", "purge ", "purification ", "ritual ", "sanctification ", "sprinkling "], "A": []}

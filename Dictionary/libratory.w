@@ -1,0 +1,1 @@
+{"index": 171578, "D": "oscillatory. ", "S": [], "A": []}

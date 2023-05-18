@@ -1,0 +1,1 @@
+{"index": 306084, "D": "boisterous; noisy. ", "S": ["boisterous ", "cacophonous ", "clamorous ", "rambunctious ", "riotous ", "rowdy ", "strident ", "vociferous "], "A": ["calm ", "moderate ", "quiet ", "restrained ", "silent "]}

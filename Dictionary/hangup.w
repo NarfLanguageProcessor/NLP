@@ -1,0 +1,1 @@
+{"index": 133367, "D": "a preoccupation, fixation, or psychological block; complex", "S": ["reticence ", "self-consciousness ", "shyness "], "A": ["advantage ", "aid ", "allowance ", "assistance ", "clearance ", "help ", "liberation ", "permission "]}

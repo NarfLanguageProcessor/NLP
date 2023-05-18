@@ -1,0 +1,1 @@
+{"index": 341473, "D": "deviating from the regular or proper course; erring;  straying.", "S": [], "A": []}

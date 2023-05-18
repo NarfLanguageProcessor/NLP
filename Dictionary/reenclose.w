@@ -1,0 +1,1 @@
+{"index": 264695, "D": "to shut or hem in; close in on all sides", "S": [], "A": []}

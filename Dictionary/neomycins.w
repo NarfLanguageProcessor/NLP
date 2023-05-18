@@ -1,0 +1,1 @@
+{"index": 198396, "D": "an antibiotic produced by an actinomycete, Streptomyces fradiae, administered orally or locally, used chiefly for skin, urinary tract, and eye infections and as a surgical antiseptic.", "S": [], "A": []}

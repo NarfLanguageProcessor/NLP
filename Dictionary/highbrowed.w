@@ -1,0 +1,1 @@
+{"index": 139238, "D": "a person of superior intellectual interests and tastes.", "S": ["cerebral ", "creative ", "highbrow ", "mental ", "psychological ", "rational ", "scholarly ", "thoughtful "], "A": ["body ", "physical "]}

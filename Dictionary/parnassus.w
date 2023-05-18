@@ -1,0 +1,1 @@
+{"index": 226658, "D": "a mountain in central Greece, N of the Gulf of Corinth and near Delphi. About 8,000 feet (2,440 meters).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 67588, "D": "an agreement between two or more parties for the doing or not doing of something specified.", "S": ["deal ", "industry ", "manufacturing ", "market ", "trading ", "transaction "], "A": []}

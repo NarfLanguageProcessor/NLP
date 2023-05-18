@@ -1,0 +1,1 @@
+{"index": 271924, "D": "any disorder of the extremities or back, characterized by pain and stiffness.", "S": [], "A": []}

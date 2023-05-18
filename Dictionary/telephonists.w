@@ -1,0 +1,1 @@
+{"index": 318182, "D": "a telephone  switchboard operator.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 176173, "D": "(no longer in technical use; now considered offensive) an insane person.", "S": ["crazed ", "cuckoo ", "maniacal ", "sociopathic "], "A": ["logical ", "rational ", "reasonable ", "sensible "]}

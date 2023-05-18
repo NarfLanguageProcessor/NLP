@@ -1,0 +1,1 @@
+{"index": 25717, "D": "a short length of angle iron fitted over flanges of two angle irons butted together side by side to connect or reinforce them.", "S": [], "A": []}

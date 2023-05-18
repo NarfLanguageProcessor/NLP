@@ -1,0 +1,1 @@
+{"index": 85182, "D": "noting a machine or vehicle powered by a diesel engine", "S": ["compression-ignition engine ", "diesel motor "], "A": []}

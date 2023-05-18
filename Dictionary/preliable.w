@@ -1,0 +1,1 @@
+{"index": 248207, "D": "legally responsible", "S": [], "A": []}

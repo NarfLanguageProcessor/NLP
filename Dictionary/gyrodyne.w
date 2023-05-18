@@ -1,0 +1,1 @@
+{"index": 125560, "D": "an aircraft that uses a powered rotor to take off and manoeuvre, but uses autorotation when cruising", "S": [], "A": []}

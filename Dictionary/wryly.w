@@ -1,0 +1,1 @@
+{"index": 367984, "D": "in a mockingly or amusingly ironic way", "S": [], "A": []}

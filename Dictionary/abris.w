@@ -1,0 +1,1 @@
+{"index": 854, "D": "a shelter, especially a dugout.", "S": [], "A": []}

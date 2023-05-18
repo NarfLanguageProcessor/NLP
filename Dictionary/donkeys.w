@@ -1,0 +1,1 @@
+{"index": 91437, "D": "the domestic ass, Equus asinus.", "S": ["burro ", "horse ", "mule "], "A": []}

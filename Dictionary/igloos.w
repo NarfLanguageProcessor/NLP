@@ -1,0 +1,1 @@
+{"index": 147013, "D": "an Inuit house, being a dome-shaped hut usually built of blocks of hard snow.", "S": [], "A": []}

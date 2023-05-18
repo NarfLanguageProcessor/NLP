@@ -1,0 +1,1 @@
+{"index": 258425, "D": "a sentence in an interrogative form, addressed to someone in order to get information in reply.", "S": ["auditor ", "inquisitor ", "interrogator "], "A": []}

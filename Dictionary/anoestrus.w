@@ -1,0 +1,1 @@
+{"index": 13718, "D": "a period of sexual inactivity between two periods of oestrus in many mammals", "S": [], "A": []}

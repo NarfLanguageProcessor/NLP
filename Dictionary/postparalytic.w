@@ -1,0 +1,1 @@
+{"index": 244372, "D": "a person affected with paralysis. ", "S": [], "A": []}

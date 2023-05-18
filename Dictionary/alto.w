@@ -1,0 +1,1 @@
+{"index": 9556, "D": "the lowest female voice; contralto.", "S": ["bass ", "deep "], "A": []}

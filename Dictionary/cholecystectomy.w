@@ -1,0 +1,1 @@
+{"index": 55389, "D": "removal of the gallbladder.", "S": [], "A": []}

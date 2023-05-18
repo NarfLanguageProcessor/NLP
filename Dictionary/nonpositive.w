@@ -1,0 +1,1 @@
+{"index": 206068, "D": "(of a real number) less than or equal to zero.", "S": [], "A": []}

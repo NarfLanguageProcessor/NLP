@@ -1,0 +1,1 @@
+{"index": 100023, "D": "a type of epithelium composed of a single layer of smooth, thin cells that lines the heart, blood vessels, lymphatics, and serous cavities.", "S": [], "A": []}

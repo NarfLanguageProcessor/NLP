@@ -1,0 +1,1 @@
+{"index": 24818, "D": "a boat used especially for carrying dispatches; dispatch boat.", "S": [], "A": []}

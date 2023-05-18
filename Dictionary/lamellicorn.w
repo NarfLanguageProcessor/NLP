@@ -1,0 +1,1 @@
+{"index": 167649, "D": "having antennae with lamellate terminal segments, as beetles of the group Lamellicornia, including the scarabaeids and stag beetles.", "S": [], "A": []}

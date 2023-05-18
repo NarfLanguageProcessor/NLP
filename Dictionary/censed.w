@@ -1,0 +1,1 @@
+{"index": 50752, "D": "to burn incense near or in front of; perfume with incense.", "S": [], "A": []}

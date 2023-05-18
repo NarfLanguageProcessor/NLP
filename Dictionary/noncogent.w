@@ -1,0 +1,1 @@
+{"index": 202015, "D": "convincing or believable by virtue of forcible, clear, or incisive presentation; telling.", "S": [], "A": []}

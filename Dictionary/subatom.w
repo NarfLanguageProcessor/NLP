@@ -1,0 +1,1 @@
+{"index": 307255, "D": "any component of an atom. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205772, "D": "(of a person or thing) not participating", "S": ["disinterested ", "evenhanded ", "fair-minded ", "inactive ", "indifferent ", "nonaligned ", "nonpartisan ", "unbiased ", "uncommitted ", "undecided ", "uninvolved "], "A": ["biased ", "concerned ", "decided ", "interested ", "involved ", "prejudiced ", "agitated ", "excited "]}

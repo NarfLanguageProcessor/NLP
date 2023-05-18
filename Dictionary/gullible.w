@@ -1,0 +1,1 @@
+{"index": 131212, "D": "easily deceived or cheated.", "S": ["foolish ", "unsophisticated ", "unsuspecting ", "wide-eyed "], "A": ["astute ", "discerning ", "knowledgeable ", "perceptive ", "suspicious ", "unbelieving ", "untrusting ", "wise "]}

@@ -1,0 +1,1 @@
+{"index": 252540, "D": "A clear colorless liquid used as a solvent and antiseptic. Also called propyl alcohol. Chemical formula", "S": [], "A": []}

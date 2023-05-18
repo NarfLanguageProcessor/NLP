@@ -1,0 +1,1 @@
+{"index": 270034, "D": "a policy, especially by a national government or legislative body, of enacting restrictions  on the amount of imported goods, immigration, etc.", "S": [], "A": []}

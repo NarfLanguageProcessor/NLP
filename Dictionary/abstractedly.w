@@ -1,0 +1,1 @@
+{"index": 1084, "D": "lost in thought; deeply engrossed or preoccupied.", "S": ["unintentionally ", "unknowingly ", "unwittingly "], "A": ["consciously ", "deliberately ", "intentionally ", "knowingly ", "willfully "]}

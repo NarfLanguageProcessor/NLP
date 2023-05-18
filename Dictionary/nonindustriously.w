@@ -1,0 +1,1 @@
+{"index": 204683, "D": "working energetically and devotedly; hardworking; diligent", "S": [], "A": []}

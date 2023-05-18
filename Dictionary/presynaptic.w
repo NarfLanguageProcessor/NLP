@@ -1,0 +1,1 @@
+{"index": 249501, "D": "being or occurring on the transmitting end of a discharge across a synapse.", "S": [], "A": []}

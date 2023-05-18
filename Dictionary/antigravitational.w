@@ -1,0 +1,1 @@
+{"index": 15329, "D": "of or relating to the force of attraction between two masses", "S": [], "A": []}

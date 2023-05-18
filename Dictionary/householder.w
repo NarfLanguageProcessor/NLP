@@ -1,0 +1,1 @@
+{"index": 144420, "D": "a person who holds title to or occupies a house.", "S": ["homeowner ", "landlord ", "mortgagee ", "owner "], "A": ["renter "]}

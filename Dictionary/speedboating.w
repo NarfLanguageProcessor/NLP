@@ -1,0 +1,1 @@
+{"index": 299009, "D": "the act, practice, or sport of traveling in a speedboat. ", "S": [], "A": []}

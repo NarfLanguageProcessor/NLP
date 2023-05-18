@@ -1,0 +1,1 @@
+{"index": 313492, "D": [], "S": ["assumption ", "conclusion ", "conjecture ", "feeling ", "guesswork ", "hunch ", "hypothesis ", "inference ", "judgment ", "opinion ", "prediction ", "presumption ", "supposition ", "theory "], "A": ["fact ", "proof ", "reality ", "truth ", "certainty ", "knowledge "]}

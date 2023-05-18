@@ -1,0 +1,1 @@
+{"index": 86983, "D": "to refuse to allow; reject; veto", "S": ["forbid ", "rebuff "], "A": ["OK ", "accept ", "acknowledge ", "admit ", "agree ", "allow ", "approve ", "claim ", "grant ", "include ", "permit ", "sanction ", "welcome "]}

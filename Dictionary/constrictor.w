@@ -1,0 +1,1 @@
+{"index": 67087, "D": "a snake that kills its prey by coiling tightly around it, causing suffocation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 362712, "D": "to give notice, advice, or intimation to (a person, group, etc.) of danger, impending evil, possible harm, or anything else unfavorable", "S": ["advised ", "cautioned ", "informed ", "notified ", "told "], "A": []}

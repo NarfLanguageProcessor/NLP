@@ -1,0 +1,1 @@
+{"index": 114423, "D": "to strip the blubber or the skin from (a whale, seal, etc.).", "S": [], "A": []}

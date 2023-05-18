@@ -1,0 +1,1 @@
+{"index": 265747, "D": "to disgorge; cast up again.", "S": [], "A": []}

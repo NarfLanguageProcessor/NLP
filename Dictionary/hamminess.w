@@ -1,0 +1,1 @@
+{"index": 133029, "D": "resembling ham  in taste, flavor, appearance, etc.", "S": [], "A": []}

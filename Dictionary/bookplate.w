@@ -1,0 +1,1 @@
+{"index": 38107, "D": "a label bearing the owner's name and often a design, coat of arms, or the like, for pasting on the front end paper of a book. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 88158, "D": "bringing or deserving disgrace;  shameful; dishonorable; disreputable.", "S": ["contemptible ", "degrading ", "ignominious ", "scandalous ", "shocking "], "A": ["exalted ", "honorable ", "respectable "]}

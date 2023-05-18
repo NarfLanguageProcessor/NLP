@@ -1,0 +1,1 @@
+{"index": 138156, "D": "a condition in which normal tissue deteriorates into a homogeneous, translucent material.", "S": [], "A": []}

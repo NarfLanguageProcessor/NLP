@@ -1,0 +1,1 @@
+{"index": 202411, "D": "living or occurring during the same period of time; contemporary. ", "S": [], "A": []}

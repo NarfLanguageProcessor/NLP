@@ -1,0 +1,1 @@
+{"index": 302163, "D": "to make or hold stable,  firm, or steadfast.", "S": ["equitable ", "fair "], "A": ["biased ", "partial ", "prejudiced ", "unfair ", "unjust ", "unreasonable "]}

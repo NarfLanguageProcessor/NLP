@@ -1,0 +1,1 @@
+{"index": 120286, "D": "cowering fear; state of great fright or terror.", "S": [], "A": []}

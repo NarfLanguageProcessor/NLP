@@ -1,0 +1,1 @@
+{"index": 40692, "D": "a beam supporting the shaft on which an upper millstone rotates.", "S": [], "A": []}

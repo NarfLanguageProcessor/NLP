@@ -1,0 +1,1 @@
+{"index": 154020, "D": "the quality or condition of being insubordinate,  or of being disobedient to authority; defiance", "S": ["dereliction ", "infringement "], "A": ["calm ", "harmony ", "obedience ", "peace ", "regard ", "respect ", "submission ", "subordination "]}

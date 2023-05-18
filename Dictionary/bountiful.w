@@ -1,0 +1,1 @@
+{"index": 38991, "D": "liberal in bestowing gifts, favors, or bounties;  munificent; generous.", "S": ["ample ", "lavish ", "magnanimous ", "plentiful "], "A": ["meager ", "scarce "]}

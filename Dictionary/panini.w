@@ -1,0 +1,1 @@
+{"index": 224688, "D": "a usually pressed and grilled sandwich of Italian bread filled with meat, cheese, vegetables, etc.", "S": [], "A": []}

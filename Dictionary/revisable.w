@@ -1,0 +1,1 @@
+{"index": 271376, "D": "to amend or alter", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 314577, "D": "switching  equipment used in an electric power station.", "S": [], "A": []}

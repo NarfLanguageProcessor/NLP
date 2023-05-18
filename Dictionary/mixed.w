@@ -1,0 +1,1 @@
+{"index": 190698, "D": "put together or formed by mixing. ", "S": ["blended ", "different ", "diverse ", "varied "], "A": ["alike ", "like ", "same ", "similar ", "uniform ", "separate ", "single "]}

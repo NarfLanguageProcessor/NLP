@@ -1,0 +1,1 @@
+{"index": 197697, "D": "cloudlike; nebulous.", "S": [], "A": []}

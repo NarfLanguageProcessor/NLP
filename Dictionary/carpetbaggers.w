@@ -1,0 +1,1 @@
+{"index": 48380, "D": [], "S": ["bounder ", "go-getter ", "ingrate ", "timeserver ", "trimmer "], "A": []}

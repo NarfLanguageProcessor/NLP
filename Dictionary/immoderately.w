@@ -1,0 +1,1 @@
+{"index": 148038, "D": "not moderate; exceeding just or reasonable limits; excessive; extreme.", "S": ["awfully ", "enormously ", "excessively ", "extraordinarily ", "extremely ", "highly ", "hugely ", "inordinately ", "really ", "remarkably ", "strikingly ", "terribly ", "unusually ", "vastly "], "A": ["little "]}

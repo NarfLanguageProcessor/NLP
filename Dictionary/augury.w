@@ -1,0 +1,1 @@
+{"index": 23398, "D": "the art or practice of an augur;  divination.", "S": ["auspice ", "boding ", "forerunner ", "foretoken ", "forewarning ", "harbinger ", "herald ", "portent ", "precursor ", "presage ", "prognostication ", "promise ", "prophecy ", "sign ", "token ", "warning "], "A": []}

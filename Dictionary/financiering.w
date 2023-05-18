@@ -1,0 +1,1 @@
+{"index": 112869, "D": "a person skilled or engaged in managing large financial  operations, whether public or corporate.", "S": [], "A": []}

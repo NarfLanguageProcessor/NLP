@@ -1,0 +1,1 @@
+{"index": 84404, "D": "the passage of blood cells, especially leukocytes, through the unruptured walls of the capillaries into the tissues.", "S": [], "A": []}

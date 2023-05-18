@@ -1,0 +1,1 @@
+{"index": 76552, "D": "(in the southern U.S.) a person native to the northern states of the U.S., especially one who is disliked or regarded with suspicion.", "S": [], "A": []}

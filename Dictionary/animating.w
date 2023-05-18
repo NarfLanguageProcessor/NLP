@@ -1,0 +1,1 @@
+{"index": 13206, "D": "to give life to; make alive", "S": ["enlivening ", "exhilarating ", "invigorating ", "quickening ", "rousing ", "spiriting ", "vitalizing "], "A": ["boring ", "depressing "]}

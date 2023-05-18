@@ -1,0 +1,1 @@
+{"index": 22873, "D": "extremely or shockingly wicked, cruel, or brutal", "S": ["awful ", "barbaric ", "heinous ", "lousy ", "rotten ", "scandalous ", "shocking "], "A": ["good ", "magnificent ", "wonderful "]}

@@ -1,0 +1,1 @@
+{"index": 211544, "D": "differing from the usual or expected; unconventional", "S": ["bohemian ", "dissenter ", "dropout ", "eccentric ", "freak ", "oddball ", "outsider ", "weirdo "], "A": []}

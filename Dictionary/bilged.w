@@ -1,0 +1,1 @@
+{"index": 33895, "D": "seepage accumulated in bilges.", "S": ["inflate ", "swell "], "A": ["compress ", "contract ", "shrink ", "abridge ", "lessen ", "lower ", "reduce "]}

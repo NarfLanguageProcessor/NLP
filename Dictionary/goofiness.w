@@ -1,0 +1,1 @@
+{"index": 127939, "D": "ridiculous; silly; wacky; nutty", "S": ["absurdity ", "craziness ", "foolishness ", "stupidity "], "A": ["sense "]}

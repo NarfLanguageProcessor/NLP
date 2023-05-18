@@ -1,0 +1,1 @@
+{"index": 246816, "D": "a soldier or draftee who leaves or runs away from service or duty with the intention of never returning", "S": [], "A": []}

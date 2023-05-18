@@ -1,0 +1,1 @@
+{"index": 106489, "D": "an eruptive disease, especially one attended with fever, as smallpox or measles.", "S": [], "A": []}

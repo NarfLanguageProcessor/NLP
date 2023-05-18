@@ -1,0 +1,1 @@
+{"index": 260714, "D": "any of numerous needle-shaped crystals, usually of calcium oxalate, that occur in many plant cells as a metabolic product", "S": [], "A": []}

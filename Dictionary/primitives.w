@@ -1,0 +1,1 @@
+{"index": 250549, "D": "being the first or earliest of the kind or in existence, especially in an early age of the world", "S": ["anthropophaginian ", "anthropophagite ", "anthropophagus ", "man-eater ", "people-eater "], "A": []}

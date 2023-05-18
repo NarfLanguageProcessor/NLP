@@ -1,0 +1,1 @@
+{"index": 67726, "D": "to compare in order to show unlikeness or differences; note the opposite natures, purposes, etc., of", "S": ["conflicting ", "contradictory "], "A": []}

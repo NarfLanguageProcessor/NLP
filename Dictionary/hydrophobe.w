@@ -1,0 +1,1 @@
+{"index": 138858, "D": "a hydrophobic  substance.", "S": [], "A": []}

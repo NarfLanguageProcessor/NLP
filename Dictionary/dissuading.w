@@ -1,0 +1,1 @@
+{"index": 89665, "D": "to deter by advice or persuasion; persuade not to do something (often followed by from)", "S": ["bleak ", "depressing ", "disappointing ", "disheartening ", "dismal ", "dispiriting ", "dreary ", "gloomy "], "A": ["bright ", "cheerful ", "encouraging ", "happy ", "light ", "pleasant ", "sunny "]}

@@ -1,0 +1,1 @@
+{"index": 275687, "D": "a space in a depressed area of an object into which a machine tool or grinding wheel may safely enter at the end of a pass or operation.", "S": [], "A": []}

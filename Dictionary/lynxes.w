@@ -1,0 +1,1 @@
+{"index": 173042, "D": "any of several wildcats of the genus Lynx (or Felis), having long limbs, a short tail, and usually tufted ears, especially L. lynx(Canada lynx ), of Canada and the northern United States, having grayish-brown fur marked with white.", "S": ["bobcat ", "wildcat "], "A": []}

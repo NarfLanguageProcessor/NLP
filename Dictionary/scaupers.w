@@ -1,0 +1,1 @@
+{"index": 279904, "D": "a graver with a flattened or hollowed blade, used in engraving.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 265027, "D": "an immigrant, especially one who has been in Australia only a short time.", "S": [], "A": []}

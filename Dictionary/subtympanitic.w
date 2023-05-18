@@ -1,0 +1,1 @@
+{"index": 309526, "D": "distention of the abdominal wall, as in peritonitis, caused by the accumulation of gas or air in the intestine or peritoneal cavity.", "S": [], "A": []}

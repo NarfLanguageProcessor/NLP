@@ -1,0 +1,1 @@
+{"index": 214027, "D": "like or pertaining to an orb. ", "S": [], "A": []}

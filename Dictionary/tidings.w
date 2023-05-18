@@ -1,0 +1,1 @@
+{"index": 323356, "D": "news, information, or intelligence", "S": ["advice ", "bulletin ", "communication ", "dirt ", "information ", "intelligence ", "message ", "report ", "word "], "A": ["ignorance ", "quiet ", "silence "]}

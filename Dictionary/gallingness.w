@@ -1,0 +1,1 @@
+{"index": 121405, "D": "that galls;  chafing; irritating; vexing. ", "S": [], "A": []}

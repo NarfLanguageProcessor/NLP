@@ -1,0 +1,1 @@
+{"index": 43848, "D": "a short, operatic aria of simple form and style.", "S": [], "A": []}

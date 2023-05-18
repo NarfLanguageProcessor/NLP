@@ -1,0 +1,1 @@
+{"index": 285735, "D": "(of a capsule) dehiscing by breaking away from the partitions but remaining attached to the common axis; dehiscing at the valves or backs of the carpels but leaving the septa intact.", "S": [], "A": []}

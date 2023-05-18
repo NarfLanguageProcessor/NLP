@@ -1,0 +1,1 @@
+{"index": 252496, "D": "capable of being propagated.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 146336, "D": "a person who originates and promotes or deals in ideas. ", "S": [], "A": []}

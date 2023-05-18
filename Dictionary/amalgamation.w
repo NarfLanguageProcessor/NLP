@@ -1,0 +1,1 @@
+{"index": 9762, "D": "the act or process of amalgamating. ", "S": ["amalgam "], "A": ["division ", "parting ", "separation ", "severance "]}

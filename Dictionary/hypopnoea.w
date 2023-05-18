@@ -1,0 +1,1 @@
+{"index": 141131, "D": "abnormally shallow breathing, usually accompanied by a decrease in the breathing rate", "S": [], "A": []}

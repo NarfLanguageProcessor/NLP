@@ -1,0 +1,1 @@
+{"index": 249444, "D": "of or relating to a fabric or garment that has been subjected to a shrinking process in order to reduce contraction when the apparel is washed or laundered.", "S": [], "A": []}

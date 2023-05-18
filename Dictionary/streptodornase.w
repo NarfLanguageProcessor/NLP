@@ -1,0 +1,1 @@
+{"index": 306105, "D": "a deoxyribonuclease,  obtained from hemolytic streptococci, used in medicine for decomposing blood clots and fibrinous and purulent matter.", "S": [], "A": []}

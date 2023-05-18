@@ -1,0 +1,1 @@
+{"index": 351890, "D": "not stable;  not firm or firmly fixed; unsteady.", "S": [], "A": []}

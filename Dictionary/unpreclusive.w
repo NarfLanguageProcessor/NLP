@@ -1,0 +1,1 @@
+{"index": 348300, "D": "to prevent the presence, existence, or occurrence of; make impossible", "S": [], "A": []}

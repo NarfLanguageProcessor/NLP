@@ -1,0 +1,1 @@
+{"index": 207036, "D": "of, relating to, or of the nature of schism;  guilty of schism. ", "S": [], "A": []}

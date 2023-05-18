@@ -1,0 +1,1 @@
+{"index": 291540, "D": "a group of individuals or organizations combined or making a joint effort to undertake some specific duty or carry out specific transactions or negotiations", "S": ["association ", "cartel ", "conglomerate ", "gang ", "mob ", "organization ", "ring ", "union "], "A": ["division ", "separation ", "individual ", "one "]}

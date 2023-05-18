@@ -1,0 +1,1 @@
+{"index": 151329, "D": "not ductile;  not pliable or yielding.", "S": [], "A": []}

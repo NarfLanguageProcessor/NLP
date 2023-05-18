@@ -1,0 +1,1 @@
+{"index": 249068, "D": "fineness or elegance of feeling, taste, manners, language, etc.", "S": [], "A": []}

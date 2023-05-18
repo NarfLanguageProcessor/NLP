@@ -1,0 +1,1 @@
+{"index": 247401, "D": "solely; only;  in a manner limited to what is designated", "S": [], "A": []}

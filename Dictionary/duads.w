@@ -1,0 +1,1 @@
+{"index": 93641, "D": "a group of two; couple; pair.", "S": [], "A": []}

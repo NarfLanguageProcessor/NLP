@@ -1,0 +1,1 @@
+{"index": 359869, "D": "a vengeful character or quality; a spirit of revenge", "S": ["anger ", "cattiness ", "cruelty ", "cussedness ", "evil ", "hatefulness ", "malevolence ", "maliciousness ", "meanness ", "orneriness ", "revenge ", "spite ", "vengefulness ", "viciousness "], "A": []}

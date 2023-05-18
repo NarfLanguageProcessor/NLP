@@ -1,0 +1,1 @@
+{"index": 256557, "D": "a thrusting blow, especially with the fist.", "S": ["bored ", "dented ", "embossed ", "imprinted ", "needled ", "pierced ", "punctured ", "stamped ", "tapped "], "A": []}

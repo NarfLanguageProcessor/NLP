@@ -1,0 +1,1 @@
+{"index": 234053, "D": "a doctrine associated with logical positivism and holding that every meaningful statement, other than the necessary statements of logic and mathematics, must refer directly or indirectly to observable properties of spatiotemporal things or events.", "S": [], "A": []}

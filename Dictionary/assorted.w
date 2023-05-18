@@ -1,0 +1,1 @@
+{"index": 21907, "D": "consisting of different or various kinds; miscellaneous", "S": ["sundry "], "A": ["like ", "same ", "similar ", "unvaried "]}

@@ -1,0 +1,1 @@
+{"index": 153403, "D": "(not in technical use as a medical diagnosis) the condition of being insane;  a derangement of the mind.", "S": ["absurdity ", "alienation ", "craziness ", "folly ", "frenzy ", "hysteria ", "irresponsibility ", "lunacy ", "madness ", "mental disorder "], "A": ["balance ", "certainty ", "fact ", "reality ", "truth "]}

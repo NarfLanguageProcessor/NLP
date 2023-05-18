@@ -1,0 +1,1 @@
+{"index": 46734, "D": "a variety of lyric poetry in the Italian style, of Proven\u00e7al origin, that closely resembles the madrigal.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 71583, "D": "any of several marine fishes  having hornlike projections over the eyes, especially a trunkfish, Lactophrys guadricornus, found in the warm waters of the Atlantic Ocean.", "S": [], "A": []}

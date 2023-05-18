@@ -1,0 +1,1 @@
+{"index": 17446, "D": "the dignity or office of an apostle.", "S": [], "A": []}

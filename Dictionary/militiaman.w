@@ -1,0 +1,1 @@
+{"index": 187215, "D": "a person serving in the militia. ", "S": ["food for powder ", "fresh fish ", "trooper "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 341211, "D": "to give power  or authority to; authorize, especially by legal or official means", "S": [], "A": []}

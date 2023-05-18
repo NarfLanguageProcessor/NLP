@@ -1,0 +1,1 @@
+{"index": 101169, "D": "any parasitic amoeba of the genus Entamoeba (or Endamoeba), esp E. histolytica, which lives in the intestines of man and causes amoebic dysentery", "S": [], "A": []}

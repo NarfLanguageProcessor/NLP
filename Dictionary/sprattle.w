@@ -1,0 +1,1 @@
+{"index": 301197, "D": "a struggle; fight.", "S": [], "A": []}

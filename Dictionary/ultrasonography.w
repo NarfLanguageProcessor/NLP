@@ -1,0 +1,1 @@
+{"index": 334065, "D": "a diagnostic imaging technique utilizing reflected high-frequency sound waves to delineate, measure, or examine internal body structures or organs.", "S": [], "A": []}

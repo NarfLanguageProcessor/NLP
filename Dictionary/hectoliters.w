@@ -1,0 +1,1 @@
+{"index": 135158, "D": "a unit of capacity equal to 100 liters, equivalent to 2.8378 U.S. bushels, or 26.418 U.S. gallons. Abbreviation", "S": [], "A": []}

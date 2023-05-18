@@ -1,0 +1,1 @@
+{"index": 111045, "D": "a preparer of skins or hides of animals, especially sheepskins, prior to leather making.", "S": [], "A": []}

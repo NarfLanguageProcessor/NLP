@@ -1,0 +1,1 @@
+{"index": 235154, "D": "the process of making surveys and maps through the use of photographs, especially aerial photographs.", "S": [], "A": []}

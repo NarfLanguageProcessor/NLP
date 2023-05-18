@@ -1,0 +1,1 @@
+{"index": 336536, "D": "a waterfall descending over a steep, rocky surface.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309700, "D": "the state or condition of a vassal. ", "S": [], "A": []}

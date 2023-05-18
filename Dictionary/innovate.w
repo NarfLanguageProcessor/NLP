@@ -1,0 +1,1 @@
+{"index": 153083, "D": "to introduce something new; make changes in anything established.", "S": ["admit ", "bring in ", "establish ", "found ", "initiate ", "install ", "invent ", "launch ", "organize ", "plan ", "present ", "set up ", "start ", "unveil "], "A": ["conclude ", "destroy ", "end ", "finish ", "ignore ", "neglect ", "stop "]}

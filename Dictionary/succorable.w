@@ -1,0 +1,1 @@
+{"index": 309870, "D": "help; relief; aid; assistance.", "S": [], "A": []}

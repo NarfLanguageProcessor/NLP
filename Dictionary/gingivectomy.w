@@ -1,0 +1,1 @@
+{"index": 125266, "D": "surgical removal of gum tissue.", "S": [], "A": []}

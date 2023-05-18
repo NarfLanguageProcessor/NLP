@@ -1,0 +1,1 @@
+{"index": 34409, "D": "able to destroy life.", "S": [], "A": []}

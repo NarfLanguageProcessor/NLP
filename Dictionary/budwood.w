@@ -1,0 +1,1 @@
+{"index": 42206, "D": "a shoot of a plant bearing buds suitable for bud grafting.", "S": [], "A": []}

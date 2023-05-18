@@ -1,0 +1,1 @@
+{"index": 134850, "D": "emotionally sincere; heartfelt", "S": [], "A": []}

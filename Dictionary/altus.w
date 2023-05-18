@@ -1,0 +1,1 @@
+{"index": 9580, "D": "a city in SW Oklahoma.", "S": [], "A": []}

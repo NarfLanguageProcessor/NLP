@@ -1,0 +1,1 @@
+{"index": 274730, "D": "the standard monetary unit of Belarus and Russia, divided into 100 kopecks", "S": [], "A": []}

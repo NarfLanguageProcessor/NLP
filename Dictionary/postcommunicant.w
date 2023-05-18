@@ -1,0 +1,1 @@
+{"index": 244002, "D": "a person who partakes or is entitled to partake of the Eucharist; a member of a church.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 232290, "D": "spreading or bearing disease, especially deadly epidemic disease; pestilential", "S": [], "A": []}

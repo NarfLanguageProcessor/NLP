@@ -1,0 +1,1 @@
+{"index": 177154, "D": "a French title of respect equivalent to \u201cMrs.\u201d, used alone or prefixed to a woman's married name or title", "S": ["Frau ", "dame ", "ma'am ", "madonna ", "signora "], "A": ["sir "]}

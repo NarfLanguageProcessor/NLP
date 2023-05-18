@@ -1,0 +1,1 @@
+{"index": 54950, "D": "the sum of the ideal qualifications of a knight, including courtesy, generosity, valor, and dexterity in arms.", "S": ["courage ", "courtesy ", "courtliness ", "fairness ", "politeness ", "valiance "], "A": ["impoliteness ", "rudeness "]}

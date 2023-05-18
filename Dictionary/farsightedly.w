@@ -1,0 +1,1 @@
+{"index": 110055, "D": "seeing objects at a distance more clearly than those near at hand; hyperopic.", "S": [], "A": []}

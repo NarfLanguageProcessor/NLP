@@ -1,0 +1,1 @@
+{"index": 308489, "D": "a set of certain rows and columns of a given matrix. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359128, "D": "a mineral, chiefly a hydrous silicate of calcium and aluminum, commonly in tetragonal crystals and usually of a brown to green color; idocrase.", "S": [], "A": []}

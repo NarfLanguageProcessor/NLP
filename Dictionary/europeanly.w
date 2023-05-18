@@ -1,0 +1,1 @@
+{"index": 105828, "D": "of or relating to Europe  or its inhabitants.", "S": [], "A": []}

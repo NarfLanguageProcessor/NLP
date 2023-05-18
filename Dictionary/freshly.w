@@ -1,0 +1,1 @@
+{"index": 118822, "D": "newly made or obtained", "S": ["anew ", "over ", "repeatedly "], "A": []}

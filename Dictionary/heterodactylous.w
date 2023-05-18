@@ -1,0 +1,1 @@
+{"index": 137531, "D": "having the first and fourth toes directed backward, and the second and third forward, as in trogons.", "S": [], "A": []}

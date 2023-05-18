@@ -1,0 +1,1 @@
+{"index": 311437, "D": "a particular tendency, trend, inclination, feeling, or opinion, especially one that is preconceived or unreasoned", "S": [], "A": []}

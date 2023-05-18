@@ -1,0 +1,1 @@
+{"index": 265735, "D": "a dry fruit consisting of three or more carpels that separate from the axis at maturity.", "S": [], "A": []}

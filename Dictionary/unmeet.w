@@ -1,0 +1,1 @@
+{"index": 346168, "D": "not meet; not fitting, suitable, or proper; not becoming or seemly.", "S": ["disproportionate ", "improper ", "incorrect ", "irrelevant ", "tasteless ", "unseemly ", "unsuitable ", "wrong "], "A": ["appropriate ", "correct ", "decent ", "fitting ", "good ", "moral ", "proper ", "right ", "suitable "]}

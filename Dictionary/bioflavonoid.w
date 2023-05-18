@@ -1,0 +1,1 @@
+{"index": 34358, "D": "a flavonoid  present in citrus fruits, rose hips, and other plants, that in mammals maintains the resistance of capillary walls to permeation and change of pressure.", "S": [], "A": []}

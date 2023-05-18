@@ -1,0 +1,1 @@
+{"index": 21309, "D": "to one side; out of line; in a crooked position; awry", "S": ["awry ", "off-center "], "A": []}

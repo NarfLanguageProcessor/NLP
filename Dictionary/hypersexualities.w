@@ -1,0 +1,1 @@
+{"index": 140506, "D": "the quality or condition of being unusually or excessively active sexually, or overly concerned with sexual matters", "S": [], "A": []}

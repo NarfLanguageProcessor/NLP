@@ -1,0 +1,1 @@
+{"index": 219763, "D": "moving or working rapidly, especially forced or required to hurry,  as a person.", "S": [], "A": []}

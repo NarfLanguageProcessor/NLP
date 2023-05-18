@@ -1,0 +1,1 @@
+{"index": 173058, "D": "a large, usually tawny-yellow cat, Panthera leo, native to Africa and southern Asia, having a tufted tail and, in the male, a large mane.", "S": [], "A": []}

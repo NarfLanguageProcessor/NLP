@@ -1,0 +1,1 @@
+{"index": 29622, "D": "a member of the Beat Generation.", "S": ["bohemian ", "free spirit ", "hippie ", "nonconformist "], "A": []}

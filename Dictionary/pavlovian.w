@@ -1,0 +1,1 @@
+{"index": 228230, "D": "of, relating to, or characteristic of Pavlov  or his work, especially of experiments in which he elicited predictable responses from laboratory animals.", "S": [], "A": []}

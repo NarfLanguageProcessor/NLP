@@ -1,0 +1,1 @@
+{"index": 248899, "D": "completely contrary to nature, reason, or common sense; utterly foolish; absurd; senseless", "S": ["absurdity ", "foolishness ", "idiocy ", "nonsense ", "ridiculousness ", "stupidity "], "A": []}

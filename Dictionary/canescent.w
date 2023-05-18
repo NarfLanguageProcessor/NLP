@@ -1,0 +1,1 @@
+{"index": 46284, "D": "covered with whitish or grayish pubescence, as certain plants.", "S": [], "A": []}

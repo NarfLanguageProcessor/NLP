@@ -1,0 +1,1 @@
+{"index": 12714, "D": "a strong feeling of displeasure and belligerence aroused by a wrong; wrath; ire.", "S": [], "A": []}

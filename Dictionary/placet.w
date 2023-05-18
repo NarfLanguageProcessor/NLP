@@ -1,0 +1,1 @@
+{"index": 238581, "D": "an expression or vote of assent or sanction, indicated by the use of the Latin word placet (it pleases).", "S": [], "A": []}

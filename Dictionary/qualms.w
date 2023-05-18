@@ -1,0 +1,1 @@
+{"index": 257894, "D": "an uneasy feeling or pang of conscience as to conduct; compunction", "S": ["shame "], "A": ["immorality "]}

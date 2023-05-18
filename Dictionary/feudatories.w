@@ -1,0 +1,1 @@
+{"index": 111847, "D": "a person who holds lands by feudal tenure; a feudal vassal.", "S": [], "A": []}

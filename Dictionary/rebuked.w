@@ -1,0 +1,1 @@
+{"index": 262465, "D": "to express sharp, stern disapproval of; reprove; reprimand.", "S": ["chided "], "A": ["complimented ", "praised "]}

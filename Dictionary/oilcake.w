@@ -1,0 +1,1 @@
+{"index": 211823, "D": "a cake or mass of linseed, cottonseed, soybean, or the like, from which the oil has been extracted or expressed, used as food for livestock.", "S": [], "A": []}

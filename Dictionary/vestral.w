@@ -1,0 +1,1 @@
+{"index": 359103, "D": "a room in or a building attached to a church, in which the vestments, and sometimes liturgical objects, are kept; sacristy.", "S": [], "A": []}

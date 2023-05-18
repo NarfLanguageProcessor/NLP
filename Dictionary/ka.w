@@ -1,0 +1,1 @@
+{"index": 162638, "D": "a spiritual entity, an aspect of the individual, believed to live within the body during life and to survive it after death.", "S": [], "A": []}

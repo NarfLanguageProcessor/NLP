@@ -1,0 +1,1 @@
+{"index": 57276, "D": "of or relating to cyclotomy. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 93754, "D": "fine; excellent; wonderful", "S": ["cordial ", "fair ", "friendly ", "good ", "kind ", "lovely ", "okay ", "superior ", "swell ", "welcome ", "winning "], "A": ["aloof ", "bad ", "cool ", "disagreeable ", "mean ", "ugly ", "unacceptable ", "unfriendly ", "unpleasant ", "unsociable ", "unsuitable "]}

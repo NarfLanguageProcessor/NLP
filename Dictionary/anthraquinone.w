@@ -1,0 +1,1 @@
+{"index": 14518, "D": "a yellow, water-insoluble, crystalline powder, C14H8O2, usually derived from anthracene  or phthalic anhydride", "S": [], "A": []}

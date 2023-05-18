@@ -1,0 +1,1 @@
+{"index": 20796, "D": "a Mediterranean plant, Eruca vesicaria sativa, of the mustard family, having pungent leaves used in salads.", "S": [], "A": []}

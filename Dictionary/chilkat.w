@@ -1,0 +1,1 @@
+{"index": 54377, "D": "a member of an Indian people of the Pacific coastal area of southeastern Alaska belonging to the Tlingit group of Indians.", "S": [], "A": []}

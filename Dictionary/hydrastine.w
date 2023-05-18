@@ -1,0 +1,1 @@
+{"index": 138438, "D": "an alkaloid, C21H21NO6, that is extracted from the roots of goldenseal and forms prismatic crystals", "S": [], "A": []}

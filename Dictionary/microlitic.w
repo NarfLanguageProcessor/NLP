@@ -1,0 +1,1 @@
+{"index": 186230, "D": "of or relating to the texture of a porphyry whose groundmass consists of microlites  in a glassy matrix.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 176460, "D": "of, relating to, or involving the corpus luteum. ", "S": [], "A": []}

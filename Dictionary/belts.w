@@ -1,0 +1,1 @@
+{"index": 31318, "D": "a band of flexible material, as leather or cord, for encircling the waist.", "S": ["ribbon ", "ring ", "strap ", "string "], "A": []}

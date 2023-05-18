@@ -1,0 +1,1 @@
+{"index": 217033, "D": "to surpass or exceed, as in speed, development, or performance", "S": ["outdo ", "outrun ", "outstrip ", "pass "], "A": ["fail ", "lose "]}

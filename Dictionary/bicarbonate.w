@@ -1,0 +1,1 @@
+{"index": 33363, "D": "a salt of carbonic acid, containing the HCO3\u22121 group; an acid carbonate,  as sodium bicarbonate,  NaHCO3.", "S": [], "A": []}

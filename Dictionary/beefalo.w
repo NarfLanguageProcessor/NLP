@@ -1,0 +1,1 @@
+{"index": 30295, "D": "a hybrid animal that is a cross between a buffalo and the domestic cow, bred for disease resistance and for meat with low fat content.", "S": [], "A": []}

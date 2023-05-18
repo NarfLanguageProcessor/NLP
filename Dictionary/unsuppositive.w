@@ -1,0 +1,1 @@
+{"index": 352465, "D": "of the nature of or involving supposition; suppositional.", "S": [], "A": []}

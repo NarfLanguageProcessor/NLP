@@ -1,0 +1,1 @@
+{"index": 350997, "D": "to give forth or glow with light; shed or cast light.", "S": [], "A": []}

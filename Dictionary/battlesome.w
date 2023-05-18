@@ -1,0 +1,1 @@
+{"index": 29156, "D": "argumentative; quarrelsome.", "S": [], "A": []}

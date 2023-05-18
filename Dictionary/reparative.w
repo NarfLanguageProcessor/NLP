@@ -1,0 +1,1 @@
+{"index": 268018, "D": "tending to repair; repairing; mending.", "S": ["bettering ", "emendatory ", "improving ", "rectifying ", "reformative ", "reformatory ", "restorative "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311262, "D": "anything abominable;  anything greatly disliked or abhorred.", "S": [], "A": []}

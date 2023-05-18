@@ -1,0 +1,1 @@
+{"index": 61669, "D": "any of several soft-rayed food fishes of the family Gadidae, especially Gadus morhua, of North Atlantic waters.", "S": [], "A": []}

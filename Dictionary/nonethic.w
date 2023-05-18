@@ -1,0 +1,1 @@
+{"index": 203662, "D": "the body of moral principles or values governing or distinctive of a particular culture or group", "S": [], "A": []}

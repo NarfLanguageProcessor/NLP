@@ -1,0 +1,1 @@
+{"index": 317363, "D": "salaried or paid  for by taxes", "S": [], "A": []}

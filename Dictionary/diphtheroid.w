@@ -1,0 +1,1 @@
+{"index": 86452, "D": "resembling diphtheria,  especially in the formation of a false membrane in the throat.", "S": [], "A": []}

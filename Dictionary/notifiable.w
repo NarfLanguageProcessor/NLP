@@ -1,0 +1,1 @@
+{"index": 208937, "D": "denoting certain infectious diseases of humans, such as smallpox and tuberculosis, outbreaks of which must be reported to the public health authorities", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 78456, "D": "an action seeking to have some right, status, etc, judicially ascertained", "S": [], "A": []}

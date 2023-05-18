@@ -1,0 +1,1 @@
+{"index": 10943, "D": "the state or quality of being amorphous.", "S": [], "A": []}

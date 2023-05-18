@@ -1,0 +1,1 @@
+{"index": 6152, "D": "wronged, offended, or injured", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 307184, "D": "of or relating to the era after that of the Apostles", "S": [], "A": []}

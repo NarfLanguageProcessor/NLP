@@ -1,0 +1,1 @@
+{"index": 332862, "D": "to cause to move around on an axis or about a center; rotate", "S": ["angle ", "change ", "corner ", "curve ", "departure ", "direction ", "reversal ", "round ", "shift ", "spin ", "spiral ", "swing ", "trend ", "twist ", "wind "], "A": ["failure ", "inability ", "miss ", "stagnation "]}

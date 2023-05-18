@@ -1,0 +1,1 @@
+{"index": 363616, "D": "a person who forecasts and reports the weather;  meteorologist.", "S": [], "A": []}

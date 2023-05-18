@@ -1,0 +1,1 @@
+{"index": 231949, "D": "overparticular; fussy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 217580, "D": "to gush or issue suddenly in a stream or jet, as a liquid; spout.", "S": [], "A": []}

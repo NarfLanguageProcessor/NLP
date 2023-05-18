@@ -1,0 +1,1 @@
+{"index": 364339, "D": "large. ", "S": ["beating ", "punishing ", "slamming ", "slapping ", "smacking ", "thumping ", "whipping "], "A": []}

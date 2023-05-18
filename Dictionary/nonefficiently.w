@@ -1,0 +1,1 @@
+{"index": 203378, "D": "in the best possible manner with the least waste of time and effort; capably or competently", "S": [], "A": []}

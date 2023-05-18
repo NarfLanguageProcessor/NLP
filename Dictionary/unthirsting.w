@@ -1,0 +1,1 @@
+{"index": 352924, "D": "a sensation of dryness in the mouth and throat caused by need of liquid.", "S": [], "A": []}

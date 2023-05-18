@@ -1,0 +1,1 @@
+{"index": 176627, "D": "any Australian tree of the genus Macadamia, especially M. ternifolia, having whorled leaves and elongated clusters of pink flowers.", "S": [], "A": []}

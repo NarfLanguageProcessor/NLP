@@ -1,0 +1,1 @@
+{"index": 112978, "D": "the tip  or end of a finger. ", "S": [], "A": []}

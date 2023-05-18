@@ -1,0 +1,1 @@
+{"index": 362059, "D": "having a waist  of a specified kind (usually used in combination)", "S": [], "A": []}

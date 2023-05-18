@@ -1,0 +1,1 @@
+{"index": 274591, "D": "forming a rosette or rosettes.", "S": [], "A": []}

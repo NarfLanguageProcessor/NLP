@@ -1,0 +1,1 @@
+{"index": 300244, "D": "full of spite  or malice; showing spite; malicious; malevolent; venomous", "S": ["barbed ", "catty ", "cruel ", "hateful ", "malicious ", "ornery ", "snide ", "venomous ", "vicious ", "vindictive "], "A": ["friendly ", "gentle ", "good ", "kind ", "lovable ", "nice ", "pleasant ", "sympathetic ", "thoughtful "]}

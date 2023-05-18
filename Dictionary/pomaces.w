@@ -1,0 +1,1 @@
+{"index": 242824, "D": "the pulpy residue from apples or similar fruit after crushing and pressing, as in cider making.", "S": ["paste "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 156062, "D": "a brand of typesetting machine similar to the Linotype.", "S": [], "A": []}

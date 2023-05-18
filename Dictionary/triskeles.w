@@ -1,0 +1,1 @@
+{"index": 330586, "D": "a symbolic figure consisting of three legs, arms, or branches radiating from a common center, as the device of Sicily and the Isle of Man.", "S": [], "A": []}

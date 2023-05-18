@@ -1,0 +1,1 @@
+{"index": 130224, "D": "any of various finches having a thick, conical bill.", "S": [], "A": []}

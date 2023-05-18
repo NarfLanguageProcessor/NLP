@@ -1,0 +1,1 @@
+{"index": 11838, "D": "having or producing unequal magnifications along two axes perpendicular to each other.", "S": ["wry "], "A": ["straight "]}

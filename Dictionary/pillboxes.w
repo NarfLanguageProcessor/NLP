@@ -1,0 +1,1 @@
+{"index": 236683, "D": "a box,  usually shallow and often round, for holding pills. ", "S": ["beret "], "A": []}

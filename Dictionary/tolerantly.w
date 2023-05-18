@@ -1,0 +1,1 @@
+{"index": 325257, "D": "inclined or disposed to tolerate; showing tolerance; forbearing", "S": ["accurately ", "correctly ", "decently ", "duly ", "equally ", "equitably ", "honestly ", "honorably ", "impartially ", "lawfully ", "legally ", "legitimately ", "properly ", "reasonably ", "rightfully ", "rightly "], "A": ["wrongly "]}

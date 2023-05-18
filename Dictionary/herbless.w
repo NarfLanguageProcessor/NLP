@@ -1,0 +1,1 @@
+{"index": 136942, "D": "a flowering plant whose stem above ground does not become woody.", "S": [], "A": []}

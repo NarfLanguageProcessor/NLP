@@ -1,0 +1,1 @@
+{"index": 90086, "D": "a bit (usually used in negative constructions)", "S": [], "A": []}

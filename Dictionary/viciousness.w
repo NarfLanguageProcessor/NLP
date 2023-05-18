@@ -1,0 +1,1 @@
+{"index": 359413, "D": "spiteful; malicious", "S": ["enmity ", "hate ", "hatefulness ", "hatred ", "hostility ", "malevolence ", "malice ", "maliciousness ", "malignancy ", "malignity ", "meanness ", "nastiness ", "spite ", "spitefulness ", "vindictiveness "], "A": ["benevolence ", "good will ", "kindliness ", "kindness ", "liking ", "love ", "loving "]}

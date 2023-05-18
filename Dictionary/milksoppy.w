@@ -1,0 +1,1 @@
+{"index": 187254, "D": "a weak or ineffectual person.", "S": [], "A": []}

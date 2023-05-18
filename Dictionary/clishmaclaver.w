@@ -1,0 +1,1 @@
+{"index": 60170, "D": "gossip; idle or foolish talk.", "S": [], "A": []}

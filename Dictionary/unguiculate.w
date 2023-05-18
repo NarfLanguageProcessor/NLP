@@ -1,0 +1,1 @@
+{"index": 343364, "D": "bearing or resembling a nail or claw.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 242790, "D": "the Polish name for Poland", "S": [], "A": []}

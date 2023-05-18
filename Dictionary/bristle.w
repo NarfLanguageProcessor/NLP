@@ -1,0 +1,1 @@
+{"index": 40960, "D": "one of the short, stiff, coarse hairs of certain animals, especially hogs, used extensively in making brushes.", "S": ["barb ", "feeler ", "fiber ", "point ", "prickle ", "quill ", "spine ", "stubble ", "thorn ", "vibrissa ", "whisker "], "A": []}

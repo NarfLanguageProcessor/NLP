@@ -1,0 +1,1 @@
+{"index": 196902, "D": "liquor, especially ale.", "S": [], "A": []}

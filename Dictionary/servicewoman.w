@@ -1,0 +1,1 @@
+{"index": 286459, "D": "a woman who is a member of the armed forces of a country.", "S": [], "A": []}

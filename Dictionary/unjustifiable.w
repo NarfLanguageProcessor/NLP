@@ -1,0 +1,1 @@
+{"index": 345256, "D": "not capable of being justified", "S": ["baseless ", "groundless ", "indefensible ", "inexcusable ", "unconscionable ", "unforgivable ", "unfounded ", "unjust ", "unjustified "], "A": ["excusable ", "justifiable ", "justified ", "proven ", "reasonable "]}

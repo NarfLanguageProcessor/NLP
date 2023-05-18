@@ -1,0 +1,1 @@
+{"index": 99442, "D": "a person who utters or writes an encomium; eulogist.", "S": ["appreciative ", "congratulatory ", "polite ", "respectful "], "A": ["unmannerly "]}

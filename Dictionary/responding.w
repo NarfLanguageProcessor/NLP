@@ -1,0 +1,1 @@
+{"index": 269779, "D": "to reply or answer in words", "S": ["answering ", "recompensing ", "replying ", "restoring "], "A": []}

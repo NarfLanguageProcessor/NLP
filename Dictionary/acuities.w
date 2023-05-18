@@ -1,0 +1,1 @@
+{"index": 3333, "D": "sharpness; acuteness;  keenness", "S": ["awareness ", "brilliance ", "guile ", "ingenuity ", "insight ", "intellect ", "intelligence ", "intuition ", "judgment ", "sensitivity ", "shrewdness ", "vision ", "wisdom ", "wit "], "A": ["ignorance ", "insensitivity ", "stupidity ", "misinterpretation ", "mistake ", "misunderstanding "]}

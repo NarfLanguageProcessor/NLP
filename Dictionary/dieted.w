@@ -1,0 +1,1 @@
+{"index": 85211, "D": "food and drink considered in terms of its qualities, composition, and its effects on health", "S": ["dietary ", "fast ", "regime ", "regimen ", "restriction ", "starvation "], "A": ["indulgence "]}

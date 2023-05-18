@@ -1,0 +1,1 @@
+{"index": 192651, "D": "a word of one syllable,  as yes or no.", "S": [], "A": []}

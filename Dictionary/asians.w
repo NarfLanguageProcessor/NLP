@@ -1,0 +1,1 @@
+{"index": 21202, "D": "of, belonging to, or characteristic of Asia  or its inhabitants.", "S": [], "A": []}

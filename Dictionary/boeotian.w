@@ -1,0 +1,1 @@
+{"index": 37258, "D": "of or relating to Boeotia  or its inhabitants.", "S": [], "A": []}

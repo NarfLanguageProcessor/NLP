@@ -1,0 +1,1 @@
+{"index": 268282, "D": "abundantly supplied or provided; filled (usually followed by with)", "S": ["awash ", "filled ", "loaded ", "rife "], "A": ["empty ", "lacking ", "unfilled ", "wanting "]}

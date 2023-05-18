@@ -1,0 +1,1 @@
+{"index": 342099, "D": "pertaining to or marked by fever; feverish.", "S": [], "A": []}

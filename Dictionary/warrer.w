@@ -1,0 +1,1 @@
+{"index": 362785, "D": [], "S": ["belligerent ", "cantankerous ", "combative ", "contentious ", "fractious ", "litigious ", "petulant ", "tempestuous ", "turbulent ", "unruly "], "A": ["agreeable ", "calm ", "good-natured ", "happy ", "mild ", "moderate ", "nice ", "obedient ", "pleasant "]}

@@ -1,0 +1,1 @@
+{"index": 233303, "D": "a potent monoamine oxidase inhibitor, C8H12N2, used to treat certain kinds of depression.", "S": [], "A": []}

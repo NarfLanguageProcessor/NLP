@@ -1,0 +1,1 @@
+{"index": 148589, "D": "not supported by written authority", "S": [], "A": []}

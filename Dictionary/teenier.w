@@ -1,0 +1,1 @@
+{"index": 317795, "D": "tiny. ", "S": ["Lilliputian ", "diminutive ", "microscopic ", "miniature ", "minuscule ", "minute ", "teensy-weensy ", "teeny-weeny ", "tiny ", "wee ", "weeny "], "A": ["big ", "enormous ", "huge ", "large "]}

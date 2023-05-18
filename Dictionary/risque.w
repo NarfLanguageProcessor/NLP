@@ -1,0 +1,1 @@
+{"index": 273273, "D": "daringly close to indelicacy or impropriety; off-color", "S": ["bawdy ", "erotic ", "lewd ", "lurid ", "naughty ", "off-color ", "provocative ", "suggestive "], "A": ["clean ", "decent ", "moral "]}

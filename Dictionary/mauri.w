@@ -1,0 +1,1 @@
+{"index": 181446, "D": "the life force or essence of the emotions", "S": [], "A": []}

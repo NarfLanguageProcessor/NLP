@@ -1,0 +1,1 @@
+{"index": 113273, "D": "in a manner or position that is secure and solid", "S": ["rigidly ", "securely ", "solidly ", "soundly ", "strongly ", "thoroughly ", "tightly "], "A": ["indefinitely ", "weakly "]}

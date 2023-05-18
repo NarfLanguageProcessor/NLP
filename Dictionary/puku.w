@@ -1,0 +1,1 @@
+{"index": 256193, "D": "an African antelope, Adenota vardoni, closely related to the waterbuck.", "S": [], "A": []}

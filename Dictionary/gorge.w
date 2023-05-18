@@ -1,0 +1,1 @@
+{"index": 128078, "D": "a narrow cleft with steep, rocky walls, especially one through which a stream runs.", "S": ["canyon ", "chasm ", "crevasse ", "ravine "], "A": []}

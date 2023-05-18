@@ -1,0 +1,1 @@
+{"index": 77718, "D": "open to question; in dispute; doubtful", "S": ["arguable ", "doubtful ", "dubious ", "moot ", "problematic ", "questionable ", "uncertain "], "A": ["certain ", "clear ", "decided ", "definite ", "proven ", "resolved ", "settled ", "sure ", "unquestionable "]}

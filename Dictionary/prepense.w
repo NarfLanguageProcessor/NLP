@@ -1,0 +1,1 @@
+{"index": 248794, "D": "planned or intended in advance; premeditated.", "S": ["studied ", "treated "], "A": ["disregarded ", "forgotten ", "neglected ", "unplanned ", "unstudied "]}

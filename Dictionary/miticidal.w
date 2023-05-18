@@ -1,0 +1,1 @@
+{"index": 190597, "D": "a substance or preparation for killing mites. ", "S": [], "A": []}

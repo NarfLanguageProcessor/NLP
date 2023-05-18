@@ -1,0 +1,1 @@
+{"index": 23014, "D": "a person who is present at a specific time or place", "S": ["attendant "], "A": ["absentee "]}

@@ -1,0 +1,1 @@
+{"index": 241639, "D": "arthritis  occurring in more than one joint.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 73773, "D": "a person who carries or holds a cross,  especially in a religious procession.", "S": [], "A": []}

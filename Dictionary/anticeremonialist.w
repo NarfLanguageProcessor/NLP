@@ -1,0 +1,1 @@
+{"index": 14860, "D": "of, relating to, or characterized by ceremony;  formal; ritual", "S": [], "A": []}

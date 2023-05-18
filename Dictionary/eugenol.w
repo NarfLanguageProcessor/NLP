@@ -1,0 +1,1 @@
+{"index": 105429, "D": "a colorless, oily, spicy, aromatic, very slightly water-soluble liquid, C10H12O2, extracted from certain essential oils, as oil of cloves", "S": [], "A": []}

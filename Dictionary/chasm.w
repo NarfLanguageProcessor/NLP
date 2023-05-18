@@ -1,0 +1,1 @@
+{"index": 53024, "D": "a yawning fissure or deep cleft in the earth's surface; gorge.", "S": ["cleavage ", "crater ", "crevasse ", "fissure ", "gorge ", "ravine ", "rift ", "schism ", "void "], "A": ["closing ", "closure ", "remembrance ", "solid "]}

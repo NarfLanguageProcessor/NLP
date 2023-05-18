@@ -1,0 +1,1 @@
+{"index": 310091, "D": "to undergo or feel pain or distress", "S": ["deteriorate ", "endure ", "experience ", "get ", "go through ", "hurt ", "undergo "], "A": ["calm ", "please ", "soothe ", "surrender ", "yield ", "assuage ", "help ", "rise ", "strengthen "]}

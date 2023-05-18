@@ -1,0 +1,1 @@
+{"index": 13675, "D": "the announcement by the angel Gabriel to the Virgin Mary of her conception of Christ.", "S": ["advertisement ", "bulletin ", "communication ", "declaration ", "edict ", "enunciation ", "notice ", "notification ", "proclamation ", "pronouncement ", "publication "], "A": ["concealment "]}

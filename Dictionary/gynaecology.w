@@ -1,0 +1,1 @@
+{"index": 125140, "D": "the branch of medicine concerned with diseases in women, esp those of the genitourinary tract", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 277374, "D": "favorable to or promoting health; healthful. ", "S": ["sanitation "], "A": ["dirtiness ", "filth ", "foulness "]}

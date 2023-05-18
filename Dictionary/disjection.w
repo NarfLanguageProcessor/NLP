@@ -1,0 +1,1 @@
+{"index": 88505, "D": "to scatter; disperse.", "S": [], "A": []}

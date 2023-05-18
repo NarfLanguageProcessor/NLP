@@ -1,0 +1,1 @@
+{"index": 17855, "D": "to name or assign to a position, an office, or the like; designate", "S": ["assign ", "choose ", "designate ", "elect ", "establish ", "install ", "name ", "nominate ", "select ", "set "], "A": ["ignore ", "disallow ", "keep ", "neglect ", "retract ", "unsettle "]}

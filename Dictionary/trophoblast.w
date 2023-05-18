@@ -1,0 +1,1 @@
+{"index": 331176, "D": "the layer of extraembryonic ectoderm that chiefly nourishes the embryo or develops into fetal membranes with nutritive functions.", "S": [], "A": []}

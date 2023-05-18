@@ -1,0 +1,1 @@
+{"index": 52176, "D": "a quarry for chalk", "S": [], "A": []}

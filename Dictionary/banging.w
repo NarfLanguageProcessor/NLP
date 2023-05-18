@@ -1,0 +1,1 @@
+{"index": 27430, "D": "a loud, sudden, explosive noise, as the discharge of a gun.", "S": ["brouhaha ", "confusion ", "fuss ", "turbulence "], "A": ["calm ", "peace ", "calmness ", "order "]}

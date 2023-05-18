@@ -1,0 +1,1 @@
+{"index": 176414, "D": "full of or characterized by healthy vigor.", "S": ["loudly "], "A": ["inaudibly ", "silently "]}

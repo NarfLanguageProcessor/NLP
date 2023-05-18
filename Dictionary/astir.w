@@ -1,0 +1,1 @@
+{"index": 22127, "D": "moving or stirring,  especially with much activity or excitement", "S": ["about ", "active ", "afoot ", "alert ", "awake ", "roused "], "A": []}

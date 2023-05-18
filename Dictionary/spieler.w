@@ -1,0 +1,1 @@
+{"index": 299719, "D": "a barker, as at a circus sideshow.", "S": ["broadcaster ", "disc jockey ", "newscaster ", "reporter "], "A": []}

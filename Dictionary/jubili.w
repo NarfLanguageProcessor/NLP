@@ -1,0 +1,1 @@
+{"index": 162010, "D": "(in Roman Catholic music) a rejoicing, melodic group of tones to which is chanted the last \u201ca\u201d of the second and third alleluias, often following the gradual of the Mass.", "S": [], "A": []}

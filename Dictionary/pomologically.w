@@ -1,0 +1,1 @@
+{"index": 242902, "D": "the science that deals with fruits and fruit growing.", "S": [], "A": []}

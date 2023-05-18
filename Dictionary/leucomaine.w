@@ -1,0 +1,1 @@
+{"index": 171060, "D": "any of a group of toxic amines produced during animal metabolism", "S": [], "A": []}

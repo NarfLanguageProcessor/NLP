@@ -1,0 +1,1 @@
+{"index": 142453, "D": "an opening through something; gap; aperture", "S": ["expand ", "free ", "release "], "A": ["hold ", "close ", "close up ", "combine ", "conceal ", "cover ", "fasten ", "fix ", "hide ", "join ", "marry ", "mend ", "misunderstand ", "secrete ", "sew ", "suppress ", "unite ", "withhold ", "wrap "]}

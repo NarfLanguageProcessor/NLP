@@ -1,0 +1,1 @@
+{"index": 40864, "D": "a Valkyrie and the wife of Gunnar, for whom she was won by Sigurd", "S": [], "A": []}

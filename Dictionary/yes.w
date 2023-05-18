@@ -1,0 +1,1 @@
+{"index": 146918, "D": "(used to express affirmation or assent or to mark the addition of something emphasizing and amplifying a previous statement)", "S": ["affirmative ", "amen ", "fine ", "good ", "okay ", "true ", "yea "], "A": ["disagreed "]}

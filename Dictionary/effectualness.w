@@ -1,0 +1,1 @@
+{"index": 95968, "D": "producing or capable of producing an intended effect; adequate. ", "S": ["capability ", "cogency ", "effectiveness ", "effectuality ", "efficaciousness ", "efficacy ", "influence ", "power ", "success "], "A": ["failure ", "impotence ", "inability ", "incapacity ", "incompetence ", "ineffectiveness ", "inefficiency ", "uselessness ", "weakness "]}

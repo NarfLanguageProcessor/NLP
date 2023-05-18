@@ -1,0 +1,1 @@
+{"index": 115593, "D": "pertaining or peculiar to rivers; found in or near rivers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 34438, "D": "an instrument for measuring the amount of carbon dioxide given off by an organism, tissue, etc.", "S": [], "A": []}

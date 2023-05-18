@@ -1,0 +1,1 @@
+{"index": 342618, "D": "to convert into a fossil;  replace organic with mineral substances in the remains of an organism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 192748, "D": "(of certain animals) producing a single offspring at a birth", "S": [], "A": []}

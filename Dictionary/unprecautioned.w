@@ -1,0 +1,1 @@
+{"index": 348269, "D": "a measure taken in advance to avert possible evil or to secure good results.", "S": [], "A": []}

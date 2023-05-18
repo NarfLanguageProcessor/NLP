@@ -1,0 +1,1 @@
+{"index": 88319, "D": "a large pan in which dishes, pots, etc., are washed.", "S": [], "A": []}

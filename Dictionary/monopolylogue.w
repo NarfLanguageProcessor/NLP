@@ -1,0 +1,1 @@
+{"index": 192568, "D": "a theatrical entertainment in which the same performer plays several parts or characters.", "S": [], "A": []}

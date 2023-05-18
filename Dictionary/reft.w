@@ -1,0 +1,1 @@
+{"index": 265417, "D": "a simple past tense and past participle of reave1. ", "S": ["branched ", "cleft ", "prorated ", "split "], "A": ["undivided "]}

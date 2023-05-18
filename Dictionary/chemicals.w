@@ -1,0 +1,1 @@
+{"index": 53652, "D": "a substance produced by or used in a chemical process.", "S": ["vinegar "], "A": []}

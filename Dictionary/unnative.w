@@ -1,0 +1,1 @@
+{"index": 346773, "D": "being the place or environment in which a person was born or a thing came into being", "S": [], "A": []}

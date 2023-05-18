@@ -1,0 +1,1 @@
+{"index": 200044, "D": "the ancient Greek goddess of victory.", "S": [], "A": []}

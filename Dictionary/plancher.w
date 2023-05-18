@@ -1,0 +1,1 @@
+{"index": 238897, "D": "the soffit of a cornice, especially one of wood.", "S": [], "A": []}

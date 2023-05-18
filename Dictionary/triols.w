@@ -1,0 +1,1 @@
+{"index": 330231, "D": "a compound having three hydroxyl groups.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 289104, "D": "a room used for the display of goods or merchandise.", "S": ["exhibit ", "hall ", "museum ", "salon ", "studio "], "A": []}

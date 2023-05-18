@@ -1,0 +1,1 @@
+{"index": 240345, "D": "a person or thing that plugs. ", "S": ["butcher ", "dropper ", "eliminator ", "enforcer ", "executioner ", "gun ", "killer ", "liquidator ", "slayer ", "torpedo "], "A": ["victim "]}

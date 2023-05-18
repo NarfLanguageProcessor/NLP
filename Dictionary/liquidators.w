@@ -1,0 +1,1 @@
+{"index": 173308, "D": "a person who liquidates  assets, especially one authorized to do so by a court of law.", "S": ["butcher ", "dropper ", "eliminator ", "enforcer ", "executioner ", "gun ", "killer ", "plugger ", "slayer ", "torpedo "], "A": ["victim "]}

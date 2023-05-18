@@ -1,0 +1,1 @@
+{"index": 185906, "D": "a centimeter-gram-second unit of pressure, equal to one millionth of a bar;  one dyne per square centimeter.", "S": [], "A": []}

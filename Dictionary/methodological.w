@@ -1,0 +1,1 @@
+{"index": 185296, "D": "of, relating to, or following the system of methods, principles, and rules that regulate a given discipline", "S": ["high-tech ", "industrial ", "mechanical ", "professional ", "scholarly ", "scientific ", "special ", "specialized ", "technological ", "vocational "], "A": []}

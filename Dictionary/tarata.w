@@ -1,0 +1,1 @@
+{"index": 316502, "D": "a tree, Pittosporum eugenioides, of New Zealand, having elliptic leaves and fragrant, yellow flowers, grown as an ornamental.", "S": [], "A": []}

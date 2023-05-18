@@ -1,0 +1,1 @@
+{"index": 135028, "D": "rising and falling rhythmically or with a swelling motion, as ocean waves or the chest of someone breathing", "S": ["bouncing ", "bouncy ", "bulgy ", "distended ", "ebbing and flowing ", "puffy ", "rippling ", "rising ", "rising and falling ", "rolling ", "swelling ", "swirling ", "swollen ", "undulating ", "waving ", "wavy "], "A": []}

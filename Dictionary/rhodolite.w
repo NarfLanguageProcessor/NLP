@@ -1,0 +1,1 @@
+{"index": 272292, "D": "a rose or reddish-violet garnet, similar to pyrope, used as a gem.", "S": [], "A": []}

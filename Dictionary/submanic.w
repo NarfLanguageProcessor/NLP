@@ -1,0 +1,1 @@
+{"index": 308472, "D": "pertaining to or affected by mania. ", "S": [], "A": []}

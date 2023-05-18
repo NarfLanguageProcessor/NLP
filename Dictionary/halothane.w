@@ -1,0 +1,1 @@
+{"index": 132846, "D": "a colorless liquid, C2HBrClF3, used as an inhalant for general anesthesia.", "S": [], "A": []}

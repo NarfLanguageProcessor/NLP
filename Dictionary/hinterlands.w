@@ -1,0 +1,1 @@
+{"index": 139732, "D": "the remote or less developed parts of a country; back country", "S": ["boondocks ", "boonies ", "bush ", "farm ", "sticks "], "A": []}

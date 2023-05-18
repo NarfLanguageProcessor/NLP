@@ -1,0 +1,1 @@
+{"index": 146330, "D": "a conception of something in its perfection.", "S": [], "A": []}

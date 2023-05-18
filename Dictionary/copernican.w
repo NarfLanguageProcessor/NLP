@@ -1,0 +1,1 @@
+{"index": 68474, "D": "of or relating to Copernicus or his theories.", "S": [], "A": []}

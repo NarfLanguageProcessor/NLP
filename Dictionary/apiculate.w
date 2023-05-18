@@ -1,0 +1,1 @@
+{"index": 16972, "D": "tipped with a short, abrupt point, as a leaf.", "S": [], "A": []}

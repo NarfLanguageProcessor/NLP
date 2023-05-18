@@ -1,0 +1,1 @@
+{"index": 86876, "D": "to free (a person) from deception or error.", "S": [], "A": []}

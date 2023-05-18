@@ -1,0 +1,1 @@
+{"index": 60136, "D": "characterized by quick, terse, and clear enunciation.", "S": ["brusque ", "concise ", "cryptic ", "curt ", "elliptical ", "incisive ", "laconic ", "pithy ", "precise ", "succinct ", "trenchant "], "A": ["gentle ", "kind ", "lengthy ", "long-winded ", "nice ", "polite ", "verbose ", "wordy "]}

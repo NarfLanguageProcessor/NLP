@@ -1,0 +1,1 @@
+{"index": 40996, "D": "a word, idiom, or phrase characteristic of or restricted to British English, especially as compared with American English, as lift compared with elevator or in hospital with in the hospital.", "S": [], "A": []}

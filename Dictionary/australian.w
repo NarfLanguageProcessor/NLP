@@ -1,0 +1,1 @@
+{"index": 23713, "D": "of or relating to Australia,  its inhabitants, or their languages.", "S": [], "A": []}

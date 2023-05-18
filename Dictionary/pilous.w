@@ -1,0 +1,1 @@
+{"index": 236794, "D": "pilose. ", "S": ["bearded ", "bewhiskered ", "bristly ", "bushy ", "downy ", "fleecy ", "flocculent ", "fluffy ", "furry ", "fuzzy ", "hirsute ", "lanate ", "pileous ", "piliferous ", "pubescent ", "rough ", "shaggy ", "stubbly ", "tufted ", "unshaven ", "unshorn ", "villous ", "whiskered ", "woolly "], "A": []}

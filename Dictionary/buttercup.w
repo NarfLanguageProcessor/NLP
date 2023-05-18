@@ -1,0 +1,1 @@
+{"index": 43671, "D": "any of numerous plants of the genus Ranunculus, having glossy yellow flowers and deeply cut leaves.", "S": ["babe ", "chick ", "child ", "kid ", "toddler ", "youngster "], "A": ["adult "]}

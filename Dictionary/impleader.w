@@ -1,0 +1,1 @@
+{"index": 148750, "D": "a procedural method by which an original party to an action may bring in and make a claim against a third party in connection with the claim made against the original party.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 195370, "D": "to form or place in strata  or layers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 120470, "D": [], "S": ["furnishings ", "furniture ", "home furnishings ", "house furnishings "], "A": []}

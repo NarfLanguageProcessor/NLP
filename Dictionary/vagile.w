@@ -1,0 +1,1 @@
+{"index": 356494, "D": "endowed with or having freedom of movement.", "S": [], "A": []}

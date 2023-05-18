@@ -1,0 +1,1 @@
+{"index": 147079, "D": "lacking in knowledge or training; unlearned", "S": ["illiterate ", "innocent ", "naive ", "oblivious ", "obtuse ", "uneducated ", "uninformed "], "A": ["educated ", "experienced ", "intelligent ", "learned ", "taught "]}

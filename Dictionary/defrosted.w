@@ -1,0 +1,1 @@
+{"index": 79506, "D": "to remove the frost  or ice from", "S": ["thaw "], "A": ["freeze "]}

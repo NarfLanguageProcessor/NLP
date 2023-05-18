@@ -1,0 +1,1 @@
+{"index": 304435, "D": "a colorless to slightly yellow, crystalline, water-insoluble solid, C14H12, used chiefly in the manufacture of dyes (stilbene dyes ).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 312889, "D": "a person who supervises  workers or the work done by others; superintendent.", "S": ["board ", "bureau ", "cabinet ", "committee ", "department ", "executive ", "legislature ", "management ", "ministry ", "presidency "], "A": []}

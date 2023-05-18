@@ -1,0 +1,1 @@
+{"index": 65025, "D": "against a proposition, opinion, etc.", "S": ["bluff ", "cheat ", "crime ", "deception ", "dupe ", "fraud ", "graft ", "mockery ", "swindle "], "A": []}

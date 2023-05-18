@@ -1,0 +1,1 @@
+{"index": 275928, "D": "a superheavy, synthetic, radioactive element with a very short half-life. Symbol", "S": [], "A": []}

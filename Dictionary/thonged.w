@@ -1,0 +1,1 @@
+{"index": 322322, "D": "a strip of material, especially of leather or hide, used to fasten or secure something.", "S": [], "A": []}

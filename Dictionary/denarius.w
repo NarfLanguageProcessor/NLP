@@ -1,0 +1,1 @@
+{"index": 80971, "D": "a silver coin and monetary unit of ancient Rome, first issued in the latter part of the 3rd century b.c., that fluctuated in value and sometimes appeared as a bronze coin.", "S": [], "A": []}

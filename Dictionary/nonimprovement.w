@@ -1,0 +1,1 @@
+{"index": 204618, "D": "an act of improving  or the state of being improved. ", "S": [], "A": []}

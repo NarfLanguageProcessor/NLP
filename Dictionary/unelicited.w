@@ -1,0 +1,1 @@
+{"index": 341113, "D": "drawn or brought out in response to something", "S": [], "A": []}

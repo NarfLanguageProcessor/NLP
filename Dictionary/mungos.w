@@ -1,0 +1,1 @@
+{"index": 195567, "D": "a low-grade wool from felted rags or waste.", "S": [], "A": []}

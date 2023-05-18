@@ -1,0 +1,1 @@
+{"index": 214641, "D": "a prayer.", "S": ["appeal ", "application ", "begging ", "benediction ", "collect ", "communion ", "devotion ", "entreaty ", "grace ", "imprecation ", "invocation ", "litany ", "petition ", "plea ", "pleading ", "request ", "rogation ", "service ", "suit ", "supplication ", "worship "], "A": ["answer ", "demand ", "reply "]}

@@ -1,0 +1,1 @@
+{"index": 21928, "D": "soothing; alleviative.", "S": ["benign ", "compassionate ", "compliant ", "forgiving ", "indulgent ", "sympathetic ", "tolerant "], "A": ["hateful ", "merciless "]}

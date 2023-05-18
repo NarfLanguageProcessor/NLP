@@ -1,0 +1,1 @@
+{"index": 323132, "D": "of or relating to a pre-Incan culture existing c300 b.c.\u2013a.d. c900, chiefly in Peru and Bolivia, characterized by the use of megalithic masonry carved with geometric and animal designs, stone statues, polychrome pottery, and bronze artifacts.", "S": [], "A": []}

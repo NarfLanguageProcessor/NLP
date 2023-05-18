@@ -1,0 +1,1 @@
+{"index": 13522, "D": "the theory or practice of taking over another country's territory, especially by force.", "S": [], "A": []}

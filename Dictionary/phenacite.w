@@ -1,0 +1,1 @@
+{"index": 233281, "D": "a rare vitreous mineral, beryllium silicate, Be2SiO4, occurring in crystals, sometimes used as a gem.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 294245, "D": "to cut apart or open along a line; make a long cut, fissure, or opening in.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 153499, "D": "any animal of the class Insecta, comprising small, air-breathing arthropods  having the body divided into three parts (head, thorax, and abdomen), and having three pairs of legs and usually two pairs of wings.", "S": ["animal ", "bugs ", "pests "], "A": []}

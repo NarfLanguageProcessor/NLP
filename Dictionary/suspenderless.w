@@ -1,0 +1,1 @@
+{"index": 313732, "D": "adjustable straps or bands worn over the shoulders with the ends buttoned or clipped to the waistband of a pair of trousers or a skirt to support it.", "S": [], "A": []}

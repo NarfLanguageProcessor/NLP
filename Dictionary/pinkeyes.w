@@ -1,0 +1,1 @@
+{"index": 237095, "D": "a contagious form of acute conjunctivitis  occurring in humans and certain animals", "S": [], "A": []}

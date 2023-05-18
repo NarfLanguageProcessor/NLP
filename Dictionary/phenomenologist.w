@@ -1,0 +1,1 @@
+{"index": 233427, "D": "the study of phenomena. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 142066, "D": "a blue-faced, crested bird, Opisthocomus hoazin, of the Amazon and Orinoco forests, having as a nestling a large, temporary claw on the second and third digits of the forelimb, for climbing among the tree branches.", "S": [], "A": []}

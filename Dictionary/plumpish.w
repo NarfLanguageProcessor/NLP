@@ -1,0 +1,1 @@
+{"index": 240485, "D": "somewhat plump;  tending to plumpness.", "S": ["beefy ", "burly ", "buxom ", "chubby ", "chunky ", "corpulent ", "filled ", "fleshy ", "full ", "obese ", "portly ", "pudgy ", "roly-poly ", "rotund ", "round ", "stout ", "tubby ", "zaftig "], "A": []}

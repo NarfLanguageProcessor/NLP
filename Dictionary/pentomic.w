@@ -1,0 +1,1 @@
+{"index": 230097, "D": "pertaining to or characterizing the organization of an army division into five groups, each with supporting units, geared to maneuver in keeping with the requirements of atomic warfare.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 173359, "D": "a coin and monetary unit of Italy until the euro  was adopted, equal to 100 centesimi. Abbreviation", "S": [], "A": []}

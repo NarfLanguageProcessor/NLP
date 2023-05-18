@@ -1,0 +1,1 @@
+{"index": 225982, "D": "a flourish made after a signature, as in a document, originally as a precaution against forgery.", "S": [], "A": []}

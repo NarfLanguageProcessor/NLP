@@ -1,0 +1,1 @@
+{"index": 243533, "D": "A large crystal that is surrounded by a finer-grained matrix in a metamorphic rock. Porphyroblasts form by the recrystallization of existing mineral crystals during metamorphism. They are analogous to phenocrysts in igneous rock.", "S": [], "A": []}

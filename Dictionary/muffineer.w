@@ -1,0 +1,1 @@
+{"index": 194758, "D": "a caster for sprinkling sugar or other condiments on food.", "S": [], "A": []}

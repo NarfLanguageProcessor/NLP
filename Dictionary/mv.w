@@ -1,0 +1,1 @@
+{"index": 196389, "D": "mendelevium.", "S": [], "A": []}

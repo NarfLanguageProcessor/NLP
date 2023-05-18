@@ -1,0 +1,1 @@
+{"index": 207760, "D": "not being the subject or goal of a particular action, program, maneuver, or the like; not designated for use, observation, attack, etc.", "S": [], "A": []}

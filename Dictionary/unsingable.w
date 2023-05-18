@@ -1,0 +1,1 @@
+{"index": 351224, "D": "to utter words or sounds in succession with musical modulations of the voice; vocalize melodically.", "S": [], "A": []}

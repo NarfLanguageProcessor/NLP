@@ -1,0 +1,1 @@
+{"index": 252645, "D": "defending or protecting from disease or infection, as a drug.", "S": ["contraceptive "], "A": []}

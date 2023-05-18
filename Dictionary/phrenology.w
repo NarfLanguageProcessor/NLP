@@ -1,0 +1,1 @@
+{"index": 235570, "D": "a psychological theory or analytical method based on the belief that certain mental faculties and character traits are indicated by the configurations of the skull.", "S": [], "A": []}

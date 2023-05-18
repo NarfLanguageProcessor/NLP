@@ -1,0 +1,1 @@
+{"index": 134993, "D": "to raise or lift with effort or force; hoist", "S": [], "A": []}

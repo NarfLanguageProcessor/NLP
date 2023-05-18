@@ -1,0 +1,1 @@
+{"index": 206279, "D": "the act of propitiating;  conciliation", "S": [], "A": []}

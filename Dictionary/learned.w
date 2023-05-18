@@ -1,0 +1,1 @@
+{"index": 169661, "D": "having much knowledge; scholarly; erudite", "S": ["accomplished ", "educated ", "scholarly ", "scientific ", "studied ", "well-educated "], "A": ["uneducated ", "green ", "ignorant ", "immature ", "inexperienced ", "unsophisticated "]}

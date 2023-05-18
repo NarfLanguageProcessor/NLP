@@ -1,0 +1,1 @@
+{"index": 236345, "D": "one of a series of small, open compartments, as in a desk, cabinet, or the like, used for filing or sorting papers, letters, etc.", "S": ["delayed ", "negotiated ", "postponed "], "A": ["advanced ", "forwarded ", "furthered ", "hastened ", "hurried "]}

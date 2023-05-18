@@ -1,0 +1,1 @@
+{"index": 300151, "D": "showing or having a refined and graceful mind or wit.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 47145, "D": "any of various windlasses, rotated in a horizontal plane by hand or machinery, for winding in ropes, cables, etc.", "S": [], "A": []}

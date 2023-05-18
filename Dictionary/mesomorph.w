@@ -1,0 +1,1 @@
+{"index": 184268, "D": "a person of the mesomorphic  type.", "S": [], "A": []}

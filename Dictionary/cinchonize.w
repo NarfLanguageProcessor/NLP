@@ -1,0 +1,1 @@
+{"index": 57601, "D": "to treat (a patient) with cinchona or one of its alkaloids, esp quinine", "S": [], "A": []}

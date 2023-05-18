@@ -1,0 +1,1 @@
+{"index": 343147, "D": "to bite or chew on, especially persistently.", "S": [], "A": []}

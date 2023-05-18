@@ -1,0 +1,1 @@
+{"index": 235136, "D": "an afterimage on the retina.", "S": [], "A": []}

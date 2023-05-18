@@ -1,0 +1,1 @@
+{"index": 84341, "D": "a compound containing two amino groups.", "S": [], "A": []}

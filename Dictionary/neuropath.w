@@ -1,0 +1,1 @@
+{"index": 199160, "D": "a person suffering from or predisposed to a disorder of the nervous system", "S": [], "A": []}

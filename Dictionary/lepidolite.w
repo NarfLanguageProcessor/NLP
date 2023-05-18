@@ -1,0 +1,1 @@
+{"index": 170605, "D": "a mineral of the mica group, potassium lithium aluminum silicate, commonly occurring in lilac, rose-colored, or whitish scaly masses", "S": [], "A": []}

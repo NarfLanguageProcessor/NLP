@@ -1,0 +1,1 @@
+{"index": 280896, "D": "to scrape (the ground) with the head of the club just before impact with the ball.", "S": [], "A": []}

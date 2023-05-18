@@ -1,0 +1,1 @@
+{"index": 341672, "D": "extremely painful; causing intense suffering; unbearably distressing; torturing", "S": [], "A": []}

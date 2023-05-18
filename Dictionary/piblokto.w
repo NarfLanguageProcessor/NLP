@@ -1,0 +1,1 @@
+{"index": 235773, "D": "a culture-specific syndrome occurring among traditional Inuit women, characterized by an outburst of cries or screams, the removal of clothing, and seeming possession by a bird or animal spirit.", "S": [], "A": []}

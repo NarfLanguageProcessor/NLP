@@ -1,0 +1,1 @@
+{"index": 136925, "D": "a substance or preparation for killing plants, especially weeds.", "S": ["defoliant ", "fungicide ", "insecticide ", "pesticide "], "A": []}

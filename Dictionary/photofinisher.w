@@ -1,0 +1,1 @@
+{"index": 235118, "D": "the act or occupation of developing films, printing photographs, etc.", "S": [], "A": []}

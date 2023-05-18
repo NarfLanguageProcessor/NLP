@@ -1,0 +1,1 @@
+{"index": 151137, "D": "not distinct; not clearly marked or defined", "S": ["cloud ", "dimness ", "film ", "fog ", "fumes ", "haziness ", "miasma ", "mist ", "murk ", "obscurity ", "smog ", "smother ", "soup ", "steam ", "vapor "], "A": ["clarity ", "clearness "]}

@@ -1,0 +1,1 @@
+{"index": 7106, "D": "any of various plants of the genus Ajuga, having usually blue flowers and often cultivated as a ground cover.", "S": [], "A": []}

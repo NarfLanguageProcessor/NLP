@@ -1,0 +1,1 @@
+{"index": 263907, "D": "(especially during the American Revolution) a British soldier.", "S": [], "A": []}

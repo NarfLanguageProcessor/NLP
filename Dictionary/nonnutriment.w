@@ -1,0 +1,1 @@
+{"index": 205527, "D": "any substance or matter that, taken into a living organism, serves to sustain it in its existence, promoting growth, replacing loss, and providing energy.", "S": [], "A": []}

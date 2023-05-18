@@ -1,0 +1,1 @@
+{"index": 198363, "D": "the theory and practice of a group of post-impressionists of about the middle 1880s, characterized chiefly by a systematic juxtaposition of dots or points of pure color according to a concept of the optical mixture of hues.", "S": [], "A": []}

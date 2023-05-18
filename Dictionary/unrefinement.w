@@ -1,0 +1,1 @@
+{"index": 349295, "D": [], "S": ["bawdiness ", "boorishness ", "callousness ", "crassness ", "crudity ", "harshness ", "indelicacy ", "offensiveness ", "rawness ", "ribaldry ", "roughness ", "smut ", "smuttiness ", "uncouthness ", "unevenness "], "A": ["delicacy ", "manners ", "politeness ", "refinement ", "sophistication "]}

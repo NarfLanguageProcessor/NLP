@@ -1,0 +1,1 @@
+{"index": 357512, "D": "to prophesy.", "S": ["astrologer ", "augur ", "auspex ", "bard ", "clairvoyant ", "diviner ", "druid ", "forecaster ", "fortuneteller ", "magus ", "medium ", "meteorologist ", "oracle ", "palmist ", "predictor ", "prognosticator ", "prophesier ", "prophetess ", "reader ", "seer ", "sibyl ", "soothsayer ", "sorcerer ", "witch ", "wizard "], "A": []}

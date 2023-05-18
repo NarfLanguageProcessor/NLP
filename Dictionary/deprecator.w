@@ -1,0 +1,1 @@
+{"index": 81815, "D": "to express earnest disapproval of", "S": [], "A": []}

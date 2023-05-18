@@ -1,0 +1,1 @@
+{"index": 244245, "D": "of, relating to, or in the form of a larva. ", "S": [], "A": []}

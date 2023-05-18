@@ -1,0 +1,1 @@
+{"index": 55132, "D": "a colorless, volatile, water-insoluble, flammable liquid, C6H5Cl, having an almondlike odor, prepared from benzene  by chlorination", "S": [], "A": []}

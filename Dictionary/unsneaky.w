@@ -1,0 +1,1 @@
+{"index": 351460, "D": "like or suggestive of a sneak;  furtive; deceitful.", "S": [], "A": []}

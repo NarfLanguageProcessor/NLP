@@ -1,0 +1,1 @@
+{"index": 88541, "D": "difficulty or abnormality in performing voluntary muscular movements.", "S": [], "A": []}

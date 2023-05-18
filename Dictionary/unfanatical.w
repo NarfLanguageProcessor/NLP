@@ -1,0 +1,1 @@
+{"index": 341990, "D": "motivated or characterized by an extreme, uncritical enthusiasm or zeal, as in religion or politics.", "S": [], "A": []}

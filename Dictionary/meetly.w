@@ -1,0 +1,1 @@
+{"index": 182313, "D": "suitably; fittingly; properly;  in a seemly manner.", "S": [], "A": []}

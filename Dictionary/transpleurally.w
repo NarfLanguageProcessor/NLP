@@ -1,0 +1,1 @@
+{"index": 328252, "D": "of or relating to the pleura. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 95293, "D": "any of numerous retroviruses of the picornavirus group, some harmless and others associated with various human disorders, as aseptic meningitis.", "S": [], "A": []}

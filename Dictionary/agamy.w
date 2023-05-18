@@ -1,0 +1,1 @@
+{"index": 5860, "D": "the absence of a rule dictating marriage choices within a social group.", "S": [], "A": []}

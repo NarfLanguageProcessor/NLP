@@ -1,0 +1,1 @@
+{"index": 103093, "D": "a person, real or imaginary, from whom a place or thing takes or is said to take its name", "S": ["brand ", "flag ", "label ", "nickname ", "sign ", "signature ", "style ", "term "], "A": ["unknown "]}

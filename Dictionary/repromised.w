@@ -1,0 +1,1 @@
+{"index": 268655, "D": "a declaration that something will or will not be done, given, etc., by one", "S": [], "A": []}

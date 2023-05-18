@@ -1,0 +1,1 @@
+{"index": 26907, "D": "to make (something) into a ballad;  write a ballad about.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 54688, "D": "a member of a First Nations  tribe that inhabits northwestern Canada between Hudson Bay and the Rocky Mountains.", "S": [], "A": []}

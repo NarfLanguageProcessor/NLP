@@ -1,0 +1,1 @@
+{"index": 241582, "D": "a polymer of acrylonitrile  used in the manufacture of Orlon and other synthetic textiles.", "S": [], "A": []}

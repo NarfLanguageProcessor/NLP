@@ -1,0 +1,1 @@
+{"index": 66428, "D": "bound in close association; conjoined; combined; united", "S": ["accepted ", "popular ", "prevailing ", "prevalent ", "shared ", "universal "], "A": ["uncommon ", "individual ", "particular ", "private ", "separate ", "singular ", "specific "]}

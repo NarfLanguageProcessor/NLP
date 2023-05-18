@@ -1,0 +1,1 @@
+{"index": 339816, "D": "having functional vision; not blind.", "S": [], "A": []}

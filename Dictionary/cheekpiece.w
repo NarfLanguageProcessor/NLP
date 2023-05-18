@@ -1,0 +1,1 @@
+{"index": 53428, "D": "either of two vertical bars of a bit, one on each end of the mouthpiece.", "S": [], "A": []}

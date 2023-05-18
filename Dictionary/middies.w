@@ -1,0 +1,1 @@
+{"index": 186687, "D": "a midshipman.", "S": ["bodice ", "pullover ", "turtleneck "], "A": []}

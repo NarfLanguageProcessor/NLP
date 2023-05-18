@@ -1,0 +1,1 @@
+{"index": 238464, "D": "(formerly) the attaching of an artificial crown to the root of a tooth with a metal dowel.", "S": ["fulcrum "], "A": ["exterior ", "exteriority ", "outside ", "periphery "]}

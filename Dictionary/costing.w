@@ -1,0 +1,1 @@
+{"index": 70190, "D": "the price paid to acquire, produce, accomplish, or maintain anything", "S": ["estimated "], "A": []}

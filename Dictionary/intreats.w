@@ -1,0 +1,1 @@
+{"index": 156702, "D": "an archaic variant of entreat. ", "S": [], "A": []}

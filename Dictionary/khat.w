@@ -1,0 +1,1 @@
+{"index": 164270, "D": "a white-flowered evergreen shrub, Catha edulis, of Africa and Arabia, whose leaves have narcotic properties", "S": [], "A": []}

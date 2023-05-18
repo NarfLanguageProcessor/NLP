@@ -1,0 +1,1 @@
+{"index": 53368, "D": "Compare overcheck (def. 2), sidecheck. ", "S": [], "A": []}

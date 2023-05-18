@@ -1,0 +1,1 @@
+{"index": 55600, "D": "a sulfated glycosaminoglycan,  occurring in various tissues, as cartilage and tendons", "S": [], "A": []}

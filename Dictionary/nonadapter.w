@@ -1,0 +1,1 @@
+{"index": 201095, "D": "a person or thing that adapts. ", "S": [], "A": []}

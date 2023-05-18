@@ -1,0 +1,1 @@
+{"index": 143926, "D": "a timepiece, as a clock or sundial, or a building supporting or containing a timepiece.", "S": [], "A": []}

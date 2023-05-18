@@ -1,0 +1,1 @@
+{"index": 67790, "D": "to plan with ingenuity; devise; invent", "S": ["concoct ", "devise ", "dream up ", "fabricate ", "improvise ", "manipulate "], "A": ["break ", "destroy ", "discourage ", "dissuade ", "forget ", "neglect ", "raze ", "ruin ", "stop "]}

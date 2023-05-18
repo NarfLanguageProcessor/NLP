@@ -1,0 +1,1 @@
+{"index": 26171, "D": "a mineral, zirconium oxide, ZrO2, used as a refractory.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45639, "D": "any two-toed ruminant of the family Camelidae, including the camels, llamas, and vicunas.", "S": [], "A": []}

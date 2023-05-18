@@ -1,0 +1,1 @@
+{"index": 308151, "D": "a proposition, or set of propositions, set forth as an explanation for the occurrence of some specified group of phenomena, either asserted merely as a provisional conjecture to guide investigation (working hypothesis ) or accepted as highly probable in the light of established facts.", "S": [], "A": []}

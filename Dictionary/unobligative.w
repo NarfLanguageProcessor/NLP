@@ -1,0 +1,1 @@
+{"index": 347010, "D": "implying or involving obligation", "S": [], "A": []}

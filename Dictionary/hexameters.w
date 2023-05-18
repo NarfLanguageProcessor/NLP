@@ -1,0 +1,1 @@
+{"index": 137976, "D": "a dactylic line of six feet, as in Greek and Latin epic poetry, in which the first four feet are dactyls or spondees, the fifth is ordinarily a dactyl, and the last is a trochee or spondee, with a caesura usually following the long syllable in the third foot.", "S": [], "A": []}

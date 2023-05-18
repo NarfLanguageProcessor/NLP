@@ -1,0 +1,1 @@
+{"index": 159718, "D": "any composite plant of the genus Iva, characterized by usually opposite leaves and inconspicuous greenish-yellow flowers.", "S": [], "A": []}

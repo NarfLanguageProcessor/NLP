@@ -1,0 +1,1 @@
+{"index": 112920, "D": "extreme delicacy or subtlety in action, performance, skill, discrimination, taste, etc.", "S": ["acumen ", "competence ", "guile ", "quickness ", "savvy ", "skill ", "sophistication ", "subtlety ", "tact "], "A": ["ignorance ", "inability ", "incapability ", "ineptness ", "frankness ", "honesty ", "openness ", "stupidity ", "truthfulness "]}

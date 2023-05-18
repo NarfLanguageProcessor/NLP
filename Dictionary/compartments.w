@@ -1,0 +1,1 @@
+{"index": 64438, "D": "a part or space marked or partitioned off.", "S": ["alcove ", "carriage ", "cell ", "chamber ", "cubicle ", "locker ", "slot "], "A": ["whole "]}

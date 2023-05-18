@@ -1,0 +1,1 @@
+{"index": 16819, "D": "the loss or omission of one or more letters or sounds at the beginning of a word, as in squire for esquire, or count for account.", "S": [], "A": []}

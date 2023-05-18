@@ -1,0 +1,1 @@
+{"index": 103608, "D": "of or relating to the condition that, in an interval of sufficient duration, a system will return to states that are closely similar to previous ones", "S": [], "A": []}

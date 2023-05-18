@@ -1,0 +1,1 @@
+{"index": 191198, "D": "a male given name, form of Morris  or Moses. ", "S": [], "A": []}

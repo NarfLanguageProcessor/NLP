@@ -1,0 +1,1 @@
+{"index": 8899, "D": "the method of treating disease by the use of agents that produce effects different from those of the disease treated (opposed to homeopathy).", "S": [], "A": []}

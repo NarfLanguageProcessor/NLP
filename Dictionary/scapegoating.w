@@ -1,0 +1,1 @@
+{"index": 279620, "D": "the act or practice of assigning blame or failure to another, as to deflect attention or responsibility away from oneself.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 325758, "D": "sabre-toothed; six-toothed", "S": ["broken ", "craggy ", "irregular ", "rugged ", "uneven "], "A": ["continuous ", "even ", "flat ", "level ", "smooth ", "mild ", "nice "]}

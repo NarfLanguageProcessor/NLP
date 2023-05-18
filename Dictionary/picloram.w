@@ -1,0 +1,1 @@
+{"index": 235950, "D": "a colorless powder, C6H3Cl3N2O2, used as a systemic herbicide for controlling annual weeds and deep-rooted perennials on noncrop land.", "S": [], "A": []}

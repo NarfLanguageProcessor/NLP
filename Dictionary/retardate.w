@@ -1,0 +1,1 @@
+{"index": 270310, "D": "a person who has an intellectual disability or is otherwise limited, as educationally or emotionally.", "S": [], "A": []}

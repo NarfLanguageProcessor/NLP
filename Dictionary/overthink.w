@@ -1,0 +1,1 @@
+{"index": 221570, "D": "to spend more time thinking about something than is necessary or productive", "S": [], "A": []}

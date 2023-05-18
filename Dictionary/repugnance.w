@@ -1,0 +1,1 @@
+{"index": 268765, "D": "the state of being repugnant. ", "S": ["aversion "], "A": ["attraction ", "admiration ", "approval ", "desire ", "esteem ", "liking ", "love ", "loving ", "respect "]}

@@ -1,0 +1,1 @@
+{"index": 231808, "D": "the act of causing something to continue or go on happening", "S": ["continuation "], "A": ["arrest ", "end ", "ending ", "finish ", "hindrance ", "obstruction ", "stop ", "stoppage "]}

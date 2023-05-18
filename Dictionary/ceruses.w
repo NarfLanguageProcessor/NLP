@@ -1,0 +1,1 @@
+{"index": 51623, "D": "a pigment composed of white lead.", "S": [], "A": []}

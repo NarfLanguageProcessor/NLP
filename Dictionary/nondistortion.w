@@ -1,0 +1,1 @@
+{"index": 203228, "D": "an act or instance of distorting. ", "S": [], "A": []}

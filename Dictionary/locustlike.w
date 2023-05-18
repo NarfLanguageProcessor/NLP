@@ -1,0 +1,1 @@
+{"index": 174467, "D": "any of several grasshoppers of the family Acrididae, having short antennae and commonly migrating in swarms that strip the vegetation from large areas.", "S": [], "A": []}

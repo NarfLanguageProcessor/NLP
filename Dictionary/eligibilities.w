@@ -1,0 +1,1 @@
+{"index": 97560, "D": "fit or proper to be chosen; worthy of choice; desirable", "S": ["qualification "], "A": []}

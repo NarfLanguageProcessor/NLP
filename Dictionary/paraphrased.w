@@ -1,0 +1,1 @@
+{"index": 225963, "D": "a restatement of a text or passage giving the meaning in another form, as for clearness; rewording.", "S": ["cited ", "copied "], "A": []}

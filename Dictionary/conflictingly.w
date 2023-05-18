@@ -1,0 +1,1 @@
+{"index": 65992, "D": "being in conflict  or disagreement; not compatible", "S": ["individually ", "negatively ", "separately ", "variously "], "A": ["together "]}

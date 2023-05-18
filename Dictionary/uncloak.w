@@ -1,0 +1,1 @@
+{"index": 337070, "D": "to remove the cloak  from.", "S": ["demystify ", "disparage ", "mock ", "puncture "], "A": ["flatter ", "praise "]}

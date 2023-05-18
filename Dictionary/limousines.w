@@ -1,0 +1,1 @@
+{"index": 172493, "D": "any large, luxurious automobile, especially one driven by a chauffeur.", "S": ["auto ", "bus ", "convertible ", "passenger car ", "pickup truck ", "sports car ", "station wagon ", "taxi ", "transportation ", "truck ", "van "], "A": []}

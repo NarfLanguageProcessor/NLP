@@ -1,0 +1,1 @@
+{"index": 306247, "D": "a harsh, grating, or creaking sound.", "S": [], "A": []}

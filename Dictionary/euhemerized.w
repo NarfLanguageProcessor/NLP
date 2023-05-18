@@ -1,0 +1,1 @@
+{"index": 105461, "D": "to treat or explain (myths) by euhemerism. ", "S": [], "A": []}

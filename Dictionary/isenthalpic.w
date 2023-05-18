@@ -1,0 +1,1 @@
+{"index": 158640, "D": "pertaining to or characterized by constant enthalpy. ", "S": [], "A": []}

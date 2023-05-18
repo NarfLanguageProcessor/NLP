@@ -1,0 +1,1 @@
+{"index": 240398, "D": "a development of the vidicon television camera tube in which the photosensitive material is lead oxide", "S": [], "A": []}

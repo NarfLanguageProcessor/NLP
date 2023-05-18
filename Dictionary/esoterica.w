@@ -1,0 +1,1 @@
+{"index": 104363, "D": "things understood by or meant for a select few; recondite matters or items.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259500, "D": "(esp of a person) unkempt or run-down in appearance", "S": [], "A": []}

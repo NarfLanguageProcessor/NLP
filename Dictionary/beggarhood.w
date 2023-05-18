@@ -1,0 +1,1 @@
+{"index": 30611, "D": "a person who begs  alms or lives by begging. ", "S": [], "A": []}

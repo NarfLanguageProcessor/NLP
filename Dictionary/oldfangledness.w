@@ -1,0 +1,1 @@
+{"index": 212012, "D": "old-fashioned; of an older or former kind.", "S": [], "A": []}

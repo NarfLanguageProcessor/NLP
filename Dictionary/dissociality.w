@@ -1,0 +1,1 @@
+{"index": 89607, "D": "disinclined to or unsuitable for society; unsocial.", "S": [], "A": []}

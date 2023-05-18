@@ -1,0 +1,1 @@
+{"index": 367770, "D": "Paiute religious leader", "S": [], "A": []}

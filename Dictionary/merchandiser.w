@@ -1,0 +1,1 @@
+{"index": 183656, "D": "a person or company that buys and sells goods; a merchant or retailer", "S": ["marketer ", "wholesaler "], "A": ["customer "]}

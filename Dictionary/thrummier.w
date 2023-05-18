@@ -1,0 +1,1 @@
+{"index": 322877, "D": "of or abounding in thrums;  shaggy or tufted.", "S": [], "A": []}

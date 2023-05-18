@@ -1,0 +1,1 @@
+{"index": 22680, "D": "Also atm ", "S": ["automatic teller machine ", "cash machine "], "A": []}

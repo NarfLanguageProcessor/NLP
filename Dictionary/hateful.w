@@ -1,0 +1,1 @@
+{"index": 134219, "D": "arousing hate  or deserving to be hated", "S": ["abhorrent ", "bitter ", "despicable ", "disgusting ", "heinous ", "odious ", "ornery ", "repulsive ", "spiteful ", "vicious ", "vile "], "A": ["agreeable ", "attractive ", "desirous ", "gentle ", "good ", "kind ", "likeable ", "nice ", "pleasant ", "pleasing ", "wonderful "]}

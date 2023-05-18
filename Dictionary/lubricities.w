@@ -1,0 +1,1 @@
+{"index": 175759, "D": "oily smoothness, as of a surface; slipperiness.", "S": ["lasciviousness ", "prurience ", "pruriency "], "A": []}

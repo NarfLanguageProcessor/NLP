@@ -1,0 +1,1 @@
+{"index": 289352, "D": "a swing, as at a fairground", "S": [], "A": []}

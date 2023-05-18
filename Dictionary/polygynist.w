@@ -1,0 +1,1 @@
+{"index": 241908, "D": "a person who practices or favors polygyny. ", "S": [], "A": []}

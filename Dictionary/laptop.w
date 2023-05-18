@@ -1,0 +1,1 @@
+{"index": 168416, "D": "Compare tablet (def. 6). ", "S": ["CPU ", "PC ", "abacus ", "analog ", "brain ", "calculator ", "clone ", "mac ", "mainframe ", "microcomputer ", "mini ", "minicomputer "], "A": []}

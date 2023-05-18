@@ -1,0 +1,1 @@
+{"index": 154941, "D": "any of various proteins, produced by virus-infected cells, that inhibit reproduction of the invading virus and induce resistance to further infection.", "S": [], "A": []}

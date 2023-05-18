@@ -1,0 +1,1 @@
+{"index": 164957, "D": "a twist or curl, as in a thread, rope, wire, or hair, caused by its doubling or bending upon itself.", "S": ["crimp ", "wrinkle "], "A": ["line "]}

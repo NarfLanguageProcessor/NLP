@@ -1,0 +1,1 @@
+{"index": 167430, "D": "the act of dismissing employees, especially temporarily.", "S": ["cutback ", "unemployment "], "A": ["employment ", "hiring "]}

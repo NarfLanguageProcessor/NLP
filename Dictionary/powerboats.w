@@ -1,0 +1,1 @@
+{"index": 245005, "D": "a boat  propelled by mechanical power. ", "S": [], "A": []}

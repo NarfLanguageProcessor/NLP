@@ -1,0 +1,1 @@
+{"index": 355610, "D": "to push or force along; impel with force or vigor", "S": ["adopted ", "advanced ", "aided ", "approved ", "backed ", "boosted ", "commended ", "endorsed ", "favored ", "praised ", "promoted ", "proposed ", "pushed ", "ratified ", "recommended "], "A": ["disapproved ", "discouraged "]}

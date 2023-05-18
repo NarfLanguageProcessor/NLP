@@ -1,0 +1,1 @@
+{"index": 197371, "D": "a system or method of treating disease that employs no surgery or synthetic drugs but uses special diets, herbs, vitamins, massage, etc., to assist the natural healing processes.", "S": [], "A": []}

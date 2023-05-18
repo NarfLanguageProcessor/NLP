@@ -1,0 +1,1 @@
+{"index": 104674, "D": "capable of estimating.", "S": [], "A": []}

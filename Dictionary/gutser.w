@@ -1,0 +1,1 @@
+{"index": 131595, "D": "a person who eats too much and greedily.", "S": [], "A": []}

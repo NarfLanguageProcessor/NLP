@@ -1,0 +1,1 @@
+{"index": 263409, "D": "an advocate or supporter of Reconstruction or Reconstructionism.", "S": [], "A": []}

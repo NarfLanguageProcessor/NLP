@@ -1,0 +1,1 @@
+{"index": 222097, "D": "a semisynthetic penicillin, C19H19N3O5S, used in the treatment of serious staphylococcal infections.", "S": [], "A": []}

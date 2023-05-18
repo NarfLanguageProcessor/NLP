@@ -1,0 +1,1 @@
+{"index": 309578, "D": "having the property of transmitting rays of light through its substance so that bodies situated beyond or behind can be distinctly seen.", "S": [], "A": []}

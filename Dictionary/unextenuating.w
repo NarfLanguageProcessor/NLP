@@ -1,0 +1,1 @@
+{"index": 341864, "D": "serving to make a fault, offense, etc., appear less serious", "S": [], "A": []}

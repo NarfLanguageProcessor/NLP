@@ -1,0 +1,1 @@
+{"index": 329762, "D": "having three leaflets, lobes, or foils; trefoil.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 360192, "D": "greenness; verdure. ", "S": ["brightness ", "inventiveness ", "novelty ", "originality ", "vigor "], "A": ["dullness "]}

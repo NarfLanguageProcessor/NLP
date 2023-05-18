@@ -1,0 +1,1 @@
+{"index": 27990, "D": "The center of mass of two or more bodies, usually bodies orbiting around each other, such as the Earth and the Moon.", "S": [], "A": []}

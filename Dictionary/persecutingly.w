@@ -1,0 +1,1 @@
+{"index": 231876, "D": "to pursue with harassing or oppressive treatment, especially because of religious or political beliefs, ethnic or racial origin, gender identity,  or sexual orientation. ", "S": [], "A": []}

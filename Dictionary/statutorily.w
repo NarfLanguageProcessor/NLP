@@ -1,0 +1,1 @@
+{"index": 303163, "D": "of, relating to, or of the nature of a statute. ", "S": [], "A": []}

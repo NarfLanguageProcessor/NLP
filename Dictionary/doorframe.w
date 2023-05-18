@@ -1,0 +1,1 @@
+{"index": 91545, "D": "the frame  of a doorway, including two jambs and a lintel, or head.", "S": [], "A": []}

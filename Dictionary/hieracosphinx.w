@@ -1,0 +1,1 @@
+{"index": 139099, "D": "(in ancient Egyptian art) a hawk-headed sphinx", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 302441, "D": "one of a flight or series of steps for going from one level to another, as in a building.", "S": [], "A": []}

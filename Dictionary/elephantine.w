@@ -1,0 +1,1 @@
+{"index": 97452, "D": "pertaining to or resembling an elephant. ", "S": ["behemothic ", "big ", "colossal ", "enormous ", "extensive ", "gargantuan ", "giant ", "gigantic ", "grand ", "great ", "humongous ", "immense ", "jumbo ", "large ", "mammoth ", "massive ", "monstrous ", "monumental ", "mountainous ", "titanic ", "towering "], "A": []}

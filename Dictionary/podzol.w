@@ -1,0 +1,1 @@
+{"index": 241130, "D": "a type of soil characteristic of coniferous forest regions having a greyish-white colour in its upper leached layers", "S": [], "A": []}

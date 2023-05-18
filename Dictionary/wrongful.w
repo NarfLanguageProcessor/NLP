@@ -1,0 +1,1 @@
+{"index": 368097, "D": "unjust or unfair", "S": ["illegitimate ", "illicit ", "immoral ", "improper ", "reprehensible ", "unethical ", "unfair ", "unjust ", "unlawful "], "A": ["authorized ", "blessed ", "ethical ", "fair ", "good ", "honest ", "just ", "legal ", "legitimate ", "moral ", "noble ", "proper ", "right ", "uncorrupt ", "unprejudiced "]}

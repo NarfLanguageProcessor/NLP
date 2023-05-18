@@ -1,0 +1,1 @@
+{"index": 146034, "D": "the art of drawing a ground plan or layout of a building.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 238500, "D": "liveliness; vitality; vigor. ", "S": [], "A": []}

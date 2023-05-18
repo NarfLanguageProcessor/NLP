@@ -1,0 +1,1 @@
+{"index": 9899, "D": "overwhelming surprise or astonishment.", "S": ["admiration ", "astonishment ", "awe ", "bewilderment ", "confusion ", "perplexity ", "wonderment "], "A": ["expectation "]}

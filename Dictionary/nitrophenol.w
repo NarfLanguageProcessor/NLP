@@ -1,0 +1,1 @@
+{"index": 200443, "D": "any compound derived from phenol  by the replacement of one or more of its ring hydrogen atoms by the nitro group.", "S": [], "A": []}

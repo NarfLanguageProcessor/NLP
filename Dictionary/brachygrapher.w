@@ -1,0 +1,1 @@
+{"index": 39427, "D": [], "S": ["stenographer ", "stenotype reporter "], "A": []}

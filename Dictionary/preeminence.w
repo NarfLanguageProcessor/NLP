@@ -1,0 +1,1 @@
+{"index": 247233, "D": "the state or character of being preeminent. ", "S": ["ascendancy ", "domination ", "predominance ", "supremacy "], "A": ["impotence ", "incapacity ", "inferiority ", "powerlessness ", "weakness "]}

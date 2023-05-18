@@ -1,0 +1,1 @@
+{"index": 18304, "D": "a sinuous, spiraling, undulating, or serpentine line or linear motif.", "S": ["color ", "design ", "finery ", "ornament ", "plaque ", "ribbon ", "trinket ", "wreath "], "A": ["plainness "]}

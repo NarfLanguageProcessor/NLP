@@ -1,0 +1,1 @@
+{"index": 272767, "D": "a telescopic sight mounted on top of a rifle  that helps to improve one's aim by magnifying and pinpointing a target.", "S": [], "A": []}

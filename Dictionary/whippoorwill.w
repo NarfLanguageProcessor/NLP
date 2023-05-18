@@ -1,0 +1,1 @@
+{"index": 364932, "D": "a nocturnal North American nightjar, Caprimulgus vociferus, having a variegated plumage of gray, black, white, and tawny.", "S": [], "A": []}

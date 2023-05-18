@@ -1,0 +1,1 @@
+{"index": 95979, "D": "(of a man or boy) having traits, tastes, habits, etc., traditionally considered feminine, as softness or delicacy.", "S": [], "A": []}

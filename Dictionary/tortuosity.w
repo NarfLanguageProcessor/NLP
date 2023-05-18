@@ -1,0 +1,1 @@
+{"index": 326354, "D": "the state of being tortuous;  twisted form or course; crookedness.", "S": ["asymmetry ", "sinuosity ", "sinuousness ", "tortuousness ", "unevenness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 157771, "D": "characterized byyouth;  young.", "S": ["adolescent ", "boyish ", "childish ", "childlike ", "enthusiastic ", "girlish ", "inexperienced ", "underage ", "young "], "A": ["adult ", "mature "]}

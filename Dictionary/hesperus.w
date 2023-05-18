@@ -1,0 +1,1 @@
+{"index": 137408, "D": "an evening star, especially Venus.", "S": ["Hesper ", "Venus ", "Vesper "], "A": ["morning star "]}

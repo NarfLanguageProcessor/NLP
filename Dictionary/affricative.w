@@ -1,0 +1,1 @@
+{"index": 5491, "D": "affricate (def. 1). ", "S": [], "A": []}

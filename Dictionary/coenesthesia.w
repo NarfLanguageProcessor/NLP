@@ -1,0 +1,1 @@
+{"index": 61969, "D": "the aggregate of impressions arising from organic sensations that forms the basis of one's awareness of body or bodily state, as the feeling of health, vigor, or lethargy.", "S": [], "A": []}

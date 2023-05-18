@@ -1,0 +1,1 @@
+{"index": 342124, "D": "not feigned; sincere; genuine.", "S": [], "A": []}

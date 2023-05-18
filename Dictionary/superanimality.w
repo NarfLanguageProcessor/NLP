@@ -1,0 +1,1 @@
+{"index": 311364, "D": "the state of being an animal. ", "S": [], "A": []}

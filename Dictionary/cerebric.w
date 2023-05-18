@@ -1,0 +1,1 @@
+{"index": 51399, "D": "pertaining to or derived from the brain.", "S": [], "A": []}

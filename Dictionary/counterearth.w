@@ -1,0 +1,1 @@
+{"index": 70768, "D": "(in Pythagorean astronomy) a planet, out of sight from our part of the earth, whose shadow upon the sun and moon, cast by a central fire that is also out of sight, causes the eclipses.", "S": [], "A": []}

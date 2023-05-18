@@ -1,0 +1,1 @@
+{"index": 254631, "D": "a small central column of sterile tissue within the sporangium of certain fungi, liverworts, and mosses.", "S": [], "A": []}

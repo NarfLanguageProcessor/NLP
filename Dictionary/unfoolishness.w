@@ -1,0 +1,1 @@
+{"index": 342485, "D": "lack of wisdom or good judgment; foolish quality", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 65863, "D": "of or relating to confession, especially auricular confession of sins.", "S": [], "A": []}

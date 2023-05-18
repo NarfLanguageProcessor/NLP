@@ -1,0 +1,1 @@
+{"index": 39825, "D": "an Old World finch, Fringilla montifringilla, the male of which is black and white with a reddish-brown breast.", "S": ["bobble ", "bungle ", "stumble "], "A": []}

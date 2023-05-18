@@ -1,0 +1,1 @@
+{"index": 359732, "D": "to speak ill of; disparage; vilify", "S": ["besmirch ", "denigrate ", "discredit ", "disgrace ", "disparage ", "malign ", "scandalize ", "smear ", "vilify "], "A": ["commend ", "compliment ", "flatter ", "honor ", "laud ", "praise "]}

@@ -1,0 +1,1 @@
+{"index": 319240, "D": "a group of three lines rhyming together or connected by rhyme with the adjacent group or groups of three lines.", "S": [], "A": []}

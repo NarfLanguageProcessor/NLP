@@ -1,0 +1,1 @@
+{"index": 326445, "D": [], "S": ["totalizator ", "totalizer ", "tote "], "A": []}

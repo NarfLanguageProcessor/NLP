@@ -1,0 +1,1 @@
+{"index": 211156, "D": "of, relating to, or for the eyes", "S": ["blinder ", "eyeball ", "headlight ", "lamp ", "ocular ", "oculus ", "optic ", "peeper ", "pie "], "A": []}

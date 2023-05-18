@@ -1,0 +1,1 @@
+{"index": 196988, "D": "habitual use of narcotics.", "S": [], "A": []}

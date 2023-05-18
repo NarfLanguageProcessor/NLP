@@ -1,0 +1,1 @@
+{"index": 216124, "D": "to outdo or defeat in arguing", "S": [], "A": []}

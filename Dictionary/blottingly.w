@@ -1,0 +1,1 @@
+{"index": 36575, "D": "a spot or stain, especially of ink on paper.", "S": [], "A": []}

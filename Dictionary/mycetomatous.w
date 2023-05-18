@@ -1,0 +1,1 @@
+{"index": 185742, "D": "a chronic tumorous infection caused by any of various soil-dwelling fungi, usually affecting the foot.", "S": [], "A": []}

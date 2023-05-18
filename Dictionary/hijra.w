@@ -1,0 +1,1 @@
+{"index": 139385, "D": "a person whose gender identity  is neither male nor female, typically a person who was assigned male at birth but whose gender expression  is female. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 200087, "D": "a shining cloud sometimes surrounding a deity when on earth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 276704, "D": "a starchy foodstuff derived from the soft interior of the trunk of various palms and cycads, used in making puddings.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 13874, "D": "a white or gray feldspar mineral, CaAl2Si2O8, calcic plagioclase.", "S": [], "A": []}

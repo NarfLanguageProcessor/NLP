@@ -1,0 +1,1 @@
+{"index": 334988, "D": "feeling, showing, or accompanied by anguish. ", "S": [], "A": []}

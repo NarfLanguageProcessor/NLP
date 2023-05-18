@@ -1,0 +1,1 @@
+{"index": 178112, "D": "something put in a scale to complete a required weight. ", "S": ["accompaniment "], "A": ["base ", "core ", "decrease ", "fraction ", "part "]}

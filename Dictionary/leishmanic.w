@@ -1,0 +1,1 @@
+{"index": 170268, "D": "any parasitic flagellate protozoan of the genus Leishmania, occurring in vertebrates in an oval or spherical, nonflagellate form, and in invertebrates in an elongated, flagellated form.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 57264, "D": "pertaining to atmospheric motion in which the centripetal acceleration exactly balances the horizontal pressure force.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 272661, "D": "any male animal, especially a colt, with undescended testicles.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 245649, "D": "to assert without proof.", "S": [], "A": []}

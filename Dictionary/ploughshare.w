@@ -1,0 +1,1 @@
+{"index": 240255, "D": "the horizontal pointed cutting blade of a mouldboard plough", "S": [], "A": []}

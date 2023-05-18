@@ -1,0 +1,1 @@
+{"index": 324193, "D": "the process or action of setting  an article, book, or other printed matter into type. ", "S": ["desktop ", "electronic publishing ", "formatting ", "outputting "], "A": []}

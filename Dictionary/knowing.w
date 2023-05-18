@@ -1,0 +1,1 @@
+{"index": 165712, "D": "affecting, implying, or deliberately revealing shrewd knowledge  of secret or private information", "S": ["insightful ", "intelligent ", "perceptive ", "sophisticated "], "A": ["stupid ", "unaware ", "unintelligent ", "ignorant ", "slow ", "unskilled "]}

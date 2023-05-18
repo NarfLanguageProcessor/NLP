@@ -1,0 +1,1 @@
+{"index": 205150, "D": "having manners  as specified (usually used in combination)", "S": [], "A": []}

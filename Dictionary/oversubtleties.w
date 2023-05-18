@@ -1,0 +1,1 @@
+{"index": 221449, "D": "the state or quality of being subtle. ", "S": [], "A": []}

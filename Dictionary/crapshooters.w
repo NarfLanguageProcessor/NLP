@@ -1,0 +1,1 @@
+{"index": 72189, "D": "a person who plays craps. ", "S": ["bettor ", "bookie ", "bookmaker "], "A": []}

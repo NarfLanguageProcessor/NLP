@@ -1,0 +1,1 @@
+{"index": 257297, "D": "the retirement  of a batter or base runner. Abbreviation", "S": [], "A": []}

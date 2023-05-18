@@ -1,0 +1,1 @@
+{"index": 313090, "D": "a person or thing that suppresses", "S": [], "A": []}

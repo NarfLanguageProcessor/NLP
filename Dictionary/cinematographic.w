@@ -1,0 +1,1 @@
+{"index": 57672, "D": "an early movie camera or projector, often a single mechanical device to record and project film.", "S": [], "A": []}

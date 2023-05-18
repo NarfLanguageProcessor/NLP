@@ -1,0 +1,1 @@
+{"index": 153721, "D": "the condition of being insolvent;  bankruptcy.", "S": ["bankruptcy ", "breakdown ", "deterioration ", "implosion ", "inadequacy ", "rupture "], "A": ["accomplishment ", "achievement ", "advantage ", "ascent ", "benefit ", "blessing ", "continuation ", "enough ", "improvement ", "increase ", "plenty ", "rise ", "strength ", "success ", "triumph ", "win "]}

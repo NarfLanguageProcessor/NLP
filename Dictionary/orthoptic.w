@@ -1,0 +1,1 @@
+{"index": 215138, "D": "pertaining to or producing normal binocular vision.", "S": [], "A": []}

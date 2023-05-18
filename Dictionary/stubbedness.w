@@ -1,0 +1,1 @@
+{"index": 306719, "D": "reduced to or resembling a stub;  short and thick; stumpy.", "S": [], "A": []}

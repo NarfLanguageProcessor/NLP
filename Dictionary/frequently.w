@@ -1,0 +1,1 @@
+{"index": 118791, "D": "often; many times; at short intervals.", "S": ["again and again ", "generally ", "intermittently ", "many times ", "often ", "periodically ", "regularly ", "time and again ", "usually "], "A": ["rarely ", "seldom "]}

@@ -1,0 +1,1 @@
+{"index": 22157, "D": "capable of overwhelming with amazement; stunningly surprising.", "S": ["astonishing ", "breathtaking ", "eye-popping ", "mind-boggling ", "overwhelming ", "shocking ", "startling ", "surprising ", "wondrous "], "A": []}

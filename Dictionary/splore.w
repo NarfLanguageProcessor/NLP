@@ -1,0 +1,1 @@
+{"index": 300585, "D": "a frolic; revel; carousal.", "S": [], "A": []}

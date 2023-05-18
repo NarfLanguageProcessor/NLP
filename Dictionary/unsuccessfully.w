@@ -1,0 +1,1 @@
+{"index": 352311, "D": "not achieving or not attended with success", "S": ["awkwardly ", "clumsily ", "poorly "], "A": ["adequately ", "calmly ", "little ", "mildly ", "morally "]}

@@ -1,0 +1,1 @@
+{"index": 2502, "D": "a hydroxy ketone of the general formula RCOCHOHR, where R is an element or group.", "S": [], "A": []}

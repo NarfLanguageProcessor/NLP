@@ -1,0 +1,1 @@
+{"index": 99054, "D": "to fill or inflame with love (usually used in the passive and followed by of or sometimes with)", "S": [], "A": []}

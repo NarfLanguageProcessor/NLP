@@ -1,0 +1,1 @@
+{"index": 250587, "D": "to dress or adorn with care.", "S": ["groom ", "preen ", "prepare ", "slick ", "spruce ", "titivate "], "A": ["ignore "]}

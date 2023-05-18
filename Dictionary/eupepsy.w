@@ -1,0 +1,1 @@
+{"index": 105590, "D": "good digestion (opposed to dyspepsia).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 152483, "D": "free from reserve, restraint, or dissimulation; candid; sincere. ", "S": ["candor ", "naturalness "], "A": ["coordination ", "experience ", "grace ", "sophistication "]}

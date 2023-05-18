@@ -1,0 +1,1 @@
+{"index": 130296, "D": "the solid surface of the earth; firm or dry land", "S": ["dirt ", "field ", "landscape ", "park ", "sand ", "soil ", "terrain ", "turf "], "A": ["heavens ", "sky "]}

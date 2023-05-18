@@ -1,0 +1,1 @@
+{"index": 120195, "D": "the base of an organ, or the part opposite to or remote from an aperture.", "S": [], "A": []}

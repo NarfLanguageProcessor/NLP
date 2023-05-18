@@ -1,0 +1,1 @@
+{"index": 98143, "D": [], "S": ["bog down ", "decelerate ", "defeat ", "detain ", "hang up ", "hold up ", "impede ", "mire ", "retard ", "reverse ", "slow ", "slow down ", "slow up "], "A": ["advance ", "forward "]}

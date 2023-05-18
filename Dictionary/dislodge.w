@@ -1,0 +1,1 @@
+{"index": 88607, "D": "to remove or force out of a particular place", "S": ["displace ", "eject ", "evict ", "extricate ", "force out ", "oust ", "remove ", "uproot "], "A": ["plant ", "sow ", "take in ", "order "]}

@@ -1,0 +1,1 @@
+{"index": 112330, "D": "English novelist, dramatist, and essayist.", "S": ["deflect ", "handle ", "pick up ", "retrieve "], "A": ["abandon ", "ignore "]}

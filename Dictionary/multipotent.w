@@ -1,0 +1,1 @@
+{"index": 195290, "D": "having power to produce or influence several effects or results.", "S": [], "A": []}

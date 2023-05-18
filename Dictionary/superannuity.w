@@ -1,0 +1,1 @@
+{"index": 311372, "D": "a specified income payable at stated intervals for a fixed or a contingent period, often for the recipient's life, in consideration of a stipulated premium paid either in prior installment payments or in a single payment.", "S": [], "A": []}

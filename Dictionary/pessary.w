@@ -1,0 +1,1 @@
+{"index": 232252, "D": "a device worn in the vagina to support a displaced uterus.", "S": [], "A": []}

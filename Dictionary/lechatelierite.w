@@ -1,0 +1,1 @@
+{"index": 169801, "D": "a mineral, an amorphous form of silica formed by the fusion by heat of silica and found in fulgurites.", "S": [], "A": []}

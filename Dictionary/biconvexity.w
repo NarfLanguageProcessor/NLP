@@ -1,0 +1,1 @@
+{"index": 33464, "D": "convex  on both sides, as a lens.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 212911, "D": "a beginning or start", "S": ["commencement ", "dawning ", "onslaught ", "outbreak ", "outset "], "A": ["conclusion ", "end ", "completion ", "death ", "ending ", "finish ", "retreat "]}

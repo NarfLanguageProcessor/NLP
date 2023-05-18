@@ -1,0 +1,1 @@
+{"index": 95022, "D": "to stain or finish black in imitation of ebony. ", "S": [], "A": []}

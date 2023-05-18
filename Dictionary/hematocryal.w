@@ -1,0 +1,1 @@
+{"index": 135951, "D": "cold-blooded; poikilothermal.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310568, "D": "soiled, stained, or tarnished", "S": ["disheveled ", "run down ", "seedy ", "threadbare ", "untidy "], "A": ["fresh ", "neat ", "orderly ", "tidy ", "clean "]}

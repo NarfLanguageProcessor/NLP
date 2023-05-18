@@ -1,0 +1,1 @@
+{"index": 305812, "D": "a person or thing that straps. ", "S": [], "A": []}

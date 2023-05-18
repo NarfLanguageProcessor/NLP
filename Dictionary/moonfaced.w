@@ -1,0 +1,1 @@
+{"index": 193042, "D": "having a very round face, regarded as resembling a full moon.", "S": [], "A": []}

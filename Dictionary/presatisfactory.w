@@ -1,0 +1,1 @@
+{"index": 249224, "D": "giving or affording satisfaction; fulfilling all demands or requirements", "S": [], "A": []}

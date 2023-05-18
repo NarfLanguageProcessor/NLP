@@ -1,0 +1,1 @@
+{"index": 12567, "D": "deficiency of energy.", "S": [], "A": []}

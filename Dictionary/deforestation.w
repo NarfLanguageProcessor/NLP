@@ -1,0 +1,1 @@
+{"index": 79453, "D": "the clearing or severe thinning of a forest or other wooded area, leaving few or no trees", "S": ["desertification ", "erosion ", "logging "], "A": []}

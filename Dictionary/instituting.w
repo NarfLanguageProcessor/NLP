@@ -1,0 +1,1 @@
+{"index": 153931, "D": "to set up; establish; organize", "S": ["authorizing ", "colonizing ", "endowing ", "originating ", "planting "], "A": []}

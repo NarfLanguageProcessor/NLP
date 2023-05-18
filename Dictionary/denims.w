@@ -1,0 +1,1 @@
+{"index": 81130, "D": "jeans or overalls made of denim", "S": ["dungarees ", "jeans "], "A": []}

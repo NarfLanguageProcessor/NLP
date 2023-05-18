@@ -1,0 +1,1 @@
+{"index": 50891, "D": "one 100th of a meter, equivalent to 0.3937 inch. Abbreviations", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 249750, "D": "presumptuous. ", "S": ["arrogant ", "foolhardy ", "overconfident ", "pompous ", "pretentious ", "pushy ", "rude ", "smug "], "A": ["cautious ", "humble ", "modest ", "unassuming "]}

@@ -1,0 +1,1 @@
+{"index": 144764, "D": "a member of the Reformed or Calvinistic communion of France in the 16th and 17th centuries; a French Protestant.", "S": [], "A": []}

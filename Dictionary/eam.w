@@ -1,0 +1,1 @@
+{"index": 94702, "D": "National Liberation Front, a Greek underground resistance movement of World War II and political coalition of various leftist groups.", "S": [], "A": []}

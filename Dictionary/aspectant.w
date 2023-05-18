@@ -1,0 +1,1 @@
+{"index": 21376, "D": "(of birds, fish, and animals other than beasts of prey) face to face; respectant.", "S": [], "A": []}

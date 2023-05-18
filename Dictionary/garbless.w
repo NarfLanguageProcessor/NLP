@@ -1,0 +1,1 @@
+{"index": 122074, "D": "a fashion or mode of dress, especially of a distinctive, uniform kind", "S": [], "A": []}

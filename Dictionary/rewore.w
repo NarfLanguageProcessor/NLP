@@ -1,0 +1,1 @@
+{"index": 271658, "D": "to carry or have on the body or about the person as a covering, equipment, ornament, or the like", "S": [], "A": []}

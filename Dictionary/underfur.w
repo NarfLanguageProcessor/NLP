@@ -1,0 +1,1 @@
+{"index": 339235, "D": "the fine, soft, thick, hairy coat under the longer and coarser outer hair in certain animals, as seals, otters, and beavers.", "S": [], "A": []}

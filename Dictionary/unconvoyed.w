@@ -1,0 +1,1 @@
+{"index": 337953, "D": "to accompany or escort, usually for protection", "S": [], "A": []}

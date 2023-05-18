@@ -1,0 +1,1 @@
+{"index": 207951, "D": "adherence to tradition as authority, especially in matters of religion.", "S": [], "A": []}

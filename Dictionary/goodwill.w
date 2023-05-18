@@ -1,0 +1,1 @@
+{"index": 127920, "D": "friendly disposition; benevolence; kindness.", "S": ["altruism ", "philanthropy "], "A": ["hostility "]}

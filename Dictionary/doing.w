@@ -1,0 +1,1 @@
+{"index": 91031, "D": "action; performance; execution", "S": ["accomplishment ", "act ", "action ", "deed ", "performance ", "thing "], "A": ["cessation ", "failure ", "idleness ", "inactivity ", "inertia ", "repose ", "rest ", "stoppage "]}

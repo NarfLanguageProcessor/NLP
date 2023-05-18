@@ -1,0 +1,1 @@
+{"index": 238600, "D": "any of various extinct jawed fishes of the class Placodermi, dominant in seas and rivers during the Devonian Period and characterized by bony armored plates on the head and upper trunk.", "S": [], "A": []}

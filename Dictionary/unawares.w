@@ -1,0 +1,1 @@
+{"index": 335524, "D": "while not aware or conscious of a thing oneself; unknowingly or inadvertently.", "S": ["short "], "A": ["consciously ", "knowingly "]}

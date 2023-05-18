@@ -1,0 +1,1 @@
+{"index": 52269, "D": "a maid  who cleans bedrooms and bathrooms.", "S": ["caretaker ", "housemaid ", "housewife ", "maid ", "servant "], "A": []}

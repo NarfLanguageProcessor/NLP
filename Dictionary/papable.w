@@ -1,0 +1,1 @@
+{"index": 225090, "D": "suitable or likely to become pope.", "S": [], "A": []}

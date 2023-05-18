@@ -1,0 +1,1 @@
+{"index": 12824, "D": "a plant having its seeds enclosed in an ovary; a flowering plant.", "S": [], "A": []}

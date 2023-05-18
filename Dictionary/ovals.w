@@ -1,0 +1,1 @@
+{"index": 218011, "D": "having the general form, shape, or outline of an egg; egg-shaped.", "S": ["moleskin ", "oval ", "peanut ", "pigskin ", "pineapple ", "porker ", "sphere ", "watermelon "], "A": []}

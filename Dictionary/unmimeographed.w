@@ -1,0 +1,1 @@
+{"index": 346353, "D": "a printing machine with an ink-fed drum, around which a cut waxed stencil is placed and which rotates as successive sheets of paper are fed into it.", "S": [], "A": []}

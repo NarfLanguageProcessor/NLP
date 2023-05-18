@@ -1,0 +1,1 @@
+{"index": 341688, "D": "to carry out; accomplish", "S": [], "A": []}

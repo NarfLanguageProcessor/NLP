@@ -1,0 +1,1 @@
+{"index": 154464, "D": "having the form of a ring.", "S": [], "A": []}

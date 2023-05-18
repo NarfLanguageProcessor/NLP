@@ -1,0 +1,1 @@
+{"index": 129267, "D": "the quality or feeling of being grateful or thankful", "S": ["acknowledgment ", "obligation ", "recognition ", "thanks "], "A": ["censure ", "condemnation "]}

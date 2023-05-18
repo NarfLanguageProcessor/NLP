@@ -1,0 +1,1 @@
+{"index": 326596, "D": "to make or become tough  or tougher. ", "S": ["apathetic ", "careless ", "cold-blooded ", "heartless ", "indifferent ", "insensitive ", "uncaring ", "unsympathetic "], "A": ["caring ", "compassionate ", "concerned ", "feeling ", "interested ", "kind ", "merciful ", "mindful ", "nice ", "responsive ", "sympathetic "]}

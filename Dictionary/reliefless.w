@@ -1,0 +1,1 @@
+{"index": 266905, "D": "alleviation, ease, or deliverance through the removal of pain, distress, oppression, etc.", "S": [], "A": []}

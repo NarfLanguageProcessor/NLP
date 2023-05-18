@@ -1,0 +1,1 @@
+{"index": 256340, "D": "pertaining to, characteristic of, or resembling pulp;  fleshy or soft.", "S": ["cushiony ", "cushy ", "doughy ", "downy ", "flabby ", "fleshy ", "gelatinous ", "mushy ", "pappy ", "pulpous ", "quaggy ", "spongy ", "squashy ", "squishy ", "yielding "], "A": []}

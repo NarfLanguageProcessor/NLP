@@ -1,0 +1,1 @@
+{"index": 1808, "D": "the process of sharing and learning the cultural traits or social patterns of another group", "S": [], "A": []}

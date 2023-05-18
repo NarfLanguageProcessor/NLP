@@ -1,0 +1,1 @@
+{"index": 233525, "D": "either of two small, black, leather cubes containing a piece of parchment inscribed with verses 4\u20139 of Deuteronomy 6, 13\u201321 of Deuteronomy 11, and 1\u201316 of Exodus 13", "S": ["amulet ", "charm ", "reminder ", "talisman "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 184627, "D": "a crystal formed by recrystallization of minerals in a metamorphic rock.", "S": [], "A": []}

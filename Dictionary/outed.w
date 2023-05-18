@@ -1,0 +1,1 @@
+{"index": 216538, "D": "away from, or not in, the normal or usual place, position, state, etc.", "S": ["away ", "depart ", "hightail ", "leave ", "off ", "out ", "scat ", "scoot ", "scram ", "shoo ", "skiddoo ", "vamoose "], "A": []}

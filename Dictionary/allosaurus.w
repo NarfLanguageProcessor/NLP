@@ -1,0 +1,1 @@
+{"index": 8941, "D": "Any of various carnivorous dinosaurs of the genus Allosaurus of the late Jurassic and early Cretaceous Periods. Allosaurs were similar to but smaller than tyrannosaurs.", "S": [], "A": []}

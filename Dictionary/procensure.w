@@ -1,0 +1,1 @@
+{"index": 251178, "D": "strong or vehement expression of disapproval", "S": [], "A": []}

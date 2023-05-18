@@ -1,0 +1,1 @@
+{"index": 119587, "D": "a person whose diet consists chiefly of fruit.", "S": ["vegan "], "A": []}

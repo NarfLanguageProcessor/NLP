@@ -1,0 +1,1 @@
+{"index": 180230, "D": "any large, saltwater game fish of the genera Makaira and Tetrapterus, having the upper jaw elongated into a spearlike structure.", "S": [], "A": []}

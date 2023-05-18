@@ -1,0 +1,1 @@
+{"index": 271216, "D": "to regard with respect tinged with awe; venerate", "S": ["admire ", "adore ", "appreciate ", "cherish ", "enjoy ", "exalt ", "hero-worship ", "honor ", "regard ", "respect ", "venerate ", "worship "], "A": ["abhor ", "condemn ", "criticize ", "denounce ", "despise ", "detest ", "dishonor ", "dislike ", "disregard ", "disrespect ", "hate ", "scorn "]}

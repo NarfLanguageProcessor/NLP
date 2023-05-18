@@ -1,0 +1,1 @@
+{"index": 172958, "D": "a contact or linkage established, as between military units or two spacecraft.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45773, "D": "an underground explosion of a bomb or mine that does not break the surface, but leaves an enclosed cavity of gas and smoke.", "S": [], "A": []}

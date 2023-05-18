@@ -1,0 +1,1 @@
+{"index": 20208, "D": [], "S": ["arrest ", "custody ", "delay ", "incarceration ", "internment ", "quarantine "], "A": ["aid ", "assistance ", "help "]}

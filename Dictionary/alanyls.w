@@ -1,0 +1,1 @@
+{"index": 7309, "D": "the acyl group  of alanine. ", "S": [], "A": []}

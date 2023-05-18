@@ -1,0 +1,1 @@
+{"index": 255654, "D": "any of several grouses of the genus Lagopus, of mountainous and cold northern regions, having feathered feet.", "S": [], "A": []}

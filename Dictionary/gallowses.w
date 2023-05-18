@@ -1,0 +1,1 @@
+{"index": 121474, "D": "a wooden frame, consisting of a crossbeam on two uprights, on which condemned persons are executed by hanging.", "S": ["gibbet ", "hanging ", "noose ", "potence ", "rope ", "scaffold "], "A": []}

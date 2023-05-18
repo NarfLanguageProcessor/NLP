@@ -1,0 +1,1 @@
+{"index": 160439, "D": "an ornamental receptacle or stand for holding plants, flowers, etc.", "S": ["jar ", "pot ", "urn "], "A": []}

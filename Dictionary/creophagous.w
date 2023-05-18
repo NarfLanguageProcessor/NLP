@@ -1,0 +1,1 @@
+{"index": 72674, "D": "flesh-eating or carnivorous", "S": ["carnivorous ", "ferocious ", "murderous "], "A": []}

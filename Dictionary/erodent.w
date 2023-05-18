@@ -1,0 +1,1 @@
+{"index": 103891, "D": "eroding; erosive", "S": [], "A": []}

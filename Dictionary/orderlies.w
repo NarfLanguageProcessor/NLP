@@ -1,0 +1,1 @@
+{"index": 214229, "D": "arranged or disposed in a neat, tidy manner or in a regular sequence", "S": ["aide ", "assistant ", "custodian ", "helper ", "nurse ", "servant "], "A": ["boss ", "manager "]}

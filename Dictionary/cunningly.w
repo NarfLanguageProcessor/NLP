@@ -1,0 +1,1 @@
+{"index": 75041, "D": "in a way that shows ingenuity or shrewdness", "S": ["ably ", "adroitly ", "aptly ", "deftly ", "expertly ", "handily ", "ingeniously ", "neatly ", "nimbly ", "skillfully ", "smoothly "], "A": ["awkwardly ", "clumsily ", "unskillfully "]}

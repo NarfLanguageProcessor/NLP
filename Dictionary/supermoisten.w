@@ -1,0 +1,1 @@
+{"index": 312254, "D": "to make or become moist. ", "S": [], "A": []}

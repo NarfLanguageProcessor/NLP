@@ -1,0 +1,1 @@
+{"index": 86772, "D": "the act or an instance of directing. ", "S": ["desultory ", "erratic ", "frivolous ", "haphazard ", "indiscriminate ", "pointless ", "random "], "A": ["definite ", "methodical ", "particular ", "sensible ", "specific ", "systematic "]}

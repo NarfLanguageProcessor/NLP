@@ -1,0 +1,1 @@
+{"index": 151312, "D": "the act of inducing. ", "S": ["encouragement ", "stimulus "], "A": ["discouragement ", "dislike ", "hate ", "repulsion "]}

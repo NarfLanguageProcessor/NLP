@@ -1,0 +1,1 @@
+{"index": 260897, "D": "a monk authorized to wear the rason.", "S": [], "A": []}

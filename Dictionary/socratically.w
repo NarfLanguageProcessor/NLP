@@ -1,0 +1,1 @@
+{"index": 296256, "D": "of or relating to Socrates  or his philosophy, followers, etc., or to the Socratic method. ", "S": [], "A": []}

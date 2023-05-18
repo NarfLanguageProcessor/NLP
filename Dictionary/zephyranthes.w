@@ -1,0 +1,1 @@
+{"index": 369092, "D": "any of various bulbous plants belonging to the genus Zephyranthes, of the amaryllis family, as Z. grandiflora, having showy rose or pink flowers.", "S": [], "A": []}

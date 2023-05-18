@@ -1,0 +1,1 @@
+{"index": 182619, "D": "a member of one of the guilds, chiefly of workingmen, established during the 14th, 15th, and 16th centuries in the principal cities of Germany, for the cultivation of poetry and music.", "S": [], "A": []}

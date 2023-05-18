@@ -1,0 +1,1 @@
+{"index": 215845, "D": "the state or fact of being different or distinct.", "S": ["difference ", "disparity ", "distinction ", "divergence ", "error ", "inconsistency ", "miscalculation ", "variation "], "A": ["accord ", "agreement ", "alikeness ", "likeness ", "sameness ", "similarity "]}

@@ -1,0 +1,1 @@
+{"index": 115419, "D": "an orange-red, crystalline, water-insoluble solid, C20H12O5, that in alkaline solutions produces an orange color and an intense green fluorescence", "S": [], "A": []}

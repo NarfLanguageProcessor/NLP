@@ -1,0 +1,1 @@
+{"index": 130088, "D": "a small Abyssinian monkey, Cercopithecus aethiops, with a grayish back, gray tail, black face, and dark extremities.", "S": [], "A": []}

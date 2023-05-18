@@ -1,0 +1,1 @@
+{"index": 256582, "D": "shaped like or of the nature of a point or dot.", "S": [], "A": []}

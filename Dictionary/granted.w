@@ -1,0 +1,1 @@
+{"index": 128971, "D": [], "S": ["acknowledged ", "assumed "], "A": ["unaccepted "]}

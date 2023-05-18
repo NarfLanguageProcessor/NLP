@@ -1,0 +1,1 @@
+{"index": 326739, "D": "a diesel-powered or steam-powered boat  used especially on inland waterways to push groups of barges lashed to it in front or on one side or both.", "S": [], "A": []}

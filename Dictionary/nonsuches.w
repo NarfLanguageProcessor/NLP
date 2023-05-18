@@ -1,0 +1,1 @@
+{"index": 207658, "D": "a person or thing without equal; paragon", "S": [], "A": []}

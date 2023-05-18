@@ -1,0 +1,1 @@
+{"index": 238712, "D": "the act of reproducing a sound or video recording, especially in order to check a recording that is newly made.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 202906, "D": "the state of being dependent; dependence. ", "S": [], "A": []}

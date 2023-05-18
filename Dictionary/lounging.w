@@ -1,0 +1,1 @@
+{"index": 175469, "D": "(of a garment) worn for leisure, as at home", "S": ["crashed ", "dozing ", "dreaming ", "drowsing ", "napping ", "quiet ", "reclining ", "relaxing ", "reposing ", "sleeping ", "snoozing ", "unwinding "], "A": ["active "]}

@@ -1,0 +1,1 @@
+{"index": 151014, "D": "an injury to a person's dignity; slighting or contemptuous treatment; humiliating affront, insult, or injury.", "S": ["injustice ", "insult ", "opprobrium "], "A": ["aid ", "approval ", "compliment ", "esteem ", "flattery ", "help ", "honor ", "praise ", "respect "]}

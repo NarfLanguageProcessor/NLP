@@ -1,0 +1,1 @@
+{"index": 276625, "D": "(among the American Indians of New England) a chief or leader.", "S": [], "A": []}

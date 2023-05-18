@@ -1,0 +1,1 @@
+{"index": 47164, "D": "to summarize or make very concise; capsule. ", "S": ["sum up ", "summarize "], "A": ["amplify ", "enlarge ", "expand ", "extend ", "increase ", "lengthen "]}

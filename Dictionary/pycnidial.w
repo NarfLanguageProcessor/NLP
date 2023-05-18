@@ -1,0 +1,1 @@
+{"index": 235968, "D": "(in certain ascomycetes and fungi imperfecti) a globose or flask-shaped fruiting body bearing conidia on conidiophores.", "S": [], "A": []}

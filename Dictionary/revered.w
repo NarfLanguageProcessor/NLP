@@ -1,0 +1,1 @@
+{"index": 271217, "D": "held in high regard tinged with awe; venerated", "S": ["admired ", "cherished ", "dear ", "esteemed ", "favorite ", "hallowed ", "loved ", "popular ", "prized ", "respected ", "treasured ", "venerated ", "well-liked "], "A": ["disliked "]}

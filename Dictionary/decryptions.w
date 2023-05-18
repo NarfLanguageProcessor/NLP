@@ -1,0 +1,1 @@
+{"index": 78800, "D": "to decode or decipher.", "S": ["clarification ", "comprehension ", "decoding ", "elucidation ", "explication ", "illumination ", "illustration ", "interpretation ", "reading ", "understanding "], "A": ["misinterpretation ", "mistake ", "misunderstanding "]}

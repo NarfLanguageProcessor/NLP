@@ -1,0 +1,1 @@
+{"index": 254816, "D": "imparting inspiration. ", "S": [], "A": []}

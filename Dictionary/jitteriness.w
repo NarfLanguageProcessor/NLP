@@ -1,0 +1,1 @@
+{"index": 161385, "D": "extremely tense and nervous; jumpy", "S": [], "A": []}

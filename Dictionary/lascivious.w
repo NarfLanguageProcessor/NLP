@@ -1,0 +1,1 @@
+{"index": 168706, "D": "inclined to lustfulness; wanton; lewd", "S": ["indecent ", "lewd ", "pornographic ", "prurient ", "salacious ", "vulgar "], "A": ["clean ", "decent ", "moral "]}

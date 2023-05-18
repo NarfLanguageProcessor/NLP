@@ -1,0 +1,1 @@
+{"index": 149467, "D": "incapable of being appealed against, as a court decision; unchallengeable", "S": [], "A": []}

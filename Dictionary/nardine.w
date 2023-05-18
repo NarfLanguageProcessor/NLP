@@ -1,0 +1,1 @@
+{"index": 196997, "D": "an aromatic Himalayan plant, believed to be the spikenard, Nardostachys jatamansi, the source of an ointment used by the ancients.", "S": [], "A": []}

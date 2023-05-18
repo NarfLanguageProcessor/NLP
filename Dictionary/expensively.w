@@ -1,0 +1,1 @@
+{"index": 107703, "D": "entailing great expense;  very high-priced; costly", "S": [], "A": []}

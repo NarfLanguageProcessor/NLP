@@ -1,0 +1,1 @@
+{"index": 120301, "D": "shaped like a funnel,  as the corolla of the morning-glory; infundibuliform.", "S": [], "A": []}

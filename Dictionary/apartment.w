@@ -1,0 +1,1 @@
+{"index": 16667, "D": "a room or a group of related rooms, among similar sets in one building, designed for use as a dwelling.", "S": ["accommodation ", "cave ", "condo ", "flat ", "penthouse ", "residence ", "suite "], "A": []}

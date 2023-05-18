@@ -1,0 +1,1 @@
+{"index": 246900, "D": "the decision reached from such an examination. Abbreviation", "S": [], "A": []}

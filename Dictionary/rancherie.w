@@ -1,0 +1,1 @@
+{"index": 260470, "D": "an Indian village or settlement, especially one located on a reserve.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308478, "D": "a vessel that can be submerged and navigated under water, usually built for warfare and armed with torpedoes or guided missiles.", "S": ["submersible "], "A": []}

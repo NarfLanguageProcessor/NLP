@@ -1,0 +1,1 @@
+{"index": 189800, "D": "a wrong or bad play. ", "S": [], "A": []}

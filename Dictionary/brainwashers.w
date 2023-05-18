@@ -1,0 +1,1 @@
+{"index": 39767, "D": "to cause (someone) to undergo brainwashing.", "S": ["publicist "], "A": []}

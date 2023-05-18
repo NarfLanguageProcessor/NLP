@@ -1,0 +1,1 @@
+{"index": 207037, "D": "a severe mental disorder characterized by some, but not necessarily all, of the following features", "S": [], "A": []}

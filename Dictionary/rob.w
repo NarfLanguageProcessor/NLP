@@ -1,0 +1,1 @@
+{"index": 273545, "D": "to take something from (someone) by unlawful force or threat of violence; steal from.", "S": ["bereave ", "break into ", "cheat ", "defraud ", "divest ", "hijack ", "loot ", "lose ", "mug ", "plunder ", "raid ", "ransack ", "strip "], "A": ["give ", "help ", "receive ", "bequeath ", "offer ", "protect ", "return "]}

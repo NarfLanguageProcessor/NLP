@@ -1,0 +1,1 @@
+{"index": 20895, "D": "infestation with ascarids,  especially Ascaris lumbricoides.", "S": [], "A": []}

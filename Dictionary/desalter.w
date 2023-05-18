@@ -1,0 +1,1 @@
+{"index": 82367, "D": "to remove the salt  from (especially sea water), usually to make it drinkable.", "S": [], "A": []}

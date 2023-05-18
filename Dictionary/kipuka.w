@@ -1,0 +1,1 @@
+{"index": 165051, "D": "(in Hawaii) a tract of land surrounded by recent lava flows.", "S": [], "A": []}

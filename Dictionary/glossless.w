@@ -1,0 +1,1 @@
+{"index": 126684, "D": "a superficial luster or shine; glaze", "S": [], "A": []}

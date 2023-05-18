@@ -1,0 +1,1 @@
+{"index": 249741, "D": "capable of being taken for granted; probable.", "S": ["apparent ", "likely ", "plausible ", "possible ", "probable "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183604, "D": "a mercenary soldier.", "S": ["warrior "], "A": []}

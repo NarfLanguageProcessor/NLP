@@ -1,0 +1,1 @@
+{"index": 184607, "D": "the ability of some animals, such as chameleons, to change their colour", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 335413, "D": "not having been ascribed or attributed (to someone)", "S": [], "A": []}

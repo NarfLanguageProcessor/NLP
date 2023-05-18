@@ -1,0 +1,1 @@
+{"index": 223147, "D": "a pagan or heathen.", "S": [], "A": []}

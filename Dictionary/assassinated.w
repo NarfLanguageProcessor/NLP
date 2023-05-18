@@ -1,0 +1,1 @@
+{"index": 21602, "D": "to kill suddenly or secretively, especially a prominent person; murder premeditatedly and treacherously.", "S": ["execute ", "gun down ", "kill ", "slaughter ", "slay "], "A": []}

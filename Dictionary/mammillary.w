@@ -1,0 +1,1 @@
+{"index": 178802, "D": "of, relating to, or resembling a mammilla. ", "S": [], "A": []}

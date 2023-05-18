@@ -1,0 +1,1 @@
+{"index": 154514, "D": "to blend  one with another.", "S": ["combine ", "fuse ", "integrate ", "meld ", "merge ", "mingle ", "synthesize "], "A": ["disconnect ", "divide ", "part ", "separate "]}

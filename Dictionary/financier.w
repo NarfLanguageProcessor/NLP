@@ -1,0 +1,1 @@
+{"index": 112865, "D": "a person skilled or engaged in managing large financial  operations, whether public or corporate.", "S": ["backer ", "banker ", "broker ", "capitalist ", "entrepreneur ", "merchant ", "operator ", "speculator ", "stockbroker ", "tycoon "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 247512, "D": "any rich or abundant meal", "S": [], "A": []}

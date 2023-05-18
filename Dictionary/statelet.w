@@ -1,0 +1,1 @@
+{"index": 303039, "D": "a small state, especially one resulting from the dissolution of a larger state.", "S": [], "A": []}

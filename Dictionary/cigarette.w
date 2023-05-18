@@ -1,0 +1,1 @@
+{"index": 57340, "D": "a cylindrical roll of finely cut tobacco cured for smoking, considerably smaller than most cigars and usually wrapped in thin white paper.", "S": ["smoke "], "A": []}

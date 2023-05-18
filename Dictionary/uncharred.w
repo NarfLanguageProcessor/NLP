@@ -1,0 +1,1 @@
+{"index": 336759, "D": "burned or reduced to charcoal", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 2832, "D": "an orange-brown, granular solid, C14H14N3Cl", "S": [], "A": []}

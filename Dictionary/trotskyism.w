@@ -1,0 +1,1 @@
+{"index": 331292, "D": "the form of Communism advocated by Leon Trotsky,  based on an immediate, worldwide revolution by the proletariat.", "S": [], "A": []}

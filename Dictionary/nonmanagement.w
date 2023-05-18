@@ -1,0 +1,1 @@
+{"index": 205140, "D": "the act or manner of managing;  handling, direction, or control.", "S": [], "A": []}

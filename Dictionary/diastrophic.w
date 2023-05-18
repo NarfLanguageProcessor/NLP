@@ -1,0 +1,1 @@
+{"index": 84573, "D": "the action of the forces that cause the earth's crust to be deformed, producing continents, mountains, changes of level, etc.", "S": [], "A": []}

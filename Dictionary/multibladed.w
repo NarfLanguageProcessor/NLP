@@ -1,0 +1,1 @@
+{"index": 194998, "D": "having a blade  or blades  (often used in combination)", "S": [], "A": []}

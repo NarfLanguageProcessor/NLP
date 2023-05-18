@@ -1,0 +1,1 @@
+{"index": 39777, "D": "the first sprouts or shoots of grass, corn, or other crops; new growth.", "S": [], "A": []}

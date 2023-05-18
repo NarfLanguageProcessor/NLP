@@ -1,0 +1,1 @@
+{"index": 257317, "D": "a colourless crystalline amine produced by decaying animal matter; 1,4-diaminobutane. Formula", "S": [], "A": []}

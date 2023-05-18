@@ -1,0 +1,1 @@
+{"index": 180384, "D": "a thick cotton fabric woven in figures or stripes with an embossed effect, chiefly for bedspreads and other coverings.", "S": [], "A": []}

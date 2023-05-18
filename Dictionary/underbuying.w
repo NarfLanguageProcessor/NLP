@@ -1,0 +1,1 @@
+{"index": 338922, "D": "to buy  more cheaply than (another).", "S": [], "A": []}

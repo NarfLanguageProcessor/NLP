@@ -1,0 +1,1 @@
+{"index": 55016, "D": "a combining form meaning \u201cgreen,\u201d used in the formation of compound words", "S": [], "A": []}

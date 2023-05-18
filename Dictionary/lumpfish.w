@@ -1,0 +1,1 @@
+{"index": 176135, "D": "any of several thick-bodied, sluggish fishes  of the family Cyclopteridae, found in northern seas, having the pelvic fins modified and united into a sucking disk, especially Cyclopterus lumpus, of the North Atlantic.", "S": [], "A": []}

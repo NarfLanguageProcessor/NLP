@@ -1,0 +1,1 @@
+{"index": 72676, "D": "a colorless oily liquid, C8H10O2, having an agreeable odor and a burning taste, obtained from wood tar and guaiacum resin", "S": [], "A": []}

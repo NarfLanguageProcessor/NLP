@@ -1,0 +1,1 @@
+{"index": 290672, "D": "a plant, Potentilla anserina, of the rose family, the leaves of which have a silvery pubescence on the underside.", "S": [], "A": []}

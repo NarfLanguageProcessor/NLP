@@ -1,0 +1,1 @@
+{"index": 22827, "D": "a white crystalline compound, C8H14N5Cl, used as an herbicide to control weeds, especially in corn crops.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 218573, "D": "a textile pattern having one checked  design superimposed on another so that both are visible.", "S": [], "A": []}

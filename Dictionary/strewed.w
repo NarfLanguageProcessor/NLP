@@ -1,0 +1,1 @@
+{"index": 306165, "D": "to let fall in separate pieces or particles over a surface; scatter or sprinkle", "S": ["crowded ", "messy "], "A": []}

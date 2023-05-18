@@ -1,0 +1,1 @@
+{"index": 71807, "D": "a stick,  cane, or club made of wood, especially of the crab tree. ", "S": [], "A": []}

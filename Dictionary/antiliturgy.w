@@ -1,0 +1,1 @@
+{"index": 15453, "D": "a form of public worship; ritual.", "S": [], "A": []}

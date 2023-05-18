@@ -1,0 +1,1 @@
+{"index": 10358, "D": "faulty refraction of light rays by the eye, as in astigmatism or myopia.", "S": [], "A": []}

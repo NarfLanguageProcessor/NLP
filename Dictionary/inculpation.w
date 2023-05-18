@@ -1,0 +1,1 @@
+{"index": 150559, "D": "to charge with fault; blame; accuse. ", "S": ["criticism "], "A": ["acquittal ", "approval ", "commendation ", "compliment ", "endorsement ", "exculpation ", "exoneration ", "flattery ", "harmony ", "health ", "peace ", "praise ", "ratification ", "recommendation ", "retreat ", "sanction "]}

@@ -1,0 +1,1 @@
+{"index": 160736, "D": "(used as a mild exclamation of surprise or emotion.)", "S": ["ahem ", "alas ", "amen ", "boo ", "er ", "exclamation ", "hello ", "hooray ", "hurrah ", "oh ", "shucks ", "whoopee ", "wow "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 102606, "D": "a homomorphism that maps from one set onto a second set.", "S": [], "A": []}

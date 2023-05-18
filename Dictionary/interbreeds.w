@@ -1,0 +1,1 @@
+{"index": 154528, "D": "to crossbreed (a plant or animal).", "S": ["crossbreed ", "hybridize ", "mix "], "A": ["divide ", "part ", "separate "]}

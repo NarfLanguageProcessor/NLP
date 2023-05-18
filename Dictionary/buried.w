@@ -1,0 +1,1 @@
+{"index": 43142, "D": "placed in the ground and covered with earth", "S": ["covered ", "hidden "], "A": ["bare ", "exposed ", "open "]}

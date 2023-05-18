@@ -1,0 +1,1 @@
+{"index": 67063, "D": "constituent; making a thing what it is; essential.", "S": ["basic ", "constitutional ", "fundamental ", "important ", "integral ", "key ", "main ", "vital "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 137865, "D": "to strike forcibly with an ax, sword, or other cutting instrument; chop; hack.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45662, "D": "a faint extensive constellation in the N hemisphere close to Ursa Major and Cassiopeia", "S": [], "A": []}

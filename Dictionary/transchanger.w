@@ -1,0 +1,1 @@
+{"index": 327735, "D": "a person or thing that changes  something.", "S": [], "A": []}

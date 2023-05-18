@@ -1,0 +1,1 @@
+{"index": 363226, "D": "a picture or view of the sea or other body of water. ", "S": [], "A": []}

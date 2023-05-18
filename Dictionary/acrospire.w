@@ -1,0 +1,1 @@
+{"index": 3032, "D": "the first sprout appearing in the germination of grain; the developed plumule of the seed.", "S": [], "A": []}

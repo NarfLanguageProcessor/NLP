@@ -1,0 +1,1 @@
+{"index": 248638, "D": "the action, fact, or instance of occurring.", "S": [], "A": []}

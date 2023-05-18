@@ -1,0 +1,1 @@
+{"index": 107762, "D": "capable of being expiated", "S": ["expiative ", "propitiatory "], "A": []}

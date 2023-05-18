@@ -1,0 +1,1 @@
+{"index": 330599, "D": "an abnormality characterized by the presence of an additional chromosome to the normal diploid number.", "S": [], "A": []}

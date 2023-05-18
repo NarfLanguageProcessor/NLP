@@ -1,0 +1,1 @@
+{"index": 307713, "D": "treelike; branching like a tree; arborescent.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321611, "D": "of or relating to the Greek region of Thessaly or its inhabitants", "S": [], "A": []}

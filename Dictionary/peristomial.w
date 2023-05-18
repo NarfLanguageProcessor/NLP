@@ -1,0 +1,1 @@
+{"index": 231398, "D": "the one or two circles of small, pointed, toothlike appendages around the orifice of a capsule or urn of mosses, appearing when the lid is removed.", "S": [], "A": []}

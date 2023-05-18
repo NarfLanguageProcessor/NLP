@@ -1,0 +1,1 @@
+{"index": 51163, "D": "an instrument for measuring the human head.", "S": [], "A": []}

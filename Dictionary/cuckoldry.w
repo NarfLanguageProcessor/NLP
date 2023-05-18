@@ -1,0 +1,1 @@
+{"index": 74530, "D": "the act of making someone's husband a cuckold. ", "S": [], "A": []}

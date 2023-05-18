@@ -1,0 +1,1 @@
+{"index": 363293, "D": "a unit of energy equal to the energy of one watt acting for one second; the equivalent of one joule.", "S": [], "A": []}

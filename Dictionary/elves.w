@@ -1,0 +1,1 @@
+{"index": 97873, "D": "plural of elf. ", "S": ["dwarfs ", "elfenfolk ", "fairies ", "fairyfolk ", "laborers ", "leprechauns ", "midgets ", "the unremarkable "], "A": []}

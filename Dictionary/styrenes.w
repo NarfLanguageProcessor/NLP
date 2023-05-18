@@ -1,0 +1,1 @@
+{"index": 304805, "D": "a colorless, water-insoluble liquid, C8H8, having a penetrating aromatic odor, usually prepared from ethylene and benzene or ethylbenzene, that polymerizes to a clear transparent material and copolymerizes with other materials to form synthetic rubbers.", "S": [], "A": []}

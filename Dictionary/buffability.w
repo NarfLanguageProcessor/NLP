@@ -1,0 +1,1 @@
+{"index": 42218, "D": "a soft, thick, light-yellow leather with a napped surface, originally made from buffalo skin but later also from other skins, used for making belts, pouches, etc.", "S": [], "A": []}

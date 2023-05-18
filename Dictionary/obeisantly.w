@@ -1,0 +1,1 @@
+{"index": 210018, "D": "a movement of the body expressing deep respect or deferential courtesy, as before a superior; a bow, curtsy, or other similar gesture.", "S": [], "A": []}

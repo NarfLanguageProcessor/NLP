@@ -1,0 +1,1 @@
+{"index": 273967, "D": "to move or act in a carefree, frolicsome manner; behave in a free, hearty, lively, or jovial way.", "S": [], "A": []}

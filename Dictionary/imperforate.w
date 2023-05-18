@@ -1,0 +1,1 @@
+{"index": 148520, "D": "not perforate;  having no perforation.", "S": ["entire ", "exhaustive ", "full ", "outright ", "thorough "], "A": ["incomplete "]}

@@ -1,0 +1,1 @@
+{"index": 286159, "D": "of, relating to, or resembling a sermon. ", "S": [], "A": []}

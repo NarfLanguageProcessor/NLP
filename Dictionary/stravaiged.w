@@ -1,0 +1,1 @@
+{"index": 305919, "D": "to wander aimlessly.", "S": [], "A": []}

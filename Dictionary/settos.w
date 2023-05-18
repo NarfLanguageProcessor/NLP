@@ -1,0 +1,1 @@
+{"index": 286696, "D": "a usually brief, sharp fight or argument.", "S": ["argument ", "bickering ", "blowup ", "brawl ", "flap ", "fracas ", "quarrel ", "run-in ", "tiff ", "wrangle "], "A": ["agreement ", "calm ", "harmony ", "peace ", "accord ", "quiet "]}

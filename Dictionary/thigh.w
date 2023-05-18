@@ -1,0 +1,1 @@
+{"index": 321752, "D": "the part of the lower limb in humans between the hip and the knee.", "S": ["femur ", "groin "], "A": []}

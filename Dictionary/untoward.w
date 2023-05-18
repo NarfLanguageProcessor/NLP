@@ -1,0 +1,1 @@
+{"index": 353162, "D": "unfavorable or unfortunate", "S": ["adverse ", "disturbing ", "perverse ", "unfortunate ", "unmanageable "], "A": ["fortunate ", "happy ", "lucky "]}

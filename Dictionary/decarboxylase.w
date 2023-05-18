@@ -1,0 +1,1 @@
+{"index": 78066, "D": "any of the class of enzymes that catalyze the release of carbon dioxide from the carboxyl group of certain organic acids.", "S": [], "A": []}

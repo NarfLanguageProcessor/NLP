@@ -1,0 +1,1 @@
+{"index": 259967, "D": "a person who picks up rags  and other waste material from the streets, refuse heaps, etc., for a livelihood.", "S": [], "A": []}

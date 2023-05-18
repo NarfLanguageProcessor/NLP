@@ -1,0 +1,1 @@
+{"index": 251881, "D": "to subject to or make a prognosis.", "S": [], "A": []}

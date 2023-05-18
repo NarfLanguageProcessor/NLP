@@ -1,0 +1,1 @@
+{"index": 174222, "D": "the gray or timber wolf of the western U.S.", "S": ["mutt ", "pooch ", "pup "], "A": []}

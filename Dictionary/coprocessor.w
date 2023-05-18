@@ -1,0 +1,1 @@
+{"index": 68661, "D": "a microprocessor circuit that operates alongside and supplements the capabilities of the main processor, providing, for example, high-speed arithmetic", "S": [], "A": []}

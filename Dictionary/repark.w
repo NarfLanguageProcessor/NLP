@@ -1,0 +1,1 @@
+{"index": 268021, "D": "an area of land, usually in a largely natural state, for the enjoyment of the public, having facilities for rest and recreation, often owned, set apart, and managed by a city, state, or nation.", "S": [], "A": []}

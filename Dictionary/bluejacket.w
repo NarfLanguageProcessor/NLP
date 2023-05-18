@@ -1,0 +1,1 @@
+{"index": 36749, "D": "a sailor, especially in the U.S. or British navies.", "S": ["boater ", "cadet ", "diver ", "jack-tar ", "lascar ", "marine ", "mariner ", "mate ", "middy ", "navigator ", "pilot ", "pirate ", "salt ", "seafarer ", "seaman ", "shipmate ", "swab ", "tar ", "tarpaulin ", "windjammer "], "A": []}

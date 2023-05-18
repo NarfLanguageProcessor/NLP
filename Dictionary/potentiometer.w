@@ -1,0 +1,1 @@
+{"index": 244683, "D": "a device for measuring electromotive force or potential difference by comparison with a known voltage.", "S": [], "A": []}

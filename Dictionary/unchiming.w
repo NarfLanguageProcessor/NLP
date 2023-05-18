@@ -1,0 +1,1 @@
+{"index": 336818, "D": "an apparatus for striking a bell so as to produce a musical sound, as one at the front door of a house by which visitors announce their presence.", "S": [], "A": []}

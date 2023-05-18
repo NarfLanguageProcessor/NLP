@@ -1,0 +1,1 @@
+{"index": 39029, "D": "to grow or develop quickly; flourish", "S": [], "A": []}

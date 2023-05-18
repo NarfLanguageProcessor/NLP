@@ -1,0 +1,1 @@
+{"index": 94444, "D": "a person who subjects another to duress. ", "S": [], "A": []}

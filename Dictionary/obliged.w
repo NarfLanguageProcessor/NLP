@@ -1,0 +1,1 @@
+{"index": 210203, "D": "bound by duty, ethics, or politeness", "S": ["compelled ", "duty-bound ", "enslaved ", "indebted ", "obligated "], "A": []}

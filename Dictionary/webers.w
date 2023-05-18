@@ -1,0 +1,1 @@
+{"index": 363667, "D": "the standard unit of magnetic flux and magnetic pole strength in the International System of Units (SI), equal to a flux that produces an electromotive force of one volt in a single turn of wire when the flux is uniformly reduced to zero in a period of one second; 108 maxwells. Abbreviation", "S": [], "A": []}

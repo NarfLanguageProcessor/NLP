@@ -1,0 +1,1 @@
+{"index": 73498, "D": "to censure or find fault with.", "S": ["carper ", "caviler ", "censor ", "faultfinder ", "hypercritic ", "knocker ", "nitpicker ", "quibbler "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 237051, "D": "the head  of a pin. ", "S": ["clown ", "dunce ", "fool "], "A": ["brain "]}

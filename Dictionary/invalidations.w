@@ -1,0 +1,1 @@
+{"index": 157016, "D": "to render invalid;  discredit.", "S": ["abolishment ", "abrogation ", "annihilation ", "annulment ", "cancellation ", "negation ", "nullification ", "voidance "], "A": ["allowance ", "approval ", "permission "]}

@@ -1,0 +1,1 @@
+{"index": 352415, "D": "being at, on, or near the surface", "S": [], "A": []}

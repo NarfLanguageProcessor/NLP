@@ -1,0 +1,1 @@
+{"index": 242870, "D": "the growing or cultivation of fruit.", "S": [], "A": []}

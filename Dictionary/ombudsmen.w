@@ -1,0 +1,1 @@
+{"index": 212397, "D": "a government official who hears and investigates complaints by private citizens against other officials or government agencies.", "S": ["authority ", "court ", "critic ", "expert ", "inspector ", "justice ", "referee "], "A": []}

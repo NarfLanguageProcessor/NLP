@@ -1,0 +1,1 @@
+{"index": 269688, "D": "the act of specifying. ", "S": [], "A": []}

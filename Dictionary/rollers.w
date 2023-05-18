@@ -1,0 +1,1 @@
+{"index": 273960, "D": "a person or thing that rolls. ", "S": ["swell ", "wave "], "A": []}

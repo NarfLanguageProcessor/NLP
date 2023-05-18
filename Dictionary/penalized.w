@@ -1,0 +1,1 @@
+{"index": 229498, "D": "to subject to a penalty, as a person.", "S": ["chastened ", "dismissed ", "imprisoned "], "A": ["cleared ", "exonerated ", "released "]}

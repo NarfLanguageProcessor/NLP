@@ -1,0 +1,1 @@
+{"index": 204116, "D": "a substance, as a liquid or gas, that is capable of flowing and that changes its shape at a steady rate when acted upon by a force tending to change its shape.", "S": [], "A": []}

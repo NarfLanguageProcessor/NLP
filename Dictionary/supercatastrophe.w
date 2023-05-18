@@ -1,0 +1,1 @@
+{"index": 311488, "D": "a sudden and widespread disaster", "S": [], "A": []}

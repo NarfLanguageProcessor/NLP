@@ -1,0 +1,1 @@
+{"index": 175081, "D": "a mirage in which objects below the horizon seem to be raised above their true positions.", "S": ["approaching ", "imminent ", "impending "], "A": ["distant ", "later ", "remote "]}

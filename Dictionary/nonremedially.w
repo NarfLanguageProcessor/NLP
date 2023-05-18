@@ -1,0 +1,1 @@
+{"index": 206667, "D": "affording remedy;  tending to remedy  something.", "S": [], "A": []}

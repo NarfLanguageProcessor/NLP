@@ -1,0 +1,1 @@
+{"index": 206261, "D": "characterized by or involving indiscriminate mingling or association, especially having sexual relations with a number of partners on a casual basis.", "S": [], "A": []}

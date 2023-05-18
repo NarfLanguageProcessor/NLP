@@ -1,0 +1,1 @@
+{"index": 144903, "D": "not proud or arrogant; modest", "S": [], "A": []}

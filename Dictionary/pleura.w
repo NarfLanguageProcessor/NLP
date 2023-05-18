@@ -1,0 +1,1 @@
+{"index": 239916, "D": "a delicate serous membrane investing each lung in mammals and folded back as a lining of the corresponding side of the thorax.", "S": ["alveolus ", "bronchi "], "A": []}

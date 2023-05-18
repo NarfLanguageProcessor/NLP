@@ -1,0 +1,1 @@
+{"index": 70602, "D": "the backward counting in fixed time units from the initiation of a project, as a rocket launching, with the moment of firing designated as zero.", "S": ["launch procedure "], "A": []}

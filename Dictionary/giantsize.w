@@ -1,0 +1,1 @@
+{"index": 124630, "D": [], "S": ["family size ", "king size ", "large size ", "queen size ", "very large size "], "A": []}

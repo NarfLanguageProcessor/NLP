@@ -1,0 +1,1 @@
+{"index": 325885, "D": "a subject of conversation or discussion", "S": ["affair ", "argument ", "business ", "case ", "field ", "issue ", "material ", "matter ", "point ", "problem ", "proposition ", "question ", "subject ", "theme "], "A": ["fact ", "proof "]}

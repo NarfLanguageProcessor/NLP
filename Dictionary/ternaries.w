@@ -1,0 +1,1 @@
+{"index": 319434, "D": "consisting of or involving three; threefold; triple.", "S": ["ternary ", "ternion ", "third ", "triad ", "trichotomy ", "trilogy ", "trinity ", "trio ", "triplet ", "triplets ", "triplicate ", "triplicity ", "triumvirate ", "trivium ", "troika "], "A": []}

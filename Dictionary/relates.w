@@ -1,0 +1,1 @@
+{"index": 266742, "D": "to tell; give an account of (an event, circumstance, etc.).", "S": ["describe ", "detail ", "disclose ", "present ", "reveal "], "A": ["conceal ", "hide ", "misrepresent ", "suppress ", "withhold ", "keep "]}

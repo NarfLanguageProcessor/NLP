@@ -1,0 +1,1 @@
+{"index": 235002, "D": "a cathode,  typically of a cesium or sodium compound, having the property of emitting electrons when activated by light or other radiation.", "S": [], "A": []}

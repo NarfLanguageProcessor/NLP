@@ -1,0 +1,1 @@
+{"index": 306278, "D": "of, pertaining, or belonging to the order Strigiformes, comprising the owls.", "S": [], "A": []}

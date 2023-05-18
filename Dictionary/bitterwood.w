@@ -1,0 +1,1 @@
+{"index": 35268, "D": "any of various chiefly tropical trees having wood  with a bitter  taste, as Vatairea lundelii or Simarouba glauca.", "S": [], "A": []}

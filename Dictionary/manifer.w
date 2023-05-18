@@ -1,0 +1,1 @@
+{"index": 179266, "D": "a gauntlet for protecting the left hand when holding the reins of a horse.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 124059, "D": "of or relating to a satellite traveling in an orbit 22,300 miles (35,900 km) above the earth's equator", "S": [], "A": []}

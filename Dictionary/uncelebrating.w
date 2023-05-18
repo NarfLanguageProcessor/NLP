@@ -1,0 +1,1 @@
+{"index": 336626, "D": "to observe (a day) or commemorate (an event) with ceremonies or festivities", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 584, "D": "in bloom;  blossoming; flowering.", "S": ["flourishing "], "A": []}

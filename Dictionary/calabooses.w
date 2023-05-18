@@ -1,0 +1,1 @@
+{"index": 44703, "D": "jail; prison; lockup.", "S": ["big cage ", "big school ", "brig ", "can ", "city hotel ", "cooler ", "coop ", "correctional institution ", "detention facility ", "house of correction ", "house of detention ", "icebox ", "jail ", "joint ", "penitentiary ", "prison ", "slammer ", "tank ", "up the river "], "A": []}

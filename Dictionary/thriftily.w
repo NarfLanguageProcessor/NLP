@@ -1,0 +1,1 @@
+{"index": 322673, "D": "practicing thrift  or economical management; frugal", "S": [], "A": []}

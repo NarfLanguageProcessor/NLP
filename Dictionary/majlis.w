@@ -1,0 +1,1 @@
+{"index": 178044, "D": "a public audience held by a chieftain, monarch, or other ruler to listen to the requests of petitioners.", "S": [], "A": []}

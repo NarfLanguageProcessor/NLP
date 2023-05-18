@@ -1,0 +1,1 @@
+{"index": 231590, "D": "suffused, saturated, penetrated, or filled with something (sometimes used in combination)", "S": ["emotional ", "fraught ", "intense "], "A": ["empty "]}

@@ -1,0 +1,1 @@
+{"index": 249806, "D": "to enclose on all sides; encompass", "S": [], "A": []}

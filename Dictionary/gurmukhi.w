@@ -1,0 +1,1 @@
+{"index": 131501, "D": "the script used for writing the Punjabi language", "S": [], "A": []}

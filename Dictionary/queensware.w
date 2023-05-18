@@ -1,0 +1,1 @@
+{"index": 258270, "D": "a hard, cream-colored earthenware, perfected c1765 by Wedgwood.", "S": [], "A": []}

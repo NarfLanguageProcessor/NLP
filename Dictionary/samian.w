@@ -1,0 +1,1 @@
+{"index": 277538, "D": "of or relating to the Greek island of Samos.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 64464, "D": "capable of existing or living together in harmony", "S": ["adaptable ", "appropriate ", "consistent ", "suitable "], "A": ["improper ", "unfitting ", "unsuitable "]}

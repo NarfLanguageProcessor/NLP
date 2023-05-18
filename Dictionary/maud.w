@@ -1,0 +1,1 @@
+{"index": 181391, "D": "a gray woolen plaid worn by shepherds and others in S Scotland.", "S": ["burro ", "horse ", "mule "], "A": []}

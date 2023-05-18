@@ -1,0 +1,1 @@
+{"index": 60447, "D": "not talking or telling much.", "S": ["hidden ", "private ", "retired ", "secluded "], "A": ["gossipy ", "indiscreet ", "open "]}

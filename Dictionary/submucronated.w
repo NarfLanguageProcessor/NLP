@@ -1,0 +1,1 @@
+{"index": 308595, "D": "having an abruptly projecting point, as a feather or leaf.", "S": [], "A": []}

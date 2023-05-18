@@ -1,0 +1,1 @@
+{"index": 210956, "D": "consisting of eight measures or feet.", "S": [], "A": []}

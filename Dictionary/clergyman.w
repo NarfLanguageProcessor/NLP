@@ -1,0 +1,1 @@
+{"index": 59800, "D": "a member of the clergy. ", "S": ["bishop ", "chaplain ", "cleric ", "evangelist ", "missionary ", "pastor ", "pontiff ", "preacher ", "priest ", "rabbi "], "A": ["layman ", "layperson "]}

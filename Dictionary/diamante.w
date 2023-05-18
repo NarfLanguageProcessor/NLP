@@ -1,0 +1,1 @@
+{"index": 84315, "D": "a sequin, rhinestone, or other glittery ornamentation on a garment.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158291, "D": "permitting no return to the original place or condition; irreversible.", "S": [], "A": []}

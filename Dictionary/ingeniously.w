@@ -1,0 +1,1 @@
+{"index": 152470, "D": "characterized by cleverness or originality of invention or construction", "S": ["ably ", "adroitly ", "aptly ", "deftly ", "expertly ", "handily ", "neatly ", "nimbly ", "skillfully ", "smoothly "], "A": ["awkwardly ", "clumsily ", "unskillfully "]}

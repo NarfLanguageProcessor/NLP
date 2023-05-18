@@ -1,0 +1,1 @@
+{"index": 31537, "D": [], "S": ["abet ", "alleviate ", "assist ", "encourage ", "promote ", "subsidize "], "A": ["deter ", "discourage ", "hinder ", "hurt ", "burden ", "upset "]}

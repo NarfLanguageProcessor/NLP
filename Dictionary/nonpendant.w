@@ -1,0 +1,1 @@
+{"index": 205818, "D": "a hanging ornament, as an earring or the main piece suspended from a necklace.", "S": [], "A": []}

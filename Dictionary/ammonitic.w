@@ -1,0 +1,1 @@
+{"index": 10778, "D": "the coiled, chambered fossil shell of an ammonoid.", "S": [], "A": []}

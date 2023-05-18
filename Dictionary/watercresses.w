@@ -1,0 +1,1 @@
+{"index": 363140, "D": "a cress, Nasturtium officinale, of the mustard family, usually growing in clear, running streams and having pungent leaves.", "S": [], "A": []}

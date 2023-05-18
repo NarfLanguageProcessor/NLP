@@ -1,0 +1,1 @@
+{"index": 229004, "D": "any of several varieties of all fours in which the five of trumps counts at its face value.", "S": [], "A": []}

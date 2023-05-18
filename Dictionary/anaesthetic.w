@@ -1,0 +1,1 @@
+{"index": 11625, "D": "a substance that causes anaesthesia", "S": ["opiate "], "A": ["analeptic ", "stimulant "]}

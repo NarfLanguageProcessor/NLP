@@ -1,0 +1,1 @@
+{"index": 164629, "D": "a furnace or oven for burning, baking, or drying something, especially one for firing pottery, calcining limestone, or baking bricks.", "S": ["furnace ", "stove "], "A": []}

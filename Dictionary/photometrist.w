@@ -1,0 +1,1 @@
+{"index": 235250, "D": "the measurement of the intensity of light or of relative illuminating power.", "S": [], "A": []}

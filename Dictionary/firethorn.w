@@ -1,0 +1,1 @@
+{"index": 113218, "D": "any of several evergreen, thorny Asian shrubs belonging to the genus Pyracantha, of the rose family, many species of which are cultivated for their foliage and ornamental fruits.", "S": [], "A": []}

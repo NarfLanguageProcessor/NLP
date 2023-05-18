@@ -1,0 +1,1 @@
+{"index": 17084, "D": "protracted gasping inhalation followed by short inefficient exhalation, which can cause asphyxia", "S": [], "A": []}

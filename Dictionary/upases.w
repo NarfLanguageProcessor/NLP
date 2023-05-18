@@ -1,0 +1,1 @@
+{"index": 354470, "D": "the poisonous milky sap of a large tree, Antiaris toxicaria, of the mulberry family, native to tropical Asia, Africa, and the Philippine Islands, used for arrow poison.", "S": [], "A": []}

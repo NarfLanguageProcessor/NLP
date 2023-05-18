@@ -1,0 +1,1 @@
+{"index": 250579, "D": "constituting a beginning; giving origin to something derived or developed; original; elementary", "S": [], "A": []}

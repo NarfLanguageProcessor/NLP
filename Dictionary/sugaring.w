@@ -1,0 +1,1 @@
+{"index": 310220, "D": "a method of removing unwanted body hair, whereby a thick viscous paste of sugar and water is applied to the hair, allowed to thicken, and then removed sharply, pulling the hairs out by their roots", "S": ["mull "], "A": ["salt ", "sour "]}

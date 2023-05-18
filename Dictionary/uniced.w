@@ -1,0 +1,1 @@
+{"index": 344001, "D": "covered with ice. ", "S": [], "A": []}

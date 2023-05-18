@@ -1,0 +1,1 @@
+{"index": 124475, "D": "a republic in West Africa comprising the former colonies of the Gold Coast  and Ashanti, the protectorate of the Northern Territories,  and the U.N. trusteeship of British Togoland", "S": [], "A": []}

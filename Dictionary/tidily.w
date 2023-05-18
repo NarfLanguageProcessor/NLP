@@ -1,0 +1,1 @@
+{"index": 323351, "D": "neat, orderly, or trim, as in appearance or dress", "S": [], "A": []}

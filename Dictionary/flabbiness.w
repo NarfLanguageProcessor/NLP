@@ -1,0 +1,1 @@
+{"index": 113667, "D": "hanging loosely or limply, as flesh or muscles; flaccid.", "S": [], "A": []}

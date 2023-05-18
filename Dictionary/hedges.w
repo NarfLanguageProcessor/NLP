@@ -1,0 +1,1 @@
+{"index": 135223, "D": "a row of bushes or small trees planted close together, especially when forming a fence or boundary; hedgerow", "S": ["fence ", "shrubbery "], "A": ["opening "]}

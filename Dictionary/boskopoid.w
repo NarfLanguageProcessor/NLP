@@ -1,0 +1,1 @@
+{"index": 38582, "D": "of, relating to, or characteristic of Boskop man  or the presumed culture or habitat of Boskop man, which was once believed to be a unique species but is now regarded as a member of Homo sapiens", "S": [], "A": []}

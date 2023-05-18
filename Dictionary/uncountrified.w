@@ -1,0 +1,1 @@
+{"index": 338080, "D": "rustic or rural in appearance, conduct, etc.", "S": [], "A": []}

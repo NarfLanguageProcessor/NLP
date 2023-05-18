@@ -1,0 +1,1 @@
+{"index": 133535, "D": "a mechanical device for measuring the sense of touch.", "S": [], "A": []}

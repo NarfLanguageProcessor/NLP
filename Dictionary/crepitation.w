@@ -1,0 +1,1 @@
+{"index": 72707, "D": "the act of crepitating", "S": ["crackle ", "crinkling ", "friction ", "noise ", "patter ", "ripple ", "rustling ", "sound ", "stir "], "A": ["peace ", "silence "]}

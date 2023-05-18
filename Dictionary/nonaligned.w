@@ -1,0 +1,1 @@
+{"index": 201234, "D": "not aligned", "S": ["dispassionate ", "evenhanded ", "impartial ", "nonpartisan ", "unbiased "], "A": ["biased ", "partial ", "prejudiced ", "subjective "]}

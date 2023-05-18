@@ -1,0 +1,1 @@
+{"index": 71758, "D": "candlepower. ", "S": ["GHQ ", "base ", "company headquarters ", "field headquarters ", "general headquarters "], "A": []}

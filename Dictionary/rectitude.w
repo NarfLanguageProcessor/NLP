@@ -1,0 +1,1 @@
+{"index": 263708, "D": "rightness of principle or conduct; moral virtue", "S": ["decency ", "honesty ", "integrity ", "morality ", "probity ", "righteousness "], "A": ["corruption ", "deceit ", "dishonesty ", "immorality ", "evil "]}

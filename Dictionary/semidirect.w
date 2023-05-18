@@ -1,0 +1,1 @@
+{"index": 284098, "D": "to manage or guide by advice, helpful information, instruction, etc.", "S": [], "A": []}

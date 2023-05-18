@@ -1,0 +1,1 @@
+{"index": 163714, "D": "a mixing bowl, characterized by a wide neck and flanged lip from which extend two vertical handles to the shoulder of an oval body, used to mix wine and water.", "S": [], "A": []}

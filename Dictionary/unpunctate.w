@@ -1,0 +1,1 @@
+{"index": 348816, "D": "marked with points or dots; having minute spots or depressions.", "S": [], "A": []}

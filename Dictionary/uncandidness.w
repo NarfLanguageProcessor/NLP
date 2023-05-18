@@ -1,0 +1,1 @@
+{"index": 336432, "D": "the quality of being open, honest, or straightforward", "S": ["deceit ", "duplicity ", "falsehood ", "inaccuracy ", "insincerity ", "mendacity "], "A": ["honesty ", "truth ", "certainty ", "constancy ", "faithfulness ", "fidelity ", "forthrightness ", "loyalty ", "reality ", "right "]}

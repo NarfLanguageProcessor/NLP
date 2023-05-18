@@ -1,0 +1,1 @@
+{"index": 48408, "D": "characterized by fussy or petulant faultfinding; querulous", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 61094, "D": "Coast Guard (def. 3). ", "S": [], "A": []}

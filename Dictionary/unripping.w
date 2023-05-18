@@ -1,0 +1,1 @@
+{"index": 349993, "D": "to undo by ripping;  cut or tear open; rip;  take apart or detach.", "S": [], "A": []}

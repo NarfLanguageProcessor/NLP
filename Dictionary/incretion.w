@@ -1,0 +1,1 @@
+{"index": 150479, "D": "a substance, as a hormone, that is secreted internally.", "S": [], "A": []}

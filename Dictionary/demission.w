@@ -1,0 +1,1 @@
+{"index": 80642, "D": "abdication. ", "S": ["abandonment "], "A": []}

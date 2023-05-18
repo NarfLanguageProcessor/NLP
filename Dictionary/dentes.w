@@ -1,0 +1,1 @@
+{"index": 81284, "D": "plural of dens. ", "S": [], "A": []}

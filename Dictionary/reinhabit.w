@@ -1,0 +1,1 @@
+{"index": 266324, "D": "to live or dwell in (a place), as people or animals", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 17914, "D": "feeling or showing appreciation", "S": ["admiringly ", "affectionately ", "earnestly ", "fondly ", "longingly ", "passionately ", "respectfully ", "reverently ", "thoughtfully ", "warmly ", "zealously "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 132766, "D": "of or relating to a late Bronze Age culture extending from central Europe to Britain and lasting from the 9th to the 5th century bc, characterized by distinctive burial customs, bronze and iron tools, etc", "S": [], "A": []}

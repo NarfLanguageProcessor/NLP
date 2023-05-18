@@ -1,0 +1,1 @@
+{"index": 308123, "D": "an oscillation that has a frequency which is an integral submultiple of the frequency of a related oscillation.", "S": [], "A": []}

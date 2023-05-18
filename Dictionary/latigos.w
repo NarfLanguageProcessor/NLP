@@ -1,0 +1,1 @@
+{"index": 168966, "D": "a leather strap on the saddletree of a Western saddle used to tighten and secure the cinch.", "S": [], "A": []}

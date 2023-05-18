@@ -1,0 +1,1 @@
+{"index": 52964, "D": "a strip of paper that is impregnated with a medicinal substance, for external application.", "S": [], "A": []}

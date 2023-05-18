@@ -1,0 +1,1 @@
+{"index": 9664, "D": "covered with minute cracks or wrinkles and having a pale, leathery-brown color.", "S": [], "A": []}

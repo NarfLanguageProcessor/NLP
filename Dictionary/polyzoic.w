@@ -1,0 +1,1 @@
+{"index": 242643, "D": "(of a bryozoan colony) composed of many zooids.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 241275, "D": "a combining form occurring in adjectives that correspond to nouns ending in -poiesis", "S": [], "A": []}

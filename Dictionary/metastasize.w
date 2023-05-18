@@ -1,0 +1,1 @@
+{"index": 185007, "D": "(of malignant cells or disease-producing organisms) to spread to other parts of the body by way of the blood or lymphatic vessels or membranous surfaces.", "S": ["clean ", "drain ", "dribble ", "leak ", "penetrate ", "percolate ", "permeate ", "refine ", "sift ", "trickle ", "winnow "], "A": ["dirty ", "pour ", "pollute "]}

@@ -1,0 +1,1 @@
+{"index": 76082, "D": "an enlarged portion of the leg after the first joint in some insects, as the pollen-carrying segment in the hind leg of certain bees.", "S": [], "A": []}

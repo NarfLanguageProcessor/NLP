@@ -1,0 +1,1 @@
+{"index": 179478, "D": "the manorial organization, or its principles and practices in the Middle Ages.", "S": [], "A": []}

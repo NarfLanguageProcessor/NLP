@@ -1,0 +1,1 @@
+{"index": 298984, "D": "the faculty or power of speaking;  oral communication; ability to express one's thoughts and emotions by speech sounds and gesture", "S": ["conversation ", "dialogue ", "discussion ", "expression ", "language ", "tone ", "voice "], "A": ["quiet ", "silence ", "standard "]}

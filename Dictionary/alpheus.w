@@ -1,0 +1,1 @@
+{"index": 9356, "D": "a river god, lover of the nymph Arethusa. She changed into a spring to evade him, but he changed into a river and mingled with her", "S": [], "A": []}

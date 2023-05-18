@@ -1,0 +1,1 @@
+{"index": 159351, "D": "any of the genetically variant forms of certain enzymes  that catalyze the same reaction but that may differ in activity, composition, or physical properties.", "S": [], "A": []}

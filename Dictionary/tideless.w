@@ -1,0 +1,1 @@
+{"index": 323315, "D": "the periodic rise and fall of the waters of the ocean and its inlets, produced by the attraction of the moon and sun, and occurring about every 12 hours.", "S": [], "A": []}

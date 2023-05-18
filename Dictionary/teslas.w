@@ -1,0 +1,1 @@
+{"index": 319698, "D": "a unit of magnetic induction equal to one weber per square meter. Abbreviation", "S": [], "A": []}

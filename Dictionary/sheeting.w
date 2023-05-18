@@ -1,0 +1,1 @@
+{"index": 287872, "D": "the act of covering with or forming into a sheet  or sheets. ", "S": ["bedding ", "pillowcase "], "A": []}

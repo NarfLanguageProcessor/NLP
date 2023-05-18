@@ -1,0 +1,1 @@
+{"index": 110328, "D": "having too much flabby tissue; corpulent; obese", "S": ["fatty ", "greasy "], "A": ["lean ", "poor ", "skinny ", "slender ", "slight ", "slim ", "thin ", "unproductive "]}

@@ -1,0 +1,1 @@
+{"index": 347278, "D": "clearly or manifestly demonstrative.", "S": [], "A": []}

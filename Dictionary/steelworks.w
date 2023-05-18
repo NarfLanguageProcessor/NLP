@@ -1,0 +1,1 @@
+{"index": 303419, "D": "an establishment where steel is made and often manufactured into girders, rails, etc.", "S": [], "A": []}

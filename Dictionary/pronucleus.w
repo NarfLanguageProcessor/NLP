@@ -1,0 +1,1 @@
+{"index": 252453, "D": "either of the gametic nuclei  that unite in fertilization to form the nucleus  of the zygote.", "S": [], "A": []}

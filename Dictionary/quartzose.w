@@ -1,0 +1,1 @@
+{"index": 258105, "D": "one of the commonest minerals, silicon dioxide, SiO2, having many varieties that differ in color, luster, etc., and occurring either in masses (as agate, bloodstone, chalcedony, jasper, etc.) or in crystals (as rock crystal, amethyst, citrine, etc.)", "S": [], "A": []}

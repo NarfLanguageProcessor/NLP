@@ -1,0 +1,1 @@
+{"index": 7039, "D": "a walkway between or along sections of seats in a theater, classroom, or the like.", "S": ["avenue ", "corridor ", "hallway ", "lane ", "path "], "A": []}

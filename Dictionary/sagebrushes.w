@@ -1,0 +1,1 @@
+{"index": 276638, "D": "any of several sagelike, bushy composite plants of the genus Artemisia, especially A. tridentata, having silvery, wedge-shaped leaves, with three teeth at the tip, common on the dry plains of the western U.S.", "S": [], "A": []}

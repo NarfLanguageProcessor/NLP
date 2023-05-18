@@ -1,0 +1,1 @@
+{"index": 173568, "D": "the quality or state of being literal;  literalness.", "S": [], "A": []}

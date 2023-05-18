@@ -1,0 +1,1 @@
+{"index": 218953, "D": "zealous or ardent in attachment, loyalty, or affection", "S": [], "A": []}

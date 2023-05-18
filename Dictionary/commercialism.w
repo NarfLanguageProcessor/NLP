@@ -1,0 +1,1 @@
+{"index": 64014, "D": "the principles, practices, and spirit of commerce.", "S": ["deal ", "industry ", "manufacturing ", "market ", "trading ", "transaction "], "A": []}

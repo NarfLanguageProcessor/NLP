@@ -1,0 +1,1 @@
+{"index": 261541, "D": "the quality or condition of being reactive. ", "S": ["acuteness ", "awareness ", "consciousness ", "delicacy ", "feeling ", "nervousness ", "receptiveness ", "sensation ", "sense ", "sensibility ", "subtlety ", "susceptibility ", "sympathy "], "A": ["indifference ", "insensibility ", "unconsciousness "]}

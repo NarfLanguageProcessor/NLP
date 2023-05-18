@@ -1,0 +1,1 @@
+{"index": 75506, "D": "the unpointed sword carried before an English sovereign at a coronation as an emblem of mercy", "S": ["blade ", "dagger ", "saber "], "A": []}

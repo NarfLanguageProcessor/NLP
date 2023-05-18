@@ -1,0 +1,1 @@
+{"index": 194002, "D": "the act or an instance of motivating,  or providing with a reason to act in a certain way", "S": [], "A": []}

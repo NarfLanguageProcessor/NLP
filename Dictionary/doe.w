@@ -1,0 +1,1 @@
+{"index": 90813, "D": "the female of the deer, antelope, goat, rabbit, and certain other animals.", "S": ["bunny ", "hare ", "rodent "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 365492, "D": "mainly Scot a variant spelling of withershins", "S": [], "A": []}

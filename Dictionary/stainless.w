@@ -1,0 +1,1 @@
+{"index": 302424, "D": "having no stain;  spotless.", "S": ["chaste ", "exemplary ", "immaculate ", "pure ", "spotless ", "unsoiled ", "unsullied ", "untainted "], "A": ["stained "]}

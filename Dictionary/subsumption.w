@@ -1,0 +1,1 @@
+{"index": 309398, "D": "an act of subsuming. ", "S": ["admittance ", "formation ", "incorporation ", "involvement "], "A": ["exclusion ", "subtraction "]}

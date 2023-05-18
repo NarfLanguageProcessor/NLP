@@ -1,0 +1,1 @@
+{"index": 255258, "D": "a variant of psych1. ", "S": ["ego ", "mind ", "soul ", "spirit ", "subconscious "], "A": ["body "]}

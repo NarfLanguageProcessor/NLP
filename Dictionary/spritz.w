@@ -1,0 +1,1 @@
+{"index": 301375, "D": "to spray briefly and quickly; squirt", "S": ["flow ", "fountain ", "spout ", "spray ", "spring ", "spurt ", "squirt ", "stream "], "A": []}

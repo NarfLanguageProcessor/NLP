@@ -1,0 +1,1 @@
+{"index": 322763, "D": "surgical removal of a blood clot from a blood vessel.", "S": [], "A": []}

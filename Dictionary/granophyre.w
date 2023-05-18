@@ -1,0 +1,1 @@
+{"index": 128965, "D": "a fine-grained or porphyritic granitic rock with a micrographic intergrowth of the minerals of the groundmass.", "S": [], "A": []}

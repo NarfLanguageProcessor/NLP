@@ -1,0 +1,1 @@
+{"index": 189073, "D": "to deal  wrongly or incorrectly, especially to deal the wrong number at cards.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359888, "D": "a large, nonpoisonous whipscorpion, Mastigoproctus giganteus, of the southern U.S. and Mexico, which, when disturbed, emits a volatile fluid having a vinegary odor.", "S": [], "A": []}

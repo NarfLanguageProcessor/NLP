@@ -1,0 +1,1 @@
+{"index": 166602, "D": "an ecclesiastical standard or banner, as for carrying in procession.", "S": [], "A": []}

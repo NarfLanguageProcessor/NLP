@@ -1,0 +1,1 @@
+{"index": 368770, "D": "a paper money and monetary unit of the Democratic Republic of the Congo, equal to 100 makuta.", "S": [], "A": []}

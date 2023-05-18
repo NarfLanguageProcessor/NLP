@@ -1,0 +1,1 @@
+{"index": 22628, "D": "from side to side; crosswise.", "S": ["crosswise ", "from side to side "], "A": []}

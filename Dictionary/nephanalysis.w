@@ -1,0 +1,1 @@
+{"index": 198523, "D": "a map or chart showing the distribution of types and amounts of clouds and precipitation at a given time.", "S": [], "A": []}

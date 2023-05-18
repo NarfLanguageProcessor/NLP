@@ -1,0 +1,1 @@
+{"index": 227520, "D": "a brisket of beef that has been cured in a mixture of garlic, peppercorns, sugar, coriander seeds, etc., then smoked before cooking.", "S": [], "A": []}

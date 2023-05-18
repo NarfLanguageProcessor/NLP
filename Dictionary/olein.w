@@ -1,0 +1,1 @@
+{"index": 212070, "D": "a colorless to yellowish, oily, water-insoluble liquid, C57H104O6, the triglyceride of oleic acid, present in many vegetable oils.", "S": [], "A": []}

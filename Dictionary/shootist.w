@@ -1,0 +1,1 @@
+{"index": 288788, "D": "a marksman with a pistol or rifle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 156904, "D": "direct perception of truth, fact, etc., independent of any reasoning process; immediate apprehension.", "S": [], "A": []}

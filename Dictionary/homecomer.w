@@ -1,0 +1,1 @@
+{"index": 142765, "D": "a return to one's home; arrival at home.", "S": [], "A": []}

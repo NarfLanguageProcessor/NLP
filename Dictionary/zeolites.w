@@ -1,0 +1,1 @@
+{"index": 369079, "D": "any of a group of hydrated silicates of aluminum with alkali metals, commonly occurring as secondary minerals in cavities in basic volcanic rocks", "S": [], "A": []}

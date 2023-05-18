@@ -1,0 +1,1 @@
+{"index": 273152, "D": "to make or become ripe. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201069, "D": "pertaining to actinism. ", "S": [], "A": []}

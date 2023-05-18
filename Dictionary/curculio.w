@@ -1,0 +1,1 @@
+{"index": 75238, "D": "any of several weevils, especially one of the genus Conotrachelus, as C. nenuphar(plum curculio ), which feeds on plums, cherries, and other fruits.", "S": [], "A": []}

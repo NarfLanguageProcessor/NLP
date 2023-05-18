@@ -1,0 +1,1 @@
+{"index": 39488, "D": "having a short proboscis, as certain insects.", "S": [], "A": []}

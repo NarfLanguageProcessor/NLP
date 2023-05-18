@@ -1,0 +1,1 @@
+{"index": 159111, "D": "the state or property of being isomorphous  or isomorphic. ", "S": [], "A": []}

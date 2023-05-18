@@ -1,0 +1,1 @@
+{"index": 342177, "D": "savagely fierce, as a wild beast, person, action, or aspect; violently cruel", "S": [], "A": []}

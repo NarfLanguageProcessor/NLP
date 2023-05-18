@@ -1,0 +1,1 @@
+{"index": 52548, "D": "a male singer, especially one who sings in nightclubs and cabarets.", "S": [], "A": []}

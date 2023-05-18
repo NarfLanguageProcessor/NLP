@@ -1,0 +1,1 @@
+{"index": 118994, "D": "to make afraid or fearful; throw into afright;  terrify; scare.", "S": [], "A": []}

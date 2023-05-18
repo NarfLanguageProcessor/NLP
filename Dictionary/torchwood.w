@@ -1,0 +1,1 @@
+{"index": 326072, "D": "any of various resinous woods  suitable for making torches,  as the wood  of the tree Amyris balsamifera, of the rue family, native to Florida and the West Indies.", "S": [], "A": []}

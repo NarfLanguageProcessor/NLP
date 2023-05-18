@@ -1,0 +1,1 @@
+{"index": 276553, "D": "a person who breaks open safes  to rob them.", "S": ["crook ", "robber ", "thief "], "A": []}

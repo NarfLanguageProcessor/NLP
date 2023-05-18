@@ -1,0 +1,1 @@
+{"index": 200944, "D": "sleeping sickness (def. 2). ", "S": [], "A": []}

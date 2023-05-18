@@ -1,0 +1,1 @@
+{"index": 360016, "D": "to break, infringe, or transgress (a law, rule, agreement, promise, instructions, etc.).", "S": ["crook ", "culprit ", "miscreant ", "perpetrator ", "trespasser "], "A": ["police "]}

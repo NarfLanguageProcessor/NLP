@@ -1,0 +1,1 @@
+{"index": 111797, "D": "a chain or shackle placed on the feet.", "S": [], "A": []}

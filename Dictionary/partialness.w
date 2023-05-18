@@ -1,0 +1,1 @@
+{"index": 227001, "D": "being such in part  only; not total or general; incomplete", "S": ["accommodation ", "benignity ", "esteem ", "favoritism ", "largess ", "partiality ", "patronage ", "preference "], "A": ["fairness ", "impartiality ", "justice "]}

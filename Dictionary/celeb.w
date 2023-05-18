@@ -1,0 +1,1 @@
+{"index": 50443, "D": "a celebrity.", "S": ["big-name ", "distinguished ", "esteemed ", "famed ", "high-ranking ", "illustrious ", "noted ", "outstanding ", "preeminent ", "prominent ", "renowned ", "well-known "], "A": ["common ", "inconspicuous ", "inferior ", "insignificant ", "obscure ", "ordinary ", "unimportant ", "unknown ", "unremarkable "]}

@@ -1,0 +1,1 @@
+{"index": 274194, "D": "a shortened form of kangaroo. ", "S": [], "A": []}

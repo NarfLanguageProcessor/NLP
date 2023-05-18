@@ -1,0 +1,1 @@
+{"index": 263555, "D": "to get back or regain (something lost or taken away)", "S": ["reborn "], "A": ["dropped ", "ill ", "impaired ", "lost ", "missed ", "sicker ", "unhealthy "]}

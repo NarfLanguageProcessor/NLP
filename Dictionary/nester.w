@@ -1,0 +1,1 @@
+{"index": 198817, "D": "a pocketlike, usually more or less circular structure of twigs, grass, mud, etc., formed by a bird, often high in a tree, as a place in which to lay and incubate its eggs and rear its young; any protected place used by a bird for these purposes.", "S": [], "A": []}

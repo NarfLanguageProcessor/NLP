@@ -1,0 +1,1 @@
+{"index": 130134, "D": "a tourist, esp one from the Midlands or the North of England", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 324188, "D": "to set (textual matter) in type.", "S": [], "A": []}

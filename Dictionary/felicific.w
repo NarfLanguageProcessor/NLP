@@ -1,0 +1,1 @@
+{"index": 110973, "D": "causing or tending to cause happiness.", "S": [], "A": []}

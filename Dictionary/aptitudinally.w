@@ -1,0 +1,1 @@
+{"index": 18144, "D": "capability; ability; innate or acquired capacity for something; talent", "S": [], "A": []}

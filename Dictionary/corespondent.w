@@ -1,0 +1,1 @@
+{"index": 69051, "D": "a joint defendant, charged along with the respondent,  especially a person charged with adultery in a divorce proceeding.", "S": ["other man ", "other woman ", "second man ", "second woman "], "A": []}

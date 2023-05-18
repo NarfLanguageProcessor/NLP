@@ -1,0 +1,1 @@
+{"index": 66211, "D": "to join or become joined with or as if with glue.", "S": [], "A": []}

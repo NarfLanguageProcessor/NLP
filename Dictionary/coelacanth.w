@@ -1,0 +1,1 @@
+{"index": 61837, "D": "a crossopterygian fish, Latimeria chalumnae, thought to have been extinct since the Cretaceous Period but found in 1938 off the coast of southern Africa.", "S": [], "A": []}

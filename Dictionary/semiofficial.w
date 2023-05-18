@@ -1,0 +1,1 @@
+{"index": 284582, "D": "having some degree of official  authority.", "S": [], "A": []}

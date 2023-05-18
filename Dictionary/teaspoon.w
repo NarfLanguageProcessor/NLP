@@ -1,0 +1,1 @@
+{"index": 317587, "D": "a small spoon  generally used to stir tea,  coffee, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 80025, "D": "a union territory in N India. 574 sq. mi. (1,487 sq. km).", "S": [], "A": []}

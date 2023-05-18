@@ -1,0 +1,1 @@
+{"index": 83069, "D": "having many details", "S": ["accurate ", "complicated ", "comprehensive ", "definite ", "exact ", "exhaustive ", "intricate ", "meticulous ", "precise ", "specific ", "thorough "], "A": ["careless ", "false ", "imprecise ", "inaccurate ", "indefinite ", "inexact ", "questionable ", "simple ", "uncertain ", "vague ", "incomplete ", "needy "]}

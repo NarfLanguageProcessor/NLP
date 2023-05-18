@@ -1,0 +1,1 @@
+{"index": 47356, "D": "resembling a fish of the family Carangidae; carangid.", "S": [], "A": []}

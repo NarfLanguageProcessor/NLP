@@ -1,0 +1,1 @@
+{"index": 348886, "D": "to drink a beverage, especially an intoxicating one, copiously and with hearty enjoyment.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288386, "D": "the front part of the leg from the knee to the ankle.", "S": ["bright ", "brilliant ", "flickering ", "glowing ", "lustrous ", "radiant "], "A": []}

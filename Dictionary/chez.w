@@ -1,0 +1,1 @@
+{"index": 54042, "D": "at or in the home of; with.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 49268, "D": "of or relating to catalysis; involving a catalyst", "S": [], "A": []}

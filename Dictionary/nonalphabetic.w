@@ -1,0 +1,1 @@
+{"index": 201253, "D": "relating to, expressed by, or using an alphabet", "S": [], "A": []}

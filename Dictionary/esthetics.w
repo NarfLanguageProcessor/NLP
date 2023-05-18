@@ -1,0 +1,1 @@
+{"index": 104659, "D": "aesthetics. ", "S": ["artistic taste ", "philosophy of art ", "philosophy of beauty ", "study of beauty ", "theory of art "], "A": []}

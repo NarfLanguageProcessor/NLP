@@ -1,0 +1,1 @@
+{"index": 115897, "D": "bearing leaves or leaflike structures.", "S": [], "A": []}

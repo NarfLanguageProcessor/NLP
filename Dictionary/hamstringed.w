@@ -1,0 +1,1 @@
+{"index": 133059, "D": "(in humans and other primates) any of the tendons that bound the ham  of the knee.", "S": ["cripple ", "debilitate ", "handicap ", "hinder ", "hobble ", "immobilize ", "impair ", "paralyze ", "weaken "], "A": ["aid ", "allow ", "assist ", "encourage ", "further ", "help ", "promote ", "strengthen ", "cure ", "heal "]}

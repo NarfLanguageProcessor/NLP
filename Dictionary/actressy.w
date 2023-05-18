@@ -1,0 +1,1 @@
+{"index": 3281, "D": "self-consciously stagy in style or manner; exaggeratedly theatrical", "S": [], "A": []}

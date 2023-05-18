@@ -1,0 +1,1 @@
+{"index": 368384, "D": "a graft  obtained from a member of one species and transplanted to a member of another species.", "S": [], "A": []}

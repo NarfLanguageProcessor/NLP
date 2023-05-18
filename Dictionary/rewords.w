@@ -1,0 +1,1 @@
+{"index": 271657, "D": "to put into other words", "S": ["paraphrase "], "A": []}

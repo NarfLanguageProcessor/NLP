@@ -1,0 +1,1 @@
+{"index": 54630, "D": "the lower extremity of the face, below the mouth.", "S": ["articulate ", "assert ", "blurt ", "deliver ", "enunciate ", "express ", "mutter ", "proclaim ", "pronounce ", "recite ", "shout ", "speak ", "whisper "], "A": ["be quiet ", "conceal ", "hide ", "mumble ", "deny ", "refrain ", "secrete ", "suppress ", "withhold "]}

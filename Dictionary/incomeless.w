@@ -1,0 +1,1 @@
+{"index": 150045, "D": "revenue received for goods or services, or from other sources, as rents or investments", "S": [], "A": []}

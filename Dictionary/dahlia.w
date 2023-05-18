@@ -1,0 +1,1 @@
+{"index": 76246, "D": "any composite plant of the genus Dahlia, native to Mexico and Central America and widely cultivated for its showy, variously colored flower heads.", "S": ["cardinal ", "coral ", "crimson ", "flaming ", "glowing ", "maroon ", "rose ", "wine "], "A": []}

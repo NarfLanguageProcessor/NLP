@@ -1,0 +1,1 @@
+{"index": 74247, "D": "the plural of crus", "S": ["leg ", "meat ", "shin ", "stalk ", "stem "], "A": []}

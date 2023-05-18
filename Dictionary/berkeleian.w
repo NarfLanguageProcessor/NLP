@@ -1,0 +1,1 @@
+{"index": 32121, "D": "pertaining or relating to George Berkeley or his philosophy.", "S": [], "A": []}

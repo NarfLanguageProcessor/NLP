@@ -1,0 +1,1 @@
+{"index": 134755, "D": "to make healthy, whole, or sound; restore to health; free from ailment.", "S": ["correctable "], "A": ["incurable "]}

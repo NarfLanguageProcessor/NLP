@@ -1,0 +1,1 @@
+{"index": 257136, "D": "to follow in order to overtake, capture, kill, etc.; chase. ", "S": ["go after ", "seek "], "A": ["aid ", "assist ", "be lazy ", "give up ", "help ", "ignore ", "leave ", "leave alone ", "let go ", "neglect ", "quit ", "run away ", "stop ", "support "]}

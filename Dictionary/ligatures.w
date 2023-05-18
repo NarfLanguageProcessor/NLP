@@ -1,0 +1,1 @@
+{"index": 171994, "D": "the act of binding or tying up", "S": ["band ", "bandage ", "binding ", "bond ", "connection ", "knot ", "ligament ", "nexus ", "rope ", "tie ", "yoke "], "A": []}

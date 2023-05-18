@@ -1,0 +1,1 @@
+{"index": 355150, "D": "to wrench or tear  out by or as if by the roots or foundations; destroy.", "S": [], "A": []}

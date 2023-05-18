@@ -1,0 +1,1 @@
+{"index": 267620, "D": "to negotiate  again, as a loan, treaty, etc.", "S": [], "A": []}

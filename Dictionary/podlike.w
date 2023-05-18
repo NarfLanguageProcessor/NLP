@@ -1,0 +1,1 @@
+{"index": 241052, "D": "a somewhat elongated, two-valved seed vessel, as that of the pea or bean.", "S": [], "A": []}

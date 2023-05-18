@@ -1,0 +1,1 @@
+{"index": 177178, "D": "mentally disturbed; deranged; insane; demented.", "S": ["absurd ", "delirious ", "demented ", "fantastic ", "foolish ", "frantic ", "frenzied ", "kooky ", "nutty ", "psychotic "], "A": ["balanced ", "calm ", "collected ", "rational ", "reasonable ", "sane ", "sensible ", "wise "]}

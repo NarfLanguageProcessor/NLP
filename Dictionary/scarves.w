@@ -1,0 +1,1 @@
+{"index": 279825, "D": "a plural of scarf1. ", "S": ["bandanna ", "shawl ", "stole "], "A": []}

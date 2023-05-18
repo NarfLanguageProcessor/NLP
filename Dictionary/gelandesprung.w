@@ -1,0 +1,1 @@
+{"index": 123174, "D": "a jump, usually over an obstacle, in which one plants both poles in the snow in advance of the skis, bends close to the ground, and propels oneself chiefly by the use of the poles.", "S": ["steeplechase "], "A": []}

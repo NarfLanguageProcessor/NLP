@@ -1,0 +1,1 @@
+{"index": 65698, "D": "directed, managed, or carried on", "S": ["aimed ", "assisted ", "controlled ", "counseled ", "focused ", "guided ", "managed ", "organized ", "sponsored "], "A": ["vagrant ", "wandering "]}

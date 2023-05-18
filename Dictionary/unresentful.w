@@ -1,0 +1,1 @@
+{"index": 349686, "D": "full of or marked by resentment. ", "S": [], "A": []}

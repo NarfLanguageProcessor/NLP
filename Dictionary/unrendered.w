@@ -1,0 +1,1 @@
+{"index": 349512, "D": "represented visually or interpreted by performance or execution, as in art, music, or acting", "S": [], "A": []}

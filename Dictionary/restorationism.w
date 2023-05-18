@@ -1,0 +1,1 @@
+{"index": 269976, "D": "belief in a future life in which human beings will be restored to a state of perfection and happiness", "S": [], "A": []}

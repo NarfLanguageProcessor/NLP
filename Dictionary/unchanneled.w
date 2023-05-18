@@ -1,0 +1,1 @@
+{"index": 336723, "D": "the bed of a stream, river, or other waterway.", "S": [], "A": []}

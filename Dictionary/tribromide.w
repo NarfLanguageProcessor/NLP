@@ -1,0 +1,1 @@
+{"index": 329253, "D": "a bromide  containing three atoms of bromine.", "S": [], "A": []}

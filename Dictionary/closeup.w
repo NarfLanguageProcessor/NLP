@@ -1,0 +1,1 @@
+{"index": 60465, "D": "a photograph taken at close range or with a long focal-length lens, on a relatively large scale.", "S": ["bar ", "exclude ", "halt ", "outlaw ", "prevent ", "prohibit ", "proscribe ", "restrict ", "suppress "], "A": ["admit ", "allow ", "include ", "let go ", "permit ", "push ", "release ", "welcome "]}

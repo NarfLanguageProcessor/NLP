@@ -1,0 +1,1 @@
+{"index": 153698, "D": [], "S": ["contempt "], "A": ["courtesy ", "humility ", "manners ", "politeness ", "respect ", "reverence "]}

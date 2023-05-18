@@ -1,0 +1,1 @@
+{"index": 14958, "D": "an anticlinal rock structure.", "S": [], "A": []}

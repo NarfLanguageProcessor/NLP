@@ -1,0 +1,1 @@
+{"index": 282967, "D": "calm, quiet, or composed; undisturbed by passion or excitement", "S": ["allay ", "assure ", "becalm ", "compose ", "lull ", "pacify ", "quell ", "quiet ", "quieten ", "reassure ", "relax ", "sedate ", "soothe ", "still ", "tranquilize "], "A": ["aggravate ", "agitate ", "distress ", "disturb ", "excite ", "incite ", "irritate ", "upset ", "worry "]}

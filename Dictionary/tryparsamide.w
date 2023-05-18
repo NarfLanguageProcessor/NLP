@@ -1,0 +1,1 @@
+{"index": 330297, "D": "a white, crystalline powder, C8H10O4N2AsNa\u00b7\u00bdH2, used chiefly in treating African sleeping sickness.", "S": [], "A": []}

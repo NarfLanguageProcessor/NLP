@@ -1,0 +1,1 @@
+{"index": 301303, "D": "a person or thing that springs. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 174883, "D": "having considerable linear extent in space", "S": ["deep ", "great ", "high ", "lengthy ", "protracted ", "tall "], "A": ["low ", "short ", "small "]}

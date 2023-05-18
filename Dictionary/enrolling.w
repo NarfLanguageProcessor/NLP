@@ -1,0 +1,1 @@
+{"index": 100931, "D": "variant of enroll. ", "S": ["accept ", "admit ", "employ ", "engage ", "enlist ", "enter ", "join ", "obtain ", "recruit ", "register "], "A": ["decline ", "deny ", "dismiss ", "dispute ", "eject ", "erase ", "expel ", "fire ", "leave ", "let go ", "oust ", "refuse ", "reject ", "shun ", "withdraw "]}

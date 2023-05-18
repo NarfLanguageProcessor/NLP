@@ -1,0 +1,1 @@
+{"index": 109489, "D": "a person or thing that falls. ", "S": ["decline ", "decrease ", "dip ", "drop ", "plunge ", "recession ", "reduction ", "slump ", "spill "], "A": ["ascent ", "rise "]}

@@ -1,0 +1,1 @@
+{"index": 201482, "D": "a damaging or derogatory remark or criticism; slander", "S": [], "A": []}

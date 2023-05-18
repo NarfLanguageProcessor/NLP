@@ -1,0 +1,1 @@
+{"index": 324396, "D": "the tip or end of a toe.", "S": ["cautious ", "creeping ", "sneaking "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 34522, "D": "computer firmware that directs many basic functions of the operating system, as booting and keyboard control.", "S": ["biography ", "confession ", "diary ", "journal ", "letter ", "life story ", "memoir "], "A": []}

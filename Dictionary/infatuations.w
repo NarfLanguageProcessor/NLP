@@ -1,0 +1,1 @@
+{"index": 151849, "D": "the state of being infatuated. ", "S": ["fascination ", "obsession "], "A": ["dislike ", "hate ", "hatred "]}

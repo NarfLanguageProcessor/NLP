@@ -1,0 +1,1 @@
+{"index": 6656, "D": "a hold or grasp (often followed byof)", "S": [], "A": []}

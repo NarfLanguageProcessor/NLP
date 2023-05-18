@@ -1,0 +1,1 @@
+{"index": 110068, "D": "a hoop skirt or framework for expanding a woman's skirt, worn in the 16th and 17th centuries.", "S": [], "A": []}

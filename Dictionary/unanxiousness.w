@@ -1,0 +1,1 @@
+{"index": 335059, "D": "the state of being greatly worried; mental distress or uneasiness because of fear of danger or misfortune; anxiety", "S": [], "A": []}

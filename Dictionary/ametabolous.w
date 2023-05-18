@@ -1,0 +1,1 @@
+{"index": 10345, "D": "undergoing slight or no metamorphosis.", "S": [], "A": []}

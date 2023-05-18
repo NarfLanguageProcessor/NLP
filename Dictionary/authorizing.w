@@ -1,0 +1,1 @@
+{"index": 23843, "D": "to give authority  or official power to; empower", "S": ["colonizing ", "endowing ", "instituting ", "originating ", "planting "], "A": []}

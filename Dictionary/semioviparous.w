@@ -1,0 +1,1 @@
+{"index": 284629, "D": "bearing young in an incomplete state of development, as a marsupial.", "S": [], "A": []}

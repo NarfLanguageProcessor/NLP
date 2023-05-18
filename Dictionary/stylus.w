@@ -1,0 +1,1 @@
+{"index": 304607, "D": "an instrument of metal, bone, or the like, used by the ancients for writing on waxed tablets, having one end pointed for incising the letters and the other end blunt for rubbing out writing and smoothing the tablet.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 329440, "D": "an outgrowth from the epidermis of plants, as a hair.", "S": [], "A": []}

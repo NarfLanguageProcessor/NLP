@@ -1,0 +1,1 @@
+{"index": 65323, "D": "a person who conciliates. ", "S": ["agent ", "envoy ", "expert ", "mediator ", "minister ", "negotiator ", "representative "], "A": []}

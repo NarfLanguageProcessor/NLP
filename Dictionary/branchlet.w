@@ -1,0 +1,1 @@
+{"index": 39892, "D": "a small branch  or a subdivision of a branch. ", "S": ["wing "], "A": ["decrease ", "reduction ", "source "]}

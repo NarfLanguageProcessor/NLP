@@ -1,0 +1,1 @@
+{"index": 15259, "D": "the feudal system,  or its principles and practices.", "S": [], "A": []}

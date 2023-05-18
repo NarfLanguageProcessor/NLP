@@ -1,0 +1,1 @@
+{"index": 258658, "D": "a denomination of ancient Roman coinage, issued in silver or gold at various times and undergoing many changes of value.", "S": [], "A": []}

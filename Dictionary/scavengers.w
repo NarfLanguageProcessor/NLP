@@ -1,0 +1,1 @@
+{"index": 279920, "D": "an animal or other organism that feeds on dead organic matter.", "S": ["hunter ", "scrounger "], "A": []}

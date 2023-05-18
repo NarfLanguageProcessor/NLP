@@ -1,0 +1,1 @@
+{"index": 362378, "D": "a slender stick or rod, especially one used by a magician, conjurer, or diviner.", "S": [], "A": []}

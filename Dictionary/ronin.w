@@ -1,0 +1,1 @@
+{"index": 274163, "D": "a samurai who no longer serves a daimyo, or feudal lord.", "S": [], "A": []}

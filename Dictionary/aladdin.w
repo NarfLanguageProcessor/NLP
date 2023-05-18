@@ -1,0 +1,1 @@
+{"index": 7258, "D": "(in The Arabian Nights' Entertainments) the son of a poor widow in China. He becomes the possessor of a magic lamp and ring with which he can command a jinn to do his bidding.", "S": [], "A": []}

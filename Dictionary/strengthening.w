@@ -1,0 +1,1 @@
+{"index": 306055, "D": "to make stronger;  give strength to.", "S": ["ambulatory ", "healing ", "mending ", "rallying "], "A": ["failing ", "faltering ", "sickly ", "weak ", "worsening "]}

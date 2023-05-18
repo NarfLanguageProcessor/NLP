@@ -1,0 +1,1 @@
+{"index": 99656, "D": "(of a biochemical reaction) requiring energy.", "S": [], "A": []}

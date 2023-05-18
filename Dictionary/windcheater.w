@@ -1,0 +1,1 @@
+{"index": 365927, "D": "a lightweight jacket for sports or other outdoor wear.", "S": [], "A": []}

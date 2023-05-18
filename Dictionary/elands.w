@@ -1,0 +1,1 @@
+{"index": 96710, "D": "either of two large African antelopes of the genus Taurotragus, having long, spirally twisted horns", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 194147, "D": "a wild sheep, Ovis musimon, inhabiting the mountainous regions of Sardinia and Corsica, the male of which has large curving horns.", "S": [], "A": []}

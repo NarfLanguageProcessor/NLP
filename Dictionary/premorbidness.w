@@ -1,0 +1,1 @@
+{"index": 248478, "D": "suggesting an unhealthy mental state or attitude; unwholesomely gloomy, sensitive, extreme, etc.", "S": [], "A": []}

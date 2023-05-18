@@ -1,0 +1,1 @@
+{"index": 357231, "D": "to make varied in appearance, as by adding different colors.", "S": [], "A": []}

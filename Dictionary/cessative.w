@@ -1,0 +1,1 @@
+{"index": 51701, "D": "(of a verbal form or aspect) expressing cessation.", "S": [], "A": []}

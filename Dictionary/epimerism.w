@@ -1,0 +1,1 @@
+{"index": 102590, "D": "optical isomerism in which isomers (epimers) can form about asymmetric atoms within the molecule, esp in carbohydrates", "S": [], "A": []}

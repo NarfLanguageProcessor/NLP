@@ -1,0 +1,1 @@
+{"index": 251199, "D": "a person or thing that processes.", "S": [], "A": []}

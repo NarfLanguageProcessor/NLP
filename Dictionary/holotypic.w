@@ -1,0 +1,1 @@
+{"index": 142693, "D": "the type specimen used in the original description of a species.", "S": [], "A": []}

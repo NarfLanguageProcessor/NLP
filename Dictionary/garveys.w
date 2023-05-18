@@ -1,0 +1,1 @@
+{"index": 122324, "D": "a scowlike open boat, variously propelled, used by oyster and clam fishermen in Delaware Bay and off the coasts of Delaware and New Jersey.", "S": [], "A": []}

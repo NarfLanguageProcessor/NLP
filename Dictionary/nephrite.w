@@ -1,0 +1,1 @@
+{"index": 198587, "D": "a compact or fibrous variety of actinolite, varying from whitish to dark green", "S": [], "A": []}

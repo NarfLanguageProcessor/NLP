@@ -1,0 +1,1 @@
+{"index": 340432, "D": "failing to fulfill one's hopes or expectations", "S": [], "A": []}

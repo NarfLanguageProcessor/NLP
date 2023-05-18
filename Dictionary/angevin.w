@@ -1,0 +1,1 @@
+{"index": 12720, "D": "of or relating to Anjou or its inhabitants.", "S": [], "A": []}

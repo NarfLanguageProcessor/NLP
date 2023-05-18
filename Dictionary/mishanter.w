@@ -1,0 +1,1 @@
+{"index": 189398, "D": "a misfortune; mishap.", "S": [], "A": []}

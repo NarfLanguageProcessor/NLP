@@ -1,0 +1,1 @@
+{"index": 173393, "D": "(of poetry) having the form and musical quality of a song, and especially the character of a songlike outpouring of the poet's own thoughts and feelings, as distinguished from epic and dramatic poetry.", "S": ["book ", "libretto ", "lines ", "text ", "theme ", "verse ", "words "], "A": []}

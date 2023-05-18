@@ -1,0 +1,1 @@
+{"index": 81668, "D": "to spread out (troops) so as to form an extended front or line.", "S": ["ambulatory ", "mobile ", "motile ", "portable "], "A": ["fixed ", "immovable ", "permanent ", "unmovable "]}

@@ -1,0 +1,1 @@
+{"index": 144001, "D": "a streetcar drawn by a horse  or horses. ", "S": [], "A": []}

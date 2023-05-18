@@ -1,0 +1,1 @@
+{"index": 172879, "D": "Compare fettuccine. ", "S": ["gnocchi ", "macaroni ", "ravioli ", "spaghetti ", "tortellini "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 174174, "D": "an entrance hall, corridor, or vestibule, as in a public building, often serving as an anteroom; foyer.", "S": [], "A": []}

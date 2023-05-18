@@ -1,0 +1,1 @@
+{"index": 366824, "D": "shaky; unsteady.", "S": ["disequilibrium ", "lightheadedness ", "shakiness ", "unsteadiness ", "vertigo "], "A": []}

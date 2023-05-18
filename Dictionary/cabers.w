@@ -1,0 +1,1 @@
+{"index": 43921, "D": "a pole or beam, especially one thrown as a trial of strength.", "S": [], "A": []}

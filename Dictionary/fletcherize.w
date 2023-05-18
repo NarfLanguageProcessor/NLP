@@ -1,0 +1,1 @@
+{"index": 114465, "D": "to chew (food) slowly and thoroughly.", "S": [], "A": []}

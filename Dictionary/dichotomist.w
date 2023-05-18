@@ -1,0 +1,1 @@
+{"index": 84819, "D": "to divide or separate into two parts, kinds, etc.", "S": [], "A": []}

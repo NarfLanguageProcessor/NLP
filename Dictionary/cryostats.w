@@ -1,0 +1,1 @@
+{"index": 73140, "D": "an apparatus, usually automatic, maintaining a very low constant temperature.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 144467, "D": "a telephone, used for making calls within a hotel or apartment house,  that does not have a direct line to an exchange and whose calls are routed through the building's switchboard.", "S": [], "A": []}

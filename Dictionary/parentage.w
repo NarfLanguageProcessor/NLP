@@ -1,0 +1,1 @@
+{"index": 226370, "D": "derivation or descent from parents  or ancestors; birth, origin, or lineage", "S": ["bloodline ", "derivation ", "lineage "], "A": ["conclusion ", "death ", "effect ", "end ", "ending ", "result "]}

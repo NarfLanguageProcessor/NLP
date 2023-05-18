@@ -1,0 +1,1 @@
+{"index": 74165, "D": "a small particle of bread, cake, etc., that has broken off.", "S": ["besmirch ", "contaminate ", "debase ", "degrade ", "muddy ", "pollute ", "smear ", "smudge ", "sully ", "taint ", "tar ", "tarnish "], "A": ["clean ", "elevate ", "honor ", "laud ", "purify ", "upgrade ", "respect ", "sterilize "]}

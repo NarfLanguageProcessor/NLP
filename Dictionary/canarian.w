@@ -1,0 +1,1 @@
+{"index": 46051, "D": "a group of mountainous islands in the Atlantic Ocean, near the NW coast of Africa, comprising two provinces of Spain. 2,894 sq. mi. (7,495 sq. km).", "S": [], "A": []}

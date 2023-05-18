@@ -1,0 +1,1 @@
+{"index": 249408, "D": "to keep alive or in existence; make lasting", "S": ["canny ", "careful ", "meticulous ", "prudent ", "stingy ", "thrifty "], "A": ["careless ", "incautious ", "spendthrift ", "wasteful "]}

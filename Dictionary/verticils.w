@@ -1,0 +1,1 @@
+{"index": 358900, "D": "a whorl or circle, as of leaves or hairs, arranged around a point on an axis.", "S": [], "A": []}

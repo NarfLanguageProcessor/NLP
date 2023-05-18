@@ -1,0 +1,1 @@
+{"index": 80250, "D": "of, relating to, or characteristic of Fran\u00e7ois Delsarte or the Delsarte method.", "S": [], "A": []}

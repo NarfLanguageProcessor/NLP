@@ -1,0 +1,1 @@
+{"index": 253392, "D": "a person or thing that protects; defender; guardian.", "S": ["benefactor ", "bulwark ", "defender ", "partisan ", "patron ", "savior "], "A": ["enemy ", "opponent ", "antagonist "]}

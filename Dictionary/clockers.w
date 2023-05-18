@@ -1,0 +1,1 @@
+{"index": 60276, "D": "a person who times racehorses during tryouts to determine their speed.", "S": [], "A": []}

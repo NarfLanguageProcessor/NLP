@@ -1,0 +1,1 @@
+{"index": 75837, "D": "(especially of timberland) cleared of trees.", "S": [], "A": []}

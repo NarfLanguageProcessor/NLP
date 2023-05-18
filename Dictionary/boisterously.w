@@ -1,0 +1,1 @@
+{"index": 37469, "D": "rough and noisy; noisily jolly or rowdy; clamorous; unrestrained", "S": ["heavily ", "seriously ", "strongly ", "vigorously "], "A": ["lightly "]}

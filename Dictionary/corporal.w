@@ -1,0 +1,1 @@
+{"index": 69512, "D": "of the human body; bodily; physical", "S": ["anatomical ", "gross ", "human ", "material ", "objective "], "A": ["partial "]}

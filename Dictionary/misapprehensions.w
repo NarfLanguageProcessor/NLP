@@ -1,0 +1,1 @@
+{"index": 188699, "D": "misunderstanding. ", "S": ["confusion ", "delusion ", "error ", "misconception ", "misconstruction ", "misinterpretation ", "misreckoning ", "mistake ", "mix up "], "A": ["accuracy ", "certainty ", "correction ", "truth ", "understanding "]}

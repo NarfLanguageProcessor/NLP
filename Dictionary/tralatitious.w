@@ -1,0 +1,1 @@
+{"index": 327522, "D": [], "S": ["current ", "ordinary ", "regular ", "traditional ", "typical "], "A": ["abnormal ", "different ", "extraordinary ", "irregular ", "rare ", "uncommon ", "unusual "]}

@@ -1,0 +1,1 @@
+{"index": 283940, "D": "the punctuation mark (;) used to indicate a major division in a sentence where a more distinct separation is felt between clauses or items on a list than is indicated by a comma, as between the two clauses of a compound sentence.", "S": [], "A": []}

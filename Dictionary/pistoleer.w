@@ -1,0 +1,1 @@
+{"index": 238180, "D": "a person, especially a soldier, who uses or is armed with a pistol. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 24778, "D": "a protein, found in the white of egg, that combines with and prevents the action of biotin, thus injuring the animal that consumes it in excess by producing biotin deficiency.", "S": [], "A": []}

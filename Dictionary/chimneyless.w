@@ -1,0 +1,1 @@
+{"index": 54519, "D": "a structure, usually vertical, containing a passage or flue by which the smoke, gases, etc., of a fire or furnace are carried off and by means of which a draft is created.", "S": [], "A": []}

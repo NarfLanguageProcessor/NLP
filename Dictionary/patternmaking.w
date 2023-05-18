@@ -1,0 +1,1 @@
+{"index": 228029, "D": "a person who makes patterns,  as for clothing or metal castings.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 117721, "D": "it is fortunate that", "S": ["auspiciously ", "by good luck ", "by happy chance ", "favorably ", "happily ", "in good time ", "in the nick of time ", "opportunely ", "prosperously ", "providentially ", "satisfyingly ", "seasonably ", "successfully ", "swimmingly ", "well "], "A": ["sadly ", "unfortunately ", "unhappily ", "unluckily "]}

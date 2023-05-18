@@ -1,0 +1,1 @@
+{"index": 266061, "D": "(with reference to Germany) empire; realm; nation.", "S": [], "A": []}

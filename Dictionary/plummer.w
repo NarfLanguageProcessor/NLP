@@ -1,0 +1,1 @@
+{"index": 240458, "D": "the drupaceous fruit of any of several trees belonging to the genus Prunus, of the rose family, having an oblong stone.", "S": ["lavender ", "lilac ", "plum ", "violet "], "A": []}

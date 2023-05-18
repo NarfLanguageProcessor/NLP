@@ -1,0 +1,1 @@
+{"index": 149854, "D": "a shrubby, composite desert plant, Encelia farinosa, of the southwestern U.S., having silvery leaves and clusters of yellow flowers.", "S": [], "A": []}

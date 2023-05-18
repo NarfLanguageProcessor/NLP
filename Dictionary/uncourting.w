@@ -1,0 +1,1 @@
+{"index": 338097, "D": "the act or process of trying to win the favor or attention of a person or group", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 313106, "D": "above, especially when used in referring to parts of a text.", "S": ["introductory ", "previous ", "prior "], "A": ["later ", "back ", "inferior ", "last ", "unimportant "]}

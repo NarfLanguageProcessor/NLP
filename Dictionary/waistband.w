@@ -1,0 +1,1 @@
+{"index": 362048, "D": "a band  encircling the waist,  especially as a part of a skirt or pair of trousers.", "S": ["ribbon ", "ring ", "strap ", "string "], "A": []}

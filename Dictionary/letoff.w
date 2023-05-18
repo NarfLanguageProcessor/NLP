@@ -1,0 +1,1 @@
+{"index": 170912, "D": [], "S": ["abandon ", "absolve ", "discharge ", "dispense ", "drop ", "excuse ", "exempt ", "exonerate ", "forgive ", "let go ", "pardon ", "privilege from ", "release ", "relieve ", "remove ", "spare "], "A": ["blame ", "incarcerate ", "punish "]}

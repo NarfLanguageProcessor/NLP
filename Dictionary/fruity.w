@@ -1,0 +1,1 @@
+{"index": 119610, "D": "resembling fruit;  having the taste or smell of fruit.", "S": ["mellow ", "pleasant "], "A": []}

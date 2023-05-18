@@ -1,0 +1,1 @@
+{"index": 67103, "D": "to build or form by putting together parts; frame; devise. ", "S": [], "A": []}

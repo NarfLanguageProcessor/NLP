@@ -1,0 +1,1 @@
+{"index": 197815, "D": "an erotic attraction to corpses.", "S": [], "A": []}

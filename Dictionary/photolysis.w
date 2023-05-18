@@ -1,0 +1,1 @@
+{"index": 235205, "D": "the chemical decomposition of materials under the influence of light.", "S": [], "A": []}

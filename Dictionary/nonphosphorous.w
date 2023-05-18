@@ -1,0 +1,1 @@
+{"index": 205968, "D": "containing trivalent phosphorus. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288719, "D": "one of a pair of foot-shaped devices, usually of metal or wood, for placing in a shoe  to maintain its shape when it is not being worn.", "S": [], "A": []}

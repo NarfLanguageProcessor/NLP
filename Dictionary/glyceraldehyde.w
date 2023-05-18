@@ -1,0 +1,1 @@
+{"index": 126190, "D": "a white, crystalline, water-soluble solid, C3H6O3, that is an intermediate in carbohydrate metabolism and yields glycerol on reduction.", "S": [], "A": []}

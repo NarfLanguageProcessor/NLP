@@ -1,0 +1,1 @@
+{"index": 222478, "D": "the skinned tail  of an ox  or steer, used as an ingredient in soup, stew, etc.", "S": [], "A": []}

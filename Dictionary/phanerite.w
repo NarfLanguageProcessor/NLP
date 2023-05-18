@@ -1,0 +1,1 @@
+{"index": 232915, "D": "any igneous rock whose grains are visible to the naked eye.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 147319, "D": "showing lack of good social breeding; unmannerly; rude.", "S": ["barbaric ", "churlish ", "coarse ", "impolite ", "rude ", "tasteless ", "uncivilized ", "vulgar "], "A": ["delicate ", "gentle ", "kind ", "mannerly ", "nice ", "pleasant ", "polished ", "polite ", "refined ", "smooth ", "sophisticated "]}

@@ -1,0 +1,1 @@
+{"index": 304214, "D": "a pan for stewing; saucepan.", "S": [], "A": []}

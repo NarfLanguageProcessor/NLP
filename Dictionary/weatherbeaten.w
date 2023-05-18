@@ -1,0 +1,1 @@
+{"index": 363589, "D": "bearing evidences of wear or damage as a result of exposure to the weather.", "S": ["craggy ", "hilly ", "jagged ", "mountainous ", "rocky ", "rough "], "A": ["even ", "flat ", "smooth "]}

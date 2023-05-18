@@ -1,0 +1,1 @@
+{"index": 37788, "D": "a fondant, fruit, or nut center dipped in fondant or chocolate; a chocolate.", "S": ["caramel ", "confetti ", "cream ", "dainty ", "sweet "], "A": []}

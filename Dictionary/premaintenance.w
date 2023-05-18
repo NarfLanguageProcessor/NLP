@@ -1,0 +1,1 @@
+{"index": 248285, "D": "the act of maintaining", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 165575, "D": "a mounted soldier serving under a feudal superior in the Middle Ages.", "S": ["banneret ", "cavalier ", "champion ", "chevalier ", "companion ", "gallant ", "gentleman ", "horseman ", "lover ", "man-at-arms ", "paladin ", "partisan ", "protagonist ", "templar "], "A": ["enemy "]}

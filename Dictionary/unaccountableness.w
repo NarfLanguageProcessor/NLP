@@ -1,0 +1,1 @@
+{"index": 334459, "D": "impossible to account for; unexplained; inexplicable", "S": [], "A": []}

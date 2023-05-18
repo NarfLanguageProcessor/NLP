@@ -1,0 +1,1 @@
+{"index": 48829, "D": "a window sash opening on hinges that are generally attached to the upright side of its frame.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 51960, "D": "a feeling of vexation, marked by disappointment or humiliation.", "S": ["annoyance ", "dismay ", "disquiet ", "embarrassment ", "irritation "], "A": ["comfort ", "confidence ", "happiness ", "satisfaction "]}

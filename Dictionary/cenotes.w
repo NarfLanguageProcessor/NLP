@@ -1,0 +1,1 @@
+{"index": 50748, "D": "a deep natural well or sinkhole, especially in Central America, formed by the collapse of surface limestone that exposes groundwater underneath.", "S": [], "A": []}

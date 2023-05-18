@@ -1,0 +1,1 @@
+{"index": 152224, "D": "having or prepared with information  or knowledge; apprised", "S": [], "A": []}

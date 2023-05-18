@@ -1,0 +1,1 @@
+{"index": 153321, "D": "a seeking or request for truth, information, or knowledge.", "S": ["analysis ", "audit ", "examination ", "hearing ", "inspection ", "interrogation ", "investigation ", "probe ", "query ", "question ", "questioning ", "request ", "research ", "scrutiny ", "search ", "study ", "survey "], "A": ["answer ", "ignorance ", "neglect ", "reply "]}

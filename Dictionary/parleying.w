@@ -1,0 +1,1 @@
+{"index": 226600, "D": "a discussion or conference.", "S": ["adjudicate ", "interpose ", "intervene ", "mediate ", "straighten out "], "A": ["ignore ", "agitate ", "confuse ", "hesitate ", "upset ", "worry "]}

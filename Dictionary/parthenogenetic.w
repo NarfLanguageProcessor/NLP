@@ -1,0 +1,1 @@
+{"index": 226967, "D": "development of an egg without fertilization.", "S": ["abiogenetic ", "agamic ", "agamogenetic ", "agamous "], "A": []}

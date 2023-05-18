@@ -1,0 +1,1 @@
+{"index": 69173, "D": "an insulating material made of compressed cork,  used in building, for industrial purposes, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 89741, "D": "capable of being distended. ", "S": ["abundant ", "broad ", "comfortable ", "commodious ", "comprehensive ", "dilatable ", "expandable ", "expansive ", "extended ", "generous ", "liberal ", "plentiful ", "roomy ", "sizable ", "spacious ", "substantial ", "vast ", "voluminous ", "wide "], "A": ["cramped ", "small ", "squeezed ", "tiny "]}

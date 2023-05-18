@@ -1,0 +1,1 @@
+{"index": 88945, "D": "to deal out; distribute", "S": ["allocate ", "allot ", "disburse ", "distribute ", "furnish ", "give away ", "hand out "], "A": ["conceal ", "hide ", "hoard ", "hold ", "keep ", "retain ", "secret ", "attach ", "collect ", "combine ", "disorganize ", "gather ", "join ", "unite ", "withhold "]}

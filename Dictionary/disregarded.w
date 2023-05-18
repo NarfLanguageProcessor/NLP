@@ -1,0 +1,1 @@
+{"index": 89312, "D": "to pay no attention to; leave out of consideration; ignore", "S": ["abandoned ", "dishonored ", "disobeyed ", "ignored ", "isolated ", "retracted ", "transgressed ", "violated "], "A": ["OK ", "complete ", "connected ", "continuous ", "fixed ", "flowing ", "happy ", "kept ", "satisfied ", "unbroken ", "uplifted ", "whole ", "working "]}

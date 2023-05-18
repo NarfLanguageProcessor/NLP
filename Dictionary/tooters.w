@@ -1,0 +1,1 @@
+{"index": 325742, "D": "(of a horn or whistle) to give forth its characteristic sound.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 53329, "D": "a western North American plant, Sidalcea malviflora, of the mallow family, having long, loose clusters of rose-colored flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 48887, "D": "the fine, downy wool at the roots of the hair of the Kashmir goat.", "S": ["fleece ", "fur ", "hair ", "mohair ", "tweed ", "yarn "], "A": []}

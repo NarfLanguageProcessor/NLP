@@ -1,0 +1,1 @@
+{"index": 174737, "D": "a person who is loyal;  a supporter of the sovereign or of the existing government, especially in time of revolt.", "S": [], "A": []}

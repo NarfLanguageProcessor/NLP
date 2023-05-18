@@ -1,0 +1,1 @@
+{"index": 67358, "D": "to struggle in opposition", "S": ["argue ", "confront ", "cope ", "dispute ", "go after ", "grapple ", "meet ", "oppose ", "push for ", "resist ", "vie "], "A": ["agree ", "comply ", "go along ", "hide ", "make peace ", "retreat ", "surrender ", "yield "]}

@@ -1,0 +1,1 @@
+{"index": 19053, "D": "a lute  with two pegboxes, one for the stopped strings and the other for the bass strings, which run outside the fingerboard.", "S": [], "A": []}

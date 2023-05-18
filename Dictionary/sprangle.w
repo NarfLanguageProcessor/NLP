@@ -1,0 +1,1 @@
+{"index": 301186, "D": [], "S": ["amble ", "digress ", "meander ", "roam ", "saunter ", "straggle ", "stroll ", "traipse ", "zigzag "], "A": ["run ", "join ", "stay ", "straighten "]}

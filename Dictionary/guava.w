@@ -1,0 +1,1 @@
+{"index": 130839, "D": "any of numerous tropical and subtropical American trees or shrubs belonging to the genus Psidium, of the myrtle family, especially P. guajava, bearing large, yellow, round to pear-shaped fruit, and P. littorale, bearing smaller, yellowish to deep-red, oval fruit.", "S": [], "A": []}

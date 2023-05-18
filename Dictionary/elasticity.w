@@ -1,0 +1,1 @@
+{"index": 96755, "D": "the state or quality of being elastic. ", "S": ["adaptability ", "flexibility ", "resilience "], "A": ["rigidity "]}

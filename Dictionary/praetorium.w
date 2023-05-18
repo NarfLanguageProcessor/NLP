@@ -1,0 +1,1 @@
+{"index": 245199, "D": "the tent or building occupied by the general or commanding officer in a military camp.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 160841, "D": "any of various government officials.", "S": [], "A": []}

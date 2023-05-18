@@ -1,0 +1,1 @@
+{"index": 351762, "D": "of, relating to, or consisting of spirit;  incorporeal.", "S": ["physical "], "A": ["mental ", "soulful ", "spiritual "]}

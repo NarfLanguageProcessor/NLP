@@ -1,0 +1,1 @@
+{"index": 126460, "D": "the act of globalizing,  or extending to other or all parts of the world", "S": ["proliferation "], "A": ["nationalization "]}

@@ -1,0 +1,1 @@
+{"index": 135008, "D": "toward heaven.", "S": ["skyward ", "upward "], "A": ["down "]}

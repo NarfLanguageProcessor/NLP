@@ -1,0 +1,1 @@
+{"index": 107122, "D": "producing or tending to produce fatigue, weariness, or the like", "S": ["debilitating ", "draining ", "taxing ", "tiresome "], "A": ["easy "]}

@@ -1,0 +1,1 @@
+{"index": 148521, "D": "not perforate;  having no perforation.", "S": [], "A": []}

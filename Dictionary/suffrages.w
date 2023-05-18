@@ -1,0 +1,1 @@
+{"index": 310159, "D": "the right to vote, especially in a political election.", "S": ["assent ", "attestation ", "ballot ", "consensus ", "franchise ", "petition ", "prayer ", "right ", "testimony ", "voice ", "vote "], "A": ["disagreement "]}

@@ -1,0 +1,1 @@
+{"index": 76934, "D": "adventurous courage; boldness. ", "S": ["audacious ", "bold ", "courageous ", "fearless ", "foolhardy ", "gutsy ", "impulsive ", "reckless ", "smart "], "A": ["afraid ", "careful ", "cautious ", "cowardly ", "fearful ", "meek ", "shy ", "thoughtful ", "timid ", "undaring ", "weak "]}

@@ -1,0 +1,1 @@
+{"index": 84800, "D": "having the stamens and pistils maturing at different times, thereby preventing self-pollination, as a monoclinous flower (opposed to homogamous).", "S": [], "A": []}

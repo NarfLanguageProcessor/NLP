@@ -1,0 +1,1 @@
+{"index": 216101, "D": "expelled or removed", "S": ["fired ", "freed ", "laid-off ", "released ", "sacked "], "A": []}

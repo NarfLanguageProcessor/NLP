@@ -1,0 +1,1 @@
+{"index": 266093, "D": "the act or fact of igniting;  state of being ignited. ", "S": [], "A": []}

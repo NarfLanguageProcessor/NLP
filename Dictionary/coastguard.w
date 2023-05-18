@@ -1,0 +1,1 @@
+{"index": 61092, "D": "a military service under the Department of Transportation, which in peacetime enforces maritime laws, saves lives and property at sea, and maintains aids to navigation, and which in wartime may be placed under the Navy Department to augment the navy.", "S": [], "A": []}

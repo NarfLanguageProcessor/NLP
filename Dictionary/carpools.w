@@ -1,0 +1,1 @@
+{"index": 48447, "D": "an arrangement among a group of automobile owners by which each owner in turn drives the others or their children to and from a designated place.", "S": ["car pooling ", "carpooling ", "motor pool ", "ride share ", "van pool "], "A": []}

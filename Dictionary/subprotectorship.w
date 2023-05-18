@@ -1,0 +1,1 @@
+{"index": 308918, "D": "a person or thing that protects; defender; guardian.", "S": [], "A": []}

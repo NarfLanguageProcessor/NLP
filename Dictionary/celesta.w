@@ -1,0 +1,1 @@
+{"index": 50481, "D": "a musical instrument consisting principally of a set of graduated steel plates struck with hammers that are activated by a keyboard.", "S": [], "A": []}

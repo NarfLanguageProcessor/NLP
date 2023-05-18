@@ -1,0 +1,1 @@
+{"index": 158040, "D": "annoying; irritating; exasperating; tiresome", "S": ["aggravating ", "bothersome ", "irritating ", "tedious ", "troublesome ", "troubling ", "vexing "], "A": ["helpful "]}

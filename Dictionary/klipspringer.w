@@ -1,0 +1,1 @@
+{"index": 165359, "D": "a small, agile African antelope, Oreotragus oreotragus, of mountainous regions from the Cape of Good Hope to Ethiopia.", "S": [], "A": []}

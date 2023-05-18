@@ -1,0 +1,1 @@
+{"index": 361473, "D": "a solemn promise, pledge, or personal commitment", "S": [], "A": []}

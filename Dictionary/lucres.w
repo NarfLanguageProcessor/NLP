@@ -1,0 +1,1 @@
+{"index": 175863, "D": "monetary reward or gain; money.", "S": ["capital ", "cash ", "earnings ", "funds ", "gain ", "gate ", "gravy ", "income ", "proceeds ", "receipts ", "resources ", "revenue ", "riches ", "take ", "wealth "], "A": ["bills ", "debt ", "loss ", "losses "]}

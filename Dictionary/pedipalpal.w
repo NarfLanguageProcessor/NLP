@@ -1,0 +1,1 @@
+{"index": 228936, "D": "(in arachnids) one member of the usually longer pair of appendages immediately behind the chelicerae.", "S": [], "A": []}

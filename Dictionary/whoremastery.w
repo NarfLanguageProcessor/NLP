@@ -1,0 +1,1 @@
+{"index": 365363, "D": "sexually licentious behavior, as promiscuity, consorting with prostitutes, etc.; lechery", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 198725, "D": "to characterize (a person) as resembling Nero.", "S": [], "A": []}

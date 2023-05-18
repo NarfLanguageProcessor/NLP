@@ -1,0 +1,1 @@
+{"index": 235812, "D": "Spanish painter and sculptor in France.", "S": [], "A": []}

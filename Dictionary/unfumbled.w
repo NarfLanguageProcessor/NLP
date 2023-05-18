@@ -1,0 +1,1 @@
+{"index": 342813, "D": "to feel or grope about clumsily", "S": [], "A": []}

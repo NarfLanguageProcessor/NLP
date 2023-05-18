@@ -1,0 +1,1 @@
+{"index": 137892, "D": "a white, crystalline powder, C13Cl6H6O2, insoluble in water", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 344911, "D": "a person whose activities or beliefs are characterized by unionism. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 12712, "D": "a strong feeling of displeasure and belligerence aroused by a wrong; wrath; ire.", "S": ["riled "], "A": ["pacified ", "placated "]}

@@ -1,0 +1,1 @@
+{"index": 95940, "D": "to wipe out; do away with; expunge", "S": [], "A": []}

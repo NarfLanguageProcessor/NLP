@@ -1,0 +1,1 @@
+{"index": 4750, "D": "a patronymic for any of the descendants of Aeacus, as Achilles, Peleus, and Telamon.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 304431, "D": "a unit of luminance, equal to one candle per square centimeter.", "S": [], "A": []}

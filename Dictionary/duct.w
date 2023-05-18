@@ -1,0 +1,1 @@
+{"index": 93782, "D": "any tube, canal, pipe, or conduit by which a fluid, air, or other substance is conducted or conveyed.", "S": ["conduit ", "tube "], "A": []}

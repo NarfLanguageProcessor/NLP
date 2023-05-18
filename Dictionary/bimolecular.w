@@ -1,0 +1,1 @@
+{"index": 34139, "D": "having or involving two molecules.", "S": [], "A": []}

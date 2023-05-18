@@ -1,0 +1,1 @@
+{"index": 43386, "D": "a large African antelope, Tragelaphus scriptus, of wooded and bushy regions, having a reddish body streaked or spotted with white.", "S": [], "A": []}

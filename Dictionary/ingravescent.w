@@ -1,0 +1,1 @@
+{"index": 152567, "D": "(esp of a disease) becoming more severe", "S": [], "A": []}

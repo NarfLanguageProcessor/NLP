@@ -1,0 +1,1 @@
+{"index": 368510, "D": "an African ground squirrel of the genus Xerus, having spiny fur, very short ears, and a long tail, and including the species X. rutilus of northeastern Africa and X. erythropus of western and central Africa.", "S": [], "A": []}

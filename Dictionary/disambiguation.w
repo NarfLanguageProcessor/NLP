@@ -1,0 +1,1 @@
+{"index": 86996, "D": "the act or process of distinguishing between similar things, meanings, names, etc., in order to make the meaning or interpretation more clear or certain", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 106785, "D": "to think out; devise; invent. ", "S": [], "A": []}

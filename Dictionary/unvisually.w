@@ -1,0 +1,1 @@
+{"index": 353872, "D": "of or relating to seeing or sight", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 200887, "D": "being such in name only; so-called; putative", "S": [], "A": []}

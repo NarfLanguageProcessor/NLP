@@ -1,0 +1,1 @@
+{"index": 348778, "D": "relating to, characterized by, or exhibiting psychosis", "S": [], "A": []}

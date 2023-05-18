@@ -1,0 +1,1 @@
+{"index": 204242, "D": "existing in the state of a gas;  not solid or liquid.", "S": [], "A": []}

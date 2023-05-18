@@ -1,0 +1,1 @@
+{"index": 270925, "D": "the technique or action, in etching or engraving, of drawing up ink from within the incised lines of an inked plate by deftly passing a soft cloth across its surface in order to spread ink to the adjacent areas.", "S": [], "A": []}

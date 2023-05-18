@@ -1,0 +1,1 @@
+{"index": 131252, "D": "a small abscess on the gum,  originating in an abscess in the pulp of a tooth.", "S": [], "A": []}

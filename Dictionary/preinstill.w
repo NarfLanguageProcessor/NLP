@@ -1,0 +1,1 @@
+{"index": 248022, "D": "to infuse slowly or gradually into the mind or feelings; insinuate; inject", "S": [], "A": []}

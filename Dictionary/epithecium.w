@@ -1,0 +1,1 @@
+{"index": 102947, "D": "the surface layer of tissue of the fruiting body of lichens and fungi, formed by the union of the tips of the paraphyses over the spore sacs.", "S": [], "A": []}

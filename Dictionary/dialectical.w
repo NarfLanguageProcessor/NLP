@@ -1,0 +1,1 @@
+{"index": 84200, "D": "dialectic. ", "S": ["colloquial ", "idiomatic ", "indigenous ", "limited ", "local ", "provincial ", "vernacular "], "A": []}

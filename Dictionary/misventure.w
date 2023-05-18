@@ -1,0 +1,1 @@
+{"index": 190418, "D": "an unfortunate undertaking; misadventure.", "S": [], "A": []}

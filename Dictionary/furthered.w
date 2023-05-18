@@ -1,0 +1,1 @@
+{"index": 120520, "D": "at or to a greater distance; farther", "S": ["approved ", "assisted ", "endorsed ", "favored "], "A": ["disapproved "]}

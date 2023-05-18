@@ -1,0 +1,1 @@
+{"index": 66396, "D": "joined together; united; combined; associated. ", "S": ["related ", "together ", "united ", "working together "], "A": []}

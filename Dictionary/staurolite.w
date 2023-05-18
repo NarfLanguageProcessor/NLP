@@ -1,0 +1,1 @@
+{"index": 303190, "D": "a mineral, basic iron aluminum silicate, Fe2Al2O7(SiO4)4(OH), occurring in brown to black prismatic crystals, which are often twinned in the form of a cross.", "S": [], "A": []}

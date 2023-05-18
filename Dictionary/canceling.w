@@ -1,0 +1,1 @@
+{"index": 46079, "D": "to make void, as a contract or other obligation; annul", "S": ["discarding ", "disregarding ", "excepting ", "excluding ", "ignoring ", "missing ", "neglecting ", "overlooking ", "precluding ", "repudiating ", "slighting ", "withholding "], "A": ["including ", "inserting ", "mentioning "]}

@@ -1,0 +1,1 @@
+{"index": 313482, "D": "churlishly rude or bad-tempered", "S": ["boorish ", "dour ", "irritable ", "morose ", "rude ", "sullen ", "testy ", "ugly "], "A": ["bright ", "cheerful ", "happy ", "kind ", "nice ", "pleasant ", "polite ", "refined ", "sophisticated "]}

@@ -1,0 +1,1 @@
+{"index": 136331, "D": "a person or thing that hems.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 144084, "D": "a North American composite weed, Erigeron canadensis, having narrow, hairy leaves and clusters of very small greenish-white flowers.", "S": [], "A": []}

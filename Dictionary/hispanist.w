@@ -1,0 +1,1 @@
+{"index": 141687, "D": "a specialist in the Spanish or Portuguese language or in Spanish or Latin-American literature or culture.", "S": [], "A": []}

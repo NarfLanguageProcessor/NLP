@@ -1,0 +1,1 @@
+{"index": 187986, "D": "Spanish name for Minho. ", "S": [], "A": []}

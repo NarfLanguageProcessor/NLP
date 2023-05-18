@@ -1,0 +1,1 @@
+{"index": 272737, "D": "a melodic phrase, often constantly repeated, forming an accompaniment or part of an accompaniment for a soloist.", "S": ["action ", "case ", "plight ", "position ", "quality ", "situation ", "status "], "A": []}

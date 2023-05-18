@@ -1,0 +1,1 @@
+{"index": 276171, "D": "an optical instrument for determining the strength of sugar solutions by measuring the rotation of the plane of polarized light they produce.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 333224, "D": "made of or resembling tweed,  as in texture, appearance, or the like.", "S": [], "A": []}

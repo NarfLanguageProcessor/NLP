@@ -1,0 +1,1 @@
+{"index": 168122, "D": "the Romance language of medieval southern France", "S": [], "A": []}

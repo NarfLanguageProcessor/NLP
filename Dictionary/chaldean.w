@@ -1,0 +1,1 @@
+{"index": 52130, "D": "one of an ancient Semitic people that formed the dominant element in Babylonia.", "S": [], "A": []}

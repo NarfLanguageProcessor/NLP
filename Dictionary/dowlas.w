@@ -1,0 +1,1 @@
+{"index": 92193, "D": "a coarse linen or cotton cloth.", "S": [], "A": []}

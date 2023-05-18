@@ -1,0 +1,1 @@
+{"index": 284256, "D": "Compare rationalism (def. 4). ", "S": [], "A": []}

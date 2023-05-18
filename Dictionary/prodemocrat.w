@@ -1,0 +1,1 @@
+{"index": 251518, "D": "an advocate of democracy. ", "S": [], "A": []}

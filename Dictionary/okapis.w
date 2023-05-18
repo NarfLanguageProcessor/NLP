@@ -1,0 +1,1 @@
+{"index": 211951, "D": "an African mammal, Okapia johnstoni, closely related to and resembling the giraffe, but smaller and with a much shorter neck.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 29270, "D": "indecent; lewd; obscene", "S": ["coarseness ", "dirtiness ", "filthiness ", "foulness ", "grossness ", "lewdness ", "profaneness ", "profanity ", "scurrility ", "smuttiness ", "vulgarity "], "A": ["decency "]}

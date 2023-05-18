@@ -1,0 +1,1 @@
+{"index": 84758, "D": "any of several plants belonging to the genus Dicentra, of the fumitory family, having long clusters of drooping flowers, as the Dutchman's-breeches or the bleeding heart.", "S": [], "A": []}

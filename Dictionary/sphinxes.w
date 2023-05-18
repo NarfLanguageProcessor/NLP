@@ -1,0 +1,1 @@
+{"index": 299604, "D": "the colossal recumbent stone figure of this kind near the pyramids of Giza.", "S": ["conundrum ", "puzzle "], "A": []}

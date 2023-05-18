@@ -1,0 +1,1 @@
+{"index": 189945, "D": "confident or trustful dependence.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 209500, "D": "the state or quality of being null;  nothingness; invalidity.", "S": ["cipher ", "naught ", "nonentity ", "zero ", "zilch "], "A": []}

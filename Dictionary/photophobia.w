@@ -1,0 +1,1 @@
+{"index": 235301, "D": "a painful sensitivity to or extreme intolerance of bright light, as in iritis. ", "S": [], "A": []}

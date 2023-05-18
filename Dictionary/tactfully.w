@@ -1,0 +1,1 @@
+{"index": 315119, "D": "having or manifesting tact", "S": ["beautifully ", "cautiously ", "deftly ", "elegantly ", "exquisitely ", "finely ", "gracefully ", "lightly ", "sensitively ", "skillfully ", "softly ", "subtly "], "A": ["strongly "]}

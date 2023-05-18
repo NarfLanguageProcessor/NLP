@@ -1,0 +1,1 @@
+{"index": 299071, "D": "a product obtained in smelting certain ores, consisting of one or more metallic arsenides, as of iron or nickel.", "S": [], "A": []}

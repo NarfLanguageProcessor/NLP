@@ -1,0 +1,1 @@
+{"index": 303867, "D": "the foundation or base upon which a building or the like is erected.", "S": [], "A": []}

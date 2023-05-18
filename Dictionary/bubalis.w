@@ -1,0 +1,1 @@
+{"index": 41915, "D": "a hartebeest, Alcelaphus boselaphus, of northern Africa.", "S": [], "A": []}

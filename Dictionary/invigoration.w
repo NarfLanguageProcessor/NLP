@@ -1,0 +1,1 @@
+{"index": 157228, "D": "to give vigor to; fill with life and energy; energize. ", "S": ["activation ", "bracing ", "brisk ", "exhilarating ", "invigorating ", "refreshing ", "reinvigorating ", "renewing ", "restorative ", "stimulating "], "A": ["boring ", "depressing "]}

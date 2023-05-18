@@ -1,0 +1,1 @@
+{"index": 222272, "D": "a compound in which oxygen is bonded to one or more electropositive atoms.", "S": ["base metal ", "native metal ", "noble metal ", "precious metal ", "rare earth ", "rare metal ", "rare-earth metal "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 90973, "D": "to steal (a dog), especially for the purpose of selling it for profit.", "S": [], "A": []}

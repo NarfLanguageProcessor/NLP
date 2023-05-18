@@ -1,0 +1,1 @@
+{"index": 221079, "D": "harshness, sternness, or rigor", "S": [], "A": []}

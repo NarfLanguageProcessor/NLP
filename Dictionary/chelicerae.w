@@ -1,0 +1,1 @@
+{"index": 53592, "D": "one member of the first pair of usually pincerlike appendages of spiders and other arachnids.", "S": [], "A": []}

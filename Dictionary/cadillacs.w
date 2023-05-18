@@ -1,0 +1,1 @@
+{"index": 44349, "D": "French colonial governor in North America", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 102331, "D": "a person who cultivates a refined taste, especially in food and wine; connoisseur.", "S": ["connoisseur ", "epicurean ", "gastronome ", "gourmand "], "A": []}

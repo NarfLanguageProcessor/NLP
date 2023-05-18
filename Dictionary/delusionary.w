@@ -1,0 +1,1 @@
+{"index": 80299, "D": "having false or unrealistic beliefs or opinions", "S": [], "A": []}

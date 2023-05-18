@@ -1,0 +1,1 @@
+{"index": 179274, "D": "an act of manifesting. ", "S": ["demonstration ", "explanation ", "expression ", "indication ", "instance ", "meaning ", "phenomenon ", "symptom ", "token "], "A": ["concealment ", "hiding ", "reality ", "secret "]}

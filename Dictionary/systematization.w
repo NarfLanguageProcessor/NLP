@@ -1,0 +1,1 @@
+{"index": 292537, "D": "to arrange in or according to a system;  reduce to a system;  make systematic. ", "S": ["arrangement ", "classification ", "design ", "form ", "order ", "orderliness ", "organization ", "pattern ", "plan ", "planning ", "purpose ", "regularity ", "structure ", "system "], "A": ["disorder ", "disorganization "]}

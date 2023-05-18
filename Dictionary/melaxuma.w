@@ -1,0 +1,1 @@
+{"index": 182796, "D": "a disease of trees, especially walnuts, characterized by an inky-black liquid oozing from the affected twigs, branches, and trunk, and by bark cankers, caused by any of several fungi, as Dothiorella gregaria.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 40194, "D": "an airtight, or nearly airtight, boxlike container, as of metal or plastic, for storing bread  and other baked goods to keep them fresh.", "S": [], "A": []}

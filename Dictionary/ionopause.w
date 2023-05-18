@@ -1,0 +1,1 @@
+{"index": 157674, "D": "the transitional zone between the ionosphere and the mesosphere.", "S": [], "A": []}

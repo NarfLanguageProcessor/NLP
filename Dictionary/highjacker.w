@@ -1,0 +1,1 @@
+{"index": 139268, "D": "a person who hijacks. ", "S": [], "A": []}

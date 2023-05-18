@@ -1,0 +1,1 @@
+{"index": 298684, "D": "to utter words or articulate sounds with the ordinary voice; talk", "S": [], "A": []}

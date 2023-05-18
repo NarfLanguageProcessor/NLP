@@ -1,0 +1,1 @@
+{"index": 283779, "D": "characterized by very little annual rainfall, usually from 10 to 20 inches (25 to 50 centimeters)", "S": [], "A": []}

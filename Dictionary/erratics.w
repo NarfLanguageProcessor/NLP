@@ -1,0 +1,1 @@
+{"index": 103985, "D": "deviating from the usual or proper course in conduct or opinion; eccentric", "S": [], "A": []}

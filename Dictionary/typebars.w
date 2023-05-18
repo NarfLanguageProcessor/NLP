@@ -1,0 +1,1 @@
+{"index": 324164, "D": "(on a typewriter or some computer printers) one of a series of thin metal bars  containing type  and actuated by the keyboard or computer signal.", "S": [], "A": []}

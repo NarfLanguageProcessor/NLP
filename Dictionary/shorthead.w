@@ -1,0 +1,1 @@
+{"index": 288930, "D": "a brachycephalic person.", "S": [], "A": []}

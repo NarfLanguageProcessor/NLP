@@ -1,0 +1,1 @@
+{"index": 315724, "D": "resembling tallow in consistency, color, etc.; fatty", "S": [], "A": []}

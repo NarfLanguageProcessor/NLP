@@ -1,0 +1,1 @@
+{"index": 85931, "D": "dismissing or giving permission to depart.", "S": [], "A": []}

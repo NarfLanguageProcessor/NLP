@@ -1,0 +1,1 @@
+{"index": 56757, "D": "an archaic spelling of choose. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 174779, "D": "a trickster god, born of Jotun ancestry but accepted among the Aesir as Odin's adopted brother", "S": [], "A": []}

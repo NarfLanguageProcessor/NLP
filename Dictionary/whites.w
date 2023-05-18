@@ -1,0 +1,1 @@
+{"index": 365170, "D": "household linen or cotton goods, such as sheets", "S": ["regalia "], "A": []}

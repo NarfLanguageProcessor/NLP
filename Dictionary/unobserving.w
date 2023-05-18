@@ -1,0 +1,1 @@
+{"index": 347041, "D": "to see, watch, perceive, or notice", "S": ["apathetic ", "bored ", "careless ", "distracted ", "distraught ", "indifferent ", "oblivious "], "A": ["caring ", "concerned ", "interested ", "mindful "]}

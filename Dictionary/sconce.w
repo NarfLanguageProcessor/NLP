@@ -1,0 +1,1 @@
+{"index": 281152, "D": "a bracket for candles or other lights, placed on a wall, mirror, picture frame, etc.", "S": ["candelabra "], "A": []}

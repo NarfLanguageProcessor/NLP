@@ -1,0 +1,1 @@
+{"index": 245166, "D": "the first or personal name of a Roman citizen, as \u201cGaius\u201d in \u201cGaius Julius Caesar.\u201d", "S": [], "A": []}

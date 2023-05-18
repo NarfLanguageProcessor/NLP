@@ -1,0 +1,1 @@
+{"index": 174632, "D": "the act of logging in to a database, mobile device, or computer, especially a multiuser computer or a remote or networked computer system.", "S": ["boot ", "initialize ", "load "], "A": []}

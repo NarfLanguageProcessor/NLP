@@ -1,0 +1,1 @@
+{"index": 22541, "D": "pertaining to Athens,  Greece.", "S": [], "A": []}

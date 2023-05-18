@@ -1,0 +1,1 @@
+{"index": 368193, "D": "a weakling; wimp. ", "S": ["chicken ", "coward ", "dastard ", "nebbish ", "poltroon ", "quitter ", "recreant ", "weakling ", "wimp "], "A": []}

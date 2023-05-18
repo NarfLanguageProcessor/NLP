@@ -1,0 +1,1 @@
+{"index": 40123, "D": "fine or fine-looking; excellent.", "S": [], "A": []}

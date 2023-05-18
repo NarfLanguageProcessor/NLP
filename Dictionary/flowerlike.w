@@ -1,0 +1,1 @@
+{"index": 115202, "D": "resembling or in the shape of a flower;  delicate; graceful.", "S": [], "A": []}

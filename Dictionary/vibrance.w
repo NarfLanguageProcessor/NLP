@@ -1,0 +1,1 @@
+{"index": 359283, "D": "a less common variant of vibrancy. ", "S": [], "A": []}

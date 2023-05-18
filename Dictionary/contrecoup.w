@@ -1,0 +1,1 @@
+{"index": 67752, "D": "an injury of one point of an organ or part resulting from a blow on the opposite point.", "S": ["corollary ", "emanation ", "importance ", "ramification ", "residual ", "residue ", "residuum ", "sequela ", "weight "], "A": ["causes "]}

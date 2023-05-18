@@ -1,0 +1,1 @@
+{"index": 202670, "D": "according to or depending on custom;  usual; habitual.", "S": [], "A": []}

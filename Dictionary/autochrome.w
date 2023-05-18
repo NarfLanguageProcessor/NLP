@@ -1,0 +1,1 @@
+{"index": 23929, "D": "a material once used for color photography, consisting of a photographic emulsion applied over a multicolored screen of minute starch grains dyed red, green, and blue-violet.", "S": [], "A": []}

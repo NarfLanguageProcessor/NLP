@@ -1,0 +1,1 @@
+{"index": 6654, "D": "(used as a call to hail another ship, attract attention, etc.)", "S": ["calling ", "cry ", "signal "], "A": []}

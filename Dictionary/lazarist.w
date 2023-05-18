@@ -1,0 +1,1 @@
+{"index": 169435, "D": "Vincentian (def. 1). ", "S": [], "A": []}

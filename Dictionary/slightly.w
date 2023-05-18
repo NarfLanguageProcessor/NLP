@@ -1,0 +1,1 @@
+{"index": 294074, "D": "in small measure or degree", "S": ["kind of ", "lightly ", "marginally ", "somewhat "], "A": ["a lot ", "considerably ", "greatly "]}

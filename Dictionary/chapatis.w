@@ -1,0 +1,1 @@
+{"index": 52595, "D": "an unleavened, whole wheat flatbread common in South Asia and East Africa, traditionally baked on a griddle or skillet.", "S": [], "A": []}

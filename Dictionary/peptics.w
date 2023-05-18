@@ -1,0 +1,1 @@
+{"index": 230263, "D": "pertaining to or associated with digestion; digestive.", "S": [], "A": []}

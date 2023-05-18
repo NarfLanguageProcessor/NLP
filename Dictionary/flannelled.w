@@ -1,0 +1,1 @@
+{"index": 113958, "D": "a soft, slightly napped fabric of wool or wool and another fiber, used for trousers, jackets, shirts, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1522, "D": "the act of coming into the possession of a right, title, office, etc.", "S": [], "A": []}

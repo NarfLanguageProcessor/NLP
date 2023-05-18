@@ -1,0 +1,1 @@
+{"index": 341483, "D": "bursting forth, or tending to burst forth.", "S": [], "A": []}

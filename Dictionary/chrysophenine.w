@@ -1,0 +1,1 @@
+{"index": 56085, "D": "a bright yellow dye derived from stilbene, used chiefly for dyeing leather and textiles.", "S": [], "A": []}

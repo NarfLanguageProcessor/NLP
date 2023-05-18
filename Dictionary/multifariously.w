@@ -1,0 +1,1 @@
+{"index": 195080, "D": "having many different parts, elements, forms, etc.", "S": [], "A": []}

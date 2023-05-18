@@ -1,0 +1,1 @@
+{"index": 345461, "D": "that laughs  or is given to laughter", "S": [], "A": []}

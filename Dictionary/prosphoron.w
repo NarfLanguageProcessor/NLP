@@ -1,0 +1,1 @@
+{"index": 253223, "D": "an uncut loaf of altar bread before it is consecrated.", "S": [], "A": []}

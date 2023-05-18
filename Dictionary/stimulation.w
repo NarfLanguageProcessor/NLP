@@ -1,0 +1,1 @@
+{"index": 304639, "D": [], "S": ["incentive ", "stimulant "], "A": ["discouragement "]}

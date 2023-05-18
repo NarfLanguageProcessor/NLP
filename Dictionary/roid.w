@@ -1,0 +1,1 @@
+{"index": 273885, "D": "a steroid,  especially an anabolic steroid used for the enhancement of muscle development", "S": [], "A": []}

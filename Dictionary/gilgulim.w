@@ -1,0 +1,1 @@
+{"index": 124919, "D": "the soul of a dead person that passes into another living body to assume a new existence and atone for past sins.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 109786, "D": "a less common variant of phantasm. ", "S": [], "A": []}

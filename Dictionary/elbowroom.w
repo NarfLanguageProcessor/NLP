@@ -1,0 +1,1 @@
+{"index": 96817, "D": "ample room;  space in which to move freely.", "S": ["amount ", "breadth ", "degree ", "duration ", "expansion ", "intensity ", "length ", "matter ", "measure ", "quantity ", "scope ", "size ", "term "], "A": ["extreme "]}

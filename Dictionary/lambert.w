@@ -1,0 +1,1 @@
+{"index": 167589, "D": "the centimeter-gram-second unit of luminance or brightness, equivalent to 0.32 candles per square centimeter, and equal to the brightness of a perfectly diffusing surface emitting or reflecting one lumen per square centimeter. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 219462, "D": "the state of being free  or at liberty rather than in confinement or under physical restraint", "S": [], "A": []}

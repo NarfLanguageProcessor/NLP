@@ -1,0 +1,1 @@
+{"index": 122023, "D": "to stare with open mouth, as in wonder.", "S": [], "A": []}

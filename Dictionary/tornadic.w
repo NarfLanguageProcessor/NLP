@@ -1,0 +1,1 @@
+{"index": 326152, "D": "Compare waterspout (def. 3). ", "S": [], "A": []}

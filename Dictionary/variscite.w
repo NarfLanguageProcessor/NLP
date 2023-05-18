@@ -1,0 +1,1 @@
+{"index": 357288, "D": "a secondary mineral, hydrated phosphate of aluminum, Al(PO4)\u22c52H2O, occurring mainly as massive, bluish-green nodules", "S": [], "A": []}

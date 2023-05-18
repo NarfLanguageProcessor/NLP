@@ -1,0 +1,1 @@
+{"index": 167258, "D": "oriented or coiled in a leftward direction, as a left-spiraling snail shell.", "S": [], "A": []}

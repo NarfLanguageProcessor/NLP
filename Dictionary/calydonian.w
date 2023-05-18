@@ -1,0 +1,1 @@
+{"index": 45140, "D": "an ancient city in W Greece, in Aetolia.", "S": [], "A": []}

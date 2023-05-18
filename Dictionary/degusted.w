@@ -1,0 +1,1 @@
+{"index": 79666, "D": "to taste or savor carefully or appreciatively.", "S": [], "A": []}

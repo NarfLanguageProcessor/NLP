@@ -1,0 +1,1 @@
+{"index": 261583, "D": "the people who read or are thought to read a particular book, newspaper, magazine, etc.", "S": [], "A": []}

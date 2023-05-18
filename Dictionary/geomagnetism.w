@@ -1,0 +1,1 @@
+{"index": 123923, "D": "the earth's magnetic field and associated phenomena.", "S": [], "A": []}

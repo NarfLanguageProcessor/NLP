@@ -1,0 +1,1 @@
+{"index": 336406, "D": "a new growth of osseous matter at the ends of a fractured bone, serving to unite them.", "S": [], "A": []}

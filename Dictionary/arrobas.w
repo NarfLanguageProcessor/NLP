@@ -1,0 +1,1 @@
+{"index": 20291, "D": " a symbol (@) that is used to link a username to a domain name, used at the beginning of Twitter handles, and in other identifying designations on the internet in Spanish-speaking countries.", "S": [], "A": []}

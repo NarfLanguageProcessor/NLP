@@ -1,0 +1,1 @@
+{"index": 169543, "D": "a North American shrub, Amorpha canescens, of the legume family, the leaves and twigs of which have a gray cast.", "S": [], "A": []}

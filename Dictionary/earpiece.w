@@ -1,0 +1,1 @@
+{"index": 94784, "D": "a piece  that covers or passes over the ear,  as on a cap or eyeglasses.", "S": [], "A": []}

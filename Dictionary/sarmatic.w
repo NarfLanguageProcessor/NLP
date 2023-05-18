@@ -1,0 +1,1 @@
+{"index": 278504, "D": "of or relating to Sarmatia or its inhabitants", "S": [], "A": []}

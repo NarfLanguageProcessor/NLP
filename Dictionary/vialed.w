@@ -1,0 +1,1 @@
+{"index": 359234, "D": "a small container, as of glass, for holding liquids", "S": [], "A": []}

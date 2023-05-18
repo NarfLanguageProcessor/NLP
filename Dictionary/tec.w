@@ -1,0 +1,1 @@
+{"index": 317626, "D": "detective (def. 1). ", "S": ["detective ", "sleuth "], "A": []}

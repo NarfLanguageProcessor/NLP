@@ -1,0 +1,1 @@
+{"index": 246129, "D": "of the nature of or characterized by precipices", "S": ["amazement ", "astonishment ", "awe ", "bewilderment ", "consternation ", "curiosity ", "disappointment ", "jolt ", "miracle ", "revelation ", "shock ", "wonder "], "A": ["calmness ", "composure ", "coolness ", "expectation ", "happiness ", "indifference "]}

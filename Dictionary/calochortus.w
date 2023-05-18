@@ -1,0 +1,1 @@
+{"index": 45389, "D": "any plant of the genus Calochortus, of the lily family, as the mariposa lily and the sego lily.", "S": [], "A": []}

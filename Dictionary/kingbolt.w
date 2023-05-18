@@ -1,0 +1,1 @@
+{"index": 164873, "D": "a vertical bolt  connecting the body of a vehicle with the fore axle, the body of a railroad car with a truck, etc.", "S": [], "A": []}

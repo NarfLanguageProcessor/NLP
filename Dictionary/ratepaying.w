@@ -1,0 +1,1 @@
+{"index": 260996, "D": "a person who pays a regular charge for the use of a public utility, as gas or electricity, usually based on the quantity consumed.", "S": [], "A": []}

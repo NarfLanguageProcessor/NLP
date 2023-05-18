@@ -1,0 +1,1 @@
+{"index": 253794, "D": "the collection of matter, in the process of condensation, from which a planet  is formed.", "S": [], "A": []}

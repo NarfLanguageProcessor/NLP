@@ -1,0 +1,1 @@
+{"index": 335436, "D": "severe in manner or appearance; uncompromising; strict; forbidding", "S": [], "A": []}

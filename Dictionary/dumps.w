@@ -1,0 +1,1 @@
+{"index": 94114, "D": "a depressed state of mind (usually preceded by in the)", "S": ["blahs ", "blues ", "bummer ", "cheerlessness ", "doldrums ", "dreariness ", "gloom ", "gloominess ", "melancholy ", "sulks ", "trouble ", "unhappiness ", "woefulness "], "A": ["cheer ", "gladness ", "happiness ", "joy "]}

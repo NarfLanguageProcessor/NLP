@@ -1,0 +1,1 @@
+{"index": 335509, "D": "to wake up; rouse from sleep", "S": ["asleep ", "conked ", "crashed ", "dead to the world ", "dozing ", "dreaming ", "fast ", "inactive ", "inert ", "napping ", "out like a light ", "snoozing ", "sound ", "unconscious "], "A": []}

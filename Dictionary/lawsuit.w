@@ -1,0 +1,1 @@
+{"index": 169400, "D": "a case in a court of law  involving a claim, complaint, etc., by one party against another; suit  at law. ", "S": ["accusation ", "action ", "argument ", "bill ", "case ", "claim ", "dispute ", "impeachment ", "indictment ", "litigation ", "prosecution ", "suit ", "trial "], "A": []}

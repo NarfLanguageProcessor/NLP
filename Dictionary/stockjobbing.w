@@ -1,0 +1,1 @@
+{"index": 304953, "D": "a stock  salesperson, especially one who sells or promotes worthless securities.", "S": [], "A": []}

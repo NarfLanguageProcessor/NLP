@@ -1,0 +1,1 @@
+{"index": 201480, "D": "free from the living germs of disease, fermentation, or putrefaction.", "S": [], "A": []}

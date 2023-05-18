@@ -1,0 +1,1 @@
+{"index": 118837, "D": "to eat or snack, especially often or in large quantities.", "S": [], "A": []}

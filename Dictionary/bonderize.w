@@ -1,0 +1,1 @@
+{"index": 37803, "D": "to coat (steel) with an anticorrosive phosphate solution, usually in preparation for the application of paint, enamel, or lacquer.", "S": [], "A": []}

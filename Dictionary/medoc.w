@@ -1,0 +1,1 @@
+{"index": 182238, "D": "a wine-growing region in Gironde, in SW France.", "S": [], "A": []}

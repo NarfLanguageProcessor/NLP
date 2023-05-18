@@ -1,0 +1,1 @@
+{"index": 145826, "D": "of or relating to a physician or medicine; medical.", "S": ["medicinal ", "therapeutic "], "A": ["harmful ", "hurting ", "injurious "]}

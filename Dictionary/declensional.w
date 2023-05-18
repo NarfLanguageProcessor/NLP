@@ -1,0 +1,1 @@
+{"index": 78482, "D": "of or relating to grammatical declension. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 289084, "D": "the property or characteristic of being showy. ", "S": ["adornment ", "bauble ", "decoration ", "flashiness ", "frill ", "fussiness ", "gaudiness ", "knickknack ", "meretriciousness ", "ornament ", "ostentation ", "pretentiousness ", "tawdriness ", "toy ", "trinket "], "A": ["plainness "]}

@@ -1,0 +1,1 @@
+{"index": 153807, "D": "to infuse spirit  or life into; enliven.", "S": ["encouraging ", "reassuring ", "refreshing ", "soothing "], "A": ["aggravating ", "depressing ", "dispiriting ", "distressing ", "disturbing ", "irritating ", "upsetting ", "worrying "]}

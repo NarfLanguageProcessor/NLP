@@ -1,0 +1,1 @@
+{"index": 104988, "D": "a colorless liquid, C8H10, used chiefly as an intermediate in the manufacture of styrene and as a solvent and diluent for paints and varnishes.", "S": [], "A": []}

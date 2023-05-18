@@ -1,0 +1,1 @@
+{"index": 207819, "D": "to be indecisive or evasive to gain time or delay acting.", "S": [], "A": []}

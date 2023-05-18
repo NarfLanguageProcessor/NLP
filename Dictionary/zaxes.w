@@ -1,0 +1,1 @@
+{"index": 368930, "D": "a hatchetlike tool for cutting and punching nail holes in roofing slate.", "S": [], "A": []}

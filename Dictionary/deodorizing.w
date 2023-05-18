@@ -1,0 +1,1 @@
+{"index": 81424, "D": "to rid of odor,  especially of unpleasant odor.", "S": ["inodorous "], "A": ["aromatic ", "odorous ", "perfumed ", "scented ", "smelly "]}

@@ -1,0 +1,1 @@
+{"index": 231504, "D": "any of various marine gastropods or sea snails, especially Littorina littorea, used for food in Europe.", "S": ["color ", "lavender ", "lilac ", "mauve ", "plum ", "violet "], "A": []}

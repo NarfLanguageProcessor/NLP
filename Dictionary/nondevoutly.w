@@ -1,0 +1,1 @@
+{"index": 203022, "D": "devoted to divine worship or service; pious; religious", "S": [], "A": []}

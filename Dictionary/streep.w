@@ -1,0 +1,1 @@
+{"index": 306014, "D": "Meryl, original name Mary Louise Streep. born 1949, US actress. Her films include The Deerhunter (1978), Kramer vs Kramer (1979), The French Lieutenant's Woman (1981), Sophie's Choice (1982), Out of Africa (1986), The Hours (2002), Mamma Mia! (2008), and The Iron Lady (2011)", "S": [], "A": []}

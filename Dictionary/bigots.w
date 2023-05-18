@@ -1,0 +1,1 @@
+{"index": 33784, "D": "a person who is utterly intolerant of any differing creed, belief, or opinion.", "S": ["extremist ", "fanatic ", "maniac ", "racist ", "zealot "], "A": ["moderate "]}

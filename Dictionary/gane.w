@@ -1,0 +1,1 @@
+{"index": 121837, "D": "the past participle of gae", "S": [], "A": []}

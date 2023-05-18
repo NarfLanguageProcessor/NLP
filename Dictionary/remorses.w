@@ -1,0 +1,1 @@
+{"index": 267460, "D": "deep and painful regret for wrongdoing; compunction.", "S": ["anguish ", "compassion ", "contrition ", "grief ", "guilt ", "penance ", "pity ", "regret ", "repentance ", "shame ", "sorrow "], "A": ["happiness ", "indifference ", "joy ", "meanness ", "mercilessness "]}

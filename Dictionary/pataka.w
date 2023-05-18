@@ -1,0 +1,1 @@
+{"index": 227558, "D": "a building on stilts, used for storing provisions", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 80228, "D": "of or relating to Delphi.", "S": [], "A": []}

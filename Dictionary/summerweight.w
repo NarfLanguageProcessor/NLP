@@ -1,0 +1,1 @@
+{"index": 310961, "D": "(of clothes) suitable in weight for wear in the summer; relatively light", "S": [], "A": []}

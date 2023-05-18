@@ -1,0 +1,1 @@
+{"index": 252818, "D": "a nonnarcotic analgesic, C22H29NO2.", "S": [], "A": []}

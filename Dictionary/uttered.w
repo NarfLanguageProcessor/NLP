@@ -1,0 +1,1 @@
+{"index": 356242, "D": "to give audible expression to; speak or pronounce", "S": ["articulated ", "proclaimed "], "A": ["banned ", "suppressed ", "withdrawn ", "withheld "]}

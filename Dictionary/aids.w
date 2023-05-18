@@ -1,0 +1,1 @@
+{"index": 6716, "D": "a disease of the immune system characterized by increased susceptibility to opportunistic infections, as pneumocystis carinii pneumonia and candidiasis, to certain cancers, as Kaposi's sarcoma, and to neurological disorders", "S": ["acquired immune deficiency syndrome ", "sexually transmitted disease ", "virus "], "A": []}

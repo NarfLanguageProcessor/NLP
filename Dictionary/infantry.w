@@ -1,0 +1,1 @@
+{"index": 151826, "D": "soldiers or military units that fight on foot, in modern times typically with rifles, machine guns, grenades, mortars, etc., as weapons.", "S": ["infantrymen "], "A": []}

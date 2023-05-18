@@ -1,0 +1,1 @@
+{"index": 178399, "D": "Alaskan malamute. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43170, "D": "a wooden panel, located a short distance from and parallel to the bullring wall, behind which a bullfighter can seek protection from a bull.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 320962, "D": "Compare transit (def. 6). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 42885, "D": "a large bin or receptacle; a fixed chest or box", "S": [], "A": []}

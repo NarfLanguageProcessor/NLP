@@ -1,0 +1,1 @@
+{"index": 341093, "D": "(of a political party, candidate, etc) not likely to be elected", "S": [], "A": []}

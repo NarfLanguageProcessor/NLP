@@ -1,0 +1,1 @@
+{"index": 353983, "D": "of, relating to, or denoting a person who is not receiving pay because of either being unemployed or working in the home", "S": [], "A": []}

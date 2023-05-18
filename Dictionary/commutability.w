@@ -1,0 +1,1 @@
+{"index": 64291, "D": "that may be commuted;  exchangeable or interchangeable.", "S": [], "A": []}

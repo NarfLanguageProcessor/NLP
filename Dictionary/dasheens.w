@@ -1,0 +1,1 @@
+{"index": 77071, "D": "the taro plant, Colocasia esculenta, native to tropical Asia, now cultivated in the southern U.S. for its edible tubers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 167247, "D": "a boy or youth.", "S": ["fellow ", "schoolboy ", "youngster "], "A": ["adult ", "girl "]}

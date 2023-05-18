@@ -1,0 +1,1 @@
+{"index": 58352, "D": "having a cirrus or cirri.", "S": [], "A": []}

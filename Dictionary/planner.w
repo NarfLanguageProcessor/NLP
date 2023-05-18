@@ -1,0 +1,1 @@
+{"index": 239028, "D": "a person who plans. ", "S": ["administrator ", "architect ", "executive "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 60780, "D": "an alternative name for the invertebrate phylum Coelenterata, giving emphasis to the stinging structures as characteristic of the phylum.", "S": [], "A": []}

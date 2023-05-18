@@ -1,0 +1,1 @@
+{"index": 340268, "D": "to turn aside, as from a route, way, course, etc.", "S": ["absolutely ", "due ", "right ", "straight "], "A": ["indirectly "]}

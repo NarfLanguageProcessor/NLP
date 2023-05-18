@@ -1,0 +1,1 @@
+{"index": 350520, "D": "with derision or contempt", "S": [], "A": []}

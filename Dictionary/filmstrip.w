@@ -1,0 +1,1 @@
+{"index": 112763, "D": "a length of film  containing a series of related transparencies for projection on a screen.", "S": [], "A": []}

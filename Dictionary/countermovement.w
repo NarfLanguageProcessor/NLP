@@ -1,0 +1,1 @@
+{"index": 70924, "D": "the act, process, or result of moving.", "S": [], "A": []}

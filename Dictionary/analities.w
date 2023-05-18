@@ -1,0 +1,1 @@
+{"index": 11765, "D": "the condition or quality of having an anal character;  collectively, the personality traits characteristic of the anal  stage of psychosexual development.", "S": [], "A": []}

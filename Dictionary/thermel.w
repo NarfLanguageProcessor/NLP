@@ -1,0 +1,1 @@
+{"index": 321340, "D": "thermocouple. ", "S": [], "A": []}

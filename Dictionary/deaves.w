@@ -1,0 +1,1 @@
+{"index": 77680, "D": "to make deaf; deafen.", "S": [], "A": []}

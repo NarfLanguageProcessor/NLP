@@ -1,0 +1,1 @@
+{"index": 246094, "D": "fastidious or carefully affected refinement, as in language, style, or taste.", "S": [], "A": []}

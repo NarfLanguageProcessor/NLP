@@ -1,0 +1,1 @@
+{"index": 366971, "D": "believing in and respecting the abilities and talents of women; acknowledging women's contributions to society.", "S": [], "A": []}

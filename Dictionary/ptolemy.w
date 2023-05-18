@@ -1,0 +1,1 @@
+{"index": 255865, "D": "Hellenistic mathematician, astronomer, and geographer in Alexandria.", "S": [], "A": []}

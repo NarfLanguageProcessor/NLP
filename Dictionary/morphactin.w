@@ -1,0 +1,1 @@
+{"index": 193552, "D": "any of various synthetic compounds, derived from fluorine and carboxylic acid, that regulate the growth and development of plants.", "S": [], "A": []}

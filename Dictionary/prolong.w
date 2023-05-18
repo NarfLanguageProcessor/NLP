@@ -1,0 +1,1 @@
+{"index": 252192, "D": "to lengthen out in time; extend the duration of; cause to continue longer", "S": ["continue ", "delay ", "drag out ", "lengthen ", "perpetuate ", "protract ", "stall "], "A": ["abbreviate ", "advance ", "cease ", "expedite ", "further ", "halt ", "shorten ", "stop "]}

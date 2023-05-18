@@ -1,0 +1,1 @@
+{"index": 276827, "D": "any of certain persons of exceptional holiness of life, formally recognized as such by the Christian Church, especially by canonization.", "S": ["angel ", "martyr "], "A": []}

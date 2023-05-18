@@ -1,0 +1,1 @@
+{"index": 228433, "D": "the pod or the enclosed edible seed of the plant, Arachis hypogaea, of the legume family", "S": ["groundnut "], "A": []}

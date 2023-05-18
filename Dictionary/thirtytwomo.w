@@ -1,0 +1,1 @@
+{"index": 322213, "D": "a book size of about 3\u00bc \u00d7 5\u00bd inches (8.3 \u00d7 14 centimeters), determined by printing on sheets that are folded to form 32 leaves or 64 pages. Symbols", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 230098, "D": "any of a class of polysaccharides that occur in plants, humus, etc., and form pentoses upon hydrolysis.", "S": [], "A": []}

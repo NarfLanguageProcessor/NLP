@@ -1,0 +1,1 @@
+{"index": 29674, "D": "to make or become beautiful. ", "S": ["artistic ", "developmental "], "A": []}

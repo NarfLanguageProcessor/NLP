@@ -1,0 +1,1 @@
+{"index": 240989, "D": "pertaining to the feet.", "S": [], "A": []}

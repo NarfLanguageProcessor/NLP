@@ -1,0 +1,1 @@
+{"index": 307533, "D": "the state or quality of being concave. ", "S": [], "A": []}

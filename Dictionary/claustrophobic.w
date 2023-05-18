@@ -1,0 +1,1 @@
+{"index": 59506, "D": "relating to, having, or experiencing claustrophobia. ", "S": ["confined ", "cramped ", "enclosed ", "limited "], "A": ["roomy ", "spacious ", "airy ", "open "]}

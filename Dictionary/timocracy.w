@@ -1,0 +1,1 @@
+{"index": 323823, "D": "a form of government  in which love of honor is the dominant motive of the rulers.", "S": [], "A": []}

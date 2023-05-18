@@ -1,0 +1,1 @@
+{"index": 99066, "D": "either of a pair of optical isomers that are mirror images of each other.", "S": [], "A": []}

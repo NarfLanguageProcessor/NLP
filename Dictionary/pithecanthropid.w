@@ -1,0 +1,1 @@
+{"index": 238289, "D": "a member of the former genus Pithecanthropus, now assigned to the proposed species Homo erectus.", "S": [], "A": []}

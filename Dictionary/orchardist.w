@@ -1,0 +1,1 @@
+{"index": 214101, "D": "a person who owns, manages, or cultivates an orchard. ", "S": [], "A": []}

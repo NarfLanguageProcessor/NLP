@@ -1,0 +1,1 @@
+{"index": 269738, "D": "pertaining to or serving for respiration", "S": ["gasping ", "panting ", "wheezing "], "A": ["breathless ", "dead ", "deceased ", "lifeless "]}

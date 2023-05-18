@@ -1,0 +1,1 @@
+{"index": 79163, "D": "a person who defects  from a cause, country, alliance, etc.", "S": ["deserter ", "renegade ", "turncoat "], "A": []}

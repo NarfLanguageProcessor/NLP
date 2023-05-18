@@ -1,0 +1,1 @@
+{"index": 177993, "D": "2nd person singular present indicative of may1. ", "S": [], "A": []}

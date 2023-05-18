@@ -1,0 +1,1 @@
+{"index": 153612, "D": "singular of insignia. ", "S": [], "A": []}

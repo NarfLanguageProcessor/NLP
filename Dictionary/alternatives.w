@@ -1,0 +1,1 @@
+{"index": 9495, "D": "a choice limited to one of two or more possibilities, as of things, propositions, or courses of action, the selection of which precludes any other possibility", "S": ["opportunity ", "option ", "substitute "], "A": ["rejection "]}

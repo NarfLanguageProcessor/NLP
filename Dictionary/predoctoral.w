@@ -1,0 +1,1 @@
+{"index": 247119, "D": "of or relating to study undertaken in preparation for a doctoral degree.", "S": [], "A": []}

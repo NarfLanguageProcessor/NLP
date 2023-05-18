@@ -1,0 +1,1 @@
+{"index": 367244, "D": "any of various small ferns of the genus Woodsia, of northern temperate, alpine, and Arctic regions, having short, stout stalks, usually lance-shaped fronds, and often covered with fine hairs", "S": [], "A": []}

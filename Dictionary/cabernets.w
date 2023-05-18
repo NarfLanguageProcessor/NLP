@@ -1,0 +1,1 @@
+{"index": 43920, "D": "a premium red grape used in winemaking, especially in the Bordeaux region of France and in northern California.", "S": ["merlot "], "A": []}

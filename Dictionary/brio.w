@@ -1,0 +1,1 @@
+{"index": 40889, "D": "vigor; vivacity.", "S": ["liveliness ", "verve "], "A": ["apathy ", "dullness ", "enervation ", "idleness ", "inactivity ", "laziness ", "lethargy "]}

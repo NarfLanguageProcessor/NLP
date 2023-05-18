@@ -1,0 +1,1 @@
+{"index": 49487, "D": "of or relating to catechesis. ", "S": [], "A": []}

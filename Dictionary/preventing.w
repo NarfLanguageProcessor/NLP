@@ -1,0 +1,1 @@
+{"index": 250162, "D": "to keep from occurring; avert; hinder", "S": ["excessive ", "exorbitant ", "preposterous ", "steep "], "A": ["cheap ", "inexpensive ", "moderate ", "reasonable ", "sensible "]}

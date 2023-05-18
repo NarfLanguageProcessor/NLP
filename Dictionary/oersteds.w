@@ -1,0 +1,1 @@
+{"index": 211498, "D": "the centimeter-gram-second unit of magnetic intensity, equal to the magnetic pole of unit strength when undergoing a force of one dyne in a vacuum. Abbreviation", "S": [], "A": []}

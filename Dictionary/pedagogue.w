@@ -1,0 +1,1 @@
+{"index": 228737, "D": "a teacher; schoolteacher.", "S": ["educator ", "lecturer ", "professor ", "schoolmaster ", "schoolteacher ", "teacher "], "A": ["pupil ", "student "]}

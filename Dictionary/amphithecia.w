@@ -1,0 +1,1 @@
+{"index": 11243, "D": "the layer or one of the layers of cells in the capsule of a moss surrounding the spores.", "S": [], "A": []}

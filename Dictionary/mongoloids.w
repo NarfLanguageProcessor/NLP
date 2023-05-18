@@ -1,0 +1,1 @@
+{"index": 191934, "D": "resembling the Mongols. ", "S": [], "A": []}

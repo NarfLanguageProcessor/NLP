@@ -1,0 +1,1 @@
+{"index": 149585, "D": "existence in something else; inherence", "S": [], "A": []}

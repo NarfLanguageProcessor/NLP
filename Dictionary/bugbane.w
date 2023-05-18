@@ -1,0 +1,1 @@
+{"index": 42285, "D": "any of several tall, erect plants belonging to the genus Cimicifuga, of the buttercup family, as C. americana, of the eastern U.S., having loose, elongated clusters of white flowers.", "S": [], "A": []}

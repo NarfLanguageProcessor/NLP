@@ -1,0 +1,1 @@
+{"index": 262066, "D": "the act or an instance of assessing again", "S": ["analysis ", "audit ", "check ", "inspection ", "report ", "revision ", "scrutiny ", "survey "], "A": ["ignorance ", "neglect "]}

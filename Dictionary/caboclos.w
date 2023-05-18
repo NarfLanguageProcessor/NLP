@@ -1,0 +1,1 @@
+{"index": 43989, "D": "a Brazilian of Indian or mixed Indian and white ancestry.", "S": [], "A": []}

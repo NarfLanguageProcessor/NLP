@@ -1,0 +1,1 @@
+{"index": 76351, "D": "of delicate beauty; exquisite", "S": ["cute ", "elegant ", "ethereal ", "exquisite ", "graceful ", "lacy ", "neat ", "petite ", "tasteful ", "tasty "], "A": ["crude ", "tasteless ", "ugly ", "unrefined ", "unsophisticated ", "bad ", "dark ", "disagreeable ", "distasteful ", "horrible ", "inferior ", "poor ", "repulsive ", "rough ", "unpleasant "]}

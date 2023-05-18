@@ -1,0 +1,1 @@
+{"index": 44309, "D": "a small, blackish beetle, Tenebroides mauritanicus, that feeds, as both larva and adult, on stored grain and on other insects.", "S": [], "A": []}

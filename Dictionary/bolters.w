@@ -1,0 +1,1 @@
+{"index": 37640, "D": "a movable bar or rod that when slid into a socket fastens a door, gate, etc.", "S": ["absentee ", "escapee ", "quitter ", "truant "], "A": []}

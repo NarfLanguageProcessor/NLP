@@ -1,0 +1,1 @@
+{"index": 146420, "D": "Compare sensorimotor (def. 1). ", "S": [], "A": []}

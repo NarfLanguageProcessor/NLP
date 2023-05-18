@@ -1,0 +1,1 @@
+{"index": 125122, "D": "a gymnasium.", "S": ["field ", "gymnasium ", "park ", "ring ", "rink ", "square ", "stadium ", "stage "], "A": []}

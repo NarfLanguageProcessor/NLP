@@ -1,0 +1,1 @@
+{"index": 119406, "D": "a college or high school freshman.", "S": ["novice ", "rookie ", "undergraduate "], "A": ["expert ", "professional "]}

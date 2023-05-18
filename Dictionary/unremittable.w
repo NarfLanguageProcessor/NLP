@@ -1,0 +1,1 @@
+{"index": 349481, "D": "to transmit or send (money, a check, etc.) to a person or place, usually in payment.", "S": [], "A": []}

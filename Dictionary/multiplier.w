@@ -1,0 +1,1 @@
+{"index": 195281, "D": "a person or thing that multiplies. ", "S": [], "A": []}

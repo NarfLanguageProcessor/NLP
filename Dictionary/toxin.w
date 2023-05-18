@@ -1,0 +1,1 @@
+{"index": 326929, "D": "any poison produced by an organism, characterized by antigenicity in certain animals and high molecular weight, and including the bacterial toxins that are the causative agents of tetanus, diphtheria, etc., and such plant and animal toxins as ricin and snake venom.", "S": ["contamination ", "germ ", "infection ", "venom ", "virus "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 146517, "D": "a disease not preceded or occasioned by any known morbid condition.", "S": [], "A": []}

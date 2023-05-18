@@ -1,0 +1,1 @@
+{"index": 4694, "D": "considered (usually used in combination)", "S": ["considered "], "A": ["ill-advised "]}

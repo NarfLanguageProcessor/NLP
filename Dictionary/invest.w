@@ -1,0 +1,1 @@
+{"index": 157165, "D": "to put (money) to use, by purchase or expenditure, in something offering potential profitable returns, as interest, income, or appreciation in value.", "S": ["devote ", "lend ", "provide ", "spend ", "supply "], "A": ["take ", "increase ", "rise "]}

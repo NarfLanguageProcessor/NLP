@@ -1,0 +1,1 @@
+{"index": 162442, "D": "pertaining to, constituting, or expressed in an oath.", "S": [], "A": []}

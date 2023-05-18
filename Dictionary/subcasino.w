@@ -1,0 +1,1 @@
+{"index": 307368, "D": "a building or large room used for meetings, entertainment, dancing, etc., especially such a place equipped with gambling devices, gambling tables, etc.", "S": [], "A": []}

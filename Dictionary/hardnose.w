@@ -1,0 +1,1 @@
+{"index": 133690, "D": "a person who is tough, practical, and unsentimental, especially in business", "S": [], "A": []}

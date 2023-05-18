@@ -1,0 +1,1 @@
+{"index": 160056, "D": "a mineral, essentially sodium aluminum silicate, NaAlSi2O6, usually fibrous, occurring in compact masses, whitish to dark green", "S": [], "A": []}

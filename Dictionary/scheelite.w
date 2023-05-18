@@ -1,0 +1,1 @@
+{"index": 280069, "D": "calcium tungstate, CaWO4, usually occurring in tetragonal crystals", "S": [], "A": []}

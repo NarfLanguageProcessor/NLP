@@ -1,0 +1,1 @@
+{"index": 71599, "D": "a person whose occupation is tending and herding cows.", "S": ["herder ", "rancher "], "A": []}

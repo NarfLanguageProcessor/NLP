@@ -1,0 +1,1 @@
+{"index": 53365, "D": "a place along a road, border, etc., where travelers are stopped for inspection.", "S": [], "A": []}

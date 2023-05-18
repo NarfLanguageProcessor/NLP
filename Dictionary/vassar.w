@@ -1,0 +1,1 @@
+{"index": 357464, "D": "U.S. merchant, philanthropist, and supporter of education for women; born in England", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 190606, "D": "lessened in force, severity, or intensity; moderated", "S": [], "A": []}

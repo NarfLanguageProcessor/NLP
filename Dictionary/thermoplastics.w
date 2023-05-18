@@ -1,0 +1,1 @@
+{"index": 321485, "D": "soft and pliable when heated, as some plastics,  without any change of the inherent properties.", "S": [], "A": []}

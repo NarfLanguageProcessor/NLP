@@ -1,0 +1,1 @@
+{"index": 83307, "D": "the act of wearing away by rubbing.", "S": [], "A": []}

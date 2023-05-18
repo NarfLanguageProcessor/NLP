@@ -1,0 +1,1 @@
+{"index": 28671, "D": "the midpoint of the anterior margin of the foramen magnum.", "S": [], "A": []}

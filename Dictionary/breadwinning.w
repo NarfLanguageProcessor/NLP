@@ -1,0 +1,1 @@
+{"index": 40227, "D": "a person who earns a livelihood, especially one who also supports dependents.", "S": [], "A": []}

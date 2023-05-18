@@ -1,0 +1,1 @@
+{"index": 3581, "D": "to make or become confused.", "S": ["baffle ", "befuddle ", "bewilder ", "confound ", "discombobulate ", "disconcert ", "fuddle ", "muddle ", "muddy ", "mystify ", "perplex ", "puzzle "], "A": ["clarify ", "clear up ", "enlighten ", "explain ", "explicate "]}

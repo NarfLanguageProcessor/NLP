@@ -1,0 +1,1 @@
+{"index": 6911, "D": "a dim light from the upper atmosphere caused by emissions from atoms and molecules ionized by solar radiation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 19789, "D": "of, pertaining to, based on, or derived from Aristotle  or his theories.", "S": [], "A": []}

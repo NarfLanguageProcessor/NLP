@@ -1,0 +1,1 @@
+{"index": 168144, "D": "characterized by languor;  languid.", "S": [], "A": []}

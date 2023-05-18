@@ -1,0 +1,1 @@
+{"index": 177508, "D": "the properties of attraction possessed by magnets;  the molecular properties common to magnets. ", "S": ["allure ", "charisma "], "A": ["impotence ", "incapacity ", "ugliness ", "weakness "]}

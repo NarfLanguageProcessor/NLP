@@ -1,0 +1,1 @@
+{"index": 168910, "D": "a heavy pole or stick, especially one used as a club by police.", "S": [], "A": []}

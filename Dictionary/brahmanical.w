@@ -1,0 +1,1 @@
+{"index": 39671, "D": "Compare Kshatriya, Shudra, Vaisya. ", "S": [], "A": []}

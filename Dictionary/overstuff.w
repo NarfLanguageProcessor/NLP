@@ -1,0 +1,1 @@
+{"index": 221437, "D": "to force too much into", "S": ["cram ", "fill ", "pack ", "pad ", "shove ", "squeeze ", "stow ", "wedge "], "A": ["use ", "abstain ", "deprive ", "diet ", "dissatisfy ", "fast ", "repress ", "suppress "]}

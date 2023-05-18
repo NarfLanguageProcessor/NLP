@@ -1,0 +1,1 @@
+{"index": 213371, "D": "the worship of snakes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 345517, "D": "(of bread, cake, cookies, etc.) containing no leaven  or leavening  agent.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 276775, "D": "a long board,  usually of Plexiglas, used for windsurfing, having a mount for a sail,  a daggerboard, and a small skeg.", "S": [], "A": []}

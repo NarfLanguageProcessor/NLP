@@ -1,0 +1,1 @@
+{"index": 9574, "D": "a person unselfishly concerned for or devoted to the welfare of others (opposed to egoist).", "S": ["backer ", "contributor ", "patron ", "philanthropist ", "promoter ", "protector ", "supporter "], "A": ["opponent "]}

@@ -1,0 +1,1 @@
+{"index": 157027, "D": "an infirm or sickly person.", "S": [], "A": []}

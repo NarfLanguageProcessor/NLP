@@ -1,0 +1,1 @@
+{"index": 22652, "D": "a city in and the capital of Georgia, in the N part.", "S": [], "A": []}

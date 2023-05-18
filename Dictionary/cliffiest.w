@@ -1,0 +1,1 @@
+{"index": 59931, "D": "abounding in or formed by cliffs", "S": [], "A": []}

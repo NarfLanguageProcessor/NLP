@@ -1,0 +1,1 @@
+{"index": 211784, "D": "of or relating to a circuit element, the electrical resistance of which obeys Ohm's law", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 225402, "D": "puncture of the wall of a cavity to drain off fluid.", "S": [], "A": []}

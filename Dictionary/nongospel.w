@@ -1,0 +1,1 @@
+{"index": 204308, "D": "the teachings of Jesus and the apostles; the Christian revelation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 283261, "D": "a large beer mug with a capacity of one liter (1.1 quarts) and often having a hinged lid.", "S": [], "A": []}

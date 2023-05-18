@@ -1,0 +1,1 @@
+{"index": 192119, "D": "having a gynoecium that forms only a single ovary.", "S": [], "A": []}

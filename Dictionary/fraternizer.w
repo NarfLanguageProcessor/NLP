@@ -1,0 +1,1 @@
+{"index": 118468, "D": "to associate in a fraternal  or friendly way.", "S": [], "A": []}

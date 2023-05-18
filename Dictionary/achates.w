@@ -1,0 +1,1 @@
+{"index": 2209, "D": "(in the Aeneid) the faithful companion and friend of Aeneas.", "S": [], "A": []}

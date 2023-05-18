@@ -1,0 +1,1 @@
+{"index": 185135, "D": "a transient fiery streak in the sky produced by a meteoroid  passing through the earth's atmosphere; a shooting star or bolide.", "S": [], "A": []}

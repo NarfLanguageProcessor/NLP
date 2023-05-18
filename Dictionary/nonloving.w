@@ -1,0 +1,1 @@
+{"index": 205085, "D": "feeling or showing love;  warmly affectionate; fond", "S": [], "A": []}

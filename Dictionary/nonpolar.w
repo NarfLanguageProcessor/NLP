@@ -1,0 +1,1 @@
+{"index": 206031, "D": "containing no permanently dipolar molecules; lacking a dipole.", "S": [], "A": []}

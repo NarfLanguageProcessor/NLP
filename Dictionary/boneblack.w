@@ -1,0 +1,1 @@
+{"index": 37840, "D": "a black, carbonaceous substance obtained by calcining bones  in closed vessels, used as a black pigment, a decolorizing agent, etc.", "S": [], "A": []}

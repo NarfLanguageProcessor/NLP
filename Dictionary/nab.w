@@ -1,0 +1,1 @@
+{"index": 196402, "D": "to arrest or capture.", "S": ["apprehend ", "arrest ", "capture ", "catch ", "clutch ", "cop ", "detain ", "grab ", "nail ", "snatch ", "take "], "A": ["free ", "give ", "let go ", "liberate ", "lose ", "misunderstand ", "receive ", "release ", "unfasten "]}

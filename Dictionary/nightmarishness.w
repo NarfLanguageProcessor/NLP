@@ -1,0 +1,1 @@
+{"index": 199961, "D": "resembling a nightmare,  especially in being terrifying, exasperating, or the like", "S": [], "A": []}

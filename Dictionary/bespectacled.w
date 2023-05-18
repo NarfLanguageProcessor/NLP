@@ -1,0 +1,1 @@
+{"index": 32488, "D": "wearing eyeglasses.", "S": [], "A": []}

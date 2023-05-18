@@ -1,0 +1,1 @@
+{"index": 224184, "D": "a German count palatine.", "S": [], "A": []}

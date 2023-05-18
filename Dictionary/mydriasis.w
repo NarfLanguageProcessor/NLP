@@ -1,0 +1,1 @@
+{"index": 186799, "D": "excessive dilatation of the pupil of the eye, as the result of disease, drugs, or the like.", "S": [], "A": []}

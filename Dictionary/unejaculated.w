@@ -1,0 +1,1 @@
+{"index": 341077, "D": "to utter suddenly and briefly; exclaim.", "S": [], "A": []}

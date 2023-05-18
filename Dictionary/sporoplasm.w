@@ -1,0 +1,1 @@
+{"index": 301012, "D": "the protoplasm within a spore that is injected into a host cell by various parasitic organisms.", "S": [], "A": []}

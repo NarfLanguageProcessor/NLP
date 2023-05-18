@@ -1,0 +1,1 @@
+{"index": 313695, "D": "admitting or capable of some specified treatment", "S": ["affected ", "easy ", "impressionable ", "inclined ", "liable ", "prone ", "ready ", "receptive ", "responsive ", "sensitive ", "vulnerable ", "wide open "], "A": ["insensitive ", "unlikely ", "unresponsive ", "unsusceptible "]}

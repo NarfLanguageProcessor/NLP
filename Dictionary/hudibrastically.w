@@ -1,0 +1,1 @@
+{"index": 144696, "D": "of, relating to, or resembling the style of Samuel Butler's Hudibras (published 1663\u201378), a mock-heroic poem written in tetrameter couplets.", "S": [], "A": []}

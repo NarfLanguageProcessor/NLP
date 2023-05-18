@@ -1,0 +1,1 @@
+{"index": 204780, "D": "serving or acting as an instrument or means; useful; helpful.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 204982, "D": "pertaining to, of the nature of, or bearing legumes. ", "S": [], "A": []}

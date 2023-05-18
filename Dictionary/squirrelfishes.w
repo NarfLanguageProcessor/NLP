@@ -1,0 +1,1 @@
+{"index": 302055, "D": "any of several brightly colored, nocturnal fishes of the family Holocentridae, inhabiting shallow waters of tropical reefs, especially the reddish Holocentrus ascensionis of the West Indies, armed with sharp spines and scales.", "S": [], "A": []}

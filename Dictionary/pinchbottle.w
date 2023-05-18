@@ -1,0 +1,1 @@
+{"index": 236931, "D": "a bottle  with concave sides, as for containing liquor.", "S": [], "A": []}

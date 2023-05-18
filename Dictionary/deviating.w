@@ -1,0 +1,1 @@
+{"index": 83529, "D": "to turn aside, as from a route, way, course, etc.", "S": ["straying "], "A": []}

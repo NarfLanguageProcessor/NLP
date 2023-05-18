@@ -1,0 +1,1 @@
+{"index": 41481, "D": "a greenish-brown or black mineral with a bronzelike luster, an orthorhombic pyroxene, (Mg,Fe)2(Si2O6), intermediate in composition between enstatite and hypersthene.", "S": [], "A": []}

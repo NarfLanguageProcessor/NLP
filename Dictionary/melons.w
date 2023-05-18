@@ -1,0 +1,1 @@
+{"index": 183060, "D": "the fruit of any of various plants of the gourd family, as the muskmelon or watermelon.", "S": ["cantaloupe ", "gourd ", "papaya ", "watermelon "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 126168, "D": "an obsolete spelling of glue. ", "S": [], "A": []}

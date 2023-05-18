@@ -1,0 +1,1 @@
+{"index": 13541, "D": "that can be annihilated. ", "S": [], "A": []}

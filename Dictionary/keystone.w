@@ -1,0 +1,1 @@
+{"index": 163690, "D": "the wedge-shaped piece at the summit of an arch, regarded as holding the other pieces in place.", "S": ["base ", "cornerstone ", "foundation ", "fundament "], "A": []}

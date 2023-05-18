@@ -1,0 +1,1 @@
+{"index": 264376, "D": "that is to be feared; formidable. ", "S": [], "A": []}

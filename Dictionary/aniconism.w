@@ -1,0 +1,1 @@
+{"index": 13096, "D": "opposition to the use of idols or images.", "S": [], "A": []}

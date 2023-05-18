@@ -1,0 +1,1 @@
+{"index": 186004, "D": "the climate  of a small area, as of confined spaces such as caves or houses (cryptoclimate ), of plant communities, wooded areas, etc. (phytoclimate ), or of urban communities, which may be different from that in the general region.", "S": [], "A": []}

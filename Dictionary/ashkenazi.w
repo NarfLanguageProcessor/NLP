@@ -1,0 +1,1 @@
+{"index": 21158, "D": " a member of the diasporic Jewish population that settled in central and eastern Europe, distinguished from the Sephardim chiefly by liturgy, religious customs, and pronunciation of Hebrew", "S": [], "A": []}

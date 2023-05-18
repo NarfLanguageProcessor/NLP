@@ -1,0 +1,1 @@
+{"index": 53105, "D": "changing in luster or color", "S": [], "A": []}

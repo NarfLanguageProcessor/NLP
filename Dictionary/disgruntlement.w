@@ -1,0 +1,1 @@
+{"index": 88183, "D": "to put into a state of sulky dissatisfaction; make discontent.", "S": ["discontent ", "discontentedness ", "discontentment ", "displeasure ", "dissatisfaction "], "A": ["happiness ", "pleasure ", "satisfaction "]}

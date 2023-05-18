@@ -1,0 +1,1 @@
+{"index": 342165, "D": "to ward off (often followed by off)", "S": [], "A": []}

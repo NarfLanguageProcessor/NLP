@@ -1,0 +1,1 @@
+{"index": 341147, "D": "not embarrassed, disconcerted, or flustered", "S": ["easy ", "genuine ", "instinctive ", "real ", "simple "], "A": ["complex ", "complicated ", "difficult ", "dishonest ", "false ", "intricate ", "cultured ", "metropolitan ", "modern ", "sophisticated "]}

@@ -1,0 +1,1 @@
+{"index": 31610, "D": "of or relating to Bengal; Bengali. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 369622, "D": "any of the free-swimming larva of certain crustaceans, as the crab, having rudimentary legs and a spiny carapace.", "S": [], "A": []}

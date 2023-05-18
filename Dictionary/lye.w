@@ -1,0 +1,1 @@
+{"index": 171802, "D": "a highly concentrated, aqueous solution of potassium hydroxide or sodium hydroxide.", "S": [], "A": []}

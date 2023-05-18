@@ -1,0 +1,1 @@
+{"index": 89719, "D": "a usually fatal viral disease of cats, characterized by fever, vomiting, and diarrhea, leading to severe dehydration.", "S": ["affliction ", "ailment ", "disease ", "disorder ", "illness ", "infection ", "malady ", "paint ", "testiness "], "A": ["health "]}

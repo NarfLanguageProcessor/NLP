@@ -1,0 +1,1 @@
+{"index": 265405, "D": "refracting; refractive.", "S": [], "A": []}

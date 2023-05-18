@@ -1,0 +1,1 @@
+{"index": 331784, "D": "a member of a group of Indigenous peoples of the coastal region of British Columbia  and Annette Island, Alaska.", "S": [], "A": []}

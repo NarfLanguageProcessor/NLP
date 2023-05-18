@@ -1,0 +1,1 @@
+{"index": 154390, "D": "something that is planned, proposed, or intended; purpose; design; intention", "S": ["decided ", "hell-bent ", "preoccupied ", "resolved "], "A": ["flexible ", "indefinite ", "soft ", "trivial ", "unconcerned ", "undecided ", "unenthusiastic ", "unfixed ", "unstable ", "weak "]}

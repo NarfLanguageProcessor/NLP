@@ -1,0 +1,1 @@
+{"index": 166422, "D": "a ceremonial gift exchange practised among a group of islanders in the W Pacific, used to establish relations between islands", "S": [], "A": []}

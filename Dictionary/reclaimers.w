@@ -1,0 +1,1 @@
+{"index": 262959, "D": "to bring (uncultivated areas or wasteland) into a condition for cultivation or other use.", "S": [], "A": []}

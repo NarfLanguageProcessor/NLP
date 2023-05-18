@@ -1,0 +1,1 @@
+{"index": 171143, "D": "a dense, white opacity of the cornea.", "S": [], "A": []}

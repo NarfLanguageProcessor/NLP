@@ -1,0 +1,1 @@
+{"index": 77528, "D": "The lack or severe impairment of the ability to hear. Deafness is usually genetic or congenital as a result of prenatal viral infection, birth trauma, or other causes. Acquired deafness is caused mostly by drug toxicity, trauma, and certain diseases. Cochlear implants are used to treat some forms of deafness.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1693, "D": "the notes to which a stringed instrument is tuned.", "S": [], "A": []}

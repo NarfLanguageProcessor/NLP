@@ -1,0 +1,1 @@
+{"index": 21972, "D": "to declare earnestly to; inform or tell positively; state with confidence to", "S": ["acceptable ", "expected ", "fair ", "feasible ", "inclined ", "possible ", "prone ", "reasonable "], "A": ["impossible ", "unlikely ", "unreasonable "]}

@@ -1,0 +1,1 @@
+{"index": 188089, "D": "any of the cells derived from the mesoderm in the vertebrate embryo that develop into muscle tissue.", "S": [], "A": []}

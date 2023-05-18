@@ -1,0 +1,1 @@
+{"index": 115414, "D": "a white, crystalline, water-insoluble solid, C13H10, used chiefly in the manufacture of resins and dyes.", "S": [], "A": []}

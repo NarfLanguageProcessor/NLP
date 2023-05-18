@@ -1,0 +1,1 @@
+{"index": 17353, "D": "of or relating to apoplexy  or stroke.", "S": ["frozen ", "immobile ", "inert ", "lifeless ", "paralyzed ", "stagnant ", "stationary ", "steadfast "], "A": ["alive ", "lively ", "mobile ", "moving ", "unfixed "]}

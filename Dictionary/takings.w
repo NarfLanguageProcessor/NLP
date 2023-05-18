@@ -1,0 +1,1 @@
+{"index": 315518, "D": "the act of a person or thing that takes. ", "S": ["spoils "], "A": []}

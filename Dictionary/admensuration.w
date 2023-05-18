@@ -1,0 +1,1 @@
+{"index": 4123, "D": [], "S": ["part ", "quota "], "A": ["extreme ", "unimportance ", "whole "]}

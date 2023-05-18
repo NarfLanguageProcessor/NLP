@@ -1,0 +1,1 @@
+{"index": 356748, "D": "any of the beautiful maidens attendant upon Odin who bring the souls of slain warriors chosen by Odin or Tyr to Valhalla and there wait upon them.", "S": [], "A": []}

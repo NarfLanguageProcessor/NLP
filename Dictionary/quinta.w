@@ -1,0 +1,1 @@
+{"index": 258874, "D": "an inn, especially one in the countryside.", "S": ["area ", "farm ", "parcel ", "plantation ", "ranch ", "residence "], "A": []}

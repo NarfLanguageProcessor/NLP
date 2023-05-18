@@ -1,0 +1,1 @@
+{"index": 306571, "D": "consisting of, pertaining to, or characterized by a strophe  or strophes. ", "S": [], "A": []}

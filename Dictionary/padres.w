@@ -1,0 +1,1 @@
+{"index": 222871, "D": "father (used especially in addressing or referring to a priest or member of the clergy).", "S": ["bishop ", "chaplain ", "cleric ", "evangelist ", "missionary ", "pastor ", "pontiff ", "preacher ", "priest ", "rabbi "], "A": ["layman ", "layperson "]}

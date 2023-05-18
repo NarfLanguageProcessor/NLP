@@ -1,0 +1,1 @@
+{"index": 303356, "D": "the presence of excess fat in the stools, usually caused by disease of the pancreas or intestine, and characterized by chronic diarrhea and weight loss.", "S": [], "A": []}

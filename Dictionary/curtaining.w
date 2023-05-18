@@ -1,0 +1,1 @@
+{"index": 75497, "D": "a hanging piece of fabric used to shut out the light from a window, adorn a room, increase privacy, etc.", "S": ["cloak ", "enclose ", "enfold ", "shroud "], "A": ["let go ", "expose ", "lay bare ", "open ", "reveal ", "show ", "tell ", "uncover ", "unmask ", "unwrap "]}

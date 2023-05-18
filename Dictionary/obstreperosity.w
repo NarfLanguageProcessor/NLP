@@ -1,0 +1,1 @@
+{"index": 210486, "D": "resisting control or restraint in a difficult manner; unruly. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 132260, "D": "worried or tormented, as by a witch.", "S": [], "A": []}

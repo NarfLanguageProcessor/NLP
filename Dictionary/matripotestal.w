@@ -1,0 +1,1 @@
+{"index": 181267, "D": "of or relating to the authority exercised by a mother or a mother's blood relatives.", "S": [], "A": []}

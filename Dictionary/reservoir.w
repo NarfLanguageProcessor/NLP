@@ -1,0 +1,1 @@
+{"index": 269251, "D": "a natural or artificial place where water is collected and stored for use, especially water for supplying a community, irrigating land, furnishing power, etc.", "S": ["basin ", "cistern ", "container ", "lake ", "pond ", "pool ", "reserve ", "source ", "stockpile ", "storage ", "supply ", "tank "], "A": ["lack "]}

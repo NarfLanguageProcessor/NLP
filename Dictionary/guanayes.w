@@ -1,0 +1,1 @@
+{"index": 130706, "D": "a cormorant, Phalacrocorax bougainvillii, of islands off the coasts of Peru and Chile, a chief source of guano.", "S": [], "A": []}

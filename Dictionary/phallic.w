@@ -1,0 +1,1 @@
+{"index": 232888, "D": "of, relating to, or resembling a phallus. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309033, "D": "a submarine.", "S": ["alternate ", "auxiliary ", "backup ", "replacement ", "second ", "standby ", "understudy "], "A": []}

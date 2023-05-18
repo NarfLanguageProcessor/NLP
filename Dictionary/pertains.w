@@ -1,0 +1,1 @@
+{"index": 232082, "D": "3rd person singular present indicative of pertain. ", "S": ["apply ", "refer ", "relate "], "A": ["disconnect ", "disjoin ", "divide ", "part ", "separate "]}

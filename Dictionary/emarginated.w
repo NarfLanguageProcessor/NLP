@@ -1,0 +1,1 @@
+{"index": 97936, "D": "notched at the margin.", "S": ["incised ", "serrate ", "serrated "], "A": []}

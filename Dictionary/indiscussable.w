@@ -1,0 +1,1 @@
+{"index": 151091, "D": "unsuitable for or not subject or open to discussion; not negotiable.", "S": [], "A": []}

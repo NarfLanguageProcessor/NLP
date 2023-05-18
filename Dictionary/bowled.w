@@ -1,0 +1,1 @@
+{"index": 39206, "D": "a rather deep, round dish or basin, used chiefly for holding liquids, food, etc.", "S": ["basin ", "dish ", "pot ", "urn "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 312209, "D": "making a splendid appearance or show; of exceptional beauty, size, etc.", "S": [], "A": []}

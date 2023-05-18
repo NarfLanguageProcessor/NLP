@@ -1,0 +1,1 @@
+{"index": 99724, "D": "(of a lichen) having the fruiting body embedded in the thallus.", "S": [], "A": []}

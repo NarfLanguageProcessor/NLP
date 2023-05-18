@@ -1,0 +1,1 @@
+{"index": 256655, "D": "of less than normal size and strength; weak.", "S": ["feeble ", "frail ", "inconsequential ", "measly ", "paltry ", "tiny ", "trivial "], "A": ["important ", "significant ", "strong "]}

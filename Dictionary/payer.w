@@ -1,0 +1,1 @@
+{"index": 223096, "D": "a person who pays. ", "S": [], "A": []}

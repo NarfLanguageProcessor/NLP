@@ -1,0 +1,1 @@
+{"index": 144546, "D": "(in the East Indies) a seat or platform for one or more persons, commonly with a railing and a canopy, placed on the back of an elephant.", "S": ["packsaddle ", "pillion ", "seat "], "A": []}

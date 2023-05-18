@@ -1,0 +1,1 @@
+{"index": 288921, "D": "U.S. marathon runner.", "S": ["briefer ", "curtailed ", "diminished ", "less ", "lessened ", "lower ", "more concise ", "reduced "], "A": ["higher ", "longer ", "taller "]}

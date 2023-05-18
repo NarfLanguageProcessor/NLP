@@ -1,0 +1,1 @@
+{"index": 353061, "D": "to drink intoxicating liquor, especially habitually or to some excess.", "S": [], "A": []}

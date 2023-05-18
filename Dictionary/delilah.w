@@ -1,0 +1,1 @@
+{"index": 80100, "D": "Samson's mistress, who betrayed him to the Philistines. Judges 16.", "S": ["enchantress ", "jezebel ", "lorelei ", "mermaid ", "seductress ", "siren ", "sorceress "], "A": []}

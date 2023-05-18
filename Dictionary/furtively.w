@@ -1,0 +1,1 @@
+{"index": 120532, "D": "in a surreptitious, secret, or stealthy way", "S": ["clandestinely ", "secretly ", "surreptitiously "], "A": ["candidly ", "frankly ", "honestly ", "openly ", "overtly ", "publicly "]}

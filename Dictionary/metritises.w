@@ -1,0 +1,1 @@
+{"index": 185428, "D": "inflammation of the uterus.", "S": [], "A": []}

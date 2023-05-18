@@ -1,0 +1,1 @@
+{"index": 169660, "D": "to acquire knowledge of or skill in by study, instruction, or experience", "S": [], "A": []}

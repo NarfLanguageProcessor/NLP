@@ -1,0 +1,1 @@
+{"index": 189411, "D": "to hit  (a ball) badly or incorrectly, as in tennis or cricket.", "S": [], "A": []}

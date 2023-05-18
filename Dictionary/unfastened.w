@@ -1,0 +1,1 @@
+{"index": 342026, "D": "to release from or as from fastenings; detach.", "S": ["baggy ", "lax ", "relaxed ", "sloppy "], "A": ["strict ", "tight ", "hindered ", "rigid ", "stiff "]}

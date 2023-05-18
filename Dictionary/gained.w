@@ -1,0 +1,1 @@
+{"index": 121016, "D": "to get (something desired), especially as a result of one's efforts", "S": ["captured ", "collected ", "seized "], "A": ["deprived ", "forfeited ", "lost "]}

@@ -1,0 +1,1 @@
+{"index": 249197, "D": "the offering of animal, plant, or human life or of some material possession to a deity, as in propitiation or homage.", "S": [], "A": []}

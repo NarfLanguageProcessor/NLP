@@ -1,0 +1,1 @@
+{"index": 345938, "D": "spoken ill of; defamed or slandered", "S": [], "A": []}

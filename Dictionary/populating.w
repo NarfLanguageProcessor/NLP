@@ -1,0 +1,1 @@
+{"index": 243321, "D": "to inhabit; live in; be the inhabitants of", "S": ["clearing ", "establishment ", "expansion ", "founding ", "immigration ", "migration ", "settlement ", "settling ", "squatting ", "transplanting "], "A": []}

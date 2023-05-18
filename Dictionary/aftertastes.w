@@ -1,0 +1,1 @@
+{"index": 5774, "D": "a taste  remaining after  the substance causing it is no longer in the mouth.", "S": ["aftereffect ", "reaction "], "A": []}

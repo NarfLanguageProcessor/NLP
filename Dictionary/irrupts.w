@@ -1,0 +1,1 @@
+{"index": 158514, "D": "to break or burst in suddenly.", "S": ["emit ", "gush "], "A": []}

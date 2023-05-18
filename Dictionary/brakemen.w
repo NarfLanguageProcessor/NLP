@@ -1,0 +1,1 @@
+{"index": 39800, "D": "a railroad worker who assists the conductor in the operation of a train.", "S": [], "A": []}

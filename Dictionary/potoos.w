@@ -1,0 +1,1 @@
+{"index": 244770, "D": "any of several nocturnal birds of the family Nyctibiidae, of Mexico and Central and South America, related to the goatsuckers.", "S": [], "A": []}

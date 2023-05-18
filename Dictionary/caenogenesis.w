@@ -1,0 +1,1 @@
+{"index": 44422, "D": "Compare recapitulation (def. 2)", "S": [], "A": []}

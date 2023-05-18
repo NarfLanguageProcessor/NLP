@@ -1,0 +1,1 @@
+{"index": 51749, "D": "a girdle or belt, especially as worn by women of ancient Greece.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 219672, "D": "to make necessary repairs on; restore to serviceable condition", "S": ["fixed ", "redone ", "refitted ", "renovated ", "revised "], "A": []}

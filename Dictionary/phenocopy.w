@@ -1,0 +1,1 @@
+{"index": 233371, "D": "the observed result of an environmentally induced, nongenetic alteration of a phenotype to a form that resembles the expression of a known genetic mutation.", "S": [], "A": []}

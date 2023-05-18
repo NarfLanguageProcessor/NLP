@@ -1,0 +1,1 @@
+{"index": 257736, "D": "one of four copies or identical items, especially copies of typewritten material.", "S": ["quadruple ", "quaternary ", "tetrad "], "A": []}

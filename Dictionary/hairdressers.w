@@ -1,0 +1,1 @@
+{"index": 132397, "D": "a person who arranges or cuts hair. ", "S": ["beautician "], "A": []}

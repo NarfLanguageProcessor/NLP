@@ -1,0 +1,1 @@
+{"index": 330001, "D": "any marine arthropod of the extinct class Trilobita, from the Paleozoic Era, having a flattened, oval body varying in length from 1 inch (2.5 centimeters) or less to 2 feet (61 centimeters).", "S": [], "A": []}

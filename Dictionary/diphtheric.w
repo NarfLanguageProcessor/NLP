@@ -1,0 +1,1 @@
+{"index": 86448, "D": "pertaining to diphtheria.", "S": [], "A": []}

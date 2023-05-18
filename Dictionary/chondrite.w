@@ -1,0 +1,1 @@
+{"index": 55560, "D": "a stony meteorite containing chondrules.", "S": [], "A": []}

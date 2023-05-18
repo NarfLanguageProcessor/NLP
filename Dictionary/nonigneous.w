@@ -1,0 +1,1 @@
+{"index": 204520, "D": "produced under conditions involving intense heat, as rocks of volcanic origin or rocks crystallized from molten magma.", "S": [], "A": []}

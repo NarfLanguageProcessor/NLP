@@ -1,0 +1,1 @@
+{"index": 75416, "D": "a comb,  usually with rows of metal teeth, for currying  horses.", "S": [], "A": []}

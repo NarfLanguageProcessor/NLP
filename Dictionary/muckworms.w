@@ -1,0 +1,1 @@
+{"index": 194585, "D": "(not in technical use) the larva of any of several insects, as the dung beetle, which lives in or beneath manure.", "S": [], "A": []}

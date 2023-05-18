@@ -1,0 +1,1 @@
+{"index": 285410, "D": "an instrument for testing the sensitivity of various types of film, consisting of an apparatus for exposing successive parts of the film to a light of standard intensity at successively increasing lengths of exposure.", "S": [], "A": []}

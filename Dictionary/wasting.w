@@ -1,0 +1,1 @@
+{"index": 363024, "D": "gradually reducing the fullness and strength of the body", "S": ["diseased ", "feeble ", "ill ", "sickly ", "weak "], "A": ["able ", "fit ", "healthy ", "hearty ", "sound ", "strong ", "well ", "happy "]}

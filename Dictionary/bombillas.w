@@ -1,0 +1,1 @@
+{"index": 37732, "D": "a tube or drinking straw with a strainer at one end, especially for drinking mat\u00e9.", "S": [], "A": []}

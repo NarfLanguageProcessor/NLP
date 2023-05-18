@@ -1,0 +1,1 @@
+{"index": 43280, "D": "full of or covered with burs;  burlike.", "S": [], "A": []}

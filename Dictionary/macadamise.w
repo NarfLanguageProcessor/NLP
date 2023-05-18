@@ -1,0 +1,1 @@
+{"index": 176628, "D": "to pave by laying and compacting successive layers of broken stone, often with asphalt or hot tar.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 40939, "D": "to make or become more lively or brisk", "S": [], "A": []}

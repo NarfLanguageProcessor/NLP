@@ -1,0 +1,1 @@
+{"index": 254099, "D": "a clause in a legal instrument, a law, etc., providing for a particular matter; stipulation; proviso.", "S": ["conduct ", "continue ", "maintain ", "manage ", "operate ", "protect ", "run ", "support ", "sustain "], "A": ["neglect ", "abandon ", "deprive ", "disregard ", "endanger ", "forget ", "ignore ", "mismanage ", "starve "]}

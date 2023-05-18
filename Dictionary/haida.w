@@ -1,0 +1,1 @@
+{"index": 132296, "D": "a member of an Indian people inhabiting the Queen Charlotte Islands in British Columbia and Prince of Wales Island in Alaska.", "S": [], "A": []}

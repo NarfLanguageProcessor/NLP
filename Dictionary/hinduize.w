@@ -1,0 +1,1 @@
+{"index": 139691, "D": "to convert to or bring under the influence of Hinduism. ", "S": [], "A": []}

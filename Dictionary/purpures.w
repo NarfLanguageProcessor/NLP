@@ -1,0 +1,1 @@
+{"index": 257075, "D": "the tincture or color purple.", "S": [], "A": []}

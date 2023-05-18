@@ -1,0 +1,1 @@
+{"index": 55373, "D": "x-ray examination of the bile ducts using a radiopaque contrast medium.", "S": [], "A": []}

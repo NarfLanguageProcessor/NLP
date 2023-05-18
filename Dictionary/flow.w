@@ -1,0 +1,1 @@
+{"index": 115170, "D": "to move along in a stream", "S": ["discharge ", "flood ", "leakage ", "movement ", "outflow ", "progress ", "stream ", "tide ", "wind "], "A": ["end ", "few ", "finish ", "lack ", "little ", "need ", "scarcity ", "stop ", "stoppage ", "want "]}

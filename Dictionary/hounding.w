@@ -1,0 +1,1 @@
+{"index": 144355, "D": "the portion of a lower mast between the cheeks or hounds  and the deck.", "S": ["assault ", "attack ", "beating ", "censure ", "charge ", "jumping ", "strike ", "torment "], "A": ["retreat "]}

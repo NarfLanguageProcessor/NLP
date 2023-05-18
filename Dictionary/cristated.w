@@ -1,0 +1,1 @@
+{"index": 73443, "D": "having a crest; crested.", "S": [], "A": []}

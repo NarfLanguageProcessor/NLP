@@ -1,0 +1,1 @@
+{"index": 8218, "D": "the act of alienating,  or of causing someone to become indifferent or hostile", "S": ["disaffection ", "estrangement ", "indifference ", "separation "], "A": ["agreement ", "connection "]}

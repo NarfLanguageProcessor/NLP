@@ -1,0 +1,1 @@
+{"index": 70612, "D": "a charge of wrongdoing; imputation of guilt or blame.", "S": ["rejoinder ", "reply "], "A": []}

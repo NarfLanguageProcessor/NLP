@@ -1,0 +1,1 @@
+{"index": 259071, "D": "a person who asks questions of contestants in a game, especially as part of a radio or television program.", "S": ["appraiser ", "auditor ", "inspector ", "investigator "], "A": []}

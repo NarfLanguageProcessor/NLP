@@ -1,0 +1,1 @@
+{"index": 134058, "D": "the time  of year when a crop or crops are harvested,  especially autumn.", "S": ["intake ", "output ", "result ", "yield "], "A": ["beginning ", "cause ", "commencement ", "origin ", "rise ", "source ", "start "]}

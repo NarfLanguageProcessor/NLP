@@ -1,0 +1,1 @@
+{"index": 241687, "D": "a member of a police force  or body.", "S": [], "A": []}

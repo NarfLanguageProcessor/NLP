@@ -1,0 +1,1 @@
+{"index": 25816, "D": "a hydraulic excavating machine consisting of a tractor having an attached hinged boom, with a bucket with movable jaws on the end of the boom.", "S": ["excavator ", "grader ", "heavy machinery ", "tracked vehicle "], "A": []}

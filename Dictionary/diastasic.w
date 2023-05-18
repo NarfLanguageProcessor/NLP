@@ -1,0 +1,1 @@
+{"index": 84545, "D": "having the properties of diastase", "S": [], "A": []}

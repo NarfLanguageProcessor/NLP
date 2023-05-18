@@ -1,0 +1,1 @@
+{"index": 84685, "D": "a small, handheld, pointed implement for making holes in soil for planting seedlings, bulbs, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293551, "D": "a person who evades their duty or work; shirker.", "S": ["bum ", "deadbeat ", "goldbrick ", "good-for-nothing ", "goof-off ", "idler ", "loafer ", "quitter ", "slouch "], "A": ["hard worker "]}

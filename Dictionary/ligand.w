@@ -1,0 +1,1 @@
+{"index": 171977, "D": "a molecule, as an antibody, hormone, or drug, that binds to a receptor.", "S": [], "A": []}

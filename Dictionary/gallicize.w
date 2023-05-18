@@ -1,0 +1,1 @@
+{"index": 121372, "D": "to make or become French in language, character, etc.", "S": [], "A": []}

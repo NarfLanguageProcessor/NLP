@@ -1,0 +1,1 @@
+{"index": 247170, "D": "a copy exactly like an original.", "S": [], "A": []}

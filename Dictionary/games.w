@@ -1,0 +1,1 @@
+{"index": 121692, "D": "an amusement or pastime", "S": ["contest ", "drill ", "events ", "exercises ", "practice ", "recreation ", "workout "], "A": []}

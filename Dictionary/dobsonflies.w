@@ -1,0 +1,1 @@
+{"index": 90572, "D": "a large, soft-bodied insect, Corydalus cornutus, having four distinctly veined membranous wings, biting mouthparts, and, in the male, huge mandibles that jut out from the head.", "S": [], "A": []}

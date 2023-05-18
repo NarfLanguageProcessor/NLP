@@ -1,0 +1,1 @@
+{"index": 93805, "D": "a system of ducts  used for a particular purpose, as in a ventilation or heating system.", "S": [], "A": []}

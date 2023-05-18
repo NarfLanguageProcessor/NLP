@@ -1,0 +1,1 @@
+{"index": 36459, "D": "(usually of animals) the line  of descent; pedigree; strain.", "S": ["genealogy ", "lineage ", "parentage ", "pedigree "], "A": ["conclusion ", "death ", "end "]}

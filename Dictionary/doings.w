@@ -1,0 +1,1 @@
+{"index": 91032, "D": "deeds, actions or events", "S": ["acts ", "affairs ", "deal ", "deed ", "events ", "happenings ", "matters ", "proceeding "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 40347, "D": "rock composed of angular fragments of older rocks melded together.", "S": [], "A": []}

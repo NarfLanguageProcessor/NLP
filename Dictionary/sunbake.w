@@ -1,0 +1,1 @@
+{"index": 311022, "D": "to sunbathe, esp in order to become tanned", "S": [], "A": []}

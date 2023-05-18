@@ -1,0 +1,1 @@
+{"index": 264457, "D": "any of several grasses of the genus Agrostis having reddish panicles, as A. gigantea, widely cultivated for lawns and pasturage.", "S": [], "A": []}

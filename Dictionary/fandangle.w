@@ -1,0 +1,1 @@
+{"index": 109687, "D": "elaborate ornament", "S": ["embellishment ", "ornament "], "A": []}

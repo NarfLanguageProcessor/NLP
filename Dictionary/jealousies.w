@@ -1,0 +1,1 @@
+{"index": 160700, "D": "jealous  resentment against a rival, a person enjoying success or advantage, etc., or against another's success or advantage itself.", "S": ["grudge ", "resentment "], "A": []}

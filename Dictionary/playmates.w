@@ -1,0 +1,1 @@
+{"index": 238775, "D": "a companion, especially of a child, in play  or recreation.", "S": ["friend "], "A": []}

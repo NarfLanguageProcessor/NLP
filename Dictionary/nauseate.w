@@ -1,0 +1,1 @@
+{"index": 197425, "D": "to affect with nausea; sicken 1", "S": ["horrify ", "sicken "], "A": ["attract ", "please ", "soothe "]}

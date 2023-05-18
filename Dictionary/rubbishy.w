@@ -1,0 +1,1 @@
+{"index": 275122, "D": "full of rubbish", "S": ["bad ", "poor "], "A": ["excellent ", "noble ", "precious ", "priceless ", "sophisticated ", "superior ", "valuable "]}

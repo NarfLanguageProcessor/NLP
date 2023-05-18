@@ -1,0 +1,1 @@
+{"index": 65547, "D": "reduced in volume, area, length, or scope; shortened", "S": ["concise "], "A": ["lengthy ", "long "]}

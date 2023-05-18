@@ -1,0 +1,1 @@
+{"index": 107217, "D": "one of a line of hereditary rulers of the Jewish community in Babylonia from about the 2nd century a.d. to the beginning of the 11th century.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 339964, "D": "to take upon oneself, as a task, performance, etc.; attempt", "S": ["begin ", "commence ", "guarantee ", "initiate ", "launch ", "offer ", "shoulder ", "tackle ", "try "], "A": ["cease ", "complete ", "conclude ", "deny ", "end ", "finish ", "neglect ", "refuse ", "stop ", "break ", "disagree ", "discourage ", "stay "]}

@@ -1,0 +1,1 @@
+{"index": 369980, "D": "the breeding and domestication of animals; the technology of animal husbandry.", "S": [], "A": []}

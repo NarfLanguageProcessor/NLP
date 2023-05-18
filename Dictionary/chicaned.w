@@ -1,0 +1,1 @@
+{"index": 54106, "D": "deception; chicanery. ", "S": ["bicker ", "carp ", "spar ", "squabble ", "waffle ", "wrangle "], "A": ["agree ", "face ", "meet ", "tell the truth "]}

@@ -1,0 +1,1 @@
+{"index": 313878, "D": "a sovereign or a state exercising political control over a dependent state.", "S": ["captain ", "commander ", "director ", "head ", "leader ", "manager ", "ruler ", "superintendent ", "supervisor "], "A": ["employee ", "follower "]}

@@ -1,0 +1,1 @@
+{"index": 185807, "D": "the fungi characteristic of a particular environment.", "S": [], "A": []}

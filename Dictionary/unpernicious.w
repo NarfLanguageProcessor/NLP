@@ -1,0 +1,1 @@
+{"index": 347755, "D": "causing insidious harm or ruin; ruinous; injurious; hurtful", "S": [], "A": []}

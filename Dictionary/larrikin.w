@@ -1,0 +1,1 @@
+{"index": 168651, "D": "a street rowdy; hoodlum.", "S": ["criminal ", "delinquent ", "gangster ", "goon ", "hooligan ", "mobster ", "punk ", "ruffian ", "thug "], "A": []}

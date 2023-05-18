@@ -1,0 +1,1 @@
+{"index": 25973, "D": "any of numerous predaceous aquatic hemipterous insects, of the family Notonectidae, that swim on their backs, and may inflict a painful bite if handled.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 365099, "D": "a card game, an early form of bridge, but without bidding.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 35067, "D": "an unstable hydride of bismuth,  BiH3, analogous to arsine and stibine.", "S": [], "A": []}

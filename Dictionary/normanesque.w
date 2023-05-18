@@ -1,0 +1,1 @@
+{"index": 208559, "D": "in the style of Norman architecture, a variety of Romanesque architecture.", "S": [], "A": []}

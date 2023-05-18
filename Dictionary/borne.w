@@ -1,0 +1,1 @@
+{"index": 38460, "D": "a past participle of bear1. ", "S": ["endured ", "narrow ", "produced ", "rode ", "tolerated ", "toted "], "A": []}

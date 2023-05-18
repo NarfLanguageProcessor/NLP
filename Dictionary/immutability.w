@@ -1,0 +1,1 @@
+{"index": 148190, "D": "the state or condition of being unchangeable", "S": ["durability ", "longevity ", "persistence "], "A": ["end ", "finish ", "stop "]}

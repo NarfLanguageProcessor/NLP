@@ -1,0 +1,1 @@
+{"index": 222939, "D": "a Spanish dish prepared by simmering together chicken, seafood, rice, vegetables, and saffron and other seasonings.", "S": [], "A": []}

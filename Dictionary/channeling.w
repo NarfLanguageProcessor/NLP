@@ -1,0 +1,1 @@
+{"index": 52509, "D": "ornamentation with flutes or channels. ", "S": ["carry ", "convey ", "funnel ", "siphon ", "transmit ", "transport "], "A": ["hold ", "keep "]}

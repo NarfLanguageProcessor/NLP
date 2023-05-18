@@ -1,0 +1,1 @@
+{"index": 27852, "D": "(formerly) a person who composed and recited epic or heroic poems, often while playing the harp, lyre, or the like.", "S": ["balladeer ", "minstrel ", "poet ", "versifier "], "A": []}

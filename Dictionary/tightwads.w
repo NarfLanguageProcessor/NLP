@@ -1,0 +1,1 @@
+{"index": 323485, "D": "a close-fisted or stingy person.", "S": ["Scrooge ", "cheapskate ", "churl ", "hoarder ", "moneygrubber ", "skinflint ", "stiff "], "A": []}

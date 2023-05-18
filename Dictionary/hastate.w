@@ -1,0 +1,1 @@
+{"index": 134123, "D": "(of a leaf) triangular or shaped like an arrow, with two spreading lobes at the base.", "S": ["trilateral "], "A": []}

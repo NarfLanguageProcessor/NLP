@@ -1,0 +1,1 @@
+{"index": 347934, "D": "to squeeze or compress between the finger and thumb, the teeth, the jaws of an instrument, or the like.", "S": [], "A": []}

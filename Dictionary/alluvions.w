@@ -1,0 +1,1 @@
+{"index": 9072, "D": "a gradual increase of land on a shore or a river bank by the action of water, whether from natural or artificial causes.", "S": ["Niagara ", "cascade ", "cataclysm ", "deluge ", "downpour ", "gush ", "inundation ", "overflow ", "torrent "], "A": []}

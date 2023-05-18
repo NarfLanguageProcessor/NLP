@@ -1,0 +1,1 @@
+{"index": 26951, "D": "a classical dance form demanding grace and precision and employing formalized steps and gestures set in intricate, flowing patterns to create expression through movement.", "S": [], "A": []}

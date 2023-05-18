@@ -1,0 +1,1 @@
+{"index": 115583, "D": "to wave, flap, or toss about", "S": ["breezy ", "uncluttered "], "A": ["burdensome ", "close ", "closed ", "heavy ", "oppressive ", "stuffy "]}

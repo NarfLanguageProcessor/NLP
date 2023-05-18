@@ -1,0 +1,1 @@
+{"index": 97410, "D": "any of various fragrant resins from certain trees, especially Canarium commune, used chiefly in the manufacture of varnishes, lacquers, ointments, and in perfumery.", "S": [], "A": []}

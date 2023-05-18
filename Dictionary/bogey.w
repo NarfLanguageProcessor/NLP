@@ -1,0 +1,1 @@
+{"index": 37287, "D": "par1 (def. 4). ", "S": ["apparition ", "bogeyman ", "boggle ", "boogeyman ", "bugaboo ", "bugbear ", "goblin ", "hobgoblin ", "monster ", "phantasm ", "phantasma ", "phantom ", "specter ", "spirit ", "spook ", "visitant ", "wraith "], "A": ["being ", "reality "]}

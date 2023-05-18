@@ -1,0 +1,1 @@
+{"index": 278002, "D": "a wandering beggar and ascetic.", "S": [], "A": []}

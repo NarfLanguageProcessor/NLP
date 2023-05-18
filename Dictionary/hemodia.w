@@ -1,0 +1,1 @@
+{"index": 136367, "D": "hypersensitivity of the teeth.", "S": [], "A": []}

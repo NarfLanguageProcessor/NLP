@@ -1,0 +1,1 @@
+{"index": 197675, "D": "having dim or indistinct markings, as a bird or other animal.", "S": [], "A": []}

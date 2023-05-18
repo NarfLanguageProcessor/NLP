@@ -1,0 +1,1 @@
+{"index": 302666, "D": "to bring to or make of an established standard  size, weight, quality, strength, or the like", "S": ["balancing ", "controlling ", "determining ", "directing ", "normalizing ", "regularizing ", "regulating ", "shifting "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 101534, "D": "to collect or study insects", "S": [], "A": []}

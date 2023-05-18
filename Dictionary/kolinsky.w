@@ -1,0 +1,1 @@
+{"index": 165924, "D": "an Asian mink, Mustela sibirica, having buff or tawny fur.", "S": [], "A": []}

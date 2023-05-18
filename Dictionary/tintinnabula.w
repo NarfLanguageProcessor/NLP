@@ -1,0 +1,1 @@
+{"index": 324115, "D": "a small, tinkling bell or a set of bells played in succession.", "S": ["Vesper ", "alarm ", "buzz ", "buzzer ", "carillon ", "chime ", "clapper ", "curfew ", "ding-dong ", "gong ", "peal ", "ringer ", "siren ", "tocsin ", "toll "], "A": []}

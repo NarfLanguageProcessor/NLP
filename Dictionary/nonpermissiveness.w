@@ -1,0 +1,1 @@
+{"index": 205884, "D": "the quality or condition of being accepting or tolerant of something, such as social behavior or linguistic usage, that others might disapprove of or forbid", "S": [], "A": []}

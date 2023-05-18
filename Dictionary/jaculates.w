@@ -1,0 +1,1 @@
+{"index": 160037, "D": "to throw or hurl (a dart, javelin, etc.).", "S": [], "A": []}

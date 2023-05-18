@@ -1,0 +1,1 @@
+{"index": 352406, "D": "having sunk  or been sunk beneath the surface; submerged.", "S": [], "A": []}

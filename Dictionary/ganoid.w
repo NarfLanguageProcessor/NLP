@@ -1,0 +1,1 @@
+{"index": 121958, "D": "of or relating to the Ganoidei, a group of mostly extinct fishes characterized by hard, bony scales, the living species of which include the paddlefishes, sturgeons, and gars.", "S": [], "A": []}

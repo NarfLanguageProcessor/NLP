@@ -1,0 +1,1 @@
+{"index": 357144, "D": "any of the Northmen who, under Rurik, established a dynasty in Russia in the 9th century.", "S": [], "A": []}

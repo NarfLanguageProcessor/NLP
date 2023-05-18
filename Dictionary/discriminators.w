@@ -1,0 +1,1 @@
+{"index": 87752, "D": "a person or thing that discriminates. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 273046, "D": "a typically circular band of metal or other durable material, especially one of gold or other precious metal, often set with gems, for wearing on the finger as an ornament, a token of betrothal or marriage, etc.", "S": [], "A": []}

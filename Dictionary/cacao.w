@@ -1,0 +1,1 @@
+{"index": 44047, "D": "a small tropical American evergreen tree, Theobroma cacao, cultivated for its seeds, the source of cocoa, chocolate, etc.", "S": [], "A": []}

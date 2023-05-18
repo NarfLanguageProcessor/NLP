@@ -1,0 +1,1 @@
+{"index": 89127, "D": "to divert or amuse (oneself).", "S": ["entertain ", "frolic ", "play "], "A": []}

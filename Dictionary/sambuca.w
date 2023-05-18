@@ -1,0 +1,1 @@
+{"index": 277506, "D": "an ancient stringed musical instrument used in Greece and the Middle East.", "S": [], "A": []}

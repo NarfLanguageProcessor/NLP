@@ -1,0 +1,1 @@
+{"index": 280034, "D": "satisfaction or pleasure felt at someone else's misfortune.", "S": [], "A": []}

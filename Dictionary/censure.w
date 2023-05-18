@@ -1,0 +1,1 @@
+{"index": 50777, "D": "strong or vehement expression of disapproval", "S": ["condemnation ", "rebuke ", "reprimand "], "A": ["praise ", "acceptance ", "agreement ", "approval "]}

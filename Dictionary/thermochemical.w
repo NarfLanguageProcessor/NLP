@@ -1,0 +1,1 @@
+{"index": 321373, "D": "the branch of chemistry  dealing with the relationship between chemical action and heat.", "S": [], "A": []}

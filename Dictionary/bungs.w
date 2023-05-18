@@ -1,0 +1,1 @@
+{"index": 42867, "D": "a stopper for the opening of a cask.", "S": ["blockade "], "A": ["key "]}

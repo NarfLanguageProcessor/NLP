@@ -1,0 +1,1 @@
+{"index": 123728, "D": "a man  of good family, breeding, or social position.", "S": ["cavalier ", "don ", "sir "], "A": ["boob ", "cad ", "sneak "]}

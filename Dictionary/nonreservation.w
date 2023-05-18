@@ -1,0 +1,1 @@
+{"index": 206761, "D": "the act of keeping back, withholding, or setting apart.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 84667, "D": "of or derived from a diazonium compound.", "S": [], "A": []}

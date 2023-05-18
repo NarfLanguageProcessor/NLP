@@ -1,0 +1,1 @@
+{"index": 346765, "D": "beginning to exist or develop", "S": [], "A": []}

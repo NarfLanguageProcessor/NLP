@@ -1,0 +1,1 @@
+{"index": 346144, "D": "(of disputes, strikes, etc.) settled or resolved with the help of an intermediary", "S": [], "A": []}

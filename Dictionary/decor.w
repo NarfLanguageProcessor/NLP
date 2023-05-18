@@ -1,0 +1,1 @@
+{"index": 78681, "D": "style or mode of decoration, as of a room, building, or the like", "S": ["color scheme ", "decoration ", "interior design "], "A": []}

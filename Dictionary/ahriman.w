@@ -1,0 +1,1 @@
+{"index": 6664, "D": "the supreme evil spirit and diabolical opponent of Ormazd", "S": [], "A": []}

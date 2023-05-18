@@ -1,0 +1,1 @@
+{"index": 41926, "D": "a nearly spherical body of gas contained in a liquid.", "S": ["balloon ", "blob ", "droplet ", "foam ", "froth "], "A": []}

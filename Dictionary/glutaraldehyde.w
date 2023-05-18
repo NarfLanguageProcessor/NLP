@@ -1,0 +1,1 @@
+{"index": 126947, "D": "a nonflammable liquid, C5H8O2, soluble in water and alcohol, toxic and an irritant, used for tanning leather and as a fixative for samples to be examined under the electron microscope.", "S": [], "A": []}

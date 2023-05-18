@@ -1,0 +1,1 @@
+{"index": 287179, "D": "a dissident Shi\u02bfite sect that developed in the 19th century, composed of followers of Ahmad Ahsa\u02bei (c1741\u20131826).", "S": [], "A": []}

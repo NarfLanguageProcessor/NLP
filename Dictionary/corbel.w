@@ -1,0 +1,1 @@
+{"index": 68864, "D": "any bracket, especially one of brick or stone, usually of slight extent.", "S": [], "A": []}

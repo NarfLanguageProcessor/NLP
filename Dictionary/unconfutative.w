@@ -1,0 +1,1 @@
+{"index": 337620, "D": "the act of confuting. ", "S": [], "A": []}

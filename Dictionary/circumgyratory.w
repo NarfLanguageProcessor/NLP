@@ -1,0 +1,1 @@
+{"index": 58141, "D": "a revolution or circular movement.", "S": ["whirling "], "A": []}

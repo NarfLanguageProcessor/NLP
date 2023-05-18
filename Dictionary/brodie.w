@@ -1,0 +1,1 @@
+{"index": 41154, "D": "a suicidal or daredevil leap; wild dive", "S": [], "A": []}

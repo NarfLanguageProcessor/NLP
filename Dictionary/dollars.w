@@ -1,0 +1,1 @@
+{"index": 91146, "D": "a paper money, silver or cupronickel coin, and monetary unit of the United States, equal to 100 cents. Symbol", "S": ["cabbage ", "dough "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 248721, "D": "to package  (foodstuffs or manufactured goods) before retail distribution or sale.", "S": [], "A": []}

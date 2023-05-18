@@ -1,0 +1,1 @@
+{"index": 170412, "D": "to make longer; make greater in length. ", "S": ["augment ", "elongate ", "expand ", "prolong "], "A": ["abbreviate ", "contract ", "shorten ", "cease ", "compress ", "curtail ", "decrease ", "halt ", "lessen ", "lose ", "reduce ", "stop "]}

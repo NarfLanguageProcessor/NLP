@@ -1,0 +1,1 @@
+{"index": 283321, "D": "the frequency, intensity, and distribution of earthquakes in a given area.", "S": [], "A": []}

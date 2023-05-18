@@ -1,0 +1,1 @@
+{"index": 4950, "D": "an organism, especially a bacterium, that requires air or free oxygen for life (opposed to anaerobe).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293842, "D": "contemptibly low, mean, or disreputable", "S": ["seedy ", "sordid ", "tacky ", "trashy "], "A": ["fine ", "good ", "nice ", "reputable ", "respectable "]}

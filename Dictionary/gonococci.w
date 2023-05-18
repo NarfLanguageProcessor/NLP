@@ -1,0 +1,1 @@
+{"index": 127817, "D": "the bacterium Neisseria gonorrhoeae, causing gonorrhea.", "S": [], "A": []}

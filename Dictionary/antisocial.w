@@ -1,0 +1,1 @@
+{"index": 16215, "D": "unwilling or unable to associate in a normal or friendly way with other people", "S": ["alienated ", "introverted ", "standoffish "], "A": ["friendly ", "fun-loving ", "participating ", "sociable "]}

@@ -1,0 +1,1 @@
+{"index": 107402, "D": "Compare endonym (def. 2). ", "S": [], "A": []}

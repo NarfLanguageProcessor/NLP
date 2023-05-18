@@ -1,0 +1,1 @@
+{"index": 99966, "D": "osmosis toward the inside of a cell or vessel.", "S": [], "A": []}

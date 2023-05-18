@@ -1,0 +1,1 @@
+{"index": 219013, "D": "to expand by stretching, as something hollow or elastic", "S": [], "A": []}

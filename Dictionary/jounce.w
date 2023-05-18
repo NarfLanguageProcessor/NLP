@@ -1,0 +1,1 @@
+{"index": 161865, "D": "to move joltingly or roughly up and down; bounce.", "S": ["bounce ", "bump ", "collision ", "impact ", "jar ", "jolt ", "jolting "], "A": []}

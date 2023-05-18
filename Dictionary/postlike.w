@@ -1,0 +1,1 @@
+{"index": 244251, "D": "a strong piece of timber, metal, or the like, set upright as a support, a point of attachment, a place for displaying notices, etc.", "S": [], "A": []}

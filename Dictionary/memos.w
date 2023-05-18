@@ -1,0 +1,1 @@
+{"index": 183217, "D": "memorandum. ", "S": ["announcement ", "chit ", "diary ", "directive ", "dispatch ", "epistle ", "jotting ", "letter ", "message ", "minute ", "missive ", "notation ", "notice ", "record ", "reminder ", "tickler "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 195644, "D": "(in Japan) a village; hamlet.", "S": [], "A": []}

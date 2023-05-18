@@ -1,0 +1,1 @@
+{"index": 244053, "D": "of or relating to study or professional work undertaken after the receipt of a doctorate", "S": [], "A": []}

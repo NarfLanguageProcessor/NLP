@@ -1,0 +1,1 @@
+{"index": 85935, "D": "a thin cotton fabric, white, dyed, or printed, woven with a stripe or check of heavier yarn.", "S": [], "A": []}

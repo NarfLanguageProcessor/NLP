@@ -1,0 +1,1 @@
+{"index": 113596, "D": "serving to fix;  making fixed  or permanent.", "S": [], "A": []}

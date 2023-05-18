@@ -1,0 +1,1 @@
+{"index": 352195, "D": "simple past tense and past participle of unstring. ", "S": ["upset "], "A": []}

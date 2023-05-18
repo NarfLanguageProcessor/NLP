@@ -1,0 +1,1 @@
+{"index": 34105, "D": "an attractive but stupid young woman.", "S": ["babe ", "chick ", "dame ", "dish ", "doll ", "female ", "floozy ", "gal ", "girl ", "honey ", "skirt "], "A": ["man "]}

@@ -1,0 +1,1 @@
+{"index": 217175, "D": "to press upon or against (a thing) with force in order to move it away.", "S": [], "A": []}

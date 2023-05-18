@@ -1,0 +1,1 @@
+{"index": 72712, "D": "simple past tense and past participle of creep. ", "S": ["glide ", "inch ", "lurk ", "slink ", "slither ", "snake ", "sneak ", "tiptoe ", "wriggle "], "A": []}

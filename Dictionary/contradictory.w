@@ -1,0 +1,1 @@
+{"index": 67615, "D": "asserting the contrary or opposite; contradicting;  inconsistent; logically opposite", "S": ["antithetical ", "conflicting ", "contrary ", "incompatible ", "inconsistent ", "paradoxical "], "A": ["consonant ", "harmonious ", "equal ", "same ", "similar "]}

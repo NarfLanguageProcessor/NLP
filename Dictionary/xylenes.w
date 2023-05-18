@@ -1,0 +1,1 @@
+{"index": 368527, "D": "any of three oily, colorless, water-insoluble, flammable, toxic, isomeric liquids, C8H10, of the benzene series, obtained mostly from coal tar", "S": [], "A": []}

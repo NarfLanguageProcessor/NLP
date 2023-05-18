@@ -1,0 +1,1 @@
+{"index": 83574, "D": "deviltry. ", "S": ["devilment ", "deviltry ", "mischief-making ", "mischievousness ", "naughtiness ", "prankishness ", "rascality ", "roguery ", "roguishness ", "shenanigans ", "trouble ", "wickedness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 124527, "D": "the small, immature fruit of a variety of cucumber, used in pickling.", "S": ["garlic pickle ", "kosher dill pickle ", "sour pickle "], "A": []}

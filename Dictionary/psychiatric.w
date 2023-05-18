@@ -1,0 +1,1 @@
+{"index": 255273, "D": "of or relating to mental illness or psychiatry", "S": ["deranged ", "disturbed ", "fruity ", "loco ", "lunatic ", "mad ", "maniac ", "mentally ill ", "mindless ", "non compos mentis ", "nuts ", "nutsy ", "psychotic ", "unbalanced ", "unstable "], "A": ["balanced ", "body ", "physical ", "sane "]}

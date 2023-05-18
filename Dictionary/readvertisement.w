@@ -1,0 +1,1 @@
+{"index": 261649, "D": "a paid announcement, as of goods for sale, in newspapers or magazines, on radio or television, or on the internet.", "S": [], "A": []}

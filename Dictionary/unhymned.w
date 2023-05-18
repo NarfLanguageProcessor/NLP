@@ -1,0 +1,1 @@
+{"index": 343731, "D": "a song or ode in praise or honor of God, a deity, a nation, etc.", "S": [], "A": []}

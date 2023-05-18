@@ -1,0 +1,1 @@
+{"index": 260786, "D": "deeply engrossed or absorbed", "S": ["concentration "], "A": ["surrender "]}

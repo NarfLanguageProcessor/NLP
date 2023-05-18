@@ -1,0 +1,1 @@
+{"index": 173473, "D": "any unconventional articulation of the sibilants, as the pronunciation of s and z with the tongue between the teeth (lingual protrusion lisp ), close to or touching the upper front teeth (dental lisp ), or raised so that the breath is emitted laterally (lateral lisp ).", "S": ["mispronounce ", "sputter ", "stutter "], "A": []}

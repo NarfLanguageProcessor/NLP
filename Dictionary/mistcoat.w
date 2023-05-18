@@ -1,0 +1,1 @@
+{"index": 190204, "D": "(in house painting or interior decoration) a coat  of thinner, sometimes pigmented, applied to a finish coat  of paint to increase its luster.", "S": [], "A": []}

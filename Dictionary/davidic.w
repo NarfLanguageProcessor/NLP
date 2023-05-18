@@ -1,0 +1,1 @@
+{"index": 77313, "D": "of or relating to the Biblical David or his descendants.", "S": [], "A": []}

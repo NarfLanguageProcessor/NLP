@@ -1,0 +1,1 @@
+{"index": 258325, "D": "not capable of being quenched;  unquenchable.", "S": ["insistent ", "rapacious ", "ravenous ", "urgent "], "A": ["fulfilled ", "full ", "pleased ", "satisfied "]}

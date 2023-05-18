@@ -1,0 +1,1 @@
+{"index": 121607, "D": "either of a pair of large protective boots or gaiters fixed to a saddle instead of stirrups.", "S": [], "A": []}

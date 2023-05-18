@@ -1,0 +1,1 @@
+{"index": 295387, "D": "extremely attractive or stylish; flashy; fancy", "S": [], "A": []}

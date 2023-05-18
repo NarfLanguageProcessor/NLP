@@ -1,0 +1,1 @@
+{"index": 88073, "D": "(in some Protestant religions) the status of a member who, because of some serious infraction of church policy, has been denied the church's sacraments and any post of responsibility and is officially shunned by other members.", "S": [], "A": []}

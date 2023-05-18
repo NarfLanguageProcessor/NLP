@@ -1,0 +1,1 @@
+{"index": 231305, "D": "subject to decay, ruin, or destruction", "S": ["decaying ", "decomposable ", "destructible ", "easily spoiled ", "short-lived ", "unstable "], "A": ["continuation ", "endurance "]}

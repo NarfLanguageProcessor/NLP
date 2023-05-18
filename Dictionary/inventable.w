@@ -1,0 +1,1 @@
+{"index": 157086, "D": "to originate or create as a product of one's own ingenuity, experimentation, or contrivance", "S": [], "A": []}

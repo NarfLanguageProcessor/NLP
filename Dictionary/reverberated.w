@@ -1,0 +1,1 @@
+{"index": 271202, "D": "to reecho or resound", "S": ["exchanged ", "reappeared ", "rebounded ", "refunded ", "repaid ", "repeated ", "revolved "], "A": ["held ", "kept ", "retained "]}

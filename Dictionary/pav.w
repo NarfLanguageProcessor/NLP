@@ -1,0 +1,1 @@
+{"index": 228180, "D": "Australian and NZ informal short for pavlova", "S": [], "A": []}

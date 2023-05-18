@@ -1,0 +1,1 @@
+{"index": 157157, "D": "able to be turned upside down, turned inside out, or reversed in position, order, direction, etc.; subject to inversion", "S": [], "A": []}

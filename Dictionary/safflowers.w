@@ -1,0 +1,1 @@
+{"index": 276589, "D": "a thistlelike composite plant, Carthamus tinctorius, native to the Old World, having finely toothed leaves and large, orange-red flower heads.", "S": [], "A": []}

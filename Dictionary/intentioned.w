@@ -1,0 +1,1 @@
+{"index": 154398, "D": "having particular or specified intentions  (often used in combination)", "S": [], "A": []}

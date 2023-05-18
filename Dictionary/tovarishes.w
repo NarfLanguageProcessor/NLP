@@ -1,0 +1,1 @@
+{"index": 326721, "D": "comrade (used as a term of address in the Soviet Union).", "S": [], "A": []}

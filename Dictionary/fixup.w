@@ -1,0 +1,1 @@
+{"index": 113624, "D": "repair; improvement", "S": ["furnish ", "rehabilitate ", "spruce up "], "A": ["corrupt ", "deface ", "defile "]}

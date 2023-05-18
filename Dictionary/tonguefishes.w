@@ -1,0 +1,1 @@
+{"index": 325548, "D": "any of several flatfishes of the family Cynoglossidae, having the tail tapered to a point.", "S": [], "A": []}

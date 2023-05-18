@@ -1,0 +1,1 @@
+{"index": 306300, "D": "closed by a strike", "S": [], "A": []}

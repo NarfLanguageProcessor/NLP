@@ -1,0 +1,1 @@
+{"index": 6859, "D": "an atomizer for spraying paint.", "S": ["brushing ", "calcimining ", "coating ", "covering ", "decorating ", "enameling ", "splashing ", "varnishing "], "A": []}

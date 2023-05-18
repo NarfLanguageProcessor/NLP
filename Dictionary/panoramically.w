@@ -1,0 +1,1 @@
+{"index": 224787, "D": "(of a view) wide and unobstructed, so as to take in an extensive area in all directions", "S": [], "A": []}

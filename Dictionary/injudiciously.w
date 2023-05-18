@@ -1,0 +1,1 @@
+{"index": 152854, "D": "not judicious;  showing lack of judgment; unwise; imprudent; indiscreet", "S": ["mistakenly ", "stupidly ", "unwisely "], "A": ["carefully ", "cautiously ", "sensibly ", "thoughtfully ", "wisely "]}

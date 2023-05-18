@@ -1,0 +1,1 @@
+{"index": 366607, "D": "to shrivel; fade; decay", "S": ["decayed ", "drooping ", "parched ", "wilted ", "wrinkled "], "A": ["blooming ", "fresh ", "growing "]}

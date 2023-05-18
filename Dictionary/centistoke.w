@@ -1,0 +1,1 @@
+{"index": 50906, "D": "a centimeter-gram-second unit of kinematic viscosity, equal to 1/100 (0.01) stoke. Abbreviation", "S": [], "A": []}

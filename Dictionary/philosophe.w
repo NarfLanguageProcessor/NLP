@@ -1,0 +1,1 @@
+{"index": 233927, "D": "any of the popular French intellectuals or social philosophers of the 18th century, as Diderot, Rousseau, or Voltaire.", "S": [], "A": []}

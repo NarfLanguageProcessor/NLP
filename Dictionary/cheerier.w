@@ -1,0 +1,1 @@
+{"index": 53454, "D": "in good spirits; cheerful; happy.", "S": ["bright ", "lively ", "pleasant "], "A": ["unhappy "]}

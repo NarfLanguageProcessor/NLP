@@ -1,0 +1,1 @@
+{"index": 154993, "D": "of, existing, or occurring in the space between galaxies", "S": [], "A": []}

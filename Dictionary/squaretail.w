@@ -1,0 +1,1 @@
+{"index": 301745, "D": "any of several fishes of the genus Tetragonurus, inhabiting deep waters of tropical and temperate seas, having a squarish tail  and an armor of tough, bony scales.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183388, "D": "of, relating to, or belonging to the Menispermaceae, a family of mainly tropical and subtropical plants, most of which are woody climbers with small flowers", "S": [], "A": []}

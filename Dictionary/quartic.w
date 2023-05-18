@@ -1,0 +1,1 @@
+{"index": 258081, "D": "of or relating to the fourth degree.", "S": [], "A": []}

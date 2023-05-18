@@ -1,0 +1,1 @@
+{"index": 70384, "D": "a man who busies himself with traditionally women's household duties.", "S": [], "A": []}

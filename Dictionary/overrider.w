@@ -1,0 +1,1 @@
+{"index": 220871, "D": "either of two metal or rubber attachments fitted to the bumper of a motor vehicle to prevent the bumpers interlocking with those of another vehicle", "S": [], "A": []}

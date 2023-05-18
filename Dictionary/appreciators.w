@@ -1,0 +1,1 @@
+{"index": 17919, "D": "to be grateful or thankful for", "S": ["aficionado ", "buff ", "devotee ", "dilettante "], "A": ["ignoramus "]}

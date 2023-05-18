@@ -1,0 +1,1 @@
+{"index": 221888, "D": "to wind  beyond the proper limit; wind  too far", "S": [], "A": []}

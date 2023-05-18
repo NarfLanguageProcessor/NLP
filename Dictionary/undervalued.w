@@ -1,0 +1,1 @@
+{"index": 340054, "D": "to value  below the real worth; put too low a value  on.", "S": ["decayed ", "deserted ", "ignored ", "overlooked ", "spurned ", "unused ", "unwanted "], "A": ["cared for ", "considered ", "heeded ", "used "]}

@@ -1,0 +1,1 @@
+{"index": 10979, "D": "the sum total of two or more quantities or sums; aggregate.", "S": ["bulk ", "chunk ", "extent ", "load ", "lot ", "measure ", "number ", "supply ", "ton ", "volume "], "A": []}

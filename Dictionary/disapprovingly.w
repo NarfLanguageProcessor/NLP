@@ -1,0 +1,1 @@
+{"index": 87062, "D": "to think (something) wrong or reprehensible; censure or condemn in opinion.", "S": ["skeptically ", "suspiciously "], "A": []}

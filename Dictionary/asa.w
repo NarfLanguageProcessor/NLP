@@ -1,0 +1,1 @@
+{"index": 20839, "D": "a king of Judah, 913?\u2013873? b.c. 1 Kings 15", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 181756, "D": "full of meaning, significance, purpose, or value; purposeful; significant", "S": ["consequential ", "essential ", "important ", "purposeful ", "relevant ", "serious ", "substantial ", "useful ", "valid ", "worthwhile "], "A": ["insignificant ", "little ", "minor ", "nonessential ", "small ", "trivial ", "unimportant ", "unsubstantial ", "worthless "]}

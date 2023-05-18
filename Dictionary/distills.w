@@ -1,0 +1,1 @@
+{"index": 89791, "D": "to subject to a process of vaporization and subsequent condensation, as for purification or concentration.", "S": ["condense ", "extract ", "infuse ", "refine "], "A": ["dirty ", "pour "]}

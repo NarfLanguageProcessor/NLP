@@ -1,0 +1,1 @@
+{"index": 164220, "D": "dull yellowish brown.", "S": ["beige ", "brownish ", "drab ", "khaki "], "A": []}

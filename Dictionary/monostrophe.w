@@ -1,0 +1,1 @@
+{"index": 192700, "D": "a poem in which all the strophes or stanzas are of the same metrical form.", "S": [], "A": []}

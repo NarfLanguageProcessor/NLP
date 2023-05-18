@@ -1,0 +1,1 @@
+{"index": 130805, "D": "a protective railing,  as along a road or stairway.", "S": [], "A": []}

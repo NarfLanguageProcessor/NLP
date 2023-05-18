@@ -1,0 +1,1 @@
+{"index": 225059, "D": "a person who works in or has charge of a pantry,  as aboard ship or in a hospital.", "S": [], "A": []}

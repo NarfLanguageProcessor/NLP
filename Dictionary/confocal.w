@@ -1,0 +1,1 @@
+{"index": 66009, "D": "having the same focus or foci.", "S": [], "A": []}

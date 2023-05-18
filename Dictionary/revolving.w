@@ -1,0 +1,1 @@
+{"index": 271529, "D": "that revolves", "S": ["orbiting ", "spinning ", "swirling ", "whirling "], "A": []}

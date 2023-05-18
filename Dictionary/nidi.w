@@ -1,0 +1,1 @@
+{"index": 199767, "D": "a nest, especially one in which insects, spiders, etc., deposit their eggs.", "S": [], "A": []}

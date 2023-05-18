@@ -1,0 +1,1 @@
+{"index": 195049, "D": "of or like crystal;  clear; transparent.", "S": [], "A": []}

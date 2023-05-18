@@ -1,0 +1,1 @@
+{"index": 113442, "D": "reproducing by fission.", "S": [], "A": []}

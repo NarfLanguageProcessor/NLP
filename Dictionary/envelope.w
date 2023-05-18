@@ -1,0 +1,1 @@
+{"index": 101788, "D": "a flat paper container, as for a letter or thin package, usually having a gummed flap or other means of closure.", "S": ["bag ", "box ", "casing ", "coat ", "container ", "jacket ", "pocket ", "pouch "], "A": ["contents ", "insides ", "interior ", "middle "]}

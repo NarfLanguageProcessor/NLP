@@ -1,0 +1,1 @@
+{"index": 236467, "D": "a pen  for keeping pigs. ", "S": ["pen ", "piggery ", "sty "], "A": []}

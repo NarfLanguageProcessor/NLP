@@ -1,0 +1,1 @@
+{"index": 162637, "D": "a vector on the z-axis, having length 1 unit.", "S": [], "A": []}

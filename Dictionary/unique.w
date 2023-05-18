@@ -1,0 +1,1 @@
+{"index": 344961, "D": "existing as the only one or as the sole example; single; solitary in type or characteristics", "S": ["different ", "exclusive ", "particular ", "rare ", "uncommon "], "A": ["common ", "normal ", "ordinary ", "regular ", "usual "]}

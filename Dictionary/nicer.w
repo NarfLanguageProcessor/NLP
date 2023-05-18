@@ -1,0 +1,1 @@
+{"index": 199588, "D": "pleasing; agreeable; delightful", "S": ["cordial ", "ducky ", "fair ", "friendly ", "good ", "kind ", "lovely ", "okay ", "superior ", "swell ", "welcome ", "winning "], "A": ["aloof ", "bad ", "cool ", "disagreeable ", "mean ", "ugly ", "unacceptable ", "unfriendly ", "unpleasant ", "unsociable ", "unsuitable "]}

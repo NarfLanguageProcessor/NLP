@@ -1,0 +1,1 @@
+{"index": 11601, "D": "an organism, especially a bacterium, that does not require air or free oxygen to live (opposed to aerobe).", "S": [], "A": []}

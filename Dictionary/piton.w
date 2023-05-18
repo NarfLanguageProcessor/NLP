@@ -1,0 +1,1 @@
+{"index": 238404, "D": "a metal spike with an eye through which a rope may be passed.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148973, "D": "to shut up in a pound  or other enclosure, as a stray animal.", "S": ["captured ", "confiscated ", "held ", "seized "], "A": []}

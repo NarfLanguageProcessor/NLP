@@ -1,0 +1,1 @@
+{"index": 175795, "D": "plural of lux. ", "S": [], "A": []}

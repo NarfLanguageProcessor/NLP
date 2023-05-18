@@ -1,0 +1,1 @@
+{"index": 117850, "D": "the act of fostering  or rearing another's child as one's own.", "S": ["fostering ", "raising "], "A": ["pass ", "rejection ", "repudiation "]}

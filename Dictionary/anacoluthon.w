@@ -1,0 +1,1 @@
+{"index": 11558, "D": "a construction involving a break in grammatical sequence, as It makes me so\u2014I just get angry.", "S": [], "A": []}

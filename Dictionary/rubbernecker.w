@@ -1,0 +1,1 @@
+{"index": 275108, "D": "to look about or stare with great curiosity, as by craning the neck  or turning the head.", "S": ["attestant ", "attester ", "attestor ", "beholder ", "bystander ", "deponent ", "eyewitness ", "gawker ", "looker-on ", "observer ", "onlooker ", "proof ", "signatory ", "signer ", "spectator ", "testimony ", "viewer ", "watcher "], "A": ["participant "]}

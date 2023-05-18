@@ -1,0 +1,1 @@
+{"index": 219699, "D": "of great weight; hard to lift or carry", "S": [], "A": []}

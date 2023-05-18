@@ -1,0 +1,1 @@
+{"index": 92705, "D": "to cover or hang with cloth or other fabric, especially in graceful folds; adorn with drapery. ", "S": ["attired ", "cloaked ", "covered ", "dressed ", "veiled "], "A": ["exposed ", "naked ", "unclothed ", "undressed "]}

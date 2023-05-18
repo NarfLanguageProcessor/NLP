@@ -1,0 +1,1 @@
+{"index": 7962, "D": "a variety of chrysoberyl, green by daylight and red-violet by artificial light, used as a gem.", "S": [], "A": []}

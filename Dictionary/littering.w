@@ -1,0 +1,1 @@
+{"index": 173872, "D": "objects strewn or scattered about; scattered rubbish.", "S": ["clutter ", "scatter ", "strew "], "A": ["arrange ", "clear up ", "order ", "organize "]}

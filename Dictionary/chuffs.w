@@ -1,0 +1,1 @@
+{"index": 56567, "D": "a rustic.", "S": ["boor ", "lout ", "oaf "], "A": []}

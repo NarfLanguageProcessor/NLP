@@ -1,0 +1,1 @@
+{"index": 97870, "D": "an extremely dim, flattened, expanding, reddish glow briefly seen over a thunderstorm, due to electromagnetic pulses from intense lightning.", "S": [], "A": []}

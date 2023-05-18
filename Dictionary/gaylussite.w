@@ -1,0 +1,1 @@
+{"index": 121006, "D": "a rare mineral, hydrated carbonate of sodium and calcium.", "S": [], "A": []}

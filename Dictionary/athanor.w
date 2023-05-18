@@ -1,0 +1,1 @@
+{"index": 22507, "D": "a digester furnace with a self-feeding fuel supply contained in a towerlike contrivance, ensuring a constant, durable temperature.", "S": [], "A": []}

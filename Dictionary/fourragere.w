@@ -1,0 +1,1 @@
+{"index": 118002, "D": "an ornament of cord worn on the shoulder.", "S": [], "A": []}

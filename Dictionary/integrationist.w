@@ -1,0 +1,1 @@
+{"index": 154235, "D": "a person who believes in, supports, or works for social integration. ", "S": [], "A": []}

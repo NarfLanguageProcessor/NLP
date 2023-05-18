@@ -1,0 +1,1 @@
+{"index": 250429, "D": "a person whose office it is to perform religious rites, and especially to make sacrificial offerings.", "S": [], "A": []}

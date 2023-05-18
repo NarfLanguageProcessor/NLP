@@ -1,0 +1,1 @@
+{"index": 28608, "D": "attached at or near the base,  as a leaf to a stem.", "S": [], "A": []}

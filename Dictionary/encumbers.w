@@ -1,0 +1,1 @@
+{"index": 99550, "D": "to impede or hinder; hamper", "S": ["overburden "], "A": ["advance ", "aid ", "allow ", "assist ", "benefit ", "boost ", "clear ", "encourage ", "exonerate ", "facilitate ", "forward ", "free ", "further ", "gladden ", "help ", "let go ", "make happy ", "open ", "permit ", "please ", "promote ", "push ", "release ", "support ", "unblock ", "unburden "]}

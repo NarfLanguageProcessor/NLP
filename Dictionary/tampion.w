@@ -1,0 +1,1 @@
+{"index": 315944, "D": "a plug or stopper placed in the muzzle of a piece of ordnance when not in use, to keep out dampness and dust.", "S": [], "A": []}

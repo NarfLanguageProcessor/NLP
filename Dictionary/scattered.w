@@ -1,0 +1,1 @@
+{"index": 279872, "D": "distributed or occurring at widely spaced and usually irregular intervals", "S": ["dispersed ", "distributed ", "sprinkled "], "A": ["connected ", "together ", "united "]}

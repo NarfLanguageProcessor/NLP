@@ -1,0 +1,1 @@
+{"index": 114493, "D": "capable of being bent, usually without breaking; easily bent", "S": ["malleable ", "soft "], "A": ["firm ", "rigid "]}

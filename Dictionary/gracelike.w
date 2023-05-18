@@ -1,0 +1,1 @@
+{"index": 128489, "D": "elegance or beauty of form, manner, motion, or action", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 52825, "D": "the state or quality of being chary. ", "S": ["alertness ", "care ", "carefulness ", "cautiousness ", "heedfulness ", "precaution ", "wariness ", "watchfulness "], "A": ["carelessness "]}

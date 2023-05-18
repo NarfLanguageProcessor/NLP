@@ -1,0 +1,1 @@
+{"index": 199366, "D": "any congenital anomaly of the skin, including moles and various types of birthmarks.", "S": ["beauty spot ", "birthmark ", "mole ", "patch "], "A": []}

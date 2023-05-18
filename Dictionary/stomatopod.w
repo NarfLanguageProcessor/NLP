@@ -1,0 +1,1 @@
+{"index": 305146, "D": "any crustacean of the order Stomatopoda, having a carapace that does not cover the posterior thorax and a broad abdomen bearing gills on the appendages.", "S": [], "A": []}

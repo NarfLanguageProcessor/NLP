@@ -1,0 +1,1 @@
+{"index": 144426, "D": "a man whose spouse works and who stays home to manage their household.", "S": [], "A": []}

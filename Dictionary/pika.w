@@ -1,0 +1,1 @@
+{"index": 236507, "D": "any of several small, brown to gray tailless mammals of the genus Ochotona, resembling rabbits with short ears and legs and inhabiting western mountains of North America and parts of eastern Europe and Asia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 306052, "D": "to make stronger;  give strength to.", "S": ["reinforced ", "stiffened "], "A": ["discouraged ", "opposed "]}

@@ -1,0 +1,1 @@
+{"index": 46797, "D": "a short cape  usually covering just the shoulders.", "S": [], "A": []}

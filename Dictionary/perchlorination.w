@@ -1,0 +1,1 @@
+{"index": 230427, "D": "to combine with the maximum proportion of chlorine.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 208669, "D": "contraction of northwester. ", "S": [], "A": []}

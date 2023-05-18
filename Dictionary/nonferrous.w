@@ -1,0 +1,1 @@
+{"index": 204014, "D": "(of a metal) containing little or no iron.", "S": [], "A": []}

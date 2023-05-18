@@ -1,0 +1,1 @@
+{"index": 109092, "D": "something that actually exists; reality; truth", "S": ["certainty ", "clue ", "cue ", "data ", "details ", "dope ", "gospel ", "info ", "numbers ", "poop ", "reality ", "scoop ", "score ", "story "], "A": ["hypothesis ", "theory "]}

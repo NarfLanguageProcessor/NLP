@@ -1,0 +1,1 @@
+{"index": 76097, "D": "a diminutive of dad1. ", "S": ["old man ", "papa ", "parent "], "A": []}

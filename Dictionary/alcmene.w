@@ -1,0 +1,1 @@
+{"index": 7670, "D": "the mother of Hercules by Zeus, who had assumed the form of Amphitryon, her husband.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148237, "D": "an African antelope, Aepyceros melampus, the male of which has ringed, lyre-shaped horns.", "S": [], "A": []}

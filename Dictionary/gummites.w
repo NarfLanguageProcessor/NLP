@@ -1,0 +1,1 @@
+{"index": 131292, "D": "a yellow to red alteration product of pitchblende and a minor ore of uranium, having a greasy luster and occurring in gumlike masses.", "S": [], "A": []}

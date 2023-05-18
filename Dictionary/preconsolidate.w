@@ -1,0 +1,1 @@
+{"index": 246457, "D": "to bring together (separate parts) into a single or unified whole; unite; combine", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 302676, "D": "a person who stands,  as a passenger in a train, a spectator at a theater, etc., either because all the seats are taken or because standing room  is cheaper than a seat.", "S": ["bystander ", "fan ", "moviegoer ", "observer ", "onlooker ", "sports fan ", "theatergoer ", "viewer "], "A": ["participant "]}

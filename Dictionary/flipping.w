@@ -1,0 +1,1 @@
+{"index": 114700, "D": "(used as an intensifier)", "S": ["delighted ", "ecstatic ", "elated ", "joyful ", "joyous ", "jubilant ", "overjoyed ", "triumphant "], "A": ["depressed ", "disappointed ", "miserable ", "sad ", "sorrowful ", "troubled ", "unhappy "]}

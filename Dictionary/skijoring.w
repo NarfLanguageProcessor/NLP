@@ -1,0 +1,1 @@
+{"index": 293162, "D": "a sport in which a skier is pulled over snow or ice, generally by a horse.", "S": [], "A": []}

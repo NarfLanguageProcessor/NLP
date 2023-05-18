@@ -1,0 +1,1 @@
+{"index": 250994, "D": "the technique, method, or system of operating or controlling a process by highly automatic  means, as by electronic devices, reducing human intervention to a minimum.", "S": [], "A": []}

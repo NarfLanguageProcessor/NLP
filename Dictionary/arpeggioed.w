@@ -1,0 +1,1 @@
+{"index": 20123, "D": "the sounding of the notes of a chord in rapid succession instead of simultaneously.", "S": [], "A": []}

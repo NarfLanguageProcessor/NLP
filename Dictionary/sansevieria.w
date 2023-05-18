@@ -1,0 +1,1 @@
+{"index": 278027, "D": "any plant belonging to the genus Sansevieria, of the agave family, grown as a houseplant for its stiff, sword-shaped leaves and white or yellow flowers.", "S": [], "A": []}

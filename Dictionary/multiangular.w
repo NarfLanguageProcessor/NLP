@@ -1,0 +1,1 @@
+{"index": 194986, "D": "having many angles; polyangular.", "S": [], "A": []}

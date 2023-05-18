@@ -1,0 +1,1 @@
+{"index": 217012, "D": "gone out of style; no longer fashionable", "S": ["antiquated ", "archaic ", "obsolete ", "out-of-date "], "A": ["current ", "modern ", "new ", "present ", "fresh "]}

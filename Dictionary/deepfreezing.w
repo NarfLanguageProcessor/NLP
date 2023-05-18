@@ -1,0 +1,1 @@
+{"index": 78997, "D": "a state or period of halted or suspended activity or progress", "S": ["cryonics ", "deathlike state ", "freeze-drying ", "motionlessness ", "suspension "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 138967, "D": "of or relating to hydrostatics. ", "S": [], "A": []}

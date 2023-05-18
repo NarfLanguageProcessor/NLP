@@ -1,0 +1,1 @@
+{"index": 191474, "D": "an herb given to Odysseus by Hermes to counteract the spells of Circe.", "S": [], "A": []}

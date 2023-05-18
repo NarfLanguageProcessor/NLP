@@ -1,0 +1,1 @@
+{"index": 359041, "D": "Italian merchant, adventurer, and explorer after whom America was named.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256627, "D": "a learned person, expert, or authority.", "S": [], "A": []}

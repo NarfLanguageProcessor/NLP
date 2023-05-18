@@ -1,0 +1,1 @@
+{"index": 259609, "D": "the radioactive isotope of thorium having a mass number 227 and a half-life of 18.8 days. Symbol", "S": [], "A": []}

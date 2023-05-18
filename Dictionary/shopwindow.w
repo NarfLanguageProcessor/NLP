@@ -1,0 +1,1 @@
+{"index": 288855, "D": "a window  used for display of merchandise.", "S": [], "A": []}

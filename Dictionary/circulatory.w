@@ -1,0 +1,1 @@
+{"index": 58038, "D": [], "S": ["circling ", "moving ", "rotating "], "A": ["motionless ", "stationary ", "still "]}

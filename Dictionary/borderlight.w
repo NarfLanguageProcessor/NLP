@@ -1,0 +1,1 @@
+{"index": 38383, "D": "a striplight hung upstage of a border, for lighting the stage.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 95680, "D": "the place where Adam and Eve lived before the Fall. Genesis 2", "S": [], "A": []}

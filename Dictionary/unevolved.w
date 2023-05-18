@@ -1,0 +1,1 @@
+{"index": 341597, "D": "to develop gradually", "S": ["archaic ", "basic ", "primeval ", "primordial ", "pristine ", "undeveloped "], "A": ["modern ", "new ", "auxiliary ", "minor ", "secondary ", "unimportant "]}

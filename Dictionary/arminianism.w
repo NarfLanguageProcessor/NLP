@@ -1,0 +1,1 @@
+{"index": 19949, "D": "Compare Calvinism (def. 1). ", "S": [], "A": []}

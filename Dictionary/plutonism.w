@@ -1,0 +1,1 @@
+{"index": 240671, "D": "the intrusion of magma and associated deep-seated processes within the earth's crust.", "S": [], "A": []}

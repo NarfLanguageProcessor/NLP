@@ -1,0 +1,1 @@
+{"index": 272180, "D": "having the root perennial but the stem annual, as perennial herbs.", "S": [], "A": []}

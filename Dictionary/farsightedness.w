@@ -1,0 +1,1 @@
+{"index": 110056, "D": " See  hyperopia.", "S": ["hypermetropia ", "hyperopia "], "A": []}

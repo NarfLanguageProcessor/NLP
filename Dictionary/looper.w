@@ -1,0 +1,1 @@
+{"index": 175097, "D": "a person or thing that loops  something or forms loops. ", "S": ["bloop ", "blooper ", "pop-up "], "A": []}

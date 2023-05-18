@@ -1,0 +1,1 @@
+{"index": 92233, "D": "past the line of scrimmage and at or toward the goal line of the defensive team", "S": [], "A": []}

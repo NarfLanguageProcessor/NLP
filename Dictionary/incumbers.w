@@ -1,0 +1,1 @@
+{"index": 150578, "D": "a less common variant of encumber. ", "S": [], "A": []}

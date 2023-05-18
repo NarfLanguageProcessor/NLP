@@ -1,0 +1,1 @@
+{"index": 234895, "D": "a protein,  as casein or ovalbumin, in which one or more hydroxyl groups of serine, threonine, or tyrosine are hydroxylated.", "S": [], "A": []}

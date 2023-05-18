@@ -1,0 +1,1 @@
+{"index": 58781, "D": "the condition of having a decreased number of cellular elements in the blood; hypocytosis.", "S": [], "A": []}

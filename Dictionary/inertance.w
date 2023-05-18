@@ -1,0 +1,1 @@
+{"index": 151599, "D": "the effect of inertia in an acoustic system, an impeding of the transmission of sound through the system.", "S": [], "A": []}

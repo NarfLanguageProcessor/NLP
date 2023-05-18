@@ -1,0 +1,1 @@
+{"index": 369112, "D": "the figure or symbol 0, which in the Arabic notation for numbers stands for the absence of quantity; cipher.", "S": [], "A": []}

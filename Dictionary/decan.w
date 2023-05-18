@@ -1,0 +1,1 @@
+{"index": 77991, "D": "any of three divisions of 10\u00b0 within a sign of the zodiac.", "S": [], "A": []}

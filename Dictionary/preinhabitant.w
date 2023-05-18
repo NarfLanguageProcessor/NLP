@@ -1,0 +1,1 @@
+{"index": 247979, "D": "a person or animal that inhabits  a place, especially as a permanent resident.", "S": [], "A": []}

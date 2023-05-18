@@ -1,0 +1,1 @@
+{"index": 190572, "D": "a temple of Mithras.", "S": [], "A": []}

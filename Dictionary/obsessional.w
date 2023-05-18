@@ -1,0 +1,1 @@
+{"index": 210415, "D": "the domination of one's thoughts or feelings by a persistent idea, image, desire, etc.", "S": [], "A": []}

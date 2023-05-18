@@ -1,0 +1,1 @@
+{"index": 149850, "D": "happening or likely to happen in an unplanned or subordinate conjunction with something else.", "S": ["component ", "element ", "feature ", "information ", "piece ", "thing "], "A": ["whole ", "heedlessness ", "ignorance ", "neglect "]}

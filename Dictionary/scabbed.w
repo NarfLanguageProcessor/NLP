@@ -1,0 +1,1 @@
+{"index": 279282, "D": "covered with or affected by scabs. ", "S": ["exfoliate ", "sliver "], "A": []}

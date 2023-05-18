@@ -1,0 +1,1 @@
+{"index": 87972, "D": "to free (an estate) from entail. ", "S": [], "A": []}

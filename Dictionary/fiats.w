@@ -1,0 +1,1 @@
+{"index": 111953, "D": "an authoritative decree, sanction, or order", "S": ["authorization ", "command ", "decree ", "dictate ", "dictum ", "edict ", "endorsement ", "mandate ", "ordinance ", "permission ", "precept ", "sanction ", "ukase ", "warrant "], "A": ["denial ", "disapproval ", "opposition ", "veto "]}

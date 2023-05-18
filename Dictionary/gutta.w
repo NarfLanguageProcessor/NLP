@@ -1,0 +1,1 @@
+{"index": 131602, "D": "a drop, or something resembling one.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 113923, "D": "seemingly aimless lounging or strolling around; idleness. ", "S": [], "A": []}

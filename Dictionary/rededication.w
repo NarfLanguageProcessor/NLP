@@ -1,0 +1,1 @@
+{"index": 263978, "D": "the act of dedicating. ", "S": [], "A": []}

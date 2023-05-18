@@ -1,0 +1,1 @@
+{"index": 167170, "D": "burdened; loaded down.", "S": ["burdened ", "charged ", "encumbered ", "full ", "hampered ", "oppressed ", "taxed ", "weighted "], "A": ["empty ", "light ", "unloaded "]}

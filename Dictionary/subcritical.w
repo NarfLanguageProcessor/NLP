@@ -1,0 +1,1 @@
+{"index": 307638, "D": "pertaining to a state, value, or quantity that is less than critical,  especially to a mass of radioactive material.", "S": [], "A": []}

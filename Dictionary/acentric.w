@@ -1,0 +1,1 @@
+{"index": 1914, "D": "not centered; having no center.", "S": [], "A": []}

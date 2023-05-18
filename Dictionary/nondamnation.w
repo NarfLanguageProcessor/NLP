@@ -1,0 +1,1 @@
+{"index": 202678, "D": "the act of damning  or the state of being damned. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 279460, "D": "a person or thing that scallops. ", "S": [], "A": []}

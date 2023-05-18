@@ -1,0 +1,1 @@
+{"index": 209666, "D": "a woman member of a religious order, especially one bound by vows of poverty, chastity, and obedience.", "S": [], "A": []}

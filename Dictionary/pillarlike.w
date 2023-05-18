@@ -1,0 +1,1 @@
+{"index": 236678, "D": "an upright shaft or structure, of stone, brick, or other material, relatively slender in proportion to its height, and of any shape in section, used as a building support, or standing alone, as for a monument", "S": [], "A": []}

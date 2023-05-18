@@ -1,0 +1,1 @@
+{"index": 174951, "D": "strong, persistent desire or craving, especially for something unattainable or distant", "S": ["craving ", "eager ", "languishing ", "pining ", "yearning "], "A": ["despising ", "hating ", "loathing "]}

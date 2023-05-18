@@ -1,0 +1,1 @@
+{"index": 322857, "D": "an individual having the characteristics of a remote ancestor or primitive type; an example of atavism.", "S": ["estate ", "gift ", "tradition "], "A": []}

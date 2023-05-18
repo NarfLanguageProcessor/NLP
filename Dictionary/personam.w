@@ -1,0 +1,1 @@
+{"index": 231978, "D": "(of a legal proceeding or judgment) directed against a party or parties, rather than against property.", "S": [], "A": []}

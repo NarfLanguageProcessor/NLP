@@ -1,0 +1,1 @@
+{"index": 331613, "D": "the club carried by a police officer; billy.", "S": ["baton "], "A": []}

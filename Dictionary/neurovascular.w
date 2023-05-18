@@ -1,0 +1,1 @@
+{"index": 199281, "D": "of, relating to, or involving the nerves and blood vessels.", "S": [], "A": []}

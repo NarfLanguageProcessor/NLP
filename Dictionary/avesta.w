@@ -1,0 +1,1 @@
+{"index": 24719, "D": "a collection of sacred Zoroastrian writings, including the Gathas.", "S": [], "A": []}

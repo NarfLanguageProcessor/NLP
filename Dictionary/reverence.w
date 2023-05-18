@@ -1,0 +1,1 @@
+{"index": 271219, "D": "a feeling or attitude of deep respect tinged with awe; veneration.", "S": ["admiration ", "adoration ", "awe ", "deference ", "devotion ", "esteem ", "loyalty ", "piety ", "respect ", "veneration "], "A": ["dishonor ", "disregard ", "disrespect ", "hate ", "censure ", "condemnation ", "criticism ", "dislike ", "hatred "]}

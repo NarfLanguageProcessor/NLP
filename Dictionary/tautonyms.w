@@ -1,0 +1,1 @@
+{"index": 317180, "D": "Compare autonym (def. 4). ", "S": [], "A": []}

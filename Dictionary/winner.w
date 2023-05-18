@@ -1,0 +1,1 @@
+{"index": 366204, "D": "a person or thing that wins; victor", "S": ["champ ", "champion ", "first ", "hero ", "medalist ", "number one "], "A": ["loser "]}

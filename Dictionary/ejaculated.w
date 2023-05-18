@@ -1,0 +1,1 @@
+{"index": 96578, "D": "to utter suddenly and briefly; exclaim.", "S": ["climax ", "come ", "discharge ", "spurt "], "A": []}

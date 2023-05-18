@@ -1,0 +1,1 @@
+{"index": 338901, "D": "a division or subdivision of the stem or axis of a tree, shrub, or other plant.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 234140, "D": "the science of physical geography.", "S": ["earth science ", "geology ", "geopolitics ", "topography "], "A": []}

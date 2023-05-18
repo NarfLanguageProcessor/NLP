@@ -1,0 +1,1 @@
+{"index": 356150, "D": "the enlarged, muscular, expandable portion of the oviduct in which the fertilized ovum implants and develops or rests during prenatal development; the womb of certain mammals.", "S": [], "A": []}

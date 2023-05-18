@@ -1,0 +1,1 @@
+{"index": 109214, "D": "a bundle of sticks, twigs, or branches bound together and used as fuel, a fascine, a torch, etc.", "S": [], "A": []}

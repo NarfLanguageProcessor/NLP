@@ -1,0 +1,1 @@
+{"index": 274663, "D": "rotogravure (defs. 2, 3). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 102139, "D": "a table showing the positions of a heavenly body on a number of dates in a regular sequence.", "S": ["calendar ", "journal ", "yearbook "], "A": []}

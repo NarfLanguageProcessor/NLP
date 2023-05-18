@@ -1,0 +1,1 @@
+{"index": 70972, "D": "a plot  directed against another plot. ", "S": ["plot ", "scheme ", "sedition ", "treason "], "A": ["faithfulness ", "honesty ", "ignorance ", "loyalty "]}

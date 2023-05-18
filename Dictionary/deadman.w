@@ -1,0 +1,1 @@
+{"index": 77488, "D": "a log, concrete block, etc., buried in the ground as an anchor.", "S": ["cadaver ", "carcass ", "corpse ", "remains "], "A": []}

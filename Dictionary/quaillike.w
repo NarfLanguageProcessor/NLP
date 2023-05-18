@@ -1,0 +1,1 @@
+{"index": 257810, "D": "any of numerous gallinaceous  birds, order Galliformes, classified as either Old World quails, within the pheasant family (Phasinidae), especially the genus Coturnix, or the distantly related New World quails, comprising their own family (Odontophoridae), including the genera Colinus,Callipepla, and Odontophorus", "S": [], "A": []}

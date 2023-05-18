@@ -1,0 +1,1 @@
+{"index": 342719, "D": "to remove (a person) from one's list of friends, or contacts, on a social media website.", "S": [], "A": []}

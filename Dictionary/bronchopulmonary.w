@@ -1,0 +1,1 @@
+{"index": 41408, "D": "Relating to or involving the bronchial tubes and the lungs.", "S": [], "A": []}

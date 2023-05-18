@@ -1,0 +1,1 @@
+{"index": 27372, "D": "an obsolete musical instrument resembling the guitar.", "S": [], "A": []}

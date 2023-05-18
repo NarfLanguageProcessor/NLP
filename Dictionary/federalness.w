@@ -1,0 +1,1 @@
+{"index": 110814, "D": "pertaining to or of the nature of a union of states under a central government distinct from the individual governments of the separate states, as in federal government; federal system.", "S": [], "A": []}

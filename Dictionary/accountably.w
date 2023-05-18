@@ -1,0 +1,1 @@
+{"index": 1724, "D": "subject to the obligation to report, explain, or justify something; responsible; answerable.", "S": [], "A": []}

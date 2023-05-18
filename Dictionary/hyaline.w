@@ -1,0 +1,1 @@
+{"index": 138154, "D": "a structureless, transparent substance found in cartilage, the eye, etc., resulting from the pathological degeneration of tissue.", "S": ["glazed ", "icy ", "shiny ", "sleek "], "A": ["dull ", "rough "]}

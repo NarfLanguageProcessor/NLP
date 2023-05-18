@@ -1,0 +1,1 @@
+{"index": 148790, "D": "something implied  or suggested as naturally to be inferred or understood", "S": [], "A": []}

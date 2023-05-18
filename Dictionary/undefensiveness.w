@@ -1,0 +1,1 @@
+{"index": 338584, "D": "serving to defend; protective", "S": [], "A": []}

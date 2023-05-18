@@ -1,0 +1,1 @@
+{"index": 178900, "D": "tomorrow; the (indefinite) future.", "S": [], "A": []}

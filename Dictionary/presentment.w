@@ -1,0 +1,1 @@
+{"index": 249381, "D": "an act of presenting,  especially to the mind, as an idea, view, etc.", "S": ["drawing ", "illustration ", "image ", "likeness ", "picture ", "portrayal ", "representation ", "sketch "], "A": []}

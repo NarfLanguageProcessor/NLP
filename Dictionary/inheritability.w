@@ -1,0 +1,1 @@
+{"index": 152675, "D": "capable of being inherited.", "S": [], "A": []}

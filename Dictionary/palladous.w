@@ -1,0 +1,1 @@
+{"index": 223946, "D": "of or containing bivalent palladium. ", "S": [], "A": []}

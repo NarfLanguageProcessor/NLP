@@ -1,0 +1,1 @@
+{"index": 149641, "D": "increasing in heat or ardor.", "S": ["fever ", "hot weather ", "warmth "], "A": ["chill "]}

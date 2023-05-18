@@ -1,0 +1,1 @@
+{"index": 295748, "D": "(of animals) to force the breath violently through the nostrils with a loud, harsh sound", "S": [], "A": []}

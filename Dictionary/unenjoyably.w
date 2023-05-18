@@ -1,0 +1,1 @@
+{"index": 341300, "D": "giving or capable of giving joy or pleasure", "S": [], "A": []}

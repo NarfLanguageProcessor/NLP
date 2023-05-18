@@ -1,0 +1,1 @@
+{"index": 117108, "D": "a sign of a future event; omen; forewarning.", "S": ["auspice ", "boding ", "forerunner ", "forewarning ", "harbinger ", "herald ", "portent ", "precursor ", "presage ", "prognostication ", "promise ", "prophecy ", "sign ", "token ", "warning "], "A": []}

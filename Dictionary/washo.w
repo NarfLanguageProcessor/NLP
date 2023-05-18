@@ -1,0 +1,1 @@
+{"index": 362921, "D": "a member of a tribe of North American Indians living in western Nevada and northeastern California.", "S": [], "A": []}

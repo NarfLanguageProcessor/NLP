@@ -1,0 +1,1 @@
+{"index": 46924, "D": "a numbering or assessing by the head.", "S": ["contribution ", "cost ", "duty ", "expense ", "fine ", "levy ", "price ", "rate ", "tariff "], "A": []}

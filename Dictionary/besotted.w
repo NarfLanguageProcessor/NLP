@@ -1,0 +1,1 @@
+{"index": 32456, "D": "infatuated or obsessed", "S": ["buzzed ", "cooked ", "drunk ", "inebriated ", "intoxicated ", "sloshed ", "smashed ", "wasted ", "zonked "], "A": []}

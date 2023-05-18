@@ -1,0 +1,1 @@
+{"index": 248971, "D": "exhibiting behavior that indicates the approach of a psychotic  reaction.", "S": [], "A": []}

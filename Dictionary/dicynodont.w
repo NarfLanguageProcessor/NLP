@@ -1,0 +1,1 @@
+{"index": 84877, "D": "any of various extinct Triassic mammal-like reptiles having a single pair of tusklike teeth", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 98745, "D": "special stress laid upon, or importance attached to, anything", "S": ["attention ", "insistence ", "intensity ", "priority ", "significance ", "strength ", "stress ", "weight "], "A": ["ignorance ", "lethargy ", "triviality ", "unimportance ", "incompetence ", "weakness "]}

@@ -1,0 +1,1 @@
+{"index": 369360, "D": "of, or relating to a zymogen", "S": [], "A": []}

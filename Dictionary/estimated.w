@@ -1,0 +1,1 @@
+{"index": 104668, "D": "to form an approximate judgment or opinion regarding the worth, amount, size, weight, etc., of; calculate approximately", "S": ["predicted "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332692, "D": "an obsolete word for turgid", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 137593, "D": "having females of two different kinds, one sexual and the other abortive or neuter, as ants.", "S": [], "A": []}

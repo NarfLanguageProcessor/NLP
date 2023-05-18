@@ -1,0 +1,1 @@
+{"index": 291409, "D": "to cause to indicate the same time, as one timepiece with another", "S": ["simultaneity ", "synchronism "], "A": []}

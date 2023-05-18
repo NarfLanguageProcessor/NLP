@@ -1,0 +1,1 @@
+{"index": 49372, "D": "an ancient military engine for hurling stones, arrows, etc.", "S": ["slingshot "], "A": []}

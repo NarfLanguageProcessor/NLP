@@ -1,0 +1,1 @@
+{"index": 209076, "D": "pertaining to or characteristic of nouvelle cuisine.", "S": [], "A": []}

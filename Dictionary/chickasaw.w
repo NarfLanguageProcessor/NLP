@@ -1,0 +1,1 @@
+{"index": 54141, "D": "a member of a tribe of North American Indians, formerly in northern Mississippi, now in Oklahoma.", "S": [], "A": []}

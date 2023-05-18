@@ -1,0 +1,1 @@
+{"index": 368922, "D": " Another spelling of  sastrugi.", "S": [], "A": []}

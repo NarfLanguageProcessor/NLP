@@ -1,0 +1,1 @@
+{"index": 277841, "D": "any plant belonging to the genus Arenaria, of the pink family, having narrow leaves and clusters of usually white flowers, many of which grow in sandy soil.", "S": [], "A": []}

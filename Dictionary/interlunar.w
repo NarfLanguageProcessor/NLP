@@ -1,0 +1,1 @@
+{"index": 155268, "D": "pertaining to the moon's monthly period of invisibility between the old moon and the new.", "S": [], "A": []}

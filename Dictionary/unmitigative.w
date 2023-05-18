@@ -1,0 +1,1 @@
+{"index": 346460, "D": "lessening the force, intensity, or severity of something, as punishment, danger, pain, anger, etc. (sometimes used in combination)", "S": [], "A": []}

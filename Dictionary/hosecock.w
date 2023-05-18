@@ -1,0 +1,1 @@
+{"index": 144140, "D": "a threaded exterior faucet, as for attaching a garden hose. ", "S": [], "A": []}

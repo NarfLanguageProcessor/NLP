@@ -1,0 +1,1 @@
+{"index": 67488, "D": "lasting or enduring without interruption", "S": [], "A": []}

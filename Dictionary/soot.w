@@ -1,0 +1,1 @@
+{"index": 297356, "D": "a black, carbonaceous substance produced during incomplete combustion of coal, wood, oil, etc., rising in fine particles and adhering to the sides of the chimney or pipe conveying the smoke", "S": ["ash ", "grit ", "gunk ", "residue ", "sediment ", "smoke "], "A": []}

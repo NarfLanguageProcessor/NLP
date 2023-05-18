@@ -1,0 +1,1 @@
+{"index": 22775, "D": "of, relating to, or marked by atonality. ", "S": [], "A": []}

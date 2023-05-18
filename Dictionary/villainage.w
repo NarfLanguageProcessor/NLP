@@ -1,0 +1,1 @@
+{"index": 359725, "D": "a variant of villeinage. ", "S": [], "A": []}

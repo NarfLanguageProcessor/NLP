@@ -1,0 +1,1 @@
+{"index": 317884, "D": "the wool shorn from such a sheep.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 275584, "D": "a story or statement in general circulation without confirmation or certainty as to facts", "S": [], "A": []}

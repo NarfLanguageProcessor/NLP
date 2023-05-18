@@ -1,0 +1,1 @@
+{"index": 354052, "D": "capable of being warranted. ", "S": [], "A": []}

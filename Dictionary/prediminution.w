@@ -1,0 +1,1 @@
+{"index": 246969, "D": "the act, fact, or process of diminishing;  lessening; reduction.", "S": [], "A": []}

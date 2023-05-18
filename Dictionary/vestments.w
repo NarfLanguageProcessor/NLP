@@ -1,0 +1,1 @@
+{"index": 359102, "D": "a garment, especially an outer garment.", "S": ["attire ", "garb ", "regalia ", "sportswear ", "wardrobe "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 239283, "D": "a casting of a type specimen, especially of a fossil.", "S": [], "A": []}

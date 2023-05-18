@@ -1,0 +1,1 @@
+{"index": 162991, "D": "a shout of surrender, used by German soldiers", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288120, "D": "a fortified, amber-colored wine of southern Spain or any of various similar wines made elsewhere.", "S": [], "A": []}

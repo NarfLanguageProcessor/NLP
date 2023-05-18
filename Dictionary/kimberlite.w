@@ -1,0 +1,1 @@
+{"index": 164711, "D": "a variety of micaceous peridotite, low in silica content and high in magnesium content, in which diamonds are formed.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 139770, "D": "the dried leaves, with or without the tops, of the henbane, Hyoscyamus niger, containing the alkaloids hyoscyamine  and scopolamine, used in medicine.", "S": [], "A": []}

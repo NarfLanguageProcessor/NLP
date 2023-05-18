@@ -1,0 +1,1 @@
+{"index": 98217, "D": "the acquisition or adoption of middle-class values and manners.", "S": [], "A": []}

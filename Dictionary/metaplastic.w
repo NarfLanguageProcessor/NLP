@@ -1,0 +1,1 @@
+{"index": 184928, "D": "the transformation of one type of tissue into another.", "S": [], "A": []}

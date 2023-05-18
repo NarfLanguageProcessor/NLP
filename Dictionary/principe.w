@@ -1,0 +1,1 @@
+{"index": 250652, "D": "an island in the Gulf of Guinea, off the western coast of Africa", "S": [], "A": []}

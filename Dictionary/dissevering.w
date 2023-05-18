@@ -1,0 +1,1 @@
+{"index": 89519, "D": "to sever; separate.", "S": ["cut ", "detach ", "divide ", "partition ", "section ", "segment ", "sever ", "split "], "A": ["attach ", "combine ", "connect ", "couple ", "join ", "link ", "unite "]}

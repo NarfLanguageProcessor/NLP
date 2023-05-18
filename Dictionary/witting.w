@@ -1,0 +1,1 @@
+{"index": 366739, "D": "knowing; aware; conscious.", "S": ["apprehensive ", "conscious ", "informed ", "judicious ", "knowledgeable ", "observant "], "A": ["ignorant ", "indifferent ", "senseless ", "thoughtless ", "unaware ", "uninformed ", "unmindful "]}

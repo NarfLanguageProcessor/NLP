@@ -1,0 +1,1 @@
+{"index": 256703, "D": "a punk rock  musician or a devotee of punk rock or punk  styles.", "S": ["amiss ", "crummy ", "dirty ", "diseased ", "lousy ", "nasty ", "sour ", "unlucky ", "unpleasant "], "A": ["agreeable ", "clean ", "friendly ", "good ", "great ", "happy ", "magnificent ", "moral ", "pleasant ", "pleasing ", "wonderful "]}

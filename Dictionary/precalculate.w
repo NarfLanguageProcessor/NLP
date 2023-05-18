@@ -1,0 +1,1 @@
+{"index": 245902, "D": "to determine or ascertain by mathematical methods; compute", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 180139, "D": "any of several aromatic herbs belonging to the genus Origanum, of the mint family, especially O. majorana(sweet marjoram ), having leaves used as seasoning in cooking.", "S": [], "A": []}

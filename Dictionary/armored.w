@@ -1,0 +1,1 @@
+{"index": 19981, "D": "protected by armor  or armor plate. ", "S": ["bulletproof "], "A": ["breakable ", "unprotected ", "weak "]}

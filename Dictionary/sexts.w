@@ -1,0 +1,1 @@
+{"index": 286931, "D": "the fourth of the seven canonical hours, or the service for it, originally fixed for the sixth hour of the day taken as noon.", "S": [], "A": []}

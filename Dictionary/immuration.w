@@ -1,0 +1,1 @@
+{"index": 148182, "D": "to enclose within walls.", "S": ["custody ", "detention ", "incarceration ", "internment ", "jail ", "repression "], "A": ["freedom ", "liberation ", "liberty ", "allowance ", "permission "]}

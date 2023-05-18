@@ -1,0 +1,1 @@
+{"index": 84, "D": "the centimeter-gram-second unit of electromagnetic current, equivalent to 10 amperes.", "S": [], "A": []}

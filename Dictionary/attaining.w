@@ -1,0 +1,1 @@
+{"index": 22959, "D": "to reach, achieve, or accomplish; gain; obtain", "S": ["accomplishing ", "completing ", "consummating ", "doing ", "fulfilling ", "perfecting ", "performing ", "reaching "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 164246, "D": "a curved dagger of Islamic countries.", "S": [], "A": []}

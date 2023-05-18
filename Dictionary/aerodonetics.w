@@ -1,0 +1,1 @@
+{"index": 4994, "D": "the study of soaring or gliding flight, esp the study of gliders", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 210323, "D": "offensive to morality or decency; indecent; depraved", "S": [], "A": []}

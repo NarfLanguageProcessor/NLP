@@ -1,0 +1,1 @@
+{"index": 237969, "D": "a whirling about on one foot or on the points of the toes, as in ballet dancing.", "S": ["circle ", "circuit ", "circulation ", "circumvolution ", "cycle ", "gyre ", "lap ", "orbit ", "reel ", "roll ", "rotation ", "round ", "spin ", "swirl ", "turn ", "turning ", "twirl ", "wheel ", "whirl "], "A": []}

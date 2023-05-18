@@ -1,0 +1,1 @@
+{"index": 250550, "D": "a recurrent theory or belief, as in philosophy or art, that the qualities of primitive  or chronologically early cultures are superior to those of contemporary civilization.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 285996, "D": "the condition of being a serf in a position of servitude, required to render services to a lord", "S": ["bondage ", "servitude "], "A": ["entertainment ", "freedom ", "fun ", "pastime "]}

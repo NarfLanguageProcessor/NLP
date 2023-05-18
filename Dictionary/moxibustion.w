@@ -1,0 +1,1 @@
+{"index": 194440, "D": "a method of treatment, originally in Chinese medicine, in which a moxa is burned on the skin", "S": [], "A": []}

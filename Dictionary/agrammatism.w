@@ -1,0 +1,1 @@
+{"index": 6424, "D": "a type of aphasia, usually caused by cerebral disease, characterized by an inability to construct a grammatical or intelligible sentence while retaining the ability to speak single words.", "S": [], "A": []}

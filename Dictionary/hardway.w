@@ -1,0 +1,1 @@
+{"index": 133710, "D": [], "S": ["backbreaking work ", "donkeywork ", "drudgery ", "labor ", "long haul ", "tough grind ", "uphill battle "], "A": []}

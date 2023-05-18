@@ -1,0 +1,1 @@
+{"index": 307535, "D": "to hide; withdraw or remove from observation; cover or keep from sight", "S": [], "A": []}

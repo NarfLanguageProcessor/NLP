@@ -1,0 +1,1 @@
+{"index": 151976, "D": "a person who does not accept a particular faith, especially Christianity or Islam.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 338948, "D": "the supporting framework underneath a vehicle, as an automobile or trailer; the structure to which the wheels, tracks, or the like are attached or fitted.", "S": ["basic facts ", "basics ", "core ", "essential elements ", "frame ", "skeleton "], "A": []}

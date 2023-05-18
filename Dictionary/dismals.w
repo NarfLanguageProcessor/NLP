@@ -1,0 +1,1 @@
+{"index": 88652, "D": "causing gloom or dejection; gloomy; dreary; cheerless; melancholy", "S": ["gloom ", "malaise ", "slump ", "stagnation ", "stupor "], "A": ["concern ", "excitement ", "feeling ", "happiness ", "interest ", "liveliness ", "sympathy "]}

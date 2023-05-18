@@ -1,0 +1,1 @@
+{"index": 142800, "D": "lacking in physical attractiveness; not beautiful; unattractive", "S": ["disfigurement ", "offensiveness ", "plainness ", "repulsiveness ", "unseemliness ", "unsightliness "], "A": []}

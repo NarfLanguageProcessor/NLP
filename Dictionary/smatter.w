@@ -1,0 +1,1 @@
+{"index": 294766, "D": "to speak (a language, words, etc.) with superficial knowledge or understanding.", "S": ["several ", "some "], "A": ["many ", "much "]}

@@ -1,0 +1,1 @@
+{"index": 221498, "D": "to swing  too hard, hoping to apply more power.", "S": [], "A": []}

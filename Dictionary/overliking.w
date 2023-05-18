@@ -1,0 +1,1 @@
+{"index": 220084, "D": "preference, inclination, or favor", "S": [], "A": []}

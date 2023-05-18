@@ -1,0 +1,1 @@
+{"index": 305416, "D": "recorded or celebrated in history or story", "S": ["famous ", "illustrious ", "legendary "], "A": ["infamous ", "unimportant ", "unknown ", "unremarkable "]}

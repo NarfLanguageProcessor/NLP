@@ -1,0 +1,1 @@
+{"index": 327953, "D": "not lasting, enduring, or permanent; transitory.", "S": ["ephemeral ", "fleeting ", "short-term ", "transitory "], "A": ["enduring ", "lasting ", "lengthy ", "long ", "long-lived ", "permanent ", "perpetual "]}

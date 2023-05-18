@@ -1,0 +1,1 @@
+{"index": 46895, "D": "to write or print in capital letters  letters or with an initial capital letter.", "S": [], "A": []}

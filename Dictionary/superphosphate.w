@@ -1,0 +1,1 @@
+{"index": 312410, "D": "a mixture of calcium acid phosphate and calcium sulfate prepared by treating phosphate rock  with sulfuric acid", "S": [], "A": []}

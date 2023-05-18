@@ -1,0 +1,1 @@
+{"index": 54138, "D": "a member of a North American Indian tribe of the Powhatan confederacy that inhabited eastern Virginia.", "S": [], "A": []}

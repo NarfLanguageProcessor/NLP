@@ -1,0 +1,1 @@
+{"index": 186441, "D": "a defect of vision in which objects appear to be smaller than their actual size.", "S": [], "A": []}

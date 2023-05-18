@@ -1,0 +1,1 @@
+{"index": 367287, "D": "filling (def. 5). ", "S": ["bay ", "growl ", "grunt ", "howl ", "roar ", "snarl ", "yap ", "yip "], "A": []}

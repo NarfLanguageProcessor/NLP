@@ -1,0 +1,1 @@
+{"index": 335969, "D": "not blinking. ", "S": ["agreed ", "certain ", "defined ", "definite ", "definitive ", "inflexible ", "limited ", "planned ", "precise ", "resolved ", "restricted ", "settled ", "stated "], "A": ["imprecise ", "indefinite ", "questionable ", "uncertain ", "unlimited ", "unreliable ", "flexible ", "soft ", "undecided ", "unstable ", "weak "]}

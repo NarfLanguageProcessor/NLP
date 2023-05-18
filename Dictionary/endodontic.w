@@ -1,0 +1,1 @@
+{"index": 99788, "D": "the branch of dentistry dealing with the cause, diagnosis, prevention, and treatment of diseases of the dental pulp, usually by removal of the nerve and other tissue of the pulp cavity and its replacement with suitable filling material; pulp canal therapy; root canal therapy.", "S": [], "A": []}

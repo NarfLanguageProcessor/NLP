@@ -1,0 +1,1 @@
+{"index": 291405, "D": "of, relating to, or exhibiting synchronism", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 136446, "D": "a genus of rod-shaped, parasitic, hemophilic bacteria, certain species of which, as H. influenzae or H. suis, are pathogenic for humans and animals.", "S": [], "A": []}

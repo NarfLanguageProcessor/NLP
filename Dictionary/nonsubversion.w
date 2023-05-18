@@ -1,0 +1,1 @@
+{"index": 207642, "D": "an act or instance of subverting. ", "S": [], "A": []}

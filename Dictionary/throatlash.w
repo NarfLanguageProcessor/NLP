@@ -1,0 +1,1 @@
+{"index": 322738, "D": "the strap that holds a bridle in place, fastening under the horse's jaw", "S": [], "A": []}

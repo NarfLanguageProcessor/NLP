@@ -1,0 +1,1 @@
+{"index": 184763, "D": "a nonmetal that in combination with a metal forms an alloy.", "S": [], "A": []}

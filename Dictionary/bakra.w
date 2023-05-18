@@ -1,0 +1,1 @@
+{"index": 26628, "D": "a White person, esp one from Britain", "S": [], "A": []}

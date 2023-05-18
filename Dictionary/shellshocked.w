@@ -1,0 +1,1 @@
+{"index": 287986, "D": "battle fatigue. ", "S": ["stunned "], "A": []}

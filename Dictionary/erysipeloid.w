@@ -1,0 +1,1 @@
+{"index": 103735, "D": "a disease of humans contracted by contact with the bacillus Erysipelothrix rhusiopathiae, which causes erysipelas in swine, characterized by a painful local ulcer, generally on one of the hands.", "S": [], "A": []}

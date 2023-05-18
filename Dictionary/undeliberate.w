@@ -1,0 +1,1 @@
+{"index": 338658, "D": "carefully weighed or considered; studied; intentional", "S": ["innate ", "instinctive ", "latent ", "lost ", "repressed ", "subliminal ", "suppressed "], "A": ["awake ", "aware ", "conscious ", "decided ", "intended ", "intentional ", "knowing "]}

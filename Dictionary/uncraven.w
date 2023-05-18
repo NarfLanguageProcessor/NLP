@@ -1,0 +1,1 @@
+{"index": 338143, "D": "cowardly; contemptibly timid; pusillanimous.", "S": [], "A": []}

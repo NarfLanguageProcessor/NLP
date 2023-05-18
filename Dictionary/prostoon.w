@@ -1,0 +1,1 @@
+{"index": 253300, "D": "(in classical architecture) a portico.", "S": [], "A": []}

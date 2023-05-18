@@ -1,0 +1,1 @@
+{"index": 303893, "D": "a person who takes stereoscopic photographs.", "S": [], "A": []}

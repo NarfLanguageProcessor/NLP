@@ -1,0 +1,1 @@
+{"index": 93383, "D": "a simple past tense and past participle of drop. ", "S": [], "A": []}

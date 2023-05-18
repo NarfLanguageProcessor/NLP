@@ -1,0 +1,1 @@
+{"index": 41471, "D": "any of various other alloys having a large copper content.", "S": ["bronze ", "bust ", "effigy ", "figure ", "icon ", "image ", "likeness ", "marble ", "piece ", "sculpture ", "statuary ", "statuette "], "A": ["entity "]}

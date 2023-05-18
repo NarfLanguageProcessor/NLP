@@ -1,0 +1,1 @@
+{"index": 104, "D": "away from or opposite the apex", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 74630, "D": "a long, low ridge with a relatively steep face or escarpment on one side and a long, gentle slope on the other.", "S": [], "A": []}

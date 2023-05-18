@@ -1,0 +1,1 @@
+{"index": 80183, "D": "to carry and turn over (letters, goods, etc.) to the intended recipient or recipients", "S": ["bear ", "bring ", "convey ", "distribute ", "drop ", "give ", "hand ", "hand over ", "pass ", "transport "], "A": ["avoid ", "hold ", "keep ", "maintain ", "refrain ", "refuse ", "retain ", "shun ", "take ", "withhold "]}

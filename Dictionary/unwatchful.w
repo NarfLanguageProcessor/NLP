@@ -1,0 +1,1 @@
+{"index": 354075, "D": "vigilant or alert; closely observant", "S": ["apathetic ", "bored ", "careless ", "distracted ", "distraught ", "indifferent ", "oblivious "], "A": ["caring ", "concerned ", "interested ", "mindful "]}

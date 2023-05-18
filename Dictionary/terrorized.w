@@ -1,0 +1,1 @@
+{"index": 319633, "D": "to fill or overcome with terror. ", "S": ["afraid ", "anxious ", "fearful ", "panicky ", "spooked ", "startled ", "unnerved "], "A": ["bold ", "brave ", "cool ", "courageous ", "happy ", "unafraid "]}

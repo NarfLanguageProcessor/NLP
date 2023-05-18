@@ -1,0 +1,1 @@
+{"index": 174420, "D": "the act or power of moving from place to place.", "S": ["action ", "mobility ", "motion ", "progression ", "travel ", "travelling "], "A": ["repose ", "rest "]}

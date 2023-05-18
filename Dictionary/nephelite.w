@@ -1,0 +1,1 @@
+{"index": 198531, "D": "a feldspathoid mineral, essentially sodium aluminum silicate, NaAlSiO4, occurring in alkali-rich volcanic rocks.", "S": [], "A": []}

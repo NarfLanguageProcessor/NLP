@@ -1,0 +1,1 @@
+{"index": 201575, "D": "yielding or containing gold.", "S": [], "A": []}

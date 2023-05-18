@@ -1,0 +1,1 @@
+{"index": 27613, "D": "a very young child.", "S": ["child ", "kid ", "newborn ", "toddler "], "A": ["adult "]}

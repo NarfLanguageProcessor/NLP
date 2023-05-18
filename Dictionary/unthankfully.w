@@ -1,0 +1,1 @@
+{"index": 352873, "D": "not thankful;  ungrateful.", "S": [], "A": []}

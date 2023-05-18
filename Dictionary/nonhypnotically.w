@@ -1,0 +1,1 @@
+{"index": 204455, "D": "of or relating to hypnosis  or hypnotism. ", "S": [], "A": []}

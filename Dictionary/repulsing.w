@@ -1,0 +1,1 @@
+{"index": 268788, "D": "to drive back; repel", "S": ["fend off ", "overthrow ", "put down ", "rebuff ", "repel ", "resist ", "ward off "], "A": ["aid ", "allow ", "approve ", "help "]}

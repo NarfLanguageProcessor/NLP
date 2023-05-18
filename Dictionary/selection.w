@@ -1,0 +1,1 @@
+{"index": 283440, "D": "an act or instance of selecting or the state of being selected; choice.", "S": ["choice ", "collection ", "draft ", "election ", "excerpt ", "option ", "pick "], "A": ["refusal ", "rejection "]}

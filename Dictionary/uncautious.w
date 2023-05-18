@@ -1,0 +1,1 @@
+{"index": 336606, "D": "showing, using, or characterized by caution", "S": [], "A": []}

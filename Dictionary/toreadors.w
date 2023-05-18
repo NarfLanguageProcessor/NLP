@@ -1,0 +1,1 @@
+{"index": 326081, "D": "a bullfighter; torero.", "S": ["banderillero ", "picador ", "torero "], "A": []}

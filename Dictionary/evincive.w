@@ -1,0 +1,1 @@
+{"index": 106265, "D": "serving to evince;  indicative.", "S": ["candid ", "effusive ", "outspoken "], "A": ["ambiguous ", "dishonest ", "unclear ", "vague "]}

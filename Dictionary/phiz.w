@@ -1,0 +1,1 @@
+{"index": 234411, "D": "face. ", "S": ["coloring ", "hue ", "skin ", "texture ", "tinge ", "tint "], "A": ["white "]}

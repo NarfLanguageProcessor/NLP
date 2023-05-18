@@ -1,0 +1,1 @@
+{"index": 64504, "D": "of or like a compendium;  containing the substance of a subject, often an exclusive subject, in a brief form; concise", "S": [], "A": []}

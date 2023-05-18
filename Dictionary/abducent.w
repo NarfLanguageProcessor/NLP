@@ -1,0 +1,1 @@
+{"index": 286, "D": "drawing away, as by the action of a muscle; abducting.", "S": [], "A": []}

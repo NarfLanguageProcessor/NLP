@@ -1,0 +1,1 @@
+{"index": 141865, "D": "an infectious disease of the reticuloendothelial system, caused by the fungus Histoplasma capsulatum and characterized by fever, anemia, and emaciation.", "S": [], "A": []}

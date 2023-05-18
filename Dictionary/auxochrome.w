@@ -1,0 +1,1 @@
+{"index": 24540, "D": "any radical or group of atoms that intensifies the color of a substance.", "S": [], "A": []}

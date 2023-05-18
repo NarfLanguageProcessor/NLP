@@ -1,0 +1,1 @@
+{"index": 302300, "D": "adapted for or produced on the stage. ", "S": ["acted ", "performed "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183014, "D": "a dramatic form that does not observe the laws of cause and effect and that exaggerates emotion and emphasizes plot or action at the expense of characterization.", "S": ["anticlimax ", "comedown ", "letdown ", "mush ", "schmaltz "], "A": ["boon "]}

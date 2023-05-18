@@ -1,0 +1,1 @@
+{"index": 51549, "D": "of or derived from cerotic acid.", "S": [], "A": []}

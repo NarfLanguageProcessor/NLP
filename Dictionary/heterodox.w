@@ -1,0 +1,1 @@
+{"index": 137543, "D": "not in accordance with established or accepted doctrines or opinions, especially in theology; unorthodox.", "S": ["dissident ", "doubtful ", "iconoclastic ", "skeptical "], "A": []}

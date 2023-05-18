@@ -1,0 +1,1 @@
+{"index": 316145, "D": "a large receptacle, container, or structure for holding a liquid or gas", "S": [], "A": []}

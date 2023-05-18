@@ -1,0 +1,1 @@
+{"index": 343296, "D": "the act of grasping; a seizing and holding fast; firm grasp.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 150894, "D": "a subgroup of the Indo-Iranian branch of Indo-European languages that includes Sanskrit, Hindi, Urdu, Bengali, and many other languages of India, Pakistan, and Sri Lanka; Indo-Aryan. ", "S": [], "A": []}

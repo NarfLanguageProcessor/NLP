@@ -1,0 +1,1 @@
+{"index": 359129, "D": "of, relating to, or resembling Mount Vesuvius;  volcanic.", "S": ["Congreve ", "Congreve match ", "Vesta ", "fusee ", "locofoco ", "lucifer match ", "safety match "], "A": []}

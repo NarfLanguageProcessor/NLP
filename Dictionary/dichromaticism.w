@@ -1,0 +1,1 @@
+{"index": 84840, "D": "another name for dichroism (def. 1)", "S": [], "A": []}

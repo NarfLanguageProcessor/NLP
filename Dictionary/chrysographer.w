@@ -1,0 +1,1 @@
+{"index": 56058, "D": "a manuscript, especially of the Middle Ages, written in gold or gold and silver ink.", "S": [], "A": []}

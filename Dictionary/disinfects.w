@@ -1,0 +1,1 @@
+{"index": 88416, "D": "to cleanse (rooms, wounds, clothing, etc.) of infection; destroy disease germs in.", "S": ["cleanse ", "decontaminate ", "sanitize ", "sterilize "], "A": ["dirty "]}

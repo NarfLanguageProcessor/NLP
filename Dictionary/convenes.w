@@ -1,0 +1,1 @@
+{"index": 67949, "D": "to come together or assemble, usually for some public purpose.", "S": ["assemble ", "gather ", "open ", "summon "], "A": ["disperse ", "divide ", "scatter ", "separate ", "cancel "]}

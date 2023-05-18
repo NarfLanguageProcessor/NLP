@@ -1,0 +1,1 @@
+{"index": 225524, "D": "a bank of earth built behind a trench or military emplacement to protect soldiers from a surprise attack from the rear.", "S": [], "A": []}

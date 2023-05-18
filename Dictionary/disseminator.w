@@ -1,0 +1,1 @@
+{"index": 89460, "D": "a person or thing that scatters or spreads something widely, often one that spreads information or ideas", "S": [], "A": []}

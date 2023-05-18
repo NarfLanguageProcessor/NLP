@@ -1,0 +1,1 @@
+{"index": 198552, "D": "an instrument for photographing clouds", "S": [], "A": []}

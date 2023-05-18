@@ -1,0 +1,1 @@
+{"index": 53777, "D": "any organism that oxidizes inorganic or organic compounds as its principal energy source.", "S": [], "A": []}

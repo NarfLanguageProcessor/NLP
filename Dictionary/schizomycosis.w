@@ -1,0 +1,1 @@
+{"index": 280251, "D": "any disease due to schizomycetes.", "S": [], "A": []}

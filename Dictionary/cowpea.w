@@ -1,0 +1,1 @@
+{"index": 71642, "D": "a plant, Vigna unguiculata, extensively cultivated in the southern U.S. for forage, soil improvement, etc.", "S": [], "A": []}

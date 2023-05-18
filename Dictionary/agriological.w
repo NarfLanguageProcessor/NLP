@@ -1,0 +1,1 @@
+{"index": 6503, "D": "the comparative study of nonliterate cultures.", "S": [], "A": []}

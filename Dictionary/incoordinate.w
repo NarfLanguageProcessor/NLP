@@ -1,0 +1,1 @@
+{"index": 150348, "D": "not coordinate;  not coordinated. ", "S": [], "A": []}

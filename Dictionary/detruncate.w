@@ -1,0 +1,1 @@
+{"index": 83318, "D": "to reduce by cutting off a part; cut down.", "S": ["prune ", "shave ", "shear "], "A": ["attach ", "connect ", "elongate ", "expand ", "extend ", "grow ", "increase ", "lengthen ", "raise ", "unite "]}

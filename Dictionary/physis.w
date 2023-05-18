@@ -1,0 +1,1 @@
+{"index": 234188, "D": "the principle of growth or change in nature.", "S": [], "A": []}

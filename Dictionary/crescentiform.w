@@ -1,0 +1,1 @@
+{"index": 72733, "D": [], "S": ["bow-shaped ", "bowed ", "concave ", "convex ", "crescent-shaped ", "crescentic ", "curved ", "falcate ", "semicircular "], "A": []}

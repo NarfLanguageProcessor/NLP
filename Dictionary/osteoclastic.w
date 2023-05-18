@@ -1,0 +1,1 @@
+{"index": 215587, "D": "one of the large multinuclear cells in growing bone concerned with the absorption of osseous tissue, as in the formation of canals.", "S": [], "A": []}

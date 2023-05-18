@@ -1,0 +1,1 @@
+{"index": 182083, "D": "(of a patient) having been treated with a medicine or drug", "S": ["hygienic ", "sterile "], "A": ["dirty "]}

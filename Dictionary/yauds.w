@@ -1,0 +1,1 @@
+{"index": 145854, "D": "a mare, especially an old, worn-out one.", "S": [], "A": []}

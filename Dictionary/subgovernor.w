@@ -1,0 +1,1 @@
+{"index": 308105, "D": "the executive head of a state in the U.S.", "S": [], "A": []}

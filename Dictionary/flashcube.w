@@ -1,0 +1,1 @@
+{"index": 114013, "D": "a cube,  for attaching to a camera, that contains a flashbulb in each vertical side and rotates automatically for taking four flash  pictures in succession.", "S": [], "A": []}

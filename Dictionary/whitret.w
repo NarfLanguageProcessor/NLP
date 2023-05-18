@@ -1,0 +1,1 @@
+{"index": 365235, "D": "a weasel; ermine or stoat.", "S": [], "A": []}

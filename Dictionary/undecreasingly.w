@@ -1,0 +1,1 @@
+{"index": 338526, "D": "becoming less or fewer; diminishing.", "S": [], "A": []}

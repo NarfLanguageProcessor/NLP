@@ -1,0 +1,1 @@
+{"index": 14557, "D": "caused or produced by humans", "S": [], "A": []}

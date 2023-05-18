@@ -1,0 +1,1 @@
+{"index": 309224, "D": "without a definite social structure. ", "S": [], "A": []}

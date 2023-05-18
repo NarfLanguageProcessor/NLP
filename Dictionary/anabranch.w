@@ -1,0 +1,1 @@
+{"index": 11494, "D": "a stream branching off from a river and rejoining it further downstream.", "S": [], "A": []}

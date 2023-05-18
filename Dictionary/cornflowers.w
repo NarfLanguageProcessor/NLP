@@ -1,0 +1,1 @@
+{"index": 69306, "D": "a European composite plant, Centaurea cyanus, growing in grainfields, having blue to white flower  heads, often cultivated as an ornamental.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 149614, "D": "naturally inherent; innate", "S": ["deep-seated ", "innate "], "A": []}

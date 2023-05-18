@@ -1,0 +1,1 @@
+{"index": 313712, "D": "a common ground squirrel or spermophile, Spermophilus (Citellus) citellus, of Europe and Asia.", "S": [], "A": []}

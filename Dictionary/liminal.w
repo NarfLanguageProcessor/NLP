@@ -1,0 +1,1 @@
+{"index": 172376, "D": "of, relating to, or situated at the limen,  the threshold at which a stimulus begins to produce an effect", "S": [], "A": []}

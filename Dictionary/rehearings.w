@@ -1,0 +1,1 @@
+{"index": 265972, "D": "a second presentation of the evidence and arguments of a case before the court of original presentation.", "S": [], "A": []}

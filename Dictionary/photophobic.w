@@ -1,0 +1,1 @@
+{"index": 235302, "D": "of or relating to an organism that avoids light.", "S": [], "A": []}

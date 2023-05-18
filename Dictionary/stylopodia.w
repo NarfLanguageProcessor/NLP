@@ -1,0 +1,1 @@
+{"index": 304577, "D": "a glandular disk or expansion surmounting the ovary and supporting the styles in plants of the parsley family.", "S": [], "A": []}

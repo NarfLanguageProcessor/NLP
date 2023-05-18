@@ -1,0 +1,1 @@
+{"index": 368682, "D": "(in ancient Greek and Roman architecture) a covered portico, as a promenade.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82636, "D": "worth having or wanting; pleasing, excellent, or fine", "S": ["appeal ", "beauty ", "charisma ", "glamour ", "grace ", "magic "], "A": ["ugliness ", "repulsion "]}

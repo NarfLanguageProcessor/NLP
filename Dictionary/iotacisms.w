@@ -1,0 +1,1 @@
+{"index": 157712, "D": "the conversion of other vowel sounds, especially in Modern Greek, into (\u0113), the sound of iota.", "S": [], "A": []}

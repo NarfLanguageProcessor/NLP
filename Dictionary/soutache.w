@@ -1,0 +1,1 @@
+{"index": 297968, "D": "a narrow braid, commonly of mohair, silk, or rayon, used for trimming.", "S": [], "A": []}

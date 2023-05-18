@@ -1,0 +1,1 @@
+{"index": 62432, "D": "(of the hair) arranged or combed in a coiffure;  styled", "S": [], "A": []}

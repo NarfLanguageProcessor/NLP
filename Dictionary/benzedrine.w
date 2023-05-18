@@ -1,0 +1,1 @@
+{"index": 31758, "D": "a brand of amphetamine. ", "S": [], "A": []}

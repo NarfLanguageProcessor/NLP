@@ -1,0 +1,1 @@
+{"index": 37353, "D": "not genuine; counterfeit; spurious; sham.", "S": ["fake ", "false ", "fictitious ", "forged ", "fraudulent ", "phony ", "sham ", "spurious "], "A": ["actual ", "authentic ", "factual ", "genuine ", "honest ", "real ", "sincere ", "true ", "truthful ", "valid "]}

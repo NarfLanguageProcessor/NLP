@@ -1,0 +1,1 @@
+{"index": 365752, "D": "full of, marked by, or proceeding from wiles;  crafty; cunning.", "S": ["cagey ", "crooked ", "scheming ", "shifty ", "shrewd ", "sly ", "sneaky ", "underhanded "], "A": ["aboveboard ", "forthright ", "frank ", "honest ", "open ", "straight "]}

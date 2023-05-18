@@ -1,0 +1,1 @@
+{"index": 285810, "D": "the act of placing in a sepulcher or tomb; burial.", "S": [], "A": []}

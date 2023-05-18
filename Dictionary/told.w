@@ -1,0 +1,1 @@
+{"index": 325238, "D": "simple past tense and past participle of tell1. ", "S": ["declared ", "disclosed ", "issued ", "released ", "reported "], "A": ["hidden ", "suppressed ", "unannounced "]}

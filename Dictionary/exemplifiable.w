@@ -1,0 +1,1 @@
+{"index": 107013, "D": "to show or illustrate by example. ", "S": [], "A": []}

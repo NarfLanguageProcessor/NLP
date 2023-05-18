@@ -1,0 +1,1 @@
+{"index": 276320, "D": "a baglike structure in an animal, plant, or fungus, as one containing fluid.", "S": [], "A": []}

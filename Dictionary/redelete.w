@@ -1,0 +1,1 @@
+{"index": 264025, "D": "to strike out or remove (something written or printed); cancel; erase; expunge.", "S": [], "A": []}

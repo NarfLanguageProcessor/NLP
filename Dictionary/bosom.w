@@ -1,0 +1,1 @@
+{"index": 38589, "D": "the breast of a human being.", "S": ["bust ", "chest ", "teats "], "A": ["exteriority ", "outside "]}

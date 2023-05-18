@@ -1,0 +1,1 @@
+{"index": 272943, "D": "a female given name.", "S": ["aperture ", "arroyo ", "breach ", "canyon ", "chasm ", "chink ", "cleavage ", "clove ", "crack ", "cranny ", "crevasse ", "crevice ", "fissure ", "fracture ", "gorge ", "gulch ", "opening ", "ravine ", "rent ", "rift ", "rime ", "schism ", "slit "], "A": ["closing ", "closure "]}

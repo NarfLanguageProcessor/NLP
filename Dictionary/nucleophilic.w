@@ -1,0 +1,1 @@
+{"index": 209361, "D": "of or relating to electron contribution in covalent bonding (opposed to electrophilic).", "S": [], "A": []}

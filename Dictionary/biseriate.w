@@ -1,0 +1,1 @@
+{"index": 34984, "D": "arranged in two rows; arranged in two cycles or whorls.", "S": [], "A": []}

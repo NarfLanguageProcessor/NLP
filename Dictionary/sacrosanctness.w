@@ -1,0 +1,1 @@
+{"index": 276429, "D": "extremely sacred or inviolable", "S": [], "A": []}

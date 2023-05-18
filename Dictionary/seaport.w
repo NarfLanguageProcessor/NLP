@@ -1,0 +1,1 @@
+{"index": 282527, "D": "a port  or harbor on or accessible to a seacoast and providing accommodation for seagoing vessels.", "S": ["harbor ", "wharf "], "A": []}

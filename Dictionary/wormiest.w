@@ -1,0 +1,1 @@
+{"index": 367606, "D": "containing a worm  or worms;  contaminated with worms. ", "S": ["ravaged "], "A": []}

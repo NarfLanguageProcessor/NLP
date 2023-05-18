@@ -1,0 +1,1 @@
+{"index": 332755, "D": "a native or inhabitant of Turkmenistan.", "S": [], "A": []}

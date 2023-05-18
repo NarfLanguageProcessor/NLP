@@ -1,0 +1,1 @@
+{"index": 22144, "D": "to fill with sudden and overpowering surprise or wonder; amaze", "S": [], "A": []}

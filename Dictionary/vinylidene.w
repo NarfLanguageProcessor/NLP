@@ -1,0 +1,1 @@
+{"index": 359940, "D": "a vinylidene group or radical; vinylidene chloride; a vinylidene resin", "S": [], "A": []}

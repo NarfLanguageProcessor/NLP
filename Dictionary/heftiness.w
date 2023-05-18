@@ -1,0 +1,1 @@
+{"index": 135316, "D": "heavy; weighty", "S": ["denseness ", "density ", "mass ", "massiveness ", "ponderosity ", "ponderousness ", "thickness ", "weight ", "weightiness "], "A": ["thinness "]}

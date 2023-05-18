@@ -1,0 +1,1 @@
+{"index": 101665, "D": "to ask (a person) earnestly; beseech; implore; beg", "S": ["ask ", "beg ", "beseech ", "blandish ", "coax ", "conjure ", "crave ", "enjoin ", "exhort ", "implore ", "importune ", "invoke ", "pester ", "petition ", "plague ", "pray ", "press ", "request ", "supplicate ", "urge ", "wheedle "], "A": ["allow ", "answer ", "give ", "please ", "reply "]}

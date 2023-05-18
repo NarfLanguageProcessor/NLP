@@ -1,0 +1,1 @@
+{"index": 220234, "D": "full of mercy;  characterized by, expressing, or showing mercy;  compassionate", "S": [], "A": []}

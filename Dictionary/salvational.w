@@ -1,0 +1,1 @@
+{"index": 277421, "D": "the act of saving or protecting from harm, risk, loss, destruction, etc.", "S": [], "A": []}

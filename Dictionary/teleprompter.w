@@ -1,0 +1,1 @@
+{"index": 318212, "D": "a brand name for an off-camera device that displays a magnified script so that it is visible to the performers or speakers on a television program.", "S": ["flip card ", "idiot card ", "idiot sheet ", "note card "], "A": []}

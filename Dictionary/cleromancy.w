@@ -1,0 +1,1 @@
+{"index": 59848, "D": "the casting of lots as a means of divination.", "S": [], "A": []}

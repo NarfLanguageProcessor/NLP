@@ -1,0 +1,1 @@
+{"index": 292114, "D": "a winding; sinuosity.", "S": [], "A": []}

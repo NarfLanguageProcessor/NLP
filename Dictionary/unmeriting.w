@@ -1,0 +1,1 @@
+{"index": 346261, "D": "not meriting;  unearned; undeserving.", "S": [], "A": []}

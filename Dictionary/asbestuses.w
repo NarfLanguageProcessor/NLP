@@ -1,0 +1,1 @@
+{"index": 20881, "D": "a fibrous mineral, either amphibole or chrysotile, formerly used for making incombustible or fireproof articles.", "S": [], "A": []}

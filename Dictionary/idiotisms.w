@@ -1,0 +1,1 @@
+{"index": 146569, "D": "idiotic conduct or action.", "S": [], "A": []}

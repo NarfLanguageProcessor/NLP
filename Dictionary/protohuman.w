@@ -1,0 +1,1 @@
+{"index": 253702, "D": "of, relating to, or resembling extinct hominin populations that had some but not all the features of modern Homo sapiens.", "S": ["broken thread ", "omission ", "prehuman "], "A": []}

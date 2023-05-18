@@ -1,0 +1,1 @@
+{"index": 214442, "D": "an instrument of thought or knowledge.", "S": [], "A": []}

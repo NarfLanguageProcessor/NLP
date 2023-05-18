@@ -1,0 +1,1 @@
+{"index": 67876, "D": "an extensive urban area resulting from the expansion of several cities or towns so that they coalesce but usually retain their separate identities.", "S": ["capital ", "center ", "downtown ", "metropolis ", "municipality ", "place ", "port "], "A": []}

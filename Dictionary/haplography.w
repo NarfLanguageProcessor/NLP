@@ -1,0 +1,1 @@
+{"index": 133473, "D": "the accidental omission of a letter or letter group that should be repeated in writing, as in Missippi for Mississippi.", "S": [], "A": []}

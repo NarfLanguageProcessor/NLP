@@ -1,0 +1,1 @@
+{"index": 303394, "D": "a portable balance with two unequal arms, the longer one having a movable counterpoise and the shorter one bearing a hook or the like for holding the object to be weighed.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 155951, "D": "of a distinct or particular kind or character", "S": [], "A": []}

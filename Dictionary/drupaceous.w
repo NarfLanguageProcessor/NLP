@@ -1,0 +1,1 @@
+{"index": 93600, "D": "resembling or relating to a drupe;  consisting of drupes. ", "S": [], "A": []}

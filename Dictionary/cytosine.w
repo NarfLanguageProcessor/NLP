@@ -1,0 +1,1 @@
+{"index": 58803, "D": "a pyrimidine base, C4H5N3O, that is one of the fundamental components of DNA and RNA, in which it forms a base pair with guanine. Symbol", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342800, "D": "not carried out or done", "S": ["discontented "], "A": ["contented ", "happy ", "pleased ", "satisfied "]}

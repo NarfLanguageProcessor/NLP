@@ -1,0 +1,1 @@
+{"index": 282559, "D": "to burn or char the surface of", "S": ["arid ", "dried ", "droughty ", "dry ", "parched ", "scorched ", "sear ", "shriveled ", "waterless ", "withered "], "A": []}

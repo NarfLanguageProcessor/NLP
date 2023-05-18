@@ -1,0 +1,1 @@
+{"index": 3873, "D": "occurring without gain or loss of heat (opposed to diabatic)", "S": [], "A": []}

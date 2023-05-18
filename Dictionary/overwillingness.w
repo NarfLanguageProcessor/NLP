@@ -1,0 +1,1 @@
+{"index": 221855, "D": "consent or readiness to do something", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 258998, "D": "a riding whip consisting of a short, stout stock and a lash of braided leather.", "S": [], "A": []}

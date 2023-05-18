@@ -1,0 +1,1 @@
+{"index": 210116, "D": "in a way that is not influenced by personal feelings or prejudices", "S": ["equitably ", "justly ", "soberly ", "squarely "], "A": ["emotionally ", "subjectively "]}

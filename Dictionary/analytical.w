@@ -1,0 +1,1 @@
+{"index": 11760, "D": "a variant of analytic. ", "S": ["analytic ", "cogent ", "detailed ", "diagnostic ", "interpretive ", "investigative ", "penetrating ", "rational ", "scientific ", "systematic ", "thorough "], "A": ["cursory "]}

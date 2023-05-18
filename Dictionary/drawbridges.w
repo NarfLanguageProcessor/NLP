@@ -1,0 +1,1 @@
+{"index": 92771, "D": "a bridge of which the whole or a section may be drawn up, let down, or drawn aside, to prevent access or to leave a passage open for boats, barges, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 38718, "D": "to annoy; give trouble to; pester", "S": ["agitated ", "distressed ", "disturbed ", "troubled "], "A": ["calm ", "collected ", "unworried "]}

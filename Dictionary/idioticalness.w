@@ -1,0 +1,1 @@
+{"index": 146560, "D": "of, relating to, or characteristic of an idiot. ", "S": [], "A": []}

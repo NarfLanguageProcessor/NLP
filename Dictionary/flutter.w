@@ -1,0 +1,1 @@
+{"index": 115574, "D": "to wave, flap, or toss about", "S": ["drift ", "flicker ", "flit ", "flop ", "hover ", "quiver ", "shiver ", "throb ", "tremble ", "vibrate ", "wiggle ", "wobble "], "A": ["steady ", "calm ", "remain ", "soothe ", "stay "]}

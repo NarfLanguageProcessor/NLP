@@ -1,0 +1,1 @@
+{"index": 303301, "D": "consisting of or resembling steam. ", "S": ["evaporation ", "moisture "], "A": ["aridity ", "dryness "]}

@@ -1,0 +1,1 @@
+{"index": 185032, "D": "the part of a foot or hind limb, especially its bony structure, included between the tarsus  and the toes or phalanges.", "S": [], "A": []}

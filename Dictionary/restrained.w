@@ -1,0 +1,1 @@
+{"index": 270003, "D": "characterized by restraint", "S": ["discreet ", "laid-back ", "mild ", "muted ", "reasonable ", "reticent ", "subdued ", "tasteful ", "unobtrusive "], "A": ["communicative ", "extroverted ", "friendly ", "outgoing "]}

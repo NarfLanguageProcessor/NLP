@@ -1,0 +1,1 @@
+{"index": 138827, "D": "any chemical compound having the general formula, ROOH, where R is an element or an organic group.", "S": [], "A": []}

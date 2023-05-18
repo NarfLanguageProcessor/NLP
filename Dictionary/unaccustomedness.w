@@ -1,0 +1,1 @@
+{"index": 334488, "D": "not accustomed  or habituated", "S": [], "A": []}

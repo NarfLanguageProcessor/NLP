@@ -1,0 +1,1 @@
+{"index": 47951, "D": "of the nature of or resembling a caress", "S": [], "A": []}

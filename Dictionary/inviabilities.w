@@ -1,0 +1,1 @@
+{"index": 157203, "D": "(of an organism) incapable of sustaining its own life.", "S": [], "A": []}

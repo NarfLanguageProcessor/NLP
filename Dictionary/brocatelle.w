@@ -1,0 +1,1 @@
+{"index": 41113, "D": "a heavy brocade with the design in deep relief, used chiefly in upholstery", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45891, "D": "of or relating to a Mesolithic and Neolithic technological facies characterized by picks and tranchets.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 304942, "D": "a person who knits on a stocking frame", "S": [], "A": []}

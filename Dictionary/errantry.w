@@ -1,0 +1,1 @@
+{"index": 103974, "D": "conduct or performance like that of a knight-errant.", "S": [], "A": []}

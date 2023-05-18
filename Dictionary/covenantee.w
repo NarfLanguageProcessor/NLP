@@ -1,0 +1,1 @@
+{"index": 71466, "D": "a person to whom something is promised in a covenant. ", "S": [], "A": []}

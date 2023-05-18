@@ -1,0 +1,1 @@
+{"index": 107924, "D": "at a steady, rapid rate", "S": [], "A": []}

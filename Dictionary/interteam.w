@@ -1,0 +1,1 @@
+{"index": 156036, "D": "a number of persons forming one of the sides in a game or contest", "S": [], "A": []}

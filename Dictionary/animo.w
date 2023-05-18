@@ -1,0 +1,1 @@
+{"index": 13233, "D": "with an even mind; with composure", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 48524, "D": [], "S": ["care ", "conservation ", "preservation ", "supply ", "upkeep "], "A": ["destruction ", "neglect ", "negligence ", "end ", "entertainment ", "finish ", "fun ", "stop "]}

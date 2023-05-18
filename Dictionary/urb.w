@@ -1,0 +1,1 @@
+{"index": 355371, "D": "an urban area.", "S": ["capital ", "center ", "downtown ", "metropolis ", "municipality ", "place ", "port "], "A": []}

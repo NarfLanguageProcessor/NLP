@@ -1,0 +1,1 @@
+{"index": 214121, "D": "of, relating to, or resembling an orchestra. ", "S": ["concert ", "instrumental ", "musical ", "operatic ", "philharmonic ", "symphonious "], "A": []}

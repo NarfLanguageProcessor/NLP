@@ -1,0 +1,1 @@
+{"index": 222037, "D": "the socialistic philosophy of Robert Owen. ", "S": [], "A": []}

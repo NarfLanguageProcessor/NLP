@@ -1,0 +1,1 @@
+{"index": 93368, "D": "the act of a person or thing that drops. ", "S": ["downward "], "A": ["above ", "cheerful ", "cheery ", "happy ", "heartened ", "higher "]}

@@ -1,0 +1,1 @@
+{"index": 32232, "D": "a male given name, French form of Bertram. ", "S": [], "A": []}

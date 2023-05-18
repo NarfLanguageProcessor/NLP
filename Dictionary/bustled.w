@@ -1,0 +1,1 @@
+{"index": 43539, "D": "to move or act with a great show of energy (often followed by about)", "S": ["commotion ", "hubbub ", "tumult "], "A": ["calm ", "calmness ", "order ", "peace ", "delay ", "quiet ", "rest ", "slowness "]}

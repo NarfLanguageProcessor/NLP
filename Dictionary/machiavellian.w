@@ -1,0 +1,1 @@
+{"index": 176735, "D": "of, like, or befitting Machiavelli. ", "S": ["cunning ", "expedient ", "opportunist "], "A": []}

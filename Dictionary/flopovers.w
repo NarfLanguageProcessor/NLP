@@ -1,0 +1,1 @@
+{"index": 114967, "D": "a continuous, vertical movement of a television image picture caused by interference in reception or by improper tuning.", "S": [], "A": []}

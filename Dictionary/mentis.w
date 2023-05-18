@@ -1,0 +1,1 @@
+{"index": 183543, "D": "Compare compos mentis. ", "S": [], "A": []}

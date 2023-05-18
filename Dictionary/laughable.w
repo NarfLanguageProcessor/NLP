@@ -1,0 +1,1 @@
+{"index": 169121, "D": "such as to cause laughter; funny; amusing; ludicrous.", "S": ["absurd ", "bizarre ", "comical ", "fantastic ", "farcical ", "funny ", "hilarious ", "humorous ", "ludicrous ", "nonsensical ", "preposterous ", "ridiculous "], "A": ["common ", "dramatic ", "grave ", "logical ", "normal ", "reasonable ", "sad ", "sensible ", "serious ", "tragic ", "usual "]}

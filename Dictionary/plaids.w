@@ -1,0 +1,1 @@
+{"index": 238738, "D": "any fabric woven of differently colored yarns in a crossbarred pattern.", "S": ["patchwork "], "A": []}

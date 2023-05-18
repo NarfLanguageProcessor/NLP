@@ -1,0 +1,1 @@
+{"index": 358914, "D": "the right to cut such vegetation.", "S": [], "A": []}

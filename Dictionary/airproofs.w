@@ -1,0 +1,1 @@
+{"index": 6980, "D": "impervious to air.", "S": [], "A": []}

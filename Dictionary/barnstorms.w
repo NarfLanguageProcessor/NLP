@@ -1,0 +1,1 @@
+{"index": 28153, "D": "to conduct a campaign or speaking tour in rural areas by making brief stops in many small towns.", "S": ["canvass "], "A": []}

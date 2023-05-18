@@ -1,0 +1,1 @@
+{"index": 71289, "D": "a dance dating back to the 17th century and characterized by a running or gliding step.", "S": [], "A": []}

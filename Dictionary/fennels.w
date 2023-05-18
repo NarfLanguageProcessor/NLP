@@ -1,0 +1,1 @@
+{"index": 111267, "D": "a plant, Foeniculum vulgare, of the parsley family, having feathery leaves and umbels of small, yellow flowers.", "S": ["bhang ", "cannabis ", "fiber ", "flax ", "hashish ", "jute ", "marijuana "], "A": []}

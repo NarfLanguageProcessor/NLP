@@ -1,0 +1,1 @@
+{"index": 96222, "D": "a less common variant of aegis. ", "S": ["aegis ", "aid ", "auspices ", "backing ", "patronage ", "sponsor "], "A": ["opposition ", "opponent "]}

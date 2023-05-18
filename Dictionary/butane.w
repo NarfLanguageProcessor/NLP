@@ -1,0 +1,1 @@
+{"index": 43556, "D": "a colorless, flammable gas, C4H10, a saturated aliphatic existing in two isomeric forms", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 291315, "D": "a member or advocate of an ultrareactionary, semifascist movement organized in Mexico about 1937.", "S": [], "A": []}

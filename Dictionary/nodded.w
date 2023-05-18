@@ -1,0 +1,1 @@
+{"index": 200680, "D": "to make a slight, quick downward bending forward of the head, as in assent, greeting, or command.", "S": ["acknowledge ", "bend ", "bow ", "greet ", "respond ", "salute "], "A": ["differ ", "disagree ", "disallow ", "disapprove ", "dispute ", "dissent ", "object ", "oppose ", "protest ", "refuse ", "reject "]}

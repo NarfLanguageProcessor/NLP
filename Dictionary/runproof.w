@@ -1,0 +1,1 @@
+{"index": 275690, "D": "made to resist unraveling, runs,  or running,  as stockings or dyes.", "S": [], "A": []}

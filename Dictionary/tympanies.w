@@ -1,0 +1,1 @@
+{"index": 323860, "D": "tympanites. ", "S": ["balderdash ", "bluster ", "braggadocio ", "cotton ", "exaggeration ", "fustian ", "gasconade ", "grandiloquence ", "grandiosity ", "magniloquence ", "pad ", "pomposity ", "rage ", "rant ", "rave ", "rhapsody ", "rhetoric ", "rodomontade ", "stuff ", "tumidity ", "turgidity "], "A": []}

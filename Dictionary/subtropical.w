@@ -1,0 +1,1 @@
+{"index": 309614, "D": "bordering on the tropics; nearly tropical. ", "S": [], "A": []}

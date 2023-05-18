@@ -1,0 +1,1 @@
+{"index": 49104, "D": "a brownish, unctuous substance with a strong, penetrating odor, secreted by certain glands in the groin of the beaver, used in medicine and perfumery.", "S": [], "A": []}

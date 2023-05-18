@@ -1,0 +1,1 @@
+{"index": 314544, "D": "to move around or along with a whirling motion; whirl; eddy.", "S": ["boil ", "churn ", "roil ", "twirl ", "whirl "], "A": ["straighten "]}

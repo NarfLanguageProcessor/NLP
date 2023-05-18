@@ -1,0 +1,1 @@
+{"index": 133309, "D": "formed or shaped by hand,  as metal objects.", "S": [], "A": []}

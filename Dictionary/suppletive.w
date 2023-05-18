@@ -1,0 +1,1 @@
+{"index": 312978, "D": "serving as an inflected form of a word with a totally different stem, as went, the suppletive past of go.", "S": [], "A": []}

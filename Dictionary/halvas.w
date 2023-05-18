@@ -1,0 +1,1 @@
+{"index": 132888, "D": "a sweet, candylike confection of Turkish origin, consisting chiefly of ground sesame seeds and honey.", "S": [], "A": []}

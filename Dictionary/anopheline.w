@@ -1,0 +1,1 @@
+{"index": 13817, "D": "any mosquito of the genus Anopheles, certain species of which are vectors of the parasite causing malaria in humans, distinguished from other mosquitoes by the absence of breathing tubes in the larvae and by the head-downward stance of the adult while resting or feeding.", "S": [], "A": []}

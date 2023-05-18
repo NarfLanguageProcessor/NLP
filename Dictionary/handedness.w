@@ -1,0 +1,1 @@
+{"index": 133136, "D": "a tendency to use one hand more than the other.", "S": [], "A": []}

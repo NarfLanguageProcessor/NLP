@@ -1,0 +1,1 @@
+{"index": 10498, "D": "(of a volcanic rock) containing amygdales", "S": [], "A": []}

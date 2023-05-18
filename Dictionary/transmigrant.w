@@ -1,0 +1,1 @@
+{"index": 328085, "D": "a person or thing that transmigrates, or moves or passes from one place to another.", "S": ["alien ", "colonist ", "departer ", "displaced person ", "evacuee ", "exile ", "expatriate ", "fugitive ", "immigrant ", "migrant ", "migrator ", "outcast ", "pilgrim ", "refugee ", "traveler ", "wanderer ", "wayfarer ", "\u00e9migr\u00e9 "], "A": []}

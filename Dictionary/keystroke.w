@@ -1,0 +1,1 @@
+{"index": 163694, "D": "one stroke  of any key  on a machine operated by a keyboard, as a typewriter, computer terminal, or Linotype", "S": [], "A": []}

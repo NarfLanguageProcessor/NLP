@@ -1,0 +1,1 @@
+{"index": 368639, "D": "Compare gladiolus (def. 2), manubrium (def. 2a). ", "S": [], "A": []}

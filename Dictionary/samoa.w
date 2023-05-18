@@ -1,0 +1,1 @@
+{"index": 277562, "D": "a group of islands in the southern Pacific, the islands west of 170\u00b0 W longitude constituting an independent state and the rest belonging to the U.S.", "S": [], "A": []}

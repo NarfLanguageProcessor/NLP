@@ -1,0 +1,1 @@
+{"index": 54867, "D": "cut, shaped, etc., with a chisel", "S": ["engraved ", "sculpted ", "sculptured "], "A": []}

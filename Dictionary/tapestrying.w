@@ -1,0 +1,1 @@
+{"index": 316344, "D": "a fabric consisting of a warp upon which colored threads are woven by hand to produce a design, often pictorial, used for wall hangings, furniture coverings, etc.", "S": [], "A": []}

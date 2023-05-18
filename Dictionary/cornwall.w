@@ -1,0 +1,1 @@
+{"index": 69394, "D": "a county in SW England. 1,369 sq. mi. (3,545 sq. km).", "S": [], "A": []}

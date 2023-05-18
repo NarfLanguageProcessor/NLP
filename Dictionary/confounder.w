@@ -1,0 +1,1 @@
+{"index": 66043, "D": "to perplex or amaze, especially by a sudden disturbance or surprise; bewilder; confuse", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 200956, "D": "the act of abolishing  or the state of being abolished", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321397, "D": "of, relating to, or involving the direct relationship between heat and electricity.", "S": [], "A": []}

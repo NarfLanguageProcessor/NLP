@@ -1,0 +1,1 @@
+{"index": 275267, "D": "a European, freshwater fish, Scardinius erythrophthalmus, of the carp family.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 265095, "D": "to repair; mend. ", "S": [], "A": []}

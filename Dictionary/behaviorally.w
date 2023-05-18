@@ -1,0 +1,1 @@
+{"index": 30779, "D": "manner of behaving or acting.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 160057, "D": "either of two minerals, jadeite  or nephrite, sometimes green, highly esteemed as an ornamental stone for carvings, jewelry, etc.", "S": [], "A": []}

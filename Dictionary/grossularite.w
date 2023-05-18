@@ -1,0 +1,1 @@
+{"index": 130255, "D": "a mineral, calcium aluminum garnet, Ca3Al2Si3O12, occurring in gray-white to pinkish crystals.", "S": [], "A": []}

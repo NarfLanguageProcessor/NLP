@@ -1,0 +1,1 @@
+{"index": 74099, "D": "the act of crucifying. ", "S": ["execution ", "martyrdom ", "suffering ", "torture "], "A": ["contentment ", "happiness "]}

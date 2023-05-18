@@ -1,0 +1,1 @@
+{"index": 356980, "D": "of, derived from, or resembling vanilla  or vanillin.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 319579, "D": "extraordinarily great or intense", "S": ["clearly ", "determinedly ", "distinctly ", "downright ", "positively ", "really ", "terribly ", "unmistakably "], "A": ["doubtfully "]}

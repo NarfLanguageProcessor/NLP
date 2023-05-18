@@ -1,0 +1,1 @@
+{"index": 280657, "D": "the philosophy of the Church of Scientology, a nondenominational movement founded in the US in the 1950s, which emphasizes self-knowledge as a means of realizing full spiritual potential", "S": [], "A": []}

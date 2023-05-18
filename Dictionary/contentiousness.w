@@ -1,0 +1,1 @@
+{"index": 67382, "D": "tending to argument or strife; quarrelsome", "S": ["aggression ", "bellicoseness ", "bellicosity ", "belligerence ", "belligerency ", "combativeness ", "disagreeableness ", "fight ", "hostility ", "pugnacity ", "quarrelsomeness ", "truculence ", "truculency "], "A": []}

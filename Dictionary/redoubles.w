@@ -1,0 +1,1 @@
+{"index": 264371, "D": "to double; make twice as great", "S": ["enhance ", "intensify ", "strengthen "], "A": ["lower ", "weaken ", "decrease ", "diminish ", "lessen ", "reduce ", "stop "]}

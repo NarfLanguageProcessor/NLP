@@ -1,0 +1,1 @@
+{"index": 359213, "D": "a military standard or flag carried by ancient Roman troops.", "S": [], "A": []}

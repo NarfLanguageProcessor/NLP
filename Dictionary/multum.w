@@ -1,0 +1,1 @@
+{"index": 195449, "D": "much in little; a great deal in a small space or in brief.", "S": [], "A": []}

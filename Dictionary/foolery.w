@@ -1,0 +1,1 @@
+{"index": 116097, "D": "foolish action or conduct.", "S": ["absurdity ", "idiocy ", "insanity ", "lunacy ", "madness ", "nonsense ", "nuttiness ", "silliness "], "A": ["sense "]}

@@ -1,0 +1,1 @@
+{"index": 133657, "D": "a protective helmet of metal or plastic, especially as worn by construction or factory workers.", "S": ["helmet "], "A": []}

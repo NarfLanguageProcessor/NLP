@@ -1,0 +1,1 @@
+{"index": 50556, "D": "a compartment, cabinet, or stand fitted for wine bottles.", "S": [], "A": []}

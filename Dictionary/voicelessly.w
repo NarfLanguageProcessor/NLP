@@ -1,0 +1,1 @@
+{"index": 360985, "D": "having no voice; mute.", "S": [], "A": []}

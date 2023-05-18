@@ -1,0 +1,1 @@
+{"index": 150304, "D": "incapable of being contested;  not open to dispute; incontrovertible", "S": ["apparently ", "certainly ", "definitely ", "distinctly ", "evidently ", "obviously ", "openly ", "plainly ", "positively ", "precisely ", "seemingly ", "surely ", "undoubtedly "], "A": ["doubtfully ", "dubiously ", "questionably ", "uncertain "]}

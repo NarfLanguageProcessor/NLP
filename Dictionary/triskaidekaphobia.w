@@ -1,0 +1,1 @@
+{"index": 330584, "D": "an irrational or disproportionate fear of the number 13.", "S": [], "A": []}

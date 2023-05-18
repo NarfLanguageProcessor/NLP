@@ -1,0 +1,1 @@
+{"index": 314602, "D": "to copulate with.", "S": [], "A": []}

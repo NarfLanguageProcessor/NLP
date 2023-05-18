@@ -1,0 +1,1 @@
+{"index": 59422, "D": "a person or thing that classifies. ", "S": [], "A": []}

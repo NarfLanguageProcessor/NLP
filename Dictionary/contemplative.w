@@ -1,0 +1,1 @@
+{"index": 67326, "D": "given to or characterized by contemplation", "S": ["introspective ", "meditative ", "pensive ", "reflective ", "thoughtful "], "A": ["ignorant ", "unthoughtful "]}

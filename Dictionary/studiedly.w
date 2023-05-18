@@ -1,0 +1,1 @@
+{"index": 306799, "D": "marked by or suggestive of conscious effort; not spontaneous or natural; affected", "S": [], "A": []}

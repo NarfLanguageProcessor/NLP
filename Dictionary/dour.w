@@ -1,0 +1,1 @@
+{"index": 92079, "D": "sullen; gloomy", "S": ["bleak ", "glum ", "harsh ", "morose ", "sullen ", "surly "], "A": ["bright ", "cheerful ", "gentle ", "happy ", "nice ", "pleasant "]}

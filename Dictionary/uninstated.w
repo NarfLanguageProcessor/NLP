@@ -1,0 +1,1 @@
+{"index": 344652, "D": "to put or place in a certain state or position, as in an office; install.", "S": [], "A": []}

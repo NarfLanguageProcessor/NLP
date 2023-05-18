@@ -1,0 +1,1 @@
+{"index": 24513, "D": "growth, especially that resulting from an increase in cell size.", "S": [], "A": []}

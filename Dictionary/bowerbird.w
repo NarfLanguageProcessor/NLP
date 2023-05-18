@@ -1,0 +1,1 @@
+{"index": 39162, "D": "any of several oscine birds  of the family Ptilonorhynchidae, of Australia, New Guinea, and adjacent islands, the males of which build bowerlike, decorated structures to attract the females.", "S": [], "A": []}

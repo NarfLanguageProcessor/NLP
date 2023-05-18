@@ -1,0 +1,1 @@
+{"index": 177990, "D": "a small house, especially one connected to a large apartment building.", "S": [], "A": []}

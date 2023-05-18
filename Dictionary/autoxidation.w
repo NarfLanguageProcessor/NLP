@@ -1,0 +1,1 @@
+{"index": 24488, "D": "the oxidation  of a compound by exposure to air.", "S": [], "A": []}

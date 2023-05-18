@@ -1,0 +1,1 @@
+{"index": 131719, "D": "a thick, wet fog along the seacoast.", "S": [], "A": []}

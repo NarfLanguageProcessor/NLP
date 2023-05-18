@@ -1,0 +1,1 @@
+{"index": 106946, "D": "pertaining to or characterized by execration.", "S": [], "A": []}

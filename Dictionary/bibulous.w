@@ -1,0 +1,1 @@
+{"index": 33349, "D": "fond of or addicted to drink.", "S": ["absorptive ", "permeable ", "porous ", "spongy "], "A": []}

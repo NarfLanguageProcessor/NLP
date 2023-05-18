@@ -1,0 +1,1 @@
+{"index": 15555, "D": "any substance that interferes with growth of an organism by competing with or substituting for an essential nutrient in an enzymatic process.", "S": [], "A": []}

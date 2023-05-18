@@ -1,0 +1,1 @@
+{"index": 280314, "D": "a castle or palace.", "S": [], "A": []}

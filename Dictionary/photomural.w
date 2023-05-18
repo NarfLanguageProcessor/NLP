@@ -1,0 +1,1 @@
+{"index": 235269, "D": "a wall decoration consisting of a very large photograph or photographs.", "S": [], "A": []}

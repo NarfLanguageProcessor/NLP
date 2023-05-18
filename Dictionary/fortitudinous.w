@@ -1,0 +1,1 @@
+{"index": 117697, "D": "having or showing fortitude; marked by bravery or courage", "S": ["audacious ", "bold ", "chivalrous ", "courageous ", "dauntless ", "doughty ", "fearless ", "gallant ", "game ", "gutsy ", "heroic ", "intrepid ", "lionhearted ", "plucky ", "stout ", "stouthearted ", "unafraid ", "undaunted ", "unflinching ", "valiant ", "valorous "], "A": []}

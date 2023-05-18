@@ -1,0 +1,1 @@
+{"index": 223765, "D": "the science of the forms of life existing in former geologic periods, as represented by their fossils.", "S": ["excavation "], "A": []}

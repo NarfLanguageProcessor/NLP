@@ -1,0 +1,1 @@
+{"index": 78469, "D": "reduced to or having low or lower status", "S": ["baseborn ", "common ", "declassed ", "humble ", "ignoble ", "inferior ", "mean "], "A": []}

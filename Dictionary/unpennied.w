@@ -1,0 +1,1 @@
+{"index": 347652, "D": "a copper and zinc U.S. coin, worth one 100th of the U.S. dollar; one cent. Previous compositions of U.S. pennies included certain percentages of nickel and steel. ", "S": [], "A": []}

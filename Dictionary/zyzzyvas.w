@@ -1,0 +1,1 @@
+{"index": 369577, "D": "any of various South American weevils of the genus Zyzzyva, often destructive to plants.", "S": [], "A": []}

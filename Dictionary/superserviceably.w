@@ -1,0 +1,1 @@
+{"index": 312644, "D": "overly disposed to be of service; officious.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1843, "D": "under a curse; doomed; ill-fated. ", "S": [], "A": []}

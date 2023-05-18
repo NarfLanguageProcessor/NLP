@@ -1,0 +1,1 @@
+{"index": 59338, "D": "and his son Alvan Graham,  1832\u201397, U.S. astronomers and telescope-lens manufacturers.", "S": [], "A": []}

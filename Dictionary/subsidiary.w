@@ -1,0 +1,1 @@
+{"index": 309170, "D": "serving to assist or supplement; auxiliary; supplementary.", "S": ["ancillary ", "supplementary "], "A": ["chief ", "main ", "major "]}

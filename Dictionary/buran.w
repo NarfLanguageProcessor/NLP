@@ -1,0 +1,1 @@
+{"index": 42968, "D": "a strong Asian wind of the Asian steppes accompanying dust storms in summer and blizzards in winter.", "S": [], "A": []}

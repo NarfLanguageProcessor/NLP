@@ -1,0 +1,1 @@
+{"index": 339176, "D": "an ability, natural or acquired, for a particular kind of action", "S": [], "A": []}

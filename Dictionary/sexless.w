@@ -1,0 +1,1 @@
+{"index": 286873, "D": "having or seeming to have no sex;  neuter.", "S": ["agamous ", "castrated ", "neuter ", "unisex "], "A": []}

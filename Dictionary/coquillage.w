@@ -1,0 +1,1 @@
+{"index": 68753, "D": "an ornamental shell motif.", "S": [], "A": []}

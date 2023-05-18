@@ -1,0 +1,1 @@
+{"index": 351437, "D": "contentedly confident of one's ability, superiority, or correctness; complacent.", "S": [], "A": []}

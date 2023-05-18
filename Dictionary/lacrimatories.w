@@ -1,0 +1,1 @@
+{"index": 167015, "D": "a variant of lachrymatory. ", "S": [], "A": []}

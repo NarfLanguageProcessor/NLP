@@ -1,0 +1,1 @@
+{"index": 138617, "D": "desulfurization  by catalytic agents of the sulfur-rich hydrocarbons  obtained from petroleum or the like during cracking or hydrocracking.", "S": [], "A": []}

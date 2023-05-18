@@ -1,0 +1,1 @@
+{"index": 287117, "D": "a long pole forming the body of various weapons, as lances, halberds, or arrows.", "S": ["betray ", "cheat ", "deceive ", "defraud ", "delude ", "dupe ", "entice ", "fool ", "fudge ", "hoodwink ", "lie ", "misguide ", "misinform ", "misrepresent ", "tempt "], "A": ["support "]}

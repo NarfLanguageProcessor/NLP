@@ -1,0 +1,1 @@
+{"index": 35591, "D": "embroidery done with black,  usually silk, thread on white fabric, especially linen.", "S": [], "A": []}

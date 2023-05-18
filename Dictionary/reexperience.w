@@ -1,0 +1,1 @@
+{"index": 264877, "D": "to participate in or undergo (an event or experience) again", "S": ["reclaim ", "recover ", "retake ", "take back "], "A": ["forget "]}

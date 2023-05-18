@@ -1,0 +1,1 @@
+{"index": 247430, "D": "the act or the state of expecting", "S": [], "A": []}

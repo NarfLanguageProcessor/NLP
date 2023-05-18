@@ -1,0 +1,1 @@
+{"index": 267264, "D": "to cause to combine or coalesce; unite.", "S": [], "A": []}

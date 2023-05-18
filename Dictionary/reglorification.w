@@ -1,0 +1,1 @@
+{"index": 265717, "D": "a glorified  or more splendid form of something.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25591, "D": "a woman's scarf, often triangular, used as a hood with two of the ends tied under the chin.", "S": ["bonnet ", "capuchin ", "coif ", "cowl ", "hat ", "kerchief ", "mantilla ", "mantle ", "protector ", "purdah ", "shawl ", "veil ", "wimple ", "yashmak "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183211, "D": "to commit to memory;  learn by heart", "S": ["cram ", "know ", "learn ", "master ", "recall ", "recollect ", "remind ", "retain ", "store "], "A": ["forget ", "release "]}

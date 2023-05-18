@@ -1,0 +1,1 @@
+{"index": 230937, "D": "a green transparent variety of olivine, used as a gem.", "S": [], "A": []}

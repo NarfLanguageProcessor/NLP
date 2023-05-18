@@ -1,0 +1,1 @@
+{"index": 337469, "D": "allowed or admitted as true, proper, just, etc.", "S": [], "A": []}

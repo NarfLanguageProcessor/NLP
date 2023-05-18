@@ -1,0 +1,1 @@
+{"index": 282739, "D": "to place in or withdraw into solitude; remove from social contact and activity, etc.", "S": ["cloister ", "ostracize ", "sequester "], "A": ["combine ", "desegregate ", "free ", "join ", "lay bare ", "let go ", "open ", "release ", "reveal ", "uncover ", "unite "]}

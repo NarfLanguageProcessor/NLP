@@ -1,0 +1,1 @@
+{"index": 113398, "D": "a submerged net used in commercial fishing  for capturing fish. ", "S": [], "A": []}

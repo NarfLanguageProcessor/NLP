@@ -1,0 +1,1 @@
+{"index": 91868, "D": "a collection or file of documents on the same subject, especially a complete file containing detailed information about a person or topic.", "S": ["summary "], "A": []}

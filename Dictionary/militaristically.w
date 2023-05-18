@@ -1,0 +1,1 @@
+{"index": 187201, "D": "a person imbued with militarism. ", "S": [], "A": []}

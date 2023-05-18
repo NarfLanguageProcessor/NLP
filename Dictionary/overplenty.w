@@ -1,0 +1,1 @@
+{"index": 220531, "D": "a full or abundant supply or amount", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 223735, "D": "the study of ancient lakes from their sediments and fossils.", "S": [], "A": []}

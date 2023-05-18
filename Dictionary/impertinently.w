@@ -1,0 +1,1 @@
+{"index": 148639, "D": "intrusive or presumptuous, as persons or their actions; insolently rude; uncivil", "S": ["pertly "], "A": []}

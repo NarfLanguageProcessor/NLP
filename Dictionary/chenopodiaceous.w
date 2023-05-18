@@ -1,0 +1,1 @@
+{"index": 53808, "D": "belonging to the Chenopodiaceae, formerly the goosefoot family, now considered part of the amaranth family of plants.", "S": [], "A": []}

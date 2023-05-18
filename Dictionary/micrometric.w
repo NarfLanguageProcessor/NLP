@@ -1,0 +1,1 @@
+{"index": 186278, "D": "the act or process of taking measurements with a micrometer.", "S": [], "A": []}

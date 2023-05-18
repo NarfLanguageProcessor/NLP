@@ -1,0 +1,1 @@
+{"index": 332543, "D": "belonging or pertaining to a group of Asian peoples or languages comprising nearly all of those that are neither Indo-European nor Semitic.", "S": [], "A": []}

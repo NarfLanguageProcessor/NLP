@@ -1,0 +1,1 @@
+{"index": 113171, "D": "lacking fire; without a fire.", "S": [], "A": []}

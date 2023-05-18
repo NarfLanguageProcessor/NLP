@@ -1,0 +1,1 @@
+{"index": 12960, "D": "having the shape or form of an eel.", "S": [], "A": []}

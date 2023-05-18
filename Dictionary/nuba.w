@@ -1,0 +1,1 @@
+{"index": 209258, "D": "a member of a formerly warlike Nilotic people living chiefly in the hills of S central Sudan", "S": [], "A": []}

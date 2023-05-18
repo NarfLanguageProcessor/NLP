@@ -1,0 +1,1 @@
+{"index": 207417, "D": "(of a part in a play) not having any lines to speak", "S": [], "A": []}

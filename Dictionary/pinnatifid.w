@@ -1,0 +1,1 @@
+{"index": 237153, "D": "(of a leaf) pinnately cleft, with clefts reaching halfway or more to the midrib.", "S": [], "A": []}

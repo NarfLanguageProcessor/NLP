@@ -1,0 +1,1 @@
+{"index": 305529, "D": "bulky in figure; heavily built; corpulent; thickset; fat", "S": ["fatness ", "overweight ", "plumpness "], "A": []}

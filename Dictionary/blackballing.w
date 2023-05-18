@@ -1,0 +1,1 @@
+{"index": 35441, "D": "to vote against (a candidate, applicant, etc.).", "S": ["avoidance ", "boycott ", "exclusion ", "excommunication ", "exile ", "expulsion ", "isolation ", "rejection ", "shunning "], "A": ["acceptance ", "allowance "]}

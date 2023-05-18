@@ -1,0 +1,1 @@
+{"index": 273291, "D": "the Vedic concept of cosmic and social order.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 52539, "D": "(in medieval French literature) a prose narrative interspersed with verse.", "S": [], "A": []}

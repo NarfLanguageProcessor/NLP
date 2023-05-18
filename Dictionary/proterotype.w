@@ -1,0 +1,1 @@
+{"index": 253487, "D": "a primary type. ", "S": [], "A": []}

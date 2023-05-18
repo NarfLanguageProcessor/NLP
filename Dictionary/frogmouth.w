@@ -1,0 +1,1 @@
+{"index": 119268, "D": "any Australian and Oriental bird of the family Podargidae, related to the goatsuckers, having a broad, flattened, froglike mouth. ", "S": [], "A": []}

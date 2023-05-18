@@ -1,0 +1,1 @@
+{"index": 323390, "D": "(of an escutcheon) divided vertically or horizontally into three equal parts.", "S": [], "A": []}

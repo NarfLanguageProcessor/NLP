@@ -1,0 +1,1 @@
+{"index": 277803, "D": "of or suggesting the grating sound of sandpaper  rubbing against wood or the rough texture of sandpaper. ", "S": [], "A": []}

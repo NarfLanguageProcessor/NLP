@@ -1,0 +1,1 @@
+{"index": 182587, "D": "a curtain or other divider that serves as a partition between the women's and the men's sections in Orthodox Jewish synagogues.", "S": [], "A": []}

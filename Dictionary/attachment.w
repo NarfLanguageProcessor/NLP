@@ -1,0 +1,1 @@
+{"index": 22932, "D": "an act of attaching  or the state of being attached. ", "S": ["connection "], "A": ["alienation ", "animosity ", "aversion ", "dislike ", "divorce ", "enmity ", "estrangement ", "hate ", "hatred ", "opposition "]}

@@ -1,0 +1,1 @@
+{"index": 247513, "D": "a person appointed to any of various positions of command, authority, or superintendence, as a chief magistrate in ancient Rome or the chief administrative official of a department of France or Italy.", "S": [], "A": []}

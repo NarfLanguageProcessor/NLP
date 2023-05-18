@@ -1,0 +1,1 @@
+{"index": 120392, "D": "the formation of flakelike particles on the surface of the skin, as of dandruff.", "S": [], "A": []}

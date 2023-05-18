@@ -1,0 +1,1 @@
+{"index": 78312, "D": "definitely or unambiguously; without qualification", "S": ["clearly ", "determinedly ", "distinctly ", "downright ", "positively ", "really ", "terribly ", "unmistakably "], "A": ["doubtfully "]}

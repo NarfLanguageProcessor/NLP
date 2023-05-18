@@ -1,0 +1,1 @@
+{"index": 119567, "D": "economical in use or expenditure; prudently saving or sparing; not wasteful", "S": ["canny ", "careful ", "meticulous ", "prudent ", "stingy ", "thrifty "], "A": ["careless ", "incautious ", "spendthrift ", "wasteful "]}

@@ -1,0 +1,1 @@
+{"index": 252494, "D": "pertaining to or of the nature of preliminary instruction.", "S": [], "A": []}

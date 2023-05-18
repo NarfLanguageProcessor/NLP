@@ -1,0 +1,1 @@
+{"index": 260150, "D": "(in India) rule, especially the British rule prior to 1947.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 369063, "D": "of or relating to the zenith;  situated at or near the zenith. ", "S": ["apical ", "best ", "capital ", "chief ", "crown ", "head ", "maximal ", "maximum ", "most ", "paramount ", "preeminent ", "principal ", "superlative ", "supreme ", "tiptop ", "top ", "top-notch ", "uppermost "], "A": []}

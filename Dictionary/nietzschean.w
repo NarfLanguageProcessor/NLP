@@ -1,0 +1,1 @@
+{"index": 199826, "D": "the philosophy of Nietzsche,  emphasizing the will to power as the chief motivating force of both the individual and society.", "S": [], "A": []}

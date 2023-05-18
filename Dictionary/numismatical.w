@@ -1,0 +1,1 @@
+{"index": 209594, "D": "of, relating to, or consisting of coins, medals, paper money, etc.", "S": [], "A": []}

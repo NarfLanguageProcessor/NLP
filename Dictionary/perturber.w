@@ -1,0 +1,1 @@
+{"index": 232132, "D": "to disturb or disquiet greatly in mind; agitate. ", "S": [], "A": []}

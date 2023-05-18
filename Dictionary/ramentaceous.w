@@ -1,0 +1,1 @@
+{"index": 260286, "D": "resembling or covered with ramenta. ", "S": [], "A": []}

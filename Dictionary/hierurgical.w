@@ -1,0 +1,1 @@
+{"index": 139187, "D": "a holy act or rite of worship.", "S": [], "A": []}

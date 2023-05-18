@@ -1,0 +1,1 @@
+{"index": 192897, "D": "an area of the body that is higher than neighboring areas.", "S": [], "A": []}

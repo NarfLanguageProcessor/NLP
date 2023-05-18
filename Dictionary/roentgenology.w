@@ -1,0 +1,1 @@
+{"index": 273806, "D": "the branch of medicine dealing with diagnosis and therapy through x-rays.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 333650, "D": "very unattractive or unpleasant to look at; offensive to the sense of beauty; displeasing in appearance.", "S": ["awful ", "grisly ", "grotesque ", "hideous ", "horrid ", "unseemly ", "unsightly "], "A": ["attractive ", "beautiful ", "good-looking ", "gorgeous ", "handsome ", "pretty ", "lovely "]}

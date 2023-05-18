@@ -1,0 +1,1 @@
+{"index": 328432, "D": "a variant spelling of trepan 1 (def. 2)", "S": [], "A": []}

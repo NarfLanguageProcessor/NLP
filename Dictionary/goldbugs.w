@@ -1,0 +1,1 @@
+{"index": 127494, "D": "a person, especially an economist or politician, who supports the gold standard.", "S": [], "A": []}

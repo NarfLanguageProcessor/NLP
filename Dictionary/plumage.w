@@ -1,0 +1,1 @@
+{"index": 240366, "D": "the entire feathery covering of a bird.", "S": ["bunch ", "cluster ", "collection ", "cowlick ", "feathers ", "group ", "knot ", "ruff ", "shock ", "topknot ", "tussock "], "A": ["individual ", "one "]}

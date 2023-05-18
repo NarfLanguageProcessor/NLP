@@ -1,0 +1,1 @@
+{"index": 80787, "D": "to divest (a monetary standard or the like) of value.", "S": [], "A": []}

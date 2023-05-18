@@ -1,0 +1,1 @@
+{"index": 194403, "D": "the practice or act of going  to see motion pictures.", "S": [], "A": []}

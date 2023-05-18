@@ -1,0 +1,1 @@
+{"index": 359550, "D": "quality, state, or period of being a widow.", "S": [], "A": []}

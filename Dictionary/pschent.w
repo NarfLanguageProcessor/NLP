@@ -1,0 +1,1 @@
+{"index": 254371, "D": "the double crown worn by ancient Egyptian kings, symbolic of dominion over Upper and Lower Egypt, which had previously been separate kingdoms.", "S": [], "A": []}

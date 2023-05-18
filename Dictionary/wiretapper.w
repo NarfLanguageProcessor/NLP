@@ -1,0 +1,1 @@
+{"index": 366373, "D": "a person who taps wires  to learn the nature of messages passing over them.", "S": ["auditor ", "hearer ", "monitor ", "sleuth ", "snoop "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 231598, "D": "noting or pertaining to a period of the Paleozoic Era occurring from about 280 to 230 million years ago and characterized by a profusion of amphibian species.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309339, "D": "a person or thing acting or serving in place of another.", "S": ["by proxy ", "commissioned ", "delegated ", "deputed ", "empathetic ", "eventual ", "imagined ", "indirect ", "pretended ", "secondary ", "substituted ", "surrogate ", "sympathetic "], "A": []}

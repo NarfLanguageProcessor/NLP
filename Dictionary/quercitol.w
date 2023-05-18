@@ -1,0 +1,1 @@
+{"index": 258349, "D": "a colorless, crystalline, sweet, water-soluble solid, C6H12O5, obtained from acorns or oak bark", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 38963, "D": "stout, strong, or vigorous", "S": [], "A": []}

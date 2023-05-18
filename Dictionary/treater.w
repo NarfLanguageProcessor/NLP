@@ -1,0 +1,1 @@
+{"index": 328720, "D": "to act or behave toward (a person) in some specified way", "S": [], "A": []}

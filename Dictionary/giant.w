@@ -1,0 +1,1 @@
+{"index": 124614, "D": "(in folklore) a being with human form but superhuman size, strength, etc.", "S": ["big ", "colossal ", "enormous ", "gargantuan ", "gigantic ", "huge ", "hulking ", "humongous ", "immense ", "jumbo ", "mammoth ", "monstrous ", "vast "], "A": ["little ", "miniature ", "miniscule ", "minute ", "small ", "teeny ", "tiny "]}

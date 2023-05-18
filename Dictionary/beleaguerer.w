@@ -1,0 +1,1 @@
+{"index": 31019, "D": "to surround with military forces.", "S": [], "A": []}

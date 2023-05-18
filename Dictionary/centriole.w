@@ -1,0 +1,1 @@
+{"index": 50995, "D": "a small, cylindrical cell organelle, seen near the nucleus in the cytoplasm of most eukaryotic cells, that divides in perpendicular fashion during mitosis, the new pair of centrioles moving ahead of the spindle to opposite poles of the cell as the cell divides", "S": ["heart ", "hub ", "place "], "A": ["exterior ", "exteriority ", "outside "]}

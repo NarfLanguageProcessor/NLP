@@ -1,0 +1,1 @@
+{"index": 225057, "D": "a room or closet in which food, groceries, and other provisions, or silverware, dishes, etc., are kept.", "S": ["cellar ", "closet ", "cupboard "], "A": []}

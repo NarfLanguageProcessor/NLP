@@ -1,0 +1,1 @@
+{"index": 76307, "D": "the lower house of the parliament of the Republic of Ireland.", "S": [], "A": []}

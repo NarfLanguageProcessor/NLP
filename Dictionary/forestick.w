@@ -1,0 +1,1 @@
+{"index": 117045, "D": "the front log in a wood fire, as in a fireplace.", "S": [], "A": []}

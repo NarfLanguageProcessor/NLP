@@ -1,0 +1,1 @@
+{"index": 272677, "D": "rising in a ridge  or ridges. ", "S": [], "A": []}

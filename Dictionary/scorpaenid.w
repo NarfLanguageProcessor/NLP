@@ -1,0 +1,1 @@
+{"index": 281306, "D": "belonging or pertaining to the Scorpaenidae, a family of marine fishes with spiny fins, including the rockfishes, scorpionfishes, and lionfishes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303081, "D": "any of various plants belonging to the genus Limonium, of the leadwort family, having clusters of variously colored flowers that retain their color when dried.", "S": [], "A": []}

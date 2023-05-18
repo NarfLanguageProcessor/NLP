@@ -1,0 +1,1 @@
+{"index": 174244, "D": "(of a whale) to slap the flukes against the surface of the water.", "S": [], "A": []}

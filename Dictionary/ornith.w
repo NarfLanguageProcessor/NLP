@@ -1,0 +1,1 @@
+{"index": 214720, "D": "variant of ornitho-  before a vowel", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 207894, "D": "of, pertaining to, characterized by, or subject to tides", "S": [], "A": []}

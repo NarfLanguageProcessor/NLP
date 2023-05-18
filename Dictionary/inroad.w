@@ -1,0 +1,1 @@
+{"index": 153358, "D": "a damaging or serious encroachment", "S": ["encroachment ", "incursion "], "A": ["retreat "]}

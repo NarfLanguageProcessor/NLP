@@ -1,0 +1,1 @@
+{"index": 109251, "D": "falling short of success or achievement in something expected, desired, etc.", "S": ["fruitless ", "futile ", "unsuccessful "], "A": ["fruitful ", "productive ", "profitable "]}

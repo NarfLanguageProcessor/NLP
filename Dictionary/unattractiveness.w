@@ -1,0 +1,1 @@
+{"index": 335410, "D": "providing pleasure or delight, especially in appearance or manner; pleasing; charming; alluring", "S": ["abnormality ", "defect ", "impairment ", "malformation "], "A": ["beauty ", "benefit ", "blessing ", "favor ", "good ", "goodness ", "honor ", "morality ", "purity ", "regularity ", "virtue "]}

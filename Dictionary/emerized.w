@@ -1,0 +1,1 @@
+{"index": 98473, "D": "to finish (fabric) with a cylinder covered with emery  in order to make the raised nap even and give luster to the fabric.", "S": [], "A": []}

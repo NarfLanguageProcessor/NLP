@@ -1,0 +1,1 @@
+{"index": 177878, "D": "Jewish scholastic philosopher and rabbi, born in Spain", "S": [], "A": []}

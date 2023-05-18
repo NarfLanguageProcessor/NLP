@@ -1,0 +1,1 @@
+{"index": 351780, "D": "to splash and scatter upon impact", "S": [], "A": []}

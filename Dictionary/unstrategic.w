@@ -1,0 +1,1 @@
+{"index": 352138, "D": "pertaining to, characterized by, or of the nature of strategy", "S": [], "A": []}

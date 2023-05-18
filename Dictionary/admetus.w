@@ -1,0 +1,1 @@
+{"index": 4125, "D": "a Thessalian king, one of the Argonauts and husband of Alcestis.", "S": [], "A": []}

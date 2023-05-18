@@ -1,0 +1,1 @@
+{"index": 363176, "D": "somewhat, or tending to be, watery.", "S": [], "A": []}

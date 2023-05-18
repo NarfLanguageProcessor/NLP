@@ -1,0 +1,1 @@
+{"index": 272098, "D": "any fungus of the genus Rhinosporidium, members of which produce vascular polyps in the nasal passages.", "S": [], "A": []}

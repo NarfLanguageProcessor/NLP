@@ -1,0 +1,1 @@
+{"index": 101417, "D": "to be or become enthusiastic; show enthusiasm", "S": ["approving ", "excited "], "A": []}

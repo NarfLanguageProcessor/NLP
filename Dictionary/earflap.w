@@ -1,0 +1,1 @@
+{"index": 94722, "D": "either of a pair of flaps  attached to a cap, for covering the ears  in cold weather.", "S": [], "A": []}

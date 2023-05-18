@@ -1,0 +1,1 @@
+{"index": 350530, "D": "to draw down or contract the brows in a sullen, displeased, or angry manner.", "S": [], "A": []}

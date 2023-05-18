@@ -1,0 +1,1 @@
+{"index": 270597, "D": "the act of turning or bending back.", "S": [], "A": []}

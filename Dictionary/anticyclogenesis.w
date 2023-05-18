@@ -1,0 +1,1 @@
+{"index": 14898, "D": "the intensification or development of an anticyclone,  usually in simultaneous occurrence with an increase in atmospheric pressure", "S": [], "A": []}

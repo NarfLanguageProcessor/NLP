@@ -1,0 +1,1 @@
+{"index": 365808, "D": "a violent squall that blows in near-polar latitudes, as in the Strait of Magellan, Alaska, and the Aleutian Islands.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 225662, "D": "a state in E Brazil. 21,760 sq. mi. (56,360 sq. km). Capital", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 87551, "D": "not content or satisfied; dissatisfied; restlessly unhappy", "S": ["disappointment ", "discontent ", "disgruntlement ", "displeasure ", "letdown ", "unhappiness "], "A": ["delight ", "happiness ", "pleasure ", "satisfaction "]}

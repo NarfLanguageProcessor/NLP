@@ -1,0 +1,1 @@
+{"index": 135678, "D": "(in Greek legend) a Thessalian king and eponymous ancestor of the Hellenes", "S": [], "A": []}

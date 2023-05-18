@@ -1,0 +1,1 @@
+{"index": 84432, "D": "a foghorn producing a low-pitched, penetrating signal of two tones.", "S": [], "A": []}

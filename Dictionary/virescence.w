@@ -1,0 +1,1 @@
+{"index": 360126, "D": "state of becoming somewhat, though usually not totally, green, due to the abnormal presence of chlorophyll.", "S": [], "A": []}

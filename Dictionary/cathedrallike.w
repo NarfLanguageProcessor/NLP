@@ -1,0 +1,1 @@
+{"index": 49665, "D": "the principal church of a diocese, containing the bishop's throne.", "S": [], "A": []}

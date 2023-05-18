@@ -1,0 +1,1 @@
+{"index": 265371, "D": "to make or become fresh again; refresh.", "S": [], "A": []}

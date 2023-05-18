@@ -1,0 +1,1 @@
+{"index": 11268, "D": "an aquatic, eellike salamander of the genus Amphiuma, of the southeastern U.S., having two pairs of very small feet.", "S": [], "A": []}

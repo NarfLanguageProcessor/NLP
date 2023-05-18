@@ -1,0 +1,1 @@
+{"index": 304658, "D": "a person or thing that stings. ", "S": [], "A": []}

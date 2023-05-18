@@ -1,0 +1,1 @@
+{"index": 368239, "D": "a condition of skin, fur, or feathers in which yellow coloration predominates", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 136445, "D": "(of a disease) resembling hemophilia,  but having a different genetic or acquired cause.", "S": [], "A": []}

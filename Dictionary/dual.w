@@ -1,0 +1,1 @@
+{"index": 93642, "D": "of, relating to, or noting two.", "S": ["bifold ", "binal ", "binary ", "coupled ", "double ", "doubleheader ", "duple ", "duplex ", "duplicate ", "matched ", "paired ", "twin "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 9380, "D": "of, pertaining to, on, or part of any lofty mountain.", "S": [], "A": []}

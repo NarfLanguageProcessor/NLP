@@ -1,0 +1,1 @@
+{"index": 342231, "D": "likely to change, especially due to caprice, irresolution, or instability; casually changeable", "S": [], "A": []}

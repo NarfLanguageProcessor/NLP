@@ -1,0 +1,1 @@
+{"index": 331284, "D": "faithfulness, fidelity, or loyalty", "S": ["betrothal ", "declaration ", "engagement ", "fidelity ", "pledge ", "promise "], "A": ["break "]}

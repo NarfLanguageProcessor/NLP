@@ -1,0 +1,1 @@
+{"index": 218904, "D": "extremely or excessively delicate", "S": [], "A": []}

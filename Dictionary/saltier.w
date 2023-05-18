@@ -1,0 +1,1 @@
+{"index": 277301, "D": "comparative of salty. ", "S": ["alkaline ", "briny ", "pungent ", "saline ", "salted ", "sour "], "A": ["blah ", "bland ", "dull "]}

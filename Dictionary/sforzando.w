@@ -1,0 +1,1 @@
+{"index": 286972, "D": "with force; emphatically.", "S": [], "A": []}

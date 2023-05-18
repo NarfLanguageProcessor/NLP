@@ -1,0 +1,1 @@
+{"index": 220256, "D": "an act or instance of purposely causing someone to be perplexed or bewildered by playing on their ignorance, gullibility, or naivet\u00e9", "S": [], "A": []}

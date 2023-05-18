@@ -1,0 +1,1 @@
+{"index": 148822, "D": "in a way that expresses urgent or piteous pleading, as for aid or mercy; beseechingly", "S": ["compellingly ", "eagerly ", "earnestly ", "frantically ", "hastily ", "vigorously "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 57531, "D": "of, relating to, or suggestive of a northern people believed to dwell in perpetual darkness.", "S": [], "A": []}

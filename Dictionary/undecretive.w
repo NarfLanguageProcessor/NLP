@@ -1,0 +1,1 @@
+{"index": 338530, "D": "having the force of a decree; pertaining to a decree.", "S": [], "A": []}

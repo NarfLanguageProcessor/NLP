@@ -1,0 +1,1 @@
+{"index": 25884, "D": "the deflection of nuclear particles or of radiation in a scattering  process through an angle greater than 90\u00b0.", "S": [], "A": []}

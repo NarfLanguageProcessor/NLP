@@ -1,0 +1,1 @@
+{"index": 192761, "D": "lacking in variety; tediously unvarying", "S": ["boring ", "dreary ", "dull ", "ho-hum ", "humdrum ", "plodding ", "repetitious ", "repetitive ", "tedious ", "tiresome "], "A": ["bright ", "clear ", "eventful ", "exciting ", "interesting ", "light ", "lively "]}

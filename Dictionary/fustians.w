@@ -1,0 +1,1 @@
+{"index": 120652, "D": "a stout fabric of cotton and flax.", "S": ["argot ", "idiom ", "lingo ", "parlance ", "patois ", "slang ", "vernacular ", "vocabulary "], "A": ["standard ", "quiet ", "sense ", "silence "]}

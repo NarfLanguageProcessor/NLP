@@ -1,0 +1,1 @@
+{"index": 209236, "D": "a projecting spout, terminal discharging pipe, or the like, as of a hose or bellows.", "S": ["faucet ", "spigot "], "A": []}

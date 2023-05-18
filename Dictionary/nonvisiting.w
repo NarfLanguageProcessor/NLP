@@ -1,0 +1,1 @@
+{"index": 208321, "D": "to go to and stay with (a person or family) or at (a place) for a short time for reasons of sociability, politeness, business, curiosity, etc.", "S": [], "A": []}

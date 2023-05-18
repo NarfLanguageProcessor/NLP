@@ -1,0 +1,1 @@
+{"index": 125468, "D": "the act of gyrating;  circular or spiral motion; revolution; rotation; whirling.", "S": ["circle ", "circuit ", "circulation ", "circumvolution ", "cycle ", "gyre ", "lap ", "orbit ", "pirouette ", "reel ", "roll ", "rotation ", "round ", "spin ", "swirl ", "turn ", "turning ", "twirl ", "wheel ", "whirl "], "A": []}

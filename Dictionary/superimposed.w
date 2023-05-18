@@ -1,0 +1,1 @@
+{"index": 312016, "D": "being or relating to something that is placed over something else, usually characterized by some degree of transparency so that both the background and foreground objects are visible", "S": ["cover ", "overlap "], "A": []}

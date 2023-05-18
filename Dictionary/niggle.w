@@ -1,0 +1,1 @@
+{"index": 199886, "D": "to criticize, especially constantly or repeatedly, in a peevish or petty way; carp", "S": ["argue ", "carp ", "cavil ", "complain ", "fuss ", "grouse ", "grumble ", "moan ", "nag ", "object "], "A": ["agree ", "ignore ", "praise "]}

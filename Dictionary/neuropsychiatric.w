@@ -1,0 +1,1 @@
+{"index": 199196, "D": "the branch of medicine dealing with diseases involving the mind and nervous system.", "S": [], "A": []}

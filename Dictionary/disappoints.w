@@ -1,0 +1,1 @@
+{"index": 87045, "D": "to fail to fulfill the expectations or wishes of", "S": ["baffle ", "deceive ", "disconcert ", "disenchant ", "dishearten ", "disillusion ", "dissatisfy ", "dumbfound ", "fail ", "hamper ", "mislead "], "A": ["aid ", "assist ", "encourage ", "explain ", "help ", "delight ", "forward ", "make happy ", "please ", "succeed "]}

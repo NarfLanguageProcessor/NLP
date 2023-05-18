@@ -1,0 +1,1 @@
+{"index": 141690, "D": "an admirer of Hispanic culture or the Spanish language.", "S": [], "A": []}

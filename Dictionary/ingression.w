@@ -1,0 +1,1 @@
+{"index": 152576, "D": "the act of going in or entering. ", "S": ["acceptance ", "access ", "admittance ", "certification ", "confirmation ", "designation ", "door ", "entrance ", "entree ", "entr\u00e9e ", "ingress ", "initiation ", "introduction ", "intromission ", "permission ", "reception ", "recognition ", "way ", "welcome "], "A": []}

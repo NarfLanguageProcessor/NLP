@@ -1,0 +1,1 @@
+{"index": 97170, "D": "the science dealing with the development and application of devices and systems involving the flow of electrons in a vacuum, in gaseous media, and in semiconductors.", "S": ["VCRs ", "camcorders ", "computers ", "radios ", "stereos ", "televisions ", "transistors "], "A": []}

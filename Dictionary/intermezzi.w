@@ -1,0 +1,1 @@
+{"index": 155362, "D": "a short dramatic, musical, or other entertainment of light character, introduced between the acts of a drama or opera.", "S": [], "A": []}

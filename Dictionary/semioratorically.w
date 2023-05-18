@@ -1,0 +1,1 @@
+{"index": 284602, "D": "of, relating to, or characteristic of an orator  or oratory", "S": [], "A": []}

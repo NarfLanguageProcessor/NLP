@@ -1,0 +1,1 @@
+{"index": 98170, "D": "obstruction of a blood vessel or organ by an embolus. ", "S": [], "A": []}

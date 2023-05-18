@@ -1,0 +1,1 @@
+{"index": 235428, "D": "treatment of disease, especially of the skin, by means of light rays.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 330547, "D": "to divide into three parts, especially into three equal parts.", "S": [], "A": []}

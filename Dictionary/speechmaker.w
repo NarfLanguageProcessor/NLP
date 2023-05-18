@@ -1,0 +1,1 @@
+{"index": 299000, "D": "a person who delivers speeches. ", "S": ["announcer ", "elocutionist ", "lecturer ", "mouthpiece ", "orator ", "rhetorician ", "speechifier ", "spokesperson "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 199518, "D": "a bronze coin and monetary unit of Zambia, one 100th of a kwacha.", "S": [], "A": []}

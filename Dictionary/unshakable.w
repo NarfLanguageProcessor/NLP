@@ -1,0 +1,1 @@
+{"index": 350891, "D": "(of beliefs, convictions, etc) utterly firm and unwavering", "S": ["abiding ", "adamant ", "inflexible ", "unflappable ", "unwavering "], "A": ["flexible ", "pliant ", "soft ", "yielding "]}

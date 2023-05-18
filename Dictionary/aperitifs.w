@@ -1,0 +1,1 @@
+{"index": 16738, "D": "a small drink of alcoholic liquor taken to stimulate the appetite before a meal.", "S": ["antipasto ", "dip ", "hors d'oeuvre ", "spread ", "taste ", "tidbit "], "A": ["meal "]}

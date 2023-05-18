@@ -1,0 +1,1 @@
+{"index": 227313, "D": "a person or thing that passes  or causes something to pass. ", "S": [], "A": []}

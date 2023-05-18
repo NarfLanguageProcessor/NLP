@@ -1,0 +1,1 @@
+{"index": 250775, "D": "a polyhedron having its vertices lying on two parallel planes.", "S": [], "A": []}

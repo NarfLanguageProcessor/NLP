@@ -1,0 +1,1 @@
+{"index": 114368, "D": "covered with, consisting of, or resembling a fleece  or wool", "S": [], "A": []}

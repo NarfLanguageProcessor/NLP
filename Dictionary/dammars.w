@@ -1,0 +1,1 @@
+{"index": 76561, "D": "a copallike resin derived largely from dipterocarpaceous trees of southern Asia, especially Malaya and Sumatra, and used chiefly for making colorless varnish.", "S": [], "A": []}

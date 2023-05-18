@@ -1,0 +1,1 @@
+{"index": 187301, "D": "of or relating to a millennium  or the millennium.", "S": ["millenarian ", "millenary "], "A": []}

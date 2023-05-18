@@ -1,0 +1,1 @@
+{"index": 27710, "D": "a region in N Africa, extending from W of Egypt to the Atlantic Ocean and including the former Barbary States.", "S": [], "A": []}

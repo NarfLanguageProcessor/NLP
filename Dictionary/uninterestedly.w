@@ -1,0 +1,1 @@
+{"index": 344721, "D": "having or showing no feeling of interest; indifferent.", "S": [], "A": []}

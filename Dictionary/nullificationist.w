@@ -1,0 +1,1 @@
+{"index": 209476, "D": "an act or instance of nullifying. ", "S": [], "A": []}

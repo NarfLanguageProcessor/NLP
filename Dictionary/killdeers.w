@@ -1,0 +1,1 @@
+{"index": 164588, "D": "an American plover, Charadrius vociferus, having two black bands around the upper breast.", "S": [], "A": []}

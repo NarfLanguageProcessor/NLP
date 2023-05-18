@@ -1,0 +1,1 @@
+{"index": 318769, "D": "soft or delicate in substance; not hard or tough", "S": ["action ", "attempt ", "bid ", "overture "], "A": ["denial ", "idleness ", "refusal "]}

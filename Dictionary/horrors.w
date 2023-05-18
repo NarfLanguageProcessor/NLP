@@ -1,0 +1,1 @@
+{"index": 143988, "D": "a fit of depression or anxiety", "S": ["DT's ", "blue Johnnies ", "blue devils ", "delirium alcoholicum ", "delirium ebriositatis ", "dementia a potu ", "heebie-jeebies ", "jimjams ", "mania ", "pink elephants ", "pink spiders ", "screaming meemies ", "shakes ", "snakes in the boots ", "the DTs "], "A": []}

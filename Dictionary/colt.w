@@ -1,0 +1,1 @@
+{"index": 63468, "D": "a young male animal of the horse family.", "S": ["filly "], "A": []}

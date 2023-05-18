@@ -1,0 +1,1 @@
+{"index": 251663, "D": "the act ofprofaning; desecration; defilement; debasement. ", "S": ["blasphemy ", "crime ", "curse ", "desecration ", "heresy ", "impiety ", "mockery ", "offense ", "profaneness ", "profanity ", "sin ", "violation "], "A": ["kindness ", "obedience ", "praise "]}

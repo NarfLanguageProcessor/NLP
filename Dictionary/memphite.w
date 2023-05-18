@@ -1,0 +1,1 @@
+{"index": 183220, "D": "of or relating to the ancient Egyptian city of Memphis.", "S": [], "A": []}

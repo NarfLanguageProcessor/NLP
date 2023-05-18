@@ -1,0 +1,1 @@
+{"index": 346037, "D": "suitable or attractive for marriage", "S": [], "A": []}

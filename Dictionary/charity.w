@@ -1,0 +1,1 @@
+{"index": 52852, "D": "generous actions or donations to aid people who are poor, ill, or needy", "S": ["donation ", "endowment ", "fund ", "philanthropy "], "A": ["hindrance ", "hurt ", "injury "]}

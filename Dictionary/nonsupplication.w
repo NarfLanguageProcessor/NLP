@@ -1,0 +1,1 @@
+{"index": 207686, "D": "an act or instance of supplicating;  humble prayer, entreaty, or petition.", "S": [], "A": []}

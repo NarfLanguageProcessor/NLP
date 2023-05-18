@@ -1,0 +1,1 @@
+{"index": 230535, "D": "to travel or journey, especially to walk on foot.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 263680, "D": "the act of rectifying,  or the fact of being rectified. ", "S": ["amends ", "atonement ", "compensation ", "eye for an eye ", "indemnification ", "indemnity ", "lex talionis ", "meed ", "payback ", "quid pro quo ", "reciprocity ", "recompense ", "reparation ", "restitution ", "retaliation ", "tit for tat ", "tooth for a tooth "], "A": []}

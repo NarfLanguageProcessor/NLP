@@ -1,0 +1,1 @@
+{"index": 247534, "D": [], "S": ["adopt ", "choose ", "go for ", "pick ", "promote ", "put ", "select ", "suggest ", "wish "], "A": ["dislike ", "hate ", "refuse ", "reject ", "decrease ", "depress ", "disgrace ", "drop ", "ignore ", "lessen ", "lose ", "lower ", "stop ", "withhold "]}

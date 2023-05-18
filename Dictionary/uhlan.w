@@ -1,0 +1,1 @@
+{"index": 333674, "D": "one of a group of lancers in a light-cavalry unit, first appearing in Europe in the Polish army.", "S": ["squadron "], "A": []}

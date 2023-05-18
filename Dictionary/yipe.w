@@ -1,0 +1,1 @@
+{"index": 147160, "D": "(an expression or exclamation of fright, surprise, pain, etc.)", "S": [], "A": []}

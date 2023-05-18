@@ -1,0 +1,1 @@
+{"index": 99369, "D": "to form a circle  around; surround; encompass", "S": ["barricade ", "closure ", "restriction ", "roadblock ", "siege ", "stoppage "], "A": ["beginning ", "opening ", "start ", "advantage ", "aid ", "assistance ", "clearance ", "help ", "promotion ", "support "]}

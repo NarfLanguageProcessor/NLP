@@ -1,0 +1,1 @@
+{"index": 80905, "D": "to remove (naval or military equipment) from storage or reserve, usually for active duty; reactivate.", "S": [], "A": []}

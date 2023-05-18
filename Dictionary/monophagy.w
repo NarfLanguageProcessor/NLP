@@ -1,0 +1,1 @@
+{"index": 192491, "D": "feeding on only one kind of food.", "S": [], "A": []}

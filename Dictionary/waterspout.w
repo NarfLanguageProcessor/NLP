@@ -1,0 +1,1 @@
+{"index": 363239, "D": "a pipe running down the side of a building to carry away water from the gutter of the roof", "S": ["whirlpool "], "A": []}

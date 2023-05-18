@@ -1,0 +1,1 @@
+{"index": 350008, "D": "having no rival or competitor; having no equal; incomparable; supreme", "S": ["excellent ", "incomparable ", "unequaled ", "unmatched ", "unparalleled ", "unsurpassed "], "A": ["inferior ", "poor ", "second-rate "]}

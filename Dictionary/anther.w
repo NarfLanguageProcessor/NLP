@@ -1,0 +1,1 @@
+{"index": 14335, "D": "the pollen-bearing part of a stamen.", "S": [], "A": []}

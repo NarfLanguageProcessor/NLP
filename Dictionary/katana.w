@@ -1,0 +1,1 @@
+{"index": 163360, "D": "a long, curved single-edged sword traditionally used by Japanese samurai", "S": [], "A": []}

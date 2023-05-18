@@ -1,0 +1,1 @@
+{"index": 205254, "D": "an element not having the character of a metal,  as carbon or nitrogen.", "S": [], "A": []}

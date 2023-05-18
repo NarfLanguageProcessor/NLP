@@ -1,0 +1,1 @@
+{"index": 336953, "D": "to bring out of a savage, uneducated, or rude state; make civil;  elevate in social and private life; enlighten; refine", "S": [], "A": []}

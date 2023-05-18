@@ -1,0 +1,1 @@
+{"index": 355221, "D": "a geologic structure, usually of relatively large dimensions, whose flanks slope gradually away from the center.", "S": [], "A": []}

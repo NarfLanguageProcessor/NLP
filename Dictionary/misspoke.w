@@ -1,0 +1,1 @@
+{"index": 190125, "D": "to speak, utter, or pronounce incorrectly.", "S": ["deceive ", "mislead ", "misrepresent ", "promote "], "A": ["tell the truth "]}

@@ -1,0 +1,1 @@
+{"index": 147517, "D": "causing illusion;  deceptive; misleading.", "S": ["false ", "hallucinatory ", "misleading ", "unreal ", "whimsical "], "A": ["genuine ", "honest ", "real ", "truthful "]}

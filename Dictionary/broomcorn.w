@@ -1,0 +1,1 @@
+{"index": 41532, "D": "any of several varieties of sorghum having a long, stiff-branched panicle used in the manufacture of brooms. ", "S": [], "A": []}

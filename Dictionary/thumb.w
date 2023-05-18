@@ -1,0 +1,1 @@
+{"index": 322953, "D": "the short, thick, inner digit of the human hand, next to the forefinger.", "S": ["TOE ", "claw ", "extremity ", "fang ", "feeler ", "finger ", "fork ", "hook ", "pinkie ", "pointer "], "A": []}

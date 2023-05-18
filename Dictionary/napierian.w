@@ -1,0 +1,1 @@
+{"index": 196874, "D": "of, relating to, or formulated by John Napier.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 33115, "D": "(in Indian mythology) a spirit or demon.", "S": [], "A": []}

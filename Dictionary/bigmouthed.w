@@ -1,0 +1,1 @@
+{"index": 33760, "D": "having a very large mouth. ", "S": ["chattery ", "chatty ", "newsy ", "taletelling ", "talkative "], "A": []}

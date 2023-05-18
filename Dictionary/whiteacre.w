@@ -1,0 +1,1 @@
+{"index": 365103, "D": "an arbitrary name for a piece of land used for purposes of supposition in legal argument or the like (often distinguished from blackacre).", "S": [], "A": []}

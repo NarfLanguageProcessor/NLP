@@ -1,0 +1,1 @@
+{"index": 324057, "D": "having a ringing or clinking sound.", "S": [], "A": []}

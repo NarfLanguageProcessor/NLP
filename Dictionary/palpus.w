@@ -1,0 +1,1 @@
+{"index": 224181, "D": "an appendage attached to an oral part and serving as an organ of sense in insects, crustaceans, etc.", "S": ["antenna ", "barbel ", "claw ", "finger ", "hand ", "tentacle ", "vibrissa ", "whisker "], "A": []}

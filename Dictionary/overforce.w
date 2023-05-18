@@ -1,0 +1,1 @@
+{"index": 219435, "D": "physical power or strength possessed by a living being", "S": [], "A": []}

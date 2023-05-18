@@ -1,0 +1,1 @@
+{"index": 299732, "D": "to make spiffy (usually followed by up)", "S": ["groom ", "preen ", "prepare ", "slick ", "spruce ", "titivate "], "A": ["ignore "]}

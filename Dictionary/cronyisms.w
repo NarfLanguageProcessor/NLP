@@ -1,0 +1,1 @@
+{"index": 73665, "D": "the practice of favoring one's close friends, especially in political appointments.", "S": ["civility ", "deference ", "disdain ", "insolence ", "patronizing ", "stooping ", "sufferance ", "toleration "], "A": ["respect "]}

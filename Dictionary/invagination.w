@@ -1,0 +1,1 @@
+{"index": 157007, "D": "the act or process of invaginating. ", "S": [], "A": []}

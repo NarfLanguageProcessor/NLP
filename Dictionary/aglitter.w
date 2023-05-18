@@ -1,0 +1,1 @@
+{"index": 6267, "D": "glittering;  sparkling.", "S": [], "A": []}

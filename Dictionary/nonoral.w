@@ -1,0 +1,1 @@
+{"index": 205650, "D": "uttered by the mouth; spoken", "S": [], "A": []}

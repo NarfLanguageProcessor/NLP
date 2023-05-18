@@ -1,0 +1,1 @@
+{"index": 209559, "D": "an act or instance of or the process or result of numbering or counting.", "S": ["calculation ", "computation ", "enumeration ", "numbering ", "outcome ", "poll ", "reckoning ", "result ", "sum ", "tally ", "toll ", "total ", "whole "], "A": ["cause ", "part ", "source "]}

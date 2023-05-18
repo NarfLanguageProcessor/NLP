@@ -1,0 +1,1 @@
+{"index": 275651, "D": "simple past tense and past participle of ring2. ", "S": [], "A": []}

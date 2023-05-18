@@ -1,0 +1,1 @@
+{"index": 118978, "D": "carved or painted work formerly decorating the upper parts of the hulls of vessels, especially in the 16th and 17th centuries.", "S": [], "A": []}

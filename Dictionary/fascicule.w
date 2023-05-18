@@ -1,0 +1,1 @@
+{"index": 110098, "D": "a fascicle, especially of a book.", "S": [], "A": []}

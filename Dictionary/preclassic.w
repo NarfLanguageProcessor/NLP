@@ -1,0 +1,1 @@
+{"index": 246169, "D": "of the first or highest quality, class, or rank", "S": [], "A": []}

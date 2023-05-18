@@ -1,0 +1,1 @@
+{"index": 309516, "D": "to elevate in character; sublimate.", "S": ["delicacy ", "emaciation ", "fineness ", "gauntness ", "inadequacy ", "meagerness ", "rarity ", "scantiness ", "shallowness ", "slimness ", "spareness ", "sparseness ", "tenuity "], "A": ["avoirdupois ", "fatness ", "solidity ", "thickness "]}

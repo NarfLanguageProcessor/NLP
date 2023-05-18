@@ -1,0 +1,1 @@
+{"index": 74020, "D": "any of various American composite plants constituting the genus Verbesina, having clustered, usually yellow flower heads.", "S": [], "A": []}

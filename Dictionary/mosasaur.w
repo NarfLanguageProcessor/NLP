@@ -1,0 +1,1 @@
+{"index": 193794, "D": "any of several extinct carnivorous marine lizards from the Cretaceous Period, having the limbs modified into broad, webbed paddles.", "S": [], "A": []}

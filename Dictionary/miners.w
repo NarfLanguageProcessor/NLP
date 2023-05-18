@@ -1,0 +1,1 @@
+{"index": 187760, "D": "a person who works in a mine,  especially a commercial mine producing coal or metallic ores.", "S": ["prospector "], "A": []}

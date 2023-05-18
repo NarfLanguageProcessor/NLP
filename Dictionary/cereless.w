@@ -1,0 +1,1 @@
+{"index": 51449, "D": "a fleshy, membranous covering of the base of the upper mandible of a bird, especially a bird of prey or a parrot, through which the nostrils open.", "S": [], "A": []}

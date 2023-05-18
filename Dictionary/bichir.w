@@ -1,0 +1,1 @@
+{"index": 33394, "D": "any of several primitive freshwater African fishes of the genus Polypterus having functional lungs as well as gills.", "S": [], "A": []}

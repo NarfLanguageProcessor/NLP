@@ -1,0 +1,1 @@
+{"index": 243213, "D": "a fabric, resembling broadcloth, rep, or poplin and made with silk or rayon warp and wool filling, used in the manufacture of dress goods.", "S": [], "A": []}

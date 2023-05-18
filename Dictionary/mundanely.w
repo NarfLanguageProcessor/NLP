@@ -1,0 +1,1 @@
+{"index": 195534, "D": "common; ordinary; banal; unimaginative.", "S": ["palpably ", "physically ", "substantially "], "A": ["slightly ", "unsubstantially "]}

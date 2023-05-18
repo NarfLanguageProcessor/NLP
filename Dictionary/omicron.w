@@ -1,0 +1,1 @@
+{"index": 212429, "D": "the 15th letter of the Greek alphabet (O, o).", "S": [], "A": []}

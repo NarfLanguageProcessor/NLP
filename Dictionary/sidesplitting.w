@@ -1,0 +1,1 @@
+{"index": 289835, "D": "convulsively uproarious", "S": ["amusing ", "entertaining ", "farcical ", "good-humored ", "hilarious ", "hysterical ", "joking ", "knee-slapper ", "silly ", "slapstick ", "uproarious ", "witty "], "A": []}

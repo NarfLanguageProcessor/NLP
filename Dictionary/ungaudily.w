@@ -1,0 +1,1 @@
+{"index": 342935, "D": "brilliantly or excessively showy", "S": [], "A": []}

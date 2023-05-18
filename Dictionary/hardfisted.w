@@ -1,0 +1,1 @@
+{"index": 133651, "D": "stingy; miserly; closefisted.", "S": ["cheap ", "close-handed ", "hard-fisted ", "mean ", "miserly ", "parsimonious ", "penny-pinching ", "penurious ", "pinching ", "tight ", "tightfisted "], "A": []}

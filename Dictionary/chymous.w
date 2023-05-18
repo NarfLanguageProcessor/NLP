@@ -1,0 +1,1 @@
+{"index": 54533, "D": "the semifluid mass into which food is converted by gastric secretion and which passes from the stomach into the small intestine.", "S": [], "A": []}

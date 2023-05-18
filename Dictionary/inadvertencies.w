@@ -1,0 +1,1 @@
+{"index": 149394, "D": "inadvertence. ", "S": ["breach ", "carelessness ", "exclusion ", "failing ", "lapse ", "oversight "], "A": ["success ", "accomplishment ", "achievement ", "allowance ", "closure ", "continuation ", "continuity ", "juncture ", "perfection ", "permission ", "regard ", "respect "]}

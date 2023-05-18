@@ -1,0 +1,1 @@
+{"index": 148644, "D": "incapable of being upset or agitated; not easily excited; calm", "S": ["aplomb ", "composure ", "coolness ", "equanimity ", "imperturbability ", "nonchalance ", "poise ", "sang-froid ", "self-control ", "self-possession ", "stability ", "steadfastness "], "A": ["agitation ", "anxiety ", "discomposure ", "upset "]}

@@ -1,0 +1,1 @@
+{"index": 255204, "D": "having an arrangement of columns suggesting a tripteral  structure but without the inner colonnades.", "S": [], "A": []}

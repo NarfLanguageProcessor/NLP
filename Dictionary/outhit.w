@@ -1,0 +1,1 @@
+{"index": 216796, "D": "to hit something further than (someone else)", "S": ["beat ", "clobber ", "drub ", "edge ", "knock out ", "outplay ", "overpower ", "take ", "thrash ", "trounce ", "win "], "A": ["fail ", "forfeit ", "lose ", "surrender "]}

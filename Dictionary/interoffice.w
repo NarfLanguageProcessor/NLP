@@ -1,0 +1,1 @@
+{"index": 155542, "D": "functioning or communicating between the offices  of a company or organization; within a company", "S": [], "A": []}

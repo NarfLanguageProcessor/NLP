@@ -1,0 +1,1 @@
+{"index": 64368, "D": "a number of individuals assembled or associated together; group of people.", "S": ["association ", "club ", "community ", "group ", "party ", "team "], "A": ["individual "]}

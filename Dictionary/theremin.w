@@ -1,0 +1,1 @@
+{"index": 321248, "D": "a musical instrument with electronic tone generation, the pitch and tone volume being controlled by the distance between the player's hands and two metal rods serving as antennas.", "S": [], "A": []}

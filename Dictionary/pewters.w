@@ -1,0 +1,1 @@
+{"index": 232664, "D": "any of various alloys in which tin is the chief constituent, originally one of tin and lead.", "S": [], "A": []}

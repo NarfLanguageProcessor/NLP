@@ -1,0 +1,1 @@
+{"index": 244636, "D": "(esp formerly) a youth or man employed at a public house to serve beer, etc", "S": [], "A": []}

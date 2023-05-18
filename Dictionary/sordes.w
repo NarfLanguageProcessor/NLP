@@ -1,0 +1,1 @@
+{"index": 297550, "D": "dark incrustations on the lips and teeth of patients with prolonged fever", "S": [], "A": []}

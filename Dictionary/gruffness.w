@@ -1,0 +1,1 @@
+{"index": 130529, "D": "low and harsh; hoarse", "S": ["brusqueness ", "coarseness ", "crudeness ", "hardness ", "harshness ", "rudeness ", "severity "], "A": ["politeness "]}

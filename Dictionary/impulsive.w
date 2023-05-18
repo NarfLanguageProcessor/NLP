@@ -1,0 +1,1 @@
+{"index": 149260, "D": "actuated or swayed by emotional or involuntary impulses", "S": ["abrupt ", "hasty ", "impetuous ", "instinctive ", "offhand ", "passionate ", "spontaneous ", "violent "], "A": ["calm ", "deliberate ", "planned ", "sensible "]}

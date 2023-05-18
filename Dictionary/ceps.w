@@ -1,0 +1,1 @@
+{"index": 51219, "D": "an edible mushroom, Boletus edulis, that grows wild under pine or other evergreen trees", "S": [], "A": []}

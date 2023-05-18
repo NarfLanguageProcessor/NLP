@@ -1,0 +1,1 @@
+{"index": 158125, "D": "a member of a North American Indian confederacy, the Five Nations, comprising the Mohawks, Oneidas, Onondagas, Cayugas, and Senecas, and later the Tuscaroras.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 255367, "D": "the purported ability to move or deform inanimate objects, as metal spoons, through mental processes.", "S": [], "A": []}

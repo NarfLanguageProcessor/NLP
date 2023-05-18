@@ -1,0 +1,1 @@
+{"index": 129586, "D": "a lounge in a theater, broadcasting studio, or the like, for use by performers when they are not onstage, on camera, etc.", "S": ["changing room ", "fitting room "], "A": []}

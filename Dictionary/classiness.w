@@ -1,0 +1,1 @@
+{"index": 59427, "D": "of high class,  rank, or grade; stylish; admirably smart; elegant.", "S": [], "A": []}

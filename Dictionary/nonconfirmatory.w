@@ -1,0 +1,1 @@
+{"index": 202275, "D": "serving to confirm;  corroborative.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 14773, "D": "a substance that inhibits the growth-regulating function of an auxin. ", "S": [], "A": []}

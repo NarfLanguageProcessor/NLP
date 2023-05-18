@@ -1,0 +1,1 @@
+{"index": 352548, "D": "one of the stitches or fastenings employed.", "S": [], "A": []}

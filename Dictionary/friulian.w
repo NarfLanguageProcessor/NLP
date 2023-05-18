@@ -1,0 +1,1 @@
+{"index": 119167, "D": "a Rhaeto-Romanic dialect spoken by about half a million people of the plains of extreme NE Italy.", "S": [], "A": []}

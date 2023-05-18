@@ -1,0 +1,1 @@
+{"index": 169603, "D": "the reciprocal of the resistance of insulation.", "S": [], "A": []}

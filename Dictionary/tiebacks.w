@@ -1,0 +1,1 @@
+{"index": 323366, "D": "a strip or loop of material, heavy braid, or the like, used for holding a curtain back to one side.", "S": [], "A": []}

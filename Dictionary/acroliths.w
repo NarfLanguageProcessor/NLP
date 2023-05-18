@@ -1,0 +1,1 @@
+{"index": 2935, "D": "a sculptured figure having the head and extremities of stone and the torso of other material.", "S": [], "A": []}

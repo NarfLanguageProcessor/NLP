@@ -1,0 +1,1 @@
+{"index": 162003, "D": "to show or feel great joy; rejoice; exult.", "S": [], "A": []}

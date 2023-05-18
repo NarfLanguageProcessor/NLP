@@ -1,0 +1,1 @@
+{"index": 159830, "D": "a decorative ruffle or other arrangement of lace or cloth attached at the neckline and extending down the front of a woman's blouse or dress or, formerly, of a man's shirt.", "S": ["choker "], "A": []}

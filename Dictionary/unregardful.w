@@ -1,0 +1,1 @@
+{"index": 349350, "D": "observant; attentive; heedful (often followed by of)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25612, "D": "a gambling game at cards played by a banker and two or more punters who bet against the banker.", "S": [], "A": []}

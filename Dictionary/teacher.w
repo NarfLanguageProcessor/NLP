@@ -1,0 +1,1 @@
+{"index": 317429, "D": "a person who teaches  or instructs, especially as a profession; instructor.", "S": ["assistant ", "coach ", "educator ", "faculty member ", "instructor ", "lecturer ", "professor ", "scholar ", "schoolteacher ", "supervisor ", "tutor "], "A": ["pupil ", "student "]}

@@ -1,0 +1,1 @@
+{"index": 152815, "D": "to begin, set going, or originate", "S": ["begin ", "commence ", "inaugurate ", "institute ", "launch ", "open ", "set up ", "take up ", "trigger "], "A": ["block ", "cease ", "close ", "complete ", "conclude ", "end ", "finish ", "halt ", "stop ", "expel ", "reject "]}

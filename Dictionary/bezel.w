@@ -1,0 +1,1 @@
+{"index": 33043, "D": "the diagonal face at the end of the blade of a chisel, or the like, leading to the edge.", "S": [], "A": []}

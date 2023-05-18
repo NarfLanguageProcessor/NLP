@@ -1,0 +1,1 @@
+{"index": 347766, "D": "persistently harassed or oppressed, especially because of religious or political beliefs, ethnic or racial origin, gender identity,  or sexual orientation", "S": [], "A": []}

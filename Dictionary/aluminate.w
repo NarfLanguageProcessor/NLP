@@ -1,0 +1,1 @@
+{"index": 9605, "D": "a salt of the acid form of aluminum hydroxide, containing the group AlO2\u2212 or AlO3\u22123.", "S": [], "A": []}

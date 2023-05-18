@@ -1,0 +1,1 @@
+{"index": 172077, "D": "light, especially in form, appearance, or movement; airy; buoyant; agile; nimble; graceful.", "S": ["blithe ", "carefree ", "cheerful ", "cheery ", "convivial ", "gladsome ", "gleeful ", "happy ", "jocund ", "jolly ", "jovial ", "joyful ", "joyous ", "lighthearted ", "merry ", "mirthful ", "sunny "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 14684, "D": "any tropical American plant belonging to the genus Anthurium, of the arum family, certain species of which are cultivated for their glossy red heart-shaped bract surrounding a rodlike spike of tiny yellow flowers.", "S": [], "A": []}

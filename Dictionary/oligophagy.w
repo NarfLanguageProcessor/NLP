@@ -1,0 +1,1 @@
+{"index": 212214, "D": "(especially of insects) eating only a few types of food.", "S": [], "A": []}

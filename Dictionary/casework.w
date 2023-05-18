@@ -1,0 +1,1 @@
+{"index": 48848, "D": "the work  of investigation, advice, supervision, etc., by social workers or the like, in cases  handled by them.", "S": ["community service ", "free school lunch ", "good works ", "government-provided services ", "relief ", "social welfare ", "support services ", "welfare ", "welfare work "], "A": []}

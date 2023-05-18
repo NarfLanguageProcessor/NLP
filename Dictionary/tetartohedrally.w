@@ -1,0 +1,1 @@
+{"index": 319895, "D": "(of a crystal) having one fourth the planes or faces required by the maximum symmetry of the system to which it belongs.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 31950, "D": "to dispose of (personal property, especially money) by last will", "S": ["endowment ", "inheritance "], "A": []}

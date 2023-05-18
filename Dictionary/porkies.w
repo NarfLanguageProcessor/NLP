@@ -1,0 +1,1 @@
+{"index": 243443, "D": "of, relating to, or resembling pork. ", "S": ["boar ", "hog ", "piglet ", "swine "], "A": []}

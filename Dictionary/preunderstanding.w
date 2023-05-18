@@ -1,0 +1,1 @@
+{"index": 250076, "D": "to perceive the meaning of; grasp the idea of; comprehend", "S": [], "A": []}

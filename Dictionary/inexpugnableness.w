@@ -1,0 +1,1 @@
+{"index": 151741, "D": "incapable of being taken by force; impregnable; unconquerable.", "S": [], "A": []}

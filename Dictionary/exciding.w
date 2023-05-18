@@ -1,0 +1,1 @@
+{"index": 106663, "D": "to cut out; excise. ", "S": [], "A": []}

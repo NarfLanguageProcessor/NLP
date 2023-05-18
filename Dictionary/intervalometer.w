@@ -1,0 +1,1 @@
+{"index": 156136, "D": "an automatic device for operating the shutter of a camera at regular intervals,  as in making aerial photographs.", "S": [], "A": []}

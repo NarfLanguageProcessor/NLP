@@ -1,0 +1,1 @@
+{"index": 139734, "D": "an indirect, covert, or helpful suggestion; clue", "S": ["implying ", "meaning ", "referring ", "suggesting "], "A": []}

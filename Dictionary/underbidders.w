@@ -1,0 +1,1 @@
+{"index": 338869, "D": "to bid  less than (another bid) or less than the bid of (another bidder), especially in seeking a contract to be awarded to the lowest bid or bidder; make an offer at a lower price than.", "S": [], "A": []}

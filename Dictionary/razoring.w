@@ -1,0 +1,1 @@
+{"index": 261361, "D": "a sharp-edged instrument used especially for shaving the face or trimming the hair.", "S": [], "A": []}

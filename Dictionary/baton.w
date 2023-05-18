@@ -1,0 +1,1 @@
+{"index": 29046, "D": "a wand used by a conductor.", "S": ["cudgel ", "mace ", "nightstick ", "rod ", "truncheon ", "wand "], "A": []}

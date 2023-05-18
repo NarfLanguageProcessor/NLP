@@ -1,0 +1,1 @@
+{"index": 176542, "D": "a unit of illumination, equivalent to 0.0929 foot-candle and equal to the illumination produced by luminous flux of one lumen falling perpendicularly on a surface one meter square. Symbol", "S": [], "A": []}

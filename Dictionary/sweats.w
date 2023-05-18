@@ -1,0 +1,1 @@
+{"index": 314227, "D": "jeans and sweats", "S": ["athletic suit ", "exercise suit ", "gymsuit ", "sweatclothes ", "warm-ups "], "A": []}

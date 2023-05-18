@@ -1,0 +1,1 @@
+{"index": 207397, "D": "a substance incapable of dissolving a given component of a solution or mixture.", "S": [], "A": []}

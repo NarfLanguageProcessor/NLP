@@ -1,0 +1,1 @@
+{"index": 313762, "D": "of or relating to suspicion,  especially morbid or insane suspicions. ", "S": [], "A": []}

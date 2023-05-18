@@ -1,0 +1,1 @@
+{"index": 108382, "D": "to praise highly; laud; eulogize", "S": ["acclaim ", "applaud ", "celebrate ", "commend ", "eulogize ", "exalt ", "glorify ", "laud ", "praise "], "A": ["blame ", "castigate ", "censure ", "condemn ", "criticize ", "debase ", "denounce ", "disapprove ", "humiliate ", "decrease ", "discourage "]}

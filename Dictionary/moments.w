@@ -1,0 +1,1 @@
+{"index": 191650, "D": "an indefinitely short period of time; instant", "S": ["bit ", "date ", "flash ", "hour ", "juncture ", "minute ", "occasion ", "point ", "stage ", "time "], "A": ["whole "]}

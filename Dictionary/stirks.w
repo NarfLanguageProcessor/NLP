@@ -1,0 +1,1 @@
+{"index": 304811, "D": "a young bull or cow, especially one in its second year.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288666, "D": "of poor quality or inferior workmanship", "S": [], "A": []}

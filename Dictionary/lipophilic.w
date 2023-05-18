@@ -1,0 +1,1 @@
+{"index": 173208, "D": "having a strong affinity for lipids.", "S": [], "A": []}

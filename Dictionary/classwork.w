@@ -1,0 +1,1 @@
+{"index": 59444, "D": "the written or oral work  done in a classroom by a student (distinguished from homework).", "S": [], "A": []}

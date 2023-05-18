@@ -1,0 +1,1 @@
+{"index": 227795, "D": "(of a cross) having arms of equal length, each expanding outward from the center; form\u00e9e", "S": [], "A": []}

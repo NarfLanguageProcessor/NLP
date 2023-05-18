@@ -1,0 +1,1 @@
+{"index": 222233, "D": "a malformation in which the head is somewhat pointed, caused by premature closure of the skull sutures.", "S": [], "A": []}

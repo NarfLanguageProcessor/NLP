@@ -1,0 +1,1 @@
+{"index": 155652, "D": "an official international agency that coordinates the police activities of more than 100 member nations", "S": [], "A": []}

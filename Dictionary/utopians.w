@@ -1,0 +1,1 @@
+{"index": 356200, "D": "of, relating to, or resembling Utopia,  an idealized imaginary island described in Sir Thomas More's Utopia (1516).", "S": ["dreamer ", "idealist ", "prophet ", "romantic ", "seer ", "theorist ", "zealot "], "A": ["realist "]}

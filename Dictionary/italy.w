@@ -1,0 +1,1 @@
+{"index": 159438, "D": "a republic in southern Europe, comprising a peninsula south of the Alps, and Sicily, Sardinia, Elba, and other smaller islands", "S": [], "A": []}

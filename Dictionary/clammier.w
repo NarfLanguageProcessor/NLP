@@ -1,0 +1,1 @@
+{"index": 59148, "D": "covered with a cold, sticky moisture; cold and damp", "S": ["close ", "dank ", "drizzly ", "moist ", "mucid ", "mucous ", "muculent ", "pasty ", "slimy ", "soggy ", "sticky ", "sweating ", "sweaty ", "wet "], "A": ["dry "]}

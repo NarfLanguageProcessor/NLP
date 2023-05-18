@@ -1,0 +1,1 @@
+{"index": 85448, "D": "(in the treatment of heart disease) the administration of digitalis, usually in a regimen, to produce a desired physiological effect.", "S": [], "A": []}

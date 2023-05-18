@@ -1,0 +1,1 @@
+{"index": 226894, "D": "the act or process of analyzing sentences or their elements grammatically", "S": [], "A": []}

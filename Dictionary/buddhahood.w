@@ -1,0 +1,1 @@
+{"index": 42146, "D": "the attainment of enlightenment as a Buddha. ", "S": [], "A": []}

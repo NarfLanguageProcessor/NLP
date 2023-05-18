@@ -1,0 +1,1 @@
+{"index": 339203, "D": "suitable or appropriate; proper or becoming.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 59994, "D": "a person or thing that climbs. ", "S": ["clinging plant ", "plant vine "], "A": []}

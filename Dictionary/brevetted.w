@@ -1,0 +1,1 @@
+{"index": 40487, "D": "a commission promoting a military officer to a higher rank without increase of pay and with limited exercise of the higher rank, often granted as an honor immediately before retirement.", "S": [], "A": []}

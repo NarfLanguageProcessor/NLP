@@ -1,0 +1,1 @@
+{"index": 336679, "D": "freedom from doubt, especially in matters of faith or opinion; certainty.", "S": [], "A": []}

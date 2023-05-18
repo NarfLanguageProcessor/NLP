@@ -1,0 +1,1 @@
+{"index": 165141, "D": "a person who kisses.", "S": ["countenance ", "feature ", "features ", "frown ", "glower ", "grimace ", "guise ", "mask ", "mug ", "muzzle ", "physiognomy ", "pout ", "profile ", "scowl ", "visage "], "A": ["grin ", "smile "]}

@@ -1,0 +1,1 @@
+{"index": 138173, "D": "an instrument used in hyalography.", "S": [], "A": []}

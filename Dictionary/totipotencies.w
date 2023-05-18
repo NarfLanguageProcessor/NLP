@@ -1,0 +1,1 @@
+{"index": 326514, "D": "(of a cell or part) having the potential for developing in various specialized ways in response to external or internal stimuli.", "S": [], "A": []}

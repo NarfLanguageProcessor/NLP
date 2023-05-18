@@ -1,0 +1,1 @@
+{"index": 352062, "D": "to be frugal; get along on a scanty allowance", "S": ["effortlessly ", "liberally ", "readily "], "A": ["difficultly "]}

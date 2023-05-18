@@ -1,0 +1,1 @@
+{"index": 150222, "D": "not accordant or in agreement; incongruous", "S": [], "A": []}

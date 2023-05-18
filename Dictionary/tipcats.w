@@ -1,0 +1,1 @@
+{"index": 324159, "D": "a game in which a short piece of wood, tapered at both ends, is struck lightly at one end with a bat, causing the wood to spring into the air so that it can be batted for a distance.", "S": [], "A": []}

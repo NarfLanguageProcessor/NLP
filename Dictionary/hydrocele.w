@@ -1,0 +1,1 @@
+{"index": 138545, "D": "an accumulation of serous fluid, usually about the testis.", "S": [], "A": []}

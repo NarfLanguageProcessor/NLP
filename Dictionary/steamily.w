@@ -1,0 +1,1 @@
+{"index": 303300, "D": "consisting of or resembling steam. ", "S": [], "A": []}

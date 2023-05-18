@@ -1,0 +1,1 @@
+{"index": 67196, "D": "a person who is dedicated to protecting and promoting the welfare and rights of consumers. ", "S": [], "A": []}

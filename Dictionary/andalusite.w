@@ -1,0 +1,1 @@
+{"index": 12292, "D": "an orthorhombic form of aluminum silicate, Al2SiO5, found in schistose rocks.", "S": [], "A": []}

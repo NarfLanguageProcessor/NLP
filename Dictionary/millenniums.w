@@ -1,0 +1,1 @@
+{"index": 187310, "D": "a period of 1,000 years", "S": ["happiness ", "paradise ", "prosperity ", "serenity ", "utopia "], "A": ["hell "]}

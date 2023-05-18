@@ -1,0 +1,1 @@
+{"index": 283242, "D": "an instrument for collecting the urine excreted by one kidney only.", "S": [], "A": []}

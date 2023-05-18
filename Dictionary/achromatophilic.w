@@ -1,0 +1,1 @@
+{"index": 2359, "D": "having little or no affinity for stains.", "S": [], "A": []}

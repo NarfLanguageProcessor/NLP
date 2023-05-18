@@ -1,0 +1,1 @@
+{"index": 359569, "D": "a U.S. policy during the Vietnam War  of giving the South Vietnamese government responsibility for carrying on the war, so as to allow for the withdrawal of American troops.", "S": [], "A": []}

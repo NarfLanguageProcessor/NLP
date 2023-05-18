@@ -1,0 +1,1 @@
+{"index": 36660, "D": "having a coarse, ruddy complexion.", "S": ["bedraggled ", "messy ", "rumpled "], "A": ["clean ", "neat ", "ordered "]}

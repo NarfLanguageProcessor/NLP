@@ -1,0 +1,1 @@
+{"index": 95861, "D": "educing; serving to educe.", "S": [], "A": []}

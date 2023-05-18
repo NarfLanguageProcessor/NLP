@@ -1,0 +1,1 @@
+{"index": 309811, "D": "achieving or having achieved success. ", "S": ["fortunate ", "fruitful ", "happy ", "lucky ", "lucrative ", "outstanding ", "prosperous ", "rewarding ", "strong ", "wealthy "], "A": ["bad ", "hopeless ", "poor ", "sad ", "unfortunate ", "unhappy ", "unlucky ", "unsuccessful "]}

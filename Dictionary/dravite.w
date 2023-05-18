@@ -1,0 +1,1 @@
+{"index": 92752, "D": "a brown variety of magnesium tourmaline.", "S": [], "A": []}

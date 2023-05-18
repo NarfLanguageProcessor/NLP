@@ -1,0 +1,1 @@
+{"index": 365370, "D": "a bastard.", "S": ["bar sinister ", "bastard ", "bastard child ", "bend sinister ", "by-blow ", "child born without benefit of clergy ", "love child ", "nullius filius ", "out-of-wedlock child "], "A": []}

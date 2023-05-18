@@ -1,0 +1,1 @@
+{"index": 163533, "D": "to peep; look furtively", "S": [], "A": []}

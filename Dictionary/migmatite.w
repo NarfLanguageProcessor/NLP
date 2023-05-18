@@ -1,0 +1,1 @@
+{"index": 187019, "D": "a composite rock body containing two types of rock (esp igneous and metamorphic rock) that have interacted with each other but are nevertheless still distinguishable", "S": [], "A": []}

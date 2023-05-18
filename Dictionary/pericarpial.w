@@ -1,0 +1,1 @@
+{"index": 230813, "D": "the walls of a ripened ovary or fruit, sometimes consisting of three layers, the epicarp, mesocarp, and endocarp.", "S": [], "A": []}

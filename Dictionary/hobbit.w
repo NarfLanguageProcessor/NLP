@@ -1,0 +1,1 @@
+{"index": 142100, "D": "a member of a race of imaginary creatures related to and resembling humans, living in underground holes and characterized by their good nature, diminutive size, and hairy feet.", "S": [], "A": []}

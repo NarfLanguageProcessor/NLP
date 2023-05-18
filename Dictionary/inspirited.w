@@ -1,0 +1,1 @@
+{"index": 153805, "D": "to infuse spirit  or life into; enliven.", "S": ["aided ", "animated ", "cheered ", "determined ", "emboldened ", "enlivened ", "inspired ", "reassured ", "renewed ", "roused ", "supported "], "A": ["discouraged ", "disheartened ", "dispirited "]}

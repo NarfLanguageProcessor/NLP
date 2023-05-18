@@ -1,0 +1,1 @@
+{"index": 264501, "D": "characterized by verbosity or unnecessary repetition in expressing ideas; prolix", "S": ["superfluous ", "unnecessary "], "A": ["necessary ", "needed "]}

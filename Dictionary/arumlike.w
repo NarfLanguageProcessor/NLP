@@ -1,0 +1,1 @@
+{"index": 20803, "D": "the plant family Araceae, characterized by herbaceous plants having numerous tiny flowers on a fleshy spike above or sheathed by a large spathe, and including the anthurium, calla lily, jack-in-the-pulpit, and philodendron.", "S": [], "A": []}

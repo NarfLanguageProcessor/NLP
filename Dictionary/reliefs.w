@@ -1,0 +1,1 @@
+{"index": 266906, "D": "alleviation, ease, or deliverance through the removal of pain, distress, oppression, etc.", "S": ["alleviation ", "assistance ", "comfort ", "happiness ", "help ", "maintenance ", "reprieve ", "respite ", "satisfaction ", "support "], "A": ["hindrance ", "hurt ", "injury ", "stop ", "unhappiness ", "annoyance ", "check ", "continuation ", "sadness "]}

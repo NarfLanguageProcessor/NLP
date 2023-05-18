@@ -1,0 +1,1 @@
+{"index": 322055, "D": "previously used or owned by two successive people.", "S": [], "A": []}

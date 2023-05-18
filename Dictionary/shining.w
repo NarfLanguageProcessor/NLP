@@ -1,0 +1,1 @@
+{"index": 288368, "D": "radiant; gleaming; bright. ", "S": ["gleaming ", "glistening ", "luminous ", "radiant ", "shimmering "], "A": ["dark ", "dim ", "dull "]}

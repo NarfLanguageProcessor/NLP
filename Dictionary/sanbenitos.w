@@ -1,0 +1,1 @@
+{"index": 277640, "D": "an ornamented garment worn by a condemned heretic at an auto-da-f\u00e9.", "S": [], "A": []}

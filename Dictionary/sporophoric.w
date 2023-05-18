@@ -1,0 +1,1 @@
+{"index": 301010, "D": "a fungus hypha specialized to bear spores.", "S": [], "A": []}

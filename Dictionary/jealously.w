@@ -1,0 +1,1 @@
+{"index": 160701, "D": "feeling resentment against someone because of that person's rivalry, success, or advantages (often followed by of)", "S": [], "A": []}

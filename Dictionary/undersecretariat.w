@@ -1,0 +1,1 @@
+{"index": 339753, "D": "a department or section of a ministry of which an under secretary is in charge.", "S": [], "A": []}

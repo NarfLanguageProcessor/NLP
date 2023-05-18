@@ -1,0 +1,1 @@
+{"index": 288644, "D": "a sudden and violent blow or impact; collision. ", "S": [], "A": []}

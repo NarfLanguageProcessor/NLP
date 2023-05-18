@@ -1,0 +1,1 @@
+{"index": 183691, "D": "full of mercy;  characterized by, expressing, or showing mercy;  compassionate", "S": ["charitable ", "compassionate ", "forgiving ", "gracious ", "humane ", "humanitarian ", "kindly ", "lenient "], "A": ["cruel ", "hard ", "harsh ", "hateful ", "inhumane ", "mean ", "merciless ", "severe ", "uncompassionate ", "ungiving ", "unkind ", "unsympathetic "]}

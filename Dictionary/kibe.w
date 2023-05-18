@@ -1,0 +1,1 @@
+{"index": 164393, "D": "a chapped or ulcerated chilblain, especially on the heel.", "S": [], "A": []}

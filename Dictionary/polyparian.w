@@ -1,0 +1,1 @@
+{"index": 242197, "D": "the common supporting structure of a colony of polyps, as corals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 343561, "D": "arousing hate  or deserving to be hated", "S": [], "A": []}

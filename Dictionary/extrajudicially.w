@@ -1,0 +1,1 @@
+{"index": 108519, "D": "outside of judicial  proceedings; beyond the action or authority of a court.", "S": [], "A": []}

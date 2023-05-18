@@ -1,0 +1,1 @@
+{"index": 183581, "D": "one of the seven chief devils and the tempter of Faust.", "S": [], "A": []}

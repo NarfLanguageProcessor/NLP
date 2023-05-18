@@ -1,0 +1,1 @@
+{"index": 54061, "D": "the distribution of light and shade in a picture.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183452, "D": "propriety; discretion.", "S": [], "A": []}

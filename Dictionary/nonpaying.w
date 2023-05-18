@@ -1,0 +1,1 @@
+{"index": 205712, "D": "(of guests, customers, etc) not expected or requested to pay", "S": ["at a loss ", "bankrupt ", "behindhand ", "delinquent ", "in arrears ", "in debt ", "in dire straits ", "in hock ", "in the hole ", "insolvent ", "losing money ", "to the bad ", "unprofitably "], "A": ["in the black "]}

@@ -1,0 +1,1 @@
+{"index": 225572, "D": "resembling a paraffin. ", "S": [], "A": []}

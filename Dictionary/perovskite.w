@@ -1,0 +1,1 @@
+{"index": 231739, "D": "a naturally occurring titanate of calcium, CaTiO3, found as yellow, brown, or black cubic crystals, usually in metamorphic rocks.", "S": [], "A": []}

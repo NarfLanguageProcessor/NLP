@@ -1,0 +1,1 @@
+{"index": 5591, "D": "to replace the European or white staff of (an organization in Africa) with Black Africans.", "S": [], "A": []}

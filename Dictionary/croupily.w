@@ -1,0 +1,1 @@
+{"index": 73967, "D": "pertaining to or resembling croup. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 350651, "D": "free from or not exposed to danger or harm; safe.", "S": ["alarmingly ", "critically ", "desperately ", "perilously ", "precariously ", "recklessly ", "seriously ", "severely "], "A": ["lightly "]}

@@ -1,0 +1,1 @@
+{"index": 30636, "D": [], "S": ["adorn ", "bedeck "], "A": ["decrease ", "harm ", "reduce ", "reveal ", "strip "]}

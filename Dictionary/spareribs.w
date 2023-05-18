@@ -1,0 +1,1 @@
+{"index": 298405, "D": "a cut of meat from the rib section, especially of pork or beef, with some meat adhering to the bones.", "S": [], "A": []}

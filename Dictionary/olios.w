@@ -1,0 +1,1 @@
+{"index": 212279, "D": "a dish of many ingredients.", "S": ["collection ", "hash ", "hodgepodge ", "jumble ", "medley ", "mishmash ", "mixture ", "potpourri ", "stew "], "A": []}

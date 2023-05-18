@@ -1,0 +1,1 @@
+{"index": 85759, "D": "to waste time, especially by indecision; vacillate; trifle; loiter.", "S": ["dally ", "delay ", "fritter ", "idle ", "lag ", "linger ", "loaf ", "loiter ", "stall ", "trifle ", "vacillate "], "A": ["advance ", "further ", "hasten ", "hurry ", "leave ", "rush "]}

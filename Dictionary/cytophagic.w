@@ -1,0 +1,1 @@
+{"index": 58784, "D": "the ingestion of cells by other cells.", "S": [], "A": []}

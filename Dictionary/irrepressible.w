@@ -1,0 +1,1 @@
+{"index": 158345, "D": "incapable of being repressed  or restrained; uncontrollable", "S": ["boisterous ", "buoyant ", "ebullient ", "rebellious "], "A": ["depressed ", "despondent ", "grave ", "hopeless ", "serious "]}

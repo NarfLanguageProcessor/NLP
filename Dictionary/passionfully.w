@@ -1,0 +1,1 @@
+{"index": 227345, "D": "any powerful or compelling emotion or feeling, as love or hate.", "S": [], "A": []}

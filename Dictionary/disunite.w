@@ -1,0 +1,1 @@
+{"index": 90013, "D": "to sever the union of; separate; disjoin.", "S": ["alienate ", "disband ", "disconnect ", "disengage ", "disjoin ", "disjoint ", "dissociate ", "dissolve ", "divide ", "divorce ", "estrange ", "part ", "separate ", "sever ", "sunder "], "A": ["associate ", "attach ", "combine ", "connect ", "couple ", "engage ", "join ", "link ", "marry ", "unite "]}

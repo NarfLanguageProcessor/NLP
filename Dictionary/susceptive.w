@@ -1,0 +1,1 @@
+{"index": 313699, "D": "receptive. ", "S": ["apt ", "assailable ", "attackable ", "beatable ", "conquerable ", "disposed ", "exposed ", "given ", "in danger ", "inclined ", "open ", "penetrable ", "prone ", "sensitive ", "subject ", "susceptible ", "tending ", "verisimilar ", "vincible ", "vulnerable "], "A": []}

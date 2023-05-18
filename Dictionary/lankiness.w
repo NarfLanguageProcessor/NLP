@@ -1,0 +1,1 @@
+{"index": 168181, "D": "ungracefully thin and rawboned; bony; gaunt", "S": ["emaciation ", "gauntness ", "leanness ", "scrawniness ", "skinniness ", "slenderness "], "A": ["avoirdupois ", "fatness ", "solidity ", "thickness "]}

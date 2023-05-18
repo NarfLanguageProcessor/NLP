@@ -1,0 +1,1 @@
+{"index": 306321, "D": "a horizontal band or course,  as of stone, projecting beyond or flush with the face of a building, often molded and sometimes richly carved.", "S": [], "A": []}

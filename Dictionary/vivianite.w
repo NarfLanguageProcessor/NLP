@@ -1,0 +1,1 @@
+{"index": 360750, "D": "a secondary mineral, hydrous ferrous phosphate, Fe3(PO4)2\u22c58H2O, occurring in the form of pale blue crystals or powder.", "S": [], "A": []}

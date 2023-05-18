@@ -1,0 +1,1 @@
+{"index": 288242, "D": "the beliefs and practices of Shiah", "S": [], "A": []}

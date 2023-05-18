@@ -1,0 +1,1 @@
+{"index": 318880, "D": "a mineral, copper arsenic sulfide, approximately Cu3AsS3", "S": [], "A": []}

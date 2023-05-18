@@ -1,0 +1,1 @@
+{"index": 45272, "D": "a combining form meaning \u201cbeautiful,\u201d occurring in loanwords from Greek (calligraphy); on this model, used in the formation of compound words (callisthenics).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 320178, "D": "any ruler of a fourth part, division, etc.", "S": [], "A": []}

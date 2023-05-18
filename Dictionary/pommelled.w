@@ -1,0 +1,1 @@
+{"index": 242886, "D": "a knob, as on the hilt of a sword.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 127223, "D": "any of several composite plants of the genus Tragopogon, especially T. pratensis, having yellow flower heads.", "S": [], "A": []}

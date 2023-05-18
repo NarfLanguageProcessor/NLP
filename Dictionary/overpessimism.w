@@ -1,0 +1,1 @@
+{"index": 220489, "D": "the tendency to see, anticipate, or emphasize only bad or undesirable outcomes, results, conditions, problems, etc.", "S": [], "A": []}

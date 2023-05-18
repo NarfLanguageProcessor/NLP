@@ -1,0 +1,1 @@
+{"index": 337399, "D": "composed of many interconnected parts; compound; composite", "S": ["elemental ", "fundamental ", "rudimentary ", "straightforward ", "underlying "], "A": ["additional ", "advanced ", "extra ", "secondary "]}

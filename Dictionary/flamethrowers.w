@@ -1,0 +1,1 @@
+{"index": 113877, "D": "a weapon, either mounted or portable, that sprays ignited incendiary fuel for some distance.", "S": ["ammunition ", "bomb ", "cannon ", "firearm ", "gun ", "knife ", "machete ", "machine gun ", "missile ", "nerve gas ", "pistol ", "revolver ", "rifle ", "shotgun ", "sword ", "tear gas "], "A": []}

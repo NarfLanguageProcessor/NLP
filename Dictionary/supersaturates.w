@@ -1,0 +1,1 @@
+{"index": 312558, "D": "to increase the concentration of (a solution) beyond saturation; saturate  abnormally.", "S": [], "A": []}

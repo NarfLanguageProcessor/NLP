@@ -1,0 +1,1 @@
+{"index": 352285, "D": "not substantiated;  unproved or unverified", "S": ["debatable ", "dubious ", "unsupported "], "A": ["certain ", "sure "]}

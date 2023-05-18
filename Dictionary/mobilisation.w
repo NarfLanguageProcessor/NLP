@@ -1,0 +1,1 @@
+{"index": 190949, "D": "the act or process of marshaling, organizing, or preparing something for action", "S": [], "A": []}

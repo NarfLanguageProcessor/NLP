@@ -1,0 +1,1 @@
+{"index": 85017, "D": "a didactic person; one overinclined to instruct others.", "S": [], "A": []}

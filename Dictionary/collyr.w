@@ -1,0 +1,1 @@
+{"index": 63048, "D": "(in prescriptions) an eyewash.", "S": [], "A": []}

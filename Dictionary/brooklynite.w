@@ -1,0 +1,1 @@
+{"index": 41523, "D": "a borough of New York City, on W Long Island. 76.4 sq. mi. (198 sq. km).", "S": [], "A": []}

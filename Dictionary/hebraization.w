@@ -1,0 +1,1 @@
+{"index": 135084, "D": "to use expressions or constructions distinctive of the Hebrew language.", "S": [], "A": []}

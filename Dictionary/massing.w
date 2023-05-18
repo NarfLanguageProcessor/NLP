@@ -1,0 +1,1 @@
+{"index": 180809, "D": "a body of coherent matter, usually of indefinite shape and often of considerable size", "S": ["absorption ", "combination ", "consolidation "], "A": ["division ", "parting ", "separation ", "severance "]}

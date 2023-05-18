@@ -1,0 +1,1 @@
+{"index": 265569, "D": "a phenomenon in which the freezing point of water is lowered by the application of pressure; the melting and refreezing of ice, at constant temperature, caused by varying the pressure.", "S": ["chilling ", "freezing "], "A": []}

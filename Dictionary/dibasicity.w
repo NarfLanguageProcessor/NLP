@@ -1,0 +1,1 @@
+{"index": 84680, "D": "containing two replaceable or ionizable hydrogen atoms", "S": [], "A": []}

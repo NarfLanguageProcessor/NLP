@@ -1,0 +1,1 @@
+{"index": 123387, "D": "a precious or semiprecious stone that can be cut and polished for use as a gem.", "S": ["bauble ", "bead ", "gem ", "ornament ", "stone ", "trinket "], "A": []}

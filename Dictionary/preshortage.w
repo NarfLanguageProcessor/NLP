@@ -1,0 +1,1 @@
+{"index": 249434, "D": "a deficiency in quantity", "S": [], "A": []}

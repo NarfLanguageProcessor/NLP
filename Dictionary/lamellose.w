@@ -1,0 +1,1 @@
+{"index": 167660, "D": "composed of or having lamellae.", "S": [], "A": []}

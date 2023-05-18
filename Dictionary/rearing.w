@@ -1,0 +1,1 @@
+{"index": 261957, "D": "the back of something, as distinguished from the front", "S": ["backdrop ", "culture ", "education ", "environment ", "history ", "practice ", "qualification ", "tradition ", "training ", "upbringing "], "A": ["ignorance "]}

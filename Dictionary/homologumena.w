@@ -1,0 +1,1 @@
+{"index": 143157, "D": "the books in the New Testament generally held as authoritative and canonical by the early church.", "S": [], "A": []}

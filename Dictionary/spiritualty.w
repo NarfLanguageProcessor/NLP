@@ -1,0 +1,1 @@
+{"index": 300149, "D": "ecclesiastical property or revenue.", "S": ["devoutness ", "holiness ", "piousness ", "religiosity ", "religiousness "], "A": []}

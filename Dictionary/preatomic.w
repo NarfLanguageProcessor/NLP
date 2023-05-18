@@ -1,0 +1,1 @@
+{"index": 245786, "D": "of or relating to the period of history preceding the atomic age. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43949, "D": "a small house or cottage, usually of simple design and construction", "S": [], "A": []}

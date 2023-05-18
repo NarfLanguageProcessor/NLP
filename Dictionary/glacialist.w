@@ -1,0 +1,1 @@
+{"index": 125742, "D": "a person who studies geological phenomena involving the action of ice, especially of glaciers.", "S": [], "A": []}

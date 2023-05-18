@@ -1,0 +1,1 @@
+{"index": 278013, "D": "without. ", "S": ["bare ", "barren ", "lacking ", "vacant "], "A": ["full "]}

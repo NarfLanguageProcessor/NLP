@@ -1,0 +1,1 @@
+{"index": 23274, "D": "capable of being heard; loud enough to be heard; actually heard.", "S": ["deafening ", "detectable ", "discernible ", "distinct ", "loud ", "perceptible ", "resounding ", "sounding "], "A": ["ambiguous ", "indistinct ", "invisible ", "obscure ", "unnoticeable ", "vague ", "obscured ", "unclear "]}

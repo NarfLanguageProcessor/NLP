@@ -1,0 +1,1 @@
+{"index": 113979, "D": "to swing or sway back and forth loosely, especially with noise", "S": ["dangle ", "flail ", "flop ", "hang ", "thrash ", "vibrate "], "A": ["calm ", "soothe "]}

@@ -1,0 +1,1 @@
+{"index": 226244, "D": "an object, article, container, or quantity of something wrapped or packed up; small package; bundle. ", "S": ["apportioned ", "compartmental ", "compartmented ", "constituent ", "dismembered ", "dispersed ", "divided ", "fragmentary ", "frationary ", "incomplete ", "part ", "piecemeal ", "sectional ", "segmented "], "A": ["all ", "entire ", "total "]}

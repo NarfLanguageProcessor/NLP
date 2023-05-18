@@ -1,0 +1,1 @@
+{"index": 298178, "D": "an act of someone or something that spaces. ", "S": ["architecture ", "balance ", "beauty ", "configuration ", "content ", "design ", "distribution ", "formation ", "harmony ", "layout ", "rhythm ", "style "], "A": ["disproportion ", "imbalance ", "disagreement ", "discord ", "unevenness "]}

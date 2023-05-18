@@ -1,0 +1,1 @@
+{"index": 167082, "D": "any long, slender, rod-shaped, anaerobic bacterium of the genus Lactobacillus, that produces large amounts of lactic acid in the fermentation of carbohydrates, especially in milk.", "S": [], "A": []}

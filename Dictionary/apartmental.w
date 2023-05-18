@@ -1,0 +1,1 @@
+{"index": 16668, "D": "a room or a group of related rooms, among similar sets in one building, designed for use as a dwelling.", "S": [], "A": []}

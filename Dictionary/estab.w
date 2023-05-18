@@ -1,0 +1,1 @@
+{"index": 104553, "D": "established.", "S": [], "A": []}

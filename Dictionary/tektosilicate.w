@@ -1,0 +1,1 @@
+{"index": 317954, "D": "any silicate in which each tetrahedral group shares all its oxygen atoms with neighboring groups, the ratio of silicon to oxygen being 1 to 2.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183508, "D": "mental activity.", "S": [], "A": []}

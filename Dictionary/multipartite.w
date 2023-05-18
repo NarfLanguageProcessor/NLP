@@ -1,0 +1,1 @@
+{"index": 195232, "D": "divided into several or many parts; having several or many divisions.", "S": [], "A": []}

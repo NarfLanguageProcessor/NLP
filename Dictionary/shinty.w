@@ -1,0 +1,1 @@
+{"index": 288391, "D": "a simple form of hockey of Scottish origin played with a ball and sticks curved at the lower end", "S": ["bandy ", "banty ", "hurley ", "hurling ", "shinny ", "street hockey "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259768, "D": "(of certain tissues or organisms) sensitive  to or destructible by various types of radiant energy, as x-rays, rays from radioactive material, or the like.", "S": [], "A": []}

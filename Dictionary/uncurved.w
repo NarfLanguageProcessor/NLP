@@ -1,0 +1,1 @@
+{"index": 338342, "D": "a continuously bending line, without angles.", "S": [], "A": []}

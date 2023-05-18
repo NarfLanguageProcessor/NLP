@@ -1,0 +1,1 @@
+{"index": 151379, "D": "any of a large class of dyes yielding colors similar to indigo.", "S": [], "A": []}

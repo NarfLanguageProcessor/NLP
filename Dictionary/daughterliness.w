@@ -1,0 +1,1 @@
+{"index": 77252, "D": "pertaining to, befitting, or like a daughter. ", "S": [], "A": []}

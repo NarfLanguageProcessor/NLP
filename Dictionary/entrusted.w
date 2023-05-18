@@ -1,0 +1,1 @@
+{"index": 101721, "D": "to charge or invest with a trust  or responsibility; charge with a specified office or duty involving trust", "S": ["advanced ", "bestowed ", "given ", "granted ", "intrusted ", "leased ", "let "], "A": []}

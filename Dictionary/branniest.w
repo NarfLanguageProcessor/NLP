@@ -1,0 +1,1 @@
+{"index": 39956, "D": "of, containing, or like bran. ", "S": ["chalky ", "crumbly ", "dusty ", "grainy ", "gravelly "], "A": ["solid "]}

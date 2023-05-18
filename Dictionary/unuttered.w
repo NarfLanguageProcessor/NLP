@@ -1,0 +1,1 @@
+{"index": 353612, "D": "to give audible expression to; speak or pronounce", "S": ["aphonic ", "implicit ", "indescribable ", "inexpressible ", "nameless ", "tacit ", "undeclared ", "unexpressed ", "unpronounced ", "unsaid ", "unspoken ", "unvoiced ", "wordless "], "A": []}

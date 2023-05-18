@@ -1,0 +1,1 @@
+{"index": 40771, "D": "a person or thing that brightens. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 170762, "D": "an aluminum coin of modern Greece until the euro  was adopted, one 100th of a drachma.", "S": [], "A": []}

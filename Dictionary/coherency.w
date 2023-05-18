@@ -1,0 +1,1 @@
+{"index": 62368, "D": "the act or state of cohering; cohesion. ", "S": [], "A": []}

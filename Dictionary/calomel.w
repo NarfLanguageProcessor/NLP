@@ -1,0 +1,1 @@
+{"index": 45400, "D": "a white, tasteless powder, Hg2Cl2, used chiefly as a purgative and fungicide.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 291818, "D": "the act, process, amount, or degree of sinking.", "S": ["bowl ", "lagoon ", "pan ", "pool ", "pot ", "tub ", "valley ", "watershed "], "A": ["increase ", "rise ", "solid "]}

@@ -1,0 +1,1 @@
+{"index": 176972, "D": "examination or study of an object with the naked eye (opposed to micrography).", "S": [], "A": []}

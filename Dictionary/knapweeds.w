@@ -1,0 +1,1 @@
+{"index": 165450, "D": "any composite plant of the genus Centaurea, especially the weedy C. nigra, having rose-purple flowers set on a dark-colored, knoblike bract.", "S": [], "A": []}

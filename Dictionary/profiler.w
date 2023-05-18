@@ -1,0 +1,1 @@
+{"index": 251756, "D": "any of several types of machine tools for reproducing shapes in metal or other materials from a master form.", "S": [], "A": []}

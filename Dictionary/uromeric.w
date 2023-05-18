@@ -1,0 +1,1 @@
+{"index": 355796, "D": "any segment of the abdomen of an arthropod.", "S": [], "A": []}

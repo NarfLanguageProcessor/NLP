@@ -1,0 +1,1 @@
+{"index": 111936, "D": "a man engaged to be married.", "S": ["affianced ", "affianced person ", "betrothed ", "engaged person ", "future mate ", "groom-to-be ", "husband-to-be ", "intended ", "prospective spouse "], "A": []}

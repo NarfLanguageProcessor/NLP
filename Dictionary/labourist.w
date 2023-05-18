@@ -1,0 +1,1 @@
+{"index": 166779, "D": "a person who supports workers' rights", "S": [], "A": []}

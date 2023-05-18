@@ -1,0 +1,1 @@
+{"index": 258042, "D": "divided into quarters.", "S": ["arranged ", "fixed ", "implanted ", "located ", "planted ", "settled ", "situated "], "A": []}

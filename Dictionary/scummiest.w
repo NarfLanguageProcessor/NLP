@@ -1,0 +1,1 @@
+{"index": 282233, "D": "consisting of or having scum. ", "S": ["abhorrent ", "abominable ", "disgusting ", "hateful ", "odious ", "vile ", "worthless "], "A": ["delightful ", "kind ", "likeable ", "lovable ", "nice ", "pleasant ", "pleasing "]}

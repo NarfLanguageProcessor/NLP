@@ -1,0 +1,1 @@
+{"index": 291794, "D": "the quality or state of being left-handed.", "S": [], "A": []}

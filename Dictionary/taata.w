@@ -1,0 +1,1 @@
+{"index": 314738, "D": "East African a child's word for father", "S": [], "A": []}

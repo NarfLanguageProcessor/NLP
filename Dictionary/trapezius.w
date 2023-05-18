@@ -1,0 +1,1 @@
+{"index": 328457, "D": "a broad, flat muscle on each side of the upper and back part of the neck, shoulders, and back, the action of which raises, or rotates, or draws back the shoulders, and pulls the head backward or to one side.", "S": [], "A": []}

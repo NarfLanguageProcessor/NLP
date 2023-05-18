@@ -1,0 +1,1 @@
+{"index": 336864, "D": "not being a member of a church;  not attending any church. ", "S": ["anathematize ", "ban ", "curse ", "denounce ", "dismiss ", "eject ", "exclude ", "expel ", "oust ", "proscribe ", "remove ", "repudiate "], "A": ["accept ", "admit ", "allow ", "approve ", "hold ", "include ", "keep ", "permit ", "praise ", "take in ", "welcome "]}

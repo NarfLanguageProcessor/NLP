@@ -1,0 +1,1 @@
+{"index": 294593, "D": "to drop or fall heavily; collapse", "S": ["angled ", "arced ", "arched ", "bowed ", "contorted ", "crooked ", "drooping ", "hooked ", "humped ", "hunched ", "inclined ", "limp ", "looped ", "round ", "rounded ", "stooped ", "twined ", "twisted ", "warped ", "wilted "], "A": ["straight "]}

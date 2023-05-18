@@ -1,0 +1,1 @@
+{"index": 96435, "D": "a visor worn on the head or forehead to shield the eyes  from overhead light.", "S": [], "A": []}

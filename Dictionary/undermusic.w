@@ -1,0 +1,1 @@
+{"index": 339502, "D": "an art of sound in time that expresses ideas and emotions in significant forms through the elements of rhythm, melody, harmony, and color.", "S": [], "A": []}

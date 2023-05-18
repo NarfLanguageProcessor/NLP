@@ -1,0 +1,1 @@
+{"index": 87140, "D": "to disclaim knowledge of, connection with, or responsibility for; disown; repudiate", "S": ["contradict ", "disclaim ", "disown ", "forswear ", "impugn ", "repudiate "], "A": ["accept ", "acknowledge ", "admit ", "allow ", "approve ", "claim ", "agree ", "go along ", "grant ", "permit "]}

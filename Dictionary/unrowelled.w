@@ -1,0 +1,1 @@
+{"index": 350108, "D": "a small wheel with radiating points, forming the extremity of a spur.", "S": [], "A": []}

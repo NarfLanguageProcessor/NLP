@@ -1,0 +1,1 @@
+{"index": 40622, "D": [], "S": ["stable ", "strong ", "sturdy ", "substantial ", "tight "], "A": ["unstable ", "wobbly ", "flexible ", "immaterial ", "indefinite ", "intangible "]}

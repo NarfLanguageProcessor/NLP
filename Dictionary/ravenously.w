@@ -1,0 +1,1 @@
+{"index": 261271, "D": "extremely hungry; famished; voracious", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 233383, "D": "any of the class of thermosetting resins formed by the condensation of phenol,  or of a phenol  derivative, with an aldehyde, especially formaldehyde", "S": [], "A": []}

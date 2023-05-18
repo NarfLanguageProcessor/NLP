@@ -1,0 +1,1 @@
+{"index": 11653, "D": "a pair of spectacles for viewing an anaglyph. ", "S": [], "A": []}

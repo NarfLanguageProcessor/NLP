@@ -1,0 +1,1 @@
+{"index": 144934, "D": "lacking variety; boring; dull", "S": ["tedium "], "A": ["break ", "difference ", "dissimilarity ", "excitement ", "liveliness ", "stoppage ", "unlikeness "]}

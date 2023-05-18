@@ -1,0 +1,1 @@
+{"index": 354306, "D": "to hold back; restrain or check.", "S": [], "A": []}

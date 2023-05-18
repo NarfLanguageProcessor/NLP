@@ -1,0 +1,1 @@
+{"index": 42794, "D": "a stout North American plant, Melanthium virginicum, of the lily family, having grasslike leaves and an open cluster of small greenish flowers. ", "S": [], "A": []}

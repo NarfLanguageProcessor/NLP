@@ -1,0 +1,1 @@
+{"index": 349026, "D": "full of or showing rancor. ", "S": [], "A": []}

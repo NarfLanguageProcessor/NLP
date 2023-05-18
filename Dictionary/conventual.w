@@ -1,0 +1,1 @@
+{"index": 67995, "D": "of, belonging to, or characteristic of a convent. ", "S": [], "A": []}

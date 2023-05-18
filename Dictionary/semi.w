@@ -1,0 +1,1 @@
+{"index": 283696, "D": "semitrailer (def. 1). ", "S": ["18-wheeler ", "big rig ", "rig ", "semitrailer ", "trailer truck ", "truck trailer "], "A": []}

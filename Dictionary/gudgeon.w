@@ -1,0 +1,1 @@
+{"index": 130886, "D": "a small, European, freshwater fish, Gobio gobio, of the minnow family, having a threadlike barbel at each corner of the mouth, used as bait.", "S": ["butt ", "chump ", "fish ", "fool ", "gull ", "lamb ", "mark ", "patsy ", "pigeon ", "pushover ", "sap ", "sucker ", "victim "], "A": []}

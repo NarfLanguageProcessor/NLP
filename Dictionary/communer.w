@@ -1,0 +1,1 @@
+{"index": 64234, "D": "to converse or talk together, usually with profound intensity, intimacy, etc.; interchange thoughts or feelings.", "S": [], "A": []}

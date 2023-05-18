@@ -1,0 +1,1 @@
+{"index": 294080, "D": "in a deceitful manner;cunningly", "S": ["shrewdly "], "A": []}

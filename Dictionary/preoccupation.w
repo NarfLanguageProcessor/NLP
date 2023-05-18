@@ -1,0 +1,1 @@
+{"index": 248626, "D": "the state of being preoccupied. ", "S": ["amusement ", "captivation ", "daydreaming ", "distraction ", "engrossment ", "preoccupancy "], "A": []}

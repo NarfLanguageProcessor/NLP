@@ -1,0 +1,1 @@
+{"index": 139278, "D": "in or to a high degree; extremely", "S": ["decidedly ", "deeply ", "eminently ", "exceedingly ", "exceptionally ", "extraordinarily ", "extremely ", "greatly ", "hugely ", "immensely ", "profoundly ", "really ", "remarkably ", "so ", "strikingly ", "supremely ", "terribly ", "tremendously ", "vastly ", "very much "], "A": ["little "]}

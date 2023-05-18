@@ -1,0 +1,1 @@
+{"index": 197992, "D": "a silver or gold table furnishing in the form of a ship, either for holding various utensils or for ornament.", "S": [], "A": []}

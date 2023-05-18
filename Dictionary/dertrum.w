@@ -1,0 +1,1 @@
+{"index": 82338, "D": "the extremity of the maxilla of a bird's bill, especially when hooked or differentiated from the rest of the bill, as in pigeons and plovers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 49521, "D": "a person under instruction in the rudiments of Christianity, as in the early church; a neophyte.", "S": [], "A": []}

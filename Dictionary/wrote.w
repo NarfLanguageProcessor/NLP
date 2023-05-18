@@ -1,0 +1,1 @@
+{"index": 368123, "D": "a simple past tense of write. ", "S": ["address ", "compose ", "create ", "draft ", "note ", "pen ", "print ", "record ", "rewrite ", "scrawl ", "scribble ", "sign ", "tell "], "A": ["destroy ", "ignore ", "ruin ", "keep ", "stop "]}

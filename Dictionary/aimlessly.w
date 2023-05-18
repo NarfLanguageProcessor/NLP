@@ -1,0 +1,1 @@
+{"index": 6813, "D": "without purpose or intent", "S": ["frantically ", "indiscriminately ", "instinctively ", "madly ", "wildly "], "A": ["carefully ", "cautiously ", "considerately ", "purposely ", "reasonably ", "sensibly "]}

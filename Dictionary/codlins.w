@@ -1,0 +1,1 @@
+{"index": 61791, "D": "any of several varieties of elongated apples, used for cooking purposes.", "S": [], "A": []}

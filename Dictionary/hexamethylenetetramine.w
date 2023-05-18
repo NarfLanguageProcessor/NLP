@@ -1,0 +1,1 @@
+{"index": 137979, "D": "a white, crystalline, water-soluble powder, C6H12N4, used as a vulcanization accelerator, an absorbent in gas masks, in the manufacture of the explosive RDX and synthetic resins, and in medicine as a diuretic and urinary antiseptic.", "S": [], "A": []}

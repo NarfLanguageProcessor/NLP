@@ -1,0 +1,1 @@
+{"index": 249508, "D": "the condition of being enslaved, held, or owned as human chattel or property; bondage.", "S": [], "A": []}

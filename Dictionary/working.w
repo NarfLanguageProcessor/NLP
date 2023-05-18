@@ -1,0 +1,1 @@
+{"index": 367507, "D": "the act of a person or thing that works. ", "S": ["alive ", "busy ", "employed ", "engaged ", "functioning ", "running "], "A": ["idle ", "inactive ", "unemployed ", "unengaged "]}

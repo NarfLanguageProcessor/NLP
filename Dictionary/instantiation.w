@@ -1,0 +1,1 @@
+{"index": 153859, "D": "the act or an instance of instantiating", "S": [], "A": []}

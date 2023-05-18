@@ -1,0 +1,1 @@
+{"index": 56047, "D": "bearing golden-yellow fruit.", "S": [], "A": []}

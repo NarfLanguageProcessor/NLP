@@ -1,0 +1,1 @@
+{"index": 112247, "D": "a request by a decedent that the heir or legatee to the estate convey a specified part of the estate to another person, or permit another person to enjoy such a part.", "S": [], "A": []}

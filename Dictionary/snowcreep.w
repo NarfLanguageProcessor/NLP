@@ -1,0 +1,1 @@
+{"index": 295802, "D": "a continuous, slow, downhill movement of snow cover,  of particular concern where an avalanche  is possible or likely.", "S": [], "A": []}

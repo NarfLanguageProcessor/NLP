@@ -1,0 +1,1 @@
+{"index": 229056, "D": "a person or thing that emits or utters a peeping  sound.", "S": ["depression ", "downheartedness ", "dumps ", "eyes ", "heaviness of heart ", "low spirits ", "lowness ", "melancholy ", "postpartum depression "], "A": []}

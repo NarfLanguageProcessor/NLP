@@ -1,0 +1,1 @@
+{"index": 82919, "D": "to remove stain  (from a specimen) to enhance visibility and contrast of parts.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349740, "D": "full of, characterized by, or showing politeness or deference", "S": [], "A": []}

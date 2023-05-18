@@ -1,0 +1,1 @@
+{"index": 29541, "D": "a person or thing that carries, upholds, or brings", "S": ["agent ", "carrier ", "conveyor ", "courier ", "emissary ", "envoy ", "internuncio ", "messenger ", "porter ", "runner ", "servant ", "shipper ", "transporter "], "A": ["receiver "]}

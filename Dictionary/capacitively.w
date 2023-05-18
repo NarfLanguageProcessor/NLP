@@ -1,0 +1,1 @@
+{"index": 46776, "D": "pertaining to electrical capacitance, or the property of being able to collect and hold a charge of electricity.", "S": [], "A": []}

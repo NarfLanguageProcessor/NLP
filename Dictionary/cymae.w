@@ -1,0 +1,1 @@
+{"index": 57444, "D": "Compare cyma recta, cyma reversa. ", "S": [], "A": []}

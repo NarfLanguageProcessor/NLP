@@ -1,0 +1,1 @@
+{"index": 197913, "D": "a requirement, necessary duty, or obligation", "S": [], "A": []}

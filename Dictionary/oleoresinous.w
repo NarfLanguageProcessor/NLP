@@ -1,0 +1,1 @@
+{"index": 212099, "D": "pertaining to, characteristic of, or containing oleoresin. ", "S": [], "A": []}

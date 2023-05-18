@@ -1,0 +1,1 @@
+{"index": 332903, "D": "British short for turpentine (def. 3)", "S": [], "A": []}

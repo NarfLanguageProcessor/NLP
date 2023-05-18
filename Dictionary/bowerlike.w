@@ -1,0 +1,1 @@
+{"index": 39170, "D": "a leafy shelter or recess; arbor.", "S": [], "A": []}

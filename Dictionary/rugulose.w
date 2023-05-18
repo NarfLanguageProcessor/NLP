@@ -1,0 +1,1 @@
+{"index": 275432, "D": "finely rugose; having many small wrinkles.", "S": [], "A": []}

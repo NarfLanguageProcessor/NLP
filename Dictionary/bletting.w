@@ -1,0 +1,1 @@
+{"index": 36172, "D": "the ripening of fruit, especially of fruit stored until the desired degree of softness is attained.", "S": [], "A": []}

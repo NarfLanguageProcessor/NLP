@@ -1,0 +1,1 @@
+{"index": 128621, "D": "a man whose beard is gray; old man; sage.", "S": ["elder ", "founder ", "grandfather ", "ruler "], "A": ["servant "]}

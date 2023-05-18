@@ -1,0 +1,1 @@
+{"index": 109619, "D": "the subordination of the personal interests and prerogatives of an individual to the values and demands of the family", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 137229, "D": "Compare heroine (def. 1). ", "S": ["champion ", "conquering hero ", "conqueror ", "knight ", "paladin ", "person of the hour ", "protector ", "savior ", "victor ", "warrior ", "white knight ", "winner "], "A": ["coward ", "cur ", "loser "]}

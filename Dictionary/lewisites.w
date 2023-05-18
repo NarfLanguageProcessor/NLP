@@ -1,0 +1,1 @@
+{"index": 171319, "D": "a pale yellow, odorless compound, C2H2AsCl3, used as a blister gas in World War I.", "S": [], "A": []}

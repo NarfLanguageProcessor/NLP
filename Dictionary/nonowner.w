@@ -1,0 +1,1 @@
+{"index": 205688, "D": "a person who owns;  possessor; proprietor.", "S": [], "A": []}

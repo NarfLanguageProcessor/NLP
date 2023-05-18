@@ -1,0 +1,1 @@
+{"index": 249773, "D": "the act or function of supervising;  superintendence.", "S": [], "A": []}

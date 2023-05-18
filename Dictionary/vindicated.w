@@ -1,0 +1,1 @@
+{"index": 359850, "D": "to clear, as from an accusation, imputation, suspicion, or the like", "S": ["discharged ", "exculpated ", "free ", "pardoned "], "A": []}

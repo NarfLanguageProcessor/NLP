@@ -1,0 +1,1 @@
+{"index": 368374, "D": "pollination of the stigma of a flower by pollen from a flower on another plant.", "S": [], "A": []}

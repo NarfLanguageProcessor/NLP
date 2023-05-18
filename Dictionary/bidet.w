@@ -1,0 +1,1 @@
+{"index": 33534, "D": "a low, basinlike bathroom fixture that provides a water stream for bathing the genital and anal areas, or a device attached to a standard toilet that performs the same function.", "S": [], "A": []}

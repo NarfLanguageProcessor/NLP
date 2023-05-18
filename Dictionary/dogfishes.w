@@ -1,0 +1,1 @@
+{"index": 90883, "D": "any of several small sharks, especially of the genera Mustelus and Squalus, that are destructive to food fishes.", "S": [], "A": []}

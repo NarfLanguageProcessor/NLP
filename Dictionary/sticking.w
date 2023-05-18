@@ -1,0 +1,1 @@
+{"index": 304306, "D": "a branch or shoot of a tree or shrub that has been cut or broken off.", "S": ["balking ", "hesitating ", "indisposed ", "objecting ", "opposed ", "protesting ", "shy ", "shying ", "slow "], "A": ["bent ", "desirous ", "disposed ", "enthusiastic ", "inclined ", "leaning ", "willing "]}

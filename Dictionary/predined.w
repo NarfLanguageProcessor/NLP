@@ -1,0 +1,1 @@
+{"index": 246973, "D": "to eat the principal meal of the day; have dinner. ", "S": [], "A": []}

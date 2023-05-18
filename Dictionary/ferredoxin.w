@@ -1,0 +1,1 @@
+{"index": 111461, "D": "any of a group of red-brown proteins containing iron and sulfur and acting as an electron carrier during photosynthesis, nitrogen fixation, or oxidation-reduction reactions.", "S": [], "A": []}

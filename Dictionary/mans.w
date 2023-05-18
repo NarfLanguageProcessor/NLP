@@ -1,0 +1,1 @@
+{"index": 179498, "D": "Compare woman (def. 1), boy (def. 1). ", "S": ["adorn ", "arm ", "deck out ", "decorate ", "dress ", "endow ", "furnish ", "gear ", "prepare ", "provide ", "qualify ", "rig ", "set up ", "supply "], "A": ["take ", "disrobe ", "unclothe "]}

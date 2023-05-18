@@ -1,0 +1,1 @@
+{"index": 362907, "D": "the state or quality of being washy. ", "S": ["blandness ", "flatness ", "flavorlessness ", "innocuousness ", "insipidness ", "jejuneness ", "staleness ", "vapidity ", "vapidness ", "wateriness "], "A": []}

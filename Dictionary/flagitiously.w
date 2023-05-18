@@ -1,0 +1,1 @@
+{"index": 113762, "D": "shamefully wicked, as persons, actions, or times.", "S": [], "A": []}

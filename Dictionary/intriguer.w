@@ -1,0 +1,1 @@
+{"index": 156732, "D": "to arouse the curiosity or interest of by unusual, new, or otherwise fascinating or compelling qualities; appeal strongly to; captivate", "S": ["conspirator ", "deserter ", "hypocrite ", "impostor ", "informer ", "renegade ", "spy ", "turncoat "], "A": ["loyalist "]}

@@ -1,0 +1,1 @@
+{"index": 261104, "D": "any of the small ropes or lines that traverse the shrouds horizontally and serve as steps for going aloft.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 186485, "D": "a unit of time equal to one millionth of a second. Symbol", "S": ["blink of an eye ", "millisecond ", "nanosecond "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 264693, "D": "the act of enacting. ", "S": ["breeding ", "copy ", "facsimile ", "imitation ", "photocopy ", "photograph ", "picture ", "print ", "propagation ", "recreation ", "replica ", "replication "], "A": ["original ", "decrease ", "destruction ", "subtraction "]}

@@ -1,0 +1,1 @@
+{"index": 94958, "D": "grazing rights", "S": [], "A": []}

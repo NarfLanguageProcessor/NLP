@@ -1,0 +1,1 @@
+{"index": 364986, "D": "something that whirls or revolves.", "S": ["gyroscope "], "A": []}

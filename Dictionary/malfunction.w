@@ -1,0 +1,1 @@
+{"index": 178431, "D": "failure to function  properly", "S": ["bug ", "defect ", "fault ", "flaw ", "glitch ", "impairment "], "A": ["advantage ", "perfection ", "strength "]}

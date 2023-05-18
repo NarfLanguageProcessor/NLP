@@ -1,0 +1,1 @@
+{"index": 110743, "D": "the second month of the year, ordinarily containing 28 days, but containing 29 days in leap years. Abbreviation", "S": [], "A": []}

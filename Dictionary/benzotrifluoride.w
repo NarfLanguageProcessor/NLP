@@ -1,0 +1,1 @@
+{"index": 31866, "D": "a colorless, flammable liquid, C7H5F3, used chiefly as an intermediate in the manufacture of dyes and pharmaceuticals, and as a solvent.", "S": [], "A": []}

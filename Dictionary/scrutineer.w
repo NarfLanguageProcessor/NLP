@@ -1,0 +1,1 @@
+{"index": 282102, "D": "an official examiner, especially of votes in an election.", "S": [], "A": []}

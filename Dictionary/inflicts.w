@@ -1,0 +1,1 @@
+{"index": 152151, "D": "to impose as something that must be borne or suffered", "S": ["exact ", "expose ", "levy ", "wreak "], "A": ["hold ", "keep ", "take ", "withhold "]}

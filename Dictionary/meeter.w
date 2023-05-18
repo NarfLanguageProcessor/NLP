@@ -1,0 +1,1 @@
+{"index": 182303, "D": "to come upon; come into the presence of; encounter", "S": ["accommodated ", "appropriate ", "conformed ", "expedient ", "fair ", "fit ", "good ", "reconciled ", "right "], "A": ["inadequate ", "inappropriate ", "unfair ", "unfit ", "unfitting ", "unjust ", "unsuitable ", "unsuited "]}

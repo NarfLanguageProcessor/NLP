@@ -1,0 +1,1 @@
+{"index": 260702, "D": "of, relating to, or characteristic of the style of the painter Raphael.", "S": [], "A": []}

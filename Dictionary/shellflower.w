@@ -1,0 +1,1 @@
+{"index": 287969, "D": "an eastern Asian plant, Alpinia zerumbet, of the ginger family, having pendulous clusters of fragrant white flowers  with variegated markings.", "S": [], "A": []}

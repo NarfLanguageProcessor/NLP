@@ -1,0 +1,1 @@
+{"index": 130322, "D": "a plant or animal that lives on or close to the ground. ", "S": [], "A": []}

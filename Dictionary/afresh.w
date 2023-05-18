@@ -1,0 +1,1 @@
+{"index": 5580, "D": "anew; once more; again", "S": ["anew ", "once more "], "A": []}

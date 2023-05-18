@@ -1,0 +1,1 @@
+{"index": 63279, "D": "a serf in the latter period of the Roman Empire or in the early feudal period.", "S": [], "A": []}

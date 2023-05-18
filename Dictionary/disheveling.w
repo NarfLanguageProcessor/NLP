@@ -1,0 +1,1 @@
+{"index": 88273, "D": "to let down, as hair, or wear or let hang in loose disorder, as clothing.", "S": ["muss ", "tousle "], "A": []}

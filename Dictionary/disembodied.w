@@ -1,0 +1,1 @@
+{"index": 87876, "D": "lacking a body or freed from the body; incorporeal", "S": ["ghostly "], "A": []}

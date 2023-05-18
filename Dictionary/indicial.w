@@ -1,0 +1,1 @@
+{"index": 150924, "D": "of, relating to, or resembling an indication; indicative", "S": ["emblematic ", "ominous ", "suggestive ", "symbolic ", "symptomatic "], "A": []}

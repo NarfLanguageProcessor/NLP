@@ -1,0 +1,1 @@
+{"index": 211014, "D": "occurring every eight years.", "S": ["octadic ", "octagonal "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 147425, "D": "having bad or poor manners; impolite; discourteous; rude.", "S": [], "A": []}

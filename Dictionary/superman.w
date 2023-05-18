@@ -1,0 +1,1 @@
+{"index": 312212, "D": "a person of extraordinary or superhuman powers.", "S": [], "A": []}

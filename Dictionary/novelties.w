@@ -1,0 +1,1 @@
+{"index": 209147, "D": "state or quality of being novel,  new, or unique; newness", "S": ["odds and ends "], "A": ["base ", "cleanliness ", "core ", "possessions ", "property ", "singularity "]}

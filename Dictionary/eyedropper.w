@@ -1,0 +1,1 @@
+{"index": 96379, "D": " a dropper,  often one used to dispense medicine such as eye drops  or ear drops", "S": [], "A": []}

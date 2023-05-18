@@ -1,0 +1,1 @@
+{"index": 303958, "D": "stereoscopic photography.", "S": ["VCRs ", "camcorders ", "computers ", "radios ", "televisions ", "transistors "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 229410, "D": "having the stalk or support attached to the lower surface at a distance from the margin, as a leaf; shield-shaped.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 11970, "D": "syndicalism. ", "S": [], "A": []}

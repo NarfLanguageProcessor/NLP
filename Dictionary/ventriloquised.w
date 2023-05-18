@@ -1,0 +1,1 @@
+{"index": 358224, "D": "to speak or sound in the manner of a ventriloquist.", "S": [], "A": []}

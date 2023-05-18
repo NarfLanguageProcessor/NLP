@@ -1,0 +1,1 @@
+{"index": 270729, "D": [], "S": ["vindicate "], "A": ["cheer ", "comfort ", "encourage ", "forgive "]}

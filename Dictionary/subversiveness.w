@@ -1,0 +1,1 @@
+{"index": 309729, "D": "tending or intending to subvert  or overthrow, destroy, or undermine an established or existing system, especially a legally constituted government or a set of beliefs.", "S": ["destruction ", "disruption ", "subversion ", "treachery ", "treason ", "vandalism "], "A": ["devotion ", "faithfulness ", "fidelity ", "loyalty "]}

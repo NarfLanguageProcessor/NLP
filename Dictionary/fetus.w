@@ -1,0 +1,1 @@
+{"index": 111816, "D": "(used chiefly of viviparous mammals) the young of an animal in the womb or egg, especially in the later stages of development when the body structures are in the recognizable form of its kind, in humans after the end of the second month of gestation.", "S": ["blastosphere ", "blastula ", "embryo "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 277355, "D": "a building or plant where salt is made.", "S": [], "A": []}

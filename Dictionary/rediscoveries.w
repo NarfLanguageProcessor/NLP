@@ -1,0 +1,1 @@
+{"index": 264237, "D": "the act or process of seeing, finding, or gaining knowledge of something previously unknown, or an instance of this", "S": [], "A": []}

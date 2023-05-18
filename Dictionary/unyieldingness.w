@@ -1,0 +1,1 @@
+{"index": 344181, "D": "unable to bend or be penetrated under pressure; hard", "S": [], "A": []}

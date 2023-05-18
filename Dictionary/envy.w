@@ -1,0 +1,1 @@
+{"index": 101808, "D": "a feeling of discontent or covetousness with regard to another's advantages, success, possessions, etc.", "S": ["begrudging ", "bitterness ", "hatred ", "ill will ", "jealousy ", "malice ", "prejudice ", "resentment ", "rivalry "], "A": ["friendliness ", "liking ", "love ", "loving "]}

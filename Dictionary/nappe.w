@@ -1,0 +1,1 @@
+{"index": 196896, "D": "a large mass of rock thrust a considerable distance along a nearly horizontal fault plane or in an overturned anticlinal fold.", "S": [], "A": []}

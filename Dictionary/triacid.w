@@ -1,0 +1,1 @@
+{"index": 329071, "D": "capable of combining with three molecules of a monobasic acid", "S": [], "A": []}

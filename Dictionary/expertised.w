@@ -1,0 +1,1 @@
+{"index": 107750, "D": "expert  skill or knowledge; expertness; know-how", "S": [], "A": []}

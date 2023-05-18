@@ -1,0 +1,1 @@
+{"index": 139055, "D": "a hydrous zinc carbonate, Zn5(CO3)2(OH)6, an important ore of zinc in some localities.", "S": [], "A": []}

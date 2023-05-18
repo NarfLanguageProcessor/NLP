@@ -1,0 +1,1 @@
+{"index": 85456, "D": "having digits  or digitlike processes.", "S": [], "A": []}

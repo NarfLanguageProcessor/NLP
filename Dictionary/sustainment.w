@@ -1,0 +1,1 @@
+{"index": 313796, "D": "to support, hold, or bear up from below; bear the weight of, as a structure.", "S": ["existence ", "income ", "job ", "livelihood "], "A": ["fun ", "entertainment ", "pastime "]}

@@ -1,0 +1,1 @@
+{"index": 60628, "D": "characteristic of a club", "S": [], "A": []}

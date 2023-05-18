@@ -1,0 +1,1 @@
+{"index": 163494, "D": "small pieces of meat or seafood seasoned or marinated and broiled, often with tomatoes, green peppers, onions, or other vegetables, usually on a skewer.", "S": [], "A": []}

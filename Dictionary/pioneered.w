@@ -1,0 +1,1 @@
+{"index": 237328, "D": "a person who is among those who first enter or settle a region, thus opening it for occupation and development by others.", "S": ["developed ", "owned ", "populated ", "populous ", "settled "], "A": []}

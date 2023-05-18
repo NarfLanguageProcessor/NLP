@@ -1,0 +1,1 @@
+{"index": 94770, "D": "serious and zealous in intention, purpose, or effort", "S": ["ardent ", "diligent ", "fervent ", "heartfelt ", "impassioned ", "passionate ", "purposeful ", "sincere ", "urgent "], "A": ["apathetic ", "cold ", "cool ", "dispassionate ", "frigid ", "indifferent ", "insincere ", "unenthusiastic ", "unexcited "]}

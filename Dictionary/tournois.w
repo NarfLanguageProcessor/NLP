@@ -1,0 +1,1 @@
+{"index": 326681, "D": "(of coins) minted in Tours, France", "S": [], "A": []}

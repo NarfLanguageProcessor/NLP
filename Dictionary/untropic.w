@@ -1,0 +1,1 @@
+{"index": 353383, "D": "the regions lying between and near these parallels of latitude; the Torrid Zone and neighboring regions.", "S": [], "A": []}

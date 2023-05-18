@@ -1,0 +1,1 @@
+{"index": 354300, "D": "to draw back, away, or aside; take back; remove", "S": [], "A": []}

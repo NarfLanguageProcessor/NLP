@@ -1,0 +1,1 @@
+{"index": 58088, "D": "a circle  circumscribed about a figure.", "S": [], "A": []}

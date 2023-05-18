@@ -1,0 +1,1 @@
+{"index": 281673, "D": "a person or thing that screams.", "S": ["streamer "], "A": []}

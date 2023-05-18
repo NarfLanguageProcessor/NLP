@@ -1,0 +1,1 @@
+{"index": 60144, "D": "to cut, or cut off or out, as with shears", "S": ["mow ", "prune ", "shave ", "shear ", "snip ", "trim "], "A": ["elongate ", "enlarge ", "expand ", "extend ", "grow ", "increase ", "lengthen ", "raise "]}

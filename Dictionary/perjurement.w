@@ -1,0 +1,1 @@
+{"index": 231514, "D": "to render (oneself) guilty of swearing falsely or of willfully making a false statement under oath or solemn affirmation", "S": [], "A": []}

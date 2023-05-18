@@ -1,0 +1,1 @@
+{"index": 74262, "D": "an early Portuguese coin of gold or silver, bearing the figure of a cross.", "S": [], "A": []}

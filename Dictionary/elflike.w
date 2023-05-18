@@ -1,0 +1,1 @@
+{"index": 97527, "D": "(in folklore) one of a class of preternatural beings, especially from mountainous regions, with magical powers, given to capricious and often mischievous interference in human affairs, and usually imagined to be a diminutive being in human form; sprite; fairy.", "S": [], "A": []}

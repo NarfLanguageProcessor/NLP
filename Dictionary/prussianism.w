@@ -1,0 +1,1 @@
+{"index": 254287, "D": "the militaristic spirit, system, policy, or methods historically associated with the Prussians. ", "S": [], "A": []}

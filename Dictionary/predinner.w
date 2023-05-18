@@ -1,0 +1,1 @@
+{"index": 246975, "D": "the main meal of the day, eaten in the evening or at midday.", "S": [], "A": []}

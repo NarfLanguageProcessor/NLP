@@ -1,0 +1,1 @@
+{"index": 294160, "D": "a covered passage, especially one from the transept of a cathedral to the chapter house.", "S": [], "A": []}

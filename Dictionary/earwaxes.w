@@ -1,0 +1,1 @@
+{"index": 94876, "D": "a yellowish, waxlike secretion from certain glands in the external auditory canal; cerumen.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 167317, "D": "the act of falling or staying behind.", "S": ["underdeveloped "], "A": ["intelligent ", "smart "]}

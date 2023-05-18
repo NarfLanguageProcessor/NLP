@@ -1,0 +1,1 @@
+{"index": 158994, "D": "a line representing equality with respect to a given variable, used to relate points on maps, charts, etc.", "S": [], "A": []}

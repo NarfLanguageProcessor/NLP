@@ -1,0 +1,1 @@
+{"index": 235093, "D": "an electron  emitted from a system by the photoelectric effect.", "S": [], "A": []}

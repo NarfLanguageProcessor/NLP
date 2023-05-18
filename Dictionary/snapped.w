@@ -1,0 +1,1 @@
+{"index": 295301, "D": "broken suddenly and with a sharp cracking sound", "S": ["airtight ", "fast ", "short ", "uncomfortable "], "A": ["loose "]}

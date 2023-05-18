@@ -1,0 +1,1 @@
+{"index": 197502, "D": "the whole body of warships and auxiliaries belonging to a country or ruler.", "S": ["argosy ", "armada ", "flotilla ", "vessels ", "warships "], "A": []}

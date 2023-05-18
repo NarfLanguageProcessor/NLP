@@ -1,0 +1,1 @@
+{"index": 334654, "D": "excessive devotion to someone; servile flattery.", "S": [], "A": []}

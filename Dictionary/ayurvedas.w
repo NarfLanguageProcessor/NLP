@@ -1,0 +1,1 @@
+{"index": 7071, "D": "the ancient Hindu art of medicine and of prolonging life.", "S": [], "A": []}

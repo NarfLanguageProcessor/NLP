@@ -1,0 +1,1 @@
+{"index": 180148, "D": "a reduction in price, usually to encourage buying.", "S": ["accounting allowance ", "deflation ", "devaluation ", "fall ", "loss of value ", "reduction ", "slump ", "write-down "], "A": ["markup "]}

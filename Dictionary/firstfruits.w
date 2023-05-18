@@ -1,0 +1,1 @@
+{"index": 113290, "D": [], "S": ["bang for the buck ", "crop ", "fruits ", "harvest ", "output ", "payoff ", "produce ", "yield "], "A": []}

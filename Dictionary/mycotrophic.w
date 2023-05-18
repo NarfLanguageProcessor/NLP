@@ -1,0 +1,1 @@
+{"index": 185860, "D": "(of a plant) symbiotic with a fungus, esp a mycorrhizal fungus", "S": [], "A": []}

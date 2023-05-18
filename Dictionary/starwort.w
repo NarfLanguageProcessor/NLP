@@ -1,0 +1,1 @@
+{"index": 303000, "D": "any of several chickweeds of the genus Stellaria.", "S": [], "A": []}

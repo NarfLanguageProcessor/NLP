@@ -1,0 +1,1 @@
+{"index": 177977, "D": "a tall pole, decorated with flowers and ribbons, around which people dance or engage in sports during May Day  celebrations.", "S": [], "A": []}

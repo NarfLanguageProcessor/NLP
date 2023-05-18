@@ -1,0 +1,1 @@
+{"index": 321713, "D": [], "S": ["apathy ", "armor ", "callousness ", "elephant skin ", "formidable defenses ", "hard shell ", "imperviousness ", "numbness ", "rhinoceros hide ", "thick hide ", "thick shell ", "unfeelingness "], "A": []}

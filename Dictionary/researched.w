@@ -1,0 +1,1 @@
+{"index": 269102, "D": "diligent and systematic inquiry or investigation into a subject in order to discover or revise facts, theories, applications, etc.", "S": ["checked ", "considered ", "explored ", "inspected ", "measured ", "questioned ", "reviewed ", "scrutinized ", "searched ", "studied ", "tested ", "tried "], "A": ["unplanned "]}

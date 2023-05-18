@@ -1,0 +1,1 @@
+{"index": 109864, "D": "the standard unit of capacitance in the International System of Units (SI), formally defined to be the capacitance of a capacitor between the plates of which there appears a potential difference of one volt when it is charged by a quantity of electricity equal to one coulomb. Symbol", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 123236, "D": "any of numerous small moths of the family Gelechiidae, including many crop pests, as the Angoumois grain moth and potato tuberworm.", "S": [], "A": []}

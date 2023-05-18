@@ -1,0 +1,1 @@
+{"index": 311161, "D": "abounding in sunshine", "S": ["brilliant ", "luminous ", "pleasant ", "radiant ", "sunlit "], "A": ["dark ", "dim ", "dull "]}

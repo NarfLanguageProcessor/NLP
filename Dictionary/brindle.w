@@ -1,0 +1,1 @@
+{"index": 40839, "D": "a brindled  coloring.", "S": ["checkered ", "discolored ", "flecked ", "motley ", "parti-colored ", "speckled ", "spotted ", "stippled ", "variegated "], "A": ["uncolored ", "unspotted "]}

@@ -1,0 +1,1 @@
+{"index": 223545, "D": "pronounced with secondary palatal  articulation.", "S": [], "A": []}

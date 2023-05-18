@@ -1,0 +1,1 @@
+{"index": 17753, "D": "a small portion of a food or drink served before or at the beginning of a meal to stimulate the desire to eat.", "S": ["antipasto ", "dip ", "hors d'oeuvre ", "spread ", "taste ", "tidbit "], "A": ["meal "]}

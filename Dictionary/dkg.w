@@ -1,0 +1,1 @@
+{"index": 90516, "D": "dekagram; dekagrams.", "S": [], "A": []}

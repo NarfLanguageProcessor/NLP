@@ -1,0 +1,1 @@
+{"index": 16316, "D": "a person versed in theology, especially Christian theology; divine.", "S": [], "A": []}

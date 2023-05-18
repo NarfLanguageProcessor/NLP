@@ -1,0 +1,1 @@
+{"index": 217523, "D": "to unyoke or unhitch, as oxen from a wagon.", "S": [], "A": []}

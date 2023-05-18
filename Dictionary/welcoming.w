@@ -1,0 +1,1 @@
+{"index": 363979, "D": "(a word of kindly greeting, as to one whose arrival gives pleasure)", "S": ["accessible "], "A": []}

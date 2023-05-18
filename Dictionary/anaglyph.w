@@ -1,0 +1,1 @@
+{"index": 11648, "D": "an ornament sculptured or embossed in low relief, as a cameo.", "S": [], "A": []}

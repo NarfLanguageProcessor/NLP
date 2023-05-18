@@ -1,0 +1,1 @@
+{"index": 51601, "D": "a technique of inlaying light-colored material, as bone, ivory, metal, or pale wood, in elaborate designs on a dark ground.", "S": [], "A": []}

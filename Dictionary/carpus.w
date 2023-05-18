@@ -1,0 +1,1 @@
+{"index": 48473, "D": "the part of the upper extremity between the hand and the forearm; wrist.", "S": [], "A": []}

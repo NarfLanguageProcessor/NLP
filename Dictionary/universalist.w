@@ -1,0 +1,1 @@
+{"index": 345119, "D": "a person characterized by universalism, as in knowledge, interests, or activities.", "S": [], "A": []}

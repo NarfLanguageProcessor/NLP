@@ -1,0 +1,1 @@
+{"index": 357162, "D": "a nocturnal, nesting lemur, Varecia variegata, native to Madagascar, having black and white fur and a mane", "S": [], "A": []}

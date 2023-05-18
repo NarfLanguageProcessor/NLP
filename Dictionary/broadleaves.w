@@ -1,0 +1,1 @@
+{"index": 41073, "D": "any of several cigar tobaccos having broad leaves.", "S": [], "A": []}

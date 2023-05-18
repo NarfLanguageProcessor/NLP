@@ -1,0 +1,1 @@
+{"index": 272889, "D": "a former silver coin of Denmark, equal to 16 skillings; rix-dollar. ", "S": [], "A": []}

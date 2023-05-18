@@ -1,0 +1,1 @@
+{"index": 140147, "D": "the practice among Hindu women of marrying into a caste at least as high as their own.", "S": [], "A": []}

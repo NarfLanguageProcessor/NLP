@@ -1,0 +1,1 @@
+{"index": 315085, "D": "sticky to the touch; adhesive.", "S": [], "A": []}

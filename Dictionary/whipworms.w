@@ -1,0 +1,1 @@
+{"index": 364963, "D": "any of several parasitic nematodes of the genus Trichuris, having a long, slender, whiplike anterior end.", "S": [], "A": []}

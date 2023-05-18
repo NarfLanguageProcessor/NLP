@@ -1,0 +1,1 @@
+{"index": 237960, "D": "a person skilled in pyrotechnics,  especially in the manufacture or use of fireworks.", "S": [], "A": []}

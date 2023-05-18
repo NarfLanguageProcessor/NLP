@@ -1,0 +1,1 @@
+{"index": 34925, "D": "an act or instance of being born", "S": ["beginning ", "childbirth ", "creation ", "delivery "], "A": ["conclusion ", "death ", "end ", "ending ", "finish "]}

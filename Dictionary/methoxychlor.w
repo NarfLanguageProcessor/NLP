@@ -1,0 +1,1 @@
+{"index": 185310, "D": "a white, crystalline, water-insoluble solid, C16H15Cl3O2, used as an insecticide.", "S": [], "A": []}

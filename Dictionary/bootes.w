@@ -1,0 +1,1 @@
+{"index": 38232, "D": "the Herdsman, a northern constellation between Ursa Major and Serpens, containing the bright star Arcturus.", "S": [], "A": []}

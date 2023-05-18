@@ -1,0 +1,1 @@
+{"index": 364702, "D": "to worry or cause to worry", "S": [], "A": []}

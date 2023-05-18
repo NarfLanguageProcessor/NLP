@@ -1,0 +1,1 @@
+{"index": 230381, "D": "a person or thing that charges or pays a certain percentage, cooperates to a specified degree, etc. (used in combination)", "S": [], "A": []}

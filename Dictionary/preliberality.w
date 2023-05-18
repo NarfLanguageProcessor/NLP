@@ -1,0 +1,1 @@
+{"index": 248210, "D": "the quality or condition of being liberal  in giving; generosity; bounty.", "S": [], "A": []}

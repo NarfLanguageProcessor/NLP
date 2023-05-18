@@ -1,0 +1,1 @@
+{"index": 281724, "D": "a person who writes screenplays, especially as an occupation or profession.", "S": ["author ", "biographer ", "columnist ", "correspondent ", "critic ", "dramatist ", "editor ", "essayist ", "journalist ", "novelist ", "poet ", "reporter "], "A": ["reader "]}

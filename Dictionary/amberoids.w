@@ -1,0 +1,1 @@
+{"index": 9968, "D": "synthetic amber  made by compressing pieces of various resins at a high temperature.", "S": [], "A": []}

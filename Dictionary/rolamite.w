@@ -1,0 +1,1 @@
+{"index": 273932, "D": "a simple, almost frictionless mechanism consisting of a flexible metal band formed in an S-shaped loop around moving rollers", "S": [], "A": []}

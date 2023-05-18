@@ -1,0 +1,1 @@
+{"index": 275109, "D": "to look about or stare with great curiosity, as by craning the neck  or turning the head.", "S": ["drifting ", "gadabout ", "itinerant ", "journeying ", "peripatetic ", "roving ", "vagabond ", "vagrant ", "walking ", "wandering "], "A": ["settled "]}

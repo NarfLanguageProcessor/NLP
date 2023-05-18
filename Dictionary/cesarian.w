@@ -1,0 +1,1 @@
+{"index": 51685, "D": "an operation by which a fetus is taken from the uterus by cutting through the walls of the abdomen and uterus.", "S": [], "A": []}

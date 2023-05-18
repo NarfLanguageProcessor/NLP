@@ -1,0 +1,1 @@
+{"index": 145285, "D": "to cause bodily injury to; injure", "S": [], "A": []}

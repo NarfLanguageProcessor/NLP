@@ -1,0 +1,1 @@
+{"index": 297368, "D": "based on the truth; true.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 224179, "D": "a palpus.", "S": ["antenna ", "barbel ", "claw ", "finger ", "hand ", "tentacle ", "vibrissa ", "whisker "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 287678, "D": "one of the bundles in which cereal plants, as wheat, rye, etc., are bound after reaping.", "S": ["assemblage ", "assortment ", "band ", "batch ", "bevy ", "bundle ", "chunk ", "cluster ", "crew ", "crowd ", "flock ", "gang ", "group ", "lot ", "mess ", "mob ", "multitude ", "number ", "pack ", "pile ", "stack "], "A": ["individual ", "one "]}

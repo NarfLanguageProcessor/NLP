@@ -1,0 +1,1 @@
+{"index": 107156, "D": "a person or thing that exhibits", "S": ["counselor ", "mentor ", "model ", "pilot ", "teacher "], "A": ["follower "]}

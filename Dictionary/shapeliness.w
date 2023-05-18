@@ -1,0 +1,1 @@
+{"index": 287452, "D": "having a pleasing shape,  especially with reference to a woman's figure.", "S": ["allure ", "artistry ", "charm ", "delicacy ", "elegance ", "good looks ", "grace ", "refinement ", "style "], "A": ["crudeness ", "inelegance ", "roughness "]}

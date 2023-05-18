@@ -1,0 +1,1 @@
+{"index": 241606, "D": "a compound containing more than one amino group.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 110284, "D": "a unit of length equal to six feet (1.8 meters)", "S": ["clear ", "comprehendible ", "comprehensible ", "intelligible ", "logical "], "A": []}

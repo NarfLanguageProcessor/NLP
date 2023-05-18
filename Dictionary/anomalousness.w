@@ -1,0 +1,1 @@
+{"index": 13765, "D": "deviating from or inconsistent with the common order, form, or rule; irregular; abnormal", "S": [], "A": []}

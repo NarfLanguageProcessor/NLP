@@ -1,0 +1,1 @@
+{"index": 306614, "D": "the simple past tense and a past participle of strike. ", "S": ["battered "], "A": []}

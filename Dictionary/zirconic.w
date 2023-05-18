@@ -1,0 +1,1 @@
+{"index": 369535, "D": "a metallic element found combined in zircon,  baddeleyite, etc., resembling titanium chemically", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 95997, "D": "conveying or conducting away from an organ or part (opposed to afferent).", "S": [], "A": []}

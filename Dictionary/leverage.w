@@ -1,0 +1,1 @@
+{"index": 171213, "D": "the action of a lever,  a rigid bar that pivots about one point and that is used to move an object at a second point by a force applied at a third.", "S": ["advantage ", "bargaining chip ", "clout ", "weight "], "A": ["weakness "]}

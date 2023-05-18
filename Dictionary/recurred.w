@@ -1,0 +1,1 @@
+{"index": 263785, "D": "to occur again, as an event, experience, etc.", "S": [], "A": []}

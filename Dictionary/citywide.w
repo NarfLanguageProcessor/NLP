@@ -1,0 +1,1 @@
+{"index": 58672, "D": "occurring throughout a city;  including an entire city", "S": [], "A": []}

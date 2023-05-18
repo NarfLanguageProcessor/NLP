@@ -1,0 +1,1 @@
+{"index": 121075, "D": "a term used to refer to a girl or woman.", "S": ["girl ", "mother "], "A": ["male ", "man "]}

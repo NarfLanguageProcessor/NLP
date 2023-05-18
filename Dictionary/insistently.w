@@ -1,0 +1,1 @@
+{"index": 153661, "D": "earnest or emphatic in dwelling upon, maintaining, or demanding something; persistent; pertinacious.", "S": [], "A": []}

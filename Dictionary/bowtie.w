@@ -1,0 +1,1 @@
+{"index": 39261, "D": "a small necktie tied in a bow at the collar.", "S": [], "A": []}

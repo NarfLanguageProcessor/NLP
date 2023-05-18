@@ -1,0 +1,1 @@
+{"index": 262920, "D": "pertaining to or of the nature of recital. ", "S": [], "A": []}

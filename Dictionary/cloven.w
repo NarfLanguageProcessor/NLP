@@ -1,0 +1,1 @@
+{"index": 60579, "D": "a past participle of cleave2 ", "S": ["broken ", "cracked ", "crenelated ", "parted ", "perforated ", "pierced ", "rent ", "riven ", "ruptured ", "separated ", "sundered ", "torn "], "A": ["connected ", "fixed ", "whole "]}

@@ -1,0 +1,1 @@
+{"index": 312127, "D": "to oversee and direct (work, processes, etc.).", "S": ["administered ", "commanded ", "conducted ", "directed ", "driven ", "guided ", "led ", "mastered ", "overseen ", "piloted ", "subjugated ", "supervised "], "A": ["autonomous ", "capricious ", "free ", "unruly "]}

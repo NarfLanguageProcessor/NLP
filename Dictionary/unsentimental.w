@@ -1,0 +1,1 @@
+{"index": 350779, "D": "a frank and unsentimental account", "S": ["hardheaded ", "no-nonsense ", "plainspoken ", "pragmatic ", "realistic ", "sensible ", "sober "], "A": ["irrational ", "unrealistic ", "unreasonable "]}

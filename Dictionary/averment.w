@@ -1,0 +1,1 @@
+{"index": 24681, "D": "the act of averring. ", "S": ["affirmation ", "allegation ", "asseveration ", "avouchment ", "declaration ", "protestation ", "statement ", "verification "], "A": ["denial "]}

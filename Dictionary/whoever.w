@@ -1,0 +1,1 @@
+{"index": 365280, "D": "whatever person; anyone that", "S": ["someone "], "A": ["nobody ", "unknown "]}

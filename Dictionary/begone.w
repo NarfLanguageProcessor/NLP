@@ -1,0 +1,1 @@
+{"index": 30686, "D": "to go away; depart (usually used in the imperative).", "S": ["away ", "depart ", "hightail ", "leave ", "off ", "out ", "scat ", "scoot ", "scram ", "shoo ", "skiddoo ", "vamoose "], "A": []}

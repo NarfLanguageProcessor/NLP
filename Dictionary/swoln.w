@@ -1,0 +1,1 @@
+{"index": 314639, "D": "an archaic variant of swollen. ", "S": [], "A": []}

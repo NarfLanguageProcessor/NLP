@@ -1,0 +1,1 @@
+{"index": 282867, "D": "a part that is cut off or separated.", "S": ["separate "], "A": ["attach ", "collect ", "combine ", "connect ", "couple ", "gather ", "join ", "link ", "unite "]}

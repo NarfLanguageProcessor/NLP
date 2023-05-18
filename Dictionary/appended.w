@@ -1,0 +1,1 @@
+{"index": 17663, "D": "to add as a supplement, accessory, or appendix;  subjoin", "S": ["added ", "further ", "increased ", "new ", "other ", "supplementary "], "A": ["necessary "]}

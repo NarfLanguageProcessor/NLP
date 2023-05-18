@@ -1,0 +1,1 @@
+{"index": 313303, "D": "any of the 114 chapters of the Quran.", "S": [], "A": []}

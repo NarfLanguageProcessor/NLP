@@ -1,0 +1,1 @@
+{"index": 322220, "D": "belonging or pertaining to the insect order Thysanoptera, comprising the thrips.", "S": [], "A": []}

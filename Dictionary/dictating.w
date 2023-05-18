@@ -1,0 +1,1 @@
+{"index": 84955, "D": "to say or read (something) aloud for another person to transcribe or for a machine to record", "S": ["govern ", "guide ", "impose ", "lay down ", "prescribe "], "A": ["disallow ", "mismanage "]}

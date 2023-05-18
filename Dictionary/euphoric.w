@@ -1,0 +1,1 @@
+{"index": 105665, "D": "feeling or generating intense happiness, confidence, and a sense of well-being", "S": ["delightful ", "elated ", "happy ", "joyful ", "rapturous "], "A": ["dark ", "demonic ", "devilish ", "miserable ", "sorrowful ", "unhappy "]}

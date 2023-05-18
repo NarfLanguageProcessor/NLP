@@ -1,0 +1,1 @@
+{"index": 337193, "D": "happening at the same time.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 21143, "D": "the city was left in ashes", "S": ["charcoal ", "cinders ", "dust ", "embers ", "powder ", "slag ", "soot "], "A": []}

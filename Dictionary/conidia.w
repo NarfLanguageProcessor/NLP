@@ -1,0 +1,1 @@
+{"index": 66320, "D": "(in fungi) an asexual spore formed by abstriction at the top of a hyphal branch.", "S": [], "A": []}

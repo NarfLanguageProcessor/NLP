@@ -1,0 +1,1 @@
+{"index": 55959, "D": "food, especially hearty dishes or a meal.", "S": ["eats ", "grub ", "meal ", "mess ", "victuals "], "A": []}

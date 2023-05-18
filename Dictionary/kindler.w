@@ -1,0 +1,1 @@
+{"index": 164770, "D": "to start (a fire); cause (a flame, blaze, etc.) to begin burning.", "S": [], "A": []}

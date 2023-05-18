@@ -1,0 +1,1 @@
+{"index": 107031, "D": "the circumstances of a taxpayer, such as their age or number of dependents, that allow them to make certain deductions from taxable income.", "S": ["discharge ", "dispensation ", "exception ", "immunity ", "privilege "], "A": ["accountability ", "answerability ", "liability ", "responsibility "]}

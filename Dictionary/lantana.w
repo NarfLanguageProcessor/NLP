@@ -1,0 +1,1 @@
+{"index": 168211, "D": "any of numerous chiefly tropical plants belonging to the genus Lantana, of the verbena family, certain species of which, as L. camara, are cultivated for their aromatic flowers of yellow and orange or blue and violet.", "S": [], "A": []}

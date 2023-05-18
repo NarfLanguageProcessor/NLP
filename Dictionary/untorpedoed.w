@@ -1,0 +1,1 @@
+{"index": 353128, "D": "a self-propelled, cigar-shaped missile containing explosives and often equipped with a homing device, launched from a submarine or other warship, for destroying surface vessels or other submarines.", "S": [], "A": []}

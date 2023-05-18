@@ -1,0 +1,1 @@
+{"index": 171913, "D": "resembling or simulating real life", "S": ["authentic "], "A": []}

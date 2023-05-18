@@ -1,0 +1,1 @@
+{"index": 134843, "D": "to give courage or confidence to; cheer.", "S": ["animate ", "arouse ", "assure ", "buoy ", "cheer ", "comfort ", "embolden ", "encourage ", "energize ", "inspire ", "reassure ", "strengthen "], "A": ["depress ", "discourage ", "dishearten ", "dissuade ", "hurt ", "weaken ", "calm ", "dull "]}

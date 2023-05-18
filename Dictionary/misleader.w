@@ -1,0 +1,1 @@
+{"index": 189551, "D": "to lead or guide wrongly; lead astray.", "S": ["cheat ", "con artist ", "perjurer ", "phony ", "storyteller "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293843, "D": "contemptibly low, mean, or disreputable", "S": [], "A": []}

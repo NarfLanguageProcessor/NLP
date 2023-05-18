@@ -1,0 +1,1 @@
+{"index": 147133, "D": "capable of yielding  or of producing a yield. ", "S": [], "A": []}

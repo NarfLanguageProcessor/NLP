@@ -1,0 +1,1 @@
+{"index": 338012, "D": "(of proofs, a transcript, etc) not having been corrected or amended", "S": [], "A": []}

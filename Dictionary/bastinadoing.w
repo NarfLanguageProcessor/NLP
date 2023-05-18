@@ -1,0 +1,1 @@
+{"index": 28847, "D": "a mode of punishment consisting of blows with a stick on the soles of the feet or on the buttocks.", "S": [], "A": []}

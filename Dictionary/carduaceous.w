@@ -1,0 +1,1 @@
+{"index": 47898, "D": "of, relating to, or belonging to the Carduaceae, a subfamily of composite plants that includes the thistle", "S": [], "A": []}

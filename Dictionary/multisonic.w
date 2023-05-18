@@ -1,0 +1,1 @@
+{"index": 195348, "D": "of or relating to sound.", "S": [], "A": []}

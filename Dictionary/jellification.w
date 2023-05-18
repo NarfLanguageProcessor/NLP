@@ -1,0 +1,1 @@
+{"index": 160819, "D": "to make into a jelly;  reduce to a gelatinous state.", "S": ["agglomeration ", "concentration ", "concretion ", "condensation ", "congelation ", "consolidation ", "curdling ", "embolism ", "inspissation ", "thickening "], "A": ["dispersal ", "separation "]}

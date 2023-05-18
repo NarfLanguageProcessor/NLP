@@ -1,0 +1,1 @@
+{"index": 215075, "D": "(of a system of functions) normal;  normalized.", "S": [], "A": []}

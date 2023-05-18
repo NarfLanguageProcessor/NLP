@@ -1,0 +1,1 @@
+{"index": 67109, "D": "a person who construes or interprets, especially laws or the like, in a specific manner", "S": [], "A": []}

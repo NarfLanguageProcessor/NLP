@@ -1,0 +1,1 @@
+{"index": 249089, "D": "the act or process of rejecting. ", "S": [], "A": []}

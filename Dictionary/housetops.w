@@ -1,0 +1,1 @@
+{"index": 144480, "D": "the top  or roof of a house. ", "S": ["beam ", "plaster ", "roof "], "A": ["floor ", "minimum "]}

@@ -1,0 +1,1 @@
+{"index": 123643, "D": "of, relating to, or characteristic of Genoa or its inhabitants.", "S": [], "A": []}

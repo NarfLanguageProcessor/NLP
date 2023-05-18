@@ -1,0 +1,1 @@
+{"index": 265370, "D": "to provide new vigor and energy by rest, food, etc. (often used reflexively).", "S": ["bright ", "clear ", "good ", "lively ", "vigorous "], "A": ["lethargic "]}

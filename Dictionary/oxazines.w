@@ -1,0 +1,1 @@
+{"index": 222148, "D": "any of a group of 13 compounds having the formula C4H5NO, the atoms of which are arranged in a six-membered ring.", "S": [], "A": []}

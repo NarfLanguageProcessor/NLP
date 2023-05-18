@@ -1,0 +1,1 @@
+{"index": 329736, "D": "an article or thing of very little value.", "S": ["bagatelle ", "bauble ", "curio ", "gewgaw ", "knickknack ", "nothing ", "novelty ", "plaything ", "toy ", "trinket ", "triviality ", "whatnot "], "A": []}

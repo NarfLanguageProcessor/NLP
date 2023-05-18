@@ -1,0 +1,1 @@
+{"index": 16798, "D": "an impairment of a previously held ability to produce or understand spoken, written, or signed language, due to disease or injury of the brain.", "S": [], "A": []}

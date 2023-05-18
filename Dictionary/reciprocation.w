@@ -1,0 +1,1 @@
+{"index": 262883, "D": "an act or instance of reciprocating. ", "S": ["barter ", "compensation ", "correspondence ", "counteraction ", "counterattack ", "counterblow ", "interchange ", "repayment ", "reply ", "reprisal ", "requital ", "retribution ", "revenge ", "trade ", "vengeance "], "A": ["forgiveness ", "pardon ", "sympathy "]}

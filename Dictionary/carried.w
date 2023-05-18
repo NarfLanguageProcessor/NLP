@@ -1,0 +1,1 @@
+{"index": 48517, "D": "to take or support from one place to another; convey; transport", "S": ["borne ", "drifting ", "lugged ", "toted "], "A": []}

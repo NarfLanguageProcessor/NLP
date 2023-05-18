@@ -1,0 +1,1 @@
+{"index": 318476, "D": "a tremor; earthquake. ", "S": [], "A": []}

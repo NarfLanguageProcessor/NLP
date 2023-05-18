@@ -1,0 +1,1 @@
+{"index": 53443, "D": "a shout of encouragement, approval, congratulation, etc.", "S": ["renowned "], "A": []}

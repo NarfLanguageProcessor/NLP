@@ -1,0 +1,1 @@
+{"index": 95202, "D": "any of several coneflowers of the genus Echinacea whose leaves, roots, and other parts are used in herbal medicine to promote wound healing and enhance the immune system.", "S": [], "A": []}

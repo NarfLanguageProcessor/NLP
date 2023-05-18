@@ -1,0 +1,1 @@
+{"index": 158548, "D": "of, relating to, or characteristic of Isaiah or of the book of the Bible bearing his name.", "S": [], "A": []}

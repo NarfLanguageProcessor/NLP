@@ -1,0 +1,1 @@
+{"index": 291775, "D": "to make Chinese in character or bring under Chinese influence.", "S": [], "A": []}

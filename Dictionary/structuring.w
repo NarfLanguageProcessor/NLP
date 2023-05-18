@@ -1,0 +1,1 @@
+{"index": 306635, "D": "mode of building, construction, or organization; arrangement of parts, elements, or constituents", "S": ["grouping ", "institution ", "management ", "system "], "A": ["disorganization ", "disproportion ", "imbalance "]}

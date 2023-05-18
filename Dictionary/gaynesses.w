@@ -1,0 +1,1 @@
+{"index": 121020, "D": "gay or lesbian sexual orientation or behavior.", "S": ["ardor ", "buoyancy ", "eagerness ", "ebullience ", "excitement ", "exhilaration ", "fervor ", "high spirits ", "spirit ", "vigor ", "vitality ", "zest "], "A": ["apathy ", "coolness ", "depression ", "discouragement ", "disinterest ", "dullness ", "indifference ", "lethargy ", "inactivity "]}

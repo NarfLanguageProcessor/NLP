@@ -1,0 +1,1 @@
+{"index": 321469, "D": "the effect on an organism of rhythmic fluctuations in temperature.", "S": [], "A": []}

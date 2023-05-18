@@ -1,0 +1,1 @@
+{"index": 131133, "D": "a person who wears a mask; mummer.", "S": [], "A": []}

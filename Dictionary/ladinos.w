@@ -1,0 +1,1 @@
+{"index": 167221, "D": "a Romance language of Sephardic Jews, based on Old Spanish and written in the Hebrew script.", "S": [], "A": []}

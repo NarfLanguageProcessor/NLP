@@ -1,0 +1,1 @@
+{"index": 241757, "D": "an abnormal condition of the blood characterized by an increase in the number of red blood cells. It can occur as a primary disease of unknown cause (polycythaemia vera or erythraemia) or in association with respiratory or circulatory diseases", "S": [], "A": []}

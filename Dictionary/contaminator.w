@@ -1,0 +1,1 @@
+{"index": 67286, "D": "to make impure or unsuitable by contact or mixture with something unclean, bad, etc.", "S": ["adulterant ", "contamination ", "foreign matter ", "impurity ", "poison ", "pollutant ", "toxin "], "A": []}

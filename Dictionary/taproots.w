@@ -1,0 +1,1 @@
+{"index": 316434, "D": "a main root  descending downward from the radicle and giving off small lateral roots. ", "S": [], "A": []}

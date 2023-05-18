@@ -1,0 +1,1 @@
+{"index": 262248, "D": "a return of part of the original payment for some service or merchandise; partial refund.", "S": ["abatement ", "allowance ", "bonus ", "deduction ", "discount ", "kickback ", "reduction ", "reimbursement ", "repayment "], "A": ["increase ", "rise "]}

@@ -1,0 +1,1 @@
+{"index": 69240, "D": "a ventilated structure for the storage of unhusked corn. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256948, "D": "a device or substance that frees something of extraneous,                contaminating, or debasing matter", "S": ["cleanser ", "disinfectant "], "A": []}

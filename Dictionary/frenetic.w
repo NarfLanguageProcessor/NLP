@@ -1,0 +1,1 @@
+{"index": 118755, "D": "frantic;  frenzied.", "S": ["frantic ", "frenzied ", "furious ", "obsessive "], "A": ["calm ", "peaceful "]}

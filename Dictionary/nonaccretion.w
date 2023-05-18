@@ -1,0 +1,1 @@
+{"index": 201036, "D": "an increase by natural growth or by gradual external addition; growth in size or extent.", "S": [], "A": []}

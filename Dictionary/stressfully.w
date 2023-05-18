@@ -1,0 +1,1 @@
+{"index": 306127, "D": "full of stress  or tension", "S": [], "A": []}

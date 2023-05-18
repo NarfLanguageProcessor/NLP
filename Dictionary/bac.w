@@ -1,0 +1,1 @@
+{"index": 25593, "D": "the percentage of alcohol in the bloodstream", "S": [], "A": []}

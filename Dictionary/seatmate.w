@@ -1,0 +1,1 @@
+{"index": 282616, "D": "a person who shares a seat  or occupies the seat  next to oneself on a bus, plane, etc.", "S": [], "A": []}

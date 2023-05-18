@@ -1,0 +1,1 @@
+{"index": 118333, "D": "to force to adopt French customs and the French language.", "S": [], "A": []}

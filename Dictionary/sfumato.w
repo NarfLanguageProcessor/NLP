@@ -1,0 +1,1 @@
+{"index": 286977, "D": "the subtle and minute gradation of tone and color used to blur or veil the contours of a form in painting.", "S": [], "A": []}

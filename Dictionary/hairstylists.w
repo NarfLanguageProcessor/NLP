@@ -1,0 +1,1 @@
+{"index": 132453, "D": "a person who arranges or cuts hair; hairdresser. ", "S": ["barber ", "beautician ", "coiffeur ", "coiffeuse ", "coiffurist ", "hairdresser ", "styler ", "stylist "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 323850, "D": "pertaining to the middle ear or tympanic membrane.", "S": [], "A": []}

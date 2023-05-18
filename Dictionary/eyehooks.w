@@ -1,0 +1,1 @@
+{"index": 96392, "D": "hook and eye (def. 3). ", "S": [], "A": []}

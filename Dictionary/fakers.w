@@ -1,0 +1,1 @@
+{"index": 109388, "D": "a person who fakes. ", "S": ["charlatan ", "coiner ", "counterfeiter ", "deceiver ", "fabricator ", "forger ", "fraud ", "impersonator ", "impostor ", "liar ", "mountebank ", "phony ", "pretender ", "quack ", "shammer "], "A": []}

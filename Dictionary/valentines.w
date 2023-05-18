@@ -1,0 +1,1 @@
+{"index": 356653, "D": "a card or message, usually amatory or sentimental but sometimes satirical or comical, or a token or gift sent by one person to another on Valentine's Day, sometimes anonymously.", "S": ["lover "], "A": []}

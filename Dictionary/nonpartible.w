@@ -1,0 +1,1 @@
+{"index": 205770, "D": "capable of being divided or separated; separable; divisible.", "S": [], "A": []}

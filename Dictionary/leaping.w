@@ -1,0 +1,1 @@
+{"index": 169650, "D": "to spring through the air from one point or position to another; jump", "S": ["active ", "animated ", "beating ", "bouncing ", "bounding ", "dynamic ", "hopping ", "hurdling ", "irregular ", "pulsating ", "quaking ", "quivering ", "shaking ", "skipping ", "springing ", "throbbing ", "trembling "], "A": ["inactive "]}

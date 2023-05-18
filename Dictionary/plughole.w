@@ -1,0 +1,1 @@
+{"index": 240350, "D": "a hole, esp in a bath, basin, or sink, through which waste water drains and which can be closed with a plug", "S": [], "A": []}

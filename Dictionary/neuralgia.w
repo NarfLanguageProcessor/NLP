@@ -1,0 +1,1 @@
+{"index": 198939, "D": "sharp and paroxysmal pain along the course of a nerve.", "S": [], "A": []}

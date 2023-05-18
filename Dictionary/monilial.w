@@ -1,0 +1,1 @@
+{"index": 191976, "D": "pertaining to or caused by a fungus of the genus Monilia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 58035, "D": "an act or instance of circulating, moving in a circle or circuit, or flowing.", "S": ["currency ", "dissemination "], "A": ["blockage "]}

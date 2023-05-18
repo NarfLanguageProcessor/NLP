@@ -1,0 +1,1 @@
+{"index": 197491, "D": "a European plant, Umbilicus rupestris, of the stonecrop family, having fleshy, round leaves and yellowish-green flowers.", "S": [], "A": []}

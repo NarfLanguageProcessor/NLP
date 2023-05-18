@@ -1,0 +1,1 @@
+{"index": 287450, "D": "having a pleasing shape,  especially with reference to a woman's figure.", "S": [], "A": []}

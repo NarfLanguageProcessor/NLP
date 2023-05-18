@@ -1,0 +1,1 @@
+{"index": 201825, "D": "of, relating to, or resulting from a cataclysm. ", "S": [], "A": []}

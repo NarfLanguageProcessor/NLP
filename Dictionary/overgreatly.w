@@ -1,0 +1,1 @@
+{"index": 219604, "D": "unusually or comparatively large in size or dimensions", "S": [], "A": []}

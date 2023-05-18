@@ -1,0 +1,1 @@
+{"index": 5187, "D": "of, relating to, or characteristic of Aesop or his fables", "S": [], "A": []}

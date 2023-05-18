@@ -1,0 +1,1 @@
+{"index": 344376, "D": "to confine in or as if in a prison.", "S": [], "A": []}

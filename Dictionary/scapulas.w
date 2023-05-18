@@ -1,0 +1,1 @@
+{"index": 279675, "D": "either of two flat, triangular bones, each forming the back part of a shoulder in humans; shoulder blade.", "S": [], "A": []}

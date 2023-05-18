@@ -1,0 +1,1 @@
+{"index": 113011, "D": "the process by which fused glass is freed of undissolved gases.", "S": [], "A": []}

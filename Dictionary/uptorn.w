@@ -1,0 +1,1 @@
+{"index": 355175, "D": "past participle of uptear. ", "S": [], "A": []}

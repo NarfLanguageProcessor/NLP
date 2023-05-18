@@ -1,0 +1,1 @@
+{"index": 327274, "D": "adherence to tradition as authority, especially in matters of religion.", "S": ["Tory ", "bourgeois ", "constant ", "firm ", "fuddy-duddy ", "quiet ", "reactionary ", "right ", "rightist ", "stable ", "steady ", "timid "], "A": ["changeable ", "inconstant ", "unfixed ", "unstable ", "unsteady "]}

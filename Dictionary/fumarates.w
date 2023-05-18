@@ -1,0 +1,1 @@
+{"index": 120024, "D": "the salt of fumaric acid,  a key chemical intermediate in the Krebs cycle.", "S": [], "A": []}

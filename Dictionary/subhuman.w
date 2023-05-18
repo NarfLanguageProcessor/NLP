@@ -1,0 +1,1 @@
+{"index": 308162, "D": "less than or not quite human. ", "S": ["heartless "], "A": []}

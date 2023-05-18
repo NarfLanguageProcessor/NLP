@@ -1,0 +1,1 @@
+{"index": 11564, "D": "Greek writer, especially of love poems and drinking songs.", "S": [], "A": []}

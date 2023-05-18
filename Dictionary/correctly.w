@@ -1,0 +1,1 @@
+{"index": 69619, "D": "to set or make true, accurate, or right; remove the errors or faults from", "S": ["accurately ", "justly ", "nicely ", "perfectly ", "precisely ", "properly ", "rightly "], "A": ["unjustly ", "wrongly "]}

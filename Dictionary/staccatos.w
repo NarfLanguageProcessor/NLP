@@ -1,0 +1,1 @@
+{"index": 302204, "D": "shortened and detached when played or sung", "S": ["litany ", "recurrence ", "reiteration ", "repeat ", "rhythm "], "A": ["original "]}

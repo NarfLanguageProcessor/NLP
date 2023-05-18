@@ -1,0 +1,1 @@
+{"index": 288538, "D": "a pupil of a guru.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 367430, "D": "the brand name for an online word game giving players six attempts to identify a five-letter word.", "S": [], "A": []}

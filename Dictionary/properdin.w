@@ -1,0 +1,1 @@
+{"index": 252592, "D": "a protein present in blood serum that, acting with complement, is involved in the destruction of alien cells, such as bacteria", "S": [], "A": []}

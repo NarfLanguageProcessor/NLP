@@ -1,0 +1,1 @@
+{"index": 287475, "D": "a fragment, especially of broken earthenware.", "S": ["fragment ", "particle ", "remnant "], "A": ["whole ", "base ", "core "]}

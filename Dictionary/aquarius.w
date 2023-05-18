@@ -1,0 +1,1 @@
+{"index": 18213, "D": "the Water Bearer, a zodiacal constellation between Pisces and Capricornus.", "S": ["Aries ", "Cancer ", "Capricorn ", "Gemini ", "Libra ", "Pisces ", "Sagittarius ", "Scorpio ", "Taurus ", "Virgo ", "horoscope sign ", "leo ", "zodiac sign "], "A": []}

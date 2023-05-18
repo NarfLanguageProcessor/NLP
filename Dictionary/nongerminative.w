@@ -1,0 +1,1 @@
+{"index": 204280, "D": "capable of germinating,  developing, or creating; of or pertaining to germination.", "S": [], "A": []}

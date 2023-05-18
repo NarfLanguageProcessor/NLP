@@ -1,0 +1,1 @@
+{"index": 72240, "D": "a crib for fodder; manger.", "S": [], "A": []}

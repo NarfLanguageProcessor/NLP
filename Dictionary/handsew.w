@@ -1,0 +1,1 @@
+{"index": 133272, "D": "to sew  by hand. ", "S": [], "A": []}

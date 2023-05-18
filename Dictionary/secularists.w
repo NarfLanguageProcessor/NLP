@@ -1,0 +1,1 @@
+{"index": 282897, "D": "secular  spirit or tendency, especially a system of political or social philosophy that rejects all forms of religious faith and worship.", "S": [], "A": []}

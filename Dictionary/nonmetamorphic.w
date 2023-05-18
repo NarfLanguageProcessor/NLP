@@ -1,0 +1,1 @@
+{"index": 205255, "D": "pertaining to or characterized by change of form, or metamorphosis. ", "S": [], "A": []}

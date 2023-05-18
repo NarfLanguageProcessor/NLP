@@ -1,0 +1,1 @@
+{"index": 313382, "D": "the outer face, outside, or exterior boundary of a thing; outermost or uppermost layer or area.", "S": ["camouflaged ", "capped ", "closed ", "coated ", "concealed ", "enclosed ", "hidden ", "painted ", "protected ", "shielded ", "topped ", "wrapped "], "A": ["bare ", "exposed ", "open ", "uncovered ", "unmasked "]}

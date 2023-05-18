@@ -1,0 +1,1 @@
+{"index": 138036, "D": "a group of six allied states or kingdoms each under its own ruler.", "S": [], "A": []}

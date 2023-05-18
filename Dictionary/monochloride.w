@@ -1,0 +1,1 @@
+{"index": 192141, "D": "a chloride  containing one atom of chlorine with one atom of another element or a group.", "S": [], "A": []}

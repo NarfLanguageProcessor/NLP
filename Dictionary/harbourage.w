@@ -1,0 +1,1 @@
+{"index": 133604, "D": "shelter or refuge, as for a ship, or a place providing shelter", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 167482, "D": "the land along the edge of a lake", "S": ["beach ", "cay ", "cliff ", "coast ", "edge ", "embankment ", "lakeshore ", "lakeside ", "ledge ", "levee ", "oceanfront ", "reef ", "riverside ", "seaboard ", "seafront ", "shore ", "strand ", "waterfront "], "A": []}

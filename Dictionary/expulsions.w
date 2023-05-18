@@ -1,0 +1,1 @@
+{"index": 108064, "D": "the act of driving out or expelling", "S": ["banishment ", "discharge ", "displacement ", "ejection ", "eviction ", "exclusion ", "ouster ", "purge ", "removal ", "suspension "], "A": ["admittance ", "inclusion ", "welcome ", "welcoming "]}

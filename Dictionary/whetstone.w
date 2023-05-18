@@ -1,0 +1,1 @@
+{"index": 364711, "D": "a stone for sharpening cutlery or tools by friction.", "S": ["accent ", "briar ", "circle ", "cut ", "halo ", "knob ", "notch ", "ring ", "sticker ", "washer "], "A": []}

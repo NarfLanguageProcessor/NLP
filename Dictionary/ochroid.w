@@ -1,0 +1,1 @@
+{"index": 210868, "D": "yellow as ocher.", "S": ["aureate ", "auric ", "auriferous ", "aurous ", "aurulent ", "blond ", "blonde ", "caramel ", "dusty ", "flaxen ", "honeyed ", "mellow yellow ", "straw ", "tan ", "tawny ", "wheat "], "A": []}

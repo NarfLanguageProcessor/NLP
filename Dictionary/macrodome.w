@@ -1,0 +1,1 @@
+{"index": 176944, "D": "a dome  the faces of which are parallel to the greater lateral axis.", "S": [], "A": []}

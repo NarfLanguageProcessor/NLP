@@ -1,0 +1,1 @@
+{"index": 251883, "D": "of or relating to prognosis. ", "S": ["foreboding ", "foretelling ", "guessing "], "A": []}

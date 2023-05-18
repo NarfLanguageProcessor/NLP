@@ -1,0 +1,1 @@
+{"index": 180180, "D": "a wild goat, Capra falconeri, of mountainous regions from Afghanistan to India, having compressed, spiral horns and long, shaggy hair", "S": [], "A": []}

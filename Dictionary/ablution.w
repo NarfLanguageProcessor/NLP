@@ -1,0 +1,1 @@
+{"index": 592, "D": "a cleansing with water or other liquid, especially as a religious ritual.", "S": ["bath ", "cleansing ", "decontamination ", "lavation ", "purification ", "shower "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 49427, "D": "a boat having one mast set well forward with a single large sail.", "S": [], "A": []}

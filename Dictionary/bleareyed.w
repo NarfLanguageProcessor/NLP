@@ -1,0 +1,1 @@
+{"index": 35970, "D": "having bleary eyes.", "S": [], "A": []}

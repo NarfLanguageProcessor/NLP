@@ -1,0 +1,1 @@
+{"index": 36252, "D": "to close and reopen the eyes, especially involuntarily", "S": ["flash ", "flicker ", "flutter ", "sparkle ", "squint "], "A": ["attend ", "be aware ", "pay attention "]}

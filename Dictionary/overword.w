@@ -1,0 +1,1 @@
+{"index": 221877, "D": "a word that is repeated, as a refrain in a song.", "S": [], "A": []}

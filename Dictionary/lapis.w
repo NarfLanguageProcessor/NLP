@@ -1,0 +1,1 @@
+{"index": 168356, "D": "stone (used in Latin names for minerals, gems, etc.)", "S": [], "A": []}

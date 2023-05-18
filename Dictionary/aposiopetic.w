@@ -1,0 +1,1 @@
+{"index": 17399, "D": "a sudden breaking off in the midst of a sentence, as if from inability or unwillingness to proceed.", "S": [], "A": []}

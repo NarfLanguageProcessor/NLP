@@ -1,0 +1,1 @@
+{"index": 164422, "D": "a method of changing gear in a car with automatic transmission, by fully depressing the accelerator", "S": [], "A": []}

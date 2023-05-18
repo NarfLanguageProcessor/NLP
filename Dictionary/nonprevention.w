@@ -1,0 +1,1 @@
+{"index": 206165, "D": "the act of preventing;  effectual hindrance.", "S": [], "A": []}

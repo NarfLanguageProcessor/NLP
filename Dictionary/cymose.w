@@ -1,0 +1,1 @@
+{"index": 57550, "D": "bearing a cyme or cymes.", "S": [], "A": []}

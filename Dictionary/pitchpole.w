@@ -1,0 +1,1 @@
+{"index": 238256, "D": "(of a boat) to capsize end over end, as in heavy surf.", "S": [], "A": []}

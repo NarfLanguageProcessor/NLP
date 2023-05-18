@@ -1,0 +1,1 @@
+{"index": 20339, "D": "any of several shrubs or small trees, especially of the genus Viburnum, having tough, straight shoots formerly used for arrows.", "S": [], "A": []}

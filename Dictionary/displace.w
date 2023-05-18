@@ -1,0 +1,1 @@
+{"index": 89041, "D": "to compel (a person or persons) to leave home, country, etc.", "S": ["disturb ", "evict ", "expel ", "force out ", "lose ", "uproot "], "A": ["admit ", "take in ", "welcome ", "find ", "hold ", "keep ", "order ", "remain "]}

@@ -1,0 +1,1 @@
+{"index": 313327, "D": "to cease from some action; desist.", "S": ["delay ", "refrain ", "rest ", "stay "], "A": ["advance ", "do "]}

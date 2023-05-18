@@ -1,0 +1,1 @@
+{"index": 351396, "D": "to pass over lightly or without due mention or consideration (often followed by over)", "S": [], "A": []}

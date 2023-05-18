@@ -1,0 +1,1 @@
+{"index": 327410, "D": "an ornamented board  extending on each side of the bow of a vessel from a figurehead or the like to abaft the hawse.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 161209, "D": "to move up and down or to and fro with short, quick jerks.", "S": [], "A": []}

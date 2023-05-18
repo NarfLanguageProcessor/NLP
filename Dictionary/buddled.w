@@ -1,0 +1,1 @@
+{"index": 42161, "D": "a shallow trough in which metalliferous ore is separated from gangue by means of running water.", "S": [], "A": []}

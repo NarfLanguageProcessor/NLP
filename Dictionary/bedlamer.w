@@ -1,0 +1,1 @@
+{"index": 30108, "D": "a harp seal, beyond the beater stage but not yet mature.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 87437, "D": "to confuse or disconcert; confound; bewilder", "S": ["befuddle ", "bewilder ", "confound ", "disconcert ", "fluster "], "A": ["calm ", "clear up ", "comfort ", "explain ", "aid ", "assist ", "clarify ", "encourage ", "enlighten ", "help ", "order ", "organize ", "soothe ", "support "]}

@@ -1,0 +1,1 @@
+{"index": 169695, "D": "lying; falsehood.", "S": ["charter ", "hire ", "rent out ", "sublet "], "A": ["sell "]}

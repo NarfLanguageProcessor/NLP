@@ -1,0 +1,1 @@
+{"index": 59258, "D": "to claw or scratch with the hands and nails", "S": ["fingernail ", "paw ", "tentacle "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 248011, "D": "tending to instill doubts, distrust, etc.; suggestive", "S": [], "A": []}

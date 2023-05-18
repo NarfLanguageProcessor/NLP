@@ -1,0 +1,1 @@
+{"index": 328912, "D": "incisive or keen, as language or a person; caustic; cutting", "S": ["acerbic ", "biting ", "caustic ", "incisive ", "mordant ", "penetrating ", "pointed ", "pungent ", "salient ", "unsparing "], "A": ["bland ", "blunt ", "calm ", "dull ", "gentle ", "kind ", "mild ", "nice ", "soothing ", "stupid "]}

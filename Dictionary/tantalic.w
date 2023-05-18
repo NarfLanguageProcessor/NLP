@@ -1,0 +1,1 @@
+{"index": 316217, "D": "of or relating to tantalum,  especially in the pentavalent state.", "S": [], "A": []}

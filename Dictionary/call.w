@@ -1,0 +1,1 @@
+{"index": 45247, "D": "to cry out in a loud voice; shout", "S": ["calling ", "cry ", "signal "], "A": []}

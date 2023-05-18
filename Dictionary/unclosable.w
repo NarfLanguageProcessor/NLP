@@ -1,0 +1,1 @@
+{"index": 337085, "D": "to put (something) in a position to obstruct an entrance, opening, etc.; shut. ", "S": [], "A": []}

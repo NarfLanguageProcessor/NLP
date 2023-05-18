@@ -1,0 +1,1 @@
+{"index": 233271, "D": "a liturgical vestment resembling a chasuble.", "S": [], "A": []}

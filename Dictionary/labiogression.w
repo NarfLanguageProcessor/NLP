@@ -1,0 +1,1 @@
+{"index": 166673, "D": "location of the anterior teeth forward of their natural position.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 339529, "D": "a person appointed or elected to an office  or charged with certain duties.", "S": [], "A": []}

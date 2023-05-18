@@ -1,0 +1,1 @@
+{"index": 46777, "D": "a device for accumulating and holding a charge of electricity, consisting of two equally charged conducting surfaces having opposite signs and separated by a dielectric.", "S": [], "A": []}

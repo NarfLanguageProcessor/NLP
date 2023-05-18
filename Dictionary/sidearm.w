@@ -1,0 +1,1 @@
+{"index": 289723, "D": "with a swinging motion of the arm  moving to the side  of the body at shoulder level or below and nearly parallel to the ground", "S": ["bayonet ", "blade ", "sword "], "A": []}

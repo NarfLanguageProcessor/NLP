@@ -1,0 +1,1 @@
+{"index": 246877, "D": "to settle or decide in advance", "S": [], "A": []}

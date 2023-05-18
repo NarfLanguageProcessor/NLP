@@ -1,0 +1,1 @@
+{"index": 59842, "D": "of, relating to, or characteristic of a clerk.", "S": [], "A": []}

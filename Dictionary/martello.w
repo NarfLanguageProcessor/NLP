@@ -1,0 +1,1 @@
+{"index": 180473, "D": "a circular, towerlike fort with guns on the top.", "S": [], "A": []}

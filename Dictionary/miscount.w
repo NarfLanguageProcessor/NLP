@@ -1,0 +1,1 @@
+{"index": 189034, "D": "to count or calculate erroneously.", "S": ["error ", "mistake "], "A": ["accuracy ", "certainty ", "correction ", "truth "]}

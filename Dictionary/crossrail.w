@@ -1,0 +1,1 @@
+{"index": 73865, "D": "a horizontal slat forming part of the back of a chair.", "S": [], "A": []}

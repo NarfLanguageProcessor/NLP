@@ -1,0 +1,1 @@
+{"index": 273214, "D": "something or someone exceedingly strong or violent", "S": [], "A": []}

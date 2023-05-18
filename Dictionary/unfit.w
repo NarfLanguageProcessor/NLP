@@ -1,0 +1,1 @@
+{"index": 342303, "D": "not fit;  not adapted or suited; unsuitable", "S": ["ill-equipped ", "inadequate ", "inappropriate ", "unhealthy ", "unlikely ", "unsuitable ", "unsuited ", "useless "], "A": ["appropriate ", "proper ", "suitable "]}

@@ -1,0 +1,1 @@
+{"index": 168611, "D": "a muscular and cartilaginous structure lined with mucous membrane at the upper part of the trachea in humans, in which the vocal cords are located.", "S": ["esophagus "], "A": []}

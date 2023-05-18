@@ -1,0 +1,1 @@
+{"index": 192754, "D": "of, relating to, or uttered in a monotone", "S": [], "A": []}

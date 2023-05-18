@@ -1,0 +1,1 @@
+{"index": 72873, "D": "a harmful habit of horses in which the animal leans on the manger or seizes it with the teeth and swallows a gulp of air", "S": [], "A": []}

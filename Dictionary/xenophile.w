@@ -1,0 +1,1 @@
+{"index": 368404, "D": "a person who is attracted to foreign peoples, cultures, or customs.", "S": [], "A": []}

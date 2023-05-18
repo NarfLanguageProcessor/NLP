@@ -1,0 +1,1 @@
+{"index": 193529, "D": "showing a lack of good sense; stupid or idiotic", "S": ["dopey ", "dumb ", "foolish ", "idiotic ", "irresponsible ", "pointless "], "A": ["brainy ", "careful ", "intelligent ", "sensible ", "smart "]}

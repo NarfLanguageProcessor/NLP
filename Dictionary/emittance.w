@@ -1,0 +1,1 @@
+{"index": 98581, "D": "the total flux emitted  per unit area.", "S": [], "A": []}

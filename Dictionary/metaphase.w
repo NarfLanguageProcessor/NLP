@@ -1,0 +1,1 @@
+{"index": 184873, "D": "the stage in mitosis or meiosis in which the duplicated chromosomes line up along the equatorial plate of the spindle.", "S": [], "A": []}

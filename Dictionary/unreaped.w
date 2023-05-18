@@ -1,0 +1,1 @@
+{"index": 349117, "D": "to cut (wheat, rye, etc.) with a sickle or other implement or a machine, as in harvest.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 283559, "D": "able to supply one's own or its own needs without external assistance", "S": ["ability ", "autonomy ", "self-determination ", "self-government ", "self-reliance ", "self-rule ", "self-sufficiency ", "separation ", "sovereignty "], "A": ["dependence ", "inaptitude "]}

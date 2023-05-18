@@ -1,0 +1,1 @@
+{"index": 201650, "D": "having or showing bias  or prejudice", "S": [], "A": []}

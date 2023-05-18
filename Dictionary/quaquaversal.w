@@ -1,0 +1,1 @@
+{"index": 257966, "D": "(of a geological formation) sloping downward from the center in all directions.", "S": [], "A": []}

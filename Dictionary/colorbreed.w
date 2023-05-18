@@ -1,0 +1,1 @@
+{"index": 63328, "D": "to breed  plants or animals selectively for the production of new varieties having a specific color  or shade.", "S": [], "A": []}

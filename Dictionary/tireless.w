@@ -1,0 +1,1 @@
+{"index": 324489, "D": "never seeming to tire; not slackening", "S": ["energetic ", "enthusiastic ", "indefatigable ", "resolute ", "steadfast ", "strenuous ", "unflagging ", "vigorous "], "A": ["apathetic ", "enervated ", "idle ", "inactive ", "lethargic ", "tired ", "unenthusiastic ", "weak ", "weary "]}

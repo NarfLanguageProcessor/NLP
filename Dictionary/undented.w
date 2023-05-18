@@ -1,0 +1,1 @@
+{"index": 338753, "D": "a hollow or depression in a surface, as from a blow.", "S": [], "A": []}

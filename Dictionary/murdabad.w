@@ -1,0 +1,1 @@
+{"index": 195667, "D": "Compare zindabad", "S": [], "A": []}

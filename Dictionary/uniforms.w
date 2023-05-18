@@ -1,0 +1,1 @@
+{"index": 344155, "D": "identical or consistent, as from example to example, place to place, or moment to moment", "S": ["attire ", "costume ", "dress ", "garb ", "gown ", "khaki ", "regalia ", "robe ", "suit "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 75407, "D": "the state or quality of being current;  currency.", "S": [], "A": []}

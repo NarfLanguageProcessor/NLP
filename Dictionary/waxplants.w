@@ -1,0 +1,1 @@
+{"index": 363430, "D": "a shrubby climbing plant, Hoya carnosa, of the milkweed family, native to Australia, with umbels of waxy pink or white flowers.", "S": [], "A": []}

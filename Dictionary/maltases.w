@@ -1,0 +1,1 @@
+{"index": 178654, "D": "an enzyme that converts maltose into glucose and causes similar cleavage of many other glucosides.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 281363, "D": "a deep concave molding between two fillets, as in the Attic base.", "S": [], "A": []}

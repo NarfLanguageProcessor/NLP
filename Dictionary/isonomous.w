@@ -1,0 +1,1 @@
+{"index": 159131, "D": "equality of political rights.", "S": [], "A": []}

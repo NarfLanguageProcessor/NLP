@@ -1,0 +1,1 @@
+{"index": 284105, "D": "somewhat more than mortal but less than divine. ", "S": [], "A": []}

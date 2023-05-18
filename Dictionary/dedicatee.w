@@ -1,0 +1,1 @@
+{"index": 78887, "D": "a person to whom something is dedicated. ", "S": [], "A": []}

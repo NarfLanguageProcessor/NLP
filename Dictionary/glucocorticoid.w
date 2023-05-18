@@ -1,0 +1,1 @@
+{"index": 126834, "D": "any of a class of steroid hormones that are synthesized by the adrenal cortex of vertebrates and have anti-inflammatory activity.", "S": [], "A": []}

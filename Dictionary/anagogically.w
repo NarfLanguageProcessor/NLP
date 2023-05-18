@@ -1,0 +1,1 @@
+{"index": 11672, "D": "of or relating to an anagoge. ", "S": [], "A": []}

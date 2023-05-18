@@ -1,0 +1,1 @@
+{"index": 335664, "D": "not bearable;  unendurable; intolerable.", "S": [], "A": []}

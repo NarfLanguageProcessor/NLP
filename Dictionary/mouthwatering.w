@@ -1,0 +1,1 @@
+{"index": 194367, "D": "very appetizing in appearance, aroma, or description", "S": ["appealing ", "attractive ", "beguiling ", "charming ", "delightful ", "encouraging ", "engaging ", "enticing ", "fascinating ", "intriguing ", "persuasive ", "pleasing ", "seductive ", "tempting ", "welcoming "], "A": ["boring ", "repellent ", "repulsive ", "ugly ", "unattractive "]}

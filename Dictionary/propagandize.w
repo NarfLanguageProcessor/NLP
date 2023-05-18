@@ -1,0 +1,1 @@
+{"index": 252510, "D": "to propagate or publicize (principles, dogma, etc.) by means of propaganda. ", "S": ["brainwash ", "convince ", "drill ", "ground ", "imbue ", "implant ", "inculcate ", "influence ", "initiate ", "instill ", "instruct ", "plant ", "program ", "school ", "teach ", "train "], "A": ["forget ", "learn ", "neglect "]}

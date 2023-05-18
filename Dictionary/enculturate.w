@@ -1,0 +1,1 @@
+{"index": 99539, "D": "to change, modify, or adapt (behavior, ideas, etc.) by enculturation. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 26257, "D": "to confuse, bewilder, or perplex", "S": ["amaze ", "astound ", "befuddle ", "bewilder ", "confound ", "confuse ", "daze ", "disconcert ", "dumbfound ", "elude ", "embarrass ", "faze ", "mystify ", "nonplus ", "puzzle ", "stump ", "stun "], "A": ["clarify ", "clear up ", "comfort ", "enlighten ", "explain ", "explicate ", "help ", "soothe "]}

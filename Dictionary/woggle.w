@@ -1,0 +1,1 @@
+{"index": 366865, "D": "the ring of leather through which a Scout neckerchief is threaded", "S": [], "A": []}

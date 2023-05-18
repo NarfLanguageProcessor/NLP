@@ -1,0 +1,1 @@
+{"index": 43443, "D": "a wild swine, Potamochaerus porcus, of southern and eastern Africa, having white facial markings.", "S": [], "A": []}

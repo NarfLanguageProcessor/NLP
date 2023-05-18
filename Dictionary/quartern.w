@@ -1,0 +1,1 @@
+{"index": 258060, "D": "a quarter, or a fourth part, especially of certain weights and measures, as of a pound, ounce, peck, or pint.", "S": ["fourth ", "one-fourth ", "part ", "portion ", "term "], "A": ["whole "]}

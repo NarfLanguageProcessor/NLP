@@ -1,0 +1,1 @@
+{"index": 276994, "D": "the technique of selling a product", "S": [], "A": []}

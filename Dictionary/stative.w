@@ -1,0 +1,1 @@
+{"index": 303114, "D": "(of a verb) expressing a state or condition, as like, want, or believe, and usually used in simple, not progressive, tenses", "S": [], "A": []}

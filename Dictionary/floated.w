@@ -1,0 +1,1 @@
+{"index": 114804, "D": "to rest or remain on the surface of a liquid; be buoyant", "S": ["begun ", "lofted ", "sent "], "A": []}

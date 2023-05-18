@@ -1,0 +1,1 @@
+{"index": 161198, "D": "a small mast  set well aft in a boat or ship; mizzenmast.", "S": [], "A": []}

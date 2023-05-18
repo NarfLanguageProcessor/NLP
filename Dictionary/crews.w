@@ -1,0 +1,1 @@
+{"index": 72852, "D": "a group of persons involved in a particular kind of work or working together", "S": ["band ", "company ", "corps ", "crowd ", "gang ", "squad ", "team ", "troop "], "A": ["individual ", "one "]}

@@ -1,0 +1,1 @@
+{"index": 260078, "D": "Compare primary rainbow, secondary rainbow. ", "S": [], "A": []}

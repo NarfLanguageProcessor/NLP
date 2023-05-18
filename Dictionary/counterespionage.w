@@ -1,0 +1,1 @@
+{"index": 70783, "D": "the detection and frustration of enemy espionage. ", "S": [], "A": []}

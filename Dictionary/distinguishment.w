@@ -1,0 +1,1 @@
+{"index": 89824, "D": "to mark off as different (often followed by from or by)", "S": [], "A": []}

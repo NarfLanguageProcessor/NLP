@@ -1,0 +1,1 @@
+{"index": 257200, "D": "that pushes. ", "S": ["forward ", "presuming "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 115185, "D": "a plant that flowers  at a specific time or in a certain manner.", "S": [], "A": []}

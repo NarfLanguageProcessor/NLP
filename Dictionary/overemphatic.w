@@ -1,0 +1,1 @@
+{"index": 219185, "D": "excessive or undue emphasis. ", "S": [], "A": []}

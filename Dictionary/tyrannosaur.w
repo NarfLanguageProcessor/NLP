@@ -1,0 +1,1 @@
+{"index": 324463, "D": "a large, carnivorous dinosaur, Tyrannosaurus rex, from the Late Cretaceous Epoch of North America, that walked erect on its hind feet.", "S": [], "A": []}

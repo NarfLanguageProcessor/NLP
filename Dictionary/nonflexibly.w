@@ -1,0 +1,1 @@
+{"index": 204094, "D": "capable of being bent, usually without breaking; easily bent", "S": [], "A": []}

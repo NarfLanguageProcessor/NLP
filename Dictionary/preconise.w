@@ -1,0 +1,1 @@
+{"index": 246422, "D": "to proclaim or commend publicly.", "S": [], "A": []}

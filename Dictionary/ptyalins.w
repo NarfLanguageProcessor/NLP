@@ -1,0 +1,1 @@
+{"index": 255818, "D": "an enzyme in the saliva that converts starch into dextrin and maltose.", "S": [], "A": []}
