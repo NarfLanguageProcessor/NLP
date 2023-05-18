@@ -1,0 +1,1 @@
+{"index": 19901, "D": "a chair  with sidepieces or arms  to support a person's forearms or elbows.", "S": ["recliner "], "A": []}

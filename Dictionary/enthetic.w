@@ -1,0 +1,1 @@
+{"index": 101384, "D": "introduced from without, as diseases propagated by inoculation.", "S": [], "A": []}

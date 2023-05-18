@@ -1,0 +1,1 @@
+{"index": 48094, "D": "having caries,  as teeth; decayed.", "S": ["caries ", "cavity ", "dental caries ", "dental cavity "], "A": []}

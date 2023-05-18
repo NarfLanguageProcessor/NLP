@@ -1,0 +1,1 @@
+{"index": 177810, "D": "of or relating to the method used by Socrates of eliciting knowledge in the mind of a person by interrogation and insistence on close and logical reasoning.", "S": [], "A": []}

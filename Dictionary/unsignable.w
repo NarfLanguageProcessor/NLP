@@ -1,0 +1,1 @@
+{"index": 351121, "D": "suitable for signing,  as in being satisfactory, appropriate, or complete", "S": [], "A": []}

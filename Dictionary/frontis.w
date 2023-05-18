@@ -1,0 +1,1 @@
+{"index": 119359, "D": "Compare rebote (def. 1). ", "S": [], "A": []}

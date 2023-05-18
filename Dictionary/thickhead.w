@@ -1,0 +1,1 @@
+{"index": 321696, "D": "a stupid person; blockhead.", "S": ["airhead ", "blockhead ", "boob ", "chump ", "clod ", "dimwit ", "dolt ", "dope ", "dork ", "dumbbell ", "dummy ", "dunce ", "fool ", "idiot ", "imbecile ", "lunkhead ", "nitwit ", "numskull ", "simpleton "], "A": ["brain ", "genius "]}

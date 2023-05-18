@@ -1,0 +1,1 @@
+{"index": 121353, "D": "of or relating to a metre consisting of four lesser Ionics, used by Callimachus and Catullus and imitated by Tennyson in Boadicea", "S": [], "A": []}

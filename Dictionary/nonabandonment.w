@@ -1,0 +1,1 @@
+{"index": 200945, "D": "an act or instance of leaving a person or thing permanently and completely", "S": [], "A": []}

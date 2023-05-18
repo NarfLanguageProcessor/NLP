@@ -1,0 +1,1 @@
+{"index": 234832, "D": "a systemic and contact insecticide, C10H19ClNO5P, used against beetles, aphids, mites, and other crop pests.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 123556, "D": "any small, Old World carnivore of the genus Genetta, especially G. genetta, having spotted sides and a ringed tail.", "S": [], "A": []}

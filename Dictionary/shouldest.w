@@ -1,0 +1,1 @@
+{"index": 288997, "D": "plan to, intend to, or expect to", "S": [], "A": []}

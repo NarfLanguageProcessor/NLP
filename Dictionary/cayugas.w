@@ -1,0 +1,1 @@
+{"index": 44631, "D": "a member of a tribe of North American Indians, the smallest tribe of the Iroquois Confederacy.", "S": [], "A": []}

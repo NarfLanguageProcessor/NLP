@@ -1,0 +1,1 @@
+{"index": 331502, "D": "a stroke in which a double overarm motion and a scissors kick are used.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 285141, "D": "the process of military struggle between two nations or groups of nations; war.", "S": [], "A": []}

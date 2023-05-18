@@ -1,0 +1,1 @@
+{"index": 156213, "D": "to weave  together, as threads, strands, branches, or roots.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 98229, "D": "to shelter in or as in a bower;  cover or surround with foliage.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 335734, "D": "to act in a particular way; conduct or comport oneself or itself", "S": [], "A": []}

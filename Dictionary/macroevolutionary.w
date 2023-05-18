@@ -1,0 +1,1 @@
+{"index": 176954, "D": "major evolutionary transition from one type of organism to another occurring at the level of the species and higher taxa.", "S": [], "A": []}

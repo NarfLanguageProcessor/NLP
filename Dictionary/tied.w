@@ -1,0 +1,1 @@
+{"index": 323371, "D": "a tied house; tied outlet", "S": ["fixed "], "A": []}

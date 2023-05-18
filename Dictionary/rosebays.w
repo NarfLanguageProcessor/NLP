@@ -1,0 +1,1 @@
+{"index": 274462, "D": "any of several rhododendrons, as the great laurel of eastern North America or Rhododendron macrophyllum, of the west coast of North America.", "S": [], "A": []}

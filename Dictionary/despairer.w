@@ -1,0 +1,1 @@
+{"index": 82784, "D": "loss of hope; hopelessness.", "S": [], "A": []}

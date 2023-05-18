@@ -1,0 +1,1 @@
+{"index": 5634, "D": "the care  and treatment of a convalescent patient.", "S": [], "A": []}

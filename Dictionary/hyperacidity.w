@@ -1,0 +1,1 @@
+{"index": 139830, "D": "excessive acidity,  as of the gastric juice.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 60034, "D": "apt to cling;  adhesive or tenacious", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 16470, "D": "a Roman coin of the 3rd century a.d., originally of silver but later debased.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 164095, "D": "a member of an Indigenous people of central Siberia, living in widely dispersed communities on tributaries of the Yenisei River, between 60\u00b0 and 67\u00b0 N latitude.", "S": [], "A": []}

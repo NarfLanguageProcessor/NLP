@@ -1,0 +1,1 @@
+{"index": 291458, "D": "marked by syncopation", "S": ["abbreviate ", "constrict ", "cram ", "restrict ", "shorten ", "shrink ", "squeeze ", "wrap "], "A": ["amplify ", "enlarge ", "expand ", "free ", "grow ", "increase ", "lengthen ", "let go ", "open ", "release ", "add ", "allow ", "disperse ", "extend ", "loose ", "loosen ", "raise ", "strengthen ", "untie ", "unwrinkle "]}

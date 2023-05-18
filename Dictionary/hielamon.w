@@ -1,0 +1,1 @@
+{"index": 139075, "D": "a shield made of wood or bark.", "S": [], "A": []}

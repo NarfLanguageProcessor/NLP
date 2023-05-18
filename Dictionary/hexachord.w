@@ -1,0 +1,1 @@
+{"index": 137893, "D": "a diatonic series of six tones having, in medieval music, a half step between the third and fourth tones and whole steps between the others.", "S": [], "A": []}

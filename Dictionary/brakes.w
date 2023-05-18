@@ -1,0 +1,1 @@
+{"index": 39803, "D": "a device for slowing or stopping a vehicle or other moving mechanism by the absorption or transfer of the energy of momentum, usually by means of friction.", "S": ["damper ", "restraint "], "A": ["assistance ", "catalyst ", "encouragement ", "help ", "incentive ", "opening "]}

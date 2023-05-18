@@ -1,0 +1,1 @@
+{"index": 166947, "D": "without interest, vigor, or determination; listless; halfhearted", "S": ["apathy ", "inertia ", "lethargy ", "negligence ", "sloth ", "weariness "], "A": ["activity ", "life ", "liveliness ", "action "]}

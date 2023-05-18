@@ -1,0 +1,1 @@
+{"index": 131119, "D": "of or relating to Guinea or its inhabitants", "S": [], "A": []}

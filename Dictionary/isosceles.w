@@ -1,0 +1,1 @@
+{"index": 159236, "D": "(of a straight-sided plane figure) having two sides equal", "S": [], "A": []}

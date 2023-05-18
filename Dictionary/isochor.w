@@ -1,0 +1,1 @@
+{"index": 158839, "D": "a line on a graph showing the variation of the temperature of a fluid with its pressure, when the volume is kept constant", "S": [], "A": []}

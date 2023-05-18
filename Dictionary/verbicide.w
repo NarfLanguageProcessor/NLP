@@ -1,0 +1,1 @@
+{"index": 358401, "D": "the willful distortion or depreciation of the original meaning of a word.", "S": [], "A": []}

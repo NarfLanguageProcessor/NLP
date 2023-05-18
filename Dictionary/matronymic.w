@@ -1,0 +1,1 @@
+{"index": 181283, "D": "a variant of metronymic. ", "S": ["brand ", "flag ", "label ", "nickname ", "sign ", "signature ", "style ", "term "], "A": ["unknown "]}

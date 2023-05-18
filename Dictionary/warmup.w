@@ -1,0 +1,1 @@
+{"index": 362707, "D": "an act or instance of warming up", "S": ["athletic suit ", "exercise suit ", "gymsuit ", "sweatclothes ", "sweats "], "A": []}

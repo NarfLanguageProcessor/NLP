@@ -1,0 +1,1 @@
+{"index": 90263, "D": "offering diversion  or recreation; diverting.", "S": [], "A": []}

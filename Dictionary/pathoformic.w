@@ -1,0 +1,1 @@
+{"index": 227720, "D": "pertaining to the beginning of a disease, especially to symptoms that occur in the preliminary stages of mental disease.", "S": [], "A": []}

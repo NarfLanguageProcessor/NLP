@@ -1,0 +1,1 @@
+{"index": 289199, "D": "high-pitched and piercing in sound quality", "S": ["deafening ", "discordant ", "earsplitting ", "noisy ", "piercing ", "raucous ", "sharp ", "strident "], "A": ["calm ", "low ", "mild ", "moderate ", "quiet ", "soft "]}

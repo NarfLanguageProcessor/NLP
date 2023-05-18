@@ -1,0 +1,1 @@
+{"index": 278449, "D": "the pilchard, Sardina pilchardus, often preserved in oil and used for food.", "S": ["crowd ", "load ", "overcrowd ", "pack ", "ram ", "shove ", "squeeze ", "stuff ", "wedge "], "A": ["abstain ", "diet ", "fast ", "let go ", "nibble ", "pull ", "release ", "surrender ", "yield "]}

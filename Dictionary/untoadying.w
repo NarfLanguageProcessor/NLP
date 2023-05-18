@@ -1,0 +1,1 @@
+{"index": 353088, "D": "an obsequious flatterer; sycophant.", "S": [], "A": []}

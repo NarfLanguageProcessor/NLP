@@ -1,0 +1,1 @@
+{"index": 202140, "D": "competence (defs. 1-4). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 262793, "D": "an EU funding programme providing grants for the reconversion or development of depressed mining areas", "S": [], "A": []}

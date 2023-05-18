@@ -1,0 +1,1 @@
+{"index": 257272, "D": [], "S": ["recovered ", "regained ", "reinstated ", "reintegrated ", "restored ", "retrieved "], "A": []}

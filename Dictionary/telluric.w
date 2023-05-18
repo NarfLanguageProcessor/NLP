@@ -1,0 +1,1 @@
+{"index": 318390, "D": "of or relating to the earth; terrestrial.", "S": ["tellurian ", "terrene ", "terrestrial "], "A": []}

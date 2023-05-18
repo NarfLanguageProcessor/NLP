@@ -1,0 +1,1 @@
+{"index": 175034, "D": "a breed of large mountain sheep having horns in both male and female, a trim even fleece, and black face and legs, found only in Lancashire and Derbyshire, England", "S": [], "A": []}

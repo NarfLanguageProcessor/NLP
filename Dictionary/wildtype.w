@@ -1,0 +1,1 @@
+{"index": 365727, "D": "an organism having an appearance that is characteristic of the species in a natural breeding population.", "S": [], "A": []}

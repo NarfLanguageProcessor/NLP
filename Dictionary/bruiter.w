@@ -1,0 +1,1 @@
+{"index": 41724, "D": "to voice abroad; rumor (used chiefly in the passive and often followed by about)", "S": [], "A": []}

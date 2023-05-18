@@ -1,0 +1,1 @@
+{"index": 292610, "D": "an antelope, Tragelaphus spekei, inhabiting marshy regions of central and eastern Africa.", "S": [], "A": []}

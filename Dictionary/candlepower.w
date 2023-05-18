@@ -1,0 +1,1 @@
+{"index": 46218, "D": "(formerly) a measure of luminous intensity expressed in candles. Abbreviation", "S": [], "A": []}

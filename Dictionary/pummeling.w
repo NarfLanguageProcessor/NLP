@@ -1,0 +1,1 @@
+{"index": 256508, "D": "to beat or thrash with or as if with the fists.", "S": ["flogging ", "licking ", "pounding ", "spanking ", "thrashing ", "trouncing "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107912, "D": "tending or serving to explode", "S": ["fiery ", "frenzied ", "hazardous ", "meteoric ", "stormy ", "tense ", "touchy ", "ugly ", "uncontrollable ", "unstable ", "violent "], "A": ["calm ", "controlled ", "gentle ", "laid-back ", "mild ", "moderate ", "safe "]}

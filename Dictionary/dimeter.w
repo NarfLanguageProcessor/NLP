@@ -1,0 +1,1 @@
+{"index": 85861, "D": "a verse or line of two measures or feet, as He is gone on the mountain,/He is lost to the forest.", "S": [], "A": []}

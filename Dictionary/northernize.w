@@ -1,0 +1,1 @@
+{"index": 208629, "D": "to make northern; impart qualities considered typical of the North, especially of the northern part of U.S.", "S": [], "A": []}

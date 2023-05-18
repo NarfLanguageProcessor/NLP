@@ -1,0 +1,1 @@
+{"index": 42686, "D": "a person who avoids work and sponges on others; loafer; idler. ", "S": ["derelict "], "A": []}

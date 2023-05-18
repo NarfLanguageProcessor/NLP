@@ -1,0 +1,1 @@
+{"index": 90201, "D": "having a valence of two, as the ferrous ion, Fe++.", "S": [], "A": []}

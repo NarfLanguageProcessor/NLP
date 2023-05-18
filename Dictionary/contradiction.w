@@ -1,0 +1,1 @@
+{"index": 67605, "D": "the act of contradicting;  gainsaying or opposition.", "S": ["conflict ", "difference ", "disagreement ", "discrepancy ", "dispute ", "inconsistency "], "A": ["accord ", "agreement ", "concurrence ", "consistency ", "harmony ", "likeness ", "peace ", "sameness ", "similarity ", "approval "]}

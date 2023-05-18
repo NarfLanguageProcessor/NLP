@@ -1,0 +1,1 @@
+{"index": 164444, "D": "a device for supporting a bicycle or motorcycle when not in use, pivoted to the rear axle in such a way that it can be kicked  down below the rear wheel.", "S": [], "A": []}

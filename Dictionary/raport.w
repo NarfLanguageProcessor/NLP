@@ -1,0 +1,1 @@
+{"index": 260749, "D": "relation; connection, especially harmonious or sympathetic relation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 93638, "D": "(in names of French derivation) a contraction of de and the article le", "S": [], "A": []}

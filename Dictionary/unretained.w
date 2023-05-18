@@ -1,0 +1,1 @@
+{"index": 349797, "D": "not lost, destroyed, released, sold, or given away; kept", "S": [], "A": []}

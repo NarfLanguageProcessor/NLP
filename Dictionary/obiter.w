@@ -1,0 +1,1 @@
+{"index": 210077, "D": [], "S": ["casually ", "remotely "], "A": ["purposely "]}

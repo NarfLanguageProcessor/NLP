@@ -1,0 +1,1 @@
+{"index": 98434, "D": "to edit or change (a text).", "S": ["alter ", "amend ", "better ", "edit ", "improve ", "polish ", "rectify ", "redact ", "retouch ", "revise ", "right "], "A": ["damage ", "harm ", "injure ", "ruin ", "worsen "]}

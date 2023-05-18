@@ -1,0 +1,1 @@
+{"index": 363269, "D": "any of various iridaceous plants of the genus Watsonia, native to southern Africa, having sword-shaped leaves and spikes of white or reddish flowers.", "S": [], "A": []}

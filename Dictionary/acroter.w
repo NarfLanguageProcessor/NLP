@@ -1,0 +1,1 @@
+{"index": 3054, "D": "a plinth bearing a statue, etc, at either end or at the apex of a pediment", "S": [], "A": []}

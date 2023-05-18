@@ -1,0 +1,1 @@
+{"index": 249881, "D": "pretending or feigning; make-believe", "S": ["charade ", "cloak ", "pretext ", "semblance ", "veneer "], "A": ["reality ", "frankness ", "honesty ", "honor ", "openness ", "quiet ", "simplicity ", "truth ", "truthfulness ", "uprightness "]}

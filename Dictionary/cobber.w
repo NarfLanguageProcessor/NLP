@@ -1,0 +1,1 @@
+{"index": 61191, "D": "a close fellow male friend; chum; pal.", "S": ["ally ", "associate ", "brother ", "bud ", "buddy ", "chum ", "cohort ", "companion ", "comrade ", "confidant ", "confidante ", "crony ", "mate ", "pal ", "partner ", "sidekick "], "A": ["antagonist ", "enemy ", "foe ", "opponent ", "rival ", "stranger "]}

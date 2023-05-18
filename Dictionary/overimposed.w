@@ -1,0 +1,1 @@
+{"index": 219806, "D": "to lay on or set as something to be borne, endured, obeyed, fulfilled, paid, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83800, "D": "skillful or adroit in the use of the hands or body.", "S": ["adroitness ", "agileness ", "agility ", "deftness ", "nimbleness ", "proficiency ", "skill "], "A": []}

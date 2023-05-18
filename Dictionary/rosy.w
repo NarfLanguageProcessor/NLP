@@ -1,0 +1,1 @@
+{"index": 274521, "D": "pink or pinkish-red; roseate.", "S": ["glowing ", "rose-colored "], "A": ["depressing ", "hopeless ", "pale ", "sad "]}

@@ -1,0 +1,1 @@
+{"index": 208533, "D": "the Rule, a small southern constellation between Lupus and Ara.", "S": [], "A": []}

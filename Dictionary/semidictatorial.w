@@ -1,0 +1,1 @@
+{"index": 284088, "D": "of or relating to a dictator  or dictatorship.", "S": [], "A": []}

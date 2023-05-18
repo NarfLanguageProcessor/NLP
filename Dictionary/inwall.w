@@ -1,0 +1,1 @@
+{"index": 157363, "D": "to enclose with a wall. ", "S": [], "A": []}

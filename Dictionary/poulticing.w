@@ -1,0 +1,1 @@
+{"index": 244888, "D": "a soft, moist mass of cloth, bread, meal, herbs, etc., applied hot as a medicament to the body.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 181738, "D": "to proceed by or take a winding or indirect course", "S": ["nomad ", "vagabond "], "A": []}

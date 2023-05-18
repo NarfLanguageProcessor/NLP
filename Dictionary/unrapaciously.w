@@ -1,0 +1,1 @@
+{"index": 349039, "D": "given to seizing for plunder or the satisfaction of greed.", "S": [], "A": []}

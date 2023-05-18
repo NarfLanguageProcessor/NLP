@@ -1,0 +1,1 @@
+{"index": 10164, "D": "an ambush.", "S": ["attack ", "bushwhack ", "ensnare ", "surprise ", "trap ", "waylay "], "A": ["let go ", "release "]}

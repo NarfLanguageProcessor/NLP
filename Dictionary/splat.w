@@ -1,0 +1,1 @@
+{"index": 300375, "D": "a broad, flat piece of wood, either pierced or solid, forming the center upright part of a chair back or the like.", "S": [], "A": []}

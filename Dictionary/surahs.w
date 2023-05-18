@@ -1,0 +1,1 @@
+{"index": 313308, "D": "a soft, twilled silk or rayon fabric.", "S": [], "A": []}

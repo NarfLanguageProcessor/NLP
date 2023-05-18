@@ -1,0 +1,1 @@
+{"index": 95436, "D": "(of leather) crushed to produce a grained effect.", "S": [], "A": []}

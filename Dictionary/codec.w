@@ -1,0 +1,1 @@
+{"index": 61695, "D": "a set of equipment that encodes an analogue speech or video signal into digital form for transmission purposes and at the receiving end decodes the digital signal into a form close to its original", "S": [], "A": []}

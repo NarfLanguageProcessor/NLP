@@ -1,0 +1,1 @@
+{"index": 97446, "D": "a chronic filarial disease resulting in lymphatic obstruction, characterized by marked enlargement of the parts affected, especially of the legs and scrotum, transmitted by mosquitoes.", "S": [], "A": []}

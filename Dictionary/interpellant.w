@@ -1,0 +1,1 @@
+{"index": 155588, "D": "a person who interpellates; interpellator.", "S": [], "A": []}

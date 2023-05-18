@@ -1,0 +1,1 @@
+{"index": 314642, "D": "past participle of swink. ", "S": [], "A": []}

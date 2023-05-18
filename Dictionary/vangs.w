@@ -1,0 +1,1 @@
+{"index": 356968, "D": "a rope extending from the peak of a gaff to the ship's rail or to a mast, used to steady the gaff.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 363998, "D": "the set of attitudes and policies characterizing or tending toward the establishment of a welfare state. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 187633, "D": "any of numerous plants, shrubs, or trees belonging to the genus Mimosa, of the legume family, native to tropical or warm regions, having small flowers in globular heads or cylindrical spikes and often sensitive leaves.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 33671, "D": "having or serving two functions.", "S": [], "A": []}

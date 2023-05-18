@@ -1,0 +1,1 @@
+{"index": 248678, "D": "a person or group that exercises authority or power over another in a harsh and burdensome way", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 89693, "D": "the extent or amount of space between two things, points, lines, etc.", "S": [], "A": []}

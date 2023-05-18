@@ -1,0 +1,1 @@
+{"index": 370058, "D": "a variety of summer squash that is shaped like a cucumber and that has a smooth, dark-green skin.", "S": [], "A": []}

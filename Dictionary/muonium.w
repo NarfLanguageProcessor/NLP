@@ -1,0 +1,1 @@
+{"index": 195641, "D": "an electron and a positively charged muon bound together by electrical attraction in the same manner as the electron and proton in a hydrogen atom.", "S": [], "A": []}

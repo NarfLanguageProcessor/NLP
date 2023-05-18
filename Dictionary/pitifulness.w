@@ -1,0 +1,1 @@
+{"index": 238375, "D": "evoking or deserving pity", "S": ["emotion ", "passion ", "poignancy "], "A": ["cheer ", "glee ", "happiness ", "joy "]}

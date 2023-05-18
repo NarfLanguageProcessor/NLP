@@ -1,0 +1,1 @@
+{"index": 142716, "D": "variant of homo-  before a vowel", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183019, "D": "of, like, or befitting melodrama. ", "S": ["acting ", "dramatics ", "histrionics ", "stagecraft ", "theatrical "], "A": []}

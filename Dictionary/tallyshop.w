@@ -1,0 +1,1 @@
+{"index": 315702, "D": "a store specializing in selling merchandise on the hire-purchase system.", "S": [], "A": []}

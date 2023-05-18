@@ -1,0 +1,1 @@
+{"index": 110500, "D": "characterized by approval or support; positive", "S": [], "A": []}

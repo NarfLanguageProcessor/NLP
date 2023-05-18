@@ -1,0 +1,1 @@
+{"index": 85974, "D": "a small, natural hollow area or crease, permanent or transient, in some soft part of the human body, especially one formed in the cheek in smiling.", "S": [], "A": []}

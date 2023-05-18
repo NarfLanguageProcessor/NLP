@@ -1,0 +1,1 @@
+{"index": 334848, "D": "having reference to something implied or inferred; containing, abounding in, or characterized by allusions. ", "S": [], "A": []}

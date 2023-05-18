@@ -1,0 +1,1 @@
+{"index": 293487, "D": "to lie or keep in hiding, as for some evil reason", "S": ["wimp "], "A": ["aggressor ", "hero "]}

@@ -1,0 +1,1 @@
+{"index": 88068, "D": "unfavorable regard; displeasure; disesteem; dislike", "S": [], "A": []}

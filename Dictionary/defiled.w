@@ -1,0 +1,1 @@
+{"index": 79298, "D": "made foul, dirty, or unclean; polluted or tainted", "S": ["besmirched ", "cooked ", "desecrated ", "dirty ", "dishonored ", "exposed ", "polluted ", "profaned ", "ravished ", "spoilt ", "tainted ", "trashed ", "vitiated "], "A": ["clean ", "pure "]}

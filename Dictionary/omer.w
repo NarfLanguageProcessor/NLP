@@ -1,0 +1,1 @@
+{"index": 212427, "D": "a Hebrew unit of dry measure, the tenth part of an ephah.", "S": [], "A": []}

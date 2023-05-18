@@ -1,0 +1,1 @@
+{"index": 199305, "D": "a person who advocates or adheres to a policy of strict neutrality  in foreign affairs.", "S": [], "A": []}

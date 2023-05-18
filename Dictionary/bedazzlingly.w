@@ -1,0 +1,1 @@
+{"index": 29991, "D": "to impress forcefully, especially so as to make oblivious to faults or shortcomings", "S": [], "A": []}

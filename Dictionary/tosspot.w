@@ -1,0 +1,1 @@
+{"index": 326425, "D": "a habitual drinker of alcohol who is frequently intoxicated.", "S": ["alcoholic ", "bacchanal ", "boozer ", "carouser ", "debauchee ", "dipsomaniac ", "drinker ", "drunk ", "inebriate ", "lush ", "soak ", "sot ", "souse ", "sponge ", "stiff ", "tippler ", "toper ", "wino "], "A": ["abstainer ", "ascetic ", "nephalist ", "teetotaler "]}

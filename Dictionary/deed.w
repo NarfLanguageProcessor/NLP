@@ -1,0 +1,1 @@
+{"index": 78950, "D": "something that is done, performed, or accomplished; an act", "S": ["accomplishment ", "act ", "action ", "adventure ", "fact ", "feat ", "reality ", "truth "], "A": ["cessation ", "failure ", "idleness ", "inaction ", "inactivity ", "inertia ", "lie ", "repose ", "rest ", "stoppage "]}

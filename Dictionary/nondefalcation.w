@@ -1,0 +1,1 @@
+{"index": 202754, "D": "misappropriation of money or funds held by an official, trustee, or other fiduciary.", "S": [], "A": []}

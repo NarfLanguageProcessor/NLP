@@ -1,0 +1,1 @@
+{"index": 253402, "D": "a person or thing that protects; defender; guardian.", "S": ["aegis ", "aid ", "auspices ", "backing ", "patronage ", "sponsor "], "A": ["opposition ", "opponent "]}

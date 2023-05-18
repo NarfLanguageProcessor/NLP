@@ -1,0 +1,1 @@
+{"index": 284853, "D": "having a somewhat religious  character.", "S": [], "A": []}

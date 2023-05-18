@@ -1,0 +1,1 @@
+{"index": 293575, "D": "of, relating to, or like slag. ", "S": [], "A": []}

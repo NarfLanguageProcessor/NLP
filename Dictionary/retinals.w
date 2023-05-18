@@ -1,0 +1,1 @@
+{"index": 270492, "D": "of or relating to the retina  of the eye.", "S": [], "A": []}

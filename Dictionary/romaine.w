@@ -1,0 +1,1 @@
+{"index": 274004, "D": "a variety of lettuce, Lactuca sativa longifolia, having a cylindrical head of long, relatively loose leaves.", "S": [], "A": []}

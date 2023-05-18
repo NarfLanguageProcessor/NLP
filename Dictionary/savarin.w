@@ -1,0 +1,1 @@
+{"index": 279061, "D": "a spongelike cake leavened with yeast, baked in a ring mold, and often soaked with a rum syrup.", "S": [], "A": []}

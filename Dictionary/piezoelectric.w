@@ -1,0 +1,1 @@
+{"index": 236308, "D": "electricity, or electric polarity, produced by the piezoelectric effect. ", "S": [], "A": []}

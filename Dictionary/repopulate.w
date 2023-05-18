@@ -1,0 +1,1 @@
+{"index": 268368, "D": "to provide a new population for (an area in which the population has declined)", "S": ["breed ", "hatch ", "multiply ", "proliferate ", "propagate ", "spawn "], "A": ["decrease ", "destroy ", "kill "]}

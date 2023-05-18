@@ -1,0 +1,1 @@
+{"index": 242350, "D": "a work of art composed of several connected panels.", "S": [], "A": []}

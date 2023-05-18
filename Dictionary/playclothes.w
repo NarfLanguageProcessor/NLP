@@ -1,0 +1,1 @@
+{"index": 238724, "D": "casual, functional clothing worn for sports, games, and other recreational activities, when relaxing at home, for informal occasions, etc.", "S": [], "A": []}

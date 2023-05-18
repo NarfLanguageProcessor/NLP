@@ -1,0 +1,1 @@
+{"index": 334458, "D": "impossible to account for; unexplained; inexplicable", "S": ["arcane ", "impenetrable ", "inexplicable ", "unfathomable ", "unheard-of ", "unintelligible "], "A": ["comprehensible ", "explainable ", "explicable ", "intelligible ", "normal ", "understandable "]}

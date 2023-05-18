@@ -1,0 +1,1 @@
+{"index": 241323, "D": "having a point  or points", "S": ["conciseness ", "concision ", "condensation ", "crispness ", "curtness ", "economy ", "ephemerality ", "impermanence ", "pithiness ", "succinctness ", "terseness ", "transience ", "transitoriness "], "A": ["lengthiness ", "longevity ", "permanence "]}

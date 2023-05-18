@@ -1,0 +1,1 @@
+{"index": 334267, "D": "Compare dieresis (def. 2). ", "S": [], "A": []}

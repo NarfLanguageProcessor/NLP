@@ -1,0 +1,1 @@
+{"index": 267305, "D": "to restore minerals, as calcium salts, to (parts of the body, especially bones or teeth)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 68763, "D": "a palm, Jubaea chilensis, of Chile, from whose sap a honey is prepared and whose small, hard, edible nuts yield a useful oil.", "S": [], "A": []}

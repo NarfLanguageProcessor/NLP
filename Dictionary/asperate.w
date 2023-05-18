@@ -1,0 +1,1 @@
+{"index": 21383, "D": "to make rough, harsh, or uneven", "S": [], "A": []}

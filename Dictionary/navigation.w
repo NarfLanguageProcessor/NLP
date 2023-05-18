@@ -1,0 +1,1 @@
+{"index": 197524, "D": "the act or process of navigating. ", "S": ["boating ", "exploration ", "shipping "], "A": []}

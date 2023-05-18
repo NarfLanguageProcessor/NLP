@@ -1,0 +1,1 @@
+{"index": 55532, "D": "a monetary unit of North Korea, the hundredth part of a won.", "S": [], "A": []}

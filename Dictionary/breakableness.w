@@ -1,0 +1,1 @@
+{"index": 40232, "D": "to smash, split, or divide into parts violently; reduce to pieces or fragments", "S": [], "A": []}

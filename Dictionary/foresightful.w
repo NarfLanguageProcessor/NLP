@@ -1,0 +1,1 @@
+{"index": 116986, "D": "care or provision for the future; provident care; prudence.", "S": [], "A": []}

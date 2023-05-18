@@ -1,0 +1,1 @@
+{"index": 218925, "D": "to laugh at in scorn or contempt; scoff or jeer at; mock.", "S": [], "A": []}

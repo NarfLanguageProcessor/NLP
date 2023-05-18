@@ -1,0 +1,1 @@
+{"index": 314542, "D": "to move around or along with a whirling motion; whirl; eddy.", "S": ["bouncing ", "bouncy ", "bulgy ", "distended ", "ebbing and flowing ", "heaving ", "puffy ", "rippling ", "rising ", "rising and falling ", "rolling ", "swelling ", "swollen ", "undulating ", "waving ", "wavy "], "A": []}

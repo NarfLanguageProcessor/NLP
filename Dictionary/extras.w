@@ -1,0 +1,1 @@
+{"index": 108618, "D": "beyond or more than what is usual, expected, or necessary; additional", "S": ["additions ", "adornments ", "attachments ", "decorations ", "doodads ", "embellishments ", "frills ", "ornaments ", "trimmings "], "A": []}

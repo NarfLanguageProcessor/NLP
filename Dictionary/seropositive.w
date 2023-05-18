@@ -1,0 +1,1 @@
+{"index": 286228, "D": "showing a significant level of serum antibodies, or other immunologic marker in the serum, indicating previous exposure to the infectious agent being tested.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 32654, "D": "to set with or as if with studs;  dot", "S": [], "A": []}

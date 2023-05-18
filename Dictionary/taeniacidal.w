@@ -1,0 +1,1 @@
+{"index": 315170, "D": "an agent that destroys tapeworms.", "S": [], "A": []}

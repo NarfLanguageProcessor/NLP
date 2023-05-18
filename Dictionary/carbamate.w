@@ -1,0 +1,1 @@
+{"index": 47408, "D": "a salt or ester of carbamic acid. ", "S": [], "A": []}

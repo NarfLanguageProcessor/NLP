@@ -1,0 +1,1 @@
+{"index": 89376, "D": "causing, tending to cause, or caused by disruption; disrupting", "S": ["disturbing ", "rowdy ", "troublesome ", "unruly ", "upsetting "], "A": ["calming ", "disciplined ", "settling ", "soothing ", "well-behaved "]}

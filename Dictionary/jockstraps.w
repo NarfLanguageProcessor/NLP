@@ -1,0 +1,1 @@
+{"index": 161482, "D": "an elasticized belt, a men's undergarment, with a pouch for supporting and protecting the genitals, worn especially while participating in athletics.", "S": ["cup ", "jock ", "jock strap ", "jockstrap "], "A": []}

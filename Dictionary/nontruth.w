@@ -1,0 +1,1 @@
+{"index": 208043, "D": "the true  or actual state of a matter", "S": [], "A": []}

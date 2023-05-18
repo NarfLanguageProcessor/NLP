@@ -1,0 +1,1 @@
+{"index": 43612, "D": "a clear, colorless, flammable liquid, C4H8O, used chiefly as an intermediate in the manufacture of resins and rubber cement.", "S": [], "A": []}

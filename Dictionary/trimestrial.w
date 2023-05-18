@@ -1,0 +1,1 @@
+{"index": 330048, "D": "a term or period of three months.", "S": [], "A": []}

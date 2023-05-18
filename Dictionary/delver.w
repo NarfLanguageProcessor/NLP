@@ -1,0 +1,1 @@
+{"index": 80315, "D": "to carry on intensive and thorough research for data, information, or the like; investigate", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 172877, "D": "having the shape of a tongue;  tongue-shaped.", "S": [], "A": []}

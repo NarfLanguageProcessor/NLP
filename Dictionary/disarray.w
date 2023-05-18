@@ -1,0 +1,1 @@
+{"index": 87076, "D": "to put out of array or order; throw into disorder.", "S": ["anarchy ", "chaos ", "disharmony ", "shambles "], "A": ["harmony ", "order ", "organization ", "neatness ", "peace ", "tidiness "]}

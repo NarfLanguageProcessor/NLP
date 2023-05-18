@@ -1,0 +1,1 @@
+{"index": 50985, "D": "moving or directed outward from the center (opposed to centripetal).", "S": [], "A": []}

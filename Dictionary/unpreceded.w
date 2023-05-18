@@ -1,0 +1,1 @@
+{"index": 348270, "D": "the simple past tense and past participle of precede. ", "S": [], "A": []}

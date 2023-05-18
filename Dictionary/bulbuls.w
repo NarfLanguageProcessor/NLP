@@ -1,0 +1,1 @@
+{"index": 42433, "D": "a songbird often mentioned in Persian poetry, regarded as being a nightingale.", "S": [], "A": []}

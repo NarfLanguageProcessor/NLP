@@ -1,0 +1,1 @@
+{"index": 102169, "D": "a richly embroidered, apronlike vestment having two shoulder straps and ornamental attachments for securing the breastplate, worn with a waistband by the high priest. Exodus 28", "S": [], "A": []}

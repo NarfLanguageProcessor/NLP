@@ -1,0 +1,1 @@
+{"index": 159659, "D": "a member of an Indigenous people of the Kolyma river basin of northeastern Siberia.", "S": [], "A": []}

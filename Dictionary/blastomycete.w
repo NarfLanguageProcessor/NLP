@@ -1,0 +1,1 @@
+{"index": 35832, "D": "any yeastlike fungus of the genus Blastomyces, all members of which are pathogenic to humans and other animals.", "S": [], "A": []}

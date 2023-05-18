@@ -1,0 +1,1 @@
+{"index": 203638, "D": "adoption or advocacy, as of a cause or principle.", "S": [], "A": []}

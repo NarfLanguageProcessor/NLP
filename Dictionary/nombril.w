@@ -1,0 +1,1 @@
+{"index": 200854, "D": "the point in an escutcheon between the middle of the base and the fess point.", "S": [], "A": []}

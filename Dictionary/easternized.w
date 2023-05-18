@@ -1,0 +1,1 @@
+{"index": 94930, "D": "to influence with ideas, customs, etc., characteristic of eastern Asia.", "S": [], "A": []}

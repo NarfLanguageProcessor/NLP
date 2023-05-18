@@ -1,0 +1,1 @@
+{"index": 90865, "D": "having dog-ears", "S": ["battered ", "broken-down ", "crumbling ", "damaged ", "decaying ", "decrepit ", "derelict ", "dingy ", "in ruins ", "neglected ", "ramshackle ", "rickety ", "run down ", "seedy ", "shabby ", "unkempt "], "A": ["OK ", "good ", "healthy ", "neat ", "nice ", "repaired ", "sound ", "stable "]}

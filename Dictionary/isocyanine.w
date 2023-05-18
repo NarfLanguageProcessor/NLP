@@ -1,0 +1,1 @@
+{"index": 158866, "D": "a member of the group of cyanine  dyes.", "S": [], "A": []}

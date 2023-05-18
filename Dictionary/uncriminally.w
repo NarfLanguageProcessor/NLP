@@ -1,0 +1,1 @@
+{"index": 338190, "D": "of the nature of or involving crime. ", "S": [], "A": []}

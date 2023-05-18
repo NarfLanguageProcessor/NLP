@@ -1,0 +1,1 @@
+{"index": 313511, "D": "a goatfish, especially one of the European species used for food.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 15354, "D": "(of a protagonist) possessing the characteristics of an anti-hero.", "S": [], "A": []}

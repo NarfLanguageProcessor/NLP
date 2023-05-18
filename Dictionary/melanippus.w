@@ -1,0 +1,1 @@
+{"index": 182707, "D": "a Theban who killed Tydeus in the battle of the Seven against Thebes and who was, in turn, slain by Amphiaraus.", "S": [], "A": []}

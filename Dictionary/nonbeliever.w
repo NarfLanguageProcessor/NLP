@@ -1,0 +1,1 @@
+{"index": 201630, "D": "a person who lacks belief or faith, as in God, a religion, an idea, or an undertaking.", "S": ["agnostic ", "atheist ", "doubter ", "heathen ", "infidel ", "pagan ", "skeptic "], "A": ["believer "]}

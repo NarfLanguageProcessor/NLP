@@ -1,0 +1,1 @@
+{"index": 97101, "D": "any substance that dissociates into ions when dissolved in a suitable medium or melted and thus forms a conductor of electricity.", "S": [], "A": []}

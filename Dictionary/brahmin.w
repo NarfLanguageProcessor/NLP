@@ -1,0 +1,1 @@
+{"index": 39682, "D": "Brahman1 (def. 1). ", "S": ["courteous ", "elegant ", "genteel ", "polite "], "A": ["impolite ", "rough ", "rude ", "uncivil ", "unmannerly ", "unrefined ", "unsophisticated "]}

@@ -1,0 +1,1 @@
+{"index": 44015, "D": "a leather made from the skins of sheep that grow hair rather than wool, tougher than other sheepskins and used chiefly for gloves and shoes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 114437, "D": "a hook  for use in lifting meat, as from a pot.", "S": [], "A": []}

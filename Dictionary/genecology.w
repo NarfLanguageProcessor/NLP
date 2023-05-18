@@ -1,0 +1,1 @@
+{"index": 123431, "D": "the study of the gene frequency of a species in relation to its population distribution within a particular environment", "S": [], "A": []}

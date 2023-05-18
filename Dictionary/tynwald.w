@@ -1,0 +1,1 @@
+{"index": 324138, "D": "the legislature of the Isle of Man, consisting of the lieutenant governor, the council, and the House of Keys.", "S": [], "A": []}

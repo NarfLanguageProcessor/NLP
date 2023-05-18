@@ -1,0 +1,1 @@
+{"index": 23924, "D": "(of a church) having its own head or chief bishop, though in communion with other Orthodox churches.", "S": [], "A": []}

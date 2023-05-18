@@ -1,0 +1,1 @@
+{"index": 85507, "D": "characterized or marked by dignity of aspect or manner; stately; decorous", "S": ["courtly ", "distinguished ", "formal ", "grand ", "magnificent ", "noble ", "solemn ", "somber ", "stately "], "A": ["common ", "ignoble ", "informal ", "insignificant ", "ordinary ", "undignified ", "unimpressive ", "unrefined "]}

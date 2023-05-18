@@ -1,0 +1,1 @@
+{"index": 6844, "D": "a bag mounted in the interior of a motor vehicle, cushioning the seat occupant by inflating automatically in the event of collision.", "S": [], "A": []}

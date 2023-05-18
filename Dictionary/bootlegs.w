@@ -1,0 +1,1 @@
+{"index": 38265, "D": "alcoholic liquor unlawfully made, sold, or transported, without registration or payment of taxes.", "S": ["bootleg ", "firewater ", "hooch ", "rotgut "], "A": []}

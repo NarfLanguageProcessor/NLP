@@ -1,0 +1,1 @@
+{"index": 201522, "D": "pertaining to or resulting from association.", "S": [], "A": []}

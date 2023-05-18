@@ -1,0 +1,1 @@
+{"index": 37461, "D": "a blackberrylike fruit with a flavor similar to that of raspberries, developed by crossing various plants of the genus Rubus.", "S": [], "A": []}

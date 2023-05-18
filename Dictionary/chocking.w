@@ -1,0 +1,1 @@
+{"index": 55279, "D": "a wedge or block of wood, metal, or the like, for filling in a space, holding an object steady, etc.", "S": ["carry ", "cram ", "fill ", "lade ", "pack ", "pile ", "stack ", "store ", "stuff "], "A": ["use ", "abstain ", "diet ", "disarrange ", "disorder ", "fast ", "lose "]}

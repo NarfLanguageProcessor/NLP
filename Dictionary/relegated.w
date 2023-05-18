@@ -1,0 +1,1 @@
+{"index": 266825, "D": "sent or consigned to a lower position, place, or condition", "S": ["consign ", "entrust ", "refer "], "A": ["deny ", "disapprove ", "keep "]}

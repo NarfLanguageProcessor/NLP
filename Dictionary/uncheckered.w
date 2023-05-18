@@ -1,0 +1,1 @@
+{"index": 336785, "D": "marked by numerous and various shifts or changes; variegated", "S": [], "A": []}

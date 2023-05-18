@@ -1,0 +1,1 @@
+{"index": 139146, "D": "a sacred symbol, as an emblem, pictograph, or the like.", "S": [], "A": []}

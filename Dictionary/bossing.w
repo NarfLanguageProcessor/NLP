@@ -1,0 +1,1 @@
+{"index": 38626, "D": "the act of shaping malleable metal, such as lead cladding, with mallets to fit a surface", "S": ["capital ", "champion ", "fine ", "fly ", "top "], "A": ["lousy ", "terrible "]}

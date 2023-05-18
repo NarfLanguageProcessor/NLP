@@ -1,0 +1,1 @@
+{"index": 295755, "D": "of or relating to snot. ", "S": ["cheeky ", "cocky ", "conceited ", "fresh ", "haughty ", "high-and-mighty ", "highfalutin ", "impertinent ", "know-it-all ", "la-di-da ", "pompous ", "pretentious ", "puffed-up ", "sassy ", "self-important ", "smart-alecky ", "smug ", "snippy ", "snobby ", "snooty ", "stuck-up ", "uppity "], "A": []}

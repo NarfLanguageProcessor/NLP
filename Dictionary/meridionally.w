@@ -1,0 +1,1 @@
+{"index": 183801, "D": "of, relating to, or resembling a meridian. ", "S": [], "A": []}

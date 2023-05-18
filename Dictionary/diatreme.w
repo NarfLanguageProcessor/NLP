@@ -1,0 +1,1 @@
+{"index": 84620, "D": "a volcanic vent produced in a solid rock structure by the explosive energy of gases in magmas.", "S": [], "A": []}

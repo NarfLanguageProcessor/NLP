@@ -1,0 +1,1 @@
+{"index": 131918, "D": "plural of heder. ", "S": [], "A": []}

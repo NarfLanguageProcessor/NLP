@@ -1,0 +1,1 @@
+{"index": 49898, "D": "(no longer in technical use) Caucasian (defs. 1, 5). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 7362, "D": "an avenging spirit or deity frequently evoked in Greek tragedy; a male Nemesis.", "S": [], "A": []}

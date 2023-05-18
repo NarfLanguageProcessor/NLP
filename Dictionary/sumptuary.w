@@ -1,0 +1,1 @@
+{"index": 311011, "D": "pertaining to, dealing with, or regulating expense or expenditure.", "S": [], "A": []}

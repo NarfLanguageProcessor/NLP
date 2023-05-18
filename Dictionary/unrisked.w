@@ -1,0 +1,1 @@
+{"index": 350002, "D": "exposure to the chance of injury or loss; a hazard or dangerous chance", "S": [], "A": []}

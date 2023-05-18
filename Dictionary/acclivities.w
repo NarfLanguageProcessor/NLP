@@ -1,0 +1,1 @@
+{"index": 1615, "D": "an upward slope, as of ground; an ascent (opposed to declivity).", "S": ["elevation ", "hill ", "rise ", "upgrade "], "A": []}

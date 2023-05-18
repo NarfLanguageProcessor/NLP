@@ -1,0 +1,1 @@
+{"index": 261732, "D": "grasped or understood", "S": ["comprehend ", "get ", "grasp ", "know ", "recognize ", "think ", "understand "], "A": ["disbelieve ", "forget ", "misinterpret ", "miss ", "mistake ", "misunderstand ", "disregard ", "lose "]}

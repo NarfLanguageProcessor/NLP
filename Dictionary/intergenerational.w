@@ -1,0 +1,1 @@
+{"index": 154999, "D": "of, relating to, or for individuals in different generations  or age categories", "S": [], "A": []}

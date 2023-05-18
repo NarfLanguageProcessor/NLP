@@ -1,0 +1,1 @@
+{"index": 137605, "D": "spelling different from that in current use.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 292597, "D": "an ancient Egyptian percussion instrument consisting of a looped metal frame set in a handle and fitted with loose crossbars that rattle when shaken.", "S": [], "A": []}

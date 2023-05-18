@@ -1,0 +1,1 @@
+{"index": 335193, "D": "arched  work or formation.", "S": [], "A": []}

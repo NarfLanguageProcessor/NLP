@@ -1,0 +1,1 @@
+{"index": 270641, "D": "a person or thing that retracts. ", "S": [], "A": []}

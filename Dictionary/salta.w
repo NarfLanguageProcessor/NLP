@@ -1,0 +1,1 @@
+{"index": 277250, "D": "a game for two, resembling Chinese checkers, played on a board with 100 squares.", "S": [], "A": []}

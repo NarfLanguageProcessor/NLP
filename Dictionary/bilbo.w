@@ -1,0 +1,1 @@
+{"index": 33876, "D": "a long iron bar or bolt with sliding shackles and a lock, formerly attached to the ankles of prisoners.", "S": ["blade ", "dagger ", "weapon "], "A": []}

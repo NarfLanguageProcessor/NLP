@@ -1,0 +1,1 @@
+{"index": 13110, "D": "a West Indian shrub, Indigofera suffruticosa, of the legume family, having elongated clusters of small, reddish-yellow flowers and yielding indigo.", "S": [], "A": []}

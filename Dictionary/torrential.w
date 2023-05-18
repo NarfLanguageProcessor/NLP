@@ -1,0 +1,1 @@
+{"index": 326247, "D": "pertaining to or having the nature of a torrent. ", "S": ["teeming "], "A": []}

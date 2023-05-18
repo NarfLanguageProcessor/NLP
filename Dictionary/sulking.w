@@ -1,0 +1,1 @@
+{"index": 310551, "D": "to remain silent or hold oneself aloof in a sullen, ill-humored, or offended mood", "S": ["brooding ", "mean ", "moody ", "sour "], "A": ["cheerful ", "happy "]}

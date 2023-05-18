@@ -1,0 +1,1 @@
+{"index": 105843, "D": "the Basque language.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 165734, "D": "to perceive or understand as fact or truth; to apprehend clearly and with certainty", "S": ["appreciate ", "experience ", "have ", "learn ", "notice ", "perceive ", "realize ", "recognize ", "see "], "A": ["ignore ", "miss ", "misunderstand ", "neglect ", "overlook ", "confuse ", "mix up "]}

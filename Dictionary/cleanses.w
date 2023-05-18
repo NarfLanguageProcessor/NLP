@@ -1,0 +1,1 @@
+{"index": 59639, "D": "to make clean.", "S": ["disinfect ", "purge ", "restore ", "sanitize "], "A": ["adulterate ", "condemn ", "corrupt ", "dirty ", "pollute ", "sentence "]}

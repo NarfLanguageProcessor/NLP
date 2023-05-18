@@ -1,0 +1,1 @@
+{"index": 203312, "D": "deceitfulness in speech or conduct, as by speaking or acting in two different ways to different people concerning the same matter; double-dealing. ", "S": [], "A": []}

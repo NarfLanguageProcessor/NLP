@@ -1,0 +1,1 @@
+{"index": 363560, "D": "the state or condition of being physically or mentally exhausted by hard work, exertion, strain, etc.; tiredness; fatigue", "S": ["tiredness "], "A": []}

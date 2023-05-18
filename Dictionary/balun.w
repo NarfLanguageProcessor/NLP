@@ -1,0 +1,1 @@
+{"index": 27173, "D": "a device for converting a balanced line  into an unbalanced  line and vice versa.", "S": [], "A": []}

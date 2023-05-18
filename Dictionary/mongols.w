@@ -1,0 +1,1 @@
+{"index": 191935, "D": "a member of a pastoral people now living chiefly in Mongolia.", "S": [], "A": []}

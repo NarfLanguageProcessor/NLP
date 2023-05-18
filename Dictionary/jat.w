@@ -1,0 +1,1 @@
+{"index": 160564, "D": "a member of an Indo-Aryan people living mainly in northwestern India. In early times they offered vigorous resistance to the Muslim invaders of India.", "S": [], "A": []}

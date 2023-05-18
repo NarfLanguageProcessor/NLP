@@ -1,0 +1,1 @@
+{"index": 131597, "D": "having a great deal of courage or nerve", "S": ["courageous ", "determined ", "gallant ", "spirited ", "valiant "], "A": ["afraid ", "cowardly ", "fearful ", "timid ", "weak "]}

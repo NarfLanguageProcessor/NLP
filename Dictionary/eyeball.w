@@ -1,0 +1,1 @@
+{"index": 96353, "D": "the ball or globe of the eye.", "S": ["blinder ", "headlight ", "lamp ", "ocular ", "oculus ", "optic ", "peeper ", "pie "], "A": []}

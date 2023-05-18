@@ -1,0 +1,1 @@
+{"index": 126938, "D": "to feed or fill to satiety; sate", "S": ["oversupply ", "saturation ", "surplus "], "A": ["lack ", "need ", "want "]}

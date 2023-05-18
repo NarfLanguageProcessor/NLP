@@ -1,0 +1,1 @@
+{"index": 27204, "D": "deceived through trickery, flattery, or the like; hoodwinked", "S": ["beguiled ", "bilked ", "burned ", "conned ", "deceived ", "duped ", "gypped ", "hoodwinked ", "swindled ", "tricked ", "victimized "], "A": []}

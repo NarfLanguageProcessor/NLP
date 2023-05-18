@@ -1,0 +1,1 @@
+{"index": 269484, "D": "to form (a material or abstract entity) by combining parts or elements (opposed to analyze)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 81351, "D": "possessing or bearing teeth.", "S": [], "A": []}

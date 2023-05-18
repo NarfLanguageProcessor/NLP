@@ -1,0 +1,1 @@
+{"index": 173553, "D": "a unit of capacity redefined in 1964 by a reduction of 28 parts in a million to be exactly equal to one cubic decimeter. It is equivalent to 1.0567 U.S. liquid quarts and is equal to the volume of one kilogram of distilled water at 4\u00b0C. Abbreviation", "S": [], "A": []}

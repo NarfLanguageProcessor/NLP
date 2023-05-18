@@ -1,0 +1,1 @@
+{"index": 364985, "D": "something that whirls or revolves.", "S": ["spinning ", "whirling "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310284, "D": "the intentional taking of one's own life.", "S": ["hara-kiri ", "m\u00e9lange ", "self-destruction ", "self-immolation ", "seppuku "], "A": []}

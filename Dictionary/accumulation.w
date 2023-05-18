@@ -1,0 +1,1 @@
+{"index": 1824, "D": "act or state of accumulating;  state of being accumulated. ", "S": ["accretion ", "aggregation ", "buildup ", "growth ", "inflation ", "pile ", "quantity "], "A": ["decrease ", "shrinkage ", "lessening ", "loss ", "reduction ", "subtraction "]}

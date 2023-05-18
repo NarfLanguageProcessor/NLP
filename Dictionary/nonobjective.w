@@ -1,0 +1,1 @@
+{"index": 205540, "D": "not objective. ", "S": ["abstract ", "biased ", "idiosyncratic ", "illusory ", "instinctive ", "intuitive ", "personal "], "A": ["meditated ", "real "]}

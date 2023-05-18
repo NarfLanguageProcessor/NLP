@@ -1,0 +1,1 @@
+{"index": 79062, "D": "to mar the surface or appearance of; disfigure", "S": [], "A": []}

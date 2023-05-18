@@ -1,0 +1,1 @@
+{"index": 82250, "D": "skinlike; dermatoid.", "S": [], "A": []}

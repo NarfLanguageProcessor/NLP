@@ -1,0 +1,1 @@
+{"index": 41592, "D": "thin soup of concentrated meat or fish stock.", "S": [], "A": []}

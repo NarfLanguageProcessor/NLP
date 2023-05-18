@@ -1,0 +1,1 @@
+{"index": 195284, "D": "to make many or manifold; increase the number, quantity, etc., of.", "S": ["aggregate ", "increasing "], "A": ["decreasing ", "subtracting "]}

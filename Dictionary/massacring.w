@@ -1,0 +1,1 @@
+{"index": 180759, "D": "the unnecessary, indiscriminate killing of a large number of human beings or animals, as in barbarous warfare or persecution or for revenge or plunder.", "S": ["assassination ", "bloodbath ", "bloodshed ", "carnage ", "extermination ", "genocide ", "murder ", "slaughter ", "slaying "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 235297, "D": "(esp of plants) growing best in strong light", "S": [], "A": []}

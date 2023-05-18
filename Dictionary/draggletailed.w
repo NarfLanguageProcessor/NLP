@@ -1,0 +1,1 @@
+{"index": 92543, "D": "untidy; bedraggled; slovenly.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 268622, "D": "something that is proclaimed;  a public and official announcement.", "S": [], "A": []}

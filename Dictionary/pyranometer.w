@@ -1,0 +1,1 @@
+{"index": 237609, "D": "physics another name for solarimeter", "S": [], "A": []}

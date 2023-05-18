@@ -1,0 +1,1 @@
+{"index": 238316, "D": "of or relating to Delphi, in ancient Greece.", "S": [], "A": []}

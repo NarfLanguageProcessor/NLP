@@ -1,0 +1,1 @@
+{"index": 213177, "D": "a mineral, an amorphous form of silica, SiO2 with some water of hydration, found in many varieties and colors, including a form that is milky white.", "S": [], "A": []}

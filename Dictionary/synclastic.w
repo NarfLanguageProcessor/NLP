@@ -1,0 +1,1 @@
+{"index": 291439, "D": "(of a surface) having principal curvatures of similar sign at a given point.", "S": [], "A": []}

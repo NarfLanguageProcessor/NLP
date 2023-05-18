@@ -1,0 +1,1 @@
+{"index": 88442, "D": "a temporary loss of inhibition  caused by an outside stimulus.", "S": [], "A": []}

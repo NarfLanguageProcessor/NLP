@@ -1,0 +1,1 @@
+{"index": 309453, "D": "an artifice or expedient used to evade a rule, escape a consequence, hide something, etc.", "S": ["bluff ", "ploy ", "stratagem "], "A": ["frankness ", "honesty "]}

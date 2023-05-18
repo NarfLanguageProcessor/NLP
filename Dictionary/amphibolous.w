@@ -1,0 +1,1 @@
+{"index": 11077, "D": "ambiguous or equivocal, especially when due to the uncertain grammatical construction of a word or phrase.", "S": [], "A": []}

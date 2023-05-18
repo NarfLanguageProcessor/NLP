@@ -1,0 +1,1 @@
+{"index": 330512, "D": "a geometrical figure having three points, especially one formed of three intersecting ellipses", "S": [], "A": []}

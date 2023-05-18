@@ -1,0 +1,1 @@
+{"index": 152265, "D": "breach; violation; infringement", "S": ["breach ", "crime ", "error ", "infringement ", "lapse ", "offense ", "sin ", "transgression "], "A": ["behavior ", "kindness ", "obedience ", "right "]}

@@ -1,0 +1,1 @@
+{"index": 247222, "D": "the state of being embarrassed;  disconcertment; abashment.", "S": [], "A": []}

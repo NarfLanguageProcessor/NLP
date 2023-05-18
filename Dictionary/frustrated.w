@@ -1,0 +1,1 @@
+{"index": 119666, "D": "disappointed; thwarted", "S": ["balked ", "crabbed ", "cramped ", "crimped ", "defeated ", "discontented ", "discouraged ", "disheartened ", "embittered ", "foiled ", "irked ", "stonewalled ", "stymied "], "A": ["encourage ", "fulfilled ", "inspirited ", "stimulated ", "uplifted "]}

@@ -1,0 +1,1 @@
+{"index": 263770, "D": "to recover from sickness or exhaustion; regain health or strength.", "S": ["bounce back ", "convalesce ", "get well ", "heal ", "mend ", "recover "], "A": ["deteriorate ", "hurt ", "lose "]}

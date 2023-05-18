@@ -1,0 +1,1 @@
+{"index": 211627, "D": "to make official;  place under official  authority or control.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 319114, "D": "the holding or possessing of anything", "S": [], "A": []}

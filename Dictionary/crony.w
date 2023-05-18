@@ -1,0 +1,1 @@
+{"index": 73658, "D": "a close friend or companion; chum.", "S": ["accomplice ", "acquaintance ", "associate ", "buddy ", "chum ", "colleague ", "comrade ", "confidant "], "A": ["antagonist ", "enemy ", "foe ", "opponent ", "stranger "]}

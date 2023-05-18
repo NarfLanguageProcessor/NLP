@@ -1,0 +1,1 @@
+{"index": 246912, "D": "an unpleasantly difficult, perplexing, or dangerous situation.", "S": [], "A": []}

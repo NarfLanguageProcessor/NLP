@@ -1,0 +1,1 @@
+{"index": 352317, "D": "in a concise or verbally brief manner", "S": [], "A": []}

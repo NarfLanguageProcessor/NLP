@@ -1,0 +1,1 @@
+{"index": 160830, "D": "to congeal; become jellylike in consistency.", "S": ["crystallize ", "materialize "], "A": ["displace ", "liquefy ", "loosen ", "melt ", "remove ", "separate ", "soften ", "thin "]}

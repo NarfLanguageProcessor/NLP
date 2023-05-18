@@ -1,0 +1,1 @@
+{"index": 340383, "D": "tending to delay or procrastinate; slow; tardy.", "S": [], "A": []}

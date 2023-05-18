@@ -1,0 +1,1 @@
+{"index": 308073, "D": "of or relating to geometry or to the principles of geometry.", "S": [], "A": []}

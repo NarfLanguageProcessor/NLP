@@ -1,0 +1,1 @@
+{"index": 291233, "D": "vowel elision, esp as it arises when one word ends in a vowel and the following word begins with one", "S": [], "A": []}

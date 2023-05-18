@@ -1,0 +1,1 @@
+{"index": 133717, "D": "(of a terminal) connected to a computer by a direct circuit rather than through a switching network.", "S": [], "A": []}

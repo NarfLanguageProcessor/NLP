@@ -1,0 +1,1 @@
+{"index": 366533, "D": "the art or practices of a witch; sorcery; magic.", "S": ["black magic ", "occult ", "voodoo "], "A": ["reality "]}

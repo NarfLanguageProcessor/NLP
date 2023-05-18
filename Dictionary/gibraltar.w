@@ -1,0 +1,1 @@
+{"index": 124708, "D": "a British crown colony comprising a fortress and seaport located on a narrow promontory near the southern tip of Spain. 1.875 sq. mi. (5 sq. km).", "S": [], "A": []}

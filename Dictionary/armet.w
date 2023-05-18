@@ -1,0 +1,1 @@
+{"index": 19915, "D": "a completely enclosed helmet having a visor and hinged cheek pieces fastened under the chin.", "S": [], "A": []}

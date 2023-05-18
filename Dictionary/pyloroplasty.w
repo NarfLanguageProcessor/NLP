@@ -1,0 +1,1 @@
+{"index": 236754, "D": "the surgical alteration of the pylorus,  usually a widening to facilitate the passage of food from the stomach to the duodenum.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 294854, "D": "a very small amount or part", "S": ["iota ", "ounce ", "shred "], "A": ["lot ", "entirety ", "total ", "whole "]}

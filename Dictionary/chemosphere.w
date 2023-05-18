@@ -1,0 +1,1 @@
+{"index": 53751, "D": "the region of the atmosphere most characterized by chemical, especially photochemical, activity, starting in the stratosphere and including the mesosphere and perhaps part of the thermosphere.", "S": [], "A": []}

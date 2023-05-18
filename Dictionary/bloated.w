@@ -1,0 +1,1 @@
+{"index": 36332, "D": "swollen; puffed up; overlarge.", "S": ["distended ", "tumefied "], "A": ["deflated ", "shrunken "]}

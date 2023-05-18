@@ -1,0 +1,1 @@
+{"index": 306913, "D": "slowed or stopped abnormally in growth or development.", "S": ["dwarf ", "dwarfed ", "scrub ", "short ", "shot ", "shrimp ", "wee "], "A": ["large "]}

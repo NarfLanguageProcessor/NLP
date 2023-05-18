@@ -1,0 +1,1 @@
+{"index": 353450, "D": "to make or become swollen or tumid.", "S": [], "A": []}

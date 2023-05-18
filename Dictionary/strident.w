@@ -1,0 +1,1 @@
+{"index": 306233, "D": "making or having a harsh sound; grating; creaking", "S": ["blatant ", "jarring ", "loud ", "raucous ", "vociferous "], "A": ["quiet ", "silent ", "soft ", "subdued "]}

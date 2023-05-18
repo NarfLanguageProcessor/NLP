@@ -1,0 +1,1 @@
+{"index": 74088, "D": "a cross with the figure of Jesus crucified  upon it.", "S": [], "A": []}

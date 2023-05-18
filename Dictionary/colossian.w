@@ -1,0 +1,1 @@
+{"index": 63386, "D": "a native or inhabitant of Colossae.", "S": [], "A": []}

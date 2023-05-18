@@ -1,0 +1,1 @@
+{"index": 232955, "D": "imagination, especially when extravagant and unrestrained.", "S": [], "A": []}

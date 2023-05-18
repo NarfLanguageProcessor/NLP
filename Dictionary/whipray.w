@@ -1,0 +1,1 @@
+{"index": 364936, "D": "any ray  having a long, whiplike tail, especially a stingray.", "S": [], "A": []}

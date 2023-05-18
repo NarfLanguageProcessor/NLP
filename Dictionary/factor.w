@@ -1,0 +1,1 @@
+{"index": 109066, "D": "one of the elements contributing to a particular result or situation", "S": ["aspect ", "cause ", "circumstance ", "component ", "consideration ", "element ", "influence ", "ingredient ", "part ", "point ", "thing "], "A": ["whole "]}

@@ -1,0 +1,1 @@
+{"index": 202966, "D": "having or characterized by desire; desiring", "S": [], "A": []}

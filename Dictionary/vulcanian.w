@@ -1,0 +1,1 @@
+{"index": 361522, "D": "of, relating to, or associated with Vulcan.", "S": [], "A": []}

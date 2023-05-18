@@ -1,0 +1,1 @@
+{"index": 262566, "D": "to make void, as a contract or other obligation; annul", "S": [], "A": []}

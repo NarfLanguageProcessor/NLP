@@ -1,0 +1,1 @@
+{"index": 310018, "D": "pertaining to or causing sweating.", "S": [], "A": []}

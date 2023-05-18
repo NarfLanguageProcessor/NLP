@@ -1,0 +1,1 @@
+{"index": 206408, "D": "the following or carrying out of some plan, course, injunction, or the like.", "S": [], "A": []}

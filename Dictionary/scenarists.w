@@ -1,0 +1,1 @@
+{"index": 279954, "D": "a writer of motion-picture or television scenarios. ", "S": ["author ", "dramatist ", "librettist ", "tragedian ", "writer "], "A": []}

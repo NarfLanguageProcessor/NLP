@@ -1,0 +1,1 @@
+{"index": 155323, "D": "being, situated, or acting between two points, stages, things, persons, etc.", "S": ["broker ", "emissary ", "go-between ", "mediator ", "negotiator "], "A": ["end "]}

@@ -1,0 +1,1 @@
+{"index": 75971, "D": "a small, freshwater cyprinoid fish, Leuciscus leuciscus, of Europe, having a stout, fusiform body.", "S": [], "A": []}

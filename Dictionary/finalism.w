@@ -1,0 +1,1 @@
+{"index": 112844, "D": "the doctrine or belief that all events are determined by their purposes or goals.", "S": [], "A": []}

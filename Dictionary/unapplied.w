@@ -1,0 +1,1 @@
+{"index": 335117, "D": "having a practical purpose or use; derived from or involved with actual phenomena (distinguished from theoretical, opposed to pure)", "S": ["theoretical ", "visionary "], "A": ["real "]}

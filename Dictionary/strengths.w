@@ -1,0 +1,1 @@
+{"index": 306065, "D": "the quality or state of being strong; bodily or muscular power. ", "S": ["clout ", "courage ", "durability ", "energy ", "firmness ", "fortitude ", "health ", "power ", "stability ", "tenacity ", "toughness ", "vigor ", "vitality "], "A": ["cowardice ", "idleness ", "inactivity ", "infirmity ", "instability ", "lethargy ", "weakness ", "powerlessness "]}

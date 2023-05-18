@@ -1,0 +1,1 @@
+{"index": 348972, "D": "to shake with a slight but rapid motion; vibrate tremulously; tremble. ", "S": [], "A": []}

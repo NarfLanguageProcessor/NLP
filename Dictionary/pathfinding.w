@@ -1,0 +1,1 @@
+{"index": 227702, "D": "a person who finds or makes a path,  way, route, etc., especially through a previously unexplored or untraveled wilderness.", "S": [], "A": []}

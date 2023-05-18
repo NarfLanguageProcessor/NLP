@@ -1,0 +1,1 @@
+{"index": 329645, "D": "a genus of giant clams inhabiting reefs in the South Pacific, attaining a diameter of 4 feet (1.2 meters) or more, and weighing over 500 pounds (227 kilograms).", "S": [], "A": []}

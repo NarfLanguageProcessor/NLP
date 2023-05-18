@@ -1,0 +1,1 @@
+{"index": 30507, "D": "to fool; deceive; dupe.", "S": [], "A": []}

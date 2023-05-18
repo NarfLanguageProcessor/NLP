@@ -1,0 +1,1 @@
+{"index": 104794, "D": "a stand with a series of open shelves for small objects, bric-a-brac, etc.", "S": [], "A": []}

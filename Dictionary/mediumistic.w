@@ -1,0 +1,1 @@
+{"index": 182219, "D": "pertaining to a spiritualistic medium. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332277, "D": "to fall helplessly down, end over end, as by losing one's footing, support, or equilibrium; plunge headlong", "S": ["descend ", "dip ", "drop ", "flop ", "go down ", "nose-dive ", "plummet ", "plunge ", "sag ", "skid ", "slip ", "slump ", "spill ", "stumble ", "topple "], "A": ["ascend ", "go up ", "increase ", "rise ", "order "]}

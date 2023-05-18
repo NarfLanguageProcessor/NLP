@@ -1,0 +1,1 @@
+{"index": 125505, "D": "a member of the U.S. Marine Corps.", "S": [], "A": []}

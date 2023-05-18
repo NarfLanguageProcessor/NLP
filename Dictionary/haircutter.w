@@ -1,0 +1,1 @@
+{"index": 132390, "D": "an act or instance of cutting  the hair. ", "S": [], "A": []}

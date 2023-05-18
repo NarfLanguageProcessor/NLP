@@ -1,0 +1,1 @@
+{"index": 148579, "D": "not permeable; impassable.", "S": [], "A": []}

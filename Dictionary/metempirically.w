@@ -1,0 +1,1 @@
+{"index": 185094, "D": "beyond or outside the field of experience.", "S": [], "A": []}

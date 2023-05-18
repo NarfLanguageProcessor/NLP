@@ -1,0 +1,1 @@
+{"index": 26656, "D": "a close-fitting, knitted cap that covers the head, neck, and tops of the shoulders, worn especially by mountain climbers, soldiers, skiers, etc.", "S": [], "A": []}

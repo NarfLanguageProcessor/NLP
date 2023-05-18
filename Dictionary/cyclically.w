@@ -1,0 +1,1 @@
+{"index": 57105, "D": "cyclic. ", "S": ["always ", "constantly ", "continually ", "daily ", "exactly ", "incessantly ", "normally ", "periodically ", "steadily ", "typically "], "A": ["never "]}

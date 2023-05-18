@@ -1,0 +1,1 @@
+{"index": 311993, "D": "(in ancient Rome) the gods.", "S": [], "A": []}

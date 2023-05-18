@@ -1,0 +1,1 @@
+{"index": 12707, "D": [], "S": ["archangel ", "cherub ", "guardian ", "seraph ", "spirit ", "sprite "], "A": ["demon ", "devil ", "fiend "]}

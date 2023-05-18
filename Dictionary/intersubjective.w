@@ -1,0 +1,1 @@
+{"index": 156021, "D": "comprehensible to, relating to, or used by a number of persons, as a concept or language.", "S": [], "A": []}

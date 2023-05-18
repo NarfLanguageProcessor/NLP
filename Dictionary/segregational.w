@@ -1,0 +1,1 @@
+{"index": 283238, "D": "the act or practice of segregating;  a setting apart or separation of people or things from others or from the main body or group", "S": [], "A": []}

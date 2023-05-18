@@ -1,0 +1,1 @@
+{"index": 23784, "D": "a filmmaker whose individual style and complete control over all elements of production give a film its personal and unique stamp.", "S": [], "A": []}

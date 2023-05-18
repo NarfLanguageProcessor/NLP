@@ -1,0 +1,1 @@
+{"index": 271221, "D": "a feeling or attitude of deep respect tinged with awe; veneration.", "S": [], "A": []}

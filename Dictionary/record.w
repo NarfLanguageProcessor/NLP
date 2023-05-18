@@ -1,0 +1,1 @@
+{"index": 263489, "D": "to set down in writing or the like, as for the purpose of preserving evidence.", "S": ["document ", "evidence ", "file ", "history ", "note ", "report ", "story ", "testimony ", "transcript "], "A": ["loss "]}

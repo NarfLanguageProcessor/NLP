@@ -1,0 +1,1 @@
+{"index": 126611, "D": "very great praise, honor, or distinction bestowed by common consent; renown", "S": ["celebrity ", "dignity ", "grandeur ", "greatness ", "honor ", "immortality ", "majesty ", "prestige ", "reputation ", "splendor ", "triumph "], "A": ["ill repute ", "insignificance ", "lowliness ", "unimportance ", "blame ", "condemnation ", "criticism "]}

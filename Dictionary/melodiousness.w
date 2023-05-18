@@ -1,0 +1,1 @@
+{"index": 182997, "D": "of the nature of or characterized by melody;  tuneful.", "S": ["arrangement ", "chord ", "composition ", "melody ", "tune ", "unity "], "A": ["disagreement ", "discord ", "disharmony "]}

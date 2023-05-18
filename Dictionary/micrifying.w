@@ -1,0 +1,1 @@
+{"index": 185883, "D": "to make small or insignificant.", "S": ["diminish ", "dominate ", "hinder ", "overshadow "], "A": ["praise "]}

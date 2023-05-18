@@ -1,0 +1,1 @@
+{"index": 192388, "D": "of or relating to a monolith. ", "S": ["hulking ", "imposing "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 126520, "D": "any of a group of proteins, as myosin, occurring in plant and animal tissue, insoluble in pure water but soluble in dilute salt solutions and coagulable by heat.", "S": [], "A": []}

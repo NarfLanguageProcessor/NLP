@@ -1,0 +1,1 @@
+{"index": 211593, "D": "the offering of the unconsecrated elements that is made to God by the celebrant in a Eucharistic service.", "S": [], "A": []}

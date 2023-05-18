@@ -1,0 +1,1 @@
+{"index": 10904, "D": "one of a group of Jewish scholars, active in the rabbinical academies of Palestine and Babylonia from the 3rd to the 6th centuries a.d., whose commentaries on and interpretations of the Mishnah comprise the Palestinian and Babylonian Gemaras.", "S": [], "A": []}

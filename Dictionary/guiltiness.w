@@ -1,0 +1,1 @@
+{"index": 131107, "D": "having committed an offense, crime, violation, or wrong, especially against moral or penal law; justly subject to a certain accusation or penalty; culpable", "S": ["complicity ", "conspiracy ", "deceit ", "scam "], "A": ["honesty "]}

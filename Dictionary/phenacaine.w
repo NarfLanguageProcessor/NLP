@@ -1,0 +1,1 @@
+{"index": 233276, "D": "a compound, C18H22N2O2, usually used in the form of its hydrochloride as a local anesthetic for the eye.", "S": [], "A": []}

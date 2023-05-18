@@ -1,0 +1,1 @@
+{"index": 197308, "D": "a white or colorless zeolite mineral, a hydrous silicate of sodium and aluminum, Na2Al2Si3O10\u22c52H2O, often occurring in acicular crystals.", "S": [], "A": []}

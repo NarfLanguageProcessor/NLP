@@ -1,0 +1,1 @@
+{"index": 18211, "D": "a glass-sided tank, bowl, or the like, in which fish or other living aquatic animals or plants are kept.", "S": ["fishbowl "], "A": []}

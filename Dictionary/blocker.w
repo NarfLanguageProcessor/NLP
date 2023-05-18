@@ -1,0 +1,1 @@
+{"index": 36364, "D": "a person or thing that blocks. ", "S": [], "A": []}

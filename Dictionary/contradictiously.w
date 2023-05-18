@@ -1,0 +1,1 @@
+{"index": 67609, "D": "inclined to contradict;  disputatious.", "S": [], "A": []}

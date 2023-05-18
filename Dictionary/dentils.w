@@ -1,0 +1,1 @@
+{"index": 81315, "D": "any of a series of closely spaced, small, rectangular blocks, used especially in classical architecture beneath the coronas of Ionic, Corinthian, and Composite cornices.", "S": [], "A": []}

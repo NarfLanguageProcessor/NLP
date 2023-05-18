@@ -1,0 +1,1 @@
+{"index": 254195, "D": "nearness in place, time, order, occurrence, or relation; closeness.", "S": ["closeness "], "A": ["distance ", "remoteness "]}

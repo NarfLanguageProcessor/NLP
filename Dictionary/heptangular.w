@@ -1,0 +1,1 @@
+{"index": 136797, "D": "having seven angles.", "S": [], "A": []}

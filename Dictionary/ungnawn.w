@@ -1,0 +1,1 @@
+{"index": 343148, "D": "a past participle of gnaw. ", "S": [], "A": []}

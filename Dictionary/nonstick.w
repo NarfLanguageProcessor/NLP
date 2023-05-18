@@ -1,0 +1,1 @@
+{"index": 207520, "D": "having or providing a finish designed to prevent food from sticking  during cooking or baking", "S": [], "A": []}

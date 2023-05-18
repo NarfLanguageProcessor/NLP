@@ -1,0 +1,1 @@
+{"index": 70679, "D": "a blow  given in return or retaliation, as in boxing.", "S": ["counteraction ", "counterattack ", "countermove ", "counteroffensive ", "reciprocation ", "reprisal ", "retribution ", "revenge ", "vengeance "], "A": ["forgiveness ", "pardon ", "sympathy "]}

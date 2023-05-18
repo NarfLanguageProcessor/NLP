@@ -1,0 +1,1 @@
+{"index": 102915, "D": "a commemorative inscription on a tomb or mortuary monument about the person buried at that site.", "S": ["elegy ", "eulogy "], "A": []}

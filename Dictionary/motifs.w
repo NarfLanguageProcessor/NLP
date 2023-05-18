@@ -1,0 +1,1 @@
+{"index": 193976, "D": "a recurring subject, theme, idea, etc., especially in a literary, artistic, or musical work.", "S": ["concept ", "logo ", "pattern "], "A": []}

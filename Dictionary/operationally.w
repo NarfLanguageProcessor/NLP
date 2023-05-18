@@ -1,0 +1,1 @@
+{"index": 213291, "D": "able to function or be used; functional", "S": [], "A": []}

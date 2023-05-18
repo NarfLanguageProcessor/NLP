@@ -1,0 +1,1 @@
+{"index": 363827, "D": "either of two small, European, marine fishes of the genus Trachinus, T. draco(greater weever ) or T. vipera(lesser weever ), having highly poisonous dorsal spines.", "S": [], "A": []}

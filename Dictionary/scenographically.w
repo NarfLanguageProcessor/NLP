@@ -1,0 +1,1 @@
+{"index": 279984, "D": "the art of representing objects in accordance with the rules of perspective.", "S": [], "A": []}

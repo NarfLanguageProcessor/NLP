@@ -1,0 +1,1 @@
+{"index": 129542, "D": "any of several varieties of light-green plums, as Prunus insititia italica.", "S": [], "A": []}

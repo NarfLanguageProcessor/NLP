@@ -1,0 +1,1 @@
+{"index": 217696, "D": "to make sweet, as by adding sugar.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 3364, "D": "a person, as a physician, chiropractor, or layperson, who practices acupuncture. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 352973, "D": "beating or pulsing rapidly or forcefully, as the heart under the influence of emotion or excitement", "S": [], "A": []}

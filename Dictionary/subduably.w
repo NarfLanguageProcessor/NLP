@@ -1,0 +1,1 @@
+{"index": 307820, "D": "to conquer and bring into subjection", "S": [], "A": []}

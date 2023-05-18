@@ -1,0 +1,1 @@
+{"index": 200462, "D": "(especially of organic compounds) containing the nitroso group; nitrosyl.", "S": [], "A": []}

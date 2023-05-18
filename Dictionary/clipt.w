@@ -1,0 +1,1 @@
+{"index": 60149, "D": "a past participle of clip1. ", "S": [], "A": []}

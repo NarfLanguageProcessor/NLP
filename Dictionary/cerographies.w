@@ -1,0 +1,1 @@
+{"index": 51530, "D": "the process of writing or engraving on wax.", "S": [], "A": []}

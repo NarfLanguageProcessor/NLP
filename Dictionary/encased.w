@@ -1,0 +1,1 @@
+{"index": 99155, "D": "to enclose in or as in a case", "S": ["wrapped "], "A": []}

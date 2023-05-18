@@ -1,0 +1,1 @@
+{"index": 10278, "D": "(no longer in technical use) intellectual disability. ", "S": ["brain damage ", "mental defect ", "mental deficiency ", "subnormality "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82106, "D": "derived. ", "S": ["cognate ", "secondary ", "subordinate "], "A": ["important ", "superior "]}

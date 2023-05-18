@@ -1,0 +1,1 @@
+{"index": 171124, "D": "any cutaneous lesion that occurs in leukemia. ", "S": [], "A": []}

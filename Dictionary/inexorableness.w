@@ -1,0 +1,1 @@
+{"index": 151685, "D": "unyielding; unalterable", "S": ["bullheadedness ", "contumacy ", "doggedness ", "grimness ", "indomitability ", "inexorability ", "inflexibility ", "inflexibleness ", "intransigence ", "intransigency ", "mulishness ", "obduracy ", "obstinacy ", "perseverance ", "pertinacity ", "pigheadedness ", "relentlessness ", "rigidity ", "rigidness "], "A": []}

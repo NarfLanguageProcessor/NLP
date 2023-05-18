@@ -1,0 +1,1 @@
+{"index": 92512, "D": "a person employed in making mechanical drawings, as of machines, structures, etc.", "S": [], "A": []}

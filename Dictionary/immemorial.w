@@ -1,0 +1,1 @@
+{"index": 147920, "D": "extending back beyond memory, record, or knowledge", "S": ["age-old ", "archaic ", "fixed ", "forever ", "long-standing ", "of yore ", "olden ", "prehistoric ", "primeval ", "rooted ", "time-honored ", "traditional "], "A": ["current ", "lately ", "memorable ", "new ", "recent ", "young "]}

@@ -1,0 +1,1 @@
+{"index": 362221, "D": "any of various permanent upright constructions having a length much greater than the thickness and presenting a continuous surface except where pierced by doors, windows, etc.", "S": ["bar ", "barricade ", "barrier ", "block ", "dam ", "embankment ", "facade ", "fence ", "screen ", "side ", "surface "], "A": ["door ", "opening ", "window "]}

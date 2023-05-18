@@ -1,0 +1,1 @@
+{"index": 312247, "D": "the fastest and most powerful type of minicomputer,  with capabilities more commonly associated with mainframes.", "S": [], "A": []}

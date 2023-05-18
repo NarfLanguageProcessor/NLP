@@ -1,0 +1,1 @@
+{"index": 337008, "D": "in an unclean  manner.", "S": ["contamination ", "defilement ", "dirt ", "filth ", "filthiness ", "foulness ", "griminess ", "grubbiness ", "impureness ", "impurity ", "pollution ", "squalor ", "uncleanness ", "unwholesomeness "], "A": ["cleanliness ", "purification ", "purity ", "sterility "]}

@@ -1,0 +1,1 @@
+{"index": 286908, "D": "of the sixth degree.", "S": [], "A": []}

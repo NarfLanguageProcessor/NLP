@@ -1,0 +1,1 @@
+{"index": 205909, "D": "of, relating to, or coming as from a particular person; individual; private", "S": [], "A": []}

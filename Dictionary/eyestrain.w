@@ -1,0 +1,1 @@
+{"index": 96453, "D": "a sensation of discomfort produced in the eyes  by their excessive or improper use", "S": [], "A": []}

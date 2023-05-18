@@ -1,0 +1,1 @@
+{"index": 158820, "D": "a line on a map or chart connecting points where auroras are observed with equal frequency.", "S": [], "A": []}

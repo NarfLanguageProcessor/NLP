@@ -1,0 +1,1 @@
+{"index": 190479, "D": "any of numerous small to microscopic arachnids of the subclass Acari, including species that are parasitic on animals and plants or that feed on decaying matter and stored foods.", "S": ["particle ", "speck "], "A": []}

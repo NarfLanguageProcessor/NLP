@@ -1,0 +1,1 @@
+{"index": 26789, "D": "a bald  person (sometimes used as a facetious term of address).", "S": [], "A": []}

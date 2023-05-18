@@ -1,0 +1,1 @@
+{"index": 168444, "D": "the wrongful taking of someone's property or goods, removing them from their owner's posession with intent to convert them to the taker's own use.", "S": ["burglary ", "misappropriation ", "robbery "], "A": ["lot "]}

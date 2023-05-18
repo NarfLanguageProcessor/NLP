@@ -1,0 +1,1 @@
+{"index": 68844, "D": "the hard, variously colored, calcareous skeleton secreted by certain marine polyps.", "S": ["apricot ", "cantaloupe ", "carrot ", "coral ", "peach ", "salmon ", "tangerine ", "titian "], "A": []}

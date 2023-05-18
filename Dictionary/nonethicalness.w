@@ -1,0 +1,1 @@
+{"index": 203665, "D": "the state or quality of being moral, in accordance with the standards of right and wrong", "S": [], "A": []}

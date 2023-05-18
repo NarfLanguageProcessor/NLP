@@ -1,0 +1,1 @@
+{"index": 11919, "D": "a disease of cattle caused by a blood-infecting protozoan parasite, Anaplasma marginale, transmitted by bloodsucking flies and ticks.", "S": [], "A": []}

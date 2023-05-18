@@ -1,0 +1,1 @@
+{"index": 29366, "D": "an expanse of sand or pebbles along a shore.", "S": ["isolate ", "strand "], "A": ["care ", "help ", "maintain ", "rescue ", "save ", "take care "]}

@@ -1,0 +1,1 @@
+{"index": 157852, "D": [], "S": ["character ", "existence ", "identification ", "integrity ", "name ", "personality ", "status "], "A": ["difference ", "dissimilarity ", "opposition "]}

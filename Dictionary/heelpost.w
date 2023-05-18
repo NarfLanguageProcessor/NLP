@@ -1,0 +1,1 @@
+{"index": 135289, "D": "a post  made to withstand strain, forming or fitted to the end of something, as the post  on which a gate or door is hinged.", "S": [], "A": []}

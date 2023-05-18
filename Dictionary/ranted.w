@@ -1,0 +1,1 @@
+{"index": 260649, "D": "to speak or declaim extravagantly or violently; talk in a wild or vehement way; rave", "S": ["shout "], "A": ["be happy ", "be quiet ", "compliment ", "praise "]}

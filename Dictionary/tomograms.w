@@ -1,0 +1,1 @@
+{"index": 325462, "D": "the visual record produced by tomography.", "S": [], "A": []}

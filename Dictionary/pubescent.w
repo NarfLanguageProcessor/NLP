@@ -1,0 +1,1 @@
+{"index": 255895, "D": "arriving or arrived at puberty.", "S": ["boyish ", "teen ", "youthful "], "A": ["mature "]}

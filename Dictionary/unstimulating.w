@@ -1,0 +1,1 @@
+{"index": 352052, "D": "to rouse to action or effort, as by encouragement or pressure; spur on; incite", "S": ["banal ", "boring ", "dull ", "insipid ", "tame ", "tedious ", "watery ", "white-bread ", "wishy-washy "], "A": ["bright ", "exciting ", "interesting ", "lively "]}

@@ -1,0 +1,1 @@
+{"index": 9142, "D": "a Philippine, dipterocarpaceous tree, Shorea eximia.", "S": [], "A": []}

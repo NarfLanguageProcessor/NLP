@@ -1,0 +1,1 @@
+{"index": 248537, "D": "to pay no attention or too little attention to; disregard or slight", "S": [], "A": []}

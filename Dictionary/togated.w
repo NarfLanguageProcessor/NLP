@@ -1,0 +1,1 @@
+{"index": 325088, "D": "characteristic of peace; peaceful", "S": [], "A": []}

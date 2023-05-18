@@ -1,0 +1,1 @@
+{"index": 184473, "D": "plural of Monseigneur. ", "S": [], "A": []}

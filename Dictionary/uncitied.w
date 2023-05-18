@@ -1,0 +1,1 @@
+{"index": 336942, "D": "occupied by a city  or cities. ", "S": [], "A": []}

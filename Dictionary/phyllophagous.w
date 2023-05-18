@@ -1,0 +1,1 @@
+{"index": 233741, "D": "(of an organism) feeding on leaves.", "S": [], "A": []}

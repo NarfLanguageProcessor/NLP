@@ -1,0 +1,1 @@
+{"index": 105278, "D": "of, relating to, or characteristic of a eukaryote,  an organism whose basic structural unit is a cell containing specialized organelles and a membrane-bound nucleus", "S": [], "A": []}

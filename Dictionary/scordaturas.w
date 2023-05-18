@@ -1,0 +1,1 @@
+{"index": 281259, "D": "the tuning of a stringed instrument in other than the usual way to facilitate the playing of certain compositions.", "S": [], "A": []}

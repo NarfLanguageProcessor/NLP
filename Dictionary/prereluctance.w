@@ -1,0 +1,1 @@
+{"index": 249100, "D": "unwillingness; disinclination", "S": [], "A": []}

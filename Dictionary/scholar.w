@@ -1,0 +1,1 @@
+{"index": 280390, "D": "a learned or erudite person, especially one who has profound knowledge of a particular subject.", "S": ["academic ", "doctor ", "intellectual ", "philosopher ", "professor ", "scientist ", "student ", "teacher "], "A": ["ignoramus "]}

@@ -1,0 +1,1 @@
+{"index": 110938, "D": [], "S": ["ESP ", "clairvoyance ", "inner sense ", "insight ", "lucidity ", "precognition ", "prescience ", "sixth sense ", "the force ", "third eye "], "A": []}

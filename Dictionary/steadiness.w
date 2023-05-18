@@ -1,0 +1,1 @@
+{"index": 303244, "D": "firmly placed or fixed; stable in position or equilibrium", "S": ["cohesion ", "constancy ", "dependability ", "firmness ", "perseverance ", "steadfastness ", "toughness "], "A": ["instability ", "doubt ", "spinelessness ", "uncertainty ", "weakness "]}

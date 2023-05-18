@@ -1,0 +1,1 @@
+{"index": 12864, "D": "a southern U.S. twining plant, Gonolobus gonocarpos, of the milkweed family, having angled or winged pods.", "S": [], "A": []}

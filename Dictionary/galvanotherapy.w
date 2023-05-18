@@ -1,0 +1,1 @@
+{"index": 121581, "D": "treatment employing electric current.", "S": [], "A": []}

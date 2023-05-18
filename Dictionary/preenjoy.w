@@ -1,0 +1,1 @@
+{"index": 247291, "D": "to experience with joy; take pleasure in", "S": [], "A": []}

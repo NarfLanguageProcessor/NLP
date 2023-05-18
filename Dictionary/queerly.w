@@ -1,0 +1,1 @@
+{"index": 258282, "D": "strange or odd from a conventional viewpoint; unusually different; singular", "S": ["peculiarly ", "strangely "], "A": []}

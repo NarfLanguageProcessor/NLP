@@ -1,0 +1,1 @@
+{"index": 290288, "D": "a lightweight, smoothly finished, twilled fabric of acetate, rayon, or cotton, for garment linings.", "S": [], "A": []}

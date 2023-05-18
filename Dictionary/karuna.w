@@ -1,0 +1,1 @@
+{"index": 163276, "D": "the universal compassion of a Bodhisattva.", "S": [], "A": []}

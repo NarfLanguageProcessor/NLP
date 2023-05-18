@@ -1,0 +1,1 @@
+{"index": 369164, "D": "of or relating to the sable.", "S": [], "A": []}

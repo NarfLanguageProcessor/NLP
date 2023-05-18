@@ -1,0 +1,1 @@
+{"index": 193383, "D": "in greater quantity, amount, measure, degree, or number", "S": ["also ", "extra ", "further ", "higher ", "new ", "other "], "A": ["fewer ", "less "]}

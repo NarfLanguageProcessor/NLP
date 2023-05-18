@@ -1,0 +1,1 @@
+{"index": 20674, "D": "a tall, thistlelike composite plant, Cynara scolymus, native to the Mediterranean region, of which the numerous scalelike bracts and receptacle of the immature flower head are eaten as a vegetable.", "S": [], "A": []}

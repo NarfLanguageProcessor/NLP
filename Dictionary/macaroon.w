@@ -1,0 +1,1 @@
+{"index": 176662, "D": "a drop cookie made of egg whites, sugar, usually almond paste or coconut, and sometimes a little flour.", "S": [], "A": []}

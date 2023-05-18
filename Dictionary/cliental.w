@@ -1,0 +1,1 @@
+{"index": 59910, "D": "a person or group that uses the professional advice or services of a lawyer, accountant, advertising agency, architect, etc.", "S": [], "A": []}

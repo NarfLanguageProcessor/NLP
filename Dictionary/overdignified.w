@@ -1,0 +1,1 @@
+{"index": 218974, "D": "to confer honor or dignity  upon; honor; ennoble.", "S": [], "A": []}

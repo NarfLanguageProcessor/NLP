@@ -1,0 +1,1 @@
+{"index": 49927, "D": "the main stem of a tree, especially a palm or tree fern.", "S": [], "A": []}

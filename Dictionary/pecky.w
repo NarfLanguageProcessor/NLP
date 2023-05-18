@@ -1,0 +1,1 @@
+{"index": 228592, "D": "spotted with fungi.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 18693, "D": "marked by the characteristics of an earlier period; antiquated", "S": ["ancient ", "antiquated ", "obsolete ", "old-fashioned ", "outmoded ", "primitive "], "A": ["contemporary ", "current ", "in vogue ", "modern ", "new ", "present ", "up-to-date "]}

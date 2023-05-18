@@ -1,0 +1,1 @@
+{"index": 73335, "D": "a stage in a sequence of events at which the trend of all future events, especially for better or for worse, is determined; turning point.", "S": [], "A": []}

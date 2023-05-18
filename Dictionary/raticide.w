@@ -1,0 +1,1 @@
+{"index": 261026, "D": "a substance or preparation for killing rats. ", "S": [], "A": []}

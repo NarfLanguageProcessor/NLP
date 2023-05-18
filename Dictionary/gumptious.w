@@ -1,0 +1,1 @@
+{"index": 131304, "D": "initiative; aggressiveness; resourcefulness", "S": ["adventurous ", "ambitious ", "aspiring ", "daring ", "dashing ", "diligent ", "hardworking ", "industrious ", "intrepid "], "A": ["cowardly ", "inactive ", "lazy ", "lethargic ", "meek ", "timid ", "unadventurous "]}

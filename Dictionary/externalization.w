@@ -1,0 +1,1 @@
+{"index": 108306, "D": "the act or process of externalizing. ", "S": ["exteriorization ", "manifestation ", "materialization ", "objectification ", "personification ", "representation ", "substantiation "], "A": []}

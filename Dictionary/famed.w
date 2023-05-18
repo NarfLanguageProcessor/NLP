@@ -1,0 +1,1 @@
+{"index": 109580, "D": "very well known and, often, highly regarded; famous.", "S": ["noted ", "renowned "], "A": ["unimportant ", "unknown "]}

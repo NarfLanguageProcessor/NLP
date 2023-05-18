@@ -1,0 +1,1 @@
+{"index": 335867, "D": "enchanting; charming; fascinating.", "S": [], "A": []}

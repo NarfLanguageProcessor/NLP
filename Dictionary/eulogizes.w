@@ -1,0 +1,1 @@
+{"index": 105513, "D": "to praise highly.", "S": ["applaud ", "commend ", "extol ", "idolize ", "laud "], "A": ["blame ", "criticize ", "castigate ", "censure ", "condemn ", "damn ", "denounce ", "disapprove ", "insult "]}

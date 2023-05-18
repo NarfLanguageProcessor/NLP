@@ -1,0 +1,1 @@
+{"index": 172980, "D": "an ester or salt of linoleic acid", "S": [], "A": []}

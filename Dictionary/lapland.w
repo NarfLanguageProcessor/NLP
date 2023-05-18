@@ -1,0 +1,1 @@
+{"index": 168362, "D": "a region in northern Norway, northern Sweden, northern Finland, and the Kola Peninsula of the northwestern Russian Federation  in Europe", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128547, "D": "one of a series of steps or seats raised one above another.", "S": [], "A": []}

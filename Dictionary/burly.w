@@ -1,0 +1,1 @@
+{"index": 43190, "D": "large in bodily size; stout; sturdy.", "S": ["able-bodied ", "athletic ", "beefy ", "brawny ", "bulky ", "hulking ", "muscular ", "portly ", "stocky ", "stout ", "strapping ", "sturdy "], "A": ["delicate ", "frail ", "infirm ", "skinny ", "slight ", "small ", "thin ", "tiny ", "underweight ", "weak "]}

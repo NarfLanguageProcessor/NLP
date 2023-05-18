@@ -1,0 +1,1 @@
+{"index": 31127, "D": "a member of a branch of the Kwakiutl Indians inhabiting central coastal British Columbia.", "S": [], "A": []}

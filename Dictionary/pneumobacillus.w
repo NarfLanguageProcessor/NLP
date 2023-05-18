@@ -1,0 +1,1 @@
+{"index": 240783, "D": "a bacterium, Klebsiella pneumoniae, causing a type of pneumonia and associated with certain other diseases, especially of the respiratory tract.", "S": [], "A": []}

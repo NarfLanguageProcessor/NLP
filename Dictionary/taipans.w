@@ -1,0 +1,1 @@
+{"index": 315450, "D": "(in China) the head or owner of a foreign business establishment.", "S": [], "A": []}

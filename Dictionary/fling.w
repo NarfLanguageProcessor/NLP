@@ -1,0 +1,1 @@
+{"index": 114642, "D": "to throw, cast, or hurl with force or violence", "S": ["cast ", "chuck ", "firing ", "heave ", "hurl ", "launching ", "lob ", "peg ", "pitch ", "shot ", "slinging ", "toss "], "A": []}

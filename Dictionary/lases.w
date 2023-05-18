@@ -1,0 +1,1 @@
+{"index": 168718, "D": "to give off coherent light, as in a laser.", "S": [], "A": []}

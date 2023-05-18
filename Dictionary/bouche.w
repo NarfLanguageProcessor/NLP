@@ -1,0 +1,1 @@
+{"index": 38859, "D": "a curved indentation in an upper corner of a jousting shield, serving as a lance rest", "S": [], "A": []}

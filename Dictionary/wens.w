@@ -1,0 +1,1 @@
+{"index": 364153, "D": "a benign encysted tumor of the skin, especially on the scalp, containing sebaceous matter; a sebaceous cyst.", "S": ["blister ", "sac ", "sore "], "A": []}

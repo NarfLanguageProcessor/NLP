@@ -1,0 +1,1 @@
+{"index": 70826, "D": "a buttress, especially one for strengthening a basement wall against the pressure of earth.", "S": [], "A": []}

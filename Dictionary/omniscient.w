@@ -1,0 +1,1 @@
+{"index": 212554, "D": "having complete or unlimited knowledge, awareness, or understanding; perceiving all things.", "S": ["all-knowing ", "all-seeing "], "A": ["stupid ", "unknowing "]}

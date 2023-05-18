@@ -1,0 +1,1 @@
+{"index": 163106, "D": "a long, usually white robe worn especially by men in central and eastern Africa.", "S": [], "A": []}

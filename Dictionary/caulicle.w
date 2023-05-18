@@ -1,0 +1,1 @@
+{"index": 49963, "D": "a small stalk or stem", "S": [], "A": []}

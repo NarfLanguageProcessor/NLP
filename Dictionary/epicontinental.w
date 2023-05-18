@@ -1,0 +1,1 @@
+{"index": 102308, "D": "found or located in or on a continent", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 177436, "D": "the authority and power of the church to teach religious truth.", "S": [], "A": []}

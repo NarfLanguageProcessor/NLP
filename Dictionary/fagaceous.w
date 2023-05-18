@@ -1,0 +1,1 @@
+{"index": 109188, "D": "belonging to the Fagaceae, the beech family  of plants.", "S": [], "A": []}

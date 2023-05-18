@@ -1,0 +1,1 @@
+{"index": 197728, "D": "something necessary  or indispensable", "S": ["essential ", "fundamental ", "obligation ", "precondition ", "prerequisite ", "requirement ", "urgency "], "A": ["auxiliary ", "extra ", "trivia "]}

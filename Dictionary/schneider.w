@@ -1,0 +1,1 @@
+{"index": 280362, "D": "to prevent (an opponent) from scoring a point in a game or match.", "S": [], "A": []}

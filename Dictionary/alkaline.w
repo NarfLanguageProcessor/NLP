@@ -1,0 +1,1 @@
+{"index": 8422, "D": "of or like an alkali. ", "S": ["salty ", "soluble "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 203271, "D": "relating to or of the nature of a dogma  or dogmas or any strong set of principles concerning faith, morals, etc., as those laid down by a church; doctrinal", "S": [], "A": []}

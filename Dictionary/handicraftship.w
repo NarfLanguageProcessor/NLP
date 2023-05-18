@@ -1,0 +1,1 @@
+{"index": 133179, "D": "manual skill.", "S": [], "A": []}

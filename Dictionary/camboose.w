@@ -1,0 +1,1 @@
+{"index": 45617, "D": "a cabin built as living quarters for a gang of lumbermen", "S": [], "A": []}

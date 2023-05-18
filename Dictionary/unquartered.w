@@ -1,0 +1,1 @@
+{"index": 348913, "D": "divided into quarters.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118890, "D": "a short heavy-conditioned piece of wool removed from a fleece during classing", "S": [], "A": []}

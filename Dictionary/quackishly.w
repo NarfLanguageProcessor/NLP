@@ -1,0 +1,1 @@
+{"index": 257464, "D": "the harsh, throaty cry of a duck or any similar sound.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 282708, "D": "to withdraw formally from an alliance, federation, or association, as from a political union, a religious organization, etc.", "S": ["break with "], "A": ["advance ", "come ", "continue ", "hold ", "join ", "maintain ", "remain ", "stay "]}

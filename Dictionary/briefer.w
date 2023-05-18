@@ -1,0 +1,1 @@
+{"index": 40718, "D": "lasting or taking a short time; of short duration", "S": ["curtailed ", "diminished ", "less ", "lessened ", "lower ", "more concise ", "reduced "], "A": ["higher ", "longer ", "taller "]}

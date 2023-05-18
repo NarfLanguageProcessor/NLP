@@ -1,0 +1,1 @@
+{"index": 122112, "D": "a plot of ground, usually near a house, where flowers, shrubs, vegetables, fruits, or herbs are cultivated.", "S": [], "A": []}

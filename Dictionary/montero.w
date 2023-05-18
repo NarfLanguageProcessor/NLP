@@ -1,0 +1,1 @@
+{"index": 192895, "D": "a Spanish hunter's cap, round in shape and having an earflap.", "S": [], "A": []}

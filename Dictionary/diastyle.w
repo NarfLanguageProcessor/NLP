@@ -1,0 +1,1 @@
+{"index": 84564, "D": "having an intercolumniation of three diameters.", "S": [], "A": []}

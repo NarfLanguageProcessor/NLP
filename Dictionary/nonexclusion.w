@@ -1,0 +1,1 @@
+{"index": 203745, "D": "an act or instance of excluding. ", "S": [], "A": []}

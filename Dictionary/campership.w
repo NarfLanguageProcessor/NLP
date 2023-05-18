@@ -1,0 +1,1 @@
+{"index": 45841, "D": "financial aid given to a needy youngster to attend summer camp. ", "S": [], "A": []}

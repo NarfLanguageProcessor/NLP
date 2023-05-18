@@ -1,0 +1,1 @@
+{"index": 142576, "D": "Compare hemicrystalline", "S": [], "A": []}

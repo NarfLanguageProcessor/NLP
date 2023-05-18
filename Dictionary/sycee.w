@@ -1,0 +1,1 @@
+{"index": 289583, "D": "fine uncoined silver in lumps of various sizes usually bearing a banker's or assayer's stamp or mark, formerly used in China as a medium of exchange.", "S": [], "A": []}

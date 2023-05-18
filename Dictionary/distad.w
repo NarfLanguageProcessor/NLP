@@ -1,0 +1,1 @@
+{"index": 89679, "D": "toward or at the distal end or part.", "S": [], "A": []}

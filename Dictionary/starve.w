@@ -1,0 +1,1 @@
+{"index": 302984, "D": "to die or perish from lack of food or nourishment.", "S": ["cease ", "forgo ", "pass up ", "quit ", "refrain ", "renounce ", "shun ", "withhold "], "A": ["continue ", "do ", "accept ", "allow ", "embrace ", "encourage ", "face ", "meet ", "use ", "want "]}

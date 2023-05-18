@@ -1,0 +1,1 @@
+{"index": 161975, "D": "a lively dance characterized by rhythmic hand clapping, body and thigh slapping, and stomping, developed by African Americans enslaved on Southern plantations in the 19th century.", "S": [], "A": []}

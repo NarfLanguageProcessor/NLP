@@ -1,0 +1,1 @@
+{"index": 16679, "D": "assuming colors and forms that effect deceptive camouflage.", "S": [], "A": []}

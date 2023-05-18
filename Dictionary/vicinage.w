@@ -1,0 +1,1 @@
+{"index": 359403, "D": "the region near or about a place; vicinity.", "S": ["commune ", "community ", "department ", "locality ", "neighborhood ", "parish ", "precinct ", "region ", "section ", "sector ", "territory "], "A": ["whole "]}

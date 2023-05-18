@@ -1,0 +1,1 @@
+{"index": 325083, "D": "(in ancient Rome) the loose outer garment worn by citizens in public.", "S": [], "A": []}

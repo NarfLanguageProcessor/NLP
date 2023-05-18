@@ -1,0 +1,1 @@
+{"index": 163251, "D": "a cloak or rug of animal skins used in southern Africa.", "S": [], "A": []}

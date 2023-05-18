@@ -1,0 +1,1 @@
+{"index": 313320, "D": "a molding above a base,  as that immediately above a baseboard, the crowning molding of a pedestal, etc.", "S": [], "A": []}

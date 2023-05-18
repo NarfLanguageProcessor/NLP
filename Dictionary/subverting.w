@@ -1,0 +1,1 @@
+{"index": 309745, "D": "to overthrow (something established or existing).", "S": ["annihilation ", "carnage ", "elimination ", "eradication ", "extermination ", "extinction ", "loss ", "massacre ", "murder ", "ruin ", "slaughter "], "A": ["creation "]}

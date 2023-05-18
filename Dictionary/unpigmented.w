@@ -1,0 +1,1 @@
+{"index": 347919, "D": "a dry insoluble substance, usually pulverized, which when suspended in a liquid vehicle becomes a paint, ink, etc.", "S": [], "A": []}

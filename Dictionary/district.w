@@ -1,0 +1,1 @@
+{"index": 89934, "D": "a division of territory, as of a country, state, or county, marked off for administrative, electoral, or other purposes.", "S": ["commune ", "community ", "department ", "locality ", "neighborhood ", "parish ", "precinct ", "region ", "section ", "sector ", "territory "], "A": ["whole "]}

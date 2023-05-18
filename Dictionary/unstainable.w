@@ -1,0 +1,1 @@
+{"index": 351915, "D": "that cannot be spotted or stained, as garments.", "S": [], "A": []}

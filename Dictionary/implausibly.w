@@ -1,0 +1,1 @@
+{"index": 148745, "D": "not plausible;  not having the appearance of truth or credibility", "S": ["extraordinarily ", "remarkably "], "A": ["ordinarily ", "plausibly "]}

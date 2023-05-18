@@ -1,0 +1,1 @@
+{"index": 48267, "D": "a yellow, earthy, hydrous potassium uranium vanadate", "S": [], "A": []}

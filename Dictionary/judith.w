@@ -1,0 +1,1 @@
+{"index": 162110, "D": "a devoutly religious woman of the ancient Jews who saved her town from conquest by entering the camp of the besieging Assyrian army and cutting off the head of its commander, Holofernes, while he slept.", "S": [], "A": []}

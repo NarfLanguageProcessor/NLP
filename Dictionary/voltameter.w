@@ -1,0 +1,1 @@
+{"index": 361188, "D": "a device for measuring the quantity of electricity passing through a conductor by the amount of electrolytic decomposition it produces, or for measuring the strength of a current by the amount of such decomposition in a given time.", "S": [], "A": []}

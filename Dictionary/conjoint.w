@@ -1,0 +1,1 @@
+{"index": 66395, "D": "joined together; united; combined; associated. ", "S": ["collective ", "combined ", "common ", "communal ", "conjoined ", "cooperative ", "joined ", "joint ", "linked ", "mutual ", "shared ", "united "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 360910, "D": "(in certain inflected languages, as Latin) noting or pertaining to a case used to indicate that a noun refers to a person or thing being addressed.", "S": [], "A": []}

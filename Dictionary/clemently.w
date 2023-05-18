@@ -1,0 +1,1 @@
+{"index": 59761, "D": "mild or merciful in disposition or character; lenient; compassionate", "S": [], "A": []}

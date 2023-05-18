@@ -1,0 +1,1 @@
+{"index": 170156, "D": "to make legitimate. ", "S": ["authorized ", "constitutional ", "justifiable ", "legal ", "permissible ", "proper ", "rightful ", "statutory ", "valid "], "A": ["illegal ", "illegitimate ", "incorrect ", "unacceptable ", "wrong "]}

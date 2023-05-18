@@ -1,0 +1,1 @@
+{"index": 87170, "D": "to have no belief in; refuse or reject belief in", "S": ["detractor ", "doubter ", "pessimist ", "skeptic "], "A": ["believer "]}

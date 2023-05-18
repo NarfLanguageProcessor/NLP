@@ -1,0 +1,1 @@
+{"index": 133502, "D": "(of plants) having the stamens arranged in a single whorl", "S": [], "A": []}

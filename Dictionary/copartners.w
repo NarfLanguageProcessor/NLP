@@ -1,0 +1,1 @@
+{"index": 68431, "D": "a partner  or associate, as in a business.", "S": ["affiliate ", "cohort ", "collaborator ", "colleague ", "confederate ", "confidant ", "confrere ", "fellow ", "partner "], "A": ["enemy ", "foe ", "opponent "]}

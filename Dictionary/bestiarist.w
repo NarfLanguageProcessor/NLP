@@ -1,0 +1,1 @@
+{"index": 32590, "D": "a collection of moralized fables, especially as written in the Middle Ages, about actual or mythical animals.", "S": [], "A": []}

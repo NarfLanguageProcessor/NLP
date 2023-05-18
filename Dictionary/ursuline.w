@@ -1,0 +1,1 @@
+{"index": 355893, "D": "a member of an order of nuns founded at Brescia, Italy, about 1537, devoted to teaching.", "S": [], "A": []}

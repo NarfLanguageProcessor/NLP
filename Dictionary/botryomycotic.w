@@ -1,0 +1,1 @@
+{"index": 38778, "D": "a disease of horses and other domestic animals, often occurring after castration,  usually caused by Staphylococcus aureus and characterized by the formation of granulomatous masses.", "S": [], "A": []}

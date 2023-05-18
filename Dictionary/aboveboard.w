@@ -1,0 +1,1 @@
+{"index": 759, "D": "in open sight; without tricks, concealment, or disguise", "S": ["trustworthy ", "truthful "], "A": ["deceitful ", "devious ", "lying ", "shady ", "underhanded "]}

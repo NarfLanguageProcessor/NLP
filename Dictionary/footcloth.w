@@ -1,0 +1,1 @@
+{"index": 116153, "D": "a carpet or rug.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 68432, "D": "a partnership or association between two equals, esp in a business enterprise", "S": [], "A": []}

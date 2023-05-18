@@ -1,0 +1,1 @@
+{"index": 329303, "D": "pertaining to a molecule that contains three carboxyl groups.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175512, "D": "like or characteristic of a lout;  awkward; clumsy; boorish.", "S": [], "A": []}

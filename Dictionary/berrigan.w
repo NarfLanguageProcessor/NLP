@@ -1,0 +1,1 @@
+{"index": 32193, "D": "U.S. Jesuit priest, peace activist, and poet.", "S": [], "A": []}

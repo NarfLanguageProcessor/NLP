@@ -1,0 +1,1 @@
+{"index": 231889, "D": "(in medieval philosophy) the quality of those things having substance independently of any real object.", "S": [], "A": []}

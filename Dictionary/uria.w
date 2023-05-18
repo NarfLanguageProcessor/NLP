@@ -1,0 +1,1 @@
+{"index": 355628, "D": "a combining form with the meanings \u201cpresence in the urine\u201d of that specified by the initial element (albuminuria; pyuria), \u201ccondition of the urinary tract,\u201d \u201ctendency to urinate,\u201d as specified (polyuria).", "S": [], "A": []}

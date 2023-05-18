@@ -1,0 +1,1 @@
+{"index": 198486, "D": "an innovation in language, as a new word, term, or expression.", "S": [], "A": []}

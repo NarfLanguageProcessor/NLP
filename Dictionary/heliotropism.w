@@ -1,0 +1,1 @@
+{"index": 135628, "D": "heliotropic tendency or growth.", "S": [], "A": []}

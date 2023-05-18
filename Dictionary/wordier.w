@@ -1,0 +1,1 @@
+{"index": 367420, "D": "characterized by or given to the use of many, or too many, words; verbose", "S": ["lengthy ", "long-winded ", "rambling ", "turgid "], "A": ["concise ", "untalkative "]}

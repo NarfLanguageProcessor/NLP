@@ -1,0 +1,1 @@
+{"index": 40888, "D": "(in Eastern Europe and Asia Minor) a crumbly, sharp cheese made from sheep's milk and cured.", "S": [], "A": []}

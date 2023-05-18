@@ -1,0 +1,1 @@
+{"index": 255314, "D": "the use of biological methods to study normal and abnormal emotional and cognitive processes, as the anatomical basis of memory or neurochemical abnormalities in schizophrenia.", "S": [], "A": []}

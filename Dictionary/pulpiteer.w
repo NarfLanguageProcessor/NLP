@@ -1,0 +1,1 @@
+{"index": 256353, "D": "a preacher by profession.", "S": ["bishop ", "chaplain ", "cleric ", "evangelist ", "missionary ", "pastor ", "pontiff ", "preacher ", "priest ", "rabbi "], "A": ["layman ", "layperson "]}

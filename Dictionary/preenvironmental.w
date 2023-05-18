@@ -1,0 +1,1 @@
+{"index": 247325, "D": "of or relating to the totality of things, conditions, influences, cultural forces, etc., that surround and shape the life of a person or a population", "S": [], "A": []}

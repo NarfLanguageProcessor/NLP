@@ -1,0 +1,1 @@
+{"index": 114570, "D": "Richardson ground squirrel. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 75408, "D": "passing in time; belonging to the time actually passing", "S": ["modern ", "ongoing ", "present ", "prevailing "], "A": ["antiquated ", "old ", "old-fashioned ", "past ", "uncommon "]}

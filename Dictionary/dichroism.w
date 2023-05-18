@@ -1,0 +1,1 @@
+{"index": 84832, "D": "pleochroism of a uniaxial crystal such that it exhibits two different colors when viewed from two different directions under transmitted light.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 46206, "D": "a holder  for a candle;  candlestick.", "S": ["candelabrum ", "corona ", "crown ", "luster "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311182, "D": "a section of an automobile roof  that can be slid or lifted open.", "S": [], "A": []}

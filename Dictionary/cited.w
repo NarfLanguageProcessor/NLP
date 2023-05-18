@@ -1,0 +1,1 @@
+{"index": 58608, "D": "to quote (a passage, book, author, etc.), especially as an authority", "S": ["quoted ", "specified ", "voiced "], "A": []}

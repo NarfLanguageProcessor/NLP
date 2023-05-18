@@ -1,0 +1,1 @@
+{"index": 96800, "D": "noting a case, as in Finnish, whose function is to indicate motion out of or away from.", "S": [], "A": []}

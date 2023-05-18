@@ -1,0 +1,1 @@
+{"index": 350128, "D": "to calm (someone).", "S": ["sedate "], "A": ["agitate ", "anger ", "arouse ", "distress ", "disturb ", "excite ", "incite ", "irritate ", "rouse ", "upset ", "worry "]}

@@ -1,0 +1,1 @@
+{"index": 173000, "D": "to typeset on a Linotype  machine.", "S": [], "A": []}

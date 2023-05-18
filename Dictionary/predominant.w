@@ -1,0 +1,1 @@
+{"index": 247126, "D": "having ascendancy, power, authority, or influence over others; preeminent.", "S": ["dominant ", "dominating ", "main ", "potent ", "prevailing ", "prevalent ", "weighty "], "A": ["inferior ", "minor ", "secondary ", "subordinate ", "unimportant "]}

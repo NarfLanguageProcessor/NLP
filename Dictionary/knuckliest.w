@@ -1,0 +1,1 @@
+{"index": 165761, "D": "a joint of a finger, especially one of the articulations of a metacarpal with a phalanx.", "S": [], "A": []}

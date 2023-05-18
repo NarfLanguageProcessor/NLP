@@ -1,0 +1,1 @@
+{"index": 127657, "D": "an immovable articulation in which one bone or part is received in a cavity in another, as a tooth in its socket.", "S": [], "A": []}

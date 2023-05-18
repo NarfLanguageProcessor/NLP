@@ -1,0 +1,1 @@
+{"index": 36211, "D": "any of several catfishes, as Satan eurystomus(widemouth blindcat ) of Texas, that inhabit underground streams and have undeveloped eyes and unpigmented skin.", "S": [], "A": []}

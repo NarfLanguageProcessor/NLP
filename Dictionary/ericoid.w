@@ -1,0 +1,1 @@
+{"index": 103674, "D": "(of leaves) small and tough, resembling those of heather", "S": [], "A": []}

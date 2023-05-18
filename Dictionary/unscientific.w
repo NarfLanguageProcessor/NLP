@@ -1,0 +1,1 @@
+{"index": 350499, "D": "not scientific;  not employed in science", "S": ["illogical ", "irrational "], "A": ["logical ", "rational ", "reasonable ", "sensible "]}

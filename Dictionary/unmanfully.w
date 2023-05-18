@@ -1,0 +1,1 @@
+{"index": 345965, "D": "having or showing boldness, courage, or strength; resolute.", "S": [], "A": []}

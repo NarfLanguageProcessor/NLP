@@ -1,0 +1,1 @@
+{"index": 17450, "D": "of or characteristic of an apostle. ", "S": ["ecclesiastical ", "ministerial ", "monastic ", "pastoral ", "rabbinical "], "A": []}

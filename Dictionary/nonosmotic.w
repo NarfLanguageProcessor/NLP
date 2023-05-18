@@ -1,0 +1,1 @@
+{"index": 205676, "D": "Compare endosmosis, exosmosis. ", "S": [], "A": []}

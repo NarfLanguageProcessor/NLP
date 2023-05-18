@@ -1,0 +1,1 @@
+{"index": 120603, "D": "a simultaneous or continuous discharge of firearms.", "S": [], "A": []}

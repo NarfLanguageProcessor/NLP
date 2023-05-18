@@ -1,0 +1,1 @@
+{"index": 283011, "D": "the matter that settles to the bottom of a liquid; lees; dregs.", "S": [], "A": []}

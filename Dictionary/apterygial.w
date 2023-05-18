@@ -1,0 +1,1 @@
+{"index": 18122, "D": "having no wings, fins, or limbs, as snakes and eels.", "S": [], "A": []}

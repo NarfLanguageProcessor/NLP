@@ -1,0 +1,1 @@
+{"index": 230382, "D": "one of the values of a variable that divides the distribution of the variable into 100 groups having equal frequencies", "S": [], "A": []}

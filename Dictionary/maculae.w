@@ -1,0 +1,1 @@
+{"index": 177121, "D": "a spot or blotch, especially on one's skin; macule.", "S": ["blot ", "blotch ", "bruise ", "discoloration ", "freckle ", "imperfection ", "pimple ", "scar ", "smudge ", "snag ", "stain ", "stigma ", "wart "], "A": ["cleanliness ", "perfection ", "advantage ", "beauty ", "benefit ", "esteem ", "honor "]}

@@ -1,0 +1,1 @@
+{"index": 117097, "D": "full of or having forethought;  provident.", "S": ["carefulness ", "cautiousness ", "discretion ", "foresight ", "foresightedness ", "forethought ", "precaution ", "prudence ", "vigilance ", "watchfulness "], "A": ["carelessness ", "hindsight ", "ignorance ", "indiscretion ", "thoughtlessness "]}

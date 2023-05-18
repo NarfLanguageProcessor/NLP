@@ -1,0 +1,1 @@
+{"index": 196703, "D": "a person named after another.", "S": ["brand ", "flag ", "label ", "nickname ", "sign ", "signature ", "style ", "term "], "A": ["unknown "]}

@@ -1,0 +1,1 @@
+{"index": 144637, "D": "of uneven surface; rough", "S": [], "A": []}

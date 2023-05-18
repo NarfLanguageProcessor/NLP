@@ -1,0 +1,1 @@
+{"index": 245278, "D": "(in Sankhya philosophy) primal matter or substance from which the physical and mental universe evolves under the influence of purusha.", "S": [], "A": []}

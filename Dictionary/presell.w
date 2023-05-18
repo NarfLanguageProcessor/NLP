@@ -1,0 +1,1 @@
+{"index": 249330, "D": "to sell  in advance, as before manufacture or construction", "S": [], "A": []}

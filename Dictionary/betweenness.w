@@ -1,0 +1,1 @@
+{"index": 32871, "D": "in the space separating (two points, objects, etc.)", "S": [], "A": []}

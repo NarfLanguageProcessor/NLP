@@ -1,0 +1,1 @@
+{"index": 305523, "D": "brave and resolute; dauntless.", "S": ["boldly ", "courageously ", "fearlessly ", "heroically "], "A": []}

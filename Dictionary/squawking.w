@@ -1,0 +1,1 @@
+{"index": 301828, "D": "to utter a loud, harsh cry, as a duck or other fowl when frightened.", "S": ["discordant ", "gravelly ", "gruff ", "harsh ", "raucous ", "throaty "], "A": ["nice ", "polite ", "soft "]}

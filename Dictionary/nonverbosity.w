@@ -1,0 +1,1 @@
+{"index": 208231, "D": "the state or quality of being verbose;  superfluity of words; wordiness", "S": [], "A": []}

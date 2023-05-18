@@ -1,0 +1,1 @@
+{"index": 349166, "D": "having the quality of receiving,  taking in, or admitting.", "S": [], "A": []}

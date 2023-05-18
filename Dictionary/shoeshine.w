@@ -1,0 +1,1 @@
+{"index": 288714, "D": "an act or instance of cleaning and polishing a pair of shoes. ", "S": [], "A": []}

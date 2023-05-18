@@ -1,0 +1,1 @@
+{"index": 75492, "D": "the act of cutting something short or cutting it back; reduction", "S": ["abbreviation ", "condensation ", "cutback ", "reduction "], "A": ["enlargement ", "increase "]}

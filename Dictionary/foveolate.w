@@ -1,0 +1,1 @@
+{"index": 118046, "D": "having foveolae,  or very small pits.", "S": [], "A": []}

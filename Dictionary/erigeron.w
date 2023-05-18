@@ -1,0 +1,1 @@
+{"index": 103680, "D": "any composite plant of the genus Erigeron, having flower heads resembling those of the asters but with narrower and usually more numerous white or purple rays.", "S": [], "A": []}

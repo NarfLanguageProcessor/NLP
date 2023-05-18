@@ -1,0 +1,1 @@
+{"index": 216475, "D": "to surpass in execution or performance", "S": ["eclipse ", "excel ", "outclass ", "outdistance ", "outfox ", "outmaneuver ", "outshine ", "outsmart ", "outstrip ", "surpass ", "transcend "], "A": ["fail ", "fall behind ", "lose ", "aid ", "give up ", "help ", "surrender "]}

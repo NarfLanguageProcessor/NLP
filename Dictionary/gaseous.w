@@ -1,0 +1,1 @@
+{"index": 122350, "D": "existing in the state of a gas;  not solid or liquid.", "S": ["aeriform ", "effervescent "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 153926, "D": "to set up; establish; organize", "S": ["convention ", "decree ", "doctrine ", "dogma ", "edict ", "establishment ", "fixture ", "habit ", "maxim ", "ordinance ", "practice ", "precedent ", "precept ", "prescript ", "principle ", "regulation ", "rite ", "ritual ", "rule ", "statute ", "tenet ", "tradition "], "A": ["unbelief "]}

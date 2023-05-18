@@ -1,0 +1,1 @@
+{"index": 116192, "D": "to act or talk in a foolish or silly way.", "S": [], "A": []}

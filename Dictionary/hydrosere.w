@@ -1,0 +1,1 @@
+{"index": 138942, "D": "a sere  originating in water.", "S": [], "A": []}

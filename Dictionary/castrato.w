@@ -1,0 +1,1 @@
+{"index": 49126, "D": "a male singer, especially in the 18th century, castrated before puberty to prevent his soprano or contralto voice range from changing.", "S": [], "A": []}

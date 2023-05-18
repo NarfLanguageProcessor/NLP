@@ -1,0 +1,1 @@
+{"index": 1013, "D": "dissonant; discordant (usually followed by from or to)", "S": ["enormous ", "inordinate ", "outrageous ", "pricey ", "steep ", "unconscionable ", "unreasonable ", "unwarranted "], "A": ["cheap ", "good ", "mild ", "moderate ", "reasonable ", "sensible ", "warranted "]}

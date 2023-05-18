@@ -1,0 +1,1 @@
+{"index": 190875, "D": "assisting or intended to assist the memory.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 213300, "D": "to turn (a play, novel, etc) into an opera", "S": [], "A": []}

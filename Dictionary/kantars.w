@@ -1,0 +1,1 @@
+{"index": 163087, "D": "(in some Middle Eastern countries) a unit of weight corresponding to the hundredweight, but varying in different localities.", "S": [], "A": []}

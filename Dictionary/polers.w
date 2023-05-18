@@ -1,0 +1,1 @@
+{"index": 241565, "D": "a person or thing that poles. ", "S": [], "A": []}

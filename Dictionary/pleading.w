@@ -1,0 +1,1 @@
+{"index": 239601, "D": "the act of a person who pleads.", "S": ["begging ", "beseeching ", "supplicating "], "A": []}

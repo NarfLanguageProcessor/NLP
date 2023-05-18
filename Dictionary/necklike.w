@@ -1,0 +1,1 @@
+{"index": 197761, "D": "the part of the body of an animal or human being that connects the head and the trunk.", "S": [], "A": []}

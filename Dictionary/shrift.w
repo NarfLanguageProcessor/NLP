@@ -1,0 +1,1 @@
+{"index": 289190, "D": "the imposition of penance by a priest on a penitent after confession.", "S": ["absolution ", "atonement ", "contrition ", "forgiveness ", "penitence ", "remorse ", "repentance ", "retribution "], "A": ["happiness ", "joy ", "reward "]}

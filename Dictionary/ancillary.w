@@ -1,0 +1,1 @@
+{"index": 12235, "D": "subordinate; secondary; subsidiary", "S": ["additional "], "A": ["necessary ", "needed "]}

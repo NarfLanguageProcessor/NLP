@@ -1,0 +1,1 @@
+{"index": 303199, "D": "an optical instrument for studying the crystal structure of minerals under polarized light", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 237319, "D": "an ice ax used in mountaineering.", "S": [], "A": []}

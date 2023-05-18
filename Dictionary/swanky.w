@@ -1,0 +1,1 @@
+{"index": 314064, "D": "elegant or ostentatious; swank. ", "S": ["classy ", "deluxe ", "fancy ", "fashionable ", "luxurious ", "posh ", "ritzy ", "splashy ", "stylish ", "sumptuous ", "swank ", "trendy "], "A": ["inferior ", "old-fashioned ", "plain ", "unfashionable ", "unstylish "]}

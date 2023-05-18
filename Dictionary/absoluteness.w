@@ -1,0 +1,1 @@
+{"index": 986, "D": "free from imperfection; complete; perfect", "S": ["aggregate ", "completeness ", "complex ", "comprehensiveness ", "ensemble ", "entireness ", "fullness ", "gross ", "intactness ", "integrality ", "integrity ", "oneness ", "perfection ", "plenitude ", "sum ", "total ", "totality ", "unity ", "universality "], "A": ["fraction ", "incompleteness ", "part "]}

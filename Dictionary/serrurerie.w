@@ -1,0 +1,1 @@
+{"index": 286393, "D": "ornamental wrought-iron work.", "S": [], "A": []}

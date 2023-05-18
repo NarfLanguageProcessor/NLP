@@ -1,0 +1,1 @@
+{"index": 104636, "D": "capacity for sensation or feeling; sensitivity.", "S": [], "A": []}

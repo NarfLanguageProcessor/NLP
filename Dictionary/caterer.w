@@ -1,0 +1,1 @@
+{"index": 49584, "D": "one whose business is to provide food, supplies, and sometimes service at social gatherings.", "S": [], "A": []}

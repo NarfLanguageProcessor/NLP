@@ -1,0 +1,1 @@
+{"index": 346002, "D": "a loose, sleeveless cloak or cape.", "S": [], "A": []}

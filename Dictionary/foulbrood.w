@@ -1,0 +1,1 @@
+{"index": 117893, "D": "any of several bacterial diseases of honeybee larvae, characterized by the putrefying of body tissues.", "S": [], "A": []}

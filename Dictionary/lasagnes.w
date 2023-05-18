@@ -1,0 +1,1 @@
+{"index": 168697, "D": "large, flat, rectangular strips of pasta.", "S": [], "A": []}

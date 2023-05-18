@@ -1,0 +1,1 @@
+{"index": 170418, "D": "having or being of great length;  very long", "S": ["at length ", "boringly ", "endlessly ", "in detail ", "long-windedly ", "more than one can stomach ", "repeatedly ", "repetitively ", "to an excessive degree ", "to nauseating extremes ", "to the point of queasiness ", "too much "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 59402, "D": "the principles or styles characteristic of the literature and art of ancient Greece and Rome.", "S": ["classic ", "humanistic "], "A": ["complicated ", "modern "]}

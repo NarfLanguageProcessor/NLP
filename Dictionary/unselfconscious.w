@@ -1,0 +1,1 @@
+{"index": 350725, "D": "not self-conscious;  without affectation or pretense", "S": ["candid ", "relaxed ", "spontaneous ", "unbridled ", "unrestrained ", "unrestricted "], "A": ["careful ", "inhibited ", "modest ", "shy "]}

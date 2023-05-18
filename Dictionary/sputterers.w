@@ -1,0 +1,1 @@
+{"index": 301568, "D": "to make explosive popping or sizzling sounds.", "S": [], "A": []}

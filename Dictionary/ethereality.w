@@ -1,0 +1,1 @@
+{"index": 104903, "D": "light, airy, or tenuous", "S": ["airiness ", "floatability ", "levity ", "weightlessness "], "A": ["blues ", "depression ", "heaviness "]}

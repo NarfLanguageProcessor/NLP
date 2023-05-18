@@ -1,0 +1,1 @@
+{"index": 71486, "D": "to be or serve as a covering for; extend over; rest on the surface of", "S": ["camouflaged ", "capped ", "closed ", "coated ", "concealed ", "enclosed ", "hidden ", "painted ", "protected ", "shielded ", "topped ", "wrapped "], "A": ["bare ", "exposed ", "open ", "uncovered ", "unmasked "]}

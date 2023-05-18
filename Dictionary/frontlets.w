@@ -1,0 +1,1 @@
+{"index": 119369, "D": "a decorative band, ribbon, or the like, worn across the forehead", "S": [], "A": []}

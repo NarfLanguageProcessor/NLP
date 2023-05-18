@@ -1,0 +1,1 @@
+{"index": 283978, "D": "half-conscious; not fully conscious. ", "S": [], "A": []}

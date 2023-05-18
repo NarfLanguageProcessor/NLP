@@ -1,0 +1,1 @@
+{"index": 128814, "D": "Compare tall (defs. 8, 12), Venti. ", "S": [], "A": []}

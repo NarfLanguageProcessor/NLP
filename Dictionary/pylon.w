@@ -1,0 +1,1 @@
+{"index": 236739, "D": "a marking post or tower for guiding aviators, frequently used in races.", "S": ["monument "], "A": []}

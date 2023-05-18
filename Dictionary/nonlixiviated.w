@@ -1,0 +1,1 @@
+{"index": 205063, "D": "to treat with a solvent; leach.", "S": [], "A": []}

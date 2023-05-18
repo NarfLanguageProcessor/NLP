@@ -1,0 +1,1 @@
+{"index": 208995, "D": "the state, quality, or character of being notorious or widely known", "S": ["celebrity ", "fame ", "flak ", "infamy ", "opprobrium ", "renown ", "spotlight "], "A": ["obscurity ", "esteem ", "honor "]}

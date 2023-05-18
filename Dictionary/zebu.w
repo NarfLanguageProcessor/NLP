@@ -1,0 +1,1 @@
+{"index": 368980, "D": "one of a domesticated form of cattle, Bos taurus indicus, of India, having a large hump over the shoulders and a large dewlap.", "S": [], "A": []}

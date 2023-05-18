@@ -1,0 +1,1 @@
+{"index": 25806, "D": "a backhanded slap, punch, stroke, or play.", "S": [], "A": []}

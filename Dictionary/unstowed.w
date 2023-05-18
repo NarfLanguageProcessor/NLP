@@ -1,0 +1,1 @@
+{"index": 352114, "D": "to remove (tools, utensils, equipment, etc.) from stowage, especially in preparation for use.", "S": ["empty ", "remove ", "send "], "A": ["assign ", "dam ", "delegate ", "detain ", "employ ", "engage ", "hire ", "hold ", "imprison ", "keep ", "load ", "owe "]}

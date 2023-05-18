@@ -1,0 +1,1 @@
+{"index": 278704, "D": "to supply with anything to excess, so as to disgust or weary; surfeit.", "S": ["gratify ", "indulge ", "nauseate ", "sate ", "slake "], "A": ["disappoint ", "abstain ", "deplete ", "diet ", "fast "]}

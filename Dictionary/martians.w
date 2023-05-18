@@ -1,0 +1,1 @@
+{"index": 180502, "D": "of, relating to, or like the planet Mars  or its hypothetical inhabitants.", "S": ["E.T. ", "Martian ", "alien ", "extraterrestrial ", "extraterrestrial visitor ", "little green man ", "man from Mars ", "visitor from another planet "], "A": []}

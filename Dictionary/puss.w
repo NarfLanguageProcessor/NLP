@@ -1,0 +1,1 @@
+{"index": 257224, "D": "a cat.", "S": ["countenance ", "feature ", "grimace ", "kisser ", "mug ", "physiognomy ", "smirk ", "visage "], "A": []}

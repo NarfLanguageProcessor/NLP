@@ -1,0 +1,1 @@
+{"index": 42827, "D": "a variant spelling of bandobust", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 208570, "D": "of or relating to a norm,  especially an assumed norm regarded as the standard of correctness in behavior, speech, writing, etc.", "S": ["regularizing ", "regulating ", "standardizing "], "A": []}

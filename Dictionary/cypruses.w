@@ -1,0 +1,1 @@
+{"index": 57936, "D": "an island republic in the Mediterranean, south of Turkey", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 37834, "D": "a semitropical tree, Caesalpinia bonducella, of the legume family, the decorative seeds of which are used for jewelry and rosaries.", "S": [], "A": []}

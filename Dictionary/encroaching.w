@@ -1,0 +1,1 @@
+{"index": 99524, "D": "advancing beyond proper, accepted, or usual limits; making gradual inroads into or onto something", "S": ["combative ", "contentious ", "destructive ", "intrusive ", "threatening "], "A": ["calm ", "complaisant ", "easygoing ", "laid-back "]}

@@ -1,0 +1,1 @@
+{"index": 225293, "D": "like pap;  mushy.", "S": ["comfortable ", "comfy ", "creamy ", "delicate ", "easy ", "elastic ", "flexible ", "fluffy ", "mushy ", "plastic ", "pliable ", "rounded ", "silky ", "smooth ", "spongy ", "supple ", "thin ", "velvety "], "A": ["hard ", "inflexible ", "rigid ", "rough ", "stiff ", "unbendable ", "unflexible ", "unpliable ", "unyielding "]}

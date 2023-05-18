@@ -1,0 +1,1 @@
+{"index": 317517, "D": "a tear  or something suggesting a tear", "S": ["bead ", "bit ", "bubble ", "crumb ", "dab ", "dash ", "dewdrop ", "driblet ", "drip ", "droplet ", "iota ", "molecule ", "morsel ", "nip ", "ounce ", "particle ", "pearl ", "pinch ", "sip ", "smidgen ", "speck ", "splash ", "spot ", "taste ", "tear ", "trace ", "trickle "], "A": ["glob ", "lot "]}

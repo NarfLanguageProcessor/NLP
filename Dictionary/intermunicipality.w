@@ -1,0 +1,1 @@
+{"index": 155436, "D": "a city, town, or other district possessing corporate existence and usually its own local government.", "S": [], "A": []}

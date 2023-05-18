@@ -1,0 +1,1 @@
+{"index": 58836, "D": "a parasite, especially a protozoon, living within a cell.", "S": [], "A": []}

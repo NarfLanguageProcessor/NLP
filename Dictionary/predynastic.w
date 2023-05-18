@@ -1,0 +1,1 @@
+{"index": 246971, "D": "of, relating to, or belonging to a time or period before the first dynasty of a nation, especially the period in Egypt before c3200 b.c.", "S": [], "A": []}

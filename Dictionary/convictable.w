@@ -1,0 +1,1 @@
+{"index": 68088, "D": "to prove or declare guilty of an offense, especially after a legal trial", "S": ["convicted ", "culpable ", "liable ", "remorseful ", "responsible ", "sorry ", "wrong "], "A": ["good ", "immune ", "irresponsible ", "right "]}

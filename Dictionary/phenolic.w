@@ -1,0 +1,1 @@
+{"index": 233382, "D": "of, containing, or derived from phenol", "S": [], "A": []}

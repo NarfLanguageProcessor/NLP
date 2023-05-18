@@ -1,0 +1,1 @@
+{"index": 42382, "D": "to acquire the possession of, or the right to, by paying or promising to pay an equivalent, especially in money; purchase.", "S": ["acquisition ", "bargain ", "investment ", "purchase "], "A": []}

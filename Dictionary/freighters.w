@@ -1,0 +1,1 @@
+{"index": 118705, "D": "a vessel used mainly for carrying cargo.", "S": ["car ", "crate ", "jeep ", "lorry ", "pickup ", "rig ", "van ", "wagon "], "A": []}

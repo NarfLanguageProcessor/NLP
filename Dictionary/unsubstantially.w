@@ -1,0 +1,1 @@
+{"index": 352281, "D": "not substantial;  having no foundation in fact; fanciful; insubstantial", "S": ["casually ", "delicately ", "easily ", "faintly ", "freely ", "gingerly ", "mildly ", "moderately ", "quietly ", "simply ", "slightly ", "softly ", "sparsely ", "subtly ", "tenderly ", "thinly "], "A": ["difficultly ", "roughly "]}

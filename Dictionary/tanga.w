@@ -1,0 +1,1 @@
+{"index": 316013, "D": "either of two former coins of India, one gold and one silver, issued by various Muslim rulers.", "S": [], "A": []}

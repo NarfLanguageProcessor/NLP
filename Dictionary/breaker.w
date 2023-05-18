@@ -1,0 +1,1 @@
+{"index": 40245, "D": "a person or thing that breaks.", "S": ["billow ", "destroyer ", "roller ", "surf ", "wave "], "A": []}

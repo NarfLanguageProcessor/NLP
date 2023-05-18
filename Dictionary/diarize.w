@@ -1,0 +1,1 @@
+{"index": 84497, "D": "to make use of a diary to record past events or those planned for the future", "S": [], "A": []}

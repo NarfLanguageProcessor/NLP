@@ -1,0 +1,1 @@
+{"index": 222051, "D": "owed,  unpaid, or due for payment", "S": ["mature ", "matured ", "owed ", "unsettled "], "A": ["green ", "young "]}

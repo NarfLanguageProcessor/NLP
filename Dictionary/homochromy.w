@@ -1,0 +1,1 @@
+{"index": 142986, "D": "being all of one color, as a composite flower or flower head.", "S": [], "A": []}

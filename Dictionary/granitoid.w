@@ -1,0 +1,1 @@
+{"index": 128941, "D": "resembling or having the texture of granite. ", "S": [], "A": []}

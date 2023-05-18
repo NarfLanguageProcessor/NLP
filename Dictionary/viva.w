@@ -1,0 +1,1 @@
+{"index": 360705, "D": "(an exclamation of acclaim or approval)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 149655, "D": "(of light) produced by incandescence. ", "S": ["luminous ", "radiant ", "shining "], "A": ["dark ", "dim ", "dull ", "gloomy "]}

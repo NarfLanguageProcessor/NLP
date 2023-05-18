@@ -1,0 +1,1 @@
+{"index": 191973, "D": "a fungus of the genus Monilia, of the class Fungi Imperfecti, having spherical or oval conidia in branched chains.", "S": [], "A": []}

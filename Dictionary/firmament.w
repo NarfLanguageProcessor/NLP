@@ -1,0 +1,1 @@
+{"index": 113250, "D": "the vault of heaven; sky.", "S": ["empyrean ", "lid ", "sky ", "vault ", "welkin "], "A": ["hell "]}

@@ -1,0 +1,1 @@
+{"index": 173889, "D": "of or relating to the shore of a lake, sea, or ocean.", "S": ["bank ", "coast ", "littoral ", "oceanfront ", "seaboard ", "seafront ", "seaside ", "shingle ", "shore ", "strand ", "waterfront "], "A": []}

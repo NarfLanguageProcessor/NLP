@@ -1,0 +1,1 @@
+{"index": 312368, "D": "an accessory, article, or detail used to beautify the appearance of something to which it is added or of which it is a part", "S": [], "A": []}

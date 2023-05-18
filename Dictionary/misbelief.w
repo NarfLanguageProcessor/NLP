@@ -1,0 +1,1 @@
+{"index": 188789, "D": "erroneous belief;  false opinion.", "S": ["discord ", "dissension ", "disunity ", "objection ", "opposition ", "protest ", "resistance ", "schism ", "strife "], "A": ["acceptance ", "agreement ", "approval ", "concurrence ", "harmony ", "peace ", "accord ", "conformity ", "orthodoxy "]}

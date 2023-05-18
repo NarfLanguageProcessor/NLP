@@ -1,0 +1,1 @@
+{"index": 169971, "D": "a special annual or semiannual court in which the lords of certain manors had jurisdiction over local disputes.", "S": [], "A": []}

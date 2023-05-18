@@ -1,0 +1,1 @@
+{"index": 50139, "D": "a horseman, especially a mounted soldier; knight.", "S": ["condescending ", "curt ", "disdainful ", "haughty ", "offhand ", "supercilious "], "A": ["humble ", "meek "]}

@@ -1,0 +1,1 @@
+{"index": 336732, "D": "to crack, roughen, and redden (the skin)", "S": [], "A": []}

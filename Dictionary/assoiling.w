@@ -1,0 +1,1 @@
+{"index": 21887, "D": "to absolve; acquit; pardon.", "S": [], "A": []}

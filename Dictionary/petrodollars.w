@@ -1,0 +1,1 @@
+{"index": 232493, "D": "surplus revenues in dollars accumulated by petroleum-exporting countries, as those of the Middle East, especially when then used for foreign loans or investments.", "S": [], "A": []}

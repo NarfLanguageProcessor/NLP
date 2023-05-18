@@ -1,0 +1,1 @@
+{"index": 26557, "D": "a coin and monetary unit of Oman, the 1000th part of a rial omani.", "S": [], "A": []}

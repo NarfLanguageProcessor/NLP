@@ -1,0 +1,1 @@
+{"index": 186420, "D": "an integrated computer circuit that performs all the functions of a CPU.", "S": [], "A": []}

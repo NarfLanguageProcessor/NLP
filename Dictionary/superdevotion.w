@@ -1,0 +1,1 @@
+{"index": 311657, "D": "profound dedication, especially to religion.", "S": [], "A": []}

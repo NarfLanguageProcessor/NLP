@@ -1,0 +1,1 @@
+{"index": 190997, "D": "a flap of leather on the seat of a saddle, used as a covering and sometimes as a base to which saddlebags are attached.", "S": [], "A": []}

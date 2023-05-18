@@ -1,0 +1,1 @@
+{"index": 243150, "D": "the lounging area around a swimming pool. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 249441, "D": "to subject (textiles, garments, etc.) to a shrinking  process before marketing to minimize subsequent shrinkage.", "S": [], "A": []}

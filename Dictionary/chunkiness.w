@@ -1,0 +1,1 @@
+{"index": 56645, "D": "thick or stout; stocky.", "S": ["bulk ", "chubbiness ", "fatness ", "overweight ", "paunchiness ", "plumpness ", "rotundness ", "stoutness "], "A": []}

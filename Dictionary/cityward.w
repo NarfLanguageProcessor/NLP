@@ -1,0 +1,1 @@
+{"index": 58670, "D": "to, toward, or in the direction of the city. ", "S": [], "A": []}

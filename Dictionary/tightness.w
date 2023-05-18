@@ -1,0 +1,1 @@
+{"index": 323478, "D": "firmly or closely fixed in place; not easily moved; secure", "S": ["closeness ", "concentration ", "denseness ", "density ", "solidity ", "solidness "], "A": []}

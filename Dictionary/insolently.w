@@ -1,0 +1,1 @@
+{"index": 153700, "D": "boldly rude or disrespectful; contemptuously impertinent; insulting", "S": ["haughtily ", "loftily ", "superciliously ", "with one's nose in the air "], "A": []}

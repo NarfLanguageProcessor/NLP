@@ -1,0 +1,1 @@
+{"index": 180813, "D": "consisting of or forming a large mass; bulky and heavy", "S": [], "A": []}

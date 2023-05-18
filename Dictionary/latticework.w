@@ -1,0 +1,1 @@
+{"index": 169074, "D": "work  consisting of crossed strips usually arranged in a diagonal pattern of open spaces.", "S": ["filigree "], "A": ["solid "]}

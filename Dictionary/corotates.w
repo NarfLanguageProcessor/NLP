@@ -1,0 +1,1 @@
+{"index": 69497, "D": "to rotate  jointly, as with another rotating  object or field.", "S": [], "A": []}

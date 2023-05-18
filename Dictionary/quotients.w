@@ -1,0 +1,1 @@
+{"index": 259172, "D": "the result of division; the number of times one quantity is contained in another.", "S": ["computation ", "remainder ", "result "], "A": []}

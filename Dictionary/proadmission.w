@@ -1,0 +1,1 @@
+{"index": 250922, "D": "the act of allowing to enter; entrance granted by permission, by provision or existence of pecuniary means, or by the removal of obstacles", "S": [], "A": []}

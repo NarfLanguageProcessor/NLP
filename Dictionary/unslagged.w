@@ -1,0 +1,1 @@
+{"index": 351313, "D": "the more or less completely fused and vitrified matter separated during the reduction of a metal from its ore.", "S": [], "A": []}

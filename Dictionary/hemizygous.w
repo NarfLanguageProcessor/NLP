@@ -1,0 +1,1 @@
+{"index": 136323, "D": "(of a chromosome or gene) not having a homologue; not paired in a diploid cell", "S": [], "A": []}

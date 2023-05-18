@@ -1,0 +1,1 @@
+{"index": 166367, "D": "a forest of stunted trees near the timber line on a mountain.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321355, "D": "the branch of physics that deals with thermionic  phenomena.", "S": [], "A": []}

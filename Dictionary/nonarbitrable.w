@@ -1,0 +1,1 @@
+{"index": 201415, "D": "capable of arbitration;  subject to the decision of an arbiter or arbitrator", "S": [], "A": []}

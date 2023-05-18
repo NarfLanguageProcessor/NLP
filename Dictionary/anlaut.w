@@ -1,0 +1,1 @@
+{"index": 13454, "D": "initial position in a word, especially as a conditioning environment in sound change.", "S": [], "A": []}

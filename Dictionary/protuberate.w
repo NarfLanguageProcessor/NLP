@@ -1,0 +1,1 @@
+{"index": 253972, "D": "to bulge out, forming a rounded projection.", "S": ["bulge ", "bulge out "], "A": ["abridge ", "cave in ", "compress ", "contract ", "deflate ", "lessen ", "lower ", "reduce ", "shrink ", "tighten "]}

@@ -1,0 +1,1 @@
+{"index": 316631, "D": "a brand of bituminous binder, similar to tarmacadam, for surfacing roads, airport runways, parking areas, etc.", "S": ["airstrip ", "path ", "platform ", "ramp ", "road "], "A": []}

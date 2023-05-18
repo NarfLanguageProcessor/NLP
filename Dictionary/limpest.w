@@ -1,0 +1,1 @@
+{"index": 172498, "D": "to walk with a labored, jerky movement, as when lame.", "S": ["flabby ", "listless ", "soft ", "supple "], "A": ["firm ", "hard ", "rigid ", "activated ", "active ", "animated ", "energized ", "fresh ", "invigorated ", "lively ", "refreshed ", "restored ", "saved ", "solid ", "stiff ", "straight ", "strong ", "taut ", "tight "]}

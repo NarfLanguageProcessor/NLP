@@ -1,0 +1,1 @@
+{"index": 289987, "D": "to let out one's breath audibly, as from sorrow, weariness, or relief.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 15208, "D": "opposed to or working against the existing power structure or mores, as of society or government", "S": [], "A": []}

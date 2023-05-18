@@ -1,0 +1,1 @@
+{"index": 60332, "D": "thick and sticky; causing clogging", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 213413, "D": "any echinoderm of the subclass Ophiuroidea, including brittle stars, basket stars, and others, characterized by elongate arms radiating from the disk.", "S": [], "A": []}

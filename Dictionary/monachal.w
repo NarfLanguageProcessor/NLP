@@ -1,0 +1,1 @@
+{"index": 191687, "D": "of or relating to monks or their life; monastic.", "S": [], "A": []}

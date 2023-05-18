@@ -1,0 +1,1 @@
+{"index": 21282, "D": "foolish, unintelligent, or silly; stupid", "S": [], "A": []}

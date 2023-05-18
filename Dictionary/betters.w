@@ -1,0 +1,1 @@
+{"index": 32841, "D": "of superior quality or excellence", "S": ["exceptional ", "improved ", "superior "], "A": ["inferior "]}

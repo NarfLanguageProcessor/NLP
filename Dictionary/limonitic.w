@@ -1,0 +1,1 @@
+{"index": 172482, "D": "an amorphous hydrated ferric oxide, varying in color from dark brown to yellow, used as an ore of iron.", "S": [], "A": []}

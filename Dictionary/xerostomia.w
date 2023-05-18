@@ -1,0 +1,1 @@
+{"index": 368498, "D": "dryness of the mouth caused by diminished function of the salivary glands due to aging, disease, drug reaction, etc.", "S": [], "A": []}

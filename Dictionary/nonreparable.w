@@ -1,0 +1,1 @@
+{"index": 206690, "D": "capable of being repaired  or remedied.", "S": [], "A": []}

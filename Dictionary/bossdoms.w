@@ -1,0 +1,1 @@
+{"index": 38612, "D": "the status, influence, or power of a boss,  especially a political boss. ", "S": [], "A": []}

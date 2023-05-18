@@ -1,0 +1,1 @@
+{"index": 334415, "D": "willingly or readily accepting  or receiving; receptive.", "S": [], "A": []}

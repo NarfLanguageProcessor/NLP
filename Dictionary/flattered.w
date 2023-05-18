@@ -1,0 +1,1 @@
+{"index": 114114, "D": "feeling gratified or honored by unexpected favorable attention, as an invitation or compliment", "S": ["complimented ", "exalted ", "lauded "], "A": []}

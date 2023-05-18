@@ -1,0 +1,1 @@
+{"index": 221383, "D": [], "S": ["overextension ", "snapping point ", "spreading too thin ", "tension "], "A": []}

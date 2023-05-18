@@ -1,0 +1,1 @@
+{"index": 124675, "D": "English woodcarver and sculptor, born in the Netherlands.", "S": ["chimpanzee ", "gorilla ", "humanoid ", "monkey ", "orang ", "orangutan ", "primate "], "A": []}

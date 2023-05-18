@@ -1,0 +1,1 @@
+{"index": 37251, "D": "a supporter or adherent of Boehmenism.", "S": [], "A": []}

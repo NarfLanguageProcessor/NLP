@@ -1,0 +1,1 @@
+{"index": 106473, "D": "one of a number of things, or a part of something, taken to show the character of the whole", "S": [], "A": []}

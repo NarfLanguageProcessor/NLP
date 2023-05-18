@@ -1,0 +1,1 @@
+{"index": 231948, "D": "overparticular; fussy.", "S": ["careful ", "choosy ", "fastidious ", "finicky ", "nice ", "picky "], "A": ["open ", "unconcerned ", "unfussy "]}

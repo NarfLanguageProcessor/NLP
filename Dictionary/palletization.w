@@ -1,0 +1,1 @@
+{"index": 223962, "D": "to place (materials) upon pallets  for handling or moving.", "S": [], "A": []}

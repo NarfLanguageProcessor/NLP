@@ -1,0 +1,1 @@
+{"index": 270154, "D": "the act of resuming;  a reassumption, as of something previously granted.", "S": ["continuation ", "reopening ", "restoration ", "resurgence ", "revitalization ", "revival "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311919, "D": "in a way that shows exceptional politeness and attentiveness to others, especially women", "S": [], "A": []}

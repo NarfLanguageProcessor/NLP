@@ -1,0 +1,1 @@
+{"index": 277484, "D": "the Sufi practice of gathering to listen to religious poetry that is sung, often accompanied by ecstatic dance or other ritual.", "S": [], "A": []}

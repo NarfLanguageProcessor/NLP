@@ -1,0 +1,1 @@
+{"index": 285423, "D": "of or relating to the senses  or sensation. ", "S": ["audiovisual ", "auditory ", "aural ", "neural ", "neurological ", "olfactory ", "sensual ", "sonic ", "tactile ", "visual "], "A": []}

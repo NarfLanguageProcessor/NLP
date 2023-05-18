@@ -1,0 +1,1 @@
+{"index": 231465, "D": "(of bacteria) having flagella on the entire surface.", "S": [], "A": []}

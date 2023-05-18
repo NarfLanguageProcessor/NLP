@@ -1,0 +1,1 @@
+{"index": 231972, "D": "to have marked with one's initials, name, or monogram", "S": ["illustrate "], "A": ["conceal ", "cover ", "hide ", "ignore ", "neglect "]}

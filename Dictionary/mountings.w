@@ -1,0 +1,1 @@
+{"index": 194252, "D": "the act of a person or thing that mounts. ", "S": ["ascent "], "A": ["declension ", "decline "]}

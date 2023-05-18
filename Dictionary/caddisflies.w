@@ -1,0 +1,1 @@
+{"index": 44297, "D": "any of numerous aquatic insects constituting the order Trichoptera, having two pairs of membranous, often hairy wings and superficially resembling moths.", "S": [], "A": []}

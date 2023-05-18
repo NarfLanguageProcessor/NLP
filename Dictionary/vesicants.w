@@ -1,0 +1,1 @@
+{"index": 358952, "D": "producing a blister or blisters, as a medicinal substance; vesicating. ", "S": [], "A": []}

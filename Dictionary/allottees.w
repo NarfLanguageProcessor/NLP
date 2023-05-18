@@ -1,0 +1,1 @@
+{"index": 9000, "D": "a person to whom something is allotted. ", "S": [], "A": []}

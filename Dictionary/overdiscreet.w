@@ -1,0 +1,1 @@
+{"index": 219001, "D": "judicious in one's conduct or speech, especially with regard to respecting privacy or maintaining silence about something of a delicate nature;prudent; circumspect. ", "S": [], "A": []}

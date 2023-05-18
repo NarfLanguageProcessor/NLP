@@ -1,0 +1,1 @@
+{"index": 43845, "D": "a variant spelling of kabbalah", "S": ["cabalism ", "kabala ", "kabbalism ", "pietism ", "quietism ", "spiritualism "], "A": []}

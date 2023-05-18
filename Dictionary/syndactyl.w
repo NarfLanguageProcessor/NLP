@@ -1,0 +1,1 @@
+{"index": 291494, "D": "having certain digits joined together.", "S": [], "A": []}

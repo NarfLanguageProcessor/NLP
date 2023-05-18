@@ -1,0 +1,1 @@
+{"index": 230553, "D": "leaving no opportunity for denial or refusal; imperative", "S": ["authoritarianism ", "autocracy ", "coercion ", "cruelty ", "despotism ", "domination ", "oligarchy ", "oppression ", "terrorism ", "totalitarianism "], "A": ["democracy "]}

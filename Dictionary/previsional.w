@@ -1,0 +1,1 @@
+{"index": 250222, "D": "foresight, foreknowledge, or prescience.", "S": [], "A": []}

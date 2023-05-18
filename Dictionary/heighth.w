@@ -1,0 +1,1 @@
+{"index": 135368, "D": "extent or distance upward", "S": [], "A": []}

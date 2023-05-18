@@ -1,0 +1,1 @@
+{"index": 364940, "D": "subjected to a double loss, as when an investor has bought a stock at a high price soon before it declines and then, in order to make good the loss, sells it short before it advances.", "S": [], "A": []}

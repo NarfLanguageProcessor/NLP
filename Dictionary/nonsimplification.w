@@ -1,0 +1,1 @@
+{"index": 207279, "D": "to make less complex or complicated; make plainer or easier", "S": [], "A": []}

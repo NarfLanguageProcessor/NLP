@@ -1,0 +1,1 @@
+{"index": 356893, "D": "a megaphone in use during the 18th and early 19th centuries for public address in church services.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 304263, "D": "pertaining to or consisting of stichs or verses.", "S": [], "A": []}

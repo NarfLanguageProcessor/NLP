@@ -1,0 +1,1 @@
+{"index": 151084, "D": "not discriminating or discerning; lacking in care, judgment, selectivity, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 37653, "D": "a movable bar or rod that when slid into a socket fastens a door, gate, etc.", "S": [], "A": []}

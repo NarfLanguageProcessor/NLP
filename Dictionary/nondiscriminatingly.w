@@ -1,0 +1,1 @@
+{"index": 203151, "D": "able to distinguish differences or distinctions; differentiating; analytic. ", "S": [], "A": []}

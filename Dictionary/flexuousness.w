@@ -1,0 +1,1 @@
+{"index": 114519, "D": "full of bends or curves; sinuous. ", "S": [], "A": []}

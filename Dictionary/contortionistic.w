@@ -1,0 +1,1 @@
+{"index": 67528, "D": "a person who performs gymnastic feats involving contorted postures.", "S": [], "A": []}

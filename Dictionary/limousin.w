@@ -1,0 +1,1 @@
+{"index": 172491, "D": "a former province in central France.", "S": [], "A": []}

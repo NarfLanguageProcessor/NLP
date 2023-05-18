@@ -1,0 +1,1 @@
+{"index": 26935, "D": "a 14th-century Italian verse form composed of stanzas beginning and ending with a refrain, often set to music and accompanied by dancing.", "S": [], "A": []}

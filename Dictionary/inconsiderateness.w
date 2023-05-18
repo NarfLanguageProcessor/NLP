@@ -1,0 +1,1 @@
+{"index": 150261, "D": "without due regard for the rights or feelings of others", "S": ["carelessness ", "disregard ", "heedlessness ", "inattention ", "inconsideration ", "neglect ", "negligence ", "oversight ", "unthoughtfulness "], "A": ["attention ", "care ", "regard ", "respect ", "success "]}

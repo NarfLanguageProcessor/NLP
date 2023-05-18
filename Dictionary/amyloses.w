@@ -1,0 +1,1 @@
+{"index": 10565, "D": "the soluble or sol component of starch that forms a stiff gel at ordinary temperatures and turns blue in iodine.", "S": [], "A": []}

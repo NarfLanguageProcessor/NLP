@@ -1,0 +1,1 @@
+{"index": 303987, "D": "reproduced in or by stereotype  plates.", "S": ["corny "], "A": ["active ", "fresh "]}

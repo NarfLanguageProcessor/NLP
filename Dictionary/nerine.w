@@ -1,0 +1,1 @@
+{"index": 198708, "D": "any of several bulbous plants belonging to the genus Nerine, of the amaryllis family, native to southern Africa, having funnel-shaped red, pink, or white flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 64816, "D": "fruit stewed or cooked in a syrup, usually served as a dessert.", "S": [], "A": []}

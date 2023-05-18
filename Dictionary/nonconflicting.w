@@ -1,0 +1,1 @@
+{"index": 202281, "D": "being in conflict  or disagreement; not compatible", "S": [], "A": []}

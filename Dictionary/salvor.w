@@ -1,0 +1,1 @@
+{"index": 277453, "D": "a person who salvages  or helps to salvage  a ship, cargo, etc.", "S": [], "A": []}

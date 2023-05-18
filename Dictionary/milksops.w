@@ -1,0 +1,1 @@
+{"index": 187259, "D": "a weak or ineffectual person.", "S": ["baby ", "chicken ", "jellyfish ", "namby-pamby ", "pansy ", "pantywaist ", "quitter ", "sissy ", "weakling ", "wimp ", "wuss "], "A": []}

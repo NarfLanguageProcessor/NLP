@@ -1,0 +1,1 @@
+{"index": 93684, "D": "A pointer star in the constellation Ursa Major and the brightest of the seven stars that form the Big Dipper, with apparent magnitude 1.8. Dubhe and Merak form the outer side of the Dipper's bowl, with Dubhe being the upper of the two stars. A straight line extending northward from these pointer stars leads to the North Star, Polaris.", "S": [], "A": []}

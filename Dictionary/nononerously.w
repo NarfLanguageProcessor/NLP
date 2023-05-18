@@ -1,0 +1,1 @@
+{"index": 205613, "D": "burdensome, oppressive, or troublesome; causing hardship", "S": [], "A": []}

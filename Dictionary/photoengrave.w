@@ -1,0 +1,1 @@
+{"index": 235100, "D": "to make a photoengraving of.", "S": ["capture ", "illustrate ", "print ", "reproduce ", "shoot "], "A": ["fail ", "lose ", "misunderstand "]}

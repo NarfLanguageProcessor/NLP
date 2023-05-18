@@ -1,0 +1,1 @@
+{"index": 222527, "D": "another name for ozone layer", "S": ["isothermal layer ", "ozone "], "A": []}

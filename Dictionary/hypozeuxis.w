@@ -1,0 +1,1 @@
+{"index": 141355, "D": "the use of a series of parallel clauses, each of which has a subject and predicate, as in \u201cI came, I saw, I conquered.\u201d", "S": [], "A": []}

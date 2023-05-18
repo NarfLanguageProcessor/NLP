@@ -1,0 +1,1 @@
+{"index": 122583, "D": "of, relating to, or involving the stomach and the liver.", "S": [], "A": []}

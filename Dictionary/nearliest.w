@@ -1,0 +1,1 @@
+{"index": 197613, "D": [], "S": ["approximately ", "basically ", "essentially ", "morally ", "nearly ", "virtually "], "A": ["far "]}

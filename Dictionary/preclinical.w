@@ -1,0 +1,1 @@
+{"index": 246183, "D": "of or relating to the period prior to the appearance of the symptoms.", "S": [], "A": []}

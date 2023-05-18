@@ -1,0 +1,1 @@
+{"index": 348652, "D": "presenting favorable conditions; favorable", "S": [], "A": []}

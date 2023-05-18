@@ -1,0 +1,1 @@
+{"index": 30160, "D": "limp and soiled, as with rain or dirt.", "S": ["disheveled ", "run down ", "seedy ", "threadbare ", "untidy "], "A": ["fresh ", "neat ", "orderly ", "tidy ", "clean "]}

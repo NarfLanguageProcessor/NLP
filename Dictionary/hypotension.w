@@ -1,0 +1,1 @@
+{"index": 141242, "D": "decreased or lowered blood pressure.", "S": [], "A": []}

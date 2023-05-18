@@ -1,0 +1,1 @@
+{"index": 22936, "D": "to set upon in a forceful, violent, hostile, or aggressive way, with or without a weapon; begin fighting with", "S": ["assailed ", "bombarded ", "bombed ", "invaded ", "stormed "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 348237, "D": "not practical;  impractical; lacking practical  usefulness or wisdom.", "S": ["idealistic ", "impracticable ", "quixotic ", "utopian ", "visionary "], "A": ["practical "]}

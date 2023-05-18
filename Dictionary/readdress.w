@@ -1,0 +1,1 @@
+{"index": 261574, "D": "to look at or discuss (an issue, situation, etc) from a new or different point of view", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 238554, "D": "a person appointed to a position, especially one in the government, as a reward for political support of an elected official.", "S": [], "A": []}

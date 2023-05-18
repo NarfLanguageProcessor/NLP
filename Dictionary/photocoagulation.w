@@ -1,0 +1,1 @@
+{"index": 235035, "D": "a surgical technique using an intense beam of light from a laser or a xenon-arc bulb to seal blood vessels or coagulate tissue, used primarily in ophthalmology to repair detached retinas or to treat certain kinds of retinopathy.", "S": [], "A": []}

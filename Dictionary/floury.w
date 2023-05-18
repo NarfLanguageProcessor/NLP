@@ -1,0 +1,1 @@
+{"index": 115146, "D": "of, relating to, or resembling flour. ", "S": ["chalky ", "crumbly ", "dusty ", "grainy ", "gravelly "], "A": ["solid "]}

@@ -1,0 +1,1 @@
+{"index": 217054, "D": "a way beaten, formed, or trodden by the feet of persons or animals.", "S": [], "A": []}

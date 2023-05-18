@@ -1,0 +1,1 @@
+{"index": 273150, "D": "to make or become ripe. ", "S": ["age ", "mellow "], "A": []}

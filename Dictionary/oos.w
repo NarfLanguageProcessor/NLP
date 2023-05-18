@@ -1,0 +1,1 @@
+{"index": 213110, "D": "any of several species of Hawaiian birds of the extinct genus Moho, especially the extinct M. nobilis (Hawaiian o'o), which had black plumage and two tufts of yellow plumes used to make ceremonial robes for the Hawaiian kings. The last surviving species was M. braccatus (Kauai o'o), classified as extinct in 1987.", "S": [], "A": []}

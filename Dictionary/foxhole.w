@@ -1,0 +1,1 @@
+{"index": 118087, "D": "a small pit, usually for one or two soldiers, dug as a shelter in a battle area.", "S": ["cave ", "cellar "], "A": []}

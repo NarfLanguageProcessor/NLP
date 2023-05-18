@@ -1,0 +1,1 @@
+{"index": 161763, "D": "a narcissus, Narcissus jonquilla, having long, narrow, rushlike leaves and fragrant, yellow or white flowers.", "S": [], "A": []}

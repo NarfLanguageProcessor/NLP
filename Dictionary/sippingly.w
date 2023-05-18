@@ -1,0 +1,1 @@
+{"index": 292297, "D": "to drink (a liquid) a little at a time; take small tastes of", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 16447, "D": "of or like an ant or ants", "S": [], "A": []}

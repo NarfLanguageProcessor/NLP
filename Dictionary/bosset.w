@@ -1,0 +1,1 @@
+{"index": 38619, "D": "either of the rudimentary antlers found in young deer", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 167331, "D": "any member of the order Lagomorpha, comprising the hares, rabbits, and pikas, resembling the rodents but having two pairs of upper incisors.", "S": [], "A": []}

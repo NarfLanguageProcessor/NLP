@@ -1,0 +1,1 @@
+{"index": 211150, "D": "eightfold; eight times as great.", "S": [], "A": []}

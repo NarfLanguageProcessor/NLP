@@ -1,0 +1,1 @@
+{"index": 13244, "D": "a negatively charged ion, as one attracted to the anode in electrolysis.", "S": [], "A": []}

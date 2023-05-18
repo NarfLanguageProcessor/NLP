@@ -1,0 +1,1 @@
+{"index": 39045, "D": "a sulfide of lead, antimony, and copper, PbCuSbS3, occurring in gray to black crystals or granular masses.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 176121, "D": "a steroid compound produced when ergosterol is exposed to ultraviolet radiation. Formula", "S": [], "A": []}

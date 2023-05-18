@@ -1,0 +1,1 @@
+{"index": 208656, "D": "a native or inhabitant of the northwest. ", "S": [], "A": []}

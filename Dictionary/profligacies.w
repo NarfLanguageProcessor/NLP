@@ -1,0 +1,1 @@
+{"index": 251790, "D": "shameless dissoluteness.", "S": ["recklessness "], "A": ["economy ", "frugality ", "lack "]}

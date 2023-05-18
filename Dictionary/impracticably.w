@@ -1,0 +1,1 @@
+{"index": 148992, "D": "not practicable;  incapable of being put into practice with the available means", "S": [], "A": []}

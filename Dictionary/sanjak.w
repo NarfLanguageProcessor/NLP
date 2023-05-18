@@ -1,0 +1,1 @@
+{"index": 277989, "D": "(in Turkey) one of the administrative districts into which a vilayet is divided.", "S": [], "A": []}

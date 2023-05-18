@@ -1,0 +1,1 @@
+{"index": 59867, "D": "a crystalline variety of the mineral uranitite", "S": [], "A": []}

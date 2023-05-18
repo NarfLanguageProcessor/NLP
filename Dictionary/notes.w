@@ -1,0 +1,1 @@
+{"index": 208888, "D": "short descriptive or summarized jottings taken down for future reference", "S": ["annotation ", "draft ", "impressions ", "jottings ", "marginalia ", "record ", "report ", "summary ", "synopsis "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 93178, "D": "a horizontal or inclined heading or roadway in the process of construction.", "S": [], "A": []}

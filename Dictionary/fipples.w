@@ -1,0 +1,1 @@
+{"index": 113091, "D": "a plug stopping the upper end of a pipe, as a recorder or a whistle, and having a narrow slit through which the player blows.", "S": [], "A": []}

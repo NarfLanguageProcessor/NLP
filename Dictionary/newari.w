@@ -1,0 +1,1 @@
+{"index": 199369, "D": "a Sino-Tibetan language, the language of the Newar.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 81659, "D": "to decrease seriously or exhaust the abundance or supply of", "S": ["drained ", "reduced ", "vacant ", "weakened "], "A": ["energized ", "full "]}

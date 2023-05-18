@@ -1,0 +1,1 @@
+{"index": 162188, "D": "the natural fluid, fluid content, or liquid part that can be extracted from a plant or one of its parts, especially of a fruit", "S": ["arid ", "bare ", "barren ", "dehydrated ", "dusty ", "parched ", "stale ", "torrid "], "A": ["damp ", "full ", "moist ", "wet "]}

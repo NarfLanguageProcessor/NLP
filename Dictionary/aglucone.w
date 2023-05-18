@@ -1,0 +1,1 @@
+{"index": 6276, "D": "an aglycon,  especially one combined with glucose to form a glycoside.", "S": [], "A": []}

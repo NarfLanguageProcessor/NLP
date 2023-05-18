@@ -1,0 +1,1 @@
+{"index": 327585, "D": "to tread or step heavily and noisily; stamp.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 113995, "D": "a blast of flame that sometimes issues from the breech of a large gun or cannon when it is opened after firing.", "S": [], "A": []}

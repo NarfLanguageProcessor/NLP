@@ -1,0 +1,1 @@
+{"index": 51188, "D": "any of a group of widely used broad-spectrum antibiotics, originally isolated as a product of fermentation from the fungus Cephalosporium acremonium.", "S": [], "A": []}

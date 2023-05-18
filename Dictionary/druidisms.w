@@ -1,0 +1,1 @@
+{"index": 93527, "D": "the religion or rites of the Druids. ", "S": ["Druidism ", "naturism ", "plant worship ", "primitive religion ", "tree worship "], "A": []}

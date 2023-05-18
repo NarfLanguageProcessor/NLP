@@ -1,0 +1,1 @@
+{"index": 27777, "D": "a person whose occupation it is to cut and dress the hair of customers, especially men, and to shave or trim the beard.", "S": ["brush ", "cut down ", "kiss ", "pare ", "prune ", "shear ", "shred ", "skim ", "slash ", "trim "], "A": ["mend ", "sew ", "cover "]}

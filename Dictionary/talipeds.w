@@ -1,0 +1,1 @@
+{"index": 315617, "D": "(of a foot) twisted or distorted out of shape or position.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 333440, "D": "the act of squirming or turning about; wiggling", "S": ["bending ", "circuitous ", "crooked ", "curving ", "indirect ", "roundabout ", "serpentine ", "sinuous ", "snaky ", "tortuous ", "twisted "], "A": []}

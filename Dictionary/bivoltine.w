@@ -1,0 +1,1 @@
+{"index": 35345, "D": "producing two broods in one year, as certain silkworm moths.", "S": [], "A": []}

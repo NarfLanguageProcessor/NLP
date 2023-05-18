@@ -1,0 +1,1 @@
+{"index": 140482, "D": "capacity for sensation or feeling; responsiveness or susceptibility to sensory stimuli.", "S": [], "A": []}

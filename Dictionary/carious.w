@@ -1,0 +1,1 @@
+{"index": 48098, "D": "having caries,  as teeth; decayed.", "S": ["addled ", "ruined ", "withered "], "A": ["developing ", "flourishing ", "germinating ", "growing ", "improving ", "ripening "]}

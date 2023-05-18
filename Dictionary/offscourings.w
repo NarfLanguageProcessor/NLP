@@ -1,0 +1,1 @@
+{"index": 211676, "D": "scum; dregs", "S": ["debris ", "rubbish ", "scrap ", "trash "], "A": ["possessions ", "sense "]}

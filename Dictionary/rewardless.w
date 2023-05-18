@@ -1,0 +1,1 @@
+{"index": 271580, "D": "a sum of money offered for the detection or capture of a criminal, the recovery of lost or stolen property, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351005, "D": "being in a suitable form or condition for shipping1. ", "S": [], "A": []}

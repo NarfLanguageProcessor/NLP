@@ -1,0 +1,1 @@
+{"index": 92621, "D": "a working surface beside or on a kitchen sink, formed and inclined todrain  into the sink.", "S": [], "A": []}

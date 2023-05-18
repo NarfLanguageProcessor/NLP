@@ -1,0 +1,1 @@
+{"index": 245918, "D": "showing pathological changes that may be preliminary to malignancy.", "S": [], "A": []}

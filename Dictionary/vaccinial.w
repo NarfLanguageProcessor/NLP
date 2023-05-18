@@ -1,0 +1,1 @@
+{"index": 356383, "D": "a variant of the cowpox virus that became established in vaccines  derived from cowpox-inoculated humans.", "S": [], "A": []}

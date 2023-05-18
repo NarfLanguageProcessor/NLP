@@ -1,0 +1,1 @@
+{"index": 593, "D": "a cleansing with water or other liquid, especially as a religious ritual.", "S": [], "A": []}

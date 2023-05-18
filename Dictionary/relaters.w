@@ -1,0 +1,1 @@
+{"index": 266741, "D": "to tell; give an account of (an event, circumstance, etc.).", "S": [], "A": []}

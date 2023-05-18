@@ -1,0 +1,1 @@
+{"index": 15466, "D": "the number of which a given number is the logarithm;  antilog", "S": [], "A": []}

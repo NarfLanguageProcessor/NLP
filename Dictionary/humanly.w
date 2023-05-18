@@ -1,0 +1,1 @@
+{"index": 144886, "D": "in a human  manner.", "S": ["culturally ", "philosophically ", "politically ", "psychologically "], "A": []}

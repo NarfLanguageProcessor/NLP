@@ -1,0 +1,1 @@
+{"index": 86963, "D": "contrary to one's taste or liking; unpleasant; offensive; repugnant.", "S": ["obnoxious ", "rude ", "unpleasant "], "A": ["agreeable ", "delightful ", "kind ", "nice ", "pleasant "]}

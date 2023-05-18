@@ -1,0 +1,1 @@
+{"index": 94632, "D": "like a dwarf,  especially in being abnormally small; diminutive.", "S": [], "A": []}

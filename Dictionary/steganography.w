@@ -1,0 +1,1 @@
+{"index": 303497, "D": "the technique or practice of concealing a secret message or image in a digital file or physical object that is not secret, as when watermarking a digital image or using invisible ink. ", "S": [], "A": []}

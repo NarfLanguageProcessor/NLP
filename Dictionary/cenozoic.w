@@ -1,0 +1,1 @@
+{"index": 50749, "D": "noting or pertaining to the present era, beginning 65 million years ago and characterized by the ascendancy of mammals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 52900, "D": "a power of pleasing or attracting, as through personality or beauty", "S": [], "A": []}

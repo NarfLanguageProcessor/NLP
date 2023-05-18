@@ -1,0 +1,1 @@
+{"index": 315066, "D": "a large board,  usually made of cork or soft wood, on which notices can be tacked. ", "S": [], "A": []}

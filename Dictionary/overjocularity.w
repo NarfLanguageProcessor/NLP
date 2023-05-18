@@ -1,0 +1,1 @@
+{"index": 219935, "D": "the state or quality of being jocular. ", "S": [], "A": []}

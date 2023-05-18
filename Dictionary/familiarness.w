@@ -1,0 +1,1 @@
+{"index": 109614, "D": "commonly or generally known or seen", "S": [], "A": []}

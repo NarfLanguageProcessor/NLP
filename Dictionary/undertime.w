@@ -1,0 +1,1 @@
+{"index": 340011, "D": "the time spent by an employee at work in non-work-related activities like socializing, surfing the internet, making personal telephone calls, etc", "S": [], "A": []}

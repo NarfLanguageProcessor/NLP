@@ -1,0 +1,1 @@
+{"index": 165055, "D": "a member of a formerly nomadic people dwelling chiefly in Kirghizia (Kyrgyzstan).", "S": [], "A": []}

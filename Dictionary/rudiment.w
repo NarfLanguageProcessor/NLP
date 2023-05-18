@@ -1,0 +1,1 @@
+{"index": 275313, "D": "a mere beginning, first slight appearance, or undeveloped or imperfect form of something", "S": ["base ", "bed ", "bottom ", "cornerstone ", "foot ", "footing ", "foundation ", "fundament ", "fundamental ", "ground ", "groundwork ", "rest ", "root ", "seat ", "substructure ", "support "], "A": ["annex ", "top "]}

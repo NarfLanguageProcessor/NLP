@@ -1,0 +1,1 @@
+{"index": 179437, "D": "being typical or suggestive of a man rather than a woman", "S": [], "A": []}

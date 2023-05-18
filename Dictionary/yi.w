@@ -1,0 +1,1 @@
+{"index": 147123, "D": "(in Chinese ethical philosophy) faithful performance of one's specified duties to society.", "S": [], "A": []}

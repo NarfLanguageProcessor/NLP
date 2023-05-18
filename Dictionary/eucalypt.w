@@ -1,0 +1,1 @@
+{"index": 105265, "D": "any of numerous often tall trees belonging to the genus Eucalyptus, of the myrtle family, native to Australia and adjacent islands, having aromatic evergreen leaves that are the source of medicinal oils and heavy wood used as timber.", "S": [], "A": []}

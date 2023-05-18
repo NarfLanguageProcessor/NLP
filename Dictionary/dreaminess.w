@@ -1,0 +1,1 @@
+{"index": 92867, "D": "of the nature of or characteristic of dreams;  visionary.", "S": ["absorption ", "abstraction ", "distraction ", "forgetfulness ", "heedlessness ", "inattention "], "A": []}

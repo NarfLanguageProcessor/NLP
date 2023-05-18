@@ -1,0 +1,1 @@
+{"index": 146259, "D": "pertaining to or affected with icterus;  jaundiced.", "S": [], "A": []}

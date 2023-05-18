@@ -1,0 +1,1 @@
+{"index": 362995, "D": "a vacant lot,  especially one overgrown with weeds or covered with rubbish.", "S": [], "A": []}

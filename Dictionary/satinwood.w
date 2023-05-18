@@ -1,0 +1,1 @@
+{"index": 278736, "D": "the satiny wood  of an East Indian tree, Chloroxylon swietenia, of the rue family, used especially for making furniture.", "S": [], "A": []}

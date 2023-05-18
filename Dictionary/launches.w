@@ -1,0 +1,1 @@
+{"index": 169155, "D": "to set (a boat or ship) in the water.", "S": ["barrage ", "blast off ", "bombard ", "bung ", "cast ", "catapult ", "discharge ", "dispatch ", "drive ", "eject ", "fling ", "heave ", "hurl ", "lance ", "lift off ", "pitch ", "project ", "propel ", "shoot ", "sling ", "throw ", "toss "], "A": ["catch ", "hold ", "keep ", "receive "]}

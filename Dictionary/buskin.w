@@ -1,0 +1,1 @@
+{"index": 43503, "D": "a thick-soled, laced boot or half boot.", "S": ["army boot ", "chukka boot ", "jackboot ", "top boot "], "A": []}

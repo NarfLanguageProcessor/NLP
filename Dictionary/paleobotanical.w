@@ -1,0 +1,1 @@
+{"index": 223663, "D": "the branch of paleontology dealing with fossil plants.", "S": [], "A": []}

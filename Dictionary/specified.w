@@ -1,0 +1,1 @@
+{"index": 298798, "D": "to mention or name specifically  or definitely; state in detail", "S": ["stated "], "A": []}

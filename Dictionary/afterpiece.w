@@ -1,0 +1,1 @@
+{"index": 5734, "D": "a short dramatic piece  performed after  a featured play.", "S": ["climax ", "conclusion ", "denouement "], "A": ["beginning ", "commencement ", "initiation ", "introduction ", "opening ", "start "]}

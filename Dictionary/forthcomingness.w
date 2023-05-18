@@ -1,0 +1,1 @@
+{"index": 117645, "D": "coming forth,  or about to come forth;  about to appear; approaching in time", "S": [], "A": []}

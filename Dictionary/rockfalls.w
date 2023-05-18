@@ -1,0 +1,1 @@
+{"index": 273689, "D": "an act or instance of the falling  of rock,  as in a cave-in or an avalanche.", "S": [], "A": []}

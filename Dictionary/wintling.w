@@ -1,0 +1,1 @@
+{"index": 366296, "D": "a rolling or staggering motion.", "S": [], "A": []}

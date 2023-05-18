@@ -1,0 +1,1 @@
+{"index": 306934, "D": "to put into a state of little or no sensibility; benumb the faculties of; put into a stupor.", "S": [], "A": []}

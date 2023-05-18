@@ -1,0 +1,1 @@
+{"index": 191569, "D": "any invertebrate of the phylum Mollusca, typically having a calcareous shell of one, two, or more pieces that wholly or partly enclose the soft, unsegmented body, including the chitons, snails, bivalves, squids, and octopuses.", "S": [], "A": []}

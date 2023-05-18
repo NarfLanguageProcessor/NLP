@@ -1,0 +1,1 @@
+{"index": 156193, "D": "a formal meeting in which one or more persons question, consult, or evaluate another person", "S": ["account ", "conference ", "consultation ", "conversation ", "dialogue ", "examination ", "hearing ", "meeting ", "press conference ", "record ", "statement ", "talk "], "A": ["silence "]}

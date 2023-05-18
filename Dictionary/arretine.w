@@ -1,0 +1,1 @@
+{"index": 20223, "D": "of or relating to Arretium (the ancient Latin name of Arezzo, a city in central Italy)", "S": [], "A": []}

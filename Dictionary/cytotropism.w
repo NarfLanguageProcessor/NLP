@@ -1,0 +1,1 @@
+{"index": 58830, "D": "cytotropic tendency or behavior.", "S": [], "A": []}

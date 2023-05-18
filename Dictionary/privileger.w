@@ -1,0 +1,1 @@
+{"index": 250869, "D": "the unearned and mostly unacknowledged societal advantage that a restricted group of people has over another group", "S": [], "A": []}

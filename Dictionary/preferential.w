@@ -1,0 +1,1 @@
+{"index": 247539, "D": "of, relating to, or of the nature of preference", "S": ["advantageous ", "preferred "], "A": []}

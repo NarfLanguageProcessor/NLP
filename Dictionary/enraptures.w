@@ -1,0 +1,1 @@
+{"index": 100881, "D": "to move to rapture;  delight beyond measure", "S": ["beguile ", "bewitch ", "elate ", "enamor ", "enchant ", "enthrall ", "fascinate "], "A": ["bore ", "disenchant ", "disgust ", "repel ", "tire ", "turn off ", "annoy ", "depress ", "disappoint ", "displease ", "disturb ", "offend ", "pain ", "repulse ", "upset "]}

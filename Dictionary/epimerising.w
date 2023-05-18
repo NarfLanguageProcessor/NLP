@@ -1,0 +1,1 @@
+{"index": 102589, "D": "to convert into an epimer. ", "S": [], "A": []}

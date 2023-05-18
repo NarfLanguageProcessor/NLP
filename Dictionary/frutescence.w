@@ -1,0 +1,1 @@
+{"index": 119685, "D": "tending to be shrublike; shrubby.", "S": [], "A": []}

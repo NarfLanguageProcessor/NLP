@@ -1,0 +1,1 @@
+{"index": 4943, "D": "the science of ballistics  combined with that of aerodynamics and dealing primarily with the motion through the atmosphere of rockets, guided missiles, and other projectiles.", "S": [], "A": []}

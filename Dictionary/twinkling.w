@@ -1,0 +1,1 @@
+{"index": 333392, "D": "an act of shining with intermittent gleams of light.", "S": ["bright ", "flashing ", "gleaming ", "glimmering ", "glistening ", "shimmering ", "shining "], "A": []}

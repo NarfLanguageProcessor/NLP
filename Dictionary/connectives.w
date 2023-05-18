@@ -1,0 +1,1 @@
+{"index": 66515, "D": "serving or tending to connect", "S": ["association ", "channel ", "contact ", "element ", "hookup ", "network ", "relationship ", "tie "], "A": ["line ", "whole "]}

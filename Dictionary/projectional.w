@@ -1,0 +1,1 @@
+{"index": 252012, "D": "a projecting or protruding part.", "S": [], "A": []}

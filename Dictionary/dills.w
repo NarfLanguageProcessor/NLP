@@ -1,0 +1,1 @@
+{"index": 85769, "D": "a plant, Anethum graveolens, of the parsley family, having aromatic seeds and finely divided leaves, both of which are used for flavoring food.", "S": [], "A": []}

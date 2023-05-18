@@ -1,0 +1,1 @@
+{"index": 215273, "D": "the record produced by the action of an oscillograph or oscilloscope.", "S": [], "A": []}

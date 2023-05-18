@@ -1,0 +1,1 @@
+{"index": 296421, "D": [], "S": ["disheveled ", "grimy ", "grubby ", "grungy ", "muddy ", "nasty ", "soiled ", "squalid "], "A": ["clean ", "pure "]}

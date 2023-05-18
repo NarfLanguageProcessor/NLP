@@ -1,0 +1,1 @@
+{"index": 302390, "D": "to spend some time in a place, in a situation, with a person or group, etc.", "S": ["holiday ", "sojourn ", "stopover ", "vacation "], "A": ["continuation ", "go ", "start "]}

@@ -1,0 +1,1 @@
+{"index": 185168, "D": "the fundamental unit of length in the metric system,  equivalent to 39.37 U.S. inches, originally intended to be, and being very nearly, equal to one ten-millionth of the distance from the equator to the pole measured on a meridian", "S": ["feet "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148853, "D": "imponderables;  things that cannot be precisely determined, measured, or evaluated", "S": [], "A": []}

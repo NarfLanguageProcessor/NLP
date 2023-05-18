@@ -1,0 +1,1 @@
+{"index": 284293, "D": "having a somewhat hard consistency or quality.", "S": [], "A": []}

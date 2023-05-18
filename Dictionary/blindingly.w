@@ -1,0 +1,1 @@
+{"index": 36230, "D": "unable to see; having severely impaired or absolutely no sense of sight; sightless", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 273983, "D": "(of a garment) having a high neck that may be rolled over", "S": [], "A": []}

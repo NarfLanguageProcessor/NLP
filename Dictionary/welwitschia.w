@@ -1,0 +1,1 @@
+{"index": 364110, "D": "a gymnosperm plant, Welwitschia mirabilis, of the Namib Desert in SW Africa, consisting of two large woody leaves lying on the ground with a conelike structure arising between them", "S": [], "A": []}

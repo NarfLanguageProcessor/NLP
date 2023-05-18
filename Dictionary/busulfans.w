@@ -1,0 +1,1 @@
+{"index": 43548, "D": "a potent cytotoxic substance, C6H14O6S2, used in the treatment of chronic myeloid leukemia.", "S": [], "A": []}

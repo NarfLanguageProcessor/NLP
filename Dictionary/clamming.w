@@ -1,0 +1,1 @@
+{"index": 59152, "D": "Compare quahog, soft-shell clam. ", "S": ["cut off ", "gag ", "muffle ", "mute ", "muzzle ", "quash ", "quell ", "squelch ", "stifle ", "subdue ", "suppress "], "A": ["allow ", "encourage ", "help ", "let go ", "permit ", "release ", "start "]}

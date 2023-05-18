@@ -1,0 +1,1 @@
+{"index": 152390, "D": "a funnel-shaped organ or part.", "S": [], "A": []}

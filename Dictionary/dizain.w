@@ -1,0 +1,1 @@
+{"index": 90464, "D": "a French poem or stanza of ten lines, employing eight or ten syllables to the line and having a specific rhyming pattern, as ababbccdcd.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 198116, "D": " a white or other non-Black person who is especially sympathetic to or supportive of Black people.", "S": [], "A": []}

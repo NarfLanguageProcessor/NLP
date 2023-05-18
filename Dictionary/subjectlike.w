@@ -1,0 +1,1 @@
+{"index": 308302, "D": "that which forms a basic matter of thought, discussion, investigation, etc.", "S": [], "A": []}

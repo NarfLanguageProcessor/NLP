@@ -1,0 +1,1 @@
+{"index": 296071, "D": "the national assembly of Bulgaria, consisting of a single chamber of elected deputies.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 325765, "D": "having or displaying conspicuous teeth", "S": [], "A": []}

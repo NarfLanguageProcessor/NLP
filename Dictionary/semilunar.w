@@ -1,0 +1,1 @@
+{"index": 284391, "D": "shaped like a half-moon; crescent.", "S": [], "A": []}

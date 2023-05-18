@@ -1,0 +1,1 @@
+{"index": 34771, "D": "the identification and observation of wild birds  in their natural habitat as a recreation; bird-watching.", "S": [], "A": []}

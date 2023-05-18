@@ -1,0 +1,1 @@
+{"index": 345493, "D": "allowing liquid, gas, etc., to enter or escape", "S": [], "A": []}

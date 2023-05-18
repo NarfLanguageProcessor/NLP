@@ -1,0 +1,1 @@
+{"index": 31580, "D": "the plural of benefit. ", "S": ["compensation package ", "perk ", "perquisite "], "A": []}

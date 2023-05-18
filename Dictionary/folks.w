@@ -1,0 +1,1 @@
+{"index": 115944, "D": "people in general", "S": ["brood ", "clan ", "horde ", "household ", "kin ", "parents ", "people ", "relatives ", "tribe "], "A": []}

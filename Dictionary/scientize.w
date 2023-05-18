@@ -1,0 +1,1 @@
+{"index": 280655, "D": "to apply or attempt to apply scientific  principles to", "S": [], "A": []}

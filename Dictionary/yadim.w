@@ -1,0 +1,1 @@
+{"index": 145506, "D": "a tapered, usually ornamented rod, usually of silver, with the tip of the tapered part forming a fist with the index finger extended, used by the reader of a scroll of the Torah as a place marker.", "S": [], "A": []}

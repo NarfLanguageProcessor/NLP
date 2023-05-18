@@ -1,0 +1,1 @@
+{"index": 42202, "D": "an undeveloped or rudimentary stem or branch of a plant.", "S": ["bloom ", "blossom ", "embryo ", "floret ", "germ ", "nucleus ", "shoot ", "spark "], "A": []}

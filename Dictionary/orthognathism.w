@@ -1,0 +1,1 @@
+{"index": 215035, "D": "straight-jawed; having the profile of the face vertical or nearly so; having a gnathic index below 98.", "S": [], "A": []}

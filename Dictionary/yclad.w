@@ -1,0 +1,1 @@
+{"index": 146176, "D": "past participle of clothe. ", "S": [], "A": []}

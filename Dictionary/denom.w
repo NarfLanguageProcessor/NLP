@@ -1,0 +1,1 @@
+{"index": 81161, "D": "denomination.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 149336, "D": "not accurate;  incorrect or untrue.", "S": ["crudely ", "incorrectly ", "mistakenly "], "A": []}

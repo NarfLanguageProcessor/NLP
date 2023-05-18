@@ -1,0 +1,1 @@
+{"index": 148840, "D": "the act or an instance of being unjudicious or impolitic", "S": [], "A": []}

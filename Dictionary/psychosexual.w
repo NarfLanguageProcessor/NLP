@@ -1,0 +1,1 @@
+{"index": 255481, "D": "of or relating to the relationship of psychological and sexual  phenomena.", "S": [], "A": []}

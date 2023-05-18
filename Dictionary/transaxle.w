@@ -1,0 +1,1 @@
+{"index": 327691, "D": "a unit combining the transmission  and differential of a motor vehicle and connected directly to the axles  of the driving wheels.", "S": [], "A": []}

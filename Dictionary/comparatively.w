@@ -1,0 +1,1 @@
+{"index": 64403, "D": "in comparison to some other person or thing, or to others in a similar category; relatively", "S": ["analogously ", "approximately ", "similarly "], "A": []}

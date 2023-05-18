@@ -1,0 +1,1 @@
+{"index": 87086, "D": "to disturb the arrangement of; disorder; unsettle.", "S": ["derange ", "discompose ", "disturb ", "jumble ", "mess ", "ruffle ", "scramble ", "shuffle ", "unsettle "], "A": ["arrange ", "calm ", "comfort ", "compose ", "order ", "organize ", "soothe "]}

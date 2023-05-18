@@ -1,0 +1,1 @@
+{"index": 154130, "D": "a person who rises in forcible opposition to lawful authority, especially a person who engages in armed resistance to a government or to the execution of its laws; rebel.", "S": ["demonstrator ", "mutineer ", "radical ", "revolutionary ", "rioter "], "A": []}

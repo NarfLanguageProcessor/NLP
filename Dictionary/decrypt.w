@@ -1,0 +1,1 @@
+{"index": 78796, "D": "to decode or decipher.", "S": ["break ", "crack ", "decode ", "interpret ", "solve ", "unravel "], "A": ["fix ", "mend ", "misunderstand "]}

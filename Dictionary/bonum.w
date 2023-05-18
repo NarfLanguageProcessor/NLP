@@ -1,0 +1,1 @@
+{"index": 37981, "D": "the highest or chief good.", "S": [], "A": []}

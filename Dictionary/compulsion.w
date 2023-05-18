@@ -1,0 +1,1 @@
+{"index": 64944, "D": "the act of compelling;  constraint; coercion.", "S": ["coercion ", "obsession ", "preoccupation ", "urgency "], "A": ["free will ", "freedom ", "independence ", "liberty ", "license "]}

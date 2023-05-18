@@ -1,0 +1,1 @@
+{"index": 289683, "D": "pertaining to or resembling a sycon. ", "S": [], "A": []}

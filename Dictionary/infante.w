@@ -1,0 +1,1 @@
+{"index": 151812, "D": "any son of the king of Spain or of Portugal who is not heir to the throne.", "S": [], "A": []}

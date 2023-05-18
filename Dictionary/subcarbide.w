@@ -1,0 +1,1 @@
+{"index": 307353, "D": "a carbide  containing less than the normal proportion of carbon.", "S": [], "A": []}

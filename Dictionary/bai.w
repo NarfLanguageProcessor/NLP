@@ -1,0 +1,1 @@
+{"index": 26409, "D": "a yellow mist occurring in eastern China and Japan during the spring and fall, caused by dust from the interior of China.", "S": [], "A": []}

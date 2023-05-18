@@ -1,0 +1,1 @@
+{"index": 323255, "D": "any of various plants having seeds  resembling ticks,  as a coreopsis or the bugseed.", "S": [], "A": []}

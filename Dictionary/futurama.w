@@ -1,0 +1,1 @@
+{"index": 120710, "D": "an exhibition or display that attempts to depict certain aspects or elements of life in the future.", "S": [], "A": []}

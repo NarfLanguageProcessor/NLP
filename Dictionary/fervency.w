@@ -1,0 +1,1 @@
+{"index": 111634, "D": "warmth or intensity of feeling; ardor; zeal; fervor.", "S": ["ardor ", "emotion ", "enthusiasm ", "fervor ", "fire ", "fury ", "gusto ", "heart ", "intensity ", "vehemence ", "zeal ", "zest "], "A": ["apathy ", "coldness ", "coolness ", "dullness ", "indifference ", "laziness ", "lethargy "]}

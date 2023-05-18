@@ -1,0 +1,1 @@
+{"index": 354513, "D": "to find fault with or reproach severely; censure", "S": ["admonish ", "berate ", "castigate ", "chastise ", "chide ", "reprimand ", "reproach "], "A": ["approve ", "compliment ", "forgive ", "laud ", "praise "]}

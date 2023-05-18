@@ -1,0 +1,1 @@
+{"index": 162469, "D": "the right, power, or authority to administer justice by hearing and determining controversies.", "S": ["congressional ", "parliamentary ", "senatorial "], "A": []}

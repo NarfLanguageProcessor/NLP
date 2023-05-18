@@ -1,0 +1,1 @@
+{"index": 184481, "D": "characterized by a dirty, untidy, or disordered condition", "S": ["chaotic ", "confused ", "sloppy "], "A": ["ordered ", "organized ", "systematic "]}

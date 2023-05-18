@@ -1,0 +1,1 @@
+{"index": 174950, "D": "strong, persistent desire or craving, especially for something unattainable or distant", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 51280, "D": "a lungfish of either of two genera, Neoceratodus and the extinct Ceratodus, having hornlike ridges on the teeth.", "S": [], "A": []}

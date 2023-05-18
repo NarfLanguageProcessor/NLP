@@ -1,0 +1,1 @@
+{"index": 57233, "D": "a pictorial representation, in perspective, of a landscape, battle, etc., on the inner wall of a cylindrical room or hall, viewed by spectators occupying a position in the center.", "S": [], "A": []}

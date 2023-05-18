@@ -1,0 +1,1 @@
+{"index": 46622, "D": "the angle or corner on each side of the eye, formed by the junction of the upper and lower lids.", "S": [], "A": []}

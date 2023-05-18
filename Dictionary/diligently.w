@@ -1,0 +1,1 @@
+{"index": 85744, "D": "with conscientious and persistent effort or attention", "S": ["ardently ", "assiduously ", "carefully ", "eagerly ", "earnestly ", "energetically ", "enthusiastically ", "hastily ", "hurriedly ", "laboriously ", "nimbly ", "painstakingly ", "purposefully ", "restlessly ", "vigorously "], "A": ["idly ", "inactively ", "quietly "]}

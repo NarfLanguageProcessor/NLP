@@ -1,0 +1,1 @@
+{"index": 145092, "D": "a rounded protuberance, especially a fleshy protuberance on the back, as that due to abnormal curvature of the spine in humans, or that normally present in certain animals, as the camel or bison.", "S": [], "A": []}

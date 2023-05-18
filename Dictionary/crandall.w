@@ -1,0 +1,1 @@
+{"index": 72021, "D": "a tool for dressing stone, having adjustable, pointed, steel rods held in a slot at the end of the handle.", "S": [], "A": []}

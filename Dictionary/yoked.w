@@ -1,0 +1,1 @@
+{"index": 157580, "D": "having well-defined muscles; very muscular.", "S": ["docile ", "gentle ", "harmless ", "manageable ", "mild ", "subdued "], "A": ["harsh ", "rough ", "violent "]}

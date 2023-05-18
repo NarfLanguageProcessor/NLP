@@ -1,0 +1,1 @@
+{"index": 203561, "D": "full of, feeling, or expressing envy", "S": [], "A": []}

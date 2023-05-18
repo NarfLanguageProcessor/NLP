@@ -1,0 +1,1 @@
+{"index": 71921, "D": "full of crags. ", "S": ["precipitous ", "rocky ", "rugged ", "stony "], "A": ["flat ", "smooth "]}

@@ -1,0 +1,1 @@
+{"index": 17853, "D": "a fixed mutual agreement for a meeting; engagement", "S": ["equipment ", "gear "], "A": []}

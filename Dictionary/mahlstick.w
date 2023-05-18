@@ -1,0 +1,1 @@
+{"index": 177700, "D": "a stick with a padded tip used to support an artist's working hand.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108917, "D": "of or relating to a story, novel, or the like written in the form of a fable.", "S": [], "A": []}

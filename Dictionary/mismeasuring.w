@@ -1,0 +1,1 @@
+{"index": 189635, "D": "a unit or standard of measurement", "S": [], "A": []}

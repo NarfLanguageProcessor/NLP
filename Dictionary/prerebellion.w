@@ -1,0 +1,1 @@
+{"index": 249031, "D": "open, organized, and armed resistance to one's government or ruler.", "S": [], "A": []}

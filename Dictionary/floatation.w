@@ -1,0 +1,1 @@
+{"index": 114801, "D": "a less common variant of flotation. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 317906, "D": "a city in and the capital of Iran, in the N part", "S": [], "A": []}

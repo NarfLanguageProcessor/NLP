@@ -1,0 +1,1 @@
+{"index": 322397, "D": "a grayish-white, lustrous, somewhat ductile and malleable, radioactive metallic element present in monazite", "S": [], "A": []}

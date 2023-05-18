@@ -1,0 +1,1 @@
+{"index": 330112, "D": "a wheel, especially of a wheelbarrow.", "S": [], "A": []}

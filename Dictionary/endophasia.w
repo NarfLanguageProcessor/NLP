@@ -1,0 +1,1 @@
+{"index": 99876, "D": "internal speech with no audible vocalization.", "S": [], "A": []}

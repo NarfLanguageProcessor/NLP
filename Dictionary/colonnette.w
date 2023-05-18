@@ -1,0 +1,1 @@
+{"index": 63273, "D": "a small or thin column or shaft.", "S": [], "A": []}

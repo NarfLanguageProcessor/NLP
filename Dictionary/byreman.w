@@ -1,0 +1,1 @@
+{"index": 34812, "D": "a man who raises or tends cows.", "S": [], "A": []}

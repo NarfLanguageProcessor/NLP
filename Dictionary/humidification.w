@@ -1,0 +1,1 @@
+{"index": 144967, "D": "to make humid. ", "S": ["DP ", "DWPT ", "dew-point temperature ", "humidity ", "saturation ", "saturation point "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 132542, "D": "U.S. football coach and team owner.", "S": [], "A": []}

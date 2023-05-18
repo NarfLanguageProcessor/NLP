@@ -1,0 +1,1 @@
+{"index": 292988, "D": "inclined to skepticism;  having an attitude of doubt", "S": ["doubtful ", "dubious ", "incredulous ", "mistrustful ", "suspicious ", "unconvinced "], "A": ["believing ", "certain ", "clear ", "convinced ", "definite ", "sure ", "trustworthy ", "trusty ", "unquestionable "]}

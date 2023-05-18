@@ -1,0 +1,1 @@
+{"index": 80342, "D": "a person, especially an orator or political leader, who gains power and popularity by arousing the emotions, passions, and prejudices of the people.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 194616, "D": "mucous membrane. ", "S": ["sheath ", "sheet "], "A": []}

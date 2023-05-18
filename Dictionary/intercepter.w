@@ -1,0 +1,1 @@
+{"index": 154578, "D": "a person or thing that intercepts. ", "S": [], "A": []}

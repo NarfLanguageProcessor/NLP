@@ -1,0 +1,1 @@
+{"index": 319734, "D": "the general pitch level or average range of a vocal or instrumental part in a musical composition", "S": [], "A": []}

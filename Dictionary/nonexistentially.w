@@ -1,0 +1,1 @@
+{"index": 203785, "D": "of or relating to existence", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 307171, "D": "an angular part, position, or formation.", "S": [], "A": []}

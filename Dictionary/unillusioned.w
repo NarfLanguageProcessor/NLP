@@ -1,0 +1,1 @@
+{"index": 344210, "D": "having or manifesting no illusions;  free from illusions", "S": [], "A": []}

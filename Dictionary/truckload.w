@@ -1,0 +1,1 @@
+{"index": 331484, "D": "the amount that a truck  can carry.", "S": [], "A": []}

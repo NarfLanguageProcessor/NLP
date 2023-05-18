@@ -1,0 +1,1 @@
+{"index": 243139, "D": "a small body of standing water; pond. ", "S": ["collective ", "joint "], "A": ["separate "]}

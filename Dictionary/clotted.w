@@ -1,0 +1,1 @@
+{"index": 60523, "D": "a mass or lump.", "S": ["deep ", "gooey ", "heavy ", "impenetrable ", "opaque ", "stiff ", "syrupy "], "A": ["clear ", "easy ", "light ", "soft ", "trivial ", "understandable ", "flexible ", "indefinite ", "loose ", "slack "]}

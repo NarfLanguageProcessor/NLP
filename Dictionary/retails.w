@@ -1,0 +1,1 @@
+{"index": 270261, "D": "the sale of goods to ultimate consumers, usually in small quantities (opposed to wholesale).", "S": ["peddle "], "A": []}

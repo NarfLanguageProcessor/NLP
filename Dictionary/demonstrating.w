@@ -1,0 +1,1 @@
+{"index": 80860, "D": "to make evident or establish by arguments or reasoning; prove", "S": ["professed "], "A": ["hiding "]}

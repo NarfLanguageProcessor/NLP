@@ -1,0 +1,1 @@
+{"index": 28339, "D": "not producing or incapable of producing offspring; sterile", "S": ["childlessness ", "fruitlessness ", "impotence ", "infertility ", "unproductiveness "], "A": ["fecundity ", "fertility ", "fruitfulness "]}

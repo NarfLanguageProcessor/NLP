@@ -1,0 +1,1 @@
+{"index": 120785, "D": "to speak or converse rapidly and unintelligibly; jabber. ", "S": [], "A": []}

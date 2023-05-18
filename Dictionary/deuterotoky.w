@@ -1,0 +1,1 @@
+{"index": 83401, "D": "production of both males and females parthenogenetically.", "S": [], "A": []}

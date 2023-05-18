@@ -1,0 +1,1 @@
+{"index": 197590, "D": "of or relating to modern forms of humans as compared with extinct species of the genus Homo.", "S": [], "A": []}

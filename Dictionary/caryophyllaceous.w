@@ -1,0 +1,1 @@
+{"index": 48083, "D": "belonging to the Caryophyllaceae, the pink family of plants.", "S": [], "A": []}

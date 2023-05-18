@@ -1,0 +1,1 @@
+{"index": 21119, "D": "the cosmic principle of order, justice, righteousness, and truth.", "S": [], "A": []}

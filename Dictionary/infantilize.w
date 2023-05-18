@@ -1,0 +1,1 @@
+{"index": 151821, "D": "to keep in or reduce to an infantile state.", "S": [], "A": []}

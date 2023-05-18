@@ -1,0 +1,1 @@
+{"index": 262147, "D": "to attribute (esp a work of art) to another source", "S": [], "A": []}

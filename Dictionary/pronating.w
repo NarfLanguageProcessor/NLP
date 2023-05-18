@@ -1,0 +1,1 @@
+{"index": 252384, "D": "to turn into a prone position; to rotate (the hand or forearm) so that the surface of the palm is downward or toward the back; to turn (the sole of the foot) outward so that the inner edge of the foot bears the weight when standing.", "S": [], "A": []}

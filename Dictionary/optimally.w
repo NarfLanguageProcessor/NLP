@@ -1,0 +1,1 @@
+{"index": 213815, "D": "in the way or to the degree that is most favorable or desirable; in the best way", "S": [], "A": []}

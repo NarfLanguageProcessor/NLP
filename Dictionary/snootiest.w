@@ -1,0 +1,1 @@
+{"index": 295704, "D": "snobbish. ", "S": ["arrogant ", "condescending ", "egotistical ", "pompous ", "snobbish "], "A": ["friendly ", "humble "]}

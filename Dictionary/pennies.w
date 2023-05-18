@@ -1,0 +1,1 @@
+{"index": 229742, "D": "a female given name, form of Penelope. ", "S": ["coins ", "copper ", "dimes ", "nickels ", "quarters ", "silver "], "A": ["bill ", "dollar "]}

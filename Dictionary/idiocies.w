@@ -1,0 +1,1 @@
+{"index": 146469, "D": "utterly senseless or foolish behavior; a stupid or foolish act, statement, etc.", "S": ["insanity ", "lunacy ", "madness "], "A": ["brains ", "intelligence "]}

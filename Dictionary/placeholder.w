@@ -1,0 +1,1 @@
+{"index": 238546, "D": "something that marks or temporarily fills a place (often used attributively)", "S": [], "A": []}

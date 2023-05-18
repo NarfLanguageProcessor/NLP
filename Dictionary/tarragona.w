@@ -1,0 +1,1 @@
+{"index": 316689, "D": "a city in Catalonia, NE Spain, on the Mediterranean Sea.", "S": [], "A": []}

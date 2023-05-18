@@ -1,0 +1,1 @@
+{"index": 205874, "D": "the property or state of being permeable. ", "S": [], "A": []}

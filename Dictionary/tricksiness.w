@@ -1,0 +1,1 @@
+{"index": 329569, "D": "given to tricks;  mischievous; playful; prankish.", "S": [], "A": []}

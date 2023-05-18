@@ -1,0 +1,1 @@
+{"index": 190862, "D": "magnetomotive force.", "S": [], "A": []}

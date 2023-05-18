@@ -1,0 +1,1 @@
+{"index": 350438, "D": "the removal of calculus and other deposits on the teeth by means of instruments.", "S": [], "A": []}

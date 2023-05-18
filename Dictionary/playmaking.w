@@ -1,0 +1,1 @@
+{"index": 238771, "D": "an offensive player, as in basketball or ice hockey, who executes plays  designed to put one or more teammates in a position to score.", "S": [], "A": []}

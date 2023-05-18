@@ -1,0 +1,1 @@
+{"index": 250149, "D": "coming before; antecedent.", "S": ["clairvoyance ", "divination ", "envisagement ", "forward look ", "prediction "], "A": []}

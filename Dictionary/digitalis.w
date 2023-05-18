@@ -1,0 +1,1 @@
+{"index": 85446, "D": "any plant belonging to the genus Digitalis, of the figwort family, especially the common foxglove, D. purpurea.", "S": [], "A": []}

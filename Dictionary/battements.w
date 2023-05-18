@@ -1,0 +1,1 @@
+{"index": 29099, "D": "a movement in which the dancer lifts one leg to the front, side, or back, and returns it to the supporting leg.", "S": [], "A": []}

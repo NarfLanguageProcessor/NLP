@@ -1,0 +1,1 @@
+{"index": 118011, "D": "consisting of four corners and four right angles; square", "S": ["rectangular "], "A": []}

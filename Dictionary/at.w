@@ -1,0 +1,1 @@
+{"index": 22373, "D": "(used to indicate a point or place occupied in space); in, on, or near", "S": ["appearing in ", "by ", "found in ", "in the vicinity of ", "near to ", "on ", "placed at ", "situated at ", "through ", "toward "], "A": []}

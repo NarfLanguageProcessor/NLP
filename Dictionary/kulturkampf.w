@@ -1,0 +1,1 @@
+{"index": 166442, "D": "the conflict between the German imperial government and the Roman Catholic Church from 1872 or 1873 until 1886, chiefly over the control of education and ecclesiastical appointments.", "S": [], "A": []}

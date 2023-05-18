@@ -1,0 +1,1 @@
+{"index": 225579, "D": "a white, crystalline polymer of formaldehyde,  (HCOH)n, from which it is obtained by evaporation of the aqueous solution", "S": [], "A": []}

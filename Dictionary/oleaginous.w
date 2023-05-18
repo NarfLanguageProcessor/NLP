@@ -1,0 +1,1 @@
+{"index": 212039, "D": "having the nature or qualities of oil.", "S": ["buttery ", "fulsome ", "insincere ", "oily ", "sleek ", "smarmy ", "smooth ", "smug ", "suave "], "A": []}

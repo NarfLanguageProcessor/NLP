@@ -1,0 +1,1 @@
+{"index": 268122, "D": "deep sorrow, compunction, or contrition for a past sin, wrongdoing, or the like.", "S": ["contrition ", "grief ", "guilt ", "penitence ", "regret ", "remorse ", "sorrow "], "A": ["happiness ", "satisfaction "]}

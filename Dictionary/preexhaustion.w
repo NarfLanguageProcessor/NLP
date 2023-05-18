@@ -1,0 +1,1 @@
+{"index": 247414, "D": "the act or process of exhausting. ", "S": [], "A": []}

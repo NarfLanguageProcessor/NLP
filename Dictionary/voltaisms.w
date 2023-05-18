@@ -1,0 +1,1 @@
+{"index": 361186, "D": "the branch of electrical science that deals with the production of electricity or electric currents by chemical action.", "S": [], "A": []}

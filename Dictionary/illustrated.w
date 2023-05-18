@@ -1,0 +1,1 @@
+{"index": 147524, "D": "containing pictures, drawings, and other illustrations", "S": ["adorned ", "decorated ", "embellished ", "illuminated "], "A": []}

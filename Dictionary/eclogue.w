@@ -1,0 +1,1 @@
+{"index": 95343, "D": "a pastoral poem, often in dialogue form.", "S": [], "A": []}

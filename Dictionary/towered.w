@@ -1,0 +1,1 @@
+{"index": 326754, "D": "four-towered; high-towered", "S": ["ascend ", "dominate ", "exceed ", "loom ", "mount ", "overlook ", "overtop ", "rear ", "soar ", "surmount ", "surpass ", "top ", "transcend "], "A": ["decline ", "descend ", "drop ", "fail ", "fall ", "fall behind ", "follow ", "lose ", "lower ", "surrender ", "yield "]}

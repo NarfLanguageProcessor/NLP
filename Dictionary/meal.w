@@ -1,0 +1,1 @@
+{"index": 181701, "D": "the food served and eaten especially at one of the customary, regular occasions for taking food during the day, as breakfast, lunch, or supper.", "S": ["breakfast ", "brunch ", "dessert ", "dinner ", "fare ", "feast ", "lunch ", "luncheon ", "picnic ", "refreshment ", "snack ", "supper ", "table ", "tea "], "A": ["snack "]}

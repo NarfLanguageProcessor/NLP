@@ -1,0 +1,1 @@
+{"index": 313413, "D": "the swell of the sea that breaks upon a shore or upon shoals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 21058, "D": "pertaining to, involving, or indicating ascription,  especially the ascribing of qualities or characteristics.", "S": [], "A": []}

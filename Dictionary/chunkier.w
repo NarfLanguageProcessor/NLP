@@ -1,0 +1,1 @@
+{"index": 56642, "D": "thick or stout; stocky.", "S": ["chubby ", "stocky ", "stout "], "A": ["skinny ", "thin ", "underweight "]}

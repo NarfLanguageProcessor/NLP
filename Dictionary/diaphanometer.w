@@ -1,0 +1,1 @@
+{"index": 84418, "D": "an instrument for measuring the transparency of a solid, liquid, or gas.", "S": [], "A": []}

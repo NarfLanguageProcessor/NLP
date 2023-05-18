@@ -1,0 +1,1 @@
+{"index": 130496, "D": "a light, usually thin, cooked cereal made by boiling meal, especially oatmeal, in water or milk.", "S": ["mush ", "potage "], "A": []}

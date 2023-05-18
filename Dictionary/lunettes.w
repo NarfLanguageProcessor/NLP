@@ -1,0 +1,1 @@
+{"index": 176208, "D": "any of various objects or spaces of crescentlike or semicircular outline or section.", "S": ["aperture ", "casement ", "dormer ", "fanlight ", "fenestella ", "fenestra ", "jalousie ", "lancet ", "oriel ", "porthole ", "skylight "], "A": []}

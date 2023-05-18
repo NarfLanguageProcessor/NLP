@@ -1,0 +1,1 @@
+{"index": 156494, "D": "existing or occurring within a single galaxy.", "S": [], "A": []}

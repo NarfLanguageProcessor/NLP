@@ -1,0 +1,1 @@
+{"index": 286724, "D": "a Rugby Union match or series of matches played with seven players on each side", "S": ["septenary "], "A": []}

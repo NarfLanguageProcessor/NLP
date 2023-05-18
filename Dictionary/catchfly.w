@@ -1,0 +1,1 @@
+{"index": 49445, "D": "any of various plants, especially of the genera Silene and Lychnis, having a viscid secretion on the stem and calyx in which small insects are sometimes caught.", "S": [], "A": []}

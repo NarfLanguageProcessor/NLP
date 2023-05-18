@@ -1,0 +1,1 @@
+{"index": 28236, "D": "a device for maintaining constant pressure, such as one used in an aircraft cabin", "S": [], "A": []}

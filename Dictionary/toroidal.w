@@ -1,0 +1,1 @@
+{"index": 326175, "D": "of or relating to a toroid. ", "S": [], "A": []}

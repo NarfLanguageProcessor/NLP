@@ -1,0 +1,1 @@
+{"index": 242202, "D": "a being or object having many legs", "S": [], "A": []}

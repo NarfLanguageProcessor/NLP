@@ -1,0 +1,1 @@
+{"index": 236576, "D": "an assemblage of things laid or lying one upon the other", "S": ["accumulation ", "assortment ", "chunk ", "hill ", "hunk ", "jumble ", "lump ", "mass ", "mountain ", "ocean ", "pyramid ", "quantity ", "stack ", "stockpile "], "A": ["ditch ", "hole ", "poverty "]}

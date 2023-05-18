@@ -1,0 +1,1 @@
+{"index": 5906, "D": "belonging to the Agaricaceae, a family of fungi including mushrooms having blade-shaped gills on the underside of the cap.", "S": [], "A": []}

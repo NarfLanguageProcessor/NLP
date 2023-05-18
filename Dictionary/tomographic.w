@@ -1,0 +1,1 @@
+{"index": 325465, "D": "a machine for making an x-ray of a selected plane of the body.", "S": [], "A": []}

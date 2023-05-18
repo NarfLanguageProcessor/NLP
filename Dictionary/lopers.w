@@ -1,0 +1,1 @@
+{"index": 175152, "D": "a person or thing that lopes,  as a horse with a loping  gait.", "S": [], "A": []}

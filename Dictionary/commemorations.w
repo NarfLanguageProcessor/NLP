@@ -1,0 +1,1 @@
+{"index": 63925, "D": "the act of commemorating. ", "S": ["celebration ", "ceremony ", "remembrance ", "tribute "], "A": ["forgetting ", "neglect ", "negligence "]}

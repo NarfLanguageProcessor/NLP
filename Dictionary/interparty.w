@@ -1,0 +1,1 @@
+{"index": 155578, "D": "a social gathering, as of invited guests at a private home, for conversation, refreshments, entertainment, etc.", "S": [], "A": []}

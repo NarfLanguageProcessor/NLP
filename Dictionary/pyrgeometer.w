@@ -1,0 +1,1 @@
+{"index": 237689, "D": "an instrument for measuring the loss of heat by radiation from the earth's surface", "S": [], "A": []}

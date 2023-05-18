@@ -1,0 +1,1 @@
+{"index": 202008, "D": "(of rules, laws, etc.) compiled into an orderly, formal code", "S": [], "A": []}

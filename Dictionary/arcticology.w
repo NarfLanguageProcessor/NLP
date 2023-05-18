@@ -1,0 +1,1 @@
+{"index": 19220, "D": "the scientific study of the Polar Regions. ", "S": [], "A": []}

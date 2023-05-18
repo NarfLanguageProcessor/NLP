@@ -1,0 +1,1 @@
+{"index": 149610, "D": "to breathe  in; inhale.", "S": [], "A": []}

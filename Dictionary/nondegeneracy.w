@@ -1,0 +1,1 @@
+{"index": 202818, "D": "degenerate  state or character.", "S": [], "A": []}

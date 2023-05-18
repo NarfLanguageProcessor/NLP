@@ -1,0 +1,1 @@
+{"index": 150685, "D": "characterized by indecision,  as persons; irresolute; undecided. ", "S": ["doubtful ", "hesitant ", "tentative ", "wishy-washy "], "A": ["certain ", "definite ", "sure "]}

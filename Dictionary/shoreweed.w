@@ -1,0 +1,1 @@
+{"index": 288888, "D": "a tufty aquatic perennial, Littorella uniflora, of the plantain family, that forms underwater mats but usually flowers only on muddy margins", "S": [], "A": []}

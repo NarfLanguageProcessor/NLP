@@ -1,0 +1,1 @@
+{"index": 40524, "D": "a building or establishment for brewing  beer or other malt liquors, especially the building where the brewing  is done.", "S": [], "A": []}

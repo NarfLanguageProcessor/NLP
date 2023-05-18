@@ -1,0 +1,1 @@
+{"index": 94698, "D": "a tidal bore or flood.", "S": ["tsunami "], "A": []}

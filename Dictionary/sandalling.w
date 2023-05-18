@@ -1,0 +1,1 @@
+{"index": 277706, "D": "a shoe consisting of a sole of leather or other material fastened to the foot by thongs or straps.", "S": [], "A": []}

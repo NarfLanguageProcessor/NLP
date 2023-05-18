@@ -1,0 +1,1 @@
+{"index": 52111, "D": "of, relating to, or characteristic of the Copper Age.", "S": [], "A": []}

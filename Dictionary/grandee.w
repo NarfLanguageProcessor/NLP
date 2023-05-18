@@ -1,0 +1,1 @@
+{"index": 128815, "D": "a man of high social position or eminence, especially a Spanish or Portuguese nobleman.", "S": ["aristocrat ", "blue blood ", "emperor ", "patrician "], "A": ["commoner "]}

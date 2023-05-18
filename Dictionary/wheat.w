@@ -1,0 +1,1 @@
+{"index": 364479, "D": "the grain of any cereal grass of the genus Triticum, especially T. aestivum, used in the form of flour for making bread, cakes, etc., and for other culinary and nutritional purposes.", "S": ["cereal ", "grass "], "A": []}

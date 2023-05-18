@@ -1,0 +1,1 @@
+{"index": 159004, "D": "a line on a map of the ocean connecting all points of equal salinity.", "S": [], "A": []}

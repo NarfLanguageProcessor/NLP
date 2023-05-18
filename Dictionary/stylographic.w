@@ -1,0 +1,1 @@
+{"index": 304548, "D": "of or relating to a stylograph.", "S": [], "A": []}

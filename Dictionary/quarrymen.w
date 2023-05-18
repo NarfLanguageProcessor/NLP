@@ -1,0 +1,1 @@
+{"index": 258020, "D": "a person who quarries  stone; quarrier. ", "S": [], "A": []}

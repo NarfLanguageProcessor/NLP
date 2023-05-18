@@ -1,0 +1,1 @@
+{"index": 330228, "D": "a short poem of fixed form, having a rhyme scheme of ab, aa, abab, and having the first line repeated as the fourth and seventh lines, and the second line repeated as the eighth.", "S": [], "A": []}

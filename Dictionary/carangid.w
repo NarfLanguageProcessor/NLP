@@ -1,0 +1,1 @@
+{"index": 47352, "D": "any of numerous fishes of the family Carangidae, comprising the jacks, scads, pompanos, and cavallas.", "S": [], "A": []}

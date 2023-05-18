@@ -1,0 +1,1 @@
+{"index": 329504, "D": "pleochroism of a biaxial crystal such that it exhibits three different colors when viewed from three different directions under transmitted light.", "S": [], "A": []}

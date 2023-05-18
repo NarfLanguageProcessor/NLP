@@ -1,0 +1,1 @@
+{"index": 219176, "D": "to make emotional;  treat as a matter of emotion.", "S": [], "A": []}

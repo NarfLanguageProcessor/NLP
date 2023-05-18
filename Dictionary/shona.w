@@ -1,0 +1,1 @@
+{"index": 288751, "D": "a member of a group of peoples constituting more than two thirds of the population of Zimbabwe.", "S": [], "A": []}

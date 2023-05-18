@@ -1,0 +1,1 @@
+{"index": 271391, "D": "of or relating to a new or different version of something", "S": [], "A": []}

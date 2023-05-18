@@ -1,0 +1,1 @@
+{"index": 89242, "D": "fond of or given to disputation;  argumentative; contentious", "S": ["belligerence ", "cantankerousness ", "combativeness ", "contentiousness ", "litigiousness ", "quarrelsomeness "], "A": []}

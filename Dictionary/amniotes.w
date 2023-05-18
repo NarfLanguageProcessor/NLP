@@ -1,0 +1,1 @@
+{"index": 10847, "D": "any vertebrate of the group Amniota, comprising the reptiles, birds, and mammals, characterized by having an amnion during the embryonic stage.", "S": [], "A": []}

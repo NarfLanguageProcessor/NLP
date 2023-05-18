@@ -1,0 +1,1 @@
+{"index": 94223, "D": "an explosive used as a bursting charge for armor-piercing projectiles and in high-explosive shells", "S": [], "A": []}

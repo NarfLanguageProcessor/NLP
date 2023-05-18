@@ -1,0 +1,1 @@
+{"index": 31611, "D": "a native or an inhabitant of Bengal; Bengalese. ", "S": [], "A": []}

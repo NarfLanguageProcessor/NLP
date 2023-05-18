@@ -1,0 +1,1 @@
+{"index": 281463, "D": "an act or instance of reconnoitering; reconnaissance.", "S": [], "A": []}

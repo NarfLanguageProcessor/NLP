@@ -1,0 +1,1 @@
+{"index": 328559, "D": "a branch of surgery dealing with major wounds caused by accidents or violence.", "S": [], "A": []}

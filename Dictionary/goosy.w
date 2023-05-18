@@ -1,0 +1,1 @@
+{"index": 128016, "D": "like a goose; foolish or giddy.", "S": [], "A": []}

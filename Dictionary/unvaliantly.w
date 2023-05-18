@@ -1,0 +1,1 @@
+{"index": 353638, "D": "in a bold and stouthearted way; bravely or courageously", "S": [], "A": []}

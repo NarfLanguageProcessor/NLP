@@ -1,0 +1,1 @@
+{"index": 313975, "D": "a member of a Bantu people of Zanzibar and the neighboring coast of Africa.", "S": [], "A": []}

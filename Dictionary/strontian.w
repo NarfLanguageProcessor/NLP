@@ -1,0 +1,1 @@
+{"index": 306552, "D": "strontianite. ", "S": [], "A": []}

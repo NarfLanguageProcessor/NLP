@@ -1,0 +1,1 @@
+{"index": 116597, "D": "the fore part of a weather deck, especially between a bridge house or superstructure and a forecastle superstructure.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227312, "D": "of, belonging, or pertaining to the order Passeriformes, comprising more than half of all birds and typically having the feet adapted for perching.", "S": [], "A": []}

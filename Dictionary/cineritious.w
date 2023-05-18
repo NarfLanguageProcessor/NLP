@@ -1,0 +1,1 @@
+{"index": 57710, "D": "in the state of or reduced to ashes", "S": [], "A": []}

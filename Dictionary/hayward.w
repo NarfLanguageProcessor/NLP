@@ -1,0 +1,1 @@
+{"index": 132487, "D": "an officer having charge of hedges and fences around a town common, especially to keep cattle from breaking through and to impound stray cattle.", "S": [], "A": []}

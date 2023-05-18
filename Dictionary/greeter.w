@@ -1,0 +1,1 @@
+{"index": 129622, "D": "a person who greets people at the entrance of a shop, restaurant, casino, etc", "S": [], "A": []}

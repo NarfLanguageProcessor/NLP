@@ -1,0 +1,1 @@
+{"index": 23530, "D": "a radiance surrounding the head or the whole figure in the representation of a sacred personage.", "S": ["corona ", "halo "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 112501, "D": "an independent archipelago of some 800 islands in the S Pacific, N of New Zealand, composed of the Fiji Islands  and a smaller group to the NW", "S": [], "A": []}

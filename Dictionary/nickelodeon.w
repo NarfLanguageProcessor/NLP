@@ -1,0 +1,1 @@
+{"index": 199635, "D": "an early movie theater  where a film or a variety show could be seen, usually for the admission price of a nickel. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 121693, "D": "a person who is skilled at manipulating events and circumstances to gain or maintain personal advantage, especially in business or politics.", "S": ["big-time operator ", "horse trader ", "operator "], "A": []}

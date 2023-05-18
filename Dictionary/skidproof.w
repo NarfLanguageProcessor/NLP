@@ -1,0 +1,1 @@
+{"index": 293118, "D": "preventing or resistant to skidding,  as certain road surfaces or vehicle tires.", "S": [], "A": []}

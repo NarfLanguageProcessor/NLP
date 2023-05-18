@@ -1,0 +1,1 @@
+{"index": 358153, "D": "an opening, as in a wall, serving as an outlet for air, smoke, fumes, or the like.", "S": ["emit ", "pour out ", "unleash ", "utter ", "ventilate "], "A": ["conceal ", "be quiet ", "deny ", "hold ", "keep ", "suppress ", "take "]}

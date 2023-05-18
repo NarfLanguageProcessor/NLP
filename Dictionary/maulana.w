@@ -1,0 +1,1 @@
+{"index": 181408, "D": "(in Pakistan, India, etc) a title used for a scholar of Persian and Arabic", "S": [], "A": []}

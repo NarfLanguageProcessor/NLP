@@ -1,0 +1,1 @@
+{"index": 204122, "D": "any nourishing substance that is eaten, drunk, or otherwise taken into the body to sustain life, provide energy, promote growth, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 81887, "D": "to remove or withhold something from the enjoyment or possession of (a person or persons)", "S": ["bankrupt ", "bereave ", "dispossess ", "divest ", "rob ", "strip "], "A": ["clothe ", "cover ", "build ", "construct ", "give ", "keep "]}

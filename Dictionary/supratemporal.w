@@ -1,0 +1,1 @@
+{"index": 313263, "D": "situated above the upper part of the temporal bone  or region.", "S": [], "A": []}

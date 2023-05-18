@@ -1,0 +1,1 @@
+{"index": 277384, "D": "pertaining to or of the nature of a salutation.", "S": [], "A": []}

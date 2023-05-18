@@ -1,0 +1,1 @@
+{"index": 155987, "D": "a place or position in which a person or thing is normally located.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 3629, "D": "to revoke (a legacy) by ademption.", "S": [], "A": []}

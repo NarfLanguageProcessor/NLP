@@ -1,0 +1,1 @@
+{"index": 171081, "D": "a colorless plastid in the cells of roots, storage organs, and underground stems, serving as a point around which starch forms.", "S": [], "A": []}

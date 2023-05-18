@@ -1,0 +1,1 @@
+{"index": 36770, "D": "a process of photographic printing,  used chiefly in copying architectural and mechanical drawings, which produces a white line on a blue  background.", "S": [], "A": []}

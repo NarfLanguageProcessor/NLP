@@ -1,0 +1,1 @@
+{"index": 324805, "D": [], "S": ["falter ", "lurch ", "shake ", "stagger ", "stumble ", "teeter "], "A": ["stabilize ", "steady "]}

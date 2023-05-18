@@ -1,0 +1,1 @@
+{"index": 98880, "D": "a female ruler of an empire.", "S": ["princess ", "queen ", "sovereign "], "A": []}

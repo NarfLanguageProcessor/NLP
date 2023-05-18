@@ -1,0 +1,1 @@
+{"index": 44430, "D": "(in fungi) an aecium in which the spores are formed in chains and not enclosed in a peridium.", "S": [], "A": []}

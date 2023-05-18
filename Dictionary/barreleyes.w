@@ -1,0 +1,1 @@
+{"index": 28317, "D": "any of the bathypelagic fishes of the family Opisthoproctidae, especially Macropinna microstoma, having telescoping eyes. ", "S": [], "A": []}

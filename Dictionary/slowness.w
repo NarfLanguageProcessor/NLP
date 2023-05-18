@@ -1,0 +1,1 @@
+{"index": 294469, "D": "moving or proceeding with little or less than usual speed or velocity", "S": ["sluggishness ", "unwillingness "], "A": ["concern ", "feeling ", "interest ", "sympathy "]}

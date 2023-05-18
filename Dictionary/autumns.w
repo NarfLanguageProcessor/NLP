@@ -1,0 +1,1 @@
+{"index": 24502, "D": "the season between summer and winter; fall. In the Northern Hemisphere it is from the September equinox to the December solstice; in the Southern Hemisphere it is from the March equinox to the June solstice.", "S": ["fall ", "harvest "], "A": ["spring "]}

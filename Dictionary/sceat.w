@@ -1,0 +1,1 @@
+{"index": 279931, "D": "a silver Anglo-Saxon coin of the 7th and 8th centuries, sometimes including an amount of gold.", "S": [], "A": []}

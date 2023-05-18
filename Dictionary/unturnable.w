@@ -1,0 +1,1 @@
+{"index": 353484, "D": "to cause to move around on an axis or about a center; rotate", "S": [], "A": []}

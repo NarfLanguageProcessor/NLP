@@ -1,0 +1,1 @@
+{"index": 132048, "D": "a colourless or yellowish crystalline compound that turns red on exposure to light", "S": [], "A": []}

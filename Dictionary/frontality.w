@@ -1,0 +1,1 @@
+{"index": 119337, "D": "the representation of the front view of figures or objects in a work of art.", "S": [], "A": []}

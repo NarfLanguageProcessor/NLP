@@ -1,0 +1,1 @@
+{"index": 311697, "D": "the action or process of flowing out; efflux.", "S": [], "A": []}

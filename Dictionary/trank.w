@@ -1,0 +1,1 @@
+{"index": 327629, "D": "a tranquilizer.", "S": [], "A": []}

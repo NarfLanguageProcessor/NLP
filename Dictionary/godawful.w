@@ -1,0 +1,1 @@
+{"index": 127305, "D": "extremely dreadful or shocking", "S": ["appalling ", "awful ", "dreadful ", "horrible ", "horrid ", "horrifying ", "rotten ", "terrible "], "A": ["good ", "nice ", "pleasant ", "pleasing ", "wonderful "]}

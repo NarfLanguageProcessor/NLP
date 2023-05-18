@@ -1,0 +1,1 @@
+{"index": 160486, "D": "a broad-mouthed container, usually cylindrical and of glass or earthenware", "S": [], "A": []}

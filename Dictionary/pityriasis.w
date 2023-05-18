@@ -1,0 +1,1 @@
+{"index": 238387, "D": "any of various skin diseases marked by the shedding of branlike scales of epidermis.", "S": [], "A": []}

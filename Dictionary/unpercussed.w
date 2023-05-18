@@ -1,0 +1,1 @@
+{"index": 347689, "D": "to strike or tap for diagnostic or therapeutic purposes.", "S": [], "A": []}

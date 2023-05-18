@@ -1,0 +1,1 @@
+{"index": 315713, "D": "having a relatively great height; of more than average stature", "S": ["ceiling ", "crest ", "elevation ", "extent ", "peak ", "pinnacle ", "prominence ", "stature "], "A": ["base ", "bottom ", "nadir "]}

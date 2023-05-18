@@ -1,0 +1,1 @@
+{"index": 250370, "D": "a sharp point.", "S": ["crawl ", "creep ", "irritate ", "prick ", "prickle ", "sting ", "tickle ", "titillate "], "A": ["dislike ", "hate "]}

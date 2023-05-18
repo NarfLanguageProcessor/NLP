@@ -1,0 +1,1 @@
+{"index": 79120, "D": "a rendering null and void.", "S": ["abolishment ", "abolition ", "abrogation ", "cancellation ", "dissolution ", "invalidation ", "nullification ", "reversal ", "voidance "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 323131, "D": "the syllable for the seventh tone of a diatonic scale.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332087, "D": "a short tubular opening, as in a glass jar or at the top of a retort.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311888, "D": "of, like, or of the nature of a plant leaf; leaflike.", "S": [], "A": []}

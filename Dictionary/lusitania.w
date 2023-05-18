@@ -1,0 +1,1 @@
+{"index": 176390, "D": "a British luxury liner sunk by a German submarine in the North Atlantic Ocean  on May 7, 1915", "S": [], "A": []}

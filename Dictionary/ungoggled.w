@@ -1,0 +1,1 @@
+{"index": 343161, "D": "glasses, or eyeglasses", "S": [], "A": []}

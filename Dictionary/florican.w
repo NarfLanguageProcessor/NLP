@@ -1,0 +1,1 @@
+{"index": 115023, "D": "any of various smaller species of bustards.", "S": [], "A": []}

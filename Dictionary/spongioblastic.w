@@ -1,0 +1,1 @@
+{"index": 300784, "D": "one of the primordial cells in the embryonic brain and spinal cord capable of developing into neuroglia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 203167, "D": "lacking in frankness, candor, or sincerity; falsely or hypocritically ingenuous;  insincere", "S": [], "A": []}

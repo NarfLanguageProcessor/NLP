@@ -1,0 +1,1 @@
+{"index": 349198, "D": "an act of recognizing or the state of being recognized.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 219310, "D": "having a widespread reputation, usually of a favorable nature; renowned; celebrated", "S": [], "A": []}

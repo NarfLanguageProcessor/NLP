@@ -1,0 +1,1 @@
+{"index": 109555, "D": "of, relating to, or having the qualities of Falstaff,  especially his robust, bawdy humor, good-natured rascality, and brazen braggadocio", "S": [], "A": []}

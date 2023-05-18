@@ -1,0 +1,1 @@
+{"index": 124732, "D": "a judge of Israel and conqueror of the Midianites. Judges 6\u20138.", "S": [], "A": []}

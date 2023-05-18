@@ -1,0 +1,1 @@
+{"index": 218149, "D": "the state of being compulsively committed to a habit or practice or to something that is psychologically or physically habit-forming, as narcotics, to such an extent that its cessation causes severe trauma.", "S": [], "A": []}

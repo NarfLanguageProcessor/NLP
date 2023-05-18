@@ -1,0 +1,1 @@
+{"index": 356634, "D": "a student, usually the one ranking highest academically in a school graduating class, who delivers the valedictory  at the commencement exercises.", "S": [], "A": []}

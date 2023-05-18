@@ -1,0 +1,1 @@
+{"index": 286679, "D": "the act of a person or thing that sets.", "S": ["fixings ", "service ", "set-up "], "A": []}

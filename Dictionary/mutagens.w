@@ -1,0 +1,1 @@
+{"index": 196215, "D": "a substance or preparation capable of inducing mutation. ", "S": ["poison ", "toxin "], "A": []}

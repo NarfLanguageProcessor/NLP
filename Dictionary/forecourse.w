@@ -1,0 +1,1 @@
+{"index": 116585, "D": "the lowermost sail on a square-rigged foremast; a square foresail.", "S": [], "A": []}

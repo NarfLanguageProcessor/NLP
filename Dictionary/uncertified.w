@@ -1,0 +1,1 @@
+{"index": 336677, "D": "having or proved by a certificate", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 272557, "D": "the starchy seeds or grain of an annual marsh grass, Oryza sativa, cultivated in warm climates and used for food.", "S": [], "A": []}

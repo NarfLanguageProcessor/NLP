@@ -1,0 +1,1 @@
+{"index": 52398, "D": "the position of a chancellor.", "S": [], "A": []}

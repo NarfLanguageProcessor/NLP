@@ -1,0 +1,1 @@
+{"index": 162732, "D": "(in Japan) a small basketwork palanquin strung from a pole each end of which rests on the shoulder of a bearer.", "S": [], "A": []}

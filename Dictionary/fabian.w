@@ -1,0 +1,1 @@
+{"index": 108876, "D": "seeking victory by delay and harassment rather than by a decisive battle as in the manner of Fabius Maximus", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 64883, "D": "to include or contain", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 16406, "D": "an antitoxin present in the blood of an animal following repeated injections of venom.", "S": [], "A": []}

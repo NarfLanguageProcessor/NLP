@@ -1,0 +1,1 @@
+{"index": 370076, "D": "a member of a Nguni people living mainly in Natal, Republic of South Africa.", "S": [], "A": []}

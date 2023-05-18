@@ -1,0 +1,1 @@
+{"index": 82410, "D": "a person or thing that descends.", "S": [], "A": []}

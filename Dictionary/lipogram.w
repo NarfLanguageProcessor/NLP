@@ -1,0 +1,1 @@
+{"index": 173178, "D": "a written work composed of words chosen so as to avoid the use of one or more specific alphabetic characters.", "S": [], "A": []}

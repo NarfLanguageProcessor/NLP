@@ -1,0 +1,1 @@
+{"index": 117875, "D": "striking as with lightning; sudden and overwhelming in effect; stunning; dazzling.", "S": [], "A": []}

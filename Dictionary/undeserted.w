@@ -1,0 +1,1 @@
+{"index": 340158, "D": "abandoned; forsaken", "S": [], "A": []}

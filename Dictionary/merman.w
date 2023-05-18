@@ -1,0 +1,1 @@
+{"index": 183873, "D": "(in folklore) a male marine creature, having the head, torso, and arms of a man and the tail of a fish.", "S": ["mariner "], "A": []}

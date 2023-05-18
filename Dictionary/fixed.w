@@ -1,0 +1,1 @@
+{"index": 113606, "D": "fastened, attached, or placed so as to be firm and not readily movable; firmly implanted; stationary; rigid.", "S": ["established ", "hooked ", "immovable ", "locked ", "rigid ", "settled ", "tight "], "A": ["insecure ", "loose ", "movable ", "moving ", "unfixed ", "unstable "]}

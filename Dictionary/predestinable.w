@@ -1,0 +1,1 @@
+{"index": 246839, "D": "to destine in advance; foreordain; predetermine", "S": [], "A": []}

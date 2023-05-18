@@ -1,0 +1,1 @@
+{"index": 303141, "D": "a three-dimensional work of art, as a representational or abstract form, carved in stone or wood, molded in a plastic material, cast in bronze, or the like.", "S": ["immobile ", "immovable ", "motionless ", "quiescent ", "rooted ", "stable ", "staunch ", "unwavering "], "A": ["affected ", "caring ", "moved ", "touched "]}

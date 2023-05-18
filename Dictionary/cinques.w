@@ -1,0 +1,1 @@
+{"index": 57833, "D": "the five at dice, cards, etc.", "S": ["cinquefoil ", "limerick ", "lustrum ", "pentacle ", "pentad ", "pentagon ", "pentagram ", "pentangle ", "quinquennium ", "quintette ", "quintuple ", "quintuplet "], "A": []}

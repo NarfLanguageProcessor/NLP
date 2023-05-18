@@ -1,0 +1,1 @@
+{"index": 151452, "D": "to make drunk; intoxicate. ", "S": ["exhilarate ", "stimulate "], "A": ["depress ", "discourage "]}

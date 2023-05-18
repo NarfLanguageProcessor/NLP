@@ -1,0 +1,1 @@
+{"index": 42056, "D": "a deep, cylindrical vessel, usually of metal, plastic, or wood, with a flat bottom and a semicircular bail, for collecting, carrying, or holding water, sand, fruit, etc.; pail.", "S": ["can ", "canister ", "cask ", "kettle ", "pail ", "pot "], "A": []}

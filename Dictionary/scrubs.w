@@ -1,0 +1,1 @@
+{"index": 282036, "D": "the hygienic clothing worn by surgeons and other operating theatre staff during an operation", "S": ["gown ", "scrub suit "], "A": []}

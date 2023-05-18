@@ -1,0 +1,1 @@
+{"index": 32141, "D": "a horizontal surface between the exterior slope of a rampart and the moat.", "S": ["boundary ", "brink ", "corner ", "end ", "fringe ", "line ", "lip ", "margin ", "mouth ", "outskirt ", "peak ", "perimeter ", "point ", "rim ", "shore ", "side ", "threshold ", "tip ", "verge "], "A": ["bottom ", "center ", "inside ", "interior ", "middle "]}

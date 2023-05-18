@@ -1,0 +1,1 @@
+{"index": 63276, "D": "a flexible, lighted, tubular instrument using fiber optics to permit visualization of the colon. ", "S": [], "A": []}

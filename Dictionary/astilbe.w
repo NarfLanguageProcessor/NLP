@@ -1,0 +1,1 @@
+{"index": 22120, "D": "any plant of the genus Astilbe, of the saxifrage family, having spirelike clusters of small white, pink, or reddish flowers.", "S": [], "A": []}

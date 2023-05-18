@@ -1,0 +1,1 @@
+{"index": 30561, "D": "to confuse, as with glib statements or arguments", "S": ["baffle ", "bewilder ", "daze ", "disorient ", "distract ", "dumbfound ", "fluster ", "intoxicate ", "muddle ", "puzzle ", "stupefy "], "A": ["clarify ", "clear up ", "enlighten ", "explain ", "explicate "]}

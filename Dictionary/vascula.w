@@ -1,0 +1,1 @@
+{"index": 357350, "D": "a kind of case or box used by botanists for carrying specimens as they are collected.", "S": [], "A": []}

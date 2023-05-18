@@ -1,0 +1,1 @@
+{"index": 103055, "D": "an external parasite or commensal on the body of an animal; ectozoon.", "S": [], "A": []}

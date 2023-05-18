@@ -1,0 +1,1 @@
+{"index": 267845, "D": "the action, fact, or instance of occurring.", "S": ["frequency ", "habituation ", "intermittence ", "reappearance ", "regularity ", "repetition ", "repetitiveness ", "return "], "A": []}

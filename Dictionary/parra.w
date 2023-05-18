@@ -1,0 +1,1 @@
+{"index": 226816, "D": "a tourist or non-resident on a beach", "S": [], "A": []}

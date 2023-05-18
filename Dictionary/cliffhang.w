@@ -1,0 +1,1 @@
+{"index": 59925, "D": "to wait eagerly for the outcome of a suspenseful situation or contest.", "S": [], "A": []}

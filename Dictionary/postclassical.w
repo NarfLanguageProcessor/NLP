@@ -1,0 +1,1 @@
+{"index": 243985, "D": "of or relating to a time after the classical period, especially in art, culture, or literature.", "S": [], "A": []}

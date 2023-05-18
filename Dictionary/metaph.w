@@ -1,0 +1,1 @@
+{"index": 184872, "D": "metaphysical.", "S": [], "A": []}

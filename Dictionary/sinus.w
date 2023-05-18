@@ -1,0 +1,1 @@
+{"index": 292138, "D": "a curve; bend.", "S": ["antrum ", "channel ", "depression ", "hollow ", "opening ", "pocket ", "recess "], "A": ["solid "]}

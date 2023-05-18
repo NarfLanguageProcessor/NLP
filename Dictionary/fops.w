@@ -1,0 +1,1 @@
+{"index": 116299, "D": "a man who is excessively vain and concerned about his dress, appearance, and manners.", "S": ["beau ", "clotheshorse ", "coxcomb ", "dude ", "macaroni ", "peacock ", "popinjay "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 361601, "D": "the act of killing a fox other than by hunting it with hounds.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 229287, "D": "any of a group of large primitive reptiles belonging to the extinct order Pelycosauria, abundant in North America and Europe during the Permian Period, often having a tall spinal sail.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 100364, "D": "to engird.", "S": ["band ", "begird ", "belt ", "cincture ", "circle ", "compass ", "encompass ", "engird ", "gird ", "girdle ", "ring ", "surround "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 61387, "D": "to chair along with another person or persons.", "S": [], "A": []}

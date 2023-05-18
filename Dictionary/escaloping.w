@@ -1,0 +1,1 @@
+{"index": 104117, "D": "to bake (food cut into pieces) in a sauce or other liquid, often with crumbs on top; scallop. ", "S": [], "A": []}

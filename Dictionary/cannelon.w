@@ -1,0 +1,1 @@
+{"index": 46395, "D": "tubular or rolled pieces of pasta, usually filled with a mixture of meat or poultry and often cheese and baked in a cream or tomato sauce.", "S": [], "A": []}

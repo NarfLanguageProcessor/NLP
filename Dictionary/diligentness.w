@@ -1,0 +1,1 @@
+{"index": 85745, "D": "constant in effort to accomplish something; attentive and persistent in doing anything", "S": [], "A": []}

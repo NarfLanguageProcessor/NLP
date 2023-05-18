@@ -1,0 +1,1 @@
+{"index": 23796, "D": "to establish as genuine.", "S": ["decisive "], "A": ["confusing ", "inconclusive "]}

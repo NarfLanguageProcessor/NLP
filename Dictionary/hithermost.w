@@ -1,0 +1,1 @@
+{"index": 141975, "D": "nearest in this direction.", "S": [], "A": []}

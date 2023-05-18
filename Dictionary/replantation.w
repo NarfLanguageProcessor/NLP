@@ -1,0 +1,1 @@
+{"index": 268255, "D": "the reattachment of (severed limbs or parts) by surgery", "S": [], "A": []}

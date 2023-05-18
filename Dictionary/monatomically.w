@@ -1,0 +1,1 @@
+{"index": 191790, "D": "having one atom in the molecule.", "S": [], "A": []}

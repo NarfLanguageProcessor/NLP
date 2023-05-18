@@ -1,0 +1,1 @@
+{"index": 279602, "D": "to a barely sufficient degree; in a meager or barely adequate quantity or way", "S": ["almost ", "hardly ", "scarcely "], "A": []}

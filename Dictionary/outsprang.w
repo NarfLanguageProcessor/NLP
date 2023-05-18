@@ -1,0 +1,1 @@
+{"index": 217569, "D": "to rise, leap, move, or act suddenly and swiftly, as by a sudden dart or thrust forward or outward, or being suddenly released from a coiled or constrained position", "S": [], "A": []}

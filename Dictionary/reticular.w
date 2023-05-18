@@ -1,0 +1,1 @@
+{"index": 270436, "D": "having the form of a net; netlike.", "S": ["complicated ", "mystifying ", "perplexing ", "puzzling ", "sticky ", "thorny ", "tricky "], "A": ["easy ", "facile ", "smooth "]}

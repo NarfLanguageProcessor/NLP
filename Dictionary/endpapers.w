@@ -1,0 +1,1 @@
+{"index": 100064, "D": "a sheet of paper, often distinctively colored or ornamented, folded vertically once to form two leaves, one of which is pasted flat to the inside of the front or back cover of a book, with the other pasted to the inside edge of the first or last page to form a flyleaf.", "S": [], "A": []}

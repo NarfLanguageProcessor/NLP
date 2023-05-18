@@ -1,0 +1,1 @@
+{"index": 50696, "D": "the bonelike tissue that forms the outer surface of the root of the tooth.", "S": [], "A": []}

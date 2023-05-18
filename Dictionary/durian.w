@@ -1,0 +1,1 @@
+{"index": 94452, "D": "the edible fruit of a tree, Durio zibethinus, of the bombax family, of southeastern Asia, having a hard, prickly rind, a highly flavored, pulpy flesh, and an unpleasant odor.", "S": [], "A": []}

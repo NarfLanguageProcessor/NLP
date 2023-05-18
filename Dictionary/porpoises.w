@@ -1,0 +1,1 @@
+{"index": 243549, "D": "any of several small, gregarious cetacean  mammals of the genus Phocoena, usually blackish above and paler beneath, and having a blunt, rounded snout, especially the common porpoise, P. phocoena, of both the North Atlantic Ocean  and the Pacific Ocean. ", "S": ["beluga ", "dolphin ", "grampus ", "mammal ", "narwal ", "orca ", "whale "], "A": []}

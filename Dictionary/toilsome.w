@@ -1,0 +1,1 @@
+{"index": 325163, "D": "characterized by or involving toil;  laborious or fatiguing.", "S": ["arduous ", "backbreaking ", "burdensome ", "demanding ", "difficult ", "exhausting ", "hard ", "labored ", "onerous ", "operose ", "rough ", "strenuous ", "taxing ", "tiresome ", "uphill "], "A": []}

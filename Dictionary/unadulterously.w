@@ -1,0 +1,1 @@
+{"index": 334664, "D": "characterized by or involved in adultery;  illicit", "S": [], "A": []}

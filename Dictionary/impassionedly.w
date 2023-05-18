@@ -1,0 +1,1 @@
+{"index": 148337, "D": "filled with intense feeling or passion; passionate; ardent.", "S": ["admiringly ", "affectionately ", "earnestly ", "fondly ", "longingly ", "passionately ", "respectfully ", "reverently ", "thoughtfully ", "warmly ", "zealously "], "A": []}

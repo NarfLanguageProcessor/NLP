@@ -1,0 +1,1 @@
+{"index": 117217, "D": "to form by heating and hammering; beat into shape.", "S": ["counterfeiter "], "A": []}

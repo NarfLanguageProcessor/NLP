@@ -1,0 +1,1 @@
+{"index": 237614, "D": "a blackish mineral, silver antimony sulfide, AgSbS3, showing, when transparent, a deep ruby-red color by transmitted light; ruby silver", "S": [], "A": []}

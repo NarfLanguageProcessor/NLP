@@ -1,0 +1,1 @@
+{"index": 25043, "D": "a small, stemless aquatic plant, Subularia aquatica, of the mustard family, having slender, sharp-pointed leaves and minute white flowers.", "S": [], "A": []}

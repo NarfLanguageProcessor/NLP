@@ -1,0 +1,1 @@
+{"index": 228054, "D": "a city in and the capital of Pyr\u00e9n\u00e9es-Atlantiques department, in SW France", "S": [], "A": []}

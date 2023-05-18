@@ -1,0 +1,1 @@
+{"index": 322856, "D": "made or intended to be discarded after use or quick examination", "S": ["booklet ", "brochure ", "daily ", "journal ", "manual ", "newsletter ", "newspaper ", "pamphlet ", "paper ", "periodical ", "weekly "], "A": []}

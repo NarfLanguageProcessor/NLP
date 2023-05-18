@@ -1,0 +1,1 @@
+{"index": 206414, "D": "full of, containing, forming, or discharging pus; suppurating", "S": [], "A": []}

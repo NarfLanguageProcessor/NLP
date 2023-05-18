@@ -1,0 +1,1 @@
+{"index": 285970, "D": "by chance or accident", "S": [], "A": []}

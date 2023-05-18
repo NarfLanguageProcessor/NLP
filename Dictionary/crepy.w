@@ -1,0 +1,1 @@
+{"index": 72691, "D": "(esp of the skin) having a dry wrinkled appearance like crepe", "S": [], "A": []}

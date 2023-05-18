@@ -1,0 +1,1 @@
+{"index": 43055, "D": "a triangular flag or one having a shallow, angular indentation in the fly, forming two tails, used as an identification flag, especially by yachts.", "S": ["banderol ", "banner ", "banneret ", "bannerol ", "colors ", "ensign ", "guidon ", "masthead ", "oriflamme ", "pennant ", "pennon ", "standard ", "streamer "], "A": []}

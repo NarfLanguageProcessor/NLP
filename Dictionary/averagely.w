@@ -1,0 +1,1 @@
+{"index": 24670, "D": "a quantity, rating, or the like that represents or approximates an arithmetic mean", "S": ["abundantly ", "acceptably ", "admissibly ", "amply ", "barely ", "commensurately ", "decently ", "fairly ", "moderately ", "passably ", "proportionately ", "rather ", "reasonably ", "satisfactorily ", "so-so ", "sufficiently ", "tolerably "], "A": ["inadequately "]}

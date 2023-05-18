@@ -1,0 +1,1 @@
+{"index": 173417, "D": "a seaport in and the capital of Portugal, in the SW part, on the Tagus estuary.", "S": [], "A": []}

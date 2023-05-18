@@ -1,0 +1,1 @@
+{"index": 167325, "D": "a small gift given with a purchase to a customer, by way of compliment or for good measure; bonus. ", "S": [], "A": []}

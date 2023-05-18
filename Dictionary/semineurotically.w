@@ -1,0 +1,1 @@
+{"index": 284532, "D": "of, relating to, or characteristic of neurosis. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 57880, "D": "the process of encrypting telecommunication signals, as to prevent information from being intercepted by an enemy or competitor.", "S": [], "A": []}

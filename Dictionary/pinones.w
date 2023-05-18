@@ -1,0 +1,1 @@
+{"index": 237223, "D": "any of several pines of southwestern North America, as Pinus monophylla or P. edulis, bearing edible, nutlike seeds.", "S": [], "A": []}

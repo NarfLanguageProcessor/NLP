@@ -1,0 +1,1 @@
+{"index": 280635, "D": "knowledge is power.", "S": [], "A": []}

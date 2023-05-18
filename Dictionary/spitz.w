@@ -1,0 +1,1 @@
+{"index": 300283, "D": "any of several dogs having a stocky body, a thick coat, erect, pointed ears, and a tail curved over the back, as a chow chow, Pomeranian, or Samoyed.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 220959, "D": "the state of being satiated; surfeit.", "S": [], "A": []}

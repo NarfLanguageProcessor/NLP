@@ -1,0 +1,1 @@
+{"index": 200995, "D": "using, containing, or characterized by harshly or coarsely insulting language", "S": [], "A": []}

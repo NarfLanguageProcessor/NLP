@@ -1,0 +1,1 @@
+{"index": 192594, "D": "a substance for propelling rockets that is a mixture of fuel and oxidizer.", "S": [], "A": []}

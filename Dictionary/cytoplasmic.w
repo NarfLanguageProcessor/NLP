@@ -1,0 +1,1 @@
+{"index": 58795, "D": "the cell substance between the cell membrane and the nucleus, containing the cytosol, organelles, cytoskeleton, and various particles.", "S": [], "A": []}

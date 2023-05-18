@@ -1,0 +1,1 @@
+{"index": 363160, "D": "a drinking glass; tumbler.", "S": [], "A": []}

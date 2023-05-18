@@ -1,0 +1,1 @@
+{"index": 159678, "D": "(used to express enjoyment or satisfaction, especially in the taste of food.)", "S": [], "A": []}

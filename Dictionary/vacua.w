@@ -1,0 +1,1 @@
+{"index": 356416, "D": "a plural of vacuum. ", "S": [], "A": []}

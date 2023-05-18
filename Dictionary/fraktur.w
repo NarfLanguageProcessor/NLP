@@ -1,0 +1,1 @@
+{"index": 118280, "D": "German black-letter text, a style of type.", "S": [], "A": []}

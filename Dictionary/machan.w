@@ -1,0 +1,1 @@
+{"index": 176724, "D": "(in India) a raised platform used in tiger hunting", "S": [], "A": []}

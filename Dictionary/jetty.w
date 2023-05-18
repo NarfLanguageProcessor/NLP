@@ -1,0 +1,1 @@
+{"index": 161061, "D": "a pier or structure of stones, piles, or the like, projecting into the sea or other body of water to protect a harbor, deflect the current, etc.", "S": ["seawall ", "wharf "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108690, "D": "to force out from the proper vessels, as blood, especially so as to diffuse through the surrounding tissues.", "S": ["belch ", "discharge ", "disgorge ", "eject ", "eruct ", "expel ", "explode ", "gush ", "hurl ", "spew ", "vent "], "A": ["take in "]}

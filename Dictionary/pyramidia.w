@@ -1,0 +1,1 @@
+{"index": 237578, "D": "a miniature pyramid, as at the apex of an obelisk.", "S": [], "A": []}

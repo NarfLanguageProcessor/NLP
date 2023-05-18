@@ -1,0 +1,1 @@
+{"index": 240531, "D": "to pluck (a stringed instrument or its strings); twang", "S": ["plop "], "A": []}

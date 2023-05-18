@@ -1,0 +1,1 @@
+{"index": 265395, "D": "to make or keep cold or cool, as for preservation.", "S": [], "A": []}

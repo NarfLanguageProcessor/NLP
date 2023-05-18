@@ -1,0 +1,1 @@
+{"index": 186743, "D": "the point of a horoscope corresponding to the zenith", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 225946, "D": "a type of mental disorder characterized by a preference for or obsession with unusual sexual practices, as pedophilia, sadomasochism, or exhibitionism.", "S": [], "A": []}

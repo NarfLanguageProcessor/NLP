@@ -1,0 +1,1 @@
+{"index": 282202, "D": "a woman who practices the art of sculpture.", "S": [], "A": []}

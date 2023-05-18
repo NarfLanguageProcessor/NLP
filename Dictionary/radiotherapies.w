@@ -1,0 +1,1 @@
+{"index": 259808, "D": "treatment of disease by means of x-rays or of radioactive substances.", "S": [], "A": []}

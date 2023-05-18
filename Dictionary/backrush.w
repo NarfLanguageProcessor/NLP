@@ -1,0 +1,1 @@
+{"index": 25876, "D": "the return of water seaward, down the foreshore of a beach, following the uprush of a wave.", "S": [], "A": []}

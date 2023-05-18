@@ -1,0 +1,1 @@
+{"index": 268548, "D": "to delay the impending punishment or sentence of (a condemned person).", "S": ["abatement ", "absolution ", "amnesty ", "clemency ", "deferment ", "pardon ", "postponement ", "remission ", "respite ", "suspension ", "truce "], "A": ["continuation "]}

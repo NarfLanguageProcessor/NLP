@@ -1,0 +1,1 @@
+{"index": 278870, "D": "sluggish in temperament; gloomy; taciturn.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 191171, "D": "the use of individually distinct functional units, as in assembling an electronic or mechanical system.", "S": [], "A": []}

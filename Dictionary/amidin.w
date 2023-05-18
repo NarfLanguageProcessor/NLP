@@ -1,0 +1,1 @@
+{"index": 10418, "D": "the soluble matter of starch.", "S": [], "A": []}

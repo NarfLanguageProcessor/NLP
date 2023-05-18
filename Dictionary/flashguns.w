@@ -1,0 +1,1 @@
+{"index": 114024, "D": "a device that simultaneously discharges a flashbulb and operates a camera shutter.", "S": [], "A": []}

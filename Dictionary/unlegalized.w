@@ -1,0 +1,1 @@
+{"index": 345528, "D": "to make legal;  authorize.", "S": [], "A": []}

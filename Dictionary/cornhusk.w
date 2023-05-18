@@ -1,0 +1,1 @@
+{"index": 69310, "D": "the husk  of an ear of corn. ", "S": [], "A": []}

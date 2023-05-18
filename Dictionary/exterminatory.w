@@ -1,0 +1,1 @@
+{"index": 108286, "D": "serving or tending to exterminate. ", "S": ["deadly ", "mutually destructive "], "A": []}

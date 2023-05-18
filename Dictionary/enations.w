@@ -1,0 +1,1 @@
+{"index": 99102, "D": "a small outgrowth of plant tissue, usually on a leaf, caused by virus infection.", "S": [], "A": []}

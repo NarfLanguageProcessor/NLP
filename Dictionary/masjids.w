@@ -1,0 +1,1 @@
+{"index": 180687, "D": "a mosque.", "S": ["chapel ", "church ", "holy place ", "house of worship ", "place of worship ", "sanctuary ", "shrine ", "synagogue "], "A": []}

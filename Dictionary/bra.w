@@ -1,0 +1,1 @@
+{"index": 39328, "D": "brassiere. ", "S": ["bandeau ", "brassiere ", "corset ", "foundation ", "girdle ", "shapewear "], "A": []}

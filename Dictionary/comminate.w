@@ -1,0 +1,1 @@
+{"index": 64038, "D": "to threaten with divine punishment or vengeance.", "S": ["accurse ", "anathemize ", "damn ", "excommunicate ", "execrate ", "imprecate ", "maledict "], "A": []}

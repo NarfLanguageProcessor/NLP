@@ -1,0 +1,1 @@
+{"index": 174448, "D": "(of a capsule) splitting lengthwise so as to divide each locule into two parts.", "S": [], "A": []}

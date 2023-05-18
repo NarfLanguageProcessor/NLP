@@ -1,0 +1,1 @@
+{"index": 274318, "D": "abounding in or consisting of roots. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 335625, "D": "a defensive barrier hastily constructed, as in a street, to stop an enemy.", "S": [], "A": []}

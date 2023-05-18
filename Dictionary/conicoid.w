@@ -1,0 +1,1 @@
+{"index": 66316, "D": "a quadric, especially a hyperboloid, paraboloid, or ellipsoid.", "S": [], "A": []}

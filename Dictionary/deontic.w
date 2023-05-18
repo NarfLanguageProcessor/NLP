@@ -1,0 +1,1 @@
+{"index": 81426, "D": "of or relating to duty and moral obligation as ethical concepts.", "S": [], "A": []}

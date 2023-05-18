@@ -1,0 +1,1 @@
+{"index": 5369, "D": "to bring into close association or connection of action or interest", "S": ["branch ", "partner "], "A": []}

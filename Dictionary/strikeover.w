@@ -1,0 +1,1 @@
+{"index": 306310, "D": "an act or instance of typing over a character, as one typed in error, without erasing it.", "S": [], "A": []}

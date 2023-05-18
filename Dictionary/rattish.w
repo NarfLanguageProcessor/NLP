@@ -1,0 +1,1 @@
+{"index": 261146, "D": "of, pertaining to, characteristic of, or resembling a rat. ", "S": [], "A": []}

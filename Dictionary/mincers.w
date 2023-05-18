@@ -1,0 +1,1 @@
+{"index": 187686, "D": "to cut or chop into very small pieces.", "S": ["axe ", "dicer ", "molar "], "A": []}

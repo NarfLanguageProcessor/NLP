@@ -1,0 +1,1 @@
+{"index": 296424, "D": "the portion of the earth's surface consisting of disintegrated rock and humus.", "S": ["clay ", "dust ", "ground ", "land "], "A": ["sky "]}

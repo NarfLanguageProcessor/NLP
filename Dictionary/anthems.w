@@ -1,0 +1,1 @@
+{"index": 14333, "D": "a song, as of praise, devotion, or patriotism", "S": ["chant ", "chorus ", "hymn ", "melody "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 200442, "D": "any of a class of compounds derived from the methane series in which a hydrogen atom is replaced by a nitro group.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118535, "D": "(used as an intensifier)", "S": ["go mad "], "A": []}

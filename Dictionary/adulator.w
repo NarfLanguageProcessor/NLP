@@ -1,0 +1,1 @@
+{"index": 4494, "D": "to show excessive admiration or devotion to; flatter or admire servilely.", "S": ["fawner ", "flatterer ", "flunky ", "lackey ", "toady "], "A": []}

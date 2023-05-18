@@ -1,0 +1,1 @@
+{"index": 55013, "D": "a condition in which light-brown spots occur on the skin, caused by exposure to sun, dyspepsia, or certain specific diseases.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 48225, "D": "a customs document allowing an automobile to be driven at no cost across international borders.", "S": [], "A": []}

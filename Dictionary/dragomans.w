@@ -1,0 +1,1 @@
+{"index": 92559, "D": "(in the Middle East) a professional interpreter.", "S": ["linguist "], "A": []}

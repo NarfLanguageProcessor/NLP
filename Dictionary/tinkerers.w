@@ -1,0 +1,1 @@
+{"index": 324024, "D": "a mender of pots, kettles, pans, etc., usually an itinerant.", "S": ["abecedarian ", "beginner ", "dilettante ", "loafer ", "novice ", "potterer ", "pretender ", "trifler ", "tyro ", "uninitiate "], "A": ["expert ", "professional "]}

@@ -1,0 +1,1 @@
+{"index": 248171, "D": [], "S": ["advance ", "growth ", "improvement ", "upgrading "], "A": ["decrease ", "failure ", "stagnation ", "worsening "]}

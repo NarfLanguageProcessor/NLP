@@ -1,0 +1,1 @@
+{"index": 78655, "D": "relieving or tending to relieve congestion.", "S": [], "A": []}

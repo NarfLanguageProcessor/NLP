@@ -1,0 +1,1 @@
+{"index": 324252, "D": "producing typhus or typhoid fever.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 42070, "D": "a horse that bucks habitually, especially such a horse kept for use in rodeos.", "S": [], "A": []}

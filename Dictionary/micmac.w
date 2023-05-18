@@ -1,0 +1,1 @@
+{"index": 185791, "D": "older spelling of Mi'kmaq. ", "S": [], "A": []}

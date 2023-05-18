@@ -1,0 +1,1 @@
+{"index": 153948, "D": "of or relating to an institution  or institutions;  institutional.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 352800, "D": "holding fast; characterized by keeping a firm hold (often followed by of)", "S": [], "A": []}

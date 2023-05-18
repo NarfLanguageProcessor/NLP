@@ -1,0 +1,1 @@
+{"index": 268306, "D": "(in science fiction) a robot or other artificial being in the form of a human or other creature. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 9523, "D": "a valved brass musical instrument, varying in shape, that is the alto member of the cornet family.", "S": [], "A": []}

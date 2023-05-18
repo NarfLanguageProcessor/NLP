@@ -1,0 +1,1 @@
+{"index": 364265, "D": "U.S. inventor and manufacturer.", "S": [], "A": []}

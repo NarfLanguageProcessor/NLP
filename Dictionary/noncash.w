@@ -1,0 +1,1 @@
+{"index": 201817, "D": "of or constituting financial sources other than cash", "S": [], "A": []}

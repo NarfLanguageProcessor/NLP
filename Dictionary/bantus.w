@@ -1,0 +1,1 @@
+{"index": 27616, "D": "a member of any of several peoples forming a linguistically and in some respects culturally interrelated family in central and southern Africa.", "S": [], "A": []}

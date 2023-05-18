@@ -1,0 +1,1 @@
+{"index": 340609, "D": "not dissociated, especially into ions or into simpler molecules.", "S": [], "A": []}

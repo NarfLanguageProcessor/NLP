@@ -1,0 +1,1 @@
+{"index": 249599, "D": "the room  in a printing or newspaper publishing establishment where the printing presses  are installed.", "S": ["proofroom "], "A": []}

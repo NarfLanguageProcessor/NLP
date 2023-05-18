@@ -1,0 +1,1 @@
+{"index": 252044, "D": "any of the class of simple proteins, as gliadin, hordein, or zein, found in grains, soluble in dilute acids, alkalis, and alcohols, and insoluble in water, neutral salt solutions, and absolute alcohol.", "S": [], "A": []}

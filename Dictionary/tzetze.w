@@ -1,0 +1,1 @@
+{"index": 333538, "D": "any of several bloodsucking African flies of the genus Glossina, that act as a vector of sleeping sickness and other trypanosome infections of humans and domestic animals.", "S": [], "A": []}

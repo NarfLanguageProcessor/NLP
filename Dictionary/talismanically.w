@@ -1,0 +1,1 @@
+{"index": 315629, "D": "a stone, ring, or other object, engraved with figures or characters supposed to possess occult powers and worn as an amulet or charm.", "S": [], "A": []}

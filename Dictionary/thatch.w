@@ -1,0 +1,1 @@
+{"index": 320638, "D": "a material, as straw, rushes, leaves, or the like, used to cover roofs, grain stacks, etc.", "S": ["eyebrow ", "fiber ", "fur ", "grass ", "haircut ", "hairstyle ", "mane ", "sideburn ", "strand ", "wig ", "wool "], "A": []}

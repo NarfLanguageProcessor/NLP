@@ -1,0 +1,1 @@
+{"index": 127688, "D": "a reproductive polyp of a colonial hydroid, giving rise asexually to medusa buds.", "S": [], "A": []}

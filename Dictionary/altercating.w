@@ -1,0 +1,1 @@
+{"index": 9459, "D": "to argue or quarrel with zeal, heat, or anger; wrangle.", "S": ["contend ", "disagree ", "dispute ", "quarrel ", "quibble ", "squabble "], "A": ["agree ", "concur ", "give in ", "make peace "]}

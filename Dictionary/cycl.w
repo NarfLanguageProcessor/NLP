@@ -1,0 +1,1 @@
+{"index": 57066, "D": "variant of cyclo-,  before a vowel", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 127463, "D": "a swelling of the thyroid gland, in some cases nearly doubling the size of the neck, usually caused by under- or overproduction of hormone by the gland", "S": [], "A": []}

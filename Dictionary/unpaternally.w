@@ -1,0 +1,1 @@
+{"index": 347537, "D": "characteristic of or befitting a father; fatherly", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 143235, "D": "having the same variance.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 267561, "D": "a hostile meeting; battle.", "S": [], "A": []}

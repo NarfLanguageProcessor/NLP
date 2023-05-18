@@ -1,0 +1,1 @@
+{"index": 347060, "D": "to thrust (something) forward or upon a person, especially without warrant or invitation", "S": [], "A": []}

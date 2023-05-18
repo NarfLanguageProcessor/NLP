@@ -1,0 +1,1 @@
+{"index": 209504, "D": "without value, effect, consequence, or significance.", "S": [], "A": []}

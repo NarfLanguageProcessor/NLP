@@ -1,0 +1,1 @@
+{"index": 262472, "D": "to express sharp, stern disapproval of; reprove; reprimand.", "S": ["admonition ", "censure ", "condemnation ", "disapproval ", "punishment ", "rebuff ", "reproach ", "snub "], "A": ["approval ", "encouragement ", "endorsement ", "exoneration ", "praise ", "sanction ", "commendation ", "flattery "]}

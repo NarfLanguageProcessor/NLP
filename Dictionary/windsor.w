@@ -1,0 +1,1 @@
+{"index": 366049, "D": "Compare Saxe-Coburg-Gotha (def. 1). ", "S": [], "A": []}

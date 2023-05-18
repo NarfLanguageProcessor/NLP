@@ -1,0 +1,1 @@
+{"index": 207210, "D": "(of a gene) located in a sex chromosome.", "S": [], "A": []}

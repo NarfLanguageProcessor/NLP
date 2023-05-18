@@ -1,0 +1,1 @@
+{"index": 140906, "D": "characterized by the introduction of medicine or drugs under the skin", "S": ["bing ", "hypodermal injection ", "hypospray ", "injection ", "intracutaneous injection ", "intramuscular injection ", "intravenous injection ", "jet injection ", "shot "], "A": []}

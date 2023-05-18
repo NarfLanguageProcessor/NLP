@@ -1,0 +1,1 @@
+{"index": 341225, "D": "to settle or lodge in a camp. ", "S": [], "A": []}

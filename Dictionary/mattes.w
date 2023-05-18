@@ -1,0 +1,1 @@
+{"index": 181319, "D": "having a dull or lusterless surface", "S": [], "A": []}

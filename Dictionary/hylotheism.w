@@ -1,0 +1,1 @@
+{"index": 139517, "D": "any philosophical doctrine identifying a god or gods with matter.", "S": [], "A": []}

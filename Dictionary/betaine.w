@@ -1,0 +1,1 @@
+{"index": 32681, "D": "a colorless, crystalline, water-soluble, sweet-tasting alkaloid, C5H11NO2, usually obtained from sugar beets or synthesized from glycine, used chiefly in medicine.", "S": [], "A": []}

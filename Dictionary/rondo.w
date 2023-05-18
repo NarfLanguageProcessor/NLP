@@ -1,0 +1,1 @@
+{"index": 274152, "D": "a work or movement, often the last movement of a sonata, having one principal subject that is stated at least three times in the same key and to which return is made after the introduction of each subordinate theme.", "S": [], "A": []}

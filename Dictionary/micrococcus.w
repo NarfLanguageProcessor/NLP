@@ -1,0 +1,1 @@
+{"index": 186020, "D": "any spherical bacterium of the genus Micrococcus, occurring in irregular masses, many species of which are pigmented and are saprophytic or parasitic.", "S": [], "A": []}

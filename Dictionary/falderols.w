@@ -1,0 +1,1 @@
+{"index": 109452, "D": "mere nonsense; foolish talk or ideas.", "S": [], "A": []}

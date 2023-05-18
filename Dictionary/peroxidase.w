@@ -1,0 +1,1 @@
+{"index": 231744, "D": "any of a class of oxidoreductase enzymes that catalyze the oxidation of a compound by the decomposition of hydrogen peroxide  or an organic peroxide. ", "S": [], "A": []}

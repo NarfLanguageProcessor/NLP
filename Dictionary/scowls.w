@@ -1,0 +1,1 @@
+{"index": 281491, "D": "to draw down or contract the brows in a sullen, displeased, or angry manner.", "S": ["grimace "], "A": ["grin ", "smile "]}

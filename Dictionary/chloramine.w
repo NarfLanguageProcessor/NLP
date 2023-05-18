@@ -1,0 +1,1 @@
+{"index": 55038, "D": "an unstable, colorless liquid, NH2Cl, with a pungent odor, derived from ammonia.", "S": [], "A": []}

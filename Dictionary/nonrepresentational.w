@@ -1,0 +1,1 @@
+{"index": 206724, "D": "not resembling or portraying any object in physical nature", "S": [], "A": []}

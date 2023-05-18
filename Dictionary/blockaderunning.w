@@ -1,0 +1,1 @@
+{"index": 36354, "D": "a ship or person that passes through a blockade.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 150121, "D": "not complete; lacking some part.", "S": ["deficient ", "fragmentary ", "inadequate ", "insufficient ", "lacking ", "partial ", "sketchy "], "A": ["adequate ", "ample ", "complete ", "enough ", "sufficient ", "total ", "whole "]}

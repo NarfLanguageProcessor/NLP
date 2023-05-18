@@ -1,0 +1,1 @@
+{"index": 324916, "D": "a person who presides at a dinner and introduces the after-dinner speakers.", "S": ["administrator ", "chairperson ", "chairwoman ", "director ", "leader ", "spokesman "], "A": []}

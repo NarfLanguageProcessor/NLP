@@ -1,0 +1,1 @@
+{"index": 127217, "D": "any of numerous agile, hollow-horned ruminants of the genus Capra, of the family Bovidae, closely related to the sheep, found native in rocky and mountainous regions of the Old World, and widely distributed in domesticated varieties.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 173643, "D": "to change (sediment) to stone or rock.", "S": [], "A": []}

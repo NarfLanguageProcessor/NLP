@@ -1,0 +1,1 @@
+{"index": 317662, "D": "the study or theory of industry and industrial arts; technology", "S": ["approach ", "arrangement ", "design ", "form ", "habit ", "manner ", "mechanism ", "mode ", "plan ", "practice ", "process ", "program ", "recipe ", "rule ", "scheme ", "style ", "system ", "technique ", "way "], "A": ["disorganization ", "break ", "difference "]}

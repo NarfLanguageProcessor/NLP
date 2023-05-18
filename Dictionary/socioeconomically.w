@@ -1,0 +1,1 @@
+{"index": 296165, "D": "of, relating to, or signifying the combination or interaction of social and economic  factors", "S": [], "A": []}

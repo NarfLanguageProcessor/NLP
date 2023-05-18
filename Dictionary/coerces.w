@@ -1,0 +1,1 @@
+{"index": 62042, "D": "to compel by force, intimidation, or authority, especially without regard for individual desire or volition", "S": ["browbeat ", "bully ", "intimidate ", "repress ", "strong-arm ", "suppress ", "terrorize "], "A": ["allow ", "encourage ", "help ", "let go ", "aid ", "assist ", "discourage ", "dissuade ", "free ", "halt ", "release ", "stop "]}

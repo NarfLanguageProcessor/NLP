@@ -1,0 +1,1 @@
+{"index": 95435, "D": "a literary device consisting of a vivid, detailed description of a visual work of art", "S": [], "A": []}

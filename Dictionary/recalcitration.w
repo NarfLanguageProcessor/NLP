@@ -1,0 +1,1 @@
+{"index": 262534, "D": "to resist or oppose; show strong objection or repugnance.", "S": [], "A": []}

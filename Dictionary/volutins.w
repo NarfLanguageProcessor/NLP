@@ -1,0 +1,1 @@
+{"index": 361284, "D": "basophilic nucleoprotein granules in the cytoplasm or the vacuoles of certain microorganisms.", "S": [], "A": []}

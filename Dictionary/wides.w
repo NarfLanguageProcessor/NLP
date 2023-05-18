@@ -1,0 +1,1 @@
+{"index": 365521, "D": "having considerable or great extent from side to side; broad", "S": [], "A": []}

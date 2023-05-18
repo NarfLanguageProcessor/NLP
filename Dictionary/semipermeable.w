@@ -1,0 +1,1 @@
+{"index": 284697, "D": "permeable  only to certain small molecules", "S": [], "A": []}

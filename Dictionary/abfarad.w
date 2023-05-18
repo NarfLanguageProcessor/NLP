@@ -1,0 +1,1 @@
+{"index": 381, "D": "the centimeter-gram-second unit of capacitance, equivalent to 109 farads.", "S": [], "A": []}

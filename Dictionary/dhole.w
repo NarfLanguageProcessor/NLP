@@ -1,0 +1,1 @@
+{"index": 83922, "D": "a wild Asian dog, Cuon alpinus, that hunts in packs", "S": [], "A": []}

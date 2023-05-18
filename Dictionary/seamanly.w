@@ -1,0 +1,1 @@
+{"index": 282484, "D": "like or befitting a seaman;  showing good seamanship.", "S": [], "A": []}

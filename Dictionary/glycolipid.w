@@ -1,0 +1,1 @@
+{"index": 126266, "D": "any of a class of lipids,  comprising the cerebrosides and gangliosides, that upon hydrolysis yield galactose or a similar sugar, a fatty acid, and sphingosine or dihydrosphingosine.", "S": [], "A": []}

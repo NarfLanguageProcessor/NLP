@@ -1,0 +1,1 @@
+{"index": 99597, "D": "the surgical stripping of a fat-encrusted, thickened arterial lining so as to open or widen the artery for improved blood circulation.", "S": [], "A": []}

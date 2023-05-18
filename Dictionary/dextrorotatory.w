@@ -1,0 +1,1 @@
+{"index": 83843, "D": "turning to the right, as the rotation to the right of the plane of polarization of light in certain crystals and the like. Symbol", "S": [], "A": []}

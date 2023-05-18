@@ -1,0 +1,1 @@
+{"index": 75441, "D": "of or relating to a cur.", "S": [], "A": []}

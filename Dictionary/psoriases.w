@@ -1,0 +1,1 @@
+{"index": 255622, "D": "a common chronic, inflammatory skin disease characterized by scaly patches.", "S": ["crawling ", "creeping ", "irritation ", "itchiness ", "prickling ", "rawness ", "tickle "], "A": ["dislike ", "hate ", "hatred "]}

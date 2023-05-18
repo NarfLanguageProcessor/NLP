@@ -1,0 +1,1 @@
+{"index": 305300, "D": "a single seat on legs or a pedestal and without arms or a back.", "S": ["reveal "], "A": ["conceal ", "cover ", "hide ", "withhold "]}

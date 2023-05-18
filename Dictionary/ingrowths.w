@@ -1,0 +1,1 @@
+{"index": 152589, "D": "growth  inward.", "S": [], "A": []}

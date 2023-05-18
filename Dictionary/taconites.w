@@ -1,0 +1,1 @@
+{"index": 315111, "D": "a low-grade iron ore, containing about 27 percent iron and 51 percent silica, found as a hard rock formation in the Lake Superior region.", "S": [], "A": []}

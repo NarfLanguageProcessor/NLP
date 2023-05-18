@@ -1,0 +1,1 @@
+{"index": 24998, "D": "displaying no awe;  unawed.", "S": [], "A": []}

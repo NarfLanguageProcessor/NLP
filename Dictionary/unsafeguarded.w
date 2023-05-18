@@ -1,0 +1,1 @@
+{"index": 350218, "D": "something that serves as a protection or defense or that ensures safety.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 30693, "D": "(used as a euphemism for by God)", "S": [], "A": []}

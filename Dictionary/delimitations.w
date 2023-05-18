@@ -1,0 +1,1 @@
+{"index": 80113, "D": "an act, instance, or method of fixing the limits or boundaries of something", "S": ["custody ", "detention ", "incarceration ", "internment ", "jail ", "repression "], "A": ["freedom ", "liberation ", "liberty ", "allowance ", "permission "]}

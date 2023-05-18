@@ -1,0 +1,1 @@
+{"index": 25541, "D": "a Persian religion, originating in the 19th century, now supplanted by Baha\u02bei.", "S": [], "A": []}

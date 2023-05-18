@@ -1,0 +1,1 @@
+{"index": 29221, "D": "to stop, as at an obstacle, and refuse to proceed or to do something specified (usually followed by at)", "S": [], "A": []}

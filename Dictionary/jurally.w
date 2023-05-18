@@ -1,0 +1,1 @@
+{"index": 162423, "D": "pertaining to law; legal.", "S": [], "A": []}

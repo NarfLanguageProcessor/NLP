@@ -1,0 +1,1 @@
+{"index": 89828, "D": "abnormal, slow, or difficult childbirth, usually because of disordered or ineffective contractions of the uterus", "S": [], "A": []}

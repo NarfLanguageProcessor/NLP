@@ -1,0 +1,1 @@
+{"index": 41194, "D": "a simple past tense of break. ", "S": ["bankrupt ", "destitute ", "insolvent ", "penniless "], "A": ["rich ", "solvent ", "wealthy "]}

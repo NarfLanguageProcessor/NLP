@@ -1,0 +1,1 @@
+{"index": 72407, "D": "a ridge or groove produced in anything by folding, heat, pressure, etc.; fold; furrow.", "S": [], "A": []}

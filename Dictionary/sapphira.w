@@ -1,0 +1,1 @@
+{"index": 278185, "D": "a woman who, with her husband, Ananias, was struck dead for lying. Acts 5.", "S": [], "A": []}

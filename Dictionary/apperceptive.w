@@ -1,0 +1,1 @@
+{"index": 17711, "D": "conscious perception ", "S": ["attentive ", "aware ", "certain ", "cognizant ", "informed ", "keen ", "mindful ", "responsive ", "sensible ", "sure ", "vigilant ", "watchful "], "A": ["careless ", "heedless ", "ignorant ", "inattentive ", "unaware ", "uncertain ", "unconfident ", "uninformed ", "unsure "]}

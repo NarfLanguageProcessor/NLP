@@ -1,0 +1,1 @@
+{"index": 343548, "D": "swiftness of motion; speed; celerity", "S": [], "A": []}

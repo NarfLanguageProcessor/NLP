@@ -1,0 +1,1 @@
+{"index": 89989, "D": "a pale-yellow, highly toxic liquid, C8H19O2PS3, used as an insecticide and miticide.", "S": [], "A": []}

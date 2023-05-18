@@ -1,0 +1,1 @@
+{"index": 261052, "D": "to reason;  carry on a process of reasoning.", "S": [], "A": []}

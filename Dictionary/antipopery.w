@@ -1,0 +1,1 @@
+{"index": 15928, "D": "the Roman Catholic Church, especially its doctrines, ceremonies, and system of government.", "S": [], "A": []}

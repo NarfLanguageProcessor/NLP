@@ -1,0 +1,1 @@
+{"index": 73795, "D": "a current,  as in a stream, moving across the main current. ", "S": ["atmosphere ", "aura ", "feeling ", "hint ", "inclination ", "indication ", "intimation ", "murmur ", "overtone ", "sense ", "tinge ", "undertone ", "undertow "], "A": []}

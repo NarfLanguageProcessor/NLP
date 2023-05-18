@@ -1,0 +1,1 @@
+{"index": 255903, "D": "the state; republic; commonwealth.", "S": [], "A": []}

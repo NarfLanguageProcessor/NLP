@@ -1,0 +1,1 @@
+{"index": 90078, "D": "a long, narrow excavation made in the ground by digging, as for draining or irrigating land; trench.", "S": ["abandon ", "discard ", "dispose of ", "dump ", "forsake ", "jettison ", "junk ", "scrap "], "A": ["hold ", "keep ", "retain ", "save ", "continue "]}

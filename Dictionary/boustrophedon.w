@@ -1,0 +1,1 @@
+{"index": 39075, "D": "an ancient method of writing in which the lines run alternately from right to left and from left to right.", "S": [], "A": []}

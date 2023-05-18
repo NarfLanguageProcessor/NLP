@@ -1,0 +1,1 @@
+{"index": 19754, "D": "435?\u2013356? b.c., Greek philosopher", "S": [], "A": []}

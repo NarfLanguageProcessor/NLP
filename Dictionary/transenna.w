@@ -1,0 +1,1 @@
+{"index": 327811, "D": "(in early Christian architecture) an openwork screen of stone or metal enclosing a shrine.", "S": [], "A": []}

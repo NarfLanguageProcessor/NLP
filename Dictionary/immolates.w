@@ -1,0 +1,1 @@
+{"index": 148048, "D": "to sacrifice.", "S": ["suffer ", "surrender ", "victimize ", "yield "], "A": ["aid ", "assist ", "disallow ", "fight ", "help ", "refuse ", "reject "]}

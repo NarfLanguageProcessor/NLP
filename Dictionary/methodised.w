@@ -1,0 +1,1 @@
+{"index": 185279, "D": "to reduce (something) to a method. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 265887, "D": "a law, rule, or other order prescribed by authority, especially to regulate  conduct", "S": ["adjustment ", "arrangement ", "control ", "governance ", "management ", "settlement ", "supervision "], "A": ["deregulation ", "disorganization ", "lawlessness ", "mismanagement "]}

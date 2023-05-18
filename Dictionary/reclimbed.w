@@ -1,0 +1,1 @@
+{"index": 262993, "D": "to go up or ascend, especially by using the hands and feet or feet only", "S": [], "A": []}

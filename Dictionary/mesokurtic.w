@@ -1,0 +1,1 @@
+{"index": 184245, "D": "Compare leptokurtic, platykurtic", "S": [], "A": []}

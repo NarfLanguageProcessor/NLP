@@ -1,0 +1,1 @@
+{"index": 175632, "D": "dark and threatening, as the sky, clouds, or weather; overcast; gloomy", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 340589, "D": "argued or debated about", "S": ["collectively ", "commonly ", "consistently ", "universally "], "A": ["differently ", "divergently ", "opposite "]}

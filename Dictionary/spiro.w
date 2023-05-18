@@ -1,0 +1,1 @@
+{"index": 300165, "D": "a combining form meaning \u201crespiration,\u201d used in the formation of compound words", "S": [], "A": []}

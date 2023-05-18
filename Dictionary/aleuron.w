@@ -1,0 +1,1 @@
+{"index": 7933, "D": "protein granules (aleurone grains ) found in a single layer of cells (aleurone layer ) in the outermost portion of the endosperm.", "S": [], "A": []}

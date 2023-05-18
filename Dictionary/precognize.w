@@ -1,0 +1,1 @@
+{"index": 246218, "D": "to perceive; become conscious of; know.", "S": [], "A": []}

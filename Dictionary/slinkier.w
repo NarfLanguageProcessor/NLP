@@ -1,0 +1,1 @@
+{"index": 294133, "D": "characterized by or proceeding with slinking  or stealthy movements.", "S": ["graceful ", "serpentine ", "sinuous ", "smooth ", "willowy "], "A": []}

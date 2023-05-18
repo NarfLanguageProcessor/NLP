@@ -1,0 +1,1 @@
+{"index": 296130, "D": "noting or pertaining to large social groups, or to their activities, customs, etc.", "S": [], "A": []}

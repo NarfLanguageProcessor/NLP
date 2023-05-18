@@ -1,0 +1,1 @@
+{"index": 128244, "D": "a toxic pigment, C30H30O8, derived from cottonseed oil, made nontoxic by heating, presently under study as a potential male contraceptive and antimicrobial.", "S": [], "A": []}

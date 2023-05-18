@@ -1,0 +1,1 @@
+{"index": 324718, "D": "to make smart or spruce", "S": [], "A": []}

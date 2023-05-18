@@ -1,0 +1,1 @@
+{"index": 60970, "D": "to grow together or into one body", "S": ["absorption ", "combination ", "consolidation "], "A": ["division ", "parting ", "separation ", "severance "]}

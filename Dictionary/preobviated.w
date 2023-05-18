@@ -1,0 +1,1 @@
+{"index": 248614, "D": "to anticipate and prevent or eliminate (difficulties, disadvantages, etc.) by effective measures; render unnecessary", "S": [], "A": []}

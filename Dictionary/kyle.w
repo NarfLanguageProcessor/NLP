@@ -1,0 +1,1 @@
+{"index": 164558, "D": "a narrow channel of water between two islands or between an island and the mainland; a strait or sound.", "S": [], "A": []}

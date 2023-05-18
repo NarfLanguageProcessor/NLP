@@ -1,0 +1,1 @@
+{"index": 97824, "D": "to produce (especially literary work) by long and intensive effort.", "S": [], "A": []}

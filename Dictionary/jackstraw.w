@@ -1,0 +1,1 @@
+{"index": 159973, "D": "one of a group of strips of wood or similar objects, as straws or toothpicks, used in the game of jackstraws.", "S": [], "A": []}

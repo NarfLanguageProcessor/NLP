@@ -1,0 +1,1 @@
+{"index": 189155, "D": "to do badly or wrongly; botch.", "S": [], "A": []}

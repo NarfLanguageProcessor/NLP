@@ -1,0 +1,1 @@
+{"index": 213102, "D": "(used to express mild dismay, chagrin, surprise, etc., as at one's own mistake, a clumsy act, or social blunder.)", "S": ["ahem ", "alas ", "amen ", "boo ", "er ", "exclamation ", "hello ", "hooray ", "hurrah ", "oh ", "shucks ", "whoopee ", "wow "], "A": []}

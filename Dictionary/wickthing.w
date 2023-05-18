@@ -1,0 +1,1 @@
+{"index": 365476, "D": "a creeping animal, such as a woodlouse", "S": [], "A": []}

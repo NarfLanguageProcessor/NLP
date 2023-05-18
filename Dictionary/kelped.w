@@ -1,0 +1,1 @@
+{"index": 163743, "D": "any large, brown, cold-water seaweed of the family Laminariaceae, used as food and in various manufacturing processes.", "S": [], "A": []}

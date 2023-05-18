@@ -1,0 +1,1 @@
+{"index": 142243, "D": "Compare sag (def. 6)", "S": ["gobble up ", "monopolize "], "A": []}

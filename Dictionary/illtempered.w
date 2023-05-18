@@ -1,0 +1,1 @@
+{"index": 147448, "D": "bad or irritable disposition.", "S": ["callous ", "dangerous ", "evil ", "hard ", "malicious ", "nasty ", "rough ", "ugly ", "vicious ", "vile "], "A": ["agreeable ", "decent ", "friendly ", "gentle ", "good ", "kind ", "mild ", "moral ", "nice ", "pleasant ", "pleasing ", "sensitive ", "sympathetic ", "upright "]}

@@ -1,0 +1,1 @@
+{"index": 91604, "D": "a silk or muslin shawl, often interwoven with gold or silver threads, worn by men and women in India.", "S": [], "A": []}

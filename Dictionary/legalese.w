@@ -1,0 +1,1 @@
+{"index": 170008, "D": "language containing an excessive amount of legal  terminology or of legal  jargon.", "S": [], "A": []}

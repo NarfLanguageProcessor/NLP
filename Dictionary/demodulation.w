@@ -1,0 +1,1 @@
+{"index": 80747, "D": "detection (def. 4b). ", "S": [], "A": []}

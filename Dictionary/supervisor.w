@@ -1,0 +1,1 @@
+{"index": 312886, "D": "a person who supervises  workers or the work done by others; superintendent.", "S": ["administrator ", "boss ", "chief ", "curator ", "custodian ", "director ", "executive ", "inspector ", "manager ", "overseer ", "superintendent "], "A": ["employee ", "worker "]}

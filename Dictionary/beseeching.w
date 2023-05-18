@@ -1,0 +1,1 @@
+{"index": 32292, "D": "to implore urgently", "S": ["engaging ", "tempting "], "A": ["repulsive "]}

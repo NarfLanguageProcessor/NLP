@@ -1,0 +1,1 @@
+{"index": 25847, "D": "a reserve or accumulation, as of stock, work, or business", "S": [], "A": []}

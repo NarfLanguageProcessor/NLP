@@ -1,0 +1,1 @@
+{"index": 289589, "D": "(in India) a groom; stable attendant.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175770, "D": "an ancient region in S Italy, NW of the Gulf of Taranto.", "S": [], "A": []}

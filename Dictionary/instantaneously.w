@@ -1,0 +1,1 @@
+{"index": 153851, "D": "occurring, done, or completed in an instant", "S": ["right away ", "spontaneously "], "A": []}

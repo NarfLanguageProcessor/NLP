@@ -1,0 +1,1 @@
+{"index": 323463, "D": "to make or become tight  or tighter. ", "S": ["decrease ", "deflation ", "recession ", "reduction ", "shrinkage "], "A": ["enlargement ", "increase ", "expansion ", "opening "]}

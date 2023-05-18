@@ -1,0 +1,1 @@
+{"index": 263132, "D": "the formation of new combinations of genes, either naturally, by crossing over or independent assortment, or in the laboratory by direct manipulation of genetic material.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 216678, "D": "candid; frank; honest", "S": ["celebratory ", "elated ", "exultant ", "glorious ", "happy ", "jubilant ", "proud ", "triumphal ", "victorious "], "A": ["depressed ", "discouraged ", "sad ", "sorrowful ", "unhappy "]}

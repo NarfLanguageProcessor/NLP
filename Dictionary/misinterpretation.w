@@ -1,0 +1,1 @@
+{"index": 189482, "D": "to interpret,  explain, or understand incorrectly.", "S": ["misconception ", "misjudgment "], "A": ["accuracy ", "certainty ", "correction ", "truth ", "understanding "]}

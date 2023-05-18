@@ -1,0 +1,1 @@
+{"index": 160783, "D": "without interest or significance; dull; insipid", "S": ["arid ", "banal ", "barren ", "bland ", "childish ", "dull ", "empty ", "flat ", "inane ", "innocuous ", "insipid ", "juvenile ", "meager ", "sterile ", "trite ", "unexciting ", "vapid "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 319107, "D": "lacking a sound basis, as reasoning; unsubstantiated; weak", "S": ["casually ", "delicately ", "easily ", "faintly ", "freely ", "gingerly ", "mildly ", "moderately ", "quietly ", "simply ", "slightly ", "softly ", "sparsely ", "subtly ", "tenderly ", "thinly "], "A": ["difficultly ", "roughly "]}

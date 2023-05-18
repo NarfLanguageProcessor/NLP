@@ -1,0 +1,1 @@
+{"index": 41838, "D": "in a rough or blunt way; abruptly", "S": [], "A": []}

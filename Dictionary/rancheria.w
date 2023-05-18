@@ -1,0 +1,1 @@
+{"index": 260469, "D": "a family household unit or settlement.", "S": [], "A": []}

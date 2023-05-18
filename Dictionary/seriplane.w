@@ -1,0 +1,1 @@
+{"index": 286137, "D": "a test for evaluating the quality of raw silk by inspecting it under controlled conditions for variations in the diameter of the yarn and for imperfections and content.", "S": [], "A": []}

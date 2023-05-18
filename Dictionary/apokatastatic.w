@@ -1,0 +1,1 @@
+{"index": 17227, "D": "apocatastasis. ", "S": [], "A": []}

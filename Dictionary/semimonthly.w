@@ -1,0 +1,1 @@
+{"index": 284481, "D": "made, occurring, done, or published twice a month.", "S": [], "A": []}

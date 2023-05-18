@@ -1,0 +1,1 @@
+{"index": 111157, "D": "pertaining to a woman or girl", "S": ["effeminate ", "effete ", "fertile ", "gender ", "gynic ", "womanhood ", "womanish ", "womanliness "], "A": ["masculinity "]}

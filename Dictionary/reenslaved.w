@@ -1,0 +1,1 @@
+{"index": 264758, "D": "to make a slave of; hold (someone) in slavery or bondage", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 115172, "D": "an act of flowing; flow. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 236690, "D": "a person who habitually takes pills,  especially amphetamines or barbiturates.", "S": [], "A": []}

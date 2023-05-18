@@ -1,0 +1,1 @@
+{"index": 225218, "D": "a benign tumor of the skin or mucous membrane consisting of hypertrophied epithelial tissue, as a wart.", "S": [], "A": []}

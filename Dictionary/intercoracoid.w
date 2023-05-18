@@ -1,0 +1,1 @@
+{"index": 154747, "D": "pertaining to the bone that in reptiles, birds, and monotremes articulates with the scapula and the sternum and that in humans and other higher mammals is a reduced bony process of the scapula having no connection with the sternum.", "S": [], "A": []}

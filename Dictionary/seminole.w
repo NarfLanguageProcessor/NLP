@@ -1,0 +1,1 @@
+{"index": 284544, "D": "a member of any of several groupings of North American Indians comprising emigrants from the Creek Confederacy territories to Florida or their descendants in Florida and Oklahoma, especially the culturally conservative present-day Florida Indians.", "S": [], "A": []}

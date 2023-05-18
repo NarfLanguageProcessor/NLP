@@ -1,0 +1,1 @@
+{"index": 67660, "D": "the octave between the second and third C's below middle C.", "S": [], "A": []}

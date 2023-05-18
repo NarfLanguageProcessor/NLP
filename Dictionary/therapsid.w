@@ -1,0 +1,1 @@
+{"index": 321208, "D": "any of various groups of mammallike reptiles of the extinct order Therapsida, inhabiting all continents from mid-Permian to late Triassic times, some of which were probably warm-blooded and directly ancestral to mammals.", "S": [], "A": []}

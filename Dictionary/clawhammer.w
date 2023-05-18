@@ -1,0 +1,1 @@
+{"index": 59598, "D": "a hammer having a head with one end curved and cleft for pulling out nails.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 52390, "D": "full of chance or chances.", "S": [], "A": []}

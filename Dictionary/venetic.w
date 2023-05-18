@@ -1,0 +1,1 @@
+{"index": 358062, "D": "an Indo-European language of NE Italy, possibly belonging to the Italic branch, known from inscriptions from the 4th to 2nd centuries b.c.", "S": [], "A": []}

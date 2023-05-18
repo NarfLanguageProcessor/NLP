@@ -1,0 +1,1 @@
+{"index": 70201, "D": "costing  much; expensive; high in price", "S": ["pricey ", "valuable "], "A": ["aiding ", "cheap ", "helpful ", "inexpensive ", "poor ", "reasonable "]}

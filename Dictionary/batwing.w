@@ -1,0 +1,1 @@
+{"index": 29187, "D": "formed, shaped, etc., like the wing  of a bat. ", "S": [], "A": []}

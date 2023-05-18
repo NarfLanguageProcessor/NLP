@@ -1,0 +1,1 @@
+{"index": 248900, "D": "a senior student at an English public school who is given authority over other students.", "S": [], "A": []}

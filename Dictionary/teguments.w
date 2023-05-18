@@ -1,0 +1,1 @@
+{"index": 317900, "D": "a covering or vestment; integument.", "S": ["canvas ", "cap ", "dress ", "envelope ", "jacket ", "lid ", "roof ", "screen ", "sheet ", "tent ", "top ", "umbrella "], "A": []}

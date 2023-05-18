@@ -1,0 +1,1 @@
+{"index": 259226, "D": "a proponent of the Talmud and the teachings and traditions of the rabbis in the face of rejection by the Karaites.", "S": [], "A": []}

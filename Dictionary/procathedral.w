@@ -1,0 +1,1 @@
+{"index": 251145, "D": "a church used temporarily as a cathedral. ", "S": [], "A": []}

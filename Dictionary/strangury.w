@@ -1,0 +1,1 @@
+{"index": 305794, "D": "painful urination in which the urine is emitted drop by drop owing to muscle spasms of the urethra or urinary bladder.", "S": [], "A": []}

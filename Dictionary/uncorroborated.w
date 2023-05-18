@@ -1,0 +1,1 @@
+{"index": 338032, "D": "(of evidence, a statement, etc) lacking confirmation or evidence", "S": ["flimsy ", "gratuitous ", "groundless ", "unfounded ", "unjustifiable ", "unjustified ", "unsubstantiated ", "unsupported ", "untenable ", "unwarranted "], "A": ["called-for ", "justified ", "proven ", "reasonable ", "warranted "]}

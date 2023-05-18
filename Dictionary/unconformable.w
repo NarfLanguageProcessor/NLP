@@ -1,0 +1,1 @@
+{"index": 337596, "D": "not conformable;  not conforming.", "S": ["abhorrent ", "abominable ", "contradictory ", "disgusting ", "distasteful ", "incompatible ", "objectionable ", "odious ", "revolting ", "vile "], "A": ["agreeable ", "delightful ", "good ", "likeable ", "nice ", "pleasant ", "pleasing "]}

@@ -1,0 +1,1 @@
+{"index": 270049, "D": "a slender cord or thick thread used for binding or tying; line. ", "S": [], "A": []}

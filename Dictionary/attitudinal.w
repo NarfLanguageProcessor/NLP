@@ -1,0 +1,1 @@
+{"index": 23101, "D": "of or relating to a person\u2019s manner, disposition, feeling, opinion, etc., with regard to someone or something", "S": [], "A": []}

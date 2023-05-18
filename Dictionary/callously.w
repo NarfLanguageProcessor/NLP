@@ -1,0 +1,1 @@
+{"index": 45353, "D": "made hard; hardened.", "S": ["ferociously ", "fiercely ", "mercilessly ", "relentlessly ", "ruthlessly ", "savagely ", "viciously "], "A": ["gently ", "humanely ", "kindly ", "nicely "]}

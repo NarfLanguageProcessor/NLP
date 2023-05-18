@@ -1,0 +1,1 @@
+{"index": 151986, "D": "any of the four defensive players stationed around the infield. ", "S": [], "A": []}

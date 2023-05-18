@@ -1,0 +1,1 @@
+{"index": 192648, "D": "monosyllabic character.", "S": [], "A": []}

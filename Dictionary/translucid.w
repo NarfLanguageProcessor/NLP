@@ -1,0 +1,1 @@
+{"index": 328061, "D": "translucent. ", "S": ["apparent "], "A": ["clouded ", "smudged ", "uncertain ", "unclear "]}

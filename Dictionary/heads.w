@@ -1,0 +1,1 @@
+{"index": 134698, "D": "(of a coin) with the top, or obverse, facing up", "S": ["community ", "crowd ", "family ", "folk ", "nation ", "population ", "public ", "society "], "A": ["animals ", "plants "]}

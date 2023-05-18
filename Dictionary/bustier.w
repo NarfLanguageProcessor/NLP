@@ -1,0 +1,1 @@
+{"index": 43535, "D": "a woman's close-fitting, sleeveless, strapless top, often elasticized, usually having boning or facing to give it shape, and worn as a blouse.", "S": ["stacked "], "A": ["flat ", "puny ", "skinny ", "weak "]}

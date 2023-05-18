@@ -1,0 +1,1 @@
+{"index": 103251, "D": "equally distant.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 184901, "D": "involving, invoking, or intended to be taken as a metaphor,  something used symbolically to represent something else, suggesting a comparison or resemblance", "S": ["allegorical ", "descriptive ", "metaphoric ", "symbolic "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 261496, "D": "to make or become acid;  convert into an acid. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293028, "D": "an ornament or design on an object that mimics the form of the object when made from another material or by other techniques, usually one that reflects a previously functional element, as an imitation metal rivet mark found on handles of prehistoric pottery.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 353730, "D": "an opening, as in a wall, serving as an outlet for air, smoke, fumes, or the like.", "S": [], "A": []}

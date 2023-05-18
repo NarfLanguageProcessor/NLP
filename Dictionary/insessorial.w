@@ -1,0 +1,1 @@
+{"index": 153569, "D": "adapted for perching, as a bird's foot.", "S": [], "A": []}

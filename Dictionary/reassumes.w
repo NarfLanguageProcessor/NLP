@@ -1,0 +1,1 @@
+{"index": 262095, "D": "to take for granted or without proof", "S": ["convert ", "reclaim ", "recondition ", "recover ", "recycle ", "redeem ", "regenerate ", "remodel ", "reoccupy ", "repossess ", "rescue ", "restore ", "retake ", "salvage ", "take back "], "A": []}

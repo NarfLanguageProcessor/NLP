@@ -1,0 +1,1 @@
+{"index": 76454, "D": "a person living in a dale  or valley, especially in the northern counties of England.", "S": [], "A": []}

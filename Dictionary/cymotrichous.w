@@ -1,0 +1,1 @@
+{"index": 57553, "D": "having wavy hair.", "S": [], "A": []}

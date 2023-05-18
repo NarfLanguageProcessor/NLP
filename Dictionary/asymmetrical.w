@@ -1,0 +1,1 @@
+{"index": 21243, "D": [], "S": ["awry ", "crooked ", "disproportional ", "gibbous ", "lacking correspondence ", "not proportionate ", "not uniform ", "unbalanced ", "unequal ", "unsymmetrical "], "A": []}

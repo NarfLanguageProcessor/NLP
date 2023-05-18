@@ -1,0 +1,1 @@
+{"index": 226314, "D": "kind indulgence, as in forgiveness of an offense or discourtesy or in tolerance of a distraction or inconvenience", "S": ["acquitted ", "discharged ", "excused ", "exonerated ", "freed ", "released "], "A": ["accused ", "condemned ", "convicted "]}

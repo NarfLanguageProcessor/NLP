@@ -1,0 +1,1 @@
+{"index": 148207, "D": "the striking of one thing against another; forceful contact; collision", "S": ["brunt ", "shock "], "A": []}

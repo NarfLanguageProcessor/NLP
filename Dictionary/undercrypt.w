@@ -1,0 +1,1 @@
+{"index": 339049, "D": "a subterranean chamber or vault, especially one beneath the main floor of a church, used as a burial place, a location for secret meetings, etc.", "S": [], "A": []}

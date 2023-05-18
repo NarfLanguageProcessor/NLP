@@ -1,0 +1,1 @@
+{"index": 226183, "D": "a white, flaky, lustrous, very slightly water-soluble solid, C7H9N, the para isomer of toluidine, used in the manufacture of dyes, in organic synthesis, and as a reagent in tests for nitrite, lignin, and phloroglucinol.", "S": [], "A": []}

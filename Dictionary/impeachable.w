@@ -1,0 +1,1 @@
+{"index": 148375, "D": "making one subject to impeachment, as misconduct in office.", "S": ["guilty ", "liable ", "reprehensible ", "responsible "], "A": ["immune ", "irresponsible "]}

@@ -1,0 +1,1 @@
+{"index": 57723, "D": "a belt, zone, or girdlelike part.", "S": [], "A": []}

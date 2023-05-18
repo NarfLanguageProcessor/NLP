@@ -1,0 +1,1 @@
+{"index": 293290, "D": "an open-weave effect in fabric, produced by purposely omitting specific warp ends in the drawing-in process.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 340220, "D": "to discover or catch (a person) in the performance of some act", "S": ["hardly ", "impalpably ", "indefinitely ", "slightly ", "vaguely "], "A": []}

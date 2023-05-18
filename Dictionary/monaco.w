@@ -1,0 +1,1 @@
+{"index": 191699, "D": "a principality on the Mediterranean coast, bordering southeastern France. \u00bd sq. mi. (1.3 sq. km).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 170466, "D": "a piece of transparent substance, usually glass, having two opposite surfaces either both curved or one curved and one plane, used in an optical device in changing the convergence of light rays, as for magnification, or in correcting defects of vision.", "S": ["glass "], "A": []}

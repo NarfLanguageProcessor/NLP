@@ -1,0 +1,1 @@
+{"index": 327441, "D": "capable of being trained. ", "S": [], "A": []}

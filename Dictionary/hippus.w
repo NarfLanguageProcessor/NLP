@@ -1,0 +1,1 @@
+{"index": 141500, "D": "spasmodic contraction of the pupil of the eye.", "S": [], "A": []}

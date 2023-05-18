@@ -1,0 +1,1 @@
+{"index": 128499, "D": "a muscle in the inner side of the thigh, the action of which assists in drawing the legs inward and in bending the knee.", "S": [], "A": []}

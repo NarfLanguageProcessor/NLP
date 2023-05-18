@@ -1,0 +1,1 @@
+{"index": 53337, "D": "a small, usually red or black disk of plastic or wood, used in playing checkers.", "S": [], "A": []}

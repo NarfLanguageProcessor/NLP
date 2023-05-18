@@ -1,0 +1,1 @@
+{"index": 165778, "D": "a knotty or hard protuberance or growth, as on a tree.", "S": [], "A": []}

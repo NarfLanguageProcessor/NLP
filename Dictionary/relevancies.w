@@ -1,0 +1,1 @@
+{"index": 266857, "D": "the condition of being relevant,  or connected with the matter at hand", "S": ["accordance ", "applicability ", "application ", "appositeness ", "aptness ", "bearing ", "congruence ", "correspondence ", "germaneness ", "importance ", "materiality ", "pertinence ", "pertinency ", "relatedness ", "relativity ", "significance "], "A": ["insignificance "]}

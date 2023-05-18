@@ -1,0 +1,1 @@
+{"index": 219466, "D": "the state or fact of being frequent; frequent occurrence", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 330088, "D": "a substance existing in three structurally distinct forms; a trimorphous substance.", "S": [], "A": []}

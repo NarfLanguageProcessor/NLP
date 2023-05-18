@@ -1,0 +1,1 @@
+{"index": 290113, "D": "anything that serves to indicate, warn, direct, command, or the like, such as a light, a gesture, an act, etc.", "S": ["alarm ", "beacon ", "cue ", "gesture ", "indicator ", "sign "], "A": ["denial ", "refusal ", "veto "]}

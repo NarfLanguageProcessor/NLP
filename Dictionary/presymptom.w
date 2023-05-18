@@ -1,0 +1,1 @@
+{"index": 249498, "D": "any phenomenon or circumstance accompanying something and serving as evidence of it.", "S": [], "A": []}

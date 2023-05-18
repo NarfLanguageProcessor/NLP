@@ -1,0 +1,1 @@
+{"index": 357014, "D": "the owner or driver of a van,  especially one of customized design.", "S": [], "A": []}

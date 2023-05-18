@@ -1,0 +1,1 @@
+{"index": 18651, "D": "noting a type of cargo-ship construction in which the sides have the form of arcs  so drawn that the greatest breadth is at load waterline, the purpose being to promote the flow of water to the propeller with an easy bilge and without loss of capacity.", "S": [], "A": []}

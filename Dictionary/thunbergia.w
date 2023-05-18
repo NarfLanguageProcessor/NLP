@@ -1,0 +1,1 @@
+{"index": 322995, "D": "any of various plants, vines, or shrubs belonging to the genus Thunbergia, of the acanthus family, native to Africa and southern Asia, having variously colored flowers and often cultivated as ornamentals in warm regions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 119623, "D": "a small fruit,  especially one of those forming an aggregate fruit,  as the raspberry.", "S": [], "A": []}

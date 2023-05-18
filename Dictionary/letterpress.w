@@ -1,0 +1,1 @@
+{"index": 170939, "D": "the process of printing from letters  or type in relief, rather than from intaglio plates or planographically.", "S": [], "A": []}

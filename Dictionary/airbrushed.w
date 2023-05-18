@@ -1,0 +1,1 @@
+{"index": 6857, "D": "an atomizer for spraying paint.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 71008, "D": "something that is contemplated, devised, or planned; plan; scheme", "S": [], "A": []}

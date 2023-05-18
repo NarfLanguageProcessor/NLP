@@ -1,0 +1,1 @@
+{"index": 205950, "D": "the rational investigation of the truths and principles of being, knowledge, or conduct.", "S": [], "A": []}

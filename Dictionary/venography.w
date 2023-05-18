@@ -1,0 +1,1 @@
+{"index": 358117, "D": "x-ray examination of a vein or veins following injection of a radiopaque substance.", "S": [], "A": []}

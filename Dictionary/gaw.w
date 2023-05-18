@@ -1,0 +1,1 @@
+{"index": 122932, "D": "a narrow, trenchlike depression, especially a furrow in the earth or a worn or thin area in cloth.", "S": [], "A": []}

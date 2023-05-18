@@ -1,0 +1,1 @@
+{"index": 297420, "D": "a specious, unsound, or fallacious reasoner.", "S": [], "A": []}

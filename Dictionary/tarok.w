@@ -1,0 +1,1 @@
+{"index": 316658, "D": "a card game dating probably from the Renaissance and still popular in central Europe, originally played with a special pack of 78 cards but now usually played with 32 cards of a regular pack together with 22 tarots.", "S": [], "A": []}

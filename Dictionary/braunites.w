@@ -1,0 +1,1 @@
+{"index": 40077, "D": "an ore of manganese, 3Mn2O3\u22c5MnSiO3.", "S": [], "A": []}

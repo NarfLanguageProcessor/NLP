@@ -1,0 +1,1 @@
+{"index": 121511, "D": "John. 1779\u20131839, Scottish novelist, noted for his ironic humour, esp in Annals of the Parish (1821), The Provost (1822), and The Entail (1823)", "S": [], "A": []}

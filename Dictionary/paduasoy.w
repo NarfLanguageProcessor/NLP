@@ -1,0 +1,1 @@
+{"index": 222889, "D": "a slightly corded, strong, rich, silk fabric.", "S": [], "A": []}

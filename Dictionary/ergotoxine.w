@@ -1,0 +1,1 @@
+{"index": 103650, "D": "a white, crystalline, water-insoluble alkaloid, C35H41N5O6, obtained from ergot,  used chiefly in obstetrics as a uterine stimulant.", "S": [], "A": []}

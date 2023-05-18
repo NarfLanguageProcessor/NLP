@@ -1,0 +1,1 @@
+{"index": 73563, "D": "a bluish, asbestine variety of riebeckite.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108323, "D": "a person connected with an institution but not residing in it, as a doctor or medical student at a hospital.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 60821, "D": "a man  employed to drive a coach  or carriage.", "S": ["chauffeur ", "jockey ", "motorist ", "operator ", "trainer "], "A": ["passenger "]}

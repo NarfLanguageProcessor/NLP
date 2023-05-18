@@ -1,0 +1,1 @@
+{"index": 239900, "D": "a device for measuring and recording changes in the volume of the body or of a body part or organ.", "S": [], "A": []}

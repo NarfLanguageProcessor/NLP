@@ -1,0 +1,1 @@
+{"index": 18420, "D": "any of a class of synthetic aromatic long-chain polyamides capable of extrusion into fibers having resistance to high temperatures and great strength.", "S": [], "A": []}

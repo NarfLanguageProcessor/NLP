@@ -1,0 +1,1 @@
+{"index": 305774, "D": "an illegal hold  by which an opponent's breath is choked off.", "S": ["grip ", "monopoly "], "A": []}

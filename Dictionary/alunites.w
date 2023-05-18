@@ -1,0 +1,1 @@
+{"index": 9656, "D": "a mineral, a hydrous sulfate of potassium and aluminum, KAl3(SO4)2(OH)6, commonly occurring in fine-grained masses.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 242786, "D": "to make Polish; cause or force to take on ways, customs, viewpoints, etc., that are characteristically Polish.", "S": [], "A": []}

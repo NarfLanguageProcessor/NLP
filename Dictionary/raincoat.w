@@ -1,0 +1,1 @@
+{"index": 260084, "D": "a waterproof or water-repellent coat  worn as protection against rain. ", "S": ["overcoat ", "slicker ", "trench coat "], "A": []}

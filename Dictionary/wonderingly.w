@@ -1,0 +1,1 @@
+{"index": 367039, "D": "expressing admiration or amazement; marveling.", "S": [], "A": []}

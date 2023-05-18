@@ -1,0 +1,1 @@
+{"index": 25905, "D": "the practice of making a loud and effusive display of friendliness, cordiality, etc., as by slapping  persons on the back. ", "S": ["apple-polisher ", "ass-kisser ", "back scratcher ", "bootlicker ", "brown-nose ", "fawner ", "flatterer ", "flunky ", "kiss ass ", "kowtower ", "lackey ", "minion ", "teacher's pet ", "yes-person "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 115716, "D": "a warm, dry wind descending a mountain, as on the north side of the Alps.", "S": [], "A": []}

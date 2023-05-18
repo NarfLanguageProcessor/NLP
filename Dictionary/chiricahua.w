@@ -1,0 +1,1 @@
+{"index": 54732, "D": "a member of an Apache group that comprises several Apache bands, formerly located in the southwestern United States and northern Mexico, now living primarily in Oklahoma and New Mexico.", "S": [], "A": []}

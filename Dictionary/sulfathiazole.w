@@ -1,0 +1,1 @@
+{"index": 310410, "D": "a sulfanilamide  derivative, C9H9N3O2S2, formerly used in the treatment of pneumonia and staphylococcal infections, but now largely replaced because of its toxicity.", "S": [], "A": []}

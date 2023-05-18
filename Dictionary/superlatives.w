@@ -1,0 +1,1 @@
+{"index": 312182, "D": "of the highest kind, quality, or order; surpassing all else or others; supreme; extreme", "S": [], "A": []}

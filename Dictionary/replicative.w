@@ -1,0 +1,1 @@
+{"index": 268315, "D": "characterized by or capable of replication, especially of an experiment.", "S": [], "A": []}

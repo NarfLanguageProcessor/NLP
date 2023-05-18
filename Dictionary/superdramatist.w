@@ -1,0 +1,1 @@
+{"index": 311678, "D": "a writer of dramas  or dramatic  poetry; playwright.", "S": [], "A": []}

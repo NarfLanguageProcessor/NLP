@@ -1,0 +1,1 @@
+{"index": 268980, "D": "to route or direct (traffic, a road, a river, etc) in a different direction", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303621, "D": "a British light submachine gun.", "S": [], "A": []}

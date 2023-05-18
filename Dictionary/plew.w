@@ -1,0 +1,1 @@
+{"index": 240035, "D": "a beaver skin, especially one of prime quality.", "S": [], "A": []}

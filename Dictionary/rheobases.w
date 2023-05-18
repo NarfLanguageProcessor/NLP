@@ -1,0 +1,1 @@
+{"index": 271866, "D": "the minimum electric current required to excite a given nerve or muscle.", "S": [], "A": []}

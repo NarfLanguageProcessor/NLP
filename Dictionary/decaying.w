@@ -1,0 +1,1 @@
+{"index": 77948, "D": "to become decomposed; rot", "S": ["collapsing ", "crumbling ", "deteriorating "], "A": []}

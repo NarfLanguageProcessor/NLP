@@ -1,0 +1,1 @@
+{"index": 251870, "D": "one of the segments or joints of a tapeworm, containing complete reproductive systems, usually both male and female.", "S": [], "A": []}

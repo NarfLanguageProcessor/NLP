@@ -1,0 +1,1 @@
+{"index": 37175, "D": "worthless or second-rate", "S": [], "A": []}

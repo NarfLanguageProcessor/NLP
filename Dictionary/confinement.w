@@ -1,0 +1,1 @@
+{"index": 65922, "D": "the act of confining. ", "S": ["custody ", "detention ", "incarceration ", "internment ", "jail ", "repression "], "A": ["freedom ", "liberation ", "liberty ", "allowance ", "permission "]}

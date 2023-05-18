@@ -1,0 +1,1 @@
+{"index": 215763, "D": "any of several extinct jawless fishes of the Ordovician, Silurian, and Devonian periods, having the body enclosed in an armor of bony plates.", "S": [], "A": []}

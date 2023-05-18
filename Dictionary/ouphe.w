@@ -1,0 +1,1 @@
+{"index": 216073, "D": "an elf or goblin.", "S": [], "A": []}

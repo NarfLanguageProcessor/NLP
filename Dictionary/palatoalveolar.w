@@ -1,0 +1,1 @@
+{"index": 223576, "D": "articulated with the blade or tip of the tongue approaching or touching the alveolar ridge and the main body of the tongue near the hard palate; having a primary alveolar articulation and a secondary palatal articulation.", "S": [], "A": []}

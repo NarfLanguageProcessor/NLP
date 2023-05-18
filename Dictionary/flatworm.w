@@ -1,0 +1,1 @@
+{"index": 114154, "D": "any worm  of the phylum Platyhelminthes, having bilateral symmetry and a soft, solid, usually flattened body, including the planarians, tapeworms, and trematodes; platyhelminth.", "S": [], "A": []}

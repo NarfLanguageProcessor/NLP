@@ -1,0 +1,1 @@
+{"index": 30371, "D": "an establishment licensed to serve only liquors fermented from malt, as beer,  ale, or the like.", "S": [], "A": []}

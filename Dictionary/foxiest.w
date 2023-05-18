@@ -1,0 +1,1 @@
+{"index": 118094, "D": "foxlike; cunning or crafty; slyly clever.", "S": ["artful ", "astute ", "canny ", "crafty ", "cunning ", "deceitful ", "deep ", "devious ", "dishonest ", "experienced ", "guileful ", "insidious ", "intelligent ", "knowing ", "sharp ", "slick ", "sly ", "subtle ", "tricky ", "vulpine ", "wily "], "A": ["naive ", "unintelligent "]}

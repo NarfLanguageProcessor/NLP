@@ -1,0 +1,1 @@
+{"index": 105314, "D": "a game played by two, three, or four persons, usually with the 32, but sometimes with the 28 or 24, highest cards in the pack.", "S": [], "A": []}

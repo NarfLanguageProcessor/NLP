@@ -1,0 +1,1 @@
+{"index": 294977, "D": "a loose, lightweight overgarment worn to protect the clothing while working.", "S": [], "A": []}

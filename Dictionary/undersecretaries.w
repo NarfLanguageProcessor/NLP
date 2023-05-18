@@ -1,0 +1,1 @@
+{"index": 339754, "D": "an official who is subordinate to a principal secretary, as in the U.S. cabinet", "S": [], "A": []}

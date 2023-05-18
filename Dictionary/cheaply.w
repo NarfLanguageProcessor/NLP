@@ -1,0 +1,1 @@
+{"index": 53274, "D": "costing very little; relatively low in price; inexpensive", "S": ["inexpensively ", "poorly ", "reasonably "], "A": []}

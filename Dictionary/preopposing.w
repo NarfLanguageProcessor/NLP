@@ -1,0 +1,1 @@
+{"index": 248674, "D": "to act against or provide resistance to; combat", "S": [], "A": []}

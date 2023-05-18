@@ -1,0 +1,1 @@
+{"index": 273484, "D": "the extent to which a motor vehicle is stable and does not skid, esp at high speeds, or on sharp bends or wet roads", "S": [], "A": []}

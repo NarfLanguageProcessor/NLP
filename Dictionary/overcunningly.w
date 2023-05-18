@@ -1,0 +1,1 @@
+{"index": 218819, "D": "in a way that shows ingenuity or shrewdness", "S": [], "A": []}

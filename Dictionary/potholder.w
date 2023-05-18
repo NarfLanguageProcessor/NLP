@@ -1,0 +1,1 @@
+{"index": 244715, "D": "a thick piece of material, as a quilted or woven pad, used in handling hot pots  and dishes.", "S": ["hot pad ", "oven mitt "], "A": []}

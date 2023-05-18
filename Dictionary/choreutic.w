@@ -1,0 +1,1 @@
+{"index": 55785, "D": "of or belonging to a chorus.", "S": [], "A": []}

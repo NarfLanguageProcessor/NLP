@@ -1,0 +1,1 @@
+{"index": 19630, "D": "a daughter of Minos and Pasipha\u00eb who gave Theseus the thread by which he escaped from the labyrinth", "S": [], "A": []}

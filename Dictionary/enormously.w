@@ -1,0 +1,1 @@
+{"index": 100822, "D": "greatly exceeding the common size, extent, etc.; huge; immense", "S": ["awfully ", "excessively ", "extraordinarily ", "extremely ", "highly ", "hugely ", "inordinately ", "really ", "remarkably ", "strikingly ", "terribly ", "unusually ", "vastly "], "A": ["little "]}

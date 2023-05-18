@@ -1,0 +1,1 @@
+{"index": 280708, "D": "the process of producing a scintigram. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 336076, "D": "the part or edge of a surface or area that forms its outer boundary.", "S": [], "A": []}

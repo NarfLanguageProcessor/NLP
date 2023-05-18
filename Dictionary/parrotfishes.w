@@ -1,0 +1,1 @@
+{"index": 226860, "D": "any of various chiefly tropical marine fishes,  especially of the family Scaridae", "S": [], "A": []}

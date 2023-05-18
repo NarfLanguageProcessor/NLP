@@ -1,0 +1,1 @@
+{"index": 309150, "D": "a group of electrons in an atom belonging to the same shell  and also having the same azimuthal quantum number.", "S": [], "A": []}

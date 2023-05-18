@@ -1,0 +1,1 @@
+{"index": 54646, "D": "trousers made of chino", "S": ["knickers ", "shorts ", "slacks ", "trousers ", "underpants "], "A": []}

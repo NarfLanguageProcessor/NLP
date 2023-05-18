@@ -1,0 +1,1 @@
+{"index": 272704, "D": "a public ball or dance with music and often in masquerade, popular in the 18th century.", "S": [], "A": []}

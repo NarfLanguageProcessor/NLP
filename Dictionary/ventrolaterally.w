@@ -1,0 +1,1 @@
+{"index": 358253, "D": "of, relating to, or affecting the front and side.", "S": [], "A": []}

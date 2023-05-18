@@ -1,0 +1,1 @@
+{"index": 224641, "D": "the idea or advocacy of a union of all Greeks in one political body.", "S": [], "A": []}

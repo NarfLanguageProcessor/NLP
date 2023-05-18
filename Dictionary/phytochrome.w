@@ -1,0 +1,1 @@
+{"index": 234252, "D": "a plant pigment that is associated with the absorption of light in the photoperiodic response and that may regulate various types of growth and development.", "S": [], "A": []}

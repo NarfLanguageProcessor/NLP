@@ -1,0 +1,1 @@
+{"index": 260690, "D": "See also sexual assault. ", "S": ["abused "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128497, "D": "gracefully slender.", "S": ["delicate ", "fragile ", "frail ", "lanky ", "lithe ", "meager ", "narrow ", "skinny ", "slight ", "slim ", "svelte ", "wiry ", "wispy "], "A": ["big ", "chubby ", "fat ", "firm ", "heavy ", "large ", "liberal ", "strong ", "thick ", "unbreakable ", "wide "]}

@@ -1,0 +1,1 @@
+{"index": 94598, "D": "a coalition of two persons holding the same office, as in ancient Rome.", "S": [], "A": []}

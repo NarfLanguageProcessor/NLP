@@ -1,0 +1,1 @@
+{"index": 181257, "D": "of or relating to residence with the wife's family or tribe; uxorilocal", "S": [], "A": []}

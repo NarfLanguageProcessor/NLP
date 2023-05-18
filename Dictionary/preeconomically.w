@@ -1,0 +1,1 @@
+{"index": 247180, "D": "avoiding waste or extravagance; thrifty", "S": [], "A": []}

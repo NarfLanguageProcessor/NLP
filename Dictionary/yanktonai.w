@@ -1,0 +1,1 @@
+{"index": 145672, "D": "Compare Yankton (def. 1). ", "S": [], "A": []}

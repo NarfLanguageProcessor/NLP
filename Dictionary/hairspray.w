@@ -1,0 +1,1 @@
+{"index": 132443, "D": "a liquid in an aerosol or other spray container, for holding the hair in place.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 166892, "D": "the Fate who determines the length of the thread of life.", "S": [], "A": []}

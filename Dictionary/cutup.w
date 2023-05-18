@@ -1,0 +1,1 @@
+{"index": 75874, "D": "a prankster or show-off.", "S": ["card ", "clown ", "comedian ", "comic ", "jokester ", "prankster ", "show-off ", "wag "], "A": []}

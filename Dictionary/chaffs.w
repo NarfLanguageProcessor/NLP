@@ -1,0 +1,1 @@
+{"index": 51944, "D": "the husks of grains and grasses that are separated during threshing.", "S": ["crust ", "debris ", "dregs ", "husks ", "pod ", "refuse ", "remains ", "rubbish ", "shard ", "shell ", "trash "], "A": ["assets ", "possessions ", "property "]}

@@ -1,0 +1,1 @@
+{"index": 183168, "D": "mementos; souvenirs.", "S": [], "A": []}

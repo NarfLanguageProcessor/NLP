@@ -1,0 +1,1 @@
+{"index": 70161, "D": "pertaining to the ribs or the upper sides of the body", "S": [], "A": []}

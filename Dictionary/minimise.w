@@ -1,0 +1,1 @@
+{"index": 187881, "D": "to reduce to the smallest possible amount or degree.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 134729, "D": "a stream  that is the source, or one of the sources, of a river.", "S": [], "A": []}

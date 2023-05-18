@@ -1,0 +1,1 @@
+{"index": 122141, "D": "a small Old World duck, Anas querquedula.", "S": [], "A": []}

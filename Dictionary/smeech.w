@@ -1,0 +1,1 @@
+{"index": 294797, "D": "a Southwest English dialect form of smoke", "S": [], "A": []}

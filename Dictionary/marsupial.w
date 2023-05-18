@@ -1,0 +1,1 @@
+{"index": 180447, "D": "any viviparous, nonplacental mammal of the order Marsupialia, comprising the opossums, kangaroos, wombats, and bandicoots, the females of most species having a marsupium containing the mammary glands and serving as a receptacle for the young.", "S": ["bandicoot ", "euro ", "kangaroo ", "koala ", "opossum ", "possum ", "wallaby ", "wombat "], "A": []}

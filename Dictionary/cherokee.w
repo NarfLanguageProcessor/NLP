@@ -1,0 +1,1 @@
+{"index": 53865, "D": "a member of an important tribe of North American Indians whose first known center was in the southern Alleghenies and who presently live in North Carolina and Oklahoma.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 243916, "D": "of, relating to, or having an amnion. ", "S": [], "A": []}

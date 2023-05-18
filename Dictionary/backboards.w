@@ -1,0 +1,1 @@
+{"index": 25739, "D": "a board  placed at or forming the back  of anything.", "S": [], "A": []}

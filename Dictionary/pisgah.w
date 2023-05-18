@@ -1,0 +1,1 @@
+{"index": 238103, "D": "a mountain ridge of ancient Moab, now in Jordan, northeast of the Dead Sea", "S": [], "A": []}

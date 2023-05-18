@@ -1,0 +1,1 @@
+{"index": 150525, "D": "the act or process of incubating. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 166572, "D": "a kind of folding pocketknife.", "S": [], "A": []}

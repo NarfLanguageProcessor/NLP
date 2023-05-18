@@ -1,0 +1,1 @@
+{"index": 69666, "D": "a person who communicates by letters.", "S": ["contributor ", "journalist ", "reporter ", "writer "], "A": []}

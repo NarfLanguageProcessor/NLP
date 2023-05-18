@@ -1,0 +1,1 @@
+{"index": 198881, "D": "(in Japanese art) a small figure of ivory, wood, metal, or ceramic, originally used as a buttonlike fixture on a man's sash, from which small personal belongings were hung.", "S": [], "A": []}

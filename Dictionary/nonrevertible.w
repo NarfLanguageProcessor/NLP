@@ -1,0 +1,1 @@
+{"index": 206877, "D": "to return to a former habit, practice, belief, condition, etc.", "S": [], "A": []}

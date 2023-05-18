@@ -1,0 +1,1 @@
+{"index": 107610, "D": "to look forward to; regard as likely to happen; anticipate the occurrence or the coming of", "S": ["conceivably "], "A": ["doubtfully ", "gloomily ", "hopelessly "]}

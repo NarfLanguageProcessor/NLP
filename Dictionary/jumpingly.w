@@ -1,0 +1,1 @@
+{"index": 162297, "D": "to spring clear of the ground or other support by a sudden muscular effort; leap", "S": [], "A": []}

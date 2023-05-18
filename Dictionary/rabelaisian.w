@@ -1,0 +1,1 @@
+{"index": 259276, "D": "of, relating to, or suggesting Fran\u00e7ois Rabelais,  whose work is characterized by broad, coarse humor and keen satire.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 39165, "D": "containing bowers;  leafy; shady", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 84484, "D": "government in which power is vested in two rulers or authorities.", "S": [], "A": []}

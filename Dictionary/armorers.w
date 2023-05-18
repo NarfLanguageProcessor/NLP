@@ -1,0 +1,1 @@
+{"index": 19983, "D": "a maker or repairer of arms  or armor. ", "S": [], "A": []}

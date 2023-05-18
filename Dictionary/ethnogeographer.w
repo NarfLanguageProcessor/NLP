@@ -1,0 +1,1 @@
+{"index": 105086, "D": "a branch of anthropology dealing with the geographical distribution of ethnic groups or peoples and the relationship between these groups and their environment.", "S": [], "A": []}

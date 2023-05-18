@@ -1,0 +1,1 @@
+{"index": 132784, "D": "a mental state characterized by repeated hallucinations. ", "S": [], "A": []}

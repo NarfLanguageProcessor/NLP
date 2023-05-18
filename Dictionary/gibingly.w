@@ -1,0 +1,1 @@
+{"index": 124702, "D": "to utter mocking or scoffing words; jeer.", "S": [], "A": []}

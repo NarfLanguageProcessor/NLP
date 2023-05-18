@@ -1,0 +1,1 @@
+{"index": 365706, "D": "the flower  of a plant that normally grows in fields, forests, etc., without deliberate cultivation.", "S": [], "A": []}

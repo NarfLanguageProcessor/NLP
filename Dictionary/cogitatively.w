@@ -1,0 +1,1 @@
+{"index": 62239, "D": "meditating; contemplating", "S": [], "A": []}

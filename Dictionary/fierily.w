@@ -1,0 +1,1 @@
+{"index": 112385, "D": "consisting of, attended with, characterized by, or containing fire", "S": [], "A": []}

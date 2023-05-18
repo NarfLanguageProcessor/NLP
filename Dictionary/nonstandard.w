@@ -1,0 +1,1 @@
+{"index": 207492, "D": "not standard. ", "S": ["abnormal "], "A": ["normal ", "regular ", "usual "]}

@@ -1,0 +1,1 @@
+{"index": 164237, "D": "a hot southerly wind, varying from southeast to southwest, that blows regularly in Egypt and over the Red Sea for about 50 days, commencing about the middle of March.", "S": ["sandstorm "], "A": []}

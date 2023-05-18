@@ -1,0 +1,1 @@
+{"index": 326186, "D": "cylindrical, with swellings or constrictions at intervals; knobbed.", "S": [], "A": []}

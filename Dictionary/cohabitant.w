@@ -1,0 +1,1 @@
+{"index": 62337, "D": "to live together as if married, usually without legal or religious sanction.", "S": ["beneficiary ", "companion ", "housemate ", "longtime companion ", "lover ", "partner ", "spouse "], "A": []}

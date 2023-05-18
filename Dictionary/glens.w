@@ -1,0 +1,1 @@
+{"index": 126162, "D": "a small, narrow, secluded valley.", "S": ["canyon ", "dale ", "dell ", "glade ", "gorge ", "vale "], "A": []}

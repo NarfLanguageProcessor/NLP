@@ -1,0 +1,1 @@
+{"index": 51412, "D": "resembling the cerebrum or the brain.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 162058, "D": "an act or instance of judging.", "S": ["acumen ", "awareness ", "common sense ", "experience ", "intelligence ", "intuition ", "knowledge ", "perception ", "prudence ", "reasoning ", "sense ", "understanding ", "wisdom "], "A": ["ignorance ", "inability ", "ineptness ", "stupidity ", "misunderstanding ", "unsoundness "]}

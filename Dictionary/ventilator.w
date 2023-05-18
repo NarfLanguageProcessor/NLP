@@ -1,0 +1,1 @@
+{"index": 358169, "D": "a person or thing that ventilates. ", "S": ["fireplace ", "flue ", "furnace ", "hearth ", "pipe ", "stack ", "vent "], "A": []}

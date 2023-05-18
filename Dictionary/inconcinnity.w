@@ -1,0 +1,1 @@
+{"index": 150177, "D": "lack of proportion and congruity; inelegance.", "S": [], "A": []}

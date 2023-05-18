@@ -1,0 +1,1 @@
+{"index": 326572, "D": "the vent in the breech of an early firearm or cannon through which the charge was ignited.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 161551, "D": "of or relating to the apostle John or to the books in the New Testament attributed to him.", "S": [], "A": []}

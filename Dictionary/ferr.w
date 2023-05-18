@@ -1,0 +1,1 @@
+{"index": 111447, "D": "variant of ferri-  and ferro-  before a vowel.", "S": [], "A": []}

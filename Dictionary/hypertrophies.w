@@ -1,0 +1,1 @@
+{"index": 140598, "D": "Compare gigantism (def. 1). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 95334, "D": "a rare word for ellipsis (def. 1)", "S": [], "A": []}

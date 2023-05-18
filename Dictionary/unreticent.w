@@ -1,0 +1,1 @@
+{"index": 349809, "D": "disposed to be silent or not to speak freely; reserved. ", "S": ["blunt ", "candid ", "forthright ", "strident ", "vocal "], "A": ["devious "]}

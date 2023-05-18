@@ -1,0 +1,1 @@
+{"index": 144722, "D": "the practice of inhaling toxic fumes from glue and other household products for their intoxicating effects", "S": ["snit "], "A": ["calm ", "calmness ", "enjoyment ", "happiness ", "joy ", "pleasure "]}

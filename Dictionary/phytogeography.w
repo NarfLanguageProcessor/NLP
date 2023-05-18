@@ -1,0 +1,1 @@
+{"index": 234275, "D": "the science dealing with the geographical relationships of plants.", "S": ["anatomy ", "cytology ", "ecology ", "genetics ", "horticulture ", "morphology ", "pathology ", "physiology ", "phytology ", "pomology ", "taxonomy "], "A": []}

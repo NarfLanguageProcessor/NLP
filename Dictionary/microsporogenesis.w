@@ -1,0 +1,1 @@
+{"index": 186548, "D": "The formation of microspores inside the microsporangia (or pollen sacs) of seed plants. A diploid cell in the microsporangium, called a microsporocyte or a pollen mother cell, undergoes meiosis and gives rise to four haploid microspores. Each microspore then develops into a pollen grain (the microgametophyte).", "S": [], "A": []}

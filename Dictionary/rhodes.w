@@ -1,0 +1,1 @@
+{"index": 272263, "D": "English colonial capitalist and government administrator in southern Africa.", "S": [], "A": []}

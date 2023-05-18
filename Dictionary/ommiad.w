@@ -1,0 +1,1 @@
+{"index": 212465, "D": "a variant spelling of Omayyad", "S": [], "A": []}

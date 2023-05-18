@@ -1,0 +1,1 @@
+{"index": 211453, "D": "an amorous glance; ogle. ", "S": [], "A": []}

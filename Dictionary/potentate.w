@@ -1,0 +1,1 @@
+{"index": 244662, "D": "a person who possesses great power, as a sovereign, monarch, or ruler.", "S": ["despot "], "A": ["servant "]}

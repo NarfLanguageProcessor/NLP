@@ -1,0 +1,1 @@
+{"index": 248894, "D": "the state of being prepossessed. ", "S": ["captivation ", "concentration ", "engagement ", "engrossment ", "enthrallment ", "fascination ", "hang-up ", "holding ", "immersion ", "intentness ", "involvement ", "occupation ", "preoccupation "], "A": ["surrender "]}

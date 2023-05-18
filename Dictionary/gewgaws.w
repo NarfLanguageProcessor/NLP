@@ -1,0 +1,1 @@
+{"index": 124465, "D": "something gaudy and useless; trinket; bauble.", "S": ["color ", "design ", "finery ", "ornament ", "plaque ", "ribbon ", "trinket ", "wreath "], "A": ["plainness "]}

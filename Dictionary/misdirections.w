@@ -1,0 +1,1 @@
+{"index": 189138, "D": "a wrong or incorrect direction,  guidance, or instruction", "S": [], "A": []}

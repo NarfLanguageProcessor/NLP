@@ -1,0 +1,1 @@
+{"index": 331398, "D": "trouv\u00e8re. ", "S": ["troubadour "], "A": []}

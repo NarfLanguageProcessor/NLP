@@ -1,0 +1,1 @@
+{"index": 283053, "D": "any fleshy plant belonging to the genus Sedum, of the stonecrop family, usually having small, overlapping leaves and yellow, white, or pink flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 38267, "D": "without result, gain, or advantage; unavailing; useless.", "S": [], "A": []}

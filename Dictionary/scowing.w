@@ -1,0 +1,1 @@
+{"index": 281482, "D": "any of various vessels having a flat-bottomed rectangular hull with sloping ends, built in various sizes with or without means of propulsion, as barges, punts, rowboats, or sailboats.", "S": [], "A": []}

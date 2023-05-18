@@ -1,0 +1,1 @@
+{"index": 87519, "D": "of or relating to a disconformity.", "S": [], "A": []}

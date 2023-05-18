@@ -1,0 +1,1 @@
+{"index": 296678, "D": "the set of syllables, do, re, mi, fa, sol, la, and ti, sung to the respective tones of the scale. All but do and ti are attributed to Guido d'Arezzo.", "S": [], "A": []}

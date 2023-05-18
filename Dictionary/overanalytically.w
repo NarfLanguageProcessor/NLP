@@ -1,0 +1,1 @@
+{"index": 218198, "D": "pertaining to or proceeding by analysis  (opposed to synthetic).", "S": [], "A": []}

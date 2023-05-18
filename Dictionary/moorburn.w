@@ -1,0 +1,1 @@
+{"index": 193135, "D": "the practice of burning off old growth on a heather moor to encourage new growth for grazing", "S": [], "A": []}

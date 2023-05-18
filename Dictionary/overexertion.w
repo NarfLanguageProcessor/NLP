@@ -1,0 +1,1 @@
+{"index": 219242, "D": "the act of working, exercising, or exerting  oneself excessively", "S": [], "A": []}

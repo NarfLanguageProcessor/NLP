@@ -1,0 +1,1 @@
+{"index": 202712, "D": "capable of being deceived;  gullible.", "S": [], "A": []}

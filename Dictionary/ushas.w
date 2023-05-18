@@ -1,0 +1,1 @@
+{"index": 355981, "D": "Dawn, a Vedic deity, daughter of Sky and sister of Night.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 104079, "D": "a genus of rod-shaped bacteria that are pathogenic for plants.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 340412, "D": "any of a group of female water spirits described by Paracelsus.", "S": [], "A": []}

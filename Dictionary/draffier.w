@@ -1,0 +1,1 @@
+{"index": 92487, "D": "dregs, as in a brewing process; lees; refuse.", "S": [], "A": []}

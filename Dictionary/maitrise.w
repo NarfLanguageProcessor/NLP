@@ -1,0 +1,1 @@
+{"index": 178012, "D": "mastery; skill.", "S": [], "A": []}

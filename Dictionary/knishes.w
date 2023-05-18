@@ -1,0 +1,1 @@
+{"index": 165581, "D": "a fried or baked turnover or roll of dough with a filling, as of meat, kasha, or potato, often eaten as an appetizer or snack.", "S": [], "A": []}

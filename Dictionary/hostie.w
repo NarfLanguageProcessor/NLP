@@ -1,0 +1,1 @@
+{"index": 144218, "D": "Australian informal short for air hostess", "S": [], "A": []}

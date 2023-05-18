@@ -1,0 +1,1 @@
+{"index": 332511, "D": "(esp in the Arctic) a tent of animal skins, a traditional type of Inuit summer dwelling", "S": ["canvas ", "pavilion "], "A": []}

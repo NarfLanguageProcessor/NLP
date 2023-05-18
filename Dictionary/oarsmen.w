@@ -1,0 +1,1 @@
+{"index": 209913, "D": "a person who rows a boat, especially a racing boat; rower.", "S": ["boatman ", "ferryman ", "gondolier ", "oar "], "A": []}

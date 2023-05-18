@@ -1,0 +1,1 @@
+{"index": 360207, "D": "the state or quality of being virile;  manly character, vigor, or spirit; masculinity.", "S": ["manhood ", "potency ", "vigor "], "A": ["weakness "]}

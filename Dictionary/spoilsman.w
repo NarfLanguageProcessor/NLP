@@ -1,0 +1,1 @@
+{"index": 300654, "D": "a person who seeks or receives a share in political spoils.", "S": [], "A": []}

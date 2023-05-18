@@ -1,0 +1,1 @@
+{"index": 109180, "D": "a native or inhabitant of the Faeroe Islands.", "S": [], "A": []}

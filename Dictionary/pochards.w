@@ -1,0 +1,1 @@
+{"index": 240915, "D": "an Old World diving duck, Aythya ferina, having a chestnut-red head.", "S": [], "A": []}

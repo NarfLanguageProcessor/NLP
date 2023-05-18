@@ -1,0 +1,1 @@
+{"index": 290411, "D": "of or like silk;  smooth, lustrous, soft, or delicate", "S": ["delicate ", "glossy ", "luxurious ", "plush ", "satiny ", "silken ", "sleek ", "soft ", "velvety "], "A": ["dull ", "harsh ", "healthy ", "poor ", "rough ", "strong "]}

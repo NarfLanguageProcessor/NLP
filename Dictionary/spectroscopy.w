@@ -1,0 +1,1 @@
+{"index": 298945, "D": "the science that deals with the use of the spectroscope and with spectrum analysis.", "S": [], "A": []}

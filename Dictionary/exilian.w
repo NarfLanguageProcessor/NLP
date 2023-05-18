@@ -1,0 +1,1 @@
+{"index": 107225, "D": "pertaining to exile,  especially that of the Jews in Babylon.", "S": [], "A": []}

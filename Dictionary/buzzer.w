@@ -1,0 +1,1 @@
+{"index": 43806, "D": "a person or thing that buzzes.", "S": ["alarm ", "bell ", "gong ", "signal ", "warning "], "A": []}

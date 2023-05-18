@@ -1,0 +1,1 @@
+{"index": 134572, "D": "headquarters.", "S": [], "A": []}

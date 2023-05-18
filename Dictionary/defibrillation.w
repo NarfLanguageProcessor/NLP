@@ -1,0 +1,1 @@
+{"index": 79270, "D": "the application of an electric current to the heart to restore normal rhythmic contractions after the onset of atrial or ventricular fibrillation", "S": [], "A": []}

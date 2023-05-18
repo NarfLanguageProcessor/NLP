@@ -1,0 +1,1 @@
+{"index": 228821, "D": "sexual relations between two males, especially when one of them is a minor.", "S": [], "A": []}

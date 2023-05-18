@@ -1,0 +1,1 @@
+{"index": 81884, "D": "the act of depriving. ", "S": ["destitution ", "hardship ", "privation "], "A": ["advantage ", "benefit ", "gain ", "profit "]}

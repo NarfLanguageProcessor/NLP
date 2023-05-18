@@ -1,0 +1,1 @@
+{"index": 186117, "D": "evolutionary change involving the gradual accumulation of mutations leading to new varieties within a species.", "S": [], "A": []}

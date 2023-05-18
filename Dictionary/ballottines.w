@@ -1,0 +1,1 @@
+{"index": 27047, "D": "a kind of galantine made of meat, poultry, or fish that is stuffed and rolled and usually served hot.", "S": [], "A": []}

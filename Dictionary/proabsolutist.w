@@ -1,0 +1,1 @@
+{"index": 250907, "D": "the principle or the exercise of complete and unrestricted power in government.", "S": [], "A": []}

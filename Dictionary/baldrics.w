@@ -1,0 +1,1 @@
+{"index": 26810, "D": "a belt, sometimes richly ornamented, worn diagonally from shoulder to hip, supporting a sword, horn, etc.", "S": [], "A": []}

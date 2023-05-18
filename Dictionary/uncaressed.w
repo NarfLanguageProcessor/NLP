@@ -1,0 +1,1 @@
+{"index": 336514, "D": "an act or gesture expressing affection, as an embrace or kiss, especially a light stroking or touching.", "S": [], "A": []}

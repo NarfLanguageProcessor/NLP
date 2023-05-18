@@ -1,0 +1,1 @@
+{"index": 169463, "D": "having or showing an unwillingness to work", "S": ["apathy ", "inertia ", "lethargy ", "negligence ", "sloth ", "weariness "], "A": ["activity ", "life ", "liveliness ", "action "]}

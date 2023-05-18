@@ -1,0 +1,1 @@
+{"index": 280234, "D": "pertaining to or reproducing by schizogony.", "S": [], "A": []}

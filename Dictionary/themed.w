@@ -1,0 +1,1 @@
+{"index": 320893, "D": "a subject of discourse, discussion, meditation, or composition; topic", "S": [], "A": []}

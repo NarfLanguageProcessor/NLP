@@ -1,0 +1,1 @@
+{"index": 10799, "D": "decomposition in which ammonia is resolved into other compounds by being a source of H+ and NH2.", "S": [], "A": []}

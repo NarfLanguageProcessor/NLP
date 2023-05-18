@@ -1,0 +1,1 @@
+{"index": 181478, "D": "an expert or connoisseur.", "S": [], "A": []}

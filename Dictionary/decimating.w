@@ -1,0 +1,1 @@
+{"index": 78369, "D": "to kill or destroy a great number or proportion of", "S": ["annihilate ", "exterminate ", "obliterate ", "slaughter ", "wipe out "], "A": ["bear ", "build ", "create "]}

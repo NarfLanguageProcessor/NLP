@@ -1,0 +1,1 @@
+{"index": 270153, "D": "an authoritative command, message, or signal by which one is summoned.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 120937, "D": "a social blunder; faux pas.", "S": ["blooper ", "blunder ", "impropriety ", "indiscretion "], "A": ["correction "]}

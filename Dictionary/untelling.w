@@ -1,0 +1,1 @@
+{"index": 352765, "D": "having force or effect; effective; striking", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158104, "D": "a strong person with great power of endurance or resistance.", "S": [], "A": []}

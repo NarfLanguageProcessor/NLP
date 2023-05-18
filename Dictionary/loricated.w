@@ -1,0 +1,1 @@
+{"index": 175300, "D": "covered with a lorica. ", "S": [], "A": []}

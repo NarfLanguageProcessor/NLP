@@ -1,0 +1,1 @@
+{"index": 290364, "D": "any of a number of polymers containing alternate silicon  and oxygen atoms, as (\u2013Si\u2013O\u2013Si\u2013O\u2013)n, whose properties are determined by the organic groups attached to the silicon  atoms, and that are fluid, resinous, rubbery, extremely stable in high temperatures, and water-repellent", "S": ["coating "], "A": []}

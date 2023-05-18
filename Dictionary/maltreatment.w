@@ -1,0 +1,1 @@
+{"index": 178688, "D": "the act of treating someone badly, cruelly, or roughly; abuse", "S": ["injustice "], "A": ["aid ", "help "]}

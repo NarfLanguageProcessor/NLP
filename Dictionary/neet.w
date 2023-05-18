@@ -1,0 +1,1 @@
+{"index": 197989, "D": "(in Britain) not in employment, education, or training", "S": [], "A": []}

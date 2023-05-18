@@ -1,0 +1,1 @@
+{"index": 127837, "D": "either member of a pair of appendages that are the external reproductive organs of insects and some other arthropods", "S": [], "A": []}

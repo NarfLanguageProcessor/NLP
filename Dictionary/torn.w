@@ -1,0 +1,1 @@
+{"index": 326148, "D": "past participle of tear2. ", "S": ["broken ", "cracked ", "damaged ", "divided ", "mangled ", "ripped ", "ruptured ", "severed "], "A": ["OK ", "fixed ", "unbroken ", "working "]}

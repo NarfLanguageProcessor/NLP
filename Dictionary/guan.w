@@ -1,0 +1,1 @@
+{"index": 130699, "D": "a large game bird of the curassow family, common in dense woodlands of Central and South America, somewhat resembling a turkey.", "S": [], "A": []}

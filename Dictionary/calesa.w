@@ -1,0 +1,1 @@
+{"index": 45037, "D": "(in the Philippines) a small, two-wheeled calash.", "S": [], "A": []}

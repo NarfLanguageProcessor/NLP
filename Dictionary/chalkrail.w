@@ -1,0 +1,1 @@
+{"index": 52177, "D": "a troughlike molding or strip holding chalk,  erasers, etc., under a blackboard.", "S": [], "A": []}

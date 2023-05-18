@@ -1,0 +1,1 @@
+{"index": 313423, "D": "the act or sport of riding the surf,  as on a surfboard.", "S": [], "A": []}

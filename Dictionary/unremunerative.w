@@ -1,0 +1,1 @@
+{"index": 349508, "D": "affording remuneration;  profitable", "S": ["fruitless ", "futile ", "idle ", "useless "], "A": ["fruitful ", "productive ", "profitable ", "useful ", "working ", "worthwhile "]}

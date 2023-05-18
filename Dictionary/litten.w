@@ -1,0 +1,1 @@
+{"index": 173860, "D": "an archaic variant of lighted1. ", "S": [], "A": []}

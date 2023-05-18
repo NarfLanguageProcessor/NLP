@@ -1,0 +1,1 @@
+{"index": 320796, "D": "the second person singular object pronoun, equivalent to modern you;  the objective case of thou1", "S": [], "A": []}

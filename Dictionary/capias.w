@@ -1,0 +1,1 @@
+{"index": 46854, "D": "a writ commanding an officer to take a specified person into custody.", "S": [], "A": []}

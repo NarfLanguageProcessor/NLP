@@ -1,0 +1,1 @@
+{"index": 88174, "D": "inability to write, caused by cerebral lesion.", "S": [], "A": []}

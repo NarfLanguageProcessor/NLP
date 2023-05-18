@@ -1,0 +1,1 @@
+{"index": 326243, "D": "a salt lake  in Australia, in eastern South Australia. 130 miles (210 kilometers) long; 2,400 square miles (6,220 square kilometers); 25 feet (8 meters) below sea level.", "S": [], "A": []}

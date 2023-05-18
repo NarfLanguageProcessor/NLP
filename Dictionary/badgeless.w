@@ -1,0 +1,1 @@
+{"index": 26186, "D": "a special or distinctive mark, token, or device worn as a sign of allegiance, membership, authority, achievement, etc.", "S": [], "A": []}

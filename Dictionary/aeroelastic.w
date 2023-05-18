@@ -1,0 +1,1 @@
+{"index": 5003, "D": "of, relating to, or resulting from aerodynamic forces", "S": [], "A": []}

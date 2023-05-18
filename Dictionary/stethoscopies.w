@@ -1,0 +1,1 @@
+{"index": 304171, "D": "an instrument used in auscultation to convey sounds in the chest or other parts of the body to the ear of the examiner.", "S": [], "A": []}

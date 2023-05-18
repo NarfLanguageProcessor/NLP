@@ -1,0 +1,1 @@
+{"index": 170060, "D": "of, relating to, or of the nature of a legend. ", "S": ["fabled ", "fabulous ", "mythical ", "storied "], "A": ["factual ", "infamous ", "real ", "true ", "unimportant "]}

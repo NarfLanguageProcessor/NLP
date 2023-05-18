@@ -1,0 +1,1 @@
+{"index": 43871, "D": "a mastlike structure on some early airplanes, used for supporting the wing.", "S": [], "A": []}

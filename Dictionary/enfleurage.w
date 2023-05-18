@@ -1,0 +1,1 @@
+{"index": 100230, "D": "a process of extracting perfumes by exposing inodorous oils or fats to the exhalations of flowers.", "S": [], "A": []}

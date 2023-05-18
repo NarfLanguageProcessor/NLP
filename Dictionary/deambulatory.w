@@ -1,0 +1,1 @@
+{"index": 77568, "D": "ambulatory (def. 6). ", "S": [], "A": []}

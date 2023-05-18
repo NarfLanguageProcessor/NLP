@@ -1,0 +1,1 @@
+{"index": 127162, "D": "a gazelle, Procapra picticaudata, of the Tibetan plateau.", "S": [], "A": []}

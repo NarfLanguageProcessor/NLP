@@ -1,0 +1,1 @@
+{"index": 127451, "D": "being, pertaining to, or characteristic of a goy or goys", "S": [], "A": []}

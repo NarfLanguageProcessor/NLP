@@ -1,0 +1,1 @@
+{"index": 46968, "D": "an oval-shaped tablet that is coated to facilitate swallowing.", "S": [], "A": []}

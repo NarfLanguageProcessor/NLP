@@ -1,0 +1,1 @@
+{"index": 48506, "D": [], "S": ["compact ", "convenient ", "handy ", "lightweight "], "A": ["awkward ", "big ", "inconvenient ", "unhandy "]}

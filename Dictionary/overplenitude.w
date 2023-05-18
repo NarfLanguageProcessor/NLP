@@ -1,0 +1,1 @@
+{"index": 220527, "D": "fullness or adequacy in quantity, measure, or degree; abundance", "S": [], "A": []}

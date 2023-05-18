@@ -1,0 +1,1 @@
+{"index": 49707, "D": "one of the 20 divisions of the Psalter in the Greek rite.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 2142, "D": "a colorless, volatile, water-soluble, flammable liquid, C3H6O, usually derived by oxidation of isopropyl alcohol or by bacterial fermentation of carbohydrates", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 216002, "D": "any of several aquatic, furbearing, weasellike mammals of the genus Lutra and related genera, having webbed feet and a long, slightly flattened tail.", "S": [], "A": []}

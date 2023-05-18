@@ -1,0 +1,1 @@
+{"index": 203848, "D": "tending or serving to expel.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 264719, "D": "a variant of reinforce. ", "S": [], "A": []}

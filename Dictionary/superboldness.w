@@ -1,0 +1,1 @@
+{"index": 311448, "D": "lack of hesitation or fear in the face of risk or danger; courage", "S": [], "A": []}

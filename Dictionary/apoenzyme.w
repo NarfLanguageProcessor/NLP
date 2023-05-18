@@ -1,0 +1,1 @@
+{"index": 17190, "D": "the protein component that with a coenzyme forms a complete enzyme. ", "S": [], "A": []}

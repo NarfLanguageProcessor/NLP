@@ -1,0 +1,1 @@
+{"index": 50193, "D": "living in caverns  or caves, as certain animals.", "S": [], "A": []}

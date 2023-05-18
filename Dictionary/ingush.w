@@ -1,0 +1,1 @@
+{"index": 152610, "D": "a member of a Sunni Muslim people living north of the Caucasus Mountains, closely related to the Chechen.", "S": [], "A": []}

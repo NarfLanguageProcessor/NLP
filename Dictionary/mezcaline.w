@@ -1,0 +1,1 @@
+{"index": 185569, "D": "a variant spelling of mescaline", "S": [], "A": []}

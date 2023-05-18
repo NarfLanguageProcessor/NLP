@@ -1,0 +1,1 @@
+{"index": 89805, "D": "serving to distinguish;  characteristic; distinguishing", "S": ["individually ", "negatively ", "separately ", "variously "], "A": ["together "]}

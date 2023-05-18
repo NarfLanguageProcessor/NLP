@@ -1,0 +1,1 @@
+{"index": 281830, "D": "to be sparing or frugal; economize (often followed by on)", "S": ["cut back ", "skimp "], "A": ["spend ", "waste ", "squander "]}

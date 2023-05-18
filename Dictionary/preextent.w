@@ -1,0 +1,1 @@
+{"index": 247464, "D": "the space or degree to which a thing extends; length, area, volume, or scope", "S": [], "A": []}

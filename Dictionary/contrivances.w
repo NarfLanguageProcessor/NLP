@@ -1,0 +1,1 @@
+{"index": 67788, "D": "something contrived;  a device, especially a mechanical one.", "S": ["apparatus ", "furnishings ", "furniture ", "machinery ", "material "], "A": []}

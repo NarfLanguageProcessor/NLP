@@ -1,0 +1,1 @@
+{"index": 258361, "D": "a person who asks a question or makes inquiries, especially of an astrologer, fortune-teller, etc.", "S": [], "A": []}

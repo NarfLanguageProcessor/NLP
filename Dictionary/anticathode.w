@@ -1,0 +1,1 @@
+{"index": 14845, "D": "the positive plate of an x-ray or other electron tube serving as the target for electrons coming from the cathode,  which cause it to emit high-frequency radiations.", "S": [], "A": []}

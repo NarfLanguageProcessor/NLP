@@ -1,0 +1,1 @@
+{"index": 40479, "D": "a diacritic (\u02d8) over a vowel to show that it is short, or to indicate a specific pronunciation, as \u016d in (k\u016dt) cut.", "S": [], "A": []}

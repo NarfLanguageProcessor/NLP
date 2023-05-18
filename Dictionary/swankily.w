@@ -1,0 +1,1 @@
+{"index": 314068, "D": "elegant or ostentatious; swank. ", "S": [], "A": []}

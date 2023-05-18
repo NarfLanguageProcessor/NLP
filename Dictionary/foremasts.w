@@ -1,0 +1,1 @@
+{"index": 116793, "D": "the mast  nearest the bow in all vessels having two or more masts. ", "S": [], "A": []}

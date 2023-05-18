@@ -1,0 +1,1 @@
+{"index": 365821, "D": "any of numerous plants belonging to the genus Epilobium, of the evening primrose family, having terminal clusters of purplish or white flowers.", "S": [], "A": []}

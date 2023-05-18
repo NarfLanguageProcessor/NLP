@@ -1,0 +1,1 @@
+{"index": 331698, "D": "inclined to trust;  confiding; trustful", "S": ["believing ", "confiding "], "A": []}

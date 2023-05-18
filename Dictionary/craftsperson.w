@@ -1,0 +1,1 @@
+{"index": 71912, "D": "a person who practices or is highly skilled in a craft; artisan.", "S": ["artificer ", "artisan ", "blacksmith ", "journeyperson ", "machinist ", "maker ", "manufacturer ", "mechanic ", "skilled worker ", "smith ", "specialist ", "technician ", "wright "], "A": ["bumbler ", "unskilled "]}

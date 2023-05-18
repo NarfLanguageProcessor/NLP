@@ -1,0 +1,1 @@
+{"index": 29552, "D": "like a bear; rough, burly, or clumsy.", "S": ["blunt ", "blustering ", "brief ", "direct ", "frank ", "open ", "rough ", "short ", "tart "], "A": ["courteous ", "devious ", "dishonest ", "lengthy ", "long ", "polite "]}

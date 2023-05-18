@@ -1,0 +1,1 @@
+{"index": 231539, "D": "to become lively, cheerful, or vigorous, as after depression or sickness (usually followed by up)", "S": [], "A": []}

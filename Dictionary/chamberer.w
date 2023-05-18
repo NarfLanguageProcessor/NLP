@@ -1,0 +1,1 @@
+{"index": 52258, "D": "a man who frequents ladies' chambers;  gallant.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259196, "D": "the measurement and computation of the speed and direction of winds aloft by theodolitic tracking of a radiosonde.", "S": [], "A": []}

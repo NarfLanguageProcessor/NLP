@@ -1,0 +1,1 @@
+{"index": 104557, "D": "founded, built, or brought into existence", "S": ["entrenched ", "settled ", "traditional ", "well-established "], "A": ["indefinite ", "undecided ", "unfixed ", "unstable "]}

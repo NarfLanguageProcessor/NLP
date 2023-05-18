@@ -1,0 +1,1 @@
+{"index": 60409, "D": "a low, dull sound of impact, as of a heavy object striking against another.", "S": ["bang ", "thump "], "A": ["praise "]}

@@ -1,0 +1,1 @@
+{"index": 94051, "D": "lacking intelligence or good judgment; stupid; dull-witted. ", "S": ["dully ", "foolishly ", "unintelligently "], "A": []}

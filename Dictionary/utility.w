@@ -1,0 +1,1 @@
+{"index": 356176, "D": "the state or quality of being useful; usefulness", "S": ["service "], "A": ["disadvantage ", "handicap ", "hindrance ", "inappropriateness ", "inefficiency ", "loss ", "unsuitability ", "uselessness ", "weakness "]}

@@ -1,0 +1,1 @@
+{"index": 322925, "D": "(in India) robbery and strangulation committed by thugs.", "S": [], "A": []}

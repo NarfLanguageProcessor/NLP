@@ -1,0 +1,1 @@
+{"index": 328218, "D": "to pierce through; penetrate; pass through.", "S": ["fix ", "impale ", "lance ", "penetrate ", "puncture ", "skewer ", "spear ", "spike ", "spit ", "stick "], "A": ["bore "]}

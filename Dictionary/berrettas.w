@@ -1,0 +1,1 @@
+{"index": 32183, "D": "a stiff square cap with three or four upright projecting pieces extending from the center of the top to the edge, worn by ecclesiastics.", "S": ["administrator ", "cleric ", "director ", "patriarch ", "pontiff ", "pope ", "prelate ", "priest "], "A": []}

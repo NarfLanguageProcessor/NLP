@@ -1,0 +1,1 @@
+{"index": 156518, "D": "within a given language; of or pertaining to a single language.", "S": [], "A": []}

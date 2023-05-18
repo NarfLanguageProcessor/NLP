@@ -1,0 +1,1 @@
+{"index": 143765, "D": "a large group, multitude, number, etc.; a mass or crowd", "S": ["crowd ", "crush ", "gang ", "mob ", "multitude ", "swarm "], "A": []}

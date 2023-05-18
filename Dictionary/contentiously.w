@@ -1,0 +1,1 @@
+{"index": 67381, "D": "tending to argument or strife; quarrelsome", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 153470, "D": "a laboratory for the study of live insects, their life histories, effects on plants, reaction to insecticides, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97920, "D": "the act of emancipating. ", "S": ["independence ", "liberation "], "A": ["hold ", "imprisonment ", "restraint "]}

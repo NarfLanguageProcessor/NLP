@@ -1,0 +1,1 @@
+{"index": 127778, "D": "an instrument for measuring solid angles, as of crystals.", "S": [], "A": []}

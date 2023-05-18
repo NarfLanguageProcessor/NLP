@@ -1,0 +1,1 @@
+{"index": 333265, "D": "having twelve sections, aspects, divisions, kinds, etc.", "S": [], "A": []}

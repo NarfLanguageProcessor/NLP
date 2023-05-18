@@ -1,0 +1,1 @@
+{"index": 166391, "D": "honor; glory; acclaim", "S": ["applause "], "A": ["condemnation ", "denunciation ", "dishonor ", "disregard ", "disrespect ", "ill repute ", "unimportance "]}

@@ -1,0 +1,1 @@
+{"index": 177299, "D": "a large, powerful, or violent whirlpool.", "S": ["chaos ", "turbulence ", "turmoil "], "A": ["calm ", "harmony ", "order ", "peace ", "method ", "organization ", "system "]}

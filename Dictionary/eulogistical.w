@@ -1,0 +1,1 @@
+{"index": 105503, "D": "pertaining to or containing eulogy;  laudatory.", "S": [], "A": []}

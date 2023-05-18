@@ -1,0 +1,1 @@
+{"index": 92608, "D": "a draft horse used for pulling a dray.", "S": [], "A": []}

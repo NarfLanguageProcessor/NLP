@@ -1,0 +1,1 @@
+{"index": 199061, "D": "of or relating to the interactions between the nervous and endocrine  systems, especially in relation to hormones.", "S": [], "A": []}

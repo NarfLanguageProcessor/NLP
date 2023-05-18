@@ -1,0 +1,1 @@
+{"index": 3830, "D": "to adhere through the binding power of ice.", "S": [], "A": []}

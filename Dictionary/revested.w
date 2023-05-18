@@ -1,0 +1,1 @@
+{"index": 271303, "D": "to vest (a person) again, as with ownership or office; reinvest; reinstate.", "S": [], "A": []}

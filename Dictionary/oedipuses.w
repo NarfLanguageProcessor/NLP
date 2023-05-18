@@ -1,0 +1,1 @@
+{"index": 211448, "D": "a king of Thebes, the son of Laius and Jocasta, and the father by Jocasta of Eteocles, Polynices, Antigone, and Ismeme", "S": [], "A": []}

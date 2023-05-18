@@ -1,0 +1,1 @@
+{"index": 176356, "D": "to lie or wait in concealment, as a person in ambush; remain in or around a place secretly or furtively.", "S": ["creep ", "crouch ", "prowl ", "skulk "], "A": ["come out "]}

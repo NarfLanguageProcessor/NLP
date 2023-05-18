@@ -1,0 +1,1 @@
+{"index": 85908, "D": "to make or cause to seem smaller, less, less important, etc.; lessen; reduce.", "S": ["attenuation ", "declination ", "depreciation ", "diminuendo ", "diminution ", "extenuation ", "regression ", "retrenchment "], "A": ["increase "]}

@@ -1,0 +1,1 @@
+{"index": 97561, "D": "fit or proper to be chosen; worthy of choice; desirable", "S": ["acceptable ", "likely ", "qualified ", "suitable "], "A": ["unacceptable "]}

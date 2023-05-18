@@ -1,0 +1,1 @@
+{"index": 75599, "D": [], "S": ["asymmetry ", "sinuosity ", "sinuousness ", "tortuosity ", "tortuousness ", "unevenness "], "A": []}

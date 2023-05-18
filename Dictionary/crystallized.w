@@ -1,0 +1,1 @@
+{"index": 73406, "D": "to form into crystals;  cause to assume crystalline  form.", "S": ["assume a pattern ", "become definite ", "become delineated ", "form into crystals ", "take form ", "take shape "], "A": []}

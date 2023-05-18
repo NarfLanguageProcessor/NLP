@@ -1,0 +1,1 @@
+{"index": 296537, "D": "simple past tense and past participle of sell1. ", "S": ["depleted ", "gone ", "taken "], "A": []}

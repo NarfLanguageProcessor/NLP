@@ -1,0 +1,1 @@
+{"index": 55688, "D": "diced, minced, or cut into small bits.", "S": ["cleave ", "cube ", "divide ", "hack ", "mince ", "slash ", "whack "], "A": ["join ", "unite ", "lengthen "]}

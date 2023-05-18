@@ -1,0 +1,1 @@
+{"index": 121623, "D": "of or relating to Gambia or its inhabitants", "S": [], "A": []}

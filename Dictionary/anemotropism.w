@@ -1,0 +1,1 @@
+{"index": 12544, "D": "orientation in response to a current of air.", "S": [], "A": []}

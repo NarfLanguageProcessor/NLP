@@ -1,0 +1,1 @@
+{"index": 960, "D": "a green, aromatic liqueur that is 68 percent alcohol, is made with wormwood  and other herbs, and has a bitter, licorice flavor", "S": [], "A": []}

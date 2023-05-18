@@ -1,0 +1,1 @@
+{"index": 252412, "D": "a fleet, antelopelike ruminant, Antilocapra americana, of the plains of western North America", "S": [], "A": []}

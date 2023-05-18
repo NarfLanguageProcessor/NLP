@@ -1,0 +1,1 @@
+{"index": 23646, "D": "of or containing gold in the univalent state.", "S": ["gilt ", "halcyon "], "A": []}

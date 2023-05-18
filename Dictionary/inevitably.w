@@ -1,0 +1,1 @@
+{"index": 151645, "D": "in a way that cannot be avoided or escaped; as will certainly or necessarily happen", "S": ["necessarily ", "surely "], "A": []}

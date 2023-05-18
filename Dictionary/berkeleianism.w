@@ -1,0 +1,1 @@
+{"index": 32122, "D": "the philosophical system of George Berkeley, holding that objects exist only when perceived, that God's perception sustains the universe, and that there is no independent substratum or substance in which these perceptions inhere", "S": [], "A": []}

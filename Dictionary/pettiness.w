@@ -1,0 +1,1 @@
+{"index": 232605, "D": "the quality or condition of being of little, lesser, or no importance, consequence, or merit; insignificance", "S": ["paltriness ", "silliness ", "smallness ", "triviality ", "unimportance "], "A": []}

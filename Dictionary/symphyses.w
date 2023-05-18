@@ -1,0 +1,1 @@
+{"index": 291002, "D": "the growing together, or the fixed or nearly fixed union, of bones, as that of the two halves of the lower jaw in humans or of the pubic bones in the anterior part of the pelvic girdle.", "S": [], "A": []}

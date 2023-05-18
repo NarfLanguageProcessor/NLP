@@ -1,0 +1,1 @@
+{"index": 316938, "D": "having, displaying, or in accordance with good taste", "S": ["appealingly ", "attractively ", "charmingly ", "delightfully ", "elegantly ", "exquisitely ", "gorgeously ", "gracefully ", "handsomely ", "magnificently ", "seductively ", "splendidly ", "sublimely ", "superbly ", "wonderfully "], "A": ["poorly "]}

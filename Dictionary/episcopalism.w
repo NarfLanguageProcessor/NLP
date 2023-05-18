@@ -1,0 +1,1 @@
+{"index": 102769, "D": "the theory of church polity according to which the supreme ecclesiastical authority is vested in the episcopal  order as a whole, and not in any individual except by delegation.", "S": [], "A": []}

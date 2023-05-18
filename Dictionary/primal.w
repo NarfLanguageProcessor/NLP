@@ -1,0 +1,1 @@
+{"index": 250477, "D": "first; original; primeval", "S": ["primordial "], "A": []}

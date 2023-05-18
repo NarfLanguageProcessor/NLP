@@ -1,0 +1,1 @@
+{"index": 340133, "D": "to write under or at the foot of, especially under other written matter.", "S": ["approved ", "assisted ", "endorsed ", "favored "], "A": ["disapproved "]}

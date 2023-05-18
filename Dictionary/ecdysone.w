@@ -1,0 +1,1 @@
+{"index": 95162, "D": "an insect hormone that stimulates metamorphosis.", "S": [], "A": []}

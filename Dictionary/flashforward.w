@@ -1,0 +1,1 @@
+{"index": 114021, "D": "a device in the narrative of a motion picture, novel, etc., by which a future event or scene is inserted into the chronological structure of the work.", "S": [], "A": []}

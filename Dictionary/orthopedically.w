@@ -1,0 +1,1 @@
+{"index": 215091, "D": "of or relating to orthopedics. ", "S": [], "A": []}

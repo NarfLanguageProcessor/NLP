@@ -1,0 +1,1 @@
+{"index": 237644, "D": "of or relating to the Pyrenees or their inhabitants", "S": [], "A": []}

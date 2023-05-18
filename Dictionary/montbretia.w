@@ -1,0 +1,1 @@
+{"index": 192884, "D": "a widely cultivated plant of the African iridaceous genus Crocosmia, a cross between C. aurea and C. pottsii, with ornamental orange or yellow flowers, grown mostly as pot plants", "S": [], "A": []}

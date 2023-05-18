@@ -1,0 +1,1 @@
+{"index": 368617, "D": "the preparation of transverse, tangential, or radial sections of wood for examination under a microscope.", "S": [], "A": []}

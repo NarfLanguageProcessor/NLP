@@ -1,0 +1,1 @@
+{"index": 230993, "D": "a division of the former province of Guienne, in SW France.", "S": [], "A": []}

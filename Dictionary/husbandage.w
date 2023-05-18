@@ -1,0 +1,1 @@
+{"index": 145309, "D": "the fees and commissions of a ship's manager.", "S": [], "A": []}

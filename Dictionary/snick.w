@@ -1,0 +1,1 @@
+{"index": 295479, "D": "to cut, snip, or nick.", "S": ["chop ", "crack ", "hack ", "nick ", "splinter ", "whack "], "A": ["fix ", "mend ", "build ", "combine ", "increase ", "join ", "put together "]}

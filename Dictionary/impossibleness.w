@@ -1,0 +1,1 @@
+{"index": 148932, "D": "not possible; unable to be, exist, happen, etc.", "S": [], "A": []}

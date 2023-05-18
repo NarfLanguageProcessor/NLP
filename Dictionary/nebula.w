@@ -1,0 +1,1 @@
+{"index": 197669, "D": "(formerly) any celestial object that appearsnebulous,  hazy, or fuzzy, and extended in a telescope view.", "S": ["galaxy ", "nimbus ", "vapor "], "A": []}

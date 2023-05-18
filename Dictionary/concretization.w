@@ -1,0 +1,1 @@
+{"index": 65461, "D": "to make concrete,  real, or particular; give tangible or definite form to", "S": [], "A": []}

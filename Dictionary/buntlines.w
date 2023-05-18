@@ -1,0 +1,1 @@
+{"index": 42933, "D": "one of the ropes attached to the foot of a square sail to haul it up to the yard for furling.", "S": [], "A": []}

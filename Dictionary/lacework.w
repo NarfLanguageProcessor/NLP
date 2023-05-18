@@ -1,0 +1,1 @@
+{"index": 166886, "D": "lace (def. 1). ", "S": ["lattice "], "A": []}

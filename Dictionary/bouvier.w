@@ -1,0 +1,1 @@
+{"index": 39096, "D": "a large powerful dog of a Belgian breed, having a rough shaggy coat", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 22508, "D": "a group of North American Indian languages belonging to the Na-Dene phylum, including Apache and Navaho", "S": [], "A": []}

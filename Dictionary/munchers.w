@@ -1,0 +1,1 @@
+{"index": 195523, "D": "to chew with steady or vigorous working of the jaws, often audibly.", "S": [], "A": []}

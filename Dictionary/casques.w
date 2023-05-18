@@ -1,0 +1,1 @@
+{"index": 48928, "D": "an open, conical helmet with a nose guard, commonly used in the medieval period.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 228342, "D": "a person, group, or nation that tries to make peace,  especially by reconciling parties who disagree, quarrel, or fight.", "S": ["arbitrator ", "conciliator ", "diplomat ", "mediator ", "negotiator ", "pacifist ", "peacekeeper "], "A": ["agitator ", "instigator "]}

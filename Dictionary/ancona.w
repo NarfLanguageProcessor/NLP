@@ -1,0 +1,1 @@
+{"index": 12265, "D": "an altarpiece, usually consisting of a painted panel or panels, reliefs, or statues set in an elaborate frame.", "S": [], "A": []}

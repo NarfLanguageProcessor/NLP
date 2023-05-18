@@ -1,0 +1,1 @@
+{"index": 86629, "D": "a late stage of prophase during meiosis, in which the chromatid pairs of the tetrads begin to separate and chiasmata can be seen.", "S": [], "A": []}

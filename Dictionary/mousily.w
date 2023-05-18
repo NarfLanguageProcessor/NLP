@@ -1,0 +1,1 @@
+{"index": 194309, "D": "resembling or suggesting a mouse,  as in color or odor.", "S": [], "A": []}

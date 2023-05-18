@@ -1,0 +1,1 @@
+{"index": 311227, "D": "having a suntan", "S": ["bronzed ", "brown ", "burned "], "A": ["pale ", "pallid "]}

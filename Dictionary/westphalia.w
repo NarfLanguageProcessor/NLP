@@ -1,0 +1,1 @@
+{"index": 364282, "D": "a former province in NW Germany, now a part of North Rhine-Westphalia", "S": [], "A": []}

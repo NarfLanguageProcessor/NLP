@@ -1,0 +1,1 @@
+{"index": 284223, "D": "fastened, attached, or placed so as to be firm and not readily movable; firmly implanted; stationary; rigid.", "S": [], "A": []}

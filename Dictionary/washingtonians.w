@@ -1,0 +1,1 @@
+{"index": 362914, "D": "living in or coming from Washington,  D.C., or the state of Washington. ", "S": [], "A": []}

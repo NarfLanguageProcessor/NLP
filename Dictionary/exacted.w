@@ -1,0 +1,1 @@
+{"index": 106382, "D": "strictly accurate or correct", "S": ["imposed ", "prescribed ", "required ", "sanctioned "], "A": []}

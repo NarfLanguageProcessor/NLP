@@ -1,0 +1,1 @@
+{"index": 144301, "D": "mutton or beef cooked with potatoes in a covered pot.", "S": [], "A": []}

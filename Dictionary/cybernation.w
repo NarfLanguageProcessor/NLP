@@ -1,0 +1,1 @@
+{"index": 56946, "D": "the use of computers to control automatic processes, especially in manufacturing.", "S": [], "A": []}

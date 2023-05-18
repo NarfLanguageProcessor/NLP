@@ -1,0 +1,1 @@
+{"index": 48554, "D": "an obsolete naval gun of short barrel and large bore", "S": [], "A": []}

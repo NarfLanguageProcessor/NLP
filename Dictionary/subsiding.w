@@ -1,0 +1,1 @@
+{"index": 309176, "D": "to sink to a low or lower level.", "S": ["collapsing ", "decreasing ", "descending ", "lowering ", "plunging ", "sliding ", "tumbling ", "weakening "], "A": ["improving ", "increasing ", "rising "]}

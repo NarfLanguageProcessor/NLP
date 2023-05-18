@@ -1,0 +1,1 @@
+{"index": 10494, "D": "of, relating to, or resembling an almond.", "S": [], "A": []}

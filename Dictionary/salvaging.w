@@ -1,0 +1,1 @@
+{"index": 277417, "D": "compensation given to those who voluntarily save a ship or its cargo.", "S": ["reclaim ", "recover ", "redeem ", "regain ", "restore ", "retrieve "], "A": ["abandon ", "forfeit ", "lose "]}

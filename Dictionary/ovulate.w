@@ -1,0 +1,1 @@
+{"index": 222012, "D": "to produce and discharge eggs from an ovary or ovarian follicle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 12345, "D": "a mineral, calcium-iron garnet, Ca3Fe2Si3O2, occurring in brown, green, or black crystals.", "S": [], "A": []}

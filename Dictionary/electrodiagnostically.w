@@ -1,0 +1,1 @@
+{"index": 97020, "D": "diagnosis  by the observation of the changes in electric irritability that occur as a result of a disease, as recorded by an electroencephalogram or the like.", "S": [], "A": []}

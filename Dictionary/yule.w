@@ -1,0 +1,1 @@
+{"index": 159671, "D": "Christmas, or the Christmas season.", "S": ["Christmastide ", "Noel ", "Xmas ", "Yuletide "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 28390, "D": "a wheelbarrow. ", "S": ["bank ", "dune ", "hill ", "hog ", "mote ", "mound ", "mountain ", "pile ", "tumulus "], "A": ["ditch ", "valley "]}

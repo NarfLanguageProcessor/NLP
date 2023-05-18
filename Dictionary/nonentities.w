@@ -1,0 +1,1 @@
+{"index": 203539, "D": "a person or thing of no importance.", "S": ["cipher ", "insignificancy ", "lightweight ", "menial ", "nix ", "nothing ", "parvenu ", "small potato ", "squirt ", "upstart ", "wimp ", "zero ", "zip "], "A": ["somebody "]}

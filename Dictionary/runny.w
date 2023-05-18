@@ -1,0 +1,1 @@
+{"index": 275675, "D": "tending to run  or drip", "S": ["flowing "], "A": ["inflexible ", "solid ", "stable ", "unchangeable "]}

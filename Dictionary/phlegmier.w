@@ -1,0 +1,1 @@
+{"index": 234490, "D": "of, relating to, or characterized by phlegm. ", "S": [], "A": []}

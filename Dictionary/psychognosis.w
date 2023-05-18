@@ -1,0 +1,1 @@
+{"index": 255352, "D": "the use of hypnosis to study mental phenomena", "S": [], "A": []}

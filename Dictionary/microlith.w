@@ -1,0 +1,1 @@
+{"index": 186228, "D": "a tiny stone tool, often of geometric shape, made from a bladelet and mounted singly or in series as the working part of a composite tool or weapon, especially during late Upper Paleolithic and Mesolithic times.", "S": [], "A": []}

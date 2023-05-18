@@ -1,0 +1,1 @@
+{"index": 202108, "D": "not committing oneself, or not involving committal,  to a particular view, course, or the like", "S": [], "A": []}

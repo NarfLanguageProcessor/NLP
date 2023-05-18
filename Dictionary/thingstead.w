@@ -1,0 +1,1 @@
+{"index": 321883, "D": "the meeting place of a Scandinavian assembly.", "S": [], "A": []}

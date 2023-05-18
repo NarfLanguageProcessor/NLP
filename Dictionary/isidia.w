@@ -1,0 +1,1 @@
+{"index": 158666, "D": "a coralloid outgrowth from the thallus in certain lichens.", "S": [], "A": []}

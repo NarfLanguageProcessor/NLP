@@ -1,0 +1,1 @@
+{"index": 222168, "D": "any of several composite plants, especially of the genera Heliopsis and Buphthalum, having ray flowers surrounding a conspicuous disk.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111782, "D": "the projection of the leg of a horse behind the joint between the cannon bone and great pastern bone, bearing a tuft of hair.", "S": [], "A": []}

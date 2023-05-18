@@ -1,0 +1,1 @@
+{"index": 4420, "D": "a side of a mountain receiving direct sunlight.", "S": [], "A": []}

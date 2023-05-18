@@ -1,0 +1,1 @@
+{"index": 702, "D": "cards a variant spelling of abundance (def. 6)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 234055, "D": "of or relating to physicalism.", "S": [], "A": []}

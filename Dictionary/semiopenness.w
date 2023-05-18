@@ -1,0 +1,1 @@
+{"index": 284598, "D": "the quality or state of being relatively free from obstruction or relatively unoccupied", "S": [], "A": []}

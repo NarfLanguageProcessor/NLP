@@ -1,0 +1,1 @@
+{"index": 118868, "D": "ornamental work  consisting of interlacing parts, especially work  in which the design is formed by perforation.", "S": ["color ", "design ", "finery ", "ornament ", "plaque ", "ribbon ", "trinket ", "wreath "], "A": ["plainness "]}

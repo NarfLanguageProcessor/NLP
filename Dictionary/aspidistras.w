@@ -1,0 +1,1 @@
+{"index": 21494, "D": "any of several plants belonging to the genus Aspidistra, of the lily family, native to eastern Asia, especially A. eliator, having large evergreen leaves often striped with white, and grown as a houseplant.", "S": [], "A": []}

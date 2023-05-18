@@ -1,0 +1,1 @@
+{"index": 274554, "D": "a cordial flavored with rose petals, cloves, cinnamon, or the like, popular in southern Europe.", "S": [], "A": []}

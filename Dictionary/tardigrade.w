@@ -1,0 +1,1 @@
+{"index": 316539, "D": "any microscopic, chiefly herbivorous invertebrate of the phylum Tardigrada, living in water, on mosses, lichens, etc.", "S": [], "A": []}

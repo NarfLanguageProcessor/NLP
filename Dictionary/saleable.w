@@ -1,0 +1,1 @@
+{"index": 276968, "D": "fit for selling or capable of being sold", "S": ["economic ", "financial ", "monetary ", "profit-making ", "profitable ", "wholesale "], "A": ["not-for-profit "]}

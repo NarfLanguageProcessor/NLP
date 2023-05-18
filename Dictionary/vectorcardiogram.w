@@ -1,0 +1,1 @@
+{"index": 357619, "D": "the graphic record produced by vectorcardiography.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 249499, "D": "pertaining to a symptom  or symptoms.", "S": [], "A": []}

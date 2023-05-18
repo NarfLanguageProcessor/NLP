@@ -1,0 +1,1 @@
+{"index": 255276, "D": "the practice or science of diagnosing and treating mental disorders.", "S": [], "A": []}

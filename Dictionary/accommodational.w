@@ -1,0 +1,1 @@
+{"index": 1645, "D": "the act of accommodating;  state or process of being accommodated;  adaptation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 343267, "D": "to move or tend to move under the influence of gravitational  force.", "S": [], "A": []}

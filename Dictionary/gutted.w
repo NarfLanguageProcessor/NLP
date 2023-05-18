@@ -1,0 +1,1 @@
+{"index": 131611, "D": "very sad, upset, frustrated, etc.", "S": ["broken ", "demolished ", "devastated ", "lost ", "ravaged ", "ruined ", "shattered ", "smashed ", "wrecked "], "A": ["fixed ", "repaired ", "sober ", "successful "]}

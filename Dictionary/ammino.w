@@ -1,0 +1,1 @@
+{"index": 10723, "D": "containing or pertaining to an ammine.", "S": [], "A": []}

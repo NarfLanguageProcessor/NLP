@@ -1,0 +1,1 @@
+{"index": 128560, "D": "the principle or policy of achieving some goal by gradual  steps rather than by drastic change.", "S": [], "A": []}

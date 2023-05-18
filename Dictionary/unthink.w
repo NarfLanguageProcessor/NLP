@@ -1,0 +1,1 @@
+{"index": 352910, "D": "to end one's thought  or reverse the process of thought.", "S": [], "A": []}

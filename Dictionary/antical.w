@@ -1,0 +1,1 @@
+{"index": 14818, "D": "(of the position of plant parts) in front of or above another part; anterior", "S": [], "A": []}

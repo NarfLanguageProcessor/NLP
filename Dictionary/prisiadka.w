@@ -1,0 +1,1 @@
+{"index": 250766, "D": "a step in Slavic folk dancing in which the dancer squats on the haunches and kicks out each foot alternately; the characteristic step of the kazachok.", "S": [], "A": []}

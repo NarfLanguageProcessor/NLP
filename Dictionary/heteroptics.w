@@ -1,0 +1,1 @@
+{"index": 137739, "D": "incorrect or perverted perception of what is seen; hallucinatory vision.", "S": [], "A": []}

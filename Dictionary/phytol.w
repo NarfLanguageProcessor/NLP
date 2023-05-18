@@ -1,0 +1,1 @@
+{"index": 234292, "D": "a hydrophobic alcohol, C20H40O, that occurs esterified as a side chain in the chlorophyll molecule.", "S": [], "A": []}

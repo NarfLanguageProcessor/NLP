@@ -1,0 +1,1 @@
+{"index": 28832, "D": "German anthropologist.", "S": [], "A": []}

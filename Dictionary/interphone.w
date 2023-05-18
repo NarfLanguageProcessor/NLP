@@ -1,0 +1,1 @@
+{"index": 155622, "D": "an intercommunication system using telephones to connect offices, stations, etc., as in a building or ship; intercom.", "S": [], "A": []}

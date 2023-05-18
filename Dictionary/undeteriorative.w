@@ -1,0 +1,1 @@
+{"index": 340225, "D": "to make or become worse or inferior in condition, character, quality, value, etc.", "S": [], "A": []}

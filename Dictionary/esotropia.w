@@ -1,0 +1,1 @@
+{"index": 104374, "D": "strabismus in which one eye deviates inward.", "S": [], "A": []}

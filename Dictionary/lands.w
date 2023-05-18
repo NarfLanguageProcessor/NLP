@@ -1,0 +1,1 @@
+{"index": 168009, "D": "holdings in land", "S": ["area ", "farm ", "parcel ", "plantation ", "ranch ", "residence "], "A": []}

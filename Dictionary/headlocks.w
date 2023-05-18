@@ -1,0 +1,1 @@
+{"index": 134651, "D": "a hold in which a wrestler locks  an arm around the opponent's head. ", "S": [], "A": []}

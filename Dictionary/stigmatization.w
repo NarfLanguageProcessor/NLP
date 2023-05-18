@@ -1,0 +1,1 @@
+{"index": 304412, "D": [], "S": ["accusation ", "censure ", "denouncement ", "indictment ", "invective ", "reprimand "], "A": ["compliment ", "praise ", "exculpation ", "exoneration ", "flattery "]}

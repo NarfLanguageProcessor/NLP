@@ -1,0 +1,1 @@
+{"index": 257310, "D": "to render putrid;  cause to rot or decay with an offensive odor.", "S": ["corrupt ", "crumble ", "decay ", "decompose ", "deteriorate ", "disintegrate ", "molder ", "spoil ", "stink ", "taint ", "turn "], "A": ["build ", "combine ", "develop ", "grow ", "improve ", "put together ", "unite "]}

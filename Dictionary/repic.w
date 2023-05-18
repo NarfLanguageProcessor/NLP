@@ -1,0 +1,1 @@
+{"index": 268206, "D": "the scoring of 30 points in the declaration of hands before one's opponent scores a point.", "S": [], "A": []}

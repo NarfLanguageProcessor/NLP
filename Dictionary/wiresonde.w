@@ -1,0 +1,1 @@
+{"index": 366367, "D": "an instrument carried aloft by a captive balloon and sending temperature and humidity data over a wire  cable.", "S": [], "A": []}

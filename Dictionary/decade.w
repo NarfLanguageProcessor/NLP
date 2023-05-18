@@ -1,0 +1,1 @@
+{"index": 77901, "D": "a period of ten years", "S": ["decagon ", "decapod ", "decennary ", "decennium "], "A": []}

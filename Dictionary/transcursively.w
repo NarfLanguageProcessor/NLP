@@ -1,0 +1,1 @@
+{"index": 327782, "D": "(of handwriting) in flowing strokes with the letters joined together.", "S": [], "A": []}

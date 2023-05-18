@@ -1,0 +1,1 @@
+{"index": 240528, "D": "a person or thing that plunks. ", "S": [], "A": []}

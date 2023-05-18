@@ -1,0 +1,1 @@
+{"index": 97055, "D": "to form  (an object) by the electrodeposition of a metal upon a mold, often a wax mold.", "S": [], "A": []}

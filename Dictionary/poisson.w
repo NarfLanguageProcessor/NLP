@@ -1,0 +1,1 @@
+{"index": 241397, "D": "Sim\u00e9on Denis (sime\u0254\u0303 d\u0259ni). 1781\u20131840, French mathematician, noted for his application of mathematical theory to physics, esp electricity and magnetism", "S": [], "A": []}

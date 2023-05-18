@@ -1,0 +1,1 @@
+{"index": 277159, "D": "belonging or pertaining to the family Salmonidae, including the salmons, trouts, chars, and whitefishes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349604, "D": "a person or thing that represents  another or others.", "S": [], "A": []}

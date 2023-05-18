@@ -1,0 +1,1 @@
+{"index": 193543, "D": "gloomily or sullenly ill-humored, as a person or mood.", "S": ["cranky ", "dour ", "gloomy ", "glum ", "grouchy ", "melancholy ", "mournful ", "sad ", "sullen ", "surly ", "testy ", "ugly "], "A": ["bright ", "cheerful ", "content ", "gentle ", "happy ", "joyful ", "pleasant "]}

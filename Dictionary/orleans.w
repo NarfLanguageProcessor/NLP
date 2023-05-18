@@ -1,0 +1,1 @@
+{"index": 214669, "D": "a city in and the capital of Loiret, in central France, SSW of Paris", "S": [], "A": []}

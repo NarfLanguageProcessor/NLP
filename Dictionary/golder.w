@@ -1,0 +1,1 @@
+{"index": 127520, "D": "a precious yellow metallic element, highly malleable and ductile, and not subject to oxidation or corrosion. Symbol", "S": ["aureate ", "auric ", "auriferous ", "aurous ", "aurulent ", "blond ", "blonde ", "caramel ", "dusty ", "flaxen ", "honeyed ", "mellow yellow ", "ochroid ", "straw ", "tan ", "tawny ", "wheat "], "A": []}

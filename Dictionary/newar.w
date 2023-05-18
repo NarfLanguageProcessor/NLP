@@ -1,0 +1,1 @@
+{"index": 199368, "D": "a member of a people of Nepal who traditionally reside in the Kathmandu Valley and surrounding regions.", "S": [], "A": []}

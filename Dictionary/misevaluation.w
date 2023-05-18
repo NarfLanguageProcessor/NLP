@@ -1,0 +1,1 @@
+{"index": 189260, "D": "an act or instance of evaluating  or appraising.", "S": [], "A": []}

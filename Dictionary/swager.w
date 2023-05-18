@@ -1,0 +1,1 @@
+{"index": 313951, "D": "a tool for bending cold metal to a required shape.", "S": [], "A": []}

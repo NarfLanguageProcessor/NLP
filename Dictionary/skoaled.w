@@ -1,0 +1,1 @@
+{"index": 293448, "D": "(used as a toast in drinking someone's health.)", "S": [], "A": []}

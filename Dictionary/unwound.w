@@ -1,0 +1,1 @@
+{"index": 354387, "D": "simple past tense and past participle of unwind. ", "S": ["loosen ", "unfurl ", "unravel "], "A": ["twist "]}

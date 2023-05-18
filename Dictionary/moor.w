@@ -1,0 +1,1 @@
+{"index": 193127, "D": "a tract of open, peaty, wasteland, often overgrown with heath, common in high latitudes and altitudes where drainage is poor; heath.", "S": ["dock ", "tether ", "tie up "], "A": ["let go ", "loose ", "loosen ", "lose ", "unfasten ", "untie "]}

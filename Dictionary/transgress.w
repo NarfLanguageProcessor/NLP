@@ -1,0 +1,1 @@
+{"index": 327925, "D": "to violate a law, command, moral code,  etc.; offend; sin. ", "S": ["infringe ", "trespass ", "violate "], "A": ["behave ", "obey "]}

@@ -1,0 +1,1 @@
+{"index": 89455, "D": "to scatter or spread widely, as though sowing seed; promulgate extensively; broadcast; disperse", "S": ["advertise ", "circulate ", "disperse ", "propagate ", "publicize ", "publish "], "A": ["conceal ", "hide ", "collect ", "gather "]}

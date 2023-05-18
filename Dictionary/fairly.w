@@ -1,0 +1,1 @@
+{"index": 109340, "D": "in a fair manner; justly or honestly; impartially.", "S": ["adequately ", "kind of ", "moderately ", "quite ", "rather ", "reasonably "], "A": ["unfairly ", "unjustly "]}

@@ -1,0 +1,1 @@
+{"index": 17050, "D": "(in certain algae and fungi) a nonmotile, asexual spore formed within a cell, the wall of which is distinct from that of the parent cell.", "S": [], "A": []}

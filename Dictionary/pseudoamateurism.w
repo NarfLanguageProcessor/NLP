@@ -1,0 +1,1 @@
+{"index": 254472, "D": "the practice, quality, or character of an amateur  or amateurish performance.", "S": [], "A": []}

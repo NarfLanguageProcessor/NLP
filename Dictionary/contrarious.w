@@ -1,0 +1,1 @@
+{"index": 67708, "D": "perverse; refractory.", "S": ["antagonistic ", "difficult ", "impossible ", "inimical ", "inimitable ", "ornery ", "perverse ", "refractory ", "wayward "], "A": []}

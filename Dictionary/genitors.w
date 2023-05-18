@@ -1,0 +1,1 @@
+{"index": 123626, "D": "a parent, especially a father.", "S": [], "A": []}

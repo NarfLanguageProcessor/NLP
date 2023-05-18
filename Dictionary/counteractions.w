@@ -1,0 +1,1 @@
+{"index": 70621, "D": "to act  in opposition to; frustrate by contrary action.", "S": ["balance ", "counterattack ", "counterbalance ", "counterblow ", "countermove ", "counteroffensive ", "counterpoise ", "neutralization ", "offset ", "reciprocation ", "reprisal ", "retribution ", "revenge ", "vengeance "], "A": ["forgiveness ", "pardon ", "sympathy "]}

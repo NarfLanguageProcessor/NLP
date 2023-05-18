@@ -1,0 +1,1 @@
+{"index": 103886, "D": "German painter, in the U.S. 1941\u201349, in France 1949\u201376.", "S": [], "A": []}

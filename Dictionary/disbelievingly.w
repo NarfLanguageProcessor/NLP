@@ -1,0 +1,1 @@
+{"index": 87174, "D": "to have no belief in; refuse or reject belief in", "S": [], "A": []}

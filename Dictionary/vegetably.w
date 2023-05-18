@@ -1,0 +1,1 @@
+{"index": 357685, "D": "like or in the manner of a vegetable. ", "S": [], "A": []}

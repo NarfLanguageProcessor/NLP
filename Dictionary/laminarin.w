@@ -1,0 +1,1 @@
+{"index": 167715, "D": "a carbohydrate, consisting of repeated glucose units, that is the main storage product of brown algae", "S": [], "A": []}

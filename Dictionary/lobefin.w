@@ -1,0 +1,1 @@
+{"index": 174193, "D": "any fish that has rounded scales and lobed fins, as the coelacanth.", "S": [], "A": []}

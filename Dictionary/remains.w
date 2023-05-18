@@ -1,0 +1,1 @@
+{"index": 267102, "D": "the remains of a meal; archaeological remains", "S": ["debris ", "remnant "], "A": ["base ", "core "]}

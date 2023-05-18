@@ -1,0 +1,1 @@
+{"index": 65822, "D": "to consult together; compare opinions; carry on a discussion or deliberation.", "S": ["bestowal ", "bestowment ", "conferral ", "presentation "], "A": []}

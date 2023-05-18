@@ -1,0 +1,1 @@
+{"index": 131667, "D": "to speak or pronounce (something) in a guttural  manner.", "S": [], "A": []}

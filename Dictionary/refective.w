@@ -1,0 +1,1 @@
+{"index": 264948, "D": "refreshment, especially with food or drink.", "S": [], "A": []}

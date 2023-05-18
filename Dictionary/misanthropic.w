@@ -1,0 +1,1 @@
+{"index": 188662, "D": "of, relating to, or characteristic of a misanthrope. ", "S": ["antisocial ", "egoistic ", "egotistical ", "eremitic ", "hating ", "inhumane ", "malevolent ", "misanthropical ", "reclusive ", "reserved ", "sarcastic ", "selfish ", "solitary ", "standoffish ", "unfriendly "], "A": ["humanitarian ", "philanthropic ", "sociable "]}

@@ -1,0 +1,1 @@
+{"index": 358595, "D": "any of a group of platy minerals, hydrous silicates of aluminum, magnesium, and iron, that expand markedly on being heated", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259166, "D": "indeed! (used ironically or contemptuously in quoting another).", "S": [], "A": []}

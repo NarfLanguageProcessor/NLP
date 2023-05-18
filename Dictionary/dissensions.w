@@ -1,0 +1,1 @@
+{"index": 89463, "D": "strong disagreement; a contention or quarrel; discord.", "S": ["bickering ", "controversy ", "disagreement ", "discord ", "dissent ", "disunity ", "factionalism ", "friction ", "fuss ", "quarrel ", "strife ", "wrangle "], "A": ["agreement ", "harmony ", "peace ", "conformity ", "unity "]}

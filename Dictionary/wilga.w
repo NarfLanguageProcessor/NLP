@@ -1,0 +1,1 @@
+{"index": 365744, "D": "a small drought-resistant tree, Geijera parviflora, of Australia, having hard aromatic wood, white flowers, and foliage that resembles that of the willow", "S": [], "A": []}

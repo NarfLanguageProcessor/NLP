@@ -1,0 +1,1 @@
+{"index": 11221, "D": "(of a classical temple) having columns on both fronts.", "S": [], "A": []}

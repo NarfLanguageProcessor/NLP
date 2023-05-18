@@ -1,0 +1,1 @@
+{"index": 151777, "D": "absolutely trustworthy or sure", "S": ["authoritative ", "flawless ", "foolproof ", "unbeatable "], "A": ["erring ", "fallible ", "faulty ", "imperfect "]}

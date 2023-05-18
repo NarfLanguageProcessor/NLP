@@ -1,0 +1,1 @@
+{"index": 336267, "D": "to unfasten the buckle or buckles of.", "S": ["release ", "unbelt ", "undo ", "unloose "], "A": ["buckle ", "fasten "]}

@@ -1,0 +1,1 @@
+{"index": 50248, "D": "the rapid formation and collapse of vapor pockets in a flowing liquid in regions of very low pressure, a frequent cause of structural damage to propellers, pumps, etc.", "S": [], "A": []}

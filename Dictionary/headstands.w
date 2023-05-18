@@ -1,0 +1,1 @@
+{"index": 134724, "D": "an act or instance of supporting the body in a vertical position by balancing on the head  usually with the aid of the hands.", "S": [], "A": []}

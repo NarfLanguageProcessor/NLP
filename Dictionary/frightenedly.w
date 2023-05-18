@@ -1,0 +1,1 @@
+{"index": 118996, "D": "thrown into a fright; afraid; scared;  terrified", "S": [], "A": []}

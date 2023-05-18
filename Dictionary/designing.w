@@ -1,0 +1,1 @@
+{"index": 82596, "D": "scheming; intriguing; artful; crafty.", "S": ["Machiavellian ", "conniving ", "conspiring ", "crooked ", "cunning ", "intriguing ", "scheming ", "sharp "], "A": ["aboveboard ", "honest ", "kind "]}

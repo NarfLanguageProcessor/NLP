@@ -1,0 +1,1 @@
+{"index": 121853, "D": "a foreman of a gang of laborers.", "S": [], "A": []}

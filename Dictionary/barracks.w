@@ -1,0 +1,1 @@
+{"index": 28276, "D": "a building or group of buildings used to accommodate military personnel", "S": ["billet ", "bivouac ", "camp ", "cantonment ", "dormitory ", "encampment ", "enclosure ", "garrison ", "headquarters ", "hut ", "prefab ", "quarters ", "tent "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 324775, "D": "to laugh in a restrained, self-conscious, or affected way, as from nervousness or in ill-suppressed amusement.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 195072, "D": "having a specified kind of face  or number of faces  (usually used in combination)", "S": [], "A": []}

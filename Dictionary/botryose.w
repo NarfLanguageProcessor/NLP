@@ -1,0 +1,1 @@
+{"index": 38782, "D": "botryoidal. ", "S": ["aciniform ", "racemose "], "A": []}

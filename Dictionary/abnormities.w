@@ -1,0 +1,1 @@
+{"index": 632, "D": "an abnormal condition, quality, etc.; abnormality; irregularity.", "S": [], "A": []}

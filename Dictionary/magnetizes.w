@@ -1,0 +1,1 @@
+{"index": 177519, "D": "to make a magnet  of or impart the properties of a magnet  to.", "S": ["allure ", "attract ", "charm ", "draw ", "entice ", "fascinate ", "influence "], "A": ["dissuade ", "repel ", "repulse ", "turn off "]}

@@ -1,0 +1,1 @@
+{"index": 306308, "D": "an out made by a batter to whom three strikes have been charged, or as recorded by the pitcher who accomplishes this.", "S": ["bear ", "begin ", "get under way ", "head ", "initiate ", "light out ", "make ", "set out ", "start ", "start out ", "take off "], "A": ["remain ", "stay "]}

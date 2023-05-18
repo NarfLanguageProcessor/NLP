@@ -1,0 +1,1 @@
+{"index": 98418, "D": "the office or rank of an emir. ", "S": [], "A": []}

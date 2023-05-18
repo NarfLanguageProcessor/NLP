@@ -1,0 +1,1 @@
+{"index": 304448, "D": "a particular kind, sort, or type, as with reference to form, appearance, or character", "S": ["boring ", "cheesy ", "dowdy ", "drab ", "dull ", "frumpy ", "homely ", "old-fashioned ", "plain ", "shabby ", "stodgy ", "unattractive ", "unfashionable ", "unkempt ", "unstylish "], "A": []}

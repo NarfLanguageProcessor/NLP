@@ -1,0 +1,1 @@
+{"index": 162695, "D": "a liturgical prayer, consisting of three or six verses, recited at specified points during each of the three daily services and on certain other occasions.", "S": [], "A": []}

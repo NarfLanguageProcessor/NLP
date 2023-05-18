@@ -1,0 +1,1 @@
+{"index": 60455, "D": "a person or thing that closes", "S": ["close by ", "nearby "], "A": ["farther "]}

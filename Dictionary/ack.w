@@ -1,0 +1,1 @@
+{"index": 2546, "D": "(used as an expression of dismay, frustration, surprise, or the like)", "S": [], "A": []}

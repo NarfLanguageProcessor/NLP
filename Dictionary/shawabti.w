@@ -1,0 +1,1 @@
+{"index": 287651, "D": "a figurine placed in an ancient Egyptian tomb to serve as a slave for the soul or as a substitute for the soul in performing forced labor.", "S": [], "A": []}

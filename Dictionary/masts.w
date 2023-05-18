@@ -1,0 +1,1 @@
+{"index": 180984, "D": "any of various portions of a single spar that are beside particular sails, as a top-gallant mast and royal mast  formed as a single spar.", "S": ["pole "], "A": []}

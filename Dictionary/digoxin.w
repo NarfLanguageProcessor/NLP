@@ -1,0 +1,1 @@
+{"index": 85529, "D": "a cardiac glycoside of purified digitalis,  C41H64O14, derived from the plant leaves of Digitalis lanata and widely used in the treatment of congestive heart failure.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 96703, "D": "a native or inhabitant of ancient Elam. ", "S": [], "A": []}

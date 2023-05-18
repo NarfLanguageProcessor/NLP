@@ -1,0 +1,1 @@
+{"index": 184156, "D": "completely engrossing; captivating or fascinating", "S": ["appealing "], "A": []}

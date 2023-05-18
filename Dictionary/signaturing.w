@@ -1,0 +1,1 @@
+{"index": 290127, "D": [], "S": ["endorse ", "engross ", "handwrite ", "ink ", "inscribe ", "pen ", "sign ", "signature ", "subscribe "], "A": ["reject "]}

@@ -1,0 +1,1 @@
+{"index": 90381, "D": "the capacity of being divided. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 241468, "D": "the polestar or North Star, a star of the second magnitude situated close to the north pole of the heavens, in the constellation Ursa Minor", "S": [], "A": []}

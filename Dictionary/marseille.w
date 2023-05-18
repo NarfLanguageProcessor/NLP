@@ -1,0 +1,1 @@
+{"index": 180383, "D": "a strong cotton fabric with a raised pattern, used for bedspreads, etc", "S": [], "A": []}

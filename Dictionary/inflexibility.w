@@ -1,0 +1,1 @@
+{"index": 152132, "D": "not flexible; incapable of or resistant to being bent; rigid", "S": ["intransigence ", "obstinacy "], "A": []}

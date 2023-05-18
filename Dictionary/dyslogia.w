@@ -1,0 +1,1 @@
+{"index": 88615, "D": "inability to express ideas because of faulty reasoning or speech, due to a mental disorder.", "S": [], "A": []}

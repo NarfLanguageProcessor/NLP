@@ -1,0 +1,1 @@
+{"index": 301652, "D": "variant of squamo-  before a vowel", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 279670, "D": "of or relating to the shoulders or the scapula  or scapulae. ", "S": [], "A": []}

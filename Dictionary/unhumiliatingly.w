@@ -1,0 +1,1 @@
+{"index": 343930, "D": "lowering the pride, self-respect, or dignity of a person; mortifying", "S": [], "A": []}

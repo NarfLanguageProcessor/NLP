@@ -1,0 +1,1 @@
+{"index": 290609, "D": "the god of forests and uncultivated land, later worshiped under three aspects, as the protector of the house, of the herds, and of the boundaries of the farm.", "S": [], "A": []}

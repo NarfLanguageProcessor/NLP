@@ -1,0 +1,1 @@
+{"index": 200552, "D": "to drug or disable (a race horse) to prevent its winning a race.", "S": ["blandishment ", "blarney ", "cajolery ", "fair words ", "flattery ", "honeyed words ", "incense ", "insincere flattery ", "smooth talk ", "snow job ", "soft soap ", "sweet nothings "], "A": []}

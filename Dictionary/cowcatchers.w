@@ -1,0 +1,1 @@
+{"index": 71571, "D": "a triangular frame at the front of a locomotive, especially a steam locomotive, designed for clearing the track of obstructions.", "S": [], "A": []}

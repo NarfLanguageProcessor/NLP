@@ -1,0 +1,1 @@
+{"index": 5439, "D": "to distress with mental or bodily pain; trouble greatly or grievously", "S": ["annoy ", "beset ", "bother ", "burden ", "oppress ", "plague ", "rack ", "torment ", "torture ", "wound "], "A": ["aid ", "delight ", "help ", "make happy ", "please ", "relieve ", "soothe ", "assist ", "be happy ", "support "]}

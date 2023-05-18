@@ -1,0 +1,1 @@
+{"index": 363270, "D": "the standard unit of power in the International System of Units (SI), equivalent to one joule per second and equal to the power in a circuit in which a current of one ampere flows across a potential difference of one volt. Abbreviation", "S": [], "A": []}

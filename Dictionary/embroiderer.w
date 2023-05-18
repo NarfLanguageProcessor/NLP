@@ -1,0 +1,1 @@
+{"index": 98363, "D": "to decorate with ornamental needlework.", "S": [], "A": []}

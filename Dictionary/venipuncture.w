@@ -1,0 +1,1 @@
+{"index": 358096, "D": "the puncture of a vein for surgical or therapeutic purposes or for collecting blood specimens for analysis.", "S": [], "A": []}

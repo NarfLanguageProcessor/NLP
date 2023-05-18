@@ -1,0 +1,1 @@
+{"index": 369262, "D": "a plant that reproduces by means of zygospores.", "S": [], "A": []}

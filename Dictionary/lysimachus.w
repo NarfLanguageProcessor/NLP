@@ -1,0 +1,1 @@
+{"index": 173435, "D": "Macedonian general", "S": [], "A": []}

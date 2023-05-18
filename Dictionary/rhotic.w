@@ -1,0 +1,1 @@
+{"index": 272377, "D": "of or relating to a dialect of English in which the r is pronounced at the end of a syllable or before a consonant", "S": [], "A": []}

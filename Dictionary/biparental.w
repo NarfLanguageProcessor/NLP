@@ -1,0 +1,1 @@
+{"index": 34615, "D": "pertaining to or having traits or characteristics that stem from both parents.", "S": [], "A": []}

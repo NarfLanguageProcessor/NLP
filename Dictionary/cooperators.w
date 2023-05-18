@@ -1,0 +1,1 @@
+{"index": 68336, "D": "to work or act together or jointly for a common purpose or benefit.", "S": ["accessory ", "accomplice ", "confederate ", "helper ", "second ", "supporter "], "A": ["adversary ", "opponent "]}

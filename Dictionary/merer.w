@@ -1,0 +1,1 @@
+{"index": 183753, "D": [], "S": ["bare ", "minor ", "pure ", "sheer ", "simple "], "A": ["decorated ", "indefinite ", "uncertain ", "abnormal ", "big ", "enormous ", "excellent ", "extraordinary ", "great ", "huge ", "immense ", "important ", "large ", "superior ", "uncommon "]}

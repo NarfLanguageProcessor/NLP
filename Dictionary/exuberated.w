@@ -1,0 +1,1 @@
+{"index": 108792, "D": "to be exuberant;  superabound; overflow.", "S": [], "A": []}

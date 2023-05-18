@@ -1,0 +1,1 @@
+{"index": 95727, "D": "something that forms or is placed along an edge  or border.", "S": [], "A": []}

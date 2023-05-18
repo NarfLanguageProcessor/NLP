@@ -1,0 +1,1 @@
+{"index": 332197, "D": "a black New Zealand honey eater, Prosthemadera novaeseelandiae, having a patch of white feathers on each side of the throat, sometimes tamed as a pet.", "S": [], "A": []}

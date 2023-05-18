@@ -1,0 +1,1 @@
+{"index": 205016, "D": "a reversal or disappointment; defeat or setback.", "S": [], "A": []}

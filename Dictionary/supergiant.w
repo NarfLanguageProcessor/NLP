@@ -1,0 +1,1 @@
+{"index": 311928, "D": "supergiant star. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 13227, "D": "the belief that natural objects, natural phenomena, and the universe itself possess souls.", "S": [], "A": []}

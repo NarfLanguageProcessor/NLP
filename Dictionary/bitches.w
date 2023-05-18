@@ -1,0 +1,1 @@
+{"index": 35171, "D": "a female dog", "S": ["floozy ", "harlot ", "hussy ", "slut ", "tart ", "tramp ", "vamp ", "wench ", "whore ", "witch "], "A": ["saint "]}

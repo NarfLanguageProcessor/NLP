@@ -1,0 +1,1 @@
+{"index": 275116, "D": "an act or action of a person or thing that rubs. ", "S": ["crumbling ", "crunching ", "crushing ", "disintegrating ", "eroding ", "grating ", "milling ", "powdering ", "scraping ", "shivering ", "smashing "], "A": []}

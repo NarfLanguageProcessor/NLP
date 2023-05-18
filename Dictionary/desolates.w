@@ -1,0 +1,1 @@
+{"index": 82754, "D": "barren or laid waste; devastated", "S": ["bare ", "bleak ", "derelict ", "dreary ", "empty ", "isolated ", "lonely ", "lonesome ", "uninhabited "], "A": ["befriended ", "bright ", "full ", "inhabited ", "loved ", "pleasant ", "populated ", "cherished ", "intact ", "protected ", "restored ", "saved "]}

@@ -1,0 +1,1 @@
+{"index": 263107, "D": "the act or power of recollecting,  or recalling to mind; remembrance.", "S": ["memory ", "reminiscence "], "A": []}

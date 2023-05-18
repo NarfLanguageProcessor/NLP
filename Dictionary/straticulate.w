@@ -1,0 +1,1 @@
+{"index": 305859, "D": "made up of or arranged in thin layers.", "S": [], "A": []}

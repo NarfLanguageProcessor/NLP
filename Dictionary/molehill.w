@@ -1,0 +1,1 @@
+{"index": 191444, "D": "a small mound or ridge of earth raised up by a mole  or moles  burrowing under the ground.", "S": ["immateriality ", "inconsequence ", "inconsequentiality ", "indifference ", "meanness ", "negligibility ", "negligibleness ", "nothingness ", "paltriness ", "smallness ", "trifling matter ", "triviality ", "trivialness ", "worthlessness "], "A": []}

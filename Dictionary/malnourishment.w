@@ -1,0 +1,1 @@
+{"index": 178596, "D": [], "S": ["hunger ", "starvation "], "A": []}

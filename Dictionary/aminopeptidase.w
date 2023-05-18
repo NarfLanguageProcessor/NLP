@@ -1,0 +1,1 @@
+{"index": 10625, "D": "any of several intestinal hydrolytic enzymes that remove an amino acid from the end of a peptide chain having a free amino group.", "S": [], "A": []}

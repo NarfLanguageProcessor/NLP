@@ -1,0 +1,1 @@
+{"index": 47938, "D": "Usual US and Canadian term", "S": [], "A": []}

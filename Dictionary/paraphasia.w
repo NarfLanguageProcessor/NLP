@@ -1,0 +1,1 @@
+{"index": 225934, "D": "a defect of speech in which the normal flow of words is interrupted by inappropriate words and phrases", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 294363, "D": "muddy, slushy, or very wet", "S": ["awkward ", "careless ", "clumsy ", "dirty ", "mediocre ", "muddy ", "poor ", "wet "], "A": ["adroit ", "clean ", "clever ", "dexterous ", "graceful ", "superior "]}

@@ -1,0 +1,1 @@
+{"index": 274259, "D": "roommate. ", "S": ["accomplice ", "aide ", "ally ", "assistant ", "associate ", "buddy ", "co-worker ", "colleague ", "comrade ", "cousin ", "crony ", "guide ", "mate ", "nurse ", "partner ", "playmate ", "protector "], "A": ["antagonist ", "enemy ", "foe ", "opponent "]}

@@ -1,0 +1,1 @@
+{"index": 25972, "D": "slanting backward or away from the front.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 32686, "D": "to cause to go (usually used reflexively)", "S": [], "A": []}

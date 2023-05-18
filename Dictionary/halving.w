@@ -1,0 +1,1 @@
+{"index": 132895, "D": "to divide into two equal parts.", "S": ["bisect "], "A": ["combine "]}

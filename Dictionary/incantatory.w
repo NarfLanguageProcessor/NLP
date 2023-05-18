@@ -1,0 +1,1 @@
+{"index": 149665, "D": "relating to or having the characteristics of an incantation", "S": [], "A": []}

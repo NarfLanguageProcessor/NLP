@@ -1,0 +1,1 @@
+{"index": 200621, "D": "of, relating to, or given to sleepwalking.", "S": [], "A": []}

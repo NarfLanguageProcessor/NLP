@@ -1,0 +1,1 @@
+{"index": 107646, "D": "to cut off the pads or claws of (an animal, especially a dog) in order to inhibit deer chasing.", "S": [], "A": []}

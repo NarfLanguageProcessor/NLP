@@ -1,0 +1,1 @@
+{"index": 207140, "D": "the state or quality of being sensitive; sensitiveness.", "S": [], "A": []}

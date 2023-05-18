@@ -1,0 +1,1 @@
+{"index": 90010, "D": "a person who advocates or causes disunion. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 188311, "D": "the larva that hatches from the egg of a trematode worm or fluke.", "S": [], "A": []}

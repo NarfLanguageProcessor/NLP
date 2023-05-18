@@ -1,0 +1,1 @@
+{"index": 117877, "D": "a whipping movement of the free leg, often executed during a turn.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 7494, "D": "the white horse that Muhammad rode to heaven.", "S": [], "A": []}

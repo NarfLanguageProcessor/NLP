@@ -1,0 +1,1 @@
+{"index": 44824, "D": "a spur or spurlike process.", "S": [], "A": []}

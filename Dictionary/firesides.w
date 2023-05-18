@@ -1,0 +1,1 @@
+{"index": 113210, "D": "the space about a fire  or hearth.", "S": ["chimney ", "furnace ", "stove "], "A": []}

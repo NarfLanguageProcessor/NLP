@@ -1,0 +1,1 @@
+{"index": 64204, "D": "violent or tumultuous motion; agitation; noisy disturbance", "S": [], "A": []}

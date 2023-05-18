@@ -1,0 +1,1 @@
+{"index": 187504, "D": "of, relating to, or situated near the lower molar teeth and the hyoid bone.", "S": [], "A": []}

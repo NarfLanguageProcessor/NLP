@@ -1,0 +1,1 @@
+{"index": 58494, "D": "an inherited metabolic disorder that results in the excessive excretion of certain amino acids, especially cystine,  in the urine.", "S": [], "A": []}

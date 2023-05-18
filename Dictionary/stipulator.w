@@ -1,0 +1,1 @@
+{"index": 304788, "D": "to make an express demand or arrangement as a condition of agreement (often followed by for).", "S": [], "A": []}

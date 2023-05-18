@@ -1,0 +1,1 @@
+{"index": 278866, "D": "any of several large, brightly colored moths of the family Saturniidae, comprising the giant silkworm moths.", "S": [], "A": []}

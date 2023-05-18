@@ -1,0 +1,1 @@
+{"index": 46762, "D": "the ratio of an impressed charge on a conductor to the corresponding change in potential.", "S": [], "A": []}

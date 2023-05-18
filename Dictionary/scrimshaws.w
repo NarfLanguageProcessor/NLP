@@ -1,0 +1,1 @@
+{"index": 281851, "D": "a carved or engraved article, especially of whale ivory, whalebone, walrus tusks, or the like, made by whalers as a leisure occupation.", "S": [], "A": []}

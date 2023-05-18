@@ -1,0 +1,1 @@
+{"index": 206733, "D": "to keep under control, check, or suppress (desires, feelings, actions, tears, etc.).", "S": [], "A": []}

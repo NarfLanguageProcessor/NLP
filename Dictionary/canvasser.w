@@ -1,0 +1,1 @@
+{"index": 46725, "D": "a person who solicits votes, subscriptions, donations, opinions, or the like, especially by phone or door-to-door", "S": ["sampler "], "A": []}

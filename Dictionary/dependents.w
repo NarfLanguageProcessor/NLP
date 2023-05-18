@@ -1,0 +1,1 @@
+{"index": 81563, "D": "relying on someone or something else for aid, support, etc.", "S": ["audience ", "constituency "], "A": ["management ", "ownership "]}

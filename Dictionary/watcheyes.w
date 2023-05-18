@@ -1,0 +1,1 @@
+{"index": 363060, "D": "an eye,  especially of a dog, with a whitish iris or a white opacity of the cornea; walleye.", "S": [], "A": []}

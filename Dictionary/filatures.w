@@ -1,0 +1,1 @@
+{"index": 112555, "D": "the act of forming into threads.", "S": [], "A": []}

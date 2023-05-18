@@ -1,0 +1,1 @@
+{"index": 30407, "D": "any of numerous insects of the order Coleoptera, characterized by hard, horny forewings that cover and protect the membranous flight wings.", "S": ["beetle ", "bulge ", "elongate ", "extend ", "impend ", "lengthen ", "overhang ", "poke out ", "pop out ", "pouch ", "project ", "protrude ", "protuberate "], "A": ["cave in ", "depress ", "shorten "]}

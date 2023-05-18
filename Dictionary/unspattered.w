@@ -1,0 +1,1 @@
+{"index": 351680, "D": "to scatter or dash in small particles or drops", "S": [], "A": []}

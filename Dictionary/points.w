@@ -1,0 +1,1 @@
+{"index": 241356, "D": "a sharp or tapering end, as of a dagger.", "S": ["credibility ", "credit ", "kudos ", "notability ", "pat on the back ", "plaudits ", "praise ", "strokes ", "word of praise "], "A": []}

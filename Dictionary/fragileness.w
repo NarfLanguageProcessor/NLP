@@ -1,0 +1,1 @@
+{"index": 118208, "D": "easily broken, shattered, or damaged; delicate; brittle; frail", "S": ["debility ", "decrepitude ", "delicacy ", "delicateness ", "enfeeblement ", "feebleness ", "flimsiness ", "fragility ", "frailty ", "infirmity ", "unsoundness ", "weakliness ", "weakness "], "A": []}

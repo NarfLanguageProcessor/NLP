@@ -1,0 +1,1 @@
+{"index": 254255, "D": "a strong, lightweight worsted constructed in a twill weave, used in the manufacture of women's and children's apparel.", "S": [], "A": []}

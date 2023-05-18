@@ -1,0 +1,1 @@
+{"index": 154319, "D": "given to or characterized by excessive or immoderate indulgence in alcoholic beverages.", "S": [], "A": []}

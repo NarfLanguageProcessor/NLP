@@ -1,0 +1,1 @@
+{"index": 91616, "D": "a person who undertakes to predict the outcome of elections, sports events, or other contests that hold the public interest.", "S": [], "A": []}

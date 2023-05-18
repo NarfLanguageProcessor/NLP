@@ -1,0 +1,1 @@
+{"index": 141094, "D": "an abnormally weak voice due to lack of coordination of the speech muscles.", "S": [], "A": []}

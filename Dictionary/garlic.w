@@ -1,0 +1,1 @@
+{"index": 122185, "D": "a hardy plant, Allium sativum, of the amaryllis family, whose strongly pungent bulb is used in cooking and medicine.", "S": [], "A": []}

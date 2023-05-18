@@ -1,0 +1,1 @@
+{"index": 161240, "D": "to reject or cast aside (a lover or sweetheart), especially abruptly or unfeelingly.", "S": [], "A": []}

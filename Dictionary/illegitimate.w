@@ -1,0 +1,1 @@
+{"index": 147345, "D": "born of parents who are not married to each other; born out of wedlock", "S": ["illegal ", "illicit ", "improper ", "invalid ", "unauthorized ", "unconstitutional ", "unlawful "], "A": ["authorized ", "good ", "lawful ", "legal ", "legitimate ", "moral ", "proper ", "right "]}

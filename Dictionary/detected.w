@@ -1,0 +1,1 @@
+{"index": 83101, "D": "to discover or catch (a person) in the performance of some act", "S": ["disclosed ", "exposed ", "identified ", "invented "], "A": ["hidden ", "lost "]}

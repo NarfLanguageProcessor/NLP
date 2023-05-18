@@ -1,0 +1,1 @@
+{"index": 315916, "D": "pertaining to, involving, or characteristic of the membership or methods of Tammany Hall. ", "S": [], "A": []}

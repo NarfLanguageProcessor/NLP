@@ -1,0 +1,1 @@
+{"index": 111787, "D": "a field of medicine involving the study, diagnosis, and treatment of the fetus. ", "S": [], "A": []}

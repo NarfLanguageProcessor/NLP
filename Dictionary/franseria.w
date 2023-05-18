@@ -1,0 +1,1 @@
+{"index": 118410, "D": "any of several herbs or shrubs of the genus Franseria, of the composite family,  native to western North America.", "S": [], "A": []}

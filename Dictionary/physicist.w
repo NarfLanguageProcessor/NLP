@@ -1,0 +1,1 @@
+{"index": 234074, "D": "a scientist who specializes in physics. ", "S": ["analyst ", "chemist ", "expert "], "A": []}

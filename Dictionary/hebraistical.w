@@ -1,0 +1,1 @@
+{"index": 135081, "D": "of or relating to Hebraists or characterized by Hebraism or Hebraisms.", "S": [], "A": []}

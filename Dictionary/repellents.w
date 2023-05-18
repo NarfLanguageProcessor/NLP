@@ -1,0 +1,1 @@
+{"index": 268105, "D": "causing distaste or aversion; repulsive. ", "S": ["inhospitality ", "repellent ", "undesirable ", "ungraciousness "], "A": []}

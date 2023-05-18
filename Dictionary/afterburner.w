@@ -1,0 +1,1 @@
+{"index": 5631, "D": "a device placed within, or attached to the exit of, a jet-engine exhaust pipe to produce afterburning.", "S": [], "A": []}

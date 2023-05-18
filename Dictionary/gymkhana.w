@@ -1,0 +1,1 @@
+{"index": 124997, "D": "a field day held for equestrians, consisting of exhibitions of horsemanship and much pageantry.", "S": [], "A": []}

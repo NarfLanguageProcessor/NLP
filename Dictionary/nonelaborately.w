@@ -1,0 +1,1 @@
+{"index": 203401, "D": "worked out with great care and nicety of detail; executed with great minuteness", "S": [], "A": []}

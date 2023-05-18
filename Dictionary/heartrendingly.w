@@ -1,0 +1,1 @@
+{"index": 134889, "D": "causing or expressing intense grief, anguish, or distress.", "S": [], "A": []}

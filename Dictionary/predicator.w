@@ -1,0 +1,1 @@
+{"index": 246925, "D": "the verbal element of a clause or sentence.", "S": [], "A": []}

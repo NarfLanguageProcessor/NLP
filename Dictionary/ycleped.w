@@ -1,0 +1,1 @@
+{"index": 146177, "D": "a past participle of clepe. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 360174, "D": "a short oblique stroke (/) between two words indicating that whichever is appropriate may be chosen to complete the sense of the text in which they occur", "S": [], "A": []}

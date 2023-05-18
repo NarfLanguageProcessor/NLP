@@ -1,0 +1,1 @@
+{"index": 40055, "D": "characteristic of or resembling a brat;  impudent; ill-mannered", "S": [], "A": []}

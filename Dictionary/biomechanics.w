@@ -1,0 +1,1 @@
+{"index": 34433, "D": "the development of prostheses.", "S": [], "A": []}

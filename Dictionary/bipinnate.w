@@ -1,0 +1,1 @@
+{"index": 34663, "D": "pinnate,  as a leaf, with the divisions also pinnate.", "S": [], "A": []}

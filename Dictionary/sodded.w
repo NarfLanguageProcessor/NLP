@@ -1,0 +1,1 @@
+{"index": 296279, "D": "a section cut or torn from the surface of grassland, containing the matted roots of grass.", "S": ["carpeted ", "lush ", "verdant "], "A": []}

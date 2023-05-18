@@ -1,0 +1,1 @@
+{"index": 52688, "D": "a capital, as on a pilaster or vaulting shaft, engaged in masonry on one or more sides.", "S": [], "A": []}

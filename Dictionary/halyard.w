@@ -1,0 +1,1 @@
+{"index": 132632, "D": "any of various lines or tackles for hoisting a spar, sail, flag, etc., into position for use.", "S": [], "A": []}

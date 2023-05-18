@@ -1,0 +1,1 @@
+{"index": 44002, "D": "navigation or trade along the coast.", "S": [], "A": []}

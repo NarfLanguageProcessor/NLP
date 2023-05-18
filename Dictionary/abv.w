@@ -1,0 +1,1 @@
+{"index": 1201, "D": "the amount of alcohol in a drink, expressed as a percentage of the total volume", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 42817, "D": "an embankment or an embanked quay, often providing a promenade.", "S": [], "A": []}

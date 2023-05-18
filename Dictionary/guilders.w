@@ -1,0 +1,1 @@
+{"index": 131061, "D": "a silver or nickel coin and monetary unit of the Netherlands until the euro  was adopted, equal to 100 cents; florin. Abbreviation", "S": [], "A": []}

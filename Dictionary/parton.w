@@ -1,0 +1,1 @@
+{"index": 227120, "D": "a constituent of the nucleon originally postulated in the theoretical analysis of high-energy scattering of electrons by nucleons and subsequently identified with quarks and gluons.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 323003, "D": "(in the mythology of some North American Indians) a huge, eaglelike bird  capable of producing thunder,  lightning, and rain.", "S": [], "A": []}

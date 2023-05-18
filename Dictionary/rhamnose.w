@@ -1,0 +1,1 @@
+{"index": 271786, "D": "deoxymannose; a deoxy hexose sugar, C6H12O5, that is an important component of the polysaccharides of plant cell walls.", "S": [], "A": []}

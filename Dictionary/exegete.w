@@ -1,0 +1,1 @@
+{"index": 106994, "D": "a person skilled in exegesis.", "S": ["artist ", "commentator ", "editor ", "exponent ", "linguist ", "philosopher ", "scholar ", "writer "], "A": []}

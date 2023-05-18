@@ -1,0 +1,1 @@
+{"index": 166289, "D": "any of the small, pelagic, shrimplike crustaceans of the family Euphausiidae, eaten as food by certain whales.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 66291, "D": "the state or quality of being congruous;  harmony; appropriateness", "S": ["accord ", "coherence ", "concord ", "conformity ", "consistency ", "consonance ", "symmetry "], "A": ["difference ", "disagreement ", "discord ", "incongruity ", "irregularity ", "nonconformity ", "refusal "]}

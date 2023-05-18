@@ -1,0 +1,1 @@
+{"index": 1351, "D": "infestation with acarids, especially mites.", "S": [], "A": []}

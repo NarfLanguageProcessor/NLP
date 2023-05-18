@@ -1,0 +1,1 @@
+{"index": 97190, "D": "of or relating to electron  acceptance in covalent bonding (opposed to nucleophilic).", "S": [], "A": []}

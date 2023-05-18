@@ -1,0 +1,1 @@
+{"index": 171543, "D": "full of sexual lust; lustful; lewd; lascivious.", "S": ["carnal ", "coarse ", "concupiscent ", "debauched ", "fast ", "hot ", "impure ", "incontinent ", "lascivious ", "lecherous ", "libertine ", "loose ", "obscene ", "passionate ", "prurient ", "salacious ", "satyric ", "sensual ", "unchaste ", "wanton ", "wicked "], "A": ["clean ", "decent ", "moral "]}

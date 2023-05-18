@@ -1,0 +1,1 @@
+{"index": 23077, "D": "the style or idiom of Attic Greek occurring in another dialect or language.", "S": ["grandeur "], "A": ["bad manners ", "crudeness ", "disproportion ", "imbalance ", "unevenness "]}

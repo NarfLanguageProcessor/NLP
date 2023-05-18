@@ -1,0 +1,1 @@
+{"index": 64776, "D": "calm; tranquil; serene", "S": ["coolly ", "easily ", "peacefully ", "serenely ", "smoothly "], "A": []}

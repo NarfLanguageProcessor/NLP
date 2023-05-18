@@ -1,0 +1,1 @@
+{"index": 105163, "D": "the derivation of a word.", "S": ["derivation ", "development ", "etymon ", "origin ", "root ", "source "], "A": ["conclusion ", "consequence ", "effect ", "end ", "outgrowth ", "result "]}

@@ -1,0 +1,1 @@
+{"index": 345166, "D": "dulled or satiated by overindulgence", "S": ["ignorant ", "innocent ", "simple ", "sincere ", "unsophisticated ", "wide-eyed "], "A": ["aware ", "experienced ", "intelligent ", "knowledgeable ", "sophisticated "]}

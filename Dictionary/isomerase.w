@@ -1,0 +1,1 @@
+{"index": 159083, "D": "any of a class of enzymes that catalyze reactions involving intramolecular rearrangements.", "S": [], "A": []}

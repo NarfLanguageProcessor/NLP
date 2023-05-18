@@ -1,0 +1,1 @@
+{"index": 351788, "D": "brilliant or gorgeous appearance, coloring, etc.; magnificence", "S": [], "A": []}

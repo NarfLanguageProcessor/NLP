@@ -1,0 +1,1 @@
+{"index": 356648, "D": "a combining form with the meanings \u201chaving a valence\u201d (quadrivalent), \u201chaving homologous chromosomes\u201d (univalent), \u201chaving antibodies\u201d (multivalent), of the number specified by the initial element.", "S": [], "A": []}

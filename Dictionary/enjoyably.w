@@ -1,0 +1,1 @@
+{"index": 100601, "D": "giving or capable of giving joy or pleasure", "S": ["admirably ", "attractively ", "beautifully ", "finely ", "happily ", "perfectly ", "pleasantly "], "A": ["badly ", "incorrectly ", "mistakenly ", "unfortunately ", "unsuccessfully ", "wrongly "]}

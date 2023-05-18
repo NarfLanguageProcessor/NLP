@@ -1,0 +1,1 @@
+{"index": 307940, "D": "an officer in charge of escheats.", "S": [], "A": []}

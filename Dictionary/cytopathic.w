@@ -1,0 +1,1 @@
+{"index": 58774, "D": "of, relating to, or characterized by a pathological change in the function or form of a cell, leading to its death.", "S": [], "A": []}

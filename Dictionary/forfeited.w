@@ -1,0 +1,1 @@
+{"index": 117176, "D": "given up, especially as a penalty or as a consequence of crime or fault", "S": ["absent ", "adrift ", "disoriented ", "hidden ", "invisible ", "misplaced ", "vanished "], "A": ["seen "]}

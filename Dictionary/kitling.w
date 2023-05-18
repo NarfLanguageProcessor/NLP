@@ -1,0 +1,1 @@
+{"index": 165218, "D": "the young of any animal, especially of a cat; kitten; kit. ", "S": [], "A": []}

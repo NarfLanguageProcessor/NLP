@@ -1,0 +1,1 @@
+{"index": 12601, "D": "(of a female mammal) the interval of sexual inactivity between two periods of heat or rut.", "S": [], "A": []}

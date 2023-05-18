@@ -1,0 +1,1 @@
+{"index": 143554, "D": "unjustifiable absence from school, work, etc. (usually used in the phrase play hooky)", "S": ["away ", "missing ", "removed ", "vanished "], "A": ["attending ", "existing ", "present ", "sufficient "]}

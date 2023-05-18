@@ -1,0 +1,1 @@
+{"index": 337784, "D": "to hold or include within its volume or area", "S": ["boisterous ", "buoyant ", "ebullient ", "rebellious "], "A": ["depressed ", "despondent ", "grave ", "hopeless ", "serious "]}

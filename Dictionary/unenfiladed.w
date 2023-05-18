@@ -1,0 +1,1 @@
+{"index": 341275, "D": "the fire thus directed.", "S": [], "A": []}

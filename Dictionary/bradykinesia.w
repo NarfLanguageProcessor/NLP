@@ -1,0 +1,1 @@
+{"index": 39569, "D": "slowness of movement, as found, for example, in Parkinson's disease.", "S": [], "A": []}

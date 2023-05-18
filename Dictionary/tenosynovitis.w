@@ -1,0 +1,1 @@
+{"index": 318944, "D": "inflammation of a tendon sheath, as from trauma, repeated strain, or systemic disease.", "S": [], "A": []}

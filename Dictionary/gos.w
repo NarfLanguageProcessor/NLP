@@ -1,0 +1,1 @@
+{"index": 128181, "D": [], "S": ["activity ", "animation ", "bang ", "birr ", "drive ", "energy ", "force ", "get-up-and-go ", "hardihood ", "life ", "moxie ", "oomph ", "pep ", "potency ", "push ", "snap ", "starch ", "tuck ", "verve ", "vigor ", "vivacity ", "zest "], "A": ["apathy ", "discouragement ", "dullness ", "idleness ", "inactivity ", "laziness ", "lethargy "]}

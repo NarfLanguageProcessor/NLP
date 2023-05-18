@@ -1,0 +1,1 @@
+{"index": 78539, "D": "the process in which a system's behaviour changes from that which can be explained by quantum mechanics to that which can be explained by classical mechanics", "S": [], "A": []}

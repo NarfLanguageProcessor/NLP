@@ -1,0 +1,1 @@
+{"index": 321368, "D": "an instrument for measuring atmospheric pressure, and sometimes altitude, from its effect upon the boiling point of a liquid.", "S": [], "A": []}

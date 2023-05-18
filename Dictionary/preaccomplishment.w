@@ -1,0 +1,1 @@
+{"index": 245429, "D": "an act or instance of carrying into effect; fulfillment", "S": [], "A": []}

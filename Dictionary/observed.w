@@ -1,0 +1,1 @@
+{"index": 210401, "D": "to see, watch, perceive, or notice", "S": ["attended ", "checked ", "detected ", "noticed ", "realized ", "recognized "], "A": ["abandoned ", "desecrated ", "forgotten ", "unnoticed ", "unperceived ", "unseen "]}

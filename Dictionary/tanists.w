@@ -1,0 +1,1 @@
+{"index": 316119, "D": "the successor apparent to a Celtic chief, usually the oldest or worthiest of his kin, chosen by election among the tribe during the chief's lifetime.", "S": [], "A": []}

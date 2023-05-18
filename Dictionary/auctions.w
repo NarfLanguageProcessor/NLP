@@ -1,0 +1,1 @@
+{"index": 23253, "D": "a publicly held sale at which property or goods are sold to the highest bidder.", "S": ["sell-off "], "A": []}

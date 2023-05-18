@@ -1,0 +1,1 @@
+{"index": 323108, "D": "a piece of land cleared from forest or reclaimed from wasteland", "S": [], "A": []}

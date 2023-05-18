@@ -1,0 +1,1 @@
+{"index": 219057, "D": "to be uncertain about; consider questionable or unlikely; hesitate to believe", "S": [], "A": []}

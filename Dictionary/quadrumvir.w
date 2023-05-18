@@ -1,0 +1,1 @@
+{"index": 257712, "D": "a member of a quadrumvirate.", "S": [], "A": []}

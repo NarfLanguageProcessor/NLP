@@ -1,0 +1,1 @@
+{"index": 311099, "D": "an alcoholic drink taken after completing the day's work, usually at sundown. ", "S": ["enforcer "], "A": []}

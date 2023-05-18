@@ -1,0 +1,1 @@
+{"index": 198115, "D": "a person who admires Negroes and their culture", "S": [], "A": []}

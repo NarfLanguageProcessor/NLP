@@ -1,0 +1,1 @@
+{"index": 4257, "D": "of, relating to, or used as the modifier of a noun, as new in the new theater, on the corner in the house on the corner, or the mayor's in the mayor's reputation.", "S": [], "A": []}

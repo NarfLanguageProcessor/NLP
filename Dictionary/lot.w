@@ -1,0 +1,1 @@
+{"index": 175365, "D": "one of a set of objects, such as straws or pebbles, drawn or thrown from a container to decide a question or choice by chance.", "S": ["area ", "field ", "part ", "piece ", "portion ", "property "], "A": ["whole "]}

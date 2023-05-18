@@ -1,0 +1,1 @@
+{"index": 148345, "D": "to cover with or enclose in a paste.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 181141, "D": [], "S": ["gestation ", "motherhood ", "parenthood "], "A": ["paternity "]}

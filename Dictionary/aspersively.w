@@ -1,0 +1,1 @@
+{"index": 21434, "D": "to attack with false, malicious, and damaging charges or insinuations; slander.", "S": [], "A": []}

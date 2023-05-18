@@ -1,0 +1,1 @@
+{"index": 193406, "D": "a variant of Morisco", "S": [], "A": []}

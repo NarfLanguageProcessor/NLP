@@ -1,0 +1,1 @@
+{"index": 17684, "D": "of or relating to an appendage or limb.", "S": [], "A": []}

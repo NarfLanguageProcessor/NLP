@@ -1,0 +1,1 @@
+{"index": 184255, "D": "a blastomere of intermediate size between a micromere and a macromere.", "S": [], "A": []}

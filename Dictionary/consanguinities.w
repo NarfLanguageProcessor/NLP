@@ -1,0 +1,1 @@
+{"index": 66663, "D": "relationship by descent from a common ancestor; kinship (distinguished from affinity).", "S": ["affiliation ", "affinity ", "agnate ", "brotherhood ", "cognate ", "connection ", "filiation ", "kin ", "kindred ", "kinship ", "lineage ", "race ", "sisterhood ", "strain "], "A": []}

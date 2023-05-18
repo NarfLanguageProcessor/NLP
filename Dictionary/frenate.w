@@ -1,0 +1,1 @@
+{"index": 118734, "D": "having a frenum or frenulum.", "S": [], "A": []}

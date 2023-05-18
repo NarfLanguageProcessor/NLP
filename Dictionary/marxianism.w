@@ -1,0 +1,1 @@
+{"index": 180593, "D": "of or relating to Karl Marx  or his theories.", "S": [], "A": []}

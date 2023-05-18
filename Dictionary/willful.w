@@ -1,0 +1,1 @@
+{"index": 365778, "D": "deliberate, voluntary, or intentional", "S": ["headstrong ", "persistent ", "perverse "], "A": ["flexible ", "involuntary ", "unwilling ", "willing ", "yielding "]}

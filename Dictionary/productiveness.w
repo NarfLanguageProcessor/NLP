@@ -1,0 +1,1 @@
+{"index": 251595, "D": "having the power of producing; generative; creative", "S": ["abundance ", "copiousness ", "fecundity ", "fruitfulness ", "gravidity ", "luxuriance ", "plentifulness ", "potency ", "pregnancy ", "productivity ", "prolificacy ", "puberty ", "pubescence ", "richness ", "virility "], "A": ["lack "]}

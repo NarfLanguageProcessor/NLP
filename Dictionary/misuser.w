@@ -1,0 +1,1 @@
+{"index": 190408, "D": "abuse of a right; unlawful use of an office, franchise, benefit, etc.", "S": [], "A": []}

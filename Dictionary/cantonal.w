@@ -1,0 +1,1 @@
+{"index": 46668, "D": "a small territorial district, especially one of the states of the Swiss confederation.", "S": [], "A": []}

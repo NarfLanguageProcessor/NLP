@@ -1,0 +1,1 @@
+{"index": 201735, "D": "of or relating to a bulb,  especially to the medulla oblongata.", "S": [], "A": []}

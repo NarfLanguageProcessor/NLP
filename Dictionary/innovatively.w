@@ -1,0 +1,1 @@
+{"index": 153092, "D": "tending to innovate,  or introduce something new or different; characterized by innovation. ", "S": [], "A": []}

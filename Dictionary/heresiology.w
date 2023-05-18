@@ -1,0 +1,1 @@
+{"index": 137070, "D": "the study of heresies. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 65629, "D": "a process of changing behavior by rewarding or punishing a subject each time an action is performed until the subject associates the action with pleasure or distress.", "S": ["aversion therapy ", "behavioral therapy ", "counseling ", "reinforcement ", "retraining ", "reward system ", "therapy "], "A": []}

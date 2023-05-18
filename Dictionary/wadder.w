@@ -1,0 +1,1 @@
+{"index": 361704, "D": "a small mass, lump, or ball of anything", "S": ["endless ", "myriad ", "uncounted ", "untold "], "A": ["few ", "limited "]}

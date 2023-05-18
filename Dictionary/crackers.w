@@ -1,0 +1,1 @@
+{"index": 71835, "D": "(postpositive) British a slang word for insane", "S": ["crazy ", "cuckoo ", "lunatic ", "nuts ", "psycho ", "psychotic ", "sick "], "A": ["healthy ", "sane ", "sensible "]}

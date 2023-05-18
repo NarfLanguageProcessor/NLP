@@ -1,0 +1,1 @@
+{"index": 178117, "D": "cold boiled rice moistened with rice vinegar, formed around strips of vegetable or raw fish into a cylindrical seaweed-wrapped roll that is sliced into bite-size pieces.", "S": [], "A": []}

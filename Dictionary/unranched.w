@@ -1,0 +1,1 @@
+{"index": 349023, "D": "an establishment maintained for raising livestock under range conditions.", "S": [], "A": []}

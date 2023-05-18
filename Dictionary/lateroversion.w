@@ -1,0 +1,1 @@
+{"index": 168892, "D": "abnormal lateral displacement of a bodily organ or part, esp of the uterus", "S": [], "A": []}

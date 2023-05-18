@@ -1,0 +1,1 @@
+{"index": 179496, "D": "a rope  placed at the side of a gangway, ladder, or the like, to serve as a rail.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 81869, "D": "a person or thing that depresses.", "S": [], "A": []}

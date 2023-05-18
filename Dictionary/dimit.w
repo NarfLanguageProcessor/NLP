@@ -1,0 +1,1 @@
+{"index": 85933, "D": "to resign (a job, public office, etc.); relinquish.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 159984, "D": "a function from n equations in n variables whose value at any point is the n x n determinant of the partial derivatives of those equations evaluated at that point", "S": [], "A": []}

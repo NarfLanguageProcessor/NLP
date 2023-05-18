@@ -1,0 +1,1 @@
+{"index": 307670, "D": "the deeper layer of the dermis, containing mostly fat and connective tissue.", "S": [], "A": []}

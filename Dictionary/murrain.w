@@ -1,0 +1,1 @@
+{"index": 195775, "D": "any of various diseases of cattle, as anthrax, foot-and-mouth disease, and Texas fever.", "S": [], "A": []}

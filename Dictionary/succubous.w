@@ -1,0 +1,1 @@
+{"index": 309900, "D": "(of leaves) overlapping, with the base of each leaf covering part of that under it.", "S": [], "A": []}

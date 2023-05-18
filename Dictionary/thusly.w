@@ -1,0 +1,1 @@
+{"index": 323095, "D": "thus. ", "S": ["accordingly ", "consequently ", "hence ", "in consequence ", "so ", "then ", "therefore ", "thereupon ", "thus "], "A": []}

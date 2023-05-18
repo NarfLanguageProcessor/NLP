@@ -1,0 +1,1 @@
+{"index": 337880, "D": "obviously planned or forced; artificial; strained", "S": ["ingenuous "], "A": ["artful ", "complicated ", "contrived ", "pretentious ", "sophisticated "]}

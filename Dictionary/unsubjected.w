@@ -1,0 +1,1 @@
+{"index": 352240, "D": "under the control or rule of another person, government, country, etc.", "S": [], "A": []}

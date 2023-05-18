@@ -1,0 +1,1 @@
+{"index": 190244, "D": "to think incorrectly or unfavorably.", "S": ["miscalculate ", "misconstrue ", "misunderstand ", "overestimate ", "overrate ", "underestimate "], "A": ["get ", "perceive ", "understand ", "comprehend ", "disbelieve "]}

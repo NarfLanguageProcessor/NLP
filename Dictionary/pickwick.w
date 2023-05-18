@@ -1,0 +1,1 @@
+{"index": 235944, "D": "a picklike implement for catching up and raising a short wick  of an oil lamp.", "S": [], "A": []}

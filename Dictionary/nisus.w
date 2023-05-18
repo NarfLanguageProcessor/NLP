@@ -1,0 +1,1 @@
+{"index": 200306, "D": "an effort or striving toward a particular goal or attainment; impulse.", "S": [], "A": []}

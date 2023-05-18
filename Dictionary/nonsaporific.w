@@ -1,0 +1,1 @@
+{"index": 207008, "D": "producing or imparting flavor or taste.", "S": [], "A": []}

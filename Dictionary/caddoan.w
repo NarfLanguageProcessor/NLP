@@ -1,0 +1,1 @@
+{"index": 44304, "D": "a family of North American Indian languages spoken in the upper Missouri valley in North Dakota, in the Platte valley in Nebraska, in southwestern Arkansas, and in neighboring parts of Oklahoma, Texas, and Louisiana.", "S": [], "A": []}

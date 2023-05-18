@@ -1,0 +1,1 @@
+{"index": 30361, "D": "a device that connects into a telephone circuit and transmits a periodic signal as an indication that the conversation over the circuit is being recorded.", "S": [], "A": []}

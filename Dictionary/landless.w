@@ -1,0 +1,1 @@
+{"index": 167963, "D": "without landed property; not owning land", "S": [], "A": []}

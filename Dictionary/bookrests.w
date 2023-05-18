@@ -1,0 +1,1 @@
+{"index": 38113, "D": "a support for an open book,  usually holding it at a slight angle.", "S": ["ambo ", "desk ", "escritoire ", "lectern ", "reading stand ", "secretary "], "A": []}

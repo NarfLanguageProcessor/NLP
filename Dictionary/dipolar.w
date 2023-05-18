@@ -1,0 +1,1 @@
+{"index": 86654, "D": "a pair of electric point charges or magnetic poles  of equal magnitude and opposite signs, separated by an infinitesimal distance.", "S": [], "A": []}

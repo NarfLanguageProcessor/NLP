@@ -1,0 +1,1 @@
+{"index": 44169, "D": "incorrect pronunciation or an instance of this; mispronunciation (opposed to orthoepy).", "S": [], "A": []}

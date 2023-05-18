@@ -1,0 +1,1 @@
+{"index": 81731, "D": "to testify under oath; depose.", "S": ["affirm ", "attest ", "declare ", "depose ", "swear ", "witness "], "A": ["deny "]}

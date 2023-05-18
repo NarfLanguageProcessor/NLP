@@ -1,0 +1,1 @@
+{"index": 122383, "D": "a substance possessing perfect molecular mobility and the property of indefinite expansion, as opposed to a solid or liquid.", "S": [], "A": []}

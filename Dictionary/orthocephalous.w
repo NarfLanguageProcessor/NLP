@@ -1,0 +1,1 @@
+{"index": 214965, "D": "having a medium or intermediate relation between the height of the skull and the breadth or length.", "S": [], "A": []}

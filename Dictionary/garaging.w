@@ -1,0 +1,1 @@
+{"index": 122046, "D": "there is garaging for two cars", "S": [], "A": []}

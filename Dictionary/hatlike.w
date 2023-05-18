@@ -1,0 +1,1 @@
+{"index": 134243, "D": "a shaped covering for the head, usually with a crown and brim, especially for wear outdoors.", "S": [], "A": []}

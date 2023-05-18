@@ -1,0 +1,1 @@
+{"index": 29449, "D": "a full-pitched ball bowled at the batsman's head", "S": [], "A": []}

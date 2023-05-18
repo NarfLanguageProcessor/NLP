@@ -1,0 +1,1 @@
+{"index": 321584, "D": "a dictionary of synonyms and antonyms, such as the online Thesaurus.com.", "S": [], "A": []}

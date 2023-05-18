@@ -1,0 +1,1 @@
+{"index": 92587, "D": "(especially formerly) a European cavalryman of a heavily armed troop.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 317473, "D": "any of several species of small dabbling ducks, of worldwide distribution, usually traveling in tight flocks and frequenting ponds and marshes.", "S": ["blue-green "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 277476, "D": "an inhabitant of Samaria.", "S": [], "A": []}

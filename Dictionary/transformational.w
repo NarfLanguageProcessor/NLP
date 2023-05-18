@@ -1,0 +1,1 @@
+{"index": 327888, "D": "the act or process of transforming.", "S": ["life-changing ", "transformative "], "A": []}

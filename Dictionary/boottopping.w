@@ -1,0 +1,1 @@
+{"index": 38286, "D": "the area between the water lines of a ship when fully loaded and when unloaded.", "S": [], "A": []}

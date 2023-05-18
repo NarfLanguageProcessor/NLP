@@ -1,0 +1,1 @@
+{"index": 250743, "D": "to arrange or do in order of priority", "S": ["compute ", "register ", "set up "], "A": ["cancel ", "disorder ", "disorganize ", "disperse ", "forget ", "let go ", "scatter "]}

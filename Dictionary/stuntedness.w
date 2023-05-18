@@ -1,0 +1,1 @@
+{"index": 306915, "D": "slowed or stopped abnormally in growth or development.", "S": [], "A": []}

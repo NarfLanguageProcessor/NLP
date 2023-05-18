@@ -1,0 +1,1 @@
+{"index": 14390, "D": "a flower head or capitulum, especially the head of a composite plant.", "S": [], "A": []}

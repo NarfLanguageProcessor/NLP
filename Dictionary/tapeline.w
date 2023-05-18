@@ -1,0 +1,1 @@
+{"index": 316314, "D": "a long, flexible strip or ribbon, as of cloth or metal, marked with subdivisions of the foot or meter and used for measuring.", "S": ["metal rule ", "meterstick ", "tape "], "A": []}

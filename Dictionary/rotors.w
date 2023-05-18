@@ -1,0 +1,1 @@
+{"index": 274674, "D": "Compare stator (def. 1). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 230679, "D": "(of an animal) trained to perform tricks before an audience, as in a circus", "S": ["operating "], "A": []}

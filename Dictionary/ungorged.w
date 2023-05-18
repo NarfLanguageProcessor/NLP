@@ -1,0 +1,1 @@
+{"index": 343172, "D": "(of a beast) represented wearing something about the neck in the manner of a collar", "S": [], "A": []}

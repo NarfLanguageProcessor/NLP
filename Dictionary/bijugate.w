@@ -1,0 +1,1 @@
+{"index": 33818, "D": "(of leaves) having two pairs of leaflets or pinnae.", "S": [], "A": []}

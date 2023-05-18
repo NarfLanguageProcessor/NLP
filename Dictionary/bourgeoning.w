@@ -1,0 +1,1 @@
+{"index": 39030, "D": "growing or developing quickly", "S": [], "A": []}

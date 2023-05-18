@@ -1,0 +1,1 @@
+{"index": 213260, "D": "Compare inoperable (def. 2). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27914, "D": "(of a boxer) wearing no boxing gloves", "S": [], "A": []}

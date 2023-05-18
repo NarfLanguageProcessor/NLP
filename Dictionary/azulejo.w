@@ -1,0 +1,1 @@
+{"index": 25398, "D": "(in Spanish-speaking and Portuguese-speaking countries) a glazed and painted tile used as a wainscot or facing.", "S": [], "A": []}

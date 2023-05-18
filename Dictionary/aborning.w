@@ -1,0 +1,1 @@
+{"index": 718, "D": "in birth; before being carried out", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 145110, "D": "humpbacked. ", "S": ["awry ", "bowed ", "contorted ", "crippled ", "damaged ", "gnarled ", "mangled ", "misshapen ", "scarred ", "twisted ", "warped "], "A": ["OK ", "straight ", "free "]}

@@ -1,0 +1,1 @@
+{"index": 167128, "D": "a gap or missing part, as in a manuscript, series, or logical argument; hiatus.", "S": ["break ", "cavity ", "depression ", "gap ", "hiatus ", "interim ", "interval ", "opening ", "space "], "A": ["closure ", "continuation ", "continuity ", "misfortune "]}

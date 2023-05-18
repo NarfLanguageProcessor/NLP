@@ -1,0 +1,1 @@
+{"index": 153086, "D": "to introduce something new; make changes in anything established.", "S": ["innovative ", "revolutionary "], "A": ["conservative "]}

@@ -1,0 +1,1 @@
+{"index": 123907, "D": "of, relating to, or based on geology. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 347005, "D": "something that one's efforts or actions are intended to attain or accomplish; purpose; goal; target", "S": ["abstract ", "biased ", "idiosyncratic ", "illusory ", "instinctive ", "intuitive ", "personal "], "A": ["meditated ", "real "]}

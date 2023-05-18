@@ -1,0 +1,1 @@
+{"index": 142882, "D": "a house, apartment, or other shelter that is the usual residence of a person, family, or household.", "S": ["apartment ", "cabin ", "condo ", "condominium ", "cottage ", "dormitory ", "dwelling ", "farm ", "hospital ", "house ", "hut ", "mansion ", "palace ", "place ", "residence ", "resort ", "shelter ", "trailer "], "A": ["office "]}

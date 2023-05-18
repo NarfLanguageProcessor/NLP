@@ -1,0 +1,1 @@
+{"index": 57929, "D": "a native or inhabitant of Cyprus.", "S": [], "A": []}

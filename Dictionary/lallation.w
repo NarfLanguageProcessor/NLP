@@ -1,0 +1,1 @@
+{"index": 167528, "D": "See also lambdacism (def. 1). ", "S": [], "A": []}

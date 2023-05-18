@@ -1,0 +1,1 @@
+{"index": 139872, "D": "constructive metabolism;  the synthesis in living organisms of more complex substances from simpler ones (opposed to catabolism).", "S": [], "A": []}

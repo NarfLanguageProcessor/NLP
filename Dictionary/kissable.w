@@ -1,0 +1,1 @@
+{"index": 165134, "D": "inviting kissing  through being lovable or physically attractive.", "S": ["lovable "], "A": ["despicable ", "disgusting "]}

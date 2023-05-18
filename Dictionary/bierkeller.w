@@ -1,0 +1,1 @@
+{"index": 33599, "D": "a public house decorated in German style, selling German beers", "S": [], "A": []}

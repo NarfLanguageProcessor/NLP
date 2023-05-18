@@ -1,0 +1,1 @@
+{"index": 323009, "D": "a crash of thunder.", "S": ["applause ", "bang ", "blast ", "boom ", "burst ", "crack ", "crash ", "handclap ", "pat ", "slam ", "slap ", "smash ", "strike ", "thrust ", "thunder ", "thwack ", "wallop ", "whack ", "wham "], "A": ["failure ", "loss "]}

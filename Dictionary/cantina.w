@@ -1,0 +1,1 @@
+{"index": 46651, "D": "a saloon; bar.", "S": ["buvette ", "concession ", "concession stand ", "drive-in ", "fast-food restaurant ", "hamburger stand ", "hot-dog stand ", "lunch counter ", "sandwich bar ", "sandwich shop "], "A": []}

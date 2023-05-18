@@ -1,0 +1,1 @@
+{"index": 138681, "D": "decomposition of a compound resulting from its interaction with hydrogen. ", "S": [], "A": []}

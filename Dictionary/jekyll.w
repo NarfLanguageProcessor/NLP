@@ -1,0 +1,1 @@
+{"index": 160798, "D": "Gertrude. 1843\u20131932, British landscape gardener", "S": [], "A": []}

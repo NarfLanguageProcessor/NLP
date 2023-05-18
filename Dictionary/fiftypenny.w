@@ -1,0 +1,1 @@
+{"index": 112415, "D": "noting a nail 5\u00bd inches (14 centimeters) long. Abbreviation", "S": [], "A": []}

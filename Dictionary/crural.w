@@ -1,0 +1,1 @@
+{"index": 74248, "D": "of or relating to the leg or the hind limb.", "S": [], "A": []}

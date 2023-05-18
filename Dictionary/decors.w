@@ -1,0 +1,1 @@
+{"index": 78706, "D": "style or mode of decoration, as of a room, building, or the like", "S": ["accessory ", "accouterment ", "accoutrement ", "appliance ", "appointment ", "chattel ", "equipment ", "fitting ", "fixture ", "furniture ", "gear ", "provision ", "trappings "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 315093, "D": "equipment, apparatus, or gear, especially for fishing", "S": [], "A": []}

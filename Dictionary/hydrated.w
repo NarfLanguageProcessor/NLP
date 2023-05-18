@@ -1,0 +1,1 @@
+{"index": 138442, "D": "chemically combined with water in its molecular form.", "S": [], "A": []}

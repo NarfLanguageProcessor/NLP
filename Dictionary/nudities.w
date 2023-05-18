@@ -1,0 +1,1 @@
+{"index": 209429, "D": "the state or fact of being nude;  nakedness.", "S": ["bareness ", "naturism ", "nudism ", "undress "], "A": []}

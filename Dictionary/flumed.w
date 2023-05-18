@@ -1,0 +1,1 @@
+{"index": 115345, "D": "a deep narrow passage or mountain ravine with a stream flowing through it, often with great force", "S": [], "A": []}

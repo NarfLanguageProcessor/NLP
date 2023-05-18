@@ -1,0 +1,1 @@
+{"index": 46682, "D": "of or relating to a cantor. ", "S": [], "A": []}

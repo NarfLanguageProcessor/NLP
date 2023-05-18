@@ -1,0 +1,1 @@
+{"index": 338499, "D": "to speak aloud in an oratorical manner; make a formal speech", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 312991, "D": "a person who supplicates;  petitioner.", "S": [], "A": []}

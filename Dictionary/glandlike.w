@@ -1,0 +1,1 @@
+{"index": 125918, "D": "any of various organs or structures resembling the shape but not the function of true glands.", "S": [], "A": []}

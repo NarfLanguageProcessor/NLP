@@ -1,0 +1,1 @@
+{"index": 302909, "D": "any of the heavenly bodies, except the moon, appearing as fixed luminous points in the sky at night.", "S": ["sunless ", "unlighted ", "unlit "], "A": ["bright ", "sunny "]}

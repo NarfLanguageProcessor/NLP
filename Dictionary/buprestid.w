@@ -1,0 +1,1 @@
+{"index": 42960, "D": "any beetle of the family Buprestidae, comprising wood-boring beetles of a metallic luster.", "S": [], "A": []}

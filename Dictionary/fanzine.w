@@ -1,0 +1,1 @@
+{"index": 109830, "D": "a magazine  or other periodical produced inexpensively by and for fans  of science fiction and fantasy writing, comic books, popular music, or other specialized popular interests.", "S": [], "A": []}

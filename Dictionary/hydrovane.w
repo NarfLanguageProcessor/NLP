@@ -1,0 +1,1 @@
+{"index": 139024, "D": "a vane on a seaplane conferring stability on water (a sponson) or facilitating take off (a hydrofoil)", "S": [], "A": []}

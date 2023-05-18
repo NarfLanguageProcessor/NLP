@@ -1,0 +1,1 @@
+{"index": 235491, "D": "of, consisting of, or of the nature of a phrase  or phrases", "S": [], "A": []}

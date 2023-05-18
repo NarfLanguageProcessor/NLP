@@ -1,0 +1,1 @@
+{"index": 308560, "D": "inclined or ready to submit  or yield to the authority of another; unresistingly or humbly obedient", "S": ["apologetically "], "A": ["boastfully ", "haughtily ", "proudly "]}

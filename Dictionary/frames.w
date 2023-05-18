@@ -1,0 +1,1 @@
+{"index": 118297, "D": "a border or case for enclosing a picture, mirror, etc.", "S": ["bifocals ", "blinkers ", "cheaters ", "eyeglasses ", "goggles ", "lorgnette ", "pince-nez ", "rims ", "shades ", "specs ", "spectacles "], "A": []}

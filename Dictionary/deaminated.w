@@ -1,0 +1,1 @@
+{"index": 77577, "D": "to remove the amino group from (a compound).", "S": [], "A": []}

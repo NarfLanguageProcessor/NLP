@@ -1,0 +1,1 @@
+{"index": 21544, "D": "being in a sprawling  state or posture", "S": [], "A": []}

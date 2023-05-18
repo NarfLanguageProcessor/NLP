@@ -1,0 +1,1 @@
+{"index": 163306, "D": "the body of dietary laws prescribed for Jews", "S": [], "A": []}

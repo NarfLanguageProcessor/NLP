@@ -1,0 +1,1 @@
+{"index": 60926, "D": "a substance that produces or aids coagulation.", "S": [], "A": []}

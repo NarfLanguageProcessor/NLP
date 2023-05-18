@@ -1,0 +1,1 @@
+{"index": 144697, "D": "English navigator and explorer.", "S": [], "A": []}

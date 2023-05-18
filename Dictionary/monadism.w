@@ -1,0 +1,1 @@
+{"index": 191719, "D": "the doctrine of monads  as ultimate units of being.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 135775, "D": "the angle with the fore-and-aft line made by a rudder when turned", "S": ["command ", "control ", "controls ", "leadership ", "reins ", "rudder ", "tiller "], "A": []}

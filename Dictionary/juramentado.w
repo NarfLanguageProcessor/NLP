@@ -1,0 +1,1 @@
+{"index": 162426, "D": "(formerly) a Muslim, especially a Moro, bound by an oath to be killed fighting against Christians and other infidels.", "S": [], "A": []}

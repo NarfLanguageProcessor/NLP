@@ -1,0 +1,1 @@
+{"index": 95958, "D": "the fact or quality of producing the intended or desired result", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175041, "D": "an awkward person, especially one who is lazy or stupid; lout; lubber.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 52263, "D": "an official charged with the management of the living quarters of a sovereign or member of the nobility.", "S": ["administrator "], "A": []}

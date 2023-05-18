@@ -1,0 +1,1 @@
+{"index": 169385, "D": "a hand-operated or motor-driven machine for cutting the grass of a lawn.", "S": ["mower "], "A": []}

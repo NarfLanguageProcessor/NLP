@@ -1,0 +1,1 @@
+{"index": 24437, "D": "a device for turning a system on and off automatically at times predetermined by advance setting", "S": [], "A": []}

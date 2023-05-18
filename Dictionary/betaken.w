@@ -1,0 +1,1 @@
+{"index": 32685, "D": "to cause to go (usually used reflexively)", "S": ["drown ", "expire ", "perish ", "succumb "], "A": ["bear ", "continue "]}

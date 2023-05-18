@@ -1,0 +1,1 @@
+{"index": 364157, "D": "any of several marine gastropods of the family Epitonii (Scalariidae), having a whitish, spiraled shell.", "S": [], "A": []}

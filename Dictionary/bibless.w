@@ -1,0 +1,1 @@
+{"index": 33232, "D": "a piece of cloth, plastic, or paper that covers the chest and is often tied under the chin of a child to protect the clothing while the child is eating.", "S": [], "A": []}

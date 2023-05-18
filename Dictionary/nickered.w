@@ -1,0 +1,1 @@
+{"index": 199641, "D": "a person or thing that nicks. ", "S": ["bark ", "cheer ", "exclaim ", "growl ", "grunt ", "holler ", "howl ", "scream ", "shout ", "shriek ", "whoop ", "yell "], "A": ["be quiet "]}

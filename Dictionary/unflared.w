@@ -1,0 +1,1 @@
+{"index": 342348, "D": "to burn with an unsteady, swaying flame, as a torch or candle in the wind.", "S": [], "A": []}

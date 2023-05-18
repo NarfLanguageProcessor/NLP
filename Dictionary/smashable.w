@@ -1,0 +1,1 @@
+{"index": 294751, "D": "to break to pieces with violence and often with a crashing sound, as by striking, letting fall, or dashing against something; shatter", "S": [], "A": []}

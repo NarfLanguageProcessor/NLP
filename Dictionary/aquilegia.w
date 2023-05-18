@@ -1,0 +1,1 @@
+{"index": 18266, "D": "any plant belonging to the genus Aquilegia, of the buttercup family, comprising the columbines.", "S": [], "A": []}

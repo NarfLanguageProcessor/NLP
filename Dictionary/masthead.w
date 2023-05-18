@@ -1,0 +1,1 @@
+{"index": 180881, "D": "a statement printed in all issues of a newspaper, magazine, or the like, usually on the editorial page, giving the publication's name, the names of the owner and staff, etc.", "S": ["banderol ", "banner ", "banneret ", "bannerol ", "burgee ", "colors ", "ensign ", "guidon ", "oriflamme ", "pennant ", "pennon ", "standard ", "streamer "], "A": []}

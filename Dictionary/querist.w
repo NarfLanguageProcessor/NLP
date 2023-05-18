@@ -1,0 +1,1 @@
+{"index": 258382, "D": "a person who inquires or questions.", "S": [], "A": []}

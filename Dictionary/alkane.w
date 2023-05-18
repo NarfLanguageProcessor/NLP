@@ -1,0 +1,1 @@
+{"index": 8461, "D": "any member of the alkane series. ", "S": [], "A": []}

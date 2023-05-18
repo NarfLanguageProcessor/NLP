@@ -1,0 +1,1 @@
+{"index": 287642, "D": "of, relating to, or characteristic of George Bernard Shaw  or his works", "S": [], "A": []}

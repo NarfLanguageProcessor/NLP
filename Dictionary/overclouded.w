@@ -1,0 +1,1 @@
+{"index": 218623, "D": "to overspread with or as if with clouds", "S": ["bleak ", "cloudy ", "dim ", "dismal ", "dreary ", "dull ", "forlorn ", "funereal ", "murky ", "overcast ", "somber "], "A": ["bright ", "cheerful ", "clear ", "happy ", "hopeful ", "intelligent ", "joyful ", "light ", "lively ", "luminous ", "pleasant ", "smart ", "sunny "]}

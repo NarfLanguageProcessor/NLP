@@ -1,0 +1,1 @@
+{"index": 288591, "D": "a sliver or fragment; splinter.", "S": ["bobber ", "close ", "float ", "oak ", "phellem ", "plug ", "seal ", "spike ", "stop ", "stopper ", "stopple "], "A": ["beginning ", "opening ", "start "]}

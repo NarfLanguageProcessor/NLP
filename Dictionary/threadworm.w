@@ -1,0 +1,1 @@
+{"index": 322578, "D": "any of various nematode worms,  especially a pinworm.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 170587, "D": "a person who has leprosy.", "S": ["anathema ", "outcast ", "untouchable "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 187822, "D": "an artist whose specialty is small, discrete works.", "S": ["animator ", "artisan ", "craftsman ", "illustrator "], "A": []}

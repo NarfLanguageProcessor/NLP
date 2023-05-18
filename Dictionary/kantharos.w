@@ -1,0 +1,1 @@
+{"index": 163095, "D": "a deep bowl set upon a stem terminating in a foot and having two handles rising from the brim and curving downward to join the body.", "S": [], "A": []}

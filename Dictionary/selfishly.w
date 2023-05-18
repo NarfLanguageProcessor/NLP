@@ -1,0 +1,1 @@
+{"index": 283539, "D": "devoted to or caring only for oneself; concerned primarily with one's own interests, benefits, welfare, etc., regardless of others.", "S": ["cannily ", "greedily ", "illiberally ", "meanly ", "miserly ", "parsimoniously ", "stingily ", "ungenerously "], "A": []}

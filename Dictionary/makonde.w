@@ -1,0 +1,1 @@
+{"index": 178125, "D": "a member of a people living in northeastern Mozambique and southeastern Tanzania, renowned as woodcarvers.", "S": [], "A": []}

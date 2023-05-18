@@ -1,0 +1,1 @@
+{"index": 150436, "D": "a person or thing that increases. ", "S": [], "A": []}

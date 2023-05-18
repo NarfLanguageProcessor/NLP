@@ -1,0 +1,1 @@
+{"index": 88473, "D": "the act of removing funds from savings banks and placing them into short-term investments on which the interest-rate yields are higher.", "S": [], "A": []}

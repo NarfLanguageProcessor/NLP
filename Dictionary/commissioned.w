@@ -1,0 +1,1 @@
+{"index": 64088, "D": "the act of committing  or entrusting a person, group, etc., with supervisory power or authority.", "S": ["accredited ", "certified ", "lawful ", "legitimate ", "licensed ", "recognized ", "sanctioned "], "A": ["illegal ", "illegitimate ", "unlawful "]}

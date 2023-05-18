@@ -1,0 +1,1 @@
+{"index": 348628, "D": "(of an organism) multiplied by any process of reproduction from the parent stock", "S": [], "A": []}

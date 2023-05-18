@@ -1,0 +1,1 @@
+{"index": 67077, "D": [], "S": ["custody ", "detention ", "incarceration ", "internment ", "jail ", "repression "], "A": ["freedom ", "liberation ", "liberty ", "allowance ", "permission "]}

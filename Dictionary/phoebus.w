@@ -1,0 +1,1 @@
+{"index": 234591, "D": "Apollo as the sun god.", "S": [], "A": []}

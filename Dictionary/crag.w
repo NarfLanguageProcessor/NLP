@@ -1,0 +1,1 @@
+{"index": 71916, "D": "a steep, rugged rock; rough, broken, projecting part of a rock.", "S": ["crest "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 367640, "D": "a person who tends to fret or be tormented by anxious or disturbing thoughts", "S": ["cynic ", "worrier "], "A": ["optimist "]}

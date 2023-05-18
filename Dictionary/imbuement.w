@@ -1,0 +1,1 @@
+{"index": 147773, "D": "to impregnate or inspire, as with feelings, opinions, etc.", "S": ["complexion ", "shading "], "A": []}

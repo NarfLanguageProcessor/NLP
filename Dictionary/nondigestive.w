@@ -1,0 +1,1 @@
+{"index": 203094, "D": "serving for or pertaining to digestion;  having the function of digesting  food", "S": [], "A": []}

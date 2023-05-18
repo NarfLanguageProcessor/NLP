@@ -1,0 +1,1 @@
+{"index": 178476, "D": "to speak harmful untruths about; speak evil of; slander; defame", "S": ["angrily ", "boldly ", "brutally ", "ferociously ", "forcefully ", "frantically ", "furiously ", "madly ", "mightily ", "passionately ", "savagely ", "severely ", "vehemently ", "viciously ", "wildly "], "A": ["calmly ", "gently "]}

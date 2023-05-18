@@ -1,0 +1,1 @@
+{"index": 48158, "D": "a manufacturer of automobiles.", "S": [], "A": []}

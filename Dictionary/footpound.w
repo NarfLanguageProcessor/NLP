@@ -1,0 +1,1 @@
+{"index": 116230, "D": "a foot-pound-second unit of work or energy, equal to the work done by a force of one pound when its point of application moves through a distance of one foot in the direction of the force. Abbreviation", "S": [], "A": []}

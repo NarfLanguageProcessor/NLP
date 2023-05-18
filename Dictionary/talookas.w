@@ -1,0 +1,1 @@
+{"index": 315760, "D": "a hereditary estate.", "S": [], "A": []}

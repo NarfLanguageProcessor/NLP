@@ -1,0 +1,1 @@
+{"index": 343667, "D": "of, relating to, or characteristic of heralds  or heraldry", "S": [], "A": []}

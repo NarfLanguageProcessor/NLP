@@ -1,0 +1,1 @@
+{"index": 236485, "D": "to hunt for wild boar, usually on horseback and using a spear.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 295137, "D": "to import or export (goods) secretly, in violation of the law, especially without payment of legal duty.", "S": ["export ", "hide "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 106902, "D": "the condition of being curved outward or away from the center.", "S": [], "A": []}

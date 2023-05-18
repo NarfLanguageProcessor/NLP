@@ -1,0 +1,1 @@
+{"index": 32218, "D": "a place assigned to a vessel for anchoring or tying up.", "S": [], "A": []}

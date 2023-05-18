@@ -1,0 +1,1 @@
+{"index": 174220, "D": "a bride price, typically of cattle, paid to a bride's father among Bantu-speaking tribes of southern Africa.", "S": [], "A": []}

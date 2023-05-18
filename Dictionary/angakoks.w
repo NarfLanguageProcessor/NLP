@@ -1,0 +1,1 @@
+{"index": 12640, "D": "a shaman in Inuit society.", "S": [], "A": []}

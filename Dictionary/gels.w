@@ -1,0 +1,1 @@
+{"index": 123273, "D": "a semirigid colloidal dispersion of a solid with a liquid or gas, as jelly, glue, etc.", "S": ["ensue ", "materialize ", "transpire "], "A": ["stay ", "stop "]}

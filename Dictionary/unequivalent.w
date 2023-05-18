@@ -1,0 +1,1 @@
+{"index": 341444, "D": "equal in value, measure, force, effect, significance, etc.", "S": ["contrasting ", "discordant ", "dissimilar ", "distinct ", "divergent ", "diverse ", "various "], "A": ["agreeing ", "alike ", "like ", "same ", "similar ", "uniform "]}

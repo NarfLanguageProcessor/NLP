@@ -1,0 +1,1 @@
+{"index": 39707, "D": "a small roller for inking type by hand, usually for making a proof.", "S": [], "A": []}

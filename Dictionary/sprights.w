@@ -1,0 +1,1 @@
+{"index": 301281, "D": "(in folklore) an elf, fairy, or goblin.", "S": [], "A": []}

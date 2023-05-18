@@ -1,0 +1,1 @@
+{"index": 45061, "D": "the diameter of something of circular section, especially that of the inside of a tube", "S": [], "A": []}

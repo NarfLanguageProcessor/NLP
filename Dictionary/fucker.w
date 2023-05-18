@@ -1,0 +1,1 @@
+{"index": 119744, "D": "an inconsequential, annoying, or disgusting person.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 188127, "D": "a contractile fibril  of skeletal muscle, composed mainly of actin and myosin.", "S": [], "A": []}

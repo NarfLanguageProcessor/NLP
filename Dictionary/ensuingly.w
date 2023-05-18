@@ -1,0 +1,1 @@
+{"index": 101127, "D": "occurring after something else; subsequent or following", "S": ["afterwards ", "eventually ", "late ", "later ", "next ", "soon ", "then ", "thereafter "], "A": ["earlier "]}

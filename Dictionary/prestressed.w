@@ -1,0 +1,1 @@
+{"index": 249684, "D": "(in certain concrete construction) to apply stress  to (reinforcing strands) before subjecting to a load.", "S": [], "A": []}

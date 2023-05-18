@@ -1,0 +1,1 @@
+{"index": 55877, "D": "the study of the causal relations between geographical phenomena occurring within a particular region", "S": [], "A": []}

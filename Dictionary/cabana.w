@@ -1,0 +1,1 @@
+{"index": 43869, "D": "a small cabin or tentlike structure for use as a bathhouse, especially on a beach or by a swimming pool.", "S": ["bungalow ", "cabin ", "chalet ", "home ", "hut ", "lean-to ", "lodge ", "ranch ", "shack ", "shanty "], "A": []}

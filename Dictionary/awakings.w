@@ -1,0 +1,1 @@
+{"index": 24951, "D": [], "S": ["activation ", "animating ", "arising ", "arousal ", "birth ", "enlivening ", "incitement ", "kindling ", "provocation ", "rebirth ", "renewal ", "revival ", "rousing ", "stimulation ", "waking "], "A": ["destruction ", "suppression "]}

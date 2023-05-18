@@ -1,0 +1,1 @@
+{"index": 313525, "D": "to go beyond in amount, extent, or degree; be greater than; exceed.", "S": ["beat ", "eclipse ", "exceed ", "outpace ", "outperform ", "outstrip ", "outweigh ", "pass ", "rank ", "top "], "A": ["fail ", "fall behind ", "lose ", "surrender "]}

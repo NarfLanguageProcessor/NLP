@@ -1,0 +1,1 @@
+{"index": 160404, "D": "any eyeless, wingless, primitive insect of the family Japygidae, having a pair of pincers at the rear of its abdomen.", "S": [], "A": []}

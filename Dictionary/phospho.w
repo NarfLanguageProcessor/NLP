@@ -1,0 +1,1 @@
+{"index": 234868, "D": "a combining form representing phosphorus  in compound words", "S": [], "A": []}

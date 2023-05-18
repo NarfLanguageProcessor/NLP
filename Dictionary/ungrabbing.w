@@ -1,0 +1,1 @@
+{"index": 343196, "D": "to seize suddenly or quickly; snatch; clutch", "S": [], "A": []}

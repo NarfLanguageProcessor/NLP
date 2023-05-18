@@ -1,0 +1,1 @@
+{"index": 105951, "D": "to turn inside out, or cause to protrude by eversion, as a tubular organ.", "S": ["overturn ", "shift "], "A": ["hold ", "keep "]}

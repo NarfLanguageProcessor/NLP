@@ -1,0 +1,1 @@
+{"index": 3538, "D": "producing or tending to cause addiction", "S": [], "A": []}

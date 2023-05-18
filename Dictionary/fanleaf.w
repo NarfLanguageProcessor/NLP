@@ -1,0 +1,1 @@
+{"index": 109739, "D": "a disease of grapevines, characterized by the deformation of leaves  into a fanlike shape and caused by a virus transmitted in grafting.", "S": [], "A": []}

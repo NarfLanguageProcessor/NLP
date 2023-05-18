@@ -1,0 +1,1 @@
+{"index": 34387, "D": "the subject of a biography;  the person whose life is described in a biography. ", "S": [], "A": []}

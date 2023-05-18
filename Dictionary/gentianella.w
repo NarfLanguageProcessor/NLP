@@ -1,0 +1,1 @@
+{"index": 123690, "D": "any of various gentianaceous plants, esp the alpine species Gentiana acaulis, which has showy blue flowers", "S": [], "A": []}

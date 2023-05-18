@@ -1,0 +1,1 @@
+{"index": 159041, "D": "separated from other persons or things; alone; solitary.", "S": [], "A": []}

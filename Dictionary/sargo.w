@@ -1,0 +1,1 @@
+{"index": 278475, "D": "a silvery grunt, Anisotremus davidsonii, inhabiting waters off the coasts of California and Mexico, having blackish markings and yellowish fins.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 257496, "D": "having four angles and four sides; having the shape of a quadrangle. ", "S": [], "A": []}

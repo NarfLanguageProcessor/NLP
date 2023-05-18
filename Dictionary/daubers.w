@@ -1,0 +1,1 @@
+{"index": 77225, "D": "to cover or coat with soft, adhesive matter, as plaster or mud", "S": ["calciminer ", "interior decorator ", "paint-slinger "], "A": []}

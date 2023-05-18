@@ -1,0 +1,1 @@
+{"index": 11280, "D": "capable of ionizing into both anions and cations; amphoteric.", "S": [], "A": []}

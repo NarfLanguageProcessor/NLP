@@ -1,0 +1,1 @@
+{"index": 250901, "D": "in favor of a proposition, opinion, etc.", "S": ["ace ", "expert ", "professional "], "A": []}

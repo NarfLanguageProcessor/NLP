@@ -1,0 +1,1 @@
+{"index": 264395, "D": "a drawing, sketch, or design.", "S": ["alter ", "amend ", "compare ", "cut ", "develop ", "improve ", "modify ", "overhaul ", "reconsider ", "reexamine ", "reorganize ", "revamp ", "review ", "rework ", "rewrite ", "scrutinize ", "tighten ", "update ", "upgrade "], "A": ["decrease ", "harm ", "ignore ", "injure ", "worsen ", "ruin "]}

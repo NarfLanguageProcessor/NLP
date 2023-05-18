@@ -1,0 +1,1 @@
+{"index": 10891, "D": "the root of any of several plants, as Mexican species of agaves, used as a substitute for soap.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 78853, "D": "curved downward, as the bill of a bird.", "S": [], "A": []}

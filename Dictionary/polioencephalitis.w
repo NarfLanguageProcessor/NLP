@@ -1,0 +1,1 @@
+{"index": 242152, "D": "a disease characterized by inflammation of the gray matter of the brain.", "S": [], "A": []}

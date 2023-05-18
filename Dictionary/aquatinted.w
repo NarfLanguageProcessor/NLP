@@ -1,0 +1,1 @@
+{"index": 18227, "D": "a process imitating the broad flat tints of ink or wash drawings by etching a microscopic crackle on the copperplate intended for printing.", "S": [], "A": []}

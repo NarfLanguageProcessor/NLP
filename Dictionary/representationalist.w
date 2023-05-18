@@ -1,0 +1,1 @@
+{"index": 268497, "D": "the view that the objects of perception are ideas or sense data that represent external objects, especially the Lockean doctrine that the perceived idea represents exactly the primary qualities of the external object.", "S": [], "A": []}

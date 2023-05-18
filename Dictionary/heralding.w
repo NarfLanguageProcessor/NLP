@@ -1,0 +1,1 @@
+{"index": 136870, "D": "(formerly) a royal or official messenger, especially one representing a monarch in an ambassadorial capacity during wartime.", "S": ["hello ", "nod ", "ovation ", "reception ", "salute "], "A": ["heedlessness ", "ignorance ", "neglect "]}

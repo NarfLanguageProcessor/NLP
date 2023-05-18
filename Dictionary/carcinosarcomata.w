@@ -1,0 +1,1 @@
+{"index": 47684, "D": "a malignant tumor composed of both carcinomatous and sarcomatous elements.", "S": [], "A": []}

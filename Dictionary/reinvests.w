@@ -1,0 +1,1 @@
+{"index": 266500, "D": "to put (money) to use, by purchase or expenditure, in something offering potential profitable returns, as interest, income, or appreciation in value.", "S": ["bring back ", "reelect ", "reestablish ", "reintroduce ", "renew ", "replace ", "restore ", "revive "], "A": ["destroy ", "kill "]}

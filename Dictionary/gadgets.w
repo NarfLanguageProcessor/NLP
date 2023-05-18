@@ -1,0 +1,1 @@
+{"index": 120873, "D": "a mechanical contrivance or device; any ingenious article.", "S": ["apparatus ", "furnishings ", "furniture ", "machinery ", "material "], "A": []}

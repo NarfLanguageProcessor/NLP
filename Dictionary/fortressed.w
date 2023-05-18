@@ -1,0 +1,1 @@
+{"index": 117708, "D": [], "S": ["barricaded ", "covered ", "guarded ", "protected ", "reinforced ", "secured ", "strengthened ", "walled "], "A": ["open ", "unguarded ", "unprotected "]}

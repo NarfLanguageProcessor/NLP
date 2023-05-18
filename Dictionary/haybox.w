@@ -1,0 +1,1 @@
+{"index": 132289, "D": "an airtight box full of hay or other insulating material used to keep partially cooked food warm and allow cooking by retained heat", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 29537, "D": "the growth of hair on the face of an adult man, often including a mustache.", "S": ["Vandyke ", "bristles ", "brush ", "fuzz ", "goatee ", "imperial ", "stubble "], "A": []}

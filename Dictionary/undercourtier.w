@@ -1,0 +1,1 @@
+{"index": 339039, "D": "a person who is often in attendance at the court of a king or other royal personage.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 58258, "D": "to set forth or support with circumstances  or particulars", "S": ["accurate ", "authentic ", "definitive ", "dependable ", "factual ", "reliable ", "scholarly ", "trustworthy ", "truthful "], "A": ["dishonest ", "false ", "inaccurate ", "irresponsible ", "undependable ", "unreliable ", "untrustworthy ", "untruthful "]}

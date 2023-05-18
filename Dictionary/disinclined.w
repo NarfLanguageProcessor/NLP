@@ -1,0 +1,1 @@
+{"index": 88393, "D": "lacking desire or willingness; unwilling; averse", "S": ["balking ", "hesitating ", "indisposed ", "objecting ", "opposed ", "protesting ", "shy ", "shying ", "slow ", "sticking "], "A": ["bent ", "desirous ", "disposed ", "enthusiastic ", "inclined ", "leaning ", "willing "]}

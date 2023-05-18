@@ -1,0 +1,1 @@
+{"index": 191555, "D": "any of various oceanic birds, as the fulmar or albatross.", "S": [], "A": []}

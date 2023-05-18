@@ -1,0 +1,1 @@
+{"index": 185235, "D": "a white powder, C10H13NO4, used in the treatment of hypertension.", "S": [], "A": []}

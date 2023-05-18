@@ -1,0 +1,1 @@
+{"index": 176228, "D": "a variant of lungi. ", "S": [], "A": []}

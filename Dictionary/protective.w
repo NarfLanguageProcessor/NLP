@@ -1,0 +1,1 @@
+{"index": 253388, "D": "having the quality or function of protecting", "S": ["careful ", "defensive ", "jealous ", "possessive ", "vigilant ", "warm ", "watchful "], "A": ["careless ", "inattentive ", "negligent "]}

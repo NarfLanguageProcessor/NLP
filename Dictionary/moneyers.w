@@ -1,0 +1,1 @@
+{"index": 191837, "D": "a person employed in the authorized coining of money. ", "S": [], "A": []}

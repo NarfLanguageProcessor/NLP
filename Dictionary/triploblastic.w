@@ -1,0 +1,1 @@
+{"index": 330417, "D": "having three primary germ layers, as the embryos of vertebrates.", "S": [], "A": []}

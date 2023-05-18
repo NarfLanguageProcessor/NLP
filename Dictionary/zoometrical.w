@@ -1,0 +1,1 @@
+{"index": 369854, "D": "measurement of the proportionate lengths or sizes of the parts of animals.", "S": [], "A": []}

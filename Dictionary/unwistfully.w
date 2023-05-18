@@ -1,0 +1,1 @@
+{"index": 354295, "D": "in a way that is characterized by melancholy or longing; pensively", "S": [], "A": []}

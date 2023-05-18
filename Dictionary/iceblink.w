@@ -1,0 +1,1 @@
+{"index": 145966, "D": "a yellowish luminosity near the horizon or on the underside of a cloud, caused by the reflection of light from sea ice.", "S": [], "A": []}

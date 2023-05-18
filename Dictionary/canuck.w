@@ -1,0 +1,1 @@
+{"index": 46702, "D": "a term used to refer to a Canadian, especially a French Canadian.", "S": [], "A": []}

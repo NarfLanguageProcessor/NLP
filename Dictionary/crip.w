@@ -1,0 +1,1 @@
+{"index": 73148, "D": "a term of identity or self-reference used affirmatively by some people with disabilities, especially in academia and activism. ", "S": [], "A": []}

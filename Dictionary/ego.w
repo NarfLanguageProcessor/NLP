@@ -1,0 +1,1 @@
+{"index": 96237, "D": "the \u201cI\u201d or self of any person; a person as thinking, feeling, and willing, and distinguishing itself from the selves of others and from objects of its thought.", "S": ["character ", "psyche "], "A": []}

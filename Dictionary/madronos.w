@@ -1,0 +1,1 @@
+{"index": 177270, "D": "any of several evergreen trees belonging to the genus Arbutus, of the heath family, especially A. menziesii(Pacific madrone ) of western North America, having red, flaky bark and bearing edible reddish berries.", "S": [], "A": []}

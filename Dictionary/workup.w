@@ -1,0 +1,1 @@
+{"index": 367552, "D": "a thorough medical diagnostic examination including laboratory tests and x-rays.", "S": ["agitate ", "animate ", "excite ", "get up ", "inflame ", "rouse "], "A": ["calm ", "deaden ", "lull ", "pacify ", "quiet ", "soothe ", "tranquilize "]}

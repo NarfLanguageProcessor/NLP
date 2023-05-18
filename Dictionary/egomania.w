@@ -1,0 +1,1 @@
+{"index": 96260, "D": "psychologically abnormal egotism. ", "S": ["arrogance ", "conceit ", "egotism ", "narcissism ", "self-absorption ", "self-centeredness ", "self-importance ", "selfishness ", "vainglory ", "vanity "], "A": ["humility ", "meekness ", "modesty "]}

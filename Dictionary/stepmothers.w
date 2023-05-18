@@ -1,0 +1,1 @@
+{"index": 303789, "D": "the wife, by a later marriage, of one's parent.", "S": [], "A": []}

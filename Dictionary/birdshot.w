@@ -1,0 +1,1 @@
+{"index": 34794, "D": "small-sized shot used for shooting birds.", "S": [], "A": []}

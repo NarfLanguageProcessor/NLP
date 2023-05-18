@@ -1,0 +1,1 @@
+{"index": 119266, "D": "to force (a person) to march  with the arms pinioned firmly behind the back.", "S": [], "A": []}

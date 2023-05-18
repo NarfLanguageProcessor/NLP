@@ -1,0 +1,1 @@
+{"index": 277780, "D": "the more or less fine debris of rocks, consisting of small, loose grains, often of quartz.", "S": ["abrade ", "bray ", "excoriate ", "file ", "grate ", "irk ", "irritate ", "jar ", "pound ", "raze ", "rub ", "sand ", "scour ", "scrape ", "scratch ", "vex ", "wear "], "A": ["aid ", "assist ", "delight ", "help ", "please ", "soothe "]}

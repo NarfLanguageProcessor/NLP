@@ -1,0 +1,1 @@
+{"index": 242629, "D": "pertaining to or derived from a vinyl polymer. ", "S": [], "A": []}

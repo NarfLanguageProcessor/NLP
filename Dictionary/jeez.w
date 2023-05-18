@@ -1,0 +1,1 @@
+{"index": 160753, "D": "(used as a mild expression of surprise, disappointment, astonishment, etc.)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 10103, "D": "a colorless liquid, C16H28O2, having a strong musky odor, used as a fixative in the manufacture of perfume.", "S": [], "A": []}

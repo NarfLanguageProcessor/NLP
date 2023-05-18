@@ -1,0 +1,1 @@
+{"index": 47212, "D": "to attract and hold the attention or interest of, as by beauty or excellence; enchant", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342091, "D": "the possibility, capability, or likelihood of something being done or accomplished (often used attributively)", "S": [], "A": []}

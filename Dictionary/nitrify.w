@@ -1,0 +1,1 @@
+{"index": 200369, "D": "to oxidize (ammonia, ammonium compounds, or free atmospheric nitrogen) to nitrites and then to nitrates, especially in soil by bacterial or other microbial action.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 76492, "D": "of John Dalton or his atomic theory.", "S": [], "A": []}

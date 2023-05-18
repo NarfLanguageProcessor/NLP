@@ -1,0 +1,1 @@
+{"index": 341037, "D": "in a way that accomplishes a purpose or produces the intended or expected results", "S": [], "A": []}

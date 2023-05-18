@@ -1,0 +1,1 @@
+{"index": 296508, "D": "an instrument for measuring solar radiation.", "S": [], "A": []}

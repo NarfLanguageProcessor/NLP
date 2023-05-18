@@ -1,0 +1,1 @@
+{"index": 177741, "D": "the power, as of a god, to produce illusions.", "S": [], "A": []}

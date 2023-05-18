@@ -1,0 +1,1 @@
+{"index": 194947, "D": "any of several marine or freshwater, usually gray fishes of the family Mugilidae, having a nearly cylindrical body.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 18578, "D": "a treelike appearance, as in certain minerals or fossils.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 15252, "D": "an antiferromagnetic substance.", "S": [], "A": []}

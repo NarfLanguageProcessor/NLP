@@ -1,0 +1,1 @@
+{"index": 358308, "D": "verse; verses.", "S": ["her ", "him ", "hir ", "it ", "me ", "them ", "xem ", "you ", "zir "], "A": []}

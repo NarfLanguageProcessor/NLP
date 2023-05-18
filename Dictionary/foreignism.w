@@ -1,0 +1,1 @@
+{"index": 116728, "D": "a foreign  custom, mannerism, etc.", "S": [], "A": []}

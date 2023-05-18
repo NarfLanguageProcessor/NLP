@@ -1,0 +1,1 @@
+{"index": 282034, "D": "land on which the natural vegetation is chiefly scrub. ", "S": ["backwoods ", "bramble ", "briar ", "brush ", "chaparral ", "creeper ", "forest ", "hedge ", "hinterland ", "jungle ", "outback ", "plant ", "scrub ", "shrubbery ", "thicket ", "vine ", "wilderness "], "A": []}

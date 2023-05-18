@@ -1,0 +1,1 @@
+{"index": 358621, "D": "to become infested with vermin, especially parasitic vermin.", "S": [], "A": []}

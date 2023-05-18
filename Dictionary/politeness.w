@@ -1,0 +1,1 @@
+{"index": 242511, "D": "showing good manners toward others, as in behavior, speech, etc.; courteous; civil", "S": ["civility ", "kindness "], "A": []}

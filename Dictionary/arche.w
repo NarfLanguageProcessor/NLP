@@ -1,0 +1,1 @@
+{"index": 18800, "D": "a combining form meaning \u201cprior, original, first\u201d (archegonium; archetype); in scientific coinages, a synonym of archi-  (archesporium).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 33217, "D": "a faucet having a nozzle bent downward.", "S": ["nozzle ", "valve "], "A": []}

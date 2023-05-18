@@ -1,0 +1,1 @@
+{"index": 80433, "D": "an official denial by a government of actions, aims, etc., ascribed to it.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 196246, "D": "of low intensity and reduced volume; softened", "S": [], "A": []}

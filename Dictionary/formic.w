@@ -1,0 +1,1 @@
+{"index": 117429, "D": "of or relating to ants.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 160369, "D": "having a Japanese style.", "S": [], "A": []}

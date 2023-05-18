@@ -1,0 +1,1 @@
+{"index": 303133, "D": "statues  collectively.", "S": ["carving ", "sculpture "], "A": []}

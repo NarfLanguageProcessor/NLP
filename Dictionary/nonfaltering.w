@@ -1,0 +1,1 @@
+{"index": 203932, "D": "to hesitate or waver in action, purpose, intent, etc.; give way", "S": [], "A": []}

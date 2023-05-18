@@ -1,0 +1,1 @@
+{"index": 224624, "D": "a card game of the rummy family that is played with from five to eight regular 52-card packs from which the eights, nines, and tens have been removed, the object being to win bonuses by melding certain groups of cards during the play and extra bonuses by melding all the cards in the hand.", "S": [], "A": []}

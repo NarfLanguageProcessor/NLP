@@ -1,0 +1,1 @@
+{"index": 152238, "D": "a planet or aspect of evil influence, especially Saturn or Mars.", "S": [], "A": []}

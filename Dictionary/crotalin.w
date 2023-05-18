@@ -1,0 +1,1 @@
+{"index": 73902, "D": "a protein in the venom of pit vipers, used as an antigen in the preparation of snake antivenins.", "S": [], "A": []}

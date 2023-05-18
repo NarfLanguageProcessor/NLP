@@ -1,0 +1,1 @@
+{"index": 80832, "D": "the study of demons or of beliefs about demons.", "S": [], "A": []}

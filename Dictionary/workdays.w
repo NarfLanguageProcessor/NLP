@@ -1,0 +1,1 @@
+{"index": 367488, "D": "a day on which work is done; working day.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 95199, "D": "any of several insectivorous monotremes of the genera Tachyglossus, of Australia, Tasmania, and New Guinea, and Zaglossus, of New Guinea, that have claws and a slender snout and are covered with coarse hair and long spines.", "S": [], "A": []}

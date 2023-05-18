@@ -1,0 +1,1 @@
+{"index": 206532, "D": "a reciprocal  state or relation.", "S": [], "A": []}

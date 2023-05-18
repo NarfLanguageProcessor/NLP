@@ -1,0 +1,1 @@
+{"index": 324908, "D": "an instrument or appliance for toasting  bread, muffins, etc.", "S": [], "A": []}

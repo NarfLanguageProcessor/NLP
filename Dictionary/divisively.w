@@ -1,0 +1,1 @@
+{"index": 90395, "D": "forming or expressing division  or distribution.", "S": [], "A": []}

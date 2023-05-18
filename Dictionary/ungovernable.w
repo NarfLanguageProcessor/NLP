@@ -1,0 +1,1 @@
+{"index": 343186, "D": "impossible to govern, rule, or restrain; uncontrollable.", "S": ["disobedient ", "indocile ", "uncontrollable ", "undisciplined ", "unmanageable ", "unruly ", "wild "], "A": ["controllable ", "manageable ", "orderly ", "rulable "]}

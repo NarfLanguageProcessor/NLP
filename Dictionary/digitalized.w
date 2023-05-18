@@ -1,0 +1,1 @@
+{"index": 85450, "D": "to treat (a person) with a regimen of digitalis. ", "S": [], "A": []}

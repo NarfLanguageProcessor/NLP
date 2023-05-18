@@ -1,0 +1,1 @@
+{"index": 202143, "D": "to strive to outdo another for acknowledgment, a prize, supremacy, profit, etc.; engage in a contest; vie", "S": [], "A": []}

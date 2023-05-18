@@ -1,0 +1,1 @@
+{"index": 230188, "D": "a rounded, cone-shaped hill in a karstic area.", "S": [], "A": []}

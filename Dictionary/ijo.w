@@ -1,0 +1,1 @@
+{"index": 147187, "D": "a member of an Indigenous people of the Niger delta in southern Nigeria.", "S": [], "A": []}

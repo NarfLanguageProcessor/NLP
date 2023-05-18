@@ -1,0 +1,1 @@
+{"index": 264657, "D": "to come forth into view or notice, as from concealment or obscurity", "S": [], "A": []}

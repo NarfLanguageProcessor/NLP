@@ -1,0 +1,1 @@
+{"index": 312050, "D": "without interest or concern; not caring; apathetic", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 26514, "D": "a daggerlike steel weapon that is attached to or at the muzzle of a gun and used for stabbing or slashing in hand-to-hand combat.", "S": ["knife ", "pierce "], "A": []}

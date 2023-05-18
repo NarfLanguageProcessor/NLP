@@ -1,0 +1,1 @@
+{"index": 334066, "D": "sound  with a frequency greater than 20,000 Hz, approximately the upper limit of human hearing.", "S": [], "A": []}

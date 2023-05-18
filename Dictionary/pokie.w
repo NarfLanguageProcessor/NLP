@@ -1,0 +1,1 @@
+{"index": 241431, "D": "Australian and NZ informal short for poker machine", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 13462, "D": "a mineral, hydrous nickel arsenate, Ni3As2O8\u22c58H2O, occurring in apple-green masses and isomorphous with erythrite.", "S": [], "A": []}

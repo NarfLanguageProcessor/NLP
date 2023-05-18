@@ -1,0 +1,1 @@
+{"index": 262886, "D": "to give, feel, etc., in return.", "S": [], "A": []}

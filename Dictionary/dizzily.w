@@ -1,0 +1,1 @@
+{"index": 90486, "D": "having a sensation of whirling and a tendency to fall; giddy; vertiginous. ", "S": [], "A": []}

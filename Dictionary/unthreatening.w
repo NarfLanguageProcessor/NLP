@@ -1,0 +1,1 @@
+{"index": 352950, "D": "tending or intended to menace", "S": ["calm ", "clear ", "favorable "], "A": ["cloudy ", "dark ", "inclement ", "rainy ", "stormy "]}

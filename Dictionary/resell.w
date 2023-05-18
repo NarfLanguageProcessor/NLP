@@ -1,0 +1,1 @@
+{"index": 269169, "D": "to sell (something) one has previously bought; sell on", "S": [], "A": []}

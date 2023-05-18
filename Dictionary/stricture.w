@@ -1,0 +1,1 @@
+{"index": 306222, "D": "a remark or comment, especially an adverse criticism", "S": ["blame ", "criticism ", "obloquy ", "rebuke ", "reprobation "], "A": ["compliment ", "praise "]}

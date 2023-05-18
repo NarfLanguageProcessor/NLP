@@ -1,0 +1,1 @@
+{"index": 9862, "D": "to dismay; daunt.", "S": [], "A": []}

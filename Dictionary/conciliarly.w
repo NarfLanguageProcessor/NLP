@@ -1,0 +1,1 @@
+{"index": 65313, "D": "of, relating to, or issued by a council.", "S": [], "A": []}

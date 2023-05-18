@@ -1,0 +1,1 @@
+{"index": 99469, "D": "again; once more (used by an audience in calling for an additional number or piece).", "S": ["acclamation ", "cheers ", "number ", "plaudits ", "praise ", "reappearance ", "repetition ", "response ", "return "], "A": ["question ", "request "]}

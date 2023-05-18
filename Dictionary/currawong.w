@@ -1,0 +1,1 @@
+{"index": 75401, "D": "any of several large black-and-white passerine birds of the genus Strepera, of Australia, having a resounding bell-like voice.", "S": [], "A": []}

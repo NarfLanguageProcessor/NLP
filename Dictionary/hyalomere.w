@@ -1,0 +1,1 @@
+{"index": 138182, "D": "the transparent part of a blood platelet, surrounding the chromomere.", "S": [], "A": []}

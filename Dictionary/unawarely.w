@@ -1,0 +1,1 @@
+{"index": 335522, "D": "not aware or conscious; unconscious", "S": ["unconsciously "], "A": ["advisedly ", "knowingly "]}

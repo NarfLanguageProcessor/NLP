@@ -1,0 +1,1 @@
+{"index": 41057, "D": "a closely woven dress-goods fabric of cotton, rayon, silk, or a mixture of these fibers, having a soft, mercerized finish and resembling poplin.", "S": [], "A": []}

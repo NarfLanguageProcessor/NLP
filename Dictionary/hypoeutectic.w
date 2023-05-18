@@ -1,0 +1,1 @@
+{"index": 140932, "D": "Compare hypereutectic", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 168716, "D": "a device that produces a nearly parallel, nearly monochromatic, and coherent beam of light by exciting atoms to a higher energy level and causing them to radiate their energy in phase.", "S": ["bar ", "glow ", "radiation ", "ray ", "shaft "], "A": ["dullness "]}

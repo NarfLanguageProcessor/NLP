@@ -1,0 +1,1 @@
+{"index": 44605, "D": "a traveling tinker, especially a Romani.", "S": [], "A": []}

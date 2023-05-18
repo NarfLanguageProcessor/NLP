@@ -1,0 +1,1 @@
+{"index": 56685, "D": "adhering strictly to the prescribed form in ecclesiastical matters.", "S": [], "A": []}

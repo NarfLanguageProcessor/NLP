@@ -1,0 +1,1 @@
+{"index": 144367, "D": "a period of time equal to one twenty-fourth of a mean solar or civil day and equivalent to 60 minutes", "S": ["freedom ", "opportunity "], "A": ["inconvenience ", "inutility ", "unsuitability ", "uselessness ", "waste "]}

@@ -1,0 +1,1 @@
+{"index": 146714, "D": "year's end; the end of a calendar year.", "S": ["anniversary "], "A": []}

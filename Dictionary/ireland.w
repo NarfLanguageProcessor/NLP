@@ -1,0 +1,1 @@
+{"index": 157900, "D": "U.S. Roman Catholic clergyman and social reformer, born in Ireland", "S": [], "A": []}

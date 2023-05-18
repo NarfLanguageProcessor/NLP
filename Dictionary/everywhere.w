@@ -1,0 +1,1 @@
+{"index": 106175, "D": "in every place or part; in all places.", "S": ["far and wide ", "here and there ", "omnipresent ", "ubiquitous "], "A": ["nowhere "]}

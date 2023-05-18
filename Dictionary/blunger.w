@@ -1,0 +1,1 @@
+{"index": 36843, "D": "a large container with rotating arms for mechanical mixing of clay with water.", "S": [], "A": []}

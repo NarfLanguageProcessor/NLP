@@ -1,0 +1,1 @@
+{"index": 268918, "D": "radiation  emitted as a consequence of a previous absorption of radiation. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 59410, "D": "of high class,  rank, or grade; stylish; admirably smart; elegant.", "S": ["chic ", "elegant ", "fashionable ", "high-class ", "posh "], "A": ["old-fashioned ", "unfashionable "]}

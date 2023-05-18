@@ -1,0 +1,1 @@
+{"index": 307721, "D": "a distinct part of anything arranged in divisions; a division of a complex whole or organized system.", "S": [], "A": []}

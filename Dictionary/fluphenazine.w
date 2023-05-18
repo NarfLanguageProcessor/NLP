@@ -1,0 +1,1 @@
+{"index": 115507, "D": "a potent tranquilizer, C22H26F3N3OS, derived from phenothiazine and used in various forms for the management of certain neurological or psychotic disorders and for short-term treatment of acute anxiety.", "S": [], "A": []}

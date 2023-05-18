@@ -1,0 +1,1 @@
+{"index": 180276, "D": "any of several small, squirrellike, South and Central American monkeys of the genera Callithrix, Leontocebus, etc., having soft fur and a long, nonprehensile tail", "S": [], "A": []}

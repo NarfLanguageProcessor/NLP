@@ -1,0 +1,1 @@
+{"index": 76651, "D": "a young woman or girl; a maiden, originally one of gentle or noble birth.", "S": ["colleen ", "lady ", "lass ", "lassie ", "miss ", "virgin ", "woman "], "A": ["man "]}

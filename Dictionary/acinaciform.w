@@ -1,0 +1,1 @@
+{"index": 2510, "D": "scimitar-shaped, as a leaf.", "S": [], "A": []}

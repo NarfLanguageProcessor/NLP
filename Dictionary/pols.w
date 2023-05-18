@@ -1,0 +1,1 @@
+{"index": 242789, "D": "a politician, especially one experienced in making political deals, exchanging political favors, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83244, "D": "to explode with suddenness and violence.", "S": ["blast ", "blow up ", "burst ", "explode "], "A": ["dismantle "]}

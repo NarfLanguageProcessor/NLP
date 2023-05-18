@@ -1,0 +1,1 @@
+{"index": 309312, "D": "noting, of, or pertaining to a substantive. ", "S": [], "A": []}

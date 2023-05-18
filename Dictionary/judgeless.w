@@ -1,0 +1,1 @@
+{"index": 162056, "D": "a public officer authorized to hear and decide cases in a court of law; a magistrate charged with the administration of justice.", "S": [], "A": []}

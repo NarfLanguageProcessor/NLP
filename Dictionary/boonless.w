@@ -1,0 +1,1 @@
+{"index": 38197, "D": "something to be thankful for; blessing; benefit. ", "S": [], "A": []}

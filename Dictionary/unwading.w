@@ -1,0 +1,1 @@
+{"index": 353981, "D": "to walk in water, when partially immersed", "S": [], "A": []}

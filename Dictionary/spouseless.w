@@ -1,0 +1,1 @@
+{"index": 301128, "D": "either member of a married pair in relation to the other; one's husband or wife.", "S": ["bachelor ", "companionless ", "divorced ", "eligible ", "fancy-free ", "footloose ", "footloose and fancy-free ", "free ", "living alone ", "lone ", "loner ", "separated ", "sole ", "solo ", "unattached ", "unfettered ", "unmarried ", "unwed "], "A": []}

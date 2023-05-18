@@ -1,0 +1,1 @@
+{"index": 175668, "D": "situated, placed, or occurring not far above the ground, floor, or base", "S": ["collapse ", "crash ", "depreciation ", "dip ", "downtrend ", "downturn ", "drop ", "fall ", "low ", "recession ", "slide ", "stagnation "], "A": ["ascent ", "increase ", "rise ", "blessing ", "boon ", "happiness ", "success "]}

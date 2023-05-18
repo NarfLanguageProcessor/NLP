@@ -1,0 +1,1 @@
+{"index": 64731, "D": "an expression of praise, commendation, or admiration", "S": ["adulation ", "baloney ", "blandishment ", "cajolery ", "coaxing ", "exaggeration ", "eyewash ", "fawning ", "honey ", "incense ", "ingratiation ", "oil ", "overpraise ", "wheedling "], "A": []}

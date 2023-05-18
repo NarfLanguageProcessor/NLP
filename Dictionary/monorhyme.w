@@ -1,0 +1,1 @@
+{"index": 192621, "D": "a poem or stanza in which all the lines rhyme  with each other.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 226263, "D": "extremely or completely dried, as by heat, sun, or wind", "S": [], "A": []}

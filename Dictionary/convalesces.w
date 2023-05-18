@@ -1,0 +1,1 @@
+{"index": 67899, "D": "to recover health and strength after illness; make progress toward recovery of health.", "S": ["recuperate "], "A": ["break ", "damage ", "destroy ", "hurt ", "kill ", "ruin ", "weaken "]}

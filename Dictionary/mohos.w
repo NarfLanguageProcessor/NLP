@@ -1,0 +1,1 @@
+{"index": 191284, "D": "the discontinuity between the crust and the mantle of the earth, occurring at depths that average about 22 miles (35 km) beneath the continents and about 6 miles (10 km) beneath the ocean floor.", "S": [], "A": []}

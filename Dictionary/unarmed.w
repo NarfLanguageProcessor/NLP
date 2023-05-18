@@ -1,0 +1,1 @@
+{"index": 335218, "D": "without weapons or armor.", "S": ["helpless ", "powerless "], "A": ["able ", "strong "]}

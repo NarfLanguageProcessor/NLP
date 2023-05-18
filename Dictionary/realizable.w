@@ -1,0 +1,1 @@
+{"index": 261749, "D": "to grasp or understand clearly.", "S": ["feasible ", "obtainable ", "practicable ", "reachable "], "A": ["impossible ", "unreasonable "]}

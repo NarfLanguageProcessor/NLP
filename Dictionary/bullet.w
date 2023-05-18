@@ -1,0 +1,1 @@
+{"index": 42531, "D": "a small metal projectile, part of a cartridge, for firing from small arms.", "S": ["ammunition ", "ball ", "cartridge ", "pellet ", "projectile ", "rocket ", "round ", "shot ", "slug "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 92957, "D": "to wet thoroughly; soak.", "S": ["avalanche ", "barrage ", "cataclysm ", "inundation ", "spate ", "torrent "], "A": []}

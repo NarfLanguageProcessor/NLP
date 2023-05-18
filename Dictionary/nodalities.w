@@ -1,0 +1,1 @@
+{"index": 200677, "D": "pertaining to or of the nature of a node. ", "S": [], "A": []}

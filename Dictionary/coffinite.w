@@ -1,0 +1,1 @@
+{"index": 62173, "D": "a mineral, black uranous silicate, USiO4, an important ore of uranium.", "S": [], "A": []}

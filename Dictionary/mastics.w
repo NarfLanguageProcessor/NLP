@@ -1,0 +1,1 @@
+{"index": 180903, "D": "a small Mediterranean tree, Pistacia lentiscus, of the cashew family, that is the source of an aromatic resin used in making varnish and adhesives.", "S": [], "A": []}

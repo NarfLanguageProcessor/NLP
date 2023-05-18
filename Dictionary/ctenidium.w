@@ -1,0 +1,1 @@
+{"index": 74359, "D": "any of various comblike or featherlike structures, as the row of stiff bristles on the legs of a psocid.", "S": [], "A": []}

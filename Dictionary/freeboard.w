@@ -1,0 +1,1 @@
+{"index": 118577, "D": "the portion of the side of a hull that is above the water.", "S": [], "A": []}

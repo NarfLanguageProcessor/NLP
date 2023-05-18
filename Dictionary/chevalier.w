@@ -1,0 +1,1 @@
+{"index": 53975, "D": "a member of certain orders of honor or merit", "S": ["cadet ", "cavalier ", "gallant ", "horseman ", "knight ", "lord ", "noble "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 51479, "D": "a white-to-yellow, heavy powder, cerium  dioxide, CeO2, usually derived from cerium nitrate by decomposition with heat", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 21034, "D": "pertaining to or resembling an ascon. ", "S": [], "A": []}

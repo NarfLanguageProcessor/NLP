@@ -1,0 +1,1 @@
+{"index": 221701, "D": "to cause (something) to turn  onto its side, face, or back; upset", "S": [], "A": []}

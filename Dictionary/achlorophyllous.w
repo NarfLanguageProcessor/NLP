@@ -1,0 +1,1 @@
+{"index": 2298, "D": "containing no chlorophyll.", "S": [], "A": []}

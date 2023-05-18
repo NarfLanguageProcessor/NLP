@@ -1,0 +1,1 @@
+{"index": 5158, "D": "aerodynamics dealing with conditions where there are significant heat exchanges in gases or significant thermal effects between gas and solid surfaces, as in very high-speed, generally supersonic flight.", "S": [], "A": []}

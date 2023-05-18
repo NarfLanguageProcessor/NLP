@@ -1,0 +1,1 @@
+{"index": 111628, "D": "a rod, cane, or flat piece of wood for punishing children, especially by striking them on the hand.", "S": ["nightstick ", "truncheon "], "A": []}

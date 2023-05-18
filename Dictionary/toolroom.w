@@ -1,0 +1,1 @@
+{"index": 325715, "D": "a room,  as in a machine shop, in which tools  are stored, repaired, produced, etc.", "S": [], "A": []}

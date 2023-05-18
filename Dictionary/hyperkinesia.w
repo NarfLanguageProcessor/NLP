@@ -1,0 +1,1 @@
+{"index": 140229, "D": "an abnormal amount of uncontrolled muscular action; spasm.", "S": [], "A": []}

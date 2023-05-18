@@ -1,0 +1,1 @@
+{"index": 262040, "D": "a basis or cause, as for some belief, action, fact, event, etc.", "S": ["argument ", "clue ", "confirmation ", "criterion ", "data ", "demonstration ", "information ", "picture ", "reason ", "testament ", "testimony ", "validation ", "verification "], "A": ["hypothesis ", "theory "]}

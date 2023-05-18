@@ -1,0 +1,1 @@
+{"index": 246620, "D": "of or relating to a course of study in a school, college, university, etc.", "S": [], "A": []}

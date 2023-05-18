@@ -1,0 +1,1 @@
+{"index": 197525, "D": "the act or process of navigating. ", "S": ["aquatic ", "boating ", "marine ", "maritime ", "navigating ", "oceanic ", "seafaring ", "shipping "], "A": []}

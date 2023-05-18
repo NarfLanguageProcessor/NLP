@@ -1,0 +1,1 @@
+{"index": 180720, "D": "a person whose trade is building with units of various natural or artificial mineral products, as stones, bricks, cinder blocks, or tiles, usually with the use of mortar or cement as a bonding agent.", "S": ["architect ", "artisan ", "contractor ", "inventor ", "maker ", "manufacturer ", "producer "], "A": ["wrecker "]}

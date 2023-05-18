@@ -1,0 +1,1 @@
+{"index": 207409, "D": "a chip or splinter, as of stone or ore.", "S": [], "A": []}

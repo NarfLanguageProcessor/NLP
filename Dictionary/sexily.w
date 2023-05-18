@@ -1,0 +1,1 @@
+{"index": 286856, "D": "concerned predominantly or excessively with sex;  risqu\u00e9", "S": [], "A": []}

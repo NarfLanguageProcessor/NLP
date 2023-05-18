@@ -1,0 +1,1 @@
+{"index": 272326, "D": "an oblique-angled equilateral parallelogram; any equilateral parallelogram except a square.", "S": ["gem ", "jewel ", "rhinestone "], "A": []}

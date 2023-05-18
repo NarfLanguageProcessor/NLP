@@ -1,0 +1,1 @@
+{"index": 267116, "D": "sent back or consigned again, as for revision", "S": ["delayed ", "negotiated ", "postponed "], "A": ["advanced ", "forwarded ", "furthered ", "hastened ", "hurried "]}

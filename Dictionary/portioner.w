@@ -1,0 +1,1 @@
+{"index": 243671, "D": "a person who receives or holds a portion,  or who divides something into portions. ", "S": [], "A": []}

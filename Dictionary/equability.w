@@ -1,0 +1,1 @@
+{"index": 103149, "D": "free from many changes or variations; uniform", "S": ["aplomb ", "calmness ", "composure ", "coolness ", "serenity ", "tranquillity "], "A": ["agitation ", "excitement ", "distrust ", "doubt ", "fear ", "frustration ", "uncertainty "]}

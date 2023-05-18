@@ -1,0 +1,1 @@
+{"index": 163297, "D": "a building traditionally used by the Yupik and Inuit in the Arctic as a community gathering place or as a place where men congregate and socialize.", "S": [], "A": []}

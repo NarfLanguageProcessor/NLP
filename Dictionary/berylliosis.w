@@ -1,0 +1,1 @@
+{"index": 32100, "D": "beryllium  poisoning, characterized by the formation of granulomas, primarily affecting the lungs and causing a cough, chest pain, and shortness of breath.", "S": [], "A": []}

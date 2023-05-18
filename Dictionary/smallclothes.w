@@ -1,0 +1,1 @@
+{"index": 294680, "D": "small,  personal items of clothing, as underwear, handkerchiefs, etc.", "S": ["bikini ", "bra ", "corset ", "lingerie ", "shorts ", "undergarment ", "underpants ", "undershirt "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 338574, "D": "a person, company, etc., against whom a claim or charge is brought in a court (opposed to plaintiff).", "S": [], "A": []}

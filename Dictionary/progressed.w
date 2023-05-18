@@ -1,0 +1,1 @@
+{"index": 251933, "D": "a movement toward a goal or to a further or higher stage", "S": ["advance ", "continue ", "keep going ", "proceed "], "A": ["cease ", "halt ", "stop "]}

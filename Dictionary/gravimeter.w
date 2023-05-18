@@ -1,0 +1,1 @@
+{"index": 129374, "D": "an instrument for measuring the specific gravity of a solid or liquid.", "S": [], "A": []}

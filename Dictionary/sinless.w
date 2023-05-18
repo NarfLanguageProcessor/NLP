@@ -1,0 +1,1 @@
+{"index": 291844, "D": "free from or without sin.", "S": ["blameless ", "chaste ", "guiltless ", "immaculate ", "innocent ", "perfect ", "pure ", "righteous ", "saintly ", "upright "], "A": ["sinful ", "wicked "]}

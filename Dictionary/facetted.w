@@ -1,0 +1,1 @@
+{"index": 108970, "D": "a small, polished, flat surface, usually in the shape of a polygon, such as one of the surfaces of a cut gem.", "S": ["carve ", "divide ", "rip ", "slash ", "slice "], "A": ["combine ", "unite ", "close ", "connect ", "join ", "mend "]}

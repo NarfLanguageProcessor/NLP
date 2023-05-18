@@ -1,0 +1,1 @@
+{"index": 140055, "D": "having or pertaining to a double beat of the pulse for each beat of the heart.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 257250, "D": "to cause to form pustules. ", "S": [], "A": []}

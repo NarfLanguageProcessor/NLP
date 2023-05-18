@@ -1,0 +1,1 @@
+{"index": 112178, "D": "invented as part of a work of fiction", "S": ["fabricated ", "fanciful ", "imaginary ", "imagined ", "made-up ", "make believe "], "A": ["real ", "true "]}

@@ -1,0 +1,1 @@
+{"index": 69024, "D": "an adherent of the same religion as another.", "S": [], "A": []}

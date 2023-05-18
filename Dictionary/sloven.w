@@ -1,0 +1,1 @@
+{"index": 294435, "D": "a person who is habitually negligent of neatness or cleanliness in dress, appearance, etc.", "S": ["lout "], "A": []}

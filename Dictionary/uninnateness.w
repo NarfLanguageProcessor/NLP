@@ -1,0 +1,1 @@
+{"index": 344605, "D": "existing in one from birth; inborn; native", "S": [], "A": []}

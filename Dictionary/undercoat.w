@@ -1,0 +1,1 @@
+{"index": 339005, "D": "a coat  or jacket worn under another.", "S": ["balmoral ", "clothes ", "kilt ", "slip ", "underskirt ", "waistcoat "], "A": []}

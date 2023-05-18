@@ -1,0 +1,1 @@
+{"index": 113603, "D": "a device incorporating a metal bar and pins that is used in stabilizing difficult bone fractures.", "S": [], "A": []}

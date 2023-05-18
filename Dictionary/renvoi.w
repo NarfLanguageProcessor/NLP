@@ -1,0 +1,1 @@
+{"index": 267808, "D": "the expulsion by a government of an alien, especially a foreign diplomat, from the country.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 242380, "D": "a condition in which a single word, phrase, or concept has more than one meaning or connotation.", "S": ["doubt ", "uncertainty ", "vagueness "], "A": ["certainty "]}

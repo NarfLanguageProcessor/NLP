@@ -1,0 +1,1 @@
+{"index": 123326, "D": "of, relating to, or resembling gemmae. ", "S": [], "A": []}

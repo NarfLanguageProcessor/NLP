@@ -1,0 +1,1 @@
+{"index": 142431, "D": "the Hindu spring festival.", "S": [], "A": []}

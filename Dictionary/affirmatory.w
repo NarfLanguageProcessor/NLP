@@ -1,0 +1,1 @@
+{"index": 5401, "D": "affirmative. ", "S": ["approving ", "positive ", "supporting "], "A": ["dissenting ", "negative "]}

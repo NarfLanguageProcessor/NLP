@@ -1,0 +1,1 @@
+{"index": 340318, "D": "noting those scales that contain five whole tones and two semitones, as the major, minor, and certain modal scales.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 72055, "D": "pertaining to or involving both cerebrum and cranium.", "S": [], "A": []}

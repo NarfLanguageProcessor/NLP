@@ -1,0 +1,1 @@
+{"index": 215145, "D": "(formerly) an instrument for examining the internal structures of the eye through a layer of water that neutralizes the refraction of the cornea.", "S": [], "A": []}

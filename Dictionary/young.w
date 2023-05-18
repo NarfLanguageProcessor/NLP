@@ -1,0 +1,1 @@
+{"index": 157730, "D": "being in the first or early stage of life or growth; youthful; not old", "S": ["budding ", "inexperienced ", "new ", "youthful "], "A": ["experienced ", "old ", "adult ", "healthy ", "mature ", "older ", "sophisticated "]}

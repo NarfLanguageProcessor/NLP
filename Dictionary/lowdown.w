@@ -1,0 +1,1 @@
+{"index": 175617, "D": "the real and unadorned facts; the true, secret, or inside information", "S": ["detail ", "explanation ", "history ", "narrative ", "report ", "story ", "tale ", "version "], "A": []}

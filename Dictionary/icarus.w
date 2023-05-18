@@ -1,0 +1,1 @@
+{"index": 145960, "D": "a youth who attempted to escape from Crete with wings of wax and feathers but flew so high that his wings melted from the heat of the sun, and he plunged to his death in the sea.", "S": [], "A": []}

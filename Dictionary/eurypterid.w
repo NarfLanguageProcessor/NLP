@@ -1,0 +1,1 @@
+{"index": 105784, "D": "any aquatic arthropod of the extinct order Eurypterida, from the Paleozoic Era, closely related to trilobites and scorpions.", "S": [], "A": []}

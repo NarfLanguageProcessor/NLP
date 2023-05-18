@@ -1,0 +1,1 @@
+{"index": 335738, "D": "obligated; indebted", "S": [], "A": []}

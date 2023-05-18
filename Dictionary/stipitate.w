@@ -1,0 +1,1 @@
+{"index": 304749, "D": "having or supported by a stipe", "S": [], "A": []}

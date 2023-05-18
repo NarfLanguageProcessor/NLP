@@ -1,0 +1,1 @@
+{"index": 131318, "D": "the wood  of a gum tree,  especially the wood  of a eucalyptus or of the sweet gum. ", "S": [], "A": []}

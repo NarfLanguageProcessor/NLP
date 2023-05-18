@@ -1,0 +1,1 @@
+{"index": 179474, "D": "an instrument for measuring the pressure of a fluid, consisting of a tube filled with a liquid, the level of the liquid being determined by the fluid pressure and the height of the liquid being indicated on a scale.", "S": [], "A": []}

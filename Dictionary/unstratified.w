@@ -1,0 +1,1 @@
+{"index": 352141, "D": "not stratified; not arranged in strata or layers", "S": [], "A": []}

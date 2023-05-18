@@ -1,0 +1,1 @@
+{"index": 206702, "D": "to drive or force back (an assailant, invader, etc.).", "S": [], "A": []}

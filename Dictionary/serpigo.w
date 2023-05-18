@@ -1,0 +1,1 @@
+{"index": 286324, "D": "(formerly) a creeping or spreading skin disease, as ringworm.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 216981, "D": "to outwit, defeat, or frustrate by maneuvering. ", "S": ["outdo ", "outsmart ", "overtake "], "A": ["fail ", "fall behind ", "lose "]}

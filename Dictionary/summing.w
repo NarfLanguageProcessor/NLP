@@ -1,0 +1,1 @@
+{"index": 310963, "D": "the aggregate of two or more numbers, magnitudes, quantities, or particulars as determined by or as if by the mathematical process of addition", "S": ["aggregating ", "completing ", "computing ", "concluding ", "constituting ", "producing ", "reckoning "], "A": []}

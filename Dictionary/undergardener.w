@@ -1,0 +1,1 @@
+{"index": 339246, "D": "a person who is employed to cultivate or care for a garden,  lawn, etc.", "S": [], "A": []}

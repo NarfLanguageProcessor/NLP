@@ -1,0 +1,1 @@
+{"index": 34562, "D": "a bedded, blanketlike sedimentary deposit of organic origin built by marine organisms and including shell beds, flat reefs, and corals.", "S": [], "A": []}

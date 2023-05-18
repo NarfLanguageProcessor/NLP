@@ -1,0 +1,1 @@
+{"index": 137192, "D": "a monument consisting of a four-sided shaft tapering inward from top to bottom and bearing a head or bust; those of Hermes usually had an erect penis, which passersby stroked for luck.", "S": [], "A": []}

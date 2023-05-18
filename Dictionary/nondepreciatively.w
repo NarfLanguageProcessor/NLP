@@ -1,0 +1,1 @@
+{"index": 202932, "D": "tending to depreciate. ", "S": [], "A": []}

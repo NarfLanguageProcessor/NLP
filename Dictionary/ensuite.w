@@ -1,0 +1,1 @@
+{"index": 101128, "D": "(of a bathroom) connected to a bedroom; private", "S": [], "A": []}

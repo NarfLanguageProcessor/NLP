@@ -1,0 +1,1 @@
+{"index": 330066, "D": "of or relating to a system of aerial photography using three cameras, one pointed directly downward and the others at 60\u00b0 to it.", "S": [], "A": []}

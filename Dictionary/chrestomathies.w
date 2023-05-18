@@ -1,0 +1,1 @@
+{"index": 55981, "D": "a collection of selected literary passages, often by one author and especially from a foreign language.", "S": ["oeuvre "], "A": []}

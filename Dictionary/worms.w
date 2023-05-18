@@ -1,0 +1,1 @@
+{"index": 367618, "D": "a city in E Rhineland-Palatinate, in SW Germany.", "S": ["boor ", "bounder ", "clown ", "creep ", "cur ", "dog ", "heel ", "louse ", "lout ", "rake ", "rascal ", "rat ", "rotter ", "rounder ", "scoundrel ", "stinker "], "A": ["gentleman ", "helper "]}

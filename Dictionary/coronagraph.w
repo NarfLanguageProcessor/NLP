@@ -1,0 +1,1 @@
+{"index": 69437, "D": "an instrument for observing and photographing the sun's corona, consisting of a telescope fitted with lenses, filters, and diaphragms that simulate an eclipse.", "S": [], "A": []}

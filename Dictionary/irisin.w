@@ -1,0 +1,1 @@
+{"index": 158029, "D": "the gradual appearance of an image or scene through an expanding circle.", "S": [], "A": []}

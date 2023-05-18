@@ -1,0 +1,1 @@
+{"index": 229315, "D": "a ruined city in N Greece, NW of Salonika", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 323012, "D": "cumulonimbus. ", "S": ["foreboding ", "forewarning ", "trouble "], "A": []}

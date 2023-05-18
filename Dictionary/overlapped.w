@@ -1,0 +1,1 @@
+{"index": 220002, "D": "to lap  over (something else or each other); extend over and cover a part of; imbricate.", "S": ["flap ", "imbricate ", "overhang ", "overlay ", "overlie ", "overrun ", "project ", "protrude ", "ride ", "shingle "], "A": ["divide ", "separate "]}

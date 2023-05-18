@@ -1,0 +1,1 @@
+{"index": 209248, "D": "being the last in a series of infinitely decreasing or increasing values, amounts, etc.", "S": [], "A": []}

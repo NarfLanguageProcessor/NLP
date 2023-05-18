@@ -1,0 +1,1 @@
+{"index": 257217, "D": "the state or condition of being pusillanimous;  timidity; cowardliness.", "S": ["cowardliness ", "cravenness ", "dastardliness ", "faintheartedness ", "fear ", "fearfulness ", "funk ", "gutlessness ", "unmanliness "], "A": []}

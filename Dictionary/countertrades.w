@@ -1,0 +1,1 @@
+{"index": 71160, "D": "trade,  especially international trade,  carried on for payment wholly or partially in goods instead of cash or credit.", "S": [], "A": []}

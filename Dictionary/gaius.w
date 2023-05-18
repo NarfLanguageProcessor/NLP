@@ -1,0 +1,1 @@
+{"index": 121069, "D": "Roman jurist and writer, especially on civil law.", "S": [], "A": []}

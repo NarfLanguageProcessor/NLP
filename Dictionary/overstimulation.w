@@ -1,0 +1,1 @@
+{"index": 221354, "D": "an act or instance of excessively stimulating something, particularly when the result is undesirable", "S": [], "A": []}

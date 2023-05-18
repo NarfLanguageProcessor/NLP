@@ -1,0 +1,1 @@
+{"index": 291593, "D": "an office or position requiring little or no work, especially one yielding profitable returns.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 63000, "D": "one of a breed of dogs having a usually long, black, tan, and white or sable and white coat, raised originally in Scotland for herding sheep.", "S": [], "A": []}

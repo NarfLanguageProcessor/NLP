@@ -1,0 +1,1 @@
+{"index": 180045, "D": "the French Republic, personified as a woman.", "S": [], "A": []}

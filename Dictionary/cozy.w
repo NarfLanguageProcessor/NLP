@@ -1,0 +1,1 @@
+{"index": 71748, "D": "snugly warm and comfortable", "S": ["comfortable ", "comfy ", "cushy ", "intimate ", "snug "], "A": ["cool ", "uncomfortable "]}

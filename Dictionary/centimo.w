@@ -1,0 +1,1 @@
+{"index": 50894, "D": "one 100th of the monetary units of various countries, as Costa Rica, Equatorial Guinea, Paraguay, and Venezuela.", "S": [], "A": []}

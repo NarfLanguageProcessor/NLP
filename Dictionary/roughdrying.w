@@ -1,0 +1,1 @@
+{"index": 274764, "D": "to dry (laundry) after washing, without smoothing, ironing, etc.", "S": [], "A": []}

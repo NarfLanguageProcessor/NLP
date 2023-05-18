@@ -1,0 +1,1 @@
+{"index": 144510, "D": "a European whitefish, Coregonus oxyrhynchus, that lives in salt water but spawns in freshwater lakes", "S": [], "A": []}

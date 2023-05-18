@@ -1,0 +1,1 @@
+{"index": 69436, "D": "a white or colored circle or set of concentric circles of light seen around a luminous body, especially around the sun or moon.", "S": [], "A": []}

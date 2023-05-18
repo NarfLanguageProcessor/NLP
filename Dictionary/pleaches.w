@@ -1,0 +1,1 @@
+{"index": 239593, "D": "to interweave (branches, vines, etc.), as for a hedge or arbor.", "S": ["fuse ", "intertwine ", "knit "], "A": ["disconnect ", "divide ", "separate "]}

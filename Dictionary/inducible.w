@@ -1,0 +1,1 @@
+{"index": 151318, "D": "to lead or move by persuasion or influence, as to some action or state of mind", "S": ["analytical ", "empirical ", "experimental ", "from the latter ", "inductive ", "logical ", "practical "], "A": []}

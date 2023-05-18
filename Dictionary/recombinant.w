@@ -1,0 +1,1 @@
+{"index": 263131, "D": "of or resulting from new combinations of genetic material", "S": [], "A": []}

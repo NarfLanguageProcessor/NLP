@@ -1,0 +1,1 @@
+{"index": 8991, "D": "pertaining to or characterized by allotropy. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 335192, "D": "made, covered, or spanned with an arch  or arches. ", "S": [], "A": []}

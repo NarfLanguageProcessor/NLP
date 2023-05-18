@@ -1,0 +1,1 @@
+{"index": 25509, "D": "an infant or very young child.", "S": ["cherish ", "coddle ", "cosset ", "cuddle ", "dandle ", "foster ", "humor ", "indulge ", "nurse ", "overindulge ", "pamper ", "pet ", "please ", "satisfy ", "serve ", "spoil "], "A": ["anger ", "disappoint ", "hurt ", "ignore ", "neglect ", "refuse ", "upset "]}

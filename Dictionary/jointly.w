@@ -1,0 +1,1 @@
+{"index": 161628, "D": "together; in combination or partnership; in common", "S": ["accordingly ", "collectively ", "cooperatively ", "in tandem ", "mutually ", "simultaneously ", "together ", "unitedly "], "A": ["singly "]}

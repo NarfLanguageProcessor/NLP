@@ -1,0 +1,1 @@
+{"index": 332873, "D": "the rotating disk that spins the record on a phonograph.", "S": [], "A": []}

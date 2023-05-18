@@ -1,0 +1,1 @@
+{"index": 262764, "D": "the act of receding  or withdrawing.", "S": ["bankruptcy ", "collapse ", "decline ", "deflation ", "downturn ", "hard times ", "inflation ", "shakeout ", "slide ", "slump ", "stagnation ", "unemployment "], "A": ["increase ", "rise ", "success "]}

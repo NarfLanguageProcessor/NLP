@@ -1,0 +1,1 @@
+{"index": 71430, "D": "another word for cover (def. 32)", "S": [], "A": []}

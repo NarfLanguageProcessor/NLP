@@ -1,0 +1,1 @@
+{"index": 67009, "D": "an alloy containing approximately 55 percent copper and approximately 45 percent nickel, used for electrical resistance heating and thermocouples.", "S": [], "A": []}

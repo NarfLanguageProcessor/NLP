@@ -1,0 +1,1 @@
+{"index": 93988, "D": "not sharp; blunt", "S": ["boring ", "dim ", "dumb ", "simple ", "slow ", "sluggish ", "stupid "], "A": ["active ", "bright ", "cognizant ", "exciting ", "intelligent ", "interesting ", "smart "]}

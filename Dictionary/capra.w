@@ -1,0 +1,1 @@
+{"index": 47041, "D": "U.S. film director and producer, born in Italy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 214565, "D": "a competitive sport, originating in Sweden, that tests the skills of map reading and cross-country running, in which competitors race through an unknown area to find various checkpoints by using only a compass and topographical map, the winner being the finisher with the lowest elapsed time.", "S": [], "A": []}

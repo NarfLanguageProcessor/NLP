@@ -1,0 +1,1 @@
+{"index": 274811, "D": "shod  with horseshoes having projecting nails or points.", "S": [], "A": []}

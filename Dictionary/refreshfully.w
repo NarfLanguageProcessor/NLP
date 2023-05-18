@@ -1,0 +1,1 @@
+{"index": 265377, "D": "to provide new vigor and energy by rest, food, etc. (often used reflexively).", "S": [], "A": []}

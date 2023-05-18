@@ -1,0 +1,1 @@
+{"index": 244274, "D": "an official mark  stamped on letters and other mail, serving as a cancellation of the postage stamp and indicating the place, date, and sometimes time of sending or receipt.", "S": ["forward ", "send "], "A": ["hold ", "keep ", "receive ", "retain "]}

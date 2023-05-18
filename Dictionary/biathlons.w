@@ -1,0 +1,1 @@
+{"index": 33186, "D": "a contest in which cross-country skiers, carrying rifles, shoot at targets at four stops along a 12.5-mile (20 km) course.", "S": [], "A": []}

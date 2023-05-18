@@ -1,0 +1,1 @@
+{"index": 120584, "D": "capable of being fused  or melted.", "S": [], "A": []}

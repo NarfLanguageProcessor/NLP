@@ -1,0 +1,1 @@
+{"index": 83352, "D": "(in ancient Greece) the actor next in importance to the protagonist.", "S": [], "A": []}

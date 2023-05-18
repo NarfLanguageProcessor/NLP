@@ -1,0 +1,1 @@
+{"index": 67438, "D": "touching; in contact.", "S": ["immediately ", "instantaneously ", "instantly ", "promptly ", "quickly ", "shortly "], "A": ["eventually ", "later "]}

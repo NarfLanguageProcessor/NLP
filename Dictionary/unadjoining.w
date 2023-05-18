@@ -1,0 +1,1 @@
+{"index": 334594, "D": "being in contact at some point or line; located next to another; bordering; contiguous", "S": [], "A": []}

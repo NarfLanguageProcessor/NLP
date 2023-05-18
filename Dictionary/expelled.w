@@ -1,0 +1,1 @@
+{"index": 107670, "D": "driven or forced out or away; discharged", "S": ["fired ", "freed ", "laid-off ", "released ", "sacked "], "A": []}

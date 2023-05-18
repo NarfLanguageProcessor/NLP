@@ -1,0 +1,1 @@
+{"index": 201908, "D": "to discipline, especially by corporal punishment.", "S": [], "A": []}

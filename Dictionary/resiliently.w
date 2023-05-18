@@ -1,0 +1,1 @@
+{"index": 269421, "D": "springing back; rebounding.", "S": [], "A": []}

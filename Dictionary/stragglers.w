@@ -1,0 +1,1 @@
+{"index": 305632, "D": "to stray from the road, course, or line of march.", "S": ["dawdler ", "dilly-dallier ", "idler ", "lag ", "lagger ", "lingerer ", "loafer ", "loiterer ", "lounger ", "poke ", "procrastinator ", "slowpoke "], "A": []}

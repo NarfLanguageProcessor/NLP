@@ -1,0 +1,1 @@
+{"index": 13275, "D": "a Mediterranean plant, Pimpinella anisum, of the parsley family, having loose umbrels of small yellowish-white flowers that yield aniseed. ", "S": [], "A": []}

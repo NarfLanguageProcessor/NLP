@@ -1,0 +1,1 @@
+{"index": 317240, "D": "docile; easy to manage.", "S": [], "A": []}

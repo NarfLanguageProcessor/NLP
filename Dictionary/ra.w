@@ -1,0 +1,1 @@
+{"index": 259189, "D": "a sun god of Heliopolis, a universal creator worshiped throughout Egypt (typically represented as a hawk-headed man bearing on his head the solar disk and the uraeus).", "S": [], "A": []}

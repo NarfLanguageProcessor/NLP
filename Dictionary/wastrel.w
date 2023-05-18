@@ -1,0 +1,1 @@
+{"index": 363029, "D": "a wasteful person; spendthrift", "S": ["idler ", "profligate ", "rake ", "spendthrift ", "squanderer ", "vagabond ", "vagrant ", "waster "], "A": []}

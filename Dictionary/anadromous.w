@@ -1,0 +1,1 @@
+{"index": 11593, "D": "(of fish) migrating from salt water to spawn in fresh water, as salmon of the genera Salmo and Oncorhynchus (distinguished from catadromous).", "S": [], "A": []}

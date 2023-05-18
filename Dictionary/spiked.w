@@ -1,0 +1,1 @@
+{"index": 299763, "D": "a naillike fastener, 3 to 12 inches (7.6 to 30.5 centimeters) long and proportionately thicker than a common nail, for fastening together heavy timbers or railroad track.", "S": ["barbed "], "A": []}

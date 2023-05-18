@@ -1,0 +1,1 @@
+{"index": 238727, "D": "any fabric woven of differently colored yarns in a crossbarred pattern.", "S": ["tartan "], "A": []}

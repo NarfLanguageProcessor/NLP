@@ -1,0 +1,1 @@
+{"index": 161112, "D": "any of several very large fishes, especially of the family Serranidae, as the giant sea bass and the groupers Epinephelus itajara and E. nigritus, found in the tropical Atlantic Ocean.", "S": [], "A": []}

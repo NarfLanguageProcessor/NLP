@@ -1,0 +1,1 @@
+{"index": 116138, "D": "Compare conversion (def. 13), field goal (def. 1), safety (def. 6), touchdown. ", "S": ["soccer "], "A": []}

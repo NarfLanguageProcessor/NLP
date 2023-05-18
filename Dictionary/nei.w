@@ -1,0 +1,1 @@
+{"index": 198132, "D": [], "S": ["affability ", "agreeability ", "agreeableness ", "amenity ", "amiableness ", "amity ", "benevolence ", "camaraderie ", "comity ", "comradery ", "congeniality ", "congenialness ", "conviviality ", "cordiality ", "cordialness ", "friendliness ", "friendship ", "geniality ", "goodwill ", "kindliness ", "kindness "], "A": []}

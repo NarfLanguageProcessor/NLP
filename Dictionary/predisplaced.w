@@ -1,0 +1,1 @@
+{"index": 247057, "D": "to compel (a person or persons) to leave home, country, etc.", "S": [], "A": []}

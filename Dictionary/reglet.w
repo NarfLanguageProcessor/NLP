@@ -1,0 +1,1 @@
+{"index": 265714, "D": "a narrow, flat molding; fillet.", "S": [], "A": []}

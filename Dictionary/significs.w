@@ -1,0 +1,1 @@
+{"index": 290171, "D": "semantics (def. 2). ", "S": ["connotation ", "definition ", "denotation ", "explanation ", "explication ", "exposition ", "interpretation ", "semiology ", "semiotics ", "symbolism "], "A": []}

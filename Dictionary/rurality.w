@@ -1,0 +1,1 @@
+{"index": 275754, "D": "rural  character.", "S": [], "A": []}

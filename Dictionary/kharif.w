@@ -1,0 +1,1 @@
+{"index": 164257, "D": "(in India) a crop sown in early summer for harvesting in the autumn.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183251, "D": "the first menstrual period; the establishment of menstruation.", "S": [], "A": []}

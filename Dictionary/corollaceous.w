@@ -1,0 +1,1 @@
+{"index": 69411, "D": "of, relating to, or resembling a corolla. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 234930, "D": "a sedimentary rock sufficiently rich in phosphate minerals to be used as a source of phosphorus for fertilizers.", "S": [], "A": []}

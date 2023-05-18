@@ -1,0 +1,1 @@
+{"index": 155632, "D": "a braid, especially of hair or straw.", "S": ["coil ", "enmesh ", "entangle ", "intertwine ", "interweave ", "weave "], "A": ["exclude ", "let go ", "release ", "straighten "]}

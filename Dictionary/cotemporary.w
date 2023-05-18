@@ -1,0 +1,1 @@
+{"index": 70290, "D": "a variant of contemporary", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 129540, "D": "an aphid, Coloradoa rufomaculata, that is an important pest of chrysanthemums.", "S": [], "A": []}

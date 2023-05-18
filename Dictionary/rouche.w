@@ -1,0 +1,1 @@
+{"index": 274733, "D": "a variant spelling of ruche", "S": [], "A": []}

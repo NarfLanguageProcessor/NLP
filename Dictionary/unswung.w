@@ -1,0 +1,1 @@
+{"index": 352607, "D": "simple past tense and past participle of swing1. ", "S": [], "A": []}

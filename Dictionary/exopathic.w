@@ -1,0 +1,1 @@
+{"index": 107405, "D": "noting or pertaining to a disease whose cause is outside the body.", "S": [], "A": []}

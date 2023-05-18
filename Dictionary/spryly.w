@@ -1,0 +1,1 @@
+{"index": 301285, "D": "active; nimble; agile; energetic; brisk.", "S": [], "A": []}

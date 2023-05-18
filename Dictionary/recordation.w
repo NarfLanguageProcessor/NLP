@@ -1,0 +1,1 @@
+{"index": 263493, "D": "the act or process of recording", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148728, "D": "having no placenta,  as a monotreme or marsupial.", "S": [], "A": []}

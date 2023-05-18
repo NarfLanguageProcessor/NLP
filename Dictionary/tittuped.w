@@ -1,0 +1,1 @@
+{"index": 324795, "D": "an exaggerated prancing, bouncing movement or manner of moving.", "S": [], "A": []}

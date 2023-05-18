@@ -1,0 +1,1 @@
+{"index": 113989, "D": "slack or loose, so as to flap readily.", "S": [], "A": []}

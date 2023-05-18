@@ -1,0 +1,1 @@
+{"index": 340369, "D": "characterized or marked by dignity of aspect or manner; stately; decorous", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 22156, "D": "to overwhelm with amazement; astonish greatly; shock with wonder or surprise.", "S": ["agog ", "amazed ", "anxious ", "appalled ", "awestruck ", "dismayed ", "shocked ", "stunned "], "A": ["unsurprised "]}

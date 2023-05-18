@@ -1,0 +1,1 @@
+{"index": 315498, "D": "past participle of take. ", "S": ["appropriated ", "arrested ", "seized "], "A": []}

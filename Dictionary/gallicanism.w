@@ -1,0 +1,1 @@
+{"index": 121368, "D": "the movement or body of doctrines, chiefly associated with the Gallican church, advocating the restriction of papal authority in certain matters.", "S": [], "A": []}

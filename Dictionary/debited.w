@@ -1,0 +1,1 @@
+{"index": 77782, "D": "the recording or an entry of debt in an account.", "S": ["owed ", "owing "], "A": []}

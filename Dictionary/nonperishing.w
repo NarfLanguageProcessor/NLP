@@ -1,0 +1,1 @@
+{"index": 205866, "D": "causing destruction, ruin, extreme discomfort, or death", "S": [], "A": []}

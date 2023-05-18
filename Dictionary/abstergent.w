@@ -1,0 +1,1 @@
+{"index": 1066, "D": "cleansing. ", "S": ["deodorant ", "detergent ", "purifier ", "soap "], "A": []}

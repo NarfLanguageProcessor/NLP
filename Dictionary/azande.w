@@ -1,0 +1,1 @@
+{"index": 25227, "D": "a member of a people of the Congo-Sudan region of central Africa.", "S": [], "A": []}

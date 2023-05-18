@@ -1,0 +1,1 @@
+{"index": 67254, "D": "to hold or include within its volume or area", "S": [], "A": []}

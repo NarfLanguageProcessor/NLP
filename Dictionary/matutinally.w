@@ -1,0 +1,1 @@
+{"index": 181369, "D": "pertaining to or occurring in the morning; early in the day.", "S": [], "A": []}

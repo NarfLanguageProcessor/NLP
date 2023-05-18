@@ -1,0 +1,1 @@
+{"index": 316900, "D": "a cup or small goblet, especially an ornamental one.", "S": ["news service ", "press agency ", "wire service "], "A": []}

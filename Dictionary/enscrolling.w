@@ -1,0 +1,1 @@
+{"index": 100968, "D": "to commemorate or record in a permanent manner, by or as if by inscribing on parchment.", "S": [], "A": []}

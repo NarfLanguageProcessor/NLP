@@ -1,0 +1,1 @@
+{"index": 363870, "D": "to determine or ascertain the force that gravitation exerts upon (a person or thing) by use of a balance, scale, or other mechanical device", "S": ["perceptible ", "quantitative ", "significant "], "A": ["imperceptible ", "insignificant ", "unmeasurable "]}

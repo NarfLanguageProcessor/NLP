@@ -1,0 +1,1 @@
+{"index": 162878, "D": "of, relating to, or created by a kaleidoscope. ", "S": [], "A": []}

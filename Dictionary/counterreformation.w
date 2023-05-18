@@ -1,0 +1,1 @@
+{"index": 71042, "D": "a reformation opposed to or counteracting a previous reformation.", "S": [], "A": []}

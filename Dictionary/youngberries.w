@@ -1,0 +1,1 @@
+{"index": 157732, "D": "a blackberry that is a cultivated variety of Rubus ursinus of the southwestern U.S.", "S": [], "A": []}

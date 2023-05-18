@@ -1,0 +1,1 @@
+{"index": 245436, "D": "to gather or collect, often in gradual degrees; heap up", "S": [], "A": []}

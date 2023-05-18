@@ -1,0 +1,1 @@
+{"index": 94945, "D": "U.S. philanthropist and inventor in the field of photography.", "S": [], "A": []}

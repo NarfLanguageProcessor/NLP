@@ -1,0 +1,1 @@
+{"index": 91207, "D": "a technique for measuring the sensitivity to pain produced by heat rays focused on an area of skin and recorded in dols.", "S": [], "A": []}

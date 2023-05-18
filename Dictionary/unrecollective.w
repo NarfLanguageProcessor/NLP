@@ -1,0 +1,1 @@
+{"index": 349208, "D": "to recall to mind; recover knowledge of by memory; remember.", "S": [], "A": []}

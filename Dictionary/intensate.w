@@ -1,0 +1,1 @@
+{"index": 154362, "D": [], "S": ["aggravate ", "develop ", "enhance ", "expand ", "heighten ", "increase ", "intensify ", "redouble ", "reinforce ", "strengthen "], "A": ["decrease ", "lessen ", "lower ", "soothe ", "subtract ", "weaken ", "decline ", "diminish ", "drop ", "fall ", "slump "]}

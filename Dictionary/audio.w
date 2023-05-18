@@ -1,0 +1,1 @@
+{"index": 23289, "D": "designating an electronic apparatus using audio frequencies", "S": ["audile ", "hearing "], "A": []}

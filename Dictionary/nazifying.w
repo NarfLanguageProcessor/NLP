@@ -1,0 +1,1 @@
+{"index": 197565, "D": "to place under Nazi  control or influence.", "S": [], "A": []}

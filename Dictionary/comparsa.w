@@ -1,0 +1,1 @@
+{"index": 64420, "D": "a song and folk dance of Cuba.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 116327, "D": "any chiefly marine protozoan of the sarcodinian order Foraminifera, typically having a linear, spiral, or concentric shell perforated by small holes or pores through which pseudopodia extend.", "S": [], "A": []}

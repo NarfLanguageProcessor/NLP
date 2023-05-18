@@ -1,0 +1,1 @@
+{"index": 327919, "D": "the act or process of transfusing. ", "S": ["exchange ", "transfer ", "transmission "], "A": []}

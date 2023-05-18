@@ -1,0 +1,1 @@
+{"index": 195234, "D": "relating to television or radio signals that travel by more than one route from a transmitter and arrive at slightly different times, causing ghost images or audio distortion", "S": [], "A": []}

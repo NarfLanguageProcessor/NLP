@@ -1,0 +1,1 @@
+{"index": 308086, "D": "approximately globular.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 341655, "D": "unexciting but likable", "S": ["boring ", "humdrum ", "monotonous ", "prosaic ", "uneventful ", "unimaginative ", "uninspiring ", "uninteresting "], "A": ["creative ", "eventful ", "exciting ", "imaginative ", "interesting ", "lively "]}

@@ -1,0 +1,1 @@
+{"index": 181927, "D": "a compound, C25H27ClN2, used for preventing nausea of motion sickness, pregnancy, etc.", "S": [], "A": []}

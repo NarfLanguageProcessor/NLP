@@ -1,0 +1,1 @@
+{"index": 171527, "D": "a person who is morally or sexually unrestrained, especially a dissolute man; a profligate; rake.", "S": ["freethinking ", "profligate "], "A": ["chaste ", "puritanical "]}

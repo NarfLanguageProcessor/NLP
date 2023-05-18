@@ -1,0 +1,1 @@
+{"index": 125125, "D": "an alcoholic liquor obtained by distilling grain mash with juniper berries.", "S": ["altercation ", "bickering ", "brawl ", "clash ", "controversy ", "debate ", "disagreement ", "dispute ", "exchange ", "feud ", "quarrel ", "squabble "], "A": ["agreement ", "harmony ", "peace ", "calm "]}

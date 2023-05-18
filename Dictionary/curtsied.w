@@ -1,0 +1,1 @@
+{"index": 75530, "D": "a respectful bow made by women and girls, consisting of bending the knees and lowering the body.", "S": ["acknowledge ", "bend ", "bow ", "greet ", "respond ", "salute "], "A": ["differ ", "disagree ", "disallow ", "disapprove ", "dispute ", "dissent ", "object ", "oppose ", "protest ", "refuse ", "reject "]}

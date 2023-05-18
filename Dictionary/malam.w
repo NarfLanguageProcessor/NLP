@@ -1,0 +1,1 @@
+{"index": 178247, "D": "a variant spelling of mallam", "S": [], "A": []}

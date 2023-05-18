@@ -1,0 +1,1 @@
+{"index": 186306, "D": "a motion,  especially a periodic one, of very short duration or length.", "S": [], "A": []}

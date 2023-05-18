@@ -1,0 +1,1 @@
+{"index": 182711, "D": "the condition in human beings of having a high amount of melanin  granules in the skin, hair, and eyes.", "S": [], "A": []}

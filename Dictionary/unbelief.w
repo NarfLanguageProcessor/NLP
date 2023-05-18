@@ -1,0 +1,1 @@
+{"index": 335748, "D": "the state or quality of not believing; incredulity or skepticism, especially in matters of doctrine or religious faith.", "S": ["atheism ", "discredit ", "distrust ", "dubiety ", "incredulity ", "mistrust ", "nihilism ", "rejection ", "repudiation "], "A": ["belief ", "certainty ", "confidence ", "faith ", "ratification ", "trust "]}

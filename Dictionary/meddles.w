@@ -1,0 +1,1 @@
+{"index": 181980, "D": "to involve oneself in a matter without right or invitation; interfere officiously and unwantedly", "S": ["hinder ", "impede ", "impose ", "infringe ", "intrude ", "tamper "], "A": ["aid ", "assist ", "facilitate ", "forward ", "help ", "leave alone ", "retreat ", "yield "]}

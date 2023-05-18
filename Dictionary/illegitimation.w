@@ -1,0 +1,1 @@
+{"index": 147350, "D": "born of parents who are not married to each other; born out of wedlock", "S": ["bastardy "], "A": []}

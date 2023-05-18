@@ -1,0 +1,1 @@
+{"index": 362160, "D": "of or relating to the former SE European principality of Walachia (now part of Romania) or its inhabitants", "S": [], "A": []}

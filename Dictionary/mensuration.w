@@ -1,0 +1,1 @@
+{"index": 183487, "D": "the branch of geometry that deals with the measurement of length, area, or volume.", "S": ["assessment ", "calculation ", "estimate ", "evaluation ", "judgment ", "measure ", "measurement "], "A": ["ignorance "]}

@@ -1,0 +1,1 @@
+{"index": 163941, "D": "the loosening or shedding of the horny layer of the epidermis.", "S": [], "A": []}

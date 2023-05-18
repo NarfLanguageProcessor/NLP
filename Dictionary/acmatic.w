@@ -1,0 +1,1 @@
+{"index": 2587, "D": "the highest point; summit; peak", "S": [], "A": []}

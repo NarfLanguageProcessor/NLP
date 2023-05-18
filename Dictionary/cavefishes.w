@@ -1,0 +1,1 @@
+{"index": 50180, "D": "any of several fishes  that live in cave  waters, as species of the genus Amblyopsis, having no body pigment and rudimentary, functionless eyes.", "S": [], "A": []}

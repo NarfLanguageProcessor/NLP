@@ -1,0 +1,1 @@
+{"index": 319002, "D": "stretching or straining.", "S": [], "A": []}

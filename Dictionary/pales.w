@@ -1,0 +1,1 @@
+{"index": 223809, "D": "lacking the usual intensity of color due to fear, illness, stress, etc.", "S": ["blanch ", "decrease ", "dim ", "diminish ", "dull ", "fade ", "faint ", "lessen ", "muddy ", "tarnish ", "whiten "], "A": ["brighten ", "develop ", "enlarge ", "expand ", "extend ", "grow ", "increase ", "raise ", "strengthen "]}

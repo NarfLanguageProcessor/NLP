@@ -1,0 +1,1 @@
+{"index": 285306, "D": "a flat, braided cordage, formed by plaiting strands of rope yarn or other fiber, used as small stuff aboard ships.", "S": [], "A": []}

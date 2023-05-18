@@ -1,0 +1,1 @@
+{"index": 118043, "D": "a small fovea; a very small pit or depression.", "S": [], "A": []}

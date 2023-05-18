@@ -1,0 +1,1 @@
+{"index": 349676, "D": "revoked, repealed, or canceled, sometimes because invalidated by later action or a higher authority", "S": [], "A": []}

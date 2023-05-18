@@ -1,0 +1,1 @@
+{"index": 301892, "D": "(of an electronic circuit or component) to produce an output that oscillates between a certain maximum and zero, especially when due to the effect of a grid.", "S": [], "A": []}

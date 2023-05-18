@@ -1,0 +1,1 @@
+{"index": 321743, "D": "given to stealing other people's possessions", "S": ["crooked ", "cunning ", "larcenous ", "pilfering "], "A": ["benevolent ", "philanthropic "]}

@@ -1,0 +1,1 @@
+{"index": 363625, "D": "able to withstand exposure to all kinds of weather. ", "S": [], "A": []}

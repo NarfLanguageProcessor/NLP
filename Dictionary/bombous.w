@@ -1,0 +1,1 @@
+{"index": 37749, "D": "convex; spherical.", "S": [], "A": []}

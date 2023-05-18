@@ -1,0 +1,1 @@
+{"index": 14854, "D": "a centralizing system; centralization.", "S": [], "A": []}

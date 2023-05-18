@@ -1,0 +1,1 @@
+{"index": 275096, "D": [], "S": ["adaptability ", "flexibility ", "resilience "], "A": ["rigidity "]}

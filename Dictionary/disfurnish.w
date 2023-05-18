@@ -1,0 +1,1 @@
+{"index": 88115, "D": "to deprive of something with which a person or thing is furnished; divest of possessions; strip.", "S": [], "A": []}

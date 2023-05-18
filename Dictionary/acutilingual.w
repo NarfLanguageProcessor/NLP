@@ -1,0 +1,1 @@
+{"index": 3385, "D": "having a sharply pointed tongue or mouth, as certain bees.", "S": [], "A": []}

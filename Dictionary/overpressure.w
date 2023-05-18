@@ -1,0 +1,1 @@
+{"index": 220624, "D": "pressure  in excess of normal atmospheric pressure,  as that caused by an explosion's shock wave or created in an accelerating airplane.", "S": [], "A": []}

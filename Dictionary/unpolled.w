@@ -1,0 +1,1 @@
+{"index": 348140, "D": "not registered, cast, or counted at the polls", "S": [], "A": []}

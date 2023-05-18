@@ -1,0 +1,1 @@
+{"index": 154320, "D": "given to or characterized by excessive or immoderate indulgence in alcoholic beverages.", "S": ["extravagance ", "kindness ", "leniency ", "permissiveness ", "privilege "], "A": ["disapproval ", "disfavor ", "disregard ", "dissatisfaction ", "frustration ", "intolerance ", "need ", "want "]}

@@ -1,0 +1,1 @@
+{"index": 169780, "D": "a hard, chewy or brittle Christmas cookie, usually flavored with honey and spices and containing nuts and citron.", "S": [], "A": []}

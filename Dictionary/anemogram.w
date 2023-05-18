@@ -1,0 +1,1 @@
+{"index": 12509, "D": "an anemographic record.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288435, "D": "a person who commands a ship; master; captain.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 75366, "D": "a piece of paper  on which a lock of hair is rolled up tightly, to remain until the hair is fixed in a curl. ", "S": [], "A": []}

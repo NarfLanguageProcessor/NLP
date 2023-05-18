@@ -1,0 +1,1 @@
+{"index": 242439, "D": "a complex of ribosomes  strung along a single strand of messenger RNA that translates the genetic information coded in the messenger RNA during protein synthesis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246605, "D": "to prepare and work on (land) in order to raise crops; till.", "S": [], "A": []}

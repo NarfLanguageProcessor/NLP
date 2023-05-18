@@ -1,0 +1,1 @@
+{"index": 65238, "D": "pertaining to concession;  of the nature of a concession", "S": [], "A": []}

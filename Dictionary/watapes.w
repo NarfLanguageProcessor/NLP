@@ -1,0 +1,1 @@
+{"index": 363043, "D": "a thread made by North American Indians from the divided roots of certain conifers and used in weaving and sewing.", "S": [], "A": []}

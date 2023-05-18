@@ -1,0 +1,1 @@
+{"index": 155220, "D": "of or relating to a lobe,  as of the lungs.", "S": [], "A": []}

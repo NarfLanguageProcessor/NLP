@@ -1,0 +1,1 @@
+{"index": 350765, "D": "a person given to the indulgence of the senses or appetites.", "S": [], "A": []}

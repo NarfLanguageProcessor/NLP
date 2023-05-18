@@ -1,0 +1,1 @@
+{"index": 223183, "D": "an artist who paints  pictures.", "S": ["dauber "], "A": []}

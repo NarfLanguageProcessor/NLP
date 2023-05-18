@@ -1,0 +1,1 @@
+{"index": 167720, "D": "formed of or set in thin layers or laminae.", "S": ["covered ", "layered ", "stratified "], "A": []}

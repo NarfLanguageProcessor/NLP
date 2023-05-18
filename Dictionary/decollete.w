@@ -1,0 +1,1 @@
+{"index": 78559, "D": "(of a garment) low-necked.", "S": ["low-necked ", "plunging "], "A": []}

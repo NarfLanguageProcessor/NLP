@@ -1,0 +1,1 @@
+{"index": 61237, "D": "a flat-bottomed fishing boat with a lugsail, used mainly in northern England and Scotland for salmon.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 2256, "D": "to bring to a successful end; carry through; accomplish", "S": ["motivator "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 319960, "D": "a diatonic series of four tones, the first and last separated by a perfect fourth.", "S": [], "A": []}

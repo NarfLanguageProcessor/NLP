@@ -1,0 +1,1 @@
+{"index": 141314, "D": "lifelike description of a thing or scene.", "S": [], "A": []}

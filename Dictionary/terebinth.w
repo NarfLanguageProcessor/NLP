@@ -1,0 +1,1 @@
+{"index": 319260, "D": "a Mediterranean tree, Pistacia terebinthus, of the cashew family, yielding Chian turpentine.", "S": [], "A": []}

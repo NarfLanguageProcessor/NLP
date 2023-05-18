@@ -1,0 +1,1 @@
+{"index": 80029, "D": "pertaining to Delos.", "S": [], "A": []}

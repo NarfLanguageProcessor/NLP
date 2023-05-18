@@ -1,0 +1,1 @@
+{"index": 106471, "D": "a model or pattern to be copied or imitated", "S": [], "A": []}

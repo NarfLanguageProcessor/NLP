@@ -1,0 +1,1 @@
+{"index": 245059, "D": " a leaflet included with a prescription medication indicating its proper use.", "S": [], "A": []}

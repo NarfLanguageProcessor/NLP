@@ -1,0 +1,1 @@
+{"index": 28667, "D": "the bottom support of anything; that on which a thing stands or rests", "S": ["depend ", "establish ", "found ", "locate ", "set up ", "station ", "stay "], "A": ["destroy ", "end ", "leave ", "move "]}

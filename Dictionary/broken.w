@@ -1,0 +1,1 @@
+{"index": 41195, "D": "past participle of break. ", "S": ["busted ", "collapsed ", "cracked ", "crippled ", "crumbled ", "crushed ", "damaged ", "defective ", "demolished ", "fractured ", "fragmented ", "injured ", "mangled ", "mutilated ", "ruptured ", "severed ", "shattered ", "smashed "], "A": ["perfect ", "unbroken "]}

@@ -1,0 +1,1 @@
+{"index": 62485, "D": "by a coincidence; fortuitously", "S": ["accordingly ", "collectively ", "cooperatively ", "in tandem ", "mutually ", "simultaneously ", "together ", "unitedly "], "A": ["singly "]}

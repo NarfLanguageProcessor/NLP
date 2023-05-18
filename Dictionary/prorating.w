@@ -1,0 +1,1 @@
+{"index": 252904, "D": "to make an arrangement on a basis of proportional distribution.", "S": ["allot ", "apportion ", "distribute ", "divide "], "A": ["collect ", "gather ", "hold ", "keep ", "maintain ", "retain ", "withhold "]}

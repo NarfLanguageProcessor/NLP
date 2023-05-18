@@ -1,0 +1,1 @@
+{"index": 239897, "D": "the recording of a plethysmograph. ", "S": [], "A": []}

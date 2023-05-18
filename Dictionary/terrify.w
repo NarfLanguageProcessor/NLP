@@ -1,0 +1,1 @@
+{"index": 319576, "D": "to fill with terror  or alarm; make greatly afraid.", "S": ["alarm ", "appall ", "awe ", "dismay ", "frighten ", "horrify ", "intimidate ", "petrify ", "shock ", "startle ", "stun ", "terrorize "], "A": ["assure ", "calm ", "comfort ", "encourage ", "expect ", "gladden ", "help ", "make happy ", "please ", "soothe ", "heat ", "incite "]}

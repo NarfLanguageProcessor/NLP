@@ -1,0 +1,1 @@
+{"index": 123373, "D": "(in Anglo-Saxon England) a legislative or judicial assembly.", "S": [], "A": []}

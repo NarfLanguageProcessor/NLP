@@ -1,0 +1,1 @@
+{"index": 225690, "D": "of or relating to paralanguage or paralinguistics.", "S": [], "A": []}

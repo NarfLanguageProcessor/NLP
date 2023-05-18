@@ -1,0 +1,1 @@
+{"index": 368068, "D": "twisting about or squirming, as from pain, violent effort, uncontrolled passion, etc.", "S": [], "A": []}

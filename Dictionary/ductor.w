@@ -1,0 +1,1 @@
+{"index": 93799, "D": "the roller that conveys ink in a press from the ink reservoir to the distributor.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 283678, "D": "(of a plant) producing flowers and fruit only once before dying", "S": [], "A": []}

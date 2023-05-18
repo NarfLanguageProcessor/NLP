@@ -1,0 +1,1 @@
+{"index": 339517, "D": "to deprive of or fail to provide with nutrients essential for health and growth", "S": [], "A": []}

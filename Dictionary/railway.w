@@ -1,0 +1,1 @@
+{"index": 260059, "D": "a rail  line with lighter-weight equipment and roadbed than a main-line railroad. ", "S": ["line ", "rail line ", "track "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 251791, "D": "utterly and shamelessly immoral or dissipated; thoroughly dissolute.", "S": ["promiscuous "], "A": ["gentle ", "moral "]}

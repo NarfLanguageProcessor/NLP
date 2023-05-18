@@ -1,0 +1,1 @@
+{"index": 191069, "D": "within reasonable or proper limits; in a way that is not excessive", "S": ["a little ", "fairly ", "quite ", "rather ", "reasonably ", "slightly ", "somewhat "], "A": ["immoderately ", "unlimitedly "]}

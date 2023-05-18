@@ -1,0 +1,1 @@
+{"index": 345182, "D": "to congeal; become jellylike in consistency.", "S": [], "A": []}

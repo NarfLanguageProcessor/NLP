@@ -1,0 +1,1 @@
+{"index": 56968, "D": "a permanent canopy placed over an altar; baldachin.", "S": [], "A": []}

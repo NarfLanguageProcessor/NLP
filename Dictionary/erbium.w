@@ -1,0 +1,1 @@
+{"index": 103510, "D": "a rare-earth metallic element, having pink salts. Symbol", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 250374, "D": "full of or armed with prickles. ", "S": ["complicated ", "knotty ", "nettlesome ", "ticklish ", "tricky "], "A": ["easy ", "simple ", "uncomplicated "]}

@@ -1,0 +1,1 @@
+{"index": 116282, "D": "to bungle;  play clumsily", "S": [], "A": []}

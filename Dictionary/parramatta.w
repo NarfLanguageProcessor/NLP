@@ -1,0 +1,1 @@
+{"index": 226823, "D": "a variant spelling of paramatta", "S": [], "A": []}

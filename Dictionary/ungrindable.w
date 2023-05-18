@@ -1,0 +1,1 @@
+{"index": 343292, "D": "to wear, smooth, or sharpen by abrasion or friction; whet", "S": [], "A": []}

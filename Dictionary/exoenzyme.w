@@ -1,0 +1,1 @@
+{"index": 107349, "D": "an enzyme,  as pepsin, that functions outside the cell producing it.", "S": [], "A": []}

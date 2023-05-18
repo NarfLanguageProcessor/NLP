@@ -1,0 +1,1 @@
+{"index": 174443, "D": "a small compartment or chamber, as the pollen-containing cavity within an anther.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308091, "D": "globe-shaped; spherical.", "S": [], "A": []}

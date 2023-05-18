@@ -1,0 +1,1 @@
+{"index": 108418, "D": "unusually heavy boldface type.", "S": [], "A": []}

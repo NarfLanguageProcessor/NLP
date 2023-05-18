@@ -1,0 +1,1 @@
+{"index": 148027, "D": "a political policy characterized by inertia and antipathy to change", "S": [], "A": []}

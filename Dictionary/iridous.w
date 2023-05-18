@@ -1,0 +1,1 @@
+{"index": 158007, "D": "containing trivalent iridium.", "S": [], "A": []}

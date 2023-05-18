@@ -1,0 +1,1 @@
+{"index": 148471, "D": "of, relating to, or characteristic of the grammatical imperative. ", "S": [], "A": []}

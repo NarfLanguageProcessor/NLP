@@ -1,0 +1,1 @@
+{"index": 191563, "D": "gun moll. ", "S": ["bawd ", "betrayer ", "cheater ", "courtesan ", "deceiver ", "gigolo ", "harlot ", "hustler ", "seducer ", "streetwalker ", "strumpet ", "tart ", "whore "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 178516, "D": "Compare shopping center. ", "S": ["market ", "plaza ", "shopping center ", "shopping mall "], "A": []}

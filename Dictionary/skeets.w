@@ -1,0 +1,1 @@
+{"index": 292895, "D": "a form of trapshooting in which two traps are used and targets are hurled singly or in pairs at varying elevations and speeds so as to simulate the angles of flight taken by game birds.", "S": ["bird ", "clay disk "], "A": []}

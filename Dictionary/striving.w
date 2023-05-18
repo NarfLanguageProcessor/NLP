@@ -1,0 +1,1 @@
+{"index": 306407, "D": "the act or practice of trying hard to do, reach, or achieve something; vigorous effort", "S": ["conation ", "conatus "], "A": []}

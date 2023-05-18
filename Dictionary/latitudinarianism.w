@@ -1,0 +1,1 @@
+{"index": 169019, "D": "allowing or characterized by latitude  in opinion or conduct, especially in religious views.", "S": [], "A": []}

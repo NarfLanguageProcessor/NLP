@@ -1,0 +1,1 @@
+{"index": 333680, "D": "freedom; independence.", "S": [], "A": []}

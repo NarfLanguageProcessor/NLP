@@ -1,0 +1,1 @@
+{"index": 96373, "D": "a device for applying eyewash to the eye,  consisting of a cup  or glass with a rim shaped to fit snugly around the orbit of the eye. ", "S": [], "A": []}

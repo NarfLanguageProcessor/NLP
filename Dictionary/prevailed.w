@@ -1,0 +1,1 @@
+{"index": 250105, "D": "to be widespread or current; exist everywhere or generally", "S": ["abound ", "beat ", "overcome ", "prove ", "reign ", "succeed ", "triumph ", "win "], "A": ["fail ", "forfeit ", "lose ", "surrender ", "follow ", "give up ", "yield "]}

@@ -1,0 +1,1 @@
+{"index": 225649, "D": "of or relating to Paraguay or its inhabitants", "S": [], "A": []}

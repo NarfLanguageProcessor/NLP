@@ -1,0 +1,1 @@
+{"index": 46235, "D": "the wick of a candle.", "S": [], "A": []}

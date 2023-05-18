@@ -1,0 +1,1 @@
+{"index": 222680, "D": "Egyptian ascetic", "S": [], "A": []}

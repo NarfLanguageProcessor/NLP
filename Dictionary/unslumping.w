@@ -1,0 +1,1 @@
+{"index": 351394, "D": "to drop or fall heavily; collapse", "S": [], "A": []}

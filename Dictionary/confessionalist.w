@@ -1,0 +1,1 @@
+{"index": 65860, "D": "a person who confesses in or as if in a confessional. ", "S": [], "A": []}

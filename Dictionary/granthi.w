@@ -1,0 +1,1 @@
+{"index": 128979, "D": "the caretaker of a gurdwara and the reader of the Guru Granth, who officiates at Sikh ceremonies", "S": [], "A": []}

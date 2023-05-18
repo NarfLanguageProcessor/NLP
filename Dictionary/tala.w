@@ -1,0 +1,1 @@
+{"index": 315528, "D": "a repeated rhythmic pattern of stressed and unstressed beats played on a percussion instrument in Indian music.", "S": [], "A": []}

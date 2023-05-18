@@ -1,0 +1,1 @@
+{"index": 320402, "D": "the visual and especially tactile quality of a surface", "S": ["balance ", "character ", "composition ", "consistency ", "fabric ", "feeling ", "makeup ", "nature ", "pattern ", "quality ", "sense ", "smoothness ", "structure ", "surface ", "taste ", "touch "], "A": ["lot ", "disarrangement ", "disorganization ", "politeness "]}

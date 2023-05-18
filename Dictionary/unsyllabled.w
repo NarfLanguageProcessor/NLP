@@ -1,0 +1,1 @@
+{"index": 351148, "D": "an uninterrupted segment of speech consisting of a vowel sound, a diphthong, or a syllabic  consonant, with or without preceding or following consonant sounds", "S": [], "A": []}

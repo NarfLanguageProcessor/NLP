@@ -1,0 +1,1 @@
+{"index": 192870, "D": "pertaining to, growing in, or inhabiting mountainous regions.", "S": ["aerial ", "elevated ", "high ", "high-reaching ", "in the clouds ", "lofty ", "mountainous ", "rangy ", "snowcapped ", "soaring ", "towering "], "A": []}

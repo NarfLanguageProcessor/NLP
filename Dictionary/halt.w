@@ -1,0 +1,1 @@
+{"index": 132858, "D": "to stop; cease moving, operating, etc., either permanently or temporarily", "S": ["cutoff ", "freeze ", "interruption ", "layoff ", "letup ", "pause ", "postponement ", "standstill ", "termination "], "A": ["continuation ", "beginning ", "start "]}

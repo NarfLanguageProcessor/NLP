@@ -1,0 +1,1 @@
+{"index": 34763, "D": [], "S": ["crazy ", "eccentric ", "goofy ", "nutty ", "odd ", "unconventional ", "wacky ", "whacky "], "A": ["sane "]}

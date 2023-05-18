@@ -1,0 +1,1 @@
+{"index": 40802, "D": "an oily preparation used to make the hair lustrous.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 132168, "D": "the underground Jewish militia in Palestine (1920\u201348) that became the national army of Israel after the partition of Palestine in 1948.", "S": [], "A": []}

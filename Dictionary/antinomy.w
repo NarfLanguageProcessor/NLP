@@ -1,0 +1,1 @@
+{"index": 15698, "D": "opposition between one law, principle, rule, etc., and another.", "S": ["action ", "hostility ", "resistance ", "struggle "], "A": ["accord ", "affection ", "agreement ", "calm ", "harmony ", "kindness ", "liking ", "love ", "obedience ", "peace ", "retreat ", "surrender ", "sympathy ", "yielding "]}

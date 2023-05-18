@@ -1,0 +1,1 @@
+{"index": 298157, "D": "the unlimited or incalculably great three-dimensional realm or expanse in which all material objects are located and all events occur.", "S": ["area ", "arena ", "capacity ", "distance ", "field ", "location ", "slot ", "spot ", "territory ", "zone "], "A": ["extreme ", "limitation ", "stagnation "]}

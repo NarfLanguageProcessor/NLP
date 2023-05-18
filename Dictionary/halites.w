@@ -1,0 +1,1 @@
+{"index": 132680, "D": "a soft white or colorless mineral, sodium chloride, NaCl, occurring in cubic crystals with perfect cleavage; rock salt.", "S": [], "A": []}

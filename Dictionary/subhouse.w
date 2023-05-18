@@ -1,0 +1,1 @@
+{"index": 308161, "D": "a building in which people live; residence for human beings.", "S": [], "A": []}

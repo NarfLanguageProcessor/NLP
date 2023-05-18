@@ -1,0 +1,1 @@
+{"index": 2197, "D": "inability of a circular muscle, especially of the esophagus or rectum, to relax, resulting in widening of the structure above the muscular constriction.", "S": [], "A": []}

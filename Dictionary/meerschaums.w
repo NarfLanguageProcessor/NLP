@@ -1,0 +1,1 @@
+{"index": 182298, "D": "a mineral, hydrous magnesium silicate, H4Mg2Si3O10, occurring in white, claylike masses, used for ornamental carvings, for pipe bowls, etc.; sepiolite.", "S": [], "A": []}

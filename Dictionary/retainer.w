@@ -1,0 +1,1 @@
+{"index": 270269, "D": "a person or thing that retains.", "S": ["adherents ", "appliance ", "attendant ", "clique ", "company ", "cortege ", "crew ", "employee ", "entourage ", "fee ", "followers ", "gang ", "minion ", "retinue ", "servant ", "train "], "A": []}

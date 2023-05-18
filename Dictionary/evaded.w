@@ -1,0 +1,1 @@
+{"index": 105941, "D": "to escape from by trickery or cleverness", "S": ["decayed ", "deserted ", "ignored ", "overlooked ", "spurned ", "undervalued ", "unused ", "unwanted "], "A": ["cared for ", "considered ", "heeded ", "used "]}

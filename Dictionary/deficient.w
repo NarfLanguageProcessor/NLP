@@ -1,0 +1,1 @@
+{"index": 79280, "D": "lacking some element or characteristic; defective", "S": ["defective ", "faulty ", "flawed ", "impaired ", "incomplete ", "inferior ", "insufficient ", "lacking ", "scarce ", "skimpy ", "unsatisfactory ", "weak "], "A": ["abundant ", "adequate ", "enough ", "perfect ", "strong ", "sufficient "]}

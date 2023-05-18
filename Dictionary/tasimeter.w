@@ -1,0 +1,1 @@
+{"index": 316877, "D": "a device for measuring small temperature changes. It depends on the changes of pressure resulting from expanding or contracting solids", "S": [], "A": []}

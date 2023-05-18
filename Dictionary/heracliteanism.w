@@ -1,0 +1,1 @@
+{"index": 136859, "D": "the philosophy of Heraclitus, maintaining the perpetual change of all things, the only abiding thing being the logos, or orderly principle, according to which the change takes place.", "S": [], "A": []}

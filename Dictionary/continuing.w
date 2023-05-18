@@ -1,0 +1,1 @@
+{"index": 67493, "D": "to go on after suspension or interruption", "S": ["chronic ", "enduring ", "lasting "], "A": ["temporary "]}

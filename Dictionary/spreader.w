@@ -1,0 +1,1 @@
+{"index": 301221, "D": "a person or thing that spreads. ", "S": [], "A": []}

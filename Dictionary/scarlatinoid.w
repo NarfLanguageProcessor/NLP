@@ -1,0 +1,1 @@
+{"index": 279778, "D": "resembling scarlatina  or its eruptions.", "S": [], "A": []}

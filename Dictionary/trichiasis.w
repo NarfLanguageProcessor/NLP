@@ -1,0 +1,1 @@
+{"index": 329346, "D": "a condition in which the eyelashes grow inwardly.", "S": [], "A": []}

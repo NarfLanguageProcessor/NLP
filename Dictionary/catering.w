@@ -1,0 +1,1 @@
+{"index": 49590, "D": "the trade of a professional caterer", "S": ["arrangement ", "plan "], "A": ["removal ", "taking "]}

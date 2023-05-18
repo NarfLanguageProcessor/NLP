@@ -1,0 +1,1 @@
+{"index": 160235, "D": "of or relating to the island of Jamaica  or its inhabitants.", "S": [], "A": []}

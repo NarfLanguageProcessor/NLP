@@ -1,0 +1,1 @@
+{"index": 180223, "D": "small stuff of two-fiber strands, sometimes tarred, laid up left-handed.", "S": [], "A": []}

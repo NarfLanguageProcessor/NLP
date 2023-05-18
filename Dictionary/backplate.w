@@ -1,0 +1,1 @@
+{"index": 25868, "D": "a wood or metal plate  serving as a backing  for a structural member.", "S": [], "A": []}

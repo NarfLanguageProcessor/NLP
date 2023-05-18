@@ -1,0 +1,1 @@
+{"index": 104442, "D": "adoption or advocacy, as of a cause or principle.", "S": ["banns ", "betrothal ", "bridal ", "marriage ", "matrimony ", "nuptials ", "troth "], "A": ["divorce "]}

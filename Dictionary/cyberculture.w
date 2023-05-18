@@ -1,0 +1,1 @@
+{"index": 56942, "D": "a unique set of habits, values, and other elements of culture  that have evolved from the use of computers and the internet.", "S": [], "A": []}

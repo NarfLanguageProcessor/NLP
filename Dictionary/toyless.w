@@ -1,0 +1,1 @@
+{"index": 325142, "D": "an object, often a small representation of something familiar, as an animal or person, for children or others to play with; plaything.", "S": [], "A": []}

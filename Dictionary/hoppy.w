@@ -1,0 +1,1 @@
+{"index": 143725, "D": "(of beer or ale) tasting strongly of hops. ", "S": [], "A": []}

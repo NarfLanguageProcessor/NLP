@@ -1,0 +1,1 @@
+{"index": 256700, "D": "(especially in India) a fan, especially a large, swinging, screenlike fan hung from the ceiling and moved by a servant or by machinery.", "S": [], "A": []}

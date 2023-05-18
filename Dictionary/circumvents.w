@@ -1,0 +1,1 @@
+{"index": 58286, "D": "to go around or bypass", "S": ["avoid ", "bypass ", "deceive ", "evade ", "prevent ", "sidestep ", "skirt ", "stymie ", "thwart "], "A": ["aid ", "assist ", "encourage ", "face ", "help ", "meet ", "take on ", "confront ", "encounter ", "free ", "let go ", "liberate ", "release "]}

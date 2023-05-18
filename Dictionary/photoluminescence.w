@@ -1,0 +1,1 @@
+{"index": 235223, "D": "luminescence  induced by the absorption of infrared radiation, visible light, or ultraviolet radiation.", "S": [], "A": []}

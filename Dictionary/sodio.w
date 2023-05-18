@@ -1,0 +1,1 @@
+{"index": 296294, "D": "(in organic chemistry) a combining form representing sodium  in compound words", "S": [], "A": []}

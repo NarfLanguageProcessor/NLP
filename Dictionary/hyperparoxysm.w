@@ -1,0 +1,1 @@
+{"index": 140382, "D": "any sudden, uncontrollable outburst; a fit of emotion or action", "S": [], "A": []}

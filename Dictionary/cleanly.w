@@ -1,0 +1,1 @@
+{"index": 59626, "D": "personally neat; careful to keep or make clean", "S": ["clean ", "spotless ", "tidy "], "A": []}

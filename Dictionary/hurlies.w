@@ -1,0 +1,1 @@
+{"index": 145241, "D": "the game of hurling.", "S": ["bandy ", "banty ", "hurling ", "shinny ", "shinty ", "street hockey "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62125, "D": "any of various organic or inorganic substances necessary to the function of an enzyme.", "S": [], "A": []}

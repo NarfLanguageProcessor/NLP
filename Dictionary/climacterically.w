@@ -1,0 +1,1 @@
+{"index": 59955, "D": "a period of decrease of reproductive capacity in men and women, culminating, in women, in the menopause.", "S": [], "A": []}

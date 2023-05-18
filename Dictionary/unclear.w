@@ -1,0 +1,1 @@
+{"index": 337014, "D": "not clear or definite; ambiguous", "S": ["ambiguous ", "confused ", "fuzzy ", "hazy ", "imprecise ", "obscure ", "uncertain ", "unsettled ", "unsure ", "vague "], "A": ["certain ", "clear ", "definite ", "explicit ", "secure ", "sure "]}

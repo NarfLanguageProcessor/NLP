@@ -1,0 +1,1 @@
+{"index": 293304, "D": "able to be skipped,  omitted, or passed over without loss; unimportant.", "S": [], "A": []}

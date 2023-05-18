@@ -1,0 +1,1 @@
+{"index": 310637, "D": "a compound of sulphur with a more electropositive element", "S": [], "A": []}

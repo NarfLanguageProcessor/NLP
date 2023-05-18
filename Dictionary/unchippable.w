@@ -1,0 +1,1 @@
+{"index": 336820, "D": "a small, slender piece, as of wood, separated by chopping, cutting, or breaking.", "S": [], "A": []}

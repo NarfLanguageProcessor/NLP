@@ -1,0 +1,1 @@
+{"index": 115510, "D": "a light, brief shower of snow.", "S": ["furor ", "outbreak ", "spurt ", "squall ", "turmoil ", "whirl ", "whirlwind "], "A": ["calm ", "peace ", "calmness ", "delay ", "order ", "rest ", "slowness ", "tranquility "]}

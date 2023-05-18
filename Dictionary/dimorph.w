@@ -1,0 +1,1 @@
+{"index": 85958, "D": "either of the two forms assumed by a mineral or other chemical substance exhibiting dimorphism. ", "S": [], "A": []}

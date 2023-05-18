@@ -1,0 +1,1 @@
+{"index": 219486, "D": "the kind of action or activity proper to a person, thing, or institution; the purpose for which something is designed or exists; role.", "S": [], "A": []}

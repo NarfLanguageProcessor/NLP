@@ -1,0 +1,1 @@
+{"index": 74750, "D": "a gutter, as at the eaves of a roof.", "S": [], "A": []}

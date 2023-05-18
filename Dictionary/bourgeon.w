@@ -1,0 +1,1 @@
+{"index": 39028, "D": "a variant spelling of burgeon", "S": [], "A": []}

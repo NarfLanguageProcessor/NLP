@@ -1,0 +1,1 @@
+{"index": 354567, "D": "to vomit.", "S": ["regurgitate "], "A": []}

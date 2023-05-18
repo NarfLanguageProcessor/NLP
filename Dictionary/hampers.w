@@ -1,0 +1,1 @@
+{"index": 133046, "D": "to hold back; hinder; impede", "S": ["bassinet ", "carton ", "crate ", "creel ", "pannier "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 248222, "D": "preceding and leading up to the main part, matter, or business; introductory; preparatory", "S": [], "A": []}

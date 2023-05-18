@@ -1,0 +1,1 @@
+{"index": 197244, "D": "Bartholomew (def. 1). ", "S": [], "A": []}

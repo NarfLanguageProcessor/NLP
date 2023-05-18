@@ -1,0 +1,1 @@
+{"index": 108067, "D": "the act of expunging;  erasure.", "S": ["cancellation ", "deletion ", "expunging "], "A": []}

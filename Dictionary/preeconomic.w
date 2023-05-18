@@ -1,0 +1,1 @@
+{"index": 247178, "D": "pertaining to the production, distribution, and use of income, wealth, and commodities.", "S": [], "A": []}

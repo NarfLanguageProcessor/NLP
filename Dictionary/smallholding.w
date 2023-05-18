@@ -1,0 +1,1 @@
+{"index": 294687, "D": "a piece of land rented or sold to a farmer by county authorities for purposes of cultivation.", "S": [], "A": []}

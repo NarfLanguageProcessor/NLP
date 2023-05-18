@@ -1,0 +1,1 @@
+{"index": 221062, "D": "earnest or sincere character or attitude", "S": [], "A": []}

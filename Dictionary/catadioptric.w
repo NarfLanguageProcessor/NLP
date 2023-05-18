@@ -1,0 +1,1 @@
+{"index": 49218, "D": "pertaining to or produced by both reflection and refraction.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 319779, "D": "Compare ovary (def. 1). ", "S": [], "A": []}

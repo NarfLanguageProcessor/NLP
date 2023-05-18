@@ -1,0 +1,1 @@
+{"index": 85296, "D": "a person or thing that differentiates. ", "S": [], "A": []}

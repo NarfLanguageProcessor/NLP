@@ -1,0 +1,1 @@
+{"index": 298692, "D": "a person who speaks. ", "S": [], "A": []}

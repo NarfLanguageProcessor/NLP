@@ -1,0 +1,1 @@
+{"index": 195528, "D": "to chew with steady or vigorous working of the jaws, often audibly.", "S": ["biting ", "cropping ", "eating ", "feeding ", "foraging ", "gnawing ", "masticating ", "nibbling ", "pasturing ", "ruminating ", "uprooting "], "A": []}

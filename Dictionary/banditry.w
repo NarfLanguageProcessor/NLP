@@ -1,0 +1,1 @@
+{"index": 27339, "D": "the activities or practices of bandits. ", "S": ["armed robbery ", "gouge ", "holdup ", "ripoff "], "A": []}

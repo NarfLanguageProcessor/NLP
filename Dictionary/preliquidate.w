@@ -1,0 +1,1 @@
+{"index": 248236, "D": "to settle or pay (a debt)", "S": [], "A": []}

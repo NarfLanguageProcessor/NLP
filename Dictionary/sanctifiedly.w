@@ -1,0 +1,1 @@
+{"index": 277659, "D": "made holy; consecrated", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 295169, "D": "South African statesman and general", "S": ["erotica ", "filth ", "obscenity "], "A": ["purity "]}

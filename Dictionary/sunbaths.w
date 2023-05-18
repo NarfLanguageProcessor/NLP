@@ -1,0 +1,1 @@
+{"index": 311031, "D": "deliberate exposure of the body to the direct rays of the sun  or a sunlamp.", "S": [], "A": []}

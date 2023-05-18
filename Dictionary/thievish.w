@@ -1,0 +1,1 @@
+{"index": 321745, "D": "given to thieving.", "S": ["crooked ", "cunning ", "dishonest ", "fraudulent ", "furtive ", "kleptomaniacal ", "larcenous ", "light-fingered ", "pilfering ", "piratic ", "plunderous ", "predatory ", "rapacious ", "secretive ", "sly ", "spoliative ", "stealing ", "stealthy ", "sticky-fingered "], "A": []}

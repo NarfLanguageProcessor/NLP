@@ -1,0 +1,1 @@
+{"index": 3867, "D": "to take or let in; admit.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 112769, "D": "a long, hairlike pseudopod composed of ectoplasm.", "S": [], "A": []}

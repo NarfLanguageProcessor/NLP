@@ -1,0 +1,1 @@
+{"index": 321350, "D": "(in the French Revolutionary calendar) the 11th month of the year, extending from July 19 to August 17.", "S": [], "A": []}

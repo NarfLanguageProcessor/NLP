@@ -1,0 +1,1 @@
+{"index": 221227, "D": "the act or process of becoming a hard or compact mass, or of changing from a liquid or gaseous state to a solid state", "S": [], "A": []}

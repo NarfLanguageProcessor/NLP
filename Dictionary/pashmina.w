@@ -1,0 +1,1 @@
+{"index": 227218, "D": "a fabric or garment made from pashm,  especially a shawl, wrap, or scarf.", "S": [], "A": []}

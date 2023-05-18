@@ -1,0 +1,1 @@
+{"index": 216679, "D": "an aggregation of bubbles, as on an agitated liquid or at the mouth of a hard-driven horse; foam; spume.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 17548, "D": "one of a hardy breed of riding horses, developed in the North American West, having a mottled hide, vertically striped hoofs, and eyes that show a relatively large proportion of white.", "S": [], "A": []}

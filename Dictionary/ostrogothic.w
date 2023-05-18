@@ -1,0 +1,1 @@
+{"index": 215797, "D": "a member of the easterly division of the Goths, maintaining a monarchy in Italy, a.d. 493\u2013555.", "S": [], "A": []}

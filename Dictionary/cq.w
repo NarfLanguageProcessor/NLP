@@ -1,0 +1,1 @@
+{"index": 71769, "D": "a signal sent at the beginning of radiograms conveying general information or sent by an amateur as an invitation for any other amateur to reply.", "S": [], "A": []}

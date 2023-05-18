@@ -1,0 +1,1 @@
+{"index": 155008, "D": "a surface between two grooves, as on a triglyph.", "S": [], "A": []}

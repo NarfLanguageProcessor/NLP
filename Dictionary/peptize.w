@@ -1,0 +1,1 @@
+{"index": 230275, "D": "to disperse (a substance) into colloidal form, usually in a liquid.", "S": [], "A": []}

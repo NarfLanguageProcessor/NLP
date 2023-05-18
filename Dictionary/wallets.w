@@ -1,0 +1,1 @@
+{"index": 362244, "D": "a flat, folding pocketbook, especially one large enough to hold paper money, credit cards, driver's license, etc., and sometimes having a compartment for coins.", "S": ["folder ", "pocketbook ", "purse "], "A": []}

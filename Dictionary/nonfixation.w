@@ -1,0 +1,1 @@
+{"index": 204070, "D": "the act of fixing or the state of being fixed.", "S": [], "A": []}

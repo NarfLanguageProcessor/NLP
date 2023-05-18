@@ -1,0 +1,1 @@
+{"index": 83760, "D": "moist with or as if with dew. ", "S": ["cloudy ", "dank ", "drizzly ", "misty ", "moist ", "muggy ", "saturated ", "soaked ", "sodden ", "soggy ", "steamy ", "sticky ", "waterlogged "], "A": ["dry "]}

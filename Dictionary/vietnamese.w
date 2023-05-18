@@ -1,0 +1,1 @@
+{"index": 359568, "D": "of or relating to Vietnam  or its inhabitants.", "S": [], "A": []}

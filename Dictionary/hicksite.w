@@ -1,0 +1,1 @@
+{"index": 138306, "D": "a supporter of Elias Hicks (1748\u20131830), an American Quaker  and early abolitionist who preached a liberal theology that resulted in a great division between liberal and orthodox Quakers throughout the 19th century.", "S": [], "A": []}

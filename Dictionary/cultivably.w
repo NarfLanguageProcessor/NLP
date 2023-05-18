@@ -1,0 +1,1 @@
+{"index": 74818, "D": "capable of being cultivated. ", "S": [], "A": []}

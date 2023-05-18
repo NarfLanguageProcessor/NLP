@@ -1,0 +1,1 @@
+{"index": 54306, "D": "a person between birth and puberty or full growth", "S": ["infertile "], "A": []}

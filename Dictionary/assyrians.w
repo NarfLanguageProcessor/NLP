@@ -1,0 +1,1 @@
+{"index": 21811, "D": "of or relating to Assyria,  its inhabitants, or their language.", "S": [], "A": []}

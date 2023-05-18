@@ -1,0 +1,1 @@
+{"index": 14492, "D": "a form of pneumoconiosis occurring in miners, caused by the inhalation of coal and siliceous particles.", "S": [], "A": []}

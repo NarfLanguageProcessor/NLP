@@ -1,0 +1,1 @@
+{"index": 75664, "D": "decoration with cusps, as in architecture.", "S": [], "A": []}

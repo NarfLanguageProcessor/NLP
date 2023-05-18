@@ -1,0 +1,1 @@
+{"index": 305766, "D": "a person with whom one has had no personal acquaintance", "S": [], "A": []}

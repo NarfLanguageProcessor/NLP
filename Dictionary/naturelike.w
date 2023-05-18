@@ -1,0 +1,1 @@
+{"index": 197359, "D": "the material world, especially as surrounding humankind and existing independently of human activities.", "S": [], "A": []}

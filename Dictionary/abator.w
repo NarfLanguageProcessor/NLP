@@ -1,0 +1,1 @@
+{"index": 161, "D": "a person who effects an abatement", "S": [], "A": []}

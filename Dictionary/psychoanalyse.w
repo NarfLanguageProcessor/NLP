@@ -1,0 +1,1 @@
+{"index": 255297, "D": "to examine or treat (a person) by psychoanalysis", "S": [], "A": []}

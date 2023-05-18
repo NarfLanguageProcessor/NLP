@@ -1,0 +1,1 @@
+{"index": 254810, "D": "in a way that is not partial,  prejudiced, or biased; fairly; justly", "S": [], "A": []}

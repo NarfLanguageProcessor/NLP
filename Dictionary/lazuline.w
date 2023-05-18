@@ -1,0 +1,1 @@
+{"index": 169468, "D": "having the color of lapis lazuli. ", "S": [], "A": []}

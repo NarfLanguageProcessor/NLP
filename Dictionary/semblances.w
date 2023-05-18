@@ -1,0 +1,1 @@
+{"index": 283654, "D": "outward aspect or appearance.", "S": ["pretense ", "veneer "], "A": ["reality ", "back ", "character ", "concrete ", "difference ", "dissimilarity ", "personality ", "rear ", "unlikeness "]}

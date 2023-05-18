@@ -1,0 +1,1 @@
+{"index": 344275, "D": "likely to occur at any moment; impending", "S": [], "A": []}

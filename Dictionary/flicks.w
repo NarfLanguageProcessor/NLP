@@ -1,0 +1,1 @@
+{"index": 114573, "D": "a sudden light blow or tap, as with a whip or the finger", "S": ["film ", "movie house ", "movie theater "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 40797, "D": "great brightness; luster", "S": ["cleverness ", "excellence ", "inspiration ", "intelligence ", "inventiveness ", "talent ", "wisdom "], "A": ["ignorance ", "inability ", "stupidity "]}

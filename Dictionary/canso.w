@@ -1,0 +1,1 @@
+{"index": 46543, "D": "a cape in SE Canada, the NE extremity of Nova Scotia.", "S": [], "A": []}

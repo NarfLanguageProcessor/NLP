@@ -1,0 +1,1 @@
+{"index": 338775, "D": "corrupt, wicked, or perverted.", "S": [], "A": []}

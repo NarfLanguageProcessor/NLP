@@ -1,0 +1,1 @@
+{"index": 136114, "D": "any of a group of gummy polysaccharides, intermediate in complexity between sugar and cellulose,  that hydrolyze to monosaccharides more readily than cellulose. ", "S": [], "A": []}

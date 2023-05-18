@@ -1,0 +1,1 @@
+{"index": 77042, "D": "any of various competitive games in which darts are thrown at a dartboard", "S": ["bound ", "dash ", "flash ", "fling ", "flit ", "float ", "gallop ", "hurry ", "hurtle ", "scamper ", "scoot ", "scurry ", "skim ", "sprint "], "A": ["dawdle ", "slow ", "walk ", "catch ", "cease ", "end ", "finish ", "halt ", "receive ", "stop "]}

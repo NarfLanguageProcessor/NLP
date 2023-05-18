@@ -1,0 +1,1 @@
+{"index": 112877, "D": "a ranch or large farm in a Spanish-speaking country, especially a plantation in tropical Spanish America.", "S": ["area ", "farm ", "parcel ", "plantation ", "ranch ", "residence "], "A": []}

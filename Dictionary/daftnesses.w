@@ -1,0 +1,1 @@
+{"index": 76183, "D": "senseless, stupid, or foolish.", "S": ["absurdity ", "craziness ", "foolishness ", "idiocy ", "indiscretion ", "lunacy ", "madness ", "recklessness ", "silliness ", "stupidity "], "A": ["care ", "carefulness ", "intelligence ", "sense "]}

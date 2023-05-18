@@ -1,0 +1,1 @@
+{"index": 272674, "D": "another name for ridgepole (def. 1)", "S": [], "A": []}

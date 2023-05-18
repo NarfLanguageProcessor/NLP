@@ -1,0 +1,1 @@
+{"index": 304637, "D": "inspiring new ideas or enthusiasm", "S": [], "A": []}

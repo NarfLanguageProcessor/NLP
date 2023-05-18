@@ -1,0 +1,1 @@
+{"index": 106055, "D": "an act or instance of escaping, avoiding, or shirking something", "S": [], "A": []}

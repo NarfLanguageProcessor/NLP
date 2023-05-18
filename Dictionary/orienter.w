@@ -1,0 +1,1 @@
+{"index": 214566, "D": "(formerly) the countries to the east of the Mediterranean.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 270650, "D": "to train  again, especially for a different vocation or different tasks.", "S": [], "A": []}

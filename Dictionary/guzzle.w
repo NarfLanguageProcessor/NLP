@@ -1,0 +1,1 @@
+{"index": 131689, "D": "to drink, or sometimes eat, greedily, frequently, or plentifully", "S": ["carouse ", "gobble ", "imbibe ", "knock back ", "quaff ", "slosh ", "swig ", "swill "], "A": ["abstain ", "open "]}

@@ -1,0 +1,1 @@
+{"index": 103545, "D": "a hermit or recluse, especially one under a religious vow.", "S": ["antisocial ", "egoistic ", "egotistical ", "hating ", "inhumane ", "malevolent ", "misanthropical ", "reclusive ", "reserved ", "sarcastic ", "selfish ", "solitary ", "standoffish ", "unfriendly "], "A": ["humanitarian ", "philanthropic ", "sociable "]}

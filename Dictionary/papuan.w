@@ -1,0 +1,1 @@
+{"index": 225313, "D": "of or relating to New Guinea  or to Papua New Guinea. ", "S": [], "A": []}

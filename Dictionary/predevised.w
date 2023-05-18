@@ -1,0 +1,1 @@
+{"index": 246891, "D": "to contrive, plan, or elaborate; invent from existing principles or ideas", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 335051, "D": "continued from, resembling, or adhering to the past; old-fashioned", "S": [], "A": []}

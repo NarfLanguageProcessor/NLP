@@ -1,0 +1,1 @@
+{"index": 75646, "D": "a subfamily of the Afroasiatic family of languages, including Somali, Oromo, and other languages of Somalia and Ethiopia.", "S": [], "A": []}

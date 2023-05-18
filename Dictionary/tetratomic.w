@@ -1,0 +1,1 @@
+{"index": 320238, "D": "having four atoms per molecule, especially of a specified kind.", "S": [], "A": []}

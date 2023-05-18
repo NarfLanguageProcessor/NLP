@@ -1,0 +1,1 @@
+{"index": 204554, "D": "the faculty of imagining,  or of forming mental images  or concepts of what is not actually present to the senses.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 282502, "D": "the line formed by sewing together pieces of cloth, leather, or the like.", "S": ["tailoring "], "A": []}

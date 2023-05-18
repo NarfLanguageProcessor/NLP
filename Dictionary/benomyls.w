@@ -1,0 +1,1 @@
+{"index": 31671, "D": "a toxic compound, C14H18N4O3, derived from carbamate and benzimidizole, used as a fungicide and miticide.", "S": [], "A": []}

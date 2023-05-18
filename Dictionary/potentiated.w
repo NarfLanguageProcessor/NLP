@@ -1,0 +1,1 @@
+{"index": 244675, "D": "to cause to be potent; make powerful.", "S": [], "A": []}

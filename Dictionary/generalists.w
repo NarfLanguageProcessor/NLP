@@ -1,0 +1,1 @@
+{"index": 123464, "D": "a person whose knowledge, aptitudes, and skills are applied to a field as a whole or to a variety of different fields (opposed to specialist).", "S": [], "A": []}

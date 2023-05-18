@@ -1,0 +1,1 @@
+{"index": 367515, "D": [], "S": ["between jobs ", "collecting unemployment benefits ", "laid-off ", "on the dole ", "out of a job ", "out of work ", "without employment ", "without gainful employment "], "A": []}

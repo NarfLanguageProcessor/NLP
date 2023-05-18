@@ -1,0 +1,1 @@
+{"index": 180297, "D": "a method of attaching a canvas to a wall through adhesion, accomplished by coating the surface with white lead mixed with oil.", "S": [], "A": []}

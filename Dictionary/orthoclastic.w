@@ -1,0 +1,1 @@
+{"index": 214980, "D": "(of a crystal) having cleavages at right angles to each other.", "S": [], "A": []}

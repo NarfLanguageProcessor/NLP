@@ -1,0 +1,1 @@
+{"index": 332398, "D": "a person or thing that tunes. ", "S": ["dial ", "knob ", "switch "], "A": []}

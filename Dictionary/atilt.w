@@ -1,0 +1,1 @@
+{"index": 22636, "D": "with a tilt  or inclination; tilted", "S": [], "A": []}

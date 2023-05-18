@@ -1,0 +1,1 @@
+{"index": 3517, "D": "a thing to be added; an addition.", "S": ["appendix ", "postscript "], "A": ["decrease ", "lessening ", "reduction ", "subtraction "]}

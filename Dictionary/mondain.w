@@ -1,0 +1,1 @@
+{"index": 191814, "D": "a man who moves in fashionable society", "S": ["citizen of the world ", "city slicker ", "cosmopolitan ", "fashionable man ", "man of the world ", "mondaine "], "A": []}

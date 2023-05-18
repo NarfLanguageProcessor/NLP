@@ -1,0 +1,1 @@
+{"index": 158549, "D": "a line on a weather map or chart connecting points having equal pressure changes.", "S": [], "A": []}

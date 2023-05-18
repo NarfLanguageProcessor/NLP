@@ -1,0 +1,1 @@
+{"index": 107903, "D": "to traverse or range over (a region, area, etc.) for the purpose of discovery", "S": ["analyze ", "delve into ", "examine ", "probe ", "research ", "scrutinize ", "search ", "seek ", "test ", "try "], "A": ["find ", "neglect ", "ignore ", "overlook "]}

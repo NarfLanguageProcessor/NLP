@@ -1,0 +1,1 @@
+{"index": 199638, "D": "a hard, silvery-white, ductile and malleable metallic element, allied to iron and cobalt, not readily oxidized", "S": ["coins ", "copper ", "dimes ", "pennies ", "quarters ", "silver "], "A": ["bill ", "dollar "]}

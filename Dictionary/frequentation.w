@@ -1,0 +1,1 @@
+{"index": 118784, "D": "the practice of frequenting;  habit of visiting often.", "S": [], "A": []}

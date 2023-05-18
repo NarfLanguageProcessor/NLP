@@ -1,0 +1,1 @@
+{"index": 107507, "D": "suitable for or communicated to the general public. ", "S": ["external ", "outdoor ", "outer "], "A": ["central "]}

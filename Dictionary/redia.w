@@ -1,0 +1,1 @@
+{"index": 264157, "D": "a cylindrical larval stage of some trematodes, produced by a sporocyst and giving rise to daughter rediae or to cercariae.", "S": [], "A": []}

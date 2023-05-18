@@ -1,0 +1,1 @@
+{"index": 164723, "D": "the graphic record produced by a diagnostic kymograph.", "S": [], "A": []}

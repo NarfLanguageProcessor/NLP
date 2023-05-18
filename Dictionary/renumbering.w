@@ -1,0 +1,1 @@
+{"index": 267790, "D": "a numeral or group of numerals.", "S": [], "A": []}

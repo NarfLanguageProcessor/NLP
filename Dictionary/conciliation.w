@@ -1,0 +1,1 @@
+{"index": 65319, "D": "the act or process of conciliating", "S": ["appeasement ", "rapprochement "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 222943, "D": "a long, circular cloak, sleeveless and often hooded, worn by the poorer classes in ancient Rome.", "S": [], "A": []}

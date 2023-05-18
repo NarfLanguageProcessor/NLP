@@ -1,0 +1,1 @@
+{"index": 106469, "D": "to inspect or scrutinize carefully", "S": ["inquisitive ", "interested "], "A": ["incurious ", "unconcerned "]}

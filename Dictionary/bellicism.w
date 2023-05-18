@@ -1,0 +1,1 @@
+{"index": 31174, "D": [], "S": ["fanaticism ", "jingoism ", "nationalism "], "A": []}

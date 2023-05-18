@@ -1,0 +1,1 @@
+{"index": 230603, "D": "a person who adheres to or believes in perfectionism. ", "S": ["fusspot ", "idealist ", "purist ", "quibbler "], "A": []}

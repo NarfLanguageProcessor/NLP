@@ -1,0 +1,1 @@
+{"index": 110846, "D": "lacking the normal mental powers.", "S": [], "A": []}

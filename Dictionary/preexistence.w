@@ -1,0 +1,1 @@
+{"index": 247422, "D": "to exist  beforehand.", "S": ["antecedence ", "earliness ", "lead ", "precedency ", "precession ", "preeminence ", "preference ", "primary ", "priority ", "rank ", "seniority ", "superiority ", "supremacy "], "A": ["subservience "]}

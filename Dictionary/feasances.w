@@ -1,0 +1,1 @@
+{"index": 110616, "D": "the doing or performing of an act, as of a condition or duty.", "S": [], "A": []}

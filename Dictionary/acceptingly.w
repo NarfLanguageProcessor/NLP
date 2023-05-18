@@ -1,0 +1,1 @@
+{"index": 1492, "D": "amenable; open", "S": [], "A": []}

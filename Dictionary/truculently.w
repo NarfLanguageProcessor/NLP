@@ -1,0 +1,1 @@
+{"index": 331496, "D": "aggressively hostile; belligerent. ", "S": [], "A": []}

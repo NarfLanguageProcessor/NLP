@@ -1,0 +1,1 @@
+{"index": 49345, "D": "the causing of medicinal substances to pass through or into living tissues in the direction of flow of a positive electric current.", "S": [], "A": []}

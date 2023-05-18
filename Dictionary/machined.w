@@ -1,0 +1,1 @@
+{"index": 176767, "D": "an apparatus consisting of interrelated parts with separate functions, used in the performance of some kind of work", "S": ["assembled ", "completed ", "constructed ", "fabricated ", "mass-produced ", "produced ", "shaped "], "A": ["incomplete ", "unfinished "]}

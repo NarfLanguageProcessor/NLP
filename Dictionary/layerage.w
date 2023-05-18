@@ -1,0 +1,1 @@
+{"index": 167402, "D": "the wearing of lightweight or unconstructed garments one upon the other, as to create a fashionable ensemble or to provide warmth without undue bulkiness or heaviness.", "S": [], "A": []}

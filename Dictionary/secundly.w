@@ -1,0 +1,1 @@
+{"index": 282922, "D": "arranged on one side only; unilateral.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 36516, "D": "a hearth for smelting iron in blooms  of pasty consistency by means of charcoal.", "S": [], "A": []}

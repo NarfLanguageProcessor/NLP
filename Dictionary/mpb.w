@@ -1,0 +1,1 @@
+{"index": 194467, "D": [], "S": ["alopecia ", "baldness ", "hair loss ", "male pattern hair loss "], "A": []}

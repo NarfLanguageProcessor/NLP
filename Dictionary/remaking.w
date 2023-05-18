@@ -1,0 +1,1 @@
+{"index": 267108, "D": "to make  again or anew.", "S": ["rehabilitation ", "reorganization ", "repair ", "restoration "], "A": ["neglect "]}

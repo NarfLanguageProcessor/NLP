@@ -1,0 +1,1 @@
+{"index": 244967, "D": "inclined to pout,  or marked by pouting", "S": ["brooding ", "mean ", "moody ", "sour "], "A": ["cheerful ", "happy "]}

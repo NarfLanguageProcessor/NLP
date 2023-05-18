@@ -1,0 +1,1 @@
+{"index": 80813, "D": "the act or fact of regarding, treating, or speaking of a person or thing as entirely bad", "S": [], "A": []}

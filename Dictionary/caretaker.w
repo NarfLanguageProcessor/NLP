@@ -1,0 +1,1 @@
+{"index": 47956, "D": "a person who is in charge of the maintenance of a building, estate, etc.; superintendent.", "S": ["curator ", "custodian ", "janitor ", "keeper ", "sitter ", "superintendent ", "supervisor ", "warden "], "A": []}

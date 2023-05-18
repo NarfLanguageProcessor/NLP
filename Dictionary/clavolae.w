@@ -1,0 +1,1 @@
+{"index": 59589, "D": "the terminal, enlarged, usually club-shaped portion of a capitate, lamellate, or clavate antenna.", "S": [], "A": []}

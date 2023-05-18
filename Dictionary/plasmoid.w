@@ -1,0 +1,1 @@
+{"index": 239194, "D": "a section of a plasma having a characteristic shape", "S": [], "A": []}

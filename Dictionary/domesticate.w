@@ -1,0 +1,1 @@
+{"index": 91265, "D": "to convert (animals, plants, etc.) to domestic  uses; tame. ", "S": ["naturalize "], "A": ["abandon ", "disjoin ", "fix ", "mend ", "neglect "]}

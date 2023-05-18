@@ -1,0 +1,1 @@
+{"index": 344779, "D": "to cut or divide by passing through or across", "S": [], "A": []}

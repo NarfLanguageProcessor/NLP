@@ -1,0 +1,1 @@
+{"index": 208037, "D": "the act or state of being truant. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 317529, "D": "a gas that makes the eyes smart and water, thus producing a temporary blindness, used in modern warfare, to quell riots, etc.", "S": [], "A": []}

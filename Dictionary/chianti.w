@@ -1,0 +1,1 @@
+{"index": 54052, "D": "a dry, red, Italian table wine, originally put up in straw-covered bottles.", "S": [], "A": []}

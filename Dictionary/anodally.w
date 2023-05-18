@@ -1,0 +1,1 @@
+{"index": 13692, "D": "pertaining to an anode  or the phenomena in its vicinity.", "S": [], "A": []}

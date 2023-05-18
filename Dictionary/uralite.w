@@ -1,0 +1,1 @@
+{"index": 355261, "D": "a fibrous, dark-green hornblende formed by the hydrothermal alteration of pyroxene.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 352289, "D": "serving as or capable of serving as a substitute. ", "S": [], "A": []}

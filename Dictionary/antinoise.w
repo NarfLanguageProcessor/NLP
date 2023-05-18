@@ -1,0 +1,1 @@
+{"index": 15696, "D": "designed to reduce or ban excessively loud sound, as of jet engines or traffic", "S": [], "A": []}

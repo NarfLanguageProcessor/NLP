@@ -1,0 +1,1 @@
+{"index": 237396, "D": "a fig tree, Ficus religiosa, of India, somewhat resembling the banyan.", "S": [], "A": []}

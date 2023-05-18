@@ -1,0 +1,1 @@
+{"index": 306320, "D": "a board  or facing covering the ends of the steps in a staircase.", "S": [], "A": []}

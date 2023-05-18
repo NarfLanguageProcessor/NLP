@@ -1,0 +1,1 @@
+{"index": 178479, "D": "a newcomer to Hawaii.", "S": [], "A": []}

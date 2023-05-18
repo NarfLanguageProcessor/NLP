@@ -1,0 +1,1 @@
+{"index": 75245, "D": "the compound C21H20O6, a major active ingredient in turmeric and thought to have antioxidant and anticancer properties.", "S": [], "A": []}

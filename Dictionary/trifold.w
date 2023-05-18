@@ -1,0 +1,1 @@
+{"index": 329759, "D": "triple; threefold.", "S": [], "A": []}

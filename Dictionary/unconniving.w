@@ -1,0 +1,1 @@
+{"index": 337660, "D": "to cooperate secretly; conspire (often followed by with)", "S": [], "A": []}

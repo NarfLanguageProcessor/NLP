@@ -1,0 +1,1 @@
+{"index": 21025, "D": "a fruiting body that bears asci. ", "S": [], "A": []}

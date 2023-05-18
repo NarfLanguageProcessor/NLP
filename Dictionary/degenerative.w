@@ -1,0 +1,1 @@
+{"index": 79574, "D": "tending to degenerate. ", "S": ["backward ", "deteriorating ", "regressive ", "retrogressive "], "A": ["improving ", "progressive "]}

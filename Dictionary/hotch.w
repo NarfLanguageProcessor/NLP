@@ -1,0 +1,1 @@
+{"index": 144249, "D": "to fidget;  shift one's weight from one foot to the other.", "S": [], "A": []}

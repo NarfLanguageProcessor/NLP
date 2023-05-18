@@ -1,0 +1,1 @@
+{"index": 259595, "D": "of or relating to a radicle or root.", "S": [], "A": []}

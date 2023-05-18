@@ -1,0 +1,1 @@
+{"index": 326003, "D": "a brand of casual shoe with a nonskid sole, designed especially for wear on boats.", "S": [], "A": []}

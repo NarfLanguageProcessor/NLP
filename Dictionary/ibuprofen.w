@@ -1,0 +1,1 @@
+{"index": 145951, "D": "a white powder, C13H18O2, used especially in the treatment of rheumatoid arthritis and osteoarthritis as an anti-inflammatory, analgesic, and antipyretic.", "S": [], "A": []}

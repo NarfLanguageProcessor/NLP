@@ -1,0 +1,1 @@
+{"index": 45244, "D": "a projection on a horseshoe to prevent slipping on ice, pavement, etc.", "S": [], "A": []}

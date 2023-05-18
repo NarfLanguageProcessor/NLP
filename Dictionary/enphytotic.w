@@ -1,0 +1,1 @@
+{"index": 100840, "D": "(of a plant disease) regularly affecting but not destroying the plants in a given area.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 296365, "D": "very sympathetic or responsive; generous in spirit", "S": ["affectionately ", "appreciatively ", "kindly ", "warmly "], "A": []}

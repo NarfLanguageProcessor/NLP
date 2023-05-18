@@ -1,0 +1,1 @@
+{"index": 61696, "D": "the complement of declination;  the angular distance along a great circle from the celestial pole.", "S": [], "A": []}

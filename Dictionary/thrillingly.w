@@ -1,0 +1,1 @@
+{"index": 322692, "D": "producing sudden, strong, and deep emotion or excitement.", "S": [], "A": []}

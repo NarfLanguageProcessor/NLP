@@ -1,0 +1,1 @@
+{"index": 149643, "D": "increasing in heat or ardor.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 88831, "D": "to cause to lose one's way", "S": ["baffling ", "bewildering ", "complex ", "complicated ", "confounding ", "difficult ", "disconcerting ", "perplexing ", "upsetting "], "A": ["clear ", "easy ", "plain ", "simple "]}

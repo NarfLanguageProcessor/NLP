@@ -1,0 +1,1 @@
+{"index": 304912, "D": "a broker,  especially one employed by a member firm of a stock exchange,  who buys and sells stocks  and other securities for customers.", "S": [], "A": []}

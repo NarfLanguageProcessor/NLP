@@ -1,0 +1,1 @@
+{"index": 116684, "D": "the ground or parts situated, or represented as situated, in the front; the portion of a scene or picture nearest to the viewer (opposed to background).", "S": ["focal point ", "focus "], "A": ["back ", "backdrop ", "background ", "mise en sc\u00e8ne ", "rear "]}

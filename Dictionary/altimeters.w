@@ -1,0 +1,1 @@
+{"index": 9534, "D": "a sensitive aneroid barometer that is graduated and calibrated, used chiefly in aircraft for finding distance above sea level, terrain, or some other reference point by a comparison of air pressures.", "S": [], "A": []}

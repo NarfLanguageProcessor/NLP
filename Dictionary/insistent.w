@@ -1,0 +1,1 @@
+{"index": 153660, "D": "earnest or emphatic in dwelling upon, maintaining, or demanding something; persistent; pertinacious.", "S": ["assertive ", "dire ", "emphatic ", "forceful ", "incessant ", "persistent ", "pressing ", "resolute ", "unrelenting ", "urgent "], "A": ["insignificant ", "relenting ", "trivial ", "unimportant ", "weak "]}

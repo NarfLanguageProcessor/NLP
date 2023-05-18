@@ -1,0 +1,1 @@
+{"index": 19246, "D": "bent or curved like a bow.", "S": ["arched ", "arching ", "bending ", "bowed ", "curved ", "rounded ", "vaulted "], "A": ["straight "]}

@@ -1,0 +1,1 @@
+{"index": 144490, "D": "of, like, or befitting a housewife. ", "S": [], "A": []}

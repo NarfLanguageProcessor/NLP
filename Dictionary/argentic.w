@@ -1,0 +1,1 @@
+{"index": 19460, "D": "of or containing silver and having a valence greater than the corresponding argentous  compound.", "S": [], "A": []}

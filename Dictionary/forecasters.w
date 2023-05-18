@@ -1,0 +1,1 @@
+{"index": 116544, "D": "to predict (a future condition or occurrence); calculate in advance", "S": ["astrologer ", "meteorologist ", "seer "], "A": []}

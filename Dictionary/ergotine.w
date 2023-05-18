@@ -1,0 +1,1 @@
+{"index": 103640, "D": "any of various extracts of ergot  used in medicine.", "S": [], "A": []}

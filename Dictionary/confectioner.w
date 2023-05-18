@@ -1,0 +1,1 @@
+{"index": 65785, "D": "a person who makes or sells candies and, sometimes, ice cream, cakes, etc.", "S": [], "A": []}

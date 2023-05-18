@@ -1,0 +1,1 @@
+{"index": 284380, "D": "(of graphing) having one scale logarithmic  and the other arithmetic or of uniform gradation.", "S": [], "A": []}

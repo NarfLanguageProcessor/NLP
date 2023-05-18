@@ -1,0 +1,1 @@
+{"index": 252518, "D": "the act of propagating. ", "S": ["breeding ", "multiplication ", "reproduction "], "A": []}

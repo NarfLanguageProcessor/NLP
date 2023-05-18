@@ -1,0 +1,1 @@
+{"index": 283652, "D": "a person or thing that resembles or matches another; counterpart.", "S": [], "A": []}

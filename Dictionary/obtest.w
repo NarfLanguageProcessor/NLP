@@ -1,0 +1,1 @@
+{"index": 210540, "D": "to invoke as witness.", "S": ["ask ", "beseech ", "implore ", "plead ", "pray ", "solicit ", "sue ", "urge "], "A": ["answer ", "reply "]}

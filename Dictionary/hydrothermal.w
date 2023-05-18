@@ -1,0 +1,1 @@
+{"index": 139007, "D": "noting or pertaining to the action of hot, aqueous solutions or gases within or on the surface of the earth.", "S": [], "A": []}

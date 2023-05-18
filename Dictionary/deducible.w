@@ -1,0 +1,1 @@
+{"index": 78927, "D": "to derive as a conclusion from something known or assumed; infer", "S": ["a priori ", "consequent ", "deductive ", "derivable ", "dogmatic ", "following ", "inferable ", "inferential ", "provable ", "reasoned ", "traceable "], "A": []}

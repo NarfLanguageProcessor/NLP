@@ -1,0 +1,1 @@
+{"index": 342643, "D": "reduced to fragments. ", "S": [], "A": []}

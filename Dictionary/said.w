@@ -1,0 +1,1 @@
+{"index": 276750, "D": "simple past tense and past participle of say1. ", "S": ["spoken "], "A": []}

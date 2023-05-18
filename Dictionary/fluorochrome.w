@@ -1,0 +1,1 @@
+{"index": 115472, "D": "any of a group of fluorescent dyes used to label biological material.", "S": [], "A": []}

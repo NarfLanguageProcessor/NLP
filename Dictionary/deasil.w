@@ -1,0 +1,1 @@
+{"index": 77633, "D": "clockwise or in a direction following the apparent course of the sun", "S": [], "A": []}

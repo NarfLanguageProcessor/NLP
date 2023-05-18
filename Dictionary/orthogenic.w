@@ -1,0 +1,1 @@
+{"index": 215032, "D": "of, concerned with, or providing corrective treatment for intellectually disabled or emotionally disturbed children", "S": [], "A": []}

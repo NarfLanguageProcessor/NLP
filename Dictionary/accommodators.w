@@ -1,0 +1,1 @@
+{"index": 1652, "D": "a person or thing that accommodates. ", "S": [], "A": []}

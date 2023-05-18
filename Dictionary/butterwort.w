@@ -1,0 +1,1 @@
+{"index": 43720, "D": "any small, carnivorous plant of the genus Pinguicula, having leaves that secrete a viscid substance in which small insects are caught.", "S": [], "A": []}

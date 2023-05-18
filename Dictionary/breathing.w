@@ -1,0 +1,1 @@
+{"index": 40337, "D": "the act of a person or other animal that breathes; respiration.", "S": ["respiratory "], "A": ["breathless ", "dead ", "deceased ", "lifeless "]}

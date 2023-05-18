@@ -1,0 +1,1 @@
+{"index": 83973, "D": "highly spiced; prepared with hot or piquant seasoning; deviled.", "S": [], "A": []}

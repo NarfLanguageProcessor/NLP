@@ -1,0 +1,1 @@
+{"index": 287380, "D": "any of several trifoliate plants, as the wood sorrel, Oxalis acetosella, or a small, pink-flowered clover, Trifolium repens minus, but especially Trifolium procumbens, a small, yellow-flowered clover", "S": [], "A": []}

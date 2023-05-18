@@ -1,0 +1,1 @@
+{"index": 7931, "D": "(in ancient times) the use of flour as a means of divination.", "S": [], "A": []}

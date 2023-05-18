@@ -1,0 +1,1 @@
+{"index": 44803, "D": "a silver-white mineral, gold telluride, AuTe2, containing a little silver", "S": [], "A": []}

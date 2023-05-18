@@ -1,0 +1,1 @@
+{"index": 281946, "D": "primary tuberculosis of the lymphatic glands, especially those of the neck.", "S": [], "A": []}

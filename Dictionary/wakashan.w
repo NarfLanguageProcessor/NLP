@@ -1,0 +1,1 @@
+{"index": 362119, "D": "a family of Indigenous languages spoken in British Columbia  and the state of Washington and including especially Kwakiutl and Nuu-chah-nulth.", "S": [], "A": []}

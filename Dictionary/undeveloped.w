@@ -1,0 +1,1 @@
+{"index": 340260, "D": "not developed. ", "S": ["backward ", "primitive ", "underdeveloped "], "A": ["adult ", "developed ", "grown ", "mature "]}

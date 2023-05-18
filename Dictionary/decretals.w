@@ -1,0 +1,1 @@
+{"index": 78771, "D": "a compilation of decretals, esp the authoritative compilation (Liber Extra) of Gregory IX (1234) which forms part of the Corpus Juris Canonici", "S": [], "A": []}

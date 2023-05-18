@@ -1,0 +1,1 @@
+{"index": 142705, "D": "a past participle of help. ", "S": [], "A": []}

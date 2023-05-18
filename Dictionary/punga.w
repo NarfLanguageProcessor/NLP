@@ -1,0 +1,1 @@
+{"index": 256637, "D": "a variant spelling of ponga", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 305071, "D": "having stolons; developing from a stolon.", "S": [], "A": []}

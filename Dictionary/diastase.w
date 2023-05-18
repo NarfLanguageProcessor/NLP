@@ -1,0 +1,1 @@
+{"index": 84543, "D": "an enzyme that breaks down starch into maltose, then dextrose, and is present in malt.", "S": [], "A": []}

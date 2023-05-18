@@ -1,0 +1,1 @@
+{"index": 263539, "D": "to get back the equivalent of", "S": ["compensate ", "get back ", "redeem ", "refund ", "regain ", "reimburse ", "repay ", "win back "], "A": ["deprive ", "forfeit ", "lose ", "penalize ", "take ", "dissatisfy "]}

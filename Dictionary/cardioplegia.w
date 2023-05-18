@@ -1,0 +1,1 @@
+{"index": 47838, "D": "the temporary arresting of the heartbeat during cardiac surgery by any of various methods, especially by injection of chemical substances.", "S": [], "A": []}

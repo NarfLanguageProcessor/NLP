@@ -1,0 +1,1 @@
+{"index": 18306, "D": "a peninsula in SW Asia, including Saudi Arabia,  Yemen Arab Republic, People's Democratic Republic of Yemen, Oman, the United Arab Emirates, Qatar, and Kuwait", "S": [], "A": []}

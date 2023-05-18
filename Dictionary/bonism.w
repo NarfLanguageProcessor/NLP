@@ -1,0 +1,1 @@
+{"index": 37913, "D": "the doctrine that the world is good, although not the best of all possible worlds", "S": [], "A": []}

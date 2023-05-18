@@ -1,0 +1,1 @@
+{"index": 196955, "D": "abnormal craving for a drug to deaden pain.", "S": [], "A": []}

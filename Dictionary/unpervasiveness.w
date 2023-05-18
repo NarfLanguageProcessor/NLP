@@ -1,0 +1,1 @@
+{"index": 347824, "D": "the condition or state of being spread throughout something or somewhere", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128987, "D": "skill in securing grants,  as for research, from federal agencies, foundations, or the like.", "S": [], "A": []}

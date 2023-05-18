@@ -1,0 +1,1 @@
+{"index": 207262, "D": "likeness; resemblance", "S": [], "A": []}

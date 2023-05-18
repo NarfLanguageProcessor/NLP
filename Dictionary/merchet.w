@@ -1,0 +1,1 @@
+{"index": 183682, "D": "(in feudal England) a fine paid by a tenant, esp a villein, to his lord for allowing the marriage of his daughter", "S": [], "A": []}

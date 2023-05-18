@@ -1,0 +1,1 @@
+{"index": 347773, "D": "to continue steadfastly or firmly in some state, purpose, course of action, or the like, especially in spite of opposition, remonstrance, etc.", "S": [], "A": []}

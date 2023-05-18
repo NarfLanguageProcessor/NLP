@@ -1,0 +1,1 @@
+{"index": 211906, "D": "a legendary hero and poet and son of Finn, who is supposed to have lived during the 3rd century a.d., represented in Gaelic poems and in imitations of them written by James Macpherson in the 18th century.", "S": [], "A": []}

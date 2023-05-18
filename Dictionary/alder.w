@@ -1,0 +1,1 @@
+{"index": 7745, "D": "any shrub or tree belonging to the genus Alnus, of the birch family, growing in moist places in northern temperate or colder regions and having toothed, simple leaves and flowers in catkins.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 94340, "D": "duplex apartment. ", "S": ["double ", "paired ", "twin "], "A": []}

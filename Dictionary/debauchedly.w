@@ -1,0 +1,1 @@
+{"index": 77734, "D": "displaying the effect of excessive indulgence in sensual pleasure", "S": [], "A": []}

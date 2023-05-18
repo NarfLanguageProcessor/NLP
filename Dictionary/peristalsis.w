@@ -1,0 +1,1 @@
+{"index": 231368, "D": "the progressive wave of contraction and relaxation of a tubular muscular system, especially the alimentary canal, by which the contents are forced through the system.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 271361, "D": "to assail with contemptuous or opprobrious language; address or speak of abusively.", "S": ["abuse ", "berating ", "blame ", "censure ", "insults ", "libel ", "railing ", "reprimand ", "reproach ", "scolding ", "slander ", "upbraiding "], "A": ["approval ", "commendation ", "compliment ", "praise ", "respect "]}

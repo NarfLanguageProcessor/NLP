@@ -1,0 +1,1 @@
+{"index": 26206, "D": "light, playful banter or raillery.", "S": ["banter ", "fool ", "persiflage ", "raillery ", "repartee ", "ribbing ", "teasing "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 219502, "D": "the act or process of overgeneralizing.", "S": [], "A": []}

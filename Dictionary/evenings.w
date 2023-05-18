@@ -1,0 +1,1 @@
+{"index": 106098, "D": "in or during the evening  regularly", "S": ["close ", "dark ", "decline ", "dim ", "dusk ", "duskiness ", "eve ", "even ", "eventide ", "nightfall ", "sundown ", "sunset ", "twilight "], "A": ["daybreak ", "sunrise "]}

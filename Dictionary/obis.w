@@ -1,0 +1,1 @@
+{"index": 210073, "D": "a long, broad sash tied about the waist over a Japanese kimono.", "S": ["belt ", "casement ", "cincture ", "corset ", "cummerbund ", "frame ", "girdle ", "ribbon ", "scarf ", "waistband "], "A": []}

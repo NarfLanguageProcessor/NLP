@@ -1,0 +1,1 @@
+{"index": 17584, "D": "a supernatural appearance of a person or thing, especially a ghost; a specter or phantom; wraith", "S": ["bogeyman ", "chimera ", "delusion ", "hallucination ", "haunt ", "illusion ", "phantasm ", "phantom ", "revenant ", "specter ", "spirit ", "spook ", "visitant "], "A": ["certainty ", "fact ", "reality ", "truth "]}

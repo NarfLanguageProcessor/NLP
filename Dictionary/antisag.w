@@ -1,0 +1,1 @@
+{"index": 16120, "D": "to sink or bend downward by weight or pressure, especially in the middle", "S": [], "A": []}

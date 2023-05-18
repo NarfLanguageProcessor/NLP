@@ -1,0 +1,1 @@
+{"index": 46530, "D": "a covering, usually of fabric, supported on poles or suspended above a bed, throne, exalted personage, or sacred object.", "S": ["blanket ", "bury ", "coat ", "dress ", "enclose ", "protect ", "shroud "], "A": ["lay bare ", "reveal ", "uncover ", "expose ", "let go ", "open ", "show ", "take out ", "tell ", "unmask "]}

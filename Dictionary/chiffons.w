@@ -1,0 +1,1 @@
+{"index": 54250, "D": "a sheer fabric of silk, nylon, or rayon in plain weave.", "S": [], "A": []}

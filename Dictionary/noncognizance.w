@@ -1,0 +1,1 @@
+{"index": 202022, "D": "awareness, realization, or knowledge; notice; perception", "S": [], "A": []}

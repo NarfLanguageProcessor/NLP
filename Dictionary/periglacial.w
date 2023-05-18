@@ -1,0 +1,1 @@
+{"index": 230977, "D": "occurring or operating adjacent to the margin of a glacier.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 229199, "D": "depreciation; a lessening in worth, quality, etc.", "S": [], "A": []}

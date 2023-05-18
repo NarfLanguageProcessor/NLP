@@ -1,0 +1,1 @@
+{"index": 221400, "D": "to strew  or scatter over.", "S": [], "A": []}

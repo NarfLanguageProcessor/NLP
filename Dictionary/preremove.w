@@ -1,0 +1,1 @@
+{"index": 249109, "D": "to move from a place or position; take away or off", "S": [], "A": []}

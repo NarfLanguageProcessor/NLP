@@ -1,0 +1,1 @@
+{"index": 265367, "D": "a refreshment, as a soft drink.", "S": [], "A": []}

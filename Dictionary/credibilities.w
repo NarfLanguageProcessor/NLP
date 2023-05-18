@@ -1,0 +1,1 @@
+{"index": 72493, "D": "the quality of being believable or worthy of trust", "S": ["chance ", "integrity ", "prospect ", "reliability ", "soundness ", "trustworthiness ", "validity "], "A": ["unlikelihood "]}

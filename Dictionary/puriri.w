@@ -1,0 +1,1 @@
+{"index": 256958, "D": "a forest tree, Vitex lucens, of New Zealand, having red berries and glossy green leaves and yielding a durable dark brown timber", "S": [], "A": []}

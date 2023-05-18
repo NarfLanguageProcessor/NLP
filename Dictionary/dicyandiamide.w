@@ -1,0 +1,1 @@
+{"index": 84854, "D": "a white, crystalline, rather sparingly water-soluble solid, C2H4N4, produced from cyanamide by polymerization", "S": [], "A": []}

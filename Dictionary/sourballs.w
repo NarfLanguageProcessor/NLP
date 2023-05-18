@@ -1,0 +1,1 @@
+{"index": 297906, "D": "a round piece of hard candy with a tart or acid fruit flavoring.", "S": [], "A": []}

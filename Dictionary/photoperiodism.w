@@ -1,0 +1,1 @@
+{"index": 235291, "D": "the response, as affecting growth or reproduction, of an organism to the length of exposure to light in a 24-hour period.", "S": [], "A": []}

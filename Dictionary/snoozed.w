@@ -1,0 +1,1 @@
+{"index": 295711, "D": "to sleep; slumber; doze; nap", "S": ["catnap ", "doze ", "nap ", "siesta ", "slumber "], "A": ["awakening ", "consciousness ", "wakefulness "]}

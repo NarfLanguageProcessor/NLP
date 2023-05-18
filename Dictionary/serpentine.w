@@ -1,0 +1,1 @@
+{"index": 286295, "D": "of, characteristic of, or resembling a serpent,  as in form or movement.", "S": ["artful ", "circuitous ", "convoluted ", "curved ", "meandering ", "sinuous ", "twisting "], "A": ["straight "]}

@@ -1,0 +1,1 @@
+{"index": 43064, "D": "a representative in the popular branch of the colonial legislature of Virginia or Maryland.", "S": ["autochthon ", "inhabitant ", "national ", "native ", "resident ", "taxpayer ", "townswoman "], "A": ["alien ", "foreigner "]}

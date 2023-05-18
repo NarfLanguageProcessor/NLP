@@ -1,0 +1,1 @@
+{"index": 62938, "D": "collegiate. ", "S": ["concerted ", "coordinated ", "harmonious ", "interdependent ", "reciprocal ", "symbiotic ", "united "], "A": ["disjoint ", "disobliging ", "disunited ", "divided ", "encumbering ", "hindering ", "hurting ", "preventing ", "separate ", "uncooperative ", "uncoordinated ", "unhelpful ", "unsupportive "]}

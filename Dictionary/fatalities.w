@@ -1,0 +1,1 @@
+{"index": 110239, "D": "a disaster resulting in death.", "S": ["accident ", "casualty ", "disaster ", "mortality "], "A": ["birth "]}

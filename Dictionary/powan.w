@@ -1,0 +1,1 @@
+{"index": 244980, "D": "a freshwater whitefish, Coregonus clupeoides, occurring in some Scottish lakes", "S": [], "A": []}

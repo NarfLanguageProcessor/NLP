@@ -1,0 +1,1 @@
+{"index": 265455, "D": "to furbish  again; renovate; brighten", "S": ["renovation ", "reopening ", "replenishment ", "restoration ", "revitalization "], "A": []}

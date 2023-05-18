@@ -1,0 +1,1 @@
+{"index": 53847, "D": "to hold or treat as dear; feel love for", "S": ["admired ", "dear ", "esteemed ", "favorite ", "hallowed ", "loved ", "popular ", "prized ", "respected ", "revered ", "treasured ", "venerated ", "well-liked "], "A": ["disliked "]}

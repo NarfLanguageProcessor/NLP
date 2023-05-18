@@ -1,0 +1,1 @@
+{"index": 209565, "D": "of or relating to numbers;  of the nature of a number.", "S": [], "A": []}

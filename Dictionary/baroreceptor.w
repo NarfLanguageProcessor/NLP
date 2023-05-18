@@ -1,0 +1,1 @@
+{"index": 28228, "D": "a nerve ending, as one of those located in the blood vessels, that responds to changes in pressure.", "S": [], "A": []}

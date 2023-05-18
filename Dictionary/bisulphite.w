@@ -1,0 +1,1 @@
+{"index": 35156, "D": "a salt or ester of sulphurous acid containing the monovalent group -HSO 3 or the ion HSO 3 \u2013", "S": [], "A": []}

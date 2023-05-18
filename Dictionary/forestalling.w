@@ -1,0 +1,1 @@
+{"index": 117024, "D": "to prevent, hinder, or thwart by action in advance", "S": ["opposing "], "A": ["unwary ", "unwatchful "]}

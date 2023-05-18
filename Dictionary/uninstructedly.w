@@ -1,0 +1,1 @@
+{"index": 344665, "D": "not instructed;  uninformed; uneducated.", "S": [], "A": []}

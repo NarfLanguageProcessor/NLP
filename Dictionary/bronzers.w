@@ -1,0 +1,1 @@
+{"index": 41470, "D": "a cosmetic ointment used to give the skin a tanned look.", "S": [], "A": []}

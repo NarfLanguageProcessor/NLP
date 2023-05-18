@@ -1,0 +1,1 @@
+{"index": 208375, "D": "the state or quality of being vulgar", "S": [], "A": []}

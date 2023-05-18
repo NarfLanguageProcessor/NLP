@@ -1,0 +1,1 @@
+{"index": 624, "D": "an abnormal  condition, state, or quality; irregularity; deviation. ", "S": ["anomaly ", "deformity ", "flaw ", "irregularity "], "A": ["regularity ", "conformity ", "normality ", "sameness ", "standard ", "uniformity ", "usualness "]}

@@ -1,0 +1,1 @@
+{"index": 90156, "D": "Compare ditto mark. ", "S": ["blueprinted ", "duplicated ", "manufactured ", "mimeographed ", "multiplied ", "photocopied ", "photographed ", "printed ", "recorded ", "repeated ", "replicated ", "reprinted ", "traced ", "transcribed ", "typed "], "A": []}

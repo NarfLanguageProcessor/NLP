@@ -1,0 +1,1 @@
+{"index": 177452, "D": "the office or function of a magistrate. ", "S": [], "A": []}

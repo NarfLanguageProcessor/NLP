@@ -1,0 +1,1 @@
+{"index": 331320, "D": "to disturb the mental calm and contentment of; worry; distress; agitate.", "S": ["adversity ", "difficulties ", "hardship ", "rough going ", "stress "], "A": []}

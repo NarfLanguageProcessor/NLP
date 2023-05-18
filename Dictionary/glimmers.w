@@ -1,0 +1,1 @@
+{"index": 126342, "D": "a faint or unsteady light; gleam.", "S": ["flicker ", "gleam ", "glint ", "glow ", "hint ", "inkling ", "ray ", "twinkle "], "A": ["dullness "]}

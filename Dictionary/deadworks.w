@@ -1,0 +1,1 @@
+{"index": 77507, "D": "work  necessary to expose an orebody, as the removal of overburden.", "S": [], "A": []}

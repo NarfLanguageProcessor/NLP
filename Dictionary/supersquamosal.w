@@ -1,0 +1,1 @@
+{"index": 312706, "D": "of or relating to the thin, scalelike portion of the temporal bone that is situated on the side of the skull above and behind the ear.", "S": [], "A": []}

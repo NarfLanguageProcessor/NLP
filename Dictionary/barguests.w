@@ -1,0 +1,1 @@
+{"index": 27979, "D": "a legendary doglike goblin believed to portend death or misfortune.", "S": [], "A": []}

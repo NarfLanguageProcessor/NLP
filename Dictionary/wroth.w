@@ -1,0 +1,1 @@
+{"index": 368124, "D": "angry; wrathful (usually used predicatively)", "S": ["annoyed ", "enraged ", "exasperated ", "furious ", "incensed ", "indignant ", "infuriated ", "irritated ", "livid "], "A": ["cheerful ", "happy ", "pleased "]}

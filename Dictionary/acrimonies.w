@@ -1,0 +1,1 @@
+{"index": 2842, "D": "sharpness, harshness, or bitterness of nature, speech, disposition, etc.", "S": ["animosity ", "antagonism ", "belligerence ", "bitterness ", "ill feeling ", "ill will ", "rancor "], "A": ["good will ", "love ", "benevolence ", "kindness ", "liking ", "mildness ", "sympathy "]}

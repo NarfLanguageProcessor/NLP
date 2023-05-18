@@ -1,0 +1,1 @@
+{"index": 31196, "D": "warlike; given to waging war.", "S": ["activist ", "combatant ", "demonstrator ", "fighter ", "protester ", "rioter "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 236170, "D": "a person whose occupation is the joining together of pieces  or threads, as in textile work.", "S": ["bit ", "chunk ", "example ", "fragment ", "hunk ", "item ", "lot ", "portion ", "quantity ", "sample ", "scrap ", "section ", "segment ", "slice ", "specimen "], "A": ["entirety ", "whole "]}

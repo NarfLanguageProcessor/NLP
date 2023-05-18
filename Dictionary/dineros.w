@@ -1,0 +1,1 @@
+{"index": 86087, "D": "a former silver coin of Peru, the 10th part of a sol.", "S": ["buck ", "currency ", "investment ", "note ", "payment ", "refund ", "reserve ", "security ", "stock ", "supply "], "A": ["debt "]}

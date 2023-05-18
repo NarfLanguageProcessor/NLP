@@ -1,0 +1,1 @@
+{"index": 124009, "D": "a device that is placed on or in the ground and used to detect seismic waves.", "S": [], "A": []}

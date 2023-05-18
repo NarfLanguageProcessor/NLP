@@ -1,0 +1,1 @@
+{"index": 55225, "D": "a variety of spinel  used as a gem, colored grass-green by the presence of copper.", "S": [], "A": []}

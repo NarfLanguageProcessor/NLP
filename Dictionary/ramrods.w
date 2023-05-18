@@ -1,0 +1,1 @@
+{"index": 260421, "D": "a rod  for ramming  down the charge of a muzzleloading firearm.", "S": [], "A": []}

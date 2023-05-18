@@ -1,0 +1,1 @@
+{"index": 272778, "D": "to fit (shrouds, stays, sails, etc.) to the mast, yard, or the like.", "S": ["machinery "], "A": []}

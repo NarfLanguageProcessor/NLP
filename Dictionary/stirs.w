@@ -1,0 +1,1 @@
+{"index": 304841, "D": "to move one's hand or an implement continuously or repeatedly through (a liquid or other substance) in order to cool, mix, agitate, dissolve, etc., any or all of the component parts", "S": ["furor ", "fuss ", "uproar "], "A": ["calm ", "peace ", "calmness ", "harmony ", "order ", "quiet "]}

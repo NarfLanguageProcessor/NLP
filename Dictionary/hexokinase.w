@@ -1,0 +1,1 @@
+{"index": 138101, "D": "an enzyme that catalyzes the phosphorylation of hexose  sugars.", "S": [], "A": []}

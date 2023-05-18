@@ -1,0 +1,1 @@
+{"index": 188384, "D": "the bark of the wax myrtle.", "S": [], "A": []}

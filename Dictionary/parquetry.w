@@ -1,0 +1,1 @@
+{"index": 226813, "D": "mosaic work of wood used for floors, wainscoting, etc.; marquetry.", "S": ["color ", "design ", "finery ", "ornament ", "plaque ", "ribbon ", "trinket ", "wreath "], "A": ["plainness "]}

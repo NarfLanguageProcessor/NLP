@@ -1,0 +1,1 @@
+{"index": 283627, "D": "the study of linguistic development by classifying and examining changes in meaning and form.", "S": ["connotation ", "definition ", "denotation ", "explanation ", "explication ", "exposition ", "interpretation ", "semiology ", "semiotics ", "symbolism "], "A": []}

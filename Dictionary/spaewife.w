@@ -1,0 +1,1 @@
+{"index": 298244, "D": "a woman who can supposedly foretell the future", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 49438, "D": "a bag, basket, or other receptacle for odds and ends.", "S": ["broad ", "comprehensive "], "A": ["exclusive ", "narrow "]}

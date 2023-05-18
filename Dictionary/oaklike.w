@@ -1,0 +1,1 @@
+{"index": 209872, "D": "any tree or shrub belonging to the genus Quercus, of the beech family,  bearing the acorn as fruit.", "S": [], "A": []}

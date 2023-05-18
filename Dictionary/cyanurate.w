@@ -1,0 +1,1 @@
+{"index": 56905, "D": "the salt or ester of cyanuric acid. ", "S": [], "A": []}

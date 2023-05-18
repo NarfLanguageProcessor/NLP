@@ -1,0 +1,1 @@
+{"index": 121945, "D": "any large, web-footed, seabird of the family Sulidae, having a sharply pointed bill, long wings, and a wedge-shaped tail, noted for its plunging dives for fish.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308444, "D": "of or relating to the biogeographic region of the ocean bottom between the littoral  and bathyal  zones, from the low water line to the edge of the continental shelf,  or to a depth of approximately 660 feet (200 meters).", "S": [], "A": []}

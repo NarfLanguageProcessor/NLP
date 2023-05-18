@@ -1,0 +1,1 @@
+{"index": 6648, "D": "a modern sect, divided into an older group (Qadianis ) and a newer group (Lahore party ).", "S": [], "A": []}

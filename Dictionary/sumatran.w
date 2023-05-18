@@ -1,0 +1,1 @@
+{"index": 310875, "D": "of or relating to Sumatra or its inhabitants", "S": [], "A": []}

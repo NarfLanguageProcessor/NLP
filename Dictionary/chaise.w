@@ -1,0 +1,1 @@
+{"index": 52035, "D": "a light, open carriage,  usually with a hood, especially a one-horse, two-wheeled carriage for two people; shay. ", "S": ["bunk ", "cot ", "couch ", "crib ", "mattress "], "A": []}

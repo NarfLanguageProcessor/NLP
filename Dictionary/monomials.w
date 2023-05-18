@@ -1,0 +1,1 @@
+{"index": 192439, "D": "(of a matrix) having exactly one non-zero term in each row and each column.", "S": [], "A": []}

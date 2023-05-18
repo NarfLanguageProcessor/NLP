@@ -1,0 +1,1 @@
+{"index": 249641, "D": "any of various modified forms of iron, artificially produced, having a carbon content less than that of pig iron and more than that of wrought iron, and having qualities of hardness, elasticity, and strength varying according to composition and heat treatment", "S": [], "A": []}

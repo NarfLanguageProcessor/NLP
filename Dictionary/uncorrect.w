@@ -1,0 +1,1 @@
+{"index": 338009, "D": "to convert (a true course) into a magnetic course.", "S": [], "A": []}

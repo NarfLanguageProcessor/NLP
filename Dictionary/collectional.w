@@ -1,0 +1,1 @@
+{"index": 62902, "D": "the act of collecting. ", "S": [], "A": []}

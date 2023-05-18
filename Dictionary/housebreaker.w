@@ -1,0 +1,1 @@
+{"index": 144390, "D": "a person who breaks into and enters a house with a felonious intent.", "S": ["crook ", "robber ", "thief "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 366647, "D": "into or inside the house.", "S": ["indoors "], "A": ["exterior ", "outside "]}

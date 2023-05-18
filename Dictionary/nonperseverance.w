@@ -1,0 +1,1 @@
+{"index": 205900, "D": "steady persistence in a course of action, a purpose, a state, etc., especially in spite of difficulties, obstacles, or discouragement.", "S": [], "A": []}

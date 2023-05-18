@@ -1,0 +1,1 @@
+{"index": 260508, "D": "a rowboat designed for three people, one person in the middle using two oars and the other two using one oar each.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 345127, "D": "to make universal. ", "S": [], "A": []}

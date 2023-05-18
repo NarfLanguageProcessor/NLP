@@ -1,0 +1,1 @@
+{"index": 181571, "D": "the centimeter-gram-second unit of magnetic flux, equal to the magnetic flux through one square centimeter normal to a magnetic field of one gauss. Abbreviation", "S": [], "A": []}

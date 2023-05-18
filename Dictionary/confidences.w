@@ -1,0 +1,1 @@
+{"index": 65882, "D": "full trust; belief in the powers, trustworthiness, or reliability of a person or thing", "S": ["assurance ", "certainty ", "courage ", "determination ", "morale ", "poise ", "spirit ", "tenacity "], "A": ["doubt ", "fear ", "hesitation ", "irresolution ", "uncertainty ", "weakness ", "cowardice ", "timidity "]}

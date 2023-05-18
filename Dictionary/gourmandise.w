@@ -1,0 +1,1 @@
+{"index": 128343, "D": "unrestrained enjoyment of fine foods, wines, and the like.", "S": [], "A": []}

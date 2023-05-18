@@ -1,0 +1,1 @@
+{"index": 66080, "D": "the system of ethics, education, and statesmanship taught by Confucius and his disciples, stressing love for humanity, ancestor worship, reverence for parents, and harmony in thought and conduct.", "S": [], "A": []}

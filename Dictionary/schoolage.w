@@ -1,0 +1,1 @@
+{"index": 280425, "D": "the age set by law for children to start school attendance.", "S": ["early years ", "juvenescence ", "juvenility ", "younger days ", "youth "], "A": []}

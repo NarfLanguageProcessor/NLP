@@ -1,0 +1,1 @@
+{"index": 53120, "D": "a movable article of personal property.", "S": ["belongings ", "capital ", "effects ", "gear ", "goods ", "slave ", "wares "], "A": []}

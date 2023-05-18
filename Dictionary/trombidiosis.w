@@ -1,0 +1,1 @@
+{"index": 331072, "D": "the condition of being infested with chiggers.", "S": [], "A": []}

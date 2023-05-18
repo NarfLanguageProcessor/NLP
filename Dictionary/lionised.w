@@ -1,0 +1,1 @@
+{"index": 173074, "D": "to treat (a person) as a celebrity", "S": [], "A": []}

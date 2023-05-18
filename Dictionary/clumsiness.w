@@ -1,0 +1,1 @@
+{"index": 60703, "D": "awkwardness or lack of skill or grace in movement or action", "S": ["awkwardness ", "ineptitude ", "ungainliness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 89875, "D": "to draw away or divert, as the mind or attention", "S": ["disturbing ", "rowdy ", "troublesome ", "unruly ", "upsetting "], "A": ["calming ", "disciplined ", "settling ", "soothing ", "well-behaved "]}

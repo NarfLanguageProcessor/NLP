@@ -1,0 +1,1 @@
+{"index": 286904, "D": "any group or set of six.", "S": ["assemblage ", "band ", "cast ", "choir ", "chorus ", "orchestra ", "quartet ", "quintet ", "trio ", "troupe "], "A": ["fraction ", "individual ", "part "]}

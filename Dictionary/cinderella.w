@@ -1,0 +1,1 @@
+{"index": 57627, "D": "a heroine of a fairy tale or folk tale who is maltreated by a malevolent stepmother but achieves happiness and marries a prince through the benevolent intervention of a fairy godmother.", "S": [], "A": []}

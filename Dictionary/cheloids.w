@@ -1,0 +1,1 @@
+{"index": 53625, "D": "an abnormal proliferation of scar tissue, as on the site of a surgical incision.", "S": [], "A": []}

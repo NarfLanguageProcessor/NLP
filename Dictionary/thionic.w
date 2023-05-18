@@ -1,0 +1,1 @@
+{"index": 321991, "D": "of or relating to sulfur.", "S": [], "A": []}

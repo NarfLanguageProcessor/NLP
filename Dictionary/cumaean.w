@@ -1,0 +1,1 @@
+{"index": 74878, "D": "an ancient city in SW Italy, on the coast of Campania", "S": [], "A": []}

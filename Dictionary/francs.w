@@ -1,0 +1,1 @@
+{"index": 118346, "D": "an aluminum or nickel coin and monetary unit of France, Belgium, and Luxembourg until the euro  was adopted, equal to 100 centimes. Abbreviations", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 159013, "D": "having the same acidity or hydrogen-ion concentration", "S": [], "A": []}

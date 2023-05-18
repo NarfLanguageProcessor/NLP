@@ -1,0 +1,1 @@
+{"index": 45133, "D": "a structure shaped like a cup.", "S": [], "A": []}

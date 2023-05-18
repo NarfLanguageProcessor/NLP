@@ -1,0 +1,1 @@
+{"index": 169346, "D": "a person who promulgates a law or a code of laws.", "S": ["administrator ", "council member ", "deputy ", "lawmaker ", "leader ", "member ", "parliamentarian ", "representative ", "senator "], "A": []}

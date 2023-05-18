@@ -1,0 +1,1 @@
+{"index": 150193, "D": "not condensable;  incapable of being condensed.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 194602, "D": "a protein  that yields carbohydrates as well as amino acids on hydrolysis.", "S": [], "A": []}

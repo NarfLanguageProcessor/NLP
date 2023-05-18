@@ -1,0 +1,1 @@
+{"index": 60030, "D": "any fish  of the family Gobiesocidae, having a sucking disk on the abdomen for clinging  to stones, debris, etc.", "S": [], "A": []}

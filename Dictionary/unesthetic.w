@@ -1,0 +1,1 @@
+{"index": 341512, "D": "offensive to the aesthetic  sense; lacking in beauty or sensory appeal; unpleasant, as an object, design, arrangement, etc.", "S": [], "A": []}

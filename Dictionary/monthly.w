@@ -1,0 +1,1 @@
+{"index": 192910, "D": "pertaining to a month,  or to each month. ", "S": ["annual ", "intermittent ", "occasional ", "recurrent ", "recurring ", "regular ", "repeated ", "routine ", "seasonal ", "sporadic ", "weekly ", "yearly "], "A": ["constant ", "infrequent ", "unusual "]}

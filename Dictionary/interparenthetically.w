@@ -1,0 +1,1 @@
+{"index": 155572, "D": "as a qualification, explanation, or additional piece of information that interrupts a phrase or sentence; between parentheses,  dashes, or commas", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 87304, "D": "to relieve of a charge or load; unload", "S": ["clearance ", "pardon ", "parole "], "A": ["assignment ", "damming ", "delegation ", "employment ", "engagement ", "hiring ", "hold ", "imprisonment ", "incarceration ", "indebtedness ", "keep ", "loading ", "owing ", "retention "]}

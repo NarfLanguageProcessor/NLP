@@ -1,0 +1,1 @@
+{"index": 113130, "D": "a bristletail, Thermobia domestica, that lives in areas around furnaces, boilers, steampipes, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 101503, "D": "to take in toils;  ensnare; enmesh.", "S": [], "A": []}

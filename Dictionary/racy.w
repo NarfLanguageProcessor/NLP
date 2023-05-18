@@ -1,0 +1,1 @@
+{"index": 259408, "D": "slightly improper or indelicate; suggestive; risqu\u00e9.", "S": ["animated ", "entertaining ", "lively ", "poignant ", "saucy "], "A": ["dull "]}

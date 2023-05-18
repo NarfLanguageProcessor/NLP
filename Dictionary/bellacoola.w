@@ -1,0 +1,1 @@
+{"index": 31128, "D": "former name of the Nuxalk. ", "S": [], "A": []}

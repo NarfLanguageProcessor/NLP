@@ -1,0 +1,1 @@
+{"index": 122430, "D": "a sudden, short intake of breath, as in shock or surprise.", "S": [], "A": []}

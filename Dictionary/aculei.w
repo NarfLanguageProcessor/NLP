@@ -1,0 +1,1 @@
+{"index": 3339, "D": "the modified ovipositor or sting of certain hymenopterous insects.", "S": [], "A": []}

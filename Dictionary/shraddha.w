@@ -1,0 +1,1 @@
+{"index": 289116, "D": "one of several funeral rites performed at intervals after a death.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 207558, "D": "of or relating to structure;  relating or essential to a structure.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 326635, "D": "a traveling around from place to place.", "S": ["journeying ", "vacationing "], "A": []}

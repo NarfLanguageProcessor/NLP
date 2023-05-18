@@ -1,0 +1,1 @@
+{"index": 89096, "D": "(of the atrium of an ancient Roman house) having roofs sloping downward and outward from a central opening.", "S": [], "A": []}

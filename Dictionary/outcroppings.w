@@ -1,0 +1,1 @@
+{"index": 216422, "D": [], "S": ["conclusion ", "consequence ", "decision ", "development ", "event ", "issue ", "outcome ", "product ", "reaction "], "A": ["beginning ", "cause ", "commencement ", "origin ", "source ", "start ", "failure ", "initiation ", "introduction ", "opening ", "unfulfillment "]}

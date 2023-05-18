@@ -1,0 +1,1 @@
+{"index": 63346, "D": "producing or imparting color. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 155352, "D": "a communication containing some information, news, advice, request, or the like, sent by messenger, telephone, email, or other means.", "S": [], "A": []}

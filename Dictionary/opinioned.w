@@ -1,0 +1,1 @@
+{"index": 213563, "D": "having an opinion,  especially of a specified kind.", "S": [], "A": []}

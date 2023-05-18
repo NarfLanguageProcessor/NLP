@@ -1,0 +1,1 @@
+{"index": 233008, "D": "an apparition or specter.", "S": [], "A": []}

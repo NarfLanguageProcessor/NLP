@@ -1,0 +1,1 @@
+{"index": 325764, "D": "having or displaying conspicuous teeth", "S": ["acceptable ", "agreeable ", "appetizing ", "attractive ", "delicious ", "enjoyable ", "pleasant ", "satisfactory ", "tempting "], "A": ["disagreeable ", "repulsive ", "unacceptable ", "unattractive ", "unpleasant ", "unsatisfactory "]}

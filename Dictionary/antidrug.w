@@ -1,0 +1,1 @@
+{"index": 15152, "D": "opposing or restricting the use of narcotics or other drugs  of abuse", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 314621, "D": "a swindle or disappointment; swizzle", "S": [], "A": []}

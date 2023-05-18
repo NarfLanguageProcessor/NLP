@@ -1,0 +1,1 @@
+{"index": 35838, "D": "any of several diseases caused by certain yeastlike fungi, especially blastomycetes.", "S": [], "A": []}

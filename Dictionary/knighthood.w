@@ -1,0 +1,1 @@
+{"index": 165565, "D": "the rank or dignity of a knight", "S": ["courtliness ", "gallantry "], "A": []}

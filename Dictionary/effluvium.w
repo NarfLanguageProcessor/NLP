@@ -1,0 +1,1 @@
+{"index": 96064, "D": "a slight or invisible exhalation or vapor, especially one that is disagreeable or noxious.", "S": ["exhalation ", "exhaust ", "odor ", "smell ", "vapor "], "A": []}

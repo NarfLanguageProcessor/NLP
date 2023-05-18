@@ -1,0 +1,1 @@
+{"index": 140961, "D": "situated on the receptacle beneath the pistil and free of the ovary, as stamens, petals, or sepals.", "S": [], "A": []}

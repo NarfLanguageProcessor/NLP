@@ -1,0 +1,1 @@
+{"index": 226590, "D": "sung or played as though speaking or reciting (a musical direction).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342608, "D": "suffering from bad luck", "S": ["adverse ", "damaging ", "deplorable ", "disastrous ", "inappropriate ", "inauspicious ", "lamentable ", "regrettable ", "unlucky ", "untoward "], "A": ["auspicious ", "blessed ", "favorable ", "fortunate ", "good ", "happy ", "helpful ", "lucky ", "proper ", "suitable ", "hopeful "]}

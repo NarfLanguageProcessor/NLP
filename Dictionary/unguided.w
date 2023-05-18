@@ -1,0 +1,1 @@
+{"index": 343370, "D": "(of a missile, bomb, etc) not having a flight path controlled either by radio signals or internal preset or self-actuating homing devices", "S": ["desultory ", "erratic ", "frivolous ", "haphazard ", "indiscriminate ", "pointless ", "random "], "A": ["definite ", "methodical ", "particular ", "sensible ", "specific ", "systematic "]}

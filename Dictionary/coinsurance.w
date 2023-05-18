@@ -1,0 +1,1 @@
+{"index": 62539, "D": "insurance  underwritten jointly with another or others.", "S": [], "A": []}

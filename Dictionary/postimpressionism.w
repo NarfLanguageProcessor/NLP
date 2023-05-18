@@ -1,0 +1,1 @@
+{"index": 244221, "D": "a varied development of Impressionism by a group of painters chiefly between 1880 and 1900 stressing formal structure, as with C\u00e9zanne and Seurat, or the expressive possibilities of form and color, as with Van Gogh and Gauguin.", "S": [], "A": []}

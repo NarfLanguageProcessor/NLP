@@ -1,0 +1,1 @@
+{"index": 61242, "D": "the nut of certain cultivated varieties of hazel, Corylus avellana grandis.", "S": [], "A": []}

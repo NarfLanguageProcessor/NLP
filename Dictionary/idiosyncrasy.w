@@ -1,0 +1,1 @@
+{"index": 146541, "D": "a characteristic, habit, mannerism, or the like, that is peculiar to an individual.", "S": ["eccentricity ", "mannerism ", "peculiarity ", "trait "], "A": ["normality ", "usualness "]}

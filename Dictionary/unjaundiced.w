@@ -1,0 +1,1 @@
+{"index": 345175, "D": "devoid of distorted or prejudiced views.", "S": [], "A": []}

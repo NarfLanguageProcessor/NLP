@@ -1,0 +1,1 @@
+{"index": 230153, "D": "the condition or service of a peon. ", "S": ["enslavement ", "serfdom ", "servitude ", "subjugation ", "yoke "], "A": ["freedom ", "independence "]}

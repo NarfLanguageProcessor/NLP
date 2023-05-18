@@ -1,0 +1,1 @@
+{"index": 89454, "D": "having been released, spread, or scattered widely; dispersed", "S": ["broadcast ", "circulated ", "diluted ", "dispersed ", "distributed ", "expanded ", "extended ", "general ", "propagated ", "radiated ", "scattered ", "separated ", "strewn ", "thin "], "A": ["concentrated ", "condensed "]}

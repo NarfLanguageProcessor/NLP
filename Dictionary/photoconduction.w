@@ -1,0 +1,1 @@
+{"index": 235047, "D": "See photoconductivity", "S": [], "A": []}

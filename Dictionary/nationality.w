@@ -1,0 +1,1 @@
+{"index": 197266, "D": "the status of belonging to a particular nation,  whether by birth or naturalization", "S": ["citizenship ", "community ", "ethnic group ", "origin ", "society "], "A": []}

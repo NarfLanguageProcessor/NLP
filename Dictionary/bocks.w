@@ -1,0 +1,1 @@
+{"index": 37147, "D": "a strong, dark beer traditionally brewed in the fall and aged through the winter for consumption the following spring.", "S": [], "A": []}

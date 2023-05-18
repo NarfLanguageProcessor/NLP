@@ -1,0 +1,1 @@
+{"index": 250713, "D": "any of several petrels of the genus Pachyptila, located in the oceans of the Southern Hemisphere and having serrated edges on the bill.", "S": [], "A": []}

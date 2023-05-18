@@ -1,0 +1,1 @@
+{"index": 167726, "D": "the surgical removal of part of the posterior arch of a vertebra to provide access to the spinal canal, as for the excision of a ruptured disk.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 74769, "D": "(of stress or tone accent) serving to indicate the number of independent words or the important points in an utterance by assigning prominence to one syllable in each word or close-knit group of words.", "S": [], "A": []}

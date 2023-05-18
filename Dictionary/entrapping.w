@@ -1,0 +1,1 @@
+{"index": 101648, "D": "to catch in or as in a trap; ensnare", "S": ["chicanery ", "deception ", "dishonesty ", "duplicity ", "fraud ", "hypocrisy ", "treachery ", "trickery "], "A": ["fairness ", "forthrightness ", "frankness ", "honesty ", "openness ", "sincerity ", "trustworthiness ", "truth ", "truthfulness ", "artlessness ", "reality "]}

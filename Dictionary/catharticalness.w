@@ -1,0 +1,1 @@
+{"index": 49645, "D": "of or relating to catharsis. ", "S": [], "A": []}

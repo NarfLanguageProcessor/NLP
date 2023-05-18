@@ -1,0 +1,1 @@
+{"index": 122895, "D": "like gauze;  transparently thin and light.", "S": [], "A": []}

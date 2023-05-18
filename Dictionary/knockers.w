@@ -1,0 +1,1 @@
+{"index": 165637, "D": "a person or thing that knocks. ", "S": ["carper ", "caviler ", "censor ", "faultfinder ", "hypercritic ", "nitpicker ", "quibbler "], "A": []}

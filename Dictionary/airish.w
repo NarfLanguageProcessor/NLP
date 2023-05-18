@@ -1,0 +1,1 @@
+{"index": 6928, "D": "given to putting on airs.", "S": ["pretentious ", "self-conscious ", "stilted "], "A": ["natural ", "unpretentious "]}

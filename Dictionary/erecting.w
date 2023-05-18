@@ -1,0 +1,1 @@
+{"index": 103527, "D": "upright in position or posture", "S": ["development ", "manufacture ", "plan ", "planning ", "structure ", "system "], "A": ["disarrangement ", "truth "]}

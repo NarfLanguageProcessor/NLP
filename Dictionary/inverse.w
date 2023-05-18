@@ -1,0 +1,1 @@
+{"index": 157130, "D": "reversed in position, order, direction, or tendency.", "S": ["contrary ", "converse ", "reverse "], "A": ["similar "]}

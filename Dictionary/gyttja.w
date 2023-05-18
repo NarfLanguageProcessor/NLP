@@ -1,0 +1,1 @@
+{"index": 125684, "D": "a mud rich in organic matter, found at the bottom or near the shore of certain lakes.", "S": [], "A": []}

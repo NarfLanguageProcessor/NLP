@@ -1,0 +1,1 @@
+{"index": 336665, "D": "in a way that seems rudely abrupt or hasty; suddenly and without apology or explanation", "S": [], "A": []}

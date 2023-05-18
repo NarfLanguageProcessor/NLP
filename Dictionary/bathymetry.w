@@ -1,0 +1,1 @@
+{"index": 28950, "D": "the measurement of the depths of oceans, seas, or other large bodies of water.", "S": [], "A": []}

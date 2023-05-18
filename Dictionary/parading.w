@@ -1,0 +1,1 @@
+{"index": 225500, "D": "a large public procession, usually including a marching band and often of a festive nature, held in honor of an anniversary, person, event, etc.", "S": ["checking ", "filing ", "hiking ", "pacing ", "patrolling ", "policing ", "proceeding ", "stepping ", "walking "], "A": []}

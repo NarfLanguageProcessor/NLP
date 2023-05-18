@@ -1,0 +1,1 @@
+{"index": 282543, "D": "to go or look through (a place, area, etc.) carefully in order to find something missing or lost", "S": ["adventurer ", "experimenter ", "pathfinder ", "pilgrim ", "pioneer ", "seeker ", "traveler "], "A": []}

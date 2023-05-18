@@ -1,0 +1,1 @@
+{"index": 291286, "D": "the pairing of homologous chromosomes, one from each parent, during early meiosis.", "S": [], "A": []}

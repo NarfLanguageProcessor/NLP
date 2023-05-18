@@ -1,0 +1,1 @@
+{"index": 315314, "D": "a carved weapon in the form of a staff, now used in M\u0101ori ceremonial oratory", "S": [], "A": []}

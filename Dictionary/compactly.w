@@ -1,0 +1,1 @@
+{"index": 64348, "D": "joined or packed together; closely and firmly united; dense; solid", "S": [], "A": []}

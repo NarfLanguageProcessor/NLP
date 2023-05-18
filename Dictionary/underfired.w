@@ -1,0 +1,1 @@
+{"index": 339202, "D": "supplied with fuel or heat from beneath.", "S": [], "A": []}

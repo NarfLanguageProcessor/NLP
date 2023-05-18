@@ -1,0 +1,1 @@
+{"index": 72141, "D": "a shaft  having one or more cranks,  usually formed as integral parts.", "S": [], "A": []}

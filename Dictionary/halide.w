@@ -1,0 +1,1 @@
+{"index": 132649, "D": "a chemical compound in which one of the elements is a halogen.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 190471, "D": "shaped like a bishop's miter  or having a miter-shaped apex.", "S": [], "A": []}

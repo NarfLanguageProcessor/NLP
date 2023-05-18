@@ -1,0 +1,1 @@
+{"index": 4764, "D": "a spore  borne by an aecium. ", "S": [], "A": []}

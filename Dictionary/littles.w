@@ -1,0 +1,1 @@
+{"index": 173882, "D": "small in size; not big; not large; tiny", "S": ["insufficient ", "limited ", "meager ", "scant ", "slight "], "A": ["adequate ", "big ", "fat ", "large ", "sufficient ", "giant ", "huge ", "lengthy ", "long ", "older ", "substantial ", "tall "]}

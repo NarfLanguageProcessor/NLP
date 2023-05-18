@@ -1,0 +1,1 @@
+{"index": 221424, "D": "having, showing, or able to exert great bodily or muscular power; physically vigorous or robust", "S": [], "A": []}

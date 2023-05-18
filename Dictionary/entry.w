@@ -1,0 +1,1 @@
+{"index": 101704, "D": "an act of entering; entrance.", "S": ["access ", "entrance ", "opening ", "passage "], "A": ["conclusion "]}

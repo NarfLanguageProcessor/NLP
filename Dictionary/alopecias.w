@@ -1,0 +1,1 @@
+{"index": 9276, "D": "loss of hair; baldness.", "S": ["MPB ", "baldness ", "hair loss ", "male pattern hair loss "], "A": []}

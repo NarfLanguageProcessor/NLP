@@ -1,0 +1,1 @@
+{"index": 200229, "D": "the daughter of Tantalus and wife of Amphion of Thebes. She provoked Apollo and Artemis to vengeance by taunting their mother, Leto, with the number and beauty of her own children; Niobe's children were slain and Zeus turned her into stone, in which state she continued to weep over her loss.", "S": [], "A": []}

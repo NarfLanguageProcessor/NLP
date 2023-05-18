@@ -1,0 +1,1 @@
+{"index": 44387, "D": "(of many amphibians, such as frogs) having gills during one stage of the life cycle only", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 8534, "D": "to put (fear, doubt, suspicion, anger, etc.) to rest; calm; quiet.", "S": [], "A": []}

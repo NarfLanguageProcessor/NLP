@@ -1,0 +1,1 @@
+{"index": 110985, "D": "well-suited for the occasion, as an action, manner, or expression; apt; appropriate", "S": ["cheerfully ", "cheerily ", "cordially ", "enthusiastically ", "freely ", "gleefully ", "gratefully ", "heartily ", "readily ", "warmly ", "willingly "], "A": ["unwillingly "]}

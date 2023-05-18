@@ -1,0 +1,1 @@
+{"index": 330038, "D": "(of flowers) having members in each whorl in groups of three.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 22551, "D": "belonging or pertaining to the family Atherinidae, comprising the silversides.", "S": [], "A": []}

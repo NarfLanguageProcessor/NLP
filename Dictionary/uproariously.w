@@ -1,0 +1,1 @@
+{"index": 354957, "D": "characterized by or in a state of uproar;  tumultuous.", "S": ["heavily ", "seriously ", "strongly ", "vigorously "], "A": ["lightly "]}

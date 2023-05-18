@@ -1,0 +1,1 @@
+{"index": 248634, "D": "to absorb or engross to the exclusion of other things.", "S": ["consume ", "engross "], "A": ["exclude ", "misinterpret ", "miss ", "mistake ", "misunderstand ", "neglect ", "overlook "]}

@@ -1,0 +1,1 @@
+{"index": 145634, "D": "a vine, Dioscorea trifida, of South America, having large leaves and edible tubers.", "S": [], "A": []}

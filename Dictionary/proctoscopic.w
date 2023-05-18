@@ -1,0 +1,1 @@
+{"index": 251450, "D": "an instrument for visual examination of the interior of the rectum.", "S": [], "A": []}

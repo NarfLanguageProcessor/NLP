@@ -1,0 +1,1 @@
+{"index": 12216, "D": "a red coloring matter obtained from the root of the alkanet, Alkanna tinctoria.", "S": [], "A": []}

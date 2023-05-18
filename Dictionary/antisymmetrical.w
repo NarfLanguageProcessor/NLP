@@ -1,0 +1,1 @@
+{"index": 16191, "D": "noting a relation in which one element's dependence on a second implies that the second element is not dependent on the first, as the relation \u201cgreater than.\u201d", "S": [], "A": []}

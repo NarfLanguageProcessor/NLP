@@ -1,0 +1,1 @@
+{"index": 44639, "D": "a tree, Melaleuca leucadendron, of the myrtle family, native to Australia and New Guinea, having papery bark and yielding a greenish, aromatic oil (cajeput oil ) used in medicine and perfumes.", "S": [], "A": []}

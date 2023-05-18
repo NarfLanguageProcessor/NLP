@@ -1,0 +1,1 @@
+{"index": 317539, "D": "not weeping or shedding tears. ", "S": [], "A": []}

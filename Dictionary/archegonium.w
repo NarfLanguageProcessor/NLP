@@ -1,0 +1,1 @@
+{"index": 18819, "D": "the female reproductive organ in ferns, mosses, etc.", "S": [], "A": []}

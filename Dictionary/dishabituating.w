@@ -1,0 +1,1 @@
+{"index": 88220, "D": "to cause to be no longer habituated  or accustomed.", "S": [], "A": []}

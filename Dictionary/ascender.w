@@ -1,0 +1,1 @@
+{"index": 20924, "D": "a person or thing that ascends or causes ascension.", "S": [], "A": []}

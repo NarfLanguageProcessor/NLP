@@ -1,0 +1,1 @@
+{"index": 72198, "D": "given to or characterized by gross excess in drinking or eating.", "S": [], "A": []}

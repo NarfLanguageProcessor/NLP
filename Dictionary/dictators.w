@@ -1,0 +1,1 @@
+{"index": 84967, "D": "a person exercising absolute power, especially a ruler who has absolute, unrestricted control in a government without hereditary succession.", "S": ["autocrat ", "boss ", "chief ", "commander ", "despot ", "fascist ", "leader ", "tycoon ", "tyrant "], "A": ["employee ", "follower ", "worker "]}

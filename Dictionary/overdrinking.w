@@ -1,0 +1,1 @@
+{"index": 219096, "D": "to take water or other liquid into the mouth and swallow it; imbibe. ", "S": ["depravity ", "dissipation ", "excess ", "gluttony ", "intemperance ", "orgy ", "overeating ", "satiation ", "satiety ", "spoiling "], "A": ["virtue "]}

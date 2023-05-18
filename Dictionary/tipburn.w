@@ -1,0 +1,1 @@
+{"index": 324155, "D": "a disease of lettuce, potatoes, and other plants, characterized by browning of the tips  and edges of the leaves, resulting from any of several environmental factors, as excessive heat and humidity.", "S": [], "A": []}

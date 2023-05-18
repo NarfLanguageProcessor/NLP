@@ -1,0 +1,1 @@
+{"index": 228523, "D": "of, pertaining to, resembling, or containing the substance peat. ", "S": [], "A": []}

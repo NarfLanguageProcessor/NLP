@@ -1,0 +1,1 @@
+{"index": 73603, "D": "any of the small, bulbous plants of the genus Crocus, of the iris family, cultivated for their showy, solitary flowers, which are among the first to bloom in the spring.", "S": [], "A": []}

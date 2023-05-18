@@ -1,0 +1,1 @@
+{"index": 257184, "D": "any of various types of wheeled light cart  to be pushed  by hand, as one used by street vendors.", "S": ["rickshaw ", "truck ", "wagon "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 130343, "D": "the water beneath the surface of the ground, consisting largely of surface water that has seeped down", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 245665, "D": "to give permission to or for; permit", "S": [], "A": []}

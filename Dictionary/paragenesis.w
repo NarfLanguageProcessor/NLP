@@ -1,0 +1,1 @@
+{"index": 225592, "D": "the origin of minerals or mineral deposits in contact so as to affect one another's formation.", "S": [], "A": []}

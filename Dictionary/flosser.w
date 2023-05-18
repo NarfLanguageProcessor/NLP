@@ -1,0 +1,1 @@
+{"index": 115097, "D": "the cottony fiber yielded by the silk-cotton tree.", "S": [], "A": []}

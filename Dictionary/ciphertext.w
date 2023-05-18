@@ -1,0 +1,1 @@
+{"index": 57876, "D": "the encoded version of a message or other text;  cryptogram.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 116267, "D": "a low stool  upon which to rest one's feet  when seated.", "S": ["hassock ", "ottoman ", "stool "], "A": []}

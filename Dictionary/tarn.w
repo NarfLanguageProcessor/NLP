@@ -1,0 +1,1 @@
+{"index": 316636, "D": "a small mountain lake or pool, especially one in a cirque. ", "S": ["basin ", "lagoon ", "pond ", "pool ", "reservoir "], "A": []}

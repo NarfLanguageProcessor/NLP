@@ -1,0 +1,1 @@
+{"index": 250093, "D": [], "S": ["affable ", "aristocratic ", "civilized ", "dignified ", "elegant ", "gallant ", "gracious ", "polite ", "stately "], "A": ["impolite ", "rude ", "undignified ", "unmannerly ", "unrefined ", "unsophisticated ", "vulgar "]}

@@ -1,0 +1,1 @@
+{"index": 68553, "D": "a tulip-shaped sherry glass", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 179962, "D": "an informal variant form of margarita,  the cocktail drink.", "S": [], "A": []}

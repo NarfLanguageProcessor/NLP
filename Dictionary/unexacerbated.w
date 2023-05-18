@@ -1,0 +1,1 @@
+{"index": 341598, "D": "made worse, more severe, or more bitter; aggravated", "S": [], "A": []}

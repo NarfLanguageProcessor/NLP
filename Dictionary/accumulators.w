@@ -1,0 +1,1 @@
+{"index": 1831, "D": "a person or thing that accumulates. ", "S": ["connoisseur ", "hobbyist "], "A": []}

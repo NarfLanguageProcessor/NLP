@@ -1,0 +1,1 @@
+{"index": 202400, "D": "the communication of disease by direct or indirect contact.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97274, "D": "elastic deformation produced by an electric field, independent of the polarity of the field.", "S": [], "A": []}

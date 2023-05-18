@@ -1,0 +1,1 @@
+{"index": 53812, "D": "a form-fitting, knee-length dress with a mandarin collar and slit skirt, worn chiefly by Chinese women.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 200797, "D": "accompanied by or making little or no noise; silent; quiet", "S": ["softly "], "A": ["audibly ", "loudly ", "publicly "]}

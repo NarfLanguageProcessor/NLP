@@ -1,0 +1,1 @@
+{"index": 281049, "D": "a person who mocks or makes fun of someone or something, often of religion or moral values", "S": ["detractor ", "doubter ", "pessimist ", "skeptic "], "A": ["believer "]}

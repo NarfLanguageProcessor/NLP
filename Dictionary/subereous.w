@@ -1,0 +1,1 @@
+{"index": 307914, "D": "of the nature of or resembling cork; suberose.", "S": [], "A": []}

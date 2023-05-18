@@ -1,0 +1,1 @@
+{"index": 233192, "D": "any of the major appearances or aspects in which a thing of varying modes or conditions manifests itself to the eye or mind.", "S": [], "A": []}

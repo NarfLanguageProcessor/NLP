@@ -1,0 +1,1 @@
+{"index": 307899, "D": "a particular period of time marked by distinctive features, events, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 104880, "D": "a colorless to yellow, pungent, aromatic liquid, C7H9ClO, used as a hypnotic and sedative, especially in the short-term management of insomnia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 53781, "D": "an evergreen moraceous tree, Artocarpus champeden (or A. integer), of Malaysia, similar to the jackfruit", "S": [], "A": []}

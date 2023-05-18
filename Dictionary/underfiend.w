@@ -1,0 +1,1 @@
+{"index": 339193, "D": "Satan; the devil.", "S": [], "A": []}

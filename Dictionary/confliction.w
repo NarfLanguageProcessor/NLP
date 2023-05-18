@@ -1,0 +1,1 @@
+{"index": 65993, "D": "the act or state of conflicting or clashing; disagreement", "S": [], "A": []}

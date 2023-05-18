@@ -1,0 +1,1 @@
+{"index": 337289, "D": "serving to commend;  approving; praising.", "S": [], "A": []}

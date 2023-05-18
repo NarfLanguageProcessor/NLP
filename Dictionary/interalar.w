@@ -1,0 +1,1 @@
+{"index": 154450, "D": "pertaining to or having wings; alary.", "S": [], "A": []}

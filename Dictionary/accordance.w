@@ -1,0 +1,1 @@
+{"index": 1687, "D": "agreement; conformity", "S": ["accord ", "conformity ", "consonance "], "A": ["disagreement ", "discord ", "nonconformity ", "refusal "]}

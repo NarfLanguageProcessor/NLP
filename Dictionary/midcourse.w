@@ -1,0 +1,1 @@
+{"index": 186678, "D": "the middle of a course, course of events, or course of action", "S": [], "A": []}

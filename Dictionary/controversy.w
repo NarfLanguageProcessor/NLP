@@ -1,0 +1,1 @@
+{"index": 67817, "D": "a prolonged public dispute, debate, or contention; disputation concerning a matter of opinion.", "S": ["argument ", "bickering ", "difference ", "discussion ", "fuss ", "quarrel ", "squabble ", "strife ", "wrangle ", "wrangling "], "A": ["agreement ", "concurrence ", "peace ", "compliment ", "harmony ", "praise "]}

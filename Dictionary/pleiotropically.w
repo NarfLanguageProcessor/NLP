@@ -1,0 +1,1 @@
+{"index": 239771, "D": "responsible for or affecting more than one phenotypic characteristic", "S": [], "A": []}

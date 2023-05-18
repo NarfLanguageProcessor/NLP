@@ -1,0 +1,1 @@
+{"index": 138855, "D": "a plant that grows in water or very moist ground; an aquatic plant.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 100450, "D": "to ornament the edge of with curved indentations.", "S": [], "A": []}

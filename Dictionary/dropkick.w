@@ -1,0 +1,1 @@
+{"index": 93349, "D": "Compare place kick, punt1 (def. 1). ", "S": ["bounce ", "eject ", "evict ", "expel ", "knock ", "shove "], "A": ["admit ", "allow ", "permit ", "take in ", "welcome ", "employ ", "engage ", "hire ", "hold ", "keep "]}

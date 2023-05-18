@@ -1,0 +1,1 @@
+{"index": 88058, "D": [], "S": ["deform ", "distort ", "maim ", "mangle ", "mar ", "mutilate ", "scar "], "A": ["aid ", "beautify ", "cure ", "heal ", "help ", "repair ", "adorn ", "assist ", "decorate ", "embellish ", "fix ", "mend ", "ornament "]}

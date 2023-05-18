@@ -1,0 +1,1 @@
+{"index": 182876, "D": "ameliorate. ", "S": ["advance ", "ameliorate ", "better ", "correct ", "improve ", "upgrade "], "A": ["decrease ", "worsen "]}

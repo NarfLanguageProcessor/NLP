@@ -1,0 +1,1 @@
+{"index": 309515, "D": "an archaic variant of subtlety. ", "S": [], "A": []}

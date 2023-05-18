@@ -1,0 +1,1 @@
+{"index": 240893, "D": "a person who trespasses on private property, especially to catch fish or game illegally.", "S": [], "A": []}

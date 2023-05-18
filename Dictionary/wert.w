@@ -1,0 +1,1 @@
+{"index": 364209, "D": "a second person singular past indicative and subjunctive of be. ", "S": [], "A": []}

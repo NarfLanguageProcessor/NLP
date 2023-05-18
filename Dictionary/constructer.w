@@ -1,0 +1,1 @@
+{"index": 67101, "D": "a variant of constructor (def. 1). ", "S": [], "A": []}

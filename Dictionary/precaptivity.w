@@ -1,0 +1,1 @@
+{"index": 245929, "D": "the state or period of being held, imprisoned, enslaved, or confined.", "S": [], "A": []}

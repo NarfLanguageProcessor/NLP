@@ -1,0 +1,1 @@
+{"index": 223814, "D": "a native or inhabitant of Palestine. ", "S": [], "A": []}

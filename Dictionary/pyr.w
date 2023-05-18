@@ -1,0 +1,1 @@
+{"index": 237538, "D": "variant of pyro-,  used before h or a vowel", "S": [], "A": []}

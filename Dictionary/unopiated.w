@@ -1,0 +1,1 @@
+{"index": 347162, "D": "a drug containing opium or its derivatives, used in medicine for inducing sleep and relieving pain", "S": [], "A": []}

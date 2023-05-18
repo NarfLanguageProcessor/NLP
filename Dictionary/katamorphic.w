@@ -1,0 +1,1 @@
+{"index": 163358, "D": "metamorphism at or near the earth's surface", "S": [], "A": []}

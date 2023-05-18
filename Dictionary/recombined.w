@@ -1,0 +1,1 @@
+{"index": 263136, "D": "to bring into or join in a close union or whole; unite", "S": [], "A": []}

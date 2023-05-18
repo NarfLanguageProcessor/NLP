@@ -1,0 +1,1 @@
+{"index": 299147, "D": "a person who spends,  especially one who habitually spends  excessively or lavishly; spendthrift.", "S": ["profligate ", "spendthrift ", "sport ", "squanderer ", "waster ", "wastrel "], "A": []}

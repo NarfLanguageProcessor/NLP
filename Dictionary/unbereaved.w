@@ -1,0 +1,1 @@
+{"index": 335814, "D": "(of a person) greatly saddened at being deprived by death of a loved one.", "S": [], "A": []}

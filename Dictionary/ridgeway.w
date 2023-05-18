@@ -1,0 +1,1 @@
+{"index": 272675, "D": "a road or track along a ridge, esp one of great antiquity", "S": [], "A": []}

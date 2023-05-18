@@ -1,0 +1,1 @@
+{"index": 9261, "D": "by or along  the shore  or coast.", "S": [], "A": []}

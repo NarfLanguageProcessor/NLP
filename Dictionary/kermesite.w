@@ -1,0 +1,1 @@
+{"index": 164027, "D": "a mineral, antimony oxysulfide, Sb2S2O, occurring usually in tufts of red capillary crystals.", "S": [], "A": []}

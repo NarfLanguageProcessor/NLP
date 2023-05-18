@@ -1,0 +1,1 @@
+{"index": 65884, "D": "having strong belief or full assurance; sure", "S": ["assured ", "convinced ", "positive ", "sure ", "upbeat "], "A": ["apprehensive ", "distrustful ", "doubtful ", "dubious ", "fearful ", "indefinite ", "pessimistic ", "uncertain ", "unconfident ", "unsure "]}

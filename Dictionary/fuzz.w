@@ -1,0 +1,1 @@
+{"index": 120741, "D": "loose, light, fibrous, or fluffy matter.", "S": ["lint "], "A": ["smoothness "]}

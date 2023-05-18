@@ -1,0 +1,1 @@
+{"index": 93969, "D": "a trapezoidal zither with metal strings that are struck with light hammers.", "S": [], "A": []}

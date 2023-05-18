@@ -1,0 +1,1 @@
+{"index": 59840, "D": "of, relating to, or characteristic of a clerk.", "S": ["accounting ", "bookkeeping ", "clerkish ", "office ", "pink collar ", "scribal ", "stenographic ", "subordinate ", "typing ", "white collar ", "written "], "A": []}

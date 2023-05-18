@@ -1,0 +1,1 @@
+{"index": 225628, "D": "a model or pattern of excellence or of a particular excellence", "S": ["complement ", "correlate ", "correspond ", "imitate "], "A": ["differ ", "disagree ", "imbalance ", "refuse "]}

@@ -1,0 +1,1 @@
+{"index": 42757, "D": "a person or thing that bumps. ", "S": ["armor ", "buffer ", "bulwark ", "safeguard ", "shelter "], "A": []}

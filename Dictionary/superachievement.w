@@ -1,0 +1,1 @@
+{"index": 311290, "D": "something accomplished, especially by superior ability, special effort, great courage, etc.; a great or heroic deed", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107860, "D": "fully and clearly expressed or demonstrated; leaving nothing merely implied; unequivocal", "S": ["accuracy ", "brightness ", "certainty ", "directness ", "lucidity ", "precision ", "purity ", "simplicity ", "transparency "], "A": ["inaccuracy ", "unintelligibility "]}

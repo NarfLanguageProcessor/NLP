@@ -1,0 +1,1 @@
+{"index": 79601, "D": "(in prescriptions) may be swallowed; let it be swallowed.", "S": [], "A": []}

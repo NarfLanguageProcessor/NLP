@@ -1,0 +1,1 @@
+{"index": 120579, "D": "a tube, cord, or the like, filled or saturated with combustible matter, for igniting an explosive.", "S": ["blend ", "coalesce ", "combine ", "dissolve ", "integrate ", "melt ", "merge ", "mingle ", "weld "], "A": ["coagulate ", "disconnect ", "divide ", "part ", "separate ", "solidify "]}

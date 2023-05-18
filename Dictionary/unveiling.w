@@ -1,0 +1,1 @@
+{"index": 353698, "D": "a ceremony in which a statue or monument is presented or displayed for the first time by removing its covering.", "S": ["arrival ", "debut ", "display ", "presence ", "presentation "], "A": ["conclusion ", "departure ", "end ", "exit "]}

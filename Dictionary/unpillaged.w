@@ -1,0 +1,1 @@
+{"index": 347926, "D": "to strip ruthlessly of money or goods by open violence, as in war; plunder", "S": [], "A": []}

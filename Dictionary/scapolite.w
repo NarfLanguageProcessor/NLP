@@ -1,0 +1,1 @@
+{"index": 279662, "D": "any of a group of minerals of variable composition, essentially silicates of aluminum, calcium, and sodium, occurring as massive aggregates or tetragonal crystals.", "S": [], "A": []}

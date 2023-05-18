@@ -1,0 +1,1 @@
+{"index": 3916, "D": "tending to move toward a stimulus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 214402, "D": "formally affiliated in a recognized group or organization,  especially a union", "S": ["coordinated ", "formed ", "formulated ", "standardized "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 291702, "D": "only one in number; one only; unique; sole", "S": ["individual ", "lone ", "original ", "particular ", "personal ", "private ", "separate ", "simple ", "sole ", "special ", "specific "], "A": ["common ", "general ", "indefinite ", "ordinary ", "public ", "together ", "unimportant ", "usual ", "attached ", "combined ", "mingling ", "sociable "]}

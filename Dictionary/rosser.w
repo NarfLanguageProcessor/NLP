@@ -1,0 +1,1 @@
+{"index": 274559, "D": "a logger who peels the bark from, and often smooths one side of, a log so that it may be dragged easily.", "S": [], "A": []}

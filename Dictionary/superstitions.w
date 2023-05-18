@@ -1,0 +1,1 @@
+{"index": 312724, "D": "a belief or notion, not based on reason or knowledge, in or of the ominous significance of a particular thing, circumstance, occurrence, proceeding, or the like.", "S": ["fear ", "irrationality ", "notion ", "shibboleth "], "A": ["fact ", "reality ", "truth "]}

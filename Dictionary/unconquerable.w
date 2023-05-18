@@ -1,0 +1,1 @@
+{"index": 337662, "D": "impossible to take or subdue by military force", "S": ["impregnable ", "indefeasible ", "indomitable ", "inexpugnable ", "innate ", "insuperable ", "intractable ", "invincible ", "invulnerable ", "irrepressible ", "resistant ", "secure ", "unbeatable ", "unsurpassable ", "unyielding "], "A": ["conquerable "]}

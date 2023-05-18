@@ -1,0 +1,1 @@
+{"index": 65776, "D": "(among the ancient Romans) a form of marriage ceremony, limited to patricians and obligatory for holders of certain ritual offices, marked by the offering of a cake.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 137960, "D": "(especially of alcohols and phenols) hexahydroxy.", "S": [], "A": []}

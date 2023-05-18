@@ -1,0 +1,1 @@
+{"index": 193385, "D": "a heavy fabric of wool, or wool and cotton, with a ribbed face and a moir\u00e9 finish, used for curtains, petticoats, etc.", "S": [], "A": []}

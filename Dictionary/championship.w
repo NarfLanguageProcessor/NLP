@@ -1,0 +1,1 @@
+{"index": 52373, "D": "the distinction or condition of being a champion", "S": ["crown ", "showdown ", "tournament "], "A": []}

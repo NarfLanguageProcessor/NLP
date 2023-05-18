@@ -1,0 +1,1 @@
+{"index": 135397, "D": "heirship; inheritance.", "S": [], "A": []}

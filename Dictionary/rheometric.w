@@ -1,0 +1,1 @@
+{"index": 271878, "D": "an instrument for measuring the flow of fluids, especially blood.", "S": [], "A": []}

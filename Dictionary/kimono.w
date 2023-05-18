@@ -1,0 +1,1 @@
+{"index": 164728, "D": "a loose, wide-sleeved robe, fastened at the waist with a wide sash, characteristic of Japanese costume.", "S": ["smock "], "A": []}

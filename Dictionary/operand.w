@@ -1,0 +1,1 @@
+{"index": 213267, "D": "a quantity upon which a mathematical operation is performed.", "S": [], "A": []}

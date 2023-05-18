@@ -1,0 +1,1 @@
+{"index": 92214, "D": "to or into the opposite end of the court. ", "S": [], "A": []}

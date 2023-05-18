@@ -1,0 +1,1 @@
+{"index": 333571, "D": "the property of having a definite location at any given time; state of existing and being localized in space.", "S": ["existence "], "A": ["absence ", "agitation ", "confusion ", "distance ", "distress ", "reality ", "upset "]}

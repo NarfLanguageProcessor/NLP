@@ -1,0 +1,1 @@
+{"index": 103624, "D": "an alkaloid, C23H27N3O2, obtained from ergot or produced synthetically, used chiefly in obstetrics to induce uterine contractions or control uterine bleeding.", "S": [], "A": []}

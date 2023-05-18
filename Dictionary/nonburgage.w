@@ -1,0 +1,1 @@
+{"index": 201747, "D": "(in England) a tenure whereby burgesses or townspeople held lands or tenements of the king or other lord, usually for a fixed money rent.", "S": [], "A": []}

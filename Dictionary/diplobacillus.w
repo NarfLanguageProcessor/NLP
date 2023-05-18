@@ -1,0 +1,1 @@
+{"index": 86517, "D": "a double bacillus;  two bacilli  linked end to end.", "S": [], "A": []}

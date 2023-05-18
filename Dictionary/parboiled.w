@@ -1,0 +1,1 @@
+{"index": 226234, "D": "to boil partially or for a short time; precook.", "S": ["agitate ", "bubble ", "churn ", "coddle ", "cook ", "decoct ", "effervesce ", "evaporate ", "fizz ", "foam ", "froth ", "poach ", "seethe ", "simmer ", "smolder ", "steam ", "steep ", "stew "], "A": ["freeze "]}

@@ -1,0 +1,1 @@
+{"index": 309777, "D": "a person or thing that works.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 220653, "D": "the state of being proficient;  skill; expertness", "S": [], "A": []}

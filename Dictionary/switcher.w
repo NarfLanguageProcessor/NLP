@@ -1,0 +1,1 @@
+{"index": 314573, "D": "a locomotive for switching rolling stock in a yard.", "S": [], "A": []}

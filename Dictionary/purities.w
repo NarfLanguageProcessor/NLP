@@ -1,0 +1,1 @@
+{"index": 256982, "D": "the condition or quality of being pure;  freedom from anything that debases, contaminates, pollutes, etc.", "S": ["cleanliness "], "A": ["impurity "]}

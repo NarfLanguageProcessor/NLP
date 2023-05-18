@@ -1,0 +1,1 @@
+{"index": 227637, "D": "a person, group, or company that has been granted a patent. ", "S": [], "A": []}

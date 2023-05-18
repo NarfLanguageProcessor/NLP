@@ -1,0 +1,1 @@
+{"index": 173614, "D": "a yellowish or reddish, odorless, heavy, earthy, water-insoluble, poisonous solid, PbO, used chiefly in the manufacture of storage batteries, pottery, lead glass, paints, enamels, and inks.", "S": [], "A": []}

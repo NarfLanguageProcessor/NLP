@@ -1,0 +1,1 @@
+{"index": 303121, "D": "the act or practice of idolizing the state", "S": [], "A": []}

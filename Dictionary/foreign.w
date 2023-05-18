@@ -1,0 +1,1 @@
+{"index": 116723, "D": "of, relating to, or derived from another country or nation; not native", "S": ["alien ", "different ", "external ", "offshore ", "overseas ", "unfamiliar "], "A": ["characteristic ", "familiar ", "known ", "local ", "national ", "native ", "regular ", "relevant "]}

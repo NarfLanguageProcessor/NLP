@@ -1,0 +1,1 @@
+{"index": 157174, "D": "to examine, study, or inquire into systematically; search or examine into the particulars of; examine in detail.", "S": ["consider ", "examine ", "explore ", "inspect ", "interrogate ", "probe ", "question ", "review ", "scrutinize ", "search ", "study "], "A": ["answer ", "forget ", "ignore ", "neglect ", "reply ", "leave alone ", "overlook "]}

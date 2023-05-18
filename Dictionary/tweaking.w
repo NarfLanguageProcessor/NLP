@@ -1,0 +1,1 @@
+{"index": 333216, "D": "the act of pinching and pulling something with a jerk and twist", "S": ["tease ", "twist "], "A": []}

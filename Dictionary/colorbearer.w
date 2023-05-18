@@ -1,0 +1,1 @@
+{"index": 63325, "D": "Compare guidon (def. 2). ", "S": [], "A": []}

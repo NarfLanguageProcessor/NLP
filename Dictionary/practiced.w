@@ -1,0 +1,1 @@
+{"index": 245091, "D": "skilled or expert; proficient through practice  or experience", "S": ["adept ", "proficient ", "skilled "], "A": ["clumsy ", "incompetent ", "inept ", "unskilled "]}

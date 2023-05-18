@@ -1,0 +1,1 @@
+{"index": 326910, "D": "an abnormal condition produced by the action of a poison.", "S": [], "A": []}

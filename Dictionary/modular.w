@@ -1,0 +1,1 @@
+{"index": 191170, "D": "of or relating to a module  or a modulus.", "S": ["commutable ", "interchangeable ", "standard "], "A": ["fixed ", "inflexible "]}

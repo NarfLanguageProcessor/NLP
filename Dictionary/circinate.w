@@ -1,0 +1,1 @@
+{"index": 57967, "D": "made round; ring-shaped.", "S": ["oblique ", "round ", "spheroid "], "A": []}

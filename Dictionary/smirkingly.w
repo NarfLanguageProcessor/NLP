@@ -1,0 +1,1 @@
+{"index": 294917, "D": "to smile in an affected, smug, or offensively familiar way.", "S": [], "A": []}

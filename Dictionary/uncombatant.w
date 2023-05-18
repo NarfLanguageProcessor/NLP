@@ -1,0 +1,1 @@
+{"index": 337248, "D": "a nation engaged in active fighting with enemy forces.", "S": [], "A": []}

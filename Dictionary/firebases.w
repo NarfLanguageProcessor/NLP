@@ -1,0 +1,1 @@
+{"index": 113109, "D": "an artillery base,  especially one set up quickly to support advancing troops or to forestall enemy advances.", "S": [], "A": []}

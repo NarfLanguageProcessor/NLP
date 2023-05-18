@@ -1,0 +1,1 @@
+{"index": 30696, "D": "simple past tense and a past participle of beget. ", "S": ["arising ", "beginning ", "starting ", "stemming "], "A": []}

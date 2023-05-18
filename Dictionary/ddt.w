@@ -1,0 +1,1 @@
+{"index": 77404, "D": "a potent synthetic insecticide, C14H9Cl5, initially developed in the 1940s to combat insect-borne human diseases and later found to be highly and adversely persistent in the environment", "S": ["defoliant ", "fungicide ", "insecticide ", "pesticide "], "A": []}

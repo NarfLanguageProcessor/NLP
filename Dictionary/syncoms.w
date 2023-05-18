@@ -1,0 +1,1 @@
+{"index": 291454, "D": "one of a series of experimental communications satellites that were the first to be placed in geostationary orbit.", "S": [], "A": []}

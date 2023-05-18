@@ -1,0 +1,1 @@
+{"index": 39119, "D": "of or relating to the subfamily Bovinae, which includes cattle, buffalo, and kudus.", "S": [], "A": []}

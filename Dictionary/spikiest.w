@@ -1,0 +1,1 @@
+{"index": 299784, "D": "having a spike  or spikes. ", "S": ["belligerent ", "combative ", "contentious ", "opinionated "], "A": ["compromising "]}

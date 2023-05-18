@@ -1,0 +1,1 @@
+{"index": 235762, "D": "an open square or public place in a city or town, especially in Italy.", "S": [], "A": []}

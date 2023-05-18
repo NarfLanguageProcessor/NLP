@@ -1,0 +1,1 @@
+{"index": 304471, "D": "(formerly, in the Soviet Union) a person, usually young, who adopted the unconventional manner and dress of some Western youth groups, as rockers or punk-rock fans.", "S": [], "A": []}

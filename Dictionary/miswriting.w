@@ -1,0 +1,1 @@
+{"index": 190448, "D": "to trace or form (characters, letters, words, etc.) on the surface of some material, as with a pen, pencil, or other instrument or means; inscribe", "S": [], "A": []}

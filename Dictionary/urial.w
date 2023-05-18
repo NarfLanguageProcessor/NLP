@@ -1,0 +1,1 @@
+{"index": 355630, "D": "a wild, bearded sheep, Ovis vignei, of southern Asia, having a reddish coat.", "S": [], "A": []}

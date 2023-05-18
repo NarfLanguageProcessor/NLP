@@ -1,0 +1,1 @@
+{"index": 362875, "D": "a rectangular board or frame, typically with a corrugated metallic surface, on which clothes are rubbed in the process of washing.", "S": [], "A": []}

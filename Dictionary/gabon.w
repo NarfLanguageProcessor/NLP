@@ -1,0 +1,1 @@
+{"index": 120831, "D": "a republic in western equatorial Africa, bordered on the west by the Atlantic Ocean and on the east by People's Republic of the Congo.  102,290 sq. mi. (264,931 sq. km). Capital", "S": [], "A": []}

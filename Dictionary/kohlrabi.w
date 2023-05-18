@@ -1,0 +1,1 @@
+{"index": 165853, "D": "a cultivated cabbage, Brassica oleracea gongylodes, of the mustard family,  whose stem above ground swells into an edible, bulblike formation.", "S": [], "A": []}

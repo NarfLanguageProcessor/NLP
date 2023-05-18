@@ -1,0 +1,1 @@
+{"index": 23273, "D": "capable of being heard; loud enough to be heard; actually heard.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310977, "D": "to call upon to do something specified.", "S": ["catchpole ", "law officer ", "messenger ", "pursuivant "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 312012, "D": "of much or great significance or consequence", "S": [], "A": []}

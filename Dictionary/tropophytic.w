@@ -1,0 +1,1 @@
+{"index": 331265, "D": "a tropophilous plant, as a broad-leaved tree.", "S": [], "A": []}

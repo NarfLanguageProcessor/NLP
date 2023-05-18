@@ -1,0 +1,1 @@
+{"index": 330081, "D": "pertaining to or having three molecules.", "S": [], "A": []}

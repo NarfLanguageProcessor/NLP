@@ -1,0 +1,1 @@
+{"index": 349603, "D": "not typical or representative", "S": ["abnormal ", "atypical ", "divergent ", "incongruous ", "peculiar ", "unnatural "], "A": ["normal ", "ordinary ", "standard ", "usual "]}

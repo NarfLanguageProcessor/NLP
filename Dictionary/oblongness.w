@@ -1,0 +1,1 @@
+{"index": 210266, "D": "elongated, usually from the square or circular form.", "S": [], "A": []}

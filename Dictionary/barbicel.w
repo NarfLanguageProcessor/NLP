@@ -1,0 +1,1 @@
+{"index": 27795, "D": "one of the minute processes fringing the barbules of certain feathers.", "S": [], "A": []}

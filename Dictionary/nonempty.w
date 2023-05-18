@@ -1,0 +1,1 @@
+{"index": 203486, "D": "(of a set, group, collection, etc.) containing at least one element.", "S": [], "A": []}

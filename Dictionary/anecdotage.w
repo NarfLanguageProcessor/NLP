@@ -1,0 +1,1 @@
+{"index": 12469, "D": "anecdotes  collectively.", "S": [], "A": []}

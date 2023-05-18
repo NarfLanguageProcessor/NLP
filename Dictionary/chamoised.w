@@ -1,0 +1,1 @@
+{"index": 52316, "D": "an agile, goatlike antelope, Rupicapra rupicapra, of high mountains of Europe", "S": [], "A": []}

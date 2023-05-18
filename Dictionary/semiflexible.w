@@ -1,0 +1,1 @@
+{"index": 284227, "D": "moderately or somewhat flexible. ", "S": [], "A": []}

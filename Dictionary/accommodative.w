@@ -1,0 +1,1 @@
+{"index": 1648, "D": "tending to accommodate;  adaptive.", "S": [], "A": []}

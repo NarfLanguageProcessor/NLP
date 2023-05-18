@@ -1,0 +1,1 @@
+{"index": 250651, "D": "supreme power or office.", "S": [], "A": []}

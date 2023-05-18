@@ -1,0 +1,1 @@
+{"index": 203243, "D": "divergence;  deviation.", "S": [], "A": []}

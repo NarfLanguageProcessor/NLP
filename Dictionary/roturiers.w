@@ -1,0 +1,1 @@
+{"index": 274728, "D": "a person of low rank; plebeian.", "S": [], "A": []}

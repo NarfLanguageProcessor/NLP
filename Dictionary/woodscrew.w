@@ -1,0 +1,1 @@
+{"index": 367231, "D": "any of various screws that have a slotted head and a gimlet point that permit them to be driven into wood with a screwdriver.", "S": [], "A": []}

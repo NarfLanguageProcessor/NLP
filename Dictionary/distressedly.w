@@ -1,0 +1,1 @@
+{"index": 89901, "D": "affected with or suffering from distress. ", "S": [], "A": []}

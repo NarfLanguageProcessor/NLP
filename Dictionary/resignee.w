@@ -1,0 +1,1 @@
+{"index": 269404, "D": "a person who has resigned  or is about to resign. ", "S": [], "A": []}

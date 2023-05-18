@@ -1,0 +1,1 @@
+{"index": 135321, "D": "of, relating to, or characteristic of Hegel  or his philosophical system.", "S": [], "A": []}

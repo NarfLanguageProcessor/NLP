@@ -1,0 +1,1 @@
+{"index": 186456, "D": "a photographic image too small to be read by the unaided eye.", "S": [], "A": []}

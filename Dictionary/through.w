@@ -1,0 +1,1 @@
+{"index": 322837, "D": "in at one end, side, or surface and out at the other", "S": ["over "], "A": ["incomplete ", "indirect ", "stopping ", "unfinished "]}

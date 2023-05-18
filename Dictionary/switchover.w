@@ -1,0 +1,1 @@
+{"index": 314587, "D": "the act or process of changing from one power source, system, etc., to another.", "S": ["fluctuation ", "permutation "], "A": ["similarity ", "stagnation ", "uniformity "]}

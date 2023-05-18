@@ -1,0 +1,1 @@
+{"index": 356543, "D": "decreasing or mimicking the decrease of the activity of the vagus nerve.", "S": [], "A": []}

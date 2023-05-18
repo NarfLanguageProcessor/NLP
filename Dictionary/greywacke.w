@@ -1,0 +1,1 @@
+{"index": 129706, "D": "any dark sandstone or grit having a matrix of clay minerals", "S": [], "A": []}

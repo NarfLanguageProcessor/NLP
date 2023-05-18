@@ -1,0 +1,1 @@
+{"index": 322723, "D": "prospering or doing well; highly successful", "S": ["profitably ", "strongly ", "well "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 47595, "D": "the process of mixing a hydrocarbon fuel with a correct amount of air to make an explosive mixture for an internal-combustion engine", "S": [], "A": []}

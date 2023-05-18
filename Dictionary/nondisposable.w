@@ -1,0 +1,1 @@
+{"index": 203194, "D": "designed for or capable of being thrown away after being used or used up", "S": [], "A": []}

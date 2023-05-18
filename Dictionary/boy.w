@@ -1,0 +1,1 @@
+{"index": 37379, "D": "a male child, from birth to full growth, especially one less than 18 years of age.", "S": ["child ", "fellow ", "guy ", "lad ", "youngster ", "youth "], "A": ["girl "]}

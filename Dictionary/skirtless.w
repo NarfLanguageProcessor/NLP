@@ -1,0 +1,1 @@
+{"index": 293362, "D": "the part of a gown, dress, slip, or coat that extends downward from the waist.", "S": [], "A": []}

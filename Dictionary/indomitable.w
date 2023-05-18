@@ -1,0 +1,1 @@
+{"index": 151252, "D": "that cannot be subdued or overcome, as persons, will, or courage; unconquerable", "S": ["impregnable ", "invincible ", "invulnerable ", "obstinate ", "stubborn ", "unassailable ", "unbeatable ", "willful "], "A": ["beatable ", "flexible ", "willing ", "yielding "]}

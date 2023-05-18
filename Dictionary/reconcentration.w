@@ -1,0 +1,1 @@
+{"index": 263245, "D": "the act of concentrating again.", "S": [], "A": []}

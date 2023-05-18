@@ -1,0 +1,1 @@
+{"index": 114504, "D": "a system permitting flexibility of working hours at the beginning or end of the day, provided an agreed period of each day (core time) is spent at work", "S": [], "A": []}

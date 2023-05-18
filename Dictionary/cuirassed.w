@@ -1,0 +1,1 @@
+{"index": 74660, "D": "defensive armor for the torso comprising a breastplate and backplate, originally made of leather.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25642, "D": "a foot of three syllables that in quantitative meter consists of one short syllable followed by two long ones, and that in accentual meter consists of one unstressed syllable followed by two stressed ones.", "S": [], "A": []}

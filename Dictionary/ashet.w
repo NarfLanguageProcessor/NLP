@@ -1,0 +1,1 @@
+{"index": 21144, "D": "a shallow oval dish or large plate", "S": [], "A": []}

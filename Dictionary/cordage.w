@@ -1,0 +1,1 @@
+{"index": 68894, "D": "fiber and wire ropes, lines, hawsers, etc., taken as a whole, especially with reference to the rigging and other equipment of a vessel.", "S": ["fiber ", "string ", "twine "], "A": []}

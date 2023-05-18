@@ -1,0 +1,1 @@
+{"index": 81807, "D": "spoken or written about with disapproval", "S": ["depreciate ", "derogate ", "detract ", "discountenance ", "disesteem ", "disfavor ", "disparage ", "expostulate ", "frown ", "object ", "pooh-pooh ", "rip "], "A": ["approve ", "commend ", "compliment ", "increase ", "laud ", "praise ", "sanction "]}

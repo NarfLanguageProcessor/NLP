@@ -1,0 +1,1 @@
+{"index": 212552, "D": "the quality or state of being omniscient. ", "S": [], "A": []}

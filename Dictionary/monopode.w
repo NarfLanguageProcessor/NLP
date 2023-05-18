@@ -1,0 +1,1 @@
+{"index": 192550, "D": "having one foot.", "S": [], "A": []}

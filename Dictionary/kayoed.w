@@ -1,0 +1,1 @@
+{"index": 162790, "D": "KO. ", "S": ["KO ", "coldcock ", "do in ", "hamstring ", "kayo ", "knock senseless ", "lay out "], "A": []}

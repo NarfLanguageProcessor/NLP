@@ -1,0 +1,1 @@
+{"index": 141317, "D": "(of tissue) having less than the normal tone.", "S": [], "A": []}

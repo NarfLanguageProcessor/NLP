@@ -1,0 +1,1 @@
+{"index": 342298, "D": "any of various cold-blooded, aquatic vertebrates, having gills, commonly fins, and typically an elongated body covered with scales.", "S": [], "A": []}

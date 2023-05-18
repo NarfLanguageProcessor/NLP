@@ -1,0 +1,1 @@
+{"index": 213659, "D": "a person who is on an opposing  side in a game, contest, controversy, or the like; adversary.", "S": ["adversary ", "aspirant ", "candidate ", "challenger ", "competitor ", "enemy ", "foe ", "opposition ", "player ", "rival "], "A": ["ally ", "assistant ", "friend ", "helper "]}

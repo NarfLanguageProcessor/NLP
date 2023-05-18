@@ -1,0 +1,1 @@
+{"index": 1715, "D": "a person who assists during childbirth, especially an obstetrician.", "S": [], "A": []}

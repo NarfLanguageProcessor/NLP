@@ -1,0 +1,1 @@
+{"index": 130607, "D": "the sacred scripture of the Sikhs, original text compiled 1604.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 271759, "D": "of or relating to a series of rocks formed in the late Triassic period", "S": [], "A": []}

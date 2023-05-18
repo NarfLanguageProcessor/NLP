@@ -1,0 +1,1 @@
+{"index": 151358, "D": "to yield to an inclination or desire; allow oneself to follow one's will (often followed by in)", "S": ["honored ", "powerful "], "A": ["disadvantageous ", "poor ", "prevented ", "public "]}

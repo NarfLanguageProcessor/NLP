@@ -1,0 +1,1 @@
+{"index": 104982, "D": "a flammable liquid with an odor of ammonia, C2H7N, used as a stabilizer for rubber latex, as a dye intermediate, and in organic synthesis.", "S": [], "A": []}

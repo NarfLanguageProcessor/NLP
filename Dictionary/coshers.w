@@ -1,0 +1,1 @@
+{"index": 69975, "D": "to treat with special fondness; pamper.", "S": [], "A": []}

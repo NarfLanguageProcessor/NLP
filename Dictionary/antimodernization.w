@@ -1,0 +1,1 @@
+{"index": 15601, "D": "the act or process of making or becoming up-to-date, or the state of being up-to-date or modern", "S": [], "A": []}

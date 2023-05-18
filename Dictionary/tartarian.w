@@ -1,0 +1,1 @@
+{"index": 316775, "D": "of, relating to, or characteristic of a Tartar  or the Tartars, the Mongolian and Turkish tribes who overran Asia and much of Eastern Europe in the Middle Ages.", "S": [], "A": []}

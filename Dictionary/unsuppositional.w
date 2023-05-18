@@ -1,0 +1,1 @@
+{"index": 352464, "D": "the act of supposing. ", "S": [], "A": []}

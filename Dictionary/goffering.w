@@ -1,0 +1,1 @@
+{"index": 127418, "D": "a decorative or ornamental frill, ruffle, etc.", "S": [], "A": []}

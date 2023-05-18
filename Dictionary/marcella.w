@@ -1,0 +1,1 @@
+{"index": 179875, "D": "a cotton or linen fabric constructed in pique weave, used in the manufacture of vests, mats, etc.", "S": [], "A": []}

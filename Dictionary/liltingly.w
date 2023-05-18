@@ -1,0 +1,1 @@
+{"index": 172258, "D": "rhythmic swing or cadence.", "S": [], "A": []}

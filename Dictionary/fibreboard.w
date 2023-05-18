@@ -1,0 +1,1 @@
+{"index": 111983, "D": "a building material made of compressed wood or other plant fibres, esp one in the form of a thin semirigid sheet", "S": [], "A": []}

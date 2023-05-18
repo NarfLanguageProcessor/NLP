@@ -1,0 +1,1 @@
+{"index": 81790, "D": "depreciation.", "S": [], "A": []}

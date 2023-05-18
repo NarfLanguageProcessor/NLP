@@ -1,0 +1,1 @@
+{"index": 348123, "D": "a controversial argument, as one against some opinion, doctrine, etc.", "S": [], "A": []}

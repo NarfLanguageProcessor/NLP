@@ -1,0 +1,1 @@
+{"index": 10271, "D": "it is so; so be it (used after a prayer, creed, or other formal statement to express solemn ratification or agreement).", "S": ["certainly ", "exactly ", "truly ", "verily "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 190197, "D": "a cow shed; byre", "S": [], "A": []}

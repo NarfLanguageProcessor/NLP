@@ -1,0 +1,1 @@
+{"index": 113665, "D": "hanging loosely or limply, as flesh or muscles; flaccid.", "S": ["lax ", "sloppy "], "A": ["firm ", "lean ", "slim ", "taut ", "thin ", "tight "]}

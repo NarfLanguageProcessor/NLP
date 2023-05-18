@@ -1,0 +1,1 @@
+{"index": 212399, "D": "the 24th and last letter of the Greek alphabet (\u03a9, \u03c9).", "S": ["closure ", "conclusion ", "finish ", "issue ", "outcome ", "resolution ", "result ", "retirement "], "A": ["beginning ", "commencement ", "introduction ", "origin ", "source ", "start ", "frustration "]}

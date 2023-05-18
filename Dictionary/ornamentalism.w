@@ -1,0 +1,1 @@
+{"index": 214690, "D": "the desire or tendency to feature ornament in the design of buildings, interiors, furnishings, etc.", "S": [], "A": []}

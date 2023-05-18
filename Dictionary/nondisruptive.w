@@ -1,0 +1,1 @@
+{"index": 203203, "D": "causing, tending to cause, or caused by disruption; disrupting", "S": [], "A": []}

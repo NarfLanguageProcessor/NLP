@@ -1,0 +1,1 @@
+{"index": 26551, "D": "a combining form modeled after Jew-baiting  and referring to hate speech  and other rhetoric or depictions that target a minoritized group in order to denigrate that group or for the purpose of pitting different identity groups against one another", "S": ["enticement "], "A": ["discouragement ", "drag ", "repulsion "]}

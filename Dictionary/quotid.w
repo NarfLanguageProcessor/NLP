@@ -1,0 +1,1 @@
+{"index": 259167, "D": "(in prescriptions) daily.", "S": [], "A": []}

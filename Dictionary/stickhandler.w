@@ -1,0 +1,1 @@
+{"index": 304299, "D": "a hockey or lacrosse player, esp. one who is talented at stickhandling. ", "S": [], "A": []}

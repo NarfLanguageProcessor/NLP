@@ -1,0 +1,1 @@
+{"index": 128081, "D": "a narrow cleft with steep, rocky walls, especially one through which a stream runs.", "S": [], "A": []}

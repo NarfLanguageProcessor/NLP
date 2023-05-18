@@ -1,0 +1,1 @@
+{"index": 284825, "D": "a legendary Assyrian queen, the wife of Ninus and founder of Babylon, noted for her wisdom and beauty.", "S": [], "A": []}

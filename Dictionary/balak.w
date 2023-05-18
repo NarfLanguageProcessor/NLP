@@ -1,0 +1,1 @@
+{"index": 26675, "D": "a Moabite king who sent for Balaam to come and curse the Israelites. Numbers 22\u201323.", "S": [], "A": []}

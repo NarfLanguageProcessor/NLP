@@ -1,0 +1,1 @@
+{"index": 264156, "D": "any of several suckers of the genus Moxostoma, found in the fresh waters of North America, often having reddish fins.", "S": [], "A": []}

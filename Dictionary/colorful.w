@@ -1,0 +1,1 @@
+{"index": 63342, "D": "abounding in color", "S": ["bright ", "flashy ", "gaudy ", "hued ", "multicolored ", "rich ", "splashy ", "vibrant ", "vivid "], "A": ["dull ", "pale ", "plain ", "simple ", "weak "]}

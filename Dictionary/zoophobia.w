@@ -1,0 +1,1 @@
+{"index": 369936, "D": "an irrational or disproportionate fear of animals.", "S": [], "A": []}

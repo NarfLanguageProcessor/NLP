@@ -1,0 +1,1 @@
+{"index": 85982, "D": "a stupid or slow-thinking person.", "S": ["blockheaded ", "boneheaded ", "dense ", "doltish ", "dumb ", "empty-headed ", "half-witted ", "loggerheaded ", "obtuse ", "simple ", "simpleminded ", "thick-skulled ", "thickheaded ", "unintelligent "], "A": []}

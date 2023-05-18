@@ -1,0 +1,1 @@
+{"index": 240139, "D": "noting or pertaining to an epoch of the Tertiary  Period, occurring from 10 to 2 million years ago, and characterized by increased size and numbers of mammals, by the growth of mountains, and by global climatic cooling.", "S": [], "A": []}

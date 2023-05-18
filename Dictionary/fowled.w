@@ -1,0 +1,1 @@
+{"index": 118059, "D": "Compare domestic fowl. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 229123, "D": "a winged horse, created from the blood of Medusa, that opened the spring of Hippocrene with a stroke of its hoof, and that carried Bellerophon in his attack on the Chimera.", "S": [], "A": []}

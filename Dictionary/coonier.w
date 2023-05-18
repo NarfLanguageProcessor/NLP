@@ -1,0 +1,1 @@
+{"index": 68303, "D": "sharp-witted and shrewd; wily; canny.", "S": [], "A": []}

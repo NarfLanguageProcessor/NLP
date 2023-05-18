@@ -1,0 +1,1 @@
+{"index": 48943, "D": "a carved bench of the Italian Renaissance, the seat of which is used as a chest.", "S": [], "A": []}

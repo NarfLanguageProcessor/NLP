@@ -1,0 +1,1 @@
+{"index": 279417, "D": "a hemihedral crystal form of 8 or 12 faces, each face being a scalene triangle.", "S": [], "A": []}

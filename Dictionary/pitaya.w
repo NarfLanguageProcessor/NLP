@@ -1,0 +1,1 @@
+{"index": 238209, "D": "any of several cacti of the genus Stenocereus, of the southwestern United States, Mexico, and Central America, bearing edible round or oval fruit usually having bumpy skin and juicy pulp filled with seeds.", "S": [], "A": []}

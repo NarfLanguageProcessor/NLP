@@ -1,0 +1,1 @@
+{"index": 370097, "D": "an ion with both a positive and a negative charge.", "S": [], "A": []}

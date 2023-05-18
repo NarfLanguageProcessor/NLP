@@ -1,0 +1,1 @@
+{"index": 302755, "D": "containing tin, especially in the bivalent state.", "S": [], "A": []}

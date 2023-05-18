@@ -1,0 +1,1 @@
+{"index": 6524, "D": "short rod-shaped aerobic bacteria  of the genus Agrobacterium, that cause plant diseases, as crown gall.", "S": [], "A": []}

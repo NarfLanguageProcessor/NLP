@@ -1,0 +1,1 @@
+{"index": 327704, "D": "a transmitter  and receiver  combined in one unit.", "S": ["bug ", "handset ", "headphone ", "radio ", "telephone ", "television "], "A": ["donor ", "giver "]}

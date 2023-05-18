@@ -1,0 +1,1 @@
+{"index": 178976, "D": "a writ from a superior court to an inferior court or to an officer, corporation, etc., commanding that a specified thing be done.", "S": [], "A": []}

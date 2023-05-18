@@ -1,0 +1,1 @@
+{"index": 222819, "D": "a type of surfboard with one end rounded and the other tapered to a point, used chiefly in surfing and often in lifesaving.", "S": [], "A": []}

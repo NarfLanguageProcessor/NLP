@@ -1,0 +1,1 @@
+{"index": 303603, "D": "a factory or other place where tobacco leaves are stripped.", "S": [], "A": []}

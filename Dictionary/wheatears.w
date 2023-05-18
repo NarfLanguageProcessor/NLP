@@ -1,0 +1,1 @@
+{"index": 364483, "D": "any of several small, chiefly Old World thrushes of the genus Oenanthe, having a distinctive white rump, especially O. oenanthe, of Eurasia and North America.", "S": [], "A": []}

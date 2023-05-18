@@ -1,0 +1,1 @@
+{"index": 244049, "D": "having the form of a discus or disk; flat and circular.", "S": [], "A": []}

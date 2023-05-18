@@ -1,0 +1,1 @@
+{"index": 336224, "D": "to transmit (programs) from a radio or television station.", "S": [], "A": []}

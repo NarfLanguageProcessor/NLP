@@ -1,0 +1,1 @@
+{"index": 101950, "D": "(in wireless communications) end of message", "S": [], "A": []}

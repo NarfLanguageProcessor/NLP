@@ -1,0 +1,1 @@
+{"index": 184702, "D": "the study of the relation between languages and the other cultural systems they refer to.", "S": [], "A": []}

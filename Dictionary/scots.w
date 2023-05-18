@@ -1,0 +1,1 @@
+{"index": 281396, "D": "Compare Scottish Gaelic. ", "S": [], "A": []}

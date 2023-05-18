@@ -1,0 +1,1 @@
+{"index": 94431, "D": "the court of an Indian ruler.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311020, "D": "the star that is the central body of the earth's solar system, around which the planets revolve and from which they receive light and heat", "S": ["star ", "sunlight "], "A": ["darkness ", "sunset "]}

@@ -1,0 +1,1 @@
+{"index": 80188, "D": "to carry and turn over (letters, goods, etc.) to the intended recipient or recipients", "S": ["conveyed ", "deposited ", "dispatched ", "expressed ", "forwarded ", "mailed ", "sent ", "shipped ", "transported ", "trucked "], "A": []}

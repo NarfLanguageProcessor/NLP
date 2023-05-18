@@ -1,0 +1,1 @@
+{"index": 23345, "D": "U.S. naturalist who painted and wrote about the birds of North America.", "S": [], "A": []}

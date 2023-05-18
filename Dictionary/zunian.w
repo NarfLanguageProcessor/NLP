@@ -1,0 +1,1 @@
+{"index": 370080, "D": "a member of a group of North American Indians inhabiting the largest of the Indian pueblos, in western New Mexico.", "S": [], "A": []}

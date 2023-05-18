@@ -1,0 +1,1 @@
+{"index": 232827, "D": "of or relating to a phalanx. ", "S": [], "A": []}

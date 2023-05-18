@@ -1,0 +1,1 @@
+{"index": 266097, "D": "a seaport in and the capital of Iceland, in the SW part.", "S": [], "A": []}

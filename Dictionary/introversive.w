@@ -1,0 +1,1 @@
+{"index": 156844, "D": "the act of introverting or the state of being introverted; a turning inward", "S": [], "A": []}

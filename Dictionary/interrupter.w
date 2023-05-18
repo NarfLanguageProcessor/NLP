@@ -1,0 +1,1 @@
+{"index": 155849, "D": "a person or thing that interrupts. ", "S": ["burglar ", "criminal ", "infiltrator ", "interloper ", "invader ", "raider ", "squatter ", "thief ", "trespasser "], "A": []}

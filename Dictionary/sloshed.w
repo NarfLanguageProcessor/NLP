@@ -1,0 +1,1 @@
+{"index": 294377, "D": "drunk. ", "S": ["bashed ", "befuddled ", "buzzed ", "crocked ", "flushed ", "flying ", "fuddled ", "glazed ", "inebriate ", "inebriated ", "intoxicated ", "laced ", "lit ", "muddled ", "plastered ", "potted ", "stewed ", "stoned ", "tanked ", "totaled ", "wasted "], "A": ["sober ", "straight "]}

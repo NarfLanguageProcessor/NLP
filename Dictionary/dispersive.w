@@ -1,0 +1,1 @@
+{"index": 88997, "D": "serving or tending to disperse. ", "S": [], "A": []}

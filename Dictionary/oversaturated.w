@@ -1,0 +1,1 @@
+{"index": 220963, "D": "(of igneous rocks) containing excess silica", "S": [], "A": []}

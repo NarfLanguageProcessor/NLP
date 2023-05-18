@@ -1,0 +1,1 @@
+{"index": 10, "D": "African American Language. ", "S": [], "A": []}

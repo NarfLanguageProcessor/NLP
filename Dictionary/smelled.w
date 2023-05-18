@@ -1,0 +1,1 @@
+{"index": 294811, "D": "to perceive the odor or scent of through the nose by means of the olfactory nerves; inhale the odor of", "S": ["breathe ", "detect ", "inhale ", "sniff "], "A": ["lose ", "miss ", "pass by "]}

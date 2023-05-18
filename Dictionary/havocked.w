@@ -1,0 +1,1 @@
+{"index": 134438, "D": "great destruction or devastation; ruinous damage.", "S": ["devastate ", "spoil "], "A": ["help ", "build ", "construct ", "create ", "give ", "improve ", "offer ", "protect ", "receive ", "repair ", "restore "]}

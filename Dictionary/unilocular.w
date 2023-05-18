@@ -1,0 +1,1 @@
+{"index": 344224, "D": "having or consisting of only one loculus, chamber, or cell.", "S": [], "A": []}

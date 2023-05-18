@@ -1,0 +1,1 @@
+{"index": 320912, "D": "the fleshy mass of the outer side of the palm of the hand.", "S": [], "A": []}

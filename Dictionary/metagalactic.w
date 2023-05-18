@@ -1,0 +1,1 @@
+{"index": 184643, "D": "the complete system of galaxies;  the Milky Way and all the surrounding galaxies. ", "S": [], "A": []}

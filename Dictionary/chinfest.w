@@ -1,0 +1,1 @@
+{"index": 54598, "D": "gabfest; bull session; rap session.", "S": ["chitchat ", "parley "], "A": ["quiet ", "silence "]}

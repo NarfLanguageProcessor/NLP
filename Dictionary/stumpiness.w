@@ -1,0 +1,1 @@
+{"index": 306884, "D": "of the nature of or resembling a stump. ", "S": [], "A": []}

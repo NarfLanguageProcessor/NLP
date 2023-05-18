@@ -1,0 +1,1 @@
+{"index": 299705, "D": "any of numerous predaceous arachnids of the order Araneae, most of which spin webs that serve as nests and as traps for prey.", "S": ["wok "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 34863, "D": "a coat of mail; hauberk.", "S": [], "A": []}

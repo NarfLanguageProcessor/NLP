@@ -1,0 +1,1 @@
+{"index": 233170, "D": "the treatment of disease through the administration of drugs.", "S": [], "A": []}

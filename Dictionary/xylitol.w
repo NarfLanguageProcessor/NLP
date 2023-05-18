@@ -1,0 +1,1 @@
+{"index": 368546, "D": "a naturally occurring pentose sugar alcohol, C5H12O5, used as a sugar substitute.", "S": [], "A": []}

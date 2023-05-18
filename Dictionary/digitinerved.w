@@ -1,0 +1,1 @@
+{"index": 85464, "D": "(of a leaf) having veins that radiate from the petiole like the fingers of a hand.", "S": [], "A": []}

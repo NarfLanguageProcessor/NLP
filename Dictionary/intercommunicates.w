@@ -1,0 +1,1 @@
+{"index": 154698, "D": "to communicate mutually, as people.", "S": [], "A": []}

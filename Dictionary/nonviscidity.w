@@ -1,0 +1,1 @@
+{"index": 208308, "D": "having a glutinous consistency; sticky; adhesive; viscous.", "S": [], "A": []}

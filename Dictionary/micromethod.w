@@ -1,0 +1,1 @@
+{"index": 186276, "D": "the use of magnification, usually by using a microscope, for study or for performing mechanical operations on a very small scale.", "S": [], "A": []}

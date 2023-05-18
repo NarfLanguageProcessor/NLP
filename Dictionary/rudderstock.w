@@ -1,0 +1,1 @@
+{"index": 275277, "D": "the vertical member at the forward edge of a rudder,  hinged at the sternpost and attached to the helm or steering gear.", "S": [], "A": []}

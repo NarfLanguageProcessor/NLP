@@ -1,0 +1,1 @@
+{"index": 281070, "D": "to find fault with angrily; chide; reprimand", "S": ["chided ", "rebuked "], "A": ["complimented ", "praised "]}

@@ -1,0 +1,1 @@
+{"index": 231298, "D": "(of certain lenses in special microscopes, cameras, etc.) giving distinct vision obliquely, or all around, as well as, or instead of, in a direct line.", "S": [], "A": []}

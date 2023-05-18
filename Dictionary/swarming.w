@@ -1,0 +1,1 @@
+{"index": 314125, "D": "a body of honeybees that emigrate from a hive and fly off together, accompanied by a queen, to start a new colony.", "S": ["alive ", "effective ", "operating "], "A": ["fixed ", "inoperative ", "unmovable "]}

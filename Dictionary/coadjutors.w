@@ -1,0 +1,1 @@
+{"index": 60866, "D": "an assistant.", "S": ["associate ", "co-worker ", "colleague ", "helper "], "A": ["antagonist ", "enemy ", "opponent "]}

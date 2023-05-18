@@ -1,0 +1,1 @@
+{"index": 118602, "D": "generous; liberal.", "S": ["benevolence ", "bountifulness ", "charitableness ", "charity ", "generousness ", "liberality ", "magnanimity ", "magnanimousness ", "munificence ", "openhandedness ", "philanthropy ", "unselfishness "], "A": ["malevolence ", "meanness ", "selfishness ", "unkindness "]}

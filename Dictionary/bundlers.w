@@ -1,0 +1,1 @@
+{"index": 42822, "D": "several objects or a quantity of material gathered or bound together", "S": [], "A": []}

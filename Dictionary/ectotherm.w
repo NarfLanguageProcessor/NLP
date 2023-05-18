@@ -1,0 +1,1 @@
+{"index": 95578, "D": "a cold-blooded animal.", "S": [], "A": []}

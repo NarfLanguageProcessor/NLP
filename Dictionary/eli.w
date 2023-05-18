@@ -1,0 +1,1 @@
+{"index": 97534, "D": "a Hebrew judge and priest. 1 Samuel 1\u20134.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 361999, "D": "mournful; plaintive.", "S": [], "A": []}

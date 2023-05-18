@@ -1,0 +1,1 @@
+{"index": 208620, "D": "a cold gale from the north,  formed during the winter by a vigorous outbreak of continental polar air behind a cold front.", "S": [], "A": []}

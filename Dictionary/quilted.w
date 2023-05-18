@@ -1,0 +1,1 @@
+{"index": 258627, "D": "resembling a quilt,  as in texture, design, stitching, etc.", "S": ["diversified ", "motley ", "spotted ", "variegated "], "A": []}

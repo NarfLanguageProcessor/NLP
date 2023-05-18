@@ -1,0 +1,1 @@
+{"index": 329494, "D": "a compulsion to pull out one's hair.", "S": [], "A": []}

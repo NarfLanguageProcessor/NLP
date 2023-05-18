@@ -1,0 +1,1 @@
+{"index": 307389, "D": "near or almost to the center.", "S": [], "A": []}

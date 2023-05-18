@@ -1,0 +1,1 @@
+{"index": 149893, "D": "adapted for cutting, as the incisor  teeth.", "S": [], "A": []}

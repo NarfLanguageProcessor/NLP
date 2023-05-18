@@ -1,0 +1,1 @@
+{"index": 267715, "D": "an announcement or intimation of something impending; warning", "S": [], "A": []}

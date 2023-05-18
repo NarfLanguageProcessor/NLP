@@ -1,0 +1,1 @@
+{"index": 344983, "D": "in a way that is not ironic or mocking; without affectation; sincerely", "S": [], "A": []}

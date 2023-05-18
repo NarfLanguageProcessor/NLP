@@ -1,0 +1,1 @@
+{"index": 133072, "D": "the sign used in Arabic writing to represent the glottal stop, usually written above another letter and shown in English transliterations as an apostrophe.", "S": [], "A": []}

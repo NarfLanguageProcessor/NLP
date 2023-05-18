@@ -1,0 +1,1 @@
+{"index": 21448, "D": "any of the constituents of a bitumen, as asphalt,  that are insoluble in pentane, hexane, or naphthalene.", "S": [], "A": []}

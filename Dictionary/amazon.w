@@ -1,0 +1,1 @@
+{"index": 9907, "D": "a river in N South America, flowing E from the Peruvian Andes through N Brazil to the Atlantic Ocean", "S": [], "A": []}

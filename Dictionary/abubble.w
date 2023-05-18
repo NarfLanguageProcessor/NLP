@@ -1,0 +1,1 @@
+{"index": 1143, "D": "bubbling,  as while cooking or boiling", "S": [], "A": []}

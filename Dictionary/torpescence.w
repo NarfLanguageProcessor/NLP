@@ -1,0 +1,1 @@
+{"index": 326208, "D": [], "S": ["apathy ", "inertia ", "lethargy ", "negligence ", "sloth ", "weariness "], "A": ["activity ", "life ", "liveliness ", "action "]}

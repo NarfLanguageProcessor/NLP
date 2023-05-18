@@ -1,0 +1,1 @@
+{"index": 183778, "D": "to cause to combine or coalesce; unite.", "S": ["coming together ", "concurrent ", "confluent ", "connecting ", "meeting "], "A": []}

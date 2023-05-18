@@ -1,0 +1,1 @@
+{"index": 351253, "D": "bent in and out; winding; sinuous. ", "S": [], "A": []}

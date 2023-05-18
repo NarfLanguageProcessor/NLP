@@ -1,0 +1,1 @@
+{"index": 76902, "D": "belonging or relating to a group of languages spoken in Kashmir, N Pakistan, and E Afghanistan, regarded as a subbranch of the Indic branch of the Indo-European family but showing certain Iranian characteristics", "S": [], "A": []}

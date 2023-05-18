@@ -1,0 +1,1 @@
+{"index": 153969, "D": "to furnish with knowledge, especially by a systematic method; teach; train; educate. ", "S": ["advised "], "A": ["ignorant ", "stupid ", "uninformed "]}

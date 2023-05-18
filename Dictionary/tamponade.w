@@ -1,0 +1,1 @@
+{"index": 315950, "D": "the use of a tampon,  as to stop a hemorrhage.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 42137, "D": "a city in and the capital of Hungary, in the central part, on the Danube River", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 140346, "D": "orthodox belief or practice.", "S": [], "A": []}

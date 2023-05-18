@@ -1,0 +1,1 @@
+{"index": 213248, "D": "having the mouth open.", "S": [], "A": []}

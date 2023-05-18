@@ -1,0 +1,1 @@
+{"index": 121064, "D": "Compare upper1 (def. 7). ", "S": [], "A": []}

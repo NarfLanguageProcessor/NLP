@@ -1,0 +1,1 @@
+{"index": 286500, "D": "an electronic control system in which a hydraulic, pneumatic, or other type of controlling mechanism  is actuated and controlled by a low-energy signal.", "S": [], "A": []}

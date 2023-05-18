@@ -1,0 +1,1 @@
+{"index": 356920, "D": "a rare element occurring in certain minerals and obtained as a light-gray powder with a silvery luster or as a ductile metal", "S": [], "A": []}

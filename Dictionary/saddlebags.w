@@ -1,0 +1,1 @@
+{"index": 276462, "D": "a large bag or pouch, usually one of a pair, hung from a saddle, laid over the back of a horse behind the saddle, or mounted over the rear wheel of a bicycle or motorcycle.", "S": ["backpack ", "briefcase ", "gear ", "handbag ", "kit ", "pack ", "packet ", "pocket ", "pouch ", "purse ", "sack ", "suitcase "], "A": []}

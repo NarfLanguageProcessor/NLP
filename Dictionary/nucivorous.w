@@ -1,0 +1,1 @@
+{"index": 209306, "D": "(of animals) feeding on nuts", "S": [], "A": []}

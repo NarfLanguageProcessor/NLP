@@ -1,0 +1,1 @@
+{"index": 35322, "D": "any mollusk, as the oyster, clam, scallop, or mussel, of the class Bivalvia, having two shells hinged together, a soft body, and lamellate gills.", "S": ["mollusk ", "pucker ", "ripple ", "wrinkle "], "A": ["smoothness "]}

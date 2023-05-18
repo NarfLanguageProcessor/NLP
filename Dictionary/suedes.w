@@ -1,0 +1,1 @@
+{"index": 310064, "D": "kid or other leather finished with a soft, napped surface, on the flesh side or on the outer side after removal of a thin outer layer.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43517, "D": "the transporting of students by bus  to schools outside their neighborhoods, especially as a means of achieving socioeconomic or racial diversity among students in a public school.", "S": ["integrate "], "A": []}

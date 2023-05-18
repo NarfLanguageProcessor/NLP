@@ -1,0 +1,1 @@
+{"index": 104626, "D": "a compound produced by the reaction between an acid and an alcohol with the elimination of a molecule of water, as ethyl acetate, C4H8O2, or dimethyl sulfate, C2H6SO4.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 218208, "D": "animated  quality; liveliness; vivacity; spirit", "S": [], "A": []}

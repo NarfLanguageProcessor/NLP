@@ -1,0 +1,1 @@
+{"index": 343031, "D": "of, characteristic of, or resembling a ghost;  phantasmal; spectral.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 366661, "D": "with the absence, omission, or avoidance of; not with; with no or none of; lacking", "S": ["after ", "beyond ", "externally ", "left out ", "on the outside ", "out ", "out-of-doors ", "outdoors ", "outwardly ", "past "], "A": ["inside "]}

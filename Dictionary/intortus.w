@@ -1,0 +1,1 @@
+{"index": 156390, "D": "(of a cirrus cloud) having very irregular filaments that often look entangled.", "S": [], "A": []}

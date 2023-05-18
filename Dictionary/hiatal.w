@@ -1,0 +1,1 @@
+{"index": 138203, "D": "a break or interruption in the continuity of a work, series, action, etc.", "S": [], "A": []}

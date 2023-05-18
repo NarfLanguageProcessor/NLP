@@ -1,0 +1,1 @@
+{"index": 218108, "D": "an excessive amount or abundance;  surfeit", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 116322, "D": "full of holes or foramina.", "S": [], "A": []}

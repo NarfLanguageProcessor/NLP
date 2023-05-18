@@ -1,0 +1,1 @@
+{"index": 24841, "D": "any of several long-legged, web-footed shorebirds constituting the genus Recurvirostra, having a long, slender, upward-curving bill.", "S": [], "A": []}

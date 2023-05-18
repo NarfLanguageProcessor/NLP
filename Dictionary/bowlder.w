@@ -1,0 +1,1 @@
+{"index": 39200, "D": "a detached and rounded or worn rock, especially a large one.", "S": [], "A": []}

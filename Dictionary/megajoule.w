@@ -1,0 +1,1 @@
+{"index": 182367, "D": "a unit of work or energy, equal to one million joules. ", "S": [], "A": []}

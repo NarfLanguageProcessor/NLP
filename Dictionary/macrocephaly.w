@@ -1,0 +1,1 @@
+{"index": 176892, "D": "the condition of having an abnormally large head or skull", "S": [], "A": []}

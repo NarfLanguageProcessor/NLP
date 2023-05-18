@@ -1,0 +1,1 @@
+{"index": 10300, "D": "books, papers, maps, etc., relating to America,  especially to its history, culture, and geography.", "S": [], "A": []}

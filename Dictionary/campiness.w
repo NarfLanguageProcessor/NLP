@@ -1,0 +1,1 @@
+{"index": 45905, "D": "of, relating to, or characterized by theatrical or extravagant style, expressing playful irreverence or knowing amusement", "S": [], "A": []}

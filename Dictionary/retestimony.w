@@ -1,0 +1,1 @@
+{"index": 270387, "D": "the statement or declaration of a witness under oath or affirmation, usually in court.", "S": [], "A": []}

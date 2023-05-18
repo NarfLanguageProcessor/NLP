@@ -1,0 +1,1 @@
+{"index": 83804, "D": "the state or quality of having the right side or its parts or members different from and, usually, more efficient than the left side or its parts or members; right-handedness.", "S": [], "A": []}

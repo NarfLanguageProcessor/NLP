@@ -1,0 +1,1 @@
+{"index": 88838, "D": "to refuse to acknowledge as belonging or pertaining to oneself; deny the ownership of or responsibility for; repudiate; renounce", "S": ["desertion ", "divorce ", "failure ", "rejection ", "revolt ", "withdrawal "], "A": ["enough ", "faithfulness ", "harmony ", "loyalty ", "plenty "]}

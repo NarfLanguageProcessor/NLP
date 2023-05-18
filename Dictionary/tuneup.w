@@ -1,0 +1,1 @@
+{"index": 332404, "D": "an adjustment, as of a motor, to improve working order or condition", "S": ["accommodate ", "adapt ", "adjust ", "attune ", "conform ", "coordinate ", "dial ", "fix ", "harmonize ", "integrate ", "modulate ", "pitch ", "proportion ", "reconcile ", "regulate ", "set ", "string ", "tighten ", "tune "], "A": []}

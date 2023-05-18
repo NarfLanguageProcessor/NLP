@@ -1,0 +1,1 @@
+{"index": 10694, "D": "a white crystalline powder, C20H23N, used to treat depression and enuresis.", "S": [], "A": []}

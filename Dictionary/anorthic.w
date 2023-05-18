@@ -1,0 +1,1 @@
+{"index": 13872, "D": "another word for triclinic", "S": [], "A": []}

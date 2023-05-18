@@ -1,0 +1,1 @@
+{"index": 6624, "D": "the false identification of the purusha, or true inner self, with the body, the mind, or the outside world.", "S": [], "A": []}

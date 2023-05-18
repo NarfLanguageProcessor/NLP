@@ -1,0 +1,1 @@
+{"index": 142044, "D": "having the gray or white hair of advanced age.", "S": [], "A": []}

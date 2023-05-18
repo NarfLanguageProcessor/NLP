@@ -1,0 +1,1 @@
+{"index": 291852, "D": "a spore-bearing structure having very compact conidiophores.", "S": [], "A": []}

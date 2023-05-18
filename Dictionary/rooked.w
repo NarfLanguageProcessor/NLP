@@ -1,0 +1,1 @@
+{"index": 274230, "D": "a black, European crow, Corvus frugilegus, noted for its gregarious habits.", "S": ["betray ", "bilk ", "cheat ", "con ", "deceive ", "fool ", "hoodwink ", "scam ", "swindle "], "A": ["give "]}

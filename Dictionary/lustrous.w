@@ -1,0 +1,1 @@
+{"index": 176441, "D": "having luster; shining; luminous", "S": ["burnished ", "dazzling ", "gleaming ", "glistening ", "glorious ", "glowing ", "incandescent ", "luminous ", "polished ", "radiant ", "shimmering ", "shiny ", "sparkling ", "splendid ", "waxy "], "A": ["dark ", "dim ", "dull "]}

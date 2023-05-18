@@ -1,0 +1,1 @@
+{"index": 283136, "D": "apparent; appearing, whether truly or falsely, to be as specified", "S": [], "A": []}

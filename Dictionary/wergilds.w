@@ -1,0 +1,1 @@
+{"index": 364195, "D": "(in Anglo-Saxon England and other Germanic countries)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 181395, "D": "tearfully or weakly emotional; foolishly sentimental", "S": ["bathos ", "emotionalness ", "gushiness ", "maudlinness ", "mawkishness ", "melodrama ", "melodramatics ", "mushiness ", "nostalgia ", "reminiscence ", "sentiment ", "sentimentalism ", "triteness "], "A": []}

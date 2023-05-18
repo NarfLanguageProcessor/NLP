@@ -1,0 +1,1 @@
+{"index": 69704, "D": "corroborating;  confirming.", "S": [], "A": []}

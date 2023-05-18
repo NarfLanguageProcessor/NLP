@@ -1,0 +1,1 @@
+{"index": 268522, "D": "a person or thing that represses. ", "S": [], "A": []}

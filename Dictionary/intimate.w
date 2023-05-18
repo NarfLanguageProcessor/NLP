@@ -1,0 +1,1 @@
+{"index": 156300, "D": "associated in close personal relations", "S": ["affectionate ", "confidential ", "cozy ", "loving ", "warm "], "A": ["cold ", "cool ", "disliking ", "away ", "far ", "imprecise ", "inaccurate ", "loose "]}

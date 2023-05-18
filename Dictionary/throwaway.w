@@ -1,0 +1,1 @@
+{"index": 322855, "D": "made or intended to be discarded after use or quick examination", "S": ["intimate ", "relaxed ", "spontaneous ", "straightforward ", "unofficial "], "A": ["buttoned-up ", "ceremonious ", "dressed-up ", "formal ", "official ", "rigid ", "stiff "]}

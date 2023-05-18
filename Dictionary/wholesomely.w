@@ -1,0 +1,1 @@
+{"index": 365299, "D": "conducive to moral or general well-being; salutary; beneficial", "S": [], "A": []}

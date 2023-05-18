@@ -1,0 +1,1 @@
+{"index": 60748, "D": "to seize with or as with the hands or claws; snatch", "S": [], "A": []}

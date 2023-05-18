@@ -1,0 +1,1 @@
+{"index": 68704, "D": "a thicket of small trees or bushes; a small wood.", "S": ["bosk ", "brushwood ", "coppice ", "thicket "], "A": []}

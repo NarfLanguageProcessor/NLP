@@ -1,0 +1,1 @@
+{"index": 113635, "D": "to make a hissing or sputtering sound; effervesce.", "S": [], "A": []}

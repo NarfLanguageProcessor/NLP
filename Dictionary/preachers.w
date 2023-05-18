@@ -1,0 +1,1 @@
+{"index": 245458, "D": "a person whose occupation or function it is to preach  the gospel.", "S": ["clergy ", "cleric ", "evangelist ", "missionary "], "A": []}

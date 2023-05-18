@@ -1,0 +1,1 @@
+{"index": 231013, "D": "exposure to injury, loss, or destruction; grave risk; jeopardy; danger", "S": ["hazard ", "insecurity ", "jeopardy ", "menace ", "pitfall ", "uncertainty ", "vulnerability "], "A": ["certainty ", "protection ", "safety "]}

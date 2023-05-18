@@ -1,0 +1,1 @@
+{"index": 153598, "D": "a person who is a member of a group, organization, society, etc.", "S": ["camp ", "class ", "clique ", "club ", "company ", "crowd ", "fraternity ", "party ", "ring ", "school ", "society "], "A": ["individual "]}

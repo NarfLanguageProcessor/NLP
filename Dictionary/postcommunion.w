@@ -1,0 +1,1 @@
+{"index": 244003, "D": "the part of a communion service that follows after the congregation has received communion.", "S": [], "A": []}

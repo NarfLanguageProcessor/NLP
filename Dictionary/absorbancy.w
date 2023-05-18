@@ -1,0 +1,1 @@
+{"index": 1019, "D": "the capacity of a substance to absorb radiation, expressed as the common logarithm of the reciprocal of the transmittance of the substance.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 226885, "D": "an Indian Zoroastrian descended from Persian Zoroastrians who went to India in the 7th and 8th centuries to escape Muslim persecution.", "S": [], "A": []}

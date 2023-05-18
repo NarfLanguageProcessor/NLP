@@ -1,0 +1,1 @@
+{"index": 255375, "D": "the study of the relationship between language and the cognitive or behavioral characteristics of those who use it.", "S": [], "A": []}

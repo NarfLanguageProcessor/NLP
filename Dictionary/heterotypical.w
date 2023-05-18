@@ -1,0 +1,1 @@
+{"index": 137797, "D": "of or relating to the first or reductional division in meiosis.", "S": [], "A": []}

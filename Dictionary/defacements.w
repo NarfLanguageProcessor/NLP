@@ -1,0 +1,1 @@
+{"index": 79065, "D": "to mar the surface or appearance of; disfigure", "S": ["disfigurement ", "impairment ", "vandalism "], "A": []}

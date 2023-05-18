@@ -1,0 +1,1 @@
+{"index": 34355, "D": "a field of study concerned with the ethics  and philosophical implications of certain biological and medical procedures, technologies, and treatments, as organ transplants, genetic engineering, and care of the terminally ill.", "S": [], "A": []}

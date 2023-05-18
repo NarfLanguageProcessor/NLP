@@ -1,0 +1,1 @@
+{"index": 249863, "D": "the act of tempting;  enticement or allurement.", "S": [], "A": []}

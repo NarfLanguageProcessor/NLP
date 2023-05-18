@@ -1,0 +1,1 @@
+{"index": 120290, "D": "overcome with great fear; terrified.", "S": ["earthy ", "fashionable ", "hip "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 71234, "D": "a state or nation", "S": ["community ", "land ", "people ", "public ", "region ", "society ", "state "], "A": ["city ", "metropolis ", "urbanity "]}

@@ -1,0 +1,1 @@
+{"index": 302937, "D": "set or studded with or as with stars. ", "S": ["carpeted ", "dotted ", "overgrown "], "A": ["bare ", "empty ", "exposed ", "open ", "passed over ", "revealed ", "unfurnished ", "unheeded ", "unnoticed "]}

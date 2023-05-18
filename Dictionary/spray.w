@@ -1,0 +1,1 @@
+{"index": 301163, "D": "water or other liquid broken up into minute droplets and blown, ejected into, or falling through the air.", "S": ["aerosol ", "sprayer ", "sprinkler "], "A": []}

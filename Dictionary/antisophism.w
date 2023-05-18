@@ -1,0 +1,1 @@
+{"index": 16222, "D": "a specious argument for displaying ingenuity in reasoning or for deceiving someone.", "S": [], "A": []}

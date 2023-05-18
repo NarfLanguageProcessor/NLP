@@ -1,0 +1,1 @@
+{"index": 92401, "D": "(of timber or rubber) rotten or decayed", "S": ["catnap ", "drowse ", "nap ", "siesta ", "slumber ", "snooze "], "A": ["awakening ", "consciousness ", "wakefulness "]}

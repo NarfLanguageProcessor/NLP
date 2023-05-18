@@ -1,0 +1,1 @@
+{"index": 118869, "D": "British psychoanalyst, born in Austria (daughter of Sigmund Freud).", "S": [], "A": []}

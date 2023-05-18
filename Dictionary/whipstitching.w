@@ -1,0 +1,1 @@
+{"index": 364955, "D": "to sew with stitches  passing over an edge, in joining, finishing, or gathering.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 94952, "D": "towards the east", "S": [], "A": []}

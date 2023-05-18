@@ -1,0 +1,1 @@
+{"index": 227663, "D": "(of governance, management, or behavior) based in a system positing that authority knows best; outwardly benevolent, but often in a condescending or controlling way", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 289731, "D": "ossification of the cartilages in the lateral portion of the foot of a horse, resulting in lameness.", "S": [], "A": []}

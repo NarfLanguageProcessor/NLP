@@ -1,0 +1,1 @@
+{"index": 73535, "D": "to utter a low-pitched, harsh cry, as the sound of a frog or a raven.", "S": ["guttural ", "husky ", "rasping "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 271794, "D": "the horny covering of a bird's bill.", "S": [], "A": []}

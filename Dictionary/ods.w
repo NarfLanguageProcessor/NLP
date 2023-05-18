@@ -1,0 +1,1 @@
+{"index": 211408, "D": "a hypothetical force formerly held to pervade all nature and to manifest itself in magnetism, mesmerism, chemical action, etc.", "S": ["attire ", "costume ", "dress ", "garb ", "gown ", "khaki ", "regalia ", "robe ", "suit "], "A": []}

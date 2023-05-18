@@ -1,0 +1,1 @@
+{"index": 133661, "D": "not easily moved or deceived; practical; shrewd.", "S": [], "A": []}

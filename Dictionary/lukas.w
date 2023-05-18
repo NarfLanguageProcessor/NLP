@@ -1,0 +1,1 @@
+{"index": 175985, "D": "U.S. actor, born in Hungary.", "S": [], "A": []}

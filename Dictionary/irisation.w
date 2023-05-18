@@ -1,0 +1,1 @@
+{"index": 158012, "D": "the effect or quality of being iridescent; iridescence.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205911, "D": "the attribution of human nature or character to animals, inanimate objects, or abstract notions, especially as a rhetorical figure.", "S": [], "A": []}

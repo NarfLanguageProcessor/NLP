@@ -1,0 +1,1 @@
+{"index": 149029, "D": "to make pregnant;  cause to be with child or young.", "S": ["consumption ", "digestion ", "intake ", "penetration ", "retention ", "saturation "], "A": ["boredom ", "distraction "]}

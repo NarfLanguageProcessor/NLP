@@ -1,0 +1,1 @@
+{"index": 180094, "D": "a person who directs or assists in the navigation of a ship; sailor.", "S": ["bluejacket ", "captain ", "crew ", "mate ", "navigator ", "sailor ", "salt ", "seafarer ", "shipmate ", "swab "], "A": []}

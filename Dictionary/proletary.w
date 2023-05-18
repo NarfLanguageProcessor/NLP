@@ -1,0 +1,1 @@
+{"index": 252086, "D": "proletarian. ", "S": [], "A": []}

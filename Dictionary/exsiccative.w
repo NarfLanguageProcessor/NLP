@@ -1,0 +1,1 @@
+{"index": 108150, "D": "to dry or remove the moisture from, as a substance.", "S": [], "A": []}

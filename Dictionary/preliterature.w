@@ -1,0 +1,1 @@
+{"index": 248245, "D": "writings in which expression and form, in connection with ideas of permanent and universal interest, are characteristic or essential features, as poetry, novels, history, biography, and essays.", "S": [], "A": []}

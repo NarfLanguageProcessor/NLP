@@ -1,0 +1,1 @@
+{"index": 65697, "D": "the conducting  power, especially the power to conduct  alternating current, of a conductor,  equal to the real part of the admittance, and in a circuit with no reactance equal to the reciprocal of the resistance. Symbol", "S": ["broadcast ", "communication ", "delivery ", "gearbox "], "A": ["quiet "]}

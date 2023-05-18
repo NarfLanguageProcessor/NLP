@@ -1,0 +1,1 @@
+{"index": 181693, "D": "deficient in quantity or quality; lacking fullness or richness; scanty; inadequate", "S": ["insufficient ", "mere ", "minimum ", "miserable ", "paltry ", "puny ", "scant ", "scanty ", "skimpy ", "sparse ", "tenuous "], "A": ["adequate ", "ample ", "enough ", "generous ", "plentiful ", "rich ", "significant ", "substantial ", "sufficient ", "wealthy "]}

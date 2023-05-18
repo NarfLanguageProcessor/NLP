@@ -1,0 +1,1 @@
+{"index": 220086, "D": "a cutline, usually of one line,  appearing over a picture, cartoon, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 67520, "D": "twisted in a violent manner; distorted.", "S": [], "A": []}

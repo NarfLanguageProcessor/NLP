@@ -1,0 +1,1 @@
+{"index": 307572, "D": "almost touching; nearly contiguous. ", "S": [], "A": []}

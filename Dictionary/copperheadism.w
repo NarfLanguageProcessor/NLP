@@ -1,0 +1,1 @@
+{"index": 68600, "D": "(during the Civil War) the advocacy of peace negotiations to restore the Union to its prewar condition, with continued slavery in the South.", "S": [], "A": []}

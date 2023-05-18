@@ -1,0 +1,1 @@
+{"index": 218693, "D": "the act of condensing;  the state of being condensed. ", "S": [], "A": []}

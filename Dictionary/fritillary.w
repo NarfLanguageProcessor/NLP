@@ -1,0 +1,1 @@
+{"index": 119150, "D": "any of several orange-brown nymphalid butterflies, usually marked with black lines and dots and with silvery spots on the undersides of the wings.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 165664, "D": "a small knob or similar rounded protuberance, especially for ornament.", "S": [], "A": []}

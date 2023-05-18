@@ -1,0 +1,1 @@
+{"index": 30625, "D": "to ask for as a gift, as charity, or as a favor", "S": ["advised ", "allured ", "asked ", "charged ", "coaxed ", "coerced ", "commanded ", "desired ", "exhorted ", "forced ", "implored ", "influenced ", "lured ", "motivated ", "moved ", "prompted ", "requested ", "solicited ", "wheedled "], "A": ["condemned ", "opposed ", "prohibited "]}

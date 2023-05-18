@@ -1,0 +1,1 @@
+{"index": 228845, "D": "a person who goes or travels on foot; walker.", "S": ["hiker ", "passerby ", "stroller ", "walker "], "A": []}

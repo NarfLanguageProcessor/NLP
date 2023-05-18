@@ -1,0 +1,1 @@
+{"index": 63951, "D": "the act of commending;  recommendation; praise", "S": ["encouragement "], "A": ["condemnation ", "criticism ", "disapproval ", "dishonor ", "disrespect ", "ill repute "]}

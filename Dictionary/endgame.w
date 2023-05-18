@@ -1,0 +1,1 @@
+{"index": 99668, "D": "the final stage of a game, usually following the exchange of queens and the serious reduction of forces.", "S": [], "A": []}

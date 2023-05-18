@@ -1,0 +1,1 @@
+{"index": 237787, "D": "electrification or electrical polarity produced in certain crystals by temperature changes.", "S": [], "A": []}

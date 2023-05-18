@@ -1,0 +1,1 @@
+{"index": 11813, "D": "a person who cannot read or write; illiterate.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 116001, "D": "of, relating to, or characteristic of a prehistoric North American cultural tradition extensive in the Great Plains about 11,000 years ago and typified by the use of the Folsom point.", "S": [], "A": []}

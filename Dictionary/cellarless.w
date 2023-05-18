@@ -1,0 +1,1 @@
+{"index": 50560, "D": "a room, or set of rooms, for the storage of food, fuel, etc., wholly or partly underground and usually beneath a building.", "S": [], "A": []}

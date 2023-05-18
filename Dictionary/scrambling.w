@@ -1,0 +1,1 @@
+{"index": 281551, "D": "to climb or move quickly using one's hands and feet, as down a rough incline.", "S": ["clamber ", "climb ", "contend ", "crawl ", "jostle ", "push ", "rush ", "scurry ", "vie "], "A": ["retreat ", "rest ", "stay ", "stop "]}

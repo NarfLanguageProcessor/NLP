@@ -1,0 +1,1 @@
+{"index": 285269, "D": "a Portuguese term of address equivalent to Mrs., used alone or capitalized and prefixed to the name of a married or older woman. Abbreviation", "S": [], "A": []}

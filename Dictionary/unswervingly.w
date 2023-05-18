@@ -1,0 +1,1 @@
+{"index": 352594, "D": "to turn aside abruptly in movement or direction; deviate suddenly from the straight or direct course.", "S": ["precisely ", "straight "], "A": ["indirectly "]}

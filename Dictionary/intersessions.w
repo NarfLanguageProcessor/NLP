@@ -1,0 +1,1 @@
+{"index": 155905, "D": "a period between two academic terms.", "S": [], "A": []}

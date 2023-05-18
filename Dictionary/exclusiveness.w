@@ -1,0 +1,1 @@
+{"index": 106769, "D": "the fact of shutting out some other thing; incompatibility", "S": [], "A": []}

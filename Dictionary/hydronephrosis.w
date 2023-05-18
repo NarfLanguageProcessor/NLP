@@ -1,0 +1,1 @@
+{"index": 138804, "D": "dilation of the branches and pelvic cavity of the kidney, caused by an accumulation of urine resulting from obstruction of normal outflow.", "S": [], "A": []}

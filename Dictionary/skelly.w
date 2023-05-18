@@ -1,0 +1,1 @@
+{"index": 292950, "D": "a whitefish, Coregonus stigmaticus, of certain lakes in the Lake District", "S": [], "A": []}

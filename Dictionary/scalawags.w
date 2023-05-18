@@ -1,0 +1,1 @@
+{"index": 279384, "D": "a scamp; rascal.", "S": ["caitiff ", "miscreant ", "rapscallion ", "reprobate ", "rogue ", "scamp ", "scapegrace ", "scoundrel ", "trickster ", "varlet ", "villain "], "A": []}

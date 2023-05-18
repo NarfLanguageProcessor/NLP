@@ -1,0 +1,1 @@
+{"index": 104178, "D": "having to do with eschatology,  a system of doctrines concerning final matters, such as death, the Judgment, the afterlife, etc.", "S": [], "A": []}

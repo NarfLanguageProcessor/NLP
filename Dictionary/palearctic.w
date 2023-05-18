@@ -1,0 +1,1 @@
+{"index": 223616, "D": "belonging or pertaining to a geographical division comprising Europe, Africa north of the tropic of Cancer, the northern part of Arabia, and Asia north of the Himalayas.", "S": [], "A": []}

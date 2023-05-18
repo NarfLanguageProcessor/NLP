@@ -1,0 +1,1 @@
+{"index": 363216, "D": "the power of water used, or capable of being used, to drive machinery, turbines, etc.", "S": [], "A": []}

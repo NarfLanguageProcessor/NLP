@@ -1,0 +1,1 @@
+{"index": 123936, "D": "the study and application of rock and soil mechanics", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 362832, "D": "having warts;  covered with or as with warts. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 24813, "D": "(of organisms) having no virulence, as a result of age, heat, etc.; nonpathogenic.", "S": [], "A": []}

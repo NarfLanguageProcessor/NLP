@@ -1,0 +1,1 @@
+{"index": 146132, "D": "any fishlike marine reptile of the extinct order Ichthyosauria, ranging from 4 to 40 feet (1.2 to 12 meters) in length and having a round, tapering body, a large head, four paddlelike flippers, and a vertical caudal fin.", "S": [], "A": []}

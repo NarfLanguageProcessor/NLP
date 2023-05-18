@@ -1,0 +1,1 @@
+{"index": 287537, "D": "a smooth fabric of acetate or rayon with a dull or chalklike appearance, for apparel.", "S": [], "A": []}

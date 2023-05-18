@@ -1,0 +1,1 @@
+{"index": 301655, "D": "a scale or scalelike part, as of epidermis or bone.", "S": [], "A": []}

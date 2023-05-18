@@ -1,0 +1,1 @@
+{"index": 293273, "D": "very lean or thin; emaciated", "S": ["angular ", "bony ", "gaunt ", "lanky ", "scrawny ", "slender "], "A": ["fat ", "heavy ", "plump ", "thick "]}

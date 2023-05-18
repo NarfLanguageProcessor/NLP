@@ -1,0 +1,1 @@
+{"index": 165499, "D": "to go down or rest on the knees or a knee.", "S": ["allegiance ", "deference ", "loyalty ", "reverence ", "tribute "], "A": ["disloyalty ", "disregard ", "censure ", "condemnation ", "criticism ", "dishonor ", "disrespect ", "faithlessness ", "inconstancy ", "treachery "]}

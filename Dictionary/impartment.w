@@ -1,0 +1,1 @@
+{"index": 148319, "D": "the state or process of having been told, given, or granted something", "S": ["consignment ", "distribution ", "shipment ", "transmission "], "A": ["capture ", "confinement ", "hold ", "imprisonment ", "keeping ", "quiet ", "restraint ", "retention ", "secrecy "]}

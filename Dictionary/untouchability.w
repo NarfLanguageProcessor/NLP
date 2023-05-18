@@ -1,0 +1,1 @@
+{"index": 353149, "D": "the quality or condition of being an untouchable,  ascribed in the Vedic tradition to persons of low caste or to persons excluded from the caste system.", "S": [], "A": []}

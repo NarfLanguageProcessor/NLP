@@ -1,0 +1,1 @@
+{"index": 138394, "D": "an acid  that does not contain oxygen, as hydrochloric acid,  HCl.", "S": [], "A": []}

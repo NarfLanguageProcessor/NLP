@@ -1,0 +1,1 @@
+{"index": 242228, "D": [], "S": ["behemoth ", "titan "], "A": ["dwarf ", "midget ", "runt "]}

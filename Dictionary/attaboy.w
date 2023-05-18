@@ -1,0 +1,1 @@
+{"index": 22917, "D": "(used as an enthusiastic expression of encouragement or approval to a boy, man, or male animal.)", "S": [], "A": []}

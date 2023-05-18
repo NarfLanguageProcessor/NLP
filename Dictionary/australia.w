@@ -1,0 +1,1 @@
+{"index": 23712, "D": "a continent southeast of Asia, between the Indian  and Pacific  Oceans. 2,948,366 square miles (7,636,270 square kilometers).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62166, "D": "a box or chest, especially one for valuables.", "S": [], "A": []}

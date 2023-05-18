@@ -1,0 +1,1 @@
+{"index": 134077, "D": "a member of any Arab dynasty in the Middle East founded by Husein ibn-Ali or his descendants.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 265781, "D": "to buy up (grain, provisions, etc.) in order to sell again at a profit in or near the same market.", "S": [], "A": []}

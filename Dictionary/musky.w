@@ -1,0 +1,1 @@
+{"index": 196064, "D": "of or like musk,  as an odor", "S": ["fragrant ", "piquant "], "A": []}

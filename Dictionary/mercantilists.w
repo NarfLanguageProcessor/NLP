@@ -1,0 +1,1 @@
+{"index": 183611, "D": "mercantile  practices or spirit; commercialism.", "S": [], "A": []}

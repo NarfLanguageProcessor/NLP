@@ -1,0 +1,1 @@
+{"index": 219401, "D": "to beat with a whip, stick, etc., especially as punishment; whip; scourge. ", "S": [], "A": []}

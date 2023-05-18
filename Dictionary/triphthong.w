@@ -1,0 +1,1 @@
+{"index": 330359, "D": "a monosyllabic speech-sound sequence perceived as being made up of three differing vowel qualities, as the pronunciation of our, especially in r-dropping dialects.", "S": [], "A": []}

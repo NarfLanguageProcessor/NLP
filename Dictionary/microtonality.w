@@ -1,0 +1,1 @@
+{"index": 186606, "D": "any musical interval smaller than a semitone, specifically, a quarter tone. ", "S": [], "A": []}

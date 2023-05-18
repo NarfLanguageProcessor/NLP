@@ -1,0 +1,1 @@
+{"index": 45031, "D": "a violent fever with delirium, affecting persons in the tropics.", "S": ["force ", "heat ", "light "], "A": ["apathy ", "calm ", "calmness ", "coldness ", "coolness ", "discouragement ", "dullness ", "idleness ", "inactivity ", "indifference ", "laziness ", "lethargy ", "lifelessness "]}

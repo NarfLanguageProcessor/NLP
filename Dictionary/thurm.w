@@ -1,0 +1,1 @@
+{"index": 323082, "D": "to carve (a piece of wood, as a post or table leg) across the grain so as to produce an effect of turning.", "S": [], "A": []}

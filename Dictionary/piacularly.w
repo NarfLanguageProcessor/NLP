@@ -1,0 +1,1 @@
+{"index": 235683, "D": "expiatory; atoning; reparatory.", "S": [], "A": []}

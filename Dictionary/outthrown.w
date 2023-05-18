@@ -1,0 +1,1 @@
+{"index": 217754, "D": "to throw out or extend", "S": [], "A": []}

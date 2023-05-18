@@ -1,0 +1,1 @@
+{"index": 173727, "D": "kaolin in compact, massive, usually impure form.", "S": [], "A": []}

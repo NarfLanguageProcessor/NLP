@@ -1,0 +1,1 @@
+{"index": 312450, "D": "the act of expressing approval or admiration; commendation; laudation.", "S": [], "A": []}

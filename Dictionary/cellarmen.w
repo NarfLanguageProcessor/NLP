@@ -1,0 +1,1 @@
+{"index": 50562, "D": "a person who is in charge of the alcoholic-beverage supply of a hotel or restaurant.", "S": [], "A": []}

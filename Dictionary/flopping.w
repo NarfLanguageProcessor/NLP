@@ -1,0 +1,1 @@
+{"index": 114977, "D": "to fall or plump down suddenly, especially with noise; drop or turn with a sudden bump or thud (sometimes followed by down)", "S": ["dangle ", "flounder ", "flutter ", "jerk ", "sag ", "stagger ", "tumble ", "wiggle "], "A": ["ascend ", "increase ", "rise "]}

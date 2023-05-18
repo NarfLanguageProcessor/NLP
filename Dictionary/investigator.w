@@ -1,0 +1,1 @@
+{"index": 157181, "D": "a person who investigates, such as a private detective", "S": ["agent ", "analyst ", "auditor ", "detective ", "examiner ", "inspector ", "police ", "prosecutor ", "researcher "], "A": []}

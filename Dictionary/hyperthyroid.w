@@ -1,0 +1,1 @@
+{"index": 140571, "D": "of, relating to, or having hyperthyroidism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 184535, "D": "simple past tense and past participle of meet1. ", "S": ["massed "], "A": ["dismantled "]}

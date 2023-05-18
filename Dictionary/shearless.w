@@ -1,0 +1,1 @@
+{"index": 287701, "D": "to cut (something).", "S": [], "A": []}

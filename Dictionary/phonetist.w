@@ -1,0 +1,1 @@
+{"index": 234694, "D": "a person who uses or advocates phonetic spelling.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 48568, "D": "a person who has red hair.", "S": [], "A": []}

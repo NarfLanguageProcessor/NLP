@@ -1,0 +1,1 @@
+{"index": 132061, "D": "a blue copper-containing respiratory pigment in crustaceans and molluscs that functions as haemoglobin", "S": [], "A": []}

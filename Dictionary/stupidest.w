@@ -1,0 +1,1 @@
+{"index": 306951, "D": "lacking ordinary quickness and keenness of mind; dull. ", "S": [], "A": []}

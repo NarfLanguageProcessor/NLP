@@ -1,0 +1,1 @@
+{"index": 184483, "D": "the promised and expected deliverer of the Jewish people.", "S": ["Christ ", "Good Shepherd ", "Jesus ", "King of Kings ", "Lamb of God ", "Lord of Lords ", "Messiah ", "Prince of Peace ", "Son of Man ", "lord ", "redeemer ", "savior "], "A": []}

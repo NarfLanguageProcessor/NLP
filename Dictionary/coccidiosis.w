@@ -1,0 +1,1 @@
+{"index": 61321, "D": "any of a series of specific infectious diseases caused by epithelial protozoan parasites, which may affect the intestines of birds, domestic animals, or dogs.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 185001, "D": "chemically unstable in the absence of certain conditions that would induce stability, but not liable to spontaneous transformation.", "S": [], "A": []}

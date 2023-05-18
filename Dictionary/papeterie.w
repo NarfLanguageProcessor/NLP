@@ -1,0 +1,1 @@
+{"index": 225185, "D": "a box for holding stationery, especially an ornamental one.", "S": [], "A": []}

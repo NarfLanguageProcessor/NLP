@@ -1,0 +1,1 @@
+{"index": 181784, "D": "singular of measles (def. 3). ", "S": [], "A": []}

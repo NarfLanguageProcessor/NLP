@@ -1,0 +1,1 @@
+{"index": 27368, "D": "a mucilaginous preparation made from quince seeds and used for smoothing, glossing, or waving the hair.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 88071, "D": "to mar the features  of; disfigure.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 51563, "D": "with certainty; without doubt; assuredly", "S": ["absolutely ", "assuredly ", "exactly ", "surely "], "A": ["doubtfully ", "questionably "]}

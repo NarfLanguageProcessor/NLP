@@ -1,0 +1,1 @@
+{"index": 260908, "D": "to scrape or abrade with a rough instrument.", "S": ["abrade ", "bray ", "excoriate ", "file ", "grate ", "irk ", "irritate ", "jar ", "pound ", "raze ", "rub ", "sand ", "scour ", "scrape ", "scratch ", "vex ", "wear "], "A": ["aid ", "assist ", "delight ", "help ", "please ", "soothe "]}

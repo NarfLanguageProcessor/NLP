@@ -1,0 +1,1 @@
+{"index": 148282, "D": "pinnate  with an odd terminal leaflet.", "S": [], "A": []}

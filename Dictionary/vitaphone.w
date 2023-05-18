@@ -1,0 +1,1 @@
+{"index": 360543, "D": "an early technique in commercial film-making in which the accompanying sound was produced by discs", "S": [], "A": []}

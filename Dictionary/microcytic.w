@@ -1,0 +1,1 @@
+{"index": 186000, "D": "an abnormally small red blood cell.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 345713, "D": "to take the load  from; remove the cargo or freight from", "S": ["clear out ", "discharge ", "disgorge ", "dump ", "get rid of ", "jettison ", "off-load ", "remove ", "unpack "], "A": ["fill ", "hold ", "keep ", "load ", "burden ", "upset "]}

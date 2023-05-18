@@ -1,0 +1,1 @@
+{"index": 362895, "D": "a man who washes clothes, linens, etc., for hire; laundryman.", "S": [], "A": []}

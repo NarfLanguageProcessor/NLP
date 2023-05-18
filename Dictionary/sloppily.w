@@ -1,0 +1,1 @@
+{"index": 294364, "D": "muddy, slushy, or very wet", "S": ["haphazardly ", "hastily ", "irresponsibly ", "negligently ", "nonchalantly "], "A": []}

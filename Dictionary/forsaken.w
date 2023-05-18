@@ -1,0 +1,1 @@
+{"index": 117580, "D": "past participle of forsake. ", "S": ["deserted ", "desolate ", "disowned ", "ignored ", "isolated ", "jilted ", "marooned "], "A": ["populated "]}

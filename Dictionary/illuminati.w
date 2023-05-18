@@ -1,0 +1,1 @@
+{"index": 147470, "D": "persons possessing, or claiming to possess, superior enlightenment.", "S": ["Einstein ", "academic ", "academician ", "bluestocking ", "brain ", "egghead ", "genius ", "intelligentsia ", "philosopher ", "sage ", "savant ", "scholar ", "thinker ", "whiz "], "A": ["ignoramus ", "imbecile "]}

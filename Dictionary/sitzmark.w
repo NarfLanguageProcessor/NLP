@@ -1,0 +1,1 @@
+{"index": 292680, "D": "a sunken area in the snow marking a backward fall of a skier.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 253121, "D": "(used as a toast to wish good health to one's drinking companions).", "S": [], "A": []}

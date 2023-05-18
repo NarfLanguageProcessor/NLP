@@ -1,0 +1,1 @@
+{"index": 109870, "D": "a lively dance, of Proven\u00e7al origin, in which all the dancers join hands and execute various figures.", "S": [], "A": []}

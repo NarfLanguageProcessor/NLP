@@ -1,0 +1,1 @@
+{"index": 279008, "D": "a mineral aggregate of albite, zoisite, and other calcium aluminum silicates, formed by alteration of plagioclase feldspars in igneous rocks.", "S": [], "A": []}

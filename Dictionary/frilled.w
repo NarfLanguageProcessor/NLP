@@ -1,0 +1,1 @@
+{"index": 119046, "D": "a trimming, as a strip of cloth or lace, gathered at one edge and left loose at the other; ruffle.", "S": ["adorn ", "bedeck ", "brighten ", "deck ", "do up ", "dress up ", "festoon ", "fix up ", "grace ", "illuminate ", "paint ", "renovate ", "spruce up ", "trim "], "A": ["darken ", "dull ", "hurt ", "ruin ", "decrease ", "reduce "]}

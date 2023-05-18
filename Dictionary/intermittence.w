@@ -1,0 +1,1 @@
+{"index": 155398, "D": "stopping or ceasing for a time; alternately ceasing and beginning again", "S": ["frequency ", "habituation ", "regularity ", "repetition ", "repetitiveness ", "return "], "A": []}

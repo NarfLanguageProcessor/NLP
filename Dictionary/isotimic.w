@@ -1,0 +1,1 @@
+{"index": 159302, "D": "(of a line or surface in space) having an equal value of some quantity at a given time. ", "S": [], "A": []}

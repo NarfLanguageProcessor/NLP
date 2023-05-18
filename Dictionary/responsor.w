@@ -1,0 +1,1 @@
+{"index": 269801, "D": "the portion of an interrogator-responsor that receives and interprets the signals from a transponder.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 140572, "D": "overactivity of the thyroid gland. ", "S": [], "A": []}

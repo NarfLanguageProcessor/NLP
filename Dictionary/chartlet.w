@@ -1,0 +1,1 @@
+{"index": 52986, "D": "a small chart  indicating some special thing, as information relative to a radio navigational aid.", "S": [], "A": []}

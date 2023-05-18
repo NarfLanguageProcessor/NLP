@@ -1,0 +1,1 @@
+{"index": 194990, "D": "made clear or distinct", "S": [], "A": []}

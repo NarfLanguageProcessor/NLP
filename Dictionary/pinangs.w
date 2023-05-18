@@ -1,0 +1,1 @@
+{"index": 236901, "D": "the betel palm or its nut.", "S": [], "A": []}

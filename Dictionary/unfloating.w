@@ -1,0 +1,1 @@
+{"index": 342403, "D": "being buoyed up on water or other liquid.", "S": [], "A": []}

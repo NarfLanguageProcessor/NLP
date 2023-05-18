@@ -1,0 +1,1 @@
+{"index": 152082, "D": "to kindle or excite (passions, desires, etc.).", "S": ["agitator ", "firebrand "], "A": []}

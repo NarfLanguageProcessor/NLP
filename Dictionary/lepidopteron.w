@@ -1,0 +1,1 @@
+{"index": 170622, "D": "any lepidopterous insect.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 73300, "D": "an animal or human in which the testes fail to descend into the scrotum", "S": [], "A": []}

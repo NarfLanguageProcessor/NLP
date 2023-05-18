@@ -1,0 +1,1 @@
+{"index": 158344, "D": "incapable of being repressed  or restrained; uncontrollable", "S": [], "A": []}

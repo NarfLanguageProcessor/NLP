@@ -1,0 +1,1 @@
+{"index": 142914, "D": "the killing of one human being by another.", "S": ["assassination ", "crime ", "foul play ", "manslaughter ", "murder ", "slaying "], "A": []}

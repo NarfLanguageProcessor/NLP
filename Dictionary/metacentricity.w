@@ -1,0 +1,1 @@
+{"index": 184589, "D": "of or relating to a metacenter. ", "S": [], "A": []}

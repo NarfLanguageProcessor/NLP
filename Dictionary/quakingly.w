@@ -1,0 +1,1 @@
+{"index": 257856, "D": "(of persons) to shake or tremble from cold, weakness, fear, anger, or the like", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 70936, "D": "an attack by an army against an attacking enemy force.", "S": ["balance ", "counterattack ", "counterbalance ", "counterblow ", "countermove ", "counterpoise ", "neutralization ", "offset ", "reciprocation ", "reprisal ", "retribution ", "revenge ", "vengeance "], "A": ["forgiveness ", "pardon ", "sympathy "]}

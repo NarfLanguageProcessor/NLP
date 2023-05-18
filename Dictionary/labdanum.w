@@ -1,0 +1,1 @@
+{"index": 166610, "D": "a resinous juice that exudes from various rockroses of the genus Cistus", "S": [], "A": []}

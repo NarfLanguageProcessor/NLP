@@ -1,0 +1,1 @@
+{"index": 285314, "D": "a Spanish term of address equivalent to Mrs., used alone or capitalized and prefixed to the name of a married or older woman. Abbreviation", "S": ["madame "], "A": ["sir "]}

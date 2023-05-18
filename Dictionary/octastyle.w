@@ -1,0 +1,1 @@
+{"index": 210991, "D": "having eight columns in the front, as a temple or portico.", "S": [], "A": []}

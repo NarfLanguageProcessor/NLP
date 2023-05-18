@@ -1,0 +1,1 @@
+{"index": 217633, "D": "to take (the property of another or others) without permission or right, especially secretly or by force", "S": [], "A": []}

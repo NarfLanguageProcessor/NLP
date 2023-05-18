@@ -1,0 +1,1 @@
+{"index": 361164, "D": "of or relating to the Volsci or to their language.", "S": [], "A": []}

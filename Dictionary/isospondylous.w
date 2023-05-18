@@ -1,0 +1,1 @@
+{"index": 159248, "D": "of, relating to, or belonging to the Isospondyli (or Clupeiformes), an order of soft-finned teleost fishes that includes the herring, salmon, trout, and pike", "S": [], "A": []}

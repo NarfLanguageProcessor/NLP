@@ -1,0 +1,1 @@
+{"index": 214484, "D": "silk that has been additionally twisted in opposite directions, used warpwise in weaving silk fabrics.", "S": [], "A": []}

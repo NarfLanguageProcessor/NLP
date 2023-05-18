@@ -1,0 +1,1 @@
+{"index": 263203, "D": "to put together (documents, selections, or other materials) in one book or work.", "S": [], "A": []}

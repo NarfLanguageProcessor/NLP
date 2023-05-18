@@ -1,0 +1,1 @@
+{"index": 97549, "D": "to draw or bring out or forth; educe; evoke", "S": [], "A": []}

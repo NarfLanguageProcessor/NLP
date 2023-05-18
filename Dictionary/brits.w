@@ -1,0 +1,1 @@
+{"index": 41007, "D": "the group of small marine animals forming the food of baleen whales. ", "S": [], "A": []}

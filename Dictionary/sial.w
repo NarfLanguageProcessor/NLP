@@ -1,0 +1,1 @@
+{"index": 289447, "D": "the assemblage of rocks, rich in silica and alumina, that comprise the continental portions of the upper layer of the earth's crust.", "S": [], "A": []}

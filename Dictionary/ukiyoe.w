@@ -1,0 +1,1 @@
+{"index": 333708, "D": "a genre style of painting and printmaking developed in Japan from the 17th to the 19th centuries and marked by the depiction of the leisure activities of ordinary people.", "S": [], "A": []}

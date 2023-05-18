@@ -1,0 +1,1 @@
+{"index": 357417, "D": "an agent, as a drug, that inhibits the action of the vasomotor nerves.", "S": [], "A": []}

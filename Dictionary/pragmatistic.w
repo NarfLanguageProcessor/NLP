@@ -1,0 +1,1 @@
+{"index": 245216, "D": "character or conduct that emphasizes practicality.", "S": [], "A": []}

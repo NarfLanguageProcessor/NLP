@@ -1,0 +1,1 @@
+{"index": 75794, "D": "to make into or become cutin. ", "S": [], "A": []}

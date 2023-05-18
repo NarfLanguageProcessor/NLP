@@ -1,0 +1,1 @@
+{"index": 219900, "D": "having an interest  in something; concerned", "S": [], "A": []}

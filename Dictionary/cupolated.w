@@ -1,0 +1,1 @@
+{"index": 75100, "D": "having a cupola  or cupolas. ", "S": [], "A": []}

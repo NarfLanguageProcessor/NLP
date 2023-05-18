@@ -1,0 +1,1 @@
+{"index": 61243, "D": "a programming language particularly suited for writing programs to process large files of data, using a vocabulary of common English words, phrases, and sentences.", "S": [], "A": []}

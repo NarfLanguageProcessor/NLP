@@ -1,0 +1,1 @@
+{"index": 189791, "D": "a pick  or filling yarn that has failed to interlace with the warp as a result of a mechanical defect in the loom.", "S": [], "A": []}

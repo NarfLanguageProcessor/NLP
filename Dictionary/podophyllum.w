@@ -1,0 +1,1 @@
+{"index": 241081, "D": "the dried rhizome of the May apple, Podophyllum peltatum, from which podophyllin  is derived.", "S": [], "A": []}

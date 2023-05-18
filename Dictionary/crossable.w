@@ -1,0 +1,1 @@
+{"index": 73759, "D": "a structure consisting essentially of an upright and a transverse piece, used to execute persons in ancient times.", "S": ["graded ", "navigable ", "reachable "], "A": ["blocked ", "excellent ", "exceptional ", "obstructed ", "superior "]}

@@ -1,0 +1,1 @@
+{"index": 314899, "D": "(in the 15th century) a member of the militant body of Hussites maintaining a strict literal interpretation of the Scriptures.", "S": [], "A": []}

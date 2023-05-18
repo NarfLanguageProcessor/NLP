@@ -1,0 +1,1 @@
+{"index": 314669, "D": "an official who carries the sword of state on ceremonial occasions, as before the sovereign, a magistrate, or the like.", "S": [], "A": []}

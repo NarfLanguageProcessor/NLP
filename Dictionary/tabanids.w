@@ -1,0 +1,1 @@
+{"index": 314751, "D": "any of numerous bloodsucking flies of the family Tabanidae, comprising the deer flies and horse flies.", "S": [], "A": []}

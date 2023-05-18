@@ -1,0 +1,1 @@
+{"index": 361556, "D": "to make vulgar  or coarse; lower; debase", "S": [], "A": []}

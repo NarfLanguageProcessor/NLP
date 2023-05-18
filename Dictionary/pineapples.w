@@ -1,0 +1,1 @@
+{"index": 236984, "D": "the edible, juicy, collective fruit of a tropical, bromeliaceous plant, Ananas comosus, that develops from a spike or head of flowers and is surmounted by a crown of leaves.", "S": ["ammunition ", "bomb ", "booby trap ", "detonator ", "dynamite ", "gunpowder ", "mine ", "missile ", "munition ", "powder "], "A": []}

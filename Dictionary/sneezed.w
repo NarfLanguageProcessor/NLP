@@ -1,0 +1,1 @@
+{"index": 295447, "D": "to emit air or breath suddenly, forcibly, and audibly through the nose and mouth by involuntary, spasmodic action.", "S": ["kidnap ", "seize ", "snatch "], "A": ["give "]}

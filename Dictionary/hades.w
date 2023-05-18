@@ -1,0 +1,1 @@
+{"index": 131940, "D": "the god ruling the underworld; Pluto.", "S": ["abysm ", "abyss ", "chasm ", "crevasse ", "fire and brimstone ", "gulf ", "hell ", "infernal regions "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 314636, "D": "a past participle of swell. ", "S": ["bloated ", "inflamed ", "inflated "], "A": ["deflated ", "shrunken "]}

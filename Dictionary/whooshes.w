@@ -1,0 +1,1 @@
+{"index": 365339, "D": "a loud, rushing noise, as of air or water", "S": ["buzz ", "effervesce ", "fizzle ", "froth ", "hiss ", "seethe ", "sibilate ", "simmer ", "sparkle ", "sputter ", "whisper "], "A": []}

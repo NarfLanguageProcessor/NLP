@@ -1,0 +1,1 @@
+{"index": 25840, "D": "a controlled technique of lighting,  used in photography or the theater, in which a light is placed behind or at right angles to an object, person, or scene to produce such effects as depth or separation of subject and background.", "S": [], "A": []}

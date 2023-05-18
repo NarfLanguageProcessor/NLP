@@ -1,0 +1,1 @@
+{"index": 114403, "D": "(in the dietary laws) consisting of, made from, or used only for meat or meat products", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118112, "D": "a social dance, in quadruple meter, performed by couples, characterized by various combinations of slow and quick steps.", "S": ["disco ", "samba ", "tango ", "waltz "], "A": []}

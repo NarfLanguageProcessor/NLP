@@ -1,0 +1,1 @@
+{"index": 296172, "D": "the branch of sociology that uses statistical data to describe social phenomena.", "S": [], "A": []}

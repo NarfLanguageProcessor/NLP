@@ -1,0 +1,1 @@
+{"index": 318204, "D": "to transport (a body) by telekinesis.", "S": [], "A": []}

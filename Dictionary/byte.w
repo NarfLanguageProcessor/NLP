@@ -1,0 +1,1 @@
+{"index": 35179, "D": "adjacent bits, usually eight, processed by a computer as a unit.", "S": ["data ", "unit "], "A": []}

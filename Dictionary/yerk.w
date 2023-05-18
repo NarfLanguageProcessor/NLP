@@ -1,0 +1,1 @@
+{"index": 146909, "D": "to strike or whip.", "S": [], "A": []}

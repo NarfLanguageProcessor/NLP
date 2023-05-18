@@ -1,0 +1,1 @@
+{"index": 139281, "D": "to emphasize or make prominent", "S": ["advertised ", "displayed "], "A": []}

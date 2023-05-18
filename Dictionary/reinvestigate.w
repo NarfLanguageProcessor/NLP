@@ -1,0 +1,1 @@
+{"index": 266491, "D": "to investigate (a crime, murder, problem, etc) again", "S": [], "A": []}

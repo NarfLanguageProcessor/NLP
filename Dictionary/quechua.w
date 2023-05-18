@@ -1,0 +1,1 @@
+{"index": 258239, "D": "the language of the Incan civilization, presently spoken by about 8 million people in Peru, Ecuador, Bolivia, Chile, and Argentina.", "S": [], "A": []}

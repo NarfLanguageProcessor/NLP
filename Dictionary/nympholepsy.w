@@ -1,0 +1,1 @@
+{"index": 200143, "D": "an ecstasy supposed by the ancients to be inspired by nymphs.", "S": [], "A": []}

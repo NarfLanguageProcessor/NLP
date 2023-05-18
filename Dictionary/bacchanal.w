@@ -1,0 +1,1 @@
+{"index": 25618, "D": "a follower of Bacchus.", "S": ["carnival ", "debauch ", "feast ", "frolic ", "orgy ", "party ", "reveler "], "A": []}

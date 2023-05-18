@@ -1,0 +1,1 @@
+{"index": 273657, "D": "a light, four-wheeled carriage having two or three seats and a fixed top.", "S": [], "A": []}

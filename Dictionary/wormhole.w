@@ -1,0 +1,1 @@
+{"index": 367599, "D": "a hole  made by a burrowing or gnawing worm,  as in timber, nuts, etc.", "S": ["side door "], "A": []}

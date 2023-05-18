@@ -1,0 +1,1 @@
+{"index": 148892, "D": "the quality or condition of being importunate;  importunateness.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 150320, "D": "not controvertible; not open to question or dispute; indisputable", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 162439, "D": "an act of taking or administering an oath.", "S": [], "A": []}

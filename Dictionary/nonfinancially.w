@@ -1,0 +1,1 @@
+{"index": 204056, "D": "pertaining to monetary receipts and expenditures; pertaining or relating to money matters; pecuniary", "S": [], "A": []}

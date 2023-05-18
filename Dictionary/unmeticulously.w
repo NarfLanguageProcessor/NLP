@@ -1,0 +1,1 @@
+{"index": 346306, "D": "in a way that shows extreme care about minute details; in a precise and thorough way, sometimes to an excessive degree", "S": [], "A": []}

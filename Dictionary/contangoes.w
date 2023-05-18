@@ -1,0 +1,1 @@
+{"index": 67290, "D": "(on the London stock exchange) a fee paid by a buyer of securities to the seller for the privilege of deferring payment.", "S": [], "A": []}

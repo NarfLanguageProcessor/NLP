@@ -1,0 +1,1 @@
+{"index": 102119, "D": "any of various plants of the genus Ephedra, growing in dry regions and having branching stems with dry scalelike leaves.", "S": [], "A": []}

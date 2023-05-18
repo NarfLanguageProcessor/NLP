@@ -1,0 +1,1 @@
+{"index": 350017, "D": "a past participle of rive. ", "S": [], "A": []}

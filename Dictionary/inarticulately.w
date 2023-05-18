@@ -1,0 +1,1 @@
+{"index": 149529, "D": "lacking the ability to express oneself, especially in clear and effective speech", "S": [], "A": []}

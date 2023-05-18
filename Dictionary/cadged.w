@@ -1,0 +1,1 @@
+{"index": 44335, "D": "to obtain by imposing on another's generosity or friendship.", "S": ["scrounge "], "A": []}

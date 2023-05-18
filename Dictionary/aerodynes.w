@@ -1,0 +1,1 @@
+{"index": 4991, "D": "any heavier-than-air aircraft deriving its lift mainly from aerodynamic forces.", "S": [], "A": []}

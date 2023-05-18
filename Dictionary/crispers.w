@@ -1,0 +1,1 @@
+{"index": 73350, "D": "a person or thing that crisps,  corrugates, or curls.", "S": [], "A": []}

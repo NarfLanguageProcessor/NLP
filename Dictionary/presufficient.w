@@ -1,0 +1,1 @@
+{"index": 249731, "D": "adequate for the purpose; enough", "S": [], "A": []}

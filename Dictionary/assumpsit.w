@@ -1,0 +1,1 @@
+{"index": 21945, "D": "a legal action for a breach of contract or promise not under seal.", "S": ["accusation ", "action ", "argument ", "bill ", "case ", "claim ", "dispute ", "impeachment ", "indictment ", "litigation ", "prosecution ", "suit ", "trial "], "A": []}

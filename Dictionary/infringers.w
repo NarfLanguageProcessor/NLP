@@ -1,0 +1,1 @@
+{"index": 152367, "D": "to commit a breach or infraction of; violate or transgress", "S": ["interloper "], "A": []}

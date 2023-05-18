@@ -1,0 +1,1 @@
+{"index": 177919, "D": "the lowermost sail  on a mainmast.", "S": [], "A": []}

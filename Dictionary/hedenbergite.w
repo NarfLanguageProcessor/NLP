@@ -1,0 +1,1 @@
+{"index": 135183, "D": "a contact metamorphic mineral of the pyroxene family, calcium ferrous silicate, CaFe(SiO3)2, that forms black prismatic crystals in crystalline limestone.", "S": [], "A": []}

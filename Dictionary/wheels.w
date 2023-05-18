@@ -1,0 +1,1 @@
+{"index": 364547, "D": "the wheels of government", "S": ["car ", "passenger car ", "vehicle "], "A": []}

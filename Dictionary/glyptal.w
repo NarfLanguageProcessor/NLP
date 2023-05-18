@@ -1,0 +1,1 @@
+{"index": 126382, "D": "an alkyd resin obtained from polyhydric alcohols and polybasic organic acids or their anhydrides; used for surface coatings", "S": [], "A": []}

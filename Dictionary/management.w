@@ -1,0 +1,1 @@
+{"index": 178881, "D": "the act or manner of managing;  handling, direction, or control.", "S": ["administration ", "authority ", "board ", "executive "], "A": ["employees ", "mismanagement "]}

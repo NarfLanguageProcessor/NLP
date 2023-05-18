@@ -1,0 +1,1 @@
+{"index": 42936, "D": "a thin, round, fried pastry, often dusted with cinnamon sugar.", "S": [], "A": []}

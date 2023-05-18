@@ -1,0 +1,1 @@
+{"index": 175389, "D": "lotus-eaters (def. 1). ", "S": [], "A": []}

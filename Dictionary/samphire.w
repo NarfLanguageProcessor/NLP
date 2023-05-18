@@ -1,0 +1,1 @@
+{"index": 277584, "D": "a European succulent plant, Crithmum maritimum, of the parsley family, having compound leaves and small, whitish flowers, growing in clefts of rock near the sea.", "S": [], "A": []}

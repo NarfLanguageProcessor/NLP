@@ -1,0 +1,1 @@
+{"index": 205287, "D": "aggressively active or combative in support of a cause", "S": ["private "], "A": ["military "]}

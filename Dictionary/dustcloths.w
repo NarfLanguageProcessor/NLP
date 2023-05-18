@@ -1,0 +1,1 @@
+{"index": 94529, "D": "a soft, absorbent cloth  used for dusting. ", "S": ["dishrag ", "patch ", "remnant ", "scrap ", "shred ", "tatter ", "wiper "], "A": []}

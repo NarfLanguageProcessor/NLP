@@ -1,0 +1,1 @@
+{"index": 275623, "D": [], "S": ["catch ", "cross ", "develop ", "give ", "go ", "happen ", "leave ", "move ", "occur ", "reach ", "run ", "take place "], "A": ["cease ", "halt ", "hold ", "lose ", "remain ", "stay ", "stop ", "continue ", "rush ", "wait "]}

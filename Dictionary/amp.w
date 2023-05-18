@@ -1,0 +1,1 @@
+{"index": 10992, "D": "ampere. ", "S": ["loudspeaker "], "A": []}

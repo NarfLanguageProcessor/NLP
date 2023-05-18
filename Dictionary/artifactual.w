@@ -1,0 +1,1 @@
+{"index": 20712, "D": "any object made by human beings, especially with a view to subsequent use.", "S": [], "A": []}

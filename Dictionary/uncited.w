@@ -1,0 +1,1 @@
+{"index": 336940, "D": "to quote (a passage, book, author, etc.), especially as an authority", "S": [], "A": []}

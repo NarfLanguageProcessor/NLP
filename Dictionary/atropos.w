@@ -1,0 +1,1 @@
+{"index": 22906, "D": "the Fate who cuts the thread of life.", "S": [], "A": []}

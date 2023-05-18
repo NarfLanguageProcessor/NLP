@@ -1,0 +1,1 @@
+{"index": 236741, "D": "noting or pertaining to a growth of hair in a dermoid cyst or in the deeper layers of the skin.", "S": [], "A": []}

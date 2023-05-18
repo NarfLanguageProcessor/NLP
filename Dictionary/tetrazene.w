@@ -1,0 +1,1 @@
+{"index": 320251, "D": "either of two isomeric compounds with the formula N4H4, known only in the form of their derivatives.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 240749, "D": "the process by which rocks are altered or minerals and ores are formed by the action of vapors given off by magma.", "S": [], "A": []}

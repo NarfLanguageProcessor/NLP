@@ -1,0 +1,1 @@
+{"index": 215094, "D": "the medical specialty concerned with correction of deformities or functional impairments of the skeletal system, especially the extremities and the spine, and associated structures, as muscles and ligaments.", "S": [], "A": []}

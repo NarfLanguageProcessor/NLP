@@ -1,0 +1,1 @@
+{"index": 19802, "D": "divination by the use of numbers, especially by the number of letters in names.", "S": [], "A": []}

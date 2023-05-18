@@ -1,0 +1,1 @@
+{"index": 353449, "D": "to fall helplessly down, end over end, as by losing one's footing, support, or equilibrium; plunge headlong", "S": [], "A": []}

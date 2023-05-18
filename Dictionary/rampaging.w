@@ -1,0 +1,1 @@
+{"index": 260382, "D": "violent or excited behavior that is reckless, uncontrolled, or destructive.", "S": ["excessive ", "flagrant ", "growing ", "prevalent ", "raging ", "rife ", "spreading ", "unbridled ", "unchecked ", "uncontrollable ", "unrestrained ", "violent ", "wanton "], "A": ["gentle ", "mild ", "moderate ", "moral ", "restrained "]}

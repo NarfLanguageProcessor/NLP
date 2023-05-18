@@ -1,0 +1,1 @@
+{"index": 45224, "D": "the medicinal bark of the tree Cinchona calisaya.", "S": [], "A": []}

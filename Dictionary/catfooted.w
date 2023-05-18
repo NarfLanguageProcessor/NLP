@@ -1,0 +1,1 @@
+{"index": 49616, "D": "having feet resembling those of a cat.", "S": [], "A": []}

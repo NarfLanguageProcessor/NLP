@@ -1,0 +1,1 @@
+{"index": 44079, "D": "an ornamental container, usually of china or tole, for holding and concealing a flowerpot.", "S": [], "A": []}

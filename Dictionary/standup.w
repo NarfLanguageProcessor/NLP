@@ -1,0 +1,1 @@
+{"index": 302710, "D": "standing erect or upright, as a collar.", "S": ["draw back the hammer ", "perk up ", "raise the hammer of ", "upraise "], "A": ["raze "]}

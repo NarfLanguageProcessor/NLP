@@ -1,0 +1,1 @@
+{"index": 193870, "D": "any tiny, leafy-stemmed, flowerless plant of the class Musci, reproducing by spores and growing in tufts, sods, or mats on moist ground, tree trunks, rocks, etc.", "S": ["bog ", "lichen ", "morass ", "swamp "], "A": []}

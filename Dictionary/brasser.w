@@ -1,0 +1,1 @@
+{"index": 40018, "D": "any of various metal alloys consisting mainly of copper and zinc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 185555, "D": "to cry, as a baby, young child, or the like; whimper.", "S": ["chatter ", "cheer ", "clamor ", "groan ", "grunt ", "howl ", "outcry ", "roar ", "scream ", "shout ", "shriek ", "wail ", "whine ", "whistle "], "A": ["quiet ", "seriousness ", "silence ", "calm ", "peace "]}

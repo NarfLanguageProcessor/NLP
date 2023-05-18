@@ -1,0 +1,1 @@
+{"index": 250557, "D": "formally precise or proper, as persons or behavior; stiffly neat.", "S": [], "A": []}

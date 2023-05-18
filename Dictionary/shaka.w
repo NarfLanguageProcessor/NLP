@@ -1,0 +1,1 @@
+{"index": 287191, "D": "died 1828, Zulu military leader, who founded the Zulu Empire in southern Africa", "S": [], "A": []}

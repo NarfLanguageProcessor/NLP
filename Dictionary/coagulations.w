@@ -1,0 +1,1 @@
+{"index": 60934, "D": "to change from a fluid into a thickened mass; curdle; congeal", "S": ["agglomeration ", "concentration ", "concretion ", "condensation ", "congelation ", "consolidation ", "curdling ", "embolism ", "inspissation ", "thickening "], "A": ["dispersal ", "separation "]}

@@ -1,0 +1,1 @@
+{"index": 176188, "D": "lunch, especially a formal lunch held in connection with a meeting or other special occasion", "S": ["high tea ", "snack ", "tea "], "A": []}

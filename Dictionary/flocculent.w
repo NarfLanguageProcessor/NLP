@@ -1,0 +1,1 @@
+{"index": 114845, "D": "like a clump or tuft of wool.", "S": ["downy ", "fluffy ", "woolly "], "A": []}

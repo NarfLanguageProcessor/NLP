@@ -1,0 +1,1 @@
+{"index": 261112, "D": "a sprout or shoot from the root of a plant, especially a sugarcane, after it has been cropped.", "S": [], "A": []}

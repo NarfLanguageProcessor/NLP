@@ -1,0 +1,1 @@
+{"index": 84212, "D": "a specialist in dialectology. ", "S": [], "A": []}

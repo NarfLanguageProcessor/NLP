@@ -1,0 +1,1 @@
+{"index": 240341, "D": "an electric switchboard with plugs  for telephones and the like.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 281010, "D": "a vegetative, resting food-storage body in certain higher fungi, composed of a compact mass of hardened mycelia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25122, "D": "a mineral, complex calcium and aluminum borosilicate, usually occurring in thin brown crystals.", "S": [], "A": []}

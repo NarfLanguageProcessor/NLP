@@ -1,0 +1,1 @@
+{"index": 148216, "D": "caused by impact", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 357212, "D": "abnormally or unusually enlarged or swollen", "S": [], "A": []}

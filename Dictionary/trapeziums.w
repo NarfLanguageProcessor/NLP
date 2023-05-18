@@ -1,0 +1,1 @@
+{"index": 328456, "D": "trapezoid (def. 1a). ", "S": [], "A": []}

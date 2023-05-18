@@ -1,0 +1,1 @@
+{"index": 184778, "D": "any of the small, mostly tropical butterflies of the family Riodinidae, often having metallic-colored flecks on the wings.", "S": [], "A": []}

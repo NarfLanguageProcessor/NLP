@@ -1,0 +1,1 @@
+{"index": 158047, "D": "Compare cast iron, pig iron, steel, wrought iron. ", "S": ["rigid ", "steely "], "A": ["flexible ", "loose ", "moving ", "pliant ", "slight ", "soft ", "supple ", "yielding "]}

@@ -1,0 +1,1 @@
+{"index": 349314, "D": "hard or impossible to manage; stubbornly disobedient", "S": [], "A": []}

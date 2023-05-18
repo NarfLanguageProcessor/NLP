@@ -1,0 +1,1 @@
+{"index": 10908, "D": "not involving questions of right or wrong; without moral  quality; neither moral nor immoral.", "S": ["immoral ", "ruthless ", "unconscionable ", "unethical ", "unprincipled "], "A": []}

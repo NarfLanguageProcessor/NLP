@@ -1,0 +1,1 @@
+{"index": 367589, "D": "throughout the world; extending or spread throughout the world", "S": ["comprehensive ", "extensive ", "global ", "international ", "multinational "], "A": ["limited ", "local "]}

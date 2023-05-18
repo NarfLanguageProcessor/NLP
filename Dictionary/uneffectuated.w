@@ -1,0 +1,1 @@
+{"index": 341043, "D": "to bring about; effect. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 261981, "D": "to place in proper, desired, or convenient order; adjust properly", "S": ["readjust ", "reconstruct ", "reorganize ", "reposition ", "reshuffle ", "revamp ", "rework "], "A": ["remain "]}

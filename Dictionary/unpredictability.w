@@ -1,0 +1,1 @@
+{"index": 348322, "D": "not predictable; not to be foreseen or foretold", "S": ["irregularity ", "scarcity ", "uncommonness "], "A": []}

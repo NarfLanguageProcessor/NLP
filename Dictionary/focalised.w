@@ -1,0 +1,1 @@
+{"index": 115668, "D": "to bring or come to focus. ", "S": [], "A": []}

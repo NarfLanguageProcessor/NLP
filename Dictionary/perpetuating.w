@@ -1,0 +1,1 @@
+{"index": 231807, "D": "to enable or allow the continuation of into the future; keep alive (used most often in reference to something considered harmful or false)", "S": ["continuance ", "continuity ", "extension ", "perpetuation ", "preservation "], "A": ["stoppage "]}

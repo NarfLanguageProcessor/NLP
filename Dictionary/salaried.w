@@ -1,0 +1,1 @@
+{"index": 276957, "D": "receiving a salary", "S": ["compensated "], "A": ["unpaid "]}

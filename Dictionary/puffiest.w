@@ -1,0 +1,1 @@
+{"index": 256097, "D": "gusty1. ", "S": ["billowy ", "bloated ", "blown ", "bulgy ", "distended ", "distent ", "enlarged ", "expanded ", "full ", "increased ", "inflamed ", "inflated ", "puffed up "], "A": ["flat ", "tight "]}

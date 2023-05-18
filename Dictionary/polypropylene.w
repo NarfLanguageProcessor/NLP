@@ -1,0 +1,1 @@
+{"index": 242336, "D": "a plastic polymer of propylene,  (C3H5)n, used chiefly for molded parts, electrical insulation, packaging, and fibers for wearing apparel.", "S": [], "A": []}

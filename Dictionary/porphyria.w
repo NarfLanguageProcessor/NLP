@@ -1,0 +1,1 @@
+{"index": 243517, "D": "a defect of blood pigment metabolism in which porphyrins  are produced in excess, are present in the blood, and are found in the urine.", "S": [], "A": []}

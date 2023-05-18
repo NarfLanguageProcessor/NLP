@@ -1,0 +1,1 @@
+{"index": 135623, "D": "turning or growing toward the light.", "S": [], "A": []}

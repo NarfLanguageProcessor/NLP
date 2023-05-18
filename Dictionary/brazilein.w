@@ -1,0 +1,1 @@
+{"index": 40168, "D": "a red, crystalline, water-insoluble solid, C16H12O5, obtained by the oxidation of brazilin", "S": [], "A": []}

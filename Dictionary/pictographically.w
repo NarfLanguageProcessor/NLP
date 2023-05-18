@@ -1,0 +1,1 @@
+{"index": 236071, "D": "a pictorial sign or symbol.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 345284, "D": "to drive (a fox or other animal) from a den or lair.", "S": [], "A": []}

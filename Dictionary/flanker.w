@@ -1,0 +1,1 @@
+{"index": 113941, "D": "a person or thing that flanks.", "S": [], "A": []}

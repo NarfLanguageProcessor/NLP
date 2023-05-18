@@ -1,0 +1,1 @@
+{"index": 1590, "D": "to accustom or become accustomed to a new climate  or environment; adapt. ", "S": [], "A": []}

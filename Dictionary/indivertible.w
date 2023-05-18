@@ -1,0 +1,1 @@
+{"index": 151160, "D": "incapable of being diverted or turned aside", "S": [], "A": []}

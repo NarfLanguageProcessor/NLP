@@ -1,0 +1,1 @@
+{"index": 307460, "D": "a subordinate section of a larger clause in a document, contract, etc", "S": [], "A": []}

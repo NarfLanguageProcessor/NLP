@@ -1,0 +1,1 @@
+{"index": 174669, "D": "of, relating to, or using logograms.", "S": [], "A": []}

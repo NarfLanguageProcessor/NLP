@@ -1,0 +1,1 @@
+{"index": 224173, "D": "to pulsate with unusual rapidity from exertion, emotion, disease, etc.; flutter", "S": [], "A": []}

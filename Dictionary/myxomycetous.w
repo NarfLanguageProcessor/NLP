@@ -1,0 +1,1 @@
+{"index": 190766, "D": "of or relating to a slime mold.", "S": [], "A": []}

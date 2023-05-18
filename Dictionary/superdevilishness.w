@@ -1,0 +1,1 @@
+{"index": 311656, "D": "of, like, or befitting a devil; diabolical; fiendish. ", "S": [], "A": []}

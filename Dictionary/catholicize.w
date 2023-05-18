@@ -1,0 +1,1 @@
+{"index": 49738, "D": "to make or become catholic", "S": [], "A": []}

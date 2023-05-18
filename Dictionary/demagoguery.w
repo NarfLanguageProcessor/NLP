@@ -1,0 +1,1 @@
+{"index": 80344, "D": "the methods or practices of a demagogue. ", "S": [], "A": []}

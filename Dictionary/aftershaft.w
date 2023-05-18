@@ -1,0 +1,1 @@
+{"index": 5749, "D": "a supplementary feather, usually small, arising from the underside of the base of the shafts  of certain feathers in many birds.", "S": [], "A": []}

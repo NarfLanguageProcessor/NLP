@@ -1,0 +1,1 @@
+{"index": 114737, "D": "a device for killing flies, mosquitoes, and other insects, usually a square sheet of wire mesh attached to a long handle.", "S": [], "A": []}

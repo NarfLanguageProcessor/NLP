@@ -1,0 +1,1 @@
+{"index": 282714, "D": "to discriminate or distinguish in thought.", "S": [], "A": []}

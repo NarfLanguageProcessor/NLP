@@ -1,0 +1,1 @@
+{"index": 236555, "D": "a shallow rectangular feature projecting from a wall, having a capital and base and usually imitating the form of a column.", "S": ["monument "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 67338, "D": "existing, occurring, or living at the same time; belonging to the same time", "S": ["new ", "present-day "], "A": ["future ", "old ", "past "]}

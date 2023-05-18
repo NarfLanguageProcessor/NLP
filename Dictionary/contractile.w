@@ -1,0 +1,1 @@
+{"index": 67575, "D": "capable of contracting or causing contraction.", "S": [], "A": []}

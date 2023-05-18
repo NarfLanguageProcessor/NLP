@@ -1,0 +1,1 @@
+{"index": 353676, "D": "plain; clear; straightforward; without vagueness or subterfuge; frank", "S": ["candid ", "straightforward ", "unadorned "], "A": ["deceitful ", "devious "]}

@@ -1,0 +1,1 @@
+{"index": 276670, "D": "sagging  or tending to sag", "S": [], "A": []}

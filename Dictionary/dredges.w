@@ -1,0 +1,1 @@
+{"index": 92916, "D": "any of various powerful machines for dredging up or removing earth, as from the bottom of a river, by means of a scoop, a series of buckets, a suction pipe, or the like.", "S": ["clean ", "widen "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 235685, "D": [], "S": ["dove of peace ", "expiatory offering ", "expiatory sacrifice ", "hand of friendship ", "heave offering ", "irenics ", "olive branch ", "outstretched hand ", "piacular offering ", "present ", "sacramental offering ", "sacrifice ", "sin offering ", "whole offering "], "A": []}

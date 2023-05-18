@@ -1,0 +1,1 @@
+{"index": 318560, "D": "an edifice or place dedicated to the service or worship of a deity or deities.", "S": ["chapel ", "church ", "house ", "mosque ", "pagoda ", "place of worship ", "sanctuary ", "shrine ", "synagogue "], "A": []}

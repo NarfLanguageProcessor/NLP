@@ -1,0 +1,1 @@
+{"index": 154385, "D": "of, relating to, or characterized by intensity", "S": ["accelerated ", "all-out ", "comprehensive ", "demanding ", "in-depth ", "thorough "], "A": ["superficial "]}

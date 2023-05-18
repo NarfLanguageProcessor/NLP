@@ -1,0 +1,1 @@
+{"index": 247141, "D": "fate or destiny, especially adverse fate; unavoidable ill fortune", "S": [], "A": []}

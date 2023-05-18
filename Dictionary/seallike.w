@@ -1,0 +1,1 @@
+{"index": 282475, "D": "an embossed emblem, figure, symbol, word, letter, etc., used as attestation or evidence of authenticity", "S": [], "A": []}

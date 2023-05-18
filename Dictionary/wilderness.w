@@ -1,0 +1,1 @@
+{"index": 365700, "D": "a wild and uncultivated region, as of forest or desert, uninhabited or inhabited only by wild animals; a tract of wasteland.", "S": ["back country ", "desert ", "forest ", "jungle ", "outback ", "wasteland "], "A": ["city ", "metropolis "]}

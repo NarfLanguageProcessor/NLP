@@ -1,0 +1,1 @@
+{"index": 207049, "D": "the record of points or strokes made by the competitors in a game or match.", "S": [], "A": []}

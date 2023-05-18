@@ -1,0 +1,1 @@
+{"index": 348227, "D": "to thrust out the lips, especially in displeasure or sullenness.", "S": [], "A": []}

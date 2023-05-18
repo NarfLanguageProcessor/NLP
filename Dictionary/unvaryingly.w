@@ -1,0 +1,1 @@
+{"index": 353674, "D": "to change or alter, as in form, appearance, character, or substance", "S": ["constantly ", "smoothly ", "steadily ", "uniformly "], "A": ["irregularly ", "roughly ", "unevenly ", "unfairly ", "unjustly "]}

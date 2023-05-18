@@ -1,0 +1,1 @@
+{"index": 148230, "D": "weakened, diminished, or damaged", "S": ["damaged ", "defective ", "flawed ", "harmed "], "A": ["perfect ", "unbroken ", "OK ", "happy "]}

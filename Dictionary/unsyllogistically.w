@@ -1,0 +1,1 @@
+{"index": 351152, "D": "of or relating to a syllogism. ", "S": [], "A": []}

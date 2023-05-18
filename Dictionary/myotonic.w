@@ -1,0 +1,1 @@
+{"index": 188282, "D": "tonic muscle spasm or muscular rigidity.", "S": [], "A": []}

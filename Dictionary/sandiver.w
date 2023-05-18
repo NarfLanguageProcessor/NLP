@@ -1,0 +1,1 @@
+{"index": 277782, "D": "a whitish, saline scum formed on the surface of molten glass.", "S": [], "A": []}

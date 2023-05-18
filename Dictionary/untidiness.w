@@ -1,0 +1,1 @@
+{"index": 353003, "D": "not tidy  or neat; slovenly; disordered", "S": ["disorganization ", "messiness ", "sloppiness ", "slovenliness "], "A": []}

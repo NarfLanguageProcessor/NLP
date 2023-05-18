@@ -1,0 +1,1 @@
+{"index": 318360, "D": "a person or thing that tells,  relates, or communicates; narrator", "S": [], "A": []}

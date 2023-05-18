@@ -1,0 +1,1 @@
+{"index": 17653, "D": "to add as a supplement, accessory, or appendix;  subjoin", "S": ["affix "], "A": ["detach ", "disconnect ", "unfasten "]}

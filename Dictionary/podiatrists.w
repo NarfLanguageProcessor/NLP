@@ -1,0 +1,1 @@
+{"index": 241038, "D": "a person qualified to diagnose and treat foot disorders.", "S": [], "A": []}

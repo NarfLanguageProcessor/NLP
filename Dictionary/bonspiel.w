@@ -1,0 +1,1 @@
+{"index": 37972, "D": "a competition or meet in curling at which teams from several clubs or districts compete with one another.", "S": [], "A": []}

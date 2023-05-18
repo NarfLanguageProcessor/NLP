@@ -1,0 +1,1 @@
+{"index": 80430, "D": "a condition characterized by progressive, persistent, severe impairment of intellectual capacity, including memory loss, confusion, and emotional instability, resulting from the loss of or damage to neurons in the brain.", "S": ["brain damage ", "mental disorder "], "A": []}

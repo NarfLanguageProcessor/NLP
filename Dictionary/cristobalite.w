@@ -1,0 +1,1 @@
+{"index": 73455, "D": "a polymorph of quartz occurring in volcanic rock in the form of colorless, translucent crystals.", "S": [], "A": []}

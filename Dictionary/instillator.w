@@ -1,0 +1,1 @@
+{"index": 153899, "D": "an apparatus for putting liquid drop by drop into a cavity.", "S": [], "A": []}

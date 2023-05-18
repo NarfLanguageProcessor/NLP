@@ -1,0 +1,1 @@
+{"index": 29361, "D": "the area that is the first objective of a military force landing on an enemy shore.", "S": [], "A": []}

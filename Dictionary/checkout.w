@@ -1,0 +1,1 @@
+{"index": 53360, "D": "the procedure of vacating and paying for one's quarters at a hotel.", "S": ["depart ", "leave ", "pay one's bill ", "settle up "], "A": []}

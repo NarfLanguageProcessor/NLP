@@ -1,0 +1,1 @@
+{"index": 235417, "D": "facsimile (def. 2a). ", "S": [], "A": []}

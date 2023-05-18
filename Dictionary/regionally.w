@@ -1,0 +1,1 @@
+{"index": 265662, "D": "of or relating to a region  of considerable extent; not merely local", "S": [], "A": []}

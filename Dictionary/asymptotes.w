@@ -1,0 +1,1 @@
+{"index": 21251, "D": "a straight line approached by a given curve as one of the variables in the equation of the curve approaches infinity.", "S": [], "A": []}

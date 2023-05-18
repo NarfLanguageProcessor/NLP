@@ -1,0 +1,1 @@
+{"index": 107082, "D": "(they) go offstage (used formerly as a stage direction, usually preceding the names of the characters)", "S": [], "A": []}

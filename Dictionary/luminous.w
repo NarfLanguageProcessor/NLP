@@ -1,0 +1,1 @@
+{"index": 176118, "D": "radiating or reflecting light; shining; bright.", "S": ["brilliant ", "incandescent ", "lucid ", "lustrous ", "radiant ", "shining ", "translucent ", "vivid "], "A": ["cloudy ", "dark ", "dim ", "dull ", "gloomy "]}

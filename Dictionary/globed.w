@@ -1,0 +1,1 @@
+{"index": 126468, "D": "the planet Earth.", "S": [], "A": []}

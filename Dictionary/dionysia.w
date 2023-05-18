@@ -1,0 +1,1 @@
+{"index": 86282, "D": "the orgiastic and dramatic festivals held periodically in honor of Dionysus, especially those in Attica, from which Greek comedy and tragedy developed.", "S": [], "A": []}

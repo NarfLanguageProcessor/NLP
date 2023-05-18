@@ -1,0 +1,1 @@
+{"index": 108771, "D": "to thrust out; force or press out; expel", "S": [], "A": []}

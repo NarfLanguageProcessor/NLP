@@ -1,0 +1,1 @@
+{"index": 37058, "D": "the effect on a radarscope of the fluctuation of a radar echo because of alternating interference and reinforcement of the reflected waves.", "S": ["perpendicular "], "A": []}

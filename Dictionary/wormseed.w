@@ -1,0 +1,1 @@
+{"index": 367619, "D": "the dried, unexpanded flower heads of a wormwood, Artemisia cina(Levant wormseed ), or the fruit of certain goosefoots, especially Chenopodium anthelminticum (or C. ambrosioides), the Mexican tea or American wormseed, used as an anthelmintic drug.", "S": [], "A": []}

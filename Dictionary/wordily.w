@@ -1,0 +1,1 @@
+{"index": 367423, "D": "characterized by or given to the use of many, or too many, words; verbose", "S": [], "A": []}

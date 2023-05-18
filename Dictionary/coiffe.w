@@ -1,0 +1,1 @@
+{"index": 62433, "D": "a variant of coiffure (defs. 1, 4). ", "S": [], "A": []}

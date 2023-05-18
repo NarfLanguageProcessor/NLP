@@ -1,0 +1,1 @@
+{"index": 214280, "D": "dung; manure; excrement.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45386, "D": "without rough motion; still or nearly still", "S": ["cool ", "harmonious ", "low-key ", "mild ", "placid ", "serene ", "slow ", "smooth ", "soothing ", "tranquil "], "A": ["agitated ", "excited ", "harsh ", "nervous ", "rough ", "uncool ", "violent "]}

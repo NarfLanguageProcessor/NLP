@@ -1,0 +1,1 @@
+{"index": 333383, "D": "to shine with a flickering gleam of light, as a star or distant light.", "S": ["blink ", "flicker ", "gleam ", "glint ", "glisten ", "glitter ", "glow ", "illuminate ", "light up ", "shimmer ", "sparkle ", "wink "], "A": ["darken ", "dull "]}

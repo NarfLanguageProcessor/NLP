@@ -1,0 +1,1 @@
+{"index": 133210, "D": "a metal tube having its ends curved to form handles, used for steering a bicycle, motorcycle, etc", "S": [], "A": []}

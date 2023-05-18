@@ -1,0 +1,1 @@
+{"index": 21676, "D": "any of the eight voters legally required to endorse the nomination of a candidate in a parliamentary or local election in addition to the nominator and seconder", "S": [], "A": []}

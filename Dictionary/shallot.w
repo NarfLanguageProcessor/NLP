@@ -1,0 +1,1 @@
+{"index": 287270, "D": "a cultivar of the onion, Allium cepa aggregatum, having a divided bulb used for flavoring in cooking.", "S": [], "A": []}

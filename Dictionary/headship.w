@@ -1,0 +1,1 @@
+{"index": 134709, "D": "the position of head  or chief; chief authority; leadership; supremacy.", "S": [], "A": []}

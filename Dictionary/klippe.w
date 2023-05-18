@@ -1,0 +1,1 @@
+{"index": 165357, "D": "a square or lozenge-shaped coin.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 114224, "D": "something that gives flavor;  a substance or preparation used to give a particular flavor  to food or drink", "S": ["additive ", "condiment ", "herb ", "sauce ", "seasoning ", "zest "], "A": []}

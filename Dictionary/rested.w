@@ -1,0 +1,1 @@
+{"index": 269890, "D": "the refreshing quiet or repose of sleep", "S": ["energetic ", "recovered ", "refreshed ", "relaxed "], "A": ["asleep "]}

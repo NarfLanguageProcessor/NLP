@@ -1,0 +1,1 @@
+{"index": 243379, "D": "of or relating to swine.", "S": ["hoggish ", "piggish ", "rapacious "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 202449, "D": "the act or state of continuing; the state of being continued.", "S": [], "A": []}

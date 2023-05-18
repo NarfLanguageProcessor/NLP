@@ -1,0 +1,1 @@
+{"index": 202644, "D": "having or characterized by culture;  refined; enlightened", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 60416, "D": "a rapid succession of flexions and extensions of a group of muscles, usually signifying an affection of the brain or spinal cord.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82753, "D": "barren or laid waste; devastated", "S": [], "A": []}

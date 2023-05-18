@@ -1,0 +1,1 @@
+{"index": 347675, "D": "to become aware of, know, or identify by means of the senses", "S": ["ignorant ", "insensitive ", "nearsighted ", "oblivious ", "unconscious "], "A": ["aware ", "concerned ", "conscious ", "mindful ", "sensitive "]}

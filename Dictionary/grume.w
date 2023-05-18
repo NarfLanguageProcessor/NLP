@@ -1,0 +1,1 @@
+{"index": 130555, "D": "blood when viscous.", "S": ["coagulum ", "crassamentum ", "embolism ", "embolus ", "thrombus "], "A": []}

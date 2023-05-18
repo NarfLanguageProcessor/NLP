@@ -1,0 +1,1 @@
+{"index": 59385, "D": "a number of persons or things regarded as forming a group by reason of common attributes, characteristics, qualities, or traits; kind; sort", "S": ["collection ", "degree ", "department ", "division ", "family ", "grade ", "league ", "rank ", "school ", "style "], "A": ["effect ", "end ", "result ", "whole "]}

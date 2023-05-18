@@ -1,0 +1,1 @@
+{"index": 359699, "D": "a territorial division under the feudal system; township.", "S": [], "A": []}

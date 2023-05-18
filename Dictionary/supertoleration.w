@@ -1,0 +1,1 @@
+{"index": 312815, "D": "an act or instance of tolerating,  especially of what is not actually approved; forbearance", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 57306, "D": "the juice pressed from apples (or formerly from some other fruit) used for drinking, either before fermentation (sweet cider ) or after fermentation (hard cider ), or for making applejack, vinegar, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 313050, "D": "to assume (something), as for the sake of argument or as part of a proposition or theory", "S": ["deem ", "expect ", "presume ", "pretend ", "think ", "understand "], "A": ["disbelieve ", "abstain ", "deny ", "disallow ", "dispute ", "know ", "misconceive ", "misunderstand ", "prove ", "refuse ", "reject ", "stop "]}

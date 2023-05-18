@@ -1,0 +1,1 @@
+{"index": 16543, "D": "the opening at the lower end of the alimentary canal, through which the solid refuse of digestion is excreted.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 221151, "D": "of excessive size;  unusually large", "S": ["billowing ", "floppy ", "roomy "], "A": ["firm ", "fitting ", "tight "]}

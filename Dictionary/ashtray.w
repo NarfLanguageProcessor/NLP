@@ -1,0 +1,1 @@
+{"index": 21191, "D": "a receptacle for tobacco ashes  of smokers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 152857, "D": "to issue a legal injunction against (a person)", "S": [], "A": []}

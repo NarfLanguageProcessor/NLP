@@ -1,0 +1,1 @@
+{"index": 249198, "D": "pertaining to or concerned with sacrifice. ", "S": [], "A": []}

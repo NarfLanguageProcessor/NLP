@@ -1,0 +1,1 @@
+{"index": 230195, "D": "a loose-fitting outer garment worn, draped in folds, by women in ancient Greece.", "S": [], "A": []}

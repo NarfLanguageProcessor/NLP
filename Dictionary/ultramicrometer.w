@@ -1,0 +1,1 @@
+{"index": 333978, "D": "a micrometer  calibrated to a very fine scale and capable of measuring extremely small magnitudes.", "S": [], "A": []}

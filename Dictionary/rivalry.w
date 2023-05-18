@@ -1,0 +1,1 @@
+{"index": 273364, "D": "the action, position, or relation of a rival  or rivals;  competition", "S": ["antagonism ", "clash ", "conflict ", "contest ", "duel ", "encounter ", "event ", "fight ", "jealousy ", "matchup ", "race ", "strife ", "struggle ", "tug-of-war "], "A": ["accord ", "agreement ", "calm ", "harmony ", "peace "]}

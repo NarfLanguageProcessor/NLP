@@ -1,0 +1,1 @@
+{"index": 236998, "D": "Isle of Pines the former name of the (Isle of) Youth", "S": ["ache ", "crave ", "grieve ", "hanker ", "mourn ", "yearn "], "A": ["be happy ", "dislike ", "hate "]}

@@ -1,0 +1,1 @@
+{"index": 72570, "D": "a member of a North American Indian people of Ontario, Manitoba, Saskatchewan, and Montana.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 129242, "D": "a network of parallels and meridians on a map or chart.", "S": [], "A": []}

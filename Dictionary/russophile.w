@@ -1,0 +1,1 @@
+{"index": 275845, "D": "a person who is friendly to, admires, or prefers Russia or Russian customs, institutions, etc.", "S": [], "A": []}

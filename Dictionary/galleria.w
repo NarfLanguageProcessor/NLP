@@ -1,0 +1,1 @@
+{"index": 121334, "D": "a spacious passageway, court, or indoor mall, usually with a vaulted roof and lined with commercial establishments.", "S": ["bazaar ", "boutique ", "co-op ", "discount store ", "flea market ", "mall ", "mart ", "outlet ", "shop ", "shopping center ", "supermarket "], "A": []}

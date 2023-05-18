@@ -1,0 +1,1 @@
+{"index": 252472, "D": "evidence sufficient to establish a thing as true, or to produce belief in its truth.", "S": [], "A": []}

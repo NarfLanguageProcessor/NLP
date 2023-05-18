@@ -1,0 +1,1 @@
+{"index": 252451, "D": "advocating the building or use of nuclear power  plants.", "S": [], "A": []}

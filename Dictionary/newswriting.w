@@ -1,0 +1,1 @@
+{"index": 199492, "D": "writing  for publication in a newspaper, often reporting current events; journalism.", "S": [], "A": []}

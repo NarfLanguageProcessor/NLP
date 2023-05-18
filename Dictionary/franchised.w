@@ -1,0 +1,1 @@
+{"index": 118313, "D": "a privilege of a public nature conferred on an individual, group, or company by a government", "S": ["empowered "], "A": ["disadvantageous ", "prevented "]}

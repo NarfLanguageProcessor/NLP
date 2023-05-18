@@ -1,0 +1,1 @@
+{"index": 346040, "D": "to damage or spoil to a certain extent; render less perfect, attractive, useful, etc.; impair or spoil", "S": [], "A": []}

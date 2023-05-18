@@ -1,0 +1,1 @@
+{"index": 369545, "D": "the language of the people of the Komi Autonomous Republic, belonging to the Finno-Ugric family; Komi", "S": [], "A": []}

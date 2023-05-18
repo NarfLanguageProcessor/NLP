@@ -1,0 +1,1 @@
+{"index": 336664, "D": "discourteously abrupt; hasty; rude", "S": ["abrupt ", "bluff ", "blunt ", "brief ", "casual ", "curt ", "familiar ", "hasty ", "inelegant ", "short ", "unconstrained "], "A": ["formal ", "polite "]}

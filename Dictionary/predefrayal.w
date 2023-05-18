@@ -1,0 +1,1 @@
+{"index": 246737, "D": "payment of some or all charges or expenses.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 261221, "D": "a New Zealand bulrush, Typha orientalis, with sword-shaped leaves, traditionally used for construction and decoration", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 352983, "D": "to push forcibly; shove; put or drive with force", "S": [], "A": []}

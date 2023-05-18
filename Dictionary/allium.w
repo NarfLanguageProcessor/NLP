@@ -1,0 +1,1 @@
+{"index": 8767, "D": "any bulbous plant belonging to the genus Allium, of the amaryllis family, having an onion odor and flowers in a round cluster, including the onion, leek, shallot, garlic, and chive.", "S": [], "A": []}

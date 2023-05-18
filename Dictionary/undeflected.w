@@ -1,0 +1,1 @@
+{"index": 338617, "D": "curved or bent downward.", "S": [], "A": []}

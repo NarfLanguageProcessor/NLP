@@ -1,0 +1,1 @@
+{"index": 95590, "D": "the congenital absence of part or all of one or more fingers or toes.", "S": [], "A": []}

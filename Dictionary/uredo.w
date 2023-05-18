@@ -1,0 +1,1 @@
+{"index": 355467, "D": "a skin irritation; hives; urticaria.", "S": [], "A": []}

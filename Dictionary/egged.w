@@ -1,0 +1,1 @@
+{"index": 96181, "D": "the roundish reproductive body produced by the female of certain animals, as birds and most reptiles, consisting of an ovum and its envelope of albumen, jelly, membranes, egg case,  or shell, according to species.", "S": ["bud ", "cackle ", "germ ", "nucleus ", "oospore ", "ovum ", "roe ", "rudiment ", "spawn "], "A": []}

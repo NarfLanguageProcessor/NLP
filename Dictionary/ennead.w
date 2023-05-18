@@ -1,0 +1,1 @@
+{"index": 100727, "D": "a group of nine persons or things.", "S": [], "A": []}

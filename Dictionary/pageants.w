@@ -1,0 +1,1 @@
+{"index": 222997, "D": "an elaborate public spectacle illustrative of the history of a place, institution, or the like, often given in dramatic form or as a procession of colorful floats.", "S": ["celebration ", "extravaganza ", "fair ", "parade ", "procession ", "ritual ", "tableau "], "A": ["hiding ", "reality ", "truth "]}

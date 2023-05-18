@@ -1,0 +1,1 @@
+{"index": 321419, "D": "a graphic or visual record produced by thermography.", "S": [], "A": []}

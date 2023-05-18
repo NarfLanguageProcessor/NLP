@@ -1,0 +1,1 @@
+{"index": 11556, "D": "lack of grammatical sequence or coherence, especially in a sentence.", "S": [], "A": []}

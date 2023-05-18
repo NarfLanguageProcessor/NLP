@@ -1,0 +1,1 @@
+{"index": 11549, "D": "(of valleys and similar formations) progressing in a direction opposite to the dip of the surrounding rock strata", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 4135, "D": "to manage (affairs, a government, etc.); have executive charge of", "S": ["administrate ", "carry out ", "conduct ", "direct ", "execute ", "govern ", "oversee ", "supervise "], "A": ["leave ", "neglect ", "obey ", "follow "]}

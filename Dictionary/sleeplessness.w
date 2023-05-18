@@ -1,0 +1,1 @@
+{"index": 293907, "D": "without sleep", "S": ["restlessness "], "A": ["relaxation "]}

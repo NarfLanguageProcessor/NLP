@@ -1,0 +1,1 @@
+{"index": 43342, "D": "to break, break open, or fly apart with sudden violence", "S": ["illuminations ", "pyrotechnics ", "rockets ", "sparklers "], "A": []}

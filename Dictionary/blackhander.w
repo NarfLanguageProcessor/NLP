@@ -1,0 +1,1 @@
+{"index": 35510, "D": "any of various secret criminal groups organized in Italy and operating in the U.S. in the late 19th and early 20th centuries, practicing blackmail and violence.", "S": [], "A": []}

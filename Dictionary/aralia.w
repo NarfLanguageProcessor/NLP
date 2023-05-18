@@ -1,0 +1,1 @@
+{"index": 18406, "D": "any of various plants of the genus Aralia and related genera, several of which are cultivated as houseplants or have been used medicinally.", "S": [], "A": []}

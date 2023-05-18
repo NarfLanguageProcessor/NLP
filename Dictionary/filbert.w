@@ -1,0 +1,1 @@
+{"index": 112558, "D": "the thick-shelled, edible nut of certain cultivated varieties of hazel, especially of Corylus avellana, of Europe.", "S": [], "A": []}

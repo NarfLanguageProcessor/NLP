@@ -1,0 +1,1 @@
+{"index": 216427, "D": "to cross  (animals or plants) by breeding individuals of different strains but, usually, of the same breed.", "S": [], "A": []}

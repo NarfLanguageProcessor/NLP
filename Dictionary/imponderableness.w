@@ -1,0 +1,1 @@
+{"index": 148856, "D": "not ponderable; that cannot be precisely determined, measured, or evaluated.", "S": [], "A": []}

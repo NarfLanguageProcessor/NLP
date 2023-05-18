@@ -1,0 +1,1 @@
+{"index": 48188, "D": "pertaining to or characterized by the flesh or the body, its passions and appetites; sensual", "S": ["earthly ", "lewd ", "sensuous ", "wanton "], "A": ["clean ", "decent ", "moral "]}

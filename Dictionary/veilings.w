@@ -1,0 +1,1 @@
+{"index": 357748, "D": "an act of covering with or as if with a veil. ", "S": ["cloak ", "curtain ", "mask ", "shroud "], "A": []}

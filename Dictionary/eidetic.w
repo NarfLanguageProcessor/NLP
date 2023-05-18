@@ -1,0 +1,1 @@
+{"index": 96338, "D": "of, relating to, or constituting visual imagery vividly experienced and readily reproducible with great accuracy and in great detail.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 203859, "D": "an act or instance of extending,  lengthening, stretching out, or enlarging the scope of something.", "S": [], "A": []}

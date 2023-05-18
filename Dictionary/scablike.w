@@ -1,0 +1,1 @@
+{"index": 279315, "D": "the incrustation that forms over a sore or wound during healing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 194184, "D": "a market town in central France, on the Allier River. Pop", "S": [], "A": []}

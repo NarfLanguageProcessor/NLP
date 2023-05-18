@@ -1,0 +1,1 @@
+{"index": 4522, "D": "characterized by or involved in adultery;  illicit", "S": ["cheating ", "extracurricular ", "illicit "], "A": ["chaste ", "clean ", "pure ", "virginal "]}

@@ -1,0 +1,1 @@
+{"index": 339439, "D": "a subordinate, especially one of slight importance.", "S": ["attendant "], "A": ["master ", "superior "]}

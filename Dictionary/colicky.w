@@ -1,0 +1,1 @@
+{"index": 62753, "D": "relating to or suffering from colic", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 6936, "D": "light scattered or diffused in the air by dust, haze, etc., especially as it limits the visibility of distant, dark objects by causing them to blend with the background sky.", "S": [], "A": []}

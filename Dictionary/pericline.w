@@ -1,0 +1,1 @@
+{"index": 230871, "D": "a variety of albite occurring in large, white opaque crystals.", "S": [], "A": []}

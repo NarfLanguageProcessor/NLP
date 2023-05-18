@@ -1,0 +1,1 @@
+{"index": 229524, "D": "a strong inclination, taste, or liking for something", "S": ["affection ", "affinity ", "predilection ", "proclivity ", "propensity ", "taste ", "tendency ", "weakness "], "A": ["antipathy ", "disinclination ", "dislike ", "hate ", "hatred ", "fairness ", "impartiality "]}

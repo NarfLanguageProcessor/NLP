@@ -1,0 +1,1 @@
+{"index": 31178, "D": "inclined or eager to fight; aggressively hostile; belligerent; pugnacious. ", "S": ["aggression ", "aggressiveness ", "animosity ", "antagonism ", "bellicosity ", "belligerence ", "belligerency ", "combativeness ", "contentiousness ", "hostility ", "pugnacity ", "truculence ", "truculency "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 76306, "D": "a large, elongated, white winter radish, Raphanus sativus longipinnatus, used especially in Asian cuisine and sometimes pickled.", "S": [], "A": []}

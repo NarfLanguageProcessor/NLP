@@ -1,0 +1,1 @@
+{"index": 47873, "D": "a combining form occurring in compounds that denote tissue or organs associated with the heart, as specified by the initial element", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 233135, "D": "the branch of pharmacology that studies the fate of pharmacological substances in the body, as their absorption, distribution, metabolism, and elimination.", "S": [], "A": []}

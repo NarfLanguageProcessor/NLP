@@ -1,0 +1,1 @@
+{"index": 75692, "D": "plural of custos. ", "S": [], "A": []}

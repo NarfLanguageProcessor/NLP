@@ -1,0 +1,1 @@
+{"index": 247869, "D": "existing only in the imagination  or fancy; not real; fancied", "S": [], "A": []}

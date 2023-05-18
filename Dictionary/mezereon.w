@@ -1,0 +1,1 @@
+{"index": 185574, "D": "a Eurasian thymelaeaceous shrub, Daphne mezereum, with fragrant early-blooming purplish-pink flowers and small scarlet fruits", "S": [], "A": []}

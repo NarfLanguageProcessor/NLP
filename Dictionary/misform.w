@@ -1,0 +1,1 @@
+{"index": 189319, "D": "external appearance of a clearly defined area, as distinguished from color or material;configuration", "S": [], "A": []}

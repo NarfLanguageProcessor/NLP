@@ -1,0 +1,1 @@
+{"index": 130071, "D": "protection or asylum for a limited period of time, as under church or crown.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 341878, "D": "highly praised; lauded or acclaimed", "S": [], "A": []}

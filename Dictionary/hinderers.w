@@ -1,0 +1,1 @@
+{"index": 139661, "D": "to cause delay, interruption, or difficulty in; hamper; impede", "S": [], "A": []}

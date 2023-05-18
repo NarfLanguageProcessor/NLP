@@ -1,0 +1,1 @@
+{"index": 215097, "D": "of or relating to a texture in which the groundmass is characterized by closely packed, short, quadrilateral crystals of feldspar larger than those in a trachytic groundmass.", "S": [], "A": []}

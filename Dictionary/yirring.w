@@ -1,0 +1,1 @@
+{"index": 147176, "D": "to snarl or growl, as a dog does.", "S": [], "A": []}

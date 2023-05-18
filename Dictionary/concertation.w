@@ -1,0 +1,1 @@
+{"index": 65198, "D": "(especially in European politics) cooperation, as among opposing factions, aimed at effecting a unified proposal or concerted action.", "S": [], "A": []}

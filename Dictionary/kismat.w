@@ -1,0 +1,1 @@
+{"index": 165126, "D": "fate; destiny", "S": [], "A": []}

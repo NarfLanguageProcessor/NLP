@@ -1,0 +1,1 @@
+{"index": 360694, "D": "verbal abuse or castigation; violent denunciation or condemnation.", "S": ["berating ", "blame ", "castigation ", "censure ", "criticism ", "defamation ", "insults ", "libel ", "obloquy ", "reprimand ", "reproach ", "scolding ", "slander ", "tirade ", "upbraiding "], "A": ["approval ", "commendation ", "compliment ", "exaltation ", "praise "]}

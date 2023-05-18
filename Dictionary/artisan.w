@@ -1,0 +1,1 @@
+{"index": 20746, "D": "a person skilled in a utilitarian art, trade, or craft, especially one requiring manual skill; a craftsperson. ", "S": ["builder ", "carpenter ", "craftsman ", "professional "], "A": ["apprentice "]}

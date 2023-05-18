@@ -1,0 +1,1 @@
+{"index": 154822, "D": "mutually dependent;  depending on each other.", "S": ["addicted ", "attached ", "hooked ", "interconnected ", "mutually dependent ", "slavish trust ", "unhealthy confidence "], "A": []}

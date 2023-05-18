@@ -1,0 +1,1 @@
+{"index": 338957, "D": "a case  or covering; housing.", "S": [], "A": []}

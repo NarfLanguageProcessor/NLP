@@ -1,0 +1,1 @@
+{"index": 11340, "D": "to make larger, greater, or stronger; enlarge; extend.", "S": ["burgeoning ", "developing ", "expanding ", "flourishing ", "spreading ", "thriving ", "viable "], "A": ["failing ", "languishing ", "dead ", "dying ", "shrinking "]}

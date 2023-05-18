@@ -1,0 +1,1 @@
+{"index": 14701, "D": "the act or process of uniting by glue or other tenacious substance.", "S": [], "A": []}

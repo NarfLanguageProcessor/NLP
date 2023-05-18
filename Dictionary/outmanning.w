@@ -1,0 +1,1 @@
+{"index": 216983, "D": "to surpass in manpower.", "S": [], "A": []}

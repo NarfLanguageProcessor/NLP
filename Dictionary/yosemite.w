@@ -1,0 +1,1 @@
+{"index": 157706, "D": "a valley in E California, in the Sierra Nevada Mountains", "S": [], "A": []}

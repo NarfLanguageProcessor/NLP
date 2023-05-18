@@ -1,0 +1,1 @@
+{"index": 103460, "D": "a period of time marked by distinctive character, events, etc.", "S": ["age ", "cycle ", "day ", "generation ", "stage ", "term ", "time "], "A": []}

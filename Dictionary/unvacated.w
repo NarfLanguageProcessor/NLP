@@ -1,0 +1,1 @@
+{"index": 353619, "D": "(of a place) given up or left by whoever was occupying it", "S": [], "A": []}

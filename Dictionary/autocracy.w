@@ -1,0 +1,1 @@
+{"index": 23978, "D": "government in which one person has uncontrolled or unlimited authority over others; the government or power of an absolute monarch.", "S": ["despotism ", "dictatorship ", "oppression ", "tyranny "], "A": ["democracy "]}

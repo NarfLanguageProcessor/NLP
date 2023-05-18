@@ -1,0 +1,1 @@
+{"index": 178213, "D": "to administer  or manage badly or inefficiently", "S": [], "A": []}

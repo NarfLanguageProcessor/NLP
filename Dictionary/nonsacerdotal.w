@@ -1,0 +1,1 @@
+{"index": 206957, "D": "of priests; priestly.", "S": [], "A": []}

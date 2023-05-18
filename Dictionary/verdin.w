@@ -1,0 +1,1 @@
+{"index": 358454, "D": "a small, yellow-headed, titmouse-like bird, Auriparus flaviceps, of arid regions of the southwestern U.S. and Mexico, which builds a compact, spherical nest of thorny twigs.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201418, "D": "the quality of being subject to an individual\u2019s will, judgment, discretion, or personal preference", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 228870, "D": "one of the minute pincerlike structures common to starfish and sea urchins, used for cleaning and to capture tiny prey.", "S": [], "A": []}

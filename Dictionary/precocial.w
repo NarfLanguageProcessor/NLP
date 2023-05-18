@@ -1,0 +1,1 @@
+{"index": 246204, "D": "(of an animal species) active and able to move freely from birth or hatching and requiring little parental care (opposed to altricial).", "S": [], "A": []}

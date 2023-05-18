@@ -1,0 +1,1 @@
+{"index": 166712, "D": "any member of several orders of small to large lizardlike terrestrial and freshwater amphibians, some ancestral to land vertebrates, forming the extinct subclass Labyrinthodonta that flourished from the Devonian through the Triassic periods, characterized by a solid, flattened skull and conical teeth.", "S": [], "A": []}

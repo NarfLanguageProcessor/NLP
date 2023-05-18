@@ -1,0 +1,1 @@
+{"index": 98171, "D": "to cause embolism in (a blood vessel)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 315312, "D": "any of several sparoid fishes of the Pacific Ocean, as Pagrus major(red tai ), a food fish of Japan.", "S": [], "A": []}

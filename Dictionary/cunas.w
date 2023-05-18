@@ -1,0 +1,1 @@
+{"index": 74982, "D": "a member of a group of American Indian people inhabiting settlements on the Isthmus of Panama and islands in the Gulf of San Blas.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 164800, "D": "a variant of cinematograph", "S": [], "A": []}

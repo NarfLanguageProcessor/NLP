@@ -1,0 +1,1 @@
+{"index": 245304, "D": "to collide with; bump into.", "S": ["attack ", "blast ", "blow up ", "bombard ", "destroy ", "raid ", "strafe ", "wipe out "], "A": ["aid ", "build ", "create ", "protect "]}

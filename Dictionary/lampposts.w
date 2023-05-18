@@ -1,0 +1,1 @@
+{"index": 167820, "D": "a post,  usually of metal, supporting a lamp  that lights a street, park, etc.", "S": [], "A": []}

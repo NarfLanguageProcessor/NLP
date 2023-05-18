@@ -1,0 +1,1 @@
+{"index": 194417, "D": "(of hay, straw, etc) damaged by overheating in a mow", "S": [], "A": []}

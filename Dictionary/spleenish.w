@@ -1,0 +1,1 @@
+{"index": 300399, "D": "a highly vascular, glandular, ductless organ, situated in humans at the cardiac end of the stomach, serving chiefly in the formation of mature lymphocytes, in the destruction of worn-out red blood cells, and as a reservoir for blood.", "S": [], "A": []}

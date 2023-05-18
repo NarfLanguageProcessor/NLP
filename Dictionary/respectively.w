@@ -1,0 +1,1 @@
+{"index": 269709, "D": "(of two or more things) referring or applying to two or more things previously mentioned in a parallel or sequential way", "S": ["appropriately ", "correspondingly ", "properly ", "proportionately ", "subsequently ", "therefore ", "thus "], "A": ["inappropriately ", "unsuitably "]}

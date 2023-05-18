@@ -1,0 +1,1 @@
+{"index": 37829, "D": "a stone,  as a perpend, for bonding  facing masonry to a masonry backing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 181574, "D": "a fruiting body of fungi of the phylum Ascomycota in which there is a powdery mass of spores.", "S": [], "A": []}

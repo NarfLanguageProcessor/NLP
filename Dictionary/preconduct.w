@@ -1,0 +1,1 @@
+{"index": 246379, "D": "personal behavior; way of acting; bearing or deportment.", "S": [], "A": []}

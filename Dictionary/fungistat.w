@@ -1,0 +1,1 @@
+{"index": 120244, "D": "a fungistatic substance or preparation.", "S": [], "A": []}

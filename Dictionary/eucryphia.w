@@ -1,0 +1,1 @@
+{"index": 105349, "D": "any tree or shrub of the mostly evergreen genus Eucryphia, native to Australia and S America, having leaves of a dark lustrous green and white flowers", "S": [], "A": []}

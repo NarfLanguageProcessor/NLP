@@ -1,0 +1,1 @@
+{"index": 206352, "D": "in a wise, judicious, discreet, or careful manner", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 38202, "D": "a churlish, rude, or unmannerly person.", "S": ["barbarian ", "brute ", "cad ", "churl ", "goon ", "lout ", "oaf ", "philistine ", "vulgarian "], "A": ["gentleman "]}

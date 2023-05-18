@@ -1,0 +1,1 @@
+{"index": 55035, "D": "a nitrogen mustard, C14H19Cl2NO2, used in the treatment of chronic lymphocytic leukemia, malignant lymphomas, and Hodgkin's disease.", "S": [], "A": []}

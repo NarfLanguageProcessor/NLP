@@ -1,0 +1,1 @@
+{"index": 176331, "D": "an act or instance of swaying abruptly.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 320296, "D": "an oxide  whose molecule contains four atoms of oxygen.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 105148, "D": "the technical name for ether (def. 1)", "S": [], "A": []}

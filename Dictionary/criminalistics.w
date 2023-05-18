@@ -1,0 +1,1 @@
+{"index": 72957, "D": "the scientific study and evaluation of physical evidence in the commission of crimes.", "S": [], "A": []}

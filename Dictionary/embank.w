@@ -1,0 +1,1 @@
+{"index": 97972, "D": "to enclose or protect with an embankment. ", "S": [], "A": []}

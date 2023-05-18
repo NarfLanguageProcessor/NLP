@@ -1,0 +1,1 @@
+{"index": 51759, "D": "belonging to the Cetacea, an order of aquatic, chiefly marine mammals, including the whales and dolphins.", "S": [], "A": []}

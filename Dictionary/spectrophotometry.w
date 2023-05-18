@@ -1,0 +1,1 @@
+{"index": 298932, "D": "an instrument for making photometric comparisons between parts of spectra.", "S": [], "A": []}

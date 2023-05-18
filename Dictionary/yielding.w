@@ -1,0 +1,1 @@
+{"index": 147141, "D": "inclined to give in; submissive; compliant", "S": ["humble ", "passive ", "resigned "], "A": ["hard ", "obstinate ", "resistant ", "rigid ", "solid ", "unflexible "]}

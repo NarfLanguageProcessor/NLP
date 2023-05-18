@@ -1,0 +1,1 @@
+{"index": 242087, "D": "an organism having more than one form or type as a result of discontinuous variation. ", "S": [], "A": []}

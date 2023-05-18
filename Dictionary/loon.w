@@ -1,0 +1,1 @@
+{"index": 175083, "D": "any of several large, short-tailed, web-footed, fish-eating diving birds of the genus Gavia, of the Northern Hemisphere.", "S": ["crazy ", "eccentric ", "lunatic ", "maniac ", "nut ", "psychopath ", "sociopath "], "A": []}

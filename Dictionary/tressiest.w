@@ -1,0 +1,1 @@
+{"index": 329026, "D": "resembling or having tresses. ", "S": [], "A": []}

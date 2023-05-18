@@ -1,0 +1,1 @@
+{"index": 121787, "D": "any chemical substance secreted by a gamete that attracts another gamete during sexual reproduction", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 170918, "D": "a simple past tense and past participle of let2. ", "S": [], "A": []}

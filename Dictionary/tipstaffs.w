@@ -1,0 +1,1 @@
+{"index": 324387, "D": "an attendant or crier in a court of law.", "S": [], "A": []}

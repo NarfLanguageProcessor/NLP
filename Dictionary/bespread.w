@@ -1,0 +1,1 @@
+{"index": 32518, "D": "to spread over (a surface); cover (usually followed by with)", "S": [], "A": []}

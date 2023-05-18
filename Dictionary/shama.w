@@ -1,0 +1,1 @@
+{"index": 287293, "D": "a slender long-tailed thrush, Copsychus malabaricus, of southern Asia and introduced into Hawaii, having black plumage with a white rump and tail sides and a chestnut belly.", "S": [], "A": []}

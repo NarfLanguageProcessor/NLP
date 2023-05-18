@@ -1,0 +1,1 @@
+{"index": 199072, "D": "a dominantly inherited genetic disorder characterized by flat brown patches on the skin, neurofibromas of the skin and internal organs, and in some cases skeletal deformity.", "S": [], "A": []}

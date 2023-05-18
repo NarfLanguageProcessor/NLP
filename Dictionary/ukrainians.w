@@ -1,0 +1,1 @@
+{"index": 333713, "D": "of or relating to Ukraine,  its people, or their language.", "S": [], "A": []}

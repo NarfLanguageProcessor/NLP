@@ -1,0 +1,1 @@
+{"index": 36811, "D": "good-naturedly direct, blunt, or frank; heartily outspoken", "S": [], "A": []}

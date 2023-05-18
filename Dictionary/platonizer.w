@@ -1,0 +1,1 @@
+{"index": 239547, "D": "to follow or adopt the doctrines of Plato.", "S": [], "A": []}

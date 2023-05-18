@@ -1,0 +1,1 @@
+{"index": 110241, "D": "in a manner leading to death or disaster", "S": ["badly ", "desperately ", "impossibly "], "A": ["calmly "]}

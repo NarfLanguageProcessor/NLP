@@ -1,0 +1,1 @@
+{"index": 248665, "D": "occurring or related to the period or preparations before a surgical operation.", "S": [], "A": []}

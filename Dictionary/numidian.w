@@ -1,0 +1,1 @@
+{"index": 209582, "D": "of or relating to Numidia or its inhabitants", "S": [], "A": []}

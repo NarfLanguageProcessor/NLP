@@ -1,0 +1,1 @@
+{"index": 283030, "D": "an act or instance of seducing,  especially sexually.", "S": ["enticement "], "A": ["discouragement ", "drag ", "repulsion "]}

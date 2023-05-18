@@ -1,0 +1,1 @@
+{"index": 7861, "D": "a confederation of Germanic tribes, first recorded in the 3rd century a.d., that settled in the area between the Rhine, Main, and Danube rivers, and made harassing attacks against the Roman Empire.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 231246, "D": "an outer cytoplasmic layer that surrounds the oosphere in certain fungi.", "S": [], "A": []}

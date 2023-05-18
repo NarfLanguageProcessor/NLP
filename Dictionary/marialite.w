@@ -1,0 +1,1 @@
+{"index": 180038, "D": "a member of the scapolite group, rich in sodium and containing no calcium.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 93721, "D": "Compare sequin (def. 2). ", "S": ["accreditation ", "certificate ", "credential ", "license ", "passport ", "permission ", "permit ", "pledge ", "sanction ", "subpoena ", "summons ", "ticket "], "A": ["prohibition ", "refusal ", "veto ", "breach ", "break ", "denial ", "uncertainty "]}

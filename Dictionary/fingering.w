@@ -1,0 +1,1 @@
+{"index": 112955, "D": "the act of a person who fingers.", "S": ["feel ", "fiddle ", "grope ", "handle ", "manipulate ", "maul ", "meddle ", "palpate ", "paw ", "thumb "], "A": ["ignore ", "manhandle ", "pass over "]}

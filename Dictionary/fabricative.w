@@ -1,0 +1,1 @@
+{"index": 108905, "D": "to make by art or skill and labor; construct", "S": [], "A": []}

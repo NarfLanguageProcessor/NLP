@@ -1,0 +1,1 @@
+{"index": 35576, "D": "a shrub or tree of the genus Crataegus, as C. calpodendron.", "S": [], "A": []}

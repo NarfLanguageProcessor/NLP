@@ -1,0 +1,1 @@
+{"index": 9647, "D": "a graduate or former student of a specific school, college, or university, especially a man", "S": ["alum ", "graduate "], "A": ["undergraduate "]}

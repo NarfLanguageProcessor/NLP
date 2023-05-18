@@ -1,0 +1,1 @@
+{"index": 192336, "D": "knowing only one language; monolingual", "S": [], "A": []}

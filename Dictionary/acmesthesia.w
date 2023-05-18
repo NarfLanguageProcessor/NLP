@@ -1,0 +1,1 @@
+{"index": 2590, "D": "awareness of sharp points through the sense of touch without experiencing pain.", "S": [], "A": []}

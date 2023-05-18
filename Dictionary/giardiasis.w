@@ -1,0 +1,1 @@
+{"index": 124634, "D": "an intestinal disorder characterized by abdominal discomfort and prolonged, intermittent diarrhea, caused by the protozoan Giardia lamblia and contracted by drinking untreated water, as of streams or ponds, contaminated with the feces of infected animals.", "S": [], "A": []}

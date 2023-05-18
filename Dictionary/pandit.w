@@ -1,0 +1,1 @@
+{"index": 224501, "D": "a man in India esteemed for his wisdom or learning", "S": [], "A": []}

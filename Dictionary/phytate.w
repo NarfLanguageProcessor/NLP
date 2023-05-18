@@ -1,0 +1,1 @@
+{"index": 234230, "D": "a salt or ester of phytic acid,  occurring in plants, especially cereal grains, capable of forming insoluble complexes with calcium, zinc, iron, and other nutrients and interfering with their absorption by the body.", "S": [], "A": []}

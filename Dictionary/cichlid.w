@@ -1,0 +1,1 @@
+{"index": 57052, "D": "any of the spiny-rayed, freshwater fishes constituting the family Cichlidae, of South America, Africa, and southern Asia, superficially resembling the American sunfishes and popular in home aquariums.", "S": [], "A": []}

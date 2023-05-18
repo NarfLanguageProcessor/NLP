@@ -1,0 +1,1 @@
+{"index": 295118, "D": "a dirty mark or smear.", "S": ["contaminated ", "crummy ", "disheveled ", "dusty ", "filthy ", "greasy ", "grimy ", "messy ", "muddy ", "murky ", "nasty ", "polluted ", "sloppy ", "stained ", "unkempt "], "A": ["bright ", "clean ", "clear ", "ordered ", "orderly ", "sterile ", "neat "]}

@@ -1,0 +1,1 @@
+{"index": 2804, "D": "a common measure of area", "S": ["acreage ", "estate ", "field ", "garden ", "grassland ", "homestead ", "lawn ", "meadow ", "nursery ", "orchard ", "pasture ", "plantation ", "ranch "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 216907, "D": "a lawless person or habitual criminal, especially one who is a fugitive from the law.", "S": ["banned ", "prohibited "], "A": ["allowed "]}

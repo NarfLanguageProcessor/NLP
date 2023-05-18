@@ -1,0 +1,1 @@
+{"index": 49464, "D": "(formerly) a petty officer of justice, especially one arresting persons for debt.", "S": ["commissioner ", "deputy ", "envoy ", "member ", "minister ", "nominee ", "senator "], "A": []}

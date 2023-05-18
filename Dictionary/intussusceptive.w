@@ -1,0 +1,1 @@
+{"index": 156929, "D": "to take within, as one part of the intestine into an adjacent part; invaginate.", "S": [], "A": []}

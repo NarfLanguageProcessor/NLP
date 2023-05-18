@@ -1,0 +1,1 @@
+{"index": 248807, "D": "able, fitted, or intended to persuade", "S": [], "A": []}

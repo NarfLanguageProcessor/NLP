@@ -1,0 +1,1 @@
+{"index": 132769, "D": "the first or innermost digit of the foot of humans and other primates or of the hind foot of other mammals; great toe; big toe.", "S": [], "A": []}

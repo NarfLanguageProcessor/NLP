@@ -1,0 +1,1 @@
+{"index": 321978, "D": "a brand name for any of a group of durable synthetic rubber products derived from an organic halide, as ethylene dichloride, C2H4Cl2, and an alkaline polysulfide, as sodium polysulfide", "S": [], "A": []}

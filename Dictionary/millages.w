@@ -1,0 +1,1 @@
+{"index": 187273, "D": "the tax rate, as for property, assessed in mills per dollar.", "S": [], "A": []}

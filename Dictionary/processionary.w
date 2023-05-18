@@ -1,0 +1,1 @@
+{"index": 251209, "D": "of, relating to, or moving in a procession", "S": [], "A": []}

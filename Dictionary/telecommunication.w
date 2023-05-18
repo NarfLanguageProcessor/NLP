@@ -1,0 +1,1 @@
+{"index": 318005, "D": "the telegraphic or telephonic communication of audio, video, or digital information over a distance by means of radio waves, optical signals, etc, or along a transmission line", "S": ["means ", "media ", "publicity ", "route ", "transport ", "travel "], "A": []}

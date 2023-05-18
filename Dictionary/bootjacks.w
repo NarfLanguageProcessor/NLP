@@ -1,0 +1,1 @@
+{"index": 38255, "D": "a yokelike device for catching the heel of a boot,  as a riding boot,  to aid in removing it.", "S": [], "A": []}

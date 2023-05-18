@@ -1,0 +1,1 @@
+{"index": 201954, "D": "relating to or derived from circumstances", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158784, "D": "a line on a chart or diagram of a body of water, connecting depths having the same temperature.", "S": [], "A": []}

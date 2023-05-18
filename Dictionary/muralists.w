@@ -1,0 +1,1 @@
+{"index": 195655, "D": "an artist who paints murals,  especially an artist associated with muralism.", "S": [], "A": []}

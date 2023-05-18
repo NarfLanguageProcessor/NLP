@@ -1,0 +1,1 @@
+{"index": 158464, "D": "well-watered, as land.", "S": ["cloudy ", "dank ", "drizzly ", "misty ", "moist ", "muggy ", "saturated ", "soaked ", "sodden ", "soggy ", "steamy ", "sticky ", "waterlogged "], "A": ["dry "]}

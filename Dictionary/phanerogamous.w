@@ -1,0 +1,1 @@
+{"index": 232928, "D": "any of the Phanerogamia, a former primary division of plants comprising those having reproductive organs; a flowering plant or seed plant (opposed to cryptogam).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 69797, "D": "a fast ship used for piracy.", "S": ["buccaneer ", "freebooter ", "marauder ", "robber "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 168475, "D": "the rendered fat of hogs, especially the internal fat of the abdomen.", "S": ["grease "], "A": ["dry "]}

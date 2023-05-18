@@ -1,0 +1,1 @@
+{"index": 122752, "D": "one of several groups of hymns (the Gathas ) forming the oldest part of the Avesta.", "S": [], "A": []}

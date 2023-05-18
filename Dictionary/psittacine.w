@@ -1,0 +1,1 @@
+{"index": 255595, "D": "of or relating to parrots.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 103354, "D": "to equal or offset in weight, force, importance, etc.; counterbalance.", "S": [], "A": []}

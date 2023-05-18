@@ -1,0 +1,1 @@
+{"index": 195035, "D": "the condition occurring when two or more of the independent variables in a regression equation are correlated", "S": [], "A": []}

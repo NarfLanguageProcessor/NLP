@@ -1,0 +1,1 @@
+{"index": 23963, "D": "an instrument combining the functions of a telescope and collimator,  for detecting and measuring very small deviations in a beam of light.", "S": [], "A": []}

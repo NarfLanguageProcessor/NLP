@@ -1,0 +1,1 @@
+{"index": 232861, "D": "of or relating to a phalanstery. ", "S": [], "A": []}

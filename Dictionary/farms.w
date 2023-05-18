@@ -1,0 +1,1 @@
+{"index": 109998, "D": "a tract of land, usually with a house, barn, silo, etc., on which crops and often livestock are raised for livelihood.", "S": ["province "], "A": ["city ", "metropolis ", "urbanity "]}

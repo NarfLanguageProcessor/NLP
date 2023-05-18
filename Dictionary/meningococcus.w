@@ -1,0 +1,1 @@
+{"index": 183350, "D": "a reniform or spherical bacterium, Neisseria meningitidis, that causes cerebrospinal meningitis.", "S": [], "A": []}

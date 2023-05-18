@@ -1,0 +1,1 @@
+{"index": 11565, "D": "of or in the manner of Anacreon. ", "S": ["amatory ", "amorous ", "ardent ", "brotherly ", "doting ", "enamored ", "erotic ", "fervent ", "fervid ", "impassioned ", "indulgent ", "loving ", "overindulgent ", "sisterly ", "tender ", "warm "], "A": ["platonic "]}

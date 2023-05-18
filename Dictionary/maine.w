@@ -1,0 +1,1 @@
+{"index": 177885, "D": "a state in the northeastern United States, on the Atlantic coast. 33,215 square miles (86,027 square kilometers). Capital", "S": [], "A": []}

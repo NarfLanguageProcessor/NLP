@@ -1,0 +1,1 @@
+{"index": 59684, "D": "a wedge-shaped block fastened to a surface to serve as a check or support", "S": ["batten ", "bit ", "block ", "bollard ", "chock ", "metal ", "spur ", "support ", "wedge ", "wood "], "A": ["whole "]}

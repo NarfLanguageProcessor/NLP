@@ -1,0 +1,1 @@
+{"index": 184087, "D": "formed with meshes; meshed. ", "S": ["frilly ", "gauzy ", "ornate ", "patterned "], "A": ["heavy ", "thick "]}

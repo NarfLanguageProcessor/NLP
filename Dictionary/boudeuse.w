@@ -1,0 +1,1 @@
+{"index": 38873, "D": "a sofa or settee, usually upholstered, having two seats with a common backrest between them.", "S": [], "A": []}

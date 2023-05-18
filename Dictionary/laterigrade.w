@@ -1,0 +1,1 @@
+{"index": 168866, "D": "having a sideways manner of moving, as a crab.", "S": [], "A": []}

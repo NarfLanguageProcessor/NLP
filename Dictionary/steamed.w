@@ -1,0 +1,1 @@
+{"index": 303286, "D": "cooked with steam from boiling water", "S": ["angry ", "annoyed ", "bent out of shape ", "boiling ", "burned up ", "good and mad ", "hot and bothered ", "hot under the collar ", "mad as hell ", "outraged ", "pissed-off ", "teed off ", "ticked off "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 312136, "D": "to oversee and direct (work, processes, etc.).", "S": ["bureaucratic ", "departmental ", "governmental ", "legislative ", "managerial ", "organizational ", "policy-making ", "regulatory ", "supervisory "], "A": []}

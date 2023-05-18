@@ -1,0 +1,1 @@
+{"index": 20643, "D": "junction of two or more bones of the skeleton; joint.", "S": [], "A": []}

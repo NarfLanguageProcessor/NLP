@@ -1,0 +1,1 @@
+{"index": 143325, "D": "sharpened on a hone  or whetstone", "S": ["acuminate ", "barbed ", "edged ", "fine ", "horned ", "jagged ", "keen ", "peaked ", "piercing ", "pointed "], "A": ["blunt ", "dull "]}

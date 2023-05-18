@@ -1,0 +1,1 @@
+{"index": 61060, "D": "to make or become coarse. ", "S": ["bronzed ", "damaged ", "roughened ", "rugged ", "sunburned ", "tanned "], "A": []}

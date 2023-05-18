@@ -1,0 +1,1 @@
+{"index": 187685, "D": "an appliance used to mince meat", "S": ["axe ", "dicer ", "molar "], "A": []}

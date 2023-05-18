@@ -1,0 +1,1 @@
+{"index": 144787, "D": "a sinuous Hawaiian dance with intricate arm movements that tell a story in pantomime, usually danced to rhythmic drumming and accompanied by chanting.", "S": [], "A": []}

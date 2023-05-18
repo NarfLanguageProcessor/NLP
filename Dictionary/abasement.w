@@ -1,0 +1,1 @@
+{"index": 117, "D": "the state or condition of having been reduced in rank, office, reputation, or estimation; degradation", "S": ["degradation ", "dishonor ", "downgrade ", "humiliation ", "shame "], "A": ["elevation ", "honor ", "upgrade "]}

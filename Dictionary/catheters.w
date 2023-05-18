@@ -1,0 +1,1 @@
+{"index": 49691, "D": "a flexible or rigid hollow tube employed to drain fluids from body cavities or to distend body passages, especially one for passing into the bladder through the urethra to draw off urine or into the heart through a leg vein or arm vein for diagnostic examination.", "S": [], "A": []}

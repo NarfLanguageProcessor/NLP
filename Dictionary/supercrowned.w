@@ -1,0 +1,1 @@
+{"index": 311622, "D": "characterized by or having a crown  (often used in combination)", "S": [], "A": []}

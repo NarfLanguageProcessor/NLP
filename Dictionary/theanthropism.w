@@ -1,0 +1,1 @@
+{"index": 320697, "D": "the doctrine of the union of the divine and human natures, especially the manifestation of God as man in Christ.", "S": [], "A": []}

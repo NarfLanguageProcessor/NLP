@@ -1,0 +1,1 @@
+{"index": 91289, "D": "a canon of a minor order.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 146338, "D": "any conception existing in the mind as a result of mental understanding, awareness, or activity.", "S": ["conversation ", "information ", "intelligence "], "A": ["ignorance ", "question ", "quiet ", "secret ", "silence "]}

@@ -1,0 +1,1 @@
+{"index": 167771, "D": "congestion of the mucous membrane of the hard palate of horses.", "S": [], "A": []}

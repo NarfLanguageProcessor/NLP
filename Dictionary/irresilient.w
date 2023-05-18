@@ -1,0 +1,1 @@
+{"index": 158365, "D": [], "S": ["lax ", "sloppy "], "A": ["firm ", "lean ", "slim ", "taut ", "thin ", "tight "]}

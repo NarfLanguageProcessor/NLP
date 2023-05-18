@@ -1,0 +1,1 @@
+{"index": 354193, "D": "to move with a rapid, sweeping stroke", "S": [], "A": []}

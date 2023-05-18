@@ -1,0 +1,1 @@
+{"index": 340311, "D": "of, relating to, or along a diameter. ", "S": [], "A": []}

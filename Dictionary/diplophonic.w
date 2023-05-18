@@ -1,0 +1,1 @@
+{"index": 86599, "D": "a condition in which the voice simultaneously produces two sounds of different pitch.", "S": [], "A": []}

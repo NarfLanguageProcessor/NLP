@@ -1,0 +1,1 @@
+{"index": 26150, "D": "any ammonite of the genus Baculites, of the Cretaceous Period, having a straight shell with a spiral tip.", "S": [], "A": []}

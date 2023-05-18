@@ -1,0 +1,1 @@
+{"index": 74477, "D": "a style of painting and sculpture developed in the early 20th century, characterized chiefly by an emphasis on formal structure, the reduction of natural forms to their geometrical equivalents, and the organization of the planes of a represented object independently of representational requirements.", "S": [], "A": []}

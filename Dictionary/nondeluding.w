@@ -1,0 +1,1 @@
+{"index": 202859, "D": "to mislead the mind or judgment of; deceive", "S": [], "A": []}

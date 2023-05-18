@@ -1,0 +1,1 @@
+{"index": 6990, "D": "a self-propelled, lighter-than-air aircraft with means of controlling the direction of flight; dirigible.", "S": ["airliner ", "balloon ", "chopper ", "helicopter ", "jet "], "A": []}

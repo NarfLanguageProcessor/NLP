@@ -1,0 +1,1 @@
+{"index": 15089, "D": "anti-democratic forces", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 324375, "D": "a number representing the aggregate of thousands of yards of yarn weighing one pound.", "S": [], "A": []}

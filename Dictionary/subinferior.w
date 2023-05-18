@@ -1,0 +1,1 @@
+{"index": 308205, "D": "lower in station, rank, degree, or grade (often followed by to)", "S": [], "A": []}

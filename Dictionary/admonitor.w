@@ -1,0 +1,1 @@
+{"index": 4233, "D": "an admonisher.", "S": ["aide ", "coach ", "confidant ", "consultant ", "counselor "], "A": []}

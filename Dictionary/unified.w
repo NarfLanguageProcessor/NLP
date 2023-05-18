@@ -1,0 +1,1 @@
+{"index": 344110, "D": "to make or become a single unit; unite", "S": ["consolidated ", "cooperative ", "undivided "], "A": ["divided ", "separate "]}

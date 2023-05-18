@@ -1,0 +1,1 @@
+{"index": 117159, "D": "a short introductory statement in a published work, as a book, especially when written by someone other than the author.", "S": ["preamble ", "preface ", "prologue "], "A": ["conclusion "]}

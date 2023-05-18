@@ -1,0 +1,1 @@
+{"index": 776, "D": "having an abrasive  property, effect, or quality; abrading. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 147712, "D": "to make bold or bolder; hearten; encourage. ", "S": [], "A": []}

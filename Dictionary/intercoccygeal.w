@@ -1,0 +1,1 @@
+{"index": 154657, "D": "a small triangular bone forming the lower extremity of the spinal column in humans, consisting of four ankylosed rudimentary vertebrae.", "S": [], "A": []}

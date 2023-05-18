@@ -1,0 +1,1 @@
+{"index": 106052, "D": "widened at the top, as a vase or chimney flue.", "S": [], "A": []}

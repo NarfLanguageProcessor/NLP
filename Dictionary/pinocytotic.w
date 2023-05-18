@@ -1,0 +1,1 @@
+{"index": 237213, "D": "the transport of fluid into a cell by means of local infoldings by the cell membrane so that a tiny vesicle or sac forms around each droplet, which is then taken into the interior of the cytoplasm", "S": [], "A": []}

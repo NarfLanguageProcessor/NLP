@@ -1,0 +1,1 @@
+{"index": 130257, "D": "an aluminum coin of Poland, one 100th of a zloty.", "S": [], "A": []}

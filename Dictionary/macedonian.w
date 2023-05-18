@@ -1,0 +1,1 @@
+{"index": 176695, "D": "a native or inhabitant of Macedonia. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 258044, "D": "of or relating to the contest or round preceding the semifinal one.", "S": [], "A": []}

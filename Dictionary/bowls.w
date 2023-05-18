@@ -1,0 +1,1 @@
+{"index": 39226, "D": "a bowls tournament", "S": ["candlepins ", "duckpins ", "ninepins ", "skittles "], "A": []}

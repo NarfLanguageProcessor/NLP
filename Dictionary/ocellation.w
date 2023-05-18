@@ -1,0 +1,1 @@
+{"index": 210810, "D": "an eyelike spot or marking.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227167, "D": "a vacant enclosed area in front of a church.", "S": [], "A": []}

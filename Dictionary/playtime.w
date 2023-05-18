@@ -1,0 +1,1 @@
+{"index": 238855, "D": "time  for play  or recreation.", "S": ["amusement ", "holiday ", "leisure ", "pleasure ", "recess ", "vacation "], "A": ["work "]}

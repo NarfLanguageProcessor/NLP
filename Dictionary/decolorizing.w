@@ -1,0 +1,1 @@
+{"index": 78586, "D": "decolor. ", "S": ["lighten "], "A": ["blacken ", "darken ", "yellow "]}

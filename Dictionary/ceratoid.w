@@ -1,0 +1,1 @@
+{"index": 51287, "D": "hornlike; horny.", "S": [], "A": []}

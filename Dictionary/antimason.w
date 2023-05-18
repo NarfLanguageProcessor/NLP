@@ -1,0 +1,1 @@
+{"index": 15506, "D": "a member of the Anti-Masonic party  or a supporter of its principles.", "S": [], "A": []}

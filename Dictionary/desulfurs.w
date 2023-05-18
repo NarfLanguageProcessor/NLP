@@ -1,0 +1,1 @@
+{"index": 83027, "D": "to free from sulfur;  desulfurize.", "S": [], "A": []}

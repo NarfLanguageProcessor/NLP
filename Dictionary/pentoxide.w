@@ -1,0 +1,1 @@
+{"index": 230107, "D": "an oxide containing five atoms of oxygen, as phosphorus pentoxide, P2O5.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 318259, "D": [], "S": ["mystical ", "otherworldly ", "supernatural "], "A": ["physical ", "real "]}

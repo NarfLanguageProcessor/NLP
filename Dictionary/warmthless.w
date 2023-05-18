@@ -1,0 +1,1 @@
+{"index": 362704, "D": "the quality or state of being warm;  moderate or gentle heat.", "S": [], "A": []}

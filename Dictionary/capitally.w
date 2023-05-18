@@ -1,0 +1,1 @@
+{"index": 46912, "D": "excellently; very well.", "S": ["accurately ", "adequately ", "carefully ", "closely ", "completely ", "correctly ", "effectively ", "efficiently ", "fully ", "nicely ", "properly ", "smoothly ", "strongly ", "successfully ", "thoroughly "], "A": ["inadequately ", "incompletely ", "incorrectly ", "insufficiently ", "mistakenly ", "partially ", "wrongly "]}

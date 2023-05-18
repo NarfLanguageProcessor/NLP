@@ -1,0 +1,1 @@
+{"index": 117493, "D": "made according to a formula;  composed of formulas", "S": [], "A": []}

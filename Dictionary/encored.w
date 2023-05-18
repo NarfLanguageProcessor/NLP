@@ -1,0 +1,1 @@
+{"index": 99468, "D": "again; once more (used by an audience in calling for an additional number or piece).", "S": [], "A": []}

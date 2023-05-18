@@ -1,0 +1,1 @@
+{"index": 253114, "D": "the ordinary form of spoken or written language, without metrical structure, as distinguished from poetry or verse.", "S": ["babble ", "digress ", "meander ", "wander "], "A": ["stay ", "abridge ", "compress ", "condense ", "curtail ", "decrease ", "lessen ", "reduce ", "shorten "]}

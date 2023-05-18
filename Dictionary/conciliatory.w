@@ -1,0 +1,1 @@
+{"index": 65324, "D": "tending to conciliate", "S": ["appeasing ", "assuaging ", "calm ", "civil ", "disarming ", "irenic ", "mollifying ", "pacific ", "peaceable ", "placating ", "placatory ", "propitiative ", "quiet ", "willing "], "A": ["antagonistic ", "fighting ", "refusing ", "stubborn "]}

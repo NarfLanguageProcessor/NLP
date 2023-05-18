@@ -1,0 +1,1 @@
+{"index": 93500, "D": "a chemical substance used in the treatment, cure, prevention, or diagnosis of disease or used to otherwise enhance physical or mental well-being.", "S": ["dazed "], "A": ["clean "]}

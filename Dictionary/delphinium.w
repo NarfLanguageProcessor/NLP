@@ -1,0 +1,1 @@
+{"index": 80239, "D": "any of numerous plants of the genus Delphinium, especially any of various tall, cultivated species having usually blue, pink, or white flowers.", "S": [], "A": []}

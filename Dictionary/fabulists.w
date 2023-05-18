@@ -1,0 +1,1 @@
+{"index": 108920, "D": "a person who invents or relates fables. ", "S": ["fabricator ", "falsifier ", "fibber ", "prevaricator ", "storyteller "], "A": []}

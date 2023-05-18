@@ -1,0 +1,1 @@
+{"index": 346290, "D": "to distribute or apportion by measure; allot; dole (usually followed by out)", "S": [], "A": []}

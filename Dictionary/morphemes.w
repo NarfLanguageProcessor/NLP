@@ -1,0 +1,1 @@
+{"index": 193558, "D": "Compare allomorph (def. 2), morph (def. 1). ", "S": ["ABCs ", "characters ", "elements ", "fundamentals ", "hieroglyphs ", "ideograph ", "phonemes ", "pictograph ", "rune ", "signs ", "syllabary ", "symbols "], "A": []}

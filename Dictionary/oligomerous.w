@@ -1,0 +1,1 @@
+{"index": 212199, "D": "having a small number of component parts", "S": [], "A": []}

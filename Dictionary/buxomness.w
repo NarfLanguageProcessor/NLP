@@ -1,0 +1,1 @@
+{"index": 43791, "D": "(of a woman) full-bosomed.", "S": [], "A": []}

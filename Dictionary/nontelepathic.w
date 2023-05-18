@@ -1,0 +1,1 @@
+{"index": 207800, "D": "communication between minds by some means other than sensory perception.", "S": [], "A": []}

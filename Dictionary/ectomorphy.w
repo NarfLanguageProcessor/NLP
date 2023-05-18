@@ -1,0 +1,1 @@
+{"index": 95534, "D": "having a thin body build, roughly characterized by the relative prominence of structures developed from the embryonic ectoderm (contrasted with endomorphic, mesomorphic).", "S": [], "A": []}

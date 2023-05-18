@@ -1,0 +1,1 @@
+{"index": 177192, "D": "a group of eight islands off the NW coast of Africa, part of Portugal. 308 sq. mi. (798 sq. km). Capital", "S": [], "A": []}

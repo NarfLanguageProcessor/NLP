@@ -1,0 +1,1 @@
+{"index": 130017, "D": "a past participle and simple past tense of grip. ", "S": [], "A": []}

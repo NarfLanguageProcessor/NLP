@@ -1,0 +1,1 @@
+{"index": 112912, "D": "the state or quality of being fine. ", "S": ["choiceness ", "quality ", "superiority "], "A": []}

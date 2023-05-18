@@ -1,0 +1,1 @@
+{"index": 316089, "D": "a receptor stimulated by touch.", "S": [], "A": []}

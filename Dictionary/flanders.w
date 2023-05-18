@@ -1,0 +1,1 @@
+{"index": 113920, "D": "a medieval country in W Europe, extending along the North Sea from the Strait of Dover to the Scheldt River", "S": [], "A": []}

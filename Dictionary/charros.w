@@ -1,0 +1,1 @@
+{"index": 52953, "D": "a Mexican horseman or cowboy, typically one wearing an elaborate outfit, often with silver decorations, of tight trousers, ruffled shirt, short jacket, and sombrero.", "S": [], "A": []}

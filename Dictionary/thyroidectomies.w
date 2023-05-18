@@ -1,0 +1,1 @@
+{"index": 322129, "D": "excision of all or a part of the thyroid gland. ", "S": [], "A": []}

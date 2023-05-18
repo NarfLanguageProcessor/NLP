@@ -1,0 +1,1 @@
+{"index": 332915, "D": "a small tower, usually one forming part of a larger structure.", "S": [], "A": []}

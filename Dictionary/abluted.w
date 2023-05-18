@@ -1,0 +1,1 @@
+{"index": 591, "D": "(of the hands, body, etc.) thoroughly washed.", "S": [], "A": []}

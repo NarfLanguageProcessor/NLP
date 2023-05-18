@@ -1,0 +1,1 @@
+{"index": 126245, "D": "a white, tasteless polysaccharide, (C6H10O5)n, molecularly similar to starch, constituting the principal carbohydrate storage material in animals and occurring chiefly in the liver, in muscle, and in fungi and yeasts.", "S": ["cellulose ", "glucose ", "lactose ", "starch ", "sugar "], "A": []}

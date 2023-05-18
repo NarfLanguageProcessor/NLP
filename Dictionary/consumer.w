@@ -1,0 +1,1 @@
+{"index": 67194, "D": "a person or thing that consumes. ", "S": ["buyer ", "customer ", "purchaser ", "shopper ", "user "], "A": ["seller "]}

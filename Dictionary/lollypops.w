@@ -1,0 +1,1 @@
+{"index": 174815, "D": "a piece of hard candy attached to the end of a small stick that is held in the hand while the candy is licked.", "S": [], "A": []}

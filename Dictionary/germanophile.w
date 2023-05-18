@@ -1,0 +1,1 @@
+{"index": 124214, "D": "a person who is friendly toward or admires or studies Germany or German culture.", "S": [], "A": []}

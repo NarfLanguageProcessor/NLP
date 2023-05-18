@@ -1,0 +1,1 @@
+{"index": 39747, "D": "the skull or cranium.", "S": ["braincase ", "crown ", "head "], "A": ["bottom "]}

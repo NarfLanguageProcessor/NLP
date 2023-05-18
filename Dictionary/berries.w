@@ -1,0 +1,1 @@
+{"index": 32192, "D": "any small, usually stoneless, juicy fruit, irrespective of botanical structure, as the huckleberry, strawberry, or hackberry.", "S": ["bean ", "grain ", "kernel "], "A": []}

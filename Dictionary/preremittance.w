@@ -1,0 +1,1 @@
+{"index": 249103, "D": "the sending of money, checks, etc., to a recipient at a distance.", "S": [], "A": []}

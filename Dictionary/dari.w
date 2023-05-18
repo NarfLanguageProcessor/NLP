@@ -1,0 +1,1 @@
+{"index": 76925, "D": "a form of Persian, spoken in Afghanistan.", "S": [], "A": []}

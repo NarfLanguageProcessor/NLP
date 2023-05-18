@@ -1,0 +1,1 @@
+{"index": 120769, "D": "a minor official of a synagogue, having limited ceremonial or administrative functions.", "S": [], "A": []}

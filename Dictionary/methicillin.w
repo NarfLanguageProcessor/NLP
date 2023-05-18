@@ -1,0 +1,1 @@
+{"index": 185216, "D": "a semisynthetic penicillin  antibiotic, C17H19N2NaO6S, used principally in the treatment of severe, penicillin-resistant staphylococci infections.", "S": [], "A": []}

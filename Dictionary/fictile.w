@@ -1,0 +1,1 @@
+{"index": 112174, "D": "capable of being molded.", "S": ["dirt ", "made of earth ", "mud ", "rock ", "stone "], "A": []}

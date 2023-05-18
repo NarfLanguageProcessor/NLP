@@ -1,0 +1,1 @@
+{"index": 333985, "D": "a microtome  capable of producing very fine slices of tissue or cellular specimens for electron microscopic examination.", "S": [], "A": []}

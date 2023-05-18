@@ -1,0 +1,1 @@
+{"index": 7805, "D": "depending on a contingent event", "S": ["accidental ", "haphazard ", "impromptu ", "random ", "spontaneous ", "unexpected ", "unintended ", "unintentional "], "A": ["deliberate ", "designed ", "intended ", "intentional ", "methodical ", "planned ", "premeditated ", "systematic "]}

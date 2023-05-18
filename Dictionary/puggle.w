@@ -1,0 +1,1 @@
+{"index": 256127, "D": "a dog crossbred from a pug  and a beagle", "S": [], "A": []}

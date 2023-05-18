@@ -1,0 +1,1 @@
+{"index": 146166, "D": "the condition of being icy or very cold", "S": ["chill ", "chilliness ", "coldness ", "coolness ", "frigidity ", "frostiness ", "gelidity "], "A": []}

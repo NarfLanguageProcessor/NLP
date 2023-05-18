@@ -1,0 +1,1 @@
+{"index": 42016, "D": "the principles or the international movement of Moral Re-Armament or of the Oxford Group, or belief in or adherence to them.", "S": [], "A": []}

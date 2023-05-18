@@ -1,0 +1,1 @@
+{"index": 89483, "D": "contentious; quarrelsome.", "S": ["cantankerous ", "captious ", "caviling ", "contentious ", "controversial ", "litigious ", "polemical ", "pugnacious ", "quarrelsome "], "A": ["agreeable ", "calm ", "peaceful "]}

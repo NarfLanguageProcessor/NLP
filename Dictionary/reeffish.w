@@ -1,0 +1,1 @@
+{"index": 264589, "D": "any of several damselfishes, as Chromis insolatus, that live among reefs. ", "S": [], "A": []}

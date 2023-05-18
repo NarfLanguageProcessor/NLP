@@ -1,0 +1,1 @@
+{"index": 41045, "D": "an ax for hewing timber.", "S": [], "A": []}

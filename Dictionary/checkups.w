@@ -1,0 +1,1 @@
+{"index": 53387, "D": "a comprehensive physical examination", "S": ["inspection ", "scan "], "A": []}

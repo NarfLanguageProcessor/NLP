@@ -1,0 +1,1 @@
+{"index": 21040, "D": "a spore  formed within an ascus.", "S": [], "A": []}

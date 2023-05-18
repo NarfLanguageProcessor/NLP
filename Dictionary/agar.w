@@ -1,0 +1,1 @@
+{"index": 5903, "D": "a gelatinlike product of certain seaweeds, used for solidifying certain culture media, as a thickening agent for ice cream and other foods, as a substitute for gelatin, in adhesives, as an emulsifier, etc.", "S": [], "A": []}

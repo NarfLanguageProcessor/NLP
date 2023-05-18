@@ -1,0 +1,1 @@
+{"index": 83749, "D": "a drop of dew.", "S": ["bead ", "bit ", "bubble ", "crumb ", "dab ", "dash ", "driblet ", "drip ", "droplet ", "iota ", "molecule ", "morsel ", "nip ", "ounce ", "particle ", "pearl ", "pinch ", "sip ", "smidgen ", "speck ", "splash ", "spot ", "taste ", "tear ", "teardrop ", "trace ", "trickle "], "A": ["glob ", "lot "]}

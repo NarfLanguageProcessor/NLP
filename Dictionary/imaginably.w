@@ -1,0 +1,1 @@
+{"index": 147584, "D": "capable of being imagined  or conceived.", "S": ["perchance ", "perhaps "], "A": ["certainly ", "definitely ", "surely "]}

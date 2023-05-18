@@ -1,0 +1,1 @@
+{"index": 188106, "D": "an abrupt spasm or twitch of a muscle or group of muscles, occurring in some neurological diseases.", "S": [], "A": []}

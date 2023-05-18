@@ -1,0 +1,1 @@
+{"index": 286762, "D": "in a very stern, strict, or harsh way", "S": ["acutely ", "badly ", "critically ", "dangerously ", "extremely ", "firmly ", "markedly ", "painfully ", "seriously ", "sharply ", "sorely ", "sternly ", "strictly "], "A": ["mildly "]}

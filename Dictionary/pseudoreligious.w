@@ -1,0 +1,1 @@
+{"index": 255080, "D": "of, relating to, or concerned with religion", "S": [], "A": []}

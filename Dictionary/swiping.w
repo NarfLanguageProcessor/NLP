@@ -1,0 +1,1 @@
+{"index": 314529, "D": "a strong, sweeping blow, as with a cricket bat or golf club.", "S": ["slap "], "A": ["praise "]}

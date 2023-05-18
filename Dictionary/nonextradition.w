@@ -1,0 +1,1 @@
+{"index": 203888, "D": "the procedure by which a state or nation, upon receipt of a formal request by another state or nation, turns over to that second jurisdiction an individual charged with or convicted of a crime in that jurisdiction.", "S": [], "A": []}

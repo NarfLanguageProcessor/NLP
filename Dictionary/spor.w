@@ -1,0 +1,1 @@
+{"index": 300916, "D": "variant of sporo-  before a vowel", "S": [], "A": []}

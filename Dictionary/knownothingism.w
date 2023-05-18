@@ -1,0 +1,1 @@
+{"index": 165731, "D": "an ignorant or totally uninformed person; ignoramus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 174666, "D": "a conventional, abbreviated symbol for a frequently recurring word or phrase, as the symbol & for the word and.", "S": ["cipher ", "game "], "A": []}

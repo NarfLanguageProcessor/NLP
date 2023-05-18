@@ -1,0 +1,1 @@
+{"index": 322932, "D": "a violent, lawless, or vicious person, especially one who commits a crime such as assault, robbery, or murder", "S": ["assassin ", "bandit ", "bully ", "criminal ", "gangster ", "goon ", "gunman ", "hooligan ", "mobster ", "murderer ", "rioter ", "rowdy ", "troublemaker "], "A": ["law ", "police "]}

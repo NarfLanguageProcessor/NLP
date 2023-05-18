@@ -1,0 +1,1 @@
+{"index": 140203, "D": "extreme or excessive inflation. ", "S": ["devaluation "], "A": []}

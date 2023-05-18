@@ -1,0 +1,1 @@
+{"index": 157869, "D": "a decree of a Muslim ruler.", "S": [], "A": []}

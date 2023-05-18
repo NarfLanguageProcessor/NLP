@@ -1,0 +1,1 @@
+{"index": 298429, "D": "in an economical or limited way", "S": ["intermittently ", "now and then ", "occasionally ", "rarely ", "sporadically "], "A": ["frequently ", "regularly "]}

@@ -1,0 +1,1 @@
+{"index": 288145, "D": "the 12 loaves of bread placed every Sabbath on a table in the sanctuary of the Biblical tabernacle and the Temple in Jerusalem as an offering by the priests to God. Exodus 25", "S": [], "A": []}

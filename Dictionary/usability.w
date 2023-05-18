@@ -1,0 +1,1 @@
+{"index": 355938, "D": "available or convenient for use", "S": ["adoption ", "benefit ", "handling ", "help ", "need ", "operation ", "practice ", "purpose ", "service ", "treatment ", "usage ", "value "], "A": ["disadvantage ", "harm ", "hindrance ", "hurt ", "injury ", "inappropriateness ", "loss ", "unsuitability ", "uselessness "]}

@@ -1,0 +1,1 @@
+{"index": 369968, "D": "an asexual spore  produced by certain algae and some fungi, capable of moving about by means of flagella.", "S": [], "A": []}

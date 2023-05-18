@@ -1,0 +1,1 @@
+{"index": 151201, "D": "not divisible; not separable into parts; incapable of being divided", "S": ["individuality ", "unanimity ", "wholeness "], "A": ["difference ", "disagreement ", "discord ", "dissimilarity ", "fighting ", "opposition "]}

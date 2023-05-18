@@ -1,0 +1,1 @@
+{"index": 81168, "D": "a religious group, usually including many local churches, often larger than a sect", "S": ["church ", "creed ", "cult ", "faith ", "persuasion ", "religion ", "sect "], "A": ["agnosticism ", "atheism ", "disbelief "]}

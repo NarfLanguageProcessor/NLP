@@ -1,0 +1,1 @@
+{"index": 24414, "D": "(in Italy) a divided highway connecting major cities.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 207744, "D": "of, pertaining to, endowed with, or affecting the sense of touch.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 41465, "D": "any of various other alloys having a large copper content.", "S": ["burnished ", "chestnut ", "copper ", "russet ", "rust ", "tan "], "A": []}

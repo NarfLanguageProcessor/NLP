@@ -1,0 +1,1 @@
+{"index": 105562, "D": "the state of being a eunuch. ", "S": [], "A": []}

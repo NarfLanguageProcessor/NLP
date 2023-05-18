@@ -1,0 +1,1 @@
+{"index": 309919, "D": "to give way to superior force; yield", "S": [], "A": []}

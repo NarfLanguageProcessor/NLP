@@ -1,0 +1,1 @@
+{"index": 98426, "D": "to emend  (a text).", "S": ["amend ", "better ", "change ", "correct ", "edit ", "emend ", "fix up ", "improve ", "modify ", "revamp ", "rewrite ", "update "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 271163, "D": "to sell as one's business or occupation, especially by peddling", "S": [], "A": []}

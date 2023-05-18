@@ -1,0 +1,1 @@
+{"index": 307486, "D": "a person or thing that collects. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 187268, "D": "any plant or shrub of the genus Polygala, formerly supposed to increase the secretion of milk. ", "S": [], "A": []}

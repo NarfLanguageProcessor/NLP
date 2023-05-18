@@ -1,0 +1,1 @@
+{"index": 66171, "D": "crowded to excess; overfull", "S": ["choked ", "crowded ", "glutted ", "gridlocked ", "jammed ", "overcrowded ", "teeming "], "A": ["empty "]}

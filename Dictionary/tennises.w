@@ -1,0 +1,1 @@
+{"index": 318890, "D": "a game played on a rectangular court by two players or two pairs of players equipped with rackets, in which a ball is driven back and forth over a low net that divides the court in half.", "S": [], "A": []}

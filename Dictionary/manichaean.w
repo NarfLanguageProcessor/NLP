@@ -1,0 +1,1 @@
+{"index": 179240, "D": "of or relating to Manichaeism", "S": [], "A": []}

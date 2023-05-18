@@ -1,0 +1,1 @@
+{"index": 87782, "D": "passing aimlessly from one subject to another; digressive; rambling.", "S": ["diffuseness ", "euphemism ", "indirectness ", "periphrasis ", "pleonasm ", "prolixity ", "roundabout ", "tautology ", "verbiage ", "wordiness "], "A": ["conciseness "]}

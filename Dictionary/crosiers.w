@@ -1,0 +1,1 @@
+{"index": 73753, "D": "a ceremonial staff carried by a bishop or an abbot, hooked at one end like a shepherd's crook.", "S": [], "A": []}

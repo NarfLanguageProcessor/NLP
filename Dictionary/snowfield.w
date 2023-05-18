@@ -1,0 +1,1 @@
+{"index": 295812, "D": "a large and relatively permanent expanse of snow. ", "S": [], "A": []}

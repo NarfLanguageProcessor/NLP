@@ -1,0 +1,1 @@
+{"index": 102288, "D": "the invocation of the Holy Spirit to consecrate the bread and wine of the Eucharist", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 260820, "D": "to make rare or rarer; make less dense", "S": [], "A": []}

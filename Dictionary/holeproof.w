@@ -1,0 +1,1 @@
+{"index": 142424, "D": "(of fabric or an article of clothing) designed or made so as to prevent holes. ", "S": [], "A": []}

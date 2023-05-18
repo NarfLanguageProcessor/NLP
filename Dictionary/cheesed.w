@@ -1,0 +1,1 @@
+{"index": 53485, "D": "disgusted; fed up (usually followed by off).", "S": ["confuse ", "cover up ", "disguise ", "distort ", "exaggerate ", "falsify ", "misinterpret ", "misstate ", "overstate ", "skew "], "A": ["leave alone ", "represent ", "reveal ", "straighten ", "uncover "]}

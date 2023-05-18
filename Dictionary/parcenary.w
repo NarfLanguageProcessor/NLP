@@ -1,0 +1,1 @@
+{"index": 226256, "D": "joint heirship or coheirship; the undivided holding of land by two or more coheirs.", "S": [], "A": []}

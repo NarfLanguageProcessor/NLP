@@ -1,0 +1,1 @@
+{"index": 142925, "D": "the art of preaching; the branch of practical theology that treats of homilies or sermons.", "S": [], "A": []}

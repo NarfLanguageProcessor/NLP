@@ -1,0 +1,1 @@
+{"index": 281209, "D": "a colorless, syrupy, water-soluble alkaloid, C17H21NO4, obtained from certain plants of the nightshade family, used chiefly as a sedative and mydriatic and to alleviate the symptoms of motion sickness.", "S": ["Pentothal ", "sodium pentothal ", "thiopental sodium "], "A": []}

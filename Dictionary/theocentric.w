@@ -1,0 +1,1 @@
+{"index": 320933, "D": "having God as the focal point of thoughts, interests, and feelings", "S": [], "A": []}

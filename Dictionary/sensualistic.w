@@ -1,0 +1,1 @@
+{"index": 285444, "D": "a person given to the indulgence of the senses or appetites.", "S": ["epicurean ", "horny ", "hot ", "lusty ", "provocative ", "sensual ", "steamy ", "voluptuous "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321819, "D": "a cream-colored, crystalline, water-soluble powder, C9H9HgNaO2S, used chiefly as an antiseptic.", "S": [], "A": []}

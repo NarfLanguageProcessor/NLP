@@ -1,0 +1,1 @@
+{"index": 296451, "D": "tenure of land subject to the soke of someone else.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 127596, "D": "a collar of lawn or linen, slightly rolled under at the edge and starched to stand out from the neckline, worn in Spain in the 17th century.", "S": [], "A": []}

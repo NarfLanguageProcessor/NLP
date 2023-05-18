@@ -1,0 +1,1 @@
+{"index": 32357, "D": "(of a fortified place) under siege; surrounded by enemy forces and cut off from help or supplies", "S": ["beleaguer ", "beset ", "blockade ", "encircle ", "hem in ", "trap "], "A": ["let go "]}

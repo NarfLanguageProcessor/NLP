@@ -1,0 +1,1 @@
+{"index": 299203, "D": "one of the cells that result from the meiotic divisions of a spermatocyte and mature into spermatozoa.", "S": [], "A": []}

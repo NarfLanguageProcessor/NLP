@@ -1,0 +1,1 @@
+{"index": 5856, "D": "a king of Mycenae, a son of Atreus and brother of Menelaus. He led the Greeks in the Trojan War and was murdered by Clytemnestra, his wife, upon his return from Troy.", "S": [], "A": []}

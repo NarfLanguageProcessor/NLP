@@ -1,0 +1,1 @@
+{"index": 43080, "D": "an inhabitant of a town, especially a member of the middle class; citizen.", "S": ["autochthon ", "inhabitant ", "national ", "native ", "resident ", "taxpayer ", "townswoman "], "A": ["alien ", "foreigner "]}

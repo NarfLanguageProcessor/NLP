@@ -1,0 +1,1 @@
+{"index": 248155, "D": "pertaining to, consisting of, or resembling milk; milky.", "S": [], "A": []}

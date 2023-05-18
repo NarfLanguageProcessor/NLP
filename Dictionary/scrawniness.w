@@ -1,0 +1,1 @@
+{"index": 281663, "D": "excessively thin; lean; scraggy", "S": ["emaciation ", "gauntness ", "lankiness ", "leanness ", "skinniness ", "slenderness "], "A": ["avoirdupois ", "fatness ", "solidity ", "thickness "]}

@@ -1,0 +1,1 @@
+{"index": 21948, "D": "Augustinian of the Assumption. ", "S": [], "A": []}

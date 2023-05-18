@@ -1,0 +1,1 @@
+{"index": 224103, "D": "of or derived from palmitic acid. ", "S": [], "A": []}

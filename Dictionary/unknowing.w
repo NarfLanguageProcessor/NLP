@@ -1,0 +1,1 @@
+{"index": 345361, "D": "ignorant or unaware", "S": ["blank ", "blind ", "daydreaming ", "deaf ", "unconscious "], "A": ["aware ", "conscious ", "understanding "]}

@@ -1,0 +1,1 @@
+{"index": 185136, "D": "a record made by a meteorograph.", "S": [], "A": []}

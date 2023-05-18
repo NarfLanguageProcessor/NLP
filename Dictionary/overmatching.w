@@ -1,0 +1,1 @@
+{"index": 220206, "D": "to be more than a match for; surpass; defeat", "S": [], "A": []}

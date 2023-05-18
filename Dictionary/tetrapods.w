@@ -1,0 +1,1 @@
+{"index": 320165, "D": "any vertebrate having four limbs or, as in the snake and whale, having had four-limbed ancestors.", "S": [], "A": []}

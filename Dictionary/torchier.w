@@ -1,0 +1,1 @@
+{"index": 326059, "D": "a standing lamp with a bowl for casting light upwards and so giving all-round indirect illumination", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 213228, "D": "a series of atoms linked in a chain not joined together at its ends, and so represented in its structural formula.", "S": [], "A": []}

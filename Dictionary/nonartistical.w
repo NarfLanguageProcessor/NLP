@@ -1,0 +1,1 @@
+{"index": 201458, "D": "conforming to the standards of art;  satisfying aesthetic requirements", "S": [], "A": []}

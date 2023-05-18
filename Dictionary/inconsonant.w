@@ -1,0 +1,1 @@
+{"index": 150279, "D": "not consonant  or in accord.", "S": ["adverse ", "antagonistic ", "clashing ", "contrary ", "incompatible ", "inconsistent ", "opposing ", "paradoxical "], "A": ["consonant ", "harmonious "]}

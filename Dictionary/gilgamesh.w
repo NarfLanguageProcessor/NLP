@@ -1,0 +1,1 @@
+{"index": 124915, "D": "a legendary Sumerian king, the hero of Sumerian and Babylonian epics.", "S": [], "A": []}

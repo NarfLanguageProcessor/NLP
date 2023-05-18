@@ -1,0 +1,1 @@
+{"index": 73471, "D": "a single-day bicycle race consisting of several laps around a closed road course, with all contestants starting at the same time", "S": [], "A": []}

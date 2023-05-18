@@ -1,0 +1,1 @@
+{"index": 77570, "D": "an enzyme that releases the amido group from a compound.", "S": [], "A": []}

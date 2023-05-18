@@ -1,0 +1,1 @@
+{"index": 177140, "D": "a Brazilian cult incorporating the use of fetishes and sorcery and deriving largely from African practices.", "S": [], "A": []}

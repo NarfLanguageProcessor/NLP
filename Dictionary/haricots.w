@@ -1,0 +1,1 @@
+{"index": 133756, "D": "any plant of the genus Phaseolus, especially P. vulgaris, the kidney bean.", "S": [], "A": []}

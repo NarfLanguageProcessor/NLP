@@ -1,0 +1,1 @@
+{"index": 304963, "D": "stockholder (def. 1). ", "S": [], "A": []}

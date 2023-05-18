@@ -1,0 +1,1 @@
+{"index": 310041, "D": "bearing or secreting sweat.", "S": [], "A": []}

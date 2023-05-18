@@ -1,0 +1,1 @@
+{"index": 110933, "D": "the act of pretending or putting on a show in order to deceive", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 338214, "D": "to censure or find fault with.", "S": [], "A": []}

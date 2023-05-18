@@ -1,0 +1,1 @@
+{"index": 239676, "D": "belonging or pertaining to the common people.", "S": [], "A": []}

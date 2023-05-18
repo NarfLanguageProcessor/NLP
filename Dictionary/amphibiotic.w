@@ -1,0 +1,1 @@
+{"index": 11051, "D": "living on land during the adult stage and in water during a larval stage.", "S": [], "A": []}

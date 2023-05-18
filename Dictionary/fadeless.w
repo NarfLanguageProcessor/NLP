@@ -1,0 +1,1 @@
+{"index": 109140, "D": "not fading  or diminishing; unfading.", "S": [], "A": []}

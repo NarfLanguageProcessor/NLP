@@ -1,0 +1,1 @@
+{"index": 72754, "D": "any of three isomeric compounds having the formula C7H8O, usually derived from coal tar and wood tar, and used chiefly as a disinfectant.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 189528, "D": "to fail to understand or recognize; misunderstand", "S": [], "A": []}

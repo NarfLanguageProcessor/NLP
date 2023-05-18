@@ -1,0 +1,1 @@
+{"index": 280634, "D": "a mental state in which one has knowledge that one\u2019s action, statement, etc., is wrong, deceptive, or illegal", "S": [], "A": []}

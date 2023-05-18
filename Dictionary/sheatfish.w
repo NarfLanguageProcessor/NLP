@@ -1,0 +1,1 @@
+{"index": 287712, "D": "a large, freshwater catfish, Silurus glanis, inhabiting rivers in central and eastern Europe, sometimes reaching a weight of 400 pounds (181.4 kilograms).", "S": [], "A": []}

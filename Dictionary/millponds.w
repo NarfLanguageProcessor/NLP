@@ -1,0 +1,1 @@
+{"index": 187472, "D": "a pond  for supplying water to drive a mill wheel. ", "S": ["bank ", "barrier ", "dike ", "ditch ", "gate ", "levee "], "A": ["aid ", "assistance ", "help ", "promotion "]}

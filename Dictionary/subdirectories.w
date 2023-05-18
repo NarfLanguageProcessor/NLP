@@ -1,0 +1,1 @@
+{"index": 307759, "D": "a book containing an alphabetical index of the names and addresses of persons in a city, district, organization, etc., or of a particular category of people.", "S": [], "A": []}

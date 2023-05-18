@@ -1,0 +1,1 @@
+{"index": 323451, "D": "a large, carnivorous, tawny-colored and black-striped feline, Panthera tigris, of Asia, ranging in several subspecies from India and the Malay Peninsula to Siberia", "S": [], "A": []}

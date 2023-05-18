@@ -1,0 +1,1 @@
+{"index": 116058, "D": "any of several soft membranous gaps between the bones of the skull in a fetus or infant", "S": [], "A": []}

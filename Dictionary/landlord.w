@@ -1,0 +1,1 @@
+{"index": 167973, "D": "a person or organization that owns and leases apartments to others.", "S": ["property owner ", "proprietor "], "A": ["boarder ", "renter "]}

@@ -1,0 +1,1 @@
+{"index": 181824, "D": "blockhead; dunce; fool.", "S": ["blockhead ", "dimwit ", "dolt ", "dullard ", "dunce ", "fool ", "idiot ", "ignoramus ", "lout ", "lump ", "moron ", "numskull ", "oaf ", "ox ", "simpleton "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 155424, "D": "existing or occurring between molecules.", "S": [], "A": []}

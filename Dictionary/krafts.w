@@ -1,0 +1,1 @@
+{"index": 166219, "D": "a strong, usually brown paper processed from wood pulp, used chiefly for bags and as wrapping paper.", "S": [], "A": []}

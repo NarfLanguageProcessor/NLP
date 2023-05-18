@@ -1,0 +1,1 @@
+{"index": 142554, "D": "a great or complete devastation or destruction, especially by fire.", "S": [], "A": []}

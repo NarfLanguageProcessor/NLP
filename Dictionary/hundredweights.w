@@ -1,0 +1,1 @@
+{"index": 145131, "D": "a unit of avoirdupois weight  commonly equivalent to 100 pounds (45.359 kilograms) in the U.S. Abbreviation", "S": [], "A": []}

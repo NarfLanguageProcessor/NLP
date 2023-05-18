@@ -1,0 +1,1 @@
+{"index": 168776, "D": "a brand of yarn made from a core of latex rubber covered with fabric strands.", "S": [], "A": []}

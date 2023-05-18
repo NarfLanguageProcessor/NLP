@@ -1,0 +1,1 @@
+{"index": 261004, "D": "a chimaera, Hydrolagus colliei, of the Pacific Ocean from Alaska to Baja California, having a ratlike tail.", "S": [], "A": []}

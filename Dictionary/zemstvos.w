@@ -1,0 +1,1 @@
+{"index": 369044, "D": "one of a system of elected local assemblies established in 1864 by Alexander II to replace the authority of the nobles in administering local affairs after the abolition of serfdom", "S": [], "A": []}

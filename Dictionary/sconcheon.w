@@ -1,0 +1,1 @@
+{"index": 281156, "D": "the reveal of a window or doorway from the frame to the inner face of the wall.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 316987, "D": "a compound of two words in which the first is an attributive noun and the second a substantive, as bookcase, aircraft, or flowerpot.", "S": [], "A": []}

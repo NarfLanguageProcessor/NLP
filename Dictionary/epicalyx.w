@@ -1,0 +1,1 @@
+{"index": 102216, "D": "an involucre resembling an outer calyx,  as in the mallow.", "S": [], "A": []}

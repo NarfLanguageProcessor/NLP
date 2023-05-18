@@ -1,0 +1,1 @@
+{"index": 19937, "D": "a garment resembling a stole, worn by a British king at his coronation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 170247, "D": "a benign tumor composed of nonstriated muscular tissue.", "S": [], "A": []}

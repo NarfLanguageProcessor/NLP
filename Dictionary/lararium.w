@@ -1,0 +1,1 @@
+{"index": 168436, "D": "(in an ancient Roman home) a shrine for the Lares.", "S": [], "A": []}

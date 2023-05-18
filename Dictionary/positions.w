@@ -1,0 +1,1 @@
+{"index": 243803, "D": "condition with reference to place; location; situation.", "S": ["area ", "environment ", "location ", "point ", "post ", "seat ", "situation ", "spot ", "stand "], "A": ["unemployment "]}

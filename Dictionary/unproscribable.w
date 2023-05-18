@@ -1,0 +1,1 @@
+{"index": 348677, "D": "to denounce or condemn (a thing) as dangerous or harmful; prohibit.", "S": [], "A": []}

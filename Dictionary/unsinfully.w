@@ -1,0 +1,1 @@
+{"index": 351220, "D": "characterized by, guilty of, or full of sin;  wicked", "S": [], "A": []}

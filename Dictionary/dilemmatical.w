@@ -1,0 +1,1 @@
+{"index": 85723, "D": "a situation requiring a choice between equally undesirable alternatives.", "S": [], "A": []}

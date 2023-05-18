@@ -1,0 +1,1 @@
+{"index": 276450, "D": "to make or become sad. ", "S": ["discourage ", "dishearten ", "dispirit ", "grieve "], "A": ["encourage ", "hearten ", "inspirit ", "aid ", "assist ", "delight ", "help "]}

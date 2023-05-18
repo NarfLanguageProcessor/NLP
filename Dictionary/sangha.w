@@ -1,0 +1,1 @@
+{"index": 277872, "D": "a community of Buddhist monks.", "S": [], "A": []}

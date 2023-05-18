@@ -1,0 +1,1 @@
+{"index": 19577, "D": "susceptible to debate, challenge, or doubt; questionable", "S": ["conceivable ", "defensible ", "imaginable "], "A": ["unimaginable ", "unthinkable "]}

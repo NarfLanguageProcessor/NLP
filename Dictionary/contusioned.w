@@ -1,0 +1,1 @@
+{"index": 67865, "D": "an injury, as from a blow with a blunt instrument, in which the subsurface tissue is injured but the skin is not broken; bruise.", "S": [], "A": []}

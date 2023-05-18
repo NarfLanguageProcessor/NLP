@@ -1,0 +1,1 @@
+{"index": 45674, "D": "a technique of engraving upon a gem or other stone, as onyx, in such a way that an underlying stone of one color is exposed as a background for a low-relief design of another color.", "S": [], "A": []}

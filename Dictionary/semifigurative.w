@@ -1,0 +1,1 @@
+{"index": 284208, "D": "of the nature of or involving a figure of speech,  especially a metaphor; metaphorical and not literal", "S": [], "A": []}

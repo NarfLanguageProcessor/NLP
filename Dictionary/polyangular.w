@@ -1,0 +1,1 @@
+{"index": 241620, "D": "multangular; multiangular.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 173174, "D": "the synthesis of fatty acids in the body from glucose and other substrates", "S": [], "A": []}

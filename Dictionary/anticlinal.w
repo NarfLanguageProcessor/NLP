@@ -1,0 +1,1 @@
+{"index": 14957, "D": "inclining in opposite directions from a central axis.", "S": [], "A": []}

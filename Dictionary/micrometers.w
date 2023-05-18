@@ -1,0 +1,1 @@
+{"index": 186275, "D": "any of various devices for measuring minute distances, angles, etc., as in connection with a telescope or microscope.", "S": [], "A": []}

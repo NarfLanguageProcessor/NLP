@@ -1,0 +1,1 @@
+{"index": 333819, "D": "a former province in Ireland, now comprising Northern Ireland  and a part of the Republic of Ireland.", "S": ["cloak ", "frock ", "jacket ", "overcoat ", "raincoat ", "suit ", "tuxedo ", "windbreaker ", "wrap "], "A": []}

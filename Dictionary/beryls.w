@@ -1,0 +1,1 @@
+{"index": 32106, "D": "a mineral, beryllium aluminum silicate, Be3Al2Si6O18, usually green, but also blue, rose, white, and golden, and both opaque and transparent, the latter variety including the gems emerald and aquamarine", "S": [], "A": []}

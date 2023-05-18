@@ -1,0 +1,1 @@
+{"index": 164636, "D": "a unit of pressure, equal to 1000 bars  (14,500 pounds per square inch; equivalent to 100 megapascals). Abbreviation", "S": [], "A": []}

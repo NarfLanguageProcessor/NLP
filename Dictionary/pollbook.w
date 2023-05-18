@@ -1,0 +1,1 @@
+{"index": 242670, "D": "the official list of the registered voters in a given area.", "S": [], "A": []}

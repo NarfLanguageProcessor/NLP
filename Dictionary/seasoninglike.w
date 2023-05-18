@@ -1,0 +1,1 @@
+{"index": 282599, "D": "salt or an herb, spice, or the like, for heightening or improving the flavor of food.", "S": [], "A": []}

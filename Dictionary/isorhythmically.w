@@ -1,0 +1,1 @@
+{"index": 159226, "D": "a structural feature characteristic of the Ars Nova motet, consisting of a single rhythmic phrase pattern repeated, usually in the tenor, throughout the composition.", "S": [], "A": []}

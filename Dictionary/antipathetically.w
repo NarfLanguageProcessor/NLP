@@ -1,0 +1,1 @@
+{"index": 15794, "D": "opposed, averse, or contrary; having or showing antipathy", "S": [], "A": []}

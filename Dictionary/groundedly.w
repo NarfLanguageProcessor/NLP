@@ -1,0 +1,1 @@
+{"index": 130304, "D": "the solid surface of the earth; firm or dry land", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 20508, "D": "x-ray examination of an artery or arteries following injection of a radiopaque substance.", "S": [], "A": []}

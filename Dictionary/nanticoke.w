@@ -1,0 +1,1 @@
+{"index": 196795, "D": "a member of an Indigenous North American people who have traditionally inhabited Maryland, Delaware, and Pennsylvania.", "S": [], "A": []}

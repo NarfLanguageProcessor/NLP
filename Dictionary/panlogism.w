@@ -1,0 +1,1 @@
+{"index": 224711, "D": "the doctrine that the universe is a realization or act of the logos.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 169256, "D": "the principal garment in Polynesia, especially in Samoa, consisting of a piece of printed cloth worn as a loincloth or skirt.", "S": ["dhoti "], "A": []}

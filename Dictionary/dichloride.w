@@ -1,0 +1,1 @@
+{"index": 84788, "D": "a compound in which two atoms of chlorine are combined with another element or group.", "S": [], "A": []}

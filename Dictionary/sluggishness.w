@@ -1,0 +1,1 @@
+{"index": 294538, "D": "indisposed to action or exertion; lacking in energy; lazy; indolent", "S": ["fatigue ", "inaction ", "lethargy "], "A": ["energy ", "liveliness ", "vigor ", "diligence ", "industry "]}

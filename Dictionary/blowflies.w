@@ -1,0 +1,1 @@
+{"index": 36612, "D": "any of numerous dipterous insects of the family Calliphoridae that deposit their eggs or larvae on carrion, excrement, etc., or in wounds of living animals.", "S": [], "A": []}

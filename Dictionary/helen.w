@@ -1,0 +1,1 @@
+{"index": 135454, "D": "the beautiful daughter of Zeus and Leda and wife of Menelaus whose abduction by Paris was the cause of the Trojan War.", "S": [], "A": []}

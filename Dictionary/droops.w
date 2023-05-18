@@ -1,0 +1,1 @@
+{"index": 93336, "D": "to sag, sink, bend, or hang down, as from weakness, exhaustion, or lack of support.", "S": ["dangle ", "sag ", "slouch ", "wilt ", "wither "], "A": ["bloom ", "ascend ", "complete ", "continue ", "finish ", "grow ", "improve ", "increase ", "rise ", "straighten ", "strengthen "]}

@@ -1,0 +1,1 @@
+{"index": 307475, "D": "the composite or generally prevailing weather conditions of a region, as temperature, air pressure, humidity, precipitation, sunshine, cloudiness, and winds, throughout the year, averaged over a series of years.", "S": [], "A": []}

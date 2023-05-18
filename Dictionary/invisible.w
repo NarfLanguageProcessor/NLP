@@ -1,0 +1,1 @@
+{"index": 157263, "D": "not visible; not perceptible by the eye", "S": ["imperceptible ", "microscopic ", "unseen "], "A": ["detectable ", "obvious ", "seen ", "visible "]}

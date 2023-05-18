@@ -1,0 +1,1 @@
+{"index": 160145, "D": "a native or inhabitant of Kansas (used as a nickname).", "S": [], "A": []}

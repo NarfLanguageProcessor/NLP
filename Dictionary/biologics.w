@@ -1,0 +1,1 @@
+{"index": 34416, "D": "biological products such as vaccines and therapeutic sera, used to induce immunity to infectious diseases or harmful substances of biological origin", "S": ["cure ", "medicine ", "narcotic ", "pharmaceutical ", "pill ", "poison ", "prescription ", "remedy ", "stimulant "], "A": ["disease "]}

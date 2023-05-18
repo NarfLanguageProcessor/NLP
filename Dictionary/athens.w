@@ -1,0 +1,1 @@
+{"index": 22543, "D": "Greek A\u00b7the\u00b7nai  [ah-thee-ne]  /\u0251\u02c8\u03b8i n\u025b/ .", "S": [], "A": []}

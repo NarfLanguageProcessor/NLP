@@ -1,0 +1,1 @@
+{"index": 242251, "D": "a polyphonic  letter or symbol.", "S": [], "A": []}

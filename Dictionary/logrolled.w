@@ -1,0 +1,1 @@
+{"index": 174714, "D": "to procure the passage of (a bill) by logrolling.", "S": [], "A": []}

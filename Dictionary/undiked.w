@@ -1,0 +1,1 @@
+{"index": 340377, "D": "an embankment for controlling or holding back the waters of the sea or a river", "S": [], "A": []}

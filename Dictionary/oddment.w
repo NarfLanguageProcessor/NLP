@@ -1,0 +1,1 @@
+{"index": 211209, "D": "an odd  article, bit, remnant, or the like.", "S": ["odds and ends "], "A": ["base ", "cleanliness ", "core ", "possessions ", "property ", "singularity "]}

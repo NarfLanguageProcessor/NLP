@@ -1,0 +1,1 @@
+{"index": 309393, "D": "to consider or include (an idea, term, proposition, etc.) as part of a more comprehensive one.", "S": [], "A": []}

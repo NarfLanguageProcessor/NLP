@@ -1,0 +1,1 @@
+{"index": 209533, "D": "causing numbness  or insensibility; stupefying", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311400, "D": "overpowering wonder or surprise; amazement", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 177510, "D": "a very common black iron oxide mineral, Fe3O4, that is strongly attracted by magnets", "S": [], "A": []}

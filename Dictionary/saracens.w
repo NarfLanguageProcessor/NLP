@@ -1,0 +1,1 @@
+{"index": 278277, "D": "a member of any of the nomadic tribes on the Syrian borders of the Roman Empire.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 143958, "D": "causing or tending to cause horror; shockingly dreadful", "S": ["nastiness "], "A": ["agreement ", "friendliness ", "kindness ", "pleasantness ", "sweetness "]}

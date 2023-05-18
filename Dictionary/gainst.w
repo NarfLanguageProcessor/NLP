@@ -1,0 +1,1 @@
+{"index": 121047, "D": "shortened form of against. ", "S": [], "A": []}

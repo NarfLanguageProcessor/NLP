@@ -1,0 +1,1 @@
+{"index": 227246, "D": "a satire or lampoon, especially one posted in a public place.", "S": ["burlesque ", "farce ", "lampoon ", "parody ", "satire "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 318592, "D": "lasting, existing, serving, or effective for a time only; not permanent", "S": ["assistant ", "backup ", "deputy ", "double ", "fill in ", "relief ", "replacement ", "reserve ", "stalwart ", "stand-by ", "stand-in ", "sub ", "successor ", "temp ", "temporary ", "understudy "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 130597, "D": "ugly, run-down, or dilapidated", "S": ["dilapidated ", "disheveled ", "filthy ", "grimy ", "grubby ", "rundown "], "A": ["clean ", "neat ", "pure ", "sterile "]}

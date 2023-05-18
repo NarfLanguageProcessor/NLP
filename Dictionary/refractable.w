@@ -1,0 +1,1 @@
+{"index": 265307, "D": "to subject to refraction. ", "S": [], "A": []}

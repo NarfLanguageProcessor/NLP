@@ -1,0 +1,1 @@
+{"index": 22655, "D": "pertaining to the demigod Atlas.", "S": [], "A": []}

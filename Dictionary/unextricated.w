@@ -1,0 +1,1 @@
+{"index": 341895, "D": "to free or release from entanglement; disengage", "S": [], "A": []}

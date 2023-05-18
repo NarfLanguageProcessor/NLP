@@ -1,0 +1,1 @@
+{"index": 306942, "D": "causing amazement; astounding; marvelous", "S": [], "A": []}

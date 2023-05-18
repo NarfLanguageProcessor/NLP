@@ -1,0 +1,1 @@
+{"index": 85524, "D": "producing offspring twice yearly", "S": [], "A": []}

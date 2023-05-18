@@ -1,0 +1,1 @@
+{"index": 218317, "D": "domineering; dictatorial; haughtily or rudely arrogant.", "S": ["arrogantly ", "boastfully ", "bombastically ", "conceitedly ", "disdainfully ", "egotistically ", "flamboyantly ", "gaudily ", "imperiously ", "insolently ", "ostentatiously ", "proudly ", "snobbishly ", "spectacularly ", "theatrically "], "A": ["humbly ", "modestly ", "quietly "]}

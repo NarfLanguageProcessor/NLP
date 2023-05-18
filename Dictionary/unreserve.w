@@ -1,0 +1,1 @@
+{"index": 349690, "D": "absence of reserve;  frankness; candor.", "S": [], "A": []}

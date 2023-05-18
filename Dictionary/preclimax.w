@@ -1,0 +1,1 @@
+{"index": 246182, "D": "a stable community that precedes the full development of the climax  community of a given area and that results from local variations in soil and water.", "S": [], "A": []}

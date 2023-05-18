@@ -1,0 +1,1 @@
+{"index": 342207, "D": "released from physical or mental bonds; unrestrained", "S": ["free ", "loose "], "A": ["fettered ", "restricted "]}

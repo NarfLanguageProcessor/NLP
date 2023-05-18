@@ -1,0 +1,1 @@
+{"index": 142631, "D": "a brand of glass having a surface pattern of small, lenslike areas for even diffusion of light.", "S": [], "A": []}

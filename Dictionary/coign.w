@@ -1,0 +1,1 @@
+{"index": 62447, "D": "variant spellings of quoin", "S": [], "A": []}

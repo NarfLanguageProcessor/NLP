@@ -1,0 +1,1 @@
+{"index": 136486, "D": "the stoppage of bleeding.", "S": [], "A": []}

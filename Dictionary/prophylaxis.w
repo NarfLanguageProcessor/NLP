@@ -1,0 +1,1 @@
+{"index": 252650, "D": "the prevention of a specific disease, as by studying the biological behavior, transmission, etc., of its causative agent and applying a series of measures against it.", "S": ["prevention ", "sanitation ", "treatment "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 188793, "D": "to believe  wrongly; hold an erroneous belief.", "S": ["protester ", "rebel ", "separatist "], "A": ["yes-man "]}

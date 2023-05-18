@@ -1,0 +1,1 @@
+{"index": 329187, "D": "any of a group of three compounds containing three nitrogen and three carbon atoms arranged in a six-membered ring and having the formula C3H3N3.", "S": [], "A": []}

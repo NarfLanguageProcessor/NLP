@@ -1,0 +1,1 @@
+{"index": 244029, "D": "to date  (a check, invoice, letter, document) with a date  later than the actual date. ", "S": ["misplacement ", "prolepsis ", "solecism "], "A": []}

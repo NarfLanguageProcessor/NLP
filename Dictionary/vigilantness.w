@@ -1,0 +1,1 @@
+{"index": 359616, "D": "keenly watchful to detect danger; wary", "S": [], "A": []}

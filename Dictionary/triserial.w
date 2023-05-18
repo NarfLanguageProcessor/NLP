@@ -1,0 +1,1 @@
+{"index": 330560, "D": "arranged in three series or rows.", "S": [], "A": []}

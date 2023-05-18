@@ -1,0 +1,1 @@
+{"index": 12264, "D": "the elbow.", "S": ["joint "], "A": ["line "]}

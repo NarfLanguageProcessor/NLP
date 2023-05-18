@@ -1,0 +1,1 @@
+{"index": 201296, "D": "to separate (a material or abstract entity) into constituent parts or elements; determine the elements or essential features of (opposed to synthesize)", "S": [], "A": []}

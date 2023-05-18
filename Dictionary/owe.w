@@ -1,0 +1,1 @@
+{"index": 222029, "D": "to be under obligation to pay or repay", "S": ["incur "], "A": ["pay ", "resolve ", "settle "]}

@@ -1,0 +1,1 @@
+{"index": 334880, "D": "greatly surprised; astounded; suddenly filled with wonder", "S": [], "A": []}

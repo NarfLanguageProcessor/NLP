@@ -1,0 +1,1 @@
+{"index": 278574, "D": "a tightly woven Oriental rug with soft colors and, usually, a center design.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 177002, "D": "a very large molecule,  as a colloidal particle, protein, or especially a polymer, composed of hundreds or thousands of atoms.", "S": [], "A": []}

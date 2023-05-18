@@ -1,0 +1,1 @@
+{"index": 161571, "D": "of, relating to, or characteristic of Samuel Johnson  or his works.", "S": [], "A": []}

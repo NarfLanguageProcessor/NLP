@@ -1,0 +1,1 @@
+{"index": 312388, "D": "the quality of being patient,  as the bearing of provocation, annoyance, misfortune, or pain, without complaint, loss of temper, irritation, or the like.", "S": [], "A": []}

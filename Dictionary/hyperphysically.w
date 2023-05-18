@@ -1,0 +1,1 @@
+{"index": 140406, "D": "being above or beyond the physical;  immaterial; supernatural.", "S": [], "A": []}

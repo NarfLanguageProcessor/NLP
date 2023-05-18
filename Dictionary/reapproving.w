@@ -1,0 +1,1 @@
+{"index": 261936, "D": "to speak or think favorably of; pronounce or consider agreeable or good; judge favorably", "S": [], "A": []}

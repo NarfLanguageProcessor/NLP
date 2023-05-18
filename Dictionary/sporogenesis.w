@@ -1,0 +1,1 @@
+{"index": 300986, "D": "the production of spores; sporogony.", "S": [], "A": []}

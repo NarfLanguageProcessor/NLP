@@ -1,0 +1,1 @@
+{"index": 296975, "D": "developing from somatic cells.", "S": [], "A": []}

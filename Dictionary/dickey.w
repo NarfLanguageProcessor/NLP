@@ -1,0 +1,1 @@
+{"index": 84882, "D": "Compare vest (def. 2), vestee. ", "S": [], "A": []}

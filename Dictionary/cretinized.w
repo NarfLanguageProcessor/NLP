@@ -1,0 +1,1 @@
+{"index": 72809, "D": "to make or become cretinous; cause (a person) to be incapable of normal intelligence or sound judgment.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 67878, "D": "any of several long-tailed New World parrots, especially of the genus Aratinga, certain species of which are kept as pets.", "S": [], "A": []}

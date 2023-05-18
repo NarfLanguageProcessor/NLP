@@ -1,0 +1,1 @@
+{"index": 21663, "D": "the practice of assenting readily, especially obsequiously.", "S": [], "A": []}

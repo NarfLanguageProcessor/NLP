@@ -1,0 +1,1 @@
+{"index": 202034, "D": "the act, process, or right of making coins. ", "S": [], "A": []}

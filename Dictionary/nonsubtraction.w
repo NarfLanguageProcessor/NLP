@@ -1,0 +1,1 @@
+{"index": 207638, "D": "an act or instance of subtracting. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 208280, "D": "the act of vindicating. ", "S": [], "A": []}

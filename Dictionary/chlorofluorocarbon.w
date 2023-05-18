@@ -1,0 +1,1 @@
+{"index": 55153, "D": "any of several volatile, inert, saturated compounds of carbon, fluorine, chlorine, and hydrogen", "S": [], "A": []}

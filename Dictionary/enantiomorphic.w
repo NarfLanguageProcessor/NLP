@@ -1,0 +1,1 @@
+{"index": 99071, "D": "the existence of two chemically identical crystal forms as mirror images of each other.", "S": [], "A": []}

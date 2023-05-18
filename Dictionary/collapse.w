@@ -1,0 +1,1 @@
+{"index": 62832, "D": "to fall or cave in; crumble suddenly", "S": ["bankruptcy ", "catastrophe ", "crash ", "debacle ", "destruction ", "disintegration ", "disruption ", "failure "], "A": ["miracle ", "success ", "wonder ", "creation ", "good fortune "]}

@@ -1,0 +1,1 @@
+{"index": 285260, "D": "an officer having full charge of domestic arrangements, ceremonies, the administration of justice, etc., in the household of a medieval prince or dignitary; steward.", "S": ["administrator ", "attendant ", "curator ", "waiter "], "A": []}

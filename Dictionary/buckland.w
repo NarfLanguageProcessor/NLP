@@ -1,0 +1,1 @@
+{"index": 42071, "D": "William . 1784\u20131856, English geologist; he became a proponent of the idea of catastrophic ice ages", "S": [], "A": []}

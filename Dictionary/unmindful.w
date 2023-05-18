@@ -1,0 +1,1 @@
+{"index": 346362, "D": "not mindful; unaware; heedless; forgetful; careless; neglectful", "S": ["forgetful ", "mindless "], "A": ["mindful "]}

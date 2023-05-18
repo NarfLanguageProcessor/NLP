@@ -1,0 +1,1 @@
+{"index": 89473, "D": "a person who dissents,  as from an established church, political party, or majority opinion.", "S": ["protester ", "skeptic "], "A": []}

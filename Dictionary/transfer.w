@@ -1,0 +1,1 @@
+{"index": 327831, "D": "to convey or remove from one place, person, etc., to another", "S": ["deportation ", "relocation ", "removal ", "transmission "], "A": ["stagnation "]}

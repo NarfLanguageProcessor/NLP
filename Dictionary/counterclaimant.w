@@ -1,0 +1,1 @@
+{"index": 70709, "D": "a claim  made to offset another claim,  especially one made by the defendant in a legal action.", "S": [], "A": []}

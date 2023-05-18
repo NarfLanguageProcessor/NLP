@@ -1,0 +1,1 @@
+{"index": 336690, "D": "to free from or as if from chains;  set free.", "S": ["loosening "], "A": []}

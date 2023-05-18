@@ -1,0 +1,1 @@
+{"index": 357681, "D": "any plant whose fruit, seeds, roots, tubers, bulbs, stems, leaves, or flower parts are used as food, as the tomato, bean, beet, potato, onion, asparagus, spinach, or cauliflower.", "S": ["herb ", "legume ", "produce ", "salad "], "A": []}

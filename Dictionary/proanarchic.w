@@ -1,0 +1,1 @@
+{"index": 250953, "D": "of, like, or tending to anarchy. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 9657, "D": "a mineral, hydrous sulfate of aluminum, Al2(SO4)3\u22c518H2O, occurring as a white, fibrous crust on quarry or mine walls.", "S": [], "A": []}

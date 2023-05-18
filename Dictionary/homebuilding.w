@@ -1,0 +1,1 @@
+{"index": 142763, "D": "the designing or constructing of houses.", "S": [], "A": []}

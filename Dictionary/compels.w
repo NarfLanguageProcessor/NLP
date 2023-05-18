@@ -1,0 +1,1 @@
+{"index": 64495, "D": "to force or drive, especially to a course of action", "S": ["constrain ", "enforce ", "exact ", "impel ", "necessitate ", "oblige ", "urge "], "A": ["dissuade ", "discourage ", "halt ", "leave alone ", "stop "]}

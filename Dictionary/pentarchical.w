@@ -1,0 +1,1 @@
+{"index": 230002, "D": "a government by five persons.", "S": [], "A": []}

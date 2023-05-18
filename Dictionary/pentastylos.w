@@ -1,0 +1,1 @@
+{"index": 230017, "D": "a pentastyle  building, as a classical temple.", "S": [], "A": []}

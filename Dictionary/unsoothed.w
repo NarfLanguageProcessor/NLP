@@ -1,0 +1,1 @@
+{"index": 351591, "D": "to tranquilize or calm (a person or their emotions); relieve, comfort, or refresh", "S": [], "A": []}

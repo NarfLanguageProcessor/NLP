@@ -1,0 +1,1 @@
+{"index": 300422, "D": "shining or radiant, as the sun.", "S": ["bright ", "brilliant ", "conspicuous ", "glistening ", "incandescent ", "luminous ", "lustrous ", "radiant ", "scintillating ", "shiny ", "sparkling "], "A": ["cloudy ", "dark ", "dim ", "dull ", "gloomy ", "matte ", "normal ", "obscure ", "stupid ", "typical ", "unaware ", "unintelligent ", "rough "]}

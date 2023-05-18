@@ -1,0 +1,1 @@
+{"index": 103315, "D": "the time when the sun crosses the plane of the earth's equator, making night and day of approximately equal length all over the earth and occurring about March 21 (vernal equinox,  or spring equinox ) and September 22 (autumnal equinox ).", "S": [], "A": []}

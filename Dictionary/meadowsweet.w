@@ -1,0 +1,1 @@
+{"index": 181686, "D": "any plant belonging to the genus Spiraea, of the rose family, especially S. latifolia, having white or pink flowers.", "S": [], "A": []}

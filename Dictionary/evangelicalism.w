@@ -1,0 +1,1 @@
+{"index": 105988, "D": "evangelical  doctrines or principles.", "S": [], "A": []}

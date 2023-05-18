@@ -1,0 +1,1 @@
+{"index": 49595, "D": "the wormlike larva of a butterfly or a moth.", "S": ["butterfly ", "canker ", "larva ", "moth ", "tractor "], "A": []}

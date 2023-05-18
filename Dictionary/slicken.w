@@ -1,0 +1,1 @@
+{"index": 294010, "D": "to make or become slick. ", "S": [], "A": []}

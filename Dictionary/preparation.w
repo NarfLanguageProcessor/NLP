@@ -1,0 +1,1 @@
+{"index": 248742, "D": "a proceeding, measure, or provision by which one prepares for something", "S": ["arrangement ", "construction ", "education ", "establishment ", "formation ", "groundwork ", "measure ", "plan ", "precaution ", "preparedness ", "qualification ", "rehearsal ", "study ", "training "], "A": ["ignorance "]}

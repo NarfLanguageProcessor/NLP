@@ -1,0 +1,1 @@
+{"index": 296355, "D": "to make soft  or softer. ", "S": ["demulcent ", "emollient ", "lenitive ", "mollifying ", "pianissimo "], "A": []}

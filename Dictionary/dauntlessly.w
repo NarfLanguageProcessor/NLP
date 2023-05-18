@@ -1,0 +1,1 @@
+{"index": 77279, "D": "not to be daunted  or intimidated; fearless; intrepid; bold", "S": ["brazenly ", "courageously ", "daringly ", "eagerly ", "fearlessly "], "A": ["cautiously ", "cowardly ", "fearfully "]}

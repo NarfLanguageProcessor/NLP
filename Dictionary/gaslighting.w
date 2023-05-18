@@ -1,0 +1,1 @@
+{"index": 122386, "D": "the use of psychological manipulation to undermine a person\u2019s faith in their own judgment, memory, or sanity", "S": [], "A": []}

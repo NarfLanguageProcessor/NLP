@@ -1,0 +1,1 @@
+{"index": 211792, "D": "(used as an expression of surprise, pain, disapprobation, etc.)", "S": ["alas ", "dear me ", "oh-oh ", "uh-oh ", "whoops "], "A": []}

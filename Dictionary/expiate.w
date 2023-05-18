@@ -1,0 +1,1 @@
+{"index": 107763, "D": "to atone for; make amends or reparation for", "S": ["absolve ", "amend ", "appease ", "atone ", "compensate ", "correct ", "excuse ", "forgive ", "rectify ", "redeem ", "redress ", "remedy "], "A": ["blame ", "charge ", "damage ", "forfeit ", "harm ", "injure ", "lose ", "punish ", "worsen "]}

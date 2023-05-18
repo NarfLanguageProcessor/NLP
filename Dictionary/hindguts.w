@@ -1,0 +1,1 @@
+{"index": 139676, "D": "the posterior colon of arthropods, composed of ectodermal, chitin-lined tissue.", "S": [], "A": []}

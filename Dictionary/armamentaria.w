@@ -1,0 +1,1 @@
+{"index": 19878, "D": "the aggregate  of equipment, methods, and techniques available to one for carrying out one's duties", "S": [], "A": []}

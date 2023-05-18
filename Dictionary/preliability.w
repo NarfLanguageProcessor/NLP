@@ -1,0 +1,1 @@
+{"index": 248206, "D": "liabilities as detailed on a balance sheet, especially in relation to assets and capital.", "S": [], "A": []}

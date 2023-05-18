@@ -1,0 +1,1 @@
+{"index": 220913, "D": "discourteous or impolite, especially in a deliberate way", "S": [], "A": []}

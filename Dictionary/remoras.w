@@ -1,0 +1,1 @@
+{"index": 267447, "D": "any of several fishes of the family Echeneididae, having on the top of the head a sucking disk by which they can attach themselves to sharks, turtles, ships, and other moving objects.", "S": [], "A": []}

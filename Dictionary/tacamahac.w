@@ -1,0 +1,1 @@
+{"index": 314951, "D": "any of several resinous substances, used in incenses, ointments, etc.", "S": [], "A": []}

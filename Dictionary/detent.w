@@ -1,0 +1,1 @@
+{"index": 83116, "D": "a mechanism that temporarily keeps one part in a certain position relative to that of another, and can be released by applying force to one of the parts.", "S": [], "A": []}

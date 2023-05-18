@@ -1,0 +1,1 @@
+{"index": 122736, "D": "the vertical post  on which a gate  is suspended by hinges, or the post  against which the gate  is closed.", "S": [], "A": []}

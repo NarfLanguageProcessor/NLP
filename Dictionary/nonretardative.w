@@ -1,0 +1,1 @@
+{"index": 206832, "D": "the act of retarding or state of being retarded.", "S": [], "A": []}

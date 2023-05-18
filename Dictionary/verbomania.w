@@ -1,0 +1,1 @@
+{"index": 358419, "D": [], "S": ["circumlocution ", "diffuseness ", "diffusion ", "fecundity ", "garrulity ", "logorrhea ", "loquaciousness ", "loquacity ", "officialese ", "periphrasis ", "pleonasm ", "prolixity ", "redundancy ", "tautology ", "verbiage ", "verbosity "], "A": ["conciseness "]}

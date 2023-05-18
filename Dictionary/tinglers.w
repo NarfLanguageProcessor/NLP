@@ -1,0 +1,1 @@
+{"index": 323992, "D": "to have a sensation of slight prickles, stings, or tremors, as from cold, a sharp blow, excitement, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 78507, "D": "sloping downward.", "S": [], "A": []}

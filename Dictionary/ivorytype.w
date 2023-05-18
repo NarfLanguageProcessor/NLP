@@ -1,0 +1,1 @@
+{"index": 159742, "D": "an antiquated photoprinting technique in which two prints are made of the same image, and the weaker one, made transparent with varnish and colored on the back, is laid over the stronger one.", "S": [], "A": []}

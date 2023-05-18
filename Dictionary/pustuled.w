@@ -1,0 +1,1 @@
+{"index": 257254, "D": "a small elevation of the skin containing pus.", "S": [], "A": []}

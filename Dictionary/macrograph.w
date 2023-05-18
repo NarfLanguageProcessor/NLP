@@ -1,0 +1,1 @@
+{"index": 176970, "D": "a representation of an object that is of the same size as or larger than the object.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 210229, "D": "the state of being oblique. ", "S": ["straying "], "A": []}

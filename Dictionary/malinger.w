@@ -1,0 +1,1 @@
+{"index": 178493, "D": "to pretend illness, especially in order to shirk one's duty, avoid work, etc.", "S": ["dodge ", "fake ", "loaf ", "sham ", "shirk "], "A": ["do ", "face ", "meet "]}

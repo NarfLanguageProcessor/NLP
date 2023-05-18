@@ -1,0 +1,1 @@
+{"index": 94089, "D": "to drop or let fall in a mass; fling down or drop heavily or suddenly", "S": ["depot "], "A": []}

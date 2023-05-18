@@ -1,0 +1,1 @@
+{"index": 236058, "D": "a white, crystalline, bitter, poisonous, central nervous system stimulant, C30H34O13, obtained from the seeds of Anamirta cocculus", "S": [], "A": []}

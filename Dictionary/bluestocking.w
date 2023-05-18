@@ -1,0 +1,1 @@
+{"index": 36782, "D": "a woman with considerable scholarly, literary, or intellectual ability or interest.", "S": ["elite ", "noble ", "pedigreed ", "privileged ", "purebred ", "refined ", "silk-stocking ", "upper-class ", "well-born ", "well-bred "], "A": ["bourgeois ", "common ", "low ", "lower-class ", "unrefined "]}

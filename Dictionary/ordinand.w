@@ -1,0 +1,1 @@
+{"index": 214240, "D": "a candidate for ordination.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111521, "D": "an alloy  of iron with some element other than carbon, used to introduce the element in the manufacture of steel.", "S": [], "A": []}

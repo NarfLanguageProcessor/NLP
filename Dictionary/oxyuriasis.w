@@ -1,0 +1,1 @@
+{"index": 222451, "D": "human infection with pinworms.", "S": [], "A": []}

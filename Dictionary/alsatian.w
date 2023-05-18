@@ -1,0 +1,1 @@
+{"index": 9407, "D": "of or relating to Alsace  or its inhabitants.", "S": [], "A": []}

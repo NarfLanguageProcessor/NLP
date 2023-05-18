@@ -1,0 +1,1 @@
+{"index": 21379, "D": "of, relating to, or producing a particular aspect  or aspects. ", "S": [], "A": []}

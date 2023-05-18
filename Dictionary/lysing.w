@@ -1,0 +1,1 @@
+{"index": 173441, "D": "to cause dissolution or destruction of cells by lysins.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 258078, "D": "any group of four persons or things.", "S": ["quadrivium ", "quadrumvirate ", "quadruple ", "quadruplet ", "quadruplets ", "quartet ", "quaternary ", "quaternion ", "quaternity ", "tetrad ", "tetralogy "], "A": []}

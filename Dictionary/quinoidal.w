@@ -1,0 +1,1 @@
+{"index": 258748, "D": "of or resembling quinone. ", "S": [], "A": []}

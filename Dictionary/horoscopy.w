@@ -1,0 +1,1 @@
+{"index": 143940, "D": "the casting or taking of horoscopes. ", "S": ["augury ", "occultism ", "palmistry ", "prediction ", "premonition ", "prognostication ", "prophecy ", "soothsaying "], "A": []}

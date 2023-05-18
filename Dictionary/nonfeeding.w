@@ -1,0 +1,1 @@
+{"index": 203991, "D": "the act of a person or thing that feeds. ", "S": [], "A": []}

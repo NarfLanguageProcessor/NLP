@@ -1,0 +1,1 @@
+{"index": 125443, "D": "a very common mineral, hydrated calcium sulfate, CaSO4\u22c52H2O, occurring in crystals and in masses, soft enough to be scratched by the fingernail", "S": ["adhesive ", "cement ", "glue ", "lime ", "mortar ", "stucco "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 125330, "D": "the pistil or pistils of a flower; the female parts.", "S": [], "A": []}

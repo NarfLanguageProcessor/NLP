@@ -1,0 +1,1 @@
+{"index": 159000, "D": "(in the study of the geographical distribution of a dialect) a line drawn on a map to indicate areas having common linguistic characteristics.", "S": [], "A": []}

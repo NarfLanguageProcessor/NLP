@@ -1,0 +1,1 @@
+{"index": 271295, "D": "a person or thing that reverts. ", "S": [], "A": []}

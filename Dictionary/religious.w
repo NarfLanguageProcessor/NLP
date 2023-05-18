@@ -1,0 +1,1 @@
+{"index": 266952, "D": "of, relating to, or concerned with religion", "S": ["clerical ", "devout ", "doctrinal ", "holy ", "moral ", "pious ", "sacred ", "sectarian ", "spiritual ", "theological "], "A": ["irreligious ", "irreverent ", "unholy ", "unsacred "]}

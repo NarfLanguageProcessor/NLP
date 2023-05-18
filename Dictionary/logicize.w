@@ -1,0 +1,1 @@
+{"index": 174622, "D": "to make logical; give logical form to", "S": [], "A": []}

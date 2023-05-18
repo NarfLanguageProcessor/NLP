@@ -1,0 +1,1 @@
+{"index": 10569, "D": "containing an amyl group;  pentyl.", "S": [], "A": []}

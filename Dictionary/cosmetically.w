@@ -1,0 +1,1 @@
+{"index": 70011, "D": "a powder, lotion, lipstick, rouge, or other preparation for beautifying the face, skin, hair, nails, etc.", "S": [], "A": []}

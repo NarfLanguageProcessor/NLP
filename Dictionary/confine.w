@@ -1,0 +1,1 @@
+{"index": 65916, "D": "to enclose within bounds; limit or restrict", "S": ["constrain ", "detain ", "hinder ", "imprison ", "incarcerate ", "jail ", "restrain ", "restrict "], "A": ["free ", "let go ", "liberate ", "release ", "allow ", "ignore ", "increase ", "loose ", "loosen ", "neglect ", "open ", "permit ", "unbind ", "unfasten "]}

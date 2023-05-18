@@ -1,0 +1,1 @@
+{"index": 217815, "D": "to disappear from sight, especially quickly; become invisible", "S": [], "A": []}

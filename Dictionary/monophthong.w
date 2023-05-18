@@ -1,0 +1,1 @@
+{"index": 192522, "D": "a vowel retaining the same quality throughout its duration.", "S": [], "A": []}

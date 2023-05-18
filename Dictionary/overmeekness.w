@@ -1,0 +1,1 @@
+{"index": 220221, "D": "the quality of being patient or quiet in nature", "S": [], "A": []}

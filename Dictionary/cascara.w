@@ -1,0 +1,1 @@
+{"index": 48773, "D": "a shrub, Rhamnus purshiana (or Frangula purshiana), of the buckthorn family,  of the Pacific coast of the United States, having finely toothed leaves and flowers in umbels and yielding cascara sagrada. ", "S": [], "A": []}

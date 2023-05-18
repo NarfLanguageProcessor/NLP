@@ -1,0 +1,1 @@
+{"index": 75679, "D": "to use profanity; curse; swear. ", "S": [], "A": []}

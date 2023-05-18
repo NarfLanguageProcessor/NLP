@@ -1,0 +1,1 @@
+{"index": 128710, "D": "(used as an exclamation expressing surprise or sudden strong feeling.)", "S": ["gratitude ", "recognition "], "A": ["condemnation ", "disapproval "]}

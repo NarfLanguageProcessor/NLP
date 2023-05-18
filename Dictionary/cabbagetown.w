@@ -1,0 +1,1 @@
+{"index": 43886, "D": "a depressed or dilapidated urban area, especially a city slum.", "S": [], "A": []}

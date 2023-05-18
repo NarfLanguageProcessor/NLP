@@ -1,0 +1,1 @@
+{"index": 3744, "D": "a benign tumor originating in a secretory gland.", "S": [], "A": []}

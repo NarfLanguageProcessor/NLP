@@ -1,0 +1,1 @@
+{"index": 52601, "D": "a small book or pamphlet of popular tales, ballads, etc., formerly hawked about by chapmen.", "S": [], "A": []}

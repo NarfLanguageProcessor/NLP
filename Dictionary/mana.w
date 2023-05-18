@@ -1,0 +1,1 @@
+{"index": 178863, "D": "a generalized, supernatural force or power, which may be concentrated in objects or people.", "S": [], "A": []}

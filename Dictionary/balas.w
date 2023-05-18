@@ -1,0 +1,1 @@
+{"index": 26736, "D": "a rose-red variety of spinel.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 211688, "D": "children or young of a particular parent or progenitor.", "S": ["baby ", "brood ", "cub ", "descendant ", "generation ", "heir ", "kid ", "progeny ", "pup "], "A": ["adult ", "cause ", "origin ", "parent ", "source "]}

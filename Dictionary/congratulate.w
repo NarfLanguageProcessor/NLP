@@ -1,0 +1,1 @@
+{"index": 66225, "D": "to express pleasure to (a person), as on a happy occasion", "S": ["applaud ", "laud ", "praise ", "salute "], "A": ["blame ", "condemn "]}

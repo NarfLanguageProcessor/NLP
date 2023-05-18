@@ -1,0 +1,1 @@
+{"index": 208671, "D": "variant of noso-  before a vowel.", "S": ["antithesis ", "renunciation ", "repudiation "], "A": ["OK ", "allowance ", "approval ", "permission ", "ratification ", "same ", "sanction ", "similarity "]}

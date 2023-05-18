@@ -1,0 +1,1 @@
+{"index": 368198, "D": "(of a wind) blowing strongly with a roaring sound", "S": [], "A": []}

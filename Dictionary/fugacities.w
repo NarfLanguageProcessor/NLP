@@ -1,0 +1,1 @@
+{"index": 119805, "D": "fleeting; transient", "S": [], "A": []}

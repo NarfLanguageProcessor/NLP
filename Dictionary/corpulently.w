@@ -1,0 +1,1 @@
+{"index": 69567, "D": "large or bulky of body; portly; stout; fat.", "S": [], "A": []}

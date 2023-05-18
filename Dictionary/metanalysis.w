@@ -1,0 +1,1 @@
+{"index": 184838, "D": "a shift in the division between words in a phrase; misdivision", "S": [], "A": []}

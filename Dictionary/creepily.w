@@ -1,0 +1,1 @@
+{"index": 72563, "D": "having or causing a creeping  sensation of the skin, as from horror or fear", "S": [], "A": []}

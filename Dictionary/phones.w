@@ -1,0 +1,1 @@
+{"index": 234676, "D": "telephone (def. 1). ", "S": ["call up ", "contact ", "dial "], "A": []}

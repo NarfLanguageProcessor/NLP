@@ -1,0 +1,1 @@
+{"index": 305551, "D": "a portable or fixed apparatus that furnishes heat for warmth, cooking, etc., commonly using coal, oil, gas, wood, or electricity as a source of power.", "S": [], "A": []}

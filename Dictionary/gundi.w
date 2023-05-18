@@ -1,0 +1,1 @@
+{"index": 131338, "D": "either of two small desert rodents, Ctenodactylus gundi or C. vali, of northern Africa, living in dry, rocky areas and characterized by comblike bristles on the hind feet.", "S": [], "A": []}

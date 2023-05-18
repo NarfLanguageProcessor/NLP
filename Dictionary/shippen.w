@@ -1,0 +1,1 @@
+{"index": 288448, "D": "a cow barn or cattle shed.", "S": [], "A": []}

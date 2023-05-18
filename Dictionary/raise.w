@@ -1,0 +1,1 @@
+{"index": 260134, "D": "to move to a higher position; lift up; elevate", "S": ["boost ", "hike ", "increment "], "A": ["decrease ", "decline ", "deduction ", "fall ", "shrinkage ", "withdrawal "]}

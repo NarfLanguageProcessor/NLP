@@ -1,0 +1,1 @@
+{"index": 267950, "D": "to place or arrange (articles) in (a container) again or in a different way", "S": [], "A": []}

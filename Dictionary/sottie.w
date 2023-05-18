@@ -1,0 +1,1 @@
+{"index": 297758, "D": "a satirical and topical comedy employing actors dressed in traditional fool's costume, popular in France during the late Middle Ages, and often used as a curtain raiser to mystery and morality plays.", "S": [], "A": []}

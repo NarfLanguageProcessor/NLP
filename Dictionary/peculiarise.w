@@ -1,0 +1,1 @@
+{"index": 228697, "D": "to make peculiar,  unusual, distinguished, etc.", "S": [], "A": []}

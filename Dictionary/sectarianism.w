@@ -1,0 +1,1 @@
+{"index": 282839, "D": "sectarian  spirit or tendencies; excessive devotion to a particular sect, especially in religion.", "S": ["bias ", "discrimination ", "fanaticism ", "injustice ", "racism ", "sexism ", "unfairness "], "A": ["fairness ", "impartiality "]}

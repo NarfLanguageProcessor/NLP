@@ -1,0 +1,1 @@
+{"index": 86437, "D": "a colorless liquid, C2Cl4O2, usually derived from methyl formate or methyl chloroformate by chlorination", "S": [], "A": []}

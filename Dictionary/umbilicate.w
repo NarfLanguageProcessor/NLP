@@ -1,0 +1,1 @@
+{"index": 334176, "D": "having the form of an umbilicus or navel.", "S": ["umbilical "], "A": []}

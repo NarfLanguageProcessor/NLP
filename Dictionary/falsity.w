@@ -1,0 +1,1 @@
+{"index": 109553, "D": "the quality or condition of being false;  incorrectness; untruthfulness; treachery.", "S": ["deceit ", "duplicity ", "falsehood ", "inaccuracy ", "insincerity ", "mendacity "], "A": ["honesty ", "truth ", "certainty ", "constancy ", "faithfulness ", "fidelity ", "forthrightness ", "loyalty ", "reality ", "right "]}

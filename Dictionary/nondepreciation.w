@@ -1,0 +1,1 @@
+{"index": 202930, "D": "decrease in value due to wear and tear, decay, decline in price, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 213636, "D": "a prehensile-tailed marsupial, Didelphis virginiana, of the eastern U.S., the female having an abdominal pouch in which its young are carried", "S": ["bandicoot ", "euro ", "kangaroo ", "koala ", "possum ", "wallaby ", "wombat "], "A": []}

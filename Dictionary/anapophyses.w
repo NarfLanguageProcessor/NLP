@@ -1,0 +1,1 @@
+{"index": 11932, "D": "a small process of a vertebra, especially of a lumbar or thoracic vertebra.", "S": [], "A": []}

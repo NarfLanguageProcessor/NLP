@@ -1,0 +1,1 @@
+{"index": 59958, "D": "pertaining to or coming to a climax", "S": ["crowning ", "decisive ", "vital "], "A": ["anticlimactic ", "trivial "]}

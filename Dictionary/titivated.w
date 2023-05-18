@@ -1,0 +1,1 @@
+{"index": 324715, "D": "to make smart or spruce", "S": ["attire ", "clothe ", "deck out ", "embellish ", "spruce up "], "A": ["dress down "]}

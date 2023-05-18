@@ -1,0 +1,1 @@
+{"index": 168437, "D": "(formerly) port2 (def. 1). ", "S": ["port ", "south "], "A": ["right "]}

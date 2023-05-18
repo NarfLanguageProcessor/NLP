@@ -1,0 +1,1 @@
+{"index": 93070, "D": "of the nature of or characterized by drifts. ", "S": [], "A": []}

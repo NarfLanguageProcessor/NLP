@@ -1,0 +1,1 @@
+{"index": 298147, "D": "the flying of manned or unmanned spacecraft into or in outer space. ", "S": [], "A": []}

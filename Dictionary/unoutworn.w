@@ -1,0 +1,1 @@
+{"index": 347290, "D": "out-of-date, outmoded, or obsolete", "S": [], "A": []}

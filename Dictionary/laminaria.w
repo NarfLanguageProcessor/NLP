@@ -1,0 +1,1 @@
+{"index": 167710, "D": "any of various often very large kelps of the genus Laminaria, some species of which are the source of algins used as thickening or stabilizing agents in foodstuffs and other products.", "S": [], "A": []}

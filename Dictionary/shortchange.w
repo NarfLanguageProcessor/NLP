@@ -1,0 +1,1 @@
+{"index": 288901, "D": "to give less than the correct change to.", "S": ["bamboozle ", "bilk ", "deceive ", "defraud ", "diddle ", "double-deal ", "dupe ", "finagle ", "fleece ", "flimflam ", "gyp ", "hose ", "mislead ", "rip off ", "rook ", "sandbag ", "scam ", "screw ", "shaft ", "shortweight ", "stiff ", "sting ", "swindle ", "take ", "trick "], "A": []}

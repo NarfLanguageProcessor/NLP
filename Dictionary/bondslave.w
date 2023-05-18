@@ -1,0 +1,1 @@
+{"index": 37826, "D": "a person held in bondage.", "S": ["articled servant ", "bondsman ", "chattel ", "serf ", "servant ", "slave "], "A": []}

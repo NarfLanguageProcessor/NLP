@@ -1,0 +1,1 @@
+{"index": 52434, "D": "an infectious venereal ulcer with a soft base.", "S": ["AIDS ", "acquired immune deficiency syndrome ", "gonorrhea ", "herpes ", "syphilis ", "the clap ", "venereal disease "], "A": []}

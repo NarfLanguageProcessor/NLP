@@ -1,0 +1,1 @@
+{"index": 73818, "D": "having the grain running transversely or diagonally, or having an irregular or gnarled grain, as timber.", "S": [], "A": []}

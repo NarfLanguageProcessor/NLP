@@ -1,0 +1,1 @@
+{"index": 91969, "D": "the quality or condition of being double. ", "S": ["polarity "], "A": []}

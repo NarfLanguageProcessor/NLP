@@ -1,0 +1,1 @@
+{"index": 310917, "D": "to add together; total; sum  up.", "S": ["calculate ", "cast ", "compute ", "count ", "enumerate ", "figure ", "reckon ", "sum ", "tally ", "tot ", "total ", "tote "], "A": ["estimate ", "guess ", "subtract "]}

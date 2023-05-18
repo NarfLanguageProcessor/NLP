@@ -1,0 +1,1 @@
+{"index": 72832, "D": "a crack forming an opening; cleft; rift; fissure.", "S": [], "A": []}

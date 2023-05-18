@@ -1,0 +1,1 @@
+{"index": 137581, "D": "different in kind; unlike; incongruous.", "S": ["array ", "assortment ", "change ", "collection ", "combo ", "conglomeration ", "departure ", "discrepancy ", "disparateness ", "divergency ", "diverseness ", "diversification ", "diversity ", "fluctuation ", "heterogeneity ", "incongruity ", "intermixture ", "medley "], "A": []}

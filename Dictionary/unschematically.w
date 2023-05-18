@@ -1,0 +1,1 @@
+{"index": 350478, "D": "pertaining to or of the nature of a schema,  diagram, or scheme;  diagrammatic.", "S": [], "A": []}

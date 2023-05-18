@@ -1,0 +1,1 @@
+{"index": 348875, "D": "to render putrid;  cause to rot or decay with an offensive odor.", "S": [], "A": []}

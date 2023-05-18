@@ -1,0 +1,1 @@
+{"index": 248005, "D": "to put or place in", "S": [], "A": []}

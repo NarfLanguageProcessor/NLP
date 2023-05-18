@@ -1,0 +1,1 @@
+{"index": 320049, "D": "pertaining to or having the form of a tetrahedron. ", "S": [], "A": []}

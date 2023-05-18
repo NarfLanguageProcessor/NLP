@@ -1,0 +1,1 @@
+{"index": 197902, "D": "a male given name, form of Edward. ", "S": ["carp ", "complain ", "fret ", "gripe ", "grumble "], "A": ["be happy ", "compliment ", "dislike ", "hate ", "praise "]}

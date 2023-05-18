@@ -1,0 +1,1 @@
+{"index": 350458, "D": "having a scar left by a healed wound, sore, or burn", "S": ["intact ", "undamaged ", "uninjured ", "unscathed ", "untouched "], "A": ["damaged ", "harmed ", "hurt ", "injured "]}

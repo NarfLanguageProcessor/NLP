@@ -1,0 +1,1 @@
+{"index": 119197, "D": "a fringe of curled or frizzed hair, usually artificial, worn on the forehead by women.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 96978, "D": "a handheld, needlelike cautery  heated by an electric current.", "S": [], "A": []}

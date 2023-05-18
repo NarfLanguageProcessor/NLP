@@ -1,0 +1,1 @@
+{"index": 318253, "D": "a binocular optical instrument used for stereoscopic viewing of distant objects; a small range finder.", "S": [], "A": []}

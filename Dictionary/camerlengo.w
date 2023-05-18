@@ -1,0 +1,1 @@
+{"index": 45699, "D": "the cardinal appointed treasurer of the Holy See, who, upon the death of the pope, presides over the conclave that elects the new pope.", "S": [], "A": []}

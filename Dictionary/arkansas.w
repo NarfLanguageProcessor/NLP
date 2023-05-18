@@ -1,0 +1,1 @@
+{"index": 19842, "D": "state in the south central United States. 53,103 sq. mi. (137,537 sq. km). Capital", "S": ["Bear State ", "Bowie State ", "Ozark country ", "Razorback State ", "Toothpick State ", "Wonder State ", "land of opportunity ", "natural state "], "A": []}

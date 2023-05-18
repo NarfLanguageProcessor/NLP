@@ -1,0 +1,1 @@
+{"index": 129918, "D": "a manual of magic or witchcraft used by witches and sorcerers.", "S": [], "A": []}

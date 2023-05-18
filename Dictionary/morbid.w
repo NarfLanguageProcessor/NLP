@@ -1,0 +1,1 @@
+{"index": 193321, "D": "suggesting an unhealthy mental state or attitude; unwholesomely gloomy, sensitive, extreme, etc.", "S": ["ghastly ", "ghoulish ", "grim ", "gruesome ", "macabre ", "melancholy ", "pessimistic ", "unnatural "], "A": ["cheerful ", "happy ", "joyful ", "pleasant "]}

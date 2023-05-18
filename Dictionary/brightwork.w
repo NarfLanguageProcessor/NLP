@@ -1,0 +1,1 @@
+{"index": 40784, "D": "polished metal parts, as on a ship or automobile.", "S": [], "A": []}

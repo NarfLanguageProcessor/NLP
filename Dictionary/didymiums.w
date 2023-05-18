@@ -1,0 +1,1 @@
+{"index": 85078, "D": "a mixture of neodymium  and praseodymium, formerly thought to be an element. Symbol", "S": [], "A": []}

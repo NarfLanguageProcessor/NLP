@@ -1,0 +1,1 @@
+{"index": 280959, "D": "covered with a hardened tissue, as scales.", "S": [], "A": []}

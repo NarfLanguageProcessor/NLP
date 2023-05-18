@@ -1,0 +1,1 @@
+{"index": 75620, "D": "money, especially when reserved for some special use.", "S": [], "A": []}

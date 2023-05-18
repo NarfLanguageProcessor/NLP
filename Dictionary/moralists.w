@@ -1,0 +1,1 @@
+{"index": 193285, "D": "a person who teaches or inculcates morality. ", "S": [], "A": []}

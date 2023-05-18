@@ -1,0 +1,1 @@
+{"index": 90945, "D": "a person who directs the operation of a crane whilst riding on an object being lifted by it", "S": [], "A": []}

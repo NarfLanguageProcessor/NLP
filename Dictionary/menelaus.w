@@ -1,0 +1,1 @@
+{"index": 183306, "D": "a king of Sparta, the husband of Helen and brother of Agamemnon, to whom he appealed for an army against Troy in order to recover Helen from her abductor, Paris.", "S": [], "A": []}

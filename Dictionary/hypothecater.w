@@ -1,0 +1,1 @@
+{"index": 141262, "D": "to pledge to a creditor as security without delivering over; mortgage.", "S": [], "A": []}

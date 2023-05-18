@@ -1,0 +1,1 @@
+{"index": 286752, "D": "being more than two but fewer than many in number or kind", "S": ["scattering ", "smattering "], "A": ["lot "]}

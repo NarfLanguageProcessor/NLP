@@ -1,0 +1,1 @@
+{"index": 16405, "D": "a variant of antivenom. ", "S": ["corrective ", "countermeasure ", "cure ", "remedy "], "A": ["disease "]}

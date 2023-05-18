@@ -1,0 +1,1 @@
+{"index": 186616, "D": "any of the small, fingerlike projections of the surface of an epithelial cell.", "S": [], "A": []}

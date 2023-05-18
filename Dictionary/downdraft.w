@@ -1,0 +1,1 @@
+{"index": 92222, "D": "a downward current, as of air", "S": [], "A": []}

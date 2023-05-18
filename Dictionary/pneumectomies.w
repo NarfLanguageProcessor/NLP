@@ -1,0 +1,1 @@
+{"index": 240782, "D": "pneumonectomy. ", "S": [], "A": []}

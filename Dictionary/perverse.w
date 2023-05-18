@@ -1,0 +1,1 @@
+{"index": 232190, "D": "willfully determined or disposed to go counter to what is expected or desired; contrary. ", "S": ["contradictory ", "wicked "], "A": ["agreeable ", "compliant ", "happy ", "nice ", "reasonable ", "willing "]}

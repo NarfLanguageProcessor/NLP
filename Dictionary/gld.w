@@ -1,0 +1,1 @@
+{"index": 126074, "D": "guilder; guilders.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 267299, "D": "a person or thing that serves to remind. ", "S": ["collectibles "], "A": []}

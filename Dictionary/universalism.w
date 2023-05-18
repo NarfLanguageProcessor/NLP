@@ -1,0 +1,1 @@
+{"index": 345118, "D": "universal  character; universality. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 135352, "D": "the stage or period of greatest vigor, strength, success, etc.; prime", "S": [], "A": []}

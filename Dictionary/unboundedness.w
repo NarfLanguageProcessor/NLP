@@ -1,0 +1,1 @@
+{"index": 336106, "D": "having no limits, borders, or bounds. ", "S": ["boundlessness ", "continuity ", "continuum ", "eternity ", "expanse ", "extent ", "immensity ", "infiniteness ", "infinitude ", "limitlessness ", "myriad ", "perpetuity ", "sempiternity ", "space ", "ubiquity ", "vastness "], "A": []}

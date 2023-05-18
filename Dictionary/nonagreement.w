@@ -1,0 +1,1 @@
+{"index": 201219, "D": "the act of agreeing or of coming to a mutual arrangement.", "S": ["discord ", "dissension ", "disunity ", "objection ", "opposition ", "protest ", "resistance ", "schism ", "strife "], "A": ["acceptance ", "agreement ", "approval ", "concurrence ", "harmony ", "peace ", "accord ", "conformity ", "orthodoxy "]}

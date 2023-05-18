@@ -1,0 +1,1 @@
+{"index": 102813, "D": "pertaining to or of the nature of an episode. ", "S": ["anecdotal ", "disjointed "], "A": ["connected ", "lasting ", "permanent ", "regular ", "unbroken "]}

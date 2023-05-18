@@ -1,0 +1,1 @@
+{"index": 42899, "D": "a swindle in which a person is cheated at gambling, persuaded to buy a nonexistent, unsalable, or worthless object, or otherwise victimized.", "S": [], "A": []}

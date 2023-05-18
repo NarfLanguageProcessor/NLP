@@ -1,0 +1,1 @@
+{"index": 119483, "D": "a cleaving tool having a wedge-shaped blade, with a handle set at right angles to it.", "S": [], "A": []}

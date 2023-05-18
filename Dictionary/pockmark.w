@@ -1,0 +1,1 @@
+{"index": 240955, "D": "scars or pits left by a pustule in smallpox or the like.", "S": ["blemish ", "cavity ", "crater ", "dent ", "dimple ", "pimple ", "welt ", "zit "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 301809, "D": "See squatter (def. 2b)", "S": [], "A": []}

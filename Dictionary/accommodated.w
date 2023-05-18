@@ -1,0 +1,1 @@
+{"index": 1637, "D": "to do a kindness or a favor to; oblige", "S": ["appropriate ", "conformed ", "expedient ", "fair ", "fit ", "good ", "reconciled ", "right "], "A": ["inadequate ", "inappropriate ", "unfair ", "unfit ", "unfitting ", "unjust ", "unsuitable ", "unsuited "]}

@@ -1,0 +1,1 @@
+{"index": 245742, "D": "to consent or agree to in advance", "S": [], "A": []}

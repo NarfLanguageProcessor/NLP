@@ -1,0 +1,1 @@
+{"index": 26371, "D": "any moth of the family Psychidae in its caterpillar phase, in which it wraps itself in a bag of silk, leaves, etc.", "S": [], "A": []}

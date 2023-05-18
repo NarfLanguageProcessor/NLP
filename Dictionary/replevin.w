@@ -1,0 +1,1 @@
+{"index": 268295, "D": "an action for the recovery of goods or chattels wrongfully taken or detained.", "S": ["accusation ", "action ", "argument ", "bill ", "case ", "claim ", "dispute ", "impeachment ", "indictment ", "litigation ", "prosecution ", "suit ", "trial "], "A": []}

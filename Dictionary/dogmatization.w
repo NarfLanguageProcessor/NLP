@@ -1,0 +1,1 @@
+{"index": 90962, "D": "to make dogmatic  assertions; speak or write dogmatically. ", "S": [], "A": []}

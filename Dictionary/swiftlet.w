@@ -1,0 +1,1 @@
+{"index": 314401, "D": "any of several swifts  of the genus Collocalia, of southeastern Asia, the East Indies, and Australia, certain species of which use saliva to construct nests, which are used in making bird's-nest soup.", "S": [], "A": []}

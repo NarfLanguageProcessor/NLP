@@ -1,0 +1,1 @@
+{"index": 361561, "D": "vulgar  behavior or character; vulgarity. ", "S": ["barbarism ", "debasement ", "decay ", "defilement ", "distortion ", "falsification ", "foulness ", "infection ", "noxiousness ", "pollution ", "putrefaction ", "putrescence ", "rot ", "rottenness ", "solecism "], "A": ["development ", "growth "]}

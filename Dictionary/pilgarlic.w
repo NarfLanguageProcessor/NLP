@@ -1,0 +1,1 @@
+{"index": 236618, "D": "a person regarded with mild or pretended contempt or pity.", "S": ["figure of fun ", "laughingstock ", "object of ridicule "], "A": []}

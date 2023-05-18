@@ -1,0 +1,1 @@
+{"index": 327503, "D": "a person who betrays another person, a cause, or any trust.", "S": ["conspirator ", "deserter ", "hypocrite ", "impostor ", "informer ", "renegade ", "spy ", "turncoat "], "A": ["loyalist "]}

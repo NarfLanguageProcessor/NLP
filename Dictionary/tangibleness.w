@@ -1,0 +1,1 @@
+{"index": 316051, "D": "capable of being touched; discernible by the touch; material or substantial.", "S": ["corporeality ", "definiteness ", "distinction ", "embodiment ", "incarnation ", "manifestation ", "materiality ", "objectiveness ", "palpability ", "physicality ", "solidity ", "substantialness ", "tactility "], "A": []}

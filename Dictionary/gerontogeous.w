@@ -1,0 +1,1 @@
+{"index": 124292, "D": "belonging to the Old World.", "S": ["oriental "], "A": []}

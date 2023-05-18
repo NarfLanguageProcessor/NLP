@@ -1,0 +1,1 @@
+{"index": 11933, "D": "of or relating to an anapophysis. ", "S": [], "A": []}

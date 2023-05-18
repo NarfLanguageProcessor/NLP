@@ -1,0 +1,1 @@
+{"index": 176400, "D": "the treatment of fabrics by chemical or mechanical means in order to increase their property to reflect light.", "S": ["gild ", "lacquer "], "A": ["dull ", "reveal ", "strip ", "uncover "]}

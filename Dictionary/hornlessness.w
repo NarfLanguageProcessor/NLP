@@ -1,0 +1,1 @@
+{"index": 143877, "D": "one of the bony, permanent, hollow paired growths, often curved and pointed, that project from the upper part of the head of certain hooved mammals, as cattle, sheep, goats, or antelopes.", "S": [], "A": []}

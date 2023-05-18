@@ -1,0 +1,1 @@
+{"index": 481, "D": "of or like an abyss;  immeasurably deep or great.", "S": [], "A": []}

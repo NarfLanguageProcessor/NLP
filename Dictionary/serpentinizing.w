@@ -1,0 +1,1 @@
+{"index": 286303, "D": "to convert (a mineral or rock) into serpentine. ", "S": [], "A": []}

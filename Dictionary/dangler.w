@@ -1,0 +1,1 @@
+{"index": 76770, "D": "to hang loosely, especially with a jerking or swaying motion", "S": [], "A": []}

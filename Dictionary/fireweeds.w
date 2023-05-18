@@ -1,0 +1,1 @@
+{"index": 113228, "D": "any of various plants appearing in recently burned clearings, as the willow herb, Epilobium angustifolium.", "S": [], "A": []}

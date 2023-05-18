@@ -1,0 +1,1 @@
+{"index": 307731, "D": "a person appointed or authorized to act as a substitute for another or others.", "S": [], "A": []}

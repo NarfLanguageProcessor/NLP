@@ -1,0 +1,1 @@
+{"index": 20274, "D": "an act of arriving;  a coming", "S": ["advent ", "appearance ", "influx ", "landing ", "meeting ", "return "], "A": ["departure "]}

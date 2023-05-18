@@ -1,0 +1,1 @@
+{"index": 298920, "D": "an optical device for measuring wavelengths, deviation of refracted rays, and angles between faces of a prism, especially an instrument (prism spectrometer ) consisting of a slit through which light passes, a collimator, a prism that deviates the light, and a telescope through which the deviated light is viewed and examined.", "S": [], "A": []}

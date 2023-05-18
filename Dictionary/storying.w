@@ -1,0 +1,1 @@
+{"index": 305423, "D": "a narrative, either true or fictitious, in prose or verse, designed to interest, amuse, or instruct the hearer or reader; tale.", "S": [], "A": []}

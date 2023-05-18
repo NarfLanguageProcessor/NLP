@@ -1,0 +1,1 @@
+{"index": 288959, "D": "(in some, especially earlier, classifications) a grouping of four branches of the Uto-Aztecan language family including Numic, Hopi, and several languages of southern California.", "S": [], "A": []}

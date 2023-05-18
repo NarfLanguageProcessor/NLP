@@ -1,0 +1,1 @@
+{"index": 197316, "D": "a European toad, Bufo calamita, that moves by running.", "S": [], "A": []}

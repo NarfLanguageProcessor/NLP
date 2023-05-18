@@ -1,0 +1,1 @@
+{"index": 157642, "D": "Compare lingam (def. 2). ", "S": [], "A": []}

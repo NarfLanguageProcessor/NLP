@@ -1,0 +1,1 @@
+{"index": 85523, "D": "of or relating to a symmetry operation in which the original figure is reconstructed after a 180\u00b0 turn about an axis", "S": [], "A": []}

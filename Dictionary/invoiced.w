@@ -1,0 +1,1 @@
+{"index": 157303, "D": "an itemized bill for goods sold or services provided, containing individual prices, the total charge, and the terms.", "S": ["implicit ", "implied ", "tacit "], "A": ["explicit "]}

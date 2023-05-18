@@ -1,0 +1,1 @@
+{"index": 186892, "D": "(of a nerve) having a myelin sheath;  medullated.", "S": [], "A": []}

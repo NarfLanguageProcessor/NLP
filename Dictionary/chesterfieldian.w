@@ -1,0 +1,1 @@
+{"index": 53940, "D": "of, relating to, or like the 4th Earl of Chesterfield or his writings; elegant; urbane; suave.", "S": [], "A": []}

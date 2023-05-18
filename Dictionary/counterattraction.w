@@ -1,0 +1,1 @@
+{"index": 70660, "D": "a rival or opposite attraction. ", "S": [], "A": []}

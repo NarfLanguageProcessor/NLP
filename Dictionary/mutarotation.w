@@ -1,0 +1,1 @@
+{"index": 196220, "D": "a gradual change in the optical rotation of freshly prepared solutions of reducing sugars.", "S": [], "A": []}

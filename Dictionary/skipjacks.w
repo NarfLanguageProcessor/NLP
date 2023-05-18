@@ -1,0 +1,1 @@
+{"index": 293297, "D": "any of various fishes that leap above the surface of the water, as a tuna, Euthynnus pelamis, or the bonito.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 28582, "D": "of, relating to, or forming a base; fundamental", "S": ["ABC's ", "elements ", "essentials ", "foundation ", "nitty-gritty ", "principles ", "rudiments "], "A": []}

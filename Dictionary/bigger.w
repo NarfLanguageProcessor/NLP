@@ -1,0 +1,1 @@
+{"index": 33727, "D": [], "S": ["more "], "A": ["sicker ", "smaller ", "unhealthy ", "worse "]}

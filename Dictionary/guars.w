@@ -1,0 +1,1 @@
+{"index": 130823, "D": "a plant, Cyamopsis tetragonolobus, of the legume family, grown as a forage crop and for its seeds, which produce a gum (guar gum ) used as a thickening agent and stabilizer in foods and pharmaceuticals and as sizing for paper and cloth.", "S": [], "A": []}

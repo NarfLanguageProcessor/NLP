@@ -1,0 +1,1 @@
+{"index": 344014, "D": "the solid form of water, produced by freezing; frozen water.", "S": [], "A": []}

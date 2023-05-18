@@ -1,0 +1,1 @@
+{"index": 77850, "D": "something that is owed or that one is bound to pay to or perform for another", "S": ["arrears ", "bill ", "capital ", "commitment ", "credit ", "damage ", "deficit ", "due ", "indebtedness ", "liability ", "mortgage ", "obligation ", "price tag ", "receipt "], "A": ["irresponsibility "]}

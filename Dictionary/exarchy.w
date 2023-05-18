@@ -1,0 +1,1 @@
+{"index": 106502, "D": "the office, jurisdiction, or province of an exarch.", "S": [], "A": []}

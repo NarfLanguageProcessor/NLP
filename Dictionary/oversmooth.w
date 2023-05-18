@@ -1,0 +1,1 @@
+{"index": 221197, "D": "free from projections or unevenness of surface; not rough", "S": [], "A": []}

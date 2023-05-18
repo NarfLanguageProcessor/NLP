@@ -1,0 +1,1 @@
+{"index": 176894, "D": "being or having a head with a large cranial capacity.", "S": [], "A": []}

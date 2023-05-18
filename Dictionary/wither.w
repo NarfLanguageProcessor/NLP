@@ -1,0 +1,1 @@
+{"index": 366602, "D": "to shrivel; fade; decay", "S": ["atrophy ", "decay ", "deflate ", "deteriorate ", "disintegrate ", "dry ", "fade ", "languish ", "perish ", "shrink ", "shrivel ", "wane ", "wilt "], "A": ["build ", "develop ", "enlarge ", "expand ", "flourish ", "grow ", "improve ", "rise ", "strengthen ", "free ", "increase ", "loosen "]}

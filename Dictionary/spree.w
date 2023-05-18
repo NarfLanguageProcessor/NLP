@@ -1,0 +1,1 @@
+{"index": 301240, "D": "a lively frolic or outing.", "S": ["binge ", "celebration ", "orgy ", "rampage "], "A": []}

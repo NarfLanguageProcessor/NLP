@@ -1,0 +1,1 @@
+{"index": 100529, "D": "having the same pitch in the tempered scale but written in different notation, as G sharp and A flat.", "S": [], "A": []}

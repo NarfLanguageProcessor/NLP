@@ -1,0 +1,1 @@
+{"index": 341316, "D": "to utter or pronounce, as words; enunciate.", "S": [], "A": []}

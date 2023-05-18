@@ -1,0 +1,1 @@
+{"index": 313083, "D": "to put an end to the activities of (a person, body of persons, etc.)", "S": ["covering ", "masking ", "screening ", "veiling "], "A": ["obvious "]}

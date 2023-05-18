@@ -1,0 +1,1 @@
+{"index": 135567, "D": "of or relating to a civilization characterized by sun worship and megaliths", "S": [], "A": []}

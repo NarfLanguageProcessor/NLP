@@ -1,0 +1,1 @@
+{"index": 185729, "D": "a combining form meaning \u201cmushrooms, fungi,\u201d used in the formation of taxonomic names of fungi, especially classes", "S": [], "A": []}

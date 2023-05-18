@@ -1,0 +1,1 @@
+{"index": 166470, "D": "the vital force lying dormant within one until activated by the practice of yoga, which leads one toward spiritual power and eventual salvation.", "S": [], "A": []}

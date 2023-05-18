@@ -1,0 +1,1 @@
+{"index": 248949, "D": "advancement in rank or position.", "S": [], "A": []}

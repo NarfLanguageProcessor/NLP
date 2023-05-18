@@ -1,0 +1,1 @@
+{"index": 250708, "D": "a factory that prints textiles or other materials.", "S": [], "A": []}

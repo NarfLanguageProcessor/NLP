@@ -1,0 +1,1 @@
+{"index": 318965, "D": "a self-operated portable device used to treat chronic pain by sending electrical impulses through electrodes placed over the painful area.", "S": ["decimal "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 357448, "D": "the state or condition of a vassal. ", "S": ["bondage ", "confinement ", "custody ", "imprisonment ", "incarceration ", "slavery "], "A": ["freedom ", "liberation ", "liberty "]}

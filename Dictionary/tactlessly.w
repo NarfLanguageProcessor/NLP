@@ -1,0 +1,1 @@
+{"index": 315139, "D": "lacking tact;  showing no tact;  undiplomatic; offendingly blunt", "S": ["bluntly ", "crudely ", "harshly "], "A": ["civilly ", "courteously ", "politely "]}

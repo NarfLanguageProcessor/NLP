@@ -1,0 +1,1 @@
+{"index": 48511, "D": "a road or lane of a road for use by automobiles.", "S": [], "A": []}

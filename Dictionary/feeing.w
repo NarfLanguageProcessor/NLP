@@ -1,0 +1,1 @@
+{"index": 110883, "D": "a charge or payment for professional services", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 337274, "D": "to soothe, console, or reassure; bring cheer to", "S": [], "A": []}

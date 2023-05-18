@@ -1,0 +1,1 @@
+{"index": 84798, "D": "a dichogamous condition.", "S": [], "A": []}

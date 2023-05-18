@@ -1,0 +1,1 @@
+{"index": 27120, "D": "Compare balm (def. 1). ", "S": ["lotion ", "ointment ", "potion ", "salve "], "A": []}

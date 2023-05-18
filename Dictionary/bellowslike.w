@@ -1,0 +1,1 @@
+{"index": 31231, "D": "a device for producing a strong current of air, consisting of a chamber that can be expanded to draw in air through a valve and contracted to expel it through a tube.", "S": [], "A": []}

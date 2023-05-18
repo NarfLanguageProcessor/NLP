@@ -1,0 +1,1 @@
+{"index": 104246, "D": "writing desk (def. 1). ", "S": ["davenport ", "secretary "], "A": []}

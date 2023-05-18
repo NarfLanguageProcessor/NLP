@@ -1,0 +1,1 @@
+{"index": 207043, "D": "the process of being taught in a school. ", "S": [], "A": []}

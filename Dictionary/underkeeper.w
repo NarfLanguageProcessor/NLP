@@ -1,0 +1,1 @@
+{"index": 339376, "D": "a person who guards or watches, as at a prison or gate.", "S": [], "A": []}

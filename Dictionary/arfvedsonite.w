@@ -1,0 +1,1 @@
+{"index": 19423, "D": "a sodium-rich amphibole, occurring in green to black crystals in alkalic rocks.", "S": [], "A": []}

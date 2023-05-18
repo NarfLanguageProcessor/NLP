@@ -1,0 +1,1 @@
+{"index": 257820, "D": "having an old-fashioned attractiveness or charm; oddly picturesque", "S": [], "A": []}

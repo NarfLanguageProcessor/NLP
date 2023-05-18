@@ -1,0 +1,1 @@
+{"index": 75811, "D": "a short, heavy, slightly curved sword with a single cutting edge, formerly used by sailors.", "S": ["knife ", "sword "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108559, "D": "pertaining to or affecting the parts of a cell outside the nucleus.", "S": [], "A": []}

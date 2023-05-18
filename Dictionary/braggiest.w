@@ -1,0 +1,1 @@
+{"index": 39642, "D": "given to or characterized by bragging. ", "S": [], "A": []}

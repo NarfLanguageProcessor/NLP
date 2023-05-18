@@ -1,0 +1,1 @@
+{"index": 128367, "D": "a fast-spreading weed, Aegopodium podagraria, of the parsley family, native to Eurasia, having umbels of white flowers.", "S": [], "A": []}

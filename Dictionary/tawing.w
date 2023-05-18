@@ -1,0 +1,1 @@
+{"index": 317242, "D": "a choice or fancy marble used as a shooter.", "S": [], "A": []}

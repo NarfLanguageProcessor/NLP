@@ -1,0 +1,1 @@
+{"index": 330437, "D": "having or using three feet or legs.", "S": [], "A": []}

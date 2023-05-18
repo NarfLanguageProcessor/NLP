@@ -1,0 +1,1 @@
+{"index": 249579, "D": "urgent; demanding immediate attention", "S": ["acute ", "compelling ", "critical ", "crucial ", "demanding ", "dire ", "immediate ", "imperative ", "insistent ", "serious ", "vital "], "A": ["dull ", "inessential ", "optional ", "trivial ", "uncritical ", "unimportant "]}

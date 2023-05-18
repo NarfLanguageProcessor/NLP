@@ -1,0 +1,1 @@
+{"index": 224458, "D": "of or relating to the god Pan.", "S": [], "A": []}

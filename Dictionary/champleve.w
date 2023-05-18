@@ -1,0 +1,1 @@
+{"index": 52378, "D": "of or relating to an enamel piece or enameling technique in which enamel is fused onto the incised or hollowed areas of a metal base.", "S": [], "A": []}

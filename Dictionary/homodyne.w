@@ -1,0 +1,1 @@
+{"index": 143003, "D": "of or relating to reception by a device that generates a varying voltage of the same or nearly the same frequency as the incoming carrier wave and combines it with the incoming signal for detection.", "S": [], "A": []}

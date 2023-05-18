@@ -1,0 +1,1 @@
+{"index": 244009, "D": "the act of confining. ", "S": [], "A": []}

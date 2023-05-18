@@ -1,0 +1,1 @@
+{"index": 142521, "D": "having a space or cavity inside; not solid; empty", "S": [], "A": []}

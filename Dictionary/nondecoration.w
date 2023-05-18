@@ -1,0 +1,1 @@
+{"index": 202738, "D": "something used for decorating;  adornment; embellishment", "S": [], "A": []}

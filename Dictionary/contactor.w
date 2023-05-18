@@ -1,0 +1,1 @@
+{"index": 67237, "D": "a mechanically operated switch for continuously establishing and interrupting an electric power circuit.", "S": [], "A": []}

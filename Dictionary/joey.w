@@ -1,0 +1,1 @@
+{"index": 161521, "D": "any young animal, especially a kangaroo.", "S": [], "A": []}

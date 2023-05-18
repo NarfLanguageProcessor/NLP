@@ -1,0 +1,1 @@
+{"index": 104750, "D": "an estrogenic hormone, C18H21(OH)3, occurring in urine during pregnancy.", "S": [], "A": []}

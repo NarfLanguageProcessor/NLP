@@ -1,0 +1,1 @@
+{"index": 78052, "D": "to remove the carbonyl group from (an organic compound).", "S": [], "A": []}

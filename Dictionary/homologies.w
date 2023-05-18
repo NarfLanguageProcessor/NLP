@@ -1,0 +1,1 @@
+{"index": 143140, "D": "the state of being homologous; homologous relation or correspondence.", "S": ["comparison ", "correlation ", "metaphor ", "parallel "], "A": ["difference ", "dissimilarity ", "unlikeness "]}

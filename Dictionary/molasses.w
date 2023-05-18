@@ -1,0 +1,1 @@
+{"index": 191401, "D": "a thick syrup produced during the refining of sugar or from sorghum, varying from light to dark brown in color.", "S": ["maple syrup "], "A": []}

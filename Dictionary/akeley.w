@@ -1,0 +1,1 @@
+{"index": 7142, "D": "U.S. naturalist, explorer, and sculptor.", "S": [], "A": []}

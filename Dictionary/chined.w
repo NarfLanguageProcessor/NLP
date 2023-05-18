@@ -1,0 +1,1 @@
+{"index": 54591, "D": "a ravine formed in rock by the action of running water.", "S": ["carve ", "divide ", "rip ", "slash ", "slice "], "A": ["combine ", "unite ", "close ", "connect ", "join ", "mend "]}

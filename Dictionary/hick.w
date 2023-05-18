@@ -1,0 +1,1 @@
+{"index": 138293, "D": "an unsophisticated, boorish, and provincial person; rube.", "S": ["backwoodsman ", "boor ", "bumpkin ", "clodhopper ", "hayseed ", "hillbilly ", "redneck ", "rube ", "yokel "], "A": []}

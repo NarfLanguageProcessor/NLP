@@ -1,0 +1,1 @@
+{"index": 198177, "D": "one of the two major regions of Saudi Arabia in the E central part", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 40726, "D": "for a short duration", "S": ["shortly "], "A": ["at length ", "long-windedly ", "permanently ", "verbosely "]}

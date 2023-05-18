@@ -1,0 +1,1 @@
+{"index": 207461, "D": "having or showing mettle, courage, vigor, liveliness, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 21586, "D": "to attack vigorously or violently; assault. ", "S": ["bash ", "berate ", "blast ", "criticize ", "impugn ", "lambaste ", "revile ", "trash ", "vilify "], "A": ["compliment ", "praise ", "uphold ", "exonerate ", "help ", "let go ", "protect ", "retreat ", "surrender ", "yield "]}

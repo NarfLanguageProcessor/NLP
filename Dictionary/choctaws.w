@@ -1,0 +1,1 @@
+{"index": 55293, "D": "a member of a large Muskhogean tribe of North American Indians, formerly living chiefly in southern Mississippi, now in Oklahoma.", "S": ["Choctaw ", "Greek ", "babble ", "baloney ", "gibberish ", "gobbledygook ", "hogwash ", "hokum ", "hooey ", "malarkey ", "mumbo jumbo ", "nonsense ", "rubbish "], "A": []}

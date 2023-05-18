@@ -1,0 +1,1 @@
+{"index": 348609, "D": "unlikely to be favorable or successful, as the weather, a situation, or a career.", "S": [], "A": []}

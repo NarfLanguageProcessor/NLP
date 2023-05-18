@@ -1,0 +1,1 @@
+{"index": 232874, "D": "any of three species of small, aquatic birds of the family Phalaropodidae, resembling sandpipers but having lobate toes.", "S": [], "A": []}

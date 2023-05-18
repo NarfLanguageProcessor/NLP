@@ -1,0 +1,1 @@
+{"index": 69039, "D": "a molecule that is capable of combining with a specific repressor  molecule and activating it, thereby blocking gene transcription.", "S": [], "A": []}

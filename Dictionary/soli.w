@@ -1,0 +1,1 @@
+{"index": 296690, "D": "a combining form meaning \u201calone,\u201d \u201csolitary,\u201d used in the formation of compound words", "S": [], "A": []}

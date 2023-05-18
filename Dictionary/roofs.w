@@ -1,0 +1,1 @@
+{"index": 274218, "D": "the external upper covering of a house or other building.", "S": ["ceiling ", "house "], "A": ["bottom "]}

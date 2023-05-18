@@ -1,0 +1,1 @@
+{"index": 167583, "D": "the quality of being lambent. ", "S": ["bloom ", "blossom ", "brilliance ", "glare ", "gleam ", "glimmer ", "glitter ", "intensity ", "light ", "radiance ", "ray ", "warmth "], "A": ["dark ", "dullness "]}

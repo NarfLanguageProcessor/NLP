@@ -1,0 +1,1 @@
+{"index": 46858, "D": "a South American tailless rodent, Hydrochaeris hydrochaeris, living along the banks of rivers and lakes, having partly webbed feet", "S": [], "A": []}

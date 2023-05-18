@@ -1,0 +1,1 @@
+{"index": 113972, "D": "an old game in which the players snatch raisins, plums, etc., out of burning brandy, and eat them.", "S": [], "A": []}

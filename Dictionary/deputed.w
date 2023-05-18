@@ -1,0 +1,1 @@
+{"index": 81949, "D": "to appoint as one's substitute, representative, or agent.", "S": ["appointed "], "A": []}

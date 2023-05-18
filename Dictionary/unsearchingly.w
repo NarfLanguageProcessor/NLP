@@ -1,0 +1,1 @@
+{"index": 350597, "D": "examining carefully or thoroughly", "S": [], "A": []}

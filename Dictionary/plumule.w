@@ -1,0 +1,1 @@
+{"index": 240498, "D": "the bud of the ascending axis of a plant while still in the embryo.", "S": ["body feather ", "down feather ", "penna ", "plume feather "], "A": []}

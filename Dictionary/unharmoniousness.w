@@ -1,0 +1,1 @@
+{"index": 343525, "D": [], "S": ["deviation ", "difference of opinion ", "discrepancy ", "divergence ", "fluctuation "], "A": ["agreement ", "harmony ", "sameness ", "accord ", "approval ", "authorization ", "concurrence ", "peace ", "ratification ", "similarity ", "stagnation ", "uniformity "]}

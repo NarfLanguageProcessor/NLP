@@ -1,0 +1,1 @@
+{"index": 290620, "D": "a shrub, Elaeagnus commutata (or E. argentea), of north-central North America, having silvery leaves and flowers and silvery, drupelike edible fruit.", "S": [], "A": []}

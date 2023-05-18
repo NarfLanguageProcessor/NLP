@@ -1,0 +1,1 @@
+{"index": 349047, "D": "extremely high or elevated; lofty; exalted", "S": [], "A": []}

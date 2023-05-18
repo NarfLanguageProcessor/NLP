@@ -1,0 +1,1 @@
+{"index": 118037, "D": "having foveae;  pitted.", "S": [], "A": []}

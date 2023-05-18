@@ -1,0 +1,1 @@
+{"index": 175946, "D": "suitcases, trunks, etc.; baggage.", "S": [], "A": []}

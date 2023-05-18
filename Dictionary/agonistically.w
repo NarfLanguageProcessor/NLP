@@ -1,0 +1,1 @@
+{"index": 6372, "D": "combative; striving to overcome in argument.", "S": [], "A": []}

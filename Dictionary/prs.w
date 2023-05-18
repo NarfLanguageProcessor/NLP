@@ -1,0 +1,1 @@
+{"index": 254207, "D": "pairs.", "S": ["PR ", "acclaim ", "admiration ", "applause ", "appreciation ", "approbation ", "commendation ", "esteem ", "favor ", "liking ", "praise ", "puff ", "regard ", "respect ", "strokes ", "stroking ", "wow "], "A": ["blame ", "censure ", "criticism ", "disapproval ", "dislike ", "disregard ", "disrespect ", "hate ", "hatred ", "neglect "]}

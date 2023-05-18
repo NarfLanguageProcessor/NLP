@@ -1,0 +1,1 @@
+{"index": 200914, "D": "a compendium of Greek Orthodox ecclesiastical laws and Byzantine imperial laws that related to ecclesiastical matters.", "S": [], "A": []}

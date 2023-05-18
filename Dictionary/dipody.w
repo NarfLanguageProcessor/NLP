@@ -1,0 +1,1 @@
+{"index": 86647, "D": "a group of two feet in English poetry, in which one of the two accented syllables bears primary stress and the other bears secondary stress, used as a prosodic measurement in iambic, trochaic, and anapestic verse.", "S": [], "A": []}

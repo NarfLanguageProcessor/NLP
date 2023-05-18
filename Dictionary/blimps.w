@@ -1,0 +1,1 @@
+{"index": 36205, "D": "a small, nonrigid airship or dirigible, especially one used chiefly for observation.", "S": ["zeppelin "], "A": []}

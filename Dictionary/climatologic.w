@@ -1,0 +1,1 @@
+{"index": 59976, "D": "the science that deals with the phenomena of climates  or climatic conditions.", "S": [], "A": []}

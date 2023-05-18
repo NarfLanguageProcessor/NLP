@@ -1,0 +1,1 @@
+{"index": 191288, "D": "any of various gold coins of India, introduced in the 16th century by various Mogul princes and later used by the British as the standard gold coin of India.", "S": [], "A": []}

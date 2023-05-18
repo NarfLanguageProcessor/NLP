@@ -1,0 +1,1 @@
+{"index": 65206, "D": "a musical instrument resembling an accordion but having buttonlike keys, hexagonal bellows and ends, and a more limited range.", "S": ["groanbox ", "melodeon ", "squeezebox ", "stomach Steinway ", "windbox "], "A": []}

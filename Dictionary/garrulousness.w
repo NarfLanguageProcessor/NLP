@@ -1,0 +1,1 @@
+{"index": 122301, "D": "excessively talkative in a rambling, roundabout manner, especially about trivial matters.", "S": ["glibness ", "grandiloquence ", "logorrhea ", "long-windedness ", "loquaciousness ", "prolixity ", "talkativeness ", "verboseness ", "verbosity ", "volubility ", "wordiness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 214354, "D": "a specialized part of a cell having some specific function; a cell organ.", "S": [], "A": []}

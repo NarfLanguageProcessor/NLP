@@ -1,0 +1,1 @@
+{"index": 198900, "D": "Compare nettle family. ", "S": ["annoyed ", "bitter ", "enraged ", "exasperated ", "furious ", "heated ", "impassioned ", "indignant ", "irate ", "irritable ", "irritated ", "offended ", "outraged ", "resentful ", "sullen ", "uptight "], "A": ["calm ", "happy ", "mild ", "peaceful ", "pleased "]}

@@ -1,0 +1,1 @@
+{"index": 127340, "D": "desolate; remote; deserted", "S": ["abandoned ", "backward ", "deserted ", "dismal ", "distant ", "empty ", "forgotten ", "forlorn ", "gloomy ", "isolated ", "lonely ", "miserable ", "neglected ", "out-of-the-way ", "remote ", "secluded ", "wicked "], "A": []}

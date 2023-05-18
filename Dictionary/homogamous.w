@@ -1,0 +1,1 @@
+{"index": 143071, "D": "having the stamens and pistils maturing simultaneously (opposed to dichogamous).", "S": [], "A": []}

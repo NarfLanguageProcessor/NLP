@@ -1,0 +1,1 @@
+{"index": 130265, "D": "grotesque character.", "S": [], "A": []}

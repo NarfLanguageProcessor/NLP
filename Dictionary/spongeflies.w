@@ -1,0 +1,1 @@
+{"index": 300746, "D": "any of several insects of the family Sisyridae, the aquatic larvae of which feed on freshwater sponges. ", "S": [], "A": []}

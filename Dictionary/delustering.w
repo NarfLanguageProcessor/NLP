@@ -1,0 +1,1 @@
+{"index": 80309, "D": "a chemical process for reducing the luster  of rayon yarns by adding a finely divided pigment to the spinning solution.", "S": [], "A": []}

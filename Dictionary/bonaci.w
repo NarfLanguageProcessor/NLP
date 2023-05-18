@@ -1,0 +1,1 @@
+{"index": 37762, "D": "any of several edible serranid fishes, as Mycteroperca bonaci.", "S": [], "A": []}

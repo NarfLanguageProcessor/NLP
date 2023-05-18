@@ -1,0 +1,1 @@
+{"index": 70860, "D": "a program or an act of combating guerrilla warfare and subversion.", "S": ["attack ", "reprisal ", "retribution ", "vengeance "], "A": ["forgiveness ", "pardon ", "sympathy "]}

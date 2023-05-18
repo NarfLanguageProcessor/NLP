@@ -1,0 +1,1 @@
+{"index": 9604, "D": "the natural or synthetic oxide of aluminum, Al2O3, occurring in nature in a pure crystal form as corundum.", "S": [], "A": []}

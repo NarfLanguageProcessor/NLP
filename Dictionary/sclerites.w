@@ -1,0 +1,1 @@
+{"index": 280933, "D": "any chitinous, calcareous, or similar hard part, plate, spicule, or the like.", "S": [], "A": []}

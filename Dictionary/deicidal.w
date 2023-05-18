@@ -1,0 +1,1 @@
+{"index": 79775, "D": "a person who kills a god.", "S": [], "A": []}

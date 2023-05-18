@@ -1,0 +1,1 @@
+{"index": 16698, "D": "A very large sauropod dinosaur of the genus Apatosaurus (or Brontosaurus) of the late Jurassic Period. Apatosaurs had a long neck and tail and a relatively small head. See Note at  brontosaurus.", "S": [], "A": []}

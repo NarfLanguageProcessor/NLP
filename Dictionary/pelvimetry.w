@@ -1,0 +1,1 @@
+{"index": 229449, "D": "measurement of the diameters of the female pelvis,  especially the birth canal.", "S": [], "A": []}

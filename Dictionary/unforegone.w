@@ -1,0 +1,1 @@
+{"index": 342516, "D": "that has gone  before; previous; past.", "S": [], "A": []}

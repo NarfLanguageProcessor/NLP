@@ -1,0 +1,1 @@
+{"index": 336416, "D": "of, involving, or using calumny;  slanderous; defamatory.", "S": [], "A": []}

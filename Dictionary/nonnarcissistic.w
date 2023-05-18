@@ -1,0 +1,1 @@
+{"index": 205415, "D": "having an undue fascination with oneself; vain. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 73211, "D": "(of rock) composed of minute or microscopic fragments.", "S": [], "A": []}

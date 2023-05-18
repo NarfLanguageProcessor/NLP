@@ -1,0 +1,1 @@
+{"index": 328524, "D": "anything worthless, useless, or discarded; rubbish. ", "S": ["wrecking "], "A": []}

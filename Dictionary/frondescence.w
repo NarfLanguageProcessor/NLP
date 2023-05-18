@@ -1,0 +1,1 @@
+{"index": 119314, "D": "the process or period of putting forth leaves, as a tree, plant, or the like.", "S": ["vegetation "], "A": []}

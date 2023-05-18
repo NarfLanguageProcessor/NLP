@@ -1,0 +1,1 @@
+{"index": 82521, "D": "according to desert; justly; rightly.", "S": ["appropriately ", "correctly ", "suitably "], "A": ["improperly ", "unduly ", "unsuitably "]}

@@ -1,0 +1,1 @@
+{"index": 264942, "D": "to refresh, especially with food or drink.", "S": [], "A": []}

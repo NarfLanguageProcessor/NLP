@@ -1,0 +1,1 @@
+{"index": 31577, "D": "something that is advantageous or good; an advantage", "S": ["advance ", "aid ", "assist ", "contribute to ", "favor ", "further ", "improve ", "pay ", "pay off ", "promote ", "serve "], "A": ["block ", "decrease ", "halt ", "hinder ", "hurt ", "impede ", "injure ", "obstruct ", "stop ", "thwart ", "worsen "]}

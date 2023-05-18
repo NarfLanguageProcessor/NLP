@@ -1,0 +1,1 @@
+{"index": 26994, "D": "the graphic record produced by a ballistocardiograph.", "S": [], "A": []}

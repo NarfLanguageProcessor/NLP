@@ -1,0 +1,1 @@
+{"index": 277607, "D": "a judge of Israel famous for his great strength. Judges 13\u201316.", "S": ["Gargantua ", "Hercules ", "behemoth ", "cyclops ", "giant ", "goliath ", "leviathan ", "mammoth ", "titan "], "A": []}

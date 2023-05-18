@@ -1,0 +1,1 @@
+{"index": 270521, "D": "any diseased condition of the retina,  especially one that is noninflammatory.", "S": [], "A": []}

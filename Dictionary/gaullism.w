@@ -1,0 +1,1 @@
+{"index": 122831, "D": "a political movement in France led by Charles de Gaulle. ", "S": [], "A": []}

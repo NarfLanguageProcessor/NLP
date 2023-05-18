@@ -1,0 +1,1 @@
+{"index": 223674, "D": "the branch of paleogeography dealing with the study of paleoclimates.", "S": [], "A": []}

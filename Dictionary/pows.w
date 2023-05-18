@@ -1,0 +1,1 @@
+{"index": 245028, "D": "(used to express or indicate a heavy blow or a loud, explosive noise.)", "S": ["force ", "government ", "jurisdiction ", "rule "], "A": ["breach ", "break ", "disadvantage ", "inferiority ", "lack ", "lethargy ", "powerlessness ", "prohibition ", "subordination ", "weakness "]}

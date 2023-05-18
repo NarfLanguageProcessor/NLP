@@ -1,0 +1,1 @@
+{"index": 18856, "D": "the court of appeal of the Province of Canterbury, formerly held under the arches of Bow Church", "S": ["arc ", "archway "], "A": []}

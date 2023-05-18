@@ -1,0 +1,1 @@
+{"index": 333099, "D": "a person employed to instruct another in some branch or branches of learning, especially a private instructor.", "S": [], "A": []}

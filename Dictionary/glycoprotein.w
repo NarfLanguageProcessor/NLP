@@ -1,0 +1,1 @@
+{"index": 126290, "D": "any of a group of complex proteins,  as mucin, containing a carbohydrate combined with a simple protein. ", "S": [], "A": []}

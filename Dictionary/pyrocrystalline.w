@@ -1,0 +1,1 @@
+{"index": 237784, "D": "crystallized from a molten magma or highly heated solution.", "S": [], "A": []}

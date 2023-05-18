@@ -1,0 +1,1 @@
+{"index": 150602, "D": "the act of incurring,  bringing on, or subjecting oneself to something.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158487, "D": "the act of irritating or the state of being irritated.", "S": ["inflammation ", "irritability ", "soreness ", "tenderness "], "A": []}

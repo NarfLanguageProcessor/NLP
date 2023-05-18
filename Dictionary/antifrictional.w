@@ -1,0 +1,1 @@
+{"index": 15285, "D": "something that prevents or reduces friction;  lubricant.", "S": [], "A": []}

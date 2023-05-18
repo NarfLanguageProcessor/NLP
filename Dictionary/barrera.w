@@ -1,0 +1,1 @@
+{"index": 28343, "D": "the wall, usually a red wooden fence, bordering a bullring.", "S": [], "A": []}

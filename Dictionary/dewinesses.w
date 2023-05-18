@@ -1,0 +1,1 @@
+{"index": 83764, "D": "moist with or as if with dew. ", "S": ["brightness ", "inventiveness ", "novelty ", "originality ", "vigor "], "A": ["dullness "]}

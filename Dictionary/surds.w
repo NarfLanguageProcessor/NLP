@@ -1,0 +1,1 @@
+{"index": 313357, "D": "voiceless (opposed to sonant).", "S": [], "A": []}

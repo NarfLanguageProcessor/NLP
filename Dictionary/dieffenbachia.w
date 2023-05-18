@@ -1,0 +1,1 @@
+{"index": 85136, "D": "any of various plants belonging to the genus Dieffenbachia, of the arum family, native to tropical America, often cultivated as houseplants for their decorative foliage.", "S": [], "A": []}

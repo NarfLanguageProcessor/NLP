@@ -1,0 +1,1 @@
+{"index": 18561, "D": "a leafy, shady recess formed by tree branches, shrubs, etc.", "S": [], "A": []}

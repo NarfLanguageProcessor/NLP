@@ -1,0 +1,1 @@
+{"index": 20574, "D": "acute or chronic inflammation of a joint, often accompanied by pain and structural changes and having diverse causes, as infection, crystal deposition, or injury.", "S": [], "A": []}

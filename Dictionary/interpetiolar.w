@@ -1,0 +1,1 @@
+{"index": 155618, "D": "of, relating to, or growing from a petiole. ", "S": [], "A": []}

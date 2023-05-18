@@ -1,0 +1,1 @@
+{"index": 136235, "D": "a parasitic plant, such as mistletoe, that carries out photosynthesis but also obtains food from its host", "S": [], "A": []}

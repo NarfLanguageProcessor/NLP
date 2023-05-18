@@ -1,0 +1,1 @@
+{"index": 98460, "D": "a granular mineral substance consisting typically of corundum mixed with magnetite or hematite, used powdered, crushed, or consolidated for grinding and polishing.", "S": [], "A": []}

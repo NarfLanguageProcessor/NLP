@@ -1,0 +1,1 @@
+{"index": 12294, "D": "a member of a people that comprise the Indigenous population of the Andaman Islands. ", "S": [], "A": []}

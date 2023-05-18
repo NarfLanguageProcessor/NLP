@@ -1,0 +1,1 @@
+{"index": 172633, "D": "to walk with a labored, jerky movement, as when lame.", "S": [], "A": []}

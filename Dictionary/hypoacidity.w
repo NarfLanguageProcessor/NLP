@@ -1,0 +1,1 @@
+{"index": 140761, "D": "acidity  in a lesser degree than is usual or normal, as of the gastric juice.", "S": [], "A": []}

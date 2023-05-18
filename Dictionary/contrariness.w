@@ -1,0 +1,1 @@
+{"index": 67707, "D": "opposite in nature or character; diametrically or mutually opposed", "S": ["antithesis ", "contradiction ", "contradistinction ", "contrariety ", "contrast ", "oppositeness ", "polarity "], "A": ["agreement "]}

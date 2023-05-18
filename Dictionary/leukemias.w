@@ -1,0 +1,1 @@
+{"index": 171121, "D": "any of several cancers of the bone marrow that prevent the normal manufacture of red and white blood cells and platelets, resulting in anemia, increased susceptibility to infection, and impaired blood clotting.", "S": [], "A": []}

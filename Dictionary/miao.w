@@ -1,0 +1,1 @@
+{"index": 185635, "D": "a member of a diverse group of seminomadic farming people of the mountains of southeastern China and adjacent areas of Laos, North Vietnam, and Thailand.", "S": [], "A": []}

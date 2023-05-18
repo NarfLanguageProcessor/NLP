@@ -1,0 +1,1 @@
+{"index": 74703, "D": "a small face forming the bottom of a faceted gem.", "S": [], "A": []}

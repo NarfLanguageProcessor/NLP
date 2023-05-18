@@ -1,0 +1,1 @@
+{"index": 51114, "D": "any of several phosphatides occurring in animal tissue, especially of the brain, and having marked blood-clotting properties.", "S": [], "A": []}

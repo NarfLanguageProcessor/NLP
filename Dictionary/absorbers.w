@@ -1,0 +1,1 @@
+{"index": 1030, "D": "a person or thing that absorbs. ", "S": ["armor ", "buffer ", "bulwark ", "safeguard ", "shelter "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 54089, "D": "a member of a now extinct tribe of South American Indians, having an advanced culture, who lived on a high plateau of Bogot\u00e1, Colombia.", "S": [], "A": []}

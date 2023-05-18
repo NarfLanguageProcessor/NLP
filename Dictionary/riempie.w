@@ -1,0 +1,1 @@
+{"index": 272717, "D": "a leather thong or lace used mainly to make chair seats", "S": [], "A": []}

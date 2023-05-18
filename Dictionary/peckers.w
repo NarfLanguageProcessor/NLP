@@ -1,0 +1,1 @@
+{"index": 228587, "D": "a person or thing that pecks. ", "S": ["snout "], "A": []}

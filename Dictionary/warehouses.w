@@ -1,0 +1,1 @@
+{"index": 362606, "D": "a building, or a part of one, for the storage of goods, merchandise, etc.", "S": ["barn ", "bin ", "depository ", "depot ", "establishment ", "repository ", "shed ", "stockpile ", "stockroom ", "store ", "storehouse "], "A": []}

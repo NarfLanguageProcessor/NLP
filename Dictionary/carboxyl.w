@@ -1,0 +1,1 @@
+{"index": 47572, "D": "containing the carboxyl group. ", "S": [], "A": []}

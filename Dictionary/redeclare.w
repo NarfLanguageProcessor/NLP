@@ -1,0 +1,1 @@
+{"index": 263958, "D": "to make known or state clearly, especially in explicit or formal terms", "S": [], "A": []}

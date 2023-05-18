@@ -1,0 +1,1 @@
+{"index": 336232, "D": "not broken;  whole; intact.", "S": ["always ", "constantly ", "continually ", "daily ", "exactly ", "incessantly ", "normally ", "periodically ", "steadily ", "typically "], "A": ["never "]}

@@ -1,0 +1,1 @@
+{"index": 138972, "D": "a compound containing the univalent group \u2013HS.", "S": [], "A": []}

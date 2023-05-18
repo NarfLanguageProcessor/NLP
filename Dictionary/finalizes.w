@@ -1,0 +1,1 @@
+{"index": 112854, "D": "to put into final  form; complete all the details of.", "S": ["agree ", "conclude ", "decide ", "settle ", "work out ", "wrap up "], "A": ["begin ", "introduce ", "start ", "unsettle "]}

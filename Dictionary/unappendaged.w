@@ -1,0 +1,1 @@
+{"index": 335095, "D": "a subordinate part attached to something; an auxiliary part; addition.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 116113, "D": "a silly or stupid person; a person who lacks judgment or sense.", "S": ["bluffing ", "farce ", "frolicking ", "jesting ", "joshing ", "kidding ", "roughhouse ", "roughhousing ", "sham ", "skylarking ", "spoofing ", "teasing ", "trifling "], "A": ["seriousness "]}

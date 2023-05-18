@@ -1,0 +1,1 @@
+{"index": 31292, "D": "a unit of power ratio, equal to 10 decibels. ", "S": [], "A": []}

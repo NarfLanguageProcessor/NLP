@@ -1,0 +1,1 @@
+{"index": 236590, "D": "hairy or furry.", "S": ["woolly "], "A": []}

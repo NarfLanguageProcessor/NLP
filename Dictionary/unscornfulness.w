@@ -1,0 +1,1 @@
+{"index": 350521, "D": "full of scorn; derisive; contemptuous, He smiled in a scornful way.", "S": [], "A": []}

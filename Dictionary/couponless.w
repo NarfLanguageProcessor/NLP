@@ -1,0 +1,1 @@
+{"index": 71277, "D": "a portion of a certificate, ticket, label, advertisement, or the like, set off from the main body by dotted lines or the like to emphasize its separability, entitling the holder to something, as a gift or discount, or for use as an order blank, a contest entry form, etc.", "S": [], "A": []}

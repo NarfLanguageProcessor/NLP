@@ -1,0 +1,1 @@
+{"index": 226880, "D": "a program or part of a program that interprets input to a computer by recognizing key words or analysing sentence structure", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 92647, "D": "1/16 (0.0625) ounce, avoirdupois weight (27.34 grains; 1.77 grams). Abbreviation", "S": ["draft ", "drink ", "drop ", "measure ", "mite ", "nip ", "quantity ", "slug ", "smidgen ", "snifter ", "swig ", "weight "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 322715, "D": "to prosper; be fortunate or successful.", "S": ["bloom ", "blossom ", "boom ", "develop ", "flourish ", "grow ", "mushroom ", "prosper ", "shine ", "succeed "], "A": ["cease ", "decrease ", "fail ", "halt ", "lessen ", "lose ", "shrink ", "shrivel ", "stop ", "stunt ", "wither ", "decline ", "recede ", "retreat ", "retrogress "]}

@@ -1,0 +1,1 @@
+{"index": 318200, "D": "a hypothetical emanation from the body of a medium that serves as the means for telekinesis.", "S": [], "A": []}

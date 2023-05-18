@@ -1,0 +1,1 @@
+{"index": 367972, "D": "twisting; writhing;  squirming", "S": ["ambiguous ", "anfractuous ", "circuitous ", "convoluted ", "crooked ", "curving ", "devious ", "flexuous ", "gyrating ", "indirect ", "intricate ", "involved ", "labyrinthine ", "mazy ", "meandering ", "roundabout ", "serpentine ", "sinuous ", "snaky ", "spiraling ", "tortuous ", "twisting ", "zigzag "], "A": []}

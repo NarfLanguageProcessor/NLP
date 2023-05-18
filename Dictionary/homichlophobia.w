@@ -1,0 +1,1 @@
+{"index": 142910, "D": "an irrational or disproportionate fear of fog or foggy weather, often associated with nephophobia. ", "S": [], "A": []}

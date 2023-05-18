@@ -1,0 +1,1 @@
+{"index": 9370, "D": "a wind instrument used in the Swiss Alps, consisting of a very long tube of wood or bark with a cornet-like mouthpiece", "S": [], "A": []}

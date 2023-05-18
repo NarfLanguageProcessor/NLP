@@ -1,0 +1,1 @@
+{"index": 104805, "D": "the seventh letter of the Greek alphabet (H, \u03b7).", "S": [], "A": []}

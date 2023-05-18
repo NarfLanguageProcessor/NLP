@@ -1,0 +1,1 @@
+{"index": 187374, "D": "a unit of mass or weight equal to one thousandth of a gram, and equivalent to 0.0154 grain. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108907, "D": "a person who makes things by art or skill and labor", "S": ["coiner ", "counterfeiter ", "fabulist ", "faker ", "falsifier ", "fibber ", "liar ", "prevaricator ", "storyteller "], "A": []}

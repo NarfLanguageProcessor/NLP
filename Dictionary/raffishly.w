@@ -1,0 +1,1 @@
+{"index": 259871, "D": "mildly or sometimes engagingly disreputable or nonconformist", "S": [], "A": []}

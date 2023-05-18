@@ -1,0 +1,1 @@
+{"index": 262965, "D": "the reclaiming  of desert, marshy, or submerged areas or other wasteland for cultivation or other use.", "S": ["improvement ", "recovery ", "recycling ", "redemption ", "repossession "], "A": []}

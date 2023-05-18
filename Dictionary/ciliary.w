@@ -1,0 +1,1 @@
+{"index": 57365, "D": "noting or pertaining to various anatomical structures in or about the eye.", "S": [], "A": []}

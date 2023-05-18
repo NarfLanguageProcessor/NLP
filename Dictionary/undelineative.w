@@ -1,0 +1,1 @@
+{"index": 338682, "D": "the act or process of delineating. ", "S": [], "A": []}

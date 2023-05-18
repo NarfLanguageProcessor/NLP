@@ -1,0 +1,1 @@
+{"index": 81715, "D": "to break down (a polymer) into monomers.", "S": [], "A": []}

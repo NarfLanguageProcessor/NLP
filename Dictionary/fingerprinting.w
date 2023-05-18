@@ -1,0 +1,1 @@
+{"index": 112970, "D": "an impression of the markings of the inner surface of the last joint of the thumb or other finger. ", "S": [], "A": []}

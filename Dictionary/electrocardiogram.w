@@ -1,0 +1,1 @@
+{"index": 96967, "D": "the graphic record produced by an electrocardiograph. Abbreviation", "S": [], "A": []}

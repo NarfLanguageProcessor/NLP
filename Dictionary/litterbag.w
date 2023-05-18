@@ -1,0 +1,1 @@
+{"index": 173865, "D": "a small paper or plastic bag  for trash or rubbish, as one carried in an automobile.", "S": [], "A": []}

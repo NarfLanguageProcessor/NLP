@@ -1,0 +1,1 @@
+{"index": 208638, "D": "northward movement or deviation.", "S": [], "A": []}

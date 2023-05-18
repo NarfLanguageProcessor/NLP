@@ -1,0 +1,1 @@
+{"index": 182889, "D": "superiority. ", "S": ["dominance ", "excellence ", "perfection ", "preeminence ", "prestige ", "supremacy ", "upper hand "], "A": ["imperfection ", "impotence ", "incapacity ", "inferiority ", "weakness "]}

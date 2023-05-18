@@ -1,0 +1,1 @@
+{"index": 95932, "D": "variant of ex-1  (by assimilation) before f", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 52691, "D": "a heavy jacket, especially a leather one worn by cowboys in the American Southwest.", "S": [], "A": []}

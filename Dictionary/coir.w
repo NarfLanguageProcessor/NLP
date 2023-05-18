@@ -1,0 +1,1 @@
+{"index": 62571, "D": "the prepared fiber of the husk of the coconut fruit, used in making rope, matting, etc.", "S": [], "A": []}

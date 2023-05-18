@@ -1,0 +1,1 @@
+{"index": 339303, "D": "to utter a deep guttural sound of anger or hostility", "S": [], "A": []}

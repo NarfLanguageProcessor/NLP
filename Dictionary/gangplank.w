@@ -1,0 +1,1 @@
+{"index": 121907, "D": "a flat plank  or small, movable, bridgelike structure for use by persons boarding or leaving a ship at a pier.", "S": ["link ", "overpass ", "platform "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 143133, "D": "to approve; confirm or ratify.", "S": [], "A": []}

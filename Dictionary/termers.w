@@ -1,0 +1,1 @@
+{"index": 319357, "D": "a person who is serving a term,  especially in prison (usually used in combination)", "S": [], "A": []}

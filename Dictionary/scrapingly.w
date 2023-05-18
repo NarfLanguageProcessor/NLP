@@ -1,0 +1,1 @@
+{"index": 281585, "D": "the act of a person or thing that scrapes. ", "S": [], "A": []}

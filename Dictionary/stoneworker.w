@@ -1,0 +1,1 @@
+{"index": 305256, "D": "any construction, as walls or the like, of stone; stone masonry.", "S": [], "A": []}

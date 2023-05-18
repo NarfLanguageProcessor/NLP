@@ -1,0 +1,1 @@
+{"index": 121517, "D": "to move along heavily and clumsily.", "S": ["plod ", "shuffle ", "slog ", "trudge ", "trundle ", "waddle "], "A": ["tiptoe "]}

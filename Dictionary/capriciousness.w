@@ -1,0 +1,1 @@
+{"index": 47066, "D": "the quality of being led by or subject to sudden, odd notions or changes; arbitrary or erratic character", "S": ["foible ", "idiosyncrasy ", "peculiarity ", "quirk ", "weirdness "], "A": ["conformity ", "normalcy ", "normality ", "regularity ", "sameness ", "standard ", "usualness "]}

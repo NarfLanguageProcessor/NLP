@@ -1,0 +1,1 @@
+{"index": 243792, "D": "the act or practice of assuming a particular attitude or stance, especially with the hope of impressing others", "S": [], "A": []}

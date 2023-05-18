@@ -1,0 +1,1 @@
+{"index": 295214, "D": "a tree or part of a tree held fast in the bottom of a river, lake, etc., and forming an impediment or danger to navigation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 88574, "D": "to regard with displeasure, antipathy, or aversion", "S": ["abhorred ", "anathematized ", "avoided ", "condemned ", "cursed ", "detested ", "execrated ", "loathed ", "shunned "], "A": []}

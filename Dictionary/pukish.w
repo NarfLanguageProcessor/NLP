@@ -1,0 +1,1 @@
+{"index": 256189, "D": [], "S": ["anxious ", "fidgety ", "groggy ", "restless ", "sickly ", "squeamish ", "uncomfortable ", "uneasy "], "A": ["comfortable ", "content ", "happy "]}

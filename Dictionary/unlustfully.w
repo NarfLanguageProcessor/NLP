@@ -1,0 +1,1 @@
+{"index": 345861, "D": "full of or motivated by lust,  greed, or the like", "S": [], "A": []}

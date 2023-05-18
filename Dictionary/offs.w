@@ -1,0 +1,1 @@
+{"index": 211670, "D": "so as to be no longer supported or attached", "S": ["away ", "depart ", "hightail ", "leave ", "off ", "out ", "scat ", "scoot ", "scram ", "shoo ", "skiddoo ", "vamoose "], "A": []}

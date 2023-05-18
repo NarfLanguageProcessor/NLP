@@ -1,0 +1,1 @@
+{"index": 274522, "D": "(in the 17th and 18th centuries) a person who belonged to a secret society laying claim to various forms of occult knowledge and power and professing esoteric principles of religion.", "S": [], "A": []}

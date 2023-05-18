@@ -1,0 +1,1 @@
+{"index": 240073, "D": "folded like a fan; pleated.", "S": ["grow ", "increase "], "A": ["decrease ", "diminish ", "abridge ", "compress ", "condense ", "curtail ", "lessen ", "reduce "]}

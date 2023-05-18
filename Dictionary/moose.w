@@ -1,0 +1,1 @@
+{"index": 193174, "D": "a large, long-headed mammal, Alces alces, of the deer family, having circumpolar distribution in the Northern Hemisphere, the male of which has enormous palmate antlers.", "S": [], "A": []}

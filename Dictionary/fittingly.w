@@ -1,0 +1,1 @@
+{"index": 113561, "D": "suitable or appropriate; proper or becoming.", "S": ["appropriately ", "competently ", "decently ", "satisfactorily ", "sufficiently "], "A": ["inadequately ", "insufficiently ", "unequally ", "unsatisfactorily ", "unsuitably "]}

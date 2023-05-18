@@ -1,0 +1,1 @@
+{"index": 95072, "D": "an organism whose form has been affected by its environment", "S": [], "A": []}

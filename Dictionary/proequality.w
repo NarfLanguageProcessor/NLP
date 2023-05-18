@@ -1,0 +1,1 @@
+{"index": 251633, "D": "Compare equity (def. 3). ", "S": [], "A": []}

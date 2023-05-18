@@ -1,0 +1,1 @@
+{"index": 316357, "D": "any of various flat or tapelike worms  of the class Cestoidea, lacking an alimentary canal, and parasitic when adult in the alimentary canal of humans and other vertebrates", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 264163, "D": "to say or read (something) aloud for another person to transcribe or for a machine to record", "S": [], "A": []}

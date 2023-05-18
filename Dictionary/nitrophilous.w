@@ -1,0 +1,1 @@
+{"index": 200445, "D": "(of plants) growing in soil well supplied with nitrogen", "S": [], "A": []}

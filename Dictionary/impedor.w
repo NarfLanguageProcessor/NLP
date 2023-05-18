@@ -1,0 +1,1 @@
+{"index": 148425, "D": "a component, such as an inductor or resistor, that offers impedance", "S": [], "A": []}

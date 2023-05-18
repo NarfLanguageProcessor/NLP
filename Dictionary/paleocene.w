@@ -1,0 +1,1 @@
+{"index": 223667, "D": "noting or pertaining to an epoch of the Tertiary  Period, from 65 to 55 million years ago, and characterized by a proliferation of mammals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 197466, "D": "an electronic aid to navigation.", "S": [], "A": []}

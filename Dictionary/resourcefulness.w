@@ -1,0 +1,1 @@
+{"index": 269665, "D": "able to deal skillfully and promptly with new situations, difficulties, etc.", "S": ["ingenuity ", "inventiveness "], "A": ["debt ", "disorganization ", "ignorance ", "impotence ", "inability ", "incapacity ", "incompetence ", "lack ", "need ", "permanent ", "poverty ", "stupidity ", "weakness "]}

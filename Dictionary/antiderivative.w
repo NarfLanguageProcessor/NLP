@@ -1,0 +1,1 @@
+{"index": 15096, "D": "indefinite integral. ", "S": [], "A": []}

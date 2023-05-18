@@ -1,0 +1,1 @@
+{"index": 5996, "D": "a list, plan, outline, or the like, of things to be done, matters to be acted or voted upon, etc.", "S": ["calendar ", "plan ", "program ", "schedule ", "timetable "], "A": []}

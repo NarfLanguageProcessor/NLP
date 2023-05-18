@@ -1,0 +1,1 @@
+{"index": 334586, "D": "attaching or staying attached; sticking, or causing something to stick, to something else", "S": [], "A": []}

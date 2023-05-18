@@ -1,0 +1,1 @@
+{"index": 229302, "D": [], "S": ["diploma ", "palimpsest ", "paper ", "papyrus ", "scroll ", "sheepskin ", "vellum "], "A": []}

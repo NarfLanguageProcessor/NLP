@@ -1,0 +1,1 @@
+{"index": 207804, "D": "of, relating to, or of the nature of a telescope. ", "S": [], "A": []}

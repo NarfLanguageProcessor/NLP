@@ -1,0 +1,1 @@
+{"index": 278400, "D": "the cytoplasm of a striated muscle fiber.", "S": [], "A": []}

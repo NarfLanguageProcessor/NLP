@@ -1,0 +1,1 @@
+{"index": 86867, "D": "lack of adequate power, strength, or physical or mental ability; incapacity. ", "S": ["ailment ", "defect ", "impairment ", "infirmity ", "injury "], "A": ["health ", "strength ", "ability ", "advantage ", "benefit ", "extra ", "help "]}

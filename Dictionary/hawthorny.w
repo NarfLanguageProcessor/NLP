@@ -1,0 +1,1 @@
+{"index": 134511, "D": "any of numerous plants belonging to the genus Crataegus, of the rose family, typically a small tree with stiff thorns, certain North American species of which have white or pink blossoms and bright-colored fruits and are cultivated in hedges.", "S": [], "A": []}

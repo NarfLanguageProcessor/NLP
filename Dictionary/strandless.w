@@ -1,0 +1,1 @@
+{"index": 305751, "D": "to drive or leave (a ship, fish, etc.) aground or ashore", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 47967, "D": "the amount charged for a ride on a subway, streetcar, bus, etc.", "S": [], "A": []}

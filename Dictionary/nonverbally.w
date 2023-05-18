@@ -1,0 +1,1 @@
+{"index": 208230, "D": "using spoken words rather than written words; orally", "S": [], "A": []}

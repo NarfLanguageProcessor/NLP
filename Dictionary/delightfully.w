@@ -1,0 +1,1 @@
+{"index": 80088, "D": "giving great pleasure or delight;  highly pleasing", "S": ["appealingly ", "attractively ", "charmingly ", "elegantly ", "exquisitely ", "gorgeously ", "gracefully ", "handsomely ", "magnificently ", "seductively ", "splendidly ", "sublimely ", "superbly ", "tastefully ", "wonderfully "], "A": ["poorly "]}

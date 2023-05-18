@@ -1,0 +1,1 @@
+{"index": 265685, "D": "a person who keeps a record; an official recorder.", "S": [], "A": []}

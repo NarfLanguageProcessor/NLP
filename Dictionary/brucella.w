@@ -1,0 +1,1 @@
+{"index": 41688, "D": "any of several rod-shaped, aerobic bacteria of the genus Brucella, certain species of which, as B. melitensis, are pathogenic for humans and other animals.", "S": [], "A": []}

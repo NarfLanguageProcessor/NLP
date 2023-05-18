@@ -1,0 +1,1 @@
+{"index": 224649, "D": "of, relating to, or affecting all humanity.", "S": [], "A": []}

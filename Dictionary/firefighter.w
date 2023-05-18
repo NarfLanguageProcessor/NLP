@@ -1,0 +1,1 @@
+{"index": 113158, "D": "a person who fights destructive fires. ", "S": ["engineman ", "ladderman ", "smoke jumper "], "A": []}

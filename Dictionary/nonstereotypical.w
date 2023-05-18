@@ -1,0 +1,1 @@
+{"index": 207513, "D": "portraying a simplified and standardized conception or image, often one that is construed as derogatory", "S": [], "A": []}

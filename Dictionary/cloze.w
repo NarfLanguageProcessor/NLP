@@ -1,0 +1,1 @@
+{"index": 60614, "D": "pertaining to or being a procedure used to measure comprehension or text difficulty, in which a person is called upon to supply elements that have been systematically deleted from a text.", "S": [], "A": []}

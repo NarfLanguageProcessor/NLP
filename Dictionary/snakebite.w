@@ -1,0 +1,1 @@
+{"index": 295236, "D": "the bite  of a snake,  especially of one that is venomous.", "S": [], "A": []}

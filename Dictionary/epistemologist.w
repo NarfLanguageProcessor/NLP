@@ -1,0 +1,1 @@
+{"index": 102846, "D": "a branch of philosophy that investigates the origin, nature, methods, and limits of human knowledge.", "S": [], "A": []}

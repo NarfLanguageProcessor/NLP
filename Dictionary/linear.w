@@ -1,0 +1,1 @@
+{"index": 172736, "D": "of, consisting of, or using lines", "S": ["continuous "], "A": ["changing ", "deviating ", "intermittent ", "interrupted ", "varying "]}

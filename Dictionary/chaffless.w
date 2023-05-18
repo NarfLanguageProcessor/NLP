@@ -1,0 +1,1 @@
+{"index": 51940, "D": "the husks of grains and grasses that are separated during threshing.", "S": [], "A": []}

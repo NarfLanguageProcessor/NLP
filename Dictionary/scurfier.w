@@ -1,0 +1,1 @@
+{"index": 282267, "D": "resembling, producing, or covered with or as if with scurf. ", "S": [], "A": []}

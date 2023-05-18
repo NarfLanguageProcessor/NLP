@@ -1,0 +1,1 @@
+{"index": 353989, "D": "to utter a prolonged, inarticulate, mournful cry, usually high-pitched or clear-sounding, as in grief or suffering", "S": [], "A": []}

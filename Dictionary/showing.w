@@ -1,0 +1,1 @@
+{"index": 289085, "D": "a show,  display, or exhibition.", "S": ["display "], "A": []}

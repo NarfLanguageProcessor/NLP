@@ -1,0 +1,1 @@
+{"index": 23123, "D": "a lawyer; attorney-at-law.", "S": ["DA ", "advocate ", "barrister ", "counsel ", "counselor ", "fixer ", "front ", "lip ", "mouthpiece ", "pleader ", "proxy "], "A": []}

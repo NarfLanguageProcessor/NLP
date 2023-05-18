@@ -1,0 +1,1 @@
+{"index": 83882, "D": "a tropical Asian leguminous tree, Butea frondosa, that has bright red flowers and yields a red resin, used as an astringent", "S": [], "A": []}

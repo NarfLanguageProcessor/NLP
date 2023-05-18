@@ -1,0 +1,1 @@
+{"index": 360975, "D": "a course of travel or passage, especially a long journey by water to a distant place.", "S": ["itinerant ", "roving "], "A": []}

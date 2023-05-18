@@ -1,0 +1,1 @@
+{"index": 205763, "D": "of, relating to, or financially supported by one or more church parishes", "S": [], "A": []}

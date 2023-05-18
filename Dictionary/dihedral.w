@@ -1,0 +1,1 @@
+{"index": 85561, "D": "having or formed by two planes.", "S": [], "A": []}

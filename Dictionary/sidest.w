@@ -1,0 +1,1 @@
+{"index": 289837, "D": "one of the surfaces forming the outside of or bounding a thing, or one of the lines bounding a geometric figure.", "S": ["incidental ", "lateral ", "oblique ", "postern ", "roundabout ", "secondary ", "skirting ", "subordinate ", "subsidiary "], "A": ["chief ", "direct ", "important ", "necessary ", "straightforward ", "superior ", "vital "]}

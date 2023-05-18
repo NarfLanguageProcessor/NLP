@@ -1,0 +1,1 @@
+{"index": 234246, "D": "any of various bioactive chemical compounds found in plants, as antioxidants, considered to be beneficial to human health.", "S": [], "A": []}

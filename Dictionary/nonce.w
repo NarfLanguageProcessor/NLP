@@ -1,0 +1,1 @@
+{"index": 201852, "D": "the present, or immediate, occasion or purpose (usually used in the phrase for the nonce).", "S": ["now ", "today "], "A": ["future ", "past "]}

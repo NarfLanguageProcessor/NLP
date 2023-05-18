@@ -1,0 +1,1 @@
+{"index": 95499, "D": "(of an organism) living in a commensal  relationship on the exterior of another organism.", "S": [], "A": []}

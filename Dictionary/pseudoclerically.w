@@ -1,0 +1,1 @@
+{"index": 254620, "D": "of, pertaining to, appropriate for, or assigned to an office clerk  or clerks", "S": [], "A": []}

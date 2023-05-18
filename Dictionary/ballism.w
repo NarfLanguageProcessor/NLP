@@ -1,0 +1,1 @@
+{"index": 26983, "D": "a condition characterized by twisting, shaking, and jerking motions.", "S": [], "A": []}

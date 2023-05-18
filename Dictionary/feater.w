@@ -1,0 +1,1 @@
+{"index": 110642, "D": "a noteworthy or extraordinary act or achievement, usually displaying boldness, skill, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 74820, "D": "a variety of plant that originated and persisted under cultivation.", "S": [], "A": []}

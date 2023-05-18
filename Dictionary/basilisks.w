@@ -1,0 +1,1 @@
+{"index": 28650, "D": "a creature, variously described as a serpent, lizard, or dragon, said to kill by its breath or look.", "S": ["hydra ", "tarragon ", "wyvern "], "A": []}

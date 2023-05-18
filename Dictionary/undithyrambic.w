@@ -1,0 +1,1 @@
+{"index": 340667, "D": "of, relating to, or of the nature of a dithyramb,  or an impassioned oration.", "S": [], "A": []}

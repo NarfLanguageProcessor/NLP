@@ -1,0 +1,1 @@
+{"index": 292876, "D": "a brand name for a game in which players roll balls up a sloping, table-sized ramp, attempting to score points by making them drop into slots in a target.", "S": [], "A": []}

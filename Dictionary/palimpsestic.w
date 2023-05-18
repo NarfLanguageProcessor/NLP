@@ -1,0 +1,1 @@
+{"index": 223863, "D": "a parchment or the like from which writing has been partially or completely erased to make room for another text.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 35382, "D": "an ancient Greek city on the Bosporus and the Sea of Marmara", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 313715, "D": "to believe to be guilty, false, counterfeit, undesirable, defective, bad, etc., with little or no proof", "S": ["open ", "pseudo ", "suspected ", "thick ", "thin "], "A": ["innocent ", "known ", "trusted ", "trustworthy "]}

@@ -1,0 +1,1 @@
+{"index": 64191, "D": "a group of sovereign states and their dependencies associated by their own choice and linked with common objectives and interests", "S": ["federation ", "society "], "A": []}

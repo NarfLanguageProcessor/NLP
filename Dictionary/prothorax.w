@@ -1,0 +1,1 @@
+{"index": 253552, "D": "the anterior division of the thorax  of an insect, bearing the first pair of legs.", "S": [], "A": []}

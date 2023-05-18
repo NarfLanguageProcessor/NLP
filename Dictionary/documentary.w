@@ -1,0 +1,1 @@
+{"index": 90699, "D": "pertaining to, consisting of, or derived from documents", "S": ["broadcast ", "feature ", "film ", "narrative "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 95644, "D": "the state of being edacious;  voraciousness; appetite.", "S": ["hunger ", "voracity "], "A": []}

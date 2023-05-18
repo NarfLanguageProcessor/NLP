@@ -1,0 +1,1 @@
+{"index": 16483, "D": "a cavity in a body organ, especially a bone.", "S": ["channel ", "depression ", "hollow ", "opening ", "pocket ", "recess "], "A": ["solid "]}

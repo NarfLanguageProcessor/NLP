@@ -1,0 +1,1 @@
+{"index": 140434, "D": "abnormally deep or rapid respiration.", "S": ["dyspnea ", "gasp ", "hyperventilation ", "palpitation "], "A": []}

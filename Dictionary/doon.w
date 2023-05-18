@@ -1,0 +1,1 @@
+{"index": 91534, "D": "a river in SW Scotland, flowing NW from Ayr County to the Firth of Clyde. About 30 miles (48 km) long.", "S": [], "A": []}

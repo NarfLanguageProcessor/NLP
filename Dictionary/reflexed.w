@@ -1,0 +1,1 @@
+{"index": 265147, "D": "bent backward or downward, as a leaf.", "S": [], "A": []}

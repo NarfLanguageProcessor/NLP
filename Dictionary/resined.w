@@ -1,0 +1,1 @@
+{"index": 269449, "D": "any of a class of nonvolatile, solid or semisolid organic substances, as copal or mastic, that consist of amorphous mixtures of carboxylic acids and are obtained directly from certain plants as exudations or prepared by polymerization of simple molecules", "S": [], "A": []}

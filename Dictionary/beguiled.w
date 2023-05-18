@@ -1,0 +1,1 @@
+{"index": 30738, "D": "to influence by trickery, flattery, etc.; mislead; delude.", "S": ["bewitched ", "charmed ", "delighted ", "enraptured ", "enthralled ", "fascinated ", "hypnotized ", "infatuated "], "A": ["disillusioned ", "free ", "independent ", "loose ", "uninterested "]}

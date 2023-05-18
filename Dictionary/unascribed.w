@@ -1,0 +1,1 @@
+{"index": 335279, "D": "to credit or assign, as to a cause or source; attribute; impute", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 362293, "D": "a large marine mammal, Odobenus nosmarus, of Arctic seas, related to the seals, and having flippers, a pair of large tusks, and a tough, wrinkled skin.", "S": [], "A": []}

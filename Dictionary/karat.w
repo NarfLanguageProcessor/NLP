@@ -1,0 +1,1 @@
+{"index": 163168, "D": "a unit for measuring the fineness of gold, pure gold being 24 karats fine. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 89635, "D": "to make a solution of, as by mixing with a liquid; pass into solution", "S": [], "A": []}

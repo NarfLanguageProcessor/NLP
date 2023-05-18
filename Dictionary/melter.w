@@ -1,0 +1,1 @@
+{"index": 183093, "D": "a person or thing that melts. ", "S": [], "A": []}

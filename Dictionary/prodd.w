@@ -1,0 +1,1 @@
+{"index": 251506, "D": "a crossbow for hurling stones or balls", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 269664, "D": "able to deal skillfully and promptly with new situations, difficulties, etc.", "S": ["ably ", "adroitly ", "aptly ", "deftly ", "expertly ", "handily ", "ingeniously ", "neatly ", "nimbly ", "skillfully ", "smoothly "], "A": ["awkwardly ", "clumsily ", "unskillfully "]}

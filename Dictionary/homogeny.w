@@ -1,0 +1,1 @@
+{"index": 143090, "D": "correspondence in form or structure, owing to a common origin.", "S": [], "A": []}

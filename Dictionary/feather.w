@@ -1,0 +1,1 @@
+{"index": 110644, "D": "one of the horny structures forming the principal covering of birds, consisting typically of a hard, tubular portion attached to the body and tapering into a thinner, stemlike portion bearing a series of slender, barbed processes that interlock to form a flat structure on each side.", "S": ["fringe ", "plume "], "A": []}

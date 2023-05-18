@@ -1,0 +1,1 @@
+{"index": 342889, "D": "having a specified gait  (usually used in combination)", "S": [], "A": []}

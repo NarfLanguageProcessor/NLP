@@ -1,0 +1,1 @@
+{"index": 339126, "D": "a speed-reducing gear device in a motor vehicle that causes the output drive shaft to rotate at a slower rate.", "S": [], "A": []}

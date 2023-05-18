@@ -1,0 +1,1 @@
+{"index": 178638, "D": "failure of a professional person, as a physician or lawyer, to render proper services through reprehensible ignorance or negligence or through criminal intent, especially when injury or loss follows.", "S": [], "A": []}

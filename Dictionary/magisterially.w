@@ -1,0 +1,1 @@
+{"index": 177433, "D": "of, relating to, or befitting a master; of importance or consequence; authoritative; weighty", "S": [], "A": []}

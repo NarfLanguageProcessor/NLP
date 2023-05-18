@@ -1,0 +1,1 @@
+{"index": 149649, "D": "a member of any of the dominant groups of South American Indian peoples who established an empire in Peru prior to the Spanish conquest.", "S": [], "A": []}

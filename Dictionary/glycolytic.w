@@ -1,0 +1,1 @@
+{"index": 126271, "D": "of, relating to, or causing glycolysis.", "S": [], "A": []}

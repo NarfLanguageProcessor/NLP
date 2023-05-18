@@ -1,0 +1,1 @@
+{"index": 243058, "D": "North American Indian, chief of the Ottawa tribe", "S": [], "A": []}

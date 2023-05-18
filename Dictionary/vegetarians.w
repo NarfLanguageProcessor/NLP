@@ -1,0 +1,1 @@
+{"index": 357693, "D": "a person who does not eat or does not believe in eating meat, fish, fowl, or, in some cases, any food derived from animals, as eggs or cheese, but subsists on vegetables,  fruits, nuts, grain, etc.", "S": ["vegan "], "A": []}

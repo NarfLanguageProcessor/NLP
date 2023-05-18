@@ -1,0 +1,1 @@
+{"index": 264519, "D": "a sediment that has not undergone oxidation, as of coal, oil, sulfur, and sulfides.", "S": [], "A": []}

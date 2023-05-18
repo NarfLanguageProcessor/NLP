@@ -1,0 +1,1 @@
+{"index": 55197, "D": "an enzyme found in plants that decomposes chlorophyll  by removing the phytol chain.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 265080, "D": "to give a new surface to (wood, furniture, etc.).", "S": [], "A": []}

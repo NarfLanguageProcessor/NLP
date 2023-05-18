@@ -1,0 +1,1 @@
+{"index": 66813, "D": "taking into account; in view of", "S": ["seeing "], "A": []}

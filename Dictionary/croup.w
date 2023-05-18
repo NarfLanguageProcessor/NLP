@@ -1,0 +1,1 @@
+{"index": 73957, "D": "any condition of the larynx or trachea characterized by a hoarse cough and difficult breathing.", "S": ["cold "], "A": []}

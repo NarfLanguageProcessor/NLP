@@ -1,0 +1,1 @@
+{"index": 289812, "D": "a telescopic device for reflecting the light of a star in a constant direction, the chief component of which is a plane mirror turned by a clock mechanism to correct for the rotation of the earth.", "S": [], "A": []}

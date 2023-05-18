@@ -1,0 +1,1 @@
+{"index": 340603, "D": "having been released, spread, or scattered widely; dispersed", "S": [], "A": []}

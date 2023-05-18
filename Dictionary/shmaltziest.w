@@ -1,0 +1,1 @@
+{"index": 288615, "D": "of, relating to, or characterized by schmaltz,  or exaggerated sentimentalism.", "S": [], "A": []}

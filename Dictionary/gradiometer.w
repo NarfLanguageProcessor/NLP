@@ -1,0 +1,1 @@
+{"index": 128554, "D": "Compare gradient (def. 3a). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 275182, "D": "a silver-white, metallic, active element resembling potassium, used in photoelectric cells and radio vacuum tubes. Symbol", "S": [], "A": []}

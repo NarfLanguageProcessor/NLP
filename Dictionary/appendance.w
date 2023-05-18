@@ -1,0 +1,1 @@
+{"index": 17658, "D": "attached or suspended; annexed. ", "S": [], "A": []}

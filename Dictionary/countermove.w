@@ -1,0 +1,1 @@
+{"index": 70922, "D": "an opposing move", "S": ["balance ", "counterattack ", "counterbalance ", "counterblow ", "counteroffensive ", "counterpoise ", "neutralization ", "offset ", "reciprocation ", "reprisal ", "retribution ", "revenge ", "vengeance "], "A": ["forgiveness ", "pardon ", "sympathy "]}

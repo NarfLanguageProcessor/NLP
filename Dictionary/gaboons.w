@@ -1,0 +1,1 @@
+{"index": 120833, "D": "the soft, reddish-brown wood of an African tree, Aucoumea klaineana, used for making furniture.", "S": [], "A": []}

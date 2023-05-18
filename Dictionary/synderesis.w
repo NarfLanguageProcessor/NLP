@@ -1,0 +1,1 @@
+{"index": 291505, "D": "innate knowledge of the basic principles of morality.", "S": [], "A": []}

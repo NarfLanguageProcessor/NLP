@@ -1,0 +1,1 @@
+{"index": 293985, "D": "a detective. ", "S": ["discover ", "examine ", "scrutinize ", "snoop "], "A": ["ignore ", "miss ", "neglect ", "overlook "]}

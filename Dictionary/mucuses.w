@@ -1,0 +1,1 @@
+{"index": 194645, "D": "a viscous, slimy mixture of mucins, water, electrolytes, epithelial cells, and leukocytes that is secreted by glands lining the nasal, esophageal, and other body cavities and serves primarily to protect and lubricate surfaces.", "S": ["bile ", "saliva "], "A": []}

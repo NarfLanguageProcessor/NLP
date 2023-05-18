@@ -1,0 +1,1 @@
+{"index": 115607, "D": "a flowing or flow.", "S": ["alteration ", "change ", "flow ", "fluctuation ", "fluidity ", "instability ", "modification ", "motion ", "mutability ", "mutation ", "transition ", "unrest "], "A": ["rest ", "stagnation "]}

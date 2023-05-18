@@ -1,0 +1,1 @@
+{"index": 352918, "D": "thoughtless; heedless; inconsiderate", "S": ["headlong "], "A": []}

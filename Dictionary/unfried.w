@@ -1,0 +1,1 @@
+{"index": 342715, "D": "cooked in a pan or on a griddle over direct heat, usually in fat or oil.", "S": ["basic ", "coarse ", "crude ", "fresh ", "natural ", "organic ", "rough ", "uncooked ", "undercooked ", "unprocessed ", "untreated "], "A": ["cooked ", "done ", "well-done "]}

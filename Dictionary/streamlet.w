@@ -1,0 +1,1 @@
+{"index": 305987, "D": "a small stream;  rivulet.", "S": ["beck ", "branch ", "burn ", "creek ", "rill ", "river ", "rivulet ", "run ", "runnel ", "watercourse "], "A": []}

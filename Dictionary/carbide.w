@@ -1,0 +1,1 @@
+{"index": 47440, "D": "a compound of carbon with a more electropositive element or group.", "S": [], "A": []}

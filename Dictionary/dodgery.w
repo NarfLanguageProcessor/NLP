@@ -1,0 +1,1 @@
+{"index": 90782, "D": "the use of a dodge or dodges; trickery; duplicity.", "S": [], "A": []}

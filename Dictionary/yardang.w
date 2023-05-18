@@ -1,0 +1,1 @@
+{"index": 145726, "D": "a keel-shaped crest or ridge of rock, formed by the action of the wind, usually parallel to the prevailing wind direction.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 172657, "D": "linear accelerator. ", "S": [], "A": []}

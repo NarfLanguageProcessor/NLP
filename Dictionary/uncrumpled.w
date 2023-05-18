@@ -1,0 +1,1 @@
+{"index": 338250, "D": "rumpled; wrinkled; crushed.", "S": [], "A": []}

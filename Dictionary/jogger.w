@@ -1,0 +1,1 @@
+{"index": 161529, "D": "a person who jogs. ", "S": ["contestant ", "entrant ", "hurdler ", "marathoner ", "racer ", "sprinter "], "A": ["receiver "]}

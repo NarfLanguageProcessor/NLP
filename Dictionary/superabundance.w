@@ -1,0 +1,1 @@
+{"index": 311271, "D": "exceedingly or excessively abundant; more than sufficient; excessive.", "S": ["excess ", "glut ", "overflow ", "overmuch ", "oversupply ", "plenty ", "plethora ", "superfluity ", "surfeit ", "surplus "], "A": ["few ", "insufficiency ", "lack ", "little ", "necessity ", "need ", "scarcity ", "want "]}

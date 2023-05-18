@@ -1,0 +1,1 @@
+{"index": 62009, "D": "the calcareous skeleton of a hydrocoral or a coral colony", "S": [], "A": []}

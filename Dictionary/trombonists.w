@@ -1,0 +1,1 @@
+{"index": 331078, "D": "a musical wind instrument consisting of a cylindrical metal tube expanding into a bell and bent twice in a U shape, usually equipped with a slide (slide trombone ).", "S": [], "A": []}

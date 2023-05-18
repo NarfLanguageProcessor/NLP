@@ -1,0 +1,1 @@
+{"index": 229627, "D": "a device for measuring the penetrating  power of x-ray or other radiations.", "S": [], "A": []}

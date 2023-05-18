@@ -1,0 +1,1 @@
+{"index": 257533, "D": "a square stone, brick, or tile.", "S": [], "A": []}

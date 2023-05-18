@@ -1,0 +1,1 @@
+{"index": 244170, "D": "to heat  (a metal piece, as a weld) after working, so as to relieve stresses.", "S": [], "A": []}

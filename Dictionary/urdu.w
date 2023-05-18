@@ -1,0 +1,1 @@
+{"index": 355433, "D": "one of the official languages of Pakistan, a language derived from Hindustani, used by Muslims, and written with Persian-Arabic letters.", "S": [], "A": []}

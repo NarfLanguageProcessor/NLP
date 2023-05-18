@@ -1,0 +1,1 @@
+{"index": 270374, "D": "tending or serving to retain  something.", "S": ["consciousness ", "mind ", "recollection ", "remembrance ", "thought "], "A": ["forgetfulness ", "ignorance "]}

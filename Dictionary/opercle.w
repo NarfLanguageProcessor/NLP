@@ -1,0 +1,1 @@
+{"index": 213308, "D": "an operculum, especially the posterior bone of the operculum of a fish.", "S": [], "A": []}

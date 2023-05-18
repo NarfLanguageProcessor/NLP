@@ -1,0 +1,1 @@
+{"index": 112543, "D": "infection by filarial worms in the blood and lymph channels, lymph glands, and other tissues, the various species causing skin swellings, blindness, or elephantiasis if untreated.", "S": [], "A": []}

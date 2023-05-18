@@ -1,0 +1,1 @@
+{"index": 138411, "D": "a white crystalline powder, C8H8N4, that dilates blood vessels and is used in the treatment of hypertension.", "S": [], "A": []}

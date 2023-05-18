@@ -1,0 +1,1 @@
+{"index": 274858, "D": "a member or adherent of the Parliamentarians or Puritan party during the civil wars of the 17th century (so called in derision by the Cavaliers because they wore their hair cut short).", "S": [], "A": []}

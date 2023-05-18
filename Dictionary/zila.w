@@ -1,0 +1,1 @@
+{"index": 369320, "D": "an administrative district in India", "S": [], "A": []}

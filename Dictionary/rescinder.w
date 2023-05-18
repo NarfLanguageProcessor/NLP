@@ -1,0 +1,1 @@
+{"index": 269051, "D": "to abrogate; annul; revoke; repeal. ", "S": [], "A": []}

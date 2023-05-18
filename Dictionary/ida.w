@@ -1,0 +1,1 @@
+{"index": 146282, "D": "Turkish Kaz\u00b7da\u00b7\u011fi  [kahz-dah-gee; Turkish kahz-dah-uh]  /\u02cck\u0251z d\u0251\u02c8gi; Turkish \u02cck\u0251z d\u0251\u02c8\u028c/ .", "S": [], "A": []}

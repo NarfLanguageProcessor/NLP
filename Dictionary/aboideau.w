@@ -1,0 +1,1 @@
+{"index": 651, "D": "a dyke with a sluicegate that allows flood water to drain but keeps the sea water out", "S": [], "A": []}

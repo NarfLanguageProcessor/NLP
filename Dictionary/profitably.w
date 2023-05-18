@@ -1,0 +1,1 @@
+{"index": 251766, "D": "yielding profit;  remunerative", "S": ["effectively ", "productively ", "successfully ", "usefully "], "A": []}

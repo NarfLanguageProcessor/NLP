@@ -1,0 +1,1 @@
+{"index": 113084, "D": "the ornamentation of a melody, often extemporized by the performer, as in Italian opera during the 18th century.", "S": [], "A": []}

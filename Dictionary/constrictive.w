@@ -1,0 +1,1 @@
+{"index": 67086, "D": "constricting;  tending to constrict. ", "S": [], "A": []}

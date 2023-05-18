@@ -1,0 +1,1 @@
+{"index": 183199, "D": "something designed to preserve the memory  of a person, event, etc., as a monument or a holiday.", "S": [], "A": []}

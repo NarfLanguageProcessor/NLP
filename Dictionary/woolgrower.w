@@ -1,0 +1,1 @@
+{"index": 367312, "D": "a person who raises sheep or other animals for the production of wool. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 191256, "D": "a variant of Muhammad (def. 1). ", "S": [], "A": []}

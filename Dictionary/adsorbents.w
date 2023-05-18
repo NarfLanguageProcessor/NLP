@@ -1,0 +1,1 @@
+{"index": 4465, "D": "to gather (a gas, liquid, or dissolved substance) on a surface in a condensed layer", "S": [], "A": []}

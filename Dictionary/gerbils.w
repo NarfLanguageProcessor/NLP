@@ -1,0 +1,1 @@
+{"index": 124146, "D": "any of numerous small burrowing rodents of the genus Gerbillus and related genera, of Asia, Africa, and southern Russia, having long hind legs used for jumping.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 247357, "D": "judgment or opinion", "S": [], "A": []}

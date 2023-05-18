@@ -1,0 +1,1 @@
+{"index": 32139, "D": "a large, four-wheeled, closed carriage hung between two perches and having two interior seats.", "S": [], "A": []}

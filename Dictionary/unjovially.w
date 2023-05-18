@@ -1,0 +1,1 @@
+{"index": 345225, "D": "endowed with or characterized by a hearty, joyous humor or a spirit of good-fellowship", "S": [], "A": []}

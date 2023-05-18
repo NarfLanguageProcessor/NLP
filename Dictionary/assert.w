@@ -1,0 +1,1 @@
+{"index": 21680, "D": "to state with assurance, confidence, or force; state strongly or positively; affirm; aver", "S": ["affirm ", "allege ", "argue ", "cite ", "claim ", "contend ", "defend ", "proclaim ", "profess ", "say ", "stress ", "uphold "], "A": ["deny ", "disavow ", "disclaim ", "negate ", "question ", "refute ", "repudiate "]}

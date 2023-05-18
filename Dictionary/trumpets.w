@@ -1,0 +1,1 @@
+{"index": 331585, "D": "a showy pitcher plant, Sarracenia flava, of the southeastern United States, having prominently veined, crimson-throated, yellow-green leaves and yellow flowers from 2 to 4 inches (5.1 to 10.2 centimeters) wide.", "S": ["clarion ", "cornet ", "horn ", "instrument ", "shophar "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 196058, "D": "the technique of bringing fire from a group of rifle and automatic weapons to bear on specified targets.", "S": [], "A": []}

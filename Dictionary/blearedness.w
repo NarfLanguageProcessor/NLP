@@ -1,0 +1,1 @@
+{"index": 35968, "D": "to make dim, as with tears or inflammation", "S": [], "A": []}

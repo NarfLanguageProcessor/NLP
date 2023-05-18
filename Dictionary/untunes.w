@@ -1,0 +1,1 @@
+{"index": 353469, "D": "to render or cause to become out of tune", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205811, "D": "having established purebred ancestry", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 103962, "D": "to go astray in thought or belief; be mistaken; be incorrect.", "S": [], "A": []}

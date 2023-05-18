@@ -1,0 +1,1 @@
+{"index": 342284, "D": "not finished;  incomplete or unaccomplished.", "S": ["bare ", "incomplete ", "unadorned ", "undeveloped ", "unfulfilled "], "A": ["completed ", "finished ", "polished ", "refined ", "whole "]}

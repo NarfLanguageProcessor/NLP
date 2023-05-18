@@ -1,0 +1,1 @@
+{"index": 234542, "D": "a white to yellow, crystalline, slightly water-soluble powder, C6H3(OH)3\u22c52H2O, used chiefly in analytical chemistry and in the preparation of pharmaceuticals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 275035, "D": "Thomas . ?1586\u2013?1642, English dramatist, who collaborated with John Ford and Thomas Dekker on The Witch of Edmonton (1621) and with Thomas Middleton on The Changeling (1622)", "S": [], "A": []}

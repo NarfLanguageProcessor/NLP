@@ -1,0 +1,1 @@
+{"index": 171971, "D": "pertaining to, of the nature of, or forming a ligament. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 71613, "D": "one of two or more joint winners. ", "S": [], "A": []}

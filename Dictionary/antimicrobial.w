@@ -1,0 +1,1 @@
+{"index": 15569, "D": "destructive to or inhibiting the growth of microorganisms, including bacteria, viruses, and fungi", "S": [], "A": []}

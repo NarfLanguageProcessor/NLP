@@ -1,0 +1,1 @@
+{"index": 303302, "D": "very hot", "S": ["boiling ", "piping ", "scalding "], "A": []}

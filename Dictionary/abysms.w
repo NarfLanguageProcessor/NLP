@@ -1,0 +1,1 @@
+{"index": 482, "D": "an abyss. ", "S": ["abyss ", "chasm ", "depth ", "gorge ", "gulf "], "A": []}

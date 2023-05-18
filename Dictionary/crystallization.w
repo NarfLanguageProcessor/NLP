@@ -1,0 +1,1 @@
+{"index": 73404, "D": "the act or process of crystallizing. ", "S": ["condensate "], "A": ["dryness "]}

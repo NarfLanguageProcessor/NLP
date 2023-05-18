@@ -1,0 +1,1 @@
+{"index": 114028, "D": "sparkling or brilliant, especially in a superficial way or for the moment", "S": ["brilliantly ", "cheerfully ", "colorfully ", "flamboyantly ", "gleefully ", "joyfully ", "merrily ", "splendidly "], "A": ["sadly ", "solemnly ", "unhappily "]}

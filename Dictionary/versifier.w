@@ -1,0 +1,1 @@
+{"index": 358813, "D": "to relate, describe, or treat (something) in verse. ", "S": ["artist ", "author ", "bard ", "dilettante ", "dramatist ", "librettist ", "lyricist ", "lyrist ", "maker ", "muse ", "odist ", "parodist ", "poetess ", "rhymer ", "rhymester ", "writer "], "A": []}

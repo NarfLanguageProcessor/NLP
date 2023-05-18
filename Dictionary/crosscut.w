@@ -1,0 +1,1 @@
+{"index": 73798, "D": "made or used for cutting  crosswise.", "S": ["cut across ", "transect "], "A": []}

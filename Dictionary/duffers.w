@@ -1,0 +1,1 @@
+{"index": 93887, "D": "a person inept or inexperienced at a specific sport, as golf.", "S": ["blockhead ", "blunderer ", "bonehead ", "botcher ", "bumbler ", "butcher ", "butterfingers ", "clod ", "dolt ", "donkey ", "dunce ", "fool ", "foul-up ", "fumbler ", "goofball ", "idiot ", "ignoramus ", "incompetent ", "klutz ", "numskull ", "spoiler "], "A": ["brain ", "genius "]}

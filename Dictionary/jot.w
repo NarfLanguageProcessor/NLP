@@ -1,0 +1,1 @@
+{"index": 161829, "D": "to write or mark down quickly or briefly (usually followed by down)", "S": ["jot down ", "write down "], "A": []}

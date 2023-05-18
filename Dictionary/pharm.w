@@ -1,0 +1,1 @@
+{"index": 233102, "D": "pharmaceutical.", "S": [], "A": []}

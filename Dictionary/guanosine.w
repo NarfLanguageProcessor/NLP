@@ -1,0 +1,1 @@
+{"index": 130732, "D": "a ribonucleoside component of ribonucleic acid, comprising ribose and guanine. ", "S": [], "A": []}

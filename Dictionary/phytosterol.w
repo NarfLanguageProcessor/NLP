@@ -1,0 +1,1 @@
+{"index": 234387, "D": "any of various sterols  obtained from plants.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 2292, "D": "a close-fitting, high-necked coat, slightly flared below the waist and reaching almost to the knee, worn by men in India.", "S": [], "A": []}

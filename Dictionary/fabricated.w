@@ -1,0 +1,1 @@
+{"index": 108899, "D": "made by art or skill and labor", "S": ["unreal "], "A": ["genuine ", "natural ", "real ", "unaffected ", "unpretentious "]}

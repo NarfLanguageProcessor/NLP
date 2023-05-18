@@ -1,0 +1,1 @@
+{"index": 358198, "D": "of, relating to, or of the nature of a ventricle. ", "S": [], "A": []}

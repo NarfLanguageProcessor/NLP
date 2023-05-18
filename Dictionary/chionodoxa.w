@@ -1,0 +1,1 @@
+{"index": 54679, "D": "any of several plants belonging to the genus Chionodoxa, of the lily family, having blue, white, or pink clusters of flowers on short stalks, and including the glory-of-the-snow.", "S": [], "A": []}

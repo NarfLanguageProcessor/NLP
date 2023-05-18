@@ -1,0 +1,1 @@
+{"index": 83382, "D": "the fifth book of the Pentateuch, containing a second statement of the Mosaic law. Abbreviation", "S": [], "A": []}

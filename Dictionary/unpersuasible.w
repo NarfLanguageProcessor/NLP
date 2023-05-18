@@ -1,0 +1,1 @@
+{"index": 347802, "D": "capable of being persuaded;  open to or yielding to persuasion. ", "S": [], "A": []}

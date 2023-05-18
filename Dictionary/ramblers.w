@@ -1,0 +1,1 @@
+{"index": 260258, "D": "a person, animal, or thing that rambles. ", "S": ["migrant ", "pilgrim ", "vagabond ", "wanderer "], "A": []}

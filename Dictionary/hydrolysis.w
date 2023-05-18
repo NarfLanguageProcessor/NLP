@@ -1,0 +1,1 @@
+{"index": 138728, "D": "chemical decomposition in which a compound is split into other compounds by reacting with water.", "S": [], "A": []}

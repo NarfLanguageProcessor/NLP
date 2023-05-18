@@ -1,0 +1,1 @@
+{"index": 355614, "D": "urgent  character; imperativeness; insistence; importunateness.", "S": ["importance ", "seriousness "], "A": []}

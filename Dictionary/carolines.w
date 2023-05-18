@@ -1,0 +1,1 @@
+{"index": 48295, "D": "of or relating to Charles, especially Charles I and Charles II of England or their times.", "S": [], "A": []}

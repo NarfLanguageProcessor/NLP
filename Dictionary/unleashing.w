@@ -1,0 +1,1 @@
+{"index": 345512, "D": "to release from or as if from a leash;  set loose to pursue or run at will.", "S": ["discharge ", "free ", "release ", "vent "], "A": ["hold ", "keep "]}

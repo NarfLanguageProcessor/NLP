@@ -1,0 +1,1 @@
+{"index": 217350, "D": "simple past tense and past participle of outsit. ", "S": [], "A": []}

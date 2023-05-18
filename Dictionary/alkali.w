@@ -1,0 +1,1 @@
+{"index": 8405, "D": "any of various other compounds, as the carbonates of sodium and potassium.", "S": ["antacid ", "salt "], "A": []}

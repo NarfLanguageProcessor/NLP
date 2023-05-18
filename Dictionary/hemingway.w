@@ -1,0 +1,1 @@
+{"index": 136219, "D": "U.S. novelist, short-story writer, and journalist", "S": [], "A": []}

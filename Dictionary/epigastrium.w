@@ -1,0 +1,1 @@
+{"index": 102431, "D": "the upper and median part of the abdomen, lying over the stomach.", "S": ["abdomen ", "belly ", "bulge ", "fat ", "gut ", "potbelly ", "tummy "], "A": ["sleekness "]}

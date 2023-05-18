@@ -1,0 +1,1 @@
+{"index": 137495, "D": "the dense, highly stainable part of a chromosome.", "S": [], "A": []}

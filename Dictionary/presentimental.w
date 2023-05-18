@@ -1,0 +1,1 @@
+{"index": 249373, "D": "a feeling or impression that something is about to happen, especially something evil; foreboding.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 49183, "D": "noting a caustic surface  or curve formed by the reflection of light.", "S": [], "A": []}

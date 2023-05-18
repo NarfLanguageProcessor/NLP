@@ -1,0 +1,1 @@
+{"index": 236270, "D": "a city in and the capital of South Dakota, in the central part, on the Missouri River.", "S": [], "A": []}

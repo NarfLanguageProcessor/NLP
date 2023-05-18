@@ -1,0 +1,1 @@
+{"index": 253997, "D": "a mineral, silver arsenic sulfide, Ag3AsS3, occurring in scarlet crystals and masses", "S": [], "A": []}

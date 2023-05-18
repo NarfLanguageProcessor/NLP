@@ -1,0 +1,1 @@
+{"index": 352772, "D": "moderate or self-restrained; not extreme in opinion, statement, etc.", "S": [], "A": []}

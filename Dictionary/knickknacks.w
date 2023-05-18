@@ -1,0 +1,1 @@
+{"index": 165541, "D": "an ornamental trinket or gimcrack; a bit of bric-a-brac.", "S": ["virtu "], "A": []}

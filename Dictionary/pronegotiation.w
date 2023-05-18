@@ -1,0 +1,1 @@
+{"index": 252398, "D": "mutual discussion and arrangement of the terms of a transaction or agreement", "S": [], "A": []}

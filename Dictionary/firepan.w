@@ -1,0 +1,1 @@
+{"index": 113182, "D": "a metal grate for holding hot coals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 88675, "D": "a former coin of the U.S., equal to 10 cents, issued in 1792", "S": [], "A": []}

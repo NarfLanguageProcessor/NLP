@@ -1,0 +1,1 @@
+{"index": 147344, "D": "the state or quality of being illegitimate. ", "S": ["bastardy "], "A": []}

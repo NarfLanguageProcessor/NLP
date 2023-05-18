@@ -1,0 +1,1 @@
+{"index": 118457, "D": "the act of associating with a person or group in a friendly way", "S": [], "A": []}

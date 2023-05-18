@@ -1,0 +1,1 @@
+{"index": 36879, "D": "blurred;  indistinct.", "S": [], "A": []}

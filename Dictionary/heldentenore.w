@@ -1,0 +1,1 @@
+{"index": 135449, "D": "a tenor having a brilliant, powerful voice suited to singing heroic roles, as in Wagnerian opera.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 18751, "D": "a confraternity having the right to associate itself with confraternities that are similar to it, and to impart to them its privileges and indulgences.", "S": [], "A": []}

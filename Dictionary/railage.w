@@ -1,0 +1,1 @@
+{"index": 260022, "D": "an amount charged for transporting goods by rail. ", "S": [], "A": []}

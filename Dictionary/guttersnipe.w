@@ -1,0 +1,1 @@
+{"index": 131625, "D": "a person belonging to or characteristic of the lowest social group in a city.", "S": ["vagrant "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246792, "D": "to decrease seriously or exhaust the abundance or supply of", "S": [], "A": []}

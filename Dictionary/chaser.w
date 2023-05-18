@@ -1,0 +1,1 @@
+{"index": 53016, "D": "a person or thing that chases or pursues.", "S": ["attitude ", "performance ", "show "], "A": ["reality "]}

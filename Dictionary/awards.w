@@ -1,0 +1,1 @@
+{"index": 24969, "D": "to give as due or merited; assign or bestow", "S": ["accolade ", "citation ", "decision ", "donation ", "endowment ", "gift ", "gold ", "grant ", "honor ", "presentation ", "scholarship ", "trophy ", "verdict "], "A": ["forfeit ", "loss "]}

@@ -1,0 +1,1 @@
+{"index": 66550, "D": "converging, as petals.", "S": [], "A": []}

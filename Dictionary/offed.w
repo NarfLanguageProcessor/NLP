@@ -1,0 +1,1 @@
+{"index": 211551, "D": "so as to be no longer supported or attached", "S": ["buried ", "deceased ", "late ", "lifeless "], "A": ["alive ", "living "]}

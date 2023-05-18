@@ -1,0 +1,1 @@
+{"index": 206481, "D": "tending to react. ", "S": ["anesthetized ", "asleep ", "benumbed ", "dead ", "deadened ", "immune to ", "impervious to ", "insensible ", "senseless ", "unfeeling "], "A": ["aware ", "caring ", "concerned ", "feeling ", "impressionable ", "mindful ", "responsive ", "sensitive ", "touched "]}

@@ -1,0 +1,1 @@
+{"index": 166638, "D": "a tendency, sometimes habitual, to make sounds labial,  as in pronouncing the l in love as a w-like sound.", "S": [], "A": []}

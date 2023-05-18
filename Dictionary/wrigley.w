@@ -1,0 +1,1 @@
+{"index": 367981, "D": "U.S. chewing-gum manufacturer and baseball team owner.", "S": [], "A": []}

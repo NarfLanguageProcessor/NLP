@@ -1,0 +1,1 @@
+{"index": 181414, "D": "a heavy hammer, as for driving stakes or wedges.", "S": ["beat up ", "bludgeon ", "drub ", "lacerate ", "molest ", "mug ", "pummel ", "rough up ", "thrash ", "trample "], "A": ["protect ", "aid ", "assist ", "help ", "lose ", "surrender "]}

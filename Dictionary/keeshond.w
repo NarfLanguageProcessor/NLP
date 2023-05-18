@@ -1,0 +1,1 @@
+{"index": 163598, "D": "one of a Dutch breed of small dogs having thick, silver-gray hair tipped with black and a tail carried over the back.", "S": [], "A": []}

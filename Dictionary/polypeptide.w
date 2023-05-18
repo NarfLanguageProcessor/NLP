@@ -1,0 +1,1 @@
+{"index": 242204, "D": "a chain of amino acids linked together by peptide  bonds and having a molecular weight of up to about 10,000.", "S": [], "A": []}

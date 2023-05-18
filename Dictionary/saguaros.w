@@ -1,0 +1,1 @@
+{"index": 276709, "D": "a tall, horizontally branched cactus, Carnegiea (or Cereus) gigantea, of Arizona and neighboring regions, yielding a useful wood and bearing an edible fruit", "S": [], "A": []}

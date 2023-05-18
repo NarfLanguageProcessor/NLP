@@ -1,0 +1,1 @@
+{"index": 24995, "D": "(of an anchor) just free of the bottom; atrip", "S": [], "A": []}

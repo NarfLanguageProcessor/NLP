@@ -1,0 +1,1 @@
+{"index": 17806, "D": "the fact or quality of applying to a certain situation or range of situations; relevance, appropriateness, or usefulness", "S": [], "A": []}

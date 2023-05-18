@@ -1,0 +1,1 @@
+{"index": 160148, "D": "a girl with whom sexual intercourse is punishable as statutory rape because she is under the legal age of consent.", "S": [], "A": []}

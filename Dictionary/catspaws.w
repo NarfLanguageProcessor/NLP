@@ -1,0 +1,1 @@
+{"index": 49835, "D": [], "S": ["chump ", "dupe ", "instrument ", "sap ", "stooge ", "sucker ", "tool "], "A": []}

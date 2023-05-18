@@ -1,0 +1,1 @@
+{"index": 169850, "D": "a distinct variety of a language, as a standard variety or a nonstandard regional dialect", "S": [], "A": []}

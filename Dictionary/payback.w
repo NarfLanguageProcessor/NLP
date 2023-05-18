@@ -1,0 +1,1 @@
+{"index": 223072, "D": "the period of time required to recoup a capital investment.", "S": ["compensation ", "reimbursement "], "A": ["debt ", "loss ", "penalty "]}

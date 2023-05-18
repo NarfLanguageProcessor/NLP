@@ -1,0 +1,1 @@
+{"index": 309620, "D": "the act or process of truncating. ", "S": [], "A": []}

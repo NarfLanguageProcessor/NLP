@@ -1,0 +1,1 @@
+{"index": 36696, "D": "a fairy-tale character whose seventh wife found the bodies of her predecessors in a room she had been forbidden to enter.", "S": [], "A": []}

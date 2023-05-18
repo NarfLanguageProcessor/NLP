@@ -1,0 +1,1 @@
+{"index": 226657, "D": "pertaining to Mount Parnassus. ", "S": [], "A": []}

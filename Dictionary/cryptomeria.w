@@ -1,0 +1,1 @@
+{"index": 73271, "D": "a coniferous tree, Cryptomeria japonica, of China and Japan, with curved needle-like leaves and small round cones", "S": [], "A": []}

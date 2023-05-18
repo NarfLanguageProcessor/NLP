@@ -1,0 +1,1 @@
+{"index": 192194, "D": "a monoclinal structure or fold.", "S": [], "A": []}

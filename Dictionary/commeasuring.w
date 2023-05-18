@@ -1,0 +1,1 @@
+{"index": 63912, "D": "to equal in measure  or extent; be coextensive with.", "S": ["adjust ", "even up "], "A": ["aid ", "assist ", "differ ", "disagree ", "help ", "imbalance ", "roughen ", "vary "]}

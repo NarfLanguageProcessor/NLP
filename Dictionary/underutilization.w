@@ -1,0 +1,1 @@
+{"index": 340050, "D": "failure to put to practical or profitable use", "S": [], "A": []}

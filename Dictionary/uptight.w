@@ -1,0 +1,1 @@
+{"index": 355165, "D": "tense, nervous, or jittery.", "S": ["anxious ", "apprehensive ", "cautious ", "edgy ", "nervous ", "uneasy "], "A": ["calm ", "composed ", "easygoing ", "laid-back ", "unworried "]}

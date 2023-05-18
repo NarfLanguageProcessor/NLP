@@ -1,0 +1,1 @@
+{"index": 266904, "D": "relief pitcher. ", "S": ["inferior ", "insignificant ", "trivial ", "unimportant "], "A": ["consequential ", "important ", "significant ", "useful ", "valuable ", "worthwhile ", "big ", "chief ", "huge ", "large ", "main ", "major ", "necessary ", "primary "]}

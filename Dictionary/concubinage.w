@@ -1,0 +1,1 @@
+{"index": 65468, "D": "cohabitation of a man and woman without legal or formal marriage.", "S": [], "A": []}

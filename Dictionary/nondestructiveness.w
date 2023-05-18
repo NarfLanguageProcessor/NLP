@@ -1,0 +1,1 @@
+{"index": 202976, "D": "tending to destroy;  causing destruction  or much damage (often followed by of or to)", "S": [], "A": []}

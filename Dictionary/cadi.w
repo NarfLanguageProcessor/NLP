@@ -1,0 +1,1 @@
+{"index": 44343, "D": "a variant of qadi. ", "S": [], "A": []}

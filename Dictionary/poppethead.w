@@ -1,0 +1,1 @@
+{"index": 243273, "D": "a tailstock or headstock of a lathe.", "S": [], "A": []}

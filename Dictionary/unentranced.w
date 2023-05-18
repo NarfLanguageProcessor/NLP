@@ -1,0 +1,1 @@
+{"index": 341370, "D": "filled with delight or wonder; enraptured; captivated", "S": [], "A": []}

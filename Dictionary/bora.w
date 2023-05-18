@@ -1,0 +1,1 @@
+{"index": 38314, "D": "(on the Adriatic coasts) a violent, dry, cold wind blowing from the north or northeast.", "S": [], "A": []}

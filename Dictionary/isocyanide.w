@@ -1,0 +1,1 @@
+{"index": 158864, "D": "a compound containing an isocyano group.", "S": [], "A": []}

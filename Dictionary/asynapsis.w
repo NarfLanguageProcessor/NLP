@@ -1,0 +1,1 @@
+{"index": 21259, "D": "failure of the pairing of homologous chromosomes during meiosis.", "S": [], "A": []}

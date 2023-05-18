@@ -1,0 +1,1 @@
+{"index": 250132, "D": "to speak falsely or misleadingly; deliberately misstate or create an incorrect impression; lie.", "S": ["ambiguous ", "cagey ", "deceptive ", "false ", "misleading ", "unclear ", "vague "], "A": ["clear ", "definite ", "honest ", "truthful "]}

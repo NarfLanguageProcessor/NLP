@@ -1,0 +1,1 @@
+{"index": 358939, "D": "an African monkey, Cercopithecus aethiops pygerythrus, allied to the green monkey and the grivet, but distinguished by a rusty patch at the root of the tail.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 324992, "D": "one of several alcohols that constitute the dietary factor known as vitamin E, occurring in wheat-germ oil, lettuce or spinach leaves, egg yolk, etc.", "S": [], "A": []}

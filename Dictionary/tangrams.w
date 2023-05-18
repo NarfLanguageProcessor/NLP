@@ -1,0 +1,1 @@
+{"index": 316092, "D": "a Chinese puzzle consisting of a square cut into five triangles, a square, and a rhomboid, which can be combined so as to form a great variety of other figures.", "S": [], "A": []}

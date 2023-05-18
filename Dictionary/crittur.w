@@ -1,0 +1,1 @@
+{"index": 73517, "D": "a domesticated animal.", "S": [], "A": []}

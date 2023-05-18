@@ -1,0 +1,1 @@
+{"index": 105892, "D": "belonging or pertaining to the group Eutheria, comprising the placental mammals.", "S": [], "A": []}

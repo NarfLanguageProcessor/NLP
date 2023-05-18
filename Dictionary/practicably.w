@@ -1,0 +1,1 @@
+{"index": 245078, "D": "capable of being done, effected, or put into practice,  with the available means; feasible", "S": ["apparently ", "doubtless ", "no doubt ", "perhaps ", "possibly ", "presumably ", "seemingly "], "A": ["improbably ", "uncertain ", "unlikely "]}

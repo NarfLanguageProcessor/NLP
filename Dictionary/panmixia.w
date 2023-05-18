@@ -1,0 +1,1 @@
+{"index": 224723, "D": "random mating of individuals within a population, the breeding individuals showing no tendency to choose partners with particular traits.", "S": [], "A": []}

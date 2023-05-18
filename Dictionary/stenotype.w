@@ -1,0 +1,1 @@
+{"index": 303711, "D": "a keyboard machine resembling a typewriter, used in a system of phonetic shorthand.", "S": ["shorthand "], "A": []}

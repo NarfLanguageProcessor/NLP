@@ -1,0 +1,1 @@
+{"index": 68144, "D": "to call together; summon to meet or assemble.", "S": ["assemble ", "call ", "cite ", "convene ", "gather ", "muster ", "request ", "summon "], "A": ["cancel ", "disperse ", "divide ", "scatter ", "separate "]}

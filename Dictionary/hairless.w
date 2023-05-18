@@ -1,0 +1,1 @@
+{"index": 132419, "D": "without hair; bald", "S": ["bald ", "clean-shaven "], "A": ["furry ", "hairy ", "hirsute "]}

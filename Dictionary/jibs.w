@@ -1,0 +1,1 @@
+{"index": 161176, "D": "Compare flying jib, inner jib. ", "S": ["back off ", "blanch ", "cower ", "cringe ", "flinch ", "grimace ", "recoil "], "A": ["face ", "meet "]}

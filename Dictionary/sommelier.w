@@ -1,0 +1,1 @@
+{"index": 297088, "D": "a waiter, as in a club or restaurant, who is in charge of wines.", "S": [], "A": []}

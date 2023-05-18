@@ -1,0 +1,1 @@
+{"index": 183503, "D": "mental  capacity or endowment", "S": ["attitude ", "character ", "mind ", "mindset ", "outlook ", "personality ", "psychology ", "sense ", "understanding "], "A": ["disbelief "]}

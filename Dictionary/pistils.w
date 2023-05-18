@@ -1,0 +1,1 @@
+{"index": 238171, "D": "the ovule-bearing or seed-bearing female organ of a flower, consisting when complete of ovary, style, and stigma.", "S": [], "A": []}

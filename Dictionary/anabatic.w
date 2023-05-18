@@ -1,0 +1,1 @@
+{"index": 11475, "D": "Compare katabatic. ", "S": [], "A": []}

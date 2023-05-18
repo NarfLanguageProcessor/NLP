@@ -1,0 +1,1 @@
+{"index": 184638, "D": "the philosophy of ethics  dealing with the meaning of ethical terms, the nature of moral discourse, and the foundations of moral principles.", "S": [], "A": []}

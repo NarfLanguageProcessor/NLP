@@ -1,0 +1,1 @@
+{"index": 82923, "D": "(of a Communist country) to engage in de-Stalinization. ", "S": [], "A": []}

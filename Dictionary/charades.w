@@ -1,0 +1,1 @@
+{"index": 52751, "D": "a parlour game in which one team acts out each syllable of a word, the other team having to guess the word", "S": ["deception ", "farce ", "travesty "], "A": ["honesty ", "reality ", "truth "]}

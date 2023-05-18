@@ -1,0 +1,1 @@
+{"index": 165111, "D": "a mixture of graphite and slag separated from and floating on the surface of molten pig iron or cast iron as it cools.", "S": [], "A": []}

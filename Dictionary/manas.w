@@ -1,0 +1,1 @@
+{"index": 178902, "D": "the rational faculty of the mind.", "S": [], "A": []}

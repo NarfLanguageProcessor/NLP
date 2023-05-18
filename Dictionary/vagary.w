@@ -1,0 +1,1 @@
+{"index": 356477, "D": "an unpredictable or erratic action, occurrence, course, or instance", "S": ["quirk ", "whim "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86995, "D": "to remove the ambiguity from; make unambiguous", "S": ["authorize ", "base ", "confirm ", "determine ", "enact ", "formulate ", "make ", "prove ", "ratify "], "A": ["deny ", "destroy ", "disallow ", "disprove ", "fail ", "prevent ", "refuse ", "renounce ", "stop ", "veto ", "contradict ", "discredit ", "invalidate ", "miss ", "reject "]}

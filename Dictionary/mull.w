@@ -1,0 +1,1 @@
+{"index": 194927, "D": "to study or ruminate; ponder. ", "S": ["contemplate ", "deliberate ", "examine ", "ponder ", "weigh "], "A": ["forget ", "ignore ", "neglect ", "advance ", "dismiss ", "disregard ", "hurry ", "leave ", "rush "]}

@@ -1,0 +1,1 @@
+{"index": 130036, "D": "a chop or steak, especially a pork chop.", "S": [], "A": []}

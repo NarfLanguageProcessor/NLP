@@ -1,0 +1,1 @@
+{"index": 261377, "D": "to deride; make fun of; tease.", "S": ["boo ", "catcall ", "heckle ", "hiss ", "hoot ", "jeer ", "raspberry ", "razz "], "A": []}

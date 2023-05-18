@@ -1,0 +1,1 @@
+{"index": 36132, "D": "spasmodic winking.", "S": [], "A": []}

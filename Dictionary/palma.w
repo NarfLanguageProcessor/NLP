@@ -1,0 +1,1 @@
+{"index": 224024, "D": "a seaport in and the capital of the Balearic Islands, on W Majorca.", "S": [], "A": []}

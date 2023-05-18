@@ -1,0 +1,1 @@
+{"index": 277047, "D": "prominent or conspicuous", "S": ["arena ", "battleground ", "front line "], "A": []}

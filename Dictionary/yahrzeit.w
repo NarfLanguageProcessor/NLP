@@ -1,0 +1,1 @@
+{"index": 145538, "D": "the anniversary of the death of a parent, sibling, child, or spouse, observed by lighting a memorial lamp or candle the night before and reciting the Kaddish at the evening service of the day before and at the morning and afternoon services of the day itself.", "S": [], "A": []}

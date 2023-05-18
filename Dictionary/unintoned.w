@@ -1,0 +1,1 @@
+{"index": 344796, "D": "to utter with a particular tone or voice modulation.", "S": [], "A": []}

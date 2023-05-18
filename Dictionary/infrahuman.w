@@ -1,0 +1,1 @@
+{"index": 152277, "D": "less than human;  subhuman.", "S": [], "A": []}

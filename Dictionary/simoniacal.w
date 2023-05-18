@@ -1,0 +1,1 @@
+{"index": 290902, "D": "a person who practices simony.", "S": [], "A": []}

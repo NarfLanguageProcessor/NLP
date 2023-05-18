@@ -1,0 +1,1 @@
+{"index": 152442, "D": "to gather  or bring in, as a harvest.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 198058, "D": "a dressing gown or robe, usually of sheer fabric and having soft, flowing lines, worn by women.", "S": ["camisole ", "dishabille ", "nightdress ", "nightie ", "peignoir ", "robe ", "teddy ", "wrap ", "wrapper "], "A": []}

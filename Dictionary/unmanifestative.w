@@ -1,0 +1,1 @@
+{"index": 345975, "D": "manifesting; showing clearly or conclusively.", "S": [], "A": []}

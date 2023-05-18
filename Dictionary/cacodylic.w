@@ -1,0 +1,1 @@
+{"index": 44158, "D": "of, relating to, or characteristic of the cacodyl group. ", "S": [], "A": []}

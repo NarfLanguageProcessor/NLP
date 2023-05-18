@@ -1,0 +1,1 @@
+{"index": 298462, "D": "to lead, inspire, or animate something or someone.", "S": [], "A": []}

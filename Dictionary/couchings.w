@@ -1,0 +1,1 @@
+{"index": 70488, "D": "the act of a person or thing that couches. ", "S": [], "A": []}

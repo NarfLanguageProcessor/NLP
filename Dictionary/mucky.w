@@ -1,0 +1,1 @@
+{"index": 194557, "D": "of or like muck.", "S": ["clammy ", "glutinous ", "miry ", "mucous ", "muculent ", "muddy ", "oozy ", "scummy ", "sludgy ", "slushy ", "viscous ", "yukky "], "A": []}

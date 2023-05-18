@@ -1,0 +1,1 @@
+{"index": 189056, "D": "a failure to execute a play, stroke, or maneuver properly; an error.", "S": [], "A": []}

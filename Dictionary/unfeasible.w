@@ -1,0 +1,1 @@
+{"index": 342090, "D": "not able to be done or put into effect; impossible", "S": ["impossible ", "impractical ", "unachievable ", "unattainable ", "unworkable "], "A": ["feasible "]}

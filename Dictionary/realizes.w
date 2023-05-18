@@ -1,0 +1,1 @@
+{"index": 261758, "D": "to grasp or understand clearly.", "S": ["comprehend ", "get ", "grasp ", "know ", "recognize ", "think ", "understand "], "A": ["disbelieve ", "forget ", "misinterpret ", "miss ", "mistake ", "misunderstand ", "disregard ", "lose "]}

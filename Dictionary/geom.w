@@ -1,0 +1,1 @@
+{"index": 123918, "D": "geometric; geometrical.", "S": [], "A": []}

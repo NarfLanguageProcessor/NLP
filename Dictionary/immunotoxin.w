@@ -1,0 +1,1 @@
+{"index": 148181, "D": "a monoclonal antibody linked to a toxin  with the intention of destroying a specific target cell while leaving adjacent cells intact.", "S": ["antibody "], "A": []}

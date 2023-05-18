@@ -1,0 +1,1 @@
+{"index": 54500, "D": [], "S": ["absorb ", "consume ", "dissolve ", "eat ", "incorporate ", "macerate ", "swallow ", "take "], "A": ["build ", "maintain ", "misunderstand "]}

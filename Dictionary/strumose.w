@@ -1,0 +1,1 @@
+{"index": 306670, "D": "having a struma or strumae.", "S": [], "A": []}

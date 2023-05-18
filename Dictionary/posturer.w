@@ -1,0 +1,1 @@
+{"index": 244545, "D": "the relative disposition of the parts of something.", "S": [], "A": []}

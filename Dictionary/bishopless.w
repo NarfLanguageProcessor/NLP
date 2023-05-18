@@ -1,0 +1,1 @@
+{"index": 35013, "D": "a person who supervises a number of local churches or a diocese, being in the Greek, Roman Catholic, Anglican, and other churches a member of the highest order of the ministry.", "S": [], "A": []}

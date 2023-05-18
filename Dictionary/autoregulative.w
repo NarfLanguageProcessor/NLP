@@ -1,0 +1,1 @@
+{"index": 24349, "D": "the continual automatic adjustment or self-regulation of a biochemical, physiological, or ecological system to maintain a stable state.", "S": [], "A": []}

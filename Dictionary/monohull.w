@@ -1,0 +1,1 @@
+{"index": 192372, "D": "(of a vessel) having a single hull. ", "S": [], "A": []}

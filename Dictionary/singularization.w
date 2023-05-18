@@ -1,0 +1,1 @@
+{"index": 291750, "D": "to make singular. ", "S": [], "A": []}

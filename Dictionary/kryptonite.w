@@ -1,0 +1,1 @@
+{"index": 166307, "D": "a fictional radioactive substance that is the only thing capable of hurting or weakening the otherwise invulnerable superhero Superman", "S": [], "A": []}

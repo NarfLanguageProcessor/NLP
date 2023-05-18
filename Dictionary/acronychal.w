@@ -1,0 +1,1 @@
+{"index": 2983, "D": "the star has an acronychal rising", "S": [], "A": []}

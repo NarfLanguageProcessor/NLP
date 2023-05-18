@@ -1,0 +1,1 @@
+{"index": 357964, "D": "a book of formulas to be used against demons.", "S": [], "A": []}

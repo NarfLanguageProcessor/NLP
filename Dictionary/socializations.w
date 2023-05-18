@@ -1,0 +1,1 @@
+{"index": 296115, "D": "a continuing process whereby an individual acquires a personal identity and learns the norms, values, behavior, and social  skills appropriate to their social  position.", "S": [], "A": []}

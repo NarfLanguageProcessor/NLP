@@ -1,0 +1,1 @@
+{"index": 64845, "D": "capable of being comprehended  or understood; intelligible.", "S": ["accuracy ", "brightness ", "certainty ", "directness ", "lucidity ", "precision ", "purity ", "simplicity ", "transparency "], "A": ["inaccuracy ", "unintelligibility "]}

@@ -1,0 +1,1 @@
+{"index": 95953, "D": "something that is produced by an agency or cause; result; consequence", "S": [], "A": []}

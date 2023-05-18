@@ -1,0 +1,1 @@
+{"index": 21038, "D": "a salt or other derivative of ascorbic acid. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 42207, "D": "any of several lepidopterous larvae, especially the spruce budworm,  that attack the buds  of plants.", "S": [], "A": []}

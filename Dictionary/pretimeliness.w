@@ -1,0 +1,1 @@
+{"index": 249982, "D": "the fact or quality of occurring at a suitable or opportune time", "S": [], "A": []}

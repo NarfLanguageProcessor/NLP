@@ -1,0 +1,1 @@
+{"index": 342455, "D": "to prevent the success of; frustrate; balk", "S": [], "A": []}

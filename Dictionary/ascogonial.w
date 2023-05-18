@@ -1,0 +1,1 @@
+{"index": 21019, "D": "the female sexual organ in certain ascomycetous fungi.", "S": [], "A": []}

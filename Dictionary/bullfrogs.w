@@ -1,0 +1,1 @@
+{"index": 42565, "D": "a large frog, especially the North American Rana catesbeiana, having a deep voice.", "S": ["toad "], "A": []}

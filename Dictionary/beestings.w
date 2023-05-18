@@ -1,0 +1,1 @@
+{"index": 30389, "D": "the first milk or colostrum of a mammal, especially a cow, after giving birth.", "S": [], "A": []}

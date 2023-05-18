@@ -1,0 +1,1 @@
+{"index": 93147, "D": "designed so that the substance, item, or its contents will not drip", "S": [], "A": []}

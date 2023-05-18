@@ -1,0 +1,1 @@
+{"index": 344688, "D": "to bring together or incorporate (parts) into a whole.", "S": [], "A": []}

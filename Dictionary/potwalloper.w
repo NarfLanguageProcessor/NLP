@@ -1,0 +1,1 @@
+{"index": 244836, "D": "(in some boroughs before the Reform Bill of 1832) a man who qualified as a householder, and therefore a voter, by virtue of ownership of his own fireplace at which to boil pots.", "S": [], "A": []}

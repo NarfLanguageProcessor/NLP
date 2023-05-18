@@ -1,0 +1,1 @@
+{"index": 204893, "D": "in a way that uses words to mean the opposite of what they normally mean, or makes an obvious exaggeration or understatement, as a joke or in order to make a point", "S": [], "A": []}

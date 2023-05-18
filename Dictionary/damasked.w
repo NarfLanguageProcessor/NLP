@@ -1,0 +1,1 @@
+{"index": 76527, "D": "a reversible fabric of linen, silk, cotton, or wool, woven with patterns.", "S": [], "A": []}

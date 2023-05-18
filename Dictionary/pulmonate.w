@@ -1,0 +1,1 @@
+{"index": 256307, "D": "having lungs or lunglike organs.", "S": [], "A": []}

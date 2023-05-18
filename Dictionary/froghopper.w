@@ -1,0 +1,1 @@
+{"index": 119257, "D": "any of numerous leaping, homopterous insects of the family Cercopidae, which in the immature stages live in a spittlelike secretion on plants.", "S": [], "A": []}

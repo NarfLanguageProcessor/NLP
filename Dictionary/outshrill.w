@@ -1,0 +1,1 @@
+{"index": 217442, "D": "high-pitched and piercing in sound quality", "S": [], "A": []}

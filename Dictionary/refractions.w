@@ -1,0 +1,1 @@
+{"index": 265319, "D": "the change of direction of a ray of light, sound, heat, or the like, in passing obliquely from one medium into another in which its wave velocity is different.", "S": [], "A": []}

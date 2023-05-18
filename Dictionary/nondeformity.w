@@ -1,0 +1,1 @@
+{"index": 202815, "D": "the quality or state of being deformed,  disfigured, or misshapen.", "S": [], "A": []}

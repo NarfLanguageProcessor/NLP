@@ -1,0 +1,1 @@
+{"index": 317868, "D": "a grass, Eragrostis tef, native to northern Africa, where it is cultivated for its edible seeds.", "S": [], "A": []}

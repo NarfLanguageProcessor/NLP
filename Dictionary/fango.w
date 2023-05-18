@@ -1,0 +1,1 @@
+{"index": 109725, "D": "clay or mud, especially a clay obtained from certain hot springs in Battaglio, Italy, used as a hot application in the treatment of certain diseases.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 229623, "D": "to pierce or pass into or through", "S": [], "A": []}

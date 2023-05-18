@@ -1,0 +1,1 @@
+{"index": 366109, "D": "a shop  where wine  is sold.", "S": ["spirit shop ", "spirit shoppe ", "wine store "], "A": []}

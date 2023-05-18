@@ -1,0 +1,1 @@
+{"index": 12748, "D": "a plant bearing an angiocarpous  fruit.", "S": [], "A": []}

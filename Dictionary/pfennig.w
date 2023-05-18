@@ -1,0 +1,1 @@
+{"index": 232682, "D": "a copper-coated iron coin and monetary unit of Germany until the euro  was adopted, one 100th of a Deutsche mark.", "S": [], "A": []}

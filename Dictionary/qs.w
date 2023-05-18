@@ -1,0 +1,1 @@
+{"index": 257439, "D": "(in prescriptions) as much as is sufficient; enough.", "S": [], "A": []}

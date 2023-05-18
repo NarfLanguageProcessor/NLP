@@ -1,0 +1,1 @@
+{"index": 348630, "D": "to drive, or cause to move, forward or onward", "S": [], "A": []}

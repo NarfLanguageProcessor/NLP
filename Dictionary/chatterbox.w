@@ -1,0 +1,1 @@
+{"index": 53132, "D": "an excessively talkative person.", "S": ["blabbermouth ", "busybody ", "clack ", "gossip ", "magpie ", "windbag "], "A": []}

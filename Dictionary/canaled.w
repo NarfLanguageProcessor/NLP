@@ -1,0 +1,1 @@
+{"index": 46003, "D": "an artificial waterway for navigation, irrigation, etc.", "S": [], "A": []}

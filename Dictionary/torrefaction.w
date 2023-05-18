@@ -1,0 +1,1 @@
+{"index": 326236, "D": "to subject to fire or intense heat; parch, roast, or scorch.", "S": [], "A": []}

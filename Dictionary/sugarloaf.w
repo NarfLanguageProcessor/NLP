@@ -1,0 +1,1 @@
+{"index": 310224, "D": "a large, usually conical loaf or mass of hard refined sugar", "S": [], "A": []}

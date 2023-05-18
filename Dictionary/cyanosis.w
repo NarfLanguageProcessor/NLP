@@ -1,0 +1,1 @@
+{"index": 56897, "D": "blueness or lividness of the skin, as from imperfectly oxygenated blood.", "S": [], "A": []}

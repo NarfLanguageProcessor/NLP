@@ -1,0 +1,1 @@
+{"index": 147315, "D": "unworthy of praise; not laudable.", "S": [], "A": []}

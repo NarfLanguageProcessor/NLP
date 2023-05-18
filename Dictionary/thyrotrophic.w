@@ -1,0 +1,1 @@
+{"index": 322163, "D": "capable of stimulating the thyroid gland.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 29234, "D": "(of animals) having white spots on a black or bay background; piebald.", "S": [], "A": []}

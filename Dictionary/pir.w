@@ -1,0 +1,1 @@
+{"index": 237537, "D": "a term of respect for the head of a religious group, especially in Pakistan and various areas of the Middle East.", "S": [], "A": []}

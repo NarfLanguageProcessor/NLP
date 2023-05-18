@@ -1,0 +1,1 @@
+{"index": 39527, "D": "somewhat salty or briny, as the water in an estuary or salt marsh, which is not as salty as the sea but saltier than a river", "S": ["acerbity ", "acidity ", "acridity ", "astringency ", "brininess ", "piquancy ", "pungency ", "sharpness ", "tartness ", "vinegariness "], "A": ["contentment ", "geniality ", "happiness ", "sweetness "]}

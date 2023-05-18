@@ -1,0 +1,1 @@
+{"index": 162409, "D": "a small group ruling a country, especially immediately after a coup d'\u00e9tat and before a legally constituted government has been instituted.", "S": ["faction ", "government "], "A": []}

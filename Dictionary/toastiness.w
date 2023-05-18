@@ -1,0 +1,1 @@
+{"index": 324912, "D": "comfortably or cozily warm.", "S": [], "A": []}

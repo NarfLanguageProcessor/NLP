@@ -1,0 +1,1 @@
+{"index": 365937, "D": "a person or thing that winds. ", "S": [], "A": []}

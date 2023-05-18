@@ -1,0 +1,1 @@
+{"index": 230347, "D": "a salt of perboric acid, as sodium perborate,  NaBO3\u22c54H2O, used for bleaching, disinfecting, etc.", "S": [], "A": []}

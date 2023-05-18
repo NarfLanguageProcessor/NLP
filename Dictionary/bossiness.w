@@ -1,0 +1,1 @@
+{"index": 38625, "D": "given to ordering people about; overly authoritative; domineering. ", "S": [], "A": []}

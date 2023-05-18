@@ -1,0 +1,1 @@
+{"index": 32830, "D": "a simple past tense and past participle of bet1. ", "S": [], "A": []}

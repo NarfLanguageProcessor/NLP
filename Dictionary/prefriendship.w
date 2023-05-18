@@ -1,0 +1,1 @@
+{"index": 247672, "D": "the state of being a friend;  association as friends", "S": [], "A": []}

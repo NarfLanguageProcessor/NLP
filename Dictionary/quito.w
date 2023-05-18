@@ -1,0 +1,1 @@
+{"index": 259034, "D": "a city in and the capital of Ecuador, in the N part. 9,348 feet (2,849 meters) above sea level.", "S": [], "A": []}

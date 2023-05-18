@@ -1,0 +1,1 @@
+{"index": 228356, "D": "the subacid, juicy, drupaceous fruit of a tree, Prunus persica, of the rose family.", "S": ["talk "], "A": ["be quiet "]}

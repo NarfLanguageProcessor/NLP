@@ -1,0 +1,1 @@
+{"index": 295938, "D": "warmly comfortable or cozy, as a place, accommodations, etc.", "S": ["bundle ", "burrow ", "cuddle ", "huddle ", "nuzzle ", "snug ", "snuggle "], "A": ["separate "]}

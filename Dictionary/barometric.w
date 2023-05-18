@@ -1,0 +1,1 @@
+{"index": 28178, "D": "Compare aneroid barometer, mercury barometer. ", "S": [], "A": []}

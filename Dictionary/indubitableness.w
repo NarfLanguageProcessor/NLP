@@ -1,0 +1,1 @@
+{"index": 151302, "D": "that cannot be doubted; patently evident or certain; unquestionable.", "S": ["confidence ", "inevitability ", "trust "], "A": ["distrust ", "disbelief "]}

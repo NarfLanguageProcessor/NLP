@@ -1,0 +1,1 @@
+{"index": 182549, "D": "a unit of power, equal to one million watts. Abbreviation", "S": [], "A": []}

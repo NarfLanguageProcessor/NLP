@@ -1,0 +1,1 @@
+{"index": 106016, "D": "to preach the gospel to.", "S": ["preachify ", "proclaim ", "proselytize ", "sermonize "], "A": []}

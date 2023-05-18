@@ -1,0 +1,1 @@
+{"index": 198072, "D": "capable of being negotiated", "S": [], "A": []}

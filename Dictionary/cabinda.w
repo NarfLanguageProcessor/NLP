@@ -1,0 +1,1 @@
+{"index": 43934, "D": "an exclave of Angola, on the W coast of Africa. 2,807 sq. mi. (7,270 sq. km).", "S": [], "A": []}

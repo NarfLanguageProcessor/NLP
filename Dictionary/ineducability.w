@@ -1,0 +1,1 @@
+{"index": 151466, "D": "incapable of being educated, especially because of some condition, as intellectual disability  or emotional disturbance.", "S": [], "A": []}

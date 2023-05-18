@@ -1,0 +1,1 @@
+{"index": 44444, "D": "absolute government; imperialism.", "S": [], "A": []}

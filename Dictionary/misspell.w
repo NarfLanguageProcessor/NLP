@@ -1,0 +1,1 @@
+{"index": 190114, "D": "to spell  incorrectly.", "S": ["misprint ", "vitiate "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 258052, "D": "occurring, done, paid, issued, etc., at the end of every quarter  of a year", "S": ["booklet ", "brochure ", "daily ", "journal ", "manual ", "newsletter ", "newspaper ", "pamphlet ", "paper ", "periodical ", "weekly "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 343380, "D": [], "S": ["decent ", "good ", "wholesome "], "A": ["bad ", "indecent ", "unsuitable ", "corrupt ", "dishonest ", "evil ", "sinful "]}

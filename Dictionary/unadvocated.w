@@ -1,0 +1,1 @@
+{"index": 334693, "D": "to speak or write in favor of; support or urge by argument; recommend publicly", "S": [], "A": []}

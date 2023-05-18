@@ -1,0 +1,1 @@
+{"index": 301295, "D": "a gazelle, Antidorcas marsupialis, of southern Africa, noted for its habit of springing into the air when alarmed.", "S": [], "A": []}

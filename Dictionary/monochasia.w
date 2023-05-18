@@ -1,0 +1,1 @@
+{"index": 192132, "D": "a form of cymose inflorescence in which the main axis produces only a single branch.", "S": [], "A": []}

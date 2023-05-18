@@ -1,0 +1,1 @@
+{"index": 139530, "D": "the handle of a sword or dagger.", "S": ["tail "], "A": ["top "]}

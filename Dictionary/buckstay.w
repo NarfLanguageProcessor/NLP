@@ -1,0 +1,1 @@
+{"index": 42105, "D": "a beam held by stays  to the exterior of a masonry wall, as that of a furnace or boiler, to keep the adjacent areas of the wall from being forced outward.", "S": [], "A": []}

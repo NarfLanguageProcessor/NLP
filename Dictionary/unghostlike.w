@@ -1,0 +1,1 @@
+{"index": 343032, "D": "the soul of a dead person, a disembodied spirit imagined, usually as a vague, shadowy or evanescent form, as wandering among or haunting living persons.", "S": [], "A": []}

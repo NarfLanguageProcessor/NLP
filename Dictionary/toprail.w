@@ -1,0 +1,1 @@
+{"index": 325995, "D": "the uppermost rail  of the back of a chair or the like; a crest rail. ", "S": [], "A": []}

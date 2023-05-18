@@ -1,0 +1,1 @@
+{"index": 290564, "D": "a slender, graceful woman or girl.", "S": ["angular ", "gangly ", "gaunt ", "lanky ", "rangy ", "sinewy ", "skinny ", "slender ", "slim ", "sparse ", "svelte ", "wiry "], "A": ["chubby ", "fat ", "heavy ", "plump ", "thick ", "fertile ", "fresh ", "strong "]}

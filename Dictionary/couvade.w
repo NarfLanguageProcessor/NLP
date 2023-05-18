@@ -1,0 +1,1 @@
+{"index": 71427, "D": "a practice among some peoples, as the Basques of Spain, in which a man, immediately preceding the birth of his child, takes to his bed in an enactment of the birth experience and subjects himself to various taboos usually associated with pregnancy.", "S": [], "A": []}

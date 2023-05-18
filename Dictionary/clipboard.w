@@ -1,0 +1,1 @@
+{"index": 60114, "D": "a small board  having at the top a clip  for holding papers and serving as a portable writing surface.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 221515, "D": "changed from the wild or savage state; domesticated", "S": [], "A": []}

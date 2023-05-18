@@ -1,0 +1,1 @@
+{"index": 11809, "D": "having analogy;  corresponding in some particular", "S": ["depiction ", "effigy ", "facsimile ", "image ", "photograph ", "portrait ", "replica ", "reproduction "], "A": ["entity ", "original ", "difference ", "disagreement ", "discord ", "dissimilarity ", "inequality ", "opposition ", "reality ", "unlikeness "]}

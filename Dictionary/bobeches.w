@@ -1,0 +1,1 @@
+{"index": 37075, "D": "a slightly cupped ring placed over the socket of a candleholder to catch the drippings of a candle.", "S": [], "A": []}

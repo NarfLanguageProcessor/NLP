@@ -1,0 +1,1 @@
+{"index": 159564, "D": "a prayer in the breviary, used by a priest about to begin a journey.", "S": [], "A": []}

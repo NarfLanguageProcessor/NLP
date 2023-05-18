@@ -1,0 +1,1 @@
+{"index": 281372, "D": "a division of the United Kingdom in the N part of Great Britain. 30,412 sq. mi. (78,772 sq. km). Capital", "S": [], "A": []}

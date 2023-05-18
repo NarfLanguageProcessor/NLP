@@ -1,0 +1,1 @@
+{"index": 86742, "D": "a substantive declined in only two cases, especially when occurring in a language in which this is less than the normal number.", "S": [], "A": []}

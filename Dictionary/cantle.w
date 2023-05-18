@@ -1,0 +1,1 @@
+{"index": 46661, "D": "the hind part of a saddle, usually curved upward.", "S": [], "A": []}

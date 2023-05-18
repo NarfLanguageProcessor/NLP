@@ -1,0 +1,1 @@
+{"index": 100945, "D": "an existing or real thing; an entity.", "S": [], "A": []}

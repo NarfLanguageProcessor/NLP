@@ -1,0 +1,1 @@
+{"index": 101876, "D": "to enclose in or as if in the womb. ", "S": [], "A": []}

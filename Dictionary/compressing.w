@@ -1,0 +1,1 @@
+{"index": 64869, "D": "to press together; force into less space.", "S": ["burden ", "squeeze ", "strain ", "strength ", "stress ", "tension "], "A": ["relaxation "]}

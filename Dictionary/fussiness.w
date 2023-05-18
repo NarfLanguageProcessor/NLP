@@ -1,0 +1,1 @@
+{"index": 120634, "D": "excessively busy with trifles; anxious or particular about petty details.", "S": ["care ", "carefulness ", "meticulousness ", "preciseness ", "punctiliousness ", "scrupulousness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 72095, "D": "observation, examination, and description of the human skull.", "S": [], "A": []}

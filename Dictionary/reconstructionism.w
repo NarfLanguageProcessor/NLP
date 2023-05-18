@@ -1,0 +1,1 @@
+{"index": 263408, "D": "a 20th-century movement among U.S. Jews, founded by Rabbi Mordecai M. Kaplan, advocating that Judaism, being a culture and way of life as well as a religion, is in sum a religious civilization requiring constant adaptation to contemporary conditions so that Jews can identify more readily and meaningfully with the Jewish community.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 11711, "D": "a white or slightly colored zeolite mineral, Na(AlSi2O6)\u22c5H2O, generally found in crystalline form.", "S": [], "A": []}

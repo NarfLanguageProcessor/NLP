@@ -1,0 +1,1 @@
+{"index": 56200, "D": "pertaining to color or colors.", "S": [], "A": []}

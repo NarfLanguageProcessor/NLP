@@ -1,0 +1,1 @@
+{"index": 11950, "D": "(of languages) tending to become uninflected, in accordance with a theory that languages evolve from uninflected to inflected and back.", "S": [], "A": []}

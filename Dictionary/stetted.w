@@ -1,0 +1,1 @@
+{"index": 304177, "D": "let it stand (used imperatively as a direction on a printer's proof, manuscript, or the like, to retain material previously cancelled, usually accompanied by a row of dots under or beside the material).", "S": [], "A": []}

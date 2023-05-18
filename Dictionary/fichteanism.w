@@ -1,0 +1,1 @@
+{"index": 112149, "D": "of, relating to, or resembling the philosophy of Johann Fichte. ", "S": [], "A": []}

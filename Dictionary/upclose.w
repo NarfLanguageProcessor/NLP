@@ -1,0 +1,1 @@
+{"index": 354576, "D": "at very close range.", "S": [], "A": []}

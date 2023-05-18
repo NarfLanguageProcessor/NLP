@@ -1,0 +1,1 @@
+{"index": 290516, "D": "weak-minded or lacking good sense; stupid or foolish", "S": [], "A": []}

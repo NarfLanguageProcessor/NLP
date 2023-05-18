@@ -1,0 +1,1 @@
+{"index": 280576, "D": "excessive enthusiasm or sentimentality.", "S": [], "A": []}

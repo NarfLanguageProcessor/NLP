@@ -1,0 +1,1 @@
+{"index": 107826, "D": "to take living material from an animal or plant and place it in a culture medium.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 335136, "D": "feeling or showing appreciation", "S": ["careless ", "cruel ", "heedless ", "inappreciative ", "rude ", "self-centered ", "thoughtless ", "ungracious ", "ungrateful ", "unmindful ", "unthankful ", "unthanking "], "A": []}

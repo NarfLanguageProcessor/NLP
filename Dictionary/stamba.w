@@ -1,0 +1,1 @@
+{"index": 302569, "D": "(in India) a memorial pillar.", "S": [], "A": []}

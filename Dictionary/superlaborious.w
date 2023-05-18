@@ -1,0 +1,1 @@
+{"index": 312169, "D": "requiring much work, exertion, or perseverance", "S": [], "A": []}

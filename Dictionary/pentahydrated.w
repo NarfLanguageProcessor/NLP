@@ -1,0 +1,1 @@
+{"index": 229941, "D": "a hydrate  that contains five molecules of water, as potassium molybdate, KMoO4\u22c55H2O.", "S": [], "A": []}

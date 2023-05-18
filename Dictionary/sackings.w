@@ -1,0 +1,1 @@
+{"index": 276311, "D": "stout, coarse woven material of hemp, jute, or the like, chiefly for sacks. ", "S": ["mischief "], "A": []}

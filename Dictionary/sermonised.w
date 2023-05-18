@@ -1,0 +1,1 @@
+{"index": 286163, "D": "to deliver or compose a sermon;  preach.", "S": [], "A": []}

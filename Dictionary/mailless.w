@@ -1,0 +1,1 @@
+{"index": 177858, "D": "letters, packages, etc., that are sent or delivered by means of a postal system", "S": [], "A": []}

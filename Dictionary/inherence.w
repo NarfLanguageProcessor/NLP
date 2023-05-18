@@ -1,0 +1,1 @@
+{"index": 152667, "D": "the state or fact of inhering  or being inherent. ", "S": [], "A": []}

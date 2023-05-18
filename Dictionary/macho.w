@@ -1,0 +1,1 @@
+{"index": 176796, "D": "having or characterized by qualities considered manly, especially when manifested in an assertive, self-conscious, or dominating way.", "S": ["aggressive ", "cocky ", "manly ", "masculine "], "A": ["cowardly ", "shy ", "timid ", "weak "]}

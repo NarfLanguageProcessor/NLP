@@ -1,0 +1,1 @@
+{"index": 173507, "D": "someone who gives attention with the ear, especially for the purpose of hearing specific sounds, speech, instructions, etc.", "S": ["audience "], "A": ["talker "]}

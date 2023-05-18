@@ -1,0 +1,1 @@
+{"index": 329770, "D": "formed of three parts; in three divisions.", "S": [], "A": []}

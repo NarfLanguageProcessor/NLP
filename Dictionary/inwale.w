@@ -1,0 +1,1 @@
+{"index": 157362, "D": "(in an open boat) a horizontal timber binding together the frames along the top strake.", "S": [], "A": []}

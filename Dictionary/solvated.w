@@ -1,0 +1,1 @@
+{"index": 296921, "D": "a compound formed by the interaction of a solvent  and a solute. ", "S": [], "A": []}

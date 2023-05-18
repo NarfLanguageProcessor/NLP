@@ -1,0 +1,1 @@
+{"index": 342323, "D": "the state or quality of being fixed;  stability; permanence.", "S": [], "A": []}

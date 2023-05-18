@@ -1,0 +1,1 @@
+{"index": 131358, "D": "an Aboriginal hut or shelter.", "S": [], "A": []}

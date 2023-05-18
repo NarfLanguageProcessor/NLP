@@ -1,0 +1,1 @@
+{"index": 193007, "D": "a slang word for money", "S": ["cash "], "A": []}

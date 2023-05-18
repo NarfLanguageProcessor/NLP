@@ -1,0 +1,1 @@
+{"index": 366220, "D": "to free (grain) from the lighter particles of chaff, dirt, etc., especially by throwing it into the air and allowing the wind or a forced current of air to blow away impurities.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 125567, "D": "having a spiral arrangement.", "S": [], "A": []}

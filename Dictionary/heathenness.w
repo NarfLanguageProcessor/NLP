@@ -1,0 +1,1 @@
+{"index": 134954, "D": "(in historical contexts) a member of a people that do not acknowledge the God of the Bible; a pagan. ", "S": [], "A": []}

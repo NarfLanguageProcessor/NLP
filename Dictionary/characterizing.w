@@ -1,0 +1,1 @@
+{"index": 52740, "D": "to mark or distinguish as a characteristic;  be a characteristic of", "S": ["definitive ", "detailed ", "eloquent ", "expressive ", "identifying ", "illuminating ", "pictorial ", "revealing ", "vivid "], "A": ["dull "]}

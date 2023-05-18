@@ -1,0 +1,1 @@
+{"index": 243418, "D": "the most lateral point in the roof of the bony external auditory meatus.", "S": [], "A": []}

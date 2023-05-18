@@ -1,0 +1,1 @@
+{"index": 262024, "D": "agreeable to reason  or sound judgment; logical", "S": ["acumen ", "good sense ", "insight ", "intelligence ", "judgment ", "logic ", "practicality ", "prudence ", "rationality ", "sense ", "sound judgment ", "wisdom ", "wit "], "A": ["ignorance ", "ineptness ", "irrationality ", "stupidity "]}

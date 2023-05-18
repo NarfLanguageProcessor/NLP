@@ -1,0 +1,1 @@
+{"index": 34401, "D": "the use of sensors and other instruments to record and transmit physiological data from persons or other living things, as in space flight.", "S": [], "A": []}

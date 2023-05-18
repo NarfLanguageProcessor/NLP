@@ -1,0 +1,1 @@
+{"index": 160113, "D": "a sharp projection on an edge or surface.", "S": [], "A": []}

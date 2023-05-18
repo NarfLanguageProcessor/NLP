@@ -1,0 +1,1 @@
+{"index": 15624, "D": "a binary compound containing antimony  and a second element, usually a metal.", "S": [], "A": []}

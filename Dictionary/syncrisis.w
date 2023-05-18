@@ -1,0 +1,1 @@
+{"index": 291490, "D": "the comparison of opposites.", "S": [], "A": []}

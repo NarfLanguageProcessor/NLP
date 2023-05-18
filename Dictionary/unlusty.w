@@ -1,0 +1,1 @@
+{"index": 345862, "D": "full of or characterized by healthy vigor.", "S": [], "A": []}

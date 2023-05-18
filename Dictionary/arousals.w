@@ -1,0 +1,1 @@
+{"index": 20108, "D": "the act or an instance of waking up", "S": ["activation ", "animating ", "arising ", "birth ", "enlivening ", "incitement ", "kindling ", "provocation ", "rebirth ", "renewal ", "revival ", "rousing ", "stimulation ", "waking "], "A": ["destruction ", "suppression "]}

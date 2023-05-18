@@ -1,0 +1,1 @@
+{"index": 302281, "D": "a group of persons, as employees, charged with carrying out the work of an establishment or executing some undertaking.", "S": [], "A": []}

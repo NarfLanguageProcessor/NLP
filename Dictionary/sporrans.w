@@ -1,0 +1,1 @@
+{"index": 301030, "D": "(in Scottish Highland costume) a large pouch for men, commonly of fur, worn, suspended from a belt, in front of the kilt.", "S": [], "A": []}

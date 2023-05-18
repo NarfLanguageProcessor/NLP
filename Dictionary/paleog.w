@@ -1,0 +1,1 @@
+{"index": 223705, "D": "paleography.", "S": [], "A": []}

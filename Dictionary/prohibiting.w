@@ -1,0 +1,1 @@
+{"index": 251963, "D": "to forbid (an action, activity, etc.) by authority or law", "S": ["excessive ", "exorbitant ", "preposterous ", "steep "], "A": ["cheap ", "inexpensive ", "moderate ", "reasonable ", "sensible "]}

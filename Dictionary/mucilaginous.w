@@ -1,0 +1,1 @@
+{"index": 194533, "D": "of, relating to, or secreting mucilage. ", "S": ["adhesive ", "clammy ", "gelatinous ", "gluey ", "glutinous ", "gooey ", "ropy ", "slimy ", "stiff ", "syrupy ", "tenacious ", "thick ", "tough ", "viscid ", "viscose "], "A": []}

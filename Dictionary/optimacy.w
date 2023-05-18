@@ -1,0 +1,1 @@
+{"index": 213812, "D": [], "S": ["aristocracy ", "celebrity ", "establishment ", "society "], "A": ["proletariat ", "worst "]}

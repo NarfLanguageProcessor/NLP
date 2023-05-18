@@ -1,0 +1,1 @@
+{"index": 265879, "D": "at regular  times or intervals.", "S": ["automatically ", "commonly ", "faithfully ", "frequently ", "repeatedly ", "routinely ", "systematically ", "usually "], "A": ["uncommonly ", "unusually "]}

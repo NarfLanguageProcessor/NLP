@@ -1,0 +1,1 @@
+{"index": 81533, "D": "poorly or imperfectly developed.", "S": [], "A": []}

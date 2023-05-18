@@ -1,0 +1,1 @@
+{"index": 4304, "D": "capable of being adopted;  suitable or eligible for adoption", "S": [], "A": []}

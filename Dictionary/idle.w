@@ -1,0 +1,1 @@
+{"index": 146583, "D": "not working or active; unemployed; doing nothing", "S": ["empty ", "unproductive ", "useless "], "A": ["active ", "ambitious ", "busy ", "diligent ", "effective ", "employed ", "hustling ", "important ", "productive ", "used ", "working ", "worthwhile "]}

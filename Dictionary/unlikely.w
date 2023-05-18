@@ -1,0 +1,1 @@
+{"index": 345621, "D": "not likely to be or occur; improbable; marked by doubt.", "S": ["absurd ", "implausible ", "improbable ", "inconceivable ", "incredible ", "rare ", "remote ", "strange ", "unbelievable "], "A": ["believable ", "common ", "credible ", "likely ", "plausible ", "possible ", "probable ", "reasonable ", "regular ", "tenable ", "usual "]}

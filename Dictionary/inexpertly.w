@@ -1,0 +1,1 @@
+{"index": 151707, "D": "not expert; unskilled.", "S": ["badly ", "crudely ", "inadequately ", "insufficiently "], "A": ["satisfactorily ", "well "]}

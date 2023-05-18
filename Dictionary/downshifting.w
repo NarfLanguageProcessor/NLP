@@ -1,0 +1,1 @@
+{"index": 92303, "D": "the practice of simplifying one's lifestyle and becoming less materialistic", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 327058, "D": "Compare vessel (def. 5). ", "S": [], "A": []}

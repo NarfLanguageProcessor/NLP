@@ -1,0 +1,1 @@
+{"index": 119967, "D": "of or noting the entire duration of normal pregnancy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 200869, "D": "one of the provinces of ancient Egypt.", "S": [], "A": []}

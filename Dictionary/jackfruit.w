@@ -1,0 +1,1 @@
+{"index": 159911, "D": "a large, tropical, milky-juiced tree, Artocarpus heterophyllus,of the mulberry family, having stiff and glossy green leaves, cultivated for its very large, edible fruit and seeds.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 179137, "D": "of or containing manganese,  especially in the trivalent state.", "S": [], "A": []}

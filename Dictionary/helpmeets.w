@@ -1,0 +1,1 @@
+{"index": 135819, "D": "helpmate. ", "S": ["consort ", "espoused ", "feme covert ", "helpmate ", "husband ", "mate ", "partner ", "rib ", "significant other ", "soul mate ", "spouse ", "wife "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 218465, "D": "offensively self-assertive", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 203015, "D": "the act of deviating.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 125167, "D": "having stamens and pistils united in a column, as in orchids", "S": ["androgynous ", "bi ", "double-gaited ", "hermaphroditic ", "hits both ways ", "intersexual ", "monoclinous ", "swings both ways ", "switch-hitting "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 154458, "D": "one of the radial areas in an echinoderm, as the sea urchin, bearing the tube feet by which the creature moves.", "S": [], "A": []}

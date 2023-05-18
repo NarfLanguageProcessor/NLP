@@ -1,0 +1,1 @@
+{"index": 802, "D": "any variation or change, typically striation, in the different dyes of an Oriental rug as it ages.", "S": [], "A": []}

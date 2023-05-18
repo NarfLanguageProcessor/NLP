@@ -1,0 +1,1 @@
+{"index": 177887, "D": "a large computer, often the hub of a system serving many users.", "S": ["CPU ", "central processor ", "processor "], "A": []}

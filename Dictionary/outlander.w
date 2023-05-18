@@ -1,0 +1,1 @@
+{"index": 216890, "D": "a foreigner; alien.", "S": ["alien ", "greenhorn ", "immigrant ", "newcomer ", "outsider ", "stranger "], "A": ["local ", "national ", "native "]}

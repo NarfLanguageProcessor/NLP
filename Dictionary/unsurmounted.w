@@ -1,0 +1,1 @@
+{"index": 352494, "D": "to mount upon; get on the top of; mount upon and cross over", "S": [], "A": []}

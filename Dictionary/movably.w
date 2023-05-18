@@ -1,0 +1,1 @@
+{"index": 194381, "D": "capable of being moved; not fixed in one place, position, or posture.", "S": [], "A": []}

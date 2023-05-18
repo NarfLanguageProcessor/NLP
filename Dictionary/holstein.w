@@ -1,0 +1,1 @@
+{"index": 142708, "D": "one of a breed of black-and-white dairy cattle, raised originally in North Holland and Friesland, that yields large quantities of milk having a low content of butterfat.", "S": [], "A": []}

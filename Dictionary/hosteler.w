@@ -1,0 +1,1 @@
+{"index": 144205, "D": "a person who operates a hostel.", "S": [], "A": []}

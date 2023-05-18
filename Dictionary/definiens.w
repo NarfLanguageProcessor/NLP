@@ -1,0 +1,1 @@
+{"index": 79320, "D": "something that defines, especially the defining part of a dictionary entry.", "S": [], "A": []}

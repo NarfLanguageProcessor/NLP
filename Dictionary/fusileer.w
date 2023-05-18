@@ -1,0 +1,1 @@
+{"index": 120596, "D": "a member of a British regiment formerly armed with fusils. ", "S": [], "A": []}

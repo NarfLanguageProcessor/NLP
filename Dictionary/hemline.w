@@ -1,0 +1,1 @@
+{"index": 136325, "D": "the bottom edge of a coat, dress, skirt, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 270696, "D": "to pass or move over, along, or through.", "S": [], "A": []}

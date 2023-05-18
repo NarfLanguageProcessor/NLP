@@ -1,0 +1,1 @@
+{"index": 348034, "D": "giving pleasure; agreeable; gratifying", "S": ["flimsy "], "A": ["strong "]}

@@ -1,0 +1,1 @@
+{"index": 150265, "D": "the quality or condition of being inconsistent. ", "S": [], "A": []}

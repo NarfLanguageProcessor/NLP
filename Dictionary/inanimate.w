@@ -1,0 +1,1 @@
+{"index": 149451, "D": "not animate; lifeless.", "S": ["azoic ", "cold ", "dead ", "defunct ", "dull ", "exanimate ", "extinct ", "idle ", "inactive ", "inert ", "inoperative ", "insensate ", "insentient ", "lifeless ", "mineral ", "motionless ", "nonanimal ", "nonvegetable ", "quiescent ", "soulless ", "spiritless "], "A": ["animate ", "living "]}

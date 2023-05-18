@@ -1,0 +1,1 @@
+{"index": 213405, "D": "(of the texture of rocks such as dolerite) having small elongated unorientated feldspar crystals enclosed within pyroxene grains", "S": [], "A": []}

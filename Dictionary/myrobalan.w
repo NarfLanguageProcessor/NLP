@@ -1,0 +1,1 @@
+{"index": 188498, "D": "the dried plumlike fruit of certain tropical trees of the genus Phyllanthus, used in dyeing, tanning, and making ink.", "S": [], "A": []}

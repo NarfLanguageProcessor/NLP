@@ -1,0 +1,1 @@
+{"index": 102569, "D": "Compare prologue (def. 1). ", "S": ["afterword ", "coda ", "postscript ", "summation "], "A": ["beginning ", "commencement ", "introduction ", "opening ", "start "]}

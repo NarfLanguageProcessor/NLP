@@ -1,0 +1,1 @@
+{"index": 242048, "D": "the act or process of forming a polymer or polymeric  compound.", "S": [], "A": []}

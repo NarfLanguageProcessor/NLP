@@ -1,0 +1,1 @@
+{"index": 108324, "D": "a required period of supervised practice done off campus or away from one's affiliated institution", "S": [], "A": []}

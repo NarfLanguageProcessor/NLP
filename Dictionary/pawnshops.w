@@ -1,0 +1,1 @@
+{"index": 228282, "D": "the shop  of a pawnbroker, especially one where unredeemed items are displayed and sold.", "S": ["bank ", "banker "], "A": []}

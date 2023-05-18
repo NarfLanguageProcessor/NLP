@@ -1,0 +1,1 @@
+{"index": 204474, "D": "corresponding in structure because of a common origin.", "S": [], "A": []}

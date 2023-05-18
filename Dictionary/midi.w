@@ -1,0 +1,1 @@
+{"index": 186744, "D": "a skirt, dress, or coat, of mid-calf length.", "S": ["austral ", "meridional ", "southerly "], "A": ["northern "]}

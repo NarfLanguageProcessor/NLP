@@ -1,0 +1,1 @@
+{"index": 132116, "D": "a surgical instrument that stops bleeding by compression of a blood vessel", "S": [], "A": []}

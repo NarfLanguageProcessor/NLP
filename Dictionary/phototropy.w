@@ -1,0 +1,1 @@
+{"index": 235455, "D": "an alteration in the colour of certain substances as a result of being exposed to light of different wavelengths", "S": [], "A": []}

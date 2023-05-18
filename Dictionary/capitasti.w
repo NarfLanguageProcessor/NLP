@@ -1,0 +1,1 @@
+{"index": 46919, "D": "a plural of capotasto. ", "S": [], "A": []}

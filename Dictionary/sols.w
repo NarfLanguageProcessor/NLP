@@ -1,0 +1,1 @@
+{"index": 296876, "D": "the syllable used for the fifth tone of a diatonic scale.", "S": ["star ", "sunlight "], "A": ["darkness ", "sunset "]}

@@ -1,0 +1,1 @@
+{"index": 314159, "D": "a swaggering swordsman, soldier, or adventurer; daredevil.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321798, "D": "a sleight-of-hand swindling game in which the operator palms a pellet or pea while appearing to cover it with one of three thimblelike cups, and then, moving the cups about, offers to bet that no one can tell under which cup the pellet or pea lies.", "S": [], "A": []}

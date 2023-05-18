@@ -1,0 +1,1 @@
+{"index": 131004, "D": "an independent republic on the northeastern coast of South America", "S": [], "A": []}

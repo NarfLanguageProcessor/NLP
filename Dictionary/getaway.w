@@ -1,0 +1,1 @@
+{"index": 124428, "D": "a getting away or fleeing; an escape.", "S": ["break ", "breakout ", "decampment ", "flight ", "lam ", "slip "], "A": []}

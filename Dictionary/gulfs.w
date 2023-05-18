@@ -1,0 +1,1 @@
+{"index": 131183, "D": "a portion of an ocean or sea partly enclosed by land.", "S": ["basin ", "bay ", "bayou ", "bight ", "cove ", "firth ", "harbor ", "slough ", "sound ", "whirlpool "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128845, "D": "affectedly grand or important; pompous", "S": [], "A": []}

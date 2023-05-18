@@ -1,0 +1,1 @@
+{"index": 71665, "D": "a shed  serving as a shelter for cows. ", "S": [], "A": []}

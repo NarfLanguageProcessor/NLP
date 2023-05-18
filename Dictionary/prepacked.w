@@ -1,0 +1,1 @@
+{"index": 248723, "D": "(of food, grain, etc) packed in advance of sale", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 257147, "D": "pus. ", "S": ["discharge ", "infection ", "maturation ", "pus ", "suppuration ", "ulceration "], "A": []}

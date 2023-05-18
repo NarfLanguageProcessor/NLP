@@ -1,0 +1,1 @@
+{"index": 33856, "D": "a small two-masted merchant vessel, a type of hoy distinguished by the trapezoidal shape of the mainsail, used especially on canals and along coasts of the Low Countries.", "S": [], "A": []}

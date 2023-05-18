@@ -1,0 +1,1 @@
+{"index": 278842, "D": "a person or thing that saturates.", "S": [], "A": []}

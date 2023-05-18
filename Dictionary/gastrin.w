@@ -1,0 +1,1 @@
+{"index": 122512, "D": "a hormone that stimulates the secretion of gastric juice.", "S": [], "A": []}

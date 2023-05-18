@@ -1,0 +1,1 @@
+{"index": 106874, "D": "clearance from a charge of guilt or fault; vindication", "S": ["acquittal ", "acquittance ", "excuse ", "exoneration ", "vindication "], "A": ["blame ", "conviction "]}

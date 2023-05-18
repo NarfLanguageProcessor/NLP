@@ -1,0 +1,1 @@
+{"index": 159905, "D": "a short coat, in any of various forms, usually opening down the front.", "S": [], "A": []}

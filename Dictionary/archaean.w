@@ -1,0 +1,1 @@
+{"index": 18655, "D": "any member of the Archaea, a domain of prokaryotic microorganisms, distinguished from bacteria on molecular phylogenetic grounds and often found in hostile environments, such as volcanic vents and hot springs", "S": [], "A": []}

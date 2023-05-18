@@ -1,0 +1,1 @@
+{"index": 42027, "D": "a bog plant, Menyanthes trifoliata, of the gentian family, having narrow clusters of white or pink flowers.", "S": [], "A": []}

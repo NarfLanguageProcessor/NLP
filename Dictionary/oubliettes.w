@@ -1,0 +1,1 @@
+{"index": 216039, "D": "a secret dungeon with an opening only in the ceiling, as in certain old castles.", "S": ["torture chamber "], "A": []}

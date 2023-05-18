@@ -1,0 +1,1 @@
+{"index": 43329, "D": "pouch-shaped; saccate.", "S": [], "A": []}

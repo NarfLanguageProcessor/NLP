@@ -1,0 +1,1 @@
+{"index": 145867, "D": "a member of a tribe of North American Indians who live in Arizona.", "S": [], "A": []}

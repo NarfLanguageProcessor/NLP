@@ -1,0 +1,1 @@
+{"index": 369619, "D": "Compare sign of the zodiac. ", "S": [], "A": []}

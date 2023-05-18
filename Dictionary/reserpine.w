@@ -1,0 +1,1 @@
+{"index": 269225, "D": "an alkaloid, C33H40N2O9, obtained from the root of the rauwolfia, Rauwolfia serpentina, used in the treatment of hypertension.", "S": [], "A": []}

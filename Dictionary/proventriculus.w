@@ -1,0 +1,1 @@
+{"index": 254035, "D": "the glandular portion of the stomach of birds, in which food is partially digested before passing to the ventriculus  or gizzard.", "S": [], "A": []}

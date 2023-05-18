@@ -1,0 +1,1 @@
+{"index": 364078, "D": "to cheat by failing to pay a gambling debt", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 54832, "D": "to make a characteristic short, sharp sound, as small birds and certain insects.", "S": [], "A": []}

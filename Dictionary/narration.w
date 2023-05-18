@@ -1,0 +1,1 @@
+{"index": 197042, "D": "something narrated;  an account, story, or narrative. ", "S": ["anecdote ", "narrative ", "tale ", "voice-over "], "A": ["concealment ", "suppression "]}

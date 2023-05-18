@@ -1,0 +1,1 @@
+{"index": 297304, "D": "giving out or capable of giving out a sound, especially a deep, resonant sound, as a thing or place", "S": ["apparently ", "certainly ", "definitely ", "distinctly ", "evidently ", "obviously ", "openly ", "plainly ", "positively ", "precisely ", "seemingly ", "surely ", "undoubtedly "], "A": ["doubtfully ", "dubiously ", "questionably ", "uncertain "]}

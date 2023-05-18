@@ -1,0 +1,1 @@
+{"index": 148308, "D": "in a way that is not partial,  prejudiced, or biased; fairly; justly", "S": ["equitably ", "fairly ", "justly ", "uniformly "], "A": ["unfairly ", "unjustly "]}

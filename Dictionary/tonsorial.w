@@ -1,0 +1,1 @@
+{"index": 325670, "D": "of or relating to a barber or barbering", "S": [], "A": []}

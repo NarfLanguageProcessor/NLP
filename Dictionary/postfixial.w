@@ -1,0 +1,1 @@
+{"index": 244139, "D": "to affix at the end of something; append; suffix.", "S": [], "A": []}

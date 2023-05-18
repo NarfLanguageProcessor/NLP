@@ -1,0 +1,1 @@
+{"index": 272236, "D": "the area of soil that surrounds the roots of a plant and is altered by the plant's root growth, nutrients, respiration, etc.", "S": [], "A": []}

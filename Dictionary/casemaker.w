@@ -1,0 +1,1 @@
+{"index": 48823, "D": "a person or thing that makes cases, especially for books.", "S": [], "A": []}

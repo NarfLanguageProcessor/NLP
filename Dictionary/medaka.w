@@ -1,0 +1,1 @@
+{"index": 181953, "D": "a small Japanese fish, Oryzias latipes, common in rice fields, often kept in aquariums.", "S": [], "A": []}

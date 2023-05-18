@@ -1,0 +1,1 @@
+{"index": 96176, "D": "of or resembling a horizontal construction divided by vertical partitions into cell-like areas, used especially for directing downward rays of overhead light", "S": [], "A": []}

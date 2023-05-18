@@ -1,0 +1,1 @@
+{"index": 279883, "D": "to throw loosely about; distribute at irregular intervals", "S": [], "A": []}

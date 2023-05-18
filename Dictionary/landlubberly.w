@@ -1,0 +1,1 @@
+{"index": 167983, "D": "an unseasoned sailor or someone unfamiliar with the sea.", "S": [], "A": []}

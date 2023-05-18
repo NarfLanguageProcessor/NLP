@@ -1,0 +1,1 @@
+{"index": 285229, "D": "to cause, permit, or enable to go", "S": [], "A": []}

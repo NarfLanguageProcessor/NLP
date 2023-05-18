@@ -1,0 +1,1 @@
+{"index": 175075, "D": "an act or instance of looking something up, as information in a reference book or an online database.", "S": [], "A": []}

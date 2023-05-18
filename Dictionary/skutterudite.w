@@ -1,0 +1,1 @@
+{"index": 293523, "D": "a mineral, chiefly cobalt and nickel arsenide, (Co,Ni)As3, with some iron, occurring in the form of gray cubic crystals, usually in masses", "S": [], "A": []}

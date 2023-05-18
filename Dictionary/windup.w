@@ -1,0 +1,1 @@
+{"index": 366058, "D": "the conclusion of any action, activity, etc.; the end or close.", "S": ["breakup ", "closing ", "conclusion ", "consummation ", "denouement ", "finale ", "finish ", "stopping point ", "terminus "], "A": []}

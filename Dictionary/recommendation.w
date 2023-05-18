@@ -1,0 +1,1 @@
+{"index": 263155, "D": "an act of recommending. ", "S": ["charge ", "endorsement ", "guidance ", "instruction ", "judgment ", "order ", "proposal ", "proposition ", "sanction ", "suggestion ", "support "], "A": ["disapproval ", "opposition ", "refusal ", "rejection ", "blame ", "censure ", "condemnation ", "criticism "]}

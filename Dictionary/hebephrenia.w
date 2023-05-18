@@ -1,0 +1,1 @@
+{"index": 135056, "D": "a type of schizophrenia characterized by emotionless, incongruous, or silly behavior, intellectual deterioration, and hallucinations, frequently beginning insidiously during adolescence.", "S": [], "A": []}

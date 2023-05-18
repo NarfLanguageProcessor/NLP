@@ -1,0 +1,1 @@
+{"index": 94323, "D": "a person who is easily deceived or fooled; gull. ", "S": ["exploitable ", "foolish ", "gullible ", "naive ", "simple ", "susceptible ", "unsuspecting "], "A": []}

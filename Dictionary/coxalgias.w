@@ -1,0 +1,1 @@
+{"index": 71688, "D": "pain in the hip.", "S": [], "A": []}

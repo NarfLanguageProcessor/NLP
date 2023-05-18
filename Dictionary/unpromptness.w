@@ -1,0 +1,1 @@
+{"index": 348618, "D": "the fact of being done, delivered, etc., at once or without delay", "S": [], "A": []}

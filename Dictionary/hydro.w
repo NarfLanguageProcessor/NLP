@@ -1,0 +1,1 @@
+{"index": 138502, "D": "hydroelectric power.", "S": [], "A": []}

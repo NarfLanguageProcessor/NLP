@@ -1,0 +1,1 @@
+{"index": 50024, "D": "of, constituting, or implying a cause. ", "S": ["creative ", "imaginative ", "innovative ", "inventive ", "seminal ", "unconventional ", "unusual "], "A": ["borrowed ", "hackneyed ", "latest ", "old ", "used ", "worn "]}

@@ -1,0 +1,1 @@
+{"index": 162150, "D": "the art or practice of a juggler,  especially sleight of hand.", "S": ["conjuration ", "dirty game ", "dirty politics ", "dirty tricks ", "dirty work ", "escamotage ", "foul play ", "legerdemain ", "mudslinging ", "prestidigitation ", "sleight of hand ", "smoke and mirrors ", "trickery "], "A": []}

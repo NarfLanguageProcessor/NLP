@@ -1,0 +1,1 @@
+{"index": 273882, "D": "of or relating to a king, queen, or other sovereign", "S": ["czar ", "emperor ", "king ", "monarch ", "shah ", "sultan "], "A": ["commoner ", "subject "]}

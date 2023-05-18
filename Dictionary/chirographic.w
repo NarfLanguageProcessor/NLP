@@ -1,0 +1,1 @@
+{"index": 54767, "D": "handwriting; penmanship.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 36791, "D": "an American hound having a usually black, tan, and white coat flecked or mottled with black, used in hunting foxes and raccoons.", "S": [], "A": []}

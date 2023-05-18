@@ -1,0 +1,1 @@
+{"index": 337688, "D": "agreeing; accordant.", "S": [], "A": []}

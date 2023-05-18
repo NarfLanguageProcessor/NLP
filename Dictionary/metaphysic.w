@@ -1,0 +1,1 @@
+{"index": 184881, "D": "metaphysics. ", "S": ["attitude ", "doctrine ", "idea ", "ideology ", "logic ", "outlook ", "reasoning ", "system ", "tenet ", "theory ", "thinking ", "thought ", "truth ", "view ", "viewpoint ", "wisdom "], "A": []}

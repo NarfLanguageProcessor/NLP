@@ -1,0 +1,1 @@
+{"index": 56775, "D": "shameless audacity; impudence", "S": ["arrogance ", "audacity ", "boldness ", "gall "], "A": ["humility ", "meekness ", "modesty "]}

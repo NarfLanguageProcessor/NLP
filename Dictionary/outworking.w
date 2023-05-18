@@ -1,0 +1,1 @@
+{"index": 217952, "D": "to work  harder, better, or faster than.", "S": [], "A": []}

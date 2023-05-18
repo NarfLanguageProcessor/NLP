@@ -1,0 +1,1 @@
+{"index": 289428, "D": "the object that is struck back and forth in badminton and battledore, consisting of a feathered cork head and a plastic crown.", "S": [], "A": []}

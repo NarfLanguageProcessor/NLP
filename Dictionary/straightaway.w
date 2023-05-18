@@ -1,0 +1,1 @@
+{"index": 305648, "D": "straight onward, without turn or curve, as a racecourse.", "S": ["dead ", "due ", "forthwith ", "immediately ", "instant ", "instantly ", "now ", "right ", "straight "], "A": ["eventually ", "indirectly ", "later "]}

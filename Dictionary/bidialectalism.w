@@ -1,0 +1,1 @@
+{"index": 33540, "D": "proficient in or using two dialects of the same language.", "S": [], "A": []}

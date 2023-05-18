@@ -1,0 +1,1 @@
+{"index": 263952, "D": "to solve or conclude (a question, controversy, or struggle) by giving victory to one side", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 46244, "D": "the state or quality of being frank, open, and sincere in speech or expression; candidness", "S": ["directness ", "fairness ", "frankness ", "honesty ", "outspokenness ", "probity ", "simplicity ", "sincerity ", "truthfulness "], "A": ["deceit ", "dishonesty ", "lying ", "unfairness "]}

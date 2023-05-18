@@ -1,0 +1,1 @@
+{"index": 264685, "D": "a ditch, esp a drainage channel", "S": [], "A": []}

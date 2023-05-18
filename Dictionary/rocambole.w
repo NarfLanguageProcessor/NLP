@@ -1,0 +1,1 @@
+{"index": 273630, "D": "a European plant, Allium scorodoprasum, of the amaryllis family, used like garlic.", "S": [], "A": []}

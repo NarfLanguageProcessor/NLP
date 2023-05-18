@@ -1,0 +1,1 @@
+{"index": 210376, "D": "capable of being or liable to be observed;  noticeable; visible; discernible", "S": ["appreciable ", "detectable ", "discernible ", "noticeable ", "perceptible "], "A": ["imperceptible ", "invisible ", "obscure ", "unnoticeable "]}

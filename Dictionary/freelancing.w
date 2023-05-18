@@ -1,0 +1,1 @@
+{"index": 118621, "D": "Compare full-time (def. 2). ", "S": ["labor ", "manage ", "pursue ", "strive ", "toil ", "try "], "A": ["stop ", "be lazy ", "idle ", "laze "]}

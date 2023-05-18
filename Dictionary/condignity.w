@@ -1,0 +1,1 @@
+{"index": 65582, "D": "Compare congruity (def. 4). ", "S": [], "A": []}

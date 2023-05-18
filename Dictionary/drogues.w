@@ -1,0 +1,1 @@
+{"index": 93237, "D": "a bucket or canvas bag used as a sea anchor.", "S": ["anchor ", "bower ", "drift anchor ", "sheet anchor "], "A": []}

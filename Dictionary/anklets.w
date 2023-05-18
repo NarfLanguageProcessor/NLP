@@ -1,0 +1,1 @@
+{"index": 13437, "D": "a sock that reaches just above the ankle. ", "S": ["bobby sock ", "crew sock ", "no-see-um sock "], "A": []}

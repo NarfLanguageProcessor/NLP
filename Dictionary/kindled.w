@@ -1,0 +1,1 @@
+{"index": 164769, "D": "to start (a fire); cause (a flame, blaze, etc.) to begin burning.", "S": ["fiery ", "flaming ", "gleaming ", "glowing ", "hot ", "scorching ", "searing "], "A": ["cold ", "cool "]}

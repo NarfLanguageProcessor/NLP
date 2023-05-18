@@ -1,0 +1,1 @@
+{"index": 120940, "D": "to take hold of; seize.", "S": [], "A": []}

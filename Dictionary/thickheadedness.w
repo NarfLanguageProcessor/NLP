@@ -1,0 +1,1 @@
+{"index": 321699, "D": "(of a person) dull-witted; stupid.", "S": ["absurdity ", "apathy ", "idiocy ", "ignorance ", "lunacy ", "nonsense ", "silliness "], "A": ["intelligence ", "sense "]}

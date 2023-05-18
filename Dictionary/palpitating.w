@@ -1,0 +1,1 @@
+{"index": 224172, "D": "to pulsate with unusual rapidity from exertion, emotion, disease, etc.; flutter", "S": ["aquiver ", "quavering ", "quivering ", "quivery ", "shaky ", "shivering ", "shivery ", "trembling ", "tremulant ", "twittery ", "wobbly "], "A": []}

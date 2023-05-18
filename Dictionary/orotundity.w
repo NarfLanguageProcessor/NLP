@@ -1,0 +1,1 @@
+{"index": 214860, "D": "(of the voice or speech) characterized by strength, fullness, richness, and clearness.", "S": ["balderdash ", "claptrap ", "fustian ", "grandiloquence ", "histrionics ", "magniloquence ", "pomposity ", "rant ", "turgidity "], "A": []}

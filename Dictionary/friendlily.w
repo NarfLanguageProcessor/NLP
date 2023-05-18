@@ -1,0 +1,1 @@
+{"index": 118957, "D": "characteristic of or befitting afriend;  showing friendship", "S": [], "A": []}

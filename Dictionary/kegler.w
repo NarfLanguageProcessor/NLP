@@ -1,0 +1,1 @@
+{"index": 163627, "D": "a participant in a bowling game, as candlepins or tenpins.", "S": [], "A": []}

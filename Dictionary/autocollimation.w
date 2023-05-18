@@ -1,0 +1,1 @@
+{"index": 23961, "D": "the process used in an autocollimator. ", "S": [], "A": []}

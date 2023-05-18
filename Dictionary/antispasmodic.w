@@ -1,0 +1,1 @@
+{"index": 16231, "D": "preventing or arresting spasms, esp in smooth muscle", "S": [], "A": []}

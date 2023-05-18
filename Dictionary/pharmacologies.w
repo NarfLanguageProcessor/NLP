@@ -1,0 +1,1 @@
+{"index": 233143, "D": "the science dealing with the preparation, uses, and especially the effects of drugs.", "S": [], "A": []}

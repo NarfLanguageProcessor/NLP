@@ -1,0 +1,1 @@
+{"index": 17025, "D": "a sacred bull worshiped at Memphis", "S": [], "A": []}

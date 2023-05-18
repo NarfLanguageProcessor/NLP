@@ -1,0 +1,1 @@
+{"index": 95866, "D": "to free from acids, salts, or impurities by washing; purify.", "S": ["bathe ", "brush ", "cleanse ", "clear up ", "disinfect ", "dredge ", "dust ", "mop ", "pick ", "pick up ", "rinse ", "scrape ", "scrub ", "soak ", "spruce up ", "sweep ", "vacuum ", "wash ", "wipe "], "A": ["dirty ", "worsen "]}

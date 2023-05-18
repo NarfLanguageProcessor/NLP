@@ -1,0 +1,1 @@
+{"index": 306634, "D": "mode of building, construction, or organization; arrangement of parts, elements, or constituents", "S": ["architecture ", "design ", "metallurgy ", "planning "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 363190, "D": "the part of the outside of a ship's hull that is just at the water level. ", "S": [], "A": []}

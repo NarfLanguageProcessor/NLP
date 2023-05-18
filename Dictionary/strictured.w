@@ -1,0 +1,1 @@
+{"index": 306223, "D": "a remark or comment, especially an adverse criticism", "S": [], "A": []}

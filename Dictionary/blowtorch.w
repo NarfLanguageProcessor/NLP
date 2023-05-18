@@ -1,0 +1,1 @@
+{"index": 36650, "D": "a small portable apparatus that gives an extremely hot gasoline flame intensified by a blast, used especially in metalworking.", "S": ["Concorde ", "business jet ", "jet ", "jet liner ", "jumbo jet ", "multi-jet ", "pulse-jet ", "ramjet ", "single-jet ", "supersonic jet ", "supersonic transport ", "turbojet ", "twin-jet "], "A": []}

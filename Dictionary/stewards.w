@@ -1,0 +1,1 @@
+{"index": 304201, "D": "a person who manages another's property or financial affairs; one who administers anything as the agent of another or others.", "S": ["board ", "bureau ", "cabinet ", "committee ", "department ", "executive ", "legislature ", "management ", "ministry ", "presidency "], "A": []}

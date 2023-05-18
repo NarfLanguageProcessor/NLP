@@ -1,0 +1,1 @@
+{"index": 172754, "D": "marked with lines, especially parallel lengthwise lines; striped. ", "S": [], "A": []}

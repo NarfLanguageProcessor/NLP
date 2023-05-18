@@ -1,0 +1,1 @@
+{"index": 35511, "D": "a small, black-tipped, fatty mass in a skin follicle, especially of the face; comedo.", "S": ["blot ", "blotch ", "bruise ", "discoloration ", "freckle ", "imperfection ", "pimple ", "scar ", "smudge ", "snag ", "stain ", "stigma ", "wart "], "A": ["cleanliness ", "perfection ", "advantage ", "beauty ", "benefit ", "esteem ", "honor "]}

@@ -1,0 +1,1 @@
+{"index": 64726, "D": "an expression of praise, commendation, or admiration", "S": ["exalted ", "lauded "], "A": []}

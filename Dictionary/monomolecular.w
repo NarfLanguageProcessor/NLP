@@ -1,0 +1,1 @@
+{"index": 192446, "D": "noting or pertaining to a thickness of one molecule.", "S": [], "A": []}

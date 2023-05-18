@@ -1,0 +1,1 @@
+{"index": 18222, "D": "of, in, or pertaining to water.", "S": [], "A": []}

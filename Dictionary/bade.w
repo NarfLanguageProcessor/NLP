@@ -1,0 +1,1 @@
+{"index": 26182, "D": "a simple past tense of bid1. ", "S": ["propose ", "submit ", "tender "], "A": ["take "]}

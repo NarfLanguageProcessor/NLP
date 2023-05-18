@@ -1,0 +1,1 @@
+{"index": 242510, "D": "denoting a type of giant-size chromosome consisting of many replicated genes in parallel, found esp in Drosophila larvae", "S": [], "A": []}

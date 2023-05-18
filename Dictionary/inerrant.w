@@ -1,0 +1,1 @@
+{"index": 151592, "D": "free from error; infallible.", "S": ["authoritative ", "flawless ", "foolproof ", "unbeatable "], "A": ["erring ", "fallible ", "faulty ", "imperfect "]}

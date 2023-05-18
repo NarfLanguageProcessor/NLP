@@ -1,0 +1,1 @@
+{"index": 36680, "D": "a strong, leather half boot.", "S": [], "A": []}

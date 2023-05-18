@@ -1,0 +1,1 @@
+{"index": 162444, "D": "a certificate on an affidavit,  by the officer, showing by whom, when, and before whom it was sworn to.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 66506, "D": "to join, link, or fasten together; unite or bind", "S": ["associating ", "attaching ", "bridging ", "combining ", "coupling ", "fastening ", "fusing ", "interlacing ", "intertwining ", "joined ", "linking ", "mingling ", "mixing ", "pairing ", "relating ", "uniting ", "welding "], "A": []}

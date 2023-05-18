@@ -1,0 +1,1 @@
+{"index": 267975, "D": "to pay back or refund, as money.", "S": ["compensated ", "indemnified ", "recompensed ", "refunded ", "remunerated ", "requited ", "restored "], "A": []}

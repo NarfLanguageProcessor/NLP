@@ -1,0 +1,1 @@
+{"index": 149258, "D": "the act of impelling,  driving onward, or pushing.", "S": ["pressure ", "restraint "], "A": ["deterrent ", "discouragement ", "freedom ", "hindrance ", "liberty "]}

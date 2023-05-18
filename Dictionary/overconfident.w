@@ -1,0 +1,1 @@
+{"index": 218698, "D": "too confident. ", "S": ["brash ", "careless ", "cocky ", "presumptuous ", "pushy ", "reckless "], "A": ["careful ", "cautious ", "humble ", "modest ", "shy "]}

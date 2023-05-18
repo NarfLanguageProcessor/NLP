@@ -1,0 +1,1 @@
+{"index": 157059, "D": "vehement or violent denunciation, censure, or reproach.", "S": ["denunciation ", "diatribe ", "epithet ", "tirade "], "A": ["praise ", "approval ", "compliment ", "exculpation ", "exoneration "]}

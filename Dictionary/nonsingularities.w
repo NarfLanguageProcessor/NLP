@@ -1,0 +1,1 @@
+{"index": 207304, "D": "the state, fact, or quality of being singular. ", "S": [], "A": []}

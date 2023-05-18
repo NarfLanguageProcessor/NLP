@@ -1,0 +1,1 @@
+{"index": 246921, "D": "an act or instance of asserting something", "S": [], "A": []}

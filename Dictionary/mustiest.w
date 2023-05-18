@@ -1,0 +1,1 @@
+{"index": 196190, "D": "having an odor or flavor suggestive of mold, as old buildings, long-closed rooms, or stale food.", "S": ["airless ", "ancient ", "crumbling ", "dank ", "decrepit ", "fetid ", "moldy ", "putrid ", "smelly ", "squalid ", "stale ", "stuffy "], "A": ["clean ", "current ", "fresh ", "modern ", "new ", "perfumed ", "sweet ", "young "]}

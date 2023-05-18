@@ -1,0 +1,1 @@
+{"index": 316652, "D": "a plant, Colocasia esculenta, of the arum family,  cultivated for its edible tuber", "S": ["beet ", "bulb ", "potato ", "root ", "turnip ", "yam "], "A": []}

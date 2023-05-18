@@ -1,0 +1,1 @@
+{"index": 235735, "D": "a member of a Roman Catholic teaching congregation founded in Rome in 1597.", "S": [], "A": []}

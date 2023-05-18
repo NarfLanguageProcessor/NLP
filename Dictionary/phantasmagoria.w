@@ -1,0 +1,1 @@
+{"index": 232962, "D": "a shifting series of phantasms, illusions, or deceptive appearances, as in a dream or as created by the imagination.", "S": ["aberration ", "apparition ", "fantasy ", "illusion ", "mirage ", "phantasm ", "phantom ", "trip ", "vision ", "wraith "], "A": ["fact ", "reality ", "truth "]}

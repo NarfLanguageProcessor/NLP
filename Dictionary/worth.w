@@ -1,0 +1,1 @@
+{"index": 367700, "D": "good or important enough to justify (what is specified)", "S": ["account ", "aid ", "benefit ", "cost ", "credit ", "price ", "quality ", "rate ", "valuation "], "A": ["hindrance ", "evil ", "hurt ", "imperfection ", "injury ", "insignificance ", "stop ", "triviality ", "unimportance ", "uselessness ", "worthlessness "]}

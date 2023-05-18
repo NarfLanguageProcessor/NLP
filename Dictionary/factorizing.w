@@ -1,0 +1,1 @@
+{"index": 109086, "D": "to resolve into factors. ", "S": [], "A": []}

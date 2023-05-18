@@ -1,0 +1,1 @@
+{"index": 127796, "D": "the germ cell during the phase marked by mitosis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 915, "D": "the act of cutting off; sudden termination.", "S": ["ablation ", "cutting ", "extirpation ", "removal "], "A": []}

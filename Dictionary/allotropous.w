@@ -1,0 +1,1 @@
+{"index": 8995, "D": "(of flowers) having the nectar accessible to any species of insect", "S": [], "A": []}

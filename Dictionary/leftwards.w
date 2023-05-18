@@ -1,0 +1,1 @@
+{"index": 170001, "D": "towards or on the left", "S": [], "A": []}

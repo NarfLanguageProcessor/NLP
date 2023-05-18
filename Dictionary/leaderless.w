@@ -1,0 +1,1 @@
+{"index": 169523, "D": "a person or thing that leads.", "S": [], "A": []}

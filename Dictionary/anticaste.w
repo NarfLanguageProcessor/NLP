@@ -1,0 +1,1 @@
+{"index": 14837, "D": "any rigid system of social distinctions.", "S": [], "A": []}

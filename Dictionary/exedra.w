@@ -1,0 +1,1 @@
+{"index": 106988, "D": "(in ancient Greece and Rome) a room or covered area open on one side, used as a meeting place.", "S": [], "A": []}

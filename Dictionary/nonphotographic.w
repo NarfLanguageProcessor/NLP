@@ -1,0 +1,1 @@
+{"index": 205970, "D": "of or relating to photography. ", "S": [], "A": []}

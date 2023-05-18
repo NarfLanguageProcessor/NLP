@@ -1,0 +1,1 @@
+{"index": 8547, "D": "a member of the epidote group, a silicate of calcium, cerium, aluminum, and iron, occurring chiefly in brown-to-black masses or prismatic crystals.", "S": [], "A": []}

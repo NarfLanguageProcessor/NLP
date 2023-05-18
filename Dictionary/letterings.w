@@ -1,0 +1,1 @@
+{"index": 170933, "D": "the act or process of inscribing with or making letters. ", "S": ["caption ", "engraving ", "epitaph ", "lettering ", "signature "], "A": []}

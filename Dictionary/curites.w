@@ -1,0 +1,1 @@
+{"index": 75333, "D": "a radioactive uranium mineral, Pb2U5O17\u00b74H2O, with adamantine luster, occurring as reddish-brown to deep-yellow needle-shaped crystals, formed by alteration of uraninite.", "S": [], "A": []}

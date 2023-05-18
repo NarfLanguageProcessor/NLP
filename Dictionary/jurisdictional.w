@@ -1,0 +1,1 @@
+{"index": 162465, "D": "the right, power, or authority to administer justice by hearing and determining controversies.", "S": ["bureaucratic ", "departmental ", "governmental ", "legislative ", "managerial ", "organizational ", "policy-making ", "regulatory ", "supervisory "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 245847, "D": "to present as a gift; give; confer  (usually followed by on or upon)", "S": [], "A": []}

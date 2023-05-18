@@ -1,0 +1,1 @@
+{"index": 344624, "D": "of or relating to an inquisitor or inquisition.", "S": [], "A": []}

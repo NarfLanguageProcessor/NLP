@@ -1,0 +1,1 @@
+{"index": 156867, "D": "an act or instance of intruding.", "S": [], "A": []}

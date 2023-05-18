@@ -1,0 +1,1 @@
+{"index": 359318, "D": "a venereal disease of cattle and sheep, caused by the organism Vibrio fetus, characterized by delayed female fertility and by spontaneous abortion.", "S": [], "A": []}

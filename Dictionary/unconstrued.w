@@ -1,0 +1,1 @@
+{"index": 337764, "D": "interpreted or understood", "S": [], "A": []}

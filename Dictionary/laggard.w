@@ -1,0 +1,1 @@
+{"index": 167307, "D": "a person or thing that lags;  lingerer; loiterer.", "S": ["dawdler ", "idler ", "lingerer ", "loafer ", "lounger ", "slowpoke "], "A": []}

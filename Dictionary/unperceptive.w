@@ -1,0 +1,1 @@
+{"index": 347680, "D": "having or showing keenness of insight, understanding, or intuition", "S": ["unperceiving "], "A": []}

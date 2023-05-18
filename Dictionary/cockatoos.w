@@ -1,0 +1,1 @@
+{"index": 61463, "D": "any of numerous large, noisy, crested parrots of the genera Cacatua, Callocephalon, Calyptorhynchus, etc., of the Australasian region, having chiefly white plumage tinged with yellow, pink, or red", "S": [], "A": []}

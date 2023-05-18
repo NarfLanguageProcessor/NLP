@@ -1,0 +1,1 @@
+{"index": 66326, "D": "(in fungi) a special stalk or branch of the mycelium, bearing conidia.", "S": [], "A": []}

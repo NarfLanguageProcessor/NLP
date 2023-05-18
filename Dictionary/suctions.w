@@ -1,0 +1,1 @@
+{"index": 309989, "D": "the act, process, or condition of sucking. ", "S": ["consumption ", "digestion ", "intake ", "penetration ", "retention ", "saturation "], "A": ["boredom ", "distraction "]}

@@ -1,0 +1,1 @@
+{"index": 212252, "D": "scantiness of urine due to diminished secretion.", "S": [], "A": []}

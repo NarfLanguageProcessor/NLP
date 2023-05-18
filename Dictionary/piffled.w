@@ -1,0 +1,1 @@
+{"index": 236319, "D": "nonsense, as trivial or senseless talk.", "S": [], "A": []}

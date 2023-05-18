@@ -1,0 +1,1 @@
+{"index": 351058, "D": "having the disposition of a shrew. ", "S": [], "A": []}

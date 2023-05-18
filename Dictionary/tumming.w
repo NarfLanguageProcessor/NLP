@@ -1,0 +1,1 @@
+{"index": 332318, "D": "to tease (wool) in the preliminary carding operation, or to open out the fibers prior to carding.", "S": [], "A": []}

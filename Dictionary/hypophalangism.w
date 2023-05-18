@@ -1,0 +1,1 @@
+{"index": 141059, "D": "the condition of having fewer than the normal number of phalanges  per finger or toe.", "S": [], "A": []}

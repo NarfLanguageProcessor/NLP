@@ -1,0 +1,1 @@
+{"index": 340324, "D": "the simple past tense of undo. ", "S": ["derelict ", "dilapidated "], "A": ["flourishing ", "intact ", "mended ", "preserved ", "prosperous ", "protected ", "repaired ", "restored ", "rich ", "saved ", "solvent ", "successful ", "wealthy "]}

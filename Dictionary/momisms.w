@@ -1,0 +1,1 @@
+{"index": 191658, "D": "excessive adulation of one's mother and undue dependence on maternal care or protection, resulting in an absence or loss of maturity and independence.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 168904, "D": "a milky liquid in certain plants, as milkweeds, euphorbias, poppies, or the plants yielding India rubber, that coagulates on exposure to air.", "S": ["acrylic ", "color ", "cosmetic ", "dye ", "enamel ", "makeup ", "oil ", "pigment ", "stain ", "varnish ", "wax "], "A": []}

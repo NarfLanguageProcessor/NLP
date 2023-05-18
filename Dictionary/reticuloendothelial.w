@@ -1,0 +1,1 @@
+{"index": 270460, "D": "pertaining to, resembling, or involving cells of the reticuloendothelial system.", "S": [], "A": []}

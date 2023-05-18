@@ -1,0 +1,1 @@
+{"index": 271919, "D": "pertaining to or of the nature of rheumatism. ", "S": ["debilitated ", "disabled ", "paralyzed ", "shaking ", "sick ", "trembling "], "A": ["healthy "]}

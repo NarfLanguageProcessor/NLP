@@ -1,0 +1,1 @@
+{"index": 299545, "D": "a rounded aggregate of radiating crystals found in obsidian and other glassy igneous rocks.", "S": [], "A": []}

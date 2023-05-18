@@ -1,0 +1,1 @@
+{"index": 202750, "D": "the act or process of deducting; subtraction.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 300580, "D": "being split  or causing something to split. ", "S": ["barrier ", "dissolution ", "segregation ", "separation "], "A": ["aid ", "assistance ", "help ", "promotion ", "whole "]}

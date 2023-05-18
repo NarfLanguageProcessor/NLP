@@ -1,0 +1,1 @@
+{"index": 223745, "D": "magnetic polarization acquired by the minerals in a rock at the time the rock was deposited or solidified.", "S": [], "A": []}

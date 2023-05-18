@@ -1,0 +1,1 @@
+{"index": 136599, "D": "the worship of a particular god, as by a family or tribe, without disbelieving in the existence of others.", "S": [], "A": []}

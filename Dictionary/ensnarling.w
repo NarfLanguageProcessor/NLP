@@ -1,0 +1,1 @@
+{"index": 101079, "D": "to entangle in or as in a snarl. ", "S": ["embroil ", "enmesh ", "ensnare ", "entangle ", "entrap ", "intertwine ", "involve ", "snare ", "snarl ", "tangle ", "trap "], "A": ["disentangle ", "exclude ", "free ", "let go ", "liberate ", "release ", "untangle ", "untwist "]}

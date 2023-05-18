@@ -1,0 +1,1 @@
+{"index": 282548, "D": "examining carefully or thoroughly", "S": ["firmly ", "hard ", "intently ", "intimately ", "jointly ", "meticulously ", "scrupulously ", "sharply ", "strictly ", "thoughtfully "], "A": []}

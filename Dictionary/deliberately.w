@@ -1,0 +1,1 @@
+{"index": 80038, "D": "on purpose; with clear intent", "S": ["consciously ", "knowingly ", "pointedly ", "purposely ", "studiously ", "voluntarily ", "willfully "], "A": ["unintentionally ", "unwittingly "]}

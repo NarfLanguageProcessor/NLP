@@ -1,0 +1,1 @@
+{"index": 58993, "D": "of, relating to, or characteristic of a Lower Paleolithic culture in England marked by the production of tools made from stone flakes.", "S": [], "A": []}

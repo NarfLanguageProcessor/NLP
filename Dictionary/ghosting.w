@@ -1,0 +1,1 @@
+{"index": 124573, "D": "the appearance of multiple copies or blurred representations of an object on a screen or in an image.", "S": ["address ", "compose ", "create ", "draft ", "note ", "pen ", "print ", "record ", "rewrite ", "scrawl ", "scribble ", "sign ", "tell "], "A": ["destroy ", "ignore ", "ruin ", "keep ", "stop "]}

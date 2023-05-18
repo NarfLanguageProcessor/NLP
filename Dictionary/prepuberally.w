@@ -1,0 +1,1 @@
+{"index": 248973, "D": "the period of life just prior to sexual maturation.", "S": [], "A": []}

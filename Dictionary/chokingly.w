@@ -1,0 +1,1 @@
+{"index": 55362, "D": "(of the voice) husky and strained, especially because of emotion.", "S": [], "A": []}

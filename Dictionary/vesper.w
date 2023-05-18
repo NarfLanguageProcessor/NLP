@@ -1,0 +1,1 @@
+{"index": 359013, "D": "the evening star,  especially Venus; Hesperus.", "S": ["evening "], "A": ["daybreak ", "sunrise "]}

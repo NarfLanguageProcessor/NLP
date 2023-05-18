@@ -1,0 +1,1 @@
+{"index": 134978, "D": "not affected or damaged by heat,  especially when placed in an oven or over a direct flame", "S": [], "A": []}

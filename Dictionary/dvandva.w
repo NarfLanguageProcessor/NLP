@@ -1,0 +1,1 @@
+{"index": 94612, "D": "a compound word neither element of which is subordinate to the other, as bittersweet, Anglo-Saxon.", "S": [], "A": []}

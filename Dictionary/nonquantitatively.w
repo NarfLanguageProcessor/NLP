@@ -1,0 +1,1 @@
+{"index": 206427, "D": "Compare qualitatively. ", "S": [], "A": []}

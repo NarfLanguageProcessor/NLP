@@ -1,0 +1,1 @@
+{"index": 251783, "D": "the sharing of profits, as between employer and employee, especially in such a way that the employee receives, in addition to wages, a share in the profits of the business.", "S": [], "A": []}

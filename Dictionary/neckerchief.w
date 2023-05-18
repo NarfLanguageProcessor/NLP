@@ -1,0 +1,1 @@
+{"index": 197746, "D": "a cloth or scarf worn round the neck. ", "S": ["bandanna ", "handkerchief ", "kerchief ", "scarf "], "A": []}

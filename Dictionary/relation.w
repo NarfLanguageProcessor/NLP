@@ -1,0 +1,1 @@
+{"index": 266745, "D": "an existing connection; a significant association between or among things", "S": ["relationship "], "A": ["antagonism ", "dissimilarity ", "disunion ", "opposition ", "separation "]}

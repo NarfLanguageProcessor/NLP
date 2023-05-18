@@ -1,0 +1,1 @@
+{"index": 291562, "D": "a figure of speech in which a part is used for the whole or the whole for a part, the special for the general or the general for the special, as in ten sail for ten ships or a Croesus for a rich man.", "S": [], "A": []}

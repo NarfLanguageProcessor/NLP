@@ -1,0 +1,1 @@
+{"index": 271283, "D": "a person who advocates reverting to the conditions, customs, ideals, etc., of an earlier era.", "S": [], "A": []}

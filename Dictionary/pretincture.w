@@ -1,0 +1,1 @@
+{"index": 249984, "D": "a solution of alcohol or of alcohol and water, containing animal, vegetable, or chemical drugs.", "S": [], "A": []}

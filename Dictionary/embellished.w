@@ -1,0 +1,1 @@
+{"index": 98047, "D": "to beautify by or as if by ornamentation; ornament; adorn.", "S": ["decorated "], "A": ["marred ", "unadorned "]}

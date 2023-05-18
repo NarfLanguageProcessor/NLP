@@ -1,0 +1,1 @@
+{"index": 210750, "D": "lived in", "S": ["employed ", "engaged "], "A": ["unoccupied "]}

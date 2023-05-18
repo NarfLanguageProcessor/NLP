@@ -1,0 +1,1 @@
+{"index": 628, "D": "not normal, average, typical, or usual; deviating from a standard", "S": ["individually ", "negatively ", "separately ", "variously "], "A": ["together "]}

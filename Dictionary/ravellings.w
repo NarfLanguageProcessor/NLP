@@ -1,0 +1,1 @@
+{"index": 261251, "D": "something raveled  out, as a thread drawn or separated from a knitted or woven fabric.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82084, "D": "subject to or deserving of derision; ridiculous", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 251941, "D": "a person who believes in progress, as of humankind or society.", "S": [], "A": []}

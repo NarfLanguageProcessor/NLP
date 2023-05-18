@@ -1,0 +1,1 @@
+{"index": 230229, "D": "a highly seasoned, hard sausage of beef and pork.", "S": ["bratwurst "], "A": []}

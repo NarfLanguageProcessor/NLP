@@ -1,0 +1,1 @@
+{"index": 101979, "D": "a red, crystalline, water-insoluble solid, C20H8Br4O5, derived from fluorescein by bromination", "S": [], "A": []}

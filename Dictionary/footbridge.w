@@ -1,0 +1,1 @@
+{"index": 116149, "D": "a bridge intended for pedestrians only.", "S": ["viaduct ", "walkway "], "A": []}

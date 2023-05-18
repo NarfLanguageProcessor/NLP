@@ -1,0 +1,1 @@
+{"index": 325376, "D": "a light ax used by the North American Indians as a weapon and tool.", "S": ["adz ", "chopper ", "hatchet "], "A": []}

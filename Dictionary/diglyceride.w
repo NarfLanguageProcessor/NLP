@@ -1,0 +1,1 @@
+{"index": 85492, "D": "an ester obtained from glycerol by the esterification of two hydroxyl groups with fatty acids.", "S": [], "A": []}

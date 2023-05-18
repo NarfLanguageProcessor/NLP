@@ -1,0 +1,1 @@
+{"index": 97199, "D": "any instrument whose sound is produced by the oscillation of an electric current, such as an electronic organ, synthesizer, etc", "S": [], "A": []}

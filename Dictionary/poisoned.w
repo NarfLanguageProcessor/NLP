@@ -1,0 +1,1 @@
+{"index": 241379, "D": "a substance with an inherent property that tends to destroy life or impair health.", "S": ["infected "], "A": ["healthy ", "well "]}

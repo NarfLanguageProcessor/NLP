@@ -1,0 +1,1 @@
+{"index": 316161, "D": "the act or process of tanning  leather.", "S": [], "A": []}

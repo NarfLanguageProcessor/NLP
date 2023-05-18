@@ -1,0 +1,1 @@
+{"index": 76310, "D": "of, done, occurring, or issued each day  or each weekday", "S": ["constantly ", "day-to-day ", "everyday ", "often ", "periodic ", "regular ", "regularly ", "routine "], "A": ["abnormal ", "different ", "irregular ", "uncommon ", "unusual ", "variable ", "extraordinary ", "infrequent ", "rare "]}

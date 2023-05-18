@@ -1,0 +1,1 @@
+{"index": 251165, "D": "the profit or return derived from a commercial transaction, investment, etc", "S": ["income ", "profit ", "revenue ", "reward "], "A": ["debt ", "cause ", "loss "]}

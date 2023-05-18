@@ -1,0 +1,1 @@
+{"index": 20159, "D": "to call or bring before a court to answer to an indictment, a formal charge for which it has been ascertained that there is enough evidence to warrant trial", "S": [], "A": []}

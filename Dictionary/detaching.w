@@ -1,0 +1,1 @@
+{"index": 83063, "D": "to unfasten and separate; disengage; disunite.", "S": ["detachment ", "dividing ", "parting ", "partition ", "separation "], "A": ["attachment "]}

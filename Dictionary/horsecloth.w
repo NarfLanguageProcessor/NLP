@@ -1,0 +1,1 @@
+{"index": 144003, "D": "a cloth  used to cover a horse,  or as part of its trappings.", "S": [], "A": []}

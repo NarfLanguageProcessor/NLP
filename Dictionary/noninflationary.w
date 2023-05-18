@@ -1,0 +1,1 @@
+{"index": 204714, "D": "of, pertaining to, reflective of, or causing inflation", "S": [], "A": []}

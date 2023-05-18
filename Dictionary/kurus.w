@@ -1,0 +1,1 @@
+{"index": 166522, "D": "a monetary unit of Turkey, one 100th of a lira; piaster. ", "S": [], "A": []}

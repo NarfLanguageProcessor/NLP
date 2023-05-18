@@ -1,0 +1,1 @@
+{"index": 11527, "D": "something or someone that is not in its correct historical or chronological time, especially a thing or person that belongs to an earlier time", "S": [], "A": []}

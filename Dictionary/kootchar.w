@@ -1,0 +1,1 @@
+{"index": 166042, "D": "any of several small, stingless Australian honeybees of the genus Trigona.", "S": [], "A": []}

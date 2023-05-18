@@ -1,0 +1,1 @@
+{"index": 65155, "D": "the act of conceiving;  the state of being conceived. ", "S": [], "A": []}

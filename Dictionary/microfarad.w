@@ -1,0 +1,1 @@
+{"index": 186120, "D": "a unit of capacitance, equal to one millionth of a farad. Abbreviation", "S": [], "A": []}

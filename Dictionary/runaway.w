@@ -1,0 +1,1 @@
+{"index": 275619, "D": "a person who runs away; fugitive; deserter. ", "S": ["delinquent ", "escaped ", "uncontrolled "], "A": ["controlled ", "stable ", "staying ", "steady "]}

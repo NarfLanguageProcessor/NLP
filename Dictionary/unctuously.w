@@ -1,0 +1,1 @@
+{"index": 338270, "D": "characterized by excessive piousness or moralistic fervor, especially in an affected manner; excessively smooth, suave, or smug.", "S": [], "A": []}

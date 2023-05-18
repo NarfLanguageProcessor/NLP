@@ -1,0 +1,1 @@
+{"index": 346423, "D": "an error in action, calculation, opinion, or judgment caused by poor reasoning, carelessness, insufficient knowledge, etc.", "S": [], "A": []}

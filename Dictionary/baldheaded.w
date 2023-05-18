@@ -1,0 +1,1 @@
+{"index": 26787, "D": "having a bald head.", "S": ["bare ", "hairless ", "naked "], "A": ["hairy ", "hirsute "]}

@@ -1,0 +1,1 @@
+{"index": 287415, "D": "a piece  of metal or fiber for giving form to the shank  of a shoe.", "S": [], "A": []}

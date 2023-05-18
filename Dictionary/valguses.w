@@ -1,0 +1,1 @@
+{"index": 356709, "D": "an abnormally turned position of a part of the bone structure of a human being, especially of the leg.", "S": [], "A": []}

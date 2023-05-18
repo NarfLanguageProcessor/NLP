@@ -1,0 +1,1 @@
+{"index": 43019, "D": "of, relating to, or characteristic of a bureaucrat  or a bureaucracy;  arbitrary and routine.", "S": ["departmental ", "governmental ", "legislative ", "managerial ", "organizational ", "policy-making ", "regulatory ", "supervisory "], "A": []}

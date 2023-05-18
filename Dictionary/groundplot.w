@@ -1,0 +1,1 @@
+{"index": 130328, "D": "a method for obtaining the position of an aircraft by multiplying its groundspeed by its time in flight and marking off the product with respect to its starting position.", "S": [], "A": []}

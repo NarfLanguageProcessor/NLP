@@ -1,0 +1,1 @@
+{"index": 186682, "D": "a dunghill or refuse heap.", "S": ["compost heap ", "kitchen refuse ", "shell mound "], "A": []}

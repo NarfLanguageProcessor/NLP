@@ -1,0 +1,1 @@
+{"index": 276743, "D": "of the sort that can be said  or spoken; utterable", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 102143, "D": "anything short-lived or ephemeral.", "S": [], "A": []}

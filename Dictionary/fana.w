@@ -1,0 +1,1 @@
+{"index": 109646, "D": "the ecstatic union of the Sufi with the Divine.", "S": [], "A": []}

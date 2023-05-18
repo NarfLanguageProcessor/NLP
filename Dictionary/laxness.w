@@ -1,0 +1,1 @@
+{"index": 169425, "D": "Icelandic writer", "S": ["disregard ", "failure ", "forgetfulness ", "heedlessness ", "inattention ", "inattentiveness ", "laxity ", "neglect ", "neglectfulness ", "oversight ", "remissness ", "slackness ", "thoughtlessness "], "A": ["accomplishment ", "achievement ", "attention ", "care ", "regard ", "respect ", "success "]}

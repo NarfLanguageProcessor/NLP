@@ -1,0 +1,1 @@
+{"index": 72285, "D": "to long for; want greatly; desire eagerly", "S": ["covet ", "cry out for ", "fancy ", "lust after "], "A": ["dislike ", "have "]}

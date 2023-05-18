@@ -1,0 +1,1 @@
+{"index": 176736, "D": "a political theory advocating the principles of government analyzed in Machiavelli\u2019s The Prince, in which political expediency is placed above morality, and craft and deceit are used to maintain the authority and carry out the policies of a ruler", "S": [], "A": []}

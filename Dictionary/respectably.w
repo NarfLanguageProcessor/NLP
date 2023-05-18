@@ -1,0 +1,1 @@
+{"index": 269698, "D": "worthy of respect  or esteem; estimable; worthy", "S": ["accurately ", "correctly ", "decently ", "duly ", "equally ", "equitably ", "honestly ", "honorably ", "impartially ", "lawfully ", "legally ", "legitimately ", "properly ", "reasonably ", "rightfully ", "rightly "], "A": ["wrongly "]}

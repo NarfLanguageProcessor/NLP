@@ -1,0 +1,1 @@
+{"index": 77546, "D": "a person who buys and sells articles without altering their condition; trader or merchant, especially a wholesaler", "S": ["banker ", "merchant ", "retailer ", "trader ", "trafficker ", "vendor ", "wholesaler "], "A": ["customer "]}

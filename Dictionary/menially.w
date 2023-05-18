@@ -1,0 +1,1 @@
+{"index": 183321, "D": "lowly and sometimes degrading", "S": [], "A": []}

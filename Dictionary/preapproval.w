@@ -1,0 +1,1 @@
+{"index": 245741, "D": "the act of approving;  approbation.", "S": [], "A": []}

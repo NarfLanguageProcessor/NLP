@@ -1,0 +1,1 @@
+{"index": 261522, "D": "of, pertaining to, marked by, or favoring reaction,  especially extreme conservatism or rightism in politics; opposing political or social change.", "S": ["archconservative ", "conservative ", "counterrevolutionary ", "regressive ", "right ", "rightist ", "ultraconservative "], "A": ["left ", "liberal ", "progressive ", "radical ", "revolutionary "]}

@@ -1,0 +1,1 @@
+{"index": 78016, "D": "to pour (wine or other liquid) gently so as not to disturb the sediment.", "S": [], "A": []}

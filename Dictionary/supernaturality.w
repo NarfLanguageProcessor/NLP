@@ -1,0 +1,1 @@
+{"index": 312288, "D": "the quality or state of being supernatural;  supernaturalism.", "S": [], "A": []}

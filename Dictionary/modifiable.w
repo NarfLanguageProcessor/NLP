@@ -1,0 +1,1 @@
+{"index": 191133, "D": "to change somewhat the form or qualities of; alter partially; amend", "S": ["compliant ", "flexible ", "malleable ", "resilient ", "versatile "], "A": ["inflexible ", "rigid ", "stiff "]}

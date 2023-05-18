@@ -1,0 +1,1 @@
+{"index": 308212, "D": "the granting of a portion of an estate by a feudal tenant to a subtenant, held from the tenant on terms similar to those of the grant to the tenant.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 325783, "D": "pleasing to the taste; palatable", "S": ["palatable "], "A": []}

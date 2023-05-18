@@ -1,0 +1,1 @@
+{"index": 291025, "D": "of, for, pertaining to, or having the character of a symphony  or symphony orchestra. ", "S": [], "A": []}

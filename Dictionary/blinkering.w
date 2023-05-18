@@ -1,0 +1,1 @@
+{"index": 36255, "D": "a device for flashing light signals.", "S": [], "A": []}

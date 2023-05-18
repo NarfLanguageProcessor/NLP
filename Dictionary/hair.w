@@ -1,0 +1,1 @@
+{"index": 132366, "D": "any of the numerous fine, usually cylindrical, keratinous filaments growing from the skin of humans and animals; a pilus.", "S": ["eyebrow ", "fiber ", "fur ", "grass ", "haircut ", "hairstyle ", "mane ", "sideburn ", "strand ", "wig ", "wool "], "A": []}

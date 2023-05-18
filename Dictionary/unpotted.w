@@ -1,0 +1,1 @@
+{"index": 348219, "D": "placed or enclosed in a pot. ", "S": [], "A": []}

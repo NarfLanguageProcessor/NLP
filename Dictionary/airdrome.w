@@ -1,0 +1,1 @@
+{"index": 6885, "D": "a landing field for airplanes that has extensive buildings, equipment, shelters, etc.; airport.", "S": ["airfield ", "airstrip ", "installation ", "runway "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 170072, "D": "legends  collectively.", "S": [], "A": []}

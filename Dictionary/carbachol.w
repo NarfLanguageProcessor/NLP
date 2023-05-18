@@ -1,0 +1,1 @@
+{"index": 47406, "D": "a white or slightly yellow crystalline compound, C6H15ClN2O2, soluble in water and alcohol", "S": [], "A": []}

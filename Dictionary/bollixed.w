@@ -1,0 +1,1 @@
+{"index": 37575, "D": "to do (something) badly; bungle (often followed by up)", "S": ["baffled ", "bewildered ", "clueless ", "doubtful ", "mystified ", "perplexed ", "rattled "], "A": ["clear "]}

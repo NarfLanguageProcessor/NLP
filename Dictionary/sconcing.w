@@ -1,0 +1,1 @@
+{"index": 281158, "D": "a bracket for candles or other lights, placed on a wall, mirror, picture frame, etc.", "S": ["confiscate ", "levy ", "punish "], "A": ["award ", "compensate ", "reimburse ", "reward "]}

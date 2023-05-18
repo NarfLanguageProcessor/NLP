@@ -1,0 +1,1 @@
+{"index": 369916, "D": "adapted to pollination by animals, especially those other than insects.", "S": [], "A": []}

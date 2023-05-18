@@ -1,0 +1,1 @@
+{"index": 136488, "D": "an instrument or agent used to compress or treat bleeding vessels in order to arrest hemorrhage.", "S": [], "A": []}

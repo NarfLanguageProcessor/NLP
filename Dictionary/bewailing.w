@@ -1,0 +1,1 @@
+{"index": 32929, "D": "to express deep sorrow for; lament", "S": ["grumbling ", "protesting ", "whining "], "A": ["appreciating ", "enjoying ", "praising "]}

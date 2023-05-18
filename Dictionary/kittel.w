@@ -1,0 +1,1 @@
+{"index": 165231, "D": "a white robe used by Jews, especially Orthodox Jews, as a ceremonial garment and as a burial shroud", "S": [], "A": []}

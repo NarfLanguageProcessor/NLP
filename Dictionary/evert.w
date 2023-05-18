@@ -1,0 +1,1 @@
+{"index": 106196, "D": "to turn outward or inside out.", "S": ["alter ", "backtrack ", "capsize ", "change ", "convert ", "flip ", "flip-flop ", "introvert ", "modify ", "overturn ", "renege ", "revert ", "tip ", "transpose ", "turn ", "upend ", "upset "], "A": ["continue ", "grow ", "hold ", "keep ", "leave alone ", "persist ", "remain ", "stay ", "straighten "]}

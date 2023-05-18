@@ -1,0 +1,1 @@
+{"index": 111403, "D": "any particle that obeys the exclusion principle and Fermi-Dirac statistics; fermions have spins that are half an odd integer", "S": [], "A": []}

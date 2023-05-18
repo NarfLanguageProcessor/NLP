@@ -1,0 +1,1 @@
+{"index": 200811, "D": "sound, especially of a loud, harsh, or confused kind", "S": ["babble ", "blab ", "chat ", "chatter ", "gossip ", "jabber ", "leak ", "noise ", "prate ", "prattle ", "rumor ", "snitch ", "spill ", "squeal ", "talk ", "yak "], "A": ["be quiet ", "conceal ", "hide "]}

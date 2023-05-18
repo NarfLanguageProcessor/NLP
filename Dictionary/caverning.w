@@ -1,0 +1,1 @@
+{"index": 50194, "D": "a cave, especially one that is large and mostly underground.", "S": [], "A": []}

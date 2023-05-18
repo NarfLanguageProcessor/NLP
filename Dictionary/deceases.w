@@ -1,0 +1,1 @@
+{"index": 78139, "D": "the act of dying; departure from life; death.", "S": ["curtains ", "demise ", "departure ", "dissolution ", "dying ", "passing ", "quietus ", "release ", "silence ", "sleep ", "taps "], "A": ["birth "]}

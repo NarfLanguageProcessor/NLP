@@ -1,0 +1,1 @@
+{"index": 223224, "D": "another name for Pelmanism (def. 2)", "S": ["combination ", "couple ", "duo ", "match ", "team ", "two "], "A": ["one ", "single "]}

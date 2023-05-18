@@ -1,0 +1,1 @@
+{"index": 103643, "D": "a condition caused by eating rye or some other grain that is infected with ergot  fungus or by taking an overdose of a medicine containing ergot,  characterized by cramps, spasms, and a form of gangrene.", "S": [], "A": []}

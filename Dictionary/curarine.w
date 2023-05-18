@@ -1,0 +1,1 @@
+{"index": 75179, "D": "an alkaloid extracted from curare, used as a muscle relaxant in surgery. Formula", "S": [], "A": []}

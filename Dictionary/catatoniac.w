@@ -1,0 +1,1 @@
+{"index": 49413, "D": "a syndrome seen most frequently in schizophrenia, characterized by muscular rigidity and mental stupor, sometimes alternating with great excitement and confusion.", "S": [], "A": []}

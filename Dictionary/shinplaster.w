@@ -1,0 +1,1 @@
+{"index": 288387, "D": "a plaster for the shin or leg.", "S": [], "A": []}

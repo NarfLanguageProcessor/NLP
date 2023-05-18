@@ -1,0 +1,1 @@
+{"index": 326811, "D": "of or relating to qualities or features typical of or befitting a town or city.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 221723, "D": "to use  too much or too often", "S": ["drained ", "dull ", "mildewed ", "stale ", "stock "], "A": ["active ", "different ", "energized ", "fresh ", "invigorated ", "lively ", "new ", "refreshed ", "unused "]}

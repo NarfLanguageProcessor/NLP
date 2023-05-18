@@ -1,0 +1,1 @@
+{"index": 41888, "D": "brutal; cruel.", "S": ["atrocity ", "barbarism ", "barbarity ", "cruelty ", "inhumanity ", "savagery "], "A": ["kindness "]}

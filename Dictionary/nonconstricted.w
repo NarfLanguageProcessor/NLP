@@ -1,0 +1,1 @@
+{"index": 202380, "D": "to draw or press in; cause to contract or shrink; compress.", "S": [], "A": []}

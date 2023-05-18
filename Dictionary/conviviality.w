@@ -1,0 +1,1 @@
+{"index": 68124, "D": "a friendly or agreeable quality", "S": ["entertainment ", "gaiety ", "merriment ", "merrymaking ", "sociability "], "A": []}

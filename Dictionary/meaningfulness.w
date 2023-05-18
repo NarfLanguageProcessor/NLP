@@ -1,0 +1,1 @@
+{"index": 181758, "D": "full of meaning, significance, purpose, or value; purposeful; significant", "S": ["expressiveness ", "fervor ", "fluency ", "passion ", "poise ", "vigor ", "wit "], "A": ["impotence ", "inability ", "incompetence ", "weakness "]}

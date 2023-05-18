@@ -1,0 +1,1 @@
+{"index": 37837, "D": "the hard connective tissue forming the substance of the skeleton of most vertebrates, composed of a collagen-rich organic matrix impregnated with calcium, phosphate, and other minerals.", "S": ["cartilage "], "A": []}

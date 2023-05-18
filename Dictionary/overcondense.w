@@ -1,0 +1,1 @@
+{"index": 218694, "D": "to make more dense or compact; reduce the volume or extent of; concentrate.", "S": [], "A": []}

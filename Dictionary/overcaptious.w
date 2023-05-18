@@ -1,0 +1,1 @@
+{"index": 218509, "D": "apt to notice and make much of trivial faults or defects; faultfinding; difficult to please.", "S": [], "A": []}

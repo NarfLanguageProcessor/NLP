@@ -1,0 +1,1 @@
+{"index": 81820, "D": "capable of depreciating  or being depreciated  in value.", "S": [], "A": []}

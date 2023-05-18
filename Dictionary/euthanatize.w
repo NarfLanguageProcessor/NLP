@@ -1,0 +1,1 @@
+{"index": 105886, "D": "to subject to euthanasia", "S": [], "A": []}

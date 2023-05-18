@@ -1,0 +1,1 @@
+{"index": 271135, "D": "the act of revealing or disclosing; disclosure. ", "S": ["apocalyptic ", "fateful ", "oracular ", "portentous ", "predictive ", "prescient ", "prognosticative ", "prophetic ", "revelatory "], "A": []}

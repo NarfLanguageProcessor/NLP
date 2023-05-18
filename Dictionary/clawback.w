@@ -1,0 +1,1 @@
+{"index": 59594, "D": " the recovery of previously dispensed or protected money or benefits through a contractual provision or tax law, typically triggered to counter a shortfall in financial performance or offset a liability (often used attributively)", "S": [], "A": []}

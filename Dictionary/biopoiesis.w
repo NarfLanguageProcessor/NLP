@@ -1,0 +1,1 @@
+{"index": 34496, "D": "the development of living matter from nonliving matter, esp considered as an evolutionary process", "S": [], "A": []}

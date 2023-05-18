@@ -1,0 +1,1 @@
+{"index": 180847, "D": "dominating; self-willed; imperious. ", "S": ["adroit ", "deft ", "excellent ", "exquisite ", "first-rate ", "masterly ", "skillful "], "A": ["awkward ", "clumsy ", "imperfect ", "inept ", "inferior ", "poor ", "unskilled ", "unskillful "]}

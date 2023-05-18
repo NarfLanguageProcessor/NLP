@@ -1,0 +1,1 @@
+{"index": 252989, "D": "the arch that separates a stage from the auditorium. Abbreviation", "S": ["facade ", "face ", "fa\u00e7ade ", "front line ", "head ", "top "], "A": ["bottom ", "character ", "foot ", "personality ", "rear "]}

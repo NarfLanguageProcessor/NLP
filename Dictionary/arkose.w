@@ -1,0 +1,1 @@
+{"index": 19847, "D": "a granular sedimentary rock composed of quartz and feldspar or mica; a feldspathic sandstone.", "S": [], "A": []}

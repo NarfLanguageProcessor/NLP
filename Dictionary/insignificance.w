@@ -1,0 +1,1 @@
+{"index": 153616, "D": "the quality or condition of being insignificant;  lack of importance or consequence.", "S": ["immateriality ", "inconsequence ", "indifference ", "meanness ", "molehill ", "nothingness ", "paltriness ", "pettiness ", "smallness ", "triviality ", "worthlessness "], "A": []}

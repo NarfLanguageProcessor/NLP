@@ -1,0 +1,1 @@
+{"index": 280278, "D": "any crustacean of the former order or division Schizopoda, now divided into the orders Mysidacea, comprising the opossum shrimps, and Euphausiacea, comprising krill.", "S": [], "A": []}

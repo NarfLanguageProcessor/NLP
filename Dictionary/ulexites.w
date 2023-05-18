@@ -1,0 +1,1 @@
+{"index": 333754, "D": "a mineral, hydrous sodium and calcium borate, NaCaB5O9\u22c58H2O, occurring in arid regions in the form of white acicular crystals", "S": [], "A": []}

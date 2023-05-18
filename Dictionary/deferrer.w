@@ -1,0 +1,1 @@
+{"index": 79241, "D": "to put off (action, consideration, etc.) to a future time", "S": [], "A": []}

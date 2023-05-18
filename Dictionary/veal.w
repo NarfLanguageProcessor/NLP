@@ -1,0 +1,1 @@
+{"index": 357599, "D": "a calf raised for its meat, usually a milk-fed animal less than three months old.", "S": ["dogie ", "heifer ", "maverick ", "yearling "], "A": []}

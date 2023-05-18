@@ -1,0 +1,1 @@
+{"index": 43541, "D": "to move or act with a great show of energy (often followed by about)", "S": [], "A": []}

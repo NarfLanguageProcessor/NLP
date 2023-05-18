@@ -1,0 +1,1 @@
+{"index": 41078, "D": "of or relating to rugs or carpets woven on a wide loom. ", "S": [], "A": []}

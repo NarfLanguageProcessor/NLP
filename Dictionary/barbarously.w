@@ -1,0 +1,1 @@
+{"index": 27736, "D": "uncivilized; wild; savage; crude.", "S": ["ferociously ", "fiercely ", "mercilessly ", "relentlessly ", "ruthlessly ", "savagely ", "viciously "], "A": ["gently ", "humanely ", "kindly ", "nicely "]}

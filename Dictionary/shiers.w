@@ -1,0 +1,1 @@
+{"index": 288206, "D": "a comparative of shy1. ", "S": [], "A": []}

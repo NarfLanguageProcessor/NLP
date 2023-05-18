@@ -1,0 +1,1 @@
+{"index": 187897, "D": "to reduce to the smallest possible amount or degree.", "S": ["defamatory ", "degrading ", "demeaning ", "disparaging ", "sarcastic ", "slanderous ", "unflattering "], "A": ["complimentary "]}

@@ -1,0 +1,1 @@
+{"index": 235140, "D": "forming an attractive subject for photography or having features that look well in a photograph", "S": [], "A": []}

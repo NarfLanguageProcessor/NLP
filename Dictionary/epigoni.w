@@ -1,0 +1,1 @@
+{"index": 102469, "D": "the descendants of the Seven against Thebes, who undertook a second expedition against the city and eventually captured and destroyed it", "S": [], "A": []}

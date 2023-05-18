@@ -1,0 +1,1 @@
+{"index": 310552, "D": "to remain silent or hold oneself aloof in a sullen, ill-humored, or offended mood", "S": ["blahs ", "blues ", "bummer ", "cheerlessness ", "doldrums ", "dreariness ", "gloom ", "gloominess ", "melancholy ", "trouble ", "unhappiness ", "woefulness "], "A": ["cheer ", "gladness ", "happiness ", "joy "]}

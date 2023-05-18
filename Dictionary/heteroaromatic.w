@@ -1,0 +1,1 @@
+{"index": 137467, "D": "a heterocyclic aromatic compound. ", "S": [], "A": []}

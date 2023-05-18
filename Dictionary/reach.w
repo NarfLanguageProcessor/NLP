@@ -1,0 +1,1 @@
+{"index": 261480, "D": "to get to or get as far as in moving, going, traveling, etc.", "S": ["ability ", "capacity ", "distance ", "grasp ", "horizon ", "influence ", "power ", "scope "], "A": ["ignorance ", "impotence ", "inability ", "incapacity ", "incompetence ", "weakness "]}

@@ -1,0 +1,1 @@
+{"index": 335551, "D": "a container or receptacle of leather, plastic, cloth, paper, etc., capable of being closed at the mouth; pouch. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 287004, "D": "impaired by wear, use, etc.; worn", "S": ["inexpensively ", "poorly ", "reasonably "], "A": []}

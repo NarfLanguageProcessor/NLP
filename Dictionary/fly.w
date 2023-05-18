@@ -1,0 +1,1 @@
+{"index": 114525, "D": "any of numerous two-winged insects of the order Diptera, especially of the family Muscidae, as the common housefly. ", "S": ["circle ", "climb ", "cross ", "drift ", "float ", "flutter ", "glide ", "operate ", "pilot ", "reach ", "rush ", "sail ", "shoot ", "speed ", "swoop ", "take off ", "travel "], "A": ["remain ", "stay ", "rest "]}

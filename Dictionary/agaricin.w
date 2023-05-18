@@ -1,0 +1,1 @@
+{"index": 5910, "D": "an impure form of agaric acid", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259526, "D": "arranged like radii or rays.", "S": [], "A": []}

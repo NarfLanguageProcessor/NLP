@@ -1,0 +1,1 @@
+{"index": 64853, "D": "of large scope; covering or involving much; inclusive", "S": [], "A": []}

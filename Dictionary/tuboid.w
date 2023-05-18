@@ -1,0 +1,1 @@
+{"index": 332029, "D": "having or approximating a tubular form.", "S": [], "A": []}

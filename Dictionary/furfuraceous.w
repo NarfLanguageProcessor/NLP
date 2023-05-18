@@ -1,0 +1,1 @@
+{"index": 120381, "D": "of or containing bran", "S": ["branlike ", "flaking ", "flaky ", "lepidote ", "scabby "], "A": []}

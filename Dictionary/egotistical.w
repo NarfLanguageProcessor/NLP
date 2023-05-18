@@ -1,0 +1,1 @@
+{"index": 96275, "D": "pertaining to or characterized by egotism. ", "S": ["pompous ", "self-absorbed ", "self-centered ", "self-important ", "selfish ", "smug "], "A": ["modest ", "unselfish "]}

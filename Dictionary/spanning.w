@@ -1,0 +1,1 @@
+{"index": 298373, "D": "the distance between the tip of the thumb and the tip of the little finger when the hand is fully extended.", "S": ["approaching ", "continuing ", "lengthening ", "ranging ", "spreading ", "stretching "], "A": []}

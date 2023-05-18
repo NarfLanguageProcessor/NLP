@@ -1,0 +1,1 @@
+{"index": 313223, "D": "an acceptance or a payment of a bill by a third person after protest for nonacceptance or nonpayment by the drawee.", "S": [], "A": []}

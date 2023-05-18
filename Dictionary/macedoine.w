@@ -1,0 +1,1 @@
+{"index": 176692, "D": "a mixture of fruits or vegetables, often served as a salad.", "S": [], "A": []}

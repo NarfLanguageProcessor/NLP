@@ -1,0 +1,1 @@
+{"index": 260948, "D": "capable of being rated  or appraised.", "S": [], "A": []}

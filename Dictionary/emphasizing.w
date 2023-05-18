@@ -1,0 +1,1 @@
+{"index": 98752, "D": "to give emphasis  to; lay stress upon; stress", "S": ["accelerating ", "deepening ", "escalating ", "growing ", "intensifying "], "A": []}

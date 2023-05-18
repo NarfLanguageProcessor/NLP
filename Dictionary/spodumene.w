@@ -1,0 +1,1 @@
+{"index": 300632, "D": "a mineral, lithium aluminum silicate, LiAlSi2O6, occurring in prismatic crystals, transparent varieties being used as gems.", "S": [], "A": []}

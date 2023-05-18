@@ -1,0 +1,1 @@
+{"index": 336233, "D": "not broken;  whole; intact.", "S": [], "A": []}

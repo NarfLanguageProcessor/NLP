@@ -1,0 +1,1 @@
+{"index": 238045, "D": "a yellow, liquid compound, C3H4O2, containing both an aldehyde and a ketone group, usually obtained in a polymeric form", "S": [], "A": []}

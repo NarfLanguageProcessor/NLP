@@ -1,0 +1,1 @@
+{"index": 188541, "D": "gaiety or jollity, especially when accompanied by laughter", "S": ["depressed ", "dismal ", "dour ", "forlorn ", "glum ", "melancholy ", "miserable ", "pessimistic ", "sad ", "solemn ", "sullen ", "ugly "], "A": ["bright ", "cheerful ", "comforted ", "glad ", "happy ", "hopeful ", "joyful ", "light ", "pleasant ", "rich "]}

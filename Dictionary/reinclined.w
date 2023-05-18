@@ -1,0 +1,1 @@
+{"index": 266205, "D": "to deviate from the vertical or horizontal; slant.", "S": [], "A": []}

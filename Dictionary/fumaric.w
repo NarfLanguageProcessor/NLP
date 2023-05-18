@@ -1,0 +1,1 @@
+{"index": 120028, "D": "of or derived from fumaric acid.", "S": [], "A": []}

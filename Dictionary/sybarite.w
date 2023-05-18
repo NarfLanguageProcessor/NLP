@@ -1,0 +1,1 @@
+{"index": 289489, "D": "a person devoted to luxury and pleasure.", "S": ["epicure ", "epicurean ", "hedonist ", "sensualist "], "A": ["puritan "]}

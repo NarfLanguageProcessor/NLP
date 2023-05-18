@@ -1,0 +1,1 @@
+{"index": 322852, "D": "a limited-access toll highway providing a means of direct transportation between distant areas for high-speed automobile traffic.", "S": ["artery ", "avenue ", "boulevard ", "expressway ", "highway ", "pathway ", "roadway ", "route ", "street ", "thoroughfare "], "A": []}

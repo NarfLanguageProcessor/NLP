@@ -1,0 +1,1 @@
+{"index": 144970, "D": "a device for increasing the amount of water vapor in the air of a room or building, consisting of a container for water and a vaporizer.", "S": [], "A": []}

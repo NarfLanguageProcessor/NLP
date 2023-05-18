@@ -1,0 +1,1 @@
+{"index": 53628, "D": "belonging or pertaining to the reptilian order Testudines (formerly Chelonia), comprising turtles, tortoises, and terrapins.", "S": ["tortoise "], "A": []}

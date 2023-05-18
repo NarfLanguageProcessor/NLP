@@ -1,0 +1,1 @@
+{"index": 89208, "D": "the simultaneous oxidation and reduction of a substance reacting with itself, thereby forming two dissimilar molecules, as 2C2H4\u2192C2H6+C2H2.", "S": [], "A": []}

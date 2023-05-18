@@ -1,0 +1,1 @@
+{"index": 203437, "D": "pertaining to or having the form of an ellipse. ", "S": [], "A": []}

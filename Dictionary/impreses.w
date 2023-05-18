@@ -1,0 +1,1 @@
+{"index": 149052, "D": "a device or emblem.", "S": [], "A": []}

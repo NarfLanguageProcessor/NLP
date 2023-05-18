@@ -1,0 +1,1 @@
+{"index": 34260, "D": "a contemptuous term used to refer to a woman or girl.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 314175, "D": "a sample of cloth or other material.", "S": ["example ", "pattern "], "A": []}

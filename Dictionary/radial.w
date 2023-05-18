@@ -1,0 +1,1 @@
+{"index": 259518, "D": "arranged like radii or rays.", "S": ["spiral ", "spreading "], "A": []}

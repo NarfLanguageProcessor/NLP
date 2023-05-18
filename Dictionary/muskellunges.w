@@ -1,0 +1,1 @@
+{"index": 196049, "D": "a large game fish, Esox masquinongy, of the pike family, found in the lakes and rivers of the eastern and central United States and and in Canada from Quebec to Manitoba.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 5585, "D": "of or from Africa;  belonging to the Black peoples of Africa.", "S": [], "A": []}

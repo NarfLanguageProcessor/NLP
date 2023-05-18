@@ -1,0 +1,1 @@
+{"index": 343404, "D": "covered with a gummy substance.", "S": [], "A": []}

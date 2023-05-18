@@ -1,0 +1,1 @@
+{"index": 196450, "D": "the enclosed part of an airplane, dirigible, etc., in which the engine is housed or in which cargo or passengers are carried.", "S": ["box ", "crate "], "A": []}

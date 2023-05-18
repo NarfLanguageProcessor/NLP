@@ -1,0 +1,1 @@
+{"index": 352271, "D": "serving or acting in a subordinate capacity; subordinate. ", "S": [], "A": []}

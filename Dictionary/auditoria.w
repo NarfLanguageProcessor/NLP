@@ -1,0 +1,1 @@
+{"index": 23328, "D": "the space set apart for the audience in a theater, school, or other public building.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133122, "D": "a gripping of hands  by two or more people, as in greeting, parting, making a commitment, or expressing affection.", "S": ["constraint ", "grasp ", "restraint "], "A": ["release "]}

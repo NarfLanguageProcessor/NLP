@@ -1,0 +1,1 @@
+{"index": 96124, "D": "a member of a people of southeastern Nigeria near the mouth of the Calabar River, closely related to the Ibibio.", "S": [], "A": []}

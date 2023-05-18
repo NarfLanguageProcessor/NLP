@@ -1,0 +1,1 @@
+{"index": 274492, "D": "a kind of rose-colored rash.", "S": [], "A": []}

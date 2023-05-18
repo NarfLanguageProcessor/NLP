@@ -1,0 +1,1 @@
+{"index": 134818, "D": "emotional pain or distress; sorrow; grief; anguish.", "S": ["agony ", "bitterness ", "despair ", "grief ", "heartbreak ", "misery ", "pang ", "sadness ", "suffering ", "torment "], "A": ["cheer ", "contentment ", "delight ", "gladness ", "happiness ", "health ", "joy ", "comfort ", "hopefulness ", "relief "]}

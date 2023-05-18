@@ -1,0 +1,1 @@
+{"index": 49322, "D": "a medical history following the onset of an illness.", "S": [], "A": []}

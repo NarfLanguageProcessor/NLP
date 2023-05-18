@@ -1,0 +1,1 @@
+{"index": 307595, "D": "to coil up; form into a twisted shape.", "S": [], "A": []}

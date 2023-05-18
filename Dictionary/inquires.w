@@ -1,0 +1,1 @@
+{"index": 153320, "D": "to seek information by questioning; ask", "S": ["examine ", "inspect ", "interrogate ", "investigate "], "A": ["ignore ", "answer ", "find ", "neglect ", "reply "]}

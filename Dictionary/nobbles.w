@@ -1,0 +1,1 @@
+{"index": 200551, "D": "to drug or disable (a race horse) to prevent its winning a race.", "S": [], "A": []}

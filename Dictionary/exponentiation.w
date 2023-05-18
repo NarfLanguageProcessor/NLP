@@ -1,0 +1,1 @@
+{"index": 107930, "D": "the raising of a number to any given power.", "S": [], "A": []}

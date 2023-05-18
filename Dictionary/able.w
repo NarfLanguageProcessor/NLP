@@ -1,0 +1,1 @@
+{"index": 559, "D": "having necessary power, skill, resources, or qualifications; qualified", "S": ["adept ", "adequate ", "apt ", "capable ", "competent ", "easy ", "good ", "intelligent ", "ready ", "smart ", "strong "], "A": ["disinclined ", "inadequate ", "incapable ", "incompetent ", "inept ", "slow ", "stupid ", "unable ", "unintelligent ", "unskilled ", "unsuitable "]}

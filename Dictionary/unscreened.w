@@ -1,0 +1,1 @@
+{"index": 350547, "D": "not sheltered or concealed by a screen", "S": [], "A": []}

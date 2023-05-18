@@ -1,0 +1,1 @@
+{"index": 211247, "D": "a follower of the polytheistic ancient Norse religion, in which Odin was the highest god, or of a modern revival or reconstruction of that religion.", "S": [], "A": []}

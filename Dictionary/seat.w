@@ -1,0 +1,1 @@
+{"index": 282606, "D": "something designed to support a person in a sitting position, as a chair, bench, or pew; a place on or in which one sits.", "S": ["bench ", "chair ", "couch "], "A": []}

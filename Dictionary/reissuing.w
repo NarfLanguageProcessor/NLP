@@ -1,0 +1,1 @@
+{"index": 266546, "D": "something that is issued  again, as a book or a motion picture.", "S": ["disseminate ", "engrave ", "imprint ", "mark ", "publish ", "reissue ", "reprint ", "stamp "], "A": []}

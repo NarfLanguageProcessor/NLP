@@ -1,0 +1,1 @@
+{"index": 351369, "D": "to spill or splash (liquid).", "S": [], "A": []}

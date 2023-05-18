@@ -1,0 +1,1 @@
+{"index": 134339, "D": "remaining in the consciousness; not quickly forgotten", "S": ["eerie ", "memorable ", "nostalgic ", "spooky "], "A": []}

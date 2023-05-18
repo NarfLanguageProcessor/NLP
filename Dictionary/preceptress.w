@@ -1,0 +1,1 @@
+{"index": 246028, "D": "a woman who is an instructor; teacher; tutor.", "S": [], "A": []}

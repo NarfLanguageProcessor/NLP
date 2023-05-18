@@ -1,0 +1,1 @@
+{"index": 322487, "D": "having a thousand elements or parts.", "S": [], "A": []}

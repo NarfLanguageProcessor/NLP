@@ -1,0 +1,1 @@
+{"index": 78168, "D": "to decrease the velocity of", "S": [], "A": []}

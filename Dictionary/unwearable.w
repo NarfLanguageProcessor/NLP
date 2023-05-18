@@ -1,0 +1,1 @@
+{"index": 354102, "D": "capable of being worn; appropriate, suitable, or ready for wearing", "S": [], "A": []}

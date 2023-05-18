@@ -1,0 +1,1 @@
+{"index": 58246, "D": "simple past tense and past participle of circumstance. ", "S": ["break ", "chance ", "cup ", "destine ", "doom ", "effect ", "end ", "ending ", "foreordain ", "issue ", "lot ", "portion ", "predestine ", "predetermine ", "preordain ", "stars "], "A": ["join "]}

@@ -1,0 +1,1 @@
+{"index": 245520, "D": "to undergo pre-adaptation.", "S": [], "A": []}

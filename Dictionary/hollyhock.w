@@ -1,0 +1,1 @@
+{"index": 142494, "D": "any of several plants belonging to the genus Alcea (or Althaea), of the mallow family, native to Eurasia, especially A. rosea, a tall plant having a long cluster of showy, variously colored flowers.", "S": [], "A": []}

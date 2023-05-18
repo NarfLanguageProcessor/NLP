@@ -1,0 +1,1 @@
+{"index": 48002, "D": "Compare atlas (def. 5). ", "S": ["monument "], "A": []}

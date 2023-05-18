@@ -1,0 +1,1 @@
+{"index": 297702, "D": "the casting or drawing of lots.", "S": [], "A": []}

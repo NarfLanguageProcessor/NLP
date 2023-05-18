@@ -1,0 +1,1 @@
+{"index": 328540, "D": "exhausted by long hard work or concern", "S": [], "A": []}

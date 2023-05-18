@@ -1,0 +1,1 @@
+{"index": 340531, "D": "having the joints or connections separated", "S": [], "A": []}

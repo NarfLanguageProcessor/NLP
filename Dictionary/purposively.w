@@ -1,0 +1,1 @@
+{"index": 257059, "D": "having, showing, or acting with a purpose,  intention, or design.", "S": ["consciously ", "knowingly ", "pointedly ", "purposely ", "studiously ", "voluntarily ", "willfully "], "A": ["unintentionally ", "unwittingly "]}

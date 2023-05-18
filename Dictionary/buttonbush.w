@@ -1,0 +1,1 @@
+{"index": 43741, "D": "a North American shrub, Cephalanthus occidentalis, of the madder family, having globular flower heads.", "S": [], "A": []}

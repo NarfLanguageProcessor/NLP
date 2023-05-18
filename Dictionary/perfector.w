@@ -1,0 +1,1 @@
+{"index": 230624, "D": "a person who completes or makes something perfect", "S": [], "A": []}

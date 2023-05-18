@@ -1,0 +1,1 @@
+{"index": 306129, "D": "importance attached to a thing", "S": ["affirmation ", "allegation ", "contention ", "insistence ", "pronouncement "], "A": ["denial ", "rejection "]}

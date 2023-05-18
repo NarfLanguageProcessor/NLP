@@ -1,0 +1,1 @@
+{"index": 276398, "D": "a combining form representing sacrum  in compound words", "S": [], "A": []}

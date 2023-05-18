@@ -1,0 +1,1 @@
+{"index": 51761, "D": "a colorless, liquid hydrocarbon of the alkane series, C16H34, used as a solvent and in cetane number determinations.", "S": [], "A": []}

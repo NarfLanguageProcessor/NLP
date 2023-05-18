@@ -1,0 +1,1 @@
+{"index": 246600, "D": "involving an extremely important decision or result; decisive; critical", "S": [], "A": []}

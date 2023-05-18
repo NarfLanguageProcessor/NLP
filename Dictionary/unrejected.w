@@ -1,0 +1,1 @@
+{"index": 349398, "D": "to refuse to have, take, recognize, etc.", "S": [], "A": []}

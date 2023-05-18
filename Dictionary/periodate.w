@@ -1,0 +1,1 @@
+{"index": 231097, "D": "a salt of a periodic acid,  as sodium periodate, Na2H3IO6.", "S": [], "A": []}

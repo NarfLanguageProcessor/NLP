@@ -1,0 +1,1 @@
+{"index": 245196, "D": "(in the ancient Roman republic) one of a number of elected magistrates charged chiefly with the administration of civil justice and ranking next below a consul.", "S": [], "A": []}

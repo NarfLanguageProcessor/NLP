@@ -1,0 +1,1 @@
+{"index": 75016, "D": "a small conduit or burrow, as an underground drain or rabbit hole.", "S": [], "A": []}

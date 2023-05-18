@@ -1,0 +1,1 @@
+{"index": 220586, "D": "the state or quality of being potent. ", "S": [], "A": []}

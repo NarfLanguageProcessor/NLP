@@ -1,0 +1,1 @@
+{"index": 163670, "D": "a machine, operated by a keyboard, for coding information by punching  holes in cards or paper tape in specified patterns.", "S": [], "A": []}

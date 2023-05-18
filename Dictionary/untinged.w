@@ -1,0 +1,1 @@
+{"index": 353050, "D": "not colored, as by paint or the sun.", "S": [], "A": []}

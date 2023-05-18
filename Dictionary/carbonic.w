@@ -1,0 +1,1 @@
+{"index": 47522, "D": "containing tetravalent carbon,  as carbonic acid,  H2CO3.", "S": [], "A": []}

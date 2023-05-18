@@ -1,0 +1,1 @@
+{"index": 312133, "D": "a person who oversees or directs some work, enterprise, establishment, organization, district, etc.; supervisor.", "S": ["board ", "bureau ", "cabinet ", "committee ", "department ", "executive ", "legislature ", "management ", "ministry ", "presidency "], "A": []}

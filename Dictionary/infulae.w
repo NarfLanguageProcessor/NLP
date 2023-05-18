@@ -1,0 +1,1 @@
+{"index": 152381, "D": "the two ribbons hanging from the back of a bishop's mitre", "S": [], "A": []}

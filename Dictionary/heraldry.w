@@ -1,0 +1,1 @@
+{"index": 136875, "D": "the science of armorial bearings.", "S": ["blazonry ", "coat ", "emblem ", "ensign ", "escutcheon ", "insignia ", "shield ", "signet "], "A": []}

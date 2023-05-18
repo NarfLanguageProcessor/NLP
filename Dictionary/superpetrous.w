@@ -1,0 +1,1 @@
+{"index": 312403, "D": "noting or pertaining to the hard dense portion of the temporal bone, containing the internal auditory organs; petrosal.", "S": [], "A": []}

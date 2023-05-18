@@ -1,0 +1,1 @@
+{"index": 127763, "D": "(in algae) any one-celled asexual reproductive body, as a tetraspore or zoospore.", "S": [], "A": []}

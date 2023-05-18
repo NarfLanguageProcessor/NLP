@@ -1,0 +1,1 @@
+{"index": 182157, "D": "government or rule by a mediocre person or group.", "S": [], "A": []}

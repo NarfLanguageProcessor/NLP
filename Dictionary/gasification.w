@@ -1,0 +1,1 @@
+{"index": 122370, "D": "to convert into or become a gas. ", "S": [], "A": []}

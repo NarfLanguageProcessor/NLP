@@ -1,0 +1,1 @@
+{"index": 157602, "D": "a member of a North American Indian group of small tribes speaking related dialects and occupying the San Joaquin Valley of California and the adjoining eastern foothill regions. Nearly all the Valley Yokuts are extinct; some foothill groups remain.", "S": [], "A": []}

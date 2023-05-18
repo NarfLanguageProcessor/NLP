@@ -1,0 +1,1 @@
+{"index": 338379, "D": "to move (a baby, child, etc.) lightly up and down, as on one's knee or in one's arms.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 298752, "D": "specialty. ", "S": ["aspect ", "characteristic ", "facet ", "idiosyncrasy ", "peculiarity ", "quality ", "quirk ", "trait ", "virtue "], "A": []}

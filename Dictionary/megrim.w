@@ -1,0 +1,1 @@
+{"index": 182577, "D": "low spirits; the blues.", "S": ["blues ", "melancholy ", "unhappiness ", "vertigo "], "A": ["happiness "]}

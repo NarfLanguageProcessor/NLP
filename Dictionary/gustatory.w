@@ -1,0 +1,1 @@
+{"index": 131561, "D": "of or relating to taste or tasting.", "S": ["audiovisual ", "auditory ", "aural ", "neural ", "neurological ", "olfactory ", "sensual ", "sonic ", "tactile ", "visual "], "A": []}

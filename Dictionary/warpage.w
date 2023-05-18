@@ -1,0 +1,1 @@
+{"index": 362729, "D": "to bend or twist out of shape, especially from a straight or flat form, as timbers or flooring.", "S": [], "A": []}

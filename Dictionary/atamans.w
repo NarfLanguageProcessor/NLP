@@ -1,0 +1,1 @@
+{"index": 22400, "D": "the elected chief of a Cossack village or military force.", "S": [], "A": []}

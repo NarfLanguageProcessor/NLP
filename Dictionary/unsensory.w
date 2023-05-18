@@ -1,0 +1,1 @@
+{"index": 350762, "D": "of or relating to the senses  or sensation. ", "S": [], "A": []}

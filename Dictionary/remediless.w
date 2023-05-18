@@ -1,0 +1,1 @@
+{"index": 267219, "D": "not admitting of remedy,  as disease, trouble, damage, etc.; unremediable.", "S": ["deadly ", "fatal ", "hopeless ", "inoperable "], "A": ["healthful ", "wholesome "]}

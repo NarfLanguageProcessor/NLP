@@ -1,0 +1,1 @@
+{"index": 73256, "D": "Compare cryptanalysis (def. 2). ", "S": [], "A": []}

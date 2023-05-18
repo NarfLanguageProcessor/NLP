@@ -1,0 +1,1 @@
+{"index": 146724, "D": "to have an earnest or strong desire; long", "S": [], "A": []}

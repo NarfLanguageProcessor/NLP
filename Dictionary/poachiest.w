@@ -1,0 +1,1 @@
+{"index": 240897, "D": "(of land) slushy; swampy.", "S": [], "A": []}

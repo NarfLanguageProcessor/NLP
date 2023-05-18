@@ -1,0 +1,1 @@
+{"index": 268664, "D": "the act of reproving, censuring, or rebuking.", "S": [], "A": []}

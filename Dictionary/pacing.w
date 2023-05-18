@@ -1,0 +1,1 @@
+{"index": 222718, "D": "the act or result of setting the rate of movement or progress, as of a story, movie, lesson, etc.", "S": ["checking ", "filing ", "hiking ", "parading ", "patrolling ", "policing ", "proceeding ", "stepping ", "walking "], "A": []}

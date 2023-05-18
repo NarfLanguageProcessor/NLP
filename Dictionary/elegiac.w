@@ -1,0 +1,1 @@
+{"index": 97362, "D": "used in, suitable for, or resembling an elegy.", "S": ["funereal ", "melancholy ", "mournful ", "sad ", "sorrowful "], "A": ["cheerful ", "happy ", "joyful "]}

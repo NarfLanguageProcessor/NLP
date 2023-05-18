@@ -1,0 +1,1 @@
+{"index": 317686, "D": "of or relating to technology;  relating to science and industry.", "S": ["high-tech ", "industrial ", "mechanical ", "professional ", "scholarly ", "scientific ", "special ", "specialized ", "vocational "], "A": []}

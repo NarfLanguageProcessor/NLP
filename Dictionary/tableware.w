@@ -1,0 +1,1 @@
+{"index": 314867, "D": "the dishes, utensils, etc., used at the table. ", "S": ["glassware ", "silverware "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 251375, "D": "to beget or generate (offspring).", "S": ["ancestor ", "dad ", "parent ", "predecessor "], "A": ["descendant ", "effect ", "end ", "result "]}

@@ -1,0 +1,1 @@
+{"index": 125311, "D": "an alcoholic liquor obtained by distilling grain mash with juniper berries.", "S": [], "A": []}

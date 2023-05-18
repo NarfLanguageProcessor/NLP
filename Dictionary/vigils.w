@@ -1,0 +1,1 @@
+{"index": 359619, "D": "wakefulness or watchfulness maintained for any reason during the normal hours for sleeping", "S": ["observance ", "patrol "], "A": ["disregard ", "heedlessness ", "ignorance ", "indifference ", "neglect ", "negligence "]}

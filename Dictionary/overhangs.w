@@ -1,0 +1,1 @@
+{"index": 219645, "D": "to hang  or be suspended over", "S": ["beetle ", "command ", "endanger ", "extend ", "impend ", "jut ", "loom ", "menace ", "overtop ", "poke ", "portend ", "pouch ", "project ", "protrude ", "threaten "], "A": ["aid ", "assist ", "help ", "keep ", "save "]}

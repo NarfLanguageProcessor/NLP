@@ -1,0 +1,1 @@
+{"index": 97853, "D": "to purify by washing and straining or decanting.", "S": [], "A": []}

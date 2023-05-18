@@ -1,0 +1,1 @@
+{"index": 14835, "D": "preventing or retarding caries.", "S": [], "A": []}

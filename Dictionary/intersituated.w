@@ -1,0 +1,1 @@
+{"index": 155930, "D": "to put in or on a particular site or place; locate.", "S": [], "A": []}

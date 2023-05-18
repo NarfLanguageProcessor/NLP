@@ -1,0 +1,1 @@
+{"index": 248623, "D": "the act, right, or instance of prior occupancy. ", "S": ["amusement ", "captivation ", "daydreaming ", "distraction ", "engrossment "], "A": []}

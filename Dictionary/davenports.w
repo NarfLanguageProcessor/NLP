@@ -1,0 +1,1 @@
+{"index": 77306, "D": "a large sofa, often one convertible into a bed.", "S": ["chesterfield ", "couch ", "daybed ", "futon ", "secretary "], "A": []}

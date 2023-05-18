@@ -1,0 +1,1 @@
+{"index": 343970, "D": "of, relating to, or derived from a single algal cell.", "S": [], "A": []}

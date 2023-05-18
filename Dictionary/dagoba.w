@@ -1,0 +1,1 @@
+{"index": 76217, "D": "a dome-shaped memorial alleged to contain relics of Buddha or a Buddhist saint; stupa; chaitya.", "S": [], "A": []}

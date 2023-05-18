@@ -1,0 +1,1 @@
+{"index": 52566, "D": "a short, simple melody, especially one characterized by single notes to which an indefinite number of syllables are intoned, used in singing psalms, canticles, etc., in church services.", "S": ["hymn ", "mantra ", "melody ", "shout ", "singing ", "tune "], "A": []}

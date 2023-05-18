@@ -1,0 +1,1 @@
+{"index": 359324, "D": "a vibrograph that measures the amplitude of vibrations.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86568, "D": "the conduct by government officials of negotiations and other relations between nations.", "S": ["negotiation ", "politics "], "A": ["ignorance "]}

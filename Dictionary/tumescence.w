@@ -1,0 +1,1 @@
+{"index": 332299, "D": [], "S": ["completeness ", "saturation ", "totality ", "wholeness "], "A": ["lack ", "need ", "scarcity ", "want "]}

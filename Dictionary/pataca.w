@@ -1,0 +1,1 @@
+{"index": 227544, "D": "a nickel, silver, or cupronickel coin and monetary unit of Macao, equal to 100 avos.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 37824, "D": "a person who serves in bondage; slave.", "S": ["chattel ", "drudge ", "peon ", "serf ", "slave ", "thrall ", "vassal "], "A": []}

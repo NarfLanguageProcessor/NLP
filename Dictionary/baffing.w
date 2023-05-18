@@ -1,0 +1,1 @@
+{"index": 26251, "D": "to strike the ground with a club in making a stroke.", "S": [], "A": []}

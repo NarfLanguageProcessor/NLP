@@ -1,0 +1,1 @@
+{"index": 175487, "D": "a variant of lower2. ", "S": ["alarming ", "dangerous ", "frightening ", "threatening "], "A": ["remote "]}

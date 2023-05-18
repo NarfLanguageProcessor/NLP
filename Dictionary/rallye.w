@@ -1,0 +1,1 @@
+{"index": 260216, "D": "to bring into order again; gather and organize or inspire anew", "S": [], "A": []}

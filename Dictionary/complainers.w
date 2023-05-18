@@ -1,0 +1,1 @@
+{"index": 64591, "D": "to express dissatisfaction, pain, uneasiness, censure, resentment, or grief; find fault", "S": ["bellyacher ", "crab ", "crybaby ", "faultfinder ", "growler ", "grumbler ", "grump ", "moaner ", "nagger ", "nitpicker ", "objector ", "protester ", "troublemaker "], "A": []}

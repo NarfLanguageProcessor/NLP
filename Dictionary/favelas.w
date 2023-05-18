@@ -1,0 +1,1 @@
+{"index": 110471, "D": "a shantytown in or near a city, especially in Brazil; slum area.", "S": ["Bowery ", "ghetto ", "red-light district ", "skid road ", "tenderloin "], "A": []}

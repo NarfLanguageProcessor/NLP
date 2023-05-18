@@ -1,0 +1,1 @@
+{"index": 15198, "D": "a substance that inhibits or counteracts the action of an enzyme. ", "S": [], "A": []}

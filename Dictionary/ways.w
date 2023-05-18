@@ -1,0 +1,1 @@
+{"index": 362041, "D": "way1 (def. 7, 14, 20a). ", "S": ["far ", "far-flung ", "far-off ", "inaccessible ", "isolated ", "obscure ", "remote ", "removed ", "secluded "], "A": ["approachable ", "mingling ", "public "]}

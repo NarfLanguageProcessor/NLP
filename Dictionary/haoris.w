@@ -1,0 +1,1 @@
+{"index": 133440, "D": "a loose, knee-length, Japanese garment resembling a coat.", "S": [], "A": []}

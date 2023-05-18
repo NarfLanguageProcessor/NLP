@@ -1,0 +1,1 @@
+{"index": 228376, "D": "the male of the peafowl distinguished by its long, erectile, greenish, iridescent tail coverts that are brilliantly marked with ocellated spots and that can be spread in a fan.", "S": ["blue-green ", "olive "], "A": []}

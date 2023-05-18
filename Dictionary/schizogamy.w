@@ -1,0 +1,1 @@
+{"index": 280221, "D": "reproduction characterized by division of the organism into sexual and asexual parts, as in certain polychaetes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 325522, "D": "the phonetic study of tone  in language.", "S": [], "A": []}

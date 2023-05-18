@@ -1,0 +1,1 @@
+{"index": 120787, "D": "to speak or converse rapidly and unintelligibly; jabber. ", "S": ["babble ", "blab ", "cackle ", "chatter ", "chitchat ", "clatter ", "drivel ", "gab ", "gibber ", "gossip ", "jabber ", "patter ", "prate ", "talk ", "twaddle ", "yak ", "yap "], "A": ["be quiet ", "be silent "]}

@@ -1,0 +1,1 @@
+{"index": 324707, "D": "arousing or exciting in an agreeable, often sexual way", "S": [], "A": []}

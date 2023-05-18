@@ -1,0 +1,1 @@
+{"index": 178650, "D": "an island in the Mediterranean between Sicily and Africa. 95 sq. mi. (246 sq. km).", "S": [], "A": []}

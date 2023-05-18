@@ -1,0 +1,1 @@
+{"index": 41806, "D": "an implement consisting of bristles, hair, or the like, set in or attached to a handle, used for painting, cleaning, polishing, grooming, etc.", "S": [], "A": []}

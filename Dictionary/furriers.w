@@ -1,0 +1,1 @@
+{"index": 120496, "D": "a person who buys and sells furs, or one who makes, repairs, or cleans furs and fur garments; a fur dealer or fur dresser.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 229943, "D": "(of a molecule) containing five hydroxyl groups.", "S": [], "A": []}

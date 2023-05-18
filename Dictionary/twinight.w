@@ -1,0 +1,1 @@
+{"index": 333376, "D": "pertaining to or noting a doubleheader in which the first game begins late in the afternoon and the second in the evening under lights.", "S": [], "A": []}

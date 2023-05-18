@@ -1,0 +1,1 @@
+{"index": 140075, "D": "tastefully fine or luxurious in dress, style, design, etc.", "S": [], "A": []}

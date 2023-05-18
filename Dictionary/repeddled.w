@@ -1,0 +1,1 @@
+{"index": 268093, "D": "to carry (small articles, goods, wares, etc.) from place to place for sale at retail; hawk.", "S": [], "A": []}

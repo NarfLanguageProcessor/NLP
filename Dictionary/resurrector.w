@@ -1,0 +1,1 @@
+{"index": 270203, "D": "to raise from the dead; bring to life again.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 268409, "D": "the act of depositing or storing.", "S": ["readjust ", "reconstruct ", "reorganize ", "reshuffle ", "revamp ", "rework "], "A": ["remain "]}

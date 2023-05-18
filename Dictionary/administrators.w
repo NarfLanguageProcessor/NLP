@@ -1,0 +1,1 @@
+{"index": 4156, "D": "a person who manages or has a talent for managing.", "S": ["administration ", "authority ", "committee ", "government ", "ministry "], "A": []}

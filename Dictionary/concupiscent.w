@@ -1,0 +1,1 @@
+{"index": 65486, "D": "lustful  or sensual", "S": ["carnal ", "desirous ", "sensual "], "A": []}

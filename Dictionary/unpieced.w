@@ -1,0 +1,1 @@
+{"index": 347914, "D": "a separate or limited portion or quantity of something", "S": [], "A": []}

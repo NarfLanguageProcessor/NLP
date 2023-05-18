@@ -1,0 +1,1 @@
+{"index": 92319, "D": "a pipe for conveying rainwater from a roof or gutter to the ground or to a drain.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 125748, "D": "to cover with ice or glaciers. ", "S": ["chill ", "ice ", "refrigerate "], "A": ["liquefy ", "melt ", "heat ", "warm "]}

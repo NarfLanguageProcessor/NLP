@@ -1,0 +1,1 @@
+{"index": 265144, "D": "an effect of brilliance or luster due to the reflection of light on a surface, especially of pottery; iridescence.", "S": [], "A": []}

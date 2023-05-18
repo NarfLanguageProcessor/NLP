@@ -1,0 +1,1 @@
+{"index": 96910, "D": "a dielectric that possesses a permanent or semipermanent electric polarity, analogous to a permanent magnet. ", "S": [], "A": []}

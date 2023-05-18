@@ -1,0 +1,1 @@
+{"index": 289973, "D": "to separate and retain the coarse parts of (flour, ashes, etc.) with a sieve. ", "S": ["analyze ", "comb ", "delve into ", "drain ", "evaluate ", "examine ", "explore ", "filter ", "go through ", "investigate ", "pore over ", "scrutinize ", "winnow "], "A": ["combine ", "adulterate ", "dirty ", "join "]}

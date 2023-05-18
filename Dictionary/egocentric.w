@@ -1,0 +1,1 @@
+{"index": 96238, "D": "having or regarding the self or the individual as the center of all things", "S": ["individualistic ", "narcissistic ", "pompous ", "self-absorbed ", "self-centered ", "self-serving ", "selfish "], "A": ["unselfish "]}

@@ -1,0 +1,1 @@
+{"index": 31037, "D": "a conical fossil, several inches long, consisting of the internal calcareous rod of an extinct animal allied to the cuttlefish; a thunderstone.", "S": [], "A": []}

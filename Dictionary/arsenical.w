@@ -1,0 +1,1 @@
+{"index": 20365, "D": "containing or relating to arsenic. ", "S": [], "A": []}

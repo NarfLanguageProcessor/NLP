@@ -1,0 +1,1 @@
+{"index": 44607, "D": "a heap of stones set up as a landmark, monument, tombstone, etc.", "S": ["ceremony ", "headstone ", "mausoleum ", "plaque ", "remembrance ", "statue ", "tombstone "], "A": []}

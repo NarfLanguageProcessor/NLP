@@ -1,0 +1,1 @@
+{"index": 311, "D": "in bed", "S": ["lying ", "reclining ", "repose "], "A": ["active "]}

@@ -1,0 +1,1 @@
+{"index": 104104, "D": "a continuously moving stairway on an endless loop for carrying passengers up or down.", "S": ["moving stairway ", "people mover "], "A": []}

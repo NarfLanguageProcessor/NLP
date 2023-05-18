@@ -1,0 +1,1 @@
+{"index": 195656, "D": "a golden crown formed with indentations to resemble a battlement, bestowed by the ancient Romans on the soldiers who first mounted the wall of a besieged place and there lodged a standard.", "S": [], "A": []}

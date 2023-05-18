@@ -1,0 +1,1 @@
+{"index": 188379, "D": "any arthropod of the group Myriapoda, having an elongated segmented body with numerous paired, jointed legs, formerly classified as a class comprising the centipedes and millipedes.", "S": [], "A": []}

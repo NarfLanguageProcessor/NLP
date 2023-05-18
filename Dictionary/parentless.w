@@ -1,0 +1,1 @@
+{"index": 226400, "D": "having no living parents; orphaned", "S": [], "A": []}

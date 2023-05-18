@@ -1,0 +1,1 @@
+{"index": 203990, "D": "physically weak, as from age or sickness; frail.", "S": [], "A": []}

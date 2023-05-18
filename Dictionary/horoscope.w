@@ -1,0 +1,1 @@
+{"index": 143937, "D": "a diagram of the heavens, showing the relative position of planets and the signs of the zodiac, for use in calculating births, foretelling events in a person's life, etc.", "S": ["astrology "], "A": []}

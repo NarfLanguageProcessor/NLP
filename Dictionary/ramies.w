@@ -1,0 +1,1 @@
+{"index": 260309, "D": "an Asian shrub, Boehmeria nivea, of the nettle family, yielding a fiber used especially in making textiles.", "S": [], "A": []}

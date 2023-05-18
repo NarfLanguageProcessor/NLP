@@ -1,0 +1,1 @@
+{"index": 302531, "D": "the stem or main axis of a plant.", "S": [], "A": []}

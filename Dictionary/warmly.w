@@ -1,0 +1,1 @@
+{"index": 362693, "D": "having or giving out a moderate degree of heat, as perceived by the senses", "S": ["ardently ", "emotionally ", "excitedly ", "intensely ", "passionately "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 249937, "D": "in a way or to a degree that is beyond the ordinary course of nature; exceptionally or abnormally", "S": [], "A": []}

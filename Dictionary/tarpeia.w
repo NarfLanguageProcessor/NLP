@@ -1,0 +1,1 @@
+{"index": 316674, "D": "a vestal virgin who betrayed Rome to the Sabines and was crushed under their shields when she claimed a reward.", "S": [], "A": []}

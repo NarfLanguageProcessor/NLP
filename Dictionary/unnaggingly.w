@@ -1,0 +1,1 @@
+{"index": 346734, "D": "continually faultfinding, complaining, or petulant", "S": [], "A": []}

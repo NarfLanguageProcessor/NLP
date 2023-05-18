@@ -1,0 +1,1 @@
+{"index": 63063, "D": "one of the cells covered with sticky granules on the tentacles of a ctenophore, which aid in capturing prey.", "S": [], "A": []}

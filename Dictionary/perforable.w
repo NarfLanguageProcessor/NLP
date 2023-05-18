@@ -1,0 +1,1 @@
+{"index": 230651, "D": "to make a hole or holes through by boring, punching, piercing, or the like.", "S": [], "A": []}

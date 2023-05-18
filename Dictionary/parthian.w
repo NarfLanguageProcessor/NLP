@@ -1,0 +1,1 @@
+{"index": 226986, "D": "a native or inhabitant of Parthia. ", "S": [], "A": []}

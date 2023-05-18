@@ -1,0 +1,1 @@
+{"index": 181181, "D": "an entertainment, especially a dramatic or musical performance, held in the daytime, usually in the afternoon.", "S": ["entertainment ", "movie ", "performance ", "play ", "show "], "A": ["work "]}

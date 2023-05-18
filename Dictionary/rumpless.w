@@ -1,0 +1,1 @@
+{"index": 275594, "D": "the hind part of the body of an animal, as the hindquarters of a quadruped or sacral region of a bird.", "S": [], "A": []}

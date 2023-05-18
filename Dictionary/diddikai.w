@@ -1,0 +1,1 @@
+{"index": 85045, "D": "a person of partial Romani descent.", "S": [], "A": []}

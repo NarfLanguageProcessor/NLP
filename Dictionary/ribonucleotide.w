@@ -1,0 +1,1 @@
+{"index": 272472, "D": "an ester, composed of a ribonucleoside and phosphoric acid, that is a constituent of ribonucleic acid. ", "S": [], "A": []}

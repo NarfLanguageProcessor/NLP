@@ -1,0 +1,1 @@
+{"index": 12868, "D": "a mineral, lead sulfate, PbSO4, found in massive deposits and in colorless or variously tinted crystals", "S": [], "A": []}

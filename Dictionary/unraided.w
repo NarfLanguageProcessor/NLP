@@ -1,0 +1,1 @@
+{"index": 349004, "D": "a sudden assault or attack, as upon something to be seized or suppressed", "S": [], "A": []}

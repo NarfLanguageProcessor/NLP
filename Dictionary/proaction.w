@@ -1,0 +1,1 @@
+{"index": 250916, "D": "action that initiates change as opposed to reaction to events", "S": [], "A": []}

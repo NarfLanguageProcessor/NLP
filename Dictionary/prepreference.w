@@ -1,0 +1,1 @@
+{"index": 248920, "D": "taking precedence over preference  shares in dividends or in capital distribution at the time of dissolution or liquidation of a business.", "S": [], "A": []}

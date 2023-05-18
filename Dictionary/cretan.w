@@ -1,0 +1,1 @@
+{"index": 72795, "D": "of or relating to the island of Crete or its inhabitants.", "S": [], "A": []}

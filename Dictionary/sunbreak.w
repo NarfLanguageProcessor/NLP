@@ -1,0 +1,1 @@
+{"index": 311048, "D": "a projection from the side of a building for intercepting part of the sunlight falling upon the adjacent surface.", "S": [], "A": []}

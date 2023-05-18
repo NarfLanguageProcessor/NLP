@@ -1,0 +1,1 @@
+{"index": 86113, "D": "any small boat designed as a tender or lifeboat, especially a small ship's boat, rowed, sailed, or driven by a motor.", "S": ["life raft ", "lifeboat ", "rowboat ", "skiff "], "A": []}

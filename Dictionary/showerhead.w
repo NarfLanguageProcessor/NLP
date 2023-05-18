@@ -1,0 +1,1 @@
+{"index": 289065, "D": "See under shower1 (def. 2). ", "S": [], "A": []}

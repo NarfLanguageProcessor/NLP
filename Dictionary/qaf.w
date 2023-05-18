@@ -1,0 +1,1 @@
+{"index": 257400, "D": "the 21st letter of the Arabic alphabet, representing a uvular stop consonant sound.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 15456, "D": "of or relating to formal public worship or liturgies. ", "S": [], "A": []}

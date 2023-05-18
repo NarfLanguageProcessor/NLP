@@ -1,0 +1,1 @@
+{"index": 359580, "D": "having impractical views;  speculative; visionary.", "S": [], "A": []}

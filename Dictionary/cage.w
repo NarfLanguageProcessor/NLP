@@ -1,0 +1,1 @@
+{"index": 44511, "D": "a boxlike enclosure having wires, bars, or the like, for confining and displaying birds or animals.", "S": ["crate ", "enclosure ", "jail ", "pen "], "A": []}

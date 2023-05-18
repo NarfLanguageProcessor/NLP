@@ -1,0 +1,1 @@
+{"index": 205312, "D": "a person sent by a church into an area to carry on evangelism or other activities, as educational or hospital work", "S": [], "A": []}

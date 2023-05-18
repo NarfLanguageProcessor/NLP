@@ -1,0 +1,1 @@
+{"index": 23005, "D": "to make an effort at; try; undertake; seek", "S": ["attack ", "bid ", "endeavor ", "experiment ", "pursuit ", "shot ", "struggle ", "try "], "A": ["retreat ", "surrender "]}

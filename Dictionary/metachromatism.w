@@ -1,0 +1,1 @@
+{"index": 184602, "D": "change of color, especially that due to variation in the temperature of a body.", "S": [], "A": []}

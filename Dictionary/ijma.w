@@ -1,0 +1,1 @@
+{"index": 147185, "D": "the consensus of all believers on the rightness of a belief or practice.", "S": [], "A": []}

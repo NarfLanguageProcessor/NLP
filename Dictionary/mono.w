@@ -1,0 +1,1 @@
+{"index": 192072, "D": "infectious mononucleosis. ", "S": [], "A": []}

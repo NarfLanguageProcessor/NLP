@@ -1,0 +1,1 @@
+{"index": 248485, "D": "to humiliate or shame, as by injury to one's pride or self-respect.", "S": [], "A": []}

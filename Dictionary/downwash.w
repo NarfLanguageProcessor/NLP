@@ -1,0 +1,1 @@
+{"index": 92358, "D": "a deflection of air downward relative to an airfoil that causes the deflection.", "S": [], "A": []}

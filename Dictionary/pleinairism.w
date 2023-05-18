@@ -1,0 +1,1 @@
+{"index": 239752, "D": "the open air, especially the daylight of outdoors.", "S": [], "A": []}

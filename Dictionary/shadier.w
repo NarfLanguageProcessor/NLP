@@ -1,0 +1,1 @@
+{"index": 287068, "D": "abounding in shade; shaded", "S": ["cloudy ", "leafy ", "shaded ", "shadowy "], "A": ["clear "]}

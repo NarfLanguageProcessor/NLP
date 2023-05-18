@@ -1,0 +1,1 @@
+{"index": 254050, "D": "a book of the Bible, containing the sayings of sages. Abbreviation", "S": ["adage ", "aphorism ", "axiom ", "dictum ", "epigram ", "maxim ", "witticism "], "A": []}

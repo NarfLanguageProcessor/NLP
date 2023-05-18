@@ -1,0 +1,1 @@
+{"index": 29257, "D": "an old Scottish bullion coin, originally worth about three halfpence of English coin, later sixpence.", "S": [], "A": []}

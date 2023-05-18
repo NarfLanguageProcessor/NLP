@@ -1,0 +1,1 @@
+{"index": 258950, "D": "a clever or witty remark or comment.", "S": ["banter ", "gag ", "gibe ", "pleasantry ", "pun ", "repartee ", "retort ", "satire ", "wisecrack ", "witticism "], "A": ["flattery ", "praise ", "seriousness "]}

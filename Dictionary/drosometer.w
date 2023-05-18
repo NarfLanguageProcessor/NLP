@@ -1,0 +1,1 @@
+{"index": 93399, "D": "an instrument for measuring the amount of dew formed on a given surface.", "S": [], "A": []}

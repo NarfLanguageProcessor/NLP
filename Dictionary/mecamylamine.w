@@ -1,0 +1,1 @@
+{"index": 181852, "D": "a ganglion-blocking drug administered orally to lower high blood pressure. Formula", "S": [], "A": []}

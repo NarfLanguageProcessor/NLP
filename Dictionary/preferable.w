@@ -1,0 +1,1 @@
+{"index": 247531, "D": "more desirable.", "S": ["desirable ", "excellent ", "preferred ", "superior "], "A": ["bad ", "inferior ", "poor ", "undesirable "]}

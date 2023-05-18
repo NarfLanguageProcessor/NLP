@@ -1,0 +1,1 @@
+{"index": 169113, "D": "the policies and practices of Archbishop Laud or his supporters.", "S": [], "A": []}

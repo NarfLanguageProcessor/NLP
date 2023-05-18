@@ -1,0 +1,1 @@
+{"index": 96972, "D": "a galvanometric device that detects and records the minute differences in electric potential caused by heart action and occurring between different parts of the body", "S": [], "A": []}

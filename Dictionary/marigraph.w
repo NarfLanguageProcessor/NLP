@@ -1,0 +1,1 @@
+{"index": 180061, "D": "a device that automatically registers the rise and fall of the tide.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 365016, "D": "for what? for what reason, cause, or purpose?", "S": ["causes ", "details ", "explanations ", "justifications "], "A": []}

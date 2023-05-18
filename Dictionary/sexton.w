@@ -1,0 +1,1 @@
+{"index": 286925, "D": "an official of a church charged with taking care of the edifice and its contents, ringing the bell, etc., and sometimes with burying the dead.", "S": [], "A": []}

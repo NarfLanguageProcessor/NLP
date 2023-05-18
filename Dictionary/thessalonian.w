@@ -1,0 +1,1 @@
+{"index": 321612, "D": "of or relating to Thessaloniki  or its inhabitants.", "S": [], "A": []}

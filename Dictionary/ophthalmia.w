@@ -1,0 +1,1 @@
+{"index": 213430, "D": "inflammation of the eye, especially of its membranes or external structures.", "S": [], "A": []}

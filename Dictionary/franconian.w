@@ -1,0 +1,1 @@
+{"index": 118339, "D": "a group of West Germanic dialects or languages, consisting of Frankish and the dialects descended from Frankish.", "S": [], "A": []}

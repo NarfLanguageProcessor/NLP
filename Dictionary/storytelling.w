@@ -1,0 +1,1 @@
+{"index": 305435, "D": "the telling  or writing of stories. ", "S": ["best seller ", "book ", "drama ", "fable ", "fantasy ", "imagination ", "legend ", "myth ", "narrative ", "novel ", "tale ", "yarn "], "A": ["nonfiction ", "reality ", "truth "]}

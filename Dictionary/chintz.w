@@ -1,0 +1,1 @@
+{"index": 54660, "D": "a printed cotton fabric, glazed or unglazed, used especially for draperies.", "S": [], "A": []}

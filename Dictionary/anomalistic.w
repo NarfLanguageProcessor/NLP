@@ -1,0 +1,1 @@
+{"index": 13751, "D": "of or relating to an anomaly. ", "S": ["aberrant ", "anomalous ", "atypical ", "bizarre ", "deviant ", "divergent ", "irregular ", "odd ", "peculiar ", "rare ", "uncommon ", "unnatural ", "unusual "], "A": []}

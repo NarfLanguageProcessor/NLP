@@ -1,0 +1,1 @@
+{"index": 245415, "D": "the act of taking or receiving something offered.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 366082, "D": "a drinking glass,  as a goblet, having a foot and a stem and used specifically for serving wine. ", "S": ["brandy balloon ", "brandy snifter ", "cordial glass ", "highball glass ", "martini glass ", "pony ", "rocks glass ", "tumbler "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 102409, "D": "a mineral, calcium aluminum iron silicate, Ca2(Al, Fe)3Si3O12(OH), occurring in green prismatic crystals.", "S": [], "A": []}

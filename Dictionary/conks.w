@@ -1,0 +1,1 @@
+{"index": 66471, "D": "to hit or strike on the head.", "S": ["decease ", "fail ", "faint ", "hit ", "knock ", "stall ", "straighten ", "swat "], "A": []}

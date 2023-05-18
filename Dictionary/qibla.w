@@ -1,0 +1,1 @@
+{"index": 257419, "D": "the point toward which Muslims turn to pray, especially the Ka\u02bfba, or House of God, at Mecca.", "S": [], "A": []}

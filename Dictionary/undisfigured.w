@@ -1,0 +1,1 @@
+{"index": 340508, "D": "to mar the appearance or beauty of; deform; deface", "S": [], "A": []}

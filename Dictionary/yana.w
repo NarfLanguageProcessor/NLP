@@ -1,0 +1,1 @@
+{"index": 145646, "D": "a member of a North American Indian people who once resided in the eastern portion of the upper Sacramento River valley in California.", "S": [], "A": []}

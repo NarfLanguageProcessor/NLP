@@ -1,0 +1,1 @@
+{"index": 299420, "D": "belonging or pertaining to the Sphecidae, a family of solitary wasps, including the mud daubers, sand wasps, etc.", "S": [], "A": []}

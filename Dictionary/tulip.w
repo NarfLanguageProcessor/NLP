@@ -1,0 +1,1 @@
+{"index": 332228, "D": "any of various plants belonging to the genus Tulipa, of the lily family, cultivated in many varieties, and having lance-shaped leaves and large, showy, usually erect, cup-shaped or bell-shaped flowers in a variety of colors.", "S": [], "A": []}

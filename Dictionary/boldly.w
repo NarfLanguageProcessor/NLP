@@ -1,0 +1,1 @@
+{"index": 37518, "D": "without hesitation or fear in the face of risk or danger; courageously", "S": ["brazenly ", "courageously ", "daringly ", "eagerly ", "fearlessly "], "A": ["cautiously ", "cowardly ", "fearfully "]}

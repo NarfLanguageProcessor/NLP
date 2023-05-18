@@ -1,0 +1,1 @@
+{"index": 210365, "D": "a funeral rite or ceremony.", "S": ["eulogy ", "funeral rite ", "funeral service "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118097, "D": "foxlike; cunning or crafty; slyly clever.", "S": ["chicanery ", "craftiness ", "cunning ", "deviousness ", "guile ", "shiftiness ", "shrewdness ", "slickness ", "slyness ", "sneakiness ", "trickery ", "trickiness ", "wiliness "], "A": ["honesty "]}

@@ -1,0 +1,1 @@
+{"index": 14610, "D": "an anthropomorphic  conception or representation, as of a deity.", "S": [], "A": []}

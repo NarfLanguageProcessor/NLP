@@ -1,0 +1,1 @@
+{"index": 219296, "D": "lacking brightness, vividness, clearness, loudness, strength, etc.", "S": [], "A": []}

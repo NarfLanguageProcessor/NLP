@@ -1,0 +1,1 @@
+{"index": 164241, "D": "the area governed by a khan. ", "S": [], "A": []}

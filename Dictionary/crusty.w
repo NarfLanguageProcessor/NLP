@@ -1,0 +1,1 @@
+{"index": 74305, "D": "having a crisp or thick crust", "S": ["brusque ", "cranky ", "gruff ", "irascible ", "prickly ", "sarcastic "], "A": ["cheerful ", "happy ", "kind ", "nice ", "pleasant ", "polite "]}

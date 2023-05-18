@@ -1,0 +1,1 @@
+{"index": 209219, "D": "at the present time or moment", "S": [], "A": []}

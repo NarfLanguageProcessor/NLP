@@ -1,0 +1,1 @@
+{"index": 271393, "D": "an advocate of revision,  especially of some political or religious doctrine.", "S": ["critical ", "debunking ", "demystifying ", "demythifying ", "hermeneutical ", "reinterpreting "], "A": []}

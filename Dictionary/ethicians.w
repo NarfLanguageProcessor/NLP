@@ -1,0 +1,1 @@
+{"index": 104961, "D": "a person who specializes in or writes on ethics  or who is devoted to ethical principles.", "S": [], "A": []}

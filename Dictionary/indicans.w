@@ -1,0 +1,1 @@
+{"index": 150898, "D": "a glucoside, C14H17NO6, that occurs in plants yielding indigo and from which indigo is obtained.", "S": [], "A": []}

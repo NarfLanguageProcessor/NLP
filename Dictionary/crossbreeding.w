@@ -1,0 +1,1 @@
+{"index": 73790, "D": "to produce (a hybrid); hybridize. ", "S": ["cohabit ", "copulate ", "couple ", "crossbreed ", "generate ", "join ", "land ", "match ", "merge ", "pair ", "procreate ", "serve ", "tie ", "wed ", "yoke "], "A": ["disconnect ", "disjoin ", "divide ", "fail ", "lose ", "refrain ", "separate "]}

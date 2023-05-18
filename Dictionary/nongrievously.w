@@ -1,0 +1,1 @@
+{"index": 204357, "D": "in a way that causes or shows grief, sorrow, pain, or suffering", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 141856, "D": "the science dealing with the histological structure of abnormal or diseased tissue; pathological histology.", "S": [], "A": []}

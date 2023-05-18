@@ -1,0 +1,1 @@
+{"index": 67042, "D": "serving to compose or make up a thing; component", "S": [], "A": []}

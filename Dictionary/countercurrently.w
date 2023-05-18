@@ -1,0 +1,1 @@
+{"index": 70739, "D": "a current  running in an opposite direction to another current. ", "S": [], "A": []}

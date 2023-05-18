@@ -1,0 +1,1 @@
+{"index": 336510, "D": "a high ecclesiastic appointed by the pope to the College of Cardinals and ranking above every other ecclesiastic but the pope.", "S": [], "A": []}

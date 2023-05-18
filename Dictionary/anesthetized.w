@@ -1,0 +1,1 @@
+{"index": 12594, "D": "to render physically insensible, as by an anesthetic. ", "S": ["asleep ", "flat ", "paralyzed "], "A": ["animate ", "animated ", "interested ", "responsive ", "spirited ", "warm "]}

@@ -1,0 +1,1 @@
+{"index": 248054, "D": "sexual intercourse,  especially coitus.", "S": [], "A": []}

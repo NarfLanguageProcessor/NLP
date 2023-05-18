@@ -1,0 +1,1 @@
+{"index": 331670, "D": "a federal official who seeks to dissolve business trusts,  especially through vigorous application of antitrust regulations.", "S": [], "A": []}

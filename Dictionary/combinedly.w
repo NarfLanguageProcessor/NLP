@@ -1,0 +1,1 @@
+{"index": 63668, "D": "made by combining;  joined; united, as in a chemical compound.", "S": [], "A": []}

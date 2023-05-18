@@ -1,0 +1,1 @@
+{"index": 241806, "D": "having many or several digits.", "S": [], "A": []}

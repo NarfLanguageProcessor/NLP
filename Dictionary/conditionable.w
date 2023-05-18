@@ -1,0 +1,1 @@
+{"index": 65615, "D": "a particular mode of being of a person or thing; existing state; situation with respect to circumstances.", "S": [], "A": []}

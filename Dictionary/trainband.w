@@ -1,0 +1,1 @@
+{"index": 327448, "D": "a company of trained militia organized in London and elsewhere in the 16th, 17th, and 18th centuries.", "S": [], "A": []}

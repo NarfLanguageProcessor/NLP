@@ -1,0 +1,1 @@
+{"index": 268579, "D": "to restore to private  control; remove from governmental jurisdiction.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 38919, "D": "the doctrines of militarism and reprisals against Germany, advocated, especially in the 1880s, by the French general Boulanger.", "S": [], "A": []}

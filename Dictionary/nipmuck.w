@@ -1,0 +1,1 @@
+{"index": 200249, "D": "a member of an Algonquian Indian people living in the vicinity of Worcester, Mass.", "S": [], "A": []}

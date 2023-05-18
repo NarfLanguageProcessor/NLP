@@ -1,0 +1,1 @@
+{"index": 272267, "D": "relating to or resembling Rhodesian man", "S": [], "A": []}

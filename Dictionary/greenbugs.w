@@ -1,0 +1,1 @@
+{"index": 129527, "D": "a pale-green aphid, Schizaphis graminum, of North America, destructive of wheat, other small grains, and alfalfa.", "S": [], "A": []}

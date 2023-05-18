@@ -1,0 +1,1 @@
+{"index": 215681, "D": "a disorder in which the bones become increasingly porous, brittle, and subject to fracture, owing to loss of calcium and other mineral components, sometimes resulting in pain, decreased height, and skeletal deformities", "S": [], "A": []}

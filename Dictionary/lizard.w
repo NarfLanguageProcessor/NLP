@@ -1,0 +1,1 @@
+{"index": 174035, "D": "any of numerous scaly reptiles of the suborder Sauria, order Squamata, typically having a moderately elongate body, a tapering tail, and two pairs of legs held outward from the body, comprising mostly terrestrial and burrowing species.", "S": ["bag ", "handbag ", "pocket ", "pocketbook ", "pouch ", "wallet "], "A": ["loss "]}

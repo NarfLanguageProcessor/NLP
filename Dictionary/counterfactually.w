@@ -1,0 +1,1 @@
+{"index": 70799, "D": "a conditional statement the first clause of which expresses something contrary to fact, as \u201cIf I had known.\u201d", "S": [], "A": []}

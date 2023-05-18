@@ -1,0 +1,1 @@
+{"index": 203417, "D": "to charge with or subject to electricity;  apply electricity  to.", "S": [], "A": []}

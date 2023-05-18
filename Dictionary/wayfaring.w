@@ -1,0 +1,1 @@
+{"index": 361962, "D": "traveling, especially on foot.", "S": ["drifting ", "gadabout ", "itinerant ", "journeying ", "peripatetic ", "roving ", "vagabond ", "vagrant ", "walking ", "wandering "], "A": ["settled "]}

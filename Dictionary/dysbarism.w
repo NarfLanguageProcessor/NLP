@@ -1,0 +1,1 @@
+{"index": 87157, "D": "the condition resulting from a difference between the atmospheric pressure and the pressure of gases within the body.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111719, "D": "federal estate tax.", "S": [], "A": []}

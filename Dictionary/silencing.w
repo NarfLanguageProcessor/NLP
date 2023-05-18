@@ -1,0 +1,1 @@
+{"index": 290270, "D": "absence of any sound or noise; stillness.", "S": ["covering up ", "curbing ", "holding back ", "quelling ", "repressing ", "repressive ", "stifling ", "subduing ", "withholding "], "A": []}

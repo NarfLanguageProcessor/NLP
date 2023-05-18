@@ -1,0 +1,1 @@
+{"index": 102273, "D": "a small circle the center of which moves around in the circumference of a larger circle", "S": [], "A": []}

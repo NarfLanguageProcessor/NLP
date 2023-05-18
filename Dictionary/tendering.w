@@ -1,0 +1,1 @@
+{"index": 318749, "D": "soft or delicate in substance; not hard or tough", "S": ["departure ", "retirement ", "surrender ", "termination ", "withdrawal "], "A": ["stay "]}

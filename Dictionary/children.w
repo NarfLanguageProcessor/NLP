@@ -1,0 +1,1 @@
+{"index": 54317, "D": "plural of child. ", "S": ["heir ", "offspring ", "scion "], "A": ["cause ", "origin ", "parent ", "source "]}

@@ -1,0 +1,1 @@
+{"index": 21970, "D": "curving upward, as leaves; ascendant.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 243764, "D": "(in some Spanish-speaking countries) a government-operated or -approved inn offering moderately priced rooms to tourists, especially in a historic area.", "S": [], "A": []}

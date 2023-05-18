@@ -1,0 +1,1 @@
+{"index": 284725, "D": "having or showing a dutiful spirit of reverence for God or an earnest wish to fulfill religious obligations.", "S": [], "A": []}

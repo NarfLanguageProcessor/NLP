@@ -1,0 +1,1 @@
+{"index": 343768, "D": "well-known or important in history", "S": ["fabled ", "fabulous ", "mythical ", "storied "], "A": ["factual ", "infamous ", "real ", "true ", "unimportant "]}

@@ -1,0 +1,1 @@
+{"index": 330975, "D": "a past participle of tread. ", "S": ["formed ", "hammered ", "milled ", "pounded ", "rolled ", "shaped ", "stamped ", "tamped ", "tramped ", "worked "], "A": []}

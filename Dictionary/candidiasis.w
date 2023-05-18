@@ -1,0 +1,1 @@
+{"index": 46172, "D": "any of a variety of infections caused by fungi of the genus Candida, occurring most often in the mouth, respiratory tract (bronchocandidiasis ), or vagina.", "S": [], "A": []}

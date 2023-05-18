@@ -1,0 +1,1 @@
+{"index": 358540, "D": "having the appearance of truth; likely; probable", "S": ["apt ", "inclined ", "prone ", "sensitive ", "susceptible ", "vulnerable "], "A": ["unsusceptible "]}

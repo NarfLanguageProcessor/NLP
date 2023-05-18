@@ -1,0 +1,1 @@
+{"index": 357234, "D": "the third person singular present indicative of vary. ", "S": ["alter ", "differ ", "diverge ", "diversify ", "divide ", "fluctuate ", "modify ", "range "], "A": ["agree ", "conform ", "disorganize ", "hold ", "join ", "keep ", "maintain ", "remain ", "retain ", "arrive ", "come ", "concur ", "consent ", "continue ", "stay ", "wait "]}

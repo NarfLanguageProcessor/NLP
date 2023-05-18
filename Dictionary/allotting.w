@@ -1,0 +1,1 @@
+{"index": 9004, "D": "to divide or distribute by share or portion; distribute or parcel out; apportion", "S": ["allocate ", "appoint ", "apportion ", "appropriate ", "assign ", "designate ", "distribute ", "earmark ", "set aside "], "A": ["hold ", "keep ", "refuse ", "reject "]}

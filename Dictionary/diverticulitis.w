@@ -1,0 +1,1 @@
+{"index": 90284, "D": "inflammation of one or more diverticula,  characterized by abdominal pain, fever, and changes in bowel movements.", "S": [], "A": []}

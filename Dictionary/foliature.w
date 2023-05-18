@@ -1,0 +1,1 @@
+{"index": 115892, "D": "a cluster of leaves; foliage.", "S": [], "A": []}

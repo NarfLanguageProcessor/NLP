@@ -1,0 +1,1 @@
+{"index": 119156, "D": "an omelet resembling a large pancake and containing vegetables, seasonings, and often ricotta, Parmesan, or other cheese.", "S": [], "A": []}

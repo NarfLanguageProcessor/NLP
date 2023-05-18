@@ -1,0 +1,1 @@
+{"index": 295320, "D": "an amateur photographer, especially one who takes snapshots  with a simple camera.", "S": [], "A": []}

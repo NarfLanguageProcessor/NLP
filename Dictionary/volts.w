@@ -1,0 +1,1 @@
+{"index": 361205, "D": "the standard unit of potential difference and electromotive force in the International System of Units (SI), formally defined to be the difference of electric potential between two points of a conductor carrying a constant current of one ampere, when the power dissipated between these points is equal to one watt. Abbreviation", "S": [], "A": []}

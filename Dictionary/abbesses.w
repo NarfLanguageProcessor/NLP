@@ -1,0 +1,1 @@
+{"index": 202, "D": "a woman who is the superior of a convent of nuns.", "S": ["Holy Mother ", "ecclesiarch ", "lady superior ", "prioress ", "reverend mother ", "superior ", "superioress "], "A": []}

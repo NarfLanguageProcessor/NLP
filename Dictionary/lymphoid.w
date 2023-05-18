@@ -1,0 +1,1 @@
+{"index": 172580, "D": "of, relating to, or resembling lymph.", "S": [], "A": []}

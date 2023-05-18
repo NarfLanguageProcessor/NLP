@@ -1,0 +1,1 @@
+{"index": 273468, "D": "a cockroach.", "S": ["bhang ", "cannabis ", "dope ", "hashish ", "hemp ", "herb ", "tea "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 277569, "D": "a member of a Uralic people dwelling in W Siberia and the far NE parts of European Russia.", "S": [], "A": []}

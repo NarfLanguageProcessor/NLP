@@ -1,0 +1,1 @@
+{"index": 281655, "D": "written or drawn awkwardly or carelessly.", "S": [], "A": []}

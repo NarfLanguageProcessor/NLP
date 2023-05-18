@@ -1,0 +1,1 @@
+{"index": 110048, "D": "having foresight; sagacious; discerning.", "S": ["visionary "], "A": []}

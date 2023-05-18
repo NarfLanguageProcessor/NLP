@@ -1,0 +1,1 @@
+{"index": 169800, "D": "a toast used in drinking to a person's health or well-being.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 122741, "D": "an entrance or passage that may be closed by a gate. ", "S": ["arch ", "entrance ", "entry ", "portal ", "pylon "], "A": ["conclusion ", "exit "]}

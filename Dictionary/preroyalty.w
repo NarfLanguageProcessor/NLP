@@ -1,0 +1,1 @@
+{"index": 249183, "D": "royal  persons collectively.", "S": [], "A": []}

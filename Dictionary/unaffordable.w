@@ -1,0 +1,1 @@
+{"index": 334727, "D": "that can be afforded;  believed to be within one's financial means", "S": [], "A": []}

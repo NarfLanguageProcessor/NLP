@@ -1,0 +1,1 @@
+{"index": 156408, "D": "of or relating to intoxicants or intoxication.", "S": ["alcoholic ", "brewed ", "distilled ", "fermented ", "inebriant ", "inebriating ", "spirituous ", "sprituous ", "strong ", "vinous "], "A": []}

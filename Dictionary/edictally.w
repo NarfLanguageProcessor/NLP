@@ -1,0 +1,1 @@
+{"index": 95740, "D": "a decree issued by a sovereign or other authority.", "S": [], "A": []}

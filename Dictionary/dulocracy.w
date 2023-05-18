@@ -1,0 +1,1 @@
+{"index": 94015, "D": "rule by slaves.", "S": [], "A": []}

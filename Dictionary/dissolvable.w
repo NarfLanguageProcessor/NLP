@@ -1,0 +1,1 @@
+{"index": 89634, "D": "to make a solution of, as by mixing with a liquid; pass into solution", "S": ["breakable ", "detachable ", "dissoluble ", "distinct ", "distinguishable ", "dividable ", "divided ", "partible ", "separated ", "severable "], "A": ["indivisible ", "inseparable "]}

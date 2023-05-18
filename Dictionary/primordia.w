@@ -1,0 +1,1 @@
+{"index": 250576, "D": "the first recognizable, histologically differentiated stage in the development of an organ.", "S": ["commencement "], "A": ["completion ", "conclusion ", "death ", "end ", "ending ", "finish "]}

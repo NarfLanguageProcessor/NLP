@@ -1,0 +1,1 @@
+{"index": 91671, "D": "a boat with a narrow, flat bottom, high bow, and flaring sides.", "S": ["raft "], "A": []}

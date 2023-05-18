@@ -1,0 +1,1 @@
+{"index": 34986, "D": "notched like a saw, with the teeth also notched; doubly serrate. ", "S": [], "A": []}

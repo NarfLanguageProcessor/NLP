@@ -1,0 +1,1 @@
+{"index": 122514, "D": "inflammation of the stomach, especially of its mucous membrane.", "S": [], "A": []}

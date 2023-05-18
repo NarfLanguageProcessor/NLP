@@ -1,0 +1,1 @@
+{"index": 218742, "D": "to exercise restraint or direction over; dominate", "S": [], "A": []}

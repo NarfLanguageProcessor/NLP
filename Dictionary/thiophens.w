@@ -1,0 +1,1 @@
+{"index": 322010, "D": "a water-insoluble, colorless liquid, C4H4S, resembling benzene, occurring in crude coal-tar benzene", "S": [], "A": []}

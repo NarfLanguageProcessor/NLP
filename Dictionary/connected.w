@@ -1,0 +1,1 @@
+{"index": 66497, "D": "united, joined, or linked.", "S": ["akin ", "associated ", "linked ", "united "], "A": ["disconnected ", "disjoined ", "unaffiliated ", "uncombined ", "unconnected ", "unrelated "]}

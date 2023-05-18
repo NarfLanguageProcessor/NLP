@@ -1,0 +1,1 @@
+{"index": 153860, "D": "to provide an instance  of or concrete evidence in support of (a theory, concept, claim, or the like).", "S": [], "A": []}

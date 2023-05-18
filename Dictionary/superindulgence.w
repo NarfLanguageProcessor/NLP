@@ -1,0 +1,1 @@
+{"index": 312064, "D": "the act or practice of indulging;  gratification of desire.", "S": [], "A": []}

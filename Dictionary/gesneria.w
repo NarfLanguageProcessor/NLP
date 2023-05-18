@@ -1,0 +1,1 @@
+{"index": 124348, "D": "any plant of the mostly tuberous-rooted S. American genus Gesneria, grown as a greenhouse plant for its large leaves and showy tubular flowers in a range of bright colours", "S": [], "A": []}

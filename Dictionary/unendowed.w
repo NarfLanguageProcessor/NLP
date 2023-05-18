@@ -1,0 +1,1 @@
+{"index": 341260, "D": "supported by a permanent fund or source of income", "S": [], "A": []}

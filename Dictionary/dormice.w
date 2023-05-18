@@ -1,0 +1,1 @@
+{"index": 91698, "D": "any small, furry-tailed, Old World rodent  of the family Gliridae, resembling small squirrels in appearance and habits.", "S": [], "A": []}

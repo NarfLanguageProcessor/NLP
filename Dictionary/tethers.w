@@ -1,0 +1,1 @@
+{"index": 319917, "D": "a rope, chain, or the like, by which an animal is fastened to a fixed object so as to limit its range of movement.", "S": ["cord ", "harness ", "leash ", "rope ", "shackle "], "A": []}

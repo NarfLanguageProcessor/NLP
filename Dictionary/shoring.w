@@ -1,0 +1,1 @@
+{"index": 288889, "D": "a number or system of shores  for steadying or supporting a wall, a ship in drydock, etc.", "S": ["bank ", "beach ", "border ", "coast ", "riverbank ", "sand ", "seaboard ", "seashore ", "waterfront "], "A": ["center ", "interior ", "middle "]}

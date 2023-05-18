@@ -1,0 +1,1 @@
+{"index": 39334, "D": "a former duchy in W Europe, now divided between the Netherlands and Belgium.", "S": [], "A": []}

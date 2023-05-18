@@ -1,0 +1,1 @@
+{"index": 351319, "D": "to shut with force and noise", "S": [], "A": []}

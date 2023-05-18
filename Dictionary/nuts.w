@@ -1,0 +1,1 @@
+{"index": 209821, "D": "(used to express disgust, defiance, disapproval, despair).", "S": ["batty ", "insane ", "mad ", "nutty "], "A": ["balanced ", "rational ", "reasonable ", "sane ", "sound ", "calm "]}

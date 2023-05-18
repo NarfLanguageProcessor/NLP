@@ -1,0 +1,1 @@
+{"index": 8239, "D": "a person who transfers property.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 162352, "D": "of or relating to Carl G. Jung  or his theories, especially of archetypes and the collective unconscious.", "S": [], "A": []}

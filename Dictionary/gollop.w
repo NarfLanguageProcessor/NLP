@@ -1,0 +1,1 @@
+{"index": 127608, "D": "to eat or drink (something) quickly or greedily", "S": [], "A": []}

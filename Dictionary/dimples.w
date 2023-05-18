@@ -1,0 +1,1 @@
+{"index": 85971, "D": "a small, natural hollow area or crease, permanent or transient, in some soft part of the human body, especially one formed in the cheek in smiling.", "S": ["divot "], "A": ["bulge ", "solid "]}

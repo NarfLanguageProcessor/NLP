@@ -1,0 +1,1 @@
+{"index": 341384, "D": "to impregnate with venom; make poisonous.", "S": [], "A": []}

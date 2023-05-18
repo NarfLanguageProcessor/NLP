@@ -1,0 +1,1 @@
+{"index": 235241, "D": "noting or pertaining to any of various processes for printing from plates or surfaces prepared by the aid of photography.", "S": [], "A": []}

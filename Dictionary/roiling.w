@@ -1,0 +1,1 @@
+{"index": 273897, "D": "to render (water, wine, etc.) turbid by stirring up sediment.", "S": ["muddy ", "rile ", "stir "], "A": ["aid ", "calm ", "make happy ", "please ", "quiet ", "soothe "]}

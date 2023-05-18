@@ -1,0 +1,1 @@
+{"index": 303375, "D": "a horse, especially a high-spirited one.", "S": ["colt ", "filly ", "mare ", "stallion "], "A": []}

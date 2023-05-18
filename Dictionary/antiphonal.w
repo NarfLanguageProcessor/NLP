@@ -1,0 +1,1 @@
+{"index": 15859, "D": "pertaining to antiphons  or antiphony;  responsive.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310192, "D": "a member of an ascetic, mystical Muslim sect.", "S": [], "A": []}

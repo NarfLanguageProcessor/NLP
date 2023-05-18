@@ -1,0 +1,1 @@
+{"index": 147220, "D": "of, relating to, or involving the ileum and cecum.", "S": [], "A": []}

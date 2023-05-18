@@ -1,0 +1,1 @@
+{"index": 17053, "D": "relating to or characterized by aplasia", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 348851, "D": "very strict in moral or religious matters, often excessively so; rigidly austere.", "S": [], "A": []}

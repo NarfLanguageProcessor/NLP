@@ -1,0 +1,1 @@
+{"index": 312051, "D": "feeling, characterized by, or expressing strong displeasure at something considered unjust, offensive, insulting, or base", "S": [], "A": []}

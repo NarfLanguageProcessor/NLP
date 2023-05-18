@@ -1,0 +1,1 @@
+{"index": 142974, "D": "having a common center; concentric", "S": [], "A": []}

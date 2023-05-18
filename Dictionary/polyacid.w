@@ -1,0 +1,1 @@
+{"index": 241578, "D": "having more than one replaceable hydrogen atom.", "S": [], "A": []}

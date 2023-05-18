@@ -1,0 +1,1 @@
+{"index": 154940, "D": "a device that separates a beam of light into two ray beams, usually by means of reflection, and that brings the rays together to produce interference, used to measure wavelength, index of refraction, and astronomical distances.", "S": [], "A": []}

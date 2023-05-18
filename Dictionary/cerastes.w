@@ -1,0 +1,1 @@
+{"index": 51248, "D": "any of several small vipers of the genus Cerastes, including the horned viper, that have a sideways looping motion like that of a sidewinder and inhabit deserts of northern Africa and southwestern Asia.", "S": [], "A": []}

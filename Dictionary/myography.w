@@ -1,0 +1,1 @@
+{"index": 188144, "D": "an instrument for recording the contractions and relaxations of muscles.", "S": [], "A": []}

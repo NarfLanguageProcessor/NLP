@@ -1,0 +1,1 @@
+{"index": 150952, "D": "(of food) prepared or seasoned in East Indian style, as with curry.", "S": [], "A": []}

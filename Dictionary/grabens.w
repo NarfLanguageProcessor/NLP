@@ -1,0 +1,1 @@
+{"index": 128474, "D": "a portion of the earth's crust, bounded on at least two sides by faults, that has dropped downward in relation to adjacent portions.", "S": [], "A": []}

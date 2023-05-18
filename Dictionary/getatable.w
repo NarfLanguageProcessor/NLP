@@ -1,0 +1,1 @@
+{"index": 124426, "D": [], "S": ["available ", "handy ", "reachable ", "usable "], "A": ["unhandy ", "useless "]}

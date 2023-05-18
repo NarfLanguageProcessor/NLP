@@ -1,0 +1,1 @@
+{"index": 25157, "D": "a bar, fixed crosswise under an animal-drawn vehicle, with a rounded spindle at each end upon which a wheel rotates.", "S": [], "A": []}

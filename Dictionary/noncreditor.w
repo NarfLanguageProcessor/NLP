@@ -1,0 +1,1 @@
+{"index": 202598, "D": "a person or firm to whom money is due (opposed to debtor).", "S": [], "A": []}

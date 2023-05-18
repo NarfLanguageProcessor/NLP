@@ -1,0 +1,1 @@
+{"index": 54573, "D": "a bulbous plant, Ornithogalum thyrsoides, of the lily family, native to southern Africa, having dense clusters of cream-colored or white flowers.", "S": [], "A": []}

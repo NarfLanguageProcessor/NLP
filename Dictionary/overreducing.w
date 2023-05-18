@@ -1,0 +1,1 @@
+{"index": 220805, "D": "to bring down to a smaller extent, size, amount, number, etc.", "S": ["reduce ", "simplify "], "A": []}

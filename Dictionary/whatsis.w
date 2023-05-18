@@ -1,0 +1,1 @@
+{"index": 364459, "D": "a thing or object whose name one does not know or cannot recall.", "S": ["nameless ", "undisclosed ", "unidentified ", "unnamed ", "unsigned "], "A": ["known ", "named "]}

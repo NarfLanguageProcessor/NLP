@@ -1,0 +1,1 @@
+{"index": 296693, "D": [], "S": ["applicant ", "aspirant ", "bidder ", "competitor ", "contender ", "contestant ", "nominee ", "successor "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 21846, "D": "(in historical use) compensation owed to the close relatives of someone who has been killed.", "S": [], "A": []}

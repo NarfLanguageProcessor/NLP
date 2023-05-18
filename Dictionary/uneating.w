@@ -1,0 +1,1 @@
+{"index": 340978, "D": "the act of a person or thing that eats.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 181711, "D": "(functioning as singular) a South African word for maize", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256122, "D": "one of a breed of small, short-haired dogs having a tightly curled tail, a deeply wrinkled face, and a smooth coat that is black or silver and fawn with black markings.", "S": [], "A": []}

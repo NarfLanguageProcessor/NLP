@@ -1,0 +1,1 @@
+{"index": 268705, "D": "repent2. ", "S": ["climbing ", "spreading "], "A": ["upright ", "vertical "]}

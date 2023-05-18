@@ -1,0 +1,1 @@
+{"index": 304305, "D": "having the property of adhering, as glue; adhesive.", "S": ["dampness ", "humidness ", "mugginess ", "steaminess ", "wetness "], "A": []}

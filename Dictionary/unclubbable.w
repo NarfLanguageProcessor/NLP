@@ -1,0 +1,1 @@
+{"index": 337111, "D": "not acceptable as a person with whom one can enjoy good fellowship; socially unappealing.", "S": [], "A": []}

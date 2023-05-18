@@ -1,0 +1,1 @@
+{"index": 180164, "D": "a person who sells goods or services in or to a market. ", "S": [], "A": []}

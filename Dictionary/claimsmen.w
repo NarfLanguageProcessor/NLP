@@ -1,0 +1,1 @@
+{"index": 59080, "D": "an insurance adjuster, especially one dealing with casualty-insurance claims; claims adjuster.", "S": [], "A": []}

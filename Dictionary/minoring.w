@@ -1,0 +1,1 @@
+{"index": 188000, "D": "lesser, as in size, extent, or importance, or being or noting the lesser of two", "S": [], "A": []}

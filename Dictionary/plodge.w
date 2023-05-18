@@ -1,0 +1,1 @@
+{"index": 240174, "D": "to wade in water, esp the sea", "S": [], "A": []}

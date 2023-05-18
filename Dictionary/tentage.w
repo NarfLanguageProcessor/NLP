@@ -1,0 +1,1 @@
+{"index": 319032, "D": "tents  collectively; equipment or supply of tents.", "S": [], "A": []}

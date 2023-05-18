@@ -1,0 +1,1 @@
+{"index": 142936, "D": "attacking an opponent's character or motives rather than answering the argument or claim.", "S": [], "A": []}

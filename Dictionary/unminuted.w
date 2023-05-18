@@ -1,0 +1,1 @@
+{"index": 346386, "D": "the sixtieth part (1/60) of an hour; sixty seconds.", "S": [], "A": []}

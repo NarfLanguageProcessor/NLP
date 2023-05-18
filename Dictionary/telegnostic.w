@@ -1,0 +1,1 @@
+{"index": 318031, "D": "supernatural or occult knowledge; clairvoyance.", "S": [], "A": []}

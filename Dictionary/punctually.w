@@ -1,0 +1,1 @@
+{"index": 256597, "D": "strictly observant of an appointed or regular time; not late; prompt.", "S": ["appropriately ", "correctly ", "deservedly ", "suitably "], "A": ["improperly ", "unduly ", "unsuitably "]}

@@ -1,0 +1,1 @@
+{"index": 101750, "D": "to mention separately as if in counting; name one by one; specify, as in a list", "S": ["calculate ", "itemize ", "recite ", "specify ", "spell out ", "take account of "], "A": ["conceal ", "estimate ", "guess ", "hide ", "neglect ", "subtract "]}

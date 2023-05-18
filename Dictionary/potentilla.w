@@ -1,0 +1,1 @@
+{"index": 244682, "D": "See also cinquefoil (def. 1), silverweed (def. 1), tormentil", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108394, "D": "to praise highly; laud; eulogize", "S": ["adoration ", "applause ", "compliment ", "congratulations ", "exaltation ", "glorification ", "glory ", "honor ", "kudos "], "A": ["blame ", "censure ", "condemnation ", "criticism ", "debasement ", "denunciation ", "disrespect ", "humiliation "]}

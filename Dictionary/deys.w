@@ -1,0 +1,1 @@
+{"index": 79846, "D": "the title of the governor of Algiers before the French conquest in 1830.", "S": [], "A": []}

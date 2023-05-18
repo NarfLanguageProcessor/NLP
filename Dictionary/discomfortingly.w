@@ -1,0 +1,1 @@
+{"index": 87458, "D": "an absence of comfort or ease; uneasiness, hardship, or mild pain.", "S": [], "A": []}

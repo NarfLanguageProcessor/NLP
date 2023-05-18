@@ -1,0 +1,1 @@
+{"index": 112630, "D": "a person who kills their own child.", "S": [], "A": []}

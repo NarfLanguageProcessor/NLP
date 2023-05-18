@@ -1,0 +1,1 @@
+{"index": 285559, "D": "a principle or policy advocating withdrawing or seceding from an established union, such as a church, nation, etc.", "S": ["apartheid ", "discrimination "], "A": ["attachment ", "connection ", "juncture ", "union ", "unity "]}

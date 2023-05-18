@@ -1,0 +1,1 @@
+{"index": 249576, "D": "a body of persons under the command of an officer, formerly employed to impress others for service, especially in the navy or army.", "S": [], "A": []}

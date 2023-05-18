@@ -1,0 +1,1 @@
+{"index": 289039, "D": "to move along by force from behind; push. ", "S": [], "A": []}

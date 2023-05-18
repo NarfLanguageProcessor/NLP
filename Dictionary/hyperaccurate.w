@@ -1,0 +1,1 @@
+{"index": 139825, "D": "free from error or defect; consistent with a standard, rule, or model; precise; exact. ", "S": [], "A": []}

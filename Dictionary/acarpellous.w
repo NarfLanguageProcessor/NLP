@@ -1,0 +1,1 @@
+{"index": 1380, "D": "(of flowers) having no carpels", "S": [], "A": []}

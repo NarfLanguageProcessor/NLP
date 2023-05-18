@@ -1,0 +1,1 @@
+{"index": 58875, "D": "a clear, colorless liquid mixture of isomeric alcohols having the formula C10H20O, usually obtained from an essential oil, as citronella oil,  and having a roselike odor", "S": [], "A": []}

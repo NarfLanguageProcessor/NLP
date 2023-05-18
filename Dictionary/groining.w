@@ -1,0 +1,1 @@
+{"index": 130160, "D": "the intersection of two vaults.", "S": [], "A": []}

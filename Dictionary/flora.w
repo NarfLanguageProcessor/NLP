@@ -1,0 +1,1 @@
+{"index": 114981, "D": "the plants of a particular region or period, listed by species and considered as a whole.", "S": ["vegetation "], "A": []}

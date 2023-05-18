@@ -1,0 +1,1 @@
+{"index": 192633, "D": "a cathode-ray tube that provides a signal of a fixed pattern, formerly used for testing television equipment at the end of a broadcast day.", "S": [], "A": []}

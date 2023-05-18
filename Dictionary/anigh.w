@@ -1,0 +1,1 @@
+{"index": 13106, "D": "near; close to.", "S": [], "A": []}

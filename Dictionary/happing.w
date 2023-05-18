@@ -1,0 +1,1 @@
+{"index": 133520, "D": "one's luck or lot.", "S": ["accident ", "advantage ", "adventure ", "break ", "cast ", "casualty ", "coincidence ", "contingency ", "destination ", "destiny ", "doom ", "fluke ", "fortuitousness ", "fortuity ", "fortune ", "future ", "gamble ", "happening ", "happenstance "], "A": ["certainty ", "design ", "misfortune ", "plan "]}

@@ -1,0 +1,1 @@
+{"index": 62969, "D": "a collar or enclosing band.", "S": [], "A": []}

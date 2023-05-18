@@ -1,0 +1,1 @@
+{"index": 133511, "D": "a chance happening  or event.", "S": ["coincidence "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 198032, "D": "marked by negation; denying; negative.", "S": ["antithesis ", "renunciation ", "repudiation "], "A": ["OK ", "allowance ", "approval ", "permission ", "ratification ", "same ", "sanction ", "similarity "]}

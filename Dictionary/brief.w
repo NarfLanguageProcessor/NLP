@@ -1,0 +1,1 @@
+{"index": 40714, "D": "lasting or taking a short time; of short duration", "S": ["abrupt ", "blunt ", "concise ", "pithy ", "succinct ", "terse "], "A": ["expansive ", "lengthy ", "long-winded ", "wordy ", "benevolent ", "big ", "enormous ", "huge ", "immense ", "important ", "indefinite ", "kind ", "large "]}

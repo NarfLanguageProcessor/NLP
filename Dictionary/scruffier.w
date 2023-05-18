@@ -1,0 +1,1 @@
+{"index": 282043, "D": "untidy; shabby.", "S": ["seedy ", "shabby ", "tacky ", "tattered ", "threadbare ", "unkempt "], "A": ["nice "]}

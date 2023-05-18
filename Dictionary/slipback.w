@@ -1,0 +1,1 @@
+{"index": 294144, "D": [], "S": ["degenerate ", "fall back "], "A": ["develop ", "fight ", "grow ", "help ", "improve ", "increase ", "progress ", "reach ", "rise ", "strengthen ", "win "]}

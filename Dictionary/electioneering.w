@@ -1,0 +1,1 @@
+{"index": 96882, "D": "to work for the success of a particular candidate, party, ticket, etc., in an election. ", "S": ["canvassing ", "polling ", "voting "], "A": []}

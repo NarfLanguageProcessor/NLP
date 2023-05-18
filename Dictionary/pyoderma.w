@@ -1,0 +1,1 @@
+{"index": 237305, "D": "any skin eruption characterized by pustules or the formation of pus", "S": [], "A": []}

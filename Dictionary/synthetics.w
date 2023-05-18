@@ -1,0 +1,1 @@
+{"index": 292055, "D": "of, pertaining to, proceeding by, or involving synthesis (opposed to analytic).", "S": ["cotton ", "goods ", "material ", "stuff "], "A": []}

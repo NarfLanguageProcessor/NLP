@@ -1,0 +1,1 @@
+{"index": 160934, "D": "a quick, sharp pull, thrust, twist, throw, or the like; a sudden movement", "S": ["blockhead ", "dolt ", "dunce ", "fool ", "idiot ", "imbecile "], "A": []}

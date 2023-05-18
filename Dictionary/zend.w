@@ -1,0 +1,1 @@
+{"index": 369053, "D": "a translation and exposition of the Avesta in Pahlavi.", "S": [], "A": []}

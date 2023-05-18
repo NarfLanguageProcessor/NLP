@@ -1,0 +1,1 @@
+{"index": 43148, "D": "a tempered steel rod, with a lozenge-shaped point and a rounded handle, used for engraving furrows in metal.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 143385, "D": "a plant, Cerinthe retorta, of Greece, having bluish-green leaves and purple-tipped yellow flowers.", "S": [], "A": []}

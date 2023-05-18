@@ -1,0 +1,1 @@
+{"index": 357837, "D": "a minor dispute or contest.", "S": ["action ", "battle ", "bout ", "clash ", "combat ", "conflict ", "contest ", "dispute ", "quarrel ", "run-in ", "skirmish ", "violence "], "A": ["accord ", "agreement ", "truce "]}

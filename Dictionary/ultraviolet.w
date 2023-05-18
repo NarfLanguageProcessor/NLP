@@ -1,0 +1,1 @@
+{"index": 334093, "D": "beyond the violet  in the spectrum, corresponding to light having wavelengths shorter than 4000 angstrom units.", "S": [], "A": []}

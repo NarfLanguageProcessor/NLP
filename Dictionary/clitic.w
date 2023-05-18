@@ -1,0 +1,1 @@
+{"index": 60201, "D": "(of a word) functioning as a bound form; closely connected in pronunciation with a preceding or following word and not having an independent accent or phonological status.", "S": [], "A": []}

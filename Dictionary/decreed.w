@@ -1,0 +1,1 @@
+{"index": 78738, "D": "a formal and authoritative order, especially one having the force of law", "S": ["imminent ", "impending ", "inescapable ", "inexorable ", "irresistible ", "necessary ", "unavoidable ", "undeniable "], "A": ["avoidable ", "distant ", "escapable ", "later "]}

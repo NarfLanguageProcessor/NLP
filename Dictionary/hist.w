@@ -1,0 +1,1 @@
+{"index": 141712, "D": "(a sibilant exclamation used to attract attention or urge silence).", "S": [], "A": []}

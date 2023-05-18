@@ -1,0 +1,1 @@
+{"index": 150342, "D": "(of paper money) not capable of being converted into specie.", "S": [], "A": []}

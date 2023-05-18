@@ -1,0 +1,1 @@
+{"index": 211746, "D": "a member of a North American Indian people belonging to the Teton branch of the Dakota Indians.", "S": [], "A": []}

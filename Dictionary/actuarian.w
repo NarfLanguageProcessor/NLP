@@ -1,0 +1,1 @@
+{"index": 3305, "D": "relating to or being the science of computing premium rates, risks, dividends, etc., according to probabilities based on statistics", "S": [], "A": []}

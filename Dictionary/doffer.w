@@ -1,0 +1,1 @@
+{"index": 90833, "D": "a person or thing that doffs.", "S": [], "A": []}

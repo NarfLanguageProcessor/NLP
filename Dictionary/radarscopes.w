@@ -1,0 +1,1 @@
+{"index": 259496, "D": "the viewing screen of radar  equipment.", "S": [], "A": []}

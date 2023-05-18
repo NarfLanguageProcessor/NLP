@@ -1,0 +1,1 @@
+{"index": 263628, "D": "a structure consisting essentially of an upright and a transverse piece, used to execute persons in ancient times.", "S": [], "A": []}

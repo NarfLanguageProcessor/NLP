@@ -1,0 +1,1 @@
+{"index": 187996, "D": "of or relating to Minorca.", "S": [], "A": []}

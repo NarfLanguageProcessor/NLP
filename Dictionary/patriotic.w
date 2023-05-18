@@ -1,0 +1,1 @@
+{"index": 227905, "D": "of, like, suitable for, or characteristic of a patriot. ", "S": ["loyal ", "nationalistic "], "A": ["antisocial ", "misanthropic ", "traitorous "]}

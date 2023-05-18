@@ -1,0 +1,1 @@
+{"index": 170859, "D": "a section into which a course of study is divided, especially a single, continuous session of formal instruction in a subject", "S": ["admonish ", "berate ", "castigate ", "censure ", "chide ", "go after ", "oppose ", "reprimand ", "reproach ", "scold ", "upbraid "], "A": ["approve ", "compliment ", "flatter ", "laud ", "praise "]}

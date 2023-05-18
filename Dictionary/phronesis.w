@@ -1,0 +1,1 @@
+{"index": 235613, "D": "wisdom in determining ends and the means of attaining them.", "S": [], "A": []}

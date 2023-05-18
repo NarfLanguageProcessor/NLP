@@ -1,0 +1,1 @@
+{"index": 105761, "D": "(of an aquatic organism) tolerating a wide range of salinity.", "S": [], "A": []}

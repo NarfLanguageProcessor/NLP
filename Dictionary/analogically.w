@@ -1,0 +1,1 @@
+{"index": 11791, "D": "based on, involving, or expressing an analogy. ", "S": [], "A": []}

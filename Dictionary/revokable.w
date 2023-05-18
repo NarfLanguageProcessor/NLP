@@ -1,0 +1,1 @@
+{"index": 271472, "D": "that may be revoked. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 22931, "D": "to fasten or affix; join; connect", "S": ["gummy ", "sticky "], "A": ["loose ", "open ", "separated "]}

@@ -1,0 +1,1 @@
+{"index": 242761, "D": "to make foul or unclean, especially with harmful chemical or waste products; dirty", "S": ["contagious ", "toxic ", "virulent "], "A": ["harmless ", "nonpoisonous "]}

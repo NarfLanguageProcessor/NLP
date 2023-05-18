@@ -1,0 +1,1 @@
+{"index": 89323, "D": "to have a distaste for; dislike.", "S": ["despise ", "detest ", "disfavor ", "distaste ", "hate ", "loathe ", "mislike "], "A": []}

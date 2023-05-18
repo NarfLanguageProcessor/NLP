@@ -1,0 +1,1 @@
+{"index": 250645, "D": "a state ruled by a prince, usually a relatively small state or a state that falls within a larger state such as an empire.", "S": ["city ", "county ", "field ", "locality ", "neighborhood ", "section ", "sector ", "square ", "state ", "territory ", "township ", "zone "], "A": ["whole "]}

@@ -1,0 +1,1 @@
+{"index": 329763, "D": "having three leaflets, as a compound leaf.", "S": [], "A": []}

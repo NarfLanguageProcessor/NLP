@@ -1,0 +1,1 @@
+{"index": 97845, "D": "to remove by dissolving, as absorbed material from an adsorbent.", "S": [], "A": []}

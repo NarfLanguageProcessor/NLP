@@ -1,0 +1,1 @@
+{"index": 240041, "D": "of, relating to, or resembling a plexus. ", "S": [], "A": []}

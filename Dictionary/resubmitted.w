@@ -1,0 +1,1 @@
+{"index": 270091, "D": "to give over or yield to the power or authority of another (often used reflexively).", "S": [], "A": []}

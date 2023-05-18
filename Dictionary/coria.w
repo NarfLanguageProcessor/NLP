@@ -1,0 +1,1 @@
+{"index": 69064, "D": "plural of corium. ", "S": [], "A": []}

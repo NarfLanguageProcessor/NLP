@@ -1,0 +1,1 @@
+{"index": 104696, "D": "of or relating to Estonia  or its people.", "S": [], "A": []}

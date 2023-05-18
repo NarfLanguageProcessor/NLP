@@ -1,0 +1,1 @@
+{"index": 302452, "D": "any sail  set on a stay,  as a triangular sail  between two masts.", "S": [], "A": []}

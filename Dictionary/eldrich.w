@@ -1,0 +1,1 @@
+{"index": 96853, "D": "eerie; weird; spooky.", "S": [], "A": []}

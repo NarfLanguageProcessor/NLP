@@ -1,0 +1,1 @@
+{"index": 43087, "D": "the felony of breaking into and entering the house of another at night with intent to steal, extended by statute to cover the breaking into and entering of any of various buildings, by night or day.", "S": ["break in ", "crime ", "heist ", "larceny ", "robbery ", "theft "], "A": []}

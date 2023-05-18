@@ -1,0 +1,1 @@
+{"index": 205070, "D": "a place of settlement, activity, or residence", "S": [], "A": []}

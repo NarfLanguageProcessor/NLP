@@ -1,0 +1,1 @@
+{"index": 238611, "D": "platelike, as the scales or dermal investments of sharks.", "S": [], "A": []}

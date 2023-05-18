@@ -1,0 +1,1 @@
+{"index": 168941, "D": "a thin, narrow strip of wood, used with other strips to form latticework, a backing for plaster or stucco, a support for slates and other roofing materials, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 336156, "D": "an angry, rough, noisy fight, especially one engaged in under the influence of alcohol", "S": [], "A": []}

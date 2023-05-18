@@ -1,0 +1,1 @@
+{"index": 191365, "D": "a foreign particle found in wool, as a burr, twig, or seed.", "S": [], "A": []}

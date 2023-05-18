@@ -1,0 +1,1 @@
+{"index": 248292, "D": "the state or time of being a man  or adult male person; male maturity.", "S": [], "A": []}

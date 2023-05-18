@@ -1,0 +1,1 @@
+{"index": 253372, "D": "to defend or guard from attack, invasion, loss, annoyance, insult, etc.; cover or shield from injury or danger.", "S": ["covered ", "guaranteed ", "guarded ", "preserved ", "secured ", "sheltered "], "A": ["exposed "]}

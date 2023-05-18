@@ -1,0 +1,1 @@
+{"index": 65539, "D": "a product of condensation,  as a liquid reduced from a gas or vapor.", "S": ["crystallization ", "dew ", "distillation ", "liquefaction ", "precipitate ", "precipitation ", "rainfall "], "A": ["dryness "]}

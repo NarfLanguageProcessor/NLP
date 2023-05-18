@@ -1,0 +1,1 @@
+{"index": 347403, "D": "relating to or embracing pantheism,  the doctrine that God is the transcendent, spiritual, impersonal reality of which the material universe and human beings are only manifestations", "S": [], "A": []}

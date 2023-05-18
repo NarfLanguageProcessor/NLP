@@ -1,0 +1,1 @@
+{"index": 37789, "D": "a person or store that makes or sells candies.", "S": [], "A": []}

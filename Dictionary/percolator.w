@@ -1,0 +1,1 @@
+{"index": 230459, "D": "a kind of coffeepot in which boiling water in a repeated process is forced up a hollow stem, filters down through ground coffee in a sievelike container, and returns to the pot below.", "S": [], "A": []}

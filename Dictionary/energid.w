@@ -1,0 +1,1 @@
+{"index": 100139, "D": "a nucleus and the cytoplasm associated with it in a syncytium", "S": [], "A": []}

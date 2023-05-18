@@ -1,0 +1,1 @@
+{"index": 308744, "D": "in India, Myanmar (Burma), China, etc., a temple or sacred building, usually a pyramidlike tower and typically having upward-curving roofs over the individual stories.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 12591, "D": "a person who administers anesthetics,  usually a specially trained doctor or nurse.", "S": [], "A": []}

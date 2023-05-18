@@ -1,0 +1,1 @@
+{"index": 353404, "D": "not true, as to a person or a cause, to fact, or to a standard.", "S": ["breach of trust ", "infidelity ", "sedition ", "treachery ", "treason "], "A": ["devotion ", "faithfulness ", "fidelity ", "loyalty ", "honesty ", "truthfulness "]}

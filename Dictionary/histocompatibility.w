@@ -1,0 +1,1 @@
+{"index": 141815, "D": "the condition of having antigenic similarities such that cells or tissues transplanted from one (the donor) to another (the recipient) are not rejected.", "S": [], "A": []}

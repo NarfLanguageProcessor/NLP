@@ -1,0 +1,1 @@
+{"index": 270808, "D": "(of a mirror, reflector, etc.) having three reflecting surfaces so oriented that a ray of light is reflected in a direction parallel but opposite to its original direction.", "S": [], "A": []}

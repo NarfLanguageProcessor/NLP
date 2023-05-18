@@ -1,0 +1,1 @@
+{"index": 320338, "D": "the character, spirit, or culture of the Teutons,  especially the Germans.", "S": [], "A": []}

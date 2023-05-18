@@ -1,0 +1,1 @@
+{"index": 279819, "D": "to scratch, scrape, mark, or scar.", "S": [], "A": []}

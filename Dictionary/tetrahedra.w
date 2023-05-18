@@ -1,0 +1,1 @@
+{"index": 320048, "D": "a solid contained by four plane faces; a triangular pyramid.", "S": [], "A": []}

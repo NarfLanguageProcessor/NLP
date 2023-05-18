@@ -1,0 +1,1 @@
+{"index": 330593, "D": "a spasm of the jaw muscles that makes it difficult to open the mouth.", "S": ["tetanus "], "A": []}

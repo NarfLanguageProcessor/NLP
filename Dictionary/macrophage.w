@@ -1,0 +1,1 @@
+{"index": 177010, "D": "a large white blood cell, occurring principally in connective tissue and in the bloodstream, that ingests foreign particles and infectious microorganisms by phagocytosis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342762, "D": "characterized by or producing frost;  freezing; very cold", "S": [], "A": []}

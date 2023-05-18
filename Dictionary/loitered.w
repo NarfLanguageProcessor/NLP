@@ -1,0 +1,1 @@
+{"index": 174764, "D": "to linger aimlessly or as if aimless in or about a place", "S": ["amble ", "dawdle ", "linger ", "loll ", "lounge ", "ramble ", "saunter ", "traipse "], "A": ["hurry ", "run ", "rush ", "advance ", "carry on ", "complete ", "continue ", "do ", "finish ", "forge ", "forward ", "go ", "go ahead ", "hasten ", "push "]}

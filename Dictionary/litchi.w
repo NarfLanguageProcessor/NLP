@@ -1,0 +1,1 @@
+{"index": 173550, "D": "the fruit of a Chinese tree, Litchi chinensis, of the soapberry family,  consisting of a thin, brittle shell enclosing a sweet, jellylike pulp and a single seed.", "S": [], "A": []}

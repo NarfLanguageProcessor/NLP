@@ -1,0 +1,1 @@
+{"index": 234372, "D": "any armored, semiaquatic reptile of the extinct order Phytosauria, of the Mesozoic Era, resembling the crocodile but unrelated, having the nostrils high on the snout and with well-developed hind limbs suggestive of bipedal ancestors.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 206221, "D": "not established for the purpose of making a profit;  not entered into for money", "S": ["charitable ", "philanthropic "], "A": ["profitmaking "]}

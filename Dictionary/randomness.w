@@ -1,0 +1,1 @@
+{"index": 260535, "D": "proceeding, made, or occurring without definite aim, reason, or pattern", "S": ["haphazardness "], "A": ["predictability ", "consistency "]}

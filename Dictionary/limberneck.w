@@ -1,0 +1,1 @@
+{"index": 172308, "D": "a fatal infection of botulism affecting birds, especially chickens and ducks, characterized by weakness of the neck  muscles and inability to eat.", "S": [], "A": []}

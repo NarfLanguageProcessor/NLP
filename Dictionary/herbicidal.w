@@ -1,0 +1,1 @@
+{"index": 136923, "D": "a substance or preparation for killing plants, especially weeds.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 53228, "D": "a young person who wears fashionable sportswear or flashy jewelry but is regarded as badly behaved or as having lower-class taste.", "S": [], "A": []}

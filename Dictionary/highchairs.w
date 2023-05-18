@@ -1,0 +1,1 @@
+{"index": 139243, "D": "a tall chair having arms and very long legs and usually a removable tray for food, for use by a very young child during meals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 358880, "D": "being in a position or direction perpendicular to the plane of the horizon; upright; plumb.", "S": ["erectness ", "honesty ", "honor ", "integrity ", "perpendicularity ", "virtue "], "A": ["disgrace ", "dishonesty ", "dishonor "]}

@@ -1,0 +1,1 @@
+{"index": 9008, "D": "that may be allowed;  legitimate; permissible", "S": ["acceptable ", "admissible ", "legal ", "proper "], "A": ["illegitimate ", "unacceptable ", "unsuitable ", "wrong "]}

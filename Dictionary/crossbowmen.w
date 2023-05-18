@@ -1,0 +1,1 @@
+{"index": 73785, "D": "(in medieval warfare) a soldier armed with a crossbow. ", "S": [], "A": []}

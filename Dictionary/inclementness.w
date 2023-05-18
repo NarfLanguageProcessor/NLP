@@ -1,0 +1,1 @@
+{"index": 149943, "D": "(of the weather, the elements, etc.) severe, rough, or harsh; stormy.", "S": [], "A": []}

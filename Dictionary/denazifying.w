@@ -1,0 +1,1 @@
+{"index": 81016, "D": "to rid of Nazism or Nazi  influences.", "S": [], "A": []}

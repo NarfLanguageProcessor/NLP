@@ -1,0 +1,1 @@
+{"index": 244085, "D": "situated behind or at the rear of; hinder (opposed to anterior).", "S": [], "A": []}

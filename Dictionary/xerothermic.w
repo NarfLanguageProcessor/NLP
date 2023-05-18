@@ -1,0 +1,1 @@
+{"index": 368501, "D": "of or relating to the condition of being dry and hot", "S": [], "A": []}

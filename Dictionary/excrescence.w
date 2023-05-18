@@ -1,0 +1,1 @@
+{"index": 106828, "D": "an abnormal outgrowth, usually harmless, on an animal or vegetable body", "S": ["accretion ", "enlargement ", "knob ", "lump ", "outgrowth ", "pimple ", "wart "], "A": ["decrease ", "shrinkage "]}

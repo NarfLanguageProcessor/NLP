@@ -1,0 +1,1 @@
+{"index": 118123, "D": "feet per second per second.", "S": [], "A": []}

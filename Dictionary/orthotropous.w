@@ -1,0 +1,1 @@
+{"index": 215194, "D": "(of an ovule) straight and symmetrical, with the chalaza at the evident base and the micropyle at the opposite extremity.", "S": [], "A": []}

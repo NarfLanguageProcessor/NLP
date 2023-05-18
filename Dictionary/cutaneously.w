@@ -1,0 +1,1 @@
+{"index": 75739, "D": "of, relating to, or affecting the skin.", "S": [], "A": []}

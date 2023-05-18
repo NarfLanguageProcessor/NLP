@@ -1,0 +1,1 @@
+{"index": 314228, "D": "a loose, long-sleeved, collarless pullover of soft, absorbent fabric, as cotton jersey, with close-fitting or elastic cuffs and sometimes a drawstring at the waist, commonly worn during athletic activity for warmth or to induce sweating. ", "S": [], "A": []}

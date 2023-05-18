@@ -1,0 +1,1 @@
+{"index": 260960, "D": "a sound of or as of the beating of a drum.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256611, "D": "studded with minute points or dots.", "S": [], "A": []}

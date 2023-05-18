@@ -1,0 +1,1 @@
+{"index": 283059, "D": "the adult male of the fur seal, Callorhinus alascanus, of Alaska.", "S": [], "A": []}

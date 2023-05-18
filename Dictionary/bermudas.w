@@ -1,0 +1,1 @@
+{"index": 32147, "D": "Bermuda. ", "S": ["Jamaica shorts ", "surfer shorts ", "trunks "], "A": []}

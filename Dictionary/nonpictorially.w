@@ -1,0 +1,1 @@
+{"index": 205977, "D": "pertaining to, expressed in, or of the nature of a picture.", "S": [], "A": []}

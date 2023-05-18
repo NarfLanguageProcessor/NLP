@@ -1,0 +1,1 @@
+{"index": 143920, "D": "of or relating to horology. ", "S": [], "A": []}

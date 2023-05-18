@@ -1,0 +1,1 @@
+{"index": 9841, "D": [], "S": ["pungent ", "stinging "], "A": ["complimentary ", "delicious ", "kind ", "nice ", "savory ", "sweet "]}

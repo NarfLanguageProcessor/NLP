@@ -1,0 +1,1 @@
+{"index": 219637, "D": "a race or other contest in which certain disadvantages or advantages of weight, distance, time, etc., are placed upon competitors to equalize their chances of winning.", "S": [], "A": []}

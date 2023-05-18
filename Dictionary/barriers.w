@@ -1,0 +1,1 @@
+{"index": 28371, "D": "anything built or serving to bar passage, as a railing, fence, or the like", "S": ["barricade ", "blockade ", "boundary ", "fence ", "hurdle ", "impediment ", "limit ", "obstacle ", "railing ", "roadblock ", "wall "], "A": ["assistance ", "help ", "opening ", "open "]}

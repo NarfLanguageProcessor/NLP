@@ -1,0 +1,1 @@
+{"index": 134554, "D": "characterized by the presence of haze; misty", "S": ["darkness ", "fog ", "gloom ", "mist ", "puff ", "smog ", "smoke ", "steam ", "vapor ", "veil "], "A": ["brightness ", "cognizance ", "light ", "understanding "]}

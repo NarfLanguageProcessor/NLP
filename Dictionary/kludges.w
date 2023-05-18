@@ -1,0 +1,1 @@
+{"index": 165387, "D": "a software or hardware configuration that, while inelegant, inefficient, clumsy, or patched together, succeeds in solving a specific problem or performing a particular task.", "S": [], "A": []}

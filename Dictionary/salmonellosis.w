@@ -1,0 +1,1 @@
+{"index": 277155, "D": "food poisoning caused by consumption of food contaminated with bacteria of the genus Salmonella, characterized by the sudden onset of abdominal pain, vomiting, diarrhea, and fever.", "S": [], "A": []}

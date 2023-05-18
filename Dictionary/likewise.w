@@ -1,0 +1,1 @@
+{"index": 172205, "D": "moreover;  in addition; also; too", "S": ["besides ", "too "], "A": ["contrariwise ", "opposing ", "opposite ", "reverse "]}

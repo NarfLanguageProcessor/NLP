@@ -1,0 +1,1 @@
+{"index": 135185, "D": "(especially in Europe) a private Jewish elementary school for teaching children Hebrew, Bible, and the fundamentals of Judaism.", "S": [], "A": []}

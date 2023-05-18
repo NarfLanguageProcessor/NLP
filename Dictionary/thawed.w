@@ -1,0 +1,1 @@
+{"index": 320678, "D": "to pass or change from a frozen to a liquid or semiliquid state; melt.", "S": ["damp ", "melted ", "running ", "smooth ", "solvent ", "splashing ", "succulent ", "wet "], "A": ["broken ", "dry ", "intermittent "]}

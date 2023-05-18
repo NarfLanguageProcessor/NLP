@@ -1,0 +1,1 @@
+{"index": 76525, "D": "a city in and the capital of Syria, in the SW part", "S": [], "A": []}

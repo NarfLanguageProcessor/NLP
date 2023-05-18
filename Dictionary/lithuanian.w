@@ -1,0 +1,1 @@
+{"index": 173812, "D": "of or relating to Lithuania,  its inhabitants, or their language. ", "S": [], "A": []}

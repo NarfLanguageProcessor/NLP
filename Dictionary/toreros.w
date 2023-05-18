@@ -1,0 +1,1 @@
+{"index": 326085, "D": "a bullfighter, especially a matador.", "S": ["banderillero ", "picador ", "toreador "], "A": []}

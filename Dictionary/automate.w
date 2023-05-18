@@ -1,0 +1,1 @@
+{"index": 24189, "D": "to apply the principles of automation  to (a mechanical process, industry, office, etc.).", "S": ["brutalize "], "A": ["humanize "]}

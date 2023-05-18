@@ -1,0 +1,1 @@
+{"index": 355395, "D": "the quality of being urbane;  refined courtesy or politeness; suavity", "S": ["hauteur "], "A": ["bad manners ", "coarseness ", "crudeness ", "dullness ", "insignificance ", "lowliness ", "roughness ", "rudeness ", "simplicity ", "unimportance "]}

@@ -1,0 +1,1 @@
+{"index": 58178, "D": "to sail or fly around; make the circuit of by navigation", "S": ["course ", "district ", "lap ", "route ", "tour "], "A": ["center ", "inside ", "interior ", "middle "]}

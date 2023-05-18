@@ -1,0 +1,1 @@
+{"index": 177169, "D": "to anger or infuriate", "S": ["annoyed ", "bitter ", "enraged ", "exasperated ", "furious ", "heated ", "impassioned ", "indignant ", "irate ", "irritable ", "irritated ", "offended ", "outraged ", "resentful ", "sullen ", "uptight "], "A": ["calm ", "happy ", "mild ", "peaceful ", "pleased "]}

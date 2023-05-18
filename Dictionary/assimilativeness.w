@@ -1,0 +1,1 @@
+{"index": 21800, "D": "characterized by assimilation; assimilating. ", "S": [], "A": []}

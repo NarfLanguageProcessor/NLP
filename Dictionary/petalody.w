@@ -1,0 +1,1 @@
+{"index": 232330, "D": "a condition in flowers, in which certain organs, as the stamens in most double flowers, assume the appearance of or become metamorphosed into petals.", "S": [], "A": []}

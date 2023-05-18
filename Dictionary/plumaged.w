@@ -1,0 +1,1 @@
+{"index": 240367, "D": "the entire feathery covering of a bird.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 34326, "D": "capable of decaying through the action of living organisms", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 251477, "D": "the act of bringing about or getting something; agency;procurement. ", "S": [], "A": []}

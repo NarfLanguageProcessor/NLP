@@ -1,0 +1,1 @@
+{"index": 152626, "D": "having inhabitants;  occupied; lived in or on", "S": [], "A": []}

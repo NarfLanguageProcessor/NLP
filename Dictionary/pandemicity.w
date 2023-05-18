@@ -1,0 +1,1 @@
+{"index": 224466, "D": "Compare epidemic (def. 1). ", "S": [], "A": []}

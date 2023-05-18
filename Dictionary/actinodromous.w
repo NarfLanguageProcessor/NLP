@@ -1,0 +1,1 @@
+{"index": 3142, "D": "(of a leaf) palmately veined.", "S": [], "A": []}

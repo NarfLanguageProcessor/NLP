@@ -1,0 +1,1 @@
+{"index": 105034, "D": "of or relating to a bone at the base of the cranium and the root of the nose, containing numerous perforations for the filaments of the olfactory nerve.", "S": [], "A": []}

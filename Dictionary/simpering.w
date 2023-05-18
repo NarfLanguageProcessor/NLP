@@ -1,0 +1,1 @@
+{"index": 290976, "D": "to smile in a silly, self-conscious way.", "S": ["fastidious ", "narrow-minded ", "prissy ", "puritanical ", "squeamish ", "uptight "], "A": ["bold ", "brave ", "extroverted ", "outgoing "]}

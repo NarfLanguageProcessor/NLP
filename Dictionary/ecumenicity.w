@@ -1,0 +1,1 @@
+{"index": 95624, "D": "(in the Christian church) the state of being ecumenically united, especially in furthering the aims of the ecumenical movement.", "S": [], "A": []}

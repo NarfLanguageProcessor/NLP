@@ -1,0 +1,1 @@
+{"index": 274107, "D": "the Indic language of the Roma,  its various forms differing greatly because of local influences.", "S": [], "A": []}

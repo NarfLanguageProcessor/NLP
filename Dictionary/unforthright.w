@@ -1,0 +1,1 @@
+{"index": 342601, "D": "going straight to the point; frank; direct; outspoken", "S": [], "A": []}

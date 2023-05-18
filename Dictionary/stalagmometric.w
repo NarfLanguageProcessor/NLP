@@ -1,0 +1,1 @@
+{"index": 302496, "D": "an instrument for determining the number of drops, or the weight of each drop, in a given volume of liquid.", "S": [], "A": []}

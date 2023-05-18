@@ -1,0 +1,1 @@
+{"index": 256926, "D": "(in the belief of Roman Catholics and others) a condition or place in which the souls of those dying penitent are purified from venial sins, or undergo the temporal punishment that, after the guilt of mortal sin has been remitted, still remains to be endured by the sinner.", "S": ["limbo "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 206995, "D": "making a hypocritical show of religious devotion, piety, righteousness, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 284850, "D": "(of a pronoun) used as an object to refer to the subject of a verb, as myself in I shave myself.", "S": [], "A": []}

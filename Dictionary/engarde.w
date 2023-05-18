@@ -1,0 +1,1 @@
+{"index": 100311, "D": [], "S": ["anticipate ", "avoid ", "block ", "bypass ", "deflect ", "dodge ", "duck ", "elude ", "evade ", "fence ", "forestall ", "preclude ", "prevent ", "rebuff ", "rebuke ", "repel ", "repulse ", "resist ", "shirk ", "shun ", "sidestep "], "A": ["allow ", "attract ", "confront ", "encounter ", "face ", "let go ", "meet ", "take on "]}

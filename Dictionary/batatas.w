@@ -1,0 +1,1 @@
+{"index": 28879, "D": "a type of tropical sweet potato, Batatas edulis, somewhat dry and delicate in flavor.", "S": [], "A": []}

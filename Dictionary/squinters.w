@@ -1,0 +1,1 @@
+{"index": 301995, "D": "to look with the eyes partly closed.", "S": [], "A": []}

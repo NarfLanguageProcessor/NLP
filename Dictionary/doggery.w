@@ -1,0 +1,1 @@
+{"index": 90901, "D": "doglike behavior or conduct, especially when surly.", "S": [], "A": []}

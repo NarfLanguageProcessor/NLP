@@ -1,0 +1,1 @@
+{"index": 257501, "D": "a quarter of a circle; an arc of 90\u00b0.", "S": [], "A": []}

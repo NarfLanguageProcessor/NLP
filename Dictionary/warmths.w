@@ -1,0 +1,1 @@
+{"index": 362706, "D": "the quality or state of being warm;  moderate or gentle heat.", "S": ["enthusiasm ", "excitement ", "passion "], "A": ["apathy ", "calm ", "calmness ", "indifference "]}

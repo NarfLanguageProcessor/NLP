@@ -1,0 +1,1 @@
+{"index": 127206, "D": "any tropical and subtropical marine fish  of the family Mullidae, having a pair of long barbels below the mouth.", "S": [], "A": []}

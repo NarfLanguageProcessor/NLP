@@ -1,0 +1,1 @@
+{"index": 229532, "D": "work or markings done with or as if with a pencil  or brush, especially fine or delicate work done with a pencil  or brush on a painting or drawing.", "S": ["address ", "compose ", "create ", "draft ", "note ", "pen ", "print ", "record ", "rewrite ", "scrawl ", "scribble ", "sign ", "tell "], "A": ["destroy ", "ignore ", "ruin ", "keep ", "stop "]}

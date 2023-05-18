@@ -1,0 +1,1 @@
+{"index": 363210, "D": "a person who manages or works on a boat; boatman.", "S": [], "A": []}

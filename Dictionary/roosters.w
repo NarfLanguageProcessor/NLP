@@ -1,0 +1,1 @@
+{"index": 274298, "D": "the male of domestic fowl and certain game birds; cock.", "S": ["hen ", "poultry "], "A": []}

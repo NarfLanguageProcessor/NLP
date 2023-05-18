@@ -1,0 +1,1 @@
+{"index": 26344, "D": "a reed instrument consisting of a melody pipe and one or more accompanying drone pipes protruding from a windbag into which the air is blown by the mouth or a bellows.", "S": [], "A": []}

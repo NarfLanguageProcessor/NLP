@@ -1,0 +1,1 @@
+{"index": 41834, "D": "the use of a brush  as a tool, as in painting.", "S": [], "A": []}

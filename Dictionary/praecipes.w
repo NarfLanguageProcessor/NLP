@@ -1,0 +1,1 @@
+{"index": 245120, "D": "any of various legal writs commanding a defendant to do something or to appear and show why it should not be done.", "S": [], "A": []}

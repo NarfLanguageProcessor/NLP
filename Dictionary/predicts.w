@@ -1,0 +1,1 @@
+{"index": 246947, "D": "to declare or tell in advance; prophesy; foretell", "S": ["anticipate ", "call ", "conclude ", "envision ", "forecast ", "foresee ", "think "], "A": ["ignore ", "calculate ", "disbelieve ", "measure ", "misunderstand "]}

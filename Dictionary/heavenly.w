@@ -1,0 +1,1 @@
+{"index": 135002, "D": "of or in the heavens", "S": ["angelic ", "blissful ", "celestial ", "delectable ", "delicious ", "divine ", "glorious ", "holy ", "lovely ", "luscious ", "ravishing ", "sublime ", "supernatural ", "wonderful "], "A": ["awful ", "disagreeable ", "earthly ", "horrible ", "terrible ", "unpleasant "]}

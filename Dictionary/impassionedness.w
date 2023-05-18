@@ -1,0 +1,1 @@
+{"index": 148338, "D": "filled with intense feeling or passion; passionate; ardent.", "S": [], "A": []}

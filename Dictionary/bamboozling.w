@@ -1,0 +1,1 @@
+{"index": 27209, "D": "to deceive or get the better of (someone) by trickery, flattery, or the like; humbug; hoodwink  (often followed by into)", "S": ["befuddle ", "deceive ", "delude ", "dupe ", "hoodwink ", "mystify ", "perplex "], "A": ["clear up ", "enlighten ", "explain ", "clarify ", "give ", "help ", "support "]}

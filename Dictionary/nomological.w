@@ -1,0 +1,1 @@
+{"index": 200930, "D": "of or relating to nomology", "S": [], "A": []}

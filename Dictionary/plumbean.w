@@ -1,0 +1,1 @@
+{"index": 240388, "D": [], "S": ["galena ", "lead ", "pewter ", "plumbic ", "plumbiferous ", "plumbous "], "A": []}

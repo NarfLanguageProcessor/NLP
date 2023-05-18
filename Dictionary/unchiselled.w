@@ -1,0 +1,1 @@
+{"index": 336824, "D": "cut, shaped, etc., with a chisel", "S": [], "A": []}

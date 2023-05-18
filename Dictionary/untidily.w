@@ -1,0 +1,1 @@
+{"index": 353002, "D": "not tidy  or neat; slovenly; disordered", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 57744, "D": "a mineral, mercuric sulfide, HgS, occurring in red crystals or masses", "S": [], "A": []}

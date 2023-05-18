@@ -1,0 +1,1 @@
+{"index": 235443, "D": "the normal condition of sensitiveness to light in organisms or their organs.", "S": [], "A": []}

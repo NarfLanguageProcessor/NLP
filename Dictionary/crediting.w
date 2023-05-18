@@ -1,0 +1,1 @@
+{"index": 72504, "D": "commendation or honor given for some action, quality, etc.", "S": ["attention "], "A": ["blame ", "censure ", "condemnation ", "criticism ", "disapproval ", "disbelief ", "distrust ", "doubt ", "rejection ", "unimportance "]}

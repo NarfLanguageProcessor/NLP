@@ -1,0 +1,1 @@
+{"index": 270863, "D": "located or occurring behind a lens, as of the eye.", "S": [], "A": []}

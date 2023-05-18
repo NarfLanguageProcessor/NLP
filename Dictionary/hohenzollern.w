@@ -1,0 +1,1 @@
+{"index": 142311, "D": "a member of the royal family that ruled in Romania from 1866 to 1947, in Prussia from 1701 to 1918, and in the German Empire from 1871 to 1918.", "S": [], "A": []}

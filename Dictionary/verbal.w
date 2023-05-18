@@ -1,0 +1,1 @@
+{"index": 358353, "D": "of or relating to words", "S": ["rhetorical ", "unwritten "], "A": []}

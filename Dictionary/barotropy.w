@@ -1,0 +1,1 @@
+{"index": 28249, "D": "a state of fluid stratification in which surfaces of constant pressure and others of constant density do not intersect but are parallel.", "S": [], "A": []}

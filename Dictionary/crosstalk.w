@@ -1,0 +1,1 @@
+{"index": 73872, "D": "interference heard on a telephone or radio because of unintentional coupling to another communication channel.", "S": [], "A": []}

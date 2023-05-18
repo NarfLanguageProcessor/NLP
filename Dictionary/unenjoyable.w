@@ -1,0 +1,1 @@
+{"index": 341298, "D": "giving or capable of giving joy or pleasure", "S": ["depressing ", "dreary ", "humdrum ", "stale ", "tedious ", "tiresome ", "unexciting "], "A": ["exciting ", "happy "]}

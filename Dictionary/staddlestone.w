@@ -1,0 +1,1 @@
+{"index": 302247, "D": "(formerly) one of several supports for a hayrick, consisting of a truncated conical stone surmounted by a flat circular stone", "S": [], "A": []}

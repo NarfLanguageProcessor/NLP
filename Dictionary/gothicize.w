@@ -1,0 +1,1 @@
+{"index": 128273, "D": "to make gothic, as in style.", "S": [], "A": []}

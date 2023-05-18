@@ -1,0 +1,1 @@
+{"index": 230047, "D": "a Christian festival celebrated on the seventh Sunday after Easter, commemorating the descent of the Holy Ghost upon the apostles; Whitsunday.", "S": [], "A": []}

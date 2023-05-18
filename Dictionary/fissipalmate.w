@@ -1,0 +1,1 @@
+{"index": 113436, "D": "(of birds) having the toes lobed or partially webbed.", "S": [], "A": []}

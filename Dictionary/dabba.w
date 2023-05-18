@@ -1,0 +1,1 @@
+{"index": 75941, "D": "(in Indian cookery) a round metal box used to transport hot food, either from home or from a restaurant, to a person's place of work", "S": [], "A": []}

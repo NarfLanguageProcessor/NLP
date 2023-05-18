@@ -1,0 +1,1 @@
+{"index": 158957, "D": "having two similar gametes in which no differentiation can be distinguished, or reproducing by the union of such gametes (opposed to heterogamous).", "S": [], "A": []}

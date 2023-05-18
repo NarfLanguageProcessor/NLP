@@ -1,0 +1,1 @@
+{"index": 129572, "D": "a dialect of Inuit, spoken in Greenland. ", "S": [], "A": []}

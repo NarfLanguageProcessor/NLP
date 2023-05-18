@@ -1,0 +1,1 @@
+{"index": 150100, "D": "not compatible;  unable to exist together in harmony", "S": ["animosity ", "conflict ", "disagreement ", "discordance ", "opposition "], "A": ["agreement ", "harmony ", "peace "]}

@@ -1,0 +1,1 @@
+{"index": 237226, "D": "any of several varieties of purple or white vinifera grapes yielding a red or white wine, used especially in making burgundies and champagnes.", "S": ["merlot "], "A": []}

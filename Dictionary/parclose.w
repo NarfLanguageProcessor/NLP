@@ -1,0 +1,1 @@
+{"index": 226285, "D": "(in a church) a screen dividing one area from another, as a chapel from an aisle.", "S": [], "A": []}

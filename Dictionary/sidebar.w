@@ -1,0 +1,1 @@
+{"index": 289727, "D": "follow-up (def. 3b). ", "S": ["aftereffect ", "reaction "], "A": []}

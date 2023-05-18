@@ -1,0 +1,1 @@
+{"index": 53343, "D": "a hook  on the saddle of a harness, for holding the end of the checkrein. ", "S": [], "A": []}

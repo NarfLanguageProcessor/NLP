@@ -1,0 +1,1 @@
+{"index": 129380, "D": "an excavation made in the earth in which to bury a dead body.", "S": ["din ", "drive ", "drub ", "drum ", "grave ", "hammer ", "stamp "], "A": ["give up "]}

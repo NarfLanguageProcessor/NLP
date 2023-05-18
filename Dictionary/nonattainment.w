@@ -1,0 +1,1 @@
+{"index": 201560, "D": "an act of attaining. ", "S": [], "A": []}

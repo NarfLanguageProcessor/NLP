@@ -1,0 +1,1 @@
+{"index": 148039, "D": "not moderate; exceeding just or reasonable limits; excessive; extreme.", "S": [], "A": []}

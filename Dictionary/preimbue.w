@@ -1,0 +1,1 @@
+{"index": 247877, "D": "to impregnate or inspire, as with feelings, opinions, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 230377, "D": "a rate or proportion per hundred.", "S": ["bonus ", "chunk ", "fee ", "interest ", "percent ", "proportion ", "rate ", "ratio "], "A": ["whole ", "increase ", "juncture "]}

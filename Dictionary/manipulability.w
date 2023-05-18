@@ -1,0 +1,1 @@
+{"index": 179322, "D": "capable of or susceptible to being manipulated;  manipulatable.", "S": [], "A": []}

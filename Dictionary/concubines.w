@@ -1,0 +1,1 @@
+{"index": 65476, "D": "a woman who cohabits with a man to whom she is not legally married, especially one regarded as socially or sexually subservient; mistress.", "S": ["purdah ", "seraglio ", "serail "], "A": []}

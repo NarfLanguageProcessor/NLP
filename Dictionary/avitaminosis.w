@@ -1,0 +1,1 @@
+{"index": 24822, "D": "any disease caused by a lack of vitamins. ", "S": [], "A": []}

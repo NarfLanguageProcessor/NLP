@@ -1,0 +1,1 @@
+{"index": 228879, "D": "a small stalk or stalklike support, as the connection between the cephalothorax and abdomen in certain arachnids.", "S": ["trunk ", "twig "], "A": []}

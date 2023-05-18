@@ -1,0 +1,1 @@
+{"index": 90146, "D": "a plant, Lepidium latifolium, of coastal regions of Europe, N Africa, and SW Asia, with clusters of small white flowers", "S": [], "A": []}

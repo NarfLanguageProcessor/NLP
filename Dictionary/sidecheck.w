@@ -1,0 +1,1 @@
+{"index": 289741, "D": "a checkrein passing from the bit to the saddle of a harness.", "S": [], "A": []}

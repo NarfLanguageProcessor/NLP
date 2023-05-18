@@ -1,0 +1,1 @@
+{"index": 297765, "D": "(formerly) either of two bronze coins of France, equal to 5 centimes and 10 centimes.", "S": [], "A": []}

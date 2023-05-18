@@ -1,0 +1,1 @@
+{"index": 221665, "D": "to exercise too hard or without sufficient recovery time, often causing injuries or a decline in performance", "S": [], "A": []}

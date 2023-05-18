@@ -1,0 +1,1 @@
+{"index": 300024, "D": "any of various plants or shrubs belonging to the genus Spiraea, of the rose family, having clusters of small, white or pink flowers, certain species of which are cultivated as ornamentals.", "S": [], "A": []}

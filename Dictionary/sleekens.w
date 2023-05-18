@@ -1,0 +1,1 @@
+{"index": 293874, "D": "smooth or glossy, as hair, an animal, etc.", "S": [], "A": []}

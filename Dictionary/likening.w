@@ -1,0 +1,1 @@
+{"index": 172193, "D": "to represent as similar or like; compare", "S": ["analogy ", "connection ", "contrast ", "correlation ", "example ", "identification ", "juxtaposition ", "observation ", "ratio ", "relation ", "resemblance ", "similarity ", "testing "], "A": ["difference ", "disconnection ", "dissimilarity ", "unlikeness "]}

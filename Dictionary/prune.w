@@ -1,0 +1,1 @@
+{"index": 254246, "D": "a variety of plum that dries without spoiling.", "S": ["cut back ", "shave ", "shear ", "shorten ", "snip "], "A": ["accept ", "include ", "welcome "]}

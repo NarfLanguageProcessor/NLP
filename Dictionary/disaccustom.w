@@ -1,0 +1,1 @@
+{"index": 86894, "D": "to cause to lose a habit", "S": [], "A": []}

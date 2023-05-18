@@ -1,0 +1,1 @@
+{"index": 93676, "D": "a silver ten-cent piece of the Netherlands.", "S": [], "A": []}

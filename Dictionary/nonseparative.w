@@ -1,0 +1,1 @@
+{"index": 207168, "D": "tending to separate. ", "S": [], "A": []}

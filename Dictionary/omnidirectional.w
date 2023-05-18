@@ -1,0 +1,1 @@
+{"index": 212488, "D": "sending or receiving signals in all directions", "S": [], "A": []}

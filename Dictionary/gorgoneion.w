@@ -1,0 +1,1 @@
+{"index": 128104, "D": "a representation of the head of a Gorgon, especially that of Medusa.", "S": [], "A": []}

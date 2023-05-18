@@ -1,0 +1,1 @@
+{"index": 324819, "D": "a disciple and companion of the apostle Paul, to whom Paul is supposed to have addressed an Epistle.", "S": [], "A": []}

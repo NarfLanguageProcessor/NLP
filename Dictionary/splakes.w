@@ -1,0 +1,1 @@
+{"index": 300317, "D": "the hybrid offspring of a lake trout and a brook trout.", "S": [], "A": []}

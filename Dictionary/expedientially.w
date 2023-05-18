@@ -1,0 +1,1 @@
+{"index": 107640, "D": "pertaining to or regulated by expediency.", "S": [], "A": []}

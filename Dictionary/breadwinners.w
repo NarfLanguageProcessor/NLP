@@ -1,0 +1,1 @@
+{"index": 40226, "D": "a person who earns a livelihood, especially one who also supports dependents.", "S": ["jobholder ", "laborer ", "provider ", "worker "], "A": []}

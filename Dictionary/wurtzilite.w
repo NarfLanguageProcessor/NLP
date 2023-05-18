@@ -1,0 +1,1 @@
+{"index": 368184, "D": "a massive black bituminous substance, similar to asphalt but having a high degree of elasticity.", "S": [], "A": []}

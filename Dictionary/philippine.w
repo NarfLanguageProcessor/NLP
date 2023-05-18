@@ -1,0 +1,1 @@
+{"index": 233642, "D": "of or relating to the Philippines or their inhabitants; Filipino.", "S": [], "A": []}

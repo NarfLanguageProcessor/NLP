@@ -1,0 +1,1 @@
+{"index": 79915, "D": "to deprive (a sound) of labial character, as in unrounding a vowel.", "S": [], "A": []}

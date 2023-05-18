@@ -1,0 +1,1 @@
+{"index": 214463, "D": "pertaining to or noting an organic compound containing silicon,  especially where attached directly to a carbon atom.", "S": [], "A": []}

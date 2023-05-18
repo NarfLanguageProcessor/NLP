@@ -1,0 +1,1 @@
+{"index": 97230, "D": "(in certain fishes) one of a number of plates forming an electric organ, consisting of modified muscle tissue having an electric charge.", "S": [], "A": []}

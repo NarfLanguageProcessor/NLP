@@ -1,0 +1,1 @@
+{"index": 292234, "D": "a tube or conduit bent into legs of unequal length, for use in drawing a liquid from one container into another on a lower level by placing the shorter leg into the container above and the longer leg into the one below, the liquid being forced up the shorter leg and into the longer one by the pressure of the atmosphere.", "S": [], "A": []}

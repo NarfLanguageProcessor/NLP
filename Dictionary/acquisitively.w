@@ -1,0 +1,1 @@
+{"index": 2755, "D": "tending or seeking to acquire  and own, often greedily; eager to get wealth, possessions, etc.", "S": [], "A": []}

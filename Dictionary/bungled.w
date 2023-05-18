@@ -1,0 +1,1 @@
+{"index": 42856, "D": "to do clumsily and awkwardly; botch", "S": ["botch ", "err ", "flub ", "fudge ", "gum up ", "miscalculate ", "mishandle ", "mismanage ", "muff ", "screw up "], "A": ["succeed ", "grow ", "help "]}

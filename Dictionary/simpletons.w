@@ -1,0 +1,1 @@
+{"index": 291070, "D": "an ignorant, foolish, or silly person.", "S": ["birdbrain ", "blockhead ", "bonehead ", "boob ", "buffoon ", "clod ", "clown ", "dimwit ", "dolt ", "dope ", "dunce ", "dunderhead ", "fathead ", "idiot ", "ignoramus ", "imbecile ", "jerk ", "lunkhead ", "moron ", "nitwit ", "numskull ", "oaf ", "stooge "], "A": ["brain ", "genius "]}

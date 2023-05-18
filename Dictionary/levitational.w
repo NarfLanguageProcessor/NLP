@@ -1,0 +1,1 @@
+{"index": 171267, "D": "the act or phenomenon of levitating. ", "S": [], "A": []}

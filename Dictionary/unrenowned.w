@@ -1,0 +1,1 @@
+{"index": 349520, "D": "celebrated; famous.", "S": ["exceptional ", "inconceivable ", "little-known ", "unbelievable ", "undiscovered ", "unprecedented "], "A": ["believable ", "unexceptional ", "usual "]}

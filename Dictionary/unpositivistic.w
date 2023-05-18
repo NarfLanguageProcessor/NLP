@@ -1,0 +1,1 @@
+{"index": 348195, "D": "the state or quality of being positive;  definiteness; assurance.", "S": [], "A": []}

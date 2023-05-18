@@ -1,0 +1,1 @@
+{"index": 238701, "D": "a dramatic composition or piece; drama. ", "S": ["comedy ", "drama ", "hit ", "musical ", "opera ", "performance ", "show "], "A": []}

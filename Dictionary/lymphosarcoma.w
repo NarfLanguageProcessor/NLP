@@ -1,0 +1,1 @@
+{"index": 172603, "D": "a malignant tumor in lymphatic tissue, caused by the growth of abnormal lymphocytes.", "S": [], "A": []}

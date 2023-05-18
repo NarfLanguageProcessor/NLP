@@ -1,0 +1,1 @@
+{"index": 27892, "D": "with the back  of a horse, burro, etc., bare;  without a saddle", "S": [], "A": []}

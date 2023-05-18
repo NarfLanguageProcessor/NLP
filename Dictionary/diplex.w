@@ -1,0 +1,1 @@
+{"index": 86515, "D": "pertaining to the simultaneous operation of two radio transmitters or to the simultaneous reception and transmission of radio signals over a single antenna through the use of two frequencies.", "S": [], "A": []}

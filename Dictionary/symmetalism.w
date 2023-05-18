@@ -1,0 +1,1 @@
+{"index": 290866, "D": "the use of two or more metals, such as gold and silver, combined in assigned proportions as a monetary standard.", "S": [], "A": []}

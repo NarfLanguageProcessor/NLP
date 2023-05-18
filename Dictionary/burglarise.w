@@ -1,0 +1,1 @@
+{"index": 43091, "D": "to break into and steal from", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288468, "D": "the structure that supports a ship  being built.", "S": [], "A": []}

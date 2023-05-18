@@ -1,0 +1,1 @@
+{"index": 212710, "D": "an instrument for graphically recording oscillatory variations, as in alternating currents.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 49226, "D": "a raised structure on which the body of a deceased person lies or is carried in state.", "S": ["bier ", "box ", "casket "], "A": []}

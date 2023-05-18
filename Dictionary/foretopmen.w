@@ -1,0 +1,1 @@
+{"index": 117114, "D": "a member of a ship's crew stationed on the foretop. ", "S": [], "A": []}

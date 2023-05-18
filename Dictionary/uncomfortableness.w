@@ -1,0 +1,1 @@
+{"index": 337272, "D": "causing discomfort or distress; painful; irritating.", "S": ["discomfort "], "A": ["advantage ", "contentment ", "peace "]}

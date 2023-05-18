@@ -1,0 +1,1 @@
+{"index": 78029, "D": "to deprive of capital;  discourage capital formation; withdraw capital from", "S": [], "A": []}

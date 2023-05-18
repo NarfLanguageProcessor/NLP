@@ -1,0 +1,1 @@
+{"index": 300942, "D": "a structure bearing sporangia. ", "S": [], "A": []}

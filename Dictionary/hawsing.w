@@ -1,0 +1,1 @@
+{"index": 134507, "D": "the part of a bow where the hawseholes are located.", "S": [], "A": []}

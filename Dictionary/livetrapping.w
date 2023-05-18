@@ -1,0 +1,1 @@
+{"index": 173991, "D": "a trap  for capturing a wild animal alive and without injury.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 298272, "D": "a kingdom in SW Europe. Including the Balearic and Canary islands, 194,988 sq. mi. (505,019 sq. km). Capital", "S": [], "A": []}

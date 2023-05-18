@@ -1,0 +1,1 @@
+{"index": 84122, "D": "(of a plant part) growing at a right angle to the direction of gravity.", "S": [], "A": []}

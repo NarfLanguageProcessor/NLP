@@ -1,0 +1,1 @@
+{"index": 98343, "D": "the act or process of becoming brittle, as steel from exposure to certain environments or heat treatment or because of the presence of impurities.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 142211, "D": "an unleavened cake made with flour or cornmeal, usually cooked on a griddle.", "S": [], "A": []}

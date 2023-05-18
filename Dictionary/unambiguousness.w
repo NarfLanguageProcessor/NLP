@@ -1,0 +1,1 @@
+{"index": 334888, "D": "not ambiguous,  or unclear; distinct; unequivocal", "S": [], "A": []}

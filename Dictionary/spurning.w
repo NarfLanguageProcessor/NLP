@@ -1,0 +1,1 @@
+{"index": 301524, "D": "to reject with disdain; scorn. ", "S": ["distrust ", "incredulity ", "mistrust "], "A": ["belief ", "certainty ", "confidence ", "faith ", "trust ", "ratification "]}

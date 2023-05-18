@@ -1,0 +1,1 @@
+{"index": 286983, "D": "a side chair of the Renaissance, consisting of a small seat, usually octagonal, often resting on a cubical part and supported either on two carved planks set transversely on edge or on three legs, with a back formed from a carved plank.", "S": [], "A": []}

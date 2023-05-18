@@ -1,0 +1,1 @@
+{"index": 199557, "D": "to bite off small bits.", "S": ["biting ", "cropping ", "eating ", "feeding ", "foraging ", "gnawing ", "masticating ", "munching ", "pasturing ", "ruminating ", "uprooting "], "A": []}

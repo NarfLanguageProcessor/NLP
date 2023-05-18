@@ -1,0 +1,1 @@
+{"index": 34624, "D": "representing, characterized by, or including members from two parties or factions", "S": ["amphibian ", "binary ", "diploid "], "A": []}

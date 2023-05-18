@@ -1,0 +1,1 @@
+{"index": 37278, "D": "a backwater, usually narrow and tranquil.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148192, "D": "the state or condition of being unchangeable", "S": [], "A": []}

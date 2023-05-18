@@ -1,0 +1,1 @@
+{"index": 214238, "D": "an authoritative rule or law; a decree or command.", "S": ["authorization ", "canon ", "code ", "command ", "decree ", "dictum ", "direction ", "edict ", "enactment ", "fiat ", "mandate ", "order ", "precept ", "prescript ", "regulation ", "ruling ", "statute ", "ukase "], "A": ["disorganization ", "lawlessness ", "veto "]}

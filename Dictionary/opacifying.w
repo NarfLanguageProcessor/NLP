@@ -1,0 +1,1 @@
+{"index": 213165, "D": "to cause to become opaque.", "S": [], "A": []}

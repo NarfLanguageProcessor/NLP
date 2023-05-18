@@ -1,0 +1,1 @@
+{"index": 60715, "D": "to hit hard, especially on the head.", "S": ["clomp ", "clop ", "plod ", "pound ", "stomp ", "thud ", "thump "], "A": []}

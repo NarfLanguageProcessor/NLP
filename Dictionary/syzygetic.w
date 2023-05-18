@@ -1,0 +1,1 @@
+{"index": 292775, "D": "an alignment of three celestial objects, as the sun, the earth, and either the moon or a planet", "S": [], "A": []}

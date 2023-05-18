@@ -1,0 +1,1 @@
+{"index": 90320, "D": "to separate into parts, groups, sections, etc.", "S": ["break ", "break down ", "carve ", "cut ", "isolate ", "partition ", "segregate ", "split ", "subdivide ", "tear "], "A": ["attach ", "combine ", "fix ", "join ", "mend ", "stay ", "unite ", "wait ", "associate ", "close ", "connect ", "fasten ", "marry "]}

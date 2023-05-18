@@ -1,0 +1,1 @@
+{"index": 262284, "D": "a region or territory controlled by rebels. ", "S": [], "A": []}

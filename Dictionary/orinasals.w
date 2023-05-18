@@ -1,0 +1,1 @@
+{"index": 214630, "D": "pronounced with the voice issuing through the mouth and the nose simultaneously, as in the nasalized vowels of French.", "S": [], "A": []}

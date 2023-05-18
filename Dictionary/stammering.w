@@ -1,0 +1,1 @@
+{"index": 302596, "D": "to speak with involuntary breaks and pauses, or with spasmodic repetitions of syllables or sounds.", "S": ["faltering ", "halting ", "lurch ", "pause ", "splutter ", "sputtering ", "stumble ", "stutter ", "stuttering ", "wobble "], "A": []}

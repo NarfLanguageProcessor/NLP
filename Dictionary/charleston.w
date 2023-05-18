@@ -1,0 +1,1 @@
+{"index": 52888, "D": "a vigorous, rhythmic ballroom dance popular in the 1920s.", "S": ["disco ", "samba ", "tango ", "waltz "], "A": []}

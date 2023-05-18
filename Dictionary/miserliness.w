@@ -1,0 +1,1 @@
+{"index": 189249, "D": "of, like, or befitting a miser;  penurious; stingy.", "S": ["avidity ", "covetousness ", "cupidity ", "frugality ", "greediness ", "parsimony ", "penuriousness ", "rapacity ", "stinginess ", "thrift "], "A": ["generosity "]}

@@ -1,0 +1,1 @@
+{"index": 22283, "D": "the study that assumes and attempts to interpret the influence of the heavenly bodies on human affairs.", "S": [], "A": []}

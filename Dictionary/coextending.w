@@ -1,0 +1,1 @@
+{"index": 62117, "D": "to extend  equally through the same space or duration.", "S": ["coordinate ", "lateral "], "A": ["crooked ", "different ", "dissimilar ", "divergent ", "separate ", "skewed ", "zigzag "]}

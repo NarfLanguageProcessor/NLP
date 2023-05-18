@@ -1,0 +1,1 @@
+{"index": 9882, "D": "of or relating to lovers or lovemaking; expressive of love", "S": [], "A": []}

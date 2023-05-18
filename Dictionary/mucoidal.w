@@ -1,0 +1,1 @@
+{"index": 194596, "D": "any of a group of substances resembling the mucins,  occurring in connective tissue, cysts, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 329524, "D": "pertaining to or embodying three cycles.", "S": [], "A": []}

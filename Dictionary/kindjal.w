@@ -1,0 +1,1 @@
+{"index": 164767, "D": "a double-edged knife of the Caucasus, having a broad blade with edges parallel for most of their length, terminating in a long, sharp point.", "S": [], "A": []}

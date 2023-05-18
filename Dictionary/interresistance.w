@@ -1,0 +1,1 @@
+{"index": 155799, "D": "the act or power of resisting, opposing, or withstanding.", "S": [], "A": []}

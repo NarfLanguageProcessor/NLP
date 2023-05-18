@@ -1,0 +1,1 @@
+{"index": 43171, "D": "a plain-woven, coarse fabric of jute, hemp, or the like; gunny.", "S": ["bag ", "cloth ", "gunny ", "sacking ", "wrapping "], "A": []}

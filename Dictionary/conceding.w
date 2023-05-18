@@ -1,0 +1,1 @@
+{"index": 65095, "D": "to acknowledge as true, just, or proper; admit", "S": ["acceptance ", "admission ", "affirmation ", "assent ", "assertion ", "concession ", "confession ", "confirmation ", "corroboration ", "realization ", "recognition "], "A": ["denial ", "disagreement ", "dissent ", "refusal ", "rejection ", "repudiation ", "veto "]}

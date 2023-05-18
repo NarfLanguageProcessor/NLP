@@ -1,0 +1,1 @@
+{"index": 276521, "D": "in an unhappy, sorrowful, or regretful way; unfortunately;  regrettably", "S": ["wistfully "], "A": ["happily "]}

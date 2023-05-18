@@ -1,0 +1,1 @@
+{"index": 30890, "D": "a seaport in and the capital of Lebanon.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62197, "D": "the function  of the complement of a given angle or arc", "S": ["collude ", "conspire ", "cooperate ", "hook up ", "participate "], "A": ["disagree ", "divorce ", "part "]}

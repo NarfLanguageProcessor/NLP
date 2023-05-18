@@ -1,0 +1,1 @@
+{"index": 37249, "D": "the mystical doctrines or conceptions of Jakob B\u00f6hme.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 165716, "D": "affecting, implying, or deliberately revealing shrewd knowledge  of secret or private information", "S": [], "A": []}

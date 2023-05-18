@@ -1,0 +1,1 @@
+{"index": 33662, "D": "having or combining two forms, as a centaur or mermaid.", "S": ["biformed ", "binary ", "coupled ", "dual ", "duplicate ", "geminate ", "geminated ", "twin ", "twofold "], "A": []}

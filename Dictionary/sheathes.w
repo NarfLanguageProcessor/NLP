@@ -1,0 +1,1 @@
+{"index": 287721, "D": "to put (a sword, dagger, etc.) into a sheath. ", "S": ["encase "], "A": ["free ", "let go ", "release ", "uncover ", "unwrap "]}

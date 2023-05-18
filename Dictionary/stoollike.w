@@ -1,0 +1,1 @@
+{"index": 305301, "D": "a single seat on legs or a pedestal and without arms or a back.", "S": [], "A": []}

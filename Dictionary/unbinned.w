@@ -1,0 +1,1 @@
+{"index": 335906, "D": "a box or enclosed place for storing grain, coal, or the like.", "S": [], "A": []}

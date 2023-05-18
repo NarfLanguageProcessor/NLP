@@ -1,0 +1,1 @@
+{"index": 301812, "D": "a contemptuous term used to refer to a North American Indian woman, especially a wife.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 177385, "D": "a lake in N Italy and S Switzerland. 83 sq. mi. (215 sq. km).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 202545, "D": "to make more certain; confirm", "S": [], "A": []}

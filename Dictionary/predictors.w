@@ -1,0 +1,1 @@
+{"index": 246946, "D": "a person or thing that predicts. ", "S": ["augur ", "clairvoyant ", "diviner ", "medium ", "oracle ", "palmist ", "prophet ", "seer ", "soothsayer ", "spiritualist "], "A": []}

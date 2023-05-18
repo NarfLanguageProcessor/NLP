@@ -1,0 +1,1 @@
+{"index": 242917, "D": "of or relating to Pompeii, or its culture.", "S": [], "A": []}

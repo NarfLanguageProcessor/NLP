@@ -1,0 +1,1 @@
+{"index": 77381, "D": "to overpower or dim the vision of by intense light", "S": ["astonished ", "awed ", "baffled ", "befuddled ", "dazed ", "mystified ", "perplexed ", "puzzled ", "rattled ", "shocked ", "startled ", "stunned ", "surprised "], "A": ["aware ", "clear "]}

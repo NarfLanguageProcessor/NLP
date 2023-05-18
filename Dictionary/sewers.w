@@ -1,0 +1,1 @@
+{"index": 286803, "D": "an artificial conduit, usually underground, for carrying off waste water and refuse, as in a town or city.", "S": ["gutter ", "septic tank ", "sewage system "], "A": []}

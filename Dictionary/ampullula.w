@@ -1,0 +1,1 @@
+{"index": 11367, "D": "a small ampulla. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 219278, "D": "to extend,  reach, or expand beyond a proper, safe, or reasonable point", "S": ["overstrain ", "snapping point ", "spreading too thin ", "tension "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 312574, "D": "the act of superscribing. ", "S": ["advocacy ", "affirmation ", "approval ", "backing ", "commercial ", "confirmation ", "favor ", "permission ", "ratification ", "recommendation ", "signature "], "A": ["denial ", "disapproval ", "disfavor ", "opposition ", "veto ", "refusal "]}

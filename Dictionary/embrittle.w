@@ -1,0 +1,1 @@
+{"index": 98341, "D": "to make or become brittle. ", "S": [], "A": []}

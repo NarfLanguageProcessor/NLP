@@ -1,0 +1,1 @@
+{"index": 296666, "D": "a channel between the Isle of Wight and the mainland of S England. 2\u20135 miles (3.2\u20138 km) wide.", "S": [], "A": []}

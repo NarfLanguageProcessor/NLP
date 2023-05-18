@@ -1,0 +1,1 @@
+{"index": 259410, "D": "racism. ", "S": ["bias ", "discrimination ", "fanaticism ", "injustice ", "racism ", "sexism ", "unfairness "], "A": ["fairness ", "impartiality "]}

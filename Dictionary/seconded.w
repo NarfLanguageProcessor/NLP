@@ -1,0 +1,1 @@
+{"index": 282760, "D": "next after the first; being the ordinal number for two.", "S": ["approved ", "assisted ", "endorsed ", "favored "], "A": ["disapproved "]}

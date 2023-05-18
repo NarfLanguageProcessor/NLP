@@ -1,0 +1,1 @@
+{"index": 34149, "D": "an airplane or other vehicle that has two engines.", "S": [], "A": []}

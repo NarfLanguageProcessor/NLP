@@ -1,0 +1,1 @@
+{"index": 290076, "D": "a rigid or flexible endoscope for visual examination of the rectum and sigmoid colon.", "S": [], "A": []}

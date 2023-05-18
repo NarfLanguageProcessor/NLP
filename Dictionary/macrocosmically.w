@@ -1,0 +1,1 @@
+{"index": 176931, "D": "the great world or universe; the universe considered as a whole (opposed to microcosm).", "S": [], "A": []}

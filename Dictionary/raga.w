@@ -1,0 +1,1 @@
+{"index": 259900, "D": "one of the melodic formulas of Hindu music having the melodic shape, rhythm, and ornamentation prescribed by tradition.", "S": [], "A": []}

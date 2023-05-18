@@ -1,0 +1,1 @@
+{"index": 219366, "D": "in a menacing, violent, or forceful way", "S": [], "A": []}

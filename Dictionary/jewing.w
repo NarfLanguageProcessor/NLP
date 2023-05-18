@@ -1,0 +1,1 @@
+{"index": 161115, "D": "one of a scattered group of people that traces its descent from the Biblical Hebrews or from postexilic adherents of Judaism; Israelite.", "S": [], "A": []}

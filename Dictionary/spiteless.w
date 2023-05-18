@@ -1,0 +1,1 @@
+{"index": 300249, "D": "a malicious, usually petty, desire to harm, annoy, frustrate, or humiliate another person; bitter ill will; malice.", "S": [], "A": []}

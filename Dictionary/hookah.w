@@ -1,0 +1,1 @@
+{"index": 143536, "D": "a tobacco pipe of Near Eastern origin with a long, flexible tube by which the smoke is drawn through a jar of water and thus cooled.", "S": ["plumbing ", "water main "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 192625, "D": "having a single, median nostril, as the cyclostomes.", "S": [], "A": []}

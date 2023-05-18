@@ -1,0 +1,1 @@
+{"index": 83266, "D": "the metabolic process by which toxins are changed into less toxic or more readily excretable substances.", "S": ["abrupt withdrawal ", "crash ", "detox ", "on the wagon ", "sudden withdrawal ", "taking the cure "], "A": []}

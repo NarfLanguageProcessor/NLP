@@ -1,0 +1,1 @@
+{"index": 84499, "D": "an intestinal disorder characterized by abnormal frequency and fluidity of fecal evacuations.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 305673, "D": "without a bend, angle, or curve; not curved; direct", "S": ["absolutely ", "due ", "right ", "straight "], "A": ["indirectly "]}

@@ -1,0 +1,1 @@
+{"index": 286770, "D": "to separate (a part) from the whole, as by cutting or the like.", "S": ["disengagement "], "A": ["connection ", "juncture ", "unification ", "unity "]}

@@ -1,0 +1,1 @@
+{"index": 275712, "D": "a cupronickel coin and monetary unit of India, Nepal, and Pakistan, equal to 100 paise. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 147201, "D": "icon (defs. 1, 2). ", "S": ["figure ", "idol ", "picture ", "portrait ", "symbol "], "A": []}

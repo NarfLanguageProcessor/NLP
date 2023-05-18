@@ -1,0 +1,1 @@
+{"index": 7690, "D": "chemical decomposition resulting from the interaction of a compound and an alcohol. ", "S": [], "A": []}

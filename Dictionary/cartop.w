@@ -1,0 +1,1 @@
+{"index": 48668, "D": "of a size and shape suitable for carrying on the top  of an automobile.", "S": [], "A": []}

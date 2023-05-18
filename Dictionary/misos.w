@@ -1,0 +1,1 @@
+{"index": 189734, "D": "a fermented seasoning paste of soybeans, often with rice or barley added, used especially to flavor soups and sauces.", "S": [], "A": []}

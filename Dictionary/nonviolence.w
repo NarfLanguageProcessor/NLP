@@ -1,0 +1,1 @@
+{"index": 208290, "D": "absence or lack of violence;  state or condition of avoiding violence.", "S": ["pacification ", "pacifism "], "A": []}

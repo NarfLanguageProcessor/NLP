@@ -1,0 +1,1 @@
+{"index": 123732, "D": "like, befitting, or characteristic of a gentleman. ", "S": ["civilized ", "courteous ", "genteel ", "honorable ", "polite ", "well-mannered "], "A": ["discourteous ", "impolite ", "rude ", "uncivil ", "unmannerly ", "unrefined ", "unsophisticated "]}

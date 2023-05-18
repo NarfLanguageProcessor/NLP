@@ -1,0 +1,1 @@
+{"index": 245979, "D": "a legal decision or form of proceeding serving as an authoritative rule or pattern in future similar or analogous cases.", "S": [], "A": []}

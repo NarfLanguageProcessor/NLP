@@ -1,0 +1,1 @@
+{"index": 132280, "D": "a proposed but never officially adopted name for element 105,  which was instead named dubnium. Symbol", "S": [], "A": []}

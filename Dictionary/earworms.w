@@ -1,0 +1,1 @@
+{"index": 94885, "D": "a tune or part of a song that repeats in one\u2019s mind.", "S": [], "A": []}

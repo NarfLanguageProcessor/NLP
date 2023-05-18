@@ -1,0 +1,1 @@
+{"index": 14907, "D": "cynical  disposition, character, or belief.", "S": [], "A": []}

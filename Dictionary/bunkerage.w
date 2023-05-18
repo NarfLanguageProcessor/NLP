@@ -1,0 +1,1 @@
+{"index": 42884, "D": "the act of bunkering  a vessel.", "S": [], "A": []}

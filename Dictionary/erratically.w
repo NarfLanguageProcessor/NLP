@@ -1,0 +1,1 @@
+{"index": 103981, "D": "in a way that deviates from what is normal or proper", "S": ["carelessly "], "A": []}

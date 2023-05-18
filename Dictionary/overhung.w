@@ -1,0 +1,1 @@
+{"index": 219755, "D": "simple past tense and past participle of overhang. ", "S": ["beetle ", "command ", "endanger ", "extend ", "impend ", "jut ", "loom ", "menace ", "overtop ", "poke ", "portend ", "pouch ", "project ", "protrude ", "threaten "], "A": ["aid ", "assist ", "help ", "keep ", "save "]}

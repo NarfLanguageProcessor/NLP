@@ -1,0 +1,1 @@
+{"index": 98085, "D": "to make bitter;  cause to feel bitterness", "S": ["aggravate ", "annoy ", "disaffect ", "disillusion ", "exacerbate ", "exasperate ", "irritate ", "sour "], "A": ["aid ", "calm ", "comfort ", "help ", "make happy ", "please ", "soothe "]}

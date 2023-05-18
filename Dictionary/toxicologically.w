@@ -1,0 +1,1 @@
+{"index": 326898, "D": "the science dealing with the effects, antidotes, detection, etc., of poisons.", "S": [], "A": []}

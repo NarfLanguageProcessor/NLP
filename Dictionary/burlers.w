@@ -1,0 +1,1 @@
+{"index": 43179, "D": "a small knot or lump in wool, thread, or cloth.", "S": [], "A": []}

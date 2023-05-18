@@ -1,0 +1,1 @@
+{"index": 304742, "D": "a periodic payment, especially a scholarship or fellowship allowance granted to a student.", "S": [], "A": []}

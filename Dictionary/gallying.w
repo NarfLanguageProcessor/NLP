@@ -1,0 +1,1 @@
+{"index": 121389, "D": "to frighten or scare.", "S": [], "A": []}

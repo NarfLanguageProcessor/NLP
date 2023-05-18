@@ -1,0 +1,1 @@
+{"index": 326000, "D": "a sail, or either of a pair of sails, set immediately above the lowermost sail of a mast and supported by a topmast.", "S": [], "A": []}

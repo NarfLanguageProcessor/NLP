@@ -1,0 +1,1 @@
+{"index": 126571, "D": "a kidney disease affecting the capillaries of the glomeruli,  characterized by albuminuria, edema, and hypertension.", "S": [], "A": []}

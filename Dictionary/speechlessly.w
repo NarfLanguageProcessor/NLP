@@ -1,0 +1,1 @@
+{"index": 298997, "D": "temporarily deprived of speech by strong emotion, physical weakness, exhaustion, etc.", "S": ["calmly ", "quietly "], "A": []}

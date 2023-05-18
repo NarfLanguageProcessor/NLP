@@ -1,0 +1,1 @@
+{"index": 120750, "D": "of the nature of or resembling fuzz", "S": ["ambiguity ", "anonymity ", "darkness ", "dimness ", "indistinctness ", "obscureness ", "uncertainty "], "A": ["certainty ", "definiteness "]}

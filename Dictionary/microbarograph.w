@@ -1,0 +1,1 @@
+{"index": 185908, "D": "a barograph  for recording minute fluctuations of atmospheric pressure.", "S": [], "A": []}

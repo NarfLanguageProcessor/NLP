@@ -1,0 +1,1 @@
+{"index": 81952, "D": "a person appointed or authorized to act as a substitute for another or others.", "S": ["cadre ", "crew ", "faculty ", "force ", "organization ", "personnel ", "team ", "work force "], "A": ["incompetence "]}

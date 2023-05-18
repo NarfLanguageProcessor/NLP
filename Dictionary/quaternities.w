@@ -1,0 +1,1 @@
+{"index": 258157, "D": "a group or set of four.", "S": ["quadrivium ", "quadrumvirate ", "quadruple ", "quadruplet ", "quadruplets ", "quartet ", "quartette ", "quaternary ", "quaternion ", "tetrad ", "tetralogy "], "A": []}

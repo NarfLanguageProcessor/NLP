@@ -1,0 +1,1 @@
+{"index": 273283, "D": "a small pastry, often in turnover form, filled with a mixture containing meat or fish and usually fried in deep fat.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 252745, "D": "a reddish resinous cement collected by bees from the buds of trees, used to stop up crevices in the hives, strengthen the cells, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 146171, "D": "the fruit-bearing spike of any cereal plant, especially an ear of corn.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 341636, "D": "not exceptional;  not unusual or extraordinary.", "S": ["mediocre ", "prosaic ", "so-so ", "unremarkable "], "A": ["exceptional "]}

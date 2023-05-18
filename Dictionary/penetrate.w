@@ -1,0 +1,1 @@
+{"index": 229611, "D": "to pierce or pass into or through", "S": ["crack ", "drill ", "enter ", "go through ", "infiltrate ", "invade ", "pass through ", "permeate ", "pervade ", "puncture ", "seep "], "A": ["surrender ", "yield ", "retreat "]}

@@ -1,0 +1,1 @@
+{"index": 6633, "D": "(an utterance similar to the sound of clearing one's throat, used to attract attention, express doubt or a mild warning, etc.)", "S": ["cold "], "A": []}

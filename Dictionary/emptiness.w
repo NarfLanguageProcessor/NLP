@@ -1,0 +1,1 @@
+{"index": 98907, "D": "the fact or state of containing nothing or of being without the usual or appropriate contents", "S": ["desolation ", "vacuum "], "A": ["closure "]}

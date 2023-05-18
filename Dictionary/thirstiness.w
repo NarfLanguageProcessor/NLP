@@ -1,0 +1,1 @@
+{"index": 322187, "D": "feeling or having thirst;  craving liquid.", "S": ["appetite ", "desire ", "eagerness ", "hankering ", "hunger ", "longing ", "lust ", "passion ", "yearning "], "A": ["aversion ", "disgust ", "dislike ", "distaste ", "hate ", "hatred ", "indifference ", "repulsion ", "wetness "]}

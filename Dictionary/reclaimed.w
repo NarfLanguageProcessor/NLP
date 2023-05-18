@@ -1,0 +1,1 @@
+{"index": 262957, "D": "to bring (uncultivated areas or wasteland) into a condition for cultivation or other use.", "S": ["reborn "], "A": ["dropped ", "ill ", "impaired ", "lost ", "missed ", "sicker ", "unhealthy "]}

@@ -1,0 +1,1 @@
+{"index": 124139, "D": "any of various composite plants of the genus Gerbera, native to Africa and Asia, having showy, many-rayed flowers ranging from yellow to red.", "S": [], "A": []}

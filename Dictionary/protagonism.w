@@ -1,0 +1,1 @@
+{"index": 253322, "D": "the leading character, hero, or heroine of a drama or other literary work.", "S": [], "A": []}

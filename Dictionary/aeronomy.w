@@ -1,0 +1,1 @@
+{"index": 5082, "D": "the study of chemical and physical phenomena in the upper atmosphere.", "S": [], "A": []}

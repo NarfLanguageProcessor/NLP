@@ -1,0 +1,1 @@
+{"index": 229364, "D": "a decorative cornice or valance at the head of a window or doorway, used to cover the fastenings from which curtains are hung.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 92105, "D": "a bet in roulette on 12 numbers simultaneously so as to share in any that win.", "S": [], "A": []}

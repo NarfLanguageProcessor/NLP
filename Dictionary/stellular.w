@@ -1,0 +1,1 @@
+{"index": 303583, "D": "having the form of a small star or small stars.", "S": ["stellar "], "A": []}

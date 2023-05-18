@@ -1,0 +1,1 @@
+{"index": 348487, "D": "lacking or not based on moral scruples or principles", "S": ["amoral ", "deceitful ", "dishonest ", "immoral ", "unconscionable ", "unethical ", "unprofessional ", "unscrupulous "], "A": ["ethical ", "frank ", "good ", "honest ", "moral ", "open ", "principled ", "right ", "scrupulous ", "trustworthy ", "truthful ", "upright "]}

@@ -1,0 +1,1 @@
+{"index": 69301, "D": "a Mediterranean plant, Gladiolus segetum, of the iris family, having loose, one-sided spikes of pinkish-purple flowers.", "S": [], "A": []}

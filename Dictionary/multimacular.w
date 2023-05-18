@@ -1,0 +1,1 @@
+{"index": 195181, "D": "a spot or blotch, especially on one's skin; macule.", "S": [], "A": []}

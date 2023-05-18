@@ -1,0 +1,1 @@
+{"index": 211511, "D": "the most potent oestrogenic hormone secreted by the mammalian ovary", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 189081, "D": "an immoral or wicked deed.", "S": ["breach of law ", "criminality ", "dirt ", "dirty deed ", "dirty pool ", "fault ", "infringement ", "malefaction ", "misbehavior ", "misconduct ", "miscue ", "offense ", "peccadillo ", "slipup ", "transgression ", "trespass ", "villainy ", "violation ", "wrong ", "wrongdoing "], "A": ["goodness "]}

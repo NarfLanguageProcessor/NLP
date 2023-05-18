@@ -1,0 +1,1 @@
+{"index": 160526, "D": "any of numerous shrubs or vines belonging to the genus Jasminum, of the olive family, having fragrant flowers and used in perfumery.", "S": [], "A": []}

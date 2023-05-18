@@ -1,0 +1,1 @@
+{"index": 20695, "D": "an act or the process of articulating", "S": ["diction "], "A": ["disconnection "]}

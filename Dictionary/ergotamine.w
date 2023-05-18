@@ -1,0 +1,1 @@
+{"index": 103634, "D": "a crystalline, water-soluble polypeptide, C33H35N5O5, obtained from ergot,  used to stimulate uterine contractions during labor and in the treatment of migraine.", "S": [], "A": []}

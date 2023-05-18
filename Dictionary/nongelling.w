@@ -1,0 +1,1 @@
+{"index": 204250, "D": "a semirigid colloidal dispersion of a solid with a liquid or gas, as jelly, glue, etc.", "S": [], "A": []}

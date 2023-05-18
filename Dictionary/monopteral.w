@@ -1,0 +1,1 @@
+{"index": 192600, "D": "having the form of a monopteron.", "S": [], "A": []}

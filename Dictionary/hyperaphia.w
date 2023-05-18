@@ -1,0 +1,1 @@
+{"index": 139881, "D": "abnormal sensitivity to touch.", "S": [], "A": []}

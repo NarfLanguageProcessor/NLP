@@ -1,0 +1,1 @@
+{"index": 163654, "D": "a person highly important or essential to the functioning of an organization, as the head of a sales force or branch office.", "S": [], "A": []}

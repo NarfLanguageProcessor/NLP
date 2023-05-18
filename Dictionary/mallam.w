@@ -1,0 +1,1 @@
+{"index": 178518, "D": "(in Islamic W Africa) a man learned in Koranic studies", "S": [], "A": []}

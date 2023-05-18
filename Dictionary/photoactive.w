@@ -1,0 +1,1 @@
+{"index": 234979, "D": "(of a substance) capable of responding to light or other electromagnetic radiation", "S": [], "A": []}

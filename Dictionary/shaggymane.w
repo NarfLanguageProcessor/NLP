@@ -1,0 +1,1 @@
+{"index": 287143, "D": "an edible inky-cap mushroom, Coprinus comatus, having an elongated, shaggy pileus.", "S": [], "A": []}

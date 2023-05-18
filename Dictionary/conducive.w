@@ -1,0 +1,1 @@
+{"index": 65692, "D": "tending to produce; contributive; helpful; favorable (usually followed by to)", "S": ["helpful ", "useful "], "A": ["useless ", "worthless "]}

@@ -1,0 +1,1 @@
+{"index": 272564, "D": "the glyceride of ricinoleic acid,  the chief constituent of castor oil.", "S": [], "A": []}

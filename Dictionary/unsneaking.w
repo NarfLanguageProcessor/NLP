@@ -1,0 +1,1 @@
+{"index": 351461, "D": "acting in a furtive or underhand way.", "S": [], "A": []}

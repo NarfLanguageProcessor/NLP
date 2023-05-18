@@ -1,0 +1,1 @@
+{"index": 6109, "D": "causing or full of aggravation", "S": ["bothersome ", "disturbing ", "irritating ", "troublesome "], "A": ["helpful "]}

@@ -1,0 +1,1 @@
+{"index": 89949, "D": "faulty or inadequate nutrition or development.", "S": [], "A": []}

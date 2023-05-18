@@ -1,0 +1,1 @@
+{"index": 298213, "D": "an inflorescence consisting of a spike with a fleshy or thickened axis, usually enclosed in a spathe.", "S": [], "A": []}

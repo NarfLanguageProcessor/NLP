@@ -1,0 +1,1 @@
+{"index": 241750, "D": "the individual or firm in whose name an insurance policy  is written; an insured.", "S": [], "A": []}

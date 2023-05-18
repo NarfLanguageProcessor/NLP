@@ -1,0 +1,1 @@
+{"index": 301998, "D": "characterized by or having a squint. ", "S": [], "A": []}

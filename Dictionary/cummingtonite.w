@@ -1,0 +1,1 @@
+{"index": 74942, "D": "an amphibole mineral, magnesium-iron silicate, similar in composition to anthophyllite but richer in iron.", "S": [], "A": []}

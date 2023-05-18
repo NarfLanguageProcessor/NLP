@@ -1,0 +1,1 @@
+{"index": 36951, "D": "a promenade made of wooden boards,  usually along a beach or shore.", "S": ["avenue ", "path ", "walk ", "walkway "], "A": []}

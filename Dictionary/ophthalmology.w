@@ -1,0 +1,1 @@
+{"index": 213452, "D": "the branch of medical science dealing with the anatomy, functions, and diseases of the eye.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 9522, "D": "an informal, simplified spelling of although. ", "S": [], "A": []}

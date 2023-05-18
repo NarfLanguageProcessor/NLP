@@ -1,0 +1,1 @@
+{"index": 323652, "D": "a rectangular board mounted on a fulcrum, for use by acrobats and gymnasts to gain momentum in feats of tumbling.", "S": [], "A": []}

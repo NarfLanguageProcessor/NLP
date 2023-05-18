@@ -1,0 +1,1 @@
+{"index": 143451, "D": "honesty, fairness, or integrity in one's beliefs and actions", "S": ["with great praise "], "A": []}

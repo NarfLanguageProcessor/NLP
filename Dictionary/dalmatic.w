@@ -1,0 +1,1 @@
+{"index": 76486, "D": "a vestment worn over the alb by the deacon, such as at the celebration of the Mass, and worn by bishops on some occasions, such as at a coronation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 313746, "D": "the act of suspending.", "S": ["break ", "freeze ", "halt ", "interruption ", "layoff ", "moratorium ", "period ", "postponement ", "stoppage ", "termination "], "A": ["beginning ", "continuation ", "go ", "start ", "commencement ", "continuance ", "introduction ", "opening "]}

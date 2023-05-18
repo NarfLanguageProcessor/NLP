@@ -1,0 +1,1 @@
+{"index": 349014, "D": "inclining from the vertical or from the horizontal", "S": [], "A": []}

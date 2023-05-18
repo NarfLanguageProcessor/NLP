@@ -1,0 +1,1 @@
+{"index": 294263, "D": "a small, slender, often sharp piece, as of wood or glass, split, broken, or cut off, usually lengthwise or with the grain; splinter.", "S": ["brush ", "cut down ", "kiss ", "pare ", "prune ", "shear ", "shred ", "skim ", "slash ", "trim "], "A": ["mend ", "sew ", "cover "]}

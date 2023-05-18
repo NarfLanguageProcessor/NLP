@@ -1,0 +1,1 @@
+{"index": 311508, "D": "carefully observant of ceremony;  formally or elaborately polite", "S": [], "A": []}

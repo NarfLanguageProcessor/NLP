@@ -1,0 +1,1 @@
+{"index": 195972, "D": "any of various fleshy fungi including the toadstools, puffballs, coral fungi, morels, etc.", "S": ["boom ", "burgeon ", "expand ", "explode ", "flourish ", "proliferate ", "shoot up "], "A": ["fail ", "shrink ", "decrease ", "diminish "]}

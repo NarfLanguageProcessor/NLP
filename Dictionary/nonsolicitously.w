@@ -1,0 +1,1 @@
+{"index": 207379, "D": "anxious or concerned (usually followed by about, for, etc., or a clause)", "S": [], "A": []}

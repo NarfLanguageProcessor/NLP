@@ -1,0 +1,1 @@
+{"index": 357484, "D": "any of several muscles in the front part of the thigh constituting part of the quadriceps muscle, the action of which assists in extending the leg.", "S": [], "A": []}

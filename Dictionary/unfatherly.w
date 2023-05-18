@@ -1,0 +1,1 @@
+{"index": 342039, "D": "of, like, or befitting a father. ", "S": [], "A": []}

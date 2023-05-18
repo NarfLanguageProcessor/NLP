@@ -1,0 +1,1 @@
+{"index": 134340, "D": "remaining in the consciousness; not quickly forgotten", "S": [], "A": []}

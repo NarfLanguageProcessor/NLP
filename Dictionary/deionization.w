@@ -1,0 +1,1 @@
+{"index": 79827, "D": "The removal of ions from a solution using an ion exchange process. Deionization is used for water purification and for medical purposes.", "S": [], "A": []}

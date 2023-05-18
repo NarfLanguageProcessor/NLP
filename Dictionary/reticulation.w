@@ -1,0 +1,1 @@
+{"index": 270446, "D": "a reticulated  formation, arrangement, or appearance; network. ", "S": ["filigree "], "A": ["solid "]}

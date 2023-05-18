@@ -1,0 +1,1 @@
+{"index": 125577, "D": "a charge consisting of the lower half of a diagonally divided quarter, usually in the top left corner of the shield", "S": [], "A": []}

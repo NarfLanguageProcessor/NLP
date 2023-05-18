@@ -1,0 +1,1 @@
+{"index": 307732, "D": "a word derived from a derivative. ", "S": [], "A": []}

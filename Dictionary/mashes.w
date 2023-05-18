@@ -1,0 +1,1 @@
+{"index": 180663, "D": "to crush", "S": ["chew ", "crush ", "grind ", "scrunch ", "squeeze ", "squish "], "A": ["pull "]}

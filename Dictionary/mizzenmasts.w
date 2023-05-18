@@ -1,0 +1,1 @@
+{"index": 190840, "D": "the third mast from forward in a vessel having three or more masts.", "S": [], "A": []}

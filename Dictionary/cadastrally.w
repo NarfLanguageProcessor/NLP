@@ -1,0 +1,1 @@
+{"index": 44264, "D": "(of a map or survey) showing or including boundaries, property lines, etc.", "S": [], "A": []}

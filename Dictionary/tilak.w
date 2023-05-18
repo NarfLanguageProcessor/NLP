@@ -1,0 +1,1 @@
+{"index": 323538, "D": "a distinctive spot of colored powder or paste worn on the forehead by Hindu men and women as a religious symbol.", "S": [], "A": []}

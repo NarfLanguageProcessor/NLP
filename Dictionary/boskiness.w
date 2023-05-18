@@ -1,0 +1,1 @@
+{"index": 38581, "D": "covered with bushes, shrubs, and small trees; woody.", "S": [], "A": []}

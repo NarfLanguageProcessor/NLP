@@ -1,0 +1,1 @@
+{"index": 225624, "D": "a model or pattern of excellence or of a particular excellence", "S": ["apotheosis ", "epitome ", "exemplar "], "A": ["flaw ", "imperfection ", "worst "]}

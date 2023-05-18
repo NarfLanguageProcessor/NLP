@@ -1,0 +1,1 @@
+{"index": 36460, "D": "eagerness to engage in violence or bloodshed", "S": [], "A": []}

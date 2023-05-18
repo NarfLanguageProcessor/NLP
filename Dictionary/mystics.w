@@ -1,0 +1,1 @@
+{"index": 190275, "D": "involving or characterized by esoteric, otherworldly, or symbolic practices or content, as certain religious ceremonies and art; spiritually significant; ethereal.", "S": ["guru ", "master ", "mentor ", "mystic ", "spiritual guide ", "swami ", "teacher "], "A": []}

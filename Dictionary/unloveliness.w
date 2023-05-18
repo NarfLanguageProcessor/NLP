@@ -1,0 +1,1 @@
+{"index": 345808, "D": "not lovely;  without beauty or charm.", "S": [], "A": []}

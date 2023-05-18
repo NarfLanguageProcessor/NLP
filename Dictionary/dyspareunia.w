@@ -1,0 +1,1 @@
+{"index": 88870, "D": "painful sexual intercourse. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 230044, "D": "a synthetic narcotic analgesic, C19H27NO, used chiefly for the relief of moderate to severe pain.", "S": [], "A": []}

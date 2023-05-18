@@ -1,0 +1,1 @@
+{"index": 325201, "D": "a tip or gratuity given by a gambler to a dealer or other employee at a casino.", "S": [], "A": []}

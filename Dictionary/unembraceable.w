@@ -1,0 +1,1 @@
+{"index": 341166, "D": "to take or clasp in the arms; press to the bosom; hug. ", "S": [], "A": []}

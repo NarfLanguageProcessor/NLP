@@ -1,0 +1,1 @@
+{"index": 169373, "D": "a person who makes or enacts law; legislator.", "S": ["body ", "chamber ", "house ", "parliament "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111867, "D": "a part of a European newspaper devoted to light literature, fiction, criticism, etc.", "S": ["anamnesis ", "recollection ", "reminiscence ", "retrospection ", "rote "], "A": ["forgetting ", "overlooking "]}

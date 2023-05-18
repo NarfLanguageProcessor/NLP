@@ -1,0 +1,1 @@
+{"index": 151853, "D": "the aggregate of animals that burrow into and live in the bottom deposits of an ocean, river, or lake.", "S": [], "A": []}

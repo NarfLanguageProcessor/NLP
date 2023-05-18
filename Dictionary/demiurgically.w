@@ -1,0 +1,1 @@
+{"index": 80682, "D": "(in the Gnostic and certain other belief systems) a supernatural being imagined as creating or fashioning the world in subordination to the Supreme Being,  and sometimes regarded as the originator of evil.", "S": [], "A": []}

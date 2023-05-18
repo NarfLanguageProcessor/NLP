@@ -1,0 +1,1 @@
+{"index": 195888, "D": "a principality founded c1271 and centered on the ancient city of Moscow.  Its rulers gradually gained control over the neighboring Great Russian principalities and established the Russian Empire under the czars.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 87616, "D": "a nightclub for dancing to live or recorded music and often featuring sophisticated sound systems, elaborate lighting, and other effects.", "S": ["bar ", "club ", "disco ", "night spot ", "nightclub ", "pool hall ", "roadhouse ", "tavern "], "A": []}

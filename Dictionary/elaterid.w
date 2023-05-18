@@ -1,0 +1,1 @@
+{"index": 96781, "D": "any beetle of the family Elateridae, comprising the click beetles.", "S": [], "A": []}

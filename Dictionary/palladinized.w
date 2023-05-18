@@ -1,0 +1,1 @@
+{"index": 223932, "D": "to treat or cover (a surface) with palladium.", "S": [], "A": []}

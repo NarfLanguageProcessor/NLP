@@ -1,0 +1,1 @@
+{"index": 354179, "D": "to sharpen (a knife, tool, etc.) by grinding or friction.", "S": [], "A": []}

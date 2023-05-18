@@ -1,0 +1,1 @@
+{"index": 65111, "D": "to form (a notion, opinion, purpose, etc.)", "S": [], "A": []}

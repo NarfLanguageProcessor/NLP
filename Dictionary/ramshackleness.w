@@ -1,0 +1,1 @@
+{"index": 260428, "D": "loosely made or held together; rickety; shaky", "S": [], "A": []}

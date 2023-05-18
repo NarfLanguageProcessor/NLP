@@ -1,0 +1,1 @@
+{"index": 181449, "D": "a member of the Benedictine \u201cCongregation of St. Maur,\u201d founded in France in 1618, distinguished for its scholarship and literary works", "S": [], "A": []}

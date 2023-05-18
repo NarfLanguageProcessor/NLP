@@ -1,0 +1,1 @@
+{"index": 86321, "D": "pertaining to dioptrics", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 132587, "D": "the position played by such a back. ", "S": ["fullback ", "tailback "], "A": []}

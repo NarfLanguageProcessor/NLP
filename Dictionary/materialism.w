@@ -1,0 +1,1 @@
+{"index": 181101, "D": "preoccupation with or emphasis on material  objects, comforts, and considerations, with a disinterest in or rejection of spiritual, intellectual, or cultural values.", "S": ["heterodoxy ", "pragmatism ", "utilitarianism "], "A": ["spiritualism "]}

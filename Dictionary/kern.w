@@ -1,0 +1,1 @@
+{"index": 164032, "D": "to remove a portion of space between (adjacent letters) in preparation for printing.", "S": [], "A": []}

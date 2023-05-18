@@ -1,0 +1,1 @@
+{"index": 111480, "D": "a combining form with the meanings \u201ciron,\u201d \u201cferric,\u201d used in the formation of compound words", "S": [], "A": []}

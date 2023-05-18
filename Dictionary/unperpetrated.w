@@ -1,0 +1,1 @@
+{"index": 347759, "D": "(of a crime, injustice, hoax, prank, etc.) committed or carried out", "S": [], "A": []}

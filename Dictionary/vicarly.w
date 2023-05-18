@@ -1,0 +1,1 @@
+{"index": 359360, "D": "of, pertaining to, suggesting, or resembling a vicar", "S": [], "A": []}

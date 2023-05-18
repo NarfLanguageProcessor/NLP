@@ -1,0 +1,1 @@
+{"index": 98990, "D": "a person or thing that enables something, or makes it possible", "S": ["facilitator "], "A": []}

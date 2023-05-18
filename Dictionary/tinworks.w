@@ -1,0 +1,1 @@
+{"index": 324145, "D": "an establishment for the mining or processing of tin or for the making of tinware.", "S": [], "A": []}

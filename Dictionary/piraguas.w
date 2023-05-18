@@ -1,0 +1,1 @@
+{"index": 237547, "D": "a canoe made by hollowing out a tree trunk.", "S": ["kayak ", "outrigger "], "A": []}

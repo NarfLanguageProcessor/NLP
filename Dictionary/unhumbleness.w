@@ -1,0 +1,1 @@
+{"index": 343922, "D": "the quality or state of being modest and lacking in pride or arrogance", "S": [], "A": []}

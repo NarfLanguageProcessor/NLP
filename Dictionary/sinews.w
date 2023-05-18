@@ -1,0 +1,1 @@
+{"index": 291652, "D": "a tendon.", "S": ["beef ", "clout ", "energy ", "flesh ", "kick ", "meat ", "might ", "moxie ", "muscle ", "muscularity ", "power ", "punch ", "robustness ", "sock ", "steam ", "vigor "], "A": ["idleness ", "impotence ", "powerlessness "]}

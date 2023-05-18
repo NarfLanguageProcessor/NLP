@@ -1,0 +1,1 @@
+{"index": 170992, "D": "5th century bc Greek philosopher, who originated the atomist theory of matter, developed by his disciple, Democritus", "S": [], "A": []}

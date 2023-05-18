@@ -1,0 +1,1 @@
+{"index": 200021, "D": "nil; nothing", "S": ["naught ", "nix ", "none ", "nothing ", "nought ", "zero "], "A": ["existent ", "existing "]}

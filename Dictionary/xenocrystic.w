@@ -1,0 +1,1 @@
+{"index": 368365, "D": "a rock or crystal  engulfed by magma and retained as an inclusion in the resulting igneous rock.", "S": [], "A": []}

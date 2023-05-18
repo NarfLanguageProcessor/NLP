@@ -1,0 +1,1 @@
+{"index": 12100, "D": "a specialist in anatomy. ", "S": [], "A": []}

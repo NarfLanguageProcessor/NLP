@@ -1,0 +1,1 @@
+{"index": 241426, "D": "a person or thing that pokes. ", "S": ["blind poker ", "draw poker ", "five-card stud poker ", "seven-card stud poker ", "straight poker ", "strip poker ", "stud poker "], "A": []}

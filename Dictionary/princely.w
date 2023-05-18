@@ -1,0 +1,1 @@
+{"index": 250623, "D": "greatly liberal; lavish; magnificent", "S": ["grand ", "lavish ", "lordly ", "magnificent ", "noble ", "regal ", "sovereign ", "stately "], "A": []}

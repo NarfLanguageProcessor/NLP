@@ -1,0 +1,1 @@
+{"index": 174117, "D": "a person or thing that loans. ", "S": [], "A": []}

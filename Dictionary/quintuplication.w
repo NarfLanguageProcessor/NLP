@@ -1,0 +1,1 @@
+{"index": 258940, "D": "a group, series, or set of five copies or identical items, especially copies of typewritten matter.", "S": [], "A": []}

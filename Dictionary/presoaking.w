@@ -1,0 +1,1 @@
+{"index": 249513, "D": "to soak  (laundry) in a liquid containing agents that loosen dirt, remove stains, etc., before washing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 212979, "D": "the encysted zygotic stage in the life cycle of some sporozoans.", "S": [], "A": []}

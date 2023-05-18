@@ -1,0 +1,1 @@
+{"index": 357578, "D": "(in the feudal system) a vassal ranking just below a baron.", "S": [], "A": []}

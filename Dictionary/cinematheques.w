@@ -1,0 +1,1 @@
+{"index": 57660, "D": "a movie theater,  often part of a university or private archive, showing experimental or historically important films.", "S": [], "A": []}

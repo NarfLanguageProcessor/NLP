@@ -1,0 +1,1 @@
+{"index": 109734, "D": "a small flag, originally carried by military brigades, used by soldiers and surveyors as a positional marker.", "S": [], "A": []}

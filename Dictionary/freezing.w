@@ -1,0 +1,1 @@
+{"index": 118688, "D": "(of temperatures) approaching, at, or below the freezing point. ", "S": ["biting ", "chilly ", "frigid ", "frosty ", "glacial ", "icy ", "numbing ", "polar ", "wintry "], "A": ["amicable ", "friendly ", "hot ", "responsive ", "tropical ", "warm ", "good ", "kind ", "nice ", "pleasant "]}

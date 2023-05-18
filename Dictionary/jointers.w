@@ -1,0 +1,1 @@
+{"index": 161622, "D": "a person or thing that joints. ", "S": [], "A": []}

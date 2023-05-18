@@ -1,0 +1,1 @@
+{"index": 278964, "D": "any of several elongated marine fishes of the genusTrachurus, having bony plates along each side.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 217064, "D": "persons indefinitely or collectively; persons in general", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 16262, "D": "the fact or condition of being free from living germs or microorganisms", "S": [], "A": []}

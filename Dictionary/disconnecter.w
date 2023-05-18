@@ -1,0 +1,1 @@
+{"index": 87529, "D": "to sever or interrupt the connection of or between; detach", "S": [], "A": []}

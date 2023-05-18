@@ -1,0 +1,1 @@
+{"index": 101156, "D": "to cause or involve by necessity or as a consequence", "S": [], "A": []}

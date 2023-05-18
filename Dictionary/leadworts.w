@@ -1,0 +1,1 @@
+{"index": 169554, "D": "any plant or shrub of the genus Plumbago, having spikes of blue, white, or red flowers.", "S": [], "A": []}

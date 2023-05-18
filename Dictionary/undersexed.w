@@ -1,0 +1,1 @@
+{"index": 339778, "D": "having a weaker sexual drive than is considered usual or normal.", "S": [], "A": []}

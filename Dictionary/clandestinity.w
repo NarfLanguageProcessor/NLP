@@ -1,0 +1,1 @@
+{"index": 59192, "D": "characterized by, done in, or executed with secrecy or concealment, especially for purposes of subversion or deception; private or surreptitious", "S": ["clandestineness ", "concealment ", "confidentiality ", "covertness ", "private ", "secretiveness ", "secretness ", "silence ", "stealth "], "A": []}

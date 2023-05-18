@@ -1,0 +1,1 @@
+{"index": 160949, "D": "the first king of the Biblical kingdom of the Hebrews in N Palestine.", "S": ["bag ", "bottle ", "bowl ", "box ", "bucket ", "can ", "canister ", "capsule ", "carton ", "crate ", "dish ", "jar ", "jug ", "kettle ", "package ", "packet ", "pail ", "pot ", "pouch ", "sack ", "storage ", "tank ", "tub ", "utensil ", "vase ", "vessel ", "vial "], "A": []}

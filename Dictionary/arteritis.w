@@ -1,0 +1,1 @@
+{"index": 20546, "D": "inflammation of an artery.", "S": [], "A": []}

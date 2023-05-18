@@ -1,0 +1,1 @@
+{"index": 317817, "D": "to move unsteadily.", "S": ["dangle ", "falter ", "flutter ", "lurch ", "reel ", "seesaw ", "stagger ", "stumble ", "totter ", "tremble ", "waver "], "A": ["stabilize ", "steady "]}

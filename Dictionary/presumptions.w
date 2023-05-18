@@ -1,0 +1,1 @@
+{"index": 249753, "D": "the act of presuming. ", "S": ["assumption ", "likelihood ", "premise ", "supposition ", "suspicion "], "A": ["fact ", "knowledge ", "reality ", "calculation ", "certainty ", "measurement ", "proof ", "truth "]}

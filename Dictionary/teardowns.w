@@ -1,0 +1,1 @@
+{"index": 317516, "D": "a taking apart; disassembly.", "S": [], "A": []}

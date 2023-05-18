@@ -1,0 +1,1 @@
+{"index": 71597, "D": "a plant, Vaccaria pyramidata, of the pink family, native to Europe, having clusters of pink flowers.", "S": [], "A": []}

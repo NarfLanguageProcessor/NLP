@@ -1,0 +1,1 @@
+{"index": 211808, "D": "hear! attend! (a cry uttered usually twice by a court officer to command silence and attention, as before court is in session, and formerly by public criers).", "S": [], "A": []}

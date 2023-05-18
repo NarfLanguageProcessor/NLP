@@ -1,0 +1,1 @@
+{"index": 225289, "D": "a heavy rapier of the 17th century, having a swept guard with two perforated plates.", "S": [], "A": []}

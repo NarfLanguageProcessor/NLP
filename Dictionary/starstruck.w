@@ -1,0 +1,1 @@
+{"index": 302954, "D": "captivated by famous people or by fame itself.", "S": [], "A": []}

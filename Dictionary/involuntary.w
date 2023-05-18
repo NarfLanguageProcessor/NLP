@@ -1,0 +1,1 @@
+{"index": 157327, "D": "not voluntary; independent of one's will; not by one's own choice", "S": ["compulsory ", "forced ", "spontaneous ", "uncontrolled ", "unintentional "], "A": ["deliberate ", "intended ", "planned ", "voluntary "]}

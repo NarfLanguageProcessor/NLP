@@ -1,0 +1,1 @@
+{"index": 107556, "D": "an uninterrupted space or area; a wide extent of anything", "S": ["plain ", "stretch ", "tract ", "wilderness "], "A": ["extreme ", "height ", "limitation "]}

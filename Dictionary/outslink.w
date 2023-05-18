@@ -1,0 +1,1 @@
+{"index": 217488, "D": "to move or go in a furtive, abject manner, as from fear, cowardice, or shame.", "S": [], "A": []}

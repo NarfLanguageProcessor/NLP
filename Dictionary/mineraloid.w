@@ -1,0 +1,1 @@
+{"index": 187755, "D": "a mineral  substance that does not have a definite chemical formula or crystal form.", "S": [], "A": []}

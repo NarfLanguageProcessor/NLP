@@ -1,0 +1,1 @@
+{"index": 140520, "D": "pertaining to, of the nature of, or characterized by speculation,  contemplation, conjecture, or abstract reasoning", "S": [], "A": []}

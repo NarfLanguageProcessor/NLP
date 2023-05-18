@@ -1,0 +1,1 @@
+{"index": 172813, "D": "a member of the Lingayata  cult.", "S": [], "A": []}

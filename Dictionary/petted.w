@@ -1,0 +1,1 @@
+{"index": 232573, "D": "any domesticated or tamed animal that is kept as a companion and cared for affectionately.", "S": ["caress ", "coddle ", "cuddle ", "fondle ", "pamper "], "A": ["ignore ", "let go ", "release "]}

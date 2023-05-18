@@ -1,0 +1,1 @@
+{"index": 250979, "D": "any of various types of Indonesian boats, especially a swift Malay sailing boat built with the lee side flat and balanced by a single outrigger.", "S": [], "A": []}

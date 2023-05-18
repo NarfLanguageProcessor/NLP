@@ -1,0 +1,1 @@
+{"index": 208035, "D": "pertaining to, characteristic of, occurring in, or inhabiting the tropics,  especially the humid tropics", "S": [], "A": []}

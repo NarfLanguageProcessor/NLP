@@ -1,0 +1,1 @@
+{"index": 35061, "D": "a brittle, grayish-white, red-tinged, metallic element used in the manufacture of fusible alloys and in medicine. Symbol", "S": [], "A": []}

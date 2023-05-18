@@ -1,0 +1,1 @@
+{"index": 223565, "D": "having royal privileges", "S": [], "A": []}

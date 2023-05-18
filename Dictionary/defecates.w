@@ -1,0 +1,1 @@
+{"index": 79142, "D": "to void excrement from the bowels through the anus; have a bowel movement.", "S": ["secrete "], "A": ["accept ", "allow ", "keep ", "permit ", "sanction ", "take ", "take in ", "welcome "]}

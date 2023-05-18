@@ -1,0 +1,1 @@
+{"index": 366256, "D": "to feed  (cattle, sheep, etc.) during the winter  when pasturage is not available.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 32385, "D": "to slobber  all over (something)", "S": [], "A": []}

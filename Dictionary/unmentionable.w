@@ -1,0 +1,1 @@
+{"index": 346223, "D": "not mentionable; inappropriate, unfit, or improper for mention, as in polite conversation; unspeakable.", "S": ["offensive ", "taboo "], "A": ["permissible "]}

@@ -1,0 +1,1 @@
+{"index": 200915, "D": "government based on the rule of law rather than arbitrary will, terror, etc", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 64391, "D": "a stair or ladder within the hull of a vessel.", "S": ["escalator ", "staircase ", "steps "], "A": []}

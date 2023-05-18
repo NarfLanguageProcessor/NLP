@@ -1,0 +1,1 @@
+{"index": 204859, "D": "a person who prefers calm environments, limits social engagement, or embraces a greater than average preference for solitude.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 210012, "D": "to comply with or follow the commands, restrictions, wishes, or instructions of", "S": ["accommodating ", "deferential ", "dutiful ", "meek ", "obedient ", "passive "], "A": ["disobedient ", "immodest "]}

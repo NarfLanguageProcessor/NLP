@@ -1,0 +1,1 @@
+{"index": 80581, "D": "an instrument, apparatus, or chemical used to remove minerals from water.", "S": [], "A": []}

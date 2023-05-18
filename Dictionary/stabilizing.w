@@ -1,0 +1,1 @@
+{"index": 302167, "D": "to make or hold stable,  firm, or steadfast.", "S": ["beginning ", "building ", "chartering ", "constituting ", "endowing ", "fixing ", "founding ", "implementing ", "initiating ", "instituting ", "organizing ", "originating ", "regulating ", "settling ", "starting ", "subsidizing "], "A": ["dissolving ", "ending ", "tearing down "]}

@@ -1,0 +1,1 @@
+{"index": 104272, "D": "a shield or shieldlike surface on which a coat of arms is depicted.", "S": [], "A": []}

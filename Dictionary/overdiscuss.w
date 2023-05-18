@@ -1,0 +1,1 @@
+{"index": 219007, "D": "to consider or examine by argument, comment, etc.; talk over or write about, especially to explore solutions; debate", "S": [], "A": []}

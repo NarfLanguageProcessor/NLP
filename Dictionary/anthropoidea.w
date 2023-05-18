@@ -1,0 +1,1 @@
+{"index": 14570, "D": "a former taxonomic suborder that comprised New World monkeys, Old World monkeys,  and apes,  including humans, collectively classified as anthropoids or anthropoid apes, which are now grouped under the suborder Haplorhini along with the tarsiers.", "S": [], "A": []}

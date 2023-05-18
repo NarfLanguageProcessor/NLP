@@ -1,0 +1,1 @@
+{"index": 238096, "D": "of, relating to, or resembling a fish or fishes.", "S": [], "A": []}

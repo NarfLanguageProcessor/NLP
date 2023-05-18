@@ -1,0 +1,1 @@
+{"index": 259421, "D": "decorative treatment of leather with colors and acids to produce a branchlike effect.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 203137, "D": "subject to or meriting disciplinary action", "S": [], "A": []}

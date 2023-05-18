@@ -1,0 +1,1 @@
+{"index": 115847, "D": "to bend (cloth, paper, etc.) over upon itself.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 69707, "D": "to make more certain; confirm", "S": ["authenticate ", "confirm ", "justify ", "substantiate ", "validate ", "verify "], "A": ["disprove ", "invalidate ", "veto ", "contradict ", "deny ", "disagree ", "disapprove ", "discredit ", "oppose ", "refuse ", "reject "]}

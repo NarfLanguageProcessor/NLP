@@ -1,0 +1,1 @@
+{"index": 252237, "D": "a statutory combination of two or more corporations by the transfer of the properties to one surviving corporation.", "S": [], "A": []}

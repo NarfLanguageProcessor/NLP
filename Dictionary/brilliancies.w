@@ -1,0 +1,1 @@
+{"index": 40799, "D": "an instance of brilliance", "S": ["brilliance ", "cleverness ", "excellence ", "inspiration ", "intelligence ", "inventiveness ", "sagacity ", "smartness ", "smarts ", "talent ", "wisdom "], "A": ["ignorance ", "inability ", "stupidity "]}

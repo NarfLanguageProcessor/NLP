@@ -1,0 +1,1 @@
+{"index": 207056, "D": "the art of carving, modeling, welding, or otherwise producing figurative or abstract works of art in three dimensions, as in relief, intaglio, or in the round.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 166872, "D": "belonging or pertaining to the reptilian suborder Lacertilia, comprising the lizards.", "S": [], "A": []}

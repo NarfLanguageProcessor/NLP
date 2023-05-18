@@ -1,0 +1,1 @@
+{"index": 300095, "D": "a tall, acutely pointed pyramidal roof or rooflike construction upon a tower, roof, etc.", "S": ["soaring ", "towering "], "A": ["below ", "beneath ", "humble ", "low ", "modest ", "unobtrusive "]}

@@ -1,0 +1,1 @@
+{"index": 353997, "D": "turned or turning away from what is right or proper; willful; disobedient", "S": [], "A": []}

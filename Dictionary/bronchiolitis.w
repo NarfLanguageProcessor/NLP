@@ -1,0 +1,1 @@
+{"index": 41367, "D": "a condition in which the small airways in the lungs become inflamed by a virus. It is most common in infants, who become breathless in severe cases. Recurrent attacks may lead to asthma", "S": [], "A": []}

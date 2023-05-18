@@ -1,0 +1,1 @@
+{"index": 120217, "D": "of, relating to, or caused by a fungus  or fungi.", "S": [], "A": []}

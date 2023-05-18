@@ -1,0 +1,1 @@
+{"index": 237853, "D": "a common mineral, manganese dioxide, MnO2, the principal ore of manganese, used in various manufactures, as a decolorizer of brown or green tints in glass, and as a depolarizer in dry-cell batteries.", "S": [], "A": []}

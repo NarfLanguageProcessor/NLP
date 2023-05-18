@@ -1,0 +1,1 @@
+{"index": 258216, "D": "an overly forward, impudent woman; shrew; hussy.", "S": [], "A": []}

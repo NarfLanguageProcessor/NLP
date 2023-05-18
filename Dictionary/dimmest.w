@@ -1,0 +1,1 @@
+{"index": 85946, "D": "not bright; obscure from lack of light or emitted light", "S": [], "A": []}

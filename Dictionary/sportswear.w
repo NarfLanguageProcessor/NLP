@@ -1,0 +1,1 @@
+{"index": 301069, "D": "clothing designed for wear  while playing golf or tennis, hiking, bicycling, jogging, etc.; activewear.", "S": ["activewear "], "A": []}

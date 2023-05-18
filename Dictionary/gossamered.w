@@ -1,0 +1,1 @@
+{"index": 128217, "D": "a fine, filmy cobweb seen on grass or bushes or floating in the air in calm weather, especially in autumn.", "S": [], "A": []}

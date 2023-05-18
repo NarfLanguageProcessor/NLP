@@ -1,0 +1,1 @@
+{"index": 113591, "D": "to repair; mend. ", "S": ["rectifiable "], "A": []}

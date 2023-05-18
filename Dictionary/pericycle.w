@@ -1,0 +1,1 @@
+{"index": 230852, "D": "the outermost cell layer of the stele in a plant, frequently becoming a multilayered zone.", "S": [], "A": []}

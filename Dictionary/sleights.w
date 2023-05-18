@@ -1,0 +1,1 @@
+{"index": 293961, "D": "skill; dexterity.", "S": ["artifice ", "craft ", "cunning ", "deception ", "hoax ", "stratagem "], "A": ["frankness ", "honesty ", "honor ", "openness ", "truthfulness "]}

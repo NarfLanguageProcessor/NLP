@@ -1,0 +1,1 @@
+{"index": 137890, "D": "a white or yellowish powder existing in many isomeric forms. A mixture of isomers, including lindane, is used as an insecticide. Formula", "S": [], "A": []}

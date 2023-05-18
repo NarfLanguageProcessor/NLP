@@ -1,0 +1,1 @@
+{"index": 122332, "D": "a bag  for holding gas,  as in a balloon or dirigible.", "S": ["bag of wind ", "big talker ", "blowhard ", "blusterer ", "boaster ", "brag ", "braggart ", "bragger ", "bull artist ", "bull-thrower ", "gossiper ", "grandstander ", "know-it-all ", "show-off ", "swelled head ", "trumpeter ", "windbag "], "A": []}

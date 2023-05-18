@@ -1,0 +1,1 @@
+{"index": 215750, "D": "exclusion, by general consent, from social acceptance, privileges, friendship, etc.", "S": ["avoidance ", "boycott ", "exclusion ", "excommunication ", "exile ", "expulsion ", "isolation ", "rejection ", "shunning "], "A": ["acceptance ", "allowance "]}

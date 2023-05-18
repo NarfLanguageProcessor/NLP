@@ -1,0 +1,1 @@
+{"index": 112853, "D": "to put into final  form; complete all the details of.", "S": ["completed ", "decided ", "finished "], "A": []}

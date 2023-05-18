@@ -1,0 +1,1 @@
+{"index": 143789, "D": "lacking or without a horizon. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 249920, "D": "(of verbs) limited to past tenses.", "S": [], "A": []}

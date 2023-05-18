@@ -1,0 +1,1 @@
+{"index": 364499, "D": "(used to express joy or delight).", "S": [], "A": []}

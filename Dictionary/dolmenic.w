@@ -1,0 +1,1 @@
+{"index": 91184, "D": "a structure usually regarded as a tomb, consisting of two or more large, upright stones set with a space between and capped by a horizontal stone.", "S": [], "A": []}

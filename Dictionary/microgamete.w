@@ -1,0 +1,1 @@
+{"index": 186149, "D": "(in heterogamous reproduction) the smaller and, usually, the male of two conjugating gametes. ", "S": [], "A": []}

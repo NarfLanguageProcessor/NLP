@@ -1,0 +1,1 @@
+{"index": 313000, "D": "to pray humbly; make humble and earnest entreaty or petition.", "S": ["appeal ", "beg ", "beseech ", "desire ", "petition ", "pray ", "seek ", "solicit "], "A": ["answer ", "give ", "refuse "]}

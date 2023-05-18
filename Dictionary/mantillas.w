@@ -1,0 +1,1 @@
+{"index": 179570, "D": "a silk or lace head scarf arranged over a high comb and falling over the back and shoulders, worn in Spain, Mexico, etc.", "S": ["Vandyke ", "capote ", "cardinal ", "cloak ", "cope ", "dolman ", "fichu ", "gabardine ", "mantle ", "pelisse ", "poncho ", "shawl ", "tabard ", "tippet ", "wrap ", "wrapper "], "A": []}

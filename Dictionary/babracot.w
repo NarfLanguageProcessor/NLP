@@ -1,0 +1,1 @@
+{"index": 25577, "D": "a wooden grating used by Indians in South America for roasting and drying food.", "S": [], "A": []}

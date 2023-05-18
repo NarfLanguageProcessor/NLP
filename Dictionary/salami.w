@@ -1,0 +1,1 @@
+{"index": 276944, "D": "a kind of sausage, originally Italian, often flavored with garlic.", "S": ["bologna ", "cold cuts ", "cold meat ", "ham ", "luncheon meat ", "lunchmeat ", "turkey "], "A": []}

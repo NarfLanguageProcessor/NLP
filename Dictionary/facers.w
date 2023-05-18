@@ -1,0 +1,1 @@
+{"index": 108954, "D": "a person or thing that faces. ", "S": ["facer ", "problem ", "question ", "riddle ", "stickler "], "A": []}

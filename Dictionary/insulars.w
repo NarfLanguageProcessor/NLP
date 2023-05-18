@@ -1,0 +1,1 @@
+{"index": 154063, "D": "narrow-minded or illiberal; provincial", "S": ["Catalan ", "Continental ", "French ", "Indo-European language ", "Italian ", "Italic language ", "Latin ", "Portuguese ", "Provencal ", "Spanish ", "insular "], "A": []}

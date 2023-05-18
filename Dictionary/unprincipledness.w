@@ -1,0 +1,1 @@
+{"index": 348489, "D": "lacking or not based on moral scruples or principles", "S": [], "A": []}

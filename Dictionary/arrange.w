@@ -1,0 +1,1 @@
+{"index": 20169, "D": "to place in proper, desired, or convenient order; adjust properly", "S": ["file ", "form ", "organize "], "A": ["destroy ", "disarrange ", "disorder ", "disorganize ", "displace ", "jumble ", "mismanage ", "mix up ", "scatter "]}

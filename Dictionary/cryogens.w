@@ -1,0 +1,1 @@
+{"index": 73101, "D": "a substance for producing low temperatures; freezing mixture.", "S": [], "A": []}

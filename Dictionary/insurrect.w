@@ -1,0 +1,1 @@
+{"index": 154138, "D": [], "S": ["contravene ", "defy ", "evade ", "flout ", "ignore ", "infringe ", "misbehave ", "overstep ", "transgress ", "violate "], "A": ["behave ", "obey ", "observe ", "accept ", "agree ", "aid ", "assist ", "comply ", "concur ", "conform ", "consent ", "do ", "go along ", "harmonize ", "help ", "support "]}

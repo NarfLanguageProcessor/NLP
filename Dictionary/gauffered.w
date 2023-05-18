@@ -1,0 +1,1 @@
+{"index": 122805, "D": "an ornamental plaiting used for frills and borders, as on women's caps.", "S": [], "A": []}

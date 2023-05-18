@@ -1,0 +1,1 @@
+{"index": 336756, "D": "marked by good fortune or privilege", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 184610, "D": "a polymorph of cinnabar,  black mercuric sulfide, HgS.", "S": [], "A": []}

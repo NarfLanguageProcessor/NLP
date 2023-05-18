@@ -1,0 +1,1 @@
+{"index": 235445, "D": "topographical surveying employing photogrammetric methods.", "S": [], "A": []}

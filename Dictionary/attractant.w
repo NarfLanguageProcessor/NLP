@@ -1,0 +1,1 @@
+{"index": 23140, "D": "an attracting  agent or substance; lure", "S": [], "A": []}

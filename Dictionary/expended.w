@@ -1,0 +1,1 @@
+{"index": 107682, "D": "to use up", "S": ["depleted ", "drained "], "A": ["filled ", "full ", "hoarded ", "incomplete ", "saved ", "stored ", "unfinished "]}

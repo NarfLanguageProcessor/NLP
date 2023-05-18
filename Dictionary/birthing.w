@@ -1,0 +1,1 @@
+{"index": 34910, "D": "an act or instance of giving birth,  especially by natural childbirth.", "S": ["accouchement ", "bearing ", "childbearing ", "childbirth ", "delivery ", "labor ", "lying-in ", "parturition "], "A": []}

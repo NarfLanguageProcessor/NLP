@@ -1,0 +1,1 @@
+{"index": 197036, "D": "to give an account or tell the story of (events, experiences, etc.).", "S": ["historical "], "A": ["rambling "]}

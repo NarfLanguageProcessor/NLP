@@ -1,0 +1,1 @@
+{"index": 247992, "D": "to begin, set going, or originate", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 149183, "D": "to bring into a more desirable or excellent condition", "S": ["enhanced ", "revised ", "upgraded "], "A": ["damaged ", "injured ", "worsened "]}

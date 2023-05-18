@@ -1,0 +1,1 @@
+{"index": 342463, "D": "to bring out of a folded state; spread or open out", "S": [], "A": []}

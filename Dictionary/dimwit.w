@@ -1,0 +1,1 @@
+{"index": 85980, "D": "a stupid or slow-thinking person.", "S": ["clodpoll "], "A": ["brain ", "genius "]}

@@ -1,0 +1,1 @@
+{"index": 272896, "D": "a bronze coin and monetary unit of Qatar, equal to 100 dirhams.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 5992, "D": "a U.S. upper stage,  with a restartable liquid-propellant engine, used with various booster stages to launch satellites into orbit around Earth and send probes to the moon and other planets", "S": [], "A": []}

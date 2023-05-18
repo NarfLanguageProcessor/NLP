@@ -1,0 +1,1 @@
+{"index": 155035, "D": "a place of residence; dwelling; abode.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 191075, "D": "a person who favors, supports, or promotes moderation. ", "S": [], "A": []}

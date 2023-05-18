@@ -1,0 +1,1 @@
+{"index": 260449, "D": "simple past tense of run. ", "S": ["dash ", "fly ", "jog ", "race ", "rush ", "shoot ", "sprint ", "travel "], "A": ["remain ", "stay ", "walk ", "continue ", "dally ", "dawdle ", "delay ", "face ", "linger ", "meet ", "procrastinate ", "rest ", "slow ", "wait "]}

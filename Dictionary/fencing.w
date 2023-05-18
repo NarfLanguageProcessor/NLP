@@ -1,0 +1,1 @@
+{"index": 111222, "D": "the art, practice, or sport in which an \u00e9p\u00e9e, foil, or saber is used for defense and attack.", "S": ["swordplay ", "swordsmanship "], "A": []}

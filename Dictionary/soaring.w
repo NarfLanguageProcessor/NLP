@@ -1,0 +1,1 @@
+{"index": 296029, "D": "the sport of flying a sailplane.", "S": ["climbing ", "lofty ", "steep ", "towering "], "A": ["ground "]}

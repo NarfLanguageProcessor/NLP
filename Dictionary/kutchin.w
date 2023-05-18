@@ -1,0 +1,1 @@
+{"index": 166543, "D": "a member of a group of North American Indians who live in the region of the lower Mackenzie River in northwestern Canada and the Yukon and Porcupine rivers of northeastern Alaska.", "S": [], "A": []}

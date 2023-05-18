@@ -1,0 +1,1 @@
+{"index": 64499, "D": "a brief treatment or account of a subject, especially an extensive subject; concise treatise", "S": [], "A": []}

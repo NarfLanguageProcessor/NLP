@@ -1,0 +1,1 @@
+{"index": 288868, "D": "a bird  that frequents seashores, estuaries, etc., as the snipe, sandpiper, plover, and turnstone; a limicoline bird. ", "S": [], "A": []}

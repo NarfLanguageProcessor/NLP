@@ -1,0 +1,1 @@
+{"index": 8472, "D": "excessive excretion of homogentisic acid in the urine, caused by a hereditary abnormality of the metabolism of tyrosine and phenylalanine.", "S": [], "A": []}

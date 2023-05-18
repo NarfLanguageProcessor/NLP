@@ -1,0 +1,1 @@
+{"index": 199395, "D": "newly found  or discovered", "S": ["new "], "A": ["continuing ", "old ", "old-fashioned ", "traditional "]}

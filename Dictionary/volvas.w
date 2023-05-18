@@ -1,0 +1,1 @@
+{"index": 361289, "D": "the membranous envelope that encloses the base of various mushrooms formed when the velum ruptures.", "S": [], "A": []}

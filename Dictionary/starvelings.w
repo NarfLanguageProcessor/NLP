@@ -1,0 +1,1 @@
+{"index": 302989, "D": "a person, animal, or plant that is starving. ", "S": [], "A": []}

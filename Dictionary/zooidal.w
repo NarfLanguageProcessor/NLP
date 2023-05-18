@@ -1,0 +1,1 @@
+{"index": 369809, "D": "any organic body or cell capable of spontaneous movement and of an existence more or less apart from or independent of the parent organism.", "S": [], "A": []}

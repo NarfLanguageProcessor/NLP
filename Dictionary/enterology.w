@@ -1,0 +1,1 @@
+{"index": 101293, "D": "the branch of medicine dealing with the intestines.", "S": [], "A": []}

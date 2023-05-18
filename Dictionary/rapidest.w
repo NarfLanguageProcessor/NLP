@@ -1,0 +1,1 @@
+{"index": 260729, "D": "occurring within a short time; happening speedily", "S": [], "A": []}

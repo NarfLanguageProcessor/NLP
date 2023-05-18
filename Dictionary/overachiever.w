@@ -1,0 +1,1 @@
+{"index": 218132, "D": "a person who performs better or achieves more than people are generally expected to, often because of high ambition, pressure from family, etc.", "S": ["genius ", "perfectionist ", "phenomenon ", "prodigy ", "sycophant ", "wunderkind "], "A": ["slacker ", "underachiever ", "loafer "]}

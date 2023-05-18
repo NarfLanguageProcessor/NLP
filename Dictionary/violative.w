@@ -1,0 +1,1 @@
+{"index": 360013, "D": "involving violation.", "S": ["adverse ", "antagonistic ", "antithetical ", "contradictory ", "differing ", "paradoxical ", "reversed "], "A": ["agreeing ", "similar "]}

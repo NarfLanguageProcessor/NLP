@@ -1,0 +1,1 @@
+{"index": 359015, "D": "the part of an antiphonary containing the chants for vespers.", "S": [], "A": []}

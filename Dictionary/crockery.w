@@ -1,0 +1,1 @@
+{"index": 73571, "D": "crocks  collectively; earthenware.", "S": ["ceramics ", "porcelain ", "pottery "], "A": []}

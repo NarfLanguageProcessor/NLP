@@ -1,0 +1,1 @@
+{"index": 336958, "D": "without good manners; unmannerly; rude; impolite; discourteous.", "S": ["bluntly ", "crudely ", "harshly "], "A": ["civilly ", "courteously ", "politely "]}

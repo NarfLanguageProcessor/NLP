@@ -1,0 +1,1 @@
+{"index": 53732, "D": "a receptor  stimulated by chemical means.", "S": [], "A": []}

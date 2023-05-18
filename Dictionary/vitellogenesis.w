@@ -1,0 +1,1 @@
+{"index": 360560, "D": "the process by which the yolk is formed and accumulated in the ovum.", "S": [], "A": []}

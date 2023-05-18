@@ -1,0 +1,1 @@
+{"index": 122295, "D": "garrote. ", "S": ["gag ", "inhibit ", "kill ", "restrain ", "smother ", "suffocate "], "A": ["free ", "start ", "allow ", "let go ", "release "]}

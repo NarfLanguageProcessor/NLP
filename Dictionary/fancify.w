@@ -1,0 +1,1 @@
+{"index": 109675, "D": "to make fancy  or fanciful; dress up; embellish.", "S": [], "A": []}

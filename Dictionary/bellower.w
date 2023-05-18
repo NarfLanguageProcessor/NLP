@@ -1,0 +1,1 @@
+{"index": 31226, "D": "to emit a hollow, loud, animal cry, as a bull or cow.", "S": [], "A": []}

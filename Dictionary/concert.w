@@ -1,0 +1,1 @@
+{"index": 65192, "D": "a public musical performance in which a number of singers or instrumentalists, or both, participate.", "S": ["gig ", "musical ", "recital ", "show "], "A": ["disagreement ", "disharmony ", "disunity "]}

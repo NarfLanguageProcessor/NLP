@@ -1,0 +1,1 @@
+{"index": 341310, "D": [], "S": ["backwardness ", "illiteracy ", "illiterateness ", "lack of education ", "lack of knowledge ", "nescience ", "unknowing "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 301717, "D": "to spend or use (money, time, etc.) extravagantly or wastefully (often followed by away).", "S": ["blown ", "consumed ", "destroyed ", "exhausted ", "scattered ", "spent ", "wasted "], "A": ["restored ", "saved "]}

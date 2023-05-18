@@ -1,0 +1,1 @@
+{"index": 76568, "D": "damn it (used as a mild expletive).", "S": [], "A": []}

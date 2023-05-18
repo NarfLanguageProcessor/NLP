@@ -1,0 +1,1 @@
+{"index": 151738, "D": "not expressive;  lacking in expression.", "S": [], "A": []}

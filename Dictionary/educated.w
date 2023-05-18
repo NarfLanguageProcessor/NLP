@@ -1,0 +1,1 @@
+{"index": 95830, "D": "having undergone education", "S": ["accomplished ", "civilized ", "cultured ", "enlightened ", "informed ", "intelligent ", "knowledgeable ", "literate ", "prepared ", "schooled ", "skilled ", "trained ", "well-read "], "A": ["ignorant ", "inexperienced ", "stupid ", "unaware ", "uneducated ", "uninformed ", "unprepared ", "unrefined ", "unsophisticated "]}

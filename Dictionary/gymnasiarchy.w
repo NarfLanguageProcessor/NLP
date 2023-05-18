@@ -1,0 +1,1 @@
+{"index": 125030, "D": "(in ancient Greece) a magistrate who superintended the gymnasia and public games in certain cities.", "S": [], "A": []}

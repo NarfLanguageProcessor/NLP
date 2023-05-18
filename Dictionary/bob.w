@@ -1,0 +1,1 @@
+{"index": 37035, "D": "a short, jerky motion", "S": ["bow ", "duck ", "genuflect ", "hop ", "jerk ", "jounce ", "leap ", "nod ", "oscillate ", "quaver ", "quiver ", "ricochet ", "seesaw ", "skip ", "waggle ", "weave ", "wobble "], "A": ["face ", "meet "]}

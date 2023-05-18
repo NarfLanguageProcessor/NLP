@@ -1,0 +1,1 @@
+{"index": 77132, "D": "cowardly; meanly base; sneaking", "S": ["cowardliness ", "fearfulness ", "pusillanimity ", "pusillanimousness ", "spinelessness ", "timidity ", "unmanliness "], "A": []}

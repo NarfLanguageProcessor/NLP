@@ -1,0 +1,1 @@
+{"index": 168386, "D": "the front part of the human body from the waist to the knees when in a sitting position.", "S": ["eddy ", "flow ", "gush ", "heave ", "murmur ", "roll ", "rush ", "spurt ", "surge ", "surging ", "sweep ", "swell ", "swirl ", "swishing ", "undulation "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 11143, "D": "(of certain parasitic fungi) growing on both sides of leaves.", "S": [], "A": []}

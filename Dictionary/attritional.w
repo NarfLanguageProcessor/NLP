@@ -1,0 +1,1 @@
+{"index": 23183, "D": "a reduction or decrease in numbers, size, or strength", "S": ["conciliatory ", "contrite ", "regretful ", "remorseful ", "repentant ", "sorry "], "A": ["happy ", "unrepentant "]}

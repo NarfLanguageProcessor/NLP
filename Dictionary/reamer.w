@@ -1,0 +1,1 @@
+{"index": 261815, "D": "any of various rotary tools, with helical or straight flutes, for finishing or enlarging holes drilled in metal.", "S": [], "A": []}

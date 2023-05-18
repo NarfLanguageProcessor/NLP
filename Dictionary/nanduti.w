@@ -1,0 +1,1 @@
+{"index": 196727, "D": "a fine, intricate lace made in Paraguay, usually of cotton, and resembling a spiderweb.", "S": [], "A": []}

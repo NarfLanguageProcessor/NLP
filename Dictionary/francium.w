@@ -1,0 +1,1 @@
+{"index": 118331, "D": "a radioactive element of the alkali metal group. Symbol", "S": [], "A": []}

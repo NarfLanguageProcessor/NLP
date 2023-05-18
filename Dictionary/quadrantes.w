@@ -1,0 +1,1 @@
+{"index": 257502, "D": "a bronze coin of ancient Rome, the fourth part of an as.", "S": [], "A": []}

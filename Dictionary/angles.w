@@ -1,0 +1,1 @@
+{"index": 12867, "D": "the amount of rotation needed to bring one line or plane into coincidence with another, generally measured in radians or in degrees, minutes, and seconds, as in 12\u00b0 10prime; 30\u2033, which is read as 12 degrees, 10 minutes, and 30 seconds.", "S": ["corner ", "edge ", "intersection ", "slant ", "twist "], "A": []}

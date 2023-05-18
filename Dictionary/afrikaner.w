@@ -1,0 +1,1 @@
+{"index": 5601, "D": "an Afrikaans-speaking native of South Africa of European, especially Dutch, descent.", "S": [], "A": []}

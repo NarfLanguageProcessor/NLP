@@ -1,0 +1,1 @@
+{"index": 116296, "D": "resembling or befitting a fop;  excessively refined and fastidious in taste and manner.", "S": ["dandified ", "fashionable ", "natty ", "vain "], "A": []}

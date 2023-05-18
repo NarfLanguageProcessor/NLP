@@ -1,0 +1,1 @@
+{"index": 307306, "D": "the act or process of applying a substratum.", "S": ["change ", "follow ", "oust ", "recover ", "reinstate ", "restore ", "succeed ", "supplant ", "supply ", "take over ", "take over from "], "A": ["hold ", "keep ", "precede ", "break ", "damage ", "deprive ", "forfeit ", "lose ", "penalize ", "remain ", "take ", "worsen "]}

@@ -1,0 +1,1 @@
+{"index": 15077, "D": "absurd or grotesque acts or postures", "S": ["hijinks ", "misbehavior ", "rowdiness "], "A": []}

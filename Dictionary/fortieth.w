@@ -1,0 +1,1 @@
+{"index": 117670, "D": "next after the thirty-ninth; being the ordinal number for 40.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 146803, "D": "any of various yellow  or golden birds,  as the golden oriole of Europe.", "S": [], "A": []}

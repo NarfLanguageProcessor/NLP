@@ -1,0 +1,1 @@
+{"index": 343920, "D": "made less proud, especially by awe or admiration, or by gratitude for help received, an undeserved advantage or honor, etc.", "S": [], "A": []}

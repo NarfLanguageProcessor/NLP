@@ -1,0 +1,1 @@
+{"index": 73386, "D": "bearing, containing, or yielding crystals.", "S": [], "A": []}

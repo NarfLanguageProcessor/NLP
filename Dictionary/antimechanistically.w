@@ -1,0 +1,1 @@
+{"index": 15522, "D": "of or relating to the theory of mechanism  or to mechanists. ", "S": [], "A": []}

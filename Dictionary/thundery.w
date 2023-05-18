@@ -1,0 +1,1 @@
+{"index": 323024, "D": "thunderous. ", "S": ["deafening ", "loud ", "roaring ", "thundering "], "A": []}

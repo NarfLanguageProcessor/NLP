@@ -1,0 +1,1 @@
+{"index": 157872, "D": "of or relating to Iran,  its inhabitants, or their language.", "S": [], "A": []}

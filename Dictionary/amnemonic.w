@@ -1,0 +1,1 @@
+{"index": 10813, "D": [], "S": ["careless ", "distracted ", "inattentive ", "sloppy "], "A": ["attentive "]}

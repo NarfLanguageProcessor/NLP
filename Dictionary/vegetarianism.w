@@ -1,0 +1,1 @@
+{"index": 357692, "D": "the beliefs or practices of a vegetarian. ", "S": [], "A": []}

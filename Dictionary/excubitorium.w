@@ -1,0 +1,1 @@
+{"index": 106863, "D": "(in an ancient Roman city) a night watchman's post or sentry box.", "S": [], "A": []}

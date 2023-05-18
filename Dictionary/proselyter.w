@@ -1,0 +1,1 @@
+{"index": 253054, "D": "a person who has changed from one opinion, religious belief, sect, or the like, to another; convert. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 85440, "D": "a finger or toe.", "S": ["Arabic ", "cipher ", "figure ", "integer ", "notation ", "numeral ", "symbol "], "A": ["letter "]}

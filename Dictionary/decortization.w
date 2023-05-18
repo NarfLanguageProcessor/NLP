@@ -1,0 +1,1 @@
+{"index": 78713, "D": "the act or process of decorticating. ", "S": [], "A": []}

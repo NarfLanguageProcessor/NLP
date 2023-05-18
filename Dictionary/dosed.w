@@ -1,0 +1,1 @@
+{"index": 91836, "D": "a quantity of medicine prescribed to be taken at one time.", "S": ["administer ", "care for ", "cure ", "dress ", "heal ", "operate ", "prescribe "], "A": ["hurt ", "injure ", "ignore ", "neglect "]}

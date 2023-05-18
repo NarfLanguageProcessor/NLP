@@ -1,0 +1,1 @@
+{"index": 302021, "D": "the landowner of a small estate; a squire of a small domain.", "S": [], "A": []}

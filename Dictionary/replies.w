@@ -1,0 +1,1 @@
+{"index": 268321, "D": "to make answer in words or writing; answer; respond", "S": ["acknowledgment ", "feedback ", "reaction ", "rejoinder ", "response ", "retort "], "A": ["question ", "request "]}

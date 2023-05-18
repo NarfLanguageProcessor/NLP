@@ -1,0 +1,1 @@
+{"index": 107016, "D": "the act of exemplifying. ", "S": ["instance "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 61767, "D": "to compile (laws, rules, etc.) into an orderly, formal code.", "S": [], "A": []}

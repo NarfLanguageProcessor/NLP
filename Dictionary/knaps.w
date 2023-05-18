@@ -1,0 +1,1 @@
+{"index": 165442, "D": "a crest or summit of a small hill.", "S": ["bulge ", "bump ", "convexity ", "dune ", "elevation ", "eminence ", "excrescence ", "gibbosity ", "hill ", "hummock ", "hunch ", "knob ", "kyphosis ", "mound ", "prominence ", "protrusion ", "protuberance ", "ridge ", "swell ", "tumescence "], "A": ["depression ", "ditch ", "flat ", "unimportance "]}

@@ -1,0 +1,1 @@
+{"index": 15253, "D": "noting or pertaining to a substance in which, at sufficiently low temperatures, the magnetic moments of adjacent atoms point in opposite directions.", "S": [], "A": []}

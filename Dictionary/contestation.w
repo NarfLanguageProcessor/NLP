@@ -1,0 +1,1 @@
+{"index": 67410, "D": "the act of contesting;  controversy; dispute.", "S": ["argument ", "contention ", "contest ", "controversy ", "debate ", "disagreement ", "dispute ", "rivalry ", "tilt "], "A": ["agreement ", "harmony ", "peace ", "quiet "]}

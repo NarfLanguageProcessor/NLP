@@ -1,0 +1,1 @@
+{"index": 353301, "D": "characterized by faithlessness or readiness to betray trust; traitorous. ", "S": [], "A": []}

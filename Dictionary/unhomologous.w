@@ -1,0 +1,1 @@
+{"index": 343823, "D": "having the same or a similar relation; corresponding, as in relative position or structure.", "S": [], "A": []}

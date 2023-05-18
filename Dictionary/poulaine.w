@@ -1,0 +1,1 @@
+{"index": 244868, "D": "a shoe or boot with an elongated pointed toe, fashionable in the 15th century.", "S": [], "A": []}

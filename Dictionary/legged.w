@@ -1,0 +1,1 @@
+{"index": 170083, "D": "having a specified number or kind of legs  (often used in combination)", "S": ["amble ", "escort ", "go ", "hike ", "lead ", "parade ", "race ", "roam ", "run ", "saunter ", "shuffle ", "step ", "stride ", "stroll ", "strut ", "trek ", "trudge ", "wander "], "A": ["lose ", "obey ", "stay ", "stop ", "ignore ", "tiptoe "]}

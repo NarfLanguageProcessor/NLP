@@ -1,0 +1,1 @@
+{"index": 265104, "D": "to increase again the amount of money and credit in circulation.", "S": [], "A": []}

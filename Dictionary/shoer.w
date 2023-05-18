@@ -1,0 +1,1 @@
+{"index": 288710, "D": "a person who shoes horses or other animals.", "S": ["anvil ", "farrier ", "horseshoer ", "plover ", "smithy "], "A": []}

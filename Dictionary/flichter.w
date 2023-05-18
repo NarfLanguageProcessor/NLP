@@ -1,0 +1,1 @@
+{"index": 114556, "D": "(of birds) to fly feebly; flutter.", "S": [], "A": []}

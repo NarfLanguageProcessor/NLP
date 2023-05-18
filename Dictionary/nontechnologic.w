@@ -1,0 +1,1 @@
+{"index": 207790, "D": "of or relating to technology;  relating to science and industry.", "S": [], "A": []}

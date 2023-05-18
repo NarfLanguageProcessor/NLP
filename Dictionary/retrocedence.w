@@ -1,0 +1,1 @@
+{"index": 270783, "D": "to go back; recede; retire.", "S": [], "A": []}

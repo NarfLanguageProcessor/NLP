@@ -1,0 +1,1 @@
+{"index": 208472, "D": "a loop with a running knot, as in a snare, lasso, or hangman's halter, that tightens as the rope is pulled.", "S": ["clog ", "congest ", "drown ", "fill ", "gag ", "gasp ", "kill ", "stifle ", "strangle ", "suffocate "], "A": ["free ", "let go ", "loose ", "advance ", "expand ", "liberate ", "loosen ", "open ", "permit ", "release "]}

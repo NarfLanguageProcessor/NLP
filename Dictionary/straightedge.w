@@ -1,0 +1,1 @@
+{"index": 305651, "D": "a bar or strip of wood, plastic, or metal having at least one long edge  of sufficiently reliable straightness for use in drawing or testing straight  lines, plane surfaces, etc.", "S": ["T-square ", "measure ", "rule ", "yardstick "], "A": []}

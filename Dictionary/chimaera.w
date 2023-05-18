@@ -1,0 +1,1 @@
+{"index": 54451, "D": "any fish of the family Chimaeridae, the male of which has a spiny clasping organ over the mouth.", "S": [], "A": []}

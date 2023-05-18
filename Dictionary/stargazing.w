@@ -1,0 +1,1 @@
+{"index": 302896, "D": "to gaze at or observe the stars.", "S": ["astrophysics "], "A": []}

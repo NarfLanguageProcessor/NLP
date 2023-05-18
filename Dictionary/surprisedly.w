@@ -1,0 +1,1 @@
+{"index": 313554, "D": "to strike or occur to with a sudden feeling of wonder or astonishment, as through unexpectedness", "S": [], "A": []}

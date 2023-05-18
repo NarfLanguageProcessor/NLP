@@ -1,0 +1,1 @@
+{"index": 157697, "D": "an adherent or member of the royal family of York,  especially in the Wars of the Roses.", "S": [], "A": []}

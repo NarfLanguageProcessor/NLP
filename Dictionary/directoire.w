@@ -1,0 +1,1 @@
+{"index": 86782, "D": "noting or pertaining to the style of French furnishings and decoration of the mid-1790s, characterized by an increasing use of Greco-Roman forms along with an introduction, toward the end, of Egyptian motifs", "S": [], "A": []}

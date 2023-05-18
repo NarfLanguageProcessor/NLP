@@ -1,0 +1,1 @@
+{"index": 296182, "D": "of, relating to, or characteristic of sociology  and its methodology.", "S": [], "A": []}

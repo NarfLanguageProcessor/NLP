@@ -1,0 +1,1 @@
+{"index": 215656, "D": "a physician who specializes in osteopathy,  practicing in all fields of medicine, particularly trained in preventive treatments and in assessing a patient\u2019s well-being as a function of mind, body, and spirit", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 325389, "D": "an alloy, used to imitate gold, containing from 70 to 92 percent copper with zinc and sometimes tin and other materials forming the remainder.", "S": [], "A": []}

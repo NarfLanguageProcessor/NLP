@@ -1,0 +1,1 @@
+{"index": 208355, "D": "evaporating rapidly; passing off readily in the form of vapor", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 47384, "D": "a unit of weight in gemstones, 200 milligrams (about 3 grains of troy or avoirdupois weight). Abbreviation", "S": [], "A": []}

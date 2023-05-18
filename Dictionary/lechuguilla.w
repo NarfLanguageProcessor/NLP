@@ -1,0 +1,1 @@
+{"index": 169818, "D": "a semidesert plant, Agave lecheguilla, of Mexico, having a basal rosette of sharply pointed leaves and a very tall flower spike, grown as an ornamental.", "S": [], "A": []}

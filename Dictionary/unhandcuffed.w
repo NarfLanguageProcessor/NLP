@@ -1,0 +1,1 @@
+{"index": 343469, "D": "a ring-shaped metal device that can be locked around a person's wrist, usually one of a pair connected by a short chain or linked bar; shackle", "S": [], "A": []}

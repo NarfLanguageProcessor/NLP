@@ -1,0 +1,1 @@
+{"index": 318939, "D": "the course of thought or meaning that runs through something written or spoken; purport; drift.", "S": [], "A": []}

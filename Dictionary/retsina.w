@@ -1,0 +1,1 @@
+{"index": 270946, "D": "a strong, resinated white or red wine of Greece and Cyprus.", "S": [], "A": []}

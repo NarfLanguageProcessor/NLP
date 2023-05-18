@@ -1,0 +1,1 @@
+{"index": 131414, "D": "the point  or aim of a gun. ", "S": [], "A": []}

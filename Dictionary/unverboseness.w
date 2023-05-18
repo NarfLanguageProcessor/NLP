@@ -1,0 +1,1 @@
+{"index": 353747, "D": "characterized by the use of many or too many words; wordy", "S": [], "A": []}

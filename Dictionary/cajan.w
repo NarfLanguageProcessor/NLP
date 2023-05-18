@@ -1,0 +1,1 @@
+{"index": 44636, "D": "a member of a group of people living in parts of the South, especially Alabama, whose ancestry is a mixture of white, Black, and possibly Indian.", "S": [], "A": []}

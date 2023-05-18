@@ -1,0 +1,1 @@
+{"index": 47279, "D": "any of certain long-legged birds of prey of the falcon family, of the southern U.S. and Central and South America that feed on carrion.", "S": [], "A": []}

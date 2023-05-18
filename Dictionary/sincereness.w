@@ -1,0 +1,1 @@
+{"index": 291367, "D": "free of deceit, hypocrisy, or falseness; earnest", "S": ["candor ", "earnestness ", "frankness ", "genuineness ", "goodwill ", "impartiality ", "probity ", "reliability ", "seriousness ", "trustworthiness ", "truth ", "truthfulness ", "veracity "], "A": ["dishonesty ", "falsehood ", "lying ", "unimportance ", "experience "]}

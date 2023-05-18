@@ -1,0 +1,1 @@
+{"index": 272741, "D": "to discharge (a person) from military or civil service, especially as part of an economy program.", "S": ["browse ", "glance ", "riff ", "riffle ", "scan ", "skim ", "thumb "], "A": []}

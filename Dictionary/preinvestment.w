@@ -1,0 +1,1 @@
+{"index": 248081, "D": "the investing  of money or capital in order to gain profitable returns, as interest, income, or appreciation in value.", "S": [], "A": []}

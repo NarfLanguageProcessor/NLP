@@ -1,0 +1,1 @@
+{"index": 8208, "D": "a creature from outer space; extraterrestrial. ", "S": ["exotic ", "incongruous ", "unusual "], "A": ["familiar ", "normal ", "usual ", "harmonious "]}

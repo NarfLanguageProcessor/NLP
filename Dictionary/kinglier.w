@@ -1,0 +1,1 @@
+{"index": 164902, "D": "stately or splendid, as resembling, suggesting, or befitting a king;  regal", "S": ["aristocratic ", "noble ", "regal ", "royal "], "A": []}

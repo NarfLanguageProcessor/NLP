@@ -1,0 +1,1 @@
+{"index": 237570, "D": "of, relating to, or shaped like a pyramid", "S": [], "A": []}

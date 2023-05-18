@@ -1,0 +1,1 @@
+{"index": 149278, "D": "not pure; mixed with extraneous matter, especially of an inferior or contaminating nature", "S": [], "A": []}

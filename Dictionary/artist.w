@@ -1,0 +1,1 @@
+{"index": 20751, "D": "a person who produces works in any of the arts that are primarily subject to aesthetic criteria.", "S": ["artisan ", "composer ", "expert ", "inventor ", "painter "], "A": ["scientist "]}

@@ -1,0 +1,1 @@
+{"index": 162907, "D": "a mineral, hydrous sulfate of potassium and aluminum, chemically similar to alum.", "S": [], "A": []}

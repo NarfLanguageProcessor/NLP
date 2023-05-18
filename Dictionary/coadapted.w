@@ -1,0 +1,1 @@
+{"index": 60849, "D": "having undergone coadaptation; mutually accommodating.", "S": [], "A": []}

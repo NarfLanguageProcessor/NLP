@@ -1,0 +1,1 @@
+{"index": 138054, "D": "having six columns, as a portico or the facade of a classical temple.", "S": [], "A": []}

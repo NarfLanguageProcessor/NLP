@@ -1,0 +1,1 @@
+{"index": 232285, "D": "a chemical preparation for destroying plant, fungal, or animal pests. ", "S": ["defoliant ", "fungicide ", "insecticide "], "A": []}

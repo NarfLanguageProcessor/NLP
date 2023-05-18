@@ -1,0 +1,1 @@
+{"index": 10481, "D": "an almond-shaped part, as a tonsil.", "S": [], "A": []}

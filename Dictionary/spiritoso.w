@@ -1,0 +1,1 @@
+{"index": 300123, "D": "spirited;  lively (used as a musical direction).", "S": [], "A": []}

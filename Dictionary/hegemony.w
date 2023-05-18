@@ -1,0 +1,1 @@
+{"index": 135326, "D": "leadership or predominant influence exercised by one nation over others, as in a confederation.", "S": ["authority ", "command ", "leadership ", "power ", "predominance "], "A": []}

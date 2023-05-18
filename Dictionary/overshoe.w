@@ -1,0 +1,1 @@
+{"index": 221107, "D": "a shoe  or boot usually worn over another for protection in wet or cold weather, especially a waterproof outer shoe. ", "S": [], "A": []}

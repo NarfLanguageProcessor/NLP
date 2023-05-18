@@ -1,0 +1,1 @@
+{"index": 288547, "D": "a stupid, inept, unlikable, or contemptible person.", "S": [], "A": []}

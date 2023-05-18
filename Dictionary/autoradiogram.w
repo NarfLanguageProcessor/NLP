@@ -1,0 +1,1 @@
+{"index": 24339, "D": "a picture revealing the presence of radioactive material, the film being laid directly on the object to be tested.", "S": [], "A": []}

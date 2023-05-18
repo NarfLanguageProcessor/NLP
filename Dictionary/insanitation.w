@@ -1,0 +1,1 @@
+{"index": 153401, "D": "lack of sanitation  or sanitary regulation; unclean or unhealthy condition.", "S": ["bug ", "disease ", "epidemic ", "flu ", "pollution ", "virus "], "A": ["sanitation ", "sterility "]}

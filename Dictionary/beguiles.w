@@ -1,0 +1,1 @@
+{"index": 30744, "D": "to influence by trickery, flattery, etc.; mislead; delude.", "S": ["deceive ", "entice ", "mislead ", "seduce "], "A": ["turn off ", "disenchant ", "give ", "offer ", "refuse ", "repulse "]}

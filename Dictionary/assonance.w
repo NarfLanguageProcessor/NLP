@@ -1,0 +1,1 @@
+{"index": 21893, "D": "resemblance of sounds.", "S": ["chant ", "lyric ", "music ", "refrain ", "theme "], "A": ["discord "]}

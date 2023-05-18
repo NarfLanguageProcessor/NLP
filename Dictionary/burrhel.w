@@ -1,0 +1,1 @@
+{"index": 43278, "D": "a wild sheep, Pseudois nahoor, of Tibet and adjacent mountainous regions, having goatlike horns that curve backward.", "S": [], "A": []}

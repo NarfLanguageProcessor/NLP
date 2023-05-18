@@ -1,0 +1,1 @@
+{"index": 328660, "D": "contrived or unrestrained sentimentality", "S": ["antidote ", "compound ", "molasses ", "syrup "], "A": []}

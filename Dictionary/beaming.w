@@ -1,0 +1,1 @@
+{"index": 29459, "D": "radiant; bright.", "S": ["incandescent "], "A": ["dull "]}

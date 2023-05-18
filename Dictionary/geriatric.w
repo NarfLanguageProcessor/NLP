@@ -1,0 +1,1 @@
+{"index": 124162, "D": "of or relating to geriatrics  or old age", "S": ["aged ", "ancient ", "decrepit ", "elderly ", "gray ", "mature ", "tired ", "venerable "], "A": ["new ", "young ", "youthful ", "green ", "inexperienced "]}

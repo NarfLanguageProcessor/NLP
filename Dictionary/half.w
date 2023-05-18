@@ -1,0 +1,1 @@
+{"index": 132585, "D": "one of two equal or approximately equal parts of a divisible whole, as an object, or unit of measure or time; a part of a whole equal or almost equal to the remainder.", "S": ["partly "], "A": ["unlimited "]}

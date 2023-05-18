@@ -1,0 +1,1 @@
+{"index": 3407, "D": "in a leisurely manner; slowly.", "S": [], "A": []}

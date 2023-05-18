@@ -1,0 +1,1 @@
+{"index": 59486, "D": "Roman decemvir and consul, 5th cent. b.c.", "S": [], "A": []}

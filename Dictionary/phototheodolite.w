@@ -1,0 +1,1 @@
+{"index": 235424, "D": "an optical tracking instrument consisting of a camera and theodolite  mounted on a single tripod, used in photogrammetry and in tracking rockets.", "S": [], "A": []}

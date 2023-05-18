@@ -1,0 +1,1 @@
+{"index": 63971, "D": "having the same measure or divisor", "S": ["appropriate ", "commensurate ", "comparable ", "consistent ", "fitting ", "in proportion ", "proportionate ", "suitable "], "A": []}

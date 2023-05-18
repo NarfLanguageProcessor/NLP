@@ -1,0 +1,1 @@
+{"index": 250965, "D": "the act of apportioning. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 239622, "D": "(used as a polite addition to requests, commands, etc.) if you would be so obliging; kindly", "S": ["amuse ", "charm ", "cheer ", "entertain ", "gratify ", "satisfy ", "tickle ", "wow "], "A": ["anger ", "annoy ", "bore ", "disappoint ", "dissuade ", "frustrate ", "offend ", "tire ", "upset ", "disenchant ", "displease ", "repulse "]}

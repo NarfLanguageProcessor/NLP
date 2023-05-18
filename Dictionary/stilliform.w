@@ -1,0 +1,1 @@
+{"index": 304526, "D": "drop-shaped; globular.", "S": [], "A": []}

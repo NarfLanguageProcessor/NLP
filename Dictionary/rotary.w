@@ -1,0 +1,1 @@
+{"index": 274607, "D": "turning or capable of turning around on an axis, as a wheel.", "S": ["spinning ", "whirligig ", "whirling "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108487, "D": "to give up (an alleged fugitive or criminal) to another state or nation at its request.", "S": ["abandon ", "apprehend ", "arrest ", "surrender "], "A": ["hold ", "keep "]}

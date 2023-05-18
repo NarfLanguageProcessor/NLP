@@ -1,0 +1,1 @@
+{"index": 218836, "D": "in a way that shows fine or delicate manners or tastes", "S": [], "A": []}

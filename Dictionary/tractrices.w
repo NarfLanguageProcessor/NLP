@@ -1,0 +1,1 @@
+{"index": 327230, "D": "a curve whose tangents are all of equal length; the involute of a catenary.", "S": [], "A": []}

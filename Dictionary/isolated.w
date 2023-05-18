@@ -1,0 +1,1 @@
+{"index": 159040, "D": "separated from other persons or things; alone; solitary.", "S": ["confined ", "deserted ", "detached ", "hidden ", "lonely ", "outlying ", "remote ", "secluded ", "segregated ", "unusual "], "A": ["close ", "open ", "cherished "]}

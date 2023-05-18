@@ -1,0 +1,1 @@
+{"index": 221959, "D": "(in certain female insects) an organ at the end of the abdomen, by which eggs are deposited.", "S": [], "A": []}

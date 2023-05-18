@@ -1,0 +1,1 @@
+{"index": 229697, "D": "the art of handwriting; the use of the pen in writing.", "S": ["calligraphy ", "chirography ", "longhand ", "script ", "writing "], "A": []}

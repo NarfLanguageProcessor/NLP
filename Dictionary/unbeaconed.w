@@ -1,0 +1,1 @@
+{"index": 335657, "D": "a guiding or warning signal, as a light or fire, especially one in an elevated position.", "S": [], "A": []}

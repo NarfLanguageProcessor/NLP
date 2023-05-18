@@ -1,0 +1,1 @@
+{"index": 311208, "D": [], "S": ["corona ", "facula ", "solar prominence ", "tongue ", "tongue of flame "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 131188, "D": "a preparation of pulverized seashells and oil, applied to the wooden hull of a ship as a protection against boring worms.", "S": [], "A": []}

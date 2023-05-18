@@ -1,0 +1,1 @@
+{"index": 106103, "D": "not easily ruffled, disturbed, prejudiced, etc.; calm; equable.", "S": [], "A": []}

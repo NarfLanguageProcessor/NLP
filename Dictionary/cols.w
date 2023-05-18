@@ -1,0 +1,1 @@
+{"index": 63466, "D": "a pass or depression in a mountain range or ridge.", "S": [], "A": []}

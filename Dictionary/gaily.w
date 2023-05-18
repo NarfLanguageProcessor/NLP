@@ -1,0 +1,1 @@
+{"index": 121000, "D": "with merriment; merrily; joyfully; cheerfully.", "S": ["brilliantly ", "cheerfully ", "colorfully ", "flamboyantly ", "gleefully ", "joyfully ", "merrily ", "splendidly "], "A": ["sadly ", "solemnly ", "unhappily "]}

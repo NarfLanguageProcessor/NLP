@@ -1,0 +1,1 @@
+{"index": 238532, "D": "to appease or pacify, especially by concessions or conciliatory gestures", "S": ["appeasing ", "assuaging ", "calm ", "civil ", "disarming ", "irenic ", "mollifying ", "pacific ", "peaceable ", "placatory ", "propitiative ", "quiet ", "willing "], "A": ["antagonistic ", "fighting ", "refusing ", "stubborn "]}

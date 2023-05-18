@@ -1,0 +1,1 @@
+{"index": 334785, "D": "cheerful readiness, promptness, or willingness", "S": [], "A": []}

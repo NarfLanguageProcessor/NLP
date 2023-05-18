@@ -1,0 +1,1 @@
+{"index": 294568, "D": "sleepy; heavy with drowsiness, as the eyelids.", "S": [], "A": []}

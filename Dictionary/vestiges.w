@@ -1,0 +1,1 @@
+{"index": 359080, "D": "a mark, trace, or visible evidence of something that is no longer present or in existence", "S": ["ashes ", "traces "], "A": []}

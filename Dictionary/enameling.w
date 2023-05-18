@@ -1,0 +1,1 @@
+{"index": 99027, "D": "the art, act, or work of a person who enamels. ", "S": ["airbrushing ", "brushing ", "calcimining ", "coating ", "covering ", "decorating ", "splashing ", "varnishing "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 290833, "D": "in a way that shows a general but not exact resemblance", "S": ["alike ", "correspondingly ", "equivalently ", "furthermore ", "in addition ", "so ", "then as well ", "thus ", "too "], "A": ["differently "]}

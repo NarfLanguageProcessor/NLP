@@ -1,0 +1,1 @@
+{"index": 351921, "D": "a position of the pieces in which a player cannot move any piece except the king and cannot move the king without putting it in check.", "S": [], "A": []}

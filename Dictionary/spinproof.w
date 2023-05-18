@@ -1,0 +1,1 @@
+{"index": 299966, "D": "(of an airplane) designed so as to be highly resistant to a tailspin.", "S": [], "A": []}

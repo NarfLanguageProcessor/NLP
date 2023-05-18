@@ -1,0 +1,1 @@
+{"index": 158163, "D": "without the faculty of reason; deprived of reason.", "S": [], "A": []}

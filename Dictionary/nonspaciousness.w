@@ -1,0 +1,1 @@
+{"index": 207408, "D": "containing much space,  as a house, room, or vehicle; amply large.", "S": [], "A": []}

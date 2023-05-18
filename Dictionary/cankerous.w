@@ -1,0 +1,1 @@
+{"index": 46356, "D": "resembling canker. ", "S": ["adverse ", "corrosive ", "detrimental ", "hostile ", "negative ", "offensive ", "troublesome ", "vicious "], "A": ["advantageous ", "agreeable ", "friendly ", "gentle ", "good ", "helpful ", "kind ", "nice "]}

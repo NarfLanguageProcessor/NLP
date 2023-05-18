@@ -1,0 +1,1 @@
+{"index": 309301, "D": "to establish by proof or competent evidence", "S": ["affirm ", "confirm ", "corroborate ", "debunk ", "demonstrate ", "justify ", "prove ", "ratify ", "validate ", "verify "], "A": ["contradict ", "deny ", "discredit ", "disprove ", "invalidate ", "reject ", "veto ", "disapprove ", "ignore ", "neglect ", "oppose ", "refuse "]}

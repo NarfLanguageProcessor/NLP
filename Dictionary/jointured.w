@@ -1,0 +1,1 @@
+{"index": 161632, "D": "an estate or property settled on a woman in consideration of marriage, to be owned by her after her husband's death.", "S": [], "A": []}

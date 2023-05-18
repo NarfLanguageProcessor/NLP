@@ -1,0 +1,1 @@
+{"index": 294777, "D": "any soft cheese suitable for spreading or eating with a spoon, especially a sour cottage cheese.", "S": ["Dutch cheese ", "curd cheese ", "farm cheese ", "farmer's cheese ", "pot cheese ", "sour-milk cheese "], "A": []}

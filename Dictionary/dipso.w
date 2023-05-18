@@ -1,0 +1,1 @@
+{"index": 86700, "D": "a habitual drinker of alcohol who is frequently intoxicated; a dipsomaniac. ", "S": [], "A": []}

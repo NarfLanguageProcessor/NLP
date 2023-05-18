@@ -1,0 +1,1 @@
+{"index": 128774, "D": "a cetacean, Grampus griseus, of the dolphin family, widely distributed in northern seas.", "S": ["beluga ", "dolphin ", "mammal ", "narwal ", "orca ", "porpoise ", "whale "], "A": []}

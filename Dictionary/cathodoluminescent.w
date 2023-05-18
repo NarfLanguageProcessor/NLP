@@ -1,0 +1,1 @@
+{"index": 49719, "D": "light emitted by a substance undergoing bombardment by cathode rays.", "S": [], "A": []}

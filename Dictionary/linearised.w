@@ -1,0 +1,1 @@
+{"index": 172741, "D": "to make linear;  give linear  form to.", "S": [], "A": []}

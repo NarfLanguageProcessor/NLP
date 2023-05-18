@@ -1,0 +1,1 @@
+{"index": 273075, "D": "ring-streaked. ", "S": [], "A": []}

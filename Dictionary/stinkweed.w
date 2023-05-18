@@ -1,0 +1,1 @@
+{"index": 304708, "D": "any of various rank-smelling plants, as the jimson weed. ", "S": [], "A": []}

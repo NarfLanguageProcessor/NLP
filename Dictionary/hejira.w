@@ -1,0 +1,1 @@
+{"index": 135425, "D": "a variant spelling of Hegira", "S": [], "A": []}

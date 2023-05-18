@@ -1,0 +1,1 @@
+{"index": 91630, "D": "a double measure, esp of espresso coffee", "S": [], "A": []}

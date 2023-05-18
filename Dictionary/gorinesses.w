@@ -1,0 +1,1 @@
+{"index": 128139, "D": "covered or stained with gore;  bloody.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 60419, "D": "a cloven hoof; one of the divisions of the cloven hoof of the swine, sheep, etc.", "S": [], "A": []}

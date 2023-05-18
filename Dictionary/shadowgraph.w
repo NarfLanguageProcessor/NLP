@@ -1,0 +1,1 @@
+{"index": 287090, "D": "a picture produced by throwing a shadow,  as of the hands, on a lighted screen, wall, or the like.", "S": [], "A": []}

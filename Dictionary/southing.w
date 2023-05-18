@@ -1,0 +1,1 @@
+{"index": 298015, "D": "south  declination.", "S": [], "A": []}

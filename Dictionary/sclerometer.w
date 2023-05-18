@@ -1,0 +1,1 @@
+{"index": 280981, "D": "any instrument for determining with precision the degree of hardness of a substance, especially a mineral, as by measuring the pressure necessary to pierce or scratch it.", "S": [], "A": []}

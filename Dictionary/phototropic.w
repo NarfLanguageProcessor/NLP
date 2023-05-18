@@ -1,0 +1,1 @@
+{"index": 235456, "D": "growing toward or away from the light.", "S": [], "A": []}

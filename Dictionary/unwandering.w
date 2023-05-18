@@ -1,0 +1,1 @@
+{"index": 354014, "D": "moving from place to place without a fixed plan; roaming; rambling", "S": [], "A": []}

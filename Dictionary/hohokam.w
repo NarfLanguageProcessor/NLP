@@ -1,0 +1,1 @@
+{"index": 142315, "D": "of, belonging to, or characteristic of an American Indian culture of the central and southern deserts of Arizona, about a.d. 450\u20131450, roughly contemporaneous with the Anasazi culture to the north.", "S": [], "A": []}

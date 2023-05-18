@@ -1,0 +1,1 @@
+{"index": 355559, "D": "the membranous tube that extends from the urinary bladder to the exterior and that in the male conveys semen as well as urine.", "S": [], "A": []}

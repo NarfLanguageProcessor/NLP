@@ -1,0 +1,1 @@
+{"index": 19381, "D": "a ring of color, as around the human nipple.", "S": [], "A": []}

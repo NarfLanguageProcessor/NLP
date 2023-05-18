@@ -1,0 +1,1 @@
+{"index": 174491, "D": "a variety of magnetite that possesses magnetic polarity and attracts iron.", "S": [], "A": []}

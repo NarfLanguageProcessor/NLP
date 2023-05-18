@@ -1,0 +1,1 @@
+{"index": 204279, "D": "to begin to grow or develop.", "S": [], "A": []}

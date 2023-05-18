@@ -1,0 +1,1 @@
+{"index": 290704, "D": "a common mineral, potassium chloride, KCl, colorless to milky-white or red, occurring in crystals, usually cubes, and masses with cubic cleavage, bitter in taste", "S": [], "A": []}

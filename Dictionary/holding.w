@@ -1,0 +1,1 @@
+{"index": 142404, "D": "the act of a person or thing that holds. ", "S": ["equity ", "goods ", "ownership ", "property "], "A": []}

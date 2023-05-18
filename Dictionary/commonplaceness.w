@@ -1,0 +1,1 @@
+{"index": 64179, "D": "ordinary; undistinguished or uninteresting; without individuality", "S": ["aridity ", "boredom ", "drabness ", "dreariness ", "dryness ", "familiarity ", "flatness ", "insipidity ", "insipidness ", "lifelessness ", "routine ", "sameness ", "slowness ", "staleness ", "tediousness ", "tedium ", "uninterestingness ", "vapidity "], "A": ["excitement "]}

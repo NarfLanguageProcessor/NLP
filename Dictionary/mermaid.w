@@ -1,0 +1,1 @@
+{"index": 183870, "D": "(in folklore) a female marine creature, having the head, torso, and arms of a woman and the tail of a fish.", "S": ["gnome ", "goblin ", "imp ", "leprechaun "], "A": []}

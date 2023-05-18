@@ -1,0 +1,1 @@
+{"index": 284253, "D": "the part of a country that borders another country; boundary; border.", "S": [], "A": []}

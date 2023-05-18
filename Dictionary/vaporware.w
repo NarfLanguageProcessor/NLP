@@ -1,0 +1,1 @@
+{"index": 357100, "D": "a product, especially software, that is promoted or marketed while it is still in development and that may never be produced.", "S": ["operating system ", "program ", "spreadsheet "], "A": []}

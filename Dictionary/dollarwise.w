@@ -1,0 +1,1 @@
+{"index": 91147, "D": "as expressed in dollars;  in dollars and cents", "S": [], "A": []}

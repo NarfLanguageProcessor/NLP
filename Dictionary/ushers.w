@@ -1,0 +1,1 @@
+{"index": 355995, "D": "a person who escorts people to seats in a theater, church, etc.", "S": ["attendant ", "conductor ", "doorkeeper ", "escort ", "guide ", "herald ", "lead ", "leader ", "page ", "pilot ", "precursor "], "A": []}

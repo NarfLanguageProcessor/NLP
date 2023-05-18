@@ -1,0 +1,1 @@
+{"index": 289664, "D": "a room  in which a sick  person is confined.", "S": ["dispensary "], "A": []}

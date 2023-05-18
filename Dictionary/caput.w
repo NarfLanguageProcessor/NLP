@@ -1,0 +1,1 @@
+{"index": 47241, "D": "any head or headlike expansion on a structure, as on a bone.", "S": [], "A": []}

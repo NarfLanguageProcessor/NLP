@@ -1,0 +1,1 @@
+{"index": 104039, "D": "to belch forth, as gas from the stomach.", "S": ["belch ", "burp ", "discharge ", "disgorge ", "eject ", "expel ", "explode ", "gush ", "hiccup ", "hurl ", "repeat ", "spew ", "vent "], "A": ["take in "]}

@@ -1,0 +1,1 @@
+{"index": 15171, "D": "a conceited, boastful person.", "S": [], "A": []}

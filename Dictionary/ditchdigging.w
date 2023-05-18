@@ -1,0 +1,1 @@
+{"index": 90072, "D": "a worker whose occupation is digging ditches,  especially with pick and shovel.", "S": [], "A": []}

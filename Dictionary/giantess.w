@@ -1,0 +1,1 @@
+{"index": 124616, "D": "an imaginary female being of human form but superhuman size, strength, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 76320, "D": "during the entire day;  lasting all day", "S": [], "A": []}

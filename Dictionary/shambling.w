@@ -1,0 +1,1 @@
+{"index": 287315, "D": "any scene, place, or thing in disorder", "S": ["dragging "], "A": ["standing ", "upright ", "vertical "]}

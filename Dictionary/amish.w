@@ -1,0 +1,1 @@
+{"index": 10674, "D": "of or relating to any of the strict Mennonite groups, chiefly in Pennsylvania, Ohio, Indiana, and Canada, descended from the followers of Jakob Ammann, a Swiss Mennonite bishop of the 17th century.", "S": [], "A": []}

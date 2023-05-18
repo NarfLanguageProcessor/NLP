@@ -1,0 +1,1 @@
+{"index": 266113, "D": " to think about or consider in a new and creative way", "S": [], "A": []}

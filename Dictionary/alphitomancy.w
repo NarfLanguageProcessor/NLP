@@ -1,0 +1,1 @@
+{"index": 9361, "D": "the use of barley meal as a means of divination.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 9758, "D": "to mix or merge so as to make a combination; blend; unite; combine", "S": ["affiliated ", "associated ", "bound ", "combined ", "confederate ", "connected ", "joined ", "joint ", "linked ", "married ", "related ", "unified ", "wed "], "A": ["disconnected ", "single ", "uncombined ", "unrelated "]}

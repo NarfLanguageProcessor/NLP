@@ -1,0 +1,1 @@
+{"index": 344127, "D": "compound in structure yet having only one leaflet, as the orange.", "S": [], "A": []}

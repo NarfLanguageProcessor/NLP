@@ -1,0 +1,1 @@
+{"index": 257941, "D": "that is or may be estimated by quantity. ", "S": [], "A": []}

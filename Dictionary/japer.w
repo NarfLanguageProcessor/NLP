@@ -1,0 +1,1 @@
+{"index": 160394, "D": "to jest; joke; gibe.", "S": ["clown ", "jokester "], "A": []}

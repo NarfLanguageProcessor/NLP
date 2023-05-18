@@ -1,0 +1,1 @@
+{"index": 319693, "D": "a coarse-grained igneous rock consisting of plagioclase, olivine, and augite.", "S": [], "A": []}

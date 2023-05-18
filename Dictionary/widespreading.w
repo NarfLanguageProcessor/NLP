@@ -1,0 +1,1 @@
+{"index": 365524, "D": "spreading over or covering a large area", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 40942, "D": "quick and active; lively", "S": ["energetic ", "lively ", "quick ", "speedy ", "spry ", "vigorous "], "A": ["idle ", "inactive ", "lazy ", "lethargic ", "lifeless ", "slow ", "sluggish "]}

@@ -1,0 +1,1 @@
+{"index": 4947, "D": "stunts performed in flight by an airplane, glider, or the like.", "S": ["bars ", "calisthenics ", "gym ", "horse ", "rings ", "trampoline ", "trapeze ", "tumbling ", "vaulting ", "workout "], "A": []}

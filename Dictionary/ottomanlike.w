@@ -1,0 +1,1 @@
+{"index": 216016, "D": "of or relating to the Ottoman Empire. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 301301, "D": "a person or thing that springs. ", "S": ["fresh ", "spring ", "verdant ", "young ", "youthful "], "A": ["autumnal "]}

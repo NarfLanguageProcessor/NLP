@@ -1,0 +1,1 @@
+{"index": 312480, "D": "a race,  class, or people considered superior to others.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359924, "D": "of, pertaining to, of the nature of, or resembling vines", "S": [], "A": []}

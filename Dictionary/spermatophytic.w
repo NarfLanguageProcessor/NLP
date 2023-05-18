@@ -1,0 +1,1 @@
+{"index": 299239, "D": "any of the Spermatophyta, a primary division or group of plants comprising those that bear seeds.", "S": [], "A": []}

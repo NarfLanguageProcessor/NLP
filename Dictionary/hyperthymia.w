@@ -1,0 +1,1 @@
+{"index": 140569, "D": "a condition characterized by extreme overactivity.", "S": [], "A": []}

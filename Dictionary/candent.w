@@ -1,0 +1,1 @@
+{"index": 46152, "D": "glowing with heat; being at a white heat.", "S": [], "A": []}

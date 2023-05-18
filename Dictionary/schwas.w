@@ -1,0 +1,1 @@
+{"index": 280579, "D": "the mid-central, neutral vowel sound typically occurring in unstressed syllables in English, however spelled, as the sound of a in alone and sofa, of e in system, of i in easily,  of o in gallop,  and of u in circus.", "S": [], "A": []}

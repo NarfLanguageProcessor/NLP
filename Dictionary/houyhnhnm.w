@@ -1,0 +1,1 @@
+{"index": 144343, "D": "(in Swift's Gulliver's Travels) one of a race of horses endowed with reason, who rule the Yahoos, a race of degraded, brutish creatures having human form.", "S": [], "A": []}

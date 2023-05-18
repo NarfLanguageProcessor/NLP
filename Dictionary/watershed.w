@@ -1,0 +1,1 @@
+{"index": 363228, "D": "the ridge or crest line dividing two drainage areas; water parting;  divide.", "S": ["bowl ", "lagoon ", "pan ", "pool ", "pot ", "tub ", "valley "], "A": ["increase ", "rise ", "solid "]}

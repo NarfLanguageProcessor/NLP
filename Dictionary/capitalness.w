@@ -1,0 +1,1 @@
+{"index": 46913, "D": "the city or town that is the official seat of government in a country, state, etc.", "S": [], "A": []}

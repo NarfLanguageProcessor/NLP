@@ -1,0 +1,1 @@
+{"index": 369483, "D": "any of several composite plants of the genus Zinnia, native to Mexico and adjacent areas, especially the widely cultivated species Z. elegans, having variously colored, many-rayed flower heads.", "S": [], "A": []}

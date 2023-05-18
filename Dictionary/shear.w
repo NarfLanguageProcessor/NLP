@@ -1,0 +1,1 @@
+{"index": 287691, "D": "to cut (something).", "S": ["mow ", "prune ", "shave ", "snip ", "trim "], "A": []}

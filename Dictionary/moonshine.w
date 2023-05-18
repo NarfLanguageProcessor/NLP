@@ -1,0 +1,1 @@
+{"index": 193101, "D": "smuggled or illicitly distilled liquor, especially corn liquor as illicitly distilled chiefly in rural areas of the southern U.S.", "S": ["bootleg ", "firewater ", "hooch ", "rotgut "], "A": []}

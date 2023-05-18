@@ -1,0 +1,1 @@
+{"index": 120763, "D": "a firm, tightly woven fabric of worsted, cotton, polyester, or other fiber, with a twill weave.", "S": ["Vandyke ", "capote ", "cardinal ", "cloak ", "cope ", "dolman ", "fichu ", "mantilla ", "mantle ", "pelisse ", "poncho ", "shawl ", "tabard ", "tippet ", "wrap ", "wrapper "], "A": []}

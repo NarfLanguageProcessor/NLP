@@ -1,0 +1,1 @@
+{"index": 242631, "D": "a white, amorphous, water-soluble powder, (C6H9NO) n, used chiefly as a vehicle in the manufacture of pharmaceuticals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 114455, "D": "luxurious and unrestrained living.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 171623, "D": "a person, company, etc., to whom a license  is granted or issued.", "S": [], "A": []}

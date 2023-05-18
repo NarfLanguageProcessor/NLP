@@ -1,0 +1,1 @@
+{"index": 204537, "D": "a cardinal number represented in the U.S. by 1 followed by 30 zeros, and in Great Britain by 1 followed by 54 zeros.", "S": [], "A": []}

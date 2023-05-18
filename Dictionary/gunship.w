@@ -1,0 +1,1 @@
+{"index": 131430, "D": "a helicopter or fixed-wing airplane armed with rapid-fire guns  or cannons and used to provide close air support for troops in combat.", "S": [], "A": []}

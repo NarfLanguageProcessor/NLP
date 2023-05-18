@@ -1,0 +1,1 @@
+{"index": 358296, "D": "an ancient Italian goddess of gardens and spring, identified by the Romans with Aphrodite as the goddess of love and beauty.", "S": ["vision "], "A": ["frump ", "schlump "]}

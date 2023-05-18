@@ -1,0 +1,1 @@
+{"index": 277487, "D": "a rhythmic, Brazilian ballroom dance of African origin.", "S": [], "A": []}

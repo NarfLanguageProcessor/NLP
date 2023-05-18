@@ -1,0 +1,1 @@
+{"index": 107406, "D": "any enzyme that catalyzes the removal of an amino acid from the end of a polypeptide chain.", "S": [], "A": []}

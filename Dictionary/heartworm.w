@@ -1,0 +1,1 @@
+{"index": 134917, "D": "a parasitic nematode, Dirofilaria immitis, transmitted by mosquito and invading the heart  and pulmonary arteries of dogs, wolves, and foxes throughout its range in tropical, subtropical and, more recently, temperate regions around the world.", "S": [], "A": []}

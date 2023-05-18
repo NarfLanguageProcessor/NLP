@@ -1,0 +1,1 @@
+{"index": 38713, "D": "any of several flies  of the families Oestridae, Gasterophilidae, and Cuterebridae, the larvae of which are parasitic in the skin or other parts of various mammals.", "S": [], "A": []}

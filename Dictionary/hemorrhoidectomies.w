@@ -1,0 +1,1 @@
+{"index": 136473, "D": "the surgical removal of hemorrhoids. ", "S": [], "A": []}

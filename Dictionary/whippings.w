@@ -1,0 +1,1 @@
+{"index": 364930, "D": "a beating or flogging, especially one administered with a whip  or the like in punishment.", "S": ["flogging ", "licking ", "pounding ", "spanking ", "thrashing ", "trouncing "], "A": []}

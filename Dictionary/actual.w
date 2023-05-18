@@ -1,0 +1,1 @@
+{"index": 3284, "D": "existing in act or fact; real", "S": ["certain ", "existing ", "for-real ", "physical ", "real ", "substantial ", "substantive "], "A": ["mental ", "spiritual ", "uncertain ", "unfixed "]}

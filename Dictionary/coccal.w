@@ -1,0 +1,1 @@
+{"index": 61304, "D": "a combining form of adjectives corresponding to nouns formed with -coccus", "S": [], "A": []}

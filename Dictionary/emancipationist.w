@@ -1,0 +1,1 @@
+{"index": 97921, "D": "a person who advocates emancipation,  especially an advocate of the freeing of human beings from slavery.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 106047, "D": "any sedimentary rock, as gypsum or rock salt, formed by precipitation from evaporating seawater.", "S": [], "A": []}

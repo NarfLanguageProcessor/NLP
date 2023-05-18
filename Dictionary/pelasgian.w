@@ -1,0 +1,1 @@
+{"index": 229246, "D": "of or relating to the Pelasgians.", "S": [], "A": []}

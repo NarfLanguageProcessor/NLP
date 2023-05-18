@@ -1,0 +1,1 @@
+{"index": 242413, "D": "an argument made up of a chain of syllogisms,  the conclusion of each being a premise of the one following, until the last one.", "S": [], "A": []}

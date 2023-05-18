@@ -1,0 +1,1 @@
+{"index": 242591, "D": "the act or process of dividing into more than three parts.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 2426, "D": "to make or become acid;  convert into an acid. ", "S": ["acerbate ", "acidulate ", "clabber ", "clot ", "coagulate ", "condense ", "congeal ", "ferment ", "spoil ", "thicken ", "turn "], "A": []}

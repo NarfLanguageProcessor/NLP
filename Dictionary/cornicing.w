@@ -1,0 +1,1 @@
+{"index": 69322, "D": "the uppermost member of a classical entablature, consisting of a bed molding, a corona, and a cymatium, with rows of dentils, modillions, etc., often placed between the bed molding and the corona.", "S": [], "A": []}

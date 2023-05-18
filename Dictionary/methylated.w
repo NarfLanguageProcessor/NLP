@@ -1,0 +1,1 @@
+{"index": 185228, "D": "any derivative of methyl alcohol,  as sodium methylate,  CH3ONa.", "S": [], "A": []}

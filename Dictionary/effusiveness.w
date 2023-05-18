@@ -1,0 +1,1 @@
+{"index": 96121, "D": "unduly demonstrative; lacking reserve", "S": ["ebulliency ", "exuberance ", "yeastiness "], "A": ["dullness "]}

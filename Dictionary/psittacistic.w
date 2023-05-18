@@ -1,0 +1,1 @@
+{"index": 255598, "D": "mechanical, repetitive, and meaningless speech.", "S": [], "A": []}

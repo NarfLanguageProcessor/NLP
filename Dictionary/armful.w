@@ -1,0 +1,1 @@
+{"index": 19917, "D": "as much as a person can hold or carry in an arm  or both arms. ", "S": [], "A": []}

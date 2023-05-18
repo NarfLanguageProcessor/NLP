@@ -1,0 +1,1 @@
+{"index": 237455, "D": "a reddish argillaceous stone  used by North American Indians for making tobacco pipes. ", "S": [], "A": []}

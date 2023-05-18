@@ -1,0 +1,1 @@
+{"index": 335251, "D": "slyly crafty or cunning; deceitful; tricky", "S": ["artless "], "A": ["deceitful ", "dishonest ", "sly "]}

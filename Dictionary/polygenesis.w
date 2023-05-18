@@ -1,0 +1,1 @@
+{"index": 241889, "D": "origin from more than one ancestral species or line.", "S": [], "A": []}

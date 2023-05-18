@@ -1,0 +1,1 @@
+{"index": 2238, "D": [], "S": ["bleak ", "forlorn ", "lonely ", "lonesome "], "A": ["befriended ", "cheerful ", "loved ", "cherished ", "clean ", "happy ", "joyous "]}

@@ -1,0 +1,1 @@
+{"index": 183414, "D": "of, relating to, or characteristic of menopause. ", "S": [], "A": []}

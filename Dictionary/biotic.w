@@ -1,0 +1,1 @@
+{"index": 34578, "D": "pertaining to life.", "S": ["biological ", "nuclear "], "A": ["accessory ", "auxiliary ", "extra ", "inessential ", "minor ", "secondary ", "trivial ", "unimportant ", "unnecessary "]}

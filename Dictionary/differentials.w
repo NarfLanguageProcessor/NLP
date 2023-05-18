@@ -1,0 +1,1 @@
+{"index": 85286, "D": "of or relating to difference  or diversity.", "S": ["prong "], "A": []}

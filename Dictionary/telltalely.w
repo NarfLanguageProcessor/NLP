@@ -1,0 +1,1 @@
+{"index": 318379, "D": "a person who heedlessly or maliciously reveals private or confidential matters; tattler; talebearer.", "S": [], "A": []}

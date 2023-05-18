@@ -1,0 +1,1 @@
+{"index": 227816, "D": "to cover or encrust with a patina. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 153090, "D": "something new or different introduced", "S": ["modernization "], "A": ["stagnation "]}

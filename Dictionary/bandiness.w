@@ -1,0 +1,1 @@
+{"index": 27335, "D": "to pass from one to another or back and forth; give and take; trade; exchange", "S": [], "A": []}

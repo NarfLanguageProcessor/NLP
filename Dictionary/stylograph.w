@@ -1,0 +1,1 @@
+{"index": 304546, "D": "a fountain pen in which the writing point is a fine, hollow tube instead of a nib.", "S": ["ink pen ", "reservoir pen ", "stylographic pen "], "A": []}

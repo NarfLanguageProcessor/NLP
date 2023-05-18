@@ -1,0 +1,1 @@
+{"index": 22503, "D": "of or relating to Athanasius  or to the doctrines ascribed to him.", "S": [], "A": []}

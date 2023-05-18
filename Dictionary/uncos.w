@@ -1,0 +1,1 @@
+{"index": 338053, "D": "remarkable; extraordinary.", "S": [], "A": []}

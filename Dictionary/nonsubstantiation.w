@@ -1,0 +1,1 @@
+{"index": 207617, "D": "evidence sufficient to establish a thing as true, valid, or real; proof", "S": [], "A": []}

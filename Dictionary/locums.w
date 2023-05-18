@@ -1,0 +1,1 @@
+{"index": 174453, "D": "a temporary substitute, especially for a doctor or member of the clergy.", "S": ["backup ", "replacement ", "stand-in ", "surrogate "], "A": ["being ", "entity ", "permanent "]}

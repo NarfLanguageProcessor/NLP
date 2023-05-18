@@ -1,0 +1,1 @@
+{"index": 356157, "D": "urinary tract infection.", "S": [], "A": []}

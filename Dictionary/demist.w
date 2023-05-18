@@ -1,0 +1,1 @@
+{"index": 80648, "D": "to free or become free of condensation through evaporation produced by a heater and/or blower", "S": [], "A": []}

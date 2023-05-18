@@ -1,0 +1,1 @@
+{"index": 198812, "D": "a centaur who, on attempting to seduce Deianira, the wife of Hercules, was shot by Hercules with a poisoned arrow. Before Nessus died, he gave to Deianira the poisoned tunic that ultimately caused Hercules' death.", "S": [], "A": []}

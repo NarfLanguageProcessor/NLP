@@ -1,0 +1,1 @@
+{"index": 275146, "D": "to make red, esp (of a counterirritant) to make the skin go red", "S": [], "A": []}

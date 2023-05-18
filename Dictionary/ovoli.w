@@ -1,0 +1,1 @@
+{"index": 221984, "D": "a convex molding forming or approximating in section a quarter of a circle or ellipse.", "S": [], "A": []}

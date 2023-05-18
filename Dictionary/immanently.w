@@ -1,0 +1,1 @@
+{"index": 147851, "D": "remaining within; indwelling; inherent.", "S": ["constitutionally ", "genetically ", "intrinsically ", "naturally "], "A": []}

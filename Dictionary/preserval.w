@@ -1,0 +1,1 @@
+{"index": 249394, "D": [], "S": ["care ", "conservancy ", "control ", "maintenance ", "management ", "protection ", "supervision "], "A": ["ignorance ", "neglect ", "negligence "]}

@@ -1,0 +1,1 @@
+{"index": 200672, "D": "likely to cause damage or injury; harmful; noxious. ", "S": [], "A": []}

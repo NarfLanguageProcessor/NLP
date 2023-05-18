@@ -1,0 +1,1 @@
+{"index": 337958, "D": "of the nature of or characterized by convulsions  or spasms.", "S": [], "A": []}

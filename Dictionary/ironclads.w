@@ -1,0 +1,1 @@
+{"index": 158054, "D": "covered or cased with iron  plates, as a ship for naval warfare; armor-plated.", "S": [], "A": []}

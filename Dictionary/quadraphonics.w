@@ -1,0 +1,1 @@
+{"index": 257509, "D": "a system of sound recording and reproduction that uses four independent loudspeakers to give directional sources of sound. The speakers are fed by four separate amplified signals", "S": ["quadrangle ", "quadrant ", "quadruplet "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43420, "D": "(in feudal Japan) the code of the samurai, stressing unquestioning loyalty and obedience and valuing honor above life.", "S": [], "A": []}

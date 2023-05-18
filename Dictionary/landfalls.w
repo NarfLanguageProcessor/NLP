@@ -1,0 +1,1 @@
+{"index": 167925, "D": "an approach to or sighting of land", "S": [], "A": []}

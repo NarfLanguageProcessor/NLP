@@ -1,0 +1,1 @@
+{"index": 47367, "D": "a bony or chitinous shield, test, or shell covering some or all of the dorsal part of an animal, as of a turtle.", "S": [], "A": []}

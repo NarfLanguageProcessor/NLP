@@ -1,0 +1,1 @@
+{"index": 328233, "D": "across or passing through the placenta.", "S": [], "A": []}

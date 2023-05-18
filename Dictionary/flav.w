@@ -1,0 +1,1 @@
+{"index": 114183, "D": "variant of flavo-  before a vowel", "S": [], "A": []}

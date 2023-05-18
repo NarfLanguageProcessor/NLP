@@ -1,0 +1,1 @@
+{"index": 63084, "D": "a yellowish, viscous, highly flammable solution of pyroxylin in ether and alcohol", "S": [], "A": []}

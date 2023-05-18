@@ -1,0 +1,1 @@
+{"index": 115119, "D": "a group of small naval vessels, especially a naval unit containing two or more squadrons.", "S": ["armada ", "squadron "], "A": []}

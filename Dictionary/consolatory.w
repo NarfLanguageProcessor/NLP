@@ -1,0 +1,1 @@
+{"index": 66888, "D": "giving comfort; consoling. ", "S": ["encouraging ", "reassuring ", "refreshing ", "soothing "], "A": ["aggravating ", "depressing ", "dispiriting ", "distressing ", "disturbing ", "irritating ", "upsetting ", "worrying "]}

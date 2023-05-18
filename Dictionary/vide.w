@@ -1,0 +1,1 @@
+{"index": 359506, "D": "see (used especially to refer a reader to parts of a text).", "S": [], "A": []}

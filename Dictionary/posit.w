@@ -1,0 +1,1 @@
+{"index": 243793, "D": "to place, put, or set.", "S": ["hypothesize ", "postulate ", "presuppose "], "A": ["abstain ", "disbelieve ", "disregard ", "forget ", "ignore ", "know ", "leave ", "misunderstand ", "neglect ", "reject "]}

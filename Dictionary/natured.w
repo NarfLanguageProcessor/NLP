@@ -1,0 +1,1 @@
+{"index": 197356, "D": "having a temperament of a particular kind (usually used in combination)", "S": [], "A": []}

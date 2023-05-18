@@ -1,0 +1,1 @@
+{"index": 314761, "D": "a brand name for a pungent condiment sauce prepared from the fruit of a variety of capsicum.", "S": [], "A": []}

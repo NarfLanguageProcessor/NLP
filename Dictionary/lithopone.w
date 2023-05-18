@@ -1,0 +1,1 @@
+{"index": 173760, "D": "a white pigment consisting of zinc sulfide, barium sulfate, and some zinc oxide, used as a pigment and filler in the manufacture of paints, inks, leather, paper, linoleum, and face powders.", "S": [], "A": []}

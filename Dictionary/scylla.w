@@ -1,0 +1,1 @@
+{"index": 280663, "D": "a rock in the Strait of Messina off the S coast of Italy.", "S": [], "A": []}

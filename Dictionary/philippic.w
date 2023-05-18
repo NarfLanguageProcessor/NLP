@@ -1,0 +1,1 @@
+{"index": 233638, "D": "any of the orations delivered by Demosthenes, the Athenian orator, in the 4th century b.c., against Philip, king of Macedon.", "S": ["diatribe ", "exchange ", "reproach ", "screen ", "tirade "], "A": ["praise "]}

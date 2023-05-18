@@ -1,0 +1,1 @@
+{"index": 77927, "D": "a polygon having ten angles and ten sides.", "S": ["decade ", "decapod ", "decennary ", "decennium "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 275200, "D": "a red variety of corundum,  used as a gem.", "S": [], "A": []}

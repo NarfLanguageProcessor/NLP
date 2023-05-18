@@ -1,0 +1,1 @@
+{"index": 96867, "D": "capable of, or having a reasonable chance of, being elected,  as to public office.", "S": [], "A": []}

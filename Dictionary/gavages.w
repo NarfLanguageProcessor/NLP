@@ -1,0 +1,1 @@
+{"index": 122898, "D": "forced feeding, as by a flexible tube and a force pump.", "S": [], "A": []}

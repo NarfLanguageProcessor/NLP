@@ -1,0 +1,1 @@
+{"index": 302017, "D": "the collective body of squires  or landed gentry of a country.", "S": [], "A": []}

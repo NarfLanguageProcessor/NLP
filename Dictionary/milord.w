@@ -1,0 +1,1 @@
+{"index": 187512, "D": "an English nobleman or gentleman (usually used as a term of address).", "S": [], "A": []}

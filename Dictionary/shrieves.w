@@ -1,0 +1,1 @@
+{"index": 289188, "D": "an archaic variant of sheriff. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 271750, "D": "a variant of rachis. ", "S": ["backbone ", "myel ", "rachis ", "spine ", "vertebrae "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 37470, "D": "rough and noisy; noisily jolly or rowdy; clamorous; unrestrained", "S": ["braggadocio ", "bravado ", "swagger "], "A": []}

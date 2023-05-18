@@ -1,0 +1,1 @@
+{"index": 118141, "D": "an irregular geometric structure that cannot be described by classical geometry because magnification of the structure reveals repeated patterns of similarly irregular, but progressively smaller, dimensions", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 77387, "D": "to overpower or dim the vision of by intense light", "S": ["brilliantly ", "splendidly "], "A": ["darkly ", "dully ", "miserably ", "sadly "]}

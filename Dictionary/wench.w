@@ -1,0 +1,1 @@
+{"index": 364116, "D": "a country lass or working girl", "S": ["bimbo ", "damsel ", "doxy ", "hussy ", "jezebel ", "prostitute ", "strumpet ", "tramp ", "wanton ", "whore "], "A": []}

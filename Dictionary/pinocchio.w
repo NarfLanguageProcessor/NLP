@@ -1,0 +1,1 @@
+{"index": 237209, "D": "the hero of Carlo Collodi's children's story, The Adventures of Pinocchio (1883), a wooden puppet who comes to life as a boy and whose nose grows longer whenever he tells a lie.", "S": [], "A": []}

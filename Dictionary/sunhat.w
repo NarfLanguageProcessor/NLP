@@ -1,0 +1,1 @@
+{"index": 311133, "D": "a hat that shades the face and neck from the sun", "S": [], "A": []}

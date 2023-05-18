@@ -1,0 +1,1 @@
+{"index": 230352, "D": "a closely woven, smooth-finished, plain or printed cotton cloth, used for bed sheets, clothing, etc.", "S": [], "A": []}

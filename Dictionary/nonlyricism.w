@@ -1,0 +1,1 @@
+{"index": 205040, "D": "lyric  character or style, as in poetry.", "S": [], "A": []}

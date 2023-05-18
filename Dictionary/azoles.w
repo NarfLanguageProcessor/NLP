@@ -1,0 +1,1 @@
+{"index": 25316, "D": "any of a group of five-membered heterocyclic compounds containing one or more nitrogen atoms in the ring, the number of nitrogen atoms present being indicated by a prefix, as in diazole.", "S": [], "A": []}

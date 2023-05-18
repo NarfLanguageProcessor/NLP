@@ -1,0 +1,1 @@
+{"index": 335160, "D": "to come near or nearer to", "S": ["alone ", "consummate ", "excellent ", "exquisite ", "incomparable ", "inimitable ", "nonpareil ", "only ", "peerless ", "perfect ", "superior ", "superlative ", "supreme ", "unmatched ", "unparalleled ", "unrivaled "], "A": ["common ", "commonplace ", "mediocre ", "regular ", "usual "]}

@@ -1,0 +1,1 @@
+{"index": 79036, "D": "a person who stalks deer.", "S": ["chaser ", "falconer ", "fisherman ", "hawker ", "huntress ", "huntsman ", "pursuer ", "sportsman ", "stalker ", "trapper "], "A": []}

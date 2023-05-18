@@ -1,0 +1,1 @@
+{"index": 152542, "D": "firmly fixed; deep-rooted; inveterate", "S": [], "A": []}

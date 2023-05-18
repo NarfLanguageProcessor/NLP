@@ -1,0 +1,1 @@
+{"index": 252909, "D": "a person who tends to view or represent things as they really are.", "S": [], "A": []}

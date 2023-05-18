@@ -1,0 +1,1 @@
+{"index": 294174, "D": "a noose  with a knot that slides along the rope, thus forming a noose  that tightens as the rope is pulled.", "S": [], "A": []}

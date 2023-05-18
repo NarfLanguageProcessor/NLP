@@ -1,0 +1,1 @@
+{"index": 46991, "D": "a capon  produced by the administration of a synthetic sex hormone.", "S": [], "A": []}

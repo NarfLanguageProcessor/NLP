@@ -1,0 +1,1 @@
+{"index": 246040, "D": "to attest as certain; give reliable information of; confirm", "S": [], "A": []}

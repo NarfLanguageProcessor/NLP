@@ -1,0 +1,1 @@
+{"index": 133032, "D": "a hanging bed or couch made of canvas, netted cord, or the like, with cords attached to supports at each end.", "S": ["dock ", "port ", "wharf "], "A": []}

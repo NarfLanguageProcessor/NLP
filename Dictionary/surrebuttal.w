@@ -1,0 +1,1 @@
+{"index": 313582, "D": "the giving of evidence to meet a defendant's rebuttal. ", "S": [], "A": []}

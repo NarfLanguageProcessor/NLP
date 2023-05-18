@@ -1,0 +1,1 @@
+{"index": 270183, "D": "the act or fact of rising again or returning; revival", "S": ["comeback ", "rebirth ", "rebound ", "recovery ", "rejuvenation ", "renaissance ", "renewal ", "restoration ", "resurrection ", "revitalization ", "triumph "], "A": ["failure "]}

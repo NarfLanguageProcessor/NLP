@@ -1,0 +1,1 @@
+{"index": 311294, "D": "an act of acknowledging. ", "S": [], "A": []}

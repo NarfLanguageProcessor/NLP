@@ -1,0 +1,1 @@
+{"index": 97699, "D": "ellipsograph. ", "S": [], "A": []}

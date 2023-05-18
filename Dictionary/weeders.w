@@ -1,0 +1,1 @@
+{"index": 363741, "D": "a person who removes weeds,  as from a garden or lawn.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 263919, "D": "any of various colors resembling the color of blood; the primary color at one extreme end of the visible spectrum, an effect of light with a wavelength between 610 and 780 nanometers.", "S": ["cardinal ", "coral ", "crimson ", "flaming ", "glowing ", "maroon ", "rose ", "wine "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 292012, "D": "an element that enters into a syntagmatic  relationship.", "S": [], "A": []}

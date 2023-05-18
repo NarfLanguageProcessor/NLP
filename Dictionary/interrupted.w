@@ -1,0 +1,1 @@
+{"index": 155846, "D": "broken off or discontinuous", "S": ["broken ", "delayed ", "disrupted ", "postponed "], "A": []}

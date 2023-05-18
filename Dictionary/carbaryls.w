@@ -1,0 +1,1 @@
+{"index": 47424, "D": "a colorless, crystalline solid, C12H11NO2, moderately soluble in acetone, slightly soluble in water, less toxic than DDT, used as a contact insecticide and parasiticide.", "S": [], "A": []}

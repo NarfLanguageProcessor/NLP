@@ -1,0 +1,1 @@
+{"index": 226280, "D": "the skin of sheep, goats, etc., prepared for use as a material on which to write.", "S": [], "A": []}

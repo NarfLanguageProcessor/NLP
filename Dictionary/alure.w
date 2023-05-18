@@ -1,0 +1,1 @@
+{"index": 9660, "D": "a passageway, as the walk along one side of a cloister.", "S": [], "A": []}

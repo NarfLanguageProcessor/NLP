@@ -1,0 +1,1 @@
+{"index": 317442, "D": [], "S": ["academic ", "advisory ", "donnish ", "edifying ", "enlightening ", "exhortative ", "expository ", "homiletic ", "hortative ", "instructive ", "moral ", "moralizing ", "pedagogic ", "pedantic ", "preachy ", "preceptive ", "schoolmasterist ", "sermonic ", "sermonizing ", "teacherish ", "teacherly "], "A": []}

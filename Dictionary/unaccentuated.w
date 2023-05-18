@@ -1,0 +1,1 @@
+{"index": 334408, "D": "emphasized or made particularly noticeable; prominent", "S": [], "A": []}

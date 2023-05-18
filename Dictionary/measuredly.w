@@ -1,0 +1,1 @@
+{"index": 181801, "D": "ascertained or apportioned by measure", "S": [], "A": []}

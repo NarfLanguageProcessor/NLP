@@ -1,0 +1,1 @@
+{"index": 134115, "D": "a disorderly dispute.", "S": ["bickering ", "commotion ", "difficulty ", "inconvenience ", "squabble ", "tumult ", "wrangle "], "A": ["agreement ", "calm ", "peace ", "tranquility ", "happiness ", "harmony "]}

@@ -1,0 +1,1 @@
+{"index": 164876, "D": "the art of ruling as king;  royal statesmanship.", "S": [], "A": []}

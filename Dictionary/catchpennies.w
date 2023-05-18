@@ -1,0 +1,1 @@
+{"index": 49461, "D": "made to sell readily at a low price, regardless of value or use.", "S": [], "A": []}

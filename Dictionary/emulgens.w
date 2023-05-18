@@ -1,0 +1,1 @@
+{"index": 98945, "D": "(in prescriptions) an emulsifying agent.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 287005, "D": "impaired by wear, use, etc.; worn", "S": ["baseness ", "cheapness ", "frivolousness ", "inconsequence ", "inconsiderableness ", "irrelevance ", "measliness ", "negligible ", "negligibleness ", "paltriness ", "smallness ", "subordination ", "trifle ", "triviality ", "trivialness ", "unimportance "], "A": []}

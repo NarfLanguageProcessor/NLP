@@ -1,0 +1,1 @@
+{"index": 202059, "D": "of, concerning, or pertaining to a colony or colonies", "S": [], "A": []}

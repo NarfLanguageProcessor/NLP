@@ -1,0 +1,1 @@
+{"index": 202152, "D": "the quality of being complaisant. ", "S": [], "A": []}

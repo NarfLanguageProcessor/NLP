@@ -1,0 +1,1 @@
+{"index": 155805, "D": "a reticulated  formation, arrangement, or appearance; network. ", "S": [], "A": []}

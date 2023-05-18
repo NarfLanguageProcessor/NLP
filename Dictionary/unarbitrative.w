@@ -1,0 +1,1 @@
+{"index": 335187, "D": "to decide as arbitrator  or arbiter;  determine.", "S": [], "A": []}

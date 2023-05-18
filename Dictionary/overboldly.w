@@ -1,0 +1,1 @@
+{"index": 218378, "D": "without hesitation or fear in the face of risk or danger; courageously", "S": [], "A": []}

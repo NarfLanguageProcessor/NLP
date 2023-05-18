@@ -1,0 +1,1 @@
+{"index": 301787, "D": "to sit in a low or crouching position with the legs drawn up closely beneath or in front of the body; sit on one's haunches or heels.", "S": ["diameter ", "girth ", "scope ", "span ", "thickness "], "A": ["height ", "tallness "]}

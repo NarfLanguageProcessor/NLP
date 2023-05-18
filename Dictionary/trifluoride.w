@@ -1,0 +1,1 @@
+{"index": 329752, "D": "a fluoride  containing three atoms of fluorine.", "S": [], "A": []}

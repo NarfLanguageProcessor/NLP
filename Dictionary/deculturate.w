@@ -1,0 +1,1 @@
+{"index": 78815, "D": "to cause the loss or abandonment of culture  or cultural characteristics of (a people, society, etc.).", "S": [], "A": []}

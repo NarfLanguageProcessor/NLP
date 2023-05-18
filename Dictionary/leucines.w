@@ -1,0 +1,1 @@
+{"index": 170990, "D": "a white, crystalline, water-soluble amino acid, C6H13NO2, obtained by the decomposition of proteins and made synthetically", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 285301, "D": "U.S. motion-picture director and producer, born in Canada.", "S": [], "A": []}

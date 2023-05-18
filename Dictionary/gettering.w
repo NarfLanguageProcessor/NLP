@@ -1,0 +1,1 @@
+{"index": 124448, "D": "the removal of residual gas from a partial vacuum by use of a getter. ", "S": [], "A": []}

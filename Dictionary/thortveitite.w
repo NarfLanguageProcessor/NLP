@@ -1,0 +1,1 @@
+{"index": 322460, "D": "a scandium yttrium silicate mineral occurring in grayish-green orthorhombic crystals.", "S": [], "A": []}

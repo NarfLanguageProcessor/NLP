@@ -1,0 +1,1 @@
+{"index": 105889, "D": "a science concerned with bettering the condition of human beings through the improvement of their environment.", "S": [], "A": []}

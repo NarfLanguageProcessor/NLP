@@ -1,0 +1,1 @@
+{"index": 280636, "D": "having knowledge.", "S": [], "A": []}

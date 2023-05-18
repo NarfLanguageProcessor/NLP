@@ -1,0 +1,1 @@
+{"index": 112757, "D": "a thin layer or coating", "S": ["Hollywood ", "big screen ", "cinema ", "filmdom ", "motion pictures ", "motion-picture screen ", "moviedom "], "A": []}

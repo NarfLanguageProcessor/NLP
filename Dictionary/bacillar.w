@@ -1,0 +1,1 @@
+{"index": 25679, "D": "of or like a bacillus;  rod-shaped.", "S": [], "A": []}

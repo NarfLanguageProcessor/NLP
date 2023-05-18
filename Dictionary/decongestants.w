@@ -1,0 +1,1 @@
+{"index": 78651, "D": "of or relating to a substance that relieves mucus congestion of the upper respiratory tract.", "S": [], "A": []}

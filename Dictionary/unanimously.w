@@ -1,0 +1,1 @@
+{"index": 335009, "D": "without dissent; agreed to by all", "S": ["collectively ", "commonly ", "consistently ", "universally "], "A": ["differently ", "divergently ", "opposite "]}

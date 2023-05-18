@@ -1,0 +1,1 @@
+{"index": 251799, "D": "flowing smoothly or abundantly forth.", "S": [], "A": []}

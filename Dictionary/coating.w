@@ -1,0 +1,1 @@
+{"index": 61122, "D": "a layer of any substance spread over a surface.", "S": ["blanket ", "coat ", "crust ", "glaze ", "layer ", "membrane ", "patina ", "sheet ", "skin ", "varnish ", "veneer "], "A": []}

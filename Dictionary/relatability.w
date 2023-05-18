@@ -1,0 +1,1 @@
+{"index": 266733, "D": "the quality of being able to easily form social or emotional connections", "S": [], "A": []}

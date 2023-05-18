@@ -1,0 +1,1 @@
+{"index": 233359, "D": "a crystalline, slightly water-soluble solid, C6H5NHCSNH2, that is either tasteless or bitter, depending upon the heredity of the taster, and is used in medical genetics and as a diagnostic.", "S": [], "A": []}

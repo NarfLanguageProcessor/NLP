@@ -1,0 +1,1 @@
+{"index": 92780, "D": "an amount sufficient to fill a drawer", "S": [], "A": []}

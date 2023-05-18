@@ -1,0 +1,1 @@
+{"index": 649, "D": "the centimeter-gram-second unit of electrical resistance, equivalent to 10\u22129 ohm.", "S": [], "A": []}

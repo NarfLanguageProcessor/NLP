@@ -1,0 +1,1 @@
+{"index": 187901, "D": "a creature or being that is the smallest or least significant.", "S": [], "A": []}

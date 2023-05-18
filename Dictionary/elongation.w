@@ -1,0 +1,1 @@
+{"index": 97758, "D": "the act of elongating  or the state of being elongated. ", "S": ["continuation ", "expansion ", "lengthening ", "prolongation ", "protraction ", "stretching "], "A": []}

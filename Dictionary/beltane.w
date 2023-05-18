@@ -1,0 +1,1 @@
+{"index": 31298, "D": "an ancient Celtic festival observed on May Day in Scotland and Ireland to mark the beginning of summer.", "S": [], "A": []}

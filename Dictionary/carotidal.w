@@ -1,0 +1,1 @@
+{"index": 48327, "D": "either of the two large arteries, one on each side of the head, that carry blood to the head and that divide into an external branch supplying the neck, face, and other external parts, and an internal branch supplying the brain, eye, and other internal parts.", "S": [], "A": []}

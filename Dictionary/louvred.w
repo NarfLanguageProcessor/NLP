@@ -1,0 +1,1 @@
+{"index": 175524, "D": "(of a window, door, etc) having louvres", "S": [], "A": []}

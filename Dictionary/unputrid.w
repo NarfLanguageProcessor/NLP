@@ -1,0 +1,1 @@
+{"index": 348876, "D": "in a state of foul decay or decomposition, as animal or vegetable matter; rotten.", "S": [], "A": []}

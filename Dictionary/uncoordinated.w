@@ -1,0 +1,1 @@
+{"index": 337974, "D": "lacking order, system, or organization", "S": ["heavy-handed "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 199927, "D": "the coming of night;  the end of daylight; dusk.", "S": ["dusk ", "sundown ", "sunset "], "A": ["sunrise "]}

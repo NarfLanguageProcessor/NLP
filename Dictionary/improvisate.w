@@ -1,0 +1,1 @@
+{"index": 149197, "D": [], "S": ["ad-lib ", "devise ", "invent "], "A": ["plan ", "prepare ", "read ", "rehearse "]}

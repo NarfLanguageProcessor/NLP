@@ -1,0 +1,1 @@
+{"index": 353523, "D": "to form an ulcer;  become ulcerous", "S": [], "A": []}

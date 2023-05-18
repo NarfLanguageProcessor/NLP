@@ -1,0 +1,1 @@
+{"index": 3875, "D": "(of a medium) not capable of transmitting actinic rays.", "S": [], "A": []}

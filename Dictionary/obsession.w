@@ -1,0 +1,1 @@
+{"index": 210414, "D": "the domination of one's thoughts or feelings by a persistent idea, image, desire, etc.", "S": ["compulsion ", "delusion ", "enthusiasm ", "fascination ", "infatuation ", "mania ", "passion ", "phobia ", "preoccupation "], "A": ["indifference ", "dislike ", "hate ", "hatred ", "reality "]}

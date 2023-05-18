@@ -1,0 +1,1 @@
+{"index": 202166, "D": "serene, self-controlled state of mind; calmness; tranquility", "S": [], "A": []}

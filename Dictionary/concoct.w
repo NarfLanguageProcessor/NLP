@@ -1,0 +1,1 @@
+{"index": 65387, "D": "to prepare or make by combining ingredients, especially in cooking", "S": ["contrive ", "create ", "devise ", "discover ", "dream up ", "envision ", "fabricate ", "hatch ", "invent "], "A": ["demolish ", "destroy ", "ruin ", "tell the truth ", "wreck ", "disorganize ", "forget ", "ignore ", "neglect "]}

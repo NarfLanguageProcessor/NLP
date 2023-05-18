@@ -1,0 +1,1 @@
+{"index": 212593, "D": "eating both animal and plant foods.", "S": ["avidity ", "edacity ", "gluttony ", "greed ", "greediness ", "rapaciousness ", "rapacity ", "ravenousness ", "voraciousness "], "A": []}

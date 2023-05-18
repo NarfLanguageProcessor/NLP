@@ -1,0 +1,1 @@
+{"index": 301486, "D": "pluck; spirit; mettle.", "S": [], "A": []}

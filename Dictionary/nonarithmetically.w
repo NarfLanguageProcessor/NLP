@@ -1,0 +1,1 @@
+{"index": 201437, "D": "the method or process of computation with figures", "S": [], "A": []}

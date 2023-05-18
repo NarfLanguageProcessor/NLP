@@ -1,0 +1,1 @@
+{"index": 293307, "D": "the master or captain of a vessel, especially of a small trading or fishing vessel.", "S": ["captain ", "sea captain "], "A": []}

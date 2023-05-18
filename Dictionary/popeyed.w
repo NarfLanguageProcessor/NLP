@@ -1,0 +1,1 @@
+{"index": 243206, "D": "marked by bulging, staring eyes", "S": [], "A": []}

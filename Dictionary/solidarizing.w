@@ -1,0 +1,1 @@
+{"index": 296727, "D": "to unite or come together; become solidified.", "S": [], "A": []}

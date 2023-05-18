@@ -1,0 +1,1 @@
+{"index": 62490, "D": "to occupy the same place in space, the same point or period in time, or the same relative position", "S": ["ancillary ", "attendant ", "attending ", "collateral ", "concomitant ", "consonant ", "contemporaneous ", "contemporary ", "coordinate ", "correspondent ", "incident ", "satellite ", "simultaneous ", "synchronous "], "A": []}

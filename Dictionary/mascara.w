@@ -1,0 +1,1 @@
+{"index": 180614, "D": "a substance used as a cosmetic to color the eyelashes and eyebrows.", "S": [], "A": []}

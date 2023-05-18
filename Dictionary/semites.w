@@ -1,0 +1,1 @@
+{"index": 285054, "D": "a member of any of various ancient and modern peoples originating in southwestern Asia, including the Akkadians, Canaanites, Phoenicians, Hebrews, and Arabs.", "S": [], "A": []}

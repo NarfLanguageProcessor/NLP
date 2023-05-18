@@ -1,0 +1,1 @@
+{"index": 102499, "D": "of or relating to epigraphs  or epigraphy.", "S": [], "A": []}

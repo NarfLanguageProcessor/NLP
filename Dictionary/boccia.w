@@ -1,0 +1,1 @@
+{"index": 37128, "D": "an Italian variety of lawn bowling played on a dirt court that is shorter and narrower than the rink of a bowling green.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 346053, "D": "pertaining to or characteristic of a man or men", "S": ["unmanful ", "unmanlike "], "A": ["manlike ", "manly ", "strong "]}

@@ -1,0 +1,1 @@
+{"index": 128140, "D": "the triangular area along a leech of a square sail, created by the presence of a gore. ", "S": ["blood ", "carnage ", "slaughter "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 297187, "D": "a special class of small racing yachts, restricted as to size, sail area, cost, etc.", "S": [], "A": []}

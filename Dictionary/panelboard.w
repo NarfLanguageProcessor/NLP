@@ -1,0 +1,1 @@
+{"index": 224555, "D": "a compact pressboard for use in constructing sides of cabinets, paneling  for walls, and in other nonstructural applications.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 249297, "D": "subject to or suitable for prescription.", "S": [], "A": []}

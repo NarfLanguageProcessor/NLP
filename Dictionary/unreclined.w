@@ -1,0 +1,1 @@
+{"index": 349190, "D": "to lean or lie back; rest in a recumbent position.", "S": [], "A": []}

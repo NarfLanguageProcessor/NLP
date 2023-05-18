@@ -1,0 +1,1 @@
+{"index": 247964, "D": "the aggregate of manufacturing or technically productive enterprises in a particular field, often named after its principal product", "S": [], "A": []}

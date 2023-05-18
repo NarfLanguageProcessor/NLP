@@ -1,0 +1,1 @@
+{"index": 228033, "D": "any item of food covered with dough, batter, etc., and fried or baked", "S": [], "A": []}

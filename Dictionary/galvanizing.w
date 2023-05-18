@@ -1,0 +1,1 @@
+{"index": 121545, "D": [], "S": ["arouse ", "astonish ", "energize ", "excite ", "frighten ", "invigorate ", "jolt ", "motivate ", "provoke ", "shock ", "spur ", "startle ", "stir ", "stun "], "A": ["bore ", "calm ", "comfort ", "compose ", "depress ", "discourage ", "dissuade ", "expect ", "lull ", "quiet ", "deaden ", "dishearten ", "dull "]}

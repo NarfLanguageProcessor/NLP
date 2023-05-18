@@ -1,0 +1,1 @@
+{"index": 222520, "D": "to impregnate or treat with ozone. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 56368, "D": "a protein,  as hemoglobin or rhodopsin, containing a pigmented nonprotein group, such as heme, riboflavin, or retinal.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 272544, "D": "former name of Staten Island (def. 2). ", "S": [], "A": []}

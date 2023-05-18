@@ -1,0 +1,1 @@
+{"index": 68608, "D": "a Pacific Islands  plant, Acalypha wilkesiana, of the spurge family,  having showy, bronzy-green, usually red-mottled foliage and grown as an ornamental or houseplant.", "S": [], "A": []}

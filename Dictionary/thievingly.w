@@ -1,0 +1,1 @@
+{"index": 321744, "D": "to take by theft; steal.", "S": [], "A": []}

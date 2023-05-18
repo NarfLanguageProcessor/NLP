@@ -1,0 +1,1 @@
+{"index": 273596, "D": [], "S": ["automatic ", "computerized ", "electrical ", "electronic ", "mechanical ", "mechanized "], "A": ["by hand ", "manual "]}

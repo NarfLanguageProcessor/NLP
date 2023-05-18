@@ -1,0 +1,1 @@
+{"index": 5147, "D": "of or relating to aerostatics. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 190394, "D": "failure to understand correctly; mistake as to meaning or intent.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 52712, "D": "highly expressive of character", "S": ["distinctive ", "glamorous ", "lively ", "rich ", "unusual ", "vivid "], "A": ["common ", "dull ", "normal ", "standard ", "weak "]}

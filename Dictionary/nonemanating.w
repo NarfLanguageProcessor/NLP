@@ -1,0 +1,1 @@
+{"index": 203452, "D": "sent, proceeding, or flowing from or as if from a source (sometimes used in combination)", "S": [], "A": []}

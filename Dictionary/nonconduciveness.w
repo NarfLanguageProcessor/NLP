@@ -1,0 +1,1 @@
+{"index": 202249, "D": "tending to produce; contributive; helpful; favorable (usually followed by to)", "S": [], "A": []}

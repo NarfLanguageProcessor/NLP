@@ -1,0 +1,1 @@
+{"index": 294721, "D": "a green, foliated member of the amphibole group.", "S": [], "A": []}

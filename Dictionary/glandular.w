@@ -1,0 +1,1 @@
+{"index": 125921, "D": "consisting of, containing, or bearing glands. ", "S": [], "A": []}

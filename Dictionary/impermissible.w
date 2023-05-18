@@ -1,0 +1,1 @@
+{"index": 148583, "D": "not permissible  or allowable; unallowable.", "S": ["banned ", "closed ", "closed-down ", "closed-up ", "contraband ", "no-no ", "off-limits ", "out of bounds ", "proscribed ", "refused ", "taboo ", "verboten ", "vetoed "], "A": []}

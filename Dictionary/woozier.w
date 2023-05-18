@@ -1,0 +1,1 @@
+{"index": 367392, "D": "stupidly confused; muddled; befuddled", "S": ["befuddled ", "bewildered ", "dazed ", "giddy ", "groggy ", "puzzled ", "queasy ", "shaky ", "tipsy ", "unsteady ", "wobbly "], "A": ["certain ", "clear ", "cognizant ", "sober ", "stable ", "steady ", "sure "]}

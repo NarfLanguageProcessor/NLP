@@ -1,0 +1,1 @@
+{"index": 172463, "D": "(of animals) living in lakes or freshwater marshes", "S": [], "A": []}

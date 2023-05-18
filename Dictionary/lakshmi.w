@@ -1,0 +1,1 @@
+{"index": 167517, "D": "the Hindu goddess of fortune.", "S": [], "A": []}

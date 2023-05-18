@@ -1,0 +1,1 @@
+{"index": 199539, "D": "(in central and East Africa) a large body of water, especially a lake.", "S": [], "A": []}

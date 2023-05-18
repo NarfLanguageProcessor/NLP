@@ -1,0 +1,1 @@
+{"index": 84711, "D": "belonging or pertaining to the Dibranchiata, a subclass or order of cephalopods with two gills, including the decapods and octopods.", "S": [], "A": []}

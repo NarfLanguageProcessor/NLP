@@ -1,0 +1,1 @@
+{"index": 274351, "D": "a person who walks across or performs acrobatics upon a rope  stretched at some height above the floor or ground.", "S": [], "A": []}

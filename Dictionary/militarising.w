@@ -1,0 +1,1 @@
+{"index": 187196, "D": "to equip with armed forces, military  supplies, or the like.", "S": [], "A": []}

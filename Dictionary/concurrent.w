@@ -1,0 +1,1 @@
+{"index": 65496, "D": "occurring or existing simultaneously or side by side", "S": ["circumstantial ", "coeval ", "coexisting ", "coincident ", "concerted ", "concomitant ", "contemporaneous ", "in sync ", "incidental ", "parallel ", "synchronal ", "synchronous "], "A": ["disagreeing ", "divergent "]}

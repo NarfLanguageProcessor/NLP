@@ -1,0 +1,1 @@
+{"index": 174360, "D": "a chest, drawer, compartment, closet, or the like, that may be locked, especially one at a gymnasium, school, etc. for storage and safekeeping of clothing and valuables.", "S": ["chest ", "closet ", "trunk "], "A": []}

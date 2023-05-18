@@ -1,0 +1,1 @@
+{"index": 244798, "D": "a kind of soapstone, sometimes used for making pots  and other household utensils.", "S": [], "A": []}

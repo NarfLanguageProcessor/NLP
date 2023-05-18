@@ -1,0 +1,1 @@
+{"index": 287323, "D": "modest or bashful.", "S": ["abashed ", "chagrined ", "disgraced ", "guilty ", "humble ", "humbled ", "humiliated ", "mortified ", "regretful ", "shamed ", "sorry "], "A": []}

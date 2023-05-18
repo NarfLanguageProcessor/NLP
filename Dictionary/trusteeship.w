@@ -1,0 +1,1 @@
+{"index": 331678, "D": "the office or function of a trustee. ", "S": ["care ", "guardianship ", "protection "], "A": ["destruction ", "neglect ", "waste "]}

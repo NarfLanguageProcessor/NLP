@@ -1,0 +1,1 @@
+{"index": 18930, "D": "the office, term of office, or area of jurisdiction of an archdeacon", "S": [], "A": []}

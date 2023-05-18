@@ -1,0 +1,1 @@
+{"index": 73757, "D": "a structure consisting essentially of an upright and a transverse piece, used to execute persons in ancient times.", "S": ["annoyed ", "caviling ", "faultfinding ", "peeved ", "short ", "vexed "], "A": ["animated ", "cheerful ", "happy ", "pleasant "]}

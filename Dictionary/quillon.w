@@ -1,0 +1,1 @@
+{"index": 258621, "D": "either of two transverse projecting members forming the cross guard of a sword.", "S": [], "A": []}

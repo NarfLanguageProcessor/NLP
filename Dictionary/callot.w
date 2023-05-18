@@ -1,0 +1,1 @@
+{"index": 45348, "D": "French engraver and etcher.", "S": [], "A": []}

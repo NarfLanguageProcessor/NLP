@@ -1,0 +1,1 @@
+{"index": 360151, "D": "a state in the eastern United States, on the Atlantic coast", "S": [], "A": []}

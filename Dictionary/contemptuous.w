@@ -1,0 +1,1 @@
+{"index": 67355, "D": "showing or expressing contempt  or disdain; scornful; disrespectful.", "S": ["condescending ", "derisive ", "disdainful ", "disrespectful ", "haughty ", "insulting ", "scornful "], "A": ["flattering ", "humble ", "praising ", "respectful "]}

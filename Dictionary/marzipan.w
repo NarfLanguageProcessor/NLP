@@ -1,0 +1,1 @@
+{"index": 180597, "D": "a confection made of almonds reduced to a paste with sugar and often molded into various forms, usually diminutive fruits and vegetables.", "S": [], "A": []}

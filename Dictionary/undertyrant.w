@@ -1,0 +1,1 @@
+{"index": 340015, "D": "a sovereign or other ruler who uses power oppressively or unjustly.", "S": [], "A": []}

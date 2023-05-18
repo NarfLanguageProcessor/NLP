@@ -1,0 +1,1 @@
+{"index": 166760, "D": "designed or intended to reduce or replace human labor", "S": ["automated ", "automatic "], "A": ["by hand ", "manual "]}

@@ -1,0 +1,1 @@
+{"index": 33383, "D": "(of a taxon) having two centers of evolution.", "S": [], "A": []}

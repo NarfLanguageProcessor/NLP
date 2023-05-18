@@ -1,0 +1,1 @@
+{"index": 193787, "D": "a picture or decoration made of small, usually colored pieces of inlaid stone, glass, etc.", "S": ["bespeckle ", "besprinkle ", "dapple ", "dot ", "flake ", "fleck ", "freckle ", "mosaic ", "patch ", "pepper ", "speck ", "spot ", "sprinkle ", "stipple ", "variegate "], "A": []}

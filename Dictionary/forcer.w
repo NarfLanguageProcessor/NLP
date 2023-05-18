@@ -1,0 +1,1 @@
+{"index": 116422, "D": "a person or thing that forces. ", "S": [], "A": []}

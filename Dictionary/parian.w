@@ -1,0 +1,1 @@
+{"index": 226477, "D": "of or relating to Paros, noted for its white marble.", "S": [], "A": []}

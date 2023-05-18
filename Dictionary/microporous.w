@@ -1,0 +1,1 @@
+{"index": 186414, "D": "composed of or having extremely small pores.", "S": [], "A": []}

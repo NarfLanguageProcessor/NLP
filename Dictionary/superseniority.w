@@ -1,0 +1,1 @@
+{"index": 312605, "D": "seniority  that is granted or held without regard to age or service.", "S": [], "A": []}

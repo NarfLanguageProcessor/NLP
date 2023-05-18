@@ -1,0 +1,1 @@
+{"index": 191182, "D": "the act of modulating.", "S": ["inflection ", "intonation ", "pitch ", "tone "], "A": []}

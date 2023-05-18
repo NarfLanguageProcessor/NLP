@@ -1,0 +1,1 @@
+{"index": 262771, "D": "tending to go, move, or slant back; receding. ", "S": [], "A": []}

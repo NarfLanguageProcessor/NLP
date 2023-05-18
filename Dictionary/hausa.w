@@ -1,0 +1,1 @@
+{"index": 134346, "D": "a member of an Indigenous people of northern Nigeria and southern Niger whose culture has been strongly influenced by Islam.", "S": [], "A": []}

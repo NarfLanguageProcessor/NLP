@@ -1,0 +1,1 @@
+{"index": 209358, "D": "a proton or neutron, especially when considered as a component of a nucleus. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 232804, "D": "the ingestion of a smaller cell or cell fragment, a microorganism, or foreign particles by means of the local infolding of a cell's membrane and the protrusion of its cytoplasm around the fold until the material has been surrounded and engulfed by closure of the membrane and formation of a vacuole", "S": [], "A": []}

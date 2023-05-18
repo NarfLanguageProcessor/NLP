@@ -1,0 +1,1 @@
+{"index": 228463, "D": "like a pearl,  especially in being white or lustrous; nacreous", "S": [], "A": []}

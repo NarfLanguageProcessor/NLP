@@ -1,0 +1,1 @@
+{"index": 252043, "D": "any of a group of simple plant proteins, including gliadin, hordein, and zein", "S": [], "A": []}

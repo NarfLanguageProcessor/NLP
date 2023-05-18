@@ -1,0 +1,1 @@
+{"index": 29766, "D": "the simple past tense of become. ", "S": ["come ", "develop into ", "grow into ", "turn into "], "A": ["remain ", "stagnate "]}

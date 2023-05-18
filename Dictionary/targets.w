@@ -1,0 +1,1 @@
+{"index": 316579, "D": "an object, usually marked with concentric circles, to be aimed at in shooting practice or contests.", "S": ["destination ", "mark ", "object ", "objective ", "point ", "purpose ", "spot "], "A": []}

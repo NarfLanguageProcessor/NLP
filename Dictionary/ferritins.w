@@ -1,0 +1,1 @@
+{"index": 111516, "D": "an amber-colored, crystalline protein, found in the liver, spleen, and bone marrow, that consists of apoferritin  combined with a ferric hydroxide-ferric phosphate complex and that stores iron for use in metabolism.", "S": [], "A": []}

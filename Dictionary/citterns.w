@@ -1,0 +1,1 @@
+{"index": 58891, "D": "an old musical instrument related to the guitar, having a flat, pear-shaped soundbox and wire strings.", "S": [], "A": []}

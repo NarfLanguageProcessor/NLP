@@ -1,0 +1,1 @@
+{"index": 101133, "D": "to secure or guarantee", "S": [], "A": []}

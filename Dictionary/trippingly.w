@@ -1,0 +1,1 @@
+{"index": 330463, "D": "light and quick, as a step or pace.", "S": [], "A": []}

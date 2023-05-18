@@ -1,0 +1,1 @@
+{"index": 22999, "D": "to make an effort at; try; undertake; seek", "S": ["begun ", "initiated ", "launched ", "started ", "tackled ", "tried ", "ventured "], "A": []}

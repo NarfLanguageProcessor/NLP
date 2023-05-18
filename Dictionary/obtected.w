@@ -1,0 +1,1 @@
+{"index": 210532, "D": "(of a pupa) having the antennae, legs, and wings glued to the surface of the body.", "S": [], "A": []}

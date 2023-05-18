@@ -1,0 +1,1 @@
+{"index": 72495, "D": "the quality of being believable or worthy of trust", "S": ["believability ", "credibility ", "plausibility ", "plausibleness ", "reliability ", "reliableness ", "trustworthiness ", "validity ", "validness ", "verisimilitude "], "A": []}

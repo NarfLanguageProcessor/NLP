@@ -1,0 +1,1 @@
+{"index": 289200, "D": "high-pitched and piercing in sound quality", "S": ["acute ", "high-pitched ", "loud ", "malodorous ", "penetrating ", "piercing ", "piping ", "putrid ", "rancid ", "rank ", "reeking ", "sharp ", "shrieky ", "shrill ", "smelly ", "soprano ", "strident ", "treble "], "A": []}

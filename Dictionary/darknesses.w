@@ -1,0 +1,1 @@
+{"index": 76974, "D": "the state or quality of being dark", "S": ["blackness ", "dark ", "dusk ", "gloom ", "obscurity ", "twilight "], "A": ["brightness ", "light ", "lightness "]}

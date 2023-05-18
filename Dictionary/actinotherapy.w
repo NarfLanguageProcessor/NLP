@@ -1,0 +1,1 @@
+{"index": 3216, "D": "radiotherapy, especially using ultraviolet rays.", "S": [], "A": []}

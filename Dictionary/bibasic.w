@@ -1,0 +1,1 @@
+{"index": 33200, "D": "(formerly) dibasic. ", "S": [], "A": []}

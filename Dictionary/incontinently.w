@@ -1,0 +1,1 @@
+{"index": 150311, "D": "without exercising continence.", "S": ["haphazard ", "headlong ", "jumbled "], "A": ["carefully ", "methodical ", "organized ", "straight ", "systematic "]}

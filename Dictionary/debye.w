@@ -1,0 +1,1 @@
+{"index": 77764, "D": "a unit of measure for electric dipole moments, equal to 10\u201318 statcoulomb-centimeters. Abbreviation", "S": [], "A": []}

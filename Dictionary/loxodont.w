@@ -1,0 +1,1 @@
+{"index": 175689, "D": "having molar teeth with shallow depressions between the ridges.", "S": [], "A": []}

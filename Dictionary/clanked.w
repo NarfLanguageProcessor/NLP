@@ -1,0 +1,1 @@
+{"index": 59218, "D": "a sharp, hard, nonresonant sound, like that produced by two pieces of metal striking, one against the other", "S": ["bang ", "bong ", "clash ", "clink ", "jangle ", "ring "], "A": []}

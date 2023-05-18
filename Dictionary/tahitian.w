@@ -1,0 +1,1 @@
+{"index": 315299, "D": "of or relating to Tahiti,  its inhabitants, or their language.", "S": [], "A": []}

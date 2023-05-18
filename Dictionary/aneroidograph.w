@@ -1,0 +1,1 @@
+{"index": 12572, "D": "an aneroid barometer equipped with an automatic recording mechanism.", "S": [], "A": []}

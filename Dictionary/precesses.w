@@ -1,0 +1,1 @@
+{"index": 246047, "D": "to undergo precession (def. 2). ", "S": [], "A": []}

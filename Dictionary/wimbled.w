@@ -1,0 +1,1 @@
+{"index": 365857, "D": "a device used especially in mining for extracting the rubbish from a bored hole.", "S": [], "A": []}

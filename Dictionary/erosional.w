@@ -1,0 +1,1 @@
+{"index": 103911, "D": "the act or state of eroding;  state of being eroded. ", "S": [], "A": []}

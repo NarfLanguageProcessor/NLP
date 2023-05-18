@@ -1,0 +1,1 @@
+{"index": 214025, "D": "a sphere or globe", "S": ["annular ", "arced ", "arched ", "arciform ", "bent ", "bowed ", "bulbous ", "circular ", "coiled ", "curled ", "curved ", "curvilinear ", "cylindrical ", "discoid ", "disk-shaped ", "domical ", "egg-shaped ", "elliptical ", "globose ", "globular ", "looped ", "orbicular ", "orbiculate ", "oval ", "ringed ", "rotund "], "A": []}

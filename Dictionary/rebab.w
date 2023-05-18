@@ -1,0 +1,1 @@
+{"index": 262195, "D": "a Near Eastern fiddle having one to three strings and played with a bow.", "S": [], "A": []}

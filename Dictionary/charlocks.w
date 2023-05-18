@@ -1,0 +1,1 @@
+{"index": 52895, "D": "a wild mustard, Brassica kaber, having lobed, ovate leaves and clusters of small, yellow flowers, often troublesome as a weed in grainfields.", "S": [], "A": []}

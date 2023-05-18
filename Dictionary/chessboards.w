@@ -1,0 +1,1 @@
+{"index": 53921, "D": "the board, identical with a checkerboard, used for playing chess.", "S": [], "A": []}

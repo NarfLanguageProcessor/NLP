@@ -1,0 +1,1 @@
+{"index": 319365, "D": "situated at or forming the end or extremity of something", "S": ["fatal ", "incurable ", "lethal "], "A": ["life-giving ", "beginning ", "first ", "introductory ", "moderate "]}

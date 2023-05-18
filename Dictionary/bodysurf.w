@@ -1,0 +1,1 @@
+{"index": 37220, "D": "to ride a cresting wave toward the shore by lying face down in the water with the arms stretched forward in the direction of the wave.", "S": [], "A": []}

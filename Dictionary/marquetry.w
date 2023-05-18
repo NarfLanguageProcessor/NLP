@@ -1,0 +1,1 @@
+{"index": 180312, "D": "inlaid work of variously colored woods or other materials, especially in furniture.", "S": [], "A": []}

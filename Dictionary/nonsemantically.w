@@ -1,0 +1,1 @@
+{"index": 207117, "D": "in a way that relates to the different meanings of words or other signs or symbols", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 325708, "D": "a machinist skilled in the building and reconditioning of tools,  jigs, and related devices used in a machine shop.", "S": [], "A": []}

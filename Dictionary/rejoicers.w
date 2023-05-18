@@ -1,0 +1,1 @@
+{"index": 266614, "D": "to be glad; take delight (often followed by in)", "S": [], "A": []}

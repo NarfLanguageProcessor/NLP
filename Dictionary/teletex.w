@@ -1,0 +1,1 @@
+{"index": 318264, "D": "an international means of communicating text between a variety of terminals", "S": [], "A": []}

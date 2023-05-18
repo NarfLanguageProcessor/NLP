@@ -1,0 +1,1 @@
+{"index": 13824, "D": "absence of sight, especially when due to a structural defect in or absence of an eye.", "S": [], "A": []}

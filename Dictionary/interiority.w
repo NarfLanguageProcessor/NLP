@@ -1,0 +1,1 @@
+{"index": 155075, "D": "the quality of being focused on one's inner life and identity", "S": [], "A": []}

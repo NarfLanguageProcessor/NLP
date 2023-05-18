@@ -1,0 +1,1 @@
+{"index": 130875, "D": "to catch (fish) by groping with the hands, as under rocks or along a riverbank.", "S": [], "A": []}

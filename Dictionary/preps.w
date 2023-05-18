@@ -1,0 +1,1 @@
+{"index": 248968, "D": "preparatory school. ", "S": ["drill ", "practice session ", "reading ", "recital ", "tryout ", "workout "], "A": ["cold turkey "]}

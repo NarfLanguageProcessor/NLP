@@ -1,0 +1,1 @@
+{"index": 285840, "D": "the interruption of a career by a woman to bear and care for children until they reach an age that allows her to resume work.", "S": [], "A": []}

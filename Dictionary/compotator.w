@@ -1,0 +1,1 @@
+{"index": 64814, "D": "a person who drinks or tipples with another.", "S": [], "A": []}

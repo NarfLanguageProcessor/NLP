@@ -1,0 +1,1 @@
+{"index": 235911, "D": "a cucumber that has been preserved in brine, vinegar, or the like.", "S": ["bind ", "box ", "corner ", "difficulty ", "dilemma ", "disorder ", "fix ", "hole ", "jam ", "predicament ", "quandary ", "scrape ", "spot "], "A": ["advantage ", "benefit ", "boon ", "ease ", "good fortune ", "peace ", "solution "]}

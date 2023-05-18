@@ -1,0 +1,1 @@
+{"index": 314570, "D": "a structural unit on which are mounted switches  and instruments necessary to complete telephone circuits manually.", "S": ["command post ", "focal point ", "headquarters ", "hotbed "], "A": []}

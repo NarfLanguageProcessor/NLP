@@ -1,0 +1,1 @@
+{"index": 126913, "D": "sullenly or silently gloomy; dejected.", "S": ["sadly "], "A": ["blithely ", "happily ", "luckily ", "merrily "]}

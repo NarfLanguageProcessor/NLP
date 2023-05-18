@@ -1,0 +1,1 @@
+{"index": 139868, "D": "a person unselfishly concerned for or devoted to the welfare of others (opposed to egoist).", "S": [], "A": []}

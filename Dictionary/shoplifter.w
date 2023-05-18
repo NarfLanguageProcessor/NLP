@@ -1,0 +1,1 @@
+{"index": 288822, "D": "a person who steals goods from the shelves or displays of a retail store while posing as a customer.", "S": ["criminal ", "pilferer ", "thief "], "A": []}

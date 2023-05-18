@@ -1,0 +1,1 @@
+{"index": 132753, "D": "regarded as holy; venerated; sacred", "S": ["holy ", "sacred "], "A": ["irreligious ", "unholy ", "unsacred "]}

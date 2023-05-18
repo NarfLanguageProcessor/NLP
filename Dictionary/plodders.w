@@ -1,0 +1,1 @@
+{"index": 240170, "D": "to walk heavily or move laboriously; trudge", "S": ["factotum ", "grind ", "laborer ", "menial ", "peon ", "servant ", "toiler ", "workaholic ", "worker ", "workhorse "], "A": ["idler ", "lazy person "]}

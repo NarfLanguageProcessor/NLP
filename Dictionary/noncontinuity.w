@@ -1,0 +1,1 @@
+{"index": 202450, "D": "the state or quality of being continuous. ", "S": [], "A": []}

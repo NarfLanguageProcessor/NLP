@@ -1,0 +1,1 @@
+{"index": 132731, "D": "(used to call or answer someone, or to incite dogs in hunting.)", "S": [], "A": []}

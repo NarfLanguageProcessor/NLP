@@ -1,0 +1,1 @@
+{"index": 354308, "D": "that part of an employee's tax liability withheld by the employer from wages or salary and paid directly to the government.", "S": [], "A": []}

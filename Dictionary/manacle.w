@@ -1,0 +1,1 @@
+{"index": 178867, "D": "a shackle for the hand; handcuff.", "S": ["bond ", "bracelet ", "chain ", "fetter ", "iron ", "pinion ", "shackle "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 231559, "D": "(of a speech act) producing an effect upon the listener, as in persuading, frightening, amusing, or causing the listener to act.", "S": [], "A": []}

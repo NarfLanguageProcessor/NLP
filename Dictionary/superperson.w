@@ -1,0 +1,1 @@
+{"index": 312398, "D": "a human being, whether an adult or child", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 87882, "D": "to discharge contents by pouring forth.", "S": ["emit ", "empty ", "leak ", "release ", "spew "], "A": ["assign ", "dam ", "delegate ", "detain ", "employ ", "engage ", "hire ", "hold ", "imprison ", "keep ", "load ", "owe "]}

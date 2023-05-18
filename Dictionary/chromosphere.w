@@ -1,0 +1,1 @@
+{"index": 56382, "D": "a scarlet, gaseous envelope surrounding the sun outside the photosphere,  from which enormous quantities of hydrogen and other gases are erupted.", "S": [], "A": []}

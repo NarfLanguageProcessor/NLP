@@ -1,0 +1,1 @@
+{"index": 359514, "D": "to telecast  only the video  portion of (a program, scene, etc.).", "S": [], "A": []}

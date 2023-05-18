@@ -1,0 +1,1 @@
+{"index": 183594, "D": "a white powder, C9H18N2O4, used in medicine chiefly as a tranquilizer for treating anxiety, tension, and skeletal muscle spasm.", "S": [], "A": []}

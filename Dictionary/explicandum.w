@@ -1,0 +1,1 @@
+{"index": 107844, "D": "a term or statement that is to be explained, as in a philosophical discussion.", "S": [], "A": []}

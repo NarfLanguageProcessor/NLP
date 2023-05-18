@@ -1,0 +1,1 @@
+{"index": 3117, "D": "the property of radiation by which chemical effects are produced.", "S": ["Roentgen rays ", "R\u00f6ntgen rays ", "radioactivity "], "A": []}

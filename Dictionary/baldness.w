@@ -1,0 +1,1 @@
+{"index": 26798, "D": [], "S": ["bareness ", "economy ", "plainness ", "primitiveness ", "rusticism ", "severity ", "simplicity ", "spareness ", "starkness "], "A": ["blandness ", "calmness ", "elaborateness ", "extravagance ", "gentility ", "indulgence ", "luxuriousness ", "meekness ", "mildness ", "spending "]}

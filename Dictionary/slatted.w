@@ -1,0 +1,1 @@
+{"index": 293737, "D": "a long thin, narrow strip of wood, metal, etc., used as a support for a bed, as one of the horizontal laths of a Venetian blind, etc.", "S": [], "A": []}

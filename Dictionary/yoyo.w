@@ -1,0 +1,1 @@
+{"index": 157570, "D": "a spoollike toy consisting of two thick wooden, plastic, or metal disks connected by a dowel pin in the center to which a string is attached, one end being looped around the player's finger so that the toy can be spun out and reeled in by wrist motion.", "S": ["perpendicular "], "A": []}

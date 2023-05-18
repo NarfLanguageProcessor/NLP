@@ -1,0 +1,1 @@
+{"index": 200693, "D": "a centering point of component parts", "S": ["bulge ", "bump ", "burl ", "clot ", "growth ", "knob ", "knot ", "lump ", "nodule ", "protuberance ", "swelling "], "A": ["depression "]}

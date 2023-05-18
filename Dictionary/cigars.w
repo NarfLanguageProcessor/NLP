@@ -1,0 +1,1 @@
+{"index": 57348, "D": "a more or less cylindrical roll of tobacco cured for smoking, of any of various lengths, thicknesses, degrees of straightness, etc., usually wrapped in a tobacco leaf.", "S": ["belvedere ", "bouquet ", "cheroot ", "claro ", "corona ", "havana ", "panatela ", "smoke ", "stogie ", "stogy ", "tobacco ", "toby ", "weed "], "A": []}

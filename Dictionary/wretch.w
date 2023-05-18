@@ -1,0 +1,1 @@
+{"index": 367941, "D": "a deplorably unfortunate or unhappy person.", "S": ["rascal "], "A": []}

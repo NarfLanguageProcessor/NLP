@@ -1,0 +1,1 @@
+{"index": 31489, "D": "Julien (\u0292ylj\u0251\u0303). 1867\u20131956, French philosopher and novelist, who defended reason and intellect and attacked the influence of Bergson", "S": [], "A": []}

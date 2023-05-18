@@ -1,0 +1,1 @@
+{"index": 15458, "D": "a chain of islands in the West Indies, divided into two parts, the one including Cuba, Hispaniola, Jamaica, and Puerto Rico (Greater Antilles ), the other including a large arch of smaller islands to the SE and S (Lesser Antilles,  or Caribees ).", "S": [], "A": []}

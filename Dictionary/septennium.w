@@ -1,0 +1,1 @@
+{"index": 285693, "D": "a period or cycle of seven years", "S": [], "A": []}

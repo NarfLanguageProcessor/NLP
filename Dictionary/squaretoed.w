@@ -1,0 +1,1 @@
+{"index": 301746, "D": "having a broad, square  toe, as a shoe.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 112502, "D": "of or relating to Fiji,  its people, or their language.", "S": [], "A": []}

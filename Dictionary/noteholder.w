@@ -1,0 +1,1 @@
+{"index": 208870, "D": "a person who holds or owns a note,  as a promissory or Treasury note. ", "S": [], "A": []}

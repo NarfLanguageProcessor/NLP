@@ -1,0 +1,1 @@
+{"index": 79998, "D": "of or relating to the delegation or assignment of authority, power, or responsibility.", "S": [], "A": []}

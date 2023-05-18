@@ -1,0 +1,1 @@
+{"index": 339385, "D": "a layer  lying beneath another; substratum.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 285243, "D": "any plant of the genus Senecio, including groundsels, ragworts, and cineraria", "S": [], "A": []}

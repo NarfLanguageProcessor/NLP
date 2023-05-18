@@ -1,0 +1,1 @@
+{"index": 366710, "D": "to see, hear, or know by personal presence and perception", "S": ["congregation ", "crowd ", "gallery ", "gathering ", "market ", "public "], "A": []}

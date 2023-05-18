@@ -1,0 +1,1 @@
+{"index": 147898, "D": "incapable of being measured; limitless", "S": ["boundless ", "immense ", "inexhaustible ", "limitless ", "unfathomable ", "unlimited "], "A": ["limited ", "restricted "]}

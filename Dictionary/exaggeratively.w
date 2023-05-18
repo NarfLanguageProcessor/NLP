@@ -1,0 +1,1 @@
+{"index": 106417, "D": "tending to exaggerate;  involving or characterized by exaggeration.", "S": [], "A": []}

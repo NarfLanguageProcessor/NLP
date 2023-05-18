@@ -1,0 +1,1 @@
+{"index": 159215, "D": "belonging or pertaining to social insects of the order Isoptera, comprising the termites.", "S": [], "A": []}

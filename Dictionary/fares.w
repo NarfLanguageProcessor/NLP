@@ -1,0 +1,1 @@
+{"index": 109922, "D": "the price of conveyance or passage in a bus, train, airplane, or other vehicle.", "S": ["expense ", "price ", "tariff ", "ticket ", "toll "], "A": []}

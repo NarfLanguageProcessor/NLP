@@ -1,0 +1,1 @@
+{"index": 29362, "D": "covered with pebbles or sand.", "S": [], "A": []}

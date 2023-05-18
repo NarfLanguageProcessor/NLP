@@ -1,0 +1,1 @@
+{"index": 29131, "D": "the act or manner of using a bat  in a game of ball.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 41209, "D": "a simple past tense of break. ", "S": [], "A": []}

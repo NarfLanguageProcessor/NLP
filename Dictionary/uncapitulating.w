@@ -1,0 +1,1 @@
+{"index": 336478, "D": "to surrender unconditionally or on stipulated terms", "S": [], "A": []}

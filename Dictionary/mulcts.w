@@ -1,0 +1,1 @@
+{"index": 194887, "D": "to deprive (someone) of something, as by fraud, extortion, etc.; swindle.", "S": ["balk ", "deceive ", "defraud ", "fine ", "fleece ", "forfeit ", "penalize ", "punish ", "rook ", "steal ", "swindle "], "A": ["award ", "give ", "help ", "reward "]}

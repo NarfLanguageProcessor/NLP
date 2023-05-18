@@ -1,0 +1,1 @@
+{"index": 48403, "D": "plural of carpus. ", "S": [], "A": []}

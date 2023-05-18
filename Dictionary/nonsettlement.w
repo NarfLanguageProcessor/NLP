@@ -1,0 +1,1 @@
+{"index": 207203, "D": "the act or state of settling or the state of being settled.", "S": [], "A": []}

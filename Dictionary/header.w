@@ -1,0 +1,1 @@
+{"index": 134601, "D": "a person or thing that removes or puts a head on something.", "S": ["dunk "], "A": ["ascent ", "rise "]}

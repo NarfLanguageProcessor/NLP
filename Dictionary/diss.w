@@ -1,0 +1,1 @@
+{"index": 89383, "D": "to treat (someone) with contempt", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 179270, "D": "a person who initiates or participates in a public demonstration; demonstrator.", "S": [], "A": []}

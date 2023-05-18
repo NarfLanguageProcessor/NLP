@@ -1,0 +1,1 @@
+{"index": 138775, "D": "liquid water or ice in the atmosphere in various forms, as rain, ice crystals, hail, fog, or clouds.", "S": [], "A": []}

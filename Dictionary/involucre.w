@@ -1,0 +1,1 @@
+{"index": 157322, "D": "a collection or rosette of bracts subtending a flower cluster, umbel, or the like.", "S": [], "A": []}

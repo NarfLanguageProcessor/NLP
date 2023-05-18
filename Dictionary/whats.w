@@ -1,0 +1,1 @@
+{"index": 364458, "D": "contraction of what is or what has", "S": [], "A": []}

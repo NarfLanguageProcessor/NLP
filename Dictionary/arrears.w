@@ -1,0 +1,1 @@
+{"index": 20192, "D": "the state of being behind or late, especially in the fulfillment of a duty, promise, obligation, or the like", "S": ["deficit ", "liability ", "obligation "], "A": []}

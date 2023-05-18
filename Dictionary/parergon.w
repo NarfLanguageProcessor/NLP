@@ -1,0 +1,1 @@
+{"index": 226413, "D": "something that is an accessory to a main work or subject; embellishment.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 110404, "D": "a person who habitually finds fault,  complains, or objects, especially in a petty way.", "S": ["crab ", "crybaby ", "grouch ", "growler ", "grumbler ", "grump ", "moaner ", "sniveler ", "whiner "], "A": []}

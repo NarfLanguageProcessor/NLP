@@ -1,0 +1,1 @@
+{"index": 183192, "D": "to commemorate.", "S": ["anniversary ", "bash ", "birthday ", "ceremony ", "festival ", "festivity ", "gala ", "jubilee ", "observance ", "party ", "performance ", "spree ", "triumph "], "A": ["failure ", "sadness "]}

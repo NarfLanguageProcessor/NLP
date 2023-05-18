@@ -1,0 +1,1 @@
+{"index": 106496, "D": "having the antennae, legs, and wings free.", "S": [], "A": []}

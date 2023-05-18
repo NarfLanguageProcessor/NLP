@@ -1,0 +1,1 @@
+{"index": 241133, "D": "to make into or form a podzol", "S": [], "A": []}

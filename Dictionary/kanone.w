@@ -1,0 +1,1 @@
+{"index": 163077, "D": "a person who is an expert skier.", "S": [], "A": []}

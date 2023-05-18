@@ -1,0 +1,1 @@
+{"index": 368183, "D": "sausage (def. 1). ", "S": ["bratwurst "], "A": []}

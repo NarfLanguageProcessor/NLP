@@ -1,0 +1,1 @@
+{"index": 286390, "D": "finely or minutely serrate, as a leaf.", "S": [], "A": []}

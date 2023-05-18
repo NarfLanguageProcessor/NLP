@@ -1,0 +1,1 @@
+{"index": 156540, "D": "existing or occurring within the material world.", "S": [], "A": []}

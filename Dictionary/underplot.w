@@ -1,0 +1,1 @@
+{"index": 339594, "D": "a plot  subordinate to another plot,  as in a novel.", "S": [], "A": []}

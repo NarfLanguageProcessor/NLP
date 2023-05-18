@@ -1,0 +1,1 @@
+{"index": 293773, "D": "a female servant, especially a maid of all work in a boardinghouse.", "S": [], "A": []}

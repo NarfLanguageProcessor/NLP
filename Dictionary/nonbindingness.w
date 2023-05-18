@@ -1,0 +1,1 @@
+{"index": 201663, "D": "the act of fastening, securing, uniting, or the like.", "S": [], "A": []}

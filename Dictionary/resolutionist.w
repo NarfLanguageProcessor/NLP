@@ -1,0 +1,1 @@
+{"index": 269595, "D": "a person joining in or subscribing to a resolution. ", "S": [], "A": []}

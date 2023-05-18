@@ -1,0 +1,1 @@
+{"index": 147222, "D": "inflammation of the mucous membrane of the ileum and colon.", "S": [], "A": []}

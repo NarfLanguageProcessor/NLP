@@ -1,0 +1,1 @@
+{"index": 20689, "D": "uttered clearly in distinct syllables.", "S": ["coherent ", "eloquent ", "expressive ", "fluent ", "well-spoken "], "A": ["inarticulate "]}

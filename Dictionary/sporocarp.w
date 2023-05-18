@@ -1,0 +1,1 @@
+{"index": 300972, "D": "(in higher fungi, lichens, and red algae) a multicellular structure in which spores form; a fruiting body.", "S": [], "A": []}

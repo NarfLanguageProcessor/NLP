@@ -1,0 +1,1 @@
+{"index": 48832, "D": "a peptide produced by the peptic digestion of casein", "S": [], "A": []}

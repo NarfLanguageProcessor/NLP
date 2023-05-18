@@ -1,0 +1,1 @@
+{"index": 200741, "D": "(in Greek philosophy) the exercise of reason.", "S": [], "A": []}

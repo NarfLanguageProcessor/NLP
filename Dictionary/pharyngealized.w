@@ -1,0 +1,1 @@
+{"index": 233029, "D": "to pronounce with pharyngeal  coarticulation.", "S": [], "A": []}

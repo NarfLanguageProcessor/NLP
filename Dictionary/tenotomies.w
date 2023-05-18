@@ -1,0 +1,1 @@
+{"index": 318950, "D": "the cutting of a tendon.", "S": [], "A": []}

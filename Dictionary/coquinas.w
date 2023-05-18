@@ -1,0 +1,1 @@
+{"index": 68759, "D": "a small clam, Donax variabilis, abundant in the intertidal zone of eastern and southern U.S. coastal beaches, having fanlike bands of various hues, the paired empty shells often spread in a butterfly shape.", "S": [], "A": []}

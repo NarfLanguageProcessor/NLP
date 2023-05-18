@@ -1,0 +1,1 @@
+{"index": 171106, "D": "any of various shrubs of the genus Leucothoe, of the heath family, having clusters of white or pinkish flowers.", "S": [], "A": []}

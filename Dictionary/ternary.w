@@ -1,0 +1,1 @@
+{"index": 319432, "D": "consisting of or involving three; threefold; triple.", "S": ["third ", "treble ", "trilateral ", "trinitarian ", "triple "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 77487, "D": "a state in which progress is impossible, as in a dispute, produced by the counteraction of opposing forces; standstill; stalemate", "S": ["dilemma ", "gridlock ", "plight ", "predicament ", "standoff ", "standstill "], "A": ["good fortune ", "solution ", "advantage ", "continuation ", "start "]}

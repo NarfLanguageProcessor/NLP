@@ -1,0 +1,1 @@
+{"index": 341010, "D": "a line or border at which a surface terminates", "S": [], "A": []}

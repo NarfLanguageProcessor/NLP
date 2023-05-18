@@ -1,0 +1,1 @@
+{"index": 121420, "D": "a rare, steel-gray, trivalent metallic element used in high-temperature thermometers because of its high boiling point (1983\u00b0C) and low melting point (30\u00b0C). Symbol", "S": [], "A": []}

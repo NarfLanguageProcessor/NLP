@@ -1,0 +1,1 @@
+{"index": 215757, "D": "to exclude, by general consent, from society, friendship, conversation, privileges, etc.", "S": ["blackball ", "blacklist ", "exclude ", "excommunicate ", "expel ", "shun ", "snub "], "A": ["accept ", "admit ", "allow ", "include ", "permit ", "welcome "]}

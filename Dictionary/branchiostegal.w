@@ -1,0 +1,1 @@
+{"index": 39876, "D": "one of the long, curved bones just below the operculum, supporting the gill membranes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 297597, "D": "any of several varieties of sorghum grown chiefly for the sweet juice yielded by the stems, used in making sugar and syrup and also for fodder.", "S": [], "A": []}

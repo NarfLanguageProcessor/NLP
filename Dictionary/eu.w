@@ -1,0 +1,1 @@
+{"index": 105248, "D": "europium.", "S": ["EEC ", "European Economic Community ", "European Union ", "customs union ", "economic community ", "free trade zone "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 188572, "D": "to make suitable to requirements or conditions; adjust or modify fittingly", "S": [], "A": []}

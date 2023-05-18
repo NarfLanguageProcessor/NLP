@@ -1,0 +1,1 @@
+{"index": 192826, "D": "a title conferred upon certain prelates.", "S": ["bishop ", "chaplain ", "cleric ", "evangelist ", "missionary ", "pastor ", "pontiff ", "preacher ", "priest ", "rabbi "], "A": ["layman ", "layperson "]}

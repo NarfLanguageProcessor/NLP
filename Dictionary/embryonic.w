@@ -1,0 +1,1 @@
+{"index": 98316, "D": "pertaining to or in the state of an embryo. ", "S": ["evolving ", "immature ", "incipient ", "undeveloped "], "A": ["adult ", "developed ", "grown ", "mature "]}

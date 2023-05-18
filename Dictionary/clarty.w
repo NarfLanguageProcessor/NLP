@@ -1,0 +1,1 @@
+{"index": 59356, "D": "dirty, esp covered in mud; filthy", "S": [], "A": []}

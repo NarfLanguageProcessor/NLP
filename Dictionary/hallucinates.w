@@ -1,0 +1,1 @@
+{"index": 132772, "D": "to have hallucinations. ", "S": ["daydream ", "fantasize ", "freak out "], "A": ["experience "]}

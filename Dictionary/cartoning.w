@@ -1,0 +1,1 @@
+{"index": 48657, "D": "a cardboard or plastic box used typically for storage or shipping.", "S": [], "A": []}

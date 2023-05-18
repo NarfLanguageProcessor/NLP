@@ -1,0 +1,1 @@
+{"index": 168251, "D": "a member of a people of Laos and northern Thailand.", "S": [], "A": []}

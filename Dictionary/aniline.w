@@ -1,0 +1,1 @@
+{"index": 13123, "D": "a colorless, oily, slightly water-soluble liquid, C6H5NH2, usually derived from nitrobenzene by reduction", "S": [], "A": []}

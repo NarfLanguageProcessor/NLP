@@ -1,0 +1,1 @@
+{"index": 295314, "D": "apt to snap  or bite, as a dog.", "S": [], "A": []}

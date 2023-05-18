@@ -1,0 +1,1 @@
+{"index": 158064, "D": "having or governing with an iron hand;  strict, harsh, or autocratic", "S": [], "A": []}

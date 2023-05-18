@@ -1,0 +1,1 @@
+{"index": 72869, "D": "a person who cribs. ", "S": ["plagiarist ", "plagiarizer ", "plagiary ", "stealer "], "A": []}

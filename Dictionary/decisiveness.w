@@ -1,0 +1,1 @@
+{"index": 78404, "D": "the quality of determining an outcome or of settling or resolving a question", "S": ["assertiveness ", "firmness ", "willpower "], "A": ["indecision ", "question "]}

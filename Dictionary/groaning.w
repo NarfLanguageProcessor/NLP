@@ -1,0 +1,1 @@
+{"index": 130115, "D": "a low, mournful sound uttered in pain or grief", "S": ["cry ", "grumble ", "murmur ", "sigh "], "A": ["compliment ", "praise "]}

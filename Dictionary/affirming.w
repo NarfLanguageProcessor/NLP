@@ -1,0 +1,1 @@
+{"index": 5405, "D": "to state or assert positively; maintain as true", "S": ["affirmatory ", "approving ", "positive ", "supporting "], "A": ["dissenting ", "negative "]}

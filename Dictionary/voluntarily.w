@@ -1,0 +1,1 @@
+{"index": 361243, "D": "of one\u2019s own accord or by free choice", "S": ["deliberately ", "freely ", "intentionally ", "spontaneously ", "willingly "], "A": ["unintentionally "]}

@@ -1,0 +1,1 @@
+{"index": 348947, "D": "characterized by or consisting of quibbles;  carping; niggling", "S": [], "A": []}

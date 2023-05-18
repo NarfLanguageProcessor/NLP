@@ -1,0 +1,1 @@
+{"index": 257760, "D": "one of two subordinates of the consuls serving as public prosecutors in certain criminal cases.", "S": [], "A": []}

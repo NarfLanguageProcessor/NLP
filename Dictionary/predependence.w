@@ -1,0 +1,1 @@
+{"index": 246788, "D": "the state of relying on or needing someone or something for aid, support, or the like.", "S": [], "A": []}

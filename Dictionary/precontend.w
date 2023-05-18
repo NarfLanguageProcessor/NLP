@@ -1,0 +1,1 @@
+{"index": 246498, "D": "to struggle in opposition", "S": [], "A": []}

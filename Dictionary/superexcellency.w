@@ -1,0 +1,1 @@
+{"index": 311785, "D": "a title of honor given to certain high officials, as governors, ambassadors, and Roman Catholic bishops and archbishops (preceded by his, your, etc.).", "S": [], "A": []}

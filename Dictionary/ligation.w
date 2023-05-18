@@ -1,0 +1,1 @@
+{"index": 171987, "D": "the act of ligating,  especially of surgically tying up a bleeding artery.", "S": ["association ", "channel ", "contact ", "element ", "hookup ", "network ", "relationship ", "tie "], "A": ["line ", "whole "]}

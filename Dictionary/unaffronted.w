@@ -1,0 +1,1 @@
+{"index": 334732, "D": "a personally offensive act or word; deliberate act or display of disrespect; intentional slight; insult", "S": [], "A": []}

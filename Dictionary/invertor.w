@@ -1,0 +1,1 @@
+{"index": 157162, "D": "any muscle that turns a limb or part inward.", "S": [], "A": []}

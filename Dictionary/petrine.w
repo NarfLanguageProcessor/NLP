@@ -1,0 +1,1 @@
+{"index": 232481, "D": "of or relating to the apostle Peter or the Epistles bearing his name.", "S": [], "A": []}

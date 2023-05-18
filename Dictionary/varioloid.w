@@ -1,0 +1,1 @@
+{"index": 357275, "D": "resembling smallpox.", "S": [], "A": []}

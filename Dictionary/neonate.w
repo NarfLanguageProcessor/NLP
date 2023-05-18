@@ -1,0 +1,1 @@
+{"index": 198408, "D": "a newborn child, or one in its first 28 days.", "S": ["babe ", "bairn ", "bambino ", "bundle ", "buttercup ", "button ", "cherub ", "chick ", "child ", "crawler ", "deduction ", "dividend ", "dumpling ", "infant ", "kid ", "newborn ", "nipper ", "nursling ", "papoose ", "preemie ", "suckling ", "tad ", "toddler ", "tot ", "youngster "], "A": ["adult "]}

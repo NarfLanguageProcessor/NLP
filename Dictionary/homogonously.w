@@ -1,0 +1,1 @@
+{"index": 143107, "D": "pertaining to monoclinous flowers that do not differ in the relative length of stamens and pistils (opposed to heterogonous).", "S": [], "A": []}

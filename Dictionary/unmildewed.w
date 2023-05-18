@@ -1,0 +1,1 @@
+{"index": 346338, "D": "a disease of plants, characterized by a cottony, usually whitish coating on the surface of affected parts, caused by any of various fungi.", "S": [], "A": []}

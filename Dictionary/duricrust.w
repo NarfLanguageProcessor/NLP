@@ -1,0 +1,1 @@
+{"index": 94454, "D": "Compare caliche, hardpan (defs. 1, 2). ", "S": [], "A": []}

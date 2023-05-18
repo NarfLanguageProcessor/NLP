@@ -1,0 +1,1 @@
+{"index": 103271, "D": "to balance equally; keep in equipoise or equilibrium. ", "S": [], "A": []}

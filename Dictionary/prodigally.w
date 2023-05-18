@@ -1,0 +1,1 @@
+{"index": 251532, "D": "wastefully or recklessly extravagant", "S": ["abundantly ", "amply ", "freely ", "handsomely ", "lavishly ", "liberally "], "A": ["poorly "]}

@@ -1,0 +1,1 @@
+{"index": 162045, "D": "to vibrate violently", "S": ["fluctuation ", "oscillation ", "pulse ", "reverberation ", "tremor "], "A": ["stillness "]}

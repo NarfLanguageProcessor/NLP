@@ -1,0 +1,1 @@
+{"index": 12500, "D": "affected with anemia;  having a deficiency of the hemoglobin, often accompanied by a reduced number of red blood cells.", "S": ["feeble ", "frail ", "sickly "], "A": ["healthy ", "hearty ", "strong "]}

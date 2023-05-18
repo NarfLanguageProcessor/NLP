@@ -1,0 +1,1 @@
+{"index": 167573, "D": "to beat or whip severely.", "S": ["bawling-out ", "castigation ", "chiding ", "reprimand ", "reproach ", "tongue-lashing ", "upbraiding "], "A": []}

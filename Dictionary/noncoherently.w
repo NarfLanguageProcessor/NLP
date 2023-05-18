@@ -1,0 +1,1 @@
+{"index": 202029, "D": "in a clear and logically connected, consistent, intelligible way; in a way that makes sense", "S": [], "A": []}

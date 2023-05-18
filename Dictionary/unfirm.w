@@ -1,0 +1,1 @@
+{"index": 342291, "D": [], "S": ["broken-down ", "crumbling ", "decrepit ", "derelict ", "dilapidated ", "flimsy ", "rickety ", "shabby "], "A": ["solid ", "sound ", "sturdy "]}

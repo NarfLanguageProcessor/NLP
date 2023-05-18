@@ -1,0 +1,1 @@
+{"index": 266607, "D": "to change or rearrange in a new or different way, especially by the use of techniques not always considered ethical.", "S": [], "A": []}

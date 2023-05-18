@@ -1,0 +1,1 @@
+{"index": 361077, "D": "of or relating to a volcano", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 319007, "D": "a muscle that stretches or tightens some part of the body.", "S": [], "A": []}

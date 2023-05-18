@@ -1,0 +1,1 @@
+{"index": 338408, "D": "to overcome with fear; intimidate", "S": [], "A": []}

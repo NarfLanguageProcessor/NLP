@@ -1,0 +1,1 @@
+{"index": 91334, "D": "a veil formerly worn by women during divine service.", "S": [], "A": []}

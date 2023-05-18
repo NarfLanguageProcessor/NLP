@@ -1,0 +1,1 @@
+{"index": 108687, "D": "developing outside the sheath, as the young shoots of certain grasses.", "S": [], "A": []}

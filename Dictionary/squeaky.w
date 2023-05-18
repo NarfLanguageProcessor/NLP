@@ -1,0 +1,1 @@
+{"index": 301846, "D": "squeaking;  tending to squeak", "S": ["falsetto ", "strident ", "stridulate ", "stridulous "], "A": []}

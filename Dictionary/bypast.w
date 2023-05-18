@@ -1,0 +1,1 @@
+{"index": 34637, "D": "bygone; earlier; former; past.", "S": ["earlier ", "early ", "late ", "old ", "preceding ", "previous ", "prior ", "recent "], "A": ["after ", "current ", "future ", "later ", "on time ", "modern ", "new "]}

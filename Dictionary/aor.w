@@ -1,0 +1,1 @@
+{"index": 16574, "D": "angle of reflection. ", "S": [], "A": []}

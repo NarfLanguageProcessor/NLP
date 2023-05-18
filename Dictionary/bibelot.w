@@ -1,0 +1,1 @@
+{"index": 33218, "D": "a small object of curiosity, beauty, or rarity.", "S": ["bauble ", "curio ", "curiosity ", "gaud ", "gewgaw ", "gimcrack ", "knickknack ", "novelty ", "ornament ", "trifle ", "whatnot "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309517, "D": "to elevate in character; sublimate.", "S": ["cavil ", "chop logic ", "make a fine distinction ", "nitpick ", "pick nits ", "quibble ", "refine a distinction ", "sharpen a distinction "], "A": []}

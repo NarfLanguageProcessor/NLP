@@ -1,0 +1,1 @@
+{"index": 216851, "D": "to keep (several objects, as balls, plates, tenpins, or knives) in continuous motion in the air simultaneously by tossing and catching.", "S": [], "A": []}

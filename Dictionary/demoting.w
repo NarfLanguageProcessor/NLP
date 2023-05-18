@@ -1,0 +1,1 @@
+{"index": 80908, "D": "to reduce to a lower grade, rank, class, or position (opposed to promote)", "S": ["bump ", "dismiss ", "relegate "], "A": ["hold ", "keep ", "elevate ", "fix ", "increase ", "mend ", "raise ", "strengthen ", "upgrade "]}

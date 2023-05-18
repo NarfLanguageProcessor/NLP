@@ -1,0 +1,1 @@
+{"index": 359659, "D": [], "S": ["corsair ", "freebooter ", "pirate ", "rover ", "spoiler "], "A": []}

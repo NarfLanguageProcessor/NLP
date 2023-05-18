@@ -1,0 +1,1 @@
+{"index": 209536, "D": "without physical sensation or the ability to move", "S": [], "A": []}

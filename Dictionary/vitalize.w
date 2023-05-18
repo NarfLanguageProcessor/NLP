@@ -1,0 +1,1 @@
+{"index": 360516, "D": "to give life to; make vital. ", "S": ["enliven ", "invigorate ", "juice up ", "stimulate "], "A": ["bore ", "depress ", "dull ", "enervate ", "block ", "deaden ", "discourage ", "dissuade ", "halt ", "hurt ", "stop ", "weaken "]}

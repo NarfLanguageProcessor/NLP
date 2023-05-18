@@ -1,0 +1,1 @@
+{"index": 77489, "D": "to melt (steel) until killed.", "S": [], "A": []}

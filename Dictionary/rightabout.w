@@ -1,0 +1,1 @@
+{"index": 272808, "D": "the position assumed by turning about  to the right  so as to face in the opposite direction.", "S": ["angle ", "change ", "corner ", "curve ", "departure ", "direction ", "reversal ", "round ", "shift ", "spin ", "spiral ", "swing ", "trend ", "twist ", "wind "], "A": ["failure ", "inability ", "miss ", "stagnation "]}

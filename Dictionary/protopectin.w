@@ -1,0 +1,1 @@
+{"index": 253780, "D": "any of the class of water-insoluble pectic substances that are found in the rind of citrus fruits or in apple peels and that are hydrolyzed to pectin  or pectic acid.", "S": [], "A": []}

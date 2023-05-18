@@ -1,0 +1,1 @@
+{"index": 153633, "D": "to suggest or hint slyly", "S": ["allude ", "ascribe ", "connote ", "imply ", "impute ", "indicate ", "intimate ", "mention ", "propose ", "purport ", "refer ", "signify "], "A": ["conceal ", "hide ", "leave alone ", "withhold "]}

@@ -1,0 +1,1 @@
+{"index": 158391, "D": "without regard to something else, especially something specified; ignoring or discounting (usually followed by of)", "S": ["heedless ", "inattentive ", "regardless "], "A": ["careful ", "respectful ", "thoughtful ", "attentive ", "cautious "]}

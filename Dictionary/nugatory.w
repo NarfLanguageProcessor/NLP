@@ -1,0 +1,1 @@
+{"index": 209444, "D": "of no real value; trifling; worthless.", "S": ["inadequate ", "inconsequential ", "insignificant ", "piddling ", "trifling ", "useless "], "A": []}

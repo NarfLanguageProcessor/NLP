@@ -1,0 +1,1 @@
+{"index": 57467, "D": "a concave plate of brass or bronze that produces a sharp, ringing sound when struck", "S": [], "A": []}

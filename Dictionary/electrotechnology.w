@@ -1,0 +1,1 @@
+{"index": 97287, "D": "the technological use of electric power", "S": [], "A": []}

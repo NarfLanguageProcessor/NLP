@@ -1,0 +1,1 @@
+{"index": 197428, "D": "causing sickness of the stomach; nauseous. ", "S": ["disgusting ", "revolting ", "sickening "], "A": ["delightful ", "nice ", "pleasant ", "pleasing "]}

@@ -1,0 +1,1 @@
+{"index": 367335, "D": "a person who buys and sells wool; wool  dealer.", "S": [], "A": []}

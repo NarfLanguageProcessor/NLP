@@ -1,0 +1,1 @@
+{"index": 69841, "D": "having a cortex. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 44365, "D": "a white, ductile divalent metallic element resembling tin, used in plating and in making certain alloys. Symbol", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 226855, "D": "a showy, vinelike plant, Clianthus puniceus, of New Zealand, having clusters of eight white-streaked, crimson flowers.", "S": [], "A": []}

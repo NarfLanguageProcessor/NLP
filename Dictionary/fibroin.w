@@ -1,0 +1,1 @@
+{"index": 112072, "D": "an indigestible protein that is a principal component of spider webs and silk.", "S": [], "A": []}

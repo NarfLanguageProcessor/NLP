@@ -1,0 +1,1 @@
+{"index": 338241, "D": "in a raw or unprepared state; unrefined or natural", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 304002, "D": "the technique of cutting solids, as stones, to specified forms and dimensions.", "S": [], "A": []}

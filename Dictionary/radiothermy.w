@@ -1,0 +1,1 @@
+{"index": 259811, "D": "therapy that utilizes the heat from a shortwave radio apparatus or diathermy machine.", "S": [], "A": []}

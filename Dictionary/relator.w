@@ -1,0 +1,1 @@
+{"index": 266770, "D": "a person who relates or tells; narrator.", "S": ["chronicler ", "narrator ", "poet ", "raconteur "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 228056, "D": "a grammatical number occurring in some languages for words in contexts where a few of their referents are described or referred to", "S": [], "A": []}

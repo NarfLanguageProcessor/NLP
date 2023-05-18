@@ -1,0 +1,1 @@
+{"index": 339305, "D": "low-lying vegetation or small trees growing beneath larger trees; underbrush.", "S": ["thicket "], "A": []}

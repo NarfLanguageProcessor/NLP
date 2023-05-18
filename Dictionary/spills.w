@@ -1,0 +1,1 @@
+{"index": 299818, "D": "to cause or allow to run or fall from a container, especially accidentally or wastefully", "S": ["discharge ", "dribble ", "empty ", "flow ", "overflow ", "pour ", "run out ", "scatter ", "spill over ", "splash ", "spray ", "sprinkle ", "squirt ", "stream "], "A": ["collect ", "gather "]}

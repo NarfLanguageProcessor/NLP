@@ -1,0 +1,1 @@
+{"index": 185294, "D": "a procedure, technique, or way of doing something, especially in accordance with a definite plan", "S": [], "A": []}

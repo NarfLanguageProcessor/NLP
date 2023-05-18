@@ -1,0 +1,1 @@
+{"index": 190722, "D": "a combining form meaning \u201cmucus\u201d or \u201cslime,\u201d used in the formation of compound words", "S": [], "A": []}

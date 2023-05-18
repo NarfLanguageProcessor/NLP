@@ -1,0 +1,1 @@
+{"index": 118702, "D": "the transportation of goods.", "S": ["shipment ", "shipping ", "transit ", "transportation "], "A": ["remain ", "stay "]}

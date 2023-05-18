@@ -1,0 +1,1 @@
+{"index": 111795, "D": "an evergreen shrub, Lyonia lucida, of the heath family, native to the southern U.S., having clusters of fragrant, white flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 327559, "D": "a hindrance or impediment to free action; restraint", "S": [], "A": []}

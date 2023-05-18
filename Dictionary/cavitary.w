@@ -1,0 +1,1 @@
+{"index": 50243, "D": "of, relating to, or characterized by a cavity  or cavities. ", "S": [], "A": []}

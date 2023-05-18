@@ -1,0 +1,1 @@
+{"index": 279600, "D": "scant in amount, quantity, etc.; barely sufficient.", "S": [], "A": []}

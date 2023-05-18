@@ -1,0 +1,1 @@
+{"index": 92447, "D": "dull; cheerless; lacking in spirit, brightness, etc.", "S": ["beige ", "brownish ", "drab ", "khaki "], "A": []}

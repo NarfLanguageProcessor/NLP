@@ -1,0 +1,1 @@
+{"index": 200012, "D": "complete darkness or blackness.", "S": [], "A": []}

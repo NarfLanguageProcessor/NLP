@@ -1,0 +1,1 @@
+{"index": 202713, "D": "to mislead by a false appearance or statement; delude", "S": [], "A": []}

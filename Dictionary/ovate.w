@@ -1,0 +1,1 @@
+{"index": 218049, "D": "egg-shaped. ", "S": ["egg-shaped ", "ellipsoidal ", "elliptic ", "elliptical ", "oblong ", "ooid ", "ovaloid ", "oviform ", "ovoid ", "ovoidal "], "A": []}

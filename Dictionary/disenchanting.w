@@ -1,0 +1,1 @@
+{"index": 87923, "D": "to rid of or free from enchantment, illusion, credulity, etc.; disillusion", "S": ["debunk ", "disillusion ", "enlighten "], "A": ["limit ", "restrain "]}

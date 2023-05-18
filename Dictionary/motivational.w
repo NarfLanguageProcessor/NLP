@@ -1,0 +1,1 @@
+{"index": 193999, "D": "of or relating to motivation,  a person's reason for acting in a certain way", "S": [], "A": []}

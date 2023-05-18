@@ -1,0 +1,1 @@
+{"index": 185317, "D": "an alien resident of an ancient Greek city who paid a tax for the right to live there.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 264540, "D": "to echo  back, as a sound.", "S": ["ape ", "ditto ", "echo ", "imitate ", "impersonate ", "mimic ", "mirror ", "parallel ", "parrot ", "react ", "rebound ", "recall ", "redouble ", "reflect ", "reiterate ", "repeat ", "reproduce ", "resemble ", "resound ", "respond ", "reverberate ", "ring ", "second ", "vibrate "], "A": ["differ ", "oppose ", "reverse "]}

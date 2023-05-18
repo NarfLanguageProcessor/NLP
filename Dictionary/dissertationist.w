@@ -1,0 +1,1 @@
+{"index": 89497, "D": "a written essay, treatise, or thesis, especially one written by a candidate for the degree of Doctor of Philosophy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 222432, "D": "a dull-yellow, crystalline antibiotic powder, C22H24N2O9, produced by Streptomyces rimosus, used chiefly in treating infections caused by streptococci, staphylococci, Gram-negative bacilli, rickettsiae, and certain protozoans and viruses.", "S": [], "A": []}

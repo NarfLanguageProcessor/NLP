@@ -1,0 +1,1 @@
+{"index": 177497, "D": "the science of magnetism. ", "S": [], "A": []}

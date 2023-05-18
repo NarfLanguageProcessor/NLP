@@ -1,0 +1,1 @@
+{"index": 306628, "D": "mode of building, construction, or organization; arrangement of parts, elements, or constituents", "S": ["architecture ", "arrangement ", "complex ", "construction ", "design ", "format ", "formation ", "framework ", "network ", "organization ", "system "], "A": ["disorganization "]}

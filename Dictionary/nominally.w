@@ -1,0 +1,1 @@
+{"index": 200885, "D": "by or as regards name; in name; ostensibly", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293367, "D": "one of a pair of long, slender runners made of wood, plastic, or metal used in gliding over snow.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 153212, "D": "not opportune; inappropriate; inconvenient; untimely or unseasonable", "S": [], "A": []}

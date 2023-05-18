@@ -1,0 +1,1 @@
+{"index": 59913, "D": "the clients or customers, as of a professional person or shop, considered collectively; a group or body of clients", "S": ["audience ", "constituency "], "A": ["management ", "ownership "]}

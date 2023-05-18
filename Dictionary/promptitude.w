@@ -1,0 +1,1 @@
+{"index": 252352, "D": "promptness. ", "S": ["cleverness ", "dexterity ", "quickness ", "sharpness ", "swiftness "], "A": ["slowing ", "slowness ", "sluggishness "]}

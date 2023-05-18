@@ -1,0 +1,1 @@
+{"index": 305027, "D": "of or relating to the school of philosophy founded by Zeno, who taught that people should be free from passion, unmoved by joy or grief, and submit without complaint to unavoidable necessity.", "S": [], "A": []}

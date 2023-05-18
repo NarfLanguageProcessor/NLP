@@ -1,0 +1,1 @@
+{"index": 273663, "D": "hemmed in, enclosed, or covered by rocks; rocky", "S": ["craggy ", "jagged ", "rough "], "A": ["even ", "smooth "]}

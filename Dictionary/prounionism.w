@@ -1,0 +1,1 @@
+{"index": 253993, "D": "the principle of union,  especially trade unionism. ", "S": [], "A": []}

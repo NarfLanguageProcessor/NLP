@@ -1,0 +1,1 @@
+{"index": 26691, "D": "a state of equilibrium or equipoise; equal distribution of weight, amount, etc.", "S": ["adjusting ", "atoning ", "balanced ", "settling "], "A": []}

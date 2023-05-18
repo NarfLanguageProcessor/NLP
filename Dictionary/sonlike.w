@@ -1,0 +1,1 @@
+{"index": 297252, "D": "a male child or person in relation to his parents.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 150739, "D": "The condition of not splitting open spontaneously at maturity to disperse contents. Used of plant structures such as seed pods. Compare  dehiscence.", "S": [], "A": []}

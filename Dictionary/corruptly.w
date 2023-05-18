@@ -1,0 +1,1 @@
+{"index": 69786, "D": "guilty of dishonest practices, as bribery; lacking integrity; crooked", "S": ["cruelly ", "viciously "], "A": ["decently ", "morally "]}

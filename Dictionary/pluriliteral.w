@@ -1,0 +1,1 @@
+{"index": 240590, "D": "(in Hebrew grammar) containing more than three letters in the root", "S": [], "A": []}

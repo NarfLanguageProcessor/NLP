@@ -1,0 +1,1 @@
+{"index": 237681, "D": "therapy by raising the body temperature, as by diathermy or by artificially inducing fever.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 196991, "D": "to subject to or treat with a narcotic;  stupefy.", "S": ["dazed ", "intoxicated ", "stoned ", "stupefied "], "A": []}

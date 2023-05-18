@@ -1,0 +1,1 @@
+{"index": 25740, "D": "the spinal column; spine.", "S": ["determination "], "A": ["indecision ", "irresolution ", "timidity ", "weakness "]}

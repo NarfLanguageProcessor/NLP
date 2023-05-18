@@ -1,0 +1,1 @@
+{"index": 237666, "D": "a pile or heap of wood or other combustible material.", "S": ["bonfire ", "fuel ", "heap ", "suttee "], "A": []}

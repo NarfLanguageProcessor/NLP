@@ -1,0 +1,1 @@
+{"index": 4892, "D": "a protein, secreted by certain jellyfish, that produces a blue light upon binding with calcium.", "S": [], "A": []}

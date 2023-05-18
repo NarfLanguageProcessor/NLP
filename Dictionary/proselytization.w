@@ -1,0 +1,1 @@
+{"index": 253067, "D": "to convert or attempt to convert as a proselyte;  recruit to a religion or other belief system.", "S": ["alteration ", "changeover ", "growth ", "modification ", "reconstruction ", "reorganization ", "switch ", "transformation "], "A": ["stagnation "]}

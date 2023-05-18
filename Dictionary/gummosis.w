@@ -1,0 +1,1 @@
+{"index": 131295, "D": "the abnormal production of excessive gum in certain trees, esp fruit trees, as a result of wounding, infection, adverse weather conditions, severe pruning, etc", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 206354, "D": "of or relating to the human soul or mind; mental. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 287189, "D": "a Bhakti sect devoted to Shiva.", "S": [], "A": []}

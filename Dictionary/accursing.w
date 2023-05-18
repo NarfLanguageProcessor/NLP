@@ -1,0 +1,1 @@
+{"index": 1844, "D": [], "S": ["anathemize ", "comminate ", "damn ", "excommunicate ", "execrate ", "imprecate ", "maledict "], "A": []}

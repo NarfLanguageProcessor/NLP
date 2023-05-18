@@ -1,0 +1,1 @@
+{"index": 81353, "D": "an artificial replacement of one or several of the teeth (partial denture ), or all of the teeth (full denture ) of either or both jaws; dental prosthesis.", "S": ["bridgework ", "dentition ", "fangs ", "ivories "], "A": []}

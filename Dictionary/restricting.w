@@ -1,0 +1,1 @@
+{"index": 270030, "D": "to confine or keep within limits, as of space, action, choice, intensity, or quantity.", "S": ["akin ", "alike ", "associative ", "cliquish ", "close ", "insular ", "like ", "narrow ", "related ", "reserved ", "restrictive ", "sectarian ", "unfriendly ", "unreceptive "], "A": ["friendly ", "open ", "welcoming "]}

@@ -1,0 +1,1 @@
+{"index": 132093, "D": "an inheritable disease, usually affecting only males but transmitted by women to their male children, characterized by loss or impairment of the normal clotting ability of blood so that a minor wound may result in fatal bleeding", "S": [], "A": []}

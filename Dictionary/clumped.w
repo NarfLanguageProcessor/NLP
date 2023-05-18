@@ -1,0 +1,1 @@
+{"index": 60686, "D": "a small, close group or cluster, especially of trees or other plants.", "S": ["braided ", "bunched ", "clustered ", "coiled ", "snarled ", "tangled "], "A": ["straight "]}

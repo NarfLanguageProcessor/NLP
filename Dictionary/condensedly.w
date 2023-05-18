@@ -1,0 +1,1 @@
+{"index": 65548, "D": "reduced in volume, area, length, or scope; shortened", "S": [], "A": []}

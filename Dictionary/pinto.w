@@ -1,0 +1,1 @@
+{"index": 237271, "D": "marked with spots of white and other colors; mottled; spotted", "S": ["bin ", "carton ", "case ", "chest ", "coffer ", "crate ", "sarcophagus "], "A": []}

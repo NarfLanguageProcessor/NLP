@@ -1,0 +1,1 @@
+{"index": 272534, "D": "abundant and valuable possessions; wealth.", "S": ["abundance ", "richness ", "treasure ", "wealth "], "A": ["lack ", "poverty "]}

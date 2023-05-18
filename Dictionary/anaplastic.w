@@ -1,0 +1,1 @@
+{"index": 11921, "D": "(of cells) having reverted to a more primitive form.", "S": [], "A": []}

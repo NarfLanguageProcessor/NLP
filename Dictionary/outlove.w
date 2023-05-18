@@ -1,0 +1,1 @@
+{"index": 216967, "D": "a profoundly tender, passionate affection for another person.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 228563, "D": "sinning; guilty of a moral offense.", "S": ["corruption ", "crime ", "deviltry ", "evil ", "evilness ", "immorality ", "iniquity ", "misdeed ", "nefariousness ", "sin ", "sinfulness ", "villainy ", "wickedness ", "wrong ", "wrongdoing "], "A": ["good ", "good deed ", "goodness ", "kindness ", "morality ", "virtue "]}

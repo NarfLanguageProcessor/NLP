@@ -1,0 +1,1 @@
+{"index": 59995, "D": "to go up or ascend, especially by using the hands and feet or feet only", "S": ["ascending ", "mounting ", "moving up ", "rising ", "soaring "], "A": []}

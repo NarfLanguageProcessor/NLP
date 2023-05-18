@@ -1,0 +1,1 @@
+{"index": 260516, "D": "sexually aroused; lustful; lecherous.", "S": ["disorderly ", "lascivious ", "lecherous ", "lewd ", "libertine ", "licentious ", "lustful ", "uninhibited "], "A": []}

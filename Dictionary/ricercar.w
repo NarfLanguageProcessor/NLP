@@ -1,0 +1,1 @@
+{"index": 272513, "D": "a chiefly polyphonic instrumental form of the 16th and 17th centuries closely resembling the vocal motet in structure and style.", "S": [], "A": []}

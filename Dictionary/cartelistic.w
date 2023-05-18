@@ -1,0 +1,1 @@
+{"index": 48600, "D": "a member of a cartel  or an advocate of cartelization.", "S": [], "A": []}

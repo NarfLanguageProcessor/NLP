@@ -1,0 +1,1 @@
+{"index": 114522, "D": "the act of flexing  or bending.", "S": ["corner ", "edge ", "intersection ", "slant ", "twist "], "A": []}

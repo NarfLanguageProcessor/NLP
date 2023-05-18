@@ -1,0 +1,1 @@
+{"index": 158022, "D": "of, relating to, or characteristic of Ireland,  its inhabitants, or their language.", "S": [], "A": []}

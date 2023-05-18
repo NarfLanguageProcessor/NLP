@@ -1,0 +1,1 @@
+{"index": 248267, "D": "a preliminary to an action, event, condition, or work of broader scope and higher importance.", "S": [], "A": []}

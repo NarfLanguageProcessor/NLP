@@ -1,0 +1,1 @@
+{"index": 253178, "D": "a study of a collection of persons or characters, especially their appearances, careers, personalities, etc., within a historical, literary, or social context.", "S": [], "A": []}

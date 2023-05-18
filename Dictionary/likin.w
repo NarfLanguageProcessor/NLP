@@ -1,0 +1,1 @@
+{"index": 172208, "D": "(formerly in China) a provincial duty imposed on articles of trade that are in transit.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 132412, "D": "a pleasure ride  or outing, usually at night, by a group in an open wagon or truck partly filled with hay. ", "S": [], "A": []}

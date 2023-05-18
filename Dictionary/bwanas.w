@@ -1,0 +1,1 @@
+{"index": 43826, "D": "(in Africa) master; boss.", "S": [], "A": []}

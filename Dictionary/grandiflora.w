@@ -1,0 +1,1 @@
+{"index": 128839, "D": "any of several plant varieties or hybrids characterized by large showy flowers, as certain kinds of petunias, baby's breath, or roses.", "S": [], "A": []}

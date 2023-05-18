@@ -1,0 +1,1 @@
+{"index": 158252, "D": "without symmetry, even shape, formal arrangement, etc.", "S": ["capricious ", "erratic ", "intermittent ", "jerky ", "sporadic ", "uneven ", "unreliable "], "A": ["constant ", "continuous ", "dependable ", "regular ", "reliable ", "smooth ", "steady ", "normal "]}

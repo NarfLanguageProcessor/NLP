@@ -1,0 +1,1 @@
+{"index": 232676, "D": "picofarad; picofarads.", "S": [], "A": []}

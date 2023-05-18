@@ -1,0 +1,1 @@
+{"index": 149957, "D": "to deviate from the vertical or horizontal; slant.", "S": ["acclivity ", "approach ", "ascent ", "cant ", "declivity ", "descent ", "dip ", "grade ", "gradient ", "inclination ", "lean ", "leaning ", "plane ", "ramp ", "rise ", "slant ", "tilt "], "A": ["decline ", "downgrade ", "fall "]}

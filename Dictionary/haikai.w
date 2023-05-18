@@ -1,0 +1,1 @@
+{"index": 132319, "D": "an informal type of linked verse originated by Bash\u014d, a 17th-century Japanese poet.", "S": [], "A": []}

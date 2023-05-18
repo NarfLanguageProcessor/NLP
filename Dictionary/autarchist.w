@@ -1,0 +1,1 @@
+{"index": 23759, "D": "absolute sovereignty.", "S": [], "A": []}

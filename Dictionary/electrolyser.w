@@ -1,0 +1,1 @@
+{"index": 97096, "D": "a system or device that uses electricity to split water molecules into hydrogen and oxygen, thereby producing hydrogen gas as a sustainable source of clean energy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 8557, "D": "a white powder, C4H6N4O3, produced by oxidation of uric acid and the major excretory product of purine degradation in many vertebrates", "S": [], "A": []}

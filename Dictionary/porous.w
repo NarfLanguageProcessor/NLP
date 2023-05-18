@@ -1,0 +1,1 @@
+{"index": 243506, "D": "full of pores. ", "S": ["absorptive ", "penetrable ", "permeable ", "pervious ", "spongelike ", "spongy "], "A": ["impermeable "]}

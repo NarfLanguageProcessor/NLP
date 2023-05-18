@@ -1,0 +1,1 @@
+{"index": 303437, "D": "to make or become steeper. ", "S": [], "A": []}

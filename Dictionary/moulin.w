@@ -1,0 +1,1 @@
+{"index": 194181, "D": "a nearly vertical shaft or cavity worn in a glacier by surface water falling through a crack in the ice.", "S": [], "A": []}

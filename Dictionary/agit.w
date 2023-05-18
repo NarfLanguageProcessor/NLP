@@ -1,0 +1,1 @@
+{"index": 6211, "D": "(in prescriptions) shake, stir.", "S": [], "A": []}

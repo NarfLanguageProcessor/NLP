@@ -1,0 +1,1 @@
+{"index": 189962, "D": "to represent  incorrectly, improperly, or falsely.", "S": ["confuse ", "cover up ", "disguise ", "distort ", "exaggerate ", "falsify ", "misinterpret ", "misstate ", "overstate ", "skew "], "A": ["leave alone ", "represent ", "reveal ", "straighten ", "uncover "]}

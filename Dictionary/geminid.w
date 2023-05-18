@@ -1,0 +1,1 @@
+{"index": 123314, "D": "a member of a shower of meteors (the Geminids) occurring annually around December 13", "S": [], "A": []}

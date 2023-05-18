@@ -1,0 +1,1 @@
+{"index": 228011, "D": "any of various kinds of footwear, as a wooden shoe, a shoe with a wooden sole, a chopine, etc., to protect the feet from mud or wetness.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 296679, "D": "a fumarole that gives off only sulfurous gases.", "S": [], "A": []}

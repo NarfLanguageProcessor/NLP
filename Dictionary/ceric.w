@@ -1,0 +1,1 @@
+{"index": 51486, "D": "containing cerium,  especially in the tetravalent state.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 119364, "D": "an action or opinion that is in reaction to a backlash.", "S": [], "A": []}

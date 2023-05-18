@@ -1,0 +1,1 @@
+{"index": 157934, "D": "a slender cutting instrument used in performing an iridectomy.", "S": [], "A": []}

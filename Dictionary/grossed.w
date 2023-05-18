@@ -1,0 +1,1 @@
+{"index": 130234, "D": "without deductions; total, as the amount of sales, salary, profit, etc., before taking deductions for expenses, taxes, or the like (opposed to net)", "S": ["before deductions ", "before tax "], "A": ["net ", "incomplete ", "part "]}

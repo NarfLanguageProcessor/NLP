@@ -1,0 +1,1 @@
+{"index": 217680, "D": "to remain silent or hold oneself aloof in a sullen, ill-humored, or offended mood", "S": [], "A": []}

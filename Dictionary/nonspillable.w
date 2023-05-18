@@ -1,0 +1,1 @@
+{"index": 207450, "D": "to cause or allow to run or fall from a container, especially accidentally or wastefully", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148569, "D": "the fact or quality of being temporary or short-lived", "S": ["conciseness ", "concision ", "condensation ", "crispness ", "curtness ", "economy ", "ephemerality ", "pithiness ", "pointedness ", "succinctness ", "terseness ", "transience ", "transitoriness "], "A": ["lengthiness ", "longevity ", "permanence "]}

@@ -1,0 +1,1 @@
+{"index": 150023, "D": "the quality or state of being incoherent. ", "S": ["incongruity ", "nonsense ", "unintelligibility "], "A": []}

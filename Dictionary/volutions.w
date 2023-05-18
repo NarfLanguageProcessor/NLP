@@ -1,0 +1,1 @@
+{"index": 361286, "D": "a spiral or twisted formation or object.", "S": ["involution ", "rotation ", "wheeling "], "A": []}

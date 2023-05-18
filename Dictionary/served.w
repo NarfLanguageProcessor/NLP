@@ -1,0 +1,1 @@
+{"index": 286431, "D": "to act as a servant. ", "S": ["apportioned ", "dealt ", "furnished ", "offered ", "prepared ", "provided ", "supplied "], "A": []}

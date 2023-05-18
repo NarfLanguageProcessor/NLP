@@ -1,0 +1,1 @@
+{"index": 312855, "D": "to take place or occur as something additional or extraneous (sometimes followed by on or upon).", "S": ["chase ", "displace ", "ensue ", "postdate ", "pursue ", "replace ", "result ", "succeed ", "supersede ", "supplant "], "A": ["precede ", "retreat ", "run away "]}

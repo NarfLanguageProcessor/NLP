@@ -1,0 +1,1 @@
+{"index": 81672, "D": "the act of moving something or someone into a strategic position or a position of readiness, or the condition of being in such a position", "S": ["distribution ", "formation "], "A": []}

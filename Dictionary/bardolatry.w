@@ -1,0 +1,1 @@
+{"index": 27884, "D": "great or excessive adoration of or reverence for William Shakespeare", "S": [], "A": []}

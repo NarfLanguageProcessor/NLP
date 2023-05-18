@@ -1,0 +1,1 @@
+{"index": 7145, "D": "a variant spelling of achene", "S": [], "A": []}

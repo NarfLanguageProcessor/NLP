@@ -1,0 +1,1 @@
+{"index": 152939, "D": "a slab of stone used in Chinese calligraphy and painting to grind dry ink and mix it with water.", "S": [], "A": []}

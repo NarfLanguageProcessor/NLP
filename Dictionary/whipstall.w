@@ -1,0 +1,1 @@
+{"index": 364950, "D": "a stall  during a vertical climb in which the nose of the airplane falls forward and downward in a whiplike movement.", "S": [], "A": []}

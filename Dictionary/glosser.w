@@ -1,0 +1,1 @@
+{"index": 126665, "D": "a person or thing that puts a gloss  or shine on something.", "S": [], "A": []}

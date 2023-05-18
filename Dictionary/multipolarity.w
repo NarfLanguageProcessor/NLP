@@ -1,0 +1,1 @@
+{"index": 195287, "D": "having several or many poles.", "S": [], "A": []}

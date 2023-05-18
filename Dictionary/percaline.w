@@ -1,0 +1,1 @@
+{"index": 230353, "D": "a fine, lightweight cotton fabric, usually finished with a gloss and dyed in one color, used especially for linings.", "S": [], "A": []}

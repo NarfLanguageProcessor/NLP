@@ -1,0 +1,1 @@
+{"index": 69277, "D": "with the corner  in front.", "S": ["catty-corner ", "crosswise ", "oblique ", "slanted "], "A": []}

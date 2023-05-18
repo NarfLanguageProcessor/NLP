@@ -1,0 +1,1 @@
+{"index": 330166, "D": "a small ornament, piece of jewelry, etc., usually of little value.", "S": [], "A": []}

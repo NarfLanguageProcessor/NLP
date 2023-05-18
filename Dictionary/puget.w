@@ -1,0 +1,1 @@
+{"index": 256115, "D": "Pierre (pj\u025br). 1620\u201394, French Baroque sculptor, best known for his Milo of Crotona (c. 1680)", "S": [], "A": []}

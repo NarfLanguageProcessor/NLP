@@ -1,0 +1,1 @@
+{"index": 136560, "D": "a figure in which a complex idea is expressed by two words connected by a copulative conjunction", "S": [], "A": []}

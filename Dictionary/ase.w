@@ -1,0 +1,1 @@
+{"index": 21066, "D": "American Stock Exchange. ", "S": [], "A": []}

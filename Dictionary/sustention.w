@@ -1,0 +1,1 @@
+{"index": 313810, "D": "the act of sustaining.", "S": ["care ", "conservation ", "preservation ", "supply ", "upkeep "], "A": ["destruction ", "neglect ", "negligence ", "end ", "entertainment ", "finish ", "fun ", "stop "]}

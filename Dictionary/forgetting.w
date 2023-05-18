@@ -1,0 +1,1 @@
+{"index": 117234, "D": "to cease or fail to remember; be unable to recall", "S": ["blind ", "deaf ", "inattentive ", "unconcerned ", "unfamiliar ", "uninformed "], "A": ["attentive ", "aware "]}

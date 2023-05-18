@@ -1,0 +1,1 @@
+{"index": 314023, "D": "the simple past tense of swim. ", "S": ["bathe ", "crawl ", "dive ", "float ", "glide ", "paddle ", "submerge ", "wade "], "A": ["stop "]}

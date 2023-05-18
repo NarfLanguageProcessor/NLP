@@ -1,0 +1,1 @@
+{"index": 332717, "D": "a small shoot, as of asparagus or certain aquatic plants, from which a new plant can develop.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 72982, "D": "the study of crime and criminals", "S": [], "A": []}

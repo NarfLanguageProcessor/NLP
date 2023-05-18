@@ -1,0 +1,1 @@
+{"index": 221265, "D": "excessive specialization, as in a field of study.", "S": [], "A": []}

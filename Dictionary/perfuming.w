@@ -1,0 +1,1 @@
+{"index": 230694, "D": "a substance, extract, or preparation for diffusing or imparting an agreeable or attractive smell, especially a fluid containing fragrant natural oils extracted from flowers, woods, etc., or similar synthetic oils.", "S": ["perfume ", "scent ", "sweeten "], "A": []}

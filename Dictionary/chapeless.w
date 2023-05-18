@@ -1,0 +1,1 @@
+{"index": 52609, "D": "the lowermost terminal mount of a scabbard.", "S": [], "A": []}

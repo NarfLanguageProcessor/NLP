@@ -1,0 +1,1 @@
+{"index": 64346, "D": "the act of compacting  or the state of being compacted. ", "S": [], "A": []}

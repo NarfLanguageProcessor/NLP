@@ -1,0 +1,1 @@
+{"index": 74939, "D": "a wide sash worn at the waist, especially a horizontally pleated one worn with a tuxedo.", "S": ["ribbon ", "ring ", "strap ", "string "], "A": []}

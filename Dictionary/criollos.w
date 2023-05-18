@@ -1,0 +1,1 @@
+{"index": 73109, "D": "Compare Creole (def. 1). ", "S": [], "A": []}

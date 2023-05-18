@@ -1,0 +1,1 @@
+{"index": 260549, "D": "a M\u0101ori chief of either sex", "S": [], "A": []}

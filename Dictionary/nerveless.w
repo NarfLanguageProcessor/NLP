@@ -1,0 +1,1 @@
+{"index": 198737, "D": "without nervousness, as in emergencies; calm; collected.", "S": ["collected ", "composed ", "controlled ", "imperturbable ", "intrepid ", "patient ", "self-possessed ", "tranquil ", "unemotional "], "A": ["brave ", "courageous ", "disconcerted ", "nervous ", "nervy ", "unafraid "]}

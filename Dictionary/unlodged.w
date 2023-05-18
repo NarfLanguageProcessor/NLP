@@ -1,0 +1,1 @@
+{"index": 345753, "D": "(of a deer or the like) represented as lying down", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 89823, "D": "distinctive;  characteristic, as a definitive feature of an individual or group", "S": [], "A": []}

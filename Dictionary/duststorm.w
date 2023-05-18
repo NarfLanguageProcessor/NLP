@@ -1,0 +1,1 @@
+{"index": 94565, "D": "an occurrence of strong winds permeating the air with fine particles of dust over an extensive area of normally arable land during a period of drought", "S": ["sandstorm "], "A": []}

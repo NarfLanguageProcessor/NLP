@@ -1,0 +1,1 @@
+{"index": 89149, "D": "the predominant or prevailing tendency of one's spirits; natural mental and emotional outlook or mood; characteristic attitude", "S": ["complexion ", "frame of mind ", "habit ", "inclination ", "mood ", "personality ", "predisposition ", "propensity ", "temper ", "tendency ", "tone "], "A": ["disinclination ", "dislike ", "hate ", "hatred "]}

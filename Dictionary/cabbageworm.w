@@ -1,0 +1,1 @@
+{"index": 43888, "D": "a caterpillar, especially of the genus Pieris, that feeds on cabbages. ", "S": [], "A": []}

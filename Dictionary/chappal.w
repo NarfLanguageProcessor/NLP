@@ -1,0 +1,1 @@
+{"index": 52661, "D": "one of a pair of sandals, usually of leather, worn in India", "S": [], "A": []}

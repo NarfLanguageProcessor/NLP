@@ -1,0 +1,1 @@
+{"index": 332497, "D": "a large cask for holding liquids, especially wine, ale, or beer.", "S": ["cask ", "cylinder ", "drum ", "pipe "], "A": []}

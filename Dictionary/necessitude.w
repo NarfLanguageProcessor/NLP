@@ -1,0 +1,1 @@
+{"index": 197733, "D": "necessity. ", "S": ["case of emergency ", "case of need ", "emergency ", "exigency ", "grave affair ", "matter of necessity ", "urgency ", "vitalness "], "A": []}

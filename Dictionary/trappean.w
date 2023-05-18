@@ -1,0 +1,1 @@
+{"index": 328486, "D": "of, relating to, or consisting of igneous rock, esp a basalt", "S": [], "A": []}

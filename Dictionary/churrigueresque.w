@@ -1,0 +1,1 @@
+{"index": 56749, "D": "noting or pertaining to the baroque architecture of Spain and its colonies in the late 17th and early 18th centuries, characterized by fantastic and lavish detailing.", "S": [], "A": []}

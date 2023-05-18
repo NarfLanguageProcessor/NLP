@@ -1,0 +1,1 @@
+{"index": 283911, "D": "half or partly civilized. ", "S": [], "A": []}

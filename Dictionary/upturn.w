@@ -1,0 +1,1 @@
+{"index": 355199, "D": "to turn  up or over", "S": ["recovery ", "upswing "], "A": []}

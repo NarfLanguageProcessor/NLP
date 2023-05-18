@@ -1,0 +1,1 @@
+{"index": 247097, "D": "to divide and give out in shares; deal out; allot. ", "S": [], "A": []}

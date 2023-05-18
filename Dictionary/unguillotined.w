@@ -1,0 +1,1 @@
+{"index": 343379, "D": "a device for beheading a person by means of a heavy blade that is dropped between two posts serving as guides", "S": [], "A": []}

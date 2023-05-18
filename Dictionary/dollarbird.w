@@ -1,0 +1,1 @@
+{"index": 91140, "D": "a common roller, Eurystomus orientalis, of Asia and Australia, having on its wings a silvery spot the size of a dollar. ", "S": [], "A": []}

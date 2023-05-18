@@ -1,0 +1,1 @@
+{"index": 209177, "D": "a person who is new to the circumstances, work, etc., in which they are placed; beginner; tyro", "S": ["beginner ", "learner ", "neophyte ", "newcomer ", "pupil ", "trainee "], "A": ["expert ", "professional ", "teacher "]}

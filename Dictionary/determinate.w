@@ -1,0 +1,1 @@
+{"index": 83162, "D": "having defined limits; definite.", "S": ["certain ", "decided ", "decisive ", "determined ", "determining ", "distinct ", "final ", "firm ", "fixed ", "intent ", "known ", "limited ", "settled "], "A": []}

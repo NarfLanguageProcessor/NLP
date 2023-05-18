@@ -1,0 +1,1 @@
+{"index": 330082, "D": "occurring, taking place, done, or acted upon every three months.", "S": [], "A": []}

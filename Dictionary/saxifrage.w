@@ -1,0 +1,1 @@
+{"index": 279234, "D": "any plant of the genus Saxifraga, certain species of which grow wild in the clefts of rocks, other species of which are cultivated for their flowers.", "S": [], "A": []}

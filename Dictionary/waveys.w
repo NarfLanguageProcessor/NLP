@@ -1,0 +1,1 @@
+{"index": 363343, "D": "a wild North American goose of the genus Chen, as the snow goose (white wavey ) or blue goose (blue wavey ).", "S": [], "A": []}

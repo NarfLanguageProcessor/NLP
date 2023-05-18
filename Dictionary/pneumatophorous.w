@@ -1,0 +1,1 @@
+{"index": 240769, "D": "a specialized structure developed from the root in certain plants growing in swamps and marshes, serving as a respiratory organ.", "S": [], "A": []}

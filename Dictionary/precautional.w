@@ -1,0 +1,1 @@
+{"index": 245954, "D": "of, relating to, or characterized by precaution", "S": [], "A": []}

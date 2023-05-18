@@ -1,0 +1,1 @@
+{"index": 174878, "D": "a person who is or prefers to be alone, especially one who avoids the company of others", "S": ["hermit ", "outsider "], "A": []}

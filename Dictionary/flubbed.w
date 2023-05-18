@@ -1,0 +1,1 @@
+{"index": 115224, "D": "to perform poorly; blunder; bungle", "S": ["flawed ", "impaired ", "injured ", "run-down "], "A": ["healthy "]}

@@ -1,0 +1,1 @@
+{"index": 36798, "D": "a bristly weed, Echium vulgare, of the borage family, having showy blue  flowers, a native of Europe naturalized in the U.S.", "S": [], "A": []}

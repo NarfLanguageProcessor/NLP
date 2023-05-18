@@ -1,0 +1,1 @@
+{"index": 158690, "D": "the religious faith of Muslims, based on the words and religious system founded by the prophet Muhammad and taught by the Quran, the basic principle of which is absolute submission to a unique and personal god, Allah.", "S": [], "A": []}

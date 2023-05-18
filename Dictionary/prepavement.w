@@ -1,0 +1,1 @@
+{"index": 248781, "D": "a paved  road, highway, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351079, "D": "trembling or quivering with fear, dread, cold, etc.", "S": [], "A": []}

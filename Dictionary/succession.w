@@ -1,0 +1,1 @@
+{"index": 309814, "D": "the coming of one person or thing after another in order, sequence, or in the course of events", "S": ["sequence ", "series "], "A": ["interruption "]}

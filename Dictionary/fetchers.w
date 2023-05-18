@@ -1,0 +1,1 @@
+{"index": 111730, "D": "to go and bring back; return with; get", "S": [], "A": []}

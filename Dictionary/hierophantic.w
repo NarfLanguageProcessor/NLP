@@ -1,0 +1,1 @@
+{"index": 139177, "D": "(in ancient Greece) an official expounder of rites of worship and sacrifice.", "S": [], "A": []}

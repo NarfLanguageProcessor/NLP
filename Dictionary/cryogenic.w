@@ -1,0 +1,1 @@
+{"index": 73097, "D": "of or relating to the production or use of very low temperatures", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 241014, "D": "to move or travel in a leisurely manner; amble", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 184286, "D": "any hadron, or strongly interacting particle, other than a baryon. Mesons are bosons, having spins of 0, 1, 2, \u2026, and, unlike baryons, do not obey a conservation law.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 9563, "D": "a cloud of a class characterized by a generally uniform gray sheet or layer, lighter in color than nimbostratus and darker than cirrostratus", "S": [], "A": []}

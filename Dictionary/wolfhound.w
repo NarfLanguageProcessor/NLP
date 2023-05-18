@@ -1,0 +1,1 @@
+{"index": 366907, "D": "any of several large dogs used in hunting wolves. ", "S": [], "A": []}

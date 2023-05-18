@@ -1,0 +1,1 @@
+{"index": 314474, "D": "a variety of chicken pox.", "S": [], "A": []}

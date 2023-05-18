@@ -1,0 +1,1 @@
+{"index": 214204, "D": "to invest with ministerial, priestly, or rabbinical functions.", "S": ["anoint ", "appoint ", "bless ", "consecrate ", "elect ", "enact ", "nominate "], "A": ["ignore ", "refuse ", "veto ", "conceal ", "deny ", "disorganize ", "halt ", "keep ", "neglect ", "prevent ", "receive ", "stop "]}

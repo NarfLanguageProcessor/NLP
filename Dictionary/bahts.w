@@ -1,0 +1,1 @@
+{"index": 26401, "D": "a paper money and monetary unit of Thailand, equal to 100 satangs.", "S": [], "A": []}

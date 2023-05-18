@@ -1,0 +1,1 @@
+{"index": 288217, "D": "a person or thing that shifts. ", "S": [], "A": []}

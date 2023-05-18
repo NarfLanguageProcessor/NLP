@@ -1,0 +1,1 @@
+{"index": 252717, "D": "presenting favorable conditions; favorable", "S": ["gracefully "], "A": ["unhappily ", "unluckily ", "unsuccessfully "]}

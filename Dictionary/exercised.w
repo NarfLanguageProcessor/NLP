@@ -1,0 +1,1 @@
+{"index": 107055, "D": "bodily or mental exertion, especially for the sake of training or improvement of health", "S": ["enforced ", "practiced ", "tested "], "A": []}

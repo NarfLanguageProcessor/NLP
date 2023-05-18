@@ -1,0 +1,1 @@
+{"index": 339097, "D": "a person who is expected to lose in a contest or conflict.", "S": ["dark horse ", "longshot "], "A": ["favorite "]}

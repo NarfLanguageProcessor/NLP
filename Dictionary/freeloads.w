@@ -1,0 +1,1 @@
+{"index": 118628, "D": "to take advantage of others for free food, entertainment, etc.", "S": ["bum ", "cadge ", "chisel ", "leech ", "mooch ", "scrounge ", "sponge "], "A": []}

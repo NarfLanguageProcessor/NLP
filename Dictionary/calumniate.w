@@ -1,0 +1,1 @@
+{"index": 45483, "D": "to make false and malicious statements about; slander.", "S": ["accuse ", "asperse ", "blacken ", "blaspheme ", "libel ", "malign ", "revile ", "scandalize ", "slander ", "slur ", "smear ", "vilify "], "A": ["compliment ", "flatter ", "honor ", "laud ", "praise "]}

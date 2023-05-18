@@ -1,0 +1,1 @@
+{"index": 161821, "D": "a Chinese house idol or cult image.", "S": [], "A": []}

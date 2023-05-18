@@ -1,0 +1,1 @@
+{"index": 139042, "D": "an unstable, weakly basic, crystalline compound, NH3O, used as a reducing agent, analytical reagent, and chemical intermediate.", "S": [], "A": []}

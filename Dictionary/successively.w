@@ -1,0 +1,1 @@
+{"index": 309821, "D": "in uninterrupted sequence; one after another; consecutively", "S": ["aside ", "individually ", "respectively ", "separately "], "A": ["together "]}

@@ -1,0 +1,1 @@
+{"index": 180301, "D": "a person who mars  or defeats a plot,  design, or project by meddling.", "S": ["cold water ", "damper ", "downer ", "drag ", "grinch ", "grouch ", "killjoy ", "malcontent ", "party pooper ", "poor sport ", "proser ", "sourpuss ", "spoilsport "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 119250, "D": "of or characteristic of a frog. ", "S": [], "A": []}

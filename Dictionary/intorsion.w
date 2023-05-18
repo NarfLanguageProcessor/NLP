@@ -1,0 +1,1 @@
+{"index": 156383, "D": "a twisting about an axis or fixed point, as of the stem of a plant.", "S": ["bias ", "exaggeration ", "lie ", "misinterpretation ", "misrepresentation ", "misstatement ", "misuse "], "A": ["beauty ", "clarity ", "perfection "]}

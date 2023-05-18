@@ -1,0 +1,1 @@
+{"index": 56014, "D": "made of or overlaid with gold and ivory, as certain objects made in ancient Greece.", "S": [], "A": []}

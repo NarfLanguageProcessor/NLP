@@ -1,0 +1,1 @@
+{"index": 180278, "D": "any bushy-tailed, stocky rodent of the genus Marmota, as the woodchuck.", "S": [], "A": []}

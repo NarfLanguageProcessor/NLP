@@ -1,0 +1,1 @@
+{"index": 357862, "D": "played at a fast tempo (used as a musical direction).", "S": [], "A": []}

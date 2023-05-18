@@ -1,0 +1,1 @@
+{"index": 231562, "D": [], "S": ["analyze ", "check ", "check out ", "comb ", "consider ", "dissect ", "explore ", "inspect ", "investigate ", "look over ", "peruse ", "pore over ", "probe ", "scan ", "sift ", "watch ", "weigh "], "A": ["forget ", "ignore ", "neglect ", "misunderstand "]}

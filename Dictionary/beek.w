@@ -1,0 +1,1 @@
+{"index": 30336, "D": "to bask or warm in the sunshine or before a fireplace, stove, or bonfire.", "S": [], "A": []}

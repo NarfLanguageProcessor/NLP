@@ -1,0 +1,1 @@
+{"index": 70871, "D": "an ion  in solution that associates itself with an ion  of opposite charge on the surface of a member of a solute.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 270672, "D": "to change in form, appearance, or structure; metamorphose. ", "S": [], "A": []}

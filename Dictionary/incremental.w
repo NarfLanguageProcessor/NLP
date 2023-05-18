@@ -1,0 +1,1 @@
+{"index": 150464, "D": "increasing or adding on, especially in a regular series", "S": ["additional ", "additive ", "cumulative "], "A": []}

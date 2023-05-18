@@ -1,0 +1,1 @@
+{"index": 150780, "D": "a cut, notch, or deep recess", "S": ["dent ", "depression ", "impression ", "imprint ", "notch "], "A": ["bulge "]}

@@ -1,0 +1,1 @@
+{"index": 160717, "D": "an ancient Canaanite city taken by David", "S": [], "A": []}

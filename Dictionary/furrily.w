@@ -1,0 +1,1 @@
+{"index": 120498, "D": "consisting of or resembling fur", "S": [], "A": []}

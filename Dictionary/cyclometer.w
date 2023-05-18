@@ -1,0 +1,1 @@
+{"index": 57171, "D": "an instrument that measures circular arcs.", "S": [], "A": []}

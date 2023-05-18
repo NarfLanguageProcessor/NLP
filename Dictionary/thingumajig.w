@@ -1,0 +1,1 @@
+{"index": 321888, "D": "a gadget or other thing for which the speaker does not know or has forgotten the name.", "S": [], "A": []}

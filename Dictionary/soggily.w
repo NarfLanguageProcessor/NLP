@@ -1,0 +1,1 @@
+{"index": 296399, "D": "soaked; thoroughly wet; sodden.", "S": [], "A": []}

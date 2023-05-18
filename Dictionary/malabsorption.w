@@ -1,0 +1,1 @@
+{"index": 178144, "D": "faulty absorption  of nutritive material from the intestine.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 169810, "D": "given to or characterized by lechery;  lustful.", "S": ["carnal ", "concupiscent ", "corrupt ", "fast ", "hot and heavy ", "incontinent ", "lascivious ", "libertine ", "libidinous ", "licentious ", "low-down ", "lubricous ", "prurient ", "raunchy ", "salacious ", "satyric ", "sensual ", "unchaste ", "wanton "], "A": ["chaste ", "clean "]}

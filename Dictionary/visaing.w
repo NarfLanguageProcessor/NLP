@@ -1,0 +1,1 @@
+{"index": 360298, "D": "an endorsement issued by an authorized representative of a country and marked in a passport, permitting the passport holder to enter, travel through, or reside in that country for a specified amount of time, for the purpose of tourism, education, employment, etc.", "S": [], "A": []}

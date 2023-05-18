@@ -1,0 +1,1 @@
+{"index": 369868, "D": "any of the individuals of a compound organism.", "S": [], "A": []}

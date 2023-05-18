@@ -1,0 +1,1 @@
+{"index": 276998, "D": "a person  who sells goods, services, etc.", "S": ["clerk "], "A": ["customer "]}

@@ -1,0 +1,1 @@
+{"index": 179041, "D": "a Hindu or Jain temple", "S": [], "A": []}

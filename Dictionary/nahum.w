@@ -1,0 +1,1 @@
+{"index": 196550, "D": "a Minor Prophet  of the 7th century b.c.", "S": [], "A": []}

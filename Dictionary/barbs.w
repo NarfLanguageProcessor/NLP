@@ -1,0 +1,1 @@
+{"index": 27824, "D": "a point or pointed part projecting backward from a main point, as of a fishhook or arrowhead.", "S": ["arrow ", "dart "], "A": ["kindness ", "praise "]}

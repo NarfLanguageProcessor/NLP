@@ -1,0 +1,1 @@
+{"index": 114572, "D": "a sudden light blow or tap, as with a whip or the finger", "S": ["flip ", "snap ", "tap "], "A": []}

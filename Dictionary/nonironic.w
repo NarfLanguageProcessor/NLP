@@ -1,0 +1,1 @@
+{"index": 204891, "D": "using words to convey a meaning that is the opposite of its literal meaning; containing or exemplifying irony", "S": [], "A": []}

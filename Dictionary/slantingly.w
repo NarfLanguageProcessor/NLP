@@ -1,0 +1,1 @@
+{"index": 293665, "D": "to veer or angle away from a given level or line, especially from a horizontal; slope.", "S": ["obliquely ", "sidelong "], "A": []}

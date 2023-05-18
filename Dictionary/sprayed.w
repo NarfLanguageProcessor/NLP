@@ -1,0 +1,1 @@
+{"index": 301166, "D": "water or other liquid broken up into minute droplets and blown, ejected into, or falling through the air.", "S": ["bathed ", "doused ", "drenched ", "flooded ", "hosed ", "irrigated ", "quenched ", "showered ", "sprinkled ", "washed ", "wet ", "wetted "], "A": ["dry ", "thirsty "]}

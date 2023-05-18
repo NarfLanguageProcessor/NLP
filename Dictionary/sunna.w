@@ -1,0 +1,1 @@
+{"index": 311157, "D": "the traditional portion of Muslim law, based on the words and acts of Muhammad, and preserved in the traditional literature.", "S": [], "A": []}

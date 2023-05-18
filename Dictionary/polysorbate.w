@@ -1,0 +1,1 @@
+{"index": 242445, "D": "any of a class of emulsifying and dispersing agents used in various foods and pharmaceutical preparations.", "S": [], "A": []}

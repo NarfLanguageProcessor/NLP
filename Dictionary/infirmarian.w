@@ -1,0 +1,1 @@
+{"index": 152051, "D": "(in a religious house) a person who nurses the sick.", "S": [], "A": []}

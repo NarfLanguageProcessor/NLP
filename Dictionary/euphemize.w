@@ -1,0 +1,1 @@
+{"index": 105620, "D": "to refer to by means of euphemism. ", "S": ["back and fill ", "beat around the bush ", "beg the question ", "dance around ", "equivocate ", "fudge and mudge ", "hum and haw ", "mince words ", "shilly-shally ", "tapdance "], "A": []}

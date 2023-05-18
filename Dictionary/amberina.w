@@ -1,0 +1,1 @@
+{"index": 9962, "D": "an American art glass having transparent colors ranging from pale amber to ruby.", "S": [], "A": []}

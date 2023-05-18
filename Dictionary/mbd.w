@@ -1,0 +1,1 @@
+{"index": 181643, "D": "(of oil) million barrels per day.", "S": [], "A": []}

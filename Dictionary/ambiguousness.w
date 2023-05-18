@@ -1,0 +1,1 @@
+{"index": 9997, "D": "open to or having several possible meanings or interpretations; equivocal", "S": ["ambiguity ", "cloudiness ", "doubtfulness ", "equivocation ", "imprecision ", "inconclusiveness ", "murkiness ", "nebulousness ", "obscureness ", "obscurity ", "uncertainty ", "unclearness "], "A": []}

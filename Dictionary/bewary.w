@@ -1,0 +1,1 @@
+{"index": 32939, "D": [], "S": ["heed ", "take care "], "A": ["disregard ", "face ", "ignore ", "meet ", "neglect "]}

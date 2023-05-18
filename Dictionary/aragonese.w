@@ -1,0 +1,1 @@
+{"index": 18387, "D": "of Aragon, its people, or their language.", "S": [], "A": []}

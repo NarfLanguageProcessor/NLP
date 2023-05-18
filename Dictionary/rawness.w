@@ -1,0 +1,1 @@
+{"index": 261333, "D": "uncooked, as articles of food", "S": ["amateurishness ", "greenness ", "immaturity ", "ineptness ", "innocence "], "A": []}

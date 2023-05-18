@@ -1,0 +1,1 @@
+{"index": 215323, "D": "a suffix occurring in adjectives borrowed from Latin, meaning \u201cfull of,\u201d \u201cabounding in,\u201d \u201cgiven to,\u201d \u201clike\u201d", "S": [], "A": []}

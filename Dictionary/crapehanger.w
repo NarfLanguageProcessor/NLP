@@ -1,0 +1,1 @@
+{"index": 72167, "D": "a person who sees the gloomy side of things; pessimist.", "S": [], "A": []}

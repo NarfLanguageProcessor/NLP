@@ -1,0 +1,1 @@
+{"index": 152981, "D": "an indentation of a shoreline, usually long and narrow; small bay or arm.", "S": ["import ", "include ", "send ", "ship "], "A": ["erase ", "stop "]}

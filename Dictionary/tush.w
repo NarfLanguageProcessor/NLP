@@ -1,0 +1,1 @@
+{"index": 332990, "D": "(used as an exclamation of impatience, disdain, contempt, etc.)", "S": ["backside ", "behind ", "breech ", "bum ", "butt ", "buttock ", "buttocks ", "derriere ", "fanny ", "fundament ", "posterior ", "rear ", "rump ", "seat ", "tail "], "A": []}

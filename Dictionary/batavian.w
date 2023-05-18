@@ -1,0 +1,1 @@
+{"index": 28882, "D": "of or relating to Batavia (a former name for Holland or Jakarta) or its inhabitants", "S": [], "A": []}

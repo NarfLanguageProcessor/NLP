@@ -1,0 +1,1 @@
+{"index": 38800, "D": "any of various trees or shrubs of the myrtle family, especially of the genera Callistemon and Melaleuca, native to Australia and adjacent areas, having spikes of flowers with numerous conspicuous stamens.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 196581, "D": "a small file of metal or cardboard, for trimming, smoothing, or shaping the fingernails and sometimes having a point for removing dirt from under them.", "S": ["emery board ", "file "], "A": []}

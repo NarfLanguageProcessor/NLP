@@ -1,0 +1,1 @@
+{"index": 96748, "D": "a pancreatic protease that catalyzes the hydrolysis of elastin  and other related proteins to polypeptides and amino acids.", "S": [], "A": []}

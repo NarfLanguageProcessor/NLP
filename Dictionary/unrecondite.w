@@ -1,0 +1,1 @@
+{"index": 349218, "D": "dealing with very profound, difficult, or abstruse subject matter", "S": [], "A": []}

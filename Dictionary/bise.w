@@ -1,0 +1,1 @@
+{"index": 34964, "D": "a cold dry northerly wind in Switzerland and the neighbouring parts of France and Italy, usually in the spring", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 77174, "D": "a line  of text giving the place of origin and usually the date  of a news dispatch or the like.", "S": [], "A": []}

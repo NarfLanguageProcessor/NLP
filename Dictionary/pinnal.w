@@ -1,0 +1,1 @@
+{"index": 237147, "D": "one of the primary divisions of a pinnate leaf.", "S": [], "A": []}

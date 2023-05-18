@@ -1,0 +1,1 @@
+{"index": 243338, "D": "a supporter or adherent of populism.", "S": [], "A": []}

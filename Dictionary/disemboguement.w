@@ -1,0 +1,1 @@
+{"index": 87883, "D": "to discharge contents by pouring forth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 231659, "D": "a taking or receiving, as of the rents or profits of an estate.", "S": [], "A": []}

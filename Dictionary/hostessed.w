@@ -1,0 +1,1 @@
+{"index": 144215, "D": "a woman who receives and entertains guests in her own home or elsewhere.", "S": [], "A": []}

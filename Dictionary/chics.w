@@ -1,0 +1,1 @@
+{"index": 54193, "D": "attractive and fashionable; stylish", "S": ["fashion ", "style "], "A": []}

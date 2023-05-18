@@ -1,0 +1,1 @@
+{"index": 112550, "D": "any of various vegetable fibers, other than cotton, processed for manufacture into yarn.", "S": [], "A": []}

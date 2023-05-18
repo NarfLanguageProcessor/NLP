@@ -1,0 +1,1 @@
+{"index": 42560, "D": "a European finch, Pyrrhula pyrrhula, often kept as a pet, the male of which has a black, white, and bluish-gray back and a rosy breast.", "S": [], "A": []}

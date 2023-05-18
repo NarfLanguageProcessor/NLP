@@ -1,0 +1,1 @@
+{"index": 95122, "D": "pertaining to a church or its functions, teachings, or organization.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 219115, "D": [], "S": ["immature ", "incomplete ", "untimely "], "A": ["backward ", "careful ", "cautious ", "delayed ", "late ", "mature ", "overdue ", "prepared ", "slow "]}

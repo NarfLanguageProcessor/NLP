@@ -1,0 +1,1 @@
+{"index": 326532, "D": "to walk or go with faltering, unsteady steps", "S": [], "A": []}

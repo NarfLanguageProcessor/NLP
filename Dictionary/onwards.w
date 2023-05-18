@@ -1,0 +1,1 @@
+{"index": 212967, "D": "at or towards a point or position ahead, in advance, etc", "S": ["alee ", "along ", "forth ", "forward ", "in front ", "in front of ", "on ", "on ahead "], "A": ["backward ", "backwards "]}

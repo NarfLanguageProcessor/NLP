@@ -1,0 +1,1 @@
+{"index": 148694, "D": "(in South African history) a unit of Zulu warriors; regiment.", "S": [], "A": []}

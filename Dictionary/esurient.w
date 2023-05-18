@@ -1,0 +1,1 @@
+{"index": 104783, "D": "hungry; greedy", "S": ["devouring ", "gluttonous ", "greedy ", "hoggish ", "insatiable ", "rapacious ", "ravening ", "ravenous ", "unappeasable "], "A": []}

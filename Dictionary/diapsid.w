@@ -1,0 +1,1 @@
+{"index": 84477, "D": "(of reptiles) having two openings in the skull behind each eye, characteristic of the subclasses Lepidosauria and Archosauria, including all living reptiles except turtles.", "S": [], "A": []}

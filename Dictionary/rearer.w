@@ -1,0 +1,1 @@
+{"index": 261947, "D": "the back of something, as distinguished from the front", "S": ["behind ", "following ", "hind ", "hinder ", "last ", "mizzen ", "posterior ", "postern ", "rearward ", "reverse ", "stern ", "tail "], "A": ["first ", "front ", "preceding "]}

@@ -1,0 +1,1 @@
+{"index": 324430, "D": "an amine, C8H11NO, abundant in ripe cheese as a breakdown product of tyrosine by removal of the carboxyl group (COOH).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 238526, "D": "a paperboard sign or notice, as one posted in a public place or carried by a demonstrator or picketer.", "S": ["advertisement ", "banner ", "billboard ", "handbill ", "marquee ", "poster ", "signboard "], "A": []}

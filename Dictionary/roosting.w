@@ -1,0 +1,1 @@
+{"index": 274301, "D": "a perch upon which birds or fowls rest at night.", "S": ["locate ", "occupy ", "populate ", "possess ", "reside "], "A": ["lose ", "miss ", "depart ", "go ", "leave ", "move "]}

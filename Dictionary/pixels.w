@@ -1,0 +1,1 @@
+{"index": 238472, "D": "the smallest element of an image that can be individually processed in a video display system.", "S": ["component ", "constituent ", "dot ", "element "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 198481, "D": "the production of offspring by an organism in its larval or juvenile form; the elimination of the adult phase of the life cycle.", "S": [], "A": []}

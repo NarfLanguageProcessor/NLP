@@ -1,0 +1,1 @@
+{"index": 77074, "D": "a person or thing that dashes. ", "S": [], "A": []}

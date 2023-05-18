@@ -1,0 +1,1 @@
+{"index": 220739, "D": "having more education, training, or experience than is required for a job or position.", "S": [], "A": []}

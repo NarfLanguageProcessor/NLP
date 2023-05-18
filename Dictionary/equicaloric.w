@@ -1,0 +1,1 @@
+{"index": 103232, "D": "yielding equal amounts of energy in metabolism.", "S": [], "A": []}

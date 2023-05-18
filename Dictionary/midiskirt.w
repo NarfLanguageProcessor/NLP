@@ -1,0 +1,1 @@
+{"index": 186758, "D": "a skirt or skirt part, as of a dress or coat, ending at the middle of the calf.", "S": [], "A": []}

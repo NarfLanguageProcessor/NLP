@@ -1,0 +1,1 @@
+{"index": 291969, "D": "one of the authors (Matthew, Mark, or Luke) of the synoptic  Gospels.", "S": [], "A": []}

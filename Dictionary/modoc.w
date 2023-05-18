@@ -1,0 +1,1 @@
+{"index": 191164, "D": "a member of an American Indian people belonging to the Lutuamian group and ranging from southern Oregon to northern California.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 155912, "D": "noting or relating to a person, animal, or plant having reproductive organs, genitals, hormones, or chromosomal patterns that do not fall under typical definitions of male and female; intersexual", "S": [], "A": []}

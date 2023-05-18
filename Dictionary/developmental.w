@@ -1,0 +1,1 @@
+{"index": 83494, "D": "the act or process of developing;  growth; progress", "S": ["advancing ", "enlightening ", "enriching ", "expanding ", "improving ", "refining "], "A": []}

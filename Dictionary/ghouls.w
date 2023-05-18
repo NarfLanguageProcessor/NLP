@@ -1,0 +1,1 @@
+{"index": 124605, "D": "an evil demon, originally of Muslim legend, supposed to feed on human beings, and especially to rob graves, prey on corpses, etc.", "S": ["bogeyman ", "devil ", "fiend ", "monster "], "A": ["angel "]}

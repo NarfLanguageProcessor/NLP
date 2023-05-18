@@ -1,0 +1,1 @@
+{"index": 18188, "D": "an undersea explorer, especially one who skin-dives from or lives for an extended period of time in a submerged dwelling.", "S": [], "A": []}

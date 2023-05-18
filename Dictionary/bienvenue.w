@@ -1,0 +1,1 @@
+{"index": 33594, "D": "welcome (used when addressing or referring to a woman).", "S": [], "A": []}

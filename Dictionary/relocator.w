@@ -1,0 +1,1 @@
+{"index": 267040, "D": "a program designed to transfer files from one computer to another", "S": [], "A": []}

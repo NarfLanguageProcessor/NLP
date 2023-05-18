@@ -1,0 +1,1 @@
+{"index": 195299, "D": "the overlapped or interleaved execution of two or more programs  by a single CPU.", "S": [], "A": []}

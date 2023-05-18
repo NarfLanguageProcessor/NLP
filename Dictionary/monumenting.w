@@ -1,0 +1,1 @@
+{"index": 192967, "D": "something erected in memory of a person, event, etc., as a building, pillar, or statue", "S": ["celebrate ", "memorialize ", "observe ", "remember ", "salute "], "A": ["disregard ", "forget ", "ignore ", "overlook "]}

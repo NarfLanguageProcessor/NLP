@@ -1,0 +1,1 @@
+{"index": 231887, "D": "any of a shower of meteors appearing in August and radiating from a point in the constellation Perseus.", "S": [], "A": []}

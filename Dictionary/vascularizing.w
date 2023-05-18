@@ -1,0 +1,1 @@
+{"index": 357357, "D": "(of a tissue or embryo) to develop or extend blood vessels or other fluid-bearing vessels or ducts; become vascular. ", "S": [], "A": []}

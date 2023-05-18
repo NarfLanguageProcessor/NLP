@@ -1,0 +1,1 @@
+{"index": 336250, "D": "having a nap raised or a surface produced by a brushing  process", "S": [], "A": []}

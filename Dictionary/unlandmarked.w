@@ -1,0 +1,1 @@
+{"index": 345423, "D": "a prominent or conspicuous object on land that serves as a guide, especially to ships at sea or to travelers on a road; a distinguishing landscape feature marking a site or location", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 219218, "D": "to estimate  at too high a value, amount, rate, or the like", "S": ["baloney ", "excess ", "fabrication ", "falsehood ", "fantasy ", "hyperbole ", "misjudgment ", "misrepresentation ", "untruth "], "A": ["truth ", "compression ", "decrease ", "lessening ", "shrinkage "]}

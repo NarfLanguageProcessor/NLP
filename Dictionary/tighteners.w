@@ -1,0 +1,1 @@
+{"index": 323462, "D": "to make or become tight  or tighter. ", "S": [], "A": []}

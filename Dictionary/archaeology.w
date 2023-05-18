@@ -1,0 +1,1 @@
+{"index": 18672, "D": "the scientific study of historic or prehistoric peoples and their cultures by analysis of their artifacts, inscriptions, monuments, and other such remains, especially those that have been excavated.", "S": ["excavation ", "paleontology "], "A": []}

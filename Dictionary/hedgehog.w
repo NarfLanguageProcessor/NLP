@@ -1,0 +1,1 @@
+{"index": 135205, "D": "an Old World, insect-eating mammal of the genus Erinaceus, especially E. europaeus, having spiny hairs on the back and sides.", "S": [], "A": []}

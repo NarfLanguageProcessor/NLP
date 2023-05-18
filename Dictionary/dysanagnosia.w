@@ -1,0 +1,1 @@
+{"index": 87000, "D": "an inability to comprehend certain words.", "S": [], "A": []}

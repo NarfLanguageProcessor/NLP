@@ -1,0 +1,1 @@
+{"index": 126706, "D": "incomprehensible speech in an imaginary language, sometimes occurring in a trance state, an episode of religious ecstasy, or schizophrenia.", "S": [], "A": []}

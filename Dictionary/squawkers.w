@@ -1,0 +1,1 @@
+{"index": 301823, "D": "to utter a loud, harsh cry, as a duck or other fowl when frightened.", "S": [], "A": []}

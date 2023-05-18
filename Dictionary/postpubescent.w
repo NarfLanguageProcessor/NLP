@@ -1,0 +1,1 @@
+{"index": 244433, "D": "a young person in their early teens.", "S": [], "A": []}

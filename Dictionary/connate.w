@@ -1,0 +1,1 @@
+{"index": 66483, "D": "existing in a person or thing from birth or origin; inborn", "S": ["agnate ", "akin ", "cognate ", "consanguine ", "consanguineal ", "consanguineous ", "kin ", "kindred "], "A": []}

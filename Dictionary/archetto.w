@@ -1,0 +1,1 @@
+{"index": 18872, "D": "a tool, consisting of a bow strung with wire, for trimming excess material from a piece being modeled.", "S": [], "A": []}

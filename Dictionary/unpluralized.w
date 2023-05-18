@@ -1,0 +1,1 @@
+{"index": 348087, "D": "to express in the plural  form; make plural", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 73890, "D": "a crossword puzzle.", "S": [], "A": []}

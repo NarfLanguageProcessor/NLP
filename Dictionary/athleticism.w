@@ -1,0 +1,1 @@
+{"index": 22605, "D": "a high degree of natural talent, strength, or enthusiasm in physical sports or exercises", "S": [], "A": []}

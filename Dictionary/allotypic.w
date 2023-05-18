@@ -1,0 +1,1 @@
+{"index": 8969, "D": "a type specimen of the sex opposite to that of the holotype.", "S": [], "A": []}

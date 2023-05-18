@@ -1,0 +1,1 @@
+{"index": 307324, "D": "a military unit having its own headquarters and consisting of two or more regiments, squadrons, groups, or battalions.", "S": [], "A": []}

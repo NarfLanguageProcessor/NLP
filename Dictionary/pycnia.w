@@ -1,0 +1,1 @@
+{"index": 235953, "D": "a flask-shaped or conical sporangium of a rust fungus, which develops below the epidermis of the host and bears pycniospores.", "S": [], "A": []}

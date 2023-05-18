@@ -1,0 +1,1 @@
+{"index": 95287, "D": "to identify where something is located based on the time it takes an echo to return and the direction from which it returns, a specialized technique used by a number of animals, including dolphins and bats.", "S": [], "A": []}

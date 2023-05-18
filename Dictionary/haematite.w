@@ -1,0 +1,1 @@
+{"index": 132009, "D": "a variant spelling of hematite", "S": [], "A": []}

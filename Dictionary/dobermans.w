@@ -1,0 +1,1 @@
+{"index": 90555, "D": "one of a German breed of medium-sized, short-haired dogs having a black, brown, or blue coat with rusty brown markings.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 334295, "D": [], "S": ["gobs ", "heaps ", "horde ", "jillion ", "large numbers ", "mass ", "multitude ", "oodles ", "piles ", "plenty ", "scads ", "scores ", "thousands ", "throng ", "tons ", "umpteen ", "whole slew "], "A": ["few "]}

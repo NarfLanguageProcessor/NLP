@@ -1,0 +1,1 @@
+{"index": 85225, "D": "a colorless, hygroscopic, water-soluble liquid, C6H15NO, used for the synthesis of local anesthetics, in antirust compounds, and in photographic emulsions.", "S": [], "A": []}

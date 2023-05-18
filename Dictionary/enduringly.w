@@ -1,0 +1,1 @@
+{"index": 100102, "D": "lasting; permanent", "S": ["certainly ", "completely ", "decisively ", "definitely ", "permanently "], "A": ["doubtfully ", "dubiously ", "questionably "]}

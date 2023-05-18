@@ -1,0 +1,1 @@
+{"index": 165101, "D": "a woman's loose gown, worn in the Middle Ages.", "S": ["blouse ", "coat ", "jacket ", "robe "], "A": []}

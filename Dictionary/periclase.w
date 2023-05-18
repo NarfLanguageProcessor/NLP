@@ -1,0 +1,1 @@
+{"index": 230863, "D": "a cubic mineral, native magnesia, MgO, occurring usually in metamorphosed dolomite.", "S": [], "A": []}

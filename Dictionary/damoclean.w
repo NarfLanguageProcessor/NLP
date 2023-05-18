@@ -1,0 +1,1 @@
+{"index": 76603, "D": "a flatterer who, having extolled the happiness of Dionysius, tyrant of Syracuse, was seated at a banquet with a sword suspended over his head by a single hair to show him the perilous nature of that happiness.", "S": [], "A": []}

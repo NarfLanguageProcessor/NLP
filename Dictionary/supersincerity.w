@@ -1,0 +1,1 @@
+{"index": 312669, "D": "freedom from deceit, hypocrisy, or duplicity; honesty in intention or in communicating; earnestness. ", "S": [], "A": []}

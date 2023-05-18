@@ -1,0 +1,1 @@
+{"index": 115104, "D": "made of or resembling floss;  downy.", "S": ["creamy ", "feathery ", "gossamer ", "silky "], "A": ["coarse ", "rough ", "smooth "]}

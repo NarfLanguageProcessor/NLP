@@ -1,0 +1,1 @@
+{"index": 167894, "D": "a small surgical instrument, usually sharp-pointed and two-edged, for making small incisions, opening abscesses, etc.", "S": ["bayonet ", "blade ", "cutter ", "dagger ", "machete ", "scalpel ", "sickle ", "skewer ", "sword "], "A": []}

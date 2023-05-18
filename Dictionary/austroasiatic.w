@@ -1,0 +1,1 @@
+{"index": 23735, "D": "a family of languages spoken in SE Asia and the landsaround the Bay of Bengal and consisting principally of Vietnamese, Khmer, Mon, Khasi, Nicobarese, and the Munda languages.", "S": [], "A": []}

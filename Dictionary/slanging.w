@@ -1,0 +1,1 @@
+{"index": 293646, "D": "very informal usage in vocabulary and idiom that is characteristically more metaphorical, playful, elliptical, vivid, and ephemeral than ordinary language, as Hit the road.", "S": [], "A": []}

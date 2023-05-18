@@ -1,0 +1,1 @@
+{"index": 123705, "D": "the quality of being a gentile,  especially heathenism; paganism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 41622, "D": "to intimidate by overbearing looks or words; bully", "S": ["bulldozer ", "harasser ", "intimidator ", "ruffian ", "tormentor ", "tyrant "], "A": []}

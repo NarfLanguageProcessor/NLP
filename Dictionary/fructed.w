@@ -1,0 +1,1 @@
+{"index": 119531, "D": "(of a tree or other plant) represented as bearing fruit, seeds, or the like", "S": [], "A": []}

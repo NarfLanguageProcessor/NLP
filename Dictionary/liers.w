@@ -1,0 +1,1 @@
+{"index": 171868, "D": "a person or thing that lies,  as in wait or in ambush.", "S": [], "A": []}

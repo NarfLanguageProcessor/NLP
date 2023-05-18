@@ -1,0 +1,1 @@
+{"index": 139035, "D": "a chemical compound containing the hydroxyl group.", "S": [], "A": []}

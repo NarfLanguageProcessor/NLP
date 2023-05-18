@@ -1,0 +1,1 @@
+{"index": 10307, "D": "the act or process of conforming, or making something conform, to the values, customs, and institutions of the United States", "S": [], "A": []}

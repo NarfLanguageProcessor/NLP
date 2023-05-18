@@ -1,0 +1,1 @@
+{"index": 159297, "D": "a chemical compound containing the univalent radical \u2013NCS.", "S": [], "A": []}

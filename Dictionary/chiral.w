@@ -1,0 +1,1 @@
+{"index": 54725, "D": "(of a molecule) not superimposable on its mirror image.", "S": [], "A": []}

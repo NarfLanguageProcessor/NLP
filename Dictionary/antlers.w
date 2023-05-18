@@ -1,0 +1,1 @@
+{"index": 16443, "D": "one of the solid deciduous horns, usually branched, of an animal of the deer family.", "S": ["horn ", "knob ", "point ", "rack ", "spike "], "A": []}

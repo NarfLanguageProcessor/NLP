@@ -1,0 +1,1 @@
+{"index": 176428, "D": "to purify by a propitiatory offering or other ceremonial method.", "S": ["aperient ", "aperitive ", "emetic ", "expiatory ", "laxative ", "lustral ", "physic ", "purgatorial ", "purificatory "], "A": []}

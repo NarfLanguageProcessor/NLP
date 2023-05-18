@@ -1,0 +1,1 @@
+{"index": 117340, "D": "the capacity of a material, as sheet steel, to be readily bent, stamped, shaped, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 207293, "D": "a shifting of the normal accent, usually by stressing the normally unaccented beats.", "S": [], "A": []}

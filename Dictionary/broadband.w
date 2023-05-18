@@ -1,0 +1,1 @@
+{"index": 41047, "D": "Compare sharp (def. 23). ", "S": [], "A": []}

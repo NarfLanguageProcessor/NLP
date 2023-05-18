@@ -1,0 +1,1 @@
+{"index": 342402, "D": "capable of floating;  that can be floated. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 330432, "D": "pertaining to or having the form of a tripod. ", "S": [], "A": []}

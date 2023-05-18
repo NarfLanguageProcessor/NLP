@@ -1,0 +1,1 @@
+{"index": 221867, "D": "excessively or unusually wise", "S": [], "A": []}

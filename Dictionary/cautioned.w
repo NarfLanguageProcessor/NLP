@@ -1,0 +1,1 @@
+{"index": 50114, "D": "alertness and prudence in a hazardous situation; care; wariness", "S": ["advised ", "forewarned ", "notified ", "prodded ", "prompted "], "A": []}

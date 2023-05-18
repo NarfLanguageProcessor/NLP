@@ -1,0 +1,1 @@
+{"index": 277553, "D": "one of the six leading systems of Hindu philosophy, stressing the reality and duality of spirit and matter.", "S": [], "A": []}

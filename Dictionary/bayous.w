@@ -1,0 +1,1 @@
+{"index": 26520, "D": "a marshy arm, inlet, or outlet of a lake, river, etc., usually sluggish or stagnant.", "S": ["backwater "], "A": []}

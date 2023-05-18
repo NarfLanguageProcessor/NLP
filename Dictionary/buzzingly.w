@@ -1,0 +1,1 @@
+{"index": 43816, "D": "a low, vibrating, humming sound, as of bees, machinery, or people talking.", "S": [], "A": []}

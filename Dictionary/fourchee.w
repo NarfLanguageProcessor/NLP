@@ -1,0 +1,1 @@
+{"index": 117971, "D": "forked or divided into two at the extremity or in extremities", "S": [], "A": []}

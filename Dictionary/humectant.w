@@ -1,0 +1,1 @@
+{"index": 144939, "D": "a substance that absorbs or helps another substance retain moisture, as glycerol.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 80760, "D": "a person who specializes in the study of vital and social statistics, as the number of births, deaths, diseases, or marriages in a population", "S": [], "A": []}

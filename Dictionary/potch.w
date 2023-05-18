@@ -1,0 +1,1 @@
+{"index": 244645, "D": "inferior quality opal used in jewellery for mounting precious opals", "S": ["blip ", "blow ", "pat ", "punch ", "whack "], "A": []}

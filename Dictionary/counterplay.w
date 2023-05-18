@@ -1,0 +1,1 @@
+{"index": 70965, "D": "a dramatic composition or piece; drama. ", "S": ["attack ", "reprisal ", "retribution ", "vengeance "], "A": ["forgiveness ", "pardon ", "sympathy "]}

@@ -1,0 +1,1 @@
+{"index": 50189, "D": "a person who studies or explores caves. ", "S": [], "A": []}

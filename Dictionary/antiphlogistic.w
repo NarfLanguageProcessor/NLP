@@ -1,0 +1,1 @@
+{"index": 15855, "D": "acting against inflammation or fever.", "S": [], "A": []}

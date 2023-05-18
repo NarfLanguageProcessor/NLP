@@ -1,0 +1,1 @@
+{"index": 224636, "D": "a rivet or screw head  having the form of a truncated cone.", "S": [], "A": []}

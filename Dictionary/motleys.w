@@ -1,0 +1,1 @@
+{"index": 194020, "D": "exhibiting great diversity of elements", "S": ["patchwork "], "A": []}

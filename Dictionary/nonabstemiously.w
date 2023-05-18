@@ -1,0 +1,1 @@
+{"index": 200986, "D": "sparing or moderate in eating and drinking; temperate in diet.", "S": [], "A": []}

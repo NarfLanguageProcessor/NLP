@@ -1,0 +1,1 @@
+{"index": 9895, "D": "greatly surprised; astounded; suddenly filled with wonder", "S": ["agog ", "anxious ", "appalled ", "awestruck ", "dismayed ", "shocked ", "stunned "], "A": ["unsurprised "]}

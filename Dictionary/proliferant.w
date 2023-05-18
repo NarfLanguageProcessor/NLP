@@ -1,0 +1,1 @@
+{"index": 252116, "D": [], "S": ["breeding ", "fertile ", "fructiferous ", "fruitful ", "generating ", "pregnant ", "prolific ", "propagating ", "reproducing ", "rich ", "spawning ", "teeming "], "A": ["impotent ", "infertile ", "sterile ", "unfruitful ", "unproductive "]}

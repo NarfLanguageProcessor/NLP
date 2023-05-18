@@ -1,0 +1,1 @@
+{"index": 94764, "D": "either of a pair of often adjustable coverings for protecting the ears  in cold weather.", "S": [], "A": []}

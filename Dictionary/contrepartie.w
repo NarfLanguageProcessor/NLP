@@ -1,0 +1,1 @@
+{"index": 67758, "D": "(in buhlwork) an inlay composed of a design in tortoise shell on a background of brass.", "S": [], "A": []}

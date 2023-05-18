@@ -1,0 +1,1 @@
+{"index": 363553, "D": "full of weariness; fatigued; exhausted.", "S": [], "A": []}

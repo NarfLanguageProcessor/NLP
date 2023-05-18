@@ -1,0 +1,1 @@
+{"index": 135934, "D": "hemorrhage into a cavity, as the cavity surrounding the testis.", "S": [], "A": []}

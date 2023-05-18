@@ -1,0 +1,1 @@
+{"index": 38218, "D": "a person or thing that boosts, especially an energetic and enthusiastic supporter.", "S": ["backer ", "enthusiast ", "patron ", "promoter "], "A": ["detractor ", "opponent "]}

@@ -1,0 +1,1 @@
+{"index": 226200, "D": "a member of a military infantry unit trained to attack or land in combat areas by parachuting from airplanes.", "S": ["commando ", "fighter ", "guard ", "guerrilla ", "marine ", "mercenary ", "officer ", "pilot ", "trooper ", "veteran ", "volunteer "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205520, "D": "not utilizing nuclear power, nuclear  weapons, etc.", "S": [], "A": []}

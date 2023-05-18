@@ -1,0 +1,1 @@
+{"index": 11563, "D": "of or relating to the upper portion of the earth's atmosphere and to interplanetary space, where sound cannot be transmitted because molecules are too far apart to serve as a transmitting medium.", "S": [], "A": []}

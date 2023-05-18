@@ -1,0 +1,1 @@
+{"index": 181707, "D": "any of several scalelike, homopterous insects of the families Pseudococcidae and Eriococcidae that are covered with a powdery wax secretion and feed on plants.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 104017, "D": "of, relating to, or characteristic of a late Mesolithic culture of the western Baltic coast associated with kitchen middens and having pottery in its later phases.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 140139, "D": "abnormally increased function,  especially of glands or other organs.", "S": [], "A": []}

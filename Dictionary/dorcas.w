@@ -1,0 +1,1 @@
+{"index": 91652, "D": "a Christian woman at Joppa who made clothing for people in need. Acts 9", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 120982, "D": "the ancient Greek goddess who personified the earth and whose numerous offspring include Uranus, by whom she bore the Titans and the Cyclopes.", "S": ["atmosphere ", "ecosystem "], "A": []}

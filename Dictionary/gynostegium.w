@@ -1,0 +1,1 @@
+{"index": 125347, "D": "a specialized caplike mass of tissue covering a gynoecium.", "S": [], "A": []}

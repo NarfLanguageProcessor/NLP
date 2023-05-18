@@ -1,0 +1,1 @@
+{"index": 180487, "D": "inclined or disposed to war; warlike", "S": ["belligerent ", "hostile ", "military "], "A": ["kind ", "nice "]}

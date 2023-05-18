@@ -1,0 +1,1 @@
+{"index": 296171, "D": "a sociometric diagram representing the pattern of relationships between individuals in a group, usually expressed in terms of which persons they prefer to associate with.", "S": [], "A": []}

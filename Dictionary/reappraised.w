@@ -1,0 +1,1 @@
+{"index": 261917, "D": "to estimate the monetary value of; determine the worth of; assess", "S": [], "A": []}

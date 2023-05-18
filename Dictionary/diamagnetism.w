@@ -1,0 +1,1 @@
+{"index": 84311, "D": "Compare ferromagnetism, paramagnetism", "S": [], "A": []}

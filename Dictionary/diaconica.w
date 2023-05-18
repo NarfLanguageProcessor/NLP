@@ -1,0 +1,1 @@
+{"index": 84056, "D": "a sacristy in an Eastern or early Christian church, usually on the south side of the bema.", "S": [], "A": []}

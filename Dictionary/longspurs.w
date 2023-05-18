@@ -1,0 +1,1 @@
+{"index": 175010, "D": "any of several fringillid birds of the genus Calcarius of tundra or prairie regions of North America, characterized by a long spurlike hind claw on each foot.", "S": [], "A": []}

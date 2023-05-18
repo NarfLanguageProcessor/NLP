@@ -1,0 +1,1 @@
+{"index": 96738, "D": "belonging or pertaining to the Elasmobranchii, the subclass of cartilaginous fishes comprising the sharks and rays.", "S": [], "A": []}

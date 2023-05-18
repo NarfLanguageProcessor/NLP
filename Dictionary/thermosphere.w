@@ -1,0 +1,1 @@
+{"index": 321516, "D": "the region of the upper atmosphere in which temperature increases continuously with altitude, encompassing essentially all of the atmosphere above the mesosphere.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 314389, "D": "a plot of land cleared for farming by burning away vegetation.", "S": [], "A": []}

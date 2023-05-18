@@ -1,0 +1,1 @@
+{"index": 340972, "D": "not pleasant or safe enough to be eaten", "S": ["disagreeing ", "green ", "hard ", "malodorous ", "moldy ", "poisonous ", "putrid ", "raw ", "rotten ", "rough ", "tasteless ", "toxic ", "undercooked ", "unhealthy ", "unpalatable ", "unripe "], "A": []}

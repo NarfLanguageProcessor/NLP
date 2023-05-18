@@ -1,0 +1,1 @@
+{"index": 214597, "D": "to take its origin  or rise; begin; start; arise", "S": [], "A": []}

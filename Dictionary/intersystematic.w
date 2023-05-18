@@ -1,0 +1,1 @@
+{"index": 155926, "D": "having, showing, or involving a system,  method, or plan", "S": [], "A": []}

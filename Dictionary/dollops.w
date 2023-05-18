@@ -1,0 +1,1 @@
+{"index": 91177, "D": "a lump or blob of some substance", "S": ["glob ", "gob "], "A": ["whole "]}

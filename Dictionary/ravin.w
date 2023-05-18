@@ -1,0 +1,1 @@
+{"index": 261285, "D": "an archaic or literary variant of raven2. ", "S": ["chase ", "fish ", "fowl ", "kill ", "meat ", "prey ", "quarry "], "A": []}

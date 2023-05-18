@@ -1,0 +1,1 @@
+{"index": 306725, "D": "of the nature of or resembling a stub. ", "S": [], "A": []}

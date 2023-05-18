@@ -1,0 +1,1 @@
+{"index": 278880, "D": "a low, boat-shaped container for serving sauce  or gravy, typically having a handle at one end and a long, wide lip at the other end.", "S": [], "A": []}

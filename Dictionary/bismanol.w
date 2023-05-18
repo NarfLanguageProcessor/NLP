@@ -1,0 +1,1 @@
+{"index": 35046, "D": "a highly ferromagnetic alloy of bismuth  and manganese,  having a high degree of magnetic force.", "S": [], "A": []}

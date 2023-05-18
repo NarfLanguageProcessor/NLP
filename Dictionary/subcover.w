@@ -1,0 +1,1 @@
+{"index": 307620, "D": "a set of subsets of a cover  of a given set that also is a cover  of the set.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 100078, "D": "the last part or extremity, lengthwise, of anything that is longer than it is wide or broad", "S": ["deadline ", "edge ", "point ", "term ", "top "], "A": ["bottom "]}

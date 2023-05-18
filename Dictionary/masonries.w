@@ -1,0 +1,1 @@
+{"index": 180729, "D": "the craft or occupation of a mason. ", "S": ["ashlar ", "brickwork ", "stonework ", "trade "], "A": []}

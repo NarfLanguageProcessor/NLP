@@ -1,0 +1,1 @@
+{"index": 328631, "D": "a transport device, formerly used by the Plains Indians, consisting of two poles joined by a frame and drawn by an animal.", "S": [], "A": []}

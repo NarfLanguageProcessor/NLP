@@ -1,0 +1,1 @@
+{"index": 334738, "D": "having lived or existed long; of advanced age; old", "S": [], "A": []}

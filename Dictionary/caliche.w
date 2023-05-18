@@ -1,0 +1,1 @@
+{"index": 45095, "D": "a surface deposit consisting of sand or clay impregnated with crystalline salts such as sodium nitrate or sodium chloride.", "S": [], "A": []}

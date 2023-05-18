@@ -1,0 +1,1 @@
+{"index": 68590, "D": "a police officer. ", "S": ["bust ", "capture ", "seize "], "A": ["free ", "let go ", "liberate ", "release ", "lose "]}

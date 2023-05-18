@@ -1,0 +1,1 @@
+{"index": 243794, "D": "claimed or assumed as a fact or principle, especially as a basis for argument or further investigation", "S": ["analyzed ", "argued ", "assumed ", "concluded ", "considered ", "debated ", "determined ", "discussed ", "explained ", "hypothesized ", "postulated ", "reasoned ", "thought "], "A": []}

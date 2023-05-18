@@ -1,0 +1,1 @@
+{"index": 44805, "D": "a calculator, especially a small portable one.", "S": [], "A": []}

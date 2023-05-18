@@ -1,0 +1,1 @@
+{"index": 190765, "D": "an organism of the phylum Myxomycota (or, in some classifications, the class Myxomycetes), comprising the slime molds.", "S": [], "A": []}

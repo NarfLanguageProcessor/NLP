@@ -1,0 +1,1 @@
+{"index": 67165, "D": "a person who gives professional or expert advice", "S": ["advisor ", "expert ", "specialist ", "veteran "], "A": []}

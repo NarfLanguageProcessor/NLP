@@ -1,0 +1,1 @@
+{"index": 148263, "D": "to enter on a panel or list for jury duty.", "S": [], "A": []}

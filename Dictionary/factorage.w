@@ -1,0 +1,1 @@
+{"index": 109069, "D": "the action or business of a factor. ", "S": ["fee "], "A": ["increase ", "whole "]}

@@ -1,0 +1,1 @@
+{"index": 50403, "D": "to overlay (the ceiling of a building or room) with wood, plaster, etc.", "S": ["cover ", "fill ", "stuff "], "A": ["strip "]}

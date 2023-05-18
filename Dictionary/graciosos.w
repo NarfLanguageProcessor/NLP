@@ -1,0 +1,1 @@
+{"index": 128506, "D": "a buffoon or clown in Spanish comedy.", "S": [], "A": []}

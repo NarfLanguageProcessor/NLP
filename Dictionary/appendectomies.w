@@ -1,0 +1,1 @@
+{"index": 17662, "D": "excision of the vermiform appendix. ", "S": [], "A": []}

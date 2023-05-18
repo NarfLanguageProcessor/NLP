@@ -1,0 +1,1 @@
+{"index": 181328, "D": "a male or female given name.", "S": ["curled ", "curly "], "A": ["straight "]}

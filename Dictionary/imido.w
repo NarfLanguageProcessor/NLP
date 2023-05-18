@@ -1,0 +1,1 @@
+{"index": 147797, "D": "containing the imido group.", "S": [], "A": []}

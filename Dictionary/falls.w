@@ -1,0 +1,1 @@
+{"index": 109515, "D": "a town in NE Pennsylvania, on the Susquehanna River.", "S": ["avalanche ", "deluge ", "outpouring ", "torrent ", "waterfall "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 10545, "D": "a deposit of amyloid  in tissues or organs.", "S": [], "A": []}

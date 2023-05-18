@@ -1,0 +1,1 @@
+{"index": 80734, "D": "an advocate of democracy. ", "S": ["congressperson ", "lawmaker ", "leader ", "legislator ", "member of Congress ", "officeholder ", "president ", "representative ", "senator "], "A": []}

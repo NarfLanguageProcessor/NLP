@@ -1,0 +1,1 @@
+{"index": 323611, "D": "German general in the Thirty Years' War.", "S": [], "A": []}

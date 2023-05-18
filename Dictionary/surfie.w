@@ -1,0 +1,1 @@
+{"index": 313419, "D": "a young person whose main interest is in surfing, esp when considered as a cult figure", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 347455, "D": "to insert (a word, phrase, etc.) as a parenthesis. ", "S": [], "A": []}

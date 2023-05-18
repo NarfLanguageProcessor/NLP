@@ -1,0 +1,1 @@
+{"index": 210963, "D": "any of 18 isomeric saturated hydrocarbons having the formula C8H18, some of which are obtained in the distillation and cracking of petroleum.", "S": [], "A": []}

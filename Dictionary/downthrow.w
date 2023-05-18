@@ -1,0 +1,1 @@
+{"index": 92333, "D": "a throwing down or being thrown down; overthrow.", "S": ["beating ", "blow ", "breakdown ", "collapse ", "debacle ", "destruction ", "drubbing ", "embarrassment ", "failure ", "killing ", "loss ", "massacre ", "rout ", "setback ", "thrashing ", "triumph "], "A": ["accomplishment ", "achievement ", "boon ", "success ", "win ", "surrender ", "yielding "]}

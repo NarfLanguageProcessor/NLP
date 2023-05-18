@@ -1,0 +1,1 @@
+{"index": 131588, "D": "lacking courage, fortitude, or determination.", "S": ["abject ", "chicken ", "chicken-hearted ", "coward ", "cowardly ", "craven ", "faint-hearted ", "feeble ", "irresolute ", "lily-livered ", "pusillanimous ", "spineless ", "submissive ", "weak ", "wimpy ", "yellow ", "yellow-bellied "], "A": ["bold ", "brave ", "courageous ", "gutsy ", "resolute "]}

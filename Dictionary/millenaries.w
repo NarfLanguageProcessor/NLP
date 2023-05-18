@@ -1,0 +1,1 @@
+{"index": 187295, "D": "consisting of or pertaining to a thousand, especially a thousand years.", "S": ["chiliad ", "millenary ", "millennium "], "A": []}

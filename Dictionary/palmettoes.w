@@ -1,0 +1,1 @@
+{"index": 224065, "D": "any of various palms having fan-shaped leaves, as of the genera Sabal, Serenoa, and Thrinax.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 224104, "D": "a white, crystalline, water-insoluble powder, C51H98O6, prepared from glycerol and palmitic acid", "S": [], "A": []}

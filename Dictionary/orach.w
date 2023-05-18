@@ -1,0 +1,1 @@
+{"index": 213907, "D": "any plant of the genus Atriplex, especially A. hortensis, of the amaranth family, cultivated for use like spinach.", "S": [], "A": []}

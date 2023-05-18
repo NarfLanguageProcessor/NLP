@@ -1,0 +1,1 @@
+{"index": 49398, "D": "Compare catastrophe (def. 4), epitasis, protasis. ", "S": [], "A": []}

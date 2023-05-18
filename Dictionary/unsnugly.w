@@ -1,0 +1,1 @@
+{"index": 351477, "D": "in a way that is warmly comfortable or cozy, sheltered, safe, etc.", "S": [], "A": []}

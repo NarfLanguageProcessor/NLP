@@ -1,0 +1,1 @@
+{"index": 71828, "D": "broken", "S": ["broken ", "damaged ", "fractured "], "A": ["OK ", "fixed ", "unbroken ", "working "]}

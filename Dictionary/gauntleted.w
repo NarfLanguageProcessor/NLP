@@ -1,0 +1,1 @@
+{"index": 122859, "D": "a medieval glove, as of mail or plate, worn by a knight in armor to protect the hand.", "S": ["bid to combat ", "gauntlet ", "glove ", "mobilize ", "open hostilities ", "rally ", "take up arms "], "A": []}

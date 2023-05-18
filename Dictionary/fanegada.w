@@ -1,0 +1,1 @@
+{"index": 109694, "D": "a unit of land measure in Spanish-speaking countries varying from 1.25 to 1.75 acres (0.5 to 0.7 hectare).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 168858, "D": "the church of St. John Lateran, the cathedral church of the city of Rome; the church of the pope as bishop of Rome.", "S": [], "A": []}

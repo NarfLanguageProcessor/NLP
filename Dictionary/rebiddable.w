@@ -1,0 +1,1 @@
+{"index": 262318, "D": "(of a suit) able to be bid twice, owing to length or strength, without support from one's partner.", "S": [], "A": []}

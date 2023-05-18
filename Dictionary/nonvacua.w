@@ -1,0 +1,1 @@
+{"index": 208150, "D": "a space entirely devoid of matter.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 248530, "D": "of or relating to warships", "S": [], "A": []}

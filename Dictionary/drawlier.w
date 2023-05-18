@@ -1,0 +1,1 @@
+{"index": 92801, "D": "to say or speak in a slow manner, usually prolonging the vowels.", "S": [], "A": []}

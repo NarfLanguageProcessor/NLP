@@ -1,0 +1,1 @@
+{"index": 153882, "D": "the arched upper surface of the human foot between the toes and the ankle.", "S": ["amicable ", "balanced ", "congenial ", "coordinated ", "cordial ", "peaceful "], "A": ["disagreeable ", "hostile ", "unfriendly "]}

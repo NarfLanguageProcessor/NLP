@@ -1,0 +1,1 @@
+{"index": 206696, "D": "to say or utter again (something already said)", "S": [], "A": []}

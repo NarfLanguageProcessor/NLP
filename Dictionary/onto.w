@@ -1,0 +1,1 @@
+{"index": 212933, "D": "to  a place or position on;  upon; on", "S": ["adjacent ", "against ", "in contact with ", "toward "], "A": []}

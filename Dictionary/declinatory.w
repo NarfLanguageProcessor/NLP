@@ -1,0 +1,1 @@
+{"index": 78494, "D": "expressing refusal; implying declination.", "S": ["belligerent ", "irregular ", "negative ", "refractory "], "A": ["compliant ", "obedient ", "subservient ", "willing "]}

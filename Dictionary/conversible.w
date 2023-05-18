@@ -1,0 +1,1 @@
+{"index": 68038, "D": [], "S": ["cheerful ", "clubby ", "festive ", "genial ", "hearty ", "jolly ", "jovial ", "lively ", "pleasant ", "sociable "], "A": ["apathetic ", "depressed ", "gloomy ", "lethargic ", "sad ", "unfriendly ", "unhappy "]}

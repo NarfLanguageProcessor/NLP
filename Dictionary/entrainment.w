@@ -1,0 +1,1 @@
+{"index": 101628, "D": "the act or fact of trapping bubbles in a liquid", "S": [], "A": []}

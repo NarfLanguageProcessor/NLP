@@ -1,0 +1,1 @@
+{"index": 300687, "D": "to plunder, rob, or ruin.", "S": ["demolish ", "depredate ", "desecrate ", "desolate ", "despoil ", "destroy ", "devastate ", "devour ", "fleece ", "gut ", "lay waste ", "loot ", "maraud ", "pillage ", "plunder ", "ransack ", "rape ", "ravage ", "rifle ", "rob ", "ruin ", "spoil ", "strip ", "waste ", "wreak havoc ", "wreak havoc on "], "A": []}

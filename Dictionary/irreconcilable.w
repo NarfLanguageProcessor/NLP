@@ -1,0 +1,1 @@
+{"index": 158185, "D": "incapable of being brought into harmony or adjustment; incompatible", "S": ["implacable ", "incompatible ", "incongruous ", "inconsistent ", "inexorable ", "uncompromising "], "A": ["compatible ", "consistent ", "consonant ", "flexible ", "harmonious ", "merciful "]}

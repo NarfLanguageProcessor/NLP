@@ -1,0 +1,1 @@
+{"index": 182644, "D": "a teacher in a Jewish school, especially a heder.", "S": [], "A": []}

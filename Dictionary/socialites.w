@@ -1,0 +1,1 @@
+{"index": 296110, "D": "a socially  prominent person.", "S": ["debutante "], "A": []}

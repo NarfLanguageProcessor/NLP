@@ -1,0 +1,1 @@
+{"index": 61782, "D": "one of two or more joint discoverers. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 180639, "D": [], "S": ["machismo ", "virility "], "A": ["femininity "]}

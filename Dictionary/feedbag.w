@@ -1,0 +1,1 @@
+{"index": 110859, "D": "a bag for feeding horses, placed before the mouth and fastened around the head with straps.", "S": ["blackmail ", "compensation ", "gift ", "graft ", "gratuity ", "hush money ", "incentive ", "inducement ", "kickback ", "perk ", "reward "], "A": ["hindrance ", "loss ", "penalty "]}

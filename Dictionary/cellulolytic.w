@@ -1,0 +1,1 @@
+{"index": 50618, "D": "(of bacteria or enzymes) capable of hydrolyzing cellulose. ", "S": [], "A": []}

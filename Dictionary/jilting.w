@@ -1,0 +1,1 @@
+{"index": 161242, "D": "to reject or cast aside (a lover or sweetheart), especially abruptly or unfeelingly.", "S": ["coquette ", "deceive ", "desert ", "disappoint ", "discard ", "ditch ", "drop ", "dump ", "forsake ", "leave ", "reject "], "A": ["continue ", "hold ", "keep ", "maintain "]}

@@ -1,0 +1,1 @@
+{"index": 134316, "D": "stems or stalks collectively, as of grain or of peas, beans, or hops, especially as used for litter or thatching.", "S": [], "A": []}

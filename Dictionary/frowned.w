@@ -1,0 +1,1 @@
+{"index": 119491, "D": "to contract the brow, as in displeasure or deep thought; scowl.", "S": ["glare ", "glower ", "grimace ", "pout "], "A": ["grin ", "smile "]}

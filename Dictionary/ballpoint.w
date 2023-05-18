@@ -1,0 +1,1 @@
+{"index": 27054, "D": "Also called (Brit)", "S": ["fountain pen ", "marker ", "stick "], "A": ["open space ", "pencil "]}

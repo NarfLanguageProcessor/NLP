@@ -1,0 +1,1 @@
+{"index": 242547, "D": "a person who is active in party politics. ", "S": ["lawmaker ", "leader ", "legislator ", "officeholder ", "senator "], "A": []}

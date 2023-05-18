@@ -1,0 +1,1 @@
+{"index": 332485, "D": "an underground passage.", "S": ["channel ", "hole ", "mine ", "pit ", "shaft ", "subway ", "underpass "], "A": []}

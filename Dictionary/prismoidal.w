@@ -1,0 +1,1 @@
+{"index": 250780, "D": "Compare prism (def. 2). ", "S": [], "A": []}

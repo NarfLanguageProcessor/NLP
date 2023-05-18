@@ -1,0 +1,1 @@
+{"index": 82166, "D": "resembling skin; skinlike.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 160772, "D": "a name of God in the Old Testament, a rendering of the ineffable name, JHVH, in the Hebrew Scriptures.", "S": ["Allah ", "Father in Heaven ", "God ", "Heavenly Father ", "King of Kings ", "Lord of Lords ", "Yahweh ", "the Creator ", "the all-powerful "], "A": []}

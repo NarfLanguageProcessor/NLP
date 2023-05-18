@@ -1,0 +1,1 @@
+{"index": 312055, "D": "a person who shows great independence or individuality  in thought or action.", "S": [], "A": []}

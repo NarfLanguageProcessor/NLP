@@ -1,0 +1,1 @@
+{"index": 43321, "D": "a stickseed, Lappula echinata, introduced into North America from Europe.", "S": [], "A": []}

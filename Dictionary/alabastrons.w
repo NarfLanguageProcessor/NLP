@@ -1,0 +1,1 @@
+{"index": 7238, "D": "a jar characteristically having an elongated shape, narrow neck, flat-rimmed mouth, and rounded base requiring a stand or support, chiefly used for fragrant ointments.", "S": [], "A": []}

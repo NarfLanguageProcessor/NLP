@@ -1,0 +1,1 @@
+{"index": 56266, "D": "of or containing chromium  in the trivalent state, as chromic hydroxide, Cr(OH)3.", "S": [], "A": []}

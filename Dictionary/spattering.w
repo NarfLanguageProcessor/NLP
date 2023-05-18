@@ -1,0 +1,1 @@
+{"index": 298632, "D": "to scatter or dash in small particles or drops", "S": ["few ", "scattering ", "smattering ", "sprinkling "], "A": ["lot ", "mass "]}

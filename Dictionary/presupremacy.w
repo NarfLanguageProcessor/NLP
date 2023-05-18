@@ -1,0 +1,1 @@
+{"index": 249796, "D": "the state of being supreme. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 129001, "D": "to form into granules  or grains.", "S": [], "A": []}

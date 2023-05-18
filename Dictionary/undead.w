@@ -1,0 +1,1 @@
+{"index": 338417, "D": "no longer alive but animated by a supernatural force, as a vampire or zombie.", "S": ["demonic ", "exanimate ", "possessed "], "A": ["alive ", "living "]}

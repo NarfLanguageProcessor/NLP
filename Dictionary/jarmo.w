@@ -1,0 +1,1 @@
+{"index": 160490, "D": "a Neolithic village site in northeastern Iraq, dated c6500 b.c. and noted as one of the world's earliest food-producing settlements.", "S": [], "A": []}

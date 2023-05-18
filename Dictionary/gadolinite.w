@@ -1,0 +1,1 @@
+{"index": 120891, "D": "a silicate mineral from which the rare-earth metals gadolinium,  holmium, and rhenium are extracted.", "S": [], "A": []}

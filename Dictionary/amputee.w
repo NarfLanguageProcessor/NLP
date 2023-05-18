@@ -1,0 +1,1 @@
+{"index": 11379, "D": "a person who has lost all or part of an arm, hand, leg, etc., by amputation.", "S": [], "A": []}

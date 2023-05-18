@@ -1,0 +1,1 @@
+{"index": 288283, "D": "a cudgel, traditionally of blackthorn or oak.", "S": [], "A": []}

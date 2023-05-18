@@ -1,0 +1,1 @@
+{"index": 48455, "D": "a slender prolongation of the floral axis, bearing the carpels of some compound fruits, as in many plants of the parsley family.", "S": [], "A": []}

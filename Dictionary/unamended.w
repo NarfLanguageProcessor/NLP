@@ -1,0 +1,1 @@
+{"index": 334905, "D": "(of a motion, regulation, bill, etc.) altered, rephrased, etc., by a formal procedure", "S": [], "A": []}

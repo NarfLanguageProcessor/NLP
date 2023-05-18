@@ -1,0 +1,1 @@
+{"index": 317118, "D": "the 19th letter of the Greek alphabet (T,\u03c4).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332188, "D": "an opening through which the blast of air enters a blast furnace, cupola, forge, or the like, to facilitate combustion.", "S": [], "A": []}

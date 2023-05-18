@@ -1,0 +1,1 @@
+{"index": 213740, "D": "to assail by criticism, argument, or action.", "S": ["argue ", "attack ", "contradict ", "controvert ", "criticize ", "debate "], "A": ["agree ", "approve ", "harmonize "]}

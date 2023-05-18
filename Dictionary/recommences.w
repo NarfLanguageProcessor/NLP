@@ -1,0 +1,1 @@
+{"index": 263148, "D": "to begin; start. ", "S": ["proceed ", "renew ", "restore ", "return to "], "A": ["halt ", "stop "]}

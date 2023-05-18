@@ -1,0 +1,1 @@
+{"index": 306595, "D": "a coarse woolen cloth, blanket, or garment formerly used by the British in bartering with the North American Indians.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1, "D": "basaltic lava having a rough surface.", "S": ["12-step group ", "Alcoholics Anonymous ", "Weight Watchers ", "encounter group ", "family ", "friends ", "morale boosters ", "safety net ", "self-help group ", "support system ", "therapy "], "A": []}

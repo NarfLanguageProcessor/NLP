@@ -1,0 +1,1 @@
+{"index": 87355, "D": "training to act in accordance with rules; drill", "S": ["artistic ", "developmental "], "A": []}

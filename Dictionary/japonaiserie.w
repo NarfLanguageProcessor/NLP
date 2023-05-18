@@ -1,0 +1,1 @@
+{"index": 160413, "D": "stylistic characteristics, as in art, decor, or film, influenced by or reflective of Japanese culture and tradition.", "S": [], "A": []}

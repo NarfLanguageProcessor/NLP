@@ -1,0 +1,1 @@
+{"index": 221106, "D": "a pullover sport shirt,  worn outside the waistband of a skirt or pair of slacks.", "S": [], "A": []}

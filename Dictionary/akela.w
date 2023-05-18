@@ -1,0 +1,1 @@
+{"index": 7140, "D": "(in the Cub Scouts) a pack leader.", "S": [], "A": []}

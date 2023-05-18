@@ -1,0 +1,1 @@
+{"index": 97568, "D": "to remove or get rid of, especially as being in some way undesirable", "S": [], "A": []}

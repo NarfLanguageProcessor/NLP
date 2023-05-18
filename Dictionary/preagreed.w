@@ -1,0 +1,1 @@
+{"index": 245635, "D": "to have the same views, emotions, etc.; harmonize in opinion or feeling (often followed by with)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 212148, "D": "a reduction in the volume of the blood, as occurs after haemorrhage", "S": [], "A": []}

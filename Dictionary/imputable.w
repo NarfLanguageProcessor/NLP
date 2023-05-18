@@ -1,0 +1,1 @@
+{"index": 149288, "D": "capable of being imputed; attributable; ascribable", "S": ["answerable ", "responsible "], "A": []}

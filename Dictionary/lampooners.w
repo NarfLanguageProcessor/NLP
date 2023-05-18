@@ -1,0 +1,1 @@
+{"index": 167814, "D": "a sharp, often virulent satire directed against an individual or institution; a work of literature, art, or the like, ridiculing severely the character or behavior of a person, society, etc.", "S": [], "A": []}

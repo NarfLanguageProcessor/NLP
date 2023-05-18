@@ -1,0 +1,1 @@
+{"index": 322483, "D": "a habitual manner of thought  in a particular group of people.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 226045, "D": "an ancient Persian unit of distance, equal to about 3.5 miles (5.6 km).", "S": [], "A": []}

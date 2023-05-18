@@ -1,0 +1,1 @@
+{"index": 161840, "D": "the act of a person who jots. ", "S": [], "A": []}

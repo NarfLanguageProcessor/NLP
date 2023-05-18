@@ -1,0 +1,1 @@
+{"index": 222298, "D": "a compound in which oxygen is bonded to one or more electropositive atoms.", "S": [], "A": []}

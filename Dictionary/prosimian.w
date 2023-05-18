@@ -1,0 +1,1 @@
+{"index": 253110, "D": "belonging or pertaining to the formerly designated suborder Prosimii, the group of primates that excludes the simians, therefore including all living and extinct strepsirrhines  and tarsiers. ", "S": [], "A": []}

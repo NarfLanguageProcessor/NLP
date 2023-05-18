@@ -1,0 +1,1 @@
+{"index": 279664, "D": "having scapes;  consisting of a scape. ", "S": [], "A": []}

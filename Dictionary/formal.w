@@ -1,0 +1,1 @@
+{"index": 117345, "D": "being in accordance with the usual requirements, customs, etc.; conventional", "S": ["academic ", "ceremonial ", "explicit ", "legal ", "precise ", "proper ", "solemn ", "strict "], "A": ["ambiguous ", "inaccurate ", "indefinite ", "ordinary "]}

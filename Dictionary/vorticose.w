@@ -1,0 +1,1 @@
+{"index": 361387, "D": "vortical; whirling.", "S": ["whirling "], "A": []}

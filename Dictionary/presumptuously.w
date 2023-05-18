@@ -1,0 +1,1 @@
+{"index": 249760, "D": "full of, characterized by, or showing presumption  or readiness to presume  in conduct or thought, as by saying or doing something without right or permission.", "S": ["impertinently ", "pertly "], "A": []}

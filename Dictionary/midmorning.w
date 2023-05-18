@@ -1,0 +1,1 @@
+{"index": 186776, "D": "the middle of the morning;  the time centering around the midpoint between early morning  and noon.", "S": [], "A": []}

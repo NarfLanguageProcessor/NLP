@@ -1,0 +1,1 @@
+{"index": 301321, "D": "the act or process of a person or thing that springs.", "S": [], "A": []}

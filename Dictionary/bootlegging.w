@@ -1,0 +1,1 @@
+{"index": 38264, "D": "alcoholic liquor unlawfully made, sold, or transported, without registration or payment of taxes.", "S": ["piracy ", "smuggling ", "trafficking "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 120525, "D": "moreover; besides; in addition", "S": ["moreover "], "A": []}

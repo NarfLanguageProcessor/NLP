@@ -1,0 +1,1 @@
+{"index": 265131, "D": "a measure of the ability of a surface to reflect radiation, equal to the reflectance of a layer of material sufficiently thick for the reflectance not to depend on the thickness", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 325041, "D": "one of the terminal digits of the human foot.", "S": [], "A": []}

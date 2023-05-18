@@ -1,0 +1,1 @@
+{"index": 213250, "D": "the quality or state of being relatively free from obstruction or relatively unoccupied", "S": ["acceptance ", "broad-mindedness ", "impartiality ", "interest ", "observance ", "receptiveness ", "receptivity ", "responsiveness ", "tolerance ", "understanding "], "A": ["disagreement ", "disbelief "]}

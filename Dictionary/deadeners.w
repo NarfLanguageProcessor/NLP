@@ -1,0 +1,1 @@
+{"index": 77450, "D": "to make less sensitive, active, energetic, or forcible; weaken", "S": [], "A": []}

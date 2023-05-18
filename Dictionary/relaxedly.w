@@ -1,0 +1,1 @@
+{"index": 266791, "D": "being free of or relieved from tension or anxiety", "S": [], "A": []}

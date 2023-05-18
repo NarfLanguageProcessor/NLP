@@ -1,0 +1,1 @@
+{"index": 45345, "D": "a callous  condition.", "S": [], "A": []}

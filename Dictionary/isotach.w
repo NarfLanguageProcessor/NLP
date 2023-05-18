@@ -1,0 +1,1 @@
+{"index": 159275, "D": "a line on a weather map or chart connecting points where winds of equal speeds have been recorded.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293058, "D": "a picture made by outlining and shading a subject's shadow.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 255604, "D": "psychological warfare. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 363617, "D": "a person who forecasts and reports the weather;  meteorologist.", "S": ["climatologist ", "storm chaser ", "weather-forecaster ", "weathercaster "], "A": []}

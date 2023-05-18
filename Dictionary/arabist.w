@@ -1,0 +1,1 @@
+{"index": 18325, "D": "a person who specializes in or studies the Arabic language or Arab  culture.", "S": [], "A": []}

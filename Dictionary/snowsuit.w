@@ -1,0 +1,1 @@
+{"index": 295871, "D": "a child's one- or two-piece outer garment for cold weather, often consisting of heavily lined pants and jacket.", "S": [], "A": []}

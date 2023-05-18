@@ -1,0 +1,1 @@
+{"index": 266878, "D": "confident or trustful dependence.", "S": ["dependence "], "A": ["disbelief ", "distrust ", "doubt ", "misgiving "]}

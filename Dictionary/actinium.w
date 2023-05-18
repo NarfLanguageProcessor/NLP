@@ -1,0 +1,1 @@
+{"index": 3119, "D": "a radioactive silver-white metallic element that glows blue in the dark, resembling the rare earths in chemical behavior and valence. Symbol", "S": [], "A": []}

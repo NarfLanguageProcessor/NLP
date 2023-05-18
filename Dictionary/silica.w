@@ -1,0 +1,1 @@
+{"index": 290303, "D": "the dioxide form of silicon, SiO2, occurring especially as quartz sand, flint, and agate", "S": [], "A": []}

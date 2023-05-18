@@ -1,0 +1,1 @@
+{"index": 216646, "D": "to throw, cast, or hurl with force or violence", "S": [], "A": []}

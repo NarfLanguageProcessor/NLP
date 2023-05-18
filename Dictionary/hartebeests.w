@@ -1,0 +1,1 @@
+{"index": 134013, "D": "any large African antelope of the genus Alcelaphus, having ringed horns that curve backward", "S": [], "A": []}

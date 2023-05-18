@@ -1,0 +1,1 @@
+{"index": 358549, "D": "the theory that rigid representation of truth and reality is essential to art and literature, and therefore the ugly and vulgar must be included.", "S": [], "A": []}

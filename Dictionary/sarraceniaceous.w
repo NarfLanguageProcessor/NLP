@@ -1,0 +1,1 @@
+{"index": 278537, "D": "of, relating to, or belonging to the Sarraceniaceae, an American family of pitcher plants", "S": [], "A": []}

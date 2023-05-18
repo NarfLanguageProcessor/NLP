@@ -1,0 +1,1 @@
+{"index": 237703, "D": "a colorless, flammable, liquid organic base, C5H5N, having a disagreeable odor, usually obtained from coal or synthesized from acetaldehyde and ammonia", "S": [], "A": []}

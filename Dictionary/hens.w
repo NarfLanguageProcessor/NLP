@@ -1,0 +1,1 @@
+{"index": 136613, "D": "a female chicken", "S": ["poultry "], "A": []}

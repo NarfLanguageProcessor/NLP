@@ -1,0 +1,1 @@
+{"index": 339976, "D": "the act of a person who undertakes  any task or responsibility.", "S": ["affair ", "effort ", "enterprise ", "experiment ", "operation ", "project ", "proposition ", "task ", "venture "], "A": ["idleness ", "inactivity ", "passivity ", "fun ", "inaction ", "peace ", "surrender ", "unemployment "]}

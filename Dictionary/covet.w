@@ -1,0 +1,1 @@
+{"index": 71511, "D": "to desire wrongfully, inordinately, or without due regard for the rights of others", "S": ["crave ", "envy ", "lust after "], "A": ["dislike ", "hate "]}

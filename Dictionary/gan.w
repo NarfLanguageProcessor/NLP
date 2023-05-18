@@ -1,0 +1,1 @@
+{"index": 121807, "D": "simple past tense of gin3. ", "S": [], "A": []}

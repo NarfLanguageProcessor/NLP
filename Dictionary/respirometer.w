@@ -1,0 +1,1 @@
+{"index": 269746, "D": "an instrument for measuring the extent of respiratory movement.", "S": [], "A": []}

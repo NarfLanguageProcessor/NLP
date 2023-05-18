@@ -1,0 +1,1 @@
+{"index": 106999, "D": "the science of exegesis; exegetical  theology.", "S": ["exploration ", "interpretation ", "investigation ", "revealing ", "unmasking "], "A": []}

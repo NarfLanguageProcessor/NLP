@@ -1,0 +1,1 @@
+{"index": 113765, "D": "a piece of cloth, varying in size, shape, color, and design, usually attached at one edge to a staff or cord, and used as the symbol of a nation, state, or organization, as a means of signaling, etc.; ensign; standard; banner; pennant. ", "S": [], "A": []}

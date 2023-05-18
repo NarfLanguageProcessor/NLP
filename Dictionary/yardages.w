@@ -1,0 +1,1 @@
+{"index": 145725, "D": "measurement, or the amount measured in yards;  length or extent in yards. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 194692, "D": "a Muslim permitted to remain in Spain after the Christian reconquest, especially during the 8th to the 13th centuries.", "S": [], "A": []}

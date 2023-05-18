@@ -1,0 +1,1 @@
+{"index": 200233, "D": "another name for columbite", "S": [], "A": []}

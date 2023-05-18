@@ -1,0 +1,1 @@
+{"index": 23983, "D": "pertaining to or of the nature of autocracy  or of an autocrat; absolute autocratic government.", "S": [], "A": []}

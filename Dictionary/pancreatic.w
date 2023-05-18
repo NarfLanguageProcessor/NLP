@@ -1,0 +1,1 @@
+{"index": 224413, "D": "a gland, situated near the stomach, that secretes a digestive fluid into the intestine through one or more ducts and also secretes the hormone insulin.", "S": [], "A": []}

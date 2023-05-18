@@ -1,0 +1,1 @@
+{"index": 248506, "D": "a state of balance between host and infectious agent, as a bacterium or parasite, such that the immune defense of the host is sufficient to resist further infection but insufficient to destroy the agent.", "S": [], "A": []}

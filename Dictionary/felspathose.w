@@ -1,0 +1,1 @@
+{"index": 111105, "D": "feldspathic. ", "S": [], "A": []}

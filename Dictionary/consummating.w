@@ -1,0 +1,1 @@
+{"index": 67207, "D": "to bring to a state of perfection; fulfill.", "S": ["advancing ", "aging ", "blossoming ", "developing ", "evolving ", "growing ", "mellowing ", "perfecting ", "preparing ", "sprouting ", "sweetening "], "A": ["declining ", "dying ", "fading "]}

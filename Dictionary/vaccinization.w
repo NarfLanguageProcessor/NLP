@@ -1,0 +1,1 @@
+{"index": 356390, "D": "a vaccination produced by a series of virus inoculations.", "S": [], "A": []}

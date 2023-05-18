@@ -1,0 +1,1 @@
+{"index": 308394, "D": "a person, company, etc., to whom a sublicense  is granted.", "S": [], "A": []}

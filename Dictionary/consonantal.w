@@ -1,0 +1,1 @@
+{"index": 66923, "D": "of, or of the nature of, a consonant. ", "S": [], "A": []}

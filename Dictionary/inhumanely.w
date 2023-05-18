@@ -1,0 +1,1 @@
+{"index": 152727, "D": "not humane; lacking humanity, kindness, compassion, etc.", "S": ["ferociously ", "fiercely ", "mercilessly ", "relentlessly ", "ruthlessly ", "savagely ", "viciously "], "A": ["gently ", "humanely ", "kindly ", "nicely "]}

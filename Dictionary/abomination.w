@@ -1,0 +1,1 @@
+{"index": 697, "D": "anything abominable;  anything greatly disliked or abhorred.", "S": ["anathema ", "aversion ", "bother ", "curse ", "detestation ", "evil ", "horror ", "nuisance ", "plague ", "shame ", "torment "], "A": ["delight ", "happiness ", "love ", "pleasure "]}

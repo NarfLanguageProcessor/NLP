@@ -1,0 +1,1 @@
+{"index": 28769, "D": "one of a breed of hounds having short legs, long body and ears, and usually a black, tan, and white coat.", "S": [], "A": []}

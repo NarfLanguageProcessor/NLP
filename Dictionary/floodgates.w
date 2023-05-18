@@ -1,0 +1,1 @@
+{"index": 114905, "D": "a gate  designed to regulate the flow of water.", "S": [], "A": []}

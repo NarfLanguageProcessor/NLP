@@ -1,0 +1,1 @@
+{"index": 74914, "D": "cumbersome. ", "S": ["awkward ", "bulky ", "clumsy ", "heavy ", "hefty ", "ungainly ", "unmanageable ", "unwieldy "], "A": []}

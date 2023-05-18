@@ -1,0 +1,1 @@
+{"index": 112278, "D": "(intr) an obsolete word for fidget", "S": [], "A": []}

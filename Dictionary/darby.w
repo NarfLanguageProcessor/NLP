@@ -1,0 +1,1 @@
+{"index": 76888, "D": "a float having two handles, used by plasterers.", "S": [], "A": []}

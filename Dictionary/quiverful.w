@@ -1,0 +1,1 @@
+{"index": 259054, "D": "the amount that a quiver can hold", "S": [], "A": []}

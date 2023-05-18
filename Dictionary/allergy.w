@@ -1,0 +1,1 @@
+{"index": 8666, "D": "an abnormal reaction of the body to a previously encountered allergen  introduced by inhalation, ingestion, injection, or skin contact, often manifested by itchy eyes, runny nose, wheezing, skin rash, or diarrhea.", "S": ["hay fever "], "A": []}

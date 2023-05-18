@@ -1,0 +1,1 @@
+{"index": 79654, "D": "a quick deterioration or breakdown, as of a situation or circumstance.", "S": ["decline ", "degradation ", "depreciation ", "devaluation ", "disintegration ", "dislocation ", "downturn ", "slump ", "worsening "], "A": ["increase ", "ascent ", "development ", "growth ", "improvement ", "rise ", "success ", "upgrade "]}

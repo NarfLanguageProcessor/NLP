@@ -1,0 +1,1 @@
+{"index": 24399, "D": "any chromosome other than a sex chromosome.", "S": [], "A": []}

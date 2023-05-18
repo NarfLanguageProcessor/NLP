@@ -1,0 +1,1 @@
+{"index": 236216, "D": "any disease of the kidney and its pelvis.", "S": [], "A": []}

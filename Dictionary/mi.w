@@ -1,0 +1,1 @@
+{"index": 185618, "D": "the syllable used for the third tone of a diatonic scale.", "S": ["array ", "assortment ", "change ", "collection ", "combo ", "conglomeration ", "departure ", "discrepancy ", "disparateness ", "divergency ", "diverseness ", "diversification ", "diversity ", "fluctuation ", "heterogeneousness ", "incongruity ", "intermixture ", "medley "], "A": []}

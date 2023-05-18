@@ -1,0 +1,1 @@
+{"index": 9890, "D": "partial or total loss of sight, especially in the absence of a gross lesion or injury.", "S": [], "A": []}

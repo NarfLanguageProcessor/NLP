@@ -1,0 +1,1 @@
+{"index": 299164, "D": "a cavelike temple, tomb, or the like, cut in rock.", "S": [], "A": []}

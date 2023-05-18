@@ -1,0 +1,1 @@
+{"index": 312180, "D": "of the highest kind, quality, or order; surpassing all else or others; supreme; extreme", "S": ["awfully ", "enormously ", "excessively ", "extraordinarily ", "extremely ", "highly ", "hugely ", "inordinately ", "really ", "remarkably ", "strikingly ", "terribly ", "unusually ", "vastly "], "A": ["little "]}

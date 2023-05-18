@@ -1,0 +1,1 @@
+{"index": 76211, "D": "to drag or trail through mud, water, etc.; draggle; bemire.", "S": [], "A": []}

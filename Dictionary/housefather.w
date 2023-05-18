@@ -1,0 +1,1 @@
+{"index": 144411, "D": "a man responsible for a group of young people, as students, living in a dormitory, hostel, etc.", "S": [], "A": []}

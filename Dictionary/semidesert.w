@@ -1,0 +1,1 @@
+{"index": 284071, "D": "an extremely dry area characterized by sparse vegetation.", "S": [], "A": []}

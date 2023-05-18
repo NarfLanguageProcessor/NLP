@@ -1,0 +1,1 @@
+{"index": 94600, "D": "one of two officers or magistrates jointly exercising the same public function.", "S": [], "A": []}

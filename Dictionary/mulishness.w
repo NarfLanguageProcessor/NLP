@@ -1,0 +1,1 @@
+{"index": 194923, "D": "of or like a mule,  as being very stubborn, obstinate, or intractable.", "S": ["bullheadedness ", "determination ", "doggedness ", "obstinance ", "pertinacity ", "perverseness ", "perversity ", "pigheadedness ", "purpose ", "reluctance ", "tenaciousness ", "tenacity ", "willfulness "], "A": ["irresolution "]}

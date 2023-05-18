@@ -1,0 +1,1 @@
+{"index": 164025, "D": "a red dye formerly prepared from the dried bodies of the females of a scale insect, Kermes ilices, which lives on small, evergreen oaks of the Mediterranean region.", "S": [], "A": []}

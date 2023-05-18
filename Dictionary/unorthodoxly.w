@@ -1,0 +1,1 @@
+{"index": 347267, "D": "not conforming to rules, traditions, or modes of conduct, as of a doctrine, religion, or philosophy; not orthodox", "S": ["individually ", "negatively ", "separately ", "variously "], "A": ["together "]}

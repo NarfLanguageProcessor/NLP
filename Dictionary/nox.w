@@ -1,0 +1,1 @@
+{"index": 209227, "D": "Greek counterpart", "S": [], "A": []}

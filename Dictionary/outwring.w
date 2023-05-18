@@ -1,0 +1,1 @@
+{"index": 217970, "D": "to twist forcibly", "S": [], "A": []}

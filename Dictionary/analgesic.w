@@ -1,0 +1,1 @@
+{"index": 11733, "D": "a remedy that relieves or allays pain.", "S": ["anesthetic ", "anodyne ", "painkiller "], "A": []}

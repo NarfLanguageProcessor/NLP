@@ -1,0 +1,1 @@
+{"index": 4690, "D": "proper to be suggested or recommended; desirable or wise, as a course of action", "S": [], "A": []}

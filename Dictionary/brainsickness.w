@@ -1,0 +1,1 @@
+{"index": 39753, "D": "insane; crazy; mad.", "S": ["craziness ", "derangement ", "insaneness ", "lunacy ", "madness ", "mental disorder ", "mental illness ", "psychopathy ", "psychosis ", "unsoundness "], "A": []}

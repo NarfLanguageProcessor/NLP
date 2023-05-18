@@ -1,0 +1,1 @@
+{"index": 15393, "D": "acting to reduce certain signs of inflammation, as swelling, tenderness, fever, and pain.", "S": [], "A": []}

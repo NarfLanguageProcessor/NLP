@@ -1,0 +1,1 @@
+{"index": 65351, "D": "concise  quality; brevity; terseness.", "S": ["conciseness ", "condensation ", "crispness ", "curtness ", "economy ", "ephemerality ", "impermanence ", "pithiness ", "pointedness ", "succinctness ", "terseness ", "transience ", "transitoriness "], "A": ["lengthiness ", "longevity ", "permanence "]}

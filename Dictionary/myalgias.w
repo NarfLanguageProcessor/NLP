@@ -1,0 +1,1 @@
+{"index": 185627, "D": "pain in the muscles; muscular rheumatism.", "S": [], "A": []}

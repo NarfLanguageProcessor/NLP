@@ -1,0 +1,1 @@
+{"index": 55976, "D": "the water in soil that is available to plants for absorption.", "S": [], "A": []}

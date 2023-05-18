@@ -1,0 +1,1 @@
+{"index": 364251, "D": "the process of adopting, or of influencing others to adopt, ideas and practices characteristic of Europe and North America", "S": [], "A": []}

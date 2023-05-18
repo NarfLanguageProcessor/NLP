@@ -1,0 +1,1 @@
+{"index": 1816, "D": "reclining; recumbent", "S": ["decubitus "], "A": ["standing "]}

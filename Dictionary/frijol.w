@@ -1,0 +1,1 @@
+{"index": 119037, "D": "any bean of the genus Phaseolus, especially the kidney bean, the seeds of which are used for food in Mexico, in the southwestern U.S., etc.", "S": [], "A": []}

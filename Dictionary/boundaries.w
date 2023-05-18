@@ -1,0 +1,1 @@
+{"index": 38967, "D": "something that indicates bounds or limits; a limiting or bounding line.", "S": ["barrier ", "border ", "borderline ", "confines ", "edge ", "frontier ", "horizon ", "line ", "perimeter "], "A": ["center ", "inside ", "interior ", "middle ", "opening ", "start "]}

@@ -1,0 +1,1 @@
+{"index": 234558, "D": "an irrational or disproportionate fear of developing or experiencing a phobia; anxiety about encountering a phobia trigger and experiencing panic or other phobia symptoms.", "S": [], "A": []}

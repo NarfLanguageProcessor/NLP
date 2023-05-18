@@ -1,0 +1,1 @@
+{"index": 60101, "D": "an apparatus for studying tropisms in plants, usually a rotating disc to which the plant is attached so that it receives an equal stimulus on all sides", "S": [], "A": []}

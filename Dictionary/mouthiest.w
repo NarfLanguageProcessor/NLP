@@ -1,0 +1,1 @@
+{"index": 194350, "D": "rude, disrespectful, or given to back talk; insolent", "S": ["big-mouthed ", "chattering ", "chatty ", "full of hot air ", "gabby ", "garrulous ", "gossipy ", "long-winded ", "loose-lipped ", "loudmouthed ", "ranting ", "talky ", "vociferous ", "windy "], "A": []}

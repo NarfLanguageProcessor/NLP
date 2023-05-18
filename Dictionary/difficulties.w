@@ -1,0 +1,1 @@
+{"index": 85309, "D": "the fact or condition of being difficult.", "S": ["desperate straits ", "hardship ", "hock ", "straits "], "A": []}

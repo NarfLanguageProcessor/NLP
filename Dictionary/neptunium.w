@@ -1,0 +1,1 @@
+{"index": 198691, "D": "a transuranic element produced in nuclear reactors by the neutron bombardment of U-238", "S": [], "A": []}

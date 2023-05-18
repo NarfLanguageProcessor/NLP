@@ -1,0 +1,1 @@
+{"index": 12455, "D": "the zoospore of certain algae that develops into a small male plant producing antherozoids.", "S": [], "A": []}

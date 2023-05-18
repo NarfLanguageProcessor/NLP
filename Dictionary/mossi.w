@@ -1,0 +1,1 @@
+{"index": 193874, "D": "an agricultural people of Africa living mainly in Burkina Faso.", "S": [], "A": []}

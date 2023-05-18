@@ -1,0 +1,1 @@
+{"index": 61844, "D": "(of a carving) executed in cavo-relievo.", "S": [], "A": []}

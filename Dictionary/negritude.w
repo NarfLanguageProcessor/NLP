@@ -1,0 +1,1 @@
+{"index": 198099, "D": "the historical, cultural, and social heritage considered common to Black people collectively.", "S": [], "A": []}

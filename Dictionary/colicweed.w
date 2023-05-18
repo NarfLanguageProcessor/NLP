@@ -1,0 +1,1 @@
+{"index": 62757, "D": "any of several plants of the genera Dicentra or Corydalis, such as the squirrel corn and Dutchman's-breeches", "S": [], "A": []}

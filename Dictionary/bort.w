@@ -1,0 +1,1 @@
+{"index": 38537, "D": "low-quality diamond, in granular aggregate or small fragments, valuable only in crushed or powdered form, especially for industrial use as an abrasive.", "S": ["gem ", "jewel ", "rhinestone "], "A": []}

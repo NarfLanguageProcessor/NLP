@@ -1,0 +1,1 @@
+{"index": 247230, "D": "of or relating to seedlings before they emerge or appear above ground", "S": [], "A": []}

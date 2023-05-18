@@ -1,0 +1,1 @@
+{"index": 32832, "D": "of superior quality or excellence", "S": ["enhanced ", "revised ", "upgraded "], "A": ["damaged ", "injured ", "worsened "]}

@@ -1,0 +1,1 @@
+{"index": 256218, "D": "one of a Hungarian breed of medium-sized sheepdogs having long, fine hair that often mats, giving the coat a corded appearance.", "S": [], "A": []}

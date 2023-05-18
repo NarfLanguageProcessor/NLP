@@ -1,0 +1,1 @@
+{"index": 57900, "D": "any of several evergreen coniferous trees constituting the genus Cupressus, having dark-green, scalelike, overlapping leaves.", "S": [], "A": []}

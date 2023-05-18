@@ -1,0 +1,1 @@
+{"index": 281460, "D": "the state of being a scout,  especially a Boy Scout or a Girl Scout.", "S": [], "A": []}

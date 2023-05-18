@@ -1,0 +1,1 @@
+{"index": 120973, "D": "to stop up the mouth of (a person) by putting something in it, thus preventing speech, shouts, etc.", "S": ["hoax ", "quip ", "ruse ", "trick ", "wisecrack "], "A": []}

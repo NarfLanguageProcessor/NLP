@@ -1,0 +1,1 @@
+{"index": 133830, "D": "agreement; accord; harmonious relations.", "S": ["conformity ", "consensus ", "consistency ", "cooperation ", "friendship ", "good will ", "kinship ", "peace ", "rapport ", "tranquility ", "unanimity ", "understanding ", "unity "], "A": ["disagreement ", "discord ", "dislike ", "hatred ", "incompatibility "]}

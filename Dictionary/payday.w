@@ -1,0 +1,1 @@
+{"index": 223081, "D": "the day  on which wages are given, payment is made, etc.", "S": [], "A": []}

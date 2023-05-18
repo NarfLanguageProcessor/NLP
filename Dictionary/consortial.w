@@ -1,0 +1,1 @@
+{"index": 66947, "D": "a combination of financial institutions, capitalists, etc., for carrying into effect some financial operation requiring large resources of capital.", "S": [], "A": []}

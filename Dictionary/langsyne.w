@@ -1,0 +1,1 @@
+{"index": 168110, "D": "long since; long ago.", "S": ["bygone ", "past "], "A": ["tomorrow "]}

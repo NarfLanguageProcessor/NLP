@@ -1,0 +1,1 @@
+{"index": 245596, "D": "the act of pleading for, supporting, or recommending; active espousal", "S": [], "A": []}

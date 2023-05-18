@@ -1,0 +1,1 @@
+{"index": 26989, "D": "of or relating to ballistics. ", "S": [], "A": []}

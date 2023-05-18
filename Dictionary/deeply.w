@@ -1,0 +1,1 @@
+{"index": 79003, "D": "at or to a considerable extent downward; well within or beneath a surface.", "S": ["acutely ", "genuinely ", "intensely ", "passionately ", "profoundly ", "sadly ", "seriously ", "severely ", "surely ", "thoroughly "], "A": ["lightly "]}

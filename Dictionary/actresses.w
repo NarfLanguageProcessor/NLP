@@ -1,0 +1,1 @@
+{"index": 3280, "D": "a woman who acts  in stage plays, motion pictures, television broadcasts, etc., especially professionally.", "S": ["list ", "troupe "], "A": ["catch ", "keeping ", "retention "]}

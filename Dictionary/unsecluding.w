@@ -1,0 +1,1 @@
+{"index": 350614, "D": "to place in or withdraw into solitude; remove from social contact and activity, etc.", "S": [], "A": []}

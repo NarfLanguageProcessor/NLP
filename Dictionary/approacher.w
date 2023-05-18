@@ -1,0 +1,1 @@
+{"index": 17976, "D": "to come near or nearer to", "S": [], "A": []}

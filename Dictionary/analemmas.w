@@ -1,0 +1,1 @@
+{"index": 11722, "D": "a scale shaped like the figure 8, showing the declination of the sun and the equation of time for each day of the year.", "S": [], "A": []}

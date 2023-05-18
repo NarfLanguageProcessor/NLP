@@ -1,0 +1,1 @@
+{"index": 209334, "D": "the nucleic acid core and surrounding capsid  of a virus; the basic viral structure.", "S": [], "A": []}

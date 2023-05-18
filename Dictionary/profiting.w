@@ -1,0 +1,1 @@
+{"index": 251775, "D": "returns, proceeds, or revenue, as from property or investments.", "S": ["contribute ", "earn ", "improve ", "pay off ", "prosper ", "take advantage of ", "thrive "], "A": ["decline ", "fail ", "harm ", "hurt ", "lose ", "block ", "condemn ", "deteriorate ", "hinder ", "injure ", "obstruct ", "worsen "]}

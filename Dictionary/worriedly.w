@@ -1,0 +1,1 @@
+{"index": 367637, "D": "having or characterized by worry;  concerned; anxious", "S": [], "A": []}

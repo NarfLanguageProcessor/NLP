@@ -1,0 +1,1 @@
+{"index": 87233, "D": "(chiefly of members of certain religious orders) without shoes; unshod; barefoot.", "S": ["barefooted "], "A": ["shod "]}

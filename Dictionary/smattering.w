@@ -1,0 +1,1 @@
+{"index": 294770, "D": "a slight, superficial, or introductory knowledge of something", "S": ["modicum ", "smidgen "], "A": []}

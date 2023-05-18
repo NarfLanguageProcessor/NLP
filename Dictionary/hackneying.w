@@ -1,0 +1,1 @@
+{"index": 131900, "D": "a carriage or coach for hire; cab.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 222306, "D": "a colorless, odorless, gaseous element constituting about one-fifth of the volume of the atmosphere and present in a combined state in nature. It is the supporter of combustion in air and was the standard of atomic, combining, and molecular weights until 1961, when carbon 12 became the new standard. Symbol", "S": [], "A": []}

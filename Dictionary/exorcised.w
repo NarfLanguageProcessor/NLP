@@ -1,0 +1,1 @@
+{"index": 107442, "D": "to seek to expel (an evil spirit) by adjuration or religious or solemn ceremonies", "S": ["drive out "], "A": ["hold ", "keep ", "maintain ", "welcome "]}

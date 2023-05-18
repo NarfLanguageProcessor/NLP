@@ -1,0 +1,1 @@
+{"index": 228901, "D": "the state of being infested with lice.", "S": [], "A": []}

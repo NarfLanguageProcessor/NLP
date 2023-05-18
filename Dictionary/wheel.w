@@ -1,0 +1,1 @@
+{"index": 364508, "D": "a circular frame or disk arranged to revolve on an axis, as on or in vehicles or machinery.", "S": ["disk ", "drum ", "roller "], "A": []}

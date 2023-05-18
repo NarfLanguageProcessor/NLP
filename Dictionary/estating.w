@@ -1,0 +1,1 @@
+{"index": 104599, "D": "a piece of landed property, especially one of large extent with an elaborate house on it", "S": [], "A": []}

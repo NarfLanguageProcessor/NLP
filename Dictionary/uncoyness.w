@@ -1,0 +1,1 @@
+{"index": 337196, "D": "artfully or affectedly shy or reserved; slyly hesitant; coquettish. ", "S": [], "A": []}

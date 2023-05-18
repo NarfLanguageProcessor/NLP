@@ -1,0 +1,1 @@
+{"index": 22816, "D": "gloomy; morose; melancholy; morbid.", "S": ["cantankerous ", "snarly ", "splenetic ", "surly ", "waspish "], "A": ["affable ", "good-humored "]}

@@ -1,0 +1,1 @@
+{"index": 200433, "D": "a colorless, crystalline, water-insoluble, explosive solid, C6H8N6O18, used as a fulminating agent in percussion caps and in the treatment of hypertension and coronary insufficiency.", "S": [], "A": []}

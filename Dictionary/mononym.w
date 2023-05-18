@@ -1,0 +1,1 @@
+{"index": 192460, "D": "the name of a person who has or is known by only one name, usually a given name without a surname", "S": [], "A": []}

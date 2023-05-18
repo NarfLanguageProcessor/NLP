@@ -1,0 +1,1 @@
+{"index": 235624, "D": "a salt or ester of phthalic acid", "S": [], "A": []}

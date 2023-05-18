@@ -1,0 +1,1 @@
+{"index": 34806, "D": "having two right angles.", "S": [], "A": []}

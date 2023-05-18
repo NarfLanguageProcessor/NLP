@@ -1,0 +1,1 @@
+{"index": 318691, "D": "a holding, as of lands, by any kind of title; occupancy of land, a house, or the like, under a lease or on payment of rent; tenure.", "S": ["holding ", "occupancy ", "occupation ", "ownership ", "possession "], "A": []}

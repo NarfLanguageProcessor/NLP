@@ -1,0 +1,1 @@
+{"index": 123535, "D": "the science of calculating positions of the heavenly bodies on nativities.", "S": [], "A": []}

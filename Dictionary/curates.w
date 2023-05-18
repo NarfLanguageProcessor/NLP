@@ -1,0 +1,1 @@
+{"index": 75193, "D": "a member of the clergy employed to assist a rector or vicar.", "S": ["assistant ", "clergyman ", "cleric ", "dominie ", "minister ", "pastor ", "priest "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 10125, "D": "an early type of photograph, made by placing a glass negative against a dark background.", "S": [], "A": []}

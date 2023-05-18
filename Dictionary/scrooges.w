@@ -1,0 +1,1 @@
+{"index": 281984, "D": "scrouge. ", "S": ["cheapskate ", "meanie ", "misanthrope ", "misanthropist ", "miser ", "moneygrubber ", "tightwad "], "A": []}

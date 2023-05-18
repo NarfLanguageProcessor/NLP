@@ -1,0 +1,1 @@
+{"index": 106109, "D": "a form of worship said or sung in the evening.", "S": ["chant ", "ditty ", "oratorio ", "paean ", "psalm "], "A": []}

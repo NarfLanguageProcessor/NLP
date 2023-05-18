@@ -1,0 +1,1 @@
+{"index": 97796, "D": "in another direction; toward a different place or goal.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 129304, "D": "the clothes  or wrappings in which a body is buried; cerements.", "S": ["cloak ", "pall ", "veil "], "A": ["brightness ", "light "]}

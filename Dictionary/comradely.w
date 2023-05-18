@@ -1,0 +1,1 @@
+{"index": 65001, "D": "of, like, or befitting a comrade", "S": ["affectionate ", "amicable ", "cordial ", "fraternal ", "neighborly ", "selfless "], "A": ["cold ", "cool ", "hostile ", "unfriendly ", "unsociable "]}

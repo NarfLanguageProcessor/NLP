@@ -1,0 +1,1 @@
+{"index": 25355, "D": "mercury, regarded by alchemists as the assumed first principle of all metals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 191876, "D": "Compare synergism (def. 3). ", "S": [], "A": []}

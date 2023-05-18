@@ -1,0 +1,1 @@
+{"index": 66681, "D": "with knowledge or awareness of one's own existence, sensations, thoughts, surroundings, etc.", "S": ["deliberately ", "intentionally "], "A": ["unintentionally "]}

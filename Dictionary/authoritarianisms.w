@@ -1,0 +1,1 @@
+{"index": 23828, "D": "favoring complete obedience or subjection to authority  as opposed to individual freedom", "S": ["autocracy ", "despotism ", "dictatorship ", "totalitarianism "], "A": ["democracy "]}

@@ -1,0 +1,1 @@
+{"index": 23952, "D": "a heavy vessel for conducting chemical reactions under high pressure.", "S": ["castrate ", "decontaminate ", "disinfect ", "neuter ", "pasteurize ", "sanitize ", "spay "], "A": ["adulterate ", "aid ", "assist ", "continue ", "corrupt ", "dirty ", "help ", "keep ", "remain "]}

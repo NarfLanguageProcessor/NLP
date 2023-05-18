@@ -1,0 +1,1 @@
+{"index": 313849, "D": "a collection of aphorisms relating to some aspect of the conduct of life.", "S": [], "A": []}

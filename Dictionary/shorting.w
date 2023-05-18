@@ -1,0 +1,1 @@
+{"index": 288940, "D": "having little length; not long.", "S": ["afford ", "allow ", "give ", "grant ", "provide ", "save "], "A": ["deny ", "hold ", "keep ", "refuse ", "take ", "withstand ", "spend ", "waste "]}

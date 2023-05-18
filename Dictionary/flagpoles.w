@@ -1,0 +1,1 @@
+{"index": 113777, "D": "a staff or pole  on which a flag  is or can be displayed.", "S": ["beam ", "leg ", "mast ", "rod ", "stick "], "A": []}

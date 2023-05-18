@@ -1,0 +1,1 @@
+{"index": 244955, "D": "a dance step in which a couple or several couples dance around the ballroom, holding hands, as in country dances.", "S": [], "A": []}

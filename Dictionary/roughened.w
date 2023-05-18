@@ -1,0 +1,1 @@
+{"index": 274767, "D": "to make or become rough  or rougher. ", "S": ["crumpled "], "A": ["flat ", "smooth "]}

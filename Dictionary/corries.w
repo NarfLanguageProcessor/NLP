@@ -1,0 +1,1 @@
+{"index": 69683, "D": "a circular hollow in the side of a hill or mountain.", "S": [], "A": []}

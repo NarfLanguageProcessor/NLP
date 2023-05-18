@@ -1,0 +1,1 @@
+{"index": 369131, "D": "the sixth letter of the Greek alphabet (Z, \u03b6).", "S": [], "A": []}

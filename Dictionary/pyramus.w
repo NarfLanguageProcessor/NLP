@@ -1,0 +1,1 @@
+{"index": 237599, "D": "two young lovers of Babylon who, in defiance of their parents, held clandestine conversations through a crack in a wall. On believing Thisbe dead, Pyramus killed himself. When Thisbe discovered his body, she took her own life.", "S": [], "A": []}

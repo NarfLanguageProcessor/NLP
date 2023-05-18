@@ -1,0 +1,1 @@
+{"index": 318250, "D": "a combination of a telescope and a spectroscope, used for spectroscopic analysis of radiation from stars and other celestial bodies", "S": [], "A": []}

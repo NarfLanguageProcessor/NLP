@@ -1,0 +1,1 @@
+{"index": 263591, "D": "to refresh by means of relaxation and enjoyment, as restore physically or mentally.", "S": [], "A": []}

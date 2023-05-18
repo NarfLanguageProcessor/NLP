@@ -1,0 +1,1 @@
+{"index": 285977, "D": "calm, peaceful, or tranquil; unruffled", "S": [], "A": []}

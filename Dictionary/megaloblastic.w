@@ -1,0 +1,1 @@
+{"index": 182391, "D": "an abnormally large, immature, and dysfunctional red blood cell found in the blood of persons with pernicious anemia or certain other disorders.", "S": [], "A": []}

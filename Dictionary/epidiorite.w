@@ -1,0 +1,1 @@
+{"index": 102403, "D": "a schistose metamorphic rock resulting from the alteration of augite to hornblende in a gabbro or dolerite.", "S": [], "A": []}

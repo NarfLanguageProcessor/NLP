@@ -1,0 +1,1 @@
+{"index": 319116, "D": "(of a note, chord, or rest) held to the full time value.", "S": [], "A": []}

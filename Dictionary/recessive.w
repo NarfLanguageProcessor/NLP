@@ -1,0 +1,1 @@
+{"index": 262769, "D": "tending to go, move, or slant back; receding. ", "S": ["receding ", "relapsing "], "A": ["dominant ", "overbalancing ", "prevailing "]}

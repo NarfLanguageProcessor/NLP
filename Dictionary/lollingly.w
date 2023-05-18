@@ -1,0 +1,1 @@
+{"index": 174811, "D": "to recline or lean in a relaxed, lazy, or indolent manner; lounge", "S": [], "A": []}

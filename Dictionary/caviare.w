@@ -1,0 +1,1 @@
+{"index": 50211, "D": "the roe of sturgeon, especially the beluga, or other fish, usually served as an hors d'oeuvre or appetizer.", "S": [], "A": []}

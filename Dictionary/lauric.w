@@ -1,0 +1,1 @@
+{"index": 169222, "D": "of or derived from lauric acid. ", "S": [], "A": []}

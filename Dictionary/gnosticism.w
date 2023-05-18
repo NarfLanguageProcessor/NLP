@@ -1,0 +1,1 @@
+{"index": 127145, "D": "a group of ancient heresies, stressing escape from this world through the acquisition of esoteric knowledge.", "S": [], "A": []}

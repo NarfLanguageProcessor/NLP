@@ -1,0 +1,1 @@
+{"index": 355747, "D": "any amphibian of the order Urodela, having a long body and tail and four short limbs", "S": [], "A": []}

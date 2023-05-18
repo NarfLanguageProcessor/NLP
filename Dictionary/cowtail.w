@@ -1,0 +1,1 @@
+{"index": 71676, "D": "a coarse wool of poor quality.", "S": [], "A": []}

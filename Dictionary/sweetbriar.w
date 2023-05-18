@@ -1,0 +1,1 @@
+{"index": 314278, "D": "a rose, Rosa eglanteria, of Europe and central Asia, having a tall stem, stout, hooked prickles often mixed with bristles, and single, pink flowers.", "S": [], "A": []}

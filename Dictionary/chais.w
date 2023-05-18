@@ -1,0 +1,1 @@
+{"index": 52033, "D": "a shed or other aboveground building where a winemaker stores wine in casks.", "S": [], "A": []}

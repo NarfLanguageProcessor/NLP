@@ -1,0 +1,1 @@
+{"index": 266792, "D": "being free of or relieved from tension or anxiety", "S": ["aplomb ", "composure ", "dexterity ", "efficiency ", "familiarity ", "flexibility ", "fluency ", "nonchalance ", "poise ", "quickness ", "simplicity "], "A": ["inability "]}

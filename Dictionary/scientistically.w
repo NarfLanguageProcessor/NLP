@@ -1,0 +1,1 @@
+{"index": 280653, "D": "characterized by or having an exaggerated belief in the principles and methods of science.", "S": [], "A": []}

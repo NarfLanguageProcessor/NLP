@@ -1,0 +1,1 @@
+{"index": 119863, "D": "a member of a pastoral and nomadic people of mixed African and Mediterranean ancestry, scattered through western Africa from Senegal to Cameroon.", "S": [], "A": []}

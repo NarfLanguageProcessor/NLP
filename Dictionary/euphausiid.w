@@ -1,0 +1,1 @@
+{"index": 105601, "D": "any small pelagic shrimplike crustacean of the order Euphausiacea", "S": [], "A": []}

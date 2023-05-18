@@ -1,0 +1,1 @@
+{"index": 63920, "D": "to serve as a memorial or reminder of", "S": ["actual ", "ancient ", "archival ", "classical ", "factual ", "real "], "A": ["false ", "imaginary ", "modern "]}

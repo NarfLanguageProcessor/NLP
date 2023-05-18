@@ -1,0 +1,1 @@
+{"index": 136322, "D": "an individual having only one of a given pair of genes.", "S": [], "A": []}

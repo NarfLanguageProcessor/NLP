@@ -1,0 +1,1 @@
+{"index": 28548, "D": "(formerly) one of a class of irregular mounted troops in the Turkish military service.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 143067, "D": "producing only one type of gamete with respect to sex chromosomes.", "S": [], "A": []}

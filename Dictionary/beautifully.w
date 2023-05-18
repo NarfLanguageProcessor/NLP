@@ -1,0 +1,1 @@
+{"index": 29676, "D": "in a beautiful manner", "S": ["appealingly ", "attractively ", "charmingly ", "delightfully ", "elegantly ", "exquisitely ", "gorgeously ", "gracefully ", "handsomely ", "magnificently ", "seductively ", "splendidly ", "sublimely ", "superbly ", "tastefully ", "wonderfully "], "A": ["poorly "]}

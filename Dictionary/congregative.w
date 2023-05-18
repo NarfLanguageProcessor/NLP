@@ -1,0 +1,1 @@
+{"index": 66255, "D": "to come together; assemble, especially in large numbers", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 72711, "D": "a heavyweight crepe fabric.", "S": [], "A": []}

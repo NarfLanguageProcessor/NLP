@@ -1,0 +1,1 @@
+{"index": 51992, "D": "any of the metal plates secured to the hull of a sailing vessel or elsewhere to hold shrouds and backstays at their lower ends.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 304974, "D": "a room  in which a stock  of materials or goods is kept for use or sale.", "S": ["repertoire ", "routine "], "A": ["debt "]}

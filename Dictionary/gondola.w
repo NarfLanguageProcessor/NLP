@@ -1,0 +1,1 @@
+{"index": 127699, "D": "a long, narrow, flat-bottomed boat having a tall, ornamental stem and stern and sometimes a small cabin for passengers, rowed or poled by a single person who stands at the stern, facing forward", "S": ["barge ", "canoe ", "catamaran ", "craft ", "dinghy ", "raft ", "sailboat ", "schooner ", "ship ", "yacht "], "A": []}

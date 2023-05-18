@@ -1,0 +1,1 @@
+{"index": 29625, "D": "(in Dante's Vita Nuova and Divine Comedy) a symbolic figure developed from the person whom Dante first saw as a child and loved as an ideal of womanhood.", "S": [], "A": []}

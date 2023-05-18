@@ -1,0 +1,1 @@
+{"index": 306369, "D": "an enlisted person of any of the armed services whose sleeve displays stripes  denoting years of service", "S": [], "A": []}

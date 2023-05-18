@@ -1,0 +1,1 @@
+{"index": 11842, "D": "a drawing presenting a distorted image that appears in natural form under certain conditions, as when viewed at a raking angle or reflected from a curved mirror.", "S": ["deformation ", "deformity "], "A": ["grin ", "smile "]}

@@ -1,0 +1,1 @@
+{"index": 352100, "D": "capable of being stored  for considerable time without loss of freshness or usability.", "S": [], "A": []}

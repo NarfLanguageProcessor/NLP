@@ -1,0 +1,1 @@
+{"index": 156208, "D": "occurring during a period of peace between two wars,  especially between World War I and World War II.", "S": [], "A": []}

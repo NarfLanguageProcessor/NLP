@@ -1,0 +1,1 @@
+{"index": 203817, "D": "a person who has special skill or knowledge in some particular field; specialist; authority", "S": ["ignorant ", "improper ", "incompetent ", "inefficient ", "lax ", "negligent ", "unethical "], "A": ["able ", "capable ", "competent ", "efficient ", "expert ", "good ", "moral ", "right "]}

@@ -1,0 +1,1 @@
+{"index": 305810, "D": "needy; wanting", "S": ["impoverished "], "A": ["rich ", "wealthy "]}

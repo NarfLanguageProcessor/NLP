@@ -1,0 +1,1 @@
+{"index": 185888, "D": "a unit of electric current, equal to one millionth of an ampere. Symbol", "S": [], "A": []}

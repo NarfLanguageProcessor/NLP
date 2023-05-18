@@ -1,0 +1,1 @@
+{"index": 355231, "D": "to cause (something) to whirl  upward.", "S": [], "A": []}

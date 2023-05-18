@@ -1,0 +1,1 @@
+{"index": 350447, "D": "to glance at or over or read hastily", "S": [], "A": []}

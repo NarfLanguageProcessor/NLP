@@ -1,0 +1,1 @@
+{"index": 137038, "D": "one of an English breed of red beef cattle having a white face and white body markings.", "S": [], "A": []}

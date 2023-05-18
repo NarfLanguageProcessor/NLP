@@ -1,0 +1,1 @@
+{"index": 271121, "D": "the act of revealing;  revelation.", "S": ["acknowledgment ", "admission ", "confession ", "discovery ", "exposure ", "leak ", "publication "], "A": ["concealment ", "denial "]}

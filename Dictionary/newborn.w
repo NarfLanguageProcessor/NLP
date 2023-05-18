@@ -1,0 +1,1 @@
+{"index": 199372, "D": "recently or only just born. ", "S": ["babe ", "baby ", "bairn ", "bambino ", "bundle ", "child ", "kid ", "neonate ", "nursling ", "suckling ", "tot "], "A": ["adolescent ", "adult "]}

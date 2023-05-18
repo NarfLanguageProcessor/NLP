@@ -1,0 +1,1 @@
+{"index": 317756, "D": "marked by monotony or tedium;  long and tiresome", "S": ["densely ", "massively ", "thickly "], "A": ["easily ", "gently ", "lightly "]}

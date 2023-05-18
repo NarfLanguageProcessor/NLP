@@ -1,0 +1,1 @@
+{"index": 55803, "D": "a vascular, extraembryonic membrane of birds, reptiles, and certain mammals, formed by the fusion of the wall of the chorion with the wall of the allantois.", "S": [], "A": []}

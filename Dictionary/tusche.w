@@ -1,0 +1,1 @@
+{"index": 332987, "D": "a greaselike liquid used in lithography as a medium receptive to lithographic ink, and in etching and silkscreen as a resist.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259145, "D": "able to be quoted  or easily quoted,  as by reason of effectiveness, succinctness, or the like", "S": [], "A": []}

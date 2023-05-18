@@ -1,0 +1,1 @@
+{"index": 191312, "D": "to work hard; drudge. ", "S": ["back ", "cultivate ", "drive ", "drudge ", "endeavor ", "fag ", "grind ", "plod ", "slave ", "strain ", "strive ", "struggle ", "sweat ", "tend ", "toil ", "travail ", "tug ", "work "], "A": ["be lazy ", "destroy ", "discourage ", "dissuade ", "idle ", "ignore ", "laze ", "neglect ", "rest "]}

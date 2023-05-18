@@ -1,0 +1,1 @@
+{"index": 122979, "D": "any small antelope of the genus Gazella and allied genera, of Africa and Asia, noted for graceful movements and lustrous eyes.", "S": [], "A": []}

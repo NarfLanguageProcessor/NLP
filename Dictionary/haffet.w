@@ -1,0 +1,1 @@
+{"index": 132134, "D": "the part of the face above the upper jaw; the cheekbone and temple.", "S": [], "A": []}

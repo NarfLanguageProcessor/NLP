@@ -1,0 +1,1 @@
+{"index": 117634, "D": "onward or outward in place or space; forward", "S": ["away ", "first ", "forward ", "onward ", "out "], "A": []}

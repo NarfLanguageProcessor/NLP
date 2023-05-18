@@ -1,0 +1,1 @@
+{"index": 221020, "D": "to direct (work or workers); supervise; manage", "S": ["command ", "manage ", "supervise ", "survey ", "watch "], "A": ["follow ", "ignore ", "neglect "]}

@@ -1,0 +1,1 @@
+{"index": 288443, "D": "a person who owns a ship  or ships.", "S": [], "A": []}

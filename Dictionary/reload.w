@@ -1,0 +1,1 @@
+{"index": 267020, "D": "to place (cargo, goods, etc) back on (a ship. lorry, etc)", "S": ["refill ", "refresh ", "restock ", "restore "], "A": ["damage "]}

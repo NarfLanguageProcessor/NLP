@@ -1,0 +1,1 @@
+{"index": 64077, "D": "any of the major governmental divisions of the U.S.S.R.", "S": [], "A": []}

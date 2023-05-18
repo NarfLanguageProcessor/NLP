@@ -1,0 +1,1 @@
+{"index": 44240, "D": "a narrow, upright armchair of 16th-century France, having widely splayed arms and a very narrow back.", "S": [], "A": []}

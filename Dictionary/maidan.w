@@ -1,0 +1,1 @@
+{"index": 177767, "D": "an open area or space in or near a town, often used as a marketplace or parade ground.", "S": [], "A": []}

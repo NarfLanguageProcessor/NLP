@@ -1,0 +1,1 @@
+{"index": 364033, "D": "well-furnished with supplies, necessaries, etc.", "S": [], "A": []}

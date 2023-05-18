@@ -1,0 +1,1 @@
+{"index": 106233, "D": "noting, pertaining to, serving as, or based on evidence. ", "S": [], "A": []}

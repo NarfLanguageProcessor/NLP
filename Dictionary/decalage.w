@@ -1,0 +1,1 @@
+{"index": 77953, "D": "the difference between the angles of incidence of the upper and lower wings of a biplane", "S": [], "A": []}

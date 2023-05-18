@@ -1,0 +1,1 @@
+{"index": 105257, "D": "of or relating to the Greek island of Euboea", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 343766, "D": "in an unrestrained or uncontrolled way", "S": [], "A": []}

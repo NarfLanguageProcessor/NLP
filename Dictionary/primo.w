@@ -1,0 +1,1 @@
+{"index": 250561, "D": "the part of a piano duet played on the upper half of the keyboard.", "S": ["finest ", "first ", "first-rate ", "leading ", "outstanding ", "perfect ", "terrific "], "A": ["inferior ", "poor ", "least ", "minor ", "poorest ", "secondary ", "unimportant ", "worst "]}

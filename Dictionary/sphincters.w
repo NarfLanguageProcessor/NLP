@@ -1,0 +1,1 @@
+{"index": 299585, "D": "a circular band of voluntary or involuntary muscle that encircles an orifice of the body or one of its hollow organs.", "S": [], "A": []}

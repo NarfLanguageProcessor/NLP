@@ -1,0 +1,1 @@
+{"index": 286529, "D": "a combining form meaning \u201cone and a half,\u201d used in the formation of compound words", "S": [], "A": []}

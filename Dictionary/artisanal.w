@@ -1,0 +1,1 @@
+{"index": 20747, "D": "pertaining to or noting a person skilled in a utilitarian art, trade, or craft, especially one requiring manual skill", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 32776, "D": "to give evidence of; indicate", "S": ["assert ", "augur ", "bespeak ", "betide ", "denote ", "express ", "forebode ", "foreshadow ", "foreshow ", "import ", "note ", "omen ", "portend ", "presage ", "show ", "signify ", "symbolize ", "witness "], "A": ["deny "]}

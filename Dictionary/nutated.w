@@ -1,0 +1,1 @@
+{"index": 209756, "D": "to undergo or show nutation. ", "S": [], "A": []}

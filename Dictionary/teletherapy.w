@@ -1,0 +1,1 @@
+{"index": 318266, "D": "treatment of disease using radiation whose source is some distance from the body.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 124168, "D": "a winged monster with three bodies joined at the waist, killed by Hercules, who stole the monster's cattle as his tenth labour", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107261, "D": "to have actual being; be", "S": [], "A": []}

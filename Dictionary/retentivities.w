@@ -1,0 +1,1 @@
+{"index": 270376, "D": "the power to retain; retentiveness. ", "S": [], "A": []}

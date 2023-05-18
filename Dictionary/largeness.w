@@ -1,0 +1,1 @@
+{"index": 168503, "D": "of more than average size, quantity, degree, etc.; exceeding that which is common to a kind or class; big; great", "S": ["breath ", "extent ", "measure ", "proportion "], "A": []}

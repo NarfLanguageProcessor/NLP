@@ -1,0 +1,1 @@
+{"index": 102496, "D": "the study or science of epigraphs  or inscriptions, especially of ancient inscriptions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 100664, "D": "an enlightened administration; enlightened self-interest", "S": ["civilized ", "knowledgeable ", "literate ", "open-minded ", "reasonable ", "sophisticated ", "tolerant ", "well-informed "], "A": ["ignorant ", "stupid "]}

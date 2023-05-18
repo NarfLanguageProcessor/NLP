@@ -1,0 +1,1 @@
+{"index": 49440, "D": "a well-known, frequently used phrase, esp one associated with a particular group, etc", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 23292, "D": "the graphic record produced by an audiometer.", "S": [], "A": []}

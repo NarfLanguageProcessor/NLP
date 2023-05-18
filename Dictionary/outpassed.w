@@ -1,0 +1,1 @@
+{"index": 217050, "D": "to move past; go by", "S": [], "A": []}

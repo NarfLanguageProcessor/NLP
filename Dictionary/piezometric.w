@@ -1,0 +1,1 @@
+{"index": 236313, "D": "any of several instruments for measuring the pressure of a fluid or the compressibility of a substance when subjected to such a pressure.", "S": [], "A": []}

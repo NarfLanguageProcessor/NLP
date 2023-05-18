@@ -1,0 +1,1 @@
+{"index": 308100, "D": "glumelike; chaffy.", "S": [], "A": []}

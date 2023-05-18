@@ -1,0 +1,1 @@
+{"index": 46505, "D": "a person who is a specialist in canon law. ", "S": [], "A": []}

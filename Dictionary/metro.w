@@ -1,0 +1,1 @@
+{"index": 185434, "D": "the underground electric railway of Paris, France, Montreal, Canada, Washington, D.C., and other cities.", "S": ["LRT ", "busline ", "light rail ", "mass transit ", "rail rapid transit ", "railway ", "rapid transit ", "subway ", "urban transportation service "], "A": []}

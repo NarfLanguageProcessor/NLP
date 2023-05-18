@@ -1,0 +1,1 @@
+{"index": 113137, "D": "arsonist; incendiary; pyromaniac. ", "S": ["arsonist ", "incendiary ", "pyromaniac "], "A": []}

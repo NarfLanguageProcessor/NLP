@@ -1,0 +1,1 @@
+{"index": 269733, "D": "the act of respiring; inhalation and exhalation of air; breathing.", "S": [], "A": []}

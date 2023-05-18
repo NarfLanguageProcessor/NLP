@@ -1,0 +1,1 @@
+{"index": 17499, "D": "a perpendicular from the center of a regular polygon to one of its sides.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 81840, "D": "the act of preying upon or plundering; robbery; ravage.", "S": [], "A": []}

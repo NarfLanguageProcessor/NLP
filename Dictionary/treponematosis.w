@@ -1,0 +1,1 @@
+{"index": 328991, "D": "an infection caused by an organism of the genus Treponema, as syphilis, pinta, bejel, or yaws.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 353633, "D": "in a way that shows or proceeds from excessive pride or concern over one\u2019s appearance, favorable qualities, impression on others, etc.", "S": [], "A": []}

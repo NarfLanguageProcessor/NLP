@@ -1,0 +1,1 @@
+{"index": 345463, "D": "to wash (clothes, linens, etc.).", "S": ["contaminated ", "crummy ", "disheveled ", "dusty ", "filthy ", "greasy ", "grimy ", "messy ", "muddy ", "murky ", "nasty ", "polluted ", "sloppy ", "stained ", "unkempt "], "A": ["bright ", "clean ", "clear ", "ordered ", "orderly ", "sterile ", "neat "]}

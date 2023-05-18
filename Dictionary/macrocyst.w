@@ -1,0 +1,1 @@
+{"index": 176911, "D": "a large cyst  or spore case, especially the encysted, resting plasmodium of a slime mold.", "S": [], "A": []}

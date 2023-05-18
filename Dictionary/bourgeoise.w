@@ -1,0 +1,1 @@
+{"index": 39023, "D": "a female member of the bourgeoisie. ", "S": [], "A": []}

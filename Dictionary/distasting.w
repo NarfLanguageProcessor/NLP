@@ -1,0 +1,1 @@
+{"index": 89707, "D": "dislike; disinclination.", "S": ["despise ", "detest ", "disfavor ", "distaste ", "hate ", "loathe ", "mislike "], "A": []}

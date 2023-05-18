@@ -1,0 +1,1 @@
+{"index": 144497, "D": "a paid employee in a home, as a maid or cook.", "S": [], "A": []}

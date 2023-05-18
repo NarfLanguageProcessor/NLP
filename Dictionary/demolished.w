@@ -1,0 +1,1 @@
+{"index": 80765, "D": "to destroy or ruin (a building or other structure), especially on purpose; tear down; raze.", "S": ["busted ", "collapsed ", "cracked ", "crippled ", "crumbled ", "crushed ", "damaged ", "defective ", "fractured ", "fragmented ", "injured ", "mangled ", "mutilated ", "ruptured ", "severed ", "shattered ", "smashed "], "A": ["perfect ", "unbroken "]}

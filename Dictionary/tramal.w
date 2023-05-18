@@ -1,0 +1,1 @@
+{"index": 327531, "D": "a specialized hyphal tissue constituting the internal structure of mushroom gills, pore tubes, or spines.", "S": [], "A": []}

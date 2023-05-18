@@ -1,0 +1,1 @@
+{"index": 145904, "D": "an infectious, nonvenereal tropical disease, primarily of children, characterized by raspberrylike eruptions of the skin and caused by a spirochete, Treponema pertenue, that is closely related to the agent of syphilis.", "S": ["bank ", "curve ", "deviate ", "slue ", "swerve ", "turn ", "veer ", "weave ", "zigzag "], "A": ["stay ", "straighten "]}

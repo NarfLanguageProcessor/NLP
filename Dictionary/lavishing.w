@@ -1,0 +1,1 @@
+{"index": 169319, "D": "expended, bestowed, or occurring in profusion", "S": ["expend ", "fritter ", "heap ", "squander "], "A": ["hold ", "save ", "collect ", "gather ", "hoard "]}

@@ -1,0 +1,1 @@
+{"index": 364596, "D": "a face  that or a person who is pallid, as from fear.", "S": ["chicken ", "coward ", "dastard ", "nebbish ", "poltroon ", "quitter ", "recreant ", "weakling ", "wimp ", "wuss "], "A": []}

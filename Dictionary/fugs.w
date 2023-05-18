@@ -1,0 +1,1 @@
+{"index": 119844, "D": "stale air, especially the humid, warm, ill-smelling air of a crowded room, kitchen, etc.", "S": [], "A": []}

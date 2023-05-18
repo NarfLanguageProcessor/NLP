@@ -1,0 +1,1 @@
+{"index": 298013, "D": "a woody-stemmed wormwood, Artemisia abrotanum, of southern Europe, having aromatic, finely dissected leaves.", "S": [], "A": []}

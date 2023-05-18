@@ -1,0 +1,1 @@
+{"index": 273220, "D": "designating or pertaining to a group of Franks who lived along the Rhine in the neighborhood of Cologne during the 4th century or the code of laws observed by them.", "S": [], "A": []}

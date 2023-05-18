@@ -1,0 +1,1 @@
+{"index": 60928, "D": "any enzyme that causes coagulation of blood", "S": [], "A": []}

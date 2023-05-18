@@ -1,0 +1,1 @@
+{"index": 169592, "D": "a member of a league. ", "S": ["accessory ", "accomplice ", "associate ", "co-worker ", "coadjutor ", "coalitionist ", "collaborator ", "colleague ", "confederate ", "friend ", "helper ", "partner "], "A": []}

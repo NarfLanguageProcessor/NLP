@@ -1,0 +1,1 @@
+{"index": 226518, "D": "evenly pinnate. ", "S": [], "A": []}

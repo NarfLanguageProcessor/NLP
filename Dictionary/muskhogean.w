@@ -1,0 +1,1 @@
+{"index": 196063, "D": "a family of Indigenous languages of the southeastern United States, including Choctaw, Chickasaw, Creek, and several lesser-known languages.", "S": [], "A": []}

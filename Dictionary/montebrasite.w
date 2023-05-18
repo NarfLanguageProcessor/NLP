@@ -1,0 +1,1 @@
+{"index": 192886, "D": "a mineral, lithium aluminum hydroxyl phosphate, LiAlPO4(OH), isomorphous with amblygonite, used as an ore of lithium.", "S": [], "A": []}

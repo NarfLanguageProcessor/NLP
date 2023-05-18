@@ -1,0 +1,1 @@
+{"index": 191822, "D": "a question to a student for which an immediate answer is demanded, the spontaneity of which is often illuminating.", "S": [], "A": []}

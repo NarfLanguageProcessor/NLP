@@ -1,0 +1,1 @@
+{"index": 223656, "D": "the study of the distribution of ancient plants and animals and their relation to ancient geographic features.", "S": [], "A": []}

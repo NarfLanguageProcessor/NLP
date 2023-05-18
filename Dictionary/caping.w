@@ -1,0 +1,1 @@
+{"index": 46886, "D": "a sleeveless garment of various lengths, fastened around the neck and falling loosely from the shoulders, worn separately or attached to a coat or other outer garment.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 8113, "D": "a star of the second magnitude in the constellation Perseus", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 55701, "D": "a harmonically and melodically simple waltz for piano played typically with the forefinger of each hand and sometimes having an accompanying part for a second player.", "S": [], "A": []}

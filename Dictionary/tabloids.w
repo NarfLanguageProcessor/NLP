@@ -1,0 +1,1 @@
+{"index": 314875, "D": "a newspaper whose pages, usually five columns wide, are about one-half the size of a standard-sized newspaper page.", "S": ["paper "], "A": []}

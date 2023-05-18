@@ -1,0 +1,1 @@
+{"index": 311796, "D": "to put forth or into use, as power; exercise, as ability or influence; put into vigorous action", "S": [], "A": []}

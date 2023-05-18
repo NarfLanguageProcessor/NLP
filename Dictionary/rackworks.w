@@ -1,0 +1,1 @@
+{"index": 259473, "D": "a mechanism utilizing a rack,  as a rack and pinion. ", "S": [], "A": []}

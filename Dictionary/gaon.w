@@ -1,0 +1,1 @@
+{"index": 122007, "D": "a title of honor for the directors of the Jewish academies at Sura and Pumbedita in Babylonia, used from the end of the 6th century a.d. to about the beginning of the 11th century.", "S": [], "A": []}

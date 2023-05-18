@@ -1,0 +1,1 @@
+{"index": 8143, "D": "the Arabic system of arithmetical notation (with the figures 1, 2, 3, etc.).", "S": [], "A": []}

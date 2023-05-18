@@ -1,0 +1,1 @@
+{"index": 118849, "D": "disposed or quick to fret;  irritable or peevish.", "S": [], "A": []}

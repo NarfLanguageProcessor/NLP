@@ -1,0 +1,1 @@
+{"index": 91518, "D": "destined, or seemingly destined, especially to an adverse fate", "S": ["ill-fated ", "wrecked "], "A": ["blessed ", "intact ", "nice ", "protected ", "restored ", "saved ", "successful "]}

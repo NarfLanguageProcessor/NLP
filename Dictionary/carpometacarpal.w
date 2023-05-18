@@ -1,0 +1,1 @@
+{"index": 48442, "D": "of or relating to the carpus and the metacarpus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 266764, "D": "an adherent or advocate of relativism or of the principle of relativity.", "S": [], "A": []}

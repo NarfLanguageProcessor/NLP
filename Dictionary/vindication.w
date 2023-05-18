@@ -1,0 +1,1 @@
+{"index": 359853, "D": "the act of vindicating. ", "S": ["exoneration ", "proof ", "revenge "], "A": ["censure ", "condemnation "]}

@@ -1,0 +1,1 @@
+{"index": 268884, "D": "the act of requiring  or demanding.", "S": ["assigned ", "authorized ", "charged ", "decreed ", "ordered "], "A": []}

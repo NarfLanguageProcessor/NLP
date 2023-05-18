@@ -1,0 +1,1 @@
+{"index": 208128, "D": "to employ for some purpose; put into service; make use of", "S": ["abandonment ", "desuetude ", "disuse ", "neglect "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 89717, "D": "a stylized bird motif traditional in Pennsylvania Dutch art.", "S": [], "A": []}

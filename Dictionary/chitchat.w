@@ -1,0 +1,1 @@
+{"index": 54890, "D": "light conversation; casual talk; gossip.", "S": ["gossip ", "small talk "], "A": ["silence "]}

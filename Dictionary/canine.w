@@ -1,0 +1,1 @@
+{"index": 46324, "D": "of or like a dog; relating to or characteristic of dogs", "S": ["mutt ", "pooch ", "pup "], "A": []}

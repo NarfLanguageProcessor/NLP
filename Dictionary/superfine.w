@@ -1,0 +1,1 @@
+{"index": 311863, "D": "extra fine,  as in grain or texture; unusually fine", "S": [], "A": []}

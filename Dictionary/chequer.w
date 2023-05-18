@@ -1,0 +1,1 @@
+{"index": 53818, "D": "any of the marbles, pegs, or other pieces used in the game of Chinese chequers", "S": [], "A": []}

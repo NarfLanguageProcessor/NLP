@@ -1,0 +1,1 @@
+{"index": 53116, "D": "a city in SE Tennessee, on the Tennessee River", "S": [], "A": []}

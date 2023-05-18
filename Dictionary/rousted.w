@@ -1,0 +1,1 @@
+{"index": 274935, "D": "to rout, as from a place", "S": ["motivate ", "provoke ", "rouse ", "rout ", "stir "], "A": []}

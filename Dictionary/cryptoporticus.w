@@ -1,0 +1,1 @@
+{"index": 73296, "D": "a covered passage, as one underground, lighted on one side.", "S": [], "A": []}

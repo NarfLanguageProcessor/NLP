@@ -1,0 +1,1 @@
+{"index": 99326, "D": "a book, set of books, optical disc, mobile device, or online informational resource containing articles on various topics, usually in alphabetical arrangement, covering all branches of knowledge or, less commonly, all aspects of one subject.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 61460, "D": "a small, crested, long-tailed Australian parrot, Nymphicus hollandicus, often kept as a pet.", "S": [], "A": []}

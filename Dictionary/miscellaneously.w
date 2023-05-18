@@ -1,0 +1,1 @@
+{"index": 188881, "D": "consisting of members or elements of different kinds; of mixed character", "S": [], "A": []}

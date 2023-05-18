@@ -1,0 +1,1 @@
+{"index": 270162, "D": "bent backward.", "S": [], "A": []}

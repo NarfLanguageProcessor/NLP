@@ -1,0 +1,1 @@
+{"index": 77219, "D": "to cover or coat with soft, adhesive matter, as plaster or mud", "S": ["creamy ", "fatty ", "slick "], "A": ["dry "]}

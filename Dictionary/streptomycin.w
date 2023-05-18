@@ -1,0 +1,1 @@
+{"index": 306111, "D": "an antibiotic, C21H39N7O12, produced by a soil actinomycete, Streptomyces griseus, and used in medicine in the form of its white, water-soluble sulfate salt, chiefly in the treatment of tuberculosis.", "S": ["penicillin "], "A": []}

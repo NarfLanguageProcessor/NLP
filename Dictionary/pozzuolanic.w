@@ -1,0 +1,1 @@
+{"index": 245053, "D": "(of a cement admixture) having properties similar to those of pozzolana. ", "S": [], "A": []}

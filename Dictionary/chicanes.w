@@ -1,0 +1,1 @@
+{"index": 54111, "D": "deception; chicanery. ", "S": ["dishonesty ", "duplicity ", "machination ", "stratagem "], "A": ["honesty ", "openness ", "truthfulness "]}

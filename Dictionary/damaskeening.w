@@ -1,0 +1,1 @@
+{"index": 76529, "D": "of or relating to the city of Damascus.", "S": [], "A": []}

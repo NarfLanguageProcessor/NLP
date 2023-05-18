@@ -1,0 +1,1 @@
+{"index": 337168, "D": "having cognizance;  aware (usually followed by of)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321680, "D": "having relatively great extent from one surface or side to the opposite; not thin", "S": ["broad ", "chunky ", "fat ", "hard ", "heavy ", "massive ", "wide "], "A": ["easy ", "little ", "narrow ", "restricted ", "skinny ", "slight ", "slim ", "small ", "thin ", "flexible ", "loose ", "low ", "slack ", "soft ", "weak "]}

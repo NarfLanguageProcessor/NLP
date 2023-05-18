@@ -1,0 +1,1 @@
+{"index": 190519, "D": "a person who collects or records myths in writing.", "S": [], "A": []}

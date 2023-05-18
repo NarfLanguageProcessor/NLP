@@ -1,0 +1,1 @@
+{"index": 20985, "D": "of or relating to asci. ", "S": [], "A": []}

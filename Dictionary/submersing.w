@@ -1,0 +1,1 @@
+{"index": 308528, "D": "to submerge. ", "S": ["baptize ", "bathe ", "douse ", "drench ", "duck ", "dunk ", "immerse ", "irrigate ", "lave ", "lower ", "moisten ", "pitch ", "plunge ", "rinse ", "slop ", "slosh ", "soak ", "souse ", "splash ", "steep ", "submerge ", "wash ", "water ", "wet "], "A": ["dehydrate ", "dirty ", "dry ", "increase ", "rise "]}

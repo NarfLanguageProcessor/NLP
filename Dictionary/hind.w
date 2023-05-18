@@ -1,0 +1,1 @@
+{"index": 139649, "D": "situated in the rear or at the back; posterior", "S": ["behind ", "final ", "following ", "posterior ", "postern ", "rear ", "rearward ", "tail "], "A": ["beginning ", "first ", "front ", "preceding "]}

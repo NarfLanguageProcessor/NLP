@@ -1,0 +1,1 @@
+{"index": 303173, "D": "a Scot word for stand", "S": [], "A": []}

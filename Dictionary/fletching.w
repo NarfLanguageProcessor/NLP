@@ -1,0 +1,1 @@
+{"index": 114468, "D": "the feathers on an arrow, which stabilize it during flight.", "S": [], "A": []}

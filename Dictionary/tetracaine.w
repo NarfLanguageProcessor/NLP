@@ -1,0 +1,1 @@
+{"index": 319943, "D": "a white, water-soluble, crystalline solid, C15H24N2O2, used chiefly as an anesthetic.", "S": [], "A": []}

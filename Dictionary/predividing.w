@@ -1,0 +1,1 @@
+{"index": 247111, "D": "to separate into parts, groups, sections, etc.", "S": [], "A": []}

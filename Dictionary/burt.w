@@ -1,0 +1,1 @@
+{"index": 43345, "D": "U.S. surveyor and inventor.", "S": [], "A": []}

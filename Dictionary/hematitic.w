@@ -1,0 +1,1 @@
+{"index": 135925, "D": "a very common mineral, iron oxide, Fe2O3, occurring in steel-gray to black crystals and in red earthy masses", "S": [], "A": []}

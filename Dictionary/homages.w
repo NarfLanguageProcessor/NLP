@@ -1,0 +1,1 @@
+{"index": 142723, "D": "respect or reverence paid or rendered", "S": ["allegiance ", "deference ", "loyalty ", "reverence ", "tribute "], "A": ["disloyalty ", "disregard ", "censure ", "condemnation ", "criticism ", "dishonor ", "disrespect ", "faithlessness ", "inconstancy ", "treachery "]}

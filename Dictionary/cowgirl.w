@@ -1,0 +1,1 @@
+{"index": 71586, "D": "a woman who herds and tends cattle on a ranch, especially in the western U.S., and who traditionally goes about most of her work on horseback.", "S": ["farmer "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227711, "D": "the sequence of symbols and names indicating the location of a particular file in a hierarchical file system.", "S": [], "A": []}

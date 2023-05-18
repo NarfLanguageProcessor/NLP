@@ -1,0 +1,1 @@
+{"index": 57539, "D": "resembling a cyma.", "S": [], "A": []}

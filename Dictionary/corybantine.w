@@ -1,0 +1,1 @@
+{"index": 69080, "D": "frenzied; agitated; unrestrained.", "S": [], "A": []}

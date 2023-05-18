@@ -1,0 +1,1 @@
+{"index": 60842, "D": "compulsory; coercive.", "S": [], "A": []}

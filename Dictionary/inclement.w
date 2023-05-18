@@ -1,0 +1,1 @@
+{"index": 149941, "D": "(of the weather, the elements, etc.) severe, rough, or harsh; stormy.", "S": ["brutal ", "cold ", "foul ", "hard ", "harsh ", "intemperate ", "raw ", "rigorous ", "rough ", "rugged ", "severe ", "stormy ", "tempestuous ", "violent ", "wintry "], "A": ["clear ", "kind ", "merciful ", "mild ", "nice ", "sunny ", "sympathetic "]}

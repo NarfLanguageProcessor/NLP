@@ -1,0 +1,1 @@
+{"index": 233315, "D": "a biguanide administered orally in the treatment of diabetes to lower blood concentrations of glucose; it has been largely superseded by metformin. Formula", "S": [], "A": []}

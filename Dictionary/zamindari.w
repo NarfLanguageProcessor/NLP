@@ -1,0 +1,1 @@
+{"index": 368809, "D": "(in British India) the system of landholding and tax collection by zamindars.", "S": [], "A": []}

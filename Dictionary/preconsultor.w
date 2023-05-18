@@ -1,0 +1,1 @@
+{"index": 246480, "D": "a member of a secular clergy who advises a bishop.", "S": [], "A": []}

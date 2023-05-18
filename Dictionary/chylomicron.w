@@ -1,0 +1,1 @@
+{"index": 54421, "D": "a large plasma lipoprotein particle, occurring as a droplet consisting primarily of triglycerides and functioning in the transport of neutral lipids from the intestine to the tissues by way of the lymph.", "S": [], "A": []}

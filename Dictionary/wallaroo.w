@@ -1,0 +1,1 @@
+{"index": 362230, "D": "any of several large kangaroos of the genus Macropus (Osphranter), of the grassy plains of Australia, especially M. robustus, having a reddish-gray coat and inhabiting rocky hills.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 239723, "D": "a small piece of plastic, metal, ivory, etc., for plucking the strings of a guitar, lyre, mandolin, etc.", "S": [], "A": []}

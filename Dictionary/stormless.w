@@ -1,0 +1,1 @@
+{"index": 305467, "D": "without storms. ", "S": ["cool ", "harmonious ", "low-key ", "mild ", "placid ", "serene ", "slow ", "smooth ", "soothing ", "tranquil "], "A": ["agitated ", "excited ", "harsh ", "nervous ", "rough ", "uncool ", "violent "]}

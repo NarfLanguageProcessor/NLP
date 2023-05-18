@@ -1,0 +1,1 @@
+{"index": 40341, "D": "without breath or breathing with difficulty; gasping; panting", "S": [], "A": []}

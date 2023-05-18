@@ -1,0 +1,1 @@
+{"index": 304651, "D": "R (obert) L (awrence). born 1943, US writer, noted for his numerous bestselling horror novels for older children, esp those in the Goosebumps and Fear Street series", "S": [], "A": []}

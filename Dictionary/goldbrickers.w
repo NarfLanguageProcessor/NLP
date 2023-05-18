@@ -1,0 +1,1 @@
+{"index": 127491, "D": "a brick  made to look like gold,  sold by a swindler.", "S": ["deserter ", "dropout ", "goldbrick ", "goof-off ", "shirker ", "slacker ", "wimp "], "A": []}

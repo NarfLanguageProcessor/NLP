@@ -1,0 +1,1 @@
+{"index": 234679, "D": "(of a speech sound) shared by a set of echoic or symbolic words, as the sn- of sneer, snarl, snatch, snide, snitch, snoop, etc.", "S": [], "A": []}

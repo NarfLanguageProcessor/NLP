@@ -1,0 +1,1 @@
+{"index": 147118, "D": "the dress worn by male Muslims on their pilgrimage to Mecca, consisting of two white cotton cloths, one worn round the waist, the other over the left shoulder.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 85318, "D": "lacking confidence in one's own ability, worth, or fitness; timid; shy. ", "S": [], "A": []}

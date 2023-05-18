@@ -1,0 +1,1 @@
+{"index": 118741, "D": "to make (something or someone) resemble the French,  as in manners, customs, or dress", "S": [], "A": []}

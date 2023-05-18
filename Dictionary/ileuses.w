@@ -1,0 +1,1 @@
+{"index": 147233, "D": "intestinal obstruction characterized by lack of peristalsis and leading to severe colicky pain and vomiting.", "S": [], "A": []}

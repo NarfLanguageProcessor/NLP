@@ -1,0 +1,1 @@
+{"index": 164398, "D": "(in Russia) a covered sledge or wagon", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 210207, "D": "a person to whom a bond is given.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 71093, "D": "a signature  added by way of countersigning. ", "S": ["advocacy ", "affirmation ", "approval ", "backing ", "commercial ", "confirmation ", "favor ", "permission ", "ratification ", "recommendation ", "signature "], "A": ["denial ", "disapproval ", "disfavor ", "opposition ", "veto ", "refusal "]}

@@ -1,0 +1,1 @@
+{"index": 160264, "D": "a stone,  or one of the stones,  forming one jamb  of an opening.", "S": [], "A": []}

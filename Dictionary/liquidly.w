@@ -1,0 +1,1 @@
+{"index": 173323, "D": "composed of molecules that move freely among themselves but do not tend to separate like those of gases; neither gaseous nor solid.", "S": [], "A": []}

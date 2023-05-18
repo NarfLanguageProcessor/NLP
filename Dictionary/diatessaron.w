@@ -1,0 +1,1 @@
+{"index": 84576, "D": "a combining of the four Gospels of the Bible (Matthew, Mark, Luke, and John) into a single narrative.", "S": [], "A": []}

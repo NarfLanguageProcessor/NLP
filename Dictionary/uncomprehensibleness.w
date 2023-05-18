@@ -1,0 +1,1 @@
+{"index": 337434, "D": "capable of being comprehended  or understood; intelligible.", "S": [], "A": []}

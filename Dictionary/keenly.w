@@ -1,0 +1,1 @@
+{"index": 163575, "D": "in a way or to a degree that is very sharply or distinctly felt", "S": ["severely "], "A": []}

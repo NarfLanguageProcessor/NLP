@@ -1,0 +1,1 @@
+{"index": 152901, "D": "a small container of horn  or other material, formerly used to hold writing ink. ", "S": [], "A": []}

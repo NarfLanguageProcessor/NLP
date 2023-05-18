@@ -1,0 +1,1 @@
+{"index": 142502, "D": "a cry for attention, or of encouragement", "S": [], "A": []}

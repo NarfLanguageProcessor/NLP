@@ -1,0 +1,1 @@
+{"index": 327993, "D": "movement, passage, or change from one position, state, stage, subject, concept, etc., to another; change", "S": [], "A": []}

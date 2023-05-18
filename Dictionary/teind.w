@@ -1,0 +1,1 @@
+{"index": 317926, "D": "a Scot and northern English word for tithe", "S": [], "A": []}

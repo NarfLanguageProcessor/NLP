@@ -1,0 +1,1 @@
+{"index": 343248, "D": "unappreciative; not displaying gratitude; not giving due return or recompense for benefits conferred", "S": [], "A": []}

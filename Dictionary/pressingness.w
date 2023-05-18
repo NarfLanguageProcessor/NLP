@@ -1,0 +1,1 @@
+{"index": 249581, "D": "urgent; demanding immediate attention", "S": ["contingency ", "vicissitude "], "A": ["advantage ", "benefit ", "blessing ", "boon ", "calm ", "comfort ", "ease ", "good ", "good fortune ", "miracle ", "peace ", "pleasure ", "plenty ", "solution "]}

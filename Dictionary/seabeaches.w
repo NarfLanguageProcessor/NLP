@@ -1,0 +1,1 @@
+{"index": 282390, "D": "a beach  lying along a sea  or ocean.", "S": [], "A": []}

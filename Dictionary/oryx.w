@@ -1,0 +1,1 @@
+{"index": 214647, "D": "a large antelope of the genus Oryx, with pale fur and long horns", "S": [], "A": []}

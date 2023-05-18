@@ -1,0 +1,1 @@
+{"index": 264221, "D": "to relieve of a charge or load; unload", "S": [], "A": []}

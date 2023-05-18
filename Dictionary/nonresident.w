@@ -1,0 +1,1 @@
+{"index": 206765, "D": "not resident  in a particular place.", "S": ["alien ", "different ", "external ", "offshore ", "overseas ", "unfamiliar "], "A": ["characteristic ", "familiar ", "known ", "local ", "national ", "native ", "regular ", "relevant "]}

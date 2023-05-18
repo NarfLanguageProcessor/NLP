@@ -1,0 +1,1 @@
+{"index": 227384, "D": "with equal pace or progress; side by side.", "S": [], "A": []}

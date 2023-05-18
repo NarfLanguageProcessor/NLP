@@ -1,0 +1,1 @@
+{"index": 321668, "D": "a member of a class of diuretic substances that inhibit the reabsorption of sodium chloride in the distal convoluted tubule of the kidneys", "S": [], "A": []}

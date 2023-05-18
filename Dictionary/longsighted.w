@@ -1,0 +1,1 @@
+{"index": 175002, "D": "farsighted; hypermetropic.", "S": ["visionary "], "A": []}

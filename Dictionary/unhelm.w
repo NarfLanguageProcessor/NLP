@@ -1,0 +1,1 @@
+{"index": 343647, "D": "to remove the helmet of (oneself or another)", "S": [], "A": []}

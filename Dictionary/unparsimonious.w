@@ -1,0 +1,1 @@
+{"index": 347479, "D": "characterized by or showing parsimony;  frugal or stingy.", "S": [], "A": []}

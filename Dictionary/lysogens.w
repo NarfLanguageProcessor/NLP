@@ -1,0 +1,1 @@
+{"index": 173457, "D": "a bacterial cell or strain that has been infected with a temperate virus, one that does not cause destruction of the cell.", "S": [], "A": []}

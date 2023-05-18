@@ -1,0 +1,1 @@
+{"index": 257503, "D": "any member of a meteor shower occurring annually around Jan 3 and appearing to radiate from a point in the constellation Bo\u00f6tes", "S": [], "A": []}

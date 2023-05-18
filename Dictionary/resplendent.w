@@ -1,0 +1,1 @@
+{"index": 269757, "D": "shining brilliantly; gleaming; splendid", "S": ["blazing ", "brilliant ", "dazzling ", "gleaming ", "glittering ", "glorious ", "gorgeous ", "luminous ", "lustrous ", "magnificent ", "splendid ", "sublime "], "A": ["bad ", "dark ", "dull ", "poor ", "ugly "]}

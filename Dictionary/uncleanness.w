@@ -1,0 +1,1 @@
+{"index": 337009, "D": "not clean; dirty.", "S": ["dregs ", "feculence ", "filth ", "filthiness ", "foulness ", "griminess ", "grubbiness ", "rottenness ", "smuttiness ", "squalor ", "tarnish ", "uncleanliness "], "A": []}

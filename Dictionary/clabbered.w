@@ -1,0 +1,1 @@
+{"index": 58972, "D": "milk that has soured and thickened; curdled milk.", "S": ["deep ", "gooey ", "heavy ", "impenetrable ", "opaque ", "stiff ", "syrupy "], "A": ["clear ", "easy ", "light ", "soft ", "trivial ", "understandable ", "flexible ", "indefinite ", "loose ", "slack "]}

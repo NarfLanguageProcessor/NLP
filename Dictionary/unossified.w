@@ -1,0 +1,1 @@
+{"index": 347274, "D": "hardened like or into bone.", "S": [], "A": []}

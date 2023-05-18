@@ -1,0 +1,1 @@
+{"index": 80856, "D": "to make evident or establish by arguments or reasoning; prove", "S": ["accepted ", "approved ", "closed ", "concluded ", "confirmed ", "endorsed ", "identified "], "A": ["disapproved ", "uncertain "]}

@@ -1,0 +1,1 @@
+{"index": 351337, "D": "ready or inclined to sleep;  drowsy.", "S": [], "A": []}

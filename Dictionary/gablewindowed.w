@@ -1,0 +1,1 @@
+{"index": 120827, "D": "a window in or under a gable.", "S": [], "A": []}

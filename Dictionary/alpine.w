@@ -1,0 +1,1 @@
+{"index": 9379, "D": "of, pertaining to, on, or part of any lofty mountain.", "S": ["aerial ", "elevated ", "high ", "high-reaching ", "in the clouds ", "lofty ", "montane ", "mountainous ", "rangy ", "snowcapped ", "soaring ", "towering "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97029, "D": "pertaining to the force of electricity in motion.", "S": [], "A": []}

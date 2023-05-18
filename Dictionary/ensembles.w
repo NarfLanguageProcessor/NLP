@@ -1,0 +1,1 @@
+{"index": 100986, "D": "all the parts of a thing taken together, so that each part is considered only in relation to the whole.", "S": ["apparel ", "attire ", "closet ", "dresser ", "trunk "], "A": []}

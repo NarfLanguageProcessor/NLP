@@ -1,0 +1,1 @@
+{"index": 341080, "D": "worked out with great care and nicety of detail; executed with great minuteness", "S": ["classic ", "clean ", "elementary ", "modest ", "plain ", "pure ", "uncomplicated "], "A": ["abnormal ", "abstruse ", "complex ", "complicated ", "difficult ", "dirty ", "extraordinary ", "immodest ", "impure ", "indefinite ", "intricate ", "polluted ", "unchaste "]}

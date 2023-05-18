@@ -1,0 +1,1 @@
+{"index": 150250, "D": "of little or no importance; insignificant; trivial.", "S": ["insignificant ", "negligible ", "trivial ", "unimportant ", "worthless "], "A": ["consequential ", "important ", "significant ", "useful ", "valuable ", "worthwhile "]}

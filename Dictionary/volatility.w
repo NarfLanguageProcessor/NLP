@@ -1,0 +1,1 @@
+{"index": 361059, "D": "evaporating rapidly; passing off readily in the form of vapor", "S": ["dryness ", "vaporization ", "vaporousness "], "A": []}

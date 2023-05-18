@@ -1,0 +1,1 @@
+{"index": 137741, "D": "of or relating to an atom other than carbon, particularly in a cyclic compound.", "S": [], "A": []}

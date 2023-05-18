@@ -1,0 +1,1 @@
+{"index": 341368, "D": "the branch of zoology dealing with insects.", "S": [], "A": []}

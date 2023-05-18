@@ -1,0 +1,1 @@
+{"index": 248910, "D": "a person who is a student at or a graduate of a preparatory school.", "S": ["Waspy "], "A": []}

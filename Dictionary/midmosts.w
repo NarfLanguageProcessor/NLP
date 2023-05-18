@@ -1,0 +1,1 @@
+{"index": 186778, "D": [], "S": ["average ", "center ", "central ", "intermediary ", "intermediate ", "mean ", "midpoint ", "midway ", "par "], "A": ["extreme "]}

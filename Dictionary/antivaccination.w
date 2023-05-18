@@ -1,0 +1,1 @@
+{"index": 16395, "D": "opposed to vaccines  and vaccination", "S": [], "A": []}

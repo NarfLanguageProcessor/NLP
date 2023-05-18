@@ -1,0 +1,1 @@
+{"index": 206521, "D": "ability, willingness, or quickness to receive or accept ideas, requests, experiences, etc.", "S": [], "A": []}

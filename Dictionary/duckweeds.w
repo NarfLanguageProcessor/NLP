@@ -1,0 +1,1 @@
+{"index": 93776, "D": "any plant of the family Lemnaceae, especially of the genus Lemna, comprising small aquatic plants that float free on still water.", "S": [], "A": []}

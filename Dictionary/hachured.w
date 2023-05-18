@@ -1,0 +1,1 @@
+{"index": 131843, "D": "one of a series of short parallel lines drawn on a map to indicate topographic relief.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 131367, "D": "a quiet anchorage, as in a cove, used by small yachts.", "S": [], "A": []}

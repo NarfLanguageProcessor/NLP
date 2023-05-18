@@ -1,0 +1,1 @@
+{"index": 206264, "D": "containing or implying a promise. ", "S": [], "A": []}

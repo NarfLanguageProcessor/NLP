@@ -1,0 +1,1 @@
+{"index": 21839, "D": "an assistive device such as a hearing aid", "S": ["dependable ", "usable "], "A": ["unhelpful ", "unprofitable ", "unserviceable ", "useless ", "weak ", "worthless "]}

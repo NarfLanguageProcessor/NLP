@@ -1,0 +1,1 @@
+{"index": 228478, "D": "any of several varieties of apple having a red skin", "S": [], "A": []}

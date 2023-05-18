@@ -1,0 +1,1 @@
+{"index": 332302, "D": "swollen, or affected with swelling, as a part of the body.", "S": ["bombastic ", "distended ", "enlarged ", "inflated ", "overblown ", "pompous ", "protuberant ", "puffy ", "swollen ", "tumescent ", "turgid "], "A": ["shrunken "]}

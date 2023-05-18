@@ -1,0 +1,1 @@
+{"index": 196915, "D": [], "S": ["antipathetic ", "averse ", "biased ", "bigoted ", "chauvinistic ", "close-minded ", "communist ", "conservative ", "contemptuous ", "dictatorial ", "disdainful ", "dogmatic ", "fanatical ", "fractious ", "hateful ", "illiberal ", "indignant ", "individualistic ", "inflexible ", "irate ", "irritable ", "jaundiced "], "A": []}

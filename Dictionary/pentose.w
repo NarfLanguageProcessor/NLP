@@ -1,0 +1,1 @@
+{"index": 230101, "D": "a monosaccharide containing five atoms of carbon, as xylose, C5H10O5, or produced from pentosans by hydrolysis.", "S": [], "A": []}

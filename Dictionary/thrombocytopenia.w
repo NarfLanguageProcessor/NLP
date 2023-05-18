@@ -1,0 +1,1 @@
+{"index": 322773, "D": "an abnormal decrease in the number of blood platelets.", "S": [], "A": []}

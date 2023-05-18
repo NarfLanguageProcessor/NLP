@@ -1,0 +1,1 @@
+{"index": 356915, "D": "of or containing vanadium,  especially in the trivalent or pentavalent state.", "S": [], "A": []}

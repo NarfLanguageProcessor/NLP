@@ -1,0 +1,1 @@
+{"index": 67664, "D": "either of two opposed and complementary elements in a relationship.", "S": [], "A": []}

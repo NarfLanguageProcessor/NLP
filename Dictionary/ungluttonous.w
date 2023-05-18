@@ -1,0 +1,1 @@
+{"index": 343143, "D": "tending to eat and drink excessively; voracious.", "S": [], "A": []}

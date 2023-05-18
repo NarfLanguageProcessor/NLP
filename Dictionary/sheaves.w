@@ -1,0 +1,1 @@
+{"index": 287733, "D": "plural of sheaf. ", "S": ["bag ", "bottle ", "box ", "bundle ", "container ", "kit ", "packet ", "parcel "], "A": []}

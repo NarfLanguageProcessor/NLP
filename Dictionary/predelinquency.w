@@ -1,0 +1,1 @@
+{"index": 246756, "D": "failure in or neglect of duty or obligation; dereliction; default", "S": [], "A": []}

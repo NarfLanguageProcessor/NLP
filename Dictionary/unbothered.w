@@ -1,0 +1,1 @@
+{"index": 336091, "D": "not experiencing mental or physical discomfort", "S": ["breezy ", "cheerful ", "cheery ", "happy ", "happy-go-lucky ", "jaunty ", "jovial "], "A": ["depressed ", "dissatisfied ", "sad ", "troubled ", "unhappy "]}

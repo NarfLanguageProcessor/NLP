@@ -1,0 +1,1 @@
+{"index": 291661, "D": "characterized by, guilty of, or full of sin;  wicked", "S": ["atrocity ", "degradation ", "evil "], "A": ["good ", "goodness ", "morality ", "virtue "]}

@@ -1,0 +1,1 @@
+{"index": 261687, "D": "the economic policies put forth by the administration of President Ronald Reagan, especially as emphasizing supply-side theory.", "S": [], "A": []}

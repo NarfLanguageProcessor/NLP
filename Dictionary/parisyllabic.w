@@ -1,0 +1,1 @@
+{"index": 226541, "D": "Compare imparisyllabic", "S": [], "A": []}

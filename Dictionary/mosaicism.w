@@ -1,0 +1,1 @@
+{"index": 193784, "D": "a condition in which an organism or part is composed of two or more genetically distinct tissues owing to experimental manipulation or to faulty distribution of genetic material during mitosis.", "S": [], "A": []}

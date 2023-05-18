@@ -1,0 +1,1 @@
+{"index": 74138, "D": "the state or quality of being cruel.", "S": ["barbarism ", "barbarity ", "inhumanity ", "malice ", "persecution ", "savagery ", "torture "], "A": ["kindness ", "love "]}

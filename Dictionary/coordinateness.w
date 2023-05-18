@@ -1,0 +1,1 @@
+{"index": 68361, "D": "of the same order or degree; equal in rank or importance.", "S": [], "A": []}

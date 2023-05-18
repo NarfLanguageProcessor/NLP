@@ -1,0 +1,1 @@
+{"index": 347916, "D": "punctured or perforated, as to form a decorative design", "S": [], "A": []}

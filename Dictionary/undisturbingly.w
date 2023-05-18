@@ -1,0 +1,1 @@
+{"index": 340665, "D": "upsetting or disquieting; dismaying", "S": [], "A": []}

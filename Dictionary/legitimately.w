@@ -1,0 +1,1 @@
+{"index": 170146, "D": "according to law; lawful", "S": ["accurately ", "correctly ", "decently ", "duly ", "equally ", "equitably ", "honestly ", "honorably ", "impartially ", "lawfully ", "legally ", "properly ", "reasonably ", "rightfully ", "rightly "], "A": ["wrongly "]}

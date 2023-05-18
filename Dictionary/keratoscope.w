@@ -1,0 +1,1 @@
+{"index": 163960, "D": "an instrument, as Placido's disk, for determining the symmetry of the curvature of the cornea.", "S": [], "A": []}

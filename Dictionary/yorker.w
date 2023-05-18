@@ -1,0 +1,1 @@
+{"index": 157694, "D": "a ball bowled so as to pitch just under or just beyond the bat", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 124066, "D": "oriented movement of a motile organism toward or away from a gravitational force.", "S": [], "A": []}

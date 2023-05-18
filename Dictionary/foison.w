@@ -1,0 +1,1 @@
+{"index": 115828, "D": "abundance; plenty.", "S": ["bonanza ", "cash crop ", "fat of the land ", "gold mine ", "windfall "], "A": []}

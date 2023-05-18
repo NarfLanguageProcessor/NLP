@@ -1,0 +1,1 @@
+{"index": 265273, "D": "amended by removal of faults, abuses, etc.", "S": ["reconstituted ", "reconstructed ", "transformed "], "A": ["degenerated ", "deteriorated ", "preserved "]}

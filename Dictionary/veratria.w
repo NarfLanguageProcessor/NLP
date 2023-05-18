@@ -1,0 +1,1 @@
+{"index": 358329, "D": "a white or grayish-white, slightly water-soluble, poisonous mixture of alkaloids  obtained by extraction from the seeds of sabadilla  and the rhizomes of white hellebore", "S": [], "A": []}

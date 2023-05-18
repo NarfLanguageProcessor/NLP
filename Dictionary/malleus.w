@@ -1,0 +1,1 @@
+{"index": 178566, "D": "the outermost of a chain of three small bones in the middle ear  of mammals.", "S": [], "A": []}

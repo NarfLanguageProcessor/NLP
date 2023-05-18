@@ -1,0 +1,1 @@
+{"index": 19588, "D": "to argue,  dispute, or wrangle.", "S": [], "A": []}

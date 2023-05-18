@@ -1,0 +1,1 @@
+{"index": 16466, "D": "Compare synonym (def. 1). ", "S": [], "A": []}

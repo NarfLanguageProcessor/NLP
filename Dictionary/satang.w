@@ -1,0 +1,1 @@
+{"index": 278648, "D": "a monetary unit and former coin of Thailand, one 100th of a baht.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 96779, "D": "an elastic filament serving to disperse spores.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 368993, "D": "a small shining disk or spangle used for ornamentation, as on clothing, accessories, or theatrical costumes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 369128, "D": "keen relish; hearty enjoyment; gusto.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 360990, "D": "a graphic representation of a person's voice,  showing the component frequencies as analyzed by a sound spectrograph.", "S": [], "A": []}

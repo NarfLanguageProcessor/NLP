@@ -1,0 +1,1 @@
+{"index": 30805, "D": "simple past tense and past participle of behold. ", "S": ["attended ", "checked ", "detected ", "noticed ", "realized ", "recognized "], "A": ["abandoned ", "desecrated ", "forgotten ", "unnoticed ", "unperceived ", "unseen "]}

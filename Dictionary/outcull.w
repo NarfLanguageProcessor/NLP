@@ -1,0 +1,1 @@
+{"index": 216433, "D": "to select and remove from a group, especially to discard or destroy as inferior", "S": [], "A": []}

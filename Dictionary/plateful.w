@@ -1,0 +1,1 @@
+{"index": 239320, "D": "the amount that a plate  will hold.", "S": ["allowance ", "course ", "dollop ", "meal ", "order ", "piece ", "ration ", "serving ", "share "], "A": ["whole "]}

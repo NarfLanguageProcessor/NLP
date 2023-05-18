@@ -1,0 +1,1 @@
+{"index": 85415, "D": "the process in the alimentary canal by which food is broken up physically, as by the action of the teeth, and chemically, as by the action of enzymes, and converted into a substance suitable for absorption and assimilation into the body.", "S": ["absorption ", "metabolism "], "A": []}

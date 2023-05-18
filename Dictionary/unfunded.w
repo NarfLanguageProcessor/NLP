@@ -1,0 +1,1 @@
+{"index": 342824, "D": "not provided with a fund or money; not financed.", "S": [], "A": []}

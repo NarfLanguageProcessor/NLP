@@ -1,0 +1,1 @@
+{"index": 346891, "D": "a small notch, groove, chip, or the like, cut into or existing in something.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 151081, "D": "not discriminating or discerning; lacking in care, judgment, selectivity, etc.", "S": ["aimless ", "extensive ", "haphazard ", "unplanned ", "wholesale "], "A": ["planned "]}

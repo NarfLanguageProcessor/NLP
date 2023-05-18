@@ -1,0 +1,1 @@
+{"index": 268553, "D": "a severe reproof or rebuke, especially a formal one by a person in authority.", "S": ["admonition ", "censure ", "rebuke "], "A": ["compliment ", "praise ", "commendation "]}

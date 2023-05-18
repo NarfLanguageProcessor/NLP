@@ -1,0 +1,1 @@
+{"index": 238681, "D": "plagiotropic  tendency or growth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 189174, "D": "discomfort; distress; suffering.", "S": [], "A": []}

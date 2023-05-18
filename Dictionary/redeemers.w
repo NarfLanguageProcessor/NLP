@@ -1,0 +1,1 @@
+{"index": 263992, "D": "a person who redeems. ", "S": ["deliverer ", "rescuer "], "A": []}

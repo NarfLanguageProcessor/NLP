@@ -1,0 +1,1 @@
+{"index": 40518, "D": "to make (beer, ale, etc.) by steeping, boiling, and fermenting malt and hops.", "S": ["beverage ", "blend ", "broth ", "distillation ", "drink ", "liquor ", "melange ", "mishmash ", "mixture ", "m\u00e9lange "], "A": ["ingredient "]}

@@ -1,0 +1,1 @@
+{"index": 65908, "D": "Gestalt psychology. ", "S": [], "A": []}

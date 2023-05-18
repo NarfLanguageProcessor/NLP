@@ -1,0 +1,1 @@
+{"index": 126786, "D": "a person who makes or sells gloves. ", "S": [], "A": []}

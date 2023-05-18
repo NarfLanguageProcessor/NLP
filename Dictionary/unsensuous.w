@@ -1,0 +1,1 @@
+{"index": 350769, "D": "gratifying the senses", "S": [], "A": []}

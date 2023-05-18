@@ -1,0 +1,1 @@
+{"index": 42569, "D": "obstinately opinionated, especially in refusing to consider alternatives; stubborn.", "S": ["mulishly ", "obdurately "], "A": ["graciously ", "obediently "]}

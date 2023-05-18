@@ -1,0 +1,1 @@
+{"index": 285535, "D": "one of the individual leaves or parts of the calyx of a flower.", "S": [], "A": []}

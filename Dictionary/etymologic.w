@@ -1,0 +1,1 @@
+{"index": 105164, "D": "the derivation of a word.", "S": [], "A": []}

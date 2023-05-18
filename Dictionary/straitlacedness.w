@@ -1,0 +1,1 @@
+{"index": 305718, "D": "excessively strict in conduct or morality; puritanical; prudish", "S": [], "A": []}

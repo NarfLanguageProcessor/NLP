@@ -1,0 +1,1 @@
+{"index": 327457, "D": "the state or position of being a trainee. ", "S": [], "A": []}

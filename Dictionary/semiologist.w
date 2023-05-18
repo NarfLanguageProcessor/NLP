@@ -1,0 +1,1 @@
+{"index": 284587, "D": "the study of signs and symbols; semiotics.", "S": [], "A": []}

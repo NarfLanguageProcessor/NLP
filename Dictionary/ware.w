@@ -1,0 +1,1 @@
+{"index": 362593, "D": "any intangible items, as services or products of artistic or intellectual creativity, that are salable", "S": ["commodity ", "fabric ", "merchandise ", "textile "], "A": []}

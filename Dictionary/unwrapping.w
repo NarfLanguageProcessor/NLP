@@ -1,0 +1,1 @@
+{"index": 354398, "D": "to remove or open the wrapping of.", "S": ["unroll ", "untie "], "A": ["cover ", "suppress "]}

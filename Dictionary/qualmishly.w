@@ -1,0 +1,1 @@
+{"index": 257891, "D": "tending to have, or having, qualms. ", "S": [], "A": []}

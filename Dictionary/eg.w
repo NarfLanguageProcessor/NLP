@@ -1,0 +1,1 @@
+{"index": 96139, "D": "for example; for the sake of example; such as", "S": ["as ", "for example ", "for instance ", "such as ", "thus "], "A": []}

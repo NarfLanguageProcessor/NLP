@@ -1,0 +1,1 @@
+{"index": 193298, "D": "in a moral  manner.", "S": ["properly ", "scrupulously "], "A": ["dishonorably ", "wrongly "]}

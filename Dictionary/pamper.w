@@ -1,0 +1,1 @@
+{"index": 224265, "D": "to treat or gratify with extreme or excessive indulgence, kindness, or care", "S": ["coddle ", "gratify ", "indulge ", "regale ", "spoil ", "tickle "], "A": ["disappoint ", "ignore ", "anger ", "deny ", "refuse ", "upset "]}

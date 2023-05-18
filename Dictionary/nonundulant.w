@@ -1,0 +1,1 @@
+{"index": 208078, "D": "undulating;  wavelike in motion or pattern", "S": [], "A": []}

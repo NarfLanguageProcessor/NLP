@@ -1,0 +1,1 @@
+{"index": 332715, "D": "English mathematician, logician, and pioneer in computer theory.", "S": [], "A": []}

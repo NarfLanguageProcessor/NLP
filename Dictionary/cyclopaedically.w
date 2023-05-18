@@ -1,0 +1,1 @@
+{"index": 57198, "D": "like a cyclopedia in character or contents; broad and varied; exhaustive.", "S": [], "A": []}

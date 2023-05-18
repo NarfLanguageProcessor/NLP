@@ -1,0 +1,1 @@
+{"index": 73080, "D": "the study of the effects of very low temperatures on living organisms and biological systems.", "S": [], "A": []}

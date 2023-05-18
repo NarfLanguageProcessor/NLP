@@ -1,0 +1,1 @@
+{"index": 18737, "D": "a bishop of the highest rank who presides over an archbishopric or archdiocese.", "S": ["bishop ", "chaplain ", "cleric ", "evangelist ", "missionary ", "pastor ", "pontiff ", "preacher ", "priest ", "rabbi "], "A": ["layman ", "layperson "]}

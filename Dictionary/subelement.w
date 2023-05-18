@@ -1,0 +1,1 @@
+{"index": 307866, "D": "a component or constituent of a whole or one of the parts into which a whole may be resolved by analysis", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 140019, "D": "excessively or meticulously critical;  overcritical.", "S": ["carping ", "caviling ", "censorious ", "critical ", "demanding ", "faultfinding ", "finicky ", "fussy ", "hair-splitting ", "hard to please ", "niggling ", "nit-picking ", "overcritical ", "persnickety "], "A": []}

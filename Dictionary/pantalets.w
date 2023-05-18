@@ -1,0 +1,1 @@
+{"index": 224881, "D": "long drawers extending below the skirt, with a frill or other finish at the bottom of the leg, commonly worn by women and girls in the 19th century.", "S": [], "A": []}

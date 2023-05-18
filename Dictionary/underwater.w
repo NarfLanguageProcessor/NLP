@@ -1,0 +1,1 @@
+{"index": 340093, "D": "existing or occurring under water. ", "S": ["submerged ", "undersea "], "A": []}

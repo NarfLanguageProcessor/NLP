@@ -1,0 +1,1 @@
+{"index": 207899, "D": "of the nature of or serving as a type  or representative specimen.", "S": [], "A": []}

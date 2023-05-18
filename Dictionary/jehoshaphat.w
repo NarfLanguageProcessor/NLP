@@ -1,0 +1,1 @@
+{"index": 160771, "D": "a king of Judah, son of Asa, who reigned in the 9th century b.c. 1 Kings 22", "S": [], "A": []}

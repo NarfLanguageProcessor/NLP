@@ -1,0 +1,1 @@
+{"index": 239607, "D": "an appeal or entreaty", "S": ["appeal ", "application ", "entreaty ", "overture ", "petition ", "prayer ", "solicitation ", "suit "], "A": ["demand "]}

@@ -1,0 +1,1 @@
+{"index": 329503, "D": "manifesting trichroism. ", "S": [], "A": []}

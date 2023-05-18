@@ -1,0 +1,1 @@
+{"index": 139191, "D": "a map or chart showing the average rainfall for the localities represented.", "S": [], "A": []}

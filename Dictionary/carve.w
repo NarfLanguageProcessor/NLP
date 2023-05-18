@@ -1,0 +1,1 @@
+{"index": 48708, "D": "to cut (a solid material) so as to form something", "S": ["chisel ", "divide ", "engrave ", "etch ", "fashion ", "hack ", "mold ", "sculpt ", "shape ", "slice "], "A": ["combine ", "unite ", "increase ", "join ", "mend ", "sew "]}

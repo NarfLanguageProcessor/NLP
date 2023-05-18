@@ -1,0 +1,1 @@
+{"index": 84592, "D": "a constitutional predisposition or tendency, as to a particular disease or other abnormal state of the body or mind.", "S": [], "A": []}

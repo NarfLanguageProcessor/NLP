@@ -1,0 +1,1 @@
+{"index": 86984, "D": "to refuse to allow; reject; veto", "S": [], "A": []}

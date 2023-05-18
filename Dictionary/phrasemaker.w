@@ -1,0 +1,1 @@
+{"index": 235499, "D": "a person who is skilled in coining well-turned phrases;  phraseologist.", "S": [], "A": []}

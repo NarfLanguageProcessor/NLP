@@ -1,0 +1,1 @@
+{"index": 314863, "D": "a surface forming or suggesting the top of a table.", "S": [], "A": []}

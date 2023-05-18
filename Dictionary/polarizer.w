@@ -1,0 +1,1 @@
+{"index": 241495, "D": "a person or thing that polarizes. ", "S": [], "A": []}

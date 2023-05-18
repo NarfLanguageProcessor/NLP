@@ -1,0 +1,1 @@
+{"index": 311473, "D": "having power and ability; efficient; competent", "S": [], "A": []}

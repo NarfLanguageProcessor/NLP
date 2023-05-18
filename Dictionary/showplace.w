@@ -1,0 +1,1 @@
+{"index": 289102, "D": "an estate, mansion, or the like, usually open to the public, renowned for its beauty, excellent design and workmanship, historical interest, etc.", "S": [], "A": []}

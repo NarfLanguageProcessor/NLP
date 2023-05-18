@@ -1,0 +1,1 @@
+{"index": 124715, "D": "a disease of cattle and especially of sheep in which the brain or spinal cord is infested with larvae of the dog tapeworm, Multiceps multiceps, producing staggers.", "S": [], "A": []}

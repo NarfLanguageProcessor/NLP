@@ -1,0 +1,1 @@
+{"index": 77563, "D": "the act of allocating; apportionment. ", "S": [], "A": []}

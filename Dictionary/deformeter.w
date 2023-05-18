@@ -1,0 +1,1 @@
+{"index": 79471, "D": "a gauge used to determine stresses in a structure by tests on a model of the structure.", "S": [], "A": []}

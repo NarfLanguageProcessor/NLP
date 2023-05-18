@@ -1,0 +1,1 @@
+{"index": 221169, "D": "of or befitting a slave", "S": [], "A": []}

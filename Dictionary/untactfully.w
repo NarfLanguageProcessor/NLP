@@ -1,0 +1,1 @@
+{"index": 352624, "D": "having or manifesting tact", "S": [], "A": []}

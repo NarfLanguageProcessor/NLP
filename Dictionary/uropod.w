@@ -1,0 +1,1 @@
+{"index": 355820, "D": "an abdominal limb of an arthropod, especially one of those on either side of the telson, as in a lobster.", "S": [], "A": []}

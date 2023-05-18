@@ -1,0 +1,1 @@
+{"index": 76985, "D": "a person very dear to another; one dearly loved.", "S": [], "A": []}

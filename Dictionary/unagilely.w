@@ -1,0 +1,1 @@
+{"index": 334750, "D": "quick and well-coordinated in movement; lithe", "S": [], "A": []}

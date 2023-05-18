@@ -1,0 +1,1 @@
+{"index": 216894, "D": "freakishly or grotesquely strange or odd, as appearance, dress, objects, ideas, or practices; bizarre", "S": ["foible ", "idiosyncrasy ", "peculiarity ", "quirk ", "weirdness "], "A": ["conformity ", "normalcy ", "normality ", "regularity ", "sameness ", "standard ", "usualness "]}

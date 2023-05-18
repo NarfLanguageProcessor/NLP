@@ -1,0 +1,1 @@
+{"index": 16608, "D": "the M\u0101ori name for New Zealand", "S": [], "A": []}

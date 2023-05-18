@@ -1,0 +1,1 @@
+{"index": 168808, "D": "a string  passed through a hole in a door, for raising the latch  from the outside.", "S": [], "A": []}

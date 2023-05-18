@@ -1,0 +1,1 @@
+{"index": 230399, "D": "having or showing keenness of insight, understanding, or intuition", "S": ["acumen ", "astuteness ", "discrimination ", "eye ", "insight ", "judgment ", "keenness ", "nose ", "penetration ", "perspicacity ", "sagacity ", "shrewdness ", "understanding ", "wit "], "A": ["ignorance ", "stupidity "]}

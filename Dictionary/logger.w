@@ -1,0 +1,1 @@
+{"index": 174581, "D": "a person whose work is logging;  lumberjack.", "S": ["cutter ", "lumberman "], "A": []}

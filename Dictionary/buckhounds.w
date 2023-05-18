@@ -1,0 +1,1 @@
+{"index": 42061, "D": "a hound  trained to hunt bucks  and other game.", "S": [], "A": []}

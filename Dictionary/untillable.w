@@ -1,0 +1,1 @@
+{"index": 353020, "D": "able to be tilled;  arable.", "S": [], "A": []}

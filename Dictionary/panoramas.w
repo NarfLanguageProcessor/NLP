@@ -1,0 +1,1 @@
+{"index": 224784, "D": "an unobstructed and wide view of an extensive area in all directions.", "S": ["compass ", "dimension ", "diorama ", "extent ", "orbit ", "overview ", "perspective ", "picture ", "prospect ", "purview ", "radius ", "range ", "reach ", "scenery ", "scope ", "spectacle ", "survey ", "sweep ", "view ", "vista "], "A": []}

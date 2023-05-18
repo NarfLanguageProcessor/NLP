@@ -1,0 +1,1 @@
+{"index": 214676, "D": "a brand of synthetic, acrylic textile fiber of light weight, wrinkle resistance, and resistance to weathering and many chemicals.", "S": [], "A": []}

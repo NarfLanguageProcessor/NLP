@@ -1,0 +1,1 @@
+{"index": 317324, "D": "a device fitted to a taxicab  or other vehicle, for automatically computing and indicating the fare due.", "S": [], "A": []}

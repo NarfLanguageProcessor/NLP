@@ -1,0 +1,1 @@
+{"index": 211684, "D": "off  or away from the shore; They pushed the boat offshore.", "S": ["seaward "], "A": ["onshore "]}

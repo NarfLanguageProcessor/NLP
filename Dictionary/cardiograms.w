@@ -1,0 +1,1 @@
+{"index": 47792, "D": "electrocardiogram. ", "S": [], "A": []}

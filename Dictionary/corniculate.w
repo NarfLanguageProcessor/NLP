@@ -1,0 +1,1 @@
+{"index": 69326, "D": "resembling a small horn in appearance.", "S": ["corneous "], "A": []}

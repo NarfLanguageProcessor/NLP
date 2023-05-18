@@ -1,0 +1,1 @@
+{"index": 187265, "D": "any of various trees having a milky juice, as Pseudomedia spuria, of Jamaica.", "S": [], "A": []}

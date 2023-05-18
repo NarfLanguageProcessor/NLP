@@ -1,0 +1,1 @@
+{"index": 251509, "D": "to poke or jab with or as if with something pointed", "S": [], "A": []}

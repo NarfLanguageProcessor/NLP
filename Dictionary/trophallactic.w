@@ -1,0 +1,1 @@
+{"index": 331153, "D": "(among social insects) the exchange of nutriments or other secretions between members of a colony.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 56044, "D": "a mineral, beryllium aluminate, BeAl2O4, occurring in green or yellow crystals, sometimes used as a gem.", "S": [], "A": []}

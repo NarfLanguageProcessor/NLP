@@ -1,0 +1,1 @@
+{"index": 49812, "D": "the branch of optics dealing with the formation of images by mirrors.", "S": [], "A": []}

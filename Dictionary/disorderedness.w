@@ -1,0 +1,1 @@
+{"index": 88800, "D": "lacking organization or in confusion; disarranged.", "S": ["bedlam ", "chaos ", "clutter ", "confusedness ", "confusion ", "derangement ", "disarrangement ", "disarray ", "disorderliness ", "disorganization ", "mess ", "mix up ", "muddiness ", "pandemonium ", "topsy-turviness ", "untidiness "], "A": []}

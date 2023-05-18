@@ -1,0 +1,1 @@
+{"index": 330636, "D": "a strophe, stanza, or poem consisting of three lines.", "S": [], "A": []}

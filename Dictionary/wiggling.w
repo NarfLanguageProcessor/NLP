@@ -1,0 +1,1 @@
+{"index": 365642, "D": "to move or go with short, quick, irregular movements from side to side", "S": ["quaking ", "quivering ", "staggering ", "swaying ", "teetering ", "trembling "], "A": []}

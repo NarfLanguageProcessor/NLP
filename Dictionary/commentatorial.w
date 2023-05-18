@@ -1,0 +1,1 @@
+{"index": 63993, "D": "a person who discusses news, sports events, weather, or the like, as on television or radio.", "S": [], "A": []}

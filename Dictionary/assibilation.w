@@ -1,0 +1,1 @@
+{"index": 21752, "D": "to change into or pronounce with the accompaniment of a sibilant  sound or sounds.", "S": [], "A": []}

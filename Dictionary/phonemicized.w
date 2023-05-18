@@ -1,0 +1,1 @@
+{"index": 234671, "D": "to transcribe into phonemic  symbols.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 235022, "D": "(of chemically treated glass or plastic) capable of darkening or changing color when exposed to light.", "S": [], "A": []}

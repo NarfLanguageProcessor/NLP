@@ -1,0 +1,1 @@
+{"index": 90551, "D": "a horse, especially a quiet, plodding horse for farm work or family use.", "S": [], "A": []}

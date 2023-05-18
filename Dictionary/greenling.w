@@ -1,0 +1,1 @@
+{"index": 129582, "D": "any spiny-finned food fish of the genus Hexagrammos, of North Pacific coasts.", "S": [], "A": []}

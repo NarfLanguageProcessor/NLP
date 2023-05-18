@@ -1,0 +1,1 @@
+{"index": 149442, "D": [], "S": ["absurdity ", "craziness ", "foolishness ", "goofiness ", "stupidity "], "A": ["sense "]}

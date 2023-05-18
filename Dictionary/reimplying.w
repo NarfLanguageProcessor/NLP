@@ -1,0 +1,1 @@
+{"index": 266148, "D": "to indicate or suggest without being explicitly stated", "S": [], "A": []}

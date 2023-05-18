@@ -1,0 +1,1 @@
+{"index": 167376, "D": "lay; secular.", "S": ["layman ", "secular "], "A": []}

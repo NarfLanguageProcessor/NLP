@@ -1,0 +1,1 @@
+{"index": 183608, "D": "mercantile  practices or spirit; commercialism.", "S": ["commercialism ", "competition ", "democracy ", "industrialism "], "A": ["communism "]}

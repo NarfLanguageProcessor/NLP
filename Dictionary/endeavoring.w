@@ -1,0 +1,1 @@
+{"index": 99628, "D": "to exert oneself to do or effect something; make an effort; strive", "S": ["eager ", "would-be "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 170696, "D": "a chronic, mildly infectious disease caused by Mycobacterium leprae, affecting the peripheral nervous system, skin, and nasal mucosa and variously characterized by ulcerations, tubercular nodules, and loss of sensation that sometimes leads to traumatic amputation of the anesthetized part.", "S": [], "A": []}

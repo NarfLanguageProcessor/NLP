@@ -1,0 +1,1 @@
+{"index": 173365, "D": "of, relating to, or resembling a lirella. ", "S": [], "A": []}

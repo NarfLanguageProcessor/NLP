@@ -1,0 +1,1 @@
+{"index": 79084, "D": "to be guilty of defalcation. ", "S": ["appropriate ", "filch ", "loot ", "misappropriate ", "misuse ", "pilfer ", "purloin ", "skim "], "A": ["give ", "receive "]}

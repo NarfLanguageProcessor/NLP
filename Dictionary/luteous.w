@@ -1,0 +1,1 @@
+{"index": 176491, "D": "(of yellow) having a light to medium greenish tinge.", "S": [], "A": []}

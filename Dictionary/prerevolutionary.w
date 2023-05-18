@@ -1,0 +1,1 @@
+{"index": 249169, "D": "of, pertaining to, characterized by, or of the nature of a revolution,  or a sudden, complete, or marked change", "S": ["crude ", "dependent ", "dominion ", "emigrant ", "frontier ", "immigrant ", "pilgrim ", "pioneer ", "primitive ", "provincial ", "puritan ", "territorial ", "wild "], "A": ["gentle ", "modern ", "sophisticated "]}

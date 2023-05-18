@@ -1,0 +1,1 @@
+{"index": 23801, "D": "the quality of being authentic;  genuineness.", "S": ["accuracy ", "correctness ", "credibility ", "legitimacy ", "purity ", "reliability ", "trustworthiness ", "truthfulness ", "validity "], "A": ["inaccuracy "]}

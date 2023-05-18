@@ -1,0 +1,1 @@
+{"index": 300404, "D": "any of various temperate and tropical ferns of the genera Asplenium and Diplazium, certain species of which are grown as ornamentals.", "S": [], "A": []}

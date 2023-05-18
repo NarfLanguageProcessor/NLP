@@ -1,0 +1,1 @@
+{"index": 64100, "D": "a joint; seam; suture.", "S": [], "A": []}

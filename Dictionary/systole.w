@@ -1,0 +1,1 @@
+{"index": 292593, "D": "Compare diastole. ", "S": [], "A": []}

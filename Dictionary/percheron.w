@@ -1,0 +1,1 @@
+{"index": 230415, "D": "one of a French breed of draft horses, having a gray or black coat.", "S": [], "A": []}

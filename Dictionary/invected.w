@@ -1,0 +1,1 @@
+{"index": 157057, "D": "noting an edge of a charge, as an ordinary, consisting of a series of small convex curves.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 114314, "D": "a small, dartlike metal projectile used as shrapnel in antipersonnel bombs and shells.", "S": [], "A": []}

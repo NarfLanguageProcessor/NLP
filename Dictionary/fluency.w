@@ -1,0 +1,1 @@
+{"index": 115259, "D": "the quality of being fluent, esp facility in speech or writing", "S": ["eloquence "], "A": []}

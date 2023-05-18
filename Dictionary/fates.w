@@ -1,0 +1,1 @@
+{"index": 110256, "D": "See Atropos, Clotho, Lachesis", "S": ["chance ", "circumstance ", "consequence ", "destiny ", "effect ", "future ", "issue ", "outcome "], "A": ["beginning ", "cause ", "commencement ", "origin ", "source ", "start ", "misfortune ", "opening ", "whole "]}

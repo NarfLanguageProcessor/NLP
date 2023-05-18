@@ -1,0 +1,1 @@
+{"index": 271256, "D": "opposite or contrary in position, direction, order, or character", "S": ["converse ", "everted ", "inverted ", "transposed ", "turned "], "A": ["established ", "in order ", "ordered "]}

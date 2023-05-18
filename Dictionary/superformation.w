@@ -1,0 +1,1 @@
+{"index": 311895, "D": "the act or process of forming or the state of being formed", "S": [], "A": []}

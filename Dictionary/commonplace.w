@@ -1,0 +1,1 @@
+{"index": 64176, "D": "ordinary; undistinguished or uninteresting; without individuality", "S": ["customary ", "mundane ", "normal ", "obvious ", "prevalent ", "typical "], "A": ["abnormal ", "different ", "irregular ", "rare ", "uncommon ", "unconventional ", "unusual ", "exceptional ", "extraordinary "]}

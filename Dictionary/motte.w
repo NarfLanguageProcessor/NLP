@@ -1,0 +1,1 @@
+{"index": 194105, "D": "a grove or clump of trees in prairie land or open country.", "S": [], "A": []}

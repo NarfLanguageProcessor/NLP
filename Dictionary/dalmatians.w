@@ -1,0 +1,1 @@
+{"index": 76485, "D": "of or relating to Dalmatia  or its people.", "S": [], "A": []}

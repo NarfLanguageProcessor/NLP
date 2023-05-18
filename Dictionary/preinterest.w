@@ -1,0 +1,1 @@
+{"index": 248055, "D": "the feeling of a person whose attention, concern, or curiosity is particularly engaged by something", "S": [], "A": []}

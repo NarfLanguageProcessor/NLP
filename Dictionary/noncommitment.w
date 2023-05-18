@@ -1,0 +1,1 @@
+{"index": 202105, "D": "the act of committing.", "S": [], "A": []}

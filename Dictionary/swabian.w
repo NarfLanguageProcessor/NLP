@@ -1,0 +1,1 @@
+{"index": 313927, "D": "of or relating to the German region of Swabia or its inhabitants", "S": [], "A": []}

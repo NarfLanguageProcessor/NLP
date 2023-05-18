@@ -1,0 +1,1 @@
+{"index": 358688, "D": "of or relating to spring", "S": [], "A": []}

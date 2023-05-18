@@ -1,0 +1,1 @@
+{"index": 158751, "D": "the clumping of the red blood cells by a transfusion of the blood or serum of a genetically different individual of the same species.", "S": [], "A": []}

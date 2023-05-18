@@ -1,0 +1,1 @@
+{"index": 123938, "D": "the branch of medicine  dealing with the effect of geography on disease.", "S": [], "A": []}

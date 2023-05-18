@@ -1,0 +1,1 @@
+{"index": 335151, "D": "a person who works for another in order to learn a trade", "S": [], "A": []}

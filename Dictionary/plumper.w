@@ -1,0 +1,1 @@
+{"index": 240480, "D": "an act of falling heavily; a plumping. ", "S": ["chunky ", "fleshy ", "pudgy ", "well-fed "], "A": ["skinny ", "thin ", "incomplete ", "weak "]}

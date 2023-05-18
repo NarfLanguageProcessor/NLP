@@ -1,0 +1,1 @@
+{"index": 324447, "D": "thus always to tyrants", "S": [], "A": []}

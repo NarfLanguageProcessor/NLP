@@ -1,0 +1,1 @@
+{"index": 78658, "D": "to make or declare sacred; set apart or dedicate to the service of a deity", "S": ["irreligious ", "secular ", "unblessed ", "unconsecrated ", "ungodly ", "unsacred ", "unsanctified "], "A": ["blessed ", "devout ", "godly ", "holy ", "pious ", "religious ", "respectful ", "reverent "]}

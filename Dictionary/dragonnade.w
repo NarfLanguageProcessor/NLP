@@ -1,0 +1,1 @@
+{"index": 92578, "D": "one of a series of persecutions of French Protestants, under Louis XIV, by dragoons quartered upon them.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 266769, "D": "to regard as or make relative. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 159738, "D": "the hard white substance, a variety of dentin, composing the main part of the tusks of elephants, walruses, etc.", "S": [], "A": []}

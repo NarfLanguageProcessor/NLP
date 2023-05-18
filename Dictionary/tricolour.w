@@ -1,0 +1,1 @@
+{"index": 329596, "D": "having or involving three colours", "S": [], "A": []}

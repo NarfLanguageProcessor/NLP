@@ -1,0 +1,1 @@
+{"index": 315178, "D": "infestation with tapeworms.", "S": [], "A": []}

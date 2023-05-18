@@ -1,0 +1,1 @@
+{"index": 12612, "D": "(of polyploid cells or organisms) having a chromosome number that is not an exact multiple of the haploid number, caused by one chromosome set being incomplete", "S": [], "A": []}

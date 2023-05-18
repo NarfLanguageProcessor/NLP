@@ -1,0 +1,1 @@
+{"index": 173640, "D": "pertaining to or consisting of stone.", "S": ["craggy ", "jagged ", "rough "], "A": ["even ", "smooth "]}

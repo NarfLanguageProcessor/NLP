@@ -1,0 +1,1 @@
+{"index": 12336, "D": "(used to imply that either or both of the things mentioned may be affected or involved)", "S": [], "A": []}

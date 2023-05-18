@@ -1,0 +1,1 @@
+{"index": 343411, "D": "to drink, or sometimes eat, greedily, frequently, or plentifully", "S": [], "A": []}

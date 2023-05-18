@@ -1,0 +1,1 @@
+{"index": 332050, "D": "shaped like or having a tube.", "S": [], "A": []}

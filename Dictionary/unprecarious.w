@@ -1,0 +1,1 @@
+{"index": 348266, "D": "dependent on circumstances beyond one's control; uncertain; insecure", "S": [], "A": []}

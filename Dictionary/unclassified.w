@@ -1,0 +1,1 @@
+{"index": 336996, "D": "not assigned to a class or category; not arranged according to characteristics", "S": ["uninspiring ", "unremarkable "], "A": ["abnormal ", "extraordinary ", "uncommon "]}

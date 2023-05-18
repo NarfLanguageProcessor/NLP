@@ -1,0 +1,1 @@
+{"index": 168721, "D": "the flexible part of a whip; the section of cord or the like forming the extremity of a whip.", "S": [], "A": []}

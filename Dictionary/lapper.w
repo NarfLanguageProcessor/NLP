@@ -1,0 +1,1 @@
+{"index": 168376, "D": "a person or thing that laps  liquid.", "S": [], "A": []}

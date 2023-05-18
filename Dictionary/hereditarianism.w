@@ -1,0 +1,1 @@
+{"index": 137018, "D": "Compare environmentalism", "S": [], "A": []}

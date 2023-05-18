@@ -1,0 +1,1 @@
+{"index": 340533, "D": "to put out of place; put out of proper relative position; displace", "S": [], "A": []}

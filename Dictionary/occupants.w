@@ -1,0 +1,1 @@
+{"index": 210740, "D": "a person, family, group, or organization that lives in, occupies, or has quarters or space in or on something", "S": ["denizen ", "dweller ", "holder ", "incumbent ", "inhabitant ", "renter ", "resident ", "tenant "], "A": ["displaced person "]}

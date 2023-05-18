@@ -1,0 +1,1 @@
+{"index": 97890, "D": "abnormal thinness caused by lack of nutrition or by disease.", "S": ["anorexia ", "atrophy ", "attenuation ", "boniness ", "consumption ", "malnutrition ", "marasmus ", "skinniness ", "starvation ", "tabes ", "thinness ", "undernourishment ", "wasting ", "withering "], "A": []}

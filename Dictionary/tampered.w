@@ -1,0 +1,1 @@
+{"index": 315936, "D": "to meddle, especially for the purpose of altering, damaging, or misusing (usually followed by with)", "S": ["meddle ", "monkey with ", "tinker "], "A": ["improve ", "leave alone ", "remain ", "repair ", "stay "]}

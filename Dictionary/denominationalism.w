@@ -1,0 +1,1 @@
+{"index": 81170, "D": "denominational  or sectarian spirit or policy; the tendency to divide into denominations or sects.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 291945, "D": "a person who admires or has a strong liking for China, the Chinese, or their culture.", "S": [], "A": []}

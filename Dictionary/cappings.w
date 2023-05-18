@@ -1,0 +1,1 @@
+{"index": 47038, "D": "overburden (def. 3). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82932, "D": "to set some mark of disgrace or infamy upon", "S": [], "A": []}

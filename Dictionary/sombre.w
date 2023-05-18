@@ -1,0 +1,1 @@
+{"index": 297015, "D": "a sombre mood", "S": ["dismal ", "gloomy "], "A": ["happy ", "hopeful ", "optimistic "]}

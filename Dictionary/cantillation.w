@@ -1,0 +1,1 @@
+{"index": 46650, "D": "the traditional notation representing the various traditional Jewish melodies to which scriptural passages are chanted", "S": [], "A": []}

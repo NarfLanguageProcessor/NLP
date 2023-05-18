@@ -1,0 +1,1 @@
+{"index": 277282, "D": "a member of a Native Canadian people of Manitoba", "S": [], "A": []}

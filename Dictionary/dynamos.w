@@ -1,0 +1,1 @@
+{"index": 86042, "D": "an electric generator, especially for direct current.", "S": ["achiever ", "doer ", "fireball ", "generator ", "pistol "], "A": []}

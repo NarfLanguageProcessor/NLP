@@ -1,0 +1,1 @@
+{"index": 166183, "D": "fermented mare's or camel's milk, used as a beverage by Asian nomads.", "S": [], "A": []}

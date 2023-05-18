@@ -1,0 +1,1 @@
+{"index": 206992, "D": "pretended, affected, or hypocritical religious devotion, righteousness, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 12914, "D": "a person who is friendly to or admires England or English customs, institutions, etc.", "S": [], "A": []}

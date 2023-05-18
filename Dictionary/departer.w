@@ -1,0 +1,1 @@
+{"index": 81500, "D": [], "S": ["alien ", "colonist ", "displaced person ", "evacuee ", "expatriate ", "migrant ", "pilgrim ", "refugee ", "traveler "], "A": ["nationalist ", "native "]}

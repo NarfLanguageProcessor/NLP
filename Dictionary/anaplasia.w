@@ -1,0 +1,1 @@
+{"index": 11914, "D": "the loss of structural differentiation within a cell or group of cells.", "S": [], "A": []}

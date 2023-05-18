@@ -1,0 +1,1 @@
+{"index": 56845, "D": "a colorless liquid acrylate  monomer that is easily polymerized and used as a powerful, fast-acting adhesive.", "S": [], "A": []}

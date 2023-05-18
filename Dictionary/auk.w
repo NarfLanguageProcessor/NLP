@@ -1,0 +1,1 @@
+{"index": 23423, "D": "any of several usually black-and-white diving birds of the family Alcidae, of northern seas, having webbed feet and small wings.", "S": [], "A": []}

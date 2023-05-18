@@ -1,0 +1,1 @@
+{"index": 366154, "D": "an airplane maneuver involving a steep, climbing turn to a near stall, then a sharp drop of the nose, a removal of bank, and a final leveling off in the opposite direction.", "S": [], "A": []}

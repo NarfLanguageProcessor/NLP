@@ -1,0 +1,1 @@
+{"index": 100297, "D": "busy or occupied; involved", "S": [], "A": []}

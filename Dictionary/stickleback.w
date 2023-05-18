@@ -1,0 +1,1 @@
+{"index": 304312, "D": "any of the small, pugnacious, spiny-backed fishes of the family Gasterosteidae, inhabiting northern fresh waters and sea inlets, the male of which builds and guards the nest.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 141852, "D": "any of a group of five small basic proteins, occurring in the nucleus of eukaryotic cells, that organize DNA strands into nucleosomes by forming molecular complexes around which the DNA winds.", "S": [], "A": []}

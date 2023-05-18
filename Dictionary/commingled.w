@@ -1,0 +1,1 @@
+{"index": 64046, "D": "to mix or mingle  together; combine.", "S": ["amalgamate ", "combine ", "commix ", "compound ", "integrate ", "intermingle ", "intermix ", "join ", "merge ", "mingle ", "unite "], "A": ["disjoin ", "divide ", "part ", "separate "]}

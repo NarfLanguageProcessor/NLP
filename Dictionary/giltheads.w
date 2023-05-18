@@ -1,0 +1,1 @@
+{"index": 124969, "D": "any of several marine fishes having gold markings, as a sparid, Sparus auratus, of the Mediterranean Sea.", "S": [], "A": []}

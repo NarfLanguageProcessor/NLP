@@ -1,0 +1,1 @@
+{"index": 131456, "D": "the upper edge of the side or bulwark of a vessel.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 196622, "D": "a birth, an origination, or a growth, as that of a person, an organization, an idea, or a movement.", "S": [], "A": []}

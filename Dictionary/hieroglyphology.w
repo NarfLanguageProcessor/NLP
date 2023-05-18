@@ -1,0 +1,1 @@
+{"index": 139144, "D": "the study of hieroglyphic writing.", "S": [], "A": []}

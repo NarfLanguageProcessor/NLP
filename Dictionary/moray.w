@@ -1,0 +1,1 @@
+{"index": 193265, "D": "any of numerous chiefly tropical eels of the family Muraenidae, having porelike gill openings and no pectoral fins.", "S": [], "A": []}

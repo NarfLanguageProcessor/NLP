@@ -1,0 +1,1 @@
+{"index": 268027, "D": "a quick, witty reply.", "S": ["banter ", "pleasantry ", "rejoinder ", "retort ", "sarcasm ", "wordplay "], "A": ["question ", "request ", "seriousness "]}

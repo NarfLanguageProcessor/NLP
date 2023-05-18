@@ -1,0 +1,1 @@
+{"index": 82812, "D": "a bold, reckless criminal or outlaw, especially in the early days of the American West.", "S": [], "A": []}

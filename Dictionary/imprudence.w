@@ -1,0 +1,1 @@
+{"index": 149222, "D": "lack of wisdom or care in the management of practical or economic affairs", "S": ["carelessness ", "foolishness ", "neglect ", "recklessness "], "A": ["care ", "carefulness ", "caution "]}

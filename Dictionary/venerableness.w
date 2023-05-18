@@ -1,0 +1,1 @@
+{"index": 358012, "D": "commanding respect because of great age or impressive dignity; worthy of veneration  or reverence, as because of high office or noble character", "S": ["age ", "ancientness ", "archaicism ", "archaism ", "hoariness "], "A": ["convention ", "modernity ", "newness ", "now "]}

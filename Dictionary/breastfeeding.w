@@ -1,0 +1,1 @@
+{"index": 40294, "D": "to nurse (a baby) at the breast; suckle.", "S": ["nourish ", "nurture "], "A": ["deprive ", "neglect ", "starve "]}

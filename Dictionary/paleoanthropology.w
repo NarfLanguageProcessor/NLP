@@ -1,0 +1,1 @@
+{"index": 223650, "D": "the study of the origins and predecessors of the present human species, using fossils and other remains.", "S": [], "A": []}

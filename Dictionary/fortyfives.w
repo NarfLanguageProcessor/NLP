@@ -1,0 +1,1 @@
+{"index": 117684, "D": [], "S": ["cannon ", "handgun ", "hardware ", "mortar ", "piece ", "pistol ", "revolver ", "rifle ", "shotgun "], "A": []}

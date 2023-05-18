@@ -1,0 +1,1 @@
+{"index": 101363, "D": "a singer, comedian, dancer, reciter, or the like, especially a professional one.", "S": ["artist "], "A": []}

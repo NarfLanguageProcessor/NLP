@@ -1,0 +1,1 @@
+{"index": 14202, "D": "situated in front of the eye.", "S": [], "A": []}

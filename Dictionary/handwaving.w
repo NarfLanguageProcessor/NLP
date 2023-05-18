@@ -1,0 +1,1 @@
+{"index": 133303, "D": "insubstantial words, arguments, gestures, or actions used in an attempt to explain or persuade.", "S": [], "A": []}

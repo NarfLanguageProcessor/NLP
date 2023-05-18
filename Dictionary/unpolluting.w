@@ -1,0 +1,1 @@
+{"index": 348145, "D": "to make foul or unclean, especially with harmful chemical or waste products; dirty", "S": [], "A": []}

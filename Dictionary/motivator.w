@@ -1,0 +1,1 @@
+{"index": 194003, "D": "a person or thing that gives people an incentive or reason for acting", "S": ["achiever "], "A": []}

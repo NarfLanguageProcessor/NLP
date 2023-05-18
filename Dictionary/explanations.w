@@ -1,0 +1,1 @@
+{"index": 107815, "D": "the act or process of explaining. ", "S": ["causes ", "details ", "justifications ", "whys "], "A": []}

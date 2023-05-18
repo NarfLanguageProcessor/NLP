@@ -1,0 +1,1 @@
+{"index": 202011, "D": "serving or tending to coerce. ", "S": [], "A": []}

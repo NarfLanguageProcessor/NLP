@@ -1,0 +1,1 @@
+{"index": 24273, "D": "controlled digestion of damaged organelles within a cell.", "S": [], "A": []}

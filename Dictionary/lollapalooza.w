@@ -1,0 +1,1 @@
+{"index": 174791, "D": "an extraordinary or unusual thing, person, or event; an exceptional example or instance.", "S": ["amazing thing ", "extraordinary year ", "marvelment ", "nine days' wonder ", "notable year ", "remarkable year ", "wonderful thing ", "wonderment "], "A": []}

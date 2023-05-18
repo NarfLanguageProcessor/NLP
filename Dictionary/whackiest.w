@@ -1,0 +1,1 @@
+{"index": 364338, "D": "wacky. ", "S": ["absurd ", "crazy ", "eccentric ", "foolish ", "loony ", "nutty ", "odd ", "silly ", "unpredictable ", "zany "], "A": ["reasonable ", "sane ", "sensible ", "serious ", "wise "]}

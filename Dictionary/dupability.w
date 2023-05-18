@@ -1,0 +1,1 @@
+{"index": 94322, "D": "a person who is easily deceived or fooled; gull. ", "S": [], "A": []}

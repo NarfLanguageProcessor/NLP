@@ -1,0 +1,1 @@
+{"index": 154202, "D": "not tangible; incapable of being perceived by the sense of touch, as incorporeal or immaterial things; impalpable.", "S": ["hardly ", "impalpably ", "indefinitely ", "slightly ", "undetectably ", "vaguely "], "A": []}

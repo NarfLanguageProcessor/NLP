@@ -1,0 +1,1 @@
+{"index": 131361, "D": "a mixture of cement, sand or crushed slag, and water, sprayed over reinforcement as a lightweight concrete construction.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 121503, "D": "a waterproof overshoe, especially a high one.", "S": [], "A": []}

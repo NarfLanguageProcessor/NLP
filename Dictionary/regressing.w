@@ -1,0 +1,1 @@
+{"index": 265803, "D": "to move backward; go back.", "S": ["degenerate ", "deteriorate ", "ebb ", "fall back ", "fall off ", "recede ", "revert "], "A": ["develop ", "forge ", "forward ", "improve ", "increase ", "progress ", "strengthen "]}

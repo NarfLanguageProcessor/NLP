@@ -1,0 +1,1 @@
+{"index": 360954, "D": "an expression of dismissal or rejection", "S": [], "A": []}

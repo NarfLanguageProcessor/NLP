@@ -1,0 +1,1 @@
+{"index": 202100, "D": "the act of empathizing, or expressing sympathy or sorrow for someone about something", "S": [], "A": []}

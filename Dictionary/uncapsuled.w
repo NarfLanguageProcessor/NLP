@@ -1,0 +1,1 @@
+{"index": 336488, "D": "a gelatinous case enclosing a dose of medicine.", "S": [], "A": []}

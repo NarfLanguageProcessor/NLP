@@ -1,0 +1,1 @@
+{"index": 321407, "D": "to shape (especially plastic) by the use of heat and pressure.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 154252, "D": "a natural covering, as a skin, shell, or rind.", "S": ["aril ", "coat ", "envelope ", "hide ", "pelt ", "skin "], "A": []}

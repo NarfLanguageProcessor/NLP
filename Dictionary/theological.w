@@ -1,0 +1,1 @@
+{"index": 321002, "D": "of, relating to, or involved with theology", "S": ["doctrinal ", "ecclesiastical ", "metaphysical "], "A": ["irreligious "]}

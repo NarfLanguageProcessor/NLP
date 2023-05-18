@@ -1,0 +1,1 @@
+{"index": 268690, "D": "to criticize or correct, especially gently", "S": ["chastened ", "dismissed ", "imprisoned ", "penalized "], "A": ["cleared ", "exonerated ", "released "]}

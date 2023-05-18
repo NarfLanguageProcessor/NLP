@@ -1,0 +1,1 @@
+{"index": 324661, "D": "subject to the payment of tithes.", "S": [], "A": []}

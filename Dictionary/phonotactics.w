@@ -1,0 +1,1 @@
+{"index": 234774, "D": "the patterns in which the phonemes of a language may combine to form sequences.", "S": [], "A": []}

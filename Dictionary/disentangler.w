@@ -1,0 +1,1 @@
+{"index": 87978, "D": "to free or become free from entanglement; untangle; extricate (often followed by from).", "S": [], "A": []}

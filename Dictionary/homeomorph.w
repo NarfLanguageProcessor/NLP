@@ -1,0 +1,1 @@
+{"index": 142821, "D": "any of the crystalline minerals characterized by a particular kind of homeomorphism. ", "S": [], "A": []}

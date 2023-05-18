@@ -1,0 +1,1 @@
+{"index": 364993, "D": "water in swift, circular motion, as that produced by the meeting of opposing currents, often causing a downward spiraling action.", "S": ["eddy ", "maelstrom ", "vortex "], "A": ["calm ", "peace "]}

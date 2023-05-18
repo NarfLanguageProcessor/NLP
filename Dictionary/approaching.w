@@ -1,0 +1,1 @@
+{"index": 17979, "D": "to come near or nearer to", "S": ["coming ", "imminent ", "impending "], "A": ["distant ", "later "]}

@@ -1,0 +1,1 @@
+{"index": 250027, "D": "to turn from one language into another or from a foreign language into one's own", "S": [], "A": []}

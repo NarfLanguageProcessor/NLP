@@ -1,0 +1,1 @@
+{"index": 84640, "D": "a benzodiazepine,  C16H13ClN2O, used for alleviation of anxiety and tension, as a hypnotic, a muscle relaxant, and an anticonvulsant, and in alcohol withdrawal.", "S": [], "A": []}

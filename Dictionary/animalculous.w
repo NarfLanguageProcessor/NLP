@@ -1,0 +1,1 @@
+{"index": 13164, "D": "a minute or microscopic animal, nearly or quite invisible to the naked eye, as an infusorian or rotifer.", "S": [], "A": []}

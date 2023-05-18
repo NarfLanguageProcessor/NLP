@@ -1,0 +1,1 @@
+{"index": 206540, "D": "a person who lives in seclusion or apart from society, often for religious meditation.", "S": [], "A": []}

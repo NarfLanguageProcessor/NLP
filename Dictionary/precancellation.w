@@ -1,0 +1,1 @@
+{"index": 245914, "D": "to cancel  (a stamp) before placing it on a piece of postal matter.", "S": [], "A": []}

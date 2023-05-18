@@ -1,0 +1,1 @@
+{"index": 17434, "D": [], "S": ["analytical ", "empirical ", "experimental ", "from the latter ", "inducible ", "inductive ", "logical ", "practical "], "A": []}

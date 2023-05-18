@@ -1,0 +1,1 @@
+{"index": 232321, "D": "pertaining to or resembling a petal.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 11588, "D": "the ancient Greek goddess of love and beauty, identified by the Romans with Venus.", "S": [], "A": []}

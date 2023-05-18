@@ -1,0 +1,1 @@
+{"index": 70196, "D": "suffering from constipation; constipated. ", "S": [], "A": []}

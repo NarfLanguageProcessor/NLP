@@ -1,0 +1,1 @@
+{"index": 11266, "D": "(of an ovule) inverted so that the funicle is in the middle of one side.", "S": [], "A": []}

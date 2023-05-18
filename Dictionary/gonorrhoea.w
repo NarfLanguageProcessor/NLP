@@ -1,0 +1,1 @@
+{"index": 127848, "D": "an infectious venereal disease caused by a gonococcus, characterized by a burning sensation when urinating and a mucopurulent discharge from the urethra or vagina", "S": [], "A": []}

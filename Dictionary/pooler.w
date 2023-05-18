@@ -1,0 +1,1 @@
+{"index": 243140, "D": "a small body of standing water; pond. ", "S": [], "A": []}

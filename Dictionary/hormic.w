@@ -1,0 +1,1 @@
+{"index": 143807, "D": "activity directed toward a goal; purposive effort.", "S": [], "A": []}

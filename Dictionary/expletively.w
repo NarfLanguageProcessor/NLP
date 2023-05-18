@@ -1,0 +1,1 @@
+{"index": 107835, "D": "an interjectory word or expression, frequently profane; an exclamatory oath.", "S": [], "A": []}

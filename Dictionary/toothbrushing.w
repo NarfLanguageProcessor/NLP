@@ -1,0 +1,1 @@
+{"index": 325752, "D": "the act or method of cleaning the teeth with a toothbrush. ", "S": [], "A": []}

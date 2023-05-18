@@ -1,0 +1,1 @@
+{"index": 51952, "D": "a bag made of goatskin", "S": [], "A": []}

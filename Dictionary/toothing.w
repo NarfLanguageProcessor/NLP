@@ -1,0 +1,1 @@
+{"index": 325767, "D": "the practice of attempting to intitiate sex with strangers through text messages sent using Bluetooth telephone technology", "S": ["chew ", "chomp ", "cut ", "eat ", "gnaw ", "nibble ", "snap ", "wound "], "A": []}

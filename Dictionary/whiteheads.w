@@ -1,0 +1,1 @@
+{"index": 365148, "D": "a small pimple having a white  or yellowish head;  milium.", "S": ["blackheads ", "pimples ", "pustules ", "rosacea ", "zits "], "A": []}

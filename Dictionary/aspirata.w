@@ -1,0 +1,1 @@
+{"index": 21508, "D": "a voiceless stop accompanied by strong aspiration, as \u03c6, \u03b8, \u03c7.", "S": [], "A": []}

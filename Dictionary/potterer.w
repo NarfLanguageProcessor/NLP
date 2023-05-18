@@ -1,0 +1,1 @@
+{"index": 244810, "D": "a person who makes pottery. ", "S": ["abecedarian ", "beginner ", "dilettante ", "loafer ", "novice ", "pretender ", "tinkerer ", "trifler ", "tyro ", "uninitiate "], "A": ["expert ", "professional "]}

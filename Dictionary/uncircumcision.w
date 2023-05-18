@@ -1,0 +1,1 @@
+{"index": 336918, "D": "the state or condition of being uncircumcised.", "S": [], "A": []}

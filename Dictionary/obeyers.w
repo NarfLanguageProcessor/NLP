@@ -1,0 +1,1 @@
+{"index": 210011, "D": "to comply with or follow the commands, restrictions, wishes, or instructions of", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128097, "D": "a word used by Gypsies for a non-Gypsy", "S": [], "A": []}

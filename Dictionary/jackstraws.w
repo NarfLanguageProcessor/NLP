@@ -1,0 +1,1 @@
+{"index": 159974, "D": "(functioning as singular) another name for spillikins", "S": [], "A": []}

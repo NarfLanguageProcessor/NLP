@@ -1,0 +1,1 @@
+{"index": 7995, "D": "a word used in communications to represent the letter A.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 169953, "D": "indicating lewd, sly, or malicious intent", "S": ["eye ", "eyeball ", "gloat ", "goggle ", "ogle ", "smirk ", "sneer ", "squint ", "stare ", "wink "], "A": []}

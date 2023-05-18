@@ -1,0 +1,1 @@
+{"index": 73110, "D": "the study of snow and ice.", "S": [], "A": []}

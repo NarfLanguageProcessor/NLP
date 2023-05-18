@@ -1,0 +1,1 @@
+{"index": 164513, "D": "a smoked sausage of coarsely chopped beef and pork, flavored with garlic and spices.", "S": ["bratwurst "], "A": []}

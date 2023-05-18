@@ -1,0 +1,1 @@
+{"index": 28383, "D": "Compare solicitor (def. 4). ", "S": ["advocate ", "counsel ", "counselor ", "lawyer ", "solicitor "], "A": []}

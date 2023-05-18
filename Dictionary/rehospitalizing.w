@@ -1,0 +1,1 @@
+{"index": 266043, "D": "to place in a hospital  for medical care or observation", "S": [], "A": []}

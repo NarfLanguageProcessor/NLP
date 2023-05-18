@@ -1,0 +1,1 @@
+{"index": 263121, "D": "to establish a colony  in; settle", "S": [], "A": []}

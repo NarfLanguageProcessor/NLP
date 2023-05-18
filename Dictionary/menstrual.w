@@ -1,0 +1,1 @@
+{"index": 183464, "D": "of or relating to menstruation or to the menses.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359935, "D": "the process of introducing the vinyl group  into a compound by reaction with acetylene.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 103268, "D": "a counterbalancing force or system of forces.", "S": [], "A": []}

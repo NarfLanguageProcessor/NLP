@@ -1,0 +1,1 @@
+{"index": 264253, "D": "to show or exhibit; make visible", "S": [], "A": []}

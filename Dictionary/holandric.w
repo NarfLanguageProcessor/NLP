@@ -1,0 +1,1 @@
+{"index": 142379, "D": "of or relating to a heritable trait appearing only in males (opposed to hologynic).", "S": [], "A": []}

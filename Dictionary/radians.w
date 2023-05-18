@@ -1,0 +1,1 @@
+{"index": 259532, "D": "the measure of a central angle subtending an arc equal in length to the radius", "S": [], "A": []}

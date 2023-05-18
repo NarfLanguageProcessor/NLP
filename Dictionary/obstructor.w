@@ -1,0 +1,1 @@
+{"index": 210511, "D": "to block or close up with an obstacle; make difficult to pass", "S": [], "A": []}

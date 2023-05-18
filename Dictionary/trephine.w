@@ -1,0 +1,1 @@
+{"index": 328970, "D": "a small circular saw with a center pin mounted on a strong hollow metal shaft to which is attached a transverse handle", "S": ["auger ", "awl ", "bit ", "borer ", "corkscrew ", "countersink ", "dibble ", "gimlet ", "implement ", "jackhammer ", "punch ", "riveter ", "trepan ", "wimble "], "A": []}

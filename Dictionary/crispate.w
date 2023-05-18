@@ -1,0 +1,1 @@
+{"index": 73339, "D": "(of a leaf) having curly or wavy edges.", "S": [], "A": []}

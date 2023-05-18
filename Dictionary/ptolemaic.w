@@ -1,0 +1,1 @@
+{"index": 255860, "D": "of or relating to Ptolemy  or his system of astronomy.", "S": [], "A": []}

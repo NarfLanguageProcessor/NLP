@@ -1,0 +1,1 @@
+{"index": 104876, "D": "alcohol (def. 1). ", "S": ["booze ", "drink ", "liquor ", "methanol ", "smoke "], "A": []}

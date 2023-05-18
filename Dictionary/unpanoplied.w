@@ -1,0 +1,1 @@
+{"index": 347401, "D": "a wide-ranging and impressive array or display", "S": [], "A": []}

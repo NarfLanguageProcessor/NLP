@@ -1,0 +1,1 @@
+{"index": 50127, "D": "a dry, sparkling white table wine produced in northeastern Spain.", "S": [], "A": []}

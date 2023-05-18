@@ -1,0 +1,1 @@
+{"index": 276575, "D": "the state of being safe; freedom from the occurrence or risk of injury, danger, or loss.", "S": ["freedom ", "security "], "A": ["danger ", "exposure ", "jeopardy ", "vulnerability "]}

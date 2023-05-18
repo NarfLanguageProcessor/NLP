@@ -1,0 +1,1 @@
+{"index": 220246, "D": "having, characterized by, or showing superior power or strength", "S": [], "A": []}

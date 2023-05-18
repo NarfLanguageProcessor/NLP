@@ -1,0 +1,1 @@
+{"index": 63181, "D": "to locate  or be located  in jointly or together, as two or more groups, military units, or the like; share or designate to share the same place.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205353, "D": "of or relating to monasteries", "S": [], "A": []}

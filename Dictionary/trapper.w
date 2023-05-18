@@ -1,0 +1,1 @@
+{"index": 328488, "D": "a person or thing that traps. ", "S": ["chaser ", "deerstalker ", "falconer ", "fisherman ", "hawker ", "huntress ", "huntsman ", "pursuer ", "sportsman ", "stalker "], "A": []}

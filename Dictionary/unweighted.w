@@ -1,0 +1,1 @@
+{"index": 354150, "D": "not burdened or encumbered with a heavy load or with mental or emotional matters, problems, etc.", "S": [], "A": []}

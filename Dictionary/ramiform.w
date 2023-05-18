@@ -1,0 +1,1 @@
+{"index": 260319, "D": "having the form of a branch;  branchlike.", "S": [], "A": []}

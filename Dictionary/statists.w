@@ -1,0 +1,1 @@
+{"index": 303113, "D": "an advocate of statism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 348989, "D": "of or relating to rabbis  or their learning, writings, etc.", "S": [], "A": []}

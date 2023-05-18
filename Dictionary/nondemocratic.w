@@ -1,0 +1,1 @@
+{"index": 202867, "D": "not adhering to the principles or practice of democracy", "S": [], "A": []}

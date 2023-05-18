@@ -1,0 +1,1 @@
+{"index": 287819, "D": "embarrassed or bashful, as by having done something wrong or foolish.", "S": ["diffident ", "foolish ", "self-conscious ", "timid ", "uncomfortable "], "A": ["bold "]}

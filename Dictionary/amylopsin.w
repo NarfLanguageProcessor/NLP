@@ -1,0 +1,1 @@
+{"index": 10563, "D": "an enzyme of the pancreatic juice that converts starch into sugar; pancreatic amylase", "S": [], "A": []}

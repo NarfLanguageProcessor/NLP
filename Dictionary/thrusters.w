@@ -1,0 +1,1 @@
+{"index": 322895, "D": "a person or thing that thrusts. ", "S": [], "A": []}

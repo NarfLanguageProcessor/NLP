@@ -1,0 +1,1 @@
+{"index": 113292, "D": "in the first  place; first. ", "S": ["essentially ", "mostly "], "A": ["additionally ", "extra "]}

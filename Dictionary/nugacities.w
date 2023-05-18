@@ -1,0 +1,1 @@
+{"index": 209440, "D": "triviality; insignificance.", "S": [], "A": []}

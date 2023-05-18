@@ -1,0 +1,1 @@
+{"index": 291525, "D": "serving to unite or connect; connective; copulative.", "S": [], "A": []}

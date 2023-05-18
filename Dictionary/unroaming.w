@@ -1,0 +1,1 @@
+{"index": 350023, "D": "to walk, go, or travel without a fixed purpose or direction; ramble; wander; rove", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 268030, "D": "distribution; partition. ", "S": [], "A": []}

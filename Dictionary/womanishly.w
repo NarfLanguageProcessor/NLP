@@ -1,0 +1,1 @@
+{"index": 366967, "D": "womanlike or feminine.", "S": [], "A": []}

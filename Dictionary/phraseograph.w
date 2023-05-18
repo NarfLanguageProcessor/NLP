@@ -1,0 +1,1 @@
+{"index": 235506, "D": "a phrase  for which there is a phraseogram.", "S": [], "A": []}

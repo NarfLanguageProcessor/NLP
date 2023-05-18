@@ -1,0 +1,1 @@
+{"index": 181198, "D": "(in Uganda) the flesh of bananas, boiled and mashed as a food", "S": [], "A": []}

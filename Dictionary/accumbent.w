@@ -1,0 +1,1 @@
+{"index": 1817, "D": "reclining; recumbent", "S": ["flat ", "horizontal ", "prone ", "prostrate ", "reclining ", "recumbent "], "A": []}

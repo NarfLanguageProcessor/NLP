@@ -1,0 +1,1 @@
+{"index": 84149, "D": "to transform (a matrix) to a diagonal matrix. ", "S": [], "A": []}

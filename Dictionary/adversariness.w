@@ -1,0 +1,1 @@
+{"index": 4643, "D": "a person, group, or force that opposes or attacks; opponent; enemy; foe.", "S": [], "A": []}

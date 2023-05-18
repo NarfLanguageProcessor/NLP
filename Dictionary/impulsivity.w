@@ -1,0 +1,1 @@
+{"index": 149263, "D": "the quality of being easily swayed by emotional or involuntary urges or by momentary desires, without weighing them rationally", "S": [], "A": []}

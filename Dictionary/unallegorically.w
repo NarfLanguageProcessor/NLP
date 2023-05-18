@@ -1,0 +1,1 @@
+{"index": 334818, "D": "consisting of or pertaining to allegory;  of the nature of or containing allegory; figurative", "S": [], "A": []}

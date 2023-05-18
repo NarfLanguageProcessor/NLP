@@ -1,0 +1,1 @@
+{"index": 109204, "D": "decorative needlework done by tying vertical threads together in bundles", "S": [], "A": []}

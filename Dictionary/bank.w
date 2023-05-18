@@ -1,0 +1,1 @@
+{"index": 27483, "D": "a long pile or heap; mass", "S": ["fund ", "stock ", "store ", "treasury "], "A": []}

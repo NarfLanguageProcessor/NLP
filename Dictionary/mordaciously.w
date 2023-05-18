@@ -1,0 +1,1 @@
+{"index": 193354, "D": "biting or given to biting.", "S": [], "A": []}

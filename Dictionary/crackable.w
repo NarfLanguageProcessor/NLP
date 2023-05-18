@@ -1,0 +1,1 @@
+{"index": 71819, "D": "to break without complete separation of parts; become fissured", "S": [], "A": []}

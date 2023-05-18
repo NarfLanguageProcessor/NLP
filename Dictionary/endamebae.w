@@ -1,0 +1,1 @@
+{"index": 99569, "D": "any protozoan of the genus Endamoeba, members of which are parasitic in the digestive tracts of various invertebrates, including cockroaches and termites.", "S": [], "A": []}

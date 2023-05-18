@@ -1,0 +1,1 @@
+{"index": 55239, "D": "an oral hypoglycemic substance, C10H13ClN2O3S, used to augment insulin secretion in the treatment of certain kinds of diabetes mellitus.", "S": [], "A": []}

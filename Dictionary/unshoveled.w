@@ -1,0 +1,1 @@
+{"index": 351042, "D": "an implement consisting of a broad blade or scoop attached to a long handle, used for taking up, removing, or throwing loose matter, as earth, snow, or coal.", "S": [], "A": []}

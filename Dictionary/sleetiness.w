@@ -1,0 +1,1 @@
+{"index": 293928, "D": "of, relating to, or like sleet. ", "S": [], "A": []}

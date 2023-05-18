@@ -1,0 +1,1 @@
+{"index": 202432, "D": "the act of contesting;  controversy; dispute.", "S": [], "A": []}

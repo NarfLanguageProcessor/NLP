@@ -1,0 +1,1 @@
+{"index": 93460, "D": "a survival technique, for swimmers or nonswimmers, in which the body is allowed to float vertically in the water, with the head submerged, the lungs filled with air, and the arms and legs relaxed, the head being raised to breathe every ten seconds or so.", "S": [], "A": []}

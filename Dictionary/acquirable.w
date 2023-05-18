@@ -1,0 +1,1 @@
+{"index": 2737, "D": "to come into possession or ownership of; get as one's own", "S": ["accessible ", "attainable ", "gettable ", "obtainable ", "procurable ", "securable ", "to be had "], "A": []}

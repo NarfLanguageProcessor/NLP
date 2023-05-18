@@ -1,0 +1,1 @@
+{"index": 342067, "D": "a person or thing regarded with special favor  or preference", "S": [], "A": []}

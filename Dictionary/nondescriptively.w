@@ -1,0 +1,1 @@
+{"index": 202958, "D": "having the quality of describing; characterized by description", "S": [], "A": []}

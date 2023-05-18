@@ -1,0 +1,1 @@
+{"index": 191068, "D": "kept or keeping within reasonable or proper limits; not extreme, excessive, or intense", "S": ["adulterated ", "cut ", "dilute ", "impaired ", "impoverished ", "light ", "reduced ", "weakened "], "A": ["strong "]}

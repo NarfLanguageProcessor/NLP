@@ -1,0 +1,1 @@
+{"index": 84663, "D": "any of a group of organic compounds containing three carbon atoms and two nitrogen atoms arranged in a ring.", "S": [], "A": []}

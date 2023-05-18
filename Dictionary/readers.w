@@ -1,0 +1,1 @@
+{"index": 261582, "D": "a person who reads. ", "S": ["anthology ", "bookworm ", "editor ", "elocutionist ", "lector ", "lecturer ", "primer ", "proofreader ", "reciter ", "scholar "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175124, "D": "to unfasten or undo, as a bond or fetter.", "S": [], "A": []}

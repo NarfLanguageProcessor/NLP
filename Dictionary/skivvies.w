@@ -1,0 +1,1 @@
+{"index": 293422, "D": "a man's cotton T-shirt.", "S": ["bikini ", "bra ", "corset ", "lingerie ", "shorts ", "undergarment ", "underpants ", "undershirt "], "A": []}

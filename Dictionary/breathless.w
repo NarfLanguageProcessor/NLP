@@ -1,0 +1,1 @@
+{"index": 40339, "D": "without breath or breathing with difficulty; gasping; panting", "S": ["asthmatic ", "blown ", "choking ", "emphysematous ", "exhausted ", "gasping ", "gulping ", "out of breath ", "panting ", "short of breath ", "short-winded ", "spent ", "stertorous ", "wheezing ", "winded "], "A": ["breathy ", "calm "]}

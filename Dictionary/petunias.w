@@ -1,0 +1,1 @@
+{"index": 232626, "D": "any garden plant belonging to the genus Petunia, of the nightshade family, native to tropical America, having funnel-shaped flowers of various colors.", "S": [], "A": []}

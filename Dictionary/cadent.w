@@ -1,0 +1,1 @@
+{"index": 44318, "D": "having cadence. ", "S": ["measured ", "metric ", "metrical ", "rhythmic "], "A": []}

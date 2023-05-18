@@ -1,0 +1,1 @@
+{"index": 202228, "D": "refusal or failure to concur.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 294555, "D": "a thickly populated, run-down, squalid part of a city, inhabited by poor people.", "S": ["blighted area ", "public squalor ", "run-down neighborhood ", "shanty town ", "skid row ", "tenement housing "], "A": []}

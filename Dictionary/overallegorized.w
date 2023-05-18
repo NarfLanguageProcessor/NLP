@@ -1,0 +1,1 @@
+{"index": 218188, "D": "to make into an allegory;  narrate allegorically. ", "S": [], "A": []}

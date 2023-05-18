@@ -1,0 +1,1 @@
+{"index": 61128, "D": "a rack  or stand for the temporary hanging or storing of coats,  hats, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 69723, "D": "to eat or wear away gradually as if by gnawing, especially by chemical action.", "S": ["deteriorate ", "erode ", "impair ", "rot ", "rust "], "A": ["build ", "construct ", "create ", "improve "]}

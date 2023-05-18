@@ -1,0 +1,1 @@
+{"index": 199526, "D": "a river on the boundary between W New York and Ontario, Canada, flowing from Lake Erie into Lake Ontario. 34 miles (55 km) long.", "S": ["cascade ", "cataclysm ", "deluge ", "downpour ", "gush ", "inundation ", "overflow ", "torrent "], "A": []}

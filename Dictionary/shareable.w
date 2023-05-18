@@ -1,0 +1,1 @@
+{"index": 287483, "D": "the full or proper portion or part allotted or belonging to or contributed or owed by an individual or group.", "S": [], "A": []}

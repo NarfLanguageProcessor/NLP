@@ -1,0 +1,1 @@
+{"index": 97892, "D": "a thermodynamic chart indicating temperature as the abscissa on a linear scale and pressure as the ordinate on a logarithmic scale.", "S": [], "A": []}

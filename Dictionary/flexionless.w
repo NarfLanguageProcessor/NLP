@@ -1,0 +1,1 @@
+{"index": 114501, "D": "the position that a limb assumes when it is bent.", "S": [], "A": []}

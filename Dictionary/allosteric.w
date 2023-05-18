@@ -1,0 +1,1 @@
+{"index": 8947, "D": "pertaining to regulation of the rate of an enzymatic process.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 98956, "D": "to make into or form an emulsion. ", "S": ["dissolved "], "A": []}

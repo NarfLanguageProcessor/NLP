@@ -1,0 +1,1 @@
+{"index": 344486, "D": "drunk or intoxicated, or exhilarated or stupefied in a way that suggests intoxication", "S": [], "A": []}

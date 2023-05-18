@@ -1,0 +1,1 @@
+{"index": 231990, "D": "the state or fact of being a person. ", "S": [], "A": []}

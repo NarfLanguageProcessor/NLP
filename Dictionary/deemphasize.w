@@ -1,0 +1,1 @@
+{"index": 78975, "D": "to place less emphasis  upon; reduce in importance, size, scope, etc.", "S": ["belittle ", "gloss over ", "minimize ", "mute ", "soft pedal ", "soften ", "underplay "], "A": ["blow up ", "build up ", "explode ", "play up "]}

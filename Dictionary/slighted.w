@@ -1,0 +1,1 @@
+{"index": 294062, "D": "treated with indifference, especially pointedly or contemptuously; snubbed", "S": ["aggrieved ", "disgraced ", "humiliated ", "outraged ", "shamed "], "A": ["complimented ", "flattered ", "praised "]}

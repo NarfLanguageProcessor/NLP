@@ -1,0 +1,1 @@
+{"index": 29885, "D": "to come, change, or grow to be (as specified)", "S": ["come ", "develop into ", "grow into ", "turn into "], "A": ["remain ", "stagnate "]}

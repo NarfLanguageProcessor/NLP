@@ -1,0 +1,1 @@
+{"index": 159460, "D": "Italianism, especially an idiom or a characteristic of the Italian language.", "S": [], "A": []}

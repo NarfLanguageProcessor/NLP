@@ -1,0 +1,1 @@
+{"index": 9130, "D": "a wardrobe, cabinet, or cupboard.", "S": [], "A": []}

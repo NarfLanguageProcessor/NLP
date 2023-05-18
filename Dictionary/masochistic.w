@@ -1,0 +1,1 @@
+{"index": 180717, "D": "having a condition in which sexual gratification depends on suffering, physical pain, and humiliation.", "S": [], "A": []}

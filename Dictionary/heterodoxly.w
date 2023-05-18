@@ -1,0 +1,1 @@
+{"index": 137548, "D": "not in accordance with established or accepted doctrines or opinions, especially in theology; unorthodox.", "S": [], "A": []}

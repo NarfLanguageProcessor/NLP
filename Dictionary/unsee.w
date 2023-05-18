@@ -1,0 +1,1 @@
+{"index": 350677, "D": "to remove (something seen) from one's memory or conscious awareness; to forget or ignore images or the like", "S": [], "A": []}

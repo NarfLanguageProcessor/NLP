@@ -1,0 +1,1 @@
+{"index": 283042, "D": "tending to seduce; enticing; beguiling; captivating", "S": ["attractive ", "captivating ", "charming ", "enticing ", "fascinating ", "flirtatious ", "inviting ", "irresistible ", "provocative ", "tempting "], "A": ["repellent ", "repulsive ", "unattractive "]}

@@ -1,0 +1,1 @@
+{"index": 153478, "D": "a substance or preparation used for killing insects. ", "S": [], "A": []}

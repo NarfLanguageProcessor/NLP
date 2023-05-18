@@ -1,0 +1,1 @@
+{"index": 361203, "D": "a calibrated instrument for measuring the potential difference between two points.", "S": [], "A": []}

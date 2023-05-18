@@ -1,0 +1,1 @@
+{"index": 154953, "D": "to combine two or more similarly arranged sets of items, as cards or documents, into a single file. ", "S": [], "A": []}

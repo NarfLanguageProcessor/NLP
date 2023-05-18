@@ -1,0 +1,1 @@
+{"index": 72822, "D": "any of several marine fishes of the jack family, Carangidae.", "S": [], "A": []}

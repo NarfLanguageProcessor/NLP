@@ -1,0 +1,1 @@
+{"index": 193479, "D": "any of numerous African freshwater fishes of the family Mormyridae, many species of which have an elongated snout and are capable of producing an electric discharge.", "S": [], "A": []}

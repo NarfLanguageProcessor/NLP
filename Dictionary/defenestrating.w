@@ -1,0 +1,1 @@
+{"index": 79200, "D": "to throw (a person or thing) out of a window", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 57375, "D": "of or relating to Cilicia (an ancient region of SE Asia Minor) or its inhabitants", "S": [], "A": []}

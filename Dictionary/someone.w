@@ -1,0 +1,1 @@
+{"index": 297038, "D": "some person; somebody.", "S": ["character ", "leader ", "official ", "star "], "A": ["nobody ", "nonentity "]}

@@ -1,0 +1,1 @@
+{"index": 223026, "D": "a garment worn by some African peoples, consisting of a rectangular strip of cloth fashioned into a loincloth or wrapped on the body so as to form a short skirt.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 230372, "D": "to become aware of, know, or identify by means of the senses", "S": ["observing "], "A": []}

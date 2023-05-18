@@ -1,0 +1,1 @@
+{"index": 53370, "D": "a room  where hats, coats, parcels, etc., may be checked. ", "S": [], "A": []}

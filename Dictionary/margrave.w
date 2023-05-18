@@ -1,0 +1,1 @@
+{"index": 180022, "D": "(formerly) the hereditary title of the rulers of certain European states.", "S": [], "A": []}

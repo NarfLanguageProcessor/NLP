@@ -1,0 +1,1 @@
+{"index": 76632, "D": "a decreasing of the amplitude of an electrical or mechanical wave.", "S": ["absorb ", "bathe ", "dip ", "drink ", "drown ", "flood ", "immerse ", "marinate ", "moisten ", "penetrate ", "saturate ", "soften ", "steep ", "submerge ", "wash "], "A": ["dehydrate ", "dry "]}

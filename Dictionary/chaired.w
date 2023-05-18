@@ -1,0 +1,1 @@
+{"index": 52005, "D": "a seat, especially for one person, usually having four legs for support and a rest for the back and often having rests for the arms.", "S": ["chair ", "judge ", "negotiate ", "preside ", "referee ", "umpire "], "A": ["egg on ", "free ", "incite ", "let go ", "liberate ", "turn over ", "unleash "]}

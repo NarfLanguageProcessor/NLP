@@ -1,0 +1,1 @@
+{"index": 194398, "D": "to pass from one place or position to another.", "S": ["act ", "action ", "change ", "maneuver ", "measure ", "motion ", "movement ", "ploy ", "procedure ", "shift ", "step "], "A": ["cessation ", "idleness ", "inaction ", "inactivity ", "inertia ", "repose ", "rest ", "stagnation ", "stoppage ", "failure "]}

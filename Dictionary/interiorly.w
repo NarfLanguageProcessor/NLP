@@ -1,0 +1,1 @@
+{"index": 155081, "D": "being within; inside of anything; internal; inner; further toward a center", "S": [], "A": []}

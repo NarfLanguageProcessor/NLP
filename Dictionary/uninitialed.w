@@ -1,0 +1,1 @@
+{"index": 344583, "D": "of, relating to, or occurring at the beginning; first", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 103422, "D": "equal in value, measure, force, effect, significance, etc.", "S": ["commensurate ", "comparable ", "corresponding ", "equal ", "identical ", "proportionate ", "tantamount "], "A": ["different ", "dissimilar ", "opposite ", "unequal ", "unlike "]}

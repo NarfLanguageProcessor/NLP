@@ -1,0 +1,1 @@
+{"index": 351055, "D": "having or showing astute or sharp judgment in practical matters, sometimes at the cost of moral compromise", "S": [], "A": []}

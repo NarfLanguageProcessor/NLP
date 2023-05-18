@@ -1,0 +1,1 @@
+{"index": 38692, "D": "to spoil by poor work; bungle (often followed by up)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 9166, "D": "a house endowed by private charity for the reception and support of the aged or infirm poor.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 366212, "D": "a city in and the capital of Manitoba, in S Canada, on the Red River.", "S": [], "A": []}

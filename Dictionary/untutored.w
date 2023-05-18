@@ -1,0 +1,1 @@
+{"index": 353492, "D": "not tutored;  untaught; uninstructed.", "S": ["ignorant ", "uneducated "], "A": ["educated ", "intelligent "]}

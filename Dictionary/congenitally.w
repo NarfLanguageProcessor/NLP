@@ -1,0 +1,1 @@
+{"index": 66158, "D": "since birth", "S": ["constitutionally ", "genetically ", "intrinsically ", "naturally "], "A": []}

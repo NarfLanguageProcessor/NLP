@@ -1,0 +1,1 @@
+{"index": 201543, "D": "a person trained or gifted in exercises or contests involving physical agility, stamina, or strength; a participant in a sport, exercise, or game requiring physical skill.", "S": [], "A": []}

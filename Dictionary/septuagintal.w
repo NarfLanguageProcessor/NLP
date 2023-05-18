@@ -1,0 +1,1 @@
+{"index": 285781, "D": "the oldest Greek version of the Old Testament, traditionally said to have been translated by 70 or 72 Jewish scholars at the request of Ptolemy II", "S": [], "A": []}

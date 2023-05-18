@@ -1,0 +1,1 @@
+{"index": 121522, "D": "the forced exile of Jews, especially from countries where they were most persecuted.", "S": [], "A": []}

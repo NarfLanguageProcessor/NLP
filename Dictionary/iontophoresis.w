@@ -1,0 +1,1 @@
+{"index": 157685, "D": "a painless alternative to drug injection in which a weak electrical current is used to stimulate drug-carrying ions to pass through intact skin.", "S": [], "A": []}

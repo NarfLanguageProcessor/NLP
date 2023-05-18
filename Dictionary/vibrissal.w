@@ -1,0 +1,1 @@
+{"index": 359321, "D": "one of the stiff, bristly hairs growing about the mouth of certain animals, as a whisker of a cat.", "S": [], "A": []}

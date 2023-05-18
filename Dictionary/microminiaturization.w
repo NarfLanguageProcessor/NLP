@@ -1,0 +1,1 @@
+{"index": 186293, "D": "extreme miniaturization, especially of electronic equipment, with extensive use of integrated circuits.", "S": [], "A": []}

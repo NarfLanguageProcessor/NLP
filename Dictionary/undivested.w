@@ -1,0 +1,1 @@
+{"index": 340685, "D": "to strip of clothing, ornament, etc.", "S": [], "A": []}

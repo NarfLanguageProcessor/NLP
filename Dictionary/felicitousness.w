@@ -1,0 +1,1 @@
+{"index": 110986, "D": "well-suited for the occasion, as an action, manner, or expression; apt; appropriate", "S": ["appositeness ", "fitness ", "fittingness ", "suitability ", "suitableness "], "A": []}

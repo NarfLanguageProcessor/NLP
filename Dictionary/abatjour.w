@@ -1,0 +1,1 @@
+{"index": 158, "D": "a device, as a skylight or reflector, for diverting light into a building.", "S": [], "A": []}

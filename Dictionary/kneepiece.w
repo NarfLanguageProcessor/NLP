@@ -1,0 +1,1 @@
+{"index": 165506, "D": "a piece  of armor for protecting the knee,  as a poleyn.", "S": [], "A": []}

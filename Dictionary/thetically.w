@@ -1,0 +1,1 @@
+{"index": 321622, "D": "positive; dogmatic.", "S": [], "A": []}

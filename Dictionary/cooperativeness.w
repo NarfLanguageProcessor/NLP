@@ -1,0 +1,1 @@
+{"index": 68333, "D": "working or acting together willingly for a common purpose or benefit.", "S": ["acquiescence ", "agreeableness ", "amenableness ", "amiability ", "compliance ", "compliancy ", "deference ", "good-naturedness ", "obedience ", "submissiveness ", "tractability "], "A": ["disagreement ", "disobedience ", "rebellion "]}

@@ -1,0 +1,1 @@
+{"index": 44022, "D": "a curved, tapering leg curving outward at the top and inward farther down so as to end in a round pad, the semblance of an animal's paw, or some other feature", "S": [], "A": []}

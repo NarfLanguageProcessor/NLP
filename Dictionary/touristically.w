@@ -1,0 +1,1 @@
+{"index": 326644, "D": "of, relating to, or typical of tourists  or tourism", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 34313, "D": "of or relating to the effects of climate on living organisms.", "S": [], "A": []}

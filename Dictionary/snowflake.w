@@ -1,0 +1,1 @@
+{"index": 295813, "D": "one of the small, feathery masses or flakes in which snow  falls.", "S": ["sleet "], "A": []}

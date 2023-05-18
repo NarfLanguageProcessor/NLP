@@ -1,0 +1,1 @@
+{"index": 327220, "D": "having or exerting traction; drawing.", "S": [], "A": []}

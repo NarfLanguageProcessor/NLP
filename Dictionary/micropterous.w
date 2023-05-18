@@ -1,0 +1,1 @@
+{"index": 186439, "D": "(of certain animals, esp some types of ant) having small reduced wings", "S": [], "A": []}

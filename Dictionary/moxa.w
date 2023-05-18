@@ -1,0 +1,1 @@
+{"index": 194438, "D": "a flammable substance or material obtained from the leaves of certain Chinese and Japanese wormwood plants, especially Artemisia moxa.", "S": [], "A": []}

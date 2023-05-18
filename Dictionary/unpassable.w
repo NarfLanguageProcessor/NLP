@@ -1,0 +1,1 @@
+{"index": 347512, "D": "capable of being passed  through, beyond, or over; fit to be traversed, penetrated, crossed, etc., as a road, forest, or stream.", "S": [], "A": []}

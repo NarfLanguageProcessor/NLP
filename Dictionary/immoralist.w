@@ -1,0 +1,1 @@
+{"index": 148061, "D": "a person who advocates or practises immorality", "S": [], "A": []}

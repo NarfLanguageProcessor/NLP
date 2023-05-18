@@ -1,0 +1,1 @@
+{"index": 51723, "D": "a narrow, curved basket fitted on one end to a wooden handle with a glovelike compartment at the base, for catching and throwing the ball.", "S": [], "A": []}

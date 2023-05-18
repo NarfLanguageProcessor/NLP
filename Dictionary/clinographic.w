@@ -1,0 +1,1 @@
+{"index": 60080, "D": "(in mining, construction, etc.) an instrument that records the deviation of boreholes or the like from the vertical.", "S": [], "A": []}

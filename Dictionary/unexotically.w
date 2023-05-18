@@ -1,0 +1,1 @@
+{"index": 341744, "D": "of foreign origin or character; not native; introduced from abroad, but not fully naturalized or acclimatized", "S": [], "A": []}

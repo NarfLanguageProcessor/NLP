@@ -1,0 +1,1 @@
+{"index": 290967, "D": "congenial or like-minded; likable", "S": ["adaptable ", "appropriate ", "consistent ", "suitable "], "A": ["improper ", "unfitting ", "unsuitable "]}

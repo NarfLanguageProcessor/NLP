@@ -1,0 +1,1 @@
+{"index": 218758, "D": "correction  beyond what is needed or customary, especially when leading to error; overadjustment", "S": [], "A": []}

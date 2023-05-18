@@ -1,0 +1,1 @@
+{"index": 361374, "D": "any ciliated protozoan of the genus Vorticella, having a transparent, bell-shaped body with a retractile stalk.", "S": [], "A": []}

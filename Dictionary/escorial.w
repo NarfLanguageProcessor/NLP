@@ -1,0 +1,1 @@
+{"index": 104223, "D": "a building in central Spain, 27 miles (43 km) NW of Madrid, containing a monastery, palace, church, and mausoleum of the Spanish sovereigns", "S": [], "A": []}

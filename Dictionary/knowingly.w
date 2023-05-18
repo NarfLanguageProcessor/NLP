@@ -1,0 +1,1 @@
+{"index": 165715, "D": "affecting, implying, or deliberately revealing shrewd knowledge  of secret or private information", "S": ["consciously ", "deliberately ", "purposely "], "A": ["unintentionally "]}

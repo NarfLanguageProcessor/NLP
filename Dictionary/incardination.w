@@ -1,0 +1,1 @@
+{"index": 149700, "D": "the official acceptance by one diocese of a clergyman from another diocese", "S": [], "A": []}

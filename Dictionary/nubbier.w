@@ -1,0 +1,1 @@
+{"index": 209260, "D": "having nubs;  knobby or lumpy.", "S": [], "A": []}

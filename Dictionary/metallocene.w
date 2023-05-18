@@ -1,0 +1,1 @@
+{"index": 184749, "D": "an organometallic coordination compound consisting of a metal bonded to one or two rings of cyclopentadiene.", "S": [], "A": []}

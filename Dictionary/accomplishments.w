@@ -1,0 +1,1 @@
+{"index": 1682, "D": "an act or instance of carrying into effect; fulfillment", "S": ["backdrop ", "culture ", "education ", "environment ", "history ", "practice ", "qualification ", "tradition ", "training ", "upbringing "], "A": ["ignorance "]}

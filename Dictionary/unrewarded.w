@@ -1,0 +1,1 @@
+{"index": 349901, "D": "not having received any reward or advantages", "S": ["contributed ", "donated ", "due ", "freewilled ", "gratuitous ", "honorary ", "unindemnified ", "unrecompensed ", "unremunerated ", "unsalaried ", "voluntary ", "volunteer "], "A": []}

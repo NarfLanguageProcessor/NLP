@@ -1,0 +1,1 @@
+{"index": 135722, "D": "of, like, or suitable to hell;  infernal; vile; horrible", "S": [], "A": []}

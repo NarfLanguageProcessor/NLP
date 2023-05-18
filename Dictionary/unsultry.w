@@ -1,0 +1,1 @@
+{"index": 352384, "D": "oppressively hot and close or moist; sweltering", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 169972, "D": "extra time, space, materials, or the like, within which to operate; margin", "S": ["extent ", "headway ", "latitude ", "margin ", "play ", "scope ", "space "], "A": []}

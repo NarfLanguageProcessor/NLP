@@ -1,0 +1,1 @@
+{"index": 43550, "D": "a highway, or lane of a highway, set aside for the exclusive use of buses,  especially during peak traffic hours.", "S": [], "A": []}

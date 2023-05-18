@@ -1,0 +1,1 @@
+{"index": 890, "D": "the third and favorite son of David, who rebelled against his father and was slain by Joab. 2 Samuel 13\u201318.", "S": [], "A": []}

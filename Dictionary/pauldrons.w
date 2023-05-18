@@ -1,0 +1,1 @@
+{"index": 228086, "D": "a piece of plate armor for the shoulder and the uppermost part of the arm, often overlapping the adjacent parts of the chest and back.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 136860, "D": "of or relating to Heraclitus or his philosophy.", "S": [], "A": []}

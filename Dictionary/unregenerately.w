@@ -1,0 +1,1 @@
+{"index": 349355, "D": "not regenerate;  not renewed in heart and mind or reborn in spirit; unrepentant", "S": [], "A": []}

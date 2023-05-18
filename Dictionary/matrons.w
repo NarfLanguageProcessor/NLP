@@ -1,0 +1,1 @@
+{"index": 181291, "D": "a married woman, especially one who is mature and staid or dignified and has an established social position.", "S": ["dowager ", "housekeeper ", "matriarch "], "A": ["patron "]}

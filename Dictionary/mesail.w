@@ -1,0 +1,1 @@
+{"index": 183997, "D": "a pivoted piece on a helmet between a visor and a beaver.", "S": [], "A": []}

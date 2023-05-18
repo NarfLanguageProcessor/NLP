@@ -1,0 +1,1 @@
+{"index": 299459, "D": "a cuneiform character.", "S": [], "A": []}

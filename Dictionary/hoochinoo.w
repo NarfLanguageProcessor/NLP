@@ -1,0 +1,1 @@
+{"index": 143471, "D": "a type of distilled liquor made by Alaskan Indians.", "S": [], "A": []}

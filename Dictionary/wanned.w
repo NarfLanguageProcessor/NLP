@@ -1,0 +1,1 @@
+{"index": 362442, "D": "of an unnatural or sickly pallor; pallid; lacking color", "S": ["blanch ", "bleach ", "diminish ", "enervate ", "exhaust ", "fade ", "faint ", "pale ", "sicken ", "wan ", "whiten "], "A": ["animate ", "blacken ", "brighten ", "darken ", "invigorate ", "strengthen "]}

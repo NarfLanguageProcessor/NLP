@@ -1,0 +1,1 @@
+{"index": 254710, "D": "a dextrorotatory, isomeric compound, C10H15NO, used as a nasal decongestant.", "S": [], "A": []}

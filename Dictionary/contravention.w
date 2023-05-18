@@ -1,0 +1,1 @@
+{"index": 67747, "D": "an act of contravening;  action counter to something; violation or opposition.", "S": ["breach ", "infringement "], "A": ["agreement ", "harmony ", "obedience ", "peace "]}

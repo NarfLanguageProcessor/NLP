@@ -1,0 +1,1 @@
+{"index": 366540, "D": "witchcraft; magic.", "S": ["abracadabra ", "black hocus-pocus ", "black magic ", "magic ", "necromancy ", "occultism ", "sorcery ", "spell-casting ", "voodoo ", "witchcraft ", "wizardry "], "A": []}

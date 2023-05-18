@@ -1,0 +1,1 @@
+{"index": 62339, "D": "the state or condition of living together as husband and wife without being married", "S": ["living as man and wife "], "A": []}

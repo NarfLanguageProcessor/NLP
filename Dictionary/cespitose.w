@@ -1,0 +1,1 @@
+{"index": 51693, "D": "forming mats; growing in dense tufts.", "S": ["comose ", "feathered ", "wispy "], "A": []}

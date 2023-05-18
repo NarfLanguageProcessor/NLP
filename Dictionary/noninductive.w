@@ -1,0 +1,1 @@
+{"index": 204671, "D": "not inductive", "S": [], "A": []}

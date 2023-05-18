@@ -1,0 +1,1 @@
+{"index": 272270, "D": "of or containing rhodium,  especially in the tetravalent state.", "S": [], "A": []}

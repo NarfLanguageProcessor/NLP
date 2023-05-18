@@ -1,0 +1,1 @@
+{"index": 25021, "D": "rotating rapidly; spinning; whirling  (usually used predicatively)", "S": [], "A": []}

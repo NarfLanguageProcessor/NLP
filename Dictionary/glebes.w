@@ -1,0 +1,1 @@
+{"index": 126102, "D": "the cultivable land owned by a parish church or ecclesiastical benefice.", "S": ["clay ", "coast ", "dirt ", "dust ", "gravel ", "land ", "mud ", "sand ", "shore ", "surface ", "terrain ", "turf "], "A": ["sky "]}

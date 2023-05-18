@@ -1,0 +1,1 @@
+{"index": 366440, "D": "Irish cardinal and author, born in Spain.", "S": ["guide ", "guru ", "intellect ", "intellectual ", "mahatma ", "master ", "mentor ", "philosopher ", "pundit ", "savant ", "teacher ", "thinker "], "A": ["amateur ", "student "]}

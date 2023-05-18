@@ -1,0 +1,1 @@
+{"index": 29659, "D": "beautiful. ", "S": ["beauty ", "elegance ", "fairness ", "handsomeness ", "loveliness ", "prettiness "], "A": ["ugliness "]}

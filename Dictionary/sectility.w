@@ -1,0 +1,1 @@
+{"index": 282850, "D": "capable of being cut smoothly with a knife.", "S": [], "A": []}

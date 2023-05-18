@@ -1,0 +1,1 @@
+{"index": 137441, "D": "concubinage. ", "S": [], "A": []}

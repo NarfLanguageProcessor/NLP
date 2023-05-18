@@ -1,0 +1,1 @@
+{"index": 219700, "D": "with a great weight or burden", "S": [], "A": []}

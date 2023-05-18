@@ -1,0 +1,1 @@
+{"index": 198091, "D": "a member of any of various small-statured, Indigenous peoples of Africa, as a Pygmy.", "S": [], "A": []}

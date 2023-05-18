@@ -1,0 +1,1 @@
+{"index": 87321, "D": "having flowers in which the receptacle is expanded into a conspicuous disk, as in composite plants.", "S": [], "A": []}

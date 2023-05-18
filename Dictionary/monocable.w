@@ -1,0 +1,1 @@
+{"index": 192107, "D": "an aerial ropeway having a single moving cable. ", "S": [], "A": []}

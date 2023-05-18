@@ -1,0 +1,1 @@
+{"index": 293214, "D": "an aviator or paratrooper.", "S": [], "A": []}

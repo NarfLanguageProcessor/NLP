@@ -1,0 +1,1 @@
+{"index": 254078, "D": "a native or inhabitant of a province.", "S": [], "A": []}

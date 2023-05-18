@@ -1,0 +1,1 @@
+{"index": 95065, "D": "an abnormal condition in which bone becomes hard and dense like ivory.", "S": [], "A": []}

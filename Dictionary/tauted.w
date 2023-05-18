@@ -1,0 +1,1 @@
+{"index": 317122, "D": "(especially of wood or hair) tangled or matted together.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 117989, "D": "the social system proposed by Fran\u00e7ois Marie Charles Fourier, under which society was to be organized into phalanxes or associations, each large enough for all industrial and social requirements.", "S": [], "A": []}

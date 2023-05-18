@@ -1,0 +1,1 @@
+{"index": 365127, "D": "a creeping South American plant, Nierembergia repens, of the nightshade family, having bell-shaped, lilac- or blue-tinged, cream-white flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 35593, "D": "a flier or other promotional material distributed by a company to sell a product.", "S": [], "A": []}

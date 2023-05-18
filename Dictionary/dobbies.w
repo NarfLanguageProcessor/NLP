@@ -1,0 +1,1 @@
+{"index": 90548, "D": "a fatuous person; fool.", "S": [], "A": []}

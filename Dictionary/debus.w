@@ -1,0 +1,1 @@
+{"index": 77875, "D": "to get out of a bus;  alight from a bus.", "S": [], "A": []}

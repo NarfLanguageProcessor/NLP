@@ -1,0 +1,1 @@
+{"index": 312983, "D": "to furnish or provide (a person, establishment, place, etc.) with what is lacking or requisite", "S": ["amount ", "fund ", "inventory ", "number ", "quantity ", "stock ", "stockpile "], "A": ["debt ", "need "]}

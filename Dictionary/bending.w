@@ -1,0 +1,1 @@
+{"index": 31505, "D": "to force (an object, especially a long or thin one) from a straight form into a curved or angular one, or from a curved or angular form into some different form", "S": ["arching ", "bowing ", "curving ", "spiraling ", "twisting ", "veering ", "winding "], "A": ["straight ", "unbent ", "unbowed "]}

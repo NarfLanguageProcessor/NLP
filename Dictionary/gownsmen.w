@@ -1,0 +1,1 @@
+{"index": 128434, "D": "a person who wears a gown  indicating office, profession, or status.", "S": [], "A": []}

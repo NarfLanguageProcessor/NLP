@@ -1,0 +1,1 @@
+{"index": 169735, "D": "the skin of an animal, with the hair removed, prepared for use by tanning or a similar process designed to preserve it against decay and make it pliable or supple when dry.", "S": ["skin "], "A": []}

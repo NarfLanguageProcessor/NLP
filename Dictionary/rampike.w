@@ -1,0 +1,1 @@
+{"index": 260401, "D": "a dead tree, especially the bleached skeleton or splintered trunk of a tree killed by fire, lightning, or wind.", "S": [], "A": []}

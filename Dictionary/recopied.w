@@ -1,0 +1,1 @@
+{"index": 263483, "D": "an imitation, reproduction, or transcript of an original", "S": [], "A": []}

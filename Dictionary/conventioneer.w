@@ -1,0 +1,1 @@
+{"index": 67986, "D": "a person, as a political delegate, who participates in a convention. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 55492, "D": "resembling acetylcholine  in pharmacological action.", "S": [], "A": []}

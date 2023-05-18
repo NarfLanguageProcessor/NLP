@@ -1,0 +1,1 @@
+{"index": 235957, "D": "an excursion or outing in which the participants carry food with them and share a meal in the open air.", "S": [], "A": []}

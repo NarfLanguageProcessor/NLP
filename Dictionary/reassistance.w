@@ -1,0 +1,1 @@
+{"index": 262082, "D": "the act of assisting;  help; aid; support.", "S": [], "A": []}

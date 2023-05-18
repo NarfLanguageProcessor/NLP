@@ -1,0 +1,1 @@
+{"index": 330460, "D": "a projection, cam, or the like, for striking some other part at regular intervals.", "S": [], "A": []}

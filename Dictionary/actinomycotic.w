@@ -1,0 +1,1 @@
+{"index": 3181, "D": "an infectious, inflammatory disease caused by Actinomyces israelii in humans and A. bovis in domestic animals, and characterized by lumpy, often suppurating tumors, especially, about the jaws.", "S": [], "A": []}

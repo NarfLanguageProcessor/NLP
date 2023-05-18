@@ -1,0 +1,1 @@
+{"index": 87649, "D": "communication of thought by words; talk; conversation", "S": ["chatterbox ", "chatterer ", "communicator ", "conversationist ", "raconteur ", "speaker ", "talker "], "A": []}

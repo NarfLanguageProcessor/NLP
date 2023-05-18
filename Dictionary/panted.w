@@ -1,0 +1,1 @@
+{"index": 224913, "D": "to breathe hard and quickly, as after exertion.", "S": ["blow ", "breathe ", "chuff ", "gulp ", "heave ", "huff ", "palpitate ", "puff ", "snort ", "throb ", "wheeze ", "whiff ", "wind "], "A": ["hide ", "secret "]}

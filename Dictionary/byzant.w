@@ -1,0 +1,1 @@
+{"index": 35376, "D": "the gold solidus of the Byzantine Empire, widely circulated in the Middle Ages.", "S": [], "A": []}

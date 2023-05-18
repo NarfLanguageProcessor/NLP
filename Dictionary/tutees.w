@@ -1,0 +1,1 @@
+{"index": 333055, "D": "a person who is being tutored;  the pupil of a tutor. ", "S": [], "A": []}

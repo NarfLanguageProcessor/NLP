@@ -1,0 +1,1 @@
+{"index": 337560, "D": "to make up, compound, or prepare from ingredients or materials", "S": [], "A": []}

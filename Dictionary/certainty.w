@@ -1,0 +1,1 @@
+{"index": 51565, "D": "the state of being certain. ", "S": ["confidence ", "inevitability ", "trust "], "A": ["distrust ", "disbelief "]}

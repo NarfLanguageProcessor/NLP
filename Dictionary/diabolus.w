@@ -1,0 +1,1 @@
+{"index": 84009, "D": [], "S": ["Antichrist ", "Beelzebub ", "Mephistopheles ", "demon ", "lucifer "], "A": ["Archfiend ", "Christ ", "Prince of Darkness ", "demon ", "lucifer ", "the Evil Spirit "]}

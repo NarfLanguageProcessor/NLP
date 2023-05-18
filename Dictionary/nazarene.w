@@ -1,0 +1,1 @@
+{"index": 197547, "D": "a native or inhabitant of Nazareth.", "S": [], "A": []}

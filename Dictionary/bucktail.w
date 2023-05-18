@@ -1,0 +1,1 @@
+{"index": 42108, "D": "an artificial fly made of hairs of or like those of the tail  of a deer.", "S": [], "A": []}

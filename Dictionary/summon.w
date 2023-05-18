@@ -1,0 +1,1 @@
+{"index": 310973, "D": "to call upon to do something specified.", "S": ["ask ", "assemble ", "call ", "call for ", "call in ", "convene ", "direct ", "draft ", "gather ", "invite ", "mobilize ", "recall ", "request ", "subpoena "], "A": ["answer ", "cancel ", "disperse ", "divide ", "ignore ", "reply ", "scatter ", "separate ", "stop ", "calm ", "free "]}

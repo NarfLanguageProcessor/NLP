@@ -1,0 +1,1 @@
+{"index": 306382, "D": "of or relating to ore or coal that can be produced by strip mining. ", "S": [], "A": []}

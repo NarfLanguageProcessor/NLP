@@ -1,0 +1,1 @@
+{"index": 350974, "D": " not protected or shielded, as from storms or missiles, by a wall, roof, barrier, dense vegetative cover, or the like", "S": ["exposed ", "uncovered ", "unsafe ", "vulnerable "], "A": []}

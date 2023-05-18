@@ -1,0 +1,1 @@
+{"index": 340549, "D": "functioning without adequate order, systemization, or planning; uncoordinated", "S": [], "A": []}

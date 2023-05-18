@@ -1,0 +1,1 @@
+{"index": 271037, "D": "able to be used more than once", "S": ["renewable ", "transformable "], "A": ["limited ", "fixed ", "perishable ", "unvarying "]}

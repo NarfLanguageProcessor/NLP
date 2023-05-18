@@ -1,0 +1,1 @@
+{"index": 276855, "D": "a Scot word for sore", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 283007, "D": "the study of sedimentary rocks.", "S": [], "A": []}

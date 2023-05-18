@@ -1,0 +1,1 @@
+{"index": 206626, "D": "a law, rule, or other order prescribed by authority, especially to regulate  conduct", "S": [], "A": []}

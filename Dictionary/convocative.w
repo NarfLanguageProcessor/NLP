@@ -1,0 +1,1 @@
+{"index": 68137, "D": "to call together; summon to meet or assemble.", "S": [], "A": []}

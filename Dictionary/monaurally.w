@@ -1,0 +1,1 @@
+{"index": 191797, "D": "monophonic (def. 2). ", "S": [], "A": []}

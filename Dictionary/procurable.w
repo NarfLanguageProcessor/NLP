@@ -1,0 +1,1 @@
+{"index": 251471, "D": "obtainable. ", "S": ["acquirable ", "available ", "for sale ", "gettable ", "obtainable ", "on sale ", "purchasable ", "securable "], "A": []}

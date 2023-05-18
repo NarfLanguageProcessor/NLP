@@ -1,0 +1,1 @@
+{"index": 229660, "D": "an area of land almost completely surrounded by water except for an isthmus connecting it with the mainland.", "S": [], "A": []}

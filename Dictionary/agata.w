@@ -1,0 +1,1 @@
+{"index": 5931, "D": "an American art glass having a mottled, glossy, white and rose surface.", "S": [], "A": []}

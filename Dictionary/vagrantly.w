@@ -1,0 +1,1 @@
+{"index": 356563, "D": "a person who wanders about idly and has no permanent home or employment; vagabond; tramp.", "S": [], "A": []}

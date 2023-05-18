@@ -1,0 +1,1 @@
+{"index": 96550, "D": "a variant spelling of irenic", "S": [], "A": []}

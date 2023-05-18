@@ -1,0 +1,1 @@
+{"index": 36751, "D": "a small oak, Quercus incana, of the southern U.S., having crooked branches and blue-green leaves.", "S": [], "A": []}

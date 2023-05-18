@@ -1,0 +1,1 @@
+{"index": 250534, "D": "the powder or other material used to ignite a charge.", "S": ["conference ", "discussion ", "information ", "instruction ", "meeting ", "update "], "A": []}

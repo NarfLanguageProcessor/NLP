@@ -1,0 +1,1 @@
+{"index": 22955, "D": "the legal consequence of judgment of death or outlawry for treason or felony, involving the loss of all civil rights.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 247949, "D": "to make ill, especially slightly.", "S": [], "A": []}

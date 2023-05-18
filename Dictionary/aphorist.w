@@ -1,0 +1,1 @@
+{"index": 16888, "D": "a person who makes or uses aphorisms. ", "S": [], "A": []}

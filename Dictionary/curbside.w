@@ -1,0 +1,1 @@
+{"index": 75228, "D": "a side  of a pavement or street bordered by a curb. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 3554, "D": "added;  more; supplementary", "S": ["added ", "further ", "increased ", "new ", "other ", "supplementary "], "A": ["necessary "]}

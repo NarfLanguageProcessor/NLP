@@ -1,0 +1,1 @@
+{"index": 72919, "D": "pertaining to a ring-shaped cartilage at the lower part of the larynx.", "S": [], "A": []}

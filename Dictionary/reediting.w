@@ -1,0 +1,1 @@
+{"index": 264565, "D": "to supervise or direct the preparation of (a newspaper, magazine, book, etc.); serve as editor  of; direct the editorial policies of.", "S": ["alteration ", "amendment ", "improvement ", "modification ", "reconsideration ", "reexamination ", "review "], "A": ["worsening "]}

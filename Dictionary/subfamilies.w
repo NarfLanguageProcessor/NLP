@@ -1,0 +1,1 @@
+{"index": 307972, "D": "a category of related genera within a family. ", "S": ["brand ", "breed ", "category ", "class ", "compartment ", "department ", "division ", "genre ", "group ", "kind ", "make ", "model ", "section ", "sort ", "style ", "subdivision ", "variety "], "A": ["whole "]}

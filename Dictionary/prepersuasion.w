@@ -1,0 +1,1 @@
+{"index": 248806, "D": "the act of persuading  or seeking to persuade. ", "S": [], "A": []}

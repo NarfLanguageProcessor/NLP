@@ -1,0 +1,1 @@
+{"index": 202764, "D": "desertion from allegiance, loyalty, duty, or the like; apostasy", "S": [], "A": []}

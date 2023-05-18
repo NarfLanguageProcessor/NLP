@@ -1,0 +1,1 @@
+{"index": 112946, "D": "having fingers,  especially of a specified kind or number (often used in combination)", "S": ["feel ", "fiddle ", "grope ", "handle ", "manipulate ", "maul ", "meddle ", "palpate ", "paw ", "thumb "], "A": ["ignore ", "manhandle ", "pass over "]}

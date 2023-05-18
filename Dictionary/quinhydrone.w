@@ -1,0 +1,1 @@
+{"index": 258706, "D": "a dark green, crystalline, slightly water-soluble solid, C12H10O4, used in solution, together with a platinum wire, as an electrode (quinhydrone\ue000electrode ).", "S": [], "A": []}

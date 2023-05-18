@@ -1,0 +1,1 @@
+{"index": 255445, "D": "the branch of pharmacology  dealing with the psychological effects of drugs.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 236228, "D": "a diseased state in which pyogenic bacteria are circulating in the blood, characterized by the development of abscesses in various organs.", "S": [], "A": []}

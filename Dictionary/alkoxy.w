@@ -1,0 +1,1 @@
+{"index": 8519, "D": "of or containing a univalent organic radical consisting of an alkyl group  attached to oxygen.", "S": [], "A": []}

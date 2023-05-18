@@ -1,0 +1,1 @@
+{"index": 338560, "D": [], "S": ["impregnable ", "invincible ", "invulnerable ", "obstinate ", "stubborn ", "unassailable ", "unbeatable ", "willful "], "A": ["beatable ", "flexible ", "willing ", "yielding "]}

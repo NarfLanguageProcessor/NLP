@@ -1,0 +1,1 @@
+{"index": 89287, "D": "a formal discourse or treatise in which a subject is examined and discussed; dissertation.", "S": ["critical ", "elucidative ", "exegetic ", "explanatory ", "explicative ", "explicatory ", "hermeneutic ", "illustrative ", "informative ", "interpretive "], "A": []}

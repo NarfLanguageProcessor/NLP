@@ -1,0 +1,1 @@
+{"index": 150684, "D": "inability to decide.", "S": ["uncertainty "], "A": []}

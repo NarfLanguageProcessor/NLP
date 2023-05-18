@@ -1,0 +1,1 @@
+{"index": 108165, "D": "having no stipules. ", "S": [], "A": []}

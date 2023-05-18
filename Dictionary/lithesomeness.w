@@ -1,0 +1,1 @@
+{"index": 173631, "D": [], "S": ["agility ", "beauty ", "decency ", "decorum ", "dexterity ", "dignity ", "ease ", "elegance ", "finesse ", "poise ", "refinement ", "style "], "A": ["bad manners ", "clumsiness ", "crudeness ", "indecency ", "rudeness ", "ugliness ", "disproportion ", "ignorance ", "imbalance ", "neglect ", "thoughtlessness "]}

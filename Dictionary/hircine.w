@@ -1,0 +1,1 @@
+{"index": 141596, "D": "of, relating to, or resembling a goat.", "S": [], "A": []}

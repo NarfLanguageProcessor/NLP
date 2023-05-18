@@ -1,0 +1,1 @@
+{"index": 345164, "D": "a multiuser, multitasking computer operating system.", "S": ["MS-DOS ", "MacOS ", "OS ", "OS/2 ", "Windows ", "disk operating system ", "dos ", "executive ", "system software ", "systems program "], "A": []}

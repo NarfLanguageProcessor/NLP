@@ -1,0 +1,1 @@
+{"index": 173519, "D": "a disease of wild and domestic mammals, birds, and occasionally of humans, caused by a bacterium, Listeria monocytogenes, and characterized by lack of control of movement, paralysis, fever, and monocytosis.", "S": [], "A": []}

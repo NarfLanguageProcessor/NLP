@@ -1,0 +1,1 @@
+{"index": 262706, "D": "an official who examines books, plays, news reports, motion pictures, radio and television programs, letters, cablegrams, etc., for the purpose of suppressing parts deemed objectionable on moral, political, military, or other grounds.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 197527, "D": "a person who navigates. ", "S": ["pilot "], "A": []}

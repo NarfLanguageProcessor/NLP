@@ -1,0 +1,1 @@
+{"index": 303313, "D": "a large commercial vessel, especially one driven by steam. ", "S": [], "A": []}

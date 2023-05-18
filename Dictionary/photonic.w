@@ -1,0 +1,1 @@
+{"index": 235278, "D": "of or relating to processes involving photons. ", "S": [], "A": []}

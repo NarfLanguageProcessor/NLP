@@ -1,0 +1,1 @@
+{"index": 353265, "D": "not having been expressed or written down in another language or dialect", "S": [], "A": []}

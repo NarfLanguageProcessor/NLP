@@ -1,0 +1,1 @@
+{"index": 367938, "D": "Compare catch-as-catch-can (def. 3), Greco-Roman (def. 3). ", "S": ["battling ", "belligerent ", "boxing ", "brawling ", "contending ", "determined ", "fencing ", "hostile ", "jousting ", "martial ", "militant ", "sparring ", "tilting ", "warmongering "], "A": ["kind ", "nice ", "peaceful "]}

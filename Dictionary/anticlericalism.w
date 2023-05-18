@@ -1,0 +1,1 @@
+{"index": 14949, "D": "opposed to the influence and activities of the clergy or the church in secular or public affairs.", "S": [], "A": []}

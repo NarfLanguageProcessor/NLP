@@ -1,0 +1,1 @@
+{"index": 344316, "D": "to retard in movement or progress by means of obstacles or hindrances; obstruct; hinder. ", "S": [], "A": []}

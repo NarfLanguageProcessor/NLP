@@ -1,0 +1,1 @@
+{"index": 117430, "D": "a brand of thermosetting plastic, usually used in transparent or printed sheets as a chemicalproof and heatproof covering for furniture, wall panels, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 7792, "D": "a sugar containing the aldehyde  group or its hemiacetal equivalent.", "S": [], "A": []}

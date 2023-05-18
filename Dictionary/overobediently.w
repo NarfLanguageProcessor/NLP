@@ -1,0 +1,1 @@
+{"index": 220386, "D": "obeying  or willing to obey;  complying with or submissive to authority", "S": [], "A": []}

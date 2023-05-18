@@ -1,0 +1,1 @@
+{"index": 66199, "D": "anything composed of heterogeneous materials or elements.", "S": ["absorb ", "blend ", "combine ", "consolidate ", "fuse ", "incorporate ", "join ", "meld ", "unite "], "A": ["disconnect ", "disjoin ", "disperse ", "divide ", "part ", "separate ", "scatter "]}

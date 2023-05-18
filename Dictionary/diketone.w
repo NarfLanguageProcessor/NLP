@@ -1,0 +1,1 @@
+{"index": 85652, "D": "a compound containing two C=O groups, as CH3COCOCH3.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 325898, "D": "a tuft of hair growing on the top  of the head.", "S": ["bunch ", "cluster ", "collection ", "cowlick ", "feathers ", "group ", "knot ", "plumage ", "ruff ", "shock ", "tussock "], "A": ["individual ", "one "]}

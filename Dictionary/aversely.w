@@ -1,0 +1,1 @@
+{"index": 24702, "D": "having a strong feeling of opposition, antipathy, repugnance, etc.; opposed (often used in combination)", "S": [], "A": []}

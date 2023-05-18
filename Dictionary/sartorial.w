@@ -1,0 +1,1 @@
+{"index": 278567, "D": "of or relating to tailors or their trade", "S": ["elegant ", "flashy ", "impeccable ", "sharp ", "stylish ", "stylistic ", "trim "], "A": ["dumpy ", "frumpy ", "unstylish "]}

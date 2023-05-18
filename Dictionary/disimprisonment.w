@@ -1,0 +1,1 @@
+{"index": 88382, "D": "to release from imprisonment.", "S": ["clearance ", "pardon ", "parole "], "A": ["assignment ", "damming ", "delegation ", "employment ", "engagement ", "hiring ", "hold ", "imprisonment ", "incarceration ", "indebtedness ", "keep ", "loading ", "owing ", "retention "]}

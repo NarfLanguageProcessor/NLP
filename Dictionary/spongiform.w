@@ -1,0 +1,1 @@
+{"index": 300767, "D": "resembling a sponge, as in appearance or structure.", "S": [], "A": []}

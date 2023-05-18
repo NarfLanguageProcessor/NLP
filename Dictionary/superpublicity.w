@@ -1,0 +1,1 @@
+{"index": 312469, "D": "extensive mention in the news media or by word of mouth or other means of communication.", "S": [], "A": []}

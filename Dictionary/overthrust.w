@@ -1,0 +1,1 @@
+{"index": 221590, "D": "a thrust fault  with a low dip and a large slip.", "S": [], "A": []}

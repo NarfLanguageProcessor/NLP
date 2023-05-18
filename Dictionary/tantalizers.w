@@ -1,0 +1,1 @@
+{"index": 316231, "D": "to torment with, or as if with, the sight of something desired but out of reach; tease by arousing expectations that are repeatedly disappointed.", "S": [], "A": []}

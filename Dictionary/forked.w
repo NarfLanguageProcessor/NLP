@@ -1,0 +1,1 @@
+{"index": 117292, "D": "having a fork  or fork-like branches.", "S": ["angled ", "bifurcate ", "bifurcated ", "branched ", "branching ", "divaricate ", "divided ", "furcate ", "split ", "tined ", "zigzag "], "A": ["joined "]}

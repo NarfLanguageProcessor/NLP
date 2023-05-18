@@ -1,0 +1,1 @@
+{"index": 145332, "D": "(of speech) deliberately quiet, especially when silence is prudent, respectful, or requested", "S": ["muted "], "A": ["bold "]}

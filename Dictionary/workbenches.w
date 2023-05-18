@@ -1,0 +1,1 @@
+{"index": 367479, "D": "a sturdy table at which an artisan works. ", "S": ["board ", "counter ", "desk ", "shelf "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 218630, "D": "a coat  worn over the ordinary indoor clothing, as in cold weather.", "S": [], "A": []}

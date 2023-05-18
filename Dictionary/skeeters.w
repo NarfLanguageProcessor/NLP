@@ -1,0 +1,1 @@
+{"index": 292894, "D": "a dialectal variant of mosquito. ", "S": [], "A": []}

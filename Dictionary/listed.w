@@ -1,0 +1,1 @@
+{"index": 173500, "D": "(of a security) admitted to trading privileges on a stock exchange.", "S": ["recorded "], "A": []}

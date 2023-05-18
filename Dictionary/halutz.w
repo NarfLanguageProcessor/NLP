@@ -1,0 +1,1 @@
+{"index": 132881, "D": "a person who immigrates to Israel to establish or join a settlement for accomplishing tasks, as clearing the land or planting trees, that are necessary to future development of the country.", "S": [], "A": []}

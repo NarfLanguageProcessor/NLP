@@ -1,0 +1,1 @@
+{"index": 304938, "D": "a stretchy, machine-knitted fabric used for making undergarments, infants' wear, etc.", "S": [], "A": []}

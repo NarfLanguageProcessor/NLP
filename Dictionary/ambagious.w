@@ -1,0 +1,1 @@
+{"index": 9921, "D": "roundabout; circuitous", "S": ["devious ", "labyrinthine ", "meandering ", "rambling ", "tortuous "], "A": ["direct ", "straight ", "straightforward "]}

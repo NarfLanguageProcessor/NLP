@@ -1,0 +1,1 @@
+{"index": 307707, "D": "of or relating to a river delta.", "S": [], "A": []}

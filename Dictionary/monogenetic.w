@@ -1,0 +1,1 @@
+{"index": 192315, "D": "of or relating to monogenesis; monogenous.", "S": [], "A": []}

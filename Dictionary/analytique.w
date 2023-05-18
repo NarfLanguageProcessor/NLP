@@ -1,0 +1,1 @@
+{"index": 11766, "D": "an elevation drawing of a fa\u00e7ade, surrounded by a decorative arrangement composed of drawings of the important details and sometimes a plan or section of the fa\u00e7ade.", "S": [], "A": []}

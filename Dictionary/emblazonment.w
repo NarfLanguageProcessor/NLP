@@ -1,0 +1,1 @@
+{"index": 98101, "D": "the act of emblazoning. ", "S": [], "A": []}

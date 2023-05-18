@@ -1,0 +1,1 @@
+{"index": 85962, "D": "a mineral, arsenic sulfide, As4S3, yellow-orange in color and similar in its properties to orpiment.", "S": [], "A": []}

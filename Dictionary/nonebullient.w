@@ -1,0 +1,1 @@
+{"index": 203327, "D": "overflowing with fervor, enthusiasm, or excitement; high-spirited", "S": [], "A": []}

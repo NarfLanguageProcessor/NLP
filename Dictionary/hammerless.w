@@ -1,0 +1,1 @@
+{"index": 133012, "D": "(of a firearm) having the hammer  concealed within the receiver.", "S": [], "A": []}

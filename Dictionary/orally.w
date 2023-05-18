@@ -1,0 +1,1 @@
+{"index": 213939, "D": "through or by means of speech; vocally", "S": ["personally "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308483, "D": "the disappearance or flickering of a cursor on a computer screen.", "S": [], "A": []}

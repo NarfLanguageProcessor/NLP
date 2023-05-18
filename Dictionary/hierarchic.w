@@ -1,0 +1,1 @@
+{"index": 139106, "D": "of, belonging to, or characteristic of a hierarchy. ", "S": [], "A": []}

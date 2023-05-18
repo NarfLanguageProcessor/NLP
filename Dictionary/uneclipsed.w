@@ -1,0 +1,1 @@
+{"index": 340994, "D": "the partial or complete interception of the light of one component of a binary star by the other.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 268854, "D": "the act of asking for something to be given or done, especially as a favor or courtesy; solicitation or petition", "S": [], "A": []}

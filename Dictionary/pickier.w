@@ -1,0 +1,1 @@
+{"index": 235897, "D": "extremely fussy or finicky, usually over trifles.", "S": ["captious ", "critical ", "dainty ", "fastidious ", "fault-finding ", "fussy ", "nice ", "particular ", "persnickety "], "A": ["accepting "]}

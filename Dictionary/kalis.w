@@ -1,0 +1,1 @@
+{"index": 162914, "D": "the wife of Shiva and the malevolent form of the Mother Goddess.", "S": [], "A": []}

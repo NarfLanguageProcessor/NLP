@@ -1,0 +1,1 @@
+{"index": 5857, "D": "an asexual reproductive cell, as a spore, that forms a new organism without fusion with another cell.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 34295, "D": "Compare anthropocentric (def. 3). ", "S": [], "A": []}

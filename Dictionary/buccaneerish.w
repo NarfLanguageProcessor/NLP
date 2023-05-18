@@ -1,0 +1,1 @@
+{"index": 41968, "D": "any of the piratical adventurers who raided Spanish colonies and ships along the American coast in the second half of the 17th century.", "S": [], "A": []}

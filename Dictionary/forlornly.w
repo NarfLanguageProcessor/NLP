@@ -1,0 +1,1 @@
+{"index": 117336, "D": "desolate or dreary; unhappy or miserable, as in feeling, condition, or appearance.", "S": ["glumly "], "A": ["blithely ", "happily ", "luckily ", "merrily "]}

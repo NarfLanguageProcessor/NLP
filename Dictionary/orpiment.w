@@ -1,0 +1,1 @@
+{"index": 214892, "D": "a mineral, arsenic trisulfide, As2S3, found usually in soft, yellow, foliated masses, used as a pigment.", "S": [], "A": []}

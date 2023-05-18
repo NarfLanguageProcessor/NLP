@@ -1,0 +1,1 @@
+{"index": 124006, "D": "a plant propagated by means of underground buds.", "S": [], "A": []}

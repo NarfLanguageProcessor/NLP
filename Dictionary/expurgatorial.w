@@ -1,0 +1,1 @@
+{"index": 108086, "D": "pertaining to an expurgator or to expurgation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 333919, "D": "a form of microfiche  with the images greatly reduced in size, generally by a factor of 100 or more.", "S": [], "A": []}

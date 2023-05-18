@@ -1,0 +1,1 @@
+{"index": 75880, "D": "openwork embroidery in which the ground fabric is cut out about the pattern.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 177607, "D": "a person or thing that magnifies. ", "S": [], "A": []}

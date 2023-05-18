@@ -1,0 +1,1 @@
+{"index": 349274, "D": "capable of being reduced.", "S": [], "A": []}

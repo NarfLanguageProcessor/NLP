@@ -1,0 +1,1 @@
+{"index": 126949, "D": "a crystalline, water-soluble peptide of glutamic acid,  cysteine, and glycine, C10H17N3O6S, found in blood and in animal and plant tissues, and important in tissue oxidations and in the activation of some enzymes.", "S": [], "A": []}

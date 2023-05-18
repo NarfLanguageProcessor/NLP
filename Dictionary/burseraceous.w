@@ -1,0 +1,1 @@
+{"index": 43325, "D": "of, relating to, or belonging to the Burseraceae, a tropical family of trees and shrubs having compound leaves and resin or balsam in their stems. The family includes bdellium and some balsams", "S": [], "A": []}

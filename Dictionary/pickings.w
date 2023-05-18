@@ -1,0 +1,1 @@
+{"index": 235902, "D": "money, profits, etc, acquired easily or by more or less dishonest means; spoils", "S": ["spoils "], "A": []}

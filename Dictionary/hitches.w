@@ -1,0 +1,1 @@
+{"index": 141956, "D": "to fasten or tie, especially temporarily, by means of a hook, rope, strap, etc.; tether", "S": ["drawback ", "glitch ", "hindrance ", "impediment ", "interruption ", "mishap ", "snafu ", "snag ", "stumbling block "], "A": ["advantage ", "aid ", "assistance ", "help ", "continuation "]}

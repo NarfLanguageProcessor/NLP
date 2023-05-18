@@ -1,0 +1,1 @@
+{"index": 65647, "D": "feeling or expressing sorrow, sympathy, compassion, or the like.", "S": [], "A": []}

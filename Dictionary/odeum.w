@@ -1,0 +1,1 @@
+{"index": 211228, "D": "a hall, theater, or other structure for musical or dramatic performances.", "S": ["amphitheater ", "arena ", "auditorium ", "cinema ", "concert hall ", "drama ", "hall ", "house ", "movie ", "movie house ", "opera house ", "playhouse ", "room ", "scene ", "site ", "theatre "], "A": []}

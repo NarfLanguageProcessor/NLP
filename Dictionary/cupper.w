@@ -1,0 +1,1 @@
+{"index": 75105, "D": "a person who performs the procedure of cupping. ", "S": [], "A": []}

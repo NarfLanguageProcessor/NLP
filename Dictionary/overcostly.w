@@ -1,0 +1,1 @@
+{"index": 218762, "D": "costing  much; expensive; high in price", "S": [], "A": []}

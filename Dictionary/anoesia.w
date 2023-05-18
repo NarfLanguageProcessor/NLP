@@ -1,0 +1,1 @@
+{"index": 13714, "D": "extreme mental deficiency.", "S": [], "A": []}

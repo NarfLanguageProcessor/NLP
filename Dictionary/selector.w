@@ -1,0 +1,1 @@
+{"index": 283455, "D": "a person or thing that selects", "S": [], "A": []}

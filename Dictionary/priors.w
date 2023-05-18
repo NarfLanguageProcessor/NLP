@@ -1,0 +1,1 @@
+{"index": 250746, "D": "preceding in time or in order; earlier or former; previous", "S": ["ancestor ", "forebear "], "A": ["derivative ", "descendant ", "successor "]}

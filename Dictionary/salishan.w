@@ -1,0 +1,1 @@
+{"index": 277089, "D": "a family of American Indian languages including Coeur d'Al\u00eane, Kalispel, and other languages of British Columbia and the northwestern U.S.", "S": [], "A": []}

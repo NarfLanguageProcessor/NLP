@@ -1,0 +1,1 @@
+{"index": 156907, "D": "by means of direct perception, an instinctive inner sense, or gut feeling rather than rational thought", "S": ["allegedly ", "ostensibly ", "possibly ", "probably ", "supposedly "], "A": ["improbably ", "unlikely "]}

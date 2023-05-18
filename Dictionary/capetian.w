@@ -1,0 +1,1 @@
+{"index": 46837, "D": "of or relating to the French dynasty that ruled France a.d. 987\u20131328 in the direct line, and in collateral branches, as the Valois and Bourbons, until 1848 (except 1795\u20131814).", "S": [], "A": []}

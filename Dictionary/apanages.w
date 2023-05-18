@@ -1,0 +1,1 @@
+{"index": 16647, "D": "a variant of appanage. ", "S": [], "A": []}

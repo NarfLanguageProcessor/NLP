@@ -1,0 +1,1 @@
+{"index": 230758, "D": "inflammation of the outer coat and tissues surrounding an artery.", "S": [], "A": []}

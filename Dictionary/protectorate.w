@@ -1,0 +1,1 @@
+{"index": 253394, "D": "the relation of a strong state toward a weaker state or territory that it protects  and partly controls.", "S": ["outpost ", "province ", "territory "], "A": []}

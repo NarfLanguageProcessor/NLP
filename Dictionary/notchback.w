@@ -1,0 +1,1 @@
+{"index": 208848, "D": "a style of back for an automobile in which there is a sharp vertical drop-off from the roof line to the trunk.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 21135, "D": "ash-colored; gray.", "S": ["anemic ", "blanched ", "cadaverous ", "colorless ", "ghastly ", "gray ", "leaden ", "pale ", "pallid ", "pasty ", "sallow ", "wan ", "white "], "A": []}

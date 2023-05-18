@@ -1,0 +1,1 @@
+{"index": 247100, "D": "a division of territory, as of a country, state, or county, marked off for administrative, electoral, or other purposes.", "S": [], "A": []}

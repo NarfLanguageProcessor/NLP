@@ -1,0 +1,1 @@
+{"index": 171962, "D": "to move or bring (something) upward from the ground or other support to a higher position; hoist. ", "S": ["drive ", "journey ", "passage ", "ride ", "run ", "transport "], "A": []}

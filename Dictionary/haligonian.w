@@ -1,0 +1,1 @@
+{"index": 132661, "D": "of or relating to Halifax, Nova Scotia, or to Halifax, England.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128430, "D": "a woman's dress or robe, especially one that is full-length.", "S": ["attire ", "bundle up ", "cloak ", "disguise ", "do up ", "drape ", "dress ", "dress up ", "equip ", "fit ", "swaddle ", "swathe "], "A": ["disrobe ", "open ", "reveal ", "uncover ", "unclothe "]}

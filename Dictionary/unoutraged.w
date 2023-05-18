@@ -1,0 +1,1 @@
+{"index": 347287, "D": "an act of wanton cruelty or violence; any gross violation of law or decency.", "S": [], "A": []}

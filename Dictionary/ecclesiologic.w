@@ -1,0 +1,1 @@
+{"index": 95142, "D": "the study of ecclesiastical adornments and furnishings.", "S": [], "A": []}

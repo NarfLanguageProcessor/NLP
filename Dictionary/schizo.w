@@ -1,0 +1,1 @@
+{"index": 280210, "D": "a schizophrenic  or schizoid  person.", "S": ["insane ", "kooky ", "mad ", "nuts ", "nutty ", "silly ", "wacky "], "A": ["balanced ", "calm ", "collected ", "rational ", "reasonable ", "sane ", "sound "]}

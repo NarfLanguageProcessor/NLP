@@ -1,0 +1,1 @@
+{"index": 263368, "D": "reconnaissance. ", "S": ["exploration ", "surveillance "], "A": []}

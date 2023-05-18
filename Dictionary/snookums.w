@@ -1,0 +1,1 @@
+{"index": 295681, "D": "sweetheart (used as a term of endearment, especially facetiously)", "S": [], "A": []}

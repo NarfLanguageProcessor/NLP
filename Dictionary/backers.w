@@ -1,0 +1,1 @@
+{"index": 25773, "D": "a person who supports or aids a person, cause, enterprise, etc.", "S": ["advocate ", "ally ", "benefactor ", "endorser ", "follower ", "patron ", "promoter ", "sponsor "], "A": ["antagonist ", "enemy ", "opponent ", "opposition "]}

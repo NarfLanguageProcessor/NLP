@@ -1,0 +1,1 @@
+{"index": 59161, "D": "full of, marked by, or of the nature of clamor. ", "S": ["uproarious ", "vociferous "], "A": []}

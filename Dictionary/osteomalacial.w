@@ -1,0 +1,1 @@
+{"index": 215639, "D": "a condition characterized by softening of the bones with resultant pain, weakness, and bone fragility, caused by inadequate deposition of calcium or vitamin D.", "S": [], "A": []}

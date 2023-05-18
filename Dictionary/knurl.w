@@ -1,0 +1,1 @@
+{"index": 165769, "D": "a small ridge or bead, especially one of a series, as on a button for decoration or on the edge of a thumbscrew to assist in obtaining a firm grip.", "S": ["hunk ", "morsel "], "A": ["individual ", "little ", "one ", "whole "]}

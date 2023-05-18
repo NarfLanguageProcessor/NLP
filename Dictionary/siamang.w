@@ -1,0 +1,1 @@
+{"index": 289478, "D": "a large, black gibbon, Hylobates syndactylus, of Sumatra and the Malay Peninsula, having very long arms and the second and third digits partially united by a web of skin", "S": [], "A": []}

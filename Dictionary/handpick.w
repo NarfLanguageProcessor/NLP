@@ -1,0 +1,1 @@
+{"index": 133240, "D": "to pick  by hand. ", "S": ["elect ", "name ", "prefer ", "take "], "A": ["ignore ", "reject "]}

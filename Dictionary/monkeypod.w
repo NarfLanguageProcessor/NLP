@@ -1,0 +1,1 @@
+{"index": 192038, "D": "a tropical American tree, Samanea saman, of the legume family, having spreading branches and dense heads of small, pink flowers.", "S": [], "A": []}

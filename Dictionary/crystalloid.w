@@ -1,0 +1,1 @@
+{"index": 73428, "D": "a usually crystallizable substance that, when dissolved in a liquid, will diffuse readily through vegetable or animal membranes.", "S": [], "A": []}

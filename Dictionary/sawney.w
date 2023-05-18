@@ -1,0 +1,1 @@
+{"index": 279197, "D": "a derogatory word for Scotsman", "S": [], "A": []}

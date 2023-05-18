@@ -1,0 +1,1 @@
+{"index": 35380, "D": "caesaropapism, especially before the Great Schism of 1054.", "S": [], "A": []}

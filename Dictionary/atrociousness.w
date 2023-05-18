@@ -1,0 +1,1 @@
+{"index": 22875, "D": "extremely or shockingly wicked, cruel, or brutal", "S": ["atrocity ", "barbarity ", "barbarousness ", "depravity ", "evilness ", "heinousness ", "vileness ", "wickedness "], "A": ["kindness "]}

@@ -1,0 +1,1 @@
+{"index": 67085, "D": "the act of constricting. ", "S": ["narrowing "], "A": ["enlargement ", "expansion ", "freedom ", "increase ", "release "]}

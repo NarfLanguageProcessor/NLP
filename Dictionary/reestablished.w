@@ -1,0 +1,1 @@
+{"index": 264804, "D": "to found, institute, build, or bring into being on a firm or stable basis", "S": ["reconstituted ", "reconstructed ", "transformed "], "A": ["degenerated ", "deteriorated ", "preserved "]}

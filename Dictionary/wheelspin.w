@@ -1,0 +1,1 @@
+{"index": 364551, "D": "the spinning  of a wheel,  especially that of a drive wheel  of a powered vehicle that has poor traction.", "S": [], "A": []}

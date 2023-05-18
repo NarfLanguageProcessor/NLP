@@ -1,0 +1,1 @@
+{"index": 248153, "D": "the office or dignity of a prelate, or high-ranking member of the Christian clergy.", "S": ["priesthood "], "A": []}

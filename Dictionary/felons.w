@@ -1,0 +1,1 @@
+{"index": 111086, "D": "a person who has been convicted of a felony, such as grand theft, kidnapping, or murder.", "S": ["convict ", "delinquent ", "lawbreaker ", "offender "], "A": ["police "]}

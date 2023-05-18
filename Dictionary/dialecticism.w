@@ -1,0 +1,1 @@
+{"index": 84203, "D": "dialectal speech or influence.", "S": [], "A": []}

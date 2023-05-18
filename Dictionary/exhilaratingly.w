@@ -1,0 +1,1 @@
+{"index": 107167, "D": "to enliven; invigorate; stimulate", "S": ["blissfully ", "blithely ", "cheerfully ", "contentedly ", "enthusiastically ", "freely ", "gladly ", "gleefully ", "graciously ", "heartily ", "joyfully ", "joyously ", "lovingly ", "merrily ", "peacefully ", "playfully ", "willingly "], "A": ["unhappily ", "unluckily ", "unsuccessfully "]}

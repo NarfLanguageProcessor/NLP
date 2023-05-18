@@ -1,0 +1,1 @@
+{"index": 237658, "D": "a spherical protein structure found within chloroplasts of certain algae and hornworts.", "S": [], "A": []}

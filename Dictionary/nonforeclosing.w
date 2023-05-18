@@ -1,0 +1,1 @@
+{"index": 204126, "D": "to take away the right to redeem (a mortgage or pledge).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 329730, "D": "Compare superfecta. ", "S": [], "A": []}

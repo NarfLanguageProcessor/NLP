@@ -1,0 +1,1 @@
+{"index": 294519, "D": "a baseball game in which both teams make many runs and extra-base hits.", "S": ["altercation ", "brawl ", "dogfight ", "fisticuffs ", "fracas ", "free-for-all ", "melee ", "ruckus ", "tussle "], "A": ["agreement ", "calm ", "harmony ", "peace "]}

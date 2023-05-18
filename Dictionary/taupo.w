@@ -1,0 +1,1 @@
+{"index": 317070, "D": "a lake in N New Zealand, in the central part of North Island", "S": [], "A": []}

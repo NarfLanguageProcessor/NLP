@@ -1,0 +1,1 @@
+{"index": 169659, "D": "to acquire knowledge of or skill in by study, instruction, or experience", "S": ["determine ", "enroll ", "gain ", "get ", "grasp ", "master ", "pick up ", "read ", "receive ", "review ", "study "], "A": ["ignore ", "lose ", "miss ", "misunderstand ", "neglect ", "pass ", "release ", "spend "]}

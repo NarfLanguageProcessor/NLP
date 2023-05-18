@@ -1,0 +1,1 @@
+{"index": 91260, "D": "of or relating to the home, the household, household affairs, or the family", "S": ["private "], "A": ["alien ", "business ", "foreign ", "industrial ", "office "]}

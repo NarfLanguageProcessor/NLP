@@ -1,0 +1,1 @@
+{"index": 69874, "D": "a weblike, often evanescent veil covering the gills or hanging from the cap edge of certain mushrooms, particularly those of genus Cortinarius, and sometimes persisting as a ring or remnant of fibrils around the mushroom stalk.", "S": [], "A": []}

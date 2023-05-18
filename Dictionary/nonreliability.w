@@ -1,0 +1,1 @@
+{"index": 206650, "D": "the ability to be relied  on or depended on, as for accuracy, honesty, or achievement.", "S": [], "A": []}

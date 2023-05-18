@@ -1,0 +1,1 @@
+{"index": 183172, "D": "worth remembering; notable", "S": [], "A": []}

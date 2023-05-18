@@ -1,0 +1,1 @@
+{"index": 26630, "D": "a tip, present, or gratuity.", "S": ["commission ", "fee ", "payback ", "percentage ", "perk ", "perquisite ", "recompense ", "remuneration ", "reward ", "salary ", "tip ", "wage "], "A": ["debt ", "disdain ", "disregard ", "disrespect ", "failure ", "heedlessness ", "ignorance ", "neglect ", "negligence ", "omission ", "thoughtlessness "]}

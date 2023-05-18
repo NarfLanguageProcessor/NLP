@@ -1,0 +1,1 @@
+{"index": 83424, "D": "the German name for Germany", "S": [], "A": []}

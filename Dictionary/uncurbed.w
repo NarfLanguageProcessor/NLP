@@ -1,0 +1,1 @@
+{"index": 338314, "D": "stopped, restrained, or slowed", "S": ["adventurous ", "bold ", "courageous ", "foolhardy ", "resolute ", "risky "], "A": ["afraid ", "careful ", "cautious ", "cowardly ", "fearful ", "meek ", "timid "]}

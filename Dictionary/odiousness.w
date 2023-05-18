@@ -1,0 +1,1 @@
+{"index": 211253, "D": "deserving or causing hatred; hateful; detestable.", "S": ["unpleasantness "], "A": ["attraction ", "attractiveness ", "beauty ", "fairness ", "handsomeness ", "pleasantness ", "righteousness "]}

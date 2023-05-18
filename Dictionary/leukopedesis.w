@@ -1,0 +1,1 @@
+{"index": 171146, "D": "an outward flow of white blood cells through a blood-vessel wall.", "S": [], "A": []}

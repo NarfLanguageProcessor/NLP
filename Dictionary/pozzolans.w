@@ -1,0 +1,1 @@
+{"index": 245051, "D": "a porous variety of volcanic tuff or ash used in making hydraulic cement.", "S": [], "A": []}

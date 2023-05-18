@@ -1,0 +1,1 @@
+{"index": 252777, "D": "proportioned;  being in due proportion; proportional. ", "S": ["appropriately ", "correspondingly ", "properly ", "respectively ", "subsequently ", "therefore ", "thus "], "A": ["inappropriately ", "unsuitably "]}

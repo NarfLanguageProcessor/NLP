@@ -1,0 +1,1 @@
+{"index": 20215, "D": "attracting or capable of attracting attention or interest; striking", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 69284, "D": "any of several slender fishes  of the family Fistulariidae, of tropical seas, having an elongated snout and bony plates instead of scales.", "S": [], "A": []}

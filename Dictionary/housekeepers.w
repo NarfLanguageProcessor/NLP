@@ -1,0 +1,1 @@
+{"index": 144432, "D": "a person, often hired, who does or directs the domestic work and planning necessary for a home, as cleaning or buying food.", "S": ["caretaker ", "chambermaid ", "housemaid ", "housewife ", "maid ", "servant "], "A": []}

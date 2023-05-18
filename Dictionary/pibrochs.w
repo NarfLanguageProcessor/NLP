@@ -1,0 +1,1 @@
+{"index": 235777, "D": "(in the Scottish Highlands) a piece of music for the bagpipe, consisting of a series of variations on a basic theme, usually martial in character, but sometimes used as a dirge.", "S": [], "A": []}

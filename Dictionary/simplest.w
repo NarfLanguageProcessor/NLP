@@ -1,0 +1,1 @@
+{"index": 291063, "D": "easy to understand, deal with, use, etc.", "S": ["elemental ", "fundamental ", "rudimentary ", "straightforward ", "underlying "], "A": ["additional ", "advanced ", "extra ", "secondary "]}

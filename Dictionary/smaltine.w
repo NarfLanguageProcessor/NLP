@@ -1,0 +1,1 @@
+{"index": 294708, "D": "a mineral, originally thought to have been a diarsenide of cobalt, CoAs2, but which is actually a skutterudite rich in cobalt.", "S": [], "A": []}

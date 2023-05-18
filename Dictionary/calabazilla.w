@@ -1,0 +1,1 @@
+{"index": 44700, "D": "a prostrate vine, Cucurbita foetidissima, of the gourd family, native to southwestern North America, having yellow flowers, round, inedible green and yellow fruit, and an unpleasant odor.", "S": [], "A": []}

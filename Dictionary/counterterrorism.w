@@ -1,0 +1,1 @@
+{"index": 71147, "D": "terrorism  in reaction to or retaliation for some previous act of terrorism. ", "S": [], "A": []}

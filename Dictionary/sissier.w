@@ -1,0 +1,1 @@
+{"index": 292496, "D": "an effeminate boy or man.", "S": ["artificial ", "dainty ", "delicate ", "effeminate ", "fastidious ", "finical ", "finicky ", "fussy ", "genteel ", "insincere ", "la-di-da ", "nice ", "particular ", "persnickety ", "precious ", "sissy ", "squeamish ", "stilted ", "too-too ", "unnatural "], "A": ["extroverted ", "unaffected ", "unpretentious "]}

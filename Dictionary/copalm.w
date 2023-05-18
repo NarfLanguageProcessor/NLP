@@ -1,0 +1,1 @@
+{"index": 68414, "D": "the aromatic brown resin obtained from the sweet gum tree", "S": [], "A": []}

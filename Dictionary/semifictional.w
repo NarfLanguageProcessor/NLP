@@ -1,0 +1,1 @@
+{"index": 284205, "D": "the class of literature comprising works of imaginative narration, especially in prose form.", "S": [], "A": []}

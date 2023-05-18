@@ -1,0 +1,1 @@
+{"index": 294499, "D": "mud, mire, or ooze; slush.", "S": ["goo ", "grease ", "gunk ", "muck ", "sediment ", "silt ", "slime "], "A": []}

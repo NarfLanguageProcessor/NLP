@@ -1,0 +1,1 @@
+{"index": 251804, "D": "according to form; as a matter of form; for the sake of form.", "S": ["formal "], "A": []}

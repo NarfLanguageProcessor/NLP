@@ -1,0 +1,1 @@
+{"index": 156352, "D": "not tolerating or respecting beliefs, opinions, usages, manners, etc., different from one's own, as in political or religious matters; bigoted.", "S": [], "A": []}

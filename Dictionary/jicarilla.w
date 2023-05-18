@@ -1,0 +1,1 @@
+{"index": 161183, "D": "a member of a group of North American Indians who once inhabited primarily northern New Mexico and southeastern Colorado and are now situated in northwestern New Mexico.", "S": [], "A": []}

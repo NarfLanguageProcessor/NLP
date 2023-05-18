@@ -1,0 +1,1 @@
+{"index": 216740, "D": "going  out; departing", "S": ["open ", "warm "], "A": ["introverted ", "reclusive ", "shy "]}

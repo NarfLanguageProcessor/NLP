@@ -1,0 +1,1 @@
+{"index": 343625, "D": "a row of bushes or small trees planted close together, especially when forming a fence or boundary; hedgerow", "S": [], "A": []}

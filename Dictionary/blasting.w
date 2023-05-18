@@ -1,0 +1,1 @@
+{"index": 35798, "D": "a distortion of sound caused by overloading certain components of a radio system", "S": ["deafening ", "earsplitting ", "piercing "], "A": []}

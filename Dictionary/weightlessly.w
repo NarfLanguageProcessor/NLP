@@ -1,0 +1,1 @@
+{"index": 363907, "D": "being without apparent weight,  as a freely falling body or a body acted upon by a force that neutralizes gravitation.", "S": [], "A": []}

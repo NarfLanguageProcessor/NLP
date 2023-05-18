@@ -1,0 +1,1 @@
+{"index": 142907, "D": "schoolwork assigned to be done outside the classroom (distinguished from classwork).", "S": ["appointment ", "chore ", "drill ", "duty ", "job ", "position ", "post ", "practice ", "stint "], "A": ["unemployment "]}

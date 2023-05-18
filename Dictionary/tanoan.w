@@ -1,0 +1,1 @@
+{"index": 316199, "D": "an American Indian language family of which the three surviving languages are spoken in several pueblos, including Taos, in northern New Mexico near the Rio Grande.", "S": [], "A": []}

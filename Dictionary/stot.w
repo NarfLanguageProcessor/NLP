@@ -1,0 +1,1 @@
+{"index": 305485, "D": "a springing gait of certain bovids, as gazelles and antelopes, used especially when running in alarm from a predator.", "S": [], "A": []}

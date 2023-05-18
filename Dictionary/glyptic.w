@@ -1,0 +1,1 @@
+{"index": 126383, "D": "of or relating to carving or engraving on gems or the like.", "S": [], "A": []}

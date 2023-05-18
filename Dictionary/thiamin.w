@@ -1,0 +1,1 @@
+{"index": 321653, "D": "a white, crystalline, water-soluble compound of the vitamin-B complex, containing a thiazole and a pyrimidine group, C12H17ClN4OS, essential for normal functioning of the nervous system, a deficiency of which results chiefly in beriberi and other nerve disorders", "S": [], "A": []}

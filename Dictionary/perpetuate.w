@@ -1,0 +1,1 @@
+{"index": 231804, "D": "to enable or allow the continuation of into the future; keep alive (used most often in reference to something considered harmful or false)", "S": ["bolster ", "maintain ", "preserve "], "A": ["discontinue ", "give up ", "halt ", "let go ", "neglect ", "release ", "stop "]}

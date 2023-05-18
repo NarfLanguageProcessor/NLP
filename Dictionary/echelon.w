@@ -1,0 +1,1 @@
+{"index": 95181, "D": "a level of command, authority, or rank", "S": ["degree ", "file ", "grade ", "line ", "office ", "place ", "position ", "queue ", "rank ", "row ", "string ", "tier "], "A": ["unemployment "]}

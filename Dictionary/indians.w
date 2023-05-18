@@ -1,0 +1,1 @@
+{"index": 150892, "D": "a member of any of the aboriginal peoples of the Americas, especially of subarctic North America, excluding the Inuit, Yupik, and Aleut.", "S": ["American Indian ", "Amerind ", "Amerindian ", "Indian "], "A": []}

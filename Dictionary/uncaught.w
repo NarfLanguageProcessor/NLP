@@ -1,0 +1,1 @@
+{"index": 336593, "D": "simple past tense and past participle of catch. ", "S": [], "A": []}

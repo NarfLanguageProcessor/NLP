@@ -1,0 +1,1 @@
+{"index": 97056, "D": "the act or process of forming a metallic object by electroplating a removable mandrel or matrix.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 237543, "D": "practice of a pirate;  robbery or illegal violence at sea.", "S": ["copying ", "hijacking ", "infringement ", "plagiarism ", "theft "], "A": []}

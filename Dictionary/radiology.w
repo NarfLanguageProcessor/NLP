@@ -1,0 +1,1 @@
+{"index": 259703, "D": "the science dealing with x-rays or nuclear radiation, especially for medical uses.", "S": [], "A": []}

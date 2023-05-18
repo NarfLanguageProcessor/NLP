@@ -1,0 +1,1 @@
+{"index": 191600, "D": "a breed of dog native to Epirus in NW Greece, used in classical antiquity as a hunting dog and guard dog", "S": [], "A": []}

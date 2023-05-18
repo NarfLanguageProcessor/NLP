@@ -1,0 +1,1 @@
+{"index": 236214, "D": "inflammation of the kidney and its pelvis, caused by a bacterial infection.", "S": [], "A": []}

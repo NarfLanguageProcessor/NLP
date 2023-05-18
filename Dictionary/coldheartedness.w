@@ -1,0 +1,1 @@
+{"index": 62669, "D": "lacking sympathy or feeling; indifferent; unkind.", "S": [], "A": []}

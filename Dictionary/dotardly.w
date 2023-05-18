@@ -1,0 +1,1 @@
+{"index": 91886, "D": "a person exhibiting a decline in mental faculties, especially as a result of aging.", "S": [], "A": []}

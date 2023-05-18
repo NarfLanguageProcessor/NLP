@@ -1,0 +1,1 @@
+{"index": 174965, "D": "of or relating to longitude  or length", "S": ["lengthwise ", "long ", "long-term "], "A": ["immediate ", "short-term "]}

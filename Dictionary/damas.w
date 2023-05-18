@@ -1,0 +1,1 @@
+{"index": 76518, "D": "French name of Damascus. ", "S": [], "A": []}

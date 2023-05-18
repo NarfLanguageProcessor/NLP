@@ -1,0 +1,1 @@
+{"index": 179312, "D": "the second highest trump in certain card games, as the seven of trumps in omber or nine of trumps in klaberjass.", "S": [], "A": []}

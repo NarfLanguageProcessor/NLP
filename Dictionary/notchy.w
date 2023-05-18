@@ -1,0 +1,1 @@
+{"index": 208856, "D": "(of a motor vehicle gear mechanism) requiring careful gear-changing, as if having to fit the lever into narrow notches", "S": [], "A": []}

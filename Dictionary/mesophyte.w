@@ -1,0 +1,1 @@
+{"index": 184305, "D": "a plant growing under conditions of well-balanced moisture supply.", "S": [], "A": []}

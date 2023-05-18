@@ -1,0 +1,1 @@
+{"index": 272835, "D": "in accordance with truth or fact; correctly", "S": ["accurately ", "appropriately ", "correctly ", "exactly ", "fairly ", "justly ", "properly ", "truly "], "A": ["inaccurately ", "unfairly ", "unjustly "]}

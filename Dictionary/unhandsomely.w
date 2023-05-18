@@ -1,0 +1,1 @@
+{"index": 343483, "D": "lacking good looks; not attractive in physical appearance; plain or ugly.", "S": [], "A": []}

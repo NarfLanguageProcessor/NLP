@@ -1,0 +1,1 @@
+{"index": 322777, "D": "the blockage of a blood vessel by a thrombus carried through the bloodstream from its site of formation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 343878, "D": [], "S": ["abhorrent ", "disagreeable ", "dour ", "foreboding ", "frightening ", "glowering ", "grim ", "hostile ", "inhospitable ", "menacing ", "odious ", "off-putting ", "offensive ", "repellent ", "repulsive ", "sinister ", "threatening ", "tough ", "ugly ", "unapproachable ", "unfriendly ", "uninviting ", "unpleasant "], "A": []}

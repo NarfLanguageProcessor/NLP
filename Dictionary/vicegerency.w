@@ -1,0 +1,1 @@
+{"index": 359369, "D": "the position, government, or office of a vicegerent. ", "S": [], "A": []}

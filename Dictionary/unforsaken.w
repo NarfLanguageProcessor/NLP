@@ -1,0 +1,1 @@
+{"index": 342596, "D": "past participle of forsake. ", "S": [], "A": []}

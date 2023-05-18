@@ -1,0 +1,1 @@
+{"index": 190545, "D": "lying or exaggerating to an abnormal degree.", "S": [], "A": []}

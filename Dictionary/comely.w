@@ -1,0 +1,1 @@
+{"index": 63750, "D": "pleasing in appearance; attractive; fair", "S": ["good-looking ", "winsome "], "A": ["bad-looking ", "despicable ", "disagreeable ", "offensive ", "repellent ", "repulsive ", "revolting ", "ugly ", "unattractive "]}

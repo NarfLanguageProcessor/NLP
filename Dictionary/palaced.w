@@ -1,0 +1,1 @@
+{"index": 223272, "D": "the official residence of a king, queen, bishop, or other sovereign or exalted personage.", "S": [], "A": []}

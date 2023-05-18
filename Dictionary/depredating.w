@@ -1,0 +1,1 @@
+{"index": 81838, "D": "to plunder or lay waste to; prey upon; pillage; ravage.", "S": ["attack ", "despoil ", "loot ", "maraud ", "pillage ", "raid ", "ransack ", "ravage ", "sack ", "spoliate "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246243, "D": "involving collusion;  fraudulently contrived by agreement", "S": [], "A": []}

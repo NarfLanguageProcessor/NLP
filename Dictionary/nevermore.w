@@ -1,0 +1,1 @@
+{"index": 199354, "D": "never  again; never  thereafter", "S": ["at no time ", "don't hold your breath ", "forget it ", "no way ", "not at all ", "not ever ", "not in any way ", "not in the least ", "not on your life ", "not under any condition "], "A": ["always ", "forever "]}

@@ -1,0 +1,1 @@
+{"index": 366163, "D": "the distance between the most outward tips of the wings  when they are as extended as possible.", "S": [], "A": []}

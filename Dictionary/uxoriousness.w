@@ -1,0 +1,1 @@
+{"index": 356308, "D": "doting upon, foolishly fond of, or affectionately submissive toward one's wife.", "S": [], "A": []}

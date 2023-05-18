@@ -1,0 +1,1 @@
+{"index": 361666, "D": "wobble. ", "S": ["quaking ", "quivering ", "staggering ", "swaying ", "teetering ", "trembling ", "wiggling "], "A": []}

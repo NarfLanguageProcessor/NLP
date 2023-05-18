@@ -1,0 +1,1 @@
+{"index": 147480, "D": "a person or thing that illuminates.", "S": [], "A": []}

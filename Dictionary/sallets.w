@@ -1,0 +1,1 @@
+{"index": 277115, "D": "a light medieval helmet, usually with a vision slit or a movable visor.", "S": [], "A": []}

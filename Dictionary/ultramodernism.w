@@ -1,0 +1,1 @@
+{"index": 333990, "D": "very advanced in ideas, design, or techniques.", "S": [], "A": []}

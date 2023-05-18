@@ -1,0 +1,1 @@
+{"index": 306495, "D": "relating to or denoting a type of volcanic eruption characterized by repeated fountaining or jetting of fluid lava into the air", "S": [], "A": []}

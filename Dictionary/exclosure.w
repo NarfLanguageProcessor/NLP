@@ -1,0 +1,1 @@
+{"index": 106750, "D": "an area protected against intruders, as by fences.", "S": [], "A": []}

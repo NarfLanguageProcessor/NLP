@@ -1,0 +1,1 @@
+{"index": 361343, "D": "Compare Hoodoo (def. 1), Santer\u00eda, Vodun, Vodou. ", "S": ["accursed ", "bedeviled ", "blasted ", "blighted ", "confounded ", "excommunicate ", "foredoomed "], "A": ["blessed "]}

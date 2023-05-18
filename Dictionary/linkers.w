@@ -1,0 +1,1 @@
+{"index": 172945, "D": "one of the rings or separate pieces of which a chain is composed.", "S": [], "A": []}

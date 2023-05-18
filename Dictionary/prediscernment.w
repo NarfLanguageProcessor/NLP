@@ -1,0 +1,1 @@
+{"index": 246998, "D": "the faculty of discerning;  discrimination; acuteness of judgment and understanding.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 19486, "D": "containing univalent silver, as argentous chloride, AgCl.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27407, "D": "destructive; pernicious", "S": ["baleful ", "calamitous ", "deadly ", "deleterious ", "destructive ", "disastrous ", "evil ", "fatal ", "harmful ", "hurtful ", "malefic ", "noxious ", "pernicious ", "pestilent ", "pestilential ", "poisonous ", "venomous ", "wicked "], "A": ["advantageous ", "beneficial ", "fortunate ", "helpful ", "lucky "]}

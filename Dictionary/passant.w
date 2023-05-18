@@ -1,0 +1,1 @@
+{"index": 227281, "D": "(of a beast) represented as in the act of walking, with one forepaw raised.", "S": [], "A": []}

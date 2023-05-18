@@ -1,0 +1,1 @@
+{"index": 88617, "D": "conveying disapproval or censure; not complimentary or eulogistic. ", "S": [], "A": []}

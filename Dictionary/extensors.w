@@ -1,0 +1,1 @@
+{"index": 108245, "D": "a muscle that serves to extend  or straighten a part of the body.", "S": [], "A": []}

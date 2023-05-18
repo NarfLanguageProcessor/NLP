@@ -1,0 +1,1 @@
+{"index": 358579, "D": "resembling or of the nature of a worm.", "S": [], "A": []}

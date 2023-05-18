@@ -1,0 +1,1 @@
+{"index": 127089, "D": "the act of a person or thing that gnaws. ", "S": ["acuminate ", "barbed ", "edged ", "fine ", "honed ", "horned ", "jagged ", "keen ", "peaked ", "piercing ", "pointed "], "A": ["blunt ", "dull "]}

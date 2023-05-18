@@ -1,0 +1,1 @@
+{"index": 295105, "D": "smolder. ", "S": ["blaze ", "boil ", "rage "], "A": ["dislike ", "dread "]}

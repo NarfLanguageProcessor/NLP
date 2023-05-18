@@ -1,0 +1,1 @@
+{"index": 140950, "D": "underdevelopment of an organ or function, especially in the embryo.", "S": [], "A": []}

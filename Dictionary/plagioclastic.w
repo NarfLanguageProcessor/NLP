@@ -1,0 +1,1 @@
+{"index": 238665, "D": "any of the feldspar minerals varying in composition from acidic albite, NaAlSi3O8, to basic anorthite, CaAl2Si2O8, found in most igneous rocks", "S": [], "A": []}

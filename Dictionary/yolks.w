@@ -1,0 +1,1 @@
+{"index": 157615, "D": "the yellow and principal substance of an egg, as distinguished from the white.", "S": ["vitellus "], "A": []}

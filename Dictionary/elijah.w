@@ -1,0 +1,1 @@
+{"index": 97566, "D": "a Hebrew prophet of the 9th century b.c. 1 Kings 17; 2 Kings 2.", "S": [], "A": []}

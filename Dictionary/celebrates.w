@@ -1,0 +1,1 @@
+{"index": 50454, "D": "to observe (a day) or commemorate (an event) with ceremonies or festivities", "S": ["honor ", "laud ", "observe ", "perform ", "praise ", "proclaim ", "revere "], "A": ["blame ", "denounce ", "reproach ", "be sad ", "castigate ", "condemn ", "criticize ", "debase ", "deny ", "disapprove ", "humiliate ", "refuse "]}

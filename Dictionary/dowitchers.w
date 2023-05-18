@@ -1,0 +1,1 @@
+{"index": 92191, "D": "any of several long-billed, snipelike shore birds of North America and Asia, especially Limnodromus griseus.", "S": [], "A": []}

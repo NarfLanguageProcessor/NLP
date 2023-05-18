@@ -1,0 +1,1 @@
+{"index": 102338, "D": "the philosophical system or doctrine of Epicurus, holding that the external world is a series of fortuitous combinations of atoms and that the highest good is pleasure, interpreted as freedom from disturbance or pain.", "S": [], "A": []}

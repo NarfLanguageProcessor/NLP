@@ -1,0 +1,1 @@
+{"index": 75986, "D": "to totter or stagger.", "S": [], "A": []}

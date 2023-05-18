@@ -1,0 +1,1 @@
+{"index": 5072, "D": "the pilot of a balloon or other lighter-than-air aircraft.", "S": ["flier ", "navigator ", "pilot "], "A": []}

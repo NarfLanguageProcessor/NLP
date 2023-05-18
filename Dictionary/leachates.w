@@ -1,0 +1,1 @@
+{"index": 169497, "D": "a solution resulting from leaching,  as of soluble constituents from soil, landfill, etc., by downward percolating groundwater", "S": [], "A": []}

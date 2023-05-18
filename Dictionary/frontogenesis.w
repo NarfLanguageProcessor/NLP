@@ -1,0 +1,1 @@
+{"index": 119372, "D": "the formation or increase of a front or frontal zone.", "S": [], "A": []}

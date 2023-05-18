@@ -1,0 +1,1 @@
+{"index": 146718, "D": "pertaining to a year  or to each year. ", "S": [], "A": []}

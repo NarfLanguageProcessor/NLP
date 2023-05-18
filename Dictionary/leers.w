@@ -1,0 +1,1 @@
+{"index": 169958, "D": "to look with a sideways or oblique glance, especially suggestive of lascivious interest or sly and malicious intent", "S": ["eye ", "eyeball ", "gloat ", "goggle ", "ogle ", "smirk ", "sneer ", "squint ", "stare ", "wink "], "A": []}

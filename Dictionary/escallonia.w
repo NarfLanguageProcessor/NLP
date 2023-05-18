@@ -1,0 +1,1 @@
+{"index": 104107, "D": "any evergreen shrub of the South American saxifragaceous genus Escallonia, with white or red flowers", "S": [], "A": []}

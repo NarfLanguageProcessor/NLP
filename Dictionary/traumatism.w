@@ -1,0 +1,1 @@
+{"index": 328552, "D": "any abnormal condition produced by a trauma.", "S": ["awe ", "bump ", "collapse ", "confusion ", "consternation ", "disturbance ", "earthquake ", "excitement ", "impact ", "injury ", "jolt ", "scare ", "trauma "], "A": ["calm ", "calmness ", "composure ", "tranquility "]}

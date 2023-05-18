@@ -1,0 +1,1 @@
+{"index": 204193, "D": "(of a speech sound) characterized by audible friction produced by forcing the breath through a constricted or partially obstructed passage in the vocal tract; spirantal; spirant.", "S": [], "A": []}

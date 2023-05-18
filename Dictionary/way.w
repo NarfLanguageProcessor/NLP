@@ -1,0 +1,1 @@
+{"index": 361942, "D": "manner, mode, or fashion", "S": ["action ", "approach ", "course ", "fashion ", "form ", "idea ", "manner ", "means ", "measure ", "move ", "plan ", "practice ", "procedure ", "process ", "step ", "style ", "system ", "use "], "A": []}

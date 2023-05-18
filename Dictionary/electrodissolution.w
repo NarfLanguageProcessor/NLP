@@ -1,0 +1,1 @@
+{"index": 97035, "D": "the dissolving of a substance from an electrode by electrolysis.", "S": [], "A": []}

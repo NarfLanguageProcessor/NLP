@@ -1,0 +1,1 @@
+{"index": 172965, "D": "of or relating to Linnaeus,  who established the binomial system of scientific nomenclature.", "S": [], "A": []}

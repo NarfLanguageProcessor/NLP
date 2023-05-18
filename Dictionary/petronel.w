@@ -1,0 +1,1 @@
+{"index": 232547, "D": "a firearm of large caliber, used from the 15th to the 17th century, that fired with its butt resting against the chest.", "S": [], "A": []}

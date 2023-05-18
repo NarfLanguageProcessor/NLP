@@ -1,0 +1,1 @@
+{"index": 61183, "D": "a mineral, cobalt  arsenic sulfide, CoAsS, silver-white with a reddish tinge", "S": [], "A": []}

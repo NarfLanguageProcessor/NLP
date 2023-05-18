@@ -1,0 +1,1 @@
+{"index": 92458, "D": "a dram in apothecaries' and troy weights, and sometimes in avoirdupois weights.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 21090, "D": "without a separating wall or membrane.", "S": [], "A": []}

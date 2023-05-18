@@ -1,0 +1,1 @@
+{"index": 56174, "D": "a symbol of Christ, especially the Chi-Rho.", "S": [], "A": []}

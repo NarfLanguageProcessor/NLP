@@ -1,0 +1,1 @@
+{"index": 298645, "D": "an implement with a broad, flat, usually flexible blade, used for blending foods or removing them from cooking utensils, mixing drugs, spreading plasters and paints, etc.", "S": [], "A": []}

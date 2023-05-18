@@ -1,0 +1,1 @@
+{"index": 293751, "D": "the killing or butchering of cattle, sheep, etc., especially for food.", "S": ["killed "], "A": ["honorable ", "honored ", "lauded "]}

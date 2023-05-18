@@ -1,0 +1,1 @@
+{"index": 78558, "D": "the neckline of a dress cut low in the front or back and often across the shoulders.", "S": [], "A": []}

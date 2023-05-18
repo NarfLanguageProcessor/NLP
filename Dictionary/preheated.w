@@ -1,0 +1,1 @@
+{"index": 247797, "D": "to heat  before using or before subjecting to some further process", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 112438, "D": "fit to fight", "S": ["battling ", "belligerent ", "boxing ", "brawling ", "contending ", "determined ", "fencing ", "hostile ", "jousting ", "martial ", "militant ", "sparring ", "tilting ", "warmongering ", "wrestling "], "A": ["kind ", "nice ", "peaceful "]}

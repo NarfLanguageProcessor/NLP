@@ -1,0 +1,1 @@
+{"index": 296801, "D": "the theory that only the self exists, or can be proved to exist.", "S": [], "A": []}

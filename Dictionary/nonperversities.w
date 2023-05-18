@@ -1,0 +1,1 @@
+{"index": 205929, "D": "a willful tendency or determination to go counter to what is expected or desired, sometimes for no apparent reason; contrariness", "S": [], "A": []}

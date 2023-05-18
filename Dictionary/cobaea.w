@@ -1,0 +1,1 @@
+{"index": 61171, "D": "any climbing shrub of the tropical American genus Cobaea, esp C. scandens, grown for its large trumpet-shaped purple or white flowers", "S": [], "A": []}

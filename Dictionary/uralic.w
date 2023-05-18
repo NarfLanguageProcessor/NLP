@@ -1,0 +1,1 @@
+{"index": 355259, "D": "a family of languages that comprises Finno-Ugric and Samoyed as subfamilies. Hungarian, Finnish, and Estonian belong to Uralic.", "S": [], "A": []}

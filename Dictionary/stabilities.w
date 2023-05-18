@@ -1,0 +1,1 @@
+{"index": 302158, "D": "the state or quality of being stable. ", "S": ["balance ", "cohesion ", "establishment ", "security ", "strength ", "support "], "A": ["doubt ", "instability ", "spinelessness ", "uncertainty ", "weakness "]}

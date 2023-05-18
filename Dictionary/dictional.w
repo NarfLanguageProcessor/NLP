@@ -1,0 +1,1 @@
+{"index": 84986, "D": "style of speaking or writing as dependent upon choice of words", "S": [], "A": []}

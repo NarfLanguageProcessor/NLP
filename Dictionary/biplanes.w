@@ -1,0 +1,1 @@
+{"index": 34682, "D": "an airplane  with two sets of wings, one above and usually slightly forward of the other.", "S": [], "A": []}

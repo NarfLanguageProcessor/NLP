@@ -1,0 +1,1 @@
+{"index": 173398, "D": "either of the two deciduous trees of the magnoliaceous genus Liriodendron, the tulip trees of North America or China", "S": [], "A": []}

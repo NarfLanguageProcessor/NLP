@@ -1,0 +1,1 @@
+{"index": 260894, "D": "a member of any of several sects founded by dissenters from the Russian Orthodox Church who opposed the liturgical reforms of Nikon in the 17th century.", "S": [], "A": []}

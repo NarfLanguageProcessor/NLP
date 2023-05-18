@@ -1,0 +1,1 @@
+{"index": 150944, "D": "a proclamation made every 15 years in the later Roman Empire, fixing the valuation of property to be used as a basis for taxation.", "S": [], "A": []}

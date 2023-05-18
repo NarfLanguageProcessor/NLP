@@ -1,0 +1,1 @@
+{"index": 340238, "D": "not discouraged or dissuaded", "S": ["fearless ", "indomitable ", "steadfast "], "A": ["cowardly ", "shrinking "]}

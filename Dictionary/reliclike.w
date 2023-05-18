@@ -1,0 +1,1 @@
+{"index": 266892, "D": "a surviving memorial of something past.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 226889, "D": "extreme or excessive economy or frugality; stinginess;  miserliness.", "S": ["frugality ", "meanness ", "miserliness ", "providence ", "selfishness "], "A": ["generosity "]}

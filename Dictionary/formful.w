@@ -1,0 +1,1 @@
+{"index": 117426, "D": "displaying excellent form,  especially in performing a sport.", "S": [], "A": []}

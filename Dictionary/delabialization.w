@@ -1,0 +1,1 @@
+{"index": 79913, "D": "the result or process of delabializing.", "S": [], "A": []}

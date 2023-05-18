@@ -1,0 +1,1 @@
+{"index": 294229, "D": "(in a shipyard) the area sloping toward the water, on which the ways  are located.", "S": [], "A": []}

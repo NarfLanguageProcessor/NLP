@@ -1,0 +1,1 @@
+{"index": 169430, "D": "a hospital for those affected with contagious diseases, especially leprosy.", "S": [], "A": []}

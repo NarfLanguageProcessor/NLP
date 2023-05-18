@@ -1,0 +1,1 @@
+{"index": 67322, "D": "observing, studying, or thinking deeply about something", "S": [], "A": []}

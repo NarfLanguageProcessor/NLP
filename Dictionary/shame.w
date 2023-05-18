@@ -1,0 +1,1 @@
+{"index": 287319, "D": "the painful feeling arising from the consciousness of something dishonorable, improper, ridiculous, etc., done by oneself or another", "S": ["confusion ", "contempt ", "guilt ", "humiliation ", "irritation ", "remorse ", "scandal ", "stigma "], "A": ["approval ", "esteem ", "honor ", "meanness ", "praise ", "respect "]}

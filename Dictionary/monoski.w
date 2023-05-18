@@ -1,0 +1,1 @@
+{"index": 192663, "D": "a wide ski on which the skier stands with both feet", "S": [], "A": []}

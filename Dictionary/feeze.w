@@ -1,0 +1,1 @@
+{"index": 110909, "D": "a state of vexation or worry.", "S": [], "A": []}

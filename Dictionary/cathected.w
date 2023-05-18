@@ -1,0 +1,1 @@
+{"index": 49654, "D": "to invest emotion or feeling in (an idea, object, or another person).", "S": [], "A": []}

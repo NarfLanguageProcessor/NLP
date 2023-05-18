@@ -1,0 +1,1 @@
+{"index": 90352, "D": "a person who divines;  soothsayer; prophet.", "S": ["augur ", "clairvoyant ", "mystic ", "oracle ", "prophesier ", "prophetess ", "seer ", "sibyl ", "soothsayer ", "vaticinator "], "A": []}

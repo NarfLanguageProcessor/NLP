@@ -1,0 +1,1 @@
+{"index": 327561, "D": "a hindrance or impediment to free action; restraint", "S": ["check ", "control ", "curb ", "deterrent ", "hackamore ", "halter ", "headstall ", "leash ", "rein ", "restraint "], "A": ["encouragement ", "liberation "]}

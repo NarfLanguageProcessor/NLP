@@ -1,0 +1,1 @@
+{"index": 343877, "D": "a flexible tube for conveying a liquid, as water, to a desired point", "S": [], "A": []}

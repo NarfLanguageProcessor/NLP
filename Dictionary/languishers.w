@@ -1,0 +1,1 @@
+{"index": 168136, "D": "to be or become weak or feeble; droop; fade", "S": [], "A": []}

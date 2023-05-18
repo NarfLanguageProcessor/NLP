@@ -1,0 +1,1 @@
+{"index": 300033, "D": "to cut or twist in spirals", "S": [], "A": []}

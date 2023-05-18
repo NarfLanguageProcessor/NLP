@@ -1,0 +1,1 @@
+{"index": 231684, "D": "a person who takes or receives the rents, profits, or other benefit of an estate, lands, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 361353, "D": "in great quantities, especially excessively or gluttonously", "S": [], "A": []}

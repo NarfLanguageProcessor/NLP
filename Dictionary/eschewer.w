@@ -1,0 +1,1 @@
+{"index": 104201, "D": "to abstain or keep away from; shun; avoid", "S": [], "A": []}

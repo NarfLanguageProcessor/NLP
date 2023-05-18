@@ -1,0 +1,1 @@
+{"index": 296192, "D": "to explain, study, or interpret in sociological or social terms.", "S": [], "A": []}

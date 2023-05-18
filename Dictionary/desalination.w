@@ -1,0 +1,1 @@
+{"index": 82358, "D": "the process of removing salt, esp from sea water so that it can be used for drinking or irrigation", "S": [], "A": []}

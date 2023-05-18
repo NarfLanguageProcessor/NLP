@@ -1,0 +1,1 @@
+{"index": 17458, "D": "a book containing parts of the Epistles and parts of the Acts of the Apostles.", "S": [], "A": []}

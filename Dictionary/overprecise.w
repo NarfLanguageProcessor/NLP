@@ -1,0 +1,1 @@
+{"index": 220613, "D": "definitely or strictly stated, defined, or fixed", "S": [], "A": []}

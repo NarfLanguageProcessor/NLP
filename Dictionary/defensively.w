@@ -1,0 +1,1 @@
+{"index": 79219, "D": "serving to defend; protective", "S": ["at bay ", "carefully ", "in self-defense ", "on the defensive "], "A": ["offensively "]}

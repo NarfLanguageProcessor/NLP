@@ -1,0 +1,1 @@
+{"index": 266735, "D": "a device for holding a door, gate, or the like, closed, consisting basically of a bar falling or sliding into a catch, groove, hole, etc.", "S": [], "A": []}

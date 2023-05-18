@@ -1,0 +1,1 @@
+{"index": 357864, "D": "any of various instruments for measuring velocity,  as of a wave in water or of sound in air.", "S": [], "A": []}

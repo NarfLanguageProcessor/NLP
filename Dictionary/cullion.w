@@ -1,0 +1,1 @@
+{"index": 74746, "D": "a base or vile fellow.", "S": ["rascal "], "A": []}

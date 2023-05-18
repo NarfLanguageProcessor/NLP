@@ -1,0 +1,1 @@
+{"index": 359203, "D": "(in ancient Rome) one of a class of veteran soldiers who served under a special banner.", "S": [], "A": []}

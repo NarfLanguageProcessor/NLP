@@ -1,0 +1,1 @@
+{"index": 122196, "D": "any article of clothing", "S": ["naked "], "A": ["clothed ", "covered "]}

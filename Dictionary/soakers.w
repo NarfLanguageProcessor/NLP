@@ -1,0 +1,1 @@
+{"index": 295967, "D": "absorbent, knitted briefs or shorts, often of wool, used as a diaper cover on infants.", "S": [], "A": []}

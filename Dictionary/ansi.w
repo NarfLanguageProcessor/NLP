@@ -1,0 +1,1 @@
+{"index": 13957, "D": "a U.S. organization that recommends standards for many products in various industries.", "S": [], "A": []}

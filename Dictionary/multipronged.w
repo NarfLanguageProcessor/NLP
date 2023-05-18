@@ -1,0 +1,1 @@
+{"index": 195300, "D": "having or composed of several prongs", "S": [], "A": []}

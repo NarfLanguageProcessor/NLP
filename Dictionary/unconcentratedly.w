@@ -1,0 +1,1 @@
+{"index": 337479, "D": "applied with all one's attention, energy, etc.", "S": [], "A": []}

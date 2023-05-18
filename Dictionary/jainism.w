@@ -1,0 +1,1 @@
+{"index": 160178, "D": "a dualistic religion founded in the 6th century b.c. as a revolt against current Hinduism and emphasizing the perfectibility of human nature and liberation of the soul, especially through asceticism and nonviolence toward all living creatures.", "S": [], "A": []}

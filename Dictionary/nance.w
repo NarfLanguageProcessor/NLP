@@ -1,0 +1,1 @@
+{"index": 196716, "D": "an effeminate male.", "S": [], "A": []}

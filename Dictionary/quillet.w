@@ -1,0 +1,1 @@
+{"index": 258613, "D": "a subtlety or quibble.", "S": [], "A": []}

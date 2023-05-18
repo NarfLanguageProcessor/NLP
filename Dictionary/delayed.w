@@ -1,0 +1,1 @@
+{"index": 79924, "D": "put off; postponed", "S": ["deferred ", "postponed ", "slowed "], "A": []}

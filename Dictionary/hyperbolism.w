@@ -1,0 +1,1 @@
+{"index": 139914, "D": "the use of hyperbole. ", "S": ["aggrandizement ", "amplification ", "baloney ", "boasting ", "caricature ", "coloring ", "crock ", "elaboration ", "embroidery ", "emphasis ", "enlargement ", "exaltation ", "excess ", "extravagance ", "fabrication ", "falsehood ", "fancy ", "fantasy ", "figure of speech ", "fish story ", "flight of fancy "], "A": []}

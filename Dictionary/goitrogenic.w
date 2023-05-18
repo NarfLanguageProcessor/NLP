@@ -1,0 +1,1 @@
+{"index": 127466, "D": "tending to produce goiter. ", "S": [], "A": []}

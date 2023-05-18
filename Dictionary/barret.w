@@ -1,0 +1,1 @@
+{"index": 28345, "D": "a small cap, akin to the biretta, worn in the Middle Ages by soldiers and ecclesiastics.", "S": [], "A": []}

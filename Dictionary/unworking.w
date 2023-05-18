@@ -1,0 +1,1 @@
+{"index": 354360, "D": "the act of a person or thing that works. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 219660, "D": "excessively hasty;  rash", "S": ["foolhardy ", "foolish ", "half-baked ", "ill-considered ", "imprudent ", "inappropriate ", "indiscreet ", "misguided ", "reckless ", "thoughtless "], "A": ["careful ", "cautious ", "discreet ", "prudent ", "thoughtful ", "wise "]}

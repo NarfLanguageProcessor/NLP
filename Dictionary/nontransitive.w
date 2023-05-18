@@ -1,0 +1,1 @@
+{"index": 207985, "D": "(of a relation) neither transitive nor intransitive", "S": [], "A": []}

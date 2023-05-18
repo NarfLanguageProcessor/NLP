@@ -1,0 +1,1 @@
+{"index": 303253, "D": "a typically thick slice of meat, especially beef, or a thick slice of firm, hearty fish, cooked by broiling, pan-frying, etc.", "S": [], "A": []}

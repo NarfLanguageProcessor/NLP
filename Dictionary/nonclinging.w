@@ -1,0 +1,1 @@
+{"index": 201991, "D": "having little or no tendency to stick to an object, surface, etc., as by static electricity.", "S": [], "A": []}

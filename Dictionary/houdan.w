@@ -1,0 +1,1 @@
+{"index": 144334, "D": "one of a French breed of chickens having a V-shaped comb, five toes, and mottled or black plumage.", "S": [], "A": []}

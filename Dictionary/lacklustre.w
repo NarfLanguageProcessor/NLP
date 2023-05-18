@@ -1,0 +1,1 @@
+{"index": 166968, "D": "lacking force, brilliance, or vitality", "S": [], "A": []}

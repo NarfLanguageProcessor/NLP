@@ -1,0 +1,1 @@
+{"index": 195057, "D": "finely dentate,  as a leaf.", "S": [], "A": []}

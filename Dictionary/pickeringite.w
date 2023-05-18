@@ -1,0 +1,1 @@
+{"index": 235885, "D": "a mineral, magnesia alum, occurring usually in the form of white fibrous masses.", "S": [], "A": []}

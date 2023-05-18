@@ -1,0 +1,1 @@
+{"index": 41976, "D": "an Etruscan black ceramic ware, often ornamented with incised geometrical patterns or figures carved in relief.", "S": [], "A": []}

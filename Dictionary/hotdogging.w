@@ -1,0 +1,1 @@
+{"index": 144262, "D": "the act of one who hot-dogs;  the performance of intricate, daring, or flamboyant stunts.", "S": ["arrogant ", "brash ", "confident ", "overconfident ", "presumptuous ", "self-confident "], "A": ["cautious ", "humble ", "meek ", "unsure "]}

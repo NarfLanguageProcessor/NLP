@@ -1,0 +1,1 @@
+{"index": 197223, "D": "an act or the skill of swimming.", "S": ["bathing ", "floating "], "A": []}

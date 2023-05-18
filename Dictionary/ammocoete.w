@@ -1,0 +1,1 @@
+{"index": 10737, "D": "the larva of primitive jawless vertebrates, such as the lamprey, that lives buried in mud and feeds on microorganisms", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 147478, "D": "giving light; illuminating. ", "S": ["academic ", "cultural ", "didactic ", "edifying ", "educative ", "enlightening ", "informational ", "informative ", "instructional ", "instructive ", "scholarly ", "scholastic ", "tutorial "], "A": []}

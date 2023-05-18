@@ -1,0 +1,1 @@
+{"index": 277170, "D": "a white, crystalline, aromatic powder, C13H10O3, produced by the interaction of salicylic acid and phenol, used as a preservative, a light absorber in suntan preparations, and in medicine chiefly as an antipyretic and as an antiseptic.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 167439, "D": "accommodation for farm animals, esp at docks or markets", "S": [], "A": []}

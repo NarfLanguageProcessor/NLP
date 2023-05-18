@@ -1,0 +1,1 @@
+{"index": 158221, "D": "not reducible; incapable of being reduced or of being diminished or simplified further", "S": [], "A": []}

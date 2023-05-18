@@ -1,0 +1,1 @@
+{"index": 317775, "D": "abounding or swarming with something, as with people", "S": ["brimming ", "filled ", "overflowing ", "packed ", "swarming "], "A": ["empty "]}

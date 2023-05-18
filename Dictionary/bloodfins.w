@@ -1,0 +1,1 @@
+{"index": 36431, "D": "a South American characin fish, Aphyocharax rubropinnis, having a silvery body and bright red fins", "S": [], "A": []}

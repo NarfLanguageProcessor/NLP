@@ -1,0 +1,1 @@
+{"index": 330753, "D": "a positively-charged particle consisting of a proton and two neutrons, equivalent to the nucleus of an atom of tritium.", "S": [], "A": []}

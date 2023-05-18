@@ -1,0 +1,1 @@
+{"index": 37638, "D": "a convex molding, as a torus or ovolo.", "S": [], "A": []}

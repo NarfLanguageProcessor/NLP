@@ -1,0 +1,1 @@
+{"index": 314199, "D": "a kingdom in SE Africa between S Mozambique and the E Republic of South Africa", "S": [], "A": []}

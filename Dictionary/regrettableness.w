@@ -1,0 +1,1 @@
+{"index": 265824, "D": "causing or deserving regret; unfortunate; deplorable. ", "S": [], "A": []}

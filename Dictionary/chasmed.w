@@ -1,0 +1,1 @@
+{"index": 53027, "D": "a yawning fissure or deep cleft in the earth's surface; gorge.", "S": [], "A": []}

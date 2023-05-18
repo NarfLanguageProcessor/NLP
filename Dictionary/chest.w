@@ -1,0 +1,1 @@
+{"index": 53934, "D": "the trunk of the body from the neck to the abdomen; thorax. ", "S": ["trunk "], "A": ["back "]}

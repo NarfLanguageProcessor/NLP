@@ -1,0 +1,1 @@
+{"index": 205135, "D": "capable of being extended or shaped by hammering or by pressure from rollers.", "S": [], "A": []}

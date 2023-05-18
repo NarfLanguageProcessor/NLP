@@ -1,0 +1,1 @@
+{"index": 142403, "D": "something used to hold or secure a thing in place; a catch, hook, clamp, etc.", "S": [], "A": []}

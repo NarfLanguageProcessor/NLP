@@ -1,0 +1,1 @@
+{"index": 344135, "D": "wearing a uniform. ", "S": ["ignorant ", "unaware ", "unknowing "], "A": []}

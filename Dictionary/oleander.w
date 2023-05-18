@@ -1,0 +1,1 @@
+{"index": 212043, "D": "a poisonous shrub, Nerium oleander, of the dogbane family, native to southern Eurasia, having evergreen leaves and showy clusters of pink, red, or white flowers, and widely cultivated as an ornamental.", "S": [], "A": []}

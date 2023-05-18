@@ -1,0 +1,1 @@
+{"index": 88297, "D": "not honest; disposed to lie, cheat, or steal; not worthy of trust or belief", "S": ["maliciously "], "A": ["honestly ", "truthfully "]}

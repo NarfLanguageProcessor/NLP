@@ -1,0 +1,1 @@
+{"index": 103087, "D": "a person, real or imaginary, from whom a place or thing takes or is said to take its name", "S": [], "A": []}

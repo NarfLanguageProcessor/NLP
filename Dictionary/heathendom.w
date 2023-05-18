@@ -1,0 +1,1 @@
+{"index": 134938, "D": "heathen lands, peoples, or beliefs", "S": [], "A": []}

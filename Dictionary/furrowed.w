@@ -1,0 +1,1 @@
+{"index": 120505, "D": "a narrow groove made in the ground, especially by a plow.", "S": ["chiseled ", "engraved ", "sculpted ", "sculptured "], "A": []}

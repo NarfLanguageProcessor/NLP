@@ -1,0 +1,1 @@
+{"index": 301867, "D": "fastidious or dainty.", "S": ["cautiously ", "delicately ", "discreetly ", "hesitantly ", "reluctantly ", "safely ", "timidly ", "warily "], "A": ["carelessly ", "rashly ", "roughly "]}

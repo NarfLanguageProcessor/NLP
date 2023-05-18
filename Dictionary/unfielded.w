@@ -1,0 +1,1 @@
+{"index": 342238, "D": "an expanse of open or cleared ground, especially a piece of land suitable or used for pasture or tillage.", "S": [], "A": []}

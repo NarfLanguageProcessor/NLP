@@ -1,0 +1,1 @@
+{"index": 237185, "D": "belonging to the Pinnipedia, a suborder of carnivores with limbs adapted to an aquatic life, including the seals and walruses.", "S": [], "A": []}

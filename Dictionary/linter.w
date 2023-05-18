@@ -1,0 +1,1 @@
+{"index": 173023, "D": "short cotton fibers that stick to seeds after a first ginning.", "S": [], "A": []}

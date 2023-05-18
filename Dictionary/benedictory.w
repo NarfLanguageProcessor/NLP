@@ -1,0 +1,1 @@
+{"index": 31533, "D": "of, giving, or expressing benediction.", "S": [], "A": []}

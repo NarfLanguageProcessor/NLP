@@ -1,0 +1,1 @@
+{"index": 264071, "D": "to state that (something declared or believed to be true) is not true", "S": [], "A": []}

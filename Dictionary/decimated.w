@@ -1,0 +1,1 @@
+{"index": 78367, "D": "greatly reduced in number or amount, or having suffered great loss or harm", "S": ["annihilate ", "exterminate ", "obliterate ", "slaughter ", "wipe out "], "A": ["bear ", "build ", "create "]}

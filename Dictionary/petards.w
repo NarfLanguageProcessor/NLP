@@ -1,0 +1,1 @@
+{"index": 232353, "D": "an explosive device formerly used in warfare to blow in a door or gate, form a breach in a wall, etc.", "S": [], "A": []}

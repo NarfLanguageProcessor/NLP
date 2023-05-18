@@ -1,0 +1,1 @@
+{"index": 142728, "D": "homolographic. ", "S": [], "A": []}

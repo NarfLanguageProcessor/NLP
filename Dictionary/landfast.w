@@ -1,0 +1,1 @@
+{"index": 167927, "D": "attached to or grounded on shore or land", "S": [], "A": []}

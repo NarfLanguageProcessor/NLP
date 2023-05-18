@@ -1,0 +1,1 @@
+{"index": 192285, "D": "Compare multifilament (def. 2). ", "S": [], "A": []}

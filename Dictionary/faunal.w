@@ -1,0 +1,1 @@
+{"index": 110423, "D": "the animals of a given region or period considered as a whole.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118601, "D": "generous; liberal.", "S": [], "A": []}

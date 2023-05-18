@@ -1,0 +1,1 @@
+{"index": 285900, "D": "of or relating to a sere. ", "S": [], "A": []}

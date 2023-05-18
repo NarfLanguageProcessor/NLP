@@ -1,0 +1,1 @@
+{"index": 19495, "D": "an Arabian wind instrument of the oboe family, consisting of two pipes, one of which is a drone.", "S": [], "A": []}

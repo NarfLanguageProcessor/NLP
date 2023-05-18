@@ -1,0 +1,1 @@
+{"index": 129142, "D": "to hold or make fast to something, as with a grapple.", "S": ["fingernail ", "paw ", "tentacle "], "A": []}

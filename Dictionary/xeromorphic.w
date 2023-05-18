@@ -1,0 +1,1 @@
+{"index": 368471, "D": "of or relating to structural adaptations of xerophytes  that help them store water and withstand drought.", "S": [], "A": []}

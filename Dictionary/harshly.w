@@ -1,0 +1,1 @@
+{"index": 133996, "D": "ungentle and unpleasant in action or effect", "S": ["brutally ", "firmly ", "powerfully "], "A": ["weakly "]}

@@ -1,0 +1,1 @@
+{"index": 227248, "D": "a satire or lampoon, especially one posted in a public place.", "S": [], "A": []}

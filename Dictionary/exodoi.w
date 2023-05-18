@@ -1,0 +1,1 @@
+{"index": 107339, "D": "(in ancient Greek drama) the final scene or departure, especially in tragedy and usually Old Comedy", "S": [], "A": []}

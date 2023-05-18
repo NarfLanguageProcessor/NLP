@@ -1,0 +1,1 @@
+{"index": 289691, "D": "a self-seeking, servile flatterer; fawning parasite.", "S": [], "A": []}

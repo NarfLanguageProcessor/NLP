@@ -1,0 +1,1 @@
+{"index": 59421, "D": "arranged or distributed in classes or according to class", "S": ["confidential ", "restricted "], "A": ["open ", "public ", "revealed ", "unconcealed "]}

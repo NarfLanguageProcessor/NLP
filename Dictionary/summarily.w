@@ -1,0 +1,1 @@
+{"index": 310898, "D": "in a prompt or direct manner; immediately; straightaway.", "S": ["arbitrarily ", "forthwith ", "promptly ", "swiftly "], "A": ["slowly "]}

@@ -1,0 +1,1 @@
+{"index": 108709, "D": "a maximum or minimum value of a function in a specified neighborhood.", "S": [], "A": []}

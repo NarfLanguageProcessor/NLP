@@ -1,0 +1,1 @@
+{"index": 363073, "D": "to be alertly on the lookout, look attentively, or observe, as to see what comes, is done, or happens", "S": ["alert ", "cautious "], "A": ["unobservant "]}

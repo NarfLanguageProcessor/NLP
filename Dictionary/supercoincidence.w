@@ -1,0 +1,1 @@
+{"index": 311545, "D": "a striking occurrence of two or more events at one time apparently by mere chance", "S": [], "A": []}

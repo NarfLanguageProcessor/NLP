@@ -1,0 +1,1 @@
+{"index": 128535, "D": "a symbol noting the relative quality of a product, as lumber.", "S": [], "A": []}

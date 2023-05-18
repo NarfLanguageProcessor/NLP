@@ -1,0 +1,1 @@
+{"index": 237084, "D": "a white, crystalline, inositol derivative, C7H14O6, obtained from the resin of the sugar pine.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 60635, "D": "a congenitally deformed or distorted foot. ", "S": [], "A": []}

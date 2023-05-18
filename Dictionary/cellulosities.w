@@ -1,0 +1,1 @@
+{"index": 50627, "D": "an inert carbohydrate, (C6H10O5)n, the chief constituent of the cell walls of plants and of wood, cotton, hemp, paper, etc.", "S": [], "A": []}

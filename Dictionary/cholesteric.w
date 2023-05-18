@@ -1,0 +1,1 @@
+{"index": 55472, "D": "of or relating to a form of liquid crystal having molecules arranged in thick, regular layers, and displaying marked color effects, especially in polarized light.", "S": [], "A": []}

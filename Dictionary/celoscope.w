@@ -1,0 +1,1 @@
+{"index": 50634, "D": "an instrument for examining a body cavity.", "S": [], "A": []}

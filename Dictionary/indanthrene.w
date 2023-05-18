@@ -1,0 +1,1 @@
+{"index": 150654, "D": "a blue, crystalline, water-insoluble solid, C28H14H2O4, used as a dye for cotton and as a pigment in paints and enamels.", "S": [], "A": []}

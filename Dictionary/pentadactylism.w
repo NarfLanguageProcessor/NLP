@@ -1,0 +1,1 @@
+{"index": 229891, "D": "having five digits on each hand or foot.", "S": [], "A": []}

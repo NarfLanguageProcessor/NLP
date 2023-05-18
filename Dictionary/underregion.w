@@ -1,0 +1,1 @@
+{"index": 339683, "D": "an extensive, continuous part of a surface, space, or body", "S": [], "A": []}

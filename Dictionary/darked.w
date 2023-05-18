@@ -1,0 +1,1 @@
+{"index": 76943, "D": "having very little or no light", "S": ["ditch ", "duck ", "elude ", "escape ", "evade ", "fend off ", "shuffle ", "sidestep ", "skirt "], "A": ["face ", "meet ", "take on ", "release "]}

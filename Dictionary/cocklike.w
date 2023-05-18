@@ -1,0 +1,1 @@
+{"index": 61533, "D": "a male chicken; rooster. ", "S": [], "A": []}

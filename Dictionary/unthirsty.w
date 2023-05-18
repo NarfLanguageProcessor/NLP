@@ -1,0 +1,1 @@
+{"index": 352923, "D": "feeling or having thirst;  craving liquid.", "S": [], "A": []}

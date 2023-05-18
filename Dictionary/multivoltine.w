@@ -1,0 +1,1 @@
+{"index": 195439, "D": "producing several broods in one year, as certain silkworm moths; polyvoltine.", "S": [], "A": []}

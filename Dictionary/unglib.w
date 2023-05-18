@@ -1,0 +1,1 @@
+{"index": 343096, "D": "readily fluent, often thoughtlessly, superficially, or insincerely so", "S": [], "A": []}

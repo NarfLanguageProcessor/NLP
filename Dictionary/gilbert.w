@@ -1,0 +1,1 @@
+{"index": 124882, "D": "the centimeter-gram-second unit of magnetomotive force, equal to 0.7958 ampere-turns. Abbreviation", "S": [], "A": []}

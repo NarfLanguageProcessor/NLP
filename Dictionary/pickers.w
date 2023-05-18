@@ -1,0 +1,1 @@
+{"index": 235886, "D": "someone or something that picks. ", "S": ["binder ", "picker "], "A": []}

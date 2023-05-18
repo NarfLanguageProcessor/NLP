@@ -1,0 +1,1 @@
+{"index": 217121, "D": "a station established at a distance from the main body of an army to protect it from surprise attack", "S": ["frontier ", "settlement ", "station "], "A": []}

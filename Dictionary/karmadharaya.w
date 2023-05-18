@@ -1,0 +1,1 @@
+{"index": 163239, "D": "a compound of two words in which the first is an adjective and the second a substantive, as blackbird, gentleman, or grandson.", "S": [], "A": []}

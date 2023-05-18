@@ -1,0 +1,1 @@
+{"index": 347180, "D": "burdened with cruel or unjust impositions or restraints; subjected to a burdensome or harsh exercise of authority or power", "S": [], "A": []}

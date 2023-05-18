@@ -1,0 +1,1 @@
+{"index": 156413, "D": "a prefix meaning \u201cwithin,\u201d used in the formation of compound words", "S": ["afterwards ", "eventually ", "late ", "later ", "next ", "soon ", "then ", "thereafter "], "A": ["earlier "]}

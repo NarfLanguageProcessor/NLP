@@ -1,0 +1,1 @@
+{"index": 197917, "D": "necessary or required", "S": ["contingency ", "vicissitude "], "A": ["advantage ", "benefit ", "blessing ", "boon ", "calm ", "comfort ", "ease ", "good ", "good fortune ", "miracle ", "peace ", "pleasure ", "plenty ", "solution "]}

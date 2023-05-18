@@ -1,0 +1,1 @@
+{"index": 128612, "D": "a noise-making device, typically a small container filled with pellets and fitted with a handle, used by children each time Haman's name is said during the traditional reading of the Book of Esther on Purim.", "S": [], "A": []}

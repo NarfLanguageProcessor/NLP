@@ -1,0 +1,1 @@
+{"index": 311201, "D": "the shining of the sun; direct light of the sun.", "S": [], "A": []}

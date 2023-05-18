@@ -1,0 +1,1 @@
+{"index": 260432, "D": "a garlic, Allium ursinum, having broad leaves.", "S": [], "A": []}

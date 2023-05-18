@@ -1,0 +1,1 @@
+{"index": 222580, "D": "a person or thing that paces. ", "S": ["bellwether ", "forerunner ", "leader ", "pioneer "], "A": []}

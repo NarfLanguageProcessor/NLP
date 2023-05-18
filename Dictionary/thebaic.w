@@ -1,0 +1,1 @@
+{"index": 320761, "D": "of or relating to the ancient Greek city of Thebes or its inhabitants", "S": [], "A": []}

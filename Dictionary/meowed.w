@@ -1,0 +1,1 @@
+{"index": 183575, "D": "the characteristic sound a cat makes.", "S": ["bark ", "cheer ", "exclaim ", "growl ", "grunt ", "holler ", "howl ", "scream ", "shout ", "shriek ", "whoop ", "yell "], "A": ["be quiet "]}

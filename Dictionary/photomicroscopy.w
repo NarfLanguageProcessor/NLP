@@ -1,0 +1,1 @@
+{"index": 235262, "D": "a microscope  having an illuminator and a camera mechanism for producing a photomicrograph.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259946, "D": "a groove cut in masonry to receive flashing.", "S": [], "A": []}

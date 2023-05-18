@@ -1,0 +1,1 @@
+{"index": 196154, "D": "having a moustache, esp when bushy or elaborately shaped", "S": [], "A": []}

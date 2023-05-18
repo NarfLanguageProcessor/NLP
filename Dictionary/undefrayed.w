@@ -1,0 +1,1 @@
+{"index": 338623, "D": "to bear or pay all or part of (the costs, expenses, etc.)", "S": ["delinquent ", "outstanding ", "overdue "], "A": ["paid "]}

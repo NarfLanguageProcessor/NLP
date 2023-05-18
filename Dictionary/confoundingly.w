@@ -1,0 +1,1 @@
+{"index": 66046, "D": "perplexing or bewildering", "S": [], "A": []}

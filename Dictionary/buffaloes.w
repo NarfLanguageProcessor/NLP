@@ -1,0 +1,1 @@
+{"index": 42223, "D": "Compare bison, Cape buffalo, water buffalo. ", "S": ["camel ", "cattle ", "cow ", "deer ", "elephant ", "giraffe ", "hippopotamus ", "hog ", "horse ", "llama ", "pig ", "rhinoceros ", "swine ", "tapir "], "A": []}

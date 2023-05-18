@@ -1,0 +1,1 @@
+{"index": 233563, "D": "altruistic concern for human welfare and advancement, usually manifested by donations of money, property, or work to needy persons, by endowment of institutions of learning and hospitals, and by generosity to other socially useful purposes.", "S": ["civil service "], "A": []}

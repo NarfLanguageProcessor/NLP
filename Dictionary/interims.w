@@ -1,0 +1,1 @@
+{"index": 155052, "D": "an intervening time; interval; meantime", "S": ["provisional "], "A": ["finished ", "permanent "]}

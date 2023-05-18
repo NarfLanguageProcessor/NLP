@@ -1,0 +1,1 @@
+{"index": 367539, "D": "a sheet of paper on which work schedules, working time, special instructions, etc., are recorded.", "S": [], "A": []}

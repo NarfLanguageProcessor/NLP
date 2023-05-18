@@ -1,0 +1,1 @@
+{"index": 156768, "D": "serving or used to introduce;  preliminary; beginning", "S": [], "A": []}

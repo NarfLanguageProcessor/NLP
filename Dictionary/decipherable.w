@@ -1,0 +1,1 @@
+{"index": 78387, "D": "to make out the meaning of (poor or partially obliterated writing, etc.)", "S": ["clear ", "comprehensible ", "explicable ", "illustratable ", "interpretable ", "legible ", "readable ", "understandable "], "A": []}

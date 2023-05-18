@@ -1,0 +1,1 @@
+{"index": 201213, "D": "abstention from aggression,  especially by a nation.", "S": [], "A": []}

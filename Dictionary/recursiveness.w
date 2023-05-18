@@ -1,0 +1,1 @@
+{"index": 263804, "D": "pertaining to or using a rule or procedure that can be applied repeatedly.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 248037, "D": "to treat or speak to insolently or with contemptuous rudeness; affront.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321550, "D": "oriented growth of an organism in response to heat.", "S": [], "A": []}

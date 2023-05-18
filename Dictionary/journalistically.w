@@ -1,0 +1,1 @@
+{"index": 161886, "D": "of, relating to, or characteristic of journalists  or journalism. ", "S": [], "A": []}

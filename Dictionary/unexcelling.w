@@ -1,0 +1,1 @@
+{"index": 341628, "D": "to surpass others or be superior in some respect or area; do extremely well", "S": [], "A": []}

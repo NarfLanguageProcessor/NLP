@@ -1,0 +1,1 @@
+{"index": 33723, "D": "large, as in size, height, width, or amount", "S": [], "A": []}

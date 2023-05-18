@@ -1,0 +1,1 @@
+{"index": 1442, "D": "an accelerometer containing a pendulum device for measuring and recording ground motions produced by earthquakes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 262296, "D": "defying or resisting some established authority, government, or tradition; insubordinate; inclined to rebel.", "S": ["contempt ", "disobedience ", "insubordination ", "recalcitrance ", "recalcitrancy ", "refractoriness "], "A": []}

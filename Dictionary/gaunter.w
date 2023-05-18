@@ -1,0 +1,1 @@
+{"index": 122855, "D": "extremely thin and bony; haggard and drawn, as from great hunger, weariness, or torture; emaciated. ", "S": ["angular ", "anorexic ", "bleak ", "emaciated ", "forlorn ", "grim ", "thin "], "A": ["bright ", "cheerful ", "fat ", "happy ", "heavy ", "hopeful ", "joyful ", "sunny ", "thick "]}

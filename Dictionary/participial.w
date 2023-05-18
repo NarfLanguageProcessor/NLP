@@ -1,0 +1,1 @@
+{"index": 227027, "D": "of or relating to a participle. ", "S": [], "A": []}

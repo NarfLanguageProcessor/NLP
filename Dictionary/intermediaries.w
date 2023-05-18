@@ -1,0 +1,1 @@
+{"index": 155318, "D": "an intermediate agent or agency; a go-between or mediator.", "S": ["broker ", "emissary ", "go-between ", "mediator ", "negotiator "], "A": ["end "]}

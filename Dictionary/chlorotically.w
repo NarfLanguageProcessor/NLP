@@ -1,0 +1,1 @@
+{"index": 55229, "D": "an abnormally yellow color of plant tissues, resulting from partial failure to develop chlorophyll, caused by a nutrient deficiency or the activities of a pathogen.", "S": [], "A": []}

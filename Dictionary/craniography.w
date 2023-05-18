@@ -1,0 +1,1 @@
+{"index": 72067, "D": "examination of the skull as depicted by craniographs, photographs, and charts.", "S": [], "A": []}

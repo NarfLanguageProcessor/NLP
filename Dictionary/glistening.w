@@ -1,0 +1,1 @@
+{"index": 126422, "D": "to reflect a sparkling light or a faint intermittent glow; shine lustrously.", "S": ["bright ", "burnished ", "glassy ", "glazed ", "gleaming ", "lustrous ", "polished ", "shining ", "shiny ", "silky ", "sleek "], "A": ["dark ", "dull ", "gloomy ", "rough ", "coarse "]}

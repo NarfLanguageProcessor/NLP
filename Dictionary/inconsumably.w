@@ -1,0 +1,1 @@
+{"index": 150292, "D": "not consumable;  incapable of being consumed.", "S": [], "A": []}

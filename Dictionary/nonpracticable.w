@@ -1,0 +1,1 @@
+{"index": 206084, "D": "capable of being done, effected, or put into practice,  with the available means; feasible", "S": [], "A": []}

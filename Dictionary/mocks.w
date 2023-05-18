@@ -1,0 +1,1 @@
+{"index": 191021, "D": "to attack or treat with ridicule, contempt, or derision.", "S": ["bogus ", "make believe ", "phony ", "simulated "], "A": ["genuine ", "real ", "sincere ", "true "]}

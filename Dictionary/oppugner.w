@@ -1,0 +1,1 @@
+{"index": 213737, "D": "to assail by criticism, argument, or action.", "S": ["antagonist ", "attacker ", "competitor ", "enemy ", "foe ", "rival "], "A": ["ally ", "friend "]}

@@ -1,0 +1,1 @@
+{"index": 257231, "D": "a cat, especially a kitten.", "S": ["beaver ", "box ", "cunt ", "muff ", "puss ", "snatch "], "A": []}

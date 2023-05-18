@@ -1,0 +1,1 @@
+{"index": 227465, "D": "very small pieces of pasta, available in various shapes, used especially in soups.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86769, "D": [], "S": ["control ", "curb ", "decide ", "determine ", "dominate ", "guide ", "handle ", "inhibit ", "manage ", "regulate ", "rule "], "A": ["abandon ", "aid ", "assist ", "help ", "hesitate ", "mismanage ", "neglect ", "submit ", "liberate ", "release "]}

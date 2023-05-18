@@ -1,0 +1,1 @@
+{"index": 49010, "D": "a container for cooking and serving an individual portion of food, usually made of pottery, silver, or paper, or sometimes of baked dough.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 70598, "D": "able to be counted.", "S": ["accountable ", "ascertainable ", "computable ", "discoverable ", "estimable ", "foreseeable ", "measurable ", "predictable ", "reckonable "], "A": ["incalculable ", "inestimable "]}

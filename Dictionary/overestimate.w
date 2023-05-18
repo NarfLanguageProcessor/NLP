@@ -1,0 +1,1 @@
+{"index": 219214, "D": "to estimate  at too high a value, amount, rate, or the like", "S": ["embellish "], "A": ["abridge ", "compress ", "condense ", "contract ", "curtail ", "decrease ", "diminish ", "lessen ", "lower ", "reduce ", "shorten ", "shrink ", "simplify "]}

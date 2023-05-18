@@ -1,0 +1,1 @@
+{"index": 110397, "D": "U.S. novelist and short-story writer. Nobel Prize 1949.", "S": [], "A": []}

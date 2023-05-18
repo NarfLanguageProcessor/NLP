@@ -1,0 +1,1 @@
+{"index": 270485, "D": "any of various small structures that hook, clasp, or bind other structures to move them or hold them in place.", "S": [], "A": []}

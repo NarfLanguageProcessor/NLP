@@ -1,0 +1,1 @@
+{"index": 243800, "D": "a person or thing that positions. ", "S": [], "A": []}

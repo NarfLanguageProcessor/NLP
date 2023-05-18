@@ -1,0 +1,1 @@
+{"index": 273909, "D": "to act in a swaggering, boisterous, or uproarious manner.", "S": ["bacchant ", "merrymaker ", "ranter "], "A": []}

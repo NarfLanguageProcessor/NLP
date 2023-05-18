@@ -1,0 +1,1 @@
+{"index": 175256, "D": "a person who has authority, control, or power over others; a master, chief, or ruler.", "S": [], "A": []}

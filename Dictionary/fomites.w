@@ -1,0 +1,1 @@
+{"index": 116013, "D": "surfaces, as clothing or door handles, that can become contaminated with pathogens when touched by the carrier of an infection, and can then transmit the pathogens to those who next touch the surfaces", "S": [], "A": []}

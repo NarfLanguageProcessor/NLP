@@ -1,0 +1,1 @@
+{"index": 191980, "D": "consisting of or characterized by a series of beadlike swellings alternating with contractions, as certain roots or stems.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 67020, "D": [], "S": ["acknowledge ", "admit ", "affirm ", "avow ", "confess ", "feign ", "pretend ", "proclaim ", "stump "], "A": ["conceal ", "deny ", "disavow ", "disown ", "dispute ", "hide ", "refuse ", "renounce ", "repudiate ", "be quiet ", "contradict ", "invalidate ", "question ", "reject "]}

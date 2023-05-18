@@ -1,0 +1,1 @@
+{"index": 307664, "D": "a not clearly revealed or formulated direction of thought, intention, action, etc., underlying what is manifested", "S": [], "A": []}

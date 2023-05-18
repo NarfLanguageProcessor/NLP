@@ -1,0 +1,1 @@
+{"index": 38299, "D": "any alcoholic beverage; whiskey.", "S": ["intoxication "], "A": ["abstinence ", "soberness ", "sobriety ", "temperance "]}

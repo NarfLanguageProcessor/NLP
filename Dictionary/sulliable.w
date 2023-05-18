@@ -1,0 +1,1 @@
+{"index": 310566, "D": "to soil, stain, or tarnish.", "S": [], "A": []}

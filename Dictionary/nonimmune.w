@@ -1,0 +1,1 @@
+{"index": 204576, "D": "protected from a disease or the like, as by inoculation.", "S": [], "A": []}

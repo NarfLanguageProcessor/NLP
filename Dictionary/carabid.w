@@ -1,0 +1,1 @@
+{"index": 47256, "D": "any typically dark-coloured beetle of the family Carabidae, including the bombardier and other ground beetles", "S": [], "A": []}

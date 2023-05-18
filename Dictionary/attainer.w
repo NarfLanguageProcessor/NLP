@@ -1,0 +1,1 @@
+{"index": 22957, "D": "to reach, achieve, or accomplish; gain; obtain", "S": [], "A": []}

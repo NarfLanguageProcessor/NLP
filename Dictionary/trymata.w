@@ -1,0 +1,1 @@
+{"index": 330025, "D": "a nut having an outer shell that becomes tough and dry and eventually splits open, as in the walnut and hickory.", "S": [], "A": []}

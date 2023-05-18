@@ -1,0 +1,1 @@
+{"index": 10531, "D": "a combining form representing amylum  in compound words", "S": [], "A": []}

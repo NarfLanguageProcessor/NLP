@@ -1,0 +1,1 @@
+{"index": 348667, "D": "offered or suggested for consideration, acceptance, or action", "S": [], "A": []}

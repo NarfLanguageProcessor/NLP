@@ -1,0 +1,1 @@
+{"index": 15030, "D": "adherence to or advocacy of conventional  attitudes or practices.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 280480, "D": "a female schoolteacher, especially of the old-time country school type, popularly held to be strict and priggish.", "S": [], "A": []}

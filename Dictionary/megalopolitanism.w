@@ -1,0 +1,1 @@
+{"index": 182443, "D": "of, relating to, or characteristic of a megalopolis. ", "S": [], "A": []}

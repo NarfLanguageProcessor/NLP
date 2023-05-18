@@ -1,0 +1,1 @@
+{"index": 295568, "D": "any of several long-billed game birds of the genera Gallinago (sometimes Capella) and Limnocryptes, inhabiting marshy areas, as G. gallinago(common snipe,  orwhole snipe ), of Eurasia and North America, having barred and striped white, brown, and black plumage.", "S": ["attack ", "bombardment ", "bombing ", "explosion ", "shelling "], "A": []}

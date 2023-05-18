@@ -1,0 +1,1 @@
+{"index": 13416, "D": "any of several herbivorous dinosaurs of the suborder Ankylosauria, from the Cretaceous Period, having the body covered with thick, bony plates.", "S": [], "A": []}

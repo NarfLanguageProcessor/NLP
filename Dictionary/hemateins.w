@@ -1,0 +1,1 @@
+{"index": 135901, "D": "a reddish-brown, crystalline, slightly water-soluble solid, C16H12O6, obtained from logwood", "S": [], "A": []}

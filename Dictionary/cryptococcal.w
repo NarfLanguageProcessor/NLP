@@ -1,0 +1,1 @@
+{"index": 73215, "D": "any yeastlike fungus of the genus Cryptococcus, including C. neoformans, the causative agent of cryptococcosis. ", "S": [], "A": []}

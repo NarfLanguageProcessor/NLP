@@ -1,0 +1,1 @@
+{"index": 64609, "D": "highly skilled and accomplished in all aspects; complete; total", "S": [], "A": []}

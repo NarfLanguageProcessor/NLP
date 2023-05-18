@@ -1,0 +1,1 @@
+{"index": 121933, "D": "a passageway, especially a narrow walkway.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 292651, "D": "to rest with the body supported by the buttocks or thighs; be seated.", "S": [], "A": []}

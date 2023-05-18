@@ -1,0 +1,1 @@
+{"index": 87275, "D": "a person who perceives or detects something", "S": [], "A": []}

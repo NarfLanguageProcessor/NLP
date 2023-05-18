@@ -1,0 +1,1 @@
+{"index": 314102, "D": "to exchange, barter, or trade, as one thing for another", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 314540, "D": "swirling,  whirling, or twisted.", "S": ["arched ", "crooked ", "curvaceous ", "elliptical ", "rounded ", "serpentine ", "twisted ", "twisting "], "A": ["straight "]}

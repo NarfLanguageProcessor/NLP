@@ -1,0 +1,1 @@
+{"index": 107165, "D": "to enliven; invigorate; stimulate", "S": ["animate ", "elate ", "exalt ", "excite ", "thrill ", "uplift "], "A": ["deaden ", "discourage ", "bore ", "depress ", "dishearten ", "dissuade ", "dull ", "enervate ", "receive ", "weaken "]}

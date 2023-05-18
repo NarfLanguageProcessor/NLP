@@ -1,0 +1,1 @@
+{"index": 259899, "D": "a worthless piece of cloth, especially one that is torn or worn.", "S": ["dishrag ", "dustcloth ", "patch ", "remnant ", "scrap ", "shred ", "tatter ", "wiper "], "A": []}

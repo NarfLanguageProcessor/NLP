@@ -1,0 +1,1 @@
+{"index": 252622, "D": "to foretell or predict.", "S": ["foretell ", "portend ", "presage "], "A": []}

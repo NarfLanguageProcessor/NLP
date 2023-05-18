@@ -1,0 +1,1 @@
+{"index": 53348, "D": "to stop or arrest the motion of suddenly or forcibly", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 255380, "D": "of or relating to psychology. ", "S": ["cognitive ", "emotional ", "intellectual ", "mental ", "subjective "], "A": ["physical "]}

@@ -1,0 +1,1 @@
+{"index": 78783, "D": "to speak disparagingly of; denounce as faulty or worthless; express censure of", "S": ["belittle ", "condemn ", "denounce ", "minimize "], "A": ["approve ", "praise ", "commend ", "compliment ", "esteem ", "exaggerate ", "exalt ", "flatter ", "honor ", "increase ", "laud ", "overestimate ", "overrate ", "overvalue ", "raise ", "respect ", "sanction "]}

@@ -1,0 +1,1 @@
+{"index": 206851, "D": "the act of retracting  or the state of being retracted. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 260237, "D": "an open shelter, often having a dome-shaped thatched roof, and installed especially on beaches and picnic grounds.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 9020, "D": "a white crystalline pyrimidine derivative, C4H2O4N2, used in biomedical research to induce diabetes in laboratory animals.", "S": [], "A": []}

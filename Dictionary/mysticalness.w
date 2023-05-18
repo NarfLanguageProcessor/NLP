@@ -1,0 +1,1 @@
+{"index": 190262, "D": "mystic;  of or relating to supernatural agencies, affairs, occurrences, etc.", "S": [], "A": []}

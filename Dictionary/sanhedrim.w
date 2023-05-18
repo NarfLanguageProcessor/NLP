@@ -1,0 +1,1 @@
+{"index": 277935, "D": "the highest council of the ancient Jews, consisting of 71 members, and exercising authority from about the 2nd century b.c.", "S": [], "A": []}

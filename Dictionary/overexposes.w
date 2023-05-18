@@ -1,0 +1,1 @@
+{"index": 219265, "D": "to expose  too much, as to the sun, cold, or light rays (often used reflexively)", "S": [], "A": []}

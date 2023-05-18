@@ -1,0 +1,1 @@
+{"index": 109467, "D": "to drop or descend under the force of gravity, as to a lower place through loss or lack of support.", "S": ["decline ", "decrease ", "dip ", "drop ", "plunge ", "recession ", "reduction ", "slump ", "spill "], "A": ["ascent ", "rise "]}

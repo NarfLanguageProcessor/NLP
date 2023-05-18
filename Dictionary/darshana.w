@@ -1,0 +1,1 @@
+{"index": 77015, "D": "any of the six principal systems of philosophy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 254765, "D": "of or containing germanium,  especially in the tetravalent state.", "S": [], "A": []}

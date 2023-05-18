@@ -1,0 +1,1 @@
+{"index": 11323, "D": "an enlarging or extending; amplification.", "S": [], "A": []}

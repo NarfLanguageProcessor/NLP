@@ -1,0 +1,1 @@
+{"index": 171929, "D": "a person who rescues another from danger of death, especially from drowning.", "S": ["compassion ", "indulgence ", "leniency ", "mercy "], "A": ["cruelty ", "meanness ", "indulgence "]}

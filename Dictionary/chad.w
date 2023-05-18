@@ -1,0 +1,1 @@
+{"index": 51859, "D": "a small paper disk or square formed when a hole is punched in a punch card or paper tape.", "S": [], "A": []}

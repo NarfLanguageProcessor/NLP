@@ -1,0 +1,1 @@
+{"index": 369534, "D": "a white, heavy, amorphous, odorless and tasteless, infusible, water-insoluble powder, ZrO2, used chiefly as a pigment for paints, an abrasive, and in the manufacture of refractory crucibles.", "S": [], "A": []}

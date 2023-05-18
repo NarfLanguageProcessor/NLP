@@ -1,0 +1,1 @@
+{"index": 198945, "D": "of or relating to a nerve or the nervous system.", "S": [], "A": []}

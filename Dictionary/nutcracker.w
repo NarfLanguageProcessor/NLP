@@ -1,0 +1,1 @@
+{"index": 209767, "D": "an instrument or device for cracking the shells of nuts. ", "S": [], "A": []}

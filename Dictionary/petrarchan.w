@@ -1,0 +1,1 @@
+{"index": 232445, "D": "of, relating to, or characteristic of the works of Petrarch. ", "S": [], "A": []}

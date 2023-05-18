@@ -1,0 +1,1 @@
+{"index": 17769, "D": "to clap the hands as an expression of approval, appreciation, acclamation, etc.", "S": [], "A": []}

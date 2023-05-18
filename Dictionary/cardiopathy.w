@@ -1,0 +1,1 @@
+{"index": 47830, "D": "any disease or disorder of the heart.", "S": [], "A": []}

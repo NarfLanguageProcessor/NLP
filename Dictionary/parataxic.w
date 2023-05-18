@@ -1,0 +1,1 @@
+{"index": 226149, "D": "of or characterized by emotional maladjustment.", "S": [], "A": []}

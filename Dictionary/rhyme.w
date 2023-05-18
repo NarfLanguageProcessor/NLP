@@ -1,0 +1,1 @@
+{"index": 271953, "D": "identity in sound of some part, especially the end, of words or lines of verse.", "S": ["cadence ", "poem ", "poetry ", "rhythm ", "tune ", "verse "], "A": ["prose "]}

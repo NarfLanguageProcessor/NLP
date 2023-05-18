@@ -1,0 +1,1 @@
+{"index": 260240, "D": "a descent group composed of individuals descended from one ancestor through any combination of male and female links.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 335241, "D": "tending to arrest  or take hold of the attention, interest, etc.", "S": [], "A": []}

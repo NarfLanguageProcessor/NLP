@@ -1,0 +1,1 @@
+{"index": 105754, "D": "(in the Odyssey) the nurse of Telemachus who recognized the disguised Odysseus by a scar on his leg.", "S": [], "A": []}

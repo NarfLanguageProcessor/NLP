@@ -1,0 +1,1 @@
+{"index": 73390, "D": "a clear, transparent mineral or glass resembling ice.", "S": ["bright ", "crystalline ", "limpid ", "luminous ", "translucent ", "transparent "], "A": []}

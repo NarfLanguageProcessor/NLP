@@ -1,0 +1,1 @@
+{"index": 258768, "D": "a yellow, crystalline, cyclic unsaturated diketone, C6H4O2, formed by oxidizing aniline or hydroquinone", "S": [], "A": []}

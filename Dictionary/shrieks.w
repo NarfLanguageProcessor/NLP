@@ -1,0 +1,1 @@
+{"index": 289182, "D": "a loud, sharp, shrill cry.", "S": ["howl ", "screech ", "squawk ", "squeal ", "wail ", "whoop "], "A": []}

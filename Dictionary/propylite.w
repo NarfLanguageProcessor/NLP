@@ -1,0 +1,1 @@
+{"index": 252671, "D": "a hydrothermally altered andesite or allied rock containing secondary minerals, as calcite, chlorite, serpentine, or epidote.", "S": [], "A": []}

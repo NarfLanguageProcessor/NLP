@@ -1,0 +1,1 @@
+{"index": 45613, "D": "of, relating to, or characteristic of Cambodia,  its people, or its culture.", "S": [], "A": []}

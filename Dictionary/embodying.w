@@ -1,0 +1,1 @@
+{"index": 98140, "D": "to give a concrete form to; express, personify, or exemplify in concrete form", "S": ["demonstrate ", "epitomize ", "exemplify ", "exhibit ", "express ", "illustrate ", "incorporate ", "manifest ", "mirror ", "personify ", "realize ", "stand for ", "symbolize ", "typify "], "A": ["conceal ", "cover ", "hide ", "obscure "]}

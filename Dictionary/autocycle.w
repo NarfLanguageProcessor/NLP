@@ -1,0 +1,1 @@
+{"index": 23943, "D": "a bicycle powered or assisted by a small engine", "S": [], "A": []}

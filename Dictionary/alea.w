@@ -1,0 +1,1 @@
+{"index": 7803, "D": "an epithet of Athena referring to a sanctuary built in her honor by Aleus.", "S": [], "A": []}

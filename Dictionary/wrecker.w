@@ -1,0 +1,1 @@
+{"index": 367905, "D": "a person or thing that wrecks. ", "S": ["bomber "], "A": ["author ", "creator ", "restorer "]}

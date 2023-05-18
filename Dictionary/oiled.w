@@ -1,0 +1,1 @@
+{"index": 211835, "D": "lubricated or smeared with or as if with oil. ", "S": ["buttery ", "creamy ", "slippery ", "waxy "], "A": ["dry ", "hateful "]}

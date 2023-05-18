@@ -1,0 +1,1 @@
+{"index": 43851, "D": "the principles or doctrines of the kabbalah. ", "S": ["cabala ", "kabala ", "kabbalism ", "pietism ", "quietism ", "spiritualism "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 254801, "D": "(especially of an organ or tissue) abnormally enlarged or overgrown", "S": [], "A": []}

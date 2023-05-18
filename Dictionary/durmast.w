@@ -1,0 +1,1 @@
+{"index": 94465, "D": "a European oak, Quercus petraea, yielding a heavy, elastic wood used for furniture and in the construction of buildings.", "S": [], "A": []}

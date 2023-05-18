@@ -1,0 +1,1 @@
+{"index": 286377, "D": "pressed together or compacted, as soldiers in rows", "S": ["arranged ", "congested ", "crowded ", "filled ", "jam-packed ", "jammed ", "loaded ", "overflowing ", "overloaded ", "stuffed ", "swarming ", "wrapped "], "A": ["clear ", "empty ", "uncrowded "]}

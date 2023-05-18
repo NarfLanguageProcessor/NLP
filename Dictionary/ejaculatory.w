@@ -1,0 +1,1 @@
+{"index": 96585, "D": "pertaining to or of the nature of an exclamatory utterance.", "S": ["lingual ", "sonant ", "vocal "], "A": ["printed ", "written "]}

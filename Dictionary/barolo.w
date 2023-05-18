@@ -1,0 +1,1 @@
+{"index": 28171, "D": "a dry red wine from the Piedmont region of Italy.", "S": [], "A": []}

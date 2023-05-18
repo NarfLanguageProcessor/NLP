@@ -1,0 +1,1 @@
+{"index": 107047, "D": "a written recognition of a consul, issued by the government of the state in which the consul is stationed, giving authorization to exercise appropriate powers.", "S": [], "A": []}

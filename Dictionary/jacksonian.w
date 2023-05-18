@@ -1,0 +1,1 @@
+{"index": 159965, "D": "of or relating to Andrew Jackson,  his ideas, the period of his presidency, or the political principles or social values associated with him", "S": [], "A": []}

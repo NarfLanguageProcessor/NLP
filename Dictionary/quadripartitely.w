@@ -1,0 +1,1 @@
+{"index": 257651, "D": "divided into or consisting of four parts.", "S": [], "A": []}

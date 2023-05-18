@@ -1,0 +1,1 @@
+{"index": 139666, "D": "causing delay, interruption, or difficulty in some process or movement; hampering or impeding", "S": [], "A": []}

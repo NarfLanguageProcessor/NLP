@@ -1,0 +1,1 @@
+{"index": 145178, "D": "of or relating to the Huns.", "S": [], "A": []}

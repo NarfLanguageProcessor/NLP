@@ -1,0 +1,1 @@
+{"index": 149962, "D": "to grasp or enclose.", "S": [], "A": []}

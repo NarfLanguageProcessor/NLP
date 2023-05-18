@@ -1,0 +1,1 @@
+{"index": 335297, "D": "to examine or analyze", "S": [], "A": []}

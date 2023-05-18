@@ -1,0 +1,1 @@
+{"index": 104386, "D": "a trellis or framework on which the trunk and branches of fruit trees or shrubs are trained to grow in one plane.", "S": ["arbor ", "lattice "], "A": []}

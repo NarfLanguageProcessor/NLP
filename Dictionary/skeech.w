@@ -1,0 +1,1 @@
+{"index": 292877, "D": "(of horses) spirited; inclined to shy.", "S": [], "A": []}

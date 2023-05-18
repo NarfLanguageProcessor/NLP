@@ -1,0 +1,1 @@
+{"index": 134905, "D": "heartsick. ", "S": ["crestfallen ", "crushed ", "desolate ", "despairing ", "despondent ", "disappointed ", "disconsolate ", "grief-stricken ", "grieved ", "heartbroken ", "heartsick ", "inconsolable ", "miserable ", "mournful ", "prostrated ", "sorrowful ", "wretched "], "A": ["happy ", "lighthearted ", "pleased "]}

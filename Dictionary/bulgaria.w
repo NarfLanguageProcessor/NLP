@@ -1,0 +1,1 @@
+{"index": 42439, "D": "a republic in SE Europe. 42,800 sq. mi. (110,850 sq. km). Capital", "S": [], "A": []}

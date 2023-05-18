@@ -1,0 +1,1 @@
+{"index": 42279, "D": "a hemipterous insect.", "S": ["disease ", "germ ", "infection ", "microbe ", "virus "], "A": []}

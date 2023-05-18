@@ -1,0 +1,1 @@
+{"index": 258527, "D": "a portion of something, especially tobacco, that is to be chewed but not swallowed.", "S": ["bolus ", "chew ", "food ", "rumen "], "A": []}

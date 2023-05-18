@@ -1,0 +1,1 @@
+{"index": 254761, "D": "like, befitting, or characteristic of a gentleman. ", "S": [], "A": []}

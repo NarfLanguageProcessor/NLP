@@ -1,0 +1,1 @@
+{"index": 322655, "D": "to separate the grain or seeds from (a cereal plant or the like) by some mechanical means, as by beating with a flail or by the action of a threshing machine. ", "S": ["beating ", "flailing ", "garnering ", "harvesting ", "separating ", "sifting ", "treading ", "winnowing "], "A": []}

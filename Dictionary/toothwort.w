@@ -1,0 +1,1 @@
+{"index": 325789, "D": "a European plant, Lathraea squamaria, of the broomrape family, having a rootstock covered with toothlike scales.", "S": [], "A": []}

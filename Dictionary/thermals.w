@@ -1,0 +1,1 @@
+{"index": 321331, "D": "underwear designed to retain body heat  in cold temperatures.", "S": ["flannels ", "thermal underwear ", "woolens "], "A": []}

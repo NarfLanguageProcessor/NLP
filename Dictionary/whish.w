@@ -1,0 +1,1 @@
+{"index": 365017, "D": "to make, or move with, a whiz or swish.", "S": ["dash ", "hasten ", "hustle ", "jog ", "rush ", "scoot ", "scurry ", "whirl ", "whisk ", "zip "], "A": ["procrastinate ", "slow ", "cease ", "check ", "decelerate ", "delay ", "discourage ", "dissuade ", "halt ", "hinder ", "repress ", "retard ", "stop ", "walk "]}

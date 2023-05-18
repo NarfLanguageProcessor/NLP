@@ -1,0 +1,1 @@
+{"index": 245611, "D": "to state or assert positively; maintain as true", "S": [], "A": []}

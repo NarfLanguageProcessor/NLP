@@ -1,0 +1,1 @@
+{"index": 103928, "D": "the sexual or erotic  quality or character of something.", "S": [], "A": []}

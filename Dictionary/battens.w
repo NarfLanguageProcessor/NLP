@@ -1,0 +1,1 @@
+{"index": 29105, "D": "to thrive by feeding; grow fat.", "S": ["fix ", "secure ", "tie ", "tighten "], "A": ["let go ", "loose ", "loosen ", "lose ", "unfasten ", "untie "]}

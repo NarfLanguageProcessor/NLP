@@ -1,0 +1,1 @@
+{"index": 6991, "D": "one of a Scottish breed of hardy dairy cattle having long, curving horns.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175005, "D": "tiresomely long; so protracted as to weary or cause boredom.", "S": [], "A": []}

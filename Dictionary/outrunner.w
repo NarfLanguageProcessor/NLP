@@ -1,0 +1,1 @@
+{"index": 217332, "D": "a person or thing that runs ahead or outside.", "S": [], "A": []}

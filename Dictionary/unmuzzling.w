@@ -1,0 +1,1 @@
+{"index": 346728, "D": "to remove a muzzle  from (a dog, cat, etc.).", "S": [], "A": []}

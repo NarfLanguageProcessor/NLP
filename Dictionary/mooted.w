@@ -1,0 +1,1 @@
+{"index": 193192, "D": "open to discussion or debate; debatable; doubtful", "S": ["announce ", "offer ", "open ", "propose ", "recommend ", "submit ", "suggest "], "A": ["conceal ", "deny ", "dissuade ", "hide ", "refuse ", "withhold ", "close ", "close up ", "end ", "finish "]}

@@ -1,0 +1,1 @@
+{"index": 127308, "D": "(used as an exclamation of any strong feeling, especially of disgust or irritation, and often followed by it.)", "S": [], "A": []}

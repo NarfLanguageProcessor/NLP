@@ -1,0 +1,1 @@
+{"index": 363346, "D": "a disturbance on the surface of a liquid body, as the sea or a lake, in the form of a moving ridge or swell.", "S": ["cool ", "harmonious ", "low-key ", "mild ", "placid ", "serene ", "slow ", "smooth ", "soothing ", "tranquil "], "A": ["agitated ", "excited ", "harsh ", "nervous ", "rough ", "uncool ", "violent "]}

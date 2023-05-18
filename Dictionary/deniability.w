@@ -1,0 +1,1 @@
+{"index": 81100, "D": "the ability to deny something, as knowledge of or connection with an illegal activity.", "S": [], "A": []}

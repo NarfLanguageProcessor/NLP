@@ -1,0 +1,1 @@
+{"index": 286769, "D": "(in a vaulted structure) one bay between two principal transverse arches.", "S": [], "A": []}

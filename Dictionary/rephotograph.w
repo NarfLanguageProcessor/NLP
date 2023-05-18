@@ -1,0 +1,1 @@
+{"index": 268201, "D": "a picture produced by photography. ", "S": [], "A": []}

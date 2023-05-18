@@ -1,0 +1,1 @@
+{"index": 107489, "D": "the outer coat of a spore. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 16248, "D": "to draw, stretch, or open out, especially over a flat surface, as something rolled or folded (often followed by out).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 39740, "D": "intelligent; clever; intellectual.", "S": [], "A": []}

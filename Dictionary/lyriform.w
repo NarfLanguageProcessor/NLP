@@ -1,0 +1,1 @@
+{"index": 173395, "D": "shaped like a lyre.", "S": [], "A": []}

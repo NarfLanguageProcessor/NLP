@@ -1,0 +1,1 @@
+{"index": 49023, "D": "able to be cast; suitable for casting", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 119982, "D": "to explode with a loud noise; detonate.", "S": ["fiery ", "frenzied ", "hazardous ", "meteoric ", "stormy ", "tense ", "touchy ", "ugly ", "uncontrollable ", "unstable ", "violent "], "A": ["calm ", "controlled ", "gentle ", "laid-back ", "mild ", "moderate ", "safe "]}

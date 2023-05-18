@@ -1,0 +1,1 @@
+{"index": 1534, "D": "a subordinate or supplementary part, object, or the like, used mainly for convenience, attractiveness, safety, etc., as a spotlight on an automobile or a lens cover on a camera.", "S": [], "A": []}

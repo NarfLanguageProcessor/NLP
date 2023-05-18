@@ -1,0 +1,1 @@
+{"index": 45712, "D": "a woman warrior who fought on the side of Turnus against Aeneas.", "S": [], "A": []}

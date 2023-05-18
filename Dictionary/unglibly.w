@@ -1,0 +1,1 @@
+{"index": 343097, "D": "thoughtlessly or superficially, with pat answers or insincere talk", "S": [], "A": []}

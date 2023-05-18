@@ -1,0 +1,1 @@
+{"index": 59244, "D": "a long, thin board,  thicker along one edge than the other, used in covering the outer walls of buildings, being laid horizontally, the thick edge of each board  overlapping the thin edge of the board  below it.", "S": [], "A": []}

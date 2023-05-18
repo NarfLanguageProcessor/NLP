@@ -1,0 +1,1 @@
+{"index": 189394, "D": "to handle  badly; maltreat", "S": ["botch ", "bungle ", "err ", "flub ", "fumble ", "misdirect ", "mistreat ", "misuse ", "muff "], "A": ["do well ", "succeed ", "benefit ", "fix ", "help ", "honor ", "respect "]}

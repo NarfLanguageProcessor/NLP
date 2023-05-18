@@ -1,0 +1,1 @@
+{"index": 102437, "D": "formed or originating on the earth's surface (opposed to hypogene).", "S": [], "A": []}

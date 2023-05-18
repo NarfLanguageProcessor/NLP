@@ -1,0 +1,1 @@
+{"index": 297362, "D": "to tranquilize or calm (a person or their emotions); relieve, comfort, or refresh", "S": ["captivated ", "delighted ", "mesmerized "], "A": ["disenchanted ", "disinterested "]}

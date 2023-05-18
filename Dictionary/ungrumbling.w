@@ -1,0 +1,1 @@
+{"index": 343328, "D": "to murmur or mutter in discontent; complain sullenly", "S": [], "A": []}

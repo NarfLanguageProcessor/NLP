@@ -1,0 +1,1 @@
+{"index": 204590, "D": "obstruction; hindrance; obstacle. ", "S": [], "A": []}

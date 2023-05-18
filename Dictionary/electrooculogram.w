@@ -1,0 +1,1 @@
+{"index": 97175, "D": "a record of the changes in electrical potential that occur between the front and back of the eyeball as the eyes move between two fixed points", "S": [], "A": []}

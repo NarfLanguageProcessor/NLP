@@ -1,0 +1,1 @@
+{"index": 141118, "D": "abnormally diminished activity of the pituitary gland,  especially of the anterior lobe.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 305980, "D": "abounding in streams or watercourses", "S": [], "A": []}

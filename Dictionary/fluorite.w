@@ -1,0 +1,1 @@
+{"index": 115465, "D": "a common mineral, calcium fluoride,  CaF2, occurring in green, blue, purple, yellow, or colorless crystals, usually in cubes", "S": [], "A": []}

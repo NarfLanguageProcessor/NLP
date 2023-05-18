@@ -1,0 +1,1 @@
+{"index": 312041, "D": "lying or resting on something else.", "S": ["demanding ", "difficult ", "onerous ", "oppressive ", "taxing "], "A": ["calm ", "easy ", "trivial "]}

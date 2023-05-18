@@ -1,0 +1,1 @@
+{"index": 145495, "D": "a person who owns or sails a yacht,  or who is devoted to yachting. ", "S": ["bluejacket ", "boater ", "mariner ", "mate ", "middy ", "pirate "], "A": []}

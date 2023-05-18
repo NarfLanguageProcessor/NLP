@@ -1,0 +1,1 @@
+{"index": 326805, "D": "a resident of a town,  especially a nonstudent resident of a college town.", "S": ["big-city person ", "city boy ", "city dweller ", "metropolitan ", "urbanite "], "A": []}

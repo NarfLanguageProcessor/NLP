@@ -1,0 +1,1 @@
+{"index": 332822, "D": "a person or thing that turns  or is employed in turning. ", "S": [], "A": []}

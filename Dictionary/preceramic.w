@@ -1,0 +1,1 @@
+{"index": 246033, "D": "noting or pertaining to a period or culture antedating the use of ceramics or pottery.", "S": [], "A": []}

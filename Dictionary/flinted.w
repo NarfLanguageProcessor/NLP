@@ -1,0 +1,1 @@
+{"index": 114651, "D": "a hard stone, a form of silica resembling chalcedony but more opaque, less pure, and less lustrous.", "S": [], "A": []}

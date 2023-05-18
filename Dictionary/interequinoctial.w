@@ -1,0 +1,1 @@
+{"index": 154887, "D": "pertaining to an equinox  or the equinoxes,  or to the equality of day and night.", "S": [], "A": []}

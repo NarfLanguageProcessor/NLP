@@ -1,0 +1,1 @@
+{"index": 306108, "D": "any of several aerobic bacteria of the genus Streptomyces, certain species of which produce antibiotics.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 273209, "D": "a quantity of broken stone for foundations, revetments of embankments, etc.", "S": [], "A": []}

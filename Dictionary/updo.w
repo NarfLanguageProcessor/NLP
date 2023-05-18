@@ -1,0 +1,1 @@
+{"index": 354628, "D": "a hairdo  that is combed or brushed up,  away from the face.", "S": [], "A": []}

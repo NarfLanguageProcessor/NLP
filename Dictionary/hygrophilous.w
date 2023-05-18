@@ -1,0 +1,1 @@
+{"index": 139355, "D": "(of a plant) growing in moist places", "S": [], "A": []}

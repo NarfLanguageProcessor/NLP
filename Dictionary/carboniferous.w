@@ -1,0 +1,1 @@
+{"index": 47524, "D": "noting or pertaining to a period of the Paleozoic Era, including the Pennsylvanian and Mississippian periods as epochs, occurring from 345 million to 280 million years ago.", "S": [], "A": []}

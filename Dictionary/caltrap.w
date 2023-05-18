@@ -1,0 +1,1 @@
+{"index": 45474, "D": "any of several plants having spiny heads or fruit, as those of the genera Tribulus and Kallstroemia, or the star thistle, Centaurea calcitrapa.", "S": [], "A": []}

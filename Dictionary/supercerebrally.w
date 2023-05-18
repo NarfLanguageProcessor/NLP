@@ -1,0 +1,1 @@
+{"index": 311506, "D": "of or relating to the cerebrum or the brain.", "S": [], "A": []}

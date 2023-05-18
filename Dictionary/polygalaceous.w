@@ -1,0 +1,1 @@
+{"index": 241861, "D": "of, relating to, or belonging to the Polygalaceae, a family of plants having flowers with two large outer petal-like sepals, three small sepals, and three to five petals", "S": [], "A": []}

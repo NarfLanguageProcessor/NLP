@@ -1,0 +1,1 @@
+{"index": 212797, "D": "the practice of biting one's nails, especially when done habitually and as a symptom of emotional disturbance.", "S": [], "A": []}

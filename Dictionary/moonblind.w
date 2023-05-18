@@ -1,0 +1,1 @@
+{"index": 193025, "D": "(of horses) afflicted with moon blindness; moon-eyed.", "S": [], "A": []}

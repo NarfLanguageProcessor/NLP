@@ -1,0 +1,1 @@
+{"index": 34642, "D": "a two-footed animal.", "S": ["animal ", "anthropoid ", "hominid ", "humanoid ", "mortal "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 55404, "D": "the production of x-ray photographs of the gallbladder following administration of a radiopaque substance that is secreted by the liver into the gallbladder.", "S": [], "A": []}

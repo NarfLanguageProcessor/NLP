@@ -1,0 +1,1 @@
+{"index": 87060, "D": "to think (something) wrong or reprehensible; censure or condemn in opinion.", "S": ["decry ", "denounce ", "deplore ", "dislike ", "oppose ", "reject ", "veto "], "A": ["allow ", "approve ", "compliment ", "praise ", "ratify ", "sanction ", "accept ", "commend ", "endorse ", "exalt ", "laud ", "permit ", "promote ", "welcome "]}

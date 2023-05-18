@@ -1,0 +1,1 @@
+{"index": 153848, "D": "an infinitesimal or very short space of time; a moment", "S": ["burning ", "contemporary ", "crying ", "current ", "fast ", "imperative ", "present ", "pressing ", "prompt ", "quick "], "A": ["future ", "old ", "old-fashioned ", "past ", "slow ", "tardy ", "unimportant "]}

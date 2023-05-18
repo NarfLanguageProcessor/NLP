@@ -1,0 +1,1 @@
+{"index": 280593, "D": "belonging or pertaining to the Sciaenidae, a family of carnivorous fishes that produce a loud sound by snapping the muscles attached to their air bladder, comprising the croakers and drums.", "S": [], "A": []}

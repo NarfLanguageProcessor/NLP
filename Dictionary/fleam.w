@@ -1,0 +1,1 @@
+{"index": 114298, "D": "a kind of lancet, as for opening veins.", "S": [], "A": []}

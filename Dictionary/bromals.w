@@ -1,0 +1,1 @@
+{"index": 41224, "D": "an oily, colorless liquid, CBr3CHO, used in medicine chiefly as an anodyne and hypnotic.", "S": [], "A": []}

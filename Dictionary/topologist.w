@@ -1,0 +1,1 @@
+{"index": 325955, "D": "the study of those properties of geometric forms that remain invariant under certain transformations, as bending or stretching.", "S": [], "A": []}

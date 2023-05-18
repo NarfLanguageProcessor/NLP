@@ -1,0 +1,1 @@
+{"index": 197731, "D": "destitute or impoverished; needy; indigent", "S": [], "A": []}

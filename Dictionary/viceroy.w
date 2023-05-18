@@ -1,0 +1,1 @@
+{"index": 359384, "D": "a person appointed to rule a country or province as the deputy of the sovereign", "S": ["governor ", "nabob ", "representative ", "satrap "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 264173, "D": "to form or mark differently  from other such things; distinguish.", "S": [], "A": []}

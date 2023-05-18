@@ -1,0 +1,1 @@
+{"index": 213060, "D": "energy; vitality; enthusiasm.", "S": ["fortitude ", "pep ", "potency ", "stamina ", "vigor ", "vitality ", "zest ", "zip "], "A": ["apathy ", "enervation ", "idleness ", "inactivity ", "laziness ", "lethargy ", "weakness ", "dispiritedness ", "dullness ", "impotence ", "inability ", "incompetence ", "indifference ", "powerlessness "]}

@@ -1,0 +1,1 @@
+{"index": 100354, "D": "engines  collectively; machinery.", "S": [], "A": []}

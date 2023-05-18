@@ -1,0 +1,1 @@
+{"index": 150774, "D": "not demonstrable;  incapable of being demonstrated or proved.", "S": [], "A": []}

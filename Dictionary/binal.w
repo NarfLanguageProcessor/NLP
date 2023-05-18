@@ -1,0 +1,1 @@
+{"index": 34153, "D": "double; twofold.", "S": ["bifold ", "binary ", "coupled ", "double ", "doubleheader ", "duple ", "duplex ", "duplicate ", "matched ", "paired ", "twin "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 110317, "D": "the first chapter of the Quran, recited at the beginning of every rak\u02bfa.", "S": [], "A": []}

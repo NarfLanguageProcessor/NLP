@@ -1,0 +1,1 @@
+{"index": 186068, "D": "subculture (def. 3b). ", "S": [], "A": []}

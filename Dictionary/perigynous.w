@@ -1,0 +1,1 @@
+{"index": 230976, "D": "situated around the pistil on the edge of a cuplike receptacle, as stamens or petals.", "S": [], "A": []}

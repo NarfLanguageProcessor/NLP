@@ -1,0 +1,1 @@
+{"index": 52338, "D": "the sparkling, dry, white table wine from the region of Champagne in France.", "S": ["bubbly ", "wine "], "A": []}

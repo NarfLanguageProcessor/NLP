@@ -1,0 +1,1 @@
+{"index": 103138, "D": "(in ancient Rome) a member of a body of priests who performed sacred rites during sacrificial banquets in honor of the gods.", "S": [], "A": []}

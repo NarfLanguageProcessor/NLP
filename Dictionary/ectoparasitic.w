@@ -1,0 +1,1 @@
+{"index": 95539, "D": "an external parasite  (opposed to endoparasite).", "S": [], "A": []}

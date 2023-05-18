@@ -1,0 +1,1 @@
+{"index": 90441, "D": "a tearing apart; violent separation.", "S": [], "A": []}

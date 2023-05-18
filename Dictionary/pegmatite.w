@@ -1,0 +1,1 @@
+{"index": 229141, "D": "a coarsely crystalline granite or other high-silica rock occurring in veins or dikes.", "S": [], "A": []}

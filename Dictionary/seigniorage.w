@@ -1,0 +1,1 @@
+{"index": 283272, "D": "something claimed by a sovereign or superior as a prerogative.", "S": [], "A": []}

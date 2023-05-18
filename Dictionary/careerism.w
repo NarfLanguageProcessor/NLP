@@ -1,0 +1,1 @@
+{"index": 47918, "D": "devotion to a successful career,  often at the expense of one's personal life, ethics, etc.", "S": [], "A": []}

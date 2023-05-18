@@ -1,0 +1,1 @@
+{"index": 175650, "D": "humble in station, condition, or nature", "S": ["humble "], "A": ["higher ", "lofty ", "noble ", "pretentious ", "superior "]}

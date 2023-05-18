@@ -1,0 +1,1 @@
+{"index": 93142, "D": "an extinct genus of generalized hominoids that lived in Europe and Africa during the Miocene Epoch and whose members are characterized by small molars and incisors.", "S": [], "A": []}

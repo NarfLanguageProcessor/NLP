@@ -1,0 +1,1 @@
+{"index": 16104, "D": "a supporter or adherent of a king or royal  government, especially in times of rebellion or civil war.", "S": [], "A": []}

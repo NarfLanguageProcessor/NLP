@@ -1,0 +1,1 @@
+{"index": 98796, "D": "in a way that is based on or guided by experience or experiment", "S": ["analytically ", "on probation ", "on trial ", "provisionally ", "temporarily "], "A": []}

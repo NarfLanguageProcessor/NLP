@@ -1,0 +1,1 @@
+{"index": 313282, "D": "a nonrepresentational style of art developed in Russia in the early 20th century, characterized by severely simple geometric shapes or forms and an extremely limited palette.", "S": [], "A": []}

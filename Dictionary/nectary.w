@@ -1,0 +1,1 @@
+{"index": 197865, "D": "an organ or part that secretes nectar.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 345009, "D": "of or relating to one sex only.", "S": ["bisexual ", "cross-sexual ", "epicene ", "hermaphrodite ", "trans-sexual "], "A": []}

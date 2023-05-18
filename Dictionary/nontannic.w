@@ -1,0 +1,1 @@
+{"index": 207757, "D": "of, relating to, or derived from tan or tannin. ", "S": [], "A": []}

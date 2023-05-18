@@ -1,0 +1,1 @@
+{"index": 344660, "D": "of or relating to organized establishments, foundations, societies, or the like, or to the buildings they occupy", "S": [], "A": []}

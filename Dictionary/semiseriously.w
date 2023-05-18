@@ -1,0 +1,1 @@
+{"index": 284937, "D": "having some seriousness; partly serious. ", "S": [], "A": []}

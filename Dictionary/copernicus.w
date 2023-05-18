@@ -1,0 +1,1 @@
+{"index": 68478, "D": "Polish astronomer who promulgated the now accepted theory that the earth and the other planets move around the sun (the Copernican System ).", "S": [], "A": []}

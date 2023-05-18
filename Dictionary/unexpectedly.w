@@ -1,0 +1,1 @@
+{"index": 341759, "D": "in a way that is surprising or unforeseen", "S": ["quickly ", "suddenly ", "unusually "], "A": ["advisedly ", "deliberately ", "intentionally ", "normally ", "obviously ", "regularly "]}

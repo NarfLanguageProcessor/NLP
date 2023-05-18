@@ -1,0 +1,1 @@
+{"index": 134199, "D": "a professional murderer.", "S": ["gun ", "professional murderer ", "rodman ", "torpedo ", "triggerman "], "A": []}

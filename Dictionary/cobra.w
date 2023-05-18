@@ -1,0 +1,1 @@
+{"index": 61248, "D": "any of several highly venomous, Old World elapid  snakes of the genera Naja and Ophiophagus, characterized by the ability to flatten the neck into a hoodlike form when disturbed.", "S": ["adder ", "asp ", "copperhead ", "rattle ", "snake "], "A": []}

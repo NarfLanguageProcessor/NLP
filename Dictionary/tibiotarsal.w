@@ -1,0 +1,1 @@
+{"index": 323178, "D": "the main bone of the leg of a bird, between the femur and tarsometatarsus, formed by the fusion of several tarsal bones with the tibia. ", "S": [], "A": []}

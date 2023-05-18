@@ -1,0 +1,1 @@
+{"index": 291231, "D": "of, relating to, or involving a sinus. ", "S": [], "A": []}

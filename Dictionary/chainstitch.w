@@ -1,0 +1,1 @@
+{"index": 51997, "D": "to sew or crochet using a chain stitch. ", "S": [], "A": []}

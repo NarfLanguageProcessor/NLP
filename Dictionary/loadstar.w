@@ -1,0 +1,1 @@
+{"index": 174085, "D": "a variant of lodestar. ", "S": [], "A": []}

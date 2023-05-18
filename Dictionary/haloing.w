@@ -1,0 +1,1 @@
+{"index": 132821, "D": "a geometric shape, usually in the form of a disk, circle, ring, or rayed structure, traditionally representing a radiant light around or above the head of a divine or sacred personage, an ancient or medieval monarch, etc.", "S": ["enclose ", "encompass ", "envelop ", "hem in ", "surround "], "A": ["free ", "let go ", "release "]}

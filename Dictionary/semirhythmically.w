@@ -1,0 +1,1 @@
+{"index": 284876, "D": "periodic, as motion, or a drumbeat.", "S": [], "A": []}

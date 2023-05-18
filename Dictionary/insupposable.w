@@ -1,0 +1,1 @@
+{"index": 154105, "D": [], "S": ["extraordinary ", "implausible ", "impossible ", "improbable ", "incredible ", "mind-boggling ", "strange ", "unbelievable ", "unheard-of ", "unimaginable ", "unthinkable "], "A": ["believable ", "common ", "credible ", "familiar ", "likely ", "normal ", "plausible ", "possible ", "reasonable ", "tenable ", "usual "]}

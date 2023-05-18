@@ -1,0 +1,1 @@
+{"index": 203522, "D": "resembling an enigma,  or a puzzling occurrence, situation, statement, person, etc.; perplexing; mysterious", "S": [], "A": []}

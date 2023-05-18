@@ -1,0 +1,1 @@
+{"index": 255877, "D": "Post, Telegraph, and Telephone (the government-operated system, as in France or Turkey).", "S": [], "A": []}

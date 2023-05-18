@@ -1,0 +1,1 @@
+{"index": 79325, "D": "in a clear and definite  manner; unambiguously.", "S": ["absolutely ", "clearly ", "decidedly ", "doubtless ", "easily ", "finally ", "obviously ", "plainly ", "surely ", "undeniably ", "unequivocally ", "unquestionably "], "A": ["doubtfully ", "dubiously ", "questionable ", "questionably ", "uncertain "]}

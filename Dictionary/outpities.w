@@ -1,0 +1,1 @@
+{"index": 217077, "D": "sympathetic or kindly sorrow evoked by the suffering, distress, or misfortune of another, often leading one to give relief or aid or to show mercy", "S": [], "A": []}

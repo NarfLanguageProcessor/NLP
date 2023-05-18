@@ -1,0 +1,1 @@
+{"index": 187602, "D": "to imitate or copy in action, speech, etc., often playfully or derisively.", "S": [], "A": []}

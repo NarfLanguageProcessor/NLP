@@ -1,0 +1,1 @@
+{"index": 17117, "D": "the point in the orbit of a heavenly body farthest from a primary other than the earth or the sun.", "S": [], "A": []}

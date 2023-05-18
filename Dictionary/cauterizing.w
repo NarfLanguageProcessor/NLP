@@ -1,0 +1,1 @@
+{"index": 50109, "D": "to burn with a hot iron, electric current, fire, or a caustic, especially for curative purposes; treat with a cautery. ", "S": ["burn ", "sear ", "singe "], "A": []}

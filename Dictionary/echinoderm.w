@@ -1,0 +1,1 @@
+{"index": 95223, "D": "any marine animal of the invertebrate phylum Echinodermata, having a radiating arrangement of parts and a body wall stiffened by calcareous pieces that may protrude as spines and including the starfishes, sea urchins, sea cucumbers, etc.", "S": [], "A": []}

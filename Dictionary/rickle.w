@@ -1,0 +1,1 @@
+{"index": 272593, "D": "an unsteady or shaky structure, esp a dilapidated building", "S": [], "A": []}

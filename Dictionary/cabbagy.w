@@ -1,0 +1,1 @@
+{"index": 43889, "D": "having the characteristics of the cabbage  as in odor, taste, or color; cabbagelike.", "S": [], "A": []}

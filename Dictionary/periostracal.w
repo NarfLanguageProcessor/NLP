@@ -1,0 +1,1 @@
+{"index": 231177, "D": "the external, chitinlike covering of the shell of certain mollusks that protects the limy portion from acids.", "S": [], "A": []}

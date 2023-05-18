@@ -1,0 +1,1 @@
+{"index": 91446, "D": "a set of artistic or literary premises or assumptions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351000, "D": "bright or glossy in appearance.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 95587, "D": "(of a parasitic animal) living on the surface of its host.", "S": [], "A": []}

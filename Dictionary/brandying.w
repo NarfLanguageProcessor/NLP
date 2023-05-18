@@ -1,0 +1,1 @@
+{"index": 39914, "D": "a spirit distilled from wine or from the fermented juice of grapes or of apples, peaches, plums, etc.", "S": [], "A": []}

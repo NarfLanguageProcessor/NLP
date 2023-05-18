@@ -1,0 +1,1 @@
+{"index": 20972, "D": "any solitary or colonial tunicate of the class Ascidiacea, exhibiting in the larval stage the vertebrate characteristics of a notocord and hollow nerve cord.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 315877, "D": "one of a family of mandolinlike stringed instruments of southern Slavic regions.", "S": [], "A": []}

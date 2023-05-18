@@ -1,0 +1,1 @@
+{"index": 296932, "D": "able to pay all just debts.", "S": [], "A": []}

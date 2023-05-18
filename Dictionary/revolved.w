@@ -1,0 +1,1 @@
+{"index": 271523, "D": "to move in a circular or curving course or orbit", "S": ["fulfilled ", "managed ", "negotiated ", "regulated "], "A": []}

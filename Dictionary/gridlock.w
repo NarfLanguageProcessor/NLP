@@ -1,0 +1,1 @@
+{"index": 129788, "D": "the stoppage of free vehicular movement in an urban area because key intersections are blocked by traffic.", "S": ["bottleneck ", "congestion ", "impasse ", "logjam "], "A": ["clearance ", "opening "]}

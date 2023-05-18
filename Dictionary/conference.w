@@ -1,0 +1,1 @@
+{"index": 65818, "D": "a meeting for consultation or discussion", "S": ["consultation ", "discussion ", "forum ", "interview ", "meeting ", "seminar ", "symposium ", "talk "], "A": ["silence ", "quiet "]}

@@ -1,0 +1,1 @@
+{"index": 332532, "D": "a heavy stocking cap worn in Canada.", "S": [], "A": []}

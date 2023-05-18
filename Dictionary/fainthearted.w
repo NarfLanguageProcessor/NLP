@@ -1,0 +1,1 @@
+{"index": 109288, "D": "lacking courage; cowardly; timorous.", "S": ["afraid ", "cowardly ", "cowed ", "cowering ", "fearful ", "frightened ", "gutless ", "having cold feet ", "intimidated ", "lily-livered ", "meek ", "mousy ", "spineless ", "unassertive ", "weak ", "wimpy ", "yellow "], "A": []}

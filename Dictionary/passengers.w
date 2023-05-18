@@ -1,0 +1,1 @@
+{"index": 227303, "D": "a person who is traveling in an automobile, bus, train, airplane, or other conveyance, especially one who is not the driver, pilot, or the like.", "S": ["freight ", "gridlock ", "influx ", "movement ", "service ", "shipment ", "transit ", "transport ", "transportation ", "travel "], "A": ["indifference "]}

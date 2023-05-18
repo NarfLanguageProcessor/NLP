@@ -1,0 +1,1 @@
+{"index": 78510, "D": "having a somewhat steep downward slope.", "S": ["abrupt ", "arduous ", "hilly ", "lofty ", "precipitous "], "A": ["gradual ", "flat ", "low "]}

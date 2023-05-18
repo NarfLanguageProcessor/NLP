@@ -1,0 +1,1 @@
+{"index": 182031, "D": "to settle (disputes, strikes, etc.) as an intermediary between parties; reconcile. ", "S": [], "A": []}

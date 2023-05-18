@@ -1,0 +1,1 @@
+{"index": 255100, "D": "a scalar  quantity that changes sign when the sense of the orientation of the coordinate system is changed.", "S": [], "A": []}

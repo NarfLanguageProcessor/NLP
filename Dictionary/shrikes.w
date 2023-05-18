@@ -1,0 +1,1 @@
+{"index": 289195, "D": "any of numerous predaceous oscine  birds of the family Laniidae, having a strong, hooked, and toothed bill, feeding on insects and sometimes on small birds and other animals", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 117944, "D": "a spring of water; fountain. ", "S": ["wellspring "], "A": ["conclusion ", "effect ", "end ", "result "]}

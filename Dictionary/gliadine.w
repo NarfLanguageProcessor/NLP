@@ -1,0 +1,1 @@
+{"index": 126171, "D": "a prolamin derived from the gluten of grain, as wheat or rye, used chiefly as a nutrient in high-protein diets.", "S": [], "A": []}

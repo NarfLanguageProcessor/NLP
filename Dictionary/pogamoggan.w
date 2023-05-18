@@ -1,0 +1,1 @@
+{"index": 241232, "D": "a club with a knobbed head, used by various American Indian peoples.", "S": [], "A": []}

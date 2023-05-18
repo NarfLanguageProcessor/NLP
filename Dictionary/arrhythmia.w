@@ -1,0 +1,1 @@
+{"index": 20234, "D": "any disturbance in the rhythm of the heartbeat.", "S": [], "A": []}

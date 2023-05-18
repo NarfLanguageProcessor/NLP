@@ -1,0 +1,1 @@
+{"index": 201878, "D": "the state of being certain. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 172249, "D": "a part of the refrain to a song deriding the Irish Roman Catholics, popular in England during and after the revolution of 1688.", "S": [], "A": []}

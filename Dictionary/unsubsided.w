@@ -1,0 +1,1 @@
+{"index": 352272, "D": "to sink to a low or lower level.", "S": [], "A": []}

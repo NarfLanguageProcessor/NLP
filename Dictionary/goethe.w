@@ -1,0 +1,1 @@
+{"index": 127404, "D": "German poet, dramatist, novelist, and philosopher.", "S": [], "A": []}

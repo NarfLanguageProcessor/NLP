@@ -1,0 +1,1 @@
+{"index": 44962, "D": "a person who calculates  or computes.", "S": ["PDA ", "computer "], "A": []}

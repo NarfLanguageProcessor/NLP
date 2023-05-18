@@ -1,0 +1,1 @@
+{"index": 108950, "D": "the act of facing the puck, as at the start of a game or period.", "S": ["altercation ", "bickering ", "brawl ", "clash ", "controversy ", "debate ", "disagreement ", "dispute ", "exchange ", "feud ", "quarrel ", "squabble "], "A": ["agreement ", "harmony ", "peace ", "calm "]}

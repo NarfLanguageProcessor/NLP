@@ -1,0 +1,1 @@
+{"index": 69674, "D": "responsive to effort or impulse; answering.", "S": [], "A": []}

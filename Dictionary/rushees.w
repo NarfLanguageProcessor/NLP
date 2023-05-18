@@ -1,0 +1,1 @@
+{"index": 275778, "D": "a college student who is rushed  by a fraternity or sorority.", "S": [], "A": []}

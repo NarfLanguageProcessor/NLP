@@ -1,0 +1,1 @@
+{"index": 257433, "D": "a variant of koph. ", "S": [], "A": []}

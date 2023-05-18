@@ -1,0 +1,1 @@
+{"index": 358226, "D": "the art or practice of speaking, with little or no lip movement, in such a manner that the voice does not appear to come from the speaker but from another source, as from a wooden dummy.", "S": [], "A": []}

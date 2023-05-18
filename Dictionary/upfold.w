@@ -1,0 +1,1 @@
+{"index": 354671, "D": "to fold up or together", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 252157, "D": "a presiding officer of an assembly; chairperson.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 9958, "D": "an opaque, ash-colored secretion of the sperm whale intestine, usually found floating on the ocean or cast ashore", "S": [], "A": []}

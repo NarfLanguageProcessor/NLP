@@ -1,0 +1,1 @@
+{"index": 172161, "D": "any of various shrubs or trees belonging to the genus Ligustrum, of the olive family, comprising the privets.", "S": [], "A": []}

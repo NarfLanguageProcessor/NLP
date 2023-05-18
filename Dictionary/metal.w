@@ -1,0 +1,1 @@
+{"index": 184682, "D": "any of a class of elementary substances, as gold, silver, or copper, all of which are crystalline when solid and many of which are characterized by opacity, ductility, conductivity, and a unique luster when freshly fractured.", "S": ["alloy ", "hardware ", "ingot ", "mineral ", "ore "], "A": []}

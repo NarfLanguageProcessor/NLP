@@ -1,0 +1,1 @@
+{"index": 253149, "D": "of or relating to poetic meter and versification", "S": [], "A": []}

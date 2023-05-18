@@ -1,0 +1,1 @@
+{"index": 114308, "D": "a European plantain, Plantago psyllium, having seeds that are used in medicine.", "S": [], "A": []}

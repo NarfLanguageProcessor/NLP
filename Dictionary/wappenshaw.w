@@ -1,0 +1,1 @@
+{"index": 362515, "D": "a periodic muster or review of troops or persons under arms, formerly held in certain districts of Scotland to satisfy military chiefs that their men were properly armed and faithful to the local lord or chieftain.", "S": [], "A": []}

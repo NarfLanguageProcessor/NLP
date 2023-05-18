@@ -1,0 +1,1 @@
+{"index": 92445, "D": "dull; cheerless; lacking in spirit, brightness, etc.", "S": ["blandness ", "boringness ", "colorlessness ", "dinginess ", "dowdiness ", "dreariness ", "dryness ", "flatness ", "flavorlessness ", "gloominess ", "insipidity ", "insipidness ", "jejuneness ", "lifelessness ", "stodginess ", "vapidity ", "vapidness "], "A": []}

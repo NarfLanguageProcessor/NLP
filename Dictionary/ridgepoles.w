@@ -1,0 +1,1 @@
+{"index": 272670, "D": "the horizontal timber or member at the top of a roof, to which the upper ends of the rafters are fastened.", "S": [], "A": []}

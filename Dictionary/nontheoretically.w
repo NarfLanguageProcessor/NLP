@@ -1,0 +1,1 @@
+{"index": 207877, "D": "in principle; according to reasonable assumptions or rules, as opposed to what actually happens", "S": [], "A": []}

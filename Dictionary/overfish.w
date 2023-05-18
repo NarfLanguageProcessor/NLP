@@ -1,0 +1,1 @@
+{"index": 219377, "D": "to fish  (an area or a marine organism) excessively, or to exhaust the supply of usable fish in (certain waters)", "S": [], "A": []}

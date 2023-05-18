@@ -1,0 +1,1 @@
+{"index": 120588, "D": "spindle-shaped; rounded and tapering from the middle toward each end, as some roots.", "S": ["acuminate ", "taper ", "wedged "], "A": ["widening "]}

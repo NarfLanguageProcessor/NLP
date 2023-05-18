@@ -1,0 +1,1 @@
+{"index": 268100, "D": "to drive or force back (an assailant, invader, etc.).", "S": ["appalled ", "outraged ", "queasy ", "tired ", "unhappy ", "weary "], "A": ["activated ", "fresh "]}

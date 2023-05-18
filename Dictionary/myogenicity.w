@@ -1,0 +1,1 @@
+{"index": 188136, "D": "originating in muscle, as an impulse or sensation.", "S": [], "A": []}

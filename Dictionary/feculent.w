@@ -1,0 +1,1 @@
+{"index": 110772, "D": "full of dregs or fecal matter; foul, turbid, or muddy.", "S": ["disheveled ", "grimy ", "grubby ", "grungy ", "muddy ", "nasty ", "soiled ", "squalid "], "A": ["clean ", "pure "]}

@@ -1,0 +1,1 @@
+{"index": 326036, "D": "Compare Tanach. ", "S": [], "A": []}

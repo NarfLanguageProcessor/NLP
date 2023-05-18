@@ -1,0 +1,1 @@
+{"index": 131459, "D": "Compare Nebraskan (def. 4). ", "S": [], "A": []}

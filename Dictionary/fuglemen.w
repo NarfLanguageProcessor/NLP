@@ -1,0 +1,1 @@
+{"index": 119840, "D": "(formerly) a soldier placed in front of a military company as a good model during training drills.", "S": [], "A": []}

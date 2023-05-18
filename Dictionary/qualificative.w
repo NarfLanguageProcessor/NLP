@@ -1,0 +1,1 @@
+{"index": 257864, "D": [], "S": ["contingent "], "A": ["wasting "]}

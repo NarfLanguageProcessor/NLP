@@ -1,0 +1,1 @@
+{"index": 129176, "D": "a device used to cut grass,  as a lawn mower.", "S": ["mower "], "A": []}

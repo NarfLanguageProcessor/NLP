@@ -1,0 +1,1 @@
+{"index": 130154, "D": "a saloon or barroom, especially a cheap one.", "S": ["bar ", "hotel ", "inn ", "lodge ", "lounge ", "pub ", "saloon ", "watering hole "], "A": []}

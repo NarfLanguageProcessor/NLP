@@ -1,0 +1,1 @@
+{"index": 306771, "D": "a boss, knob, nailhead, or other protuberance projecting from a surface or part, especially as an ornament.", "S": ["carpeted ", "dotted ", "overgrown "], "A": ["bare ", "empty ", "exposed ", "open ", "passed over ", "revealed ", "unfurnished ", "unheeded ", "unnoticed "]}

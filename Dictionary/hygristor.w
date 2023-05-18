@@ -1,0 +1,1 @@
+{"index": 139337, "D": "an electronic component the resistance of which varies with humidity", "S": [], "A": []}

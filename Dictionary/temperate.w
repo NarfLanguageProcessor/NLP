@@ -1,0 +1,1 @@
+{"index": 318518, "D": "moderate or self-restrained; not extreme in opinion, statement, etc.", "S": ["agreeable ", "balmy ", "levelheaded ", "mild ", "pleasant ", "restrained ", "sober "], "A": ["disagreeable ", "harsh ", "hateful ", "nasty ", "nervous ", "unpleasant "]}

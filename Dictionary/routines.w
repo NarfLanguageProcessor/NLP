@@ -1,0 +1,1 @@
+{"index": 274963, "D": "a customary or regular course of procedure.", "S": ["attitude ", "codes ", "etiquette ", "formalities ", "manners ", "morals ", "policies ", "practices ", "principles ", "protocol ", "rites ", "rituals ", "rules ", "standards "], "A": ["bad manners "]}

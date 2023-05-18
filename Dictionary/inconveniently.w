@@ -1,0 +1,1 @@
+{"index": 150332, "D": "not easily accessible or at hand", "S": ["awkwardly ", "inappropriately "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 352153, "D": "characterized by vigorous exertion, as action, efforts, life, etc.", "S": [], "A": []}

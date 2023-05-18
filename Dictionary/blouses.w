@@ -1,0 +1,1 @@
+{"index": 36582, "D": "a usually lightweight, loose-fitting garment for women and children, covering the body from the neck or shoulders more or less to the waistline, with or without a collar and sleeves, worn inside or outside a skirt, slacks, etc.", "S": ["bodice ", "pullover ", "turtleneck "], "A": []}

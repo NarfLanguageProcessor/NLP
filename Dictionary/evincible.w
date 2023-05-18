@@ -1,0 +1,1 @@
+{"index": 106261, "D": "to show clearly; make evident or manifest; prove.", "S": ["conclusive ", "irrefutable ", "obvious ", "undeniable ", "unmistakable ", "verifiable "], "A": ["indefinite ", "uncertain "]}

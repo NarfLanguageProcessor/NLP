@@ -1,0 +1,1 @@
+{"index": 366277, "D": "to kill  by or die from exposure to the cold of winter,  as wheat.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 122083, "D": "the study of the material discarded by a society to learn what it reveals about social or cultural patterns.", "S": [], "A": []}

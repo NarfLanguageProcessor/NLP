@@ -1,0 +1,1 @@
+{"index": 295808, "D": "any of several early-blooming bulbous plants belonging to the genus Galanthus, of the amaryllis family, native to Eurasia, especially G. nivalis, having drooping white flowers with green markings.", "S": [], "A": []}

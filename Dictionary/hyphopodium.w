@@ -1,0 +1,1 @@
+{"index": 140674, "D": "(in a fungus) a specialized hyphal branch, composed of one or two usually lobed cells, serving for attachment and for the absorption of food.", "S": [], "A": []}

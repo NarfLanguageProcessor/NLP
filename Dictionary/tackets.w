@@ -1,0 +1,1 @@
+{"index": 315074, "D": "a nail or tack, especially a hobnail.", "S": [], "A": []}

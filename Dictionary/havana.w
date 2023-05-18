@@ -1,0 +1,1 @@
+{"index": 134385, "D": "a seaport in and the capital of Cuba, on the northwestern coast.", "S": ["belvedere ", "bouquet ", "cheroot ", "claro ", "corona ", "panatela ", "smoke ", "stogie ", "stogy ", "tobacco ", "toby ", "weed "], "A": []}

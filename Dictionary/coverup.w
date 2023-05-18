@@ -1,0 +1,1 @@
+{"index": 71508, "D": "any action, stratagem, or other means of concealing or preventing investigation or exposure.", "S": ["camouflage ", "cloak ", "veil "], "A": ["reality ", "truth "]}

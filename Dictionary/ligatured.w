@@ -1,0 +1,1 @@
+{"index": 171993, "D": "the act of binding or tying up", "S": [], "A": []}

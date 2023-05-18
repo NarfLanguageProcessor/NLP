@@ -1,0 +1,1 @@
+{"index": 33777, "D": "utterly intolerant of any creed, belief, or opinion that differs from one's own.", "S": ["biased "], "A": ["broad-minded ", "fair ", "humanitarian ", "just ", "open-minded ", "tolerant ", "unprejudiced "]}

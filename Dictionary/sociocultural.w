@@ -1,0 +1,1 @@
+{"index": 296160, "D": "of, relating to, or signifying the combination or interaction of social and cultural  elements.", "S": [], "A": []}

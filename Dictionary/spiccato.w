@@ -1,0 +1,1 @@
+{"index": 299632, "D": "(of violin music) performed with short, abrupt, rebounding motions of the bow.", "S": [], "A": []}

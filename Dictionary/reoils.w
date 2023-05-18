@@ -1,0 +1,1 @@
+{"index": 267859, "D": "any of a large class of substances typically unctuous, viscous, combustible, liquid at ordinary temperatures, and soluble in ether or alcohol but not in water", "S": [], "A": []}

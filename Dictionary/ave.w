@@ -1,0 +1,1 @@
+{"index": 24621, "D": "hail; welcome.", "S": ["Ave Maria ", "Hail Mary pass ", "Hail Mary play ", "last-minute pass "], "A": []}

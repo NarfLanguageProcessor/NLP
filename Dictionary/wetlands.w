@@ -1,0 +1,1 @@
+{"index": 364304, "D": "land that has a wet  and spongy soil, as a marsh, swamp, or bog.", "S": ["lowland ", "marshland "], "A": []}

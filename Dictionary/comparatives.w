@@ -1,0 +1,1 @@
+{"index": 64405, "D": "of or relating to comparison. ", "S": [], "A": []}

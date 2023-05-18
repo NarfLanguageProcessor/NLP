@@ -1,0 +1,1 @@
+{"index": 217089, "D": "(used as a polite addition to requests, commands, etc.) if you would be so obliging; kindly", "S": [], "A": []}

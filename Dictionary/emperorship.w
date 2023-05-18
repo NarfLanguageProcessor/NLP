@@ -1,0 +1,1 @@
+{"index": 98735, "D": "the male sovereign or supreme ruler of an empire", "S": [], "A": []}

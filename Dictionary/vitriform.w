@@ -1,0 +1,1 @@
+{"index": 360643, "D": "having the form or appearance of glass.", "S": [], "A": []}

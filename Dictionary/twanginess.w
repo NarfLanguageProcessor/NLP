@@ -1,0 +1,1 @@
+{"index": 333177, "D": "having the sharp, vibrating tone of a plucked string.", "S": [], "A": []}

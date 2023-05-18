@@ -1,0 +1,1 @@
+{"index": 278590, "D": "a long band or scarf worn over one shoulder or around the waist, as by military officers as a part of the uniform or by women and children for ornament.", "S": [], "A": []}

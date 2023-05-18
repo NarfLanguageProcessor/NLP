@@ -1,0 +1,1 @@
+{"index": 95112, "D": "a discoloration due to extravasation of blood, as in a bruise.", "S": [], "A": []}

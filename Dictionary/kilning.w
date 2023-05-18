@@ -1,0 +1,1 @@
+{"index": 164626, "D": "a furnace or oven for burning, baking, or drying something, especially one for firing pottery, calcining limestone, or baking bricks.", "S": ["bake ", "blot ", "deplete ", "drain ", "empty ", "evaporate ", "exhaust ", "sear ", "shrivel ", "wilt ", "wipe ", "wither "], "A": ["bloom ", "dampen ", "expand ", "fill ", "grow ", "soak ", "wet ", "moisten "]}

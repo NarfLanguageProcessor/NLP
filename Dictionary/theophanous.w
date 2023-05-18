@@ -1,0 +1,1 @@
+{"index": 321077, "D": "a manifestation or appearance of God or a god to a person.", "S": [], "A": []}

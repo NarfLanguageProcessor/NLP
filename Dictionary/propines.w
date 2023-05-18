@@ -1,0 +1,1 @@
+{"index": 252680, "D": "to offer as a present.", "S": [], "A": []}

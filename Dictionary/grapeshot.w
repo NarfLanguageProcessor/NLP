@@ -1,0 +1,1 @@
+{"index": 129053, "D": "a cluster of small cast-iron balls formerly used as a charge for a cannon.", "S": [], "A": []}

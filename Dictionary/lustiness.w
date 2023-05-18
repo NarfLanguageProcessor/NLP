@@ -1,0 +1,1 @@
+{"index": 176415, "D": "full of or characterized by healthy vigor.", "S": ["bloom ", "complexion ", "constitution ", "energy ", "euphoria ", "fettle ", "fitness ", "form ", "hardihood ", "hardiness ", "healthfulness ", "healthiness ", "heartiness ", "pink ", "prime ", "robustness ", "salubriousness ", "salubrity "], "A": ["poor health "]}

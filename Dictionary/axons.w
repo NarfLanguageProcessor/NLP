@@ -1,0 +1,1 @@
+{"index": 25198, "D": "the appendage of the neuron that transmits impulses away from the cell body.", "S": [], "A": []}

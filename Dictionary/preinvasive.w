@@ -1,0 +1,1 @@
+{"index": 248069, "D": "of or relating to a stage preceding invasion of the tissues; in situ.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 214978, "D": "a common white or pink mineral of the feldspar group, KAlSi3O8, having two good cleavages at right angles, and found in silica-rich igneous rocks", "S": [], "A": []}

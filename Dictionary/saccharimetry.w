@@ -1,0 +1,1 @@
+{"index": 276172, "D": "the process of measuring the amount of sugar in a sample, as with a saccharimeter or by polarimetry.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 153490, "D": "an insectivorous  animal or plant.", "S": [], "A": []}

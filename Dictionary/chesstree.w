@@ -1,0 +1,1 @@
+{"index": 53933, "D": "(in the 17th and 18th centuries) a wooden fastening with one or more sheaves, attached to the topside of a sailing vessel, through which the windward tack of a course was rove.", "S": [], "A": []}

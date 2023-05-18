@@ -1,0 +1,1 @@
+{"index": 297533, "D": "a woman who practices sorcery;  witch.", "S": ["hag ", "hex ", "pythoness ", "sibyl ", "siren ", "witch "], "A": []}

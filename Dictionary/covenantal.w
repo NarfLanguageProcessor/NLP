@@ -1,0 +1,1 @@
+{"index": 71463, "D": "an agreement, usually formal, between two or more persons to do or not do something specified.", "S": [], "A": []}

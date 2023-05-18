@@ -1,0 +1,1 @@
+{"index": 174823, "D": "a member of a people inhabiting the mountainous regions of southwestern China near the eastern borders of Tibet and Myanmar (Burma).", "S": [], "A": []}

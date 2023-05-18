@@ -1,0 +1,1 @@
+{"index": 205872, "D": "not existing or intended to exist for an indefinite time", "S": [], "A": []}

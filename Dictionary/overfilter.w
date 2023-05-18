@@ -1,0 +1,1 @@
+{"index": 219374, "D": "any substance, as cloth, paper, porous porcelain, or a layer of charcoal or sand, through which liquid or gas is passed to remove suspended impurities or to recover solids.", "S": [], "A": []}

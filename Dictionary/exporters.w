@@ -1,0 +1,1 @@
+{"index": 107942, "D": "to ship (commodities) to other countries or places for sale, exchange, etc.", "S": ["broker ", "dealer ", "operator ", "retailer ", "seller ", "shipper ", "shopkeeper ", "trader ", "trafficker ", "vendor ", "wholesaler "], "A": ["customer "]}

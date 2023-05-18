@@ -1,0 +1,1 @@
+{"index": 80650, "D": "to rid of mystery or obscurity; clarify", "S": ["announcement ", "declaration ", "disclosure ", "proclamation ", "revealing ", "tossing ", "unmasking "], "A": ["secret "]}

@@ -1,0 +1,1 @@
+{"index": 239249, "D": "any of a group of substances that are used in plastics  or other materials to impart viscosity, flexibility, softness, or other properties to the finished product.", "S": [], "A": []}

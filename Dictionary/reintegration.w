@@ -1,0 +1,1 @@
+{"index": 266426, "D": "restoration to a unified state.", "S": [], "A": []}

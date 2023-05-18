@@ -1,0 +1,1 @@
+{"index": 251807, "D": "penetrating or entering deeply into subjects of thought or knowledge; having deep insight or understanding", "S": [], "A": []}

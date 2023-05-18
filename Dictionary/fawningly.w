@@ -1,0 +1,1 @@
+{"index": 110551, "D": "seeking favor by flattery or a servile way of behaving", "S": ["subserviently "], "A": []}

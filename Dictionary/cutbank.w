@@ -1,0 +1,1 @@
+{"index": 75744, "D": "a nearly vertical cliff produced by erosion of the banks  of a stream.", "S": [], "A": []}

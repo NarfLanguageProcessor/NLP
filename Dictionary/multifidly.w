@@ -1,0 +1,1 @@
+{"index": 195087, "D": "cleft into many parts, divisions, or lobes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 195463, "D": "a children's game played with a pocketknife, the object being to cause the blade to stick in the ground or a wooden surface by flipping the knife in a number of prescribed ways or from a number of prescribed positions.", "S": [], "A": []}

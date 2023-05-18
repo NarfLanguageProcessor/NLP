@@ -1,0 +1,1 @@
+{"index": 308415, "D": "elevated or lofty in thought, language, etc.", "S": ["abstract ", "divine ", "exalted ", "glorious ", "gorgeous ", "heavenly ", "superb ", "transcendent "], "A": ["bad ", "inferior "]}

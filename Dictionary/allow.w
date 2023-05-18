@@ -1,0 +1,1 @@
+{"index": 9007, "D": "to give permission to or for; permit", "S": ["grant "], "A": ["deny ", "disagree ", "disavow ", "disown ", "dispute ", "dissent ", "reject ", "repudiate "]}

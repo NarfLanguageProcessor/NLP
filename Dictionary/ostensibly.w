@@ -1,0 +1,1 @@
+{"index": 215543, "D": "apparently; seemingly", "S": ["evidently ", "officially ", "seemingly ", "supposedly "], "A": ["improbably ", "obscurely ", "unlikely "]}

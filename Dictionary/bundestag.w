@@ -1,0 +1,1 @@
+{"index": 42812, "D": "the lower house of the federal legislature of Germany.", "S": [], "A": []}

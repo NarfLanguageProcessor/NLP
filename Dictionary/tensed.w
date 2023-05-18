@@ -1,0 +1,1 @@
+{"index": 318969, "D": "stretched tight, as a cord, fiber, etc.; drawn taut; rigid. ", "S": ["anxious ", "frazzled ", "nervous ", "strained ", "unnerved ", "worried "], "A": ["relaxed "]}

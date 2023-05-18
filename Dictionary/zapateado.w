@@ -1,0 +1,1 @@
+{"index": 368866, "D": "a Spanish dance for a solo performer, marked by rhythmic tapping of the heels.", "S": [], "A": []}

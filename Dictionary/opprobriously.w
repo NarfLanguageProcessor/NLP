@@ -1,0 +1,1 @@
+{"index": 213725, "D": "conveying or expressing opprobrium,  as language or a speaker", "S": [], "A": []}

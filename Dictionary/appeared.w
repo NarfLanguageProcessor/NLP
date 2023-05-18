@@ -1,0 +1,1 @@
+{"index": 17614, "D": "to come into sight; become visible", "S": ["arose ", "came "], "A": []}

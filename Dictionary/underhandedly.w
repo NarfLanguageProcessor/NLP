@@ -1,0 +1,1 @@
+{"index": 339314, "D": "not open and aboveboard; secret and crafty or dishonorable", "S": ["maliciously "], "A": ["honestly ", "truthfully "]}

@@ -1,0 +1,1 @@
+{"index": 41844, "D": "abruptness and bluntness in manner; brusqueness.", "S": [], "A": []}

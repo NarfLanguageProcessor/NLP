@@ -1,0 +1,1 @@
+{"index": 28829, "D": "a person or thing that bastes. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43509, "D": "an amount or number as great as a bus  can hold.", "S": [], "A": []}

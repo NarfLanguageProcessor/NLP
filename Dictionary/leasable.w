@@ -1,0 +1,1 @@
+{"index": 169674, "D": "a contract renting land, buildings, etc., to another; a contract or instrument conveying property to another for a specified period or for a period determinable at the will of either lessor  or lessee  in consideration of rent or other compensation.", "S": [], "A": []}

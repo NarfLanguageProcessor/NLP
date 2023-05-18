@@ -1,0 +1,1 @@
+{"index": 44271, "D": "a colorless, viscous, toxic ptomaine, C5H14N2, having an offensive odor, formed by the action of bacilli on meat, fish, and other protein", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 316533, "D": "of or referring to a Mesolithic culture characterized by small flint instruments", "S": [], "A": []}

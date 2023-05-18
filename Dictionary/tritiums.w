@@ -1,0 +1,1 @@
+{"index": 330730, "D": "an isotope of hydrogen having an atomic weight of three. Symbols", "S": [], "A": []}

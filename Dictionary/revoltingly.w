@@ -1,0 +1,1 @@
+{"index": 271488, "D": "disgusting; repulsive", "S": [], "A": []}

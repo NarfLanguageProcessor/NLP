@@ -1,0 +1,1 @@
+{"index": 120240, "D": "having the form of a fungus or mushroom.", "S": [], "A": []}

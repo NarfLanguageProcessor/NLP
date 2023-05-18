@@ -1,0 +1,1 @@
+{"index": 114316, "D": "a speck; a small bit", "S": ["checkered ", "discolored ", "motley ", "parti-colored ", "speckled ", "spotted ", "stippled ", "variegated "], "A": ["uncolored ", "unspotted "]}

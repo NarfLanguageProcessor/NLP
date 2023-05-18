@@ -1,0 +1,1 @@
+{"index": 268432, "D": "to transfer (a plant) to another, especially larger, pot. ", "S": [], "A": []}

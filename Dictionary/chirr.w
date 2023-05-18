@@ -1,0 +1,1 @@
+{"index": 54843, "D": "to make a characteristic shrill, trilling sound, as a grasshopper.", "S": ["groan ", "screech ", "squeak "], "A": []}

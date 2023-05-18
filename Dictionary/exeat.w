@@ -1,0 +1,1 @@
+{"index": 106933, "D": "permission granted by a bishop to a priest to leave the diocese.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 9099, "D": "an annual publication containing a calendar for the coming year, the times of such events and phenomena as anniversaries, sunrises and sunsets, phases of the moon, tides, etc., and other statistical information and related topics.", "S": ["calendar ", "journal ", "yearbook "], "A": []}

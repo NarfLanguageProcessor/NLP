@@ -1,0 +1,1 @@
+{"index": 244309, "D": "the doctrine or belief that the second coming of Christ will follow the millennium.", "S": [], "A": []}

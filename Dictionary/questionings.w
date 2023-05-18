@@ -1,0 +1,1 @@
+{"index": 258429, "D": "indicating or implying a question", "S": ["examination "], "A": []}

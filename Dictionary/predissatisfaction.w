@@ -1,0 +1,1 @@
+{"index": 247082, "D": "the state or attitude of not being satisfied; discontent; displeasure.", "S": [], "A": []}

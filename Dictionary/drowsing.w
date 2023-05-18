@@ -1,0 +1,1 @@
+{"index": 93472, "D": "to be sleepy or half-asleep.", "S": ["crashed ", "dozing ", "dreaming ", "lounging ", "napping ", "quiet ", "reclining ", "relaxing ", "reposing ", "sleeping ", "snoozing ", "unwinding "], "A": ["active "]}

@@ -1,0 +1,1 @@
+{"index": 341549, "D": "pleasant in sound; agreeable to the ear; characterized by euphony", "S": [], "A": []}

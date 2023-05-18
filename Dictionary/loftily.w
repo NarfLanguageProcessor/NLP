@@ -1,0 +1,1 @@
+{"index": 174540, "D": "high in the air; in an imposing or towering manner", "S": ["haughtily ", "insolently ", "superciliously ", "with one's nose in the air "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 287490, "D": [], "S": ["agriculture ", "breeding ", "cultivation ", "culture ", "gardening ", "grazing ", "production ", "ranching "], "A": ["destruction "]}

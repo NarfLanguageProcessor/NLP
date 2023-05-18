@@ -1,0 +1,1 @@
+{"index": 32627, "D": "to strew or cover (a surface).", "S": ["broadcast ", "cast ", "dispersed ", "disseminated ", "distributed ", "planted ", "spread ", "strewn "], "A": []}

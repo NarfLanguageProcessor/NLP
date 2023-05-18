@@ -1,0 +1,1 @@
+{"index": 12293, "D": "of or relating to the Andaman Islands,  the Andamanese  people, or their language.", "S": [], "A": []}

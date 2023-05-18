@@ -1,0 +1,1 @@
+{"index": 362737, "D": "an airplane designed for, or used in, warfare.", "S": [], "A": []}

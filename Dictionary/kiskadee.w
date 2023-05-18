@@ -1,0 +1,1 @@
+{"index": 165120, "D": "any of several American flycatchers of the genus Pitangus, especially P. sulphuratus(great kiskadee ), ranging from the southwest U.S. to Argentina and noted for their loud calls and aggressive nature.", "S": [], "A": []}

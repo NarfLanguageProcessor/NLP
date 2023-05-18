@@ -1,0 +1,1 @@
+{"index": 197976, "D": "a product of the seeds of a tropical tree, Azadirachta indica, of the mahogany family, that disrupts reproduction in insects, used as an insecticide.", "S": [], "A": []}

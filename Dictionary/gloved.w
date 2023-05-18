@@ -1,0 +1,1 @@
+{"index": 126776, "D": "a covering for the hand made with a separate sheath for each finger and for the thumb.", "S": ["bid to combat ", "gauntlet ", "glove ", "mobilize ", "open hostilities ", "rally ", "take up arms "], "A": []}

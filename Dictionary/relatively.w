@@ -1,0 +1,1 @@
+{"index": 266760, "D": "in a relative manner", "S": ["almost ", "approximately ", "comparably ", "comparatively ", "nearly ", "rather ", "somewhat "], "A": []}

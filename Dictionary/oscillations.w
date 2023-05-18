@@ -1,0 +1,1 @@
+{"index": 215263, "D": "an act or instance of oscillating.", "S": ["vibration "], "A": []}

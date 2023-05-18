@@ -1,0 +1,1 @@
+{"index": 145545, "D": "a writer of the earliest major source of the Hexateuch, in which God is characteristically referred to as Yahweh  rather than Elohim.", "S": [], "A": []}

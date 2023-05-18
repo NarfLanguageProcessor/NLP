@@ -1,0 +1,1 @@
+{"index": 182673, "D": "a gloomy state of mind, especially when habitual or prolonged; depression. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 277961, "D": "of or relating to health or the conditions affecting health, especially with reference to cleanliness, precautions against disease, etc.", "S": [], "A": []}

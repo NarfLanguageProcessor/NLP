@@ -1,0 +1,1 @@
+{"index": 43028, "D": "to divide an administrative agency or office into bureaus.", "S": [], "A": []}

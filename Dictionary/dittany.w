@@ -1,0 +1,1 @@
+{"index": 90147, "D": "a Cretan plant, Origanum dictamnus, of the mint family, having spikes of purple flowers and formerly believed to have medicinal qualities.", "S": [], "A": []}

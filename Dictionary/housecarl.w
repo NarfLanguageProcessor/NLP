@@ -1,0 +1,1 @@
+{"index": 144399, "D": "a member of the household troops or bodyguard of a Danish or early English king or noble.", "S": [], "A": []}

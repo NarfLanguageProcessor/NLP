@@ -1,0 +1,1 @@
+{"index": 217600, "D": [], "S": ["advent ", "birth ", "dawning "], "A": ["end ", "completion ", "conclusion ", "death ", "effect ", "ending ", "finale ", "finish ", "result ", "stop "]}

@@ -1,0 +1,1 @@
+{"index": 345934, "D": "full of, characterized by, or showing malice;  intentionally harmful; spiteful", "S": ["childlike ", "gullible ", "ignorant ", "innocuous ", "wide-eyed "], "A": ["knowledgeable ", "untrusting ", "wise ", "dishonest ", "sophisticated ", "unclear "]}

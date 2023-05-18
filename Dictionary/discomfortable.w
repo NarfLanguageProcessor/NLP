@@ -1,0 +1,1 @@
+{"index": 87452, "D": "tending to deprive of mental or physical ease or comfort", "S": [], "A": []}

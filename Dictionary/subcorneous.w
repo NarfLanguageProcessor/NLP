@@ -1,0 +1,1 @@
+{"index": 307607, "D": "consisting of a horny substance; horny.", "S": [], "A": []}

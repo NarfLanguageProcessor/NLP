@@ -1,0 +1,1 @@
+{"index": 262890, "D": "a reciprocal  state or relation.", "S": ["cooperation ", "exchange ", "mutuality ", "reciprocality ", "reciprocation "], "A": []}

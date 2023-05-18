@@ -1,0 +1,1 @@
+{"index": 165749, "D": "(functioning as singular) a less common name for jacks", "S": [], "A": []}

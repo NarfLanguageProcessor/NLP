@@ -1,0 +1,1 @@
+{"index": 129068, "D": "a minimal unit of a writing system.", "S": [], "A": []}

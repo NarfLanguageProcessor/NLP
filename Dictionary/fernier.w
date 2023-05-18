@@ -1,0 +1,1 @@
+{"index": 111421, "D": "pertaining to, consisting of, or like ferns", "S": [], "A": []}

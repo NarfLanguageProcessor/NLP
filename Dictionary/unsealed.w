@@ -1,0 +1,1 @@
+{"index": 350581, "D": "not sealed; not stamped or marked with a seal", "S": ["bare ", "defined ", "disclosed ", "discovered ", "naked ", "resolved ", "solved ", "uncovered ", "unprotected "], "A": ["clothed ", "hidden ", "ambiguous ", "blocked ", "closed ", "concealed ", "obscure ", "unclear ", "vague "]}

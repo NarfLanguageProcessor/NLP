@@ -1,0 +1,1 @@
+{"index": 256167, "D": "power, might, or force.", "S": ["clout ", "force ", "influence ", "might ", "muscle ", "potency ", "power ", "strength ", "sway ", "vigor "], "A": ["disability ", "enervation ", "impotence ", "inability ", "incapacity ", "incompetence ", "lethargy ", "powerlessness ", "weakness "]}

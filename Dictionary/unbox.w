@@ -1,0 +1,1 @@
+{"index": 336126, "D": "to remove from a box.", "S": ["take out ", "unload "], "A": ["fill ", "load ", "pack "]}

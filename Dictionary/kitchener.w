@@ -1,0 +1,1 @@
+{"index": 165170, "D": "a person employed in, or in charge of, a kitchen.", "S": [], "A": []}

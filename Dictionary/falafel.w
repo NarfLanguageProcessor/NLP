@@ -1,0 +1,1 @@
+{"index": 109399, "D": "a small croquette made with ground chickpeas or fava beans and spices, often served with salad and tahini in pita bread.", "S": [], "A": []}

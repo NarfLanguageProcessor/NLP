@@ -1,0 +1,1 @@
+{"index": 208279, "D": "capable of being vindicated", "S": [], "A": []}

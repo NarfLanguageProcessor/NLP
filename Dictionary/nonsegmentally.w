@@ -1,0 +1,1 @@
+{"index": 207100, "D": "of, relating to, or characterized by segments  or segmentation. ", "S": [], "A": []}

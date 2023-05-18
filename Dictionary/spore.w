@@ -1,0 +1,1 @@
+{"index": 300948, "D": "a walled, single- to many-celled, reproductive body of an organism, capable of giving rise to a new individual either directly or indirectly.", "S": ["bacterium ", "egg ", "germ ", "unit "], "A": []}

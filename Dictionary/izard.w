@@ -1,0 +1,1 @@
+{"index": 159781, "D": "a chamois that inhabits the Pyrenees.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 238659, "D": "a deformity of the skull in which one side is more developed in the front, and the other side is more developed in the rear.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 193313, "D": "a suspension of activity", "S": ["ban ", "delay ", "freeze ", "halt ", "pause ", "postponement ", "reprieve ", "truce "], "A": ["continuation ", "continuance "]}

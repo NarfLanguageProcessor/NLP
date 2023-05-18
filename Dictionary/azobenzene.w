@@ -1,0 +1,1 @@
+{"index": 25286, "D": "an orange-red, crystalline, water-insoluble powder, C12H10N2, obtained from nitrobenzene by reduction", "S": [], "A": []}

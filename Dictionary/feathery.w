@@ -1,0 +1,1 @@
+{"index": 110665, "D": "clothed or covered with feathers; feathered. ", "S": ["feathered ", "fluffy "], "A": []}

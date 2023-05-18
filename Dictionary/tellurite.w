@@ -1,0 +1,1 @@
+{"index": 318396, "D": "a salt of tellurous acid, as sodium tellurite, Na2TeO3.", "S": [], "A": []}

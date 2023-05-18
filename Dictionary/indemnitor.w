@@ -1,0 +1,1 @@
+{"index": 150769, "D": "a person or company that gives indemnity. ", "S": [], "A": []}

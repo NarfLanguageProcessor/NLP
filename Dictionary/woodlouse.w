@@ -1,0 +1,1 @@
+{"index": 367198, "D": "any of certain small, terrestrial crustaceans of the genera Oniscus, Armadillidium, etc., having a flattened, elliptical body.", "S": [], "A": []}

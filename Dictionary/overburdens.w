@@ -1,0 +1,1 @@
+{"index": 218472, "D": "to load with too great a burden;  overload", "S": ["encumber ", "oppress ", "overwhelm "], "A": ["aid ", "help "]}

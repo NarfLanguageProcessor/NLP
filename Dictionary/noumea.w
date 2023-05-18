@@ -1,0 +1,1 @@
+{"index": 209035, "D": "a city in and the capital of New Caledonia, on the SW coast.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128198, "D": "a person who reads or sings the Gospel.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 142884, "D": "sad or depressed from a longing for home  or family while away from them for a long time.", "S": ["lonely ", "wistful "], "A": []}

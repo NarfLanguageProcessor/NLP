@@ -1,0 +1,1 @@
+{"index": 210249, "D": "unmindful; unconscious; unaware (usually followed by of or to)", "S": ["blind ", "deaf ", "inattentive ", "unconcerned ", "unfamiliar ", "uninformed "], "A": ["attentive ", "aware "]}

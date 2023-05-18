@@ -1,0 +1,1 @@
+{"index": 357972, "D": "a person or agency that sells.", "S": ["dealer ", "hawker ", "merchant ", "peddler "], "A": ["customer "]}

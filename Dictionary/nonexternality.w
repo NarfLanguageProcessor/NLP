@@ -1,0 +1,1 @@
+{"index": 203873, "D": "the state or quality of being external to or outside someone or something; the fact of being outer, outward, or on the surface", "S": [], "A": []}

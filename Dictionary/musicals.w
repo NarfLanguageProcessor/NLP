@@ -1,0 +1,1 @@
+{"index": 195991, "D": "of, relating to, or producing music", "S": ["comedy ", "drama ", "hit ", "musical ", "opera ", "performance ", "show "], "A": []}

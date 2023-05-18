@@ -1,0 +1,1 @@
+{"index": 94193, "D": "a member of the Church of the Brethren,  a denomination of Christians founded in Germany in 1708 and later reorganized in the United States, characterized by the practice of trine immersion, the celebration of a love feast accompanying the Lord's Supper, and opposition to the taking of oaths and to military service.", "S": [], "A": []}

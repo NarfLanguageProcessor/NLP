@@ -1,0 +1,1 @@
+{"index": 2282, "D": "having or causing an aching  sensation", "S": [], "A": []}

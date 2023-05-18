@@ -1,0 +1,1 @@
+{"index": 252604, "D": "that which a person owns; the possession or possessions of a particular owner", "S": [], "A": []}

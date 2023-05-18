@@ -1,0 +1,1 @@
+{"index": 54247, "D": "a high chest of drawers or bureau, often having a mirror on top.", "S": [], "A": []}

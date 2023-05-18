@@ -1,0 +1,1 @@
+{"index": 299104, "D": "a variant spelling of spillikin", "S": [], "A": []}

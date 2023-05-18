@@ -1,0 +1,1 @@
+{"index": 93454, "D": "to die under water or other liquid of suffocation.", "S": ["submerged "], "A": []}

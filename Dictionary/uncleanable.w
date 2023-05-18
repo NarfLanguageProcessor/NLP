@@ -1,0 +1,1 @@
+{"index": 337002, "D": "the ability to be cleaned,  especially easily or without damage", "S": [], "A": []}

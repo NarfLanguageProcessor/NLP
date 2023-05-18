@@ -1,0 +1,1 @@
+{"index": 363422, "D": "the act or process of applying wax,  as in polishing or filling.", "S": ["increscent "], "A": ["shrinking "]}

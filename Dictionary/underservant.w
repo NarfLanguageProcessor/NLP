@@ -1,0 +1,1 @@
+{"index": 339768, "D": "a servant  of inferior or subordinate rank.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 125572, "D": "of or relating to the magnetic  properties of a rotating charged particle.", "S": [], "A": []}

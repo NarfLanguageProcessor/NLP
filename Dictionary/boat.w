@@ -1,0 +1,1 @@
+{"index": 36981, "D": "a vessel for transport by water, constructed to provide buoyancy by excluding water and shaped to give stability and permit propulsion.", "S": ["barge ", "canoe ", "catamaran ", "craft ", "dinghy ", "gondola ", "raft ", "sailboat ", "schooner ", "ship ", "yacht "], "A": []}

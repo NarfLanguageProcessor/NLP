@@ -1,0 +1,1 @@
+{"index": 257421, "D": "judgment of an act or belief by application of established principles governing some analogous act or belief.", "S": [], "A": []}

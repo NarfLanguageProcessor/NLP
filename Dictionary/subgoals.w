@@ -1,0 +1,1 @@
+{"index": 308102, "D": "the result or achievement toward which effort is directed; aim; end", "S": [], "A": []}

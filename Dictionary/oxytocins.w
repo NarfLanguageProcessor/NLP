@@ -1,0 +1,1 @@
+{"index": 222439, "D": "a polypeptide hormone, produced by the posterior lobe of the pituitary gland, that stimulates contraction of the smooth muscle of the uterus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45307, "D": "an instrument for measuring thicknesses and internal or external diameters inaccessible to a scale, consisting usually of a pair of adjustable pivoted legs.", "S": [], "A": []}

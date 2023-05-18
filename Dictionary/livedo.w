@@ -1,0 +1,1 @@
+{"index": 173938, "D": "a reddish discoloured patch on the skin", "S": [], "A": []}

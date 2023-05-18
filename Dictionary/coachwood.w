@@ -1,0 +1,1 @@
+{"index": 60832, "D": "an Australian tree, Ceratopetalum apetalum, yielding light aromatic wood used for furniture, turnery, etc", "S": [], "A": []}

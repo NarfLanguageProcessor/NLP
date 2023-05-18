@@ -1,0 +1,1 @@
+{"index": 208815, "D": "a dorsal plate or sclerite of the thorax of an insect.", "S": [], "A": []}

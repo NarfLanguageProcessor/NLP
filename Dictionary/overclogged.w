@@ -1,0 +1,1 @@
+{"index": 218614, "D": "to hinder or obstruct with thick or sticky matter; choke up", "S": [], "A": []}

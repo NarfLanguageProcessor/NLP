@@ -1,0 +1,1 @@
+{"index": 346102, "D": "complete in natural growth or development, as plant and animal forms", "S": [], "A": []}

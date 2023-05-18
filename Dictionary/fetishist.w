@@ -1,0 +1,1 @@
+{"index": 111772, "D": "belief in or use of fetishes. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 46047, "D": "a false or baseless, usually derogatory story, report, or rumor.", "S": ["hoax "], "A": ["truth "]}

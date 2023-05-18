@@ -1,0 +1,1 @@
+{"index": 41110, "D": [], "S": ["adage ", "aphorism ", "axiom ", "maxim ", "precept "], "A": []}

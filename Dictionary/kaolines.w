@@ -1,0 +1,1 @@
+{"index": 163112, "D": "a fine white clay used in the manufacture of porcelain.", "S": [], "A": []}

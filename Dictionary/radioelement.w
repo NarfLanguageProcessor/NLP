@@ -1,0 +1,1 @@
+{"index": 259666, "D": "a radioactive element. ", "S": [], "A": []}

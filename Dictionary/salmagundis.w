@@ -1,0 +1,1 @@
+{"index": 277141, "D": "a mixed dish consisting usually of cubed poultry or fish, chopped meat, anchovies, eggs, onions, oil, etc., often served as a salad.", "S": ["assortment ", "hash ", "hodgepodge ", "jumble ", "medley ", "mishmash ", "mixture ", "potpourri ", "salad "], "A": ["singularity "]}

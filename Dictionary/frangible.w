@@ -1,0 +1,1 @@
+{"index": 118351, "D": "easily broken; breakable", "S": ["breakable ", "brittle ", "crumbly ", "dainty ", "delicate ", "feeble ", "flimsy ", "frail ", "friable ", "weak "], "A": []}

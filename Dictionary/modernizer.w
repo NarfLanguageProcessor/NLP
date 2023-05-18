@@ -1,0 +1,1 @@
+{"index": 191107, "D": "to make modern;  give a new or modern character or appearance to", "S": [], "A": []}

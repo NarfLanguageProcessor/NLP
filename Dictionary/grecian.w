@@ -1,0 +1,1 @@
+{"index": 129470, "D": "Greek  (especially with reference to ancient Greece).", "S": ["classic ", "humanistic "], "A": ["complicated ", "modern "]}

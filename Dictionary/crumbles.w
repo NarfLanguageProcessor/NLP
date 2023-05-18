@@ -1,0 +1,1 @@
+{"index": 74175, "D": "to break into small fragments or crumbs.", "S": ["break up ", "collapse ", "crush ", "decay ", "degenerate ", "deteriorate ", "disintegrate ", "dissolve ", "grind ", "tumble "], "A": ["build ", "develop ", "improve ", "unite "]}

@@ -1,0 +1,1 @@
+{"index": 84317, "D": "of or resembling diamonds", "S": [], "A": []}

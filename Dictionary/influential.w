@@ -1,0 +1,1 @@
+{"index": 152174, "D": "having or exerting influence,  especially great influence", "S": ["authoritative ", "dominant ", "famous ", "important ", "leading ", "persuasive ", "prominent ", "significant ", "strong "], "A": ["inconspicuous ", "inferior ", "insignificant ", "obscure ", "subordinate ", "trivial ", "unimportant ", "unknown "]}

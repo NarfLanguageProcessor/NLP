@@ -1,0 +1,1 @@
+{"index": 91987, "D": "two bytes considered as a single storage entity, used in some high-level programming languages.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 307107, "D": "to expose to the action or effect of air  or to cause air to circulate through", "S": [], "A": []}

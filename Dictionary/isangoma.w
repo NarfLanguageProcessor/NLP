@@ -1,0 +1,1 @@
+{"index": 158557, "D": [], "S": ["faith healer ", "healer ", "idolater ", "mundunugu ", "shamanist ", "sorcerer ", "witch doctor "], "A": []}

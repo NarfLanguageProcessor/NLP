@@ -1,0 +1,1 @@
+{"index": 79932, "D": "to put off to a later time; defer; postpone", "S": ["lag ", "moratorium ", "postponement ", "problem ", "setback ", "stoppage ", "suspension ", "wait "], "A": ["continuation ", "advance ", "aid ", "assistance ", "beginning ", "go ", "help ", "liberation ", "promotion ", "support "]}

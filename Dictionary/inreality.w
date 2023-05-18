@@ -1,0 +1,1 @@
+{"index": 153351, "D": [], "S": ["absolutely ", "for real ", "genuinely ", "in fact ", "indeed ", "literally ", "really ", "truly ", "verily "], "A": []}

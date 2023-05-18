@@ -1,0 +1,1 @@
+{"index": 192703, "D": "containing one substituent.", "S": [], "A": []}

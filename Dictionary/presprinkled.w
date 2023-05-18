@@ -1,0 +1,1 @@
+{"index": 249559, "D": "to scatter (a liquid, powder, etc.) in drops or particles", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 335673, "D": "incapable of being beaten; impossible to defeat", "S": [], "A": []}

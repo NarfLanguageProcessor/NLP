@@ -1,0 +1,1 @@
+{"index": 273171, "D": "an act or instance of ripping off another or others; a theft, cheat, or swindle.", "S": ["rip-off ", "swindle "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 295823, "D": "abounding in or covered with snow", "S": ["frosty "], "A": []}

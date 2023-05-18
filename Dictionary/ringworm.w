@@ -1,0 +1,1 @@
+{"index": 273087, "D": "any of a number of contagious skin diseases caused by certain parasitic fungi and characterized by the formation of ring-shaped eruptive patches.", "S": [], "A": []}

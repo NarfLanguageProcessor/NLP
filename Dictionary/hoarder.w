@@ -1,0 +1,1 @@
+{"index": 142029, "D": "a supply or accumulation that is hidden or carefully guarded for preservation, future use, etc.", "S": ["Scrooge ", "cheapskate ", "harpy ", "moneygrubber ", "stiff ", "tightwad "], "A": ["spender ", "spendthrift ", "waster ", "wastrel "]}

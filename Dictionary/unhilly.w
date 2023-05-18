@@ -1,0 +1,1 @@
+{"index": 343729, "D": "full of hills;  having many hills; hilly country.", "S": [], "A": []}

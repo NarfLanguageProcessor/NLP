@@ -1,0 +1,1 @@
+{"index": 106746, "D": "using, containing, or expressing exclamation", "S": [], "A": []}

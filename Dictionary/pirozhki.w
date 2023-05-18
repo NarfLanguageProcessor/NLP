@@ -1,0 +1,1 @@
+{"index": 237992, "D": "small triangular pastries filled with meat, vegetables, etc", "S": [], "A": []}

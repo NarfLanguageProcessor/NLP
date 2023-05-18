@@ -1,0 +1,1 @@
+{"index": 304988, "D": "to stuff full, especially with food or drink; gorge.", "S": ["nauseate "], "A": ["abstain ", "deplete ", "deprive ", "diet ", "dissatisfy ", "fast ", "help "]}

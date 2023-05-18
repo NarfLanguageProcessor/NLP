@@ -1,0 +1,1 @@
+{"index": 299416, "D": "a very common mineral, zinc sulfide, ZnS, usually containing some iron and a little cadmium, occurring in yellow, brown, or black crystals or cleavable masses with resinous luster", "S": [], "A": []}

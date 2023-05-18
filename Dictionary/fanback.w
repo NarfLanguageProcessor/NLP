@@ -1,0 +1,1 @@
+{"index": 109665, "D": "(of a chair) having a fan-shaped back. ", "S": [], "A": []}

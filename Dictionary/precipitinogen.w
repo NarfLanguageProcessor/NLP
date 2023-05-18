@@ -1,0 +1,1 @@
+{"index": 246125, "D": "an antigen that stimulates precipitin  production or that reacts with antibody in an immunoprecipitation reaction.", "S": [], "A": []}

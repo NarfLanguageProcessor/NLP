@@ -1,0 +1,1 @@
+{"index": 121164, "D": "a strong cotton fabric, plain or striped, for clothing.", "S": [], "A": []}

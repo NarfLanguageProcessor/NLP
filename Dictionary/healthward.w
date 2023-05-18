@@ -1,0 +1,1 @@
+{"index": 134786, "D": "the general condition of the body or mind with reference to soundness and vigor", "S": [], "A": []}

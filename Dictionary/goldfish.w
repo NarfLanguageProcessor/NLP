@@ -1,0 +1,1 @@
+{"index": 127529, "D": "a small, usually yellow or orange fish, Carassius auratus, of the carp family, native to China, bred in many varieties and often kept in fishbowls and pools.", "S": [], "A": []}

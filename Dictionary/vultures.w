@@ -1,0 +1,1 @@
+{"index": 361621, "D": "any of several large, primarily carrion-eating Old World birds of prey of the family Accipitridae, often having a naked head and less powerful feet than those of the related hawks and eagles.", "S": ["hyena ", "magpie ", "rat "], "A": []}

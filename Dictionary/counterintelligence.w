@@ -1,0 +1,1 @@
+{"index": 70864, "D": "the activity of an intelligence  service employed in thwarting the efforts of an enemy's intelligence agents to gather information or commit sabotage. Abbreviation", "S": [], "A": []}

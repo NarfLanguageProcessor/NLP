@@ -1,0 +1,1 @@
+{"index": 305215, "D": "a prehistoric monument on Salisbury Plain, Wiltshire, England, consisting of a large circle of megaliths surrounding a smaller circle and four massive trilithons; dating to late Neolithic and early Bronze Age times (c1700\u20131200 b.c.) and believed to have been connected with a sun cult or used for astronomical observations.", "S": [], "A": []}

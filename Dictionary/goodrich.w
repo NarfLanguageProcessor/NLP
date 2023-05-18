@@ -1,0 +1,1 @@
+{"index": 127911, "D": "U.S. author and publisher.", "S": [], "A": []}

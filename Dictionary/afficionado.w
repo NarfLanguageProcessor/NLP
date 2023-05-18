@@ -1,0 +1,1 @@
+{"index": 5357, "D": "less common variant of aficionado. ", "S": [], "A": []}

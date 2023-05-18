@@ -1,0 +1,1 @@
+{"index": 357624, "D": "any generalization of the above quantities.", "S": [], "A": []}

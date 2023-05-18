@@ -1,0 +1,1 @@
+{"index": 9551, "D": "the height of anything above a given planetary reference plane, especially above sea level on earth.", "S": ["distance ", "elevation ", "peak "], "A": ["nadir "]}

@@ -1,0 +1,1 @@
+{"index": 30144, "D": "an Arab of the desert, in Asia or Africa; nomadic Arab.", "S": [], "A": []}

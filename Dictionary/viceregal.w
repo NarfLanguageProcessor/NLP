@@ -1,0 +1,1 @@
+{"index": 359378, "D": "of or relating to a viceroy. ", "S": [], "A": []}

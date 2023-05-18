@@ -1,0 +1,1 @@
+{"index": 134069, "D": "the flowering tops and leaves of Indian hemp smoked, chewed, or drunk as a narcotic and intoxicant.", "S": [], "A": []}

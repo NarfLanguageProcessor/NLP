@@ -1,0 +1,1 @@
+{"index": 328994, "D": "infection with treponema;  syphilis.", "S": [], "A": []}

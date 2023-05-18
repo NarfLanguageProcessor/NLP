@@ -1,0 +1,1 @@
+{"index": 221026, "D": "to direct (work or workers); supervise; manage", "S": ["administered ", "commanded ", "conducted ", "directed ", "driven ", "guided ", "led ", "mastered ", "piloted ", "subjugated ", "superintended ", "supervised "], "A": ["autonomous ", "capricious ", "free ", "unruly "]}

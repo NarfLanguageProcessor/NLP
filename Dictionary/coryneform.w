@@ -1,0 +1,1 @@
+{"index": 69122, "D": "having a rodlike or clublike shape.", "S": [], "A": []}

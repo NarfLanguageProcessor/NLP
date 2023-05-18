@@ -1,0 +1,1 @@
+{"index": 253041, "D": "of, relating to, or concerned with prosecution.", "S": [], "A": []}

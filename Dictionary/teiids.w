@@ -1,0 +1,1 @@
+{"index": 317924, "D": "any of a large group of chiefly tropical New World lizards of the family Teiidae, as the racerunner, caiman lizard, or whiptail, characterized by large rectangular scales on the belly and a long tail.", "S": [], "A": []}

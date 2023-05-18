@@ -1,0 +1,1 @@
+{"index": 314402, "D": "with great speed or velocity", "S": ["expeditiously ", "hastily ", "promptly ", "quickly ", "rapidly ", "speedily "], "A": ["slowly "]}

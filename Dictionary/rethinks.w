@@ -1,0 +1,1 @@
+{"index": 270402, "D": "to reconsider, especially profoundly.", "S": ["amend ", "reassess ", "reevaluate ", "reexamine ", "revise ", "rework "], "A": ["spoil "]}

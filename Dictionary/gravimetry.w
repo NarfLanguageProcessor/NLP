@@ -1,0 +1,1 @@
+{"index": 129376, "D": "the measurement of weight or density.", "S": [], "A": []}

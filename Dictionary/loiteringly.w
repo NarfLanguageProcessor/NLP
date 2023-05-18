@@ -1,0 +1,1 @@
+{"index": 174768, "D": "the act of lingering aimlessly or as if aimlessly in or about a place", "S": [], "A": []}

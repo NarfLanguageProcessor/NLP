@@ -1,0 +1,1 @@
+{"index": 161787, "D": "a full day's travel across a desert without a stop for taking on water.", "S": [], "A": []}

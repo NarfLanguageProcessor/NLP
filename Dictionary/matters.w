@@ -1,0 +1,1 @@
+{"index": 181318, "D": "the substance or substances of which any physical object consists or is composed", "S": ["business ", "commerce ", "sale ", "trade "], "A": []}

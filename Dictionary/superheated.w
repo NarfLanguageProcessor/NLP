@@ -1,0 +1,1 @@
+{"index": 311962, "D": "the state of being superheated.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 73369, "D": "to move back and forth over", "S": ["chain ", "grid ", "net ", "organization ", "structure ", "system ", "web "], "A": []}

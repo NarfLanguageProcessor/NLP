@@ -1,0 +1,1 @@
+{"index": 278466, "D": "a garment worn by Hindu women, consisting of a long piece of cotton or silk wrapped around the body with one end draped over the head or over one shoulder.", "S": [], "A": []}

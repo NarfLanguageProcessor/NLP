@@ -1,0 +1,1 @@
+{"index": 133039, "D": "to hold back; hinder; impede", "S": ["circumscribed ", "cramped ", "imprisoned ", "restrained ", "restricted "], "A": ["healthy ", "well "]}

@@ -1,0 +1,1 @@
+{"index": 358417, "D": "any member of a class of words that function as the main elements of predicates,  that typically express action, state, or a relation between two things, and that may be inflected for tense, aspect, voice, mood, and to show agreement with their subject or object.", "S": [], "A": []}

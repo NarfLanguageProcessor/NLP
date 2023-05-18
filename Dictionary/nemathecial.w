@@ -1,0 +1,1 @@
+{"index": 198209, "D": "a wartlike protuberance on the thallus of certain red algae, containing tetraspores, antheridia, or cystocarps.", "S": [], "A": []}

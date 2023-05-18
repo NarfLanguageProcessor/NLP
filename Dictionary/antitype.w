@@ -1,0 +1,1 @@
+{"index": 16335, "D": "something that is foreshadowed by a type or symbol, as a New Testament event prefigured in the Old Testament.", "S": [], "A": []}

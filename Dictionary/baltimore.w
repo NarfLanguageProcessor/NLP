@@ -1,0 +1,1 @@
+{"index": 27160, "D": "a black nymphalid butterfly, Melitaea phaeton, characterized by orange-red, yellow, and white markings, common in those areas of the northeastern U.S. where turtlehead, the food plant of its larvae, is found.", "S": [], "A": []}

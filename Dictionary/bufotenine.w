@@ -1,0 +1,1 @@
+{"index": 42277, "D": "a hallucinogenic bufotoxin derivative, C12H16N2O, used experimentally for its digitalislike action on the heart.", "S": [], "A": []}

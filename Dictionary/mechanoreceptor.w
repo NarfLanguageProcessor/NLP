@@ -1,0 +1,1 @@
+{"index": 181907, "D": "any of the sense organs that respond to vibration, stretching, pressure, or other mechanical stimuli.", "S": [], "A": []}

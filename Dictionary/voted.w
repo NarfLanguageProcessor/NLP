@@ -1,0 +1,1 @@
+{"index": 361407, "D": "a formal expression of opinion or choice made by an individual or body of individuals, especially in an election.", "S": ["chosen "], "A": []}

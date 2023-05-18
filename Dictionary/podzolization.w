@@ -1,0 +1,1 @@
+{"index": 241132, "D": "the process by which the upper layer of a soil becomes acidic through the leaching of bases which are deposited in the lower horizons", "S": [], "A": []}

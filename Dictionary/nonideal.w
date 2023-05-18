@@ -1,0 +1,1 @@
+{"index": 204497, "D": "(of a gas or solution) differing in behavior from that of an ideal gas  or solution.", "S": [], "A": []}

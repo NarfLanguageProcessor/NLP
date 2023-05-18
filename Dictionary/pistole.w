@@ -1,0 +1,1 @@
+{"index": 238178, "D": "a former gold coin of Spain, equal to two escudos.", "S": [], "A": []}

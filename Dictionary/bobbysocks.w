@@ -1,0 +1,1 @@
+{"index": 37064, "D": "socks that reach above the ankle and are sometimes folded down to the ankle.", "S": ["anklet ", "crew sock ", "no-see-um sock "], "A": []}

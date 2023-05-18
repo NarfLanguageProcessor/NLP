@@ -1,0 +1,1 @@
+{"index": 249746, "D": "to take for granted, assume, or suppose", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 192762, "D": "lacking in variety; tediously unvarying", "S": ["blandly "], "A": []}

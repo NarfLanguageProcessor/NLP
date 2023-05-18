@@ -1,0 +1,1 @@
+{"index": 132510, "D": "any of various shrubs or trees of the genus Hakea, native to Australia, having evergreen, pinnate leaves and clusters of variously colored flowers.", "S": [], "A": []}

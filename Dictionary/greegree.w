@@ -1,0 +1,1 @@
+{"index": 129498, "D": "a variant spelling of grigri", "S": [], "A": []}

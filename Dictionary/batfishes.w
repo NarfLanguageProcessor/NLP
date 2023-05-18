@@ -1,0 +1,1 @@
+{"index": 28908, "D": "any of the flat-bodied marine fishes of the family Ogcocephalidae found worldwide in tropical and subtropical oceans, including Ogcocephalus vespertilio(Brazilian batfish ) of the coastal western Atlantic Ocean,  especially along the coast of Brazil.", "S": [], "A": []}

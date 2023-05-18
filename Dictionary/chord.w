@@ -1,0 +1,1 @@
+{"index": 55721, "D": "a feeling or emotion", "S": ["arc ", "arch ", "contour ", "loop ", "trajectory "], "A": ["line "]}

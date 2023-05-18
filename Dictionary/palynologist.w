@@ -1,0 +1,1 @@
+{"index": 223896, "D": "the study of live and fossil spores, pollen grains, and similar plant structures.", "S": [], "A": []}

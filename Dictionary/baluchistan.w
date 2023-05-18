@@ -1,0 +1,1 @@
+{"index": 27168, "D": "an arid mountainous region in S Asia, in SE Iran and SW Pakistan, bordering on the Arabian Sea.", "S": [], "A": []}

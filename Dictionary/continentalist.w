@@ -1,0 +1,1 @@
+{"index": 67447, "D": "an attitude, expression, etc., characteristic of a continent, especially of Europe.", "S": [], "A": []}

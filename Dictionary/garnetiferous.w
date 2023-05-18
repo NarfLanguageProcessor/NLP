@@ -1,0 +1,1 @@
+{"index": 122211, "D": "containing or yielding garnets. ", "S": [], "A": []}

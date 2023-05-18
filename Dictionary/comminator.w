@@ -1,0 +1,1 @@
+{"index": 64043, "D": "a threat of punishment or vengeance.", "S": [], "A": []}

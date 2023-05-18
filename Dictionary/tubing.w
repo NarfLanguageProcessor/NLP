@@ -1,0 +1,1 @@
+{"index": 332011, "D": "material in the form of a tube", "S": ["hosiery ", "sock ", "tights ", "tube "], "A": []}

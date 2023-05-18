@@ -1,0 +1,1 @@
+{"index": 262151, "D": "a trial hearing given to a singer, actor, or other performer to test suitability for employment, professional training or competition, etc.", "S": [], "A": []}

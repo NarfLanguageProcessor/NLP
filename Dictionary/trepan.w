@@ -1,0 +1,1 @@
+{"index": 328959, "D": "a tool for cutting shallow holes by removing a core.", "S": ["auger ", "awl ", "bit ", "borer ", "corkscrew ", "countersink ", "dibble ", "gimlet ", "implement ", "jackhammer ", "punch ", "riveter ", "trephine ", "wimble "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 17768, "D": "to clap the hands as an expression of approval, appreciation, acclamation, etc.", "S": ["acclamatory ", "affirmative ", "approbative ", "approving ", "commendatory ", "congratulatory ", "laudatory ", "plauditory ", "praiseful ", "praising "], "A": []}

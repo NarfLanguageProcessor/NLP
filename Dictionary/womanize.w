@@ -1,0 +1,1 @@
+{"index": 366974, "D": "to make effeminate.", "S": ["dally ", "flirt ", "trifle ", "wolf "], "A": []}

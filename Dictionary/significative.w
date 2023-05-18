@@ -1,0 +1,1 @@
+{"index": 290161, "D": "serving to signify. ", "S": ["hidden ", "implicit ", "indirect ", "latent ", "lurking ", "tacit ", "unspoken "], "A": ["explicit ", "open "]}

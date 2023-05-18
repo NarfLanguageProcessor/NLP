@@ -1,0 +1,1 @@
+{"index": 132446, "D": "a fine, usually spiral, spring  used for oscillating the balance of a timepiece.", "S": [], "A": []}

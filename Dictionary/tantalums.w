@@ -1,0 +1,1 @@
+{"index": 316239, "D": "a gray, hard, rare, metallic element occurring in columbite and tantalite  and usually associated with niobium", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 144523, "D": "a small, very humble dwelling house; a wretched hut.", "S": [], "A": []}

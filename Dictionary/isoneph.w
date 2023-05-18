@@ -1,0 +1,1 @@
+{"index": 159115, "D": "a line on a weather map or chart connecting points having the same amount of cloudiness.", "S": [], "A": []}

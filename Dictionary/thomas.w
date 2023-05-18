@@ -1,0 +1,1 @@
+{"index": 322296, "D": "an apostle who demanded proof of Christ's Resurrection, becoming the apostle to whom the expression \u201cdoubting Thomas\u201d refers. John 20", "S": [], "A": []}

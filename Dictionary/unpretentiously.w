@@ -1,0 +1,1 @@
+{"index": 348433, "D": "not pretentious;  modest; without ostentatious display; plain", "S": ["humbly ", "plainly ", "quietly ", "simply "], "A": ["boastfully ", "boldly ", "immodestly ", "pretentiously "]}

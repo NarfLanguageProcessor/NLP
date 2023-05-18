@@ -1,0 +1,1 @@
+{"index": 227219, "D": "an Indo-European, Iranian language that is the official language of Afghanistan and the chief vernacular of the eastern part of the nation.", "S": [], "A": []}

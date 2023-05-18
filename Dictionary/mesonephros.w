@@ -1,0 +1,1 @@
+{"index": 184280, "D": "one of the three embryonic excretory organs of vertebrates, becoming the functional kidney of fishes and amphibians and becoming part of the tubules or ductules in the reproductive systems of higher vertebrates.", "S": [], "A": []}

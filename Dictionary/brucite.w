@@ -1,0 +1,1 @@
+{"index": 41701, "D": "a mineral, magnesium hydroxide, Mg(OH)2, occurring in tabular, foliated crystals", "S": [], "A": []}

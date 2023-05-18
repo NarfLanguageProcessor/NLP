@@ -1,0 +1,1 @@
+{"index": 123830, "D": "pertaining to the geometry of curved surfaces, in which geodesic lines  take the place of the straight lines of plane geometry.", "S": [], "A": []}

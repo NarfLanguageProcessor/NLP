@@ -1,0 +1,1 @@
+{"index": 110867, "D": "a person or thing that supplies food or feeds  something.", "S": ["grower ", "laborer ", "peasant ", "producer ", "rancher "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 157337, "D": "of, relating to, or characteristic of involutional melancholia", "S": [], "A": []}

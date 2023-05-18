@@ -1,0 +1,1 @@
+{"index": 357621, "D": "a method of determining the direction and magnitude of the electrical forces of the heart.", "S": [], "A": []}

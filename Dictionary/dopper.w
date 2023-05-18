@@ -1,0 +1,1 @@
+{"index": 91626, "D": "(in South Africa) a member of the most conservative Afrikaner Church, which practises a strict Calvinism", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 275823, "D": "a republic since 1991, the largest country in the world by area, extending from eastern Europe to northern and western Asia. 6,593,000 square miles (17,076,000 square kilometers). Capital", "S": [], "A": []}

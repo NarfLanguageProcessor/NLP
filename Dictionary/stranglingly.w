@@ -1,0 +1,1 @@
+{"index": 305782, "D": "to kill by squeezing the throat in order to compress the windpipe and prevent the intake of air, as with the hands or a tightly drawn cord.", "S": [], "A": []}

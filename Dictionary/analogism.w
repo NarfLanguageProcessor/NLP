@@ -1,0 +1,1 @@
+{"index": 11800, "D": "reasoning or argument by analogy. ", "S": [], "A": []}

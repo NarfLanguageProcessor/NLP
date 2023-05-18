@@ -1,0 +1,1 @@
+{"index": 365640, "D": "wiggling", "S": ["bumpy ", "crushing ", "disconcerting ", "unsettling "], "A": ["firm ", "smooth ", "steady "]}

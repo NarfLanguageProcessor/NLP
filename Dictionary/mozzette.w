@@ -1,0 +1,1 @@
+{"index": 194464, "D": "a short cape that covers the shoulders and can be buttoned over the breast, and to which a hood is attached, worn by the pope and by cardinals, bishops, abbots, and other dignitaries.", "S": [], "A": []}

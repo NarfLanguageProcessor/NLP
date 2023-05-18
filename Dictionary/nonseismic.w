@@ -1,0 +1,1 @@
+{"index": 207108, "D": "pertaining to, of the nature of, or caused by an earthquake or vibration of the earth, whether due to natural or artificial causes.", "S": [], "A": []}

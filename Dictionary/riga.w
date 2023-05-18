@@ -1,0 +1,1 @@
+{"index": 272779, "D": "a seaport in and the capital of Latvia, on the Gulf of Riga.", "S": [], "A": []}

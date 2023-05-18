@@ -1,0 +1,1 @@
+{"index": 239708, "D": "belonging to the Plectognathi, a group or order of fishes having the teeth fused into a beak and thick, often spiny, scaleless skin, and including the filefish, globefish, puffer, and triggerfish.", "S": [], "A": []}

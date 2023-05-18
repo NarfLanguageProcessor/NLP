@@ -1,0 +1,1 @@
+{"index": 190472, "D": "a machine or tool for making miters. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 340453, "D": "released, sent away, or allowed to leave", "S": [], "A": []}

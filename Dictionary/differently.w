@@ -1,0 +1,1 @@
+{"index": 85297, "D": "in a manner unlike another in character or quality; dissimilarly", "S": ["individually ", "negatively ", "separately ", "variously "], "A": ["together "]}

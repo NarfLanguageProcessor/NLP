@@ -1,0 +1,1 @@
+{"index": 133497, "D": "normal vision (opposed to diplopia).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 261521, "D": "a reverse movement or tendency; an action in a reverse direction or manner.", "S": [], "A": []}

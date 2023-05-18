@@ -1,0 +1,1 @@
+{"index": 244285, "D": "of or relating to a jaw, jawbone, or maxilla. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 279946, "D": "an extended operatic vocal solo, usually including an aria and a recitative.", "S": [], "A": []}

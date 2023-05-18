@@ -1,0 +1,1 @@
+{"index": 141046, "D": "of or derived from hyponitrous acid. ", "S": [], "A": []}

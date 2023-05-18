@@ -1,0 +1,1 @@
+{"index": 113973, "D": "a control surface functioning both as a flap  and as an aileron. ", "S": [], "A": []}

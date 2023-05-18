@@ -1,0 +1,1 @@
+{"index": 245197, "D": "of or relating to a praetor. ", "S": ["degenerate ", "evil ", "low ", "mercenary ", "miscreant ", "profligate "], "A": ["decent ", "good ", "honest ", "moral ", "nice ", "upright ", "virtuous "]}

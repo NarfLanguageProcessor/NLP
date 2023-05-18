@@ -1,0 +1,1 @@
+{"index": 308903, "D": "the office or the period of service of a professor. ", "S": [], "A": []}

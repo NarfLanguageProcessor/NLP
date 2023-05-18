@@ -1,0 +1,1 @@
+{"index": 152609, "D": "to swallow greedily or in great quantity, as food.", "S": ["absorption ", "deglutition "], "A": []}

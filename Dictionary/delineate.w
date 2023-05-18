@@ -1,0 +1,1 @@
+{"index": 80126, "D": "to trace the outline of; sketch or trace in outline; represent pictorially", "S": ["define ", "depict ", "lay out ", "limn "], "A": ["confuse ", "distort "]}

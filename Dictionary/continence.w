@@ -1,0 +1,1 @@
+{"index": 67441, "D": "self-restraint or abstinence, especially in regard to sexual activity; temperance; moderation.", "S": ["abstemiousness ", "abstinence ", "asceticism ", "celibacy ", "chastity ", "forbearance ", "moderation ", "self-control ", "sobriety ", "temperance ", "virtue "], "A": ["excess ", "indulgence ", "intemperance ", "wildness "]}

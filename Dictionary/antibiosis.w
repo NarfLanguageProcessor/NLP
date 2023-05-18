@@ -1,0 +1,1 @@
+{"index": 14792, "D": "an association between organisms that is injurious to one of them.", "S": [], "A": []}

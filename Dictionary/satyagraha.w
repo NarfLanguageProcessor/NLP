@@ -1,0 +1,1 @@
+{"index": 278700, "D": "(in India) the policy of passive resistance inaugurated by Mohandas Gandhi in 1919 as a method of gaining political and social reforms.", "S": [], "A": []}

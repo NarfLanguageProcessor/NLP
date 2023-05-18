@@ -1,0 +1,1 @@
+{"index": 340721, "D": "to uncouple (two spacecraft modules or a spacecraft and space station).", "S": [], "A": []}

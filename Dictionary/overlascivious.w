@@ -1,0 +1,1 @@
+{"index": 220009, "D": "inclined to lustfulness; wanton; lewd", "S": [], "A": []}

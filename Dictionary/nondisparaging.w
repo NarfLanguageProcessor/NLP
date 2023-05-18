@@ -1,0 +1,1 @@
+{"index": 203178, "D": "that disparages;  tending to belittle or bring reproach upon", "S": [], "A": []}

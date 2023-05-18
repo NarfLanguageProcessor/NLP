@@ -1,0 +1,1 @@
+{"index": 149885, "D": "having the shape of an incisor tooth", "S": [], "A": []}

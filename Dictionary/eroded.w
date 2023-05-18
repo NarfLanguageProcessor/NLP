@@ -1,0 +1,1 @@
+{"index": 103890, "D": "to eat into or away; destroy by slow consumption or disintegration", "S": ["powdery ", "soft "], "A": ["flexible ", "pliable "]}

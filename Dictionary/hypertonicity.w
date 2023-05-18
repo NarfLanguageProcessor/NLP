@@ -1,0 +1,1 @@
+{"index": 140583, "D": "of or relating to hypertonia. ", "S": [], "A": []}

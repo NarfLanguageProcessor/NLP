@@ -1,0 +1,1 @@
+{"index": 288915, "D": "to make short  or shorter. ", "S": ["coiffed ", "cropped ", "cut ", "trimmed "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 163862, "D": "a colorful fabric of Ghanaian origin", "S": [], "A": []}

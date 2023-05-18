@@ -1,0 +1,1 @@
+{"index": 118330, "D": "a male given name, Spanish form of Francis. ", "S": [], "A": []}

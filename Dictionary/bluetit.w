@@ -1,0 +1,1 @@
+{"index": 36792, "D": "an Old World titmouse, Parus caeruleus, having a cobalt-blue crown.", "S": [], "A": []}

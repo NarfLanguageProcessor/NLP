@@ -1,0 +1,1 @@
+{"index": 322596, "D": "to utter a threat  against; menace", "S": ["intimidate ", "menace ", "scare "], "A": ["assist ", "help ", "approve ", "commend ", "compliment ", "defend ", "flatter ", "please ", "praise "]}

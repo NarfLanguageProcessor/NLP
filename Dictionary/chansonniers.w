@@ -1,0 +1,1 @@
+{"index": 52529, "D": "a singer or writer of chansons,  especially a cabaret performer who specializes in songs that are a combination of melody and rapid spoken patter.", "S": [], "A": []}

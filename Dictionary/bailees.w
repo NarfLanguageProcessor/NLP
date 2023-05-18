@@ -1,0 +1,1 @@
+{"index": 26460, "D": "a person to whom personal property is delivered in bailment.", "S": [], "A": []}

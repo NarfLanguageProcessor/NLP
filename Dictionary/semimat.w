@@ -1,0 +1,1 @@
+{"index": 284423, "D": "midway between matte  and glossy, as certain paper or paint.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259878, "D": "any stemless, leafless, parasitic plant of the genus Rafflesia, of the Malay Peninsula and Republic of Indonesia, characterized by apetalous flowers, measuring 3 inches\u20133 feet (8\u201390 centimeters) in diameter, that exude a putrid odor", "S": [], "A": []}

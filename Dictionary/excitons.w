@@ -1,0 +1,1 @@
+{"index": 106723, "D": "a localized, mobile excited state of a crystal, consisting of an electron and a hole bound together.", "S": [], "A": []}

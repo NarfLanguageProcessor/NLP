@@ -1,0 +1,1 @@
+{"index": 226565, "D": "the act of a person or thing that parks, especially a vehicle.", "S": ["embracing "], "A": []}

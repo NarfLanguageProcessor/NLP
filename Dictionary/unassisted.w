@@ -1,0 +1,1 @@
+{"index": 335330, "D": "without aid or help; alone", "S": ["only ", "unattended "], "A": ["together "]}

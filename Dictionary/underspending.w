@@ -1,0 +1,1 @@
+{"index": 339860, "D": "to pay out, disburse, or expend; dispose of (money, wealth, resources, etc.)", "S": [], "A": []}

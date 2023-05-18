@@ -1,0 +1,1 @@
+{"index": 285910, "D": "of, like, or befitting a seraph. ", "S": ["beatific ", "cherubic ", "heavenly ", "pure ", "sublime "], "A": ["demonic "]}

@@ -1,0 +1,1 @@
+{"index": 101403, "D": "to place on or as on a throne. ", "S": ["adored ", "beatified ", "consecrated ", "divine ", "exalted ", "glorified ", "hallowed ", "redeemed ", "resurrected ", "revered ", "rewarded ", "saved "], "A": ["cursed "]}

@@ -1,0 +1,1 @@
+{"index": 93576, "D": "a stick  for beating a drum. ", "S": ["bar ", "bat ", "baton ", "cane ", "club ", "rod ", "slab ", "stalk ", "strip ", "wand ", "wedge "], "A": []}

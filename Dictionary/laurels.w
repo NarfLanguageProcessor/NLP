@@ -1,0 +1,1 @@
+{"index": 169210, "D": "Compare laurel family. ", "S": ["acclaim ", "accolade ", "award ", "badge ", "bays ", "commendation ", "crown ", "decoration ", "distinction ", "fame ", "glory ", "gold ", "kudos ", "prestige ", "recognition ", "renown ", "reward "], "A": ["blame ", "criticism ", "disapproval ", "lowliness ", "unimportance "]}

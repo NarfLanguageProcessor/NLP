@@ -1,0 +1,1 @@
+{"index": 90345, "D": "the practice of attempting to foretell future events or discover hidden knowledge by occult or supernatural means.", "S": ["augural ", "fatidic ", "fatidical ", "mantic ", "oracular ", "prophetical ", "sibyllic ", "sibylline ", "vatic ", "vatical ", "vaticinal "], "A": []}

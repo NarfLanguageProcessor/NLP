@@ -1,0 +1,1 @@
+{"index": 28421, "D": "of or relating to Karl Barth  or his theology.", "S": [], "A": []}

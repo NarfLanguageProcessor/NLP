@@ -1,0 +1,1 @@
+{"index": 49258, "D": "a synthetic resin used especially for costume jewelry.", "S": [], "A": []}

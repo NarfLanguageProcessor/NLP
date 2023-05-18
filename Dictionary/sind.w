@@ -1,0 +1,1 @@
+{"index": 291492, "D": "a former province of Pakistan, in the lower Indus valley; now part of West Pakistan. 48,136 sq. mi. (125,154 sq. km). Capital", "S": [], "A": []}

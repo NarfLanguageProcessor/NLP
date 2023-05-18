@@ -1,0 +1,1 @@
+{"index": 251306, "D": "a social group of any size whose members reside in a specific locality, share government, and often have a common cultural and historical heritage.", "S": [], "A": []}

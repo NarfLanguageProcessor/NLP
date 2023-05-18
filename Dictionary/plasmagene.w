@@ -1,0 +1,1 @@
+{"index": 239149, "D": "a self-replicating genetic particle postulated to be in the cytoplasm of a cell, as in mitochondria.", "S": [], "A": []}

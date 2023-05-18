@@ -1,0 +1,1 @@
+{"index": 148912, "D": "laid on by someone, especially an authority, as something to be endured, obeyed, paid, etc.", "S": ["prescribed ", "required ", "sanctioned "], "A": []}

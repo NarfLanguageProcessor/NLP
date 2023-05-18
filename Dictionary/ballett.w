@@ -1,0 +1,1 @@
+{"index": 26956, "D": "an early 17th-century dancelike vocal composition similar to the madrigal in style.", "S": [], "A": []}

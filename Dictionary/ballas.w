@@ -1,0 +1,1 @@
+{"index": 26926, "D": "a spherical aggregate of small diamond crystals used for drilling and for various industrial purposes.", "S": [], "A": []}

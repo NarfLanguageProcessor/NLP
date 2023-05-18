@@ -1,0 +1,1 @@
+{"index": 64805, "D": "a mixture of various decaying organic substances, as dead leaves or manure, used for fertilizing soil.", "S": ["fertilizer "], "A": []}

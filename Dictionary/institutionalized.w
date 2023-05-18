@@ -1,0 +1,1 @@
+{"index": 153944, "D": "to make institutional. ", "S": ["regularized ", "regulated "], "A": []}

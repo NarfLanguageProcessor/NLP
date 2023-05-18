@@ -1,0 +1,1 @@
+{"index": 54000, "D": "a word or expression whose only function is to fill a metrical gap in a verse or to balance a sentence.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43099, "D": "safeguarded or secure against burglary.", "S": [], "A": []}

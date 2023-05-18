@@ -1,0 +1,1 @@
+{"index": 80358, "D": [], "S": ["contingency ", "vicissitude "], "A": ["advantage ", "benefit ", "blessing ", "boon ", "calm ", "comfort ", "ease ", "good ", "good fortune ", "miracle ", "peace ", "pleasure ", "plenty ", "solution "]}

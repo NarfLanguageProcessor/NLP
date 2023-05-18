@@ -1,0 +1,1 @@
+{"index": 51861, "D": "the traditional garment of Muslim and Hindu women, consisting of a long, usually black or drab-colored cloth or veil that envelops the body from head to foot and covers all or part of the face.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 345196, "D": "given to or characterized by joking; jesting; humorous; playful", "S": [], "A": []}

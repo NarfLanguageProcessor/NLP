@@ -1,0 +1,1 @@
+{"index": 44558, "D": "a member of a North American Indian people of southern California.", "S": [], "A": []}

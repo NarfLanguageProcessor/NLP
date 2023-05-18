@@ -1,0 +1,1 @@
+{"index": 178229, "D": "of, relating to, or characteristic of a racially intermixed people who are the dominant population of the Malay Peninsula  and adjacent islands.", "S": [], "A": []}

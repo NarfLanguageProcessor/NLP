@@ -1,0 +1,1 @@
+{"index": 148796, "D": "implied, rather than expressly stated", "S": ["constant ", "contained ", "definite ", "implied ", "latent ", "steadfast ", "tacit ", "unshakable ", "unspoken "], "A": ["disloyal ", "stated ", "untrustworthy "]}

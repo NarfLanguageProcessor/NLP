@@ -1,0 +1,1 @@
+{"index": 56646, "D": "the grouping together of a number of items by the mind, after which they can be remembered as a single item, such as a word or a musical phrase", "S": ["bung ", "cast ", "chuck ", "chunk ", "fire ", "fling ", "flip ", "heave ", "hurl ", "launch ", "lob ", "peg ", "pitch ", "sling ", "twirl ", "wing "], "A": []}

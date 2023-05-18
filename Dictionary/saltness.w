@@ -1,0 +1,1 @@
+{"index": 277333, "D": "the state or quality of being salt or salty.", "S": [], "A": []}

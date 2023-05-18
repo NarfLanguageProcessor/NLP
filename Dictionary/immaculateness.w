@@ -1,0 +1,1 @@
+{"index": 147834, "D": "free from spot or stain; spotlessly clean", "S": ["freshness ", "purity ", "sanitation "], "A": ["dirtiness ", "filth ", "griminess "]}

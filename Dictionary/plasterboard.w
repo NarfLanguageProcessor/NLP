@@ -1,0 +1,1 @@
+{"index": 239225, "D": "a material used for insulating or covering walls, or as a lath, consisting of paper-covered sheets of gypsum and felt.", "S": ["Sheetrock ", "drywall ", "gyp board ", "wallboard "], "A": []}

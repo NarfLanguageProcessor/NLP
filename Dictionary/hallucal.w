@@ -1,0 +1,1 @@
+{"index": 132768, "D": "of or relating to the hallux.", "S": [], "A": []}

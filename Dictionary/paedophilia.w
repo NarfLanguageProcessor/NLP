@@ -1,0 +1,1 @@
+{"index": 222930, "D": "the condition of being sexually attracted to children", "S": [], "A": []}

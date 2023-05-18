@@ -1,0 +1,1 @@
+{"index": 36744, "D": "a blue material, such as indigo, used in laundering to counteract yellowing", "S": [], "A": []}

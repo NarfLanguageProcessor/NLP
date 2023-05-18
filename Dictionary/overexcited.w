@@ -1,0 +1,1 @@
+{"index": 219229, "D": "excessively excited", "S": ["high-strung ", "hyper "], "A": []}

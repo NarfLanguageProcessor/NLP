@@ -1,0 +1,1 @@
+{"index": 52677, "D": "a method of increasing the alcohol in a wine by adding sugar to the must before or during fermentation.", "S": [], "A": []}

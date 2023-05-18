@@ -1,0 +1,1 @@
+{"index": 97006, "D": "to kill by electricity.", "S": ["beheading ", "crucifixion ", "decapitation ", "gassing ", "hanging ", "hit ", "impalement ", "punishment ", "shooting ", "strangulation "], "A": ["abandoning ", "disregard ", "failure ", "forgetting ", "ignorance ", "leaving ", "neglect "]}

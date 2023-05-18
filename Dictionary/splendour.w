@@ -1,0 +1,1 @@
+{"index": 300441, "D": "the state or quality of being splendid", "S": [], "A": []}

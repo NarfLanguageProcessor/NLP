@@ -1,0 +1,1 @@
+{"index": 72486, "D": "excessive reliance on credentials,  especially academic degrees, in determining hiring or promotion policies.", "S": [], "A": []}

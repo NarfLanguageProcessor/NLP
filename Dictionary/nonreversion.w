@@ -1,0 +1,1 @@
+{"index": 206876, "D": "the act of turning something the reverse way.", "S": [], "A": []}

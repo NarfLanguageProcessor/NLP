@@ -1,0 +1,1 @@
+{"index": 336554, "D": "a fortified, usually walled residence, as of a prince or noble in feudal times.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 155598, "D": "to penetrate  thoroughly; permeate.", "S": [], "A": []}

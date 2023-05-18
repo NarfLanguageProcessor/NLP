@@ -1,0 +1,1 @@
+{"index": 211510, "D": "the part of the alimentary canal between the pharynx and the stomach; gullet", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 247019, "D": "an act or instance of discouraging. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25126, "D": "the branch of philosophy dealing with values, as those of ethics, aesthetics, or religion.", "S": [], "A": []}

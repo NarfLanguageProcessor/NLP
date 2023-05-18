@@ -1,0 +1,1 @@
+{"index": 21621, "D": "tending or seeming to assault;  physically aggressive", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 277439, "D": "of or relating to redemptive power.", "S": [], "A": []}

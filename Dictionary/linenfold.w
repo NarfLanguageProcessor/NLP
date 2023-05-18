@@ -1,0 +1,1 @@
+{"index": 172783, "D": "an ornamental motif resembling folded linen,  carved on paneling.", "S": [], "A": []}

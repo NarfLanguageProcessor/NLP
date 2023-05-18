@@ -1,0 +1,1 @@
+{"index": 139160, "D": "literature or learning regarding sacred things.", "S": [], "A": []}

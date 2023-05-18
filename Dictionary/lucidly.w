@@ -1,0 +1,1 @@
+{"index": 175808, "D": "easily understood; completely intelligible or comprehensible", "S": ["apparently ", "certainly ", "definitely ", "distinctly ", "evidently ", "obviously ", "openly ", "plainly ", "positively ", "precisely ", "seemingly ", "surely ", "undoubtedly "], "A": ["doubtfully ", "dubiously ", "questionably ", "uncertain "]}

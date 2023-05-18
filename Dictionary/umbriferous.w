@@ -1,0 +1,1 @@
+{"index": 334240, "D": "casting or making shade.", "S": [], "A": []}

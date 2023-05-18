@@ -1,0 +1,1 @@
+{"index": 278780, "D": "a Hindu practice whereby a widow immolates herself on the funeral pyre of her husband", "S": [], "A": []}

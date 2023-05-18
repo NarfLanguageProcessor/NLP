@@ -1,0 +1,1 @@
+{"index": 69212, "D": "an enlarged, fleshy, bulblike base of a stem, as in the crocus.", "S": [], "A": []}

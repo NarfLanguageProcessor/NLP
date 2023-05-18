@@ -1,0 +1,1 @@
+{"index": 83787, "D": "a crystalline, water-soluble steroid, C22H29FO5, used in the treatment of certain allergic or inflammatory conditions, as rheumatoid arthritis, bronchial asthma, or dermatosis.", "S": [], "A": []}

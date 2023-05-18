@@ -1,0 +1,1 @@
+{"index": 77285, "D": "the wife of a dauphin. ", "S": [], "A": []}

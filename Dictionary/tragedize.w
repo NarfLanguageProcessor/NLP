@@ -1,0 +1,1 @@
+{"index": 327351, "D": "to make tragic; imbue with the aspects of tragedy", "S": ["amplify ", "exaggerate ", "overstate "], "A": ["reduce ", "abandon ", "fail ", "halt ", "ignore ", "neglect ", "prevent ", "refrain ", "refuse ", "stop ", "veto "]}

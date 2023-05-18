@@ -1,0 +1,1 @@
+{"index": 101606, "D": "a group of attendants or associates, as of a person of rank or importance", "S": ["retinue "], "A": ["leader "]}

@@ -1,0 +1,1 @@
+{"index": 48493, "D": "a small recess or enclosed area in a library stack, designed for individual study or reading.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 42470, "D": "magnitude in three dimensions, especially great size or extent", "S": ["brew ", "come on ", "dominate ", "emerge ", "hover ", "mount ", "overshadow ", "portend ", "soar ", "stand out ", "threaten "], "A": ["decline ", "fall ", "leave ", "abandon ", "descend ", "drop ", "neglect "]}

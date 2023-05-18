@@ -1,0 +1,1 @@
+{"index": 259474, "D": "a dish made by heating a piece of cheese, as over a hearth, and scraping off the melted part onto a plate", "S": [], "A": []}

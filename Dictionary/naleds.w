@@ -1,0 +1,1 @@
+{"index": 196664, "D": "a synthetic insecticide and miticide, C4H7Br2Cl2O4, having relatively low toxicity to mammals.", "S": [], "A": []}

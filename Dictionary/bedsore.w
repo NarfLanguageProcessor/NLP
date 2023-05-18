@@ -1,0 +1,1 @@
+{"index": 30220, "D": "an ulceration of the skin and subcutaneous tissue caused by poor circulation due to prolonged pressure on body parts, especially bony protuberances, occurring in bedridden or immobile patients; decubitus ulcer.", "S": [], "A": []}

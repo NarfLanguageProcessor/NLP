@@ -1,0 +1,1 @@
+{"index": 327678, "D": "the transfer of an amino group  from one compound to another.", "S": [], "A": []}

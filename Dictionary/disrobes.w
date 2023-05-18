@@ -1,0 +1,1 @@
+{"index": 89354, "D": "to undress.", "S": ["undress "], "A": ["clothe ", "cover ", "hide "]}

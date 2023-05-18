@@ -1,0 +1,1 @@
+{"index": 49127, "D": "to remove the testes of; emasculate; geld. ", "S": [], "A": []}

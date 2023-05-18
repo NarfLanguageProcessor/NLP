@@ -1,0 +1,1 @@
+{"index": 302661, "D": [], "S": ["evenness ", "likeness ", "order ", "regularity ", "sameness ", "similarity "], "A": ["difference ", "dissimilarity ", "unlikeness "]}

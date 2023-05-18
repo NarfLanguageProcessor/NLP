@@ -1,0 +1,1 @@
+{"index": 12416, "D": "an automaton in the form of a human being.", "S": ["hominoid "], "A": []}

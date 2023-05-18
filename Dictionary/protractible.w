@@ -1,0 +1,1 @@
+{"index": 253923, "D": "to draw out or lengthen, especially in time; extend the duration of; prolong.", "S": ["expandable ", "expansile ", "extendable ", "extendible ", "extensile ", "protractile ", "stretchable "], "A": []}

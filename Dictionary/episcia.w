@@ -1,0 +1,1 @@
+{"index": 102756, "D": "any of several tropical American plants of the genus Episcia, often cultivated as houseplants for their textured, variegated foliage and showy flowers.", "S": [], "A": []}

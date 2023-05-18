@@ -1,0 +1,1 @@
+{"index": 102357, "D": "the study, assessment, and analysis of public health concerns in a given population; the tracking of patterns and effects of diseases, environmental toxins, natural disasters, violence, terrorist attacks, etc.", "S": [], "A": []}

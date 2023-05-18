@@ -1,0 +1,1 @@
+{"index": 76697, "D": "a man who is excessively concerned about his clothes and appearance; a fop.", "S": ["first-rate ", "marvelous ", "nifty ", "splendid ", "terrific "], "A": ["bad ", "insignificant ", "ordinary ", "poor ", "inferior "]}

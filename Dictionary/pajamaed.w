@@ -1,0 +1,1 @@
+{"index": 223250, "D": "clothing for wearing in bed, consisting of usually loose-fitting pants or shorts and matching top", "S": [], "A": []}

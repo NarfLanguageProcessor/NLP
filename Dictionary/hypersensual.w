@@ -1,0 +1,1 @@
+{"index": 140495, "D": "pertaining to, inclined to, or preoccupied with the gratification of the senses or appetites; carnal; fleshly. ", "S": [], "A": []}

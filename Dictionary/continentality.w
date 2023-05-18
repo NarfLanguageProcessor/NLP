@@ -1,0 +1,1 @@
+{"index": 67448, "D": "the degree to which the climate of a region typifies that of the interior of a large landmass.", "S": [], "A": []}

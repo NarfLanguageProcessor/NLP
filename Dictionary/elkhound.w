@@ -1,0 +1,1 @@
+{"index": 97655, "D": "Norwegian elkhound. ", "S": [], "A": []}

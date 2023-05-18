@@ -1,0 +1,1 @@
+{"index": 210180, "D": "to bind or oblige  morally or legally", "S": [], "A": []}

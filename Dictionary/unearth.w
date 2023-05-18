@@ -1,0 +1,1 @@
+{"index": 340956, "D": "to dig or get out of the earth; dig up.", "S": ["ascertain ", "bring to light ", "determine ", "discover ", "dredge up ", "excavate ", "exhibit ", "exhume ", "expose ", "find ", "find out ", "reveal ", "uncover "], "A": ["conceal ", "cover ", "hide ", "lose ", "miss ", "pass by ", "suppress ", "ignore ", "overlook "]}

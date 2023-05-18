@@ -1,0 +1,1 @@
+{"index": 106278, "D": "capable of being avoided; avoidable.", "S": [], "A": []}

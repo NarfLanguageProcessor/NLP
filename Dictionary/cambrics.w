@@ -1,0 +1,1 @@
+{"index": 45624, "D": "a thin, plain cotton or linen fabric of fine close weave, usually white.", "S": ["bedding ", "cloth ", "lingerie "], "A": []}

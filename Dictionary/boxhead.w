@@ -1,0 +1,1 @@
+{"index": 39290, "D": "a heading,  usually atthe top of a page, newspaper column, or column of figures, enclosed in a box  formed by rules.", "S": [], "A": []}

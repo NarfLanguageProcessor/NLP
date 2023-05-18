@@ -1,0 +1,1 @@
+{"index": 225229, "D": "a decorative curled paper placed over the end of the bone of a cutlet or chop.", "S": [], "A": []}

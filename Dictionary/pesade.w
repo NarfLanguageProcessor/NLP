@@ -1,0 +1,1 @@
+{"index": 232229, "D": "a maneuver in which the horse is made to rear, keeping its hind legs stationary and its forelegs drawn in.", "S": [], "A": []}

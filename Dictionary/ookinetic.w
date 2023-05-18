@@ -1,0 +1,1 @@
+{"index": 213021, "D": "the series of nuclear changes occurring in the ovum during maturation and fertilization.", "S": [], "A": []}

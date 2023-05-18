@@ -1,0 +1,1 @@
+{"index": 12869, "D": "a blacksmith skilled in forging angle  irons, beams, etc., into various forms used in shipbuilding.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311222, "D": "affected with sunstroke.", "S": [], "A": []}

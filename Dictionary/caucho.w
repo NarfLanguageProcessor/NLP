@@ -1,0 +1,1 @@
+{"index": 49904, "D": "rubber obtained from the latex of any of several tropical American trees of the genus Castilla, especially C. elastica, of Central America.", "S": [], "A": []}

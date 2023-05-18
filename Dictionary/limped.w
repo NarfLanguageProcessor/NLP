@@ -1,0 +1,1 @@
+{"index": 172495, "D": "to walk with a labored, jerky movement, as when lame.", "S": ["falter ", "hobble ", "hop ", "shuffle ", "stagger ", "stumble ", "waddle "], "A": ["run "]}

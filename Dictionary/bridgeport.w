@@ -1,0 +1,1 @@
+{"index": 40686, "D": "a seaport in SW Connecticut, on Long Island Sound.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 76084, "D": "a person\u2019s father or one\u2019s father.", "S": ["old man ", "papa ", "parent "], "A": []}

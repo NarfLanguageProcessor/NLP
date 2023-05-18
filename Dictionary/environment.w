@@ -1,0 +1,1 @@
+{"index": 101833, "D": "the aggregate of surrounding things, conditions, or influences; surroundings; milieu milieu.", "S": ["climate ", "habitat ", "mise en sc\u00e8ne ", "setting ", "situation ", "status ", "surroundings "], "A": []}

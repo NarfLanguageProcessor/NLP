@@ -1,0 +1,1 @@
+{"index": 365515, "D": "having considerable or great extent from side to side; broad", "S": ["broadness ", "diameter ", "latitude ", "span ", "spread "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 192136, "D": "(of a flower) having a perianth of one whorl of members; not having a separate calyx and corolla", "S": [], "A": []}

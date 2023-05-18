@@ -1,0 +1,1 @@
+{"index": 63493, "D": "of or resembling a snake; snakelike.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 78534, "D": "to translate (data or a message) from a code  into the original language or form.", "S": ["clear up ", "figure out ", "interpret ", "solve ", "translate ", "unravel ", "unscramble ", "untangle "], "A": ["question ", "tangle ", "fix ", "mend "]}

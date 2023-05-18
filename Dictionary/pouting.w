@@ -1,0 +1,1 @@
+{"index": 244970, "D": "to thrust out the lips, especially in displeasure or sullenness.", "S": ["cranky ", "fractious ", "impatient ", "irritable ", "perverse ", "sullen ", "testy ", "whiny "], "A": ["agreeable ", "cheerful ", "happy ", "nice ", "patient ", "willing "]}

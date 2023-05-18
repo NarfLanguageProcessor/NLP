@@ -1,0 +1,1 @@
+{"index": 238818, "D": "expressing sorrow or melancholy; mournful", "S": ["grief-stricken ", "heartrending ", "melancholy ", "mournful ", "sad ", "sorrowful ", "wistful "], "A": ["cheerful ", "happy ", "joyful "]}

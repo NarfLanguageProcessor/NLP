@@ -1,0 +1,1 @@
+{"index": 26753, "D": "Spanish adventurer and explorer who discovered the Pacific Ocean in 1513.", "S": [], "A": []}

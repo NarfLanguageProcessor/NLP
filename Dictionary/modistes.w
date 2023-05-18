@@ -1,0 +1,1 @@
+{"index": 191160, "D": "a female maker of or dealer in women's fashionable attire.", "S": ["designer ", "fitter ", "sewer ", "tailor "], "A": []}

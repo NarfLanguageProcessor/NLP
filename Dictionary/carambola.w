@@ -1,0 +1,1 @@
+{"index": 47326, "D": "a tree, Averrhoa carambola, native to southeastern Asia, bearing deeply ridged, yellow-brown, edible fruit.", "S": [], "A": []}

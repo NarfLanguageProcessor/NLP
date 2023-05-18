@@ -1,0 +1,1 @@
+{"index": 158398, "D": "said, done, or characterized by a lack of a sense of responsibility", "S": [], "A": []}

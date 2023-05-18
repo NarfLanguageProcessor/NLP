@@ -1,0 +1,1 @@
+{"index": 366801, "D": "dyed or colored blue with woad. ", "S": [], "A": []}

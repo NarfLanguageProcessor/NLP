@@ -1,0 +1,1 @@
+{"index": 74199, "D": "wretchedly inadequate; miserable; lousy", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118408, "D": "a system of dividing a community into tithings or groups of ten men, each member of which was responsible for the conduct of the other members of his group and for the assurance that a member charged with a breach of the law would be produced at court.", "S": [], "A": []}

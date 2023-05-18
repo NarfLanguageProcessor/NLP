@@ -1,0 +1,1 @@
+{"index": 16767, "D": "the tip, point, or vertex; summit.", "S": [], "A": []}

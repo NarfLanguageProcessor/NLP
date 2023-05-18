@@ -1,0 +1,1 @@
+{"index": 208316, "D": "that can be seen; perceptible to the eye", "S": [], "A": []}

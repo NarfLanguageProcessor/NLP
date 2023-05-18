@@ -1,0 +1,1 @@
+{"index": 180114, "D": "any lily of the genus Calochortus, of the western U.S. and Mexico, having tuliplike flowers of various colors.", "S": [], "A": []}

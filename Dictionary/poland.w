@@ -1,0 +1,1 @@
+{"index": 241453, "D": "a republic in eastern central Europe, on the Baltic Sea. About 121,000 sq. mi. (313,400 sq. km). Capital", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 112512, "D": "a coin and monetary unit of Bahrain, Iraq, Jordan, Kuwait, and the People's Democratic Republic of Yemen, one 100th of a dinar.", "S": ["boy ", "child ", "descendant ", "heir ", "relative ", "sibling "], "A": ["daughter "]}

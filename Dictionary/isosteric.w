@@ -1,0 +1,1 @@
+{"index": 159265, "D": "having the same number of valence electrons in the same configuration but differing in the kinds and numbers of atoms.", "S": [], "A": []}

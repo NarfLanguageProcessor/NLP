@@ -1,0 +1,1 @@
+{"index": 198018, "D": "expressing or containing negation or denial", "S": ["adverse ", "gloomy ", "pessimistic ", "unfavorable ", "weak "], "A": ["confident ", "favorable "]}

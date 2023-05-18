@@ -1,0 +1,1 @@
+{"index": 101954, "D": "the adoption of feminine mannerisms, clothing, etc., by a male.", "S": [], "A": []}

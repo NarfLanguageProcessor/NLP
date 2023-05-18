@@ -1,0 +1,1 @@
+{"index": 274355, "D": "a strong, thick line or cord, commonly one composed of twisted or braided strands of hemp, flax, or the like, or of wire or other material.", "S": [], "A": []}

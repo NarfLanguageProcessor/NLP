@@ -1,0 +1,1 @@
+{"index": 68094, "D": "a fixed or firm belief", "S": ["confidence ", "faith ", "feeling ", "principle ", "sentiment ", "view "], "A": ["distrust ", "doubt ", "disbelief ", "unbelief "]}

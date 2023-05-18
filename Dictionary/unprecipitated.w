@@ -1,0 +1,1 @@
+{"index": 348285, "D": "having been brought on suddenly or prematurely", "S": [], "A": []}

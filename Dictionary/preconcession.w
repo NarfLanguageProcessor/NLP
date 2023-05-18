@@ -1,0 +1,1 @@
+{"index": 246351, "D": "the act of conceding  or yielding, as a right, a privilege, or a point or fact in an argument", "S": [], "A": []}

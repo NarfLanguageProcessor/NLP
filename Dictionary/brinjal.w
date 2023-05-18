@@ -1,0 +1,1 @@
+{"index": 40874, "D": "(in India and Africa) another name for aubergine", "S": [], "A": []}

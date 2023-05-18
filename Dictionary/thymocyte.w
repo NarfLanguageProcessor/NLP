@@ -1,0 +1,1 @@
+{"index": 321837, "D": "a cell that develops in the thymus  and is the precursor of T cells.", "S": [], "A": []}

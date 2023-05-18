@@ -1,0 +1,1 @@
+{"index": 65968, "D": "a confection; a preserve, as of fruit.", "S": ["gelatin ", "jelly ", "marmalade "], "A": []}

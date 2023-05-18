@@ -1,0 +1,1 @@
+{"index": 176061, "D": "of, relating to, or involving the lumbar  and sacral  regions or parts of the body.", "S": [], "A": []}

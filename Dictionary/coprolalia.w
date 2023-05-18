@@ -1,0 +1,1 @@
+{"index": 68672, "D": "the obsessive use of scatological language.", "S": [], "A": []}

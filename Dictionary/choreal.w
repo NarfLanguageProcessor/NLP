@@ -1,0 +1,1 @@
+{"index": 55748, "D": "any of several diseases of the nervous system characterized by jerky, involuntary movements, chiefly of the face and extremities.", "S": [], "A": []}

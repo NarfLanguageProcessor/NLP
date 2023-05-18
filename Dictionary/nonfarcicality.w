@@ -1,0 +1,1 @@
+{"index": 203947, "D": "pertaining to or of the nature of farce. ", "S": [], "A": []}

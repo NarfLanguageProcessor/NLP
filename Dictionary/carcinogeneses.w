@@ -1,0 +1,1 @@
+{"index": 47661, "D": "the development of a cancer.", "S": [], "A": []}

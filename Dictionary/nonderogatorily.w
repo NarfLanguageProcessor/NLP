@@ -1,0 +1,1 @@
+{"index": 202953, "D": "tending to lessen the merit or reputation of a person or thing; disparaging; depreciatory", "S": [], "A": []}

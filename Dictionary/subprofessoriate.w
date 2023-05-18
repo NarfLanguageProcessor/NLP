@@ -1,0 +1,1 @@
+{"index": 308904, "D": "a group of professors.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 196698, "D": "a flat, usually rectangular piece of metal, wood, or plastic on which the name  of a person, company, etc., is printed or engraved", "S": ["badge ", "decoration ", "medal ", "plate ", "slab "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 150572, "D": "holding an indicated position, role, office, etc., currently", "S": [], "A": []}

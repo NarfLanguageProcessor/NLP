@@ -1,0 +1,1 @@
+{"index": 27537, "D": "to prohibit, forbid, or bar; interdict", "S": ["illegal "], "A": []}

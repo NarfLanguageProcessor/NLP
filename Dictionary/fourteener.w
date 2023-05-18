@@ -1,0 +1,1 @@
+{"index": 118016, "D": "a line, especially an iambic line, consisting of 14 syllables.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 294979, "D": "smoke  or other atmospheric pollutants combined with fog  in an unhealthy or irritating mixture.", "S": ["acid rain ", "carbon dioxide ", "fog ", "smoke ", "soot "], "A": []}

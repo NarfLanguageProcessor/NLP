@@ -1,0 +1,1 @@
+{"index": 169112, "D": "of or relating to Archbishop Laud or his beliefs, especially that the Church of England preserves more fully than the Roman Catholic Church the faith and practices of the primitive church and that kings rule by divine right.", "S": [], "A": []}

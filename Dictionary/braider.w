@@ -1,0 +1,1 @@
+{"index": 39698, "D": "to weave together strips or strands of; plait", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108415, "D": "to take illegally by reason of one's office.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 197521, "D": "to move on, over, or through (water, air, or land) in a ship or aircraft", "S": ["cross ", "cruise ", "handle ", "maneuver ", "operate ", "sail ", "steer "], "A": ["neglect ", "forget "]}

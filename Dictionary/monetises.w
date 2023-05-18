@@ -1,0 +1,1 @@
+{"index": 191897, "D": "to legalize as money.", "S": [], "A": []}

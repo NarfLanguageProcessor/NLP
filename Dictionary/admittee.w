@@ -1,0 +1,1 @@
+{"index": 4205, "D": "a person who has been or is going to be admitted", "S": [], "A": []}

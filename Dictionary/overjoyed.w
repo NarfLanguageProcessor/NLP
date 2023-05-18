@@ -1,0 +1,1 @@
+{"index": 219938, "D": "delighted; excessively happy", "S": ["delighted ", "elated ", "euphoric ", "jubilant ", "thrilled "], "A": ["depressed ", "sad ", "sorrowful ", "unhappy "]}

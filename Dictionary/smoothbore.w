@@ -1,0 +1,1 @@
+{"index": 295057, "D": "(of firearms) having a bore  that is smooth;  not rifled.", "S": [], "A": []}

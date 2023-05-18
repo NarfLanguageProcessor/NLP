@@ -1,0 +1,1 @@
+{"index": 157838, "D": "any plant belonging to the genus Ipomoea, of the morning glory family, certain species of which are cultivated for their large, showy flowers.", "S": [], "A": []}

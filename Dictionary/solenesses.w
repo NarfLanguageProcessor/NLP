@@ -1,0 +1,1 @@
+{"index": 296634, "D": "being the only one; only", "S": ["agreement ", "consensus ", "harmony ", "identity ", "integrity ", "peace ", "solidarity ", "unanimity ", "unification "], "A": ["disagreement ", "fighting ", "antagonism ", "denial ", "difference ", "discord ", "dissension ", "disunion ", "division ", "divorce ", "opposition ", "refusal ", "separation "]}

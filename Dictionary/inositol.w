@@ -1,0 +1,1 @@
+{"index": 153251, "D": "a compound, C6H12O6, derivative of cyclohexane, widely distributed in plants and seeds as phytin, and occurring in animal tissue and in urine", "S": [], "A": []}

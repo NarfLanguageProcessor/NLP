@@ -1,0 +1,1 @@
+{"index": 45680, "D": "any of the mercantilist economists or public servants in Europe in the 17th and 18th centuries who held that the economic power of a nation can be enhanced by increasing its monetary wealth, as by the accumulation of bullion.", "S": [], "A": []}

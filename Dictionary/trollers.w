@@ -1,0 +1,1 @@
+{"index": 331042, "D": "to fish for or in with a moving line, either working the line up or down with a rod as in fishing for pike, or trailing the line behind a slow-moving boat", "S": ["fisher ", "trawler "], "A": []}

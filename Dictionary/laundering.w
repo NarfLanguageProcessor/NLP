@@ -1,0 +1,1 @@
+{"index": 169170, "D": "to wash (clothes, linens, etc.).", "S": ["housekeeping ", "sewing "], "A": []}

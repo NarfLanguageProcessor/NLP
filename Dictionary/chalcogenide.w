@@ -1,0 +1,1 @@
+{"index": 52103, "D": "a binary compound consisting of a chalcogen and a more electropositive element or radical.", "S": [], "A": []}

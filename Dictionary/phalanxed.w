@@ -1,0 +1,1 @@
+{"index": 232868, "D": "(in ancient Greece) a group of heavily armed infantry formed in ranks and files close and deep, with shields joined and long spears overlapping.", "S": [], "A": []}

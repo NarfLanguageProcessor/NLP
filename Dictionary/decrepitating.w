@@ -1,0 +1,1 @@
+{"index": 78757, "D": "to roast or calcine (salt, minerals, etc.) so as to cause crackling or until crackling ceases.", "S": ["sparkle "], "A": ["fix "]}

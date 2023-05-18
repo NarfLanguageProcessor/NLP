@@ -1,0 +1,1 @@
+{"index": 74302, "D": "having a crust;  encrusted.", "S": ["cover ", "glaze ", "laminate ", "paint ", "smear ", "stain "], "A": ["strip "]}

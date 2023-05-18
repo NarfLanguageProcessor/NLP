@@ -1,0 +1,1 @@
+{"index": 319914, "D": "fastened or confined with or as if with a rope, chain, or the like to limit the range of movement", "S": ["barred ", "blocked ", "closed ", "confined ", "controlled ", "defined ", "deprived ", "prescribed ", "reduced ", "restrained ", "secured ", "shortened "], "A": ["free ", "unbounded "]}

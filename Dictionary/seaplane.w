@@ -1,0 +1,1 @@
+{"index": 282524, "D": "an airplane provided with floats for taking off from or landing on water.", "S": [], "A": []}

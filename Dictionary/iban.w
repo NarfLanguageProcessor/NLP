@@ -1,0 +1,1 @@
+{"index": 145915, "D": "a member of any of several Dayak tribes of Sarawak.", "S": [], "A": []}

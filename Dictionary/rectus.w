@@ -1,0 +1,1 @@
+{"index": 263750, "D": "any of several straight muscles, as of the abdomen, thigh, eye, etc.", "S": [], "A": []}

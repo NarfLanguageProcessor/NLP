@@ -1,0 +1,1 @@
+{"index": 94833, "D": [], "S": ["earthen ", "loamy ", "terrestrial "], "A": []}

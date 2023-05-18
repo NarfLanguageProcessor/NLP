@@ -1,0 +1,1 @@
+{"index": 247725, "D": "the state, condition, or quality of being pregnant. ", "S": ["fertilization ", "germination ", "gravidity ", "gravidness ", "impregnation ", "parturiency ", "propagation "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 64600, "D": "an expression of discontent, regret, pain, censure, resentment, or grief; lament; faultfinding", "S": ["accusation ", "charge ", "criticism ", "grievance ", "gripe ", "objection ", "protest ", "trouble "], "A": ["acceptance ", "approval ", "compliment ", "exculpation ", "flattery ", "praise ", "happiness ", "pleasure ", "silence "]}

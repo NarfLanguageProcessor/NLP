@@ -1,0 +1,1 @@
+{"index": 287551, "D": "to make or become sharp  or sharper. ", "S": [], "A": []}

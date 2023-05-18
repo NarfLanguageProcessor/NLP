@@ -1,0 +1,1 @@
+{"index": 241177, "D": "an inferior poet;  a writer of indifferent verse.", "S": ["artist ", "author ", "balladist ", "bard ", "dilettante ", "dramatist ", "librettist ", "lyricist ", "lyrist ", "maker ", "metrist ", "muse ", "odist ", "parodist ", "poetess ", "rhapsodist ", "rhymer ", "rhymester ", "rimer ", "sonnetist ", "versifier ", "writer "], "A": []}

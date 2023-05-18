@@ -1,0 +1,1 @@
+{"index": 248877, "D": "any member of a class of words found in many languages that are used before nouns, pronouns, or other substantives to form phrases functioning as modifiers of verbs, nouns, or adjectives, and that typically express a spatial, temporal, or other relationship, as in, on, by, to, since.", "S": [], "A": []}

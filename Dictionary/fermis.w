@@ -1,0 +1,1 @@
+{"index": 111404, "D": "a unit of length, 10\u221215 m, used in measuring nuclear distances. Symbol", "S": [], "A": []}

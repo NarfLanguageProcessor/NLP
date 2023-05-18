@@ -1,0 +1,1 @@
+{"index": 114781, "D": "a boxer or other contestant of the lightest competitive class, especially a professional boxer weighing up to 112 pounds (51 kilograms).", "S": [], "A": []}

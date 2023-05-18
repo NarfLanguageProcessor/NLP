@@ -1,0 +1,1 @@
+{"index": 10471, "D": "congenital absence of the spinal cord.", "S": [], "A": []}

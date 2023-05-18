@@ -1,0 +1,1 @@
+{"index": 146477, "D": "a system of beliefs in psychology emphasizing the role of the personality in choosing stimuli and in organizing responses.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311115, "D": "not subject to fading in sunlight, as a dye, fabric, or garment.", "S": [], "A": []}

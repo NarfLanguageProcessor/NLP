@@ -1,0 +1,1 @@
+{"index": 359643, "D": "with active strength or force; energetically or powerfully", "S": ["actively ", "boldly ", "eagerly ", "earnestly ", "firmly ", "forcefully ", "healthily ", "passionately ", "quickly ", "resolutely ", "robustly ", "sincerely ", "strenuously ", "wholeheartedly ", "zealously "], "A": []}

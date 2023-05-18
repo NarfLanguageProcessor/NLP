@@ -1,0 +1,1 @@
+{"index": 357039, "D": "without liveliness or spirit; dull or tedious", "S": ["boring ", "innocuous ", "insipid ", "stale ", "tedious ", "uninspiring "], "A": ["exciting ", "interesting "]}

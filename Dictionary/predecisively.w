@@ -1,0 +1,1 @@
+{"index": 246696, "D": "in a way that settles a matter and puts an end to debate or speculation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349869, "D": "of the nature of or characterized by reverence; reverent", "S": [], "A": []}

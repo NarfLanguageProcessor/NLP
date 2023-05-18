@@ -1,0 +1,1 @@
+{"index": 292619, "D": "a sore on a horse's back caused by rubbing of the saddle", "S": [], "A": []}

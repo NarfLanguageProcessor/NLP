@@ -1,0 +1,1 @@
+{"index": 155639, "D": "a judicial proceeding by which, when two parties make the same claim against a third party, the rightful claimant is determined.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 337167, "D": "capable of being perceived or known.", "S": [], "A": []}

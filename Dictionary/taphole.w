@@ -1,0 +1,1 @@
+{"index": 316360, "D": "a hole  in a blast furnace, steelmaking furnace, etc., through which molten metal or slag is tapped  off.", "S": [], "A": []}

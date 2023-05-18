@@ -1,0 +1,1 @@
+{"index": 244279, "D": "the official in charge of a post office. ", "S": ["postal service "], "A": []}

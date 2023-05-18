@@ -1,0 +1,1 @@
+{"index": 36724, "D": "a person who wears a coat  or uniform that is blue. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201037, "D": "increasing by natural growth or gradual addition", "S": [], "A": []}

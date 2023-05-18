@@ -1,0 +1,1 @@
+{"index": 31990, "D": "a white or yellow, crystalline, water-soluble alkaloid, C20H19NO5, derived from barberry or goldenseal, used as an antipyrotic, antibacterial, and stomachic.", "S": [], "A": []}

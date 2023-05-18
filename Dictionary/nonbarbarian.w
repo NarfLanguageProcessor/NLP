@@ -1,0 +1,1 @@
+{"index": 201610, "D": "a person in a savage, primitive state; uncivilized person.", "S": [], "A": []}

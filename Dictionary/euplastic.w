@@ -1,0 +1,1 @@
+{"index": 105695, "D": "capable of being transformed into organized tissue.", "S": [], "A": []}

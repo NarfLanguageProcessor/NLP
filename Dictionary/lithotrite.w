@@ -1,0 +1,1 @@
+{"index": 173797, "D": "an instrument for performing lithotrity.", "S": [], "A": []}

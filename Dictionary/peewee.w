@@ -1,0 +1,1 @@
+{"index": 229106, "D": "very small; tiny.", "S": ["miniature ", "pint-sized "], "A": ["big ", "enormous ", "giant ", "huge ", "immense ", "important ", "large "]}

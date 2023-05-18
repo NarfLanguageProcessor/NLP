@@ -1,0 +1,1 @@
+{"index": 175248, "D": "lord. ", "S": ["dear me ", "gee ", "golly ", "goodness gracious ", "lord "], "A": []}

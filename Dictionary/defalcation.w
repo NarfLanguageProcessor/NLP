@@ -1,0 +1,1 @@
+{"index": 79085, "D": "misappropriation of money or funds held by an official, trustee, or other fiduciary.", "S": ["default ", "disaster ", "failure ", "insolvency ", "liquidation ", "loss "], "A": ["accomplishment ", "achievement ", "success ", "win "]}

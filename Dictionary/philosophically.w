@@ -1,0 +1,1 @@
+{"index": 233939, "D": "of or relating to philosophy", "S": ["culturally ", "politically ", "psychologically "], "A": []}

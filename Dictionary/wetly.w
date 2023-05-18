@@ -1,0 +1,1 @@
+{"index": 364305, "D": "moistened, covered, or soaked with water or some other liquid", "S": [], "A": []}

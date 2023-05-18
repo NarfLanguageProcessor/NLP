@@ -1,0 +1,1 @@
+{"index": 315587, "D": "a special natural ability or aptitude", "S": ["art ", "capability ", "capacity ", "expertise ", "flair ", "genius ", "gift ", "knack ", "know-how ", "power ", "savvy ", "skill ", "thing "], "A": ["ignorance ", "impotence ", "inability ", "incapacity ", "incompetence ", "ineptitude ", "ineptness ", "lack ", "want ", "stupidity ", "weakness "]}

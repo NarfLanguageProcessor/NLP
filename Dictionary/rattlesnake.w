@@ -1,0 +1,1 @@
+{"index": 261173, "D": "any of several New World pit vipers of the genera Crotalus and Sistrurus, having a rattle  composed of a series of horny, interlocking elements at the end of the tail.", "S": [], "A": []}

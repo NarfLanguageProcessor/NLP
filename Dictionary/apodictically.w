@@ -1,0 +1,1 @@
+{"index": 17178, "D": "incontestable because of having been demonstrated or proved to be demonstrable.", "S": [], "A": []}

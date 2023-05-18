@@ -1,0 +1,1 @@
+{"index": 297612, "D": "a form of argument having several premises and one conclusion, capable of being resolved into a chain of syllogisms, the conclusion of each of which is a premise of the next.", "S": [], "A": []}

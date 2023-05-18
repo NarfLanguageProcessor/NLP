@@ -1,0 +1,1 @@
+{"index": 26765, "D": "a balustraded or railed elevated platform projecting from the wall of a building.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 31829, "D": "a clear, colorless, viscous, poisonous liquid, C7H5N, used chiefly as an intermediate in organic synthesis.", "S": [], "A": []}

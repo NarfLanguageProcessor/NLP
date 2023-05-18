@@ -1,0 +1,1 @@
+{"index": 193756, "D": "the condition of lands or tenements held without right of alienation, as by an ecclesiastical corporation; inalienable ownership.", "S": [], "A": []}

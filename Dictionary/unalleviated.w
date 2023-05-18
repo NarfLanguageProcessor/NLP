@@ -1,0 +1,1 @@
+{"index": 334822, "D": "to make easier to endure; lessen; mitigate", "S": ["sheer ", "unadulterated ", "unqualified "], "A": ["indefinite "]}

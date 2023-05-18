@@ -1,0 +1,1 @@
+{"index": 71128, "D": "a legal claim made as a reaction to a claim made against one", "S": [], "A": []}

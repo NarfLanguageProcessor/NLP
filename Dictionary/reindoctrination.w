@@ -1,0 +1,1 @@
+{"index": 266245, "D": "the act of indoctrinating,  or teaching or inculcating a doctrine, principle, or ideology, especially one with a specific point of view", "S": [], "A": []}

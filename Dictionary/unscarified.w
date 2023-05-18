@@ -1,0 +1,1 @@
+{"index": 350457, "D": "to make scratches or superficial incisions in (the skin), to produce an immune response or administer certain injections", "S": [], "A": []}

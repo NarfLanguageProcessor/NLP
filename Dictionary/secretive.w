@@ -1,0 +1,1 @@
+{"index": 282817, "D": "having or showing a disposition to secrecy;  reticent", "S": ["covert ", "enigmatic ", "reticent ", "taciturn "], "A": ["communicative "]}

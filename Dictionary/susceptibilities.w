@@ -1,0 +1,1 @@
+{"index": 313694, "D": "state or character of being susceptible", "S": ["awareness ", "perceptivity ", "sensitivity "], "A": ["insensitivity "]}

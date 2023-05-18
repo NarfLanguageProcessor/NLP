@@ -1,0 +1,1 @@
+{"index": 201773, "D": "to make false and malicious statements about; slander.", "S": [], "A": []}

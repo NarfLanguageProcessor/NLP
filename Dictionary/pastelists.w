@@ -1,0 +1,1 @@
+{"index": 227406, "D": "an artist who draws with pastels. ", "S": [], "A": []}

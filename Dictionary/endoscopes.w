@@ -1,0 +1,1 @@
+{"index": 99943, "D": "a slender, tubular optical instrument used as a viewing system for examining an inner part of the body and, with an attached instrument, for biopsy or surgery.", "S": [], "A": []}

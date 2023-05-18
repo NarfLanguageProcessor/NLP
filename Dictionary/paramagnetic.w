@@ -1,0 +1,1 @@
+{"index": 225787, "D": "Compare antiferromagnetic, diamagnetic, ferrimagnetic, ferromagnetic. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 2566, "D": "to admit to be real or true; recognize the existence, truth, or fact of", "S": ["affirmatory ", "approving ", "positive ", "supporting "], "A": ["dissenting ", "negative "]}

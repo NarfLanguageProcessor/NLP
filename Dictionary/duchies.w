@@ -1,0 +1,1 @@
+{"index": 93734, "D": "the territory ruled by a duke or duchess.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 237454, "D": "the stem  of a tobacco pipe. ", "S": [], "A": []}

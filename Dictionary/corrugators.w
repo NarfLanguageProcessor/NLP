@@ -1,0 +1,1 @@
+{"index": 69759, "D": "to draw or bend into folds or alternate furrows and ridges.", "S": [], "A": []}

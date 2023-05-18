@@ -1,0 +1,1 @@
+{"index": 343091, "D": "giving off or appearing to give off light or brightness; radiant; shining", "S": [], "A": []}

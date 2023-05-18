@@ -1,0 +1,1 @@
+{"index": 235059, "D": "the breaking down of molecules by radiant energy.", "S": [], "A": []}

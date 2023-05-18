@@ -1,0 +1,1 @@
+{"index": 156211, "D": "to weave  together, as threads, strands, branches, or roots.", "S": ["fuse ", "intertwine ", "knit "], "A": ["disconnect ", "divide ", "separate "]}

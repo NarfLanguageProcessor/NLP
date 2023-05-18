@@ -1,0 +1,1 @@
+{"index": 328028, "D": "of or relating to the transfer of something from one person, position, or place to another.", "S": [], "A": []}

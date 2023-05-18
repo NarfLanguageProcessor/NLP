@@ -1,0 +1,1 @@
+{"index": 326623, "D": "any of several large, brightly colored birds of the family Musophagidae, of Africa, having a helmetlike crest.", "S": [], "A": []}

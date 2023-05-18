@@ -1,0 +1,1 @@
+{"index": 244254, "D": "the right by which persons and things taken in war are restored to their former status when coming again under the power of the nation to which they belonged.", "S": [], "A": []}

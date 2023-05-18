@@ -1,0 +1,1 @@
+{"index": 322949, "D": "a rare-earth metallic element found in the minerals euxenite, gadolinite, etc.Symbol", "S": [], "A": []}

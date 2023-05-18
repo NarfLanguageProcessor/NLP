@@ -1,0 +1,1 @@
+{"index": 88432, "D": "lacking in frankness, candor, or sincerity; falsely or hypocritically ingenuous;  insincere", "S": ["ambidexterity ", "artificiality ", "deceit ", "deception ", "dishonesty ", "double-dealing ", "hypocrisy "], "A": ["forthrightness ", "frankness ", "honesty ", "openness ", "sincerity ", "truth ", "truthfulness ", "uprightness "]}

@@ -1,0 +1,1 @@
+{"index": 5478, "D": "to free from a state of dependence, servitude, or obligation.", "S": [], "A": []}

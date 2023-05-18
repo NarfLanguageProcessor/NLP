@@ -1,0 +1,1 @@
+{"index": 313917, "D": "a large mop used on shipboard for cleaning decks, living quarters, etc.", "S": ["daub ", "mop "], "A": ["dirty "]}

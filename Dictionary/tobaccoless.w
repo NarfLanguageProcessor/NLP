@@ -1,0 +1,1 @@
+{"index": 324930, "D": "any of several plants belonging to the genus Nicotiana, of the nightshade family, especially one of those species, as N. tabacum, whose leaves are prepared for smoking or chewing or as snuff.", "S": [], "A": []}

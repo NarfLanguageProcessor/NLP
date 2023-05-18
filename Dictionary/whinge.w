@@ -1,0 +1,1 @@
+{"index": 364868, "D": "to complain; whine. ", "S": [], "A": []}

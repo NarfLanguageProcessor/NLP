@@ -1,0 +1,1 @@
+{"index": 258752, "D": "a quinonoid  substance.", "S": [], "A": []}

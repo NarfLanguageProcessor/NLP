@@ -1,0 +1,1 @@
+{"index": 72174, "D": "an act of defecation.", "S": ["junk "], "A": ["assets ", "possessions "]}

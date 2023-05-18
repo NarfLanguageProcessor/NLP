@@ -1,0 +1,1 @@
+{"index": 297227, "D": "a female singer, especially one who specializes in popular songs. ", "S": ["caroler ", "chorister ", "singer ", "songster ", "voice "], "A": []}

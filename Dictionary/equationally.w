@@ -1,0 +1,1 @@
+{"index": 103195, "D": "of, using, or involving equations. ", "S": [], "A": []}

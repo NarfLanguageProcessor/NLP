@@ -1,0 +1,1 @@
+{"index": 259583, "D": "a plural of radix. ", "S": ["essence ", "foundation ", "heart ", "origin ", "seed ", "soul ", "source ", "stem ", "stuff "], "A": ["effect ", "end ", "result ", "conclusion ", "consequence ", "exterior ", "exteriority ", "extra ", "outgrowth ", "outside ", "trivia "]}

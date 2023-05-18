@@ -1,0 +1,1 @@
+{"index": 306213, "D": "a group of any of the major bast fibers, as flax or jute, prepared for conversion into sliver form.", "S": [], "A": []}

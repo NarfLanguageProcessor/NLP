@@ -1,0 +1,1 @@
+{"index": 41603, "D": "a circular stone tower built around the beginning of the Christian era, having an inner and an outer wall, found on the Orkney Islands, Shetland Islands, the Hebrides, and the mainland of Scotland.", "S": [], "A": []}

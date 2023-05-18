@@ -1,0 +1,1 @@
+{"index": 321157, "D": "to form a theory  or theories. ", "S": ["guesswork ", "hunch ", "hypothesis ", "inference ", "supposition "], "A": ["proof ", "reality ", "truth ", "calculation ", "certainty ", "fact ", "measurement "]}

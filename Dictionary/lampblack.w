@@ -1,0 +1,1 @@
+{"index": 167775, "D": "a fine black  pigment consisting of almost pure carbon collected as soot from the smoke of burning oil, gas, etc.", "S": [], "A": []}

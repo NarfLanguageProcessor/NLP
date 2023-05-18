@@ -1,0 +1,1 @@
+{"index": 124631, "D": "an unbeliever; a non-Muslim, especially a Christian.", "S": [], "A": []}

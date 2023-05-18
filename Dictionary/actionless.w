@@ -1,0 +1,1 @@
+{"index": 3240, "D": "the process or state of acting or of being active", "S": [], "A": []}

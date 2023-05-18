@@ -1,0 +1,1 @@
+{"index": 346633, "D": "feeling or expressing sorrow or grief; sorrowful; sad.", "S": [], "A": []}

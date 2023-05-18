@@ -1,0 +1,1 @@
+{"index": 242313, "D": "a woody pore fungus, Laetiporus (Polyporus) sulphureus, that forms large, brightly colored, shelflike growths on old logs and tree stumps.", "S": [], "A": []}

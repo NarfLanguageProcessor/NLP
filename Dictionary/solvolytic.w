@@ -1,0 +1,1 @@
+{"index": 296941, "D": "a chemical reaction in which the solvent and solute interact; lyolysis.", "S": [], "A": []}

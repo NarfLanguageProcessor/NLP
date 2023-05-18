@@ -1,0 +1,1 @@
+{"index": 289701, "D": "to attack (used especially in commanding a dog)", "S": ["goad ", "motivate ", "prompt ", "propel ", "provoke ", "remind ", "spur ", "stimulate "], "A": ["depress ", "discourage ", "dissuade ", "halt ", "prevent ", "stop ", "calm ", "quiet ", "repress ", "suppress "]}

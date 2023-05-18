@@ -1,0 +1,1 @@
+{"index": 63344, "D": "abounding in color", "S": ["good humor ", "hilarity ", "joie de vivre "], "A": ["depression ", "discouragement ", "dullness ", "gloom ", "sadness ", "seriousness ", "sorrow ", "unhappiness ", "work "]}

@@ -1,0 +1,1 @@
+{"index": 210284, "D": "to cloud over; becloud; obscure. ", "S": [], "A": []}

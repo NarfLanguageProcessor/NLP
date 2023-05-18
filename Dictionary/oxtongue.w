@@ -1,0 +1,1 @@
+{"index": 222481, "D": "any of various Eurasian plants of the genus Picris, having oblong bristly leaves and clusters of dandelion-like flowers", "S": [], "A": []}

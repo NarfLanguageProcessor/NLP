@@ -1,0 +1,1 @@
+{"index": 344182, "D": "(of a pinnate leaf) having only a single pair of leaflets.", "S": [], "A": []}

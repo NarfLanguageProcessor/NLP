@@ -1,0 +1,1 @@
+{"index": 95858, "D": "something educed; eduction.", "S": [], "A": []}

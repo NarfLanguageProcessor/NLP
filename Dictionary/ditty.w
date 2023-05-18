@@ -1,0 +1,1 @@
+{"index": 90150, "D": "a poem intended to be sung.", "S": ["ballad ", "jingle ", "tune "], "A": []}

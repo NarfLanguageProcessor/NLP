@@ -1,0 +1,1 @@
+{"index": 327161, "D": "the act of a person or thing that traces. ", "S": ["boundary ", "channel ", "edge "], "A": ["inside ", "interior "]}

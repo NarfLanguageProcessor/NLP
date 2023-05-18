@@ -1,0 +1,1 @@
+{"index": 347022, "D": "highly objectionable or offensive; odious", "S": [], "A": []}

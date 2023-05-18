@@ -1,0 +1,1 @@
+{"index": 137151, "D": "the science of interpretation, especially of the Scriptures.", "S": ["exploration ", "interpretation ", "investigation ", "revealing ", "unmasking "], "A": []}

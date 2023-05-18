@@ -1,0 +1,1 @@
+{"index": 220172, "D": "the act of magnifying  or the state of being magnified. ", "S": [], "A": []}

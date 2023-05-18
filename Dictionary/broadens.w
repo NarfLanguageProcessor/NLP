@@ -1,0 +1,1 @@
+{"index": 41064, "D": "to become or make broad. ", "S": ["augment ", "develop ", "enlarge ", "expand ", "increase ", "open up ", "widen "], "A": ["abridge ", "compress ", "decrease ", "diminish ", "lessen ", "lower ", "narrow ", "shrink ", "concentrate "]}

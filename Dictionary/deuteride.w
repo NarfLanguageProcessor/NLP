@@ -1,0 +1,1 @@
+{"index": 83362, "D": "a hydride in which deuterium  takes the place of ordinary hydrogen.", "S": [], "A": []}

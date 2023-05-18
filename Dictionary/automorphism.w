@@ -1,0 +1,1 @@
+{"index": 24238, "D": "an isomorphism from a given set to itself.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293549, "D": "to make or become less active, vigorous, intense, etc.", "S": ["abatement ", "decline ", "decrease ", "discount ", "ebb ", "reduction "], "A": ["enlargement ", "increase ", "rise "]}

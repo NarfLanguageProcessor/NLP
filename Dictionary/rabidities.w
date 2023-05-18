@@ -1,0 +1,1 @@
+{"index": 259285, "D": "irrationally extreme in opinion or practice", "S": ["braggadocio ", "bravado ", "swagger "], "A": []}

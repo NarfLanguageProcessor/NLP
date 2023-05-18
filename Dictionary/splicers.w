@@ -1,0 +1,1 @@
+{"index": 300534, "D": "a device used to hold two sections of motion-picture film, recording tape, etc., in proper alignment while they are being spliced  together.", "S": [], "A": []}

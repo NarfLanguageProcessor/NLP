@@ -1,0 +1,1 @@
+{"index": 106157, "D": "(of trees, shrubs, etc.) having green  leaves throughout the entire year, the leaves of the past season not being shed until after the new foliage has been completely formed.", "S": ["fir ", "hedge ", "pine "], "A": []}

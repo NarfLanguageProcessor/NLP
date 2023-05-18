@@ -1,0 +1,1 @@
+{"index": 335583, "D": "a rigid, ring-shaped bracelet usually made without a clasp so as to slip over the hand, but sometimes having a hinged opening and a clasp.", "S": [], "A": []}

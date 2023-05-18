@@ -1,0 +1,1 @@
+{"index": 342604, "D": "protected or strengthened against attack; provided with defensive military works", "S": [], "A": []}

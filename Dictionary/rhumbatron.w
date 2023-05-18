@@ -1,0 +1,1 @@
+{"index": 272386, "D": "another name for cavity resonator", "S": [], "A": []}

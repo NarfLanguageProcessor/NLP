@@ -1,0 +1,1 @@
+{"index": 90626, "D": "a landing pier.", "S": ["anticipated ", "expected ", "forthcoming ", "impending ", "subsequent "], "A": ["distant ", "away ", "far ", "gone ", "past "]}

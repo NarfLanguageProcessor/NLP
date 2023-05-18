@@ -1,0 +1,1 @@
+{"index": 214613, "D": "having or characterized by the power of originating;  creative.", "S": ["gifted ", "ingenious ", "innovative ", "inventive ", "original ", "productive ", "prolific ", "visionary "], "A": ["fruitless ", "impotent ", "inept ", "old ", "uncreative ", "unfruitful ", "unproductive "]}

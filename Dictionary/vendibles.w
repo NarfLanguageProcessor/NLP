@@ -1,0 +1,1 @@
+{"index": 357961, "D": "capable of being vended;  salable", "S": ["cargo ", "freight ", "stock ", "textile "], "A": []}

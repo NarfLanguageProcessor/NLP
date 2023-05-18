@@ -1,0 +1,1 @@
+{"index": 70529, "D": "a steep gorge or gully on the side of a mountain, especially in the Alps.", "S": ["aisle ", "foyer ", "hall ", "lobby ", "passage ", "passageway "], "A": []}

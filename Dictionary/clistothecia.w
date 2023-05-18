@@ -1,0 +1,1 @@
+{"index": 60184, "D": "cleistothecium. ", "S": [], "A": []}

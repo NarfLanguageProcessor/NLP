@@ -1,0 +1,1 @@
+{"index": 153717, "D": "incapable of being solved or explained; insoluble.", "S": [], "A": []}

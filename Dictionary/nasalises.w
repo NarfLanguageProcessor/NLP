@@ -1,0 +1,1 @@
+{"index": 197089, "D": "to pronounce as a nasal  sound.", "S": [], "A": []}

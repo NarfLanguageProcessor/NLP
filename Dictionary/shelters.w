@@ -1,0 +1,1 @@
+{"index": 288001, "D": "something beneath, behind, or within which a person, animal, or thing is protected from storms, missiles, adverse conditions, etc.; refuge.", "S": ["apartment ", "asylum ", "condo ", "dwelling ", "haven ", "home ", "house ", "hut ", "lodging ", "refuge ", "safety ", "sanctuary ", "shack ", "shed ", "tent "], "A": ["brightness ", "light "]}

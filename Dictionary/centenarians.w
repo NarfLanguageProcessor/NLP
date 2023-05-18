@@ -1,0 +1,1 @@
+{"index": 50821, "D": "pertaining to or having lived 100 years.", "S": [], "A": []}

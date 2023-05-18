@@ -1,0 +1,1 @@
+{"index": 101147, "D": "the platform above the dado on a pedestal.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 354453, "D": "to, toward, or in a more elevated position", "S": ["at the apex of ", "at the summit ", "at the top "], "A": ["down "]}

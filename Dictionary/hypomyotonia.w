@@ -1,0 +1,1 @@
+{"index": 141023, "D": "abnormally diminished muscular tone.", "S": [], "A": []}

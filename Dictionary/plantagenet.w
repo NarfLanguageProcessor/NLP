@@ -1,0 +1,1 @@
+{"index": 239074, "D": "a member of the royal house that ruled England from the accession of Henry II in 1154 to the death of Richard III in 1485.", "S": [], "A": []}

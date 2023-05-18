@@ -1,0 +1,1 @@
+{"index": 157652, "D": "a naturally occurring radioactive isotope of thorium. Symbol", "S": [], "A": []}

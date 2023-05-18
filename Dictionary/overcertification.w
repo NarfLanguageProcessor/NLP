@@ -1,0 +1,1 @@
+{"index": 218549, "D": "to certify  (a bank check) for an amount greater than the balance in the drawer's account.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 268865, "D": "a wish or prayer for the repose of the dead.", "S": [], "A": []}

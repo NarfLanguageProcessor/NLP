@@ -1,0 +1,1 @@
+{"index": 352057, "D": "to prick or wound with a sharp-pointed, often venom-bearing organ.", "S": ["big ", "eager ", "willing "], "A": ["parsimonious ", "penny-pinching ", "stingy ", "thrifty ", "tight-fisted ", "ungenerous "]}

@@ -1,0 +1,1 @@
+{"index": 314739, "D": "a small flap, strap, loop, or similar appendage, as on a garment, used for pulling, hanging, or decoration.", "S": ["bookmark ", "clip ", "flag ", "flap ", "holder ", "logo ", "loop ", "marker ", "slip ", "sticker ", "stop ", "strip ", "tag "], "A": []}

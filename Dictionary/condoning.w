@@ -1,0 +1,1 @@
+{"index": 65672, "D": "to disregard or overlook (something illegal, objectionable, or the like)", "S": ["tolerating "], "A": []}

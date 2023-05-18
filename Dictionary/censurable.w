@@ -1,0 +1,1 @@
+{"index": 50774, "D": "deserving censure  or blame.", "S": ["culpable ", "guilty ", "wrong "], "A": []}

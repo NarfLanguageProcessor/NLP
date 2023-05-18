@@ -1,0 +1,1 @@
+{"index": 340745, "D": "full of, expressing, or causing pain or sorrow; grievous; mournful", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 75573, "D": "a leap of a horse from a rearing position, in which it springs up with the hind legs outstretched as the forelegs descend.", "S": ["bounce ", "bound ", "dive ", "drop ", "fall ", "hop ", "plummet ", "skip ", "surge ", "take ", "top ", "vault "], "A": ["lose ", "retreat "]}

@@ -1,0 +1,1 @@
+{"index": 257411, "D": "an evergreen shrub, Catha edulis, of Arabia and Africa, the leaves of which are used as a narcotic when chewed or made into a beverage.", "S": [], "A": []}

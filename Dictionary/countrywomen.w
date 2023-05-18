@@ -1,0 +1,1 @@
+{"index": 71251, "D": "a woman  who is a native or inhabitant of one's own country. ", "S": ["compatriot ", "national "], "A": []}

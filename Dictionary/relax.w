@@ -1,0 +1,1 @@
+{"index": 266782, "D": "to make less tense, rigid, or firm; make lax", "S": ["calm ", "lie down ", "loosen up ", "recline ", "sit back ", "soften ", "unwind "], "A": ["agitate ", "irritate ", "worry ", "energize "]}

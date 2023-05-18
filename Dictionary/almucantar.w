@@ -1,0 +1,1 @@
+{"index": 9173, "D": "a circle on the celestial sphere parallel to the horizon; the locus of all points of a given altitude.", "S": [], "A": []}

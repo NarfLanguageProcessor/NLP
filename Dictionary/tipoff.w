@@ -1,0 +1,1 @@
+{"index": 324316, "D": "a jump ball that begins each period.", "S": ["hunch ", "indication "], "A": ["information "]}

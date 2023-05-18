@@ -1,0 +1,1 @@
+{"index": 266953, "D": "in a way that is related to or concerned with religion", "S": ["automatically ", "commonly ", "faithfully ", "frequently ", "repeatedly ", "routinely ", "systematically ", "usually "], "A": ["uncommonly ", "unusually "]}

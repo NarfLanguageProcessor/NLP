@@ -1,0 +1,1 @@
+{"index": 281083, "D": "a monoclinic white zeolite mineral, a hydrous calcium aluminum silicate, CaAl2Si3O10\u22c5  3H2O, occurring in masses and in needle-shaped crystals.", "S": [], "A": []}

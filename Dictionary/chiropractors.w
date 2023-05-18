@@ -1,0 +1,1 @@
+{"index": 54808, "D": "one whose occupation is the practice of chiropractic. ", "S": [], "A": []}

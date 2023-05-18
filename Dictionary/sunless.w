@@ -1,0 +1,1 @@
+{"index": 311147, "D": "lacking sun  or sunlight; dark", "S": ["cloudy ", "dismal ", "dusky ", "gloomy ", "gray ", "overcast ", "rainy "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 33078, "D": "Compare jnana, karma (def. 1). ", "S": [], "A": []}

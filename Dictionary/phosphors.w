@@ -1,0 +1,1 @@
+{"index": 234943, "D": "any of a number of substances that exhibit luminescence when struck by light of certain wavelengths, as by ultraviolet.", "S": ["Phosphor ", "Phosphorus ", "Venus ", "daystar ", "lucifer "], "A": ["Hesperus ", "evening star "]}

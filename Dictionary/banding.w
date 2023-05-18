@@ -1,0 +1,1 @@
+{"index": 27336, "D": "decorative inlay, as for bordering or paneling a piece, composed of strips of wood contrasting in grain or color with the principal wood of the surface.", "S": ["bordering ", "bounding ", "circumscribing ", "delimiting ", "girdling ", "marking ", "zoning "], "A": []}

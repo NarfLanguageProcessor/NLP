@@ -1,0 +1,1 @@
+{"index": 44475, "D": "a large room, especially in a school, that functions both as a cafeteria and an auditorium.", "S": [], "A": []}

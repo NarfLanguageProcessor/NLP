@@ -1,0 +1,1 @@
+{"index": 13984, "D": "an African giant who was invincible when in contact with the earth but was lifted into the air by Hercules and crushed.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 98582, "D": "to send forth (liquid, light, heat, sound, particles, etc.); discharge.", "S": ["appointed ", "commissioned ", "committed ", "consigned ", "delegated ", "directed ", "discharged ", "dispatched ", "gone ", "issued ", "mailed ", "ordered ", "posted ", "transmitted ", "transported "], "A": ["held-back ", "kept ", "restrained "]}

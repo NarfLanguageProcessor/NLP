@@ -1,0 +1,1 @@
+{"index": 7468, "D": "a person with pale skin, light hair, pinkish eyes, and visual abnormalities resulting from a hereditary inability to produce the pigment melanin.", "S": ["blond "], "A": ["brunet ", "brunette "]}

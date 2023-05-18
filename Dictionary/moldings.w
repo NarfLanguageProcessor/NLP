@@ -1,0 +1,1 @@
+{"index": 191426, "D": "the act or process of molding.", "S": ["decoration ", "embellishment ", "frieze "], "A": []}

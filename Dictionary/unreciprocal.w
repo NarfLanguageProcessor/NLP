@@ -1,0 +1,1 @@
+{"index": 349172, "D": "given or felt by each toward the other; mutual", "S": [], "A": []}

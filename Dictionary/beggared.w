@@ -1,0 +1,1 @@
+{"index": 30608, "D": "a person who begs  alms or lives by begging. ", "S": ["bereaved ", "cut off ", "deprived ", "destitute ", "devoid ", "dispossessed ", "divested ", "fleeced ", "impoverished ", "left without ", "minus ", "naked ", "parted from ", "robbed ", "shorn ", "stripped ", "wanting ", "without "], "A": ["full ", "happy "]}

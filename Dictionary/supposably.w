@@ -1,0 +1,1 @@
+{"index": 313042, "D": "as may be assumed, imagined, or supposed", "S": ["allegedly ", "apparently ", "probably ", "purportedly "], "A": ["improbably ", "unlikely "]}

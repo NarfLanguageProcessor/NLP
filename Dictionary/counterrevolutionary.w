@@ -1,0 +1,1 @@
+{"index": 71054, "D": "characteristic of or resulting from a counterrevolution. ", "S": ["Tory ", "die-hard ", "old-line ", "orthodox ", "regressive ", "retrogressive ", "right ", "rightist ", "rigid ", "standpat ", "traditional ", "traditionalistic ", "ultraconservative/ultra-conservative "], "A": []}

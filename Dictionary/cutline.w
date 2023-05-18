@@ -1,0 +1,1 @@
+{"index": 75826, "D": "a caption or legend accompanying a cut  or illustration in a publication.", "S": [], "A": []}

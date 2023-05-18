@@ -1,0 +1,1 @@
+{"index": 116036, "D": "the act of caressing or touching lovingly or tenderly", "S": [], "A": []}

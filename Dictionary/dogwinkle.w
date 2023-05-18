@@ -1,0 +1,1 @@
+{"index": 91009, "D": "any of several carnivorous, marine gastropods of the family Nassidae.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 298865, "D": "a person who looks on or watches; onlooker; observer.", "S": [], "A": []}

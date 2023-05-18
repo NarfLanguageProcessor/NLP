@@ -1,0 +1,1 @@
+{"index": 247413, "D": "to drain of strength or energy, wear out, or fatigue greatly, as a person", "S": [], "A": []}

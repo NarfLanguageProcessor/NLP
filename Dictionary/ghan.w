@@ -1,0 +1,1 @@
+{"index": 124474, "D": "short for Afghan (def. 3)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 8419, "D": "an instrument for determining the quantity of carbon dioxide.", "S": [], "A": []}

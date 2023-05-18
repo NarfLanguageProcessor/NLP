@@ -1,0 +1,1 @@
+{"index": 242698, "D": "the innermost digit of the forelimb; thumb.", "S": [], "A": []}

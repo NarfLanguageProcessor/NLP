@@ -1,0 +1,1 @@
+{"index": 37526, "D": "a raised molding, especially one having flat edges and a raised center, for framing a panel, doorway, fireplace, etc.", "S": [], "A": []}

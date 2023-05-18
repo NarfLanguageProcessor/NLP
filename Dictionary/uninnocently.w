@@ -1,0 +1,1 @@
+{"index": 344608, "D": "free from moral wrong; without sin; pure", "S": [], "A": []}

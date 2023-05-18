@@ -1,0 +1,1 @@
+{"index": 210159, "D": "(in Russia and the Soviet Union) an administrative division corresponding to an autonomous province.", "S": [], "A": []}

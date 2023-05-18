@@ -1,0 +1,1 @@
+{"index": 237886, "D": "either of two heterocyclic ketones having the formula C5H4O2.", "S": [], "A": []}

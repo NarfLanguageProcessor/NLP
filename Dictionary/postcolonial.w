@@ -1,0 +1,1 @@
+{"index": 243997, "D": "of or relating to the period following a state of colonialism.", "S": [], "A": []}

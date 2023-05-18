@@ -1,0 +1,1 @@
+{"index": 226272, "D": "to make extremely, excessively, or completely dry, as heat, sun, and wind do.", "S": [], "A": []}

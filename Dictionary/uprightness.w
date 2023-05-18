@@ -1,0 +1,1 @@
+{"index": 354936, "D": "erect or vertical, as in position or posture.", "S": ["erectness ", "honesty ", "honor ", "integrity ", "perpendicularity ", "verticality ", "virtue "], "A": ["disgrace ", "dishonesty ", "dishonor "]}

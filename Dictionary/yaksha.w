@@ -1,0 +1,1 @@
+{"index": 145581, "D": "any of a class of nature spirits or deities who guard places or treasure", "S": [], "A": []}

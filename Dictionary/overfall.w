@@ -1,0 +1,1 @@
+{"index": 219303, "D": "a turbulent stretch of water caused by marine currents over an underwater ridge", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 162419, "D": "a close-fitting tunic, usually padded and bearing heraldic arms, worn over armor.", "S": [], "A": []}

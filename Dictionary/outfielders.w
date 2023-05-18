@@ -1,0 +1,1 @@
+{"index": 216598, "D": "one of the players, especially in baseball, stationed in the outfield. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 17602, "D": "an earnest request for aid, support, sympathy, mercy, etc.; entreaty; petition; plea.", "S": ["actionable ", "contestable ", "disputable ", "triable "], "A": []}

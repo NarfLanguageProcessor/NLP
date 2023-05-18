@@ -1,0 +1,1 @@
+{"index": 22531, "D": "inflected without a thematic  vowel.", "S": [], "A": []}

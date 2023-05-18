@@ -1,0 +1,1 @@
+{"index": 89486, "D": [], "S": ["agnostic ", "apostate ", "atheistic ", "differing ", "disagreeing ", "dissenting ", "dissident ", "freethinking ", "heterodox ", "iconoclastic ", "idolatrous ", "impious ", "infidel ", "misbelieving ", "miscreant ", "nonconformist ", "revisionist ", "schismatic ", "sectarian ", "skeptical ", "unbelieving "], "A": ["orthodox "]}

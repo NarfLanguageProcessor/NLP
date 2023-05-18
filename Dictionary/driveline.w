@@ -1,0 +1,1 @@
+{"index": 93190, "D": "the components of the power train of an automotive vehicle that are between the transmission and the differential, and generally consisting of the drive shaft  and universal joint.", "S": ["power train "], "A": []}

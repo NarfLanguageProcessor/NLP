@@ -1,0 +1,1 @@
+{"index": 314702, "D": "a female who uses or is skilled in the use of a sword.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 238031, "D": "a colorless, water-soluble, unpleasant smelling, poisonous liquid, C4H9N, from which proline and certain alkaloids are derived, prepared by reducing pyrrole", "S": [], "A": []}

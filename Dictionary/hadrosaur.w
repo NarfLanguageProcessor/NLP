@@ -1,0 +1,1 @@
+{"index": 131963, "D": "a bipedal dinosaur of the genus Hadrosaurus, belonging to the ornithopod family Hadrosauridae of the late Cretaceous Period, having broad, flat jaws for scooping up water plants.", "S": [], "A": []}

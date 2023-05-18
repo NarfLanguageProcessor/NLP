@@ -1,0 +1,1 @@
+{"index": 95731, "D": "Compare theta (def. 2), thorn (def. 5)", "S": [], "A": []}

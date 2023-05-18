@@ -1,0 +1,1 @@
+{"index": 326050, "D": "a person who carries a torch. ", "S": [], "A": []}

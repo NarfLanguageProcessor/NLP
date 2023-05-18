@@ -1,0 +1,1 @@
+{"index": 1698, "D": "agreeing", "S": ["agnate ", "blending ", "correspondent ", "like ", "parallel ", "uniform "], "A": ["different ", "dissimilar ", "divergent ", "unlike "]}

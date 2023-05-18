@@ -1,0 +1,1 @@
+{"index": 199496, "D": "of or relating to Sir Isaac Newton  or to his theories or discoveries", "S": [], "A": []}

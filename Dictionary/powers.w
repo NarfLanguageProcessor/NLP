@@ -1,0 +1,1 @@
+{"index": 245018, "D": "U.S. sculptor.", "S": ["board ", "bureau ", "cabinet ", "committee ", "department ", "executive ", "legislature ", "management ", "ministry ", "presidency "], "A": []}

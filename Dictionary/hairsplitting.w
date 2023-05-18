@@ -1,0 +1,1 @@
+{"index": 132442, "D": "the making of unnecessarily fine distinctions.", "S": ["bickering ", "carping ", "faultfinding ", "perfectionism ", "pettiness ", "sophistry "], "A": []}

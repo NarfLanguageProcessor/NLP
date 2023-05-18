@@ -1,0 +1,1 @@
+{"index": 258561, "D": "to become quiet  (often followed by down).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 28960, "D": "a submersible vessel having a flotation compartment with an observation capsule underneath, capable of reaching ocean depths of over 10\u00a0000 metres (about 5000 fathoms)", "S": [], "A": []}

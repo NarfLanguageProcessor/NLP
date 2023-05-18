@@ -1,0 +1,1 @@
+{"index": 62705, "D": "a coleopterous insect; beetle.", "S": [], "A": []}

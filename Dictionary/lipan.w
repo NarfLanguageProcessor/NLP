@@ -1,0 +1,1 @@
+{"index": 173123, "D": "a member of an Apache group that comprises several Apache bands, living in the southwestern United States east of the Rio Grande.", "S": [], "A": []}

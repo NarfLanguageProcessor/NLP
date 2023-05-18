@@ -1,0 +1,1 @@
+{"index": 63799, "D": "(of clothing, furniture, etc.) producing or affording physical comfort, support, or ease", "S": ["adequately ", "easily ", "snugly "], "A": ["inadequately ", "insufficiently ", "poorly ", "uncomfortably "]}

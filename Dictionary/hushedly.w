@@ -1,0 +1,1 @@
+{"index": 145333, "D": "(used as a command to be silent or quiet.)", "S": ["behind closed doors ", "between ourselves ", "between us ", "between you and me ", "covertly ", "don't breathe a word ", "in confidence ", "in on the ground floor ", "off the cuff ", "off the record ", "personally ", "privately ", "sub-rosa "], "A": ["commonly ", "familiarly ", "openly ", "publicly "]}

@@ -1,0 +1,1 @@
+{"index": 16583, "D": "the main trunk of the arterial system, conveying blood from the left ventricle of the heart to all of the body except the lungs.", "S": [], "A": []}

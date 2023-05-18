@@ -1,0 +1,1 @@
+{"index": 4566, "D": "a person or thing that advances. ", "S": [], "A": []}

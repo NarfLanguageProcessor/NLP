@@ -1,0 +1,1 @@
+{"index": 123440, "D": "a plural of genus. ", "S": ["brand ", "category ", "character ", "classification ", "fashion ", "group ", "kind ", "school ", "sort ", "species ", "style "], "A": []}

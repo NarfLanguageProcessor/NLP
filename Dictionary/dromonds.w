@@ -1,0 +1,1 @@
+{"index": 93290, "D": "a large, fast-sailing ship of the Middle Ages.", "S": [], "A": []}

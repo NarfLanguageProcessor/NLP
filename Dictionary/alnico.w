@@ -1,0 +1,1 @@
+{"index": 9194, "D": "a permanent-magnet alloy having aluminum, nickel,  and cobalt  as its principal ingredients.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 272807, "D": "capable of being righted", "S": [], "A": []}

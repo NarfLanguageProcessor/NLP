@@ -1,0 +1,1 @@
+{"index": 257106, "D": "handbag (def. 1). ", "S": ["pucker "], "A": ["release ", "smooth "]}

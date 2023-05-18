@@ -1,0 +1,1 @@
+{"index": 175272, "D": "the body of knowledge, especially of a traditional, anecdotal, or popular nature, on a particular subject", "S": ["adage ", "belief ", "custom ", "fable ", "folklore ", "knowledge ", "legend ", "mythology ", "superstition ", "tale ", "tradition "], "A": ["reality ", "truth ", "ignorance "]}

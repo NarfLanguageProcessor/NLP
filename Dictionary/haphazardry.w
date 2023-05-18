@@ -1,0 +1,1 @@
+{"index": 133453, "D": "haphazard  character, state, or order; fortuity.", "S": [], "A": []}

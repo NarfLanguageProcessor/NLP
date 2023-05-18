@@ -1,0 +1,1 @@
+{"index": 274111, "D": "to play or frolic in a lively or boisterous manner.", "S": ["cavort ", "frolic ", "gambol ", "prance "], "A": []}

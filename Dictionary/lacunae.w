@@ -1,0 +1,1 @@
+{"index": 167121, "D": "a gap or missing part, as in a manuscript, series, or logical argument; hiatus.", "S": [], "A": []}

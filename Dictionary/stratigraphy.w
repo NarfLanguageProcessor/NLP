@@ -1,0 +1,1 @@
+{"index": 305871, "D": "a branch of geology dealing with the classification, nomenclature, correlation, and interpretation of stratified rocks.", "S": [], "A": []}

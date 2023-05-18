@@ -1,0 +1,1 @@
+{"index": 12148, "D": "a person from whom one is descended; forebear; progenitor.", "S": ["clan ", "folk ", "group ", "house ", "household ", "people ", "tribe "], "A": ["parent "]}

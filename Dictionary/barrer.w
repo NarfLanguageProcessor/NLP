@@ -1,0 +1,1 @@
+{"index": 28342, "D": [], "S": ["batten ", "billet ", "boom ", "crossbar ", "crosspiece ", "ingot ", "lever ", "paling ", "pig ", "pole ", "rail ", "rib ", "rule ", "shaft ", "slab ", "spar ", "spoke ", "stake ", "stick ", "streak ", "strip ", "stripe ", "stroke "], "A": ["failure ", "loss ", "whole "]}

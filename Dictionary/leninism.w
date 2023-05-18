@@ -1,0 +1,1 @@
+{"index": 170440, "D": "the form of Communism as taught by Lenin,  with emphasis on the dictatorship of the proletariat.", "S": ["socialism ", "totalitarianism "], "A": ["capitalism ", "democracy "]}

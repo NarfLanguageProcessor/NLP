@@ -1,0 +1,1 @@
+{"index": 307784, "D": "to divide (that which has already been divided) into smaller parts; divide again after a first division.", "S": [], "A": []}

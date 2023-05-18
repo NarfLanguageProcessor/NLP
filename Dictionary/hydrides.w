@@ -1,0 +1,1 @@
+{"index": 138492, "D": "a binary compound formed by hydrogen and another, usually more electropositive, element or group, as sodium hydride, NaH, or methyl hydride, CH4.", "S": [], "A": []}

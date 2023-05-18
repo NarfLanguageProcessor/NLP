@@ -1,0 +1,1 @@
+{"index": 156710, "D": "resolutely fearless; dauntless", "S": ["courageous ", "fearless ", "heroic ", "plucky ", "spunky "], "A": ["afraid ", "cowardly ", "fearful ", "meek ", "timid "]}

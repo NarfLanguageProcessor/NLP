@@ -1,0 +1,1 @@
+{"index": 259154, "D": "something that is quoted; a passage quoted from a book, speech, etc.", "S": ["citation ", "citing ", "cutting ", "excerpt ", "extract ", "passage ", "quote ", "recitation ", "reference ", "saying ", "selection "], "A": []}

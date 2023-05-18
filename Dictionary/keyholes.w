@@ -1,0 +1,1 @@
+{"index": 163648, "D": "a hole  for inserting a key  in a lock, especially one in the shape of a circle with a rectangle having a width smaller than the diameter of the circle projecting from the bottom.", "S": ["charity line ", "foul lane ", "free throw lane ", "the line "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 12919, "D": "a strong admiration or enthusiasm for England, its people, and things English.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 5202, "D": "to depict as being pleasing or artistically beautiful; represent in an idealized or refined manner.", "S": [], "A": []}

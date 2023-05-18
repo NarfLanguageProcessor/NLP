@@ -1,0 +1,1 @@
+{"index": 57697, "D": "a wide-screen process using three adjacent, synchronized cameras for photographing and three corresponding projectors for showing the film.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 103409, "D": "another name for ordinary shares", "S": ["fairness "], "A": ["dishonesty "]}

@@ -1,0 +1,1 @@
+{"index": 95717, "D": "they carried the piano in edgeways", "S": ["oblique "], "A": ["centered ", "central "]}

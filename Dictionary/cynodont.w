@@ -1,0 +1,1 @@
+{"index": 57782, "D": "a carnivorous mammal-like reptile of the late Permian and Triassic periods, whose specialized teeth were well developed", "S": [], "A": []}

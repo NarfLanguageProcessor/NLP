@@ -1,0 +1,1 @@
+{"index": 365216, "D": "a slender food fish of the genus Menticirrhus, of the croaker family, inhabiting waters along the Atlantic coast of North America. ", "S": [], "A": []}

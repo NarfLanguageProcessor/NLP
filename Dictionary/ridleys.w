@@ -1,0 +1,1 @@
+{"index": 272703, "D": "a gray sea turtle, Lepidochelys kempii, of the Atlantic and Gulf coasts of North America,  about 24 inches (61 centimeters) long, previously thought to be a hybrid of the loggerhead and green turtles", "S": [], "A": []}

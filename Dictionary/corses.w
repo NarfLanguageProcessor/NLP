@@ -1,0 +1,1 @@
+{"index": 69808, "D": "corpse. ", "S": ["bow ", "decoration ", "streamer ", "strip ", "stripe ", "tape "], "A": []}

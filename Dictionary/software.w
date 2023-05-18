@@ -1,0 +1,1 @@
+{"index": 296381, "D": "Compare hardware (def. 3). ", "S": ["operating system ", "program ", "spreadsheet "], "A": []}

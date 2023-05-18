@@ -1,0 +1,1 @@
+{"index": 249474, "D": "to separate and retain the coarse parts of (flour, ashes, etc.) with a sieve. ", "S": [], "A": []}

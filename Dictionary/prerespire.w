@@ -1,0 +1,1 @@
+{"index": 249145, "D": "to inhale and exhale air for the purpose of maintaining life; breathe.", "S": [], "A": []}

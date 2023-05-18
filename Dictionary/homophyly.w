@@ -1,0 +1,1 @@
+{"index": 143200, "D": "a resemblance due to common ancestry.", "S": [], "A": []}

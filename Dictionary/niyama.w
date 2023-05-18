@@ -1,0 +1,1 @@
+{"index": 200038, "D": "one of five observances, composing one of the eight practices, or angas, which are cleanliness of mind and body, equanimity, temperance or tapas, self-appraisal, and attentiveness to God, who is conceived of as a completely free spirit.", "S": [], "A": []}

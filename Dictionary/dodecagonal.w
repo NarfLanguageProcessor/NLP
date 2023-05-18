@@ -1,0 +1,1 @@
+{"index": 90737, "D": "a polygon having 12 angles and 12 sides.", "S": [], "A": []}

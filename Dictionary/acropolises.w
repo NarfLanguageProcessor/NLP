@@ -1,0 +1,1 @@
+{"index": 3016, "D": "the citadel or high fortified area of an ancient Greek city.", "S": ["alcazar ", "citadel ", "donjon ", "fastness ", "fort ", "fortification ", "fortress ", "hold ", "keep ", "manor ", "mansion ", "palace ", "peel ", "safehold ", "seat ", "stronghold ", "tower ", "villa "], "A": []}

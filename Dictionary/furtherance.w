@@ -1,0 +1,1 @@
+{"index": 120518, "D": "the act of furthering;  promotion; advancement.", "S": ["advocacy ", "backing ", "championship ", "progress ", "progression ", "promotion ", "prosecution ", "pursuit "], "A": ["opposition ", "retreat "]}

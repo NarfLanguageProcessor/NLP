@@ -1,0 +1,1 @@
+{"index": 65771, "D": "the act of confabulating; conversation; discussion", "S": ["chat ", "chatter ", "chitchat ", "confab ", "converse ", "dialogue ", "discussion ", "palaver ", "speech ", "talk "], "A": ["listening ", "quiet ", "silence "]}

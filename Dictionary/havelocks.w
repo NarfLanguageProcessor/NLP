@@ -1,0 +1,1 @@
+{"index": 134396, "D": "a cap cover with a flap hanging over the back of the neck, for protection from the sun.", "S": [], "A": []}

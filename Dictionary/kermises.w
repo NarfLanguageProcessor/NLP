@@ -1,0 +1,1 @@
+{"index": 164031, "D": "(in the Low Countries) a local, annual outdoor fair or festival.", "S": ["festival ", "spectacle "], "A": []}

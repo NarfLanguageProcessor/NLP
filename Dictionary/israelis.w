@@ -1,0 +1,1 @@
+{"index": 159359, "D": "a native or inhabitant of modern Israel.", "S": [], "A": []}

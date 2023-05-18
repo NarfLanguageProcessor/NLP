@@ -1,0 +1,1 @@
+{"index": 40770, "D": "to become or make bright or brighter.", "S": ["clear up ", "enliven ", "illuminate ", "light up ", "lighten "], "A": ["complicate ", "darken ", "dull "]}

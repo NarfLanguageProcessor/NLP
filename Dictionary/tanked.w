@@ -1,0 +1,1 @@
+{"index": 316133, "D": "put or stored in a tank. ", "S": ["buzzed ", "faced ", "inebriated ", "intoxicated ", "loaded ", "pickled ", "plastered ", "polluted ", "sloshed ", "smashed ", "soused ", "trashed ", "wasted "], "A": ["sober ", "straight "]}

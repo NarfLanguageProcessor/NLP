@@ -1,0 +1,1 @@
+{"index": 195458, "D": "to speak in a low indistinct manner, almost to an unintelligible extent; mutter.", "S": ["disjointed ", "halting ", "hesitating ", "muttered ", "stammering "], "A": ["OK ", "complete ", "connected ", "continuous ", "fixed ", "flowing ", "happy ", "kept ", "satisfied ", "unbroken ", "uplifted ", "whole ", "working "]}

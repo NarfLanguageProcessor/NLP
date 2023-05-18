@@ -1,0 +1,1 @@
+{"index": 112372, "D": "in a menacing, violent, or forceful way", "S": ["angrily ", "boldly ", "brutally ", "ferociously ", "forcefully ", "frantically ", "furiously ", "madly ", "mightily ", "passionately ", "savagely ", "severely ", "vehemently ", "viciously ", "wildly "], "A": ["calmly ", "gently "]}

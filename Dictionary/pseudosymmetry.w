@@ -1,0 +1,1 @@
+{"index": 255130, "D": "an apparent symmetry  different from that appropriate to a crystal of a given mineral.", "S": [], "A": []}

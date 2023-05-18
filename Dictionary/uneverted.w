@@ -1,0 +1,1 @@
+{"index": 341578, "D": "to turn outward or inside out.", "S": [], "A": []}

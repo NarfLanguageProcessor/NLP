@@ -1,0 +1,1 @@
+{"index": 105378, "D": "a good or benevolent demon or spirit.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 363569, "D": "resistant to damage or deterioration by normal use or wear. ", "S": [], "A": []}

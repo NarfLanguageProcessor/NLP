@@ -1,0 +1,1 @@
+{"index": 363521, "D": "a person who prepares an atomic bomb for detonation.", "S": [], "A": []}

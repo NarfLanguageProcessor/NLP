@@ -1,0 +1,1 @@
+{"index": 27055, "D": "a pen in which the point is a fine ball bearing  that rotates against a supply of semisolid ink in a cartridge, thus rolling the ink onto paper.", "S": ["fountain pen ", "marker ", "stick "], "A": ["open space ", "pencil "]}

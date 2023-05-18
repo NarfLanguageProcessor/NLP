@@ -1,0 +1,1 @@
+{"index": 222786, "D": "an agreement, covenant, or compact", "S": ["arrangement ", "compact ", "contract ", "convention ", "covenant ", "deal ", "protocol ", "settlement ", "transaction ", "understanding "], "A": ["disagreement ", "misunderstanding ", "discord "]}

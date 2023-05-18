@@ -1,0 +1,1 @@
+{"index": 124058, "D": "the branch of physics concerned with the statics of rigid bodies, esp the balance of forces within the earth", "S": [], "A": []}

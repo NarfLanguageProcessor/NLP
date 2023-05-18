@@ -1,0 +1,1 @@
+{"index": 283446, "D": "having the function or power of selecting;  making a selection. ", "S": ["careful ", "choosy ", "discriminatory ", "fussy ", "judicious ", "scrupulous "], "A": ["careless ", "thoughtless ", "undemanding ", "unfussy ", "unscrupulous "]}

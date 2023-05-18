@@ -1,0 +1,1 @@
+{"index": 170155, "D": "to make legitimate. ", "S": ["approve ", "authorize ", "codify ", "constitute ", "decree ", "decriminalize ", "enact ", "formulate ", "launder ", "legislate ", "legitimate ", "legitimize ", "license ", "ordain ", "permit ", "regulate ", "sanction "], "A": ["deny ", "disallow ", "disapprove ", "disorganize ", "prevent ", "refuse ", "reject ", "veto "]}

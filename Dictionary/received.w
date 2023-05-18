@@ -1,0 +1,1 @@
+{"index": 262685, "D": "generally or traditionally accepted; conventional; standard", "S": ["accepted ", "acknowledged ", "collected ", "earned "], "A": ["delivered ", "disbursed ", "given ", "nonstandard "]}

@@ -1,0 +1,1 @@
+{"index": 145417, "D": "a member of an Anabaptist sect following the principles of Jacob Hutter (d. 1536) of Moravia and practicing community of goods and nonconformity.", "S": [], "A": []}

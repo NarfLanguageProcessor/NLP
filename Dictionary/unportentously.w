@@ -1,0 +1,1 @@
+{"index": 348178, "D": "of the nature of a portent;  momentous.", "S": [], "A": []}

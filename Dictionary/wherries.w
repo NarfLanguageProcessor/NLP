@@ -1,0 +1,1 @@
+{"index": 364699, "D": "a light rowboat for one person; skiff.", "S": [], "A": []}

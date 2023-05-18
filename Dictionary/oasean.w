@@ -1,0 +1,1 @@
+{"index": 209918, "D": "a small fertile or green area in a desert region, usually having a spring or well.", "S": [], "A": []}

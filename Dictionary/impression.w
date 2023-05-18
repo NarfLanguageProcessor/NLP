@@ -1,0 +1,1 @@
+{"index": 149068, "D": "a strong effect produced on the intellect, feelings, conscience, etc.", "S": ["consequence ", "effect ", "feeling ", "impact ", "reaction ", "response "], "A": ["beginning ", "cause ", "commencement ", "origin ", "question ", "source ", "start "]}

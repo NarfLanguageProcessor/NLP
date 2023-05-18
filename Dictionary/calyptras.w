@@ -1,0 +1,1 @@
+{"index": 45214, "D": "a hood or hoodlike part, as the lid of the capsule in mosses.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 167769, "D": "lamp or candlestick.", "S": [], "A": []}

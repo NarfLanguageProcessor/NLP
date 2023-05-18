@@ -1,0 +1,1 @@
+{"index": 108867, "D": "the syllable used for the fourth tone of a diatonic scale.", "S": [], "A": []}

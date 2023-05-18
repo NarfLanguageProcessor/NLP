@@ -1,0 +1,1 @@
+{"index": 127127, "D": "a collection or anthology of gnomes or aphorisms.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 49551, "D": "any of certain gems having a chatoyant luster, especially chrysoberyl.", "S": [], "A": []}

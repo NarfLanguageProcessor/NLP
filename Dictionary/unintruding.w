@@ -1,0 +1,1 @@
+{"index": 344823, "D": "to thrust or bring in without invitation, permission, or welcome.", "S": [], "A": []}

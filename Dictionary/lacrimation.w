@@ -1,0 +1,1 @@
+{"index": 167012, "D": "the secretion of tears, especially in abnormal abundance.", "S": [], "A": []}

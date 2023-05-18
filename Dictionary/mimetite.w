@@ -1,0 +1,1 @@
+{"index": 187590, "D": "a mineral, lead chloroarsenate, Pb5As3O12Cl, occurring in yellow to brown prismatic crystals or globular masses", "S": [], "A": []}

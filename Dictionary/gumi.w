@@ -1,0 +1,1 @@
+{"index": 131267, "D": "a spreading shrub, Elaeagnus multiflora, of eastern Asia, having fragrant yellowish-white flowers and edible red fruit.", "S": [], "A": []}

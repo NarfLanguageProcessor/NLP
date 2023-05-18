@@ -1,0 +1,1 @@
+{"index": 75200, "D": "serving to cure  or heal; pertaining to curing  or remedial treatment; remedial.", "S": ["corrective ", "healthful ", "invigorating ", "medicinal ", "remedial ", "salutary ", "therapeutic "], "A": ["damaging ", "harmful ", "hurtful ", "injurious "]}

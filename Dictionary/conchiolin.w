@@ -1,0 +1,1 @@
+{"index": 65277, "D": "a fibrous protein that forms the iridescent inner layer, as mother-of-pearl, in the shells of mollusks.", "S": [], "A": []}

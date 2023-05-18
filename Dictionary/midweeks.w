@@ -1,0 +1,1 @@
+{"index": 186852, "D": "the middle of the week, especially the time between Tuesday morning and Thursday evening", "S": [], "A": []}

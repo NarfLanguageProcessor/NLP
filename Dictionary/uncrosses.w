@@ -1,0 +1,1 @@
+{"index": 338229, "D": "to change from a crossed  position, as the legs.", "S": [], "A": []}

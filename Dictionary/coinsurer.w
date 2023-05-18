@@ -1,0 +1,1 @@
+{"index": 62542, "D": "a person or firm that contracts as an insurer  jointly with another or others.", "S": [], "A": []}

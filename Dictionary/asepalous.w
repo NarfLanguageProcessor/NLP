@@ -1,0 +1,1 @@
+{"index": 21087, "D": "(of a flower) without sepals.", "S": [], "A": []}

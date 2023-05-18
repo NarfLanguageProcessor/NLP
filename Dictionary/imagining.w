@@ -1,0 +1,1 @@
+{"index": 147608, "D": "to form a mental image  of (something not actually present to the senses).", "S": ["appreciation ", "conceit ", "concept ", "impression ", "interpretation ", "notion ", "perception ", "realization "], "A": ["concrete ", "fact ", "ignorance ", "misunderstanding ", "reality ", "truth "]}

@@ -1,0 +1,1 @@
+{"index": 300236, "D": "a pitcher who is known or believed to throw spitballs. ", "S": [], "A": []}

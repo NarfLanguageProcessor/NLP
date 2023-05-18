@@ -1,0 +1,1 @@
+{"index": 182019, "D": "the third degree of a major or minor musical scale.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 245497, "D": "the act of acquitting;  discharge.", "S": [], "A": []}

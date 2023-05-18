@@ -1,0 +1,1 @@
+{"index": 59196, "D": "a person or thing that clangs. ", "S": [], "A": []}

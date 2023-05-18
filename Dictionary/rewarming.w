@@ -1,0 +1,1 @@
+{"index": 271586, "D": "having or giving out a moderate degree of heat, as perceived by the senses", "S": [], "A": []}

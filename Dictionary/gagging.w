@@ -1,0 +1,1 @@
+{"index": 120962, "D": "to stop up the mouth of (a person) by putting something in it, thus preventing speech, shouts, etc.", "S": ["choke ", "constrain ", "muzzle ", "suppress "], "A": ["free ", "let go ", "release ", "aid ", "allow ", "assist ", "encourage ", "help "]}

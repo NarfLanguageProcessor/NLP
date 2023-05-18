@@ -1,0 +1,1 @@
+{"index": 36880, "D": "to obscure or sully (something) by smearing or with a smeary substance", "S": ["baffling ", "bewildering ", "complex ", "complicated ", "confounding ", "difficult ", "disconcerting ", "perplexing ", "upsetting "], "A": ["clear ", "easy ", "plain ", "simple "]}

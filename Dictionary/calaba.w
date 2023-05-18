@@ -1,0 +1,1 @@
+{"index": 44694, "D": "a tree, Calophyllum brasiliense, of the West Indies and Central and South America, having leathery leaves and fragrant white flowers.", "S": [], "A": []}

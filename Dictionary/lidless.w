@@ -1,0 +1,1 @@
+{"index": 171795, "D": "(of objects) without a lid. ", "S": [], "A": []}

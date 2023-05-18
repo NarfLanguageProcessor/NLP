@@ -1,0 +1,1 @@
+{"index": 186135, "D": "a film  bearing a miniature photographic copy of printed or other graphic matter, usually of a document, newspaper or book pages, etc., made for a library, archive, or the like.", "S": ["capture ", "illustrate ", "print ", "reproduce ", "shoot "], "A": ["fail ", "lose ", "misunderstand "]}

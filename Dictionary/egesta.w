@@ -1,0 +1,1 @@
+{"index": 96162, "D": "matter egested from the body, as excrement or other waste.", "S": ["droppings ", "dung ", "feces ", "manure ", "urine "], "A": []}

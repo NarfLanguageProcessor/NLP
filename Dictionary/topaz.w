@@ -1,0 +1,1 @@
+{"index": 325821, "D": "a mineral, a fluosilicate of aluminum, usually occurring in prismatic orthorhombic crystals of various colors, and used as a gem.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 145276, "D": "to move, proceed, or act with haste (often followed by up)", "S": [], "A": []}

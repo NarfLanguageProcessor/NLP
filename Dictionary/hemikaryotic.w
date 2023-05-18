@@ -1,0 +1,1 @@
+{"index": 136187, "D": "a haploid nucleus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 252712, "D": "to make favorably inclined; appease; conciliate.", "S": ["appeasing ", "assuaging ", "calm ", "civil ", "disarming ", "irenic ", "mollifying ", "pacific ", "peaceable ", "placating ", "placatory ", "quiet ", "willing "], "A": ["antagonistic ", "fighting ", "refusing ", "stubborn "]}

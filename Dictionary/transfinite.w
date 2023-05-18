@@ -1,0 +1,1 @@
+{"index": 327869, "D": "going beyond or surpassing the finite. ", "S": [], "A": []}

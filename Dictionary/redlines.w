@@ -1,0 +1,1 @@
+{"index": 264335, "D": "to treat by redlining (an area or neighborhood).", "S": ["comprehend ", "discern ", "discriminate ", "extricate ", "separate ", "understand "], "A": ["misinterpret ", "mistake ", "misunderstand "]}

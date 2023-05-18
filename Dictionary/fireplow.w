@@ -1,0 +1,1 @@
+{"index": 113189, "D": "a stick that is rubbed in a wooden groove to produce sparks for igniting a fire.", "S": [], "A": []}

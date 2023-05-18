@@ -1,0 +1,1 @@
+{"index": 365391, "D": "(the possessive case of who  used as an adjective)", "S": [], "A": []}

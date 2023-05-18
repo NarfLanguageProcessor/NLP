@@ -1,0 +1,1 @@
+{"index": 25492, "D": "a confusion, as of ideas, speech, etc.", "S": [], "A": []}

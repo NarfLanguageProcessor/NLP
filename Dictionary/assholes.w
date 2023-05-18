@@ -1,0 +1,1 @@
+{"index": 21747, "D": "anus. ", "S": ["ass ", "bastard ", "jackass ", "prick "], "A": []}

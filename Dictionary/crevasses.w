@@ -1,0 +1,1 @@
+{"index": 72827, "D": "a fissure, or deep cleft, in glacial ice, the earth's surface, etc.", "S": ["abyss ", "chasm ", "chink ", "cleft ", "crack ", "cranny ", "cut ", "division ", "fissure ", "fracture ", "hole ", "interstice ", "opening ", "precipice ", "rent ", "rift ", "slit ", "split "], "A": []}

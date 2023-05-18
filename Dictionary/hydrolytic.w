@@ -1,0 +1,1 @@
+{"index": 138731, "D": "producing, noting, or resulting in hydrolysis.", "S": [], "A": []}

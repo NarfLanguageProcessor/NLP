@@ -1,0 +1,1 @@
+{"index": 165167, "D": "any of a series of half-length portraits of members of the Kit-Cat Club that were painted by Sir Godfrey Kneller between 1702 and 1717, measuring almost uniformly 28 \u00d7 36 inches (71 \u00d7 91 centimeters), characteristically portray the head, upper torso, and hands, and are now in the National Gallery, London.", "S": [], "A": []}

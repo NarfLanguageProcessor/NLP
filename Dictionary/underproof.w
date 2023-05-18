@@ -1,0 +1,1 @@
+{"index": 339640, "D": "containing a smaller proportion of alcohol than proof spirit. ", "S": [], "A": []}

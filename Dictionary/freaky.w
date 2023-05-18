@@ -1,0 +1,1 @@
+{"index": 118530, "D": "freakish. ", "S": ["bizarre ", "grotesque ", "odd ", "outlandish ", "strange ", "weird "], "A": ["common ", "familiar ", "normal ", "regular ", "usual "]}

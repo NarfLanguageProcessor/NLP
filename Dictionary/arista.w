@@ -1,0 +1,1 @@
+{"index": 19741, "D": "a bristlelike appendage of the spikelets of grains or grasses; an awn.", "S": [], "A": []}

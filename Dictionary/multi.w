@@ -1,0 +1,1 @@
+{"index": 194985, "D": "a pattern of several colors or hues, usually in stripes", "S": [], "A": []}

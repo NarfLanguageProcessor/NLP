@@ -1,0 +1,1 @@
+{"index": 214038, "D": "orbicular;  rounded.", "S": ["annular ", "arced ", "arched ", "arciform ", "bent ", "bowed ", "bulbous ", "circular ", "coiled ", "curled ", "curved ", "curvilinear ", "cylindrical ", "discoid ", "disk-shaped ", "domical ", "egg-shaped ", "elliptical ", "globose ", "globular ", "looped ", "orbed ", "orbicular ", "oval ", "ringed ", "rotund "], "A": []}

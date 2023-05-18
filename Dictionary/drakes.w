@@ -1,0 +1,1 @@
+{"index": 92644, "D": "Compare duck1 (def. 2). ", "S": [], "A": []}

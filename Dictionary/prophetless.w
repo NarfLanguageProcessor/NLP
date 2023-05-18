@@ -1,0 +1,1 @@
+{"index": 252637, "D": "a person who speaks for God or a deity, or by divine inspiration.", "S": [], "A": []}

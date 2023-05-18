@@ -1,0 +1,1 @@
+{"index": 30315, "D": "the flesh of a cow, steer, or bull raised and killed for its meat.", "S": ["grief-stricken ", "heartrending ", "melancholy ", "mournful ", "sad ", "sorrowful ", "wistful "], "A": ["cheerful ", "happy ", "joyful "]}

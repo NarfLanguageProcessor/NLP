@@ -1,0 +1,1 @@
+{"index": 74687, "D": "(in prescriptions) of which; of any.", "S": [], "A": []}

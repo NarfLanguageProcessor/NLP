@@ -1,0 +1,1 @@
+{"index": 242579, "D": "having or involving many or several types.", "S": [], "A": []}

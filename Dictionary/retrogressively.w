@@ -1,0 +1,1 @@
+{"index": 270852, "D": "characterized by retrogression;  degenerating.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158857, "D": "isochronal. ", "S": ["alternate ", "chain ", "continued ", "cyclic ", "cyclical ", "frequent ", "habitual ", "intermittent ", "isochronal ", "like clockwork ", "periodic ", "periodical ", "recurring ", "regular ", "reoccurring ", "repeated ", "repetitive ", "rolling "], "A": []}

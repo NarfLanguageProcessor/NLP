@@ -1,0 +1,1 @@
+{"index": 35032, "D": "showing symmetry in two planes at right angles to each other", "S": [], "A": []}

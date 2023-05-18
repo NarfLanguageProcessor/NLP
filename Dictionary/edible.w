@@ -1,0 +1,1 @@
+{"index": 95735, "D": "fit to be eaten as food; eatable; esculent", "S": ["succulent ", "tasty "], "A": ["inadequate ", "unsuitable "]}

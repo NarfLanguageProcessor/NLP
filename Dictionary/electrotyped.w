@@ -1,0 +1,1 @@
+{"index": 97317, "D": "a facsimile, for use in printing, of a block of type,  an engraving, or the like, consisting of a thin copper or nickel shell deposited by electrolytic action in a wax, lead, or plastic mold of the original and backed with lead alloy.", "S": [], "A": []}

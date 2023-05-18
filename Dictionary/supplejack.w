@@ -1,0 +1,1 @@
+{"index": 312959, "D": "a strong, pliant cane or walking stick.", "S": [], "A": []}

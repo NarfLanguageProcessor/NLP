@@ -1,0 +1,1 @@
+{"index": 221052, "D": "the quality or state of being sentimental  or excessively sentimental.", "S": [], "A": []}

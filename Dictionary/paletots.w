@@ -1,0 +1,1 @@
+{"index": 223824, "D": "any of various loose or fitted coats or jackets for men and women, especially a close-fitting jacket worn over a dress by women in the 19th century.", "S": ["Vandyke ", "capote ", "cardinal ", "cloak ", "cope ", "dolman ", "fichu ", "gabardine ", "mantilla ", "mantle ", "pelisse ", "poncho ", "shawl ", "tabard ", "tippet ", "wrap ", "wrapper "], "A": []}

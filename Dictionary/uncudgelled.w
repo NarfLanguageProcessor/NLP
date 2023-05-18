@@ -1,0 +1,1 @@
+{"index": 338280, "D": "a short, thick stick used as a weapon; club.", "S": [], "A": []}

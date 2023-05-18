@@ -1,0 +1,1 @@
+{"index": 158477, "D": "tending to cause irritation; irritating. ", "S": [], "A": []}

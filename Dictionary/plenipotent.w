@@ -1,0 +1,1 @@
+{"index": 239795, "D": "invested with or possessing full power.", "S": [], "A": []}

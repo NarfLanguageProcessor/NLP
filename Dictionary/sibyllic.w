@@ -1,0 +1,1 @@
+{"index": 289531, "D": "of, resembling, or characteristic of a sibyl;  prophetic; oracular.", "S": ["augural ", "fatidic ", "fatidical ", "mantic ", "oracular ", "prophetical ", "sibylline ", "vatic ", "vatical ", "vaticinal "], "A": []}

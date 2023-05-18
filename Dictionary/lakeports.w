@@ -1,0 +1,1 @@
+{"index": 167491, "D": "a port  city located on the shore of a lake,  especially one of the Great Lakes.", "S": [], "A": []}

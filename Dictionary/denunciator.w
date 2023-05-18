@@ -1,0 +1,1 @@
+{"index": 81396, "D": "to denounce;  condemn openly.", "S": [], "A": []}

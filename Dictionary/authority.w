@@ -1,0 +1,1 @@
+{"index": 23833, "D": "the power to determine, adjudicate, or otherwise settle issues or disputes; jurisdiction; the right to control, command, or determine.", "S": ["force ", "government ", "jurisdiction ", "rule "], "A": ["breach ", "break ", "disadvantage ", "inferiority ", "lack ", "lethargy ", "powerlessness ", "prohibition ", "subordination ", "weakness "]}

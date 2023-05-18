@@ -1,0 +1,1 @@
+{"index": 1067, "D": [], "S": ["bathe ", "brush ", "cleanse ", "clear up ", "disinfect ", "dredge ", "dust ", "mop ", "pick ", "pick up ", "rinse ", "scrape ", "scrub ", "soak ", "spruce up ", "sweep ", "vacuum ", "wash ", "wipe "], "A": ["dirty ", "worsen "]}

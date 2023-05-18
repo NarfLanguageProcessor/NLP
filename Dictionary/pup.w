@@ -1,0 +1,1 @@
+{"index": 256766, "D": "a young dog; puppy. ", "S": ["mutt ", "pooch "], "A": []}

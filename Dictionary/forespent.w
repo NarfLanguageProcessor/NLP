@@ -1,0 +1,1 @@
+{"index": 117009, "D": "a variant spelling of forspent", "S": [], "A": []}

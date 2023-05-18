@@ -1,0 +1,1 @@
+{"index": 314258, "D": "of wide range or scope.", "S": ["across-the-board ", "all-encompassing ", "broad ", "comprehensive ", "exhaustive ", "extensive ", "radical ", "thorough ", "wholesale "], "A": ["narrow ", "partial ", "restricted ", "superficial ", "incomplete ", "needy ", "specific "]}

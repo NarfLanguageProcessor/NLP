@@ -1,0 +1,1 @@
+{"index": 79339, "D": "to cause to become definite;  crystallize.", "S": [], "A": []}

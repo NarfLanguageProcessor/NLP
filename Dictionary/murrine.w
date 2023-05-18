@@ -1,0 +1,1 @@
+{"index": 195793, "D": "of, relating to, or manufactured of murra.", "S": [], "A": []}

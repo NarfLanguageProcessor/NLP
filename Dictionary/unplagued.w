@@ -1,0 +1,1 @@
+{"index": 347980, "D": "an epidemic disease that causes high mortality; pestilence.", "S": [], "A": []}

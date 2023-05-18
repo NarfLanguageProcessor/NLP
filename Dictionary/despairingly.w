@@ -1,0 +1,1 @@
+{"index": 82789, "D": "given to despair  or hopelessness.", "S": ["desperately ", "sadly "], "A": ["confidently ", "expectantly ", "hopefully "]}

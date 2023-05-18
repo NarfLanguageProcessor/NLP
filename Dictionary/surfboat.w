@@ -1,0 +1,1 @@
+{"index": 313401, "D": "a strong, buoyant rowboat with high ends, adapted for beaching and passing through surf.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 364382, "D": "(used to indicate the sound of a blow, collision, falling object, etc.).", "S": [], "A": []}

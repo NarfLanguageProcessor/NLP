@@ -1,0 +1,1 @@
+{"index": 307280, "D": "a quantity, rating, or the like that represents or approximates an arithmetic mean", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 307919, "D": "a waxlike, fatty substance, occurring in cork cell walls and in or between other cells, that on alkaline hydrolysis yields chiefly suberic acid.", "S": [], "A": []}

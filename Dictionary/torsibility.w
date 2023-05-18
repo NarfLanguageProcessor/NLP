@@ -1,0 +1,1 @@
+{"index": 326279, "D": "resistance to torsion.", "S": [], "A": []}

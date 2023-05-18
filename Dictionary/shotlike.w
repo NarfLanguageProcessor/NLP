@@ -1,0 +1,1 @@
+{"index": 288972, "D": "a discharge of a firearm, bow, etc.", "S": [], "A": []}

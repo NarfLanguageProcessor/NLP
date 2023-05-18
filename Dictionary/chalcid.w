@@ -1,0 +1,1 @@
+{"index": 52087, "D": "any tiny hymenopterous insect of the family Chalcididae and related families, whose larvae are parasites of other insects", "S": [], "A": []}

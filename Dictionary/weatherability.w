@@ -1,0 +1,1 @@
+{"index": 363588, "D": "the property of a material that permits it to endure or resist exposure to the weather. ", "S": [], "A": []}

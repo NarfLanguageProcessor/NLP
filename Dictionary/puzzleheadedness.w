@@ -1,0 +1,1 @@
+{"index": 257376, "D": "having, deriving from, or characterized by confused thoughts or ideas.", "S": [], "A": []}

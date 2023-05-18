@@ -1,0 +1,1 @@
+{"index": 351312, "D": "not tight, taut, firm, or tense; a slack rope.", "S": [], "A": []}

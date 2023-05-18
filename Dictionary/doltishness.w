@@ -1,0 +1,1 @@
+{"index": 91231, "D": "dull or stupid; slow-witted; thickheaded", "S": ["denseness ", "foolishness ", "mindlessness ", "simpleness ", "slow-wittedness ", "slowness "], "A": []}

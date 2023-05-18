@@ -1,0 +1,1 @@
+{"index": 299814, "D": "to cause or allow to run or fall from a container, especially accidentally or wastefully", "S": ["blabbing ", "blabby ", "giving away ", "prattling ", "spilling the beans ", "talebearing ", "taletelling ", "whispering "], "A": []}

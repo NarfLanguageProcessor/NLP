@@ -1,0 +1,1 @@
+{"index": 19738, "D": "to get up from sitting, lying, or kneeling; rise", "S": ["ascending ", "climbing ", "mounting ", "moving up ", "rising ", "soaring "], "A": []}

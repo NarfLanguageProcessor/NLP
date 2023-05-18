@@ -1,0 +1,1 @@
+{"index": 245287, "D": "the vital principle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 200235, "D": "a steel-gray metallic element resembling tantalum in its chemical properties; becomes a superconductor below 9 K; used chiefly in alloy steels. Symbol", "S": [], "A": []}

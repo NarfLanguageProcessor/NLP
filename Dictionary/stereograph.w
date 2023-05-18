@@ -1,0 +1,1 @@
+{"index": 303892, "D": "a single or double picture for a stereoscope.", "S": [], "A": []}

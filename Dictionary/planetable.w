@@ -1,0 +1,1 @@
+{"index": 238919, "D": "a drawing board mounted on a tripod, used in the field, with an alidade, for surveying tracts of land.", "S": [], "A": []}

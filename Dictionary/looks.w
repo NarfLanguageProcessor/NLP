@@ -1,0 +1,1 @@
+{"index": 175072, "D": "to turn one's eyes toward something or in some direction in order to see", "S": ["character ", "image ", "look ", "presence ", "presentation "], "A": ["back ", "rear "]}

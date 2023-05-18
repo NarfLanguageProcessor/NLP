@@ -1,0 +1,1 @@
+{"index": 49436, "D": "to seize or capture, especially after pursuit", "S": ["hook ", "snap "], "A": ["key "]}

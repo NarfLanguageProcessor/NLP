@@ -1,0 +1,1 @@
+{"index": 248666, "D": "a person who operates a machine, apparatus, or the like", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 325312, "D": "the collector at a tollgate.", "S": [], "A": []}

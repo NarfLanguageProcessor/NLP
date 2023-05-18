@@ -1,0 +1,1 @@
+{"index": 223000, "D": "one side of a leaf of something printed or written, as a book, manuscript, or letter.", "S": ["requested ", "sought "], "A": []}

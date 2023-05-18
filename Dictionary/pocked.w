@@ -1,0 +1,1 @@
+{"index": 240925, "D": "marked with pustules or with pits left by them; pitted.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 13180, "D": "the state of being an animal. ", "S": ["animalism ", "sensuality "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 37559, "D": "a former silver or bronze coin, paper money, and monetary unit of Bolivia,  equal to 100 centavos", "S": [], "A": []}

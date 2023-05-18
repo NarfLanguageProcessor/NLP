@@ -1,0 +1,1 @@
+{"index": 341499, "D": "to see at a distance; catch sight of.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 6955, "D": "transportable or transported to combat areas by helicopters", "S": [], "A": []}

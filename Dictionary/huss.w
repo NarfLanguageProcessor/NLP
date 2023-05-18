@@ -1,0 +1,1 @@
+{"index": 145370, "D": "Czech religious reformer and martyr.", "S": [], "A": []}

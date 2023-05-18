@@ -1,0 +1,1 @@
+{"index": 220353, "D": "a delicate or fine point; punctilio", "S": [], "A": []}

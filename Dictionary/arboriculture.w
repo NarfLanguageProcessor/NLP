@@ -1,0 +1,1 @@
+{"index": 18572, "D": "the cultivation of trees and shrubs.", "S": ["afforestation "], "A": []}

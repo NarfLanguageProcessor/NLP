@@ -1,0 +1,1 @@
+{"index": 116136, "D": "a football  player, especially a member of a college or professional team.", "S": [], "A": []}

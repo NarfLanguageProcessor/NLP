@@ -1,0 +1,1 @@
+{"index": 227845, "D": "love of one's country; patriotism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86865, "D": "any of several plants of the genus Disa in the orchid family,  primarily found in Africa and Madagascar and having tuberous roots and usually white, purple, or red flowers.", "S": [], "A": []}

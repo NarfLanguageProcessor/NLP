@@ -1,0 +1,1 @@
+{"index": 74035, "D": "the strap of a bridle that fits across the head of a horse.", "S": [], "A": []}

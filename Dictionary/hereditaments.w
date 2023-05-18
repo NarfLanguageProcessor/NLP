@@ -1,0 +1,1 @@
+{"index": 137015, "D": "any inheritable estate or interest in property.", "S": [], "A": []}

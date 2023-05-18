@@ -1,0 +1,1 @@
+{"index": 279412, "D": "(of a triangle) having three unequal sides.", "S": [], "A": []}

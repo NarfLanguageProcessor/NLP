@@ -1,0 +1,1 @@
+{"index": 349770, "D": "to bring back into existence, use, or the like; reestablish", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 48379, "D": "a Northerner who went to the South after the Civil War and became active in Republican politics, especially so as to profiteer from the unsettled social and political conditions of the area during Reconstruction.", "S": [], "A": []}

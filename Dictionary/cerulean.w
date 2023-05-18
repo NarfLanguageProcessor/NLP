@@ -1,0 +1,1 @@
+{"index": 51604, "D": "deep blue; sky blue; azure.", "S": ["blue ", "sky-blue "], "A": []}

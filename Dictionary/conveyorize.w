@@ -1,0 +1,1 @@
+{"index": 67930, "D": "to equip (a factory or the like) with conveyor  belts.", "S": [], "A": []}

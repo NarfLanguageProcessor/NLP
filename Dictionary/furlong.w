@@ -1,0 +1,1 @@
+{"index": 120433, "D": "a unit of distance, equal to 220 yards (201 meters) or \u215b mile (0.2 kilometer). Abbreviation", "S": [], "A": []}

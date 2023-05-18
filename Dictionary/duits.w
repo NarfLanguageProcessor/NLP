@@ -1,0 +1,1 @@
+{"index": 93926, "D": "an old small copper coin of the Netherlands and Dutch colonies, first issued in the 17th century.", "S": [], "A": []}

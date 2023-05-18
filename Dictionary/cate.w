@@ -1,0 +1,1 @@
+{"index": 49483, "D": "a choice food;delicacy; dainty.", "S": [], "A": []}

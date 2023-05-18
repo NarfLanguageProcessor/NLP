@@ -1,0 +1,1 @@
+{"index": 84886, "D": "devil; deuce  (often used in exclamations and as a mild oath)", "S": ["brat ", "cub ", "dickens ", "gamin ", "imp ", "punk ", "pup ", "ragamuffin ", "waif "], "A": []}

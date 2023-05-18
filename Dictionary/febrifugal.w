@@ -1,0 +1,1 @@
+{"index": 110733, "D": "of or acting as a febrifuge. ", "S": [], "A": []}

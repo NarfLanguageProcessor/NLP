@@ -1,0 +1,1 @@
+{"index": 88955, "D": "to deprive of people;  depopulate.", "S": [], "A": []}

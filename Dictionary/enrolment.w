@@ -1,0 +1,1 @@
+{"index": 100935, "D": "the act of enrolling or state of being enrolled", "S": [], "A": []}

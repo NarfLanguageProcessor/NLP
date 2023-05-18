@@ -1,0 +1,1 @@
+{"index": 14230, "D": "a lesser portico  preceding a main portico. ", "S": [], "A": []}

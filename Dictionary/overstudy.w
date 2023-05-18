@@ -1,0 +1,1 @@
+{"index": 221431, "D": "to study  too much or too hard (sometimes used reflexively)", "S": [], "A": []}

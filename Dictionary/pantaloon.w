@@ -1,0 +1,1 @@
+{"index": 224888, "D": "a man's close-fitting garment for the hips and legs, worn especially in the 19th century, but varying in form from period to period; trousers.", "S": ["clown ", "jokester "], "A": []}

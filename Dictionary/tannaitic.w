@@ -1,0 +1,1 @@
+{"index": 316164, "D": "one of a group of Jewish scholars, active in Palestine during the 1st and 2nd centuries a.d., whose teachings are found chiefly in the Mishnah.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311385, "D": "offensive display of superiority or self-importance; overbearing pride.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25477, "D": "foolish or meaningless chatter; prattle", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 272630, "D": "to clear, disencumber, or free of something objectionable (usually followed by of)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 21484, "D": "a savory jelly usually made with meat or fish stock and gelatin, chilled and used as a garnish and coating for meats, seafoods, eggs, etc.", "S": [], "A": []}

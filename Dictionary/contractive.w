@@ -1,0 +1,1 @@
+{"index": 67582, "D": "serving or tending to contract. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332885, "D": "transurethral resection of the prostate", "S": [], "A": []}

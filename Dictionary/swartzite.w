@@ -1,0 +1,1 @@
+{"index": 314147, "D": "a hydrous carbonate of calcium, magnesium, and uranium, occurring in green crystals", "S": [], "A": []}

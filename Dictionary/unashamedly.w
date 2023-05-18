@@ -1,0 +1,1 @@
+{"index": 335281, "D": "not ashamed;  not restrained by embarrassment or consciousness of moral guilt", "S": ["blatantly ", "brazenly ", "candidly ", "flagrantly ", "forthrightly ", "fully ", "honestly ", "plainly ", "publicly ", "readily ", "simply ", "unabashedly ", "willingly "], "A": ["incompletely "]}

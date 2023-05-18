@@ -1,0 +1,1 @@
+{"index": 144166, "D": "a member of the religious and military order (Knights Hospitalers,  or Knights of St. John of Jerusalem ) originating about the time of the first Crusade (1096\u201399) and taking its name from a hospital at Jerusalem.", "S": [], "A": []}

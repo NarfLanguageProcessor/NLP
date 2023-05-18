@@ -1,0 +1,1 @@
+{"index": 281264, "D": "a large, usually rectangular board  in a ballpark, sports arena, or the like, that shows the score  of a contest and often other relevant facts and figures, as the count of balls and strikes on a baseball batter.", "S": [], "A": []}

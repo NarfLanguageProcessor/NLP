@@ -1,0 +1,1 @@
+{"index": 86791, "D": "a person or thing that directs. ", "S": ["board ", "bureau ", "cabinet ", "committee ", "department ", "executive ", "legislature ", "management ", "ministry ", "presidency "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83086, "D": "to keep from proceeding; keep waiting; delay. ", "S": ["bounding ", "enclosing ", "imprisoning ", "restraining "], "A": []}

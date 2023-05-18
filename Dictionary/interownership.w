@@ -1,0 +1,1 @@
+{"index": 155562, "D": "the state or fact of being an owner. ", "S": [], "A": []}

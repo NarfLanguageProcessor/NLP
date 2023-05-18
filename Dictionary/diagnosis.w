@@ -1,0 +1,1 @@
+{"index": 84133, "D": "the decision reached from such an examination. Abbreviation", "S": ["analysis ", "conclusion ", "examination ", "interpretation ", "investigation "], "A": []}

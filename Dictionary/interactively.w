@@ -1,0 +1,1 @@
+{"index": 154429, "D": "acting one upon or with the other.", "S": [], "A": []}

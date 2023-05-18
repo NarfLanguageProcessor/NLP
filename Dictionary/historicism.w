@@ -1,0 +1,1 @@
+{"index": 141876, "D": "a theory that history is determined by immutable laws and not by human agency.", "S": [], "A": []}

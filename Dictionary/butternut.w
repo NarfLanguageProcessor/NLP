@@ -1,0 +1,1 @@
+{"index": 43710, "D": "the edible oily nut of an American tree, Juglans cinerea, of the walnut family.", "S": [], "A": []}

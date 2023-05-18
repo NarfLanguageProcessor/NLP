@@ -1,0 +1,1 @@
+{"index": 94357, "D": "a copy exactly like an original.", "S": ["copying ", "echoing ", "imitating ", "reduplicating ", "reproducing "], "A": []}

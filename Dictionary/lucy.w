@@ -1,0 +1,1 @@
+{"index": 175798, "D": "the incomplete skeletal remains of a female hominin found in Hadar, Ethiopia, in 1974 and classified as Australopithecus afarensis", "S": [], "A": []}

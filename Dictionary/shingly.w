@@ -1,0 +1,1 @@
+{"index": 288359, "D": "consisting of or covered with small, waterworn stones or pebbles. ", "S": [], "A": []}

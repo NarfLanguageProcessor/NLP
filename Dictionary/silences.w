@@ -1,0 +1,1 @@
+{"index": 290268, "D": "absence of any sound or noise; stillness.", "S": ["blackout ", "calm ", "lull ", "peace ", "quiet ", "reticence ", "secrecy ", "stillness "], "A": ["agitation "]}

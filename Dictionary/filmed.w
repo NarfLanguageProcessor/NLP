@@ -1,0 +1,1 @@
+{"index": 112728, "D": "a thin layer or coating", "S": ["prerecorded "], "A": []}

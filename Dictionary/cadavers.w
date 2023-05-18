@@ -1,0 +1,1 @@
+{"index": 44276, "D": "a dead body, especially a human body to be dissected; corpse.", "S": ["carcass ", "corpse ", "skeleton "], "A": ["being "]}

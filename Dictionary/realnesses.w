@@ -1,0 +1,1 @@
+{"index": 261788, "D": "true; not merely ostensible, nominal, or apparent", "S": ["accuracy ", "certainty ", "credibility ", "faithfulness ", "genuineness ", "legitimacy ", "reliability ", "truthfulness ", "validity "], "A": ["dishonesty "]}

@@ -1,0 +1,1 @@
+{"index": 128957, "D": "a coarse-grained acid igneous rock containing almost twice as much plagioclase as orthoclase", "S": [], "A": []}

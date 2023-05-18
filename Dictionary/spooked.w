@@ -1,0 +1,1 @@
+{"index": 300842, "D": "a ghost; specter. ", "S": ["anxious ", "apprehensive ", "frightened ", "nervous ", "scared ", "shocked ", "suspicious ", "timid "], "A": ["brave ", "calm ", "happy ", "unafraid ", "unworried "]}

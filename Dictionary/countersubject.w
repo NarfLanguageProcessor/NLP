@@ -1,0 +1,1 @@
+{"index": 71126, "D": "a theme in a fugue that occurs simultaneously with the second and often the subsequent themes of the main subject. ", "S": [], "A": []}

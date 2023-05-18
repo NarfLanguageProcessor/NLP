@@ -1,0 +1,1 @@
+{"index": 105649, "D": "a brass musical instrument similar to the baritone tuba but somewhat smaller, with a wider bore and mellower tone, and often having a second bell.", "S": [], "A": []}

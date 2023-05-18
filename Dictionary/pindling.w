@@ -1,0 +1,1 @@
+{"index": 236977, "D": "puny; sickly; frail; weak.", "S": [], "A": []}

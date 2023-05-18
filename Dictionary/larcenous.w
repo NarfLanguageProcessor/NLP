@@ -1,0 +1,1 @@
+{"index": 168450, "D": "of, resembling, or characteristic of larceny. ", "S": ["crooked ", "rapacious "], "A": []}

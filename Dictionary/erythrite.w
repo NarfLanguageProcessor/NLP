@@ -1,0 +1,1 @@
+{"index": 103772, "D": "a mineral, hydrous cobalt arsenate, Co3As2O8\u22c58H2O, occurring as a powdery, usually red incrustation on cobalt minerals; cobalt bloom.", "S": [], "A": []}

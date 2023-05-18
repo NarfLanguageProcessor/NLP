@@ -1,0 +1,1 @@
+{"index": 304932, "D": "an enclosure with pens, sheds, etc., connected with a slaughterhouse, railroad, market, etc., for the temporary housing of cattle, sheep, swine, or horses.", "S": ["abattoir "], "A": []}

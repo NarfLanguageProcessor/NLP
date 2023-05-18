@@ -1,0 +1,1 @@
+{"index": 23013, "D": "to be present at", "S": ["charged ", "filled ", "replete "], "A": ["empty "]}

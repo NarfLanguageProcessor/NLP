@@ -1,0 +1,1 @@
+{"index": 161487, "D": "given to or characterized by joking; jesting; humorous; playful", "S": ["facetious ", "frolicsome ", "funny ", "humorous ", "jocular ", "joking ", "merry ", "playful ", "sportive ", "waggish ", "witty "], "A": []}

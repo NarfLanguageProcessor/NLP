@@ -1,0 +1,1 @@
+{"index": 212169, "D": "noting or pertaining to an epoch of the Tertiary  Period, occurring from 40 to 25 million years ago.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 93334, "D": "to sag, sink, bend, or hang down, as from weakness, exhaustion, or lack of support.", "S": [], "A": []}

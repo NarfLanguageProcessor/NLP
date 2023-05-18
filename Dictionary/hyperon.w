@@ -1,0 +1,1 @@
+{"index": 140335, "D": "any baryon with strangeness other than zero, especially one with a relatively long lifetime.", "S": [], "A": []}

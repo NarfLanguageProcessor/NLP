@@ -1,0 +1,1 @@
+{"index": 242957, "D": "a blanketlike cloak with a hole in the center to admit the head, originating in South America, now often worn as a raincoat.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 54857, "D": "a goat antelope, Pantholops hodgsoni, of Tibet, the male of which has very long, straight horns.", "S": [], "A": []}

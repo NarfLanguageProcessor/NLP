@@ -1,0 +1,1 @@
+{"index": 302469, "D": "a stick or post pointed at one end for driving into the ground as a boundary mark, part of a fence, support for a plant, etc.", "S": ["bar ", "barbed wire ", "barricade ", "block ", "dike ", "net ", "rail ", "railing ", "roadblock ", "wall "], "A": ["opening "]}

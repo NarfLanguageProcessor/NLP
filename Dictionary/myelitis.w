@@ -1,0 +1,1 @@
+{"index": 186904, "D": "inflammation of the substance of the spinal cord.", "S": [], "A": []}

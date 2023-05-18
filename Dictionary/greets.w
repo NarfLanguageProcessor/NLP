@@ -1,0 +1,1 @@
+{"index": 129628, "D": "to address with some form of salutation; welcome.", "S": ["accost ", "acknowledge ", "address ", "approach ", "attend ", "embrace ", "hail ", "meet ", "receive ", "salute ", "shake hands ", "stop "], "A": ["avoid ", "disregard ", "dodge ", "ignore ", "shun ", "slight "]}

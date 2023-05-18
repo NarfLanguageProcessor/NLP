@@ -1,0 +1,1 @@
+{"index": 173721, "D": "the physical characteristics of a rock or stratigraphic unit.", "S": [], "A": []}

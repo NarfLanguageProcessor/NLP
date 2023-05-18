@@ -1,0 +1,1 @@
+{"index": 149132, "D": "not probable; unlikely to be true or to happen", "S": ["implausibility ", "implausibleness ", "unlikeliness "], "A": []}

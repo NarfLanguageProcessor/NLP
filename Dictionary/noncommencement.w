@@ -1,0 +1,1 @@
+{"index": 202091, "D": "an act or instance of commencing;  beginning", "S": [], "A": []}

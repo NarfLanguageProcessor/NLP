@@ -1,0 +1,1 @@
+{"index": 104552, "D": "Eastern Standard Time.", "S": ["ECT ", "convulsive therapy ", "electroconvulsive therapy ", "electrotherapy ", "psychosurgery ", "shock treatment "], "A": []}

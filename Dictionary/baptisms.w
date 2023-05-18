@@ -1,0 +1,1 @@
+{"index": 27641, "D": "a ceremonial immersion in water, or application of water, as an initiatory rite or sacrament of the Christian church.", "S": ["ablution ", "christening ", "debut ", "dedication ", "immersion ", "introduction ", "launching ", "purgation ", "purge ", "purification ", "ritual ", "sanctification ", "sprinkling "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 314154, "D": "characteristic of or behaving in the manner of a swashbuckler. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 325702, "D": "work done with a tool or tools; tooled ornamentation, as on wood, stone, or leather.", "S": ["color ", "design ", "finery ", "ornament ", "plaque ", "ribbon ", "trinket ", "wreath "], "A": ["plainness "]}

@@ -1,0 +1,1 @@
+{"index": 102673, "D": "an epiphyte that grows on the surface, especially the upper surface, of leaves, as a lichen.", "S": [], "A": []}

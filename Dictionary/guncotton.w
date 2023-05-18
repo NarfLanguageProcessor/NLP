@@ -1,0 +1,1 @@
+{"index": 131332, "D": "a highly explosive nitrocellulose, made by breaking down clean cotton  in a mixture of one part nitric acid and three parts sulfuric acid", "S": [], "A": []}

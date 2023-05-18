@@ -1,0 +1,1 @@
+{"index": 350996, "D": "to shine with or reflect a subdued, tremulous light; gleam faintly.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 174687, "D": [], "S": ["blarney ", "cacoethes loquendi ", "diarrhea of the mouth ", "flowing tongue ", "furor loquendi ", "gift of the gab ", "logorrhea ", "verbal diarrhea ", "volubility "], "A": []}

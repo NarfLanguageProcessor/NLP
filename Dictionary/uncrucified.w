@@ -1,0 +1,1 @@
+{"index": 338239, "D": "to put to death by nailing or binding the hands and feet to a cross.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 17988, "D": "approving;  expressing approbation. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 204722, "D": "giving information;  instructive", "S": [], "A": []}

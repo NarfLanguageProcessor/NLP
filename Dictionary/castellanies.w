@@ -1,0 +1,1 @@
+{"index": 49050, "D": "the rank, office, or jurisdiction of a castellan. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 181014, "D": "a city in W central Nicaragua.", "S": [], "A": []}

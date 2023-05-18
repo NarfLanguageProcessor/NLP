@@ -1,0 +1,1 @@
+{"index": 279854, "D": "a tumorlike mass of feces in the colon or rectum.", "S": [], "A": []}

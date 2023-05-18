@@ -1,0 +1,1 @@
+{"index": 148498, "D": "not perceptive;  lacking perception.", "S": [], "A": []}

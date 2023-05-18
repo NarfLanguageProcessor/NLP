@@ -1,0 +1,1 @@
+{"index": 186151, "D": "The male gametophyte that develops from the microspores of heterosporous plants. The pollen grains of gymnosperms and angiosperms are microgametophytes. See more at  gametophyte pollination.", "S": [], "A": []}

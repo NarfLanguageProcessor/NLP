@@ -1,0 +1,1 @@
+{"index": 304579, "D": "any insect of the order Strepsiptera, including the genus Stylops, living as a parasite in other insects, esp bees and wasps", "S": [], "A": []}

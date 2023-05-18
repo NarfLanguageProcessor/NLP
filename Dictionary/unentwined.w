@@ -1,0 +1,1 @@
+{"index": 341376, "D": "twisted, laced, or wound together", "S": [], "A": []}

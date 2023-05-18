@@ -1,0 +1,1 @@
+{"index": 197662, "D": "a state in the central United States. 77,237 sq. mi. (200,044 sq. km). Capital", "S": [], "A": []}

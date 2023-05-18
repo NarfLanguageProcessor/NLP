@@ -1,0 +1,1 @@
+{"index": 15342, "D": "the inward curving ridge of the auricle of the ear.", "S": [], "A": []}

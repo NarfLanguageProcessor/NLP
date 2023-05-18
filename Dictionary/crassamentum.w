@@ -1,0 +1,1 @@
+{"index": 72224, "D": [], "S": ["coagulum ", "embolism ", "embolus ", "grume ", "thrombus "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97090, "D": "the branch of physics that deals with electricity in motion.", "S": [], "A": []}

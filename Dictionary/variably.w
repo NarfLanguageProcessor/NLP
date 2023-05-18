@@ -1,0 +1,1 @@
+{"index": 357170, "D": "apt or liable to vary  or change; changeable", "S": ["alternately ", "at intervals ", "at times ", "every once in a while ", "every so often ", "fluctuating ", "from time to time ", "irregularly ", "now and then ", "occasionally ", "on occasion ", "once in a while ", "sometimes ", "sporadically ", "vacillating "], "A": []}

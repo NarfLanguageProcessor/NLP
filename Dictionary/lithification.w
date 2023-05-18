@@ -1,0 +1,1 @@
+{"index": 173644, "D": "the process or processes by which unconsolidated materials are converted into coherent solid rock, as by compaction or cementation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 271907, "D": "used for, belonging to, or concerned with mere style or effect, rather than truth, substance, or meaning", "S": ["oratorical ", "vocal "], "A": ["concise "]}

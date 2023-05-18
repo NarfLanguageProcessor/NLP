@@ -1,0 +1,1 @@
+{"index": 294279, "D": "to let saliva or liquid run from the mouth; slaver; drivel.", "S": [], "A": []}

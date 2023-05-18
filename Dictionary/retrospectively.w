@@ -1,0 +1,1 @@
+{"index": 270907, "D": "with contemplation of past situations, events, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 345451, "D": "foam or froth made by a detergent, especially soap, when stirred or rubbed in water, as by a brush used in shaving or by hands in washing.", "S": [], "A": []}

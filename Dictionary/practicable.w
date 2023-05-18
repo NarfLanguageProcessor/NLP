@@ -1,0 +1,1 @@
+{"index": 245076, "D": "capable of being done, effected, or put into practice,  with the available means; feasible", "S": ["achievable ", "applicable ", "attainable ", "doable ", "feasible ", "handy ", "practical ", "viable ", "workable "], "A": ["impossible ", "impractical ", "unfeasible ", "unpractical ", "unreasonable ", "unworkable ", "useless "]}

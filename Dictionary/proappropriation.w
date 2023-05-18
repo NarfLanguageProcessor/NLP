@@ -1,0 +1,1 @@
+{"index": 250967, "D": "the act of appropriating  or taking possession of something, often without permission or consent.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 165426, "D": "a dumpling, especially a small ball of matzo meal, eggs, and salt, often mixed with another foodstuff, as ground almonds or grated potato, usually served in soup.", "S": [], "A": []}

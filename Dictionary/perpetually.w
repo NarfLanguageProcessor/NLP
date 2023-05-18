@@ -1,0 +1,1 @@
+{"index": 231799, "D": "forever or for an indefinitely long time", "S": ["constantly ", "endlessly "], "A": ["never "]}

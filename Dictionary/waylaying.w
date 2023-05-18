@@ -1,0 +1,1 @@
+{"index": 361989, "D": "to intercept or attack from ambush, as in order to rob, seize, or slay.", "S": ["accost "], "A": ["allow ", "forward "]}

@@ -1,0 +1,1 @@
+{"index": 239169, "D": "the blood substance that when activated forms plasmin. ", "S": [], "A": []}

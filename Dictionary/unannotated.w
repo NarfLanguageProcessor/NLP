@@ -1,0 +1,1 @@
+{"index": 335024, "D": "supplied with or containing explanatory notes, textual comments, etc.", "S": [], "A": []}

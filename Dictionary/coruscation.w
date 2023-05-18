@@ -1,0 +1,1 @@
+{"index": 69897, "D": "the act of coruscating. ", "S": ["flash ", "flicker ", "gleam ", "glimmer ", "glint ", "glitter ", "spark ", "sparkle ", "twinkle "], "A": ["dullness "]}

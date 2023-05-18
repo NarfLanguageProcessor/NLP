@@ -1,0 +1,1 @@
+{"index": 331569, "D": "something without use or value; rubbish; trash; worthless stuff.", "S": ["falsehood ", "malarky ", "nonsense ", "rubbish ", "trash ", "trickery "], "A": ["possessions ", "sense ", "truth "]}

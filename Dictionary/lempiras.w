@@ -1,0 +1,1 @@
+{"index": 170363, "D": "a paper money and monetary unit of Honduras, equal to 100 centavos. Abbreviation", "S": [], "A": []}

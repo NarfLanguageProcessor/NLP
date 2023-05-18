@@ -1,0 +1,1 @@
+{"index": 179918, "D": "the doctrines and principles of the Marcionites.", "S": [], "A": []}

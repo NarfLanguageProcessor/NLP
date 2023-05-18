@@ -1,0 +1,1 @@
+{"index": 86301, "D": "an instrument for measuring the field of vision.", "S": [], "A": []}

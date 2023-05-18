@@ -1,0 +1,1 @@
+{"index": 257083, "D": "a reddish, crystalline, anthraquinone dye, C14H5O2(OH)3, isomeric with flavopurpurin. ", "S": [], "A": []}

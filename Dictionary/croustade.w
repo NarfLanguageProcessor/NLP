@@ -1,0 +1,1 @@
+{"index": 73974, "D": "a shell of bread or pastry, sometimes of noodles, rice, or mashed potatoes, baked or fried and filled with ragout or the like.", "S": [], "A": []}

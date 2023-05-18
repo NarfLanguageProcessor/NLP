@@ -1,0 +1,1 @@
+{"index": 164160, "D": "a drum  consisting of a hollow hemisphere of brass, copper, or fiberglass over which is stretched a skin, the tension of which can be modified by hand screws or foot pedals to vary the pitch.", "S": ["pan ", "steel pan ", "timpani "], "A": []}

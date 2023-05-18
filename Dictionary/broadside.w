@@ -1,0 +1,1 @@
+{"index": 41086, "D": "the whole side  of a ship above the water line, from the bow to the quarter.", "S": ["obliquely ", "sidelong "], "A": []}

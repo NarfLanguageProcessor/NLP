@@ -1,0 +1,1 @@
+{"index": 64798, "D": "a person who sets the type or text for printing.", "S": [], "A": []}

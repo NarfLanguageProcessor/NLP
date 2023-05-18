@@ -1,0 +1,1 @@
+{"index": 69026, "D": "any of certain white Australian cockatoos of the genus Kakatoe", "S": [], "A": []}

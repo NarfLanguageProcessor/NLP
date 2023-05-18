@@ -1,0 +1,1 @@
+{"index": 362472, "D": "lacking or absent", "S": ["deficient ", "unfulfilled "], "A": ["adequate ", "enough ", "existing ", "present ", "sufficient "]}

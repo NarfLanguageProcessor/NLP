@@ -1,0 +1,1 @@
+{"index": 149981, "D": "to contain, as a whole does parts or any part or element", "S": ["counting "], "A": ["excluding ", "rejecting "]}

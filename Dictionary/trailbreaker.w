@@ -1,0 +1,1 @@
+{"index": 327411, "D": "a person who blazes  a trail  for others to follow through unsettled country or wilderness; pathfinder.", "S": ["explorer ", "guide ", "leader ", "pathfinder ", "player ", "playmaker ", "point ", "scout ", "trailblazer "], "A": []}

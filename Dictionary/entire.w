@@ -1,0 +1,1 @@
+{"index": 101450, "D": "having all the parts or elements; whole; complete", "S": ["full ", "integrated ", "unified "], "A": ["flawed ", "imperfect ", "incomplete ", "part ", "partial ", "unfinished "]}

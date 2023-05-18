@@ -1,0 +1,1 @@
+{"index": 324708, "D": "the act of pleasantly exciting or arousing the senses, emotions, or imagination, often in a sexually suggestive way", "S": ["arousal ", "excitement ", "exhilaration ", "stimulation ", "thrill "], "A": ["calm ", "depression ", "discouragement "]}

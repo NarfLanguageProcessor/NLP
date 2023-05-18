@@ -1,0 +1,1 @@
+{"index": 271414, "D": "the act or process of giving new life or fresh vitality or energy to someone or something", "S": ["reactivation ", "rebirth ", "recovery ", "regeneration ", "rejuvenation ", "renaissance ", "renewal ", "restoration ", "resurgence ", "resuscitation "], "A": []}

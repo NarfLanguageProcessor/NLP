@@ -1,0 +1,1 @@
+{"index": 133696, "D": "providing or yielding meagerly in return for much effort; demanding or unrewarding", "S": [], "A": []}

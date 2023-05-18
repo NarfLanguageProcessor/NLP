@@ -1,0 +1,1 @@
+{"index": 48591, "D": "the act or cost of carting. ", "S": ["freight ", "gridlock ", "influx ", "movement ", "service ", "shipment ", "transit ", "transport ", "transportation ", "travel "], "A": ["indifference "]}

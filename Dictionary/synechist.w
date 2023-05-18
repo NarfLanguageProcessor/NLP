@@ -1,0 +1,1 @@
+{"index": 291570, "D": "a doctrine of philosophical thinking stressing the importance of the idea of continuity", "S": [], "A": []}

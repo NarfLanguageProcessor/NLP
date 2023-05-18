@@ -1,0 +1,1 @@
+{"index": 54176, "D": "a gumlike substance obtained from the latex of certain tropical American trees, as the sapodilla, used chiefly in the manufacture of chewing gum.", "S": [], "A": []}

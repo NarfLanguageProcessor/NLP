@@ -1,0 +1,1 @@
+{"index": 36600, "D": "leakage of the air-fuel mixture or of combustion gases between a piston and the cylinder wall into the crankcase of an automobile.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 24785, "D": "showing great enthusiasm for or interest in", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351384, "D": "indisposed to action or exertion; lacking in energy; lazy; indolent", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 100302, "D": "to occupy the attention or efforts of (a person or persons)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 286378, "D": "pressed together or compacted, as soldiers in rows", "S": [], "A": []}

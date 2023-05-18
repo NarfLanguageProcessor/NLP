@@ -1,0 +1,1 @@
+{"index": 365473, "D": "(in Nevada, Arizona, etc.) an American Indian hut made of brushwood or covered with mats.", "S": [], "A": []}

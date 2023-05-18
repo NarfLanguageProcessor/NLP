@@ -1,0 +1,1 @@
+{"index": 67981, "D": "to make conventional. ", "S": ["abstract ", "streamlined ", "stylized "], "A": ["complicated "]}

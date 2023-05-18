@@ -1,0 +1,1 @@
+{"index": 171381, "D": "liabilities as detailed on a balance sheet, especially in relation to assets and capital.", "S": ["penchant ", "predilection ", "predisposition ", "propensity "], "A": ["antipathy ", "disinclination ", "dislike ", "hate "]}

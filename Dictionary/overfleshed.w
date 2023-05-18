@@ -1,0 +1,1 @@
+{"index": 219390, "D": "having flesh,  especially of a specified type (usually used in combination)", "S": [], "A": []}

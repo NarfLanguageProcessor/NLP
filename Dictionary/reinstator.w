@@ -1,0 +1,1 @@
+{"index": 266399, "D": "to put back or establish again, as in a former position or state", "S": [], "A": []}

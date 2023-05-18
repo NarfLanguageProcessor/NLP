@@ -1,0 +1,1 @@
+{"index": 281078, "D": "the anterior, headlike segment of a tapeworm, having suckers, hooks, or the like, for attachment.", "S": [], "A": []}

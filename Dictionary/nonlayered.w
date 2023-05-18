@@ -1,0 +1,1 @@
+{"index": 204964, "D": "a thickness of some material laid on or spread over a surface", "S": [], "A": []}

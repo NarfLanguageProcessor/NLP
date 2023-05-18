@@ -1,0 +1,1 @@
+{"index": 281000, "D": "a hardening or induration of a tissue or part, or an increase of connective tissue or the like at the expense of more active tissue.", "S": [], "A": []}

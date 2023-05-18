@@ -1,0 +1,1 @@
+{"index": 187632, "D": "belonging to the Mimosaceae, now regarded as a subfamily (Mimosoideae) of the legume family.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 266560, "D": "to say or do again or repeatedly; repeat, often excessively.", "S": ["echo ", "renew ", "repeat ", "restate "], "A": ["take back "]}

@@ -1,0 +1,1 @@
+{"index": 370020, "D": "a skunk-like African musteline mammal, Ictonyx striatus, having a long black-and-white coat", "S": [], "A": []}

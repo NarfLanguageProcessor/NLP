@@ -1,0 +1,1 @@
+{"index": 129701, "D": "a hydrothermally altered rock of granitic texture composed chiefly of quartz and mica, common in the tin mines of Europe.", "S": [], "A": []}

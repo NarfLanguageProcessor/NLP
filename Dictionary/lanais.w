@@ -1,0 +1,1 @@
+{"index": 167852, "D": "a veranda, especially a fully furnished one used as a living room.", "S": [], "A": []}

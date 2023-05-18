@@ -1,0 +1,1 @@
+{"index": 261356, "D": "a black and white auk, Alca torda, of the American and European coasts of the northern North Atlantic, having a compressed black bill encircled by a white band.", "S": [], "A": []}

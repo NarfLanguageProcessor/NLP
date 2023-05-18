@@ -1,0 +1,1 @@
+{"index": 260920, "D": "to scrape or abrade with a rough instrument.", "S": [], "A": []}

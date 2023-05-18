@@ -1,0 +1,1 @@
+{"index": 188624, "D": "to adjust or align  improperly or badly", "S": [], "A": []}

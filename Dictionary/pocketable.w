@@ -1,0 +1,1 @@
+{"index": 240927, "D": "small enough to be carried in one's pocket;  pocket-size.", "S": [], "A": []}

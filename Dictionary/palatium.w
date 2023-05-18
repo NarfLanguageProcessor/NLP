@@ -1,0 +1,1 @@
+{"index": 223572, "D": "a palace, especially the palace of an ancient Roman emperor.", "S": [], "A": []}

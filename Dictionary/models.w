@@ -1,0 +1,1 @@
+{"index": 191058, "D": "a standard or example for imitation or comparison.", "S": ["copy ", "figure ", "image ", "painting ", "photograph ", "picture ", "portrait "], "A": ["being ", "entity ", "original "]}

@@ -1,0 +1,1 @@
+{"index": 359640, "D": "active strength or force.", "S": [], "A": []}

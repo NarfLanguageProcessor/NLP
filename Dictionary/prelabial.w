@@ -1,0 +1,1 @@
+{"index": 248148, "D": "of, relating to, or resembling a labium. ", "S": [], "A": []}

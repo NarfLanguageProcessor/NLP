@@ -1,0 +1,1 @@
+{"index": 4710, "D": "one who gives advice. ", "S": ["adviser ", "aide ", "confidant ", "consultant ", "counselor ", "director ", "doctor ", "expert ", "instructor ", "lawyer ", "mentor ", "tutor "], "A": ["pupil ", "student ", "enemy ", "foe "]}

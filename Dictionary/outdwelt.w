@@ -1,0 +1,1 @@
+{"index": 216527, "D": "to live or stay as a permanent resident; reside. ", "S": [], "A": []}

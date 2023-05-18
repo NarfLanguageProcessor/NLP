@@ -1,0 +1,1 @@
+{"index": 55018, "D": "a severe and sometimes persistent form of acne  resulting from exposure to chlorine  compounds, such as dioxin.", "S": [], "A": []}

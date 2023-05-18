@@ -1,0 +1,1 @@
+{"index": 273384, "D": "the channel in which a river  flows or formerly flowed.", "S": [], "A": []}

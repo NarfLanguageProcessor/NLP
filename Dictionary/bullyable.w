@@ -1,0 +1,1 @@
+{"index": 42577, "D": "a blustering, mean, or predatory person who, from a perceived position of relative power, intimidates, abuses, harasses, or coerces people, especially those considered unlikely to defend themselves", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 159141, "D": "a line drawn on a map connecting all points where ice starts to form at approximately the same period at the onset of winter.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 281541, "D": "a single-edged knife or sword used by the Anglo-Saxons.", "S": [], "A": []}

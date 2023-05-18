@@ -1,0 +1,1 @@
+{"index": 71270, "D": "a pair of successive lines of verse, especially a pair that rhyme and are of the same length.", "S": ["verse "], "A": []}

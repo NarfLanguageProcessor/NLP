@@ -1,0 +1,1 @@
+{"index": 196172, "D": "belonging or pertaining to the family Mustelidae, including the martens, skunks, minks, weasels, badgers, and otters.", "S": [], "A": []}

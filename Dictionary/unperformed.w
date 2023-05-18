@@ -1,0 +1,1 @@
+{"index": 347719, "D": "to carry out; execute; do", "S": ["limited "], "A": ["complete ", "entire ", "fair ", "just ", "total ", "unbiased ", "unprejudiced ", "whole "]}

@@ -1,0 +1,1 @@
+{"index": 100143, "D": "to give energy  to; rouse into activity", "S": [], "A": []}

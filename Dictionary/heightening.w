@@ -1,0 +1,1 @@
+{"index": 135366, "D": "to increase the height  of; make higher. ", "S": ["aggregate ", "increasing "], "A": ["decreasing ", "subtracting "]}

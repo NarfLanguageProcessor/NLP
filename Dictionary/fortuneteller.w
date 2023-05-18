@@ -1,0 +1,1 @@
+{"index": 117731, "D": "a person who claims the ability to predict the future.", "S": ["augur ", "clairvoyant ", "diviner ", "medium ", "oracle ", "palmist ", "predictor ", "prophet ", "seer ", "soothsayer ", "spiritualist "], "A": []}

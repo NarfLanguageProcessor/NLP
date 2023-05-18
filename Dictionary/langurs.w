@@ -1,0 +1,1 @@
+{"index": 168148, "D": "any of various slender, long-tailed monkeys of the genus Presbytis, of Asia, feeding on leaves, fruits, and seeds", "S": [], "A": []}

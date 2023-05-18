@@ -1,0 +1,1 @@
+{"index": 361587, "D": "capable of or susceptible to being attacked, damaged, or hurt", "S": ["accessible ", "defenseless ", "exposed ", "liable ", "ready ", "sensitive ", "susceptible ", "unsafe ", "weak "], "A": ["guarded ", "protected ", "safe ", "secure ", "strong ", "unsusceptible "]}

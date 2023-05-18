@@ -1,0 +1,1 @@
+{"index": 354422, "D": "to smooth the wrinkles  from.", "S": ["squeeze "], "A": ["expand ", "extend ", "let go ", "pull on ", "raise ", "release "]}

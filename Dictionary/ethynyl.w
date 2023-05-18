@@ -1,0 +1,1 @@
+{"index": 105013, "D": "containing the ethynyl group. ", "S": [], "A": []}

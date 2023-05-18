@@ -1,0 +1,1 @@
+{"index": 67504, "D": "a continuous extent, series, or whole.", "S": ["continuity "], "A": []}

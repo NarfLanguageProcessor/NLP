@@ -1,0 +1,1 @@
+{"index": 119607, "D": "producing good results; beneficial; profitable", "S": ["abundance ", "fecundity ", "productiveness ", "productivity ", "prolificacy ", "virility "], "A": []}

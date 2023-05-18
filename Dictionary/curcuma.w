@@ -1,0 +1,1 @@
+{"index": 75243, "D": "any of various chiefly Old World plants belonging to the genus Curcuma, of the ginger family, as C. domestica, yielding turmeric, or C. zedoaria, yielding zedoary.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 136871, "D": "the science of armorial bearings.", "S": [], "A": []}

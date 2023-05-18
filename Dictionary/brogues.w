@@ -1,0 +1,1 @@
+{"index": 41170, "D": "an Irish accent in the pronunciation of English.", "S": ["brogans "], "A": []}

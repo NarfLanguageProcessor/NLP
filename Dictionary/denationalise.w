@@ -1,0 +1,1 @@
+{"index": 80978, "D": "to remove (an industry or the like) from government ownership or control.", "S": [], "A": []}

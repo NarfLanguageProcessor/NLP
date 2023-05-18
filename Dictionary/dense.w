@@ -1,0 +1,1 @@
+{"index": 81209, "D": "having the component parts closely compacted together; crowded or compact", "S": ["heavy ", "impenetrable ", "opaque ", "solid "], "A": ["soft "]}

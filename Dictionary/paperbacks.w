@@ -1,0 +1,1 @@
+{"index": 225151, "D": "a book bound in a flexible paper  cover, often a lower-priced edition of a hardcover book.", "S": ["album ", "booklet ", "brochure ", "copy ", "dictionary ", "edition ", "essay ", "fiction ", "magazine ", "manual ", "novel ", "pamphlet ", "publication ", "text ", "textbook ", "tome ", "volume ", "work ", "writing "], "A": []}

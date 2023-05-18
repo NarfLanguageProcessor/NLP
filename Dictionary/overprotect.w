@@ -1,0 +1,1 @@
+{"index": 220691, "D": "to protect more than necessary, esp to shield a child excessively so as to inhibit its development", "S": ["baby ", "caress ", "coddle ", "cosset ", "dandle ", "fondle ", "indulge ", "overindulge ", "pet ", "spoil "], "A": ["ignore "]}

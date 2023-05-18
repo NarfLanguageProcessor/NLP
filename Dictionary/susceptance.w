@@ -1,0 +1,1 @@
+{"index": 313692, "D": "the imaginary component of admittance, equal to the quotient of the negative of the reactance divided by the sum of the squares of the reactance and resistance. Symbol", "S": [], "A": []}

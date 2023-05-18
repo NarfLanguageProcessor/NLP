@@ -1,0 +1,1 @@
+{"index": 36856, "D": "a frequent recreational user of marijuana", "S": [], "A": []}

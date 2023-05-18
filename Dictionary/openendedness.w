@@ -1,0 +1,1 @@
+{"index": 213232, "D": "not having fixed limits; unrestricted; broad", "S": [], "A": []}

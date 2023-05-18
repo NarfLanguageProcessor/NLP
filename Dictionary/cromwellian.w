@@ -1,0 +1,1 @@
+{"index": 73651, "D": "of, relating to, or characteristic of the politics, practices, etc., of Oliver Cromwell  or of the Commonwealth and Protectorate.", "S": [], "A": []}

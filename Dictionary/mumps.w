@@ -1,0 +1,1 @@
+{"index": 195507, "D": "an infectious disease characterized by inflammatory swelling of the parotid and usually other salivary glands, and sometimes by inflammation of the testes or ovaries, caused by a paramyxovirus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 159071, "D": "(of two or more organic compounds) chemically related but differing in composition other than by nCH2.", "S": [], "A": []}

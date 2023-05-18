@@ -1,0 +1,1 @@
+{"index": 261722, "D": "the act of alienating,  or of causing someone to become indifferent or hostile", "S": [], "A": []}

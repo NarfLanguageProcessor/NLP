@@ -1,0 +1,1 @@
+{"index": 196998, "D": "any of certain cloverlike ferns of the genus Marsilea, which grow in swampy areas", "S": [], "A": []}

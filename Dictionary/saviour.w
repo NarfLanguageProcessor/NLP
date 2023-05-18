@@ -1,0 +1,1 @@
+{"index": 279093, "D": "a person who rescues another person or a thing from danger or harm", "S": [], "A": []}

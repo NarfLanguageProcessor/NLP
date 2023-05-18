@@ -1,0 +1,1 @@
+{"index": 237606, "D": "any of several small South American freshwater fishes of the genus Serrasalmus that eat other fish and sometimes plants but occasionally also attack humans and other large animals that enter the water.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27378, "D": "a small flag or streamer fastened to a lance, masthead, etc.", "S": [], "A": []}

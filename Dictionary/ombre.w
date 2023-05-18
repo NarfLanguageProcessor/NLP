@@ -1,0 +1,1 @@
+{"index": 212374, "D": "having a pattern in which colors or tones fade into one another", "S": ["fellow "], "A": []}

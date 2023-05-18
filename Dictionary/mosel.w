@@ -1,0 +1,1 @@
+{"index": 193818, "D": "a river in W central Europe, flowing from the Vosges Mountains in NE France into the Rhine at Coblenz in W Germany. 320 miles (515 km) long.", "S": [], "A": []}

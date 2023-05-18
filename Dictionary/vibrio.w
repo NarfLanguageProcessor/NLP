@@ -1,0 +1,1 @@
+{"index": 359312, "D": "any of several comma- or S-shaped bacteria of the genus Vibrio, certain species of which are pathogenic for humans and other animals.", "S": [], "A": []}

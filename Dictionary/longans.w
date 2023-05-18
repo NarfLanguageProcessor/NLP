@@ -1,0 +1,1 @@
+{"index": 174891, "D": "the small, one-seeded, greenish-brown fruit of a large evergreen tree, Euphoria longana, of the soapberry family, native to China and allied to the litchi.", "S": [], "A": []}

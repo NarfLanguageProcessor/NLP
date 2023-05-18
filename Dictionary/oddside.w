@@ -1,0 +1,1 @@
+{"index": 211215, "D": "a temporary support for a pattern below the joint of a mold, used while the mold is being made.", "S": [], "A": []}

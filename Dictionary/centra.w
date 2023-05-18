@@ -1,0 +1,1 @@
+{"index": 50916, "D": "a plural of centrum. ", "S": ["heart ", "hub ", "place "], "A": ["exterior ", "exteriority ", "outside "]}

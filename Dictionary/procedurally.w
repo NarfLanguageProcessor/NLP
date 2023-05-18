@@ -1,0 +1,1 @@
+{"index": 251153, "D": "of or relating to a procedure  or procedures,  especially of a court of law, legislative body, or law enforcement agency.", "S": [], "A": []}

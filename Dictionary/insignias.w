@@ -1,0 +1,1 @@
+{"index": 153615, "D": "a badge or distinguishing mark of office or honor", "S": ["badge ", "coat of arms ", "decoration ", "ensign ", "paraphernalia ", "regalia ", "symbol "], "A": []}

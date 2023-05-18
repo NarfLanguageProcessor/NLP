@@ -1,0 +1,1 @@
+{"index": 290363, "D": "a nonmetallic element, having amorphous and crystalline forms, occurring in a combined state in minerals and rocks and constituting more than one fourth of the earth's crust", "S": [], "A": []}

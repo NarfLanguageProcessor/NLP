@@ -1,0 +1,1 @@
+{"index": 130212, "D": "to feel about with the hands; feel one's way", "S": ["cast about ", "flounder "], "A": ["leave alone "]}

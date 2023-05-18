@@ -1,0 +1,1 @@
+{"index": 239732, "D": "a person to whom a pledge  is made or with whom something is deposited as a pledge. ", "S": [], "A": []}

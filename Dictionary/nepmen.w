@@ -1,0 +1,1 @@
+{"index": 198672, "D": "(in the Soviet Union) a person who engaged briefly in private enterprise during the New Economic Policy of the 1920s.", "S": [], "A": []}

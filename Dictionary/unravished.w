@@ -1,0 +1,1 @@
+{"index": 349079, "D": "to fill with strong emotion, especially joy.", "S": [], "A": []}

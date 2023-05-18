@@ -1,0 +1,1 @@
+{"index": 154497, "D": "of, pertaining to, characterized by, or forming an axis", "S": [], "A": []}

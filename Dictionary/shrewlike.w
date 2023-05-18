@@ -1,0 +1,1 @@
+{"index": 289161, "D": "a woman of violent temper and speech; termagant.", "S": [], "A": []}

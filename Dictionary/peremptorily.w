@@ -1,0 +1,1 @@
+{"index": 230552, "D": "in a way that leaves no opportunity for denial or refusal", "S": ["arbitrarily ", "forthwith ", "promptly ", "swiftly "], "A": ["slowly "]}

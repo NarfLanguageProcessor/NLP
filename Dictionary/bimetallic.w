@@ -1,0 +1,1 @@
+{"index": 34117, "D": "of or relating to a bimetal. ", "S": [], "A": []}

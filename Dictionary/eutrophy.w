@@ -1,0 +1,1 @@
+{"index": 105910, "D": "healthy or adequate nutrition or development.", "S": [], "A": []}

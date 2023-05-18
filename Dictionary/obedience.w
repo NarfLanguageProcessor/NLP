@@ -1,0 +1,1 @@
+{"index": 209994, "D": "the state or quality of being obedient.", "S": ["acquiescence ", "conformity ", "deference ", "orderliness ", "reverence "], "A": ["disagreement ", "disregard ", "fight "]}

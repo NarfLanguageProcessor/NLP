@@ -1,0 +1,1 @@
+{"index": 80960, "D": "the lair or shelter of a wild animal, especially a predatory mammal.", "S": ["cave ", "hotbed ", "nest ", "sanctuary "], "A": []}

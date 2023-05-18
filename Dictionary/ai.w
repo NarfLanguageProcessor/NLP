@@ -1,0 +1,1 @@
+{"index": 6684, "D": "a three-toed sloth, Bradypus tridactylus, inhabiting forests of southern Venezuela, the Guianas, and northern Brazil, having a diet apparently restricted to the leaves of the trumpet-tree, and sounding a high-pitched cry when disturbed.", "S": ["intracervical insemination ", "intratubal insemination ", "intrauterine insemination "], "A": []}

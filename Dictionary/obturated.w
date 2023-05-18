@@ -1,0 +1,1 @@
+{"index": 210570, "D": "to stop up; close.", "S": [], "A": []}

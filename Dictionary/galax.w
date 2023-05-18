@@ -1,0 +1,1 @@
+{"index": 121174, "D": "a plant, Galax urceolata, of the southeastern U.S., having rounded, evergreen leaves and spikes of small white flowers.", "S": [], "A": []}

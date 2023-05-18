@@ -1,0 +1,1 @@
+{"index": 283964, "D": "a substance, as silicon or germanium, with electrical conductivity intermediate between that of an insulator and a conductor", "S": [], "A": []}

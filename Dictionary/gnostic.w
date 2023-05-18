@@ -1,0 +1,1 @@
+{"index": 127142, "D": "pertaining to knowledge.", "S": ["astute ", "insightful ", "knowledgeable ", "penetrating ", "perceptive ", "piercing "], "A": ["idiotic ", "ignorant ", "stupid ", "unaware ", "unintelligent "]}

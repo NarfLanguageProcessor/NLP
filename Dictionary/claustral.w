@@ -1,0 +1,1 @@
+{"index": 59500, "D": "cloistral; cloisterlike.", "S": [], "A": []}

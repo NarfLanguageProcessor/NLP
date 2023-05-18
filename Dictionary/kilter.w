@@ -1,0 +1,1 @@
+{"index": 164693, "D": "good condition; order", "S": ["commission ", "condition ", "fettle ", "fitness ", "form ", "order ", "repair ", "shape ", "situation ", "state ", "whack "], "A": ["disorganization "]}

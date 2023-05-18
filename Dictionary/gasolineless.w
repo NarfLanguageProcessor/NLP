@@ -1,0 +1,1 @@
+{"index": 122407, "D": "a volatile, flammable liquid mixture of hydrocarbons, obtained from petroleum, and used as fuel for internal-combustion engines, as a solvent, etc.", "S": [], "A": []}

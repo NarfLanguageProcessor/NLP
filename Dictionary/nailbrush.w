@@ -1,0 +1,1 @@
+{"index": 196575, "D": "a small brush  with stiff bristles, used to clean the fingernails.", "S": [], "A": []}

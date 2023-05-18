@@ -1,0 +1,1 @@
+{"index": 73981, "D": "an emaciated, worn-out horse or cow.", "S": [], "A": []}

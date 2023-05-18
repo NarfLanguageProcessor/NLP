@@ -1,0 +1,1 @@
+{"index": 163032, "D": "of or relating to Kanara,  a part of the Maharashtra province in W India.", "S": [], "A": []}

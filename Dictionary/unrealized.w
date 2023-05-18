@@ -1,0 +1,1 @@
+{"index": 349112, "D": "not made real or actual; not resulting in accomplishment, as a task or aim", "S": ["inherent ", "lurking ", "smoldering ", "suppressed ", "underlying ", "veiled "], "A": ["active ", "apparent ", "clear ", "live ", "manifest ", "obvious ", "open ", "public "]}

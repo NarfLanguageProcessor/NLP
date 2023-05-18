@@ -1,0 +1,1 @@
+{"index": 144112, "D": "urging to some course of conduct or action; exhorting; encouraging", "S": [], "A": []}

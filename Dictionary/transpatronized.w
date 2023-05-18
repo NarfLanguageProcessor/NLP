@@ -1,0 +1,1 @@
+{"index": 328196, "D": "to give (a store, restaurant, hotel, etc.) one's regular patronage;  trade with.", "S": [], "A": []}

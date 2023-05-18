@@ -1,0 +1,1 @@
+{"index": 173007, "D": "any of several civetlike carnivores of the genera Prionodon, of the East Indies, and Poiana, of Africa, having retractile claws and a long tail", "S": [], "A": []}

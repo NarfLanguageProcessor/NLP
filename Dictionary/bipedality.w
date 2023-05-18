@@ -1,0 +1,1 @@
+{"index": 34644, "D": "the condition of being two-footed or of using two feet for standing and walking.", "S": [], "A": []}

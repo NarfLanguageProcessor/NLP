@@ -1,0 +1,1 @@
+{"index": 149820, "D": "a unit of length, 1/12 (0.0833) foot, equivalent to 2.54 centimeters. Abbreviation", "S": ["decrease ", "diminish ", "fail ", "fall off ", "falter ", "slacken ", "slow ", "trail ", "wane "], "A": ["advance ", "complete ", "do ", "finish ", "go ", "hasten ", "hurry ", "rise ", "run ", "rush "]}

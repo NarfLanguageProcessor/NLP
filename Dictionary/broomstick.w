@@ -1,0 +1,1 @@
+{"index": 41547, "D": "the long slender handle of a broom. ", "S": ["angular ", "gangly ", "gaunt ", "rangy ", "scrawny ", "slender ", "spindly "], "A": ["chubby ", "fat ", "plump ", "thick "]}

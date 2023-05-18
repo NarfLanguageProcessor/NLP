@@ -1,0 +1,1 @@
+{"index": 316380, "D": "a food substance prepared from cassava in granular, flake, pellet (pearl tapioca ), or flour form, used in puddings, as a thickener, etc.", "S": ["custard ", "junket "], "A": []}

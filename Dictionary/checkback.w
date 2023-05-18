@@ -1,0 +1,1 @@
+{"index": 53315, "D": "a check or verification of a process, tabulation, etc., already completed.", "S": [], "A": []}

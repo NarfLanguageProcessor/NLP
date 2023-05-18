@@ -1,0 +1,1 @@
+{"index": 179919, "D": "a member of a Gnostic ascetic sect that flourished from the 2nd to 7th century a.d. and that rejected the Old Testament and denied the incarnation of God in Christ.", "S": [], "A": []}

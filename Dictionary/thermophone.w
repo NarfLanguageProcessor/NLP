@@ -1,0 +1,1 @@
+{"index": 321477, "D": "an electroacoustic transducer that forms sound waves by the expansion and contraction of the air adjacent to a conductor that varies in temperature according to the magnitude of the current passing through it; formerly used to calibrate microphones.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 131010, "D": "a grating, hatch, or small opening in a wall, esp a ticket-office window", "S": [], "A": []}

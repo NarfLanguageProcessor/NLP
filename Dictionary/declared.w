@@ -1,0 +1,1 @@
+{"index": 78461, "D": "publicly avowed or professed; self-confessed", "S": ["announced ", "stated "], "A": []}

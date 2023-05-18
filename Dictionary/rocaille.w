@@ -1,0 +1,1 @@
+{"index": 273629, "D": "any of the fantastic ornamental, often asymmetrical, combinations characteristic of the Rococo period, consisting of rock, shell, and plant forms combined with artificial forms, esp C-curves.", "S": [], "A": []}

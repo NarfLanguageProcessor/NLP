@@ -1,0 +1,1 @@
+{"index": 113104, "D": "a small arms  weapon, as a rifle or pistol, from which a projectile is fired  by gunpowder.", "S": ["accoutrements ", "armaments ", "artillery ", "equipment ", "guns ", "munitions ", "ordnance ", "panoply ", "weapons "], "A": []}

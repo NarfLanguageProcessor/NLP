@@ -1,0 +1,1 @@
+{"index": 311884, "D": "being more than is sufficient or required; excessive.", "S": ["excessive ", "expendable ", "gratuitous ", "redundant ", "unneeded ", "useless "], "A": ["reasonable ", "useful "]}

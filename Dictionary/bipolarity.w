@@ -1,0 +1,1 @@
+{"index": 34690, "D": "having two poles, as the earth.", "S": [], "A": []}

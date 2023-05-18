@@ -1,0 +1,1 @@
+{"index": 156823, "D": "observation or examination of one's own mental and emotional state, mental processes, etc.; the act of looking within oneself.", "S": [], "A": []}

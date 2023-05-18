@@ -1,0 +1,1 @@
+{"index": 186839, "D": "the middle or halfway point of a term,  as a school term  or term  of office.", "S": ["assessment ", "examination ", "final ", "quiz ", "review "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 302957, "D": "a person or thing that starts. ", "S": ["opener "], "A": ["adherent ", "follower ", "successor "]}

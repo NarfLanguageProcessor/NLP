@@ -1,0 +1,1 @@
+{"index": 105803, "D": "characterized by a pleasing rhythm; harmoniously ordered or proportioned.", "S": [], "A": []}

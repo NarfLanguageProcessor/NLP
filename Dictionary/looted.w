@@ -1,0 +1,1 @@
+{"index": 175136, "D": "spoils or plunder taken by pillaging, as in war.", "S": ["burglarize ", "grab ", "gut ", "pillage ", "plunder ", "raid ", "ransack ", "rob ", "snatch "], "A": ["give ", "protect ", "receive ", "demote ", "disallow ", "discourage ", "fail ", "halt ", "harm ", "hurt ", "injure ", "keep ", "lose ", "prevent ", "refuse ", "reject ", "stop "]}

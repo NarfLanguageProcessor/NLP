@@ -1,0 +1,1 @@
+{"index": 318312, "D": " the transmission of programming, in the form of still or moving images, via radio waves, cable wires, satellite, or wireless network to a receiver or other screen.", "S": ["VCRs ", "camcorders ", "computers ", "radios ", "stereos ", "transistors "], "A": []}

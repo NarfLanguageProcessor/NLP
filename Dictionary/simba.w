@@ -1,0 +1,1 @@
+{"index": 290730, "D": "an E African word for lion", "S": ["cat ", "cougar ", "wildcat "], "A": []}

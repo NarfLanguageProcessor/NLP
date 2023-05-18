@@ -1,0 +1,1 @@
+{"index": 5254, "D": "an ancient district in western Greece, now part of the province of Aetolia and Acarnania.", "S": [], "A": []}

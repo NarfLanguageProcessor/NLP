@@ -1,0 +1,1 @@
+{"index": 217361, "D": "to find fault with angrily; chide; reprimand", "S": [], "A": []}

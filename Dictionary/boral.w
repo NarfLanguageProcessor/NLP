@@ -1,0 +1,1 @@
+{"index": 38331, "D": "a compound of an aluminum  tartrate and borate,  used chiefly as an astringent and antiseptic.", "S": [], "A": []}

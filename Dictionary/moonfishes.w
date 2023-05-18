@@ -1,0 +1,1 @@
+{"index": 193045, "D": "any of several silvery marine fishes  of the genus Selene, having a very compressed body and inhabiting shallow coastal waters.", "S": [], "A": []}

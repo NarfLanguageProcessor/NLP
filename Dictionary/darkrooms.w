@@ -1,0 +1,1 @@
+{"index": 76976, "D": "a room  in which film or the like is made, handled, or developed and from which the actinic rays of light are excluded.", "S": [], "A": []}

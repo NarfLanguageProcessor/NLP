@@ -1,0 +1,1 @@
+{"index": 71010, "D": "a reverse impression of a newly printed proof of an engraving made by laying it while wet upon plain paper and passing it through the press", "S": [], "A": []}

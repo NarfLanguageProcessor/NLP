@@ -1,0 +1,1 @@
+{"index": 280396, "D": "a learned or erudite person, especially one who has profound knowledge of a particular subject.", "S": [], "A": []}

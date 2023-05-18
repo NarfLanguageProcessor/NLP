@@ -1,0 +1,1 @@
+{"index": 121342, "D": "a spectator, as in a theater gallery  or at a golf match.", "S": [], "A": []}

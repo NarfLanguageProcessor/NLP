@@ -1,0 +1,1 @@
+{"index": 68963, "D": "a thread, cord, or yarn used to outline a lace motif, form fringes, edge decorative braid, etc.", "S": [], "A": []}

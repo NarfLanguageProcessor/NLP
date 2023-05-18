@@ -1,0 +1,1 @@
+{"index": 167309, "D": "in the manner of a laggard. ", "S": ["languidly ", "lazily ", "sluggishly "], "A": ["hectically ", "hurriedly "]}

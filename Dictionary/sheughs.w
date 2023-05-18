@@ -1,0 +1,1 @@
+{"index": 288137, "D": "a furrow, ditch, or trench.", "S": [], "A": []}

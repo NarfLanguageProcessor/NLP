@@ -1,0 +1,1 @@
+{"index": 67487, "D": "lasting or enduring without interruption", "S": ["endless ", "extended ", "regular ", "repeated ", "stable ", "steady ", "unbroken ", "unceasing ", "uninterrupted "], "A": ["broken ", "discontinuous ", "imbalanced ", "intermittent ", "unfixed ", "unstable ", "unsteady ", "wobbly "]}

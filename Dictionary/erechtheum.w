@@ -1,0 +1,1 @@
+{"index": 103516, "D": "a temple at Athens on the Acropolis, begun c420 b.c., having two Ionic porches and a porch of caryatids", "S": [], "A": []}

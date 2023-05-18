@@ -1,0 +1,1 @@
+{"index": 186579, "D": "a highly sensitive switch  used in automatic-control devices.", "S": [], "A": []}

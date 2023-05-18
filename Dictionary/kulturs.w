@@ -1,0 +1,1 @@
+{"index": 166444, "D": "(in Nazi Germany) native culture,  held to be superior to that of other countries and subordinating the individual to national interests.", "S": [], "A": []}

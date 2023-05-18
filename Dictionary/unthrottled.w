@@ -1,0 +1,1 @@
+{"index": 352979, "D": "a lever, pedal, handle, etc., for controlling or manipulating a throttle valve. ", "S": [], "A": []}

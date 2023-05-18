@@ -1,0 +1,1 @@
+{"index": 41933, "D": "a drinking fountain that spouts water.", "S": ["water fountain "], "A": []}

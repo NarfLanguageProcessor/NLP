@@ -1,0 +1,1 @@
+{"index": 58201, "D": "around or near a pole, as of the earth.", "S": [], "A": []}

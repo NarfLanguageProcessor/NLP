@@ -1,0 +1,1 @@
+{"index": 317810, "D": "a river in N England, flowing E along the boundary between Durham and Yorkshire to the North Sea. 70 miles (113 km) long.", "S": [], "A": []}

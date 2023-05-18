@@ -1,0 +1,1 @@
+{"index": 296218, "D": "a decisive blow or remark", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 334361, "D": "to abolish by formal or official means; annul by an authoritative act; repeal", "S": [], "A": []}

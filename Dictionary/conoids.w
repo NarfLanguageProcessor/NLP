@@ -1,0 +1,1 @@
+{"index": 66602, "D": "resembling a cone in shape; cone-shaped.", "S": ["conoid ", "pyramid ", "raceme ", "strobile "], "A": []}

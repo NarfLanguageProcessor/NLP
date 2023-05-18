@@ -1,0 +1,1 @@
+{"index": 77022, "D": "the target used in the game of darts. ", "S": [], "A": []}

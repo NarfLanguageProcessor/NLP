@@ -1,0 +1,1 @@
+{"index": 351802, "D": "(of a village, town, etc) having an unaltered character", "S": ["pristine ", "untouched "], "A": []}

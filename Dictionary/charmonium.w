@@ -1,0 +1,1 @@
+{"index": 52915, "D": "any meson composed of a charmed quark and a charmed antiquark.", "S": [], "A": []}

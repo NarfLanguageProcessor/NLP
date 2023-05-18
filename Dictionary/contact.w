@@ -1,0 +1,1 @@
+{"index": 67231, "D": "the act or state of touching; a touching or meeting, as of two things or people.", "S": ["association ", "connection ", "influence ", "meeting ", "touch ", "unity "], "A": ["division ", "separation ", "antagonism ", "strangeness "]}

@@ -1,0 +1,1 @@
+{"index": 203106, "D": "pertaining to or characterized by energy or effective action; vigorously active or forceful; energetic", "S": [], "A": []}

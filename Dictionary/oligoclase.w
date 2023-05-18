@@ -1,0 +1,1 @@
+{"index": 212182, "D": "a kind of plagioclase feldspar occurring commonly in white crystals, sometimes shaded with gray, green, or red.", "S": [], "A": []}

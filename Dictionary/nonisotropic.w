@@ -1,0 +1,1 @@
+{"index": 204918, "D": "Compare anisotropic (def. 1). ", "S": [], "A": []}

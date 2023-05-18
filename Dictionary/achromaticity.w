@@ -1,0 +1,1 @@
+{"index": 2339, "D": "achromatism. ", "S": [], "A": []}

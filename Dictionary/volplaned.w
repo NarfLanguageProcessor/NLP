@@ -1,0 +1,1 @@
+{"index": 361158, "D": "to glide toward the earth in an airplane, with no motor power or with the power shut off.", "S": [], "A": []}

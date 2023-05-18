@@ -1,0 +1,1 @@
+{"index": 161039, "D": "a jump forward, backward, or to the side, from one foot to the other.", "S": [], "A": []}

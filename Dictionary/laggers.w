@@ -1,0 +1,1 @@
+{"index": 167315, "D": "a laggard. ", "S": ["dawdler ", "dilly-dallier ", "idler ", "lag ", "lingerer ", "loafer ", "loiterer ", "lounger ", "poke ", "procrastinator ", "slowpoke ", "straggler "], "A": []}

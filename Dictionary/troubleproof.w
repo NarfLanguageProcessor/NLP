@@ -1,0 +1,1 @@
+{"index": 331317, "D": "not easily disturbed, disabled, injured, or put out of working order.", "S": [], "A": []}

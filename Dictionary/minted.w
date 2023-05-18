@@ -1,0 +1,1 @@
+{"index": 188029, "D": "wealthy", "S": ["decorated ", "embossed ", "scratched "], "A": []}

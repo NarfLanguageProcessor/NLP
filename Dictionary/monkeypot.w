@@ -1,0 +1,1 @@
+{"index": 192039, "D": "the woody, operculate seed vessel of any of certain large South American trees of the genus Lecythis.", "S": [], "A": []}

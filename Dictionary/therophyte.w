@@ -1,0 +1,1 @@
+{"index": 321573, "D": "a plant living only one year or one growing season.", "S": [], "A": []}

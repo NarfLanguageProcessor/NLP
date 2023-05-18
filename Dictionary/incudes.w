@@ -1,0 +1,1 @@
+{"index": 150538, "D": "a plural of incus. ", "S": [], "A": []}

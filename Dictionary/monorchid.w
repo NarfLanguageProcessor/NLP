@@ -1,0 +1,1 @@
+{"index": 192616, "D": "having or appearing to have only one testis.", "S": [], "A": []}

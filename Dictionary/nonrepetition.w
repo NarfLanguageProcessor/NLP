@@ -1,0 +1,1 @@
+{"index": 206706, "D": "the act of repeating, or doing, saying, or writing something again; repeated action, performance, production, or presentation.", "S": [], "A": []}

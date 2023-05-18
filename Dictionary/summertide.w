@@ -1,0 +1,1 @@
+{"index": 310957, "D": [], "S": ["summertime ", "vacation "], "A": ["winter "]}

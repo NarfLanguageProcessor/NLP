@@ -1,0 +1,1 @@
+{"index": 29436, "D": "the bill of a bird; neb.", "S": ["snout "], "A": []}

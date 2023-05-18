@@ -1,0 +1,1 @@
+{"index": 312585, "D": "of or relating to worldly things or to things that are not regarded as religious, spiritual, or sacred; temporal", "S": [], "A": []}

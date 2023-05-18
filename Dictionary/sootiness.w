@@ -1,0 +1,1 @@
+{"index": 297393, "D": "covered, blackened, or smirched with soot. ", "S": [], "A": []}

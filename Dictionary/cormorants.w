@@ -1,0 +1,1 @@
+{"index": 69211, "D": "any of several voracious, totipalmate seabirds of the family Phalacrocoracidae, as Phalacrocorax carbo, of America, Europe, and Asia, having a long neck and a distensible pouch under the bill for holding captured fish, used in China for catching fish.", "S": ["pig "], "A": []}

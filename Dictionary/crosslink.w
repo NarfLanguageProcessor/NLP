@@ -1,0 +1,1 @@
+{"index": 73846, "D": "a bond, atom, or group linking the chains of atoms in a polymer, protein, or other complex organic molecule.", "S": [], "A": []}

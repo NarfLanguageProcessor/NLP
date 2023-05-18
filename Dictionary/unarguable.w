@@ -1,0 +1,1 @@
+{"index": 335201, "D": "incapable of being argued", "S": ["compelling ", "convincing ", "decisive ", "indisputable ", "irrefutable ", "irrevocable ", "precise ", "unambiguous ", "undeniable ", "unmistakable "], "A": ["ambiguous ", "disputable ", "doubtful ", "dubious ", "indefinite ", "questionable ", "refutable ", "uncertain ", "unsure "]}

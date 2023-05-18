@@ -1,0 +1,1 @@
+{"index": 82434, "D": "to tell or depict in written or spoken words; give an account of", "S": ["purported ", "so-called ", "stated ", "supposed "], "A": ["certain ", "definite ", "sure "]}

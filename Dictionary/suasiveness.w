@@ -1,0 +1,1 @@
+{"index": 307036, "D": "the act of advising, urging, or attempting to persuade; persuasion.", "S": [], "A": []}

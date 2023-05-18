@@ -1,0 +1,1 @@
+{"index": 177752, "D": "an American plant, Podophyllum peltatum, of the barberry family, bearing an edible, yellowish, egg-shaped fruit.", "S": [], "A": []}

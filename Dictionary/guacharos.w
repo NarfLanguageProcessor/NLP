@@ -1,0 +1,1 @@
+{"index": 130645, "D": "a nocturnal, fruit-eating, South American bird, Steatornis caripensis, the young of which yield an oil derived from their fat.", "S": [], "A": []}

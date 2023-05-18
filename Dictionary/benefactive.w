@@ -1,0 +1,1 @@
+{"index": 31540, "D": "of or relating to a linguistic form, case, or semantic role that denotes the person or persons for whom an action is performed, as for his son in He opened the door for his son.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 326731, "D": "apt to learn; promising.", "S": ["apropos ", "apt ", "auspicious ", "convenient ", "favorable ", "fit ", "opportune ", "pertinent ", "propitious ", "prosperous ", "providential ", "relevant ", "seasonal ", "suitable ", "timeous ", "welcome ", "well-timed "], "A": ["inappropriate ", "inclement ", "unfitting ", "unseasonable ", "unsuitable ", "untimely "]}

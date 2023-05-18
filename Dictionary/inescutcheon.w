@@ -1,0 +1,1 @@
+{"index": 151619, "D": "a small shield-shaped charge in the centre of a shield", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 15519, "D": "an assembly of moving parts performing a complete functional motion, often being part of a large machine; linkage.", "S": [], "A": []}

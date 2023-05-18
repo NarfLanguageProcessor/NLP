@@ -1,0 +1,1 @@
+{"index": 246431, "D": "the formation or expression of an opinion or theory without sufficient evidence for proof.", "S": [], "A": []}

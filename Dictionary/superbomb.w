@@ -1,0 +1,1 @@
+{"index": 311449, "D": "a highly destructive bomb,  especially a hydrogen bomb. ", "S": [], "A": []}

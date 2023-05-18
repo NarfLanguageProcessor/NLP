@@ -1,0 +1,1 @@
+{"index": 135598, "D": "a telescope for viewing the sun, adapted to protect the eye of the viewer from the sun's glare.", "S": [], "A": []}

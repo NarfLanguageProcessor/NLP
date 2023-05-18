@@ -1,0 +1,1 @@
+{"index": 136592, "D": "a place where poultry is kept or raised.", "S": [], "A": []}

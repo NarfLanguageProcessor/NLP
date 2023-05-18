@@ -1,0 +1,1 @@
+{"index": 162285, "D": "to spring clear of the ground or other support by a sudden muscular effort; leap", "S": ["bounce ", "dive ", "drop ", "fall ", "hurdle ", "plunge ", "rise ", "upsurge ", "vault "], "A": []}

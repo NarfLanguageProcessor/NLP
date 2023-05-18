@@ -1,0 +1,1 @@
+{"index": 283901, "D": "half of a circle; the arc from one end of a diameter to the other.", "S": ["bow-shaped ", "bowed ", "concave ", "convex ", "crescent-shaped ", "crescentic ", "crescentiform ", "curved ", "falcate "], "A": []}

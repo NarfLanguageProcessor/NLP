@@ -1,0 +1,1 @@
+{"index": 180352, "D": "to take in marriage", "S": ["catch ", "join ", "wed "], "A": ["divide ", "separate ", "break ", "detach ", "disconnect ", "disjoin ", "dissociate ", "divorce ", "fail ", "loosen ", "lose ", "part ", "uncouple ", "unfasten "]}

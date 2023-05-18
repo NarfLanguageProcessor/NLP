@@ -1,0 +1,1 @@
+{"index": 260625, "D": "to search thoroughly or vigorously through (a house, receptacle, etc.)", "S": ["comb ", "gut ", "loot ", "pillage ", "plunder ", "raid ", "rob ", "scour ", "seize ", "take away "], "A": ["give ", "offer ", "protect ", "receive ", "find ", "ignore ", "neglect ", "order ", "organize "]}

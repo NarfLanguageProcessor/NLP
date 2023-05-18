@@ -1,0 +1,1 @@
+{"index": 161714, "D": "jolly  or merry mood, condition, or activity; gaiety.", "S": ["cheer ", "festivity ", "frolic ", "fun ", "gaiety ", "glee ", "hilarity ", "jocundity ", "joviality ", "merriment ", "merrymaking ", "mirth ", "revel ", "revelry ", "whoopee "], "A": ["depression ", "gloom ", "sadness ", "unhappiness "]}

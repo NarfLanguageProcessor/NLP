@@ -1,0 +1,1 @@
+{"index": 181335, "D": "a person displaying eccentric behaviour and mental characteristics that approach the psychotic", "S": [], "A": []}

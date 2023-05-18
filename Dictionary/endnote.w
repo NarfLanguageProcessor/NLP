@@ -1,0 +1,1 @@
+{"index": 99699, "D": "a note,  as of explanation, emendation, or the like, added at the end  of an article, chapter, etc.", "S": [], "A": []}

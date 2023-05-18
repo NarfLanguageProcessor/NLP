@@ -1,0 +1,1 @@
+{"index": 118157, "D": "the act or process of fractionating. ", "S": [], "A": []}

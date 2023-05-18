@@ -1,0 +1,1 @@
+{"index": 115363, "D": "to plump down suddenly or heavily; flop. ", "S": [], "A": []}

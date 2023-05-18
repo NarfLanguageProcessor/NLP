@@ -1,0 +1,1 @@
+{"index": 47020, "D": "of or relating to Cappadocia (an ancient region of E Asia Minor) or its inhabitants", "S": [], "A": []}

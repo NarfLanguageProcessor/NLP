@@ -1,0 +1,1 @@
+{"index": 328045, "D": "the act, process, or result of writing letters or words using the corresponding characters of another alphabet or writing system", "S": ["adaptation ", "explanation ", "reading ", "rendering ", "rendition ", "transcription ", "version "], "A": []}

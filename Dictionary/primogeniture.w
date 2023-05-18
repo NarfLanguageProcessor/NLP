@@ -1,0 +1,1 @@
+{"index": 250569, "D": "the state or fact of being the firstborn of children of the same parents.", "S": ["bequest ", "claim ", "due ", "inheritance ", "legacy ", "patrimony ", "right ", "share "], "A": []}

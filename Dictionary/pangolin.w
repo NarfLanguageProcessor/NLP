@@ -1,0 +1,1 @@
+{"index": 224620, "D": "any mammal of the order Pholidota, of Africa and tropical Asia, having a covering of broad, overlapping, horny scales and feeding on ants and termites.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 305471, "D": "protected from or not affected by storms. ", "S": [], "A": []}

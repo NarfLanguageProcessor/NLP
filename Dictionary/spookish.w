@@ -1,0 +1,1 @@
+{"index": 300852, "D": "a ghost; specter. ", "S": ["frightening ", "ghastly ", "ghoulish ", "grim ", "grisly ", "gruesome ", "lurid ", "morbid ", "spooky ", "weird "], "A": ["cheerful ", "happy ", "pleasant ", "pleasing ", "pretty "]}

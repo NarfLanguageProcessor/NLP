@@ -1,0 +1,1 @@
+{"index": 214864, "D": "an institution for the housing and care of orphans. ", "S": ["apartment ", "cabin ", "condo ", "condominium ", "cottage ", "dormitory ", "dwelling ", "farm ", "hospital ", "house ", "hut ", "mansion ", "palace ", "place ", "residence ", "resort ", "shelter ", "trailer "], "A": ["office "]}

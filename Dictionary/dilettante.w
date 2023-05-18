@@ -1,0 +1,1 @@
+{"index": 85729, "D": "a person who takes up an art, activity, or subject merely for amusement, especially in a desultory or superficial way; dabbler.", "S": ["green ", "rookie ", "tenderfoot "], "A": ["professional "]}

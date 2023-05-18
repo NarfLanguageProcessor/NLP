@@ -1,0 +1,1 @@
+{"index": 132343, "D": "a pellet of hail.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 221677, "D": "to put into a neat or orderly condition by clipping, paring, pruning, etc.", "S": [], "A": []}

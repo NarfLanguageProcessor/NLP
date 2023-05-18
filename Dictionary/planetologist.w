@@ -1,0 +1,1 @@
+{"index": 238948, "D": "the branch of astronomy that deals with the physical features of the planets. ", "S": [], "A": []}

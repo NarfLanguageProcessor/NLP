@@ -1,0 +1,1 @@
+{"index": 162521, "D": "capable of being settled by law or by the action of a court", "S": [], "A": []}

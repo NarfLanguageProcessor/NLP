@@ -1,0 +1,1 @@
+{"index": 364286, "D": "a cardinal point of the compass, 90\u00b0 to the left when facing north, corresponding to the point where the sun is seen to set. Abbreviation", "S": [], "A": []}

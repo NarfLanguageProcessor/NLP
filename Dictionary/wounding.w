@@ -1,0 +1,1 @@
+{"index": 367757, "D": "an injury, usually involving division of tissue or rupture of the integument or mucous membrane, due to external violence or some mechanical agency rather than disease.", "S": ["biting ", "pointed ", "stinging "], "A": ["mild ", "nice "]}

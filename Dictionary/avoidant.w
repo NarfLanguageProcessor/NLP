@@ -1,0 +1,1 @@
+{"index": 24853, "D": "(of behaviour) demonstrating a tendency to avoid intimacy or interaction with others", "S": [], "A": []}

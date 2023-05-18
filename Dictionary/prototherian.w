@@ -1,0 +1,1 @@
+{"index": 253868, "D": "belonging or pertaining to the group Prototheria, comprising the monotremes.", "S": [], "A": []}

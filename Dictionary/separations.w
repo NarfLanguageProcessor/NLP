@@ -1,0 +1,1 @@
+{"index": 285558, "D": "an act or instance of separating or the state of being separated.", "S": ["departure ", "disengagement ", "dissolution ", "divorce ", "estrangement ", "partition ", "segregation ", "split "], "A": ["connection ", "juncture ", "marriage ", "union ", "agreement ", "association ", "attachment ", "closing ", "closure ", "combination ", "greeting ", "hello "]}

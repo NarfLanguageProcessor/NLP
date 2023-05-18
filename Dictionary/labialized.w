@@ -1,0 +1,1 @@
+{"index": 166643, "D": "pronounced with secondary labial articulation.", "S": [], "A": []}

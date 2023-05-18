@@ -1,0 +1,1 @@
+{"index": 17418, "D": "a person who forsakes his religion, cause, party, etc.", "S": [], "A": []}

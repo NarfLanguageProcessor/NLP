@@ -1,0 +1,1 @@
+{"index": 260074, "D": "any of several birds,  especially the black-billed cuckoo (Coccyzus erythropthalmus) and the yellow-billed cuckoo (C. americanus), that are said to call frequently before a rainstorm.", "S": [], "A": []}

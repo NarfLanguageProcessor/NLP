@@ -1,0 +1,1 @@
+{"index": 2567, "D": "an act of acknowledging. ", "S": ["acceptance ", "admission ", "affirmation ", "assent ", "assertion ", "concession ", "confession ", "confirmation ", "corroboration ", "realization ", "recognition "], "A": ["denial ", "disagreement ", "dissent ", "refusal ", "rejection ", "repudiation ", "veto "]}

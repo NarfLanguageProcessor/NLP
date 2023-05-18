@@ -1,0 +1,1 @@
+{"index": 337356, "D": "a feeling of deep sympathy and sorrow for another who is stricken by misfortune, accompanied by a strong desire to alleviate the suffering.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 121313, "D": "a pear-shaped, muscular sac attached to the undersurface of the right lobe of the liver, in which bile is stored and concentrated.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310180, "D": "to fumigate from below; apply fumes or smoke to.", "S": [], "A": []}

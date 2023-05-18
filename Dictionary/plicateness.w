@@ -1,0 +1,1 @@
+{"index": 240075, "D": "folded like a fan; pleated.", "S": [], "A": []}

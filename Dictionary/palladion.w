@@ -1,0 +1,1 @@
+{"index": 223934, "D": "a rare metallic element of the platinum group, silver-white, ductile and malleable, harder and fusing more readily than platinum", "S": [], "A": []}

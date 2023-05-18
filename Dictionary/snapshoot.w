@@ -1,0 +1,1 @@
+{"index": 295319, "D": "to take a snapshot of (a subject).", "S": [], "A": []}

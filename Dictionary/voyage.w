@@ -1,0 +1,1 @@
+{"index": 360967, "D": "a course of travel or passage, especially a long journey by water to a distant place.", "S": ["boating ", "crossing ", "cruise ", "excursion ", "hop ", "jaunt ", "junket ", "passage ", "sail ", "swing ", "tour ", "travel ", "travels ", "trek ", "trip ", "weekend "], "A": []}

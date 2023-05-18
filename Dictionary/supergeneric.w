@@ -1,0 +1,1 @@
+{"index": 311922, "D": "of, applicable to, or referring to all the members of a genus,  class, group, or kind; not specific; general. ", "S": [], "A": []}

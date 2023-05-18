@@ -1,0 +1,1 @@
+{"index": 23058, "D": "to bear witness  to; certify; declare to be correct, true, or genuine; declare the truth of, in words or writing, especially to affirm in an official capacity", "S": ["conclusive ", "irrefutable ", "obvious ", "undeniable ", "unmistakable ", "verifiable "], "A": ["indefinite ", "uncertain "]}

@@ -1,0 +1,1 @@
+{"index": 235229, "D": "a photograph showing a subject at actual size or somewhat larger.", "S": [], "A": []}

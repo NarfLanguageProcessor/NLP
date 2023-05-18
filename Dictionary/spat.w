@@ -1,0 +1,1 @@
+{"index": 298571, "D": "a petty quarrel.", "S": ["altercation ", "bickering ", "brouhaha ", "difference of opinion ", "disagreement ", "discord ", "falling-out ", "feud ", "flare-up ", "fracas ", "friction ", "misunderstanding ", "run-in ", "squabble ", "strife ", "tiff "], "A": ["agreement ", "concord ", "concurrence ", "harmony ", "peace ", "calm "]}

@@ -1,0 +1,1 @@
+{"index": 201163, "D": "the act or process of moving forward", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 202742, "D": "characterized by dignified propriety in conduct, manners, appearance, character, etc.", "S": [], "A": []}

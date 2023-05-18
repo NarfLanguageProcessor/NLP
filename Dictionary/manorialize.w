@@ -1,0 +1,1 @@
+{"index": 179479, "D": "to bring under manorialism.", "S": [], "A": []}

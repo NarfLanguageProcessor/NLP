@@ -1,0 +1,1 @@
+{"index": 165497, "D": "a person or thing that kneels. ", "S": [], "A": []}

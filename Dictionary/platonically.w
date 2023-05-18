@@ -1,0 +1,1 @@
+{"index": 239538, "D": "in a way that relates to or is influenced by the doctrines of Plato, especially his elevation of the spiritual or ideal over the physical and particular", "S": [], "A": []}

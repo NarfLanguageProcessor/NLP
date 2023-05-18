@@ -1,0 +1,1 @@
+{"index": 108016, "D": "the act of expressing or setting forth in words", "S": ["deadpan ", "impassive ", "inscrutable ", "vacant "], "A": ["animated ", "demonstrative ", "expressive "]}

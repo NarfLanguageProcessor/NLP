@@ -1,0 +1,1 @@
+{"index": 25802, "D": "a stroke, slap, etc., made with the palm of the hand  turned toward the body and the back  of the hand turned in the direction of the stroke, slap, etc.", "S": [], "A": []}

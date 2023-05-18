@@ -1,0 +1,1 @@
+{"index": 225308, "D": "a red, powdery condiment derived from dried, ripe sweet peppers.", "S": [], "A": []}

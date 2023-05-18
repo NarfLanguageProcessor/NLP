@@ -1,0 +1,1 @@
+{"index": 274825, "D": "a musical embellishment consisting of a rapid succession of tones sung to a single syllable.", "S": ["division ", "scale "], "A": []}

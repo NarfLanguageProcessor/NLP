@@ -1,0 +1,1 @@
+{"index": 46262, "D": "the cinnamonlike bark of a West Indian tree, Canella winterana, used as a condiment and in medicine.", "S": [], "A": []}

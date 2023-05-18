@@ -1,0 +1,1 @@
+{"index": 258758, "D": "a colorless, liquid, water-immiscible, nitrogenous base, C9H7N, having a disagreeable odor, occurring in coal tar, and usually prepared by oxidizing a mixture of glycerol and aniline", "S": [], "A": []}

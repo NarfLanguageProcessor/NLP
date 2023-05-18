@@ -1,0 +1,1 @@
+{"index": 208165, "D": "the state or quality of being valid", "S": [], "A": []}

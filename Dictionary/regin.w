@@ -1,0 +1,1 @@
+{"index": 265646, "D": "a smith, the brother of Fafnir, who raises Sigurd and encourages him to kill Fafnir in the hope of gaining the gold he guards.", "S": [], "A": []}

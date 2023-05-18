@@ -1,0 +1,1 @@
+{"index": 7324, "D": "the light blow on the cheek delivered by the bishop in a confirmation service.", "S": [], "A": []}

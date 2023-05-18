@@ -1,0 +1,1 @@
+{"index": 99179, "D": "pregnant; with child.", "S": [], "A": []}

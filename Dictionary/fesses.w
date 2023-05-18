@@ -1,0 +1,1 @@
+{"index": 111663, "D": "an ordinary in the form of a broad horizontal band across the middle of an escutcheon.", "S": [], "A": []}

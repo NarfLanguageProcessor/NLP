@@ -1,0 +1,1 @@
+{"index": 253396, "D": "an institution for the care of destitute or delinquent children.", "S": [], "A": []}

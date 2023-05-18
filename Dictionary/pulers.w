@@ -1,0 +1,1 @@
+{"index": 256213, "D": "to cry in a thin voice; whine; whimper.", "S": [], "A": []}

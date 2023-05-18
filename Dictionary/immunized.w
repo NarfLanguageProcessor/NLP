@@ -1,0 +1,1 @@
+{"index": 148133, "D": "to make immune. ", "S": ["inoculate ", "protect ", "vaccinate "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 258094, "D": "a unit of liquid measure of capacity, equal to one fourth of a gallon, or 57.749 cubic inches (0.946 liter) in the U.S. and 69.355 cubic inches (1.136 liters) in Great Britain.", "S": ["British imperial liquid measure ", "US liquid measure ", "cup ", "gallon ", "gill ", "liquid unit ", "pint "], "A": []}

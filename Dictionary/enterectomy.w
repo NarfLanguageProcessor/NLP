@@ -1,0 +1,1 @@
+{"index": 101225, "D": "excision of part of the intestine.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 186358, "D": "the branch of physics dealing with physical objects that are not large enough to be observed and treated directly, as elementary particles, atoms, and molecules.", "S": [], "A": []}

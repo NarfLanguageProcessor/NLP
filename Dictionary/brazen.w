@@ -1,0 +1,1 @@
+{"index": 40150, "D": "shameless or impudent", "S": ["audacious ", "blatant ", "bold ", "impudent ", "shameless ", "unabashed "], "A": ["humble ", "meek ", "modest ", "quiet ", "retiring ", "shy ", "timid "]}

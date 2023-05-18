@@ -1,0 +1,1 @@
+{"index": 60771, "D": "the tibia or shin.", "S": ["tibia "], "A": []}

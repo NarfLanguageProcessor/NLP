@@ -1,0 +1,1 @@
+{"index": 5594, "D": "(no longer in technical use) a genus of hominins of eastern Africa, assumed from a number of now lost skull fragments to have been a form of archaic Homo. ", "S": [], "A": []}

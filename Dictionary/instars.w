@@ -1,0 +1,1 @@
+{"index": 153867, "D": "an insect in any one of its periods of postembryonic growth between molts.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 296408, "D": "a bushy Old World plant, Glycine max, of the legume family,  cultivated globally, with greatest productivity in the United States, where it is grown chiefly for forage and soil improvement.", "S": [], "A": []}

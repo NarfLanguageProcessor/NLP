@@ -1,0 +1,1 @@
+{"index": 36739, "D": "a wrasse, Thalassoma bifasciatum, of Atlantic seas, the adult male of which has a brilliant purplish-blue head.", "S": [], "A": []}

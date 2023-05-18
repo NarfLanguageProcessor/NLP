@@ -1,0 +1,1 @@
+{"index": 267909, "D": "to orient  again or anew.", "S": ["fix ", "fix up ", "modernize ", "overhaul ", "reassemble ", "rebuild ", "recreate ", "reestablish ", "regenerate ", "rehabilitate ", "rejuvenate ", "remake ", "remodel ", "renovate ", "repair ", "reproduce ", "restore ", "revamp ", "rework "], "A": ["break ", "corrupt ", "damage ", "destroy ", "hurt ", "kill ", "ruin "]}

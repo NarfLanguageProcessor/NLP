@@ -1,0 +1,1 @@
+{"index": 367991, "D": "bitterly or disdainfully ironic or amusing", "S": ["deformation ", "deformity "], "A": ["grin ", "smile "]}

@@ -1,0 +1,1 @@
+{"index": 299004, "D": "rapidity in moving, going, traveling, proceeding, or performing; swiftness; celerity", "S": ["acceleration ", "agility ", "momentum ", "pace ", "quickness ", "velocity "], "A": ["apathy ", "delay ", "hindrance ", "rest ", "slowing ", "slowness ", "sluggishness ", "stoppage "]}

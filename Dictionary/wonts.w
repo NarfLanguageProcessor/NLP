@@ -1,0 +1,1 @@
+{"index": 367089, "D": "accustomed; used (usually followed by an infinitive)", "S": ["fashion ", "form ", "habit ", "line ", "mode ", "practice ", "procedure ", "process ", "style ", "system ", "technique ", "tone ", "way "], "A": ["disorganization "]}

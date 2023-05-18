@@ -1,0 +1,1 @@
+{"index": 305277, "D": "to bombard (soldiers, buildings, etc) with artillery", "S": [], "A": []}

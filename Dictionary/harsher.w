@@ -1,0 +1,1 @@
+{"index": 133991, "D": "ungentle and unpleasant in action or effect", "S": ["bitter ", "bleak ", "grim ", "hard ", "rigid ", "severe ", "sharp ", "strident "], "A": ["bland ", "bright ", "calm ", "cheerful ", "easy ", "facile ", "flexible ", "kind ", "low ", "mild ", "moderate ", "nice ", "pleasant ", "pliable ", "pliant ", "soft ", "sunny ", "yielding "]}

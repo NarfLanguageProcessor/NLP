@@ -1,0 +1,1 @@
+{"index": 283469, "D": "any compound in which bivalent selenium is combined with a positive element, as potassium selenide, K2Se, or with a group.", "S": [], "A": []}

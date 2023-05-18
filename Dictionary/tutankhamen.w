@@ -1,0 +1,1 @@
+{"index": 333051, "D": "a king of Egypt of the 18th dynasty.", "S": [], "A": []}

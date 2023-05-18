@@ -1,0 +1,1 @@
+{"index": 16981, "D": "for each piece, thing, or person; for each one; each", "S": ["aside ", "individually ", "respectively ", "separately "], "A": ["together "]}

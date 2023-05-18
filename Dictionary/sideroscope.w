@@ -1,0 +1,1 @@
+{"index": 289807, "D": "an apparatus for detecting splinters of iron or steel in the eye.", "S": [], "A": []}

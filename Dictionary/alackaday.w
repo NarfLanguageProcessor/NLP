@@ -1,0 +1,1 @@
+{"index": 7245, "D": "(used as an exclamation of sorrow, regret, or dismay.)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 341774, "D": "driven or forced out or away; discharged", "S": [], "A": []}

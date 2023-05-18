@@ -1,0 +1,1 @@
+{"index": 104145, "D": "a person who avoids reality by becoming absorbed in entertainment or fantasy", "S": ["idealist ", "romanticist "], "A": []}

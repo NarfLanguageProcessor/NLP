@@ -1,0 +1,1 @@
+{"index": 182823, "D": "the discharge of black, tarry, bloody stools, usually resulting from a hemorrhage in the alimentary tract.", "S": [], "A": []}

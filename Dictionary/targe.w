@@ -1,0 +1,1 @@
+{"index": 316566, "D": "a small, round shield; a target or buckler.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 287085, "D": "noting or pertaining to an ornamented type in which the embellishment is outside the character, especially one in which a black line at one side and at the top or bottom gives the effect of a cast shadow. ", "S": ["dusky ", "leafy ", "screened ", "sheltered "], "A": []}

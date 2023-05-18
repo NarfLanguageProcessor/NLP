@@ -1,0 +1,1 @@
+{"index": 151863, "D": "to affect or contaminate (a person, organ, wound, etc.) with disease-producing germs.", "S": [], "A": []}

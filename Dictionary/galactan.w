@@ -1,0 +1,1 @@
+{"index": 121085, "D": "any of the class of hexosans, as agar, that yield galactose upon hydrolysis.", "S": [], "A": []}

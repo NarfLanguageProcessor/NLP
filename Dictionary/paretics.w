@@ -1,0 +1,1 @@
+{"index": 226424, "D": "partial motor paralysis.", "S": [], "A": []}

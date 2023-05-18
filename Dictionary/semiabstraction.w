@@ -1,0 +1,1 @@
+{"index": 283700, "D": "pertaining to or designating a style of painting or sculpture in which the subject remains recognizable although the forms are highly stylized in a manner derived from abstract art.", "S": [], "A": []}

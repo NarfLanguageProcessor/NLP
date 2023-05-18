@@ -1,0 +1,1 @@
+{"index": 302467, "D": [], "S": ["advocate ", "ally ", "benefactor ", "endorser ", "follower ", "patron ", "promoter ", "sponsor "], "A": ["antagonist ", "enemy ", "opponent ", "opposition "]}

@@ -1,0 +1,1 @@
+{"index": 176080, "D": "a lighting unit consisting of one or more electric lamps with all of the necessary parts and wiring.", "S": [], "A": []}

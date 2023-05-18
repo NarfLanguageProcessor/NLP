@@ -1,0 +1,1 @@
+{"index": 299938, "D": [], "S": ["by-product ", "derivative ", "offshoot ", "outgrowth ", "spin-off "], "A": []}

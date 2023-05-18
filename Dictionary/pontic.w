@@ -1,0 +1,1 @@
+{"index": 243061, "D": "an artificial tooth in a bridge.", "S": [], "A": []}

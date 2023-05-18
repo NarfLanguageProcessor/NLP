@@ -1,0 +1,1 @@
+{"index": 229758, "D": "pitching. ", "S": ["box ", "cage ", "case ", "confine ", "coop ", "corral ", "hedge ", "mew "], "A": ["free ", "let go ", "release ", "set free "]}

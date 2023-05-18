@@ -1,0 +1,1 @@
+{"index": 259727, "D": "an instrument for measuring small amounts of radiant energy, consisting of a sensitive thermocouple connected to a galvanometer.", "S": [], "A": []}

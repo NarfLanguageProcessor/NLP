@@ -1,0 +1,1 @@
+{"index": 259315, "D": "a contest of speed, as in running, riding, driving, or sailing.", "S": ["bolt ", "chase ", "compete ", "contest ", "dart ", "dash ", "fly ", "gallop ", "hurry ", "hustle ", "rush ", "scamper ", "scramble ", "shoot ", "sprint ", "tear "], "A": ["dally ", "dawdle ", "delay ", "procrastinate ", "slow ", "stay ", "wait ", "walk "]}

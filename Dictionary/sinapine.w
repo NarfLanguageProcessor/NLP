@@ -1,0 +1,1 @@
+{"index": 291270, "D": "an alkaloid extracted from various oilseeds, especially the seeds of brown mustard, rapeseed,  and other cruciferous plants.", "S": [], "A": []}

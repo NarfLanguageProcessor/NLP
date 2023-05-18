@@ -1,0 +1,1 @@
+{"index": 331269, "D": "straight movement by an organism toward or away from a source of stimulation as a result of comparing information received by paired sensory receptors on both sides of the body.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 106934, "D": "an executive, especially in business.", "S": ["administrator ", "boss ", "chief ", "director ", "leader ", "manager ", "officer ", "official ", "overseer ", "supervisor "], "A": ["employee ", "worker "]}

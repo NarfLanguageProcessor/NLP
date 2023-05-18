@@ -1,0 +1,1 @@
+{"index": 92829, "D": "a tube  sliding within another tube,  as the tube  carrying the eyepiece in a microscope.", "S": [], "A": []}

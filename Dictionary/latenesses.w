@@ -1,0 +1,1 @@
+{"index": 168831, "D": "occurring, coming, or being after the usual or proper time", "S": ["backwardness ", "delay ", "prolongation ", "protraction ", "retardation ", "slowness ", "tardiness "], "A": ["anticipation ", "earliness ", "promptness "]}

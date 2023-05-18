@@ -1,0 +1,1 @@
+{"index": 349036, "D": "the redemption of a prisoner or kidnapped person, of captured goods, etc., for a price.", "S": [], "A": []}

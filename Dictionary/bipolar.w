@@ -1,0 +1,1 @@
+{"index": 34689, "D": "having two poles, as the earth.", "S": ["oscillating ", "undulating ", "vacillating "], "A": ["constant ", "steady ", "fixed ", "reliable "]}

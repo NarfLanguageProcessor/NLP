@@ -1,0 +1,1 @@
+{"index": 40314, "D": "a horizontal beam supporting an exterior wall over an opening, as a shop window.", "S": [], "A": []}

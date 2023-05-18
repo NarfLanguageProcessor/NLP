@@ -1,0 +1,1 @@
+{"index": 151420, "D": "the large-scale introduction of manufacturing, advanced technical enterprises, and other productive economic activity into an area, society, country, etc.", "S": ["computerization ", "mechanization "], "A": []}

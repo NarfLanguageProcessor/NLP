@@ -1,0 +1,1 @@
+{"index": 95081, "D": "a card game for two players.", "S": [], "A": []}

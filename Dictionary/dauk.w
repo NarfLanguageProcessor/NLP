@@ -1,0 +1,1 @@
+{"index": 77256, "D": "transportation by relays of people or horses, especially in the East Indies.", "S": [], "A": []}

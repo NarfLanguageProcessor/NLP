@@ -1,0 +1,1 @@
+{"index": 104190, "D": "the reverting of property to the state or some agency of the state, or, as in England, to the lord of the fee or to the crown, when there is a failure of persons legally qualified to inherit or to claim.", "S": [], "A": []}

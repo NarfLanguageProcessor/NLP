@@ -1,0 +1,1 @@
+{"index": 76264, "D": "an unlighted navigational beacon  used as a daymark.", "S": [], "A": []}

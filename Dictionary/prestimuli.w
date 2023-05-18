@@ -1,0 +1,1 @@
+{"index": 249667, "D": "something that incites to action or exertion or quickens action, feeling, thought, etc.", "S": [], "A": []}

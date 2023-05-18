@@ -1,0 +1,1 @@
+{"index": 245812, "D": "the state of being or becoming bankrupt. ", "S": [], "A": []}

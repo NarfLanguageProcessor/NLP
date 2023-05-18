@@ -1,0 +1,1 @@
+{"index": 10280, "D": "bearing aments  or catkins.", "S": [], "A": []}

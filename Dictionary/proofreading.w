@@ -1,0 +1,1 @@
+{"index": 252485, "D": "to read (printers' proofs, copy, etc.) in order to detect and mark errors to be corrected.", "S": ["analyze ", "blue-pencil ", "check ", "correct ", "cut ", "delete ", "edit ", "rearrange ", "refine ", "rephrase ", "revise "], "A": ["indulge "]}

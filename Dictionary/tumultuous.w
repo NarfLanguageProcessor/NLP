@@ -1,0 +1,1 @@
+{"index": 332356, "D": "full of tumult  or riotousness; marked by disturbance and uproar", "S": ["boisterous ", "fierce ", "hectic ", "raucous ", "riotous ", "stormy ", "turbulent ", "violent "], "A": ["calm ", "gentle ", "mild ", "moderate ", "peaceful ", "quiet "]}

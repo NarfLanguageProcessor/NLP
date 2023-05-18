@@ -1,0 +1,1 @@
+{"index": 359290, "D": "a musical percussion instrument that resembles a marimba and is played with mallets, but that has metal instead of wooden bars and has a set of electrically powered resonators for sustaining the tone or creating a vibrato.", "S": ["carillon ", "marimba "], "A": []}

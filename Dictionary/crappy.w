@@ -1,0 +1,1 @@
+{"index": 72177, "D": "extremely bad, unpleasant, or inferior; lousy", "S": ["cheap ", "inferior ", "junky ", "lousy ", "shoddy ", "sub-par ", "trashy ", "useless ", "worthless "], "A": []}

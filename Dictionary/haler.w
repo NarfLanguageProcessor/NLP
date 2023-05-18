@@ -1,0 +1,1 @@
+{"index": 132576, "D": "heller2 (def. 1). ", "S": ["blooming ", "fit ", "flourishing ", "husky ", "right ", "sound ", "stout ", "strapping ", "trim ", "well "], "A": ["inappropriate ", "skinny ", "small ", "thin ", "unfit ", "unhealthy ", "unsuitable ", "unsuited ", "weak "]}

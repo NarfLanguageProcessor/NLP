@@ -1,0 +1,1 @@
+{"index": 242253, "D": "polyphonic composition; counterpoint.", "S": ["arrangement ", "chord ", "composition ", "melody ", "tune ", "unity "], "A": ["disagreement ", "discord ", "disharmony "]}

@@ -1,0 +1,1 @@
+{"index": 139679, "D": "the most widely spoken of the modern Indic vernaculars, especially its best-known variety, Western Hindi.", "S": [], "A": []}

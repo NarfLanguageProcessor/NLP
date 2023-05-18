@@ -1,0 +1,1 @@
+{"index": 282399, "D": "the line where land and sea meet.", "S": ["beach ", "cay ", "cliff ", "coast ", "edge ", "embankment ", "lakefront ", "lakeshore ", "lakeside ", "ledge ", "levee ", "oceanfront ", "reef ", "riverside ", "seafront ", "shore ", "strand ", "waterfront "], "A": []}

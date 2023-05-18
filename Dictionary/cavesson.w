@@ -1,0 +1,1 @@
+{"index": 50204, "D": "the noseband of a bridle or a halter.", "S": [], "A": []}

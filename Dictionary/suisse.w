@@ -1,0 +1,1 @@
+{"index": 310312, "D": "French name of Switzerland. ", "S": [], "A": []}

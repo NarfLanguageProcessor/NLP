@@ -1,0 +1,1 @@
+{"index": 91975, "D": "a close-fitting outer garment, with or without sleeves and sometimes having a short skirt, worn by men in the Renaissance.", "S": ["set ", "team "], "A": ["individual "]}

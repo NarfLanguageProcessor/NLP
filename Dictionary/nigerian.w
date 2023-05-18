@@ -1,0 +1,1 @@
+{"index": 199853, "D": "of or relating to Nigeria or its inhabitants", "S": [], "A": []}

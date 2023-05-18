@@ -1,0 +1,1 @@
+{"index": 244384, "D": "of, in, on, or pertaining to the chest or breast; thoracic.", "S": [], "A": []}

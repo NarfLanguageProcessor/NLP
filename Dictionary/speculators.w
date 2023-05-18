@@ -1,0 +1,1 @@
+{"index": 298975, "D": "a person who is engaged in commercial or financial speculation. ", "S": ["explorer ", "gambler ", "philosopher ", "venturer "], "A": []}

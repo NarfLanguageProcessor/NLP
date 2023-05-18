@@ -1,0 +1,1 @@
+{"index": 181923, "D": "Northeast Scot dialect a variant of maik", "S": [], "A": []}

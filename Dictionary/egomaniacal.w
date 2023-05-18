@@ -1,0 +1,1 @@
+{"index": 96262, "D": "displaying egomania;  abnormally or extremely selfish and self-centered, with an excessively high opinion of oneself", "S": ["conceited ", "egocentric ", "egoistic ", "egoistical ", "egotistical ", "narcissistic ", "self-absorbed ", "self-centered ", "self-involved ", "self-serving ", "selfish ", "vain ", "vainglorious "], "A": []}

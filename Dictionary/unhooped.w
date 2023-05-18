@@ -1,0 +1,1 @@
+{"index": 343849, "D": "a circular band or ring of metal, wood, or other stiff material.", "S": [], "A": []}

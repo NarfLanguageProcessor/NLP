@@ -1,0 +1,1 @@
+{"index": 71767, "D": "the key component of a computer system, which contains the circuitry necessary to interpret and execute program instructions.", "S": ["CPU ", "central processor ", "mainframe ", "processor "], "A": []}

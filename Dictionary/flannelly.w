@@ -1,0 +1,1 @@
+{"index": 113959, "D": "made of or resembling flannel. ", "S": [], "A": []}

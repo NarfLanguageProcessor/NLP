@@ -1,0 +1,1 @@
+{"index": 344746, "D": "at occasional or uneven intervals", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 98155, "D": "the surgical removal of an embolus that is blocking a blood vessel", "S": [], "A": []}

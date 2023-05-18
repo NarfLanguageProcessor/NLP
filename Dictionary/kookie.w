@@ -1,0 +1,1 @@
+{"index": 166020, "D": "of, like, or pertaining to a kook;  eccentric, strange, or foolish.", "S": [], "A": []}

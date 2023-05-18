@@ -1,0 +1,1 @@
+{"index": 311610, "D": "a dairy cow that produces a very high milk yield as a result of selective breeding or genetic modification", "S": [], "A": []}

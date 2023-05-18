@@ -1,0 +1,1 @@
+{"index": 3296, "D": "to make actual  or real; turn into action or fact.", "S": ["realized ", "satisfied "], "A": ["disappointed ", "incomplete ", "unfinished ", "unfulfilled ", "unsatisfied "]}

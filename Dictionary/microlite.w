@@ -1,0 +1,1 @@
+{"index": 186226, "D": "any microscopic crystal.", "S": [], "A": []}

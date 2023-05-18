@@ -1,0 +1,1 @@
+{"index": 148743, "D": "not plausible;  not having the appearance of truth or credibility", "S": ["dubious ", "farfetched ", "flimsy ", "impossible ", "improbable ", "inconceivable ", "incredible ", "unbelievable ", "unconvincing ", "unreasonable "], "A": ["believable ", "convincing ", "credible ", "likely ", "plausible ", "possible ", "realistic ", "reasonable ", "tenable "]}

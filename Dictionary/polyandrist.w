@@ -1,0 +1,1 @@
+{"index": 241616, "D": "a woman who practices or favors polyandry. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133436, "D": "(among Polynesian Hawaiians) a term used to refer to a non-Polynesian, especially a white person.", "S": [], "A": []}

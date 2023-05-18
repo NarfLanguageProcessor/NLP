@@ -1,0 +1,1 @@
+{"index": 107061, "D": "exercise  or exertion, as of the faculties or powers of the body or mind", "S": [], "A": []}

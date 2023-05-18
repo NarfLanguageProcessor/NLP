@@ -1,0 +1,1 @@
+{"index": 5223, "D": "a large, plump, pillow-shaped fruiting body of certain myxomycetes, formed by the aggregation of plasmodia into a single functional mass.", "S": [], "A": []}

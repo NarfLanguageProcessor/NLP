@@ -1,0 +1,1 @@
+{"index": 241297, "D": "a yarn or thread made from silk, used for ribbon, velvet, and as the core of gold, silver, and tinsel yarn.", "S": [], "A": []}

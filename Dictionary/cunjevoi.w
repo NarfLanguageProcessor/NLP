@@ -1,0 +1,1 @@
+{"index": 75028, "D": "an aroid plant, Alocasia macrorrhiza, of tropical Asia and Australia, cultivated for its edible rhizome", "S": [], "A": []}

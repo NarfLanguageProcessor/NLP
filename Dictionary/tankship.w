@@ -1,0 +1,1 @@
+{"index": 316153, "D": "a ship for carrying bulk cargoes of liquids; tanker.", "S": [], "A": []}

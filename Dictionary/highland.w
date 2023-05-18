@@ -1,0 +1,1 @@
+{"index": 139271, "D": "an elevated region; plateau", "S": ["alpine ", "big ", "colossal ", "gigantic ", "huge ", "mammoth ", "tall ", "towering "], "A": []}

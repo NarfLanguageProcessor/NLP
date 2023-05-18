@@ -1,0 +1,1 @@
+{"index": 161383, "D": "nervousness; a feeling of fright or uneasiness", "S": ["convulse ", "cower ", "fluctuate ", "jar ", "jitter ", "move ", "pulsate ", "quail ", "quiver ", "rock ", "shiver ", "shrink ", "shudder ", "throb ", "totter ", "tremble ", "tremor ", "twitter ", "waver ", "wobble "], "A": ["face ", "fix ", "hold ", "meet ", "remain ", "stay ", "steady "]}

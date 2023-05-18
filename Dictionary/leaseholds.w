@@ -1,0 +1,1 @@
+{"index": 169682, "D": "property acquired under a lease. ", "S": [], "A": []}

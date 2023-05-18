@@ -1,0 +1,1 @@
+{"index": 306403, "D": "to exert oneself vigorously; try hard", "S": ["applicant ", "candidate ", "contestant "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 52732, "D": "to mark or distinguish as a characteristic;  be a characteristic of", "S": [], "A": []}

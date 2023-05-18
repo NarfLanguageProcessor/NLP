@@ -1,0 +1,1 @@
+{"index": 87367, "D": "the act of disclaiming;  renunciation; disavowal.", "S": ["disavowal ", "renunciation "], "A": ["acknowledgment ", "confirmation ", "ratification "]}

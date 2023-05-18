@@ -1,0 +1,1 @@
+{"index": 317425, "D": "capable of being instructed, as a person; docile.", "S": [], "A": []}

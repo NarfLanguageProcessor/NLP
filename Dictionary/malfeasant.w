@@ -1,0 +1,1 @@
+{"index": 178422, "D": "a person who engages in an act that is illegal, legally unjustified, or harmful, especially a public official or person in a position of public trust", "S": [], "A": []}

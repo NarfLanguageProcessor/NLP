@@ -1,0 +1,1 @@
+{"index": 248108, "D": "a preliminary round of judging,  as in a contest where a certain number or percentage of the entrants are eliminated before the final judging. ", "S": ["decide ", "presume "], "A": []}

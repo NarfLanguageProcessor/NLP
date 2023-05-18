@@ -1,0 +1,1 @@
+{"index": 133711, "D": "a type of gypsum plaster used as a basecoat.", "S": [], "A": []}

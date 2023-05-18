@@ -1,0 +1,1 @@
+{"index": 13177, "D": "preoccupation with or motivation by sensual, physical, or carnal appetites rather than moral, spiritual, or intellectual forces.", "S": ["animality ", "sensuality "], "A": []}

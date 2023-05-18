@@ -1,0 +1,1 @@
+{"index": 207730, "D": "kept in process or continued over time; continuous", "S": [], "A": []}

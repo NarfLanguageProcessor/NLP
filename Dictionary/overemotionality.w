@@ -1,0 +1,1 @@
+{"index": 219174, "D": "emotional  state or quality", "S": [], "A": []}

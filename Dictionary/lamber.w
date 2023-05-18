@@ -1,0 +1,1 @@
+{"index": 167587, "D": [], "S": ["ignorant ", "innocent ", "simple ", "sincere ", "unsophisticated ", "wide-eyed "], "A": ["aware ", "experienced ", "intelligent ", "knowledgeable ", "sophisticated "]}

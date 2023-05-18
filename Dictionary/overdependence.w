@@ -1,0 +1,1 @@
+{"index": 218918, "D": "the state or fact of being too dependent, esp for help or support", "S": [], "A": []}

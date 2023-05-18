@@ -1,0 +1,1 @@
+{"index": 359362, "D": "the priest of a parish in which tithes were formerly transferred to a religious house, chapter, or layperson, the priest receiving only the smaller tithes or a salary.", "S": [], "A": []}

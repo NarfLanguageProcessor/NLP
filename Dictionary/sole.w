@@ -1,0 +1,1 @@
+{"index": 296582, "D": "being the only one; only", "S": ["exclusive ", "lone ", "one and only ", "remaining "], "A": ["combined ", "common ", "general ", "mixed ", "ordinary ", "together ", "united "]}

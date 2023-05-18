@@ -1,0 +1,1 @@
+{"index": 169441, "D": "a person infected with a disease, especially leprosy.", "S": [], "A": []}

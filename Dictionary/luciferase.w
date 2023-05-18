@@ -1,0 +1,1 @@
+{"index": 175812, "D": "an enzyme in bioluminescent organisms that catalyzes the oxidation of luciferin,  a light-emitting pigment.", "S": [], "A": []}

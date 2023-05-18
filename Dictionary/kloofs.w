@@ -1,0 +1,1 @@
+{"index": 165375, "D": "(in South Africa) a deep glen; ravine.", "S": [], "A": []}

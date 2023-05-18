@@ -1,0 +1,1 @@
+{"index": 27543, "D": "a small banner", "S": ["banner ", "colors ", "ensign ", "oriflamme ", "pennant ", "pennon ", "standard ", "streamer "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 134535, "D": "an aggregation in the atmosphere of very fine, widely dispersed, solid or liquid particles, or both, giving the air an opalescent appearance that subdues colors.", "S": [], "A": []}

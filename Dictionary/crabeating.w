@@ -1,0 +1,1 @@
+{"index": 71793, "D": "any of various animals that feed on crabs, as the cobia.", "S": [], "A": []}

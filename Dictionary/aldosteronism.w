@@ -1,0 +1,1 @@
+{"index": 7796, "D": "an abnormality of the body's electrolyte balance, caused by excessive secretion of aldosterone  by the adrenal cortex and characterized by hypertension, low serum potassium, excessive urination, and alkalosis.", "S": [], "A": []}

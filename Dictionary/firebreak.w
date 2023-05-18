@@ -1,0 +1,1 @@
+{"index": 113132, "D": "a strip of plowed or cleared land made to check the spread of a prairie or forest fire. ", "S": [], "A": []}

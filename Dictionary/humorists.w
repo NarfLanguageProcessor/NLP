@@ -1,0 +1,1 @@
+{"index": 145050, "D": "a person who is skillful in the use of humor,  as in writing, talking, or acting.", "S": ["entertainer ", "satirist "], "A": []}

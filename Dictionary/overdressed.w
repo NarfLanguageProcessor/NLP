@@ -1,0 +1,1 @@
+{"index": 219086, "D": "to dress  with too much display, finery, or formality", "S": ["attire ", "clothe ", "deck out ", "embellish ", "spruce up "], "A": ["dress down "]}

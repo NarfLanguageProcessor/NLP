@@ -1,0 +1,1 @@
+{"index": 159530, "D": "repeating; making repetition; repetitious.", "S": ["boring ", "constant "], "A": []}

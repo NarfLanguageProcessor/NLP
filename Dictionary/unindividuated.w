@@ -1,0 +1,1 @@
+{"index": 344466, "D": "to form into an individual  or distinct entity.", "S": [], "A": []}

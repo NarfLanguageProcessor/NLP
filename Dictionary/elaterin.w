@@ -1,0 +1,1 @@
+{"index": 96784, "D": "a white crystalline substance found in elaterium, used as a purgative", "S": [], "A": []}

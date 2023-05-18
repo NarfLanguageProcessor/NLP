@@ -1,0 +1,1 @@
+{"index": 1644, "D": "the act of accommodating;  state or process of being accommodated;  adaptation.", "S": ["compromise ", "reconciliation "], "A": ["disagreement ", "fight ", "nonconformity ", "refusal "]}

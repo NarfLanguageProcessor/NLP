@@ -1,0 +1,1 @@
+{"index": 288586, "D": "to shake or tremble with cold, fear, excitement, etc.", "S": [], "A": []}

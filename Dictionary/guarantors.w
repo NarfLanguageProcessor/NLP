@@ -1,0 +1,1 @@
+{"index": 130768, "D": "a person, group, system, etc., that guarantees. ", "S": ["backer ", "underwriter "], "A": []}

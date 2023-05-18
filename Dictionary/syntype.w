@@ -1,0 +1,1 @@
+{"index": 292071, "D": "a type specimen  other than the holotype used in the description of a species.", "S": [], "A": []}

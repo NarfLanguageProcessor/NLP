@@ -1,0 +1,1 @@
+{"index": 330890, "D": "either of two knobs at the top of the femur, the greater on the outside and the lesser on the inside, serving for the attachment of muscles between the thigh and pelvis.", "S": [], "A": []}

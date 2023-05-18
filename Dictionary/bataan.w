@@ -1,0 +1,1 @@
+{"index": 28867, "D": "a peninsula on W Luzon, in the Philippines", "S": [], "A": []}

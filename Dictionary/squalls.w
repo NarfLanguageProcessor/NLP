@@ -1,0 +1,1 @@
+{"index": 301642, "D": "Compare gust1 (def. 1). ", "S": ["gale ", "gust ", "tempest ", "windstorm "], "A": []}

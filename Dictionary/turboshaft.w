@@ -1,0 +1,1 @@
+{"index": 332633, "D": "a gas turbine used to deliver shaft  power, as to a helicopter rotor.", "S": [], "A": []}

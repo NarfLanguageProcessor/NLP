@@ -1,0 +1,1 @@
+{"index": 192829, "D": "the seasonal wind of the Indian Ocean and southern Asia, blowing from the southwest in summer and from the northeast in winter.", "S": [], "A": []}

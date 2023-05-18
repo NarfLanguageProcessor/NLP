@@ -1,0 +1,1 @@
+{"index": 342286, "D": "not finished;  incomplete or unaccomplished.", "S": [], "A": []}

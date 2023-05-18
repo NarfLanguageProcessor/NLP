@@ -1,0 +1,1 @@
+{"index": 22341, "D": "the central portion of an aster, in which the centrosome lies.", "S": [], "A": []}

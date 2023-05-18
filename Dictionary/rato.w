@@ -1,0 +1,1 @@
+{"index": 261106, "D": "rocket-assisted takeoff.", "S": [], "A": []}

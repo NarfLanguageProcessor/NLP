@@ -1,0 +1,1 @@
+{"index": 28167, "D": "any of several automatic recording barometers, of which the most common is the aneroid barograph. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 323268, "D": "an alternating ticking sound, as that made by a clock.", "S": ["beat ", "clack ", "pulsate ", "tap ", "thump ", "ticktock "], "A": []}

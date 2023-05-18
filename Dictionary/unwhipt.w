@@ -1,0 +1,1 @@
+{"index": 354191, "D": "to beat with a strap, lash, rod, or the like, especially by way of punishment or chastisement; flog; thrash", "S": [], "A": []}

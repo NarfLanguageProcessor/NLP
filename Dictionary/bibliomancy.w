@@ -1,0 +1,1 @@
+{"index": 33274, "D": "divination by means of a book, especially the Bible, opened at random to some verse or passage, which is then interpreted.", "S": [], "A": []}

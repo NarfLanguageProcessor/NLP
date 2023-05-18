@@ -1,0 +1,1 @@
+{"index": 68157, "D": "a rolled up or coiled condition.", "S": [], "A": []}

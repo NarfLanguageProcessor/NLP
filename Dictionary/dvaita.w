@@ -1,0 +1,1 @@
+{"index": 94611, "D": "any of the pluralistic schools of philosophy.", "S": [], "A": []}

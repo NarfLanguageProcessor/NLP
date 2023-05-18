@@ -1,0 +1,1 @@
+{"index": 206852, "D": "the act of retrenching;  a cutting down or off, as by the reduction of expenses.", "S": [], "A": []}

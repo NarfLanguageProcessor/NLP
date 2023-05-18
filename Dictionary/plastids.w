@@ -1,0 +1,1 @@
+{"index": 239259, "D": "a small, double-membraned organelle of plant cells and certain protists, occurring in several varieties, as the chloroplast, and containing ribosomes, prokaryotic DNA, and, often, pigment.", "S": [], "A": []}

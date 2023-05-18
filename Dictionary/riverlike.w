@@ -1,0 +1,1 @@
+{"index": 273400, "D": "a natural stream of water of fairly large size flowing in a definite course or channel or series of diverging and converging channels.", "S": [], "A": []}

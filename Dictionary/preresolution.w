@@ -1,0 +1,1 @@
+{"index": 249137, "D": "Compare concurrent resolution, joint resolution. ", "S": [], "A": []}

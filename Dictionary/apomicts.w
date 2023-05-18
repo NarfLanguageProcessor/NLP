@@ -1,0 +1,1 @@
+{"index": 17297, "D": "an organism produced by apomixis.", "S": [], "A": []}

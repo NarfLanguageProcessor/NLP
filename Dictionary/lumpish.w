@@ -1,0 +1,1 @@
+{"index": 176144, "D": "resembling a lump.", "S": ["awkward ", "bungling ", "clumsy ", "cumbersome ", "dull ", "stupid "], "A": []}

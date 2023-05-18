@@ -1,0 +1,1 @@
+{"index": 179699, "D": "a passage in a mine wide enough for a single person.", "S": [], "A": []}

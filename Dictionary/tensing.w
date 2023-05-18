@@ -1,0 +1,1 @@
+{"index": 318989, "D": "stretched tight, as a cord, fiber, etc.; drawn taut; rigid. ", "S": ["decrease ", "deflation ", "recession ", "reduction ", "shrinkage "], "A": ["enlargement ", "increase ", "expansion ", "opening "]}

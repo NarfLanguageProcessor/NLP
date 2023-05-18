@@ -1,0 +1,1 @@
+{"index": 126229, "D": "of or relating to a glycinic residue present in a polypeptide or protein.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 159044, "D": "an act or instance of isolating. ", "S": ["confinement ", "desolation ", "remoteness ", "segregation ", "solitude "], "A": []}

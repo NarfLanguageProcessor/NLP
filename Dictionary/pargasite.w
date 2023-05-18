@@ -1,0 +1,1 @@
+{"index": 226446, "D": "a green or bluegreen variety of hornblende.", "S": [], "A": []}

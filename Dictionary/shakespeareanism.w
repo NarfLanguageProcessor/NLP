@@ -1,0 +1,1 @@
+{"index": 287217, "D": "of, relating to, or suggestive of Shakespeare  or his works.", "S": [], "A": []}

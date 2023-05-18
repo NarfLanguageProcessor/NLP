@@ -1,0 +1,1 @@
+{"index": 355279, "D": "of or containing uranium,  especially in the tetravalent state.", "S": [], "A": []}

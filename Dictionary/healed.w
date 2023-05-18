@@ -1,0 +1,1 @@
+{"index": 134758, "D": "to make healthy, whole, or sound; restore to health; free from ailment.", "S": ["rehabilitated ", "revived "], "A": ["unhealthy "]}

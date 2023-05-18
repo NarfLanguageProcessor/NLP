@@ -1,0 +1,1 @@
+{"index": 110553, "D": "a young deer, especially an unweaned one.", "S": [], "A": []}

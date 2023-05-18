@@ -1,0 +1,1 @@
+{"index": 161311, "D": "the spirit, policy, or practice of jingoes;  bellicose chauvinism.", "S": ["fanaticism ", "jingoism ", "nationalism "], "A": []}

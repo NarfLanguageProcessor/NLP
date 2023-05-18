@@ -1,0 +1,1 @@
+{"index": 5956, "D": "to change into or make like agate. ", "S": [], "A": []}

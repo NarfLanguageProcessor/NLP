@@ -1,0 +1,1 @@
+{"index": 187726, "D": "an area of land or water throughout which explosive mines  have been laid.", "S": [], "A": []}

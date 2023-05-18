@@ -1,0 +1,1 @@
+{"index": 119228, "D": "a gown or dress worn by a girl or woman.", "S": ["apron ", "gown ", "robe "], "A": []}

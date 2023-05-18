@@ -1,0 +1,1 @@
+{"index": 79697, "D": "to subject (food) to partial dehydration and quick-freezing.", "S": [], "A": []}

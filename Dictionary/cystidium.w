@@ -1,0 +1,1 @@
+{"index": 58483, "D": "(in certain basidiomycetous fungi) one of the large, inflated, sterile cells growing between the basidia and usually projecting beyond them.", "S": [], "A": []}

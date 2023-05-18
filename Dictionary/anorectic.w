@@ -1,0 +1,1 @@
+{"index": 13852, "D": "having no appetite.", "S": ["malnourished ", "starved ", "undernourished "], "A": ["chubby ", "fat ", "overweight ", "plump ", "thick "]}

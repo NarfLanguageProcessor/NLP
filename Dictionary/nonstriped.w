@@ -1,0 +1,1 @@
+{"index": 207556, "D": "having stripes  or bands.", "S": [], "A": []}

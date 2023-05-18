@@ -1,0 +1,1 @@
+{"index": 316997, "D": "a person in tattered clothing; a shabby person.", "S": ["beggar ", "bum ", "gamin ", "guttersnipe ", "hobo ", "loafer ", "orphan ", "scarecrow ", "tatterdemalion ", "tramp ", "urchin ", "vagabond ", "vagrant ", "waif ", "wastrel "], "A": ["sophisticate "]}

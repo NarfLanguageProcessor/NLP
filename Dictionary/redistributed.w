@@ -1,0 +1,1 @@
+{"index": 264294, "D": "to distribute  again or anew", "S": ["readjust ", "reconstruct ", "reorganize ", "reposition ", "reshuffle ", "revamp ", "rework "], "A": ["remain "]}

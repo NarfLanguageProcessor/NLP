@@ -1,0 +1,1 @@
+{"index": 304950, "D": "a wholesale or retail establishment that stocks  merchandise.", "S": [], "A": []}

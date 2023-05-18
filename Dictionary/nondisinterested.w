@@ -1,0 +1,1 @@
+{"index": 203170, "D": "unbiased by personal interest or advantage; not influenced by selfish motives", "S": [], "A": []}

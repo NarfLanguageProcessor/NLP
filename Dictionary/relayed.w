@@ -1,0 +1,1 @@
+{"index": 266708, "D": "a series of persons relieving one another or taking turns; shift.", "S": ["broadcast ", "carry ", "communicate ", "deliver ", "hand over ", "send ", "turn over "], "A": ["hold ", "keep ", "keep quiet ", "receive ", "retain ", "withhold "]}

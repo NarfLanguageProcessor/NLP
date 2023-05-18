@@ -1,0 +1,1 @@
+{"index": 247074, "D": "a person who disputes;  debater.", "S": [], "A": []}

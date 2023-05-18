@@ -1,0 +1,1 @@
+{"index": 142766, "D": "a return to one's home; arrival at home.", "S": ["advent ", "appearance ", "influx ", "landing ", "meeting ", "return "], "A": ["departure "]}

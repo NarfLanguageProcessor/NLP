@@ -1,0 +1,1 @@
+{"index": 131375, "D": "a weapon consisting of a metal tube, with mechanical attachments, from which projectiles are shot by the force of an explosive; a piece of ordnance.", "S": [], "A": []}

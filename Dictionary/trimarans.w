@@ -1,0 +1,1 @@
+{"index": 330021, "D": "a vessel similar to a catamaran  but having three separate hulls.", "S": [], "A": []}

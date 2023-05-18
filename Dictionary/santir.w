@@ -1,0 +1,1 @@
+{"index": 278057, "D": "a Persian musical instrument resembling a dulcimer.", "S": [], "A": []}

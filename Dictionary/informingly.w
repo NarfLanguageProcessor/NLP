@@ -1,0 +1,1 @@
+{"index": 152229, "D": "to give or impart knowledge of a fact or circumstance to", "S": [], "A": []}

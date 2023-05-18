@@ -1,0 +1,1 @@
+{"index": 16696, "D": "a common mineral, calcium fluorophosphate, Ca5FP3O12, occurring in individual crystals and in masses and varying in color, formerly used in the manufacture of phosphate fertilizers.", "S": [], "A": []}

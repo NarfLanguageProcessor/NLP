@@ -1,0 +1,1 @@
+{"index": 267872, "D": "an act or instance, process, or manner of functioning or operating.", "S": [], "A": []}

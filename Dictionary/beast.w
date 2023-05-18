@@ -1,0 +1,1 @@
+{"index": 29570, "D": "any nonhuman animal, especially a large, four-footed mammal.", "S": ["animal ", "creature ", "wild animal "], "A": []}

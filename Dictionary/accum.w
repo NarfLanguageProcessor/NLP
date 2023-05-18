@@ -1,0 +1,1 @@
+{"index": 1814, "D": "accumulative.", "S": [], "A": []}

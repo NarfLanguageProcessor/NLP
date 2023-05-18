@@ -1,0 +1,1 @@
+{"index": 276611, "D": "to sink or bend downward by weight or pressure, especially in the middle", "S": ["basin ", "cant ", "concavity ", "depression ", "dip ", "distortion ", "downswing ", "downturn ", "droop ", "fall ", "hollow ", "list ", "settling ", "sink ", "sinkhole ", "sinking ", "slant ", "slip ", "slump ", "tilt "], "A": ["ascent ", "increase ", "rise ", "success "]}

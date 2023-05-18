@@ -1,0 +1,1 @@
+{"index": 154990, "D": "to intersperse, intermingle, or permeate with something.", "S": ["involved ", "married ", "merged ", "united "], "A": ["disconnected ", "uncombined ", "unrelated "]}

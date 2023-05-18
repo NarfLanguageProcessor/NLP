@@ -1,0 +1,1 @@
+{"index": 262510, "D": "to refute by evidence or argument.", "S": ["argument ", "contest ", "controversy ", "deliberation ", "dispute ", "match "], "A": ["agreement ", "peace ", "quiet ", "harmony "]}

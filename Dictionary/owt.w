@@ -1,0 +1,1 @@
+{"index": 222093, "D": "Northern English a dialect word for anything", "S": [], "A": []}

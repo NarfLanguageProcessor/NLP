@@ -1,0 +1,1 @@
+{"index": 170685, "D": "a hospital for the treatment of lepers.", "S": [], "A": []}

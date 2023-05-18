@@ -1,0 +1,1 @@
+{"index": 200486, "D": "a slow-witted, stupid, or foolish person.", "S": ["blockhead ", "bonehead ", "cretin ", "dimwit ", "dork ", "dumbbell ", "dummy ", "dunce ", "fool ", "ignoramus ", "imbecile ", "jerk ", "moron ", "nincompoop ", "ninny ", "numskull ", "pinhead ", "simpleton "], "A": ["brain ", "genius "]}

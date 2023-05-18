@@ -1,0 +1,1 @@
+{"index": 68744, "D": "a woman who flirts lightheartedly with men to win their admiration and affection; flirt.", "S": ["seducer ", "siren ", "tease ", "vamp "], "A": []}

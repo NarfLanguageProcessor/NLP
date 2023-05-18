@@ -1,0 +1,1 @@
+{"index": 161110, "D": "a term used to refer to a Jewish girl or woman.", "S": [], "A": []}

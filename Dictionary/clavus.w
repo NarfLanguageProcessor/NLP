@@ -1,0 +1,1 @@
+{"index": 59591, "D": "an intense headache in which the pain is likened to one that would be produced by a sharp object driven into the skull.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 70410, "D": "a person who lives in a cottage. ", "S": ["provincial ", "ruralist ", "rustic ", "squire "], "A": []}

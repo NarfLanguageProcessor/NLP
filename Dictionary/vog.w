@@ -1,0 +1,1 @@
+{"index": 360956, "D": "air pollution containing gases and particles from a volcanic eruption combined with moisture from fog to create an unpleasant atmospheric cloud.", "S": [], "A": []}

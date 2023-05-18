@@ -1,0 +1,1 @@
+{"index": 216955, "D": "to live longer than; survive (a person, period, etc.)", "S": [], "A": []}

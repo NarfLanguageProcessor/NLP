@@ -1,0 +1,1 @@
+{"index": 195749, "D": "an act or instance of murmuring. ", "S": ["buzz ", "hum ", "muttering ", "rumble ", "whisper "], "A": ["quiet "]}

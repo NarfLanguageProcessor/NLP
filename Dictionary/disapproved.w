@@ -1,0 +1,1 @@
+{"index": 87058, "D": "to think (something) wrong or reprehensible; censure or condemn in opinion.", "S": ["bootleg ", "illicit ", "prohibited ", "smuggled ", "unauthorized "], "A": ["legal ", "permitted "]}

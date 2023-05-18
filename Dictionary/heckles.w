@@ -1,0 +1,1 @@
+{"index": 135130, "D": "to harass (a public speaker, performer, etc.) with impertinent questions, gibes, or the like; badger. ", "S": ["badger ", "bully ", "embarrass ", "hound ", "interrupt ", "pester ", "rattle ", "ridicule ", "taunt ", "tease "], "A": ["leave alone ", "please ", "praise ", "aid ", "arrange ", "calm ", "comfort ", "help ", "organize ", "reassure ", "soothe "]}

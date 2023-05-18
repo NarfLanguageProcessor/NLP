@@ -1,0 +1,1 @@
+{"index": 311921, "D": "formed by descending waters, as mineral or ore deposits (opposed to hypogene).", "S": [], "A": []}

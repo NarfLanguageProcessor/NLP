@@ -1,0 +1,1 @@
+{"index": 14174, "D": "a porch or narthex before the nave  of a church.", "S": [], "A": []}

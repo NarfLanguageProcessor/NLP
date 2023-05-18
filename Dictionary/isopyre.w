@@ -1,0 +1,1 @@
+{"index": 159174, "D": "an impure variety of opal, containing alumina, lime, and iron sesquioxide.", "S": [], "A": []}

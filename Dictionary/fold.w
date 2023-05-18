@@ -1,0 +1,1 @@
+{"index": 115846, "D": "to bend (cloth, paper, etc.) over upon itself.", "S": ["pleat "], "A": ["line "]}

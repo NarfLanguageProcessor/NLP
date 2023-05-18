@@ -1,0 +1,1 @@
+{"index": 244801, "D": "a thick soup made of vegetables, with or without meat.", "S": ["bouillon ", "chowder ", "porridge ", "puree "], "A": []}

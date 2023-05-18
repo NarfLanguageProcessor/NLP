@@ -1,0 +1,1 @@
+{"index": 35904, "D": "a bluish antelope, Hippotragus leucophaeus, of southern Africa, having backward curving horns", "S": [], "A": []}

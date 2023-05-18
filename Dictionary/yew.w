@@ -1,0 +1,1 @@
+{"index": 146973, "D": "any of several evergreen, coniferous trees and shrubs of the genera Taxus and Torreya, constituting the family Taxaceae, of the Old World, North America, and Japan, having needlelike or scalelike foliage and seeds enclosed in a fleshy aril.", "S": [], "A": []}

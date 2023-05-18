@@ -1,0 +1,1 @@
+{"index": 325030, "D": "a bronze coin and monetary unit of Papua New Guinea, one 100th of a kina.", "S": [], "A": []}

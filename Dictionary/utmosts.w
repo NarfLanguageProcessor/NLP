@@ -1,0 +1,1 @@
+{"index": 356193, "D": "of the greatest or highest degree, quantity, or the like; greatest", "S": ["cap ", "ceiling ", "check ", "curb ", "deadline ", "maximum ", "restraint ", "restriction "], "A": ["freedom ", "liberation ", "minimum ", "beginning ", "center ", "commencement ", "inside ", "interior ", "middle ", "opening ", "start "]}

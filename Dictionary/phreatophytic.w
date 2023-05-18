@@ -1,0 +1,1 @@
+{"index": 235532, "D": "a long-rooted plant that absorbs its water from the water table or the soil above it.", "S": [], "A": []}

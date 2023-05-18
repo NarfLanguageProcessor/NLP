@@ -1,0 +1,1 @@
+{"index": 350214, "D": "pertaining to or characterized by sadism;  deriving pleasure or sexual gratification from extreme cruelty", "S": [], "A": []}

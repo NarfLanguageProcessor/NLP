@@ -1,0 +1,1 @@
+{"index": 187284, "D": "simple past tense and past participle of mill1. ", "S": ["formed ", "hammered ", "pounded ", "rolled ", "shaped ", "stamped ", "tamped ", "tramped ", "trodden ", "worked "], "A": []}

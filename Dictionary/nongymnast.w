@@ -1,0 +1,1 @@
+{"index": 204289, "D": "a person trained and skilled in gymnastics. ", "S": [], "A": []}

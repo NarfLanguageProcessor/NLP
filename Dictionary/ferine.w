@@ -1,0 +1,1 @@
+{"index": 111349, "D": "feral1. ", "S": ["inhuman ", "inhumane ", "rude ", "savage "], "A": ["kind ", "nice "]}

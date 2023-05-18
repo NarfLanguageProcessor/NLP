@@ -1,0 +1,1 @@
+{"index": 279744, "D": "Gerald. born 1936, British cartoonist, famous for his scathing caricatures of politicians and celebrities", "S": [], "A": []}

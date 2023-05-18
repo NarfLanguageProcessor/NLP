@@ -1,0 +1,1 @@
+{"index": 348290, "D": "of the nature of or characterized by precipices", "S": [], "A": []}

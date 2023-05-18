@@ -1,0 +1,1 @@
+{"index": 188356, "D": "a village commune of peasant farmers in prerevolutionary Russia.", "S": [], "A": []}

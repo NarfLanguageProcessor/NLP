@@ -1,0 +1,1 @@
+{"index": 243637, "D": "(formerly) a slow-burning fuse used for firing rockets and fireworks and, in mining, for igniting explosives", "S": [], "A": []}

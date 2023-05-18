@@ -1,0 +1,1 @@
+{"index": 261035, "D": "to confirm by expressing consent, approval, or formal sanction", "S": [], "A": []}

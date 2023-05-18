@@ -1,0 +1,1 @@
+{"index": 199269, "D": "a neurotoxic  substance, as rattlesnake venom or the poison of a black widow spider.", "S": [], "A": []}

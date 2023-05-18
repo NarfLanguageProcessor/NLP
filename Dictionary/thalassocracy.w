@@ -1,0 +1,1 @@
+{"index": 320486, "D": "dominion over the seas, as in exploration, trade, or colonization.", "S": [], "A": []}

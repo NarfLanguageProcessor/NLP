@@ -1,0 +1,1 @@
+{"index": 357947, "D": "of or relating to the Vend\u00e9e or its inhabitants.", "S": [], "A": []}

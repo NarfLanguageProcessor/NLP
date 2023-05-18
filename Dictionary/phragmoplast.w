@@ -1,0 +1,1 @@
+{"index": 235485, "D": "the cytoplasmic structure that forms at the equator of the spindle after the chromosomes have divided during the anaphase of plant mitosis, and that initiates cell division.", "S": [], "A": []}

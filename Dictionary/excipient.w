@@ -1,0 +1,1 @@
+{"index": 106664, "D": "a pharmacologically inert, adhesive substance, as honey, syrup, or gum arabic, used to bind the contents of a pill or tablet.", "S": [], "A": []}

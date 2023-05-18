@@ -1,0 +1,1 @@
+{"index": 23148, "D": "the act, power, or property of attracting. ", "S": [], "A": []}

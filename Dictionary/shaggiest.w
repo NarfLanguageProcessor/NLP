@@ -1,0 +1,1 @@
+{"index": 287141, "D": "covered with or having long, rough hair.", "S": ["furry ", "long-haired "], "A": ["shaven ", "smooth "]}

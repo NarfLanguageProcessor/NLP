@@ -1,0 +1,1 @@
+{"index": 273412, "D": "any of several chiefly tropical submerged aquatic plants of the genus Podostemum and related genera, growing in rapidly moving streams.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 152094, "D": "tending to arouse anger, hostility, passion, etc.", "S": ["incendiary ", "intemperate ", "provocative "], "A": ["calming ", "mitigating ", "placating ", "pleasing ", "tranquilizing "]}

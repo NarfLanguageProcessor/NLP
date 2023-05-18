@@ -1,0 +1,1 @@
+{"index": 60504, "D": "a device, such as a forked piece of wood or plastic, for fastening articles to a clothesline.", "S": [], "A": []}

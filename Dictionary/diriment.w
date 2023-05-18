@@ -1,0 +1,1 @@
+{"index": 86835, "D": "causing to become wholly void; nullifying.", "S": [], "A": []}

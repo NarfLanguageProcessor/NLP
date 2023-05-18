@@ -1,0 +1,1 @@
+{"index": 108693, "D": "of, relating to, or being an activity performed by an astronaut outside a space vehicle while in orbit", "S": [], "A": []}

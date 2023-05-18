@@ -1,0 +1,1 @@
+{"index": 214320, "D": "the genus of an extinct hominoid found in the Miocene coal deposits of Italy, the last known European ape, living 7\u20139 million years ago and possessing physical and dietary similarities to early hominins, but not classified with them.", "S": [], "A": []}

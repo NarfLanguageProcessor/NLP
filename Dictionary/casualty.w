@@ -1,0 +1,1 @@
+{"index": 49143, "D": "loss in numerical strength through any cause, as death, wounds, sickness, capture, or desertion.", "S": ["blow ", "calamity ", "catastrophe ", "disaster ", "mishap "], "A": ["blessing ", "good fortune ", "good luck ", "happiness ", "miracle ", "success ", "wonder ", "certainty "]}

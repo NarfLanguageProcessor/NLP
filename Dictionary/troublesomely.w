@@ -1,0 +1,1 @@
+{"index": 331329, "D": "causing trouble,  annoyance, or difficulty; vexatious", "S": ["burdensomely ", "difficultly ", "exhaustingly ", "heavily ", "laboriously ", "onerously "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 47507, "D": "saturation or reaction with carbon dioxide.", "S": [], "A": []}

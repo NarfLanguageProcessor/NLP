@@ -1,0 +1,1 @@
+{"index": 369946, "D": "an early type of motion-picture projector, designed by Eadweard Muybridge, in which the images were drawings or photographs placed along the rim of a circular glass plate, the shutter was a rotating opaque disk with radial slots, and a limelight source was used.", "S": [], "A": []}

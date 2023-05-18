@@ -1,0 +1,1 @@
+{"index": 195010, "D": "the act or process of a person or thing that casts. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 234206, "D": "pertaining to the swollen, membranous abdomen of certain insects, especially termite and ant queens.", "S": [], "A": []}

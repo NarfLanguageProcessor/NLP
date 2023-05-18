@@ -1,0 +1,1 @@
+{"index": 143965, "D": "to cause to feel horror;  strike with horror", "S": ["alarm ", "appall ", "daunt ", "disgust ", "dismay ", "frighten ", "intimidate ", "outrage ", "petrify ", "shake ", "shock ", "sicken ", "terrify "], "A": ["assist ", "assure ", "calm ", "comfort ", "delight ", "embolden ", "encourage ", "gladden ", "help ", "make happy ", "please ", "soothe "]}

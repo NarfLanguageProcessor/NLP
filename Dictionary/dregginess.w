@@ -1,0 +1,1 @@
+{"index": 92932, "D": "abounding in or like dregs; filthy; muddy.", "S": [], "A": []}

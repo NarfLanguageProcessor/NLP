@@ -1,0 +1,1 @@
+{"index": 74876, "D": "any small malacostracan marine crustacean of the Cumacea family, mostly dwelling on the sea bed but sometimes found among the plankton", "S": [], "A": []}

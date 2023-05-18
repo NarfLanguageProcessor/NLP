@@ -1,0 +1,1 @@
+{"index": 214247, "D": "of no special quality or interest; commonplace; unexceptional", "S": ["communal table ", "prix fixe "], "A": ["a la carte "]}

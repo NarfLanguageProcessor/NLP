@@ -1,0 +1,1 @@
+{"index": 270035, "D": "something that restricts;  a restrictive  condition or regulation; limitation.", "S": ["check ", "condition ", "constraint ", "control ", "curb ", "regulation ", "restraint ", "rule ", "stipulation ", "stricture "], "A": ["allowance ", "liberation ", "permission ", "advantage ", "freedom ", "help "]}

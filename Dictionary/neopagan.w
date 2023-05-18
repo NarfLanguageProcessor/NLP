@@ -1,0 +1,1 @@
+{"index": 198422, "D": "a member of the modern revival of interest in the worship of a specific pre-Christian polytheistic religious tradition or of nature, fertility, etc., as represented by various deities", "S": [], "A": []}

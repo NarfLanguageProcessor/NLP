@@ -1,0 +1,1 @@
+{"index": 217117, "D": "a secondary seaport close to a larger one but beyond its corporate limits or jurisdiction.", "S": [], "A": []}

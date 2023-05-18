@@ -1,0 +1,1 @@
+{"index": 349757, "D": "responding  especially readily and sympathetically to appeals, efforts, influences, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 89205, "D": "in a way that is out of proper relation with something else in size, number, importance, etc.", "S": ["over "], "A": []}

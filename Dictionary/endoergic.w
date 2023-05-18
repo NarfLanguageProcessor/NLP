@@ -1,0 +1,1 @@
+{"index": 99797, "D": "endothermic (opposed to exoergic).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 72907, "D": "any of several jumping, orthopterous insects of the family Gryllidae, characterized by long antennae and stridulating organs on the forewings of the male, as one of the species commonly found in pastures and meadows (field cricket ) or on trees and shrubs (tree cricket ).", "S": [], "A": []}

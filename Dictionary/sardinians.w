@@ -1,0 +1,1 @@
+{"index": 278453, "D": "of or relating to Sardinia,  its inhabitants, or their language.", "S": [], "A": []}

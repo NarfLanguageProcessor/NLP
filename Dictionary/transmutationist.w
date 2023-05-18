@@ -1,0 +1,1 @@
+{"index": 328149, "D": "the act or process of transmuting. ", "S": [], "A": []}

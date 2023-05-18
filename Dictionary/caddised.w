@@ -1,0 +1,1 @@
+{"index": 44294, "D": "a kind of woolen braid, ribbon, or tape.", "S": [], "A": []}

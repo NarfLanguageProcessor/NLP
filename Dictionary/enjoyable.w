@@ -1,0 +1,1 @@
+{"index": 100599, "D": "giving or capable of giving joy or pleasure", "S": ["amusing ", "delicious ", "delightful ", "entertaining ", "fun ", "gratifying ", "likable ", "pleasant ", "pleasurable ", "satisfying "], "A": ["bad ", "boring ", "disagreeable ", "hateful ", "horrible ", "sad ", "tiring ", "unamusing ", "unhappy ", "unpleasant "]}

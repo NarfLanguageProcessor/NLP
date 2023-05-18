@@ -1,0 +1,1 @@
+{"index": 228543, "D": "a small, rounded stone, especially one worn smooth by the action of water.", "S": ["dust ", "gravel ", "lumps ", "powder ", "sand "], "A": ["cowardice ", "timidity ", "weakness "]}

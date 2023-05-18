@@ -1,0 +1,1 @@
+{"index": 311666, "D": "the act or an instance of directing. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 241362, "D": "occurring at each point  of a given set", "S": [], "A": []}

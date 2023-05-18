@@ -1,0 +1,1 @@
+{"index": 298259, "D": "one of a body of Algerian cavalry in the French service.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 112470, "D": "the act of shaping into a particular figure.", "S": ["contour ", "form ", "outline ", "symbolism "], "A": []}

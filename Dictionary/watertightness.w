@@ -1,0 +1,1 @@
+{"index": 363245, "D": "constructed or fitted so tightly as to be impervious to water", "S": [], "A": []}

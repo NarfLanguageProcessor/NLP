@@ -1,0 +1,1 @@
+{"index": 94350, "D": "capable of being duplicated. ", "S": [], "A": []}

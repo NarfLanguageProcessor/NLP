@@ -1,0 +1,1 @@
+{"index": 303107, "D": "in terms of or according to statistics", "S": [], "A": []}

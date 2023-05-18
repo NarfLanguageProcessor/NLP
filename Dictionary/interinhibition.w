@@ -1,0 +1,1 @@
+{"index": 155062, "D": "the act of inhibiting.", "S": [], "A": []}

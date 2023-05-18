@@ -1,0 +1,1 @@
+{"index": 302575, "D": "a coarse woolen fabric, used in the manufacture of garments.", "S": [], "A": []}

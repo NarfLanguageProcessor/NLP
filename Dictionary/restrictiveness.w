@@ -1,0 +1,1 @@
+{"index": 270038, "D": "tending or serving to restrict. ", "S": [], "A": []}

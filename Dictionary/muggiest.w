@@ -1,0 +1,1 @@
+{"index": 194793, "D": "(of the atmosphere, weather, etc.) oppressively humid; damp and close.", "S": ["damp ", "dank ", "moist ", "oppressive ", "soggy ", "sticky ", "stuffy ", "sultry "], "A": ["cool ", "dry ", "parched "]}

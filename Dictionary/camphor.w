@@ -1,0 +1,1 @@
+{"index": 45870, "D": "a whitish, translucent, crystalline, pleasant-odored terpene ketone, C10H16O, obtained from the camphor tree,  used chiefly in the manufacture of celluloid and in medicine as a counter-irritant for infections and in the treatment of pain and itching.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 117937, "D": "a woman who establishes something, as an institution or religious order; founder.", "S": [], "A": []}

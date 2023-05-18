@@ -1,0 +1,1 @@
+{"index": 143735, "D": "the dried ripe flowers, esp the female flowers, of the hop plant, used to give a bitter taste to beer", "S": ["brew ", "malt ", "suds "], "A": []}

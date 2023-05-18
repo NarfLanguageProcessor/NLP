@@ -1,0 +1,1 @@
+{"index": 202144, "D": "not involving or determined by rivalry or competition", "S": [], "A": []}

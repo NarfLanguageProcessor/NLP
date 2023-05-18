@@ -1,0 +1,1 @@
+{"index": 230487, "D": "of, relating to, or characterized by percussion. ", "S": ["aghast ", "appalled ", "astonished ", "dismayed ", "frightened "], "A": ["comforting "]}

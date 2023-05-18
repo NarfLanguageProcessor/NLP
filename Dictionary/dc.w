@@ -1,0 +1,1 @@
+{"index": 77394, "D": "direct current.", "S": ["electrical ", "magnetic "], "A": ["boring ", "dull ", "unenergetic ", "unexciting "]}

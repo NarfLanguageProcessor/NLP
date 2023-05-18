@@ -1,0 +1,1 @@
+{"index": 143943, "D": "the casting or taking of horoscopes. ", "S": ["augur ", "diviner ", "medium ", "oracle ", "prophet ", "seer ", "sibyl ", "soothsayer ", "telepathist ", "visionary "], "A": []}

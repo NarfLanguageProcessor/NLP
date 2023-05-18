@@ -1,0 +1,1 @@
+{"index": 262931, "D": "to repeat the words of, as from memory, especially in a formal manner", "S": ["announcing ", "citing ", "copying ", "naming ", "stating "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 26883, "D": "given to balking;  stubborn; obstinate", "S": [], "A": []}

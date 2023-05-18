@@ -1,0 +1,1 @@
+{"index": 90584, "D": "an early Christian doctrine that the sufferings of Christ were apparent and not real and that after the crucifixion he appeared in a spiritual body.", "S": [], "A": []}

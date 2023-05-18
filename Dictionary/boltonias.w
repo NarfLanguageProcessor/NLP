@@ -1,0 +1,1 @@
+{"index": 37657, "D": "any of several composite plants of the genus Boltonia, of the U.S., having blue, purple, or white asterlike flower heads.", "S": [], "A": []}

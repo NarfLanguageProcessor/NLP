@@ -1,0 +1,1 @@
+{"index": 108736, "D": "not essential or inherent; not a basic part or quality; extraneous", "S": ["acquired ", "alien ", "exotic ", "exterior ", "external ", "extraneous ", "gained ", "imported ", "outer ", "outside ", "outward ", "superficial "], "A": ["essential ", "integral ", "interior ", "intrinsic ", "necessary "]}

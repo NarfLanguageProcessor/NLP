@@ -1,0 +1,1 @@
+{"index": 129062, "D": "a compound of graphite  impregnated with Babbitt metal, bronze, copper, gold, etc., used as a low-friction material.", "S": [], "A": []}

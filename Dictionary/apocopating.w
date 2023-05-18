@@ -1,0 +1,1 @@
+{"index": 17138, "D": "to shorten by apocope. ", "S": [], "A": []}

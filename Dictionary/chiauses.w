@@ -1,0 +1,1 @@
+{"index": 54084, "D": "(in the Ottoman Empire) a court official who served as an ambassador, emissary, or member of a ceremonial escort.", "S": [], "A": []}

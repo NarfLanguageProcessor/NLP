@@ -1,0 +1,1 @@
+{"index": 102242, "D": "lacking the typical characteristics of a particular gender or sex; sexless", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1647, "D": "the act of accommodating;  state or process of being accommodated;  adaptation.", "S": ["apartment ", "board ", "boardinghouse ", "crib ", "digs ", "hotel ", "house ", "housing ", "lodging ", "motel ", "pad ", "quarters ", "roof ", "rooms ", "shelter "], "A": []}

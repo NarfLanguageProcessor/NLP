@@ -1,0 +1,1 @@
+{"index": 299202, "D": "of, relating to, or resembling sperm;  seminal; generative.", "S": [], "A": []}

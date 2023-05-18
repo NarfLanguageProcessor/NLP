@@ -1,0 +1,1 @@
+{"index": 265850, "D": "to increase by natural development, as any living organism or part by assimilation of nutriment; increase in size or substance.", "S": [], "A": []}

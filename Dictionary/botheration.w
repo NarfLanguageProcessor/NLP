@@ -1,0 +1,1 @@
+{"index": 38717, "D": "(used as an exclamation indicating vexation or annoyance.)", "S": ["aggravation ", "disturbance ", "exasperation ", "harassment ", "hassle ", "headache ", "inconvenience ", "irritation ", "nuisance ", "problem ", "vexation "], "A": ["peace "]}

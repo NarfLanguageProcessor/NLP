@@ -1,0 +1,1 @@
+{"index": 359941, "D": "a brand name for a series of thermoplastic, nontoxic, acid-resistant, vinyl resins or plastics", "S": [], "A": []}

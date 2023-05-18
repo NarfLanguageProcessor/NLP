@@ -1,0 +1,1 @@
+{"index": 190459, "D": "the Hurrian kingdom in NW Mesopotamia in the 15th and 14th centuries b.c.", "S": [], "A": []}

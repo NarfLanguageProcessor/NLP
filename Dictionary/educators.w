@@ -1,0 +1,1 @@
+{"index": 95849, "D": "a person or thing that educates,  especially a teacher, principal, or other person involved in planning or directing education. ", "S": ["educationist ", "instructor ", "lecturer ", "professor ", "schoolteacher "], "A": ["pupil ", "student "]}

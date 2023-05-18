@@ -1,0 +1,1 @@
+{"index": 23715, "D": "to make or become Australian  in speech, manners, practices, etc.", "S": [], "A": []}

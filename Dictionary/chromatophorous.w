@@ -1,0 +1,1 @@
+{"index": 56241, "D": "a cell containing pigment, especially one that through contraction and expansion produces a temporary color, as in cuttlefishes.", "S": [], "A": []}

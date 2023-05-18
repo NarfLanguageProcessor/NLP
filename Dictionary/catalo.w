@@ -1,0 +1,1 @@
+{"index": 49282, "D": "a variant spelling of cattalo", "S": [], "A": []}

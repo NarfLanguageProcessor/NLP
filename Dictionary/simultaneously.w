@@ -1,0 +1,1 @@
+{"index": 291200, "D": "at the same time", "S": ["together "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 312852, "D": "the fact or quality of being very great in extent, size, degree, amount, etc.; immensity or hugeness", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 3553, "D": "the act or process of adding  or uniting.", "S": ["extension ", "inclusion "], "A": ["decrease "]}

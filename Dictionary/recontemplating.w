@@ -1,0 +1,1 @@
+{"index": 263423, "D": "to look at or view with continued attention; observe or study thoughtfully", "S": [], "A": []}

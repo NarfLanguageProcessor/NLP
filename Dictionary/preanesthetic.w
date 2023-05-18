@@ -1,0 +1,1 @@
+{"index": 245700, "D": "a substance that produces a preliminary or light anesthesia.", "S": [], "A": []}

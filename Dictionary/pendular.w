@@ -1,0 +1,1 @@
+{"index": 229572, "D": "of or relating to a pendulum. ", "S": [], "A": []}

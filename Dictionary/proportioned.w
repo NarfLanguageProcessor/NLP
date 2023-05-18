@@ -1,0 +1,1 @@
+{"index": 252780, "D": "adjusted to proper proportion  or relation.", "S": ["comely ", "curvaceous ", "elegant ", "graceful ", "pleasing ", "rounded "], "A": ["ugly "]}

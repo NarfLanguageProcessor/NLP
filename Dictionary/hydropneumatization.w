@@ -1,0 +1,1 @@
+{"index": 138891, "D": "utilization of air pressure in the housing of a water turbine to keep the level of water that has been used from rising to interfere with the rotor blades.", "S": [], "A": []}

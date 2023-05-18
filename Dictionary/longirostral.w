@@ -1,0 +1,1 @@
+{"index": 174956, "D": "(of birds) having a long beak", "S": [], "A": []}

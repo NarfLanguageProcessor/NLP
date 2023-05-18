@@ -1,0 +1,1 @@
+{"index": 102433, "D": "living near the surface of the ground, as on low herbs or other surface vegetation.", "S": [], "A": []}

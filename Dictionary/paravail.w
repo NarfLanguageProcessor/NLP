@@ -1,0 +1,1 @@
+{"index": 226212, "D": "being below or inferior to all others; specifically, being a tenant of one who holds land of another who is also a tenant", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111264, "D": "a small, pale yellowish-brown fox, Fennecus zerda, of northern Africa, having large, pointed ears.", "S": [], "A": []}

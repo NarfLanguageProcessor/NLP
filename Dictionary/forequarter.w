@@ -1,0 +1,1 @@
+{"index": 116885, "D": "the forward end of half of a carcass, as of beef or lamb.", "S": [], "A": []}

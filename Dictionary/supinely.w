@@ -1,0 +1,1 @@
+{"index": 312923, "D": "lying on the back, face or front upward.", "S": [], "A": []}

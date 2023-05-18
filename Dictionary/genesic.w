@@ -1,0 +1,1 @@
+{"index": 123523, "D": "pertaining to genesis  or reproduction; genetic.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108228, "D": "extensometer. ", "S": [], "A": []}

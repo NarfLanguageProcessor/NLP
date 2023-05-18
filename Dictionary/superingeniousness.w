@@ -1,0 +1,1 @@
+{"index": 312098, "D": "characterized by cleverness or originality of invention or construction", "S": [], "A": []}

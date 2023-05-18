@@ -1,0 +1,1 @@
+{"index": 161313, "D": "militantly nationalistic or chauvinistic", "S": ["battling ", "belligerent ", "boxing ", "brawling ", "contending ", "determined ", "fencing ", "hostile ", "jousting ", "martial ", "militant ", "sparring ", "tilting ", "warmongering ", "wrestling "], "A": ["kind ", "nice ", "peaceful "]}

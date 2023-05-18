@@ -1,0 +1,1 @@
+{"index": 150934, "D": "liable to being indicted,  as a person.", "S": ["corrupt ", "deplorable ", "illegal ", "illegitimate ", "illicit ", "immoral ", "scandalous ", "senseless ", "unlawful ", "vicious "], "A": ["authorized ", "blessed ", "ethical ", "good ", "kind ", "lawful ", "legal ", "legitimate ", "moral ", "noble ", "proper ", "pure ", "right ", "uncorrupt "]}

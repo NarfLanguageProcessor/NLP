@@ -1,0 +1,1 @@
+{"index": 296375, "D": "the quality or an instance of being soft", "S": ["flexibility ", "malleability ", "plasticity ", "pliability "], "A": []}

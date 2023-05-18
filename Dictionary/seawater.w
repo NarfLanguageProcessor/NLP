@@ -1,0 +1,1 @@
+{"index": 282642, "D": "the salt water in or from the sea.", "S": ["brine ", "briny ", "saline "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148979, "D": "to reduce to poverty", "S": ["bankrupt ", "deplete ", "exhaust ", "ruin "], "A": ["enrich "]}

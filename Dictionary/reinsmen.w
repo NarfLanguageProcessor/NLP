@@ -1,0 +1,1 @@
+{"index": 266370, "D": "a person who rides or drives horses, especially a skillful one, as a jockey or harness driver.", "S": [], "A": []}

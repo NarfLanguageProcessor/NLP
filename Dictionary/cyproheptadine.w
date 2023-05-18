@@ -1,0 +1,1 @@
+{"index": 57933, "D": "a phenothiazine analogue, C21H21N, with antihistaminic action, used in the symptomatic treatment of hay fever and itching.", "S": [], "A": []}

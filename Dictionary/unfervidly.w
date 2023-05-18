@@ -1,0 +1,1 @@
+{"index": 342194, "D": "heated or vehement in spirit, enthusiasm, etc.", "S": [], "A": []}

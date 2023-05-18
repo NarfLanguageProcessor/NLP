@@ -1,0 +1,1 @@
+{"index": 86922, "D": "absence or deprivation of advantage or equality.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 19869, "D": "any of several burrowing, chiefly nocturnal mammals constituting the family Dasypodidae, ranging from the southern U.S. through South America, having strong claws and a jointed protective covering of bony plates", "S": ["aardvark ", "anteater ", "sloth "], "A": []}

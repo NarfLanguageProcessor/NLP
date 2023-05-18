@@ -1,0 +1,1 @@
+{"index": 79466, "D": "having the form changed, especially with loss of beauty; misshapen; disfigured", "S": ["awry ", "bowed ", "contorted ", "crippled ", "damaged ", "gnarled ", "mangled ", "misshapen ", "scarred ", "twisted ", "warped "], "A": ["OK ", "straight ", "free "]}

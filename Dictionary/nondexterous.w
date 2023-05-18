@@ -1,0 +1,1 @@
+{"index": 203025, "D": "skillful or adroit in the use of the hands or body.", "S": [], "A": []}

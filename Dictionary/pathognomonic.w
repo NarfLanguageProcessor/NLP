@@ -1,0 +1,1 @@
+{"index": 227738, "D": "characteristic or diagnostic of a specific disease", "S": [], "A": []}

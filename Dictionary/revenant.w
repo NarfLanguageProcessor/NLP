@@ -1,0 +1,1 @@
+{"index": 271161, "D": "a person who returns.", "S": ["apparition ", "phantom ", "specter ", "spirit "], "A": ["being ", "reality "]}

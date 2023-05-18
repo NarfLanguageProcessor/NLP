@@ -1,0 +1,1 @@
+{"index": 150376, "D": "not corporeal or material; insubstantial.", "S": ["immaterial "], "A": []}

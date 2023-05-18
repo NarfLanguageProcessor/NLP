@@ -1,0 +1,1 @@
+{"index": 297944, "D": "having an acid taste, resembling that of vinegar, lemon juice, etc.; tart. ", "S": ["acidity ", "asperity ", "astringency ", "tartness "], "A": ["kindness ", "mellowness ", "mildness ", "sweetness "]}

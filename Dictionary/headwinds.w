@@ -1,0 +1,1 @@
+{"index": 134746, "D": "a wind  opposed to the course of a moving object, especially an aircraft or other vehicle (opposed to tailwind).", "S": [], "A": []}

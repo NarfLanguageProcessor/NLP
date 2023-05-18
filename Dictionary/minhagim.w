@@ -1,0 +1,1 @@
+{"index": 187798, "D": "a custom or procedure among Jews that is so firmly established as to have almost the binding force of law.", "S": [], "A": []}

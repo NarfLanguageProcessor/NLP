@@ -1,0 +1,1 @@
+{"index": 139537, "D": "the objective case of he, used as a direct or indirect object", "S": ["her ", "hir ", "it ", "me ", "them ", "ver ", "xem ", "you ", "zir "], "A": []}

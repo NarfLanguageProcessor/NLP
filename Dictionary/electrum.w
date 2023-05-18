@@ -1,0 +1,1 @@
+{"index": 97341, "D": "an amber-colored alloy of gold and silver used in ancient times.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 200594, "D": "any of several filamentous or rod-shaped, aerobic bacteria of the genus Nocardia, certain species of which are pathogenic for humans and other animals.", "S": [], "A": []}

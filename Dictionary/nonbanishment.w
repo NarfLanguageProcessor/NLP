@@ -1,0 +1,1 @@
+{"index": 201607, "D": "expulsion from a country, place, or position by authoritative decree, or the state of having been expelled", "S": [], "A": []}

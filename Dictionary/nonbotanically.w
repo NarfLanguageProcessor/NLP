@@ -1,0 +1,1 @@
+{"index": 201715, "D": "of, pertaining to, made from, or containing plants", "S": [], "A": []}

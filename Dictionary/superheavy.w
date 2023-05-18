@@ -1,0 +1,1 @@
+{"index": 311966, "D": "pertaining to any of a series of elements having an atomic number greater than 103.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97901, "D": "sent, proceeding, or flowing from or as if from a source (sometimes used in combination)", "S": ["appearing ", "budding ", "coming ", "developing ", "efflorescent ", "emanant ", "issuing forth ", "outgoing ", "rising "], "A": ["declining ", "dependent "]}

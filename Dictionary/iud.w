@@ -1,0 +1,1 @@
+{"index": 159642, "D": "intrauterine device. ", "S": ["abstinence ", "condom ", "contraceptive ", "diaphragm ", "family planning ", "pill ", "vasectomy "], "A": []}

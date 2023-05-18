@@ -1,0 +1,1 @@
+{"index": 158933, "D": "of, relating to, or having the same electric potential. ", "S": [], "A": []}

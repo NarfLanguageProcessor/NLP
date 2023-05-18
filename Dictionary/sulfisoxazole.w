@@ -1,0 +1,1 @@
+{"index": 310438, "D": "a white to yellowish, crystalline, slightly bitter sulfonamide, C11H13N3O3S, used chiefly in the treatment of infections of the urinary tract.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 218233, "D": "in a manner that is suited to the purpose or occasion; appropriately", "S": [], "A": []}

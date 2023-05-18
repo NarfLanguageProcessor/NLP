@@ -1,0 +1,1 @@
+{"index": 119432, "D": "a degree or state of coldness sufficient to cause the freezing of water.", "S": [], "A": []}

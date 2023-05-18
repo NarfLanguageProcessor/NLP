@@ -1,0 +1,1 @@
+{"index": 122622, "D": "the art or science of good eating.", "S": ["cookery ", "cooking ", "cuisine ", "culinary science "], "A": []}

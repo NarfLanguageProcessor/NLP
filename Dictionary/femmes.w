@@ -1,0 +1,1 @@
+{"index": 111182, "D": "any person who adopts a feminine appearance, manner, or persona.", "S": ["girl ", "mother "], "A": ["male ", "man "]}

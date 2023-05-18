@@ -1,0 +1,1 @@
+{"index": 35700, "D": "to coax or influence by gentle flattery; cajole", "S": [], "A": []}

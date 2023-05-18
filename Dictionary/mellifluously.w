@@ -1,0 +1,1 @@
+{"index": 182939, "D": "sweetly or smoothly flowing; sweet-sounding", "S": ["harmonious ", "like music ", "melodiously ", "musically ", "tunefully "], "A": []}

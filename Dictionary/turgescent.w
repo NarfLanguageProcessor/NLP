@@ -1,0 +1,1 @@
+{"index": 332698, "D": "becoming swollen; swelling.", "S": [], "A": []}

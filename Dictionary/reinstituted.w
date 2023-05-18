@@ -1,0 +1,1 @@
+{"index": 266404, "D": "to set up; establish; organize", "S": ["refreshed ", "rehabilitated "], "A": []}

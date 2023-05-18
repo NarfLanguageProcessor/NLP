@@ -1,0 +1,1 @@
+{"index": 154640, "D": "pertaining to, of the nature of, or having a cyst  or cysts;  encysted.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 257958, "D": "a spectroscopic instrument for measuring the percentage of different metals present in a sample", "S": [], "A": []}

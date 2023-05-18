@@ -1,0 +1,1 @@
+{"index": 307168, "D": "of angular  form; angled", "S": [], "A": []}

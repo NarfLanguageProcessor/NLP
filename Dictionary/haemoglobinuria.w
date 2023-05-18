@@ -1,0 +1,1 @@
+{"index": 132078, "D": "the presence of haemoglobin in the urine", "S": [], "A": []}

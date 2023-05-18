@@ -1,0 +1,1 @@
+{"index": 306787, "D": "a person formally engaged in learning, especially one enrolled in a school or college; pupil", "S": ["admission ", "enlistment ", "recruitment "], "A": ["blackballing ", "conclusion ", "disagreement ", "exit ", "refusal ", "rejection "]}

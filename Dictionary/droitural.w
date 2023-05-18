@@ -1,0 +1,1 @@
+{"index": 93246, "D": "pertaining to right of ownership as distinguished from right of possession.", "S": [], "A": []}

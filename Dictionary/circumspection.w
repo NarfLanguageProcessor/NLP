@@ -1,0 +1,1 @@
+{"index": 58238, "D": "circumspect  observation or action; caution; prudence", "S": ["carefulness ", "cautiousness ", "discretion ", "foresight ", "foresightedness ", "forethought ", "precaution ", "prudence ", "vigilance ", "watchfulness "], "A": ["carelessness ", "hindsight ", "ignorance ", "indiscretion ", "thoughtlessness "]}

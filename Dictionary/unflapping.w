@@ -1,0 +1,1 @@
+{"index": 342347, "D": "to swing or sway back and forth loosely, especially with noise", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 39047, "D": "burn2. ", "S": ["ambition ", "aspiration ", "desire ", "determination ", "direction ", "function ", "goal ", "idea ", "intent ", "objective ", "plan ", "principle ", "project ", "reason ", "scheme ", "scope ", "target ", "view ", "wish "], "A": ["dislike ", "hate ", "hatred ", "beginning ", "start "]}

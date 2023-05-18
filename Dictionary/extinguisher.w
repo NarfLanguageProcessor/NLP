@@ -1,0 +1,1 @@
+{"index": 108358, "D": "a person or thing that extinguishes. ", "S": [], "A": []}

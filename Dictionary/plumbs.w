@@ -1,0 +1,1 @@
+{"index": 240415, "D": "Compare plumb line. ", "S": ["erect ", "perpendicular ", "sheer ", "straight ", "upright "], "A": ["dishonest ", "prone "]}

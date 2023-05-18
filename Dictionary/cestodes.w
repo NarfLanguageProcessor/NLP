@@ -1,0 +1,1 @@
+{"index": 51732, "D": "a parasitic platyhelminth or flatworm of the class Cestoda, which comprises the tapeworms.", "S": [], "A": []}

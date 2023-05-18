@@ -1,0 +1,1 @@
+{"index": 293361, "D": "ragged edges trimmed from the fleece of a sheep", "S": ["hem "], "A": ["center ", "inside ", "interior ", "middle "]}

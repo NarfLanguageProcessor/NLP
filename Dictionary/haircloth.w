@@ -1,0 +1,1 @@
+{"index": 132386, "D": "cloth  of hair  from the manes and tails of horses, woven with a cotton warp, and used for interlinings of clothes, upholstery, etc.", "S": [], "A": []}

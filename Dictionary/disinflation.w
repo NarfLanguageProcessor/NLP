@@ -1,0 +1,1 @@
+{"index": 88425, "D": "a period or process of slowing the rate of inflation. ", "S": [], "A": []}
