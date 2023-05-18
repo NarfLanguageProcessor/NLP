@@ -1,0 +1,1 @@
+{"index": 191768, "D": "any aromatic, erect plant belonging to the genus Monarda, of the mint family, native to North America, including horsemint and Oswego tea.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 33817, "D": "a jewel.", "S": ["film ", "movie house ", "movie theater "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 110111, "D": "to attract and hold attentively by a unique power, personal charm, unusual nature, or some other special quality; enthrall", "S": [], "A": []}

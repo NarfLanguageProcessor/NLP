@@ -1,0 +1,1 @@
+{"index": 220140, "D": "exceptional volume or intensity of sound; the fact or quality of being strongly audible", "S": [], "A": []}

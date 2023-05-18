@@ -1,0 +1,1 @@
+{"index": 25909, "D": "a short oblique stroke (\\), a backward slash, used in some computer operating systems to mark the division between a directory and a subdirectory or its folders, as in designating a path.", "S": [], "A": []}

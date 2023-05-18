@@ -1,0 +1,1 @@
+{"index": 341441, "D": "inequitable. ", "S": ["indecent ", "unethical ", "unjust ", "unseemly ", "untoward ", "wrong ", "wrongful "], "A": ["acceptable ", "appropriate ", "decent ", "ethical ", "fair ", "good ", "honest ", "just ", "moral ", "proper ", "right ", "suitable "]}

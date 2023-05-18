@@ -1,0 +1,1 @@
+{"index": 276656, "D": "a clay box in which fragile ceramic wares are placed for protection during firing", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 228692, "D": "to steal or take dishonestly (money, especially public funds, or property entrusted to one's care); embezzle.", "S": ["fraud ", "larceny ", "misappropriation ", "misuse ", "theft "], "A": ["compensation ", "pay ", "reimbursement ", "return "]}

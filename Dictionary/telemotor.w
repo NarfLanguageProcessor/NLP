@@ -1,0 +1,1 @@
+{"index": 318106, "D": "a mechanical, electrical, or hydraulic system by which power is applied at or controlled from a distant point, especially such a system actuating a ship's rudder.", "S": [], "A": []}

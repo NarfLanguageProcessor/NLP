@@ -1,0 +1,1 @@
+{"index": 167888, "D": "a long wooden shaft with a pointed metal head, used as a weapon by knights and cavalry soldiers in charging.", "S": ["bore ", "cut ", "gash ", "gore ", "incise ", "penetrate ", "prick ", "puncture ", "slash ", "slice ", "slit ", "stab "], "A": ["close ", "mend ", "sew "]}

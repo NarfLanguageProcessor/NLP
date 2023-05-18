@@ -1,0 +1,1 @@
+{"index": 102531, "D": "a disorder of the nervous system, characterized either by mild, episodic loss of attention or sleepiness (petit mal ) or by severe convulsions with loss of consciousness (grand mal ).", "S": ["contraction ", "cramp ", "paroxysm ", "seizure ", "tremor "], "A": ["harmony ", "peace "]}

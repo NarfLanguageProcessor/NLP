@@ -1,0 +1,1 @@
+{"index": 10540, "D": "the water-soluble part of a starch granule.", "S": [], "A": []}

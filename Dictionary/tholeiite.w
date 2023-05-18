@@ -1,0 +1,1 @@
+{"index": 322281, "D": "Any of a series of igneous rocks that are similar in composition to basalt, but are richer in silica and iron and poorer in aluminum than basalt is. Tholeiites form especially at mid-ocean ridges and in continental rift areas.", "S": [], "A": []}

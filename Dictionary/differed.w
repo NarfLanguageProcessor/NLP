@@ -1,0 +1,1 @@
+{"index": 85270, "D": "to be unlike, dissimilar, or distinct in nature or qualities (often followed by from)", "S": ["alter ", "conflict with ", "contradict ", "contrast ", "disagree ", "diverge ", "modify ", "vary "], "A": ["accept ", "agree ", "coincide ", "concur ", "remain "]}

@@ -1,0 +1,1 @@
+{"index": 156761, "D": "to present (a person) to another so as to make acquainted.", "S": ["administrator ", "chairperson ", "chairwoman ", "director ", "leader ", "spokesman "], "A": []}

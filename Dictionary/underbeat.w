@@ -1,0 +1,1 @@
+{"index": 338858, "D": "to strike violently or forcefully and repeatedly.", "S": [], "A": []}

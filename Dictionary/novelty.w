@@ -1,0 +1,1 @@
+{"index": 209146, "D": "state or quality of being novel,  new, or unique; newness", "S": ["freshness ", "innovation ", "oddity ", "uniqueness "], "A": ["habit ", "stagnation "]}

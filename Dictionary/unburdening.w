@@ -1,0 +1,1 @@
+{"index": 336314, "D": "to free from a burden. ", "S": ["emptying "], "A": ["assignment ", "damming ", "delegation ", "employment ", "engagement ", "hiring ", "hold ", "imprisonment ", "incarceration ", "indebtedness ", "keep ", "loading ", "owing ", "retention "]}

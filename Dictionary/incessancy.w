@@ -1,0 +1,1 @@
+{"index": 149800, "D": "continuing without interruption; unending; ceaseless", "S": [], "A": []}

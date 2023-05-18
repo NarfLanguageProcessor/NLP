@@ -1,0 +1,1 @@
+{"index": 93390, "D": "any of several insectivorous plants of the genus Drosera, having leaves covered with sticky hairs, comprising the sundews.", "S": [], "A": []}

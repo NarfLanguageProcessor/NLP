@@ -1,0 +1,1 @@
+{"index": 58599, "D": "mention of a soldier or a unit in orders, usually for gallantry", "S": ["quotation "], "A": ["demerit "]}

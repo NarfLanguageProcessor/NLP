@@ -1,0 +1,1 @@
+{"index": 337504, "D": "brought to an end; finished", "S": ["empirical ", "preliminary ", "unproved "], "A": ["proven ", "tested ", "tried "]}

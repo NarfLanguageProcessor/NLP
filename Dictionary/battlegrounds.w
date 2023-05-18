@@ -1,0 +1,1 @@
+{"index": 29145, "D": "the field  or ground on which a battle  is fought.", "S": ["field ", "realm ", "scene ", "sector ", "sphere "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 104675, "D": "a person or thing that estimates", "S": [], "A": []}

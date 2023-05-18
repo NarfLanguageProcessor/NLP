@@ -1,0 +1,1 @@
+{"index": 1911, "D": "loss of the physical awareness of one's body.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 21773, "D": "one of the notes issued as paper currency from 1789 to 1796 by the revolutionary government on the security of confiscated lands.", "S": [], "A": []}

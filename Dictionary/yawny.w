@@ -1,0 +1,1 @@
+{"index": 145888, "D": "emitting or causing yawns", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 121285, "D": "a type of turpentine exuded on the stems of certain species of pine.", "S": [], "A": []}

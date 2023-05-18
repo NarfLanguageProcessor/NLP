@@ -1,0 +1,1 @@
+{"index": 160344, "D": "the doctrinal system of Cornelis Jansen and his followers, denying free will and maintaining that human nature is corrupt and that Christ died for the elect and not for all humanity.", "S": [], "A": []}

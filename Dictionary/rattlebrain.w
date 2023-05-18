@@ -1,0 +1,1 @@
+{"index": 261151, "D": "a giddy, empty-headed, talkative person.", "S": ["airbrain ", "airhead ", "birdbrain ", "dingbat ", "fluffhead ", "ninny ", "silly person ", "space case "], "A": []}

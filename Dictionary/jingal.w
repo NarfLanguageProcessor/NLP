@@ -1,0 +1,1 @@
+{"index": 161281, "D": "a large musket fired from a rest, often mounted on a carriage", "S": [], "A": []}

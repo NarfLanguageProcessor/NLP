@@ -1,0 +1,1 @@
+{"index": 115904, "D": "a sheet of paper folded once to make two leaves, or four pages, of a book or manuscript.", "S": [], "A": []}

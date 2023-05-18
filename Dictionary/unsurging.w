@@ -1,0 +1,1 @@
+{"index": 352485, "D": "a strong, wavelike, forward movement, rush, or sweep", "S": [], "A": []}

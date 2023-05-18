@@ -1,0 +1,1 @@
+{"index": 142807, "D": "the establishment or management of a home;  duties of a homemaker. ", "S": ["housekeeping ", "sewing "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 80992, "D": "to deprive of proper or true nature;  make unnatural.", "S": [], "A": []}

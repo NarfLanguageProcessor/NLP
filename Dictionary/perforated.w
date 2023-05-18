@@ -1,0 +1,1 @@
+{"index": 230655, "D": "pierced with a hole or holes", "S": ["broken ", "cloven ", "cracked ", "crenelated ", "parted ", "pierced ", "rent ", "riven ", "ruptured ", "separated ", "sundered ", "torn "], "A": ["connected ", "fixed ", "whole "]}

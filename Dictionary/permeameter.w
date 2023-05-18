@@ -1,0 +1,1 @@
+{"index": 231584, "D": "an instrument for measuring magnetic permeability. ", "S": [], "A": []}

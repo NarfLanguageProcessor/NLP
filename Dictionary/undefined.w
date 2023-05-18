@@ -1,0 +1,1 @@
+{"index": 338606, "D": "without fixed limits; indefinite in form, extent, or application", "S": ["boundless ", "endless ", "enduring ", "forever ", "limitless ", "perpetual ", "unending ", "vast "], "A": ["bounded ", "clear ", "definite ", "finite ", "limited ", "sure "]}

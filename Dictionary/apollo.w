@@ -1,0 +1,1 @@
+{"index": 17246, "D": "the ancient Greek and Roman god of light, healing, music, poetry, prophecy, and manly beauty; the son of Leto and brother of Artemis.", "S": ["vision "], "A": ["frump ", "schlump "]}

@@ -1,0 +1,1 @@
+{"index": 322791, "D": "to become or affect with a thrombus", "S": [], "A": []}

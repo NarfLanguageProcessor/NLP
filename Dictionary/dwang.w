@@ -1,0 +1,1 @@
+{"index": 94623, "D": "Scot and NZ another name for nogging (def. 1)", "S": [], "A": []}

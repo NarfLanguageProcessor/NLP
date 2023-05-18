@@ -1,0 +1,1 @@
+{"index": 231596, "D": "to pass into or through every part of", "S": [], "A": []}

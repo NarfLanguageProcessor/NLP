@@ -1,0 +1,1 @@
+{"index": 282679, "D": "any disease of the skin characterized by excessive secretion of sebum by the sebaceous glands and its accumulation on the skin surface", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 194123, "D": "a copper and lead vanadate.", "S": [], "A": []}

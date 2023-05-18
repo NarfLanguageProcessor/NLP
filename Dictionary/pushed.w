@@ -1,0 +1,1 @@
+{"index": 257188, "D": "short (of) or in need (of time, money, etc)", "S": ["consumed ", "directed ", "forced ", "galvanized ", "guided ", "herded ", "impelled ", "induced ", "motivated ", "obsessed ", "possessed ", "steered "], "A": []}

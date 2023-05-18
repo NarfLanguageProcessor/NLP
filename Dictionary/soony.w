@@ -1,0 +1,1 @@
+{"index": 297343, "D": "sentimental; emotional.", "S": [], "A": []}

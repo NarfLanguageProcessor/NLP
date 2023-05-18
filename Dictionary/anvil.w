@@ -1,0 +1,1 @@
+{"index": 16549, "D": "a heavy iron block with a smooth face, frequently of steel, on which metals, usually heated until soft, are hammered into desired shapes.", "S": ["farrier ", "horseshoer ", "plover ", "smithy "], "A": []}

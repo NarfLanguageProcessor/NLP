@@ -1,0 +1,1 @@
+{"index": 133314, "D": "made on a handloom; handloomed.", "S": [], "A": []}

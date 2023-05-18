@@ -1,0 +1,1 @@
+{"index": 15662, "D": "the depiction of the physical environment, especially landscape or the rural environment.", "S": [], "A": []}

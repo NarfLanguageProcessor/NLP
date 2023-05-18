@@ -1,0 +1,1 @@
+{"index": 223061, "D": "basaltic lava having a smooth or billowy surface.", "S": [], "A": []}

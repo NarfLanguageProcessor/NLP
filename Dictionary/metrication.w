@@ -1,0 +1,1 @@
+{"index": 185402, "D": "the act, process, or result of establishing the metric system  as the standard system of measurement.", "S": [], "A": []}

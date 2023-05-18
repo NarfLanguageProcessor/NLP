@@ -1,0 +1,1 @@
+{"index": 312256, "D": "the smallest physical unit of an element or compound, consisting of one or more like atoms in an element and two or more different atoms in a compound.", "S": [], "A": []}

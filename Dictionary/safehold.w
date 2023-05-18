@@ -1,0 +1,1 @@
+{"index": 276561, "D": [], "S": ["acropolis ", "alcazar ", "citadel ", "donjon ", "fastness ", "fort ", "fortification ", "fortress ", "hold ", "keep ", "manor ", "mansion ", "palace ", "peel ", "seat ", "stronghold ", "tower ", "villa "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 333454, "D": "to tug or pull at with a quick, short movement; pluck", "S": [], "A": []}

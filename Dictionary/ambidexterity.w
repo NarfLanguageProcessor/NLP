@@ -1,0 +1,1 @@
+{"index": 9976, "D": "ambidextrous  ease, skill, or facility.", "S": ["deceit ", "deception ", "dishonesty ", "disingenuousness ", "double-dealing ", "hypocrisy "], "A": ["forthrightness ", "frankness ", "honesty ", "openness ", "sincerity ", "truth ", "truthfulness ", "uprightness "]}

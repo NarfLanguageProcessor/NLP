@@ -1,0 +1,1 @@
+{"index": 35490, "D": "pertaining to or designating a style of vase painting developed in Greece in the 7th and 6th centuries b.c., chiefly characterized by silhouetted figures painted in black slip on a red clay body, details incised into the design, and a two-dimensional structure of form and space.", "S": [], "A": []}

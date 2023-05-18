@@ -1,0 +1,1 @@
+{"index": 316960, "D": "(in Japanese houses) any of a number of thick, woven straw mats of uniform dimensions, about 3 feet by 6 feet (91 centimeters by 183 centimeters), the placing of which determines the dimensions of an interior.", "S": [], "A": []}

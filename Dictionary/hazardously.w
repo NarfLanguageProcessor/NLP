@@ -1,0 +1,1 @@
+{"index": 134527, "D": "full of risk; perilous; risky", "S": ["alarmingly ", "critically ", "desperately ", "perilously ", "precariously ", "recklessly ", "seriously ", "severely "], "A": ["lightly "]}

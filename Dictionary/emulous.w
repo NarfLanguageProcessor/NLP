@@ -1,0 +1,1 @@
+{"index": 98947, "D": "desirous of equaling or excelling; filled with emulation", "S": ["aspiring ", "competitive ", "rivalrous "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 344923, "D": "characterized byyouth;  young.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 69840, "D": "of, pertaining to, resembling, or consisting of cortex. ", "S": [], "A": []}

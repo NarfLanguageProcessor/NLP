@@ -1,0 +1,1 @@
+{"index": 322477, "D": "lacking in consideration for others; inconsiderate; tactless", "S": ["foolishly ", "impulsively ", "passionately ", "recklessly "], "A": ["carefully ", "cautiously ", "considerately ", "purposely ", "reasonably ", "sensibly "]}

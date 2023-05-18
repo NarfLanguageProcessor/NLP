@@ -1,0 +1,1 @@
+{"index": 275291, "D": "a red variety of ocher, used for marking sheep, coloring, etc.", "S": ["bloody ", "color ", "crimson ", "dye ", "flush ", "glow ", "incarnadine ", "mantle ", "paint ", "pink ", "rose ", "rouge ", "rubify ", "rubric ", "rubricate ", "rust ", "suffuse ", "tint "], "A": ["pale ", "whiten "]}

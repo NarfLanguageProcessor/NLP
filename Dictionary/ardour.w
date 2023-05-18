@@ -1,0 +1,1 @@
+{"index": 19287, "D": "feelings of great intensity and warmth; fervour", "S": [], "A": []}

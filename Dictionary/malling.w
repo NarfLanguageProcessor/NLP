@@ -1,0 +1,1 @@
+{"index": 178567, "D": "the overbuilding of shopping malls in a region", "S": [], "A": []}

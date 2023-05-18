@@ -1,0 +1,1 @@
+{"index": 340975, "D": "(of food) not having been consumed; leftover", "S": ["extra ", "residual ", "unused "], "A": ["core ", "main ", "principle "]}

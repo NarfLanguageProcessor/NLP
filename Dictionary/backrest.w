@@ -1,0 +1,1 @@
+{"index": 25871, "D": "a support used to rest  one's back. ", "S": [], "A": []}

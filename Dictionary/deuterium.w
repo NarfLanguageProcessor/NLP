@@ -1,0 +1,1 @@
+{"index": 83363, "D": "an isotope of hydrogen, having twice the mass of ordinary hydrogen; heavy hydrogen. Symbols", "S": [], "A": []}

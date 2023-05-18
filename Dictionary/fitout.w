@@ -1,0 +1,1 @@
+{"index": 113541, "D": [], "S": ["arm ", "equip ", "fit ", "gear ", "outfit ", "provide ", "rig ", "supply "], "A": ["take "]}

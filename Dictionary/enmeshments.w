@@ -1,0 +1,1 @@
+{"index": 100716, "D": "to catch, as in a net; entangle", "S": ["embranglement ", "embroilment ", "ensnarement ", "entrapment ", "involvement ", "mesh ", "mix up ", "snare ", "tangle ", "trap "], "A": []}

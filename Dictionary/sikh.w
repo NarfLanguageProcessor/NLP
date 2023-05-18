@@ -1,0 +1,1 @@
+{"index": 290235, "D": "a member of a monotheistic religion, founded in the Punjab about 1500 by the guru Nanak, that refuses to recognize the Hindu caste system or the Brahmanical priesthood and forbids magic, idolatry, and pilgrimages.", "S": [], "A": []}

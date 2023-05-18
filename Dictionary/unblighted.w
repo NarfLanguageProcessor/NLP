@@ -1,0 +1,1 @@
+{"index": 335961, "D": "affected with blight,  a disease or condition characterized by the rapid and extensive discoloration, wilting, and death of plant tissues", "S": ["clean ", "decent ", "fresh ", "good ", "honest ", "true "], "A": ["dishonest ", "evil ", "false ", "fraudulent ", "unreal ", "unsuitable ", "untrustworthy ", "unvirtuous "]}

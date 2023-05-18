@@ -1,0 +1,1 @@
+{"index": 110341, "D": "livestock that has been fattened for market.", "S": [], "A": []}

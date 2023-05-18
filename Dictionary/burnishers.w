@@ -1,0 +1,1 @@
+{"index": 43231, "D": "a person who burnishes.", "S": [], "A": []}

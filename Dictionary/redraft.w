@@ -1,0 +1,1 @@
+{"index": 264393, "D": "a second draft  or drawing.", "S": ["analysis ", "appraisal ", "article ", "assessment ", "column ", "comment ", "commentary ", "criticism ", "discussion ", "essay ", "evaluation ", "inspection ", "investigation ", "judgment ", "notice ", "revision ", "study "], "A": ["ignorance ", "neglect ", "quiet ", "silence "]}

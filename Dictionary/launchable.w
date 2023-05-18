@@ -1,0 +1,1 @@
+{"index": 169151, "D": "to set (a boat or ship) in the water.", "S": [], "A": []}

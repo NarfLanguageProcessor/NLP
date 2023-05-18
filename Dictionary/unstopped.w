@@ -1,0 +1,1 @@
+{"index": 352094, "D": "not obstructed or stopped up", "S": ["blood-soaked ", "bloodstained ", "gory ", "grisly "], "A": ["pleasing ", "closed ", "shut "]}

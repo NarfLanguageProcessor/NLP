@@ -1,0 +1,1 @@
+{"index": 339859, "D": "to spend less than (one can afford or is allocated)", "S": [], "A": []}

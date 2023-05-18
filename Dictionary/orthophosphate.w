@@ -1,0 +1,1 @@
+{"index": 215102, "D": "a salt or ester of orthophosphoric acid, or any compound containing the trivalent group \u2212PO4.", "S": [], "A": []}

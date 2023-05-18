@@ -1,0 +1,1 @@
+{"index": 104009, "D": "serving as a substitute; synthetic; artificial", "S": ["counterfeit ", "fake ", "imitation ", "phony ", "sham ", "substitute ", "synthetic "], "A": ["genuine ", "real ", "true "]}

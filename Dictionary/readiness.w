@@ -1,0 +1,1 @@
+{"index": 261595, "D": "the condition of being ready. ", "S": ["fitness ", "good will ", "keenness ", "preparation ", "preparedness ", "willingness "], "A": ["difficulty ", "dullness ", "inability ", "slowing ", "slowness "]}

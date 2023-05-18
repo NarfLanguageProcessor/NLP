@@ -1,0 +1,1 @@
+{"index": 92807, "D": "an early handloom  used for producing figured fabrics.", "S": [], "A": []}

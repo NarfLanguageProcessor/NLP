@@ -1,0 +1,1 @@
+{"index": 244534, "D": "to ask, demand, or claim.", "S": [], "A": []}

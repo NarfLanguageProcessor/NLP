@@ -1,0 +1,1 @@
+{"index": 245036, "D": "a large gathering organized by Native Americans for socializing, dancing, singing, and celebrating their culture.", "S": ["confab ", "parley "], "A": ["quiet "]}

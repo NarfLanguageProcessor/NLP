@@ -1,0 +1,1 @@
+{"index": 187256, "D": "a weak or ineffectual person.", "S": ["absorb ", "bribe ", "dip ", "douse ", "dunk ", "milksop ", "saturate ", "soak ", "steep ", "weakling ", "wet "], "A": ["dehydrate ", "dry "]}

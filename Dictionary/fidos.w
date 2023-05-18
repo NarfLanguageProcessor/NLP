@@ -1,0 +1,1 @@
+{"index": 112302, "D": "a system for evaporating the fog above airfield runways by the heat from burners.", "S": [], "A": []}

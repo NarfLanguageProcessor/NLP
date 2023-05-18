@@ -1,0 +1,1 @@
+{"index": 364781, "D": "of, relating to, or characteristic of Whigs or Whiggism.", "S": [], "A": []}

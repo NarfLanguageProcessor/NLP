@@ -1,0 +1,1 @@
+{"index": 5461, "D": "to convert (bare or cultivated land) into forest, originally for the purpose of providing hunting grounds.", "S": [], "A": []}

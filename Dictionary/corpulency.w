@@ -1,0 +1,1 @@
+{"index": 69564, "D": "bulkiness or largeness of body; fatness; portliness.", "S": [], "A": []}

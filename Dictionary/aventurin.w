@@ -1,0 +1,1 @@
+{"index": 24662, "D": "an opaque, brown glass containing fine, gold-colored particles.", "S": [], "A": []}

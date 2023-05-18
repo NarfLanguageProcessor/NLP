@@ -1,0 +1,1 @@
+{"index": 117200, "D": "a simple past tense of forget. ", "S": [], "A": []}

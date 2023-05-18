@@ -1,0 +1,1 @@
+{"index": 124207, "D": "to make or become German  in character, sentiment, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 154291, "D": "a person or thing that conveys information.", "S": ["bearer ", "carrier ", "dispatcher ", "emissary ", "envoy ", "express ", "go-between ", "gofer ", "gopher ", "herald ", "internuncio ", "runner "], "A": ["receiver ", "sender "]}

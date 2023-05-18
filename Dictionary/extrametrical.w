@@ -1,0 +1,1 @@
+{"index": 108537, "D": "containing one or more syllables in addition to those required by the meter", "S": [], "A": []}

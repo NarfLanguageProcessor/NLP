@@ -1,0 +1,1 @@
+{"index": 35816, "D": "the blastula that forms as a flattened sphere on top of the yolk in the yolk-laden eggs of birds and reptiles.", "S": [], "A": []}

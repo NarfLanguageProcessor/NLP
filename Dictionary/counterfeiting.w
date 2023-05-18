@@ -1,0 +1,1 @@
+{"index": 70807, "D": "made in imitation so as to be passed off fraudulently or deceptively as genuine; not genuine; forged", "S": ["duplication ", "reproduction ", "simulation "], "A": []}

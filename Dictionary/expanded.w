@@ -1,0 +1,1 @@
+{"index": 107546, "D": "increased in area, bulk, or volume; enlarged", "S": ["broadcast ", "circulated ", "diluted ", "dispersed ", "disseminated ", "distributed ", "extended ", "general ", "propagated ", "radiated ", "scattered ", "separated ", "strewn ", "thin "], "A": ["concentrated ", "condensed "]}

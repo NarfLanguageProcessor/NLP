@@ -1,0 +1,1 @@
+{"index": 261009, "D": "growing, blooming, or ripening early in the year or season.", "S": [], "A": []}

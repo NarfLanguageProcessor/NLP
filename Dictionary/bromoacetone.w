@@ -1,0 +1,1 @@
+{"index": 41299, "D": "a colorless and highly toxic liquid, CH2BrCOCH3, used as a lachrymatory compound in tear gas and chemical warfare gas.", "S": [], "A": []}

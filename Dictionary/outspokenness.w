@@ -1,0 +1,1 @@
+{"index": 217566, "D": "uttered or expressed with frankness or without reserve", "S": ["directness ", "fairness ", "frankness ", "honesty ", "probity ", "simplicity ", "sincerity ", "truthfulness "], "A": ["deceit ", "dishonesty ", "lying ", "unfairness "]}

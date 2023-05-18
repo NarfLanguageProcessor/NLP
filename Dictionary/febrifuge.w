@@ -1,0 +1,1 @@
+{"index": 110734, "D": "serving to dispel or reduce fever, as a medicine.", "S": [], "A": []}

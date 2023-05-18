@@ -1,0 +1,1 @@
+{"index": 349600, "D": "to serve to express, designate, stand for, or denote, as a word, symbol, or the like does; symbolize", "S": [], "A": []}

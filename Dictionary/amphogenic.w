@@ -1,0 +1,1 @@
+{"index": 11277, "D": "producing both male and female offspring.", "S": [], "A": []}

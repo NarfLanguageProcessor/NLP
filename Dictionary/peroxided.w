@@ -1,0 +1,1 @@
+{"index": 231748, "D": "the oxide  of an element that contains an unusually large amount of oxygen.", "S": ["lighten "], "A": ["blacken ", "darken ", "yellow "]}

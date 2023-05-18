@@ -1,0 +1,1 @@
+{"index": 257210, "D": "a rod  in an overhead-valve engine that is part of the linkage used to open and close the valves.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 366925, "D": "a mineral, iron manganese tungstate, (Fe,Mn)WO4, occurring in heavy grayish-black to brownish-black tabular or bladed crystals", "S": [], "A": []}

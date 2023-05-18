@@ -1,0 +1,1 @@
+{"index": 174434, "D": "of or relating to Locris, an ancient region of central Greece, or its inhabitants", "S": [], "A": []}

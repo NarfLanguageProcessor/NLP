@@ -1,0 +1,1 @@
+{"index": 41764, "D": "a meal that serves as both breakfast  and lunch. ", "S": [], "A": []}

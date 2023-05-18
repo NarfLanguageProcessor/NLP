@@ -1,0 +1,1 @@
+{"index": 107701, "D": "cost or charge", "S": [], "A": []}

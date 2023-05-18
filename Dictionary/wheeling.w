@@ -1,0 +1,1 @@
+{"index": 364536, "D": "the act of a person who moves, travels, conveys, etc., on or as on wheels,  especially cycling.", "S": ["involution ", "rotation ", "volution "], "A": []}

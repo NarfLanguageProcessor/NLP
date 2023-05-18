@@ -1,0 +1,1 @@
+{"index": 137635, "D": "of different origin; pertaining to heterology. ", "S": [], "A": []}

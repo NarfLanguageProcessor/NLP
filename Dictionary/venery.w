@@ -1,0 +1,1 @@
+{"index": 358042, "D": "the gratification of sexual desire.", "S": ["hunt ", "quest ", "race "], "A": ["escape ", "retreat "]}

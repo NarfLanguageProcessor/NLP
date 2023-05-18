@@ -1,0 +1,1 @@
+{"index": 143656, "D": "to cry out or shout, especially in disapproval or derision.", "S": [], "A": []}

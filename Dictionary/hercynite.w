@@ -1,0 +1,1 @@
+{"index": 136960, "D": "a black oxide mineral, FeAl2O4, of the spinel group.", "S": [], "A": []}

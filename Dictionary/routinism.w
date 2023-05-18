@@ -1,0 +1,1 @@
+{"index": 274967, "D": "adherence to routine. ", "S": [], "A": []}

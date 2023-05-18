@@ -1,0 +1,1 @@
+{"index": 352553, "D": "pertaining to, characteristic of, or behaving in the manner of a person who swaggers. ", "S": [], "A": []}

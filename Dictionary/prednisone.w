@@ -1,0 +1,1 @@
+{"index": 247118, "D": "an analogue of cortisone, C21H26O5, used as an anti-inflammatory, immunosuppressive, and antineoplastic in the treatment of various diseases.", "S": [], "A": []}

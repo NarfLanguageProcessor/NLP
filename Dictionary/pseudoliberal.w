@@ -1,0 +1,1 @@
+{"index": 254855, "D": "favorable to progress or reform, as in political or religious affairs.", "S": [], "A": []}

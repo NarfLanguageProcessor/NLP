@@ -1,0 +1,1 @@
+{"index": 318887, "D": "of, relating to, or characteristic of the state of Tennessee  or its inhabitants.", "S": [], "A": []}

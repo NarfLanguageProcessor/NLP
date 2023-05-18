@@ -1,0 +1,1 @@
+{"index": 108787, "D": "the state of being exuberant. ", "S": ["buoyancy ", "elation ", "exuberance ", "gaiety ", "liveliness "], "A": ["depression ", "sadness ", "unhappiness ", "apathy ", "calm ", "discouragement ", "dullness ", "lethargy ", "peace "]}

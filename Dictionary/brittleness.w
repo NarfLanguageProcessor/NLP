@@ -1,0 +1,1 @@
+{"index": 41017, "D": "the quality of being brittle", "S": ["frailty "], "A": []}

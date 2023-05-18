@@ -1,0 +1,1 @@
+{"index": 89133, "D": "an act or instance of disposing;  arrangement", "S": ["clearance ", "demolition ", "destruction ", "disposition ", "dumping ", "removal ", "transfer "], "A": ["building ", "construction "]}

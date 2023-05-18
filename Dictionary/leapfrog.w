@@ -1,0 +1,1 @@
+{"index": 169644, "D": "a game in which players take turns in leaping  over another player bent over from the waist.", "S": ["bounce ", "dive ", "drop ", "fall ", "hurdle ", "plunge ", "rise ", "upsurge ", "vault "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 209006, "D": "one of the herbivorous, hoofed mammals of the extinct order Notoungulata, best known from the Paleocene to the Pleistocene Epochs of South America.", "S": [], "A": []}

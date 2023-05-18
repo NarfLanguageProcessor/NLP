@@ -1,0 +1,1 @@
+{"index": 86790, "D": "a book containing an alphabetical index of the names and addresses of persons in a city, district, organization, etc., or of a particular category of people.", "S": ["almanac ", "catalogue ", "list ", "yellow pages "], "A": []}

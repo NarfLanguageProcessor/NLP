@@ -1,0 +1,1 @@
+{"index": 302028, "D": "a landowner of a small estate.", "S": [], "A": []}

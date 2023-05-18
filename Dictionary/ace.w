@@ -1,0 +1,1 @@
+{"index": 1886, "D": "a playing card or die marked with or having the value indicated by a single spot", "S": ["champion ", "distinguished ", "expert ", "great ", "master ", "virtuoso "], "A": ["amateur ", "unskilled "]}

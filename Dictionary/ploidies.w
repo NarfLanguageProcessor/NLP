@@ -1,0 +1,1 @@
+{"index": 240179, "D": "the number of homologous chromosome sets present in a cell or organism.", "S": [], "A": []}

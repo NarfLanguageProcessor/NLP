@@ -1,0 +1,1 @@
+{"index": 148145, "D": "any of various techniques for detecting an antigen or antibody in a sample by coupling its specifically interactive antibody or antigen to a fluorescent compound, mixing with the sample, and observing the reaction under an ultraviolet-light microscope.", "S": [], "A": []}

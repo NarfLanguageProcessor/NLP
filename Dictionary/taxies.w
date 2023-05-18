@@ -1,0 +1,1 @@
+{"index": 317319, "D": "a taxicab. ", "S": ["auto ", "bus ", "convertible ", "limousine ", "passenger car ", "pickup truck ", "sports car ", "station wagon ", "taxi ", "transportation ", "truck ", "van "], "A": []}

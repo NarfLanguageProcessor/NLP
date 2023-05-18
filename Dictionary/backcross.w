@@ -1,0 +1,1 @@
+{"index": 25759, "D": "to cross  (a hybrid of the first generation) with either of its parents.", "S": [], "A": []}

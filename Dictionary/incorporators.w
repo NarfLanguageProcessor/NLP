@@ -1,0 +1,1 @@
+{"index": 150374, "D": "one of the signers of the articles or certificate of legal incorporation. ", "S": [], "A": []}

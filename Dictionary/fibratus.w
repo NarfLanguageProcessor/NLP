@@ -1,0 +1,1 @@
+{"index": 111981, "D": "(of a cloud) hairlike or striated in composition.", "S": [], "A": []}

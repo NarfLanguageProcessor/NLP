@@ -1,0 +1,1 @@
+{"index": 20916, "D": "the state of being in the ascendant;  governing or controlling influence; domination. ", "S": ["dominance ", "predominance "], "A": ["disadvantage ", "inferiority ", "powerlessness ", "subordination ", "subservience ", "weakness "]}

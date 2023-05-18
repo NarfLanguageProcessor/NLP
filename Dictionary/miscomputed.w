@@ -1,0 +1,1 @@
+{"index": 188969, "D": "to determine by calculation; reckon; calculate", "S": ["bobble ", "bumble ", "bungle ", "err ", "flub ", "fumble ", "miscalculate ", "mishandle ", "misjudge ", "mismanage ", "muff ", "screw up "], "A": ["do well ", "succeed ", "break ", "build ", "create ", "grow ", "help ", "repair "]}

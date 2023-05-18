@@ -1,0 +1,1 @@
+{"index": 206142, "D": "(of drugs, medication, etc.) legally available for purchase without a doctor's prescription;  over-the-counter.", "S": [], "A": []}

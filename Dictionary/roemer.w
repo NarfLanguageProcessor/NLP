@@ -1,0 +1,1 @@
+{"index": 273793, "D": "a German wineglass having a body with a globular top and a cylindrical bottom often decorated with prunts, supported by a conical foot.", "S": [], "A": []}

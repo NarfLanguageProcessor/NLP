@@ -1,0 +1,1 @@
+{"index": 341781, "D": "(of a situation, sensation, fact, etc) not having been undergone or known by experience", "S": ["basic ", "direct ", "honest ", "natural ", "plain "], "A": ["abnormal ", "devious ", "dishonest ", "uncommon "]}

@@ -1,0 +1,1 @@
+{"index": 43288, "D": "a small donkey, especially one used as a pack animal in the southwestern U.S.", "S": ["mule "], "A": []}

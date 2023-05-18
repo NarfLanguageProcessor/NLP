@@ -1,0 +1,1 @@
+{"index": 208269, "D": "a success or triumph over an enemy in battle or war.", "S": [], "A": []}

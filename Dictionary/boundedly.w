@@ -1,0 +1,1 @@
+{"index": 38969, "D": "having bounds or limits.", "S": [], "A": []}

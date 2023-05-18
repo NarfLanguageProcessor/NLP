@@ -1,0 +1,1 @@
+{"index": 253509, "D": "an expression or declaration of objection, disapproval, or dissent, often in opposition to something a person is powerless to prevent or avoid", "S": ["grumbling ", "whining "], "A": ["appreciating ", "enjoying ", "praising "]}

@@ -1,0 +1,1 @@
+{"index": 285502, "D": "an attitude toward something; regard; opinion. ", "S": [], "A": []}

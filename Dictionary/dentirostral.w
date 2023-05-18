@@ -1,0 +1,1 @@
+{"index": 81333, "D": "having a toothlike projection on the cutting edge of the bill, as falcons and shrikes.", "S": [], "A": []}

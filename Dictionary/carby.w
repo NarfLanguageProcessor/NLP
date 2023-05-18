@@ -1,0 +1,1 @@
+{"index": 47439, "D": "Australian informal short for carburettor", "S": [], "A": []}

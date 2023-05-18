@@ -1,0 +1,1 @@
+{"index": 138653, "D": "the production of high-octane aromatic compounds for motor fuels by catalytic reforming  of naphthas in the presence of hydrogen.", "S": [], "A": []}

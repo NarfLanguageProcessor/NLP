@@ -1,0 +1,1 @@
+{"index": 31816, "D": "a reddish-brown, aromatic balsamic resin occurring in almondlike fragments and having a vanillalike odor, obtained from trees of the genus Styrax, especially S. benzoin, of Java, Sumatra, etc.", "S": [], "A": []}

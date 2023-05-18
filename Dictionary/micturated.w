@@ -1,0 +1,1 @@
+{"index": 186657, "D": "to pass urine; urinate.", "S": ["pee "], "A": []}

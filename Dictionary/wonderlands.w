@@ -1,0 +1,1 @@
+{"index": 367042, "D": "a land of wonders  or marvels.", "S": ["Promised Land ", "immortality ", "nirvana ", "paradise "], "A": ["hell ", "misery ", "sorrow ", "unhappiness "]}

@@ -1,0 +1,1 @@
+{"index": 291228, "D": "a peninsula in northeastern Egypt, at the northern end of the Red Sea between the Gulfs of Suez and Aqaba. 230 miles (370 km) long.", "S": [], "A": []}

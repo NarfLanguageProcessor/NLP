@@ -1,0 +1,1 @@
+{"index": 369498, "D": "a sudden, brief hissing sound, as of a bullet.", "S": ["oomph ", "pep ", "sparkle ", "verve ", "vigor "], "A": ["inactivity ", "lethargy ", "apathy "]}

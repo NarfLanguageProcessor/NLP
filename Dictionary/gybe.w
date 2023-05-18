@@ -1,0 +1,1 @@
+{"index": 124688, "D": "(of a fore-and-aft sail) to shift suddenly from one side of the vessel to the other when running before the wind, as the result of allowing the wind to catch the leech", "S": [], "A": []}

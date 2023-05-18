@@ -1,0 +1,1 @@
+{"index": 66690, "D": "compulsory enrollment of persons for military or naval service; draft.", "S": ["enrollment ", "induction "], "A": []}

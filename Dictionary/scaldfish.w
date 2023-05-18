@@ -1,0 +1,1 @@
+{"index": 279389, "D": "a small European flatfish, Arnoglossus laterna, covered with large fragile scales", "S": [], "A": []}

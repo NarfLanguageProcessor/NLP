@@ -1,0 +1,1 @@
+{"index": 267277, "D": "one of the flight feathers of the wing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256952, "D": "resembling pus; purulent.", "S": [], "A": []}

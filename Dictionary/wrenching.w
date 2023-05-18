@@ -1,0 +1,1 @@
+{"index": 367919, "D": "to twist suddenly and forcibly; pull, jerk, or force by a violent twist", "S": ["eradication "], "A": ["addition ", "insertion ", "introduction "]}

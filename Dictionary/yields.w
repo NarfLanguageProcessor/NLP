@@ -1,0 +1,1 @@
+{"index": 147144, "D": "to give forth or produce by a natural process or in return for cultivation", "S": ["crop ", "earnings ", "harvest ", "income ", "output ", "profit ", "return ", "revenue ", "turnout "], "A": ["bills ", "debt ", "payment "]}

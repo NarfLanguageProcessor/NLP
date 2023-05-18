@@ -1,0 +1,1 @@
+{"index": 118, "D": [], "S": ["degradation ", "dishonor ", "downgrade ", "humiliation ", "shame "], "A": ["elevation ", "honor ", "upgrade "]}

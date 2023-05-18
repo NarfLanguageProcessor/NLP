@@ -1,0 +1,1 @@
+{"index": 353021, "D": "up to the time of; until", "S": ["arid ", "desolate ", "lonely ", "uninhabited "], "A": ["inhabited ", "populated "]}

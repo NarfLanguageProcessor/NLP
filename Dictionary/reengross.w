@@ -1,0 +1,1 @@
+{"index": 264733, "D": "to occupy completely, as the mind or attention; absorb", "S": [], "A": []}

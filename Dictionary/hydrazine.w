@@ -1,0 +1,1 @@
+{"index": 138470, "D": "a colorless, oily, fuming liquid, N2H4, that is a weak base in solution and forms a large number of salts resembling ammonium salts", "S": [], "A": []}

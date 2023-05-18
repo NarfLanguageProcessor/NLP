@@ -1,0 +1,1 @@
+{"index": 285716, "D": "pertaining to or of the nature of sepsis;  infected.", "S": [], "A": []}

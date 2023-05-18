@@ -1,0 +1,1 @@
+{"index": 39177, "D": "a carnivorous ganoid fish, Amia calva, found in sluggish fresh waters of eastern North America.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 343481, "D": "a gift or token for good luck or as an expression of good wishes, as at the beginning of the new year or when entering upon a new situation or enterprise.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 265890, "D": "of or relating to the control or direction of an activity by a set of rules, laws, etc.", "S": ["bureaucratic ", "departmental ", "governmental ", "legislative ", "managerial ", "organizational ", "policy-making ", "regulatory ", "supervisory "], "A": []}

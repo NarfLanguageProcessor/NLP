@@ -1,0 +1,1 @@
+{"index": 300676, "D": "in relation to, away from, or toward a center, as the spokes  on a wheel", "S": [], "A": []}

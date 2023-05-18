@@ -1,0 +1,1 @@
+{"index": 324449, "D": "to exercise absolute power or control, especially cruelly or oppressively (often followed by over).", "S": [], "A": []}

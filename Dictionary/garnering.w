@@ -1,0 +1,1 @@
+{"index": 122206, "D": "to gather or deposit in or as if in a granary or other storage place.", "S": ["assortment ", "collection "], "A": []}

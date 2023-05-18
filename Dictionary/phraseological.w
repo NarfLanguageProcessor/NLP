@@ -1,0 +1,1 @@
+{"index": 235511, "D": "manner or style of verbal expression; characteristic language", "S": [], "A": []}

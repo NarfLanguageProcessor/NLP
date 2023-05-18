@@ -1,0 +1,1 @@
+{"index": 200207, "D": [], "S": ["carp ", "complain ", "fret ", "gripe ", "grumble "], "A": ["be happy ", "compliment ", "dislike ", "hate ", "praise "]}

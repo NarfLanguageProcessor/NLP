@@ -1,0 +1,1 @@
+{"index": 325038, "D": "touchy or restive; apprehensive; fractious.", "S": [], "A": []}

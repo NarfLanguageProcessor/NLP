@@ -1,0 +1,1 @@
+{"index": 68611, "D": "a plate  of polished copper  on which a writing, picture, or design is made by engraving or etching.", "S": [], "A": []}

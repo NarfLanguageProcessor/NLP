@@ -1,0 +1,1 @@
+{"index": 311313, "D": "to add over and above; join as a further addition; add besides.", "S": [], "A": []}

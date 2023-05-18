@@ -1,0 +1,1 @@
+{"index": 202609, "D": "any echinoderm of the class Crinoidea, having a cup-shaped body to which are attached branched, radiating arms, comprising the sea lilies, feather stars, and various fossil forms.", "S": [], "A": []}

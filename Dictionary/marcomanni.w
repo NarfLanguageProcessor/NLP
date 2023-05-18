@@ -1,0 +1,1 @@
+{"index": 179927, "D": "an ancient Germanic people who lived in central Europe.", "S": [], "A": []}

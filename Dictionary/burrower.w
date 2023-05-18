@@ -1,0 +1,1 @@
+{"index": 43296, "D": "a hole or tunnel in the ground made by a rabbit, fox, or similar animal for habitation and refuge.", "S": [], "A": []}

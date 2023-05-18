@@ -1,0 +1,1 @@
+{"index": 317462, "D": "a restaurant or other establishment, especially in East Asia, where tea  and refreshments are served.", "S": [], "A": []}

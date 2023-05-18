@@ -1,0 +1,1 @@
+{"index": 328590, "D": "to go from one place to another, as by car, train, plane, or ship; take a trip; journey", "S": ["carried ", "conveyed ", "freighted ", "mobile ", "moving ", "passing ", "shipped "], "A": ["fixed ", "immobile ", "permanent ", "stationary "]}

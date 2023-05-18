@@ -1,0 +1,1 @@
+{"index": 328774, "D": "any of numerous homopterous jumping insects of the family Membracidae, that have an enlarged prothorax and feed on the juices of plants, often injuring the plants.", "S": [], "A": []}

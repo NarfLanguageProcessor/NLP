@@ -1,0 +1,1 @@
+{"index": 315980, "D": "of or relating to the tanagers; belonging to the tanager family.", "S": [], "A": []}

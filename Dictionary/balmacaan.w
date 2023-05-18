@@ -1,0 +1,1 @@
+{"index": 27069, "D": "a loose-fitting, somewhat flared, single-breasted overcoat, often of tweed and having raglan sleeves, originally worn by men.", "S": [], "A": []}

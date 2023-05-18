@@ -1,0 +1,1 @@
+{"index": 64529, "D": "a host, master of ceremonies, or the like, especially of a stage revue or television program.", "S": [], "A": []}

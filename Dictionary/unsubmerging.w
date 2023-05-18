@@ -1,0 +1,1 @@
+{"index": 352253, "D": "to put or sink below the surface of water or any other enveloping medium.", "S": [], "A": []}

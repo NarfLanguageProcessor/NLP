@@ -1,0 +1,1 @@
+{"index": 332760, "D": "a member of a Turkish people consisting of a group of tribes that inhabit the region near the Aral Sea and parts of Iran and Afghanistan.", "S": [], "A": []}

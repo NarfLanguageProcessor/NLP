@@ -1,0 +1,1 @@
+{"index": 185048, "D": "to cause to undergo or undergo metathesis. ", "S": [], "A": []}

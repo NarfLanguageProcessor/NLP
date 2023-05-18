@@ -1,0 +1,1 @@
+{"index": 8324, "D": "having the toes connected by a winglike membrane, as a bat.", "S": [], "A": []}

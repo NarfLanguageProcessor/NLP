@@ -1,0 +1,1 @@
+{"index": 126796, "D": "to look or stare with sullen dislike, discontent, or anger.", "S": ["ominous "], "A": ["apparent ", "bright ", "brilliant ", "cheerful ", "distinct ", "encouraging ", "evident ", "good ", "happy ", "hopeful ", "illuminated ", "light ", "lucid ", "luminous ", "manifest ", "moral ", "plain ", "pleased ", "radiant ", "shining ", "visible ", "vivid "]}

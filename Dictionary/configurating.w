@@ -1,0 +1,1 @@
+{"index": 65903, "D": "to give a configuration, form, or design to.", "S": ["banding ", "bordering ", "bounding ", "circumscribing ", "delimiting ", "girdling ", "marking ", "zoning "], "A": []}

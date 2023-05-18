@@ -1,0 +1,1 @@
+{"index": 132917, "D": "a small triangular cake often made with yeast and filled with a mixture of poppy seeds and honey or with prune paste, prepared especially for the festival of Purim.", "S": [], "A": []}

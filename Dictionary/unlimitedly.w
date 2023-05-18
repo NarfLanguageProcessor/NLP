@@ -1,0 +1,1 @@
+{"index": 345642, "D": "not limited;  unrestricted; unconfined", "S": ["at length ", "continuously ", "endlessly ", "forever ", "having no end ", "in perpetuity ", "interminably ", "never-ending ", "on and on ", "perpetually ", "relentlessly ", "without end ", "without limit "], "A": []}

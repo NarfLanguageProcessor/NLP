@@ -1,0 +1,1 @@
+{"index": 53930, "D": "any piece used in the game of chess.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 12893, "D": "to make or become English in form or character", "S": [], "A": []}

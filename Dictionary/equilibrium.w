@@ -1,0 +1,1 @@
+{"index": 103288, "D": "a state of rest or balance due to the equal action of opposing forces.", "S": ["calmness ", "composure ", "serenity ", "stability ", "symmetry "], "A": ["agitation ", "excitement "]}

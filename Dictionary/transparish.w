@@ -1,0 +1,1 @@
+{"index": 328193, "D": "an ecclesiastical district having its own church and member of the clergy.", "S": [], "A": []}

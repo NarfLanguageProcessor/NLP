@@ -1,0 +1,1 @@
+{"index": 294669, "D": "smart, brisk, or strong, as a breeze.", "S": [], "A": []}

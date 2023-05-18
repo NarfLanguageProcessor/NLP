@@ -1,0 +1,1 @@
+{"index": 209313, "D": "having a nucleus. ", "S": [], "A": []}

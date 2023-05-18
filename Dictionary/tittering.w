@@ -1,0 +1,1 @@
+{"index": 324777, "D": "to laugh in a restrained, self-conscious, or affected way, as from nervousness or in ill-suppressed amusement.", "S": ["cackle ", "chortle ", "chuckle ", "guffaw ", "hee-haw ", "snicker ", "snigger ", "twitter "], "A": []}

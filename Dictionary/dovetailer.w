@@ -1,0 +1,1 @@
+{"index": 92137, "D": "a tenon broader at its end than at its base; pin.", "S": [], "A": []}

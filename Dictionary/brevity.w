@@ -1,0 +1,1 @@
+{"index": 40516, "D": "shortness of time or duration; briefness", "S": ["conciseness ", "concision ", "condensation ", "crispness ", "curtness ", "economy ", "ephemerality ", "impermanence ", "pithiness ", "pointedness ", "succinctness ", "terseness ", "transience ", "transitoriness "], "A": ["lengthiness ", "longevity ", "permanence "]}

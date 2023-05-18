@@ -1,0 +1,1 @@
+{"index": 265762, "D": "any process or change taking place through a series of stages, by degrees, or in a gradual manner.", "S": [], "A": []}

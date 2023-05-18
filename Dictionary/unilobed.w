@@ -1,0 +1,1 @@
+{"index": 344222, "D": "having or consisting of a single lobe, especially of the maxilla of an insect.", "S": [], "A": []}

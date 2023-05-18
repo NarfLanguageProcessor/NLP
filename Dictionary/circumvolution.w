@@ -1,0 +1,1 @@
+{"index": 58292, "D": "the act of rolling or turning around", "S": ["circulation ", "convolution ", "gyration ", "rotation ", "turn ", "whirl "], "A": []}

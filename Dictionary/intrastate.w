@@ -1,0 +1,1 @@
+{"index": 156656, "D": "existing or occurring within the boundaries of a state,  especially of the United States", "S": [], "A": []}

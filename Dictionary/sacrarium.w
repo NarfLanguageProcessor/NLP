@@ -1,0 +1,1 @@
+{"index": 276353, "D": "a piscina.", "S": ["altar ", "chancel ", "holy place ", "sanctorium ", "sanctum ", "shrine ", "temple "], "A": []}

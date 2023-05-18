@@ -1,0 +1,1 @@
+{"index": 3731, "D": "inflammation of the adenoid  tissue.", "S": [], "A": []}

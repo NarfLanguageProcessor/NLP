@@ -1,0 +1,1 @@
+{"index": 198212, "D": "any worm of the phylum Nemathelminthes (now usually broken up into several phyla), including the nematodes and hairworms, having an elongated, unsegmented, cylindrical body.", "S": [], "A": []}

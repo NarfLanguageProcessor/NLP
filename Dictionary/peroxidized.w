@@ -1,0 +1,1 @@
+{"index": 231754, "D": "to convert into a peroxide,  especially of the highest oxidation potential.", "S": [], "A": []}

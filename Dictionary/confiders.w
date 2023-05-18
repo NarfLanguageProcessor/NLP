@@ -1,0 +1,1 @@
+{"index": 65894, "D": "to impart secrets trustfully; discuss private matters or problems (usually followed by in)", "S": [], "A": []}

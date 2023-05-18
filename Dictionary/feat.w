@@ -1,0 +1,1 @@
+{"index": 110640, "D": "a noteworthy or extraordinary act or achievement, usually displaying boldness, skill, etc.", "S": ["accomplishment ", "adventure ", "deed ", "exploit ", "performance ", "stunt ", "triumph ", "victory "], "A": ["inactivity "]}

@@ -1,0 +1,1 @@
+{"index": 105948, "D": "the wife of Capaneus who threw herself on his funeral pyre.", "S": [], "A": []}

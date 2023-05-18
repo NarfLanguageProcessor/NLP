@@ -1,0 +1,1 @@
+{"index": 144176, "D": "a person, esp a member of certain religious orders, dedicated to hospital work, ambulance services, etc", "S": [], "A": []}

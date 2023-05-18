@@ -1,0 +1,1 @@
+{"index": 156106, "D": "having the form or shape of a tube;  tubiform.", "S": [], "A": []}

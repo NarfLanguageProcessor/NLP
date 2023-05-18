@@ -1,0 +1,1 @@
+{"index": 57372, "D": "a garment of haircloth  formerly worn by monks; a hair shirt.", "S": [], "A": []}

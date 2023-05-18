@@ -1,0 +1,1 @@
+{"index": 14560, "D": "a branch of anthropology dealing with the geographical distribution of humankind and the relationship between human beings and their environment.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303897, "D": "the art of delineating the forms of solid bodies on a plane.", "S": [], "A": []}

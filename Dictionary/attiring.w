@@ -1,0 +1,1 @@
+{"index": 23098, "D": "to dress, array, or adorn, especially for special occasions, ceremonials, etc.", "S": ["deck out "], "A": ["bare ", "disrobe ", "unclothe "]}

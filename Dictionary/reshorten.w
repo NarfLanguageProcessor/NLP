@@ -1,0 +1,1 @@
+{"index": 269324, "D": "to make short  or shorter. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 299213, "D": [], "S": ["impregnate ", "inseminate ", "procreate "], "A": []}

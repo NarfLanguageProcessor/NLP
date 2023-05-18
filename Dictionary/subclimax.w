@@ -1,0 +1,1 @@
+{"index": 307477, "D": "the development of an ecological community to a stage short of the expected climax  because of some factor, as repeated fires in a forest, that arrests the normal succession.", "S": [], "A": []}

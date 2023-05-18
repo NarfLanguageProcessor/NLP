@@ -1,0 +1,1 @@
+{"index": 168401, "D": "an accidental or temporary decline or deviation from an expected or accepted condition or state; a temporary falling or slipping from a previous standard", "S": [], "A": []}

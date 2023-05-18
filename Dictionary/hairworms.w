@@ -1,0 +1,1 @@
+{"index": 132467, "D": "any small, slender worm  of the family Trichostrongylidae, parasitic in the alimentary canals of various animals.", "S": [], "A": []}

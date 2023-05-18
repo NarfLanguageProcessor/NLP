@@ -1,0 +1,1 @@
+{"index": 215071, "D": "Compare megavitamin (def. 1). ", "S": [], "A": []}

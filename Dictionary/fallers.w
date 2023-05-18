@@ -1,0 +1,1 @@
+{"index": 109490, "D": "a person or thing that falls. ", "S": [], "A": []}

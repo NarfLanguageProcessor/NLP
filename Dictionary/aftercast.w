@@ -1,0 +1,1 @@
+{"index": 5636, "D": "a casting made from a mold that was itself made from an original casting.", "S": [], "A": []}

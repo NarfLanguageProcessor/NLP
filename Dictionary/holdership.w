@@ -1,0 +1,1 @@
+{"index": 142400, "D": "something that holds  or secures", "S": [], "A": []}

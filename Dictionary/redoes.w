@@ -1,0 +1,1 @@
+{"index": 264354, "D": "to do  again; repeat.", "S": ["redecorate ", "redesign ", "remake ", "remodel ", "renovate ", "revamp ", "revise "], "A": []}

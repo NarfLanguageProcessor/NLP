@@ -1,0 +1,1 @@
+{"index": 97089, "D": "of or relating to the motion of charged particles and its effects", "S": [], "A": []}

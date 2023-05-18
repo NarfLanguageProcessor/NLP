@@ -1,0 +1,1 @@
+{"index": 44125, "D": "(esp in Spanish America) government by local political bosses", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 296187, "D": "making reference only to the concepts of sociology, especially emphasizing social factors to the exclusion of others.", "S": [], "A": []}

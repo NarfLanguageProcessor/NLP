@@ -1,0 +1,1 @@
+{"index": 341236, "D": "to come upon or meet with, especially unexpectedly", "S": [], "A": []}

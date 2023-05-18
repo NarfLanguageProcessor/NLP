@@ -1,0 +1,1 @@
+{"index": 170393, "D": "reserved or at hand for purposes of lending", "S": [], "A": []}

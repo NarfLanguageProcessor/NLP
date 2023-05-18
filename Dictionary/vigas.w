@@ -1,0 +1,1 @@
+{"index": 359597, "D": "a rough-hewn beam, usually of fir, used to support the roof in adobe construction.", "S": [], "A": []}

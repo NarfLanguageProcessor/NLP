@@ -1,0 +1,1 @@
+{"index": 224273, "D": "a cold and dry southwesterly wind that sweeps down over the pampas of Argentina from the Andes.", "S": [], "A": []}

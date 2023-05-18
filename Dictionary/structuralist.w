@@ -1,0 +1,1 @@
+{"index": 306623, "D": "any theory that embodies structural  principles.", "S": [], "A": []}

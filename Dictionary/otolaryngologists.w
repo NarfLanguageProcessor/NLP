@@ -1,0 +1,1 @@
+{"index": 215934, "D": "the branch of medicine that deals with the anatomy, function, and diseases of the ear, nose, and throat.", "S": [], "A": []}

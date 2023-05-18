@@ -1,0 +1,1 @@
+{"index": 367309, "D": "to engage in woolgathering.", "S": ["fantasize ", "hallucinate "], "A": ["dislike ", "hate "]}

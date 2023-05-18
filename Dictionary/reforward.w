@@ -1,0 +1,1 @@
+{"index": 265297, "D": "toward or at a place, point, or time in advance; onward; ahead", "S": [], "A": []}

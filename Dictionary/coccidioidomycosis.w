@@ -1,0 +1,1 @@
+{"index": 61319, "D": "a fungal  infection caused by inhaling Coccidioides spores, characterized by fever, respiratory illness, and reddish bumps on the skin, contracted especially in the southwestern United States and parts of Mexico, Central America, and South America", "S": [], "A": []}

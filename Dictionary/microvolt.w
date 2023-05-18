@@ -1,0 +1,1 @@
+{"index": 186618, "D": "a unit of electromotive force or potential difference equal to one millionth of a volt. Symbol", "S": [], "A": []}

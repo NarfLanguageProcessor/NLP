@@ -1,0 +1,1 @@
+{"index": 139628, "D": "the singing or the composition of hymns or sacred songs.", "S": [], "A": []}

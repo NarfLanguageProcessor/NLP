@@ -1,0 +1,1 @@
+{"index": 87396, "D": "(in classical Greece) a discus thrower", "S": [], "A": []}

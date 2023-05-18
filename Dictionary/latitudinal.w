@@ -1,0 +1,1 @@
+{"index": 169015, "D": "of or relating to latitude. ", "S": [], "A": []}

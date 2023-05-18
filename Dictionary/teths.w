@@ -1,0 +1,1 @@
+{"index": 319920, "D": "the ninth letter of the Hebrew alphabet.", "S": [], "A": []}

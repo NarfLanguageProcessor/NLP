@@ -1,0 +1,1 @@
+{"index": 21874, "D": "any of several theories that explain complex psychological phenomena as being built up from the association  of simple sensations, stimuli and responses, or other behavioral or mental elements considered as primary.", "S": [], "A": []}

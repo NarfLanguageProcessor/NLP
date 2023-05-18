@@ -1,0 +1,1 @@
+{"index": 102600, "D": "the outer, mesodermal layer of the embryonic heart, which develops into the epicardium and the myocardium. ", "S": [], "A": []}

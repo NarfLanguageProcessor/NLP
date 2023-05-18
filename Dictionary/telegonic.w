@@ -1,0 +1,1 @@
+{"index": 318033, "D": "a former belief that a sire can influence the characteristics of the progeny of the female parent and subsequent mates.", "S": [], "A": []}

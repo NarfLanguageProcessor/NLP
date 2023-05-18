@@ -1,0 +1,1 @@
+{"index": 79655, "D": "a rat-sized New World burrowing rodent, Octodon degus, having long, smooth fur and a black-tipped, tufted tail.", "S": [], "A": []}

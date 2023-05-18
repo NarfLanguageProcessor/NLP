@@ -1,0 +1,1 @@
+{"index": 18346, "D": "of or derived from arachidic acid. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309956, "D": "a person or thing that sucks. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 139443, "D": "New Zealand mountain climber who scaled Mt. Everest 1953.", "S": [], "A": []}

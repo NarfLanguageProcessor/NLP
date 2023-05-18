@@ -1,0 +1,1 @@
+{"index": 97954, "D": "to enclose in or as if in a bay;  surround or envelop.", "S": [], "A": []}

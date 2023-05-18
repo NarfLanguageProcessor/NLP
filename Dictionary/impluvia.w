@@ -1,0 +1,1 @@
+{"index": 148831, "D": "a basin or tank within a compluvium.", "S": [], "A": []}

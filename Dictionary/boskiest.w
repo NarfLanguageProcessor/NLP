@@ -1,0 +1,1 @@
+{"index": 38580, "D": "covered with bushes, shrubs, and small trees; woody.", "S": ["fresh ", "grassy ", "leafy ", "lush ", "raw ", "tender ", "verdant "], "A": ["healthy ", "adult ", "dying ", "mature ", "old ", "shrinking ", "withering "]}

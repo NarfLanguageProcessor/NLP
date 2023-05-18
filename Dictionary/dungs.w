@@ -1,0 +1,1 @@
+{"index": 94184, "D": "excrement, especially of animals; manure.", "S": ["droppings ", "feces ", "manure ", "poop "], "A": []}

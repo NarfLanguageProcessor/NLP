@@ -1,0 +1,1 @@
+{"index": 36506, "D": "any of several Australian trees of the genus Eucalyptus, as E. gummifera or E. ptychocarpa, having rough, scaly bark.", "S": [], "A": []}

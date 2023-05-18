@@ -1,0 +1,1 @@
+{"index": 209606, "D": "pertaining to coins or money; nummary.", "S": [], "A": []}

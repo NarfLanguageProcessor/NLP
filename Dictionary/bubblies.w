@@ -1,0 +1,1 @@
+{"index": 41939, "D": "full of, producing, or characterized by bubbles. ", "S": ["bubbly ", "champagne "], "A": []}

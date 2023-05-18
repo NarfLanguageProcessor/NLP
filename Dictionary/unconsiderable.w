@@ -1,0 +1,1 @@
+{"index": 337703, "D": "rather large or great in size, distance, extent, etc.", "S": [], "A": []}

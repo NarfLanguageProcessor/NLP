@@ -1,0 +1,1 @@
+{"index": 305819, "D": "a flint glass with a high lead content, used to imitate gemstones.", "S": [], "A": []}

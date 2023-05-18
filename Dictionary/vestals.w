@@ -1,0 +1,1 @@
+{"index": 359056, "D": "of or relating to the goddess Vesta. ", "S": ["sister "], "A": ["monk "]}

@@ -1,0 +1,1 @@
+{"index": 139731, "D": [], "S": ["backwoodsman ", "frontiersman ", "ridge runner "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 299529, "D": "a spheroidal state or form.", "S": [], "A": []}

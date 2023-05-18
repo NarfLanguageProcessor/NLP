@@ -1,0 +1,1 @@
+{"index": 54194, "D": "to express disapproval of; scold; reproach", "S": ["admonish ", "berate ", "blame ", "castigate ", "censure ", "condemn ", "rebuke ", "reprimand ", "reproach ", "scold ", "upbraid "], "A": ["applaud ", "approve ", "commend ", "compliment ", "exonerate ", "flatter ", "laud ", "praise "]}

@@ -1,0 +1,1 @@
+{"index": 210202, "D": "to require or constrain, as by law, command, conscience, or force of necessity.", "S": ["bind ", "compel ", "constrain ", "impel ", "obligate "], "A": ["delay ", "free ", "release "]}

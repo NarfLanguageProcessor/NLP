@@ -1,0 +1,1 @@
+{"index": 144194, "D": "any of various plants belonging to the genus Hosta, of the lily family, which includes the plantain lily.", "S": [], "A": []}

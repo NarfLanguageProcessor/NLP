@@ -1,0 +1,1 @@
+{"index": 91050, "D": "a unit for measuring the intensity of pain.", "S": [], "A": []}

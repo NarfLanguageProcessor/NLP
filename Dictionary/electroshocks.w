@@ -1,0 +1,1 @@
+{"index": 97261, "D": "electroconvulsive therapy. ", "S": ["ECT ", "convulsive therapy ", "electroconvulsive therapy ", "electroshock therapy ", "shock therapy ", "shock treatment "], "A": []}

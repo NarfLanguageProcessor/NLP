@@ -1,0 +1,1 @@
+{"index": 331031, "D": "trolley car. ", "S": ["grip car ", "streetcar ", "tram ", "tramcar ", "trolley bus "], "A": []}

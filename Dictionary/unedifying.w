@@ -1,0 +1,1 @@
+{"index": 341018, "D": "not having the result of improving morality, intellect, etc", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 295514, "D": "inclined to sniff,  as in scorn; disdainful; supercilious", "S": ["aloof ", "bossy ", "cavalier ", "cocky ", "haughty ", "imperious ", "pompous ", "presumptuous ", "pretentious ", "smug ", "vain "], "A": ["humble ", "modest ", "shy ", "timid ", "unsure "]}

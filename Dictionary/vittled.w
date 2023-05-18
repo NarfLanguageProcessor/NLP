@@ -1,0 +1,1 @@
+{"index": 360681, "D": "a nonstandard variant of victual. ", "S": [], "A": []}

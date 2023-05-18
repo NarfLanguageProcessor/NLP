@@ -1,0 +1,1 @@
+{"index": 86085, "D": "of or relating to the face of separation of two immiscible liquid phases.", "S": [], "A": []}

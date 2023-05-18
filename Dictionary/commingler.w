@@ -1,0 +1,1 @@
+{"index": 64048, "D": "to mix or mingle  together; combine.", "S": [], "A": []}

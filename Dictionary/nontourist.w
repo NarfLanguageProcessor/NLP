@@ -1,0 +1,1 @@
+{"index": 207933, "D": "a person who is traveling, especially for pleasure.", "S": [], "A": []}

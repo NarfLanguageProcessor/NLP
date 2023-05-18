@@ -1,0 +1,1 @@
+{"index": 79066, "D": "to mar the surface or appearance of; disfigure", "S": ["despoiler ", "destroyer ", "hoodlum ", "looter ", "mischief-maker ", "pillager ", "pirate ", "plunderer ", "thief "], "A": []}

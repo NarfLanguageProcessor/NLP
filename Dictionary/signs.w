@@ -1,0 +1,1 @@
+{"index": 290215, "D": "a token or indication; a piece of evidence", "S": ["ABCs ", "characters ", "elements ", "fundamentals ", "hieroglyphs ", "ideograph ", "morphemes ", "phonemes ", "pictograph ", "rune ", "syllabary ", "symbols "], "A": []}

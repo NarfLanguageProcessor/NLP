@@ -1,0 +1,1 @@
+{"index": 60267, "D": "a woman's close-fitting hat with a deep, bell-shaped crown and often a narrow, turned-down brim.", "S": [], "A": []}

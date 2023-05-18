@@ -1,0 +1,1 @@
+{"index": 341358, "D": "lacking in enthusiasm", "S": ["indifferent ", "lackadaisical ", "tepid "], "A": ["caring "]}

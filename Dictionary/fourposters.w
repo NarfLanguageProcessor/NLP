@@ -1,0 +1,1 @@
+{"index": 117998, "D": "a bed with four  corner posts,  as for supporting a canopy, curtains, etc.", "S": [], "A": []}

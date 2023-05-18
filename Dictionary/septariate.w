@@ -1,0 +1,1 @@
+{"index": 285638, "D": "a concretionary nodule or mass, usually of calcium carbonate or of argillaceous carbonate of iron, traversed within by a network of cracks filled with calcite and other minerals.", "S": [], "A": []}

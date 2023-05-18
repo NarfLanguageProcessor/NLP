@@ -1,0 +1,1 @@
+{"index": 9829, "D": "belonging to the plant family Amaryllidaceae.", "S": [], "A": []}

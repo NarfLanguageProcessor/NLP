@@ -1,0 +1,1 @@
+{"index": 272660, "D": "a long, narrow elevation of land; a chain of hills or mountains.", "S": ["corrugated ", "furrowed ", "jagged ", "ribbed "], "A": ["smooth "]}

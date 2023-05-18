@@ -1,0 +1,1 @@
+{"index": 139089, "D": "a doglike carnivore of the family Hyaenidae, of Africa, southwestern Asia, and south central Asia, having a coarse coat, a sloping back, and large teeth and feeding chiefly on carrion, often in packs.", "S": [], "A": []}

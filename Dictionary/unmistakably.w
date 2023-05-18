@@ -1,0 +1,1 @@
+{"index": 346419, "D": "not mistakable;  clear; obvious.", "S": ["clearly ", "evidently ", "officially ", "plainly "], "A": ["vaguely "]}

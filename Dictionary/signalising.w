@@ -1,0 +1,1 @@
+{"index": 290096, "D": "to make notable or conspicuous.", "S": [], "A": []}

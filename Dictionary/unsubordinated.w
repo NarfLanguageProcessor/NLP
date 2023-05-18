@@ -1,0 +1,1 @@
+{"index": 352262, "D": "noting or designating a debt obligation whose holder is placed in precedence below secured and general creditors", "S": [], "A": []}

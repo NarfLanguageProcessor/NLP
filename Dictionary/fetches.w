@@ -1,0 +1,1 @@
+{"index": 111731, "D": "to go and bring back; return with; get", "S": ["carry ", "earn ", "go for ", "obtain ", "produce ", "retrieve ", "sell ", "sell for ", "yield "], "A": []}

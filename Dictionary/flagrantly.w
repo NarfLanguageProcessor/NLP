@@ -1,0 +1,1 @@
+{"index": 113782, "D": "shockingly noticeable or evident; obvious; glaring", "S": ["blatantly ", "brazenly ", "candidly ", "forthrightly ", "fully ", "honestly ", "plainly ", "publicly ", "readily ", "simply ", "unabashedly ", "unashamedly ", "willingly "], "A": ["incompletely "]}

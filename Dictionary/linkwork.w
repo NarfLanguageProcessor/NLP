@@ -1,0 +1,1 @@
+{"index": 172959, "D": "something composed of links,  as a chain.", "S": [], "A": []}

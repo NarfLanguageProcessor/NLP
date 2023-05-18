@@ -1,0 +1,1 @@
+{"index": 4127, "D": "administration; administrative work.", "S": [], "A": []}

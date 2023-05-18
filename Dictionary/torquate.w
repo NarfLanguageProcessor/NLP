@@ -1,0 +1,1 @@
+{"index": 326225, "D": "ringed about the neck, as with feathers or a color; collared.", "S": [], "A": []}

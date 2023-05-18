@@ -1,0 +1,1 @@
+{"index": 337194, "D": "to occupy the same place in space, the same point or period in time, or the same relative position", "S": [], "A": []}

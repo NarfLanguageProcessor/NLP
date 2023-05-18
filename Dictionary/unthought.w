@@ -1,0 +1,1 @@
+{"index": 352934, "D": "simple past tense and past participle of unthink. ", "S": ["careless ", "reckless ", "unintended ", "unintentional ", "unwitting "], "A": ["careful ", "cautious ", "intentional "]}

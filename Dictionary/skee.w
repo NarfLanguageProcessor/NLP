@@ -1,0 +1,1 @@
+{"index": 292875, "D": "an uncommon variant of ski. ", "S": [], "A": []}

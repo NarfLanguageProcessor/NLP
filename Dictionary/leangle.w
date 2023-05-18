@@ -1,0 +1,1 @@
+{"index": 169629, "D": "an Aboriginal war club or bludgeon.", "S": [], "A": []}

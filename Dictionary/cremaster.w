@@ -1,0 +1,1 @@
+{"index": 72583, "D": "a usually hooklike process on the posterior tip of a chrysalis, for attaching the pupa to a stem, twig, etc.", "S": [], "A": []}

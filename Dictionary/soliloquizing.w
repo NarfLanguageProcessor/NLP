@@ -1,0 +1,1 @@
+{"index": 296787, "D": "to utter a soliloquy;  talk to oneself.", "S": ["monologue ", "narration ", "oration ", "recital ", "recounting ", "rendering "], "A": ["denial ", "quiet ", "refusal ", "silence ", "whole "]}

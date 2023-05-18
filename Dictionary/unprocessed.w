@@ -1,0 +1,1 @@
+{"index": 348519, "D": "(of food, oil, etc) not having undergone a process to preserve or purify", "S": ["raw "], "A": []}

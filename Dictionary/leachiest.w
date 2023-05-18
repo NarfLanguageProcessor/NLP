@@ -1,0 +1,1 @@
+{"index": 169504, "D": "allowing water to percolate through, as sandy or rocky soil; porous.", "S": [], "A": []}

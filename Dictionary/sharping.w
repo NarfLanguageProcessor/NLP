@@ -1,0 +1,1 @@
+{"index": 287560, "D": "having a thin cutting edge or a fine point; well-adapted for cutting or piercing", "S": ["file ", "grind ", "hone ", "strop ", "whet "], "A": ["blunt ", "dull "]}

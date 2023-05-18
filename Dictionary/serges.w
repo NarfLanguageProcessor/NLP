@@ -1,0 +1,1 @@
+{"index": 286026, "D": "a twilled worsted or woolen fabric used especially for clothing.", "S": [], "A": []}

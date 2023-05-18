@@ -1,0 +1,1 @@
+{"index": 166515, "D": "a fatal degenerative disease of the central nervous system characterized by progressive lack of coordination and dementia, known only among certain Melanesian peoples, especially the Fore of New Guinea, and caused by a slow virus", "S": [], "A": []}

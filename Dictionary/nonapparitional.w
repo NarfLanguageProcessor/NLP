@@ -1,0 +1,1 @@
+{"index": 201364, "D": "a supernatural appearance of a person or thing, especially a ghost; a specter or phantom; wraith", "S": [], "A": []}

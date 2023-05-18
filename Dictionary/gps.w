@@ -1,0 +1,1 @@
+{"index": 128449, "D": "gallons per second.", "S": ["Global Positioning System ", "high-frequency direction finder ", "huff-duff ", "radio direction finder "], "A": []}

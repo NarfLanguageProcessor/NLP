@@ -1,0 +1,1 @@
+{"index": 212855, "D": "looking on; observing; perceiving.", "S": [], "A": []}

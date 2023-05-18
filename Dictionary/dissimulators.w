@@ -1,0 +1,1 @@
+{"index": 89577, "D": "to disguise or conceal under a false appearance; dissemble", "S": ["bigot ", "charlatan ", "crook ", "impostor ", "phony ", "trickster "], "A": []}

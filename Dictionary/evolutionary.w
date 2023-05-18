@@ -1,0 +1,1 @@
+{"index": 106315, "D": "pertaining to evolution  or development; developmental", "S": ["developmental ", "transformative "], "A": ["extinct ", "stagnant ", "stunted ", "dormant ", "idle ", "inert "]}

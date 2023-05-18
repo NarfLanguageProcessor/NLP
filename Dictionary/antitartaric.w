@@ -1,0 +1,1 @@
+{"index": 16299, "D": "pertaining to or derived from tartar. ", "S": [], "A": []}

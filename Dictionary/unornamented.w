@@ -1,0 +1,1 @@
+{"index": 347257, "D": "(of a character) highly embellished or ornate; altered by embellishment.", "S": ["bald ", "cold ", "meager ", "mere ", "stark "], "A": ["adorned ", "decorated "]}

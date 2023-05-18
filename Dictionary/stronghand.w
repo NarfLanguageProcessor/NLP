@@ -1,0 +1,1 @@
+{"index": 306517, "D": [], "S": ["big stick ", "firm hand ", "iron boot ", "iron hand ", "tight rein ", "tight ship "], "A": []}

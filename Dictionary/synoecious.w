@@ -1,0 +1,1 @@
+{"index": 291896, "D": "(of a bryophyte) having male and female organs together on a branch, usually mixed at the tip", "S": [], "A": []}

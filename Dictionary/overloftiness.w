@@ -1,0 +1,1 @@
+{"index": 220115, "D": "extending high in the air; of imposing height; towering", "S": [], "A": []}

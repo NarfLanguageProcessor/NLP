@@ -1,0 +1,1 @@
+{"index": 98168, "D": "a mineral, chloride and bromide of silver, used as a minor source of silver.", "S": [], "A": []}

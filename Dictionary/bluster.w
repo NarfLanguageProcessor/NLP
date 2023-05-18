@@ -1,0 +1,1 @@
+{"index": 36905, "D": "to roar and be tumultuous, as wind.", "S": ["braggadocio ", "bravado ", "swagger "], "A": []}

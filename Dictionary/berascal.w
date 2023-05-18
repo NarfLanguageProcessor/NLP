@@ -1,0 +1,1 @@
+{"index": 31969, "D": "to call (someone) a rascal. ", "S": [], "A": []}

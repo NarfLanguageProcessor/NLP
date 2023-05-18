@@ -1,0 +1,1 @@
+{"index": 303122, "D": "any of the granules of lime, sand, etc., contained within a statocyst.", "S": [], "A": []}

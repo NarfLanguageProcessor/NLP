@@ -1,0 +1,1 @@
+{"index": 145887, "D": "causing or arousing yawns,  especially as the result of boredom, tedium, or the like", "S": [], "A": []}

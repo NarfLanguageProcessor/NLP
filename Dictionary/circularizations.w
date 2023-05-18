@@ -1,0 +1,1 @@
+{"index": 58018, "D": "to circulate (a letter, memorandum, etc.).", "S": [], "A": []}

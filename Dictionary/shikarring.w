@@ -1,0 +1,1 @@
+{"index": 288254, "D": "the hunting of game for sport.", "S": [], "A": []}

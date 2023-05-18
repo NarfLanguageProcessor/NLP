@@ -1,0 +1,1 @@
+{"index": 53080, "D": "to converse in a familiar or informal manner.", "S": ["chatter ", "conversation ", "gossip "], "A": ["silence "]}

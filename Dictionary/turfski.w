@@ -1,0 +1,1 @@
+{"index": 332686, "D": "a short ski  with rollers on the bottom used in turfskiing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 13038, "D": "lack of pleasure or of the capacity to experience it", "S": ["grief ", "misery ", "sadness ", "sorrow ", "woe "], "A": ["cheer ", "delight ", "gladness ", "happiness ", "joy "]}

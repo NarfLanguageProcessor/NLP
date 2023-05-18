@@ -1,0 +1,1 @@
+{"index": 93681, "D": "the conferring of knighthood; accolade.", "S": ["designate ", "nickname "], "A": []}

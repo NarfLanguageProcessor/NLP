@@ -1,0 +1,1 @@
+{"index": 233124, "D": "the branch of pharmacology that examines the relation of genetic factors to variations in response to drugs.", "S": [], "A": []}

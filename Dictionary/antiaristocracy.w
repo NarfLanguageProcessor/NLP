@@ -1,0 +1,1 @@
+{"index": 14749, "D": "a class of persons holding exceptional rank and privileges, especially the hereditary nobility.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 193990, "D": "without motion", "S": ["coolly ", "easily ", "peacefully ", "serenely ", "smoothly "], "A": []}

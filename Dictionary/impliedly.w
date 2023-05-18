@@ -1,0 +1,1 @@
+{"index": 148801, "D": "involved, indicated, or suggested without being directly or explicitly stated; tacitly understood", "S": [], "A": []}

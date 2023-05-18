@@ -1,0 +1,1 @@
+{"index": 243786, "D": [], "S": ["charm ", "delicacy ", "dignity ", "gentility ", "grace ", "grandeur ", "luxury ", "magnificence ", "nobility ", "purity ", "refinement ", "restraint ", "sophistication ", "splendor ", "style "], "A": ["coarseness ", "crudeness ", "dullness ", "insignificance ", "roughness ", "simplicity "]}

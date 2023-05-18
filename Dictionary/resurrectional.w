@@ -1,0 +1,1 @@
+{"index": 270194, "D": "the act of rising from the dead.", "S": [], "A": []}

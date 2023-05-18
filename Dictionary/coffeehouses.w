@@ -1,0 +1,1 @@
+{"index": 62148, "D": "a public place that specializes in serving coffee  and other refreshments and that sometimes provides informal entertainment.", "S": ["coffee bar "], "A": []}

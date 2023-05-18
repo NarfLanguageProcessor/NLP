@@ -1,0 +1,1 @@
+{"index": 56341, "D": "a chromosome thread that is relatively uncoiled at early prophase but assumes a spiral form at metaphase.", "S": [], "A": []}

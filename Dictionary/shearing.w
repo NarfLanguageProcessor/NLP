@@ -1,0 +1,1 @@
+{"index": 287699, "D": "English jazz pianist and composer.", "S": ["mow ", "prune ", "shave ", "snip ", "trim "], "A": []}

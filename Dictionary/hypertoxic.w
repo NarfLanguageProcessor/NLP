@@ -1,0 +1,1 @@
+{"index": 140586, "D": "of, pertaining to, affected with, or caused by a toxin  or poison", "S": [], "A": []}

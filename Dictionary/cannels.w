@@ -1,0 +1,1 @@
+{"index": 46397, "D": "an oily, compact coal, burning readily and brightly.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310558, "D": "showing irritation or ill humor by a gloomy silence or reserve.", "S": ["churlish ", "dour ", "gloomy ", "glum ", "grumpy ", "hostile ", "morose ", "petulant ", "somber ", "surly ", "ugly "], "A": ["agreeable ", "bright ", "cheerful ", "friendly ", "gentle ", "happy ", "joyful ", "kind ", "nice ", "pleasant "]}

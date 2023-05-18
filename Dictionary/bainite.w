@@ -1,0 +1,1 @@
+{"index": 26505, "D": "an aggregate of iron carbide and ferrite, formed from austenite below the temperature at which pearlite forms and above that at which martensite forms.", "S": [], "A": []}

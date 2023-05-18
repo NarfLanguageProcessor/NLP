@@ -1,0 +1,1 @@
+{"index": 197595, "D": "designating tides midway between spring tides that attain the least height.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 335753, "D": "too dubious or improbable to be believed", "S": ["astonishing ", "implausible ", "impossible ", "improbable ", "inconceivable ", "incredible ", "outlandish ", "preposterous ", "too much ", "unimaginable ", "unthinkable "], "A": ["believable ", "conceivable ", "credible ", "imaginable ", "likely ", "plausible ", "possible ", "reasonable ", "tenable "]}

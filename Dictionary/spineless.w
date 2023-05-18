@@ -1,0 +1,1 @@
+{"index": 299877, "D": "having no spines  or quills.", "S": ["invertebrate "], "A": ["bold ", "brave ", "strong "]}

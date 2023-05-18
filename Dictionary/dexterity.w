@@ -1,0 +1,1 @@
+{"index": 83797, "D": "skill or adroitness in using the hands or body; agility.", "S": ["artistry ", "cleverness ", "deftness ", "finesse ", "ingenuity ", "knack ", "know-how ", "mastery ", "nimbleness ", "proficiency ", "skill ", "smoothness ", "tact "], "A": ["ignorance ", "inability ", "incapacity ", "ineptitude ", "lack ", "want "]}

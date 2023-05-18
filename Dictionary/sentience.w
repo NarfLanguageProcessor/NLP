@@ -1,0 +1,1 @@
+{"index": 285479, "D": "sentient  condition or character; capacity for sensation or feeling.", "S": ["alertness ", "appreciation ", "attention ", "consciousness ", "experience ", "information ", "perception ", "realization ", "recognition ", "understanding "], "A": ["disregard ", "ignorance ", "neglect ", "misunderstanding ", "unfamiliarity "]}

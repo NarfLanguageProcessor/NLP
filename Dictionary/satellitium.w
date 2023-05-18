@@ -1,0 +1,1 @@
+{"index": 278689, "D": "a group of three or more planets lying in one sign of the zodiac", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 5687, "D": "a second growth,  as of crops or timber, after  one harvesting, cutting, etc.; second crop.", "S": [], "A": []}

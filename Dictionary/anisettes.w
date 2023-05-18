@@ -1,0 +1,1 @@
+{"index": 13274, "D": "a cordial or liqueur flavored with aniseed.", "S": [], "A": []}

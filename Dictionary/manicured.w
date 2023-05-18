@@ -1,0 +1,1 @@
+{"index": 179255, "D": "a cosmetic treatment of the hands and fingernails, including trimming and polishing of the nails and removing cuticles.", "S": ["beautify "], "A": []}

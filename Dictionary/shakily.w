@@ -1,0 +1,1 @@
+{"index": 287232, "D": "tending toshake  or tremble.", "S": [], "A": []}

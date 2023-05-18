@@ -1,0 +1,1 @@
+{"index": 55516, "D": "(especially among Mexican Americans) a teenage boy who is a member of a street gang.", "S": [], "A": []}

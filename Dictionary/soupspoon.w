@@ -1,0 +1,1 @@
+{"index": 297903, "D": "a large spoon,  commonly having a rounded bowl, with which to eat soup. ", "S": [], "A": []}

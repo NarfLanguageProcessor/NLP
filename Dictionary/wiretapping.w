@@ -1,0 +1,1 @@
+{"index": 366375, "D": "an act or instance of tapping telephone or telegraph wires for evidence or other information.", "S": ["surveillance "], "A": []}

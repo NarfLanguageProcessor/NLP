@@ -1,0 +1,1 @@
+{"index": 57227, "D": "a colorless, flammable gas, C3H6, used in organic synthesis and in medicine as an anesthetic.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 221118, "D": "driven over the top of, as by water passing over from above.", "S": [], "A": []}

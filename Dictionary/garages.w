@@ -1,0 +1,1 @@
+{"index": 122045, "D": "a building or indoor area for parking or storing motor vehicles.", "S": ["barn ", "parking lot ", "parking space ", "repair shop ", "shop "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 233713, "D": "an expanded petiole resembling and having the function of a leaf, but without a true blade.", "S": [], "A": []}

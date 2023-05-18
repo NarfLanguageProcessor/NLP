@@ -1,0 +1,1 @@
+{"index": 137715, "D": "a latent strabismus of one or both eyes.", "S": [], "A": []}

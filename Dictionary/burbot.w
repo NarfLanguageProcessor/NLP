@@ -1,0 +1,1 @@
+{"index": 42987, "D": "a freshwater cod, Lota lota, of Europe, Asia, and North America, having an elongated body and a barbel on the chin.", "S": [], "A": []}

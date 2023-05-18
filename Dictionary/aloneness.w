@@ -1,0 +1,1 @@
+{"index": 9258, "D": "separate, apart, or isolated from others", "S": ["friendlessness ", "isolation ", "loneliness ", "lonesomeness ", "solitariness ", "solitude ", "withdrawal "], "A": []}

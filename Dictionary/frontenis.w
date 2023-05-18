@@ -1,0 +1,1 @@
+{"index": 119344, "D": "a Latin American game, resembling squash, played with rackets and a hard rubber ball on a three-walled court similar to a jai alai court.", "S": [], "A": []}

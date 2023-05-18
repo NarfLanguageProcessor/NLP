@@ -1,0 +1,1 @@
+{"index": 298787, "D": "the act of specifying. ", "S": ["fine print at the bottom ", "minutiae ", "particulars ", "small print "], "A": []}

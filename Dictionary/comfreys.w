@@ -1,0 +1,1 @@
+{"index": 63815, "D": "any coarse Eurasian plant belonging to the genus Symphytum, of the borage family, as the widely cultivated S. officinale, having hairy, lance-shaped leaves and drooping clusters of small, white, rose-colored, or purplish flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 334919, "D": "with goodwill; in a friendly or peaceable way", "S": [], "A": []}

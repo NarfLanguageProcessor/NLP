@@ -1,0 +1,1 @@
+{"index": 132394, "D": "the style in which a person's hair  is cut, arranged, and worn; coiffure.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 364075, "D": "an industrial city in N central Austria, in Upper Austria. Pop", "S": [], "A": []}

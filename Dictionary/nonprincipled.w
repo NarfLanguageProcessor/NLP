@@ -1,0 +1,1 @@
+{"index": 206174, "D": "imbued with or having moral principles  (often used in combination)", "S": [], "A": []}

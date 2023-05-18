@@ -1,0 +1,1 @@
+{"index": 10653, "D": "wasting of muscles, caused by disease of the nerves supplying them", "S": [], "A": []}

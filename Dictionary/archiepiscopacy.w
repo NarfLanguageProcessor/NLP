@@ -1,0 +1,1 @@
+{"index": 18938, "D": "a form of church government in which power is vested in archbishops.", "S": [], "A": []}

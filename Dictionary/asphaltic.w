@@ -1,0 +1,1 @@
+{"index": 21450, "D": "any of various dark-colored, solid, bituminous substances, native in various areas of the earth and composed mainly of hydrocarbon mixtures.", "S": [], "A": []}

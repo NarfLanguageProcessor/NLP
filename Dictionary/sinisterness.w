@@ -1,0 +1,1 @@
+{"index": 291787, "D": "threatening or portending evil, harm, or trouble; ominous", "S": [], "A": []}

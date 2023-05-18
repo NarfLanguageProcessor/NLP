@@ -1,0 +1,1 @@
+{"index": 173241, "D": "a slightly rough or ripply surface on a body of water.", "S": [], "A": []}

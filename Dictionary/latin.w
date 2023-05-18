@@ -1,0 +1,1 @@
+{"index": 168969, "D": "an Italic language spoken in ancient Rome and used as the official language of the Roman Empire. Abbreviation", "S": ["classic ", "humanistic "], "A": ["complicated ", "modern "]}

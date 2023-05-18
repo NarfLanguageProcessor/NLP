@@ -1,0 +1,1 @@
+{"index": 13064, "D": "a mineral, anhydrous calcium sulfate, CaSO4, usually occurring in whitish or slightly colored masses.", "S": [], "A": []}

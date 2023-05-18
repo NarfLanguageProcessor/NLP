@@ -1,0 +1,1 @@
+{"index": 2684, "D": "any of several South American rodents of the genus Myoprocta, closely related to the agoutis but much smaller, with a white-tipped tail", "S": [], "A": []}

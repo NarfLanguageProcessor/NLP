@@ -1,0 +1,1 @@
+{"index": 52350, "D": "to bite upon or grind, especially impatiently", "S": ["chomp "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 230248, "D": "to treat, prepare, or mix with pepsin. ", "S": ["lighten "], "A": []}

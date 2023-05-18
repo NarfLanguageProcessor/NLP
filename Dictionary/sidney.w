@@ -1,0 +1,1 @@
+{"index": 289889, "D": "English poet, writer, statesman, and soldier.", "S": [], "A": []}

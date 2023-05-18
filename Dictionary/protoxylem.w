@@ -1,0 +1,1 @@
+{"index": 253899, "D": "the part of the primary xylem  that develops first, consisting of narrow, thin-walled cells.", "S": [], "A": []}

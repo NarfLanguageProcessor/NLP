@@ -1,0 +1,1 @@
+{"index": 148099, "D": "not able to move; not motile. ", "S": [], "A": []}

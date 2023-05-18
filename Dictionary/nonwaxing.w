@@ -1,0 +1,1 @@
+{"index": 208389, "D": "the act or process of applying wax,  as in polishing or filling.", "S": [], "A": []}

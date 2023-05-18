@@ -1,0 +1,1 @@
+{"index": 15693, "D": "the region of maximum amplitude between two adjacent nodes  in a standing wave.", "S": [], "A": []}

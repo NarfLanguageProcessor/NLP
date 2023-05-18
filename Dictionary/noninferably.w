@@ -1,0 +1,1 @@
+{"index": 204702, "D": "to derive by reasoning; conclude or judge from premises or evidence", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 172029, "D": "skillful at or given to pilfering, especially by picking pockets; thievish.", "S": ["crooked ", "rapacious "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 216142, "D": "the back country  or remote settlements; the bush.", "S": ["wilderness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 168145, "D": "characterized by languor;  languid.", "S": ["apathy ", "inertia ", "lethargy ", "negligence ", "sloth ", "weariness "], "A": ["activity ", "life ", "liveliness ", "action "]}

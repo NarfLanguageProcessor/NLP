@@ -1,0 +1,1 @@
+{"index": 68358, "D": "of the same order or degree; equal in rank or importance.", "S": ["correlative ", "correspondent ", "counterpart ", "equal ", "equalized ", "like ", "parallel ", "same "], "A": ["different ", "dissimilar ", "unlike ", "variable "]}

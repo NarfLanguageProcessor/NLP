@@ -1,0 +1,1 @@
+{"index": 332431, "D": "a coat worn as part of a military or other uniform.", "S": ["blouse ", "coat ", "jacket ", "robe "], "A": []}

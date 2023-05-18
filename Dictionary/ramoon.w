@@ -1,0 +1,1 @@
+{"index": 260361, "D": "any of several tropical American trees belonging to the genus Brosimum, of the mulberry family, the leaves of which are used as forage, especially B. alicastrum, which bears the breadnut.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 278909, "D": "a chef or cook who specializes in making sauces. ", "S": ["brash ", "cheeky ", "flippant ", "rude "], "A": ["respectful "]}

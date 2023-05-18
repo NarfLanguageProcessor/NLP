@@ -1,0 +1,1 @@
+{"index": 112151, "D": "a woman's kerchief or shawl, generally triangular in shape, worn draped over the shoulders or around the neck with the ends drawn together on the breast.", "S": ["Vandyke ", "capote ", "cardinal ", "cloak ", "cope ", "dolman ", "gabardine ", "mantilla ", "mantle ", "pelisse ", "poncho ", "shawl ", "tabard ", "tippet ", "wrap ", "wrapper "], "A": []}

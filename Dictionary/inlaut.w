@@ -1,0 +1,1 @@
+{"index": 152969, "D": "medial position in a word, especially as a conditioning environment in sound change.", "S": [], "A": []}

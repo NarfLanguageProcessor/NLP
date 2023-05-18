@@ -1,0 +1,1 @@
+{"index": 27791, "D": "(within a fortification) a platform or mound of earth from which guns may be fired over the parapet instead of through embrasures.", "S": [], "A": []}

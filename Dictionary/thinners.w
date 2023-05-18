@@ -1,0 +1,1 @@
+{"index": 321912, "D": "a volatile liquid, as turpentine, used to dilute paint, varnish, rubber cement, etc., to the desired or proper consistency.", "S": [], "A": []}

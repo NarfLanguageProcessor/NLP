@@ -1,0 +1,1 @@
+{"index": 335603, "D": "to make barbarous;  brutalize; corrupt", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 191274, "D": "the person who performs the circumcision in the Jewish rite of circumcising a male child on the eighth day after his birth.", "S": [], "A": []}

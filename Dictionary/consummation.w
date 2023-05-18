@@ -1,0 +1,1 @@
+{"index": 67208, "D": "the act of consummating;  completion.", "S": ["cleanup ", "completion ", "culmination ", "end ", "payoff ", "perfection ", "realization ", "wrap "], "A": ["beginning ", "commencement ", "imperfection ", "opening ", "start "]}

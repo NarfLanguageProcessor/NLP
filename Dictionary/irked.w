@@ -1,0 +1,1 @@
+{"index": 158037, "D": "to irritate, annoy, or exasperate", "S": ["bothered ", "miffed ", "upset "], "A": ["gratified ", "pleased "]}

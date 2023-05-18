@@ -1,0 +1,1 @@
+{"index": 67679, "D": "a representation of the human body in which the forms are organized on a varying or curving axis to provide an asymmetrical balance to the figure.", "S": [], "A": []}

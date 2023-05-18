@@ -1,0 +1,1 @@
+{"index": 235671, "D": "a representation of a muffled explosive sound", "S": [], "A": []}

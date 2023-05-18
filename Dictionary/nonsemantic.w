@@ -1,0 +1,1 @@
+{"index": 207116, "D": "of, relating to, or arising from the different meanings of words or other symbols", "S": [], "A": []}

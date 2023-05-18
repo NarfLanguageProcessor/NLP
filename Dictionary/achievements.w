@@ -1,0 +1,1 @@
+{"index": 2255, "D": "something accomplished, especially by superior ability, special effort, great courage, etc.; a great or heroic deed", "S": ["accomplishment ", "attainment ", "creation ", "deed ", "effort ", "feat ", "performance ", "realization ", "success ", "triumph ", "victory "], "A": ["defeat ", "failure ", "forfeit ", "idleness ", "loss ", "unfulfillment "]}

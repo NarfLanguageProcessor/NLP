@@ -1,0 +1,1 @@
+{"index": 198458, "D": "an oil-resistant synthetic rubber", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 96472, "D": "a characteristic vector in a vector space in which the elements are functions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 70180, "D": "a hawker of fruit, vegetables, fish, etc.", "S": [], "A": []}

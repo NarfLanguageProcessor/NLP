@@ -1,0 +1,1 @@
+{"index": 123322, "D": "a cut and polished precious stone or pearl fine enough for use in jewelry.", "S": [], "A": []}

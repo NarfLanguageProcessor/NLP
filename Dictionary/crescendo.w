@@ -1,0 +1,1 @@
+{"index": 72723, "D": "the performance of a crescendo passage", "S": ["escalation ", "upsurge "], "A": ["base ", "bottom ", "decline ", "nadir "]}

@@ -1,0 +1,1 @@
+{"index": 247018, "D": "to deprive of courage, hope, or confidence; dishearten; dispirit. ", "S": [], "A": []}

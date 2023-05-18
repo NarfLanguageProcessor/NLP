@@ -1,0 +1,1 @@
+{"index": 179867, "D": "a common mineral, iron disulfide, FeS2, chemically similar to pyrite but crystallizing in the orthorhombic system.", "S": [], "A": []}

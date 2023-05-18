@@ -1,0 +1,1 @@
+{"index": 218393, "D": "Compare oversold. ", "S": [], "A": []}

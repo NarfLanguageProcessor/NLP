@@ -1,0 +1,1 @@
+{"index": 34175, "D": "a mineral, hydrous antimonate of lead, resulting from the alteration of lead antimony ores.", "S": [], "A": []}

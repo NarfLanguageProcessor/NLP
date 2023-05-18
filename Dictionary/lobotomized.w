@@ -1,0 +1,1 @@
+{"index": 174228, "D": "having undergone a lobotomy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246374, "D": "of or like a condyle. ", "S": [], "A": []}

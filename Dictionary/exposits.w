@@ -1,0 +1,1 @@
+{"index": 107973, "D": "to expound, as a theory, cause, or the like.", "S": [], "A": []}

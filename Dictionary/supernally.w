@@ -1,0 +1,1 @@
+{"index": 312271, "D": "being in or belonging to the heaven of divine beings; heavenly, celestial, or divine.", "S": [], "A": []}

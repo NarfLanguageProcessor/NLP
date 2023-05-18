@@ -1,0 +1,1 @@
+{"index": 99043, "D": "to fill or inflame with love (usually used in the passive and followed by of or sometimes with)", "S": ["bewitch ", "enchant ", "enrapture ", "enthrall ", "entice ", "infatuate ", "please "], "A": ["disenchant ", "disgust ", "displease ", "repel ", "repulse ", "turn off "]}

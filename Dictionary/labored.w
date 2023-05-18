@@ -1,0 +1,1 @@
+{"index": 166735, "D": "done or made with difficulty; heavy", "S": ["arduous ", "awkward ", "clumsy ", "contrived ", "ponderous ", "strained "], "A": ["adroit ", "clever ", "dexterous ", "easy ", "graceful ", "spontaneous "]}

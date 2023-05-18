@@ -1,0 +1,1 @@
+{"index": 298626, "D": "a long gaiter to protect the trousers or stockings, as from mud while riding.", "S": [], "A": []}

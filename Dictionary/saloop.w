@@ -1,0 +1,1 @@
+{"index": 277186, "D": "a hot drink prepared originally from salep but later from sassafras, together with milk and sugar.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 315020, "D": "immediate, temporary immunization against the effects of injection of a toxic extract owing to previous small injections of the same extract.", "S": [], "A": []}

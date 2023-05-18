@@ -1,0 +1,1 @@
+{"index": 308437, "D": "situated under the tongue, or on the underside of the tongue.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 304821, "D": "a line of descendants from a common ancestor.", "S": ["ancestry ", "genetics ", "lineage "], "A": []}

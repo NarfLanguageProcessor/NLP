@@ -1,0 +1,1 @@
+{"index": 141808, "D": "a cell or group of cells capable of forming tissue.", "S": [], "A": []}

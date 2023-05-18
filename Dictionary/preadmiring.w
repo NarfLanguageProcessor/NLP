@@ -1,0 +1,1 @@
+{"index": 245556, "D": "to regard with wonder, pleasure, or approval.", "S": [], "A": []}

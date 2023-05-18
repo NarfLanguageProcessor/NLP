@@ -1,0 +1,1 @@
+{"index": 134098, "D": "a member of a priestly family of Jewish rulers and leaders in Judea in the 1st and 2nd centuries b.c.", "S": [], "A": []}

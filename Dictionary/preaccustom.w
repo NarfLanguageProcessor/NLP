@@ -1,0 +1,1 @@
+{"index": 245443, "D": "to familiarize by custom or use; habituate", "S": [], "A": []}

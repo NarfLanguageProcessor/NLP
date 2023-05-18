@@ -1,0 +1,1 @@
+{"index": 142785, "D": "one's native land. ", "S": ["motherland "], "A": []}

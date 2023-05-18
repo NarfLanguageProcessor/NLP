@@ -1,0 +1,1 @@
+{"index": 48208, "D": "a palm, Copernicia prunifera, of Brazil, having palmate leaves covered with wax.", "S": [], "A": []}

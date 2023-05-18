@@ -1,0 +1,1 @@
+{"index": 216810, "D": "a comic, absurd, or incongruous quality causing amusement", "S": [], "A": []}

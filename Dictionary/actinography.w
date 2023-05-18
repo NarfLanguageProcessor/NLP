@@ -1,0 +1,1 @@
+{"index": 3149, "D": "a recording actinometer.", "S": [], "A": []}

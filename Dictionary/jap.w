@@ -1,0 +1,1 @@
+{"index": 160359, "D": "a contemptuous term used to refer to a Japanese person.", "S": [], "A": []}

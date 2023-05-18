@@ -1,0 +1,1 @@
+{"index": 92726, "D": "to damn; confound", "S": ["dang ", "doggone "], "A": []}

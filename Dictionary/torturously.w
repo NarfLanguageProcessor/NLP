@@ -1,0 +1,1 @@
+{"index": 326373, "D": "pertaining to, involving, or causing torture  or suffering.", "S": [], "A": []}

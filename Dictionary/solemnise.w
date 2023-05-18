@@ -1,0 +1,1 @@
+{"index": 296618, "D": "to perform the ceremony of (marriage).", "S": [], "A": []}

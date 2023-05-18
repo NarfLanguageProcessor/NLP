@@ -1,0 +1,1 @@
+{"index": 182944, "D": "to blend; mix; meld.", "S": [], "A": []}

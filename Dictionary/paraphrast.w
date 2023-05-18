@@ -1,0 +1,1 @@
+{"index": 225972, "D": "a person who paraphrases.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 80446, "D": "living or found near or in the deepest part of a body of water.", "S": [], "A": []}

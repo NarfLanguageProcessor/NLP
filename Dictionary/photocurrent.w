@@ -1,0 +1,1 @@
+{"index": 235058, "D": "an electric current  produced by a photoelectric effect.", "S": [], "A": []}

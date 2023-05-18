@@ -1,0 +1,1 @@
+{"index": 117287, "D": "to exclude, expel, dispossess, or deprive by a judgment.", "S": [], "A": []}

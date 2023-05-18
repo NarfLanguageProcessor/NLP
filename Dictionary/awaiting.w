@@ -1,0 +1,1 @@
+{"index": 24932, "D": "to wait  for; expect; look for", "S": ["in store ", "pending "], "A": []}

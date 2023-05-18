@@ -1,0 +1,1 @@
+{"index": 98652, "D": "a person who appeals to the emotions, especially unduly.", "S": [], "A": []}

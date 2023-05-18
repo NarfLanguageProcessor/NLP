@@ -1,0 +1,1 @@
+{"index": 78870, "D": "an archaic spelling of daedal. ", "S": [], "A": []}

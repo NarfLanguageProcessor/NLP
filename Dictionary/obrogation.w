@@ -1,0 +1,1 @@
+{"index": 210318, "D": "the annulment or alteration of a law by the enactment of a new one.", "S": [], "A": []}

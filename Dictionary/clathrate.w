@@ -1,0 +1,1 @@
+{"index": 59456, "D": "resembling a lattice; divided or marked like latticework.", "S": [], "A": []}

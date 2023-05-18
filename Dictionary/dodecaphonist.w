@@ -1,0 +1,1 @@
+{"index": 90758, "D": "musical composition using the 12-tone technique.", "S": [], "A": []}

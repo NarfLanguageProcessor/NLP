@@ -1,0 +1,1 @@
+{"index": 96001, "D": "The bubbling of a solution due to the escape of gas. The gas may form by a chemical reaction, as in a fermenting liquid, or by coming out of solution after having been under pressure, as in a carbonated drink.", "S": ["bubbles ", "ebullition ", "ferment ", "fermentation ", "froth ", "sparkle "], "A": ["dullness ", "flatness "]}

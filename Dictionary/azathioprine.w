@@ -1,0 +1,1 @@
+{"index": 25231, "D": "a cytotoxic purine analog, C9H7N7O2S, used as an immunosuppressive in organ transplantations and in rheumatoid arthritis and connective tissue disorders.", "S": [], "A": []}

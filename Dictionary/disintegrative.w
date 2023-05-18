@@ -1,0 +1,1 @@
+{"index": 88459, "D": "to separate into parts or lose intactness or solidness; break up; deteriorate", "S": ["acerbic ", "acrid ", "biting "], "A": ["kind ", "nice ", "sweet "]}

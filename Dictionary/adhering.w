@@ -1,0 +1,1 @@
+{"index": 3854, "D": "attaching or staying attached; sticking, or causing something to stick, to something else", "S": ["gummy ", "sticky "], "A": ["loose ", "open ", "separated "]}

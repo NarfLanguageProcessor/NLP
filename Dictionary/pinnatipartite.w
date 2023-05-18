@@ -1,0 +1,1 @@
+{"index": 237158, "D": "(of leaves) pinnately divided into lobes reaching just over halfway to the midrib", "S": [], "A": []}

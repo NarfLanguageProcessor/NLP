@@ -1,0 +1,1 @@
+{"index": 38298, "D": "drunken; intoxicated.", "S": [], "A": []}

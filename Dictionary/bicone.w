@@ -1,0 +1,1 @@
+{"index": 33456, "D": "an object shaped like two cones  with their bases together.", "S": [], "A": []}

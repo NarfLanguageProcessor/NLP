@@ -1,0 +1,1 @@
+{"index": 54051, "D": "of or relating to Chios  or its inhabitants.", "S": [], "A": []}

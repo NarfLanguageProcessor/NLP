@@ -1,0 +1,1 @@
+{"index": 243152, "D": "any of several East Indian trees of the genus Calophyllum, that yield a light, hard wood used for masts, spars, etc.", "S": [], "A": []}

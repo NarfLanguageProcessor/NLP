@@ -1,0 +1,1 @@
+{"index": 42093, "D": "a stiff cotton fabric for interlinings, book bindings, etc.", "S": [], "A": []}

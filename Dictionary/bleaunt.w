@@ -1,0 +1,1 @@
+{"index": 35988, "D": "a short tunic or blouse, worn in the Middle Ages.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 299716, "D": "a lustrous, crystalline pig iron containing a large amount of manganese, sometimes 15 percent or more, used in making steel.", "S": [], "A": []}

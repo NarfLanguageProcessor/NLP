@@ -1,0 +1,1 @@
+{"index": 124660, "D": "a gallows with a projecting arm at the top, from which the bodies of criminals were formerly hung in chains and left suspended after execution.", "S": ["hanging ", "noose ", "potence ", "rope ", "scaffold "], "A": []}

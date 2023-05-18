@@ -1,0 +1,1 @@
+{"index": 15512, "D": "preoccupation with or emphasis on material  objects, comforts, and considerations, with a disinterest in or rejection of spiritual, intellectual, or cultural values.", "S": [], "A": []}

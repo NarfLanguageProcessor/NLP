@@ -1,0 +1,1 @@
+{"index": 263146, "D": "an act or instance of commencing;  beginning", "S": ["renovation ", "reopening ", "replenishment ", "restoration ", "revitalization "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 33956, "D": "using or consisting of two letters.", "S": [], "A": []}

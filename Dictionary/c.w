@@ -1,0 +1,1 @@
+{"index": 43830, "D": "(with a year) about", "S": ["corruption ", "disease ", "malignancy ", "sickness ", "tumor "], "A": ["health ", "wholesomeness "]}

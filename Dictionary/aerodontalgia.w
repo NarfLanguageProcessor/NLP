@@ -1,0 +1,1 @@
+{"index": 4995, "D": "a toothache caused by lowered barometric pressure, as in high-altitude flight.", "S": [], "A": []}

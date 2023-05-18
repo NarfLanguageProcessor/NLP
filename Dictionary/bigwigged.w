@@ -1,0 +1,1 @@
+{"index": 33793, "D": "an important person, especially an official", "S": [], "A": []}

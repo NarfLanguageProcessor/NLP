@@ -1,0 +1,1 @@
+{"index": 80172, "D": "a delicatessen.", "S": ["cafeteria "], "A": []}

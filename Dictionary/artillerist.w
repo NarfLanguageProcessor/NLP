@@ -1,0 +1,1 @@
+{"index": 20736, "D": "a soldier serving in an artillery  unit of the army.", "S": [], "A": []}

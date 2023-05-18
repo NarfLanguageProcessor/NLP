@@ -1,0 +1,1 @@
+{"index": 32976, "D": "extremely confusing", "S": ["amazing ", "astounding ", "breathtaking ", "extraordinary ", "impressive ", "marvelous ", "miraculous ", "spectacular ", "staggering ", "startling ", "striking ", "stunning ", "wonderful ", "wondrous "], "A": ["homely ", "insignificant ", "normal ", "ordinary ", "ugly ", "unimpressive ", "usual "]}

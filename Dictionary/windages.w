@@ -1,0 +1,1 @@
+{"index": 365902, "D": "the influence of the wind  in deflecting a missile.", "S": [], "A": []}

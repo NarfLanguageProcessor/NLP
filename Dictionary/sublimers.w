@@ -1,0 +1,1 @@
+{"index": 308420, "D": "elevated or lofty in thought, language, etc.", "S": [], "A": []}

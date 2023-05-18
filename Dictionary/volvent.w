@@ -1,0 +1,1 @@
+{"index": 361293, "D": "a small, pear-shaped nematocyst discharging a thread that entangles its prey.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 184882, "D": "pertaining to or of the nature of metaphysics.", "S": ["abstract ", "abstruse ", "esoteric ", "mystical ", "philosophical ", "spiritual ", "supernatural ", "theoretical "], "A": ["concrete ", "factual ", "obvious ", "physical ", "real "]}

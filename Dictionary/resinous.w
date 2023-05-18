@@ -1,0 +1,1 @@
+{"index": 269476, "D": "full of or containing resin. ", "S": ["gummy ", "sticky "], "A": ["loose ", "open ", "separated "]}

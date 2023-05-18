@@ -1,0 +1,1 @@
+{"index": 332556, "D": "a man's headdress worn chiefly by Muslims in southern Asia, consisting of a long cloth of silk, linen, cotton, etc., wound either about a cap or directly around the head.", "S": ["bandana ", "hat "], "A": []}

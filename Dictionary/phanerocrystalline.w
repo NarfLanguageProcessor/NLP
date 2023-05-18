@@ -1,0 +1,1 @@
+{"index": 232922, "D": "(of a rock) having the principal constituents in the form of crystals visible to the naked eye.", "S": [], "A": []}

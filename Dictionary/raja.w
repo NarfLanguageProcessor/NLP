@@ -1,0 +1,1 @@
+{"index": 260151, "D": "a king or prince in India.", "S": ["archduke ", "emeer ", "emir ", "monarch ", "nobleman ", "potentate ", "rajah ", "royalty ", "ruler ", "sovereign "], "A": []}

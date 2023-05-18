@@ -1,0 +1,1 @@
+{"index": 60961, "D": "Compare anthracite, bituminous coal, lignite. ", "S": [], "A": []}

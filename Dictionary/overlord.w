@@ -1,0 +1,1 @@
+{"index": 220133, "D": "a person who is lord  over another or over other lords", "S": ["chief ", "czar ", "despot ", "emperor ", "ruler ", "suzerain "], "A": []}

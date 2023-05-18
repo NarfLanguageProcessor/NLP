@@ -1,0 +1,1 @@
+{"index": 197080, "D": "a small Arctic whale, Monodon monoceros, the male of which has a long, spirally twisted tusk extending forward from the upper jaw.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 39507, "D": "a flat piece of veal or beef rolled around a filling and baked in stock and wine.", "S": [], "A": []}

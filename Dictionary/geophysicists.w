@@ -1,0 +1,1 @@
+{"index": 124003, "D": "the branch of geology that deals with the physics  of the earth and its atmosphere, including oceanography, seismology, volcanology, and geomagnetism.", "S": [], "A": []}

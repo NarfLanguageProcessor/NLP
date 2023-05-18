@@ -1,0 +1,1 @@
+{"index": 121704, "D": "an organ or body bearing gametes, as in mosses and liverworts.", "S": [], "A": []}

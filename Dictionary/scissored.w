@@ -1,0 +1,1 @@
+{"index": 280828, "D": "to cut or clip out with scissors. ", "S": ["chiseled ", "engraved ", "sculpted ", "sculptured "], "A": []}

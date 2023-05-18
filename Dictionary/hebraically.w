@@ -1,0 +1,1 @@
+{"index": 135076, "D": "of, relating to, or characteristic of the Hebrews,  their language, or their culture.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25524, "D": "an ancient empire in SW Asia, in the lower Euphrates valley", "S": [], "A": []}

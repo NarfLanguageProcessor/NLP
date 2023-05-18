@@ -1,0 +1,1 @@
+{"index": 1471, "D": "capable or worthy of being accepted. ", "S": ["adequate ", "common ", "decent ", "fair ", "respectable ", "sufficient ", "tolerable "], "A": ["bad ", "inadequate ", "insufficient ", "intolerable ", "poor ", "unrespectable ", "unsuitable "]}

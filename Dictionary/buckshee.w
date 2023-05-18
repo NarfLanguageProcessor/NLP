@@ -1,0 +1,1 @@
+{"index": 42098, "D": "a gift, gratuity, or small bribe.", "S": [], "A": []}

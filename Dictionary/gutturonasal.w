@@ -1,0 +1,1 @@
+{"index": 131673, "D": "articulated in the back of the mouth and given resonance in the nasal  cavity, as the sound represented by (ng) in (ring).", "S": [], "A": []}

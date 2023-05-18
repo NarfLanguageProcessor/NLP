@@ -1,0 +1,1 @@
+{"index": 344703, "D": "purposed; designed; intentional", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205066, "D": "to make local;  fix in, or assign or restrict to, a particular place, locality,  etc.", "S": [], "A": []}

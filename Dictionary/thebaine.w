@@ -1,0 +1,1 @@
+{"index": 320764, "D": "a white, crystalline, slightly water-soluble, poisonous alkaloid, C19H21NO3, present in opium in small quantities, but having a strychninelike rather than a narcotic effect.", "S": [], "A": []}

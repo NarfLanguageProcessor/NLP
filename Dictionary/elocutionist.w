@@ -1,0 +1,1 @@
+{"index": 97719, "D": "a person's manner of speaking or reading aloud in public", "S": ["anthology ", "bookworm ", "editor ", "lector ", "lecturer ", "primer ", "proofreader ", "reciter ", "scholar "], "A": []}

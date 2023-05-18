@@ -1,0 +1,1 @@
+{"index": 130459, "D": "dirty; slovenly", "S": ["filthy ", "grimy ", "grungy ", "messy ", "seedy ", "shabby ", "soiled ", "squalid ", "unkempt "], "A": ["clean ", "good ", "nice ", "pure ", "sterile "]}

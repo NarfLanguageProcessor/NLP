@@ -1,0 +1,1 @@
+{"index": 116977, "D": "to show beforehand.", "S": ["indicate ", "predict ", "signal "], "A": ["be quiet ", "bottle up ", "conceal ", "hide ", "keep secret ", "refrain ", "repress ", "suppress ", "withhold "]}

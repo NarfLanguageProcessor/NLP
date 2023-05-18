@@ -1,0 +1,1 @@
+{"index": 329376, "D": "any of various minute, hairlike mineral bodies occurring in certain vitreous igneous rocks, especially obsidian.", "S": [], "A": []}

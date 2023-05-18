@@ -1,0 +1,1 @@
+{"index": 6310, "D": "to recognize; acknowledge; own.", "S": [], "A": []}

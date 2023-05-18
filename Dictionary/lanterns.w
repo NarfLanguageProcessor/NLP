@@ -1,0 +1,1 @@
+{"index": 168226, "D": "a transparent or translucent, usually portable, case for enclosing a light and protecting it from the wind, rain, etc.", "S": ["beacon ", "flashlight ", "kerosene lamp ", "torch "], "A": []}

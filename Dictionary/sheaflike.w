@@ -1,0 +1,1 @@
+{"index": 287683, "D": "one of the bundles in which cereal plants, as wheat, rye, etc., are bound after reaping.", "S": [], "A": []}

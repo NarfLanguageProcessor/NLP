@@ -1,0 +1,1 @@
+{"index": 43970, "D": "a heavy, strong rope.", "S": ["wirework "], "A": []}

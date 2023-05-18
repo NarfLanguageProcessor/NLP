@@ -1,0 +1,1 @@
+{"index": 32796, "D": "to deliver or expose to an enemy by treachery or disloyalty", "S": ["deceiver ", "double-crosser ", "fink ", "narc ", "nark ", "rat ", "snitch ", "spy ", "traitor ", "turncoat ", "weasel "], "A": []}

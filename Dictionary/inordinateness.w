@@ -1,0 +1,1 @@
+{"index": 153224, "D": "not within proper or reasonable limits; immoderate; excessive", "S": ["extravagance ", "extreme "], "A": ["unselfishness "]}

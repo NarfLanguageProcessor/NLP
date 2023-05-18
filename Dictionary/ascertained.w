@@ -1,0 +1,1 @@
+{"index": 20945, "D": "to find out definitely; learn with certainty or assurance; determine", "S": ["absolute ", "clear ", "definite ", "genuine ", "positive ", "real ", "safe ", "sure ", "true ", "undeniable "], "A": ["counterfeit ", "doubted ", "doubtful ", "false ", "invalid ", "uncertain ", "unreal ", "unsure ", "vague "]}

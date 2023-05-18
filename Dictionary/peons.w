@@ -1,0 +1,1 @@
+{"index": 230161, "D": "(in Spanish America) a farm worker or unskilled laborer; day laborer.", "S": ["drudge ", "farmhand ", "laborer ", "peasant ", "serf ", "servant ", "slave "], "A": ["master "]}

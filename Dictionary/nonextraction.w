@@ -1,0 +1,1 @@
+{"index": 203885, "D": "an act or instance ofextracting", "S": [], "A": []}

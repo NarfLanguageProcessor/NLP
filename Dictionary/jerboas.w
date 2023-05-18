@@ -1,0 +1,1 @@
+{"index": 160903, "D": "any of various mouselike rodents of North Africa and Asia, as of the genera Jaculus and Dipus, with long hind legs used for jumping.", "S": [], "A": []}

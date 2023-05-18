@@ -1,0 +1,1 @@
+{"index": 134717, "D": "the fountainhead or source of a stream.", "S": [], "A": []}

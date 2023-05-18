@@ -1,0 +1,1 @@
+{"index": 169723, "D": "any of several carangid fishes having narrow, linear scales embedded in the skin at various angles, especially Oligoplites saurus, found in tropical American waters.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342732, "D": "such as to cause fright;  dreadful, terrible, or alarming", "S": [], "A": []}

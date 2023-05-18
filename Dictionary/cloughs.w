@@ -1,0 +1,1 @@
+{"index": 60565, "D": [], "S": ["cleavage ", "crater ", "crevasse ", "fissure ", "gorge ", "ravine ", "rift ", "schism ", "void "], "A": ["closing ", "closure ", "remembrance ", "solid "]}

@@ -1,0 +1,1 @@
+{"index": 102743, "D": "a variant spelling of epeirogeny", "S": [], "A": []}

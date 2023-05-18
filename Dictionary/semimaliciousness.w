@@ -1,0 +1,1 @@
+{"index": 284412, "D": "the fact or quality of being spiteful or intentionally harmful", "S": [], "A": []}

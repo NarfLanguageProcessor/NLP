@@ -1,0 +1,1 @@
+{"index": 287720, "D": "to put (a sword, dagger, etc.) into a sheath. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 65235, "D": "a person, group, or company to whom a concession has been granted, especially to operate a subsidiary business or service", "S": [], "A": []}

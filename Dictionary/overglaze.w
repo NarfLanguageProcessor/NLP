@@ -1,0 +1,1 @@
+{"index": 219547, "D": "a color or glaze  applied to an existing glaze. ", "S": [], "A": []}

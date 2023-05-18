@@ -1,0 +1,1 @@
+{"index": 90523, "D": "a direct message sent to one or more users of a social media service or private messaging service, usually when the accounts involved have an established relationship, as when the recipient is linked to, friends with, or following the sender on a social media platform", "S": [], "A": []}

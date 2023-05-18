@@ -1,0 +1,1 @@
+{"index": 212682, "D": "the branch of medical science dealing with tumors, including the origin, development, diagnosis, and treatment of malignant neoplasms.", "S": [], "A": []}

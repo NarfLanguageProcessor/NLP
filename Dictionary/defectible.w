@@ -1,0 +1,1 @@
+{"index": 79151, "D": "liable to defect, decay, or failure.", "S": [], "A": []}

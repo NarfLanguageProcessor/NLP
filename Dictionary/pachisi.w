@@ -1,0 +1,1 @@
+{"index": 222668, "D": "a board game, originated in ancient India, in which four players advance four pieces each along a route on a cross-shaped board toward a center square by throws of cowrie shells or dice.", "S": [], "A": []}

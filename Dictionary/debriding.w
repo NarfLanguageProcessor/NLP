@@ -1,0 +1,1 @@
+{"index": 77836, "D": "to clean (a wound) by debridement.", "S": [], "A": []}

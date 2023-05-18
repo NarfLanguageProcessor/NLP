@@ -1,0 +1,1 @@
+{"index": 352503, "D": "a loose-fitting, broad-sleeved white vestment, worn over the cassock by clergy and choristers.", "S": [], "A": []}

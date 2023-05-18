@@ -1,0 +1,1 @@
+{"index": 70465, "D": "(in prescriptions) a measure.", "S": [], "A": []}

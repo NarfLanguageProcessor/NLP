@@ -1,0 +1,1 @@
+{"index": 50162, "D": "hollowed out, as a space excavated from rock", "S": [], "A": []}

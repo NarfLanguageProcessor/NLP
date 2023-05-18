@@ -1,0 +1,1 @@
+{"index": 196533, "D": "a guardian spirit among Mexican and Central American Indians, believed to reside in an animal.", "S": [], "A": []}

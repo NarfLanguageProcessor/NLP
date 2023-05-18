@@ -1,0 +1,1 @@
+{"index": 23834, "D": "the power to determine, adjudicate, or otherwise settle issues or disputes; jurisdiction; the right to control, command, or determine.", "S": ["advisors ", "advisory board ", "cabinet ", "council ", "experts ", "high-level advisers ", "inner circle "], "A": []}

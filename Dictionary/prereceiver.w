@@ -1,0 +1,1 @@
+{"index": 249035, "D": "a person or thing that receives. ", "S": [], "A": []}

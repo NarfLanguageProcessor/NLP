@@ -1,0 +1,1 @@
+{"index": 249121, "D": "the act of representing.", "S": [], "A": []}

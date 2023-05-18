@@ -1,0 +1,1 @@
+{"index": 199699, "D": "a pathological condition caused by excessive use of tobacco, and characterized by depression of the central and autonomic nervous systems; nicotine  poisoning.", "S": [], "A": []}

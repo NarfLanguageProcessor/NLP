@@ -1,0 +1,1 @@
+{"index": 200514, "D": "37th president of the U.S., 1969\u201374 (resigned).", "S": [], "A": []}

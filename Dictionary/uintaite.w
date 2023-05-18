@@ -1,0 +1,1 @@
+{"index": 333690, "D": "an extremely pure asphalt particularly valuable for the manufacture of paints and varnishes.", "S": [], "A": []}

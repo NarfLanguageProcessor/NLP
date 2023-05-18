@@ -1,0 +1,1 @@
+{"index": 363673, "D": "something formed by or as if by weaving or interweaving.", "S": [], "A": []}

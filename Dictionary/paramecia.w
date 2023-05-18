@@ -1,0 +1,1 @@
+{"index": 225796, "D": "any ciliated freshwater protozoan of the genus Paramecium, having an oval body and a long, deep oral groove.", "S": ["ameba ", "amoeba ", "cell ", "ciliate ", "euglena ", "flagellate ", "organism ", "paramecium ", "plasmodium ", "sporozoan ", "stentor "], "A": []}

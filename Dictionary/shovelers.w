@@ -1,0 +1,1 @@
+{"index": 289023, "D": "a person or thing that shovels.", "S": [], "A": []}

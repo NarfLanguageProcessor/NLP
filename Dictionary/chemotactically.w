@@ -1,0 +1,1 @@
+{"index": 53759, "D": "oriented movement toward or away from a chemical stimulus.", "S": [], "A": []}

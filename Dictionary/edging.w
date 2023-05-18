@@ -1,0 +1,1 @@
+{"index": 95726, "D": "something that forms or is placed along an edge  or border.", "S": ["borderline ", "boundary ", "brim ", "brink ", "curb ", "edge ", "fringe ", "hem ", "margin ", "outline ", "rim "], "A": ["center ", "inside ", "interior ", "middle "]}

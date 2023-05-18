@@ -1,0 +1,1 @@
+{"index": 233889, "D": "a group that has a genetic relationship or common origin, as a race.", "S": [], "A": []}

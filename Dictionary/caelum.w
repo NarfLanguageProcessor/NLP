@@ -1,0 +1,1 @@
+{"index": 44418, "D": "the Sculptor's Tool, or Chisel, a small southern constellation between Columba and Eridanus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 344915, "D": "to organize into a labor union;  bring into or incorporate in a labor union.", "S": ["amalgamated ", "associated ", "combined ", "federal ", "federated ", "incorporated ", "leagued ", "organized ", "syndicated "], "A": []}

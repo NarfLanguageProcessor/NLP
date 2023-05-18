@@ -1,0 +1,1 @@
+{"index": 356040, "D": "colored or blackened as if scorched.", "S": [], "A": []}

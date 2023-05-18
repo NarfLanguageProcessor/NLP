@@ -1,0 +1,1 @@
+{"index": 140609, "D": "extremely high velocity,  as of projectiles, space vehicles, or accelerated nuclear particles.", "S": [], "A": []}

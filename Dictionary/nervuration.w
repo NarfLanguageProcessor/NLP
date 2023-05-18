@@ -1,0 +1,1 @@
+{"index": 198777, "D": "the arrangement of the veins in the wing of an insect.", "S": [], "A": []}

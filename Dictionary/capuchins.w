@@ -1,0 +1,1 @@
+{"index": 47236, "D": "a Central and South American monkey, Cebus capucinus, having a prehensile tail and hair on the head resembling a cowl.", "S": ["babushka ", "bonnet ", "coif ", "cowl ", "hat ", "kerchief ", "mantilla ", "mantle ", "protector ", "purdah ", "shawl ", "veil ", "wimple ", "yashmak "], "A": []}

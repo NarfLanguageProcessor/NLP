@@ -1,0 +1,1 @@
+{"index": 338386, "D": "to have the necessary courage or boldness for something; be bold enough", "S": [], "A": []}

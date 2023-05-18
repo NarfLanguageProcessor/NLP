@@ -1,0 +1,1 @@
+{"index": 106948, "D": "pertaining to execration.", "S": [], "A": []}

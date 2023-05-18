@@ -1,0 +1,1 @@
+{"index": 274055, "D": "a hard, light-colored, sharp, Italian cheese, usually made of ewe's milk.", "S": [], "A": []}

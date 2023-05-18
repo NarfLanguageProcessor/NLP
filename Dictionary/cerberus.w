@@ -1,0 +1,1 @@
+{"index": 51327, "D": "a dog, usually represented as having three heads, that guarded the entrance of the infernal regions.", "S": ["curator ", "keeper ", "overseer ", "protector ", "steward ", "superintendent ", "supervisor ", "warden ", "watchdog "], "A": []}

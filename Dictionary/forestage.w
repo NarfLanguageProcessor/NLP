@@ -1,0 +1,1 @@
+{"index": 117015, "D": "the part of a stage  in front of the proscenium or the closed curtain, as the apron or an extension of the apron.", "S": [], "A": []}

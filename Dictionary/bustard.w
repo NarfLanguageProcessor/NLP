@@ -1,0 +1,1 @@
+{"index": 43522, "D": "any of several large, chiefly terrestrial and ground-running birds of the family Otididae, of the Old World and Australia, related to the cranes.", "S": [], "A": []}

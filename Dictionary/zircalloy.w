@@ -1,0 +1,1 @@
+{"index": 369526, "D": "an alloy of zirconium containing small amounts of tin, chromium, and nickel. It is used in pressurized-water reactors", "S": [], "A": []}

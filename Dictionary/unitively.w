@@ -1,0 +1,1 @@
+{"index": 345081, "D": "capable of causing unity or serving to unite. ", "S": [], "A": []}

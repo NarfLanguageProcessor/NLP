@@ -1,0 +1,1 @@
+{"index": 150455, "D": "not credulous; disinclined or indisposed to believe; skeptical ", "S": ["atheism ", "discredit ", "distrust ", "dubiety ", "incredulity ", "mistrust ", "nihilism ", "rejection ", "repudiation ", "spurning ", "unbelief ", "unbelievingness ", "unfaith "], "A": []}

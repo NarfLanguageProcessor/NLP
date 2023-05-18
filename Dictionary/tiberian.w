@@ -1,0 +1,1 @@
+{"index": 323153, "D": "of or relating to the emperor Tiberius.", "S": [], "A": []}

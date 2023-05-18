@@ -1,0 +1,1 @@
+{"index": 218877, "D": "serving or tending to decorate. ", "S": [], "A": []}

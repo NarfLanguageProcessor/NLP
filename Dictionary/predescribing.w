@@ -1,0 +1,1 @@
+{"index": 246813, "D": "to tell or depict in written or spoken words; give an account of", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 60306, "D": "of, relating to, or resembling a clod  or boor; doltish; stolid.", "S": [], "A": []}

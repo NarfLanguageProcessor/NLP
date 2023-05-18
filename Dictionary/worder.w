@@ -1,0 +1,1 @@
+{"index": 367417, "D": [], "S": ["comprehensive ", "encyclopedic ", "extensive ", "full-scale ", "in-depth ", "intensive ", "sweeping ", "thorough "], "A": ["exclusive ", "incomplete ", "narrow ", "partial ", "superficial "]}

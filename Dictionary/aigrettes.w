@@ -1,0 +1,1 @@
+{"index": 6739, "D": "a plume or tuft of feathers, especially the back plume of any of various herons, arranged as a head ornament.", "S": ["ridge "], "A": ["bottom ", "nadir "]}

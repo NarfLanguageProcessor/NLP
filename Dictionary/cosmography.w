@@ -1,0 +1,1 @@
+{"index": 70051, "D": "a science that describes and maps the main features of the heavens and the earth, including astronomy, geography, and geology.", "S": [], "A": []}

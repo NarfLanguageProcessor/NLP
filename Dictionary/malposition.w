@@ -1,0 +1,1 @@
+{"index": 178633, "D": "faulty or wrong position,  especially of a part or organ of the body or of a fetus in the uterus.", "S": [], "A": []}

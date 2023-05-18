@@ -1,0 +1,1 @@
+{"index": 254217, "D": "of, pertaining to, characterized by, or resulting from prudence. ", "S": [], "A": []}

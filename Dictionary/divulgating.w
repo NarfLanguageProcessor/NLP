@@ -1,0 +1,1 @@
+{"index": 90425, "D": "to make publicly known; publish.", "S": [], "A": []}

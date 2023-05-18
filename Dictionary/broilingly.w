@@ -1,0 +1,1 @@
+{"index": 41190, "D": "to cook by direct heat, as on a gridiron over the heat or in an oven under the heat; grill", "S": [], "A": []}

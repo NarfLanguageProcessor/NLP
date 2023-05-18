@@ -1,0 +1,1 @@
+{"index": 304292, "D": "a person or thing that sticks. ", "S": ["decal ", "decalcomania "], "A": []}

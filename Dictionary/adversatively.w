@@ -1,0 +1,1 @@
+{"index": 4646, "D": "expressing contrariety, opposition, or antithesis", "S": [], "A": []}

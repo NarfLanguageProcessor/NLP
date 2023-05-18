@@ -1,0 +1,1 @@
+{"index": 9879, "D": "an explosive mixture of ammonium nitrate and TNT.", "S": [], "A": []}

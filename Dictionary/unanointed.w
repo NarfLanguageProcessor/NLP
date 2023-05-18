@@ -1,0 +1,1 @@
+{"index": 335030, "D": "consecrated or made sacred; dedicated to God, often in a ceremony that includes dabbing or sprinkling with holy oil", "S": [], "A": []}

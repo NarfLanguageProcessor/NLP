@@ -1,0 +1,1 @@
+{"index": 347077, "D": "to close, shut, or stop up (a passage, opening, etc.).", "S": [], "A": []}

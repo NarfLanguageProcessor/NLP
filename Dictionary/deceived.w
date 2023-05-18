@@ -1,0 +1,1 @@
+{"index": 78155, "D": "to mislead by a false appearance or statement; delude", "S": ["bamboozled ", "betrayed ", "conned ", "culled ", "duped ", "fooled ", "had ", "hoodwinked ", "lured ", "played ", "taken ", "trapped ", "victimized "], "A": ["informed ", "trusted "]}

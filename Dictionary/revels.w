@@ -1,0 +1,1 @@
+{"index": 271160, "D": "U.S. clergyman, educator, and politician", "S": ["Pancake Day ", "Pancake Tuesday ", "Shrove Tuesday ", "carnival ", "celebration ", "festival ", "parade "], "A": []}

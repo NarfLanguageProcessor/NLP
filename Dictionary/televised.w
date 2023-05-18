@@ -1,0 +1,1 @@
+{"index": 318305, "D": "to send or receive by television. ", "S": ["expressed "], "A": []}

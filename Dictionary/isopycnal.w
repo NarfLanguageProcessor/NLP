@@ -1,0 +1,1 @@
+{"index": 159168, "D": "a line on a map connecting points of equal atmospheric density", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 200378, "D": "a synthetic, long-chain polymer fiber that produces a soft, elastic fabric.", "S": [], "A": []}

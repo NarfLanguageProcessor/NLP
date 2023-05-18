@@ -1,0 +1,1 @@
+{"index": 182366, "D": "a unit of frequency, equal to one million cycles per second. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 280191, "D": "of, resembling, or in the form of schist. ", "S": [], "A": []}

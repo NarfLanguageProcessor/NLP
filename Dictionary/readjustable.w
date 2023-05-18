@@ -1,0 +1,1 @@
+{"index": 261610, "D": "to adjust  again or anew; rearrange.", "S": [], "A": []}

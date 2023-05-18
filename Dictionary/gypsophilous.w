@@ -1,0 +1,1 @@
+{"index": 125436, "D": "any plant living or thriving in soil containing gypsum.", "S": [], "A": []}

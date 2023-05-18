@@ -1,0 +1,1 @@
+{"index": 150260, "D": "without due regard for the rights or feelings of others", "S": ["foolishly ", "impulsively ", "passionately ", "recklessly "], "A": ["carefully ", "cautiously ", "considerately ", "purposely ", "reasonably ", "sensibly "]}

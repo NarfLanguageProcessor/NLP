@@ -1,0 +1,1 @@
+{"index": 66966, "D": "(in prescriptions) dust; sprinkle.", "S": [], "A": []}

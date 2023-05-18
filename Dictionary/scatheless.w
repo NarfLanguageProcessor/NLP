@@ -1,0 +1,1 @@
+{"index": 279835, "D": "to attack with severe criticism.", "S": ["flawless ", "perfect ", "unblemished ", "unbroken ", "unharmed ", "unhurt ", "unscathed ", "untouched "], "A": ["broken ", "damaged ", "flawed ", "harmed ", "hurt ", "imperfect ", "injured "]}

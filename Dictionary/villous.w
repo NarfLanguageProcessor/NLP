@@ -1,0 +1,1 @@
+{"index": 359780, "D": "covered with or of the nature of villi.", "S": ["furry ", "fuzzy ", "shaggy ", "unshaven ", "woolly "], "A": ["smooth "]}

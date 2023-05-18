@@ -1,0 +1,1 @@
+{"index": 153683, "D": "unsociable. ", "S": ["arrogant ", "cold ", "remote "], "A": ["friendly ", "warm "]}

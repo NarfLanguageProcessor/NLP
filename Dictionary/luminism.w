@@ -1,0 +1,1 @@
+{"index": 176106, "D": "a style of landscape painting practiced by some mid-19th-century American artists, especially of the Hudson River School, that emphasized meticulously crafted realism and a technically precise rendering of atmosphere and of the effects produced by direct and reflected light.", "S": [], "A": []}

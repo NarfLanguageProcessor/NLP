@@ -1,0 +1,1 @@
+{"index": 222823, "D": "a large ganoid fish, Polyodon spathula, of the Mississippi River and its larger tributaries, having a long, flat, paddlelike snout.", "S": [], "A": []}

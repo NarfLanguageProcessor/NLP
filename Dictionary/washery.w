@@ -1,0 +1,1 @@
+{"index": 362889, "D": "a plant at a mine where water or other liquid is used to remove dirt from a mineral, esp coal", "S": [], "A": []}

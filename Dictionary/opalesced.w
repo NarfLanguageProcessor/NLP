@@ -1,0 +1,1 @@
+{"index": 213181, "D": "to exhibit a play of colors like that of the opal.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308513, "D": "to put or sink below the surface of water or any other enveloping medium.", "S": ["deluge ", "douse ", "drench ", "drown ", "engulf ", "flood ", "immerse ", "inundate ", "overflow ", "overwhelm ", "sink ", "subside ", "swamp "], "A": ["dry ", "float ", "grow ", "increase ", "rise ", "underwhelm ", "ascend "]}

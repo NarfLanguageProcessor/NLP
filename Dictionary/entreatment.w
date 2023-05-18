@@ -1,0 +1,1 @@
+{"index": 101664, "D": "to ask (a person) earnestly; beseech; implore; beg", "S": ["appeal ", "application ", "call ", "claim ", "insistence ", "interest ", "need ", "order ", "requirement ", "sale ", "trade ", "use "], "A": ["answer ", "reply ", "retreat "]}

@@ -1,0 +1,1 @@
+{"index": 211618, "D": "a person who holds a position of rank or authority in the army, navy, air force, or any similar organization, especially one who holds a commission.", "S": [], "A": []}

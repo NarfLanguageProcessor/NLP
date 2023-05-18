@@ -1,0 +1,1 @@
+{"index": 260934, "D": "a pattern of scanning lines covering the area upon which the image is projected in the cathode-ray tube or liquid crystal display of a television set or other screen.", "S": [], "A": []}

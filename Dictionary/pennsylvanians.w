@@ -1,0 +1,1 @@
+{"index": 229787, "D": "of or relating to the state of Pennsylvania. ", "S": [], "A": []}

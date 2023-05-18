@@ -1,0 +1,1 @@
+{"index": 89885, "D": "to constrain by seizing and holding goods, etc., in pledge for rent, damages, etc., or in order to obtain satisfaction of a claim.", "S": [], "A": []}

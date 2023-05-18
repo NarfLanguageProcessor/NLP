@@ -1,0 +1,1 @@
+{"index": 159321, "D": "the quality or condition of being isotopic; isotopic character.", "S": [], "A": []}

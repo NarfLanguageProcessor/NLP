@@ -1,0 +1,1 @@
+{"index": 285431, "D": "related to or affecting a sensory  nerve or a sensory  mechanism together with its neural  circuitry.", "S": [], "A": []}

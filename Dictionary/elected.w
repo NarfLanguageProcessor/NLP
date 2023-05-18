@@ -1,0 +1,1 @@
+{"index": 96871, "D": "chosen by vote, as for an office (contrasted with appointed)", "S": ["named "], "A": []}

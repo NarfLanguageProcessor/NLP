@@ -1,0 +1,1 @@
+{"index": 110273, "D": "not having a living father", "S": [], "A": []}

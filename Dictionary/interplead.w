@@ -1,0 +1,1 @@
+{"index": 155637, "D": "to litigate with each other in order to determine which of two parties is the rightful claimant against a third party.", "S": [], "A": []}

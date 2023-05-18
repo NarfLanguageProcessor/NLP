@@ -1,0 +1,1 @@
+{"index": 319397, "D": "the system of terms belonging or peculiar to a science, art, or specialized subject; nomenclature", "S": [], "A": []}

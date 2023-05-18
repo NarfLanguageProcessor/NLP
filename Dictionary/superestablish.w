@@ -1,0 +1,1 @@
+{"index": 311764, "D": "to found, institute, build, or bring into being on a firm or stable basis", "S": [], "A": []}

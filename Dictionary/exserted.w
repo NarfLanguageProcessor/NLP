@@ -1,0 +1,1 @@
+{"index": 108135, "D": "projecting beyond the surrounding parts, as a stamen.", "S": [], "A": []}

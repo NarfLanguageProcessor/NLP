@@ -1,0 +1,1 @@
+{"index": 345506, "D": "denoting knowledge or skills innately present and therefore not learnt", "S": [], "A": []}

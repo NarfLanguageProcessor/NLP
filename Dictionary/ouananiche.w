@@ -1,0 +1,1 @@
+{"index": 216034, "D": "a landlocked variety of the Atlantic salmon, Salmo salar, found in lakes in SE Canada", "S": [], "A": []}

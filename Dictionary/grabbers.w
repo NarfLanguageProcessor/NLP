@@ -1,0 +1,1 @@
+{"index": 128460, "D": "a person or thing that grabs. ", "S": ["craving ", "craze ", "craziness ", "enthusiasm ", "fad ", "fascination ", "frenzy ", "infatuation ", "lunacy ", "obsession ", "passion ", "rage "], "A": ["calmness ", "dislike ", "hate ", "indifference ", "balance ", "conformity ", "hatred ", "soundness "]}

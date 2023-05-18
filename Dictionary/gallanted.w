@@ -1,0 +1,1 @@
+{"index": 121300, "D": "brave, spirited, noble-minded, or chivalrous", "S": ["attract ", "charm ", "cultivate ", "entice ", "invite ", "please ", "praise ", "propose ", "pursue ", "seek ", "solicit ", "sue ", "woo "], "A": ["condemn ", "deny ", "displease ", "ignore ", "neglect ", "refuse ", "reject ", "repel ", "repulse ", "turn off ", "offend "]}

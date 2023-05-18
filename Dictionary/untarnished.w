@@ -1,0 +1,1 @@
+{"index": 352695, "D": "(of silver, etc) not tarnished or discoloured", "S": ["clean ", "pure ", "stainless ", "unsoiled ", "unspotted ", "unstained ", "unsullied ", "untainted "], "A": ["tarnished "]}

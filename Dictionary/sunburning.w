@@ -1,0 +1,1 @@
+{"index": 311053, "D": "inflammation of the skin caused by overexposure to the sun  or a sunlamp.", "S": [], "A": []}

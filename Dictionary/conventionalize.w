@@ -1,0 +1,1 @@
+{"index": 67980, "D": "to make conventional. ", "S": ["pigeonhole "], "A": ["confuse ", "disorganize "]}

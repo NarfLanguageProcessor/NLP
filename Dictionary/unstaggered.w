@@ -1,0 +1,1 @@
+{"index": 351899, "D": "arranged in a series of alternating or continually overlapping intervals of time", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 120595, "D": "easily melted; fusible", "S": [], "A": []}

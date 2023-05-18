@@ -1,0 +1,1 @@
+{"index": 189695, "D": "reflecting or exhibiting hatred, dislike, or mistrust of women.", "S": [], "A": []}

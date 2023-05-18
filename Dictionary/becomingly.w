@@ -1,0 +1,1 @@
+{"index": 29888, "D": "that suits or gives a pleasing effect or attractive appearance, as to a person or thing", "S": ["properly ", "well "], "A": ["inaccurately ", "inappropriately ", "incorrectly ", "indirectly ", "unfairly ", "unjustly ", "unsuitably ", "wrongly "]}

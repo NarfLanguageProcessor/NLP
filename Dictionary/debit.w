@@ -1,0 +1,1 @@
+{"index": 77779, "D": "the recording or an entry of debt in an account.", "S": ["account ", "accounts ", "arrears ", "bills ", "charge ", "collectible ", "debt ", "deficit ", "indebtedness ", "liability ", "obligation "], "A": ["asset ", "excess "]}

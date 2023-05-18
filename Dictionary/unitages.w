@@ -1,0 +1,1 @@
+{"index": 345046, "D": "specification of the amount making up a unit in a system of measurement.", "S": [], "A": []}

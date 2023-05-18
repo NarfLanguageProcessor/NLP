@@ -1,0 +1,1 @@
+{"index": 37195, "D": "the physical structure and material substance of an animal or plant, living or dead.", "S": ["frame ", "torso "], "A": ["head ", "mind ", "soul ", "spirit "]}

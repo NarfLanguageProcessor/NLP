@@ -1,0 +1,1 @@
+{"index": 217046, "D": "a parish  located outside the boundaries of or at a distance from a town or city; an outlying parish. ", "S": [], "A": []}

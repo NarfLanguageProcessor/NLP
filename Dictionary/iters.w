@@ -1,0 +1,1 @@
+{"index": 159537, "D": "a canal or passage.", "S": [], "A": []}

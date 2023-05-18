@@ -1,0 +1,1 @@
+{"index": 232376, "D": "having or marked with petechiae. ", "S": [], "A": []}

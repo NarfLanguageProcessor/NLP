@@ -1,0 +1,1 @@
+{"index": 25422, "D": "to make the sound of a sheep; bleat.", "S": [], "A": []}

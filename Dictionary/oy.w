@@ -1,0 +1,1 @@
+{"index": 211794, "D": "(used to express dismay, pain, annoyance, grief, etc.)", "S": [], "A": []}

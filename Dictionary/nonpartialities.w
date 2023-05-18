@@ -1,0 +1,1 @@
+{"index": 205768, "D": "the state or character of being partial. ", "S": [], "A": []}

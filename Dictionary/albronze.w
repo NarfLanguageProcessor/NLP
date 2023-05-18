@@ -1,0 +1,1 @@
+{"index": 7499, "D": "any of several alloys containing a high percentage of copper with from 5 to 11 percent aluminum and varying amounts of iron, nickel, manganese, and other elements.", "S": [], "A": []}

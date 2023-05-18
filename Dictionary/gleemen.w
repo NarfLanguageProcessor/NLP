@@ -1,0 +1,1 @@
+{"index": 126126, "D": "(in medieval times) an itinerant singer; minstrel.", "S": ["troubadour "], "A": []}

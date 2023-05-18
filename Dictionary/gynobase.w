@@ -1,0 +1,1 @@
+{"index": 125319, "D": "an elevation of the receptacle of a flower, bearing the gynoecium.", "S": [], "A": []}

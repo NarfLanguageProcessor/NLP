@@ -1,0 +1,1 @@
+{"index": 59431, "D": "a biased or discriminatory attitude based on distinctions made between social or economic classes. ", "S": [], "A": []}

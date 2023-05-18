@@ -1,0 +1,1 @@
+{"index": 321786, "D": "any of several American raspberries bearing a thimble-shaped fruit, especially the black raspberry, Rubus occidentalis.", "S": [], "A": []}

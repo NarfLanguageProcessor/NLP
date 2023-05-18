@@ -1,0 +1,1 @@
+{"index": 341638, "D": "not exceptional;  not unusual or extraordinary.", "S": [], "A": []}

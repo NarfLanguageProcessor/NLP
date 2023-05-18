@@ -1,0 +1,1 @@
+{"index": 49635, "D": "any of a number of short ropes or rods for gathering in shrouds near their tops.", "S": [], "A": []}

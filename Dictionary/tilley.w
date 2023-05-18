@@ -1,0 +1,1 @@
+{"index": 323599, "D": "Vesta (\u02c8v\u025bst\u0259), original name Matilda Alice Powles. 1864\u20131952, British music-hall entertainer, best known as a male impersonator", "S": [], "A": []}

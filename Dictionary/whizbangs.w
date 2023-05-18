@@ -1,0 +1,1 @@
+{"index": 365261, "D": [], "S": ["artist ", "authority ", "connoisseur ", "doctor ", "genius ", "guru ", "professional ", "scientist "], "A": ["amateur ", "ignoramus ", "loser ", "rookie "]}

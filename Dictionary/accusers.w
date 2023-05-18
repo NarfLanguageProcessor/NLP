@@ -1,0 +1,1 @@
+{"index": 1870, "D": "a person who accuses,  especially in a court of law", "S": ["informer ", "prosecutor ", "rat ", "tattletale "], "A": []}

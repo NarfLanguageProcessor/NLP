@@ -1,0 +1,1 @@
+{"index": 50187, "D": [], "S": ["Cro-Magnon ", "Cro-Magnon race ", "Homo sapiens ", "Paleolithic man ", "cave dweller ", "caveman ", "cavewoman ", "human "], "A": []}

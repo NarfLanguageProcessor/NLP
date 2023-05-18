@@ -1,0 +1,1 @@
+{"index": 116307, "D": "a person or animal who goes out in search of food or provisions of any kind", "S": ["criminal ", "gangster ", "hooligan ", "marauder ", "mobster ", "outlaw ", "pirate ", "raider ", "robber "], "A": ["lawman ", "policeman "]}

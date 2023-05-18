@@ -1,0 +1,1 @@
+{"index": 26370, "D": "a revetment,  consisting of heavy material sewn into bags, for protecting embankments against scour.", "S": [], "A": []}

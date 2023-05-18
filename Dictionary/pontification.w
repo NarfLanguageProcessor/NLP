@@ -1,0 +1,1 @@
+{"index": 243081, "D": "pompous or dogmatic speech", "S": [], "A": []}

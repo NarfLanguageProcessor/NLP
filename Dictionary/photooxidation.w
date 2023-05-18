@@ -1,0 +1,1 @@
+{"index": 235282, "D": "oxidation induced by light.", "S": [], "A": []}

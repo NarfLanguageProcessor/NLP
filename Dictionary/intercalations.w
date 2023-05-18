@@ -1,0 +1,1 @@
+{"index": 154545, "D": "the act of intercalating;  insertion or interpolation, as in a series.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 165616, "D": "having or covered with small knobs; bumpy", "S": [], "A": []}

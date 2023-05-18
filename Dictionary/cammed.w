@@ -1,0 +1,1 @@
+{"index": 45746, "D": "a disk or cylinder having an irregular form such that its motion, usually rotary, gives to a part or parts in contact with it a specific rocking or reciprocating motion.", "S": [], "A": []}

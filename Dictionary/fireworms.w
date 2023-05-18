@@ -1,0 +1,1 @@
+{"index": 113236, "D": "the larva of any of several moths, as Rhopobota naevana(black-headed fireworm ), which feeds on the leaves of cranberries and causes them to wither.", "S": ["candle fly ", "fire beetle ", "firefly ", "glowworm ", "lampyrid ", "lantern fly ", "noctiluca "], "A": []}

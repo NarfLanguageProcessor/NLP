@@ -1,0 +1,1 @@
+{"index": 284961, "D": "having or requiring more training and skill than unskilled labor but less than skilled labor. ", "S": [], "A": []}

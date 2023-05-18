@@ -1,0 +1,1 @@
+{"index": 188693, "D": "to misunderstand.", "S": ["blunder ", "confuse ", "err ", "misconceive ", "misconstrue ", "misinterpret ", "misread ", "miss ", "mistake ", "misunderstand "], "A": ["comprehend ", "correct ", "get ", "interpret ", "perceive ", "understand "]}

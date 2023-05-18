@@ -1,0 +1,1 @@
+{"index": 316600, "D": "an official list or table showing the duties or customs imposed by a government on imports or exports.", "S": [], "A": []}

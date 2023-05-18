@@ -1,0 +1,1 @@
+{"index": 166216, "D": "an enclosure for cattle and other domestic animals in southern Africa.", "S": [], "A": []}

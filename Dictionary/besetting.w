@@ -1,0 +1,1 @@
+{"index": 32312, "D": "constantly assailing or obsessing, as with temptation", "S": ["enthusiastic ", "irresistible ", "passionate ", "uncontrollable "], "A": ["apathetic ", "indifferent ", "unenthusiastic ", "unexcited "]}

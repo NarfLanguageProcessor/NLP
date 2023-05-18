@@ -1,0 +1,1 @@
+{"index": 50295, "D": "candela; candelas.", "S": ["business ", "cash ", "financing ", "investment ", "money "], "A": ["debt "]}

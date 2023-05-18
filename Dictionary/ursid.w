@@ -1,0 +1,1 @@
+{"index": 355881, "D": "any plantigrade carnivore of the family Ursidae, comprising the spectacled bear, the black, brown, and sun bears, and various extinct species that also gave rise to the giant panda of the family Ailuropodidae.", "S": [], "A": []}

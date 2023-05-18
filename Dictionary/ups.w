@@ -1,0 +1,1 @@
+{"index": 354981, "D": "United Parcel Service.", "S": ["ascend ", "awake ", "increase ", "jump ", "raise ", "rise "], "A": ["decline ", "decrease ", "descend ", "diminish ", "drop ", "lessen ", "lower "]}

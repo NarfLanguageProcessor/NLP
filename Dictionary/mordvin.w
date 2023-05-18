@@ -1,0 +1,1 @@
+{"index": 193381, "D": "a member of a Uralic people living in scattered communities in the middle Volga basin, especially between Nizhni Novgorod and Saratov.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 339204, "D": "burning gas or vapor, as from wood or coal, that is undergoing combustion; a portion of ignited gas or vapor.", "S": [], "A": []}

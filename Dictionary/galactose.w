@@ -1,0 +1,1 @@
+{"index": 121128, "D": "a white, crystalline, water-soluble hexose sugar, C6H12O6, obtained in its dextrorotatory form from milk sugar by hydrolysis and in its levorotatory form from mucilages.", "S": ["cellulose ", "glucose ", "lactose ", "starch ", "sugar "], "A": []}

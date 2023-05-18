@@ -1,0 +1,1 @@
+{"index": 232522, "D": "(of a rock or geologic formation) containing or yielding petroleum. ", "S": [], "A": []}

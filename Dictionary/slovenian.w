@@ -1,0 +1,1 @@
+{"index": 294437, "D": "one of a Slavic people dwelling in Slovenia.", "S": [], "A": []}

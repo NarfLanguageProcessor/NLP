@@ -1,0 +1,1 @@
+{"index": 287964, "D": "the firing  of explosive shells  or projectiles.", "S": [], "A": []}

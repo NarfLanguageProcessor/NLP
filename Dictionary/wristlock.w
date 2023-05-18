@@ -1,0 +1,1 @@
+{"index": 368032, "D": "a hold in which an opponent's wrist  is grasped and twisted.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 53367, "D": "(in a window sash) a meeting rail, especially one closing against the corresponding rail with a diagonal or rabbeted overlap.", "S": [], "A": []}

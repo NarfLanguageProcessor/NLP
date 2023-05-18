@@ -1,0 +1,1 @@
+{"index": 126942, "D": "a salt or ester of glutamic acid. ", "S": [], "A": []}

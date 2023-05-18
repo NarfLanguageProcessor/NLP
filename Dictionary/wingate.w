@@ -1,0 +1,1 @@
+{"index": 366124, "D": "Orde (Charles) (\u0254\u02d0d). 1903\u201344, British soldier. During World War II he organized the Chindits in Burma (Myanmar) to disrupt Japanese communications. He died in an air crash", "S": [], "A": []}

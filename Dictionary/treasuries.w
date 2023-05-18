@@ -1,0 +1,1 @@
+{"index": 328708, "D": "a place where the funds of the government, of a corporation, or the like are deposited, kept, and disbursed.", "S": ["bank ", "coffer ", "exchequer "], "A": ["debt "]}

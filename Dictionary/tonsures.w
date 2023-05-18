@@ -1,0 +1,1 @@
+{"index": 325674, "D": "the act of cutting the hair or shaving the head.", "S": [], "A": []}

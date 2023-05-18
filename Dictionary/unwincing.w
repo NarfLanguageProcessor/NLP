@@ -1,0 +1,1 @@
+{"index": 354251, "D": "that does not wince; unflinching; fearless.", "S": [], "A": []}

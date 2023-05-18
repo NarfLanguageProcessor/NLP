@@ -1,0 +1,1 @@
+{"index": 354134, "D": "Compare machine (def. 3b). ", "S": [], "A": []}

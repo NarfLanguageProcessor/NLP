@@ -1,0 +1,1 @@
+{"index": 106677, "D": "an officer who collects excise  taxes and enforces excise  laws.", "S": [], "A": []}

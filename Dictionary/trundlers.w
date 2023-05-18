@@ -1,0 +1,1 @@
+{"index": 331625, "D": "to cause (a circular object) to roll along; roll.", "S": [], "A": []}

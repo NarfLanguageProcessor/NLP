@@ -1,0 +1,1 @@
+{"index": 127833, "D": "an asexually produced bud in hydrozoans that gives rise to the equivalent of a medusa.", "S": [], "A": []}

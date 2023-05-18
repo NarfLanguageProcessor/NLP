@@ -1,0 +1,1 @@
+{"index": 83807, "D": "an enzyme that hydrolyzes dextran  to smaller oligosaccharides", "S": [], "A": []}

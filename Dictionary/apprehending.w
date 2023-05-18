@@ -1,0 +1,1 @@
+{"index": 17925, "D": "to take into custody; arrest by legal warrant or authority", "S": ["appreciating ", "comprehending ", "discerning ", "finding ", "grasping ", "knowing ", "perceiving ", "recognizing "], "A": []}

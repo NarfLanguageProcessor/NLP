@@ -1,0 +1,1 @@
+{"index": 136779, "D": "a hydrate  that contains seven molecules of water, as magnesium sulfate, MgSO4\u22c57H2O.", "S": [], "A": []}

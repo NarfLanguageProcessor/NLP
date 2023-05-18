@@ -1,0 +1,1 @@
+{"index": 123062, "D": "any of numerous small, mostly nocturnal tropical lizards of the family Gekkonidae, usually having toe pads that can cling to smooth surfaces", "S": [], "A": []}

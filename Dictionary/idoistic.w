@@ -1,0 +1,1 @@
+{"index": 146611, "D": "a revised and simplified form of Esperanto, introduced in 1907.", "S": [], "A": []}

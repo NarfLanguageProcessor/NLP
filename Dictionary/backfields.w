@@ -1,0 +1,1 @@
+{"index": 25778, "D": "the members of the team who, on offense, are stationed behind the linemen and, on defense, behind the linebackers.", "S": [], "A": []}

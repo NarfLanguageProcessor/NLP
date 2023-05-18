@@ -1,0 +1,1 @@
+{"index": 34250, "D": "of or denoting the binomial nomenclature", "S": [], "A": []}

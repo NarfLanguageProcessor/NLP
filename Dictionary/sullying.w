@@ -1,0 +1,1 @@
+{"index": 310571, "D": "to soil, stain, or tarnish.", "S": ["besmirch ", "blacken ", "corrupt ", "debase ", "defile ", "discolor ", "disgrace ", "dishonor ", "smear ", "smudge ", "taint ", "tar ", "tarnish "], "A": ["clean ", "enhance ", "esteem ", "honor ", "improve ", "laud ", "praise ", "purify ", "upgrade ", "cleanse ", "sterilize "]}

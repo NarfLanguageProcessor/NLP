@@ -1,0 +1,1 @@
+{"index": 222200, "D": "noting or pertaining to a mixture of oxygen and acetylene", "S": [], "A": []}

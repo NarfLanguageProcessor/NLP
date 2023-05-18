@@ -1,0 +1,1 @@
+{"index": 30577, "D": "compulsory labor, as for the repair of bridges or roads.", "S": [], "A": []}

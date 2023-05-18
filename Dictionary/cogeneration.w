@@ -1,0 +1,1 @@
+{"index": 62205, "D": "utilization of the normally wasted heat energy produced by a power plant or industrial process, especially to generate electricity.", "S": [], "A": []}

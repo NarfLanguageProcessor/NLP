@@ -1,0 +1,1 @@
+{"index": 177964, "D": "a thick dressing of egg yolks, vinegar or lemon juice, oil, and seasonings, used for salads, sandwiches, vegetable dishes, etc.", "S": [], "A": []}

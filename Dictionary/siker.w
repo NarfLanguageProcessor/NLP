@@ -1,0 +1,1 @@
+{"index": 290228, "D": "comparative of sick1. ", "S": [], "A": []}

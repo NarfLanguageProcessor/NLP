@@ -1,0 +1,1 @@
+{"index": 82158, "D": "the patterns of ridges on the inner surface of the hands and feet.", "S": [], "A": []}

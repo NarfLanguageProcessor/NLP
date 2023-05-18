@@ -1,0 +1,1 @@
+{"index": 106748, "D": "a portion of a country geographically separated from the main part by surrounding foreign territory", "S": ["area ", "colony ", "country ", "district ", "enclave ", "field ", "land ", "nation ", "neighborhood ", "province ", "sector ", "state ", "street ", "terrain ", "zone "], "A": ["sky "]}

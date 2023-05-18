@@ -1,0 +1,1 @@
+{"index": 62160, "D": "a watertight enclosure placed or constructed in waterlogged soil or under water and pumped dry so that construction or repairs can proceed under normal conditions.", "S": [], "A": []}

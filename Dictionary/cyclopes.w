@@ -1,0 +1,1 @@
+{"index": 57213, "D": "a member of a family of giants having a single round eye in the middle of the forehead.", "S": ["Gargantua ", "Hercules ", "Samson ", "behemoth ", "cyclops ", "giant ", "goliath ", "leviathan ", "mammoth ", "titan "], "A": []}

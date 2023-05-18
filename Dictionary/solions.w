@@ -1,0 +1,1 @@
+{"index": 296795, "D": "a low-frequency amplifying device that operates by controlling the flow of ions  in solution", "S": [], "A": []}

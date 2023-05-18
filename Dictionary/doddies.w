@@ -1,0 +1,1 @@
+{"index": 90728, "D": "a cow or bull having no horns, especially an Aberdeen Angus.", "S": [], "A": []}

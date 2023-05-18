@@ -1,0 +1,1 @@
+{"index": 278933, "D": "a waterfall or rapid.", "S": [], "A": []}

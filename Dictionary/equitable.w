@@ -1,0 +1,1 @@
+{"index": 103398, "D": "characterized by equity or fairness; just and right; fair", "S": ["decent ", "fair ", "honest ", "proper ", "reasonable ", "stable ", "unbiased "], "A": ["biased ", "intolerable ", "prejudiced ", "unreasonable ", "unsuitable "]}

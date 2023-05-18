@@ -1,0 +1,1 @@
+{"index": 290173, "D": "the thing or concept denoted by a sign.", "S": ["hidden ", "implicit ", "indirect ", "latent ", "lurking ", "tacit ", "unspoken "], "A": ["explicit ", "open "]}

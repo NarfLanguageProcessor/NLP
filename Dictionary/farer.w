@@ -1,0 +1,1 @@
+{"index": 109920, "D": "the price of conveyance or passage in a bus, train, airplane, or other vehicle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 249250, "D": "of or relating to a presbytery. ", "S": [], "A": []}

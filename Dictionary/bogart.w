@@ -1,0 +1,1 @@
+{"index": 37281, "D": "to take an unfair share of (something); keep for oneself instead of sharing", "S": ["absorb ", "exclude ", "possess ", "take over ", "utilize "], "A": ["abstain ", "fail ", "ignore ", "lack ", "let go ", "lose ", "need ", "reject ", "release "]}

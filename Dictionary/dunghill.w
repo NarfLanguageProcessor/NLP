@@ -1,0 +1,1 @@
+{"index": 94174, "D": "a heap of dung. ", "S": ["debris ", "rubbish ", "trash ", "waste "], "A": ["possessions ", "sense ", "cleanliness "]}

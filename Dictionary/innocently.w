@@ -1,0 +1,1 @@
+{"index": 153063, "D": "free from moral wrong; without sin; pure", "S": ["kindly ", "naively ", "politely "], "A": []}

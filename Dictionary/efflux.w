@@ -1,0 +1,1 @@
+{"index": 96068, "D": "outward flow, as of water.", "S": ["discharge ", "effluence ", "emanation "], "A": []}

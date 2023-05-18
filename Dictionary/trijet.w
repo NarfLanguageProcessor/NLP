@@ -1,0 +1,1 @@
+{"index": 329914, "D": "an airplane powered by three jet  engines.", "S": [], "A": []}

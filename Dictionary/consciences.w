@@ -1,0 +1,1 @@
+{"index": 66671, "D": "the inner sense of what is right or wrong in one's conduct or motives, impelling one toward right action", "S": ["shame "], "A": ["immorality "]}

@@ -1,0 +1,1 @@
+{"index": 91697, "D": "(of a player or side in match play) being in the lead by as many holes as are still to be played.", "S": [], "A": []}

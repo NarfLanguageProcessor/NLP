@@ -1,0 +1,1 @@
+{"index": 30136, "D": [], "S": ["haunt ", "hound ", "plague ", "shadow "], "A": ["run away "]}

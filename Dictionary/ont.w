@@ -1,0 +1,1 @@
+{"index": 212926, "D": "variant of onto-  before a vowel.", "S": [], "A": []}

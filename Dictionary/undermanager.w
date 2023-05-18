@@ -1,0 +1,1 @@
+{"index": 339460, "D": "a person who has control or direction of an institution, business, etc., or of a part, division, or phase of it.", "S": [], "A": []}

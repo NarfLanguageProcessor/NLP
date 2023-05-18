@@ -1,0 +1,1 @@
+{"index": 352763, "D": "capable of being told. ", "S": ["ineffable ", "sublime ", "unspeakable "], "A": ["definable ", "describable ", "explainable "]}

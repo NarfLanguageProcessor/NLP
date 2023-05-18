@@ -1,0 +1,1 @@
+{"index": 121248, "D": "any of various thin, round cakes or pastries, often with a filling or topping", "S": [], "A": []}

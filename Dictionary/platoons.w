@@ -1,0 +1,1 @@
+{"index": 239551, "D": "a military unit consisting of two or more squads or sections and a headquarters.", "S": ["batch ", "detachment ", "patrol ", "squad ", "squadron "], "A": ["individual ", "one ", "whole "]}

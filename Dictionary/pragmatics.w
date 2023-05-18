@@ -1,0 +1,1 @@
+{"index": 245213, "D": "the branch of semiotics dealing with the causal and other relations between words, expressions, or symbols and their users.", "S": ["parole ", "semantics ", "symbolism "], "A": []}

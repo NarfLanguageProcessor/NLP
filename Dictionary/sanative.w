@@ -1,0 +1,1 @@
+{"index": 277630, "D": "having the power to heal; curative.", "S": ["corrective ", "healthful ", "invigorating ", "medicinal ", "remedial ", "salutary ", "therapeutic "], "A": ["damaging ", "harmful ", "hurtful ", "injurious "]}

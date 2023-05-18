@@ -1,0 +1,1 @@
+{"index": 348668, "D": "to offer or suggest (a matter, subject, case, etc.) for consideration, acceptance, or action", "S": [], "A": []}

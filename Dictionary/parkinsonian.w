@@ -1,0 +1,1 @@
+{"index": 226569, "D": "of, related to, or resembling Parkinson's disease. ", "S": [], "A": []}

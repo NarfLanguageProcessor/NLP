@@ -1,0 +1,1 @@
+{"index": 271407, "D": "to recall or form mental images or pictures.", "S": [], "A": []}

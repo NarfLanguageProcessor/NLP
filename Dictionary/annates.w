@@ -1,0 +1,1 @@
+{"index": 13485, "D": "the first year's revenue of a see, an abbacy, or a minor benefice, paid to the pope", "S": [], "A": []}

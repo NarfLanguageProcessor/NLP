@@ -1,0 +1,1 @@
+{"index": 361576, "D": "characterized by ignorance of or lack of good breeding or taste", "S": [], "A": []}

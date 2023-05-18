@@ -1,0 +1,1 @@
+{"index": 92888, "D": "the ancient time of the creation of all things by sacred ancestors, whose spirits continue into the present, as conceived in Australian Aboriginal mythology.", "S": [], "A": []}

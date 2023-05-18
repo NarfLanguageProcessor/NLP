@@ -1,0 +1,1 @@
+{"index": 318458, "D": "the last segment, or an appendage of the last segment, of certain arthropods, as the middle flipper of a lobster's tail.", "S": [], "A": []}

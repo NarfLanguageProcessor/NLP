@@ -1,0 +1,1 @@
+{"index": 8369, "D": "the gods have deemed otherwise.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 42479, "D": "of relatively large and cumbersome bulk  or size.", "S": [], "A": []}

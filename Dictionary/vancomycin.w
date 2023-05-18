@@ -1,0 +1,1 @@
+{"index": 356929, "D": "a bactericidal antibiotic, C66H75ClN9O24, produced by Streptomyces orientalis, used in the treatment of antibiotic-associated colitis and endocarditis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 302888, "D": "any of several plants having starlike flowers,  as the star-of-Bethlehem or a plant belonging to the genus Trientalis of the primrose family.", "S": [], "A": []}

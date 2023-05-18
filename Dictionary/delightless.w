@@ -1,0 +1,1 @@
+{"index": 80092, "D": "a high degree of pleasure or enjoyment; joy; rapture", "S": [], "A": []}

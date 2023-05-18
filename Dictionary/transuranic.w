@@ -1,0 +1,1 @@
+{"index": 328372, "D": "(of an element) having an atomic number greater than that of uranium", "S": [], "A": []}

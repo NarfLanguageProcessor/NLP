@@ -1,0 +1,1 @@
+{"index": 124917, "D": "a rope used as a temporary guy.", "S": [], "A": []}

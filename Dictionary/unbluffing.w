@@ -1,0 +1,1 @@
+{"index": 336001, "D": "the act of misleading someone by a display of strength, self-confidence, or the like", "S": [], "A": []}

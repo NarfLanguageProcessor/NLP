@@ -1,0 +1,1 @@
+{"index": 282018, "D": "to rub hard with a brush, cloth, etc., or against a rough surface in washing.", "S": ["brush ", "cleanse ", "mop ", "rub ", "scour ", "wash "], "A": ["dirty "]}

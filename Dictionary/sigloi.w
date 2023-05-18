@@ -1,0 +1,1 @@
+{"index": 290056, "D": "a silver coin of ancient Persia, the 20th part of a daric.", "S": [], "A": []}

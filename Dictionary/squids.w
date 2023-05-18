@@ -1,0 +1,1 @@
+{"index": 301936, "D": "any of several ten-armed cephalopods, as of the genera Loligo and Ommastrephes, having a slender body and a pair of rounded or triangular caudal fins and varying in length from 4\u20136 inches (10\u201315 centimeters) to 60\u201380 feet (18\u201324 meters).", "S": [], "A": []}

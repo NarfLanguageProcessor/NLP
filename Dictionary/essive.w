@@ -1,0 +1,1 @@
+{"index": 104539, "D": "noting a case, as in Finnish, whose distinctive function is to indicate a state of being.", "S": [], "A": []}

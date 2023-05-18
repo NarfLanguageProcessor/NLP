@@ -1,0 +1,1 @@
+{"index": 298911, "D": "an apparatus for making photographs of the sun with a monochromatic light to show the details of the sun's surface and surroundings as they would appear if the sun emitted only that light.", "S": [], "A": []}

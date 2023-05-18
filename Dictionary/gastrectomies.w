@@ -1,0 +1,1 @@
+{"index": 122501, "D": "partial or total excision of the stomach.", "S": [], "A": []}

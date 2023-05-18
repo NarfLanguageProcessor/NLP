@@ -1,0 +1,1 @@
+{"index": 232370, "D": "a small valve or faucet, as for draining off excess or waste material from the cylinder of a steam engine or an internal-combustion engine.", "S": ["spigot ", "valve "], "A": []}

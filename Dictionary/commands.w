@@ -1,0 +1,1 @@
+{"index": 63898, "D": "to direct with specific authority or prerogative; order", "S": ["direction ", "duty ", "law ", "mandate ", "order ", "regulation ", "request ", "responsibility ", "rule ", "word "], "A": ["answer ", "disorganization ", "irresponsibility ", "lawlessness ", "allowance ", "permission "]}

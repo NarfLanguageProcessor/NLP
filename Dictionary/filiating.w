@@ -1,0 +1,1 @@
+{"index": 112608, "D": "Compare affiliate (def. 6). ", "S": [], "A": []}

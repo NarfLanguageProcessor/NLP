@@ -1,0 +1,1 @@
+{"index": 301229, "D": [], "S": ["cap ", "climb ", "cover ", "face ", "finish "], "A": ["descend "]}

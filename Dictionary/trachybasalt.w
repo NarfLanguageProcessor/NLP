@@ -1,0 +1,1 @@
+{"index": 327120, "D": "a fine-grained volcanic rock containing sanidine and calcic plagioclase.", "S": [], "A": []}

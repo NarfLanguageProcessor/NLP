@@ -1,0 +1,1 @@
+{"index": 144412, "D": "a medium-sized, gray-striped fly, Musca domestica, common around human habitations in nearly all parts of the world.", "S": [], "A": []}

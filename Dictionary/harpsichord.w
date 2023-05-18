@@ -1,0 +1,1 @@
+{"index": 133939, "D": "a keyboard instrument, precursor of the piano, in which the strings are plucked by leather or quill points connected with the keys, in common use from the 16th to the 18th century, and revived in the 20th.", "S": [], "A": []}

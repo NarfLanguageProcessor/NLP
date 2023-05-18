@@ -1,0 +1,1 @@
+{"index": 366270, "D": "to prepare (an automobile, house, etc.) for cold weather by (in automobiles) adding antifreeze and changing oil or (in houses) adding insulation, heating units, etc.", "S": [], "A": []}

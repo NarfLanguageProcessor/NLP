@@ -1,0 +1,1 @@
+{"index": 165783, "D": "a knockout in boxing.", "S": ["bump ", "concussion ", "impact ", "jab ", "jolt ", "kick ", "punch ", "shock ", "slap ", "stroke ", "uppercut "], "A": []}

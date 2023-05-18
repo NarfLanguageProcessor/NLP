@@ -1,0 +1,1 @@
+{"index": 222818, "D": "a game played on a handball court following the same basic rules as handball, but in which players use short-handled, perforated paddles  to hit a ball  resembling a tennis ball. ", "S": [], "A": []}

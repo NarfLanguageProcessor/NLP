@@ -1,0 +1,1 @@
+{"index": 269104, "D": "diligent and systematic inquiry or investigation into a subject in order to discover or revise facts, theories, applications, etc.", "S": ["department ", "institute ", "personnel ", "staff ", "university "], "A": ["inability ", "incompetence ", "ineptness ", "lack ", "need ", "students "]}

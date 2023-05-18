@@ -1,0 +1,1 @@
+{"index": 0, "D": "not any particular or certain one of a class or group", "S": ["an "], "A": ["every ", "the "]}

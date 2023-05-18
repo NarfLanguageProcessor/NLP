@@ -1,0 +1,1 @@
+{"index": 38934, "D": "a broad avenue in a city, usually having areas at the sides or center for trees, grass, or flowers.", "S": ["artery ", "avenue ", "highway ", "thoroughfare "], "A": []}

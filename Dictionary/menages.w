@@ -1,0 +1,1 @@
+{"index": 183246, "D": "a domestic establishment; household.", "S": ["nuclear family "], "A": []}

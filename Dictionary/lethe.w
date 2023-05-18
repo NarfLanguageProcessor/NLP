@@ -1,0 +1,1 @@
+{"index": 170902, "D": "a river in Hades whose water caused forgetfulness of the past in those who drank of it.", "S": ["inattention "], "A": ["attentiveness ", "heed ", "mindfulness ", "remembering "]}

@@ -1,0 +1,1 @@
+{"index": 336079, "D": "not yet born; yet to come; future", "S": ["awaited ", "coming ", "expected ", "incipient ", "prospective "], "A": []}

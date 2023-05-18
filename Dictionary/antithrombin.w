@@ -1,0 +1,1 @@
+{"index": 16332, "D": "a substance that counteracts the action of thrombin, preventing the formation of blood clots", "S": [], "A": []}

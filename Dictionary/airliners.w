@@ -1,0 +1,1 @@
+{"index": 6940, "D": "a passenger aircraft operated by an airline. ", "S": ["balloon ", "chopper ", "helicopter ", "jet "], "A": []}

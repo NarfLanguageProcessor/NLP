@@ -1,0 +1,1 @@
+{"index": 64879, "D": "the act of compressing. ", "S": [], "A": []}

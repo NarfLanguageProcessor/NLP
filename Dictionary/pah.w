@@ -1,0 +1,1 @@
+{"index": 223048, "D": "(used as an exclamation of disgust or disbelief.)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 20632, "D": "any invertebrate of the phylum Arthropoda, having a segmented body, jointed limbs, and usually a chitinous shell that undergoes moltings, including the insects, spiders and other arachnids, crustaceans, and myriapods.", "S": [], "A": []}

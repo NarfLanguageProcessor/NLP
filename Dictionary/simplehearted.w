@@ -1,0 +1,1 @@
+{"index": 291052, "D": "free of deceit; artless; sincere.", "S": ["easy ", "genuine ", "instinctive ", "real ", "simple "], "A": ["complex ", "complicated ", "difficult ", "dishonest ", "false ", "intricate ", "cultured ", "metropolitan ", "modern ", "sophisticated "]}

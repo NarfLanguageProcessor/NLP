@@ -1,0 +1,1 @@
+{"index": 68260, "D": "a substance, usually a liquid or a gas, used to reduce the temperature of a system below a specified value by conducting away the heat produced in the operation of the system, as the liquid in an automobilecooling  system or the fluid that removes heat from the core of a nuclear reactor.", "S": [], "A": []}

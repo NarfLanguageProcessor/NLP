@@ -1,0 +1,1 @@
+{"index": 248767, "D": "to take or have a part or share along with others; participate (usually followed by in)", "S": [], "A": []}

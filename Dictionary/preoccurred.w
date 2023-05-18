@@ -1,0 +1,1 @@
+{"index": 248637, "D": "to happen; take place; come to pass", "S": [], "A": []}

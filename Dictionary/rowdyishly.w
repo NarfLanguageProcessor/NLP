@@ -1,0 +1,1 @@
+{"index": 275008, "D": "like or characteristic of a rowdy. ", "S": [], "A": []}

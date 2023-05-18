@@ -1,0 +1,1 @@
+{"index": 259563, "D": "the holding or following of radical  or extreme views or principles.", "S": [], "A": []}

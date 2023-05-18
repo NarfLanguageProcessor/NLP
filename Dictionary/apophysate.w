@@ -1,0 +1,1 @@
+{"index": 17332, "D": "an outgrowth; process; projection or protuberance.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 32207, "D": "violently or destructively frenzied; wild; crazed; deranged", "S": [], "A": []}

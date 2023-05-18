@@ -1,0 +1,1 @@
+{"index": 117021, "D": "to prevent, hinder, or thwart by action in advance", "S": ["anticipate ", "avert ", "deter ", "hinder ", "preclude ", "prevent ", "thwart "], "A": ["aid ", "allow ", "assist ", "encourage ", "forward ", "help ", "permit ", "promote ", "support "]}

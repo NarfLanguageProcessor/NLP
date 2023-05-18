@@ -1,0 +1,1 @@
+{"index": 162457, "D": "a group of persons sworn to render a verdict or true answer on a question or questions officially submitted to them.", "S": [], "A": []}

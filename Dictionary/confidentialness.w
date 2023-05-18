@@ -1,0 +1,1 @@
+{"index": 65889, "D": "spoken, written, acted on, etc., in strict privacy or secrecy; secret", "S": ["concealment ", "confidentiality ", "hiddenness ", "reticence ", "secretiveness "], "A": []}

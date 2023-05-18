@@ -1,0 +1,1 @@
+{"index": 326776, "D": "any of several long-tailed North American finches of the genera Pipilo and Chlorura.", "S": [], "A": []}

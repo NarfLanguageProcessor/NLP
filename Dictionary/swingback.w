@@ -1,0 +1,1 @@
+{"index": 314482, "D": "(especially in political affairs) a return or reversion, as to previous opinion, custom, or ideology", "S": [], "A": []}

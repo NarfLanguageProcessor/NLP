@@ -1,0 +1,1 @@
+{"index": 361788, "D": "a batter cake with a pattern of deep indentations on each side, formed by the gridlike design on each of the two hinged parts of the metal appliance (waffle iron ) in which the cake is baked.", "S": ["flip-flop ", "vacillate "], "A": []}

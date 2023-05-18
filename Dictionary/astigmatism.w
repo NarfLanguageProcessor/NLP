@@ -1,0 +1,1 @@
+{"index": 22105, "D": "a refractive error of the eye in which parallel rays of light from an external source do not converge on a single focal point on the retina.", "S": [], "A": []}

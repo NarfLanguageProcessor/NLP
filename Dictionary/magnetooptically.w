@@ -1,0 +1,1 @@
+{"index": 177559, "D": "pertaining to the effect of magnetism upon the propagation of light.", "S": [], "A": []}

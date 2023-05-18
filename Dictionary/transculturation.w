@@ -1,0 +1,1 @@
+{"index": 327776, "D": "acculturation. ", "S": [], "A": []}

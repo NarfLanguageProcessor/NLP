@@ -1,0 +1,1 @@
+{"index": 75855, "D": "cut short; short; stubby.", "S": [], "A": []}

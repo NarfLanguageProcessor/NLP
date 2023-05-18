@@ -1,0 +1,1 @@
+{"index": 271275, "D": "opposite or contrary in position, direction, order, or character", "S": ["abandonment ", "abolition ", "annulment ", "dissolution ", "elimination ", "repeal ", "retirement ", "reversal ", "revocation "], "A": ["enactment ", "validation ", "confirmation "]}

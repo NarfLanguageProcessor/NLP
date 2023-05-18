@@ -1,0 +1,1 @@
+{"index": 259797, "D": "a telephone  in which sound or speech is transmitted by means of radio waves instead of through wires or cables. Abbreviation", "S": ["car phone ", "cell phone ", "cell telephone ", "cellular phone ", "digital phone ", "mobile telephone "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 121433, "D": "a nutlike gall  on plants.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 280410, "D": "of or relating to schools,  scholars, or education", "S": ["academician ", "lecturer ", "professor ", "scholar ", "student "], "A": ["ignoramus "]}

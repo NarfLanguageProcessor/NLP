@@ -1,0 +1,1 @@
+{"index": 86099, "D": "delirium tremens", "S": ["eccentric ", "flake ", "fool ", "kook ", "lunatic ", "madman ", "madwoman ", "maniac ", "nut ", "oddball ", "screwball ", "wacko ", "weirdo "], "A": []}

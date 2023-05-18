@@ -1,0 +1,1 @@
+{"index": 323048, "D": "overcome with consternation; confounded; astounded", "S": [], "A": []}

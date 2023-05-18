@@ -1,0 +1,1 @@
+{"index": 42944, "D": "tending to float in a fluid.", "S": ["bouncy ", "resilient "], "A": ["depressed ", "down ", "heavy ", "heavy-hearted ", "weighted "]}

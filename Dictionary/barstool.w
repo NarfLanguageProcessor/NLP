@@ -1,0 +1,1 @@
+{"index": 28405, "D": "a stool  or seat, usually high and having a round, cushioned top, of a type often used for seating customers at a bar. ", "S": [], "A": []}

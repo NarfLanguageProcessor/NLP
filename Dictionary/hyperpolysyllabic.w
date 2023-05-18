@@ -1,0 +1,1 @@
+{"index": 140439, "D": "consisting of several, especially four or more, syllables, as a word.", "S": [], "A": []}

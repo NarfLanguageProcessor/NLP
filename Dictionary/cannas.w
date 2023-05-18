@@ -1,0 +1,1 @@
+{"index": 46385, "D": "any of various tropical plants of the genus Canna, cultivated for their large, usually brightly colored leaves and showy flowers.", "S": [], "A": []}

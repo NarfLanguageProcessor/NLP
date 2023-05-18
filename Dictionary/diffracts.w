@@ -1,0 +1,1 @@
+{"index": 85339, "D": "to break up or bend by diffraction. ", "S": [], "A": []}

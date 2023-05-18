@@ -1,0 +1,1 @@
+{"index": 311970, "D": "a morally righteous hero in a fictional work who possesses extraordinary abilities or supernatural powers and uses them to fight evil, as in comic books and movies", "S": ["hero "], "A": ["villain "]}

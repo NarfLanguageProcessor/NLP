@@ -1,0 +1,1 @@
+{"index": 90016, "D": "to sever the union of; separate; disjoin.", "S": [], "A": []}

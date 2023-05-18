@@ -1,0 +1,1 @@
+{"index": 366084, "D": "the capacity of a wineglass,  typically containing four to six fluid ounces.", "S": [], "A": []}

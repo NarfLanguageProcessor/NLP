@@ -1,0 +1,1 @@
+{"index": 60550, "D": "having no clouds; clear", "S": ["azure ", "bright ", "fair ", "sunny "], "A": ["cloudy "]}

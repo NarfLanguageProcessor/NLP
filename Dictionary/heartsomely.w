@@ -1,0 +1,1 @@
+{"index": 134903, "D": "giving cheer, spirit, or courage", "S": [], "A": []}

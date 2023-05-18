@@ -1,0 +1,1 @@
+{"index": 39112, "D": "of or relating to the Bovidae, comprising the hollow-horned ruminants, as oxen, antelopes, sheep, and goats.", "S": [], "A": []}

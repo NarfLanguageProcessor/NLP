@@ -1,0 +1,1 @@
+{"index": 354646, "D": "to set on end,  as a barrel or ship.", "S": ["flipped ", "inverted ", "overturned ", "upset "], "A": []}

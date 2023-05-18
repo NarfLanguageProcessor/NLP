@@ -1,0 +1,1 @@
+{"index": 352036, "D": "quelled, crushed, or ended by force", "S": [], "A": []}

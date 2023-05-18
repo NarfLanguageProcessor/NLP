@@ -1,0 +1,1 @@
+{"index": 169213, "D": "Compare scintillation (def. 4). ", "S": [], "A": []}

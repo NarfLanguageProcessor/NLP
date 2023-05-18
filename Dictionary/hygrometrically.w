@@ -1,0 +1,1 @@
+{"index": 139351, "D": "of or relating to the hygrometer or hygrometry.", "S": [], "A": []}

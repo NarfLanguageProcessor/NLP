@@ -1,0 +1,1 @@
+{"index": 318620, "D": "of, relating to, or situated near the hinge joint formed by the lower jaw and the temporal bone of the skull.", "S": [], "A": []}

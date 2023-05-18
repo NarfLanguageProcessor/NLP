@@ -1,0 +1,1 @@
+{"index": 50258, "D": "to prance or caper about.", "S": ["boisterous ", "jaunty ", "joyful ", "joyous ", "lighthearted ", "merry ", "spirited ", "sprightly "], "A": ["depressed ", "lazy ", "lethargic ", "sad ", "unhappy ", "upset "]}

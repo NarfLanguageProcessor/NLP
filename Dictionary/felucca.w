@@ -1,0 +1,1 @@
+{"index": 111125, "D": "a sailing vessel, lateen-rigged on two masts, used in the Mediterranean Sea and along the Spanish and Portuguese coasts.", "S": [], "A": []}

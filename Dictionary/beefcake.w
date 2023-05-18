@@ -1,0 +1,1 @@
+{"index": 30300, "D": "photographs of nearly nude young men in magazines or the like, posed to display their muscular bodies.", "S": ["attractive ", "handsome ", "well-built "], "A": []}

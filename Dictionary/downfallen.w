@@ -1,0 +1,1 @@
+{"index": 92229, "D": "(of a building, etc) decrepit", "S": [], "A": []}

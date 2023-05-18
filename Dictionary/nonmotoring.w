@@ -1,0 +1,1 @@
+{"index": 205375, "D": "traveling in a car, especially when considered as a recreation.", "S": [], "A": []}

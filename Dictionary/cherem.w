@@ -1,0 +1,1 @@
+{"index": 53835, "D": "the most severe form of excommunication, formerly used by rabbis in sentencing wrongdoers, usually for an indefinite period of time.", "S": [], "A": []}

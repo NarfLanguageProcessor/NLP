@@ -1,0 +1,1 @@
+{"index": 240148, "D": "any hot-cathode vacuum tube having an anode and one or more grids.", "S": [], "A": []}

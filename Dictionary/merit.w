@@ -1,0 +1,1 @@
+{"index": 183830, "D": "claim to respect and praise; excellence; worth.", "S": ["benefit ", "dignity ", "excellence ", "integrity ", "quality ", "stature ", "talent ", "value ", "virtue ", "worthiness "], "A": ["disadvantage ", "dishonor ", "disrespect ", "evil ", "ill repute ", "wickedness ", "worthlessness "]}

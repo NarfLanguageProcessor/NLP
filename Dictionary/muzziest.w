@@ -1,0 +1,1 @@
+{"index": 196377, "D": "confused; muddled", "S": ["ambiguous ", "ambivalent ", "dubious ", "evasive ", "muddled ", "puzzling ", "unclear ", "vague "], "A": ["certain ", "clear ", "definite ", "sure "]}

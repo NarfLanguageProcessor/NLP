@@ -1,0 +1,1 @@
+{"index": 120955, "D": "a person or thing that gauges. ", "S": [], "A": []}

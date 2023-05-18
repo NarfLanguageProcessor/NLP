@@ -1,0 +1,1 @@
+{"index": 88329, "D": "dishes  used for food; tableware.", "S": [], "A": []}

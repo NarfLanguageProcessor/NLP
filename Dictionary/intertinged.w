@@ -1,0 +1,1 @@
+{"index": 156060, "D": "to impart a trace or slight degree of some color to; tint.", "S": [], "A": []}

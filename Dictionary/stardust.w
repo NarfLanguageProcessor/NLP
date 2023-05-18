@@ -1,0 +1,1 @@
+{"index": 302877, "D": "(not in technical use) a mass of distant stars  appearing as tiny particles of dust. ", "S": ["coke ", "crack ", "dope ", "poison ", "stimulant "], "A": []}

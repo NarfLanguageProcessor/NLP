@@ -1,0 +1,1 @@
+{"index": 61434, "D": "a cook, especially one working on a ranch or a trail drive.", "S": [], "A": []}

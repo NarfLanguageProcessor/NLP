@@ -1,0 +1,1 @@
+{"index": 26132, "D": "any of the rod-shaped or branched bacteria  in the root nodules of nitrogen-fixing plants.", "S": [], "A": []}

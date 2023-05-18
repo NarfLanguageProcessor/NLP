@@ -1,0 +1,1 @@
+{"index": 118233, "D": "a part broken off or detached", "S": ["detritus ", "junk ", "remains ", "rubbish ", "rubble ", "trash ", "wreck ", "wreckage "], "A": ["belongings ", "possessions "]}

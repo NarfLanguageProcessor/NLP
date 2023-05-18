@@ -1,0 +1,1 @@
+{"index": 181454, "D": "of or relating to the Indian Ocean island of Mauritius or its inhabitants", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 19463, "D": "containing silver;  silver-bearing.", "S": [], "A": []}

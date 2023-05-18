@@ -1,0 +1,1 @@
+{"index": 142954, "D": "a member of the biological superfamily Hominoidea, including all modern apes and humans and a number of their extinct ancestors and relatives.", "S": ["animal ", "anthropoid ", "biped ", "hominid ", "humanoid ", "mortal "], "A": []}

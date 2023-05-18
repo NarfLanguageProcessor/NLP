@@ -1,0 +1,1 @@
+{"index": 80487, "D": "either of the two political divisions in Switzerland into which the cantons of Basel, Appenzell, and Unterwalden are each divided.", "S": [], "A": []}

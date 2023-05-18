@@ -1,0 +1,1 @@
+{"index": 19370, "D": "centered on the planet Mars.", "S": [], "A": []}

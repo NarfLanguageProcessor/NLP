@@ -1,0 +1,1 @@
+{"index": 119936, "D": "a die loaded at one corner either to favor a throw of 4, 5, or 6 (high fulham ) or to favor a throw of 1, 2, or 3 (low fulham ).", "S": [], "A": []}

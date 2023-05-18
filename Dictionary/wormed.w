@@ -1,0 +1,1 @@
+{"index": 367593, "D": "any of numerous long, slender, soft-bodied, legless, bilaterally symmetrical invertebrates, including the flatworms, roundworms,  acanthocephalans, nemerteans, gordiaceans, and annelids.", "S": ["ambush ", "crawl ", "creep ", "evade ", "hide ", "slink ", "slip ", "slither ", "smuggle ", "steal "], "A": ["come out "]}

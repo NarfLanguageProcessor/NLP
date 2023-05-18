@@ -1,0 +1,1 @@
+{"index": 256132, "D": "(used as an exclamation of disgust, as at an offensive odor.)", "S": [], "A": []}

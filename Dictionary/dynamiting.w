@@ -1,0 +1,1 @@
+{"index": 86014, "D": "a high explosive, originally consisting of nitroglycerin mixed with an absorbent substance, now with ammonium nitrate usually replacing the nitroglycerin.", "S": ["annihilate ", "decimate ", "demolish ", "flatten ", "shatter ", "vanquish ", "vaporize "], "A": ["fix ", "help ", "build ", "create ", "encourage ", "inspirit ", "lose ", "surrender "]}

@@ -1,0 +1,1 @@
+{"index": 165018, "D": "a member of an Indigenous Great Plains tribe, now living primarily in Oklahoma.", "S": [], "A": []}

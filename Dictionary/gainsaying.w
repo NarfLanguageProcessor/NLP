@@ -1,0 +1,1 @@
+{"index": 121041, "D": "to deny, dispute, or contradict.", "S": ["adverse ", "gloomy ", "pessimistic ", "unfavorable ", "weak "], "A": ["confident ", "favorable "]}

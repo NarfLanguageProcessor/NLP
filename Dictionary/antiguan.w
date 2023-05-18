@@ -1,0 +1,1 @@
+{"index": 15334, "D": "of or relating to Antigua or its inhabitants", "S": [], "A": []}

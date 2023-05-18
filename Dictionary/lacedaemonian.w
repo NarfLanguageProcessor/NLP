@@ -1,0 +1,1 @@
+{"index": 166831, "D": "of or relating to ancient Sparta; Spartan.", "S": [], "A": []}

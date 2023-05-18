@@ -1,0 +1,1 @@
+{"index": 326575, "D": "apt to take offense on slight provocation; irritable", "S": ["delicate ", "dicey ", "hypersensitive ", "jumpy ", "precarious ", "risky ", "sensitive ", "testy ", "ticklish ", "tricky ", "uptight ", "volatile "], "A": ["calm ", "collected ", "easy ", "easygoing ", "insensitive ", "laid-back ", "unflappable "]}

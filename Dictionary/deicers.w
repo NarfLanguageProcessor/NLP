@@ -1,0 +1,1 @@
+{"index": 79773, "D": "a device or a chemical substance for preventing or removing ice.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97696, "D": "in the form of an ellipse.", "S": [], "A": []}

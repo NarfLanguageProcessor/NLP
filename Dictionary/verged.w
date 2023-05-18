@@ -1,0 +1,1 @@
+{"index": 358485, "D": "the edge, rim, or margin of something", "S": ["brink ", "edge ", "fringe ", "threshold "], "A": ["center ", "inside ", "interior ", "middle "]}

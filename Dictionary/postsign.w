@@ -1,0 +1,1 @@
+{"index": 244482, "D": "a token or indication; a piece of evidence", "S": [], "A": []}

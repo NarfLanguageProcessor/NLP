@@ -1,0 +1,1 @@
+{"index": 221042, "D": "excessively or unduly sensitive. ", "S": ["annoyed ", "contentious ", "exasperated ", "fractious ", "petulant ", "prickly ", "resentful ", "surly ", "testy "], "A": ["happy ", "pleasant "]}

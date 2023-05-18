@@ -1,0 +1,1 @@
+{"index": 364556, "D": "a train of gears, as in a timepiece.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 258667, "D": "a colorless, crystalline, heterocyclic compound, C8H6N2.", "S": [], "A": []}

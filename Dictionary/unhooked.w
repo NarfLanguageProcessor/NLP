@@ -1,0 +1,1 @@
+{"index": 343844, "D": "to detach by or as if by releasing a hook", "S": ["baggy ", "lax ", "relaxed ", "sloppy "], "A": ["strict ", "tight ", "hindered ", "rigid ", "stiff "]}

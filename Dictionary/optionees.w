@@ -1,0 +1,1 @@
+{"index": 213854, "D": "a person who acquires or holds a legal option. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 92953, "D": "anything regarded as worthless or of low quality; junk", "S": [], "A": []}

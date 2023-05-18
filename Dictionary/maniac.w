@@ -1,0 +1,1 @@
+{"index": 179228, "D": "a raving or violently insane person; lunatic.", "S": ["fanatic ", "fiend ", "freak ", "looney ", "lunatic ", "psycho ", "psychopath ", "zealot "], "A": []}

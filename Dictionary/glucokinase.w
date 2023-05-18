@@ -1,0 +1,1 @@
+{"index": 126840, "D": "an enzyme, found in all living systems, that serves to catalyze the phosphorylation of gluconic acid. ", "S": [], "A": []}

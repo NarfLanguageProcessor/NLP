@@ -1,0 +1,1 @@
+{"index": 269182, "D": "to be like or similar to.", "S": ["bogus ", "ersatz ", "quasi "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 129716, "D": "a mischievous invisible being, said by airplane pilots in World War II to cause engine trouble and mechanical difficulties.", "S": ["goblin "], "A": []}

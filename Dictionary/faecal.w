@@ -1,0 +1,1 @@
+{"index": 109166, "D": "of, relating to, or consisting of faeces", "S": [], "A": []}

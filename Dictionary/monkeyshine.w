@@ -1,0 +1,1 @@
+{"index": 192043, "D": "a frivolous or mischievous prank; monkey business. ", "S": ["antic ", "caper ", "lark ", "trick "], "A": []}

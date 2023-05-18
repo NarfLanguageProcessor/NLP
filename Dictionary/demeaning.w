@@ -1,0 +1,1 @@
+{"index": 80409, "D": "that demeans;  debasing; degrading", "S": ["demanding "], "A": ["complimentary ", "laudatory ", "praising ", "trivial ", "uncritical ", "unimportant "]}

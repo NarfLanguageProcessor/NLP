@@ -1,0 +1,1 @@
+{"index": 90485, "D": "making or tending to make one dizzy", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 356935, "D": "of, relating to, or characteristic of the Vandals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 337177, "D": "holding or fusing together as a single mass", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 113763, "D": "shamefully wicked, as persons, actions, or times.", "S": ["atrocity ", "depravity ", "immorality ", "shamefulness ", "turpitude ", "unrighteousness ", "villainousness ", "villainy ", "wickedness "], "A": []}

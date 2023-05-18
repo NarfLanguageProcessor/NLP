@@ -1,0 +1,1 @@
+{"index": 309232, "D": "noting or pertaining to a speed less than that of sound in air at the same height above sea level.", "S": [], "A": []}

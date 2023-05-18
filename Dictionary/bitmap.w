@@ -1,0 +1,1 @@
+{"index": 35207, "D": "a piece of text, a drawing, etc., represented, as on a computer display, by the activation of certain dots in a rectangular matrix of dots.", "S": [], "A": []}

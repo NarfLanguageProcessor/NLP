@@ -1,0 +1,1 @@
+{"index": 340058, "D": "to value  below the real worth; put too low a value  on.", "S": ["devalue ", "underrate "], "A": ["overvalue "]}

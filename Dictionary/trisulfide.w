@@ -1,0 +1,1 @@
+{"index": 330661, "D": "a sulfide  containing three sulfur atoms.", "S": [], "A": []}

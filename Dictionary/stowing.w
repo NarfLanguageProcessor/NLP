@@ -1,0 +1,1 @@
+{"index": 305567, "D": "to put (sails, spars, gear, etc.) in the proper place or condition when not in use.", "S": ["put away ", "secrete ", "stash ", "tuck "], "A": ["disperse "]}

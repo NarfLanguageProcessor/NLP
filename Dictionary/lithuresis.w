@@ -1,0 +1,1 @@
+{"index": 173815, "D": "the passage of gravel in the urine.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 130062, "D": "resembling or containing gristle; cartilaginous. ", "S": [], "A": []}

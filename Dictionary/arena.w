@@ -1,0 +1,1 @@
+{"index": 19342, "D": "the oval space in the center of a Roman amphitheater for gladiatorial combats or other performances.", "S": ["field ", "gym ", "gymnasium ", "park ", "ring ", "rink ", "square ", "stadium ", "stage "], "A": []}

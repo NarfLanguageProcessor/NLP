@@ -1,0 +1,1 @@
+{"index": 44884, "D": "a white or tinted wash for walls, ceilings, etc.", "S": [], "A": []}

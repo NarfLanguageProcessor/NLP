@@ -1,0 +1,1 @@
+{"index": 284212, "D": "of or relating to the round preceding the final  one in a tournament from which losers are eliminated.", "S": [], "A": []}

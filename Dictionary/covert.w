@@ -1,0 +1,1 @@
+{"index": 71502, "D": "concealed or disguised; secret", "S": ["hidden ", "surreptitious ", "undercover "], "A": ["open ", "known ", "public ", "revealed ", "unconcealed "]}

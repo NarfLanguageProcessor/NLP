@@ -1,0 +1,1 @@
+{"index": 19469, "D": "pertaining to or resembling silver.", "S": [], "A": []}

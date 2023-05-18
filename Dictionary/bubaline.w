@@ -1,0 +1,1 @@
+{"index": 41914, "D": "(of antelopes) resembling or like the bubal, as the hartebeests or blesbok.", "S": [], "A": []}

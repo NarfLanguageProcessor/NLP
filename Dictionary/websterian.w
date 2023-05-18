@@ -1,0 +1,1 @@
+{"index": 363679, "D": "pertaining to or characteristic of Daniel Webster, his political theories, or his oratory.", "S": [], "A": []}

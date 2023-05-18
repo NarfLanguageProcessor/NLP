@@ -1,0 +1,1 @@
+{"index": 69030, "D": "the fruiting bodies of certain fungi, consisting of a loosely bound bundle of conidiophores.", "S": [], "A": []}

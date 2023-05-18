@@ -1,0 +1,1 @@
+{"index": 303070, "D": "extending throughout all parts of a state  in the U.S.", "S": [], "A": []}

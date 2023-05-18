@@ -1,0 +1,1 @@
+{"index": 229583, "D": "a body so suspended from a fixed point as to move to and fro by the action of gravity and acquired momentum.", "S": [], "A": []}

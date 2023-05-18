@@ -1,0 +1,1 @@
+{"index": 224981, "D": "a slipper.", "S": ["mule ", "sandal "], "A": []}

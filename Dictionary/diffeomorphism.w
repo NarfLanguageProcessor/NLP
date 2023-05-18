@@ -1,0 +1,1 @@
+{"index": 85268, "D": "a differentiable homeomorphism.", "S": [], "A": []}

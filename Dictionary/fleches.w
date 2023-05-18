@@ -1,0 +1,1 @@
+{"index": 114312, "D": "a steeple or spire, especially one in the Gothic style, emerging from the ridge of a roof.", "S": [], "A": []}

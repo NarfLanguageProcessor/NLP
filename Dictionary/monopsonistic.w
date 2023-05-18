@@ -1,0 +1,1 @@
+{"index": 192598, "D": "the market condition that exists when there is one buyer.", "S": [], "A": []}

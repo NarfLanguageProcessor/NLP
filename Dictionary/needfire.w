@@ -1,0 +1,1 @@
+{"index": 197914, "D": "spontaneous combustion. ", "S": [], "A": []}

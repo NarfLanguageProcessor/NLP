@@ -1,0 +1,1 @@
+{"index": 17863, "D": "to distribute or allocate proportionally; divide and assign according to some rule of proportional distribution", "S": ["appropriated ", "assigned ", "dispersed ", "scattered ", "shared "], "A": []}

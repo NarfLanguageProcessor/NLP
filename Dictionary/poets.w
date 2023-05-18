@@ -1,0 +1,1 @@
+{"index": 241228, "D": "a person who composes poetry. ", "S": ["artist ", "author ", "dramatist ", "lyricist ", "writer "], "A": []}

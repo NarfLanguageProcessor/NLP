@@ -1,0 +1,1 @@
+{"index": 266934, "D": "a woman belonging to a religious order, congregation, etc.", "S": [], "A": []}

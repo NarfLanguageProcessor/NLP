@@ -1,0 +1,1 @@
+{"index": 7776, "D": "of or from the press of Aldus Manutius and his family in Venice, c1490\u20131597, noted for compactly printed editions of the classics.", "S": [], "A": []}

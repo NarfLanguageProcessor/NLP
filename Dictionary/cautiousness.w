@@ -1,0 +1,1 @@
+{"index": 50124, "D": "showing, using, or characterized by caution", "S": ["care ", "chariness ", "heedfulness ", "mindfulness ", "precaution ", "wariness ", "watchfulness "], "A": ["carelessness "]}

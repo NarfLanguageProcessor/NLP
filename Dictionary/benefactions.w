@@ -1,0 +1,1 @@
+{"index": 31539, "D": "an act of conferring a benefit;  the doing of good; a good deed", "S": ["aid ", "alms ", "contribution ", "donation ", "endowment ", "gift ", "legacy ", "relief "], "A": ["injury ", "loss "]}

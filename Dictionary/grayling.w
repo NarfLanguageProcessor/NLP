@@ -1,0 +1,1 @@
+{"index": 128643, "D": "any freshwater fish of the genus Thymallus, related to the trouts but having a longer and higher, brilliantly colored dorsal fin.", "S": [], "A": []}

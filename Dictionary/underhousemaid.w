@@ -1,0 +1,1 @@
+{"index": 339340, "D": "a female servant employed in general domestic work in a home, especially to do housework.", "S": [], "A": []}

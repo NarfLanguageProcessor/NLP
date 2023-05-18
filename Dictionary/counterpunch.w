@@ -1,0 +1,1 @@
+{"index": 71020, "D": "counterblow. ", "S": [], "A": []}

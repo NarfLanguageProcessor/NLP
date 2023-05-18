@@ -1,0 +1,1 @@
+{"index": 61282, "D": "to treat with or affect by cocaine. ", "S": [], "A": []}

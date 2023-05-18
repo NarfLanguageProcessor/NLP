@@ -1,0 +1,1 @@
+{"index": 244364, "D": "composed of, containing, or resembling bone; bony.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 87719, "D": "apart or detached from others; separate; distinct", "S": ["differently ", "independently ", "individually ", "separately ", "singly ", "unconnectedly "], "A": []}

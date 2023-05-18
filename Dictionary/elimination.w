@@ -1,0 +1,1 @@
+{"index": 97576, "D": "the act of eliminating. ", "S": ["destruction ", "eradication ", "expulsion ", "rejection ", "withdrawal "], "A": ["addition ", "inclusion "]}

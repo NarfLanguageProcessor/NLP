@@ -1,0 +1,1 @@
+{"index": 367120, "D": "a stocky North American burrowing rodent, Marmota monax, that hibernates in the winter.", "S": [], "A": []}

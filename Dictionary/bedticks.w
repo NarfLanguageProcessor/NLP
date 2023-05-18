@@ -1,0 +1,1 @@
+{"index": 30239, "D": "a slight, sharp, recurring click, tap, or beat, as of a clock.", "S": [], "A": []}

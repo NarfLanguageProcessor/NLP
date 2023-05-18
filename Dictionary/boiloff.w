@@ -1,0 +1,1 @@
+{"index": 37449, "D": "any vapor loss from the oxidizer or fuel in a rocket during countdown.", "S": [], "A": []}

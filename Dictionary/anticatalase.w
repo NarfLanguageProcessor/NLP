@@ -1,0 +1,1 @@
+{"index": 14838, "D": "a substance that inhibits the enzymatic action of a catalase. ", "S": [], "A": []}

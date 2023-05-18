@@ -1,0 +1,1 @@
+{"index": 105563, "D": "a castrated man, especially one formerly employed by rulers in the Middle East and Asia as a harem guard or palace official.", "S": [], "A": []}

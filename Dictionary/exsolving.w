@@ -1,0 +1,1 @@
+{"index": 108156, "D": "(of two minerals in solid solution) to separate from one another at a critical point in temperature.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 225858, "D": "the process by which a paramorph is formed.", "S": [], "A": []}

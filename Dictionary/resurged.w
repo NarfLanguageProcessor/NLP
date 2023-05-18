@@ -1,0 +1,1 @@
+{"index": 270181, "D": "to rise again, as from desuetude or from virtual extinction.", "S": [], "A": []}

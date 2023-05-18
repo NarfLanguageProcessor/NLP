@@ -1,0 +1,1 @@
+{"index": 229135, "D": "an artificial leg, especially a wooden one.", "S": [], "A": []}

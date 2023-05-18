@@ -1,0 +1,1 @@
+{"index": 256141, "D": "a person who fights with the fists; a boxer, usually a professional.", "S": ["contender ", "fighter "], "A": []}

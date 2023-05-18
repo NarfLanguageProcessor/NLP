@@ -1,0 +1,1 @@
+{"index": 341850, "D": "to strike or blot out; erase; obliterate.", "S": [], "A": []}

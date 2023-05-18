@@ -1,0 +1,1 @@
+{"index": 291716, "D": "a match played with one person on each side", "S": ["celibate ", "single ", "stag "], "A": ["groom ", "husband ", "spouse "]}

@@ -1,0 +1,1 @@
+{"index": 221469, "D": "free from doubt as to the reliability, character, action, etc., of something", "S": [], "A": []}

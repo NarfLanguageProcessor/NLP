@@ -1,0 +1,1 @@
+{"index": 288566, "D": "the period of formal mourning lasting seven days from the funeral during which the mourner stays indoors and sits on a low stool", "S": [], "A": []}

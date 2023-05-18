@@ -1,0 +1,1 @@
+{"index": 23103, "D": "a person who assumes attitudes or poses for effect.", "S": [], "A": []}

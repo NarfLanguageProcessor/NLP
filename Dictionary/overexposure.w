@@ -1,0 +1,1 @@
+{"index": 219267, "D": "excessive exposure,  especially of photographic film or a sensitized plate to light rays.", "S": [], "A": []}

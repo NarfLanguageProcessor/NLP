@@ -1,0 +1,1 @@
+{"index": 70723, "D": "the extinction of an undesirable response to a stimulus through the introduction of a more desirable, often incompatible, response.", "S": [], "A": []}

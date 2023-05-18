@@ -1,0 +1,1 @@
+{"index": 284640, "D": "partially or imperfectly palmate,  as a bird's foot; half-webbed.", "S": [], "A": []}

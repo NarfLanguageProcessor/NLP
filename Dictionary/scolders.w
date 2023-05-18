@@ -1,0 +1,1 @@
+{"index": 281073, "D": "to find fault with angrily; chide; reprimand", "S": ["attacker ", "carper ", "caviler ", "censor ", "complainant ", "complainer ", "defamer ", "disparager ", "doubter ", "maligner ", "muckraker ", "nagger ", "quibbler ", "slanderer ", "vilifier ", "worrier ", "zapper "], "A": []}

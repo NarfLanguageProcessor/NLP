@@ -1,0 +1,1 @@
+{"index": 348578, "D": "to a great or excessive extent; abundantly or extravagantly", "S": [], "A": []}

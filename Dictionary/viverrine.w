@@ -1,0 +1,1 @@
+{"index": 360745, "D": "of or relating to the Viverridae, a family of small carnivorous mammals including the civets, genets, palm cats, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 69787, "D": "guilty of dishonest practices, as bribery; lacking integrity; crooked", "S": ["debasement ", "demoralization ", "depravity ", "dishonesty ", "immorality ", "perversion "], "A": []}

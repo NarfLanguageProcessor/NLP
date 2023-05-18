@@ -1,0 +1,1 @@
+{"index": 263689, "D": "to make, put, or set right; remedy; correct", "S": ["bettering ", "emendatory ", "improving ", "reformative ", "reformatory ", "reparative ", "restorative "], "A": []}

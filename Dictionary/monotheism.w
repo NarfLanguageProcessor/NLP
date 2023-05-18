@@ -1,0 +1,1 @@
+{"index": 192720, "D": "the doctrine or belief that there is only one God.", "S": [], "A": []}

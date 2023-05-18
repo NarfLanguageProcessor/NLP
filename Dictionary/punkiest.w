@@ -1,0 +1,1 @@
+{"index": 256710, "D": "of, like, or pertaining to spongy punk. ", "S": [], "A": []}

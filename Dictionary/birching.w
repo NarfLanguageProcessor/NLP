@@ -1,0 +1,1 @@
+{"index": 34729, "D": "Compare birch family. ", "S": ["beat up ", "clobber ", "crush ", "defeat ", "maul ", "overwhelm ", "paste ", "pummel ", "rout ", "spank ", "trounce ", "whip "], "A": ["encourage ", "inspirit ", "lose ", "surrender ", "bear ", "cheer ", "comfort ", "create ", "give birth ", "guard ", "praise ", "protect ", "tap "]}

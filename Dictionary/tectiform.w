@@ -1,0 +1,1 @@
+{"index": 317714, "D": "having the shape of a roof.", "S": [], "A": []}

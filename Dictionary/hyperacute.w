@@ -1,0 +1,1 @@
+{"index": 139842, "D": "sharp or severe in effect; intense", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 346524, "D": "not having been disturbed, accosted, or attacked", "S": ["intact ", "protected ", "secure "], "A": ["insecure ", "unprotected "]}

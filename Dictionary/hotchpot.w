@@ -1,0 +1,1 @@
+{"index": 144255, "D": "the bringing together of shares or properties in order to divide them equally, especially when they are to be divided among the children of a parent dying intestate.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293454, "D": "(in South Africa) a potent alcoholic beverage drunk by Black Africans in shebeens", "S": [], "A": []}

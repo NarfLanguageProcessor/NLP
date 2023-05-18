@@ -1,0 +1,1 @@
+{"index": 190926, "D": "a disorderly or riotous crowd of people.", "S": ["choked ", "crowded ", "glutted ", "gridlocked ", "jammed ", "overcrowded ", "teeming "], "A": ["empty "]}

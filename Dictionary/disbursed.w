@@ -1,0 +1,1 @@
+{"index": 87221, "D": "to pay out (money), especially for expenses; expend.", "S": ["dead ", "finished ", "lost ", "used ", "wasted "], "A": ["active ", "animated ", "energetic ", "energized ", "fresh ", "invigorated ", "lively ", "restored ", "strong ", "unused "]}

@@ -1,0 +1,1 @@
+{"index": 107584, "D": "to enlarge in discourse or writing; be copious in description or discussion", "S": ["elaboration "], "A": ["abridgment ", "compression ", "decrease ", "lessening ", "reduction ", "shrinkage "]}

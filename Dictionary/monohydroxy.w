@@ -1,0 +1,1 @@
+{"index": 192371, "D": "(of a molecule) containing one hydroxyl group.", "S": [], "A": []}

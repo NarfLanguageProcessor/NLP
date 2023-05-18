@@ -1,0 +1,1 @@
+{"index": 28479, "D": "armour a variant spelling of basinet", "S": [], "A": []}

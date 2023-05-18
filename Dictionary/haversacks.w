@@ -1,0 +1,1 @@
+{"index": 134421, "D": "a single-strapped bag worn over one shoulder and used for carrying supplies.", "S": ["knapsack "], "A": []}

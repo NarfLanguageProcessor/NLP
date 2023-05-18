@@ -1,0 +1,1 @@
+{"index": 157089, "D": "a person who invents,  especially one who devises some new process, appliance, machine, or article; one who makes inventions. ", "S": [], "A": []}

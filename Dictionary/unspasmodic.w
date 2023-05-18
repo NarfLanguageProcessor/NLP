@@ -1,0 +1,1 @@
+{"index": 351674, "D": "pertaining to or of the nature of a spasm; characterized by spasms.", "S": [], "A": []}

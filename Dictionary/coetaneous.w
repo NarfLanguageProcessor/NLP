@@ -1,0 +1,1 @@
+{"index": 62074, "D": "of the same age or duration.", "S": ["coeval ", "coexistent ", "coexisting ", "concomitant ", "contemporaneous ", "simultaneous ", "synchronic ", "synchronous "], "A": []}

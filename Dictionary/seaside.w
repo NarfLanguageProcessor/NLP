@@ -1,0 +1,1 @@
+{"index": 282582, "D": "the land along the sea; seacoast.", "S": ["marshy "], "A": []}

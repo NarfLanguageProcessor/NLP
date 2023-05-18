@@ -1,0 +1,1 @@
+{"index": 284100, "D": "physically or mentally impaired, injured, or incapacitated.", "S": [], "A": []}

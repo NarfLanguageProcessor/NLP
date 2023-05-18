@@ -1,0 +1,1 @@
+{"index": 18155, "D": "the Bird of Paradise, a southern constellation between Octans and Triangulum Australe.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 363954, "D": "the theories of heredity as expounded by Weismann,  especially the theory that all inheritable characteristics are carried in the germ plasm, and that acquired characteristics cannot be inherited.", "S": [], "A": []}

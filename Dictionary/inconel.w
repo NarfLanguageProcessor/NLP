@@ -1,0 +1,1 @@
+{"index": 150202, "D": "an alloy of nickel, chromium, and iron that is highly resistant to high temperatures and corrosion.", "S": [], "A": []}

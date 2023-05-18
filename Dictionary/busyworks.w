@@ -1,0 +1,1 @@
+{"index": 43496, "D": "work  assigned for the sake of looking or keeping busy. ", "S": [], "A": []}

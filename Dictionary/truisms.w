@@ -1,0 +1,1 @@
+{"index": 331547, "D": "a self-evident, obvious truth.", "S": ["adage ", "aphorism ", "axiom ", "clich\u00e9 ", "maxim ", "motto ", "platitude ", "proverb ", "saying "], "A": []}

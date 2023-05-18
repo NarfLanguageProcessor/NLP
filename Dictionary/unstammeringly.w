@@ -1,0 +1,1 @@
+{"index": 351925, "D": "to speak with involuntary breaks and pauses, or with spasmodic repetitions of syllables or sounds.", "S": [], "A": []}

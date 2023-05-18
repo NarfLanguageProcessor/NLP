@@ -1,0 +1,1 @@
+{"index": 275204, "D": "being of the color of a ruby;  ruby-colored.", "S": [], "A": []}

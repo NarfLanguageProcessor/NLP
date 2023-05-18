@@ -1,0 +1,1 @@
+{"index": 306709, "D": "walking or moving with a strut;  walking pompously; pompous.", "S": [], "A": []}

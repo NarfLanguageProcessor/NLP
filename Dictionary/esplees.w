@@ -1,0 +1,1 @@
+{"index": 104438, "D": "the yield from land, as produce or rents.", "S": [], "A": []}

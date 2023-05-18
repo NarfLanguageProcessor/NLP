@@ -1,0 +1,1 @@
+{"index": 22899, "D": "a poisonous crystalline alkaloid, C17H23NO3, obtained from belladonna and other plants of the nightshade family, that prevents the response of various body structures to certain types of nerve stimulation", "S": [], "A": []}

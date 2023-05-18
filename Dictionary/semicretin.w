@@ -1,0 +1,1 @@
+{"index": 284015, "D": "(no longer in technical use) a person with cretinism. ", "S": [], "A": []}

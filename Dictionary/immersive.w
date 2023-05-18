@@ -1,0 +1,1 @@
+{"index": 147958, "D": "noting or relating to digital technology or images that actively engage one's senses and may create an altered mental state", "S": ["enveloping ", "hypnotic ", "mesmeric ", "mesmerizing ", "riveting "], "A": []}

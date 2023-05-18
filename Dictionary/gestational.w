@@ -1,0 +1,1 @@
+{"index": 124373, "D": "the process, state, or period of gestating. ", "S": [], "A": []}

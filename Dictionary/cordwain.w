@@ -1,0 +1,1 @@
+{"index": 68973, "D": "cordovan leather.", "S": [], "A": []}

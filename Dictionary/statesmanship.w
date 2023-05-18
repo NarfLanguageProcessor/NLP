@@ -1,0 +1,1 @@
+{"index": 303064, "D": "the ability, qualifications, or practice of a statesman;  wisdom and skill in the management of public affairs.", "S": ["comparative government ", "foreign affairs ", "geopolitics ", "geopolitik ", "international affairs ", "public administration "], "A": []}

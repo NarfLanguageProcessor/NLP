@@ -1,0 +1,1 @@
+{"index": 327622, "D": "a half-conscious state, seemingly between sleeping and waking, in which ability to function voluntarily may be suspended.", "S": ["bewitch ", "enthrall ", "spellbind "], "A": ["turn off ", "depress ", "disenchant ", "disgust ", "displease ", "offend ", "repel ", "repulse "]}

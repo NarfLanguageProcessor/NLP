@@ -1,0 +1,1 @@
+{"index": 282531, "D": "an agitation of the sea  caused by a submarine eruption or earthquake. ", "S": [], "A": []}

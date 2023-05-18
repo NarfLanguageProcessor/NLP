@@ -1,0 +1,1 @@
+{"index": 90888, "D": "persistence in effort; tenacity or perseverance", "S": ["pertinacity ", "stamina ", "tenacity "], "A": ["weakness "]}

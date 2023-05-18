@@ -1,0 +1,1 @@
+{"index": 67052, "D": "an adherent or advocate of constitutionalism  or of an existing constitution.", "S": [], "A": []}

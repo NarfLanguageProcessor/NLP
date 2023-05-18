@@ -1,0 +1,1 @@
+{"index": 367902, "D": "act of wrecking;  state of being wrecked. ", "S": ["debris ", "rubble ", "wreck "], "A": []}

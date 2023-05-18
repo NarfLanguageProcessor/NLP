@@ -1,0 +1,1 @@
+{"index": 68096, "D": "a fixed or firm belief", "S": ["attitude ", "doctrine ", "idea ", "ideology ", "logic ", "outlook ", "reasoning ", "system ", "tenet ", "theory ", "thinking ", "thought ", "truth ", "view ", "viewpoint ", "wisdom "], "A": []}

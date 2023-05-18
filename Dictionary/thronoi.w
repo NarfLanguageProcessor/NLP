@@ -1,0 +1,1 @@
+{"index": 322817, "D": "an ancient Greek chair, usually highly ornamented, having a high seat and back and rectangular turned or carved legs ending in animal feet.", "S": [], "A": []}

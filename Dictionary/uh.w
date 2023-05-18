@@ -1,0 +1,1 @@
+{"index": 333673, "D": "(used to indicate hesitation, doubt, or a pause).", "S": [], "A": []}

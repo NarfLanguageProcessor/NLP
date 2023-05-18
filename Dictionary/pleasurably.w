@@ -1,0 +1,1 @@
+{"index": 239638, "D": "such as to give pleasure;  enjoyable; agreeable; pleasant", "S": ["cheerfully ", "cheerily ", "cordially ", "enthusiastically ", "freely ", "gleefully ", "gratefully ", "heartily ", "readily ", "warmly ", "willingly "], "A": ["unwillingly "]}

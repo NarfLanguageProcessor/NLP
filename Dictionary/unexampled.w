@@ -1,0 +1,1 @@
+{"index": 341618, "D": "unprecedented; unparalleled; unlike anything previously known", "S": ["consummate ", "matchless ", "nonpareil ", "peerless ", "perfect ", "supreme ", "unequalled ", "unique ", "unmatched ", "unparalleled ", "unrivalled ", "unsurpassable "], "A": ["comparable ", "indistinctive "]}

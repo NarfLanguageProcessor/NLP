@@ -1,0 +1,1 @@
+{"index": 252776, "D": "proportioned;  being in due proportion; proportional. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 64435, "D": "subdivision of a hull into spaces enclosed by watertight bulkheads and sometimes by watertight decks.", "S": [], "A": []}

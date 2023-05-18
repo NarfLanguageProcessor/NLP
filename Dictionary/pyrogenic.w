@@ -1,0 +1,1 @@
+{"index": 237799, "D": "producing or produced by heat or fever.", "S": [], "A": []}

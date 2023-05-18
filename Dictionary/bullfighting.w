@@ -1,0 +1,1 @@
+{"index": 42557, "D": "a traditional Spanish, Portuguese, or Latin American spectacle in which a bull  is fought  by a matador, assisted by banderilleros and picadors, in a prescribed way in an arena and is usually killed.", "S": [], "A": []}

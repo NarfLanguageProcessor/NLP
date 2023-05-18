@@ -1,0 +1,1 @@
+{"index": 8679, "D": "something that alleviates  a condition.", "S": [], "A": []}

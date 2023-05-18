@@ -1,0 +1,1 @@
+{"index": 198447, "D": "a new, often uncontrolled growth of abnormal tissue; tumor. ", "S": ["Cancer ", "carcinoma ", "cyst ", "lump ", "swelling "], "A": []}

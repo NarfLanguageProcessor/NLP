@@ -1,0 +1,1 @@
+{"index": 294998, "D": "an officer or officers of a state highway patrol.", "S": [], "A": []}

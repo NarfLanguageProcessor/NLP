@@ -1,0 +1,1 @@
+{"index": 53143, "D": "to talk rapidly in a foolish or purposeless way; jabber.", "S": ["babble ", "blather ", "chat ", "chitchat ", "gossip "], "A": ["quiet "]}

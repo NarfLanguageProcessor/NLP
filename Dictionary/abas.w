@@ -1,0 +1,1 @@
+{"index": 112, "D": "a variant of abaya. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148799, "D": "implied, rather than expressly stated", "S": [], "A": []}

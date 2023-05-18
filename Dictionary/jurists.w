@@ -1,0 +1,1 @@
+{"index": 162481, "D": "a person versed in the law, as a judge, lawyer, or scholar.", "S": ["courtroom "], "A": ["advantage ", "aid ", "help "]}

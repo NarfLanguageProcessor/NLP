@@ -1,0 +1,1 @@
+{"index": 179601, "D": "an outdoor trap set for humans, as to snare poachers or trespassers.", "S": [], "A": []}

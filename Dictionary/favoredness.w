@@ -1,0 +1,1 @@
+{"index": 110504, "D": "regarded or treated with preference or partiality", "S": [], "A": []}

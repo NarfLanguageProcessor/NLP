@@ -1,0 +1,1 @@
+{"index": 22412, "D": "a state of freedom from emotional disturbance and anxiety, especially as an ongoing condition of soul-fulfilling attainment; unconditional tranquility", "S": [], "A": []}

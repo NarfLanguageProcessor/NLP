@@ -1,0 +1,1 @@
+{"index": 296503, "D": "of or relating to the sun", "S": ["cosmic "], "A": []}

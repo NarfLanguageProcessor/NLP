@@ -1,0 +1,1 @@
+{"index": 145056, "D": "characterized by humor;  funny; comical", "S": ["amusing ", "comic ", "droll ", "entertaining ", "hilarious ", "playful ", "pleasant ", "whimsical "], "A": ["boring ", "serious ", "tiring ", "unpleasant "]}

@@ -1,0 +1,1 @@
+{"index": 94660, "D": "deadweight tonnage;  deadweight tons.", "S": [], "A": []}

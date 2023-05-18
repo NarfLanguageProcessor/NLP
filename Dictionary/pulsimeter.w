@@ -1,0 +1,1 @@
+{"index": 256415, "D": "an instrument for measuring the strength or quickness of the pulse. ", "S": [], "A": []}

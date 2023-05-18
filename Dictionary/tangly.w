@@ -1,0 +1,1 @@
+{"index": 316081, "D": "to bring together into a mass of confusedly interlaced or intertwisted threads, strands, or other like parts; snarl. ", "S": [], "A": []}

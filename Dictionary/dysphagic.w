@@ -1,0 +1,1 @@
+{"index": 89009, "D": "difficulty in swallowing.", "S": [], "A": []}

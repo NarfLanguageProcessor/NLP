@@ -1,0 +1,1 @@
+{"index": 53496, "D": "meanly economical; parsimonious; stingy ", "S": [], "A": []}

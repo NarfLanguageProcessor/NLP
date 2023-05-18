@@ -1,0 +1,1 @@
+{"index": 210305, "D": "inversely ovate; ovate  with the narrow end at the base.", "S": [], "A": []}

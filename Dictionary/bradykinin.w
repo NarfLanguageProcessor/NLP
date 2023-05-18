@@ -1,0 +1,1 @@
+{"index": 39572, "D": "a peptide hormone that dilates peripheral blood vessels and increases capillary permeability.", "S": [], "A": []}

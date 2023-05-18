@@ -1,0 +1,1 @@
+{"index": 311549, "D": "extraordinarily great in size, extent, or degree; gigantic; huge.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 23504, "D": "a yellow, crystalline solid, C17H22ClN3, soluble in water, alcohol, and ether, used chiefly as a dye for paper and leather.", "S": [], "A": []}

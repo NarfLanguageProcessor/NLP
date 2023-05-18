@@ -1,0 +1,1 @@
+{"index": 188913, "D": "to make a wrong or improper choice.", "S": [], "A": []}

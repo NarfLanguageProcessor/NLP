@@ -1,0 +1,1 @@
+{"index": 771, "D": "a mystical word or expression used in incantations, on amulets, etc., as a magical means of warding off misfortune, harm, or illness.", "S": ["hocus-pocus ", "incantation ", "invocation ", "spell "], "A": []}

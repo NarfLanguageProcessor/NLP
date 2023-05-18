@@ -1,0 +1,1 @@
+{"index": 7765, "D": "one of the Channel Islands in the English Channel. 3 sq. mi. (8 sq. km).", "S": [], "A": []}

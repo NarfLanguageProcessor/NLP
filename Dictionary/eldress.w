@@ -1,0 +1,1 @@
+{"index": 96852, "D": "a laywoman who is a governing officer in certain Protestant churches.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 154912, "D": "of, operating, or occurring between persons belonging to different religions", "S": [], "A": []}

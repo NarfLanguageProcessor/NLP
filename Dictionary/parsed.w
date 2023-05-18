@@ -1,0 +1,1 @@
+{"index": 226877, "D": "to analyze (a sentence) in terms of grammatical constituents, identifying the parts of speech, syntactic relations, etc.", "S": ["determine ", "dissect ", "resolve "], "A": ["waver ", "combine ", "connect ", "join ", "marry ", "put together ", "unite "]}

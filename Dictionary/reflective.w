@@ -1,0 +1,1 @@
+{"index": 265128, "D": "that reflects; reflecting. ", "S": ["contemplative ", "deliberate ", "meditative ", "studious "], "A": ["ignorant ", "unthoughtful "]}

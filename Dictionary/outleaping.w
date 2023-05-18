@@ -1,0 +1,1 @@
+{"index": 216917, "D": "to leap  ahead of or over.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 260710, "D": "a seamlike union between two parts or halves of an organ or the like.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 5973, "D": "having lived or existed long; of advanced age; old", "S": ["oldness ", "senescence ", "seniority "], "A": []}

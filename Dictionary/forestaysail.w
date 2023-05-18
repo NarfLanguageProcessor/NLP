@@ -1,0 +1,1 @@
+{"index": 117019, "D": "a triangular sail  set on a forestay;  the innermost headsail of a vessel.", "S": [], "A": []}

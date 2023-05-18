@@ -1,0 +1,1 @@
+{"index": 323076, "D": "of or relating to the German state of Thuringia or its inhabitants", "S": [], "A": []}

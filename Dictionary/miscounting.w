@@ -1,0 +1,1 @@
+{"index": 189036, "D": "to count or calculate erroneously.", "S": ["err ", "misconstrue ", "misinterpret ", "misjudge ", "misread ", "misunderstand ", "overestimate ", "overrate ", "overvalue ", "underestimate ", "undervalue "], "A": ["get ", "perceive ", "understand ", "attend ", "pay attention ", "regard ", "respect "]}

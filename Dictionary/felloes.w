@@ -1,0 +1,1 @@
+{"index": 111050, "D": "the circular rim, or a part of the rim of a wheel, into which the outer ends of the spokes are inserted.", "S": [], "A": []}

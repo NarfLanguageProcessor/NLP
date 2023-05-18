@@ -1,0 +1,1 @@
+{"index": 196875, "D": "round at the top and tapering sharply below; turnip-shaped, as a root.", "S": [], "A": []}

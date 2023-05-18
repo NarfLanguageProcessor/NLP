@@ -1,0 +1,1 @@
+{"index": 322231, "D": "an emphatic appositive to thou or thee.", "S": [], "A": []}

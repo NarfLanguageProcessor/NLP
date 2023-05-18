@@ -1,0 +1,1 @@
+{"index": 318632, "D": "part of a dance step in which there is no transfer of weight.", "S": ["aide ", "apprentice ", "associate ", "attendant ", "backup ", "colleague ", "companion ", "deputy ", "friend ", "partner ", "representative ", "secretary "], "A": ["antagonist ", "boss ", "detractor ", "enemy ", "foe ", "manager ", "opponent ", "stranger ", "adversary ", "leader "]}

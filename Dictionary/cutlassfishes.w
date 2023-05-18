@@ -1,0 +1,1 @@
+{"index": 75814, "D": "any compressed, ribbonlike fish  of the genus Trichiurus, having daggerlike teeth.", "S": [], "A": []}

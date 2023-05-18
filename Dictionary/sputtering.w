@@ -1,0 +1,1 @@
+{"index": 301570, "D": "a process that uses ions of an inert gas to dislodge atoms from the surface of a crystalline material, the atoms then being electrically deposited to form an extremely thin coating on a glass, metal, plastic, or other surface.", "S": ["faltering ", "halting ", "lurch ", "pause ", "splutter ", "stumble ", "stutter ", "stuttering ", "wobble "], "A": []}

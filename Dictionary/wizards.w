@@ -1,0 +1,1 @@
+{"index": 366774, "D": "a person who practices magic;  magician or sorcerer.", "S": ["astrologer ", "clairvoyant ", "conjurer ", "diviner ", "enchanter ", "fortuneteller ", "hypnotist ", "magician ", "magus ", "medium ", "necromancer ", "occultist ", "palmist ", "seer ", "shaman ", "soothsayer ", "sorcerer ", "thaumaturge ", "warlock ", "witch "], "A": ["amateur ", "rookie "]}

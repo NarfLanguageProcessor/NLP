@@ -1,0 +1,1 @@
+{"index": 294283, "D": "pertaining to or characteristic of a slob. ", "S": [], "A": []}

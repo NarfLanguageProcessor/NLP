@@ -1,0 +1,1 @@
+{"index": 74872, "D": "a drain or channel crossing under a road, sidewalk, etc.; sewer; conduit.", "S": ["duct ", "gutter ", "pipe "], "A": []}

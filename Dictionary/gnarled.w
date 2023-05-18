@@ -1,0 +1,1 @@
+{"index": 127015, "D": "(of trees) full of or covered with gnarls; bent; twisted. ", "S": ["contorted ", "crooked ", "deformed ", "gnarly ", "twisted ", "wrinkled "], "A": ["straight "]}

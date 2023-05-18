@@ -1,0 +1,1 @@
+{"index": 247021, "D": "communication of thought by words; talk; conversation", "S": [], "A": []}

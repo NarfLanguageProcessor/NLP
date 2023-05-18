@@ -1,0 +1,1 @@
+{"index": 49421, "D": "askew; awry.", "S": ["awry ", "off-center "], "A": []}

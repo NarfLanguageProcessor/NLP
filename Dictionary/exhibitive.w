@@ -1,0 +1,1 @@
+{"index": 107154, "D": "serving for exhibition; tending to exhibit.", "S": ["denotative ", "denotive ", "designatory ", "exhibitory ", "indicatory ", "representative "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 139960, "D": "excessive secretion of hydrochloric acid in the stomach.", "S": [], "A": []}

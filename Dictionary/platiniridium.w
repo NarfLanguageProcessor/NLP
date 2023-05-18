@@ -1,0 +1,1 @@
+{"index": 239437, "D": "a natural alloy composed chiefly of platinum  and iridium. ", "S": [], "A": []}

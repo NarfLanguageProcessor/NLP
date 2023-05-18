@@ -1,0 +1,1 @@
+{"index": 191060, "D": "an electronic device that makes possible the transmission of data to or from a computer via telephone or other communication lines.", "S": ["disk drive ", "hardware ", "personal computer ", "supercomputer "], "A": []}

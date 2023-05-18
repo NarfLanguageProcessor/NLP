@@ -1,0 +1,1 @@
+{"index": 217958, "D": "to interlace (threads, yarns, strips, fibrous material, etc.) so as to form a fabric or material.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 341940, "D": "to fall short of success or achievement in something expected, attempted, desired, or approved", "S": [], "A": []}

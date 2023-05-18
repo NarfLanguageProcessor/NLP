@@ -1,0 +1,1 @@
+{"index": 40284, "D": "any of various freshwater fishes of the genus Abramis, as A. brama, of Europe, with a compressed, deep body and silvery scales.", "S": [], "A": []}

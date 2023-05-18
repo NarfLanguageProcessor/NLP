@@ -1,0 +1,1 @@
+{"index": 306625, "D": "to form into or make part of a structure. ", "S": [], "A": []}

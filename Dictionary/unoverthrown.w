@@ -1,0 +1,1 @@
+{"index": 347305, "D": "to depose, as from a position of power; overcome, defeat, or vanquish", "S": [], "A": []}

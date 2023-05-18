@@ -1,0 +1,1 @@
+{"index": 172064, "D": "a brilliant electric spark discharge in the atmosphere, occurring within a thundercloud, between clouds, or between a cloud and the ground.", "S": [], "A": []}

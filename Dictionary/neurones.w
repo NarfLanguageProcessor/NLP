@@ -1,0 +1,1 @@
+{"index": 199149, "D": "a specialized, impulse-conducting cell that is the functional unit of the nervous system, consisting of the cell body and its processes, the axon and dendrites.", "S": [], "A": []}

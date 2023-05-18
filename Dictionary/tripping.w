@@ -1,0 +1,1 @@
+{"index": 330462, "D": "light and quick, as a step or pace.", "S": ["intoxicated ", "ripped ", "tipsy ", "wasted "], "A": ["sober ", "straight "]}

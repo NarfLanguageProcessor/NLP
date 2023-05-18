@@ -1,0 +1,1 @@
+{"index": 159052, "D": "noting a change in part of the sound of a word made independently of the phonetic environment of that part.", "S": [], "A": []}

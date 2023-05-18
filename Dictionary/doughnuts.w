@@ -1,0 +1,1 @@
+{"index": 92055, "D": "a small cake of sweetened or, sometimes, unsweetened dough  fried in deep fat, typically shaped like a ring or, when prepared with a filling, a ball.", "S": ["bun ", "pastry "], "A": []}

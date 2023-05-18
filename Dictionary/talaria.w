@@ -1,0 +1,1 @@
+{"index": 315545, "D": "the wings or winged sandals on the feet of Hermes, or Mercury.", "S": ["moccasin ", "shoe ", "slipper "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 232202, "D": "changed to or being of an unnatural or abnormal kind", "S": [], "A": []}

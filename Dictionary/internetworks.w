@@ -1,0 +1,1 @@
+{"index": 155500, "D": "two or more computer networks connected by routers, bridges, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 100608, "D": "the act of enjoying. ", "S": ["amusement ", "fun ", "gratification ", "happiness ", "indulgence ", "joy ", "luxury ", "pleasure ", "recreation ", "relaxation ", "satisfaction ", "thrill "], "A": ["depression ", "dissatisfaction ", "gloom ", "labor ", "pain ", "sadness ", "sorrow ", "unhappiness ", "woe ", "work ", "apathy ", "chore ", "failure ", "task "]}

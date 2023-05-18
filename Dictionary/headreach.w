@@ -1,0 +1,1 @@
+{"index": 134688, "D": "the distance made to windward while tacking", "S": [], "A": []}

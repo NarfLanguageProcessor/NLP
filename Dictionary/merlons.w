@@ -1,0 +1,1 @@
+{"index": 183866, "D": "(in a battlement) the solid part between two crenels.", "S": [], "A": []}

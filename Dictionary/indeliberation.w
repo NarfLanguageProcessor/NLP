@@ -1,0 +1,1 @@
+{"index": 150747, "D": "done without care; special planning or deliberation; unintentional.", "S": [], "A": []}

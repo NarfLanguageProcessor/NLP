@@ -1,0 +1,1 @@
+{"index": 176063, "D": "any of four wormlike muscles in the palm of the hand and in the sole of the foot.", "S": [], "A": []}

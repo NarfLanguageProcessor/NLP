@@ -1,0 +1,1 @@
+{"index": 248677, "D": "the exercise of authority or power in a burdensome, cruel, or unjust manner.", "S": [], "A": []}

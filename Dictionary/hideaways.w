@@ -1,0 +1,1 @@
+{"index": 138354, "D": "a place to which a person can retreat for safety, privacy, relaxation, or seclusion; refuge", "S": ["hideout ", "lair ", "refuge "], "A": []}

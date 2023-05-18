@@ -1,0 +1,1 @@
+{"index": 132659, "D": [], "S": ["angling ", "fishery ", "fishing ", "shooting "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 335773, "D": "to express distress or grief over; lament", "S": [], "A": []}

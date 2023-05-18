@@ -1,0 +1,1 @@
+{"index": 195034, "D": "having more than one coil,  as an electrical device.", "S": [], "A": []}

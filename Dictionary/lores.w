@@ -1,0 +1,1 @@
+{"index": 175282, "D": "low-resolution. ", "S": ["adage ", "belief ", "custom ", "fable ", "folklore ", "knowledge ", "legend ", "mythology ", "superstition ", "tale ", "tradition "], "A": ["reality ", "truth ", "ignorance "]}

@@ -1,0 +1,1 @@
+{"index": 155396, "D": "to discontinue temporarily; suspend.", "S": ["delayed ", "suspended "], "A": []}

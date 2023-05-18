@@ -1,0 +1,1 @@
+{"index": 91693, "D": "a vertical window in a projection built out from a sloping roof.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83678, "D": "a person who is greatly devoted  to something.", "S": ["congregation ", "crowd ", "gallery ", "gathering ", "market ", "public "], "A": []}

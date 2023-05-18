@@ -1,0 +1,1 @@
+{"index": 100985, "D": "all the parts of a thing taken together, so that each part is considered only in relation to the whole.", "S": ["altogether "], "A": []}

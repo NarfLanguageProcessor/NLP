@@ -1,0 +1,1 @@
+{"index": 66148, "D": "of the same kind or genus.", "S": ["alike ", "comparable ", "related "], "A": ["different ", "dissimilar ", "unlike ", "away ", "changing ", "divergent ", "far ", "inconsistent ", "mismatched ", "unalike ", "unequal ", "unfriendly ", "variable "]}

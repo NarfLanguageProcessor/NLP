@@ -1,0 +1,1 @@
+{"index": 84448, "D": "growth of a plant or plant part in a direction transverse to that of the light", "S": [], "A": []}

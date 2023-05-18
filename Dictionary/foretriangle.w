@@ -1,0 +1,1 @@
+{"index": 117118, "D": "the triangular area formed by the deck, foremast, and headstay of a sailing vessel", "S": [], "A": []}

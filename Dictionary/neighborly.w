@@ -1,0 +1,1 @@
+{"index": 198145, "D": "having or showing qualities befitting a neighbor;  friendly.", "S": ["amiable ", "considerate ", "cordial ", "gracious ", "harmonious ", "hospitable ", "sociable "], "A": ["disagreeable ", "hateful ", "mean ", "rude ", "unfriendly ", "unkind ", "unsociable "]}

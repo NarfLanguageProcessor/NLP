@@ -1,0 +1,1 @@
+{"index": 133917, "D": "any of several horizontal members at the ends of a vessel for holding cant frames in position until the shell planking or plating is attached.", "S": ["belaboring ", "dwelling ", "insisting ", "laboring ", "persisting "], "A": []}

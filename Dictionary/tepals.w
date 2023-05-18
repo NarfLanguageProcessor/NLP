@@ -1,0 +1,1 @@
+{"index": 319131, "D": "one of the divisions of a flower perianth, especially one that is not clearly differentiated into petals and sepals, as in lilies and tulips.", "S": [], "A": []}

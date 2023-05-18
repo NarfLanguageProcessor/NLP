@@ -1,0 +1,1 @@
+{"index": 89983, "D": "a salt of pyrosulfuric acid, as sodium disulfate, Na2S2O7.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 323298, "D": "a game played on a flat surface, in which players attempt to snap small plastic disks into a cup by pressing the edges of the disks with larger ones.", "S": [], "A": []}

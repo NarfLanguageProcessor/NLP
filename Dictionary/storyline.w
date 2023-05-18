@@ -1,0 +1,1 @@
+{"index": 305425, "D": "plot (def. 2). ", "S": ["action ", "design ", "development ", "enactment ", "events ", "incidents ", "movement ", "narrative ", "outline ", "picture ", "progress ", "scenario ", "scene ", "scheme ", "story ", "structure ", "subject ", "suspense ", "theme ", "thread ", "unfolding "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 354213, "D": "to exercise (power, authority, influence, etc.), as in ruling or dominating.", "S": [], "A": []}

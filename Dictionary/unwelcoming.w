@@ -1,0 +1,1 @@
+{"index": 354158, "D": "(a word of kindly greeting, as to one whose arrival gives pleasure)", "S": ["discouraging ", "frigid ", "icy ", "wintry "], "A": ["hot ", "warm ", "extroverted ", "friendly ", "kind ", "outgoing ", "sociable "]}

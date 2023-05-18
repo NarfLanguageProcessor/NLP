@@ -1,0 +1,1 @@
+{"index": 346558, "D": "something erected in memory of a person, event, etc., as a building, pillar, or statue", "S": [], "A": []}

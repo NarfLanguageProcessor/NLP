@@ -1,0 +1,1 @@
+{"index": 228053, "D": "a member of a North American Indian people of the western Sacramento River valley in California.", "S": [], "A": []}

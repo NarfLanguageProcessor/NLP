@@ -1,0 +1,1 @@
+{"index": 310883, "D": "the study of the history, language, and culture of the Sumerians.", "S": [], "A": []}

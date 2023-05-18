@@ -1,0 +1,1 @@
+{"index": 170860, "D": "a section into which a course of study is divided, especially a single, continuous session of formal instruction in a subject", "S": ["charge ", "expenditure ", "fee ", "instruction ", "price ", "schooling ", "teaching ", "training ", "tutelage "], "A": []}

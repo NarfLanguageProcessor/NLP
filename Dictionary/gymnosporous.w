@@ -1,0 +1,1 @@
+{"index": 125099, "D": "a naked spore, especially one not produced in a sporangium or one lacking a protective envelope.", "S": [], "A": []}

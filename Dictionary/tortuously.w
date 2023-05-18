@@ -1,0 +1,1 @@
+{"index": 326357, "D": "full of twists, turns, or bends; twisting, winding, or crooked", "S": ["carefully ", "painstakingly ", "slowly "], "A": []}

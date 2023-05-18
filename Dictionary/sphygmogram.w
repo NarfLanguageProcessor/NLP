@@ -1,0 +1,1 @@
+{"index": 299555, "D": "a tracing or diagram produced by a sphygmograph.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332168, "D": "to pull at with force, vigor, or effort.", "S": ["drag ", "draw ", "haul ", "heave ", "jerk ", "lug ", "strain ", "toil ", "tow ", "traction ", "wrench ", "yank "], "A": []}

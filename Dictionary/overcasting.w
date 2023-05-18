@@ -1,0 +1,1 @@
+{"index": 218525, "D": "the act of sewing along the edges of material with long, spaced stitches to prevent raveling.", "S": ["becloud ", "befog ", "blur ", "dim ", "drizzle ", "film ", "fog ", "haze ", "mizzle ", "murk ", "obscure ", "overcast ", "overcloud ", "rain ", "shower ", "sprinkle ", "steam "], "A": ["clear up "]}

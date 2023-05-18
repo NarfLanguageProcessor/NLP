@@ -1,0 +1,1 @@
+{"index": 270470, "D": "netlike; reticulate.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 112910, "D": "in a fine  manner; excellently; elegantly; delicately;  nicely; minutely; subtly. ", "S": ["beautifully ", "cautiously ", "deftly ", "elegantly ", "exquisitely ", "gracefully ", "lightly ", "sensitively ", "skillfully ", "softly ", "subtly ", "tactfully "], "A": ["strongly "]}

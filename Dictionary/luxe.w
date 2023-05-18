@@ -1,0 +1,1 @@
+{"index": 176549, "D": "Compare deluxe. ", "S": [], "A": []}

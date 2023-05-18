@@ -1,0 +1,1 @@
+{"index": 280152, "D": "one of a Belgian breed of small dogs having erect ears and a thick, black coat, originally used as a watchdog on boats in the Netherlands and Belgium.", "S": [], "A": []}

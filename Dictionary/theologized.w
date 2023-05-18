@@ -1,0 +1,1 @@
+{"index": 321025, "D": "to theorize or speculate upon theological  subjects.", "S": [], "A": []}

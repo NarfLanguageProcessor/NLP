@@ -1,0 +1,1 @@
+{"index": 333278, "D": "next after the nineteenth; being the ordinal number for 20.", "S": [], "A": []}

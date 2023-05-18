@@ -1,0 +1,1 @@
+{"index": 283447, "D": "having the function or power of selecting;  making a selection. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310245, "D": "subject to or easily influenced by suggestion. ", "S": [], "A": []}

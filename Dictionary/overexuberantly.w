@@ -1,0 +1,1 @@
+{"index": 219283, "D": "effusively and almost uninhibitedly enthusiastic; lavishly abundant", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 329899, "D": "a hydrate  that contains three molecules of water, as potassium pyrophosphate, K4P2O7\u22c53H2O.", "S": [], "A": []}

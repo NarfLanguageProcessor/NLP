@@ -1,0 +1,1 @@
+{"index": 50122, "D": "showing, using, or characterized by caution", "S": ["circumspect ", "discreet ", "judicious ", "leery ", "prudent ", "tentative ", "vigilant ", "wary ", "watchful "], "A": ["careless ", "certain ", "foolish ", "inattentive ", "incautious ", "indiscreet ", "negligent ", "rash ", "reckless ", "sure ", "thoughtless ", "uncareful ", "unwise "]}

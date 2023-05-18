@@ -1,0 +1,1 @@
+{"index": 45381, "D": "without rough motion; still or nearly still", "S": ["ataractic ", "sedative "], "A": ["upsetting "]}

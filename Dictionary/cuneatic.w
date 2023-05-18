@@ -1,0 +1,1 @@
+{"index": 75003, "D": "cuneiform; cuneate. ", "S": [], "A": []}

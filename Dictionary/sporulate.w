@@ -1,0 +1,1 @@
+{"index": 301081, "D": "to produce spores.", "S": [], "A": []}

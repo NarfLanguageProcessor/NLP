@@ -1,0 +1,1 @@
+{"index": 84990, "D": "a book or digital resource (such as Dictionary.com) containing a selection of words and information about their meanings, pronunciations, etymologies, inflected forms, derived forms, etc., in either the same or another language; lexicon; glossary", "S": ["glossary ", "language ", "vocabulary "], "A": []}

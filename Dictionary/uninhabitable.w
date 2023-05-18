@@ -1,0 +1,1 @@
+{"index": 344561, "D": "not capable of being lived in", "S": ["dilapidated ", "run down ", "unlivable ", "unoccupiable "], "A": ["inhabitable ", "livable "]}

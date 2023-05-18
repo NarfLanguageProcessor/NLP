@@ -1,0 +1,1 @@
+{"index": 357546, "D": "an arched structure, usually made of stones, concrete, or bricks, forming a ceiling or roof over a hall, room, sewer, or other wholly or partially enclosed construction.", "S": [], "A": []}

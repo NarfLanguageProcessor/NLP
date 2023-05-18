@@ -1,0 +1,1 @@
+{"index": 69536, "D": "a member of a corporation, especially one of the original members.", "S": [], "A": []}

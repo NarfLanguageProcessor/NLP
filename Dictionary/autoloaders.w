@@ -1,0 +1,1 @@
+{"index": 24170, "D": "a firearm with an automatic loading mechanism.", "S": [], "A": []}

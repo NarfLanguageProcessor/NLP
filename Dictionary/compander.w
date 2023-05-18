@@ -1,0 +1,1 @@
+{"index": 64365, "D": "(in a communications path) a combination of a compressor at one point and an expander at another, the compressor reducing the volume of a signal and the expander restoring it.", "S": [], "A": []}

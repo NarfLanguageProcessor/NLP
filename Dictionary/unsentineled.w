@@ -1,0 +1,1 @@
+{"index": 350786, "D": "a person or thing that watches or stands as if watching.", "S": [], "A": []}

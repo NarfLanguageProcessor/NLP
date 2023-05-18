@@ -1,0 +1,1 @@
+{"index": 98336, "D": "the nutrient material, composed chiefly of secretions from the uterine glands, degenerating uterine tissue, and substances in the maternal blood, that nourishes a mammalian embryo prior to the formation of the placenta.", "S": [], "A": []}

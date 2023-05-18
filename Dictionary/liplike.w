@@ -1,0 +1,1 @@
+{"index": 173153, "D": "either of the two fleshy parts or folds forming the margins of the mouth and functioning in speech.", "S": [], "A": []}

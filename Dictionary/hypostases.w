@@ -1,0 +1,1 @@
+{"index": 141189, "D": "the underlying or essential part of anything as distinguished from attributes; substance, essence, or essential principle.", "S": [], "A": []}

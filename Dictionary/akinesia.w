@@ -1,0 +1,1 @@
+{"index": 7169, "D": "absence, loss, or impairment of the power of voluntary movement.", "S": [], "A": []}

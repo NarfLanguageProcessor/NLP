@@ -1,0 +1,1 @@
+{"index": 334717, "D": "not officially connected or associated with an organization", "S": ["self-employed "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 151262, "D": "a quinonimine derivative that is the parent substance of the blue and green indophenol dyes.", "S": [], "A": []}

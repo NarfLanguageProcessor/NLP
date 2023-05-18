@@ -1,0 +1,1 @@
+{"index": 93319, "D": "to water at the mouth, as in anticipation of food; salivate; drivel.", "S": ["drivel ", "expectoration ", "salivation ", "slaver ", "slobber ", "spit ", "spittle "], "A": []}

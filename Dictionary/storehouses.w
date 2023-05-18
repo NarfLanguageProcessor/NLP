@@ -1,0 +1,1 @@
+{"index": 305389, "D": "a building in which things are stored.", "S": ["depot ", "warehouse "], "A": []}

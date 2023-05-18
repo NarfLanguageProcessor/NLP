@@ -1,0 +1,1 @@
+{"index": 181026, "D": "a cape in S Greece, at the S tip of the Peloponnesus.", "S": [], "A": []}

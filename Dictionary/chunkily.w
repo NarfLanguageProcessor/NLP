@@ -1,0 +1,1 @@
+{"index": 56644, "D": "thick or stout; stocky.", "S": [], "A": []}

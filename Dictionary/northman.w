@@ -1,0 +1,1 @@
+{"index": 208642, "D": "one of the ancient Scandinavians, especially a member of the group that from about the 8th to the 11th century made many raids and established settlements in Great Britain, Ireland, many parts of continental Europe, and probably in parts of North America.", "S": [], "A": []}

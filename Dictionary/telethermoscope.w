@@ -1,0 +1,1 @@
+{"index": 318271, "D": "any of various thermometers  that indicate or record temperatures at a distance, as by means of an electric current.", "S": [], "A": []}

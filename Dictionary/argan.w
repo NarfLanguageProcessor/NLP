@@ -1,0 +1,1 @@
+{"index": 19432, "D": "a thorny evergreen tree, Argania spinosa, native to SW Morocco, the plum-sized fruit of which contains a nut that yields an oil valued for cooking", "S": [], "A": []}

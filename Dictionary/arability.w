@@ -1,0 +1,1 @@
+{"index": 18316, "D": "capable of producing crops; suitable for farming; suited to the plow and for tillage", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 169910, "D": "protective shelter", "S": ["border ", "bottom ", "face ", "front ", "hand ", "part ", "rear ", "sector ", "surface ", "top ", "view "], "A": ["back ", "inside ", "interior ", "middle ", "rear ", "whole ", "center "]}

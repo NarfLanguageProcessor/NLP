@@ -1,0 +1,1 @@
+{"index": 222689, "D": "tending to make or preserve peace; conciliatory", "S": ["calm ", "friendly ", "neutral ", "quiet "], "A": ["agitated ", "loud "]}

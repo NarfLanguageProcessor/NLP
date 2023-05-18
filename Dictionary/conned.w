@@ -1,0 +1,1 @@
+{"index": 66520, "D": "relating to, or being the victim of, a swindle, scam, or trick", "S": ["bamboozled ", "beguiled ", "bilked ", "burned ", "deceived ", "duped ", "gypped ", "hoodwinked ", "swindled ", "tricked ", "victimized "], "A": []}

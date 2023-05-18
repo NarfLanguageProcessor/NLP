@@ -1,0 +1,1 @@
+{"index": 236143, "D": "amounting to very little; trifling; negligible", "S": ["niggling ", "pettifogging ", "trifling "], "A": ["important ", "major ", "significant "]}

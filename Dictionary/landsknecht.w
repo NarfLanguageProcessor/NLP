@@ -1,0 +1,1 @@
+{"index": 168027, "D": "a European mercenary foot soldier of the 16th century, armed with a pike or halberd.", "S": [], "A": []}

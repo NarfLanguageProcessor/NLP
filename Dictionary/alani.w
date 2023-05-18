@@ -1,0 +1,1 @@
+{"index": 7307, "D": "a nomadic Iranian people who flourished in the 2nd\u20134th centuries a.d. and are ancestors of the present-day Ossets.", "S": [], "A": []}

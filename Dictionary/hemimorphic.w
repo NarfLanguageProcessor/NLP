@@ -1,0 +1,1 @@
+{"index": 136211, "D": "(of a crystal) having the two ends of an axis unlike in their planes or modifications; lacking a center of symmetry.", "S": [], "A": []}

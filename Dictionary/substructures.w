@@ -1,0 +1,1 @@
+{"index": 309377, "D": "a structure  forming the foundation of a building or other construction.", "S": ["ground ", "infrastructure ", "support "], "A": ["top "]}

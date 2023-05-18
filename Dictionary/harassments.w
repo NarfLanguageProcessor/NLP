@@ -1,0 +1,1 @@
+{"index": 133575, "D": "an act or instance of harassing;  torment, vexation, or intimidation", "S": ["molestation ", "persecution ", "provocation "], "A": ["aid ", "comfort ", "contentment ", "delight ", "happiness ", "help ", "joy ", "peace ", "pleasure "]}

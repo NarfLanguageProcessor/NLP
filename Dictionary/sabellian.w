@@ -1,0 +1,1 @@
+{"index": 276055, "D": "a member of a group of early Italian peoples including the Samnites and Sabines.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 191504, "D": "(of a cross) having arms of equal length, split and curved back at the ends, used especially as the cadency mark of an eighth son", "S": [], "A": []}

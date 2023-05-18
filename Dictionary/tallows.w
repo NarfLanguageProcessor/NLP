@@ -1,0 +1,1 @@
+{"index": 315732, "D": "the fatty tissue or suet of animals.", "S": ["smear ", "suet ", "wax "], "A": []}

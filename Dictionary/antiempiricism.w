@@ -1,0 +1,1 @@
+{"index": 15184, "D": "empirical  method or practice.", "S": [], "A": []}

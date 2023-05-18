@@ -1,0 +1,1 @@
+{"index": 7118, "D": "a language of the Kwa branch of Niger-Congo spoken in much of Ghana and parts of the Ivory Coast.", "S": [], "A": []}

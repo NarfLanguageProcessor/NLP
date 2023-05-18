@@ -1,0 +1,1 @@
+{"index": 127115, "D": "(in folklore) one of a species of diminutive beings, usually described as shriveled little old men, that inhabit the interior of the earth and act as guardians of its treasures; troll.", "S": ["fairy "], "A": []}

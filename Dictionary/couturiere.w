@@ -1,0 +1,1 @@
+{"index": 71423, "D": "a woman who is a couturier.", "S": ["decorator ", "fashion designer "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 67519, "D": "twisted in a violent manner; distorted.", "S": ["angled ", "arced ", "arched ", "bowed ", "crooked ", "drooping ", "hooked ", "humped ", "hunched ", "inclined ", "limp ", "looped ", "round ", "rounded ", "slumped ", "stooped ", "twined ", "twisted ", "warped ", "wilted "], "A": ["straight "]}

@@ -1,0 +1,1 @@
+{"index": 120347, "D": "a ruffle or flounce, as on a woman's skirt or petticoat.", "S": ["embellishment ", "ornament "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118649, "D": "paper made entirely from chemical pulp and therefore free of groundwood.", "S": [], "A": []}

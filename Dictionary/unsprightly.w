@@ -1,0 +1,1 @@
+{"index": 351841, "D": "animated or vivacious; lively.", "S": [], "A": []}

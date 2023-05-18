@@ -1,0 +1,1 @@
+{"index": 167227, "D": "any orchid of the genus Cypripedium, the flowers of which have a protruding petal somewhat resembling a slipper", "S": [], "A": []}

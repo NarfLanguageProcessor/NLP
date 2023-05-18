@@ -1,0 +1,1 @@
+{"index": 326019, "D": "to sew a line of stitches  on the face side of (a garment or the like) alongside a seam.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 289656, "D": "not strong; unhealthy; ailing.", "S": ["decrepitude ", "disease ", "enervation ", "enfeeblement ", "exhaustion ", "faintness ", "feebleness ", "frailty ", "infirmity ", "languor ", "malaise ", "unhealthiness "], "A": ["good health ", "health ", "healthiness ", "soundness ", "strength "]}

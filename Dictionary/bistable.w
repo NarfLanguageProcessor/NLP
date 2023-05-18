@@ -1,0 +1,1 @@
+{"index": 35114, "D": "(of an electric or electronic circuit) having two stable  states.", "S": [], "A": []}

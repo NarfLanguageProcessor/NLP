@@ -1,0 +1,1 @@
+{"index": 352587, "D": "the act of a person or thing that swells. ", "S": [], "A": []}

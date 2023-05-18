@@ -1,0 +1,1 @@
+{"index": 307297, "D": "the lowest part of a base,  as of a column, that consists of two or more horizontal members.", "S": [], "A": []}

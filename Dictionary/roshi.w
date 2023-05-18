@@ -1,0 +1,1 @@
+{"index": 274520, "D": "the religious leader of a group of Zen Buddhists.", "S": [], "A": []}

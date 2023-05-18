@@ -1,0 +1,1 @@
+{"index": 194344, "D": "the structures enclosing or being within this cavity, considered as a whole.", "S": [], "A": []}

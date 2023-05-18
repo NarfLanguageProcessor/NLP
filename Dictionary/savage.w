@@ -1,0 +1,1 @@
+{"index": 279036, "D": "fierce, ferocious, or cruel; untamed", "S": ["barbaric ", "crude ", "fierce ", "turbulent "], "A": ["domesticated ", "peaceful ", "tame ", "calm ", "civilized ", "cultured ", "gentle ", "polished "]}

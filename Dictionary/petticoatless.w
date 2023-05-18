@@ -1,0 +1,1 @@
+{"index": 232589, "D": "an underskirt, especially one that is full and often trimmed and ruffled and of a decorative fabric.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 113684, "D": "soft and limp; not firm; flabby", "S": [], "A": []}

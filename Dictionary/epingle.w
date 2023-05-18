@@ -1,0 +1,1 @@
+{"index": 102626, "D": "a ribbed fabric constructed in plain weave, used in the manufacture of women's dress goods.", "S": [], "A": []}

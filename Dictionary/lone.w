@@ -1,0 +1,1 @@
+{"index": 174867, "D": "being alone; without company or accompaniment; solitary; unaccompanied", "S": ["lonely ", "sole ", "solitary "], "A": ["together "]}

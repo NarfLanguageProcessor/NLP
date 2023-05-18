@@ -1,0 +1,1 @@
+{"index": 170503, "D": "of or relating to a lentigo. ", "S": [], "A": []}

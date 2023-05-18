@@ -1,0 +1,1 @@
+{"index": 147216, "D": "the hypothetical initial substance of the universe from which all matter is derived.", "S": [], "A": []}

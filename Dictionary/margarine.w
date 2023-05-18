@@ -1,0 +1,1 @@
+{"index": 179971, "D": "a butterlike product made of refined vegetable oils, sometimes blended with animal fats, and emulsified, usually with water or milk.", "S": ["oil ", "shortening "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 263309, "D": "to change the shape or formation of; remodel; restructure.", "S": ["rearrange ", "reconstruct ", "redesign ", "reform ", "reshape "], "A": []}

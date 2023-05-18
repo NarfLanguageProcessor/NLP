@@ -1,0 +1,1 @@
+{"index": 13493, "D": "to heat (glass, earthenware, metals, etc.) to remove or prevent internal stress.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 200371, "D": "the process of oxidation in the nitrogen cycle  that converts ammonia or ammonium compounds to nitrites and then to nitrates, especially this process as facilitated by bacteria and other microbes in soil to provide the nitrogen vital to plant health and growth.", "S": [], "A": []}

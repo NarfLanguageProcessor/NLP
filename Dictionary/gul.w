@@ -1,0 +1,1 @@
+{"index": 131157, "D": "a large octagonal design derived from the shape of a rose, a motif on Oriental rugs.", "S": [], "A": []}

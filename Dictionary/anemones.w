@@ -1,0 +1,1 @@
+{"index": 12529, "D": "any of various plants belonging to the genus Anemone, of the buttercup family, having petallike sepals and including several wild species with white flowers as well as others cultivated for their showy flowers in a variety of colors.", "S": ["tumor "], "A": []}

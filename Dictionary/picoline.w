@@ -1,0 +1,1 @@
+{"index": 236010, "D": "any of three isomeric methyl derivatives of pyridine having the formula C6H7N, obtained from coal tar as a colorless oily liquid with a strong odor.", "S": [], "A": []}

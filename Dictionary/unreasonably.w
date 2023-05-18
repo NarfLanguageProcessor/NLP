@@ -1,0 +1,1 @@
+{"index": 349123, "D": "not reasonable or rational; acting at variance with or contrary to reason; not guided by reason or sound judgment; irrational", "S": ["foolishly ", "stupidly "], "A": []}

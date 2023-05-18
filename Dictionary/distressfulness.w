@@ -1,0 +1,1 @@
+{"index": 89906, "D": "causing or involving distress", "S": [], "A": []}

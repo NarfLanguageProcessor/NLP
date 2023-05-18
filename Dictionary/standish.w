@@ -1,0 +1,1 @@
+{"index": 302690, "D": "a stand for ink, pens, and other writing materials.", "S": [], "A": []}

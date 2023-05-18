@@ -1,0 +1,1 @@
+{"index": 88729, "D": "to get off or alight from a horse, bicycle, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 203591, "D": "as great as; the same as (often followed by to or with)", "S": [], "A": []}

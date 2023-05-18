@@ -1,0 +1,1 @@
+{"index": 44567, "D": "(in North Africa) a Muslim tribal chief, judge, or senior official.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 292154, "D": "a town in and the capital of Valais, in SW Switzerland.", "S": [], "A": []}

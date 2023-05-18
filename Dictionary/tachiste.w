@@ -1,0 +1,1 @@
+{"index": 315035, "D": "action painting (def. 1). ", "S": [], "A": []}

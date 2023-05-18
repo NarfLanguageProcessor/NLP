@@ -1,0 +1,1 @@
+{"index": 227266, "D": "a way  for passing into, through, or out of something, as within a building or between buildings; a corridor, hall, alley, catwalk, or the like.", "S": ["hallway ", "passage ", "walkway "], "A": []}

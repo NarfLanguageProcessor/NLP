@@ -1,0 +1,1 @@
+{"index": 85445, "D": "a glucoside obtained from digitalis. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 361096, "D": "the scientific study of volcanoes  and volcanic phenomena.", "S": [], "A": []}

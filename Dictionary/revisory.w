@@ -1,0 +1,1 @@
+{"index": 271404, "D": "pertaining to or for the purpose of revision.", "S": [], "A": []}

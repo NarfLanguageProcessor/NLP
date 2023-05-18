@@ -1,0 +1,1 @@
+{"index": 177966, "D": "having to do with the office or person of a mayor  or chief official of a city, village, or town", "S": [], "A": []}

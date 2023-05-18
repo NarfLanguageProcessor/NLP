@@ -1,0 +1,1 @@
+{"index": 53408, "D": "(in Alaska and Northern Canada) a tenderfoot; greenhorn; newcomer. ", "S": [], "A": []}

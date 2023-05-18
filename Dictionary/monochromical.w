@@ -1,0 +1,1 @@
+{"index": 192165, "D": "a painting or drawing in different shades of a single color.", "S": [], "A": []}

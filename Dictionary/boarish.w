@@ -1,0 +1,1 @@
+{"index": 36956, "D": "of or like a boar;  swinish.", "S": [], "A": []}

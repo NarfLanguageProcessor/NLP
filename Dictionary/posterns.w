@@ -1,0 +1,1 @@
+{"index": 244097, "D": "a back door or gate.", "S": ["back ", "back door ", "back end ", "backside ", "bottom ", "butt ", "rear end ", "tail "], "A": ["front "]}

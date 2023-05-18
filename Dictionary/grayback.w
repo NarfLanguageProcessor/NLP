@@ -1,0 +1,1 @@
+{"index": 128619, "D": "any of various marine and aquatic animals that are dark gray  above and light-colored or white below, as the gray whale,  the alewife, certain whitefish, and certain sandpipers.", "S": [], "A": []}

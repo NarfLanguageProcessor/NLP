@@ -1,0 +1,1 @@
+{"index": 129022, "D": "an inflammatory tumor or growth composed of granulation tissue.", "S": [], "A": []}

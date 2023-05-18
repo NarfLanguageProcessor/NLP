@@ -1,0 +1,1 @@
+{"index": 32343, "D": "to curse; invoke evil upon.", "S": [], "A": []}

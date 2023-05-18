@@ -1,0 +1,1 @@
+{"index": 261118, "D": "the cellar of a town hall, esp one used as a beer hall or restaurant", "S": [], "A": []}

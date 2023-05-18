@@ -1,0 +1,1 @@
+{"index": 307737, "D": "of or relating to a subdeacon.", "S": [], "A": []}

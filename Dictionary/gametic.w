@@ -1,0 +1,1 @@
+{"index": 121708, "D": "a mature sexual reproductive cell, as a sperm or egg, that unites with another cell to form a new organism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 207224, "D": "to draw back, as in retreat or avoidance", "S": [], "A": []}

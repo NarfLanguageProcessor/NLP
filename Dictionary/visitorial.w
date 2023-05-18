@@ -1,0 +1,1 @@
+{"index": 360442, "D": "of or relating to a visitor;  visitatorial.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 149824, "D": "a unit of length, 1/12 (0.0833) foot, equivalent to 2.54 centimeters. Abbreviation", "S": ["dragging "], "A": ["standing ", "upright ", "vertical "]}

@@ -1,0 +1,1 @@
+{"index": 197459, "D": "any cephalopod of the genus Nautilus, having a spiral, chambered shell with pearly septa.", "S": [], "A": []}

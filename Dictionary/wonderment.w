@@ -1,0 +1,1 @@
+{"index": 367045, "D": "wondering  or wonder. ", "S": ["amazement ", "awe ", "bewilderment ", "curiosity "], "A": ["calmness ", "coolness ", "indifference ", "expectation "]}

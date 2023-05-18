@@ -1,0 +1,1 @@
+{"index": 342435, "D": "marked by confusion or agitation.", "S": ["composed ", "placid ", "undisturbed "], "A": ["agitated ", "excited "]}

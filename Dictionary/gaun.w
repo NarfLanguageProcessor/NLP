@@ -1,0 +1,1 @@
+{"index": 122851, "D": "the present participle of gae", "S": [], "A": []}

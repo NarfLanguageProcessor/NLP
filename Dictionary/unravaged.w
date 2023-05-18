@@ -1,0 +1,1 @@
+{"index": 349066, "D": "ruinously damaged or marred", "S": [], "A": []}

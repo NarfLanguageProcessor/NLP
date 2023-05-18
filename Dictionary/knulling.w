@@ -1,0 +1,1 @@
+{"index": 165767, "D": "a convex molding having a series of members separated by indentations, as a bead and reel.", "S": [], "A": []}

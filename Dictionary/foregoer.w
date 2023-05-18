@@ -1,0 +1,1 @@
+{"index": 116678, "D": "to go before; precede.", "S": ["forebear ", "forefather ", "founder "], "A": ["descendant "]}

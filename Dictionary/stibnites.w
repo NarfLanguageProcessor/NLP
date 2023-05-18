@@ -1,0 +1,1 @@
+{"index": 304247, "D": "a soft mineral, antimony sulfide, Sb2S3, lead-gray in color with a metallic luster, occurring in crystals, often acicular, or in bladed masses", "S": [], "A": []}

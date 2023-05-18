@@ -1,0 +1,1 @@
+{"index": 349616, "D": "to delay the impending punishment or sentence of (a condemned person).", "S": [], "A": []}

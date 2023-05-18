@@ -1,0 +1,1 @@
+{"index": 209577, "D": "very many; being or existing in great quantity", "S": ["big ", "diverse ", "great ", "large ", "plentiful ", "various "], "A": ["little ", "miniature ", "similar ", "small ", "tiny ", "uniform ", "unimportant "]}

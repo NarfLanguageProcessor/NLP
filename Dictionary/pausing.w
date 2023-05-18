@@ -1,0 +1,1 @@
+{"index": 228174, "D": "a temporary stop or rest, especially in speech or action", "S": ["halting ", "resting ", "stopping ", "tarrying ", "waiting "], "A": []}

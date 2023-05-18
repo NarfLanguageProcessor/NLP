@@ -1,0 +1,1 @@
+{"index": 54944, "D": "a knife", "S": ["carve ", "cleave ", "divide ", "hack ", "sever ", "shave ", "shred ", "slash ", "slit ", "split ", "strip "], "A": ["combine ", "join ", "mend ", "sew ", "unite "]}

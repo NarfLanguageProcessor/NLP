@@ -1,0 +1,1 @@
+{"index": 324556, "D": "a crystalline amino acid, HOC6H4CH2CH(NH2)COOH, abundant in ripe cheese, that acts as a precursor of norepinephrine and dopamine. Abbreviation", "S": [], "A": []}

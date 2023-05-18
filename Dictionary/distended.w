@@ -1,0 +1,1 @@
+{"index": 89733, "D": "increased, as in size, volume, etc.; expanded; dilated", "S": ["bloated ", "bulging ", "enlarged ", "expanded ", "inflated ", "stretched "], "A": ["deflated ", "shrunken "]}

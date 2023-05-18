@@ -1,0 +1,1 @@
+{"index": 66542, "D": "the act of conniving. ", "S": ["cabal ", "conspiracy ", "intrigue ", "machination ", "scheme ", "subversion "], "A": []}

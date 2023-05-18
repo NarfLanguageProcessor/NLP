@@ -1,0 +1,1 @@
+{"index": 99447, "D": "the system, instituted in 1503, under which a Spanish soldier or colonist was granted a tract of land or a village together with its Indian inhabitants.", "S": [], "A": []}

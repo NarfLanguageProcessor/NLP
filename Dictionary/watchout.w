@@ -1,0 +1,1 @@
+{"index": 363089, "D": "the act of looking out for or anticipating something; lookout", "S": ["heed ", "take care "], "A": ["disregard ", "face ", "ignore ", "meet ", "neglect "]}

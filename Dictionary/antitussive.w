@@ -1,0 +1,1 @@
+{"index": 16385, "D": "of or relating to a substance that is used to suppress coughing.", "S": [], "A": []}

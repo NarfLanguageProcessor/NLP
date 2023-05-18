@@ -1,0 +1,1 @@
+{"index": 58940, "D": "an advanced state of human society, in which a high level of culture, science, industry, and government has been reached.", "S": ["advancement ", "development ", "education ", "progress "], "A": ["decline ", "decrease ", "retreat ", "retrogression ", "stoppage ", "destruction ", "ignorance ", "rudeness "]}

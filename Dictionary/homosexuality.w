@@ -1,0 +1,1 @@
+{"index": 143241, "D": "sexual desire or behavior directed toward people of one's own sex or gender.", "S": ["femininity ", "masculinity "], "A": []}

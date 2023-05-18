@@ -1,0 +1,1 @@
+{"index": 5472, "D": "a person who engages in an affray;  brawler.", "S": [], "A": []}

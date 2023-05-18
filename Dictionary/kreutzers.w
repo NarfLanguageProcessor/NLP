@@ -1,0 +1,1 @@
+{"index": 166283, "D": "any of various former minor coins issued by German states.", "S": [], "A": []}

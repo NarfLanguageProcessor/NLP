@@ -1,0 +1,1 @@
+{"index": 202749, "D": "capable of being deducted. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 65107, "D": "capable of being conceived;  imaginable.", "S": ["expectedly ", "feasibly "], "A": ["doubtfully ", "gloomily ", "hopelessly "]}

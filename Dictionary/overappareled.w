@@ -1,0 +1,1 @@
+{"index": 218217, "D": "clothing, especially outerwear; garments; attire; raiment.", "S": [], "A": []}

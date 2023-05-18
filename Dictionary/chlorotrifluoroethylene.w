@@ -1,0 +1,1 @@
+{"index": 55230, "D": "a colorless, flammable gas, C2H2ClF, that polymerizes to form oils, greases, and waxes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 328256, "D": "a radio, radar, or sonar transceiver that automatically transmits a signal upon reception of a designated incoming signal.", "S": [], "A": []}

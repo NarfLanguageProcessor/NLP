@@ -1,0 +1,1 @@
+{"index": 357176, "D": "the state, quality, or fact of being variable, divergent, different, or anomalous.", "S": ["deviation ", "difference of opinion ", "discrepancy ", "divergence ", "fluctuation "], "A": ["agreement ", "harmony ", "sameness ", "accord ", "approval ", "authorization ", "concurrence ", "peace ", "ratification ", "similarity ", "stagnation ", "uniformity "]}

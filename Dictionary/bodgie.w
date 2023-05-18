@@ -1,0 +1,1 @@
+{"index": 37177, "D": "a juvenile delinquent; youthful troublemaker.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 24902, "D": "a plea by a defendant in an action of replevin who admits taking the distrained goods and shows just cause for the taking.", "S": [], "A": []}

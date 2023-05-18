@@ -1,0 +1,1 @@
+{"index": 201175, "D": "the act of being or becoming advertent;  heedfulness.", "S": [], "A": []}

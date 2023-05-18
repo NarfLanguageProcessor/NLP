@@ -1,0 +1,1 @@
+{"index": 73741, "D": "a method of waving the hair by curling it around metal rods from the ends inward toward the scalp.", "S": [], "A": []}

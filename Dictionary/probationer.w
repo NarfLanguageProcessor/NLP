@@ -1,0 +1,1 @@
+{"index": 251039, "D": "a person undergoing probation  or trial.", "S": ["abecedarian ", "apprentice ", "aspirant ", "beginner ", "dabbler ", "dilettante ", "greenhorn ", "ham ", "hopeful ", "layperson ", "learner ", "neophyte ", "novice ", "putterer ", "recruit ", "tenderfoot ", "tyro "], "A": ["expert ", "professional "]}

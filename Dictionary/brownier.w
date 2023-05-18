@@ -1,0 +1,1 @@
+{"index": 41641, "D": "a dark tertiary color with a yellowish or reddish hue.", "S": [], "A": []}

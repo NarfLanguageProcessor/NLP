@@ -1,0 +1,1 @@
+{"index": 193023, "D": "a ray of moonlight.", "S": ["glimmer ", "light ", "radiation "], "A": ["dullness "]}

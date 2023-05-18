@@ -1,0 +1,1 @@
+{"index": 296045, "D": "not intoxicated or drunk.", "S": ["dampen ", "dim ", "mitigate ", "modulate ", "play down ", "restrain ", "soften ", "temper "], "A": ["aggravate ", "brighten ", "irritate ", "upset "]}

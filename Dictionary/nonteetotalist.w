@@ -1,0 +1,1 @@
+{"index": 207794, "D": "a person who abstains totally from intoxicating drink.", "S": [], "A": []}

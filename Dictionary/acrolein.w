@@ -1,0 +1,1 @@
+{"index": 2930, "D": "a yellow, flammable liquid, C3H4O, having a stifling odor, usually obtained by the decomposition of glycerol", "S": [], "A": []}

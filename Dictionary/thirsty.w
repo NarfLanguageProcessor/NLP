@@ -1,0 +1,1 @@
+{"index": 322183, "D": "feeling or having thirst;  craving liquid.", "S": ["anxious ", "dehydrated ", "eager ", "greedy ", "hungry ", "impatient ", "inclined ", "keen ", "parched "], "A": ["unconcerned ", "unenthusiastic "]}

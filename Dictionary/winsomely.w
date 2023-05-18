@@ -1,0 +1,1 @@
+{"index": 366236, "D": "sweetly or innocently charming; winning;  engaging", "S": ["charmingly ", "invitingly ", "politely "], "A": ["badly ", "incorrectly ", "mistakenly ", "unfortunately ", "unsuccessfully ", "wrongly "]}

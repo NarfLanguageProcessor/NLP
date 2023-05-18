@@ -1,0 +1,1 @@
+{"index": 363768, "D": "done, happening, appearing, etc., once a week,  or every week", "S": ["annual ", "intermittent ", "monthly ", "occasional ", "recurrent ", "recurring ", "regular ", "repeated ", "routine ", "seasonal ", "sporadic ", "yearly "], "A": ["constant ", "infrequent ", "unusual "]}

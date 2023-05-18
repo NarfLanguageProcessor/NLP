@@ -1,0 +1,1 @@
+{"index": 249526, "D": "to find the answer or explanation for; clear up; explain", "S": [], "A": []}

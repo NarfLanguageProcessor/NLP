@@ -1,0 +1,1 @@
+{"index": 246951, "D": "the fact or condition of being difficult.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 164043, "D": "the softer, usually edible part contained in the shell of a nut or the stone of a fruit.", "S": ["fruit ", "grain ", "meat ", "morsel ", "nut "], "A": ["exterior ", "exteriority ", "outside ", "periphery ", "surface ", "whole "]}

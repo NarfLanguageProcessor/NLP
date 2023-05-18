@@ -1,0 +1,1 @@
+{"index": 335246, "D": "making claims or pretensions to superior importance or rights; overbearingly assuming; insolently proud", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183459, "D": "a member of the Russian Social-Democratic Workers' Party in opposition to the Bolsheviks", "S": [], "A": []}

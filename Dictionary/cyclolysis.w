@@ -1,0 +1,1 @@
+{"index": 57167, "D": "the weakening or extinction of a cyclone,  usually in simultaneous occurrence with an increase in atmospheric pressure", "S": [], "A": []}

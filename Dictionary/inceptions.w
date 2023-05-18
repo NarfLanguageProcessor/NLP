@@ -1,0 +1,1 @@
+{"index": 149787, "D": "beginning; start; commencement.", "S": ["initiation ", "outset "], "A": ["conclusion ", "end ", "close ", "completion ", "consequence ", "death ", "effect ", "ending ", "finish ", "outgrowth ", "result ", "stop "]}

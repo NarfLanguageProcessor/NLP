@@ -1,0 +1,1 @@
+{"index": 18454, "D": "a member of a tribe of North American Indians of Algonquian speech stock, once dwelling in the Colorado plains and now in Oklahoma and Wyoming.", "S": [], "A": []}

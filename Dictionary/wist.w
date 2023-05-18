@@ -1,0 +1,1 @@
+{"index": 366505, "D": "simple past tense and past participle of wit2. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 236158, "D": "having patches of black and white or of other colors; parti-colored.", "S": [], "A": []}

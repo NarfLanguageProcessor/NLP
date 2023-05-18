@@ -1,0 +1,1 @@
+{"index": 310415, "D": "to convert into a sulfate,  as by the roasting of ores.", "S": [], "A": []}

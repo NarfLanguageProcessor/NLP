@@ -1,0 +1,1 @@
+{"index": 365964, "D": "accompanied or characterized by wind", "S": ["babble ", "boasting ", "bombast ", "claptrap ", "fustian ", "turgidity ", "twaddle "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259561, "D": "(of a cloud) having bands that appear to converge toward a point on the horizon.", "S": [], "A": []}

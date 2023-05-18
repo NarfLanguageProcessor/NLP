@@ -1,0 +1,1 @@
+{"index": 346016, "D": "metamorphosed limestone, consisting chiefly of recrystallized calcite or dolomite, capable of taking a high polish, occurring in a wide range of colors and variegations and used in sculpture and architecture.", "S": [], "A": []}

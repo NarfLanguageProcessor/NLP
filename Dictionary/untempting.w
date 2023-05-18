@@ -1,0 +1,1 @@
+{"index": 352791, "D": "that tempts;  enticing or inviting.", "S": [], "A": []}

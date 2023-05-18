@@ -1,0 +1,1 @@
+{"index": 159200, "D": "an imaginary line on the earth's surface connecting points of equal annual change in the declination, inclination, or other components of the earth's magnetic field.", "S": [], "A": []}

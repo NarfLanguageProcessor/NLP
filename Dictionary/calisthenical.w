@@ -1,0 +1,1 @@
+{"index": 45229, "D": "gymnastic exercises designed to develop physical health and vigor, usually performed with little or no special apparatus.", "S": [], "A": []}

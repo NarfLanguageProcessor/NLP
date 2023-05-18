@@ -1,0 +1,1 @@
+{"index": 23485, "D": "Australian an informal name for ABC 2 (def. 2)", "S": [], "A": []}

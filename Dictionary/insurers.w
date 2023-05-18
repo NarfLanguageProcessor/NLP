@@ -1,0 +1,1 @@
+{"index": 154120, "D": "a person or company that contracts to indemnify another in the event of loss or damage; underwriter.", "S": [], "A": []}

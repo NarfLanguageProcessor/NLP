@@ -1,0 +1,1 @@
+{"index": 68863, "D": "a sculptured ornament, especially on a capital, having the form of a basket.", "S": [], "A": []}

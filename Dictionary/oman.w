@@ -1,0 +1,1 @@
+{"index": 212363, "D": "Formerly Mus\u00b7cat and O\u00b7man  [muhs-kat]  /m\u028cs\u02c8k\u00e6t/ .", "S": ["harbinger ", "indication ", "portent ", "premonition "], "A": []}

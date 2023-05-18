@@ -1,0 +1,1 @@
+{"index": 219855, "D": "having or exerting influence,  especially great influence", "S": [], "A": []}

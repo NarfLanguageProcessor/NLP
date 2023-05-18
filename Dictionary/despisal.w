@@ -1,0 +1,1 @@
+{"index": 82829, "D": [], "S": ["abhorrence ", "animosity ", "contempt ", "disdain ", "disgust ", "dislike ", "distaste ", "hate ", "hatred ", "loathing ", "malevolence ", "scorn "], "A": ["admiration ", "approval ", "liking ", "love ", "loving ", "respect "]}

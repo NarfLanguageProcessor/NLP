@@ -1,0 +1,1 @@
+{"index": 234914, "D": "of or containing phosphorus,  especially in the pentavalent state.", "S": [], "A": []}

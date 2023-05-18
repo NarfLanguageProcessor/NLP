@@ -1,0 +1,1 @@
+{"index": 319006, "D": "a Proven\u00e7al poem taking the form of a dialogue or debate between two rival troubadours.", "S": [], "A": []}

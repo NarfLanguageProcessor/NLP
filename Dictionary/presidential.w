@@ -1,0 +1,1 @@
+{"index": 249455, "D": "of or relating to a president  or presidency. ", "S": ["administrative ", "dominant ", "guiding ", "ruling "], "A": ["inferior ", "subordinate "]}

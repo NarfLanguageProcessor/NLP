@@ -1,0 +1,1 @@
+{"index": 97333, "D": "the valency of a substance in forming ions, equal to the number of electrons gained or lost", "S": [], "A": []}

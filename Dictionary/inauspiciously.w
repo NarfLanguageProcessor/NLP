@@ -1,0 +1,1 @@
+{"index": 149571, "D": "not auspicious;  boding ill; ill-omened; unfavorable.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 248365, "D": "of or occurring before a menstrual period", "S": [], "A": []}

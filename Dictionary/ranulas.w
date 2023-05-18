@@ -1,0 +1,1 @@
+{"index": 260666, "D": "a cystic tumor formed beneath the tongue, caused by obstruction of the sublingual or submaxillary gland or of a mucous gland.", "S": [], "A": []}

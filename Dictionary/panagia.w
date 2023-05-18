@@ -1,0 +1,1 @@
+{"index": 224329, "D": "a ceremony in a monastery, commemorating the assumption of the Virgin Mary, in which a loaf of bread on a plate is elevated before being distributed to the monks.", "S": [], "A": []}

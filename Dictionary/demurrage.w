@@ -1,0 +1,1 @@
+{"index": 80948, "D": "the detention in port of a vessel by the shipowner, as in loading or unloading, beyond the time allowed or agreed upon.", "S": [], "A": []}

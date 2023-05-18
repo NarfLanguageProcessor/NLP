@@ -1,0 +1,1 @@
+{"index": 275827, "D": "to make Russian;  impart Russian  characteristics to.", "S": [], "A": []}

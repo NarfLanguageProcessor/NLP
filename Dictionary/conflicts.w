@@ -1,0 +1,1 @@
+{"index": 65997, "D": "to come into collision or disagreement; be contradictory, at variance, or in opposition; clash", "S": ["battle ", "clash ", "combat ", "competition ", "rivalry ", "strife ", "struggle ", "war "], "A": ["peace ", "truce ", "agreement ", "calm ", "harmony ", "surrender "]}

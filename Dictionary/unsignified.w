@@ -1,0 +1,1 @@
+{"index": 351134, "D": "the thing or concept denoted by a sign.", "S": [], "A": []}

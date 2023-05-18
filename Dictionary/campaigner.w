@@ -1,0 +1,1 @@
+{"index": 45786, "D": "the military operations of an army in the field for one season.", "S": ["backer ", "defender ", "lawyer ", "promoter ", "proponent ", "supporter "], "A": ["opponent "]}

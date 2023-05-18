@@ -1,0 +1,1 @@
+{"index": 256370, "D": "the soft, juicy, edible part of a fruit.", "S": [], "A": []}

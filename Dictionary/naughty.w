@@ -1,0 +1,1 @@
+{"index": 197385, "D": "disobedient; mischievous (used especially in speaking to or about children)", "S": ["headstrong ", "impish ", "mischievous ", "playful ", "rowdy ", "wicked "], "A": ["calm ", "good ", "moderate ", "nice ", "obedient "]}

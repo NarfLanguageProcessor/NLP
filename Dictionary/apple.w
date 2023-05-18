@@ -1,0 +1,1 @@
+{"index": 17775, "D": "the usually round, red or yellow, edible fruit of a small tree, Malus sylvestris, of the rose family.", "S": ["blue-green ", "olive "], "A": []}

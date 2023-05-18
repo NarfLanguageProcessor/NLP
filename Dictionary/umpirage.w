@@ -1,0 +1,1 @@
+{"index": 334279, "D": "the office or authority of an umpire. ", "S": [], "A": []}

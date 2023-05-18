@@ -1,0 +1,1 @@
+{"index": 39091, "D": "a flower or small bouquet worn, usually by a man, in the buttonhole of a lapel.", "S": ["garland ", "pot ", "vase ", "wreath "], "A": []}

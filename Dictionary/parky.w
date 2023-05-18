@@ -1,0 +1,1 @@
+{"index": 226563, "D": "(of the weather) chilly; cold", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 13151, "D": "to comment unfavorably or critically (usually followed by on or upon)", "S": [], "A": []}

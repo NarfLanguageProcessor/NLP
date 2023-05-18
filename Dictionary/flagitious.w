@@ -1,0 +1,1 @@
+{"index": 113761, "D": "shamefully wicked, as persons, actions, or times.", "S": ["atrocious ", "criminal ", "flagrant ", "heinous ", "infamous ", "rotten ", "scandalous ", "vicious ", "villainous ", "wicked "], "A": []}

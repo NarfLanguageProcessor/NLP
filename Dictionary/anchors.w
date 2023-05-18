@@ -1,0 +1,1 @@
+{"index": 12206, "D": "he rammed on the anchors", "S": ["mainstay "], "A": ["release "]}

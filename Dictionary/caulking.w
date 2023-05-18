@@ -1,0 +1,1 @@
+{"index": 49987, "D": "to fill or close seams or crevices of (a tank, window, etc.) in order to make watertight, airtight, etc.", "S": ["covering ", "cushioning ", "lining ", "padding "], "A": []}

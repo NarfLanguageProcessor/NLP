@@ -1,0 +1,1 @@
+{"index": 69539, "D": "of the nature of the physical body; bodily.", "S": ["material "], "A": ["cerebral ", "immaterial ", "intangible ", "mental ", "spiritual "]}

@@ -1,0 +1,1 @@
+{"index": 321504, "D": "a device that indicates a change in temperature, esp one that does not measure the actual temperature", "S": [], "A": []}

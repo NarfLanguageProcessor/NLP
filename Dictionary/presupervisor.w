@@ -1,0 +1,1 @@
+{"index": 249774, "D": "a person who supervises  workers or the work done by others; superintendent.", "S": [], "A": []}

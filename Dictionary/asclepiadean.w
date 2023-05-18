@@ -1,0 +1,1 @@
+{"index": 21002, "D": "noting or pertaining to a verse consisting of a spondee, two or three choriambi, and an iamb.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128487, "D": "lacking grace,  pleasing elegance, or charm.", "S": ["clumsily ", "stiffly "], "A": ["adroitly ", "gracefully ", "skillfully "]}

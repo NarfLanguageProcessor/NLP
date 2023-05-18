@@ -1,0 +1,1 @@
+{"index": 80028, "D": "a female given name, form of Cordelia. ", "S": [], "A": []}

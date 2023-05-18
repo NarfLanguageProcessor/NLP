@@ -1,0 +1,1 @@
+{"index": 77356, "D": "Canadian geologist and educator.", "S": [], "A": []}

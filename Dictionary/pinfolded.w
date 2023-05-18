@@ -1,0 +1,1 @@
+{"index": 237016, "D": "a pound for stray animals.", "S": [], "A": []}

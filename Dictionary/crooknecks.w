@@ -1,0 +1,1 @@
+{"index": 73698, "D": "any of several varieties of squash having a long, recurved neck. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 99929, "D": "to approve, support, or sustain", "S": ["advocate ", "ally ", "benefactor ", "follower ", "patron ", "promoter ", "sponsor "], "A": ["antagonist ", "enemy ", "opponent ", "opposition "]}

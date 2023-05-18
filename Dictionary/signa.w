@@ -1,0 +1,1 @@
+{"index": 290082, "D": "(used imperatively, in prescriptions) mark; write; label.", "S": [], "A": []}

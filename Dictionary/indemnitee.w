@@ -1,0 +1,1 @@
+{"index": 150766, "D": "a person or company that receives indemnity. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 161998, "D": "to show or feel great joy; rejoice; exult.", "S": ["bluster ", "brag ", "bully ", "crow ", "gloat ", "glory ", "revel ", "triumph ", "vaunt "], "A": ["be sad "]}

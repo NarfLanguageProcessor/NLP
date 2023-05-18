@@ -1,0 +1,1 @@
+{"index": 12170, "D": "a Trojan prince and father of Aeneas. In the Aeneid, he is rescued by his son at the fall of Troy and dies in Sicily", "S": [], "A": []}

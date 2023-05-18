@@ -1,0 +1,1 @@
+{"index": 67691, "D": "of or relating to counterpoint.", "S": [], "A": []}

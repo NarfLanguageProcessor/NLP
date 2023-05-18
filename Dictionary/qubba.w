@@ -1,0 +1,1 @@
+{"index": 258207, "D": "a small Moslem shrine.", "S": [], "A": []}

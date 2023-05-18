@@ -1,0 +1,1 @@
+{"index": 302983, "D": "the act or state of starving;  condition of being starved. ", "S": ["deprivation ", "famine ", "malnutrition "], "A": ["supply ", "plenty "]}

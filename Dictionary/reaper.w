@@ -1,0 +1,1 @@
+{"index": 261871, "D": "a machine for cutting standing grain; reaping machine. ", "S": ["binder ", "picker "], "A": []}

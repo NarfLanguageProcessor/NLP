@@ -1,0 +1,1 @@
+{"index": 44975, "D": "(in an ancient Roman bath) a room having a hot bath.", "S": [], "A": []}

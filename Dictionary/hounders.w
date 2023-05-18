@@ -1,0 +1,1 @@
+{"index": 144351, "D": "one of any of several breeds of dogs trained to pursue game either by sight or by scent, especially one with a long face and large drooping ears.", "S": [], "A": []}

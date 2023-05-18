@@ -1,0 +1,1 @@
+{"index": 67134, "D": "of one and the same substance, essence, or nature, especially the three divine persons of the Christian Trinity.", "S": [], "A": []}

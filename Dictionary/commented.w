@@ -1,0 +1,1 @@
+{"index": 63997, "D": "a remark, observation, or criticism", "S": ["assert ", "clarify ", "conclude ", "criticize ", "disclose ", "explain ", "expound ", "express ", "mention ", "note ", "notice ", "observe ", "point out ", "reflect ", "say "], "A": ["confuse ", "ignore ", "miss ", "neglect ", "overlook ", "hide ", "mystify ", "obscure "]}

@@ -1,0 +1,1 @@
+{"index": 114605, "D": "being in proper physical or mechanical condition for safe flight;  airworthy", "S": [], "A": []}

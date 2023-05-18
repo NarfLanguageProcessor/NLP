@@ -1,0 +1,1 @@
+{"index": 137161, "D": "the body of ideas set forth in Hermetic writings.", "S": [], "A": []}

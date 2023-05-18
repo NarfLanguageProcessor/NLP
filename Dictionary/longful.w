@@ -1,0 +1,1 @@
+{"index": 174920, "D": [], "S": ["acquisitive ", "ambitious ", "aspiring ", "craving ", "daydreaming ", "desiring ", "greedy ", "hankering ", "hopeful ", "itchy ", "keen ", "longing ", "lustful ", "wishing ", "yearning "], "A": []}

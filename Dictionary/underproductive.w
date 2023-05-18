@@ -1,0 +1,1 @@
+{"index": 339636, "D": "production  that is less than normal or than is required by the demand.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 239884, "D": "any marine reptile of the extinct genus Plesiosaurus, from the Jurassic and Cretaceous periods, having a small head, a long neck, four paddlelike limbs, and a short tail.", "S": [], "A": []}

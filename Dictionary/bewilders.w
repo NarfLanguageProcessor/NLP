@@ -1,0 +1,1 @@
+{"index": 32979, "D": "to confuse or puzzle completely; perplex", "S": ["baffle ", "befuddle ", "bemuse ", "confound ", "daze ", "disconcert ", "distract ", "fluster ", "mystify ", "perplex ", "puzzle ", "rattle ", "stump ", "stupefy ", "upset "], "A": ["calm ", "clarify ", "clear up ", "comfort ", "enlighten ", "explain ", "explicate ", "help ", "soothe "]}

@@ -1,0 +1,1 @@
+{"index": 28969, "D": "a record made by a bathythermograph.", "S": [], "A": []}

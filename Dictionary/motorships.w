@@ -1,0 +1,1 @@
+{"index": 194095, "D": "a ship driven by a diesel or other internal-combustion engine.", "S": [], "A": []}

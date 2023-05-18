@@ -1,0 +1,1 @@
+{"index": 343761, "D": "according to what is assumed as a premise in an argument", "S": [], "A": []}

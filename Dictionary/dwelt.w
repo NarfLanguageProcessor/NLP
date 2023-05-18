@@ -1,0 +1,1 @@
+{"index": 94648, "D": "a simple past tense and past participle of dwell. ", "S": ["bide ", "exist ", "hole up ", "inhabit ", "reside ", "squat "], "A": ["move ", "advance ", "carry on ", "complete ", "depart ", "finish ", "go ", "leave "]}

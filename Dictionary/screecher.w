@@ -1,0 +1,1 @@
+{"index": 281685, "D": "to utter or make a harsh, shrill cry or sound", "S": [], "A": []}

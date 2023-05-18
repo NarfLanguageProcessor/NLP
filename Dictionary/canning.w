@@ -1,0 +1,1 @@
+{"index": 46430, "D": "the act, process, or business of preserving cooked food by sealing in cans  or jars.", "S": ["bottling ", "conserving ", "keeping ", "storing ", "tinning "], "A": []}

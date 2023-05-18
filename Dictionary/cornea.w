@@ -1,0 +1,1 @@
+{"index": 69246, "D": "the transparent anterior part of the external coat of the eye covering the iris and the pupil and continuous with the sclera.", "S": [], "A": []}

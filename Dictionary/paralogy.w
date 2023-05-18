@@ -1,0 +1,1 @@
+{"index": 225773, "D": [], "S": ["ambiguity ", "casuistry ", "fallacy ", "inconsistency ", "paralogism ", "trickery "], "A": ["certainty "]}

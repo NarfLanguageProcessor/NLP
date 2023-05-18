@@ -1,0 +1,1 @@
+{"index": 246527, "D": "a large formal meeting or assembly, as of members, representatives, or delegates, for discussion of and action on particular matters of common concern", "S": [], "A": []}

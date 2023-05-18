@@ -1,0 +1,1 @@
+{"index": 335687, "D": "to darken or obscure with clouds. ", "S": [], "A": []}

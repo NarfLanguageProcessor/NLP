@@ -1,0 +1,1 @@
+{"index": 266276, "D": "an act or fact of infecting;  state of being infected. ", "S": [], "A": []}

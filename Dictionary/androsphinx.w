@@ -1,0 +1,1 @@
+{"index": 12452, "D": "a sphinx  with the head of a man.", "S": [], "A": []}

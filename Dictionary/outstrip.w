@@ -1,0 +1,1 @@
+{"index": 217648, "D": "to outdo; surpass; excel.", "S": ["exceed ", "outdo ", "overtake ", "transcend "], "A": ["fail ", "fall behind ", "lose ", "give up ", "surrender "]}

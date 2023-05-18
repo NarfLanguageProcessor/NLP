@@ -1,0 +1,1 @@
+{"index": 221130, "D": "absence of any sound or noise; stillness.", "S": [], "A": []}

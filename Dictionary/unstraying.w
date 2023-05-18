@@ -1,0 +1,1 @@
+{"index": 352122, "D": "to deviate from the direct course, leave the proper place, or go beyond the proper limits, especially without a fixed course or purpose", "S": [], "A": []}

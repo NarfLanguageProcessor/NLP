@@ -1,0 +1,1 @@
+{"index": 294928, "D": "he's got the smit", "S": ["afflict "], "A": ["aid ", "assist ", "boost ", "cheer ", "comfort ", "compliment ", "encourage ", "fail ", "help ", "inspirit ", "lose ", "praise ", "surrender ", "tap "]}

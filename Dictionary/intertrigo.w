@@ -1,0 +1,1 @@
+{"index": 156096, "D": "chafing between two moist closely opposed skin surfaces, as under the breasts or at the armpit", "S": [], "A": []}

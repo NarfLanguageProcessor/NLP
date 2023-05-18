@@ -1,0 +1,1 @@
+{"index": 317430, "D": "a building serving as a combination school and living quarters, as on certain government reservations and in remote, sparsely settled areas.", "S": [], "A": []}

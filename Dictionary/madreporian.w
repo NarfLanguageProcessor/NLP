@@ -1,0 +1,1 @@
+{"index": 177245, "D": "any true or stony coral of the order Madreporaria, forming reefs or islands in tropical seas.", "S": [], "A": []}

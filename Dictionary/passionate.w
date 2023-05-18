@@ -1,0 +1,1 @@
+{"index": 227336, "D": "having, compelled by, or ruled by intense emotion or strong feeling; fervid", "S": ["ardent ", "loving ", "romantic ", "wistful "], "A": ["apathetic ", "cold ", "cool ", "dull ", "frigid ", "happy ", "indifferent ", "uncaring ", "unenthusiastic ", "unexcited "]}

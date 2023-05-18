@@ -1,0 +1,1 @@
+{"index": 68975, "D": "a person who makes shoes from cordovan leather.", "S": [], "A": []}

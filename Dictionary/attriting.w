@@ -1,0 +1,1 @@
+{"index": 23181, "D": "worn by rubbing or attrition.", "S": [], "A": []}

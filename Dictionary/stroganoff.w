@@ -1,0 +1,1 @@
+{"index": 306446, "D": "a dish of meat saut\u00e9ed with onion and cooked in a sauce of sour cream, seasonings, and, usually, mushrooms", "S": ["goulash ", "hash ", "pottage ", "stew "], "A": []}

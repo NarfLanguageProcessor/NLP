@@ -1,0 +1,1 @@
+{"index": 91720, "D": "a member of a tribal people living in the uplands of Kenya and Tanzania.", "S": [], "A": []}

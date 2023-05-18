@@ -1,0 +1,1 @@
+{"index": 264528, "D": "any of the three extant tree species of the coniferous subfamily Sequoioideae, specifically the giant sequoia, coast redwood,  and dawn redwood. ", "S": [], "A": []}

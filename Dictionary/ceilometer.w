@@ -1,0 +1,1 @@
+{"index": 50416, "D": "an automatic device for measuring and recording the height of clouds by projecting a modulated beam of light onto a cloud base, receiving the reflection of light through a photoelectric apparatus, and computing the height by triangulation.", "S": [], "A": []}

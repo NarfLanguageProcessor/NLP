@@ -1,0 +1,1 @@
+{"index": 220521, "D": "having an appearance of truth or reason; seemingly worthy of approval or acceptance; credible; believable", "S": [], "A": []}

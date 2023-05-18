@@ -1,0 +1,1 @@
+{"index": 60254, "D": "a loose outer garment, as a cape or coat.", "S": ["camouflage ", "mantle ", "mask ", "shawl ", "veneer "], "A": ["reality ", "truth "]}

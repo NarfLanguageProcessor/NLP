@@ -1,0 +1,1 @@
+{"index": 190921, "D": "a deep, wide trench, usually filled with water, surrounding the rampart of a fortified place, as a town or a castle.", "S": ["gully ", "trench "], "A": []}

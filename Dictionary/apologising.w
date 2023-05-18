@@ -1,0 +1,1 @@
+{"index": 17271, "D": "to offer an apology  or excuse for some fault, insult, failure, or injury", "S": [], "A": []}

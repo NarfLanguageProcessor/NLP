@@ -1,0 +1,1 @@
+{"index": 170143, "D": "the state or quality of being legitimate. ", "S": ["authority ", "justice ", "validity "], "A": []}

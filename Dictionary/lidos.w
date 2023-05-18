@@ -1,0 +1,1 @@
+{"index": 171799, "D": "a fashionable beach resort.", "S": [], "A": []}

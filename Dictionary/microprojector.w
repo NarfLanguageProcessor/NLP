@@ -1,0 +1,1 @@
+{"index": 186430, "D": "a microscope equipped with a prism or mirror to project a greatly magnified image of a microscopic slide onto a distant screen.", "S": [], "A": []}

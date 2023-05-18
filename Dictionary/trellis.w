@@ -1,0 +1,1 @@
+{"index": 328838, "D": "a frame or structure of latticework; lattice.", "S": ["arbor ", "lattice "], "A": []}

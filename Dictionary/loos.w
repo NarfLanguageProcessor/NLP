@@ -1,0 +1,1 @@
+{"index": 175114, "D": "Austrian architect and writer.", "S": ["bathroom ", "comfort station ", "girls' room ", "ladies' ", "ladies' room ", "latrine ", "lavatory ", "rest room ", "restroom ", "toilet ", "washroom "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 329783, "D": "a two-wheeled chariot drawn by a team of three horses.", "S": [], "A": []}

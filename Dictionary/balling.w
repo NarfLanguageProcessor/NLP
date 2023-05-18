@@ -1,0 +1,1 @@
+{"index": 26977, "D": " living a lavish, flashy, or extravagant lifestyle, especially spending freely while partying", "S": [], "A": []}

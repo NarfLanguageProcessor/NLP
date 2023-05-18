@@ -1,0 +1,1 @@
+{"index": 283323, "D": "the natural activity or group of phenomena associated with earthquakes.", "S": ["shock ", "temblor ", "upheaval "], "A": ["perfection "]}

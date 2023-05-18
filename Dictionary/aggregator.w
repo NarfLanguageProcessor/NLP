@@ -1,0 +1,1 @@
+{"index": 6130, "D": "a person or thing that aggregates. ", "S": [], "A": []}

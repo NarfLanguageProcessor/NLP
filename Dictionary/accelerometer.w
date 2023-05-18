@@ -1,0 +1,1 @@
+{"index": 1443, "D": "an instrument for measuring acceleration,  as of aircraft or guided missiles.", "S": [], "A": []}

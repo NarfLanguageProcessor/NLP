@@ -1,0 +1,1 @@
+{"index": 168992, "D": "an Italic language spoken in ancient Rome and used as the official language of the Roman Empire. Abbreviation", "S": ["Catalan ", "Continental ", "French ", "Indo-European language ", "Italian ", "Italic language ", "Latin ", "Portuguese ", "Provencal ", "Spanish ", "insular "], "A": []}

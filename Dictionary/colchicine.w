@@ -1,0 +1,1 @@
+{"index": 62653, "D": "a pale yellow, crystalline alkaloid, C22H25NO6, the active principle of colchicum. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303034, "D": "the status or condition of being a state,  especially a state  of the U.S.", "S": [], "A": []}

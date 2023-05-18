@@ -1,0 +1,1 @@
+{"index": 156981, "D": "to put into an urn,  especially ashes after cremation.", "S": ["deposit ", "entomb ", "plant "], "A": ["dig out ", "disinter ", "exhume ", "resurrect "]}

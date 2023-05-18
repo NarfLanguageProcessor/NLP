@@ -1,0 +1,1 @@
+{"index": 168850, "D": "Compare handedness. ", "S": [], "A": []}

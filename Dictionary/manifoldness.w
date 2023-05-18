@@ -1,0 +1,1 @@
+{"index": 179297, "D": "of many kinds; numerous and varied", "S": ["amount ", "collection ", "company ", "estimate ", "lot ", "many ", "product ", "quantity ", "sum ", "total ", "volume "], "A": ["part ", "lack "]}

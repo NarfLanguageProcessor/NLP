@@ -1,0 +1,1 @@
+{"index": 109524, "D": "having a false or treacherous heart; deceitful; perfidious.", "S": ["dishonesty ", "disloyalty ", "falseness ", "falsity ", "perfidiousness ", "perfidy ", "traitorousness ", "treacherousness ", "treachery ", "underhandedness ", "unfaithfulness "], "A": []}

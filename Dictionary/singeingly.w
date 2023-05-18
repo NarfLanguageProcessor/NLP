@@ -1,0 +1,1 @@
+{"index": 291677, "D": "to burn superficially or slightly; scorch. ", "S": [], "A": []}

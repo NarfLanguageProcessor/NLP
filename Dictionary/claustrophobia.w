@@ -1,0 +1,1 @@
+{"index": 59504, "D": "an irrational or disproportionate fear of being in small or confined places and being unable to escape.", "S": ["climbing the walls ", "distress ", "neurosis ", "restlessness ", "sad ", "seasonal affective disorder ", "temporary insanity ", "winter blues "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 126412, "D": "a skillful glide over snow or ice in descending a mountain, as on skis or a toboggan.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 236621, "D": "a person who journeys, especially a long distance, to some sacred place as an act of religious devotion", "S": ["settler ", "traveler "], "A": []}

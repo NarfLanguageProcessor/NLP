@@ -1,0 +1,1 @@
+{"index": 121941, "D": "a highly refractory, siliceous rock used to line furnaces.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 10926, "D": "a member of one of the principal tribes, or nations, of Canaan before its conquest by the Israelites. 2 Samuel 12", "S": [], "A": []}

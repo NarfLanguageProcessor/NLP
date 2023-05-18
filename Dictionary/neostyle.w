@@ -1,0 +1,1 @@
+{"index": 198471, "D": "a manifolding device similar to the cyclostyle.", "S": [], "A": []}

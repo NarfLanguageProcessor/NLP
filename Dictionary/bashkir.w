@@ -1,0 +1,1 @@
+{"index": 28552, "D": "a member of a people living in the Bashkir Autonomous Republic and adjacent areas.", "S": [], "A": []}

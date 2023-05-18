@@ -1,0 +1,1 @@
+{"index": 192756, "D": "in a monotone; without varying the pitch or expression of one\u2019s voice", "S": [], "A": []}

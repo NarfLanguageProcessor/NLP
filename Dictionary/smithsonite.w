@@ -1,0 +1,1 @@
+{"index": 294958, "D": "a native carbonate of zinc, ZnCO3, that is an important ore of the metal.", "S": [], "A": []}

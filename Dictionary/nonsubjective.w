@@ -1,0 +1,1 @@
+{"index": 207576, "D": "existing in the mind; belonging to the thinking subject rather than to the object of thought (opposed to objective).", "S": [], "A": []}

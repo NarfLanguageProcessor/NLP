@@ -1,0 +1,1 @@
+{"index": 35362, "D": "occurring every two weeks.", "S": ["booklet ", "brochure ", "daily ", "journal ", "manual ", "newsletter ", "newspaper ", "pamphlet ", "paper ", "periodical ", "weekly "], "A": []}

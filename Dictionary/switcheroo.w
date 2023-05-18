@@ -1,0 +1,1 @@
+{"index": 314574, "D": "an unexpected or sudden change or reversal in attitude, character, position, action, etc.", "S": [], "A": []}

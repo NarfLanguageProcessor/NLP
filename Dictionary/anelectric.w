@@ -1,0 +1,1 @@
+{"index": 12486, "D": "not capable of acquiring a static electric charge  when subjected to friction.", "S": [], "A": []}

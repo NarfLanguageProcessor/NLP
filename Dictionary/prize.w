@@ -1,0 +1,1 @@
+{"index": 250878, "D": "a reward for victory or superiority, as in a contest or competition.", "S": ["outstanding ", "topnotch "], "A": ["lower ", "poor ", "worst "]}

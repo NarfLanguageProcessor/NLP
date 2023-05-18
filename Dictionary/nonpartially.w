@@ -1,0 +1,1 @@
+{"index": 205769, "D": "to some degree or in some way or aspect, but not fully or totally; incompletely", "S": [], "A": []}

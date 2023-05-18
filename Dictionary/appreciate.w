@@ -1,0 +1,1 @@
+{"index": 17904, "D": "to be grateful or thankful for", "S": ["acknowledge ", "enjoy ", "welcome "], "A": ["criticize ", "decrease ", "depreciate ", "disparage ", "disregard ", "lose value ", "neglect ", "overlook "]}

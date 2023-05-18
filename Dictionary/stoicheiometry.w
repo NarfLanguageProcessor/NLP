@@ -1,0 +1,1 @@
+{"index": 305017, "D": "the calculation of the quantities of chemical elements or compounds involved in chemical reactions.", "S": [], "A": []}

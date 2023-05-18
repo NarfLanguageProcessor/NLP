@@ -1,0 +1,1 @@
+{"index": 225195, "D": "having an irregular corolla shaped somewhat like a butterfly, as the pea and other leguminous plants.", "S": [], "A": []}

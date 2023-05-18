@@ -1,0 +1,1 @@
+{"index": 329585, "D": "noting or pertaining to a system of crystallization in which the three axes are unequal and intersect at oblique angles.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 216488, "D": "characteristic of or suitable to the outdoors", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 190872, "D": "assisting or intended to assist the memory.", "S": ["evocative ", "redolent ", "similar "], "A": ["forgetful ", "oblivious "]}

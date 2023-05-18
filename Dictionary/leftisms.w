@@ -1,0 +1,1 @@
+{"index": 169990, "D": "a member of the political Left or a person sympathetic to its views.", "S": ["left-winger ", "leftist ", "liberal ", "progressive ", "radical "], "A": ["conservative ", "right wing "]}

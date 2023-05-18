@@ -1,0 +1,1 @@
+{"index": 173753, "D": "a polyp with a hard or stony structure, as a coral.", "S": [], "A": []}

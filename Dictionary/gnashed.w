@@ -1,0 +1,1 @@
+{"index": 127028, "D": "to grind or strike (the teeth) together, especially in rage or pain.", "S": ["clamp ", "crush ", "grate ", "grit ", "rub "], "A": []}

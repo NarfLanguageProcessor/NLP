@@ -1,0 +1,1 @@
+{"index": 53826, "D": "divided into several rows of squares of two alternating tinctures", "S": [], "A": []}

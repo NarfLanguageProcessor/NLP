@@ -1,0 +1,1 @@
+{"index": 203003, "D": "tending or seeking to detract. ", "S": [], "A": []}

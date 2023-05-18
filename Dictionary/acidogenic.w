@@ -1,0 +1,1 @@
+{"index": 2443, "D": "producing acid,  as bacteria, or causing acidity, as of the urine.", "S": [], "A": []}

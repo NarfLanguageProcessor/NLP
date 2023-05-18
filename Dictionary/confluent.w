@@ -1,0 +1,1 @@
+{"index": 66002, "D": "flowing or running together; blending into one", "S": ["flowing ", "joining ", "mingling "], "A": []}

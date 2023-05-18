@@ -1,0 +1,1 @@
+{"index": 170667, "D": "an unbranded or motherless calf; maverick.", "S": [], "A": []}

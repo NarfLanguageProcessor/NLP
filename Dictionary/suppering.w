@@ -1,0 +1,1 @@
+{"index": 312940, "D": [], "S": ["consume ", "eat out ", "feast ", "lunch "], "A": ["fast "]}

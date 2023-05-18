@@ -1,0 +1,1 @@
+{"index": 356233, "D": "the syllable once generally used for the first tone or keynote of a scale and sometimes for the tone C", "S": [], "A": []}

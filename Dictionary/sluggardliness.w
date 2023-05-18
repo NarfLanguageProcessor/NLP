@@ -1,0 +1,1 @@
+{"index": 294526, "D": "like or befitting a sluggard;  slothful; lazy.", "S": [], "A": []}

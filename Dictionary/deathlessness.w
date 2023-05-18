@@ -1,0 +1,1 @@
+{"index": 77654, "D": "not subject to death;  immortal", "S": ["athanasia ", "athanasy ", "eternity ", "everlasting life ", "everlastingness "], "A": []}

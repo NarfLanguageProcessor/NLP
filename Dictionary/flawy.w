@@ -1,0 +1,1 @@
+{"index": 114249, "D": "a feature that mars the perfection of something; defect; fault", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 136135, "D": "a former name for hypocrystalline Compare holocrystalline", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 327745, "D": "the ratio of a small change in anode current of an electron tube at a certain level of output to the corresponding small change of control-electrode voltage, usually expressed in mhos or micromhos.", "S": [], "A": []}

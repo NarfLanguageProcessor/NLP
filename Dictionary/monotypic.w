@@ -1,0 +1,1 @@
+{"index": 192742, "D": "having only one type.", "S": [], "A": []}

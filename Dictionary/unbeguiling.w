@@ -1,0 +1,1 @@
+{"index": 335732, "D": "to influence by trickery, flattery, etc.; mislead; delude.", "S": [], "A": []}

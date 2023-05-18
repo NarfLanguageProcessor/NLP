@@ -1,0 +1,1 @@
+{"index": 336701, "D": "offering a challenge;  testing one's ability, endurance, etc", "S": [], "A": []}

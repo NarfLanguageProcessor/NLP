@@ -1,0 +1,1 @@
+{"index": 316282, "D": "a Tanoan language spoken in two villages in New Mexico.", "S": [], "A": []}

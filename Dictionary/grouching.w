@@ -1,0 +1,1 @@
+{"index": 130291, "D": "to be sulky or morose; show discontent; complain, especially in an irritable way.", "S": ["bear ", "bellyacher ", "bug ", "crab ", "crank ", "crosspatch ", "curmudgeon ", "faultfinder ", "growler ", "grumbler ", "grump ", "kicker ", "malcontent ", "moaner ", "sorehead ", "sourpuss ", "whiner "], "A": []}

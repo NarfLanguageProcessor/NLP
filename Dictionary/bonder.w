@@ -1,0 +1,1 @@
+{"index": 37802, "D": "something that binds, fastens, confines, or holds together.", "S": ["abject ", "bond ", "dependent ", "groveling ", "hard ", "imitative ", "menial ", "obsequious ", "oppressive ", "submissive ", "subservient ", "uninspired ", "unoriginal "], "A": ["assertive ", "independent "]}

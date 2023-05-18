@@ -1,0 +1,1 @@
+{"index": 13749, "D": "the state or quality of being anomalous.", "S": ["anomaly ", "deformity ", "flaw ", "irregularity "], "A": ["regularity ", "conformity ", "normality ", "sameness ", "standard ", "uniformity ", "usualness "]}

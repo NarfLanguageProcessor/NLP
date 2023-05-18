@@ -1,0 +1,1 @@
+{"index": 311263, "D": "to abound beyond something else.", "S": ["command ", "control ", "dictate ", "influence ", "lead ", "manage ", "monopolize ", "overshadow ", "prevail ", "run "], "A": ["follow ", "lose ", "obey ", "mismanage ", "neglect ", "submit "]}

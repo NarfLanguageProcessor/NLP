@@ -1,0 +1,1 @@
+{"index": 98871, "D": "an obsolete variant of impoverish. ", "S": [], "A": []}

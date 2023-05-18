@@ -1,0 +1,1 @@
+{"index": 151873, "D": "communicable by infection,  as from one person to another or from one part of the body to another", "S": [], "A": []}

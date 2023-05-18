@@ -1,0 +1,1 @@
+{"index": 70968, "D": "an answering plea,  as a plaintiff's response to a defendant's plea. ", "S": [], "A": []}

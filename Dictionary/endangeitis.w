@@ -1,0 +1,1 @@
+{"index": 99580, "D": "an inflammation of the innermost lining of a blood vessel.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 3039, "D": "a series of lines or verses in which the first, last, or other particular letters when taken in order spell out a word, phrase, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 169169, "D": "a self-service laundry having coin-operated washers, driers, etc.", "S": [], "A": []}

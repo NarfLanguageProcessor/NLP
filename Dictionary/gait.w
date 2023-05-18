@@ -1,0 +1,1 @@
+{"index": 121061, "D": "a manner of walking, stepping, or running.", "S": ["bearing "], "A": []}

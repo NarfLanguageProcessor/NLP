@@ -1,0 +1,1 @@
+{"index": 90819, "D": "a square of cloth worn mainly by African women to cover the head, esp to indicate married status", "S": [], "A": []}

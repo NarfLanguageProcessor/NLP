@@ -1,0 +1,1 @@
+{"index": 39769, "D": "a method for systematically changing attitudes or altering beliefs, originated in totalitarian countries, especially through the use of torture, drugs, or psychological-stress techniques.", "S": ["conditioning ", "influencing ", "persuasion "], "A": []}

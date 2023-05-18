@@ -1,0 +1,1 @@
+{"index": 305707, "D": "undesired capacitance in equipment, occurring between the wiring, between the wiring and the chassis, or between components and the chassis", "S": ["herd ", "oxen "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 11998, "D": "a Basket Maker-Pueblo culture of the plateau region of northern Arizona and New Mexico and of southern Utah and Colorado, dating probably from a.d. 100 to 1300.", "S": [], "A": []}

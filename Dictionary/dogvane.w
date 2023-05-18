@@ -1,0 +1,1 @@
+{"index": 91005, "D": "a small vane  that shows the direction of the wind, mounted in a position visible to a helmsperson.", "S": [], "A": []}

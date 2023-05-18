@@ -1,0 +1,1 @@
+{"index": 353155, "D": "not touched  or handled, as material.", "S": [], "A": []}

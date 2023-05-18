@@ -1,0 +1,1 @@
+{"index": 319253, "D": "a mixture of terpenes that occurs as a colorless liquid, used in medicine chiefly as an expectorant.", "S": [], "A": []}

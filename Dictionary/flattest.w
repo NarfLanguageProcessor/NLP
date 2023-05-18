@@ -1,0 +1,1 @@
+{"index": 114125, "D": "horizontally level", "S": [], "A": []}

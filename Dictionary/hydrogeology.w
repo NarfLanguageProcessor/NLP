@@ -1,0 +1,1 @@
+{"index": 138685, "D": "the science dealing with the occurrence and distribution of underground water.", "S": [], "A": []}

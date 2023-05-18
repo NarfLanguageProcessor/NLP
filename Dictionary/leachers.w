@@ -1,0 +1,1 @@
+{"index": 169500, "D": "to dissolve out soluble constituents from (ashes, soil, etc.) by percolation.", "S": [], "A": []}

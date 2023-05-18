@@ -1,0 +1,1 @@
+{"index": 43018, "D": "a style of language, used especially by bureaucrats,  that is full of circumlocutions, euphemisms, buzzwords, abstractions, etc.", "S": [], "A": []}

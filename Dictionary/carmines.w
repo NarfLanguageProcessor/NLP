@@ -1,0 +1,1 @@
+{"index": 48175, "D": "a crimson or purplish-red color.", "S": ["cherry ", "color ", "crimson ", "scarlet "], "A": []}

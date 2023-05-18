@@ -1,0 +1,1 @@
+{"index": 156735, "D": "to arouse the curiosity or interest of by unusual, new, or otherwise fascinating or compelling qualities; appeal strongly to; captivate", "S": ["chicanery ", "complication ", "conspiracy ", "fraud ", "machination ", "plot "], "A": ["honesty ", "truthfulness "]}

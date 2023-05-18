@@ -1,0 +1,1 @@
+{"index": 182990, "D": "a female given name.", "S": ["chant ", "inflection ", "lyric ", "music ", "refrain ", "theme "], "A": ["disagreement ", "discord "]}

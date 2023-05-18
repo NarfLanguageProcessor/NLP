@@ -1,0 +1,1 @@
+{"index": 199268, "D": "the degree to which a substance is poisonous to nerve tissue.", "S": [], "A": []}

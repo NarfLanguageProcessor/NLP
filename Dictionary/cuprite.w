@@ -1,0 +1,1 @@
+{"index": 75127, "D": "a mineral, cuprous oxide, Cu2O, occurring in red crystals and brown to black granular masses", "S": [], "A": []}

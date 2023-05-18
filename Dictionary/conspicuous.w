@@ -1,0 +1,1 @@
+{"index": 66970, "D": "easily seen or noticed; readily visible or observable", "S": ["apparent ", "discernible ", "distinct ", "evident ", "noticeable ", "visible "], "A": ["hidden ", "indistinct ", "invisible ", "obscure ", "obscured ", "uncertain ", "unclear ", "unnoticeable ", "vague "]}

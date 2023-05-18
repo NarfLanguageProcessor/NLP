@@ -1,0 +1,1 @@
+{"index": 111051, "D": [], "S": ["bedevil ", "beleaguer ", "besiege ", "embarrass ", "invade ", "overrun ", "perplex ", "surround "], "A": ["clarify ", "clear up ", "explain ", "leave alone ", "please ", "surrender ", "aid ", "assist ", "exclude ", "free ", "help ", "let go ", "lose ", "release ", "support ", "unloose "]}

@@ -1,0 +1,1 @@
+{"index": 179649, "D": "the making of goods or wares by manual labor or by machinery, especially on a large scale", "S": [], "A": []}

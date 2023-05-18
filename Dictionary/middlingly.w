@@ -1,0 +1,1 @@
+{"index": 186718, "D": "medium, moderate, or average in size, quantity, or quality", "S": [], "A": []}

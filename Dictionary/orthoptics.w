@@ -1,0 +1,1 @@
+{"index": 215139, "D": "a method of exercising the eye and its muscles in order to cure strabismus or improve vision.", "S": [], "A": []}

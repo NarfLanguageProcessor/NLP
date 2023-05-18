@@ -1,0 +1,1 @@
+{"index": 53463, "D": "a person who leads spectators in cheering,  usually a member of a team that performs dance, acrobatic, and tumbling routines at sporting events or in competitions with other teams. ", "S": ["champion ", "defender ", "exponent ", "promoter ", "supporter "], "A": ["antagonist ", "enemy "]}

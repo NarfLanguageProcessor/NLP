@@ -1,0 +1,1 @@
+{"index": 284103, "D": "pertaining to, consisting of, or accomplished in half a day.", "S": [], "A": []}

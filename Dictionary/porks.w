@@ -1,0 +1,1 @@
+{"index": 243456, "D": "the flesh of hogs used as food.", "S": ["pancetta "], "A": []}

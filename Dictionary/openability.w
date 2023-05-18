@@ -1,0 +1,1 @@
+{"index": 213220, "D": "capable of being opened. ", "S": [], "A": []}

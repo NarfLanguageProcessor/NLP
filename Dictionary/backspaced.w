@@ -1,0 +1,1 @@
+{"index": 25920, "D": "to shift the carriage or typing element of a typewriter one space  backward by depressing a special key.", "S": [], "A": []}

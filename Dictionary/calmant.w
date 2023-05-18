@@ -1,0 +1,1 @@
+{"index": 45370, "D": [], "S": ["downer ", "intoxicant ", "relaxant ", "tranquilizer "], "A": []}

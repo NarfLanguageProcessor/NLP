@@ -1,0 +1,1 @@
+{"index": 305547, "D": "coarse roughage used as feed for livestock.", "S": [], "A": []}

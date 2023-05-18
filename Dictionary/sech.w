@@ -1,0 +1,1 @@
+{"index": 282729, "D": "hyperbolic secant.", "S": [], "A": []}

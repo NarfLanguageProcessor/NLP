@@ -1,0 +1,1 @@
+{"index": 140427, "D": "a subspace of a vector space that has dimension one less than the dimension of the vector space.", "S": [], "A": []}

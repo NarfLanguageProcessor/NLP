@@ -1,0 +1,1 @@
+{"index": 255437, "D": "the science or study of mental disorders.", "S": [], "A": []}

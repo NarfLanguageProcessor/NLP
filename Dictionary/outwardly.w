@@ -1,0 +1,1 @@
+{"index": 217864, "D": "as regards appearance or outward  manifestation", "S": ["seemingly ", "superficially "], "A": ["inside ", "internally ", "inwardly ", "privately "]}

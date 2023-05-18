@@ -1,0 +1,1 @@
+{"index": 136042, "D": "one of the forewings of a true bug, having a hard, thick basal portion and a thinner, membranous apex.", "S": [], "A": []}

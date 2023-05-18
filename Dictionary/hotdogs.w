@@ -1,0 +1,1 @@
+{"index": 144263, "D": "a frankfurter.", "S": ["celebrity ", "dignitary ", "luminary "], "A": ["commoner ", "nobody "]}

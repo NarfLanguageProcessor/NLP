@@ -1,0 +1,1 @@
+{"index": 312301, "D": "in excess of the normal  or average", "S": [], "A": []}

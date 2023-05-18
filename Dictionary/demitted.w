@@ -1,0 +1,1 @@
+{"index": 80673, "D": "to resign (a job, public office, etc.); relinquish.", "S": ["abandon ", "abdicate ", "cede ", "hand over ", "quit ", "quitclaim ", "renounce ", "resign ", "surrender ", "terminate ", "yield "], "A": []}

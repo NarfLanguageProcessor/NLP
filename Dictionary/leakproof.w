@@ -1,0 +1,1 @@
+{"index": 169614, "D": "designed to prevent leaking", "S": ["impervious ", "waterproof "], "A": []}

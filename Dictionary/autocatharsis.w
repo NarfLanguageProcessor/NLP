@@ -1,0 +1,1 @@
+{"index": 23918, "D": "a therapeutic process designed to free unconscious disturbances by having the patient write about their experiences, impressions, etc.", "S": [], "A": []}

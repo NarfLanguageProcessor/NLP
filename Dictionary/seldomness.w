@@ -1,0 +1,1 @@
+{"index": 283428, "D": "on only a few occasions; rarely; infrequently; not often", "S": [], "A": []}

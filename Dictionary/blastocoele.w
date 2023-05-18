@@ -1,0 +1,1 @@
+{"index": 35809, "D": "the cavity of a blastula, arising in the course of cleavage.", "S": [], "A": []}

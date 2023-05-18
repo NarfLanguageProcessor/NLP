@@ -1,0 +1,1 @@
+{"index": 287577, "D": "a member of a Mongol people inhabiting Outer Mongolia.", "S": [], "A": []}

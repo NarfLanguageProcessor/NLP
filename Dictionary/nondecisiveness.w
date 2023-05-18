@@ -1,0 +1,1 @@
+{"index": 202727, "D": "the quality of determining an outcome or of settling or resolving a question", "S": [], "A": []}

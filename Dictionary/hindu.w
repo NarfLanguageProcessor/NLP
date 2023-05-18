@@ -1,0 +1,1 @@
+{"index": 139689, "D": "a person, especially of northern India, who adheres to Hinduism. ", "S": [], "A": []}

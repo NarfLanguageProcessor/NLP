@@ -1,0 +1,1 @@
+{"index": 43039, "D": "a graduated glass tube, commonly having a stopcock at the bottom, used for accurately measuring or measuring out small quantities of liquid.", "S": [], "A": []}

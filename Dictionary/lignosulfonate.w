@@ -1,0 +1,1 @@
+{"index": 172125, "D": "a brown powder consisting of a sulfonate salt made from waste liquor of the sulfate pulping process of soft wood", "S": [], "A": []}

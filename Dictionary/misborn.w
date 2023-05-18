@@ -1,0 +1,1 @@
+{"index": 188821, "D": [], "S": ["counterfeit ", "fake ", "imperfect ", "inferior ", "irregular ", "mongrel ", "natural ", "phony ", "sham "], "A": ["genuine ", "real ", "true "]}

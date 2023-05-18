@@ -1,0 +1,1 @@
+{"index": 26207, "D": "light, playful banter or raillery.", "S": [], "A": []}

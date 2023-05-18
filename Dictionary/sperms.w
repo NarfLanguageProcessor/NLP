@@ -1,0 +1,1 @@
+{"index": 299312, "D": "semen. ", "S": ["berry ", "corn ", "egg ", "grain ", "nut "], "A": ["being ", "concrete ", "death ", "exterior ", "exteriority ", "outside "]}

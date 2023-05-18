@@ -1,0 +1,1 @@
+{"index": 182162, "D": "(of a cumulus cloud) of medium height and often lacking a distinctive summit.", "S": [], "A": []}

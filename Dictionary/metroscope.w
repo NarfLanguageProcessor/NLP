@@ -1,0 +1,1 @@
+{"index": 185509, "D": "an instrument for examining the cavity of the uterus.", "S": [], "A": []}

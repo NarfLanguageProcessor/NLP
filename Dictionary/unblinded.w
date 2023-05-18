@@ -1,0 +1,1 @@
+{"index": 335965, "D": "not physically blinded. ", "S": [], "A": []}

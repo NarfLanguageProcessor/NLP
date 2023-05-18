@@ -1,0 +1,1 @@
+{"index": 280988, "D": "the normal development of much sclerenchyma in the leaves of certain plants, as some desert plants, resulting in thickened, hardened foliage that resists loss of moisture.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 84741, "D": "RC Church another word for congregation (def. 5b)", "S": [], "A": []}

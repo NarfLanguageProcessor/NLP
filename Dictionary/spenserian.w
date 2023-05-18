@@ -1,0 +1,1 @@
+{"index": 299162, "D": "of or characteristic of Spenser  or his work.", "S": [], "A": []}

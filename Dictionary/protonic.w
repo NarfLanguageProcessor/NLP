@@ -1,0 +1,1 @@
+{"index": 253760, "D": "(of a solvent, such as water) able to donate hydrogen ions to solute molecules", "S": [], "A": []}

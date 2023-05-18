@@ -1,0 +1,1 @@
+{"index": 313418, "D": "of or relating to a surface,  especially the land surface", "S": [], "A": []}

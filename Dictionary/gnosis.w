@@ -1,0 +1,1 @@
+{"index": 127141, "D": "knowledge of spiritual matters; mystical knowledge.", "S": [], "A": []}

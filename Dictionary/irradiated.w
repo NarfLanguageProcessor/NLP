@@ -1,0 +1,1 @@
+{"index": 158133, "D": "to shed rays of light upon; illuminate.", "S": ["blazing ", "brilliant ", "dazzling ", "flashing ", "glistening ", "glittering ", "golden ", "intense ", "luminous ", "radiant ", "shimmering ", "shiny ", "silvery ", "sparkling ", "sunny ", "vivid "], "A": ["cloudy ", "dark ", "dim ", "dull ", "gloomy "]}

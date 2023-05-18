@@ -1,0 +1,1 @@
+{"index": 155327, "D": "being, situated, or acting between two points, stages, things, persons, etc.", "S": [], "A": []}

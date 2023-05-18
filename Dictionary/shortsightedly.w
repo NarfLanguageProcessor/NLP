@@ -1,0 +1,1 @@
+{"index": 288948, "D": "unable to see far; nearsighted; myopic.", "S": ["mistakenly ", "stupidly ", "unwisely "], "A": ["carefully ", "cautiously ", "sensibly ", "thoughtfully ", "wisely "]}

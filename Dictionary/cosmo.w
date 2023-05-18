@@ -1,0 +1,1 @@
+{"index": 70029, "D": "a combining form meaning \u201cworld,\u201d \u201cuniverse,\u201d used in the formation of compound words", "S": ["galaxy ", "solar system "], "A": []}

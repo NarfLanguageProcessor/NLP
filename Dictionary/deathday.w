@@ -1,0 +1,1 @@
+{"index": 77644, "D": "the day or the anniversary of the day of a person's death.", "S": [], "A": []}

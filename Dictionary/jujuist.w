@@ -1,0 +1,1 @@
+{"index": 162207, "D": "an object venerated superstitiously and used as a fetish or amulet in West African spiritual practices.", "S": [], "A": []}

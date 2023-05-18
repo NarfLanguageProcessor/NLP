@@ -1,0 +1,1 @@
+{"index": 3881, "D": [], "S": ["agnostic ", "atheistic ", "freethinking ", "iconoclastic ", "irreligious ", "nonbelieving ", "skeptical ", "undogmatic "], "A": ["godly ", "religious "]}

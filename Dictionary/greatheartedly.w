@@ -1,0 +1,1 @@
+{"index": 129455, "D": "having or showing a generous heart; magnanimous.", "S": [], "A": []}

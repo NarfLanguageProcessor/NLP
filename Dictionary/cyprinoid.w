@@ -1,0 +1,1 @@
+{"index": 57922, "D": "resembling a carp; belonging to the Cyprinoidea, a group of fishes including the carps, suckers, and loaches.", "S": [], "A": []}

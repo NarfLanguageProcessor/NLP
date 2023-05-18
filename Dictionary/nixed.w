@@ -1,0 +1,1 @@
+{"index": 200506, "D": "vetoed, scrapped, denied, or discontinued; prevented from proceeding", "S": ["nay ", "nix "], "A": []}

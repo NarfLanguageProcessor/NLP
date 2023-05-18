@@ -1,0 +1,1 @@
+{"index": 100697, "D": "to make vigorous or active; invigorate", "S": ["animate ", "brighten ", "buoy ", "entertain ", "galvanize ", "invigorate ", "jazz up ", "juice up ", "recreate ", "rejuvenate ", "spice ", "stimulate "], "A": ["bore ", "depress ", "discourage ", "dull ", "kill ", "bring down ", "calm ", "damage ", "dishearten ", "halt ", "stop ", "upset "]}

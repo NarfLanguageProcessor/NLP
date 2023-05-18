@@ -1,0 +1,1 @@
+{"index": 363734, "D": "a valueless plant growing wild, especially one that grows on cultivated ground to the exclusion or injury of the desired crop.", "S": ["belvedere ", "bouquet ", "cheroot ", "claro ", "corona ", "havana ", "panatela ", "smoke ", "stogie ", "stogy ", "tobacco ", "toby "], "A": []}

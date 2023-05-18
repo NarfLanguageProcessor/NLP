@@ -1,0 +1,1 @@
+{"index": 23728, "D": "of or relating to Austria or its inhabitants", "S": [], "A": []}

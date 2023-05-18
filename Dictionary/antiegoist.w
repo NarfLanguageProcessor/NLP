@@ -1,0 +1,1 @@
+{"index": 15166, "D": "a self-centered or selfish person (opposed to altruist).", "S": [], "A": []}

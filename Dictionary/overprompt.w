@@ -1,0 +1,1 @@
+{"index": 220671, "D": "done, performed, delivered, etc., at once or without delay", "S": [], "A": []}

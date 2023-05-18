@@ -1,0 +1,1 @@
+{"index": 279643, "D": "premature closure of the sagittal suture resulting in a deformed skull having an elongated, keellike shape.", "S": [], "A": []}

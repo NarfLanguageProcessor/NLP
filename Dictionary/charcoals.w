@@ -1,0 +1,1 @@
+{"index": 52781, "D": "the carbonaceous material obtained by heating wood or other organic substances in the absence of air.", "S": ["charcoal ", "cinders ", "dust ", "embers ", "powder ", "relics ", "remains ", "ruins ", "slag ", "soot "], "A": []}

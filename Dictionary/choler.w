@@ -1,0 +1,1 @@
+{"index": 55449, "D": "irascibility; anger; wrath; irritability.", "S": ["anger ", "bile ", "ire "], "A": ["happiness "]}

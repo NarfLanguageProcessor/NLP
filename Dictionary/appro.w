@@ -1,0 +1,1 @@
+{"index": 17969, "D": "(of a purchase) approval", "S": [], "A": []}

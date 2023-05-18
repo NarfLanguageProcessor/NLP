@@ -1,0 +1,1 @@
+{"index": 200878, "D": "Compare conceptualism, realism (def. 5a). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 267443, "D": "any of various devices used in watches, clocks, etc, to compensate for errors arising from the changes in the force driving the escapement", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 110788, "D": "a member of an Arab commando group operating especially against Israel.", "S": [], "A": []}

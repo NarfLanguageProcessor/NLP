@@ -1,0 +1,1 @@
+{"index": 170568, "D": "the Lion, a zodiacal constellation between Virgo and Cancer, containing the bright star Regulus.", "S": ["cat ", "cougar ", "wildcat "], "A": []}

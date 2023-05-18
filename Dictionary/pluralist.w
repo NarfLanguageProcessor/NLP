@@ -1,0 +1,1 @@
+{"index": 240548, "D": "a theory that reality consists of two or more independent elements.", "S": [], "A": []}

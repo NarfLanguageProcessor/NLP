@@ -1,0 +1,1 @@
+{"index": 86135, "D": "a gadget, device, or object whose name is unknown or forgotten.", "S": [], "A": []}

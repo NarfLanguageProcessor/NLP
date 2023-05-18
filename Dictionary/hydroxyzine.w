@@ -1,0 +1,1 @@
+{"index": 139054, "D": "an antihistaminic compound, C21H27ClN2O2, used in the treatment of allergy, nausea, and anxiety.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 41541, "D": "any of various parasitic plants, especially of the genus Orobanche, living on the roots of broom and other plants.", "S": [], "A": []}

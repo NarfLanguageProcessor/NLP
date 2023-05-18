@@ -1,0 +1,1 @@
+{"index": 285485, "D": "an attitude toward something; regard; opinion. ", "S": ["attitude ", "bias ", "feeling ", "idea ", "opinion ", "passion ", "position ", "tendency ", "thought ", "view "], "A": ["concrete ", "thing ", "antipathy ", "disbelief ", "disinclination ", "disinterest ", "dislike ", "hate ", "hatred ", "indifference "]}

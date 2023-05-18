@@ -1,0 +1,1 @@
+{"index": 12743, "D": "one of several mesenchymal cells capable of developing into the endothelium of the blood vessels.", "S": [], "A": []}

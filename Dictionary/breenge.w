@@ -1,0 +1,1 @@
+{"index": 40400, "D": "to lunge forward; move violently or dash", "S": [], "A": []}

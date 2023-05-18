@@ -1,0 +1,1 @@
+{"index": 244238, "D": "noting or pertaining to any of certain large veins of the neck, especially one (external jugular vein ) collecting blood from the superficial parts of the head or one (internal jugular vein ) collecting blood from within the skull.", "S": [], "A": []}

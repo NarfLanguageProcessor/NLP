@@ -1,0 +1,1 @@
+{"index": 276495, "D": "French soldier and novelist, notorious for his paraphilia.", "S": [], "A": []}

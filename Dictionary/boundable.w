@@ -1,0 +1,1 @@
+{"index": 38965, "D": "simple past tense and past participle of bind. ", "S": [], "A": []}

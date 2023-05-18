@@ -1,0 +1,1 @@
+{"index": 343315, "D": "to humble oneself or act in an abject manner, as in great fear or utter servility.", "S": [], "A": []}

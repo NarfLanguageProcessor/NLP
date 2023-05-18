@@ -1,0 +1,1 @@
+{"index": 189686, "D": "to take or fill up (space, time, etc.)", "S": [], "A": []}

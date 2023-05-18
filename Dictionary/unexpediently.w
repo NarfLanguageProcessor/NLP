@@ -1,0 +1,1 @@
+{"index": 341766, "D": "tending to promote some proposed or desired object; fit or suitable for the purpose; proper under the circumstances", "S": [], "A": []}

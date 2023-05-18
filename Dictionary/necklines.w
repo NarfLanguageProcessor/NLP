@@ -1,0 +1,1 @@
+{"index": 197763, "D": "the opening at the neck  of a garment, especially of a woman's garment, with reference to its shape or its position on the body", "S": [], "A": []}

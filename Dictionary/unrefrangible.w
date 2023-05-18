@@ -1,0 +1,1 @@
+{"index": 349318, "D": "capable of being refracted, as rays of light.", "S": [], "A": []}

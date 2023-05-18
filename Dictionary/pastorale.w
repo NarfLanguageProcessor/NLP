@@ -1,0 +1,1 @@
+{"index": 227480, "D": "an opera, cantata, or the like, with a pastoral subject.", "S": [], "A": []}

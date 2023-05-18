@@ -1,0 +1,1 @@
+{"index": 28237, "D": "a switch  actuated by barometric pressure.", "S": [], "A": []}

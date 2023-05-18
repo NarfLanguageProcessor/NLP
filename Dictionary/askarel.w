@@ -1,0 +1,1 @@
+{"index": 21301, "D": "any of the class of synthetic, nonflammable, liquid dielectrics used chiefly for insulation in transformers.", "S": [], "A": []}

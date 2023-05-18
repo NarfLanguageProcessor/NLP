@@ -1,0 +1,1 @@
+{"index": 105381, "D": "pertaining or conducive to happiness.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 10524, "D": "any of five unsaturated isomeric hydrocarbons having the formula C5H10.", "S": [], "A": []}

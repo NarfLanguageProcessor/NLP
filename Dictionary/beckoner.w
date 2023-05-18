@@ -1,0 +1,1 @@
+{"index": 29832, "D": "to signal, summon, or direct by a gesture of the head or hand.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 281275, "D": "the record of points or strokes made by the competitors in a game or match.", "S": ["account ", "amount ", "average ", "count ", "grade ", "mark ", "number ", "rate ", "record ", "result ", "tally "], "A": ["part "]}

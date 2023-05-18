@@ -1,0 +1,1 @@
+{"index": 130777, "D": "(of an animal) depicted full-faced but with the body seen from the side", "S": [], "A": []}

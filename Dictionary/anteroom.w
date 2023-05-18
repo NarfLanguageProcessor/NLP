@@ -1,0 +1,1 @@
+{"index": 14274, "D": "a room  that admits to a larger room. ", "S": ["compartment ", "cubicle "], "A": []}

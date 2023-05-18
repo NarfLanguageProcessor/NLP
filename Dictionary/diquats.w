@@ -1,0 +1,1 @@
+{"index": 86746, "D": "a yellow crystalline substance, C12H12Br2N2, used as a selective postemergence herbicide to control weeds on noncrop land and for aquatic weed control.", "S": [], "A": []}

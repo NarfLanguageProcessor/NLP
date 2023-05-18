@@ -1,0 +1,1 @@
+{"index": 245908, "D": "pertaining to the mathematical prerequisites for the study of calculus,  as algebra, analytical geometry, and trigonometry.", "S": [], "A": []}

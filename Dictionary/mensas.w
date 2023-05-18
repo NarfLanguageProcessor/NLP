@@ -1,0 +1,1 @@
+{"index": 183447, "D": "the flat stone forming the top of the altar in a Roman Catholic church.", "S": [], "A": []}

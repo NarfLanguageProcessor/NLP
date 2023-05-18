@@ -1,0 +1,1 @@
+{"index": 356261, "D": "a variety of garnet colored emerald-green by the presence of chromium.", "S": [], "A": []}

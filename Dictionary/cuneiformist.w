@@ -1,0 +1,1 @@
+{"index": 75007, "D": "a person who studies or deciphers cuneiform  writing.", "S": [], "A": []}

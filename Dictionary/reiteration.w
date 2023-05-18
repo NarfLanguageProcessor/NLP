@@ -1,0 +1,1 @@
+{"index": 266566, "D": "the act of saying or doing something again, or over and over; excessive repetition", "S": ["restatement "], "A": []}

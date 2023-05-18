@@ -1,0 +1,1 @@
+{"index": 12236, "D": "subordinate; secondary; subsidiary", "S": ["asteroid ", "luna ", "moon ", "rocket ", "spacecraft ", "sputnik "], "A": []}

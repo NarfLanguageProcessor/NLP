@@ -1,0 +1,1 @@
+{"index": 88047, "D": "any impairment of the senses, especially of the sense of touch.", "S": [], "A": []}

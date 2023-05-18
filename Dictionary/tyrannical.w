@@ -1,0 +1,1 @@
+{"index": 324436, "D": "of or characteristic of a tyrant.", "S": ["authoritarian ", "autocratic ", "brutal ", "cruel ", "dictatorial ", "domineering ", "overbearing ", "repressive ", "ruthless ", "totalitarian "], "A": ["compassionate ", "considerate ", "democratic ", "gentle ", "kind ", "nice ", "sympathetic "]}

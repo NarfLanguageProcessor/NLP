@@ -1,0 +1,1 @@
+{"index": 292330, "D": "of or characteristic of a siren;  melodious, tempting, or alluring.", "S": ["alluring ", "beguiling ", "captivating ", "charming ", "endearing ", "intriguing ", "lovely ", "pleasant ", "ravishing ", "winsome "], "A": ["disagreeable ", "boring "]}

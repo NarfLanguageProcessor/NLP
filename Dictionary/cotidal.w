@@ -1,0 +1,1 @@
+{"index": 70329, "D": "pertaining to a coincidence of tides.", "S": [], "A": []}

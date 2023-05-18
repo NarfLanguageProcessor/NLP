@@ -1,0 +1,1 @@
+{"index": 20161, "D": "an act or instance of bringing someone before a criminal court to hear or read and answer to an indictment, the formal charge initiating the case", "S": ["indictment "], "A": ["acquittal "]}

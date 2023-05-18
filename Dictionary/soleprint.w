@@ -1,0 +1,1 @@
+{"index": 296670, "D": "a print  of the sole  of a foot", "S": [], "A": []}

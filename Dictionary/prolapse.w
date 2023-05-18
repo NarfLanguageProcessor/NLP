@@ -1,0 +1,1 @@
+{"index": 252047, "D": "a falling down of an organ or part, as the uterus, from its normal position.", "S": ["plunge ", "slide "], "A": ["ascent ", "evenness ", "increase ", "level ", "rise "]}

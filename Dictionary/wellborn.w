@@ -1,0 +1,1 @@
+{"index": 364017, "D": "born of a noble or highly esteemed family.", "S": ["aristocratic ", "blue-blooded ", "elite ", "gentle ", "highbred ", "imperial ", "kingly ", "patrician ", "queenly ", "silk-stocking ", "thoroughbred ", "titled ", "upper-class "], "A": []}

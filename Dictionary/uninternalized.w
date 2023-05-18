@@ -1,0 +1,1 @@
+{"index": 344751, "D": "to incorporate (the cultural values, mores, motives, etc., of another or of a group), as through learning, socialization, or identification.", "S": [], "A": []}

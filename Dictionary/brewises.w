@@ -1,0 +1,1 @@
+{"index": 40532, "D": "hard bread soaked in water and then boiled.", "S": [], "A": []}

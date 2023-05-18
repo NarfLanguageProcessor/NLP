@@ -1,0 +1,1 @@
+{"index": 214898, "D": "one of a breed of large, white-skinned chickens.", "S": [], "A": []}

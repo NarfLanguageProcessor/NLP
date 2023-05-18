@@ -1,0 +1,1 @@
+{"index": 252281, "D": "giving favorable promise;  likely to turn out well", "S": [], "A": []}

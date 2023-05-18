@@ -1,0 +1,1 @@
+{"index": 280473, "D": "an institution where instruction is given, especially to persons under college age", "S": [], "A": []}

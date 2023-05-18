@@ -1,0 +1,1 @@
+{"index": 339997, "D": "a person who steals, especially secretly or without open force; one guilty of theft or larceny.", "S": [], "A": []}

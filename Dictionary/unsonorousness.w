@@ -1,0 +1,1 @@
+{"index": 351586, "D": "giving out or capable of giving out a sound, especially a deep, resonant sound, as a thing or place", "S": [], "A": []}

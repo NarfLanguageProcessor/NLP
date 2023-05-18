@@ -1,0 +1,1 @@
+{"index": 121396, "D": "belonging or pertaining to the group of mainly heavy-bodied, ground-feeding domestic and game birds that comprise the order Galliformes, which includes all species of chicken, turkey, grouse, pheasant, quail, and partridge.", "S": [], "A": []}

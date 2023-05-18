@@ -1,0 +1,1 @@
+{"index": 123841, "D": "the branch of applied mathematics that deals with the measurement of the shape and area of large tracts of country, the exact position of geographical points, and the curvature, shape, and dimensions of the earth.", "S": [], "A": []}

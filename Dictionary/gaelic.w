@@ -1,0 +1,1 @@
+{"index": 120918, "D": "a Celtic language that includes the speech of ancient Ireland and the dialects that have developed from it, especially those usually known as Irish, Manx, and Scottish Gaelic", "S": [], "A": []}

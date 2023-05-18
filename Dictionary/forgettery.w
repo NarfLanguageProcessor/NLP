@@ -1,0 +1,1 @@
+{"index": 117232, "D": "a faculty or facility for forgetting;  faulty memory", "S": [], "A": []}

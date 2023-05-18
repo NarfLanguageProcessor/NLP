@@ -1,0 +1,1 @@
+{"index": 110668, "D": "clothed or covered with feathers; feathered. ", "S": ["delicacy "], "A": []}

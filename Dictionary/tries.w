@@ -1,0 +1,1 @@
+{"index": 329718, "D": "plural of try. ", "S": ["shot "], "A": ["idleness ", "laziness ", "peace "]}

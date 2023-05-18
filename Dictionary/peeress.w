@@ -1,0 +1,1 @@
+{"index": 229071, "D": "the wife or widow of a peer. ", "S": ["aristocrat ", "gentlewoman ", "lady "], "A": []}

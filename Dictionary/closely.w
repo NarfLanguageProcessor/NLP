@@ -1,0 +1,1 @@
+{"index": 60446, "D": "to put (something) in a position to obstruct an entrance, opening, etc.; shut. ", "S": ["firmly ", "hard ", "intently ", "intimately ", "jointly ", "meticulously ", "scrupulously ", "sharply ", "strictly ", "thoughtfully "], "A": []}

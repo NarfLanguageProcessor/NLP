@@ -1,0 +1,1 @@
+{"index": 93580, "D": "being in a temporary state in which one's physical and mental faculties are impaired by an excess of alcohol; intoxicated", "S": ["stoned ", "tipsy "], "A": ["sober ", "straight "]}

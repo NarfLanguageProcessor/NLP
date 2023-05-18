@@ -1,0 +1,1 @@
+{"index": 132714, "D": "a variant spelling of halyard", "S": [], "A": []}

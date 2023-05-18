@@ -1,0 +1,1 @@
+{"index": 63679, "D": "a toothed strip of plastic, hard rubber, bone, wood, or metal, used for arranging the hair, untangling it, or holding it in place.", "S": [], "A": []}

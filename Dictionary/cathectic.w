@@ -1,0 +1,1 @@
+{"index": 49655, "D": "of or relating to cathexis", "S": [], "A": []}

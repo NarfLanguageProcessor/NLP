@@ -1,0 +1,1 @@
+{"index": 41524, "D": "U.S. poet and novelist.", "S": ["beck ", "branch ", "burn ", "creek ", "rill ", "river ", "rivulet ", "run ", "runnel ", "streamlet ", "watercourse "], "A": []}

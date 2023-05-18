@@ -1,0 +1,1 @@
+{"index": 4273, "D": "growing to manhood or womanhood; youthful. ", "S": ["boyish ", "teen ", "youthful "], "A": ["mature "]}

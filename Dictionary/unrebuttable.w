@@ -1,0 +1,1 @@
+{"index": 349146, "D": "to refute by evidence or argument.", "S": [], "A": []}

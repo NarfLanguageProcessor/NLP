@@ -1,0 +1,1 @@
+{"index": 201127, "D": "settled, determined, or decreed judicially", "S": [], "A": []}

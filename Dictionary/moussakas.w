@@ -1,0 +1,1 @@
+{"index": 194322, "D": "a baked dish consisting of layers of saut\u00e9ed slices of eggplant and ground lamb usually flavored with tomatoes, onions, and cinnamon, and covered with a custard sauce sprinkled with grated cheese.", "S": [], "A": []}

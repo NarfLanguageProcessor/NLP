@@ -1,0 +1,1 @@
+{"index": 35329, "D": "of, relating to, or having two variates. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 216621, "D": "a shop that sells men's clothes", "S": ["clothier ", "costumer ", "couturier ", "seamstress ", "tailor "], "A": []}

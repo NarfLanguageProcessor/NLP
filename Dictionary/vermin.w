@@ -1,0 +1,1 @@
+{"index": 358619, "D": "noxious, objectionable, or disgusting animals collectively, especially those of small size that appear commonly and are difficult to control, as flies, lice, bedbugs, cockroaches, mice, and rats.", "S": ["animal ", "bugs ", "insects ", "pests "], "A": []}

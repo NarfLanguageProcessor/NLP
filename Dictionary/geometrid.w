@@ -1,0 +1,1 @@
+{"index": 123951, "D": "belonging or pertaining to the family Geometridae, comprising slender-bodied, broad-winged moths, the larvae of which are called measuring worms.", "S": [], "A": []}

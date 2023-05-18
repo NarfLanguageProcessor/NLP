@@ -1,0 +1,1 @@
+{"index": 114953, "D": "a person employed in a store to direct customers and supervise salespeople.", "S": ["director ", "floor man ", "overseer "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309552, "D": "the sum or total  of a part of a group or column of figures, as in an accounting statement.", "S": [], "A": []}

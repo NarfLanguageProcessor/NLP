@@ -1,0 +1,1 @@
+{"index": 6381, "D": "accompanied by, filled with, or resulting in agony  or distress", "S": ["excruciating ", "harrowing ", "intense ", "tortuous "], "A": ["pleasant ", "pleasing "]}

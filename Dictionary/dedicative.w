@@ -1,0 +1,1 @@
+{"index": 78893, "D": "of or relating to dedication; serving as a dedication.", "S": [], "A": []}

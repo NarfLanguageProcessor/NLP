@@ -1,0 +1,1 @@
+{"index": 15237, "D": "opposed, hostile, or averse to fatness and fat people.", "S": [], "A": []}

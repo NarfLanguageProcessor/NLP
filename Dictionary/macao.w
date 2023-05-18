@@ -1,0 +1,1 @@
+{"index": 176642, "D": "a Portuguese overseas territory in S China, in the delta of the Zhu Jiang River and including two small adjacent islands. 6 sq. mi. (16 sq. km).", "S": [], "A": []}

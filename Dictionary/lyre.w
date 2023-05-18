@@ -1,0 +1,1 @@
+{"index": 173360, "D": "a musical instrument of ancient Greece consisting of a soundbox made typically from a turtle shell, with two curved arms connected by a yoke from which strings are stretched to the body, used especially to accompany singing and recitation.", "S": [], "A": []}

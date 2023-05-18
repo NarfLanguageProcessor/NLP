@@ -1,0 +1,1 @@
+{"index": 147929, "D": "vastness; enormous extent", "S": ["bigness ", "enormity ", "vastness "], "A": ["insignificance ", "smallness ", "tininess ", "unimportance "]}

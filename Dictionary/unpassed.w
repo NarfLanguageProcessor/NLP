@@ -1,0 +1,1 @@
+{"index": 347515, "D": "having completed the act of passing. ", "S": [], "A": []}

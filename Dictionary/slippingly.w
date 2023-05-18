@@ -1,0 +1,1 @@
+{"index": 294201, "D": "to move, flow, pass, or go smoothly or easily; glide; slide", "S": [], "A": []}

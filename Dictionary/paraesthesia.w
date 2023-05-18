@@ -1,0 +1,1 @@
+{"index": 225560, "D": "paresthesia. ", "S": ["deadness ", "formication ", "numbness ", "paresthesia ", "prickling ", "sensation ", "tingle ", "tingling "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 94626, "D": [], "S": ["mini ", "miniature "], "A": ["big ", "huge ", "large ", "tall "]}

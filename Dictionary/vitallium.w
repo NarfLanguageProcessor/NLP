@@ -1,0 +1,1 @@
+{"index": 360524, "D": "a brand name for an alloy of cobalt, chromium, and molybdenum, having various dental and surgical applications.", "S": [], "A": []}

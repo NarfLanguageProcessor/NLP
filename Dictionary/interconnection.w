@@ -1,0 +1,1 @@
+{"index": 154731, "D": "the fact or state of being connected or linked with one another", "S": ["interdependence ", "interrelationship ", "kinship ", "linkage "], "A": ["antagonism ", "difference ", "disassociation ", "disconnection ", "dissimilarity ", "disunion ", "opposition ", "separation "]}

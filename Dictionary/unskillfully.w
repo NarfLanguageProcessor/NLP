@@ -1,0 +1,1 @@
+{"index": 351301, "D": "not skillful; clumsy or bungling.", "S": ["clumsily ", "stiffly "], "A": ["adroitly ", "gracefully ", "skillfully "]}

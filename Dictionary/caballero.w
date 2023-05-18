@@ -1,0 +1,1 @@
+{"index": 43861, "D": "a Spanish gentleman.", "S": ["cavalier ", "escort ", "gentleman ", "horseman ", "knight ", "lover "], "A": []}

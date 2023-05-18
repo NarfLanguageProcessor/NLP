@@ -1,0 +1,1 @@
+{"index": 232797, "D": "(of a phagocyte) to devour (material).", "S": [], "A": []}

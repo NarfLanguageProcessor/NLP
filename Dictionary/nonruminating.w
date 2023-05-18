@@ -1,0 +1,1 @@
+{"index": 206941, "D": "to chew the cud, as a ruminant. ", "S": [], "A": []}

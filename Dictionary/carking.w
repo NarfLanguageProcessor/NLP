@@ -1,0 +1,1 @@
+{"index": 48114, "D": "distressful. ", "S": ["demanding ", "difficult ", "onerous ", "oppressive ", "taxing "], "A": ["calm ", "easy ", "trivial "]}

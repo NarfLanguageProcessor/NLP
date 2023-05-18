@@ -1,0 +1,1 @@
+{"index": 100836, "D": "to utter or pronounce, as words; enunciate.", "S": ["articulate ", "enunciate ", "pronounce ", "say ", "state ", "vocalize ", "voice "], "A": ["ask ", "mumble ", "question "]}

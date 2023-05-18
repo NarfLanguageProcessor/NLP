@@ -1,0 +1,1 @@
+{"index": 154393, "D": "an act or instance of determining mentally upon some action or result.", "S": ["aim ", "hope ", "motive ", "objective ", "plan ", "purpose "], "A": ["discouragement "]}

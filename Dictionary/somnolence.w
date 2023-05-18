@@ -1,0 +1,1 @@
+{"index": 297139, "D": [], "S": ["oblivion ", "slumber ", "stupor ", "trance "], "A": ["consciousness ", "liveliness "]}

@@ -1,0 +1,1 @@
+{"index": 260267, "D": "one of a breed of hardy sheep, developed from the Merino, yielding good mutton and a fine grade of wool.", "S": [], "A": []}

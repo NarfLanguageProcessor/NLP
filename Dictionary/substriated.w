@@ -1,0 +1,1 @@
+{"index": 309367, "D": "marked with striae; furrowed; striped; streaked.", "S": [], "A": []}

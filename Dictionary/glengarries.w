@@ -1,0 +1,1 @@
+{"index": 126155, "D": "a Scottish cap with straight sides, a crease along the top, and sometimes short ribbon streamers at the back, worn by Highlanders as part of military dress.", "S": [], "A": []}

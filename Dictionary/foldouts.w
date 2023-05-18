@@ -1,0 +1,1 @@
+{"index": 115866, "D": "a page larger than the trim size of a magazine or book, folded one or more times so as not to extend beyond the pages; gatefold.", "S": [], "A": []}

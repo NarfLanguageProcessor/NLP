@@ -1,0 +1,1 @@
+{"index": 342880, "D": "not graceful; awkward; unwieldy; clumsy", "S": ["ignorance ", "ineptitude "], "A": ["politeness ", "sophistication "]}

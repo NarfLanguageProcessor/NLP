@@ -1,0 +1,1 @@
+{"index": 177420, "D": "a member of a Moro people of Mindanao in the Philippines.", "S": [], "A": []}

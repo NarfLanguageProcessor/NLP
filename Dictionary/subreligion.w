@@ -1,0 +1,1 @@
+{"index": 308980, "D": "a set of beliefs concerning the cause, nature, and purpose of the universe, especially when considered as the creation of a superhuman agency or agencies, usually involving devotional and ritual observances, and often containing amoral code  governing the conduct of human affairs.", "S": [], "A": []}

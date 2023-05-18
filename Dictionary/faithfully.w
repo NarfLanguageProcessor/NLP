@@ -1,0 +1,1 @@
+{"index": 109364, "D": "in a strict or thorough way", "S": ["conscientiously "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25945, "D": "associated or originating with household servants", "S": [], "A": []}

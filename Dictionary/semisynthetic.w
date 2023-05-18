@@ -1,0 +1,1 @@
+{"index": 284958, "D": "derived synthetically from one or more substances of natural origin.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 340224, "D": "becoming worse or inferior in condition, character, quality, value, etc.", "S": [], "A": []}

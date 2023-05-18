@@ -1,0 +1,1 @@
+{"index": 111085, "D": "the whole body or class of felons. ", "S": ["gangland ", "mob ", "organized crime ", "syndicate "], "A": []}

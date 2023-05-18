@@ -1,0 +1,1 @@
+{"index": 79008, "D": "extending far down from the top or surface", "S": ["astuteness ", "profoundness ", "profundity ", "reconditeness "], "A": []}

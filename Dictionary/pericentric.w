@@ -1,0 +1,1 @@
+{"index": 230828, "D": "the point at which a heavenly body orbiting around a primary other than the earth or sun is closest to the primary.", "S": [], "A": []}

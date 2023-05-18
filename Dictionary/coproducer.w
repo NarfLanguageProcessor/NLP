@@ -1,0 +1,1 @@
+{"index": 68665, "D": "to produce  (a motion picture, play, etc.) in collaboration with others.", "S": [], "A": []}

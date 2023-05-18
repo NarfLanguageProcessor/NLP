@@ -1,0 +1,1 @@
+{"index": 87477, "D": "to cause inconvenience to; disturb, trouble, or bother.", "S": [], "A": []}

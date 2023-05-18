@@ -1,0 +1,1 @@
+{"index": 172176, "D": "of the same form, appearance, kind, character, amount, etc.", "S": ["admired ", "cherished ", "honored ", "loved ", "prized ", "respected "], "A": []}

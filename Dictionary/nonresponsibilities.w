@@ -1,0 +1,1 @@
+{"index": 206804, "D": "the state or fact of being responsible,  answerable, or accountable for something within one's power, control, or management.", "S": [], "A": []}

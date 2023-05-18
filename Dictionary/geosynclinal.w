@@ -1,0 +1,1 @@
+{"index": 124052, "D": "pertaining to a synclinal  fold that involves a relatively large part of the earth's surface.", "S": [], "A": []}

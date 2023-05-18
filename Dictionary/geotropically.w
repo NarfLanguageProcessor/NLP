@@ -1,0 +1,1 @@
+{"index": 124091, "D": "of, relating to, or exhibiting geotropism.", "S": [], "A": []}

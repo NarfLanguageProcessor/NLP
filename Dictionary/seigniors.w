@@ -1,0 +1,1 @@
+{"index": 283279, "D": "a lord, especially a feudal lord; ruler.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 106227, "D": "that which tends to prove or disprove something; ground for belief; proof.", "S": ["glaring ", "palpable ", "unambiguous ", "unmistakable "], "A": ["hidden ", "ambiguous ", "concealed ", "unclear ", "vague "]}

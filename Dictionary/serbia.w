@@ -1,0 +1,1 @@
+{"index": 285937, "D": "a republic in southern Europe since 2006; includes the autonomous province of Vojvodina and claims sovereignty over the autonomous province of Kosovo, which has declared itself independent; formerly part of Yugoslavia, in the northern part", "S": [], "A": []}

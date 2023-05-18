@@ -1,0 +1,1 @@
+{"index": 117623, "D": "past participle of forswear. ", "S": [], "A": []}

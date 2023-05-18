@@ -1,0 +1,1 @@
+{"index": 123392, "D": "warm cordiality; comfortable friendliness; congeniality. ", "S": [], "A": []}

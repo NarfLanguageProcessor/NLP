@@ -1,0 +1,1 @@
+{"index": 69167, "D": "acute inflammation of the mucous membrane of the nasal cavities; cold in the head.", "S": ["acute rhinitis ", "acute viral nasopharyngitis ", "catarrh ", "cold "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 147106, "D": "a plant-eating dinosaur of the genus Iguanodon that lived in Europe early in the Cretaceous Period and grew to a length of from 15 to 30 feet (4.5 to 9 meters) and walked erect on its hind feet.", "S": [], "A": []}

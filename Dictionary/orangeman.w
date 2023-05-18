@@ -1,0 +1,1 @@
+{"index": 213957, "D": "a member of a secret society formed in the north of Ireland in 1795, having as its object the maintenance and political ascendancy of Protestantism.", "S": [], "A": []}

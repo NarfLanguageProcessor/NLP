@@ -1,0 +1,1 @@
+{"index": 318420, "D": "polymerization in the presence of a chain transfer agent to yield a series of products of low molecular weight", "S": [], "A": []}

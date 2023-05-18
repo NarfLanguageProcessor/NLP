@@ -1,0 +1,1 @@
+{"index": 202141, "D": "having suitable or sufficient skill, knowledge, experience, etc., for some purpose; properly qualified", "S": [], "A": []}

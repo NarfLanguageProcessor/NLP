@@ -1,0 +1,1 @@
+{"index": 47000, "D": "to castrate (a fowl).", "S": [], "A": []}

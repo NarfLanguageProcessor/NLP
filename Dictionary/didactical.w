@@ -1,0 +1,1 @@
+{"index": 85019, "D": "intended for instruction; instructive", "S": ["didactic ", "donnish ", "homiletic ", "homiletical ", "lecturelike ", "moralizing ", "pedantic ", "pedantical ", "preachy "], "A": []}

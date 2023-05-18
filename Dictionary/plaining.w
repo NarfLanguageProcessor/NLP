@@ -1,0 +1,1 @@
+{"index": 238792, "D": "clear or distinct to the eye or ear", "S": [], "A": []}

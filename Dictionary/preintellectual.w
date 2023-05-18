@@ -1,0 +1,1 @@
+{"index": 248042, "D": "appealing to or engaging the intellect", "S": [], "A": []}

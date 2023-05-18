@@ -1,0 +1,1 @@
+{"index": 182887, "D": "the doctrine that the world tends to become better or may be made better by human effort.", "S": [], "A": []}

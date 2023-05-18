@@ -1,0 +1,1 @@
+{"index": 275476, "D": "an alcoholic liquor or spirit distilled from molasses or some other fermented sugar-cane product.", "S": ["aberrant ", "beat ", "bent ", "characteristic ", "crazy ", "freak ", "funny ", "irregular ", "oddball ", "offbeat ", "queer ", "singular ", "weird ", "wild "], "A": ["common ", "normal ", "regular ", "standard ", "usual "]}

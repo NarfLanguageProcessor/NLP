@@ -1,0 +1,1 @@
+{"index": 27309, "D": "an imaginary wild animal of fierce disposition.", "S": [], "A": []}

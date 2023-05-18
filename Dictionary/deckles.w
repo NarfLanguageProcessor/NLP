@@ -1,0 +1,1 @@
+{"index": 78429, "D": "a board, usually of stainless steel, fitted under part of the wire in a Fourdrinier machine for supporting the pulp stack before it is sufficiently formed to support itself on the wire.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 217832, "D": "to speak or cry out loudly or noisily; shout; bawl.", "S": [], "A": []}

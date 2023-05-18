@@ -1,0 +1,1 @@
+{"index": 283645, "D": "serving as a sign or warning of danger, as the conspicuous colors or markings of certain poisonous animals.", "S": [], "A": []}

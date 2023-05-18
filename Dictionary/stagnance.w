@@ -1,0 +1,1 @@
+{"index": 302364, "D": "not flowing or running, as water, air, etc.", "S": [], "A": []}

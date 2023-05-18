@@ -1,0 +1,1 @@
+{"index": 267322, "D": "the act of recalling past experiences or events, especially with pleasure or nostalgia", "S": ["celebrating ", "commemorating ", "memorializing ", "recollecting ", "recollection ", "reliving ", "reminiscence "], "A": ["forgetting ", "overlooking "]}

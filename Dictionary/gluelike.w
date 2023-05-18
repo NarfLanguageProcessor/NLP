@@ -1,0 +1,1 @@
+{"index": 126882, "D": "a hard, impure, protein gelatin, obtained by boiling skins, hoofs, and other animal substances in water, that when melted or diluted is a strong adhesive.", "S": ["adhesive "], "A": ["blushing ", "flushed ", "healthy ", "smooth ", "vivid "]}

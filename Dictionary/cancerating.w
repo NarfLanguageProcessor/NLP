@@ -1,0 +1,1 @@
+{"index": 46099, "D": "to become cancerous; develop into cancer.", "S": [], "A": []}

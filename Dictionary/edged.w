@@ -1,0 +1,1 @@
+{"index": 95704, "D": "having an edge  or edges  (often used in combination)", "S": ["fine ", "tapering "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 338397, "D": "(of a manuscript, letter, etc) not having an identifying date", "S": [], "A": []}

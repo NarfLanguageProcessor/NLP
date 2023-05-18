@@ -1,0 +1,1 @@
+{"index": 328231, "D": [], "S": ["alter ", "backtrack ", "capsize ", "change ", "convert ", "evert ", "flip ", "flip-flop ", "introvert ", "modify ", "overturn ", "renege ", "revert ", "tip ", "transpose ", "turn ", "upend ", "upset "], "A": ["continue ", "grow ", "hold ", "keep ", "leave alone ", "persist ", "remain ", "stay ", "straighten "]}

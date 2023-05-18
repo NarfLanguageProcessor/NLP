@@ -1,0 +1,1 @@
+{"index": 124198, "D": "a usage, idiom, or other feature that is characteristic of the German  language.", "S": [], "A": []}

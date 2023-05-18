@@ -1,0 +1,1 @@
+{"index": 25415, "D": "a blue-green ornamental stone consisting of a mixture of azurite  and malachite. ", "S": [], "A": []}

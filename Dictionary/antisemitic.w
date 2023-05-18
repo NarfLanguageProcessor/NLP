@@ -1,0 +1,1 @@
+{"index": 16149, "D": "prejudiced or hostile toward Jews", "S": ["bigoted ", "intolerant ", "prejudiced ", "xenophobic "], "A": ["tolerant ", "unbiased ", "unbigoted ", "unprejudiced "]}

@@ -1,0 +1,1 @@
+{"index": 131521, "D": "a preceptor giving personal religious instruction.", "S": [], "A": []}

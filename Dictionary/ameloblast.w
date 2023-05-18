@@ -1,0 +1,1 @@
+{"index": 10235, "D": "one of a layer of enamel-secreting cells covering the dentin of a developing tooth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 112923, "D": "extreme delicacy or subtlety in action, performance, skill, discrimination, taste, etc.", "S": ["angle ", "bluff ", "exploit ", "jockey ", "play ", "rig ", "wangle "], "A": ["bobble ", "mishandle "]}

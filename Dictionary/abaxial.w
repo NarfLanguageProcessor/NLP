@@ -1,0 +1,1 @@
+{"index": 175, "D": "being or situated away from the axis", "S": [], "A": []}

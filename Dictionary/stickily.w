@@ -1,0 +1,1 @@
+{"index": 304304, "D": "having the property of adhering, as glue; adhesive.", "S": [], "A": []}

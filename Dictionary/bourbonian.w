@@ -1,0 +1,1 @@
+{"index": 39009, "D": "adherence to the ideas and system of government practiced by the Bourbons. ", "S": [], "A": []}

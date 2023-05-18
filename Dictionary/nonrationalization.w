@@ -1,0 +1,1 @@
+{"index": 206474, "D": "the act or process of ascribing one\u2019s actions, opinions, etc., to causes that seem reasonable and valid but are actually unrelated to the true, possibly unconscious and often less complimentary ones", "S": [], "A": []}

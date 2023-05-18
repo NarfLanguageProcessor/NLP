@@ -1,0 +1,1 @@
+{"index": 296775, "D": "an utterance or discourse spoken to oneself, without regard for whether any other hearers are present (often used as a device in drama to disclose a character's innermost thoughts)", "S": ["discourse ", "monologue "], "A": ["dialogue "]}

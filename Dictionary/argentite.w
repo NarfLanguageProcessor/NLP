@@ -1,0 +1,1 @@
+{"index": 19476, "D": "a dark lead-gray sectile mineral, silver sulfide, Ag2S, occurring in crystals and as formless aggregates", "S": [], "A": []}

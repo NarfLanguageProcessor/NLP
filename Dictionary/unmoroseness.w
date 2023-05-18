@@ -1,0 +1,1 @@
+{"index": 346586, "D": "gloomily or sullenly ill-humored, as a person or mood.", "S": [], "A": []}

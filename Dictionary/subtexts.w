@@ -1,0 +1,1 @@
+{"index": 309491, "D": "the underlying or implicit meaning, as of a literary work.", "S": ["connotation "], "A": ["denotation ", "declaration "]}

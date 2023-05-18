@@ -1,0 +1,1 @@
+{"index": 266165, "D": "a second or repeated impression. ", "S": [], "A": []}

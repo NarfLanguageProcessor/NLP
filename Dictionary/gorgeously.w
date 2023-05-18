@@ -1,0 +1,1 @@
+{"index": 128084, "D": "splendid or sumptuous in appearance, coloring, etc.; magnificent", "S": ["appealingly ", "attractively ", "charmingly ", "delightfully ", "elegantly ", "exquisitely ", "gracefully ", "handsomely ", "magnificently ", "seductively ", "splendidly ", "sublimely ", "superbly ", "tastefully ", "wonderfully "], "A": ["poorly "]}

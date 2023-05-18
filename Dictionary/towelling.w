@@ -1,0 +1,1 @@
+{"index": 326750, "D": "an absorbent fabric, esp with a nap, used for making towels, bathrobes, etc", "S": ["clean ", "dry ", "dust ", "erase ", "mop ", "obliterate ", "remove ", "rub ", "wash "], "A": ["dirty "]}

@@ -1,0 +1,1 @@
+{"index": 167217, "D": "a Rhaeto-Romanic dialect of the southern Tyrol.", "S": [], "A": []}

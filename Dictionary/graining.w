@@ -1,0 +1,1 @@
+{"index": 128665, "D": "the pattern or texture of the grain of wood, leather, etc", "S": [], "A": []}

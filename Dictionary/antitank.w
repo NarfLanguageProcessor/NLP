@@ -1,0 +1,1 @@
+{"index": 16296, "D": "designed for use against tanks  or other armored vehicles", "S": [], "A": []}

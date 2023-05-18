@@ -1,0 +1,1 @@
+{"index": 298586, "D": "of the nature of or resembling a spathe.", "S": [], "A": []}

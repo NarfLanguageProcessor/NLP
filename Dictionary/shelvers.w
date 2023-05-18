@@ -1,0 +1,1 @@
+{"index": 288010, "D": "to place (something) on a shelf  or shelves.", "S": [], "A": []}

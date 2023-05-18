@@ -1,0 +1,1 @@
+{"index": 234918, "D": "any enzyme, occurring widely in animal and plant tissue, that in the presence of an inorganic phosphate catalyzes the conversion of glycogen into sugar phosphate.", "S": [], "A": []}

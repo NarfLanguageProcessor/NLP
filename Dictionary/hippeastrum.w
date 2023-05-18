@@ -1,0 +1,1 @@
+{"index": 141364, "D": "any plant of the South American amaryllidaceous genus Hippeastrum", "S": [], "A": []}

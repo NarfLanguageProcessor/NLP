@@ -1,0 +1,1 @@
+{"index": 77505, "D": "the dead branches on a tree; dead branches or trees.", "S": ["deadwood ", "hanger-on ", "lagniappe ", "spare ", "spare tire ", "superfluity ", "third wheel ", "triviality "], "A": []}

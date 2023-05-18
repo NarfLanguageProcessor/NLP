@@ -1,0 +1,1 @@
+{"index": 1278, "D": "a combining form from Greek meaning \u201cspine,\u201d used in the formation of compound words", "S": [], "A": []}

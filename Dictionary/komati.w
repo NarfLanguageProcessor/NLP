@@ -1,0 +1,1 @@
+{"index": 165956, "D": "a river in NE South Africa, N Swaziland, and SW Mozambique, flowing generally NE to the Indian Ocean. 500 miles (805 km) long.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 155710, "D": "a person who interprets.", "S": ["artist ", "commentator ", "editor ", "exponent ", "linguist ", "philosopher ", "scholar ", "writer "], "A": []}

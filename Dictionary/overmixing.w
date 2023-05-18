@@ -1,0 +1,1 @@
+{"index": 220265, "D": "to combine (substances, elements, things, etc.) into one mass, collection, or assemblage, generally with a thorough blending of the constituents.", "S": [], "A": []}

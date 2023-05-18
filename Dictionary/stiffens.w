@@ -1,0 +1,1 @@
+{"index": 304359, "D": "to make stiff. ", "S": ["reinforce ", "solidify ", "stabilize ", "strengthen "], "A": ["weaken ", "dilute ", "dissolve ", "heat ", "liquefy ", "melt ", "separate ", "soften ", "thin ", "unfix "]}

@@ -1,0 +1,1 @@
+{"index": 49895, "D": "(no longer in technical use) of, relating to, or characteristic of one of the traditional racial divisions of humankind, marked by fair to dark skin, straight to tightly curled hair, and light to very dark eyes, and originally inhabiting Europe, parts of North Africa, western Asia, and India.", "S": [], "A": []}

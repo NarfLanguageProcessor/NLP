@@ -1,0 +1,1 @@
+{"index": 206409, "D": "proceeding after; following (usually followed by to)", "S": [], "A": []}

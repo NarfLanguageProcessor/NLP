@@ -1,0 +1,1 @@
+{"index": 74903, "D": "burdensome; troublesome.", "S": ["bulky ", "burdensome ", "embarrassing ", "heavy ", "inconvenient ", "ponderous ", "tiresome ", "unwieldy "], "A": ["aiding ", "airy ", "convenient ", "easy ", "fun ", "helpful ", "light ", "small ", "unburdensome "]}

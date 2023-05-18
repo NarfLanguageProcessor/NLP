@@ -1,0 +1,1 @@
+{"index": 297168, "D": "a method for detecting and locating objects submerged in water by echolocation.", "S": ["bombsight ", "gunsight ", "periscope ", "radar ", "sight ", "viewfinder "], "A": ["loser ", "owner ", "stray "]}

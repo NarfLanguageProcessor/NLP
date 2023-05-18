@@ -1,0 +1,1 @@
+{"index": 104411, "D": "an artificial language invented in 1887 by L. L. Zamenhof (1859\u20131917), a Polish physician and philologist, and intended for international use. It is based on word roots common to the major European languages.", "S": [], "A": []}

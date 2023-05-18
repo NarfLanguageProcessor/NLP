@@ -1,0 +1,1 @@
+{"index": 123429, "D": "a chief of a family or tribe.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 104147, "D": "the method or skill of extricating oneself from handcuffs, chains, etc., as of a magician or other performer.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 235533, "D": "variant of phreno-  before a vowel", "S": [], "A": []}

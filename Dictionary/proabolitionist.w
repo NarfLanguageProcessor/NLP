@@ -1,0 +1,1 @@
+{"index": 250904, "D": "(especially prior to the Civil War) a person who advocated or supported the abolition  of slavery in the U.S.", "S": [], "A": []}

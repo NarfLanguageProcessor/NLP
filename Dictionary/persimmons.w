@@ -1,0 +1,1 @@
+{"index": 231929, "D": "any of several trees of the genus Diospyros, especially D. virginiana, of North America, bearing astringent, plumlike fruit that is sweet and edible when ripe, and D. kaki, of Japan and China, bearing soft, red or orange fruit.", "S": [], "A": []}

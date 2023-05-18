@@ -1,0 +1,1 @@
+{"index": 351966, "D": "having or ornamented with statues", "S": [], "A": []}

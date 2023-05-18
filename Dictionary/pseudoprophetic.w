@@ -1,0 +1,1 @@
+{"index": 255055, "D": "of or relating to a prophet", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45049, "D": "the young of the domestic cow or other bovine animal.", "S": [], "A": []}

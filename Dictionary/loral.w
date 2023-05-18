@@ -1,0 +1,1 @@
+{"index": 175232, "D": "of or relating to lore,  knowledge, learning, etc.", "S": [], "A": []}

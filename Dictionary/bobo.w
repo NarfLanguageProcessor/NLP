@@ -1,0 +1,1 @@
+{"index": 37084, "D": "a liberal, highly educated person who combines a bourgeois, affluent lifestyle with nonconformist values and attitudes.", "S": [], "A": []}

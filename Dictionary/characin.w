@@ -1,0 +1,1 @@
+{"index": 52703, "D": "any freshwater fish of the family Characidae, of Africa and Central and South America.", "S": [], "A": []}

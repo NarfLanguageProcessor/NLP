@@ -1,0 +1,1 @@
+{"index": 285692, "D": "occurring every seven years.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 37382, "D": "a member of the old nobility of Russia, before Peter the Great made rank dependent on state service.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 99835, "D": "living embedded in the surface of rocks, as certain lichens.", "S": [], "A": []}

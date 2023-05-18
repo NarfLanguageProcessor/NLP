@@ -1,0 +1,1 @@
+{"index": 64455, "D": "a feeling of deep sympathy and sorrow for another who is stricken by misfortune, accompanied by a strong desire to alleviate the suffering.", "S": ["callous ", "cold-blooded ", "cold-hearted ", "hard ", "hard-boiled ", "hardhearted ", "heartless ", "merciless ", "uncompassionate ", "unemotional ", "unfeeling "], "A": []}

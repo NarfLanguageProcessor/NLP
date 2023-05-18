@@ -1,0 +1,1 @@
+{"index": 177441, "D": "Compare officinal (def. 1). ", "S": [], "A": []}

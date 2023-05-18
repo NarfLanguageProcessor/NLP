@@ -1,0 +1,1 @@
+{"index": 39276, "D": "a container, case, or receptacle, usually rectangular, of wood, metal, cardboard, etc., and often with a lid or removable cover.", "S": ["crated ", "spared "], "A": []}

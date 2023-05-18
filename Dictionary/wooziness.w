@@ -1,0 +1,1 @@
+{"index": 367395, "D": "stupidly confused; muddled; befuddled", "S": ["giddiness ", "vertigo "], "A": []}

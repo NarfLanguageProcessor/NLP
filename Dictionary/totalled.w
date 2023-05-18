@@ -1,0 +1,1 @@
+{"index": 326470, "D": "constituting or comprising the whole; entire; whole", "S": ["categorized ", "checked ", "contained ", "counted ", "designated ", "doomed ", "enumerated ", "fated ", "fixed ", "included ", "indicated ", "marked ", "specified ", "told "], "A": ["infinite ", "unlimited ", "unnumbered "]}

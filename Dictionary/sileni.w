@@ -1,0 +1,1 @@
+{"index": 290273, "D": "a forest spirit, sometimes referred to as the oldest of the satyrs and the foster father, teacher, and companion of Dionysus", "S": [], "A": []}

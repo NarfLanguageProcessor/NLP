@@ -1,0 +1,1 @@
+{"index": 189624, "D": "to match  badly or unsuitably.", "S": ["chime ", "clank ", "clash ", "clatter ", "conflict ", "disaccord ", "discord ", "disharmonize ", "jar ", "jingle ", "mismatch ", "rattle ", "vibrate "], "A": ["agree ", "harmonize "]}

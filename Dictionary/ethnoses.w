@@ -1,0 +1,1 @@
+{"index": 105124, "D": "an ethnic group.", "S": [], "A": []}

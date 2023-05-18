@@ -1,0 +1,1 @@
+{"index": 250236, "D": "of, relating to, or constituting preliminary vocational  training.", "S": [], "A": []}

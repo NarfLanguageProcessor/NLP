@@ -1,0 +1,1 @@
+{"index": 25274, "D": "the arc of the horizon measured clockwise from the south point, in astronomy, or from the north point, in navigation, to the point where a vertical circle through a given heavenly body intersects the horizon.", "S": [], "A": []}

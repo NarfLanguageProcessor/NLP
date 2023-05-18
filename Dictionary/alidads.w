@@ -1,0 +1,1 @@
+{"index": 8206, "D": "(in plane-tabling) a straightedge having a telescopic sight or other means of sighting parallel to the straightedge.", "S": [], "A": []}

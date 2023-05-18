@@ -1,0 +1,1 @@
+{"index": 282429, "D": "the solid surface underlying a sea or an ocean.", "S": [], "A": []}

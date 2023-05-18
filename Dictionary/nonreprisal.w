@@ -1,0 +1,1 @@
+{"index": 206736, "D": "(in warfare) retaliation against an enemy, for injuries received, by the infliction of equal or greater injuries.", "S": [], "A": []}

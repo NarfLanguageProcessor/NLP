@@ -1,0 +1,1 @@
+{"index": 211690, "D": "a pipe or passage for conducting smoke, a current of air, or the like, to an uptake or downtake.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 298075, "D": "to bring under the influence or domination of the Soviet Union.", "S": [], "A": []}

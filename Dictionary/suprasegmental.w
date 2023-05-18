@@ -1,0 +1,1 @@
+{"index": 313243, "D": "above, beyond, or in addition to a segment.", "S": [], "A": []}

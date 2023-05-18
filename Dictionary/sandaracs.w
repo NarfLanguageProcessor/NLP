@@ -1,0 +1,1 @@
+{"index": 277714, "D": "a coniferous tree, Tetraclinis articulata (Callitrus quadrivalvis), native to northwestern Africa, yielding a resin and a fragrant, hard, dark-colored wood much used in building.", "S": [], "A": []}

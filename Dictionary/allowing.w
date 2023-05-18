@@ -1,0 +1,1 @@
+{"index": 9018, "D": "to give permission to or for; permit", "S": ["benign ", "compassionate ", "compliant ", "forgiving ", "indulgent ", "sympathetic ", "tolerant "], "A": ["hateful ", "merciless "]}

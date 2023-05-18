@@ -1,0 +1,1 @@
+{"index": 162558, "D": "of or relating to Justinian I  or the Byzantine dynasty (a.d. 518\u2013610) named after him.", "S": [], "A": []}

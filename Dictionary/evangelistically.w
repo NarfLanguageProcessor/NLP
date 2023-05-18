@@ -1,0 +1,1 @@
+{"index": 106010, "D": "pertaining to evangelists  or to preachers of the gospel.", "S": [], "A": []}

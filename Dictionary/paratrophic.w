@@ -1,0 +1,1 @@
+{"index": 226203, "D": "obtaining nourishment from living organic matter; parasitic.", "S": ["aspiratory ", "suctorial "], "A": []}

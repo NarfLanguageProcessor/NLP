@@ -1,0 +1,1 @@
+{"index": 48122, "D": "an automobile.", "S": [], "A": []}

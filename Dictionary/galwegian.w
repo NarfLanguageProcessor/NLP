@@ -1,0 +1,1 @@
+{"index": 121590, "D": "of or relating to the region of Galloway,  Scotland.", "S": [], "A": []}

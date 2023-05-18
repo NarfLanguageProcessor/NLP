@@ -1,0 +1,1 @@
+{"index": 150904, "D": "to be a sign of; betoken; evidence; show", "S": ["designated ", "determined ", "marked ", "recorded ", "registered "], "A": []}

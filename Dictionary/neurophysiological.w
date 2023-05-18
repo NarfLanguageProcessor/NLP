@@ -1,0 +1,1 @@
+{"index": 199180, "D": "the branch of physiology  dealing with the functions of the nervous system.", "S": [], "A": []}

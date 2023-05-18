@@ -1,0 +1,1 @@
+{"index": 59527, "D": "simple past tense of cleave1. ", "S": ["hew ", "sunder "], "A": ["close ", "combine ", "connect ", "join ", "marry ", "mend ", "sew ", "unite "]}

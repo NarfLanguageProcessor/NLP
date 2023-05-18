@@ -1,0 +1,1 @@
+{"index": 272248, "D": "the surgical section or cutting of the spinal nerve roots, usually posterior or sensory roots, to eliminate pain.", "S": [], "A": []}

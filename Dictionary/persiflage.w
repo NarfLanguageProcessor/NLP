@@ -1,0 +1,1 @@
+{"index": 231921, "D": "light, bantering talk or writing.", "S": ["banter ", "frivolity ", "mockery "], "A": ["seriousness "]}

@@ -1,0 +1,1 @@
+{"index": 63512, "D": "pertaining to America or the United States.", "S": [], "A": []}

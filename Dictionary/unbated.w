@@ -1,0 +1,1 @@
+{"index": 335647, "D": "not abated; undiminished; unlessened.", "S": [], "A": []}

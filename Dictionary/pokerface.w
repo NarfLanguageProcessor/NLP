@@ -1,0 +1,1 @@
+{"index": 241419, "D": [], "S": ["deadpan ", "deadpan expression ", "impassivity ", "inscrutability ", "mask ", "seriousness ", "straight face "], "A": []}

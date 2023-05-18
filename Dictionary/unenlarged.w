@@ -1,0 +1,1 @@
+{"index": 341306, "D": "to make larger;  increase in extent, bulk, or quantity; add to", "S": ["hidebound ", "parochial ", "petty "], "A": ["broad-minded ", "tolerant ", "unbiased "]}

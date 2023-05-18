@@ -1,0 +1,1 @@
+{"index": 149418, "D": "not transferable to another or not capable of being taken away or denied; not alienable", "S": ["basic ", "entailed ", "inbred ", "inviolable ", "natural ", "nonnegotiable ", "nontransferable ", "sacrosanct ", "unassailable ", "untransferable "], "A": ["acquired ", "changeable ", "impermanent ", "transitory "]}

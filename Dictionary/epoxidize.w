@@ -1,0 +1,1 @@
+{"index": 103115, "D": "to change (a chemical compound) into an epoxide. ", "S": [], "A": []}

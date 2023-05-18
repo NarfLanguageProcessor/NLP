@@ -1,0 +1,1 @@
+{"index": 249472, "D": "(in the Soviet Union and other Communist countries) an administrative committee, usually permanent and governmental, acting when its parent body is in recess but exercising full powers", "S": ["board ", "bureau ", "cabinet ", "committee ", "department ", "executive ", "legislature ", "management ", "ministry ", "presidency "], "A": []}

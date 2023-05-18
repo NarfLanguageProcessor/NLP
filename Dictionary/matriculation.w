@@ -1,0 +1,1 @@
+{"index": 181239, "D": "the process of matriculating", "S": ["acceptance ", "admission ", "enrollment ", "entry "], "A": ["refusal "]}

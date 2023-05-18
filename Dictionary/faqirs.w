@@ -1,0 +1,1 @@
+{"index": 109836, "D": "a Muslim or Hindu religious ascetic or mendicant monk commonly considered a wonder-worker.", "S": [], "A": []}

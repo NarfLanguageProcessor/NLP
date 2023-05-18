@@ -1,0 +1,1 @@
+{"index": 107756, "D": "a person who has special skill or knowledge in some particular field; specialist; authority", "S": ["ably ", "adroitly ", "aptly ", "deftly ", "handily ", "ingeniously ", "neatly ", "nimbly ", "skillfully ", "smoothly "], "A": ["awkwardly ", "clumsily ", "unskillfully "]}

@@ -1,0 +1,1 @@
+{"index": 59029, "D": "the annual shedding of twigs or branches instead of leaves, as in certain cypresses.", "S": [], "A": []}

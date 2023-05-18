@@ -1,0 +1,1 @@
+{"index": 22428, "D": "loss of coordination of the muscles, especially of the extremities.", "S": [], "A": []}

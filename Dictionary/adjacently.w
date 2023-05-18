@@ -1,0 +1,1 @@
+{"index": 3991, "D": "lying near, close, or contiguous; adjoining; neighboring", "S": [], "A": []}

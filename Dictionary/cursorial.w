@@ -1,0 +1,1 @@
+{"index": 75473, "D": "adapted for running, as the feet and skeleton of dogs, horses, etc.", "S": [], "A": []}

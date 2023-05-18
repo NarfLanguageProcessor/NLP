@@ -1,0 +1,1 @@
+{"index": 17678, "D": "of or relating to the vermiform appendix.", "S": [], "A": []}

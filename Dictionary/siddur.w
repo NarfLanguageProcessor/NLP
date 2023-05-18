@@ -1,0 +1,1 @@
+{"index": 289718, "D": "a Jewish prayer book designed for use chiefly on days other than festivals and holy days; a daily prayer book.", "S": [], "A": []}

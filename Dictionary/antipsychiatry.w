@@ -1,0 +1,1 @@
+{"index": 15981, "D": "an approach to mental disorders that makes use of concepts derived from existentialism, psychoanalysis, and sociological theory", "S": [], "A": []}

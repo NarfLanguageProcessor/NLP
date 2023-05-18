@@ -1,0 +1,1 @@
+{"index": 16440, "D": "having antlers. ", "S": [], "A": []}

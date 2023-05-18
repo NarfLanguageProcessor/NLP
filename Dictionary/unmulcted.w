@@ -1,0 +1,1 @@
+{"index": 346661, "D": "to deprive (someone) of something, as by fraud, extortion, etc.; swindle.", "S": [], "A": []}

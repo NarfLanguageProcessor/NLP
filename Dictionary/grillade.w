@@ -1,0 +1,1 @@
+{"index": 129857, "D": "a dish or serving of broiled or grilled meat.", "S": [], "A": []}

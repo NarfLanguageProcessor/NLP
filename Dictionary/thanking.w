@@ -1,0 +1,1 @@
+{"index": 320611, "D": "to express gratitude, appreciation, or acknowledgment to", "S": ["appreciating "], "A": ["critical ", "disparaging "]}

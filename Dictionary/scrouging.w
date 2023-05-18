@@ -1,0 +1,1 @@
+{"index": 282006, "D": "to squeeze; crowd.", "S": [], "A": []}

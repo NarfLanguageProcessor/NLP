@@ -1,0 +1,1 @@
+{"index": 205173, "D": "inclined or disposed to war; warlike", "S": [], "A": []}

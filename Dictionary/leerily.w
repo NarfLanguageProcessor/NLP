@@ -1,0 +1,1 @@
+{"index": 169951, "D": "wary; suspicious (usually followed by of)", "S": [], "A": []}

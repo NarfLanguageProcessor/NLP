@@ -1,0 +1,1 @@
+{"index": 208182, "D": "the quality of being subject to change, especially frequent, random, or short-term change", "S": [], "A": []}

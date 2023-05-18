@@ -1,0 +1,1 @@
+{"index": 298109, "D": "to scatter (seed) over land, earth, etc., for growth; plant. ", "S": ["bestrewn ", "broadcast ", "cast ", "dispersed ", "disseminated ", "distributed ", "planted ", "spread ", "strewn "], "A": []}

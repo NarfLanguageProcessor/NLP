@@ -1,0 +1,1 @@
+{"index": 16814, "D": "a type of aphasia characterized by the inability to express ideas in spoken words.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 307085, "D": "a provincial governor of the Mogul empire.", "S": [], "A": []}

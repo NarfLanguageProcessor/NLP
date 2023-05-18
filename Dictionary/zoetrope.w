@@ -1,0 +1,1 @@
+{"index": 369631, "D": "a device for giving an illusion of motion, consisting of a slitted drum that, when whirled, shows a succession of images placed opposite the slits within the drum as one moving image.", "S": [], "A": []}

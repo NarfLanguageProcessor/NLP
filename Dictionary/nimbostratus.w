@@ -1,0 +1,1 @@
+{"index": 200099, "D": "a cloud of a class characterized by a formless layer that is almost uniformly dark gray; a rain cloud of the layer type, of low altitude, usually below 8,000 feet (2,440 meters).", "S": [], "A": []}

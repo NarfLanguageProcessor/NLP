@@ -1,0 +1,1 @@
+{"index": 274575, "D": "furnished with a rostrum.", "S": [], "A": []}

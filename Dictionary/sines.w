@@ -1,0 +1,1 @@
+{"index": 291637, "D": "(of an angle) a trigonometric function equal to the ratio of the ordinate of the end point of the arc to the radius vector of this end point, the origin being at the center of the circle on which the arc lies and the initial point of the arc being on the x-axis. Abbreviation", "S": [], "A": []}

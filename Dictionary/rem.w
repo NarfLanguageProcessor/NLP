@@ -1,0 +1,1 @@
+{"index": 267075, "D": "the quantity of ionizing radiation whose biological effect is equal to that produced by one roentgen of x-rays.", "S": [], "A": []}

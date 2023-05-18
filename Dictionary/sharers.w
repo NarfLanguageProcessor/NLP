@@ -1,0 +1,1 @@
+{"index": 287503, "D": "the full or proper portion or part allotted or belonging to or contributed or owed by an individual or group.", "S": ["caller ", "client ", "companion ", "customer ", "inmate ", "patron ", "recipient ", "tenant ", "vacationer ", "visitor "], "A": ["enemy ", "manager ", "opponent ", "owner "]}

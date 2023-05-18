@@ -1,0 +1,1 @@
+{"index": 66908, "D": "a person or thing that consolidates", "S": [], "A": []}

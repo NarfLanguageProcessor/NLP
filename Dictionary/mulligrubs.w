@@ -1,0 +1,1 @@
+{"index": 194953, "D": "ill temper; grumpiness.", "S": ["blahs ", "blue Johnnies ", "blues ", "d.t.'s ", "delirium tremens ", "despair ", "despondency ", "dumps ", "funk ", "gloom ", "low spirits ", "melancholy ", "mopes ", "mubblefubbles ", "pink elephants ", "unhappiness "], "A": []}

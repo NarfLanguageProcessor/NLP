@@ -1,0 +1,1 @@
+{"index": 80282, "D": "to mislead the mind or judgment of; deceive", "S": ["dupe ", "hoodwink ", "misguide ", "mislead "], "A": []}

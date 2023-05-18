@@ -1,0 +1,1 @@
+{"index": 281671, "D": "to utter a loud, sharp, piercing cry.", "S": ["blare ", "holler ", "howl ", "roar ", "screech ", "shout ", "shriek ", "squeal ", "wail ", "yell "], "A": ["whimper "]}

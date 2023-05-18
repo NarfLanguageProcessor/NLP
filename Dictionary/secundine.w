@@ -1,0 +1,1 @@
+{"index": 282917, "D": "the inner integument of an ovule.", "S": [], "A": []}

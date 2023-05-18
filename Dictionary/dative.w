@@ -1,0 +1,1 @@
+{"index": 77196, "D": "(in certain inflected languages, as Latin, Greek, and German) noting a case having as a distinctive function indication of the indirect object of a verb or the object of certain prepositions.", "S": [], "A": []}

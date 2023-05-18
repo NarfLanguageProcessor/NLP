@@ -1,0 +1,1 @@
+{"index": 287290, "D": "2nd person singular of shall. ", "S": [], "A": []}

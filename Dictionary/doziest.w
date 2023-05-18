@@ -1,0 +1,1 @@
+{"index": 92415, "D": "drowsy; half asleep.", "S": ["drowsy ", "lethargic ", "listless ", "quiet ", "sluggish "], "A": ["active ", "alert ", "energetic ", "lively "]}

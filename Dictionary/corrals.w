@@ -1,0 +1,1 @@
+{"index": 69592, "D": "an enclosure or pen for horses, cattle, etc.", "S": ["paddock "], "A": []}

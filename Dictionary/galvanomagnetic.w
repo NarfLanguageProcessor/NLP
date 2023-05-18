@@ -1,0 +1,1 @@
+{"index": 121560, "D": "of or relating to the creation of an electromagnetic field within a conductor, as a metal, or a semiconductor through which an electric current is passed.", "S": [], "A": []}

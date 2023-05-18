@@ -1,0 +1,1 @@
+{"index": 88503, "D": "to scatter; disperse.", "S": ["advertise ", "circulate ", "disperse ", "propagate ", "publicize ", "publish "], "A": ["conceal ", "hide ", "collect ", "gather "]}

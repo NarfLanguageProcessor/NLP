@@ -1,0 +1,1 @@
+{"index": 197390, "D": "nothing. ", "S": ["annihilation ", "aught ", "blank ", "cipher ", "extinction ", "fly speck ", "insignificancy ", "naught ", "nihility ", "nobody ", "nonbeing ", "nonentity ", "not anything ", "nought ", "nullity ", "obliteration ", "oblivion ", "shutout ", "trifle ", "void ", "wind ", "zero ", "zilch ", "zip "], "A": ["capacity ", "fullness "]}

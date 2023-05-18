@@ -1,0 +1,1 @@
+{"index": 222522, "D": "the reaction of ozone with hydrocarbons.", "S": [], "A": []}

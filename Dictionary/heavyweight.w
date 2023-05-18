@@ -1,0 +1,1 @@
+{"index": 135033, "D": "heavy  in weight. ", "S": ["fat ", "gross ", "large "], "A": ["skinny ", "slender ", "thin "]}

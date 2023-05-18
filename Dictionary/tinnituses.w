@@ -1,0 +1,1 @@
+{"index": 324065, "D": "a ringing or similar sensation of sound in the ears.", "S": [], "A": []}

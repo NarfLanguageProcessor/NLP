@@ -1,0 +1,1 @@
+{"index": 110237, "D": "a person who believes that all events are inevitable, so one\u2019s choices and actions make no difference", "S": [], "A": []}

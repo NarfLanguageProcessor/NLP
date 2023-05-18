@@ -1,0 +1,1 @@
+{"index": 55356, "D": "tending to choke", "S": ["tight "], "A": ["cool ", "dry "]}

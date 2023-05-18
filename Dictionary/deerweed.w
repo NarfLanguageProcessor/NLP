@@ -1,0 +1,1 @@
+{"index": 79043, "D": "any of several shrubby Californian plants belonging to the genus Lotus, of the legume family, especially L. scoparious, having pinnate leaves and clusters of yellow flowers.", "S": [], "A": []}

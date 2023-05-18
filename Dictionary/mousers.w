@@ -1,0 +1,1 @@
+{"index": 194297, "D": "an animal that catches mice", "S": ["kitten ", "kitty ", "tabby "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 237858, "D": "a compulsion to set things on fire.", "S": ["torching "], "A": []}

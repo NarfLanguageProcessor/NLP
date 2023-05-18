@@ -1,0 +1,1 @@
+{"index": 35742, "D": "a ragout of lamb, veal, or chicken, prepared in a velout\u00e9 sauce, usually garnished with croutons or small onions and mushrooms.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 330447, "D": "one of the former Barbary States of N Africa", "S": [], "A": []}

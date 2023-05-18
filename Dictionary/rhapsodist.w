@@ -1,0 +1,1 @@
+{"index": 271812, "D": "a person who rhapsodizes.", "S": ["balladeer ", "minstrel ", "poet ", "versifier "], "A": []}

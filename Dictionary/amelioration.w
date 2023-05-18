@@ -1,0 +1,1 @@
+{"index": 10227, "D": "an act or instance of ameliorating  or making better; the state of being ameliorated  or made better", "S": ["advance ", "advancement ", "betterment ", "enrichment ", "melioration ", "progress ", "refinement ", "reform ", "revision ", "upgrade "], "A": ["decline ", "deterioration ", "halt ", "retreat ", "retrogression ", "stop "]}

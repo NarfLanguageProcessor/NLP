@@ -1,0 +1,1 @@
+{"index": 184207, "D": "having a skull with a cranial index between that of dolichocranic and brachycranic skulls.", "S": [], "A": []}

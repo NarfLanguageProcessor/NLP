@@ -1,0 +1,1 @@
+{"index": 345167, "D": "having ragged notches, points, or teeth; zigzag", "S": [], "A": []}

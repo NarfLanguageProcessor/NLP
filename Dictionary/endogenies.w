@@ -1,0 +1,1 @@
+{"index": 99816, "D": "development or growth from within.", "S": [], "A": []}

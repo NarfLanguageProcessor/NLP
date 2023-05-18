@@ -1,0 +1,1 @@
+{"index": 361417, "D": "offered, given, dedicated, etc., in accordance with a vow", "S": [], "A": []}

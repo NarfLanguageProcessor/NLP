@@ -1,0 +1,1 @@
+{"index": 363774, "D": "a period of seven successive days", "S": ["age ", "date ", "day ", "era ", "future ", "generation ", "hour ", "life ", "moment ", "month ", "occasion ", "pace ", "past ", "point ", "present ", "season ", "second ", "space ", "stage ", "term ", "turn ", "while ", "year "], "A": ["future ", "past ", "ending "]}

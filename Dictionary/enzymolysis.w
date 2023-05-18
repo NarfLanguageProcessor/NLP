@@ -1,0 +1,1 @@
+{"index": 101908, "D": "the decomposition of a chemical compound catalyzed by the presence of an enzyme. ", "S": [], "A": []}

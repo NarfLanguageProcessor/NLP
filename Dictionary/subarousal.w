@@ -1,0 +1,1 @@
+{"index": 307227, "D": "the act or an instance of waking up", "S": [], "A": []}

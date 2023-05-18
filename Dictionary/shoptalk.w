@@ -1,0 +1,1 @@
+{"index": 288850, "D": "the specialized vocabulary having to do with work or a field of work", "S": ["argot ", "idiom ", "lingo ", "parlance ", "patois ", "slang ", "vernacular ", "vocabulary "], "A": ["standard ", "quiet ", "sense ", "silence "]}

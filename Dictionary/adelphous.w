@@ -1,0 +1,1 @@
+{"index": 3665, "D": "a combining form meaning \u201chaving stamens growing together in bundles,\u201d of the number specified by the initial element", "S": [], "A": []}

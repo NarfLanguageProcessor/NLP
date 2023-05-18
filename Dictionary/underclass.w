@@ -1,0 +1,1 @@
+{"index": 338986, "D": "a social stratum consisting of impoverished persons with very low social status.", "S": [], "A": []}

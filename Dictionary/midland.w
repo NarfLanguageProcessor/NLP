@@ -1,0 +1,1 @@
+{"index": 186759, "D": "the middle or interior part of a country.", "S": ["back-country ", "backland ", "boondocks ", "central ", "heartland ", "hinterland ", "inward ", "provincial ", "upcountry "], "A": ["border ", "coastal ", "frontier "]}

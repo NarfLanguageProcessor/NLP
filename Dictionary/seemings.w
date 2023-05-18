@@ -1,0 +1,1 @@
+{"index": 283137, "D": "apparent; appearing, whether truly or falsely, to be as specified", "S": ["demeanor ", "expression ", "face ", "fashion ", "manner ", "presence "], "A": ["disregard ", "ignorance "]}

@@ -1,0 +1,1 @@
+{"index": 353119, "D": "of or relating to the topography or surface features of a relatively small area or locality; showing or describing these features", "S": [], "A": []}

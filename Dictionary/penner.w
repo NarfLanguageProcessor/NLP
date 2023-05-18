@@ -1,0 +1,1 @@
+{"index": 229732, "D": "any of various instruments for writing or drawing with ink or a similar substance.", "S": [], "A": []}

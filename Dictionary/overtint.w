@@ -1,0 +1,1 @@
+{"index": 221619, "D": "a color or a variety of a color; hue.", "S": [], "A": []}

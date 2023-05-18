@@ -1,0 +1,1 @@
+{"index": 366513, "D": "any climbing shrub belonging to the genus Wisteria, of the legume family, having showy, pendent clusters of blue-violet, white, purple, or rose flowers.", "S": [], "A": []}

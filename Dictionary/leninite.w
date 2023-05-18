@@ -1,0 +1,1 @@
+{"index": 170443, "D": "of or relating to Lenin  or to Leninism.", "S": [], "A": []}

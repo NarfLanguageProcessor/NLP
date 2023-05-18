@@ -1,0 +1,1 @@
+{"index": 63384, "D": "an ancient amphitheater in Rome, begun a.d. c70 by Vespasian, having the form of an oval 617 by 512 feet (188 by 156 meters).", "S": [], "A": []}

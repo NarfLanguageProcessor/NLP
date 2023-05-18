@@ -1,0 +1,1 @@
+{"index": 271549, "D": "a revolution  (in an engine or the like).", "S": ["appoint ", "come up with ", "create ", "enact ", "establish ", "inaugurate ", "initiate ", "install ", "introduce ", "launch ", "organize ", "set up "], "A": ["close ", "conclude ", "destroy ", "end ", "finish ", "refuse ", "ruin ", "stop ", "complete ", "ignore ", "unsettle "]}

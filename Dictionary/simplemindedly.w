@@ -1,0 +1,1 @@
+{"index": 291056, "D": "free of deceit or guile; artless or unsophisticated.", "S": [], "A": []}

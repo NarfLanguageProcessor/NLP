@@ -1,0 +1,1 @@
+{"index": 151652, "D": [], "S": ["aplomb ", "dignity ", "equanimity ", "equilibrium ", "fortitude ", "poise ", "self-assurance ", "self-control ", "serenity ", "sobriety "], "A": ["agitation ", "disagreement ", "disproportion ", "disturbance ", "imbalance ", "instability ", "loudness ", "noise ", "turbulence ", "violence ", "wildness "]}

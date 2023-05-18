@@ -1,0 +1,1 @@
+{"index": 162582, "D": "a peninsula comprising the continental portion of Denmark", "S": [], "A": []}

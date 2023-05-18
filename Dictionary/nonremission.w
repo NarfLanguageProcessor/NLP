@@ -1,0 +1,1 @@
+{"index": 206671, "D": "the act of remitting.", "S": [], "A": []}

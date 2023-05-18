@@ -1,0 +1,1 @@
+{"index": 229640, "D": "a holder  in which a penpoint is placed.", "S": [], "A": []}

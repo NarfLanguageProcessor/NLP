@@ -1,0 +1,1 @@
+{"index": 36784, "D": "a woman with considerable scholarly, literary, or intellectual ability or interest.", "S": [], "A": []}

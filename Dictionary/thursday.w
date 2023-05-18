@@ -1,0 +1,1 @@
+{"index": 323087, "D": "the fifth day of the week, following Wednesday. Abbreviations", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 233620, "D": "a friend or supporter of the Greeks.", "S": [], "A": []}

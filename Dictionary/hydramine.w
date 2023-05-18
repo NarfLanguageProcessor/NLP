@@ -1,0 +1,1 @@
+{"index": 138413, "D": "an amine derived from a glycol in which one hydroxyl is replaced by an amino group.", "S": [], "A": []}

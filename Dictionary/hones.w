@@ -1,0 +1,1 @@
+{"index": 143388, "D": "to make more acute or effective; improve; perfect", "S": ["whet "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 210811, "D": "a type of simple eye common to invertebrates, consisting of retinal cells, pigments, and nerve fibers.", "S": [], "A": []}

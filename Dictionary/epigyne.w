@@ -1,0 +1,1 @@
+{"index": 102447, "D": "the chitinous plate in arachnids that covers the opening to the female genital tract.", "S": [], "A": []}

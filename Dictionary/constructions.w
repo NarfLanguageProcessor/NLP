@@ -1,0 +1,1 @@
+{"index": 67111, "D": "the act or art of constructing.", "S": ["development ", "manufacture ", "plan ", "planning ", "structure ", "system "], "A": ["disarrangement ", "truth "]}

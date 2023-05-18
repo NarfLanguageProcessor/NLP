@@ -1,0 +1,1 @@
+{"index": 280280, "D": "a schizophrenic  or schizoid  person.", "S": [], "A": []}

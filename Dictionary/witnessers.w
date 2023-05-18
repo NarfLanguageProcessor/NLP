@@ -1,0 +1,1 @@
+{"index": 366709, "D": "to see, hear, or know by personal presence and perception", "S": [], "A": []}

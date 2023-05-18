@@ -1,0 +1,1 @@
+{"index": 94403, "D": "an alloy of aluminum that is 4 percent copper and contains small amounts of magnesium, manganese, iron, and silicon", "S": [], "A": []}

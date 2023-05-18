@@ -1,0 +1,1 @@
+{"index": 289953, "D": "either of two large rare arboreal lemuroid primates, Propithecus diadema or P. verreauxi, of Madagascar, having long strikingly patterned or coloured fur", "S": [], "A": []}

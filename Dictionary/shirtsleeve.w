@@ -1,0 +1,1 @@
+{"index": 288531, "D": "not wearing a jacket; informally dressed", "S": [], "A": []}

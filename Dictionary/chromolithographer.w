@@ -1,0 +1,1 @@
+{"index": 56330, "D": "the process of lithographing in colors from a series of plates or stones.", "S": [], "A": []}

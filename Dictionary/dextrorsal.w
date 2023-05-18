@@ -1,0 +1,1 @@
+{"index": 83844, "D": "(of a climbing plant) rising helically from right to left, as seen from outside the helix (opposed to sinistrorse).", "S": [], "A": []}

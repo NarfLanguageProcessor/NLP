@@ -1,0 +1,1 @@
+{"index": 205860, "D": "in a way or to a degree that is full of grave risk or peril;  dangerously", "S": [], "A": []}

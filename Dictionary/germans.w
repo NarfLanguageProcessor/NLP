@@ -1,0 +1,1 @@
+{"index": 124221, "D": "having the same father and mother, as a full brother or sister (usually used in combination)", "S": [], "A": []}

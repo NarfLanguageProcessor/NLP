@@ -1,0 +1,1 @@
+{"index": 243192, "D": "British derogatory, slang a variant of poof", "S": [], "A": []}

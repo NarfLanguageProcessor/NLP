@@ -1,0 +1,1 @@
+{"index": 130150, "D": "a coarse fabric of silk, of silk and mohair or wool, or of wool, formerly in use.", "S": [], "A": []}

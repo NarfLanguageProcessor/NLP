@@ -1,0 +1,1 @@
+{"index": 148514, "D": "noting an aspect of the verb, as in Russian, that indicates incompleteness of the action or state at a temporal point of reference.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 41434, "D": "a person who breaks broncos  to the saddle.", "S": [], "A": []}

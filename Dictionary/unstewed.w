@@ -1,0 +1,1 @@
+{"index": 352023, "D": "cooked by simmering or slow boiling, as food.", "S": [], "A": []}

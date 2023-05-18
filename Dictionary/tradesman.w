@@ -1,0 +1,1 @@
+{"index": 327255, "D": "a person engaged in trade. ", "S": ["banker ", "bursar ", "businessperson ", "chandler ", "changer ", "dispenser ", "marketer ", "merchandiser ", "merchant ", "retailer ", "speculator ", "trader ", "trafficker ", "vendor ", "wholesaler "], "A": ["customer "]}

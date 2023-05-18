@@ -1,0 +1,1 @@
+{"index": 147916, "D": "a maneuver in which an airplane makes a half loop, then resumes its normal, level position by making a half roll", "S": [], "A": []}

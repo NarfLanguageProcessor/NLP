@@ -1,0 +1,1 @@
+{"index": 359315, "D": "of or relating to an infection by a bacterium of the genus Vibrio.", "S": [], "A": []}

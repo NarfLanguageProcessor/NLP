@@ -1,0 +1,1 @@
+{"index": 315697, "D": "a person who tallies  or keeps account of something.", "S": [], "A": []}

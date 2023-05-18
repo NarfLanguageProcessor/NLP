@@ -1,0 +1,1 @@
+{"index": 330421, "D": "having a chromosome number that is three times the basic or haploid number.", "S": [], "A": []}

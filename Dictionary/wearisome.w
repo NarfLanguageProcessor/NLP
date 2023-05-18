@@ -1,0 +1,1 @@
+{"index": 363566, "D": "causing weariness; fatiguing", "S": ["exhausting ", "fatiguing ", "laborious ", "strenuous ", "toilsome "], "A": ["refreshing "]}

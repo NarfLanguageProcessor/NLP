@@ -1,0 +1,1 @@
+{"index": 139286, "D": "a game of poker in which both high and low hands are eligible to win, the pot usually being split equally between the player with the highest hand and the player with the lowest hand.", "S": [], "A": []}

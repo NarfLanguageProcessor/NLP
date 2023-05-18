@@ -1,0 +1,1 @@
+{"index": 22379, "D": "a brand of quinacrine. ", "S": [], "A": []}

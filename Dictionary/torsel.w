@@ -1,0 +1,1 @@
+{"index": 326276, "D": "a beam or slab of wood, stone, iron, etc., laid on a masonry wall to receive and distribute the weight from one end of a beam.", "S": [], "A": []}

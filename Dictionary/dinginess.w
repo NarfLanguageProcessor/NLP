@@ -1,0 +1,1 @@
+{"index": 86119, "D": "of a dark, dull, or dirty color or aspect; lacking brightness or freshness.", "S": ["blandness ", "boringness ", "colorlessness ", "dowdiness ", "dreariness ", "dryness ", "flatness ", "flavorlessness ", "gloominess ", "insipidity ", "insipidness ", "jejuneness ", "lifelessness ", "stodginess ", "vapidity ", "vapidness "], "A": []}

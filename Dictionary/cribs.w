@@ -1,0 +1,1 @@
+{"index": 72891, "D": "a child's bed with enclosed sides.", "S": ["bunk ", "cot ", "rack "], "A": []}

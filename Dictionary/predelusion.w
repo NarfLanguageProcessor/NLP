@@ -1,0 +1,1 @@
+{"index": 246767, "D": "an act or instance of deluding. ", "S": [], "A": []}

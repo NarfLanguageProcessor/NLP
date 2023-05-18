@@ -1,0 +1,1 @@
+{"index": 29167, "D": "wearisome repetition of words in speaking or writing.", "S": [], "A": []}

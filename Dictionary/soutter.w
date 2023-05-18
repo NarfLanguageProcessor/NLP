@@ -1,0 +1,1 @@
+{"index": 298045, "D": "a person who makes or repairs shoes; cobbler; shoemaker.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 95437, "D": "a surgical device consisting of a heavy wire loop placed around a part to be removed and tightened until it cuts through", "S": [], "A": []}

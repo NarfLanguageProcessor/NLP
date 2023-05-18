@@ -1,0 +1,1 @@
+{"index": 158322, "D": "incapable of being repealed  or revoked.", "S": [], "A": []}

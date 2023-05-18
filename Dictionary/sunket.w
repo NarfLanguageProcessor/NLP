@@ -1,0 +1,1 @@
+{"index": 311139, "D": "something, especially something to eat.", "S": [], "A": []}

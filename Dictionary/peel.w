@@ -1,0 +1,1 @@
+{"index": 229031, "D": "to strip (something) of its skin, rind, bark, etc.", "S": ["bark ", "cover ", "epicarp ", "exocarp ", "husk ", "peeling ", "pellicle ", "rind ", "shell ", "shuck "], "A": ["innards ", "insides "]}

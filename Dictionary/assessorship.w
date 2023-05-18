@@ -1,0 +1,1 @@
+{"index": 21728, "D": "a person who makes assessments, especially for purposes of taxation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 322525, "D": "a person or thing that thrashes. ", "S": [], "A": []}

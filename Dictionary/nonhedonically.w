@@ -1,0 +1,1 @@
+{"index": 204406, "D": "of, characterizing, or pertaining to pleasure", "S": [], "A": []}

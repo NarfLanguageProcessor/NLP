@@ -1,0 +1,1 @@
+{"index": 116743, "D": "to judge  beforehand; prejudge.", "S": ["decide ", "presume "], "A": []}

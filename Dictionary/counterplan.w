@@ -1,0 +1,1 @@
+{"index": 70967, "D": "an opposing plan. ", "S": [], "A": []}

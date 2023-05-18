@@ -1,0 +1,1 @@
+{"index": 146746, "D": "of, containing, or resembling yeast. ", "S": ["ebulliency ", "effusiveness ", "exuberance "], "A": ["dullness "]}

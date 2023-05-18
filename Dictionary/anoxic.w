@@ -1,0 +1,1 @@
+{"index": 13928, "D": "containing no oxygen; anaerobic", "S": [], "A": []}

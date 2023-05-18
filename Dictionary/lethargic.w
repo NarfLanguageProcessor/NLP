@@ -1,0 +1,1 @@
+{"index": 170890, "D": "of, relating to, or affected with lethargy;  drowsy; sluggish; apathetic.", "S": ["apathetic ", "dull ", "lackadaisical ", "laid-back ", "languid ", "listless ", "passive ", "sleepy "], "A": ["active ", "alert ", "animated ", "caring ", "energetic ", "lively ", "vivacious "]}

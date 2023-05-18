@@ -1,0 +1,1 @@
+{"index": 59292, "D": "the red table wine produced in the Bordeaux region of France", "S": ["cardinal ", "coral ", "crimson ", "flaming ", "glowing ", "maroon ", "rose ", "wine "], "A": []}

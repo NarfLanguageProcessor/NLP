@@ -1,0 +1,1 @@
+{"index": 62780, "D": "any bacteriophage that specifically infects the Escherichia coli bacterium.", "S": [], "A": []}

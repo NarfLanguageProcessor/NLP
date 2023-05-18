@@ -1,0 +1,1 @@
+{"index": 62683, "D": "the removal of all or part of the colon or large intestine.", "S": [], "A": []}

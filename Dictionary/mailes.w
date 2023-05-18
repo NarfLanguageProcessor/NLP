@@ -1,0 +1,1 @@
+{"index": 177849, "D": "a vine, Alyxia olivaeformis, of Hawaii, having small yellowish flowers and fragrant foliage", "S": [], "A": []}

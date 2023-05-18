@@ -1,0 +1,1 @@
+{"index": 134739, "D": "(of river erosion) cutting backwards or upstream above the original source, which recedes", "S": [], "A": []}

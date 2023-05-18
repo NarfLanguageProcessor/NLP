@@ -1,0 +1,1 @@
+{"index": 229678, "D": "a place for imprisonment, reformatory discipline, or punishment, especially a prison maintained in the U.S. by a state or the federal government for serious offenders.", "S": ["lockup ", "prison "], "A": []}

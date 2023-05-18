@@ -1,0 +1,1 @@
+{"index": 277116, "D": "a sortie of troops from a besieged place upon an enemy.", "S": ["escapade ", "excursion ", "frolic ", "jaunt ", "journey ", "outing ", "sortie ", "trip "], "A": []}

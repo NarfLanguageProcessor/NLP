@@ -1,0 +1,1 @@
+{"index": 205490, "D": "total rejection of established laws and institutions.", "S": [], "A": []}

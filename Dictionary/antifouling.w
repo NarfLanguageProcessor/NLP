@@ -1,0 +1,1 @@
+{"index": 15279, "D": "(of a coating, process, or the like) preventing the accumulation of barnacles, algae, etc., on underwater surfaces", "S": [], "A": []}

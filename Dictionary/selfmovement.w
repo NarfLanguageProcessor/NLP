@@ -1,0 +1,1 @@
+{"index": 283548, "D": "capable of moving without an external agency.", "S": [], "A": []}

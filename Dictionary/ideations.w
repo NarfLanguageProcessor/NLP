@@ -1,0 +1,1 @@
+{"index": 146347, "D": "the process of forming ideas  or images.", "S": ["meditation ", "reflection "], "A": ["disbelief ", "disdain ", "disregard ", "disrespect ", "heedlessness ", "ignorance ", "neglect ", "negligence ", "thoughtlessness "]}

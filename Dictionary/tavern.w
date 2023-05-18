@@ -1,0 +1,1 @@
+{"index": 317202, "D": "a place where liquors are sold to be consumed on the premises.", "S": ["bar ", "hotel ", "inn ", "lodge ", "lounge ", "pub ", "saloon ", "watering hole "], "A": []}

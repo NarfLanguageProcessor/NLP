@@ -1,0 +1,1 @@
+{"index": 64930, "D": "a high-speed calculating machine", "S": [], "A": []}

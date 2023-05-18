@@ -1,0 +1,1 @@
+{"index": 211202, "D": "a member of a social and benevolent society that originated in England in the 18th century.", "S": ["oddball ", "queer duck ", "rara avis "], "A": []}

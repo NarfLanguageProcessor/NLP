@@ -1,0 +1,1 @@
+{"index": 274785, "D": "rough,  disorderly playing, especially indoors.", "S": ["bash ", "batter ", "beat ", "damage ", "fell ", "flatten ", "hit ", "hurt ", "punch ", "slap ", "smack ", "tap ", "whack "], "A": ["aid ", "assist ", "help ", "lose ", "raise ", "praise ", "protect ", "treat well "]}

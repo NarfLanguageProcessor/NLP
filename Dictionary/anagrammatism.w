@@ -1,0 +1,1 @@
+{"index": 11682, "D": "to transpose into an anagram. ", "S": [], "A": []}

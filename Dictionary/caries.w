@@ -1,0 +1,1 @@
+{"index": 48045, "D": "decay, as of bone or of plant tissue.", "S": ["crater "], "A": ["bulge ", "closure ", "mountain ", "solid "]}

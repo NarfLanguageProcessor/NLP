@@ -1,0 +1,1 @@
+{"index": 301455, "D": "foamy; foamlike; frothy.", "S": [], "A": []}

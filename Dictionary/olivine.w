@@ -1,0 +1,1 @@
+{"index": 212313, "D": "any of a group of magnesium iron silicates, (Mg,Fe)2SiO4, occurring in olive-green to gray-green masses as an important constituent of basic igneous rocks.", "S": [], "A": []}

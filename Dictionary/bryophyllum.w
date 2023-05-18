@@ -1,0 +1,1 @@
+{"index": 40909, "D": "any of various kalanchoes, as Kalanchoe pinnata, that characteristically bear plantlets along the leaf margins.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 99196, "D": "an x-ray of the brain, usually involving replacement of some cerebrospinal fluid by air or other gas that circulates to the brain's ventricular spaces and acts as a contrast medium.", "S": ["Roentgen rays ", "R\u00f6ntgen rays ", "radioactivity "], "A": []}

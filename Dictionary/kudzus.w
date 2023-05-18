@@ -1,0 +1,1 @@
+{"index": 166396, "D": "a fast-growing Chinese and Japanese climbing vine, Pueraria lobata, of the legume family, now widespread in the southern U.S., having tuberous, starchy roots and stems", "S": [], "A": []}

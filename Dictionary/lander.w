@@ -1,0 +1,1 @@
+{"index": 167921, "D": "a space probe designed to land  on a planet or other solid celestial body.", "S": [], "A": []}

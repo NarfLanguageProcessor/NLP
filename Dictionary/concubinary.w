@@ -1,0 +1,1 @@
+{"index": 65470, "D": "of, relating to, or living in concubinage.", "S": [], "A": []}

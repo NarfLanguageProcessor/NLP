@@ -1,0 +1,1 @@
+{"index": 205822, "D": "while awaiting; until", "S": [], "A": []}

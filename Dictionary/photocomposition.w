@@ -1,0 +1,1 @@
+{"index": 235046, "D": "any method of composition  using photography, as composition  by means of a photocomposer.", "S": [], "A": []}

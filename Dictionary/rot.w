@@ -1,0 +1,1 @@
+{"index": 274592, "D": "to undergo decomposition; decay.", "S": ["blight ", "decay ", "decomposition ", "deterioration "], "A": ["development ", "growth ", "improvement "]}

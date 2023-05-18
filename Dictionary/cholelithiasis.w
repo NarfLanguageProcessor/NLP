@@ -1,0 +1,1 @@
+{"index": 55439, "D": "the presence of gallstones.", "S": [], "A": []}

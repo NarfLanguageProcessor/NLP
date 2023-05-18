@@ -1,0 +1,1 @@
+{"index": 338003, "D": "having corners  (usually used in combination)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 92077, "D": "an irregular silk thread reeled from two or more entangled cocoons and producing a coarse yarn generally used in fabrics such as shantung or pongee.", "S": [], "A": []}

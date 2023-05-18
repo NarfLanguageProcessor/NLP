@@ -1,0 +1,1 @@
+{"index": 6206, "D": "to feed or pasture (livestock) for a fee.", "S": [], "A": []}

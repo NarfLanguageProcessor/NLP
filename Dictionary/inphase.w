@@ -1,0 +1,1 @@
+{"index": 153270, "D": "having the same phase.", "S": [], "A": []}

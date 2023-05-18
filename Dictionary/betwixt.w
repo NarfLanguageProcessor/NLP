@@ -1,0 +1,1 @@
+{"index": 32878, "D": "between. ", "S": ["amid ", "amidst ", "among ", "at intervals ", "bounded by ", "centrally located ", "enclosed by ", "halfway ", "in ", "in the middle ", "in the midst of ", "in the seam ", "in the thick of ", "inserted ", "interpolated ", "intervening ", "medially ", "mid ", "midway ", "separating "], "A": []}

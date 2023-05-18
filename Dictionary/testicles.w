@@ -1,0 +1,1 @@
+{"index": 319793, "D": "(not in technical use) the male gonad or reproductive gland, either of two oval glands located in the scrotum.", "S": ["family jewels "], "A": []}

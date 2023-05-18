@@ -1,0 +1,1 @@
+{"index": 204125, "D": "to refrain or abstain from; desist from.", "S": [], "A": []}

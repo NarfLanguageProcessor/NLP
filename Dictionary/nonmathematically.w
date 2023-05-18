@@ -1,0 +1,1 @@
+{"index": 205192, "D": "of, relating to, or of the nature of mathematics", "S": [], "A": []}

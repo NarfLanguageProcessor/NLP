@@ -1,0 +1,1 @@
+{"index": 129816, "D": "to feel grief  or great sorrow", "S": ["disturbed ", "oppressed ", "persecuted ", "wronged "], "A": ["comforted "]}

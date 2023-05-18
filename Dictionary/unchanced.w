@@ -1,0 +1,1 @@
+{"index": 336707, "D": "the absence of any cause of events that can be predicted, understood, or controlled", "S": [], "A": []}

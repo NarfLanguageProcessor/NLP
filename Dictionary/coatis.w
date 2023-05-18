@@ -1,0 +1,1 @@
+{"index": 61125, "D": "a diurnal omnivore related to the raccoon, having an elongated body, a long, ringed, nonprehensile tail, and a slender, flexible snout", "S": [], "A": []}

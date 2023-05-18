@@ -1,0 +1,1 @@
+{"index": 252491, "D": "a person who believes in pacifism  or is opposed to war or to violence of any kind.", "S": [], "A": []}

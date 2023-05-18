@@ -1,0 +1,1 @@
+{"index": 353893, "D": "to address with harsh or abusive language; revile. ", "S": [], "A": []}

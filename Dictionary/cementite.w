@@ -1,0 +1,1 @@
+{"index": 50687, "D": "an iron carbide, Fe3C, a constituent of steel and cast iron, sometimes with part of its iron replaced by another metal, as manganese.", "S": [], "A": []}

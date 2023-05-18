@@ -1,0 +1,1 @@
+{"index": 120574, "D": "the complete central structure to which the wing, tail surfaces, and engines are attached on an airplane.", "S": ["frame ", "material ", "skeleton "], "A": []}

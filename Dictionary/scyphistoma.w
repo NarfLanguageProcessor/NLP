@@ -1,0 +1,1 @@
+{"index": 280776, "D": "a stage in the life cycle of a jellyfish or other scyphozoan  when it is fixed in place and reproduces asexually to produce free-swimming medusas.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 6278, "D": "(in Latin and Greek) the velar nasal consonant sound, especially in those forms where it was represented by the letter g or by gamma.", "S": [], "A": []}

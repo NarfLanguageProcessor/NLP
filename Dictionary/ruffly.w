@@ -1,0 +1,1 @@
+{"index": 275378, "D": "to destroy the smoothness or evenness of", "S": [], "A": []}

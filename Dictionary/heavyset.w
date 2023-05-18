@@ -1,0 +1,1 @@
+{"index": 135030, "D": "having a large body build.", "S": ["blocky ", "chunky ", "compact ", "corpulent ", "dumpy ", "fat ", "plump ", "solid ", "squat ", "stodgy ", "stout ", "stubby ", "stumpy ", "sturdy ", "thick ", "thickset "], "A": []}

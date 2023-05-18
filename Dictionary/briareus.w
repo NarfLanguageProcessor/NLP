@@ -1,0 +1,1 @@
+{"index": 40553, "D": "a giant with a hundred arms and fifty heads who aided Zeus and the Olympians against the Titans", "S": [], "A": []}

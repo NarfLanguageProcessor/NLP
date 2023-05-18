@@ -1,0 +1,1 @@
+{"index": 4197, "D": "to allow to enter; grant or afford entrance to", "S": ["accept ", "concede ", "enter ", "grant ", "introduce ", "permit ", "receive ", "sign ", "take "], "A": ["abstain ", "deny ", "disagree ", "disallow ", "dispute ", "erase ", "give ", "offer ", "refuse ", "reject ", "repudiate ", "stop ", "disregard ", "ignore ", "sell ", "turn away ", "veto "]}

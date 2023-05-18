@@ -1,0 +1,1 @@
+{"index": 313166, "D": "being above the threshold of perception of a stimulus.", "S": [], "A": []}

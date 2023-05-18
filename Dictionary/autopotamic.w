@@ -1,0 +1,1 @@
+{"index": 24315, "D": "(of an organism) living or growing only in flowing freshwater streams.", "S": [], "A": []}

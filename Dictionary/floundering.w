@@ -1,0 +1,1 @@
+{"index": 115140, "D": "struggling, especially clumsily or helplessly", "S": ["amateurish ", "rude ", "stiff "], "A": ["adroit ", "artful ", "clever ", "convenient ", "dexterous ", "easy ", "elegant ", "graceful ", "handy ", "skillful ", "straightforward "]}

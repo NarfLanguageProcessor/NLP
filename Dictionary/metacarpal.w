@@ -1,0 +1,1 @@
+{"index": 184579, "D": "of or relating to the metacarpus. ", "S": [], "A": []}

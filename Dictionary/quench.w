@@ -1,0 +1,1 @@
+{"index": 258317, "D": "to slake, satisfy, or allay (thirst, desires, passion, etc.).", "S": ["dampen ", "douse ", "quash ", "quell ", "snuff out ", "suppress "], "A": ["dry ", "encourage ", "aid ", "assist ", "bear ", "begin ", "build ", "construct ", "create ", "fix ", "give birth ", "help ", "release ", "repair ", "start "]}

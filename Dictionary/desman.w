@@ -1,0 +1,1 @@
+{"index": 82680, "D": "either of two aquatic, insectivorous mammals, Myogale moschata, of southeastern Russia, or M. pyrenaica, of the Pyrenees, related to shrews.", "S": [], "A": []}

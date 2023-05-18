@@ -1,0 +1,1 @@
+{"index": 290289, "D": "of or relating to Silesia or its inhabitants", "S": [], "A": []}

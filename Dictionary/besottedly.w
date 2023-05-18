@@ -1,0 +1,1 @@
+{"index": 32457, "D": "infatuated or obsessed", "S": [], "A": []}

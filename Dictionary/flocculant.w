@@ -1,0 +1,1 @@
+{"index": 114835, "D": "a chemical for producing flocculation of suspended particles, as to improve the plasticity of clay for ceramic purposes.", "S": [], "A": []}

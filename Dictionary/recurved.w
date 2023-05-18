@@ -1,0 +1,1 @@
+{"index": 263813, "D": "curved upward, as the bill of a bird.", "S": ["bend ", "loop "], "A": ["destroy ", "neglect ", "roughen ", "ruin ", "straighten "]}

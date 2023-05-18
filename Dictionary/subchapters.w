@@ -1,0 +1,1 @@
+{"index": 307404, "D": "a subdivision especially of a body of laws.", "S": [], "A": []}

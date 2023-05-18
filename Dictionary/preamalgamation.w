@@ -1,0 +1,1 @@
+{"index": 245680, "D": "the act or process of amalgamating. ", "S": [], "A": []}

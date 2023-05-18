@@ -1,0 +1,1 @@
+{"index": 203980, "D": "capable of being done, effected, or accomplished", "S": [], "A": []}

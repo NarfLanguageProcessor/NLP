@@ -1,0 +1,1 @@
+{"index": 192564, "D": "magnetic monopole. ", "S": [], "A": []}

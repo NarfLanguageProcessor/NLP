@@ -1,0 +1,1 @@
+{"index": 347196, "D": "wealth, riches, or affluence.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 231896, "D": "a hero, the son of Zeus and Dana\u00eb, who slew the Gorgon Medusa, and afterward saved Andromeda from a sea monster.", "S": [], "A": []}

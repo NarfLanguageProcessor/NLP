@@ -1,0 +1,1 @@
+{"index": 187715, "D": "(in a human or other conscious being) the element, part, substance, or process that reasons, thinks, feels, wills, perceives, judges, etc.", "S": ["decided ", "hell-bent ", "preoccupied ", "resolved "], "A": ["flexible ", "indefinite ", "soft ", "trivial ", "unconcerned ", "undecided ", "unenthusiastic ", "unfixed ", "unstable ", "weak "]}

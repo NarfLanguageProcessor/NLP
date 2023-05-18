@@ -1,0 +1,1 @@
+{"index": 170128, "D": "a person who gives or makes laws.", "S": ["administrator ", "council member ", "deputy ", "lawmaker ", "leader ", "member ", "parliamentarian ", "representative ", "senator "], "A": []}

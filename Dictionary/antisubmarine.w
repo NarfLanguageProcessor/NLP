@@ -1,0 +1,1 @@
+{"index": 16281, "D": "(of weapons, missiles, etc) designed to combat or destroy submarines", "S": [], "A": []}

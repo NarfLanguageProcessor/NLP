@@ -1,0 +1,1 @@
+{"index": 269979, "D": "serving to restore;  pertaining to restoration. ", "S": ["corrective ", "curative ", "therapeutic "], "A": ["harmful ", "hurtful ", "hurting ", "injurious "]}

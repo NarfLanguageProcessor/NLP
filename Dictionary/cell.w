@@ -1,0 +1,1 @@
+{"index": 50546, "D": "a small room, as in a convent or prison.", "S": ["bacterium ", "egg ", "germ ", "unit "], "A": []}

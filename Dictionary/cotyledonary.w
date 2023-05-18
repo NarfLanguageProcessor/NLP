@@ -1,0 +1,1 @@
+{"index": 70336, "D": "the primary or rudimentary leaf of the embryo of seed plants.", "S": [], "A": []}

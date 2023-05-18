@@ -1,0 +1,1 @@
+{"index": 7964, "D": "a neurologic disorder marked by loss of the ability to understand written or printed language, usually resulting from a brain lesion or a congenital defect.", "S": [], "A": []}

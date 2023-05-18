@@ -1,0 +1,1 @@
+{"index": 48365, "D": "a person who builds or repairs wooden structures, as houses, scaffolds, or shelving.", "S": ["artisan ", "builder ", "cabinetmaker ", "laborer ", "woodworker ", "worker "], "A": []}

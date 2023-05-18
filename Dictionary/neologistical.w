@@ -1,0 +1,1 @@
+{"index": 198386, "D": "a new word, meaning, usage, or phrase.", "S": [], "A": []}

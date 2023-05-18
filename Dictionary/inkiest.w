@@ -1,0 +1,1 @@
+{"index": 152906, "D": "black as ink", "S": ["black ", "dark ", "jet ", "murky ", "pitch-black "], "A": []}

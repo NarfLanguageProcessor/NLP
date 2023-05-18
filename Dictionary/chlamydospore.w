@@ -1,0 +1,1 @@
+{"index": 55003, "D": "a thick-walled, asexual, resting spore of certain fungi and algae.", "S": [], "A": []}

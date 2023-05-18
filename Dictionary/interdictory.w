@@ -1,0 +1,1 @@
+{"index": 154841, "D": "of, relating to, or noting interdiction.", "S": [], "A": []}

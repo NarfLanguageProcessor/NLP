@@ -1,0 +1,1 @@
+{"index": 303312, "D": "water in the form of an invisible gas or vapor.", "S": ["beef ", "force ", "might ", "muscle ", "potency ", "power ", "puissance ", "sinew ", "strength ", "vigor ", "vim "], "A": ["disability ", "enervation ", "impotence ", "inability ", "incompetence ", "lethargy ", "powerlessness ", "weakness "]}

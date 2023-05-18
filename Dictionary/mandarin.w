@@ -1,0 +1,1 @@
+{"index": 178983, "D": "(in the Chinese Empire) a member of any of the nine ranks of public officials, each distinguished by a particular kind of button worn on the cap.", "S": [], "A": []}

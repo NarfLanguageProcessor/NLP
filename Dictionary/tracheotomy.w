@@ -1,0 +1,1 @@
+{"index": 327113, "D": "the operation of cutting into the trachea.", "S": [], "A": []}

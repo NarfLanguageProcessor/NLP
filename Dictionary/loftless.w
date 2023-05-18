@@ -1,0 +1,1 @@
+{"index": 174543, "D": "a room, storage area, or the like within a sloping roof; attic; garret.", "S": [], "A": []}

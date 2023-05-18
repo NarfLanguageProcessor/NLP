@@ -1,0 +1,1 @@
+{"index": 279959, "D": "to heave in a swell.", "S": [], "A": []}

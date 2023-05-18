@@ -1,0 +1,1 @@
+{"index": 197951, "D": "unnecessary; not needed or wanted", "S": ["excessive ", "gratuitous ", "pointless "], "A": ["reasonable "]}

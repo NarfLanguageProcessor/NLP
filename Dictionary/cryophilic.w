@@ -1,0 +1,1 @@
+{"index": 73118, "D": "preferring or thriving at low temperatures.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 80398, "D": "to deprive of or lose material character.", "S": [], "A": []}

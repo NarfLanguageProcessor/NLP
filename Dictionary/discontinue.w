@@ -1,0 +1,1 @@
+{"index": 87567, "D": "to put an end to; stop; terminate", "S": ["abandon ", "break off ", "cease ", "give up ", "halt ", "interrupt ", "quit ", "suspend ", "terminate "], "A": ["begin ", "complete ", "continue ", "go ", "initiate ", "start ", "bear ", "commence ", "connect ", "create ", "give birth ", "join ", "restart ", "unite "]}

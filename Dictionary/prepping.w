@@ -1,0 +1,1 @@
+{"index": 248911, "D": "preparatory school. ", "S": ["action ", "discipline ", "drill ", "experience ", "operation ", "preparation ", "study ", "training ", "use "], "A": ["idleness ", "inaction "]}

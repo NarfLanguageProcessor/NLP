@@ -1,0 +1,1 @@
+{"index": 283058, "D": "any of a set of stamps issued (1890\u201399) in Nicaragua, Honduras, Ecuador, and El Salvador and named after Nicholas Frederick Seebeck, who provided them free to the respective governments", "S": [], "A": []}

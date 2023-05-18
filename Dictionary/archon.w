@@ -1,0 +1,1 @@
+{"index": 19077, "D": "a higher magistrate in ancient Athens.", "S": [], "A": []}

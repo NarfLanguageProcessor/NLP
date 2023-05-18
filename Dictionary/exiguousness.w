@@ -1,0 +1,1 @@
+{"index": 107215, "D": "scanty; meager; small; slender", "S": ["absence ", "deficiency ", "inadequacy ", "lack ", "paucity ", "shortage "], "A": ["abundance ", "adequacy ", "enough ", "plenty ", "sufficiency ", "advantage ", "luxury ", "perfection ", "success ", "wealth "]}

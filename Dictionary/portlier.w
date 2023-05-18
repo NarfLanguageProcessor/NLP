@@ -1,0 +1,1 @@
+{"index": 243686, "D": "rather heavy or fat; stout; corpulent.", "S": ["beefy ", "burly ", "corpulent ", "overweight ", "stout "], "A": ["skinny ", "slight ", "slim ", "thin ", "underweight ", "weak "]}

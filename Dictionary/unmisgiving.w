@@ -1,0 +1,1 @@
+{"index": 346406, "D": "a feeling of doubt, distrust, or apprehension.", "S": [], "A": []}

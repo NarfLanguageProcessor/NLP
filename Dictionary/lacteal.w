@@ -1,0 +1,1 @@
+{"index": 167043, "D": "pertaining to, consisting of, or resembling milk; milky.", "S": ["frosted ", "opaque ", "pearly "], "A": ["black ", "blackish ", "dark "]}

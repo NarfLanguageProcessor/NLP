@@ -1,0 +1,1 @@
+{"index": 347942, "D": "being a pioneer,  one of the first to settle a region, thus opening it for occupation and development by others", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 129180, "D": "a virus disease of silkworms, characterized by yellowness of the integument and an excessive accumulation of fluid within the body.", "S": [], "A": []}

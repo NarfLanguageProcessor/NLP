@@ -1,0 +1,1 @@
+{"index": 99123, "D": "an act or instance of encamping;  lodgment in a camp.", "S": ["campground ", "campsite "], "A": []}

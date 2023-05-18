@@ -1,0 +1,1 @@
+{"index": 172622, "D": "clear, transparent, or pellucid, as water, crystal, or air", "S": [], "A": []}

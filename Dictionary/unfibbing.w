@@ -1,0 +1,1 @@
+{"index": 342225, "D": "a small or trivial lie; minor falsehood.", "S": [], "A": []}

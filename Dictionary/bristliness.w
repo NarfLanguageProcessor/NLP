@@ -1,0 +1,1 @@
+{"index": 40975, "D": "covered or rough with bristles. ", "S": ["downiness ", "fluffiness ", "hirsuteness ", "pilosity ", "pubescence "], "A": []}

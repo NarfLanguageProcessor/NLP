@@ -1,0 +1,1 @@
+{"index": 73662, "D": "a close friend or companion; chum.", "S": ["camp ", "class ", "clique ", "club ", "company ", "crowd ", "fraternity ", "party ", "ring ", "school ", "society "], "A": ["individual "]}

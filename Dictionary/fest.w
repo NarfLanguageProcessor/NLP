@@ -1,0 +1,1 @@
+{"index": 111668, "D": "an assembly of people engaged in a common activity (often used in combination)", "S": ["barbecue ", "dinner ", "festival ", "festivity ", "fiesta ", "gala ", "picnic ", "repast "], "A": []}

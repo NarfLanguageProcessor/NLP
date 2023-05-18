@@ -1,0 +1,1 @@
+{"index": 330811, "D": "Trinity (defs. 4, b). ", "S": ["set of three ", "ternion ", "three ", "threesome ", "trey ", "triad ", "triangle ", "trilogy ", "trine ", "trinity ", "triple ", "triplet ", "triplicate ", "triptych ", "triumvirate ", "triune ", "troika "], "A": []}

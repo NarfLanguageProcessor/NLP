@@ -1,0 +1,1 @@
+{"index": 336484, "D": "the quality of being led by or subject to sudden, odd notions or changes; arbitrary or erratic character", "S": [], "A": []}

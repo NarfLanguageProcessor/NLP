@@ -1,0 +1,1 @@
+{"index": 1428, "D": "something that speeds up a process.", "S": [], "A": []}

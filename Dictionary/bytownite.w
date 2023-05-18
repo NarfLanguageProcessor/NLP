@@ -1,0 +1,1 @@
+{"index": 35216, "D": "a blue to dark-gray mineral near the anorthite end of the plagioclase feldspar group.", "S": [], "A": []}

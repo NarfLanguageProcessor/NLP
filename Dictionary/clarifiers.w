@@ -1,0 +1,1 @@
+{"index": 59307, "D": "to make (an idea, statement, etc.) clear or intelligible; to free from ambiguity.", "S": ["cleaner ", "cleanser ", "refiner ", "sanitizer "], "A": []}

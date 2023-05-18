@@ -1,0 +1,1 @@
+{"index": 259482, "D": "a woman who is skilled in relating stories and anecdotes interestingly.", "S": [], "A": []}

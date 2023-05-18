@@ -1,0 +1,1 @@
+{"index": 335926, "D": "(especially of fish) coated with spices and saut\u00e9ed quickly over high heat so that the outside chars.", "S": [], "A": []}

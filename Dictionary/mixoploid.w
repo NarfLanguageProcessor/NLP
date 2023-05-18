@@ -1,0 +1,1 @@
+{"index": 190774, "D": "an organism having an unequal number of chromosome sets in adjacent cells or tissues.", "S": [], "A": []}

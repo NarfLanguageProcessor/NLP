@@ -1,0 +1,1 @@
+{"index": 266949, "D": "characterized by religiosity.", "S": [], "A": []}

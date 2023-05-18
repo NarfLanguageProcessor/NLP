@@ -1,0 +1,1 @@
+{"index": 35512, "D": "a small, black-tipped, fatty mass in a skin follicle, especially of the face; comedo.", "S": ["pimples ", "pustules ", "rosacea ", "whiteheads ", "zits "], "A": []}

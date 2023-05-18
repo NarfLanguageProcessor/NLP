@@ -1,0 +1,1 @@
+{"index": 133102, "D": "a small handheld bell, especially as part of a tuned set having different notes or pitches and played by a group.", "S": [], "A": []}

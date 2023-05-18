@@ -1,0 +1,1 @@
+{"index": 116962, "D": "a relatively small earthquake that precedes a greater one by a few days or weeks and originates at or near the focus of the larger earthquake.", "S": [], "A": []}

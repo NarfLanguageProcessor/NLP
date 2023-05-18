@@ -1,0 +1,1 @@
+{"index": 350580, "D": "to break or remove the seal of; open, as something sealed or firmly closed", "S": [], "A": []}

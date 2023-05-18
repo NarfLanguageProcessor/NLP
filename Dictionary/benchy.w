@@ -1,0 +1,1 @@
+{"index": 31473, "D": "(of a hillside) hollowed out in benches", "S": [], "A": []}

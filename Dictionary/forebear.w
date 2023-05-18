@@ -1,0 +1,1 @@
+{"index": 116499, "D": "ancestors; forefathers.", "S": ["forefather "], "A": []}

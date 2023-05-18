@@ -1,0 +1,1 @@
+{"index": 135865, "D": "(of red blood cells) to clump.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 132543, "D": "a blurred effect around the edges of highlight areas in a photographic image caused by reflection and scattering of light through the emulsion from the back surface of the film support or plate.", "S": ["aura ", "aureole ", "aurora ", "corona ", "glory ", "nimbus ", "radiance "], "A": []}

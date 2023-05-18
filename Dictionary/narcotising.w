@@ -1,0 +1,1 @@
+{"index": 196986, "D": "to subject to or treat with a narcotic;  stupefy.", "S": [], "A": []}

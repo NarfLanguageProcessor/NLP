@@ -1,0 +1,1 @@
+{"index": 48059, "D": "a keellike part or ridge, especially a ridge of bone on the ventral side of the sternum of birds.", "S": [], "A": []}

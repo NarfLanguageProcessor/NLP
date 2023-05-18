@@ -1,0 +1,1 @@
+{"index": 202189, "D": "required; mandatory; obligatory", "S": ["discretional ", "discretionary ", "elective ", "nonobligatory ", "not required ", "volitional ", "voluntary "], "A": []}

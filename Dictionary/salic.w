@@ -1,0 +1,1 @@
+{"index": 277010, "D": "of or relating to the Salian Franks.", "S": [], "A": []}

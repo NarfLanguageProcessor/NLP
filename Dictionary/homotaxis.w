@@ -1,0 +1,1 @@
+{"index": 143262, "D": "a similarity of arrangement, as of geologic strata or fossil assemblages that have the same relative position but are not necessarily contemporaneous.", "S": [], "A": []}

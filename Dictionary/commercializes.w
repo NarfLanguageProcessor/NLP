@@ -1,0 +1,1 @@
+{"index": 64023, "D": "to make commercial  in character, methods, or spirit.", "S": ["degrade "], "A": ["buy ", "compliment ", "increase ", "laud ", "praise ", "raise "]}

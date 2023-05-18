@@ -1,0 +1,1 @@
+{"index": 40700, "D": "a brace or an arrangement of braces fixed between floor or roof joists to keep them in place.", "S": [], "A": []}

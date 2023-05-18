@@ -1,0 +1,1 @@
+{"index": 247715, "D": "prior to a given glacial epoch,  especially the Pleistocene.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148028, "D": "the quality or condition of being immobile  or irremovable.", "S": ["firmness "], "A": ["doubt ", "instability ", "spinelessness ", "uncertainty ", "weakness "]}

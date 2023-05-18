@@ -1,0 +1,1 @@
+{"index": 237529, "D": "a card game played by two persons with a pack of 32 cards, the cards from deuces to sixes being excluded.", "S": [], "A": []}

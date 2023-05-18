@@ -1,0 +1,1 @@
+{"index": 86463, "D": "an unsegmentable, gliding speech sound varying continuously in phonetic quality but held to be a single sound or phoneme and identified by its apparent beginning and ending sound, as the oi-sound of toy or boil.", "S": [], "A": []}

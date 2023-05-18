@@ -1,0 +1,1 @@
+{"index": 334974, "D": "any of various devices dropped by a chain, cable, or rope to the bottom of a body of water for preventing or restricting the motion of a vessel or other floating object, typically having broad, hooklike arms that bury themselves in the bottom to provide a firm hold.", "S": ["afloat "], "A": ["anchored "]}

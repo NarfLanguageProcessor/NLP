@@ -1,0 +1,1 @@
+{"index": 131442, "D": "a person who makes or repairs firearms.", "S": [], "A": []}

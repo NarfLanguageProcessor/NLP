@@ -1,0 +1,1 @@
+{"index": 170018, "D": "strict adherence, or the principle of strict adherence, to law or prescription, especially to the letter rather than the spirit.", "S": [], "A": []}

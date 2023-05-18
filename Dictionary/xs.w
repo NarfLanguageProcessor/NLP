@@ -1,0 +1,1 @@
+{"index": 368698, "D": "extra small.", "S": ["impression ", "imprint ", "line ", "point ", "record ", "scar ", "score ", "signature ", "spot ", "stain ", "stamp ", "streak ", "symbol "], "A": ["blank "]}

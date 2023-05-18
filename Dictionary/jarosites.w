@@ -1,0 +1,1 @@
+{"index": 160494, "D": "a yellowish or brownish mineral, a hydrous sulfate of potassium and iron, KFe3(SO4)2(OH)6, occurring in small crystals or large masses.", "S": [], "A": []}

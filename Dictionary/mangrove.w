@@ -1,0 +1,1 @@
+{"index": 179200, "D": "any tropical tree or shrub of the genus Rhizophora, the species of which are mostly low trees growing in marshes or tidal shores, noted for their interlacing above-ground adventitious roots.", "S": [], "A": []}

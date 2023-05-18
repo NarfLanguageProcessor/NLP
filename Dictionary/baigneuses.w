@@ -1,0 +1,1 @@
+{"index": 26444, "D": "a day bed of the Empire period, having a back sloping and curving to form a rounded head and foot.", "S": [], "A": []}

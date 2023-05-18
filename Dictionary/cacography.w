@@ -1,0 +1,1 @@
+{"index": 44180, "D": "bad handwriting; poor penmanship.", "S": ["graffiti ", "graffito ", "griffonage ", "hieroglyphics "], "A": []}

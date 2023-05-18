@@ -1,0 +1,1 @@
+{"index": 201235, "D": "the state or condition of being nonaligned. ", "S": [], "A": []}

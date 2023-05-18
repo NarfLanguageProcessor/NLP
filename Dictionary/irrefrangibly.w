@@ -1,0 +1,1 @@
+{"index": 158241, "D": "not to be broken or violated; inviolable", "S": [], "A": []}

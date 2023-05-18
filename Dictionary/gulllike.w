@@ -1,0 +1,1 @@
+{"index": 131225, "D": "any of numerous long-winged, web-toed, aquatic birds of the family Laridae, having usually white plumage with a gray back and wings.", "S": [], "A": []}

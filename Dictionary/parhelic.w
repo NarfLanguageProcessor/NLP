@@ -1,0 +1,1 @@
+{"index": 226464, "D": "Compare paraselene. ", "S": [], "A": []}

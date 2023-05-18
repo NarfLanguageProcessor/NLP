@@ -1,0 +1,1 @@
+{"index": 13210, "D": "the attribution of consciousness to inanimate objects and natural phenomena.", "S": [], "A": []}

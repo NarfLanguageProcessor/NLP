@@ -1,0 +1,1 @@
+{"index": 79620, "D": "the act of degrading. ", "S": ["degeneration ", "deterioration "], "A": ["esteem ", "honor ", "improvement ", "increase ", "morality "]}

@@ -1,0 +1,1 @@
+{"index": 191609, "D": "any of various small insectivorous mammals, especially of the family Talpidae, living chiefly underground, and having velvety fur, very small eyes, and strong forefeet", "S": [], "A": []}

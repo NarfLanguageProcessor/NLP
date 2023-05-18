@@ -1,0 +1,1 @@
+{"index": 23975, "D": "the correlation  of an ordered series of observations with the same series displaced by the same number of terms.", "S": [], "A": []}

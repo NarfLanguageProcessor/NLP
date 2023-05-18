@@ -1,0 +1,1 @@
+{"index": 342453, "D": "thick with or having much fog; misty", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 20193, "D": [], "S": ["cocked ", "elevated ", "firm ", "perpendicular ", "raised ", "standing ", "upright ", "vertical "], "A": ["lowered ", "prone "]}

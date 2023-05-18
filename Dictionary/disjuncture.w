@@ -1,0 +1,1 @@
+{"index": 88530, "D": "the act of disjoining  or the state of being disjoined;  disjunction.", "S": ["detachment ", "disconnectedness ", "disconnection ", "disjointedness ", "disjunction ", "disunion ", "division ", "divorce ", "parting ", "severance ", "split "], "A": ["connection ", "juncture ", "marriage "]}

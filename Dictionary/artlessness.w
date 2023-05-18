@@ -1,0 +1,1 @@
+{"index": 20765, "D": "free from deceit, cunning, or craftiness; ingenuous", "S": ["candor ", "ingenuousness ", "naturalness "], "A": ["coordination ", "experience ", "grace ", "sophistication "]}

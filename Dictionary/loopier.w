@@ -1,0 +1,1 @@
+{"index": 175105, "D": "full of loops.", "S": ["absurd ", "crazy ", "insane ", "kooky ", "ludicrous ", "nutty ", "ridiculous ", "silly ", "wacky ", "witless ", "zany "], "A": ["balanced ", "logical ", "rational ", "reasonable ", "sane ", "sensible ", "serious ", "wise "]}

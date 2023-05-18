@@ -1,0 +1,1 @@
+{"index": 221531, "D": "to tax  too heavily.", "S": ["exhausted ", "fatigued ", "overburdened ", "strained "], "A": ["lively ", "refreshed "]}

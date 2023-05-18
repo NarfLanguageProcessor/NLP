@@ -1,0 +1,1 @@
+{"index": 221342, "D": "to go beyond; exceed", "S": ["meddle ", "violate "], "A": []}

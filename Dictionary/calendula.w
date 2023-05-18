@@ -1,0 +1,1 @@
+{"index": 45027, "D": "a composite plant, Calendula officinalis, widely cultivated for its showy, many-rayed orange or yellow flower heads.", "S": [], "A": []}

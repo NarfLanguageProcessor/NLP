@@ -1,0 +1,1 @@
+{"index": 26840, "D": "an island in Indonesia, E of Java. 2,147 sq. mi. (5,561 sq. km). Capital", "S": [], "A": []}

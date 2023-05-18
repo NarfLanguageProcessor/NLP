@@ -1,0 +1,1 @@
+{"index": 338949, "D": "to take or support from one place to another; convey; transport", "S": [], "A": []}

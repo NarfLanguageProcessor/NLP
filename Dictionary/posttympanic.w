@@ -1,0 +1,1 @@
+{"index": 244512, "D": "pertaining or belonging to a tympanum. ", "S": [], "A": []}

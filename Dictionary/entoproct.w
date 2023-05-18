@@ -1,0 +1,1 @@
+{"index": 101576, "D": "any of various sessile, chiefly marine, mosslike animals of the phylum Entoprocta  (formerly a subphylum of Bryophyta), occasionally solitary polyps but usually forming branching colonies, each individual polyp having an almost closed ring of tentacles within which lie the mouth and anus.", "S": [], "A": []}

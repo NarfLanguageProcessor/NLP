@@ -1,0 +1,1 @@
+{"index": 20179, "D": "downright; thorough; unmitigated; notorious", "S": [], "A": []}

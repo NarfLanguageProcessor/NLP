@@ -1,0 +1,1 @@
+{"index": 323322, "D": "the point that something or someone has reached, receded below, or risen above", "S": ["apex ", "apogee ", "upper limit "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 152354, "D": "state of being infrequent. ", "S": [], "A": []}

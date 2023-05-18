@@ -1,0 +1,1 @@
+{"index": 54540, "D": "a translucent ceramic material, biscuit-fired at a high temperature, its glaze fired at a low temperature.", "S": ["ceramics ", "crockery ", "porcelain ", "pottery ", "service ", "stoneware ", "tableware ", "ware "], "A": []}

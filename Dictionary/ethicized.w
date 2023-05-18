@@ -1,0 +1,1 @@
+{"index": 104966, "D": "to make ethical; treat or regard as ethical.", "S": ["acquaint ", "enlighten ", "ennoble ", "humanize ", "idealize ", "refine ", "sophisticate ", "tame "], "A": ["mislead ", "condemn ", "decrease ", "demote ", "hurt ", "ignore ", "learn ", "neglect ", "worsen "]}

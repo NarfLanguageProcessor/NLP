@@ -1,0 +1,1 @@
+{"index": 273923, "D": "a soldier in the army of the Republic of Korea.", "S": [], "A": []}

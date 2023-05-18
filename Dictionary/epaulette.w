@@ -1,0 +1,1 @@
+{"index": 102040, "D": "a piece of ornamental material on the shoulder of a garment, esp a military uniform", "S": [], "A": []}

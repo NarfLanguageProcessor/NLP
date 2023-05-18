@@ -1,0 +1,1 @@
+{"index": 148983, "D": "to reduce to poverty", "S": ["calamitous ", "cataclysmic ", "catastrophic ", "crippling ", "damaging ", "deadly ", "dire ", "fatal ", "harmful ", "hurtful ", "murderous ", "pernicious "], "A": ["favorable ", "fortunate ", "harmless ", "healthful ", "helpful ", "kind ", "nice ", "trivial ", "unimportant ", "wholesome "]}

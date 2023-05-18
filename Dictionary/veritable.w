@@ -1,0 +1,1 @@
+{"index": 358553, "D": "being truly or very much so", "S": ["actual ", "bona fide ", "factual ", "for real ", "genuine ", "indubitable ", "kosher ", "legit ", "real ", "true ", "undoubted ", "unquestionable ", "very "], "A": ["fake ", "false ", "unreal "]}

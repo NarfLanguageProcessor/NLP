@@ -1,0 +1,1 @@
+{"index": 145708, "D": "to bark sharply, shrilly, or snappishly; yelp.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 90199, "D": "to wander; stray.", "S": ["aside ", "deviation ", "divergence ", "divergency ", "diversion ", "excursion ", "excursus ", "parenthesis "], "A": ["sameness "]}

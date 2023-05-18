@@ -1,0 +1,1 @@
+{"index": 87213, "D": "to remove a burden  from; rid of a burden. ", "S": [], "A": []}

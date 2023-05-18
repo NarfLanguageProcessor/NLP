@@ -1,0 +1,1 @@
+{"index": 154072, "D": "a polypeptide hormone, produced by the beta cells of the islets of Langerhans of the pancreas, that regulates the metabolism of glucose and other nutrients.", "S": [], "A": []}

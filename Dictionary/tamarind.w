@@ -1,0 +1,1 @@
+{"index": 315830, "D": "the pod of a large, tropical tree, Tamarindus indica, of the legume family, containing seeds enclosed in a juicy acid pulp that is used in beverages and food.", "S": [], "A": []}

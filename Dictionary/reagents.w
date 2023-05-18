@@ -1,0 +1,1 @@
+{"index": 261690, "D": "a substance that, because of the reactions it causes, is used in analysis and synthesis.", "S": ["indicator ", "testing agent "], "A": []}

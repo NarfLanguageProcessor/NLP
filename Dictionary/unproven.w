@@ -1,0 +1,1 @@
+{"index": 348731, "D": "unproven allegations", "S": ["ambiguous ", "arguable ", "controversial ", "debatable ", "dubious ", "problematic ", "suspicious ", "vague "], "A": ["certain ", "clear ", "definite ", "incontrovertible ", "sure ", "trustworthy ", "trusty ", "undoubted ", "unquestionable "]}

@@ -1,0 +1,1 @@
+{"index": 294432, "D": "of, relating to, or characteristic of Slovakia, its people, or the Slovak language", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 15532, "D": "any substance or substances used in treating disease or illness; medicament; remedy.", "S": [], "A": []}

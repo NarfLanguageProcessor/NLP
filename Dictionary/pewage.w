@@ -1,0 +1,1 @@
+{"index": 232646, "D": "an amount or the dues paid for a church pew. ", "S": [], "A": []}

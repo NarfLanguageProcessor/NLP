@@ -1,0 +1,1 @@
+{"index": 157167, "D": "to put (money) to use, by purchase or expenditure, in something offering potential profitable returns, as interest, income, or appreciation in value.", "S": ["attired ", "cloaked ", "covered ", "draped ", "dressed ", "veiled "], "A": ["exposed ", "naked ", "unclothed ", "undressed "]}

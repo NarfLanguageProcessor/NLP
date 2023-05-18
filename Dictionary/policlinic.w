@@ -1,0 +1,1 @@
+{"index": 241772, "D": "a department of a hospital at which outpatients are treated.", "S": [], "A": []}

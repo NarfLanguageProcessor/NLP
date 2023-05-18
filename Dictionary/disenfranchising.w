@@ -1,0 +1,1 @@
+{"index": 87950, "D": "to deprive (a person) of a right of citizenship, as of the right to vote.", "S": ["coerce ", "deprive ", "imprison ", "incarcerate ", "oppress ", "shackle ", "subjugate ", "suppress "], "A": ["free ", "let go ", "release ", "allow ", "disconnect ", "expand ", "liberate ", "loose ", "loosen ", "lose ", "permit ", "stop ", "unfasten ", "untie "]}

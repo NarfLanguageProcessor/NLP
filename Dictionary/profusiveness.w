@@ -1,0 +1,1 @@
+{"index": 251827, "D": "profuse;  lavish; prodigal", "S": [], "A": []}

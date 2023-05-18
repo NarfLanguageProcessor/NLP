@@ -1,0 +1,1 @@
+{"index": 230544, "D": "(in a crustacean) the thorax.", "S": [], "A": []}

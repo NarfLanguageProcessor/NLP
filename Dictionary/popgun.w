@@ -1,0 +1,1 @@
+{"index": 243221, "D": "a child's toy gun  from which a pellet is shot by compressed air, producing a loud pop. ", "S": ["BB gun ", "air rifle ", "pellet gun ", "toy rifle ", "wind gun "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 35223, "D": "a device for drilling oil wells or the like, consisting of a horizontally rotating blade or an assembly of rotating toothed wheels.", "S": ["detritus ", "junk ", "remains ", "rubbish ", "rubble ", "trash ", "wreck ", "wreckage "], "A": ["belongings ", "possessions "]}

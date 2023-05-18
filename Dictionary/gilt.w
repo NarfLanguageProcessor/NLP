@@ -1,0 +1,1 @@
+{"index": 124965, "D": "a simple past tense and past participle of gild1. ", "S": ["gaudy ", "gleaming ", "glittering ", "golden ", "lustrous ", "painted ", "sparkling "], "A": ["dull ", "matte "]}

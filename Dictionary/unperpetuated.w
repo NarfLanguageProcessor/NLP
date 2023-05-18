@@ -1,0 +1,1 @@
+{"index": 347761, "D": "constantly circulated or repeated, practiced, carried on, etc.", "S": [], "A": []}

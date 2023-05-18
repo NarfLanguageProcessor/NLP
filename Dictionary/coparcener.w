@@ -1,0 +1,1 @@
+{"index": 68420, "D": "a member of a coparcenary.", "S": [], "A": []}

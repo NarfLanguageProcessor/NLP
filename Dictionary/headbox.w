@@ -1,0 +1,1 @@
+{"index": 134587, "D": "(in a papermaking machine) the container in which cleaned pulp is collected for uniform distribution across the wire.", "S": [], "A": []}

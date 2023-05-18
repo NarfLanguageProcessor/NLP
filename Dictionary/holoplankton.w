@@ -1,0 +1,1 @@
+{"index": 142642, "D": "plankton  that spend their entire life cycle as free-swimming organisms (opposed to hemiplankton).", "S": [], "A": []}

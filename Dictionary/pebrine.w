@@ -1,0 +1,1 @@
+{"index": 228550, "D": "an infectious disease of silkworms, characterized by a black spotting of the integument and by stunted growth, caused by the protozoan Nosema bomycis.", "S": [], "A": []}

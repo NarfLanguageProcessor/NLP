@@ -1,0 +1,1 @@
+{"index": 63972, "D": "having the same measure or divisor", "S": [], "A": []}

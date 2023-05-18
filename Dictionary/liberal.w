@@ -1,0 +1,1 @@
+{"index": 171472, "D": "favorable to progress or reform, as in political or religious affairs.", "S": ["enlightened ", "flexible ", "humanistic ", "lenient ", "permissive ", "radical ", "reformist ", "tolerant "], "A": ["intolerant ", "limited ", "narrow ", "specific "]}

@@ -1,0 +1,1 @@
+{"index": 288556, "D": "inferior or contemptible.", "S": [], "A": []}

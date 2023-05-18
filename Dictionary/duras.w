@@ -1,0 +1,1 @@
+{"index": 94419, "D": "Marguerite, real name Marguerite Donnadieu . 1914\u201396, French novelist born in Giadinh, Indochina (now in Vietnam). Her works include The Sea Wall (1950), Practicalities (1990), \u00c9crire (1993), and the script for the film Hiroshima mon amour (1960)", "S": [], "A": []}

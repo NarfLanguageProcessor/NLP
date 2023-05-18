@@ -1,0 +1,1 @@
+{"index": 264167, "D": "a coloring material or matter.", "S": [], "A": []}

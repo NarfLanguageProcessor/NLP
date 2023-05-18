@@ -1,0 +1,1 @@
+{"index": 135288, "D": "a small metal plate  attached to the heel  of a shoe to protect it against excessive wear.", "S": [], "A": []}

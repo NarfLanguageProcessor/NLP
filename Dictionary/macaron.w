@@ -1,0 +1,1 @@
+{"index": 176652, "D": "a round, colored cookie consisting of a ganache or buttercream filling between two halves made from beaten egg whites mixed with sugar and ground almonds. ", "S": [], "A": []}

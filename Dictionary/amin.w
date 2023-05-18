@@ -1,0 +1,1 @@
+{"index": 10575, "D": "Ugandan dictator", "S": ["cooperate ", "enlist ", "enter ", "follow ", "side with "], "A": ["avoid ", "shun ", "stop "]}

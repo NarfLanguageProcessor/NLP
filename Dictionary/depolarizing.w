@@ -1,0 +1,1 @@
+{"index": 81712, "D": "to cause polarization  in.", "S": [], "A": []}

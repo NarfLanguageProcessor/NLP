@@ -1,0 +1,1 @@
+{"index": 229664, "D": "to cause (land) to become peninsular", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158680, "D": "a goddess of fertility, the sister and wife of Osiris and mother of Horus, and usually represented as a woman with a cow's horns with the solar disk between them", "S": [], "A": []}

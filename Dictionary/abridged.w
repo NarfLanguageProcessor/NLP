@@ -1,0 +1,1 @@
+{"index": 841, "D": "(of a book, document, presentation, etc.) shortened by omitting less important parts while retaining the basic content", "S": ["canned ", "condensed ", "epitomized ", "pocket ", "tabloid "], "A": []}

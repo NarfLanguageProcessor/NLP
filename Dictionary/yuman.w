@@ -1,0 +1,1 @@
+{"index": 159680, "D": "a family of languages including the language shared by the Yuma  and Mohave Indians and several other languages of the lower valley of the Colorado River.", "S": [], "A": []}

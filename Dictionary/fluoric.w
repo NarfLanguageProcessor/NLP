@@ -1,0 +1,1 @@
+{"index": 115430, "D": "pertaining to or obtained from fluorine. ", "S": [], "A": []}

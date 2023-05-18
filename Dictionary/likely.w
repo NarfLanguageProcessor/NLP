@@ -1,0 +1,1 @@
+{"index": 172179, "D": "probably or apparently destined (usually followed by an infinitive)", "S": ["acceptable ", "expected ", "fair ", "feasible ", "inclined ", "possible ", "prone ", "reasonable "], "A": ["impossible ", "unlikely ", "unreasonable "]}

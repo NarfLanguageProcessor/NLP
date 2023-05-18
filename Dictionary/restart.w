@@ -1,0 +1,1 @@
+{"index": 269867, "D": "to start again", "S": ["proceed ", "reestablish ", "reinstate ", "renew ", "reopen ", "restore ", "resume ", "return to "], "A": ["finish ", "halt ", "stop "]}

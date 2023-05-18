@@ -1,0 +1,1 @@
+{"index": 45574, "D": "any of several plants of the genus Camassia, of the lily family, especially C. quamash, of western North America,  having long clusters of blue to white flowers and edible bulbs.", "S": [], "A": []}

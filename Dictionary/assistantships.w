@@ -1,0 +1,1 @@
+{"index": 21832, "D": "a form of financial aid awarded to a student studying for a graduate degree at a college or university in which the student assists a professor, usually in academic or laboratory work.", "S": [], "A": []}

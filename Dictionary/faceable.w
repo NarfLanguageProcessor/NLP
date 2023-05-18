@@ -1,0 +1,1 @@
+{"index": 108933, "D": "the front part of the head, from the forehead to the chin.", "S": [], "A": []}

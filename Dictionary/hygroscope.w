@@ -1,0 +1,1 @@
+{"index": 139362, "D": "an instrument that indicates the approximate humidity of the air.", "S": [], "A": []}

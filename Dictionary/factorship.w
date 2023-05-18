@@ -1,0 +1,1 @@
+{"index": 109088, "D": "one of the elements contributing to a particular result or situation", "S": [], "A": []}

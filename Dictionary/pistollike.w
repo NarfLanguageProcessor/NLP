@@ -1,0 +1,1 @@
+{"index": 238190, "D": "a short firearm intended to be held and fired with one hand.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227909, "D": "devoted love, support, and defense of one's country; national loyalty.", "S": ["loyalty ", "nationalism "], "A": []}

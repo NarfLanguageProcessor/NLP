@@ -1,0 +1,1 @@
+{"index": 340437, "D": "to expel from the legal profession or from the bar  of a particular court.", "S": [], "A": []}

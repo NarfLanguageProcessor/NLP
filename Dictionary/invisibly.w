@@ -1,0 +1,1 @@
+{"index": 157265, "D": "not visible; not perceptible by the eye", "S": ["inconspicuously ", "indistinctly ", "not visibly ", "obscurely ", "out of sight ", "secretly ", "uncertainly ", "undetectably ", "vaguely "], "A": []}

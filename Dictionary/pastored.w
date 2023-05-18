@@ -1,0 +1,1 @@
+{"index": 227498, "D": "a minister or priest in charge of a church.", "S": [], "A": []}

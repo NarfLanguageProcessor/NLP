@@ -1,0 +1,1 @@
+{"index": 11947, "D": "epenthesis of a vowel.", "S": [], "A": []}

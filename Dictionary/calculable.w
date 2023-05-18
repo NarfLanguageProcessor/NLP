@@ -1,0 +1,1 @@
+{"index": 44945, "D": "determinable by calculation;  ascertainable", "S": ["accountable ", "ascertainable ", "computable ", "countable ", "discoverable ", "estimable ", "foreseeable ", "measurable ", "predictable ", "reckonable "], "A": ["incalculable ", "inestimable "]}

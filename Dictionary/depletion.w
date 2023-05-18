@@ -1,0 +1,1 @@
+{"index": 81663, "D": [], "S": ["deficiency ", "reduction "], "A": []}

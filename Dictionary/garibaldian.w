@@ -1,0 +1,1 @@
+{"index": 122170, "D": "a loose blouse worn by women and children in the mid-19th century, made in imitation of the red shirts worn by the soldiers of Garibaldi.", "S": [], "A": []}

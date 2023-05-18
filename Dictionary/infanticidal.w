@@ -1,0 +1,1 @@
+{"index": 151815, "D": "the act of killing an infant.", "S": [], "A": []}

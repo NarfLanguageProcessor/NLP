@@ -1,0 +1,1 @@
+{"index": 158636, "D": "variant of -ize", "S": [], "A": []}

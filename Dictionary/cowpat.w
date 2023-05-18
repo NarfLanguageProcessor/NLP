@@ -1,0 +1,1 @@
+{"index": 71639, "D": "a single dropping of cow dung", "S": [], "A": []}

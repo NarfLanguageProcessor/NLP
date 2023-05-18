@@ -1,0 +1,1 @@
+{"index": 239233, "D": "a composition, as of lime or gypsum, sand, water, and sometimes hair or other fiber, applied in a pasty form to walls, ceilings, etc., and allowed to harden and dry.", "S": ["adhesive ", "cement ", "glue ", "lime ", "mortar ", "stucco "], "A": []}

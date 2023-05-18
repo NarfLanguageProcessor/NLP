@@ -1,0 +1,1 @@
+{"index": 156745, "D": "by nature; as a necessary or inseparable element or quality", "S": ["essentially ", "mostly "], "A": ["additionally ", "extra "]}

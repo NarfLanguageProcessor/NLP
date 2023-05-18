@@ -1,0 +1,1 @@
+{"index": 305969, "D": "an act or instance of running naked through a public place", "S": ["smear "], "A": []}

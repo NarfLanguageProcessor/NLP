@@ -1,0 +1,1 @@
+{"index": 34350, "D": "the study of energy transformation in living systems.", "S": [], "A": []}

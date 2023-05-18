@@ -1,0 +1,1 @@
+{"index": 281243, "D": "pertaining to, of the nature of, or affected with scurvy. ", "S": [], "A": []}

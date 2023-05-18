@@ -1,0 +1,1 @@
+{"index": 257095, "D": "Indian yellow (defs. 1, 2a). ", "S": [], "A": []}

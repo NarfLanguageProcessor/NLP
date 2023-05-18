@@ -1,0 +1,1 @@
+{"index": 193962, "D": "a European plant, Leonorus cardiaca, of the mint family, an introduced weed in the U.S., having cut leaves with a whorl of lavender flowers in the axils.", "S": [], "A": []}

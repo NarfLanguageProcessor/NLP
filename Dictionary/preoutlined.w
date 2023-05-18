@@ -1,0 +1,1 @@
+{"index": 248709, "D": "the line  by which a figure or object is defined or bounded; contour.", "S": [], "A": []}

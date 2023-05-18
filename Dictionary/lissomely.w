@@ -1,0 +1,1 @@
+{"index": 173489, "D": "lithesome or lithe, especially of body; supple; flexible.", "S": [], "A": []}

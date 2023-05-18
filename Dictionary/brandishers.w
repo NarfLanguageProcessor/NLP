@@ -1,0 +1,1 @@
+{"index": 39922, "D": "to shake or wave, as a weapon; flourish", "S": [], "A": []}

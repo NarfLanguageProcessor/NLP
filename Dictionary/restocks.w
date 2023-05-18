@@ -1,0 +1,1 @@
+{"index": 269967, "D": "to stock  again; replenish.", "S": ["fix up ", "refit ", "refurbish ", "remodel ", "resuscitate "], "A": ["break ", "damage ", "depress ", "destroy ", "discourage ", "finish ", "halt ", "hurt ", "kill ", "leave alone ", "maintain ", "ruin ", "shorten ", "stop "]}

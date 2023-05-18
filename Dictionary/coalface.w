@@ -1,0 +1,1 @@
+{"index": 60971, "D": "the exposed seam of coal in a mine", "S": [], "A": []}

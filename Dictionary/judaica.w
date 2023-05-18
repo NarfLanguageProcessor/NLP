@@ -1,0 +1,1 @@
+{"index": 162030, "D": "things pertaining to Jewish life and customs, especially when of a historical, literary, or artistic nature, as books or ritual objects.", "S": [], "A": []}

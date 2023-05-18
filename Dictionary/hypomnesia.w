@@ -1,0 +1,1 @@
+{"index": 141026, "D": [], "S": ["inattention "], "A": ["attentiveness ", "heed ", "mindfulness ", "remembering "]}

@@ -1,0 +1,1 @@
+{"index": 189867, "D": "the act of offering or suggesting something for acceptance, adoption, or performance.", "S": [], "A": []}

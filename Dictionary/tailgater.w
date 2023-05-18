@@ -1,0 +1,1 @@
+{"index": 315355, "D": "a person who drives hazardously close to the rear of another moving vehicle.", "S": [], "A": []}

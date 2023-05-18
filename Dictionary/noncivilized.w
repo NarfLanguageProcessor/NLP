@@ -1,0 +1,1 @@
+{"index": 201963, "D": "having an advanced or humane culture, society, etc.", "S": [], "A": []}

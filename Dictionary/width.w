@@ -1,0 +1,1 @@
+{"index": 365554, "D": "extent from side to side; breadth; wideness. ", "S": ["diameter ", "girth ", "scope ", "span ", "thickness "], "A": ["height ", "tallness "]}

@@ -1,0 +1,1 @@
+{"index": 160746, "D": "to speak or shout derisively; scoff or gibe rudely", "S": [], "A": []}

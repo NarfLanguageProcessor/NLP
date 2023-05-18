@@ -1,0 +1,1 @@
+{"index": 119671, "D": "to make (plans, efforts, etc.) worthless or of no avail; defeat; nullify", "S": [], "A": []}

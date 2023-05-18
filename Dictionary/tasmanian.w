@@ -1,0 +1,1 @@
+{"index": 316898, "D": "of or relating to Tasmania or its inhabitants", "S": [], "A": []}

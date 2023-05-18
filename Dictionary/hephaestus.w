@@ -1,0 +1,1 @@
+{"index": 136743, "D": "the ancient Greek god of fire, metalworking, and handicrafts, identified by the Romans with Vulcan.", "S": [], "A": []}

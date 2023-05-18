@@ -1,0 +1,1 @@
+{"index": 114622, "D": "without material strength or solidity", "S": ["chiffon ", "decrepit ", "feeble ", "insubstantial ", "rickety ", "shaky ", "tacky "], "A": ["strong ", "substantial ", "solid ", "sturdy ", "thick "]}

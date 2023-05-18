@@ -1,0 +1,1 @@
+{"index": 122907, "D": "(originally) a tenure of land in which the tenant was liable for a rental in money or produce rather than for labor or military service.", "S": [], "A": []}

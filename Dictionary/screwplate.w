@@ -1,0 +1,1 @@
+{"index": 281761, "D": "a metal plate  having threaded holes, used for cutting screw  threads by hand.", "S": [], "A": []}

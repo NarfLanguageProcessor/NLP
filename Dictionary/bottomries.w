@@ -1,0 +1,1 @@
+{"index": 38834, "D": "a contract, of the nature of a mortgage, by which the owner of a ship borrows money to make a voyage, pledging the ship as security.", "S": [], "A": []}

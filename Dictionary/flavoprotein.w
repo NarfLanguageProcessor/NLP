@@ -1,0 +1,1 @@
+{"index": 114212, "D": "an enzyme, containing riboflavin and linked chemically with a protein,  active in the oxidation of foods in animal cells.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148092, "D": "the gods of ancient Greece and Rome", "S": ["alien ", "deity ", "divineness ", "divinity ", "god ", "immortal ", "intelligence ", "spirit "], "A": []}

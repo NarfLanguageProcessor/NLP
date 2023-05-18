@@ -1,0 +1,1 @@
+{"index": 142267, "D": "a hoofed mammal of the Old World family Suidae, order Artiodactyla, comprising boars and swine.", "S": [], "A": []}

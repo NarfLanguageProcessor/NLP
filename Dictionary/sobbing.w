@@ -1,0 +1,1 @@
+{"index": 296041, "D": "to weep with a convulsive catching of the breath.", "S": ["wailing ", "weeping "], "A": []}

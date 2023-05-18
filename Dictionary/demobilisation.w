@@ -1,0 +1,1 @@
+{"index": 80703, "D": "the act of disbanding troops or an army or other fighting force", "S": [], "A": []}

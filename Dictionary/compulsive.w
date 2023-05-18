@@ -1,0 +1,1 @@
+{"index": 64947, "D": "compelling; compulsory.", "S": ["enthusiastic ", "irresistible ", "passionate ", "uncontrollable "], "A": ["apathetic ", "indifferent ", "unenthusiastic ", "unexcited "]}

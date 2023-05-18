@@ -1,0 +1,1 @@
+{"index": 92436, "D": "to draggle; make or become wet and dirty.", "S": [], "A": []}

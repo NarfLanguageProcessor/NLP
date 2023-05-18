@@ -1,0 +1,1 @@
+{"index": 148656, "D": "not permitting penetration or passage; impenetrable", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 236947, "D": [], "S": ["Scrooge ", "cheapskate ", "harpy ", "hoarder ", "moneygrubber ", "stiff ", "tightwad "], "A": ["spender ", "spendthrift ", "waster ", "wastrel "]}

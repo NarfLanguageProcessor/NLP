@@ -1,0 +1,1 @@
+{"index": 202151, "D": "in a pleased or self-satisfied way, often without awareness of some potential danger or defect", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 3147, "D": "the record produced by the action of an actinograph.", "S": [], "A": []}

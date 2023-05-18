@@ -1,0 +1,1 @@
+{"index": 183155, "D": "an object or item that serves to remind one of a person, past event, etc.; keepsake; souvenir.", "S": ["keepsake ", "relic ", "remembrance ", "reminder ", "token ", "trophy "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 187210, "D": "to have a substantial effect; weigh heavily", "S": ["mean ", "weigh "], "A": []}

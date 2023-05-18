@@ -1,0 +1,1 @@
+{"index": 83044, "D": "lacking in consistency, constancy, or visible order, disconnected; fitful", "S": [], "A": []}

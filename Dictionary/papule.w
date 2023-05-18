@@ -1,0 +1,1 @@
+{"index": 225322, "D": "a small, somewhat pointed elevation of the skin, usually inflammatory but nonsuppurative.", "S": ["acne ", "blemish ", "blister ", "lump "], "A": []}

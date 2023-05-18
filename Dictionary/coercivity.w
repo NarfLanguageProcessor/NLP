@@ -1,0 +1,1 @@
+{"index": 62056, "D": "the magnetic intensity needed to reduce to zero the magnetic flux density of a fully magnetized magnetic specimen or to demagnetize a magnet.", "S": [], "A": []}

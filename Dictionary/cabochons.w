@@ -1,0 +1,1 @@
+{"index": 43986, "D": "a precious stone of convex hemispherical or oval form, polished but not cut into facets.", "S": [], "A": []}

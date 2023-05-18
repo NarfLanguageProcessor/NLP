@@ -1,0 +1,1 @@
+{"index": 253929, "D": "a person or thing that protracts. ", "S": [], "A": []}

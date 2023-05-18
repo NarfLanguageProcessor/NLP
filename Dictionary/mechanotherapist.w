@@ -1,0 +1,1 @@
+{"index": 181912, "D": "curative treatment by mechanical means.", "S": [], "A": []}

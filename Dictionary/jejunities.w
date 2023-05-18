@@ -1,0 +1,1 @@
+{"index": 160789, "D": "without interest or significance; dull; insipid", "S": ["minority ", "teens "], "A": ["adulthood ", "experience ", "knowledge "]}

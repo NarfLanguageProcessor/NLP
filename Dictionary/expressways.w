@@ -1,0 +1,1 @@
+{"index": 108034, "D": "a highway especially planned for high-speed traffic, usually having few if any intersections, limited points of access or exit, and a divider between lanes for traffic moving in opposite directions.", "S": ["freeway ", "interstate ", "superhighway ", "turnpike "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 240981, "D": "gouty inflammation of the great toe.", "S": [], "A": []}

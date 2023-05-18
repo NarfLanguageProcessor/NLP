@@ -1,0 +1,1 @@
+{"index": 162504, "D": "a fitted, knee-length coat, characterized by wide turned-back cuffs and stiff flared skirts, worn especially by men in the 17th and 18th centuries.", "S": [], "A": []}

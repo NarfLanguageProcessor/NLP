@@ -1,0 +1,1 @@
+{"index": 207024, "D": "to burn or affect painfully with or as if with hot liquid or steam.", "S": [], "A": []}

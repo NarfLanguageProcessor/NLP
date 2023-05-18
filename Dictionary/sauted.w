@@ -1,0 +1,1 @@
+{"index": 279013, "D": [], "S": ["bake ", "barbecue ", "blanch ", "boil ", "braise ", "broil ", "brown ", "burn ", "coddle ", "doctor ", "escallop ", "fix ", "fricassee ", "fry ", "grill ", "heat ", "microwave ", "nuke ", "panfry ", "parboil ", "poach ", "pressure-cook ", "roast ", "sear ", "simmer ", "sizzle ", "steam ", "stew ", "toast "], "A": []}

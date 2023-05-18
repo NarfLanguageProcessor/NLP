@@ -1,0 +1,1 @@
+{"index": 157076, "D": "to entice, lure, or ensnare by flattery or artful talk or inducements (usually followed by into)", "S": ["alluring ", "attracting ", "beguiling ", "bewitching ", "captivating ", "charming ", "drawing ", "enchanting ", "enticing ", "fascinating ", "inviting ", "luring ", "ravishing ", "tempting ", "witching "], "A": ["repellent ", "repulsive "]}

@@ -1,0 +1,1 @@
+{"index": 281684, "D": "to utter or make a harsh, shrill cry or sound", "S": ["howl ", "shout ", "shriek ", "squeal ", "yell "], "A": []}

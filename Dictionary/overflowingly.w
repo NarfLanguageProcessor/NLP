@@ -1,0 +1,1 @@
+{"index": 219414, "D": "to flow or run over, as rivers or water", "S": [], "A": []}

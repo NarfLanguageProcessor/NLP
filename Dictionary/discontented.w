@@ -1,0 +1,1 @@
+{"index": 87549, "D": "not content or satisfied; dissatisfied; restlessly unhappy", "S": ["bitching ", "blue ", "complaining ", "disaffected ", "disgruntled ", "displeased ", "disquieted ", "dissatisfied ", "disturbed ", "exasperated ", "griping ", "kvetching ", "perturbed ", "upset ", "vexed "], "A": ["contented ", "happy ", "pleased ", "satisfied "]}

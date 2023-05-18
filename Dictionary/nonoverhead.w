@@ -1,0 +1,1 @@
+{"index": 205686, "D": "over one's head;  aloft; up in the air or sky, especially near the zenith", "S": [], "A": []}

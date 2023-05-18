@@ -1,0 +1,1 @@
+{"index": 66285, "D": "agreeing; accordant; congruous", "S": ["coinciding ", "compatible ", "concurring ", "conforming ", "consistent ", "corresponding ", "identical ", "in agreement "], "A": ["disagreeable ", "incongruent ", "unharmonious "]}

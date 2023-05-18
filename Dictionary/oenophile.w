@@ -1,0 +1,1 @@
+{"index": 211486, "D": "a person who enjoys wines, usually as a connoisseur.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 126745, "D": "of or relating to the glottis. ", "S": ["grating ", "growling ", "husky ", "low ", "rasping ", "rough ", "thick "], "A": ["thin "]}

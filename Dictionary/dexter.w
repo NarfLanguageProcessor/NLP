@@ -1,0 +1,1 @@
+{"index": 83795, "D": "on the right side; right.", "S": ["benevolent ", "encouraging ", "favorable "], "A": ["bad ", "cancerous ", "disadvantageous ", "harmful ", "hateful ", "hostile ", "hurtful ", "injurious ", "malignant ", "severe ", "unkind "]}

@@ -1,0 +1,1 @@
+{"index": 252775, "D": "proportioned;  being in due proportion; proportional. ", "S": ["commensurate ", "comparable ", "corresponding ", "equitable ", "proportional ", "reciprocal "], "A": ["disproportionate ", "dissimilar ", "unlike "]}

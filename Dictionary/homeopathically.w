@@ -1,0 +1,1 @@
+{"index": 142830, "D": "of, relating to, or according to the principles of homeopathy.", "S": [], "A": []}

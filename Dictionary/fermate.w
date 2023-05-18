@@ -1,0 +1,1 @@
+{"index": 111372, "D": "the sustaining of a note, chord, or rest for a duration longer than the indicated time value, with the length of the extension at the performer's discretion.", "S": [], "A": []}

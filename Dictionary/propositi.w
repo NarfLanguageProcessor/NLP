@@ -1,0 +1,1 @@
+{"index": 252798, "D": "the person from whom a line of descent is derived on a genealogical table.", "S": [], "A": []}

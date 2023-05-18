@@ -1,0 +1,1 @@
+{"index": 344284, "D": "(of a distribution) having a single mode.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288462, "D": "in good order; well-arranged; trim or tidy.", "S": ["businesslike ", "chipper ", "clean ", "in good shape ", "in tip-top condition ", "neat ", "ordered ", "orderly ", "spick-and-span ", "trim ", "uncluttered ", "well-groomed ", "well-kept "], "A": []}

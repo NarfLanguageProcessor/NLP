@@ -1,0 +1,1 @@
+{"index": 7463, "D": "the state or condition of being an albino. ", "S": [], "A": []}

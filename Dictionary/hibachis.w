@@ -1,0 +1,1 @@
+{"index": 138210, "D": "a small Japanese-style charcoal brazier covered with a grill, usually used for outdoor cooking.", "S": ["broiler ", "fireplace ", "griddle ", "roaster ", "spit "], "A": []}

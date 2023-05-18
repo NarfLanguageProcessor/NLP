@@ -1,0 +1,1 @@
+{"index": 16717, "D": "a mountain range in Italy, extending across the length of the entire peninsula from northwest to southwest. Highest peak, Monte Corno, 9,585 feet (2,922 meters).", "S": [], "A": []}

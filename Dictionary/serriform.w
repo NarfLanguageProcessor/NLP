@@ -1,0 +1,1 @@
+{"index": 286383, "D": "resembling the notched edge of a saw; serrated.", "S": ["indented ", "notched ", "ragged ", "scored ", "serrate "], "A": ["smooth "]}

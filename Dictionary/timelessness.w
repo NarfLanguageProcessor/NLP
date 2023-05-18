@@ -1,0 +1,1 @@
+{"index": 323759, "D": "without beginning or end; eternal; everlasting.", "S": ["ceaselessness ", "eternity ", "permanence ", "perpetuation ", "perpetuity "], "A": []}

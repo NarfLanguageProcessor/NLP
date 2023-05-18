@@ -1,0 +1,1 @@
+{"index": 6329, "D": "a person who holds that the existence of the ultimate cause, as God, and the essential nature of things are unknown and unknowable, or that human knowledge is limited to experience.", "S": ["skeptic "], "A": ["believer "]}

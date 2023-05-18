@@ -1,0 +1,1 @@
+{"index": 255476, "D": "a psychopathic or psychotic person.", "S": ["maniac ", "psychopath ", "psychotic ", "schizophrenic "], "A": []}

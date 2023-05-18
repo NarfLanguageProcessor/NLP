@@ -1,0 +1,1 @@
+{"index": 67592, "D": "a shortening or distortion of muscular or connective tissue due to spasm, scar, or paralysis of the antagonist of the contracting  muscle.", "S": [], "A": []}

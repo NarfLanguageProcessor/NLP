@@ -1,0 +1,1 @@
+{"index": 297638, "D": "any of the silicates in which each silicate tetrahedron shares one of its four oxygen atoms with a neighboring tetrahedron, the ratio of silicon to oxygen being two to seven.", "S": [], "A": []}

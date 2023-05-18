@@ -1,0 +1,1 @@
+{"index": 37232, "D": "a small, pointed instrument for making holes in cloth, leather, etc.", "S": ["bayonet ", "blade ", "sword "], "A": []}

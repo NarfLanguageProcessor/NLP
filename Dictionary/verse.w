@@ -1,0 +1,1 @@
+{"index": 358768, "D": "(not in technical use) a stanza.", "S": ["ballad ", "epic ", "jingle ", "lyrics ", "poem ", "poetry ", "rhyme ", "sonnet ", "stanza "], "A": ["prose "]}

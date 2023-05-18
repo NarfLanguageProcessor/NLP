@@ -1,0 +1,1 @@
+{"index": 153884, "D": "a person or thing that provokes or incites an action or course", "S": [], "A": []}

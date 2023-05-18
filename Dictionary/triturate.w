@@ -1,0 +1,1 @@
+{"index": 330770, "D": "to reduce to fine particles or powder by rubbing, grinding, bruising, or the like; pulverize.", "S": ["crush ", "grind ", "pound ", "rub ", "thrash "], "A": []}

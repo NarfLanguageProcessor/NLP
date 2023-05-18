@@ -1,0 +1,1 @@
+{"index": 328930, "D": "a system of excavations used for the protection of troops, esp those (the Trenches) used at the front line in World War I", "S": ["dike ", "foxhole ", "gorge ", "gully ", "moat ", "pit ", "trough ", "waterway "], "A": []}

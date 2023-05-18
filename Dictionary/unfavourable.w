@@ -1,0 +1,1 @@
+{"index": 342068, "D": "not favourable; adverse or inauspicious", "S": [], "A": []}

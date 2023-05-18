@@ -1,0 +1,1 @@
+{"index": 324971, "D": "a member of a central Asian people of high culture, who were assimilated with other peoples about the 11th century a.d.", "S": [], "A": []}

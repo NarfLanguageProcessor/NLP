@@ -1,0 +1,1 @@
+{"index": 247994, "D": "formal admission or acceptance into an organization or club, adult status in one's community or society, etc.", "S": [], "A": []}

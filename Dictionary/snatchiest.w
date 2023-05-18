@@ -1,0 +1,1 @@
+{"index": 295367, "D": "consisting of, occurring in, or characterized by snatches;  spasmodic; irregular.", "S": [], "A": []}

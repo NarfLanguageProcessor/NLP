@@ -1,0 +1,1 @@
+{"index": 316509, "D": "the dried roots of any of several composite plants of the genus Taraxacum, as the dandelion, T. officinale or T. laevigatum, used in medicine in powdered or fluidextract form chiefly as a tonic and aperient.", "S": [], "A": []}

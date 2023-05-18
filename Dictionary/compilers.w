@@ -1,0 +1,1 @@
+{"index": 64570, "D": "a person who compiles. ", "S": ["connoisseur ", "hobbyist "], "A": []}

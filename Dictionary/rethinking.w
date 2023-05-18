@@ -1,0 +1,1 @@
+{"index": 270401, "D": "to reconsider, especially profoundly.", "S": ["afterthought ", "arriere-pensee ", "better thoughts ", "disillusion ", "double take ", "esprit d'escalier ", "reservation ", "review ", "thinking again "], "A": []}

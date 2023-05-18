@@ -1,0 +1,1 @@
+{"index": 63939, "D": "an act or instance of commencing;  beginning", "S": ["convocation ", "dawning ", "graduation ", "initiation ", "kickoff ", "onset ", "outset "], "A": ["conclusion ", "end ", "ending ", "finish ", "death "]}

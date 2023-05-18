@@ -1,0 +1,1 @@
+{"index": 262121, "D": "to fasten or affix; join; connect", "S": [], "A": []}

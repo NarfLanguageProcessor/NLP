@@ -1,0 +1,1 @@
+{"index": 278111, "D": "of, relating to, or resembling modern humans (Homo sapiens).", "S": [], "A": []}

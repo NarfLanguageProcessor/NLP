@@ -1,0 +1,1 @@
+{"index": 70282, "D": "(in the Middle Ages) a close-fitting outer garment with long sleeves, hip-length for men and full-length for women, often laced or buttoned down the front or back.", "S": [], "A": []}

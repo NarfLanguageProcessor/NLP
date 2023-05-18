@@ -1,0 +1,1 @@
+{"index": 360509, "D": "Compare dynamism (def. 1), mechanism (def. 8). ", "S": [], "A": []}

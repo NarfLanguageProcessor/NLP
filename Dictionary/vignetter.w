@@ -1,0 +1,1 @@
+{"index": 359627, "D": "a device for blurring the edges of a photographic image so as to fade them into a plain surrounding area.", "S": [], "A": []}

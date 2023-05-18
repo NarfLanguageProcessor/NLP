@@ -1,0 +1,1 @@
+{"index": 206623, "D": "the act of going back to a previous place or state; return or reversion.", "S": [], "A": []}

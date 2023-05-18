@@ -1,0 +1,1 @@
+{"index": 38266, "D": "without result, gain, or advantage; unavailing; useless.", "S": ["fruitless ", "futile ", "idle ", "ineffectual ", "unavailing ", "vain ", "worthless "], "A": []}

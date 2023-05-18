@@ -1,0 +1,1 @@
+{"index": 87724, "D": "subject or left to one's own discretion. ", "S": ["unrestricted "], "A": []}

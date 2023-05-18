@@ -1,0 +1,1 @@
+{"index": 263639, "D": "breaking out afresh or into renewed activity; revival or reappearance in active existence.", "S": [], "A": []}

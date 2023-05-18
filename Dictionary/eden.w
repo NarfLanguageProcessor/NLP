@@ -1,0 +1,1 @@
+{"index": 95679, "D": "the place where Adam and Eve lived before the Fall. Genesis 2", "S": ["Arcadia ", "Shangri-la ", "garden ", "heaven ", "utopia "], "A": ["hell "]}

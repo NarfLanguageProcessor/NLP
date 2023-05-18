@@ -1,0 +1,1 @@
+{"index": 241631, "D": "a form of government in which power is vested in three or more persons.", "S": [], "A": []}

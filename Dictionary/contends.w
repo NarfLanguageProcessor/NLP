@@ -1,0 +1,1 @@
+{"index": 67367, "D": "third person singular present indicative of contend. ", "S": ["argue ", "confront ", "cope ", "dispute ", "go after ", "grapple ", "meet ", "oppose ", "push for ", "resist ", "vie "], "A": ["agree ", "comply ", "go along ", "hide ", "make peace ", "retreat ", "surrender ", "yield "]}

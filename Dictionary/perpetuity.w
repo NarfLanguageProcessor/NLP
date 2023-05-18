@@ -1,0 +1,1 @@
+{"index": 231811, "D": "the state or character of being perpetual  (often preceded by in)", "S": ["constancy ", "continuance ", "continuity ", "endurance "], "A": ["end ", "stoppage "]}

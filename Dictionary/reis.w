@@ -1,0 +1,1 @@
+{"index": 266531, "D": "a former money of account of Portugal and Brazil.", "S": [], "A": []}

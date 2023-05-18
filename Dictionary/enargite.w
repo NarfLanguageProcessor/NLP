@@ -1,0 +1,1 @@
+{"index": 99088, "D": "a mineral, copper arsenic and sulfide, Cu3AsS4, occurring in the form of black orthorhombic crystals having perfect cleavage", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 162541, "D": "a reason, fact, circumstance, or explanation that justifies  or defends", "S": ["causes ", "details ", "explanations ", "whys "], "A": []}

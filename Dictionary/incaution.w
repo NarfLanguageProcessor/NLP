@@ -1,0 +1,1 @@
+{"index": 149739, "D": "lack of caution;  heedlessness; carelessness.", "S": [], "A": []}

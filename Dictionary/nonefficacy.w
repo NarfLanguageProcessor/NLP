@@ -1,0 +1,1 @@
+{"index": 203373, "D": "capacity for producing a desired result or effect; effectiveness", "S": [], "A": []}

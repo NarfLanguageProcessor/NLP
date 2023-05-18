@@ -1,0 +1,1 @@
+{"index": 225751, "D": "to make parallel;  place so as to be parallel. ", "S": ["complement ", "correlate ", "correspond ", "imitate "], "A": ["differ ", "disagree ", "imbalance ", "refuse "]}

@@ -1,0 +1,1 @@
+{"index": 109064, "D": "(of a verb, adjective, or noun phrase) presupposing the truth of an embedded sentence that serves as complement, as realize in I didn't realize that he had left, which presupposes that it is true that he had left.", "S": [], "A": []}

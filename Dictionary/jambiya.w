@@ -1,0 +1,1 @@
+{"index": 160249, "D": "an Arabian knife having a curved, double-edged blade, usually with a central rib.", "S": [], "A": []}

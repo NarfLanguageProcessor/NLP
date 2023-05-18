@@ -1,0 +1,1 @@
+{"index": 212818, "D": "a plant, Allium cepa, of the amaryllis family, having an edible, succulent, pungent bulb.", "S": [], "A": []}

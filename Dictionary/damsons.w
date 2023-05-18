@@ -1,0 +1,1 @@
+{"index": 76654, "D": "the small, dark-blue or purple fruit of a plum, Prunus insititia, of the rose family, introduced into Europe from Asia Minor.", "S": [], "A": []}

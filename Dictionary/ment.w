@@ -1,0 +1,1 @@
+{"index": 183492, "D": "a suffix of nouns, often concrete, denoting an action or resulting state (abridgment; refreshment), a product (fragment), or means (ornament).", "S": [], "A": []}

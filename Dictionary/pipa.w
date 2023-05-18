@@ -1,0 +1,1 @@
+{"index": 237392, "D": "a short-necked fretted lute of Chinese origin.", "S": [], "A": []}

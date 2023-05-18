@@ -1,0 +1,1 @@
+{"index": 275372, "D": "(of apparel) having ruffles. ", "S": ["annoyed ", "bewildered ", "distracted ", "disturbed ", "embarrassed ", "fazed ", "flustered ", "nonplussed ", "perturbed ", "rattled ", "thrown ", "troubled ", "unsettled ", "unzipped ", "upset "], "A": ["happy ", "settled "]}

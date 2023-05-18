@@ -1,0 +1,1 @@
+{"index": 266376, "D": "to look carefully at or over; view closely and critically", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43569, "D": "any of various shrikes of the genus Lanius, which impale their prey upon thorns.", "S": [], "A": []}

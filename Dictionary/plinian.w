@@ -1,0 +1,1 @@
+{"index": 240124, "D": "(of a volcanic eruption) characterized by repeated explosions", "S": [], "A": []}

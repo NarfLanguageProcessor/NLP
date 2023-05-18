@@ -1,0 +1,1 @@
+{"index": 2549, "D": "a silver coin minted in England in the late 18th and early 19th centuries for use in western Africa.", "S": [], "A": []}

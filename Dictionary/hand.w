@@ -1,0 +1,1 @@
+{"index": 133091, "D": "the terminal, prehensile part of the upper limb in humans and other primates, consisting of the wrist, metacarpal area, fingers, and thumb.", "S": ["appendage ", "fist ", "grip ", "palm "], "A": ["foot "]}

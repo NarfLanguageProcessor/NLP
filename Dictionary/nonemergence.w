@@ -1,0 +1,1 @@
+{"index": 203465, "D": "the act or process of emerging. ", "S": [], "A": []}

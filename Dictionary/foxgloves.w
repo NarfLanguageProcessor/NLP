@@ -1,0 +1,1 @@
+{"index": 118086, "D": "any Eurasian plant belonging to the genus Digitalis, of the figwort family, especially D. purpurea, having drooping, tubular, purple or white flowers on tall spikes, and leaves that are the source of digitalis in medicine.", "S": [], "A": []}

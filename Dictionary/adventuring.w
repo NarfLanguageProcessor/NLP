@@ -1,0 +1,1 @@
+{"index": 4621, "D": "an exciting or very unusual experience.", "S": ["compromise ", "defy ", "endanger ", "imperil ", "jeopardize "], "A": ["guard ", "protect ", "save ", "avoid ", "be careful ", "design ", "dodge ", "hide ", "neglect ", "plan ", "retreat ", "run away "]}

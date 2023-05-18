@@ -1,0 +1,1 @@
+{"index": 28572, "D": "in a way that involves or affects the fundamental character or condition", "S": ["essentially ", "mostly "], "A": ["additionally ", "extra "]}

@@ -1,0 +1,1 @@
+{"index": 328261, "D": "to carry, move, or convey from one place to another.", "S": ["shipment ", "shipping ", "transit ", "transportation "], "A": ["remain ", "stay "]}

@@ -1,0 +1,1 @@
+{"index": 13364, "D": "the fact of having unequal physical properties along different axes", "S": [], "A": []}

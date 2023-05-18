@@ -1,0 +1,1 @@
+{"index": 73120, "D": "any plant, as certain algae, mosses, fungi, and bacteria, that grows on ice or snow.", "S": [], "A": []}

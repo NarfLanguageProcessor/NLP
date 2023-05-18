@@ -1,0 +1,1 @@
+{"index": 29762, "D": "(of a sailing boat or ship) motionless through lack of wind", "S": ["frozen ", "immobile ", "inert ", "lifeless ", "paralyzed ", "stagnant ", "stationary ", "steadfast "], "A": ["alive ", "lively ", "mobile ", "moving ", "unfixed "]}

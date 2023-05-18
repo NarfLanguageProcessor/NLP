@@ -1,0 +1,1 @@
+{"index": 82564, "D": "having or expressing desire.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 225168, "D": "like paper;  thin or flimsy", "S": ["chiffon ", "decrepit ", "feeble ", "insubstantial ", "rickety ", "shaky ", "tacky "], "A": ["strong ", "substantial ", "solid ", "sturdy ", "thick "]}

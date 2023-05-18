@@ -1,0 +1,1 @@
+{"index": 139058, "D": "any freshwater or marine coelenterate of the class Hydrozoa, including free-swimming or attached types, as the hydra, in which one developmental stage, either the polyp or medusa, is absent, and colonial types, as the Portuguese man-of-war, in which both medusa and polyp stages are present in a single colony.", "S": [], "A": []}

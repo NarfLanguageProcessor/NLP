@@ -1,0 +1,1 @@
+{"index": 258392, "D": "a jump turn in which a skier lands at right angles to the pole or poles.", "S": [], "A": []}

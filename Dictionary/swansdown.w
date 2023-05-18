@@ -1,0 +1,1 @@
+{"index": 314092, "D": "the down  or under plumage of a swan,  used for trimming, powder puffs, etc.", "S": [], "A": []}

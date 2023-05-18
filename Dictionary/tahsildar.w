@@ -1,0 +1,1 @@
+{"index": 315308, "D": "(in India) a collector for, or official of, the revenue department.", "S": [], "A": []}

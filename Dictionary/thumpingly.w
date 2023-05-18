@@ -1,0 +1,1 @@
+{"index": 322992, "D": "of, like, or pertaining to a thump. ", "S": [], "A": []}

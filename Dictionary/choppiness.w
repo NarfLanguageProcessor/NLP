@@ -1,0 +1,1 @@
+{"index": 55697, "D": "(of the sea, a lake, etc.) forming short, irregular, broken waves.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 121144, "D": "an Australian cockatoo, Kakatoe roseicapilla, having rose-colored underparts.", "S": [], "A": []}

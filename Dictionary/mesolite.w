@@ -1,0 +1,1 @@
+{"index": 184250, "D": "a mineral variety of the zeolite group, intermediate in chemical composition between natrolite and scolecite.", "S": [], "A": []}

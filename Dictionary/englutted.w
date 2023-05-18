@@ -1,0 +1,1 @@
+{"index": 100415, "D": "to gulp down.", "S": ["down ", "engorge ", "glut ", "gobble ", "gorge ", "guzzle ", "ingurgitate ", "overeat ", "overindulge ", "stuff ", "wolf "], "A": ["abstain ", "diet ", "fast ", "nibble "]}

@@ -1,0 +1,1 @@
+{"index": 124016, "D": "the study or the application of the influence of political and economic geography on the politics, national power, foreign policy, etc., of a state.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293614, "D": "to shut with force and noise", "S": ["airtight ", "fast ", "short ", "uncomfortable "], "A": ["loose "]}

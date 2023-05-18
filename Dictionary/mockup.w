@@ -1,0 +1,1 @@
+{"index": 191022, "D": "a model, often full-size, for study, testing, or teaching", "S": ["copy ", "figure ", "image ", "painting ", "photograph ", "picture ", "portrait "], "A": ["being ", "entity ", "original "]}

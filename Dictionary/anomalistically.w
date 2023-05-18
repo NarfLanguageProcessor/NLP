@@ -1,0 +1,1 @@
+{"index": 13753, "D": "of or relating to an anomaly. ", "S": [], "A": []}

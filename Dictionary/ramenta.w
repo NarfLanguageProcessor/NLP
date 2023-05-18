@@ -1,0 +1,1 @@
+{"index": 260285, "D": "a scraping, shaving, or particle.", "S": [], "A": []}

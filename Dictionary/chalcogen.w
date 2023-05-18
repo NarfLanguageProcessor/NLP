@@ -1,0 +1,1 @@
+{"index": 52102, "D": "any of the elements oxygen, sulfur, selenium, tellurium, and polonium, which form the VIa group in the periodic table.", "S": [], "A": []}

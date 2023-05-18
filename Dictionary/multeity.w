@@ -1,0 +1,1 @@
+{"index": 194984, "D": "manifoldness", "S": ["diversification "], "A": ["agreement ", "sameness "]}

@@ -1,0 +1,1 @@
+{"index": 349034, "D": "to search thoroughly or vigorously through (a house, receptacle, etc.)", "S": [], "A": []}

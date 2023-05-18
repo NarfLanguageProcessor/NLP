@@ -1,0 +1,1 @@
+{"index": 191481, "D": "a silver-white metallic element, used as an alloy with iron in making hard, high-speed cutting tools. Symbol", "S": [], "A": []}

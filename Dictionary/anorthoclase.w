@@ -1,0 +1,1 @@
+{"index": 13876, "D": "a variety of microcline, rich in sodium and sometimes having a play of color", "S": [], "A": []}

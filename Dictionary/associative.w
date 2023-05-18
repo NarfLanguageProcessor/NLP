@@ -1,0 +1,1 @@
+{"index": 21877, "D": "pertaining to or resulting from association.", "S": ["akin ", "alike ", "cliquish ", "close ", "insular ", "like ", "narrow ", "related ", "reserved ", "restricting ", "restrictive ", "sectarian ", "unfriendly ", "unreceptive "], "A": ["friendly ", "open ", "welcoming "]}

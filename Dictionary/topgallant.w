@@ -1,0 +1,1 @@
+{"index": 325860, "D": "a mast on a square-rigger above a topmast or an extension of a topmast", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 239245, "D": "the quality or state of being plastic. ", "S": ["elasticity ", "flexibility ", "malleability ", "mobility ", "resilience "], "A": []}

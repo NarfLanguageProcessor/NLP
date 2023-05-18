@@ -1,0 +1,1 @@
+{"index": 263676, "D": "plural of rectus. ", "S": ["folio ", "leaf ", "side ", "signature ", "surface ", "verso "], "A": ["inside ", "middle "]}

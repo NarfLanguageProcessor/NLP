@@ -1,0 +1,1 @@
+{"index": 339441, "D": "to mark with a line or lines underneath; underscore.", "S": ["attention ", "insistence ", "intensity ", "priority ", "significance ", "strength ", "stress ", "weight "], "A": ["ignorance ", "lethargy ", "triviality ", "unimportance ", "incompetence ", "weakness "]}

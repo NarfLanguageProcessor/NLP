@@ -1,0 +1,1 @@
+{"index": 108911, "D": "a brand of waterproof fabric having a cloth foundation and a pyroxylin surface, used especially as a substitute for leather in bookbindings, upholstery, etc.", "S": [], "A": []}

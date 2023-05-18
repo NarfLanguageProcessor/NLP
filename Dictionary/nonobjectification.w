@@ -1,0 +1,1 @@
+{"index": 205538, "D": "the act or an instance of treating a person as an object or thing", "S": [], "A": []}

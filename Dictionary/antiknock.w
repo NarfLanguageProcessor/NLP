@@ -1,0 +1,1 @@
+{"index": 15409, "D": "noting or pertaining to a substance, as tetraethyllead  or ferrocene,  used as a fuel additive for an internal-combustion engine to eliminate or minimize knock. ", "S": [], "A": []}

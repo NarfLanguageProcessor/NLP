@@ -1,0 +1,1 @@
+{"index": 290827, "D": "having a likeness or resemblance, especially in a general way", "S": ["akin ", "analogous ", "comparable ", "complementary ", "identical ", "related "], "A": ["alien ", "different ", "disconnected ", "dissimilar ", "unalike ", "unequal ", "unlike ", "unrelated "]}

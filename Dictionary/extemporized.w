@@ -1,0 +1,1 @@
+{"index": 108206, "D": "to speak extemporaneously", "S": ["extemporize ", "impromptu ", "improvise ", "improvised "], "A": ["deliberate ", "planned ", "prepared ", "rehearsed ", "written "]}

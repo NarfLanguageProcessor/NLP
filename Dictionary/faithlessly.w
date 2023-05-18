@@ -1,0 +1,1 @@
+{"index": 109369, "D": "not adhering to allegiance, promises, vows, or duty", "S": ["maliciously "], "A": ["honestly ", "truthfully "]}

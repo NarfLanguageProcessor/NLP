@@ -1,0 +1,1 @@
+{"index": 44851, "D": "having the form of a shoe or slipper, as the labellum of certain orchids.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 231366, "D": "a group of stones encircling a mound, dolmen, or the like.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 358083, "D": "able to be forgiven or pardoned; not seriously wrong, as a sin (opposed to mortal).", "S": ["all right ", "allowable ", "defensible ", "excusable ", "explainable ", "forgivable ", "justifiable ", "minor ", "not serious ", "not too bad ", "okay ", "permissible ", "slight ", "tolerable ", "trivial ", "understandable "], "A": []}

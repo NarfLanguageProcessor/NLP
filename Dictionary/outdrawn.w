@@ -1,0 +1,1 @@
+{"index": 216498, "D": "to draw  a gun, revolver, etc., from a holster, faster than (an opponent or competitor)", "S": [], "A": []}

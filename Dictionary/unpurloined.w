@@ -1,0 +1,1 @@
+{"index": 348855, "D": "to take dishonestly; steal; filch; pilfer.", "S": [], "A": []}

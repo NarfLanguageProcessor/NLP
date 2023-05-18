@@ -1,0 +1,1 @@
+{"index": 29135, "D": "a game from which badminton was developed, played since ancient times in India and other Asian countries.", "S": [], "A": []}

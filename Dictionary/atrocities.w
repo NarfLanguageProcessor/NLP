@@ -1,0 +1,1 @@
+{"index": 22877, "D": "the quality or state of being atrocious. ", "S": ["barbarity ", "horror "], "A": ["good behavior ", "kindness ", "pleasantness ", "pleasantry "]}

@@ -1,0 +1,1 @@
+{"index": 343976, "D": "designating any of the Eastern Churches that retain their own liturgy but submit to papal authority", "S": [], "A": []}

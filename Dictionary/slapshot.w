@@ -1,0 +1,1 @@
+{"index": 293689, "D": "a very powerful, fast-moving shot of the puck on goal made with a full backswing of the stick and an extended follow-through.", "S": ["flick ", "wrist shot "], "A": []}

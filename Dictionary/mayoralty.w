@@ -1,0 +1,1 @@
+{"index": 177968, "D": "the office or tenure of a mayor.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 169137, "D": "the action or sound of laughing. ", "S": ["amusement ", "chuckle ", "giggle ", "glee ", "guffaw ", "hilarity ", "laugh ", "mirth ", "roar ", "shout ", "shriek ", "snicker "], "A": ["crying ", "sadness ", "unhappiness "]}

@@ -1,0 +1,1 @@
+{"index": 28382, "D": "Guatemalan statesman", "S": ["central city ", "downtown ", "ghetto ", "slum "], "A": []}

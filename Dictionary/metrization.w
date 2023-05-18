@@ -1,0 +1,1 @@
+{"index": 185430, "D": "to find a metric  for (a topological space for which the metric topology  is the given topology).", "S": [], "A": []}

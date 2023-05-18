@@ -1,0 +1,1 @@
+{"index": 29395, "D": "material composed of or adorned with beads.", "S": ["bead ", "bleed ", "distill ", "drain ", "dribble ", "drip ", "emanate ", "hail ", "leak ", "ooze ", "percolate ", "precipitate ", "seep ", "snow ", "splash ", "trickle "], "A": ["deluge ", "downpour ", "flood ", "pour "]}

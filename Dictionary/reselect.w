@@ -1,0 +1,1 @@
+{"index": 269163, "D": "to choose (someone or something) again, esp to choose an existing office-holder as candidate for re-election", "S": [], "A": []}

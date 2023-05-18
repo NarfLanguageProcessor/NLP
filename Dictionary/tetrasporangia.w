@@ -1,0 +1,1 @@
+{"index": 320207, "D": "a sporangium  containing four asexual spores.", "S": [], "A": []}

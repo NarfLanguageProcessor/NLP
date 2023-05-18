@@ -1,0 +1,1 @@
+{"index": 347688, "D": "to cause (a liquid) to pass through a porous body; filter.", "S": [], "A": []}

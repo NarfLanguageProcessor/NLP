@@ -1,0 +1,1 @@
+{"index": 363682, "D": "a wheel containing a plate or web instead of spokes", "S": [], "A": []}

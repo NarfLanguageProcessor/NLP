@@ -1,0 +1,1 @@
+{"index": 227932, "D": "inheritance in which the traits of the offspring are derived primarily from the paternal parent (opposed to matrocliny).", "S": [], "A": []}

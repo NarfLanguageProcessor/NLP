@@ -1,0 +1,1 @@
+{"index": 163273, "D": "a small, light, low-slung, four-wheeled vehicle, usually powered by a gasoline engine, capable of speeds up to 60 miles per hour (96 km/h), and used for racing or recreation.", "S": [], "A": []}

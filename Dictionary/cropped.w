@@ -1,0 +1,1 @@
+{"index": 73722, "D": "the cultivated produce of the ground, while growing or when gathered", "S": ["coiffed ", "cut ", "shortened ", "trimmed "], "A": []}

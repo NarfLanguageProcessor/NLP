@@ -1,0 +1,1 @@
+{"index": 265200, "D": "flowing back; ebbing, as the waters of a tide.", "S": [], "A": []}

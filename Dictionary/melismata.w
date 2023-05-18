@@ -1,0 +1,1 @@
+{"index": 182901, "D": "an ornamental phrase of several notes sung to one syllable of text, as in plainsong or blues singing.", "S": [], "A": []}

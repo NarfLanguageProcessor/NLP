@@ -1,0 +1,1 @@
+{"index": 264557, "D": "to instruct or benefit, especially morally or spiritually; uplift", "S": [], "A": []}

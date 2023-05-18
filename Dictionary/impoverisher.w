@@ -1,0 +1,1 @@
+{"index": 148981, "D": "to reduce to poverty", "S": [], "A": []}

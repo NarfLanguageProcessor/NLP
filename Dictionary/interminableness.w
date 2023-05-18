@@ -1,0 +1,1 @@
+{"index": 155372, "D": "incapable of being terminated; unending", "S": [], "A": []}

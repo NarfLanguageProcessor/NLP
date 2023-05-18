@@ -1,0 +1,1 @@
+{"index": 242564, "D": "shrewd or prudent in practical matters; tactful; diplomatic.", "S": [], "A": []}

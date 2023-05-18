@@ -1,0 +1,1 @@
+{"index": 170790, "D": "any of several spirally shaped, aerobic bacteria of the genus Leptospira, certain species of which are pathogenic for human beings.", "S": [], "A": []}

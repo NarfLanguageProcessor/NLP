@@ -1,0 +1,1 @@
+{"index": 364724, "D": "for what? for what reason, cause, or purpose?", "S": ["cause ", "motive ", "mystery ", "proof "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 71321, "D": "(sometimes singular) physiol another word for menses", "S": ["development ", "line ", "plan ", "policy ", "procedure ", "program ", "series ", "system ", "way "], "A": ["disorder ", "disorganization ", "cessation ", "halt ", "stoppage "]}

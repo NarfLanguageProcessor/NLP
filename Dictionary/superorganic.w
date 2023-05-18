@@ -1,0 +1,1 @@
+{"index": 312364, "D": "of or relating to the structure of cultural elements within society conceived as independent of and superior to the individual members of society.", "S": [], "A": []}

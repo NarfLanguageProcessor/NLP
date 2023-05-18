@@ -1,0 +1,1 @@
+{"index": 254157, "D": "exceptional valor, bravery, or ability, especially in combat or battle.", "S": [], "A": []}

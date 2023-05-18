@@ -1,0 +1,1 @@
+{"index": 293261, "D": "(of liquor, soup, etc.) watery; diluted or thin.", "S": [], "A": []}

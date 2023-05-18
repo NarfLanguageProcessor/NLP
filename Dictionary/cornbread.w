@@ -1,0 +1,1 @@
+{"index": 69232, "D": "a quick bread made from cornmeal and often including buttermilk or bacon drippings, originating from the cooking of Native Americans and common in the American South.", "S": [], "A": []}

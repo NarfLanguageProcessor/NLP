@@ -1,0 +1,1 @@
+{"index": 199353, "D": "attention; heed; notice (usually used in negative constructions)", "S": ["don't bother ", "don't concern yourself ", "drop it ", "ignore it ", "it doesn't matter ", "it's all right ", "let it go ", "nothing ", "stop "], "A": []}

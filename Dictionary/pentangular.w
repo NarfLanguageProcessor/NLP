@@ -1,0 +1,1 @@
+{"index": 229975, "D": "having five angles and five sides; pentagonal.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 151324, "D": "to install in an office, benefice, position, etc., especially with formal ceremonies", "S": ["drafted ", "initiated "], "A": []}

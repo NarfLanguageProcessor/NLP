@@ -1,0 +1,1 @@
+{"index": 2239, "D": [], "S": ["bleak ", "discouraging ", "disheartening ", "dismal ", "dreary ", "dull ", "funereal ", "somber "], "A": ["bright ", "cheerful ", "clear ", "encouraging ", "happy ", "joyful ", "light ", "lively ", "pleasant "]}

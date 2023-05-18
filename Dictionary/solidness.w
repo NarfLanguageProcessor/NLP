@@ -1,0 +1,1 @@
+{"index": 296753, "D": "having three dimensions (length, breadth, and thickness), as a geometrical body or figure.", "S": ["closeness ", "concentration ", "denseness ", "density ", "solidity ", "tightness "], "A": []}

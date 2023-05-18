@@ -1,0 +1,1 @@
+{"index": 213908, "D": "any of several herbaceous plants or small shrubs of the chenopodiaceous genus Atriplex, esp A. hortensis (garden orache), which is cultivated as a vegetable. They have typically greyish-green lobed leaves and inconspicuous flowers", "S": [], "A": []}

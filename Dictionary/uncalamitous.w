@@ -1,0 +1,1 @@
+{"index": 336380, "D": "causing or involving calamity;  disastrous", "S": [], "A": []}

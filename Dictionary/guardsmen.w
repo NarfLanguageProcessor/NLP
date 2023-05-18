@@ -1,0 +1,1 @@
+{"index": 130810, "D": "a person who acts as a guard.", "S": [], "A": []}

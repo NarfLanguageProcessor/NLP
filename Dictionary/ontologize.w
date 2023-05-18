@@ -1,0 +1,1 @@
+{"index": 212959, "D": "to express in ontological terms; regard from an ontological viewpoint.", "S": [], "A": []}

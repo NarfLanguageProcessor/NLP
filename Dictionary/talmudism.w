@@ -1,0 +1,1 @@
+{"index": 315742, "D": "the collection of Jewish law and tradition consisting of the Mishnah and the Gemara and being either the edition produced in Palestine a.d. c400 or the larger, more important one produced in Babylonia a.d. c500.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 207434, "D": "of or like a spectacle;  marked by or given to an impressive, large-scale display.", "S": [], "A": []}

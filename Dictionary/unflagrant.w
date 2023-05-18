@@ -1,0 +1,1 @@
+{"index": 342331, "D": "shockingly noticeable or evident; obvious; glaring", "S": [], "A": []}

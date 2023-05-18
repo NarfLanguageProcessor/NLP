@@ -1,0 +1,1 @@
+{"index": 212372, "D": "a card game popular in the 17th and 18th centuries and played, usually by three persons, with 40 cards.", "S": [], "A": []}

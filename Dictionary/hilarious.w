@@ -1,0 +1,1 @@
+{"index": 139405, "D": "arousing great merriment; extremely funny", "S": ["amusing ", "comical ", "entertaining ", "humorous ", "laughable ", "lively ", "priceless ", "uproarious "], "A": ["boring ", "grave ", "sad ", "serious ", "solemn ", "tiring ", "tragic "]}

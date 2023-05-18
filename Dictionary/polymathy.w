@@ -1,0 +1,1 @@
+{"index": 242030, "D": "learning in many fields; encyclopedic knowledge.", "S": [], "A": []}

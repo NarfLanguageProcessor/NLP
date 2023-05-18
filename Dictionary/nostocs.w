@@ -1,0 +1,1 @@
+{"index": 208778, "D": "any freshwater, blue-green alga of the genus Nostoc, often occurring in jellylike colonies in moist places.", "S": [], "A": []}

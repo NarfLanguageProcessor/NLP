@@ -1,0 +1,1 @@
+{"index": 56634, "D": "thoroughly unpleasant or nauseating; revolting.", "S": [], "A": []}

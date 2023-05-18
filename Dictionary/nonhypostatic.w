@@ -1,0 +1,1 @@
+{"index": 204456, "D": "of or relating to a hypostasis;  fundamental.", "S": [], "A": []}

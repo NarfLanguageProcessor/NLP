@@ -1,0 +1,1 @@
+{"index": 68342, "D": "a mineral, sulfide and arsenide of platinum, occurring in igneous rocks in the form of steel-gray crystals.", "S": [], "A": []}

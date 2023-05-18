@@ -1,0 +1,1 @@
+{"index": 89232, "D": "capable of being disputed;  debatable; questionable.", "S": ["arguable ", "controversial ", "doubtful ", "dubious ", "moot ", "mootable ", "problematic ", "questionable ", "uncertain "], "A": ["inarguable ", "indisputable ", "unquestionable "]}

@@ -1,0 +1,1 @@
+{"index": 147924, "D": "vast; huge;  very great", "S": ["bigness ", "bulk ", "greatness ", "immensity ", "magnitude ", "massiveness ", "size ", "vastness "], "A": ["insignificance ", "smallness ", "tininess ", "unimportance "]}

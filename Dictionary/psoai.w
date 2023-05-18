@@ -1,0 +1,1 @@
+{"index": 255608, "D": "either of two muscles, one on each side of the loin, extending internally from the sides of the spinal column to the upper end of the femur, which assist in flexing and rotating the thigh and flexing the trunk on the pelvis.", "S": [], "A": []}

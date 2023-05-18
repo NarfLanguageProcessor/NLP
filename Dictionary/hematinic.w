@@ -1,0 +1,1 @@
+{"index": 135918, "D": "a medicine, as a compound of iron, that tends to increase the amount of hematin  or hemoglobin in the blood.", "S": [], "A": []}

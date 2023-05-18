@@ -1,0 +1,1 @@
+{"index": 52180, "D": "a chalklike concretion in the tissues or small joints of a person with gout.", "S": [], "A": []}

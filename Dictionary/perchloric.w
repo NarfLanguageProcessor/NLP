@@ -1,0 +1,1 @@
+{"index": 230422, "D": "of or derived from perchloric acid. ", "S": [], "A": []}

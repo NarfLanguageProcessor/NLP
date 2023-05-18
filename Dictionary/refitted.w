@@ -1,0 +1,1 @@
+{"index": 265090, "D": "to fit,  prepare, or equip again.", "S": ["cooked ", "corrected ", "modified ", "transformed ", "updated "], "A": ["unqualified "]}

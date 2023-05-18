@@ -1,0 +1,1 @@
+{"index": 307502, "D": "the doping subcommission reported to the medical commission", "S": [], "A": []}

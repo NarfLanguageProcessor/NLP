@@ -1,0 +1,1 @@
+{"index": 104942, "D": "to put under the influence of ether;  anesthetize.", "S": [], "A": []}

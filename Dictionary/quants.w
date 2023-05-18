@@ -1,0 +1,1 @@
+{"index": 257961, "D": "an expert in quantitative analysis.", "S": ["assistant ", "educator ", "faculty member ", "fellow ", "instructor ", "lecturer ", "principal ", "teacher ", "tutor "], "A": ["pupil ", "student "]}

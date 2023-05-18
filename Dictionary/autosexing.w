@@ -1,0 +1,1 @@
+{"index": 24379, "D": "breeding, especially of domestic fowl, to reveal sexual characteristics at birth or hatching in order to separate males from females.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309717, "D": "swollen, especially on one side or unequally; protuberant.", "S": [], "A": []}

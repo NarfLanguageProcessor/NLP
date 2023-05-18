@@ -1,0 +1,1 @@
+{"index": 369417, "D": "a brittle, deep-red to orange-yellow mineral, native zinc oxide,  ZnO, usually massive or granular", "S": [], "A": []}

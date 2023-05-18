@@ -1,0 +1,1 @@
+{"index": 197932, "D": "a corduroy fabric with narrow ribs", "S": [], "A": []}

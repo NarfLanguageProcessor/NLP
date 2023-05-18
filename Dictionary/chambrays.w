@@ -1,0 +1,1 @@
+{"index": 52275, "D": "a fine cloth of cotton, silk, or linen, commonly of plain weave with a colored warp and white weft.", "S": [], "A": []}

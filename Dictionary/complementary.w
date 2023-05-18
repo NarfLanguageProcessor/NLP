@@ -1,0 +1,1 @@
+{"index": 64620, "D": "forming a complement;  completing.", "S": ["integral ", "interdependent ", "reciprocal "], "A": ["different ", "dissimilar "]}

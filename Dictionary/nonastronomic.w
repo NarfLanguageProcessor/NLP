@@ -1,0 +1,1 @@
+{"index": 201537, "D": "of, relating to, or connected with astronomy. ", "S": [], "A": []}

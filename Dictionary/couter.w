@@ -1,0 +1,1 @@
+{"index": 71401, "D": "a piece of plate armor for the elbow.", "S": [], "A": []}

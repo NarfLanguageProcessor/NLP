@@ -1,0 +1,1 @@
+{"index": 99853, "D": "a periodic reorganization of the cell nucleus observed in certain ciliated protozoans.", "S": [], "A": []}

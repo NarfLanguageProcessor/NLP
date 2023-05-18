@@ -1,0 +1,1 @@
+{"index": 55485, "D": "a short-sleeved blouse or bodice, often one exposing part of the midriff, worn by Hindu women in India.", "S": [], "A": []}

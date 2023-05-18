@@ -1,0 +1,1 @@
+{"index": 257770, "D": "an extinct equine mammal, Equus quagga, of southern Africa, related to and resembling the zebra, but striped only on the forepart of the body and the head.", "S": [], "A": []}

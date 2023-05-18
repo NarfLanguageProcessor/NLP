@@ -1,0 +1,1 @@
+{"index": 163841, "D": "the doctrine that Christ relinquished His divine attributes so as to experience human suffering.", "S": [], "A": []}

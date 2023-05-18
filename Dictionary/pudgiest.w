@@ -1,0 +1,1 @@
+{"index": 256043, "D": "short and fat or thick", "S": ["chubby ", "plump "], "A": ["skinny ", "thin "]}

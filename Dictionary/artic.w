@@ -1,0 +1,1 @@
+{"index": 20672, "D": "informal short for articulated vehicle", "S": [], "A": []}

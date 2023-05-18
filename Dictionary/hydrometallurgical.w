@@ -1,0 +1,1 @@
+{"index": 138772, "D": "the technique or process of extracting metals at ordinary temperatures by leaching ore with liquid solvents.", "S": [], "A": []}

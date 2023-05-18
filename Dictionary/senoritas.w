@@ -1,0 +1,1 @@
+{"index": 285317, "D": "a Spanish term of address equivalent to miss, used alone or capitalized and prefixed to the name of a girl or unmarried woman. Abbreviation", "S": [], "A": []}

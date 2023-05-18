@@ -1,0 +1,1 @@
+{"index": 5145, "D": "any lighter-than-air aircraft, as a balloon or dirigible.", "S": [], "A": []}

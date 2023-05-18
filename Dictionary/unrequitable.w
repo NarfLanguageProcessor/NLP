@@ -1,0 +1,1 @@
+{"index": 349668, "D": "to make repayment or return for (service, benefits, etc.).", "S": [], "A": []}

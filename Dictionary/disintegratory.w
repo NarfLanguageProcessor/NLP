@@ -1,0 +1,1 @@
+{"index": 88461, "D": "to separate into parts or lose intactness or solidness; break up; deteriorate", "S": [], "A": []}

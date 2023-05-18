@@ -1,0 +1,1 @@
+{"index": 246589, "D": "the act of producing or causing to exist; the act of creating;  engendering.", "S": [], "A": []}

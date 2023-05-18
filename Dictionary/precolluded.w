@@ -1,0 +1,1 @@
+{"index": 246240, "D": "to act together through a secret understanding, especially with evil or harmful intent.", "S": [], "A": []}

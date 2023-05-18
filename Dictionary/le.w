@@ -1,0 +1,1 @@
+{"index": 169491, "D": "a suffix of verbs having a frequentative force", "S": [], "A": []}

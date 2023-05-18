@@ -1,0 +1,1 @@
+{"index": 231466, "D": "(of bacteria) having a uniform distribution of flagella over the body surface.", "S": [], "A": []}

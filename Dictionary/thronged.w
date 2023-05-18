@@ -1,0 +1,1 @@
+{"index": 322809, "D": "a multitude of people crowded or assembled together; crowd.", "S": ["cramped ", "full ", "huddled ", "jam-packed ", "jammed ", "loaded ", "packed ", "populous ", "teeming "], "A": ["deserted ", "empty ", "imprecise ", "loose "]}

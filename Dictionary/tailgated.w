@@ -1,0 +1,1 @@
+{"index": 315354, "D": "the board or gate  at the back of a wagon, truck, station wagon, etc., which can be removed or let down for convenience in loading or unloading.", "S": ["attend ", "escort ", "follow ", "guide ", "lead "], "A": ["abandon ", "disregard ", "leave ", "lose ", "neglect ", "ignore "]}

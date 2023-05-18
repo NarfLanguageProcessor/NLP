@@ -1,0 +1,1 @@
+{"index": 212759, "D": "burdensome, oppressive, or troublesome; causing hardship", "S": ["burdensomely ", "difficultly ", "exhaustingly ", "heavily ", "laboriously ", "troublesomely "], "A": []}

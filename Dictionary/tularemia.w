@@ -1,0 +1,1 @@
+{"index": 332218, "D": "a plaguelike disease of rabbits, squirrels, etc., caused by a bacterium, Francisella tularensis, transmitted to humans by insects or ticks or by the handling of infected animals and causing fever, muscle pain, and symptoms associated with the point of entry into the body.", "S": [], "A": []}

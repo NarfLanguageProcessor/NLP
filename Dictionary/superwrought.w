@@ -1,0 +1,1 @@
+{"index": 312911, "D": "a simple past tense and past participle of work. ", "S": [], "A": []}

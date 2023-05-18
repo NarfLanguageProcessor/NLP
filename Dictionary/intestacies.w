@@ -1,0 +1,1 @@
+{"index": 156255, "D": "the state or fact of being intestate  at death.", "S": [], "A": []}

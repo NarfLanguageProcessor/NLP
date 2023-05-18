@@ -1,0 +1,1 @@
+{"index": 207194, "D": "capable of or being of service;  useful.", "S": [], "A": []}

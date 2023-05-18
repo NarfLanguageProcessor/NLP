@@ -1,0 +1,1 @@
+{"index": 354184, "D": "given to whimsy  or fanciful notions; capricious", "S": [], "A": []}

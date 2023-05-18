@@ -1,0 +1,1 @@
+{"index": 1347, "D": "congenital absence of a heart.", "S": [], "A": []}

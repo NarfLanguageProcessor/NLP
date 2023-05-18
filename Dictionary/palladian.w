@@ -1,0 +1,1 @@
+{"index": 223927, "D": "of or relating to the goddess Athena.", "S": [], "A": []}

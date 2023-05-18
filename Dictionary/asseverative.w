@@ -1,0 +1,1 @@
+{"index": 21740, "D": "the act of asseverating. ", "S": [], "A": []}

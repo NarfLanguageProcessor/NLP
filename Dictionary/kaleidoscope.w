@@ -1,0 +1,1 @@
+{"index": 162875, "D": "an optical instrument in which bits of glass, held loosely at the end of a rotating tube, are shown in continually changing symmetrical forms by reflection in two or more mirrors set at angles to each other.", "S": [], "A": []}

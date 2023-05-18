@@ -1,0 +1,1 @@
+{"index": 265196, "D": "to move along in a stream", "S": [], "A": []}

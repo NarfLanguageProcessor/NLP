@@ -1,0 +1,1 @@
+{"index": 23864, "D": "the ability of some plants of a species to cross-pollinate and others to self-pollinate", "S": [], "A": []}

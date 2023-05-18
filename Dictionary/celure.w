@@ -1,0 +1,1 @@
+{"index": 50670, "D": "an ornamented canopy, as for a bed or dais.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 80040, "D": "carefully weighed or considered; studied; intentional", "S": ["consider ", "consult ", "contemplate ", "mull over ", "ponder ", "reflect ", "weigh "], "A": ["discard ", "disregard ", "forget ", "ignore ", "neglect ", "abstain ", "agree ", "go along "]}

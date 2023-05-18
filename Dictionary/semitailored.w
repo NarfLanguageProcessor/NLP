@@ -1,0 +1,1 @@
+{"index": 285040, "D": "Compare dressmaker (def. 2). ", "S": [], "A": []}

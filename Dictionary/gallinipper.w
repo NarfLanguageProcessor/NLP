@@ -1,0 +1,1 @@
+{"index": 121406, "D": "any of various insects that sting or bite, especially a large American mosquito, Psorophora ciliata.", "S": [], "A": []}

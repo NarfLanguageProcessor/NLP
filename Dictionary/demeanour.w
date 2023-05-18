@@ -1,0 +1,1 @@
+{"index": 80413, "D": "the way a person behaves towards others; conduct", "S": [], "A": []}

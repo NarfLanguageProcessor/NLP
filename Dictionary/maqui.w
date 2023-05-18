@@ -1,0 +1,1 @@
+{"index": 179758, "D": "an evergreen shrub, Aristotelia chilensis, of Chile, having toothed, oblong leaves, greenish-white flowers, and purple berries, grown as an ornamental in S California.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 144999, "D": "(of a cumulus cloud) having a small, flattened appearance.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 34315, "D": "the study of the effects of climate on the biological processes of living organisms.", "S": [], "A": []}

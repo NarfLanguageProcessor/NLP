@@ -1,0 +1,1 @@
+{"index": 275462, "D": "being without rule or law.", "S": [], "A": []}

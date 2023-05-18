@@ -1,0 +1,1 @@
+{"index": 90037, "D": "disesteem; disparagement.", "S": [], "A": []}

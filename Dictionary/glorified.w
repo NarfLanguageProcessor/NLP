@@ -1,0 +1,1 @@
+{"index": 126618, "D": "to cause to be or treat as being more splendid, excellent, etc., than would normally be considered.", "S": ["adored ", "beatified ", "consecrated ", "divine ", "enthroned ", "exalted ", "hallowed ", "redeemed ", "resurrected ", "revered ", "rewarded ", "saved "], "A": ["cursed "]}

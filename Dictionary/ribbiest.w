@@ -1,0 +1,1 @@
+{"index": 272436, "D": "having prominent ribs", "S": [], "A": []}

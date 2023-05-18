@@ -1,0 +1,1 @@
+{"index": 170582, "D": "a member of a people of Sikkim and adjacent areas of Nepal, Bhutan, and India.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 88136, "D": "the study of the operation of factors that cause degeneration in offspring.", "S": [], "A": []}

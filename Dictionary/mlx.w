@@ -1,0 +1,1 @@
+{"index": 190860, "D": "millilux; milliluces or milliluxes.", "S": [], "A": []}

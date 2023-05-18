@@ -1,0 +1,1 @@
+{"index": 174015, "D": "of or relating to Livonia, a former Russian Baltic province, or its inhabitants", "S": [], "A": []}

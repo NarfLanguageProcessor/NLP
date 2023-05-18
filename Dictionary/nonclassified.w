@@ -1,0 +1,1 @@
+{"index": 201978, "D": "arranged or distributed in classes or according to class", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 331626, "D": "to cause (a circular object) to roll along; roll.", "S": ["bunk ", "cot ", "couch ", "crib ", "mattress "], "A": []}

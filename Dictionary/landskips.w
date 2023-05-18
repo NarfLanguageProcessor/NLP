@@ -1,0 +1,1 @@
+{"index": 168026, "D": "an archaic variant of landscape. ", "S": [], "A": []}

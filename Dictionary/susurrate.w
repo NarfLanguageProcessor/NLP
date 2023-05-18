@@ -1,0 +1,1 @@
+{"index": 313820, "D": "to make a soft rustling sound; whisper; murmur", "S": ["babble ", "burble ", "growl ", "gurgle ", "hum ", "moan ", "mumble ", "mutter ", "purr ", "stammer ", "utter ", "whisper "], "A": ["be quiet "]}

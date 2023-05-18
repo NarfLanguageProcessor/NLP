@@ -1,0 +1,1 @@
+{"index": 226890, "D": "characterized by or showing parsimony;  frugal or stingy.", "S": ["avaricious ", "chintzy ", "close ", "frugal ", "greedy ", "illiberal ", "mean ", "miserly ", "penurious ", "prudent ", "saving ", "scrimpy ", "selfish ", "skinflint ", "sparing ", "stingy ", "tight ", "tightfisted ", "tightwad "], "A": ["generous ", "lavish ", "liberal "]}

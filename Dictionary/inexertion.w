@@ -1,0 +1,1 @@
+{"index": 151666, "D": "lack of exertion;  inaction.", "S": [], "A": []}

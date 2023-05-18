@@ -1,0 +1,1 @@
+{"index": 348602, "D": "lasting a long time; lengthy", "S": ["abbreviated ", "brief ", "crisp ", "precise ", "shortened ", "terse "], "A": ["enduring ", "lasting ", "lengthy ", "long "]}

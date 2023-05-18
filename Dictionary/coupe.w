@@ -1,0 +1,1 @@
+{"index": 71256, "D": "a closed, two-door car shorter than a sedan of the same model.", "S": ["auto ", "automobile ", "bus ", "convertible ", "jeep ", "limousine ", "machine ", "motor ", "pickup ", "ride ", "station wagon ", "truck ", "van ", "wagon "], "A": []}

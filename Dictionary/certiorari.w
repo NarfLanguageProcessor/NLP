@@ -1,0 +1,1 @@
+{"index": 51592, "D": "a writ issuing from a superior court calling up the record of a proceeding in an inferior court for review.", "S": [], "A": []}

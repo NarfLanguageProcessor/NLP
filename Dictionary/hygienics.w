@@ -1,0 +1,1 @@
+{"index": 139326, "D": "hygiene (def. 1). ", "S": ["sanitation "], "A": ["dirtiness ", "filth ", "foulness "]}

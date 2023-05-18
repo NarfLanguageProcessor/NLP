@@ -1,0 +1,1 @@
+{"index": 88658, "D": "to deprive or strip of apparatus, furniture, equipment, defenses, etc.", "S": ["break up ", "demolish ", "destroy ", "disassemble ", "raze ", "undo ", "wreck "], "A": ["build ", "construct ", "create ", "repair ", "restore ", "clothe ", "cover "]}

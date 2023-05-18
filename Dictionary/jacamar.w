@@ -1,0 +1,1 @@
+{"index": 159840, "D": "any tropical American bird of the family Galbulidae, having a long bill and usually metallic green plumage above.", "S": [], "A": []}

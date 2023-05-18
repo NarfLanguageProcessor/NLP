@@ -1,0 +1,1 @@
+{"index": 356432, "D": "a membrane-bound cavity within a cell, often containing a watery liquid or secretion.", "S": ["bacterium ", "egg ", "germ ", "unit "], "A": []}

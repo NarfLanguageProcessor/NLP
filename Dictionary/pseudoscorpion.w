@@ -1,0 +1,1 @@
+{"index": 255117, "D": "any of several small arachnids of the order Chelonethida that resemble a tailless scorpion and that feed chiefly on small insects.", "S": [], "A": []}

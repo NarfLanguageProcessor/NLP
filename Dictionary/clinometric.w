@@ -1,0 +1,1 @@
+{"index": 60090, "D": "(of crystals) having oblique angles between one or all axes.", "S": [], "A": []}

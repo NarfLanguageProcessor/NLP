@@ -1,0 +1,1 @@
+{"index": 129888, "D": "a facial expression, often ugly or contorted, that indicates disapproval, pain, etc.", "S": [], "A": []}

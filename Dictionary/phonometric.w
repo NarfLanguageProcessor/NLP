@@ -1,0 +1,1 @@
+{"index": 234751, "D": "a device for measuring the intensity of a sound.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 67038, "D": "a condition of the bowels in which the feces are dry and hardened and evacuation is difficult and infrequent.", "S": ["ache ", "contraction ", "convulsion ", "pain ", "stiffness ", "twinge "], "A": ["comfort ", "ease ", "health ", "aid ", "assistance ", "freedom ", "help ", "promotion ", "support "]}

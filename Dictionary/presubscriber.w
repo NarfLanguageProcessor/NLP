@@ -1,0 +1,1 @@
+{"index": 249714, "D": "a person, company, etc., that subscribes,  as to a publication or concert series.", "S": [], "A": []}

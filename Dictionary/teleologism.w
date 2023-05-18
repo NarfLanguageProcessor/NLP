@@ -1,0 +1,1 @@
+{"index": 318133, "D": "the doctrine that final causes exist.", "S": [], "A": []}

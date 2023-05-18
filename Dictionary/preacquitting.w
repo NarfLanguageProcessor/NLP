@@ -1,0 +1,1 @@
+{"index": 245499, "D": "to relieve from a charge of fault or crime; declare not guilty", "S": [], "A": []}

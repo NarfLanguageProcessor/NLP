@@ -1,0 +1,1 @@
+{"index": 61190, "D": [], "S": ["beat ", "clinch ", "complete ", "cover ", "crown ", "eclipse ", "exceed ", "finish ", "surpass ", "wrap up "], "A": ["begin ", "disregard ", "fail ", "fall behind ", "forget ", "ignore ", "introduce ", "lay out ", "lose ", "start ", "surrender "]}

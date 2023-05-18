@@ -1,0 +1,1 @@
+{"index": 63111, "D": "a conversational exchange; dialogue.", "S": ["chitchat ", "parley "], "A": ["quiet ", "silence "]}

@@ -1,0 +1,1 @@
+{"index": 297422, "D": "of the nature of sophistry;  fallacious.", "S": ["ambiguous ", "cagey ", "deceptive ", "false ", "misleading ", "unclear ", "vague "], "A": ["clear ", "definite ", "honest ", "truthful "]}

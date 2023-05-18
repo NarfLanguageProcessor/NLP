@@ -1,0 +1,1 @@
+{"index": 182530, "D": "any of the huge, slothlike animals of the extinct genus Megatherium, or closely related genera, that lived from the Oligocene to the Pleistocene epochs.", "S": [], "A": []}

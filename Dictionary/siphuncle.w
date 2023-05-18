@@ -1,0 +1,1 @@
+{"index": 292277, "D": "(in a nautilus) the connecting tube that passes from the end of the body through all of the septa to the innermost chamber.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 331469, "D": "a person who drives a truck;  truckdriver.", "S": ["carrier ", "conveyer ", "driver ", "shipper ", "transporter ", "truck driver "], "A": []}

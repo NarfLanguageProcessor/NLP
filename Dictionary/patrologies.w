@@ -1,0 +1,1 @@
+{"index": 227950, "D": "the branch of theology dealing with the teachings of the church fathers.", "S": [], "A": []}

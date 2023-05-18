@@ -1,0 +1,1 @@
+{"index": 357580, "D": "the tenure of a fee held by a vavasor.", "S": [], "A": []}

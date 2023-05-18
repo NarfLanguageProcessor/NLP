@@ -1,0 +1,1 @@
+{"index": 285250, "D": "the dried root of a milkwort, Polygala senega, of the eastern U.S., used as an expectorant and diuretic.", "S": [], "A": []}

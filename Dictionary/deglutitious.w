@@ -1,0 +1,1 @@
+{"index": 79608, "D": "the act or process of swallowing. ", "S": [], "A": []}

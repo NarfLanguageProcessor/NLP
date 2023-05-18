@@ -1,0 +1,1 @@
+{"index": 118414, "D": "desperate or wild with excitement, passion, fear, pain, etc.; frenzied. ", "S": [], "A": []}

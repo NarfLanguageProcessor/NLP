@@ -1,0 +1,1 @@
+{"index": 50430, "D": "any of several Chinese porcelains having a translucent, pale green glaze.", "S": [], "A": []}

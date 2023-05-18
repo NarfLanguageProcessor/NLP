@@ -1,0 +1,1 @@
+{"index": 312261, "D": "in a sullen, gloomy, or ill-humored way", "S": [], "A": []}

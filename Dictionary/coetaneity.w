@@ -1,0 +1,1 @@
+{"index": 62073, "D": "of the same age or duration.", "S": [], "A": []}

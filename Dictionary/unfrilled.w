@@ -1,0 +1,1 @@
+{"index": 342738, "D": "a trimming, as a strip of cloth or lace, gathered at one edge and left loose at the other; ruffle.", "S": [], "A": []}

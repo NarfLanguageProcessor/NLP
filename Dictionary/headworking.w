@@ -1,0 +1,1 @@
+{"index": 134751, "D": "mental labor; thought.", "S": [], "A": []}

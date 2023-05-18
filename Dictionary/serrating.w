@@ -1,0 +1,1 @@
+{"index": 286360, "D": "notched on the edge like a saw", "S": ["bash ", "cut ", "dent ", "depress ", "dint ", "hollow ", "jag ", "mark ", "nick ", "notch ", "pink ", "pit ", "rabbet ", "rut ", "scallop ", "score ", "serrate "], "A": ["raise "]}

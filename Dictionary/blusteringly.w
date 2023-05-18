@@ -1,0 +1,1 @@
+{"index": 36912, "D": "to roar and be tumultuous, as wind.", "S": [], "A": []}

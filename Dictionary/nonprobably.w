@@ -1,0 +1,1 @@
+{"index": 206183, "D": "likely to occur or prove true", "S": [], "A": []}

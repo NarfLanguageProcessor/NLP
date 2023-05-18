@@ -1,0 +1,1 @@
+{"index": 299136, "D": "of Herbert Spencer  or his philosophy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 281542, "D": "to scratch with nails or claws", "S": [], "A": []}

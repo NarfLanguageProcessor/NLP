@@ -1,0 +1,1 @@
+{"index": 167791, "D": "a small lamp, especially a small oil lamp with a tinted glass chimney, formerly very popular as a source of illumination on carriages.", "S": [], "A": []}

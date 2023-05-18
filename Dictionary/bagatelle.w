@@ -1,0 +1,1 @@
+{"index": 26276, "D": "something of little value or importance; a trifle", "S": ["game ", "knickknack ", "toy ", "trifle "], "A": []}

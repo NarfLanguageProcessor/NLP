@@ -1,0 +1,1 @@
+{"index": 28247, "D": "injury of certain organs, especially the ear, due to a change in the atmospheric pressure.", "S": [], "A": []}

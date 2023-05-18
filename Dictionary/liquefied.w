@@ -1,0 +1,1 @@
+{"index": 173282, "D": "to make or become liquid. ", "S": ["falling ", "rolling ", "running ", "sinuous ", "streaming ", "tidal "], "A": ["empty ", "needy ", "solid "]}

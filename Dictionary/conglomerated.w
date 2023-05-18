@@ -1,0 +1,1 @@
+{"index": 66196, "D": "anything composed of heterogeneous materials or elements.", "S": ["caked ", "calcified ", "cemented ", "compact ", "compressed ", "congealed ", "consolidated ", "dried ", "firm ", "indurate ", "petrified ", "poured ", "set ", "solid ", "solidified ", "steeled "], "A": ["flexible ", "indefinite ", "loose ", "slack ", "soft "]}

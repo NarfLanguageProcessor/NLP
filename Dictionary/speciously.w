@@ -1,0 +1,1 @@
+{"index": 298813, "D": "apparently good or right though lacking real merit; superficially pleasing or plausible", "S": ["allegedly ", "ostensibly ", "possibly ", "probably ", "supposedly "], "A": ["improbably ", "unlikely "]}

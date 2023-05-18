@@ -1,0 +1,1 @@
+{"index": 149886, "D": "to cut into; cut marks, figures, etc., upon.", "S": ["engrave ", "etch "], "A": []}

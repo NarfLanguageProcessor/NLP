@@ -1,0 +1,1 @@
+{"index": 237989, "D": "a nitrocellulose compound containing fewer nitrate groups than guncotton, used in the manufacture of artificial silk, leather, oilcloth, etc.", "S": [], "A": []}

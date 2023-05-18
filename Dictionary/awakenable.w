@@ -1,0 +1,1 @@
+{"index": 24940, "D": "to awake; waken.", "S": [], "A": []}

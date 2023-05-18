@@ -1,0 +1,1 @@
+{"index": 156002, "D": "pertaining to, situated in, or forming interstices. ", "S": [], "A": []}

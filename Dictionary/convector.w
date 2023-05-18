@@ -1,0 +1,1 @@
+{"index": 67914, "D": "any fluid or device transferring heat by convection.", "S": ["boiler ", "fastball ", "furnace ", "oven ", "radiator ", "stove "], "A": []}

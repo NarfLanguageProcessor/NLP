@@ -1,0 +1,1 @@
+{"index": 89642, "D": "to make a solution of, as by mixing with a liquid; pass into solution", "S": ["soften "], "A": ["appear ", "assemble ", "coagulate ", "concentrate ", "continue ", "integrate ", "marry ", "put together ", "resolve ", "solidify ", "unite "]}

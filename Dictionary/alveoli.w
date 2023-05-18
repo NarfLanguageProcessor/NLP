@@ -1,0 +1,1 @@
+{"index": 9686, "D": "a little cavity, pit, or cell, as a cell of a honeycomb.", "S": ["bronchi ", "pleura "], "A": []}

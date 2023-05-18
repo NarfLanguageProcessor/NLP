@@ -1,0 +1,1 @@
+{"index": 57200, "D": "any of the homologous series of saturated, alicyclic hydrocarbons having the general formula CnH2n.", "S": [], "A": []}

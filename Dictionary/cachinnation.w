@@ -1,0 +1,1 @@
+{"index": 44102, "D": "raucous laughter", "S": ["cackle ", "guffaw ", "hilarity ", "laughter ", "roar "], "A": []}

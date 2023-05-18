@@ -1,0 +1,1 @@
+{"index": 346841, "D": "having or showing qualities befitting a neighbor;  friendly.", "S": ["grumpy ", "ornery ", "rude ", "sullen ", "uncivilized "], "A": ["happy ", "nice ", "polished ", "refined ", "sophisticated "]}

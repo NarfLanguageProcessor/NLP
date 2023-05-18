@@ -1,0 +1,1 @@
+{"index": 208390, "D": "the state or quality of being weak;  lack of strength, firmness, vigor, or the like; feebleness.", "S": [], "A": []}

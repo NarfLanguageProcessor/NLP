@@ -1,0 +1,1 @@
+{"index": 94480, "D": "a peso of Spain or Spanish America.", "S": [], "A": []}

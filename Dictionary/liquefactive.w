@@ -1,0 +1,1 @@
+{"index": 173278, "D": "the act or process of liquefying  or making liquid. ", "S": [], "A": []}

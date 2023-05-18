@@ -1,0 +1,1 @@
+{"index": 37814, "D": "something that binds, fastens, confines, or holds together.", "S": [], "A": []}

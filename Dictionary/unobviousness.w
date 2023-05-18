@@ -1,0 +1,1 @@
+{"index": 347071, "D": "easily seen, recognized, or understood; open to view or knowledge; evident", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 193878, "D": "overgrown with or abounding in moss", "S": ["covered ", "cushiony ", "damp ", "downy ", "fresh ", "moist ", "moss-grown ", "mosslike ", "overgrown ", "plushy ", "smooth ", "soft ", "velvety "], "A": ["bare ", "dry ", "modern ", "new ", "prickly "]}

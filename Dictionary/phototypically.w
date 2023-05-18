@@ -1,0 +1,1 @@
+{"index": 235439, "D": "a plate with a relief printing surface produced by photography.", "S": [], "A": []}

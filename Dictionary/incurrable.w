@@ -1,0 +1,1 @@
+{"index": 150600, "D": "to come into or acquire (some consequence, usually undesirable or injurious)", "S": [], "A": []}

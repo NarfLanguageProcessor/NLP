@@ -1,0 +1,1 @@
+{"index": 194215, "D": "the sport of climbing mountains. ", "S": ["hiking "], "A": []}

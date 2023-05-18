@@ -1,0 +1,1 @@
+{"index": 356438, "D": "without contents; empty", "S": ["barrenness ", "blank ", "blankness ", "chasm ", "desolation ", "destitution ", "exhaustion ", "gap ", "hollowness ", "inanition ", "inanity ", "vacancy ", "vacuity ", "vacuum ", "waste "], "A": ["closure "]}

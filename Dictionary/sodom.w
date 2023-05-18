@@ -1,0 +1,1 @@
+{"index": 296306, "D": "an ancient city destroyed, with Gomorrah, because of its wickedness. Genesis 18\u201319.", "S": [], "A": []}

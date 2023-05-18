@@ -1,0 +1,1 @@
+{"index": 237264, "D": "sergeant major (def. 3). ", "S": [], "A": []}

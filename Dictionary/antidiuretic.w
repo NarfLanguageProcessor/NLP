@@ -1,0 +1,1 @@
+{"index": 15121, "D": "of or relating to a substance that suppresses the formation of urine.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 103050, "D": "externally parasitic.", "S": [], "A": []}

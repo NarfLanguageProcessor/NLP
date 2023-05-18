@@ -1,0 +1,1 @@
+{"index": 134070, "D": "a waiter or waitress, especially in a hash house. ", "S": [], "A": []}

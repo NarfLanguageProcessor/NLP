@@ -1,0 +1,1 @@
+{"index": 243654, "D": "provided with a portico  or porticoes. ", "S": [], "A": []}

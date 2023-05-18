@@ -1,0 +1,1 @@
+{"index": 127733, "D": "imitation of the ornate and intricate style of G\u00f3ngora y Argote.", "S": [], "A": []}

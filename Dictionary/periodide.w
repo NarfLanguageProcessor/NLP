@@ -1,0 +1,1 @@
+{"index": 231108, "D": "an iodide with the maximum proportion of iodine.", "S": [], "A": []}

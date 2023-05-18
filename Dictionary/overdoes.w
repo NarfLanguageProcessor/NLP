@@ -1,0 +1,1 @@
+{"index": 219034, "D": "to do to excess; overindulge in", "S": ["exaggerate ", "overestimate ", "overplay ", "overrate ", "overreach ", "overstate ", "overuse ", "overvalue "], "A": ["play down ", "compress ", "decrease ", "lessen "]}

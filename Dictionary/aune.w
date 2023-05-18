@@ -1,0 +1,1 @@
+{"index": 23478, "D": "an old French unit of measure for fabrics, equivalent to about 47 inches (119 centimeters).", "S": [], "A": []}

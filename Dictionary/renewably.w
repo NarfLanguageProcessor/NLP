@@ -1,0 +1,1 @@
+{"index": 267635, "D": "to begin or take up again, as an acquaintance, a conversation, etc.; resume. ", "S": [], "A": []}

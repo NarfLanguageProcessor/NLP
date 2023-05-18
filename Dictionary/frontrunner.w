@@ -1,0 +1,1 @@
+{"index": 119390, "D": "a person who leads in any competition.", "S": ["best bet ", "chalk horse ", "contender ", "favorite ", "first choice ", "front-runner ", "public choice ", "top horse ", "top seed "], "A": []}

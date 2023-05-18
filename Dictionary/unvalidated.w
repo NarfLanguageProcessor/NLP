@@ -1,0 +1,1 @@
+{"index": 353641, "D": "to make valid;  substantiate; confirm", "S": [], "A": []}

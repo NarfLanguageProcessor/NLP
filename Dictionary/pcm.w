@@ -1,0 +1,1 @@
+{"index": 228310, "D": "plug-compatible manufacturer.", "S": [], "A": []}

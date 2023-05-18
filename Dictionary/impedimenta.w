@@ -1,0 +1,1 @@
+{"index": 148414, "D": "baggage or other things that retard one's progress, as supplies carried by an army", "S": ["baggage ", "encumbrances ", "equipment ", "gear ", "junk ", "obstruction "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256885, "D": "to acquire by the payment of money or its equivalent; buy.", "S": ["customer ", "patron ", "shopper "], "A": ["peddler ", "seller ", "vendor "]}

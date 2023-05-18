@@ -1,0 +1,1 @@
+{"index": 219010, "D": "far off or apart in space; not near at hand; remote or removed (often followed by from)", "S": [], "A": []}

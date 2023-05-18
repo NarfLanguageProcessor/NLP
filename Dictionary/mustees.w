@@ -1,0 +1,1 @@
+{"index": 196167, "D": "the offspring of a white person and a quadroon; octoroon.", "S": [], "A": []}

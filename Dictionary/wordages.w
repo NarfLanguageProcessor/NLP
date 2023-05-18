@@ -1,0 +1,1 @@
+{"index": 367408, "D": "words collectively.", "S": ["eloquence ", "fluency ", "inflection ", "intonation ", "phrasing ", "pronunciation ", "wording "], "A": ["conciseness "]}

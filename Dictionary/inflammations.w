@@ -1,0 +1,1 @@
+{"index": 152092, "D": "redness, swelling, pain, tenderness, heat, and disturbed function of an area of the body, especially as a reaction of tissues to injurious agents.", "S": ["infection ", "irritation ", "pain ", "rash ", "sore ", "tenderness "], "A": []}

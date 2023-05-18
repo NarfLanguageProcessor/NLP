@@ -1,0 +1,1 @@
+{"index": 138358, "D": "to conceal from sight; prevent from being seen or discovered", "S": [], "A": []}

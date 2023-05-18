@@ -1,0 +1,1 @@
+{"index": 102019, "D": "the rephrasing of an immediately preceding word or statement for the purpose of intensification, emphasis, or justification, as in \u201cSeems, madam! Nay, it is; I know not \u2018seems.\u2019\u2009\u201d", "S": [], "A": []}

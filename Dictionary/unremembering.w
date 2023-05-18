@@ -1,0 +1,1 @@
+{"index": 349474, "D": "to recall to the mind by an act or effort of memory; think of again", "S": [], "A": []}

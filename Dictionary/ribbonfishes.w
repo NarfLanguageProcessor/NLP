@@ -1,0 +1,1 @@
+{"index": 272445, "D": "any of several marine fishes  of the families Trachipteridae, Regalicidae, and Lophotidae, having a long, compressed, ribbonlike body.", "S": [], "A": []}

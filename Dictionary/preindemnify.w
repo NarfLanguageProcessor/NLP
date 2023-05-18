@@ -1,0 +1,1 @@
+{"index": 247934, "D": "to compensate for damage or loss sustained, expense incurred, etc.", "S": [], "A": []}

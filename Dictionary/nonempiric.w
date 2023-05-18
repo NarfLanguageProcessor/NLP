@@ -1,0 +1,1 @@
+{"index": 203480, "D": "a person who follows an empirical  method.", "S": [], "A": []}

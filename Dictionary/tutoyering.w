@@ -1,0 +1,1 @@
+{"index": 333080, "D": "to address (someone), especially in French, using the familiar forms of the pronoun \u201cyou\u201d rather than the more formal forms; address familiarly.", "S": [], "A": []}

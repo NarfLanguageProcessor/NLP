@@ -1,0 +1,1 @@
+{"index": 347912, "D": "visually charming or quaint, as if resembling or suitable for a painting", "S": [], "A": []}

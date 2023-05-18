@@ -1,0 +1,1 @@
+{"index": 172692, "D": "U.S. jazz singer, activist, and actress.", "S": [], "A": []}

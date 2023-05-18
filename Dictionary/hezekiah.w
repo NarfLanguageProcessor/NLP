@@ -1,0 +1,1 @@
+{"index": 138118, "D": "a king of Judah of the 7th and 8th centuries b.c. 2 Kings 18.", "S": [], "A": []}

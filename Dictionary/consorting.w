@@ -1,0 +1,1 @@
+{"index": 66948, "D": "Compare prince consort, queen consort. ", "S": ["accompaniment ", "companion ", "concomitant ", "friend ", "husband ", "mate ", "spouse ", "wife "], "A": ["enemy ", "foe ", "opponent "]}

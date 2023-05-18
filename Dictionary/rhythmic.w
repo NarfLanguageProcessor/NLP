@@ -1,0 +1,1 @@
+{"index": 272141, "D": "cadenced; rhythmical. ", "S": ["rhythmical "], "A": []}

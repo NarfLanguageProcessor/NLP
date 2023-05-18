@@ -1,0 +1,1 @@
+{"index": 134445, "D": "of or relating to Hawaii  or the Hawaiian Islands. ", "S": [], "A": []}

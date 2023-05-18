@@ -1,0 +1,1 @@
+{"index": 254121, "D": "the act of provoking. ", "S": [], "A": []}

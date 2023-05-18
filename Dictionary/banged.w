@@ -1,0 +1,1 @@
+{"index": 27421, "D": "a loud, sudden, explosive noise, as the discharge of a gun.", "S": ["clang ", "rattle ", "thump "], "A": ["tap "]}

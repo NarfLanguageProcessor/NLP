@@ -1,0 +1,1 @@
+{"index": 1841, "D": "under a curse; doomed; ill-fated. ", "S": ["bedeviled ", "condemned ", "damned ", "doomed ", "hexed "], "A": []}

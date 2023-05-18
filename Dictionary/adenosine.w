@@ -1,0 +1,1 @@
+{"index": 3775, "D": "a white, crystalline, water-soluble nucleoside, C10H13N5O4, of adenine and ribose.", "S": [], "A": []}

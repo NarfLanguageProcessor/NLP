@@ -1,0 +1,1 @@
+{"index": 272186, "D": "belonging to the Rhizocephala, a group of degenerate hermaphrodite crustaceans that are parasitic chiefly on crabs.", "S": [], "A": []}

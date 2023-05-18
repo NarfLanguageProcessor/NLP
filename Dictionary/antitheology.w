@@ -1,0 +1,1 @@
+{"index": 16315, "D": "the field of study and analysis that treats of God and of God's attributes and relations to the universe; study of divine things or religious truth; divinity.", "S": [], "A": []}

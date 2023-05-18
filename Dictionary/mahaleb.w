@@ -1,0 +1,1 @@
+{"index": 177657, "D": "a cherry, Prunus mahaleb, introduced into the U.S. from Eurasia, used as a stock in grafting cherries.", "S": [], "A": []}

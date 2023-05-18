@@ -1,0 +1,1 @@
+{"index": 235592, "D": "an obsolete spelling of frenzy", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 202690, "D": "partially or wholly lacking or deprived of the sense of hearing; unable to hear.", "S": [], "A": []}

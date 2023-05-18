@@ -1,0 +1,1 @@
+{"index": 269052, "D": "to abrogate; annul; revoke; repeal. ", "S": ["abrogation ", "annulment ", "dissolution ", "elimination ", "nullification "], "A": []}

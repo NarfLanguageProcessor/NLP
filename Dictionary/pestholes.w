@@ -1,0 +1,1 @@
+{"index": 232282, "D": "a place infested with or especially liable to epidemic disease.", "S": [], "A": []}

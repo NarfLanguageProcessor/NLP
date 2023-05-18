@@ -1,0 +1,1 @@
+{"index": 18353, "D": "a Lydian woman who challenged Athena to a weaving contest and was changed into a spider for her presumption.", "S": [], "A": []}

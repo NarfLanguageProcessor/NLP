@@ -1,0 +1,1 @@
+{"index": 314548, "D": "to move with or make a sibilant sound, as a slender rod cutting sharply through the air or as small waves washing on the shore.", "S": ["lick ", "splash "], "A": []}

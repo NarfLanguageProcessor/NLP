@@ -1,0 +1,1 @@
+{"index": 61666, "D": "related but only complementary to the official curriculum, as a civic or service activity outside the classroom.", "S": [], "A": []}

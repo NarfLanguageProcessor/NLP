@@ -1,0 +1,1 @@
+{"index": 848, "D": "to shorten by omissions while retaining the basic contents", "S": ["abbreviate ", "curtail ", "truncate "], "A": ["expand ", "extend ", "increase ", "lengthen ", "add ", "develop ", "enlarge ", "fill ", "free ", "grow ", "let go ", "raise ", "release ", "strengthen ", "stretch "]}

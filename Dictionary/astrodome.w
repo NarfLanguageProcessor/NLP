@@ -1,0 +1,1 @@
+{"index": 22244, "D": "a transparent dome  on top of the fuselage of an aircraft, through which observations are made for celestial navigation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 19667, "D": "being without moisture; extremely dry; parched", "S": [], "A": []}

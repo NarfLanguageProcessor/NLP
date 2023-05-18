@@ -1,0 +1,1 @@
+{"index": 314817, "D": "a covering for the foot, similar to a sock, having a separate pouchlike stall for the large toe, worn especially in Japan, often with zoris.", "S": [], "A": []}

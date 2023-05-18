@@ -1,0 +1,1 @@
+{"index": 246977, "D": "a document given by an educational institution conferring a degree on a person or certifying that the person has satisfactorily completed a course of study.", "S": [], "A": []}

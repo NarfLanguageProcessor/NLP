@@ -1,0 +1,1 @@
+{"index": 45978, "D": "of Canada  or its people.", "S": [], "A": []}

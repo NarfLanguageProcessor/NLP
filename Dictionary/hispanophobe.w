@@ -1,0 +1,1 @@
+{"index": 141691, "D": "a person who dislikes Hispanic culture or the Spanish language.", "S": [], "A": []}

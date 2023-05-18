@@ -1,0 +1,1 @@
+{"index": 180471, "D": "(of notes or chords in a musical score) heavily accented and detached.", "S": [], "A": []}

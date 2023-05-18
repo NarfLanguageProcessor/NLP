@@ -1,0 +1,1 @@
+{"index": 162930, "D": "a member of any of a group of Buddhistic Mongol tribes of a region extending from western China to the valley of the lower Volga River.", "S": [], "A": []}

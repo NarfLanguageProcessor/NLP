@@ -1,0 +1,1 @@
+{"index": 314493, "D": "a person or thing that swings.", "S": ["dissenter ", "dissident ", "free spirit ", "individualist ", "maverick "], "A": ["conformist ", "square "]}

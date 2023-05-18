@@ -1,0 +1,1 @@
+{"index": 121700, "D": "a gambler.", "S": ["backer ", "bookie ", "bookmaker ", "cardsharp ", "crapshooter ", "dicer ", "gambler ", "highroller ", "numbers runner ", "player ", "plunger ", "risktaker ", "shill ", "speculator "], "A": []}

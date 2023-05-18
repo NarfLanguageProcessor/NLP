@@ -1,0 +1,1 @@
+{"index": 241897, "D": "the theory that the human race has descended from two or more ancestral types.", "S": [], "A": []}

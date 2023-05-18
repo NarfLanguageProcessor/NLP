@@ -1,0 +1,1 @@
+{"index": 237083, "D": "a micaceous mineral, similar in composition to muscovite, formed by chemical alteration of various other minerals.", "S": [], "A": []}

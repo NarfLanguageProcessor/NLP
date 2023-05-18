@@ -1,0 +1,1 @@
+{"index": 354302, "D": "past participle of withdraw. ", "S": [], "A": []}

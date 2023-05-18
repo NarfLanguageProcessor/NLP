@@ -1,0 +1,1 @@
+{"index": 242933, "D": "stately or splendid display; splendor; magnificence. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 207514, "D": "free from living germs or microorganisms; aseptic", "S": [], "A": []}

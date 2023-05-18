@@ -1,0 +1,1 @@
+{"index": 314287, "D": "something that sweetens  food, beverages, etc., as sugar, saccharine, etc.", "S": ["advancing ", "aging ", "blossoming ", "consummating ", "developing ", "evolving ", "growing ", "mellowing ", "perfecting ", "preparing ", "sprouting "], "A": ["declining ", "dying ", "fading "]}

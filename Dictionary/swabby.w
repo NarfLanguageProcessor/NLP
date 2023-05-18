@@ -1,0 +1,1 @@
+{"index": 313922, "D": "(in the Navy or Coast Guard) a sailor; gob.", "S": [], "A": []}

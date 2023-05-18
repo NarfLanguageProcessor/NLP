@@ -1,0 +1,1 @@
+{"index": 232450, "D": "a person who imitates the literary style employed by Petrarch,  especially the poets of the English Renaissance who employed the Petrarchan sonnet style.", "S": [], "A": []}

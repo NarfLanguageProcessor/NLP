@@ -1,0 +1,1 @@
+{"index": 129266, "D": "without charge or payment; free", "S": ["as a gift ", "chargeless ", "complimentary ", "costless ", "for love ", "for nothing ", "free of charge ", "free ride ", "freebie ", "freely given ", "gratuitous ", "on someone ", "on the house ", "unpaid for ", "without charge ", "without recompense "], "A": ["costly ", "expensive "]}

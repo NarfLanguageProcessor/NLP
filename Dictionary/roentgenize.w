@@ -1,0 +1,1 @@
+{"index": 273799, "D": "to subject to the action of x-rays.", "S": [], "A": []}

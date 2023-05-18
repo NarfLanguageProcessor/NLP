@@ -1,0 +1,1 @@
+{"index": 349025, "D": "bitter, rankling resentment or ill will; hatred; malice.", "S": [], "A": []}

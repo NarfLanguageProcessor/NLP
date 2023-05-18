@@ -1,0 +1,1 @@
+{"index": 114555, "D": "a step in dancing in which the feet strike rapidly together.", "S": [], "A": []}

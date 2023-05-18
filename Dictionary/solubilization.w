@@ -1,0 +1,1 @@
+{"index": 296886, "D": "to make soluble, or to increase solubility.", "S": [], "A": []}

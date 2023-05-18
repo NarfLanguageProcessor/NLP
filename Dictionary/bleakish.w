@@ -1,0 +1,1 @@
+{"index": 35962, "D": "bare, desolate, and often windswept", "S": [], "A": []}

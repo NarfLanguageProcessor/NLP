@@ -1,0 +1,1 @@
+{"index": 121268, "D": "a porch or vestibule, often on the ground floor of a tower, at the entrance of some English churches.", "S": [], "A": []}

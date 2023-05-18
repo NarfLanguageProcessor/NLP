@@ -1,0 +1,1 @@
+{"index": 115482, "D": "an instrument for measuring fluorescence, often as a means of determining the nature of the substance emitting the fluorescence.", "S": [], "A": []}

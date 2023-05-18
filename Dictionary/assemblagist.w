@@ -1,0 +1,1 @@
+{"index": 21645, "D": "an artist who produces works of art using the techniques of assemblage. ", "S": [], "A": []}

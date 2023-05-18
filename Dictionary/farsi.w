@@ -1,0 +1,1 @@
+{"index": 110052, "D": "the modern Iranian language of Iran and western Afghanistan, written in the Arabic alphabet; modern Persian.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 234770, "D": "a receptor  stimulated by sound waves.", "S": [], "A": []}

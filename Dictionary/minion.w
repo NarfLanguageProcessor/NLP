@@ -1,0 +1,1 @@
+{"index": 187905, "D": "a servile follower or subordinate of a person in power.", "S": ["bootlicker ", "doormat ", "fan ", "fawner ", "flatterer ", "flunky ", "follower ", "groupie ", "hanger-on ", "lackey ", "puppet ", "stooge ", "toady "], "A": ["leader ", "master "]}

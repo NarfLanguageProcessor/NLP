@@ -1,0 +1,1 @@
+{"index": 38706, "D": "a variant spelling of boatel", "S": [], "A": []}

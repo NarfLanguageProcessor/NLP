@@ -1,0 +1,1 @@
+{"index": 316449, "D": "the acceptance of authority in religious matters.", "S": [], "A": []}

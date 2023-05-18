@@ -1,0 +1,1 @@
+{"index": 171525, "D": "libertine  practices or habits of life; disregard of authority or convention in sexual or religious matters.", "S": [], "A": []}

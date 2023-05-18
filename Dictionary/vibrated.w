@@ -1,0 +1,1 @@
+{"index": 359294, "D": "to move rhythmically and steadily to and fro, as a pendulum; oscillate.", "S": ["flutter ", "pulsate ", "resonate ", "resound ", "reverberate ", "shiver ", "throb ", "tremble ", "undulate "], "A": ["steady ", "remain ", "stay "]}

@@ -1,0 +1,1 @@
+{"index": 346354, "D": "characterized by, exhibiting, or of the nature of imitation or mimicry", "S": [], "A": []}

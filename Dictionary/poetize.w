@@ -1,0 +1,1 @@
+{"index": 241213, "D": "to write poetry.", "S": ["conceive ", "design ", "devise ", "form ", "invent ", "orchestrate ", "pen ", "produce ", "set up ", "write "], "A": ["destroy ", "disorganize ", "ruin ", "demolish ", "lose ", "wreck "]}

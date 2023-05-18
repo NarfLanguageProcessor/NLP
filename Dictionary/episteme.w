@@ -1,0 +1,1 @@
+{"index": 102839, "D": "(in the works of 20th-century philosopher Foucault) the set of ideas and assumptions, often unconscious, that underlie and constrain what is accepted as knowledge in a particular period", "S": [], "A": []}

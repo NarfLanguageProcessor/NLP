@@ -1,0 +1,1 @@
+{"index": 222944, "D": "a foot of one long and three short syllables in any order.", "S": [], "A": []}

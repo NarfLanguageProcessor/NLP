@@ -1,0 +1,1 @@
+{"index": 306751, "D": "a short projecting part.", "S": ["butt ", "counterfoil ", "dock ", "remainder ", "remnant ", "root ", "snag ", "stump ", "tag ", "tail "], "A": []}

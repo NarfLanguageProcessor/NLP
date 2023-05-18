@@ -1,0 +1,1 @@
+{"index": 55704, "D": "a person who undertook the expense of providing for such a chorus.", "S": [], "A": []}

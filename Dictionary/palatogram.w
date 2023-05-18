@@ -1,0 +1,1 @@
+{"index": 223581, "D": "a diagram or photograph obtained through palatography.", "S": [], "A": []}

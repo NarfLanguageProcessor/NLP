@@ -1,0 +1,1 @@
+{"index": 3729, "D": "surgical removal of the adenoids. ", "S": [], "A": []}

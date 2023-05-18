@@ -1,0 +1,1 @@
+{"index": 236523, "D": "any of several pikelike fishes of the perch  family, especially the walleye, Stizostedion vitreum.", "S": [], "A": []}

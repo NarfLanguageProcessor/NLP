@@ -1,0 +1,1 @@
+{"index": 231121, "D": "Compare pyorrhea (def. 2). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308291, "D": "in a way that pertains to or is influenced by a person\u2019s feelings, moods, opinions, prejudices, etc.", "S": ["egocentrically ", "emotionally ", "immanently ", "independently ", "individually ", "inherently ", "inner ", "intrinsically ", "introspectively ", "mentally ", "nonobjectively ", "personally "], "A": ["objectively "]}

@@ -1,0 +1,1 @@
+{"index": 337367, "D": "tending to compel,  as to force or push toward a course of action; overpowering", "S": [], "A": []}

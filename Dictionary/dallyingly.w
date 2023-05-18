@@ -1,0 +1,1 @@
+{"index": 76478, "D": "to waste time; loiter; delay.", "S": [], "A": []}

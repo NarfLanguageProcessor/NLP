@@ -1,0 +1,1 @@
+{"index": 117425, "D": "designed to fit snugly around a given shape; close-fitting", "S": [], "A": []}

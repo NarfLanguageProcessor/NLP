@@ -1,0 +1,1 @@
+{"index": 343557, "D": "(of an egg) not having broken to release the fully developed young", "S": [], "A": []}

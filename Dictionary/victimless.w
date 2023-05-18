@@ -1,0 +1,1 @@
+{"index": 359448, "D": "a person who suffers from a destructive or injurious action or agency", "S": [], "A": []}

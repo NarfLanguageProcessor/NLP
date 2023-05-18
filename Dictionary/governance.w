@@ -1,0 +1,1 @@
+{"index": 128379, "D": "government;  exercise of authority; control.", "S": ["administration ", "control ", "law ", "politics "], "A": ["impotence ", "incapacity ", "opposition ", "surrender ", "weakness ", "yielding "]}

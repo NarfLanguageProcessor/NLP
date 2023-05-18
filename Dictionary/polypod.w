@@ -1,0 +1,1 @@
+{"index": 242296, "D": "(of insect larvae) having many feet.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 163749, "D": "(in Scottish legends) a water spirit, usually having the form of a horse, reputed to cause drownings or to warn those in danger of drowning.", "S": ["demon ", "devil ", "phantom ", "shadow ", "soul ", "specter ", "vampire ", "vision "], "A": ["living being "]}

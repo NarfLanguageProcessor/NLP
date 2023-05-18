@@ -1,0 +1,1 @@
+{"index": 8499, "D": "the replacement of a hydrogen atom in an organic compound by an alkyl group. ", "S": [], "A": []}

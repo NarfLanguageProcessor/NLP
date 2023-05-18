@@ -1,0 +1,1 @@
+{"index": 169713, "D": "a material constructed of paper or cloth and finished to simulate the grain, color, and texture of leather. ", "S": [], "A": []}

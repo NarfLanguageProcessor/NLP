@@ -1,0 +1,1 @@
+{"index": 299537, "D": "a Gram-negative bacterial cell with a cell wall that has been altered or is partly missing, resulting in a spherical shape.", "S": [], "A": []}

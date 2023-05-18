@@ -1,0 +1,1 @@
+{"index": 73135, "D": "a sphinx with the head of a ram instead of a human.", "S": [], "A": []}

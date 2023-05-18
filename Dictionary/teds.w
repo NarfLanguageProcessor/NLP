@@ -1,0 +1,1 @@
+{"index": 317762, "D": "to spread out for drying, as newly mown hay.", "S": [], "A": []}

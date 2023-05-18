@@ -1,0 +1,1 @@
+{"index": 82173, "D": "a specialist in dermatology,  especially a doctor who specializes in the treatment of diseases of the skin.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 96470, "D": "French civil engineer and pioneer aerodynamic researcher.", "S": [], "A": []}

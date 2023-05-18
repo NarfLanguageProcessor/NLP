@@ -1,0 +1,1 @@
+{"index": 41381, "D": "dilatation of a bronchus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 164067, "D": "a yellow-flowered shrub, Kerria japonica, of the rose family, native to eastern Asia and widely cultivated as an ornamental.", "S": [], "A": []}

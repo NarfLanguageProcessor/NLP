@@ -1,0 +1,1 @@
+{"index": 339351, "D": "characterized by or expressing derision; contemptuous; mocking", "S": [], "A": []}

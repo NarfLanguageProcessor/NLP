@@ -1,0 +1,1 @@
+{"index": 113294, "D": "the first  of its kind to be produced or to appear.", "S": [], "A": []}

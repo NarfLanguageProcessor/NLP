@@ -1,0 +1,1 @@
+{"index": 202262, "D": "full trust; belief in the powers, trustworthiness, or reliability of a person or thing", "S": [], "A": []}

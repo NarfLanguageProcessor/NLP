@@ -1,0 +1,1 @@
+{"index": 280989, "D": "of, relating to, or exhibiting sclerophylly. ", "S": [], "A": []}

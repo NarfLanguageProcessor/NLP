@@ -1,0 +1,1 @@
+{"index": 136857, "D": "a person claiming descent from Hercules, especially one of the Dorian aristocracy of Sparta.", "S": [], "A": []}

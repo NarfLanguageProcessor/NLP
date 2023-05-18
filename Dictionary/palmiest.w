@@ -1,0 +1,1 @@
+{"index": 224074, "D": "glorious, prosperous, or flourishing", "S": ["airy ", "breezy ", "excellent ", "golden ", "good ", "rosy "], "A": ["bad "]}

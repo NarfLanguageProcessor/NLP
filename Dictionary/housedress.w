@@ -1,0 +1,1 @@
+{"index": 144409, "D": "a relatively simple and inexpensive dress  suitable for housework.", "S": [], "A": []}

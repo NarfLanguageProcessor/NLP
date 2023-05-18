@@ -1,0 +1,1 @@
+{"index": 113781, "D": "in the very act of committing the offense.", "S": [], "A": []}

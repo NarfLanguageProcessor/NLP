@@ -1,0 +1,1 @@
+{"index": 320902, "D": "a reflexive form of plural they  used as the direct or indirect object of a verb or the object of a preposition", "S": [], "A": []}

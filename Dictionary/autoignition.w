@@ -1,0 +1,1 @@
+{"index": 24112, "D": "the spontaneous ignition  of fuel when introduced into the combustion chamber of an internal-combustion engine, as a result either of glowing carbon in the chamber or of the heat of compression.", "S": [], "A": []}

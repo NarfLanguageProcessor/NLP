@@ -1,0 +1,1 @@
+{"index": 264465, "D": "made smaller, lower, or less; diminished", "S": ["decreased ", "diminished ", "shortened "], "A": ["elevated ", "enlarged ", "heightened ", "increased ", "raised ", "spread ", "stretched "]}

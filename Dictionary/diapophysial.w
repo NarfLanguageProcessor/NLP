@@ -1,0 +1,1 @@
+{"index": 84472, "D": "the part of the transverse process of a thoracic vertebra that articulates with its corresponding rib.", "S": [], "A": []}

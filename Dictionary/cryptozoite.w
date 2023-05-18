@@ -1,0 +1,1 @@
+{"index": 73327, "D": "a malarial parasite in the stage of development during which it lives in tissue cells prior to invading the blood cells.", "S": [], "A": []}

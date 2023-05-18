@@ -1,0 +1,1 @@
+{"index": 187647, "D": "minim; minims.", "S": ["moment ", "second ", "short time "], "A": []}

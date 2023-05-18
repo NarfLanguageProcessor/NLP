@@ -1,0 +1,1 @@
+{"index": 314824, "D": "a picture, as of a scene.", "S": ["illustration ", "spectacle "], "A": []}

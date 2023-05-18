@@ -1,0 +1,1 @@
+{"index": 59793, "D": "a portion of an interior rising above adjacent rooftops and having windows admitting daylight to the interior.", "S": [], "A": []}

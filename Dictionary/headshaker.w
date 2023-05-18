@@ -1,0 +1,1 @@
+{"index": 134706, "D": [], "S": ["cynic ", "questioner ", "skeptic "], "A": ["believer "]}

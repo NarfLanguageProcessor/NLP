@@ -1,0 +1,1 @@
+{"index": 272380, "D": "any of several plants belonging to the genus Rheum, of the buckwheat family, as R. officinale, having a medicinal rhizome, and R. rhabarbarum, having edible leafstalks.", "S": ["argument ", "controversy ", "discussion ", "dispute ", "hassle ", "quarrel "], "A": ["agreement ", "peace "]}

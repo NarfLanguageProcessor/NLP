@@ -1,0 +1,1 @@
+{"index": 217821, "D": "the poisonous fluid that some animals, as certain snakes and spiders, secrete and introduce into the bodies of their victims by biting, stinging, etc.", "S": [], "A": []}

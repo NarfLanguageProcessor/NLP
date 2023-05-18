@@ -1,0 +1,1 @@
+{"index": 356808, "D": "boldness or determination in facing great danger, especially in battle; heroic courage; bravery", "S": ["boldness ", "courage ", "derring-do ", "determination ", "fearlessness ", "firmness ", "fortitude ", "gallantry ", "grit ", "heroism ", "prowess ", "tenacity "], "A": ["cowardice ", "fear ", "irresolution ", "meekness ", "timidity ", "weakness "]}

@@ -1,0 +1,1 @@
+{"index": 37618, "D": "to bring under the influence or domination of Bolshevists;  render Bolshevik  or Bolshevistic. ", "S": [], "A": []}

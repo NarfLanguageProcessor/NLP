@@ -1,0 +1,1 @@
+{"index": 104488, "D": "of, relating to, or like an essay,  especially in style, format, or organization and often in reflecting a more personal approach than a treatise, thesis, or the like.", "S": [], "A": []}

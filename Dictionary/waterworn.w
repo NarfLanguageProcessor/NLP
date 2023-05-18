@@ -1,0 +1,1 @@
+{"index": 363260, "D": "worn  by the action of water;  smoothed by the force or movement of water. ", "S": [], "A": []}

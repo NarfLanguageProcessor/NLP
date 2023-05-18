@@ -1,0 +1,1 @@
+{"index": 110651, "D": "a foolish or giddy person; scatterbrain.", "S": ["blockhead ", "blunderer ", "bonehead ", "botcher ", "bumbler ", "butcher ", "butterfingers ", "clod ", "dolt ", "donkey ", "duffer ", "dunce ", "fool ", "foul-up ", "fumbler ", "goofball ", "idiot ", "ignoramus ", "incompetent ", "klutz ", "numskull ", "spoiler "], "A": ["brain ", "genius "]}

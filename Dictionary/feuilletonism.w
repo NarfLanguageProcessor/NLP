@@ -1,0 +1,1 @@
+{"index": 111864, "D": "a part of a European newspaper devoted to light literature, fiction, criticism, etc.", "S": [], "A": []}

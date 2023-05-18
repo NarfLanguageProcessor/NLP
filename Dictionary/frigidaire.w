@@ -1,0 +1,1 @@
+{"index": 119014, "D": "a brand of electric refrigerator.", "S": [], "A": []}

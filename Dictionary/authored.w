@@ -1,0 +1,1 @@
+{"index": 23811, "D": "a person who writes a novel, poem, essay, etc.; the composer of a literary work, as distinguished from a compiler, translator, editor, or copyist.", "S": ["arising ", "beginning ", "starting ", "stemming "], "A": []}

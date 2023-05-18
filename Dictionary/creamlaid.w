@@ -1,0 +1,1 @@
+{"index": 72392, "D": "(of laid paper) cream-coloured and of a ribbed appearance", "S": [], "A": []}

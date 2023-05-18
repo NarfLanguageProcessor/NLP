@@ -1,0 +1,1 @@
+{"index": 224316, "D": "a remedy for all disease or ills.", "S": ["elixir "], "A": ["disease ", "injury ", "pain "]}

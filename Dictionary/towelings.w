@@ -1,0 +1,1 @@
+{"index": 326748, "D": "a narrow fabric of cotton or linen, in plain, twill, or huck weave, used for hand towels  or dishtowels.", "S": [], "A": []}

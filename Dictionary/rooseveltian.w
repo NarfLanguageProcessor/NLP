@@ -1,0 +1,1 @@
+{"index": 274290, "D": "of, pertaining to, advocating, or following the principles, views, or policies of Franklin Delano Roosevelt  or of Theodore Roosevelt. ", "S": [], "A": []}

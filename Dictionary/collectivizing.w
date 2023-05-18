@@ -1,0 +1,1 @@
+{"index": 62921, "D": "to organize (a people, industry, economy, etc.) according to the principles of collectivism. ", "S": [], "A": []}

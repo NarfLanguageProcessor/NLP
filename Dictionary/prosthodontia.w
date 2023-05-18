@@ -1,0 +1,1 @@
+{"index": 253279, "D": "the branch of dentistry that deals with the restoration and maintenance of oral function by the replacement of missing teeth and other oral structures by artificial devices.", "S": [], "A": []}

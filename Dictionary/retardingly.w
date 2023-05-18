@@ -1,0 +1,1 @@
+{"index": 270322, "D": "to make slow; delay the development or progress of (an action, process, etc.); hinder or impede.", "S": [], "A": []}

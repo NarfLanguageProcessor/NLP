@@ -1,0 +1,1 @@
+{"index": 24131, "D": "inoculation  of a healthy part with an infective agent from a diseased part of the same body.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 313574, "D": "of, relating to, or characteristic of surrealism,  an artistic and literary style; surrealistic.", "S": ["hypnagogic "], "A": ["real "]}

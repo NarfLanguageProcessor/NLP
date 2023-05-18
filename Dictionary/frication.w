@@ -1,0 +1,1 @@
+{"index": 118917, "D": "an audible, constrained rush of air accompanying and characteristic of fricatives. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 234022, "D": "the 21st letter of the Greek alphabet (\u03a6, \u03c6).", "S": [], "A": []}

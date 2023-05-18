@@ -1,0 +1,1 @@
+{"index": 60533, "D": "a major point of interest or attention.", "S": [], "A": []}

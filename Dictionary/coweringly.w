@@ -1,0 +1,1 @@
+{"index": 71581, "D": "to crouch, as in fear or shame.", "S": [], "A": []}

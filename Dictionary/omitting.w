@@ -1,0 +1,1 @@
+{"index": 212451, "D": "to leave out; fail to include or mention", "S": ["canceling ", "discarding ", "disregarding ", "excepting ", "excluding ", "ignoring ", "missing ", "neglecting ", "overlooking ", "precluding ", "repudiating ", "slighting ", "withholding "], "A": ["including ", "inserting ", "mentioning "]}

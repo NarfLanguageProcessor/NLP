@@ -1,0 +1,1 @@
+{"index": 13993, "D": "a person who is opposed to, struggles against, or competes with another; opponent; adversary.", "S": ["adversary ", "enemy ", "foe "], "A": ["ally ", "assistant ", "friend ", "helper ", "associate "]}

@@ -1,0 +1,1 @@
+{"index": 215057, "D": "to spell correctly or according to the rules of orthography. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 38689, "D": "spoiled by poor or clumsy work; bungled", "S": [], "A": []}

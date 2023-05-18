@@ -1,0 +1,1 @@
+{"index": 115689, "D": "a central point, as of attraction, attention, or activity", "S": [], "A": []}

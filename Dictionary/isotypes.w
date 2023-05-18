@@ -1,0 +1,1 @@
+{"index": 159304, "D": "a drawing, diagram, or other symbol that represents a specific quantity of or other fact about the thing depicted", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 87064, "D": "faulty adaptation  of the iris and retina to light.", "S": [], "A": []}

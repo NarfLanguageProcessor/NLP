@@ -1,0 +1,1 @@
+{"index": 86956, "D": "to separate (an aggregate  or mass) into its component parts.", "S": [], "A": []}

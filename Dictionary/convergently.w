@@ -1,0 +1,1 @@
+{"index": 68004, "D": "characterized by convergence;  tending to come together; merging.", "S": [], "A": []}

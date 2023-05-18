@@ -1,0 +1,1 @@
+{"index": 13772, "D": "the inability to name objects or to recognize the written or spoken names of objects.", "S": [], "A": []}

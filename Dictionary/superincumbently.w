@@ -1,0 +1,1 @@
+{"index": 312042, "D": "lying or resting on something else.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 247755, "D": "to assist (a person) to travel through, or reach a destination in, an unfamiliar area, as by accompanying or giving directions to the person", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 367893, "D": "a circular band of flowers, foliage, or any ornamental work, for adorning the head or for any decorative purpose; a garland or chaplet.", "S": [], "A": []}

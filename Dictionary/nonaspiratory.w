@@ -1,0 +1,1 @@
+{"index": 201487, "D": "pertaining to or suited for aspiration.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 347578, "D": "to deposit as security, as for money borrowed, especially with a pawnbroker", "S": [], "A": []}

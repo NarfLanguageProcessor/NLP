@@ -1,0 +1,1 @@
+{"index": 89206, "D": "not proportionate;  out of proportion, as in size or number.", "S": ["disparity ", "disproportion ", "imbalance ", "inequity ", "unequalness ", "unevenness "], "A": []}

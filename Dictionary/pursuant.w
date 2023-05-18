@@ -1,0 +1,1 @@
+{"index": 257130, "D": "proceeding after; following (usually followed by to)", "S": ["agreeable ", "following ", "harmonious "], "A": []}

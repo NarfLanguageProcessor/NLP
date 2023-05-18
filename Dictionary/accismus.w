@@ -1,0 +1,1 @@
+{"index": 1577, "D": "an ironic rhetorical device, in which one feigns indifference, or makes a pretense of refusing something one desires", "S": [], "A": []}

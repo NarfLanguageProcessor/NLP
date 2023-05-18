@@ -1,0 +1,1 @@
+{"index": 236305, "D": "the study of chemical reactions at high pressures", "S": [], "A": []}

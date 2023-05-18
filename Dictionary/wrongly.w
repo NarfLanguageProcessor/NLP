@@ -1,0 +1,1 @@
+{"index": 368112, "D": "not in accordance with what is morally right or good", "S": ["unfairly ", "unjustifiably ", "unlawfully ", "wrongfully "], "A": ["decently ", "justly ", "rightly "]}

@@ -1,0 +1,1 @@
+{"index": 361834, "D": "a member of the laboring class; wage earner. ", "S": [], "A": []}

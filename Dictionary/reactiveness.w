@@ -1,0 +1,1 @@
+{"index": 261539, "D": "tending to react. ", "S": ["acuteness ", "awareness ", "consciousness ", "delicacy ", "feeling ", "nervousness ", "reactivity ", "receptiveness ", "sensation ", "sense ", "sensibility ", "subtlety ", "susceptibility ", "sympathy "], "A": ["indifference ", "insensibility ", "unconsciousness "]}

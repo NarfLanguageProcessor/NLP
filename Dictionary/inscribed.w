@@ -1,0 +1,1 @@
+{"index": 153429, "D": "to address or dedicate (a book, photograph, etc.) informally to a person, especially by writing a brief personal note in or on it.", "S": ["documented ", "listed ", "registered ", "reported ", "taped "], "A": []}

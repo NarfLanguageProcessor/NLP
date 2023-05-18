@@ -1,0 +1,1 @@
+{"index": 254788, "D": "a clotting disorder caused by abnormal factor VIII activity, and characterized by a prolonged bleeding time but without the delayed coagulation time of hemophilia. ", "S": [], "A": []}

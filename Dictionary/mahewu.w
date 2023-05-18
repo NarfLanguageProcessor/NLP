@@ -1,0 +1,1 @@
+{"index": 177692, "D": "(in South Africa) fermented liquid mealie-meal porridge, used as a stimulant, esp by Black Africans", "S": [], "A": []}

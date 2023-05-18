@@ -1,0 +1,1 @@
+{"index": 51213, "D": "a northern circumpolar constellation between Cassiopeia and Draco.", "S": [], "A": []}

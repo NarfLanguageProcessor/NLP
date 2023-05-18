@@ -1,0 +1,1 @@
+{"index": 292797, "D": "to make a hissing sound, as in frying or burning.", "S": [], "A": []}

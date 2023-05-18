@@ -1,0 +1,1 @@
+{"index": 334466, "D": "added as a matter of periodic gain or advantage, as interest on money", "S": [], "A": []}

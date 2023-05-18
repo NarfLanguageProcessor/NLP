@@ -1,0 +1,1 @@
+{"index": 184289, "D": "Compare mesosphere (def. 1). ", "S": [], "A": []}

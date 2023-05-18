@@ -1,0 +1,1 @@
+{"index": 162649, "D": "the traditional king of Buganda, a region and former kingdom of southern Uganda.", "S": [], "A": []}

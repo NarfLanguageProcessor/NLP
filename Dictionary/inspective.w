@@ -1,0 +1,1 @@
+{"index": 153763, "D": "given to inspection; watchful; attentive.", "S": [], "A": []}

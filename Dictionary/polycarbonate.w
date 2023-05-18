@@ -1,0 +1,1 @@
+{"index": 241671, "D": "a synthetic thermoplastic resin, a linear polymer of carbonic acid, used for molded products, films, and nonbreakable windows.", "S": [], "A": []}

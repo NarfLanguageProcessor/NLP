@@ -1,0 +1,1 @@
+{"index": 35178, "D": "to cut, wound, or tear with the teeth", "S": ["nip ", "sting ", "tooth wound ", "wound "], "A": []}

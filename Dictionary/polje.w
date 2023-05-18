@@ -1,0 +1,1 @@
+{"index": 242648, "D": "a large elliptical depression in karst regions, sometimes containing a marsh or small lake", "S": [], "A": []}

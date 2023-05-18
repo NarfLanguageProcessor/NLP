@@ -1,0 +1,1 @@
+{"index": 108187, "D": "extemporaneous; extempore.", "S": [], "A": []}

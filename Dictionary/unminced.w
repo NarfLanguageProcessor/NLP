@@ -1,0 +1,1 @@
+{"index": 346358, "D": "to cut or chop into very small pieces.", "S": [], "A": []}

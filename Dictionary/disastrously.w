@@ -1,0 +1,1 @@
+{"index": 87122, "D": "causing great distress or injury; ruinous; very unfortunate; calamitous", "S": ["sadly "], "A": ["appropriately ", "favorably ", "fortunately ", "happily ", "luckily "]}

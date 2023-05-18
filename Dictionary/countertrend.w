@@ -1,0 +1,1 @@
+{"index": 71167, "D": "the general course or prevailing tendency; drift", "S": [], "A": []}

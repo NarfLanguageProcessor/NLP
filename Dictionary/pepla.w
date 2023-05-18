@@ -1,0 +1,1 @@
+{"index": 230191, "D": "a short full flounce or an extension of a garment below the waist, covering the hips.", "S": [], "A": []}

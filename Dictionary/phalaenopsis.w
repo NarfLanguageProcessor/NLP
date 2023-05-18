@@ -1,0 +1,1 @@
+{"index": 232824, "D": "any of various epiphytic orchids of the genus Phalaenopsis, native to tropical Asia, having clusters of showy, variously colored flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351566, "D": "several unsolved murders", "S": ["baffling ", "difficult ", "impenetrable ", "indecipherable ", "inexplicable ", "inextricable ", "irresolvable ", "mystifying ", "obscure ", "unaccountable ", "unconcluded ", "unfathomable ", "unresolved ", "unsolvable "], "A": ["explainable ", "explicable ", "obvious ", "open ", "solvable "]}

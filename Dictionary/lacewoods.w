@@ -1,0 +1,1 @@
+{"index": 166885, "D": "the quartersawed wood  of the sycamore tree.", "S": [], "A": []}

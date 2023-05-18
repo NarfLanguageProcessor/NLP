@@ -1,0 +1,1 @@
+{"index": 124312, "D": "the dividing of a state, county, etc., into election districts so as to give one political party a majority in many districts while concentrating the voting strength of the other party into as few districts as possible.", "S": [], "A": []}

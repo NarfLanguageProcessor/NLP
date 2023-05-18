@@ -1,0 +1,1 @@
+{"index": 166904, "D": "a chemical substance that causes the shedding of tears, as tear gas.", "S": [], "A": []}

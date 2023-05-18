@@ -1,0 +1,1 @@
+{"index": 215122, "D": "an approach to psychiatry  concerned with the study and treatment of behavioral disorders, especially of young people.", "S": [], "A": []}

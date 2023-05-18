@@ -1,0 +1,1 @@
+{"index": 294402, "D": "a person or thing that slots. ", "S": [], "A": []}

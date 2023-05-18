@@ -1,0 +1,1 @@
+{"index": 222172, "D": [], "S": ["burly ", "hulking ", "sturdy "], "A": ["attenuated ", "skinny ", "slight ", "small ", "thin ", "weak "]}

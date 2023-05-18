@@ -1,0 +1,1 @@
+{"index": 42682, "D": "a wall of earth or other material built for defense; rampart.", "S": ["bastion ", "fortress ", "mainstay ", "redoubt "], "A": ["harm ", "hurt ", "injury "]}

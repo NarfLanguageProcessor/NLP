@@ -1,0 +1,1 @@
+{"index": 62135, "D": "to buy; purchase", "S": [], "A": []}

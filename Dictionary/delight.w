@@ -1,0 +1,1 @@
+{"index": 80081, "D": "a high degree of pleasure or enjoyment; joy; rapture", "S": ["contentment ", "glee ", "joy ", "pleasure ", "satisfaction "], "A": ["discontent ", "dissatisfaction ", "sadness ", "sorrow ", "unhappiness ", "dislike ", "hate ", "hatred "]}

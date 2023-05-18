@@ -1,0 +1,1 @@
+{"index": 64884, "D": "to include or contain", "S": ["admittance ", "formation ", "incorporation ", "involvement "], "A": ["exclusion ", "subtraction "]}

@@ -1,0 +1,1 @@
+{"index": 258680, "D": "an arrangement of five objects, as trees, in a square or rectangle, one at each corner and one in the middle.", "S": ["cinque ", "cinquefoil ", "limerick ", "lustrum ", "pentacle ", "pentad ", "pentagon ", "pentagram ", "pentangle ", "quinquennium ", "quintette ", "quintuple ", "quintuplet "], "A": []}

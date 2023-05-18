@@ -1,0 +1,1 @@
+{"index": 4214, "D": "to mingle with or add to something else.", "S": ["amalgamate ", "blend ", "combine ", "commingle ", "commix ", "intermingle ", "intermix ", "mingle ", "stir ", "unite "], "A": ["divide ", "separate "]}

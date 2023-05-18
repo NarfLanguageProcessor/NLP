@@ -1,0 +1,1 @@
+{"index": 175563, "D": "being without love;  forsaken by one's lover.", "S": ["bereft ", "crossed in love ", "dejected ", "forsaken ", "jilted ", "loveless ", "lovesick ", "rejected ", "spurned "], "A": []}

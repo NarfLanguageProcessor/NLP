@@ -1,0 +1,1 @@
+{"index": 23027, "D": "the act or faculty of attending, especially by directing the mind to an object.", "S": ["consideration ", "debate ", "mind ", "scrutiny ", "thinking ", "thought "], "A": ["disregard ", "indifference ", "laziness ", "lethargy ", "neglect ", "thoughtlessness "]}

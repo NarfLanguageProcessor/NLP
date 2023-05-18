@@ -1,0 +1,1 @@
+{"index": 236854, "D": "a small, usually inflammatory swelling or elevation of the skin; papule or pustule.", "S": ["blackheads ", "pustules ", "rosacea ", "whiteheads ", "zits "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 49034, "D": "either of a pair of concave pieces of wood held in the palm of the hand and clicked together, usually to accompany dancing.", "S": [], "A": []}

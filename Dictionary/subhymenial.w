@@ -1,0 +1,1 @@
+{"index": 308146, "D": "the sporogenous layer in a fungus, composed of asci or basidia often interspersed with various sterile structures, as paraphyses.", "S": [], "A": []}

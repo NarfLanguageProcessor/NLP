@@ -1,0 +1,1 @@
+{"index": 17592, "D": "impassioned; with passion  or strong feeling.", "S": [], "A": []}

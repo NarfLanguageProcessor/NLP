@@ -1,0 +1,1 @@
+{"index": 191384, "D": "freedom from the differentiated, temporal, and mortal world of ordinary experience.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 146996, "D": "Irish Free State.", "S": ["assuming that ", "conceding that ", "granted that ", "in case that ", "on the assumption that ", "on the occasion that ", "supposing that ", "whenever ", "wherever ", "with the condition that "], "A": []}

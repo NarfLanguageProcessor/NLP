@@ -1,0 +1,1 @@
+{"index": 147598, "D": "characterized by or bearing evidence of imagination", "S": ["artistic ", "extravagant ", "fanciful ", "fantastic ", "ingenious ", "offbeat ", "original ", "romantic ", "visionary ", "vivid ", "whimsical "], "A": ["ordinary ", "real ", "realistic ", "reasonable ", "unromantic ", "usual "]}

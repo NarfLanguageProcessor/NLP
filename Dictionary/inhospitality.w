@@ -1,0 +1,1 @@
+{"index": 152724, "D": "lack of hospitality; inhospitable  attitude toward or treatment of visitors, guests, etc.", "S": ["inhospitableness ", "repellent ", "undesirable ", "ungraciousness "], "A": []}

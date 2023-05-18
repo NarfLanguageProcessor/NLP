@@ -1,0 +1,1 @@
+{"index": 5394, "D": "a person who affirms. ", "S": [], "A": []}

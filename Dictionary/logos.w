@@ -1,0 +1,1 @@
+{"index": 174701, "D": "the rational principle that governs and develops the universe.", "S": ["World Reason ", "anima mundi ", "infinite spirit ", "oversoul ", "universal ego ", "universal life force ", "world principle ", "world soul ", "world-self "], "A": []}

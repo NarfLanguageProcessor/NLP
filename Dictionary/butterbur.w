@@ -1,0 +1,1 @@
+{"index": 43668, "D": "any of several composite plants of the genus Petasites, having large, woolly leaves said to have been used to wrap butter. ", "S": [], "A": []}

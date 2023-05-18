@@ -1,0 +1,1 @@
+{"index": 202490, "D": "conforming or adhering to accepted standards, as of conduct or taste", "S": [], "A": []}

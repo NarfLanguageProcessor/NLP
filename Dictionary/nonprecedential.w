@@ -1,0 +1,1 @@
+{"index": 206099, "D": "of the nature of or constituting a precedent. ", "S": [], "A": []}

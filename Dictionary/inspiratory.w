@@ -1,0 +1,1 @@
+{"index": 153794, "D": "of or relating to inspiration or inhalation.", "S": [], "A": []}

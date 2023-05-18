@@ -1,0 +1,1 @@
+{"index": 266398, "D": "an act or instance of being restored to a former position or state; reestablishment", "S": [], "A": []}

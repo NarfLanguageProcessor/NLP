@@ -1,0 +1,1 @@
+{"index": 53311, "D": "a close-fitting, cylindrical cap with a tuft or tassel.", "S": [], "A": []}

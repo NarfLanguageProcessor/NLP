@@ -1,0 +1,1 @@
+{"index": 230585, "D": "conforming absolutely to the description or definition of an ideal type", "S": [], "A": []}

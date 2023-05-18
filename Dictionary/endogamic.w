@@ -1,0 +1,1 @@
+{"index": 99803, "D": "of or relating to the practice of allowing marriage only within a specific tribe, caste, ethnic or religious group, or other social unit", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128222, "D": "a rust-colored deposit of mineral matter at the outcrop of a vein or orebody containing iron-bearing materials.", "S": [], "A": []}

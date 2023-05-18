@@ -1,0 +1,1 @@
+{"index": 239741, "D": "a small, flat mass of lint, absorbent cotton, or the like, for use on a wound, sore, etc.", "S": [], "A": []}

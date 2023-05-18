@@ -1,0 +1,1 @@
+{"index": 64690, "D": "complying;  obeying, obliging, or yielding, especially in a submissive way", "S": ["devotedly ", "faithfully ", "loyally ", "submissively ", "willingly "], "A": []}

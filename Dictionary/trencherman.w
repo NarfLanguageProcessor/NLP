@@ -1,0 +1,1 @@
+{"index": 328924, "D": "a person who has a hearty appetite; a heavy eater.", "S": [], "A": []}

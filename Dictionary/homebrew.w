@@ -1,0 +1,1 @@
+{"index": 142758, "D": "beer or other alcoholic beverage made at home.", "S": ["bootleg ", "firewater ", "homemade spirit ", "hooch ", "moonshine ", "mountain dew ", "white lightning "], "A": []}

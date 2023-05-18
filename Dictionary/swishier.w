@@ -1,0 +1,1 @@
+{"index": 314553, "D": "causing, giving rise to, or characterized by a swishing sound or motion.", "S": [], "A": []}

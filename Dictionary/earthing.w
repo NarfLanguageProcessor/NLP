@@ -1,0 +1,1 @@
+{"index": 94826, "D": "the planet third in order from the sun, having an equatorial diameter of 7,926 miles (12,755 km) and a polar diameter of 7,900 miles (12,714 km), a mean distance from the sun of 92.9 million miles (149.6 million km), and a period of revolution of 365.26 days, and having one satellite.", "S": [], "A": []}

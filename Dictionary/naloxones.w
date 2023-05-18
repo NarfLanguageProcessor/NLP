@@ -1,0 +1,1 @@
+{"index": 196669, "D": "an opioid antagonist, C19H21NO4, used to reverse the acute respiratory depression that occurs with opioid overdose.", "S": [], "A": []}

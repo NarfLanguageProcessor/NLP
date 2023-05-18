@@ -1,0 +1,1 @@
+{"index": 156923, "D": "an inward turn or curve around an axis or fixed point.", "S": [], "A": []}

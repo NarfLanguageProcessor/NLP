@@ -1,0 +1,1 @@
+{"index": 123399, "D": "to singe (worsted yarn) in order to remove loose or protruding fibers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 266999, "D": "liking or enjoyment of the taste of something.", "S": [], "A": []}

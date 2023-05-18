@@ -1,0 +1,1 @@
+{"index": 193264, "D": "any of various plants belonging to the genera Moraea and Dietes, of the iris family, native to tropical Africa.", "S": [], "A": []}

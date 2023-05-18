@@ -1,0 +1,1 @@
+{"index": 286597, "D": "Compare octave (def. 4a). ", "S": [], "A": []}

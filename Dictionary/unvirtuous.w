@@ -1,0 +1,1 @@
+{"index": 353851, "D": "conforming to moral and ethical principles; morally excellent; upright", "S": ["bawdy ", "coarse ", "erotic ", "lascivious ", "naughty ", "obscene ", "off-color ", "pornographic ", "racy ", "ribald ", "salacious ", "suggestive ", "vile "], "A": ["chaste ", "clean ", "decent ", "dull ", "gentle ", "moral ", "nice ", "pure ", "upright "]}

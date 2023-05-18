@@ -1,0 +1,1 @@
+{"index": 11450, "D": "a collection of miscellaneous information about a particular subject, person, place, or thing.", "S": ["oeuvre "], "A": []}

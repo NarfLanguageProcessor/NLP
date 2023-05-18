@@ -1,0 +1,1 @@
+{"index": 307367, "D": "a rough casing  for a doorway or window.", "S": [], "A": []}

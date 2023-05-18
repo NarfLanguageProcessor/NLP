@@ -1,0 +1,1 @@
+{"index": 211631, "D": "the Queen officially opened the dome", "S": ["correctly ", "formally ", "properly ", "regularly "], "A": ["casually ", "informally "]}

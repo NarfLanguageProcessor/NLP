@@ -1,0 +1,1 @@
+{"index": 351053, "D": "a piece cut or torn off, especially in a narrow strip.", "S": [], "A": []}

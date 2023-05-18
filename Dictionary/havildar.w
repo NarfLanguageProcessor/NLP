@@ -1,0 +1,1 @@
+{"index": 134426, "D": "a noncommissioned officer in the Indian army, equivalent in rank to sergeant", "S": [], "A": []}

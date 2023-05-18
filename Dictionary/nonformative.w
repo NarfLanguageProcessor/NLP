@@ -1,0 +1,1 @@
+{"index": 204148, "D": "giving form or shape; forming; shaping; fashioning; molding", "S": [], "A": []}

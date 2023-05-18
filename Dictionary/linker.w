@@ -1,0 +1,1 @@
+{"index": 172944, "D": "a program that adjusts two or more machine-language program segments so that they may be simultaneously loaded and executed as a unit", "S": [], "A": []}

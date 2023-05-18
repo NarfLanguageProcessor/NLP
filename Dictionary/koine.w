@@ -1,0 +1,1 @@
+{"index": 165868, "D": "an amalgam of Greek dialects, chiefly Attic and Ionic, that replaced the Classical Greek dialects in the Hellenistic period and flourished under the Roman Empire.", "S": [], "A": []}

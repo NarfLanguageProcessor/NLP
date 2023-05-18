@@ -1,0 +1,1 @@
+{"index": 9125, "D": "having unlimited power; omnipotent, as God. ", "S": ["Allah ", "Father in Heaven ", "God ", "Heavenly Father ", "Jehovah ", "King of Kings ", "Lord of Lords ", "Yahweh ", "the Creator ", "the all-powerful "], "A": []}

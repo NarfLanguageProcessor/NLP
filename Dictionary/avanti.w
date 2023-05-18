@@ -1,0 +1,1 @@
+{"index": 24598, "D": "an ancient Aryan kingdom of W central India, with its capital near modern Ujjain; flourished in the 6th\u20134th centuries b.c.", "S": [], "A": []}

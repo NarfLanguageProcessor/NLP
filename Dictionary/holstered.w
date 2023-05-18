@@ -1,0 +1,1 @@
+{"index": 142711, "D": "a sheathlike carrying case for a firearm, attached to a belt, shoulder sling, or saddle.", "S": [], "A": []}

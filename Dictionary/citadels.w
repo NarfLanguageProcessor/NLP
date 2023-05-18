@@ -1,0 +1,1 @@
+{"index": 58593, "D": "a fortress that commands a city and is used in the control of the inhabitants and in defense during attack or siege.", "S": ["bastion ", "fortification ", "fortress "], "A": []}

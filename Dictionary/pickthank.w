@@ -1,0 +1,1 @@
+{"index": 235937, "D": "a person who seeks favor by flattery or gossip; sycophant.", "S": [], "A": []}

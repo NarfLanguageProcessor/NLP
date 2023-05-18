@@ -1,0 +1,1 @@
+{"index": 284372, "D": "semifluid. ", "S": ["muddy ", "spongy ", "squishy "], "A": ["hard ", "stiff ", "unfeeling ", "unromantic "]}

@@ -1,0 +1,1 @@
+{"index": 173066, "D": "a brightly striped scorpionfish of the genus Pterois, especially P. volitans, of the Indo-Pacific region, having long, flamboyant, venomous spiny fins.", "S": [], "A": []}

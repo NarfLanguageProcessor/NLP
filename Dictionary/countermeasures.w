@@ -1,0 +1,1 @@
+{"index": 70910, "D": "an opposing, offsetting, or retaliatory measure. ", "S": ["corrective ", "cure ", "remedy "], "A": ["disease "]}

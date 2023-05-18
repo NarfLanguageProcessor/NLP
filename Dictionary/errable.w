@@ -1,0 +1,1 @@
+{"index": 103963, "D": "to go astray in thought or belief; be mistaken; be incorrect.", "S": ["aberrant ", "erratic ", "offending ", "stray ", "unorthodox ", "wayward "], "A": ["normal "]}

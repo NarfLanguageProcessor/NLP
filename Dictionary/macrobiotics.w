@@ -1,0 +1,1 @@
+{"index": 176884, "D": "a philosophically oriented program incorporating elements from several ancient cultures and emphasizing harmony with nature, especially through adherence to a diet consisting primarily of whole grains, beans, vegetables, and moderate amounts of seafood and fruit.", "S": [], "A": []}

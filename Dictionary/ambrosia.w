@@ -1,0 +1,1 @@
+{"index": 10112, "D": "Compare nectar (def. 3). ", "S": ["delicacy ", "nectar "], "A": []}

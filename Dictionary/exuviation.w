@@ -1,0 +1,1 @@
+{"index": 108857, "D": "to cast off or shed (exuviae); molt.", "S": ["desquamation ", "dropping "], "A": []}

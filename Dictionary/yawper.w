@@ -1,0 +1,1 @@
+{"index": 145898, "D": "to utter a loud, harsh cry; to yelp, squawk, or bawl.", "S": [], "A": []}

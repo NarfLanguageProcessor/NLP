@@ -1,0 +1,1 @@
+{"index": 311880, "D": "the state of being or property of becoming a superfluid", "S": [], "A": []}

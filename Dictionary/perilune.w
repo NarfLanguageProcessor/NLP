@@ -1,0 +1,1 @@
+{"index": 231037, "D": "the point in the orbit of a heavenly body that is nearest to the moon.", "S": [], "A": []}

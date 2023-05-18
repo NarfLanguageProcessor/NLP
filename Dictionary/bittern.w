@@ -1,0 +1,1 @@
+{"index": 35257, "D": "any of several tawny brown herons that inhabit reedy marshes, as Botaurus lentiginosus(American bittern ), of North America, and B. stellaris, of Europe.", "S": [], "A": []}

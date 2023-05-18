@@ -1,0 +1,1 @@
+{"index": 4116, "D": "to measure off or out; apportion.", "S": ["allocate ", "apportion ", "distribute ", "divide ", "lot ", "ration ", "share "], "A": ["collect ", "gather ", "hold ", "keep ", "maintain "]}

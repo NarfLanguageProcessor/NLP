@@ -1,0 +1,1 @@
+{"index": 267094, "D": "a person who owns a remainder. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342450, "D": "not brought into focus; lacking proper focus", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 195526, "D": "for snacking", "S": ["craving ", "demand ", "fondness ", "greed ", "hunger ", "inclination ", "longing ", "lust ", "passion ", "penchant ", "propensity ", "stomach ", "taste ", "thirst ", "weakness ", "willingness ", "yearning ", "zeal ", "zest "], "A": ["apathy ", "disinclination ", "dislike ", "hate ", "hatred ", "indifference ", "lethargy "]}

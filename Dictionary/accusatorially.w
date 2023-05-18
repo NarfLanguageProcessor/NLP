@@ -1,0 +1,1 @@
+{"index": 1864, "D": "of, like, or pertaining to an accuser. ", "S": [], "A": []}

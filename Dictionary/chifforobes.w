@@ -1,0 +1,1 @@
+{"index": 54252, "D": "a piece of furniture having both drawers and space for hanging clothes.", "S": ["Yorkshire dresser ", "bureau ", "chest ", "chiffonier ", "dresser ", "highboy ", "lowboy ", "tallboy "], "A": []}

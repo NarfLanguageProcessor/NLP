@@ -1,0 +1,1 @@
+{"index": 133896, "D": "a mixture of chopped nuts and apples, wine, and spices that is eaten at the Seder meal on Passover", "S": [], "A": []}

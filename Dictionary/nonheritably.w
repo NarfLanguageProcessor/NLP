@@ -1,0 +1,1 @@
+{"index": 204425, "D": "capable of being inherited; inheritable; hereditary. ", "S": [], "A": []}

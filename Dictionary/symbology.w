@@ -1,0 +1,1 @@
+{"index": 290797, "D": "the study of symbols.", "S": ["cuneal writing ", "cuneiform ", "curiology ", "hieroglyphics ", "ideography ", "phonographic writing ", "runes ", "script ", "symbolical writing "], "A": []}

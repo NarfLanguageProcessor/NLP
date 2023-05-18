@@ -1,0 +1,1 @@
+{"index": 366016, "D": "to look at articles in the windows of stores without making any purchases.", "S": ["browsing ", "comparison shopping ", "grazing ", "just looking "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 124651, "D": "to speak inarticulately or meaninglessly.", "S": ["blabbering ", "blathering ", "blithering ", "chitchatting ", "driveling ", "jabbering ", "prattling "], "A": []}

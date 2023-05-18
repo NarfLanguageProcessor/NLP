@@ -1,0 +1,1 @@
+{"index": 110204, "D": "the highest point of a fever or disease; the period of greatest development of an infection.", "S": ["height ", "peak ", "ridge "], "A": ["bottom ", "nadir ", "base ", "foot "]}

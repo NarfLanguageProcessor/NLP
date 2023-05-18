@@ -1,0 +1,1 @@
+{"index": 224755, "D": "having the texture of felt or woolen cloth.", "S": [], "A": []}

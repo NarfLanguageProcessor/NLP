@@ -1,0 +1,1 @@
+{"index": 69202, "D": "a small new corm that is vegetatively propagated by a fully mature corm.", "S": [], "A": []}

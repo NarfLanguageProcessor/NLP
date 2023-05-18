@@ -1,0 +1,1 @@
+{"index": 344513, "D": "overrun to an unwanted degree or in a troublesome manner by predatory animals or vermin (often used in combination)", "S": [], "A": []}

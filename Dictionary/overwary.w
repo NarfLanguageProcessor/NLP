@@ -1,0 +1,1 @@
+{"index": 221778, "D": "watchful; being on one's guard against danger.", "S": [], "A": []}

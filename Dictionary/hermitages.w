@@ -1,0 +1,1 @@
+{"index": 137169, "D": "the habitation of a hermit. ", "S": ["abbey ", "cloister ", "monastery ", "retreat "], "A": []}

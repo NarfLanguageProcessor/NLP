@@ -1,0 +1,1 @@
+{"index": 65964, "D": [], "S": ["appropriate ", "expropriate ", "impound "], "A": ["give "]}

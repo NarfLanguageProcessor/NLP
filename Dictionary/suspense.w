@@ -1,0 +1,1 @@
+{"index": 313739, "D": "a state or condition of mental uncertainty or excitement, as in awaiting a decision or outcome, usually accompanied by a degree of apprehension or anxiety.", "S": ["anxiety ", "apprehension ", "confusion ", "doubt ", "insecurity ", "tension ", "thriller ", "uncertainty "], "A": ["calmness ", "certainty ", "composure ", "ease ", "peace "]}

@@ -1,0 +1,1 @@
+{"index": 236046, "D": "a granular igneous rock composed chiefly of olivine and augite, but containing small amounts of feldspar.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 54301, "D": "bearing children;  pregnant.", "S": ["abundant ", "arable ", "fruitful ", "lush ", "productive ", "rich "], "A": ["barren ", "impotent ", "sparse ", "unfruitful ", "unproductive "]}

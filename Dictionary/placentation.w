@@ -1,0 +1,1 @@
+{"index": 238569, "D": "the manner of placement or construction of a placenta. ", "S": [], "A": []}

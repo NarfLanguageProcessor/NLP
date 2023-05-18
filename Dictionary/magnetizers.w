@@ -1,0 +1,1 @@
+{"index": 177518, "D": "to make a magnet  of or impart the properties of a magnet  to.", "S": [], "A": []}

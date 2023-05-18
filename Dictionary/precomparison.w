@@ -1,0 +1,1 @@
+{"index": 246281, "D": "the act of comparing.", "S": [], "A": []}

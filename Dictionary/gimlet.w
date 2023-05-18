@@ -1,0 +1,1 @@
+{"index": 124999, "D": "a small tool for boring holes, consisting of a shaft with a pointed screw at one end and a handle perpendicular to the shaft at the other.", "S": ["borer ", "grill ", "tool "], "A": []}

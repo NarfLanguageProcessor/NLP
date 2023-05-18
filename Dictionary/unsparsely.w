@@ -1,0 +1,1 @@
+{"index": 351671, "D": "in a thinly distributed way; not thickly or densely", "S": [], "A": []}

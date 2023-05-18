@@ -1,0 +1,1 @@
+{"index": 236145, "D": "any bivalve mollusk of the genus Pholas or the family Pholadidae, having long, ovate shells and burrowing in soft rock, wood, etc.", "S": ["clam ", "conch ", "crawfish ", "crustacean ", "lobster ", "mollusk ", "mussel ", "oyster ", "prawn ", "scallop ", "shrimp ", "snail "], "A": []}

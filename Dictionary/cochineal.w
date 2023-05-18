@@ -1,0 +1,1 @@
+{"index": 61398, "D": "a red dye prepared from the dried bodies of the females of the cochineal insect, Dactylopius coccus, which lives on cactuses of Mexico, Central America, and other warm regions.", "S": [], "A": []}

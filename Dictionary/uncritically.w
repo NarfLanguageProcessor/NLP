@@ -1,0 +1,1 @@
+{"index": 338205, "D": "not inclined or able to judge, especially by the application of comparative standards", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 261033, "D": "confirmed by formal or authoritative consent or approval", "S": ["accepted ", "allowed ", "authorized ", "backed ", "endorsed ", "passed ", "permitted ", "recognized ", "sanctioned ", "supported "], "A": ["disapproved ", "refused ", "uncertain "]}

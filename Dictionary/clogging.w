@@ -1,0 +1,1 @@
+{"index": 60337, "D": "to hinder or obstruct with thick or sticky matter; choke up", "S": ["bottleneck ", "overpopulation ", "traffic jam "], "A": ["flood ", "flow ", "opening "]}

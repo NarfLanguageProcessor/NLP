@@ -1,0 +1,1 @@
+{"index": 339036, "D": "a direction or route taken or to be taken.", "S": [], "A": []}

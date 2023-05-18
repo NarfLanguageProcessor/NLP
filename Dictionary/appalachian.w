@@ -1,0 +1,1 @@
+{"index": 17536, "D": "of or relating to the Appalachian Mountains. ", "S": [], "A": []}

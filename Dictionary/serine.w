@@ -1,0 +1,1 @@
+{"index": 286109, "D": "a crystalline amino acid, HOCH2CH(NH2)COOH, found in many proteins and obtained by the hydrolysis of sericin, the protein constituting silk gum. Abbreviation", "S": [], "A": []}

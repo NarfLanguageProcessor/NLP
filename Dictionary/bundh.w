@@ -1,0 +1,1 @@
+{"index": 42813, "D": "a variant spelling of bandh", "S": [], "A": []}

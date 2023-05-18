@@ -1,0 +1,1 @@
+{"index": 54908, "D": "the small intestine of swine, especially when prepared as food.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 79441, "D": "to strip (a tree, bush, etc.) of leaves.", "S": ["confusion ", "desolation ", "havoc ", "ravages ", "ruin "], "A": ["construction "]}

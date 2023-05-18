@@ -1,0 +1,1 @@
+{"index": 77332, "D": "to waste time; idle; trifle; loiter", "S": ["debtor ", "defaulter ", "felon ", "hoodlum ", "juvenile delinquent ", "lawbreaker ", "offender ", "wrongdoer "], "A": []}

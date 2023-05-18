@@ -1,0 +1,1 @@
+{"index": 287216, "D": "a collection of historical artifacts, letters, etc., belonging or pertaining to William Shakespeare. ", "S": [], "A": []}

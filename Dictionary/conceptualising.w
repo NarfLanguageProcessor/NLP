@@ -1,0 +1,1 @@
+{"index": 65166, "D": "to form into a concept;  make a concept of.", "S": [], "A": []}

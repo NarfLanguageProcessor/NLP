@@ -1,0 +1,1 @@
+{"index": 249671, "D": "quickly, rapidly, or immediately.", "S": ["fast ", "instantaneous ", "magic ", "rapidly ", "suddenly "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 93432, "D": "drenched; soaked", "S": [], "A": []}

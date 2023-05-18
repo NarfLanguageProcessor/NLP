@@ -1,0 +1,1 @@
+{"index": 303683, "D": "(of an aquatic organism) unable to withstand wide variation in salinity of the surrounding water.", "S": [], "A": []}

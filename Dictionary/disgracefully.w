@@ -1,0 +1,1 @@
+{"index": 88159, "D": "bringing or deserving disgrace;  shameful; dishonorable; disreputable.", "S": ["dreadfully ", "wickedly "], "A": []}

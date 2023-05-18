@@ -1,0 +1,1 @@
+{"index": 174065, "D": "look! see! (frequently used in Biblical expressions; now usually used as an expression of surprise in the phrase lo and behold ).", "S": [], "A": []}

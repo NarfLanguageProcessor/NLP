@@ -1,0 +1,1 @@
+{"index": 208640, "D": "a native or inhabitant of the peninsula containing Norway and Sweden", "S": [], "A": []}

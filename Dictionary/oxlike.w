@@ -1,0 +1,1 @@
+{"index": 222458, "D": "the adult castrated male of the genus Bos, used chiefly as a draft animal.", "S": [], "A": []}

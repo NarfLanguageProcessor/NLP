@@ -1,0 +1,1 @@
+{"index": 287861, "D": "a seaport in N Kent, in SE England on the Isle of Sheppey, at the mouth of the Thames", "S": ["delicacy "], "A": []}

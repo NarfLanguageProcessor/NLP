@@ -1,0 +1,1 @@
+{"index": 183844, "D": "an elite group of people whose progress is based on ability and talent rather than on class, privilege, or wealth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158589, "D": "an inadequate supply of blood to an organ or part, as from an obstructed blood flow", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 344319, "D": "to drive or urge forward; press on; incite or constrain to action.", "S": [], "A": []}

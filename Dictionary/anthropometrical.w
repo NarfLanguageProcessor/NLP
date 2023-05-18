@@ -1,0 +1,1 @@
+{"index": 14594, "D": "of or relating to anthropometry,  the measurement of the size and proportions of the human body", "S": [], "A": []}

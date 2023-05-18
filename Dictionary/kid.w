@@ -1,0 +1,1 @@
+{"index": 164450, "D": "a child or young person.", "S": ["baby ", "boy ", "child ", "daughter ", "girl ", "infant ", "son ", "teenager ", "youngster ", "youth "], "A": ["adult "]}

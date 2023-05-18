@@ -1,0 +1,1 @@
+{"index": 341329, "D": "made a slave; held in slavery or bondage", "S": ["autonomous ", "democratic ", "freed ", "independent ", "separate "], "A": ["enslaved ", "occupied ", "restrained ", "suppressed "]}

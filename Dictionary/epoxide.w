@@ -1,0 +1,1 @@
+{"index": 103113, "D": "Compare epoxy (def. 2). ", "S": [], "A": []}

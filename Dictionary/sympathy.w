@@ -1,0 +1,1 @@
+{"index": 290940, "D": "the act or state of feeling sorrow or compassion for another", "S": ["affinity ", "compassion ", "empathy ", "kindness ", "sensitivity ", "tenderness ", "understanding ", "unity ", "warmth "], "A": ["apathy ", "cruelty ", "harshness ", "hatred ", "meanness ", "misunderstanding ", "antagonism ", "disagreement ", "discord ", "divorce ", "separation "]}

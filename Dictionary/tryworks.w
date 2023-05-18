@@ -1,0 +1,1 @@
+{"index": 330858, "D": "(in whaling) a furnace in which a kettle (try-pot ) is placed for rendering blubber.", "S": [], "A": []}

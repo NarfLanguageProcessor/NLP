@@ -1,0 +1,1 @@
+{"index": 303181, "D": "in a way that shows firmness or steadfast adherence to principle, loyalty, etc.", "S": ["adamantly ", "decisively ", "doggedly ", "persistently ", "resolutely ", "steadfastly ", "strictly ", "stubbornly ", "tenaciously "], "A": ["indefinitely ", "weakly "]}

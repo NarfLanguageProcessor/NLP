@@ -1,0 +1,1 @@
+{"index": 153357, "D": "a small lacquer box with compartments for medicines, cosmetics, etc., worn on the waist sash of the traditional Japanese costume.", "S": [], "A": []}

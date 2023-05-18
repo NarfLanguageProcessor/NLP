@@ -1,0 +1,1 @@
+{"index": 180361, "D": "a soft, fatty, vascular tissue in the interior cavities of bones that is a major site of blood cell production.", "S": ["bottom ", "core ", "cream ", "essentiality ", "gist ", "kernel ", "meat ", "pith ", "quick ", "quintessence ", "soul ", "spirit ", "stuff ", "substance "], "A": ["exterior ", "exteriority ", "outside "]}

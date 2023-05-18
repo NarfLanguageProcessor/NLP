@@ -1,0 +1,1 @@
+{"index": 12283, "D": "having the end of each limb divided and carved outward like the flukes of an anchor; moline", "S": [], "A": []}

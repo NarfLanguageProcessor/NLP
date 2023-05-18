@@ -1,0 +1,1 @@
+{"index": 210593, "D": "to darken, overshadow, or cloud.", "S": [], "A": []}

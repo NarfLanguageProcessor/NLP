@@ -1,0 +1,1 @@
+{"index": 193363, "D": "the cousin and guardian of Esther who delivered the Jews from the destruction planned by Haman. Esther 2\u20138.", "S": [], "A": []}

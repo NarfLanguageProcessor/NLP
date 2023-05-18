@@ -1,0 +1,1 @@
+{"index": 333618, "D": "a plant, Aralia cordata, of the ginseng family, cultivated, especially in Japan and China, for its edible shoots.", "S": [], "A": []}

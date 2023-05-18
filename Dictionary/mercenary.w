@@ -1,0 +1,1 @@
+{"index": 183633, "D": "working or acting merely for money or other reward; venal.", "S": ["acquisitive ", "selfish ", "unscrupulous "], "A": ["generous ", "unselfish "]}

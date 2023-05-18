@@ -1,0 +1,1 @@
+{"index": 120418, "D": "with extreme anger, violent passion, or rage", "S": ["energetically ", "fiercely ", "frantically ", "heatedly ", "hotly ", "indignantly ", "intensely ", "madly ", "quickly ", "savagely ", "strongly ", "violently ", "wildly "], "A": ["gently ", "mildly ", "quietly "]}

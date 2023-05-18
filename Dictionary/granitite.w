@@ -1,0 +1,1 @@
+{"index": 128936, "D": "a granite  rich in biotite.", "S": [], "A": []}

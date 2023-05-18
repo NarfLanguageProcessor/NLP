@@ -1,0 +1,1 @@
+{"index": 172986, "D": "a hard, washable floor covering formed by coating burlap or canvas with linseed oil, powdered cork, and rosin, and adding pigments to create the desired colors and patterns.", "S": ["carpet ", "carpeting ", "tile ", "woodwork "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 90839, "D": "a domesticated canid, Canis familiaris, bred in many varieties.", "S": ["pup ", "puppy "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 171798, "D": "a synthetic crystalline powder, C14H22N2O, used as a local anesthetic and also in the management of certain arrhythmias.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351315, "D": "past participle of slay. ", "S": [], "A": []}

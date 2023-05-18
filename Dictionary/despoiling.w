@@ -1,0 +1,1 @@
+{"index": 82853, "D": "to strip of possessions, things of value, etc.; rob; plunder; pillage.", "S": ["greedy ", "marauding ", "rapacious ", "voracious "], "A": []}

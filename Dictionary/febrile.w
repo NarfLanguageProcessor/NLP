@@ -1,0 +1,1 @@
+{"index": 110736, "D": "pertaining to or marked by fever; feverish.", "S": ["delirious ", "fevered ", "fiery ", "flushed ", "hallucinatory ", "hot ", "inflamed ", "pyretic "], "A": ["cold ", "freezing ", "frigid "]}

@@ -1,0 +1,1 @@
+{"index": 133337, "D": "shamefaced; guilty", "S": [], "A": []}

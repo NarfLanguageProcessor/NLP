@@ -1,0 +1,1 @@
+{"index": 162470, "D": "jurisprudence.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 306477, "D": "any of numerous small marine fishes of the family Stromateidae, having a laterally compressed body and an expanded muscular esophagus, often lined with teeth.", "S": [], "A": []}

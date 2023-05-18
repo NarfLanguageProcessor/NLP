@@ -1,0 +1,1 @@
+{"index": 221051, "D": "sentimental  tendency or character; predominance of sentiment over reason.", "S": [], "A": []}

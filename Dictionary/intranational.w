@@ -1,0 +1,1 @@
+{"index": 156549, "D": "within one nation; occurring or existing within a nation's boundaries.", "S": [], "A": []}

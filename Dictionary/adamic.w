@@ -1,0 +1,1 @@
+{"index": 3436, "D": "pertaining to or suggestive of Adam.", "S": [], "A": []}

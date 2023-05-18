@@ -1,0 +1,1 @@
+{"index": 108604, "D": "a rule of transformational grammar that shifts a subordinate or modifying clause to the end of a sentence, as in changing That you sign the paper is necessary to It is necessary that you sign the paper.", "S": [], "A": []}

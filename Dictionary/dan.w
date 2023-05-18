@@ -1,0 +1,1 @@
+{"index": 76655, "D": "a degree of expertise in karate, judo, tae kwon do, etc., usually signified by the wearing of a cloth belt of a particular color; level", "S": [], "A": []}

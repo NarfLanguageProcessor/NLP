@@ -1,0 +1,1 @@
+{"index": 187160, "D": "a silver coin of ancient Rome, introduced by Constantine I as the 14th part of a solidus. Under Justinian it became the 12th part.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 26114, "D": "of, relating to, or aiding the prevention of further growth of bacteria", "S": [], "A": []}

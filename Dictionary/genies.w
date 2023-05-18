@@ -1,0 +1,1 @@
+{"index": 123582, "D": "jinn. ", "S": ["demon ", "djinni ", "jinnee ", "jinni ", "spirit ", "wizard "], "A": []}

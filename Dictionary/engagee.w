@@ -1,0 +1,1 @@
+{"index": 100298, "D": "(of a female writer or artist) morally or politically committed to some ideology", "S": [], "A": []}

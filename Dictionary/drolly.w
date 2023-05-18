@@ -1,0 +1,1 @@
+{"index": 93257, "D": "amusing in an odd way; whimsically humorous; waggish.", "S": [], "A": []}

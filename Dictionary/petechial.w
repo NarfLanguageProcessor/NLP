@@ -1,0 +1,1 @@
+{"index": 232375, "D": "pertaining to, resembling, or characterized by petechiae.", "S": [], "A": []}

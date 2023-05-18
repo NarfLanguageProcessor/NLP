@@ -1,0 +1,1 @@
+{"index": 203778, "D": "serving or intended to exhort. ", "S": [], "A": []}

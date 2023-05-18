@@ -1,0 +1,1 @@
+{"index": 16944, "D": "Compare parsley (def. 4). ", "S": [], "A": []}

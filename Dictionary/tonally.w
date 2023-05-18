@@ -1,0 +1,1 @@
+{"index": 325497, "D": "pertaining to or having tonality. ", "S": [], "A": []}

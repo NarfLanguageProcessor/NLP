@@ -1,0 +1,1 @@
+{"index": 76038, "D": "of, containing, or characterized by dactyls", "S": [], "A": []}

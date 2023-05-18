@@ -1,0 +1,1 @@
+{"index": 183212, "D": "to commit to memory;  learn by heart", "S": ["evoked "], "A": ["forgotten ", "lost ", "overlooked "]}

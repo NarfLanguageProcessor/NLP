@@ -1,0 +1,1 @@
+{"index": 32924, "D": "to express deep sorrow for; lament", "S": ["bemoan ", "deplore ", "moan ", "mourn ", "regret ", "repent ", "rue ", "wail "], "A": ["be happy "]}

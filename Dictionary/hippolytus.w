@@ -1,0 +1,1 @@
+{"index": 141444, "D": "the son of Theseus who was falsely accused by his stepmother, Phaedra, of raping her after he had rejected her advances and who was killed by Poseidon in response to the plea of Theseus.", "S": [], "A": []}

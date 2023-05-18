@@ -1,0 +1,1 @@
+{"index": 151412, "D": "of, pertaining to, of the nature of, or resulting from industry", "S": ["industrialized ", "mechanical ", "modern ", "technical "], "A": ["domestic "]}

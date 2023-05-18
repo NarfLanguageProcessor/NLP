@@ -1,0 +1,1 @@
+{"index": 163947, "D": "an instrument for measuring the curvature of the cornea.", "S": [], "A": []}

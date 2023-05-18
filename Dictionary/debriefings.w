@@ -1,0 +1,1 @@
+{"index": 77840, "D": " the process or an instance of formally and systematically questioning participants in order to assess the conduct and results of a mission, project, therapeutic process, etc.", "S": [], "A": []}

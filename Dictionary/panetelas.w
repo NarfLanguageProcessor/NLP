@@ -1,0 +1,1 @@
+{"index": 224575, "D": "a long, slender cigar, usually with straight sides and tapering to a point at the closed end.", "S": [], "A": []}

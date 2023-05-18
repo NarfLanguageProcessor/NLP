@@ -1,0 +1,1 @@
+{"index": 318243, "D": "deliberate, purposeful utilization of the processes of nature and society to obtain particular goals.", "S": [], "A": []}

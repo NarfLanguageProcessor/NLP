@@ -1,0 +1,1 @@
+{"index": 156962, "D": "to flood; cover or overspread with water; deluge. ", "S": [], "A": []}

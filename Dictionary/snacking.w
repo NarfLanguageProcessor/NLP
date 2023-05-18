@@ -1,0 +1,1 @@
+{"index": 295187, "D": "a small portion of food or drink or a light meal, especially one eaten between regular meals.", "S": ["chewing ", "consumption ", "dining "], "A": []}

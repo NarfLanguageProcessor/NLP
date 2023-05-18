@@ -1,0 +1,1 @@
+{"index": 204298, "D": "having a surface covered with a glaze;  lustrous; smooth; glassy.", "S": [], "A": []}

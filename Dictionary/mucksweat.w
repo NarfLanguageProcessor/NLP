@@ -1,0 +1,1 @@
+{"index": 194581, "D": "profuse sweat or a state of profuse sweating", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 57640, "D": "the recording by motion pictures of blood vessels following injection of a radiopaque contrast medium.", "S": [], "A": []}

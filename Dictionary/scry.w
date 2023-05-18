@@ -1,0 +1,1 @@
+{"index": 281772, "D": "to use divination to discover hidden knowledge or future events, especially by means of a crystal ball. ", "S": [], "A": []}

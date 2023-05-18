@@ -1,0 +1,1 @@
+{"index": 88982, "D": "to drive or send off in various directions; scatter", "S": ["broadcast ", "circulated ", "diluted ", "disseminated ", "distributed ", "expanded ", "extended ", "general ", "propagated ", "radiated ", "scattered ", "separated ", "strewn ", "thin "], "A": ["concentrated ", "condensed "]}

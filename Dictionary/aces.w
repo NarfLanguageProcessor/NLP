@@ -1,0 +1,1 @@
+{"index": 1982, "D": "a playing card or die marked with or having the value indicated by a single spot", "S": ["excellent ", "fabulous ", "peachy ", "wonderful "], "A": []}

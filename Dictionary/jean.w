@@ -1,0 +1,1 @@
+{"index": 160704, "D": "a sturdy twilled fabric, usually of cotton.", "S": ["chaps ", "denims ", "pants ", "trousers "], "A": []}

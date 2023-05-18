@@ -1,0 +1,1 @@
+{"index": 8, "D": "a bushy shrub, Dodonaea viscosa, of Australia, Hawaii, Africa, and tropical America, having sticky foliage.", "S": [], "A": []}

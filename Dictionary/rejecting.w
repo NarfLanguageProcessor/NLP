@@ -1,0 +1,1 @@
+{"index": 266591, "D": "to refuse to have, take, recognize, etc.", "S": ["aloof ", "arrogant ", "averse ", "contemptuous ", "derisive ", "haughty ", "unsympathetic "], "A": ["humble ", "meek ", "shy ", "sympathetic "]}

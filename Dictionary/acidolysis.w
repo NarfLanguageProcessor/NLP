@@ -1,0 +1,1 @@
+{"index": 2445, "D": "decomposition resulting from the interaction of a compound and an acid. ", "S": [], "A": []}

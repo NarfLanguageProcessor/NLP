@@ -1,0 +1,1 @@
+{"index": 118010, "D": "a company or set of four; two couples; a quartet", "S": ["club ", "company ", "lineup ", "organization ", "party ", "side ", "squad ", "unit "], "A": ["individual ", "one ", "single "]}

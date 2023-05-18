@@ -1,0 +1,1 @@
+{"index": 730, "D": "the removal of an embryo or fetus from the uterus in order to end a pregnancy.", "S": ["miscarriage "], "A": ["childbirth ", "delivery ", "giving birth ", "parturition "]}

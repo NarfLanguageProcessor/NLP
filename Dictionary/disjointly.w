@@ -1,0 +1,1 @@
+{"index": 88518, "D": [], "S": ["independently ", "personally ", "solely "], "A": ["together "]}

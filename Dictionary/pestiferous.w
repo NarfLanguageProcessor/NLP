@@ -1,0 +1,1 @@
+{"index": 232288, "D": "spreading or bearing disease, especially deadly epidemic disease; pestilential", "S": ["bothersome ", "contagious ", "diseased ", "harmful ", "infectious ", "noisome ", "noxious ", "pernicious ", "pestilential ", "toxic ", "unhealthy ", "virulent "], "A": []}

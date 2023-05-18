@@ -1,0 +1,1 @@
+{"index": 180123, "D": "a member of a religious order founded in Lyons, France, in 1816 for missionary and educational work in the name of the Virgin Mary.", "S": [], "A": []}

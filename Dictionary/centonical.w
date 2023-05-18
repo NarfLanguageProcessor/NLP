@@ -1,0 +1,1 @@
+{"index": 50912, "D": "a piece of writing, especially a poem, composed wholly of quotations from the works of other authors.", "S": [], "A": []}

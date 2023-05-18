@@ -1,0 +1,1 @@
+{"index": 27432, "D": "a seaport in and the capital of Thailand, in the S central part, on the Chao Phraya.", "S": [], "A": []}

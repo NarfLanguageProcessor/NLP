@@ -1,0 +1,1 @@
+{"index": 300782, "D": "a scleroprotein occurring in the form of fibers that form the skeleton of certain sponges. ", "S": [], "A": []}

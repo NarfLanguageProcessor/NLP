@@ -1,0 +1,1 @@
+{"index": 148527, "D": "of, like, or pertaining to an empire. ", "S": ["royal ", "stately "], "A": ["common "]}

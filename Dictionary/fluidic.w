@@ -1,0 +1,1 @@
+{"index": 115291, "D": "the technology dealing with the use of a flowing liquid or gas in various devices, especially controls, to perform functions usually performed by an electric current in electronic devices.", "S": ["falling ", "rolling ", "running ", "sinuous ", "streaming ", "tidal "], "A": ["empty ", "needy ", "solid "]}

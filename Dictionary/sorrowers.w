@@ -1,0 +1,1 @@
+{"index": 297664, "D": "distress caused by loss, affliction, disappointment, etc.; grief, sadness, or regret.", "S": ["pallbearer "], "A": []}

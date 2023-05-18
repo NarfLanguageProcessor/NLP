@@ -1,0 +1,1 @@
+{"index": 308216, "D": "tending to arouse anger, hostility, passion, etc.", "S": [], "A": []}

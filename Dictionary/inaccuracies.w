@@ -1,0 +1,1 @@
+{"index": 149334, "D": "something inaccurate;  error.", "S": ["blunder ", "deception ", "defect ", "exaggeration "], "A": ["correction ", "correctness ", "perfection ", "success "]}

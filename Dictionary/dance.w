@@ -1,0 +1,1 @@
+{"index": 76674, "D": "to move one's feet or body, or both, rhythmically in a pattern of steps, especially to the accompaniment of music.", "S": ["disco ", "samba ", "tango ", "waltz "], "A": []}

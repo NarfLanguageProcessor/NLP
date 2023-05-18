@@ -1,0 +1,1 @@
+{"index": 311940, "D": "a centralized organization formed by a group of governments  to enforce justice or maintain peace.", "S": [], "A": []}

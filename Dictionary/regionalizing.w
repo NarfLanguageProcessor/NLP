@@ -1,0 +1,1 @@
+{"index": 265661, "D": "to separate into or arrange by regions. ", "S": [], "A": []}

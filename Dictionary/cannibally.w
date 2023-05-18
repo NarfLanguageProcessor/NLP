@@ -1,0 +1,1 @@
+{"index": 46421, "D": "a person who eats human flesh, especially for magical or religious purposes, as among certain tribal peoples.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 29266, "D": "indecent; lewd; obscene", "S": ["lewd ", "obscene ", "off-color ", "ribald ", "rude "], "A": ["clean ", "decent ", "moral ", "nice "]}

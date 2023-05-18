@@ -1,0 +1,1 @@
+{"index": 291420, "D": "occurring at the same time; coinciding in time; contemporaneous; simultaneous", "S": ["coincident ", "contemporaneous ", "contemporary ", "synchronized "], "A": []}

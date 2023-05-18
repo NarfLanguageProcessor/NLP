@@ -1,0 +1,1 @@
+{"index": 327982, "D": "a semiconductor device that amplifies, oscillates, or switches the flow of current between two terminals by varying the current or voltage between one of the terminals and a third", "S": ["VCRs ", "camcorders ", "computers ", "radios ", "stereos ", "televisions "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 365545, "D": "the state or a period of being a widow  or, sometimes, a widower.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 172437, "D": "pertaining to or living in the open water of a freshwater pond or lake.", "S": [], "A": []}

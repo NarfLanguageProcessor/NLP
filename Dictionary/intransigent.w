@@ -1,0 +1,1 @@
+{"index": 156572, "D": "refusing to agree or compromise; uncompromising; inflexible.", "S": ["adamant ", "inflexible ", "obstinate ", "resolute ", "stubborn "], "A": ["flexible ", "pliant ", "soft ", "submissive ", "willing ", "yielding "]}

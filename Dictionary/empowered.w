@@ -1,0 +1,1 @@
+{"index": 98873, "D": "to give power  or authority to; authorize, especially by legal or official means", "S": ["authorized ", "chartered ", "entitled ", "excused ", "franchised ", "free ", "furnished ", "granted ", "licensed ", "okay ", "okayed ", "qualified ", "sanctioned ", "vested "], "A": ["disadvantageous ", "prevented "]}

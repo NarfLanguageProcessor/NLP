@@ -1,0 +1,1 @@
+{"index": 85103, "D": "a silver coin of ancient Greece equal to two drachmas.", "S": [], "A": []}

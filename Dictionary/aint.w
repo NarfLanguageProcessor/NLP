@@ -1,0 +1,1 @@
+{"index": 6829, "D": "contraction of am not;are not;is not.", "S": [], "A": []}

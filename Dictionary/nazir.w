@@ -1,0 +1,1 @@
+{"index": 197568, "D": "(in Muslim countries) the title of any of various public officials.", "S": [], "A": []}

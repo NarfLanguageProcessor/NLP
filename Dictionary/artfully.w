@@ -1,0 +1,1 @@
+{"index": 20551, "D": "slyly crafty or cunning; deceitful; tricky", "S": ["ably ", "adroitly ", "carefully ", "cleverly ", "coolly ", "deftly ", "deliberately ", "intelligently ", "judiciously ", "keenly ", "knowingly ", "skillfully ", "slyly ", "smartly "], "A": []}

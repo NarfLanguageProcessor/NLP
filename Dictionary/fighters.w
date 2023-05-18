@@ -1,0 +1,1 @@
+{"index": 112437, "D": "a boxer; pugilist.", "S": ["assailant ", "boxer ", "champion ", "combatant ", "mercenary ", "militant ", "opponent ", "soldier ", "tanker ", "warlord ", "warrior "], "A": ["peacemaker "]}

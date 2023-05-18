@@ -1,0 +1,1 @@
+{"index": 254391, "D": "a person of fatuously earnest intellectual, artistic, or social pretensions.", "S": [], "A": []}

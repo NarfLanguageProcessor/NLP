@@ -1,0 +1,1 @@
+{"index": 283697, "D": "capable of absorbing  heat, light, moisture, etc.; tending to absorb. ", "S": [], "A": []}

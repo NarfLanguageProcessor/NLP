@@ -1,0 +1,1 @@
+{"index": 301550, "D": "a stick used to stir porridge.", "S": [], "A": []}

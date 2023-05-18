@@ -1,0 +1,1 @@
+{"index": 360530, "D": "any of a group of organic substances essential in small quantities to normal metabolism, found in minute amounts in natural foodstuffs or sometimes produced synthetically", "S": ["fiber ", "food ", "mineral "], "A": []}

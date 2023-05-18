@@ -1,0 +1,1 @@
+{"index": 20692, "D": "uttered clearly in distinct syllables.", "S": ["expressiveness ", "fluency ", "oratory ", "volubility "], "A": []}

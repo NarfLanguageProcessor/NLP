@@ -1,0 +1,1 @@
+{"index": 142796, "D": "like or suggestive of home;  familiar; warmly comfortable.", "S": ["comfortable ", "comfy ", "cozy ", "delightful ", "homey ", "hospitable ", "inviting ", "pleasant ", "restful ", "snug ", "welcoming "], "A": ["inhospitable ", "uncomfortable ", "uninviting ", "unpleasant ", "unwelcoming "]}

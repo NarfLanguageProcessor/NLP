@@ -1,0 +1,1 @@
+{"index": 252137, "D": "producing offspring, young, fruit, etc., abundantly; highly fruitful", "S": ["potency ", "pregnancy ", "productivity ", "virility "], "A": ["lack "]}

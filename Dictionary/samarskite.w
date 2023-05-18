@@ -1,0 +1,1 @@
+{"index": 277483, "D": "a velvet-black mineral, a complex columbate-tantalate of uranium, cerium, etc., occurring in masses", "S": [], "A": []}

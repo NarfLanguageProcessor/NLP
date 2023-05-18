@@ -1,0 +1,1 @@
+{"index": 345134, "D": "the totality of known or supposed objects and phenomena throughout space; the cosmos; macrocosm.", "S": ["cosmos ", "macrocosm ", "nature ", "world "], "A": ["locality "]}

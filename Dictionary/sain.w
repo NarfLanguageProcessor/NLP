@@ -1,0 +1,1 @@
+{"index": 276818, "D": "to make the sign of the cross on, as for protection against evil influences.", "S": [], "A": []}

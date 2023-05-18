@@ -1,0 +1,1 @@
+{"index": 206749, "D": "that which is required;  a thing demanded or obligatory", "S": [], "A": []}

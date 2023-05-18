@@ -1,0 +1,1 @@
+{"index": 53442, "D": "a shout of encouragement, approval, congratulation, etc.", "S": ["delight ", "encouragement ", "glee ", "joy ", "optimism "], "A": ["discouragement ", "sadness ", "sorrow ", "unhappiness ", "depression ", "distress ", "gloom ", "irritation "]}

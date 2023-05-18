@@ -1,0 +1,1 @@
+{"index": 238253, "D": "a strategy in which a pitcher purposely throws the ball too far outside the plate for the batter to hit, but enabling the catcher to more easily handle the ball in anticipation of an attempted steal, squeeze play,  or hit-and-run  play", "S": ["quick release "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 209264, "D": "a small lump or stunted piece; stub.", "S": ["fruit ", "grain ", "meat ", "morsel ", "nut "], "A": ["exterior ", "exteriority ", "outside ", "periphery ", "surface ", "whole "]}

@@ -1,0 +1,1 @@
+{"index": 31198, "D": "(of an aviator) to land (an aircraft) directly on the fuselage, as because of defective landing gear.", "S": [], "A": []}

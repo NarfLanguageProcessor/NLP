@@ -1,0 +1,1 @@
+{"index": 168946, "D": "the act or process of applying lath. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158822, "D": "a line on a map connecting points that have the same mean winter temperature.", "S": [], "A": []}

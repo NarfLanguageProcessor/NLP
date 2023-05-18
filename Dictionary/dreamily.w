@@ -1,0 +1,1 @@
+{"index": 92866, "D": "of the nature of or characteristic of dreams;  visionary.", "S": [], "A": []}

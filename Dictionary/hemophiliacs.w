@@ -1,0 +1,1 @@
+{"index": 136443, "D": "a person having hemophilia. ", "S": [], "A": []}

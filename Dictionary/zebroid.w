@@ -1,0 +1,1 @@
+{"index": 368977, "D": "resembling a zebra. ", "S": [], "A": []}

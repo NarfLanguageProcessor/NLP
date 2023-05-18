@@ -1,0 +1,1 @@
+{"index": 276631, "D": "a medieval Icelandic or Norse prose narrative of achievements and events in the history of a personage, family, etc.", "S": ["adventure ", "chronicle ", "epic ", "legend ", "narrative ", "tale ", "yarn "], "A": []}

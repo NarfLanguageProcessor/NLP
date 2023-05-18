@@ -1,0 +1,1 @@
+{"index": 239780, "D": "full; complete; entire; absolute; unqualified", "S": ["absolute ", "complete ", "full ", "general ", "inclusive ", "open ", "sweeping ", "thorough "], "A": ["incomplete ", "limited ", "part ", "partial ", "restricted "]}

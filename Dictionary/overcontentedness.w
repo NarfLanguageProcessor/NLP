@@ -1,0 +1,1 @@
+{"index": 218726, "D": "the state or condition of being satisfied and not needing or wanting anything more or anything else", "S": [], "A": []}

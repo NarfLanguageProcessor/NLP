@@ -1,0 +1,1 @@
+{"index": 308531, "D": "somewhat or imperfectly metallic. ", "S": [], "A": []}

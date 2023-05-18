@@ -1,0 +1,1 @@
+{"index": 336978, "D": "clearness or lucidity as to perception or understanding; freedom from indistinctness or ambiguity.", "S": [], "A": []}

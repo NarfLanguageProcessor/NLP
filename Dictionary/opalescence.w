@@ -1,0 +1,1 @@
+{"index": 213182, "D": "a lustrous play of colors like that of an opal", "S": ["light ", "phosphorescence ", "radiance "], "A": ["dark "]}

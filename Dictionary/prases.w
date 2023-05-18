@@ -1,0 +1,1 @@
+{"index": 245335, "D": "a leek-green cryptocrystalline variety of chalcedony.", "S": [], "A": []}

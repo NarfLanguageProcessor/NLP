@@ -1,0 +1,1 @@
+{"index": 127906, "D": "the master of a household; husband.", "S": ["head of the house ", "householder "], "A": []}

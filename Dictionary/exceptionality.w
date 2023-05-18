@@ -1,0 +1,1 @@
+{"index": 106609, "D": "the state or condition of being exceptional,  rare, one of a kind, or unusually excellent", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321678, "D": "Also (Older Spelling) Thi\u00b7bet .Also called (Older Spelling) Si\u00b7tsang  [see-tsahng],  /\u02c8si\u02c8ts\u0251\u014b/,  (Pinyin) Xi\u00b7zang  [shee-zahng]  /\u02c8\u0283i\u02c8z\u0251\u014b/ .", "S": [], "A": []}

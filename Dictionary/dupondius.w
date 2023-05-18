@@ -1,0 +1,1 @@
+{"index": 94384, "D": "a coin of ancient Rome, equal to two asses.", "S": [], "A": []}

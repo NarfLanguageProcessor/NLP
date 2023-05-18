@@ -1,0 +1,1 @@
+{"index": 357865, "D": [], "S": ["high-speed "], "A": ["slow ", "sluggish "]}

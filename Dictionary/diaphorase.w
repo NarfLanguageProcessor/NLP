@@ -1,0 +1,1 @@
+{"index": 84439, "D": "a flavoprotein, found in mitochondria, that acts as an enzyme in catalyzing the oxidation of reduced NAD.", "S": [], "A": []}

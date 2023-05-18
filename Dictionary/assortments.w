@@ -1,0 +1,1 @@
+{"index": 21914, "D": "the act of assorting;  distribution; classification.", "S": ["array ", "collection ", "combination ", "hodgepodge ", "jumble ", "mishmash ", "mixture ", "selection ", "sort "], "A": []}

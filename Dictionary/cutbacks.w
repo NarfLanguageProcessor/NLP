@@ -1,0 +1,1 @@
+{"index": 75743, "D": "a reduction in rate, quantity, etc.", "S": ["belt-tightening ", "decline ", "reduction ", "reversal "], "A": ["increase "]}

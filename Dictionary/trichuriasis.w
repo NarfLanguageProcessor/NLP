@@ -1,0 +1,1 @@
+{"index": 329515, "D": "intestinal infestation with the roundworm Trichuris trichiura, producing nausea, abdominal discomfort, and diarrhea, common in tropical areas with poor sanitation.", "S": [], "A": []}

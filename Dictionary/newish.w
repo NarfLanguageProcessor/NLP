@@ -1,0 +1,1 @@
+{"index": 199403, "D": "rather new. ", "S": ["budding ", "inexperienced ", "new ", "youthful "], "A": ["experienced ", "old ", "adult ", "healthy ", "mature ", "older ", "sophisticated "]}

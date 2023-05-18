@@ -1,0 +1,1 @@
+{"index": 28766, "D": "low in pitch; of the lowest pitch or range", "S": [], "A": []}

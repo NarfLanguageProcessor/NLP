@@ -1,0 +1,1 @@
+{"index": 130309, "D": "ground ball. ", "S": ["bunt ", "chopper ", "comebacker ", "roller "], "A": []}

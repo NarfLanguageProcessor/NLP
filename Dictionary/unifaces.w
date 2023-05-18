@@ -1,0 +1,1 @@
+{"index": 344098, "D": "a coin or medal having a blank reverse.", "S": [], "A": []}

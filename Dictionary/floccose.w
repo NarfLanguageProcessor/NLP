@@ -1,0 +1,1 @@
+{"index": 114832, "D": "consisting of or bearing woolly tufts or long soft hairs.", "S": ["woolly "], "A": []}

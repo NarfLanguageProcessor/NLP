@@ -1,0 +1,1 @@
+{"index": 117370, "D": "to make formal,  especially for the sake of official or authorized acceptance", "S": ["answer ", "explanation ", "interpretation ", "rationale ", "solution ", "translation "], "A": ["question "]}

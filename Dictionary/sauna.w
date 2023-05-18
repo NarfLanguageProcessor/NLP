@@ -1,0 +1,1 @@
+{"index": 278942, "D": "a bath that uses dry heat to induce perspiration, and in which steam is produced by pouring water on heated stones.", "S": ["bathroom ", "lavatory ", "restroom ", "shower ", "toilet "], "A": []}

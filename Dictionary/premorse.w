@@ -1,0 +1,1 @@
+{"index": 248480, "D": "having the end irregularly truncate, as if bitten or broken off.", "S": [], "A": []}

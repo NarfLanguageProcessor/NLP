@@ -1,0 +1,1 @@
+{"index": 236303, "D": "a combining form meaning \u201cpressure,\u201d used in the formation of compound words", "S": [], "A": []}

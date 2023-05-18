@@ -1,0 +1,1 @@
+{"index": 318824, "D": "a school, style, or method of painting, adopted chiefly by 17th-century Spanish and Neapolitan painters, esp Caravaggio, characterized by large areas of dark colours, usually relieved with a shaft of light", "S": [], "A": []}

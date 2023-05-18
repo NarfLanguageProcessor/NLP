@@ -1,0 +1,1 @@
+{"index": 80024, "D": "earthenware having an opaque white glaze with an overglaze decoration, usually in blue.", "S": [], "A": []}

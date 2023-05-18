@@ -1,0 +1,1 @@
+{"index": 17910, "D": "gratitude; thankful recognition", "S": [], "A": []}

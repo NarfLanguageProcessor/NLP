@@ -1,0 +1,1 @@
+{"index": 354369, "D": "past participle of wear. ", "S": [], "A": []}

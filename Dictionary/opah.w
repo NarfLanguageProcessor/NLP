@@ -1,0 +1,1 @@
+{"index": 213173, "D": "a large, deep-bodied, brilliantly colored, oceanic food fish, Lampris regius.", "S": [], "A": []}

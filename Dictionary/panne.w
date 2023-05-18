@@ -1,0 +1,1 @@
+{"index": 224733, "D": "a soft, lustrous, lightweight velvet with flattened pile.", "S": [], "A": []}

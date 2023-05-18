@@ -1,0 +1,1 @@
+{"index": 30910, "D": "(used as a mild oath expressing dismay, anger, or the like).", "S": [], "A": []}

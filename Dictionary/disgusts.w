@@ -1,0 +1,1 @@
+{"index": 88211, "D": "to cause loathing or nausea in.", "S": ["antipathy ", "aversion ", "dislike ", "distaste ", "hatred ", "loathing ", "repulsion ", "revulsion "], "A": ["approval ", "liking ", "love ", "loving "]}

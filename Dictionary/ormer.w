@@ -1,0 +1,1 @@
+{"index": 214681, "D": "an abalone, Haliotis tuberculata, living in waters of the Channel Islands.", "S": ["mollusk "], "A": []}

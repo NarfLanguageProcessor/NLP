@@ -1,0 +1,1 @@
+{"index": 226075, "D": "a word formed by parasynthesis; for example, kind-hearted", "S": [], "A": []}

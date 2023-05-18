@@ -1,0 +1,1 @@
+{"index": 350117, "D": "a vertical blade at the stern of a vessel that can be turned horizontally to change the vessel's direction when in motion.", "S": [], "A": []}

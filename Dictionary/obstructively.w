@@ -1,0 +1,1 @@
+{"index": 210507, "D": "blocking a passage or view", "S": [], "A": []}

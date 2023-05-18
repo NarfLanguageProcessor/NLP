@@ -1,0 +1,1 @@
+{"index": 55969, "D": "of, denoting, or relating to money-making", "S": [], "A": []}

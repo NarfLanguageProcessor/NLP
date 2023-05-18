@@ -1,0 +1,1 @@
+{"index": 164684, "D": "electric potential difference or electromotive force, as measured in kilovolts. ", "S": [], "A": []}

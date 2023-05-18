@@ -1,0 +1,1 @@
+{"index": 202925, "D": "serving to deprecate;  deprecatory.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 274508, "D": "a town in N Egypt, at a mouth of the Nile.", "S": [], "A": []}

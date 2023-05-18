@@ -1,0 +1,1 @@
+{"index": 139692, "D": "U.S. writer, born in Russia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62181, "D": "a line of animals, prisoners, or slaves chained and driven along together.", "S": [], "A": []}

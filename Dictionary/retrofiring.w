@@ -1,0 +1,1 @@
+{"index": 270816, "D": "to ignite (a retrorocket).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 286095, "D": "noting a commutator motor in which the field circuit and armature circuit are connected in series.", "S": [], "A": []}

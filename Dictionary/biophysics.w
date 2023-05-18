@@ -1,0 +1,1 @@
+{"index": 34478, "D": "the branch of biology that applies the methods of physics  to the study of biological structures and processes.", "S": [], "A": []}

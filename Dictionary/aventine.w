@@ -1,0 +1,1 @@
+{"index": 24659, "D": "one of the seven hills on which ancient Rome was built.", "S": [], "A": []}

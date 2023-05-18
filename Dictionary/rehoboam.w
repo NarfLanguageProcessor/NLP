@@ -1,0 +1,1 @@
+{"index": 266026, "D": "the successor of Solomon and the first king of Judah, reigned 922?\u2013915? b.c. 1 Kings 11", "S": [], "A": []}

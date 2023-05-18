@@ -1,0 +1,1 @@
+{"index": 97332, "D": "the valence  of an ion, equal to the number of positive or negative charges acquired by an atom through a loss or gain of electrons. ", "S": [], "A": []}

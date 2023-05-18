@@ -1,0 +1,1 @@
+{"index": 279425, "D": "a person or thing that scales.", "S": [], "A": []}

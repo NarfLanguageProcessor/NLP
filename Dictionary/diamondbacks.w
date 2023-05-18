@@ -1,0 +1,1 @@
+{"index": 84353, "D": "bearing diamond-shaped marks, designs, or configurations on the back. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 286705, "D": "organization; arrangement.", "S": ["composition ", "foundation ", "set-up ", "structure ", "system "], "A": ["disorganization "]}

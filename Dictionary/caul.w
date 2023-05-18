@@ -1,0 +1,1 @@
+{"index": 49950, "D": "a part of the amnion sometimes covering the head of a child at birth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 31235, "D": "a handle, cord, or strip of cloth pulled  to ring a bell. ", "S": [], "A": []}

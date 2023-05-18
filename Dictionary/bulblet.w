@@ -1,0 +1,1 @@
+{"index": 42411, "D": "a small bulb  or bulblike structure, especially one growing in the axils of leaves, as in the tiger lily, or replacing flowers, as in the onion.", "S": [], "A": []}

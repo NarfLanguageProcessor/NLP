@@ -1,0 +1,1 @@
+{"index": 68493, "D": "an imitation, reproduction, or transcript of an original", "S": ["image ", "model ", "photocopy ", "photograph ", "portrait ", "print ", "replica ", "reproduction ", "transcript ", "type "], "A": ["original ", "difference ", "dissimilarity ", "opposite ", "unlikeness "]}

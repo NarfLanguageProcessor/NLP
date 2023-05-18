@@ -1,0 +1,1 @@
+{"index": 190028, "D": "to shape  badly or wrongly; deform.", "S": ["batter ", "blemish ", "buckle ", "contort ", "cripple ", "damage ", "deface ", "disfigure ", "distort ", "flaw ", "gnarl ", "grimace ", "impair ", "injure ", "knot ", "maim ", "malform ", "mangle ", "mar ", "mutilate ", "ruin ", "skew ", "spoil ", "twist ", "warp ", "wince "], "A": []}

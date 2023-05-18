@@ -1,0 +1,1 @@
+{"index": 68163, "D": "to roll or wind together; coil; twist.", "S": [], "A": []}

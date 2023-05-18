@@ -1,0 +1,1 @@
+{"index": 341711, "D": "exhausting  a subject, topic, etc.; comprehensive; thorough", "S": [], "A": []}

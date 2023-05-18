@@ -1,0 +1,1 @@
+{"index": 42616, "D": "a structural member, as a brick, used in forming such an angle.", "S": [], "A": []}

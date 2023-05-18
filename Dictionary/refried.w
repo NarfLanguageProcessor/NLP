@@ -1,0 +1,1 @@
+{"index": 265385, "D": "cooked in a pan or on a griddle over direct heat, usually in fat or oil.", "S": [], "A": []}

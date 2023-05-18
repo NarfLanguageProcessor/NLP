@@ -1,0 +1,1 @@
+{"index": 24473, "D": "Compare heterotrophic", "S": [], "A": []}

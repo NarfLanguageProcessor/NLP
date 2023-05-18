@@ -1,0 +1,1 @@
+{"index": 264263, "D": "to cut apart (an animal body, plant, etc.) to examine the structure, relation of parts, or the like.", "S": [], "A": []}

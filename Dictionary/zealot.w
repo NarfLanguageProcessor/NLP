@@ -1,0 +1,1 @@
+{"index": 368942, "D": "a person who shows zeal. ", "S": ["die-hard ", "extremist ", "fanatic ", "militant ", "radical "], "A": ["conservative ", "moderate "]}

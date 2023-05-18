@@ -1,0 +1,1 @@
+{"index": 286134, "D": "of, showing, or characterized by deep thought.", "S": ["deliberate ", "genuine ", "honest ", "severe ", "sincere ", "thoughtful "], "A": ["deceptive ", "dishonest ", "false ", "insincere ", "misleading ", "untrustworthy "]}

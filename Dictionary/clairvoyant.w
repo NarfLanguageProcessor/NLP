@@ -1,0 +1,1 @@
+{"index": 59103, "D": "having or claiming to have the power of seeing objects or actions beyond the range of natural vision", "S": ["visionary "], "A": []}

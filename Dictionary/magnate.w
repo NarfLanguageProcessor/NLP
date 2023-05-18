@@ -1,0 +1,1 @@
+{"index": 177475, "D": "a person of great influence, importance, or standing in a particular enterprise, field of business, etc.", "S": ["aristocrat ", "capitalist ", "financier ", "merchant ", "mogul ", "tycoon "], "A": ["nobody ", "nonentity ", "unknown "]}

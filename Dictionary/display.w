@@ -1,0 +1,1 @@
+{"index": 89051, "D": "to show or exhibit; make visible", "S": ["act ", "array ", "demonstration ", "example ", "exhibit ", "parade ", "presentation "], "A": ["concealment ", "hiding ", "dullness ", "modesty ", "plainness ", "simplicity "]}

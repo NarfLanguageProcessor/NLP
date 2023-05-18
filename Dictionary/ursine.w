@@ -1,0 +1,1 @@
+{"index": 355885, "D": "of or relating to a bear or bears.", "S": [], "A": []}

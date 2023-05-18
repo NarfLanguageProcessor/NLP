@@ -1,0 +1,1 @@
+{"index": 270897, "D": "a small, auxiliary rocket engine,  forming a part of a larger rocket  vehicle and having its exhaust nozzle pointed toward the direction of flight, for decelerating the larger rocket, separating one stage from another, etc.", "S": [], "A": []}

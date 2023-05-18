@@ -1,0 +1,1 @@
+{"index": 305553, "D": "to put (sails, spars, gear, etc.) in the proper place or condition when not in use.", "S": [], "A": []}

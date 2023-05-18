@@ -1,0 +1,1 @@
+{"index": 85081, "D": "occurring in pairs; paired; twin.", "S": [], "A": []}

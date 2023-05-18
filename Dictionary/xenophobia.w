@@ -1,0 +1,1 @@
+{"index": 368410, "D": "an aversion or hostility to, disdain for, or fear of foreigners, people from different cultures, or strangers", "S": ["Nazism ", "dictatorship ", "right-wing dictatorship ", "totalitarianism "], "A": ["democracy ", "socialism "]}

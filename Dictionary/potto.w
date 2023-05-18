@@ -1,0 +1,1 @@
+{"index": 244830, "D": "a small arboreal mammal, Perodictus potto, in the loris family, similar in appearance and behavior to the kinkajou and olingo", "S": [], "A": []}

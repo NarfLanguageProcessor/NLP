@@ -1,0 +1,1 @@
+{"index": 175529, "D": "of such a nature as to attract love;  deserving love; amiable; endearing.", "S": [], "A": []}

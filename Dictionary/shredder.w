@@ -1,0 +1,1 @@
+{"index": 289134, "D": "a person or thing that shreds. ", "S": [], "A": []}

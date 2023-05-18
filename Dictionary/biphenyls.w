@@ -1,0 +1,1 @@
+{"index": 34658, "D": "a water-insoluble, pleasant-smelling, colorless powder or white scales, C12H10, composed of two phenyl  groups, from which benzidine dyes are derived", "S": [], "A": []}

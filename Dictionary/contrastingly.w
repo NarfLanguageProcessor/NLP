@@ -1,0 +1,1 @@
+{"index": 67727, "D": "to compare in order to show unlikeness or differences; note the opposite natures, purposes, etc., of", "S": ["individually ", "negatively ", "separately ", "variously "], "A": ["together "]}

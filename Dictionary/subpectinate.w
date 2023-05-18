@@ -1,0 +1,1 @@
+{"index": 308777, "D": "formed into or having closely parallel, toothlike projections that resemble the teeth of a comb.", "S": [], "A": []}

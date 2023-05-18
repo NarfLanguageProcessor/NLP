@@ -1,0 +1,1 @@
+{"index": 326133, "D": "to afflict with great bodily or mental suffering; pain", "S": ["agonizing ", "anguishing ", "distressing ", "disturbing ", "excruciating ", "harrowing ", "heart-wrenching ", "racking ", "struggling ", "suffering ", "tearing ", "torturing "], "A": ["pleasant ", "pleasing "]}

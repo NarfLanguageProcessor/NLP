@@ -1,0 +1,1 @@
+{"index": 203529, "D": "of or relating to the enteron;  intestinal.", "S": [], "A": []}

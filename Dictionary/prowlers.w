@@ -1,0 +1,1 @@
+{"index": 254166, "D": "a person or animal that prowls. ", "S": ["burglar ", "crook ", "housebreaker ", "lurker ", "pilferer ", "robber "], "A": []}

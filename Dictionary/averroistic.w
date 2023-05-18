@@ -1,0 +1,1 @@
+{"index": 24694, "D": "the philosophy of Averro\u00ebs, largely based on Aristotelianism and asserting the unity of an active intellect common to all human beings while denying personal immortality.", "S": [], "A": []}

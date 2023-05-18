@@ -1,0 +1,1 @@
+{"index": 89804, "D": "serving to distinguish;  characteristic; distinguishing", "S": ["cool ", "extraordinary ", "idiosyncratic ", "offbeat ", "original ", "peculiar ", "singular ", "special ", "weird "], "A": ["common ", "commonplace ", "normal ", "ordinary ", "regular ", "usual "]}

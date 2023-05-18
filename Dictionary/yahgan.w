@@ -1,0 +1,1 @@
+{"index": 145530, "D": "a member of an Indian people of the southern coast of Tierra del Fuego and adjacent islands.", "S": [], "A": []}

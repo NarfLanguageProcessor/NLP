@@ -1,0 +1,1 @@
+{"index": 64983, "D": "the jargon and technical terms associated with computers and their operation.", "S": ["computer jargon ", "computer terminology ", "computer terms ", "hacker talk ", "tech talk "], "A": []}

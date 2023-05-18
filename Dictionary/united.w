@@ -1,0 +1,1 @@
+{"index": 345062, "D": "made into or caused to act as a single entity", "S": ["concerted ", "consolidated ", "cooperative ", "homogeneous ", "integrated ", "linked ", "unanimous ", "undivided ", "unified "], "A": ["divided ", "separate ", "uncoordinated "]}

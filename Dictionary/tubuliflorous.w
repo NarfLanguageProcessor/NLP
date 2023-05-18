@@ -1,0 +1,1 @@
+{"index": 332071, "D": "having the corolla tubular in all the perfect flowers of a head, as certain composite plants.", "S": [], "A": []}

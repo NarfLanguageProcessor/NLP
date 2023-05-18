@@ -1,0 +1,1 @@
+{"index": 76753, "D": "liability or exposure to harm or injury; risk; peril.", "S": ["crisis ", "emergency ", "exposure ", "insecurity ", "instability ", "jeopardy ", "menace ", "peril ", "pitfall ", "possibility ", "probability ", "risk ", "threat ", "uncertainty ", "vulnerability "], "A": ["calm ", "certainty ", "peace ", "safety ", "security ", "sureness ", "unlikelihood "]}

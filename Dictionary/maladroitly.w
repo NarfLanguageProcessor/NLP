@@ -1,0 +1,1 @@
+{"index": 178216, "D": "lacking in adroitness; unskillful; awkward; bungling; tactless", "S": ["awkwardly ", "clumsily ", "poorly "], "A": ["adequately ", "calmly ", "little ", "mildly ", "morally "]}

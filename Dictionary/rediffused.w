@@ -1,0 +1,1 @@
+{"index": 264176, "D": "to pour out and spread, as a fluid.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 184585, "D": "the intersection between two vertical lines, one through the center of buoyancy of a hull in equilibrium, the other through the center of buoyancy when the hull is inclined slightly to one side or toward one end", "S": [], "A": []}

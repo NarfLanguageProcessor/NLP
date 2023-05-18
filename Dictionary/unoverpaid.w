@@ -1,0 +1,1 @@
+{"index": 347300, "D": "to pay  more than (an amount due)", "S": [], "A": []}

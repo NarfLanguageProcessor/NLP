@@ -1,0 +1,1 @@
+{"index": 50214, "D": "hollow-horned, as the ruminants with true horns, as distinguished from bony antlers.", "S": [], "A": []}

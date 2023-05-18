@@ -1,0 +1,1 @@
+{"index": 38237, "D": "an area of SE Missouri where the Missouri-Arkansas border dips southward forming a rectangular-shaped extension of the state.", "S": [], "A": []}

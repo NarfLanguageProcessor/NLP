@@ -1,0 +1,1 @@
+{"index": 121491, "D": "an awkward, eccentric, or foolish person.", "S": ["crank ", "dodo ", "eccentric ", "fellow ", "miser "], "A": []}

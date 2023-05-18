@@ -1,0 +1,1 @@
+{"index": 45019, "D": "a machine in which cloth, paper, or the like, is smoothed, glazed, etc., by pressing between rotating cylinders.", "S": ["classify ", "detail ", "enter ", "file ", "note ", "place ", "post ", "register ", "specify ", "spell out "], "A": ["disarrange ", "disorder ", "displace ", "erase ", "forget ", "withhold ", "cancel ", "disorganize "]}

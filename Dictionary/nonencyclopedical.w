@@ -1,0 +1,1 @@
+{"index": 203495, "D": "pertaining to or of the nature of an encyclopedia;  relating to all branches of knowledge.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 93463, "D": "to be sleepy or half-asleep.", "S": ["catnap ", "doze ", "drowse ", "nod ", "rack ", "relax ", "rest ", "sleep ", "snooze "], "A": []}

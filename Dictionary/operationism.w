@@ -1,0 +1,1 @@
+{"index": 213292, "D": "the doctrine that the meaning of a scientific term, concept, or proposition consists of the operation or operations performed in defining or demonstrating it.", "S": [], "A": []}

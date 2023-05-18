@@ -1,0 +1,1 @@
+{"index": 191590, "D": "a deity whose worship was marked by the propitiatory sacrifice of children by their own parents. 2 Kings 23", "S": [], "A": []}

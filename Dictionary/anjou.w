@@ -1,0 +1,1 @@
+{"index": 13391, "D": "a region and former province in W France, in the Loire Valley.", "S": [], "A": []}

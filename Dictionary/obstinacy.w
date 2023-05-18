@@ -1,0 +1,1 @@
+{"index": 210470, "D": "the quality or state of being obstinate;  stubbornness.", "S": ["determination ", "obstinance ", "purpose ", "reluctance ", "tenacity "], "A": ["irresolution "]}

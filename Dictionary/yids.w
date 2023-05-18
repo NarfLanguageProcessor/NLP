@@ -1,0 +1,1 @@
+{"index": 147131, "D": "a contemptuous term used to refer to a Jew.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 58960, "D": "a form of meter in Welsh poetry consisting of rhyming couplets, each line having seven syllables", "S": [], "A": []}

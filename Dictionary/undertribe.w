@@ -1,0 +1,1 @@
+{"index": 340032, "D": "any aggregate of people united by ties of descent from a common ancestor, a community of customs and traditions, adherence to the same leaders, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 172517, "D": "pertaining to the lymphatic vessels.", "S": [], "A": []}

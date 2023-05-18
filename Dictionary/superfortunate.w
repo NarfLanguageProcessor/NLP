@@ -1,0 +1,1 @@
+{"index": 311899, "D": "having good fortune;  receiving good from uncertain or unexpected sources; lucky", "S": [], "A": []}

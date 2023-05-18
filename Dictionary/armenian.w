@@ -1,0 +1,1 @@
+{"index": 19905, "D": "of or relating to Armenia,  its inhabitants, or their language.", "S": [], "A": []}

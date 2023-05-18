@@ -1,0 +1,1 @@
+{"index": 259424, "D": "the racing fraternity; a racing man", "S": ["darting ", "dashing ", "fast ", "flying ", "galloping ", "hastening ", "hurrying ", "running ", "rushing ", "sailing ", "swift ", "tearing ", "whisking ", "whizzing ", "zooming "], "A": ["slow "]}

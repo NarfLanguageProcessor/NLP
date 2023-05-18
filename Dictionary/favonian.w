@@ -1,0 +1,1 @@
+{"index": 110495, "D": "of or relating to the west wind.", "S": [], "A": []}

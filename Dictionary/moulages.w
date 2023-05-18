@@ -1,0 +1,1 @@
+{"index": 194160, "D": "the making of a mold, especially with plaster of Paris, of objects, footprints, tire tracks, etc., as for the purpose of identification.", "S": [], "A": []}

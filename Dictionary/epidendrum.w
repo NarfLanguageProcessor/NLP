@@ -1,0 +1,1 @@
+{"index": 102364, "D": "any of numerous tropical American orchids of the genus Epidendrum, having variously colored, often showy flowers.", "S": [], "A": []}

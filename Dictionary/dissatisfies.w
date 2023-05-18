@@ -1,0 +1,1 @@
+{"index": 89394, "D": "to cause to be displeased, especially by failing to provide something expected or desired.", "S": ["disappoint ", "perturb "], "A": ["please "]}

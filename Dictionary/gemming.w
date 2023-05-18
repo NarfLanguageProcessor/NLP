@@ -1,0 +1,1 @@
+{"index": 123350, "D": "a cut and polished precious stone or pearl fine enough for use in jewelry.", "S": ["adorn ", "decorate ", "embellish "], "A": ["mar "]}

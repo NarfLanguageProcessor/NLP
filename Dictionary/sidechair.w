@@ -1,0 +1,1 @@
+{"index": 289739, "D": "a straight-backed chair without arms.", "S": [], "A": []}

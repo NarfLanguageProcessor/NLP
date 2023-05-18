@@ -1,0 +1,1 @@
+{"index": 53113, "D": "to converse in a familiar or informal manner.", "S": [], "A": []}

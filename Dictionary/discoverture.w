@@ -1,0 +1,1 @@
+{"index": 87677, "D": "the state of being discovert;  freedom from coverture.", "S": [], "A": []}

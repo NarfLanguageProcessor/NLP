@@ -1,0 +1,1 @@
+{"index": 140681, "D": "reaching to or covering the hips,  as clothing", "S": [], "A": []}

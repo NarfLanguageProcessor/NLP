@@ -1,0 +1,1 @@
+{"index": 314371, "D": "simple past tense and past participle of sweep1. ", "S": ["clean ", "clear "], "A": ["dirty "]}

@@ -1,0 +1,1 @@
+{"index": 247022, "D": "to see, get knowledge of, learn of, find, or find out; gain sight or knowledge of (something previously unseen or unknown)", "S": [], "A": []}

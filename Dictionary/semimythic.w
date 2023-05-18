@@ -1,0 +1,1 @@
+{"index": 284465, "D": "pertaining to, of the nature of, or involving a myth. ", "S": [], "A": []}

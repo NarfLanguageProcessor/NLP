@@ -1,0 +1,1 @@
+{"index": 74162, "D": "a small particle of bread, cake, etc., that has broken off.", "S": ["atom ", "dab ", "dash ", "dram ", "drop ", "grain ", "iota ", "jot ", "mite ", "ounce ", "particle ", "pinch ", "scrap ", "seed ", "shred ", "sliver ", "smidgen ", "snippet ", "speck "], "A": ["glob ", "lot "]}

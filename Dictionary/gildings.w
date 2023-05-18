@@ -1,0 +1,1 @@
+{"index": 124900, "D": "the application of gilt. ", "S": ["beautification ", "decoration ", "embellishment ", "gilding ", "ornament ", "ornamentation ", "trim ", "trimming "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 60994, "D": "the idea, principle, or policy of favoring or supporting the concept of coalition  or a specific coalition,  especially in politics.", "S": ["collaborator ", "confederate ", "partner "], "A": []}

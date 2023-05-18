@@ -1,0 +1,1 @@
+{"index": 271031, "D": "the materials used to cushion and cover furniture.", "S": [], "A": []}

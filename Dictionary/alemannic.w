@@ -1,0 +1,1 @@
+{"index": 7863, "D": "Compare Bavarian (def. 3). ", "S": [], "A": []}

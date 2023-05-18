@@ -1,0 +1,1 @@
+{"index": 15711, "D": "the chief suitor of Penelope, killed by Odysseus upon his return from Troy.", "S": [], "A": []}

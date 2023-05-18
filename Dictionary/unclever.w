@@ -1,0 +1,1 @@
+{"index": 337044, "D": "mentally bright; having sharp or quick intelligence; able.", "S": [], "A": []}

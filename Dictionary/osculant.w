@@ -1,0 +1,1 @@
+{"index": 215304, "D": "united by certain common characteristics.", "S": ["adherent ", "agglutinant ", "coherent ", "persistent ", "tenacious ", "viscid ", "viscous "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 226547, "D": "a partially shaped mass of molten glass.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 189621, "D": "to match  badly or unsuitably.", "S": ["discrepancy ", "imbalance "], "A": ["balance ", "equality ", "evenness ", "sameness ", "similarity "]}

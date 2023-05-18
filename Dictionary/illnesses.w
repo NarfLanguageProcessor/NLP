@@ -1,0 +1,1 @@
+{"index": 147428, "D": "poor health; sickness", "S": ["ailment ", "breakdown ", "collapse ", "disability ", "disorder ", "disturbance ", "flu ", "ill health ", "malady ", "relapse ", "seizure ", "sickness ", "syndrome ", "virus "], "A": ["health ", "order ", "aid ", "good health ", "healthiness "]}

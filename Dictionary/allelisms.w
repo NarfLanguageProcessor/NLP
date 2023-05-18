@@ -1,0 +1,1 @@
+{"index": 8633, "D": "any of several forms of a gene, usually arising through mutation, that are responsible for hereditary variation.", "S": [], "A": []}

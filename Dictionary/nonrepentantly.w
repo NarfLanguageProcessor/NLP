@@ -1,0 +1,1 @@
+{"index": 206705, "D": "repenting;  penitent; experiencing repentance. ", "S": [], "A": []}

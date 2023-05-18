@@ -1,0 +1,1 @@
+{"index": 225468, "D": "defective hearing.", "S": [], "A": []}

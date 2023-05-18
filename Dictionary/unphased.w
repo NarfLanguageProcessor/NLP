@@ -1,0 +1,1 @@
+{"index": 347854, "D": "implemented all at once rather than gradually in stages", "S": [], "A": []}

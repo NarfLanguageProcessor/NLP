@@ -1,0 +1,1 @@
+{"index": 265324, "D": "the power to refract. ", "S": [], "A": []}

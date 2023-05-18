@@ -1,0 +1,1 @@
+{"index": 16308, "D": "(of a device, campaign, system, etc) designed to prevent theft", "S": [], "A": []}

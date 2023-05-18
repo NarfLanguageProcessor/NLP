@@ -1,0 +1,1 @@
+{"index": 345398, "D": "using few words; expressing much in few words; concise", "S": [], "A": []}

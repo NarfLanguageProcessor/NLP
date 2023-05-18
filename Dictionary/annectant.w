@@ -1,0 +1,1 @@
+{"index": 13497, "D": "connecting or linking, as a group of animals transitional between two other species, families, classes, etc.", "S": [], "A": []}

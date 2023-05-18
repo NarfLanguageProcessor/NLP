@@ -1,0 +1,1 @@
+{"index": 11062, "D": "any of a complex group of hydrous silicate minerals, containing chiefly calcium, magnesium, sodium, iron, and aluminum, and including hornblende, tremolite, asbestos, etc., occurring as important constituents of many rocks.", "S": [], "A": []}

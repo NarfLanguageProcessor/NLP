@@ -1,0 +1,1 @@
+{"index": 75550, "D": "(of a woman) having a well-shaped figure with voluptuous curves. ", "S": ["completeness ", "saturation ", "totality ", "wholeness "], "A": ["lack ", "need ", "scarcity ", "want "]}

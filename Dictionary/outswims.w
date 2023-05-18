@@ -1,0 +1,1 @@
+{"index": 217701, "D": "to move in water by movements of the limbs, fins, tail, etc.", "S": [], "A": []}

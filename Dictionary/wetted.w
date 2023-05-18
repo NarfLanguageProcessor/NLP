@@ -1,0 +1,1 @@
+{"index": 364313, "D": "moistened, covered, or soaked with water or some other liquid", "S": ["bathed ", "doused ", "drenched ", "flooded ", "hosed ", "irrigated ", "quenched ", "showered ", "sprayed ", "sprinkled ", "washed ", "wet "], "A": ["dry ", "thirsty "]}

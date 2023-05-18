@@ -1,0 +1,1 @@
+{"index": 336575, "D": "to link together; form into a connected series", "S": [], "A": []}

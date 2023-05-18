@@ -1,0 +1,1 @@
+{"index": 11111, "D": "of or relating to an amphictyon or an amphictyony.", "S": [], "A": []}

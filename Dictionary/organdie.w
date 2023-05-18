@@ -1,0 +1,1 @@
+{"index": 214350, "D": "a fine and slightly stiff cotton fabric used esp for dresses", "S": [], "A": []}

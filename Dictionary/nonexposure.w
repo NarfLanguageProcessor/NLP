@@ -1,0 +1,1 @@
+{"index": 203842, "D": "the act of exposing,  laying open, or uncovering", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 338982, "D": "citizens  collectively.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108844, "D": "a small, usually prosperous, community situated beyond the suburbs  of a city.", "S": [], "A": []}

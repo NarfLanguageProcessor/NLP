@@ -1,0 +1,1 @@
+{"index": 362982, "D": [], "S": ["dustbin ", "garbage pail ", "litter basket ", "trash barrel ", "trash bin ", "trash can ", "wastebasket ", "wastepaper basket "], "A": []}

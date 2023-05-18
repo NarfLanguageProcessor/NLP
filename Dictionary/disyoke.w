@@ -1,0 +1,1 @@
+{"index": 88495, "D": "to free from or as from a yoke. ", "S": [], "A": []}

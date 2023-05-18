@@ -1,0 +1,1 @@
+{"index": 92248, "D": "any of various lines for pulling down  a sail or a yard, as for securing in a lowered position when not in use.", "S": [], "A": []}

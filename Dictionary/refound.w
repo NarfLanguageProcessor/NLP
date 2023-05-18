@@ -1,0 +1,1 @@
+{"index": 265299, "D": "to come upon by chance; meet with", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 322700, "D": "a coin of Anglo-Saxon England.", "S": [], "A": []}

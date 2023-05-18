@@ -1,0 +1,1 @@
+{"index": 237107, "D": "the little finger.", "S": ["TOE ", "claw ", "extremity ", "fang ", "feeler ", "finger ", "fork ", "hook ", "pinkie ", "pointer ", "thumb "], "A": []}

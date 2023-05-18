@@ -1,0 +1,1 @@
+{"index": 66952, "D": "a combination of financial institutions, capitalists, etc., for carrying into effect some financial operation requiring large resources of capital.", "S": ["conglomerate ", "corporation ", "gang ", "holding company ", "mob ", "monopoly ", "ring ", "syndicate "], "A": []}

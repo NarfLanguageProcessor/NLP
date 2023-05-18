@@ -1,0 +1,1 @@
+{"index": 346739, "D": "having or showing a lack of experience, judgment, or information; credulous", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 147825, "D": "to follow or endeavor to follow as a model or example", "S": ["impersonator "], "A": []}

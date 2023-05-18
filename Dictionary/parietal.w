@@ -1,0 +1,1 @@
+{"index": 226487, "D": "of, relating to, or situated near the side and top of the skull or the parietal bone. ", "S": [], "A": []}

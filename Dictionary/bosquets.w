@@ -1,0 +1,1 @@
+{"index": 38606, "D": "a grove; thicket.", "S": [], "A": []}

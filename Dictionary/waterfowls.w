@@ -1,0 +1,1 @@
+{"index": 363155, "D": "a water bird, especially a swimming bird.", "S": [], "A": []}

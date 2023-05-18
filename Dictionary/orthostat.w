@@ -1,0 +1,1 @@
+{"index": 215161, "D": "(in a classical temple) any of a number of large stone slabs revetting the lower part of the cella.", "S": [], "A": []}

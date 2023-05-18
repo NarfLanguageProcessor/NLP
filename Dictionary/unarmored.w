@@ -1,0 +1,1 @@
+{"index": 335222, "D": "protected by armor  or armor plate. ", "S": [], "A": []}

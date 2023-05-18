@@ -1,0 +1,1 @@
+{"index": 60300, "D": "a lump or mass, especially of earth or clay.", "S": [], "A": []}

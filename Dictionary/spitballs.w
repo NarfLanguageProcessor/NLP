@@ -1,0 +1,1 @@
+{"index": 300237, "D": "a small ball  or lump of chewed paper used as a missile.", "S": ["brainstorm ", "compose ", "conceive ", "contrive ", "counterfeit ", "fabricate ", "forge ", "formulate ", "frame ", "manufacture ", "mint ", "mold ", "originate ", "spark ", "stamp ", "strike "], "A": ["demolish ", "destroy ", "ruin ", "stop ", "wreck "]}

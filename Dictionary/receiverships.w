@@ -1,0 +1,1 @@
+{"index": 262690, "D": "the condition of being in the hands of a receiver. ", "S": ["Chapter Eleven ", "Chapter XI ", "bankruptcy ", "default ", "failure ", "insolvency ", "receivership "], "A": []}

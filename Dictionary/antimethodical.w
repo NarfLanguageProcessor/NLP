@@ -1,0 +1,1 @@
+{"index": 15561, "D": "performed, disposed, or acting in a systematic way; systematic; orderly", "S": [], "A": []}

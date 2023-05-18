@@ -1,0 +1,1 @@
+{"index": 140968, "D": "situated under the tongue.", "S": [], "A": []}

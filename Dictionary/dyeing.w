@@ -1,0 +1,1 @@
+{"index": 85145, "D": "process of coloring fibers, yarns, or fabrics.", "S": [], "A": []}

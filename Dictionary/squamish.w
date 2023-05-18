@@ -1,0 +1,1 @@
+{"index": 301680, "D": "a member of a First Nation  of the southwestern coast of British Columbia.", "S": [], "A": []}

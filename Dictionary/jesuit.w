@@ -1,0 +1,1 @@
+{"index": 161020, "D": "a member of a Roman Catholic religious order (Society of Jesus ) founded by Ignatius of Loyola in 1534.", "S": [], "A": []}

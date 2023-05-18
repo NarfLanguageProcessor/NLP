@@ -1,0 +1,1 @@
+{"index": 127502, "D": "either of two diving ducks, Bucephala clangula, of Eurasia and North America, or B. islandica(Barrow's goldeneye ), of North America, having bright yellow eyes. ", "S": [], "A": []}

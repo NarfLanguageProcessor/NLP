@@ -1,0 +1,1 @@
+{"index": 131997, "D": "Compare haemoptysis", "S": [], "A": []}

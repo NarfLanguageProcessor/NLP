@@ -1,0 +1,1 @@
+{"index": 173937, "D": "having life,  a life, or lives, as specified (usually used in combination)", "S": ["alive "], "A": ["dead "]}

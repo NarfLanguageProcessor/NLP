@@ -1,0 +1,1 @@
+{"index": 115454, "D": "to treat or combine with fluorine. ", "S": [], "A": []}

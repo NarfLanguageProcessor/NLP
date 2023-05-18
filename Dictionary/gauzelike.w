@@ -1,0 +1,1 @@
+{"index": 122889, "D": "any thin and often transparent fabric made from any fiber in a plain or open weave.", "S": [], "A": []}

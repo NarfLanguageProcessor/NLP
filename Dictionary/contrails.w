@@ -1,0 +1,1 @@
+{"index": 67641, "D": "a visible condensation of water droplets or ice crystals from the atmosphere, occurring in the wake of an aircraft, rocket, or missile under certain conditions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 207160, "D": "having the power of perception by the senses; conscious.", "S": [], "A": []}

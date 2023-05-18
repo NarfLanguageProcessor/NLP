@@ -1,0 +1,1 @@
+{"index": 42719, "D": "a boat used in peddling provisions and small wares among vessels lying in port or offshore.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 153131, "D": "lack of attention; inattention; heedlessness", "S": [], "A": []}

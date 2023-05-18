@@ -1,0 +1,1 @@
+{"index": 19288, "D": "great warmth of feeling; fervor; passion", "S": [], "A": []}

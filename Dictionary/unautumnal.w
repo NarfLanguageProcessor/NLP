@@ -1,0 +1,1 @@
+{"index": 335463, "D": "belonging to or suggestive of autumn;  produced or gathered in autumn", "S": [], "A": []}

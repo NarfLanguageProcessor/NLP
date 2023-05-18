@@ -1,0 +1,1 @@
+{"index": 55124, "D": "a white, crystalline, water-insoluble, poisonous solid, C8H7ClO, used in solution as a tear gas. Abbreviation", "S": [], "A": []}

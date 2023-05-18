@@ -1,0 +1,1 @@
+{"index": 203414, "D": "pertaining to, derived from, produced by, or involving electricity", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342621, "D": "simple past tense and past participle of fight. ", "S": [], "A": []}

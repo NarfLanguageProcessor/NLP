@@ -1,0 +1,1 @@
+{"index": 296471, "D": "comfort in sorrow, misfortune, or trouble; alleviation of distress or discomfort.", "S": ["encouraging ", "reassuring ", "refreshing ", "soothing "], "A": ["aggravating ", "depressing ", "dispiriting ", "distressing ", "disturbing ", "irritating ", "upsetting ", "worrying "]}

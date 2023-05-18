@@ -1,0 +1,1 @@
+{"index": 224939, "D": "to place, especially to bury, in a pantheon", "S": [], "A": []}

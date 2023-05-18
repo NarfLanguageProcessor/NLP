@@ -1,0 +1,1 @@
+{"index": 235637, "D": "any of a group of compounds obtained by the reduction of the phthaleins.", "S": [], "A": []}

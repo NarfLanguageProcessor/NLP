@@ -1,0 +1,1 @@
+{"index": 206821, "D": "the act of resuming;  a reassumption, as of something previously granted.", "S": [], "A": []}

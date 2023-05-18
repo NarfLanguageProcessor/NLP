@@ -1,0 +1,1 @@
+{"index": 177613, "D": "speaking or expressed in a lofty or grandiose style; pompous; bombastic; boastful.", "S": [], "A": []}

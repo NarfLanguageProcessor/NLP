@@ -1,0 +1,1 @@
+{"index": 290966, "D": "mimicking stimulation of the sympathetic nervous system.", "S": [], "A": []}

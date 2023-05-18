@@ -1,0 +1,1 @@
+{"index": 320005, "D": "a mineral, bismuth telluride and sulfide, Bi2Te2S, occurring in soft-gray to black foliated masses.", "S": [], "A": []}

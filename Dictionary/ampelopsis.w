@@ -1,0 +1,1 @@
+{"index": 11011, "D": "any climbing, woody vine or shrub belonging to the genus Ampelopsis, of the grape family, having small greenish flowers and inedible berries.", "S": [], "A": []}

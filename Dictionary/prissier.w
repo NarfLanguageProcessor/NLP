@@ -1,0 +1,1 @@
+{"index": 250801, "D": "excessively proper; affectedly correct; prim.", "S": ["prudish ", "squeamish "], "A": ["informal ", "unconcerned "]}

@@ -1,0 +1,1 @@
+{"index": 356872, "D": "the opening, slitting, or fracturing of a heart valve.", "S": [], "A": []}

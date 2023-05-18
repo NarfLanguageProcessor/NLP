@@ -1,0 +1,1 @@
+{"index": 363203, "D": "a mark  indicating the height to which water  rises or has risen, as in a river or inlet.", "S": ["apex ", "apogee ", "upper limit "], "A": []}

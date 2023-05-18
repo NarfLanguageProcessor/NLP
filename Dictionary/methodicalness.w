@@ -1,0 +1,1 @@
+{"index": 185276, "D": "performed, disposed, or acting in a systematic way; systematic; orderly", "S": ["arrangement ", "operation ", "policy ", "practice ", "procedure ", "process ", "scheme ", "strategy ", "structure ", "technique "], "A": ["reality "]}

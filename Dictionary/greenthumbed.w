@@ -1,0 +1,1 @@
+{"index": 129605, "D": "an exceptional aptitude for gardening or for growing plants successfully", "S": [], "A": []}

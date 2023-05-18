@@ -1,0 +1,1 @@
+{"index": 245879, "D": "brought forth by birth.", "S": [], "A": []}

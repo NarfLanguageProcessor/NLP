@@ -1,0 +1,1 @@
+{"index": 37045, "D": "a short, jerky motion", "S": ["coiffed ", "cropped ", "cut ", "shortened ", "trimmed "], "A": []}

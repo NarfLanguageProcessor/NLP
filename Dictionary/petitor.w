@@ -1,0 +1,1 @@
+{"index": 232430, "D": "a seeker; an applicant or candidate.", "S": [], "A": []}

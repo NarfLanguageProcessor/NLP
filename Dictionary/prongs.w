@@ -1,0 +1,1 @@
+{"index": 252417, "D": "one of the pointed tines of a fork.", "S": ["fork ", "hook ", "horn ", "nib ", "point ", "spine ", "spur ", "tine "], "A": []}

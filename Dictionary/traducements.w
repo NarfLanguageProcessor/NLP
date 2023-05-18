@@ -1,0 +1,1 @@
+{"index": 327300, "D": "to speak maliciously and falsely of; slander; defame", "S": ["aspersion ", "calumniation ", "calumny ", "defamation ", "denigration ", "detraction ", "lying ", "obloquy ", "scandal ", "slander ", "smear ", "vilification ", "vituperation "], "A": ["praise "]}

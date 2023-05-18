@@ -1,0 +1,1 @@
+{"index": 366207, "D": "the act of a person or thing that wins. ", "S": ["leading ", "successful ", "victorious "], "A": ["losing ", "unsuccessful "]}

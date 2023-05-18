@@ -1,0 +1,1 @@
+{"index": 233222, "D": "a manner, stage, or aspect of being; phase.", "S": [], "A": []}

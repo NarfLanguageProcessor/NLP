@@ -1,0 +1,1 @@
+{"index": 133698, "D": "having a firm, hard shell, as a crab in its normal state; not having recently molted.", "S": ["flinty ", "grim ", "hard-nosed ", "harsh ", "rigid ", "steely ", "strict ", "tough "], "A": ["easy ", "flexible ", "gentle ", "kind ", "lenient ", "nice ", "soft ", "yielding ", "bland ", "mild "]}

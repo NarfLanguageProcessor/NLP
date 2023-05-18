@@ -1,0 +1,1 @@
+{"index": 365275, "D": "(used to command an animal, especially a horse, to stop.)", "S": [], "A": []}

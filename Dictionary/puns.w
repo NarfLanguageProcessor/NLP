@@ -1,0 +1,1 @@
+{"index": 256738, "D": "the humorous use of a word or phrase so as to emphasize or suggest its different meanings or applications, or the use of words that are alike or nearly alike in sound but different in meaning; a play on words.", "S": ["double entendre ", "joke ", "quip "], "A": []}

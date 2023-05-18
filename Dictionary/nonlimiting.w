@@ -1,0 +1,1 @@
+{"index": 205020, "D": "serving to restrict or restrain; restrictive; confining.", "S": [], "A": []}

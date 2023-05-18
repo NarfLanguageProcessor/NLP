@@ -1,0 +1,1 @@
+{"index": 253432, "D": "the presence of abnormally large amounts of protein  in the urine, usually resulting from kidney disease but sometimes from fever, excessive exercise, or other abnormal condition.", "S": [], "A": []}

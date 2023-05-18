@@ -1,0 +1,1 @@
+{"index": 106068, "D": "a periodic irregularity in the moon's motion, caused by the attraction of the sun.", "S": [], "A": []}

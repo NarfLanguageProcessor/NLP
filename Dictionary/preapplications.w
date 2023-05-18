@@ -1,0 +1,1 @@
+{"index": 245724, "D": "the act of putting to a special use or purpose", "S": [], "A": []}

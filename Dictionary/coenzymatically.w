@@ -1,0 +1,1 @@
+{"index": 62020, "D": "a molecule that provides the transfer site for biochemical reactions catalyzed by an enzyme.", "S": [], "A": []}

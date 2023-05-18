@@ -1,0 +1,1 @@
+{"index": 128819, "D": "impressive in size, appearance, or general effect", "S": ["admirable ", "exceptional ", "first-rate ", "good ", "high-caliber ", "preferable ", "remarkable ", "superhuman "], "A": ["detestable ", "normal ", "ordinary ", "unremarkable ", "usual ", "bad ", "inferior ", "minor ", "poor ", "secondary ", "unimportant "]}

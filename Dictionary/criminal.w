@@ -1,0 +1,1 @@
+{"index": 72950, "D": "of the nature of or involving crime. ", "S": ["corrupt ", "deplorable ", "illegal ", "illegitimate ", "illicit ", "immoral ", "scandalous ", "senseless ", "unlawful ", "vicious "], "A": ["authorized ", "blessed ", "ethical ", "good ", "kind ", "lawful ", "legal ", "legitimate ", "moral ", "noble ", "proper ", "pure ", "right ", "uncorrupt "]}

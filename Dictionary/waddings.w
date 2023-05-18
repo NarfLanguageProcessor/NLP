@@ -1,0 +1,1 @@
+{"index": 361712, "D": "any fibrous or soft material for stuffing, padding, packing, etc., especially carded cotton in specially prepared sheets.", "S": ["buffer ", "cushion ", "filling ", "packing ", "stuffing ", "wad ", "wadding ", "waste "], "A": []}

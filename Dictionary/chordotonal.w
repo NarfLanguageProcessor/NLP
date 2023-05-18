@@ -1,0 +1,1 @@
+{"index": 55744, "D": "(of an insect) responsive to sound vibrations, as certain organs or parts.", "S": [], "A": []}

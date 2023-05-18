@@ -1,0 +1,1 @@
+{"index": 28990, "D": "a large body of intrusive igneous rock believed to have crystallized at a considerable depth below the earth's surface; pluton.", "S": [], "A": []}

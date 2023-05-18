@@ -1,0 +1,1 @@
+{"index": 156881, "D": "to insert a tube into (the trachea, digestive tract, etc.).", "S": [], "A": []}

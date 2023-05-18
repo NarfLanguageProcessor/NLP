@@ -1,0 +1,1 @@
+{"index": 113203, "D": "being so constructed or protected as to be safe  from destruction by fire. ", "S": [], "A": []}

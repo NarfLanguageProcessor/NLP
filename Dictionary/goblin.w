@@ -1,0 +1,1 @@
+{"index": 127283, "D": "a grotesque sprite or elf that is mischievous or malicious toward people.", "S": ["gnome ", "gremlin "], "A": ["angel "]}

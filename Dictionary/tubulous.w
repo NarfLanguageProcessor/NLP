@@ -1,0 +1,1 @@
+{"index": 332084, "D": "containing or consisting of tubes.", "S": [], "A": []}

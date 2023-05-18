@@ -1,0 +1,1 @@
+{"index": 147768, "D": "to degrade or sink to the level of a brute. ", "S": ["automate ", "brutalize "], "A": ["humanize "]}

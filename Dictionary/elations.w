@@ -1,0 +1,1 @@
+{"index": 96799, "D": "a feeling or state of great joy or pride; exultant gladness; high spirits.", "S": ["bliss ", "ecstasy ", "enthusiasm ", "euphoria ", "excitement ", "exhilaration ", "glee ", "joy ", "jubilation ", "rapture "], "A": ["apathy ", "depression ", "despair ", "discouragement ", "misery ", "sadness ", "sorrow ", "unhappiness ", "upset ", "woe ", "boredom "]}

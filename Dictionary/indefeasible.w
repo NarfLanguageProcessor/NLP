@@ -1,0 +1,1 @@
+{"index": 150708, "D": "not defeasible;  not to be annulled or made void; not forfeitable.", "S": ["impregnable ", "indomitable ", "inexpugnable ", "innate ", "insuperable ", "intractable ", "invincible ", "invulnerable ", "irrepressible ", "resistant ", "secure ", "unbeatable ", "unsurpassable ", "unyielding "], "A": ["conquerable "]}

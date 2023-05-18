@@ -1,0 +1,1 @@
+{"index": 80459, "D": "the ancient Greek chthonian goddess of agriculture and the protector of marriage and the social order, identified by the Romans with Ceres. She presided over the Eleusinian mysteries.", "S": [], "A": []}

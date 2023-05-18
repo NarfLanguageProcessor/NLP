@@ -1,0 +1,1 @@
+{"index": 282710, "D": "to discriminate or distinguish in thought.", "S": ["anticipate ", "ascertain ", "detect ", "determine ", "differentiate ", "discriminate ", "distinguish ", "divine ", "figure out ", "find out ", "foresee ", "perceive "], "A": ["confuse ", "doubt ", "miss ", "mix up ", "overlook ", "forget ", "ignore ", "lose ", "misunderstand ", "neglect "]}

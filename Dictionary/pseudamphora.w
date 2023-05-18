@@ -1,0 +1,1 @@
+{"index": 254400, "D": "a Mycenaean vase having a spherical body, a spout on the shoulder, and a handle, curving across the top, supported by a solid conical neck.", "S": [], "A": []}

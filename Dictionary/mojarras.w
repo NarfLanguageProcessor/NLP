@@ -1,0 +1,1 @@
+{"index": 191371, "D": "any of several chiefly tropical, silvery fishes of the family Gerridae, having a protrusible mouth and grooves at the bases of the dorsal and anal fins into which the fins can be folded.", "S": [], "A": []}

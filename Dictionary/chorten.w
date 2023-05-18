@@ -1,0 +1,1 @@
+{"index": 55888, "D": "(in Tibet) a monument to a distinguished Buddhist, especially a lama.", "S": [], "A": []}

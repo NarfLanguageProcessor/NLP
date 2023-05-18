@@ -1,0 +1,1 @@
+{"index": 131613, "D": "a channel at the side or in the middle of a road or street, for leading off surface water.", "S": ["culvert ", "dike ", "duct ", "eaves ", "pipe ", "sewer ", "tube "], "A": []}

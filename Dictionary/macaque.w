@@ -1,0 +1,1 @@
+{"index": 176643, "D": "any monkey of the genus Macaca, chiefly of Asia, characterized by cheek pouches and, usually, a short tail", "S": [], "A": []}

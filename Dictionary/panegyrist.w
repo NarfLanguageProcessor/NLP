@@ -1,0 +1,1 @@
+{"index": 224542, "D": "a person who panegyrizes; eulogist.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 72450, "D": "a person or thing that creates. ", "S": [], "A": []}

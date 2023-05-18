@@ -1,0 +1,1 @@
+{"index": 360277, "D": "actively poisonous; intensely noxious", "S": ["deadly ", "destructive ", "fatal ", "malignant ", "pernicious "], "A": ["harmless ", "healthful ", "helpful ", "wholesome "]}

@@ -1,0 +1,1 @@
+{"index": 328119, "D": "a measure of the extent to which a solution transmits radiation. It is equal to the ratio of the transmittance of the solution to the transmittance of a pure solvent of the same dimensions", "S": [], "A": []}

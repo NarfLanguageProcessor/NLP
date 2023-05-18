@@ -1,0 +1,1 @@
+{"index": 175342, "D": "a worthless person; scoundrel.", "S": [], "A": []}

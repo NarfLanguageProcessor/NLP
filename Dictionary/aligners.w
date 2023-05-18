@@ -1,0 +1,1 @@
+{"index": 8261, "D": "to arrange in a straight line; adjust according to a line.", "S": [], "A": []}

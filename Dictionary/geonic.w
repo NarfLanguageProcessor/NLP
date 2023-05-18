@@ -1,0 +1,1 @@
+{"index": 123983, "D": "a plural of Gaon. ", "S": [], "A": []}

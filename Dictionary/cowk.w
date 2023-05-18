@@ -1,0 +1,1 @@
+{"index": 71618, "D": "to retch or feel nauseated", "S": [], "A": []}

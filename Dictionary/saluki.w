@@ -1,0 +1,1 @@
+{"index": 277368, "D": "one of a breed of black and tan, white, gold, or tricolor dogs resembling the greyhound and having fringes of long hair on the ears, legs, and thighs, raised originally in Egypt and southwestern Asia.", "S": [], "A": []}

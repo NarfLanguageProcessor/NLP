@@ -1,0 +1,1 @@
+{"index": 75833, "D": "an act or instance of cutting off.", "S": ["cessation ", "check ", "discontinuance ", "discontinuation ", "halt ", "stoppage ", "termination "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 95616, "D": "the inhabited world; global civilization united by trade, modern culture, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 78761, "D": "weakened by old age; feeble; infirm", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 238389, "D": "scaly; resembling bran.", "S": [], "A": []}

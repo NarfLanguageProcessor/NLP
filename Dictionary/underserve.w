@@ -1,0 +1,1 @@
+{"index": 339769, "D": "to offer inadequate services or facilities to.", "S": [], "A": []}

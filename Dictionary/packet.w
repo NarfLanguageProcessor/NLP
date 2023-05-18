@@ -1,0 +1,1 @@
+{"index": 222740, "D": "a small group or package of anything", "S": ["bag ", "carton ", "container ", "envelope ", "folder ", "package ", "parcel ", "wrapper "], "A": []}

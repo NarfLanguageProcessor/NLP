@@ -1,0 +1,1 @@
+{"index": 85998, "D": "the branch of mechanics that deals with the motion and equilibrium of systems under the action of forces, usually from outside the system.", "S": ["act ", "gesture ", "passage "], "A": ["idleness ", "stagnation "]}

@@ -1,0 +1,1 @@
+{"index": 22951, "D": "capable of being attained. ", "S": ["feasible ", "obtainable ", "practicable ", "reachable "], "A": ["impossible ", "unreasonable "]}

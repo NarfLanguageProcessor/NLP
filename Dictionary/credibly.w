@@ -1,0 +1,1 @@
+{"index": 72496, "D": "capable of being believed; believable", "S": [], "A": []}

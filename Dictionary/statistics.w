@@ -1,0 +1,1 @@
+{"index": 303111, "D": "the science that deals with the collection, classification, analysis, and interpretation of numerical facts or data, and that, by use of mathematical theories of probability, imposes order and regularity on aggregates of more or less disparate elements.", "S": ["data ", "stats "], "A": []}

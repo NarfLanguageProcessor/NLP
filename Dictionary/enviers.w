@@ -1,0 +1,1 @@
+{"index": 101814, "D": "a person who feels envy. ", "S": [], "A": []}

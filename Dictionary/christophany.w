@@ -1,0 +1,1 @@
+{"index": 56179, "D": "an appearance of Christ after His Resurrection, especially as recorded in the New Testament.", "S": [], "A": []}

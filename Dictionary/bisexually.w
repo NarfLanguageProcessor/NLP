@@ -1,0 +1,1 @@
+{"index": 34996, "D": "noting or relating to a person who is sexually or romantically attracted to people of more than one gender, sometimes understood to include attraction to one's own sex or gender and at least one other sex or gender.", "S": [], "A": []}

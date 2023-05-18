@@ -1,0 +1,1 @@
+{"index": 179689, "D": "the original text of an author's work, handwritten or now usually typed, that is submitted to a publisher.", "S": [], "A": []}

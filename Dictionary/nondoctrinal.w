@@ -1,0 +1,1 @@
+{"index": 203266, "D": "of, relating to, or concerned with doctrine", "S": [], "A": []}

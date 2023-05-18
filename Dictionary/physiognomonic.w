@@ -1,0 +1,1 @@
+{"index": 234135, "D": "the face or countenance, especially when considered as an index to the character", "S": [], "A": []}

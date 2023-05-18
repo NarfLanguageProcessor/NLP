@@ -1,0 +1,1 @@
+{"index": 18648, "D": "a genus of freshwater, ameboid protozoa that secrete a hard, umbrellalike shell having a single opening through which the pseudopodia extend.", "S": [], "A": []}

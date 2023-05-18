@@ -1,0 +1,1 @@
+{"index": 87564, "D": "the act or state of discontinuing  or the state of being discontinued;  cessation", "S": ["break "], "A": ["beginning ", "commencement ", "initiation ", "introduction ", "opening ", "start "]}

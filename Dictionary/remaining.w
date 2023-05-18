@@ -1,0 +1,1 @@
+{"index": 267101, "D": "to continue in the same state; continue to be as specified", "S": ["halting ", "pausing ", "resting ", "stopping ", "tarrying ", "waiting "], "A": []}

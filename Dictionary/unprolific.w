@@ -1,0 +1,1 @@
+{"index": 348595, "D": "producing offspring, young, fruit, etc., abundantly; highly fruitful", "S": ["barren ", "fruitless ", "impotent ", "infecund ", "infertile ", "sterile ", "unfruitful "], "A": ["productive ", "useful ", "working "]}

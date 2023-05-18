@@ -1,0 +1,1 @@
+{"index": 70466, "D": "a soft, white to yellowish mineral, lead chloride, PbCl2, that forms as an alteration product of galena.", "S": [], "A": []}

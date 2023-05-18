@@ -1,0 +1,1 @@
+{"index": 243579, "D": "the act of carrying; carriage.", "S": ["bear ", "bring ", "ferry ", "give ", "haul ", "hoist ", "import ", "lift ", "lug ", "move ", "pack ", "remove ", "take ", "tote ", "transfer ", "transmit "], "A": ["avoid ", "dodge ", "drop ", "fix ", "hold ", "keep ", "lower ", "maintain ", "receive ", "refuse ", "remain ", "shun ", "stay ", "stop ", "leave "]}

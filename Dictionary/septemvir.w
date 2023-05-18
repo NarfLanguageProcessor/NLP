@@ -1,0 +1,1 @@
+{"index": 285669, "D": "a member of a seven-man ruling body in ancient Rome.", "S": [], "A": []}

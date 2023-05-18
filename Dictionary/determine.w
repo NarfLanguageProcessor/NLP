@@ -1,0 +1,1 @@
+{"index": 83173, "D": "to conclude or ascertain, as after reasoning, observation, etc.", "S": ["complete ", "regulate ", "resolve ", "rule "], "A": ["bear ", "begin ", "commence ", "create ", "discourage ", "dissuade ", "hinder ", "initiate ", "prevent ", "repress ", "start ", "stop ", "suppress "]}

@@ -1,0 +1,1 @@
+{"index": 76644, "D": "a barrier to obstruct the flow of water, especially one of earth, masonry, etc., built across a stream or river.", "S": ["bank ", "barrier ", "dike ", "ditch ", "gate ", "levee "], "A": ["aid ", "assistance ", "help ", "promotion "]}

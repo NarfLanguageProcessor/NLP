@@ -1,0 +1,1 @@
+{"index": 225903, "D": "of or relating to the claimed occurrence of an event or perception without scientific explanation, as psychokinesis, extrasensory perception, or other purportedly supernatural phenomena.", "S": [], "A": []}

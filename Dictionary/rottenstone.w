@@ -1,0 +1,1 @@
+{"index": 274694, "D": "a friable stone  resulting from the decomposition of a siliceous limestone, used as a powder for polishing metals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97266, "D": "of or relating to static electricity. ", "S": [], "A": []}

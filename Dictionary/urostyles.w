@@ -1,0 +1,1 @@
+{"index": 355860, "D": "the fused vertebrae at the posterior end of the spinal column of some fishes and tailless amphibians.", "S": [], "A": []}

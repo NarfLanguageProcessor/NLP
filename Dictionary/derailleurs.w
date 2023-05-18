@@ -1,0 +1,1 @@
+{"index": 81992, "D": "a gear-shifting mechanism on a bicycle that shifts the drive chain from one sprocket wheel to another.", "S": [], "A": []}

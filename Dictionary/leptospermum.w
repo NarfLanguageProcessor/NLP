@@ -1,0 +1,1 @@
+{"index": 170786, "D": "any of various shrubs or trees of the genus Leptospermum, of the myrtle family, native to Australia and adjacent areas and often cultivated as ornamentals in milder climates.", "S": [], "A": []}

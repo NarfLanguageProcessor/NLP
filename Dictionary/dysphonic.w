@@ -1,0 +1,1 @@
+{"index": 89019, "D": "any disturbance of normal vocal function.", "S": [], "A": []}

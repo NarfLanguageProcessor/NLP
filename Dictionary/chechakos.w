@@ -1,0 +1,1 @@
+{"index": 53307, "D": "(in the Pacific Northwest) cheechako. ", "S": [], "A": []}

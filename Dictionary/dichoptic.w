@@ -1,0 +1,1 @@
+{"index": 84804, "D": "having the eyes distinctly separate", "S": [], "A": []}

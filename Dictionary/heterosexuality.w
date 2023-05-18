@@ -1,0 +1,1 @@
+{"index": 137749, "D": "sexual desire or behavior directed toward people of the other binary gender.", "S": [], "A": []}

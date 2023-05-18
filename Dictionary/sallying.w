@@ -1,0 +1,1 @@
+{"index": 277122, "D": "a sortie of troops from a besieged place upon an enemy.", "S": ["disappear ", "escape ", "flee ", "fly ", "go ", "move ", "quit ", "retire ", "start ", "take off ", "withdraw "], "A": ["arrive ", "come ", "complete ", "face ", "finish ", "remain ", "stay ", "stop ", "come in ", "hold ", "join ", "keep "]}

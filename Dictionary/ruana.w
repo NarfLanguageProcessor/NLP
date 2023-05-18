@@ -1,0 +1,1 @@
+{"index": 275078, "D": "a poncholike outer garment of heavy wool, worn especially in the mountains of Colombia.", "S": [], "A": []}

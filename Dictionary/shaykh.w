@@ -1,0 +1,1 @@
+{"index": 287178, "D": "a variant of shaikh (def. 2). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 291541, "D": "a group of individuals or organizations combined or making a joint effort to undertake some specific duty or carry out specific transactions or negotiations", "S": ["absorb ", "exclude ", "possess ", "take over ", "utilize "], "A": ["abstain ", "fail ", "ignore ", "lack ", "let go ", "lose ", "need ", "reject ", "release "]}

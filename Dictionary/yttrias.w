@@ -1,0 +1,1 @@
+{"index": 159604, "D": "a white, water-insoluble powder, Y2O3, used chiefly in incandescent gas and acetylene mantles.", "S": [], "A": []}

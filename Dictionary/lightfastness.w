@@ -1,0 +1,1 @@
+{"index": 172028, "D": "not affected or faded by light,  especially sunlight; colorfast when exposed to light. ", "S": [], "A": []}

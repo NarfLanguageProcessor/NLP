@@ -1,0 +1,1 @@
+{"index": 135602, "D": "an instrument consisting of a mirror moved by clockwork, for reflecting the sun's rays in a fixed direction.", "S": [], "A": []}

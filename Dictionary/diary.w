@@ -1,0 +1,1 @@
+{"index": 84490, "D": "a daily record, usually private, especially of the writer's own experiences, observations, feelings, attitudes, etc.", "S": ["account ", "journal ", "log ", "notebook "], "A": []}

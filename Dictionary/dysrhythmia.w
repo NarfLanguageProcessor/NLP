@@ -1,0 +1,1 @@
+{"index": 89347, "D": "a disturbance of rhythm, as of speech or of brain waves  recorded by an electroencephalograph. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 276602, "D": "any of a class of chiefly red organic dyes, phenazine derivatives, used for dyeing wool, silk, etc.", "S": [], "A": []}

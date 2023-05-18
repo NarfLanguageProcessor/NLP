@@ -1,0 +1,1 @@
+{"index": 331507, "D": "to walk, especially laboriously or wearily", "S": [], "A": []}

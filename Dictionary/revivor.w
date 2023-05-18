@@ -1,0 +1,1 @@
+{"index": 271452, "D": "the revival of a suit that has been nullified by some circumstance, as the death of one of the parties.", "S": [], "A": []}

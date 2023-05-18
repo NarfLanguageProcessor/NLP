@@ -1,0 +1,1 @@
+{"index": 268016, "D": "something done or given to make amends", "S": ["apology ", "atonement ", "indemnity ", "payment ", "redress ", "remuneration ", "renewal ", "repayment ", "restitution "], "A": ["sympathy "]}

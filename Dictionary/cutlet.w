@@ -1,0 +1,1 @@
+{"index": 75824, "D": "a slice of meat, especially of veal, for broiling or frying.", "S": [], "A": []}

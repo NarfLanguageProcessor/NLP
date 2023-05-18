@@ -1,0 +1,1 @@
+{"index": 150052, "D": "not commensurable; having no common basis, measure, or standard of comparison.", "S": [], "A": []}

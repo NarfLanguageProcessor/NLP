@@ -1,0 +1,1 @@
+{"index": 355713, "D": "a combining form meaning \u201curine,\u201d used in the formation of compound words", "S": [], "A": []}

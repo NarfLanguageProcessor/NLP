@@ -1,0 +1,1 @@
+{"index": 288944, "D": "having little length; not long.", "S": ["anger ", "annoyance ", "anxiety ", "eagerness ", "edginess ", "excitement ", "nervousness ", "restlessness ", "uneasiness "], "A": ["apathy ", "calm ", "calmness ", "contentment ", "enjoyment ", "happiness ", "joy ", "peace "]}

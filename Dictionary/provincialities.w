@@ -1,0 +1,1 @@
+{"index": 254080, "D": "provincial  character.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 187111, "D": "(in the dietary laws) consisting of, made from, or used only for milk or dairy products.", "S": [], "A": []}

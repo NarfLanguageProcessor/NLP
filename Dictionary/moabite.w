@@ -1,0 +1,1 @@
+{"index": 190900, "D": "an inhabitant or native of Moab.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311160, "D": "Compare Shi\u02bfite. ", "S": [], "A": []}

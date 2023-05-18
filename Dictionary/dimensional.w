@@ -1,0 +1,1 @@
+{"index": 85830, "D": "extension in time", "S": ["spatial "], "A": []}

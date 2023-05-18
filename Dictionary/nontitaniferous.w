@@ -1,0 +1,1 @@
+{"index": 207912, "D": "containing or yielding titanium. ", "S": [], "A": []}

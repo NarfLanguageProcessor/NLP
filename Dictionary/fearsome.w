@@ -1,0 +1,1 @@
+{"index": 110612, "D": "causing fear", "S": ["awe-inspiring ", "awesome ", "formidable ", "frightening ", "frightful ", "horrible ", "intimidating ", "powerful ", "scary ", "terrible ", "terrifying "], "A": ["calming ", "comforting ", "nice ", "ordinary ", "pleasant ", "soothing ", "weak "]}

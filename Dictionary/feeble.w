@@ -1,0 +1,1 @@
+{"index": 110840, "D": "physically weak, as from age or sickness; frail.", "S": ["ailing ", "decrepit ", "flabby ", "fragile ", "frail ", "incompetent ", "inefficient ", "infirm ", "lame ", "paltry ", "puny ", "sickly ", "tame ", "weak ", "weakened "], "A": ["able ", "capable ", "competent ", "efficient ", "expert ", "fit ", "healthy ", "hearty ", "strong "]}

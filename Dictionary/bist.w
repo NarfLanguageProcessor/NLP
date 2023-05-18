@@ -1,0 +1,1 @@
+{"index": 35113, "D": "archaic, or dialect a form of the second person singular of be 1", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205297, "D": "the science or study of minerals. ", "S": [], "A": []}

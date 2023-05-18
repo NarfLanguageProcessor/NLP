@@ -1,0 +1,1 @@
+{"index": 169282, "D": "white lavatorial tiling", "S": [], "A": []}

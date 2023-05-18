@@ -1,0 +1,1 @@
+{"index": 235865, "D": "a pick, especially a mattock.", "S": [], "A": []}

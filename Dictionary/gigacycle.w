@@ -1,0 +1,1 @@
+{"index": 124776, "D": "one billion cycles. Abbreviation", "S": [], "A": []}

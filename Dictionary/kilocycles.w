@@ -1,0 +1,1 @@
+{"index": 164645, "D": "a unit equal to 1000 cycles", "S": [], "A": []}

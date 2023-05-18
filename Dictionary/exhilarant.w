@@ -1,0 +1,1 @@
+{"index": 107162, "D": "exhilarating. ", "S": ["bracing ", "electric ", "energizing ", "exciting ", "exhilarative ", "exhilaratory ", "inspiring ", "invigorating ", "refreshing ", "reinvigorating ", "renewing ", "restorative ", "roborant ", "rousing ", "stimulating ", "stimulative ", "stirring ", "thrilling ", "tonic ", "uplifting "], "A": []}

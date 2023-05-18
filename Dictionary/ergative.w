@@ -1,0 +1,1 @@
+{"index": 103595, "D": "similar to such a case in function or meaning, especially in indicating an agent, as the subject She in She opened the door, in contrast to the subject The door in The door opened.", "S": [], "A": []}

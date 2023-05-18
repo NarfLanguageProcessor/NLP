@@ -1,0 +1,1 @@
+{"index": 256576, "D": "point for point.", "S": [], "A": []}

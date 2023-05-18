@@ -1,0 +1,1 @@
+{"index": 268085, "D": "done, made, or said again and again", "S": ["copied ", "duplicated ", "imitated ", "recast ", "reciprocated ", "redone ", "reduplicated ", "refashioned ", "remade ", "replicated ", "reproduced ", "reworked "], "A": []}

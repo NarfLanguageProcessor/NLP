@@ -1,0 +1,1 @@
+{"index": 40099, "D": "possessing or exhibiting courage or courageous endurance.", "S": ["confront ", "defy ", "go through ", "withstand "], "A": ["surrender ", "yield ", "refuse ", "reject "]}

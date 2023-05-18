@@ -1,0 +1,1 @@
+{"index": 89656, "D": "an obsolete variant of dispirit. ", "S": [], "A": []}

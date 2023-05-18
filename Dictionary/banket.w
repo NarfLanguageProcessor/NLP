@@ -1,0 +1,1 @@
+{"index": 27496, "D": "a gold-bearing conglomerate found in South Africa", "S": [], "A": []}

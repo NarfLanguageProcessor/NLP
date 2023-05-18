@@ -1,0 +1,1 @@
+{"index": 256461, "D": "consisting of dust or fine powder.", "S": [], "A": []}

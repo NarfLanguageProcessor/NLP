@@ -1,0 +1,1 @@
+{"index": 220530, "D": "plentiful;  copious; abundant", "S": [], "A": []}

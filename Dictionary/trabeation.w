@@ -1,0 +1,1 @@
+{"index": 327002, "D": "constructed with a beam or on the principle of a beam, as an entablature or flat ceiling.", "S": [], "A": []}

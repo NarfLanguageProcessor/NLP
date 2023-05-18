@@ -1,0 +1,1 @@
+{"index": 195759, "D": "abounding in or characterized by murmurs. ", "S": ["stirring ", "swishing ", "whispering "], "A": []}

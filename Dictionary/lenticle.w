@@ -1,0 +1,1 @@
+{"index": 170484, "D": "a window in a clock case revealing the motion of the pendulum bob.", "S": [], "A": []}

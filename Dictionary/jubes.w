@@ -1,0 +1,1 @@
+{"index": 161987, "D": "a screen with an upper platform, separating the choir of a church from the nave and often supporting a rood.", "S": ["altar screen ", "chancel screen ", "gallery ", "rood arch ", "rood loft "], "A": []}

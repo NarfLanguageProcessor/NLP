@@ -1,0 +1,1 @@
+{"index": 93749, "D": "affected with or exhibiting splayfoot;  having flat feet that are often turned outward.", "S": [], "A": []}

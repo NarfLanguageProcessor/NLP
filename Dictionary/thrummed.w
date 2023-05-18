@@ -1,0 +1,1 @@
+{"index": 322873, "D": "to play on a stringed instrument, as a guitar, by plucking the strings, especially in an idle, monotonous, or unskillful manner; strum. ", "S": ["drum ", "fluctuate ", "hammer ", "oscillate ", "palpitate ", "pound ", "pump ", "roar ", "throb ", "thrum ", "thud ", "thump ", "tick ", "vibrate "], "A": []}

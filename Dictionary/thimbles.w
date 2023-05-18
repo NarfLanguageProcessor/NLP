@@ -1,0 +1,1 @@
+{"index": 321801, "D": "a small cap, usually of metal, worn over the fingertip to protect it when pushing a needle through cloth in sewing.", "S": [], "A": []}

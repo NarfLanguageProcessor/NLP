@@ -1,0 +1,1 @@
+{"index": 17975, "D": "to come near or nearer to", "S": ["invited ", "petitioned ", "requested "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 182445, "D": "the larval stage of marine crabs immediately prior to and resembling the adult stage.", "S": [], "A": []}

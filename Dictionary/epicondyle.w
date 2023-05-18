@@ -1,0 +1,1 @@
+{"index": 102304, "D": "a rounded protuberance at the end of a bone, serving as a place of attachment for ligaments, tendons, and muscles.", "S": [], "A": []}

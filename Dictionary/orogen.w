@@ -1,0 +1,1 @@
+{"index": 214817, "D": "an extensive belt of rocks deformed by orogeny, associated in places with plutonic and metamorphic rocks.", "S": [], "A": []}

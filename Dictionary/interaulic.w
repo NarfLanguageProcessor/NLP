@@ -1,0 +1,1 @@
+{"index": 154490, "D": "of or relating to a royal court.", "S": [], "A": []}

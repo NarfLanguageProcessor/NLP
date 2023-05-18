@@ -1,0 +1,1 @@
+{"index": 257140, "D": "the act of pursuing", "S": ["area ", "business ", "field ", "life ", "province ", "realm ", "system "], "A": []}

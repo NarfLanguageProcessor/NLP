@@ -1,0 +1,1 @@
+{"index": 80861, "D": "the act or circumstance of proving or being proved conclusively, as by reasoning or a show of evidence", "S": ["expression ", "manifestation ", "presentation ", "show ", "test ", "testimony ", "trial "], "A": ["concealment ", "hiding ", "contradiction ", "denial ", "veto "]}

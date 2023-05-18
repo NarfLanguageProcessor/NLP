@@ -1,0 +1,1 @@
+{"index": 236732, "D": "an oil or crystalline alkaloid, C11H16N2O2, obtained from jaborandi, and used chiefly to produce sweating, promote the flow of saliva, contract the pupil of the eye, and for glaucoma.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 146668, "D": "an image or other material object representing a deity to which religious worship is addressed.", "S": ["darling ", "deity ", "hero ", "icon ", "superstar "], "A": ["hate "]}

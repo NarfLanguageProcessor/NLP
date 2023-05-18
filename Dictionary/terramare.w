@@ -1,0 +1,1 @@
+{"index": 319505, "D": "a lake dwelling or settlement of lake dwellings, especially those whose remains survive in mounds in the Po valley of N Italy.", "S": [], "A": []}

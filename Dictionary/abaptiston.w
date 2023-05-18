@@ -1,0 +1,1 @@
+{"index": 105, "D": "a cone-shaped trephine designed to avoid penetration of the brain when incising the skull.", "S": [], "A": []}

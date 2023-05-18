@@ -1,0 +1,1 @@
+{"index": 143726, "D": "working energetically; busily engaged", "S": ["brisk ", "bustling ", "busy ", "buzzing "], "A": ["inactive "]}

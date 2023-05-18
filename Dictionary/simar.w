@@ -1,0 +1,1 @@
+{"index": 290717, "D": "a loose, lightweight jacket or robe for women, fashionable in the 17th and 18th centuries.", "S": [], "A": []}

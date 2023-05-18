@@ -1,0 +1,1 @@
+{"index": 229469, "D": "dried meat pounded into a powder and mixed with hot fat and dried fruits or berries, pressed into a loaf or into small cakes, originally prepared by North American Indians.", "S": [], "A": []}

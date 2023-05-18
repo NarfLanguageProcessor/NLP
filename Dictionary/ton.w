@@ -1,0 +1,1 @@
+{"index": 325488, "D": "a unit of weight, equivalent to 2000 pounds (0.907 metric ton) avoirdupois (short ton,  or net ton ) in the United States and 2240 pounds (1.016 metric tons) avoirdupois (long ton ) in Great Britain.", "S": ["bulk ", "chunk ", "extent ", "load ", "lot ", "measure ", "number ", "supply ", "volume "], "A": []}

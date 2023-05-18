@@ -1,0 +1,1 @@
+{"index": 183722, "D": "of or containing mercury,  especially in the bivalent state.", "S": [], "A": []}

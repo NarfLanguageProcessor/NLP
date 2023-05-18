@@ -1,0 +1,1 @@
+{"index": 293277, "D": "having no money; penniless.", "S": [], "A": []}

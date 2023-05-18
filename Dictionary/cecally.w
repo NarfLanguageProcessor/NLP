@@ -1,0 +1,1 @@
+{"index": 50326, "D": "a cul-de-sac, especially that in which the large intestine begins.", "S": [], "A": []}

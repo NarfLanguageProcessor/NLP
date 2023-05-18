@@ -1,0 +1,1 @@
+{"index": 158199, "D": "incapable of being recovered or regained", "S": [], "A": []}

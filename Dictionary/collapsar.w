@@ -1,0 +1,1 @@
+{"index": 62831, "D": "(formerly) a gravitationally collapsed star.", "S": [], "A": []}

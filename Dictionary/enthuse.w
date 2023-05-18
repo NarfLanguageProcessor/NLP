@@ -1,0 +1,1 @@
+{"index": 101416, "D": "to be or become enthusiastic; show enthusiasm", "S": ["fondle ", "gush ", "pet ", "rave ", "rhapsodize ", "rhapsody ", "spoil ", "want "], "A": []}

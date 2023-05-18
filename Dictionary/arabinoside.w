@@ -1,0 +1,1 @@
+{"index": 18322, "D": "a glycoside of arabinose,  especially any of those used in antiviral therapy as structural analogs of ribonucleosides.", "S": [], "A": []}

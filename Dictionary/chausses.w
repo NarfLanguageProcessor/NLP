@@ -1,0 +1,1 @@
+{"index": 53204, "D": "medieval armor of mail for the legs and feet.", "S": [], "A": []}

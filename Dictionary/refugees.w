@@ -1,0 +1,1 @@
+{"index": 265428, "D": [], "S": ["alien ", "displaced person ", "emigrant ", "evacuee ", "exile ", "expatriate ", "foreigner "], "A": ["citizen ", "national ", "native "]}

@@ -1,0 +1,1 @@
+{"index": 154880, "D": "to make tangled;  ensnarl; intertwine.", "S": [], "A": []}

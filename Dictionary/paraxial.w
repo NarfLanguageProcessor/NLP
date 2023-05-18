@@ -1,0 +1,1 @@
+{"index": 226222, "D": "making a small angle with and lying close to the axis of an optical system", "S": [], "A": []}

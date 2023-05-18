@@ -1,0 +1,1 @@
+{"index": 82959, "D": "to become or cause to become less stressed or anxious", "S": [], "A": []}

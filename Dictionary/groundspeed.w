@@ -1,0 +1,1 @@
+{"index": 130336, "D": "the speed  of an aircraft with reference to the ground. ", "S": [], "A": []}

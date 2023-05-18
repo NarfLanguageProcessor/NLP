@@ -1,0 +1,1 @@
+{"index": 353543, "D": "to make or become a single unit; unite", "S": [], "A": []}

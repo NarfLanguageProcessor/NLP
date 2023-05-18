@@ -1,0 +1,1 @@
+{"index": 91183, "D": "a structure usually regarded as a tomb, consisting of two or more large, upright stones set with a space between and capped by a horizontal stone.", "S": ["Vandyke ", "capote ", "cardinal ", "cloak ", "cope ", "fichu ", "gabardine ", "mantilla ", "mantle ", "pelisse ", "poncho ", "shawl ", "tabard ", "tippet ", "wrap ", "wrapper "], "A": []}

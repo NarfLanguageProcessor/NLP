@@ -1,0 +1,1 @@
+{"index": 102656, "D": "to describe or represent in an epiphany. ", "S": [], "A": []}

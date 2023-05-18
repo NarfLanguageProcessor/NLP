@@ -1,0 +1,1 @@
+{"index": 267489, "D": "remote; separate; not connected with; distinct from.", "S": [], "A": []}

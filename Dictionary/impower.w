@@ -1,0 +1,1 @@
+{"index": 148985, "D": "a less common spelling of empower", "S": [], "A": []}

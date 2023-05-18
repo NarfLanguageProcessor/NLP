@@ -1,0 +1,1 @@
+{"index": 176174, "D": "(no longer in technical use; now considered offensive) an insane person.", "S": [], "A": []}

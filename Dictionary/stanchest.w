@@ -1,0 +1,1 @@
+{"index": 302642, "D": "to stop the flow of (a liquid, especially blood).", "S": [], "A": []}

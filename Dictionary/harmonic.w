@@ -1,0 +1,1 @@
+{"index": 133834, "D": "pertaining to harmony,  as distinguished from melody and rhythm.", "S": ["melodic ", "symphonic "], "A": ["dissonant "]}

@@ -1,0 +1,1 @@
+{"index": 268878, "D": "required  or necessary for a particular purpose, position, etc.; indispensable", "S": ["precondition "], "A": ["nonessential "]}

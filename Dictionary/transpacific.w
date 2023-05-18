@@ -1,0 +1,1 @@
+{"index": 328180, "D": "passing or extending across the Pacific.", "S": ["abroad ", "foreign "], "A": []}

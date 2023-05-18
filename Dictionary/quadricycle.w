@@ -1,0 +1,1 @@
+{"index": 257557, "D": "a vehicle similar to the bicycle and tricycle but having four wheels.", "S": [], "A": []}

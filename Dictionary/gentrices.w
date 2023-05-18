@@ -1,0 +1,1 @@
+{"index": 123759, "D": "gentility; high birth.", "S": [], "A": []}

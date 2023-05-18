@@ -1,0 +1,1 @@
+{"index": 103192, "D": "to regard, treat, or represent as equivalent", "S": ["associate ", "liken ", "relate "], "A": ["dissociate ", "abandon ", "differ ", "disagree ", "disbelieve ", "disregard ", "ignore ", "neglect ", "reject ", "separate "]}

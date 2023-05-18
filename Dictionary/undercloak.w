@@ -1,0 +1,1 @@
+{"index": 338995, "D": "a loose outer garment, as a cape or coat.", "S": [], "A": []}

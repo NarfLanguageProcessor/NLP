@@ -1,0 +1,1 @@
+{"index": 312129, "D": "a district or place under a superintendent.", "S": ["conduct "], "A": ["mismanagement ", "neglect "]}

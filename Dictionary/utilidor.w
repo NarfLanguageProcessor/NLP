@@ -1,0 +1,1 @@
+{"index": 356162, "D": "an aboveground, insulated network of pipes and cables, used to convey water and electricity in communities situated in areas of permafrost.", "S": [], "A": []}

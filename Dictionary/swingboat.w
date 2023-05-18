@@ -1,0 +1,1 @@
+{"index": 314483, "D": "a piece of fairground equipment consisting of a boat-shaped carriage for swinging in", "S": [], "A": []}

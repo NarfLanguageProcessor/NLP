@@ -1,0 +1,1 @@
+{"index": 148516, "D": "of, relating to, or characterized by defects or weaknesses", "S": [], "A": []}

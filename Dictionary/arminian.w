@@ -1,0 +1,1 @@
+{"index": 19948, "D": "denoting, relating to, or believing in the Christian Protestant doctrines of Jacobus Arminius, published in 1610, which rejected absolute predestination and insisted that the sovereignty of God is compatible with free will in man. These doctrines deeply influenced Wesleyan and Methodist theology", "S": [], "A": []}

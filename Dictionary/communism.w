@@ -1,0 +1,1 @@
+{"index": 64270, "D": "a theory or system of social organization based on the holding of all property in common, actual ownership being ascribed to the community as a whole or to the state.", "S": ["socialism ", "totalitarianism "], "A": ["capitalism ", "democracy "]}

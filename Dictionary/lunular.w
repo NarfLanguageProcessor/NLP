@@ -1,0 +1,1 @@
+{"index": 176267, "D": "crescent-shaped", "S": [], "A": []}

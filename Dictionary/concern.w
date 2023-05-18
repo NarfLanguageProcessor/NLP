@@ -1,0 +1,1 @@
+{"index": 65182, "D": "to relate to; be connected with; be of interest or importance to; affect", "S": ["care ", "concernment ", "consideration ", "heed ", "interest ", "regard ", "solicitousness ", "solicitude "], "A": ["calmness ", "disregard ", "neglect ", "calm ", "carelessness ", "ease ", "inattention ", "thoughtlessness "]}

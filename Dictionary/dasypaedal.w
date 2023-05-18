@@ -1,0 +1,1 @@
+{"index": 77100, "D": "(of the young of some species of birds after hatching) having a covering of down", "S": [], "A": []}

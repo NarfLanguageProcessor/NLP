@@ -1,0 +1,1 @@
+{"index": 259615, "D": "the phenomenon, exhibited by and being a property of certain elements, of spontaneously emitting radiation resulting from changes in the nuclei of atoms of the element.", "S": ["dynamism ", "electricity ", "heat ", "potential ", "service ", "strength "], "A": ["lack ", "peace ", "question "]}

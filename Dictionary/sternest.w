@@ -1,0 +1,1 @@
+{"index": 304067, "D": "firm, strict, or uncompromising", "S": ["flinty ", "grim ", "hard-nosed ", "harsh ", "rigid ", "steely ", "strict ", "tough "], "A": ["easy ", "flexible ", "gentle ", "kind ", "lenient ", "nice ", "soft ", "yielding ", "bland ", "mild "]}

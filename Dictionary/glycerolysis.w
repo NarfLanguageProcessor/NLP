@@ -1,0 +1,1 @@
+{"index": 126216, "D": "chemical decomposition resulting from the interaction of a compound and glycerol. ", "S": [], "A": []}

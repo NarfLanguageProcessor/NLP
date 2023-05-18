@@ -1,0 +1,1 @@
+{"index": 298354, "D": "to strike (a person, usually a child) with the open hand, a slipper, etc., especially on the buttocks, as in punishment.", "S": ["chastise ", "clobber ", "flog ", "smack ", "thrash "], "A": ["lose ", "praise ", "surrender "]}

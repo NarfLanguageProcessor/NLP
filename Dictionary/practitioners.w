@@ -1,0 +1,1 @@
+{"index": 245109, "D": "a person engaged in the practice of a profession, occupation, etc.", "S": ["doctor ", "master ", "professional ", "specialist "], "A": ["amateur "]}

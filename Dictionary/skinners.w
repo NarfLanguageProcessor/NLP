@@ -1,0 +1,1 @@
+{"index": 293270, "D": "a person or thing that skins. ", "S": ["processor ", "slaughterer "], "A": []}

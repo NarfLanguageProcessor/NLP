@@ -1,0 +1,1 @@
+{"index": 85386, "D": "a letter of the early Greek alphabet that generally fell into disuse in Attic Greek before the classical period and that represented a sound similar to English w.", "S": [], "A": []}

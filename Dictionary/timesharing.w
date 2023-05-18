@@ -1,0 +1,1 @@
+{"index": 323793, "D": "a system or service in which a number of users at different terminals simultaneously use a single computer for different purposes.", "S": [], "A": []}

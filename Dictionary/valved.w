@@ -1,0 +1,1 @@
+{"index": 356852, "D": "having or furnished with valves", "S": [], "A": []}

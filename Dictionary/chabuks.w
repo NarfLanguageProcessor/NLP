@@ -1,0 +1,1 @@
+{"index": 51833, "D": "(in Asia, especially the East) a horsewhip, formerly often used for inflicting corporal punishment.", "S": [], "A": []}

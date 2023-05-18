@@ -1,0 +1,1 @@
+{"index": 173888, "D": "of or relating to the shore of a lake, sea, or ocean.", "S": ["marshy ", "seaside "], "A": []}

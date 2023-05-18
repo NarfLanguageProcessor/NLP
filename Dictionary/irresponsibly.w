@@ -1,0 +1,1 @@
+{"index": 158399, "D": "said, done, or characterized by a lack of a sense of responsibility", "S": ["haphazardly ", "hastily ", "negligently ", "nonchalantly ", "sloppily "], "A": []}

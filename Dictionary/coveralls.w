@@ -1,0 +1,1 @@
+{"index": 71483, "D": "a loose-fitting, one-piece work garment, consisting of a trouserlike portion and a top with or without sleeves, worn over other clothing.", "S": [], "A": []}

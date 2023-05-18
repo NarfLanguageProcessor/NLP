@@ -1,0 +1,1 @@
+{"index": 160815, "D": "congealed or brought to the consistency of jelly", "S": ["gluey ", "glutinous ", "gummy ", "jelled ", "jelly-like ", "mucilaginous ", "pudding ", "sticky ", "thick ", "viscid ", "viscous "], "A": ["liquid "]}

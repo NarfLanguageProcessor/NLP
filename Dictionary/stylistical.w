@@ -1,0 +1,1 @@
+{"index": 304493, "D": "of or relating to style. ", "S": [], "A": []}

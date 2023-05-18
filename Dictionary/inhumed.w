@@ -1,0 +1,1 @@
+{"index": 152739, "D": "to bury; inter.", "S": ["deposit ", "embalm ", "enshrine ", "entomb ", "inter ", "lay ", "mummify ", "plant "], "A": []}

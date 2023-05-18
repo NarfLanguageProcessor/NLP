@@ -1,0 +1,1 @@
+{"index": 24654, "D": "any of various plants of the genus Geum, of the rose family, having yellow, white, or red flowers.", "S": [], "A": []}

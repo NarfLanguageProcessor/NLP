@@ -1,0 +1,1 @@
+{"index": 369370, "D": "(formerly) the science dealing with fermentation and the action of enzymes; enzymology.", "S": [], "A": []}

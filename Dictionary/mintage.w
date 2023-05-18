@@ -1,0 +1,1 @@
+{"index": 188025, "D": "the act or process of minting. ", "S": ["bread ", "cash ", "change ", "chips ", "coinage ", "copper ", "currency ", "doubloon ", "dough ", "gold ", "jack ", "money ", "piece ", "scratch ", "silver ", "specie "], "A": ["bill ", "dollar "]}

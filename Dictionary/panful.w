@@ -1,0 +1,1 @@
+{"index": 224586, "D": "the amount a pan can hold.", "S": [], "A": []}

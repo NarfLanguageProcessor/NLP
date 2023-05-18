@@ -1,0 +1,1 @@
+{"index": 122816, "D": "to determine the exact dimensions, capacity, quantity, or force of; measure.", "S": [], "A": []}

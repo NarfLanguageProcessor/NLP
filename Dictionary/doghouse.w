@@ -1,0 +1,1 @@
+{"index": 90932, "D": "a small shelter for a dog. ", "S": ["disapprobation ", "disapproval ", "dislike ", "displeasure ", "dissatisfaction "], "A": ["esteem ", "honor ", "love ", "regard ", "respect ", "satisfaction "]}

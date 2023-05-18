@@ -1,0 +1,1 @@
+{"index": 178275, "D": "malapropism (def. 2). ", "S": [], "A": []}

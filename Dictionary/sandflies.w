@@ -1,0 +1,1 @@
+{"index": 277760, "D": "any of several small, bloodsucking, dipterous insects of the family Psychodidae that are vectors of several diseases of humans.", "S": [], "A": []}

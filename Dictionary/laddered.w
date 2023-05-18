@@ -1,0 +1,1 @@
+{"index": 167151, "D": "a structure of wood, metal, or rope, commonly consisting of two sidepieces between which a series of bars or rungs are set at suitable distances, forming a means of climbing up or down.", "S": [], "A": []}

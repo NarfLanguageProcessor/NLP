@@ -1,0 +1,1 @@
+{"index": 263022, "D": [], "S": ["confinement ", "desolation ", "remoteness ", "segregation ", "solitude "], "A": []}

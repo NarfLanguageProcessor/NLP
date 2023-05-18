@@ -1,0 +1,1 @@
+{"index": 205746, "D": "(of a test or method) not requiring assertions about parameters or about the form of the underlying distribution.", "S": [], "A": []}

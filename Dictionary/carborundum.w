@@ -1,0 +1,1 @@
+{"index": 47565, "D": "any of various abrasives or refractories of silicon carbide, fused alumina, and other materials.", "S": [], "A": []}

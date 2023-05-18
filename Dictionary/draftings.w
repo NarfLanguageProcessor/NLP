@@ -1,0 +1,1 @@
+{"index": 92507, "D": "mechanical drawing. ", "S": ["computer graphics ", "drafting ", "draftsmanship ", "graphic arts ", "graphics "], "A": []}

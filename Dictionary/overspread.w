@@ -1,0 +1,1 @@
+{"index": 221299, "D": "to spread or diffuse over", "S": ["carpeted ", "dotted ", "overgrown "], "A": ["bare ", "empty ", "exposed ", "open ", "passed over ", "revealed ", "unfurnished ", "unheeded ", "unnoticed "]}

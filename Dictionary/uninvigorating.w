@@ -1,0 +1,1 @@
+{"index": 344865, "D": "giving or encouraging vigor, liveliness, or energy", "S": [], "A": []}

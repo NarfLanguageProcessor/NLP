@@ -1,0 +1,1 @@
+{"index": 121273, "D": "any sedge of the genus Cyperus, especially an Old World species, C. longus, having aromatic roots.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 144065, "D": "a disease in horses  caused by a virus and characterized by eruptions in the mouth and on the skin.", "S": [], "A": []}

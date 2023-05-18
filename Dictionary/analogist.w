@@ -1,0 +1,1 @@
+{"index": 11801, "D": "a person who employs or argues from analogy. ", "S": [], "A": []}

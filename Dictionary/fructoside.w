@@ -1,0 +1,1 @@
+{"index": 119555, "D": "a glycoside that yields fructose upon hydrolysis.", "S": [], "A": []}

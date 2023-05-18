@@ -1,0 +1,1 @@
+{"index": 49222, "D": "(of fish) migrating from fresh water to spawn in the sea, as eels of the genus Anguilla (distinguished from anadromous).", "S": [], "A": []}

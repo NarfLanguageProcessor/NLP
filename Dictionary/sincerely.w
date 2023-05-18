@@ -1,0 +1,1 @@
+{"index": 291366, "D": "in a way that is genuine, earnest, or truthful", "S": ["candidly ", "deeply ", "earnestly ", "genuinely ", "naturally ", "profoundly ", "really ", "truly ", "truthfully ", "wholeheartedly "], "A": ["doubtfully "]}

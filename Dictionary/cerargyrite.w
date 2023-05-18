@@ -1,0 +1,1 @@
+{"index": 51244, "D": "a very soft mineral, silver chloride, AgCl, used as an ore of silver; horn silver.", "S": [], "A": []}

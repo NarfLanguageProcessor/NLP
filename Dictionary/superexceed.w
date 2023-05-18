@@ -1,0 +1,1 @@
+{"index": 311782, "D": "to go beyond in quantity, degree, rate, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 20694, "D": "uttered clearly in distinct syllables.", "S": ["chattering ", "conversing ", "discussing ", "echoing ", "expressing ", "mouthing ", "orating ", "ranting ", "repeating ", "spouting ", "vocalizing "], "A": ["hearing ", "listening ", "witnessing "]}

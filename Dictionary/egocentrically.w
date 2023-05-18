@@ -1,0 +1,1 @@
+{"index": 96239, "D": [], "S": ["emotionally ", "immanently ", "independently ", "individually ", "inherently ", "inner ", "intrinsically ", "introspectively ", "mentally ", "nonobjectively ", "personally "], "A": ["objectively "]}

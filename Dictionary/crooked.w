@@ -1,0 +1,1 @@
+{"index": 73680, "D": "not straight; bending; curved", "S": ["curved ", "curving ", "devious ", "errant ", "gnarled ", "meandering ", "serpentine ", "sinuous ", "twisted ", "twisting ", "winding "], "A": ["straight ", "unbent "]}

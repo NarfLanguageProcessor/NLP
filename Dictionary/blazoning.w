@@ -1,0 +1,1 @@
+{"index": 35929, "D": "to set forth conspicuously or publicly; display; proclaim", "S": ["announce ", "blare ", "boast ", "broadcast ", "deck ", "declare ", "depict ", "description ", "display ", "embellish ", "emblazon ", "exhibit ", "inscribe ", "proclaim ", "publish ", "show "], "A": ["conceal ", "cover ", "deny ", "hide ", "withhold "]}

@@ -1,0 +1,1 @@
+{"index": 69790, "D": "guilty of dishonest practices, as bribery; lacking integrity; crooked", "S": ["crooked ", "fraudulent ", "nefarious ", "rotten ", "shady ", "unethical ", "unscrupulous ", "untrustworthy ", "venal "], "A": ["ethical ", "good ", "honest ", "honorable ", "moral ", "respectable ", "trustworthy ", "clean ", "pure "]}

@@ -1,0 +1,1 @@
+{"index": 252143, "D": "an alcohol-soluble amino acid, C4H9NHCOOH, occurring in high concentration in collagen. Abbreviation", "S": [], "A": []}

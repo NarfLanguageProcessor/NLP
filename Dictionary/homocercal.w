@@ -1,0 +1,1 @@
+{"index": 142977, "D": "having an equally divided tail, characteristic of adult modern bony fishes.", "S": [], "A": []}

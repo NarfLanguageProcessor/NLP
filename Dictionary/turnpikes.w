@@ -1,0 +1,1 @@
+{"index": 332855, "D": "a high-speed highway, especially one maintained by tolls.", "S": ["expressway ", "freeway ", "interstate ", "roadway ", "state highway ", "superhighway "], "A": []}

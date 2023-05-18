@@ -1,0 +1,1 @@
+{"index": 15134, "D": "bread blessed and distributed to the congregation at the end of the liturgy.", "S": [], "A": []}

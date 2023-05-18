@@ -1,0 +1,1 @@
+{"index": 119151, "D": "any liliaceous plant of the genus Fritillaria, comprising bulbous herbs having drooping, bell-shaped flowers.", "S": [], "A": []}

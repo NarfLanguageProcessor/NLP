@@ -1,0 +1,1 @@
+{"index": 298773, "D": "discrimination in favor of one species, usually the human species, over another, especially in the exploitation or mistreatment of animals by humans.", "S": [], "A": []}

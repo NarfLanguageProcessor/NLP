@@ -1,0 +1,1 @@
+{"index": 62746, "D": "any bacteriocin produced by certain strains of Escherichia coli and having a lethal effect on strains other than the producing strain.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 339552, "D": "physical suffering or distress, as due to injury, illness, etc.", "S": [], "A": []}

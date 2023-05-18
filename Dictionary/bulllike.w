@@ -1,0 +1,1 @@
+{"index": 42611, "D": "the male of a bovine animal, especially of the genus Bos, with sexual organs intact and capable of reproduction.", "S": [], "A": []}

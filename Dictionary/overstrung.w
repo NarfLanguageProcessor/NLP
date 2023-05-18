@@ -1,0 +1,1 @@
+{"index": 221429, "D": "overly tense or sensitive; strained; on edge", "S": ["excited ", "restless ", "skittish ", "tense ", "uneasy ", "uptight "], "A": ["calm ", "collected ", "composed ", "easygoing ", "laid-back "]}

@@ -1,0 +1,1 @@
+{"index": 277813, "D": "a deep pit  in sandy soil from which sand  is excavated.", "S": [], "A": []}

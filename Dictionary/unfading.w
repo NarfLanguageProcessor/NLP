@@ -1,0 +1,1 @@
+{"index": 341932, "D": "to lose brightness or vividness of color.", "S": ["ceaseless ", "continual ", "continuous ", "deathless ", "eternal ", "everlasting ", "immortal ", "infinite ", "never-ending ", "perpetual ", "undying ", "unending "], "A": []}

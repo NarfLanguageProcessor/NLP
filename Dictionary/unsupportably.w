@@ -1,0 +1,1 @@
+{"index": 352457, "D": "capable of being supported;  endurable; maintainable.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 289923, "D": "a ferruginous earth used as a yellowish-brown pigment (raw sienna ) or, after roasting in a furnace, as a reddish-brown pigment (burnt sienna ).", "S": [], "A": []}

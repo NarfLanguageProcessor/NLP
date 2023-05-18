@@ -1,0 +1,1 @@
+{"index": 264364, "D": "to do  again; repeat.", "S": ["cooked ", "corrected ", "modified ", "transformed ", "updated "], "A": ["unqualified "]}

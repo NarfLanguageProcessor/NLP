@@ -1,0 +1,1 @@
+{"index": 175624, "D": "to cause to descend; let or put down", "S": [], "A": []}

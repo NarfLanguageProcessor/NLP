@@ -1,0 +1,1 @@
+{"index": 178500, "D": "a member of an agricultural people living in Senegal, Gambia, Guinea, Guinea-Bissau, Mali, and Ivory Coast.", "S": [], "A": []}

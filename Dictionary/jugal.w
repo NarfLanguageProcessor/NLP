@@ -1,0 +1,1 @@
+{"index": 162127, "D": "of or relating to the cheek or the cheekbone.", "S": [], "A": []}

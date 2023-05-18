@@ -1,0 +1,1 @@
+{"index": 286478, "D": "a member of an order of mendicant friars, founded in Florence in 1233, engaged in fostering devotion to the Virgin Mary.", "S": [], "A": []}

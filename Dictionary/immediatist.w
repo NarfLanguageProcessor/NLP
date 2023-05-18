@@ -1,0 +1,1 @@
+{"index": 147911, "D": "a policy for the immediate  abolition of slavery.", "S": [], "A": []}

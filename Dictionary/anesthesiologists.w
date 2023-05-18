@@ -1,0 +1,1 @@
+{"index": 12584, "D": "a physician who specializes in anesthesiology. ", "S": [], "A": []}

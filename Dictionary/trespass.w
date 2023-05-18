@@ -1,0 +1,1 @@
+{"index": 329010, "D": "the action to recover damages for such an injury.", "S": ["infraction ", "misdemeanor "], "A": ["behavior ", "benefit ", "blessing ", "good ", "good deed ", "goodness ", "manners ", "obedience ", "right "]}

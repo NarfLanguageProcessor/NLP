@@ -1,0 +1,1 @@
+{"index": 85843, "D": "a colorless, oily, viscous liquid, C3H8OS2, originally developed as an antidote to lewisite and now used in treating bismuth, gold, mercury, and arsenic poisoning.", "S": [], "A": []}

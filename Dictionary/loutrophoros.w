@@ -1,0 +1,1 @@
+{"index": 175515, "D": "a water jar, characterized by an elongated neck and flaring mouth, used to carry water for the marriage bath and set on the tomb of a person who had been unmarried.", "S": [], "A": []}

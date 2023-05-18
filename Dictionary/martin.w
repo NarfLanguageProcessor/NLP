@@ -1,0 +1,1 @@
+{"index": 180504, "D": "any of several swallows having a deeply forked tail and long, pointed wings.", "S": [], "A": []}

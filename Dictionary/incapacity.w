@@ -1,0 +1,1 @@
+{"index": 149681, "D": "lack of ability, qualification, or strength; incapability.", "S": ["disqualification ", "inability ", "incapability ", "insufficiency "], "A": ["ability "]}

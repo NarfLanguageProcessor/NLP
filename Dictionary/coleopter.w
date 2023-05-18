@@ -1,0 +1,1 @@
+{"index": 62697, "D": "an aircraft that has an annular wing with the fuselage and engine on the centre line", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 117149, "D": "either of the anterior and usually smaller pair of wings  of an insect having four wings. ", "S": [], "A": []}

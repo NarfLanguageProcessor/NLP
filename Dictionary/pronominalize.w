@@ -1,0 +1,1 @@
+{"index": 252425, "D": "to replace (a noun or noun phrase) with a pronoun.", "S": [], "A": []}

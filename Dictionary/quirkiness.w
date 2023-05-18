@@ -1,0 +1,1 @@
+{"index": 258989, "D": "having or full of quirks. ", "S": ["idiosyncrasy ", "peculiarity ", "weirdness "], "A": ["conformity ", "normalcy ", "normality ", "regularity ", "sameness ", "standard ", "usualness "]}

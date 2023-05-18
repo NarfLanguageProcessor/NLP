@@ -1,0 +1,1 @@
+{"index": 289634, "D": "any of various birds having a long, curved bill,  as the long-billed curlew or curve-billed thrasher.", "S": [], "A": []}

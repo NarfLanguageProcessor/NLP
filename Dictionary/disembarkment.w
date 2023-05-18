@@ -1,0 +1,1 @@
+{"index": 87865, "D": "to go ashore from a ship.", "S": [], "A": []}

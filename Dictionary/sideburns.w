@@ -1,0 +1,1 @@
+{"index": 289735, "D": "short whiskers extending from the hairline to below the ears and worn with an unbearded chin.", "S": ["beard ", "bristles ", "goatee ", "mustache ", "stubble "], "A": []}

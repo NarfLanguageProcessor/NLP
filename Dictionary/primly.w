@@ -1,0 +1,1 @@
+{"index": 250554, "D": "in a proper, neat, precise, or fastidious way", "S": [], "A": []}

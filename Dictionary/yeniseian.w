@@ -1,0 +1,1 @@
+{"index": 146867, "D": "a group of languages spoken in Siberia, the only surviving member of which is Ket.", "S": [], "A": []}

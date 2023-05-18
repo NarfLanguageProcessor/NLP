@@ -1,0 +1,1 @@
+{"index": 79068, "D": "to mar the surface or appearance of; disfigure", "S": ["demolish ", "obliterate ", "vandalize "], "A": ["build ", "construct ", "adorn ", "aid ", "assist ", "beautify ", "benefit ", "create ", "cure ", "decorate ", "fix ", "grow ", "heal ", "help ", "improve ", "mend ", "ornament ", "repair ", "smooth "]}

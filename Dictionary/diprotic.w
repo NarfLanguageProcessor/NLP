@@ -1,0 +1,1 @@
+{"index": 86681, "D": "(of an acid) having two transferable protons. ", "S": [], "A": []}

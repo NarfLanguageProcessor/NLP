@@ -1,0 +1,1 @@
+{"index": 106950, "D": "an executive, especially in business.", "S": ["cabinet ", "committee ", "jury ", "panel "], "A": ["individual ", "one "]}

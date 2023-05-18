@@ -1,0 +1,1 @@
+{"index": 142145, "D": "for the special purpose or end presently under consideration", "S": [], "A": []}

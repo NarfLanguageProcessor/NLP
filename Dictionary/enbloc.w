@@ -1,0 +1,1 @@
+{"index": 99106, "D": [], "S": ["all at once ", "as a body ", "as a group ", "as a whole ", "as one ", "collectively ", "communally ", "cooperatively ", "ensemble ", "in a group ", "in chorus ", "in unison ", "jointly ", "together ", "unanimously ", "unitedly ", "wholly ", "with one voice "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 269503, "D": "any of the class of sediments, as sand or sandstone, consisting chiefly of minerals resistant to weathering.", "S": [], "A": []}

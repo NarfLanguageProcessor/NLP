@@ -1,0 +1,1 @@
+{"index": 17142, "D": "loss or omission of the last letter, syllable, or part of a word.", "S": [], "A": []}

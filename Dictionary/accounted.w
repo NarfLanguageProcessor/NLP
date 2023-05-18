@@ -1,0 +1,1 @@
+{"index": 1729, "D": "an oral or written description of particular events or situations; narrative", "S": ["alleged ", "assumed ", "putative ", "regarded ", "rumored ", "supposed "], "A": ["real "]}

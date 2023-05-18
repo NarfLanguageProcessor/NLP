@@ -1,0 +1,1 @@
+{"index": 125284, "D": "a joint in which movement is limited to one plane.", "S": [], "A": []}

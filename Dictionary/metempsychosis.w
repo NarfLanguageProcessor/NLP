@@ -1,0 +1,1 @@
+{"index": 185104, "D": "the transmigration of the soul, especially the passage of the soul after death from a human or animal to some other human or animal body.", "S": ["comeback ", "recovery ", "rehabilitation ", "rejuvenation ", "renaissance ", "renewal ", "restoration ", "revival "], "A": ["destruction "]}

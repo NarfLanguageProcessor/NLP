@@ -1,0 +1,1 @@
+{"index": 345018, "D": "to set or place apart; detach or separate so as to be alone.", "S": [], "A": []}

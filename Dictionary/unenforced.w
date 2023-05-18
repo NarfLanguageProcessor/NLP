@@ -1,0 +1,1 @@
+{"index": 341278, "D": "(of a law, decision, etc) not having been imposed or enforced", "S": [], "A": []}

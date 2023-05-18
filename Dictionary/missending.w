@@ -1,0 +1,1 @@
+{"index": 190017, "D": "to send or forward, especially mail, to a wrong place or person.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82467, "D": "to divest of sacred or hallowed character or office.", "S": ["defile ", "dishonor ", "pervert ", "pillage ", "profane ", "ravage "], "A": ["honor ", "protect ", "purify ", "build ", "clean ", "construct ", "help ", "improve ", "save "]}

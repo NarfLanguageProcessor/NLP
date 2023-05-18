@@ -1,0 +1,1 @@
+{"index": 12924, "D": "an aversion or hostility to, disdain for, or fear of England or anything English.", "S": [], "A": []}

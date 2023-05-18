@@ -1,0 +1,1 @@
+{"index": 175696, "D": "noting, pertaining to, or according to loxodromes  or rhumb lines.", "S": [], "A": []}

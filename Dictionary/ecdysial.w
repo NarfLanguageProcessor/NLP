@@ -1,0 +1,1 @@
+{"index": 95158, "D": "the shedding or casting off of an outer coat or integument by snakes, crustaceans, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148843, "D": "not polite or courteous; discourteous; rude", "S": ["boorish ", "disrespectful ", "rude "], "A": ["mannerly ", "nice ", "polite ", "refined ", "respectful ", "sophisticated "]}

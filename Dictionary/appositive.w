@@ -1,0 +1,1 @@
+{"index": 17885, "D": "a word or phrase in apposition. ", "S": [], "A": []}

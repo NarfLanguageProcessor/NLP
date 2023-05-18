@@ -1,0 +1,1 @@
+{"index": 152691, "D": "a woman who inherits; heiress.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 194902, "D": "a red cloth similar to but smaller than a capa and manipulated by a stick set into one of the three holes in or near the center, for use by a matador in guiding the course of the bull's attack in the stage of the fight preparatory to the kill.", "S": [], "A": []}

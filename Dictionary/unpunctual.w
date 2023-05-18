@@ -1,0 +1,1 @@
+{"index": 348821, "D": "strictly observant of an appointed or regular time; not late; prompt.", "S": ["delayed ", "long-delayed ", "overdue ", "tardy "], "A": ["early "]}

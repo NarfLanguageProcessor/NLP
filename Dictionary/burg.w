@@ -1,0 +1,1 @@
+{"index": 43044, "D": "a city or town.", "S": ["metropolis ", "municipality ", "town "], "A": []}

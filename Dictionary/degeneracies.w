@@ -1,0 +1,1 @@
+{"index": 79563, "D": "degenerate  state or character.", "S": ["abasement ", "decadence ", "degradation ", "depravity ", "dissoluteness ", "downfall ", "immorality ", "inferiority ", "meanness ", "poorness "], "A": ["honor ", "morality ", "nobility "]}

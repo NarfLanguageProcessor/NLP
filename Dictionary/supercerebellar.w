@@ -1,0 +1,1 @@
+{"index": 311504, "D": "a large portion of the brain, serving to coordinate voluntary movements, posture, and balance in humans, being in back of and below the cerebrum and consisting of two lateral lobes and a central lobe.", "S": [], "A": []}

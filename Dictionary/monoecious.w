@@ -1,0 +1,1 @@
+{"index": 192275, "D": "having both male and female organs in the same individual; hermaphroditic.", "S": [], "A": []}

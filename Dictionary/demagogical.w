@@ -1,0 +1,1 @@
+{"index": 80338, "D": "of, relating to, or characteristic of a demagogue. ", "S": [], "A": []}

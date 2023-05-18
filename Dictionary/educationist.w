@@ -1,0 +1,1 @@
+{"index": 95844, "D": "a specialist in the theory and methods of education. ", "S": ["instructor ", "lecturer ", "professor ", "schoolteacher "], "A": ["pupil ", "student "]}

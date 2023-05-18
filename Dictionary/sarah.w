@@ -1,0 +1,1 @@
+{"index": 278281, "D": "the wife of Abraham and mother of Isaac. Genesis 17", "S": [], "A": []}

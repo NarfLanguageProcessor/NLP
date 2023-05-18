@@ -1,0 +1,1 @@
+{"index": 208662, "D": "a kingdom in N Europe, in the W part of the Scandinavian Peninsula. 124,555 sq. mi. (322,597 sq. km). Capital", "S": [], "A": []}

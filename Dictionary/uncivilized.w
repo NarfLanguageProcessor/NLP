@@ -1,0 +1,1 @@
+{"index": 336954, "D": "not civilized  or cultured; barbarous.", "S": ["barbaric ", "barbarous ", "boorish ", "churlish ", "disrespectful ", "impolite ", "rude ", "unconscionable ", "vulgar "], "A": ["courteous ", "cultured ", "decent ", "kind ", "mannerly ", "nice ", "polite ", "refined ", "respectful ", "sophisticated "]}

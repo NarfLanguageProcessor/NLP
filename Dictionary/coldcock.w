@@ -1,0 +1,1 @@
+{"index": 62663, "D": "to knock (someone) unconscious, as with the fist.", "S": ["KO ", "do in ", "hamstring ", "kayo ", "knock senseless ", "lay out "], "A": []}

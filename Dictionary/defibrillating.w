@@ -1,0 +1,1 @@
+{"index": 79269, "D": "to arrest the fibrillation of (heart muscle) by applying electric shock across the chest, thus depolarizing the heart cells and allowing normal rhythm to return.", "S": [], "A": []}

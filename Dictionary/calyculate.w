@@ -1,0 +1,1 @@
+{"index": 45129, "D": "of or resembling a calyculus. ", "S": [], "A": []}

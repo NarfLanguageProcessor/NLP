@@ -1,0 +1,1 @@
+{"index": 142207, "D": "any device for tracing the path of a charged particle, esp a particle found in cosmic rays", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 57700, "D": "any of several horticultural varieties of a composite plant, Senecio hybridus, of the Canary Islands, having clusters of flowers with white, blue, purple, red, or variegated rays.", "S": [], "A": []}

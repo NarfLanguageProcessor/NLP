@@ -1,0 +1,1 @@
+{"index": 212248, "D": "(of a lake) characterized by a low accumulation of dissolved nutrient salts, supporting but a sparse growth of algae and other organisms, and having a high oxygen content owing to the low organic content.", "S": [], "A": []}

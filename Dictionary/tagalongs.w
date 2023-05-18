@@ -1,0 +1,1 @@
+{"index": 315238, "D": "a person or thing that follows the lead or initiative of another.", "S": [], "A": []}

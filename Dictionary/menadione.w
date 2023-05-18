@@ -1,0 +1,1 @@
+{"index": 183240, "D": "a synthetic yellow crystalline powder, C11H8O2, insoluble in water, used as a vitamin K supplement.", "S": [], "A": []}

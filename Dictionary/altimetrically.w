@@ -1,0 +1,1 @@
+{"index": 9537, "D": "the science of measuring altitudes, as by altimeters.", "S": [], "A": []}

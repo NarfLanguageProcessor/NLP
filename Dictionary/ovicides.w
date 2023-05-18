@@ -1,0 +1,1 @@
+{"index": 221919, "D": "a substance or preparation, especially an insecticide, capable of killing egg cells.", "S": [], "A": []}

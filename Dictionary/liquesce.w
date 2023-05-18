@@ -1,0 +1,1 @@
+{"index": 173288, "D": "to become liquid", "S": ["soften "], "A": ["appear ", "assemble ", "coagulate ", "concentrate ", "continue ", "integrate ", "marry ", "put together ", "resolve ", "solidify ", "unite "]}

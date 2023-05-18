@@ -1,0 +1,1 @@
+{"index": 202821, "D": "to fall below a normal or desirable level in physical, mental, or moral qualities; deteriorate", "S": [], "A": []}

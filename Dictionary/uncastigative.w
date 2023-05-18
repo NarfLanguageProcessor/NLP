@@ -1,0 +1,1 @@
+{"index": 336552, "D": "to criticize or reprimand severely.", "S": [], "A": []}

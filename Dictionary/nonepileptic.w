@@ -1,0 +1,1 @@
+{"index": 203574, "D": "pertaining to or symptomatic of epilepsy. ", "S": [], "A": []}

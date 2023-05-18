@@ -1,0 +1,1 @@
+{"index": 131320, "D": "(in Sankhya and Vedantic philosophy) one of the three qualities of prakriti, or nature, which are passion (rajas ), dullness or inertia (tamas ), and goodness or purity (sattva ).", "S": [], "A": []}

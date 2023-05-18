@@ -1,0 +1,1 @@
+{"index": 260180, "D": "a licentious or dissolute man; rake. ", "S": [], "A": []}

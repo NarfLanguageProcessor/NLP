@@ -1,0 +1,1 @@
+{"index": 152757, "D": "adverse in tendency or effect; unfavorable; harmful", "S": [], "A": []}

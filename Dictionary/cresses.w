@@ -1,0 +1,1 @@
+{"index": 72768, "D": "any of various plants of the mustard family, especially the watercress, having pungent-tasting leaves often used for salad and as a garnish.", "S": [], "A": []}

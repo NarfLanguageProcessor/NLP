@@ -1,0 +1,1 @@
+{"index": 211780, "D": "a state in the northeastern central United States", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 191292, "D": "(John) Hidalgo. 1920\u201394, British architect", "S": [], "A": []}

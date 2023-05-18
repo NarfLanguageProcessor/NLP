@@ -1,0 +1,1 @@
+{"index": 116011, "D": "to instigate or foster (discord, rebellion, etc.); promote the growth or development of", "S": ["abet ", "arouse ", "brew ", "incite ", "whip up "], "A": ["deter ", "discourage ", "calm ", "conclude ", "condemn ", "depress ", "destroy ", "dissuade ", "end ", "finish ", "ignore ", "lull ", "neglect ", "quiet ", "repress ", "stop ", "tranquilize "]}

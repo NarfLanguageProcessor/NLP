@@ -1,0 +1,1 @@
+{"index": 302586, "D": "the metamorphosis of any of various flower organs, as a sepal or a petal, into a stamen.", "S": [], "A": []}

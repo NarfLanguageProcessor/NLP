@@ -1,0 +1,1 @@
+{"index": 35706, "D": "flattery intended to coax or cajole", "S": ["adulation ", "allurement ", "blarney ", "cajolery ", "coaxing ", "enticement ", "praise ", "sycophancy ", "wheedling "], "A": ["criticism "]}

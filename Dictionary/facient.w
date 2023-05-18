@@ -1,0 +1,1 @@
+{"index": 108987, "D": "a combining form meaning \u201ccausing\u201d or \u201cinducing\u201d that specified by the initial element", "S": [], "A": []}

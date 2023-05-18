@@ -1,0 +1,1 @@
+{"index": 159180, "D": "a line drawn on a map through all points having the same numerical value, as of a population figure or geographic measurement.", "S": [], "A": []}

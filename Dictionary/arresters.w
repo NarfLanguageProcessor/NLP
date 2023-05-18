@@ -1,0 +1,1 @@
+{"index": 20213, "D": "a person or thing that arrests. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 80144, "D": "minute shreds or ravelings of yarn; bits of thread.", "S": [], "A": []}

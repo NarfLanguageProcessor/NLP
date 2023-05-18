@@ -1,0 +1,1 @@
+{"index": 106605, "D": "liable to exception  or objection; objectionable.", "S": ["disagreeable ", "intolerable ", "obnoxious ", "offensive ", "unacceptable ", "undesirable ", "unpleasant ", "unwanted ", "unwelcome ", "upsetting "], "A": []}

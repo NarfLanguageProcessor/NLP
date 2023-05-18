@@ -1,0 +1,1 @@
+{"index": 82041, "D": "to remove government regulatory controls from (an industry, a commodity, etc.)", "S": [], "A": []}

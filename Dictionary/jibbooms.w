@@ -1,0 +1,1 @@
+{"index": 161161, "D": "a spar forming a continuation of a bowsprit.", "S": [], "A": []}

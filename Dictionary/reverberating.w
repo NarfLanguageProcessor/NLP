@@ -1,0 +1,1 @@
+{"index": 271204, "D": "to reecho or resound", "S": ["aureate ", "bombastic ", "booming ", "declamatory ", "flowery ", "full-voiced ", "fustian ", "grandiloquent ", "high-flown ", "loud ", "loud-voiced ", "magniloquent ", "orotund ", "overblown ", "powerful ", "resounding ", "rhetorical ", "rich ", "ringing ", "rotund ", "swollen ", "thundering "], "A": []}

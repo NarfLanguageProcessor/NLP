@@ -1,0 +1,1 @@
+{"index": 301522, "D": "to reject with disdain; scorn. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 24278, "D": "any organism that synthesizes its own food, as a photosynthetic plant.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 144178, "D": "an enlisted person working as a hospital  assistant; corpsman.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 296763, "D": "a person who maintains that faith alone, without the performance of good works, is all that is necessary for salvation.", "S": [], "A": []}

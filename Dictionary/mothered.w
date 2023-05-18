@@ -1,0 +1,1 @@
+{"index": 193937, "D": "a female parent.", "S": ["cradle ", "feed ", "keep an eye on ", "look after ", "nourish ", "take care of ", "vaccinate "], "A": ["starve ", "block ", "cease ", "condemn ", "destroy ", "discourage ", "disregard ", "halt ", "hinder ", "hurt ", "ignore ", "impede ", "injure ", "neglect ", "obstruct ", "refuse ", "stop "]}

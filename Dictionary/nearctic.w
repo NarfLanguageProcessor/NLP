@@ -1,0 +1,1 @@
+{"index": 197604, "D": "belonging or pertaining to a geographical division comprising temperate Greenland and Arctic North America, sometimes including high mountainous regions of the northern Temperate Zone.", "S": [], "A": []}

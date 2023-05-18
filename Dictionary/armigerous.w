@@ -1,0 +1,1 @@
+{"index": 19934, "D": "bearing or entitled to use a coat of arms.", "S": [], "A": []}

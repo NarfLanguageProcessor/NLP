@@ -1,0 +1,1 @@
+{"index": 366201, "D": "to finish first in a race, contest, or the like.", "S": [], "A": []}

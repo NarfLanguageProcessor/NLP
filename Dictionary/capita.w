@@ -1,0 +1,1 @@
+{"index": 46888, "D": "plural of caput. ", "S": [], "A": []}

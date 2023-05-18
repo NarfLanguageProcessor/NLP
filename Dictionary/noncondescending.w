@@ -1,0 +1,1 @@
+{"index": 202238, "D": "showing or implying a usually patronizing descent from dignity or superiority", "S": [], "A": []}

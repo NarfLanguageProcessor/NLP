@@ -1,0 +1,1 @@
+{"index": 159628, "D": "any plant belonging to the genus Yucca, of the agave family, native to the warmer regions of America, having pointed, usually rigid, sword-shaped leaves and clusters of white, waxy flowers", "S": [], "A": []}

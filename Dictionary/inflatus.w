@@ -1,0 +1,1 @@
+{"index": 152116, "D": [], "S": ["encouragement ", "enthusiasm ", "genius ", "incentive ", "influence ", "insight ", "motivation ", "revelation ", "vision "], "A": ["discouragement ", "depression ", "hindrance ", "reality ", "truth "]}

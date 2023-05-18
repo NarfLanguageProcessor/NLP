@@ -1,0 +1,1 @@
+{"index": 147183, "D": "the Jewish service for commemorating the dead, held on Yom Kippur, Shemini Atzereth, the second day of Shavuoth, and the last day of Passover.", "S": [], "A": []}

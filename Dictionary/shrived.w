@@ -1,0 +1,1 @@
+{"index": 289249, "D": "to impose penance on (a sinner).", "S": [], "A": []}

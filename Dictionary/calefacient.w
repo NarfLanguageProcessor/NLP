@@ -1,0 +1,1 @@
+{"index": 44994, "D": "a substance, as mustard, that produces a sensation of heat when applied to the body.", "S": [], "A": []}

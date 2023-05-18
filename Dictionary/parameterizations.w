@@ -1,0 +1,1 @@
+{"index": 225817, "D": "to describe (a phenomenon, problem, curve, surface, etc.) by the use of parameters. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 361881, "D": "of, relating to, or characteristic of Richard Wagner  or his works", "S": [], "A": []}

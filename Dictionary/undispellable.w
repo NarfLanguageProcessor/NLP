@@ -1,0 +1,1 @@
+{"index": 340560, "D": "to drive off in various directions; disperse; dissipate", "S": [], "A": []}

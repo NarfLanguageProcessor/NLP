@@ -1,0 +1,1 @@
+{"index": 312504, "D": "the act of remunerating. ", "S": [], "A": []}

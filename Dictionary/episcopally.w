@@ -1,0 +1,1 @@
+{"index": 102771, "D": "of or relating to a bishop", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 362351, "D": "a heavy cardigan jacket, loosely knit and belted.", "S": [], "A": []}

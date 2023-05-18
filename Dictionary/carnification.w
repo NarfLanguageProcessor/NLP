@@ -1,0 +1,1 @@
+{"index": 48237, "D": "the conversion of tissue into flesh or a fleshlike substance, as of lung tissue into fibrous tissue as a result of pneumonia.", "S": [], "A": []}

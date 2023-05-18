@@ -1,0 +1,1 @@
+{"index": 48078, "D": "conducive to the production or promotion of dental caries", "S": [], "A": []}

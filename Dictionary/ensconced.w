@@ -1,0 +1,1 @@
+{"index": 100963, "D": "settled securely or snugly", "S": ["covered ", "guaranteed ", "guarded ", "preserved ", "secured ", "sheltered "], "A": ["exposed "]}

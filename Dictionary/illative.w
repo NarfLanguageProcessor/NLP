@@ -1,0 +1,1 @@
+{"index": 147312, "D": "of, relating to, or expressing illation;  inferential", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 299536, "D": "an instrument for measuring the curvature of spheres and curved surfaces.", "S": [], "A": []}

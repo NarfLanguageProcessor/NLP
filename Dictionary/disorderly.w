@@ -1,0 +1,1 @@
+{"index": 88803, "D": "characterized by disorder;irregular; untidy; confused", "S": ["chaotic ", "disorganized ", "jumbled ", "undisciplined "], "A": ["ordered ", "organized ", "systematic "]}

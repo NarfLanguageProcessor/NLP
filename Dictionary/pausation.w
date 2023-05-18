@@ -1,0 +1,1 @@
+{"index": 228163, "D": [], "S": ["hiatus ", "intermission ", "interruption ", "layoff ", "lull ", "spell "], "A": ["continuation ", "closure "]}

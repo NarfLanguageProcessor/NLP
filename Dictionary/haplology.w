@@ -1,0 +1,1 @@
+{"index": 133480, "D": "the omission of one of two similar adjacent syllables or sounds in a word, as in substituting morphonemic for morphophonemic or in the pronunciation  [prob-lee]  /\u02c8pr\u0252b li/  for probably.", "S": [], "A": []}

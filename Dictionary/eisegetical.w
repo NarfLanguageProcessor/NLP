@@ -1,0 +1,1 @@
+{"index": 96563, "D": "an interpretation, especially of Scripture, that expresses the interpreter's own ideas, bias, or the like, rather than the meaning of the text.", "S": [], "A": []}

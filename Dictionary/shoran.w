@@ -1,0 +1,1 @@
+{"index": 288863, "D": "a system for aircraft navigation in which two signals sent from an aircraft are received and answered by two fixed transponders, the round-trip times of the signals enabling the navigator to determine the aircraft's position.", "S": [], "A": []}

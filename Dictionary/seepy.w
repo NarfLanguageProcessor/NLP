@@ -1,0 +1,1 @@
+{"index": 283154, "D": "(especially of ground, a plot of land, or the like) soaked or oozing with water; not drained.", "S": [], "A": []}

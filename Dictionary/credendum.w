@@ -1,0 +1,1 @@
+{"index": 72479, "D": "a doctrine that requires belief; article of faith.", "S": [], "A": []}

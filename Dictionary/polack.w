@@ -1,0 +1,1 @@
+{"index": 241451, "D": "a contemptuous term used to refer to a Pole or person of Polish descent.", "S": [], "A": []}

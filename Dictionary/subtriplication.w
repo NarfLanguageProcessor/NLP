@@ -1,0 +1,1 @@
+{"index": 309607, "D": "one of three identical items, especially copies of typewritten material.", "S": [], "A": []}

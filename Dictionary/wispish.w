@@ -1,0 +1,1 @@
+{"index": 366493, "D": "being a wisp  or in wisps;  wisplike", "S": [], "A": []}

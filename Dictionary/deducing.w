@@ -1,0 +1,1 @@
+{"index": 78930, "D": "to derive as a conclusion from something known or assumed; infer", "S": ["attentive ", "discerning ", "discriminating ", "intelligent ", "mindful ", "perceptive ", "vigilant "], "A": ["careless ", "heedless ", "inattentive ", "neglectful ", "negligent ", "unaware ", "undiscriminating "]}

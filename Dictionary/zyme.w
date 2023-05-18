@@ -1,0 +1,1 @@
+{"index": 369342, "D": "the specific principle regarded as the cause of a zymotic disease.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288398, "D": "the native religion of Japan, primarily a system of nature and ancestor worship.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 65163, "D": "the act or process of forming a general notion or idea", "S": [], "A": []}

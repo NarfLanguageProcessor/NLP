@@ -1,0 +1,1 @@
+{"index": 170916, "D": "a member of a people, the chief inhabitants of Latvia, living on or near the eastern coast of the Baltic Sea; Latvian. ", "S": [], "A": []}

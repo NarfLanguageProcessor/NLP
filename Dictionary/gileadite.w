@@ -1,0 +1,1 @@
+{"index": 124907, "D": "a member of a branch of the Israelite tribe descended from Manasseh.", "S": [], "A": []}

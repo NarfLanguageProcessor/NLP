@@ -1,0 +1,1 @@
+{"index": 145653, "D": "(in Chinese philosophy and religion) the positive, bright, and masculine principle, the counterpart of yin.", "S": [], "A": []}

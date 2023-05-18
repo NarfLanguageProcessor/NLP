@@ -1,0 +1,1 @@
+{"index": 176656, "D": "composed of or characterized by Latin words mixed with vernacular words or non-Latin words given Latin endings.", "S": [], "A": []}

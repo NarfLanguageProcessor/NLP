@@ -1,0 +1,1 @@
+{"index": 215542, "D": "outwardly appearing as such; professed; pretended", "S": ["avowed ", "plausible ", "professed ", "purported "], "A": ["improbable ", "obscure ", "unlikely ", "vague "]}

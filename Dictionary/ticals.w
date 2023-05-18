@@ -1,0 +1,1 @@
+{"index": 323190, "D": "a former silver coin and monetary unit of Siam, equal to 100 satang", "S": [], "A": []}

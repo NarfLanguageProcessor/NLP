@@ -1,0 +1,1 @@
+{"index": 324685, "D": "any of several tall composite plants of the genus Tithonia, native to Mexico and Central America, having yellow or orange-red ray flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 334690, "D": "without advice or counsel; uninformed", "S": ["ill-advised "], "A": ["advised ", "wise "]}

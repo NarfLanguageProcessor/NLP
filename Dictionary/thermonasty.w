@@ -1,0 +1,1 @@
+{"index": 321457, "D": "a nastic movement in response to a temperature change, as occurs in the opening of certain flowers", "S": [], "A": []}

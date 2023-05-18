@@ -1,0 +1,1 @@
+{"index": 158121, "D": "an establishment where iron is smelted or where it is cast or wrought.", "S": [], "A": []}

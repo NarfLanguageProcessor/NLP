@@ -1,0 +1,1 @@
+{"index": 21045, "D": "a necktie or scarf with broad ends, tied and arranged so that the ends are laid flat, one across the other, sometimes with a pin to secure them.", "S": ["band ", "neckerchief ", "overlay ", "scarf ", "tie "], "A": []}

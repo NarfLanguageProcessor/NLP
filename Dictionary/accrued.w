@@ -1,0 +1,1 @@
+{"index": 1790, "D": "added as a matter of periodic gain or advantage, as interest on money", "S": ["bequeathed ", "endowed ", "given ", "granted ", "inherited ", "transmitted "], "A": ["deprived ", "forfeited ", "lost "]}

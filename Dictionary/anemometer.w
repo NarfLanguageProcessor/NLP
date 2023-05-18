@@ -1,0 +1,1 @@
+{"index": 12517, "D": "any instrument for measuring the speed of wind.", "S": ["barometer ", "weather bureau "], "A": []}

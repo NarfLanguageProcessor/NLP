@@ -1,0 +1,1 @@
+{"index": 364101, "D": "to roll, toss, or heave, as waves or the sea.", "S": ["drop ", "go down "], "A": ["ascend ", "go up "]}

@@ -1,0 +1,1 @@
+{"index": 308935, "D": "one of the quarterings of a grand quarter. ", "S": [], "A": []}

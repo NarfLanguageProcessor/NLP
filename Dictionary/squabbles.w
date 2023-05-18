@@ -1,0 +1,1 @@
+{"index": 301595, "D": "to engage in a petty quarrel.", "S": ["altercation ", "bickering ", "controversy ", "difference ", "difference of opinion ", "disagreement ", "dispute ", "feud ", "flap ", "hassle ", "quarrel ", "spat ", "tiff ", "wrangle "], "A": ["accord ", "agreement ", "harmony ", "likeness ", "peace ", "sameness ", "similarity "]}

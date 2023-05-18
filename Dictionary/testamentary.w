@@ -1,0 +1,1 @@
+{"index": 319756, "D": "of, relating to, or of the nature of a testament  or will.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303687, "D": "pertaining to or containing a narrow slit or minute opening", "S": [], "A": []}

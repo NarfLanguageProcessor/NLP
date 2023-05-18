@@ -1,0 +1,1 @@
+{"index": 13978, "D": "preventing, neutralizing, or counteracting acidity, as of the stomach.", "S": ["salty ", "soluble "], "A": []}

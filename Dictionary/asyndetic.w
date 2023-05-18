@@ -1,0 +1,1 @@
+{"index": 21271, "D": "(of a catalogue or index) without cross references", "S": [], "A": []}

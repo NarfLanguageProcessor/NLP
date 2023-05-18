@@ -1,0 +1,1 @@
+{"index": 101398, "D": "to captivate or charm", "S": ["beguile ", "bewitch ", "enchant ", "enrapture ", "fascinate ", "hypnotize ", "intrigue ", "mesmerize ", "preoccupy ", "rivet ", "subdue "], "A": ["bore ", "disenchant ", "disgust ", "incite ", "repel ", "turn off ", "eject ", "free ", "let go ", "liberate ", "release ", "repulse "]}

@@ -1,0 +1,1 @@
+{"index": 317088, "D": "of, relating to, or resembling a bull.", "S": [], "A": []}

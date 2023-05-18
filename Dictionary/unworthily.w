@@ -1,0 +1,1 @@
+{"index": 354384, "D": "not worthy;  lacking worth or excellence.", "S": [], "A": []}

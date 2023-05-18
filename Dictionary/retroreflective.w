@@ -1,0 +1,1 @@
+{"index": 270894, "D": "of or relating to a surface, material, or device (retroreflector ) that reflects light or other radiation back to its source; reflective. ", "S": [], "A": []}

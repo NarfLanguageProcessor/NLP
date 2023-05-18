@@ -1,0 +1,1 @@
+{"index": 148212, "D": "the striking of one thing against another; forceful contact; collision", "S": ["jolt "], "A": ["compliment ", "lose ", "praise "]}

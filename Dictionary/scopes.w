@@ -1,0 +1,1 @@
+{"index": 281195, "D": "U.S. high school teacher whose teaching of the Darwinian theory of evolution became a cause c\u00e9l\u00e8bre (Scopes Trial,  or Monkey Trial ) in 1925.", "S": ["breadth ", "capacity ", "extension ", "opportunity ", "outlook ", "purview ", "sphere "], "A": ["extreme ", "imprisonment ", "incarceration ", "limitation ", "restraint ", "restriction "]}

@@ -1,0 +1,1 @@
+{"index": 90953, "D": "the study of the arrangement and statement of religious doctrines, especially of the doctrines received in and taught by the Christian church.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27983, "D": "to go to a succession of bars  or nightclubs, with a brief stay at each.", "S": [], "A": []}

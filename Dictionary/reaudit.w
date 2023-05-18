@@ -1,0 +1,1 @@
+{"index": 262150, "D": "an official examination and verification of accounts and records, especially of financial accounts.", "S": [], "A": []}

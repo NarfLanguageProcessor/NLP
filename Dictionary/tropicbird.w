@@ -1,0 +1,1 @@
+{"index": 331233, "D": "any of several web-footed seabirds of the family Phaethontidae, chiefly of tropical seas, having white plumage with black markings and a pair of greatly elongated central tail feathers.", "S": [], "A": []}

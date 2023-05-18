@@ -1,0 +1,1 @@
+{"index": 42020, "D": "any of several southern African citrus shrubs of the genus Agathosma or the genus Diosma, especially A. betulina, A. crenulata, or D. ericoides, whose leaves yield a dark-colored oil formerly used as a urinary antiseptic and mild diuretic.", "S": [], "A": []}

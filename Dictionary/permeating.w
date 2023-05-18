@@ -1,0 +1,1 @@
+{"index": 231592, "D": "to pass into or through every part of", "S": ["commanding ", "controlling ", "covering ", "holding ", "maintaining ", "obtaining ", "owning ", "pervading ", "placed ", "possessing ", "posted ", "remaining ", "residing ", "resting ", "sitting ", "situated ", "staying ", "tenanting "], "A": ["gone ", "leaving ", "removing "]}

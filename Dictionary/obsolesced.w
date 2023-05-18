@@ -1,0 +1,1 @@
+{"index": 210437, "D": "to be or become obsolescent. ", "S": ["retire ", "superannuate "], "A": []}

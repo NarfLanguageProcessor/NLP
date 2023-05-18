@@ -1,0 +1,1 @@
+{"index": 114685, "D": "a sudden or unexpected reversal, as of direction, belief, attitude, or policy.", "S": ["reversal "], "A": ["front ", "same "]}

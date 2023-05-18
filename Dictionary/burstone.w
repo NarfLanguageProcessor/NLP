@@ -1,0 +1,1 @@
+{"index": 43340, "D": "any of various siliceous rocks used for millstones.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82102, "D": "the act or fact of deriving  or of being derived. ", "S": [], "A": []}

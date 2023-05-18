@@ -1,0 +1,1 @@
+{"index": 29057, "D": "belonging or pertaining to the Batrachia, a former group comprising the amphibians, and sometimes restricted to the salientians.", "S": [], "A": []}

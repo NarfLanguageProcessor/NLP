@@ -1,0 +1,1 @@
+{"index": 14591, "D": "an instrument that consists of a calibrated, vertical rod to which are attached two horizontal arms, one fixed and one movable, for measuring the human trunk and limbs.", "S": [], "A": []}

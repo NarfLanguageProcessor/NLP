@@ -1,0 +1,1 @@
+{"index": 266728, "D": "to fall or slip back into a former state, practice, etc.", "S": ["recidivism ", "recurrence ", "regression ", "worsening "], "A": ["achievement ", "success "]}

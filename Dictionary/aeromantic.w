@@ -1,0 +1,1 @@
+{"index": 5058, "D": "the prediction of future events from observation of weather conditions.", "S": [], "A": []}

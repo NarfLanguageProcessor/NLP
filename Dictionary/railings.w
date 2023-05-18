@@ -1,0 +1,1 @@
+{"index": 260037, "D": "a fencelike barrier composed of one or more horizontal rails supported by widely spaced uprights; balustrade. ", "S": ["balustrade ", "banister ", "bar ", "barrier ", "fence ", "paling ", "rails ", "rest ", "siding "], "A": []}

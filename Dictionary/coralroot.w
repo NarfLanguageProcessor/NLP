@@ -1,0 +1,1 @@
+{"index": 68843, "D": "a saprophytic orchid of the genus Corallorhiza, of the Northern Hemisphere, having elongated clusters of small flowers on a leafless stem.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 287107, "D": "a dark figure or image cast on the ground or some surface by a body intercepting light.", "S": ["darkness ", "dusk ", "shade "], "A": ["brightness ", "light ", "daybreak "]}

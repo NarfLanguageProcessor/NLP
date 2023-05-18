@@ -1,0 +1,1 @@
+{"index": 307231, "D": "noting, pertaining to, or characteristic of an artesian well. ", "S": [], "A": []}

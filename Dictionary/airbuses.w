@@ -1,0 +1,1 @@
+{"index": 6863, "D": "a short-range or medium-range commercial passenger airplane, especially one that is part of a frequent shuttlelike service between two popular destinations.", "S": ["aircraft ", "airliner ", "cab ", "jet ", "plane ", "ship "], "A": []}

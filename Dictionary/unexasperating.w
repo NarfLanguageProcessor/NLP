@@ -1,0 +1,1 @@
+{"index": 341621, "D": "to irritate or provoke to a high degree; annoy extremely", "S": [], "A": []}

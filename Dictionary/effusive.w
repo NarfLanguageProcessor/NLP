@@ -1,0 +1,1 @@
+{"index": 96119, "D": "unduly demonstrative; lacking reserve", "S": ["demonstrative ", "ebullient ", "enthusiastic ", "expansive ", "extravagant ", "exuberant ", "lavish ", "talkative "], "A": ["apathetic ", "disinterested ", "economical ", "quiet ", "reserved ", "silent ", "uncommunicative ", "unenthusiastic ", "unexcited "]}

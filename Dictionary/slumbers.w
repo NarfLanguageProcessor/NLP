@@ -1,0 +1,1 @@
+{"index": 294570, "D": "to sleep, especially lightly; doze; drowse.", "S": ["coma ", "dormancy ", "stupor "], "A": ["consciousness ", "activity ", "energy "]}

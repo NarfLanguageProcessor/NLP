@@ -1,0 +1,1 @@
+{"index": 23397, "D": [], "S": ["alchemist ", "charmer ", "clairvoyant ", "conjurer ", "diviner ", "enchanter ", "magician ", "medium ", "necromancer ", "occultist ", "seer ", "shaman ", "soothsayer ", "sorceress ", "thaumaturge ", "warlock ", "witch "], "A": []}

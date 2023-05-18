@@ -1,0 +1,1 @@
+{"index": 90139, "D": "a form of poetic meter in which two trochees constitute one metrical unit.", "S": [], "A": []}

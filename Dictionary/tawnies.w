@@ -1,0 +1,1 @@
+{"index": 317254, "D": "of a dark yellowish or dull yellowish-brown color.", "S": ["brown ", "chestnut ", "copper ", "hazel ", "henna ", "russet ", "rust ", "titian "], "A": []}

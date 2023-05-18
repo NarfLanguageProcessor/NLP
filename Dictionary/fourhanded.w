@@ -1,0 +1,1 @@
+{"index": 117984, "D": "involving four hands or players, as a game at cards", "S": [], "A": []}

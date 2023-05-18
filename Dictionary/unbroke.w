@@ -1,0 +1,1 @@
+{"index": 336230, "D": "an obsolete variant of unbroken. ", "S": [], "A": []}

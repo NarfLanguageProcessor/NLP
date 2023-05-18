@@ -1,0 +1,1 @@
+{"index": 347937, "D": "a shaft or spindle cut with teeth engaging with a gear.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 157245, "D": "prohibiting violation; secure from destruction, violence, infringement, or desecration", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 13401, "D": "a tau (T-shaped) cross with a loop at the top, used as a symbol of generation or enduring life.", "S": [], "A": []}

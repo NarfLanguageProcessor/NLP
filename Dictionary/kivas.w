@@ -1,0 +1,1 @@
+{"index": 165276, "D": "a large chamber, often wholly or partly underground, in a Pueblo Indian village, used for religious ceremonies and other purposes.", "S": [], "A": []}

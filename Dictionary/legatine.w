@@ -1,0 +1,1 @@
+{"index": 170042, "D": "of, relating to, or authorized by a legate.", "S": [], "A": []}

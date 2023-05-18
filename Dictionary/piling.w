@@ -1,0 +1,1 @@
+{"index": 236655, "D": "a mass of building piles  considered collectively.", "S": ["girder ", "joist ", "pillar ", "plank ", "pole ", "shaft ", "sill ", "timber "], "A": []}

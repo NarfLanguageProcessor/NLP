@@ -1,0 +1,1 @@
+{"index": 232007, "D": "the deep penetration of a liquid into a highly porous solid, resulting in an intimate mixture.", "S": [], "A": []}

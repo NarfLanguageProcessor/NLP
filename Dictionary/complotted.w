@@ -1,0 +1,1 @@
+{"index": 64740, "D": "a plot involving several participants; conspiracy.", "S": ["cooperate ", "tend "], "A": ["divide ", "separate ", "withdraw "]}

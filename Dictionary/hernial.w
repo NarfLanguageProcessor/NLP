@@ -1,0 +1,1 @@
+{"index": 137203, "D": "the protrusion of an organ or tissue through an opening in its surrounding walls, especially in the abdominal region.", "S": [], "A": []}

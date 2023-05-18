@@ -1,0 +1,1 @@
+{"index": 53135, "D": "a person who chatters;  a chatterbox.", "S": ["babbler ", "blabber ", "blowhard ", "chatterbox ", "gasbag ", "gossiper ", "gossipmonger ", "jabberer ", "loudmouth ", "squealer ", "tattletale ", "windbag "], "A": []}

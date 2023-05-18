@@ -1,0 +1,1 @@
+{"index": 231566, "D": "(in Arctic or subarctic regions) perennially frozen subsoil.", "S": ["chunk ", "crystal ", "diamonds ", "floe ", "glacier ", "glaze ", "hail ", "hailstone ", "iceberg ", "icicle ", "sleet "], "A": ["water "]}

@@ -1,0 +1,1 @@
+{"index": 343472, "D": "physically or mentally disabled.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 325918, "D": "a heavy hammer with a steel or wooden head, used in shipbuilding.", "S": [], "A": []}

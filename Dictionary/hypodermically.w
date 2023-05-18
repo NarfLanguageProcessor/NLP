@@ -1,0 +1,1 @@
+{"index": 140905, "D": "characterized by the introduction of medicine or drugs under the skin", "S": [], "A": []}

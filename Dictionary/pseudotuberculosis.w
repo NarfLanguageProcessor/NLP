@@ -1,0 +1,1 @@
+{"index": 255208, "D": "an acute, sometimes fatal disease of rodents, birds, and other animals, including humans, caused by the bacterium Yersinia (Pasteurella) pseudotuberculosis, and characterized by the formation of nodules resembling those that result from tuberculosis.", "S": [], "A": []}

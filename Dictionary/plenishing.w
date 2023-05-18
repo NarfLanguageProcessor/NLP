@@ -1,0 +1,1 @@
+{"index": 239806, "D": "to fill up; stock; furnish.", "S": [], "A": []}

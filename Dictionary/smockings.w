@@ -1,0 +1,1 @@
+{"index": 294975, "D": "smocked  needlework.", "S": ["pleat "], "A": ["line "]}

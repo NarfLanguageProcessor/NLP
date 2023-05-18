@@ -1,0 +1,1 @@
+{"index": 29976, "D": "to dash  or spatter (something) all over", "S": [], "A": []}

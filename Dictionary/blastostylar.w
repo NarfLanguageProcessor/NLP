@@ -1,0 +1,1 @@
+{"index": 35854, "D": "the central rodlike portion of a gonangium, upon which buds that develop into medusae are formed.", "S": [], "A": []}

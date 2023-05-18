@@ -1,0 +1,1 @@
+{"index": 64450, "D": "having or showing compassion", "S": ["benevolent ", "charitable ", "humane ", "merciful ", "sympathetic ", "warm ", "warmhearted "], "A": ["cold ", "cool ", "cruel ", "inhumane ", "malevolent ", "mean ", "merciless ", "uncaring ", "unfeeling ", "unfriendly ", "unkind ", "unsympathetic ", "intolerant "]}

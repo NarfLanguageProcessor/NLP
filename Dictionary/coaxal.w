@@ -1,0 +1,1 @@
+{"index": 61157, "D": "having a common axis or coincident axes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308861, "D": "a subgroup of a statistical population", "S": [], "A": []}

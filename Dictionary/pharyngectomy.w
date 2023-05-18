@@ -1,0 +1,1 @@
+{"index": 233030, "D": "excision of part or all of the pharynx.", "S": [], "A": []}

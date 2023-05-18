@@ -1,0 +1,1 @@
+{"index": 116207, "D": "free to go or travel about; not confined by responsibilities", "S": ["easygoing ", "free and easy ", "go-as-you-please ", "loose ", "unattached ", "uncommitted ", "unengaged "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 66824, "D": "a person or party to whom something, usually merchandise, is consigned. ", "S": ["beneficiary ", "collector ", "payee "], "A": []}

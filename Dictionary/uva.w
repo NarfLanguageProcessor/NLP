@@ -1,0 +1,1 @@
+{"index": 356256, "D": "ultraviolet light with a relatively long wavelength, able to penetrate the deep layers of the skin.", "S": [], "A": []}

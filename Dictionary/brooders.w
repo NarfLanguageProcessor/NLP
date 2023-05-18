@@ -1,0 +1,1 @@
+{"index": 41491, "D": "a device or structure for the rearing of young chickens or other birds.", "S": ["observer "], "A": ["extrovert "]}

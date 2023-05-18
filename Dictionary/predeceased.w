@@ -1,0 +1,1 @@
+{"index": 246677, "D": "to die before (another person, the occurrence of an event, etc.).", "S": [], "A": []}

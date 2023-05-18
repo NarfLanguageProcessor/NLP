@@ -1,0 +1,1 @@
+{"index": 17079, "D": "of or relating to apnea,  a condition in which a person, either an infant or a sleeping adult, involuntarily and temporarily stops breathing", "S": [], "A": []}

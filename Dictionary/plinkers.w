@@ -1,0 +1,1 @@
+{"index": 240129, "D": "to shoot, as with a rifle, at targets selected at whim", "S": [], "A": []}

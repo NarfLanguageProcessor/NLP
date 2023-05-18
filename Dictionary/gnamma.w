@@ -1,0 +1,1 @@
+{"index": 127009, "D": "a hollow in bare rock, narrow at the opening and wider at the bottom, in which water collects.", "S": [], "A": []}

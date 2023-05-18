@@ -1,0 +1,1 @@
+{"index": 332777, "D": "the aromatic rhizome of an Asian plant, Curcuma domestica (or C. longa), of the ginger family.", "S": [], "A": []}

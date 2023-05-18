@@ -1,0 +1,1 @@
+{"index": 215330, "D": "open systems interconnection; an international standardization model to facilitate communications among computers with different protocols", "S": [], "A": []}

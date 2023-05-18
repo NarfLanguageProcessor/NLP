@@ -1,0 +1,1 @@
+{"index": 70417, "D": "a pin, wedge, key, or the like, fitted or driven into an opening to secure something or hold parts together.", "S": ["chunk "], "A": ["whole "]}

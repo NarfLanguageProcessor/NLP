@@ -1,0 +1,1 @@
+{"index": 192585, "D": "to acquire, have, or exercise a monopoly  of.", "S": ["absorb ", "exclude ", "possess ", "take over ", "utilize "], "A": ["abstain ", "fail ", "ignore ", "lack ", "let go ", "lose ", "need ", "reject ", "release "]}

@@ -1,0 +1,1 @@
+{"index": 334703, "D": "pleasantly easy to approach and to talk to; friendly; cordial;  warmly polite", "S": ["discreet ", "laid-back ", "mild ", "muted ", "reasonable ", "reticent ", "subdued ", "tasteful ", "unobtrusive "], "A": ["communicative ", "extroverted ", "friendly ", "outgoing "]}

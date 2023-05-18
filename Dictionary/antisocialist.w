@@ -1,0 +1,1 @@
+{"index": 16216, "D": "a person who opposes socialism.", "S": [], "A": []}

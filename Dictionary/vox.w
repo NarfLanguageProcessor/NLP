@@ -1,0 +1,1 @@
+{"index": 361482, "D": "a device in certain types of telecommunications equipment, as telephone answering machines, that converts an incoming voice or sound signal into an electrical signal that turns on a transmitter or recorder that continues to operate as long as the incoming signal is maintained.", "S": [], "A": []}

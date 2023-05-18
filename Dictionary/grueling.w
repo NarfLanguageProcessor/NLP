@@ -1,0 +1,1 @@
+{"index": 130500, "D": "exhausting; very tiring; arduously severe", "S": ["arduous ", "backbreaking ", "brutal ", "demanding ", "excruciating ", "exhausting ", "fierce ", "laborious ", "punishing ", "strenuous ", "tiring ", "torturous ", "trying "], "A": ["easy ", "effortless ", "facile ", "gentle ", "kind ", "trivial "]}

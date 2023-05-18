@@ -1,0 +1,1 @@
+{"index": 298150, "D": "having no limits or dimensions in space;  limitless; unbounded.", "S": [], "A": []}

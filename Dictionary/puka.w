@@ -1,0 +1,1 @@
+{"index": 256176, "D": "a small white shell found on Pacific, especially Hawaiian, beaches and strung in clusters to make necklaces.", "S": [], "A": []}

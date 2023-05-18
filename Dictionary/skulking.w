@@ -1,0 +1,1 @@
+{"index": 293489, "D": "to lie or keep in hiding, as for some evil reason", "S": ["dragging "], "A": ["standing ", "upright ", "vertical "]}

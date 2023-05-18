@@ -1,0 +1,1 @@
+{"index": 330179, "D": "having three nodes or joints.", "S": [], "A": []}

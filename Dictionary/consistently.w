@@ -1,0 +1,1 @@
+{"index": 66859, "D": "with no or very few exceptions; typically; usually", "S": ["always ", "constantly ", "frequently ", "normally ", "persistently ", "regularly ", "routinely ", "steadily ", "typically "], "A": ["never "]}

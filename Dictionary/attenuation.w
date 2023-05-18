@@ -1,0 +1,1 @@
+{"index": 23041, "D": "the act of attenuating  or the state of being attenuated. ", "S": ["depletion ", "devitalization ", "enfeeblement ", "exhaustion ", "fading ", "impoverishment ", "weakening ", "weakness "], "A": []}

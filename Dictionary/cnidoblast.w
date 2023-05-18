@@ -1,0 +1,1 @@
+{"index": 60783, "D": "the cell within which a nematocyst is developed.", "S": [], "A": []}

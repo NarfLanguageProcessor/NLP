@@ -1,0 +1,1 @@
+{"index": 81753, "D": "demeanor; conduct; behavior.", "S": ["actions ", "address ", "air ", "appearance ", "aspect ", "bearing ", "behavior ", "cast ", "comportment ", "conduct ", "demeanor ", "mien ", "port ", "posture ", "set ", "stance "], "A": []}

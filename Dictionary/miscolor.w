@@ -1,0 +1,1 @@
+{"index": 188948, "D": "to give a wrong color  to.", "S": ["distort ", "gloss over ", "mislead ", "misstate "], "A": ["disclose ", "divulge ", "expose ", "lay bare ", "let out ", "open ", "represent ", "reveal ", "show ", "straighten ", "tell ", "uncover ", "unmask "]}

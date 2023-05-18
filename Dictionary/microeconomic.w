@@ -1,0 +1,1 @@
+{"index": 186097, "D": "the branch of economics  dealing with particular aspects of an economy, as the price-cost relationship of a firm.", "S": [], "A": []}

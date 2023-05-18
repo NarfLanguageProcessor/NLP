@@ -1,0 +1,1 @@
+{"index": 308638, "D": "a central part about which other parts are grouped or gathered; core", "S": [], "A": []}

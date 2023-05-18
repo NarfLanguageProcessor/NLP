@@ -1,0 +1,1 @@
+{"index": 201113, "D": "attaching or staying attached; sticking, or causing something to stick, to something else", "S": ["independent ", "individualistic ", "marching to the beat of a different drummer ", "noncompliant ", "one's own sweet way ", "radical ", "unorthodox "], "A": []}

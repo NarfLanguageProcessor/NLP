@@ -1,0 +1,1 @@
+{"index": 92955, "D": "to wet thoroughly; soak.", "S": ["disheveled ", "run down ", "seedy ", "threadbare ", "untidy "], "A": ["fresh ", "neat ", "orderly ", "tidy ", "clean "]}

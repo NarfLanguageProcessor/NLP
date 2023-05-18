@@ -1,0 +1,1 @@
+{"index": 15300, "D": "any substance, as a protein, carbohydrate, etc., that, on entering the body, can stimulate an immune response and combine with a specific antibody or T cell receptor having a matching molecular structure.", "S": [], "A": []}

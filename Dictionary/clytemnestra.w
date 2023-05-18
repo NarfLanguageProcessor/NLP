@@ -1,0 +1,1 @@
+{"index": 60195, "D": "the daughter of Tyndareus and Leda, the wife of Agamemnon, and the mother of Orestes, Electra, and Iphigenia. She killed Agamemnon and was herself killed, along with her lover, Aegisthus, by Orestes.", "S": [], "A": []}

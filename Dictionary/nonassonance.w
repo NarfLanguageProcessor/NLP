@@ -1,0 +1,1 @@
+{"index": 201523, "D": "resemblance of sounds.", "S": [], "A": []}

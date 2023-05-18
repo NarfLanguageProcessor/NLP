@@ -1,0 +1,1 @@
+{"index": 184366, "D": "pertaining to meteorological phenomena, such as wind circulation and cloud patterns, that are about 1\u2013100 km (0.6\u201360 miles) in horizontal extent.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 155814, "D": "a printed punctuation mark (\u203d), available only in some typefaces, designed to combine the question mark (?) and the exclamation point (!), indicating a mixture of query and interjection, as after a rhetorical question.", "S": [], "A": []}

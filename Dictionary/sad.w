@@ -1,0 +1,1 @@
+{"index": 276441, "D": "affected by unhappiness or grief; sorrowful or mournful", "S": ["bitter ", "dismal ", "heartbroken ", "melancholy ", "mournful ", "pessimistic ", "somber ", "sorrowful ", "sorry ", "unhappy ", "wistful "], "A": ["cheerful ", "glad ", "happy ", "hopeful ", "joyful "]}

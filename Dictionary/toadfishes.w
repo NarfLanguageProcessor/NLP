@@ -1,0 +1,1 @@
+{"index": 324870, "D": "any of several thick-headed, wide-mouthed fishes of the family Batrachoididae, as Opsanus tau(oyster toadfish,  or ugly toad ), ranging along the Atlantic coast of the United States.", "S": [], "A": []}

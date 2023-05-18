@@ -1,0 +1,1 @@
+{"index": 201608, "D": "an institution that is not a bank  but engages in certain banking  practices, as lending money or holding deposits.", "S": [], "A": []}

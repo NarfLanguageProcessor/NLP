@@ -1,0 +1,1 @@
+{"index": 321541, "D": "treatment of disease by means of moist or dry heat.", "S": [], "A": []}

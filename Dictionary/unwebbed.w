@@ -1,0 +1,1 @@
+{"index": 354126, "D": "having the fingers or toes connected by a web  or membrane", "S": [], "A": []}

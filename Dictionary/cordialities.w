@@ -1,0 +1,1 @@
+{"index": 68924, "D": "cordial  quality or feeling.", "S": ["reciprocity ", "sincerity "], "A": ["disapproval ", "disfavor "]}

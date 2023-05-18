@@ -1,0 +1,1 @@
+{"index": 9034, "D": "any of various many-seeded plants, as the goosefoot, Chenopodium polyspermum, and the knotgrass, Polygonum aviculare.", "S": [], "A": []}

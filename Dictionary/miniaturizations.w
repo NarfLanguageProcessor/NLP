@@ -1,0 +1,1 @@
+{"index": 187826, "D": "to make in extremely small size in order to keep volume or weight to a minimum", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 210410, "D": "having an obsession  (usually followed by with or by)", "S": ["captivated ", "dominated ", "haunted ", "preoccupied ", "troubled "], "A": ["disenchanted "]}

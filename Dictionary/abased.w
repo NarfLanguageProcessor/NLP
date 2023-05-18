@@ -1,0 +1,1 @@
+{"index": 114, "D": "reduced or lowered, as in status, office, dignity, or estimation; humbled; degraded", "S": ["boorish ", "depraved ", "evil ", "nefarious ", "rotten "], "A": ["decent ", "good ", "honest ", "honorable ", "moral ", "uncorrupt ", "upright ", "virtuous "]}

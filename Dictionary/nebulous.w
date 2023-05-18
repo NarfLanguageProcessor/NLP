@@ -1,0 +1,1 @@
+{"index": 197701, "D": "hazy, vague, indistinct, or confused", "S": ["ambiguous ", "amorphous ", "hazy ", "imprecise ", "murky ", "shadowy ", "vague "], "A": ["bright ", "certain ", "clear ", "definite ", "distinct ", "sure "]}

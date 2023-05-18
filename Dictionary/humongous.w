@@ -1,0 +1,1 @@
+{"index": 145032, "D": "extraordinarily large.", "S": ["colossal ", "elephantine ", "enormous ", "gargantuan ", "ginormous ", "humungous ", "immense "], "A": ["small ", "tiny "]}

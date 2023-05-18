@@ -1,0 +1,1 @@
+{"index": 273621, "D": "rough, rude, or boisterous.", "S": ["booming ", "hearty ", "hefty ", "potent ", "powerful ", "prosperous ", "sturdy ", "tough ", "vigorous "], "A": ["fragile ", "impotent ", "incapable ", "ineffective ", "lethargic ", "small ", "unstable ", "weak ", "wobbly "]}

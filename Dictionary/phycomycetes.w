@@ -1,0 +1,1 @@
+{"index": 233509, "D": "any of various fungi that resemble algae, as downy mildew.", "S": [], "A": []}

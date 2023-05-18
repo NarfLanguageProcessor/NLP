@@ -1,0 +1,1 @@
+{"index": 364019, "D": "chosen with care, as for suitability or preciseness", "S": ["enhancing ", "fair ", "welcome "], "A": ["improper ", "inappropriate ", "indecorous ", "tasteless ", "ugly ", "unattractive ", "unbecoming ", "unfitting ", "unseemly ", "unsuitable "]}

@@ -1,0 +1,1 @@
+{"index": 252014, "D": "an operator of a motion-picture or slide projector. ", "S": [], "A": []}

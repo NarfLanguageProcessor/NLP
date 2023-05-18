@@ -1,0 +1,1 @@
+{"index": 322414, "D": "a sharp excrescence on a plant, especially a sharp-pointed aborted branch; spine; prickle.", "S": [], "A": []}

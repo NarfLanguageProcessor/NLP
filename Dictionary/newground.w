@@ -1,0 +1,1 @@
+{"index": 199399, "D": "a tract of land recently cleared for cultivation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 8217, "D": "to make indifferent or hostile", "S": ["disruptive "], "A": []}

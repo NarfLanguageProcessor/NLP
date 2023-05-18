@@ -1,0 +1,1 @@
+{"index": 248744, "D": "a proceeding, measure, or provision by which one prepares for something", "S": ["preparatory measures "], "A": []}

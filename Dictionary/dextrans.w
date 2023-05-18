@@ -1,0 +1,1 @@
+{"index": 83809, "D": "a viscous polysaccharide, composed of dextrose, produced by bacterial action on sucrose", "S": [], "A": []}

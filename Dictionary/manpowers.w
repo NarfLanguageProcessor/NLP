@@ -1,0 +1,1 @@
+{"index": 179488, "D": "power  in terms of people available or required for work or military service", "S": ["workers "], "A": []}

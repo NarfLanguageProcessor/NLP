@@ -1,0 +1,1 @@
+{"index": 68069, "D": "an airplane  capable of both vertical flight like a helicopter and fast, forward speed like a conventional airplane.", "S": [], "A": []}

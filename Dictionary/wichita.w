@@ -1,0 +1,1 @@
+{"index": 365438, "D": "a member of a tribe of North American Indians, originally of Kansas but relocated in Oklahoma after the Civil War.", "S": [], "A": []}

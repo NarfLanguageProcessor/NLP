@@ -1,0 +1,1 @@
+{"index": 192249, "D": "of or relating to monody.", "S": [], "A": []}

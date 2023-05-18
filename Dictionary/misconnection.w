@@ -1,0 +1,1 @@
+{"index": 188996, "D": "the act or state of connecting. ", "S": [], "A": []}

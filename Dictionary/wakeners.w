@@ -1,0 +1,1 @@
+{"index": 362132, "D": "to rouse from sleep; wake; awake; awaken.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 159291, "D": "a line drawn on a diagram of a vertical section of the ocean connecting all points having equal temperature.", "S": [], "A": []}

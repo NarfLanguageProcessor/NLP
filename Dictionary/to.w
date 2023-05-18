@@ -1,0 +1,1 @@
+{"index": 324859, "D": "(used for expressing motion or direction toward a point, person, place, or thing approached and reached, as opposed to from)", "S": ["directed toward ", "facing ", "into ", "through ", "toward ", "via "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 66722, "D": "majority of opinion", "S": ["accord ", "consent ", "harmony ", "unanimity ", "unity "], "A": ["denial ", "disagreement ", "dissension ", "opposition ", "refusal ", "discord "]}

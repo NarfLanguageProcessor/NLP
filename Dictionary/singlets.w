@@ -1,0 +1,1 @@
+{"index": 291725, "D": "a sleeveless athletic jersey, especially a loose-fitting top worn by runners, joggers, etc.", "S": [], "A": []}

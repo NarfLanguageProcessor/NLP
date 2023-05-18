@@ -1,0 +1,1 @@
+{"index": 25007, "D": "filled with awe.", "S": ["agog ", "amazed ", "anxious ", "appalled ", "dismayed ", "shocked ", "stunned "], "A": ["unsurprised "]}

@@ -1,0 +1,1 @@
+{"index": 159660, "D": "a Japanese dressing gown or lounging robe of soft, lightweight cotton.", "S": ["kimono ", "smock "], "A": []}

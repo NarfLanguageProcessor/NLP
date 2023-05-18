@@ -1,0 +1,1 @@
+{"index": 154114, "D": "a person who takes out an insurance policy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 71810, "D": "sideways", "S": ["oblique "], "A": ["centered ", "central "]}

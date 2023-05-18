@@ -1,0 +1,1 @@
+{"index": 222076, "D": [], "S": ["desolate ", "dilapidated ", "dingy ", "neglected ", "ruined ", "run down ", "seedy ", "shabby "], "A": ["good ", "nice ", "used "]}

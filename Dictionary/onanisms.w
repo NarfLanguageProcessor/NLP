@@ -1,0 +1,1 @@
+{"index": 212655, "D": "withdrawal of the penis in sexual intercourse so that ejaculation takes place outside the vagina; coitus interruptus. ", "S": [], "A": []}

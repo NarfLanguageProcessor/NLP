@@ -1,0 +1,1 @@
+{"index": 203820, "D": "able to make atonement or expiation; offered by way of expiation", "S": [], "A": []}

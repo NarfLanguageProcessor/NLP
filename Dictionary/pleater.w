@@ -1,0 +1,1 @@
+{"index": 239657, "D": "an attachment on a sewing machine that makes pleats", "S": [], "A": []}

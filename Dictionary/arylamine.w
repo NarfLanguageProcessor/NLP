@@ -1,0 +1,1 @@
+{"index": 19693, "D": "any of a group of amines in which one or more of the hydrogen atoms of ammonia are replaced by aromatic groups.", "S": [], "A": []}

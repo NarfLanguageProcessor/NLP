@@ -1,0 +1,1 @@
+{"index": 240057, "D": "to work with or at diligently; employ busily; use", "S": ["dispense ", "employ ", "exercise ", "exert ", "follow ", "function ", "handle ", "maneuver ", "manipulate ", "practice ", "pursue ", "swing ", "throw ", "utilize ", "wield "], "A": ["disregard ", "ignore ", "leave alone ", "misuse ", "neglect ", "receive ", "shun ", "stop "]}

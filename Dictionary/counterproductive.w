@@ -1,0 +1,1 @@
+{"index": 71003, "D": "thwarting the achievement of an intended goal; tending to defeat one's purpose", "S": ["checking ", "counter to ", "countering ", "interfering ", "opposite "], "A": []}

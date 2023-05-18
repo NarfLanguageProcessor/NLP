@@ -1,0 +1,1 @@
+{"index": 13666, "D": "by the year; yearly.", "S": [], "A": []}

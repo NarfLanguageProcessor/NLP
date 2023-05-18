@@ -1,0 +1,1 @@
+{"index": 29418, "D": "one of a breed of small hounds having long ears, short legs, and a usually black, tan, and white coat.", "S": ["afghan ", "airedale ", "basset ", "canine ", "dachshund ", "mongrel ", "mutt ", "pointer ", "pooch ", "poodle ", "retriever "], "A": []}

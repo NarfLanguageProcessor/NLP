@@ -1,0 +1,1 @@
+{"index": 241061, "D": "any of various coniferous evergreen trees of the genus Podocarpus, of tropical and semitropical regions, especially P. macrophyllus, which is cultivated as an ornamental.", "S": [], "A": []}

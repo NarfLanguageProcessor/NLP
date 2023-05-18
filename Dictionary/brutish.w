@@ -1,0 +1,1 @@
+{"index": 41886, "D": "brutal; cruel.", "S": ["bodily ", "natural "], "A": ["gentle ", "mild "]}

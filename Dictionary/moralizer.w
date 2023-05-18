@@ -1,0 +1,1 @@
+{"index": 193291, "D": "to reflect on or express opinions about something in terms of right and wrong, especially in a self-righteous or tiresome way.", "S": [], "A": []}

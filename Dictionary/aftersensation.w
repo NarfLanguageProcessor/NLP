@@ -1,0 +1,1 @@
+{"index": 5748, "D": "an afterimage.", "S": [], "A": []}

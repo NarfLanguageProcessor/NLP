@@ -1,0 +1,1 @@
+{"index": 15976, "D": "an elementary particle having negative charge equal in magnitude to that of the electron and having the same mass and spin as a proton;  the antiparticle of the proton. ", "S": [], "A": []}

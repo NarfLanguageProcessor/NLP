@@ -1,0 +1,1 @@
+{"index": 39268, "D": "a game played between two players on two adjoining squares or sections of a sidewalk or a playground, in which a ball is hit back and forth between the players, each defending a square, the object being to prevent a fair ball  from bouncing twice before hitting it back into the opponent's square.", "S": [], "A": []}

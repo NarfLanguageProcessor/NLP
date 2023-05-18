@@ -1,0 +1,1 @@
+{"index": 243521, "D": "a dark red, photosensitive pigment consisting of four pyrrole rings linked by single carbon atoms", "S": [], "A": []}

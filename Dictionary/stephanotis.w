@@ -1,0 +1,1 @@
+{"index": 303774, "D": "any vine belonging to the genus Stephanotis, of the milkweed family, having fragrant, waxy, white flowers and leathery leaves.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227644, "D": "a person or official agency that grants patents. ", "S": [], "A": []}

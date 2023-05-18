@@ -1,0 +1,1 @@
+{"index": 151405, "D": "any of several structures having a netlike or skirtlike shape, as the membranous overgrowth covering the sori in ferns.", "S": [], "A": []}

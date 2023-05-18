@@ -1,0 +1,1 @@
+{"index": 253127, "D": "favoring slavery. ", "S": [], "A": []}

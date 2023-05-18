@@ -1,0 +1,1 @@
+{"index": 66816, "D": "to hand over or deliver formally or officially; commit (often followed by to).", "S": ["assign ", "relegate ", "turn over "], "A": ["keep ", "cease ", "conceal ", "hold ", "maintain ", "receive ", "refrain ", "reject ", "retain ", "stop ", "suppress ", "take ", "withhold "]}

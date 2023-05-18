@@ -1,0 +1,1 @@
+{"index": 157247, "D": "free from violation, injury, desecration, or outrage.", "S": ["clean ", "decent ", "fresh ", "good ", "honest ", "true "], "A": ["dishonest ", "evil ", "false ", "fraudulent ", "unreal ", "unsuitable ", "untrustworthy ", "unvirtuous "]}

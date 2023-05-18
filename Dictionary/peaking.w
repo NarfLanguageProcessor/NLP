@@ -1,0 +1,1 @@
+{"index": 228415, "D": "the pointed top of a mountain or ridge.", "S": ["climax ", "crest ", "culminate "], "A": ["fall ", "hit bottom ", "plunge "]}

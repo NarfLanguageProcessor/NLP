@@ -1,0 +1,1 @@
+{"index": 279380, "D": "an arrangement of scales,  as on a fish.", "S": [], "A": []}

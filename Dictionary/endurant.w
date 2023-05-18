@@ -1,0 +1,1 @@
+{"index": 100096, "D": "capable of enduring  hardship, misfortune, or the like.", "S": [], "A": []}

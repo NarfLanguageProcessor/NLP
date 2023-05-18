@@ -1,0 +1,1 @@
+{"index": 62459, "D": "to wind into continuous, regularly spaced rings one above the other", "S": [], "A": []}

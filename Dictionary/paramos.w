@@ -1,0 +1,1 @@
+{"index": 225861, "D": "a high, cold plateau of South America.", "S": [], "A": []}

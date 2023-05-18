@@ -1,0 +1,1 @@
+{"index": 153025, "D": [], "S": ["close ", "constitutional ", "essential ", "familiar ", "focal ", "inherent ", "inside ", "interior ", "internal ", "intestinal ", "intimate ", "intrinsic ", "inward ", "nuclear "], "A": ["exterior ", "external ", "outer ", "outside ", "physical "]}

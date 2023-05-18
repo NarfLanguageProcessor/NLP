@@ -1,0 +1,1 @@
+{"index": 218298, "D": "to have the balance staff oscillate so greatly that the fork of the lever fails to engage, rendering the escapement inoperative.", "S": [], "A": []}

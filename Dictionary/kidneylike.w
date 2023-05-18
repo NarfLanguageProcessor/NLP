@@ -1,0 +1,1 @@
+{"index": 164491, "D": "either of a pair of bean-shaped organs in the back part of the abdominal cavity that form and excrete urine, regulate fluid and electrolyte balance, and act as endocrine glands.", "S": [], "A": []}

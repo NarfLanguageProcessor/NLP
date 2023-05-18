@@ -1,0 +1,1 @@
+{"index": 136769, "D": "a polygon having seven angles and seven sides.", "S": [], "A": []}

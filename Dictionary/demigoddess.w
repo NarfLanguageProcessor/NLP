@@ -1,0 +1,1 @@
+{"index": 80525, "D": "a female mythological being who is partly divine and partly human.", "S": ["divinity ", "idol ", "immortal "], "A": []}

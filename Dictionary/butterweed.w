@@ -1,0 +1,1 @@
+{"index": 43716, "D": "any wild plant having conspicuously yellow flowers or leaves.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293804, "D": "a person who is the property of and wholly subject to another and forced to provide unpaid labor.", "S": ["active ", "unavailable ", "working "], "A": ["idle ", "inactive ", "unoccupied "]}

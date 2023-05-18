@@ -1,0 +1,1 @@
+{"index": 29491, "D": "a close-fitting knit cap worn in cold weather.", "S": ["beret "], "A": []}

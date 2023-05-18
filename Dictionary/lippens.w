@@ -1,0 +1,1 @@
+{"index": 173240, "D": "to trust (a person).", "S": [], "A": []}

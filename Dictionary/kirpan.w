@@ -1,0 +1,1 @@
+{"index": 165092, "D": "a small dagger worn by orthodox Sikhs.", "S": [], "A": []}

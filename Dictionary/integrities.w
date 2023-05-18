@@ -1,0 +1,1 @@
+{"index": 154245, "D": "adherence to moral and ethical principles; soundness of moral character; honesty.", "S": ["honesty ", "principle ", "probity ", "purity ", "rectitude ", "sincerity ", "virtue "], "A": ["deceit ", "dishonesty "]}

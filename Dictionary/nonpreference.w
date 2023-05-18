@@ -1,0 +1,1 @@
+{"index": 206117, "D": "the act of preferring. ", "S": [], "A": []}

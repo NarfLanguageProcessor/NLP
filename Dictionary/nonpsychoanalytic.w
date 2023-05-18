@@ -1,0 +1,1 @@
+{"index": 206357, "D": "involving or using psychoanalysis,  a system of theories concerning the relationship between conscious and unconscious psychological processes", "S": [], "A": []}

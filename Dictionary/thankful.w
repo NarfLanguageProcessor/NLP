@@ -1,0 +1,1 @@
+{"index": 320606, "D": "feeling or expressing gratitude; appreciative. ", "S": ["contented ", "grateful ", "indebted ", "overwhelmed ", "pleased ", "relieved ", "satisfied "], "A": ["critical ", "thankless ", "unappreciative ", "ungrateful ", "unthankful "]}

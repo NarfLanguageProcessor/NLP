@@ -1,0 +1,1 @@
+{"index": 250016, "D": "of or relating to tradition. ", "S": [], "A": []}

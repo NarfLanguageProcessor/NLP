@@ -1,0 +1,1 @@
+{"index": 34490, "D": "living matter; protoplasm", "S": [], "A": []}

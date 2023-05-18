@@ -1,0 +1,1 @@
+{"index": 111482, "D": "conveyance or transportation by a ferryboat.", "S": [], "A": []}

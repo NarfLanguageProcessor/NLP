@@ -1,0 +1,1 @@
+{"index": 177456, "D": "the first Mesolithic culture of N Europe, dating from 8000 bc to about 5000 bc ", "S": [], "A": []}

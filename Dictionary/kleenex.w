@@ -1,0 +1,1 @@
+{"index": 165322, "D": "a brand name for a soft, disposable paper tissue, used especially as a handkerchief.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 234674, "D": "an instrument that amplifies small sounds, esp within the human body", "S": [], "A": []}

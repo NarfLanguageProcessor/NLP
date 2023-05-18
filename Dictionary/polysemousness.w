@@ -1,0 +1,1 @@
+{"index": 242384, "D": [], "S": ["doubt ", "uncertainty ", "vagueness "], "A": ["certainty "]}

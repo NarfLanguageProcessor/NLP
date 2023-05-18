@@ -1,0 +1,1 @@
+{"index": 288134, "D": "a ditch or trough", "S": [], "A": []}

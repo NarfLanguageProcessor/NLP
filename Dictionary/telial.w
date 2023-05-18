@@ -1,0 +1,1 @@
+{"index": 318340, "D": "the cluster of spore cases of the rust and smut fungi, bearing teliospores.", "S": [], "A": []}

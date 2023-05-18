@@ -1,0 +1,1 @@
+{"index": 322154, "D": "any condition resulting from abnormal functioning of the thyroid gland. ", "S": [], "A": []}

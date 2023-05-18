@@ -1,0 +1,1 @@
+{"index": 227315, "D": "to move past; go by", "S": ["canyon ", "cut ", "gap ", "gorge ", "passage ", "passageway ", "path ", "ravine "], "A": []}

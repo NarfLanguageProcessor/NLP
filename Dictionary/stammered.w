@@ -1,0 +1,1 @@
+{"index": 302593, "D": "to speak with involuntary breaks and pauses, or with spasmodic repetitions of syllables or sounds.", "S": ["sputter ", "wobble "], "A": ["carry on ", "continue ", "go ", "persist "]}

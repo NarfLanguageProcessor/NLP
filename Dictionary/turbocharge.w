@@ -1,0 +1,1 @@
+{"index": 332616, "D": "to equip (an internal-combustion engine) with a turbocharger.", "S": [], "A": []}

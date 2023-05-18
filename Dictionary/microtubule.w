@@ -1,0 +1,1 @@
+{"index": 186610, "D": "a hollow cylindrical structure in the cytoplasm of most cells, involved in intracellular shape and transport.", "S": [], "A": []}

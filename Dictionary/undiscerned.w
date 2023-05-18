@@ -1,0 +1,1 @@
+{"index": 340444, "D": "to perceive by the sight or some other sense or by the intellect; see, recognize, or apprehend", "S": [], "A": []}

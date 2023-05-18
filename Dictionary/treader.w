@@ -1,0 +1,1 @@
+{"index": 328667, "D": "to set down the foot or feet in walking; step; walk.", "S": [], "A": []}

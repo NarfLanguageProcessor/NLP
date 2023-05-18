@@ -1,0 +1,1 @@
+{"index": 256656, "D": "of or relating to the ancient Carthaginians.", "S": [], "A": []}

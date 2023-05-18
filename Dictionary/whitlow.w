@@ -1,0 +1,1 @@
+{"index": 365222, "D": "an inflammation of the deeper tissues of a finger or toe, especially of the terminal phalanx, usually producing suppuration.", "S": [], "A": []}

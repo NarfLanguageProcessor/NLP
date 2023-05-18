@@ -1,0 +1,1 @@
+{"index": 152329, "D": "of or relating to a subdivision of a species, as a subspecies, variety, or cultivar.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 93354, "D": "an electric or gas lamp suspended from the ceiling or wall by a flexible cord or tube.", "S": [], "A": []}

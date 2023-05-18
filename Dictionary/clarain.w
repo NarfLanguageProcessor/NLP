@@ -1,0 +1,1 @@
+{"index": 59281, "D": "the coal forming the bright layers in banded bituminous coal.", "S": [], "A": []}

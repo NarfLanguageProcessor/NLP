@@ -1,0 +1,1 @@
+{"index": 35532, "D": "an infectious, often fatal disease of cattle and sheep, caused by the soil bacterium Clostridium chauvoei and characterized by painful, gaseous swellings in the muscles, usually of the upper parts of the legs.", "S": [], "A": []}

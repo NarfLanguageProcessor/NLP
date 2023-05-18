@@ -1,0 +1,1 @@
+{"index": 270356, "D": "to tell (a story, tale, etc.) over again or in a new way", "S": ["cite ", "name ", "recall ", "refer to "], "A": ["hide ", "insert "]}

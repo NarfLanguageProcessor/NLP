@@ -1,0 +1,1 @@
+{"index": 35464, "D": "any of various Australian eucalyptus trees having rough fibrous bark and hard wood used as timber", "S": [], "A": []}

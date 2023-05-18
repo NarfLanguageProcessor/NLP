@@ -1,0 +1,1 @@
+{"index": 23826, "D": "favoring complete obedience or subjection to authority  as opposed to individual freedom", "S": ["autocratic ", "dictatorial ", "imperious ", "rigid ", "strict ", "totalitarian ", "tyrannical "], "A": ["democratic ", "flexible ", "lenient ", "yielding ", "submissive "]}

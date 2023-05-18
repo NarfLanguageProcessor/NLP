@@ -1,0 +1,1 @@
+{"index": 15683, "D": "an elementary particle having no charge and having a mass and spin equal to that of the neutron  but with magnetic moment opposite to that of the neutron;  the antiparticle of the neutron. ", "S": [], "A": []}

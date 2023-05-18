@@ -1,0 +1,1 @@
+{"index": 76870, "D": "neat; trim; smart", "S": [], "A": []}

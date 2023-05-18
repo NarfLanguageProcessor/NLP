@@ -1,0 +1,1 @@
+{"index": 144250, "D": "(used as an expression of approval or delight, now often used facetiously.)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45727, "D": "a lightweight, loose-fitting shirt or smock with long sleeves.", "S": [], "A": []}

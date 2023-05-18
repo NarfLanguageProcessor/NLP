@@ -1,0 +1,1 @@
+{"index": 283621, "D": "of, relating to, or arising from the different meanings of words or other symbols", "S": ["linguistic "], "A": ["solecistic ", "ungrammatical "]}

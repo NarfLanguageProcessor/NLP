@@ -1,0 +1,1 @@
+{"index": 331169, "D": "anything taken in war, hunting, competition, etc., especially when preserved as a memento; spoil, prize, or award.", "S": [], "A": []}

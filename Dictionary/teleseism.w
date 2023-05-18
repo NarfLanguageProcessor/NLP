@@ -1,0 +1,1 @@
+{"index": 318237, "D": "a tremor caused by an earthquake originating a great distance from the seismographic station that records it.", "S": [], "A": []}

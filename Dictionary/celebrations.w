@@ -1,0 +1,1 @@
+{"index": 50458, "D": "the act of celebrating", "S": ["anniversary ", "bash ", "birthday ", "ceremony ", "festival ", "festivity ", "gala ", "jubilee ", "observance ", "party ", "performance ", "spree ", "triumph "], "A": ["failure ", "sadness "]}

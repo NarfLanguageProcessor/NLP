@@ -1,0 +1,1 @@
+{"index": 230260, "D": "pertaining to or associated with digestion; digestive.", "S": ["comestible ", "dietary ", "digestible ", "nourishing ", "nutrient ", "nutritional ", "nutritious ", "nutritive ", "salutary ", "sustaining ", "sustentative "], "A": []}

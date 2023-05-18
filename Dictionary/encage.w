@@ -1,0 +1,1 @@
+{"index": 99113, "D": "to confine in or as in a cage;  coop up.", "S": [], "A": []}

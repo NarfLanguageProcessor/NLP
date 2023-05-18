@@ -1,0 +1,1 @@
+{"index": 133709, "D": "a style of car having a rigid metal top  and no center posts between windows.", "S": ["auto ", "bus ", "convertible ", "limousine ", "passenger car ", "pickup truck ", "sports car ", "station wagon ", "taxi ", "transportation ", "truck ", "van "], "A": []}

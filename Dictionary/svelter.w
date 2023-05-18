@@ -1,0 +1,1 @@
+{"index": 313909, "D": "slender, especially gracefully slender in figure; lithe.", "S": ["graceful ", "lithe ", "slender "], "A": ["awkward ", "fat "]}

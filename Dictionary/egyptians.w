@@ -1,0 +1,1 @@
+{"index": 96213, "D": "of or relating to Egypt  or its people", "S": [], "A": []}

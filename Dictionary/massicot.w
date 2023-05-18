@@ -1,0 +1,1 @@
+{"index": 180796, "D": "monoxide of lead, PbO, in the form of a yellow powder, used as a pigment and drier.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311318, "D": "in a way that is sufficient, suitable, effective, or appropriate", "S": [], "A": []}

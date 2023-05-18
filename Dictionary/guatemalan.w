@@ -1,0 +1,1 @@
+{"index": 130829, "D": "of or relating to Guatemala or its inhabitants", "S": [], "A": []}

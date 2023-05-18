@@ -1,0 +1,1 @@
+{"index": 256923, "D": "purging  or cleansing, especially by causing evacuation of the bowels.", "S": ["aperient ", "emetic ", "laxative ", "physic ", "purge "], "A": []}

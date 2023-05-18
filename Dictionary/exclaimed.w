@@ -1,0 +1,1 @@
+{"index": 106733, "D": "to cry out or speak suddenly and vehemently, as in surprise, strong emotion, or protest.", "S": ["assert ", "blurt ", "call out ", "proclaim ", "shout ", "utter ", "yell "], "A": ["conceal ", "hide ", "refrain "]}

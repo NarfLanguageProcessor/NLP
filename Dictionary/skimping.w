@@ -1,0 +1,1 @@
+{"index": 293236, "D": "to scrimp.", "S": ["cost-effective ", "efficient ", "practical ", "prudent "], "A": ["inefficient "]}

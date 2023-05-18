@@ -1,0 +1,1 @@
+{"index": 338412, "D": "to stun or stupefy with a blow, shock, etc.", "S": [], "A": []}

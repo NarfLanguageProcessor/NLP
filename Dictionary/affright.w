@@ -1,0 +1,1 @@
+{"index": 5493, "D": "to frighten.", "S": ["alarm ", "daunt ", "fright ", "intimidate ", "panic ", "scare ", "spook ", "startle ", "terrify "], "A": ["assist ", "calm ", "comfort ", "encourage ", "help ", "reassure ", "soothe "]}

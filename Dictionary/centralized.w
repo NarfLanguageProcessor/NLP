@@ -1,0 +1,1 @@
+{"index": 50937, "D": "controlled from one place", "S": ["constitutional ", "domestic ", "in-house ", "intramural ", "national ", "private ", "subjective "], "A": ["external ", "outer "]}

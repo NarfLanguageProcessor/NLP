@@ -1,0 +1,1 @@
+{"index": 296002, "D": "a substance used for washing and cleansing purposes, usually made by treating a fat with an alkali, as sodium or potassium hydroxide, and consisting chiefly of the sodium or potassium salts of the acids contained in the fat.", "S": [], "A": []}

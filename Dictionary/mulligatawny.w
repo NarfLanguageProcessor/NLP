@@ -1,0 +1,1 @@
+{"index": 194952, "D": "a curry-flavored soup of East Indian origin, made with chicken or meat stock.", "S": [], "A": []}

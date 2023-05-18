@@ -1,0 +1,1 @@
+{"index": 146396, "D": "an ideogram.", "S": ["ABCs ", "characters ", "elements ", "fundamentals ", "hieroglyphs ", "morphemes ", "phonemes ", "pictograph ", "rune ", "signs ", "syllabary ", "symbols "], "A": []}

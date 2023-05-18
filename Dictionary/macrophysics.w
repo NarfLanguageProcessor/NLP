@@ -1,0 +1,1 @@
+{"index": 177015, "D": "the branch of physics  that deals with physical objects large enough to be observed and treated directly.", "S": [], "A": []}

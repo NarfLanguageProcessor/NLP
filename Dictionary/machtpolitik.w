@@ -1,0 +1,1 @@
+{"index": 176803, "D": "power politics", "S": [], "A": []}

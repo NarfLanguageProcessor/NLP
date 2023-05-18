@@ -1,0 +1,1 @@
+{"index": 54563, "D": "the anterior portion of the mandible, forming the prominence of the chin.", "S": [], "A": []}

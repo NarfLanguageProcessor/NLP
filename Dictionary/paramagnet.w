@@ -1,0 +1,1 @@
+{"index": 225786, "D": "a body or substance that, placed in a magnetic field,  possesses magnetization in direct proportion to the field strength; a substance in which the magnetic moments of the atoms are not aligned.", "S": [], "A": []}

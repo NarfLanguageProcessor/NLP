@@ -1,0 +1,1 @@
+{"index": 103307, "D": "of, relating to, or resembling a horse or other member of the horse family", "S": [], "A": []}

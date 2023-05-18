@@ -1,0 +1,1 @@
+{"index": 302562, "D": "strongly and stoutly built; sturdy and robust.", "S": [], "A": []}

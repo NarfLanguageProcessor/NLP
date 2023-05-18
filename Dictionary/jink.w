@@ -1,0 +1,1 @@
+{"index": 161319, "D": "prankish or frolicsome activities.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 5353, "D": "a person who makes an affidavit.", "S": ["attestant ", "attester ", "attestor ", "deposer ", "testifier "], "A": []}

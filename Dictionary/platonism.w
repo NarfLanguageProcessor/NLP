@@ -1,0 +1,1 @@
+{"index": 239542, "D": "the philosophy or doctrines of Plato or his followers.", "S": [], "A": []}

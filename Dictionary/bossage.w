@@ -1,0 +1,1 @@
+{"index": 38609, "D": "stonework blocked out for later carving.", "S": [], "A": []}

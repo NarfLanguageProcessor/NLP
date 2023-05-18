@@ -1,0 +1,1 @@
+{"index": 188783, "D": "to behave  badly or improperly", "S": [], "A": []}

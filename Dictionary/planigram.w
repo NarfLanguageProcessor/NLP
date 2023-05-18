@@ -1,0 +1,1 @@
+{"index": 238971, "D": "an x-ray photograph in which a given plane of the body is well defined and those above and below it purposely out of focus.", "S": [], "A": []}

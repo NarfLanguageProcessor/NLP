@@ -1,0 +1,1 @@
+{"index": 262946, "D": "a person who reckons. ", "S": ["actuary ", "analyst ", "auditor ", "bookkeeper ", "clerk "], "A": []}

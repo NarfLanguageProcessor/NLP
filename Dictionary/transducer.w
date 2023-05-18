@@ -1,0 +1,1 @@
+{"index": 327792, "D": "a device that receives a signal in the form of one type of energy and converts it to a signal in another form", "S": [], "A": []}

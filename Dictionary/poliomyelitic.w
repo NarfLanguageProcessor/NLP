@@ -1,0 +1,1 @@
+{"index": 242156, "D": "an acute viral disease, usually affecting children and young adults, caused by any of three polioviruses, characterized by inflammation of the motor neurons of the brain stem and spinal cord, and resulting in a motor paralysis, followed by muscular atrophy and often permanent deformities.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 89908, "D": "great pain, anxiety, or sorrow; acute physical or mental suffering; affliction; trouble", "S": ["acutely ", "genuinely ", "intensely ", "passionately ", "profoundly ", "sadly ", "seriously ", "severely ", "surely ", "thoroughly "], "A": ["lightly "]}

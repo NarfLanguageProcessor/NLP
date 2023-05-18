@@ -1,0 +1,1 @@
+{"index": 276069, "D": "any of several extinct members of the cat family Felidae from the Oligocene to Pleistocene Epochs, having greatly elongated, saberlike upper canine teeth.", "S": [], "A": []}

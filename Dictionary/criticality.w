@@ -1,0 +1,1 @@
+{"index": 73478, "D": "the state of being critical", "S": ["desperation ", "necessity ", "pressure ", "seriousness "], "A": ["peace "]}

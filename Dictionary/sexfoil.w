@@ -1,0 +1,1 @@
+{"index": 286850, "D": "a round ornament consisting of six lobes divided by cusps.", "S": [], "A": []}

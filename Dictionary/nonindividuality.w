@@ -1,0 +1,1 @@
+{"index": 204667, "D": "the particular character, or aggregate of qualities, that distinguishes one person or thing from others; sole and personal nature", "S": [], "A": []}

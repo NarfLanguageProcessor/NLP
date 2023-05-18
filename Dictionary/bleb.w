@@ -1,0 +1,1 @@
+{"index": 35989, "D": "a blister or vesicle.", "S": ["abscess ", "cyst ", "pimple ", "sore ", "ulcer ", "welt "], "A": []}

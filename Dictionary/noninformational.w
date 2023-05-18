@@ -1,0 +1,1 @@
+{"index": 204721, "D": "knowledge communicated or received concerning a particular fact or circumstance; news", "S": [], "A": []}

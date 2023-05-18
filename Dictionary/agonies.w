@@ -1,0 +1,1 @@
+{"index": 6361, "D": "extreme and generally prolonged pain; intense physical or mental suffering.", "S": ["anguish ", "misery ", "passion ", "torment ", "torture ", "woe "], "A": ["contentment ", "happiness ", "joy ", "comfort ", "health "]}

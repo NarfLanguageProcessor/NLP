@@ -1,0 +1,1 @@
+{"index": 114511, "D": "a muscle that serves to flex  or bend a part of the body.", "S": [], "A": []}

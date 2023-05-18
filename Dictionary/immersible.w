@@ -1,0 +1,1 @@
+{"index": 147952, "D": "to plunge into or place under a liquid; dip; sink.", "S": [], "A": []}

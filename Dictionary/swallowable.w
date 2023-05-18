@@ -1,0 +1,1 @@
+{"index": 314011, "D": "to take into the stomach by drawing through the throat and esophagus with a voluntary muscular action, as food, drink, or other substances.", "S": [], "A": []}

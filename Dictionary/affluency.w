@@ -1,0 +1,1 @@
+{"index": 5443, "D": "affluence (def. 2). ", "S": [], "A": []}

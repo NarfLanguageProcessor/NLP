@@ -1,0 +1,1 @@
+{"index": 64918, "D": "any bipedal carnivorous dinosaur of the genus Compsognathus, of late Jurassic age, having a slender body that reached a length of 30 inches (76 centimeters).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 236405, "D": "a young or small pig; piglet. ", "S": [], "A": []}

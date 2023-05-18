@@ -1,0 +1,1 @@
+{"index": 67579, "D": "an act or instance of contracting  or the quality or state of being contracted", "S": [], "A": []}

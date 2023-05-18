@@ -1,0 +1,1 @@
+{"index": 210353, "D": "the state or quality of being obscure. ", "S": ["darkness "], "A": ["certainty ", "definiteness "]}

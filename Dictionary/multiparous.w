@@ -1,0 +1,1 @@
+{"index": 195229, "D": "of or relating to a multipara.", "S": [], "A": []}

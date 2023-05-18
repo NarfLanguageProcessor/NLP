@@ -1,0 +1,1 @@
+{"index": 66977, "D": "joint effort.", "S": [], "A": []}

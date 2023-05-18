@@ -1,0 +1,1 @@
+{"index": 108897, "D": "a maker or manufacturer.", "S": [], "A": []}

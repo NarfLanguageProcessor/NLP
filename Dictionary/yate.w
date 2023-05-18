@@ -1,0 +1,1 @@
+{"index": 145821, "D": "any of several small eucalyptus trees, esp Eucalyptus cornuta, yielding a very hard timber", "S": [], "A": []}

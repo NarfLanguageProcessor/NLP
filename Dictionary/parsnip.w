@@ -1,0 +1,1 @@
+{"index": 226900, "D": "a plant, Pastinaca sativa, cultivated varieties of which have a large, whitish, edible root.", "S": [], "A": []}

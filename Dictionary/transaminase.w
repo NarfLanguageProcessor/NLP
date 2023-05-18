@@ -1,0 +1,1 @@
+{"index": 327677, "D": "any of a class of enzymes, occurring in most plant and animal tissue, that cause transamination. ", "S": [], "A": []}

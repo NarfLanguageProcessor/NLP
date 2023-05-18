@@ -1,0 +1,1 @@
+{"index": 58029, "D": "to move in a circle  or circuit; move or pass through a circuit back to the starting point", "S": [], "A": []}

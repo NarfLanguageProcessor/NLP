@@ -1,0 +1,1 @@
+{"index": 99844, "D": "inflammation of the lining of the uterus.", "S": [], "A": []}

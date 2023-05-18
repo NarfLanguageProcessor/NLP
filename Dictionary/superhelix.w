@@ -1,0 +1,1 @@
+{"index": 311967, "D": "a coil formed by intertwined helical DNA or by protein chains.", "S": [], "A": []}

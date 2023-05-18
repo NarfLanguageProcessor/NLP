@@ -1,0 +1,1 @@
+{"index": 314516, "D": "like or befitting swine;  hoggish.", "S": ["avarice ", "excess ", "gluttony ", "hunger ", "longing ", "selfishness "], "A": ["apathy ", "dislike ", "distaste ", "indifference "]}

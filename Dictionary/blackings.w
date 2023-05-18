@@ -1,0 +1,1 @@
+{"index": 35521, "D": "any preparation for producing a black  coating or finish, as on shoes or stoves.", "S": [], "A": []}

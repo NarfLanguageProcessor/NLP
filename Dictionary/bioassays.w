@@ -1,0 +1,1 @@
+{"index": 34278, "D": "determination of the biological  activity or potency of a substance, as a vitamin or hormone, by testing its effect on the growth of an organism.", "S": [], "A": []}

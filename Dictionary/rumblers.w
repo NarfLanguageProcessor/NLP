@@ -1,0 +1,1 @@
+{"index": 275499, "D": "to make a deep, heavy, somewhat muffled, continuous sound, as thunder.", "S": [], "A": []}

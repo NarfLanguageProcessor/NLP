@@ -1,0 +1,1 @@
+{"index": 90566, "D": "any of various former Portuguese coins, especially a gold coin of John V equal to two johannes.", "S": [], "A": []}

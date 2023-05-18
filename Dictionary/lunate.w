@@ -1,0 +1,1 @@
+{"index": 176169, "D": "being in the shape of a crescent;  crescent-shaped.", "S": [], "A": []}

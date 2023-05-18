@@ -1,0 +1,1 @@
+{"index": 104014, "D": "before the present time; formerly.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 298550, "D": "a person who is spasmodic,  especially in style, as a writer, painter, etc.", "S": [], "A": []}

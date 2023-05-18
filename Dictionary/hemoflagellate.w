@@ -1,0 +1,1 @@
+{"index": 136383, "D": "a flagellate  protozoan, especially of the genera Trypanosoma and Leishmania, that is parasitic in the blood.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 33133, "D": "bisexual. ", "S": ["androgynous ", "double-gaited ", "gynandrous ", "hermaphroditic ", "hits both ways ", "intersexual ", "monoclinous ", "swings both ways ", "switch-hitting "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227967, "D": "(of family names) derived from the name of a father or ancestor, especially by the addition of a suffix or prefix indicating descent.", "S": ["brand ", "flag ", "label ", "nickname ", "sign ", "signature ", "style ", "term "], "A": ["unknown "]}

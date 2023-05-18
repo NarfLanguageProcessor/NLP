@@ -1,0 +1,1 @@
+{"index": 162390, "D": "a sweet, custardlike food of flavored milk curdled with rennet.", "S": ["celebration ", "distraction ", "enjoyment ", "joke ", "joy ", "laughter ", "pastime ", "pleasure ", "sport "], "A": ["work ", "chore ", "drudgery ", "labor ", "task "]}

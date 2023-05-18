@@ -1,0 +1,1 @@
+{"index": 101683, "D": "the act of entrenching. ", "S": ["barricade ", "citadel ", "fortress ", "reinforcement "], "A": ["opening "]}

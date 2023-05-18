@@ -1,0 +1,1 @@
+{"index": 123013, "D": "to cheat (a house buyer) by raising the price, at the time a contract is to be signed, over the amount originally agreed upon.", "S": [], "A": []}

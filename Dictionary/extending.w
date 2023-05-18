@@ -1,0 +1,1 @@
+{"index": 108220, "D": "to stretch out; draw out to the full length", "S": ["approaching ", "continuing ", "lengthening ", "ranging ", "spanning ", "spreading ", "stretching "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 44919, "D": "one of the commonest minerals, calcium carbonate, CaCO3, found in a great variety of crystalline forms", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62484, "D": "happening by or resulting from coincidence;  by chance", "S": ["circumstantial ", "fortuitous ", "incidental ", "unintentional "], "A": ["deliberate ", "intentional ", "planned "]}

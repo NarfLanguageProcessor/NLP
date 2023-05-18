@@ -1,0 +1,1 @@
+{"index": 137674, "D": "a word spelled the same as another but having a different sound and meaning, as lead (to conduct) and lead (a metal).", "S": [], "A": []}

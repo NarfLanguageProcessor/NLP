@@ -1,0 +1,1 @@
+{"index": 180665, "D": "an inspector appointed by a board of Orthodox rabbis to guard against any violation of the Jewish dietary laws in food processing plants, meat markets, etc., where food presumed to be kosher is prepared or served for public consumption.", "S": [], "A": []}

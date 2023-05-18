@@ -1,0 +1,1 @@
+{"index": 61515, "D": "conceited self-assurance", "S": ["presumption "], "A": ["humility ", "modesty ", "shyness ", "timidity "]}

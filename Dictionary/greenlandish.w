@@ -1,0 +1,1 @@
+{"index": 129573, "D": "a self-governing island belonging to Denmark, located NE of North America", "S": [], "A": []}

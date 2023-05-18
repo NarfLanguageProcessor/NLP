@@ -1,0 +1,1 @@
+{"index": 197409, "D": "(in many crustaceans) a larval form with three pairs of appendages and a single median eye, occurring usually as the first stage of development after leaving the egg.", "S": [], "A": []}

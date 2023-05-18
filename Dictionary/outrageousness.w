@@ -1,0 +1,1 @@
+{"index": 217209, "D": "of the nature of or involving gross injury or wrong", "S": ["atrociousness ", "atrocity ", "boldness ", "brazenness ", "enormity ", "grossness ", "noticeableness ", "rankness "], "A": []}

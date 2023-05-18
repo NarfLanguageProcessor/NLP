@@ -1,0 +1,1 @@
+{"index": 42576, "D": "a blustering, mean, or predatory person who, from a perceived position of relative power, intimidates, abuses, harasses, or coerces people, especially those considered unlikely to defend themselves", "S": ["oppressor ", "rascal "], "A": []}

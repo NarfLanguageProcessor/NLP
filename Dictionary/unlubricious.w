@@ -1,0 +1,1 @@
+{"index": 345822, "D": "arousing or expressive of sexual desire; lustful; lecherous.", "S": [], "A": []}

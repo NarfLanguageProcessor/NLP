@@ -1,0 +1,1 @@
+{"index": 35453, "D": "the act or practice of kidnapping people, especially Pacific Islanders,  and selling them into slavery abroad, usually in Australia.", "S": [], "A": []}

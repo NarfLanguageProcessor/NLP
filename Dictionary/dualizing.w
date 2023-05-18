@@ -1,0 +1,1 @@
+{"index": 93658, "D": "to make dual. ", "S": ["grow ", "increase "], "A": ["decrease ", "diminish ", "abridge ", "compress ", "condense ", "curtail ", "lessen ", "reduce "]}

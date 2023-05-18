@@ -1,0 +1,1 @@
+{"index": 205410, "D": "condition or quality of being mutual;  reciprocity; mutual  dependence.", "S": [], "A": []}

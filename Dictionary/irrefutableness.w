@@ -1,0 +1,1 @@
+{"index": 158245, "D": "not capable of being refuted  or disproved", "S": [], "A": []}

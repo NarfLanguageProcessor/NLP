@@ -1,0 +1,1 @@
+{"index": 101757, "D": "capable of being enunciated", "S": [], "A": []}

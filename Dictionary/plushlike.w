@@ -1,0 +1,1 @@
+{"index": 240631, "D": "a fabric, as of silk, cotton, or wool, whose pile is more than \u215b inch (0.3 centimeter) high.", "S": [], "A": []}

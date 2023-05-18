@@ -1,0 +1,1 @@
+{"index": 17704, "D": "to have conscious perception of; comprehend.", "S": ["perceive ", "sense ", "try "], "A": []}

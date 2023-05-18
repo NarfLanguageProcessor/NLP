@@ -1,0 +1,1 @@
+{"index": 116467, "D": "exhausted with fatigue.", "S": ["derelict ", "dilapidated "], "A": ["flourishing ", "intact ", "mended ", "preserved ", "prosperous ", "protected ", "repaired ", "restored ", "rich ", "saved ", "solvent ", "successful ", "wealthy "]}

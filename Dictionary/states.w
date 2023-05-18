@@ -1,0 +1,1 @@
+{"index": 303055, "D": "the states (functioning as singular or plural) an informal name for the United States of America", "S": ["case "], "A": ["good fortune "]}

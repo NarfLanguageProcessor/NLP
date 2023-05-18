@@ -1,0 +1,1 @@
+{"index": 68506, "D": "an employee of a newspaper who separates copy  into takes to facilitate printing.", "S": [], "A": []}

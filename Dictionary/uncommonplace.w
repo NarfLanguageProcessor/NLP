@@ -1,0 +1,1 @@
+{"index": 337322, "D": "ordinary; undistinguished or uninteresting; without individuality", "S": [], "A": []}

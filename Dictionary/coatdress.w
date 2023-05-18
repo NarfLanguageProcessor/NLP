@@ -1,0 +1,1 @@
+{"index": 61111, "D": "a tailored dress  of medium or heavy fabric, styled like a coat  and worn in place of a suit or similar outfit.", "S": [], "A": []}

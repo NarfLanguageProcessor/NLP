@@ -1,0 +1,1 @@
+{"index": 46639, "D": "a simple, lyric, melodic passage for voice or instrument.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 144750, "D": "to clasp tightly in the arms, especially with affection; embrace.", "S": ["gummy ", "sticky "], "A": ["loose ", "open ", "separated "]}

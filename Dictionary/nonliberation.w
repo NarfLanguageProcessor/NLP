@@ -1,0 +1,1 @@
+{"index": 205004, "D": "the act of liberating  or the state of being liberated. ", "S": [], "A": []}

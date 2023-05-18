@@ -1,0 +1,1 @@
+{"index": 37085, "D": "a fraud carried out by one or more persons with access to public funds in collusion with someone in a position of authority", "S": [], "A": []}

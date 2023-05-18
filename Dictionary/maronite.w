@@ -1,0 +1,1 @@
+{"index": 180287, "D": "a member of a body of Uniates living chiefly in Lebanon, who maintain a Syriac liturgy and a married clergy, and who are governed by the patriarch of Antioch.", "S": [], "A": []}

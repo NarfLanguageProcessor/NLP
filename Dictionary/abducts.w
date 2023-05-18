@@ -1,0 +1,1 @@
+{"index": 298, "D": "to carry off or lead away (a person) illegally and in secret or by force, especially to kidnap.", "S": ["kidnap ", "seize ", "snatch "], "A": ["give "]}

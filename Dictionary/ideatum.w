@@ -1,0 +1,1 @@
+{"index": 146349, "D": "Compare datum (def. 3). ", "S": [], "A": []}

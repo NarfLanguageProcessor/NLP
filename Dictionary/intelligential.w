@@ -1,0 +1,1 @@
+{"index": 154296, "D": "of or relating to the intelligence or understanding.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 299919, "D": "a person or thing that spins. ", "S": ["gyroscope "], "A": []}

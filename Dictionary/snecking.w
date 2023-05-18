@@ -1,0 +1,1 @@
+{"index": 295423, "D": "a door latch or its lever.", "S": [], "A": []}

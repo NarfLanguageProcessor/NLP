@@ -1,0 +1,1 @@
+{"index": 132955, "D": "a food forbidden for use by Jews during the festival of Passover, especially a baked food, as bread or cake, made with leaven or a leavening agent.", "S": [], "A": []}

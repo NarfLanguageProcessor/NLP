@@ -1,0 +1,1 @@
+{"index": 303696, "D": "characterized by stenosis; abnormally narrowed.", "S": [], "A": []}

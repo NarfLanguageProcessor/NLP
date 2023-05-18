@@ -1,0 +1,1 @@
+{"index": 147817, "D": "to follow or endeavor to follow as a model or example", "S": ["echoing ", "emulating ", "following ", "matching ", "paralleling ", "reflecting "], "A": []}

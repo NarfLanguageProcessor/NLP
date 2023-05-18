@@ -1,0 +1,1 @@
+{"index": 170078, "D": "physical or mental quickness; nimbleness; agility. ", "S": ["alacrity ", "briskness ", "dispatch ", "expedition ", "expeditiousness ", "fleetness ", "gait ", "haste ", "hurry ", "hustle ", "promptness ", "quickness ", "rapidity ", "speed ", "speediness ", "swiftness ", "velocity ", "vivacity "], "A": ["delay ", "rest ", "slowing ", "slowness "]}

@@ -1,0 +1,1 @@
+{"index": 133432, "D": "a Jewish festival lasting eight days, celebrated from the 25th day of the month of Kislev to the 2nd of Tevet in commemoration of the rededication of the Temple by the Maccabees following their victory over the Syrians under Antiochus IV, characterized chiefly by the lighting of the menorah on each night of the festival.", "S": [], "A": []}

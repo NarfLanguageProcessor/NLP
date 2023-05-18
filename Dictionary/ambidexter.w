@@ -1,0 +1,1 @@
+{"index": 9975, "D": "ambidextrous. ", "S": [], "A": []}

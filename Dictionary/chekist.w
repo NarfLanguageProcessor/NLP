@@ -1,0 +1,1 @@
+{"index": 53572, "D": "(in the Soviet Union) the state secret-police organization (1917\u201322), succeeded by the GPU.", "S": [], "A": []}

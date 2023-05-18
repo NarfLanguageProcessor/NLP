@@ -1,0 +1,1 @@
+{"index": 248214, "D": "to set free, as from imprisonment or bondage.", "S": [], "A": []}

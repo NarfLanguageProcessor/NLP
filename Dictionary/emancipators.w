@@ -1,0 +1,1 @@
+{"index": 97927, "D": "to free from restraint, influence, or the like.", "S": ["deliverer ", "redeemer ", "rescuer "], "A": []}

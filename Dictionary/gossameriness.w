@@ -1,0 +1,1 @@
+{"index": 128219, "D": [], "S": ["elegance ", "fragility ", "lightness ", "subtlety ", "tenderness "], "A": ["strength "]}

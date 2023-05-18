@@ -1,0 +1,1 @@
+{"index": 44651, "D": "to persuade by flattery or promises; wheedle; coax.", "S": ["booster ", "bootlicker ", "charmer ", "fawner ", "flunky ", "lackey ", "puffer ", "sycophant ", "toady "], "A": []}

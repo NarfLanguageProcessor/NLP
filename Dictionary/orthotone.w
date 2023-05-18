@@ -1,0 +1,1 @@
+{"index": 215185, "D": "(of a word) having an independent accent", "S": [], "A": []}

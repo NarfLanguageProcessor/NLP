@@ -1,0 +1,1 @@
+{"index": 240307, "D": "the cutting part of the moldboard of a plow; share.", "S": [], "A": []}

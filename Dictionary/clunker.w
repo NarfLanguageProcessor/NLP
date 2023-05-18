@@ -1,0 +1,1 @@
+{"index": 60712, "D": "something worthless or inferior.", "S": ["bulky ", "burdensome ", "embarrassing ", "heavy ", "inconvenient ", "ponderous ", "tiresome ", "unwieldy "], "A": ["aiding ", "airy ", "convenient ", "easy ", "fun ", "helpful ", "light ", "small ", "unburdensome "]}

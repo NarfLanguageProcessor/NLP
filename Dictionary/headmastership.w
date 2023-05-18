@@ -1,0 +1,1 @@
+{"index": 134662, "D": "the person in charge of a private school.", "S": [], "A": []}

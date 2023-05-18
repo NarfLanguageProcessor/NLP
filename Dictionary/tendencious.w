@@ -1,0 +1,1 @@
+{"index": 318721, "D": "having or showing a definite tendency,  bias, or purpose", "S": [], "A": []}

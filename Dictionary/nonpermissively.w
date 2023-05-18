@@ -1,0 +1,1 @@
+{"index": 205883, "D": "habitually or characteristically accepting or tolerant of something, as social behavior or linguistic usage, that others might disapprove or forbid.", "S": [], "A": []}

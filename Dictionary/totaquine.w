@@ -1,0 +1,1 @@
+{"index": 326481, "D": "a mixture of quinine and other alkaloids derived from cinchona bark, used as a substitute for quinine in treating malaria", "S": [], "A": []}

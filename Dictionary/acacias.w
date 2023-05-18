@@ -1,0 +1,1 @@
+{"index": 1213, "D": "a small tree or shrub belonging to the genus Acacia, of the mimosa family, having clusters of small yellow flowers.", "S": [], "A": []}

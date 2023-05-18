@@ -1,0 +1,1 @@
+{"index": 110327, "D": "in the manner of a fat  person; ponderously.", "S": [], "A": []}

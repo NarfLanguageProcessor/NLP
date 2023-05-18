@@ -1,0 +1,1 @@
+{"index": 147130, "D": "a word, phrase, or linguistic feature characteristic of or peculiar to Yiddish. ", "S": [], "A": []}

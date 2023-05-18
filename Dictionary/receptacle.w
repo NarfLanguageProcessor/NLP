@@ -1,0 +1,1 @@
+{"index": 262720, "D": "a container, device, etc., that receives or holds something", "S": ["bowl ", "box ", "holder ", "hopper ", "repository ", "vessel ", "wastebasket "], "A": []}

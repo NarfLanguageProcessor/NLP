@@ -1,0 +1,1 @@
+{"index": 289555, "D": "a tree mentioned in the New Testament, probably the black mulberry.", "S": [], "A": []}

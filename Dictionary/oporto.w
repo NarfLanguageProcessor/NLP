@@ -1,0 +1,1 @@
+{"index": 213634, "D": "a port in northwestern Portugal, near the mouth of the Douro River.", "S": [], "A": []}

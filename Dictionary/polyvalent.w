@@ -1,0 +1,1 @@
+{"index": 242627, "D": "having more than one valence.", "S": [], "A": []}

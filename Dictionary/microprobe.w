@@ -1,0 +1,1 @@
+{"index": 186417, "D": "a device used to excite radiation by a material in order to determine chemical or elemental composition from the emission spectrum produced.", "S": [], "A": []}

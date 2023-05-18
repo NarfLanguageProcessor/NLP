@@ -1,0 +1,1 @@
+{"index": 128445, "D": "gallons per capita per day.", "S": [], "A": []}

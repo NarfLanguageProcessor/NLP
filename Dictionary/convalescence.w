@@ -1,0 +1,1 @@
+{"index": 67894, "D": "the gradual recovery of health and strength after illness.", "S": ["disorder ", "weakness "], "A": []}

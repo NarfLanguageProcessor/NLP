@@ -1,0 +1,1 @@
+{"index": 48802, "D": "to make or become like cheese.", "S": [], "A": []}

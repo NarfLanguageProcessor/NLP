@@ -1,0 +1,1 @@
+{"index": 58492, "D": "a crystalline amino acid, C6H12O4N2S2, occurring in most proteins, especially the keratins in hair, wool, and horn, and yielding cysteine on reduction.", "S": [], "A": []}

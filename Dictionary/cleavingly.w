@@ -1,0 +1,1 @@
+{"index": 59698, "D": "to adhere closely; stick; cling (usually followed by to).", "S": [], "A": []}

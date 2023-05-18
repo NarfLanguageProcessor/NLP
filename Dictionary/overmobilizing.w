@@ -1,0 +1,1 @@
+{"index": 220268, "D": "to assemble or marshal (armed forces, military reserves, or civilian persons of military age) into readiness for active service.", "S": [], "A": []}

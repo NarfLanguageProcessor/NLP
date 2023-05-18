@@ -1,0 +1,1 @@
+{"index": 66024, "D": "manner of formation; structure; form, as of a physical entity.", "S": ["anatomy ", "arrangement ", "build ", "cast ", "configuration ", "figure ", "form ", "formation ", "frame ", "framework ", "outline ", "structure ", "symmetry ", "type "], "A": []}

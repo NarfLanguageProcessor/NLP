@@ -1,0 +1,1 @@
+{"index": 241319, "D": "aimed or fired straight at the mark especially from close range; direct.", "S": ["blunt ", "candid ", "forthright ", "strident ", "vocal "], "A": ["devious "]}

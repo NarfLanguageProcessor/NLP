@@ -1,0 +1,1 @@
+{"index": 292944, "D": "a splinter of wood, esp when embedded accidentally in the skin", "S": [], "A": []}

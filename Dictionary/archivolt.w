@@ -1,0 +1,1 @@
+{"index": 19041, "D": "a molded or decorated band following the extrados of an arch or forming an archlike frame for an opening.", "S": [], "A": []}

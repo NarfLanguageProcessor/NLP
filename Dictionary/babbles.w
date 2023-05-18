@@ -1,0 +1,1 @@
+{"index": 25473, "D": "to utter sounds or words imperfectly, indistinctly, or without meaning.", "S": ["drivel ", "gibberish ", "jargon "], "A": ["sense ", "silence "]}

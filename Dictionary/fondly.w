@@ -1,0 +1,1 @@
+{"index": 116033, "D": "in a fond  manner; lovingly or affectionately", "S": ["affectionately "], "A": ["hatefully "]}

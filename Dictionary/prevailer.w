@@ -1,0 +1,1 @@
+{"index": 250106, "D": "to be widespread or current; exist everywhere or generally", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 179578, "D": "Compare characteristic (def. 3a). ", "S": [], "A": []}

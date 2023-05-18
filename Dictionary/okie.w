@@ -1,0 +1,1 @@
+{"index": 211966, "D": "a term used to refer to a migrant farm worker from Oklahoma or nearby states, especially one who moved westward during the Great Depression.", "S": [], "A": []}

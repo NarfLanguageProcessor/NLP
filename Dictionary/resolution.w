@@ -1,0 +1,1 @@
+{"index": 269593, "D": "Compare concurrent resolution, joint resolution. ", "S": ["decision ", "settlement ", "verdict "], "A": ["indecision ", "apathy ", "cowardice ", "fear ", "flexibility ", "idleness ", "insincerity ", "instability ", "irresolution ", "laziness ", "lethargy ", "timidity ", "weakness "]}

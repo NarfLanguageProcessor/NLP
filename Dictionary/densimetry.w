@@ -1,0 +1,1 @@
+{"index": 81225, "D": "any instrument for measuring density.", "S": [], "A": []}

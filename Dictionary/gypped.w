@@ -1,0 +1,1 @@
+{"index": 125374, "D": "to defraud or rob by some sharp practice; swindle; cheat.", "S": ["bamboozled ", "beguiled ", "bilked ", "burned ", "conned ", "deceived ", "duped ", "hoodwinked ", "swindled ", "tricked ", "victimized "], "A": []}

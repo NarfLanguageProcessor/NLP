@@ -1,0 +1,1 @@
+{"index": 4537, "D": "to produce a faint image or resemblance of; to outline or sketch.", "S": ["augur ", "bode ", "cloud ", "darken ", "foretell ", "indicate ", "intimate ", "mist ", "obfuscate ", "obscure ", "outline ", "portend ", "sketch ", "suggest "], "A": ["illuminate "]}

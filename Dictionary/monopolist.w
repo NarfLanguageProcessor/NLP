@@ -1,0 +1,1 @@
+{"index": 192575, "D": "a person who has a monopoly. ", "S": [], "A": []}

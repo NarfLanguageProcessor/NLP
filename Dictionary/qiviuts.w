@@ -1,0 +1,1 @@
+{"index": 257428, "D": "the soft, dense, light-brown woolly undercoat of the musk ox, used in making fabrics.", "S": [], "A": []}

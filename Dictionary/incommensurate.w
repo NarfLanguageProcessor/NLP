@@ -1,0 +1,1 @@
+{"index": 150056, "D": "not commensurate;  disproportionate; inadequate", "S": ["disproportionate ", "inadequate ", "incommensurable ", "unequal ", "unfair "], "A": []}

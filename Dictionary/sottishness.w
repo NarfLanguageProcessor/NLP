@@ -1,0 +1,1 @@
+{"index": 297763, "D": "stupefied with or as if with drink; drunken.", "S": [], "A": []}

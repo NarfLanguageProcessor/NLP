@@ -1,0 +1,1 @@
+{"index": 182753, "D": "a pigmented connective-tissue cell containing melanin in its cytoplasm, responsible for color changes in many fishes and reptiles.", "S": [], "A": []}

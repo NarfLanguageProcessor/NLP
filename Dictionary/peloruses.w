@@ -1,0 +1,1 @@
+{"index": 229397, "D": "a device for measuring in degrees the relative bearings of observed objects.", "S": [], "A": []}

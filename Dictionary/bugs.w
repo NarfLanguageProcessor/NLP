@@ -1,0 +1,1 @@
+{"index": 42338, "D": "crazy; insane.", "S": ["animal ", "insects ", "pests "], "A": []}

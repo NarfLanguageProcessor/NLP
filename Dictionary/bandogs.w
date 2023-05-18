@@ -1,0 +1,1 @@
+{"index": 27359, "D": "any dog, as a mastiff or bloodhound, kept tied or chained.", "S": ["attack dog "], "A": []}

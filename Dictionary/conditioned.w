@@ -1,0 +1,1 @@
+{"index": 65626, "D": "existing under or subject to conditions.", "S": ["habituated ", "learned ", "modified "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 336401, "D": "made hard; hardened.", "S": [], "A": []}

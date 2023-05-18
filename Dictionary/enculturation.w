@@ -1,0 +1,1 @@
+{"index": 99542, "D": "the process whereby individuals learn their group's culture, through experience, observation, and instruction.", "S": [], "A": []}

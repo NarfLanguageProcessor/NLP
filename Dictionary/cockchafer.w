@@ -1,0 +1,1 @@
+{"index": 61476, "D": "any of certain scarab beetles, especially the European species, Melolontha melolontha, which is very destructive to forest trees.", "S": [], "A": []}

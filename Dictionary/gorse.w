@@ -1,0 +1,1 @@
+{"index": 128169, "D": "any spiny shrub of the genus Ulex, of the legume family, native to the Old World, especially U. europaeus, having rudimentary leaves and yellow flowers and growing in waste places and sandy soil.", "S": ["brier ", "burr ", "cleaver ", "furze ", "hedge ", "nettle ", "prick ", "shrub ", "spray ", "thistle ", "thorn "], "A": []}

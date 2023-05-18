@@ -1,0 +1,1 @@
+{"index": 327121, "D": "having rough-skinned fruit.", "S": [], "A": []}

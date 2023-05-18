@@ -1,0 +1,1 @@
+{"index": 294715, "D": "a coloring agent made of blue glass produced by fusing silica, potassium carbonate, and cobalt oxide, used in powdered form to add color to vitreous materials.", "S": [], "A": []}

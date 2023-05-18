@@ -1,0 +1,1 @@
+{"index": 109329, "D": "a structure on the exterior of an aircraft or boat, for reducing drag.", "S": ["allowance ", "award ", "benefit ", "bonus ", "contribution ", "donation ", "endowment ", "favor ", "giveaway ", "grant ", "legacy ", "offering ", "premium ", "present ", "relief ", "reward ", "souvenir ", "subsidy ", "tip ", "tribute "], "A": ["forfeit ", "loss ", "penalty "]}

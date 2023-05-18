@@ -1,0 +1,1 @@
+{"index": 43427, "D": "a lining for a hole, intended to insulate and protect from abrasion one or more conductors that pass through it.", "S": ["dressing ", "layer ", "mixture ", "stuffing "], "A": ["exteriority ", "outside "]}

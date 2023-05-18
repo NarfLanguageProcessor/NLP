@@ -1,0 +1,1 @@
+{"index": 351445, "D": "to free from being caught on something.", "S": [], "A": []}

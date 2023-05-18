@@ -1,0 +1,1 @@
+{"index": 50432, "D": "an Old World plant, Chelidonium majus, of the poppy family, having yellow flowers.", "S": [], "A": []}

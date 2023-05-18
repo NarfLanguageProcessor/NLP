@@ -1,0 +1,1 @@
+{"index": 235783, "D": "one of the mounted assistants to a matador, who opens the bullfight by enraging the bull and weakening its shoulder muscles with a lance.", "S": ["banderillero ", "toreador ", "torero "], "A": []}

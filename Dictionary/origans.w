@@ -1,0 +1,1 @@
+{"index": 214586, "D": "an aromatic herb, especially oregano.", "S": [], "A": []}

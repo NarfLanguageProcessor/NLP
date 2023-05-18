@@ -1,0 +1,1 @@
+{"index": 331778, "D": "a Kwa language spoken in Ghana that is mutually intelligible with Fanti.", "S": [], "A": []}

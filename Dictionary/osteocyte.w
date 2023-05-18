@@ -1,0 +1,1 @@
+{"index": 215582, "D": "a cell of osseous tissue within the bone matrix; a bone cell.", "S": [], "A": []}

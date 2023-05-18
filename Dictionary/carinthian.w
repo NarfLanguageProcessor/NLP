@@ -1,0 +1,1 @@
+{"index": 48069, "D": "a province in S Austria. 3,681 sq. mi. (9,535 sq. km). Capital", "S": [], "A": []}

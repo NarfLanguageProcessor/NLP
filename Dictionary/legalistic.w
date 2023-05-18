@@ -1,0 +1,1 @@
+{"index": 170017, "D": "of, relating to, or exhibiting strict adherence to the law, esp to the letter of the law rather than its spirit", "S": ["juridical "], "A": []}

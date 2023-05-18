@@ -1,0 +1,1 @@
+{"index": 208126, "D": "a person who does not use or partake of something, as drugs or alcoholic beverages.", "S": [], "A": []}

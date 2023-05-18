@@ -1,0 +1,1 @@
+{"index": 261766, "D": "in reality; actually", "S": ["absolutely ", "actually ", "certainly ", "easily ", "genuinely ", "honestly ", "indeed ", "legitimately ", "literally ", "surely ", "truly ", "undoubtedly ", "unquestionably ", "well "], "A": ["doubtfully ", "dubiously ", "indefinite ", "questionably "]}

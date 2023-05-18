@@ -1,0 +1,1 @@
+{"index": 236072, "D": "a pictorial sign or symbol.", "S": ["ABCs ", "characters ", "elements ", "fundamentals ", "hieroglyphs ", "ideograph ", "morphemes ", "phonemes ", "rune ", "signs ", "syllabary ", "symbols "], "A": []}

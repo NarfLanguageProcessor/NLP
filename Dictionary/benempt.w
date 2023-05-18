@@ -1,0 +1,1 @@
+{"index": 31587, "D": "past participles of bename. ", "S": [], "A": []}

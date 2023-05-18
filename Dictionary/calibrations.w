@@ -1,0 +1,1 @@
+{"index": 45071, "D": "the act or process of determining, checking, or rectifying the settings or gradations on a measuring instrument or other piece of precision equipment; the resulting condition of the equipment", "S": ["adjustment "], "A": []}

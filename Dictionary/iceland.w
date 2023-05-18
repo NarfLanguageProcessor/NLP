@@ -1,0 +1,1 @@
+{"index": 145990, "D": "a large island in the northern Atlantic between Greenland and Scandinavia. 39,698 square miles (102,820 square kilometers).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 11292, "D": "resembling the deep, hollow sound made by blowing across the mouth of a large, narrow-necked, empty bottle", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 369414, "D": "to cover or impregnate with zinc. ", "S": [], "A": []}

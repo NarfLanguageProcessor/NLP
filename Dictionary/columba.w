@@ -1,0 +1,1 @@
+{"index": 63497, "D": "Irish missionary in Scotland.", "S": [], "A": []}

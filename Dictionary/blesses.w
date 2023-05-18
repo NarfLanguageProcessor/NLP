@@ -1,0 +1,1 @@
+{"index": 36154, "D": "to consecrate or sanctify by a religious rite; make or pronounce holy.", "S": ["anoint ", "baptize ", "consecrate ", "ordain ", "thank "], "A": ["blame ", "castigate ", "censure ", "condemn ", "criticize ", "debase ", "denounce ", "deny ", "desecrate ", "disrespect ", "hold ", "humiliate ", "refuse ", "reproach ", "shame ", "take "]}

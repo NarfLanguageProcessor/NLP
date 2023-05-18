@@ -1,0 +1,1 @@
+{"index": 256056, "D": "a small, hollow-toothed deer of the genus Pudu, native to the South American Andes, having a dark brown or gray coat, a small head, and spiked antlers", "S": [], "A": []}

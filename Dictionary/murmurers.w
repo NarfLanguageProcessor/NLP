@@ -1,0 +1,1 @@
+{"index": 195753, "D": "a low, continuous sound, as of a brook, the wind, or trees, or of low, indistinct voices.", "S": ["bear ", "bellyacher ", "bug ", "complainer ", "crab ", "crank ", "crosspatch ", "curmudgeon ", "faultfinder ", "growler ", "grumbler ", "grump ", "kicker ", "malcontent ", "moaner ", "mutterer ", "sorehead ", "sourpuss ", "whiner "], "A": []}

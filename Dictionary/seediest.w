@@ -1,0 +1,1 @@
+{"index": 283083, "D": "abounding in seed. ", "S": ["crummy ", "decaying ", "decrepit ", "dingy ", "grubby ", "scruffy ", "shabby ", "sleazy ", "squalid ", "tacky "], "A": ["clean ", "good ", "neat ", "nice ", "respectable "]}

@@ -1,0 +1,1 @@
+{"index": 57157, "D": "a colorless liquid with an unpleasant odor, C6H11NH2, a strong organic base used in the manufacture of plastics and rubber and as a corrosion inhibitor.", "S": [], "A": []}

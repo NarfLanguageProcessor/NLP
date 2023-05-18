@@ -1,0 +1,1 @@
+{"index": 295238, "D": "any of several pricklebacks of the genus Lumpenus.", "S": [], "A": []}

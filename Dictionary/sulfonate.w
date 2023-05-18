@@ -1,0 +1,1 @@
+{"index": 310470, "D": "an ester or salt derived from a sulfonic acid.", "S": [], "A": []}

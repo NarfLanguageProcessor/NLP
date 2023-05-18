@@ -1,0 +1,1 @@
+{"index": 1288, "D": "of or resembling an acanthus", "S": [], "A": []}

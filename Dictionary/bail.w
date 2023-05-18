@@ -1,0 +1,1 @@
+{"index": 26453, "D": "property or money given as surety that a person released from custody will return at an appointed time.", "S": ["bond ", "warrant "], "A": ["break "]}

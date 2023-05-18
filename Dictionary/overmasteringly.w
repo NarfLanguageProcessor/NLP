@@ -1,0 +1,1 @@
+{"index": 220201, "D": "to gain mastery over; conquer; overpower", "S": [], "A": []}

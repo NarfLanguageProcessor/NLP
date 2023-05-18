@@ -1,0 +1,1 @@
+{"index": 78571, "D": "having the property of removing color;  bleaching.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 7795, "D": "a hormone produced by the cortex of the adrenal gland, instrumental in the regulation of sodium and potassium reabsorption by the cells of the tubular portion of the kidney.", "S": [], "A": []}

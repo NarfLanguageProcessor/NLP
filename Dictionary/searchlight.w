@@ -1,0 +1,1 @@
+{"index": 282552, "D": "a device, usually consisting of a light  and reflector, for throwing a beam of light  in any direction.", "S": ["flashlight ", "light "], "A": []}

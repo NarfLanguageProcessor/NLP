@@ -1,0 +1,1 @@
+{"index": 150865, "D": "arranged as or relating to an index or indexes", "S": [], "A": []}

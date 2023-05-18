@@ -1,0 +1,1 @@
+{"index": 120605, "D": "a light flintlock musket.", "S": ["carbine ", "rifle "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321805, "D": "surgical removal of the thymus  gland.", "S": [], "A": []}

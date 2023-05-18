@@ -1,0 +1,1 @@
+{"index": 132591, "D": "the relation between persons having only one common parent.", "S": [], "A": []}

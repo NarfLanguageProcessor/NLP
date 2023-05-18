@@ -1,0 +1,1 @@
+{"index": 251873, "D": "having protrusive jaws; having a gnathic index over 103.", "S": [], "A": []}

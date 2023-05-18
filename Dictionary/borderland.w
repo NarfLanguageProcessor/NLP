@@ -1,0 +1,1 @@
+{"index": 38379, "D": "land  forming a border  or frontier.", "S": ["boundary ", "edge ", "fringe ", "frontier ", "march ", "marchland "], "A": ["center ", "inside ", "interior ", "middle "]}

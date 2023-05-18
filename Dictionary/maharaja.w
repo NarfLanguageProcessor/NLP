@@ -1,0 +1,1 @@
+{"index": 177663, "D": "(formerly) a ruling prince in India, especially of one of the major states.", "S": [], "A": []}

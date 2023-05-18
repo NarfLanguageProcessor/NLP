@@ -1,0 +1,1 @@
+{"index": 301756, "D": "denoting any rough or ragged surface.", "S": [], "A": []}

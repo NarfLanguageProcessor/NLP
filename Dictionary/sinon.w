@@ -1,0 +1,1 @@
+{"index": 291917, "D": "a Greek, posing as a deserter, who persuaded the Trojans to take the Trojan Horse into their city.", "S": [], "A": []}

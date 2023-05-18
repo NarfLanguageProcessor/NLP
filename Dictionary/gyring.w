@@ -1,0 +1,1 @@
+{"index": 125513, "D": [], "S": ["rotate ", "whirl "], "A": ["steady "]}

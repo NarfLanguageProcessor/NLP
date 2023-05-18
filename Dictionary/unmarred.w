@@ -1,0 +1,1 @@
+{"index": 346033, "D": "damaged or spoiled to a certain extent; made less perfect, attractive, useful, etc.", "S": ["unblemished "], "A": []}

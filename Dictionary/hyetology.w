@@ -1,0 +1,1 @@
+{"index": 139196, "D": "the branch of meteorology dealing with precipitation.", "S": [], "A": []}

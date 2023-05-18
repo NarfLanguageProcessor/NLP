@@ -1,0 +1,1 @@
+{"index": 301603, "D": "a small number of soldiers, commonly 10 privates, a staff sergeant, and a corporal; the smallest military unit.", "S": [], "A": []}

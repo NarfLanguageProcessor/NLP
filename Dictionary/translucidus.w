@@ -1,0 +1,1 @@
+{"index": 328063, "D": "(of a cloud) sufficiently transparent as not to obscure the sun, moon, or higher clouds.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 18336, "D": "a member of a Semitic people inhabiting Arabia and other countries of the Middle East.", "S": [], "A": []}

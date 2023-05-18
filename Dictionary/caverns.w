@@ -1,0 +1,1 @@
+{"index": 50200, "D": "a cave, especially one that is large and mostly underground.", "S": ["cave ", "grotto ", "pothole "], "A": []}

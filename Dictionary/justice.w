@@ -1,0 +1,1 @@
+{"index": 162510, "D": "the quality of being just; righteousness, equitableness, or moral rightness", "S": ["authority ", "due process ", "honesty ", "integrity ", "law ", "right ", "truth "], "A": ["corruption ", "dishonesty ", "falsehood ", "award ", "penalty ", "refusal ", "reward "]}

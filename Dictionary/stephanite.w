@@ -1,0 +1,1 @@
+{"index": 303769, "D": "a mineral, silver antimony sulfide, Ag5SbS4", "S": [], "A": []}

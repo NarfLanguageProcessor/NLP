@@ -1,0 +1,1 @@
+{"index": 51814, "D": "cost, freight, and insurance.", "S": [], "A": []}

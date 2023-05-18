@@ -1,0 +1,1 @@
+{"index": 277680, "D": "authoritative permission or approval, as for an action.", "S": ["permissive "], "A": ["disabling "]}

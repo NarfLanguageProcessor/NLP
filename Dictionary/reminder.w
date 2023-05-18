@@ -1,0 +1,1 @@
+{"index": 267298, "D": "a person or thing that serves to remind. ", "S": ["admonition ", "expression ", "gesture ", "hint ", "indication ", "remembrance ", "sign ", "suggestion "], "A": ["forgetfulness "]}

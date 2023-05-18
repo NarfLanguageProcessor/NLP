@@ -1,0 +1,1 @@
+{"index": 99766, "D": "secreting internally into the blood or lymph.", "S": [], "A": []}

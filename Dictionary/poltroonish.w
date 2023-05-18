@@ -1,0 +1,1 @@
+{"index": 242806, "D": "a wretched coward; craven.", "S": ["mean-spirited "], "A": ["bold ", "brave ", "courageous ", "heroic ", "strong "]}

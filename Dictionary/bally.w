@@ -1,0 +1,1 @@
+{"index": 26968, "D": "damned (euphemism for bloody).", "S": [], "A": []}

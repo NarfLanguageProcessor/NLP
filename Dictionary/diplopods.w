@@ -1,0 +1,1 @@
+{"index": 86612, "D": "belonging or pertaining to the class Diplopoda.", "S": [], "A": []}

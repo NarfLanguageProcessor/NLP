@@ -1,0 +1,1 @@
+{"index": 98381, "D": "to make or become brown  or dark.", "S": [], "A": []}

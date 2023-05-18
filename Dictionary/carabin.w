@@ -1,0 +1,1 @@
+{"index": 47262, "D": "variants of carbine (def. 2)", "S": [], "A": []}

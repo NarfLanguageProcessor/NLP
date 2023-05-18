@@ -1,0 +1,1 @@
+{"index": 151636, "D": [], "S": ["forthcoming ", "immediate ", "impending ", "inevitable ", "likely ", "looming ", "possible ", "probable ", "unavoidable "], "A": ["avoidable ", "distant ", "escapable ", "later ", "never ", "unlikely "]}

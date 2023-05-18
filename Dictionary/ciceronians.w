@@ -1,0 +1,1 @@
+{"index": 57044, "D": "of or relating to Cicero or his writings", "S": [], "A": []}

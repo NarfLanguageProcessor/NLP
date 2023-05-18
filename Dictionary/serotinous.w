@@ -1,0 +1,1 @@
+{"index": 286259, "D": "Late in developing, opening, or blooming. For example, serotinous pine cones may persist unopened on the tree for years and only burst open during a forest fire. Serotinous flowers on trees develop only after the tree has produced leaves.", "S": [], "A": []}

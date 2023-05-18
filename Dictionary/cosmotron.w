@@ -1,0 +1,1 @@
+{"index": 70114, "D": "a proton accelerator.", "S": [], "A": []}

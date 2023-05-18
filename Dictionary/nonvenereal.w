@@ -1,0 +1,1 @@
+{"index": 208215, "D": "arising from, connected with, or transmitted through sexual intercourse, as an infection.", "S": [], "A": []}

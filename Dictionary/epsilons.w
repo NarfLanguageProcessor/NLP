@@ -1,0 +1,1 @@
+{"index": 103130, "D": "the fifth letter of the Greek alphabet (E, \u03b5).", "S": [], "A": []}

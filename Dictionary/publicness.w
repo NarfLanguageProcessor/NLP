@@ -1,0 +1,1 @@
+{"index": 255928, "D": "the quality or state of being public  or being owned by the public. ", "S": [], "A": []}

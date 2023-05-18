@@ -1,0 +1,1 @@
+{"index": 256594, "D": "strictly observant of an appointed or regular time; not late; prompt.", "S": ["dependable ", "expeditious "], "A": ["late ", "tardy "]}

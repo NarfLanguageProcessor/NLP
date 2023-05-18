@@ -1,0 +1,1 @@
+{"index": 241032, "D": "a small platform for the conductor of an orchestra, a public speaker, the recipient of a sports medal, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175921, "D": "a simple board game in which players advance counters by throwing dice", "S": [], "A": []}

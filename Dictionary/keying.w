@@ -1,0 +1,1 @@
+{"index": 163649, "D": "a small metal instrument specially cut to fit into a lock and move its bolt.", "S": [], "A": []}

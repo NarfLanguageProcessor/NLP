@@ -1,0 +1,1 @@
+{"index": 329062, "D": "subject or liable to judicial trial.", "S": ["actionable ", "appealable ", "contestable ", "disputable ", "prosecutable "], "A": []}

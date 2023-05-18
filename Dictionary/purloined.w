@@ -1,0 +1,1 @@
+{"index": 257002, "D": "to take dishonestly; steal; filch; pilfer.", "S": ["hijacked ", "lifted ", "pinched ", "robbed ", "snatched "], "A": []}

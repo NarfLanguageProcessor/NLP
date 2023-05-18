@@ -1,0 +1,1 @@
+{"index": 215366, "D": "of or containing osmium  in its higher valences, especially the tetravalent state.", "S": [], "A": []}

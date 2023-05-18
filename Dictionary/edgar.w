@@ -1,0 +1,1 @@
+{"index": 95700, "D": "an award given annually in various categories of mystery writing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 320022, "D": "a colorless, water-insoluble, flammable gas, C2F4, used in the synthesis of certain polymeric resins, as Teflon.", "S": [], "A": []}

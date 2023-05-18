@@ -1,0 +1,1 @@
+{"index": 332422, "D": "a yellow or yellowish-green mineral, tungsten trioxide,  WO3, usually occurring in a pulverulent form.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 200610, "D": "a metal or plastic piece at the end of an arrow, having a notch for the bowstring.", "S": [], "A": []}

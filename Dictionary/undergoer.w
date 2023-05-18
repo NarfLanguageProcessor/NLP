@@ -1,0 +1,1 @@
+{"index": 339270, "D": "to be subjected to; experience; pass through", "S": [], "A": []}

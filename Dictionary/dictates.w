@@ -1,0 +1,1 @@
+{"index": 84954, "D": "to say or read (something) aloud for another person to transcribe or for a machine to record", "S": ["method ", "policy ", "practice ", "rite ", "rule ", "style ", "system "], "A": ["disorganization ", "heedlessness ", "neglect ", "thoughtlessness "]}

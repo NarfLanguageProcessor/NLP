@@ -1,0 +1,1 @@
+{"index": 46225, "D": "a scissorlike instrument for removing the snuff  of candles,  tapers, etc., usually with a small box for catching the trimmed wick.", "S": [], "A": []}

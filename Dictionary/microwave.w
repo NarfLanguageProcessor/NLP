@@ -1,0 +1,1 @@
+{"index": 186622, "D": "an electromagnetic wave  of extremely high frequency, 1 GH3 or more, and having wavelengths of from 1 millimeter to 30 centimeters.", "S": ["bake ", "zap "], "A": []}

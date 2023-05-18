@@ -1,0 +1,1 @@
+{"index": 131846, "D": "a large landed estate, especially one used for farming or ranching.", "S": ["cattle ranch ", "farmhouse "], "A": []}

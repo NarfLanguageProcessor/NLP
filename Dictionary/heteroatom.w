@@ -1,0 +1,1 @@
+{"index": 137468, "D": "an atom  other than carbon in the ring structure of a heterocyclic compound.", "S": [], "A": []}

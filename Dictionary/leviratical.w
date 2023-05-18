@@ -1,0 +1,1 @@
+{"index": 171257, "D": "the custom of marriage by a man with his brother's widow, such marriage required in Biblical law if the deceased was childless. Deuteronomy 25", "S": [], "A": []}

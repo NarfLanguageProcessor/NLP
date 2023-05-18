@@ -1,0 +1,1 @@
+{"index": 82951, "D": "without means of subsistence; lacking food, clothing, and shelter.", "S": ["default ", "disaster ", "failure ", "insolvency ", "liquidation ", "loss "], "A": ["accomplishment ", "achievement ", "success ", "win "]}

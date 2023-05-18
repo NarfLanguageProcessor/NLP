@@ -1,0 +1,1 @@
+{"index": 35063, "D": "of or containing bismuth,  especially in the pentavalent state.", "S": [], "A": []}

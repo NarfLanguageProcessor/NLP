@@ -1,0 +1,1 @@
+{"index": 279545, "D": "to shock or horrify by something considered immoral or improper.", "S": ["blabbermouth ", "busybody ", "chatterbox ", "chatterer ", "flibbertigibbet ", "gossipmonger ", "informer ", "meddler ", "newsmonger ", "parrot ", "prattler ", "rumormonger ", "scandalmonger ", "snoop ", "talebearer ", "tattler ", "telltale "], "A": ["fact "]}

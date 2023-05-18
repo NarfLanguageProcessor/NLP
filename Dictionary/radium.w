@@ -1,0 +1,1 @@
+{"index": 259828, "D": "a highly radioactive metallic element whose decay yields radon  gas and alpha rays. Symbol", "S": [], "A": []}

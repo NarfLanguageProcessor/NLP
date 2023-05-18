@@ -1,0 +1,1 @@
+{"index": 195070, "D": "involving or pertaining to two or more distinct ethnic  groups.", "S": [], "A": []}

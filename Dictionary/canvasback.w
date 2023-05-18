@@ -1,0 +1,1 @@
+{"index": 46714, "D": "a North American wild duck, Aythya valisineria, the male of which has a whitish back and a reddish-brown head and neck.", "S": [], "A": []}

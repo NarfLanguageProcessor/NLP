@@ -1,0 +1,1 @@
+{"index": 45668, "D": "four wise and prophetic deities or fountain nymphs", "S": [], "A": []}

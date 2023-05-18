@@ -1,0 +1,1 @@
+{"index": 2245, "D": "of, relating to, or typical of a Lower Paleolithic culture of the middle Pleistocene Epoch, characterized by large hand axes and cleavers made by the soft hammer technique.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 54652, "D": "a shrubby chestnut, Castanea pumila, of the beech family, native to the southeastern United States, having toothed, oblong leaves and small edible nuts.", "S": [], "A": []}

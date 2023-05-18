@@ -1,0 +1,1 @@
+{"index": 160921, "D": "a blunt wooden javelin used in games played on horseback in certain Muslim countries in the Middle East.", "S": [], "A": []}

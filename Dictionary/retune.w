@@ -1,0 +1,1 @@
+{"index": 270963, "D": "to tune (a musical instrument) differently or again", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25066, "D": [], "S": ["afflicted ", "ailing ", "diseased ", "infirm ", "poorly ", "woozy "], "A": ["healthy "]}

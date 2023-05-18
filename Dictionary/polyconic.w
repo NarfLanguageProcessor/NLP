@@ -1,0 +1,1 @@
+{"index": 241779, "D": "pertaining to or utilizing two or more cones.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 337176, "D": "characterized by or causing cohesion", "S": [], "A": []}

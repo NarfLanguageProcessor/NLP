@@ -1,0 +1,1 @@
+{"index": 151498, "D": "not efficient;  unable to effect or achieve the desired result with reasonable economy of means.", "S": ["badly ", "carelessly ", "inadequately ", "unproductively ", "wastefully "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 268168, "D": "a type of theatrical presentation in which a company presents several works regularly or in alternate sequence in one season.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 112326, "D": "a European thrush, Turdus pilaris, having reddish-brown plumage with an ashy head and a blackish tail.", "S": [], "A": []}

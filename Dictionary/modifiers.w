@@ -1,0 +1,1 @@
+{"index": 191147, "D": "a person or thing that modifies.", "S": ["adjective ", "adverb ", "conditioner ", "transformer "], "A": []}

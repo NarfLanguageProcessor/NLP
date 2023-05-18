@@ -1,0 +1,1 @@
+{"index": 78413, "D": "a decked terrace", "S": ["decorated ", "embellished "], "A": ["marred ", "unadorned "]}

@@ -1,0 +1,1 @@
+{"index": 267580, "D": "an agreement between two or more persons to meet at a certain time and place.", "S": ["assignation ", "blind date ", "tryst "], "A": []}

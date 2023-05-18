@@ -1,0 +1,1 @@
+{"index": 40311, "D": "a stroke  made in the prone position, in which both hands move simultaneously forward, outward, and rearward from in front of the chest while the legs move in a frog kick.", "S": ["bathe ", "crawl ", "dive ", "float ", "glide ", "paddle ", "submerge ", "wade "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 365650, "D": "a small wig,  especially one used to supplement the existing hair.", "S": [], "A": []}

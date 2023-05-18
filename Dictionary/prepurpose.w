@@ -1,0 +1,1 @@
+{"index": 248999, "D": "the reason for which something exists or is done, made, used, etc.", "S": [], "A": []}

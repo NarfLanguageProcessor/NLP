@@ -1,0 +1,1 @@
+{"index": 323045, "D": "any of various stones or fossils formerly thought to be fallen thunderbolts.", "S": [], "A": []}

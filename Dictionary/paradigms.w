@@ -1,0 +1,1 @@
+{"index": 225499, "D": "such a cognitive framework shared by members of any discipline or group", "S": ["archetype ", "chart ", "criterion ", "exemplar ", "ideal ", "mirror ", "model ", "original ", "pattern ", "prototype ", "sample ", "standard "], "A": []}

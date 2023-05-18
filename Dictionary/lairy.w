@@ -1,0 +1,1 @@
+{"index": 167448, "D": "of, relating to, or characteristic of a lair,  a man who dresses garishly and is crude or vulgar.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 284753, "D": "of or relating to practice  or action", "S": [], "A": []}

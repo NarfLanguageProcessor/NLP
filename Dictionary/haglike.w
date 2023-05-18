@@ -1,0 +1,1 @@
+{"index": 132253, "D": "an ugly old woman, especially a vicious or malicious one.", "S": [], "A": []}

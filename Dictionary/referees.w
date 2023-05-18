@@ -1,0 +1,1 @@
+{"index": 264986, "D": "one to whom something is referred,  especially for decision or settlement; arbitrator.", "S": ["arbiter ", "arbitrator ", "judge ", "ref ", "umpire "], "A": []}

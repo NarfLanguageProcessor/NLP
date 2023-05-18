@@ -1,0 +1,1 @@
+{"index": 328625, "D": "a grotesque or debased likeness or imitation", "S": ["burlesque ", "distortion ", "exaggeration ", "farce ", "mockery ", "perversion ", "satire ", "sham "], "A": ["seriousness ", "solemnity "]}

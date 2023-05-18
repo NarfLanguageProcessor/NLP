@@ -1,0 +1,1 @@
+{"index": 164201, "D": "the seventh letter of the Arabic alphabet, representing a velar spirant consonant sound.", "S": [], "A": []}

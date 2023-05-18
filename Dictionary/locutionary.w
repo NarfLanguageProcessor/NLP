@@ -1,0 +1,1 @@
+{"index": 174470, "D": "pertaining to the act of conveying semantic content in an utterance, considered as independent of the interaction between the speaker and the listener.", "S": [], "A": []}

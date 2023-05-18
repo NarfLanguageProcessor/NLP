@@ -1,0 +1,1 @@
+{"index": 22111, "D": "examination by means of an astigmatoscope.", "S": [], "A": []}

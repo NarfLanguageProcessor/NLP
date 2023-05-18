@@ -1,0 +1,1 @@
+{"index": 245307, "D": "a trick of an amusing, playful, or sometimes malicious nature.", "S": ["antic ", "gag ", "high jinks ", "horseplay ", "lark ", "spoof ", "trick "], "A": ["seriousness ", "work "]}

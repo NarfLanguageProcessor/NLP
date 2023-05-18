@@ -1,0 +1,1 @@
+{"index": 279565, "D": "of or relating to scandium", "S": [], "A": []}

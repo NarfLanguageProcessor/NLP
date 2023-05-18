@@ -1,0 +1,1 @@
+{"index": 264199, "D": "to make whole again; restore to a perfect state; renew; reestablish.", "S": [], "A": []}

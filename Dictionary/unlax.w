@@ -1,0 +1,1 @@
+{"index": 345480, "D": "to relax; rest.", "S": ["decrease ", "diminish ", "dull ", "dwindle ", "ebb ", "recede ", "slacken ", "slow ", "subside ", "taper ", "taper off ", "wane "], "A": ["advance ", "develop ", "enlarge ", "expand ", "extend ", "forward ", "grow ", "increase ", "raise ", "rise ", "incite ", "win "]}

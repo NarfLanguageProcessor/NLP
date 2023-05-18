@@ -1,0 +1,1 @@
+{"index": 156939, "D": "a stone used by the Inuit to mark a location", "S": [], "A": []}

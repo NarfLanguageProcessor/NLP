@@ -1,0 +1,1 @@
+{"index": 63954, "D": "serving to commend;  approving; praising.", "S": ["acclamatory ", "applauding ", "approbatory ", "congratulatory ", "favorable ", "laudatory ", "positive ", "praiseful ", "praising "], "A": []}

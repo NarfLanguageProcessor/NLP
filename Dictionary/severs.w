@@ -1,0 +1,1 @@
+{"index": 286777, "D": "to separate (a part) from the whole, as by cutting or the like.", "S": ["detach ", "disconnect ", "separate ", "split "], "A": ["attach ", "combine ", "connect ", "couple ", "join ", "link ", "unite "]}

@@ -1,0 +1,1 @@
+{"index": 264218, "D": "to pay out (money), especially for expenses; expend.", "S": [], "A": []}

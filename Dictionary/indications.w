@@ -1,0 +1,1 @@
+{"index": 150909, "D": "anything serving to indicate  or point out, as a sign or token.", "S": ["break ", "likelihood ", "odds ", "opportunity ", "outlook ", "prospect ", "shot ", "time "], "A": ["bad luck ", "misfortune ", "unlikelihood ", "reality ", "truth "]}

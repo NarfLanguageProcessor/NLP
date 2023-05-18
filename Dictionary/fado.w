@@ -1,0 +1,1 @@
+{"index": 109161, "D": "a Portuguese folk song typically of doleful or fatalistic character and usually accompanied on the guitar.", "S": [], "A": []}

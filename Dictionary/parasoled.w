@@ -1,0 +1,1 @@
+{"index": 226123, "D": "a lightweight umbrella used, especially by women, as a sunshade.", "S": [], "A": []}

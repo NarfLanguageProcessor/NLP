@@ -1,0 +1,1 @@
+{"index": 339386, "D": "to lay under or beneath.", "S": [], "A": []}

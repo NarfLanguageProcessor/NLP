@@ -1,0 +1,1 @@
+{"index": 271093, "D": "to renovate, redo, or revise", "S": ["clean ", "overhaul ", "refurbish ", "rehabilitate ", "remake ", "remodel ", "repair ", "restore ", "revitalize ", "revive ", "update "], "A": ["break ", "damage ", "destroy ", "hurt ", "ruin "]}

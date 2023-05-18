@@ -1,0 +1,1 @@
+{"index": 289869, "D": "a severe swinging blow from the side. ", "S": [], "A": []}

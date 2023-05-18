@@ -1,0 +1,1 @@
+{"index": 272969, "D": "U.S. sculptor and painter, born in England.", "S": [], "A": []}

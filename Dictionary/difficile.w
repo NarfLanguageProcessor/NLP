@@ -1,0 +1,1 @@
+{"index": 85304, "D": "hard to deal with, satisfy, or please.", "S": ["ambitious ", "arduous ", "burdensome ", "challenging ", "crucial ", "demanding ", "laborious ", "onerous ", "painful ", "problematic ", "severe ", "strenuous ", "tough ", "troublesome "], "A": ["easy ", "effortless ", "facile ", "helpful ", "nice ", "trivial "]}

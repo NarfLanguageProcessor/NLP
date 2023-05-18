@@ -1,0 +1,1 @@
+{"index": 226264, "D": "extremely or completely dried, as by heat, sun, or wind", "S": ["lack ", "scarcity "], "A": ["abundance ", "excess ", "surplus ", "plenty ", "sufficiency "]}

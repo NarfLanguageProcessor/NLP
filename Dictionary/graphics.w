@@ -1,0 +1,1 @@
+{"index": 129077, "D": "the art of drawing, especially as used in mathematics, engineering, etc.", "S": ["artwork ", "computer graphics ", "visuals "], "A": []}

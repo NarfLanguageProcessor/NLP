@@ -1,0 +1,1 @@
+{"index": 188981, "D": "improper conduct;  wrong behavior.", "S": ["dereliction ", "immorality ", "impropriety ", "malfeasance ", "malpractice ", "misbehavior ", "mischief ", "misdemeanor ", "mismanagement ", "offense ", "transgression ", "wrongdoing "], "A": ["behavior ", "obedience "]}

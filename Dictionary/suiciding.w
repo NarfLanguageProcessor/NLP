@@ -1,0 +1,1 @@
+{"index": 310288, "D": "the intentional taking of one's own life.", "S": [], "A": []}

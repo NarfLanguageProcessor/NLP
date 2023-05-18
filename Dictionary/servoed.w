@@ -1,0 +1,1 @@
+{"index": 286493, "D": "acting as part of a servomechanism", "S": [], "A": []}

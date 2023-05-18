@@ -1,0 +1,1 @@
+{"index": 339311, "D": "a tool consisting of a solid head, usually of metal, set crosswise on a handle, used for beating metals, driving nails, etc.", "S": [], "A": []}

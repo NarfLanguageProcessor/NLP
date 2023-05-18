@@ -1,0 +1,1 @@
+{"index": 353086, "D": "existing or being such in title  only; nominal; having the title  but none of the associated duties, powers, etc.", "S": [], "A": []}

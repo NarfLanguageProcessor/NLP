@@ -1,0 +1,1 @@
+{"index": 185905, "D": "a balance  for weighing minute quantities of material.", "S": [], "A": []}

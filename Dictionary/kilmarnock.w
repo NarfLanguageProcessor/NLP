@@ -1,0 +1,1 @@
+{"index": 164621, "D": "an administrative district in the Strathclyde region, in SW Scotland.", "S": [], "A": []}

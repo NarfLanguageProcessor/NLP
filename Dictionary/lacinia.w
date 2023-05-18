@@ -1,0 +1,1 @@
+{"index": 166926, "D": "a jagged or irregular part of a leaf or petal.", "S": [], "A": []}

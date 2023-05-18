@@ -1,0 +1,1 @@
+{"index": 25632, "D": "a priest, priestess, or votary of Bacchus; bacchanal.", "S": ["merrymaker ", "ranter ", "roisterer "], "A": []}

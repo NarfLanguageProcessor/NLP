@@ -1,0 +1,1 @@
+{"index": 244786, "D": "a broken pottery fragment, especially one of archaeological value.", "S": [], "A": []}

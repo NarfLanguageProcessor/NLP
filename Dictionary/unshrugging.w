@@ -1,0 +1,1 @@
+{"index": 351076, "D": "to raise and contract (the shoulders), expressing indifference, disdain, etc.", "S": [], "A": []}

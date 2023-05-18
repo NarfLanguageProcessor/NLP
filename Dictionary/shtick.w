@@ -1,0 +1,1 @@
+{"index": 289313, "D": "(especially in comic acting) a routine or piece of business inserted to gain a laugh or draw attention to oneself.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 95980, "D": "(of a man or boy) having traits, tastes, habits, etc., traditionally considered feminine, as softness or delicacy.", "S": ["femaleness ", "feminineness ", "femininity ", "sissiness ", "unmanliness ", "womanishness "], "A": []}

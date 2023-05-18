@@ -1,0 +1,1 @@
+{"index": 328160, "D": "in a way that is shared or reciprocal", "S": [], "A": []}

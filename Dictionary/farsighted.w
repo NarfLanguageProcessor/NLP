@@ -1,0 +1,1 @@
+{"index": 110054, "D": "seeing objects at a distance more clearly than those near at hand; hyperopic.", "S": ["canny ", "levelheaded ", "prescient ", "prudent ", "shrewd ", "wise "], "A": ["foolish ", "stupid ", "unreasonable ", "unwise "]}

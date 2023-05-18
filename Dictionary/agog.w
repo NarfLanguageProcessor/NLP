@@ -1,0 +1,1 @@
+{"index": 6339, "D": "highly excited by eagerness, curiosity, anticipation, etc.", "S": ["anxious ", "avid ", "breathless ", "eager ", "enthusiastic ", "excited ", "expectant ", "impatient ", "in suspense ", "on tenterhooks "], "A": []}

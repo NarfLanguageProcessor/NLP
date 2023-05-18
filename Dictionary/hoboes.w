@@ -1,0 +1,1 @@
+{"index": 142137, "D": "a tramp or vagrant.", "S": [], "A": []}

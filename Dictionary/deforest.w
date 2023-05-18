@@ -1,0 +1,1 @@
+{"index": 79452, "D": "to divest or clear of forests  or trees", "S": [], "A": []}

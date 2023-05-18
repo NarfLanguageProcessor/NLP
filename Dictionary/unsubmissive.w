@@ -1,0 +1,1 @@
+{"index": 352256, "D": "inclined or ready to submit  or yield to the authority of another; unresistingly or humbly obedient", "S": ["rebellious "], "A": ["contented ", "happy ", "pleased ", "satisfied "]}

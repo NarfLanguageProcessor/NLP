@@ -1,0 +1,1 @@
+{"index": 148553, "D": "to put in peril  or danger; endanger.", "S": [], "A": []}

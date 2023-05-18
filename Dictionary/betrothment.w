@@ -1,0 +1,1 @@
+{"index": 32815, "D": "the act or state of being betrothed;  engagement.", "S": ["commitment ", "obligation ", "pact "], "A": ["breach ", "break ", "disagreement "]}

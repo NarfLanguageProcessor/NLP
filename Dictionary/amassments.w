@@ -1,0 +1,1 @@
+{"index": 9856, "D": "to gather for oneself; collect as one's own", "S": ["acquiring ", "aggregation ", "amassing ", "assemblage ", "collection ", "cumulation ", "gathering ", "mass "], "A": []}

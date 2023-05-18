@@ -1,0 +1,1 @@
+{"index": 358142, "D": "retardation or stoppage of blood flow through a vein.", "S": [], "A": []}

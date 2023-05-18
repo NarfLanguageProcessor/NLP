@@ -1,0 +1,1 @@
+{"index": 23359, "D": "Compare addend (def. 2). ", "S": [], "A": []}

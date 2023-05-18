@@ -1,0 +1,1 @@
+{"index": 255412, "D": "of or relating to a response involving both motor  and psychological components.", "S": [], "A": []}

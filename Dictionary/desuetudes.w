@@ -1,0 +1,1 @@
+{"index": 83003, "D": "the state of being no longer used or practiced.", "S": ["disuse ", "inactivity "], "A": []}

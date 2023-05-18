@@ -1,0 +1,1 @@
+{"index": 129079, "D": "a diagram representing a system of connections or interrelations among two or more things by a number of distinctive dots, lines, bars, etc.", "S": ["delineate ", "devise ", "lay out ", "outline ", "sketch "], "A": ["disorder ", "disorganize ", "neglect "]}

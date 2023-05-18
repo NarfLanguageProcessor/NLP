@@ -1,0 +1,1 @@
+{"index": 351729, "D": "not spent  or used, as money.", "S": ["invested ", "retained "], "A": ["ruined ", "spent ", "squandered ", "wasted "]}

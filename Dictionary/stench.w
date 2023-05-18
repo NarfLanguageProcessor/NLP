@@ -1,0 +1,1 @@
+{"index": 303623, "D": "an offensive smell or odor; stink.", "S": ["smell ", "stink "], "A": ["perfume ", "sweetness "]}

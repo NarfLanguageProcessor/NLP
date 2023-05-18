@@ -1,0 +1,1 @@
+{"index": 152033, "D": "the quality or state of being infinite.", "S": ["boundlessness ", "continuity ", "continuum ", "eternity ", "expanse ", "extent ", "immensity ", "infinitude ", "limitlessness ", "myriad ", "perpetuity ", "sempiternity ", "space ", "ubiquity ", "vastness "], "A": ["bounds ", "definiteness ", "ending ", "limitation "]}

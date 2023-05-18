@@ -1,0 +1,1 @@
+{"index": 214288, "D": "of or relating to desire; appetitive.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 70429, "D": "a person who lives in a cottage. ", "S": [], "A": []}

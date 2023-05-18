@@ -1,0 +1,1 @@
+{"index": 223552, "D": "the roof of the mouth, consisting of an anterior bony portion (hard palate ) and a posterior muscular portion (soft palate,  orvelum ) that separate the oral cavity from the nasal cavity.", "S": [], "A": []}

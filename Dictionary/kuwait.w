@@ -1,0 +1,1 @@
+{"index": 166552, "D": "a sovereign monarchy in northeastern Arabia, on the northwest coast of the Persian Gulf", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 15962, "D": "having the power of producing; generative; creative", "S": [], "A": []}

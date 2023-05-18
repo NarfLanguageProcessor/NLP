@@ -1,0 +1,1 @@
+{"index": 244767, "D": "an instrument for measuring the amount of water that a plant loses through transpiration, consisting of a sealed vessel of water with a cutting inserted in such a way that moisture can escape only through absorption and transpiration.", "S": [], "A": []}

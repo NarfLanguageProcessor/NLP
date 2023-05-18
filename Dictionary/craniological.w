@@ -1,0 +1,1 @@
+{"index": 72071, "D": "the science that deals with the size, shape, and other characteristics of human skulls.", "S": [], "A": []}

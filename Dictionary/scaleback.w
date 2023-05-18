@@ -1,0 +1,1 @@
+{"index": 279399, "D": "a reduction in size, quantity, or activity according to a fixed scale or proportion", "S": ["curtail ", "cut back ", "cut down ", "diminish ", "phase out ", "reduce ", "retrench ", "scale down ", "shrink ", "trim "], "A": ["develop ", "enlarge ", "expand ", "extend ", "grow ", "increase ", "lengthen ", "prolong ", "add ", "raise "]}

@@ -1,0 +1,1 @@
+{"index": 18320, "D": "a white, crystalline, water-soluble solid, C5H10O5, obtained from plant gums or made synthetically from glucose, used chiefly as a culture medium in bacteriology.", "S": [], "A": []}

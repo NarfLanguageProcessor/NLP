@@ -1,0 +1,1 @@
+{"index": 164421, "D": "a buoyant, usually small board  that is used to support the arms of a swimmer, used chiefly in practicing kicking  movements.", "S": [], "A": []}

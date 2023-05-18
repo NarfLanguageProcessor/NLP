@@ -1,0 +1,1 @@
+{"index": 322677, "D": "without thrift; improvident; wasteful.", "S": [], "A": []}

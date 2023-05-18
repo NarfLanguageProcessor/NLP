@@ -1,0 +1,1 @@
+{"index": 36836, "D": "a gross, stupid, or careless mistake", "S": ["amateurish ", "rude ", "stiff "], "A": ["adroit ", "artful ", "clever ", "convenient ", "dexterous ", "easy ", "elegant ", "graceful ", "handy ", "skillful ", "straightforward "]}

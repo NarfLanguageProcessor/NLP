@@ -1,0 +1,1 @@
+{"index": 237670, "D": "any of several chrysanthemums, as Chrysanthemum coccineum, having finely divided leaves and showy red, pink, lilac, or white flowers, cultivated as an ornamental.", "S": [], "A": []}

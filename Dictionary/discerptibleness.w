@@ -1,0 +1,1 @@
+{"index": 87293, "D": "capable of being torn apart; divisible.", "S": [], "A": []}

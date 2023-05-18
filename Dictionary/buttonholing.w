@@ -1,0 +1,1 @@
+{"index": 43751, "D": "the hole,  slit, or loop through which a button  is passed and by which it is secured.", "S": ["assail ", "demand ", "force ", "petition ", "push ", "squeeze ", "sue ", "urge ", "worry "], "A": ["give ", "aid ", "assist ", "cheer ", "comfort ", "help ", "please ", "soothe "]}

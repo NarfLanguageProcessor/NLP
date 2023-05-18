@@ -1,0 +1,1 @@
+{"index": 100616, "D": "to prescribe (a course of action) with authority or emphasis", "S": ["ban ", "defiance ", "exclusion ", "noncompliance ", "rejection ", "reversal ", "veto "], "A": ["acceptance ", "allowance ", "approval ", "permission ", "ratification ", "sanction ", "agreement ", "attraction ", "confirmation ", "endorsement "]}

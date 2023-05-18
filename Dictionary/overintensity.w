@@ -1,0 +1,1 @@
+{"index": 219896, "D": "the quality or condition of being intense.", "S": [], "A": []}

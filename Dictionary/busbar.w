@@ -1,0 +1,1 @@
+{"index": 43366, "D": "an electrical conductor, maintained at a specific voltage and capable of carrying a high current, usually used to make a common connection between several circuits in a system", "S": [], "A": []}

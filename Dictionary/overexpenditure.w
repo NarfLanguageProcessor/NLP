@@ -1,0 +1,1 @@
+{"index": 219257, "D": "the act of expending  something, especially funds; disbursement; consumption.", "S": [], "A": []}

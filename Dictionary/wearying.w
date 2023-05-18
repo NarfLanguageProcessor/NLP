@@ -1,0 +1,1 @@
+{"index": 363555, "D": "physically or mentally exhausted by hard work, exertion, strain, etc.; fatigued; tired", "S": ["debilitating ", "draining ", "exhausting ", "fatiguing ", "wearing "], "A": []}

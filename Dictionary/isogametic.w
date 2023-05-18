@@ -1,0 +1,1 @@
+{"index": 158952, "D": "one of a pair of conjugating gametes,  exhibiting no differences in form, size, structure, or sex.", "S": [], "A": []}

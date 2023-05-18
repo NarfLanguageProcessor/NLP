@@ -1,0 +1,1 @@
+{"index": 295869, "D": "a storm  accompanied by a heavy fall of snow. ", "S": ["blizzard "], "A": []}

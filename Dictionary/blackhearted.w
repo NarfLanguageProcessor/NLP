@@ -1,0 +1,1 @@
+{"index": 35514, "D": "disposed to doing or wishing evil; malevolent; malicious.", "S": ["dire ", "evil ", "malevolent ", "mischievous ", "ominous ", "perverse ", "threatening "], "A": ["auspicious ", "good ", "lucky ", "nice "]}

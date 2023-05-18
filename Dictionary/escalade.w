@@ -1,0 +1,1 @@
+{"index": 104089, "D": "a scaling or mounting by means of ladders, especially in an assault upon a fortified place.", "S": ["ascend ", "clamber ", "go up ", "mount ", "rise ", "scale ", "soar ", "top "], "A": ["decline ", "decrease ", "descend ", "drop ", "fall ", "lower ", "slump "]}

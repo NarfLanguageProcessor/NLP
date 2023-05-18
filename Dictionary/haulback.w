@@ -1,0 +1,1 @@
+{"index": 134306, "D": "(in lumbering) a small line for pulling a cable back to its original position after it has been used to haul a log away.", "S": [], "A": []}

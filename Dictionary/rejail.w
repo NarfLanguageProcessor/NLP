@@ -1,0 +1,1 @@
+{"index": 266578, "D": "a prison, especially one for the detention of persons awaiting trial or convicted of minor offenses.", "S": [], "A": []}

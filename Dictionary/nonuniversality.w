@@ -1,0 +1,1 @@
+{"index": 208106, "D": "the character or state of being universal;  existence or prevalence everywhere.", "S": [], "A": []}

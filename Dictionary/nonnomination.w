@@ -1,0 +1,1 @@
+{"index": 205505, "D": "an act or instance of nominating,  especially to office", "S": [], "A": []}

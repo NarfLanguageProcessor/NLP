@@ -1,0 +1,1 @@
+{"index": 241029, "D": "pudgy. ", "S": ["chunky ", "flabby ", "plump ", "portly ", "pudgy ", "stout "], "A": ["lean ", "skinny ", "slim ", "thin "]}

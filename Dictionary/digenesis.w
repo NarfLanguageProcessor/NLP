@@ -1,0 +1,1 @@
+{"index": 85394, "D": "alternation of generations. ", "S": [], "A": []}

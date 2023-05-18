@@ -1,0 +1,1 @@
+{"index": 305623, "D": "to attack (ground troops or installations) by airplanes with machine-gun fire.", "S": [], "A": []}

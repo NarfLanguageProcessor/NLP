@@ -1,0 +1,1 @@
+{"index": 83522, "D": "deviating  or departing from the norm; characterized by deviation", "S": ["aberrant ", "bent ", "irregular ", "queer ", "variant ", "wandering ", "weird "], "A": ["normal ", "regular ", "same ", "usual "]}

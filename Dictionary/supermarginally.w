@@ -1,0 +1,1 @@
+{"index": 312220, "D": "by a minimal, insignificant, or almost insufficient amount", "S": [], "A": []}

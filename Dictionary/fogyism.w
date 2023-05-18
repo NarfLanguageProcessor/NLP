@@ -1,0 +1,1 @@
+{"index": 115781, "D": "an excessively conservative or old-fashioned person, especially one who is intellectually dull (usually preceded by old)", "S": [], "A": []}

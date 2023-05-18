@@ -1,0 +1,1 @@
+{"index": 129010, "D": "a metamorphic rock composed of granular minerals of uniform size, as quartz, feldspar, or pyroxene, and showing a definite banding.", "S": [], "A": []}

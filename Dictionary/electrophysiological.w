@@ -1,0 +1,1 @@
+{"index": 97195, "D": "the branch of physiology  dealing with the electric phenomena associated with the body and its functions.", "S": [], "A": []}

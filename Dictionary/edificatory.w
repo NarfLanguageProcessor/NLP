@@ -1,0 +1,1 @@
+{"index": 95752, "D": "intended or serving to edify.", "S": [], "A": []}

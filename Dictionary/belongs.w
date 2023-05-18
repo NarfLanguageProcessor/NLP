@@ -1,0 +1,1 @@
+{"index": 31268, "D": "to be in the relation of a member, adherent, inhabitant, etc. (usually followed by to)", "S": ["apply ", "exist ", "fit ", "reside "], "A": ["avoid ", "differ ", "disagree ", "disapprove ", "disassociate ", "disconnect ", "oppose ", "refuse "]}

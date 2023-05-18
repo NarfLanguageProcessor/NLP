@@ -1,0 +1,1 @@
+{"index": 76725, "D": "to move (a baby, child, etc.) lightly up and down, as on one's knee or in one's arms.", "S": ["amuse ", "cosset ", "cradle ", "dance ", "fondle ", "love ", "nuzzle ", "pet ", "play ", "rock ", "sport ", "toss ", "toy "], "A": ["work "]}

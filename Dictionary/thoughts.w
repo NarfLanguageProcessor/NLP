@@ -1,0 +1,1 @@
+{"index": 322481, "D": "the product of mental activity; that which one thinks", "S": ["bosom ", "heart "], "A": ["exteriority ", "outside ", "body ", "physicality "]}

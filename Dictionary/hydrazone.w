@@ -1,0 +1,1 @@
+{"index": 138476, "D": "any of a class of compounds containing the group >C=NNH2.", "S": [], "A": []}

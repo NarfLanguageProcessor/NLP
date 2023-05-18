@@ -1,0 +1,1 @@
+{"index": 69364, "D": "the stalk  or stem of corn,  especially Indian corn. ", "S": [], "A": []}

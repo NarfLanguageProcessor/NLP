@@ -1,0 +1,1 @@
+{"index": 335904, "D": "to release from bonds or restraint, as a prisoner; free.", "S": ["loosening "], "A": []}

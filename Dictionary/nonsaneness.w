@@ -1,0 +1,1 @@
+{"index": 207001, "D": "free from mental derangement; having a sound, healthy mind", "S": [], "A": []}

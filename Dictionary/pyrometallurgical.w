@@ -1,0 +1,1 @@
+{"index": 237866, "D": "the process or technique of refining ores with heat so as to accelerate chemical reactions or to melt the metallic or nonmetallic content.", "S": [], "A": []}

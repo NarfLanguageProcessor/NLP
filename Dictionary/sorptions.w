@@ -1,0 +1,1 @@
+{"index": 297645, "D": "the state or process of being sorbed. ", "S": [], "A": []}

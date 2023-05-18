@@ -1,0 +1,1 @@
+{"index": 343569, "D": "inhabited or frequented by ghosts", "S": [], "A": []}

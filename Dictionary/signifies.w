@@ -1,0 +1,1 @@
+{"index": 290175, "D": "(in linguistics) the signified.", "S": ["add up to ", "bespeak ", "convey ", "imply ", "manifest ", "portend ", "proclaim ", "represent ", "spell ", "stand for ", "suggest ", "symbolize "], "A": ["conceal ", "withhold ", "bottle up ", "cover ", "hide ", "leave alone ", "listen ", "refrain ", "refuse ", "suppress "]}

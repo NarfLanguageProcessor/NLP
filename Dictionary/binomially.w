@@ -1,0 +1,1 @@
+{"index": 34248, "D": "an expression that is a sum or difference of two terms, as 3x + 2y and x2 \u2212 4x.", "S": [], "A": []}

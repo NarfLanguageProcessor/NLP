@@ -1,0 +1,1 @@
+{"index": 233554, "D": "(especially of a man) to have many casual sexual encounters or affairs, especially when married or in a committed relationship.", "S": ["womanize "], "A": []}

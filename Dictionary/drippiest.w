@@ -1,0 +1,1 @@
+{"index": 93157, "D": "dripping  or tending to drip", "S": ["bathetic ", "emotional ", "gushy ", "maudlin ", "mawkish ", "mushy ", "romantic ", "sappy ", "slushy ", "sobby ", "soppy ", "weepy "], "A": []}

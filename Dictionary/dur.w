@@ -1,0 +1,1 @@
+{"index": 94392, "D": "(in music) written in a major key; major.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 171943, "D": "a way of life; a manner of living.", "S": [], "A": []}

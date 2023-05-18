@@ -1,0 +1,1 @@
+{"index": 127004, "D": "a deciduous tree, Gmelina arborea, native to Southeast Asia,whose timber is important in the tropics.", "S": [], "A": []}

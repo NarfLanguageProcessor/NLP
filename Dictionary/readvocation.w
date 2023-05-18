@@ -1,0 +1,1 @@
+{"index": 261660, "D": "the action of a superior court in calling before itself or reviewing an action originally brought before an inferior court.", "S": [], "A": []}

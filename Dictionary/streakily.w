@@ -1,0 +1,1 @@
+{"index": 305967, "D": "occurring in streaks  or a streak. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 109447, "D": "a white silk vestment extending from the waist to the ground, worn over the cassock by the pope on solemn occasions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 122666, "D": "a lighted flexible tubular instrument passed through the mouth for examining the esophagus, stomach, and duodenum.", "S": [], "A": []}

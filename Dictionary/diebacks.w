@@ -1,0 +1,1 @@
+{"index": 85126, "D": "a condition in a plant in which the branches or shoots die  from the tip inward, caused by any of several bacteria, fungi, or viruses or by certain environmental conditions.", "S": [], "A": []}

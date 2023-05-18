@@ -1,0 +1,1 @@
+{"index": 130079, "D": "consisting of, containing, or resembling grit;  sandy.", "S": ["dusty ", "grainy ", "rough "], "A": ["afraid ", "cowardly ", "fine ", "smooth ", "spineless "]}

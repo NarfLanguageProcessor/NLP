@@ -1,0 +1,1 @@
+{"index": 312151, "D": "higher in station, rank, degree, importance, etc.", "S": ["eminently ", "importantly ", "incomparably ", "preeminent ", "preeminently ", "superior ", "supremely ", "the most "], "A": []}

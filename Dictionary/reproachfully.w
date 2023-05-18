@@ -1,0 +1,1 @@
+{"index": 268591, "D": "in a way that expresses disapproval, blame, or censure", "S": [], "A": []}

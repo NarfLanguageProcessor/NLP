@@ -1,0 +1,1 @@
+{"index": 135119, "D": "rabbinical approval of meats and other foods that comply with the ritual requirements of Jewish dietary laws, usually issued in the form of an endorsing mark or stamp on the products so approved.", "S": [], "A": []}

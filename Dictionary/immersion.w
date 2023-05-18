@@ -1,0 +1,1 @@
+{"index": 147954, "D": "an act or instance of immersing. ", "S": ["captivation ", "concentration ", "engagement ", "engrossment ", "enthrallment ", "fascination ", "hang-up ", "holding ", "intentness ", "involvement ", "occupation ", "preoccupation ", "prepossession "], "A": ["surrender "]}

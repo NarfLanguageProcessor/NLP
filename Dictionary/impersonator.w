@@ -1,0 +1,1 @@
+{"index": 148613, "D": "a person who pretends to be another.", "S": ["imitator "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 199289, "D": "of or relating to Neustria or its inhabitants", "S": [], "A": []}

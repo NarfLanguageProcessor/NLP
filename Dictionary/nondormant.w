@@ -1,0 +1,1 @@
+{"index": 203285, "D": "lying asleep or as if asleep; inactive, as in sleep; torpid", "S": [], "A": []}

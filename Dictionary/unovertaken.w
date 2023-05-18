@@ -1,0 +1,1 @@
+{"index": 347304, "D": "to catch up with in traveling or pursuit; draw even with", "S": [], "A": []}

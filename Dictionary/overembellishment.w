@@ -1,0 +1,1 @@
+{"index": 219171, "D": "an ornament or decoration.", "S": [], "A": []}

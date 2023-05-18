@@ -1,0 +1,1 @@
+{"index": 257149, "D": "pus. ", "S": ["matter ", "maturation ", "purulence ", "pustule ", "sinus ", "suppuration "], "A": []}

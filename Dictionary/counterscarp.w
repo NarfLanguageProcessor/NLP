@@ -1,0 +1,1 @@
+{"index": 71070, "D": "the exterior slope or wall of the ditch of a fort, supporting the covered way.", "S": [], "A": []}

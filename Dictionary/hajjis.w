@@ -1,0 +1,1 @@
+{"index": 132503, "D": "a Muslim who has gone on a pilgrimage to Mecca.", "S": [], "A": []}

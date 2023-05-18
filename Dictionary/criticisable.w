@@ -1,0 +1,1 @@
+{"index": 73484, "D": [], "S": ["impermissible ", "indefensible ", "intolerable ", "outrageous ", "reprehensible ", "unforgivable ", "unjustifiable ", "untenable "], "A": ["acceptable ", "good "]}

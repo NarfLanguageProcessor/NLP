@@ -1,0 +1,1 @@
+{"index": 211578, "D": "causing resentful displeasure; highly irritating, angering, or annoying", "S": ["annoyingly ", "indecently ", "unwelcomely "], "A": []}

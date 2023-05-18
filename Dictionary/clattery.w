@@ -1,0 +1,1 @@
+{"index": 59467, "D": "to make a loud, rattling sound, as that produced by hard objects striking rapidly one against the other", "S": ["boisterous ", "cacophonous ", "clamorous ", "rambunctious ", "riotous ", "rowdy ", "strident ", "vociferous "], "A": ["calm ", "moderate ", "quiet ", "restrained ", "silent "]}

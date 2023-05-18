@@ -1,0 +1,1 @@
+{"index": 129398, "D": "the theoretical quantum of gravitation, usually assumed to be an elementary particle that is its own antiparticle and that has zero rest mass and charge and a spin of two.", "S": [], "A": []}

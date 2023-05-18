@@ -1,0 +1,1 @@
+{"index": 93051, "D": "a machine, appliance, or apparatus for removing moisture, as by forced ventilation or heat", "S": [], "A": []}

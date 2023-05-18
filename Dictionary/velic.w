@@ -1,0 +1,1 @@
+{"index": 357829, "D": "pertaining to the operation of the velum  in relation to the passageway into the nasal cavity", "S": [], "A": []}

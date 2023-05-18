@@ -1,0 +1,1 @@
+{"index": 52847, "D": "generous in donations or gifts to relieve the needs of indigent, ill, or helpless people, or of animals", "S": ["accommodating ", "altruistic ", "benign ", "humanitarian ", "philanthropic "], "A": ["hard ", "harsh ", "inhumane ", "malevolent ", "mean ", "rough ", "severe ", "tough ", "uncharitable ", "unkind ", "unsympathetic "]}

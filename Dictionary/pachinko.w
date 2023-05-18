@@ -1,0 +1,1 @@
+{"index": 222650, "D": "a Japanese pinball game played on a vertical machine in which slots struck by the player's ball release other balls that in turn are exchanged for noncash prizes.", "S": [], "A": []}

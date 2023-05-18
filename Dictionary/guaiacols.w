@@ -1,0 +1,1 @@
+{"index": 130672, "D": "a slightly yellowish, aromatic, crystalline substance, C7H8O2, resembling creosote and usually obtained from guaiacum  resin", "S": [], "A": []}

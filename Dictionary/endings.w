@@ -1,0 +1,1 @@
+{"index": 99681, "D": "a bringing or coming to an end;  termination; close", "S": ["closure ", "completion ", "denouement ", "finale ", "outcome ", "period ", "resolution "], "A": ["beginning ", "opening ", "start ", "commencement ", "initiation ", "introduction ", "success "]}

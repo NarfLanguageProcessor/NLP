@@ -1,0 +1,1 @@
+{"index": 297922, "D": "mute (def. 10). ", "S": ["damper ", "muffler ", "mute pedal ", "noise queller ", "silencer ", "sordine ", "sordino "], "A": []}

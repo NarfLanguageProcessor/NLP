@@ -1,0 +1,1 @@
+{"index": 5292, "D": "his affairs were in disorder", "S": ["deal ", "industry ", "manufacturing ", "market ", "trading ", "transaction "], "A": []}

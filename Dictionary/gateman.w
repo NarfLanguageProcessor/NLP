@@ -1,0 +1,1 @@
+{"index": 122734, "D": "a gatekeeper.", "S": [], "A": []}

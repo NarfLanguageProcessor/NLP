@@ -1,0 +1,1 @@
+{"index": 312795, "D": "a salt or ester of tartaric acid.", "S": [], "A": []}

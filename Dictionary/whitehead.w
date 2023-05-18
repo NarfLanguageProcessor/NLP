@@ -1,0 +1,1 @@
+{"index": 365147, "D": "a small pimple having a white  or yellowish head;  milium.", "S": ["blot ", "blotch ", "bruise ", "discoloration ", "freckle ", "imperfection ", "pimple ", "scar ", "smudge ", "snag ", "stain ", "stigma ", "wart "], "A": ["cleanliness ", "perfection ", "advantage ", "beauty ", "benefit ", "esteem ", "honor "]}

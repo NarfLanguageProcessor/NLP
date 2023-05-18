@@ -1,0 +1,1 @@
+{"index": 329755, "D": "a selective herbicide, C13H16F3N3O4, used to control weeds.", "S": [], "A": []}

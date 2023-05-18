@@ -1,0 +1,1 @@
+{"index": 8538, "D": "to put (fear, doubt, suspicion, anger, etc.) to rest; calm; quiet.", "S": ["alleviate ", "assuage ", "calm ", "ease ", "lessen ", "mitigate ", "mollify ", "pacify "], "A": ["aggravate ", "agitate ", "incite ", "increase ", "intensify ", "irritate ", "upset ", "worry ", "worsen ", "enlarge "]}

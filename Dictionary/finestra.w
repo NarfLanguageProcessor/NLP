@@ -1,0 +1,1 @@
+{"index": 112927, "D": "an aperture, especially a ventilator in the wall of a tomb.", "S": [], "A": []}

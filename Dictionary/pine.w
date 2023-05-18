@@ -1,0 +1,1 @@
+{"index": 236978, "D": "Compare pine family. ", "S": ["ache ", "crave ", "grieve ", "hanker ", "mourn ", "yearn "], "A": ["be happy ", "dislike ", "hate "]}

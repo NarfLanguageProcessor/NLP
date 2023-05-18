@@ -1,0 +1,1 @@
+{"index": 231309, "D": "(of a person, part of the body, etc) extremely cold", "S": ["buried ", "deceased ", "late ", "lifeless "], "A": ["alive ", "living "]}

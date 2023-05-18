@@ -1,0 +1,1 @@
+{"index": 265915, "D": "a person who is undergoing rehabilitation, especially for a physical disability.", "S": [], "A": []}

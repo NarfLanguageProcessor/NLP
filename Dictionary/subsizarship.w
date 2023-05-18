@@ -1,0 +1,1 @@
+{"index": 309218, "D": "(at Cambridge University and at Trinity College, Dublin) an undergraduate who receives maintenance aid from the college.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 260762, "D": "a bronze coin and monetary unit of Switzerland; centime.", "S": [], "A": []}

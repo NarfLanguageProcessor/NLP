@@ -1,0 +1,1 @@
+{"index": 148972, "D": "a body of water confined within an enclosure, as a reservoir.", "S": [], "A": []}

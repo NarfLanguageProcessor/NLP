@@ -1,0 +1,1 @@
+{"index": 47111, "D": "a mass of anhydrite, gypsum, or limestone immediately above the salt of a salt dome.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 243872, "D": "of or relating to a possessor or to possession", "S": ["anxious ", "apprehensive ", "attentive ", "envious ", "intolerant ", "possessive ", "protective ", "resentful ", "skeptical ", "suspicious "], "A": ["calm ", "content ", "undoubting ", "unworried "]}

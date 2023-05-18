@@ -1,0 +1,1 @@
+{"index": 314290, "D": "having the taste or flavor characteristic of sugar, honey, etc.", "S": ["delicious ", "luscious ", "sweetened ", "syrupy "], "A": ["unsavory "]}

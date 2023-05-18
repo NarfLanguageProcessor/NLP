@@ -1,0 +1,1 @@
+{"index": 229506, "D": "a punishment undergone in token of penitence for sin.", "S": [], "A": []}

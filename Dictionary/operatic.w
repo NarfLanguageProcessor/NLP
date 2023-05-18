@@ -1,0 +1,1 @@
+{"index": 213281, "D": "of or relating to opera", "S": ["choral ", "emotional ", "expressive ", "lilting ", "melodic ", "passionate ", "rhapsodic ", "rhythmic ", "soulful "], "A": []}

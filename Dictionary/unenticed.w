@@ -1,0 +1,1 @@
+{"index": 341361, "D": "to lead on by exciting hope or desire; allure; inveigle", "S": [], "A": []}

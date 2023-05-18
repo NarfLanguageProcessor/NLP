@@ -1,0 +1,1 @@
+{"index": 130185, "D": "the care of a body and its physical appearance, such as the personal hygiene routine of brushing one\u2019s teeth or combing one\u2019s hair, or the washing, brushing, etc., of a dog or horse", "S": ["admonition ", "censure ", "rebuke "], "A": ["compliment ", "praise ", "commendation "]}

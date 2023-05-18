@@ -1,0 +1,1 @@
+{"index": 8463, "D": "a European plant, Alkanna tinctoria, of the borage family.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86842, "D": "to vibrate; shake.", "S": [], "A": []}

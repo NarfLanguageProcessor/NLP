@@ -1,0 +1,1 @@
+{"index": 278861, "D": "the festival of Saturn, celebrated in December in ancient Rome as a time of unrestrained merrymaking.", "S": ["bacchanal ", "festival ", "orgy ", "party ", "revelry ", "spree "], "A": []}

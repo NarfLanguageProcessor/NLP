@@ -1,0 +1,1 @@
+{"index": 37462, "D": "sculptured paneling, especially that of French architecture in the 18th century.", "S": [], "A": []}

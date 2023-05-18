@@ -1,0 +1,1 @@
+{"index": 214094, "D": "a red dye, the principal coloring matter of cudbear and orchil, obtained by oxidizing an ammoniacal solution of orcinol.", "S": [], "A": []}

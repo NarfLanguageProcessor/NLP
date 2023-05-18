@@ -1,0 +1,1 @@
+{"index": 50940, "D": "to draw to or gather about a center. ", "S": ["consolidate ", "integrate ", "rationalize ", "streamline ", "unify "], "A": ["divide ", "separate ", "disorder ", "disorganize ", "disperse ", "enlarge ", "scatter ", "spread "]}

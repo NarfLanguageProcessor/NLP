@@ -1,0 +1,1 @@
+{"index": 77750, "D": "to remove the upper beak  from (a bird) to prevent egg eating or attacks on other birds.", "S": [], "A": []}

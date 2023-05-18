@@ -1,0 +1,1 @@
+{"index": 123811, "D": "the chronology  of the earth, as based on both absolute and relative methods of age determination.", "S": [], "A": []}

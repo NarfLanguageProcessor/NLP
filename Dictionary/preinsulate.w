@@ -1,0 +1,1 @@
+{"index": 248033, "D": "to cover, line, or separate with a material that prevents or reduces the passage, transfer, or leakage of heat, electricity, or sound", "S": [], "A": []}

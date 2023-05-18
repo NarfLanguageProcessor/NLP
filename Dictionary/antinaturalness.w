@@ -1,0 +1,1 @@
+{"index": 15666, "D": "existing in or formed by nature (opposed to artificial)", "S": [], "A": []}

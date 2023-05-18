@@ -1,0 +1,1 @@
+{"index": 114673, "D": "evapotranspiration (def. 1). ", "S": [], "A": []}

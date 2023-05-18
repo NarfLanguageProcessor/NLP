@@ -1,0 +1,1 @@
+{"index": 288514, "D": "shirtwaist (def. 2). ", "S": [], "A": []}

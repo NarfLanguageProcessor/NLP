@@ -1,0 +1,1 @@
+{"index": 148806, "D": "to burst inward (opposed to explode).", "S": ["cave in ", "fall down "], "A": []}

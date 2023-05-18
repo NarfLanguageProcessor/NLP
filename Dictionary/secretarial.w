@@ -1,0 +1,1 @@
+{"index": 282796, "D": "noting, of, or pertaining to a secretary  or a secretary's  skills and work", "S": [], "A": []}

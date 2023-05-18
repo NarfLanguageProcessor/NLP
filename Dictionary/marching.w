@@ -1,0 +1,1 @@
+{"index": 179906, "D": "to walk with regular and measured tread, as soldiers on parade; advance in step in an organized body.", "S": ["checking ", "filing ", "hiking ", "pacing ", "parading ", "patrolling ", "policing ", "proceeding ", "stepping ", "walking "], "A": []}

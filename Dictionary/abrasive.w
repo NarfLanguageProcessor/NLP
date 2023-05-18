@@ -1,0 +1,1 @@
+{"index": 807, "D": "any material or substance used for grinding, polishing, etc., as emery, pumice, or sandpaper.", "S": ["annoying ", "biting ", "caustic ", "harsh ", "irritating "], "A": ["agreeable ", "calm ", "easygoing ", "kind ", "mild ", "nice ", "pleasant ", "pleasing ", "soothing ", "moderate "]}

@@ -1,0 +1,1 @@
+{"index": 341078, "D": "to drive or force out; expel, as from a place or position", "S": [], "A": []}

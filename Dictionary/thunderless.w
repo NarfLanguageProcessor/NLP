@@ -1,0 +1,1 @@
+{"index": 323027, "D": "a loud, explosive, resounding noise produced by the explosive expansion of air heated by a lightning discharge.", "S": [], "A": []}

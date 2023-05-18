@@ -1,0 +1,1 @@
+{"index": 216552, "D": "situated on or toward the outside; external; exterior", "S": [], "A": []}

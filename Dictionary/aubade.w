@@ -1,0 +1,1 @@
+{"index": 23215, "D": "a piece sung or played outdoors at dawn, usually as a compliment to someone.", "S": ["star ", "sunlight "], "A": ["darkness ", "sunset "]}

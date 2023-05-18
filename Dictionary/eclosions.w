@@ -1,0 +1,1 @@
+{"index": 95346, "D": "the emergence of an adult insect from its pupal case.", "S": [], "A": []}

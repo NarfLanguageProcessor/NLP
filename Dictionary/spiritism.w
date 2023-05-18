@@ -1,0 +1,1 @@
+{"index": 300110, "D": "the doctrine or practices of spiritualism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86616, "D": "the doubling of the chromosome number by the union of the haploid sets in the union of gametes.", "S": [], "A": []}

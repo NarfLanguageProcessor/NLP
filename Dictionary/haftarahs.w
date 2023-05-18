@@ -1,0 +1,1 @@
+{"index": 132151, "D": "a portion of the Prophets that is chanted or read in the synagogue on the Sabbath and holy days immediately after the Parashah.", "S": [], "A": []}

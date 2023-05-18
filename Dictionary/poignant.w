@@ -1,0 +1,1 @@
+{"index": 241280, "D": "keenly distressing to the feelings", "S": ["bitter ", "disturbing ", "emotional ", "heartbreaking ", "heartrending ", "moving ", "passionate ", "pathetic ", "sad ", "sentimental ", "touching "], "A": ["cheerful ", "happy ", "indifferent ", "unemotional ", "unmoving ", "wonderful "]}

@@ -1,0 +1,1 @@
+{"index": 314756, "D": "a loose outer garment, sleeveless or with short sleeves, especially one worn by a knight over his armor and usually emblazoned with his arms.", "S": [], "A": []}

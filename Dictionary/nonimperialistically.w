@@ -1,0 +1,1 @@
+{"index": 204597, "D": "the policy of extending the rule or authority of an empire  or nation over foreign countries, or of acquiring and holding colonies and dependencies.", "S": [], "A": []}

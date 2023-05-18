@@ -1,0 +1,1 @@
+{"index": 71591, "D": "a variant of cowage. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 56206, "D": "one of two identical chromosomal strands into which a chromosome splits longitudinally preparatory to cell division.", "S": [], "A": []}

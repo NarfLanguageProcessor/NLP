@@ -1,0 +1,1 @@
+{"index": 58955, "D": "the body of citizens who constitute a state, especially a city-state, commonwealth, or the like.", "S": [], "A": []}

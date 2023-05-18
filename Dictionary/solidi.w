@@ -1,0 +1,1 @@
+{"index": 296734, "D": "a gold coin of ancient Rome, introduced by Constantine and continued in the Byzantine Empire; bezant.", "S": [], "A": []}

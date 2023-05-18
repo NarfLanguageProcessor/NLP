@@ -1,0 +1,1 @@
+{"index": 36710, "D": "a shrub, Ceanothus thyrsiflorus, of the buckthorn family, abundant in the western U.S., having finely toothed oblong leaves and lilaclike clusters of blue  flowers.", "S": [], "A": []}

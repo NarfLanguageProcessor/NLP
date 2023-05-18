@@ -1,0 +1,1 @@
+{"index": 88209, "D": "causing disgust;  offensive to the physical, moral, or aesthetic taste.", "S": [], "A": []}

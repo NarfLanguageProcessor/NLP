@@ -1,0 +1,1 @@
+{"index": 153838, "D": "one of the portions, usually equal, into which a debt is divided for payment at specified intervals over a fixed period", "S": [], "A": []}

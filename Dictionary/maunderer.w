@@ -1,0 +1,1 @@
+{"index": 181429, "D": "to talk in a rambling, foolish, or meaningless way.", "S": [], "A": []}

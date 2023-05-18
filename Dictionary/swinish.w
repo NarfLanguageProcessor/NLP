@@ -1,0 +1,1 @@
+{"index": 314514, "D": "like or befitting swine;  hoggish.", "S": ["barbaric ", "churlish ", "coarse ", "impolite ", "rude ", "tasteless ", "uncivilized ", "vulgar "], "A": ["delicate ", "gentle ", "kind ", "mannerly ", "nice ", "pleasant ", "polished ", "polite ", "refined ", "smooth ", "sophisticated "]}

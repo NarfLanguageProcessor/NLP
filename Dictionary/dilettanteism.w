@@ -1,0 +1,1 @@
+{"index": 85731, "D": "the practices or characteristics of a dilettante. ", "S": [], "A": []}

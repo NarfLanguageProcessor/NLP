@@ -1,0 +1,1 @@
+{"index": 57593, "D": "a colorless, crystalline, slightly water-soluble alkaloid, C19H22N2O, a stereoisomer of cinchonidine, obtained from the bark of various species of cinchona  and used chiefly as a quinine substitute.", "S": [], "A": []}

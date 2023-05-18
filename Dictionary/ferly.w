@@ -1,0 +1,1 @@
+{"index": 111360, "D": "something unusual, strange, or causing wonder or terror.", "S": [], "A": []}

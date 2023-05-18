@@ -1,0 +1,1 @@
+{"index": 239178, "D": "any of many minute strands of cytoplasm that extend through plant cell walls and connect adjoining cells.", "S": [], "A": []}

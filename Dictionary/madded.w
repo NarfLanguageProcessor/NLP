@@ -1,0 +1,1 @@
+{"index": 177167, "D": "mentally disturbed; deranged; insane; demented.", "S": ["anger ", "bother ", "disgust ", "enrage ", "exasperate ", "excite ", "fire up ", "inflame ", "infuriate ", "irritate ", "rile "], "A": ["aid ", "appease ", "calm ", "compose ", "help ", "make happy ", "pacify ", "placate ", "please ", "quiet ", "soothe ", "tranquilize "]}

@@ -1,0 +1,1 @@
+{"index": 281161, "D": "to slide or move a short distance (often used with over)", "S": ["accelerate ", "drift ", "drive ", "drop ", "fall ", "flow ", "glide ", "move ", "sag ", "shift ", "shove ", "skate ", "skid ", "slip ", "slither ", "slump ", "tumble ", "veer "], "A": ["ascend ", "discourage ", "dissuade ", "remain ", "retard ", "rise ", "stay ", "stop ", "hold ", "keep "]}

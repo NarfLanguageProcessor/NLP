@@ -1,0 +1,1 @@
+{"index": 174407, "D": "the doctrines of the Locofocos. ", "S": [], "A": []}

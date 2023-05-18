@@ -1,0 +1,1 @@
+{"index": 160309, "D": "to produce a harsh, discordant sound, as two comparatively small, thin, or hollow pieces of metal hitting together", "S": ["babel ", "clang ", "clangor ", "clash ", "din ", "dissonance ", "hubbub ", "hullabaloo ", "jar ", "pandemonium ", "racket ", "rattle ", "reverberation ", "roar ", "tumult ", "uproar "], "A": ["calm ", "harmony ", "order ", "peace "]}

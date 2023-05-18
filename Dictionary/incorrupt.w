@@ -1,0 +1,1 @@
+{"index": 150406, "D": "not corrupt;  not debased or perverted; morally upright.", "S": ["honest ", "respectable "], "A": ["bad "]}

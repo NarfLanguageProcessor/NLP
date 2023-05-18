@@ -1,0 +1,1 @@
+{"index": 328892, "D": "a tremulous or vibrating effect produced on certain instruments and in the human voice, as to express emotion.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 39126, "D": "troublemaking or rowdiness by street gang youths.", "S": [], "A": []}

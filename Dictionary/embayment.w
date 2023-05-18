@@ -1,0 +1,1 @@
+{"index": 97957, "D": "a coastal recess that forms a bay.", "S": [], "A": []}

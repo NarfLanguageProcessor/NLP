@@ -1,0 +1,1 @@
+{"index": 14927, "D": "of, relating to, or consisting of citizens", "S": [], "A": []}

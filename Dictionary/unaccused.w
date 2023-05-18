@@ -1,0 +1,1 @@
+{"index": 334482, "D": "charged with a crime, wrongdoing, fault, etc.", "S": [], "A": []}

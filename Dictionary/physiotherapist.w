@@ -1,0 +1,1 @@
+{"index": 234181, "D": "physical therapy. ", "S": ["occupational therapist ", "speech therapist "], "A": []}

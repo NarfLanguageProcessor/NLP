@@ -1,0 +1,1 @@
+{"index": 301875, "D": "an implement edged with rubber or the like, for removing water from windows after washing, sweeping water from wet decks, etc.", "S": ["dab ", "swab ", "wipe "], "A": []}

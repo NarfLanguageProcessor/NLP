@@ -1,0 +1,1 @@
+{"index": 102087, "D": "a question asked solely to produce an effect or to make an assertion of affirmation or denial and not to elicit a reply, as \u201cHas there ever been a more perfect day for a picnic?\u201d or \u201cAre you out of your mind?\u201d", "S": [], "A": []}

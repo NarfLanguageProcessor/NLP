@@ -1,0 +1,1 @@
+{"index": 6712, "D": "to provide support for or relief to; help", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 304919, "D": "a person or thing that stocks. ", "S": [], "A": []}

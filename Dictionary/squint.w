@@ -1,0 +1,1 @@
+{"index": 301992, "D": "to look with the eyes partly closed.", "S": ["peek ", "peep "], "A": ["open "]}

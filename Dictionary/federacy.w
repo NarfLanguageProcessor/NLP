@@ -1,0 +1,1 @@
+{"index": 110795, "D": "a confederacy. ", "S": ["association ", "league ", "union "], "A": ["division ", "separation ", "disunion "]}

@@ -1,0 +1,1 @@
+{"index": 293206, "D": "a vehicle designed to be lifted by helicopter between an intown passenger terminal and an airport.", "S": [], "A": []}

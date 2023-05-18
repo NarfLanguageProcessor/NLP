@@ -1,0 +1,1 @@
+{"index": 202602, "D": "to move slowly with the body close to the ground, as a reptile or an insect, or a person on hands and knees.", "S": [], "A": []}

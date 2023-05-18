@@ -1,0 +1,1 @@
+{"index": 134982, "D": "a disturbance of the temperature-regulating mechanisms of the body caused by overexposure to excessive heat,  resulting in fever, hot and dry skin, and rapid pulse, sometimes progressing to delirium and coma.", "S": [], "A": []}

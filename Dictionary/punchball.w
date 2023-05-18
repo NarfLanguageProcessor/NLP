@@ -1,0 +1,1 @@
+{"index": 256554, "D": "a form of playground or street baseball in which a rubber ball  is batted with the fist.", "S": [], "A": []}

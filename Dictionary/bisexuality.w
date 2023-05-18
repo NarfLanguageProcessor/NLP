@@ -1,0 +1,1 @@
+{"index": 34995, "D": "sexual desire or behavior directed toward people of more than one gender, sometimes understood to include attraction to one's own sex or gender and at least one other sex or gender.", "S": ["femininity ", "homosexuality ", "masculinity "], "A": []}

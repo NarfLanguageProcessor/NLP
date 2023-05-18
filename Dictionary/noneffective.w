@@ -1,0 +1,1 @@
+{"index": 203367, "D": "not effective. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 367685, "D": "reverent honor and homage paid to God or a sacred personage, or to any object regarded as sacred.", "S": ["adorer ", "churchgoer ", "communicant ", "congregant ", "devotee ", "devout person ", "pious person ", "supplicant ", "votary "], "A": ["agnostic ", "atheist ", "skeptic "]}

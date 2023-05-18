@@ -1,0 +1,1 @@
+{"index": 26843, "D": "closely woven fine straw, used for making hats in the Philippines", "S": [], "A": []}

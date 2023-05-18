@@ -1,0 +1,1 @@
+{"index": 25716, "D": "a piece of millwork surrounding the trim at the top and sides of a door or window.", "S": [], "A": []}

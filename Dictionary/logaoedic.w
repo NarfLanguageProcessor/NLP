@@ -1,0 +1,1 @@
+{"index": 174558, "D": "composed of dactyls and trochees or of anapests and iambs, producing a movement somewhat suggestive of prose.", "S": [], "A": []}

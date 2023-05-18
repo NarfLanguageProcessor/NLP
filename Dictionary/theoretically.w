@@ -1,0 +1,1 @@
+{"index": 321121, "D": "in principle; according to reasonable assumptions or rules, as opposed to what actually happens", "S": ["apparently ", "hypothetically ", "in a manner ", "in a sense ", "on paper ", "probably ", "suppositionally "], "A": []}

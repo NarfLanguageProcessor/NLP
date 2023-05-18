@@ -1,0 +1,1 @@
+{"index": 280505, "D": "showing characteristics thought to be typical of aschoolteacher,  as strictness and primness.", "S": [], "A": []}

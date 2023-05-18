@@ -1,0 +1,1 @@
+{"index": 160770, "D": "a variant of jihad. ", "S": [], "A": []}

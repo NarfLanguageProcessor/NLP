@@ -1,0 +1,1 @@
+{"index": 33881, "D": [], "S": ["blade ", "dagger ", "weapon "], "A": []}

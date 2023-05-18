@@ -1,0 +1,1 @@
+{"index": 94808, "D": "born  on or sprung from the earth;  of earthly origin.", "S": [], "A": []}

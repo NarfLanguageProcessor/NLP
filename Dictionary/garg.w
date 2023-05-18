@@ -1,0 +1,1 @@
+{"index": 122139, "D": "(in prescriptions) a gargle.", "S": [], "A": []}

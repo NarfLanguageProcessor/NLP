@@ -1,0 +1,1 @@
+{"index": 234187, "D": "physical or bodily structure, appearance, or development", "S": ["habit "], "A": []}

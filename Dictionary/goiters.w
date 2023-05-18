@@ -1,0 +1,1 @@
+{"index": 127461, "D": "an enlargement of the thyroid gland on the front and sides of the neck, usually symptomatic of abnormal thyroid secretion, especially hypothyroidism due to a lack of iodine in the diet.", "S": [], "A": []}

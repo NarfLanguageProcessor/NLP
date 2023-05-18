@@ -1,0 +1,1 @@
+{"index": 82191, "D": "any fungus parasitic on the skin and causing a skin disease, as ringworm.", "S": [], "A": []}

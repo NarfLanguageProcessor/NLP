@@ -1,0 +1,1 @@
+{"index": 368887, "D": "to bombard with electrical current, radiation, laser beams, etc.", "S": ["exterminate ", "kill ", "slaughter ", "terminate "], "A": []}

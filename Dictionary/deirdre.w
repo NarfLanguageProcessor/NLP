@@ -1,0 +1,1 @@
+{"index": 79843, "D": "the wife of Naoise, who killed herself after her husband had been murdered by his uncle, King Conchobar.", "S": [], "A": []}

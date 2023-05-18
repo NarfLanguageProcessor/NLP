@@ -1,0 +1,1 @@
+{"index": 304541, "D": "a course of masonry, part of the stereobate, forming the foundation for a colonnade, especially the outermost colonnade.", "S": [], "A": []}

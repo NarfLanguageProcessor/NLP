@@ -1,0 +1,1 @@
+{"index": 152036, "D": "of or relating to the infinitive. ", "S": [], "A": []}

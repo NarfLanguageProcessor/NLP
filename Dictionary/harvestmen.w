@@ -1,0 +1,1 @@
+{"index": 134055, "D": "daddy-longlegs (def. 1). ", "S": ["mite ", "scorpion ", "tarantula ", "tick "], "A": []}

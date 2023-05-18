@@ -1,0 +1,1 @@
+{"index": 322239, "D": "any of various prickly, composite plants having showy, purple flower heads, especially of the genera Cirsium, Carduus, or Onopordum.", "S": ["arrow ", "dart "], "A": ["kindness ", "praise "]}

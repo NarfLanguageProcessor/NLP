@@ -1,0 +1,1 @@
+{"index": 259614, "D": "of, relating to, exhibiting, or caused by radioactivity", "S": [], "A": []}

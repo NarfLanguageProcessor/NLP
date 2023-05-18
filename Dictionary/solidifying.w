@@ -1,0 +1,1 @@
+{"index": 296743, "D": "to make solid;  make into a hard or compact mass; change from a liquid or gaseous to a solid  form.", "S": ["calcification ", "coagulation ", "concretion ", "crystallization ", "fossilization ", "freezing ", "ossification ", "petrification ", "setting ", "stiffening "], "A": []}

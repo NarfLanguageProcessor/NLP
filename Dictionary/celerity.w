@@ -1,0 +1,1 @@
+{"index": 50479, "D": "swiftness; speed. ", "S": ["alacrity ", "briskness ", "dispatch ", "expedition ", "expeditiousness ", "fleetness ", "gait ", "haste ", "hurry ", "hustle ", "legerity ", "promptness ", "quickness ", "rapidity ", "speed ", "speediness ", "swiftness ", "velocity ", "vivacity "], "A": ["delay ", "rest ", "slowing ", "slowness "]}

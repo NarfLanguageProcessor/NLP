@@ -1,0 +1,1 @@
+{"index": 290236, "D": "a convexly tapering tower, capped by an amalaka.", "S": [], "A": []}

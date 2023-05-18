@@ -1,0 +1,1 @@
+{"index": 340676, "D": "of a different kind, form, character, etc.; unlike", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 360402, "D": "of or relating to visions. ", "S": ["ocular ", "optical "], "A": []}

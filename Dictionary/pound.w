@@ -1,0 +1,1 @@
+{"index": 244909, "D": "to strike repeatedly with great force, as with an instrument, the fist, heavy missiles, etc.", "S": ["avoirdupois ", "pint ", "troy "], "A": []}

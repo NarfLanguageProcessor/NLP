@@ -1,0 +1,1 @@
+{"index": 288914, "D": "to make short  or shorter. ", "S": ["abbreviate ", "compress ", "curtail ", "cut ", "cut back ", "cut down ", "lessen ", "minimize ", "reduce ", "shrink ", "slash ", "trim "], "A": ["develop ", "enlarge ", "expand ", "extend ", "grow ", "increase ", "lengthen ", "raise ", "strengthen ", "stretch "]}

@@ -1,0 +1,1 @@
+{"index": 65393, "D": "to prepare or make by combining ingredients, especially in cooking", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111427, "D": "any seedless, nonflowering vascular plant of the class Filicinae, of tropical to temperate regions, characterized by true roots produced from a rhizome, triangular fronds that uncoil upward and have a branching vein system, and reproduction by spores contained in sporangia that appear as brown dots on the underside of the fronds.", "S": [], "A": []}

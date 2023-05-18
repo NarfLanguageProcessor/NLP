@@ -1,0 +1,1 @@
+{"index": 183015, "D": "of, like, or befitting melodrama. ", "S": ["theatrical "], "A": ["calm ", "normal "]}

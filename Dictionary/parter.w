@@ -1,0 +1,1 @@
+{"index": 226947, "D": "a portion or division of a whole that is separate or distinct; piece, fragment, fraction, or section; constituent", "S": ["deficient ", "fragmentary ", "inadequate ", "insufficient ", "lacking ", "partial ", "sketchy "], "A": ["adequate ", "ample ", "complete ", "enough ", "sufficient ", "total ", "whole "]}

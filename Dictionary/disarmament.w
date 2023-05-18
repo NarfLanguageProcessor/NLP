@@ -1,0 +1,1 @@
+{"index": 87068, "D": "the act or an instance of disarming. ", "S": ["demilitarization ", "demobilization "], "A": ["surrender ", "yielding "]}

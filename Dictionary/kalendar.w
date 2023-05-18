@@ -1,0 +1,1 @@
+{"index": 162884, "D": "a calendar, especially of a church", "S": [], "A": []}

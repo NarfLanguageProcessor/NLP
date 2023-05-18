@@ -1,0 +1,1 @@
+{"index": 162038, "D": "to conform to the spirit, character, principles, or practices of Judaism.", "S": [], "A": []}

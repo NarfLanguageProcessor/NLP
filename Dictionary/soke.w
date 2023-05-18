@@ -1,0 +1,1 @@
+{"index": 296448, "D": "the privilege of holding court, usually connected with the feudal rights of lordship.", "S": [], "A": []}

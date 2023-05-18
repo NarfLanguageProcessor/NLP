@@ -1,0 +1,1 @@
+{"index": 320602, "D": "to express gratitude, appreciation, or acknowledgment to", "S": ["acknowledged ", "applauded ", "appreciated ", "blessed ", "lauded ", "praised ", "recognized "], "A": []}

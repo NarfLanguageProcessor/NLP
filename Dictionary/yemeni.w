@@ -1,0 +1,1 @@
+{"index": 146853, "D": "of or relating to Yemen  or its people.", "S": [], "A": []}

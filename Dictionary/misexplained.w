@@ -1,0 +1,1 @@
+{"index": 189270, "D": "to make plain or clear; render understandable or intelligible", "S": [], "A": []}

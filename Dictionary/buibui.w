@@ -1,0 +1,1 @@
+{"index": 42358, "D": "a piece of black cloth worn as a shawl by Muslim women, esp on the E African coast", "S": [], "A": []}

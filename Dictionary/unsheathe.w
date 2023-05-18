@@ -1,0 +1,1 @@
+{"index": 350958, "D": "to draw from a sheath, as a sword, knife, or the like.", "S": [], "A": []}

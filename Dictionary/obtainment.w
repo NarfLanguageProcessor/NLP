@@ -1,0 +1,1 @@
+{"index": 210529, "D": "to come into possession of; get, acquire, or procure, as through an effort or by a request", "S": ["addition ", "gain ", "procurement ", "purchase ", "recovery "], "A": ["loss ", "failure ", "forfeit ", "surrender "]}

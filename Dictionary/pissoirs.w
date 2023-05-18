@@ -1,0 +1,1 @@
+{"index": 238142, "D": "a street urinal for public use, especially one enclosed by a low wall, screen, or the like.", "S": [], "A": []}

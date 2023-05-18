@@ -1,0 +1,1 @@
+{"index": 117095, "D": "full of or having forethought;  provident.", "S": ["circumspect ", "discreet ", "judicious ", "leery ", "prudent ", "tentative ", "vigilant ", "wary ", "watchful "], "A": ["careless ", "certain ", "foolish ", "inattentive ", "incautious ", "indiscreet ", "negligent ", "rash ", "reckless ", "sure ", "thoughtless ", "uncareful ", "unwise "]}

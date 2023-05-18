@@ -1,0 +1,1 @@
+{"index": 4647, "D": "unfavorable or antagonistic in purpose or effect", "S": ["conflicting ", "detrimental ", "disadvantageous ", "inimical ", "injurious ", "negative ", "unfortunate ", "unfriendly "], "A": ["advantageous ", "assisting ", "beneficial ", "friendly ", "good ", "helpful ", "kind ", "nice "]}

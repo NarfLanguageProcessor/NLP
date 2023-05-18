@@ -1,0 +1,1 @@
+{"index": 120851, "D": "to move restlessly or aimlessly from one place to another", "S": [], "A": []}

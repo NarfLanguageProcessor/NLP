@@ -1,0 +1,1 @@
+{"index": 337482, "D": "having a common center, as circles or spheres.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 125813, "D": "any plant of the genus Gladiolus, of the iris family, native especially to Africa, having erect, sword-shaped leaves and spikes of flowers in a variety of colors.", "S": [], "A": []}

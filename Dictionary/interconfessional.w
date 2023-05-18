@@ -1,0 +1,1 @@
+{"index": 154725, "D": "common to or occurring between churches having different confessions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 152025, "D": "exceedingly small; minute", "S": ["imperceptible ", "insignificant ", "microscopic ", "minuscule ", "negligible "], "A": ["huge ", "important ", "significant ", "big ", "giant ", "large "]}

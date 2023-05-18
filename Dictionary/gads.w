@@ -1,0 +1,1 @@
+{"index": 120898, "D": "to move restlessly or aimlessly from one place to another", "S": ["cruise ", "gallivant ", "jaunt ", "maunder ", "mooch ", "ramble ", "range ", "rove ", "stray ", "traipse ", "wander "], "A": ["stay "]}

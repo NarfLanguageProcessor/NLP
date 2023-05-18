@@ -1,0 +1,1 @@
+{"index": 67407, "D": "a person who takes part in a contest  or competition.", "S": ["aspirant ", "candidate ", "challenger ", "contender ", "entrant ", "participant "], "A": ["fan ", "spectator ", "ally ", "supporter "]}

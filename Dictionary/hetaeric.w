@@ -1,0 +1,1 @@
+{"index": 137428, "D": "a highly cultured courtesan or concubine, especially in ancient Greece.", "S": [], "A": []}

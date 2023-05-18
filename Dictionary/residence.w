@@ -1,0 +1,1 @@
+{"index": 269352, "D": "the place, especially the house, in which a person lives or resides; dwelling; home", "S": ["apartment ", "condo ", "dwelling ", "hall ", "headquarters ", "home ", "house ", "mansion ", "palace "], "A": ["business ", "industry ", "office "]}

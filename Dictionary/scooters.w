@@ -1,0 +1,1 @@
+{"index": 281177, "D": "a child's vehicle that typically has two wheels with a low footboard between them, is steered by a handlebar, and is propelled by pushing one foot against the ground while resting the other on the footboard.", "S": ["chopper ", "hog ", "minibike ", "moped "], "A": []}

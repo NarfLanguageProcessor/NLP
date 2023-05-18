@@ -1,0 +1,1 @@
+{"index": 337195, "D": "(of a metal) not made into coin", "S": [], "A": []}

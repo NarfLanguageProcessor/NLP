@@ -1,0 +1,1 @@
+{"index": 252640, "D": "the canonical group of books that forms the second of the three Jewish divisions of the Old Testament, comprising Joshua, Judges, 1 and 2 Samuel, 1 and 2 Kings, Isaiah, Jeremiah, Ezekiel, Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, and Malachi.", "S": ["prognosticator ", "seer ", "witch "], "A": []}

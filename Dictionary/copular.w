@@ -1,0 +1,1 @@
+{"index": 68720, "D": "something that connects or links together.", "S": [], "A": []}

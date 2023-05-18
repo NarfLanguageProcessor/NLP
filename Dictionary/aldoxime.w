@@ -1,0 +1,1 @@
+{"index": 7797, "D": "an oxime formed by reaction between hydroxylamine and an aldehyde", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 302508, "D": "not fresh; vapid or flat, as beverages; dry or hardened, as bread.", "S": ["crumbling ", "declining ", "developing ", "fading ", "fermenting ", "maturing ", "mellowing ", "slumping ", "stale ", "waning "], "A": []}

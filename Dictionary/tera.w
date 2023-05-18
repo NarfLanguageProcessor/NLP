@@ -1,0 +1,1 @@
+{"index": 319179, "D": "a combining form used in the names of units of measure equal to one trillion of a given base unit", "S": [], "A": []}

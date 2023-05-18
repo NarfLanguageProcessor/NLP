@@ -1,0 +1,1 @@
+{"index": 316583, "D": "a translation or paraphrase in Aramaic of a book or division of the Old Testament.", "S": [], "A": []}

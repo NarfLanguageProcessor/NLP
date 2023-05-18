@@ -1,0 +1,1 @@
+{"index": 245380, "D": "to talk in a foolish or simple-minded way; chatter; babble.", "S": [], "A": []}

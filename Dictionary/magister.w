@@ -1,0 +1,1 @@
+{"index": 177429, "D": [], "S": ["authority ", "court ", "critic ", "expert ", "inspector ", "justice ", "referee "], "A": []}

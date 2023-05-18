@@ -1,0 +1,1 @@
+{"index": 283217, "D": "to segmentalize.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 247654, "D": "the basis or groundwork of anything", "S": [], "A": []}

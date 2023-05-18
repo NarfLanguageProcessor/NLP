@@ -1,0 +1,1 @@
+{"index": 203305, "D": "a dual  state or quality.", "S": [], "A": []}

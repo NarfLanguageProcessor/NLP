@@ -1,0 +1,1 @@
+{"index": 280583, "D": "a member of a Protestant group that emigrated in 1734 from Germany and settled in Pennsylvania, where they organized the Schwenkfelder Church.", "S": [], "A": []}

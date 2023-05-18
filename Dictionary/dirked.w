@@ -1,0 +1,1 @@
+{"index": 86838, "D": "a dagger, especially of the Scottish Highlands.", "S": [], "A": []}

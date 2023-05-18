@@ -1,0 +1,1 @@
+{"index": 91003, "D": "a gentle trot,  like that of a dog. ", "S": ["amble ", "dash ", "lope ", "sprint ", "trot "], "A": ["repress "]}

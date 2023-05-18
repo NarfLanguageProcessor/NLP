@@ -1,0 +1,1 @@
+{"index": 169269, "D": "a hybrid plant with blue or grey flowers, developed by crossing true lavender with spike lavender", "S": [], "A": []}

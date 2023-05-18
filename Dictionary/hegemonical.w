@@ -1,0 +1,1 @@
+{"index": 135328, "D": "having hegemony,  or dominance", "S": [], "A": []}

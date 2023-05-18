@@ -1,0 +1,1 @@
+{"index": 1253, "D": "the wood of any of several species of mahogany.", "S": [], "A": []}

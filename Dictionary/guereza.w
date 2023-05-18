@@ -1,0 +1,1 @@
+{"index": 130917, "D": "a colobus monkey, especially of the species Colobus guereza.", "S": [], "A": []}

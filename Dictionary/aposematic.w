@@ -1,0 +1,1 @@
+{"index": 17392, "D": "colored or constructed in a way that indicates special capabilities for defense.", "S": [], "A": []}

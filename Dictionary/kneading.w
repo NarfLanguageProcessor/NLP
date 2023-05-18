@@ -1,0 +1,1 @@
+{"index": 165480, "D": "to work (dough, clay, etc.) into a uniform mixture by pressing, folding, and stretching.", "S": ["abrasion ", "attrition ", "brushing ", "caress ", "friction ", "grinding ", "pat ", "polish ", "rasping ", "scouring ", "scraping ", "shine ", "smear ", "smoothing ", "stroking ", "swab ", "swipe ", "wear ", "wipe "], "A": []}

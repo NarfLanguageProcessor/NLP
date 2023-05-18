@@ -1,0 +1,1 @@
+{"index": 96575, "D": "one or the other of two", "S": ["each of two ", "either/or ", "one ", "one of two ", "this one "], "A": []}

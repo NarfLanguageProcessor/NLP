@@ -1,0 +1,1 @@
+{"index": 77773, "D": "an act or instance of making a person or thing weak or feeble, often in a specific way; the resulting state of weakness", "S": ["debility ", "depletion ", "devitalization ", "enervation ", "enfeeblement ", "exhaustion ", "fatigue ", "infirmity ", "weakness "], "A": ["energy ", "liveliness ", "strength ", "vigor "]}

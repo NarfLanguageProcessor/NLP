@@ -1,0 +1,1 @@
+{"index": 72989, "D": "a variant spelling of krimmer", "S": [], "A": []}

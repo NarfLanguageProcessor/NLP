@@ -1,0 +1,1 @@
+{"index": 113529, "D": "an archaic name for polecat", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 364201, "D": "pertaining to or characteristic of the views or the classificatory system of Alfred Werner.", "S": [], "A": []}

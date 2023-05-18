@@ -1,0 +1,1 @@
+{"index": 175748, "D": "the application of a lubricant to diminish friction", "S": ["lube "], "A": []}

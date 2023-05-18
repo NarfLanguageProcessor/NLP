@@ -1,0 +1,1 @@
+{"index": 293491, "D": "to lie or keep in hiding, as for some evil reason", "S": ["crouch ", "prowl ", "slink ", "snoop "], "A": ["confront ", "encounter ", "face ", "meet ", "take on "]}

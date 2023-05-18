@@ -1,0 +1,1 @@
+{"index": 88958, "D": "deranged or impaired digestion; indigestion (opposed to eupepsia).", "S": ["heartburn ", "nausea "], "A": []}

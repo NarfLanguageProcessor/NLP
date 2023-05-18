@@ -1,0 +1,1 @@
+{"index": 327145, "D": "an exhausting effort, especially walking or working.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 3635, "D": "a governor of a province in Spain or of a Spanish colonial province.", "S": [], "A": []}

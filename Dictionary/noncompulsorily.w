@@ -1,0 +1,1 @@
+{"index": 202190, "D": "required; mandatory; obligatory", "S": [], "A": []}

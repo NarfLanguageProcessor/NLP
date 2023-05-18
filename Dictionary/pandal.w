@@ -1,0 +1,1 @@
+{"index": 224442, "D": "(in India) a temporary shed, especially one used for public meetings.", "S": [], "A": []}

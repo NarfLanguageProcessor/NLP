@@ -1,0 +1,1 @@
+{"index": 296372, "D": "in a low pitch or volume; quietly", "S": ["delicately ", "faintly ", "gently ", "gingerly ", "quietly ", "smoothly ", "tenderly "], "A": []}

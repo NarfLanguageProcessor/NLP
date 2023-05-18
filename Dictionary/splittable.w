@@ -1,0 +1,1 @@
+{"index": 300572, "D": "to divide or separate from end to end or into layers", "S": [], "A": []}

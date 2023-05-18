@@ -1,0 +1,1 @@
+{"index": 364139, "D": "of or relating to the Wends or their language; Sorbian. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 94374, "D": "marked or characterized by duplicity. ", "S": ["cheating ", "deceitful ", "dishonest "], "A": ["frank ", "honest ", "open ", "trustworthy ", "truthful "]}

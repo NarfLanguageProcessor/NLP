@@ -1,0 +1,1 @@
+{"index": 42078, "D": "a round shield held by a grip and sometimes having straps through which the arm is passed.", "S": [], "A": []}

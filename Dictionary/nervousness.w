@@ -1,0 +1,1 @@
+{"index": 198771, "D": "the state or condition of being highly, acutely, or unnaturally uneasy or excitable", "S": ["agitation ", "anger ", "disquiet ", "impatience ", "jitters ", "sensitivity ", "stage fright ", "stress ", "tension ", "turbulence ", "uneasiness ", "worry "], "A": ["calm ", "calmness ", "ease ", "peace ", "relaxation ", "discouragement "]}

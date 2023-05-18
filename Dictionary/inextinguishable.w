@@ -1,0 +1,1 @@
+{"index": 151759, "D": "not extinguishable", "S": ["above suspicion ", "imperishable ", "indestructible ", "just ", "loyal ", "moral ", "perpetual ", "persistent ", "pure ", "reliable ", "straight ", "trustworthy ", "unbribable ", "undestroyable ", "untouchable ", "upright "], "A": ["bad ", "corruptible ", "dishonest "]}

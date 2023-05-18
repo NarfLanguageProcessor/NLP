@@ -1,0 +1,1 @@
+{"index": 212707, "D": "the act of continued outpouring or falling; a continuing torrent, as of rain.", "S": [], "A": []}

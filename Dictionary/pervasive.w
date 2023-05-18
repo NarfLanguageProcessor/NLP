@@ -1,0 +1,1 @@
+{"index": 232186, "D": "spread throughout", "S": ["common ", "inescapable ", "omnipresent ", "prevalent ", "rife ", "ubiquitous ", "universal "], "A": ["rare ", "scarce ", "uncommon "]}

@@ -1,0 +1,1 @@
+{"index": 78648, "D": "to diminish the physical strength, stamina, or vitality of; weaken.", "S": [], "A": []}

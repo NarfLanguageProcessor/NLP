@@ -1,0 +1,1 @@
+{"index": 180879, "D": "a European plant, Astrantia major, of the parsley family, having pinkish-rose or white flower clusters with purplish bracts beneath.", "S": [], "A": []}

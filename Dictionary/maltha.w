@@ -1,0 +1,1 @@
+{"index": 178659, "D": "a liquid bitumen used in ancient times as a mortar or waterproofing agent.", "S": [], "A": []}

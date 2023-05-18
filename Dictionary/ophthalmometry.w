@@ -1,0 +1,1 @@
+{"index": 213461, "D": "an instrument for measuring the reflection of an image on the surface of the cornea and other capacities of the eye, used chiefly for determining the presence and degree of astigmatism.", "S": [], "A": []}

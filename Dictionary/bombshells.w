@@ -1,0 +1,1 @@
+{"index": 37753, "D": "a bomb. ", "S": ["calamity ", "casualty ", "disappointment ", "disaster ", "jolt ", "letdown ", "mishap ", "setback ", "shock ", "tragedy "], "A": ["advantage ", "blessing ", "boon ", "good fortune ", "good luck ", "miracle ", "success ", "wonder ", "triumph "]}

@@ -1,0 +1,1 @@
+{"index": 238398, "D": "a person who works in a pit,  as in coal mining.", "S": [], "A": []}

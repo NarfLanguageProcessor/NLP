@@ -1,0 +1,1 @@
+{"index": 22243, "D": "the science dealing with the paths of space vehicles.", "S": [], "A": []}

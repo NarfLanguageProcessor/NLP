@@ -1,0 +1,1 @@
+{"index": 356638, "D": "the relative combining capacity of an atom or group compared with that of the standard hydrogen atom. The chloride ion, Cl\u2013, with a valence of one, has the capacity to unite with one atom of hydrogen or its equivalent, as in HCl or NaCl.", "S": ["reactiveness ", "reactivity "], "A": []}

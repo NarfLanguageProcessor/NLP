@@ -1,0 +1,1 @@
+{"index": 21827, "D": "the act of assisting;  help; aid; support.", "S": ["aid ", "backing ", "benefit ", "compensation ", "cooperation ", "help ", "relief ", "service ", "support "], "A": ["blockage ", "damage ", "handicap ", "harm ", "hindrance ", "hurt ", "injury ", "loss ", "obstruction ", "opposition ", "stop ", "stoppage "]}

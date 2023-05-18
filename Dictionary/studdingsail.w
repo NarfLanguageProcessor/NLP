@@ -1,0 +1,1 @@
+{"index": 306779, "D": "a light sail, sometimes set outboard of either of the leeches of a square sail and extended by booms.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 106795, "D": "the act of excommunicating. ", "S": ["damnation ", "dismissal ", "removal ", "suspension "], "A": []}

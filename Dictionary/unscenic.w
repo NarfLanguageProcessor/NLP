@@ -1,0 +1,1 @@
+{"index": 350466, "D": "of or relating to natural scenery.", "S": [], "A": []}

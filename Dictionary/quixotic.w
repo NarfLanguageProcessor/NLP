@@ -1,0 +1,1 @@
+{"index": 259063, "D": "extravagantly chivalrous or romantic; visionary, impractical, or impracticable.", "S": ["dreamy ", "foolish ", "impractical ", "impulsive ", "romantic ", "unrealistic ", "utopian "], "A": ["cautious ", "practical ", "pragmatic ", "realistic ", "sensible ", "thoughtful ", "unromantic ", "wise "]}

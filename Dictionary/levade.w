@@ -1,0 +1,1 @@
+{"index": 171166, "D": "a movement in which the horse first lowers its body on increasingly bent hocks, then sits on its hind hooves while keeping its forelegs raised and drawn in.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 336983, "D": "to undo the clasp  or clasps  of; unfasten.", "S": ["disengage ", "disentangle ", "free ", "loose ", "loosen ", "release ", "slip ", "unbind ", "unblock ", "unbutton ", "unfasten ", "unlock ", "unloose ", "unloosen ", "unravel ", "untie ", "unwrap "], "A": ["button ", "fasten ", "hold ", "tie "]}

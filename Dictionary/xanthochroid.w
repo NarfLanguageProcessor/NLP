@@ -1,0 +1,1 @@
+{"index": 368250, "D": "of, relating to, or designating races having light-coloured hair and a pale complexion", "S": [], "A": []}

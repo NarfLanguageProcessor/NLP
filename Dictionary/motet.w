@@ -1,0 +1,1 @@
+{"index": 193923, "D": "a vocal composition in polyphonic style, on a Biblical or similar prose text, intended for use in a church service.", "S": [], "A": []}

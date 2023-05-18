@@ -1,0 +1,1 @@
+{"index": 312798, "D": "a tax  in addition to a normal tax,  as one upon income above a certain amount.", "S": [], "A": []}

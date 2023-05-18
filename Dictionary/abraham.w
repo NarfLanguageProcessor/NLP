@@ -1,0 +1,1 @@
+{"index": 783, "D": "the first of the great Biblical patriarchs, father of Isaac, and traditional founder of the ancient Hebrew nation", "S": [], "A": []}

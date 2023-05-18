@@ -1,0 +1,1 @@
+{"index": 355629, "D": "the husband of Bathsheba, and an officer in David's army. 2 Samuel 11.", "S": [], "A": []}

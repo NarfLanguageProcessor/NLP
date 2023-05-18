@@ -1,0 +1,1 @@
+{"index": 58242, "D": "watchful and discreet; cautious; prudent", "S": [], "A": []}

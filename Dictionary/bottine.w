@@ -1,0 +1,1 @@
+{"index": 38797, "D": "a light boot for women or children; half-boot", "S": [], "A": []}

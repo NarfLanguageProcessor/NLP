@@ -1,0 +1,1 @@
+{"index": 196095, "D": "a cotton fabric made in various degrees of fineness and often printed, woven, or embroidered in patterns, especially a cotton fabric of plain weave, used for sheets and for a variety of other purposes.", "S": [], "A": []}

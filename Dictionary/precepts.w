@@ -1,0 +1,1 @@
+{"index": 246030, "D": "a commandment or direction given as a rule of action or conduct.", "S": ["axiom ", "canon ", "commandment ", "doctrine ", "dogma ", "edict ", "tenet "], "A": ["ambiguity ", "unbelief ", "answer ", "disorganization ", "lawlessness "]}

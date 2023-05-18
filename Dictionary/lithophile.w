@@ -1,0 +1,1 @@
+{"index": 173746, "D": "(of a chemical element) concentrated in the earth's crust, rather than in the core or mantle.", "S": [], "A": []}

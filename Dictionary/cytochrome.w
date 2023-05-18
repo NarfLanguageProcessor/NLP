@@ -1,0 +1,1 @@
+{"index": 58702, "D": "any of several carrier molecules in the mitochondria of plant and animal cells, consisting of a protein and an iron-containing porphyrin ring and participating in the stepwise transfer of electrons in oxidation reactions", "S": [], "A": []}

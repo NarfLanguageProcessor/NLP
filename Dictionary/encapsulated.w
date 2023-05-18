@@ -1,0 +1,1 @@
+{"index": 99129, "D": "to place in or as if in a capsule. ", "S": ["fixed ", "ingrained ", "installed ", "planted "], "A": []}

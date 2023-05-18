@@ -1,0 +1,1 @@
+{"index": 78403, "D": "in a way that settles a matter and puts an end to debate or speculation", "S": ["actually ", "categorically ", "definitely ", "doubtless ", "exactly ", "positively ", "precisely ", "really ", "surely ", "truly ", "unconditionally ", "unquestionably "], "A": ["doubtfully ", "dubiously ", "questionably ", "uncertain "]}

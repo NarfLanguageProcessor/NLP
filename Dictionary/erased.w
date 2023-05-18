@@ -1,0 +1,1 @@
+{"index": 103490, "D": "to rub or scrape out, as letters or characters written, engraved, etc.; efface. ", "S": ["buried ", "deceased ", "late ", "lifeless "], "A": ["alive ", "living "]}

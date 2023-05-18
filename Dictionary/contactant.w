@@ -1,0 +1,1 @@
+{"index": 67232, "D": "any substance that might induce an allergy by coming in contact  with the skin or a mucous membrane.", "S": [], "A": []}

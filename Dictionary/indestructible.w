@@ -1,0 +1,1 @@
+{"index": 150830, "D": "not destructible; that cannot be destroyed.", "S": ["durable ", "immortal ", "perpetual "], "A": ["ephemeral ", "temporary "]}

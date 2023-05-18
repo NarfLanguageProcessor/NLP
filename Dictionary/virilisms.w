@@ -1,0 +1,1 @@
+{"index": 360205, "D": "a female disorder in which there is development of secondary male sexual characteristics, as hirsutism and lowered voice, caused by various conditions affecting hormone regulation.", "S": [], "A": []}

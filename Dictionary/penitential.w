@@ -1,0 +1,1 @@
+{"index": 229675, "D": "of, pertaining to, proceeding from, or expressive of penitence  or repentance.", "S": ["apologetic ", "attritional ", "chastened ", "compunctious ", "conscience-stricken ", "contrite ", "guilt-ridden ", "mournful ", "penitent ", "regretful ", "repentant ", "rueful ", "sad ", "self-reproachful ", "sorrowful ", "sorry "], "A": []}

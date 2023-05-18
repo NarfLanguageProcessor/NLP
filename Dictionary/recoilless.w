@@ -1,0 +1,1 @@
+{"index": 263086, "D": "having little or no recoil", "S": [], "A": []}

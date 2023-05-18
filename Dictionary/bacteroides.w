@@ -1,0 +1,1 @@
+{"index": 26135, "D": "any of several rod-shaped, anaerobic bacteria of the genus Bacteroides, occurring in the alimentary and genitourinary tracts of humans and other mammals, certain species of which are pathogenic.", "S": [], "A": []}

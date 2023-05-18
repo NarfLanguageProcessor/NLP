@@ -1,0 +1,1 @@
+{"index": 18706, "D": "something archaic, as a word or expression.", "S": [], "A": []}

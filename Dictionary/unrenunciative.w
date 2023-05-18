@@ -1,0 +1,1 @@
+{"index": 349527, "D": "an act or instance of relinquishing, abandoning, repudiating, or sacrificing something, as a right, title, person, or ambition", "S": [], "A": []}

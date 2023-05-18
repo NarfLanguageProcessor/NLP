@@ -1,0 +1,1 @@
+{"index": 329913, "D": "a thyroid hormone, C15H12I3NO4, similar to thyroxine but several times more potent.", "S": [], "A": []}

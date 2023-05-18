@@ -1,0 +1,1 @@
+{"index": 123912, "D": "to study geology. ", "S": [], "A": []}

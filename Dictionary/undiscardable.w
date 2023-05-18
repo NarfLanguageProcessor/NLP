@@ -1,0 +1,1 @@
+{"index": 340440, "D": "to cast aside or dispose of; get rid of", "S": [], "A": []}

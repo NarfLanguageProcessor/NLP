@@ -1,0 +1,1 @@
+{"index": 198100, "D": "(no longer in technical use) a member of the peoples traditionally classified as the Negro race, especially those who originate in sub-Saharan Africa.", "S": [], "A": []}

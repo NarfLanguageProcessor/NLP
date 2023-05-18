@@ -1,0 +1,1 @@
+{"index": 66507, "D": "the act or state of connecting. ", "S": ["contact ", "network ", "relation "], "A": ["antagonist ", "enemy ", "foe ", "opponent ", "stranger "]}

@@ -1,0 +1,1 @@
+{"index": 31551, "D": "a position or post granted to an ecclesiastic that guarantees a fixed amount of property or income.", "S": ["district "], "A": []}

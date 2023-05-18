@@ -1,0 +1,1 @@
+{"index": 282799, "D": "the officials or office entrusted with administrative duties, maintaining records, and overseeing or performing secretarial duties, especially for an international organization", "S": [], "A": []}

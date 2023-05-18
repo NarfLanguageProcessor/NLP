@@ -1,0 +1,1 @@
+{"index": 123295, "D": "an association of individuals having sentiments, tastes, and attitudes in common; fellowship.", "S": [], "A": []}

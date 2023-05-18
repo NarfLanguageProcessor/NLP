@@ -1,0 +1,1 @@
+{"index": 120386, "D": "a colorless, oily liquid, C5H4O2, having an aromatic odor, obtained from bran, sugar, wood, corncobs, or the like, by distillation", "S": [], "A": []}

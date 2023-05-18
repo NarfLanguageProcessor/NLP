@@ -1,0 +1,1 @@
+{"index": 329067, "D": "an acetate  containing three acetate  groups.", "S": [], "A": []}

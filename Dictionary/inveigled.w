@@ -1,0 +1,1 @@
+{"index": 157071, "D": "to entice, lure, or ensnare by flattery or artful talk or inducements (usually followed by into)", "S": ["altered ", "changed ", "determined ", "formed ", "motivated ", "moved ", "persuaded ", "shaped ", "swayed ", "turned "], "A": ["kept "]}

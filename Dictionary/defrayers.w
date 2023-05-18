@@ -1,0 +1,1 @@
+{"index": 79487, "D": "to bear or pay all or part of (the costs, expenses, etc.)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 297234, "D": "of or relating to sound.", "S": ["audiovisual ", "auditory ", "aural ", "neural ", "neurological ", "olfactory ", "sensual ", "tactile ", "visual "], "A": []}

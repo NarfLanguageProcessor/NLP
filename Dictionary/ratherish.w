@@ -1,0 +1,1 @@
+{"index": 261014, "D": [], "S": ["adequately ", "kind of ", "moderately ", "quite ", "rather ", "reasonably "], "A": ["unfairly ", "unjustly "]}

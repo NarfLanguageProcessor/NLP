@@ -1,0 +1,1 @@
+{"index": 6811, "D": "to position or direct (a firearm, ball, arrow, rocket, etc.) so that, on firing or release, the discharged projectile will hit a target or travel along a certain path.", "S": ["address ", "design ", "direct ", "focus ", "intend ", "mean ", "plan ", "propose ", "target ", "try ", "want "], "A": ["ignore ", "neglect ", "forget ", "look away "]}

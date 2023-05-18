@@ -1,0 +1,1 @@
+{"index": 77311, "D": "died c970 b.c., the second king of Israel, reigned c1010\u2013c970, successor to Saul", "S": [], "A": []}

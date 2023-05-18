@@ -1,0 +1,1 @@
+{"index": 199749, "D": "any of 12 aspects of Samsara, or the cycle of birth and death, often compared to 12 spokes of a wheel.", "S": [], "A": []}

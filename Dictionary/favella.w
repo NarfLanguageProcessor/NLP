@@ -1,0 +1,1 @@
+{"index": 110473, "D": "(in certain red algae) a cystocarp covered by a gelatinous envelope.", "S": [], "A": []}

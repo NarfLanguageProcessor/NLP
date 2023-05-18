@@ -1,0 +1,1 @@
+{"index": 237150, "D": "(of a leaf) having leaflets or primary divisions arranged on each side of a common stalk", "S": [], "A": []}

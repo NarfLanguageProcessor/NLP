@@ -1,0 +1,1 @@
+{"index": 39305, "D": "a storage room, especially one for trunks, suitcases, etc.", "S": [], "A": []}

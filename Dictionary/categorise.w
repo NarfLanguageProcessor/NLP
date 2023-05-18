@@ -1,0 +1,1 @@
+{"index": 49539, "D": "to arrange in categories  or classes; classify.", "S": [], "A": []}

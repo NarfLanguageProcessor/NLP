@@ -1,0 +1,1 @@
+{"index": 153288, "D": "(in assaying) the addition of silver to a gold-silver alloy in order to facilitate the parting of the gold by nitric acid.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 267671, "D": "resisting pressure; resistant.", "S": ["contrary ", "defiant ", "disobedient ", "opposing ", "rebellious ", "resisting ", "resistive ", "unyielding "], "A": []}

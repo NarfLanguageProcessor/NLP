@@ -1,0 +1,1 @@
+{"index": 101835, "D": "Compare hereditarianism", "S": [], "A": []}

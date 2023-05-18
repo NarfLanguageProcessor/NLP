@@ -1,0 +1,1 @@
+{"index": 209791, "D": "a thin, sharp-pointed table implement or device for removing the edible kernels from nuts. ", "S": [], "A": []}

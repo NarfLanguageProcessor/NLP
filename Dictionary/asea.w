@@ -1,0 +1,1 @@
+{"index": 21067, "D": "to or toward the sea;  seaward.", "S": ["addled ", "adrift ", "befuddled ", "bewildered ", "confused ", "puzzled ", "sailing "], "A": []}

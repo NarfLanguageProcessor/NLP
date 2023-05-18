@@ -1,0 +1,1 @@
+{"index": 89098, "D": "affected by or involving difficulty in breathing", "S": [], "A": []}

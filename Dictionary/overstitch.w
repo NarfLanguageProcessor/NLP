@@ -1,0 +1,1 @@
+{"index": 221362, "D": "a stitch  made with a sewing machine, for binding or finishing a raw edge or hem.", "S": [], "A": []}

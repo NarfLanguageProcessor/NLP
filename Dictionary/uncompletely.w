@@ -1,0 +1,1 @@
+{"index": 337397, "D": "to the whole amount or extent; fully", "S": [], "A": []}

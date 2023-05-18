@@ -1,0 +1,1 @@
+{"index": 84783, "D": "(of a flower) having both a calyx and a corolla.", "S": [], "A": []}

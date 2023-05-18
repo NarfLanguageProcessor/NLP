@@ -1,0 +1,1 @@
+{"index": 85893, "D": "divided in halves", "S": ["cut across "], "A": ["combine ", "join ", "unite "]}

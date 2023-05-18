@@ -1,0 +1,1 @@
+{"index": 144284, "D": "hot  or fiery in spirit or temper; impetuous; rash", "S": [], "A": []}

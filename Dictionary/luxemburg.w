@@ -1,0 +1,1 @@
+{"index": 176551, "D": "German socialist agitator, born in Poland.", "S": [], "A": []}

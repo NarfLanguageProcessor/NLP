@@ -1,0 +1,1 @@
+{"index": 30119, "D": "a lamp  at the side or head of a bed. ", "S": [], "A": []}

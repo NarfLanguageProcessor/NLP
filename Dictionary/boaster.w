@@ -1,0 +1,1 @@
+{"index": 36970, "D": "a person who boasts  or brags.", "S": ["blowhard ", "blusterer ", "bouncer ", "braggadocio ", "egotist ", "vaunter "], "A": []}

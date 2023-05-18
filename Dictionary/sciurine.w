@@ -1,0 +1,1 @@
+{"index": 280879, "D": "of or relating to the squirrels and allied rodents of the family Sciuridae.", "S": [], "A": []}

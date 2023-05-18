@@ -1,0 +1,1 @@
+{"index": 352518, "D": "state or character of being susceptible", "S": ["blocking ", "check ", "immunity ", "imperviousness ", "protection ", "safeguard ", "screen ", "shield "], "A": ["harm ", "hurt ", "injury "]}

@@ -1,0 +1,1 @@
+{"index": 345613, "D": "readily or easily liked;  pleasing", "S": ["obnoxious ", "rude ", "unpleasant "], "A": ["agreeable ", "delightful ", "kind ", "nice ", "pleasant "]}

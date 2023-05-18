@@ -1,0 +1,1 @@
+{"index": 92945, "D": "a pebble or boulder having three faces formed by the action of windblown sand.", "S": [], "A": []}

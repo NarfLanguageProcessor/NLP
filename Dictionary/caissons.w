@@ -1,0 +1,1 @@
+{"index": 44618, "D": "a structure used in underwater work, consisting of an airtight chamber, open at the bottom and containing air under sufficient pressure to exclude the water.", "S": ["box ", "case ", "chamber ", "chest ", "float "], "A": []}

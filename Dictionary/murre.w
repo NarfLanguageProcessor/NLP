@@ -1,0 +1,1 @@
+{"index": 195780, "D": "either of two black and white diving birds of the genus Uria, of northern seas, U. aalge(common murre ) or U. lomvia(thick-billed murre ).", "S": [], "A": []}

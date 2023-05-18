@@ -1,0 +1,1 @@
+{"index": 4554, "D": "dried or darkened as by heat.", "S": ["bronzed ", "brown ", "burned "], "A": ["pale ", "pallid "]}

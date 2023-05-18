@@ -1,0 +1,1 @@
+{"index": 80450, "D": "one of the administrative divisions of ancient Attica and of modern Greece.", "S": [], "A": []}

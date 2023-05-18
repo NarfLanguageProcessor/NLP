@@ -1,0 +1,1 @@
+{"index": 328887, "D": "having a tremulous or vibrating tone, as certain pipes of an organ.", "S": [], "A": []}

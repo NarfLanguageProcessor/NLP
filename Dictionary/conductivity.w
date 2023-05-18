@@ -1,0 +1,1 @@
+{"index": 65711, "D": "the property or power of conducting  heat, electricity, or sound.", "S": ["dynamism ", "electricity ", "heat ", "potential ", "service ", "strength "], "A": ["lack ", "peace ", "question "]}

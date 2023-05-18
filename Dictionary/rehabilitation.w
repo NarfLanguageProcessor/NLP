@@ -1,0 +1,1 @@
+{"index": 265920, "D": "the act or process of rehabilitating", "S": ["improvement ", "overhaul ", "reclamation ", "reconstruction ", "recovery ", "repair "], "A": ["damage ", "harm ", "hurt ", "injury "]}

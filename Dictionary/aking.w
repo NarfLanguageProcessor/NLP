@@ -1,0 +1,1 @@
+{"index": 7174, "D": "an obsolete spelling of ache. ", "S": [], "A": []}

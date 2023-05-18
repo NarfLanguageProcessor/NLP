@@ -1,0 +1,1 @@
+{"index": 173650, "D": "a soft, silver-white metallic element, the lightest of all metals, occurring combined in certain minerals. Symbol", "S": [], "A": []}

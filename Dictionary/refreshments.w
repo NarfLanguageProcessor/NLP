@@ -1,0 +1,1 @@
+{"index": 265382, "D": "something that refreshes,  especially food or drink.", "S": ["aliment ", "bread ", "chow ", "comestibles ", "eatables ", "eats ", "edibles ", "fare ", "feed ", "foodstuff ", "goodies ", "groceries ", "grub ", "larder ", "meal ", "nourishment ", "provender ", "provisions ", "rations ", "snack ", "supplies ", "viands "], "A": []}

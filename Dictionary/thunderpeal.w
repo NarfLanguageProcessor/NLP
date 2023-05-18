@@ -1,0 +1,1 @@
+{"index": 323033, "D": "a crash of thunder;  thunderclap.", "S": [], "A": []}

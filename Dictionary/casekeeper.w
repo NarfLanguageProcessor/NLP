@@ -1,0 +1,1 @@
+{"index": 48816, "D": "the person who records in the casebox a tally of cards as they appear in the box.", "S": [], "A": []}

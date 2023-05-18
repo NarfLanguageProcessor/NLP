@@ -1,0 +1,1 @@
+{"index": 67378, "D": "a struggling together in opposition; strife.", "S": [], "A": []}

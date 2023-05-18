@@ -1,0 +1,1 @@
+{"index": 13463, "D": "a record of events of a particular year", "S": ["account ", "anecdote ", "autobiography ", "biography ", "chronicle ", "diary ", "essay ", "journal ", "life ", "life story ", "memory ", "narrative ", "note ", "recollection ", "reminiscence ", "thesis ", "treatise "], "A": ["ignorance "]}

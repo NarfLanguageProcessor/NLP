@@ -1,0 +1,1 @@
+{"index": 35194, "D": "a holder for x-ray film with a projecting fin that is held between the teeth so as to show the crowns of the upper and lower teeth in one picture.", "S": [], "A": []}

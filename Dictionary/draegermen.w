@@ -1,0 +1,1 @@
+{"index": 92484, "D": "a miner, usually a member of a special crew, trained in underground rescue work and other emergency procedures.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 36999, "D": "a building or shed, usually built partly over water, for sheltering a boat  or boats. ", "S": [], "A": []}

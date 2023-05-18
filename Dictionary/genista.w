@@ -1,0 +1,1 @@
+{"index": 123606, "D": "any plant belonging to the genus Genista, of the legume family, having showy flowers and including many species of broom.", "S": [], "A": []}

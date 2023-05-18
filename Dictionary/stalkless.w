@@ -1,0 +1,1 @@
+{"index": 302529, "D": "having no stalk. ", "S": [], "A": []}

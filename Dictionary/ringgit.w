@@ -1,0 +1,1 @@
+{"index": 273035, "D": "a paper money, cupronickel coin, and monetary unit of Malaysia, equal to 100 sen.", "S": [], "A": []}

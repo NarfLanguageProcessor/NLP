@@ -1,0 +1,1 @@
+{"index": 156238, "D": "to weave  together, as threads, strands, branches, or roots.", "S": ["crisscross ", "interlaced ", "interlacing ", "intermixed ", "knitted ", "mingled ", "mixed ", "woven "], "A": []}

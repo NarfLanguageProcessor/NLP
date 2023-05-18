@@ -1,0 +1,1 @@
+{"index": 278031, "D": "of or relating to Sanskrit", "S": [], "A": []}

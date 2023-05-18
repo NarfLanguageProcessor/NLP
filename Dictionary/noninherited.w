@@ -1,0 +1,1 @@
+{"index": 204743, "D": "received from or as if from one\u2019s predecessors", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201077, "D": "the state or quality of being active", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 38910, "D": "a clear, usually seasoned broth made by straining water in which beef, chicken, etc., has been cooked, or by dissolving a commercially prepared bouillon cube or cubes in hot water.", "S": ["chowder ", "porridge ", "puree "], "A": []}

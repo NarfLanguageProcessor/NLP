@@ -1,0 +1,1 @@
+{"index": 77952, "D": "a specially prepared paper bearing a picture or design for transfer to wood, metal, glass, etc.", "S": ["emblem "], "A": []}

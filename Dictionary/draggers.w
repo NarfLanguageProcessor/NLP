@@ -1,0 +1,1 @@
+{"index": 92531, "D": "any of various small motor trawlers operating off the North Atlantic coast of the United States.", "S": [], "A": []}

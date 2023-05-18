@@ -1,0 +1,1 @@
+{"index": 82887, "D": "a king or other ruler with absolute, unlimited power; autocrat.", "S": ["autocrat ", "oppressor ", "tyrant "], "A": []}

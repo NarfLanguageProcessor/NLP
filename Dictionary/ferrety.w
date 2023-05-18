@@ -1,0 +1,1 @@
+{"index": 111476, "D": "a domesticated, usually red-eyed, and albinic variety of the polecat,  used in Europe for driving rabbits and rats from their burrows.", "S": [], "A": []}

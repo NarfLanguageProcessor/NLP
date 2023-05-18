@@ -1,0 +1,1 @@
+{"index": 263793, "D": "occurring or appearing again.", "S": [], "A": []}

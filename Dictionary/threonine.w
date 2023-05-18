@@ -1,0 +1,1 @@
+{"index": 322642, "D": "an essential amino acid, CH3CHOHCH(NH2)COOH, obtained by the hydrolysis of proteins. Abbreviation", "S": [], "A": []}

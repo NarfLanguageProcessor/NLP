@@ -1,0 +1,1 @@
+{"index": 216167, "D": "to trade by exchange of commodities rather than by the use of money.", "S": [], "A": []}

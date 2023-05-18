@@ -1,0 +1,1 @@
+{"index": 154304, "D": "capable of being understood; comprehensible; clear", "S": ["loudly "], "A": ["inaudibly ", "silently "]}

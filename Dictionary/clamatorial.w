@@ -1,0 +1,1 @@
+{"index": 59126, "D": "of or relating to the Clamatores, a large group of passerine birds with relatively simple vocal organs and little power of song, as the flycatchers.", "S": [], "A": []}

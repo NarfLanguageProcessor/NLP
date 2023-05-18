@@ -1,0 +1,1 @@
+{"index": 315298, "D": "the principal island of the Society Islands, in the southern Pacific. 402 sq. mi. (1,041 sq. km). Capital", "S": [], "A": []}

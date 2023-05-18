@@ -1,0 +1,1 @@
+{"index": 92754, "D": "the degree to which a metal can be drawn.", "S": [], "A": []}

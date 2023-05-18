@@ -1,0 +1,1 @@
+{"index": 291583, "D": "the study of creative processes, especially as applied to the solution of problems by a group of diverse individuals.", "S": [], "A": []}

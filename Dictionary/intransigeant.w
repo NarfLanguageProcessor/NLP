@@ -1,0 +1,1 @@
+{"index": 156568, "D": "refusing to agree or compromise; uncompromising; inflexible.", "S": [], "A": []}

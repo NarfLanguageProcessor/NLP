@@ -1,0 +1,1 @@
+{"index": 150185, "D": "not conclusive;  not resolving fully all doubts or questions", "S": ["doubt ", "uncertainty ", "vagueness "], "A": ["certainty "]}

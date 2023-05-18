@@ -1,0 +1,1 @@
+{"index": 43009, "D": "a composite plant of the genus Arctium, especially A. lappa, a coarse, broad-leaved weed bearing prickly heads of burs  that stick to the clothing.", "S": [], "A": []}

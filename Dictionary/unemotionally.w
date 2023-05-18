@@ -1,0 +1,1 @@
+{"index": 341188, "D": "pertaining to or involving emotion  or the emotions. ", "S": ["carelessly ", "coolly ", "indifferently ", "informally "], "A": []}

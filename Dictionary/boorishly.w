@@ -1,0 +1,1 @@
+{"index": 38206, "D": "of or like a boor;  unmannered; crude; insensitive.", "S": ["aloud ", "emphatically ", "noisily ", "powerfully ", "vehemently ", "vociferously "], "A": ["inaudibly ", "quietly ", "silently "]}

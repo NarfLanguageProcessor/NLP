@@ -1,0 +1,1 @@
+{"index": 254114, "D": "a substance that an organism can transform into a vitamin,  as carotene, which is converted to vitamin A  in the liver.", "S": [], "A": []}

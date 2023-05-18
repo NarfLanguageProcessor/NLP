@@ -1,0 +1,1 @@
+{"index": 173572, "D": "to make literal;  interpret literally. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 65570, "D": "an act or instance of condescending. ", "S": [], "A": []}

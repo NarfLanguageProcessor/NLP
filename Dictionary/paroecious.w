@@ -1,0 +1,1 @@
+{"index": 226709, "D": "(of mosses and related plants) having the male and female reproductive organs at different levels on the same stem", "S": [], "A": []}

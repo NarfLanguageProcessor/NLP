@@ -1,0 +1,1 @@
+{"index": 167540, "D": "any defect of speech.", "S": [], "A": []}

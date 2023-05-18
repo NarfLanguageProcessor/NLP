@@ -1,0 +1,1 @@
+{"index": 233473, "D": "a shallow cup resembling a saucer, having a central boss and sometimes set upon a foot, used as a drinking vessel or to pour libations.", "S": [], "A": []}

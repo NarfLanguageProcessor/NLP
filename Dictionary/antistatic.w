@@ -1,0 +1,1 @@
+{"index": 16258, "D": "pertaining to a material or procedure that disperses, or inhibits the accumulation of, static  charges on textiles, phonograph records, paper products, etc.", "S": [], "A": []}

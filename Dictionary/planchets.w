@@ -1,0 +1,1 @@
+{"index": 238900, "D": "a flat piece of metal for stamping as a coin; a coin blank.", "S": [], "A": []}

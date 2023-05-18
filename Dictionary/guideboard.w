@@ -1,0 +1,1 @@
+{"index": 131017, "D": "a large board  or sign, usually mounted on a post, giving directions to travelers.", "S": [], "A": []}

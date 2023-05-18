@@ -1,0 +1,1 @@
+{"index": 117703, "D": "a high-level programming language used mainly for solving problems in science and engineering.", "S": [], "A": []}

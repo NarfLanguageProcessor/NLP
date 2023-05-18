@@ -1,0 +1,1 @@
+{"index": 119950, "D": "having a plump or round face.", "S": [], "A": []}

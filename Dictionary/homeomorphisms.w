@@ -1,0 +1,1 @@
+{"index": 142825, "D": "similarity in crystalline form but not necessarily in chemical composition.", "S": [], "A": []}

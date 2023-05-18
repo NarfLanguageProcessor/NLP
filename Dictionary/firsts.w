@@ -1,0 +1,1 @@
+{"index": 113296, "D": "saleable goods of the highest quality", "S": ["mock-up ", "model ", "precursor "], "A": ["descendant "]}

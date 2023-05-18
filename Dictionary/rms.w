@@ -1,0 +1,1 @@
+{"index": 273461, "D": "root mean square. ", "S": [], "A": []}

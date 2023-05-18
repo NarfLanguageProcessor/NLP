@@ -1,0 +1,1 @@
+{"index": 64173, "D": "to cause to be shared, done, used, etc., in common among members of a group", "S": [], "A": []}

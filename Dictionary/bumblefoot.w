@@ -1,0 +1,1 @@
+{"index": 42708, "D": "a swelling, sometimes purulent, of the ball of the foot  in fowl.", "S": [], "A": []}

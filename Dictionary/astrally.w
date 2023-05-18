@@ -1,0 +1,1 @@
+{"index": 22187, "D": "pertaining to or proceeding from the stars; stellar; star-shaped. ", "S": [], "A": []}

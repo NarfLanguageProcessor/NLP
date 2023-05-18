@@ -1,0 +1,1 @@
+{"index": 176404, "D": "ceramic ware  covered with a luster. ", "S": [], "A": []}

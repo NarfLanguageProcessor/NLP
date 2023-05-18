@@ -1,0 +1,1 @@
+{"index": 129449, "D": "to make greater;  enlarge; increase.", "S": [], "A": []}

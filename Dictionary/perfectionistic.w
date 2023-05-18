@@ -1,0 +1,1 @@
+{"index": 230604, "D": "a person who adheres to or believes in perfectionism. ", "S": [], "A": []}

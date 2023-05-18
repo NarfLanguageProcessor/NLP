@@ -1,0 +1,1 @@
+{"index": 148041, "D": "not modest in conduct, utterance, etc.; indecent; shameless.", "S": ["bawdy ", "bold ", "brazen ", "coarse ", "depraved ", "forward ", "indecent ", "lewd ", "obscene ", "revealing ", "risqu\u00e9 ", "unashamed ", "unchaste ", "unseemly "], "A": []}

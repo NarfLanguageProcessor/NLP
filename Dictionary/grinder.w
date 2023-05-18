@@ -1,0 +1,1 @@
+{"index": 129931, "D": "a person or thing that grinds. ", "S": ["hoagy ", "sub ", "submarine ", "torpedo "], "A": []}

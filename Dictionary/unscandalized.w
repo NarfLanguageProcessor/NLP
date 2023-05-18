@@ -1,0 +1,1 @@
+{"index": 350443, "D": "to shock or horrify by something considered immoral or improper.", "S": [], "A": []}

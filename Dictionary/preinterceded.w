@@ -1,0 +1,1 @@
+{"index": 248050, "D": "to act or interpose in behalf of someone in difficulty or trouble, as by pleading or petition", "S": [], "A": []}

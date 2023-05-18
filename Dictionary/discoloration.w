@@ -1,0 +1,1 @@
+{"index": 87425, "D": "the act or fact of discoloring  or the state of being discolored. ", "S": ["blemish "], "A": ["blank ", "clarity "]}

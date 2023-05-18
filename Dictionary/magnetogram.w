@@ -1,0 +1,1 @@
+{"index": 177537, "D": "the record produced by a magnetograph.", "S": [], "A": []}

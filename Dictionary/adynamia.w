@@ -1,0 +1,1 @@
+{"index": 3926, "D": "loss of vital power or strength, esp as the result of illness; weakness or debility", "S": [], "A": []}

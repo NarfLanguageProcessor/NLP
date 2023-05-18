@@ -1,0 +1,1 @@
+{"index": 323915, "D": "to tinge or tint, as with color.", "S": [], "A": []}

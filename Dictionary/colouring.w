@@ -1,0 +1,1 @@
+{"index": 63422, "D": "the process or art of applying colour", "S": [], "A": []}

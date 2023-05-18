@@ -1,0 +1,1 @@
+{"index": 89077, "D": "dissatisfaction, disapproval, or annoyance.", "S": ["anger ", "annoyance ", "disapproval ", "dislike ", "dissatisfaction ", "distaste ", "indignation ", "irritation ", "pique ", "resentment ", "umbrage ", "unhappiness "], "A": ["approval ", "happiness ", "joy ", "liking ", "love ", "pleasure ", "kindness "]}

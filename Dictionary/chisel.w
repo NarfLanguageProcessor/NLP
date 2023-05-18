@@ -1,0 +1,1 @@
+{"index": 54866, "D": "a wedgelike tool with a cutting edge at the end of the blade, often made of steel, used for cutting or shaping wood, stone, etc.", "S": ["blade ", "knife "], "A": []}

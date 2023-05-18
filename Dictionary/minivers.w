@@ -1,0 +1,1 @@
+{"index": 187961, "D": "Compare vair (def. 1). ", "S": [], "A": []}

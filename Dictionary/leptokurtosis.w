@@ -1,0 +1,1 @@
+{"index": 170746, "D": "the state of being leptokurtic. ", "S": [], "A": []}

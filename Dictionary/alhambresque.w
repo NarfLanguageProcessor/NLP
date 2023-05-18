@@ -1,0 +1,1 @@
+{"index": 8167, "D": "resembling the elaborately fanciful style of ornamentation of the Alhambra in Spain.", "S": [], "A": []}

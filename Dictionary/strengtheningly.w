@@ -1,0 +1,1 @@
+{"index": 306056, "D": "to make stronger;  give strength to.", "S": [], "A": []}

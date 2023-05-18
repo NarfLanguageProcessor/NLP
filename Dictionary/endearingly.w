@@ -1,0 +1,1 @@
+{"index": 99620, "D": "tending to make dear or beloved.", "S": ["admiringly ", "affectionately ", "earnestly ", "fondly ", "longingly ", "passionately ", "respectfully ", "reverently ", "thoughtfully ", "warmly ", "zealously "], "A": []}

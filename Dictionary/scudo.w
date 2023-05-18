@@ -1,0 +1,1 @@
+{"index": 282137, "D": "any of various gold or silver coins, of various Italian states, issued from the late 16th through the early 19th centuries.", "S": [], "A": []}

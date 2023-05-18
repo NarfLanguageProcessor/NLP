@@ -1,0 +1,1 @@
+{"index": 134165, "D": "a band  or ribbon placed about the crown of a hat,  just above the brim.", "S": [], "A": []}

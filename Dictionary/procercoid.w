@@ -1,0 +1,1 @@
+{"index": 251181, "D": "an elongate larval stage of some tapeworms that usually develops in the body of a freshwater copepod.", "S": [], "A": []}

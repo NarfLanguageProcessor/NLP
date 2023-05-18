@@ -1,0 +1,1 @@
+{"index": 80768, "D": "to destroy or ruin (a building or other structure), especially on purpose; tear down; raze.", "S": ["clearance ", "demolition ", "destruction ", "disposition ", "dumping ", "removal ", "transfer "], "A": ["building ", "construction "]}

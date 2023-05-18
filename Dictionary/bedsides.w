@@ -1,0 +1,1 @@
+{"index": 30213, "D": "the side of a bed, especially as the place of one attending the sick.", "S": [], "A": []}

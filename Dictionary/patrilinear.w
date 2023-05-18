@@ -1,0 +1,1 @@
+{"index": 227888, "D": "patrilineal. ", "S": [], "A": []}

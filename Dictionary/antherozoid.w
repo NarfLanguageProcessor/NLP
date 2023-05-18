@@ -1,0 +1,1 @@
+{"index": 14351, "D": "the motile male gamete produced in an antheridium.", "S": [], "A": []}

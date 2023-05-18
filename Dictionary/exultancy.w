@@ -1,0 +1,1 @@
+{"index": 108819, "D": "the act of exulting;  lively or triumphant joy, as over success or victory.", "S": ["celebration ", "delight ", "elation ", "exultance ", "happiness ", "jubilance ", "jubilation ", "rejoicing ", "reveling ", "triumph "], "A": []}

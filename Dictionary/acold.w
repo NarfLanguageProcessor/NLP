@@ -1,0 +1,1 @@
+{"index": 2625, "D": "being cold or chilled.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 346269, "D": "produced by mesmerism;  hypnotic.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 141137, "D": "abnormally decreased activity; listlessness. ", "S": [], "A": []}

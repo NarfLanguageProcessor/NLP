@@ -1,0 +1,1 @@
+{"index": 229673, "D": "feeling or expressing sorrow for sin or wrongdoing and disposed to atonement and amendment; repentant; contrite.", "S": ["repentant "], "A": ["happy ", "unashamed "]}

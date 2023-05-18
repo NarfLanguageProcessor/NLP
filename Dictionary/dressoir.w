@@ -1,0 +1,1 @@
+{"index": 92999, "D": "a cabinet of the 18th century, having a number of shallow shelves for dishes over a base with drawers and closed cupboards.", "S": [], "A": []}

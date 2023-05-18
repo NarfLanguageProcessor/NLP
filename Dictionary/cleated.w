@@ -1,0 +1,1 @@
+{"index": 59682, "D": "a wedge-shaped block fastened to a surface to serve as a check or support", "S": [], "A": []}

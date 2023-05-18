@@ -1,0 +1,1 @@
+{"index": 133533, "D": "the branch of psychology that investigates sensory data and sensation derived from the sense of touch and localized on the skin.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 156578, "D": "noting or having the quality of an intransitive verb. ", "S": [], "A": []}

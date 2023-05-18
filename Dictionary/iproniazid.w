@@ -1,0 +1,1 @@
+{"index": 157845, "D": "a compound, C9H13N3O, used in the treatment of mental depression and tuberculosis.", "S": [], "A": []}

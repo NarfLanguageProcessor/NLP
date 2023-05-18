@@ -1,0 +1,1 @@
+{"index": 157540, "D": "a tart, custardlike food made from milk curdled by the action of bacterial cultures, sometimes sweetened or flavored.", "S": [], "A": []}

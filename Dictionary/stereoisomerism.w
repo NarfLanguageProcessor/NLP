@@ -1,0 +1,1 @@
+{"index": 303903, "D": "the isomerism  ascribed to different relative positions of the atoms or groups of atoms in the molecules of organic compounds.", "S": [], "A": []}

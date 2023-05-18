@@ -1,0 +1,1 @@
+{"index": 30913, "D": "to adorn with or as if with jewels. ", "S": [], "A": []}

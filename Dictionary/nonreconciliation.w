@@ -1,0 +1,1 @@
+{"index": 206553, "D": "an act of reconciling,  as when former enemies agree to an amicable truce.", "S": [], "A": []}

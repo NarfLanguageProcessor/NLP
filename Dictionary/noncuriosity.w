@@ -1,0 +1,1 @@
+{"index": 202655, "D": "the desire to learn or know about anything; inquisitiveness. ", "S": [], "A": []}

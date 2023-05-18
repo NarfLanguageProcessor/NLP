@@ -1,0 +1,1 @@
+{"index": 71914, "D": "work that requires special skill or artistry, especially a handicraft.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 5378, "D": "a person related to one by marriage.", "S": [], "A": []}

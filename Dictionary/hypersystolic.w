@@ -1,0 +1,1 @@
+{"index": 140508, "D": "(of blood pressure) indicating the maximum arterial pressure occurring during contraction of the left ventricle of the heart.", "S": [], "A": []}

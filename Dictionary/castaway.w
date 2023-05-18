@@ -1,0 +1,1 @@
+{"index": 49040, "D": "a shipwrecked person.", "S": ["derelict ", "leper ", "maroon ", "outcast ", "outlaw ", "pariah ", "renegade ", "reprobate ", "shipwreck ", "waif "], "A": []}

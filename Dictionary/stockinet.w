@@ -1,0 +1,1 @@
+{"index": 304937, "D": "a machine-knitted elastic fabric used, esp formerly, for stockings, undergarments, etc", "S": [], "A": []}

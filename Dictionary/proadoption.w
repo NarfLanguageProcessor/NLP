@@ -1,0 +1,1 @@
+{"index": 250923, "D": "the act or process of establishing a legal relationship between a child and a parent other than the child\u2019s biological parent, thereby entrusting the designated adult with responsibility for raising the child", "S": [], "A": []}

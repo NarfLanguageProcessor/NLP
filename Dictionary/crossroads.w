@@ -1,0 +1,1 @@
+{"index": 73868, "D": "an area or the point at which two or more roads cross each other", "S": ["crisis ", "pass "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 188009, "D": "a monster, the offspring of Pasipha\u00eb and the Cretan bull, that had the head of a bull on the body of a man", "S": [], "A": []}

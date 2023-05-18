@@ -1,0 +1,1 @@
+{"index": 322336, "D": "the part of the trunk in humans and higher vertebrates between the neck and the abdomen, containing the cavity, enclosed by the ribs, sternum, and certain vertebrae, in which the heart, lungs, etc., are situated; chest.", "S": ["breast ", "heart ", "rib cage "], "A": ["back "]}

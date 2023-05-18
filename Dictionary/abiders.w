@@ -1,0 +1,1 @@
+{"index": 412, "D": "to remain; continue; stay", "S": ["ally ", "defender ", "follower ", "patron ", "proponent ", "support "], "A": ["enemy ", "opponent ", "opposition "]}

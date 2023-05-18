@@ -1,0 +1,1 @@
+{"index": 153081, "D": "any of various English polyphonic instrumental compositions of the 16th and 17th centuries using an antiphon for Trinity Sunday as a cantus firmus.", "S": [], "A": []}

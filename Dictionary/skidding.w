@@ -1,0 +1,1 @@
+{"index": 293098, "D": "a plank, bar, log, or the like, especially one of a pair, on which something heavy may be slid or rolled along.", "S": ["drift ", "glide ", "slip ", "swerve ", "veer "], "A": []}

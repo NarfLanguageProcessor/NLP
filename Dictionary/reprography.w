@@ -1,0 +1,1 @@
+{"index": 268651, "D": "the reproduction  and duplication of documents, written materials, drawings, designs, etc., by any process making use of light rays or photographic means, including offset printing, microfilming, photography,  office duplicating, and the like.", "S": [], "A": []}

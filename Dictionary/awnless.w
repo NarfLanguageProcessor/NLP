@@ -1,0 +1,1 @@
+{"index": 25054, "D": "a bristlelike appendage of a plant, especially on the glumes of grasses.", "S": [], "A": []}

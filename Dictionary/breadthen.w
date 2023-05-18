@@ -1,0 +1,1 @@
+{"index": 40219, "D": [], "S": ["augment ", "develop ", "enlarge ", "expand ", "increase ", "open up ", "widen "], "A": ["abridge ", "compress ", "decrease ", "diminish ", "lessen ", "lower ", "narrow ", "shrink ", "concentrate "]}

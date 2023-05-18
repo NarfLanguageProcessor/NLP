@@ -1,0 +1,1 @@
+{"index": 95452, "D": "of, relating to, or characterized by ecstasy  or a state of sudden, intense, overpowering emotion", "S": ["cheerfully ", "cheerily ", "cordially ", "enthusiastically ", "freely ", "gleefully ", "gratefully ", "heartily ", "readily ", "warmly ", "willingly "], "A": ["unwillingly "]}

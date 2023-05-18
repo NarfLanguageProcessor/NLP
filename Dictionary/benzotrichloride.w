@@ -1,0 +1,1 @@
+{"index": 31865, "D": "a colorless or yellowish liquid, C7H5Cl3, used chiefly in the manufacture of dyes.", "S": [], "A": []}

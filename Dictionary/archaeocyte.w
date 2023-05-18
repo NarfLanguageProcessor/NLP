@@ -1,0 +1,1 @@
+{"index": 18660, "D": "(in sponges) a type of amoebocyte capable of developing into other types of cells, especially reproductive cells.", "S": [], "A": []}

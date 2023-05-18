@@ -1,0 +1,1 @@
+{"index": 65687, "D": "to lead or contribute to a result (usually followed by to or toward)", "S": [], "A": []}

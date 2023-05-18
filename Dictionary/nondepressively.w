@@ -1,0 +1,1 @@
+{"index": 202939, "D": "tending to cause depression", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 185056, "D": "the posterior division of the thorax  of an insect, bearing the third pair of legs and the second pair of wings.", "S": [], "A": []}

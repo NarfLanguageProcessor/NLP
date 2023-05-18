@@ -1,0 +1,1 @@
+{"index": 61361, "D": "resembling a coccus;  globular.", "S": [], "A": []}

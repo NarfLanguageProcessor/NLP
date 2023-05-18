@@ -1,0 +1,1 @@
+{"index": 287134, "D": "a hickory, Carya ovata, having shaggy,  rough bark  and yielding a valuable wood.", "S": [], "A": []}

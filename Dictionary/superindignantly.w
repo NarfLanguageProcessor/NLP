@@ -1,0 +1,1 @@
+{"index": 312052, "D": "with a sense of injury or strong displeasure at something considered unjust, insulting, or offensive", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 81389, "D": "to denounce;  condemn openly.", "S": ["attribute ", "charge ", "chide ", "condemn ", "criticize ", "denounce ", "indict "], "A": ["absolve ", "acquit ", "approve ", "compliment ", "exonerate ", "free ", "laud ", "praise ", "endorse ", "flatter ", "sanction "]}

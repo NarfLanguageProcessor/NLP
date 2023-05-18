@@ -1,0 +1,1 @@
+{"index": 141683, "D": "an island in the West Indies, comprising the republic of Haiti and the Dominican Republic. 29,843 sq. mi. (77,293 sq. km).", "S": [], "A": []}

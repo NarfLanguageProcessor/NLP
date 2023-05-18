@@ -1,0 +1,1 @@
+{"index": 186105, "D": "any of several techniques for observing, by means of a microscope or an ultramicroscope, the electrophoresis  of minute surface particles.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 70024, "D": "a substance resembling dentine, forming the outer layer of cosmoid scales", "S": [], "A": []}

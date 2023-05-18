@@ -1,0 +1,1 @@
+{"index": 339091, "D": "to plunge into water, especially headfirst.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86596, "D": "the diploid part of an organism's life cycle.", "S": [], "A": []}

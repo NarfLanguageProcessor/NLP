@@ -1,0 +1,1 @@
+{"index": 59374, "D": "a person or thing that clasps. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 44448, "D": "the possession of supreme authority over church and state by one person, often by a secular ruler.", "S": [], "A": []}

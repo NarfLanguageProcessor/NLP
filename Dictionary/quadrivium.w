@@ -1,0 +1,1 @@
+{"index": 257700, "D": "(during the Middle Ages) the more advanced division of the seven liberal arts, comprising arithmetic, geometry, astronomy, and music.", "S": ["quadrumvirate ", "quadruple ", "quadruplet ", "quadruplets ", "quartet ", "quartette ", "quaternary ", "quaternion ", "quaternity ", "tetrad ", "tetralogy "], "A": []}

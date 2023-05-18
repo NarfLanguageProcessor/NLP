@@ -1,0 +1,1 @@
+{"index": 181780, "D": "being nothing more nor better than", "S": [], "A": []}

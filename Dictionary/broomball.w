@@ -1,0 +1,1 @@
+{"index": 41529, "D": "a game similar to ice hockey, usually played on a rink, in which the players, often not wearing skates, use brooms  instead of hockey sticks to shoot a volleyball into the opponent's goal.", "S": [], "A": []}

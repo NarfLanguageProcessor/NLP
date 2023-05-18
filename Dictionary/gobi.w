@@ -1,0 +1,1 @@
+{"index": 127258, "D": "a desert in E Asia, mostly in Mongolia. About 500,000 sq. mi. (1,295,000 sq. km).", "S": [], "A": []}

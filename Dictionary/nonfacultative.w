@@ -1,0 +1,1 @@
+{"index": 203923, "D": "conferring a faculty, privilege, permission, or the power of doing or not doing something", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 13662, "D": "furnished with or composed of rings", "S": [], "A": []}

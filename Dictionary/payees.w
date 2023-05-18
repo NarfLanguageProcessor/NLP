@@ -1,0 +1,1 @@
+{"index": 223093, "D": "a person to whom a check, money, etc., is payable.", "S": ["beneficiary ", "collector ", "consignee "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 249769, "D": "a district or place under a superintendent.", "S": [], "A": []}

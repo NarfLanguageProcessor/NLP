@@ -1,0 +1,1 @@
+{"index": 147634, "D": "(in Turkey) a hospice for pilgrims, travelers, etc.", "S": [], "A": []}

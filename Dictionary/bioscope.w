@@ -1,0 +1,1 @@
+{"index": 34529, "D": "an early form of motion-picture projector, used about 1900.", "S": [], "A": []}

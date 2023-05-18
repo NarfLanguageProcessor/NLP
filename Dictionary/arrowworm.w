@@ -1,0 +1,1 @@
+{"index": 20340, "D": "any small, translucent marine worm of the phylum (or class) Chaetognatha, having lateral and caudal fins.", "S": [], "A": []}

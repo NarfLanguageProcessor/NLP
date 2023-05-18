@@ -1,0 +1,1 @@
+{"index": 129232, "D": "a person or thing that grates. ", "S": [], "A": []}

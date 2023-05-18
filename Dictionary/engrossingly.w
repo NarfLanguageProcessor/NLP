@@ -1,0 +1,1 @@
+{"index": 100497, "D": "fully occupying the mind or attention; absorbing", "S": [], "A": []}

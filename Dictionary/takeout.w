@@ -1,0 +1,1 @@
+{"index": 315501, "D": "the act or fact of taking out.", "S": ["bread ", "cooking ", "cuisine ", "drink ", "fare ", "feed ", "foodstuff ", "meal ", "meat ", "snack "], "A": ["deprivation ", "starvation "]}

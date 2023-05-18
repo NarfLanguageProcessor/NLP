@@ -1,0 +1,1 @@
+{"index": 41656, "D": "to curry favor; behave obsequiously.", "S": ["apple-polisher ", "ass-kisser ", "backscratcher ", "backslapper ", "bootlicker ", "brownnose ", "doter ", "fawner ", "flatterer ", "flunky ", "kiss-ass ", "kowtower ", "lackey ", "minion ", "teacher's pet ", "yes-man ", "yes-person "], "A": []}

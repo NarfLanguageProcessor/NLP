@@ -1,0 +1,1 @@
+{"index": 55212, "D": "a plastid containing chlorophyll. ", "S": [], "A": []}

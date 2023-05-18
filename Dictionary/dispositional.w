@@ -1,0 +1,1 @@
+{"index": 89146, "D": "of or relating to a natural and characteristic mental or emotional outlook or mood", "S": [], "A": []}

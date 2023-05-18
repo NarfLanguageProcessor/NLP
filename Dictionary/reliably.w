@@ -1,0 +1,1 @@
+{"index": 266877, "D": "that may be relied  on or trusted; dependable in achievement, accuracy, honesty, etc.", "S": ["accurately ", "faithfully ", "loyally ", "truly "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128285, "D": "being a person who can be turned to for expert knowledge, advice, or reliable performance, especially in a crucial situation", "S": ["show up ", "visit "], "A": ["hide "]}

@@ -1,0 +1,1 @@
+{"index": 116648, "D": "to defend, secure, or protect.", "S": [], "A": []}

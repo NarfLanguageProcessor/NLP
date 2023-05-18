@@ -1,0 +1,1 @@
+{"index": 201403, "D": "anticipation of adversity or misfortune; suspicion or fear of future trouble or evil.", "S": [], "A": []}

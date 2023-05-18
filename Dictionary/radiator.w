@@ -1,0 +1,1 @@
+{"index": 259555, "D": "a person or thing that radiates. ", "S": ["boiler ", "fastball ", "furnace ", "oven ", "stove "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 10176, "D": "an act or instance of lying concealed so as to attack by surprise", "S": ["ambuscade ", "camouflage ", "concealment ", "deception ", "hiding ", "lurking ", "pitfall ", "shelter ", "trap ", "trick ", "waiting "], "A": []}

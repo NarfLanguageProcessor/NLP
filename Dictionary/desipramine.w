@@ -1,0 +1,1 @@
+{"index": 82635, "D": "a tricyclic antidepressant, C18H22N2, used for symptomatic relief in a variety of depressive states.", "S": [], "A": []}

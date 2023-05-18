@@ -1,0 +1,1 @@
+{"index": 228273, "D": "a member of a confederacy of North American Plains Indians of Caddoan stock formerly located along the Platte River valley, Nebraska, and now living in northern Oklahoma.", "S": [], "A": []}

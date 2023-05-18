@@ -1,0 +1,1 @@
+{"index": 83104, "D": "to discover or catch (a person) in the performance of some act", "S": [], "A": []}

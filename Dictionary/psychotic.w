@@ -1,0 +1,1 @@
+{"index": 255520, "D": "relating to, characterized by, or exhibiting psychosis", "S": ["demented ", "insane ", "mad ", "mental ", "schizophrenic ", "unhinged "], "A": ["balanced ", "rational ", "reasonable ", "sane ", "sound ", "healthy ", "sensible "]}

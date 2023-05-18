@@ -1,0 +1,1 @@
+{"index": 368454, "D": "a disease in which the skin becomes dry, hard, and scaly.", "S": [], "A": []}

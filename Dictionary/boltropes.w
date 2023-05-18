@@ -1,0 +1,1 @@
+{"index": 37660, "D": "a rope  or the cordage sewn on the edges of a sail to strengthen it.", "S": [], "A": []}

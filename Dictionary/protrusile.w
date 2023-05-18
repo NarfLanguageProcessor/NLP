@@ -1,0 +1,1 @@
+{"index": 253956, "D": "capable of being thrust forth or extended, as the tongue of a hummingbird.", "S": [], "A": []}

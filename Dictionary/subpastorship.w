@@ -1,0 +1,1 @@
+{"index": 308770, "D": "the position, authority, or office of a pastor. ", "S": [], "A": []}

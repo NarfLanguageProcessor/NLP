@@ -1,0 +1,1 @@
+{"index": 93063, "D": "a spike having a round shank and used for fastening heavy timbers together.", "S": [], "A": []}

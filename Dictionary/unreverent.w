@@ -1,0 +1,1 @@
+{"index": 349867, "D": "feeling, exhibiting, or characterized by reverence;  deeply respectful", "S": [], "A": []}

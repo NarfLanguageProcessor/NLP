@@ -1,0 +1,1 @@
+{"index": 252644, "D": "preventively or protectively, as against a disease or infection", "S": [], "A": []}

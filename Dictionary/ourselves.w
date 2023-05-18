@@ -1,0 +1,1 @@
+{"index": 216096, "D": "a reflexive form of we  (used as the direct or indirect object of a verb or the direct object of a preposition)", "S": ["individually ", "our own selves ", "personally ", "privately "], "A": []}

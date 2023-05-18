@@ -1,0 +1,1 @@
+{"index": 3371, "D": "a measure of the sharpness with which a film can reproduce the edge of an object.", "S": [], "A": []}

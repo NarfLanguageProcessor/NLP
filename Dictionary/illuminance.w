@@ -1,0 +1,1 @@
+{"index": 147465, "D": "illumination (def. 6). ", "S": [], "A": []}

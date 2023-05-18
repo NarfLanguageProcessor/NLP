@@ -1,0 +1,1 @@
+{"index": 252856, "D": "pertaining to proprioceptors, the stimuli acting upon them, or the nerve impulses initiated by them.", "S": [], "A": []}

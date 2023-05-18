@@ -1,0 +1,1 @@
+{"index": 2602, "D": "a point whose coordinates satisfy the equation of a curve although it does not lie on the curve; an isolated point. The origin is an acnode of the curve y \u00b2 + x \u00b2 = x \u00b3", "S": [], "A": []}

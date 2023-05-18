@@ -1,0 +1,1 @@
+{"index": 76707, "D": "to make into or cause to resemble a dandy  or fop.", "S": [], "A": []}

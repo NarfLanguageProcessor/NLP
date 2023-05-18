@@ -1,0 +1,1 @@
+{"index": 25555, "D": "a sweet, spongy yeast cake with raisins, traditionally made in the form of a high cylinder, either solid or with a hole, often glazed, and sometimes flavored with rum.", "S": [], "A": []}

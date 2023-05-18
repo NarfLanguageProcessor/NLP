@@ -1,0 +1,1 @@
+{"index": 321124, "D": "a person who deals with or is expert in the theoretical side of a subject", "S": [], "A": []}

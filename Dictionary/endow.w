@@ -1,0 +1,1 @@
+{"index": 100053, "D": "to provide with a permanent fund or source of income", "S": ["bestow ", "donate ", "empower ", "enable ", "enhance ", "enrich ", "subsidize "], "A": ["decrease ", "reduce ", "refuse ", "take ", "condemn ", "deny ", "destroy ", "disagree ", "disapprove ", "discourage ", "dishonor ", "hurt ", "keep ", "neglect ", "oppose ", "take away ", "withhold "]}

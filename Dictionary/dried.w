@@ -1,0 +1,1 @@
+{"index": 93043, "D": "simple past tense and past participle of dry. ", "S": ["dehydrated ", "dry ", "preserved "], "A": []}

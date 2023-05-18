@@ -1,0 +1,1 @@
+{"index": 62866, "D": "property or other assets pledged by a borrower as security for the repayment of a loan", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 287299, "D": "(especially among certain tribal peoples) a person who acts as intermediary between the natural and supernatural worlds, using magic to cure illness, foretell the future, control spiritual forces, etc.", "S": ["healer "], "A": []}

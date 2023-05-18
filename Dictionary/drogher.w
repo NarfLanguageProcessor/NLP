@@ -1,0 +1,1 @@
+{"index": 93232, "D": "a freight barge of the West Indies, rigged as a cutter or schooner.", "S": ["agent ", "carrier ", "conveyor ", "courier ", "emissary ", "envoy ", "internuncio ", "messenger ", "porter ", "runner ", "servant ", "shipper ", "transporter "], "A": ["receiver "]}

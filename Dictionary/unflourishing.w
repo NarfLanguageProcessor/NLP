@@ -1,0 +1,1 @@
+{"index": 342416, "D": "growing vigorously; thriving; prosperous", "S": [], "A": []}

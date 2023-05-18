@@ -1,0 +1,1 @@
+{"index": 95671, "D": "a small composite plant, Leontopodium alpinum, having white woolly leaves and flowers, growing in the high altitudes of the Alps.", "S": [], "A": []}

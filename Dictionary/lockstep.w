@@ -1,0 +1,1 @@
+{"index": 174395, "D": "a way of marching in very close file, in which the leg of each person moves with and closely behind the corresponding leg of the person ahead.", "S": [], "A": []}

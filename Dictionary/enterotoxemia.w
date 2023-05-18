@@ -1,0 +1,1 @@
+{"index": 101336, "D": "a systemic disease of livestock, caused by intestinal toxins of the bacterium Clostridium perfringens, characterized by diarrhea and convulsions, and usually rapidly fatal.", "S": [], "A": []}

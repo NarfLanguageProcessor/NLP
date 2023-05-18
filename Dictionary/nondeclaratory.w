@@ -1,0 +1,1 @@
+{"index": 202733, "D": "serving to declare,  make known, or explain", "S": [], "A": []}

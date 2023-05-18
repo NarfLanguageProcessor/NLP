@@ -1,0 +1,1 @@
+{"index": 83417, "D": "the reserve nutritive material, as a yolk granule, in the ovarian cytoplasm.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43085, "D": "(in Scotland) an incorporated town having its own charter and some degree of political independence from the surrounding area.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 59891, "D": "full of or characterized by clich\u00e9s", "S": ["banal ", "bromidic ", "commonplace ", "overused ", "platitudinal ", "platitudinous ", "ready-made ", "stale ", "stereotyped ", "stereotypic ", "stereotypical ", "threadbare ", "trite ", "warmed-over ", "worn-out "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 181043, "D": "a small box,  usually of cardboard, for matches. ", "S": [], "A": []}

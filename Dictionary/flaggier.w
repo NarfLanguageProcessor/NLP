@@ -1,0 +1,1 @@
+{"index": 113750, "D": "flagging;  drooping; limp. ", "S": [], "A": []}

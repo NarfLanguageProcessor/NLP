@@ -1,0 +1,1 @@
+{"index": 127468, "D": "pertaining to or affected with goiter.", "S": [], "A": []}

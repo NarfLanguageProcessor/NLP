@@ -1,0 +1,1 @@
+{"index": 350957, "D": "shaped or completed by or as if by shearing. ", "S": [], "A": []}

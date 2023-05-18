@@ -1,0 +1,1 @@
+{"index": 185306, "D": "simple past tense of methinks. ", "S": [], "A": []}

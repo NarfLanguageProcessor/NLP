@@ -1,0 +1,1 @@
+{"index": 352142, "D": "a long, narrow mark, smear, band of color, or the like", "S": [], "A": []}

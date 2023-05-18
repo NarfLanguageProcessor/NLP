@@ -1,0 +1,1 @@
+{"index": 15025, "D": "capable of being transmitted by bodily contact with an infected person or object", "S": [], "A": []}

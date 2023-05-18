@@ -1,0 +1,1 @@
+{"index": 142215, "D": "a community dancing party typically featuring folk and square dances accompanied by lively hillbilly tunes played on the fiddle.", "S": ["hop ", "jump ", "mingle ", "prom ", "promenade ", "reception ", "shindig "], "A": []}

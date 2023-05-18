@@ -1,0 +1,1 @@
+{"index": 141016, "D": "a mania of low intensity.", "S": [], "A": []}

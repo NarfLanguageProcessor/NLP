@@ -1,0 +1,1 @@
+{"index": 9387, "D": "mountain climbing, especially in the Alps. ", "S": ["mountaineering ", "rock climbing "], "A": []}

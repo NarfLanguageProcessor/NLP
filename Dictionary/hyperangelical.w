@@ -1,0 +1,1 @@
+{"index": 139879, "D": "of or belonging to angels", "S": [], "A": []}

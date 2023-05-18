@@ -1,0 +1,1 @@
+{"index": 158908, "D": "having equal diameters  or axes.", "S": [], "A": []}

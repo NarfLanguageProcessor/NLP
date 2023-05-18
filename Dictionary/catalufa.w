@@ -1,0 +1,1 @@
+{"index": 49310, "D": "any of several bigeyes, as Pristigenys serrula(popeye catalufa ), found in the Pacific Ocean.", "S": [], "A": []}

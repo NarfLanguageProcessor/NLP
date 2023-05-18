@@ -1,0 +1,1 @@
+{"index": 238882, "D": "any of various free-swimming, mostly freshwater flatworms of the class Turbellaria, having an undulating or sluglike motion", "S": [], "A": []}

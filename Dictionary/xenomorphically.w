@@ -1,0 +1,1 @@
+{"index": 368394, "D": "noting or pertaining to a mineral grain that does not have its characteristic crystalline form but has a form impressed on it by surrounding grains; anhedral.", "S": [], "A": []}

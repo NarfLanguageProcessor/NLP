@@ -1,0 +1,1 @@
+{"index": 319476, "D": "a polymer  consisting of three different monomers, as ABS resin.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 247312, "D": "the act of entertaining;  agreeable occupation for the mind; diversion; amusement", "S": [], "A": []}

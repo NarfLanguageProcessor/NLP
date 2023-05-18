@@ -1,0 +1,1 @@
+{"index": 140934, "D": "abnormally diminished function,  especially of glands or other organs.", "S": [], "A": []}

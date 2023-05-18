@@ -1,0 +1,1 @@
+{"index": 19794, "D": "a process of photographic printing in which paper coated with silver chloride in gelatin is used.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 125791, "D": "an open space in a forest.", "S": ["clearing ", "dale ", "meadow ", "valley "], "A": []}

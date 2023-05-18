@@ -1,0 +1,1 @@
+{"index": 80236, "D": "a violet anthocyanin, C41H38O21, found in the flowers of the larkspur, Delphinium consolida.", "S": [], "A": []}

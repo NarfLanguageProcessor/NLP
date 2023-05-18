@@ -1,0 +1,1 @@
+{"index": 77960, "D": "the art or process of transferring pictures or designs from specially prepared paper to wood, metal, glass, etc.", "S": ["decal ", "sticker "], "A": []}

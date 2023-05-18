@@ -1,0 +1,1 @@
+{"index": 169472, "D": "an azure-blue mineral, hydrous magnesium iron aluminum phosphate, (FeMg)Al2P2O8(OH)2.", "S": [], "A": []}

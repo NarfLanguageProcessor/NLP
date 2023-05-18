@@ -1,0 +1,1 @@
+{"index": 219261, "D": "fully and clearly expressed or demonstrated; leaving nothing merely implied; unequivocal", "S": [], "A": []}

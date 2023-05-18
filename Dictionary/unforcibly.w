@@ -1,0 +1,1 @@
+{"index": 342507, "D": "using power or strength, especially violent physical power", "S": [], "A": []}

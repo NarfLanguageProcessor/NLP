@@ -1,0 +1,1 @@
+{"index": 317675, "D": "of, relating to, or designating a technocrat  or technocracy.", "S": [], "A": []}

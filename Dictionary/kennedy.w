@@ -1,0 +1,1 @@
+{"index": 163815, "D": "U.S. jurist, Supreme Court justice 1988\u20132018.", "S": [], "A": []}

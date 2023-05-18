@@ -1,0 +1,1 @@
+{"index": 340763, "D": "not done; not accomplished or completed.", "S": ["incomplete ", "unaccomplished ", "uncompleted ", "unconcluded ", "unfinished ", "unperformed "], "A": ["accomplished ", "completed ", "done ", "finished "]}

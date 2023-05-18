@@ -1,0 +1,1 @@
+{"index": 86394, "D": "any enzyme that catalyzes the hydrolysis of dipeptides. ", "S": [], "A": []}

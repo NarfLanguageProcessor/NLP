@@ -1,0 +1,1 @@
+{"index": 108448, "D": "not authorized by or based on a constitution; beyond the provisions of a constitution.", "S": [], "A": []}

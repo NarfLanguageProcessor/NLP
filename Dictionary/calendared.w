@@ -1,0 +1,1 @@
+{"index": 45009, "D": "a table or register with the days of each month and week in a year", "S": [], "A": []}

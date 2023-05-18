@@ -1,0 +1,1 @@
+{"index": 290972, "D": "to smile in a silly, self-conscious way.", "S": ["beam ", "grin ", "leer ", "smirk ", "sneer "], "A": []}

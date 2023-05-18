@@ -1,0 +1,1 @@
+{"index": 181270, "D": "something that constitutes the place or point from which something else originates, takes form, or develops", "S": ["cast ", "forge ", "form ", "grid ", "model ", "mold ", "origin ", "pattern ", "source ", "womb "], "A": ["disorganization ", "effect ", "end ", "result "]}

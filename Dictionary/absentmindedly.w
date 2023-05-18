@@ -1,0 +1,1 @@
+{"index": 950, "D": "so lost in thought that one does not realize what one is doing, what is happening, etc.; preoccupied to the extent of being unaware of one's immediate surroundings.", "S": [], "A": []}

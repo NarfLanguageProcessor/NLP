@@ -1,0 +1,1 @@
+{"index": 130131, "D": "the owner or operator of a store that sells general food supplies and certain nonedible articles of household use, as soaps and paper products.", "S": ["businessperson ", "dealer ", "entrepreneur ", "merchant ", "proprietor ", "retailer ", "salesperson ", "seller ", "vendor ", "wholesaler "], "A": ["buyer ", "customer "]}

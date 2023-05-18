@@ -1,0 +1,1 @@
+{"index": 162840, "D": "government by the worst persons; a form of government in which the worst persons are in power.", "S": [], "A": []}

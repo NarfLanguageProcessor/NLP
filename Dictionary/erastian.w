@@ -1,0 +1,1 @@
+{"index": 103500, "D": "of or relating to Thomas Erastus  or Erastianism. ", "S": [], "A": []}

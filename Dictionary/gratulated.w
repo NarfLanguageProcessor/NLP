@@ -1,0 +1,1 @@
+{"index": 129283, "D": "to hail with joy; express joy at.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 190121, "D": "to spend wrongly or unwisely; squander; waste.", "S": [], "A": []}

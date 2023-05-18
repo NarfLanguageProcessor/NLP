@@ -1,0 +1,1 @@
+{"index": 355932, "D": "a toxic, liquid, catechol derivative, the active irritant principle in several species of the plant genus Rhus, as in poison ivy.", "S": [], "A": []}

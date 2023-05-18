@@ -1,0 +1,1 @@
+{"index": 207585, "D": "under the surface of water or any other enveloping medium; inundated. ", "S": [], "A": []}

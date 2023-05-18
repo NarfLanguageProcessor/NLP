@@ -1,0 +1,1 @@
+{"index": 287730, "D": "to gather, collect, or bind into a sheaf  or sheaves.", "S": [], "A": []}

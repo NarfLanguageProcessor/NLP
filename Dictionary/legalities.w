@@ -1,0 +1,1 @@
+{"index": 170021, "D": "the state or quality of being in conformity with the law; lawfulness.", "S": ["validity "], "A": ["injustice ", "unfairness "]}

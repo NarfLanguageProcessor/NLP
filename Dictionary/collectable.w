@@ -1,0 +1,1 @@
+{"index": 62890, "D": "(of antiques, objets d'art, etc) of interest to a collector", "S": [], "A": []}

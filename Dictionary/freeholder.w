@@ -1,0 +1,1 @@
+{"index": 118607, "D": "the owner of a freehold. ", "S": ["property owner ", "proprietor "], "A": ["boarder ", "renter "]}

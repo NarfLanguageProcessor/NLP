@@ -1,0 +1,1 @@
+{"index": 217719, "D": "to outdo or overcome in talking. ", "S": [], "A": []}

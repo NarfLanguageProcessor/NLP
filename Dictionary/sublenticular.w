@@ -1,0 +1,1 @@
+{"index": 308374, "D": "of or relating to a lens.", "S": [], "A": []}

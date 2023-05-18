@@ -1,0 +1,1 @@
+{"index": 46166, "D": "a person who seeks an office, honor, etc.", "S": [], "A": []}

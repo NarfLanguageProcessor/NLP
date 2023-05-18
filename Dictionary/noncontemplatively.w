@@ -1,0 +1,1 @@
+{"index": 202409, "D": "given to or characterized by contemplation", "S": [], "A": []}

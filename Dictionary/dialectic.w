@@ -1,0 +1,1 @@
+{"index": 84199, "D": "of, relating to, or of the nature of logical argumentation.", "S": ["dialectical "], "A": ["illogical ", "irrational "]}

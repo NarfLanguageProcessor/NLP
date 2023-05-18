@@ -1,0 +1,1 @@
+{"index": 125949, "D": "harshly brilliant; glaring. ", "S": [], "A": []}

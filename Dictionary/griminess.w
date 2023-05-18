@@ -1,0 +1,1 @@
+{"index": 129904, "D": "covered with grime;  dirty", "S": ["decay ", "destitution ", "filth ", "filthiness ", "foulness ", "grubbiness ", "impoverishment ", "indigence ", "poorness ", "seediness ", "smuttiness ", "squalor ", "starvation ", "uncleanliness ", "uncleanness ", "wretchedness "], "A": []}

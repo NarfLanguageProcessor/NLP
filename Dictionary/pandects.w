@@ -1,0 +1,1 @@
+{"index": 224461, "D": "a complete body or code of laws.", "S": ["aerial perspective ", "aerial view ", "bird's-eye survey ", "fly on the wall ", "great view ", "overview ", "panorama ", "worm's-eye view "], "A": []}

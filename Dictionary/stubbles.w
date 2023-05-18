@@ -1,0 +1,1 @@
+{"index": 306730, "D": "the stumps of grain and other stalks left in the ground when the crop is cut.", "S": ["Vandyke ", "bristles ", "brush ", "fuzz ", "goatee ", "imperial "], "A": []}

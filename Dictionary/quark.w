@@ -1,0 +1,1 @@
+{"index": 257983, "D": "Compare color (def. 18), flavor (def. 5), quantum chromodynamics, quark model. ", "S": [], "A": []}

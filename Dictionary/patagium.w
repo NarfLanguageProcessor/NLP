@@ -1,0 +1,1 @@
+{"index": 227553, "D": "a wing membrane, as of a bat.", "S": [], "A": []}

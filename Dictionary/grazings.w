@@ -1,0 +1,1 @@
+{"index": 129417, "D": "pastureland; a pasture.", "S": ["browsing ", "comparison shopping ", "grazing ", "just looking "], "A": []}

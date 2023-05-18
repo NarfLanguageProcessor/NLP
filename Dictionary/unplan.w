@@ -1,0 +1,1 @@
+{"index": 347995, "D": "a scheme or method of acting, doing, proceeding, making, etc., developed in advance", "S": [], "A": []}

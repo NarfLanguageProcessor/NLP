@@ -1,0 +1,1 @@
+{"index": 203847, "D": "the act of driving out or expelling", "S": [], "A": []}

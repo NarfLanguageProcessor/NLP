@@ -1,0 +1,1 @@
+{"index": 22485, "D": "(in ancient Egypt) the solar disc worshipped as the sole god in the reign of Akhenaten", "S": ["good-looking ", "winsome "], "A": ["bad-looking ", "despicable ", "disagreeable ", "offensive ", "repellent ", "repulsive ", "revolting ", "ugly ", "unattractive "]}

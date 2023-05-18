@@ -1,0 +1,1 @@
+{"index": 352127, "D": " left helpless or without transport", "S": [], "A": []}

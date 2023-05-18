@@ -1,0 +1,1 @@
+{"index": 283073, "D": "a seed  capsule; pericarp.", "S": [], "A": []}

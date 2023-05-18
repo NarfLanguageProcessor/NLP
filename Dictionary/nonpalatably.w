@@ -1,0 +1,1 @@
+{"index": 205718, "D": "acceptable or agreeable to the palate  or taste; savory", "S": [], "A": []}

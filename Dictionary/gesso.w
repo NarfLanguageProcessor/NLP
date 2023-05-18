@@ -1,0 +1,1 @@
+{"index": 124356, "D": "gypsum or plaster of Paris prepared with glue for use as a surface for painting.", "S": [], "A": []}

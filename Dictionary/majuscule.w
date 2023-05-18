@@ -1,0 +1,1 @@
+{"index": 178076, "D": "(of letters) capital.", "S": ["cap ", "uncial "], "A": ["small "]}

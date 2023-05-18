@@ -1,0 +1,1 @@
+{"index": 277125, "D": "a gateway permitting the passage of a large number of troops at a time.", "S": [], "A": []}

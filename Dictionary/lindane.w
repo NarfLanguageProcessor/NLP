@@ -1,0 +1,1 @@
+{"index": 172705, "D": "a white, crystalline, water-insoluble powder, C6H6Cl6, the gamma isomer of benzene hexachloride", "S": [], "A": []}

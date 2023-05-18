@@ -1,0 +1,1 @@
+{"index": 183255, "D": "an amulet worn by certain Egyptians in ancient times to secure divine protection and to ensure fertility.", "S": [], "A": []}

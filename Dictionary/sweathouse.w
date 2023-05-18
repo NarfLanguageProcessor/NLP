@@ -1,0 +1,1 @@
+{"index": 314218, "D": "(especially among North American Indians) a special building used for cleansing and purifying one's body by sweating, in which heated water is poured over heated stones to produce steam.", "S": [], "A": []}

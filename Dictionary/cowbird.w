@@ -1,0 +1,1 @@
+{"index": 71564, "D": "any of several New World blackbirds of the genus Molothrus, especially M. ater, of North America, that accompany herds of cattle.", "S": [], "A": []}

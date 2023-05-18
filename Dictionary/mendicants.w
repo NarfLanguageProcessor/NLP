@@ -1,0 +1,1 @@
+{"index": 183288, "D": "begging; practicing begging; living on alms.", "S": ["monk ", "panhandler ", "pauper ", "vagabond "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 5315, "D": "showing, indicating, or characterized by affection or love; fondly tender", "S": ["caring ", "friendly ", "loving ", "sympathetic ", "warm ", "warmhearted "], "A": ["aloof ", "cold ", "cool ", "uncaring ", "unfeeling ", "unfriendly ", "unsociable "]}

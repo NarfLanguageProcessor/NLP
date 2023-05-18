@@ -1,0 +1,1 @@
+{"index": 74450, "D": "a solid bounded by six equal squares, the angle between any two adjacent faces being a right angle.", "S": ["blotter ", "candy ", "dot ", "hallucinogen ", "microdots ", "mushrooms ", "peyote "], "A": []}

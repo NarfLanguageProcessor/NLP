@@ -1,0 +1,1 @@
+{"index": 131739, "D": "a narrow bandlike structure, as the stalk attaching the pineal gland to the thalamus.", "S": [], "A": []}

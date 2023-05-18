@@ -1,0 +1,1 @@
+{"index": 13638, "D": "formed of ringlike segments, as an annelid worm.", "S": ["annulate ", "circular ", "globular ", "ring-shaped ", "ringed ", "rounded ", "spherical "], "A": []}

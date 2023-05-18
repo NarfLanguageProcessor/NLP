@@ -1,0 +1,1 @@
+{"index": 97038, "D": "a graphic record produced by an electroencephalograph.Abbreviation", "S": [], "A": []}

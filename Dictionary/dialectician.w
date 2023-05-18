@@ -1,0 +1,1 @@
+{"index": 84202, "D": "a person skilled in dialectic; logician. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 109557, "D": "a small boat having a collapsible wooden frame covered with waterproof cloth or plastic.", "S": [], "A": []}

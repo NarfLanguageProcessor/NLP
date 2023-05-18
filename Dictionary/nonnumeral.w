@@ -1,0 +1,1 @@
+{"index": 205523, "D": "a word, letter, symbol, or figure, etc., expressing a number; number", "S": [], "A": []}

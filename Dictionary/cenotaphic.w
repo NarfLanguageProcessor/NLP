@@ -1,0 +1,1 @@
+{"index": 50744, "D": "a sepulchral monument erected in memory of a deceased person whose body is buried elsewhere.", "S": [], "A": []}

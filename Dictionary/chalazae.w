@@ -1,0 +1,1 @@
+{"index": 52063, "D": "one of the two albuminous twisted cords which fasten an egg yolk to the shell membrane.", "S": [], "A": []}

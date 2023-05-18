@@ -1,0 +1,1 @@
+{"index": 165591, "D": "to make (a garment, fabric, etc.) by interlocking loops of one or more yarns either by hand with knitting needles  or by machine.", "S": [], "A": []}

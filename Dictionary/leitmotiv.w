@@ -1,0 +1,1 @@
+{"index": 170293, "D": "a motif or theme associated throughout a music drama with a particular person, situation, or idea.", "S": [], "A": []}

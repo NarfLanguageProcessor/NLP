@@ -1,0 +1,1 @@
+{"index": 88011, "D": "to bring out of an entranced  condition; disenchant.", "S": [], "A": []}

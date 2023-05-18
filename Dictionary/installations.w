@@ -1,0 +1,1 @@
+{"index": 153830, "D": "something installed,  as machinery or apparatus placed in position or connected for use.", "S": ["architecture ", "design ", "metallurgy ", "planning "], "A": []}

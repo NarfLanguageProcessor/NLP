@@ -1,0 +1,1 @@
+{"index": 163053, "D": "(especially in northern Chinese houses) a masonry or earthen platform at one end of a room, heated in winter by fires underneath and spread with mats for sleeping.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 181964, "D": "of or relating to medals. ", "S": [], "A": []}

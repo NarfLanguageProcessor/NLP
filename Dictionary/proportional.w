@@ -1,0 +1,1 @@
+{"index": 252771, "D": "having due proportion; corresponding. ", "S": ["comparable ", "corresponding "], "A": ["dissimilar ", "unlike ", "different ", "disproportionate ", "unequal "]}

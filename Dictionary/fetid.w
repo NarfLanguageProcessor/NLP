@@ -1,0 +1,1 @@
+{"index": 111757, "D": "having an offensive odor; stinking.", "S": ["noxious ", "putrid ", "revolting ", "smelly ", "stinking ", "stinky "], "A": ["good ", "perfumed "]}

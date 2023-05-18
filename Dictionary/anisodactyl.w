@@ -1,0 +1,1 @@
+{"index": 13295, "D": "(of the feet of passerine birds) having the first toe directed backwards and the other three toes directed forwards", "S": [], "A": []}

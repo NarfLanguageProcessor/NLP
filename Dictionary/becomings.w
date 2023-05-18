@@ -1,0 +1,1 @@
+{"index": 29890, "D": "that suits or gives a pleasing effect or attractive appearance, as to a person or thing", "S": ["accepting ", "altering ", "becoming ", "growing ", "succumbing "], "A": ["abandoning ", "giving up ", "losing ", "refusal ", "rejecting "]}

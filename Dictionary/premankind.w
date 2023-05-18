@@ -1,0 +1,1 @@
+{"index": 248296, "D": "the human race; human beings collectively without reference to sex; humankind", "S": [], "A": []}

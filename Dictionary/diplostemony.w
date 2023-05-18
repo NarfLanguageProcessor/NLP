@@ -1,0 +1,1 @@
+{"index": 86624, "D": "having two whorls of stamens, with the outer whorl opposite the sepals and the inner whorl opposite the petals.", "S": [], "A": []}

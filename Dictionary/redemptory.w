@@ -1,0 +1,1 @@
+{"index": 264066, "D": "of or relating to redemption;  redemptive.", "S": ["preserving "], "A": ["wasting "]}

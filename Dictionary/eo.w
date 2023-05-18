@@ -1,0 +1,1 @@
+{"index": 101921, "D": "executive order.", "S": ["dawn "], "A": []}

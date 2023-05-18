@@ -1,0 +1,1 @@
+{"index": 328123, "D": "a person or thing that transmits. ", "S": [], "A": []}

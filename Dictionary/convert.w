@@ -1,0 +1,1 @@
+{"index": 68050, "D": "to change (something) into a different form or properties; transmute; transform. ", "S": ["disciple ", "follower "], "A": []}

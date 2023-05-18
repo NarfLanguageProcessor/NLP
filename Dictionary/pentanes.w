@@ -1,0 +1,1 @@
+{"index": 229973, "D": "a hydrocarbon of the methane series, existing in three liquid isomeric forms.", "S": [], "A": []}

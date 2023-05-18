@@ -1,0 +1,1 @@
+{"index": 28524, "D": "one of an African breed of dogs having a chestnut coat with white points and a curled tail, characterized chiefly by their inability to bark.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311924, "D": "readiness or liberality in giving.", "S": [], "A": []}

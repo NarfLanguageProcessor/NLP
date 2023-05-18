@@ -1,0 +1,1 @@
+{"index": 355071, "D": "up the stairs; to or on an upper floor.", "S": [], "A": []}

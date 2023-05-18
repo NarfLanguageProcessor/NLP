@@ -1,0 +1,1 @@
+{"index": 109095, "D": "emphasis on, devotion to, or extensive reliance upon facts", "S": [], "A": []}

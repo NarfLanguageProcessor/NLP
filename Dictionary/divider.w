@@ -1,0 +1,1 @@
+{"index": 90328, "D": "a person or thing that divides. ", "S": ["affiliate ", "branch ", "category ", "class ", "department ", "section ", "sector ", "segment ", "share ", "split "], "A": ["whole ", "cause ", "entirety ", "inside ", "interior ", "origin ", "total "]}

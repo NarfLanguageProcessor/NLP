@@ -1,0 +1,1 @@
+{"index": 342422, "D": "moving in or as in a stream", "S": [], "A": []}

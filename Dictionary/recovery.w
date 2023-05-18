@@ -1,0 +1,1 @@
+{"index": 263558, "D": "an act of recovering. ", "S": ["improvement ", "readjustment ", "reconstruction ", "rehabilitation ", "restoration ", "resumption ", "return "], "A": ["deterioration ", "relapse "]}

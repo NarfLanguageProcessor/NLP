@@ -1,0 +1,1 @@
+{"index": 117110, "D": "a tooth in the front of the mouth; incisor.", "S": [], "A": []}

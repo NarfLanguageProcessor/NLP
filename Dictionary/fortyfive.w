@@ -1,0 +1,1 @@
+{"index": 117683, "D": "a cardinal number, 40 plus 5.", "S": ["cannon ", "handgun ", "hardware ", "mortar ", "piece ", "pistol ", "revolver ", "rifle ", "shotgun "], "A": []}

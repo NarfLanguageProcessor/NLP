@@ -1,0 +1,1 @@
+{"index": 302717, "D": "simple past tense of sting. ", "S": [], "A": []}

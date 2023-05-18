@@ -1,0 +1,1 @@
+{"index": 37079, "D": "a small buoyant float, usually consisting of a quill stuck through a piece of cork", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108710, "D": "of or relating to an extremum or the calculation of extrema", "S": [], "A": []}

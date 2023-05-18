@@ -1,0 +1,1 @@
+{"index": 283108, "D": "the season for sowing seed.", "S": ["budding ", "flowering ", "prime ", "springtide ", "springtime "], "A": []}

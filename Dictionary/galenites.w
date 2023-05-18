@@ -1,0 +1,1 @@
+{"index": 121223, "D": "a common, heavy mineral, lead sulfide, PbS, occurring in lead-gray crystals, usually cubes, and cleavable masses", "S": [], "A": []}

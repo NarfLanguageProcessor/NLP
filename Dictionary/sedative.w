@@ -1,0 +1,1 @@
+{"index": 282972, "D": "tending to calm or soothe.", "S": ["anodyne ", "calming ", "lenitive ", "soporific "], "A": ["agitating ", "upsetting "]}

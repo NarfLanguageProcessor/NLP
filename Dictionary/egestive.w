@@ -1,0 +1,1 @@
+{"index": 96167, "D": "to discharge, as from the body; void (opposed to ingest).", "S": [], "A": []}

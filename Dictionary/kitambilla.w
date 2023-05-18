@@ -1,0 +1,1 @@
+{"index": 165163, "D": "a shrub or small tree, Dovyalis hebecarpa, of India and Sri Lanka, having velvety, maroon-purple fruit.", "S": [], "A": []}

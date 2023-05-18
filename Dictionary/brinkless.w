@@ -1,0 +1,1 @@
+{"index": 40880, "D": "the edge or margin of a steep place or of land bordering water.", "S": [], "A": []}

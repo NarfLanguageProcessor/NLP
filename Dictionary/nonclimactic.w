@@ -1,0 +1,1 @@
+{"index": 201987, "D": "pertaining to or coming to a climax", "S": [], "A": []}

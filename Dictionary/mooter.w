@@ -1,0 +1,1 @@
+{"index": 193193, "D": "open to discussion or debate; debatable; doubtful", "S": ["debatable ", "problematic ", "unresolved ", "unsettled "], "A": ["certain ", "definite ", "settled ", "sure "]}

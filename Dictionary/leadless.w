@@ -1,0 +1,1 @@
+{"index": 169537, "D": "to go before or with to show the way; conduct or escort", "S": [], "A": []}

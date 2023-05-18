@@ -1,0 +1,1 @@
+{"index": 121311, "D": "either of two North American shrubs, Ilex glabra, the inkberry, or I. coriacea, having glossy leaves and white flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 226815, "D": "a young salmon, having dark crossbars on its sides.", "S": [], "A": []}

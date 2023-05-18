@@ -1,0 +1,1 @@
+{"index": 229273, "D": "money or wealth, especially when regarded with contempt or acquired by reprehensible means.", "S": ["loot ", "lucre "], "A": []}

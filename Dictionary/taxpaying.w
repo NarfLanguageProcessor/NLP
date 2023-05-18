@@ -1,0 +1,1 @@
+{"index": 317366, "D": "a person who pays a tax  or is subject to taxation.", "S": [], "A": []}

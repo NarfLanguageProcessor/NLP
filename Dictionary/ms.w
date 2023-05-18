@@ -1,0 +1,1 @@
+{"index": 194481, "D": "millisecond; milliseconds.", "S": ["adolescent ", "daughter ", "lady ", "schoolgirl ", "teenager ", "young woman "], "A": ["boy "]}

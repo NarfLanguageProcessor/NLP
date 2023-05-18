@@ -1,0 +1,1 @@
+{"index": 249354, "D": "the doctrine that in perception, or in all forms of knowledge, there is an immediate awareness of the things perceived.", "S": [], "A": []}

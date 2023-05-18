@@ -1,0 +1,1 @@
+{"index": 105856, "D": "denoting or relating to worldwide changes in sea level, caused by the melting of ice sheets, movements of the ocean floor, sedimentation, etc", "S": [], "A": []}

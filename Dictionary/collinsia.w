@@ -1,0 +1,1 @@
+{"index": 63038, "D": "any plant belonging to the genus Collinsia, of the figwort family, having whorled leaves and usually clusters of variously colored flowers.", "S": [], "A": []}

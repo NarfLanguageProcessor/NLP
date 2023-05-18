@@ -1,0 +1,1 @@
+{"index": 37937, "D": "a tall, narrow wardrobe of the 18th century, found especially in Normandy and Brittany.", "S": [], "A": []}

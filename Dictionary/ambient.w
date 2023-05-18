@@ -1,0 +1,1 @@
+{"index": 9987, "D": "of the surrounding area or environment", "S": ["circling ", "moving ", "rotating "], "A": ["motionless ", "stationary ", "still "]}

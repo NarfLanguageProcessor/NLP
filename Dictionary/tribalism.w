@@ -1,0 +1,1 @@
+{"index": 329202, "D": "the customs and beliefs of tribal  life and society.", "S": [], "A": []}

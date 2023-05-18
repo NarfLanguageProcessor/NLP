@@ -1,0 +1,1 @@
+{"index": 153798, "D": "aroused, animated, or imbued with the spirit to do something, by or as if by supernatural or divine influence", "S": [], "A": []}

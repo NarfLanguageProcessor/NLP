@@ -1,0 +1,1 @@
+{"index": 35999, "D": "a person who bleeds abnormally because of low clotting rate; hemophiliac.", "S": ["chopper ", "dying quail ", "nubber ", "roller ", "slow roller ", "squibbler ", "wormburner "], "A": []}

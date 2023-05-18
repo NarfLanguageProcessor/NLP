@@ -1,0 +1,1 @@
+{"index": 83360, "D": "to add deuterium  to (a chemical compound).", "S": [], "A": []}

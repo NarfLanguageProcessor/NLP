@@ -1,0 +1,1 @@
+{"index": 77855, "D": "a person who is in debt or under financial obligation to another (opposed to creditor).", "S": ["borrower ", "defaulter "], "A": ["creditor ", "lender ", "mortgagee "]}

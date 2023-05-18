@@ -1,0 +1,1 @@
+{"index": 148010, "D": "impedance  or admittance,  used when the distinction between the two is not relevant.", "S": [], "A": []}

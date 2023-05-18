@@ -1,0 +1,1 @@
+{"index": 77478, "D": "a strong shutter able to be screwed against the interior of a porthole in heavy weather.", "S": [], "A": []}

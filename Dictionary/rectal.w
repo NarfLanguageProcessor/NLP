@@ -1,0 +1,1 @@
+{"index": 263662, "D": "of, relating to, or for the rectum. ", "S": ["abdominal "], "A": []}

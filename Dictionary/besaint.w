@@ -1,0 +1,1 @@
+{"index": 32250, "D": [], "S": ["beatify ", "consecrate "], "A": ["condemn ", "degrade ", "dishonor ", "hate ", "lower "]}

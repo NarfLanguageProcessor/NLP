@@ -1,0 +1,1 @@
+{"index": 241581, "D": "a white, solid, water-soluble polymer of acrylamide,  used in secondary oil recovery, as a thickening agent, a flocculant, and an absorbent, and to separate macromolecules of different molecular weights.", "S": [], "A": []}

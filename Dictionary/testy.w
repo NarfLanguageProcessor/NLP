@@ -1,0 +1,1 @@
+{"index": 319786, "D": "irritably impatient; touchy.", "S": ["annoyed ", "cantankerous ", "cranky ", "edgy ", "exasperated ", "grumpy ", "impatient ", "quarrelsome ", "sullen ", "uptight "], "A": ["calm ", "cheerful ", "easygoing ", "good-natured ", "happy ", "laid-back ", "nice ", "patient ", "pleasant "]}

@@ -1,0 +1,1 @@
+{"index": 158020, "D": "a custom, manner, practice, idiom, etc., characteristic of the Irish. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311604, "D": "to cool  (a liquid) below its freezing point without producing solidification or crystallization; undercool.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 93537, "D": "the rhythmic sound of a drum. ", "S": ["barrage ", "boom ", "booming ", "clangor ", "drone ", "drumming ", "echoing ", "grumble ", "quaver ", "racket ", "rat-a-tat ", "resonance ", "roar ", "rumble ", "rumbling ", "thunder "], "A": ["quiet "]}

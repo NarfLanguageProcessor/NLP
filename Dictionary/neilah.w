@@ -1,0 +1,1 @@
+{"index": 198169, "D": "the Jewish religious service marking the conclusion of Yom Kippur.", "S": [], "A": []}

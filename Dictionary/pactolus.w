@@ -1,0 +1,1 @@
+{"index": 222793, "D": "a small river in Asia Minor, in ancient Lydia", "S": [], "A": []}

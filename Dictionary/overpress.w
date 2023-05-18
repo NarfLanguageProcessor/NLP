@@ -1,0 +1,1 @@
+{"index": 220623, "D": [], "S": ["encourage ", "press ", "pressure ", "speed ", "spur "], "A": ["discourage ", "dissuade ", "leave alone ", "delay ", "hinder ", "repress ", "slow ", "stop ", "suppress "]}

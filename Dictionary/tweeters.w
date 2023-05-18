@@ -1,0 +1,1 @@
+{"index": 333245, "D": "a small loudspeaker designed for the reproduction of high-frequency sounds.", "S": [], "A": []}

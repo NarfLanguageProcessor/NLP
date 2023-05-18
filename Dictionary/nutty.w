@@ -1,0 +1,1 @@
+{"index": 209835, "D": "abounding in or producing nuts.", "S": ["absurd ", "batty ", "crazy ", "eccentric ", "foolish ", "kooky ", "mad ", "nuts ", "wacky "], "A": ["balanced ", "calm ", "collected ", "rational ", "reasonable ", "sane ", "sensible "]}

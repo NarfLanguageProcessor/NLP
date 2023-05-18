@@ -1,0 +1,1 @@
+{"index": 95000, "D": "a code consisting of 256 8-bit characters and used for data representation and transfer.", "S": [], "A": []}

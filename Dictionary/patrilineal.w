@@ -1,0 +1,1 @@
+{"index": 227886, "D": "inheriting or determining descent through the male line.", "S": ["benevolent "], "A": ["maternal "]}

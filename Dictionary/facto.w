@@ -1,0 +1,1 @@
+{"index": 109065, "D": "in fact; in reality", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 187900, "D": "the least quantity or amount possible, assignable, allowable, or the like.", "S": ["minimal "], "A": ["largest ", "maximum ", "most "]}

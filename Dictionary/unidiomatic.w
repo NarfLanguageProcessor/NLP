@@ -1,0 +1,1 @@
+{"index": 344075, "D": "peculiar to or characteristic of a particular language or dialect", "S": [], "A": []}

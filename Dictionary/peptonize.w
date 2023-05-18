@@ -1,0 +1,1 @@
+{"index": 230302, "D": "to subject (food) to an artificial, partial digestion by pepsin or pancreatic extract in order to aid digestion.", "S": [], "A": []}

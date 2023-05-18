@@ -1,0 +1,1 @@
+{"index": 87449, "D": "to confuse and deject; disconcert", "S": ["demoralize ", "disconcert ", "perplex ", "vex "], "A": ["comfort ", "soothe ", "abet ", "aid ", "appease ", "assist ", "calm ", "clear up ", "compose ", "delight ", "encourage ", "enlighten ", "explain ", "help ", "lose ", "make happy ", "order ", "please ", "reassure ", "settle ", "support ", "surrender "]}

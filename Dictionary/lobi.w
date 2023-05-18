@@ -1,0 +1,1 @@
+{"index": 174210, "D": "plural of lobus. ", "S": [], "A": []}

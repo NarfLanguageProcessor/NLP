@@ -1,0 +1,1 @@
+{"index": 342512, "D": "to foretell or predict; be an omen of; indicate beforehand; portend", "S": [], "A": []}

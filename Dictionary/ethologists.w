@@ -1,0 +1,1 @@
+{"index": 105137, "D": "the study of animal behavior with emphasis on the behavioral patterns that occur in natural environments.", "S": [], "A": []}

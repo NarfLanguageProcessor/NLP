@@ -1,0 +1,1 @@
+{"index": 220813, "D": "that reflects; reflecting. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256372, "D": [], "S": ["cushiony ", "cushy ", "doughy ", "downy ", "flabby ", "fleshy ", "gelatinous ", "mushy ", "pappy ", "pulpy ", "quaggy ", "spongy ", "squashy ", "squishy ", "yielding "], "A": []}

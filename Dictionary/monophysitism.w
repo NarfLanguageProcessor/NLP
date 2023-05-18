@@ -1,0 +1,1 @@
+{"index": 192509, "D": "a Christian doctrine grounded in the premise of Christ\u2019s singular, wholly divine nature.", "S": [], "A": []}

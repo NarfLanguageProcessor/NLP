@@ -1,0 +1,1 @@
+{"index": 369312, "D": "a line, course, or progression characterized by sharp turns first to one side and then to the other.", "S": ["tangent "], "A": ["stagnation "]}

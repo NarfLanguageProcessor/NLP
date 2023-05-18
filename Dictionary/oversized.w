@@ -1,0 +1,1 @@
+{"index": 221152, "D": "of excessive size;  unusually large", "S": ["oversize "], "A": []}

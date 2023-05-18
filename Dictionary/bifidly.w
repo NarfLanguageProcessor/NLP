@@ -1,0 +1,1 @@
+{"index": 33634, "D": "separated or cleft into two equal parts or lobes.", "S": [], "A": []}

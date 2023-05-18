@@ -1,0 +1,1 @@
+{"index": 74079, "D": [], "S": ["misery ", "persecution ", "suffering ", "torment "], "A": ["happiness ", "joy ", "comfort ", "contentment ", "health ", "peace ", "relief "]}

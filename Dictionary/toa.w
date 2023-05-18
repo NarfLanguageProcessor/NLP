@@ -1,0 +1,1 @@
+{"index": 324860, "D": "in various Indigenous Polynesian cultures, a fearless warrior.", "S": [], "A": []}

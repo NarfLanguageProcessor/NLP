@@ -1,0 +1,1 @@
+{"index": 301212, "D": "to be stretched or spread out in an unnatural or ungraceful manner", "S": [], "A": []}

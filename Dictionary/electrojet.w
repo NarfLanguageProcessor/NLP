@@ -1,0 +1,1 @@
+{"index": 97087, "D": "a current of ions existing in the upper atmosphere, moving with respect to the surface of the earth, and causing various auroral phenomena.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 338296, "D": "the lack or absence of culture", "S": [], "A": []}

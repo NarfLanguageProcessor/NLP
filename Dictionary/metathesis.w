@@ -1,0 +1,1 @@
+{"index": 185047, "D": "the transposition of letters, syllables, or sounds in a word, as in the pronunciation  [kuhmf-ter-buhl]  /\u02c8k\u028cmf t\u0259r b\u0259l/  for comfortable or  [aks]  /\u00e6ks/  for ask.", "S": [], "A": []}

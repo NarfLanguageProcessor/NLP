@@ -1,0 +1,1 @@
+{"index": 334616, "D": "displaying or feeling admiration", "S": [], "A": []}

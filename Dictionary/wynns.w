@@ -1,0 +1,1 @@
+{"index": 366225, "D": "a character (\u01bf) representing the sound (w) in Old English and early Middle English manuscripts, based on a rune with the same phonetic value.", "S": [], "A": []}

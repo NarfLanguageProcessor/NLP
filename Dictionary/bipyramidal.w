@@ -1,0 +1,1 @@
+{"index": 34672, "D": "a form symmetrical about a plane dividing it into two pyramids. ", "S": [], "A": []}

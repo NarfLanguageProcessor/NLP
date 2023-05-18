@@ -1,0 +1,1 @@
+{"index": 229654, "D": "any fungus of the genus Penicillium, certain species of which are used in cheesemaking and as the source of penicillin. ", "S": [], "A": []}

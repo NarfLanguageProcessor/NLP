@@ -1,0 +1,1 @@
+{"index": 201061, "D": "disposed to acquiesce  or consent tacitly.", "S": [], "A": []}

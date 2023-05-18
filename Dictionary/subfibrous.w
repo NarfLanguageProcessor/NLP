@@ -1,0 +1,1 @@
+{"index": 307985, "D": "containing, consisting of, or resembling fibers. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 12316, "D": "a dark-colored volcanic rock composed essentially of plagioclase feldspar and one or more mafic minerals, as hornblende or biotite.", "S": [], "A": []}

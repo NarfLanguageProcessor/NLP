@@ -1,0 +1,1 @@
+{"index": 183597, "D": "A pointer star in the constellation Ursa Major, with an apparent magnitude of 2.4. See more at  Dubhe.", "S": [], "A": []}

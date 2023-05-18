@@ -1,0 +1,1 @@
+{"index": 29513, "D": "the former practice of setting dogs to fight a captive bear.", "S": [], "A": []}

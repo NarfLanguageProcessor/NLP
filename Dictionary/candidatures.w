@@ -1,0 +1,1 @@
+{"index": 46168, "D": "the fact or state of running for office or of seeking a position, title, degree, etc.", "S": ["campaign trail ", "campaigning ", "canvassing ", "door-to-door ", "politicking ", "stump ", "stump excursion ", "stumping ", "stumping tour "], "A": []}

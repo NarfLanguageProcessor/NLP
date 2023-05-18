@@ -1,0 +1,1 @@
+{"index": 244122, "D": "the state or fact of existing;  being.", "S": ["future state ", "life after death ", "next life "], "A": []}

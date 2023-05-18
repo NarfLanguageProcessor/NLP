@@ -1,0 +1,1 @@
+{"index": 55290, "D": "a person or firm that makes and sells chocolate  candy.", "S": [], "A": []}

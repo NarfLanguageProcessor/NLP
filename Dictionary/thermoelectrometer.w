@@ -1,0 +1,1 @@
+{"index": 321400, "D": "an instrument for measuring a charge or voltage by means of the heat it produces in a resistance.", "S": [], "A": []}

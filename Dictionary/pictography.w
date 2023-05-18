@@ -1,0 +1,1 @@
+{"index": 236069, "D": "the use of pictographs; picture writing.", "S": [], "A": []}

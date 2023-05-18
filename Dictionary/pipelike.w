@@ -1,0 +1,1 @@
+{"index": 237416, "D": "a hollow cylinder of metal, wood, or other material, used for the conveyance of water, gas, steam, petroleum, etc.", "S": [], "A": []}

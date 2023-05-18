@@ -1,0 +1,1 @@
+{"index": 85180, "D": "U.S. politician.", "S": ["drown ", "expire ", "perish ", "succumb "], "A": ["bear ", "continue "]}

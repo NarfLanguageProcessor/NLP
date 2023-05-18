@@ -1,0 +1,1 @@
+{"index": 132994, "D": "(in Islamic countries) a communal bathhouse, usually with separate baths for men and women.", "S": [], "A": []}

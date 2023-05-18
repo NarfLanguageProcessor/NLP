@@ -1,0 +1,1 @@
+{"index": 23663, "D": "to examine by auscultation. ", "S": [], "A": []}

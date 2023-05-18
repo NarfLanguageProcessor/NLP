@@ -1,0 +1,1 @@
+{"index": 348512, "D": "being or relating to an act, process, or period of testing, as of a person\u2019s character, performance, qualifications, etc.", "S": [], "A": []}

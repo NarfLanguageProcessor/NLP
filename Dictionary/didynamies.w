@@ -1,0 +1,1 @@
+{"index": 85087, "D": "(of a flower) having four stamens in two pairs of different length.", "S": [], "A": []}

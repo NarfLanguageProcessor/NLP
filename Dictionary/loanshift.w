@@ -1,0 +1,1 @@
+{"index": 174127, "D": "change or extension of the meaning of a word through the influence of a foreign word, as in the application in English of the meaning \u201cprofession\u201d to the word calling through the influence of Latin voc\u0101tio.", "S": [], "A": []}

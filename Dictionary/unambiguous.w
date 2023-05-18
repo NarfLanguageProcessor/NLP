@@ -1,0 +1,1 @@
+{"index": 334886, "D": "not ambiguous,  or unclear; distinct; unequivocal", "S": ["explicit ", "obvious "], "A": ["ambiguous ", "indefinite ", "obscure ", "vague "]}

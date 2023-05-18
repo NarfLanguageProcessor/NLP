@@ -1,0 +1,1 @@
+{"index": 246649, "D": "information in digital format, as encoded text or numbers, or multimedia images, audio, or video", "S": [], "A": []}

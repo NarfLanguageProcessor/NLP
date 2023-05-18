@@ -1,0 +1,1 @@
+{"index": 89871, "D": "a person or thing that distracts the attention.", "S": [], "A": []}

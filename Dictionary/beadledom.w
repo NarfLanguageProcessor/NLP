@@ -1,0 +1,1 @@
+{"index": 29398, "D": "a stupid or officious display or exercise of authority associated with petty officials, and historically epitomized in England\u2019s parish beadles, who kept order in the church and the poorhouse.", "S": ["administration ", "authority ", "civil service ", "management ", "ministry ", "red tape "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 243820, "D": "a short-lived atomic system consisting of a positron and an electron bound together.", "S": [], "A": []}

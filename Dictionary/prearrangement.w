@@ -1,0 +1,1 @@
+{"index": 245752, "D": "to arrange  in advance or beforehand.", "S": ["accord ", "arrangement ", "compromise ", "contract ", "pact ", "pledge ", "transaction "], "A": ["denial ", "disagreement ", "dissension ", "refusal "]}

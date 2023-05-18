@@ -1,0 +1,1 @@
+{"index": 112842, "D": "the last piece, division, or movement of a concert, opera, or composition.", "S": ["climax ", "conclusion ", "denouement "], "A": ["beginning ", "commencement ", "initiation ", "introduction ", "opening ", "start "]}

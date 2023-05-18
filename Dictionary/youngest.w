@@ -1,0 +1,1 @@
+{"index": 157735, "D": "superlative of young. ", "S": ["budding ", "inexperienced ", "new ", "youthful "], "A": ["experienced ", "old ", "adult ", "healthy ", "mature ", "older ", "sophisticated "]}

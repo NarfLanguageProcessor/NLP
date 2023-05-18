@@ -1,0 +1,1 @@
+{"index": 96702, "D": "an oil-rich body on seeds or fruits that attracts ants, which act as dispersal agents", "S": [], "A": []}

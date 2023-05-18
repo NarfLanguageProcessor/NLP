@@ -1,0 +1,1 @@
+{"index": 177335, "D": "Compare basic (def. 4), ultramafic. ", "S": [], "A": []}

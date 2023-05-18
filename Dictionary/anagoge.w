@@ -1,0 +1,1 @@
+{"index": 11667, "D": "a spiritual interpretation or application of words, as of Scriptures.", "S": [], "A": []}

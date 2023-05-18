@@ -1,0 +1,1 @@
+{"index": 358433, "D": "green with vegetation; covered with growing plants or grass", "S": ["flora ", "greenery "], "A": []}

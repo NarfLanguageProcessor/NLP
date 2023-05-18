@@ -1,0 +1,1 @@
+{"index": 214105, "D": "an area of land devoted to the cultivation of fruit or nut trees.", "S": ["garden ", "plantation "], "A": []}

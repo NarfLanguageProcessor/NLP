@@ -1,0 +1,1 @@
+{"index": 339431, "D": "to mark with a line or lines underneath; underscore.", "S": [], "A": []}

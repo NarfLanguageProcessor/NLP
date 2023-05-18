@@ -1,0 +1,1 @@
+{"index": 91350, "D": "any of several games in which matching halves of dominoes are laid together", "S": ["camouflage ", "cloak ", "veil "], "A": ["reality ", "truth "]}

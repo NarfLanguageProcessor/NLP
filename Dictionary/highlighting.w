@@ -1,0 +1,1 @@
+{"index": 139282, "D": "a hair dyeing technique in which dye is applied to parts of the hair for a naturally lighter and contrasting appearance.", "S": ["displaying ", "headlining ", "presenting ", "promoting ", "pushing ", "recommending ", "showing ", "starring ", "turning "], "A": []}

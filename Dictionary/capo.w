@@ -1,0 +1,1 @@
+{"index": 46982, "D": "any of various devices for a guitar, lute, banjo, etc., that when clamped or screwed down across the strings at a given fret will raise each string a corresponding number of half tones.", "S": [], "A": []}

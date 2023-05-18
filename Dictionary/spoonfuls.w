@@ -1,0 +1,1 @@
+{"index": 300887, "D": "as much as a spoon  can hold.", "S": ["application ", "dosage ", "lot ", "measure ", "measurement ", "prescription ", "quantity ", "shot "], "A": []}

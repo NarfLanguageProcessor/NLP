@@ -1,0 +1,1 @@
+{"index": 223537, "D": "acceptable or agreeable to the palate  or taste; savory", "S": ["acceptable ", "agreeable ", "appetizing ", "attractive ", "delicious ", "enjoyable ", "pleasant ", "satisfactory ", "tempting "], "A": ["disagreeable ", "repulsive ", "unacceptable ", "unattractive ", "unpleasant ", "unsatisfactory "]}

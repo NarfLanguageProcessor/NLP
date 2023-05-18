@@ -1,0 +1,1 @@
+{"index": 28261, "D": "a variant of barkentine. ", "S": [], "A": []}

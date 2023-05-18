@@ -1,0 +1,1 @@
+{"index": 308588, "D": "a natural elevation of the earth's surface rising more or less abruptly to a summit, and attaining an altitude greater than that of a hill, usually greater than 2,000 feet (610 meters).", "S": [], "A": []}

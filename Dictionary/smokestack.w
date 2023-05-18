@@ -1,0 +1,1 @@
+{"index": 295014, "D": "a pipe for the escape of the smoke  or gases of combustion, as on a steamboat, locomotive, or building.", "S": ["industrialized ", "mechanical ", "modern ", "technical "], "A": ["domestic "]}

@@ -1,0 +1,1 @@
+{"index": 306374, "D": "having or marked with stripes. ", "S": [], "A": []}

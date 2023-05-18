@@ -1,0 +1,1 @@
+{"index": 208680, "D": "that part of a bridle or halter that passes over the animal's nose. ", "S": [], "A": []}

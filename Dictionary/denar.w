@@ -1,0 +1,1 @@
+{"index": 80963, "D": "the basic monetary unit of the former Yugoslav Republic of Macedonia.", "S": [], "A": []}

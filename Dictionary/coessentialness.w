@@ -1,0 +1,1 @@
+{"index": 62069, "D": "united in essence; having the same essence or nature.", "S": [], "A": []}

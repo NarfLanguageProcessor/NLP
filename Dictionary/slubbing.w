@@ -1,0 +1,1 @@
+{"index": 294493, "D": "to extend (slivers of fiber) and twist slightly in carding.", "S": [], "A": []}

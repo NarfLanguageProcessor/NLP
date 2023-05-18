@@ -1,0 +1,1 @@
+{"index": 192192, "D": "noting, pertaining to, or composed of strata dipping in only one direction.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158584, "D": "the traditional log house of rural Russia, with an unheated entrance room and a single living and sleeping room heated by a clay or brick stove.", "S": [], "A": []}

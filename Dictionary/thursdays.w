@@ -1,0 +1,1 @@
+{"index": 323088, "D": "on Thursdays; every Thursday.", "S": [], "A": []}

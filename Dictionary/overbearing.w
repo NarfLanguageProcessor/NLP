@@ -1,0 +1,1 @@
+{"index": 218316, "D": "domineering; dictatorial; haughtily or rudely arrogant.", "S": ["autocratic ", "bossy ", "cocky ", "dictatorial ", "high-handed ", "imperious ", "oppressive ", "tyrannical "], "A": ["democratic ", "humble "]}

@@ -1,0 +1,1 @@
+{"index": 142939, "D": "capable of returning home,  usually over a great distance", "S": [], "A": []}

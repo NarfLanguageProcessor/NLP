@@ -1,0 +1,1 @@
+{"index": 297143, "D": "sleepy; drowsy.", "S": ["asleep ", "dozy ", "drowsy ", "listless ", "nodding off ", "out of it ", "sleeping ", "snoozy ", "soporific ", "tired "], "A": []}

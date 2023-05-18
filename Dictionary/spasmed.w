@@ -1,0 +1,1 @@
+{"index": 298544, "D": "a sudden, abnormal, involuntary muscular contraction, consisting of a continued muscular contraction (tonic spasm ) or of a series of alternating muscular contractions and relaxations (clonic spasm ).", "S": [], "A": []}

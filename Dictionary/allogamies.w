@@ -1,0 +1,1 @@
+{"index": 8843, "D": "cross-fertilization in plants (opposed to autogamy).", "S": [], "A": []}

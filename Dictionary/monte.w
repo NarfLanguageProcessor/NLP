@@ -1,0 +1,1 @@
+{"index": 192885, "D": "a gambling game played with a 40-card pack in which players bet that one of two layouts, each consisting of two cards drawn from either the top or bottom of the deck and turned face up, will be matched in suit by the next card turned up.", "S": [], "A": []}

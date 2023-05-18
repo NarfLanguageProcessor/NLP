@@ -1,0 +1,1 @@
+{"index": 121027, "D": "profits or earnings", "S": ["fulfillment ", "realization "], "A": ["failure ", "forfeit ", "loss ", "miss ", "surrender "]}

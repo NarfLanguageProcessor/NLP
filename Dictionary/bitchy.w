@@ -1,0 +1,1 @@
+{"index": 35172, "D": "characteristic of a bitch;  spiteful; malicious.", "S": ["bad-tempered ", "cattish ", "catty ", "despiteful ", "hateful ", "malevolent ", "malicious ", "malignant ", "mean ", "nasty ", "overbearing ", "venomous ", "vicious ", "vindictive ", "wicked "], "A": []}

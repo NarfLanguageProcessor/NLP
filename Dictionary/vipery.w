@@ -1,0 +1,1 @@
+{"index": 360074, "D": [], "S": ["crafty ", "insidious ", "lurking ", "perfidious ", "slinking ", "sneaky ", "subtle ", "treacherous ", "venomous ", "virulent "], "A": ["forthright ", "honest ", "straight ", "unwinding ", "upfront "]}

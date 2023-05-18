@@ -1,0 +1,1 @@
+{"index": 318381, "D": [], "S": ["be above-board ", "be frank ", "be on the up and up ", "be open ", "be straight ", "be straightforward ", "be up-front ", "come clean ", "come to terms ", "keep nothing back ", "talk straight "], "A": ["lie ", "prevaricate "]}

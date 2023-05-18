@@ -1,0 +1,1 @@
+{"index": 324871, "D": "a common European plant, Linaria vulgaris, of the figwort family, having narrow leaves and showy yellow-and-orange flowers, naturalized as a weed in the U.S.", "S": [], "A": []}

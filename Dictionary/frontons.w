@@ -1,0 +1,1 @@
+{"index": 119380, "D": "a building in which jai alai is played, containing the cancha or court and sometimes having facilities for betting.", "S": [], "A": []}

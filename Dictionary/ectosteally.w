@@ -1,0 +1,1 @@
+{"index": 95575, "D": "the ossification of cartilage that begins under the perichondrium and proceeds inward.", "S": [], "A": []}

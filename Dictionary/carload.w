@@ -1,0 +1,1 @@
+{"index": 48146, "D": "the amount carried by a car,  especially a freight car. ", "S": [], "A": []}

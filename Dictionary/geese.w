@@ -1,0 +1,1 @@
+{"index": 123107, "D": "a plural of goose. ", "S": ["chicken ", "duck ", "fowl ", "pheasant ", "pigeon "], "A": []}

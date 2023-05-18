@@ -1,0 +1,1 @@
+{"index": 77963, "D": "absorption of heat without a corresponding increase in temperature when a metal has been heated to a critical point.", "S": [], "A": []}

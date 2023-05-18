@@ -1,0 +1,1 @@
+{"index": 123310, "D": "a doubling; duplication; repetition.", "S": [], "A": []}

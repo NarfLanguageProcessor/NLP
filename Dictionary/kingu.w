@@ -1,0 +1,1 @@
+{"index": 164926, "D": "(in Akkadian myth) a son of Apsu and Tiamat whose blood Ea and Marduk used in creating the human race.", "S": [], "A": []}

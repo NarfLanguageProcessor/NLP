@@ -1,0 +1,1 @@
+{"index": 365589, "D": "a married woman, especially when considered in relation to her partner in marriage.", "S": [], "A": []}

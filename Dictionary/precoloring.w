@@ -1,0 +1,1 @@
+{"index": 246248, "D": "the quality of an object or substance with respect to light reflected by the object, usually determined visually by measurement of hue, saturation, and brightness of the reflected light; saturation or chroma; hue. ", "S": [], "A": []}

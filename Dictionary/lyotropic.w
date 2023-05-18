@@ -1,0 +1,1 @@
+{"index": 173116, "D": "noting any series of ions, salts, or radicals arranged in descending order relative to the magnitude of their effect on a given solvent.", "S": [], "A": []}

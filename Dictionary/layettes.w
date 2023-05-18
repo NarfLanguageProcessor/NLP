@@ -1,0 +1,1 @@
+{"index": 167410, "D": "an outfit of clothing, bedding, etc., for a newborn baby.", "S": [], "A": []}

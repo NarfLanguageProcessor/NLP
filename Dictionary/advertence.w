@@ -1,0 +1,1 @@
+{"index": 4661, "D": "the act of being or becoming advertent;  heedfulness.", "S": ["allusion ", "hint ", "innuendo ", "mention ", "note ", "quotation "], "A": []}

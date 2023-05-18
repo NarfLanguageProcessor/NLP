@@ -1,0 +1,1 @@
+{"index": 68911, "D": "a Franciscan friar", "S": [], "A": []}

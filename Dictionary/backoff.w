@@ -1,0 +1,1 @@
+{"index": 25852, "D": [], "S": ["abandon ", "back down ", "balk ", "give up ", "surrender ", "withdraw "], "A": []}

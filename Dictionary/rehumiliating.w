@@ -1,0 +1,1 @@
+{"index": 266055, "D": "to cause (a person) a painful loss of pride, self-respect, or dignity. ", "S": [], "A": []}

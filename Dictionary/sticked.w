@@ -1,0 +1,1 @@
+{"index": 304289, "D": "a branch or shoot of a tree or shrub that has been cut or broken off.", "S": [], "A": []}

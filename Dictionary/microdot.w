@@ -1,0 +1,1 @@
+{"index": 186093, "D": "a photograph reduced to the size of a printed period, used especially to transmit messages, photographs, drawings, etc.", "S": ["blotter ", "candy ", "cubes ", "dot ", "hallucinogen ", "mushrooms ", "peyote "], "A": []}

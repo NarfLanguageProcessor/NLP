@@ -1,0 +1,1 @@
+{"index": 179550, "D": "a purple mantle extending to the ankles, worn over the cassock by lesser prelates of the papal court.", "S": [], "A": []}

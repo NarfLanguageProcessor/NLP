@@ -1,0 +1,1 @@
+{"index": 46361, "D": "the striped, green caterpillar of any of several geometrid moths", "S": [], "A": []}

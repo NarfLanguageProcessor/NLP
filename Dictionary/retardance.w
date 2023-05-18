@@ -1,0 +1,1 @@
+{"index": 270307, "D": "any substance capable of reducing the speed of a given reaction.", "S": [], "A": []}

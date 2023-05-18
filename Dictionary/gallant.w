@@ -1,0 +1,1 @@
+{"index": 121299, "D": "brave, spirited, noble-minded, or chivalrous", "S": ["courageous ", "courtly ", "fearless ", "gritty ", "heroic ", "honorable ", "noble ", "plucky ", "quixotic ", "valiant "], "A": ["afraid ", "cowardly ", "fearful ", "meek ", "timid ", "unrefined ", "shy ", "unwilling "]}

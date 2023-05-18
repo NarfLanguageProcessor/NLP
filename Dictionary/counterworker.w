@@ -1,0 +1,1 @@
+{"index": 71210, "D": "work  or action to oppose some other work  or action.", "S": [], "A": []}

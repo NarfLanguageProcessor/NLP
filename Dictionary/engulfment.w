@@ -1,0 +1,1 @@
+{"index": 100505, "D": "to swallow up in or as in a gulf; submerge", "S": [], "A": []}

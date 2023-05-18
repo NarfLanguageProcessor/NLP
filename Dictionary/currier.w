@@ -1,0 +1,1 @@
+{"index": 75428, "D": "a person who dresses and colors leather after it is tanned.", "S": [], "A": []}

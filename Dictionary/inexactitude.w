@@ -1,0 +1,1 @@
+{"index": 151648, "D": "the quality or state of being inexact or inaccurate; inexactness.", "S": [], "A": []}

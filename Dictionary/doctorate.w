@@ -1,0 +1,1 @@
+{"index": 90649, "D": "any of several academic degrees of the highest rank, as the Ph.D. or Ed.D., awarded by universities and some colleges for completing advanced work in graduate school or a professional school.", "S": ["PhD ", "doctor ", "postgraduate degree "], "A": []}

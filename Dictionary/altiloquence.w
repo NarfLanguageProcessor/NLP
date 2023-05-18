@@ -1,0 +1,1 @@
+{"index": 9531, "D": "(of language) high-flown or pretentious.", "S": ["balderdash ", "bluster ", "braggadocio ", "cotton ", "exaggeration ", "fustian ", "gasconade ", "grandiloquence ", "grandiosity ", "magniloquence ", "pad ", "pomposity ", "rage ", "rant ", "rave ", "rhapsody ", "rhetoric ", "rodomontade ", "stuff ", "tumidity ", "turgidity "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 186229, "D": "pertaining to or characterized by the use of microliths,  as a people or culture.", "S": [], "A": []}

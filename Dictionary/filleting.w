@@ -1,0 +1,1 @@
+{"index": 112700, "D": "material, as mortar, used as a substitute for flashing.", "S": [], "A": []}

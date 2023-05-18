@@ -1,0 +1,1 @@
+{"index": 20933, "D": "a person who has completed a mountain ascent, esp a notable one", "S": [], "A": []}

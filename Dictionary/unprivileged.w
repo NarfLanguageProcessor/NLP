@@ -1,0 +1,1 @@
+{"index": 348505, "D": "belonging to a class that enjoys special privileges; favored", "S": [], "A": []}

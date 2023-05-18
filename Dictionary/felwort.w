@@ -1,0 +1,1 @@
+{"index": 111128, "D": "a biennial gentianaceous plant, Gentianella amarella, of Europe and SW China, having purple flowers and rosettes of leaves", "S": [], "A": []}

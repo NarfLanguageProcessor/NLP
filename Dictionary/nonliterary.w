@@ -1,0 +1,1 @@
+{"index": 205048, "D": "not of, relating to, concerned with, or characteristic of literature or scholarly writing", "S": [], "A": []}

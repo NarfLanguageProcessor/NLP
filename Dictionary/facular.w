@@ -1,0 +1,1 @@
+{"index": 109105, "D": "an irregular, unusually bright patch on the sun's surface.", "S": [], "A": []}

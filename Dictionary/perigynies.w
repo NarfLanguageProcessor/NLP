@@ -1,0 +1,1 @@
+{"index": 230974, "D": "a perigynous  condition.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 122379, "D": "the part of the hind leg of a horse, or other hoofed mammal, between the stifle and the hock.", "S": [], "A": []}

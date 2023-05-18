@@ -1,0 +1,1 @@
+{"index": 199412, "D": "a person who has recently married.", "S": ["set ", "team "], "A": ["individual "]}

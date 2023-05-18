@@ -1,0 +1,1 @@
+{"index": 208919, "D": "an announcement or intimation of something impending; warning", "S": ["attention ", "care ", "consideration ", "note ", "respect "], "A": ["disdain ", "disregard ", "disrespect ", "heedlessness ", "ignorance ", "neglect ", "negligence ", "omission ", "thoughtlessness ", "carelessness ", "disbelief ", "misunderstanding "]}

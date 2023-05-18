@@ -1,0 +1,1 @@
+{"index": 196232, "D": [], "S": ["alteration ", "anomaly ", "variation "], "A": ["sameness ", "stagnation "]}

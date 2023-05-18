@@ -1,0 +1,1 @@
+{"index": 86003, "D": "Compare mechanism (def. 8), vitalism (def. 1). ", "S": [], "A": []}

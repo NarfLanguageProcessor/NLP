@@ -1,0 +1,1 @@
+{"index": 335746, "D": "unknown; unperceived; without one's knowledge (usually followed by to).", "S": ["unapprehended ", "undiscovered ", "unnamed ", "unperceived "], "A": ["known ", "realized ", "recognized ", "understood "]}

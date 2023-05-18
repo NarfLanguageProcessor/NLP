@@ -1,0 +1,1 @@
+{"index": 153732, "D": "to such an extent or degree; so (usually followed by that).", "S": [], "A": []}

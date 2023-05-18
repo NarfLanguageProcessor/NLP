@@ -1,0 +1,1 @@
+{"index": 366988, "D": "like or befitting a woman;  feminine; not masculine or girlish.", "S": ["femaleness ", "muliebrity ", "womanhood ", "womankind "], "A": []}

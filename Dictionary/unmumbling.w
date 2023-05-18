@@ -1,0 +1,1 @@
+{"index": 346673, "D": "to speak in a low indistinct manner, almost to an unintelligible extent; mutter.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 119752, "D": "resembling or related to seaweeds of the genus Fucus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 152358, "D": "happening or occurring at long intervals or rarely", "S": ["intermittently ", "now and then ", "occasionally ", "rarely ", "sparingly ", "sporadically "], "A": ["frequently ", "regularly "]}

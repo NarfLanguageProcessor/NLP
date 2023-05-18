@@ -1,0 +1,1 @@
+{"index": 301343, "D": "to scatter (a liquid, powder, etc.) in drops or particles", "S": ["dot ", "dredge ", "dust ", "moisten ", "pepper ", "shower ", "smear ", "spray ", "strew ", "stud "], "A": ["collect ", "gather "]}

@@ -1,0 +1,1 @@
+{"index": 27787, "D": "a band or small scarf of lace, worn around the head or neck by women.", "S": [], "A": []}

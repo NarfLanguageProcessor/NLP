@@ -1,0 +1,1 @@
+{"index": 170943, "D": "to space  out (the letters  of a word or line) for balance or emphasis.", "S": [], "A": []}

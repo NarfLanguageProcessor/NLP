@@ -1,0 +1,1 @@
+{"index": 55691, "D": "a person or thing that chops. ", "S": ["chop ", "gill ", "jowl "], "A": ["humbleness ", "meekness ", "timidity "]}

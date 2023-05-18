@@ -1,0 +1,1 @@
+{"index": 200223, "D": "next after the eighth; being the ordinal number for nine.", "S": ["nonagon "], "A": []}

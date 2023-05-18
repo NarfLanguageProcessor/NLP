@@ -1,0 +1,1 @@
+{"index": 265509, "D": "the ensigns or emblems of royalty, as the crown or scepter.", "S": ["insignia "], "A": []}

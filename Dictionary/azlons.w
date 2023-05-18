@@ -1,0 +1,1 @@
+{"index": 25283, "D": "any of the class of textile fibers derived from such proteins as casein or zein.", "S": [], "A": []}

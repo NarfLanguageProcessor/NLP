@@ -1,0 +1,1 @@
+{"index": 127968, "D": "plural of gooney. ", "S": [], "A": []}

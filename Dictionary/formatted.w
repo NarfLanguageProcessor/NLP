@@ -1,0 +1,1 @@
+{"index": 117399, "D": "Compare duodecimo, folio (def. 2), octavo, quarto. ", "S": [], "A": []}

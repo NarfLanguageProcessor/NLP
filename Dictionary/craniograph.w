@@ -1,0 +1,1 @@
+{"index": 72065, "D": "an instrument that outlines the skull.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 130619, "D": "healthy; thriving. ", "S": [], "A": []}

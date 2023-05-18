@@ -1,0 +1,1 @@
+{"index": 238898, "D": "a flat piece of metal, stone, or baked clay, used as a tray in an enameling oven.", "S": [], "A": []}

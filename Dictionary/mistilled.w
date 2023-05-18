@@ -1,0 +1,1 @@
+{"index": 190298, "D": "up to the time of; until", "S": [], "A": []}

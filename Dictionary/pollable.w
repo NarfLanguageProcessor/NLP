@@ -1,0 +1,1 @@
+{"index": 242657, "D": "a sampling or collection of opinions on a subject, taken from either a selected or a random group of persons, as for the purpose of analysis.", "S": [], "A": []}

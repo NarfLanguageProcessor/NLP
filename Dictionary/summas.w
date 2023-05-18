@@ -1,0 +1,1 @@
+{"index": 310915, "D": "a comprehensive work or series of works covering, synthesizing, or summarizing a particular field or subject.", "S": [], "A": []}

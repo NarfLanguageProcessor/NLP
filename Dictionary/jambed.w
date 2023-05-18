@@ -1,0 +1,1 @@
+{"index": 160245, "D": "either of two stones, timbers, etc., forming the sidepieces for the frame of an opening.", "S": [], "A": []}

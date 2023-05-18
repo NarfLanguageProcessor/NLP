@@ -1,0 +1,1 @@
+{"index": 260805, "D": "a state of intense or overwhelming excitement; rapture; ecstasy.", "S": [], "A": []}

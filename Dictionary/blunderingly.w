@@ -1,0 +1,1 @@
+{"index": 36837, "D": "a gross, stupid, or careless mistake", "S": ["awkwardly ", "clumsily ", "poorly "], "A": ["adequately ", "calmly ", "little ", "mildly ", "morally "]}

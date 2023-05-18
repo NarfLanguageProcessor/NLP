@@ -1,0 +1,1 @@
+{"index": 235122, "D": "pertaining to a flight  made for the purpose of aerial photography.", "S": [], "A": []}

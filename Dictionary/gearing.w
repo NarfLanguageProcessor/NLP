@@ -1,0 +1,1 @@
+{"index": 123034, "D": "an assembly of parts, especially a train of gears,  for transmitting and modifying motion and torque in a machine.", "S": ["adapt ", "adjust ", "fit ", "organize ", "regulate ", "tailor "], "A": ["disarrange ", "disorder ", "disorganize ", "unfit ", "refuse ", "reject "]}

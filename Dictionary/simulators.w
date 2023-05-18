@@ -1,0 +1,1 @@
+{"index": 291187, "D": "a person or thing that simulates. ", "S": ["actor ", "bum ", "charlatan ", "cheat ", "counterfeit ", "counterfeiter ", "fake ", "faker ", "four-flusher ", "fraud ", "humbug ", "impostor ", "mountebank ", "phony ", "playactor ", "pretender ", "pseudo ", "put on ", "sham ", "shammer ", "shark ", "sharp ", "slicker ", "whip "], "A": ["reality "]}

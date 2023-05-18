@@ -1,0 +1,1 @@
+{"index": 249253, "D": "church government by presbyters or elders, equal in rank and organized into graded administrative courts.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 212957, "D": "the branch of metaphysics that studies the nature of existence or being as such.", "S": [], "A": []}

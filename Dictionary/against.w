@@ -1,0 +1,1 @@
+{"index": 5831, "D": "in opposition to; contrary to; adverse or hostile to", "S": ["contra ", "contrary to ", "counter to ", "in contrast to ", "in opposition to ", "opposed to ", "versus ", "vs "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303982, "D": "movement of an organism in response to contact with a solid.", "S": [], "A": []}

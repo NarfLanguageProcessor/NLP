@@ -1,0 +1,1 @@
+{"index": 9675, "D": "a small cavity, cell, or pit on the surface of an organ.", "S": [], "A": []}

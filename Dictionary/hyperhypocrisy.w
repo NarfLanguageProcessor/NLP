@@ -1,0 +1,1 @@
+{"index": 140185, "D": "a pretense of having a virtuous character, moral or religious beliefs or principles, etc., that one does not really possess.", "S": [], "A": []}

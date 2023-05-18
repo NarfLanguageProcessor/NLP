@@ -1,0 +1,1 @@
+{"index": 92603, "D": "one of a German breed of wirehaired pointing dogs.", "S": [], "A": []}

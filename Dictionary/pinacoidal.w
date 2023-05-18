@@ -1,0 +1,1 @@
+{"index": 236880, "D": "a form whose faces are parallel to two of the axes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 171210, "D": "having no part higher than another; having a flat or even surface.", "S": ["height "], "A": []}

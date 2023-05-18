@@ -1,0 +1,1 @@
+{"index": 104765, "D": "the period of heat or rut; the period of maximum sexual receptivity of the female.", "S": [], "A": []}

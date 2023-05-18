@@ -1,0 +1,1 @@
+{"index": 282626, "D": "work  that can be done by a child at their seat  in school without supervision.", "S": [], "A": []}

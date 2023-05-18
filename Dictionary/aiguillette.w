@@ -1,0 +1,1 @@
+{"index": 6746, "D": "an ornamental tagged cord or braid on the shoulder of a uniform; aglet.", "S": [], "A": []}

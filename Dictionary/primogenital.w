@@ -1,0 +1,1 @@
+{"index": 250564, "D": "the state or fact of being the firstborn of children of the same parents.", "S": [], "A": []}

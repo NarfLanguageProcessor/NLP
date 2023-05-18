@@ -1,0 +1,1 @@
+{"index": 342642, "D": "easily broken, shattered, or damaged; delicate; brittle; frail", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 348244, "D": "without skill, training, or experience", "S": [], "A": []}

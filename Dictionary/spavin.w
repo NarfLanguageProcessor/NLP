@@ -1,0 +1,1 @@
+{"index": 298664, "D": "a disease of the hock joint of horses in which enlargement occurs because of collected fluids (bog spavin ), bony growth (bone spavin ), or distention of the veins (blood spavin ).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 271058, "D": [], "S": ["echoed ", "paraphrased ", "quoted ", "recapitulated ", "recited ", "rehashed ", "reiterated ", "restated ", "retold "], "A": []}

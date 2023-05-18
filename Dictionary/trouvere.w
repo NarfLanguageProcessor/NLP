@@ -1,0 +1,1 @@
+{"index": 331395, "D": "one of a class of medieval poets who flourished in northern France during the 12th and 13th centuries, wrote in langue d'o\u00efl, and composed chiefly the chansons de geste and works on the themes of courtly love.", "S": ["troubadour "], "A": []}

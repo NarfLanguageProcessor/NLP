@@ -1,0 +1,1 @@
+{"index": 230252, "D": "an enzyme, produced in the stomach, that in the presence of hydrochloric acid splits proteins into proteoses and peptones.", "S": [], "A": []}

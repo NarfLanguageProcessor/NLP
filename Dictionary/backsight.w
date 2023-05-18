@@ -1,0 +1,1 @@
+{"index": 25900, "D": "a sight  on a previously occupied instrument station.", "S": [], "A": []}

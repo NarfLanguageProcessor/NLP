@@ -1,0 +1,1 @@
+{"index": 113631, "D": "a type of firework that makes a loud hissing sound.", "S": [], "A": []}

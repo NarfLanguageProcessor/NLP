@@ -1,0 +1,1 @@
+{"index": 157151, "D": "to turn upside down.", "S": ["upturned "], "A": ["clear ", "methodical ", "ordered ", "organized ", "systematic "]}

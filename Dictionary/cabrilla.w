@@ -1,0 +1,1 @@
+{"index": 44019, "D": "any of several sea basses,  especially the grouper Epinephelus analogus of tropical eastern Pacific seas.", "S": [], "A": []}

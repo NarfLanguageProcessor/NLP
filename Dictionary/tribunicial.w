@@ -1,0 +1,1 @@
+{"index": 329275, "D": "a person who upholds or defends the rights of the people.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308027, "D": "a ratio of algebraic quantities similarly expressed.", "S": [], "A": []}

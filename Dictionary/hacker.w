@@ -1,0 +1,1 @@
+{"index": 131867, "D": "a person or thing that hacks. ", "S": ["operator ", "technician "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 296552, "D": "any of various alloys fused and applied to the joint between metal objects to unite them without heating the objects to the melting point.", "S": [], "A": []}

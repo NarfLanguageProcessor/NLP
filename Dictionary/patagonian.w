@@ -1,0 +1,1 @@
+{"index": 227557, "D": "of or relating to Patagonia or its inhabitants", "S": [], "A": []}

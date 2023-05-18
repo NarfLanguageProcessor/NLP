@@ -1,0 +1,1 @@
+{"index": 313162, "D": "the doctrine that the decree of election preceded human creation and the Fall (opposed to infralapsarianism).", "S": [], "A": []}

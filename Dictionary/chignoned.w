@@ -1,0 +1,1 @@
+{"index": 54263, "D": "a large, smooth twist, roll, or knot of hair, worn by women at the nape of the neck or the back of the head.", "S": [], "A": []}

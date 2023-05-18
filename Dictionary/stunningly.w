@@ -1,0 +1,1 @@
+{"index": 306906, "D": "causing, capable of causing, or liable to cause astonishment, bewilderment, or a loss of consciousness or strength", "S": ["admirably ", "amazingly ", "beautifully ", "extraordinarily ", "magnificently ", "marvelously ", "remarkably ", "spectacularly ", "strikingly "], "A": ["badly ", "poorly "]}

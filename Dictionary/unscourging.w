@@ -1,0 +1,1 @@
+{"index": 350527, "D": "a whip or lash, especially for the infliction of punishment or torture.", "S": [], "A": []}

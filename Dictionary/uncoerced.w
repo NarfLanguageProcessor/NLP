@@ -1,0 +1,1 @@
+{"index": 337154, "D": "forced or compelled through intimidation or authority, especially without regard for individual volition", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259888, "D": "a more or less rigid floating platform made of buoyant material or materials", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 291797, "D": "favoring the left eye, rather than the right, by habit or for effective vision (opposed to dextrocular).", "S": [], "A": []}

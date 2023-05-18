@@ -1,0 +1,1 @@
+{"index": 10304, "D": "a student of America, especially of its history, culture, and geography.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 286051, "D": "to publish in serial  form.", "S": ["ensuing ", "successive "], "A": ["broken ", "discontinuous ", "infrequent ", "intermittent ", "interrupted "]}

@@ -1,0 +1,1 @@
+{"index": 36992, "D": "a person who boats,  especially for pleasure.", "S": ["fedora ", "headgear ", "helmet "], "A": []}

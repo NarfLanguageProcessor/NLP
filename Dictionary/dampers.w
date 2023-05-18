@@ -1,0 +1,1 @@
+{"index": 76629, "D": "a person or thing that damps or depresses", "S": ["chill ", "depressant ", "restraint "], "A": []}

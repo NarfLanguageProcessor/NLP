@@ -1,0 +1,1 @@
+{"index": 100155, "D": "to give energy  to; rouse into activity", "S": ["activation ", "bracing ", "brisk ", "exhilarating ", "invigorating ", "invigoration ", "refreshing ", "reinvigorating ", "renewing ", "restorative ", "stimulating "], "A": ["boring ", "depressing "]}

@@ -1,0 +1,1 @@
+{"index": 274692, "D": "decomposing or decaying; putrid; tainted, foul, or bad-smelling.", "S": [], "A": []}

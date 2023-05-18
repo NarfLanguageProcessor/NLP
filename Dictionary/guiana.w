@@ -1,0 +1,1 @@
+{"index": 131003, "D": "a vast tropical region in northeastern South America, bounded by the Orinoco, Negro, and Amazon rivers and the Atlantic. About 690,000 sq. mi. (1,787,000 sq. km).", "S": [], "A": []}

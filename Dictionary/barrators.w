@@ -1,0 +1,1 @@
+{"index": 28306, "D": "a person who commits barratry.", "S": [], "A": []}

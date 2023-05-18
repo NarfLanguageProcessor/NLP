@@ -1,0 +1,1 @@
+{"index": 167708, "D": "composed of, or arranged in, laminae. ", "S": [], "A": []}

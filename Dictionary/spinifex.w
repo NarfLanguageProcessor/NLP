@@ -1,0 +1,1 @@
+{"index": 299900, "D": "any of several Australian grasses of the genera Spinifex, Plectrachne, or Triodia, having spiny seeds and stiff, sharp-pointed leaves that grow in dense masses.", "S": [], "A": []}

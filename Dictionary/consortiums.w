@@ -1,0 +1,1 @@
+{"index": 66953, "D": [], "S": ["conglomerate ", "corporation ", "gang ", "holding company ", "mob ", "monopoly ", "ring ", "syndicate "], "A": []}

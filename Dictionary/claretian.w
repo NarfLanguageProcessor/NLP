@@ -1,0 +1,1 @@
+{"index": 59291, "D": "a member of the \u201cCongregation of the Missionary Sons of the Immaculate Heart of Mary,\u201d founded in Spain in 1849, and devoted chiefly to missionary work.", "S": [], "A": []}

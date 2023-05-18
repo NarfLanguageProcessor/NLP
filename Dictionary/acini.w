@@ -1,0 +1,1 @@
+{"index": 2526, "D": "one of the small drupelets or berries of an aggregate, baccate fruit, as the blackberry.", "S": [], "A": []}

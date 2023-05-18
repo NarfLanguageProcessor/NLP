@@ -1,0 +1,1 @@
+{"index": 326431, "D": "a tortilla fried until crisp and usually topped with a variety of ingredients, as shredded meat or chicken, refried beans, lettuce, tomatoes, and cheese.", "S": [], "A": []}

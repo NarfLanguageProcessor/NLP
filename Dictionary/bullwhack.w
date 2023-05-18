@@ -1,0 +1,1 @@
+{"index": 42659, "D": "a rawhide whip  having a short handle and a long, plaited lash.", "S": [], "A": []}

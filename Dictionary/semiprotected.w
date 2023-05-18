@@ -1,0 +1,1 @@
+{"index": 284788, "D": "to defend or guard from attack, invasion, loss, annoyance, insult, etc.; cover or shield from injury or danger.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 317374, "D": "a shallow, saucerlike, ornamental bowl, often having handles and usually on a high base or pedestal.", "S": [], "A": []}

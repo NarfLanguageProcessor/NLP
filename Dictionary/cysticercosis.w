@@ -1,0 +1,1 @@
+{"index": 58473, "D": "infestation with the larval form of beef or pork tapeworm, producing fever, malaise, muscle pain, and other symptoms depending on the area of the body affected.", "S": [], "A": []}

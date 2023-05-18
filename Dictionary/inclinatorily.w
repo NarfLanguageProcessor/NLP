@@ -1,0 +1,1 @@
+{"index": 149951, "D": "characterized by inclination.", "S": [], "A": []}

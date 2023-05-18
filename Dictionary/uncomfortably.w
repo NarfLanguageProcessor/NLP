@@ -1,0 +1,1 @@
+{"index": 337273, "D": "causing discomfort or distress; painful; irritating.", "S": ["agonizingly ", "awkwardly ", "disturbingly ", "excruciatingly ", "restlessly ", "uneasily "], "A": []}

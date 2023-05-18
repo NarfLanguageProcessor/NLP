@@ -1,0 +1,1 @@
+{"index": 93270, "D": "a combining form meaning \u201crunning,\u201d \u201ccourse,\u201d \u201cracecourse\u201d (hippodrome); on this model used to form words referring to other large structures (airdrome).", "S": [], "A": []}

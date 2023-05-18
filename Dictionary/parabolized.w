@@ -1,0 +1,1 @@
+{"index": 225379, "D": "to tell or explain in a parable or parables.", "S": [], "A": []}

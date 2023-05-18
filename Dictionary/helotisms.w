@@ -1,0 +1,1 @@
+{"index": 135795, "D": "the state or quality of being a helot; serfdom. ", "S": [], "A": []}

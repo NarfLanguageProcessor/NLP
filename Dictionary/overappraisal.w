@@ -1,0 +1,1 @@
+{"index": 218219, "D": "the act of estimating or judging the nature or value of something or someone.", "S": [], "A": []}

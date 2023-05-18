@@ -1,0 +1,1 @@
+{"index": 65616, "D": "imposing, containing, subject to, or depending on a condition or conditions; not absolute; made or allowed on certain terms", "S": ["limited ", "provisional ", "restrictive ", "tentative "], "A": ["certain ", "definite "]}

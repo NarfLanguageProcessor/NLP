@@ -1,0 +1,1 @@
+{"index": 23298, "D": "a specialist in the treatment of hearing disorders, including evaluation of hearing function and rehabilitation of patients with hearing impairments", "S": [], "A": []}

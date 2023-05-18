@@ -1,0 +1,1 @@
+{"index": 168312, "D": "a small pet dog that can easily be held in the lap.", "S": ["instrument ", "minion ", "puppet ", "small dog ", "teacher's pet "], "A": []}

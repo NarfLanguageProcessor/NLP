@@ -1,0 +1,1 @@
+{"index": 47073, "D": "a method of artificial pollination of fig trees by wasps that prick the buds on branches of the caprifig  that have been hung in trees of the edible fig.", "S": [], "A": []}

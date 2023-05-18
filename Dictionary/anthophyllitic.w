@@ -1,0 +1,1 @@
+{"index": 14436, "D": "a mineral, magnesium-iron silicate, (Mg,Fe)7(Si8O22)(OH)2, occurring in schists in lamellar or fibrous clove-brown crystals.", "S": [], "A": []}

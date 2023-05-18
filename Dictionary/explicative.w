@@ -1,0 +1,1 @@
+{"index": 107853, "D": "explanatory; interpretive.", "S": ["annotative ", "clarifying ", "elucidative ", "exegetic ", "exegetical ", "explanative ", "explicatory ", "expository ", "hermeneutic ", "hermeneutical ", "illustrative ", "informative ", "informing ", "instructive ", "interpretative ", "interpretive "], "A": []}

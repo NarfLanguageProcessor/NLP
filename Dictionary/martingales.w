@@ -1,0 +1,1 @@
+{"index": 180517, "D": "part of the tack or harness of a horse, consisting of a strap that fastens to the girth, passes between the forelegs and through a loop in the neckstrap or hame, and fastens to the noseband", "S": [], "A": []}

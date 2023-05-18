@@ -1,0 +1,1 @@
+{"index": 177052, "D": "very large in scale, scope, or capability.", "S": ["big ", "large ", "large-scale "], "A": ["micro ", "small ", "small-scale ", "tiny "]}

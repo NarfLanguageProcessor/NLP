@@ -1,0 +1,1 @@
+{"index": 343204, "D": "discourteous; ill-mannered", "S": ["inhospitableness ", "inhospitality ", "repellent ", "undesirable "], "A": []}

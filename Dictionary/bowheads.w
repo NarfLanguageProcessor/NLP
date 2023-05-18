@@ -1,0 +1,1 @@
+{"index": 39183, "D": "a baleen whale, Balaena mysticetus, of northern seas, having an enormous head and mouth", "S": [], "A": []}

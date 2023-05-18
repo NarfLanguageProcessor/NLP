@@ -1,0 +1,1 @@
+{"index": 343061, "D": "the measure around anything; circumference.", "S": [], "A": []}

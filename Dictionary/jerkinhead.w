@@ -1,0 +1,1 @@
+{"index": 160937, "D": "a roof having a hipped end truncating a gable.", "S": [], "A": []}

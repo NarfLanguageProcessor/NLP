@@ -1,0 +1,1 @@
+{"index": 64551, "D": "of, pertaining to, involving, or decided by competition", "S": ["aggressive ", "ambitious ", "competing ", "cutthroat ", "vying "], "A": ["unambitious "]}

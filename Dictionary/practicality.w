@@ -1,0 +1,1 @@
+{"index": 245082, "D": "the quality of being adapted or designed for actual use; usefulness or convenience", "S": ["common-sense "], "A": ["impracticality "]}

@@ -1,0 +1,1 @@
+{"index": 288945, "D": "trousers reaching the top of the thigh or partway to the knee, worn by both sexes for sport, relaxing in summer, etc", "S": ["boxers ", "briefs ", "drawers ", "underpants ", "undershorts ", "underwear "], "A": []}

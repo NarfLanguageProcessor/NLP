@@ -1,0 +1,1 @@
+{"index": 356724, "D": "to make valid;  substantiate; confirm", "S": ["accepted ", "allowed ", "authorized ", "backed ", "endorsed ", "passed ", "permitted ", "ratified ", "recognized ", "sanctioned ", "supported "], "A": ["disapproved ", "refused ", "uncertain "]}

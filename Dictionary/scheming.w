@@ -1,0 +1,1 @@
+{"index": 280113, "D": "given to making plans, especially sly and underhand ones; crafty.", "S": ["calculating ", "conniving ", "crafty ", "duplicitous ", "wily "], "A": ["naive "]}

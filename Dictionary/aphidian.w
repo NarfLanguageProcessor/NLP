@@ -1,0 +1,1 @@
+{"index": 16832, "D": "any of numerous tiny soft-bodied insects of the family Aphididae of worldwide distribution, that suck the sap from the stems and leaves of various plants, some developing wings when overcrowding occurs", "S": [], "A": []}

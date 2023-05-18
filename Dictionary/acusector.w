@@ -1,0 +1,1 @@
+{"index": 3368, "D": "a needle for cutting tissue by means of a high-frequency electric current.", "S": [], "A": []}

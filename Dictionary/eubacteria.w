@@ -1,0 +1,1 @@
+{"index": 105253, "D": "spherical or rod-shaped bacteria  of the order Eubacteriales, characterized by simple, undifferentiated cells with rigid walls.", "S": [], "A": []}

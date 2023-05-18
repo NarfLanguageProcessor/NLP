@@ -1,0 +1,1 @@
+{"index": 157360, "D": "the use of or the act of making images of people, animals, etc, for witchcraft", "S": [], "A": []}

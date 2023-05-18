@@ -1,0 +1,1 @@
+{"index": 112455, "D": "of or resembling clay", "S": [], "A": []}

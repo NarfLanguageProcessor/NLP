@@ -1,0 +1,1 @@
+{"index": 150841, "D": "not determinate; not precisely fixed in extent; indefinite; uncertain.", "S": ["extremely ", "remarkably ", "unusually ", "very "], "A": []}

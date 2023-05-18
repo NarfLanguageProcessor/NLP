@@ -1,0 +1,1 @@
+{"index": 296866, "D": "Athenian statesman.", "S": ["buff ", "cognoscenti ", "expert ", "intellectual ", "philosopher ", "professor ", "scholar ", "thinker "], "A": ["ignoramus "]}

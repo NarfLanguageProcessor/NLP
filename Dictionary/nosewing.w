@@ -1,0 +1,1 @@
+{"index": 208712, "D": "the flared portion of each side of the nose;  a nasal ala.", "S": [], "A": []}

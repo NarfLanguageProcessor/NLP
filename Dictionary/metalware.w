@@ -1,0 +1,1 @@
+{"index": 184790, "D": "work of metal,  especially utensils, flatware, etc.", "S": ["housewares ", "plumbing "], "A": []}

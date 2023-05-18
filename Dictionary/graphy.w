@@ -1,0 +1,1 @@
+{"index": 129070, "D": "a combining form denoting a process or form of drawing, writing, representing, recording, describing, etc., or an art or science concerned with such a process", "S": [], "A": []}

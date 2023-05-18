@@ -1,0 +1,1 @@
+{"index": 190582, "D": "the god of light and truth, later of the sun.", "S": [], "A": []}

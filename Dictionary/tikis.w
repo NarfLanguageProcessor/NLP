@@ -1,0 +1,1 @@
+{"index": 323525, "D": "(in Polynesian mythology) the first man on earth.", "S": [], "A": []}

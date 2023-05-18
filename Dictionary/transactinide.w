@@ -1,0 +1,1 @@
+{"index": 327666, "D": "any artificially produced element with an atomic number greater than 103", "S": [], "A": []}

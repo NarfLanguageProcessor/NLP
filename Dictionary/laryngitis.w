@@ -1,0 +1,1 @@
+{"index": 168562, "D": "inflammation of the larynx,  often with accompanying sore throat, hoarseness or loss of voice, and dry cough.", "S": [], "A": []}

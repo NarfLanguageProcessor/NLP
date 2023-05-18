@@ -1,0 +1,1 @@
+{"index": 188080, "D": "a pert, impudent, or flirtatious girl.", "S": [], "A": []}

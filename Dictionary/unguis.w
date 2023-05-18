@@ -1,0 +1,1 @@
+{"index": 343387, "D": "a nail, claw, or hoof.", "S": ["fingernail ", "paw ", "tentacle "], "A": []}

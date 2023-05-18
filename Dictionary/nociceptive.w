@@ -1,0 +1,1 @@
+{"index": 200601, "D": "causing or reacting to pain", "S": [], "A": []}

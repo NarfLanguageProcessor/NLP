@@ -1,0 +1,1 @@
+{"index": 88992, "D": "to drive or send off in various directions; scatter", "S": ["dissolved "], "A": []}

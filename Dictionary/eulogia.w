@@ -1,0 +1,1 @@
+{"index": 105486, "D": "blessed bread given to the congregation during vespers or at the end of the liturgy.", "S": [], "A": []}

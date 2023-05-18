@@ -1,0 +1,1 @@
+{"index": 14630, "D": "the science dealing with the laws regulating the development of the human organism in relation to other organisms and to environment.", "S": [], "A": []}

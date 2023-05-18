@@ -1,0 +1,1 @@
+{"index": 36318, "D": "blitz (defs. 1, 2, 5). ", "S": ["assault ", "attack ", "blitz ", "bombardment ", "offensive ", "onslaught ", "raid ", "rush "], "A": ["defense ", "protection "]}

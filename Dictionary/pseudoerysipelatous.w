@@ -1,0 +1,1 @@
+{"index": 254714, "D": "an acute, febrile infectious disease, caused by a specific streptococcus, characterized by diffusely spreading deep-red inflammation of the skin or mucous membranes.", "S": [], "A": []}

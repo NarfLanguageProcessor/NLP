@@ -1,0 +1,1 @@
+{"index": 77710, "D": "lowered in quality, character, or value", "S": [], "A": []}

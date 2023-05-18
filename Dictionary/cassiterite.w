@@ -1,0 +1,1 @@
+{"index": 49002, "D": "a brown or black mineral, tin dioxide, SnO2, that crystallizes in the tetragonal system; tinstone", "S": [], "A": []}

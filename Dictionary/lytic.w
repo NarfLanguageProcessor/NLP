@@ -1,0 +1,1 @@
+{"index": 173818, "D": "of, noting, or pertaining to lysis or a lysin.", "S": [], "A": []}

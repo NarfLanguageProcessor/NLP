@@ -1,0 +1,1 @@
+{"index": 323481, "D": "a rope  or wire cable, stretched tight,  on which acrobats perform feats of balancing.", "S": [], "A": []}

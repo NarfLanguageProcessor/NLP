@@ -1,0 +1,1 @@
+{"index": 166690, "D": "to make or become labiovelar. ", "S": [], "A": []}

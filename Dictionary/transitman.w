@@ -1,0 +1,1 @@
+{"index": 328003, "D": "a person who makes observations with a transit. ", "S": [], "A": []}

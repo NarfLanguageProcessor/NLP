@@ -1,0 +1,1 @@
+{"index": 162453, "D": "of or relating to the administration of justice.", "S": ["constitutionally ", "justly ", "lawfully ", "legitimately "], "A": ["illegally ", "illicitly ", "unlawfully "]}

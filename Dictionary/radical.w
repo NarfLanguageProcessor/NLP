@@ -1,0 +1,1 @@
+{"index": 259562, "D": "of or going to the root or origin; fundamental", "S": ["profound "], "A": ["inessential ", "minor ", "secondary ", "unimportant "]}

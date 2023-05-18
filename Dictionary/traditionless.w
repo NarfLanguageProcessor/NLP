@@ -1,0 +1,1 @@
+{"index": 327289, "D": "the handing down of statements, beliefs, legends, customs, information, etc., from generation to generation, especially by word of mouth or by practice", "S": [], "A": []}

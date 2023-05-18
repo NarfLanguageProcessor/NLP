@@ -1,0 +1,1 @@
+{"index": 19961, "D": "the caterpillar of a noctuid moth, Pseudaletia unipuncta, that often travels in large numbers over a region, destroying crops of wheat, corn, etc.", "S": [], "A": []}

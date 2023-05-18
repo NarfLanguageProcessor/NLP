@@ -1,0 +1,1 @@
+{"index": 272965, "D": "the outer edge, border, margin, or brink of something, especially of a circular object.", "S": [], "A": []}

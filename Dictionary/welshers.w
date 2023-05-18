@@ -1,0 +1,1 @@
+{"index": 364081, "D": "to cheat by failing to pay a gambling debt", "S": ["borrower ", "defaulter "], "A": ["creditor ", "lender ", "mortgagee "]}

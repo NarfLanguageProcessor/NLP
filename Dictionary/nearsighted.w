@@ -1,0 +1,1 @@
+{"index": 197621, "D": "seeing distinctly at a short distance only; myopic.", "S": ["shortsighted "], "A": []}

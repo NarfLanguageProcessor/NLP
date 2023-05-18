@@ -1,0 +1,1 @@
+{"index": 343116, "D": "delightful; wonderful; completely enjoyable", "S": [], "A": []}

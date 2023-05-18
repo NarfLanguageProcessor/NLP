@@ -1,0 +1,1 @@
+{"index": 222866, "D": "any of several trees belonging to the genus Pterocarpus, of the legume family, native to tropical Asia and Africa, having reddish striped or mottled wood used for paneling, furniture, etc.", "S": [], "A": []}

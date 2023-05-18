@@ -1,0 +1,1 @@
+{"index": 34158, "D": "consisting of, indicating, or involving two.", "S": ["double "], "A": ["lone ", "single ", "singular "]}

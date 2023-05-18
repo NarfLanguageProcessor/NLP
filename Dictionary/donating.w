@@ -1,0 +1,1 @@
+{"index": 91385, "D": "to present as a gift, grant, or contribution; make a donation  of, as to a fund or cause", "S": ["altruistic ", "humanitarian ", "patriotic "], "A": ["misanthropic ", "miserly ", "stingy ", "uncharitable "]}

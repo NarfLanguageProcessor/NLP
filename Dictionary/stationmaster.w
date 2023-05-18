@@ -1,0 +1,1 @@
+{"index": 303099, "D": "a person in charge of a railroad station; station agent. ", "S": [], "A": []}

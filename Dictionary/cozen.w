@@ -1,0 +1,1 @@
+{"index": 71738, "D": "to cheat, deceive, or trick.", "S": ["bamboozle ", "beguile ", "bilk ", "cheat ", "chisel ", "con ", "defraud ", "dupe ", "gyp ", "hoodwink ", "swindle ", "trick "], "A": ["give "]}

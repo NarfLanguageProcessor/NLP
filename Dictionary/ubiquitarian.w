@@ -1,0 +1,1 @@
+{"index": 333580, "D": "of or relating to the doctrine, especially as advocated by Luther, that the body of Christ is omnipresent and therefore exists in the Eucharistic bread.", "S": [], "A": []}

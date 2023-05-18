@@ -1,0 +1,1 @@
+{"index": 239338, "D": "noting or pertaining to a 16th-century style of Spanish architecture characterized by profuse applications of delicate low-relief Renaissance ornament to isolated parts of building exteriors.", "S": [], "A": []}

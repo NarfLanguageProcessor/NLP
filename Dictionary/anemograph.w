@@ -1,0 +1,1 @@
+{"index": 12510, "D": "a recording anemometer.", "S": ["anemometer ", "wind cone ", "wind sleeve ", "windsock "], "A": []}

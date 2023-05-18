@@ -1,0 +1,1 @@
+{"index": 149277, "D": "not pure; mixed with extraneous matter, especially of an inferior or contaminating nature", "S": ["unclean "], "A": ["chaste ", "clean ", "impeccable ", "pure ", "sterile "]}

@@ -1,0 +1,1 @@
+{"index": 85137, "D": "Compare mimesis (def. 2b). ", "S": [], "A": []}

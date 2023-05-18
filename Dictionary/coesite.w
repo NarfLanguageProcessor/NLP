@@ -1,0 +1,1 @@
+{"index": 62064, "D": "a rare form of silicon dioxide, a denser polymorph of quartz, originally synthesized from quartz at high temperatures and pressures", "S": [], "A": []}

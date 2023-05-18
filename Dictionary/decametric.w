@@ -1,0 +1,1 @@
+{"index": 77985, "D": "(of a radio wave) having a wavelength between 10 and 100 meters", "S": [], "A": []}

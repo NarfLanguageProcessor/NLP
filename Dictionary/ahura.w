@@ -1,0 +1,1 @@
+{"index": 6679, "D": "generic title for benevolent deities in Zoroastrianism or evil deities in Hinduism.", "S": [], "A": []}

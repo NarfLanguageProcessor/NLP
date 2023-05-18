@@ -1,0 +1,1 @@
+{"index": 53310, "D": "a member of a Sunni Muslim people living in the Chechen-Ingush Autonomous Republic  and adjacent areas, closely related to the Ingush.", "S": [], "A": []}

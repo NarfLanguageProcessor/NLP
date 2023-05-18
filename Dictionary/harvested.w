@@ -1,0 +1,1 @@
+{"index": 134047, "D": "the gathering of crops.", "S": ["accumulated ", "collected ", "concentrated ", "huddled ", "massed ", "reunited "], "A": ["separated "]}

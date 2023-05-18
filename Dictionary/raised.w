@@ -1,0 +1,1 @@
+{"index": 260136, "D": "fashioned or made as a surface design in relief.", "S": ["constructed ", "heightened ", "lifted "], "A": ["lowered ", "reduced ", "taken down "]}

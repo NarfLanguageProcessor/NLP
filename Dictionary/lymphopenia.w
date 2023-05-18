@@ -1,0 +1,1 @@
+{"index": 172593, "D": "a reduction in the number of lymphocytes in the blood.", "S": [], "A": []}

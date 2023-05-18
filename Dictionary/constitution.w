@@ -1,0 +1,1 @@
+{"index": 67049, "D": "the system of fundamental principles according to which a nation, state, corporation, or the like, is governed.", "S": ["nature ", "structure "], "A": ["disarrangement ", "disorganization "]}

@@ -1,0 +1,1 @@
+{"index": 44705, "D": "a card game for three persons that is played with a 40-card pack made by removing the eights, nines, and tens from a regular 52-card pack.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 269900, "D": "the refreshing quiet or repose of sleep", "S": [], "A": []}

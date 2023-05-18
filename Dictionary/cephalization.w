@@ -1,0 +1,1 @@
+{"index": 51117, "D": "a tendency in the development of animals to localization of important organs or parts in or near the head.", "S": [], "A": []}

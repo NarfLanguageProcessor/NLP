@@ -1,0 +1,1 @@
+{"index": 258884, "D": "a sextant having an arc equal to one fifth of a circle.", "S": [], "A": []}

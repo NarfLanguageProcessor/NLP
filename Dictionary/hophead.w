@@ -1,0 +1,1 @@
+{"index": 143687, "D": "a person addicted to narcotics, especially opium.", "S": ["addict ", "drug user ", "junkie ", "user "], "A": []}

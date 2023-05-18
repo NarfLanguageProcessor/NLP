@@ -1,0 +1,1 @@
+{"index": 113127, "D": "the box  or chamber containing the fire  of a steam boiler, furnace, etc.", "S": [], "A": []}

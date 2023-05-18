@@ -1,0 +1,1 @@
+{"index": 141259, "D": "of or relating to a hypothec. ", "S": [], "A": []}

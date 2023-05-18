@@ -1,0 +1,1 @@
+{"index": 167079, "D": "a combining form meaning \u201cmilk,\u201d used in the formation of compound words (lactometer); specialized in chemical terminology to mean \u201clactate,\u201d or \u201clactic acid.\u201d", "S": [], "A": []}

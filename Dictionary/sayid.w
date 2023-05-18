@@ -1,0 +1,1 @@
+{"index": 276764, "D": "(in Islamic countries) a supposed descendant of Muhammad through his grandson Hussein, the second son of his daughter Fatima.", "S": [], "A": []}

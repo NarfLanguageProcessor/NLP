@@ -1,0 +1,1 @@
+{"index": 289850, "D": "to strike with a sweeping stroke or blow along the side;  strike a glancing blow obliquely.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 290463, "D": "to form or divide into syllables. ", "S": [], "A": []}

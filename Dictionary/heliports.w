@@ -1,0 +1,1 @@
+{"index": 135636, "D": "a landing place for helicopters, often on the roof of a building or in some other limited area.", "S": ["airfield ", "airstrip ", "installation ", "runway "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 324722, "D": "any of several small, larklike birds, especially a pipit.", "S": [], "A": []}

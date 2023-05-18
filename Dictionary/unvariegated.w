@@ -1,0 +1,1 @@
+{"index": 353672, "D": "varied in appearance or color; marked with patches or spots of different colors.", "S": [], "A": []}

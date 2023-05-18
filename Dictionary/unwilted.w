@@ -1,0 +1,1 @@
+{"index": 354248, "D": [], "S": ["crispy ", "crumbly ", "crusty ", "fresh ", "plump "], "A": ["flexible ", "pliable ", "soft "]}

@@ -1,0 +1,1 @@
+{"index": 111381, "D": "the act or process of fermenting. ", "S": ["agitation ", "dissolving ", "ebullition ", "evaporation ", "leavening ", "souring ", "turbulence "], "A": []}

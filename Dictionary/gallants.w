@@ -1,0 +1,1 @@
+{"index": 121307, "D": "brave, spirited, noble-minded, or chivalrous", "S": ["adulterer ", "chaser ", "cruiser ", "dallier ", "debaucher ", "flirt ", "gallant ", "lover ", "operator ", "swinger "], "A": ["faithful "]}

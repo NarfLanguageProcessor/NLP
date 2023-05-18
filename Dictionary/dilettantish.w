@@ -1,0 +1,1 @@
+{"index": 85735, "D": "a person who takes up an art, activity, or subject merely for amusement, especially in a desultory or superficial way; dabbler.", "S": ["dilettante ", "inexperienced ", "inexpert ", "nonprofessional ", "sciolistic ", "unskilled ", "unskillful "], "A": []}

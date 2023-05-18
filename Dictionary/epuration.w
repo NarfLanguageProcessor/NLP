@@ -1,0 +1,1 @@
+{"index": 103146, "D": "a purification or purge, as of government officials considered disloyal or treacherous.", "S": [], "A": []}

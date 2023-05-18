@@ -1,0 +1,1 @@
+{"index": 335468, "D": "to be of use or value to; profit; advantage", "S": [], "A": []}

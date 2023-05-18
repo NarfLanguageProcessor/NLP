@@ -1,0 +1,1 @@
+{"index": 275513, "D": "rambunctious. ", "S": ["boisterous ", "fierce ", "hectic ", "raucous ", "riotous ", "stormy ", "turbulent ", "violent "], "A": ["calm ", "gentle ", "mild ", "moderate ", "peaceful ", "quiet "]}

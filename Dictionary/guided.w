@@ -1,0 +1,1 @@
+{"index": 131023, "D": "accompanied by a guide", "S": ["conducted "], "A": ["vagrant ", "wandering "]}

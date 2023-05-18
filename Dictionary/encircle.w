@@ -1,0 +1,1 @@
+{"index": 99367, "D": "to form a circle  around; surround; encompass", "S": ["enclose ", "encompass ", "envelop ", "hem in ", "surround "], "A": ["free ", "let go ", "release "]}

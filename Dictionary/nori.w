@@ -1,0 +1,1 @@
+{"index": 208513, "D": "a seaweed having a mildly sweet, salty taste, usually dried, used in Japanese cuisine mainly as a wrap for sushi.", "S": [], "A": []}

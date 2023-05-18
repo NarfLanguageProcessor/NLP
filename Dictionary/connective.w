@@ -1,0 +1,1 @@
+{"index": 66513, "D": "serving or tending to connect", "S": ["combinable ", "combinative ", "combinatorial ", "conjoining ", "conjugable ", "conjugative ", "conjunctional ", "connectional "], "A": []}

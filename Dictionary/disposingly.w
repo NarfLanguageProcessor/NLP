@@ -1,0 +1,1 @@
+{"index": 89143, "D": "to give a tendency or inclination to; incline", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 170208, "D": "a globulin obtained from the seeds of leguminous and other plants.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 296979, "D": "the branch of anthropology that deals with human physical characteristics.", "S": ["anthropogeny ", "anthropography ", "biological anthropology ", "human geography "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 338309, "D": "capable of being cured. ", "S": [], "A": []}

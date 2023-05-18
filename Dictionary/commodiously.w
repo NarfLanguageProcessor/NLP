@@ -1,0 +1,1 @@
+{"index": 64146, "D": "spacious and convenient; roomy", "S": ["broadly ", "chiefly ", "generally ", "mostly ", "predominantly ", "principally ", "widely "], "A": []}

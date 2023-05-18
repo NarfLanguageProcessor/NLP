@@ -1,0 +1,1 @@
+{"index": 50151, "D": "a horseman, especially a mounted soldier; knight.", "S": ["admirer ", "beau ", "boyfriend ", "lover ", "paramour "], "A": ["enemy ", "girlfriend "]}

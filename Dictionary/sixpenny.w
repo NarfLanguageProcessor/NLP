@@ -1,0 +1,1 @@
+{"index": 292724, "D": "of the amount or value of sixpence; costing sixpence.", "S": [], "A": []}

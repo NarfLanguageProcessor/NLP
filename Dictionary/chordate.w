@@ -1,0 +1,1 @@
+{"index": 55733, "D": "belonging or pertaining to the phylum Chordata, comprising animals having a notochord, as the lancelets and tunicates, as well as all the true vertebrates, including fish, amphibians, reptiles, birds, and mammals.", "S": [], "A": []}

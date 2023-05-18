@@ -1,0 +1,1 @@
+{"index": 259411, "D": "racism. ", "S": ["biased ", "bigoted ", "dictatorial ", "disdainful ", "dogmatic ", "fanatical ", "fractious ", "hateful ", "indignant ", "irritable ", "racist ", "xenophobic "], "A": ["fair ", "impartial "]}

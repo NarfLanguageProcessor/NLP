@@ -1,0 +1,1 @@
+{"index": 244299, "D": "existing or taking place after the menopause", "S": [], "A": []}

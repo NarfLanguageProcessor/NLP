@@ -1,0 +1,1 @@
+{"index": 170040, "D": "an ecclesiastic delegated by the pope as his representative.", "S": [], "A": []}

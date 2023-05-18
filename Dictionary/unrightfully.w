@@ -1,0 +1,1 @@
+{"index": 349958, "D": "having a valid or just claim, as to some property or position; legitimate", "S": [], "A": []}

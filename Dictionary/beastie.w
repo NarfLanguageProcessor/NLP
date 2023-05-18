@@ -1,0 +1,1 @@
+{"index": 29574, "D": "a small animal, especially one toward which affection is felt.", "S": ["animal ", "creature ", "wild animal "], "A": []}

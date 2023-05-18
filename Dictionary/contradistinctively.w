@@ -1,0 +1,1 @@
+{"index": 67625, "D": "distinction by opposition or contrast", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 231878, "D": "the act of persecuting. ", "S": [], "A": []}

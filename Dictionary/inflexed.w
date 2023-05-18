@@ -1,0 +1,1 @@
+{"index": 152131, "D": "inflected; bent or folded downward or inward", "S": [], "A": []}

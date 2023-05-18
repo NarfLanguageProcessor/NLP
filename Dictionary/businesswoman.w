@@ -1,0 +1,1 @@
+{"index": 43491, "D": "a woman regularly employed in business,  especially a white-collar worker, executive, or owner.", "S": ["baron ", "businessman ", "capitalist ", "dealer ", "employer ", "entrepreneur ", "executive ", "financier ", "industrialist ", "manager ", "merchandiser ", "merchant ", "operator ", "storekeeper ", "suit ", "trafficker ", "tycoon "], "A": ["customer "]}

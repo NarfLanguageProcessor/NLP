@@ -1,0 +1,1 @@
+{"index": 195783, "D": "any of several small, chunky diving birds of the family Alcidae, of North Pacific coasts.", "S": [], "A": []}

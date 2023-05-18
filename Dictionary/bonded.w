@@ -1,0 +1,1 @@
+{"index": 37800, "D": "secured by or consisting of bonds", "S": ["secured "], "A": ["free ", "liberated ", "uncertain "]}

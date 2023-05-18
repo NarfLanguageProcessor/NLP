@@ -1,0 +1,1 @@
+{"index": 72120, "D": "ill-tempered; grouchy; cross", "S": ["cantankerous ", "grouchy ", "grumpy ", "irascible ", "irritable ", "ornery ", "ugly "], "A": ["cheerful ", "happy ", "nice ", "pleasant "]}

@@ -1,0 +1,1 @@
+{"index": 10195, "D": "a migratory, ameboid cell found in many invertebrates that functions in excretion, assimilation, etc.", "S": [], "A": []}

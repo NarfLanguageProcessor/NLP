@@ -1,0 +1,1 @@
+{"index": 15381, "D": "a fit of uncontrollable laughter or weeping; hysteria. ", "S": [], "A": []}

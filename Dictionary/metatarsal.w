@@ -1,0 +1,1 @@
+{"index": 185026, "D": "of or relating to the metatarsus,  the part of the foot that includes the bones between the ankle and toes.", "S": [], "A": []}

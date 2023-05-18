@@ -1,0 +1,1 @@
+{"index": 199603, "D": "German Nikolaus von Cusa. ", "S": [], "A": []}

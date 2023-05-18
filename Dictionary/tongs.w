@@ -1,0 +1,1 @@
+{"index": 325537, "D": "any of various implements consisting of two arms hinged, pivoted, or otherwise fastened together, for seizing, holding, or lifting something (usually used with pair of).", "S": ["forceps ", "pliers "], "A": []}

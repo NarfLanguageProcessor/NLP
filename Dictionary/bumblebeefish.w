@@ -1,0 +1,1 @@
+{"index": 42701, "D": "any of several gobies of the genus Brachygobius, inhabiting waters of the Malay Archipelago and having brown and yellow bands on the body that resemble the markings of a bumblebee. ", "S": [], "A": []}

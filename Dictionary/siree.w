@@ -1,0 +1,1 @@
+{"index": 292320, "D": "(used as an intensive with no or yes)", "S": [], "A": []}

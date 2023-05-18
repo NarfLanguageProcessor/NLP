@@ -1,0 +1,1 @@
+{"index": 111323, "D": "a companion; mate.", "S": [], "A": []}

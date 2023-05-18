@@ -1,0 +1,1 @@
+{"index": 226887, "D": "an opera (composed 1877\u201382; premiere 1882) by Richard Wagner.", "S": [], "A": []}

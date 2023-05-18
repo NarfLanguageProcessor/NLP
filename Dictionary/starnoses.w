@@ -1,0 +1,1 @@
+{"index": 302929, "D": "a North American mole, Condylura cristata, having a starlike ring of fleshy processes around the end of the snout.", "S": [], "A": []}

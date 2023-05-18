@@ -1,0 +1,1 @@
+{"index": 162086, "D": "of or relating to judgment or the administration of justice; judiciary", "S": ["authority ", "due process ", "honesty ", "integrity ", "law ", "right ", "truth "], "A": ["corruption ", "dishonesty ", "falsehood ", "award ", "penalty ", "refusal ", "reward "]}

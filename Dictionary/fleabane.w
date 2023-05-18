@@ -1,0 +1,1 @@
+{"index": 114286, "D": "any of various composite plants, as Pulicaria dysenterica, of Europe, or Erigeron philadelphicus, of the U.S., reputed to destroy or drive away fleas. ", "S": [], "A": []}

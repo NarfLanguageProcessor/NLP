@@ -1,0 +1,1 @@
+{"index": 226061, "D": "a portion of the Torah chanted or read each week in the synagogue on the Sabbath.", "S": [], "A": []}

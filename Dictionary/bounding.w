@@ -1,0 +1,1 @@
+{"index": 38976, "D": "simple past tense and past participle of bind. ", "S": ["adjacent ", "adjoining ", "neighboring "], "A": ["detached ", "separate "]}

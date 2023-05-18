@@ -1,0 +1,1 @@
+{"index": 74781, "D": "deserving blame or censure; blameworthy.", "S": ["guilty ", "impeachable ", "liable ", "reprehensible ", "responsible "], "A": ["immune ", "irresponsible "]}

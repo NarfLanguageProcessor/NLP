@@ -1,0 +1,1 @@
+{"index": 293916, "D": "a person who walks, eats, or performs other motor acts while asleep and is unaware of doing so upon awakening; a person with a disorder characterized by this", "S": [], "A": []}

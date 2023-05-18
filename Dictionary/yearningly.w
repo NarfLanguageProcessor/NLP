@@ -1,0 +1,1 @@
+{"index": 146730, "D": "deep longing, especially when accompanied by tenderness or sadness", "S": ["affectionately "], "A": ["hatefully "]}

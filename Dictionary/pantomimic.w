@@ -1,0 +1,1 @@
+{"index": 225007, "D": "the art or technique of conveying emotions, actions, feelings, etc., by gestures without speech.", "S": [], "A": []}

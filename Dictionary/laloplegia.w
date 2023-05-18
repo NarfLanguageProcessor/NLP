@@ -1,0 +1,1 @@
+{"index": 167542, "D": "paralysis of the speech organs in which the tongue is not affected.", "S": [], "A": []}

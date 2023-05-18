@@ -1,0 +1,1 @@
+{"index": 158986, "D": "having or pertaining to equal angles.", "S": [], "A": []}

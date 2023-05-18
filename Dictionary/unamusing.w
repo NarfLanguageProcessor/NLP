@@ -1,0 +1,1 @@
+{"index": 334938, "D": "pleasantly entertaining or diverting", "S": ["dangerous ", "deep ", "difficult ", "far-reaching ", "grievous ", "important ", "major ", "meaningful ", "severe ", "significant ", "tough ", "urgent "], "A": ["calm ", "easy ", "facile ", "friendly ", "insignificant ", "little ", "meaningless ", "minor ", "small ", "trivial ", "unimportant ", "worthless "]}

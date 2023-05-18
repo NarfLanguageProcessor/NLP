@@ -1,0 +1,1 @@
+{"index": 155054, "D": "the state or quality of being independent. ", "S": [], "A": []}

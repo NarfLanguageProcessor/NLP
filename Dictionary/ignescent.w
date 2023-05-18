@@ -1,0 +1,1 @@
+{"index": 147030, "D": "emitting sparks of fire, as certain stones when struck with steel.", "S": [], "A": []}

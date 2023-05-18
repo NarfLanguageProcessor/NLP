@@ -1,0 +1,1 @@
+{"index": 69023, "D": "the central part of a fleshy fruit, containing the seeds.", "S": [], "A": []}

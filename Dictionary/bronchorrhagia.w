@@ -1,0 +1,1 @@
+{"index": 41409, "D": "hemorrhage from the bronchial tubes.", "S": [], "A": []}

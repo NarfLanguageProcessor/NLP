@@ -1,0 +1,1 @@
+{"index": 78620, "D": "to separate or resolve into constituent parts or elements; disintegrate", "S": ["decaying ", "destructible ", "easily spoiled ", "short-lived ", "unstable "], "A": ["continuation ", "endurance "]}

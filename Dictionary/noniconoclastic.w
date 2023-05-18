@@ -1,0 +1,1 @@
+{"index": 204495, "D": "attacking or ignoring cherished beliefs and long-held traditions, etc., as being based on error, superstition, or lack of creativity", "S": [], "A": []}

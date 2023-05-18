@@ -1,0 +1,1 @@
+{"index": 357821, "D": "An extensive, treeless grassland of southern Africa.", "S": ["pasture ", "plain ", "prairie ", "savanna ", "steppe "], "A": []}

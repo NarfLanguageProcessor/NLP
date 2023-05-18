@@ -1,0 +1,1 @@
+{"index": 172214, "D": "a paper money, aluminum coin, and monetary unit of the Democratic Republic of the Congo, one 100th of a zaire.", "S": [], "A": []}

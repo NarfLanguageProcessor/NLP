@@ -1,0 +1,1 @@
+{"index": 39696, "D": "to weave together strips or strands of; plait", "S": ["pigtail ", "ponytail "], "A": []}

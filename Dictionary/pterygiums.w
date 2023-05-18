@@ -1,0 +1,1 @@
+{"index": 255696, "D": "an abnormal triangular mass of thickened conjunctiva extending over the cornea and interfering with vision.", "S": [], "A": []}

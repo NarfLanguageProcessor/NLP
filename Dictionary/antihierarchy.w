@@ -1,0 +1,1 @@
+{"index": 15362, "D": "any system of persons or things ranked one above another.", "S": [], "A": []}

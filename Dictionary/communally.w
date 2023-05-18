@@ -1,0 +1,1 @@
+{"index": 64229, "D": "used or shared in common by everyone in a group", "S": ["all at once ", "as a body ", "as a group ", "as a whole ", "as one ", "collectively ", "cooperatively ", "en bloc ", "ensemble ", "in a group ", "in chorus ", "in unison ", "jointly ", "together ", "unanimously ", "unitedly ", "wholly ", "with one voice "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 250946, "D": "the act of amending  or the state of being amended. ", "S": [], "A": []}

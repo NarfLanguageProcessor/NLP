@@ -1,0 +1,1 @@
+{"index": 357008, "D": "the amount carried by a van. ", "S": [], "A": []}

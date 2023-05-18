@@ -1,0 +1,1 @@
+{"index": 190591, "D": "to induce a state of mithridatism  in (a person).", "S": [], "A": []}

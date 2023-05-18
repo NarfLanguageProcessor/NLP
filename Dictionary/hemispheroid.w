@@ -1,0 +1,1 @@
+{"index": 136294, "D": "half of a spheroid. ", "S": [], "A": []}

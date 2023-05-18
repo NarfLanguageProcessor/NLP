@@ -1,0 +1,1 @@
+{"index": 304760, "D": "to paint, engrave, or draw by means of dots or small touches.", "S": [], "A": []}

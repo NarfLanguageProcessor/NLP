@@ -1,0 +1,1 @@
+{"index": 214438, "D": "pertaining to or noting an organic compound, especially an organic halide, containing magnesium  linked to carbon.", "S": [], "A": []}

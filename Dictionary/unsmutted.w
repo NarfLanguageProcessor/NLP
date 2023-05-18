@@ -1,0 +1,1 @@
+{"index": 351442, "D": "a particle of soot; sooty matter.", "S": [], "A": []}

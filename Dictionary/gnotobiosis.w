@@ -1,0 +1,1 @@
+{"index": 127152, "D": "an environmental condition in which germfree animals have been inoculated with strains of known microorganisms.", "S": [], "A": []}

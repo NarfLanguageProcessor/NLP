@@ -1,0 +1,1 @@
+{"index": 86765, "D": "to manage or guide by advice, helpful information, instruction, etc.", "S": ["bureaucratic ", "departmental ", "governmental ", "legislative ", "managerial ", "organizational ", "policy-making ", "regulatory ", "supervisory "], "A": []}

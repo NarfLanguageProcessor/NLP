@@ -1,0 +1,1 @@
+{"index": 25074, "D": "a defect of vision in which the retina fails to respond to yellow.", "S": [], "A": []}

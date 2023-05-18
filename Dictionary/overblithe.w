@@ -1,0 +1,1 @@
+{"index": 218361, "D": "without thought or regard; carefree; heedless", "S": [], "A": []}

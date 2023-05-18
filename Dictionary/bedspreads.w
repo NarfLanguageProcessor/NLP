@@ -1,0 +1,1 @@
+{"index": 30223, "D": "an outer covering, usually decorative, for a bed. ", "S": ["bedcover ", "blanket ", "counterpane ", "cover ", "coverlet ", "spread "], "A": []}

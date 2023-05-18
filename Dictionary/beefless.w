@@ -1,0 +1,1 @@
+{"index": 30318, "D": "the flesh of a cow, steer, or bull raised and killed for its meat.", "S": [], "A": []}

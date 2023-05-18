@@ -1,0 +1,1 @@
+{"index": 322388, "D": "a rare mineral, mainly thoria, ThO2, but also containing uranium, cerium, and other rare-earth metals, occurring in small, black, cubic crystals", "S": [], "A": []}

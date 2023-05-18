@@ -1,0 +1,1 @@
+{"index": 79688, "D": "an enzyme that catalyzes the removal of hydrogen and chlorine atoms or ions from chlorinated hydrocarbons.", "S": [], "A": []}

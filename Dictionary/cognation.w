@@ -1,0 +1,1 @@
+{"index": 62259, "D": "cognate  relationship.", "S": [], "A": []}

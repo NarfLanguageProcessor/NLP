@@ -1,0 +1,1 @@
+{"index": 314324, "D": "having the taste or flavor characteristic of sugar, honey, etc.", "S": ["bonbons ", "candy ", "comfit ", "confection ", "confectionery ", "dessert ", "pastries ", "pie ", "preserves ", "pudding ", "sweetmeats "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 224795, "D": "a family of South American Indian languages spoken in Peru, Bolivia, and western Brazil.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 260757, "D": "(in mountaineering) the act or method of moving down a steep incline or past an overhang by means of a double rope secured above and placed around the body, usually under the left thigh and over the right shoulder, and paid out gradually in the descent.", "S": [], "A": []}

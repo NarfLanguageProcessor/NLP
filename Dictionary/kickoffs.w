@@ -1,0 +1,1 @@
+{"index": 164434, "D": "a place kick or a drop kick from the 40-yard line of the team kicking at the beginning of the first and third periods or after the team kicking has scored a touchdown or field goal.", "S": ["first ", "initial ", "starting "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 84476, "D": "a positive  photographic image produced on a transparent film or glass base.", "S": [], "A": []}

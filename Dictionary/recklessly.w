@@ -1,0 +1,1 @@
+{"index": 262939, "D": "with no concern about the consequences of one's action; carelessly", "S": ["carelessly ", "foolishly "], "A": []}

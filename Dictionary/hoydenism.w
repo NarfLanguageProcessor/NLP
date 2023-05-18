@@ -1,0 +1,1 @@
+{"index": 142333, "D": "a boisterous, bold, and carefree girl; a tomboy.", "S": [], "A": []}

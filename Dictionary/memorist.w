@@ -1,0 +1,1 @@
+{"index": 183207, "D": "a person who has a remarkably retentive memory. ", "S": [], "A": []}

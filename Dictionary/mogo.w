@@ -1,0 +1,1 @@
+{"index": 191237, "D": "a stone hatchet used by the Aboriginal peoples.", "S": [], "A": []}

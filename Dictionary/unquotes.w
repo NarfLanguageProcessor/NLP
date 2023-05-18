@@ -1,0 +1,1 @@
+{"index": 348985, "D": "to close a quotation (often used with the word quote, which notes the opening of the quotation)", "S": [], "A": []}

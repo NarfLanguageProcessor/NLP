@@ -1,0 +1,1 @@
+{"index": 254939, "D": "a relationship between two persons in which conflict of views or opinions is solved by simply ignoring it", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27719, "D": "without civilizing influences; uncivilized; primitive", "S": ["ferociously ", "fiercely ", "mercilessly ", "relentlessly ", "ruthlessly ", "savagely ", "viciously "], "A": ["gently ", "humanely ", "kindly ", "nicely "]}

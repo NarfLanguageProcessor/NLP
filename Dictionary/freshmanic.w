@@ -1,0 +1,1 @@
+{"index": 118825, "D": "of, relating to, or characteristic of a freshman", "S": [], "A": []}

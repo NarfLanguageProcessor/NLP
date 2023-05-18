@@ -1,0 +1,1 @@
+{"index": 223036, "D": "a hermit crab, especially of the genus Pagurus.", "S": [], "A": []}

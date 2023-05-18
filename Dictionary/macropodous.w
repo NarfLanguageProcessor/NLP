@@ -1,0 +1,1 @@
+{"index": 177036, "D": "(of a leaf) having a long stalk.", "S": [], "A": []}

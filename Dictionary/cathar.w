@@ -1,0 +1,1 @@
+{"index": 49623, "D": "(in medieval Europe) a member of any of several rigorously ascetic Christian sects maintaining a dualistic theology.", "S": [], "A": []}

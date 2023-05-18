@@ -1,0 +1,1 @@
+{"index": 114082, "D": "any of several scorpaenoid fishes of the family Platycephalidae, chiefly inhabiting waters of the Indo-Pacific region and used for food.", "S": [], "A": []}

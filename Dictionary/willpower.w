@@ -1,0 +1,1 @@
+{"index": 365834, "D": "control of one's impulses and actions; self-control.", "S": ["firmness ", "grit ", "self-control ", "self-discipline "], "A": ["weakness ", "indecision ", "question "]}

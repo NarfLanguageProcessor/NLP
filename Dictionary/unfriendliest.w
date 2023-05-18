@@ -1,0 +1,1 @@
+{"index": 342722, "D": "not amicable; not friendly or kindly in disposition; unsympathetic; aloof", "S": ["antagonistic ", "chilly ", "combative ", "hateful ", "inhospitable ", "unfavorable "], "A": ["agreeable ", "friendly ", "kind ", "nice "]}

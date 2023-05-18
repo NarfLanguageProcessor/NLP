@@ -1,0 +1,1 @@
+{"index": 349322, "D": "having the power to restore freshness, vitality, energy, etc.", "S": [], "A": []}

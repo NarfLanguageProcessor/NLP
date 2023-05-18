@@ -1,0 +1,1 @@
+{"index": 172313, "D": "pertaining to or of the nature of a limbus  or border; marginal.", "S": [], "A": []}

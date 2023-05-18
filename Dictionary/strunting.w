@@ -1,0 +1,1 @@
+{"index": 306683, "D": "the fleshy part or stump of a tail, especially of a horse's tail.", "S": [], "A": []}

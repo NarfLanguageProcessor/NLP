@@ -1,0 +1,1 @@
+{"index": 28488, "D": "a baseball player, especially a member of a major-league team.", "S": [], "A": []}

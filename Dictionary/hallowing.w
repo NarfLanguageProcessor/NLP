@@ -1,0 +1,1 @@
+{"index": 132760, "D": "to make holy; sanctify; consecrate.", "S": ["anointing ", "blessing ", "canonization ", "dedication ", "devotion ", "exaltation ", "glorification ", "ordination "], "A": ["apathy ", "condemnation "]}

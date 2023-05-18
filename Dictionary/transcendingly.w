@@ -1,0 +1,1 @@
+{"index": 327729, "D": "to rise above or go beyond; overpass; exceed", "S": [], "A": []}

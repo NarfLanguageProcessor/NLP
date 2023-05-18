@@ -1,0 +1,1 @@
+{"index": 237372, "D": "an excessive or obvious show of piety; sanctimoniousness.", "S": [], "A": []}

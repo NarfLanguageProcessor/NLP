@@ -1,0 +1,1 @@
+{"index": 61811, "D": "a female student in a coeducational institution, especially in a college or university.", "S": ["freshman ", "junior ", "senior ", "sophomore ", "student "], "A": ["graduate "]}

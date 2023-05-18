@@ -1,0 +1,1 @@
+{"index": 190755, "D": "the art or skill of preparing mixed  drinks.", "S": [], "A": []}

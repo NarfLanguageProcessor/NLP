@@ -1,0 +1,1 @@
+{"index": 275363, "D": "conduct befitting a ruffian. ", "S": ["hooliganism "], "A": []}

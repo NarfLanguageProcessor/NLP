@@ -1,0 +1,1 @@
+{"index": 317128, "D": "to make or become taut. ", "S": ["constrict ", "force ", "stiffen ", "straighten ", "strain ", "tighten "], "A": ["free ", "let go ", "loosen ", "release "]}

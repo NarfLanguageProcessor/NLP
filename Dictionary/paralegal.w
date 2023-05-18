@@ -1,0 +1,1 @@
+{"index": 225681, "D": "an attorney's assistant, not admitted to the practice of law but trained to perform certain legal  tasks.", "S": [], "A": []}

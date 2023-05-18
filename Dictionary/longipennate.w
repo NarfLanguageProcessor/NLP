@@ -1,0 +1,1 @@
+{"index": 174954, "D": "(of birds) having long slender wings or feathers", "S": [], "A": []}

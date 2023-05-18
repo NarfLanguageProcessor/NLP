@@ -1,0 +1,1 @@
+{"index": 55865, "D": "a systematic, detailed description and analysis of a region or regions.", "S": [], "A": []}

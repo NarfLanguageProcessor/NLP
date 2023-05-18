@@ -1,0 +1,1 @@
+{"index": 199101, "D": "pertaining to or controlled by a neurohormone. ", "S": [], "A": []}

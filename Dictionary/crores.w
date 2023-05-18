@@ -1,0 +1,1 @@
+{"index": 73744, "D": "(in India) the sum of ten million, especially of rupees; one hundred lacs.", "S": [], "A": []}

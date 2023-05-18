@@ -1,0 +1,1 @@
+{"index": 63964, "D": "a type of relationship between two species of a plant, animal, fungus, etc., in which one lives with, on, or in another without damage to either.", "S": [], "A": []}

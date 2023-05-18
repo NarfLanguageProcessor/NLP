@@ -1,0 +1,1 @@
+{"index": 158918, "D": "pertaining to or characterized by equality of force, intensity, or the like.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 325917, "D": "the mast  next above a lower mast,  usually formed as a separate spar from the lower mast  and used to support the yards or rigging of a topsail or topsails.", "S": [], "A": []}

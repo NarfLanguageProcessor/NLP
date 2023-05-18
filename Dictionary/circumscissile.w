@@ -1,0 +1,1 @@
+{"index": 58218, "D": "opening along a transverse circular line, as a seed vessel.", "S": [], "A": []}

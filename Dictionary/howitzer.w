@@ -1,0 +1,1 @@
+{"index": 144564, "D": "a cannon having a comparatively short barrel, used especially for firing shells at a high angle of elevation, as for reaching a target behind cover or in a trench.", "S": ["mortar ", "ordnance "], "A": []}

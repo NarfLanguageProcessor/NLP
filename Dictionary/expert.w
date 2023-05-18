@@ -1,0 +1,1 @@
+{"index": 107746, "D": "a person who has special skill or knowledge in some particular field; specialist; authority", "S": ["adept ", "adroit ", "deft ", "experienced ", "skilled ", "skillful ", "trained "], "A": ["awkward ", "clumsy ", "green ", "ignorant ", "inept ", "inexperienced ", "unskilled ", "unskillful ", "stupid ", "unintelligent "]}

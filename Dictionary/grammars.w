@@ -1,0 +1,1 @@
+{"index": 128737, "D": "the study of the way the sentences of a language are constructed; morphology and syntax.", "S": ["alphabet ", "syntax "], "A": []}

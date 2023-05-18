@@ -1,0 +1,1 @@
+{"index": 327428, "D": "to drag or let drag along the ground or other surface; draw or drag along behind.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 104414, "D": "to see at a distance; catch sight of.", "S": ["detect ", "discern ", "discover ", "find ", "glimpse ", "notice ", "observe ", "see ", "sight ", "spot ", "view ", "watch "], "A": ["ignore ", "lose ", "miss ", "neglect ", "overlook ", "pass by "]}

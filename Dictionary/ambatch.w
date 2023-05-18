@@ -1,0 +1,1 @@
+{"index": 9949, "D": "an Egyptian tree, Aeschynomene elaphroxylon, of the legume family, having a light-colored, spongy wood.", "S": [], "A": []}

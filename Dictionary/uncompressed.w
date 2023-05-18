@@ -1,0 +1,1 @@
+{"index": 337440, "D": "pressed into less space; condensed", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 189691, "D": "hatred of marriage.", "S": ["detractor ", "doubter ", "pessimist ", "skeptic "], "A": ["believer "]}

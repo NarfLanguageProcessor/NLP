@@ -1,0 +1,1 @@
+{"index": 96609, "D": "a Mexican farm communally owned and operated by the inhabitants of a village on an individual or cooperative basis.", "S": [], "A": []}

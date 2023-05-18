@@ -1,0 +1,1 @@
+{"index": 86604, "D": "a pathological condition of vision in which a single object appears double (opposed to haplopia).", "S": [], "A": []}

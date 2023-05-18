@@ -1,0 +1,1 @@
+{"index": 238247, "D": "full of or abounding in pitch. ", "S": [], "A": []}

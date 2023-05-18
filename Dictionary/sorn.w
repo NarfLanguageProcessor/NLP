@@ -1,0 +1,1 @@
+{"index": 297613, "D": "to obtain food, lodging, etc, from another person by presuming on his generosity", "S": [], "A": []}

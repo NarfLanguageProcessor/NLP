@@ -1,0 +1,1 @@
+{"index": 331261, "D": "the boundary, or transitional layer, between the troposphere and the stratosphere.", "S": [], "A": []}

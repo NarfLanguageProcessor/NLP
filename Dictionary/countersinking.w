@@ -1,0 +1,1 @@
+{"index": 71100, "D": "to enlarge the upper part of (a cavity), especially by chamfering, to receive the cone-shaped head of a screw, bolt, etc.", "S": [], "A": []}

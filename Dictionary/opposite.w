@@ -1,0 +1,1 @@
+{"index": 213684, "D": "situated, placed, or lying face to face with something else or each other, or in corresponding positions with relation to an intervening line, space, or thing", "S": ["adverse ", "antagonistic ", "antithetical ", "contradictory ", "differing ", "paradoxical ", "reversed "], "A": ["agreeing ", "similar "]}

@@ -1,0 +1,1 @@
+{"index": 163536, "D": "a toll on a merchant ship entering a port.", "S": [], "A": []}

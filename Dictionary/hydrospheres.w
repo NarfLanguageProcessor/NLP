@@ -1,0 +1,1 @@
+{"index": 138960, "D": "the water on or surrounding the surface of the globe, including the water of the oceans and the water in the atmosphere.", "S": [], "A": []}

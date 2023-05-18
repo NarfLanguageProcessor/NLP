@@ -1,0 +1,1 @@
+{"index": 228140, "D": "to make a pauper  of", "S": [], "A": []}

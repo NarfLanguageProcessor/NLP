@@ -1,0 +1,1 @@
+{"index": 344054, "D": "to form an idea,  thought, or image of.", "S": [], "A": []}

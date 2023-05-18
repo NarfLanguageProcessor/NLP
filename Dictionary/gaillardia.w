@@ -1,0 +1,1 @@
+{"index": 121004, "D": "any composite plant of the genus Gaillardia, including the blanket-flowers.", "S": [], "A": []}

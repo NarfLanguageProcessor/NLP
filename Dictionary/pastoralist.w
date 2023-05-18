@@ -1,0 +1,1 @@
+{"index": 227487, "D": "a grazier or land-holder raising sheep, cattle, etc, on a large scale", "S": ["herder ", "herdsman "], "A": []}

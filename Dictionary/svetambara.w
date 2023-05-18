@@ -1,0 +1,1 @@
+{"index": 313912, "D": "one of the two principal Jain sects, whose members wear white and believe that women can attain salvation.", "S": [], "A": []}

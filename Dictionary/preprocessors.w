@@ -1,0 +1,1 @@
+{"index": 248936, "D": "a program that performs some type of processing, as organization of data or preliminary computation, in advance of another program that will perform most of the processing.", "S": [], "A": []}

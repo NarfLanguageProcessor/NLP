@@ -1,0 +1,1 @@
+{"index": 73864, "D": "to post (the same message) to two or more message boards or electronic mailing lists at the same time.", "S": [], "A": []}

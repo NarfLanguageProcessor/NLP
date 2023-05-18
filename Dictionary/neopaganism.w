@@ -1,0 +1,1 @@
+{"index": 198423, "D": "a modern revival of interest in the worship of pre-Christian polytheistic religious traditions, especially those of Europe and Egypt, or of nature, fertility, etc., as represented by various deities, first seen in the late 19th century and becoming more formalized in the 20th century.", "S": [], "A": []}

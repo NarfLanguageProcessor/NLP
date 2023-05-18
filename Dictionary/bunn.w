@@ -1,0 +1,1 @@
+{"index": 42905, "D": "an obsolete spelling of bun1 (def. 1). ", "S": [], "A": []}

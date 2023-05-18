@@ -1,0 +1,1 @@
+{"index": 187138, "D": "the aggregate number of miles  traveled over in a given time.", "S": ["length "], "A": ["extreme "]}

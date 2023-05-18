@@ -1,0 +1,1 @@
+{"index": 161954, "D": "a jaw, especially the lower jaw.", "S": ["fuss ", "grieve ", "howl ", "moan ", "mourn ", "sob ", "weep ", "whimper "], "A": ["be happy ", "approve ", "compliment ", "gloat ", "praise "]}

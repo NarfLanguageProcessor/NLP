@@ -1,0 +1,1 @@
+{"index": 164150, "D": "the accumulation of excessive ketones in the body, as in diabetic acidosis.", "S": [], "A": []}

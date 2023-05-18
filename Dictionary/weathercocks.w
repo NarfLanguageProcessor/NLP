@@ -1,0 +1,1 @@
+{"index": 363599, "D": "a weather vane with the figure of a rooster on it.", "S": ["fan ", "feather "], "A": []}

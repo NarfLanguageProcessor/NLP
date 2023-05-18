@@ -1,0 +1,1 @@
+{"index": 128264, "D": "of or relating to a subculture favoring goth music and a dark and morbid aesthetic", "S": [], "A": []}

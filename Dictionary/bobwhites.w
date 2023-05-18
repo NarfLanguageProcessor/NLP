@@ -1,0 +1,1 @@
+{"index": 37109, "D": "any of several true quails  of the genus Colinus, family Odontophoridae, including C. virginianus(northern bobwhite ), distributed through much of the Americas, having mottled reddish-brown, black, and white plumage", "S": [], "A": []}

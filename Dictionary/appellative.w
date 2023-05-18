@@ -1,0 +1,1 @@
+{"index": 17642, "D": "a descriptive name or designation, as Bald in Charles the Bald.", "S": ["appellation ", "cognomen ", "designation ", "epithet ", "handle ", "moniker ", "nickname ", "tag ", "title "], "A": []}

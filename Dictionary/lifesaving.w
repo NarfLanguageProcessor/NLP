@@ -1,0 +1,1 @@
+{"index": 171930, "D": "acting to save a person's life", "S": ["cache ", "reserve fund ", "savings ", "savings account ", "stash ", "stockpile "], "A": []}

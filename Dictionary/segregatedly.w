@@ -1,0 +1,1 @@
+{"index": 283232, "D": "characterized by or practicing racial segregation", "S": [], "A": []}

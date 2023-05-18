@@ -1,0 +1,1 @@
+{"index": 115937, "D": "(formerly, in England) a general assembly of the people of a shire, town, etc.", "S": [], "A": []}

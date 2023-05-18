@@ -1,0 +1,1 @@
+{"index": 354947, "D": "an insurrection or revolt.", "S": ["insurrection ", "mutiny ", "outbreak ", "rebellion ", "revolt ", "revolution ", "riot ", "upheaval "], "A": ["calm ", "harmony ", "obedience ", "peace ", "stagnation "]}

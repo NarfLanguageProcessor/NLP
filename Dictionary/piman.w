@@ -1,0 +1,1 @@
+{"index": 236819, "D": "any of various groupings of Uto-Aztecan languages, of varying degrees of inclusiveness, comprising Pima  and its closest relatives.", "S": [], "A": []}

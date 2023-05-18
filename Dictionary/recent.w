@@ -1,0 +1,1 @@
+{"index": 262709, "D": "of late occurrence, appearance, or origin; lately happening, done, made, etc.", "S": ["late ", "new "], "A": ["old ", "old-fashioned ", "preceding "]}

@@ -1,0 +1,1 @@
+{"index": 198321, "D": "an outgrowth of the conservative political movement that is more moderate than traditional conservatism,  especially in its promotion of democracy abroad and its embrace of military intervention.", "S": [], "A": []}

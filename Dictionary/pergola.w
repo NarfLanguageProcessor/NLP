@@ -1,0 +1,1 @@
+{"index": 230717, "D": "an arbor formed of horizontal trelliswork supported on columns or posts, over which vines or other plants are trained.", "S": [], "A": []}

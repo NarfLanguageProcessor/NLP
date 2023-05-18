@@ -1,0 +1,1 @@
+{"index": 362680, "D": "having or giving out a moderate degree of heat, as perceived by the senses", "S": ["balmy ", "heated ", "hot ", "lukewarm ", "mild ", "pleasant ", "sunny ", "sweltering ", "temperate ", "tepid "], "A": ["cold ", "cool ", "freezing ", "stormy "]}

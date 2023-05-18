@@ -1,0 +1,1 @@
+{"index": 286804, "D": "(in Wales and Ireland) another name for sea trout (def. 1)", "S": [], "A": []}

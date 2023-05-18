@@ -1,0 +1,1 @@
+{"index": 325509, "D": "having no tone", "S": ["deadpan ", "detached ", "dispassionate ", "impassive ", "matter-of-fact ", "unemotional "], "A": ["biased ", "emotional ", "feeling ", "passionate ", "responsive "]}

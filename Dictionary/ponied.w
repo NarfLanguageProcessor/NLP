@@ -1,0 +1,1 @@
+{"index": 243037, "D": "a small horse of any of several breeds, usually not higher at the shoulder than 14\u00bd hands (58 inches/146 centimeters).", "S": [], "A": []}

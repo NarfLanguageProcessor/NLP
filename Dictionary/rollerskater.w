@@ -1,0 +1,1 @@
+{"index": 273961, "D": "a form of skate with four wheels or rollers instead of a runner, for use on a sidewalk or other surface offering traction.", "S": [], "A": []}

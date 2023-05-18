@@ -1,0 +1,1 @@
+{"index": 200813, "D": "offensive or disgusting, as an odor.", "S": [], "A": []}

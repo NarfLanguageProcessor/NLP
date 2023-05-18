@@ -1,0 +1,1 @@
+{"index": 132790, "D": "a board game in which players attempt to transfer their pieces from their own to their opponents' bases", "S": [], "A": []}

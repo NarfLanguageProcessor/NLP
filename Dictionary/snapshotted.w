@@ -1,0 +1,1 @@
+{"index": 295323, "D": "an informal photograph, especially one taken quickly by a handheld camera.", "S": ["capture ", "illustrate ", "print ", "reproduce ", "shoot "], "A": ["fail ", "lose ", "misunderstand "]}

@@ -1,0 +1,1 @@
+{"index": 358440, "D": "a white grape grown in Portugal, used for making wine", "S": [], "A": []}

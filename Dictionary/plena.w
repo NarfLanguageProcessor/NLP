@@ -1,0 +1,1 @@
+{"index": 239779, "D": "the state or a space in which a gas, usually air, is contained at a pressure greater than atmospheric pressure.", "S": ["integrity ", "plenitude "], "A": ["incompleteness "]}

@@ -1,0 +1,1 @@
+{"index": 113300, "D": "a royal or state treasury; exchequer.", "S": [], "A": []}

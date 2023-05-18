@@ -1,0 +1,1 @@
+{"index": 167544, "D": "a priest or monk in Lamaism. ", "S": ["cleric ", "elder ", "father ", "friar ", "monk ", "preacher ", "rector "], "A": []}

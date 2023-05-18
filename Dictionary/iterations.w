@@ -1,0 +1,1 @@
+{"index": 159529, "D": "the act of repeating; a repetition.", "S": ["emphasis ", "monotony ", "repetition "], "A": []}

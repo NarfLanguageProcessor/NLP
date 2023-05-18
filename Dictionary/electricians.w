@@ -1,0 +1,1 @@
+{"index": 96919, "D": "a person who installs, operates, maintains, or repairs electric  devices or electrical  wiring.", "S": ["juicer ", "lineman ", "linesman ", "wireman "], "A": []}

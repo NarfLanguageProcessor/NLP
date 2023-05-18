@@ -1,0 +1,1 @@
+{"index": 216213, "D": "to lose blood from the vascular system, either internally into the body or externally through a natural orifice or break in the skin", "S": [], "A": []}

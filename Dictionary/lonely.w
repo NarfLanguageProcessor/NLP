@@ -1,0 +1,1 @@
+{"index": 174869, "D": "affected with, characterized by, or causing a depressing feeling of being alone; lonesome.", "S": ["deserted ", "desolate ", "destitute ", "empty ", "homeless ", "isolated ", "lonesome ", "reclusive ", "solitary "], "A": ["populated ", "sociable "]}

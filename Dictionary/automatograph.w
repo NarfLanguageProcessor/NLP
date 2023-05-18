@@ -1,0 +1,1 @@
+{"index": 24208, "D": "a device for recording involuntary bodily movements.", "S": [], "A": []}

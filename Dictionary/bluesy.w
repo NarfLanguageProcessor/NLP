@@ -1,0 +1,1 @@
+{"index": 36775, "D": "depressed spirits; despondency; melancholy", "S": [], "A": []}

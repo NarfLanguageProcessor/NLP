@@ -1,0 +1,1 @@
+{"index": 51707, "D": "a tax, assessment, or lien.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 364136, "D": "(among Algonquian Indians) an evil spirit or cannibal", "S": [], "A": []}

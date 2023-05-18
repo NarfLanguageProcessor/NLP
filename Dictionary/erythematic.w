@@ -1,0 +1,1 @@
+{"index": 103750, "D": "abnormally inflamed or reddened", "S": [], "A": []}

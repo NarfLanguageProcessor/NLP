@@ -1,0 +1,1 @@
+{"index": 241415, "D": "marshy or stagnant water that has branched off from a stream or lake.", "S": [], "A": []}

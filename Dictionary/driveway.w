@@ -1,0 +1,1 @@
+{"index": 93208, "D": "a road, especially a private one, leading from a street or other thoroughfare to a building, house, garage, etc.", "S": ["entrance "], "A": []}

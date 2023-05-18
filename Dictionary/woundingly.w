@@ -1,0 +1,1 @@
+{"index": 367758, "D": "an injury, usually involving division of tissue or rupture of the integument or mucous membrane, due to external violence or some mechanical agency rather than disease.", "S": [], "A": []}

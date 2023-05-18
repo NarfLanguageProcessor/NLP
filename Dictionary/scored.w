@@ -1,0 +1,1 @@
+{"index": 281267, "D": "the record of points or strokes made by the competitors in a game or match.", "S": ["indented ", "notched ", "ragged ", "serrate "], "A": ["smooth "]}

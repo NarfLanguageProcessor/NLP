@@ -1,0 +1,1 @@
+{"index": 150670, "D": "the quality or condition of being indecent. ", "S": ["drunkenness ", "impropriety "], "A": ["chastity ", "cleanness ", "decency ", "modesty ", "purity ", "virtue "]}

@@ -1,0 +1,1 @@
+{"index": 135702, "D": "ancient name of the Dardanelles. ", "S": [], "A": []}

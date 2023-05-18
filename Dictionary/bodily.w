@@ -1,0 +1,1 @@
+{"index": 37207, "D": "of or relating to the body. ", "S": ["physical "], "A": ["mental ", "soulful ", "spiritual "]}

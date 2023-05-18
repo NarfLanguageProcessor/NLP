@@ -1,0 +1,1 @@
+{"index": 99079, "D": "a figure of speech in which what is meant is the opposite of what is said; irony.", "S": [], "A": []}

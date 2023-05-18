@@ -1,0 +1,1 @@
+{"index": 315920, "D": "a fabric of mixed fibers, constructed in plain weave and often heavily glazed, used in the manufacture of linings and undergarments.", "S": [], "A": []}

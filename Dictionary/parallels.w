@@ -1,0 +1,1 @@
+{"index": 225770, "D": "extending in the same direction, equidistant at all points, and never converging or diverging", "S": ["analogy ", "comparison ", "corollary ", "resemblance ", "similarity "], "A": ["difference ", "dissimilarity ", "unlikeness "]}

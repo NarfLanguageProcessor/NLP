@@ -1,0 +1,1 @@
+{"index": 62036, "D": "forced or compelled through intimidation or authority, especially without regard for individual volition", "S": ["constrained ", "enslaved ", "obligated ", "restrained "], "A": ["irresolute "]}

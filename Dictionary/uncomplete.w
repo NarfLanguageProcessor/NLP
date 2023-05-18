@@ -1,0 +1,1 @@
+{"index": 337395, "D": "having all parts or elements; lacking nothing; whole; entire; full", "S": [], "A": []}

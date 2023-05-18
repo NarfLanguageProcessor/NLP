@@ -1,0 +1,1 @@
+{"index": 29837, "D": "a gesture used to signal, summon, or direct someone.", "S": ["branch ", "burn ", "creek ", "rill ", "river ", "rivulet ", "run ", "runnel ", "streamlet ", "watercourse "], "A": []}

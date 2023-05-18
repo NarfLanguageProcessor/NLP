@@ -1,0 +1,1 @@
+{"index": 57092, "D": "a light automobile, open like a motorcycle  but having three or four wheels.", "S": [], "A": []}

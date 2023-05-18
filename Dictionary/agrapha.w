@@ -1,0 +1,1 @@
+{"index": 6430, "D": "the sayings of Jesus as recorded in the writings of the early Christians and in those parts of the New Testament other than the Gospels.", "S": [], "A": []}

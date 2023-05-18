@@ -1,0 +1,1 @@
+{"index": 150253, "D": "characterized by lack of proper sequence in thought, speech, or action.", "S": [], "A": []}

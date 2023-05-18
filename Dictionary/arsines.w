@@ -1,0 +1,1 @@
+{"index": 20420, "D": "a colorless, flammable, slightly water-soluble gas, AsH3, having a fetid, garliclike odor, used in chemical warfare.", "S": [], "A": []}

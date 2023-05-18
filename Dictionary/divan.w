@@ -1,0 +1,1 @@
+{"index": 90203, "D": "a sofa or couch, usually without arms or back, often usable as a bed.", "S": ["davenport ", "lounge ", "seat ", "sofa "], "A": []}

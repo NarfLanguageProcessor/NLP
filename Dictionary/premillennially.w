@@ -1,0 +1,1 @@
+{"index": 248408, "D": "of or relating to the period preceding the millennium.", "S": [], "A": []}

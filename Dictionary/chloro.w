@@ -1,0 +1,1 @@
+{"index": 55120, "D": "variant of chlor-1  before a consonant", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 58253, "D": "the quality of being circumstantial;  minuteness; fullness of detail.", "S": ["article ", "design ", "element ", "fact ", "part ", "plan ", "schedule ", "structure ", "thing "], "A": ["entirety ", "generality ", "generalization ", "whole "]}

@@ -1,0 +1,1 @@
+{"index": 304476, "D": "having the shape of an ancient style; stylar.", "S": [], "A": []}

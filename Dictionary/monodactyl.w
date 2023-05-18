@@ -1,0 +1,1 @@
+{"index": 192236, "D": "having only one digit or claw.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 94148, "D": "a dunce; blockhead; numbskull.", "S": [], "A": []}

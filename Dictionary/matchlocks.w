@@ -1,0 +1,1 @@
+{"index": 181059, "D": "an old form of gunlock in which the priming was ignited by a slow match. ", "S": [], "A": []}

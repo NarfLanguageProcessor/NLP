@@ -1,0 +1,1 @@
+{"index": 85001, "D": "the set of flattened membranes in a Golgi body, resembling a stack of plates.", "S": [], "A": []}

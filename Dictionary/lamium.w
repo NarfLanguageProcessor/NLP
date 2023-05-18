@@ -1,0 +1,1 @@
+{"index": 167741, "D": "any of several plants belonging to the genus Lamium, of the mint family, some species of which have whitish or variegated leaves and are cultivated as ornamentals or ground cover.", "S": [], "A": []}

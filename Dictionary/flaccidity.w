@@ -1,0 +1,1 @@
+{"index": 113682, "D": "the state or condition of being soft and limp; flabbiness or lack of firmness", "S": ["resilience "], "A": ["constraint ", "inelasticity ", "inflexibility ", "resistance "]}

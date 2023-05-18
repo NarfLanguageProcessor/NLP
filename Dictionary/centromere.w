@@ -1,0 +1,1 @@
+{"index": 51028, "D": "a specialized structure on the chromosome, appearing during cell division as the constricted central region where the two chromatids are held together and form an X shape.", "S": [], "A": []}

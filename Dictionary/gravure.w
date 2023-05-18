@@ -1,0 +1,1 @@
+{"index": 129400, "D": "an intaglio process of photomechanical printing, such as photogravure  or rotogravure.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43999, "D": "(of an animal, as a deer) shown facing forward without a neck", "S": [], "A": []}

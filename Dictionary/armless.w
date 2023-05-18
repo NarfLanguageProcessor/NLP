@@ -1,0 +1,1 @@
+{"index": 19962, "D": "lacking an arm  or arms", "S": [], "A": []}

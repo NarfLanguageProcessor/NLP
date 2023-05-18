@@ -1,0 +1,1 @@
+{"index": 220068, "D": "sexually unrestrained; lascivious; libertine; lewd. ", "S": [], "A": []}

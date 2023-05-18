@@ -1,0 +1,1 @@
+{"index": 47767, "D": "(of a set) the cardinal number  indicating the number of elements in the set.", "S": [], "A": []}

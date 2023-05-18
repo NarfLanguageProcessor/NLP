@@ -1,0 +1,1 @@
+{"index": 339116, "D": "to line the underside of (a structure, as a floor) with plasterwork, boarding, or the like.", "S": [], "A": []}

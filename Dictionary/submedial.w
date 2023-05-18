@@ -1,0 +1,1 @@
+{"index": 308497, "D": "situated in or pertaining to the middle; median; intermediate.", "S": [], "A": []}

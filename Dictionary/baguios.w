@@ -1,0 +1,1 @@
+{"index": 26362, "D": "a city on western Luzon, in the northern Philippines", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332379, "D": "(in a vacuum induction furnace) a trough through which molten metal flows under vacuum to a mold chamber.", "S": [], "A": []}

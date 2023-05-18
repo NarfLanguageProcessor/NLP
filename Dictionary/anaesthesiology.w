@@ -1,0 +1,1 @@
+{"index": 11622, "D": "anesthesiology. ", "S": [], "A": []}

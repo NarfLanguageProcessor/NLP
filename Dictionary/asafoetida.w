@@ -1,0 +1,1 @@
+{"index": 20842, "D": "a bitter resin with an unpleasant onion-like smell, obtained from the roots of some umbelliferous plants of the genus Ferula", "S": [], "A": []}

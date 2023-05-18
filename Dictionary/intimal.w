@@ -1,0 +1,1 @@
+{"index": 156298, "D": "the innermost membrane or lining of some organ or part, especially that of an artery, vein, or lymphatic.", "S": [], "A": []}

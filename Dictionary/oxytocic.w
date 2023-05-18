@@ -1,0 +1,1 @@
+{"index": 222436, "D": "of or causing the stimulation of the involuntary muscle of the uterus.", "S": [], "A": []}

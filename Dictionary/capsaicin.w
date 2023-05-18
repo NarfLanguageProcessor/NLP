@@ -1,0 +1,1 @@
+{"index": 47122, "D": "a colorless, crystalline, bitter compound, C18H27NO3, present in capsicum.", "S": [], "A": []}

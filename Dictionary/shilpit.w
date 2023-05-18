@@ -1,0 +1,1 @@
+{"index": 288310, "D": "(of a person) sickly; puny; feeble.", "S": [], "A": []}

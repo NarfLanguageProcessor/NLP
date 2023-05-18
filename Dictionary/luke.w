@@ -1,0 +1,1 @@
+{"index": 175986, "D": "an early Christian disciple and companion of Paul, a physician and probably a gentile", "S": [], "A": []}

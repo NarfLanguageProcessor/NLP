@@ -1,0 +1,1 @@
+{"index": 149269, "D": "no one attacks me with impunity", "S": ["assail ", "challenge ", "contradict ", "deny ", "gainsay ", "resist "], "A": []}

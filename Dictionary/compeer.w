@@ -1,0 +1,1 @@
+{"index": 64479, "D": "an equal in rank, ability, accomplishment, etc.; peer; colleague.", "S": ["associate ", "companion ", "consort ", "friend "], "A": ["antagonist ", "enemy ", "foe ", "opponent ", "stranger "]}

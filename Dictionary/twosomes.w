@@ -1,0 +1,1 @@
+{"index": 333509, "D": "consisting of two;  two-fold.", "S": ["duo "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 81789, "D": "a railroad station.", "S": ["armory ", "garage ", "store ", "storehouse ", "terminal ", "yard "], "A": []}

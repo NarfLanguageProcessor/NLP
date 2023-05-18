@@ -1,0 +1,1 @@
+{"index": 300989, "D": "of or relating to spores or spore production.", "S": ["ancestral ", "hereditary ", "historical "], "A": ["acquired "]}

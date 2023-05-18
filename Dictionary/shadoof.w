@@ -1,0 +1,1 @@
+{"index": 287077, "D": "a device used in Egypt and other Eastern countries for raising water, especially for irrigation, consisting of a long suspended rod with a bucket at one end and a weight at the other.", "S": [], "A": []}

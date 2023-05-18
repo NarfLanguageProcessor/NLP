@@ -1,0 +1,1 @@
+{"index": 15518, "D": "matter  composed only of antiparticles, especially antiprotons, antineutrons, and positrons.", "S": [], "A": []}

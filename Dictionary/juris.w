@@ -1,0 +1,1 @@
+{"index": 162462, "D": "(especially in old English law) of no legal force.", "S": [], "A": []}

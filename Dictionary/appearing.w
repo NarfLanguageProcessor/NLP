@@ -1,0 +1,1 @@
+{"index": 17617, "D": "to come into sight; become visible", "S": ["deriving ", "emanating ", "emerging ", "ensuing ", "flowing ", "following ", "issuing ", "originating ", "proceeding ", "resulting ", "springing ", "stemming "], "A": []}

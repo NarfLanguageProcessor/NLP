@@ -1,0 +1,1 @@
+{"index": 39362, "D": "US and Canadian word", "S": ["bracelets ", "chains ", "clamps ", "cuffs ", "fetters ", "shackles ", "snaps ", "wristlets "], "A": []}

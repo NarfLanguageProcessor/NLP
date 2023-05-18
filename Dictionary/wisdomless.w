@@ -1,0 +1,1 @@
+{"index": 366409, "D": "the quality or state of being wise;  knowledge of what is true or right coupled with just judgment as to action; sagacity, discernment, or insight.", "S": [], "A": []}

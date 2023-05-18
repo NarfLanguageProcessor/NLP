@@ -1,0 +1,1 @@
+{"index": 148019, "D": "the act of immixing. ", "S": ["amalgam ", "amalgamation ", "blend ", "combo ", "commixture ", "complex ", "compost ", "compound ", "conglomerate ", "fusion ", "intermixture ", "medley ", "mix ", "stew ", "synthesis ", "union "], "A": ["division ", "separation "]}

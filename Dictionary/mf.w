@@ -1,0 +1,1 @@
+{"index": 185602, "D": "medium frequency. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 84083, "D": "a crown.", "S": ["coronet ", "dignity ", "fillet ", "halo ", "headband ", "tiara "], "A": []}

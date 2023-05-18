@@ -1,0 +1,1 @@
+{"index": 240924, "D": "a pustule on the body in an eruptive disease, as smallpox.", "S": ["blemish ", "hole ", "mark ", "pockmark ", "pustule ", "scar ", "spot "], "A": ["benefit "]}

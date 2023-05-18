@@ -1,0 +1,1 @@
+{"index": 315703, "D": "a white shawl with fringed corners worn over the head and shoulders by Jewish males during religious services", "S": [], "A": []}

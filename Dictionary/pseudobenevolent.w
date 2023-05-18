@@ -1,0 +1,1 @@
+{"index": 254544, "D": "characterized by or expressing goodwill or kindly feelings", "S": [], "A": []}

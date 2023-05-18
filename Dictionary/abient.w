@@ -1,0 +1,1 @@
+{"index": 422, "D": "tending to move away from a stimulus or situation.", "S": [], "A": []}

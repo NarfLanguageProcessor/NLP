@@ -1,0 +1,1 @@
+{"index": 194728, "D": "an attempt to discredit one's competitor, opponent, etc., by malicious or scandalous attacks.", "S": ["attacker ", "carper ", "caviler ", "censor ", "complainant ", "complainer ", "defamer ", "disparager ", "doubter ", "maligner ", "muckraker ", "nagger ", "quibbler ", "scolder ", "slanderer ", "vilifier ", "worrier ", "zapper "], "A": []}

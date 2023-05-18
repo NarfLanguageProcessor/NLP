@@ -1,0 +1,1 @@
+{"index": 225051, "D": "any animal of the extinct order Pantotheria that lived during the late Mesozoic Era, believed to be the ancestor of the marsupial and placental mammals.", "S": [], "A": []}

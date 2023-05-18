@@ -1,0 +1,1 @@
+{"index": 362220, "D": "any passage for walking,  especially one connecting the various areas of a ship, factory, park, etc.", "S": ["gallery ", "mall "], "A": []}

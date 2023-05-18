@@ -1,0 +1,1 @@
+{"index": 153072, "D": "not harmful or injurious; harmless", "S": ["innocently ", "inoffensively ", "kindly ", "politely ", "without harm "], "A": []}

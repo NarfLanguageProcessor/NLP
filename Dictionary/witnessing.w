@@ -1,0 +1,1 @@
+{"index": 366712, "D": "to see, hear, or know by personal presence and perception", "S": ["alert ", "awake ", "inspecting ", "looking ", "noticing ", "perceiving ", "regarding ", "surveying ", "viewing "], "A": ["asleep "]}

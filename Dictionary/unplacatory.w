@@ -1,0 +1,1 @@
+{"index": 347971, "D": "serving, tending, or intended to placate", "S": [], "A": []}

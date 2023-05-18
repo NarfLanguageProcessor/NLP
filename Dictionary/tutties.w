@@ -1,0 +1,1 @@
+{"index": 333112, "D": "an impure oxide of zinc obtained from the flues of smelting furnaces, or a similar substance occurring as a native mineral, used chiefly as a polishing powder.", "S": [], "A": []}

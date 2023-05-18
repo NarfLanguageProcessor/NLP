@@ -1,0 +1,1 @@
+{"index": 261039, "D": "a loosely woven fabric made with nubby or knotty yarns.", "S": [], "A": []}

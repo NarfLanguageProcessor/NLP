@@ -1,0 +1,1 @@
+{"index": 52117, "D": "(of a chemical element in the earth) having an affinity for sulfur.", "S": [], "A": []}

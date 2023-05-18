@@ -1,0 +1,1 @@
+{"index": 245431, "D": "agreement; conformity", "S": [], "A": []}

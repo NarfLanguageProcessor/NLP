@@ -1,0 +1,1 @@
+{"index": 22219, "D": "to compress; bind together; constrict.", "S": ["circumscribe ", "compress ", "cramp "], "A": ["enlarge ", "expand ", "free ", "give ", "increase ", "lengthen ", "let go ", "liberate ", "loose ", "loosen ", "release ", "stretch "]}

@@ -1,0 +1,1 @@
+{"index": 45676, "D": "a device for capturing a photographic image or recording a video, using film or digital memory.", "S": ["camcorder "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 315032, "D": "a type of action painting evolved in France in which haphazard dabs and blots of colour are treated as a means of instinctive or unconscious expression", "S": [], "A": []}

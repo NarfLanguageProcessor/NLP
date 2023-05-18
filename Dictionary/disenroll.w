@@ -1,0 +1,1 @@
+{"index": 87966, "D": "to dismiss or cause to become removed from a program of training, care, etc.", "S": [], "A": []}

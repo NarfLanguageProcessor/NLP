@@ -1,0 +1,1 @@
+{"index": 13939, "D": "having a handle or handlelike part.", "S": [], "A": []}

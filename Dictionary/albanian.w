@@ -1,0 +1,1 @@
+{"index": 7391, "D": "pertaining to Albania,  its inhabitants, or their language.", "S": [], "A": []}

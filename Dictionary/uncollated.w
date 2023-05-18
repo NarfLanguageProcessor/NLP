@@ -1,0 +1,1 @@
+{"index": 337209, "D": "(of pages or folios of a book) gathered into proper sequence", "S": [], "A": []}

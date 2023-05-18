@@ -1,0 +1,1 @@
+{"index": 342375, "D": "to run away, as from danger or pursuers; take flight. ", "S": [], "A": []}

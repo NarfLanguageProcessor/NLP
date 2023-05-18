@@ -1,0 +1,1 @@
+{"index": 194023, "D": "any of several tropical and subtropical American birds of the family Momotidae, related to the kingfishers, having a serrate bill and chiefly greenish and bluish plumage.", "S": [], "A": []}

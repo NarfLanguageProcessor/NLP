@@ -1,0 +1,1 @@
+{"index": 301535, "D": "any of several plants belonging to the genus Spergula, of the pink family, especially S. arvensis, having white flowers and numerous linear leaves.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 186679, "D": "the middle of the day; noon or the time centering around noon.", "S": ["lunchtime ", "noon ", "noontide "], "A": ["midnight "]}

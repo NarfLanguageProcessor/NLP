@@ -1,0 +1,1 @@
+{"index": 236357, "D": "a particular figure in skating, outlining the spread wing  of a pigeon. ", "S": [], "A": []}

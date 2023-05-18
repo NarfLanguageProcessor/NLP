@@ -1,0 +1,1 @@
+{"index": 331098, "D": "a monoclinic mineral, grayish or yellowish hydrous sodium carbonate and bicarbonate, Na2CO3\u22c5NaHCO3\u22c52H2, occurring in dried or partly evaporated lake basins.", "S": [], "A": []}

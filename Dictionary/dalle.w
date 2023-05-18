@@ -1,0 +1,1 @@
+{"index": 76468, "D": "the rapids of a river running between the walls of a canyon or gorge.", "S": [], "A": []}

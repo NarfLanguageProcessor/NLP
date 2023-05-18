@@ -1,0 +1,1 @@
+{"index": 94781, "D": "a sound receiver that fits in or over the ear,  as of a radio or telephone.", "S": [], "A": []}

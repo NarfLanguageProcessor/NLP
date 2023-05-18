@@ -1,0 +1,1 @@
+{"index": 130573, "D": "a familiar name for a pig.", "S": [], "A": []}

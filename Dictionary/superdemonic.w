@@ -1,0 +1,1 @@
+{"index": 311647, "D": "inspired as if by a demon,  indwelling spirit, or genius.", "S": [], "A": []}

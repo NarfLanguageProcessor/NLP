@@ -1,0 +1,1 @@
+{"index": 227134, "D": [], "S": ["accouchement ", "childbed ", "confinement ", "delivery ", "labor ", "lying-in ", "nativity ", "parturition ", "procreation ", "propagation ", "reproduction ", "travail "], "A": []}

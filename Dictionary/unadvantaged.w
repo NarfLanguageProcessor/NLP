@@ -1,0 +1,1 @@
+{"index": 334670, "D": "having greater resources or better skills, education, facilities, etc.", "S": [], "A": []}

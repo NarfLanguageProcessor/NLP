@@ -1,0 +1,1 @@
+{"index": 140524, "D": "an abnormal condition characterized by an enlarged spleen that prematurely destroys red blood cells or platelets.", "S": [], "A": []}

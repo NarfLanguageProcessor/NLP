@@ -1,0 +1,1 @@
+{"index": 276862, "D": "third person singular present tense of say1. ", "S": [], "A": []}

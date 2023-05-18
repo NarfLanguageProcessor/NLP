@@ -1,0 +1,1 @@
+{"index": 273164, "D": "a mineral of the chlorite group, essentially hydrated magnesium and aluminum silicate with some ferrous iron.", "S": [], "A": []}

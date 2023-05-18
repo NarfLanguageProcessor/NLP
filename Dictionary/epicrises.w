@@ -1,0 +1,1 @@
+{"index": 102325, "D": "a critical study or evaluation.", "S": [], "A": []}

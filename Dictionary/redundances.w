@@ -1,0 +1,1 @@
+{"index": 264498, "D": "the state of being redundant.", "S": ["exuberance ", "glut ", "overkill ", "surplus ", "waste "], "A": ["insufficiency ", "lack ", "need ", "want ", "base ", "core ", "few ", "little ", "scarcity "]}

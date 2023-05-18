@@ -1,0 +1,1 @@
+{"index": 305710, "D": "characterized by financial difficulty or limited means", "S": ["bankrupt "], "A": []}

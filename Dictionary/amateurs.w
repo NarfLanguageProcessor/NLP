@@ -1,0 +1,1 @@
+{"index": 9870, "D": "Compare professional. ", "S": ["abecedarian ", "apprentice ", "aspirant ", "beginner ", "dabbler ", "dilettante ", "greenhorn ", "ham ", "hopeful ", "layperson ", "learner ", "neophyte ", "novice ", "probationer ", "putterer ", "recruit ", "tenderfoot ", "tyro "], "A": ["expert ", "professional "]}

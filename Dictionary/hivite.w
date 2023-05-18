@@ -1,0 +1,1 @@
+{"index": 142005, "D": "a member of an ancient people inhabiting Canaan, conquered by the Israelites.", "S": [], "A": []}

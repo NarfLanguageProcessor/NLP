@@ -1,0 +1,1 @@
+{"index": 361533, "D": "a hard, readily cut and polished rubber, obtained by vulcanizing rubber with a large amount of sulfur, used in the manufacture of combs, buttons, and for electric insulation.", "S": [], "A": []}

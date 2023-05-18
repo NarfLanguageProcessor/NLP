@@ -1,0 +1,1 @@
+{"index": 42926, "D": "to bat (a pitched ball) very gently so that it rolls into the infield close to home plate, usually by holding the bat loosely in hands spread apart and allowing the ball to bounce off it.", "S": [], "A": []}

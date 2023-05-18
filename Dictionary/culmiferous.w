@@ -1,0 +1,1 @@
+{"index": 74759, "D": "having or producing culms. ", "S": [], "A": []}

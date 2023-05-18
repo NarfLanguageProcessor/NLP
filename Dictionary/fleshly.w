@@ -1,0 +1,1 @@
+{"index": 114446, "D": "of or relating to the flesh or body; bodily, corporeal, or physical.", "S": ["animal ", "animalistic ", "bodily ", "carnal ", "erotic ", "gross ", "lascivious ", "lewd ", "lustful ", "profane ", "sensual ", "venereal ", "voluptuous "], "A": ["immaterial ", "mentally ", "religious ", "spiritual "]}

@@ -1,0 +1,1 @@
+{"index": 44986, "D": "a member of a tribe descended from Caleb. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82383, "D": "to remove the hard deposit formed by chemicals in water from (a kettle, pipe, etc)", "S": [], "A": []}

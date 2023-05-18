@@ -1,0 +1,1 @@
+{"index": 252857, "D": "a receptor  located in subcutaneous tissues, as muscles, tendons, and joints, that responds to stimuli produced within the body.", "S": [], "A": []}

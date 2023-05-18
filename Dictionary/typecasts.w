@@ -1,0 +1,1 @@
+{"index": 324169, "D": "to cast  (a performer) in a role that requires characteristics of physique, manner, personality, etc., similar to those possessed by the performer.", "S": ["classify ", "pigeonhole "], "A": ["scatter "]}

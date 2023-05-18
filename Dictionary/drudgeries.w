@@ -1,0 +1,1 @@
+{"index": 93489, "D": "menial, distasteful, dull, or hard work.", "S": ["chore ", "grind ", "labor ", "struggle ", "sweat ", "toil ", "travail ", "workout "], "A": ["entertainment ", "fun "]}

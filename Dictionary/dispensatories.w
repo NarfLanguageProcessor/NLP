@@ -1,0 +1,1 @@
+{"index": 88940, "D": "a book in which the composition, preparation, and uses of medicinal substances are described; a nonofficial pharmacopoeia.", "S": [], "A": []}

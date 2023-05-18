@@ -1,0 +1,1 @@
+{"index": 210224, "D": "neither perpendicular nor parallel to a given line or surface; slanting; sloping.", "S": ["dodging "], "A": ["directness ", "frankness ", "honesty ", "openness ", "reality ", "truth "]}

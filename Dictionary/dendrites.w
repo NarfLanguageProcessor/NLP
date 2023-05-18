@@ -1,0 +1,1 @@
+{"index": 81026, "D": "any arborescent crystalline growth.", "S": [], "A": []}

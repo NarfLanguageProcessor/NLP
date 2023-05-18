@@ -1,0 +1,1 @@
+{"index": 51023, "D": "having a centrally located yolk, as certain insect eggs or ova.", "S": [], "A": []}

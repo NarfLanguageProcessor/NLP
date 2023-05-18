@@ -1,0 +1,1 @@
+{"index": 78419, "D": "something, as a ship or bed, having a specified number of decks,  floors, levels, or the like (used in combination)", "S": [], "A": []}

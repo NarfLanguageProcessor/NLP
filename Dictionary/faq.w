@@ -1,0 +1,1 @@
+{"index": 109834, "D": "a document, in question and answer format, that introduces newcomers to a topic or answers common questions.", "S": ["common answers ", "common questions ", "listed questions and answers "], "A": []}

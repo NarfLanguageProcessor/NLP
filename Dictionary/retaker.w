@@ -1,0 +1,1 @@
+{"index": 270277, "D": "to take  again; take back.", "S": [], "A": []}

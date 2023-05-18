@@ -1,0 +1,1 @@
+{"index": 194313, "D": "a wrapping of several turns of small stuff around the shank end of a hook.", "S": [], "A": []}

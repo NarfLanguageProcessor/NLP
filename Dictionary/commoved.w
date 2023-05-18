@@ -1,0 +1,1 @@
+{"index": 64208, "D": "to move violently; agitate; excite.", "S": ["amaze ", "animate ", "astonish ", "astound ", "disturb ", "energize ", "excite ", "galvanize ", "invigorate ", "jolt ", "rouse ", "startle ", "stir ", "stun "], "A": ["bore ", "calm ", "comfort ", "compose ", "deaden ", "depress ", "discourage ", "dull ", "expect ", "pacify ", "quiet "]}

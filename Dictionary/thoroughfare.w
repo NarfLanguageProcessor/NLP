@@ -1,0 +1,1 @@
+{"index": 322432, "D": "a road, street, or the like, that leads at each end into another street.", "S": ["artery ", "avenue ", "boulevard ", "causeway ", "expressway ", "freeway ", "highway ", "lane ", "street ", "waterway "], "A": []}

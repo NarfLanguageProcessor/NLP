@@ -1,0 +1,1 @@
+{"index": 214502, "D": "wild or drunken festivity or revelry, especially involving sex with multiple participants.", "S": ["binge ", "rampage ", "spree "], "A": ["lack ", "moderation ", "need ", "want "]}

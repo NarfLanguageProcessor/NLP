@@ -1,0 +1,1 @@
+{"index": 12808, "D": "the repair of a blood vessel, as by inserting a balloon-tipped catheter to unclog it or by replacing part of the vessel with either a piece of the patient's own tissue or a prosthetic device", "S": [], "A": []}

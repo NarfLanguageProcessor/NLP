@@ -1,0 +1,1 @@
+{"index": 29243, "D": "of or relating to Bavaria,  its inhabitants, or their dialect.", "S": [], "A": []}

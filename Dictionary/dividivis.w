@@ -1,0 +1,1 @@
+{"index": 90333, "D": "a tropical American shrub or small tree, Caesalpinia coriaria, of the legume family, the astringent pods of which are used in tanning and dyeing.", "S": [], "A": []}

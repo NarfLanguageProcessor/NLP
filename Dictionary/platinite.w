@@ -1,0 +1,1 @@
+{"index": 239442, "D": "a brand name for an alloy of about 55 percent iron and 45 percent nickel, having the same coefficient of expansion as platinum and used as a substitute for platinum in electrical work.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 6495, "D": "any plant belonging to the genus Agrimonia, of the rose family, especially the perennial A. eupatoria, having pinnate leaves and small, yellow flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 114453, "D": "the state of being stimulated, as by a successful first attempt at something.", "S": [], "A": []}

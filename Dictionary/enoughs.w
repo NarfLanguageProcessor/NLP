@@ -1,0 +1,1 @@
+{"index": 100832, "D": [], "S": ["abundant ", "adequate ", "ample ", "full ", "sufficient ", "suitable "], "A": ["inadequate ", "insufficient ", "lacking ", "unsuitable "]}

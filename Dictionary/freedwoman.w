@@ -1,0 +1,1 @@
+{"index": 118595, "D": "a woman who has been freed from slavery.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 174973, "D": "having considerable linear extent in space", "S": [], "A": []}

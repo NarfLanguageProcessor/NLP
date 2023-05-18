@@ -1,0 +1,1 @@
+{"index": 249896, "D": "characterized by assumption of dignity or importance, especially when exaggerated or undeserved", "S": ["selfishly "], "A": []}

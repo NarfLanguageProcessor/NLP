@@ -1,0 +1,1 @@
+{"index": 260405, "D": "a European bellflower, Campanula rapunculus, of the bellflower family,  having an edible white tuberous root used in Europe for salad.", "S": [], "A": []}

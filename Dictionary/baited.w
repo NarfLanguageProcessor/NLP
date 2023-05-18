@@ -1,0 +1,1 @@
+{"index": 26545, "D": "food, or some substitute, used as a lure in fishing, trapping, etc.", "S": ["enticement "], "A": ["discouragement ", "drag ", "repulsion "]}

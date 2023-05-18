@@ -1,0 +1,1 @@
+{"index": 272707, "D": "Dame Lucie, original name Lucie Gomperz . 1902\u201395, British potter, born in Austria", "S": [], "A": []}

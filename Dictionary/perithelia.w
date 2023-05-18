@@ -1,0 +1,1 @@
+{"index": 231414, "D": "the connective tissue surrounding certain small vessels, as capillaries.", "S": [], "A": []}

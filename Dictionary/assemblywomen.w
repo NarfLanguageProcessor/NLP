@@ -1,0 +1,1 @@
+{"index": 21660, "D": "a woman  who is a member of a legislative assembly, especially a member of the lower house of the legislature in certain states of the United States.", "S": [], "A": []}

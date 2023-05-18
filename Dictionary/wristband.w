@@ -1,0 +1,1 @@
+{"index": 368019, "D": "the band  of a sleeve, especially that of a shirt sleeve, that covers the wrist. ", "S": [], "A": []}

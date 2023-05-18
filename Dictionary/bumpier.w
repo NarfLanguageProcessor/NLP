@@ -1,0 +1,1 @@
+{"index": 42760, "D": "of uneven surface; full of bumps", "S": ["choppy ", "jarring ", "jerky ", "rugged ", "rutted ", "uneven "], "A": ["calm ", "even ", "level ", "smooth "]}

@@ -1,0 +1,1 @@
+{"index": 142753, "D": "a person who prefers pleasures and activities that center around the home;  stay-at-home.", "S": ["observer "], "A": ["extrovert "]}

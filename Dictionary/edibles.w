@@ -1,0 +1,1 @@
+{"index": 95737, "D": "articles fit to eat; food", "S": ["victuals "], "A": []}

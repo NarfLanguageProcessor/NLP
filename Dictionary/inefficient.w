@@ -1,0 +1,1 @@
+{"index": 151497, "D": "not efficient;  unable to effect or achieve the desired result with reasonable economy of means.", "S": ["disorganized ", "faulty ", "feeble ", "incompetent ", "ineffective ", "ineffectual ", "inept ", "sloppy ", "weak "], "A": ["able ", "capable ", "competent ", "dexterous ", "effective ", "fit ", "neat ", "skillful ", "sound ", "strong ", "tidy "]}

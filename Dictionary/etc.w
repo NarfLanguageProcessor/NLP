@@ -1,0 +1,1 @@
+{"index": 104810, "D": "and others; and so forth; and so on (used to indicate that more of the same sort or class might have been mentioned, but for brevity have been omitted)", "S": [], "A": []}

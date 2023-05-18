@@ -1,0 +1,1 @@
+{"index": 49084, "D": "the dialect of Spanish spoken in Castile. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 88656, "D": "to deprive or strip of apparatus, furniture, equipment, defenses, etc.", "S": ["ax job ", "calumniation ", "defamation ", "poison-pen letter ", "unmaking "], "A": []}

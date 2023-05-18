@@ -1,0 +1,1 @@
+{"index": 322166, "D": "an anterior pituitary hormone that regulates the activity of the thyroid gland.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 163909, "D": "to make or become keratinous.", "S": [], "A": []}

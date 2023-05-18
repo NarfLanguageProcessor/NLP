@@ -1,0 +1,1 @@
+{"index": 239374, "D": "having a head whose cranial vault is broad or flat.", "S": [], "A": []}

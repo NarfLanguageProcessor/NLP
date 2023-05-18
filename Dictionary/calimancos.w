@@ -1,0 +1,1 @@
+{"index": 45167, "D": "a variant of calamanco. ", "S": [], "A": []}

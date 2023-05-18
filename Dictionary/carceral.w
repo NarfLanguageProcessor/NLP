@@ -1,0 +1,1 @@
+{"index": 47646, "D": "of or relating to prison or imprisonment, or to other formal methods of social control", "S": [], "A": []}

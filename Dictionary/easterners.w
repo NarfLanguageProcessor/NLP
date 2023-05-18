@@ -1,0 +1,1 @@
+{"index": 94927, "D": "a native or inhabitant of an eastern  area, especially of the eastern  U.S.", "S": [], "A": []}

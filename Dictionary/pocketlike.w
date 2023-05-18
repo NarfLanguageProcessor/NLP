@@ -1,0 +1,1 @@
+{"index": 240942, "D": "a shaped piece of fabric attached inside or outside a garment and forming a pouch used especially for carrying small articles.", "S": [], "A": []}

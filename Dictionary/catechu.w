@@ -1,0 +1,1 @@
+{"index": 49516, "D": "any of several astringent substances obtained from various tropical plants, especially from the wood of two East Indian acacias, Acacia catechu and A. suma", "S": [], "A": []}

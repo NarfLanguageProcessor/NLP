@@ -1,0 +1,1 @@
+{"index": 268740, "D": "a state in which the supreme power rests in the body of citizens entitled to vote and is exercised by representatives chosen directly or indirectly by them.", "S": ["commonwealth ", "self-government "], "A": []}

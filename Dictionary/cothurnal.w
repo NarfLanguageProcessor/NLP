@@ -1,0 +1,1 @@
+{"index": 70317, "D": "a grave and elevated style of acting; tragic acting; tragedy.", "S": [], "A": []}

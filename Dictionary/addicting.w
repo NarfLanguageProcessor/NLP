@@ -1,0 +1,1 @@
+{"index": 3533, "D": "producing or tending to cause addiction", "S": ["addicted ", "chronic ", "hardened ", "inveterate ", "perpetual ", "repeated "], "A": ["temporary "]}

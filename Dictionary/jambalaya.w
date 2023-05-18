@@ -1,0 +1,1 @@
+{"index": 160239, "D": "a dish of Creole origin, consisting of rice cooked with ham, sausage, chicken, or shellfish, herbs, spices, and vegetables, especially tomatoes, onions, and peppers.", "S": [], "A": []}

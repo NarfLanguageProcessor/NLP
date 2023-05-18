@@ -1,0 +1,1 @@
+{"index": 106352, "D": "a female sheep, especially when fully mature.", "S": [], "A": []}

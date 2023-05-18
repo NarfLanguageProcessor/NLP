@@ -1,0 +1,1 @@
+{"index": 280759, "D": "supposed knowledge of natural or supernatural phenomena or forces, usually based on tradition, as astrology or phrenology.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205487, "D": "not taking part or giving assistance in a dispute or war between others", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 272164, "D": "an ancient Greek drinking horn, made of pottery or metal, having a base in the form of the head of a woman or animal.", "S": [], "A": []}

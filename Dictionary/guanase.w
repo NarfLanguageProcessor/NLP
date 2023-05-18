@@ -1,0 +1,1 @@
+{"index": 130711, "D": "an enzyme that converts guanine to xanthine by removal of an amino group", "S": [], "A": []}

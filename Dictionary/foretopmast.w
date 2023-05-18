@@ -1,0 +1,1 @@
+{"index": 117113, "D": "the spar or section of a pole mast serving as the topmast of a foremast on a ship.", "S": [], "A": []}

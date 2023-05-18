@@ -1,0 +1,1 @@
+{"index": 104875, "D": "ethanoyl group or radical", "S": [], "A": []}

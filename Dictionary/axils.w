@@ -1,0 +1,1 @@
+{"index": 25117, "D": "the angle between the upper side of a leaf or stem and the supporting stem or branch.", "S": [], "A": []}

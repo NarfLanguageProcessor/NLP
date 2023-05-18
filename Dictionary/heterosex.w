@@ -1,0 +1,1 @@
+{"index": 137747, "D": "heterosexuality. ", "S": [], "A": []}

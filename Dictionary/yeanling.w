@@ -1,0 +1,1 @@
+{"index": 146702, "D": "the young of a sheep or goat; a lamb or kid.", "S": [], "A": []}

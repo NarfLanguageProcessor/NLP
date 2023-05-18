@@ -1,0 +1,1 @@
+{"index": 279195, "D": "a past participle of saw1. ", "S": ["carve ", "divide ", "rip ", "slash ", "slice "], "A": ["combine ", "unite ", "close ", "connect ", "join ", "mend "]}

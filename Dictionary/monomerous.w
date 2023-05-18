@@ -1,0 +1,1 @@
+{"index": 192423, "D": "consisting of one part.", "S": [], "A": []}

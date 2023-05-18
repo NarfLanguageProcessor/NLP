@@ -1,0 +1,1 @@
+{"index": 67939, "D": "suitability; expediency; propriety.", "S": ["civility ", "correctness ", "decency ", "demeanor ", "dignity ", "gentility ", "orderliness ", "politeness ", "propriety ", "respectability "], "A": ["immorality ", "impropriety ", "rudeness ", "unsuitableness ", "wrong ", "bad manners ", "disorganization "]}

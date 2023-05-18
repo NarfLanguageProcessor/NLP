@@ -1,0 +1,1 @@
+{"index": 346179, "D": "sweetly or smoothly flowing; sweet-sounding", "S": [], "A": []}

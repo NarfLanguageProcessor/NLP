@@ -1,0 +1,1 @@
+{"index": 296501, "D": "any tree, shrub, or herbaceous plant of the mainly tropical solanaceous genus Solanum", "S": [], "A": []}

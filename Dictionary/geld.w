@@ -1,0 +1,1 @@
+{"index": 123224, "D": "to castrate (an animal, especially a horse).", "S": ["alter ", "emasculate ", "fix ", "neuter ", "spay ", "sterilize ", "unman "], "A": ["aid ", "assist ", "help "]}

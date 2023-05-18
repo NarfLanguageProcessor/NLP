@@ -1,0 +1,1 @@
+{"index": 330146, "D": "any of three yellow crystalline compounds having the formula C9H3N3O6, capable of more explosive power and requiring more impact than TNT.", "S": [], "A": []}

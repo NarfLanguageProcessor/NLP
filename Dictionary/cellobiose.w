@@ -1,0 +1,1 @@
+{"index": 50586, "D": "a white, crystalline, water-soluble disaccharide, C12H22O11, that is obtained by the breakdown of cellulose  or lichenin and yields glucose upon hydrolysis", "S": [], "A": []}

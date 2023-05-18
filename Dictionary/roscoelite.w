@@ -1,0 +1,1 @@
+{"index": 274455, "D": "a brown variety of muscovite in which some aluminum is replaced by vanadium.", "S": [], "A": []}

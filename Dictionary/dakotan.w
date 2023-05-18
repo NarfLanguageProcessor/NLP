@@ -1,0 +1,1 @@
+{"index": 76427, "D": "of or relating to Dakota or its inhabitants", "S": [], "A": []}

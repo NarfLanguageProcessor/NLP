@@ -1,0 +1,1 @@
+{"index": 99080, "D": "polymorphism in which one of the polymorphs may revert to the state of the other at a critical temperature and pressure.", "S": [], "A": []}

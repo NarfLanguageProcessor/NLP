@@ -1,0 +1,1 @@
+{"index": 120450, "D": "a structure or apparatus in which heat may be generated, as for heating houses, smelting ores, or producing steam.", "S": [], "A": []}

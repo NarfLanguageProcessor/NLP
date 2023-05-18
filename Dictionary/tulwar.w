@@ -1,0 +1,1 @@
+{"index": 332254, "D": "any of several Indian sabers.", "S": [], "A": []}

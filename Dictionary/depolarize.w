@@ -1,0 +1,1 @@
+{"index": 81707, "D": "to undergo or cause to undergo a loss of polarity or polarization", "S": [], "A": []}

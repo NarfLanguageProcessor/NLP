@@ -1,0 +1,1 @@
+{"index": 8289, "D": "nourishing; nutritive.", "S": ["wholesome "], "A": ["bad ", "unhealthy ", "unwholesome "]}

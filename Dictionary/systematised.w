@@ -1,0 +1,1 @@
+{"index": 292532, "D": "to arrange in or according to a system;  reduce to a system;  make systematic. ", "S": [], "A": []}

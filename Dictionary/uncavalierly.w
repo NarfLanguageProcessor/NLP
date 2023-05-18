@@ -1,0 +1,1 @@
+{"index": 336610, "D": "a horseman, especially a mounted soldier; knight.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 352049, "D": "stiffly dignified or formal, as speech or literary style; pompous.", "S": [], "A": []}

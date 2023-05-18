@@ -1,0 +1,1 @@
+{"index": 179388, "D": "resembling a human being; anthropoid.", "S": ["boldness ", "courage ", "manfulness ", "manhood ", "strength ", "virility "], "A": ["cowardice ", "fear ", "weakness "]}

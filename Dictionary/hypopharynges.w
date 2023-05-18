@@ -1,0 +1,1 @@
+{"index": 141064, "D": "a tonguelike lobe on the floor of the mouth in many insects.", "S": [], "A": []}

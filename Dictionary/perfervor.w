@@ -1,0 +1,1 @@
+{"index": 230633, "D": "very fervent; extremely ardent; impassioned", "S": [], "A": []}

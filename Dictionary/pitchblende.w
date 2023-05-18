@@ -1,0 +1,1 @@
+{"index": 238227, "D": "a massive variety of uraninite, occurring in black pitchlike masses", "S": [], "A": []}

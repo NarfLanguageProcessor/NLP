@@ -1,0 +1,1 @@
+{"index": 225182, "D": "a small, heavy object of glass, metal, etc., placed on papers  to keep them from scattering.", "S": [], "A": []}

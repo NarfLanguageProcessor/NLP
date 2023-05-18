@@ -1,0 +1,1 @@
+{"index": 310894, "D": "a part of a sum.", "S": [], "A": []}

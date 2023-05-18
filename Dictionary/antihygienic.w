@@ -1,0 +1,1 @@
+{"index": 15369, "D": "conducive to good health; healthful; sanitary.", "S": [], "A": []}

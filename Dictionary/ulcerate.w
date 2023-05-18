@@ -1,0 +1,1 @@
+{"index": 333727, "D": "to form an ulcer;  become ulcerous", "S": ["smolder "], "A": ["build ", "delight ", "flourish ", "grow ", "improve ", "make happy ", "please "]}

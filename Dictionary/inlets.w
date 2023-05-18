@@ -1,0 +1,1 @@
+{"index": 152980, "D": "an indentation of a shoreline, usually long and narrow; small bay or arm.", "S": ["basin ", "estuary ", "fjord "], "A": []}

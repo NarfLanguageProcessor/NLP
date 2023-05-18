@@ -1,0 +1,1 @@
+{"index": 34640, "D": "having both margins toothed like a comb, as the antennae of certain moths.", "S": [], "A": []}

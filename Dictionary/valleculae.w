@@ -1,0 +1,1 @@
+{"index": 356760, "D": "a furrow or depression.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 337259, "D": "to bring into or join in a close union or whole; unite", "S": ["break ", "detach ", "disconnect ", "divide ", "divorce ", "sever ", "split "], "A": ["agree ", "attach ", "combine ", "connect ", "couple ", "join ", "link ", "unite ", "close ", "mend "]}

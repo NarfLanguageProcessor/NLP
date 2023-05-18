@@ -1,0 +1,1 @@
+{"index": 347713, "D": "(of a stamp) not provided with perforations", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 84109, "D": "(of a leaf) having a fanlike arrangement of veins.", "S": [], "A": []}

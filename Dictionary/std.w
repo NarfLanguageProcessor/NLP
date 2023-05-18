@@ -1,0 +1,1 @@
+{"index": 303224, "D": "any disease characteristically transmitted by sexual contact, as gonorrhea, syphilis, genital herpes, and chlamydia.", "S": ["acquired immune deficiency syndrome ", "sexually transmitted disease ", "virus "], "A": []}

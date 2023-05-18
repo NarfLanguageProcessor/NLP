@@ -1,0 +1,1 @@
+{"index": 142806, "D": "a person who manages the household of their own family, especially as a principal occupation.", "S": ["family manager ", "home economist ", "home engineer ", "lady of the house ", "mistress of the house ", "wife and mother "], "A": []}

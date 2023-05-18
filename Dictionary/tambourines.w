@@ -1,0 +1,1 @@
+{"index": 315865, "D": "a small drum consisting of a circular frame with a skin stretched over it and several pairs of metal jingles attached to the frame, played by striking with the knuckles, shaking, and the like.", "S": [], "A": []}

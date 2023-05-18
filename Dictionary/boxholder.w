@@ -1,0 +1,1 @@
+{"index": 39291, "D": "a person who has rented or subscribed for a box,  as at a theatrical performance, sporting event, or the like.", "S": [], "A": []}

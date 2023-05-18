@@ -1,0 +1,1 @@
+{"index": 254539, "D": "a person who upon their own petition or that of their creditors is adjudged insolvent by a court and whose property is administered for and divided among their creditors under a bankruptcy  law.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 126975, "D": "of the nature of glue; gluey; viscid; sticky.", "S": [], "A": []}

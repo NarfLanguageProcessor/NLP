@@ -1,0 +1,1 @@
+{"index": 13805, "D": "without any name acknowledged, as that of author, contributor, or the like", "S": ["nameless ", "undisclosed ", "unidentified ", "unnamed ", "unsigned "], "A": ["known ", "named "]}

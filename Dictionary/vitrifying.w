@@ -1,0 +1,1 @@
+{"index": 360642, "D": "to convert or be converted into glass.", "S": ["coat ", "rub "], "A": ["dull ", "reveal "]}

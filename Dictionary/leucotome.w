@@ -1,0 +1,1 @@
+{"index": 171108, "D": "an instrument for dissecting the white matter of the brain, consisting of a cannula containing a slender rotating blade.", "S": [], "A": []}

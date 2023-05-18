@@ -1,0 +1,1 @@
+{"index": 366005, "D": "windowpane (def. 1). ", "S": [], "A": []}

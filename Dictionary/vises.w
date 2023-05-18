@@ -1,0 +1,1 @@
+{"index": 360382, "D": "strength; force; power.", "S": ["chuck ", "tool ", "winch "], "A": []}

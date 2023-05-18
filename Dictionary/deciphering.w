@@ -1,0 +1,1 @@
+{"index": 78391, "D": "to make out the meaning of (poor or partially obliterated writing, etc.)", "S": ["analyze ", "break down ", "decode ", "deduce ", "elucidate ", "interpret ", "solve ", "translate ", "unravel "], "A": ["conceal ", "confuse ", "fix ", "hide ", "mend ", "obscure ", "suppress "]}

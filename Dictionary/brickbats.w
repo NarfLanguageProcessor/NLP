@@ -1,0 +1,1 @@
+{"index": 40585, "D": "a piece of broken brick,  especially one used as a missile.", "S": ["denunciation ", "objection "], "A": ["approval ", "compliment ", "flattery ", "praise ", "sanction "]}

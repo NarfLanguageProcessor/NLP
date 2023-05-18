@@ -1,0 +1,1 @@
+{"index": 254271, "D": "having, inclined to have, or characterized by lascivious or lustful thoughts, desires, etc.", "S": [], "A": []}

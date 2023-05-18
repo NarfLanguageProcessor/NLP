@@ -1,0 +1,1 @@
+{"index": 161570, "D": "a literary style characterized by rhetorically balanced, often pompous phraseology and an excessively Latinate vocabulary", "S": [], "A": []}

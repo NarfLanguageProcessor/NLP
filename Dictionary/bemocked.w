@@ -1,0 +1,1 @@
+{"index": 31410, "D": "to mock  or jeer at (something or someone)", "S": [], "A": []}

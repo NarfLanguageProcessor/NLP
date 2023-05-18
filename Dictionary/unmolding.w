@@ -1,0 +1,1 @@
+{"index": 346521, "D": "to take out of a mold", "S": [], "A": []}

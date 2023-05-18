@@ -1,0 +1,1 @@
+{"index": 233465, "D": "any chemical substance released by an animal that serves to influence the physiology or behavior of other members of the same species.", "S": ["aura ", "bouquet ", "essence ", "odor ", "perfume ", "spice ", "whiff "], "A": ["odor ", "stench ", "stink "]}

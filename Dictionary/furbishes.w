@@ -1,0 +1,1 @@
+{"index": 120352, "D": "to restore to freshness of appearance or good condition (often followed by up)", "S": ["brighten ", "buff ", "burnish ", "clean ", "glaze ", "gloss ", "improve ", "recondition ", "refurbish ", "rehabilitate ", "renew ", "restore ", "rub ", "shine "], "A": ["damage ", "destroy ", "dull ", "hurt ", "ruin "]}

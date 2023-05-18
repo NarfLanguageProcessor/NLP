@@ -1,0 +1,1 @@
+{"index": 151388, "D": "an official functionary of a king or chief in South African Bantu societies.", "S": [], "A": []}

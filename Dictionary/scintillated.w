@@ -1,0 +1,1 @@
+{"index": 280716, "D": "to emit sparks.", "S": ["flash ", "glimmer ", "glitter ", "shine ", "sparkle "], "A": ["dull "]}

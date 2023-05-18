@@ -1,0 +1,1 @@
+{"index": 63311, "D": "(of cigars) of medium color and strength.", "S": [], "A": []}

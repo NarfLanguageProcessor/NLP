@@ -1,0 +1,1 @@
+{"index": 305326, "D": "cock1 (def. 3). ", "S": ["nozzle ", "valve "], "A": []}

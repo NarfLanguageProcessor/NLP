@@ -1,0 +1,1 @@
+{"index": 85682, "D": "dilating; expanding.", "S": ["extensive ", "far-reaching ", "inclusive ", "wide-ranging "], "A": ["narrow "]}

@@ -1,0 +1,1 @@
+{"index": 167883, "D": "any tropical, leguminous tree or shrub of the genus Lonchocarpus, the roots of which yield rotenone.", "S": [], "A": []}

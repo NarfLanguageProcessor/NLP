@@ -1,0 +1,1 @@
+{"index": 11911, "D": "capable of diminishing sexual desire.", "S": [], "A": []}

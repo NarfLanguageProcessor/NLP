@@ -1,0 +1,1 @@
+{"index": 348724, "D": "having a low opinion of one\u2019s own traits, associations, behavior, etc.", "S": [], "A": []}

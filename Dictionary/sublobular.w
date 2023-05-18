@@ -1,0 +1,1 @@
+{"index": 308445, "D": "composed of, having the form of, or pertaining to lobules  or small lobes.", "S": [], "A": []}

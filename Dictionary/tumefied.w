@@ -1,0 +1,1 @@
+{"index": 332295, "D": "to make or become swollen or tumid.", "S": ["distended "], "A": ["deflated ", "shrunken "]}

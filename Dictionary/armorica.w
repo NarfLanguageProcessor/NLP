@@ -1,0 +1,1 @@
+{"index": 19989, "D": "an ancient region in NW France, corresponding generally to Brittany.", "S": [], "A": []}

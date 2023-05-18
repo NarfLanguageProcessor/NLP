@@ -1,0 +1,1 @@
+{"index": 293554, "D": "not tight, taut, firm, or tense; a slack rope.", "S": ["feeble ", "lax ", "leisurely ", "sloppy ", "sluggish "], "A": ["active ", "intelligent ", "lively ", "quick ", "smart ", "strong "]}

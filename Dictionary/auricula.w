@@ -1,0 +1,1 @@
+{"index": 23555, "D": "a widely cultivated alpine primrose, Primula auricula, with leaves shaped like a bear's ear", "S": [], "A": []}

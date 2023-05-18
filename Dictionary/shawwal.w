@@ -1,0 +1,1 @@
+{"index": 287673, "D": "the tenth month of the Muslim calendar. ", "S": [], "A": []}

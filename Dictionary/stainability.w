@@ -1,0 +1,1 @@
+{"index": 302412, "D": "a discoloration produced by foreign matter having penetrated into or chemically reacted with a material; a spot not easily removed.", "S": [], "A": []}

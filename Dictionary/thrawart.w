@@ -1,0 +1,1 @@
+{"index": 322539, "D": "obstinate or intractable.", "S": [], "A": []}

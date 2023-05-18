@@ -1,0 +1,1 @@
+{"index": 143915, "D": "any instrument for indicating the time, especially a sundial or an early form of clock.", "S": ["calendar ", "chronograph ", "chronometer ", "chronoscope ", "clepsydra ", "clock ", "dial ", "gnomon ", "hourglass ", "metronome ", "pendulum ", "repeater ", "stopwatch ", "sundial ", "watch "], "A": []}

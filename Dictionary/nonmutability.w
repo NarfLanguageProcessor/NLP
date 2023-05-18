@@ -1,0 +1,1 @@
+{"index": 205399, "D": "the quality of being liable to undergo change or alteration", "S": [], "A": []}

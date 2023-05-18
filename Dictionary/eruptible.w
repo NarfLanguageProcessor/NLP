@@ -1,0 +1,1 @@
+{"index": 104061, "D": "to burst forth", "S": [], "A": []}

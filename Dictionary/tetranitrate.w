@@ -1,0 +1,1 @@
+{"index": 320119, "D": "a compound containing four nitrate  groups.", "S": [], "A": []}

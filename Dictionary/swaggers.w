@@ -1,0 +1,1 @@
+{"index": 313961, "D": "to walk or strut with a defiant or insolent air.", "S": ["bluster ", "gloat ", "prance ", "sashay ", "saunter ", "strut "], "A": ["deprecate "]}

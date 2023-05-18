@@ -1,0 +1,1 @@
+{"index": 282934, "D": "the act of securing. ", "S": [], "A": []}

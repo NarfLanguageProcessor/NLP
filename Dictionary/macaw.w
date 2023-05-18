@@ -1,0 +1,1 @@
+{"index": 176669, "D": "any of various large, long-tailed parrots  of tropical and subtropical America, noted for their brilliant plumage and distinctive light-colored facial patches", "S": [], "A": []}

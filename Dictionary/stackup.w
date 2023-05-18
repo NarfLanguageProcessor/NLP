@@ -1,0 +1,1 @@
+{"index": 302239, "D": "stack (def. 13). ", "S": ["accrue ", "acquire ", "add to ", "assemble ", "collect ", "compile ", "concentrate ", "expand ", "gain ", "grow ", "hoard ", "increase ", "pile up ", "rack up ", "swell "], "A": ["contract ", "decrease ", "diminish ", "disperse ", "divide ", "forfeit ", "lessen ", "lose ", "scatter ", "separate ", "shrink ", "spend ", "waste "]}

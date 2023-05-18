@@ -1,0 +1,1 @@
+{"index": 104444, "D": "to make one's own; adopt or embrace, as a cause.", "S": ["adopt ", "advocate ", "defend ", "embrace ", "maintain ", "uphold "], "A": ["attack ", "desert ", "reject ", "disagree ", "disallow ", "oppose ", "refuse "]}

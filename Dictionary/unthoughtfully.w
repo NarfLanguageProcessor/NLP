@@ -1,0 +1,1 @@
+{"index": 352938, "D": "showing consideration for others; considerate. ", "S": [], "A": []}

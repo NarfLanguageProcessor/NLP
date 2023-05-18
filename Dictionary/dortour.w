@@ -1,0 +1,1 @@
+{"index": 91826, "D": "a dormitory, especially in a monastery.", "S": [], "A": []}

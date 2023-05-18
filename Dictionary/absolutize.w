@@ -1,0 +1,1 @@
+{"index": 1000, "D": "to render absolute;  consider or declare perfect, complete, or unchangeable", "S": [], "A": []}

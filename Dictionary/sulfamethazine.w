@@ -1,0 +1,1 @@
+{"index": 310384, "D": "US name for sulfadimidine", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 300943, "D": "a spore  that is produced within a sporangium. ", "S": [], "A": []}

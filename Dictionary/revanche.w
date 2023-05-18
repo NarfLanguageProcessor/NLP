@@ -1,0 +1,1 @@
+{"index": 271096, "D": "the policy of a state intent on regaining areas of its original territory that have been lost to other states as a result of war, a treaty signed under duress, etc.", "S": ["comeuppance ", "compensation ", "punishment ", "reckoning ", "redress ", "reprisal ", "retaliation ", "revenge ", "vengeance "], "A": ["forgiveness ", "pardon ", "sympathy "]}

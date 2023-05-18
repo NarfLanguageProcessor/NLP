@@ -1,0 +1,1 @@
+{"index": 38436, "D": "of or containing boron;  boracic.", "S": [], "A": []}

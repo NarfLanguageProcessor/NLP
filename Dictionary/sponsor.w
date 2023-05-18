@@ -1,0 +1,1 @@
+{"index": 300816, "D": "a person who vouches or is responsible for a person or thing.", "S": ["advocate ", "backer ", "benefactor ", "patron ", "promoter ", "supporter ", "underwriter "], "A": ["antagonist ", "enemy ", "opponent ", "opposer ", "opposition "]}

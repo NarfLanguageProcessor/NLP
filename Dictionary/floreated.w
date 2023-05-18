@@ -1,0 +1,1 @@
+{"index": 114995, "D": "a variant spelling of floriated", "S": [], "A": []}

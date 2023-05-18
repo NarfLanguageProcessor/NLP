@@ -1,0 +1,1 @@
+{"index": 63460, "D": "an instrument that magnifies the cells of the cervix and vagina to permit direct observation and study of the living tissue.", "S": [], "A": []}

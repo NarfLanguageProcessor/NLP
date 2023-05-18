@@ -1,0 +1,1 @@
+{"index": 73932, "D": "a whitish liquid with pungent and suffocating odor, C4H6O, soluble in water, used as a solvent, in tear gas, and in organic synthesis.", "S": [], "A": []}

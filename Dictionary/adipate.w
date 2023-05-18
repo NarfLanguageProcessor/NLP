@@ -1,0 +1,1 @@
+{"index": 3935, "D": "a salt or ester of adipic acid.", "S": [], "A": []}

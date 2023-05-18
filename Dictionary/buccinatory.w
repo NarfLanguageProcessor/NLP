@@ -1,0 +1,1 @@
+{"index": 41983, "D": "a thin, flat muscle lining the cheek, the action of which contracts and compresses the cheek.", "S": [], "A": []}

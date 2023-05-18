@@ -1,0 +1,1 @@
+{"index": 327657, "D": "a drug that calms a person without affecting clarity of consciousness", "S": ["medication ", "narcotic ", "opiate ", "sleeping pill "], "A": []}

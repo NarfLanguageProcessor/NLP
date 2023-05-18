@@ -1,0 +1,1 @@
+{"index": 206834, "D": "simple past tense of retard. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 79135, "D": "a person who surrenders easily or is subject to defeatism. ", "S": ["cynic "], "A": []}

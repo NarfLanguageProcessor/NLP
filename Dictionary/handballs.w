@@ -1,0 +1,1 @@
+{"index": 133097, "D": "a game, similar to squash, played by two or four persons who strike a small ball against a wall or walls with the hand.", "S": [], "A": []}

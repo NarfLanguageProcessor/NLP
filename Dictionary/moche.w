@@ -1,0 +1,1 @@
+{"index": 190992, "D": "of, relating to, or characteristic of a pre-Inca culture that flourished on the northern coast of Peru from the 3rd century b.c. to the 7th century a.d. and is especially noted for fine pottery vessels with stirrup spouts, some bearing drawings of all aspects of cultural life.", "S": [], "A": []}

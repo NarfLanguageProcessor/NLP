@@ -1,0 +1,1 @@
+{"index": 345403, "D": "to take the lading, load, or cargo from; unload.", "S": ["cast ", "disburden ", "discharge ", "discommode ", "disencumber ", "disgorge ", "dump ", "jettison ", "lighten ", "relieve ", "remove ", "rid ", "slough ", "unburden ", "unpack ", "void "], "A": ["burden ", "hold ", "keep ", "load ", "upset "]}

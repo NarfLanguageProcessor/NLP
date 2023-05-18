@@ -1,0 +1,1 @@
+{"index": 7085, "D": "neither entirely open nor entirely shut; partly open", "S": ["open ", "unclosed ", "unlatched ", "unshut "], "A": []}

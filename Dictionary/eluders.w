@@ -1,0 +1,1 @@
+{"index": 97828, "D": "to avoid or escape by speed, cleverness, trickery, etc.; evade", "S": [], "A": []}

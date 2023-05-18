@@ -1,0 +1,1 @@
+{"index": 15740, "D": "any substance that inhibits oxidation, as a substance that inhibits oxidative deterioration of gasoline, rubbers, plastics, soaps, etc.", "S": [], "A": []}

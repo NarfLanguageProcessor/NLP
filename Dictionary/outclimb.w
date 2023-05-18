@@ -1,0 +1,1 @@
+{"index": 216385, "D": "to surpass or outdo in climbing; climb  higher or better than", "S": [], "A": []}

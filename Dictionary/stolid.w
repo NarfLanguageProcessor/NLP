@@ -1,0 +1,1 @@
+{"index": 305060, "D": "not easily stirred or moved mentally; unemotional; impassive.", "S": ["impassive "], "A": ["aware ", "intelligent ", "interested "]}

@@ -1,0 +1,1 @@
+{"index": 328022, "D": "to turn from one language into another or from a foreign language into one's own", "S": ["convert ", "decipher ", "put ", "render ", "spell out ", "transcribe ", "turn "], "A": ["remove ", "take ", "complicate ", "confuse ", "mystify ", "obscure "]}

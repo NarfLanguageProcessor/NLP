@@ -1,0 +1,1 @@
+{"index": 296483, "D": "a case for maps, plates, etc., made to resemble a book and having the front cover and fore edge hinged.", "S": [], "A": []}

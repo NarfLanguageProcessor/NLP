@@ -1,0 +1,1 @@
+{"index": 165144, "D": "showing exaggerated affection, esp by frequent touching or kissing", "S": [], "A": []}

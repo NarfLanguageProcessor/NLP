@@ -1,0 +1,1 @@
+{"index": 293813, "D": "the rule or domination of slaveholders", "S": [], "A": []}

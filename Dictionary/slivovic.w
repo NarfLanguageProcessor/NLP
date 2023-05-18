@@ -1,0 +1,1 @@
+{"index": 294268, "D": "a dry, usually colorless, slightly bitter plum brandy from E Europe.", "S": [], "A": []}

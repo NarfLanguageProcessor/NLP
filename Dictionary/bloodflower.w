@@ -1,0 +1,1 @@
+{"index": 36432, "D": "a showy milkweed, Asclepias curassavica, of tropical America, having brilliant orange-red flowers  and smooth fruit.", "S": [], "A": []}

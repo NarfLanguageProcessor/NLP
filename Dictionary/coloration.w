@@ -1,0 +1,1 @@
+{"index": 63317, "D": "appearance with regard to color  arrangement or use of colors; coloring", "S": ["glow ", "hue ", "intensity ", "paint "], "A": ["black ", "white "]}

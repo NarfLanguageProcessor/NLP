@@ -1,0 +1,1 @@
+{"index": 313291, "D": "the person in charge; chief.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 75867, "D": "any of several cephalopods, especially of the genus Sepia, having eight arms with suckers and two tentacles, and ejecting a black, inklike fluid when in danger.", "S": ["abalone ", "clam ", "snail "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 143252, "D": "(of a plant) having styles of the same form or length in all flowers.", "S": [], "A": []}

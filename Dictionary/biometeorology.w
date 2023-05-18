@@ -1,0 +1,1 @@
+{"index": 34437, "D": "the scientific study of the effects of natural or artificial atmospheric conditions, as temperature and humidity, on living organisms.", "S": [], "A": []}

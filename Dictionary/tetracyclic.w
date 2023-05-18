@@ -1,0 +1,1 @@
+{"index": 319967, "D": "(of a compound) containing four rings in its molecular structure", "S": [], "A": []}

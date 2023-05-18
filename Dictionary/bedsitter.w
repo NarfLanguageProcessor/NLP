@@ -1,0 +1,1 @@
+{"index": 30216, "D": "a one-room apartment that combines into the one area a bedroom, living room, and often kitchen facilities", "S": [], "A": []}

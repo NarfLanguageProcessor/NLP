@@ -1,0 +1,1 @@
+{"index": 52466, "D": "a piece of plate armor for defending a horse's head.", "S": [], "A": []}

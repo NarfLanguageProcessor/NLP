@@ -1,0 +1,1 @@
+{"index": 201420, "D": "of or relating to the principles of architecture.", "S": [], "A": []}

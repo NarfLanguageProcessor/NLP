@@ -1,0 +1,1 @@
+{"index": 233613, "D": "of, relating to, or based on the evolutionary history of a group of organisms; phylogenetic.", "S": [], "A": []}

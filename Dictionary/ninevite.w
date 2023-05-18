@@ -1,0 +1,1 @@
+{"index": 200204, "D": "a native or inhabitant of Nineveh, the ancient capital of Assyria", "S": [], "A": []}

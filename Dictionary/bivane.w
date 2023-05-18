@@ -1,0 +1,1 @@
+{"index": 35327, "D": "a sensitive vane  that measures both the horizontal and vertical components of wind direction.", "S": [], "A": []}

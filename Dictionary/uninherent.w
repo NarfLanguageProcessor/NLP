@@ -1,0 +1,1 @@
+{"index": 344567, "D": "existing in someone or something as a permanent and inseparable element, quality, or attribute; inhering", "S": [], "A": []}

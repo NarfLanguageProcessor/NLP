@@ -1,0 +1,1 @@
+{"index": 99144, "D": "to invest with a worldly or sensual nature or form; make carnal", "S": [], "A": []}

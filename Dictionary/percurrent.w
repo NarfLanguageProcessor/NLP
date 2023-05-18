@@ -1,0 +1,1 @@
+{"index": 230474, "D": "extending through the entire length, as a midrib through a leaf.", "S": [], "A": []}

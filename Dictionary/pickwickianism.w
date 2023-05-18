@@ -1,0 +1,1 @@
+{"index": 235946, "D": "a Pickwickian  statement, expression, word, or the like.", "S": [], "A": []}

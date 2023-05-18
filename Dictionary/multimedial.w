@@ -1,0 +1,1 @@
+{"index": 195186, "D": "the combined use of several media,  as sound and full-motion video in computer applications.", "S": [], "A": []}

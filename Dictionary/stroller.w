@@ -1,0 +1,1 @@
+{"index": 306468, "D": "a person who takes a leisurely walk; saunterer.", "S": ["buggy ", "perambulator ", "pram "], "A": []}

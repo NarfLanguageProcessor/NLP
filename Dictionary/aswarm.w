@@ -1,0 +1,1 @@
+{"index": 22361, "D": "filled, as by objects, organisms, etc., especially in motion; teeming (usually used predicatively)", "S": [], "A": []}

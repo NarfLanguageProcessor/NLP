@@ -1,0 +1,1 @@
+{"index": 71851, "D": "the making of slight cracking sounds rapidly repeated.", "S": ["chewy ", "crisp ", "crispy ", "crumbly ", "crusty "], "A": []}

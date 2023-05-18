@@ -1,0 +1,1 @@
+{"index": 56171, "D": "having as the theological focal point the teachings and practices of Jesus Christ.", "S": [], "A": []}

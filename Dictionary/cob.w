@@ -1,0 +1,1 @@
+{"index": 61170, "D": "a corncob.", "S": ["grower ", "laborer ", "peasant ", "producer ", "rancher "], "A": []}

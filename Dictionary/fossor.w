@@ -1,0 +1,1 @@
+{"index": 117836, "D": "(in the early Christian church) a minor clergyman employed as a gravedigger.", "S": [], "A": []}

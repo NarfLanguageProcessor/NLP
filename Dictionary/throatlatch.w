@@ -1,0 +1,1 @@
+{"index": 322739, "D": "a strap that passes under a horse's throat  and helps to hold a bridle or halter in place.", "S": [], "A": []}

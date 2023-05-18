@@ -1,0 +1,1 @@
+{"index": 76274, "D": "the first appearance of daylight in the morning; dawn.", "S": ["dawn "], "A": ["sunset "]}

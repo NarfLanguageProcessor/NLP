@@ -1,0 +1,1 @@
+{"index": 103749, "D": "abnormal redness of the skin due to local congestion, as in inflammation.", "S": [], "A": []}

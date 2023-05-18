@@ -1,0 +1,1 @@
+{"index": 259975, "D": "rhythm in which the accompaniment is strict two-four time and the melody, with improvised embellishments, is in steady syncopation.", "S": ["Dixieland ", "bebop ", "blues ", "boogie ", "boogie-woogie ", "bop ", "jive ", "swing "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 35082, "D": "a North American, oxlike ruminant, Bison bison, having a large head and high, humped shoulders", "S": [], "A": []}

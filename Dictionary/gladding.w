@@ -1,0 +1,1 @@
+{"index": 125785, "D": "feeling joy or pleasure; delighted;  pleased", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 298875, "D": "Phil. born 1940, US record producer and songwriter, noted for the densely orchestrated \"Wall of Sound\" in his work with groups such as the Ronettes and the Crystals; convicted in 2009 for the second-degree murder (2003) of actress Lana Clarkson", "S": [], "A": []}

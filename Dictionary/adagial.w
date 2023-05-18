@@ -1,0 +1,1 @@
+{"index": 3403, "D": "a traditional saying expressing a common experience or observation; proverb.", "S": [], "A": []}

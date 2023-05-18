@@ -1,0 +1,1 @@
+{"index": 338357, "D": "to play and splash in or as if in water, especially with the hands.", "S": [], "A": []}

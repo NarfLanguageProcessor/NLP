@@ -1,0 +1,1 @@
+{"index": 23725, "D": "one of an Australian  breed of chickens valued for egg production.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 178181, "D": "belonging or pertaining to the Malacopterygii (Malacopteri), a group of soft-finned, teleost fishes.", "S": [], "A": []}

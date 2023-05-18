@@ -1,0 +1,1 @@
+{"index": 111579, "D": "a ring or cap, usually of metal, put around the end of a post, cane, or the like, to prevent splitting.", "S": ["bar ", "bat ", "baton ", "cane ", "club ", "rod ", "slab ", "stalk ", "strip ", "wand ", "wedge "], "A": []}

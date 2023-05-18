@@ -1,0 +1,1 @@
+{"index": 41952, "D": "of or relating to a bubo. ", "S": [], "A": []}

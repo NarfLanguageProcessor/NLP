@@ -1,0 +1,1 @@
+{"index": 181568, "D": "a long skirt  or skirt  part, as of a coat or dress, ending below the middle of the calf but above the ankle.", "S": [], "A": []}

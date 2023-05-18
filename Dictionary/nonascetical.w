@@ -1,0 +1,1 @@
+{"index": 201476, "D": "a person who dedicates their life to a pursuit of contemplative ideals and practices extreme self-denial or self-mortification for religious reasons.", "S": [], "A": []}

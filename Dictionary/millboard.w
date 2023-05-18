@@ -1,0 +1,1 @@
+{"index": 187276, "D": "a strong, thick pasteboard used to make book covers.", "S": [], "A": []}

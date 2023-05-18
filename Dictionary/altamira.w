@@ -1,0 +1,1 @@
+{"index": 9434, "D": "a cave in northern Spain, near Santander, noted for its Upper Paleolithic polychrome paintings of bison, deer, and pigs.", "S": [], "A": []}

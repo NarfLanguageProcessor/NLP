@@ -1,0 +1,1 @@
+{"index": 275862, "D": "of, relating to, or living in the country, as distinguished from towns or cities; rural.", "S": ["agrarian ", "agricultural ", "back-country ", "backwoods ", "bucolic ", "idyllic ", "pastoral ", "provincial ", "rustic "], "A": ["metropolitan ", "urban "]}

@@ -1,0 +1,1 @@
+{"index": 75152, "D": "shaped like a cupule. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 22598, "D": "having a keen desire; eager (often followed by for)", "S": ["agog ", "anxious ", "ardent ", "avid ", "bursting ", "champing at the bit ", "desiring ", "desirous ", "excited ", "hungry ", "impatient ", "keen ", "longing ", "raring ", "ready and willing ", "thirsting ", "thirsty ", "yearning "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 235134, "D": "pertaining to any photographic process in which gelatin  is used to receive or transfer a print.", "S": [], "A": []}

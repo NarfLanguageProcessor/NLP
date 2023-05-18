@@ -1,0 +1,1 @@
+{"index": 353095, "D": "hard and continuous work; exhausting labor or effort.", "S": [], "A": []}

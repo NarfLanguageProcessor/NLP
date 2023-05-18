@@ -1,0 +1,1 @@
+{"index": 320396, "D": "of or relating to a text; textual.", "S": [], "A": []}

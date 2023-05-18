@@ -1,0 +1,1 @@
+{"index": 348762, "D": "serving to provoke;  causing annoyance.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 112343, "D": "to take apart (a weapon) for cleaning, lubrication, and repair or for inspection.", "S": [], "A": []}

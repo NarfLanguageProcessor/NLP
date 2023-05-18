@@ -1,0 +1,1 @@
+{"index": 250369, "D": "any of several blennioid fishes of the family Stichaeidae, usually inhabiting cold waters, having spiny rays in the dorsal fin.", "S": [], "A": []}

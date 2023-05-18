@@ -1,0 +1,1 @@
+{"index": 238368, "D": "a person who pities. ", "S": [], "A": []}

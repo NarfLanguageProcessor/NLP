@@ -1,0 +1,1 @@
+{"index": 352547, "D": "to support, hold, or bear up from below; bear the weight of, as a structure.", "S": ["defenseless ", "poor ", "reliant ", "vulnerable "], "A": ["strong ", "first-class ", "first-rate ", "important ", "major ", "superior "]}

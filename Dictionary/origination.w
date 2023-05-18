@@ -1,0 +1,1 @@
+{"index": 214612, "D": "to take its origin  or rise; begin; start; arise", "S": ["beginning ", "birth ", "commencement ", "conception ", "creation ", "dawn ", "dawning ", "discovery ", "genesis ", "innovation ", "introduction ", "launch ", "source ", "start "], "A": ["completion ", "conclusion ", "death ", "end ", "ending ", "finish ", "result ", "stop "]}

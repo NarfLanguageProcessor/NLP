@@ -1,0 +1,1 @@
+{"index": 190295, "D": "the joker or a blank card used as a wild card in a variety of draw poker", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 14568, "D": "resembling humans.", "S": ["chimpanzee ", "gibbon ", "gorilla ", "humanoid ", "monkey ", "orang ", "orangutan ", "primate "], "A": []}

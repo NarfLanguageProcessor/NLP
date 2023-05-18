@@ -1,0 +1,1 @@
+{"index": 72929, "D": "simple past tense and past participle of cry. ", "S": ["break down ", "complain ", "fret ", "grieve ", "groan ", "howl ", "moan ", "mourn ", "sigh ", "sob ", "wail ", "weep "], "A": ["be happy ", "please ", "delight ", "gloat ", "praise "]}

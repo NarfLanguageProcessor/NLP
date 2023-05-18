@@ -1,0 +1,1 @@
+{"index": 41103, "D": "the region in Swift's Gulliver's Travels where everything was of enormous size.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 164230, "D": "a Mongolian language that is the official language of the Mongolian People's Republic  and the chief vernacular of the eastern half of the country.", "S": [], "A": []}

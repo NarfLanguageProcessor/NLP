@@ -1,0 +1,1 @@
+{"index": 251553, "D": "an open vestibule, as a pronaos.", "S": [], "A": []}

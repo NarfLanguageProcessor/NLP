@@ -1,0 +1,1 @@
+{"index": 306860, "D": "to strike the foot against something, as in walking or running, so as to stagger or fall; trip.", "S": ["blunderer ", "bungler ", "duffer ", "fumbler ", "klutz "], "A": []}

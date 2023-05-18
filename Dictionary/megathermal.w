@@ -1,0 +1,1 @@
+{"index": 182537, "D": "a plant requiring a constant high temperature and abundant moisture for growth.", "S": [], "A": []}

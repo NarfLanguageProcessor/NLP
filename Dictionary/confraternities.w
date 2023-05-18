@@ -1,0 +1,1 @@
+{"index": 66056, "D": "a lay brotherhood devoted to some purpose, especially to religious or charitable service.", "S": [], "A": []}

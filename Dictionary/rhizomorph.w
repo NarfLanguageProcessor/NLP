@@ -1,0 +1,1 @@
+{"index": 272210, "D": "a cordlike fusion of hyphae that leads certain fungi across various substrates like a root through soil.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 329126, "D": "a closed plane figure having three sides and three angles.", "S": [], "A": []}

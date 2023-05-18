@@ -1,0 +1,1 @@
+{"index": 297473, "D": "a piece of solid food, as bread, for dipping in liquid food.", "S": ["absorb ", "bribe ", "dip ", "douse ", "dunk ", "milksop ", "saturate ", "soak ", "steep ", "weakling ", "wet "], "A": ["dehydrate ", "dry "]}

@@ -1,0 +1,1 @@
+{"index": 284731, "D": "imperfectly plastic;  in a state between rigidity and plasticity.", "S": [], "A": []}

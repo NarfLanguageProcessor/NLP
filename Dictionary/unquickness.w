@@ -1,0 +1,1 @@
+{"index": 348951, "D": "done, proceeding, or occurring with promptness or rapidity, as an action, process, etc.; prompt; immediate", "S": [], "A": []}

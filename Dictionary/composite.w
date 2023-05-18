@@ -1,0 +1,1 @@
+{"index": 64785, "D": "made up of disparate or separate parts or elements; compound", "S": ["complex ", "compound ", "conglomerate "], "A": ["homogeneous ", "simple ", "unblended ", "uncombined ", "uniform ", "unmixed "]}

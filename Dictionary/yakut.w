@@ -1,0 +1,1 @@
+{"index": 145583, "D": "a member of a Turkic-speaking people of the Lena River Valley and adjacent areas of eastern Siberia.", "S": [], "A": []}

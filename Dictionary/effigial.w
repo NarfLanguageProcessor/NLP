@@ -1,0 +1,1 @@
+{"index": 96031, "D": "a representation or image, especially sculptured, as on a monument.", "S": [], "A": []}

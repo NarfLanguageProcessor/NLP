@@ -1,0 +1,1 @@
+{"index": 86783, "D": "a person or thing that directs. ", "S": ["administrator ", "chief ", "executive ", "head ", "leader ", "organizer ", "player ", "principal ", "producer ", "supervisor "], "A": ["employee ", "follower ", "worker "]}

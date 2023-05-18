@@ -1,0 +1,1 @@
+{"index": 353526, "D": "of the nature of an ulcer;  characterized by the formation of ulcers. ", "S": [], "A": []}

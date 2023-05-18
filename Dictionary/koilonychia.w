@@ -1,0 +1,1 @@
+{"index": 165866, "D": "an abnormal condition in which the outer surfaces of the nails are concave; spoon nail.", "S": [], "A": []}

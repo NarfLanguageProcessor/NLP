@@ -1,0 +1,1 @@
+{"index": 80601, "D": "an 18th-century military saddle with a low pommel.", "S": [], "A": []}

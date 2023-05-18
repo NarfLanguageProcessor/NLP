@@ -1,0 +1,1 @@
+{"index": 77430, "D": "(in hierarchical churches) a member of the clerical order next below that of a priest.", "S": ["cleric ", "elder ", "priest "], "A": []}

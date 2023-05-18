@@ -1,0 +1,1 @@
+{"index": 329825, "D": "a structural member of a Doric frieze, separating two consecutive metopes, and consisting typically of a rectangular block with two vertical grooves or glyphs, and two chamfers or half grooves at the sides, together counting as a third glyph, and leaving three flat vertical bands on the face of the block.", "S": [], "A": []}

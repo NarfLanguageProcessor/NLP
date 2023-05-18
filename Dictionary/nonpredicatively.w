@@ -1,0 +1,1 @@
+{"index": 206110, "D": "to proclaim; declare; affirm; assert. ", "S": [], "A": []}

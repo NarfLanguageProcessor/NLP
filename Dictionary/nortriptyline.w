@@ -1,0 +1,1 @@
+{"index": 208660, "D": "a tricyclic antidepressant drug, C19H21N, used to treat depression.", "S": [], "A": []}

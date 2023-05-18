@@ -1,0 +1,1 @@
+{"index": 188071, "D": "the sixtieth part (1/60) of an hour; sixty seconds.", "S": ["inscribe ", "jot down ", "make a note of ", "minute ", "note ", "note down ", "put on record ", "record ", "set down ", "transcribe "], "A": ["build up "]}

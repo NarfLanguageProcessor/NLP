@@ -1,0 +1,1 @@
+{"index": 345302, "D": "to deprive of life in any manner; cause the death of; slay. ", "S": [], "A": []}

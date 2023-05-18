@@ -1,0 +1,1 @@
+{"index": 410, "D": "to remain; continue; stay", "S": ["accept ", "stand for ", "tolerate "], "A": ["disallow ", "avoid ", "contradict ", "disagree ", "discontinue ", "dissent ", "dodge ", "fight ", "give ", "offer ", "refuse ", "reject ", "repudiate "]}

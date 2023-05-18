@@ -1,0 +1,1 @@
+{"index": 13324, "D": "(of a chemical compound) lacking isomers", "S": [], "A": []}

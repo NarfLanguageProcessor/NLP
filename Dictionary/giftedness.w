@@ -1,0 +1,1 @@
+{"index": 124759, "D": "having great special talent or ability", "S": ["competence ", "flair ", "knack ", "proficiency ", "savvy "], "A": ["inability ", "incompetence ", "ineptitude ", "ineptness ", "ignorance ", "impotence ", "lack ", "stupidity ", "weakness "]}

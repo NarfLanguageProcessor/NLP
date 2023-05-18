@@ -1,0 +1,1 @@
+{"index": 123897, "D": "isogeotherm. ", "S": [], "A": []}

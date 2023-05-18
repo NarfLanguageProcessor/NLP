@@ -1,0 +1,1 @@
+{"index": 278110, "D": "great wisdom or sound judgment", "S": [], "A": []}

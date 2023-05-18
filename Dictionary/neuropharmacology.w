@@ -1,0 +1,1 @@
+{"index": 199171, "D": "the branch of pharmacology  concerned with the effects of drugs on the nervous system.", "S": [], "A": []}

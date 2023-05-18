@@ -1,0 +1,1 @@
+{"index": 104729, "D": "the state of being alienated or separated in feeling or affection; a state of hostility or unfriendliness", "S": ["alienation ", "disaffection ", "disunity ", "hostility ", "schism ", "separation "], "A": ["friendliness ", "connection ", "introduction ", "juncture ", "marriage "]}

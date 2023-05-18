@@ -1,0 +1,1 @@
+{"index": 75181, "D": "a blackish, resinlike substance derived from tropical plants of the genus Strychnos, especially S. toxifera, and from the root of pareira, used by certain South American Indians for poisoning arrows and employed in physiological experiments, medicine, etc., for arresting the action of motor nerves.", "S": [], "A": []}

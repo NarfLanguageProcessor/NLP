@@ -1,0 +1,1 @@
+{"index": 81177, "D": "Compare numerator (def. 1). ", "S": ["common divisor ", "common measure ", "numerator "], "A": []}

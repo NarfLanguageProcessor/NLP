@@ -1,0 +1,1 @@
+{"index": 103517, "D": "a king of Athens who sacrificed one of his daughters because the oracle at Delphi said this was the only way to win the war against the Eleusinians", "S": [], "A": []}

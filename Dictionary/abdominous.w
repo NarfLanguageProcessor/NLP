@@ -1,0 +1,1 @@
+{"index": 280, "D": "having a large belly; potbellied.", "S": [], "A": []}

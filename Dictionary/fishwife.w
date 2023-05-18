@@ -1,0 +1,1 @@
+{"index": 113409, "D": "a woman who sells fish.", "S": ["fury ", "hag ", "harpy ", "harridan ", "nag ", "scold ", "shrew ", "termagant ", "virago "], "A": []}

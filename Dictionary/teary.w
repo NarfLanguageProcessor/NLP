@@ -1,0 +1,1 @@
+{"index": 317530, "D": "of or like tears.", "S": ["mournful ", "poignant ", "sad ", "sorrowful ", "watery ", "weeping ", "weepy "], "A": ["happy ", "joyful "]}

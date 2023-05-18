@@ -1,0 +1,1 @@
+{"index": 229068, "D": "the body of peers of a country or state.", "S": ["elite ", "gentility ", "gentry ", "nobility ", "upper class ", "upper crust "], "A": ["commoners ", "proletariat "]}

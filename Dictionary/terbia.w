@@ -1,0 +1,1 @@
+{"index": 319220, "D": "an amorphous white powder, Tb2O3.", "S": [], "A": []}

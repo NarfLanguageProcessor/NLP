@@ -1,0 +1,1 @@
+{"index": 338864, "D": "the lower abdomen; posterior ventral area, as of an animal's body.", "S": ["basement ", "bed ", "floor ", "ground ", "seat ", "underside "], "A": ["ceiling ", "top "]}

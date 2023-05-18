@@ -1,0 +1,1 @@
+{"index": 52617, "D": "a private or subordinate place of prayer or worship; oratory.", "S": [], "A": []}

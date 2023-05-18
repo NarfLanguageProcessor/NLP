@@ -1,0 +1,1 @@
+{"index": 366760, "D": "a two-legged winged dragon having the hinder part of a serpent with a barbed tail.", "S": [], "A": []}

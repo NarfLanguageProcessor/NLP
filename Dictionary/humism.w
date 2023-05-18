@@ -1,0 +1,1 @@
+{"index": 145007, "D": "the philosophy or principles of David Hume,  especially his epistemological skepticism.", "S": [], "A": []}

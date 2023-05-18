@@ -1,0 +1,1 @@
+{"index": 270563, "D": "to withdraw from one's career, occupation, or office, usually because of age", "S": [], "A": []}

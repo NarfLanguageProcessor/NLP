@@ -1,0 +1,1 @@
+{"index": 202306, "D": "the quality or state of agreeing or corresponding.", "S": [], "A": []}

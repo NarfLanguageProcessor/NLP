@@ -1,0 +1,1 @@
+{"index": 321632, "D": "a system of beneficent magic practiced by the Egyptian Platonists and others.", "S": ["charmer ", "genius ", "virtuoso ", "witch ", "wizard "], "A": []}

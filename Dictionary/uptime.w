@@ -1,0 +1,1 @@
+{"index": 355172, "D": "the time during which a machine or piece of equipment, as a computer, is operating or can be operated.", "S": [], "A": []}

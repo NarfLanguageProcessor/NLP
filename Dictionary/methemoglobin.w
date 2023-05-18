@@ -1,0 +1,1 @@
+{"index": 185208, "D": "a brownish compound of oxygen and hemoglobin,  formed in the blood, as by the use of certain drugs.", "S": [], "A": []}

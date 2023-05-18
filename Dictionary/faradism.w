@@ -1,0 +1,1 @@
+{"index": 109851, "D": "the therapeutic use of faradic currents", "S": [], "A": []}

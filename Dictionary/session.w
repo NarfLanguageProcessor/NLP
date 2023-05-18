@@ -1,0 +1,1 @@
+{"index": 286585, "D": "the sitting together of a court, council, legislature, or the like, for conference or the transaction of business", "S": ["conference ", "discussion ", "hearing ", "period ", "term "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 103059, "D": "(of diseases) spreading quickly among animals.", "S": ["endemic ", "epidemic ", "pandemic ", "taking "], "A": []}

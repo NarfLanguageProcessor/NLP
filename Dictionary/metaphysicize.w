@@ -1,0 +1,1 @@
+{"index": 184888, "D": "to think, write, etc, metaphysically", "S": [], "A": []}

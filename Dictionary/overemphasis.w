@@ -1,0 +1,1 @@
+{"index": 219180, "D": "excessive or undue emphasis. ", "S": ["baloney ", "excess ", "fabrication ", "falsehood ", "fantasy ", "hyperbole ", "misjudgment ", "misrepresentation ", "untruth "], "A": ["truth ", "compression ", "decrease ", "lessening ", "shrinkage "]}

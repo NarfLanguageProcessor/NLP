@@ -1,0 +1,1 @@
+{"index": 317496, "D": "a person who drives a team  or a truck for hauling, especially as an occupation.", "S": [], "A": []}

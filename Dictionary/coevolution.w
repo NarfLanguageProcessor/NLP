@@ -1,0 +1,1 @@
+{"index": 62087, "D": "evolution  involving a series of reciprocal changes in two or more noninterbreeding populations that have a close ecological relationship and act as agents of natural selection for each other, as the succession of adaptations of a predator for pursuing and of its prey for fleeing or evading.", "S": [], "A": []}

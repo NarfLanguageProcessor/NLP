@@ -1,0 +1,1 @@
+{"index": 23914, "D": "catalysis  caused by a catalytic agent formed during a reaction.", "S": [], "A": []}

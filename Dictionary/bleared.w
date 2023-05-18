@@ -1,0 +1,1 @@
+{"index": 35967, "D": "to make dim, as with tears or inflammation", "S": ["blurred ", "blurry ", "clouded ", "dim ", "dull ", "dusky ", "faint ", "foggy ", "frosty ", "fuzzy ", "misty ", "murky ", "mushy ", "nebulous ", "opaque ", "overcast ", "smoky ", "soupy ", "vague "], "A": ["bright ", "clear ", "definite ", "distinct ", "light ", "luminous "]}

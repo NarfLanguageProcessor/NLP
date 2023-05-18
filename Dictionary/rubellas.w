@@ -1,0 +1,1 @@
+{"index": 275149, "D": "a usually mild contagious viral disease characterized by fever, mild upper respiratory congestion, and a fine red rash lasting a few days", "S": [], "A": []}

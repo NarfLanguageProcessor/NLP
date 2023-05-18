@@ -1,0 +1,1 @@
+{"index": 44312, "D": "having or marked by a rhythmical cadence", "S": ["cadent ", "measured ", "metric ", "metrical ", "rhythmic "], "A": []}

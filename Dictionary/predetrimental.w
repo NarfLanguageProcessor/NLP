@@ -1,0 +1,1 @@
+{"index": 246887, "D": "causing detriment,  as loss or injury; damaging; harmful.", "S": [], "A": []}

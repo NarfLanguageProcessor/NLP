@@ -1,0 +1,1 @@
+{"index": 209462, "D": "without value, effect, consequence, or significance.", "S": ["ineffective ", "inoperative ", "invalid ", "unreal ", "worthless "], "A": ["worthwhile ", "worthy ", "filled ", "full ", "good ", "profitable ", "true "]}

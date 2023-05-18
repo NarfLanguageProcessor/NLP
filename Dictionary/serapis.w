@@ -1,0 +1,1 @@
+{"index": 285927, "D": "a Greco-Egyptian deity combining the attributes of Osiris and Apis, identified in Egypt with the Ptolemies", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311594, "D": "the effect, result, or outcome of something occurring earlier", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 187388, "D": "an aluminum coin of Tunisia, the 1000th part of a dinar.", "S": [], "A": []}

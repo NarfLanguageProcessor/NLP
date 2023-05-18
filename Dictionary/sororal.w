@@ -1,0 +1,1 @@
+{"index": 297625, "D": "of, relating to, or characteristic of a sister or sisters; sisterly. ", "S": [], "A": []}

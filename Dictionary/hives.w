@@ -1,0 +1,1 @@
+{"index": 142002, "D": "any of various eruptive conditions of the skin, as the wheals of urticaria.", "S": ["epidemic ", "eruption ", "flood ", "spate ", "wave "], "A": []}

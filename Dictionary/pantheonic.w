@@ -1,0 +1,1 @@
+{"index": 224937, "D": "a domed circular temple at Rome, erected a.d. 120\u2013124 by Hadrian, used as a church since a.d.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 235322, "D": "a polymer  or plastic that undergoes a change in physical or chemical properties when exposed to light.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175496, "D": "any plant belonging to the genus Pedicularis, of the figwort family, as the wood betony, formerly supposed to cause lice  in sheep feeding on it", "S": [], "A": []}

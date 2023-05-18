@@ -1,0 +1,1 @@
+{"index": 47076, "D": "the wild fig, Ficus carica, bearing an inedible fruit used in pollination of the edible fig.", "S": [], "A": []}

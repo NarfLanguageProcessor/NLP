@@ -1,0 +1,1 @@
+{"index": 329425, "D": "any minute wasp of the genus Trichogramma, comprising a beneficial group of chalcidflies that parasitize the eggs of a variety of insect pests.", "S": [], "A": []}

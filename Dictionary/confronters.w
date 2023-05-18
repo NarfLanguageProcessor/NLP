@@ -1,0 +1,1 @@
+{"index": 66075, "D": "to face in hostility or defiance; oppose", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 365884, "D": "to draw back or tense the body, as from pain or from a blow; start; flinch. ", "S": [], "A": []}

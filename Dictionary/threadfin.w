@@ -1,0 +1,1 @@
+{"index": 322559, "D": "any of the silvery, spiny-rayed fishes of the family Polynemidae, having the lower part of the pectoral fin  composed of numerous, separate, filamentous rays.", "S": [], "A": []}

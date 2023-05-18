@@ -1,0 +1,1 @@
+{"index": 195988, "D": "to write or produce a musical  version of (a book, play, etc.)", "S": [], "A": []}

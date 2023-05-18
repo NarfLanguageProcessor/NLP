@@ -1,0 +1,1 @@
+{"index": 66117, "D": "a Cuban ballroom dance that consists of three steps forward followed by a kick, characteristically performed by a group following a leader in a single line.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 283465, "D": "of or containing selenium,  especially in the hexavalent state.", "S": [], "A": []}

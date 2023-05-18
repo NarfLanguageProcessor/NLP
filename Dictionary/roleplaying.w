@@ -1,0 +1,1 @@
+{"index": 273940, "D": "a method of instruction or psychotherapy aimed at changing attitudes and behavior, in which participants act out designated roles relevant to real-life situations.", "S": [], "A": []}

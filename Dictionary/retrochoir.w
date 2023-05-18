@@ -1,0 +1,1 @@
+{"index": 270791, "D": "that part of a church behind the choir or the main altar.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 156140, "D": "the act, process, or accident of varying in condition, character, or degree", "S": [], "A": []}

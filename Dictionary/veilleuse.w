@@ -1,0 +1,1 @@
+{"index": 357750, "D": "a sofa having a low and a high end, with a back that slopes from one end to the other.", "S": [], "A": []}

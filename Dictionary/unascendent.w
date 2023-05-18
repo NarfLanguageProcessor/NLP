@@ -1,0 +1,1 @@
+{"index": 335272, "D": "a position of dominance or controlling influence", "S": [], "A": []}

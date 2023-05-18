@@ -1,0 +1,1 @@
+{"index": 41954, "D": "an inguinal hernia, especially one in which the protrusion of the intestine is limited to the region of the groin.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 336041, "D": "not hesitating or fearful in the face of actual or possible danger or rebuff; courageous and daring", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 168140, "D": "the act or state of languishing. ", "S": ["boredom ", "ennui ", "fatigue "], "A": ["energy ", "excitement ", "liveliness ", "vigor "]}

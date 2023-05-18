@@ -1,0 +1,1 @@
+{"index": 21964, "D": "guaranteed; sure; certain; secure", "S": ["assurance ", "certainty ", "certitude ", "conclusiveness ", "confidence ", "positiveness ", "surety "], "A": ["distrust ", "doubt ", "fear ", "uncertainty "]}

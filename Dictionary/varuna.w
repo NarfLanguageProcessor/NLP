@@ -1,0 +1,1 @@
+{"index": 357336, "D": "the Vedic god of natural and moral law, probably a sky god originally", "S": [], "A": []}

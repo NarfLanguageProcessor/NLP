@@ -1,0 +1,1 @@
+{"index": 83074, "D": "the process of thoroughly cleaning the interior and exterior of a vehicle and doing minor repairs to improve its appearance", "S": ["concert ", "musical ", "presentation ", "reading ", "recitation ", "rehearsal "], "A": ["truth "]}

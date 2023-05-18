@@ -1,0 +1,1 @@
+{"index": 125818, "D": "a short sword used in ancient Rome by legionaries.", "S": [], "A": []}

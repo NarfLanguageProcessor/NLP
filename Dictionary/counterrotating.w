@@ -1,0 +1,1 @@
+{"index": 71061, "D": "(of two corresponding or similar moving parts) rotating in opposite directions", "S": [], "A": []}

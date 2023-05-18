@@ -1,0 +1,1 @@
+{"index": 321613, "D": "either of two books of the New Testament, 1 Thessalonians or 2 Thessalonians, written by Paul. Abbreviations", "S": [], "A": []}

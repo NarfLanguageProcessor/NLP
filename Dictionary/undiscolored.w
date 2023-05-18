@@ -1,0 +1,1 @@
+{"index": 340464, "D": "to change or spoil the color of; fade or stain.", "S": [], "A": []}

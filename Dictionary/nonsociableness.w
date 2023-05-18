@@ -1,0 +1,1 @@
+{"index": 207364, "D": "inclined to associate with or be in the company of others.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 315015, "D": "a hypothetical particle that travels faster than the speed of light. ", "S": [], "A": []}

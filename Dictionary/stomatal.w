@@ -1,0 +1,1 @@
+{"index": 305112, "D": "of, relating to, or of the nature of a stoma. ", "S": [], "A": []}

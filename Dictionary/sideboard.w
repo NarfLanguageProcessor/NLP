@@ -1,0 +1,1 @@
+{"index": 289728, "D": "a piece of furniture, as in a dining room, often with shelves, drawers, etc., for holding articles of table service.", "S": ["cupboard "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 357019, "D": "travel by means of a small van  or truck that has been fitted out with living accommodations.", "S": [], "A": []}

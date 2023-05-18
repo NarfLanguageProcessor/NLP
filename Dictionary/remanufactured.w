@@ -1,0 +1,1 @@
+{"index": 267134, "D": "to refurbish (a used product) by renovating and reassembling its components", "S": [], "A": []}

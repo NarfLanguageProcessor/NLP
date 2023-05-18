@@ -1,0 +1,1 @@
+{"index": 186210, "D": "injection  performed under a microscope, especially of a solution or gene transplant into a cell or cell part.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 211208, "D": "noting or pertaining to a situation in which the players on one side outnumber those of the opposition.", "S": [], "A": []}

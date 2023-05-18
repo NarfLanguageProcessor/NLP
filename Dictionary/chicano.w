@@ -1,0 +1,1 @@
+{"index": 54113, "D": "of or relating to Mexican Americans or their culture.", "S": [], "A": []}

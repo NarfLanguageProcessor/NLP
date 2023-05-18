@@ -1,0 +1,1 @@
+{"index": 153034, "D": "to communicate nervous energy to; stimulate through nerves. ", "S": ["animate ", "electrify ", "empower ", "excite ", "invigorate ", "motivate ", "reinforce ", "stimulate ", "strengthen ", "trigger "], "A": ["bore ", "calm ", "deaden ", "depress ", "discourage ", "dishearten ", "dissuade ", "dull ", "weaken ", "halt ", "stop "]}

@@ -1,0 +1,1 @@
+{"index": 340773, "D": "marked with a dot  or dots. ", "S": [], "A": []}

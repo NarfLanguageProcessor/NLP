@@ -1,0 +1,1 @@
+{"index": 84842, "D": "the quality or state of being dichromatic. ", "S": [], "A": []}

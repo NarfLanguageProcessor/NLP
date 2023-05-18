@@ -1,0 +1,1 @@
+{"index": 352297, "D": "a district lying immediately outside a city or town, especially a smaller residential community.", "S": [], "A": []}

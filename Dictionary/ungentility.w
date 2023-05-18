@@ -1,0 +1,1 @@
+{"index": 342983, "D": "good breeding or refinement.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 12931, "D": "of or relating to Angola or its inhabitants", "S": [], "A": []}

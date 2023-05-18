@@ -1,0 +1,1 @@
+{"index": 68005, "D": "to tend to meet in a point or line; incline toward each other, as lines that are not parallel.", "S": ["assemble ", "concentrate ", "mingle "], "A": ["disperse ", "scatter ", "avoid ", "differ ", "disagree ", "disconnect ", "disjoin ", "divide ", "part ", "separate "]}

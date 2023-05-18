@@ -1,0 +1,1 @@
+{"index": 68539, "D": "large in quantity or number; abundant; plentiful", "S": ["appropriately ", "competently ", "decently ", "satisfactorily ", "sufficiently "], "A": ["inadequately ", "insufficiently ", "unequally ", "unsatisfactorily ", "unsuitably "]}

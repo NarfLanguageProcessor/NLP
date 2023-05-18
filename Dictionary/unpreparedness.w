@@ -1,0 +1,1 @@
+{"index": 348382, "D": "the state of being prepared;  readiness.", "S": ["disregard ", "failure ", "forgetfulness ", "heedlessness ", "inattention ", "inattentiveness ", "laxity ", "neglect ", "neglectfulness ", "oversight ", "remissness ", "slackness ", "thoughtlessness "], "A": ["accomplishment ", "achievement ", "attention ", "care ", "regard ", "respect ", "success "]}

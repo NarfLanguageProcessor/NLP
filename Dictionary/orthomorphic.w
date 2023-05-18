@@ -1,0 +1,1 @@
+{"index": 215072, "D": "geography another word for conformal (def. 2)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 91010, "D": "any tree or shrub of the genus Cornus, especially C. sanguinea, of Europe, or C. florida, of America.", "S": [], "A": []}

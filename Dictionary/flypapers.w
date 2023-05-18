@@ -1,0 +1,1 @@
+{"index": 114679, "D": "paper  designed to destroy flies  by catching them on its sticky surface or poisoning them on contact.", "S": [], "A": []}

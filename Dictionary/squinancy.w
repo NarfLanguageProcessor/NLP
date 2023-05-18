@@ -1,0 +1,1 @@
+{"index": 301979, "D": "a prostrate Eurasian plant, Asperula cynanchica, of the madder family, having smooth, weak stems and sparse white or pink flowers, formerly believed to be a cure for quinsy.", "S": [], "A": []}

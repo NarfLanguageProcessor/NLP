@@ -1,0 +1,1 @@
+{"index": 287514, "D": "law, seen as deriving from the Quran,hadith,ijma\u02bf, and qiyas.", "S": [], "A": []}

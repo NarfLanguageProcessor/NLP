@@ -1,0 +1,1 @@
+{"index": 95274, "D": "a device that records oceanic depths by means of sonic waves.", "S": [], "A": []}

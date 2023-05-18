@@ -1,0 +1,1 @@
+{"index": 22889, "D": "exhibiting or affected with atrophy;  wasted; withered; shriveled", "S": ["anorexic ", "bony ", "gaunt ", "scrawny ", "skeletal ", "skinny "], "A": ["chubby ", "fat ", "heavy ", "overweight ", "plump ", "thick ", "full "]}

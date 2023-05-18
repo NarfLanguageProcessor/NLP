@@ -1,0 +1,1 @@
+{"index": 24607, "D": "insatiable greed for riches; inordinate, miserly desire to gain and hoard wealth.", "S": ["avidity ", "covetousness ", "cupidity ", "frugality ", "greediness ", "miserliness ", "parsimony ", "penuriousness ", "rapacity ", "stinginess ", "thrift "], "A": ["generosity "]}

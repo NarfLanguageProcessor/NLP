@@ -1,0 +1,1 @@
+{"index": 123139, "D": "a hot spring that intermittently sends up fountainlike jets of water and steam into the air.", "S": ["gusher ", "hot spring "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 304895, "D": "of or relating to a process involving a randomly determined sequence of observations each of which is considered as a sample of one element from a probability distribution.", "S": ["debatable ", "imaginary ", "problematic ", "speculative ", "theoretical ", "vague "], "A": ["certain ", "definite ", "factual ", "real ", "sure "]}

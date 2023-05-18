@@ -1,0 +1,1 @@
+{"index": 350378, "D": "not satisfactory;  not satisfying or meeting one's demands; inadequate.", "S": [], "A": []}

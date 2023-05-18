@@ -1,0 +1,1 @@
+{"index": 259168, "D": "daily", "S": ["commonplace ", "daily ", "everyday ", "trivial ", "usual "], "A": ["exciting ", "unusual "]}

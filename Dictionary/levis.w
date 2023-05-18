@@ -1,0 +1,1 @@
+{"index": 171259, "D": "a brand of clothing, especially blue jeans.", "S": [], "A": []}

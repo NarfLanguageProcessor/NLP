@@ -1,0 +1,1 @@
+{"index": 252253, "D": "a strong military  spirit or policy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 243455, "D": "a snap-brimmed hat with a round, flat crown, usually made of felt.", "S": [], "A": []}

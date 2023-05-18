@@ -1,0 +1,1 @@
+{"index": 275104, "D": "a highly elastic solid substance, light cream or dark amber in color, polymerized by the drying and coagulation of the latex or milky juice of rubber trees and plants, especially Hevea and Ficus species.", "S": [], "A": []}

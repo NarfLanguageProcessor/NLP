@@ -1,0 +1,1 @@
+{"index": 74796, "D": "a variant spelling of culch", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 200519, "D": "the position held or territory governed by a Nizam. ", "S": [], "A": []}

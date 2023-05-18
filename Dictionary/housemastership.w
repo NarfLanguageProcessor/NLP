@@ -1,0 +1,1 @@
+{"index": 144455, "D": "a man who is in charge of a house  or a dormitory in a private school for boys.", "S": [], "A": []}

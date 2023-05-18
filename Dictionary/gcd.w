@@ -1,0 +1,1 @@
+{"index": 123015, "D": "greatest common divisor.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 137580, "D": "different in kind; unlike; incongruous.", "S": [], "A": []}

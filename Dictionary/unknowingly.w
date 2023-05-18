@@ -1,0 +1,1 @@
+{"index": 345362, "D": "ignorant or unaware", "S": ["short "], "A": ["consciously ", "knowingly "]}

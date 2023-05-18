@@ -1,0 +1,1 @@
+{"index": 73186, "D": "mysterious in meaning; puzzling; ambiguous", "S": [], "A": []}

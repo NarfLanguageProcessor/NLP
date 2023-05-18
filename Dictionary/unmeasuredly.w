@@ -1,0 +1,1 @@
+{"index": 346124, "D": "of undetermined or indefinitely great extent or amount; unlimited; measureless", "S": [], "A": []}

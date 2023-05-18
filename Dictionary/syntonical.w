@@ -1,0 +1,1 @@
+{"index": 292083, "D": "adjusted to oscillations of the same or a particular frequency.", "S": [], "A": []}

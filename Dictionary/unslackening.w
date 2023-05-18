@@ -1,0 +1,1 @@
+{"index": 351311, "D": "to make or become less active, vigorous, intense, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 153485, "D": "pertaining to or like an insect. ", "S": [], "A": []}

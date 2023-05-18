@@ -1,0 +1,1 @@
+{"index": 293388, "D": "a short literary piece of a humorous or satirical character.", "S": ["parody ", "satire ", "spoof "], "A": []}

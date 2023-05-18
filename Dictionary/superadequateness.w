@@ -1,0 +1,1 @@
+{"index": 311319, "D": "as much or as good as necessary for some requirement or purpose; fully sufficient, suitable, or fit (often followed by to or for)", "S": [], "A": []}

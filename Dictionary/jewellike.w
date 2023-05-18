@@ -1,0 +1,1 @@
+{"index": 161102, "D": "a cut and polished precious stone; gem.", "S": [], "A": []}

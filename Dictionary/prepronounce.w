@@ -1,0 +1,1 @@
+{"index": 248950, "D": "to enunciate or articulate (sounds, words, sentences, etc.).", "S": [], "A": []}

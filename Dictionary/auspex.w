@@ -1,0 +1,1 @@
+{"index": 23677, "D": "an augur of ancient Rome.", "S": ["diviner ", "oracle ", "prognosticator ", "prophesier ", "prophet ", "seer ", "soothsayer ", "vaticinator "], "A": []}

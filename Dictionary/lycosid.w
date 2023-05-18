@@ -1,0 +1,1 @@
+{"index": 171763, "D": "a spider of the family Lycosidae, comprising the wolf spiders.", "S": [], "A": []}

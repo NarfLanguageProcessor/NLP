@@ -1,0 +1,1 @@
+{"index": 271098, "D": "a foreign policy aimed at revenge or the regaining of lost territories", "S": [], "A": []}

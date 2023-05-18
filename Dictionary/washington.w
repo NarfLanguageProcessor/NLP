@@ -1,0 +1,1 @@
+{"index": 362910, "D": "U.S. reformer, educator, author, and lecturer.", "S": ["authority ", "law ", "ministry ", "politics ", "power ", "regime ", "rule ", "state ", "union "], "A": ["inferiority ", "opposition ", "powerlessness ", "submission ", "subservience ", "weakness "]}

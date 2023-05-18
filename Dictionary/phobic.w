@@ -1,0 +1,1 @@
+{"index": 234554, "D": "of or relating to a phobia  or phobias.", "S": ["afraid ", "anxious ", "apprehensive ", "discomposed ", "disquieted ", "disturbed ", "frightened ", "have cold feet ", "irrational ", "jittery ", "jumpy ", "nervous ", "neurotic ", "panicky ", "scared ", "shy ", "skittish ", "tense ", "worried "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 143732, "D": "to hobble; tether.", "S": [], "A": []}

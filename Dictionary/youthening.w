@@ -1,0 +1,1 @@
+{"index": 157768, "D": "to make youthful; to restore youth  to (someone or something).", "S": [], "A": []}

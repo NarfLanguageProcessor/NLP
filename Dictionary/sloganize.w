@@ -1,0 +1,1 @@
+{"index": 294305, "D": "to make a slogan  of; express as a slogan", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 336463, "D": "to remove a cap  or cover from (a bottle, container, etc.).", "S": [], "A": []}

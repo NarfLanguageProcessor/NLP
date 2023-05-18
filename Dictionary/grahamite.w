@@ -1,0 +1,1 @@
+{"index": 128615, "D": "an asphaltite with a pitch-black luster.", "S": [], "A": []}

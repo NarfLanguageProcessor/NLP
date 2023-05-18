@@ -1,0 +1,1 @@
+{"index": 38621, "D": "given to ordering people about; overly authoritative; domineering. ", "S": ["imperious ", "overbearing ", "pushy "], "A": ["modest "]}

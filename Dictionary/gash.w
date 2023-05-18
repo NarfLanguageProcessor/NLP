@@ -1,0 +1,1 @@
+{"index": 122355, "D": "a long, deep wound or cut; slash. ", "S": ["cleft ", "furrow ", "gouge ", "incision ", "laceration ", "mark ", "nip ", "notch ", "rent ", "slash ", "slit ", "split ", "tear ", "wound "], "A": ["closing ", "closure "]}

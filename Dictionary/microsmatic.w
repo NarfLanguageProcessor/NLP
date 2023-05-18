@@ -1,0 +1,1 @@
+{"index": 186503, "D": "(of humans and certain animals) having a poor sense of smell", "S": [], "A": []}

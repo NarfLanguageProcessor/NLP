@@ -1,0 +1,1 @@
+{"index": 166569, "D": "kilowatt; kilowatts.", "S": [], "A": []}

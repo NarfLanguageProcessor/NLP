@@ -1,0 +1,1 @@
+{"index": 297285, "D": "the visual image produced by reflected sound waves in a diagnostic ultrasound examination.", "S": [], "A": []}

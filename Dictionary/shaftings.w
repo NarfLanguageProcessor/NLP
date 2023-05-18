@@ -1,0 +1,1 @@
+{"index": 287122, "D": "a number of shafts. ", "S": [], "A": []}

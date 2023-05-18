@@ -1,0 +1,1 @@
+{"index": 216438, "D": "the expression of a wish that misfortune, evil, doom, etc., befall a person, group, etc.", "S": [], "A": []}

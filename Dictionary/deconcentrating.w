@@ -1,0 +1,1 @@
+{"index": 78645, "D": "to reduce the power or control of (a corporation, industry, etc.); decentralize.", "S": [], "A": []}

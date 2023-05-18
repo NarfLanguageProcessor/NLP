@@ -1,0 +1,1 @@
+{"index": 309274, "D": "that of which a thing consists; physical matter or material", "S": [], "A": []}

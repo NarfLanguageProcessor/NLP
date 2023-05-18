@@ -1,0 +1,1 @@
+{"index": 325889, "D": "in a way that relates to a matter of local or current interest", "S": [], "A": []}

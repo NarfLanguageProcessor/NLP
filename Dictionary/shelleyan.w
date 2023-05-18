@@ -1,0 +1,1 @@
+{"index": 287959, "D": "of, relating to, or characteristic of Percy Bysshe Shelley  or his works.", "S": [], "A": []}

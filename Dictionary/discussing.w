@@ -1,0 +1,1 @@
+{"index": 87796, "D": "to consider or examine by argument, comment, etc.; talk over or write about, especially to explore solutions; debate", "S": ["consulting ", "conversing ", "counseling ", "deliberating ", "meeting ", "talking "], "A": []}

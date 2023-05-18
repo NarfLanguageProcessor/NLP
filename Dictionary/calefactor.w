@@ -1,0 +1,1 @@
+{"index": 44997, "D": [], "S": ["boiler ", "heater ", "heating system ", "incinerator ", "kiln ", "stove "], "A": ["freezer "]}

@@ -1,0 +1,1 @@
+{"index": 56780, "D": "a member of a people of mixed Uralic and Altaic ancestry who live in the middle Volga basin, mainly in the Chuvash Autonomous Republic.", "S": [], "A": []}

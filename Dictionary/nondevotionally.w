@@ -1,0 +1,1 @@
+{"index": 203020, "D": "characterized by devotion. ", "S": [], "A": []}

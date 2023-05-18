@@ -1,0 +1,1 @@
+{"index": 364891, "D": "any of several birds of the genus Psophodes, esp P. olivaceus (eastern whipbird) and P. nigrogularis (black-throated whipbird), having a whistle ending in a whipcrack note", "S": [], "A": []}

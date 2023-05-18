@@ -1,0 +1,1 @@
+{"index": 340368, "D": "lacking in dignity", "S": ["rough "], "A": ["clean ", "good ", "kind ", "moral ", "nice ", "noble ", "polite ", "sophisticated ", "superior "]}

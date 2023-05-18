@@ -1,0 +1,1 @@
+{"index": 328441, "D": "a less common spelling of traipse", "S": [], "A": []}

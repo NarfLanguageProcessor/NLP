@@ -1,0 +1,1 @@
+{"index": 174933, "D": "a communal dwelling, especially of the Iroquois and various other North American Indian peoples, consisting of a wooden, bark-covered framework often as much as 100 feet (30.5 meters) in length.", "S": [], "A": []}

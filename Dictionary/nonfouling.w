@@ -1,0 +1,1 @@
+{"index": 204163, "D": "an encrusted deposit, especially on a submerged object, as the hull of a ship.", "S": [], "A": []}

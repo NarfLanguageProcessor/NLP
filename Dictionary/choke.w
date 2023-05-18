@@ -1,0 +1,1 @@
+{"index": 55338, "D": "to stop the breath of by squeezing or obstructing the windpipe; strangle; stifle.", "S": ["clog ", "congest ", "drown ", "fill ", "gag ", "gasp ", "kill ", "stifle ", "strangle ", "suffocate "], "A": ["free ", "let go ", "loose ", "advance ", "expand ", "liberate ", "loosen ", "open ", "permit ", "release "]}

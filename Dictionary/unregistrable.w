@@ -1,0 +1,1 @@
+{"index": 349364, "D": "a book in which records of acts, events, names, etc., are kept.", "S": [], "A": []}

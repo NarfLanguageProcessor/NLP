@@ -1,0 +1,1 @@
+{"index": 354187, "D": "uttering a nasal, complaining cry, as from peevishness, discontent, uneasiness, etc.", "S": [], "A": []}

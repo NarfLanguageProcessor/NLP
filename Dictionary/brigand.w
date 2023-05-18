@@ -1,0 +1,1 @@
+{"index": 40747, "D": "a bandit, especially one of a band of robbers in mountain or forest regions.", "S": ["bandit ", "desperado ", "footpad ", "freebooter ", "highwayman ", "marauder ", "outlaw ", "pillager ", "pirate ", "robber ", "soldier ", "thief "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86202, "D": "a combining form meaning \u201cterrifying, frightful,\u201d used in the formation of compound words", "S": [], "A": []}

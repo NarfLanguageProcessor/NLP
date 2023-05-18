@@ -1,0 +1,1 @@
+{"index": 268237, "D": "to assume the former role, position, or function of; substitute for (a person or thing)", "S": [], "A": []}

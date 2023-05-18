@@ -1,0 +1,1 @@
+{"index": 248377, "D": "to grant a prize or an award to.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 333718, "D": "the doctors of Muslim religion and law.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 117115, "D": "a platform at the head of a fore lower mast of a ship.", "S": [], "A": []}

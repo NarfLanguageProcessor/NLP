@@ -1,0 +1,1 @@
+{"index": 93961, "D": "to make more agreeable; mollify; appease.", "S": [], "A": []}

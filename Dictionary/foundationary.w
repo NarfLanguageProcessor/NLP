@@ -1,0 +1,1 @@
+{"index": 117920, "D": "of or relating to the basis or groundwork on which something rests or is built; needing to be understood or established at the beginning", "S": [], "A": []}

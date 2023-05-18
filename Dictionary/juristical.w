@@ -1,0 +1,1 @@
+{"index": 162479, "D": "of or relating to a jurist  or to jurisprudence; juridical.", "S": [], "A": []}

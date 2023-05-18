@@ -1,0 +1,1 @@
+{"index": 86303, "D": "a mineral, hydrous copper silicate, CuSiO3\u22c5H2O, occurring in emerald-green crystals.", "S": [], "A": []}

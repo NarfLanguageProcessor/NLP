@@ -1,0 +1,1 @@
+{"index": 290266, "D": "a person or thing that silences. ", "S": ["damper ", "muffler ", "mute pedal ", "noise queller ", "sordine ", "sordino ", "sourdine "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256668, "D": "of less than normal size and strength; weak.", "S": [], "A": []}

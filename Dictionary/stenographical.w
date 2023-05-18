@@ -1,0 +1,1 @@
+{"index": 303679, "D": "the art of writing in shorthand.", "S": [], "A": []}

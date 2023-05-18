@@ -1,0 +1,1 @@
+{"index": 280567, "D": "a skier who is skilled at schussing. ", "S": [], "A": []}

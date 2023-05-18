@@ -1,0 +1,1 @@
+{"index": 40406, "D": "a wind or current of air, especially a light or moderate one.", "S": ["calm ", "motionless ", "still ", "unstirring ", "windless "], "A": []}

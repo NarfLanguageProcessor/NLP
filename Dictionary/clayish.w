@@ -1,0 +1,1 @@
+{"index": 59063, "D": "covered or smeared with clay.", "S": [], "A": []}

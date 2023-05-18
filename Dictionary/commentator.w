@@ -1,0 +1,1 @@
+{"index": 63992, "D": "a person who discusses news, sports events, weather, or the like, as on television or radio.", "S": ["analyst ", "announcer ", "correspondent ", "critic ", "observer ", "pundit ", "reviewer ", "sportscaster ", "writer "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 145447, "D": "high velocity.", "S": [], "A": []}

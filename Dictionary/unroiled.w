@@ -1,0 +1,1 @@
+{"index": 350043, "D": "to render (water, wine, etc.) turbid by stirring up sediment.", "S": [], "A": []}

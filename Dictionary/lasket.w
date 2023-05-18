@@ -1,0 +1,1 @@
+{"index": 168745, "D": "a loop at the foot of a sail onto which an extra sail may be fastened", "S": [], "A": []}

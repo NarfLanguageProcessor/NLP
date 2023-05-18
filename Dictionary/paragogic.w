@@ -1,0 +1,1 @@
+{"index": 225620, "D": "the addition of a sound or group of sounds at the end of a word, as in the nonstandard pronunciation of height as height-th or once as once-t.", "S": [], "A": []}

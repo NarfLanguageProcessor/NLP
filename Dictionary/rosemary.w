@@ -1,0 +1,1 @@
+{"index": 274487, "D": "an evergreen shrub, Rosmarinus officinalis, of the mint family, native to the Mediterranean region, having leathery, narrow leaves and pale-blue, bell-shaped flowers, used as a seasoning and in perfumery and medicine", "S": [], "A": []}

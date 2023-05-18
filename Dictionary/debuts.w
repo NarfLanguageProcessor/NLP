@@ -1,0 +1,1 @@
+{"index": 77890, "D": "a first public appearance on a stage, on television, etc.", "S": ["appearance ", "beginning ", "inauguration ", "introduction ", "launching ", "opener ", "presentation "], "A": ["conclusion ", "end ", "ending ", "finish "]}

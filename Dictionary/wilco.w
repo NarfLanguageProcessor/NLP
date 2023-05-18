@@ -1,0 +1,1 @@
+{"index": 365679, "D": "(especially in radio transmission) an indication that the message just received will be complied with.", "S": [], "A": []}

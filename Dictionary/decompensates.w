@@ -1,0 +1,1 @@
+{"index": 78609, "D": "to lose the ability to maintain normal or appropriate psychological defenses, sometimes resulting in depression, anxiety, or delusions.", "S": [], "A": []}

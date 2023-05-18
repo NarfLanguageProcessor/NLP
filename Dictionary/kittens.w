@@ -1,0 +1,1 @@
+{"index": 165243, "D": "a young cat.", "S": ["brood ", "cubs ", "family ", "piglets ", "progeny ", "puppies ", "school ", "young "], "A": ["parent "]}

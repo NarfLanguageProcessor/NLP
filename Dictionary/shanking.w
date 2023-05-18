@@ -1,0 +1,1 @@
+{"index": 287413, "D": "the part of the lower limb in humans between the knee and the ankle; leg. ", "S": ["brand ", "carve ", "clip ", "cut ", "hurt ", "impale ", "jag ", "kill ", "lacerate ", "lance ", "pierce ", "shank ", "shiv ", "slash ", "slice ", "spit ", "stick ", "thrust ", "wound "], "A": ["aid ", "cure ", "heal ", "help "]}

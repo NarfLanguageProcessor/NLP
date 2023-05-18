@@ -1,0 +1,1 @@
+{"index": 131352, "D": "the flint  in a flintlock.", "S": [], "A": []}

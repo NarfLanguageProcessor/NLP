@@ -1,0 +1,1 @@
+{"index": 356463, "D": "wandering from place to place without any settled home; nomadic", "S": [], "A": []}

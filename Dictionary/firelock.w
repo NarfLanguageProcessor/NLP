@@ -1,0 +1,1 @@
+{"index": 113176, "D": "a gun having a lock  in which the priming is ignited by sparks struck from flint and steel, as the flintlock musket.", "S": [], "A": []}

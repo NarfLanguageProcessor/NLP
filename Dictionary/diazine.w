@@ -1,0 +1,1 @@
+{"index": 84647, "D": "any of three isomeric compounds having the formula C4H4N2, containing a ring of four carbon atoms and two nitrogen atoms.", "S": [], "A": []}

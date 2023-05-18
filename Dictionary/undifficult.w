@@ -1,0 +1,1 @@
+{"index": 340341, "D": "not easily or readily done; requiring much labor, skill, or planning to be performed successfully; hard", "S": [], "A": []}

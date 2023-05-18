@@ -1,0 +1,1 @@
+{"index": 84510, "D": "a form of articulation that permits maximal motion, as the knee joint.", "S": [], "A": []}

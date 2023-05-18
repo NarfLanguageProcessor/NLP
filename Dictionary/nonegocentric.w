@@ -1,0 +1,1 @@
+{"index": 203384, "D": "having or regarding the self or the individual as the center of all things", "S": [], "A": []}

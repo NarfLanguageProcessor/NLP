@@ -1,0 +1,1 @@
+{"index": 286444, "D": "an act of helpful activity; help; aid", "S": ["account ", "assistance ", "benefit ", "business ", "duty ", "employment ", "maintenance ", "office ", "supply ", "use ", "utility ", "work "], "A": ["hindrance ", "hurt ", "loss ", "unemployment ", "disadvantage ", "disfavor ", "inappropriateness "]}

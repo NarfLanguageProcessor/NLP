@@ -1,0 +1,1 @@
+{"index": 251482, "D": "any of various imperial officials with fiscal or administrative powers.", "S": [], "A": []}

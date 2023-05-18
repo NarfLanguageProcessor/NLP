@@ -1,0 +1,1 @@
+{"index": 90261, "D": "differing in form; of various forms.", "S": ["disparate ", "divergent ", "diverse ", "varied "], "A": ["alike ", "like ", "same ", "similar "]}

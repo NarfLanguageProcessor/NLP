@@ -1,0 +1,1 @@
+{"index": 46217, "D": "a type of bowling game, employing a smaller ball than tenpins, in which three balls are allowed to a frame and fallen pins are not removed from the alley", "S": ["bowls ", "duckpins ", "ninepins ", "skittles "], "A": []}

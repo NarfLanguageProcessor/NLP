@@ -1,0 +1,1 @@
+{"index": 258891, "D": "cinquefoil (def. 2). ", "S": [], "A": []}

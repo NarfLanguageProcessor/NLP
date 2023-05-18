@@ -1,0 +1,1 @@
+{"index": 290093, "D": "anything that serves to indicate, warn, direct, command, or the like, such as a light, a gesture, an act, etc.", "S": ["warn "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 98104, "D": "to depict, as on an escutcheon in heraldry.", "S": ["decorate ", "embellish ", "paint "], "A": []}

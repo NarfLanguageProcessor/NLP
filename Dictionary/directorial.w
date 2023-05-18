@@ -1,0 +1,1 @@
+{"index": 86788, "D": "pertaining to a director or directorate.", "S": ["managerial "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 66898, "D": "a small shelf or recess in a handy location, as in the armrest, dashboard, or door panel of a car, in a shower stall, etc., for holding small, frequently used items.", "S": [], "A": []}

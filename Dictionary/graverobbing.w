@@ -1,0 +1,1 @@
+{"index": 129342, "D": "a person who steals valuables from graves  and tombs", "S": [], "A": []}

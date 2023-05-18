@@ -1,0 +1,1 @@
+{"index": 277321, "D": "in the direction or manner of a saltire. ", "S": [], "A": []}

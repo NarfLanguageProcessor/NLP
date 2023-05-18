@@ -1,0 +1,1 @@
+{"index": 157585, "D": "an unsophisticated person from a rural area; a country bumpkin.", "S": [], "A": []}

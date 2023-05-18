@@ -1,0 +1,1 @@
+{"index": 205864, "D": "not subject to rapid deterioration or decay", "S": ["durable ", "immortal ", "perpetual "], "A": ["ephemeral ", "temporary "]}

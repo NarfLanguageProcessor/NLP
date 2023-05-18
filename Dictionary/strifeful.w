@@ -1,0 +1,1 @@
+{"index": 306260, "D": "vigorous or bitter conflict, discord, or antagonism", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 236418, "D": "of, pertaining to, having, or producing pigment.", "S": [], "A": []}

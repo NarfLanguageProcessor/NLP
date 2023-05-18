@@ -1,0 +1,1 @@
+{"index": 16353, "D": "westerly winds lying above the trade  winds in the tropics.", "S": [], "A": []}

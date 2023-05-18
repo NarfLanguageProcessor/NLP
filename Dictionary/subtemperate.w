@@ -1,0 +1,1 @@
+{"index": 309427, "D": "of, relating to, or occurring in the colder parts of the Temperate Zone.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 189229, "D": "a person who appears to enjoy being depressed, esp a performer of or listener to gloomy music", "S": [], "A": []}

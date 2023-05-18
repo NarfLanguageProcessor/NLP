@@ -1,0 +1,1 @@
+{"index": 237262, "D": "a long-necked river duck, Anas acuta, of the Old and New Worlds, having long and narrow middle tail  feathers.", "S": [], "A": []}

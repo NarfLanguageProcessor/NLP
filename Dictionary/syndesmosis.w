@@ -1,0 +1,1 @@
+{"index": 291519, "D": "a connection of bones by ligaments, fasciae, or membranes other than in a joint.", "S": [], "A": []}

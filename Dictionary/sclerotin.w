@@ -1,0 +1,1 @@
+{"index": 281019, "D": "an insoluble protein that serves to stiffen the chitin of the cuticle of arthropods.", "S": [], "A": []}

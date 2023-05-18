@@ -1,0 +1,1 @@
+{"index": 314234, "D": "of or relating to Emanuel Swedenborg,  his religious doctrines, or the body of followers adhering to these doctrines and constituting the Church of the New Jerusalem, or New Church.", "S": [], "A": []}

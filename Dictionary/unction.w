@@ -1,0 +1,1 @@
+{"index": 338257, "D": "an act of anointing, especially as a medical treatment or religious rite.", "S": ["chrism ", "cream ", "lotion ", "oil ", "salve ", "unguent "], "A": []}

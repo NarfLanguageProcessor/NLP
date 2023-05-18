@@ -1,0 +1,1 @@
+{"index": 169918, "D": "any bloodsucking or carnivorous aquatic or terrestrial worm of the class Hirudinea, certain freshwater species of which were formerly much used in medicine for bloodletting.", "S": ["drain ", "ooze ", "trickle ", "weep "], "A": []}

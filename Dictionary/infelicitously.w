@@ -1,0 +1,1 @@
+{"index": 151895, "D": "inapt, inappropriate, or awkward; malapropos", "S": [], "A": []}

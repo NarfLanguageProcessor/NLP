@@ -1,0 +1,1 @@
+{"index": 289278, "D": "the three days before Ash Wednesday, once a time of confession and absolution.", "S": [], "A": []}

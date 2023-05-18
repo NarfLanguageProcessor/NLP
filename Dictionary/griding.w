@@ -1,0 +1,1 @@
+{"index": 129785, "D": "to make a grating sound; scrape harshly; grate; grind.", "S": [], "A": []}

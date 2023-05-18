@@ -1,0 +1,1 @@
+{"index": 281464, "D": "an act or instance of reconnoitering; reconnaissance.", "S": ["garrison ", "vigilance "], "A": []}

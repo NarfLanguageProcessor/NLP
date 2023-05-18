@@ -1,0 +1,1 @@
+{"index": 61402, "D": "a spiral-shaped cavity forming a division of the internal ear in humans and in most other mammals.", "S": ["circling ", "coiled "], "A": ["straight ", "unwinding "]}

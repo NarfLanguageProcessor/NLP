@@ -1,0 +1,1 @@
+{"index": 56097, "D": "a green variety of chalcedony, sometimes used as a gem.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 96707, "D": "style; flair; dash  (especially in manner)", "S": ["animation ", "ardor ", "brio ", "dash ", "esprit ", "flair ", "impetuosity ", "impetus ", "life ", "oomph ", "panache ", "spirit ", "style ", "verve ", "vigor ", "vim ", "zest ", "zing "], "A": []}

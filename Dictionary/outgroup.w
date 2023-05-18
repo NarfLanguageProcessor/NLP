@@ -1,0 +1,1 @@
+{"index": 216751, "D": "people outside one's own group,  especially as considered to be inferior or alien; a group  perceived as other than one's own.", "S": [], "A": []}

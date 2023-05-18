@@ -1,0 +1,1 @@
+{"index": 72446, "D": "a person or thing that creates. ", "S": ["architect ", "author ", "designer ", "founder ", "maker ", "producer "], "A": ["destroyer "]}

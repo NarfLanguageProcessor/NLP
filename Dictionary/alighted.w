@@ -1,0 +1,1 @@
+{"index": 8253, "D": "to dismount from a horse, descend from a vehicle, etc.", "S": ["descend ", "disembark ", "get off ", "perch ", "touch down "], "A": ["mount "]}

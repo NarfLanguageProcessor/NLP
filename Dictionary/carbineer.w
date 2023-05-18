@@ -1,0 +1,1 @@
+{"index": 47447, "D": "(formerly) a soldier armed with a carbine.", "S": [], "A": []}

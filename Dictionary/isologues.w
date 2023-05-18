@@ -1,0 +1,1 @@
+{"index": 159074, "D": "one of two or more isologous compounds.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 167529, "D": "to make imperfect l- or r-sounds, or both, often by substituting a w-like sound for r or l or a y-like sound for l.", "S": [], "A": []}

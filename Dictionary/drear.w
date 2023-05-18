@@ -1,0 +1,1 @@
+{"index": 92892, "D": "dreary. ", "S": ["dark ", "dismal ", "dreary ", "gloomy ", "grim ", "harsh ", "lonely ", "sad ", "somber "], "A": ["bright ", "cheerful ", "encouraging ", "glad ", "happy ", "hopeful ", "joyful ", "light ", "pleasant ", "sunny "]}

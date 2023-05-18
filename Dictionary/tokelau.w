@@ -1,0 +1,1 @@
+{"index": 325202, "D": "an island group in the South Pacific composed of three atolls, Nukunono, Atafu, and Fakaofo; dependent territory of New Zealand. Pop", "S": [], "A": []}

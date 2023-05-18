@@ -1,0 +1,1 @@
+{"index": 278833, "D": "characterized by sattva", "S": [], "A": []}

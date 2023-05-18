@@ -1,0 +1,1 @@
+{"index": 67352, "D": "deserving of or held in contempt;  despicable.", "S": ["avarice ", "greed ", "malice "], "A": ["benevolence ", "generosity ", "goodness ", "honor ", "morality ", "virtue "]}

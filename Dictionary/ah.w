@@ -1,0 +1,1 @@
+{"index": 6619, "D": "(used as an exclamation of pain, surprise, pity, complaint, dislike, joy, etc., according to the manner of utterance.)", "S": ["ahem ", "alas ", "amen ", "boo ", "er ", "exclamation ", "hello ", "hooray ", "hurrah ", "oh ", "shucks ", "whoopee ", "wow "], "A": []}

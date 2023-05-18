@@ -1,0 +1,1 @@
+{"index": 234442, "D": "the study of the anatomy, physiology, and diseases of veins.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 294382, "D": "of or relating to slosh;  slushy.", "S": [], "A": []}

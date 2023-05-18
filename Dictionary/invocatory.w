@@ -1,0 +1,1 @@
+{"index": 157300, "D": "the act of invoking  or calling upon a deity, spirit, etc., for aid, protection, inspiration, or the like; supplication.", "S": [], "A": []}

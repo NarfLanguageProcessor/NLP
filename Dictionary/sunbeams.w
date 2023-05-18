@@ -1,0 +1,1 @@
+{"index": 311035, "D": "a beam or ray of sunlight.", "S": ["bulb ", "candle ", "daylight ", "flash ", "glare ", "glow ", "lamp ", "lantern ", "radiation ", "ray ", "star ", "sun ", "sunshine ", "window "], "A": ["darkness ", "dimness ", "dullness ", "eventide ", "sundown ", "sunset "]}

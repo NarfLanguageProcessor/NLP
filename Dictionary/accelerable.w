@@ -1,0 +1,1 @@
+{"index": 1426, "D": "to cause faster or greater activity, development, progress, advancement, etc., in", "S": [], "A": []}

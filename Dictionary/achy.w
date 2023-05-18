@@ -1,0 +1,1 @@
+{"index": 2247, "D": "having or causing an aching  sensation", "S": ["aching ", "hurtful ", "hurting ", "nagging ", "raw ", "smarting ", "sore ", "stinging ", "tender ", "throbbing "], "A": []}

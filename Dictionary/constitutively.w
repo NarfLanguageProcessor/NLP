@@ -1,0 +1,1 @@
+{"index": 67064, "D": "constituent; making a thing what it is; essential.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227963, "D": "patronymic (defs. 3, 4). ", "S": [], "A": []}

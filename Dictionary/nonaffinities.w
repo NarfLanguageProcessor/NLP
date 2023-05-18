@@ -1,0 +1,1 @@
+{"index": 201195, "D": "a natural liking for or attraction to a person, thing, idea, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 172033, "D": "something that makes things visible or affords illumination", "S": [], "A": []}

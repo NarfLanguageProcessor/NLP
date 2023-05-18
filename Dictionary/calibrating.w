@@ -1,0 +1,1 @@
+{"index": 45069, "D": "to determine, check, or rectify the graduation of (any instrument giving quantitative measurements).", "S": ["aligning ", "averaging ", "calculating ", "checking ", "gauging ", "grading ", "leveling ", "mapping ", "rhyming ", "scaling ", "surveying "], "A": []}

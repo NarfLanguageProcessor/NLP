@@ -1,0 +1,1 @@
+{"index": 361019, "D": "a lightweight, semisheer fabric of wool, silk, rayon, or cotton constructed in plain weave.", "S": [], "A": []}

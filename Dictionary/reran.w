@@ -1,0 +1,1 @@
+{"index": 268923, "D": "to run  again.", "S": ["echo ", "recite ", "rehash ", "reiterate ", "renew ", "replay ", "restate "], "A": ["destroy ", "stop "]}

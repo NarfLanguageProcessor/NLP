@@ -1,0 +1,1 @@
+{"index": 255872, "D": "a drooping of the upper eyelid.", "S": [], "A": []}

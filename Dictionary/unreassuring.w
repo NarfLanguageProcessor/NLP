@@ -1,0 +1,1 @@
+{"index": 349129, "D": "restoring or boosting confidence, certainty, or security", "S": [], "A": []}

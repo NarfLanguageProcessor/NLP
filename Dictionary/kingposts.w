@@ -1,0 +1,1 @@
+{"index": 164915, "D": "a structural member running vertically between the apex and base of a triangular roof truss.", "S": [], "A": []}

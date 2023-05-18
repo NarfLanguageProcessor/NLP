@@ -1,0 +1,1 @@
+{"index": 13037, "D": "of or relating to an oscillating system that is not undergoing simple harmonic motion.", "S": [], "A": []}

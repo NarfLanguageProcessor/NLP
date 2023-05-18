@@ -1,0 +1,1 @@
+{"index": 58933, "D": "courtesy; politeness.", "S": ["comity ", "courtesy ", "decorum ", "politeness ", "propriety ", "respect "], "A": ["bad manners ", "impoliteness ", "rudeness "]}

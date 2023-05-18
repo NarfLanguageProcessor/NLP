@@ -1,0 +1,1 @@
+{"index": 339490, "D": "the act or process of injuring, attacking, or destroying something or someone indirectly or by imperceptible degrees, often leading to a dramatic collapse", "S": [], "A": []}

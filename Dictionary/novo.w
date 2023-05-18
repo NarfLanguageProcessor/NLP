@@ -1,0 +1,1 @@
+{"index": 209191, "D": "anew; afresh; again; from the beginning", "S": [], "A": []}

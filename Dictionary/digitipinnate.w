@@ -1,0 +1,1 @@
+{"index": 85465, "D": "(of a compound leaf) digitate  with pinnate  leaflets.", "S": [], "A": []}

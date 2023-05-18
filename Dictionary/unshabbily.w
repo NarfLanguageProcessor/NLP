@@ -1,0 +1,1 @@
+{"index": 350876, "D": "impaired by wear, use, etc.; worn", "S": [], "A": []}

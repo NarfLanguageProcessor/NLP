@@ -1,0 +1,1 @@
+{"index": 27674, "D": "a spiritual power believed to be possessed by certain persons, objects, tombs, etc.", "S": [], "A": []}

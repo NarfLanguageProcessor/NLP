@@ -1,0 +1,1 @@
+{"index": 147310, "D": "the act of inferring.", "S": ["agreement ", "conviction ", "inference ", "opinion ", "resolution ", "settlement ", "verdict "], "A": ["indecision "]}

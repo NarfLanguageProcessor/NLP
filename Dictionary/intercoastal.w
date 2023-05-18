@@ -1,0 +1,1 @@
+{"index": 154656, "D": "existing or done between seacoasts; involving two or more seacoasts.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158555, "D": "having the stamens similar to each other and equal in number to the petals.", "S": [], "A": []}

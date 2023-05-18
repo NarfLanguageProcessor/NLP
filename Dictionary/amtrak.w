@@ -1,0 +1,1 @@
+{"index": 11401, "D": "a government-subsidized public corporation created by Congress in 1970 to operate a national intercity passenger railroad system through contracts with existing railroads.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 92386, "D": "a synthetic analog of a broad-spectrum antibiotic tetracycline drug, C22H24N2O8, used against a wide range of susceptible Gram-positive and Gram-negative organisms.", "S": [], "A": []}

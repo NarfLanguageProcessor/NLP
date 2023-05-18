@@ -1,0 +1,1 @@
+{"index": 166966, "D": "lacking  brilliance or radiance; dull", "S": ["boring ", "flat ", "ho-hum ", "muted ", "uninspired "], "A": ["bright ", "enthusiastic ", "lively ", "shining ", "shiny ", "spirited "]}

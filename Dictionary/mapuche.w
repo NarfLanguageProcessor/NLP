@@ -1,0 +1,1 @@
+{"index": 179752, "D": "a member of an ethnically diverse Indigenous people of Chile and Argentina.", "S": [], "A": []}

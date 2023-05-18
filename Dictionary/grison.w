@@ -1,0 +1,1 @@
+{"index": 130042, "D": "a weasellike carnivore, Galictis vittata, ranging from southern Mexico to Peru, having a grayish-white upper body, a distinctive white stripe across the forehead and ears, and a dark brown face, chest, and legs.", "S": [], "A": []}

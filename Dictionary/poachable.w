@@ -1,0 +1,1 @@
+{"index": 240888, "D": "to cook (eggs, fish, fruits, etc.) in a hot liquid that is kept just below the boiling point.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 26748, "D": "of or relating to the pomegranate.", "S": [], "A": []}

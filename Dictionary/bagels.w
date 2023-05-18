@@ -1,0 +1,1 @@
+{"index": 26285, "D": "a leavened, doughnut-shaped, firm-textured roll, with a brownish glazed surface, made of dough first poached and then baked.", "S": [], "A": []}

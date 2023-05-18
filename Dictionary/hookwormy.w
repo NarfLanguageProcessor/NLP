@@ -1,0 +1,1 @@
+{"index": 143580, "D": "any of certain bloodsucking nematode worms,  as Ancylostoma duodenale and Necator americanus, parasitic in the intestine of humans and other animals.", "S": [], "A": []}

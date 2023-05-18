@@ -1,0 +1,1 @@
+{"index": 80762, "D": "an unmarried girl or young woman.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 333871, "D": "a high-speed centrifuge  for subjecting sols or solutions to forces many times that of gravity and producing concentration differences depending on the weight of the micelle or molecule.", "S": [], "A": []}

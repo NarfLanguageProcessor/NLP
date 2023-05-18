@@ -1,0 +1,1 @@
+{"index": 104958, "D": "the state or quality of being moral, in accordance with the standards of right and wrong", "S": ["code ", "ethical code ", "ethical values ", "ethicality ", "ethics ", "moral ", "moral philosophy ", "morality ", "principle ", "principles ", "set of values ", "value-system "], "A": []}

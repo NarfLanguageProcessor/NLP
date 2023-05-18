@@ -1,0 +1,1 @@
+{"index": 238271, "D": "the doctrines of Pythagoras and his followers, especially the belief that the universe is the manifestation of various combinations of mathematical ratios.", "S": [], "A": []}

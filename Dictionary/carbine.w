@@ -1,0 +1,1 @@
+{"index": 47446, "D": "a light, gas-operated semiautomatic rifle.", "S": ["rifle "], "A": []}

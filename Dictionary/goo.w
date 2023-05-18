@@ -1,0 +1,1 @@
+{"index": 127866, "D": "a thick or sticky substance", "S": ["gunk ", "muck ", "sludge "], "A": []}

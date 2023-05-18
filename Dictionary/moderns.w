@@ -1,0 +1,1 @@
+{"index": 191113, "D": "of or relating to present and recent time; not ancient or remote", "S": ["melody ", "opera ", "piece ", "rap ", "rock ", "singing ", "soul ", "tune "], "A": ["silence "]}

@@ -1,0 +1,1 @@
+{"index": 129487, "D": "excessive or rapacious desire, especially for wealth or possessions.", "S": ["avarice ", "excess ", "gluttony ", "hunger ", "longing ", "selfishness "], "A": ["apathy ", "dislike ", "distaste ", "indifference "]}

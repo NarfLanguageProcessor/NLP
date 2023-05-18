@@ -1,0 +1,1 @@
+{"index": 91835, "D": "a quantity of medicine prescribed to be taken at one time.", "S": ["application ", "dosage ", "lot ", "measure ", "measurement ", "prescription ", "quantity ", "shot "], "A": []}

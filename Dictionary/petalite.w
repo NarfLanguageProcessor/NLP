@@ -1,0 +1,1 @@
+{"index": 232324, "D": "a mineral, lithium aluminum silicate, Li(AlSi4O10), occurring in colorless or white foliated masses", "S": [], "A": []}

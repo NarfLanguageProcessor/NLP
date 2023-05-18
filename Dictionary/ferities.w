@@ -1,0 +1,1 @@
+{"index": 111357, "D": "a wild, untamed, or uncultivated state.", "S": [], "A": []}

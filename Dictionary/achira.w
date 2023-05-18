@@ -1,0 +1,1 @@
+{"index": 2287, "D": "a South American and West Indian herb, Canna edulis, having large sheathing leaves, red flowers, and edible rhizomes.", "S": [], "A": []}

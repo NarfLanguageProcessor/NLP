@@ -1,0 +1,1 @@
+{"index": 303682, "D": "a person who specializes in taking dictation in shorthand.", "S": [], "A": []}

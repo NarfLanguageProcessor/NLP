@@ -1,0 +1,1 @@
+{"index": 44570, "D": "a hot, biting condiment composed of the ground pods and seeds of the pepper Capsicum annuum longum.", "S": [], "A": []}

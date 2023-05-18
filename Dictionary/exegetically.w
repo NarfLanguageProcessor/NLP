@@ -1,0 +1,1 @@
+{"index": 106998, "D": "of or relating to exegesis;  explanatory; interpretative.", "S": [], "A": []}

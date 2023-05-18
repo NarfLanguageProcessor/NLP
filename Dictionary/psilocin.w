@@ -1,0 +1,1 @@
+{"index": 255569, "D": "a psilocybin  metabolite with strong hallucinogenic potency, produced after ingestion of the mushroom Psilocybe mexicana.", "S": [], "A": []}

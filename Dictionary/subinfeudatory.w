@@ -1,0 +1,1 @@
+{"index": 308213, "D": "a person who holds by subinfeudation. ", "S": [], "A": []}

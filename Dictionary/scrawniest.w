@@ -1,0 +1,1 @@
+{"index": 281661, "D": "excessively thin; lean; scraggy", "S": ["bony ", "lanky ", "skinny "], "A": ["fat ", "heavy ", "overweight ", "plump "]}

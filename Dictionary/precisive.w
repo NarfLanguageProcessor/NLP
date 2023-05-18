@@ -1,0 +1,1 @@
+{"index": 246156, "D": "separating or distinguishing (a person or thing) from another or others", "S": [], "A": []}

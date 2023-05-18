@@ -1,0 +1,1 @@
+{"index": 101852, "D": "a diplomatic agent.", "S": ["delegate ", "diplomat ", "emissary ", "minister ", "representative "], "A": ["receiver "]}

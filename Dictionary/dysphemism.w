@@ -1,0 +1,1 @@
+{"index": 89013, "D": "the substitution of a harsh, disparaging, or unpleasant expression for a more neutral one.", "S": [], "A": []}

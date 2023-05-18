@@ -1,0 +1,1 @@
+{"index": 326099, "D": "noting or pertaining to a lens with a surface forming a portion of a torus,  used for eyeglasses and contact lenses that correct astigmatism.", "S": [], "A": []}

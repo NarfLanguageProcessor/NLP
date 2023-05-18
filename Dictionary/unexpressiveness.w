@@ -1,0 +1,1 @@
+{"index": 341845, "D": "not expressive;  lacking in expression of meaning, feeling, etc.", "S": [], "A": []}

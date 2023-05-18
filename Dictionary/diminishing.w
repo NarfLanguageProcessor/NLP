@@ -1,0 +1,1 @@
+{"index": 85904, "D": "to make or cause to seem smaller, less, less important, etc.; lessen; reduce.", "S": ["condoning ", "justifying ", "lessening ", "mitigating ", "moderating ", "qualifying ", "reducing ", "softening ", "varnishing ", "whitewashing "], "A": []}

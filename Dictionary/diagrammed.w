@@ -1,0 +1,1 @@
+{"index": 84164, "D": "a figure, usually consisting of a line drawing, made to accompany and illustrate a geometrical theorem, mathematical demonstration, etc.", "S": ["arrange ", "chart ", "outline "], "A": ["hoard ", "neglect ", "save "]}

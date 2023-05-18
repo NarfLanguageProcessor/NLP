@@ -1,0 +1,1 @@
+{"index": 74481, "D": "pertaining to, involving, or situated near the cubitus. ", "S": [], "A": []}

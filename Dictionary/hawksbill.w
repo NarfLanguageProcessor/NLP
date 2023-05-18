@@ -1,0 +1,1 @@
+{"index": 134487, "D": "a sea turtle, Eretmochelys imbricata, the shell of which is the source of tortoise shell", "S": [], "A": []}

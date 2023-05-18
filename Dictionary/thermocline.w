@@ -1,0 +1,1 @@
+{"index": 321381, "D": "a layer of water in an ocean or certain lakes, where the temperature gradient is greater than that of the warmer layer above and the colder layer below.", "S": [], "A": []}

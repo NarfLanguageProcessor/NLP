@@ -1,0 +1,1 @@
+{"index": 258825, "D": "of or lasting for five years.", "S": ["quinary ", "quintan "], "A": []}

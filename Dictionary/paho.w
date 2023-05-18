@@ -1,0 +1,1 @@
+{"index": 223060, "D": "a prayer stick of the Hopi Indians.", "S": [], "A": []}

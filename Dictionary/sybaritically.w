@@ -1,0 +1,1 @@
+{"index": 289493, "D": "pertaining to or characteristic of a sybarite; characterized by or loving luxury or sensuous pleasure", "S": [], "A": []}

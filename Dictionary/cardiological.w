@@ -1,0 +1,1 @@
+{"index": 47807, "D": "the study of the heart and its functions in health and disease.", "S": [], "A": []}

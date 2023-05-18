@@ -1,0 +1,1 @@
+{"index": 73768, "D": "a horizontal bar,  line, or stripe.", "S": ["batten ", "billet ", "boom ", "crosspiece ", "ingot ", "lever ", "paling ", "pig ", "pole ", "rail ", "rib ", "rule ", "shaft ", "slab ", "spar ", "spoke ", "stake ", "stick ", "streak ", "strip ", "stripe ", "stroke "], "A": ["failure ", "loss ", "whole "]}

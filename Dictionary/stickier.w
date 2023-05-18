@@ -1,0 +1,1 @@
+{"index": 304302, "D": "having the property of adhering, as glue; adhesive.", "S": ["syrupy ", "tacky ", "viscous "], "A": ["dry ", "smooth "]}

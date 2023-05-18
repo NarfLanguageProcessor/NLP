@@ -1,0 +1,1 @@
+{"index": 196804, "D": "the mother-in-law of Ruth and the great-grandmother of David. Ruth 1.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 192722, "D": "pertaining to, characterized by, or adhering to monotheism,  the doctrine that there is only one God", "S": [], "A": []}

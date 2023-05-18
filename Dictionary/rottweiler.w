@@ -1,0 +1,1 @@
+{"index": 274704, "D": "one of a German breed of large, powerful dogs having a short, coarse, black coat with tan to brown markings.", "S": [], "A": []}

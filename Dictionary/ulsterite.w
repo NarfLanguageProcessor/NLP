@@ -1,0 +1,1 @@
+{"index": 333824, "D": "a former province in Ireland, now comprising Northern Ireland  and a part of the Republic of Ireland.", "S": [], "A": []}

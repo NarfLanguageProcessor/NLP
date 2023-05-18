@@ -1,0 +1,1 @@
+{"index": 232192, "D": "a variant of perversity. ", "S": ["bullheadedness ", "determination ", "doggedness ", "mulishness ", "obstinance ", "pertinacity ", "perversity ", "pigheadedness ", "purpose ", "reluctance ", "tenaciousness ", "tenacity ", "willfulness "], "A": ["irresolution "]}

@@ -1,0 +1,1 @@
+{"index": 19455, "D": "silvery. ", "S": ["bright ", "silvery ", "white "], "A": ["black ", "dark "]}

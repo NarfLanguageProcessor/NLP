@@ -1,0 +1,1 @@
+{"index": 43527, "D": "a person who breaks up something", "S": [], "A": []}

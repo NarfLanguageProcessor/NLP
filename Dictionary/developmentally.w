@@ -1,0 +1,1 @@
+{"index": 83496, "D": "the act or process of developing;  growth; progress", "S": [], "A": []}

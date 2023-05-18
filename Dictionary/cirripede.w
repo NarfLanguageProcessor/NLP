@@ -1,0 +1,1 @@
+{"index": 58342, "D": "any marine crustacean of the subclass Cirripedia, including the barnacles, the adults of which are sessile or parasitic", "S": [], "A": []}

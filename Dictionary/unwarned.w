@@ -1,0 +1,1 @@
+{"index": 354038, "D": "to give notice, advice, or intimation to (a person, group, etc.) of danger, impending evil, possible harm, or anything else unfavorable", "S": ["ill-advised "], "A": ["advised ", "wise "]}

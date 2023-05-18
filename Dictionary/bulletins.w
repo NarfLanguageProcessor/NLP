@@ -1,0 +1,1 @@
+{"index": 42541, "D": "a brief account or statement, as of news or events, issued for the information of the public.", "S": ["announcement ", "dispatch ", "handout ", "notice ", "publication "], "A": ["quiet "]}

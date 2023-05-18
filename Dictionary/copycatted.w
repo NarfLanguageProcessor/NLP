@@ -1,0 +1,1 @@
+{"index": 68504, "D": "a person or thing that copies, imitates, mimics, or follows the lead of another, as a child who says or does exactly the same as another child.", "S": ["ape ", "look like ", "mirror ", "resemble ", "simulate "], "A": ["direct ", "fail ", "halt ", "idle ", "prevent ", "stop "]}

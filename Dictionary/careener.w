@@ -1,0 +1,1 @@
+{"index": 47908, "D": "(of a vehicle) to lean, sway, or tip to one side while in motion", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 208265, "D": "capable of or producing vibration.", "S": [], "A": []}

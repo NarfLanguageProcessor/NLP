@@ -1,0 +1,1 @@
+{"index": 120616, "D": "rod-shaped, anaerobic bacteria  of the genus Fusobacterium, certain species of which are pathogenic in humans.", "S": [], "A": []}

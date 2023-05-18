@@ -1,0 +1,1 @@
+{"index": 235431, "D": "pertaining to the thermal effects of light.", "S": [], "A": []}

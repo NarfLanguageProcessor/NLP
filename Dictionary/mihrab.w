@@ -1,0 +1,1 @@
+{"index": 187053, "D": "(in a mosque) a niche or decorative panel designating the kiblah.", "S": [], "A": []}

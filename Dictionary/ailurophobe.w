@@ -1,0 +1,1 @@
+{"index": 6791, "D": "a person who has an abnormal fear of cats.", "S": [], "A": []}

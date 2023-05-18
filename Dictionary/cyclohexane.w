@@ -1,0 +1,1 @@
+{"index": 57151, "D": "a colorless, pungent, flammable liquid, C6H12, composed of a ring of six methylene groups, derived from crude petroleum by distillation or from benzene by hydrogenation", "S": [], "A": []}

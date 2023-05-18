@@ -1,0 +1,1 @@
+{"index": 125597, "D": "an apparatus consisting of a rotating wheel so mounted that its axis can turn freely in certain or all directions, and capable of maintaining the same absolute direction in space in spite of movements of the mountings and surrounding parts", "S": ["spinner ", "whirligig "], "A": []}

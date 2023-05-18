@@ -1,0 +1,1 @@
+{"index": 287748, "D": "the slaughtering of animals for food by a duly certified person in the manner prescribed by Jewish law.", "S": [], "A": []}

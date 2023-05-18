@@ -1,0 +1,1 @@
+{"index": 202327, "D": "serving or tending to connect", "S": [], "A": []}

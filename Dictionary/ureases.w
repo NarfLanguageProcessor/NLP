@@ -1,0 +1,1 @@
+{"index": 355441, "D": "an enzyme that changes urea  into ammonium carbonate, occurring in bacteria, fungi, etc.", "S": [], "A": []}

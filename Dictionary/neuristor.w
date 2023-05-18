@@ -1,0 +1,1 @@
+{"index": 199003, "D": "a microelectronic fiberlike device used in information processing.", "S": [], "A": []}

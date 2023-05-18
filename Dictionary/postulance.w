@@ -1,0 +1,1 @@
+{"index": 244523, "D": "the period or state of being a postulant,  especially in a religious order.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 211485, "D": "a nymph of Mount Ida who was the wife of Paris, but was deserted by him for Helen.", "S": [], "A": []}

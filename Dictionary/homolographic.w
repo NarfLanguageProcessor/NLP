@@ -1,0 +1,1 @@
+{"index": 143154, "D": "representing parts with like proportions.", "S": [], "A": []}

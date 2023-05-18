@@ -1,0 +1,1 @@
+{"index": 105928, "D": "to leave empty; vacate. ", "S": ["bare ", "barren ", "blank ", "deserted ", "desolate ", "devoid ", "dry ", "hollow ", "unfilled ", "uninhabited ", "unoccupied ", "vacant "], "A": ["aware ", "busy ", "filled ", "full ", "inhabited ", "occupied ", "overflowing ", "populated ", "animated ", "cherished ", "sufficient ", "unused "]}

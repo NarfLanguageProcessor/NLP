@@ -1,0 +1,1 @@
+{"index": 169562, "D": "having leaves;  leaved.", "S": ["frond ", "needle ", "petal ", "stalk "], "A": []}

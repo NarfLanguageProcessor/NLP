@@ -1,0 +1,1 @@
+{"index": 79877, "D": "to depress the spirits of; dispirit; dishearten", "S": ["dishearten ", "dispirit "], "A": []}

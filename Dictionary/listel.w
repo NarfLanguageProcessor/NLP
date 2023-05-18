@@ -1,0 +1,1 @@
+{"index": 173502, "D": "a narrow list or fillet.", "S": ["fish ", "meat ", "slice "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 93826, "D": "resembling or characteristic of a dude,  as in manner or appearance.", "S": [], "A": []}

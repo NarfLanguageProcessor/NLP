@@ -1,0 +1,1 @@
+{"index": 118775, "D": "a state of extreme mental agitation or wild excitement", "S": [], "A": []}

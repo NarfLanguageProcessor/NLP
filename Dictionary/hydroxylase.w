@@ -1,0 +1,1 @@
+{"index": 139043, "D": "any enzyme that catalyzes the introduction of a hydroxyl group  into a substance.", "S": [], "A": []}

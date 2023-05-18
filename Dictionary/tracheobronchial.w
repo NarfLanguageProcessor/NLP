@@ -1,0 +1,1 @@
+{"index": 327082, "D": "of, relating to, or affecting the trachea and bronchi.", "S": [], "A": []}

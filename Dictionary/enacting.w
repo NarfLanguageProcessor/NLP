@@ -1,0 +1,1 @@
+{"index": 98996, "D": "to make into an act or statute", "S": ["congressional ", "parliamentary ", "senatorial "], "A": []}

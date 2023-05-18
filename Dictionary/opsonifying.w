@@ -1,0 +1,1 @@
+{"index": 213758, "D": "to facilitate phagocytosis of (a microorganism, as a bacterium) by treatment with opsonin. ", "S": [], "A": []}

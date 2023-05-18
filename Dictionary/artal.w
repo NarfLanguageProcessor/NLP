@@ -1,0 +1,1 @@
+{"index": 20449, "D": "a plural of rotl. ", "S": [], "A": []}

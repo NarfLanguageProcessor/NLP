@@ -1,0 +1,1 @@
+{"index": 117549, "D": "voluntary sexual intercourse between two unmarried persons or two persons not married to each other.", "S": [], "A": []}

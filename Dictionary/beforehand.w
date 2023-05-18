@@ -1,0 +1,1 @@
+{"index": 30512, "D": "in anticipation; in advance; ahead of time", "S": ["earlier ", "sooner "], "A": []}

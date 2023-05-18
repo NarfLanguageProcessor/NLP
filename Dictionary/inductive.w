@@ -1,0 +1,1 @@
+{"index": 151336, "D": "of, relating to, or involving electrical induction or magnetic induction.", "S": ["inaugural ", "preparatory "], "A": ["concluding ", "ending ", "final ", "finishing ", "last "]}

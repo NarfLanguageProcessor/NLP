@@ -1,0 +1,1 @@
+{"index": 44593, "D": "a member of a Gnostic sect that exalted Cain and regarded the God of the Old Testament as responsible for evil.", "S": [], "A": []}

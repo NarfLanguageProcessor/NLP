@@ -1,0 +1,1 @@
+{"index": 120610, "D": "the act or process of fusing; the state of being fused.", "S": [], "A": []}

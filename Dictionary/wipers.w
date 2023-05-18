@@ -1,0 +1,1 @@
+{"index": 366318, "D": "a person or thing that wipes. ", "S": ["dishrag ", "dustcloth ", "patch ", "remnant ", "scrap ", "shred ", "tatter "], "A": []}

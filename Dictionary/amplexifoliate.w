@@ -1,0 +1,1 @@
+{"index": 11318, "D": "having amplexicaul leaves.", "S": [], "A": []}

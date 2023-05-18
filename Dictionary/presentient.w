@@ -1,0 +1,1 @@
+{"index": 249371, "D": "having a presentiment.", "S": [], "A": []}

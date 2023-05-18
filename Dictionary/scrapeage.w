@@ -1,0 +1,1 @@
+{"index": 281572, "D": "to deprive of or free from an outer layer, adhering matter, etc., or to smooth by drawing or rubbing something, especially a sharp or rough instrument, over the surface", "S": [], "A": []}

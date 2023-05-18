@@ -1,0 +1,1 @@
+{"index": 46288, "D": "a tan unglazed stoneware developed by Wedgwood.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 98459, "D": "emergent (def. 3)", "S": ["approaching ", "imminent ", "impending "], "A": ["distant ", "later ", "remote "]}

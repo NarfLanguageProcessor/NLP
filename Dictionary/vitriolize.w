@@ -1,0 +1,1 @@
+{"index": 360660, "D": "to treat with or change into vitriol. ", "S": [], "A": []}

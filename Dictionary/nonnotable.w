@@ -1,0 +1,1 @@
+{"index": 205510, "D": "worthy of note or notice; noteworthy", "S": [], "A": []}

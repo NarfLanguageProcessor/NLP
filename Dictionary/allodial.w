@@ -1,0 +1,1 @@
+{"index": 8825, "D": "free from the tenurial rights of a feudal overlord.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 353604, "D": "to seize and hold (a position, office, power, etc.) by force or without legal right", "S": [], "A": []}

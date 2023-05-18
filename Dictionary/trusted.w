@@ -1,0 +1,1 @@
+{"index": 331672, "D": "reliance on the integrity, strength, ability, surety, etc., of a person or thing; confidence.", "S": ["credible ", "dependable ", "devoted ", "established ", "honorable ", "honored ", "loyal ", "reliable "], "A": ["disloyal ", "irresponsible ", "undependable ", "unfaithful ", "unreliable ", "untrustworthy ", "cool ", "unfriendly "]}

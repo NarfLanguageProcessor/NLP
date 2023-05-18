@@ -1,0 +1,1 @@
+{"index": 265015, "D": "to direct for information or anything required", "S": ["attributing ", "citing ", "hinting ", "implying ", "indicating ", "mentioning ", "quoting ", "remarking ", "suggesting "], "A": []}

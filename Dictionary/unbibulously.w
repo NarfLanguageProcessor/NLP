@@ -1,0 +1,1 @@
+{"index": 335882, "D": "fond of or addicted to drink.", "S": [], "A": []}

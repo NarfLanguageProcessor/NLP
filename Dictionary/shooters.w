@@ -1,0 +1,1 @@
+{"index": 288784, "D": "a person who shoots  with a gun, bow, etc.", "S": ["firing party ", "fusillade ", "shooting party "], "A": []}

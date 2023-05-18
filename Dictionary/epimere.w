@@ -1,0 +1,1 @@
+{"index": 102583, "D": "the dorsal part of the mesoderm of a vertebrate embryo, consisting of a series of segments (somites)", "S": [], "A": []}

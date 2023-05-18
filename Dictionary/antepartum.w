@@ -1,0 +1,1 @@
+{"index": 14207, "D": "of or noting the period prior to childbirth; before delivery", "S": [], "A": []}

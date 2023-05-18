@@ -1,0 +1,1 @@
+{"index": 218709, "D": "the disposition to preserve or restore what is established and traditional and to limit change.", "S": [], "A": []}

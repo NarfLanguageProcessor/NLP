@@ -1,0 +1,1 @@
+{"index": 302577, "D": "of or relating to stamens.", "S": [], "A": []}

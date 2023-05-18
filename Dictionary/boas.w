@@ -1,0 +1,1 @@
+{"index": 36967, "D": "U.S. anthropologist, born in Germany.", "S": ["bandanna ", "shawl ", "stole "], "A": []}

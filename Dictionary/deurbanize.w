@@ -1,0 +1,1 @@
+{"index": 83346, "D": "to divest (a city or locality) of urban  characteristics.", "S": [], "A": []}

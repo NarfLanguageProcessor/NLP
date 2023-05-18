@@ -1,0 +1,1 @@
+{"index": 179877, "D": "to wave (the hair) by means of special irons, producing the effect of regular, continuous waves (marcel waves ).", "S": [], "A": []}

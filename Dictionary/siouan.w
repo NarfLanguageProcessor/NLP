@@ -1,0 +1,1 @@
+{"index": 292157, "D": "an American Indian language family formerly widespread from Saskatchewan to the lower Mississippi, also found in the Virginia and Carolina piedmont, and including Catawba, Crow, Dakota, Hidatsa, Mandan, Osage, and Winnebago.", "S": [], "A": []}

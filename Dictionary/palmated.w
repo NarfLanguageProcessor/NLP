@@ -1,0 +1,1 @@
+{"index": 224035, "D": "shaped like an open palm or like a hand with the fingers extended, as a leaf or an antler.", "S": [], "A": []}

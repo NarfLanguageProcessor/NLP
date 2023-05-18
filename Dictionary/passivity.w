@@ -1,0 +1,1 @@
+{"index": 227368, "D": "the state or condition of being passive. ", "S": ["indifference ", "insensitivity ", "lethargy "], "A": ["interest "]}

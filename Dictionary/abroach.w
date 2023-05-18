@@ -1,0 +1,1 @@
+{"index": 856, "D": "opened or tapped so that the contents can flow out; broached", "S": [], "A": []}

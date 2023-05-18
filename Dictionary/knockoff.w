@@ -1,0 +1,1 @@
+{"index": 165641, "D": "an act or instance of knocking off.", "S": ["copy ", "duplicate ", "facsimile ", "imitation ", "replica ", "reproduction "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 179213, "D": "an island in New York City surrounded by the Hudson, East, and Harlem rivers. 13\u00bd miles (22 km) long; 2\u00bd miles (4 km) greatest width; 22\u00bc sq. mi. (58 sq. km).", "S": [], "A": []}

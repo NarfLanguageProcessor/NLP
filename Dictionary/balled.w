@@ -1,0 +1,1 @@
+{"index": 26943, "D": "a spherical or approximately spherical body or shape; sphere", "S": [], "A": []}

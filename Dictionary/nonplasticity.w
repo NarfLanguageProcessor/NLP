@@ -1,0 +1,1 @@
+{"index": 205989, "D": "the quality or state of being plastic. ", "S": [], "A": []}

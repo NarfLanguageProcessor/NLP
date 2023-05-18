@@ -1,0 +1,1 @@
+{"index": 78653, "D": "to diminish or end the congestion of.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 278531, "D": "a Lycian prince, son of Zeus, killed by Patroclus in the Trojan War.", "S": [], "A": []}

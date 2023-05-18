@@ -1,0 +1,1 @@
+{"index": 47009, "D": "a variety of tobacco.", "S": [], "A": []}

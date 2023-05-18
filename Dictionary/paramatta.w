@@ -1,0 +1,1 @@
+{"index": 225795, "D": "a light, twilled dress fabric, having a silk or cotton warp and a woolen weft.", "S": [], "A": []}

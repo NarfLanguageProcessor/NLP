@@ -1,0 +1,1 @@
+{"index": 197259, "D": "of, relating to, or maintained by a nation  as an organized whole or independent political unit", "S": ["civil ", "communal ", "domestic ", "ethnic ", "governmental ", "internal ", "interstate ", "nationwide ", "public ", "social "], "A": ["private "]}

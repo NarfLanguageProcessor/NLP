@@ -1,0 +1,1 @@
+{"index": 194961, "D": "(in Australasia) refuse or rubbish, as rock or earth, from a mine; muck.", "S": [], "A": []}

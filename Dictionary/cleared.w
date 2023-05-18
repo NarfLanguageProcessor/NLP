@@ -1,0 +1,1 @@
+{"index": 59651, "D": "free from darkness, obscurity, or cloudiness; light", "S": ["cleaned "], "A": []}

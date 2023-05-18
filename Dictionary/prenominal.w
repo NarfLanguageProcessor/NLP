@@ -1,0 +1,1 @@
+{"index": 248555, "D": "placed before a noun, esp (of an adjective or sense of an adjective) used only before a noun", "S": [], "A": []}

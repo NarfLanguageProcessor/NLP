@@ -1,0 +1,1 @@
+{"index": 169718, "D": "like leather  in appearance or texture; tough and flexible.", "S": ["rugged ", "wrinkled "], "A": ["smooth "]}

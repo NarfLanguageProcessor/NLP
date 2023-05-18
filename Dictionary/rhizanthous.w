@@ -1,0 +1,1 @@
+{"index": 272167, "D": "bearing flowers directly from the root.", "S": [], "A": []}

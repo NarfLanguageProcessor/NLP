@@ -1,0 +1,1 @@
+{"index": 54156, "D": "a disease, commonly of children, caused by the varicella zoster virus and characterized by mild headache and fever, malaise, and eruption of blisters on the skin and mucous membranes.", "S": [], "A": []}

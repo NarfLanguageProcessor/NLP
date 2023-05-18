@@ -1,0 +1,1 @@
+{"index": 204465, "D": "of or relating to actors or acting.", "S": [], "A": []}

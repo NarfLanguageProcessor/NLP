@@ -1,0 +1,1 @@
+{"index": 64992, "D": "Compare analog computer, digital computer. ", "S": [], "A": []}

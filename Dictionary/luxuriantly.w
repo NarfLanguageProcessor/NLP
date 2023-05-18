@@ -1,0 +1,1 @@
+{"index": 176563, "D": "abundant or lush in growth, as vegetation.", "S": ["amply ", "generously ", "handsomely ", "lavishly ", "richly "], "A": ["meagerly ", "meanly ", "poorly "]}

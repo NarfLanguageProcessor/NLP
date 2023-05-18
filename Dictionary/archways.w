@@ -1,0 +1,1 @@
+{"index": 19176, "D": "an entrance or passage under an arch. ", "S": ["entrance ", "passage "], "A": []}

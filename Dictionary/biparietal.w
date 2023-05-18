@@ -1,0 +1,1 @@
+{"index": 34617, "D": "of or relating to both parietal  bones, especially in their being determinants in measurements of the breadth of the skull.", "S": [], "A": []}

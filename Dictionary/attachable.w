@@ -1,0 +1,1 @@
+{"index": 22922, "D": "to fasten or affix; join; connect", "S": ["appendable ", "connective ", "portable ", "separable "], "A": ["inseparable "]}

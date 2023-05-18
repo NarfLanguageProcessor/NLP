@@ -1,0 +1,1 @@
+{"index": 318831, "D": [], "S": ["covertly ", "darkly ", "dingily ", "dully ", "duskily ", "gloomily ", "hazily ", "indecisively ", "indefinably ", "indefinitely ", "indistinctly ", "nebulously ", "secretly ", "thickly ", "unobtrusively ", "vaguely "], "A": []}

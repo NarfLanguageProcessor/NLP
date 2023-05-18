@@ -1,0 +1,1 @@
+{"index": 69460, "D": "an officer, as of a county or municipality, whose chief function is to investigate by inquest, as before a jury, any death not clearly resulting from natural causes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 124057, "D": "of or relating to pressure exerted by the weight of overlying rock.", "S": [], "A": []}

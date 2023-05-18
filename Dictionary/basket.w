@@ -1,0 +1,1 @@
+{"index": 28706, "D": "a container made of twigs, rushes, thin strips of wood, or other flexible material woven together.", "S": ["box ", "crate "], "A": []}

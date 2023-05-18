@@ -1,0 +1,1 @@
+{"index": 127962, "D": "a rogue or hoodlum.", "S": [], "A": []}

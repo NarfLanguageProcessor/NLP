@@ -1,0 +1,1 @@
+{"index": 41085, "D": "a newspaper printed on large paper, usually a respectable newspaper rather than a tabloid.", "S": [], "A": []}

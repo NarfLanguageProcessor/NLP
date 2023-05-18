@@ -1,0 +1,1 @@
+{"index": 8652, "D": "a white to gray, brittle mineral, antimony arsenide, AsSb, occurring in reniform masses", "S": [], "A": []}

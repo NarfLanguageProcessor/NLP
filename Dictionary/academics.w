@@ -1,0 +1,1 @@
+{"index": 1233, "D": "of or relating to a college, academy, school, or other educational institution", "S": ["department ", "institute ", "personnel ", "staff ", "university "], "A": ["inability ", "incompetence ", "ineptness ", "lack ", "need ", "students "]}

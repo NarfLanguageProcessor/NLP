@@ -1,0 +1,1 @@
+{"index": 39946, "D": "a device consisting of a headpiece with a flat, iron bit to restrain the tongue, formerly used to punish scolds.", "S": [], "A": []}

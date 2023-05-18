@@ -1,0 +1,1 @@
+{"index": 113193, "D": "the capability of a military force, unit, or weapons system as measured by the amount of gunfire, number of missiles, etc., deliverable to a target.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303561, "D": "like the form of a conventionalized figure of a star; star-shaped. ", "S": [], "A": []}

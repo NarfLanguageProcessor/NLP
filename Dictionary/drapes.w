@@ -1,0 +1,1 @@
+{"index": 92712, "D": "curtains, esp ones of heavy fabric", "S": ["apparel ", "attire ", "dress ", "duds ", "finery ", "garb ", "garments ", "getup ", "rig ", "threads "], "A": []}

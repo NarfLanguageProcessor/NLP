@@ -1,0 +1,1 @@
+{"index": 274891, "D": "any nematode, especially Ascaris lumbricoides, that infests the intestine of humans and other mammals.", "S": [], "A": []}

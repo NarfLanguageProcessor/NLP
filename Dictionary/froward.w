@@ -1,0 +1,1 @@
+{"index": 119484, "D": "willfully contrary; not easily managed", "S": ["adverse ", "balky ", "contrary ", "cross ", "disobedient ", "headstrong ", "insubmissive ", "obstinate ", "peevish ", "perverse ", "petulant ", "refractory ", "stubborn ", "unfavorable ", "untoward ", "unyielding "], "A": []}

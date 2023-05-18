@@ -1,0 +1,1 @@
+{"index": 330480, "D": "a crystalline substance, C10H12N2, that is formed from tryptophan and is involved in various metabolic processes. ", "S": [], "A": []}

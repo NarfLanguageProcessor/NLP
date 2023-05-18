@@ -1,0 +1,1 @@
+{"index": 296897, "D": "(referring to a man) alone; by oneself (used formerly in stage directions).", "S": [], "A": []}

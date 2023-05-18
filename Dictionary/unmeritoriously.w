@@ -1,0 +1,1 @@
+{"index": 346263, "D": "deserving praise, reward, esteem, etc.; praiseworthy", "S": [], "A": []}

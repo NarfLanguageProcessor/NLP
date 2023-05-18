@@ -1,0 +1,1 @@
+{"index": 352578, "D": "to move or remove (dust, dirt, etc.) with or as if with a broom, brush, or the like.", "S": [], "A": []}

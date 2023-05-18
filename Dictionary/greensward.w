@@ -1,0 +1,1 @@
+{"index": 129600, "D": "green,  grassy turf.", "S": ["earth ", "grass ", "ground ", "sod ", "soil ", "terrain ", "territory ", "track "], "A": ["sky "]}

@@ -1,0 +1,1 @@
+{"index": 64342, "D": "to make or become compact; esp of higher dimensions in space-time, to become tightly curved so as to be unobservable under normal circumstances", "S": [], "A": []}

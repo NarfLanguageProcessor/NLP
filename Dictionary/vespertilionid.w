@@ -1,0 +1,1 @@
+{"index": 359024, "D": "of or relating to the bats of the subfamily Vespertilioninae, common in temperate regions and including most familiar species.", "S": [], "A": []}

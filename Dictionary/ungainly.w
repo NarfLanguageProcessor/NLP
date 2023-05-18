@@ -1,0 +1,1 @@
+{"index": 342876, "D": "not graceful; awkward; unwieldy; clumsy", "S": ["awkward ", "lumbering "], "A": ["agile ", "coordinated ", "elegant ", "graceful "]}

@@ -1,0 +1,1 @@
+{"index": 99911, "D": "belonging or pertaining to the superorder Endopterygota, comprising the insects that undergo complete metamorphosis.", "S": [], "A": []}

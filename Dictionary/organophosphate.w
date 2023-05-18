@@ -1,0 +1,1 @@
+{"index": 214458, "D": "any of a variety of organic compounds that contain phosphorus and often have intense neurotoxic activity", "S": [], "A": []}

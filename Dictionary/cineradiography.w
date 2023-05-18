@@ -1,0 +1,1 @@
+{"index": 57696, "D": "the filming of motion pictures through a fluoroscope or x-ray machine.", "S": [], "A": []}

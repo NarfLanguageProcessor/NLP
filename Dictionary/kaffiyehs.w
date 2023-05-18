@@ -1,0 +1,1 @@
+{"index": 162716, "D": "an Arab headdress for men; made from a diagonally folded square of cloth held in place by an agal wound around the head.", "S": [], "A": []}

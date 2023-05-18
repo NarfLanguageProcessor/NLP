@@ -1,0 +1,1 @@
+{"index": 159979, "D": "the second son of Isaac, the twin brother of Esau, and father of the 12 patriarchs. Genesis 25", "S": [], "A": []}

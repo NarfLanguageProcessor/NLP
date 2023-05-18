@@ -1,0 +1,1 @@
+{"index": 318050, "D": "a style of writing or speaking distinguished by the omissions, abbreviations, and combinations that are characteristic of telegrams, as in \u201cexpectarrivesixevening.\u201d", "S": [], "A": []}

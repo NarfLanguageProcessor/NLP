@@ -1,0 +1,1 @@
+{"index": 58322, "D": "circle; ring.", "S": ["ring ", "sphere "], "A": []}

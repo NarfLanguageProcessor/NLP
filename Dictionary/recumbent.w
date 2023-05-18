@@ -1,0 +1,1 @@
+{"index": 263766, "D": "lying down; reclining; leaning.", "S": ["decumbent ", "flat ", "horizontal ", "level ", "procumbent ", "prostrate ", "reclining ", "resupine ", "sprawling ", "supine "], "A": []}

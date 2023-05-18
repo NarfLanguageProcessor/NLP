@@ -1,0 +1,1 @@
+{"index": 9981, "D": "able to use both hands equally well", "S": [], "A": []}

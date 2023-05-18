@@ -1,0 +1,1 @@
+{"index": 146846, "D": "to give a quick, sharp, shrill cry, as a dog or fox.", "S": [], "A": []}

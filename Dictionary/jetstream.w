@@ -1,0 +1,1 @@
+{"index": 161054, "D": [], "S": ["air stream ", "geostrophic wind ", "gradient wind ", "high-altitude wind ", "high-speed wind stream ", "prevailing wind ", "upper-atmosphere wind "], "A": []}

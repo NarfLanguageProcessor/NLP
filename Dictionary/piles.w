@@ -1,0 +1,1 @@
+{"index": 236595, "D": "a nontechnical name for haemorrhoids", "S": ["gobs ", "heaps ", "horde ", "jillion ", "large numbers ", "mass ", "multitude ", "oodles ", "plenty ", "scads ", "scores ", "thousands ", "throng ", "tons ", "umpteen ", "whole slew "], "A": ["few "]}

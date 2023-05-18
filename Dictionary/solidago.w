@@ -1,0 +1,1 @@
+{"index": 296714, "D": "any plant of the chiefly American genus Solidago, which includes the goldenrods", "S": [], "A": []}

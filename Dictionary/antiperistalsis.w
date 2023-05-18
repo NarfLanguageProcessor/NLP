@@ -1,0 +1,1 @@
+{"index": 15822, "D": "reversed peristaltic action of the intestines, by which their contents are carried upward.", "S": [], "A": []}

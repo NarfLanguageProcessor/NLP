@@ -1,0 +1,1 @@
+{"index": 337522, "D": "to express an unfavorable or adverse judgment on; indicate strong disapproval of; censure. ", "S": [], "A": []}

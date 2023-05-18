@@ -1,0 +1,1 @@
+{"index": 9705, "D": "of or relating to the belly; intestinal.", "S": [], "A": []}

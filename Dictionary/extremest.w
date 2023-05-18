@@ -1,0 +1,1 @@
+{"index": 108717, "D": "of a character or kind farthest removed from the ordinary or average", "S": [], "A": []}

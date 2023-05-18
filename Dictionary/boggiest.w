@@ -1,0 +1,1 @@
+{"index": 37300, "D": "containing or full of bogs", "S": ["soggy "], "A": []}

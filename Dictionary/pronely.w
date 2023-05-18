@@ -1,0 +1,1 @@
+{"index": 252401, "D": "having a natural inclination or tendency to something; disposed; liable", "S": [], "A": []}

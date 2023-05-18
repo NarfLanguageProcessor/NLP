@@ -1,0 +1,1 @@
+{"index": 214126, "D": "to compose or arrange (music) for performance by an orchestra. ", "S": ["arrange ", "coordinate ", "manage ", "set up "], "A": ["disperse ", "divide ", "separate "]}

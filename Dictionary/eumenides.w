@@ -1,0 +1,1 @@
+{"index": 105522, "D": "a euphemistic name for the Furies, meaning \u201cthe Kindly Ones.\u201d", "S": [], "A": []}

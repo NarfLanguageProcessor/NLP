@@ -1,0 +1,1 @@
+{"index": 56072, "D": "any golden-yellow to brown freshwater algae of the class Chrysomonadales (phylum Chrysophyta), living singly or in colonies; blooms may color the water brown.", "S": [], "A": []}

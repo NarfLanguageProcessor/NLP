@@ -1,0 +1,1 @@
+{"index": 136374, "D": "of or relating to the forces involved in blood circulation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 278503, "D": "a native or inhabitant of Sarmatia, an ancient region of E Europe", "S": [], "A": []}

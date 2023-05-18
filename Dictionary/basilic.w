@@ -1,0 +1,1 @@
+{"index": 28630, "D": "kingly; royal.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 186295, "D": "(especially of electronic equipment) to make extremely small; subject to microminiaturization.", "S": [], "A": []}

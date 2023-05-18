@@ -1,0 +1,1 @@
+{"index": 168820, "D": "having lateen sails.", "S": [], "A": []}

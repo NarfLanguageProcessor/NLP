@@ -1,0 +1,1 @@
+{"index": 350060, "D": "to take off the roof  or covering of.", "S": [], "A": []}

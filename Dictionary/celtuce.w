@@ -1,0 +1,1 @@
+{"index": 50669, "D": "a variety of lettuce, Lactuca sativa asparagina, having characteristics of both celery and lettuce, and eaten raw or cooked.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 248167, "D": "an ecclesiastic of a high order, as an archbishop, bishop, etc.; a church dignitary.", "S": ["ecclesiastical ", "ministerial ", "monastic ", "pastoral ", "rabbinical "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 129474, "D": "the spirit of Greek  thought, art, etc.", "S": [], "A": []}

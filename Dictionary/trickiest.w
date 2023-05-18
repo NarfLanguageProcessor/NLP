@@ -1,0 +1,1 @@
+{"index": 329542, "D": "given to or characterized by deceitful tricks;  crafty; wily.", "S": ["complex ", "critical ", "delicate ", "intricate ", "knotty ", "precarious ", "problematic ", "risky ", "rocky ", "sensitive ", "sticky ", "thorny ", "ticklish ", "touchy ", "unstable "], "A": ["easy ", "simple ", "smooth sailing ", "solvable ", "sure ", "untroublesome "]}

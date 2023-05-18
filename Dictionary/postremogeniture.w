@@ -1,0 +1,1 @@
+{"index": 244444, "D": "a system of inheritance under which the estate of a deceased person goes to his youngest son.", "S": [], "A": []}

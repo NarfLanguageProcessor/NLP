@@ -1,0 +1,1 @@
+{"index": 193783, "D": "a picture or decoration made of small, usually colored pieces of inlaid stone, glass, etc.", "S": [], "A": []}

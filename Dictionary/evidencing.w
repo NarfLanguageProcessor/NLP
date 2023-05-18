@@ -1,0 +1,1 @@
+{"index": 106229, "D": "that which tends to prove or disprove something; ground for belief; proof.", "S": ["denoting ", "designating ", "disclosing ", "displaying ", "guiding ", "manifesting ", "marking ", "placing ", "revealing ", "showing ", "signifying ", "specifying ", "spotting ", "steering "], "A": []}

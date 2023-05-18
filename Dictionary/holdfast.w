@@ -1,0 +1,1 @@
+{"index": 142401, "D": "something used to hold or secure a thing in place; a catch, hook, clamp, etc.", "S": ["attach ", "fasten ", "unite "], "A": ["detach ", "disconnect ", "separate ", "unfasten ", "divide ", "unfix "]}

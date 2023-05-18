@@ -1,0 +1,1 @@
+{"index": 146037, "D": "a fossil footprint.", "S": [], "A": []}

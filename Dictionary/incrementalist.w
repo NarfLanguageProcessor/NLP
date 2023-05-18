@@ -1,0 +1,1 @@
+{"index": 150466, "D": "a policy of making changes, especially social changes, by degrees; gradualism.", "S": [], "A": []}

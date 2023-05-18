@@ -1,0 +1,1 @@
+{"index": 352044, "D": "characterized by or conforming to style  or the fashionable standard; fashionably elegant; smart or chic", "S": [], "A": []}

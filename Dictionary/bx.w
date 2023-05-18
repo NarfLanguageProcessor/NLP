@@ -1,0 +1,1 @@
+{"index": 43827, "D": "base exchange. ", "S": [], "A": []}

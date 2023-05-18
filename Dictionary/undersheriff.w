@@ -1,0 +1,1 @@
+{"index": 339784, "D": "a sheriff's  deputy, especially one on whom the sheriff's  duties devolve when the office is vacant.", "S": [], "A": []}

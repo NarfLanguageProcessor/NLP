@@ -1,0 +1,1 @@
+{"index": 222722, "D": "suitable for packing,  especially for travel", "S": [], "A": []}

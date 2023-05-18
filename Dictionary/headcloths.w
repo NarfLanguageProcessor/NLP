@@ -1,0 +1,1 @@
+{"index": 134594, "D": "any cloth for covering the head, as a turban or wimple.", "S": [], "A": []}

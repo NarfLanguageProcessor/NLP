@@ -1,0 +1,1 @@
+{"index": 170165, "D": "a supporter of legitimate authority, especially of a claim to a throne based on direct descent.", "S": [], "A": []}

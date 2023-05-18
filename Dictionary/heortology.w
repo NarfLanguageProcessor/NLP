@@ -1,0 +1,1 @@
+{"index": 136627, "D": "the study of the history and significance of the feasts and seasons in the ecclesiastical calendar.", "S": [], "A": []}

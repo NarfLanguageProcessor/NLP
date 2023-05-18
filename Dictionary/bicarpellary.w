@@ -1,0 +1,1 @@
+{"index": 33369, "D": "(of an ovary) having two carpels", "S": [], "A": []}

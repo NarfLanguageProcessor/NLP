@@ -1,0 +1,1 @@
+{"index": 156142, "D": "of, pertaining to, designating, or characteristic of a variety. ", "S": [], "A": []}

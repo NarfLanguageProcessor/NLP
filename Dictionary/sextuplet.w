@@ -1,0 +1,1 @@
+{"index": 286941, "D": "a group or combination of six things.", "S": ["hexad ", "hexagon ", "hexagram ", "semester ", "sextet "], "A": []}

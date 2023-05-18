@@ -1,0 +1,1 @@
+{"index": 85121, "D": "a coloring material or matter.", "S": ["pigment ", "stain ", "tint "], "A": ["bleach "]}

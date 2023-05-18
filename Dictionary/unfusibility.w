@@ -1,0 +1,1 @@
+{"index": 342851, "D": "the quality of being fusible or convertible from a solid to a liquid state by heat.", "S": [], "A": []}

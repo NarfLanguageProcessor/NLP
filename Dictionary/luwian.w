@@ -1,0 +1,1 @@
+{"index": 176541, "D": "an extinct ancient Anatolian language written in cuneiform.", "S": [], "A": []}

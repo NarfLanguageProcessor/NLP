@@ -1,0 +1,1 @@
+{"index": 311174, "D": "a tall East Indian shrub, Crotalaria juncea, of the legume family, having slender branches and yellow flowers, and an inner bark that yields a hemplike fiber used for making ropes, sacking, etc.", "S": [], "A": []}

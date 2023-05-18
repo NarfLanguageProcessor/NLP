@@ -1,0 +1,1 @@
+{"index": 164128, "D": "any of a class of sugars composed of six carbon atoms and a ketone group, as fructose.", "S": [], "A": []}

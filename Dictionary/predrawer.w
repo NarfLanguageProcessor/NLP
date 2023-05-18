@@ -1,0 +1,1 @@
+{"index": 247152, "D": "a sliding, lidless, horizontal compartment, as in a piece of furniture, that may be drawn  out in order to gain access to it.", "S": [], "A": []}

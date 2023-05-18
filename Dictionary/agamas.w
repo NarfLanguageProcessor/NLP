@@ -1,0 +1,1 @@
+{"index": 5855, "D": "any of numerous agamid lizards of the genus Agama, many of which are brilliantly colored and have the ability to change the color of the skin.", "S": [], "A": []}

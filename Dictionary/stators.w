@@ -1,0 +1,1 @@
+{"index": 303128, "D": "Compare rotor (def. 1). ", "S": [], "A": []}

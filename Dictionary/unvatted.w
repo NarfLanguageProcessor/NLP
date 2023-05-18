@@ -1,0 +1,1 @@
+{"index": 353683, "D": "a large container, as a tub or tank, used for storing or holding liquids", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 126627, "D": "a halo, nimbus, or aureole.", "S": [], "A": []}

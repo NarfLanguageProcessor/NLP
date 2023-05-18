@@ -1,0 +1,1 @@
+{"index": 303822, "D": "a suffix used in forming nouns, often derogatory, referring especially to occupation, habit, or association", "S": [], "A": []}

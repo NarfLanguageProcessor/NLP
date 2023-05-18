@@ -1,0 +1,1 @@
+{"index": 80237, "D": "a bitter, poisonous, crystalline alkaloid, C33H45NO9, obtained from various species of larkspur, especially Delphinium staphisagria.", "S": [], "A": []}

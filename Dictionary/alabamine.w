@@ -1,0 +1,1 @@
+{"index": 7226, "D": "(formerly) astatine. Symbol", "S": [], "A": []}

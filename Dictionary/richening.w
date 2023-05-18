@@ -1,0 +1,1 @@
+{"index": 272531, "D": "to make or become rich  or richer. ", "S": [], "A": []}

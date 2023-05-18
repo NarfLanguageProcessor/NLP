@@ -1,0 +1,1 @@
+{"index": 279114, "D": "having a salty, spicy, or piquant flavor; not sweet", "S": ["dessert ", "feast ", "luxury "], "A": ["dislike ", "hate ", "hatred ", "lot ", "melancholy ", "pain ", "sorrow ", "trouble ", "unhappiness "]}

@@ -1,0 +1,1 @@
+{"index": 7651, "D": "of, pertaining, or belonging to the family Alcidae, comprising the auks, murres, puffins, etc.", "S": [], "A": []}

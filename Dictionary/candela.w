@@ -1,0 +1,1 @@
+{"index": 46144, "D": "a basic unit of luminous intensity in the International System of Units (SI), formally defined as the luminous intensity of a source that emits monochromatic radiation of frequency 540 \u00d7 1012 hertz and that has a radiant intensity of 1/683 watt/steradian", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 115106, "D": "made of or resembling floss;  downy.", "S": [], "A": []}

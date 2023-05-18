@@ -1,0 +1,1 @@
+{"index": 198529, "D": "a fine-grained, dark rock of volcanic origin, essentially a basalt containing nepheline  but no feldspar and little or no olivine.", "S": [], "A": []}

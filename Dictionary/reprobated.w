@@ -1,0 +1,1 @@
+{"index": 268600, "D": "a depraved, unprincipled, or wicked person", "S": ["slam "], "A": ["approve ", "build up ", "commend ", "compliment ", "endorse ", "exonerate ", "laud ", "praise ", "sanction "]}

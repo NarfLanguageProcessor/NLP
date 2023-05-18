@@ -1,0 +1,1 @@
+{"index": 272626, "D": "the act or fact of clearing away or out, as anything undesirable.", "S": ["discharge ", "ejection ", "elimination ", "liberation ", "removal "], "A": []}

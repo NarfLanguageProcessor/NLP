@@ -1,0 +1,1 @@
+{"index": 136522, "D": "to hem along a line from which threads have been drawn out, stitching the cross threads into a series of little groups.", "S": [], "A": []}

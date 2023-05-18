@@ -1,0 +1,1 @@
+{"index": 79158, "D": "having a defect  or flaw; faulty; imperfect", "S": ["awkwardly ", "clumsily ", "poorly "], "A": ["adequately ", "calmly ", "little ", "mildly ", "morally "]}

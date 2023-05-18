@@ -1,0 +1,1 @@
+{"index": 89868, "D": "inattentive; preoccupied. ", "S": ["disturbed ", "panicked "], "A": []}

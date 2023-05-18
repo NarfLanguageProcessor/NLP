@@ -1,0 +1,1 @@
+{"index": 180670, "D": [], "S": ["muddy ", "spongy ", "squishy "], "A": ["hard ", "stiff ", "unfeeling ", "unromantic "]}

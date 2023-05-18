@@ -1,0 +1,1 @@
+{"index": 296817, "D": "a solution of a certain type of partial differential equation that represents a solitary wave.", "S": [], "A": []}

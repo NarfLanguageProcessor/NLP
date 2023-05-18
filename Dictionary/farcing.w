@@ -1,0 +1,1 @@
+{"index": 109902, "D": "a light, humorous play in which the plot depends upon a skillfully exploited situation rather than upon the development of character.", "S": ["ape ", "buffoon ", "clown ", "copy ", "farce ", "imitate ", "mimic ", "represent "], "A": []}

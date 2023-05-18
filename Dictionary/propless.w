@@ -1,0 +1,1 @@
+{"index": 252725, "D": "to support, or prevent from falling, with or as if with a prop (often followed by up)", "S": [], "A": []}

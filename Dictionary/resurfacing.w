@@ -1,0 +1,1 @@
+{"index": 270178, "D": "to give a new surface  to.", "S": ["reappear "], "A": []}

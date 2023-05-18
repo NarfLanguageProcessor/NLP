@@ -1,0 +1,1 @@
+{"index": 252704, "D": "to make favorably inclined; appease; conciliate.", "S": [], "A": []}

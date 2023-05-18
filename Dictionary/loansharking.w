@@ -1,0 +1,1 @@
+{"index": 174126, "D": "the practice of lending money at excessive rates of interest.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 314585, "D": "a person who has charge of a switch  on a railroad.", "S": [], "A": []}

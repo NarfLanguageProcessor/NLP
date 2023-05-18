@@ -1,0 +1,1 @@
+{"index": 43636, "D": "a butler's room or pantry; buttery.", "S": [], "A": []}

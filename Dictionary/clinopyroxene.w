@@ -1,0 +1,1 @@
+{"index": 60096, "D": "a member of the pyroxene group of minerals having a monoclinic crystal structure, such as augite, diopside, or jadeite", "S": [], "A": []}

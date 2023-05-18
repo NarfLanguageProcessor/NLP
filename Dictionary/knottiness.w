@@ -1,0 +1,1 @@
+{"index": 165692, "D": "having knots;  full of knots", "S": [], "A": []}

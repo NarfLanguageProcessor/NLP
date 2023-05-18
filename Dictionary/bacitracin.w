@@ -1,0 +1,1 @@
+{"index": 25705, "D": "an antibiotic polypeptide derived by the hydrolytic action of Bacillus subtilis on protein, primarily used topically in the treatment of superficial infections caused by susceptible Gram-positive organisms.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 261444, "D": "to acclimate. ", "S": [], "A": []}

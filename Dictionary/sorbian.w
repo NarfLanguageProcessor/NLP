@@ -1,0 +1,1 @@
+{"index": 297505, "D": "of or relating to the Wends or their language.", "S": [], "A": []}

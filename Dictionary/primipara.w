@@ -1,0 +1,1 @@
+{"index": 250536, "D": "a woman who has borne but one child or who is parturient for the first time.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 159447, "D": "a person who specializes in the study of Italy, the Italian  people, or the Italian  language.", "S": [], "A": []}

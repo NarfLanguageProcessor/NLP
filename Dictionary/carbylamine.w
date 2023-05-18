@@ -1,0 +1,1 @@
+{"index": 47443, "D": "(formerly) isocyanide. ", "S": [], "A": []}

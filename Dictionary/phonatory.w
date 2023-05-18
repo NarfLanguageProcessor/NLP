@@ -1,0 +1,1 @@
+{"index": 234649, "D": "rapid, periodic opening and closing of the glottis through separation and apposition of the vocal cords that, accompanied by breath under lung pressure, constitutes a source of vocal sound.", "S": [], "A": []}

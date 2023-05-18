@@ -1,0 +1,1 @@
+{"index": 25810, "D": "the return trip of a vehicle, as a truck, transporting cargo or freight, especially when carrying goods back  over all or part of the same route.", "S": [], "A": []}

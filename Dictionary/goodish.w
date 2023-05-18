@@ -1,0 +1,1 @@
+{"index": 127894, "D": "rather good;  fairly good. ", "S": ["A-OK ", "adequate ", "admissible ", "all right ", "average ", "big ", "common ", "cooking with gas ", "cool ", "copacetic ", "decent ", "delightful ", "fair ", "fairish ", "hunky-dory ", "in the swim ", "kosher ", "large ", "moderate ", "okay ", "on the ball ", "on the beam ", "passable ", "peachy keen "], "A": []}

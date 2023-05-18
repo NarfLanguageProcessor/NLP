@@ -1,0 +1,1 @@
+{"index": 344742, "D": "to discontinue temporarily; suspend.", "S": [], "A": []}

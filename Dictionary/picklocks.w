@@ -1,0 +1,1 @@
+{"index": 235913, "D": "a person who picks  a lock,  especially a burglar.", "S": ["crook ", "robber ", "thief "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303471, "D": "sufficient speed to permit a vessel to be maneuvered.", "S": [], "A": []}

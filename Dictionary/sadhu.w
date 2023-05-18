@@ -1,0 +1,1 @@
+{"index": 276505, "D": "an ascetic holy man, especially a monk.", "S": [], "A": []}

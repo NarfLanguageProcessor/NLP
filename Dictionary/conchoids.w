@@ -1,0 +1,1 @@
+{"index": 65286, "D": "a plane curve such that if a straight line is drawn from a certain fixed point, called the pole of the curve, to the curve, the part of the line intersected between the curve and its asymptote is always equal to a fixed distance. Equation", "S": [], "A": []}

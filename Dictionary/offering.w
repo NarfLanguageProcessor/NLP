@@ -1,0 +1,1 @@
+{"index": 211587, "D": "something offered  in worship or devotion, as to a deity; an oblation or sacrifice.", "S": ["contribution ", "gift "], "A": ["withdrawal "]}

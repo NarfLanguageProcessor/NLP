@@ -1,0 +1,1 @@
+{"index": 41873, "D": "a nonhuman creature; beast. ", "S": ["animal "], "A": ["gentle ", "mild ", "weak "]}

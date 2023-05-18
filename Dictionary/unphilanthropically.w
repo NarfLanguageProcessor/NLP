@@ -1,0 +1,1 @@
+{"index": 347858, "D": "of, pertaining to, engaged in, or characterized by philanthropy;  benevolent", "S": [], "A": []}

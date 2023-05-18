@@ -1,0 +1,1 @@
+{"index": 43525, "D": "a small settlement; village.", "S": [], "A": []}

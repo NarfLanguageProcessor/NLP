@@ -1,0 +1,1 @@
+{"index": 367324, "D": "any cloth of carded wool  yarn of which the fibers vary in length", "S": [], "A": []}

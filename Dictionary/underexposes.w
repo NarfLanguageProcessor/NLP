@@ -1,0 +1,1 @@
+{"index": 339167, "D": "to expose  either to insufficient light or to sufficient light for too short a period, as in photography.", "S": [], "A": []}

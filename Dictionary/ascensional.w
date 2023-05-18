@@ -1,0 +1,1 @@
+{"index": 20932, "D": "the act of ascending; ascent. ", "S": [], "A": []}

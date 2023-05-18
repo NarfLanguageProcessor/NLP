@@ -1,0 +1,1 @@
+{"index": 235973, "D": "the spore produced in a pycnium.", "S": [], "A": []}

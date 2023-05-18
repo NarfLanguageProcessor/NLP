@@ -1,0 +1,1 @@
+{"index": 18964, "D": "of, relating to, or discovered by Archimedes.", "S": [], "A": []}

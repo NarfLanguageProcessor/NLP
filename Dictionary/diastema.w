@@ -1,0 +1,1 @@
+{"index": 84553, "D": "the modified protoplasm at the equator of a cell, existing before mitotic division.", "S": [], "A": []}

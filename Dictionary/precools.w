@@ -1,0 +1,1 @@
+{"index": 246546, "D": "to cool  in advance; cool  artificially, as meat or fresh produce, before shipping.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 281514, "D": "lean or thin; scrawny.", "S": ["precipitous ", "rocky ", "rugged ", "stony "], "A": ["flat ", "smooth "]}

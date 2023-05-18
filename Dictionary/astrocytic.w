@@ -1,0 +1,1 @@
+{"index": 22236, "D": "a star-shaped neuroglial cell of ectodermal origin.", "S": [], "A": []}

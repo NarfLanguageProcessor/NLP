@@ -1,0 +1,1 @@
+{"index": 315973, "D": "the three Jewish divisions of the Old Testament, comprising the Law or Torah, the Prophets or Neviim, and the Hagiographa or Ketuvim, taken as a whole.", "S": [], "A": []}

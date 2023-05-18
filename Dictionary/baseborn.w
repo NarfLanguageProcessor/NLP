@@ -1,0 +1,1 @@
+{"index": 28493, "D": "of humble parentage.", "S": ["base ", "common ", "contemptible ", "declassed ", "dishonorable ", "humble ", "ignoble ", "inferior ", "lower-class ", "mean ", "plebeian ", "unwashed ", "unworthy "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 224617, "D": "a person who views a situation with unwarranted optimism", "S": [], "A": []}

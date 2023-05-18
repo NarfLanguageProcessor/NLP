@@ -1,0 +1,1 @@
+{"index": 84288, "D": "a deduction with one premise and a disjunctive conclusion", "S": [], "A": []}

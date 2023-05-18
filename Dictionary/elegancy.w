@@ -1,0 +1,1 @@
+{"index": 97355, "D": "elegance. ", "S": ["class ", "distinction ", "grace ", "gracefulness ", "polish ", "politeness ", "refinement ", "stateliness ", "style ", "tastefulness ", "urbanity "], "A": []}

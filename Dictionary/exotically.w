@@ -1,0 +1,1 @@
+{"index": 107525, "D": "of foreign origin or character; not native; introduced from abroad, but not fully naturalized or acclimatized", "S": ["abnormally ", "amazingly ", "curiously ", "peculiarly ", "rarely ", "remarkably ", "startlingly ", "strikingly ", "surprisingly ", "uncommonly ", "uniquely ", "unusually "], "A": ["frequently "]}

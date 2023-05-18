@@ -1,0 +1,1 @@
+{"index": 220867, "D": "having wealth or great possessions; abundantly supplied with resources, means, or funds; wealthy", "S": [], "A": []}

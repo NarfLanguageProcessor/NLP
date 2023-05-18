@@ -1,0 +1,1 @@
+{"index": 331904, "D": "having tubercles.", "S": ["consumptive "], "A": []}

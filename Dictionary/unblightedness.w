@@ -1,0 +1,1 @@
+{"index": 335963, "D": "affected with blight,  a disease or condition characterized by the rapid and extensive discoloration, wilting, and death of plant tissues", "S": [], "A": []}

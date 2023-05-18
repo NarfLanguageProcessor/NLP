@@ -1,0 +1,1 @@
+{"index": 333091, "D": "pertaining to or exercised by a tutor", "S": ["academic ", "cultural ", "informational ", "scholarly "], "A": []}

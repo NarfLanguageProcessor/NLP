@@ -1,0 +1,1 @@
+{"index": 25002, "D": "causing or inducing awe;  inspiring an overwhelming feeling of reverence, admiration, or fear", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 34465, "D": "a combining form meaning \"living in the environment specified,\" used in the formation of compound words", "S": [], "A": []}

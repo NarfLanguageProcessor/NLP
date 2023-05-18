@@ -1,0 +1,1 @@
+{"index": 321943, "D": "any of several rod-shaped bacteria of the genus Thiobacillus, inhabiting soil, sewage, etc., that derive energy from oxidation of sulfur or sulfur compounds.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 248599, "D": "an act or instance of noticing or perceiving.", "S": [], "A": []}

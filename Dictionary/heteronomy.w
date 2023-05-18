@@ -1,0 +1,1 @@
+{"index": 137679, "D": "the condition of being under the domination of an outside authority, either human or divine.", "S": [], "A": []}

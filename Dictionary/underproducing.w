@@ -1,0 +1,1 @@
+{"index": 339634, "D": "to produce  less or in a lesser manner or degree than is normal or required.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86069, "D": "a tetrode, once frequently used as an oscillator in radio, in which an increase in the plate voltage results in a decrease in the plate current because of emission of electrons from the plate.", "S": [], "A": []}

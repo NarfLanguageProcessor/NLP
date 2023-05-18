@@ -1,0 +1,1 @@
+{"index": 79987, "D": "a person designated to act for or represent another or others; deputy; representative, as in a political convention.", "S": ["commissioner ", "deputy ", "envoy ", "member ", "minister ", "nominee ", "senator "], "A": []}

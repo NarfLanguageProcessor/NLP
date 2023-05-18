@@ -1,0 +1,1 @@
+{"index": 127335, "D": "any plant of the American onagraceous genus Godetia, esp one grown as a showy-flowered annual garden plant", "S": [], "A": []}

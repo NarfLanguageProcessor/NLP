@@ -1,0 +1,1 @@
+{"index": 93528, "D": "the study of the religion, customs, and practices of the Druids. ", "S": [], "A": []}

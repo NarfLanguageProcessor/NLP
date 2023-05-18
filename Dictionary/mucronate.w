@@ -1,0 +1,1 @@
+{"index": 194633, "D": "having an abruptly projecting point, as a feather or leaf.", "S": ["acicular ", "aciculate ", "aciculated ", "acuminate ", "acuminous ", "acute ", "barbed ", "cornered ", "cuspate ", "cuspated ", "cuspidate ", "cuspidated ", "edged ", "fine ", "keen ", "peaked ", "piked ", "pointy ", "pronged ", "sharp ", "sharp-cornered ", "spiked "], "A": []}

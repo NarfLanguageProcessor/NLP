@@ -1,0 +1,1 @@
+{"index": 218004, "D": "the quality or state of being oval. ", "S": [], "A": []}

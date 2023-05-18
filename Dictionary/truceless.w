@@ -1,0 +1,1 @@
+{"index": 331455, "D": "a suspension of hostilities for a specified period of time by mutual agreement of the warring parties; cease-fire; armistice.", "S": [], "A": []}

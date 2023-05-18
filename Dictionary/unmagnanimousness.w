@@ -1,0 +1,1 @@
+{"index": 345900, "D": "generous in forgiving an insult or injury; free from petty resentfulness or vindictiveness", "S": [], "A": []}

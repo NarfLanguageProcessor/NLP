@@ -1,0 +1,1 @@
+{"index": 1473, "D": "capable or worthy of being accepted. ", "S": ["appropriately ", "competently ", "decently ", "satisfactorily ", "sufficiently "], "A": ["inadequately ", "insufficiently ", "unequally ", "unsatisfactorily ", "unsuitably "]}

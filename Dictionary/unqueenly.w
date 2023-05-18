@@ -1,0 +1,1 @@
+{"index": 348919, "D": "belonging or proper to a queen", "S": [], "A": []}

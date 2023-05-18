@@ -1,0 +1,1 @@
+{"index": 81322, "D": "the hard, calcareous tissue, similar to but denser than bone, that forms the major portion of a tooth, surrounds the pulp cavity, and is situated beneath the enamel and cementum.", "S": [], "A": []}

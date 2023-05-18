@@ -1,0 +1,1 @@
+{"index": 343126, "D": "a covering for the hand made with a separate sheath for each finger and for the thumb.", "S": [], "A": []}

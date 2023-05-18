@@ -1,0 +1,1 @@
+{"index": 43771, "D": "(in metal construction) a plate which overlaps and fastens two pieces butted  together.", "S": [], "A": []}

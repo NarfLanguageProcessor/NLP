@@ -1,0 +1,1 @@
+{"index": 176710, "D": "to soften or separate into parts by steeping in a liquid.", "S": [], "A": []}

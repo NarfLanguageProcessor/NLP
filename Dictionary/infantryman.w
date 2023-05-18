@@ -1,0 +1,1 @@
+{"index": 151828, "D": "a soldier of the infantry. ", "S": ["infantry trooper "], "A": []}

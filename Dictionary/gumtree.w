@@ -1,0 +1,1 @@
+{"index": 131313, "D": "any tree that exudes gum, as a eucalyptus, the sour gum, or the sweet gum.", "S": [], "A": []}

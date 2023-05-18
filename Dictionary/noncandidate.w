@@ -1,0 +1,1 @@
+{"index": 201782, "D": "a person who has not yet announced their availability for election to a political office or who has declared that they will not be a candidate. ", "S": [], "A": []}

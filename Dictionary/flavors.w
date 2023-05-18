@@ -1,0 +1,1 @@
+{"index": 114229, "D": "taste, especially the distinctive taste of something as it is experienced in the mouth.", "S": ["acidity ", "aroma ", "essence ", "extract ", "seasoning ", "sweetness ", "zest "], "A": ["blandness "]}

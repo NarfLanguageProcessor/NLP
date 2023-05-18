@@ -1,0 +1,1 @@
+{"index": 295198, "D": "a badly confused or ridiculously muddled situation", "S": ["flawed ", "impaired ", "injured ", "run-down "], "A": ["healthy "]}

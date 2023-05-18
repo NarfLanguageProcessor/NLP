@@ -1,0 +1,1 @@
+{"index": 237786, "D": "pertaining to, subject to, or manifesting pyroelectricity. ", "S": [], "A": []}

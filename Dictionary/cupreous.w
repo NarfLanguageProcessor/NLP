@@ -1,0 +1,1 @@
+{"index": 75119, "D": "copper-colored; metallic reddish-brown.", "S": ["cupriferous ", "cuprous "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 235290, "D": "the interval in a 24-hour period  during which a plant or animal is exposed to light.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 55445, "D": "a stewed or baked dish, especially of meat and beans, served on the Sabbath but cooked the day before or overnight over a slow fire.", "S": [], "A": []}

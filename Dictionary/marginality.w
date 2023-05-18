@@ -1,0 +1,1 @@
+{"index": 180001, "D": "pertaining to a margin. ", "S": [], "A": []}

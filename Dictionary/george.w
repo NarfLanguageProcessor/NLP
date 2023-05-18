@@ -1,0 +1,1 @@
+{"index": 124030, "D": "a figure of St. George  killing the dragon, especially one forming part of the insignia of the Order of the Garter.", "S": [], "A": []}

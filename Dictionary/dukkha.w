@@ -1,0 +1,1 @@
+{"index": 93941, "D": "the first of the Four Noble Truths, that all human experience is transient and that suffering results from excessive desire and attachment.", "S": [], "A": []}

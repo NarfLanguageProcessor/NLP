@@ -1,0 +1,1 @@
+{"index": 348782, "D": "of, relating to, or affecting a population or a community as a whole", "S": [], "A": []}

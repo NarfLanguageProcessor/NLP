@@ -1,0 +1,1 @@
+{"index": 143180, "D": "of the nature of homonyms; having the same name.", "S": [], "A": []}

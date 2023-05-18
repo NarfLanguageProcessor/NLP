@@ -1,0 +1,1 @@
+{"index": 25753, "D": "repartee. ", "S": ["back answer ", "cheek ", "comeback ", "guff ", "insolence ", "insult ", "lip ", "mouth ", "nasty reply ", "rejoinder ", "retort ", "return ", "riposte ", "sass ", "sauce ", "short answer ", "uptake "], "A": []}

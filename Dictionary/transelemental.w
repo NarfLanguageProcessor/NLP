@@ -1,0 +1,1 @@
+{"index": 327804, "D": "of the nature of an ultimate constituent; simple; uncompounded.", "S": [], "A": []}

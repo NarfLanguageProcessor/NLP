@@ -1,0 +1,1 @@
+{"index": 64115, "D": "a person or group of persons elected or appointed to perform some service or function, as to investigate, report on, or act upon a particular matter.", "S": [], "A": []}

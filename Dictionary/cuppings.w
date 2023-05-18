@@ -1,0 +1,1 @@
+{"index": 75112, "D": "the process of drawing blood from the body by scarification and the application of a cupping glass,  or by the application of a cupping glass without scarification, as for relieving internal congestion or for loosening and stimulating the muscles.", "S": [], "A": []}

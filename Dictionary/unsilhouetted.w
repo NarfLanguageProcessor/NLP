@@ -1,0 +1,1 @@
+{"index": 351142, "D": "a two-dimensional representation of the outline of an object, as a cutout or configurational drawing, uniformly filled in with black, especially a black-paper, miniature cutout of the outlines of a person's face in profile.", "S": [], "A": []}

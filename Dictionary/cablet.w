@@ -1,0 +1,1 @@
+{"index": 43972, "D": "a small cable,  especially a cablelaid rope under 10 inches (25 centimeters) in circumference.", "S": [], "A": []}

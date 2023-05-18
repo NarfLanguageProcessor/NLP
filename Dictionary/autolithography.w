@@ -1,0 +1,1 @@
+{"index": 24160, "D": "a lithographic technique by which the artist draws or traces with a brush and pen directly on a stone or plate.", "S": [], "A": []}

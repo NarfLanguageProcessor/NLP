@@ -1,0 +1,1 @@
+{"index": 24190, "D": "to apply the principles of automation  to (a mechanical process, industry, office, etc.).", "S": ["automatic ", "computerized ", "electrical ", "electronic ", "mechanical ", "mechanized ", "robotic "], "A": ["by hand ", "manual "]}

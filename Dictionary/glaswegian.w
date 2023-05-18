@@ -1,0 +1,1 @@
+{"index": 126006, "D": "of or characteristic of Glasgow  or its inhabitants.", "S": [], "A": []}

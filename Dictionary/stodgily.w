@@ -1,0 +1,1 @@
+{"index": 304992, "D": "heavy, dull, or uninteresting; tediously commonplace; boring", "S": [], "A": []}

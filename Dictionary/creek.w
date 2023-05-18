@@ -1,0 +1,1 @@
+{"index": 72535, "D": "a stream smaller than a river.", "S": ["brook ", "brooklet ", "burn ", "crick ", "ditch ", "race ", "rill ", "river ", "rivulet ", "run ", "runnel ", "spring ", "streamlet ", "tributary ", "watercourse "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 305974, "D": "the channel in which a stream  flows or formerly flowed.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 356549, "D": "the surgical severance of vagus nerve fibers, performed to reduce acid secretion by the stomach.", "S": [], "A": []}

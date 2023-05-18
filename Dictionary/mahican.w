@@ -1,0 +1,1 @@
+{"index": 177694, "D": "a tribe or confederacy of North American Indians of the Algonquian family, centralized formerly in the upper Hudson valley.", "S": [], "A": []}

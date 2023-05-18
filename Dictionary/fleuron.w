@@ -1,0 +1,1 @@
+{"index": 114478, "D": "a floral motif, as one used as a terminal point or in a decorative series on an object.", "S": [], "A": []}

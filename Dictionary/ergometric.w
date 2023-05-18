@@ -1,0 +1,1 @@
+{"index": 103617, "D": "a device designed to measure muscle power.", "S": [], "A": []}

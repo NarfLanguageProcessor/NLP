@@ -1,0 +1,1 @@
+{"index": 311727, "D": "of superior eminence, rank, or dignity; distinguished, conspicuous, or worthy of note above others.", "S": [], "A": []}

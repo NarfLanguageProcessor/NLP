@@ -1,0 +1,1 @@
+{"index": 21124, "D": "feeling shame; distressed or embarrassed by feelings of guilt, foolishness, or disgrace", "S": [], "A": []}

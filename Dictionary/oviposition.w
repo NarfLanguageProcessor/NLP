@@ -1,0 +1,1 @@
+{"index": 221957, "D": "the act or process of depositing or laying eggs, especially by means of an ovipositor", "S": [], "A": []}

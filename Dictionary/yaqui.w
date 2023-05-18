@@ -1,0 +1,1 @@
+{"index": 145716, "D": "a member of an Indigenous people of Sonora, Mexico, now living also in other parts of northwestern Mexico and in Arizona and Texas.", "S": [], "A": []}

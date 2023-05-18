@@ -1,0 +1,1 @@
+{"index": 228682, "D": "of, relating to, or consisting of pectin or protopectin.", "S": [], "A": []}

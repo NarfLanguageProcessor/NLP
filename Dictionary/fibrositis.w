@@ -1,0 +1,1 @@
+{"index": 112117, "D": "inflammation of white fibrous tissue, esp that of muscle sheaths", "S": [], "A": []}

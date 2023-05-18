@@ -1,0 +1,1 @@
+{"index": 157160, "D": "to turn upside down.", "S": ["alter ", "backtrack ", "capsize ", "change ", "convert ", "evert ", "flip ", "flip-flop ", "introvert ", "modify ", "overturn ", "renege ", "revert ", "tip ", "transpose ", "turn ", "upend ", "upset "], "A": ["continue ", "grow ", "hold ", "keep ", "leave alone ", "persist ", "remain ", "stay ", "straighten "]}

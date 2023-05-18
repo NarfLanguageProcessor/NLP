@@ -1,0 +1,1 @@
+{"index": 37645, "D": "a hole in the ground, protected opening in bushes, etc., into which an animal can flee when pursued or frightened.", "S": [], "A": []}

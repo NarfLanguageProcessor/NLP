@@ -1,0 +1,1 @@
+{"index": 107725, "D": "doctrine or practice of relying on experimentation;  empiricism.", "S": [], "A": []}

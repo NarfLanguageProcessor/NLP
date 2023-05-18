@@ -1,0 +1,1 @@
+{"index": 231241, "D": "circumlocutory; roundabout.", "S": ["circumlocutorily ", "diffusely ", "discursively ", "in a roundabout way ", "not immediately ", "secondhand "], "A": ["directly ", "immediately ", "primarily "]}

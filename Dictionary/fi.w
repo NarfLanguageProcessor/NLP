@@ -1,0 +1,1 @@
+{"index": 111926, "D": "the solmization syllable used for the semitone between the fourth and fifth degrees of a scale.", "S": [], "A": []}

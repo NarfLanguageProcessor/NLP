@@ -1,0 +1,1 @@
+{"index": 289633, "D": "an implement for cutting grain, grass, etc., consisting of a curved, hooklike blade mounted in a short handle.", "S": ["bow ", "curve ", "half-moon ", "meniscus "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256697, "D": "a fan made of a palm leaf or leaves", "S": [], "A": []}

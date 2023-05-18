@@ -1,0 +1,1 @@
+{"index": 160966, "D": "a narrow, flat-sided, 5-gallon (19-liter) container for fluids, as fuel.", "S": [], "A": []}

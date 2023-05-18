@@ -1,0 +1,1 @@
+{"index": 110512, "D": "the favoring of one person or group over others with equal claims; partiality", "S": ["discrimination ", "inequity ", "nepotism ", "partisanship ", "unfairness "], "A": ["fairness ", "impartiality ", "justice "]}

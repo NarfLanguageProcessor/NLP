@@ -1,0 +1,1 @@
+{"index": 142083, "D": "an activity or interest pursued for pleasure or relaxation and not as a main occupation", "S": ["amusement ", "art ", "avocation ", "craft ", "diversion ", "fad ", "fun ", "obsession ", "specialty ", "sport "], "A": ["entertainment ", "vocation ", "work ", "boredom ", "dislike ", "hate "]}

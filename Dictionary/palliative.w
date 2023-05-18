@@ -1,0 +1,1 @@
+{"index": 223985, "D": "serving to palliate. ", "S": ["curative ", "disciplinary ", "punitive ", "remedial ", "therapeutic "], "A": ["damaging ", "harmful ", "hurtful ", "injurious "]}

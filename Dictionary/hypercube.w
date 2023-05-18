@@ -1,0 +1,1 @@
+{"index": 140024, "D": "a figure in a space of four or more dimensions having all its sides equal and all its angles right angles", "S": [], "A": []}

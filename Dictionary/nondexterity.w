@@ -1,0 +1,1 @@
+{"index": 203024, "D": "skill or adroitness in using the hands or body; agility.", "S": [], "A": []}

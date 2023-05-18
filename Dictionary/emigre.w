@@ -1,0 +1,1 @@
+{"index": 98547, "D": "an emigrant, especially a person who flees from their native land because of political conditions.", "S": ["DP ", "alien ", "deportee ", "displaced person ", "exile ", "expat ", "expatriate ", "expellee ", "foreigner ", "outlander ", "outsider ", "refugee "], "A": []}

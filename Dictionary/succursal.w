@@ -1,0 +1,1 @@
+{"index": 309922, "D": "subsidiary, especially noting a religious establishment that is dependent upon a principal one.", "S": [], "A": []}

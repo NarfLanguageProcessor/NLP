@@ -1,0 +1,1 @@
+{"index": 25631, "D": "a priest, priestess, or votary of Bacchus; bacchanal.", "S": [], "A": []}

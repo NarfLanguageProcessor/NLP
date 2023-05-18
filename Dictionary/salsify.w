@@ -1,0 +1,1 @@
+{"index": 277238, "D": "a purple-flowered, composite plant, Tragopogon porrifolius, whose root has an oyster-like flavor and is used as a culinary vegetable.", "S": [], "A": []}

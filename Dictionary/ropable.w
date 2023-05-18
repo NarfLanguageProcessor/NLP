@@ -1,0 +1,1 @@
+{"index": 274341, "D": "capable of being roped. ", "S": [], "A": []}

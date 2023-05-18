@@ -1,0 +1,1 @@
+{"index": 357436, "D": "stimulating the action of the vasomotor nerves.", "S": [], "A": []}

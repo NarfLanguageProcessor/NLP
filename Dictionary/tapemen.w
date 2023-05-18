@@ -1,0 +1,1 @@
+{"index": 316320, "D": "a person who holds and positions a tape  in taking measurements.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 126033, "D": "a sodium-rich monoclinic mineral of the amphibole family, usually metamorphic.", "S": [], "A": []}

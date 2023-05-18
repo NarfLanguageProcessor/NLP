@@ -1,0 +1,1 @@
+{"index": 27842, "D": "an ancient Carthaginian family to which Hamilcar, Hasdrubal, and Hannibal belonged.", "S": [], "A": []}

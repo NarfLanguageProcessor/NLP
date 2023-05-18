@@ -1,0 +1,1 @@
+{"index": 23255, "D": "of, by, or pertaining to an author", "S": [], "A": []}

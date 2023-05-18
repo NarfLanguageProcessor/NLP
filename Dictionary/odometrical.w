@@ -1,0 +1,1 @@
+{"index": 211272, "D": "an instrument for measuring distance traveled, as by an automobile.", "S": [], "A": []}

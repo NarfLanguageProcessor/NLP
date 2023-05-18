@@ -1,0 +1,1 @@
+{"index": 296371, "D": "somewhat or relatively soft. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 272729, "D": "a semisynthetic broad-spectrum antibiotic, C43H58N4O12, used in the treatment of pulmonary tuberculosis, asymptomatic carriers of meningococcal disease, and leprosy.", "S": [], "A": []}

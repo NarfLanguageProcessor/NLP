@@ -1,0 +1,1 @@
+{"index": 339834, "D": "simple past tense and past participle of sleep. ", "S": [], "A": []}

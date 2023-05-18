@@ -1,0 +1,1 @@
+{"index": 96945, "D": "the branch of electronics that deals with the conversion of electricity into acoustical energy and vice versa.", "S": [], "A": []}

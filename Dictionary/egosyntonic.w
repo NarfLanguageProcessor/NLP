@@ -1,0 +1,1 @@
+{"index": 96269, "D": "of or relating to aspects of one's behavior or attitudes viewed as acceptable and consistent with one's fundamental personality and beliefs (contrasted with ego-dystonic).", "S": [], "A": []}

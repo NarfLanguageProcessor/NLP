@@ -1,0 +1,1 @@
+{"index": 270423, "D": "a gladiator equipped with a net for casting over his opponent.", "S": [], "A": []}

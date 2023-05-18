@@ -1,0 +1,1 @@
+{"index": 349478, "D": "awakening memories of something similar; suggestive (usually followed by of)", "S": [], "A": []}

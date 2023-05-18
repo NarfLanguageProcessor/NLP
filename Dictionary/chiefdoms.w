@@ -1,0 +1,1 @@
+{"index": 54208, "D": "the rank or office of a chief. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 195168, "D": "having several or many lobules.", "S": [], "A": []}

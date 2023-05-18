@@ -1,0 +1,1 @@
+{"index": 86287, "D": "the god of fertility, wine, and drama; Bacchus.", "S": [], "A": []}

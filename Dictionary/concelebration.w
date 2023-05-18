@@ -1,0 +1,1 @@
+{"index": 65118, "D": "the celebration of a Eucharist or Mass by two or more members of the clergy.", "S": [], "A": []}

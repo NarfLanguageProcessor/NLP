@@ -1,0 +1,1 @@
+{"index": 173306, "D": "the process of realizing upon assets and of discharging liabilities in concluding the affairs of a business, estate, etc.", "S": ["clearance ", "destruction ", "eradication ", "expulsion ", "removal ", "withdrawal "], "A": ["acceptance ", "addition ", "allowance ", "inclusion "]}

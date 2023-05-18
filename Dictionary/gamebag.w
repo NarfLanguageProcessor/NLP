@@ -1,0 +1,1 @@
+{"index": 121667, "D": "a bag,  usually of leather or canvas, for carrying game,  especially birds, killed by a hunter.", "S": [], "A": []}

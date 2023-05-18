@@ -1,0 +1,1 @@
+{"index": 212493, "D": "of all forms, varieties, or kinds.", "S": ["disparate ", "divergent ", "diverse ", "varied "], "A": ["alike ", "like ", "same ", "similar "]}

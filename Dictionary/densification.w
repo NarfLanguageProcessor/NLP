@@ -1,0 +1,1 @@
+{"index": 81219, "D": "to impregnate (wood) with additives under heat and pressure in order to achieve greater density and hardness.", "S": [], "A": []}

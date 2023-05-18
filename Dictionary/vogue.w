@@ -1,0 +1,1 @@
+{"index": 360961, "D": "something in fashion, as at a particular time", "S": ["in ", "latest ", "mod ", "now ", "rage "], "A": ["out ", "unfashionable ", "unpopular ", "unstylish "]}

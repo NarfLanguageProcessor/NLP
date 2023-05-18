@@ -1,0 +1,1 @@
+{"index": 280996, "D": "hardened or indurated, as by sclerosis. ", "S": [], "A": []}

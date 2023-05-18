@@ -1,0 +1,1 @@
+{"index": 106741, "D": "the act of exclaiming;  outcry; loud complaint or protest", "S": [], "A": []}

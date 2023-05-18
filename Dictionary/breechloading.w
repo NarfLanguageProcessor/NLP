@@ -1,0 +1,1 @@
+{"index": 40384, "D": "loaded at the breech. ", "S": [], "A": []}

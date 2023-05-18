@@ -1,0 +1,1 @@
+{"index": 300977, "D": "a walled body resulting from the multiple division of a sporozoan, which produces one or more sporozoites.", "S": [], "A": []}

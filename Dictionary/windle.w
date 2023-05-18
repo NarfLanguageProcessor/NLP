@@ -1,0 +1,1 @@
+{"index": 365978, "D": "a measure of corn, wheat, or other commodities equal to approximately three bushels, but varying in different regions.", "S": [], "A": []}

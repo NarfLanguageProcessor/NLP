@@ -1,0 +1,1 @@
+{"index": 173969, "D": "an owner of or an employee in a livery stable. ", "S": [], "A": []}

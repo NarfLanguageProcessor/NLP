@@ -1,0 +1,1 @@
+{"index": 138806, "D": "of or relating to a heating system for a building in which the medium for carrying heat throughout the structure is circulating water, especially when the circulation is aided by a pump.", "S": [], "A": []}

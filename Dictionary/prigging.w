@@ -1,0 +1,1 @@
+{"index": 250450, "D": "a person who displays or demands of others pointlessly precise conformity, fussiness about trivialities, or exaggerated propriety, especially in a self-righteous or irritating manner.", "S": [], "A": []}

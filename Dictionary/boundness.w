@@ -1,0 +1,1 @@
+{"index": 38982, "D": "simple past tense and past participle of bind. ", "S": ["authority ", "burden ", "duty ", "guilt ", "importance ", "liability ", "obligation ", "power ", "restraint ", "trust "], "A": ["irresponsibility ", "benefit ", "blessing "]}

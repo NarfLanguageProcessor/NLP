@@ -1,0 +1,1 @@
+{"index": 138746, "D": "the science dealing with the occurrence, circulation, distribution, and properties of the waters of the earth and its atmosphere.", "S": [], "A": []}

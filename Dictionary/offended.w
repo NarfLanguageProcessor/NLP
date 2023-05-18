@@ -1,0 +1,1 @@
+{"index": 211559, "D": "feeling or expressing hurt, indignation, or irritation because of a perceived wrong or insult", "S": ["angry ", "annoyed ", "exasperated ", "insulted ", "outraged "], "A": []}

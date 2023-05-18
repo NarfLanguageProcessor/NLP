@@ -1,0 +1,1 @@
+{"index": 26113, "D": "a substance or preparation that inhibits the further growth of bacteria. ", "S": [], "A": []}

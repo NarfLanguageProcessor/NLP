@@ -1,0 +1,1 @@
+{"index": 209073, "D": "newness; novelty.", "S": [], "A": []}

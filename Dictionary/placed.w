@@ -1,0 +1,1 @@
+{"index": 238544, "D": "a particular portion of space, whether of definite or indefinite extent.", "S": ["arranged ", "fixed ", "implanted ", "located ", "planted ", "settled ", "situated "], "A": []}

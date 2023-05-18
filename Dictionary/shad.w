@@ -1,0 +1,1 @@
+{"index": 287040, "D": "a deep-bodied herring, Alosa sapidissima, of Europe and North America, that migrates up streams to spawn, used for food.", "S": [], "A": []}

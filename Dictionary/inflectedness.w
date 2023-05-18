@@ -1,0 +1,1 @@
+{"index": 152119, "D": "to alter, adapt, or modulate (the voice).", "S": [], "A": []}

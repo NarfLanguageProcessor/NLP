@@ -1,0 +1,1 @@
+{"index": 78327, "D": "the endometrium of a pregnant uterus that in many of the higher mammals is cast off at parturition.", "S": [], "A": []}

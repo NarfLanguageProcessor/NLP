@@ -1,0 +1,1 @@
+{"index": 93159, "D": "the act of something that drips.", "S": ["lard ", "lubricant ", "oil ", "vegetable oil "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 137980, "D": "a compound, C10H24N2, used in the treatment of severe hypertension to lower blood pressure and increase blood flow by blocking transmission of nerve impulses that constrict blood vessels.", "S": [], "A": []}

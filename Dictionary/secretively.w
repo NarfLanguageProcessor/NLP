@@ -1,0 +1,1 @@
+{"index": 282818, "D": "having or showing a disposition to secrecy;  reticent", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 212459, "D": "one of the radial elements composing a compound eye.", "S": [], "A": []}

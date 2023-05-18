@@ -1,0 +1,1 @@
+{"index": 160979, "D": "a close-fitting, knitted sweater or shirt.", "S": ["blouse ", "pullover ", "tunic ", "turtleneck "], "A": []}

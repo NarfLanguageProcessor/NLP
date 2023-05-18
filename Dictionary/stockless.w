@@ -1,0 +1,1 @@
+{"index": 304957, "D": "having no stock,  as an anchor.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 283880, "D": "completely confused or disordered", "S": [], "A": []}

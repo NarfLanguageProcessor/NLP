@@ -1,0 +1,1 @@
+{"index": 118493, "D": "characterized by, involving, or proceeding from fraud,  as actions, enterprise, methods, or gains", "S": ["chicanery ", "deception ", "duplicity ", "fraud ", "hoax ", "misrepresentation ", "subterfuge "], "A": ["forthrightness ", "honesty ", "openness ", "trustworthiness ", "truthfulness ", "frankness ", "reality ", "truth "]}

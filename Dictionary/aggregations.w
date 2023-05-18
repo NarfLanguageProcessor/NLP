@@ -1,0 +1,1 @@
+{"index": 6127, "D": "a group or mass of distinct or varied things, persons, etc.", "S": ["aggregate ", "gathering "], "A": []}

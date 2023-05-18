@@ -1,0 +1,1 @@
+{"index": 275742, "D": "of, relating to, or characteristic of the country, country life, or country people; rustic", "S": ["agrarian ", "agricultural ", "back-country ", "backwoods ", "bucolic ", "idyllic ", "pastoral ", "provincial ", "rustic "], "A": ["metropolitan ", "urban "]}

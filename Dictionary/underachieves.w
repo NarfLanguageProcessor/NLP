@@ -1,0 +1,1 @@
+{"index": 338806, "D": "to perform, especially academically, below the potential indicated by tests of one's mental ability or aptitude.", "S": [], "A": []}

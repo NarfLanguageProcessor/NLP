@@ -1,0 +1,1 @@
+{"index": 135687, "D": "pertaining to Hellenists.", "S": [], "A": []}

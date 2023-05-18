@@ -1,0 +1,1 @@
+{"index": 252529, "D": "any structure capable of being propagated or acting as an agent of reproduction.", "S": [], "A": []}

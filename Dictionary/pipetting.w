@@ -1,0 +1,1 @@
+{"index": 237461, "D": "a slender graduated tube used in a laboratory for measuring and transferring quantities of liquids from one container to another.", "S": [], "A": []}

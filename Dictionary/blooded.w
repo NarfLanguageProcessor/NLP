@@ -1,0 +1,1 @@
+{"index": 36428, "D": "having blood  of a specified kind (used in combination)", "S": ["juice "], "A": []}

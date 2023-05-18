@@ -1,0 +1,1 @@
+{"index": 43411, "D": "an uncontrolled fire  in the trees and bushes  of scrubland.", "S": [], "A": []}

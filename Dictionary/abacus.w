@@ -1,0 +1,1 @@
+{"index": 55, "D": "a device for making arithmetic calculations, consisting of a frame set with rods on which balls or beads are moved.", "S": ["calculator ", "computer ", "electronic calculator ", "pocket calculator ", "totaliser ", "totalizer "], "A": []}

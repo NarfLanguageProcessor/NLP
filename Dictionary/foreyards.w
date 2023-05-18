@@ -1,0 +1,1 @@
+{"index": 116721, "D": "a yard  on the lower mast of a square-rigged foremast of a ship used to support the foresail.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 344058, "D": "similar or alike in every way", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 176675, "D": "of or relating to the Maccabees or Judas Maccabaeus.", "S": [], "A": []}

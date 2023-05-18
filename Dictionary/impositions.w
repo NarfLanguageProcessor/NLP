@@ -1,0 +1,1 @@
+{"index": 148922, "D": "the laying on of something as a burden or obligation.", "S": ["artifice ", "cheating ", "con ", "craftiness ", "dissimulation ", "fraud ", "hoax ", "hocus-pocus ", "hypocrisy ", "illusion ", "imposture ", "stratagem ", "trick ", "trickery "], "A": ["frankness ", "honesty ", "reality ", "sincerity ", "truth ", "truthfulness "]}

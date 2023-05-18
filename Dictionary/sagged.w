@@ -1,0 +1,1 @@
+{"index": 276662, "D": "to sink or bend downward by weight or pressure, especially in the middle", "S": ["cave in ", "dip ", "drop off ", "fall off ", "languish ", "sink ", "slide ", "slip ", "slump ", "wilt "], "A": ["ascend ", "grow ", "increase ", "rise ", "strengthen ", "accomplish ", "achieve ", "go up ", "reach ", "straighten ", "succeed ", "win "]}

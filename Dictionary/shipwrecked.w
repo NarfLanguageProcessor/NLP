@@ -1,0 +1,1 @@
+{"index": 288476, "D": "the destruction or loss of a ship,  as by sinking.", "S": ["grounded ", "marooned ", "reefed ", "stranded ", "wrecked "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 139103, "D": "a person who rules or has authority in sacred matters; high priest.", "S": [], "A": []}

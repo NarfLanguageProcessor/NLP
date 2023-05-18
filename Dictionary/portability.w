@@ -1,0 +1,1 @@
+{"index": 243571, "D": "the state or quality of being portable. ", "S": ["flexibility ", "maneuverability "], "A": []}

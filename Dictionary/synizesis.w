@@ -1,0 +1,1 @@
+{"index": 291813, "D": "the combination into one syllable of two vowels (or of a vowel and a diphthong) that do not form a diphthong.", "S": [], "A": []}

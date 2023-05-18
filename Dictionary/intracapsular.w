@@ -1,0 +1,1 @@
+{"index": 156425, "D": "within a capsule, esp within the capsule of a joint", "S": [], "A": []}

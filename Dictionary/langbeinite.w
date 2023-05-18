@@ -1,0 +1,1 @@
+{"index": 168075, "D": "a mineral, K2Mg2(SO4)3, occurring in marine salt deposits, used as a fertilizer because of its potassium content.", "S": [], "A": []}

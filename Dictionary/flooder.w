@@ -1,0 +1,1 @@
+{"index": 114902, "D": "a great flowing or overflowing of water, especially over land not usually submerged.", "S": [], "A": []}

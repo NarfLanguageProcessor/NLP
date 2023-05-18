@@ -1,0 +1,1 @@
+{"index": 5068, "D": "an instrument for determining the weight, density, etc., of air or other gases.", "S": [], "A": []}

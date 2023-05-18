@@ -1,0 +1,1 @@
+{"index": 45429, "D": "an apparatus for measuring quantities of heat.", "S": [], "A": []}

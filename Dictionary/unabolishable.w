@@ -1,0 +1,1 @@
+{"index": 334347, "D": "to do away with; put an end to; annul; make void", "S": [], "A": []}

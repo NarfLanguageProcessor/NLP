@@ -1,0 +1,1 @@
+{"index": 342509, "D": "a place where a river or other body of water is shallow enough to be crossed by wading.", "S": [], "A": []}

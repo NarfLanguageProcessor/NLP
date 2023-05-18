@@ -1,0 +1,1 @@
+{"index": 339380, "D": "a person engaged in work that requires bodily strength rather than skill or training", "S": [], "A": []}

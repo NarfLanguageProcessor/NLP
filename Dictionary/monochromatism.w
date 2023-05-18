@@ -1,0 +1,1 @@
+{"index": 192159, "D": "the quality of having one color", "S": [], "A": []}

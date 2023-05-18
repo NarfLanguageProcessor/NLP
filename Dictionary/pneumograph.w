@@ -1,0 +1,1 @@
+{"index": 240805, "D": "a device for recording graphically the respiratory movements of the thorax.", "S": [], "A": []}

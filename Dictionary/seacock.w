@@ -1,0 +1,1 @@
+{"index": 282410, "D": "a valve in the hull of a vessel for admitting outside water into some part of the hull, as a ballast tank.", "S": [], "A": []}

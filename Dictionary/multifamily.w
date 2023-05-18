@@ -1,0 +1,1 @@
+{"index": 195077, "D": "designed or suitable for the use of several or many families", "S": [], "A": []}

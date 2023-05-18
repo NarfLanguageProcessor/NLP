@@ -1,0 +1,1 @@
+{"index": 9412, "D": "a European clover, Trifolium hybridum, having pink flowers, grown in the U.S. for forage.", "S": [], "A": []}

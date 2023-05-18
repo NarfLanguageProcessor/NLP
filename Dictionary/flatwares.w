@@ -1,0 +1,1 @@
+{"index": 114146, "D": "utensils, as knives, forks, and spoons, used at the table for serving and eating food.", "S": ["cutlery "], "A": []}

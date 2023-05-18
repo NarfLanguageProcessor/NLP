@@ -1,0 +1,1 @@
+{"index": 225154, "D": "a thick, stiff cardboard composed of layers of paper or paper pulp compressed together.", "S": [], "A": []}

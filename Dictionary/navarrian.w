@@ -1,0 +1,1 @@
+{"index": 197483, "D": "a former kingdom in SW France and N Spain.", "S": [], "A": []}

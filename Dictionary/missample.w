@@ -1,0 +1,1 @@
+{"index": 189997, "D": "a small part of anything or one of a number, intended to show the quality, style, or nature of the whole; specimen.", "S": [], "A": []}

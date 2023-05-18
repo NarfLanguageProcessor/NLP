@@ -1,0 +1,1 @@
+{"index": 10398, "D": "a son of Lacedaemon and Sparta.", "S": [], "A": []}

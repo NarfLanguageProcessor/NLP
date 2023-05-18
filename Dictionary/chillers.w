@@ -1,0 +1,1 @@
+{"index": 54383, "D": "a person or thing that chills. ", "S": ["conundrum ", "enigma ", "problem ", "question ", "riddle ", "secrecy ", "subtlety ", "thriller "], "A": ["known ", "understanding "]}

@@ -1,0 +1,1 @@
+{"index": 267172, "D": "to make a new master  tape or record from an old master  tape, usually to improve the fidelity of an old recording.", "S": [], "A": []}

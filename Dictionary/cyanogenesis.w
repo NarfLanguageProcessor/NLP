@@ -1,0 +1,1 @@
+{"index": 56862, "D": "the release by certain plants, such as cherry laurel, of hydrogen cyanide, esp after wounding or invasion by pathogens", "S": [], "A": []}

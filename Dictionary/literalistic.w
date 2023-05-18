@@ -1,0 +1,1 @@
+{"index": 173566, "D": "adherence to the exact letter or the literal  sense, as in translation or interpretation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 367636, "D": "having or characterized by worry;  concerned; anxious", "S": ["bothered ", "clutched ", "concerned ", "distracted ", "distressed ", "disturbed ", "frightened ", "perturbed ", "tense ", "tormented ", "upset "], "A": ["calm ", "comforted ", "happy ", "relaxed ", "uncaring ", "undisturbed ", "untroubled ", "unworried "]}

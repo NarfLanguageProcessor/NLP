@@ -1,0 +1,1 @@
+{"index": 140292, "D": "the condition of having an unusually vivid or precise memory.", "S": [], "A": []}

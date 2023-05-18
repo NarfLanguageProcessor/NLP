@@ -1,0 +1,1 @@
+{"index": 293384, "D": "a quick, oblique blow or stroke; a chopping blow.", "S": ["blowhard ", "blusterer ", "bouncer ", "braggadocio ", "egotist ", "vaunter "], "A": []}

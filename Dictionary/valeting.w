@@ -1,0 +1,1 @@
+{"index": 356689, "D": "a male servant who attends to the personal needs of his male employer, as by taking care of clothing or the like; manservant.", "S": [], "A": []}

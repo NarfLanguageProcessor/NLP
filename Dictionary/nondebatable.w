@@ -1,0 +1,1 @@
+{"index": 202693, "D": "open to question; in dispute; doubtful", "S": [], "A": []}

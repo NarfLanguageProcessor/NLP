@@ -1,0 +1,1 @@
+{"index": 194768, "D": "a scarf worn around one's neck for warmth.", "S": ["damper ", "mute pedal ", "noise queller ", "silencer ", "sordine ", "sordino ", "sourdine "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 208768, "D": "a wistful desire to return in thought or in fact to a former time in one's life, to one's home or homeland, or to one's family and friends; a sentimental yearning for the happiness of a former place or time", "S": ["longing ", "remorse ", "sentimentality ", "wistfulness ", "yearning "], "A": []}

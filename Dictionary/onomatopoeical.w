@@ -1,0 +1,1 @@
+{"index": 212890, "D": [], "S": ["imitative ", "onomatopoeic ", "onomatopoetic "], "A": []}

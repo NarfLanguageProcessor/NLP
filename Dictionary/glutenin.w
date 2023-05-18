@@ -1,0 +1,1 @@
+{"index": 126956, "D": "a simple protein of cereal grains that imparts adhesive properties to flour.", "S": [], "A": []}

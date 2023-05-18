@@ -1,0 +1,1 @@
+{"index": 269905, "D": "giving or conducive to rest. ", "S": ["adequately ", "easily ", "snugly "], "A": ["inadequately ", "insufficiently ", "poorly ", "uncomfortably "]}

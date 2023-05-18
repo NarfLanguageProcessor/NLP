@@ -1,0 +1,1 @@
+{"index": 75652, "D": "a point or pointed end.", "S": ["angle ", "apex ", "corner ", "end ", "flap ", "fold ", "horn ", "peak ", "point ", "tip ", "tooth "], "A": ["bottom ", "nadir "]}

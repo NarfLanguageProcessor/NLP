@@ -1,0 +1,1 @@
+{"index": 50715, "D": "variant of ceno-1  as final element of a compound word", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175579, "D": "like, characteristic of, or in the manner of a lover;  loverlike.", "S": [], "A": []}

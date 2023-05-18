@@ -1,0 +1,1 @@
+{"index": 362159, "D": "a variant spelling of Vlach", "S": [], "A": []}

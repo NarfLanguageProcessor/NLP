@@ -1,0 +1,1 @@
+{"index": 1863, "D": "of, like, or pertaining to an accuser. ", "S": ["accusatory ", "accusing ", "accusive ", "denunciatory "], "A": []}

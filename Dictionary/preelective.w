@@ -1,0 +1,1 @@
+{"index": 247204, "D": "pertaining to the principle of electing  to an office, position, etc.", "S": [], "A": []}

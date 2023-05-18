@@ -1,0 +1,1 @@
+{"index": 363519, "D": "any instrument or device for use in attack or defense in combat, fighting, or war, as a sword, rifle, or cannon.", "S": ["ammunition ", "bomb ", "cannon ", "firearm ", "gun ", "knife ", "machete ", "machine gun ", "missile ", "nerve gas ", "pistol ", "revolver ", "rifle ", "shotgun ", "sword ", "tear gas "], "A": []}

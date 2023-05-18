@@ -1,0 +1,1 @@
+{"index": 301881, "D": "easily squeezed,  compressed, or the like.", "S": [], "A": []}

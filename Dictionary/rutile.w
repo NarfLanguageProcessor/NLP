@@ -1,0 +1,1 @@
+{"index": 275943, "D": "a common mineral, titanium dioxide, TiO2, usually reddish-brown in color with a brilliant metallic or adamantine luster, occurring in crystals", "S": [], "A": []}

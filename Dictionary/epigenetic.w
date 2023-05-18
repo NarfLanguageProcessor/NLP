@@ -1,0 +1,1 @@
+{"index": 102440, "D": "of or relating to epigenesis, or the successive differentiation of undifferentiated cells in an embryo.", "S": [], "A": []}

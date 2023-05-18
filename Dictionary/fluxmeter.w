@@ -1,0 +1,1 @@
+{"index": 115627, "D": "an instrument for measuring magnetic flux,  consisting essentially of a ballistic galvanometer.", "S": [], "A": []}

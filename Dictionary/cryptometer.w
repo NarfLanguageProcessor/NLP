@@ -1,0 +1,1 @@
+{"index": 73273, "D": "an instrument used to determine the opacity of pigments and paints", "S": [], "A": []}

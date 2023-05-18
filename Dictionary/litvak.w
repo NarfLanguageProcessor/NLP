@@ -1,0 +1,1 @@
+{"index": 173923, "D": "a Jew from Lithuania or a neighboring country or region.", "S": [], "A": []}

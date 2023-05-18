@@ -1,0 +1,1 @@
+{"index": 285829, "D": "an abnormal condition resulting from a previous disease.", "S": ["corollary ", "emanation ", "importance ", "ramification ", "residual ", "residue ", "residuum ", "weight "], "A": ["causes "]}

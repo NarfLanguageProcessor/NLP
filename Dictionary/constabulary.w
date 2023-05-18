@@ -1,0 +1,1 @@
+{"index": 67003, "D": "the body of constables  of a district.", "S": ["gendarmerie "], "A": []}

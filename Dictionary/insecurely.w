@@ -1,0 +1,1 @@
+{"index": 153501, "D": "subject to fears, doubts, etc.; not self-confident or assured", "S": [], "A": []}

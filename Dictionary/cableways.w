@@ -1,0 +1,1 @@
+{"index": 43975, "D": "a system for hoisting and hauling bulk materials, consisting of a cable  or pair of cables suspended between two towers, on which travels a carriage from which a bucket is suspended", "S": [], "A": []}

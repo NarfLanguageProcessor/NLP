@@ -1,0 +1,1 @@
+{"index": 164668, "D": "a unit of length, the common measure of distances equal to 1,000 meters, and equivalent to 3280.8 feet or 0.621 mile. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293371, "D": "a section or portion of the sky,  usually extensive and often including part of the horizon, that may be seen from a single viewpoint.", "S": [], "A": []}

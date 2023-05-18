@@ -1,0 +1,1 @@
+{"index": 367953, "D": "a New Zealand plover, Anarhynchus frontalis, having its bill deflected to one side enabling it to search for food beneath stones", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 315248, "D": "See marigold (def. 1)", "S": [], "A": []}

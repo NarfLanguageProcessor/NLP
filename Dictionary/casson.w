@@ -1,0 +1,1 @@
+{"index": 49011, "D": "Sir Hugh (Maxwell). 1910\u201399, British architect; president of the Royal Academy of Arts (1976\u201384)", "S": [], "A": []}

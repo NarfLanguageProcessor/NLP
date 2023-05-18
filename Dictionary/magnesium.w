@@ -1,0 +1,1 @@
+{"index": 177489, "D": "a light, ductile, silver-white, metallic element that burns with a dazzling white light, used in lightweight alloys, flares, fireworks, in the manufacture of flashbulbs, optical mirrors, and precision instruments, and as a zinc substitute in batteries. Symbol", "S": [], "A": []}

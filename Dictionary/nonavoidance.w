@@ -1,0 +1,1 @@
+{"index": 201597, "D": "the act of avoiding  or keeping away from", "S": [], "A": []}

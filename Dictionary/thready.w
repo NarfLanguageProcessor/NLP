@@ -1,0 +1,1 @@
+{"index": 322564, "D": "consisting of or resembling a thread  or threads;  fibrous; filamentous.", "S": [], "A": []}

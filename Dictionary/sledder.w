@@ -1,0 +1,1 @@
+{"index": 293849, "D": "a person who rides on or steers a sled. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 820, "D": "to remove by abreaction. ", "S": [], "A": []}

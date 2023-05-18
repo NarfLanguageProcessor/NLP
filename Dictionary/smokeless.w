@@ -1,0 +1,1 @@
+{"index": 295001, "D": "emitting, producing, or having little or no smoke. ", "S": [], "A": []}

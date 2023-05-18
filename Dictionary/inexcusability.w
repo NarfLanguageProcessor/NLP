@@ -1,0 +1,1 @@
+{"index": 151659, "D": "incapable of being excused or justified.", "S": [], "A": []}

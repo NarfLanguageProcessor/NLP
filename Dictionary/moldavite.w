@@ -1,0 +1,1 @@
+{"index": 191412, "D": "a green tektite found in Bohemia.", "S": [], "A": []}

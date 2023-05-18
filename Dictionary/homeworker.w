@@ -1,0 +1,1 @@
+{"index": 142906, "D": "a person who works at home  for pay, especially a pieceworker.", "S": [], "A": []}

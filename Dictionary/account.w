@@ -1,0 +1,1 @@
+{"index": 1720, "D": "an oral or written description of particular events or situations; narrative", "S": ["detail ", "explanation ", "history ", "narrative ", "report ", "story ", "tale ", "version "], "A": []}

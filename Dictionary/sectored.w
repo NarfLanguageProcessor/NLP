@@ -1,0 +1,1 @@
+{"index": 282880, "D": "a plane figure bounded by two radii and the included arc of a circle.", "S": [], "A": []}

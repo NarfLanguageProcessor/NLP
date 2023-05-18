@@ -1,0 +1,1 @@
+{"index": 130118, "D": "a silver coin of England, equal to four pennies, issued from 1279 to 1662.", "S": [], "A": []}

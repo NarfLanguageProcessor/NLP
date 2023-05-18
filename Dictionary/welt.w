@@ -1,0 +1,1 @@
+{"index": 364096, "D": "a ridge or wale on the surface of the body, as from a blow of a stick or whip.", "S": ["bruise ", "contusion ", "scar ", "stripe "], "A": []}

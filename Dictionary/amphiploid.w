@@ -1,0 +1,1 @@
+{"index": 11185, "D": "a hybrid organism having a diploid set of chromosomes from each parental species.", "S": [], "A": []}
