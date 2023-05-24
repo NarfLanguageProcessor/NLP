@@ -74,6 +74,22 @@ class Words:
     def compose(word):
         return {'D': Words.define(word), 'S': Words.synonyms(word), 'A': Words.antonyms(word)}
 
+    def filter_top_words(self, word_lists, dir=""):
+
+        top = []
+
+        for word_list in word_lists:
+            wordies = open(dir + word_list, 'r').read().splitlines()
+
+            for word in wordies:
+                if os.path.exists('Dictionary/' + word + '.w'):
+                    top.append(word)
+
+        with open('Top.txt', 'w') as file:
+            file.write('\n'.join(top))
+
+        return True
+
     @staticmethod
     def define(word):
         # return BS(requests.get('https://www.dictionary.com/browse/{}'.format(word)).content, 'html.parser').find('div', {'class': 'css-1avshm7 e16867sm0'}).find('div', {'class': 'e1q3nk1v2'}).findAll('span', {'class': 'one-click-content'})[-1].text.split(':')[0]
