@@ -1,6 +1,6 @@
 # python3
 
-import os, time, requests, json
+import os, time, requests, json, numpy as np
 from bs4 import BeautifulSoup as BS
 from threading import Thread
 
@@ -16,7 +16,7 @@ class Words:
         self.threadies = threads
         self.activity = threads*[0]
         self.progress = 0
-        self.words = open(dir + filename, 'r').read().splitlines()
+        self.words = Words.open_array(filename, dir)
 
         print('\nCreating Dictionary...')
         self.status()
@@ -62,9 +62,8 @@ class Words:
 
         self.activity[thread] += 1
 
-        if not os.path.exists('Dictionary/' + self.words[index] + '.w'):
-            with open('Dictionary/' + self.words[index] + '.w', 'w') as file:
-                file.write(json.dumps({'index': index} | Words.compose(self.words[index])))
+        if not Words.known(self.words[index], '../Dictionary/'):
+            Words.save_json({'index': index} | Words.compose(self.words[index]), self.words[index] + '.w', 'Dictionary/')
 
         self.activity[thread] -= 1
 
@@ -74,27 +73,52 @@ class Words:
     def compose(word):
         return {'D': Words.define(word), 'S': Words.synonyms(word), 'A': Words.antonyms(word)}
 
+    @staticmethod
+    def known(word, dir='Dictionary/'):
+        return os.path.exists(dir + word + '.w')
+
+    @staticmethod
+    def collect(word, dir='Dictionary/'):
+        if Words.known(word, dir):
+            return Words.open_json(word + '.w', dir)
+        return {}
 
 
-    def filter_top_words(self, word_lists, dir='Word Lists/'):
+
+    def filter_top_words(self, filenames, dir='Word Lists/'):
 
         top = []
 
-        for word_list in word_lists:
-            wordies = open(dir + word_list, 'r').read().splitlines()
+        for word_list in filenames:
+            wordies = Words.open_array(word_list, dir)
 
             for word in wordies:
-                if os.path.exists('Dictionary/' + word + '.w'):
+                if Words.known(word, '../Dictionary/'):
                     top.append(word)
 
-        with open(dir + 'Top.txt', 'w') as file:
-            file.write('\n'.join(top))
+        Words.save_array(top, 'Top.txt', dir)
 
         return True
 
 
 
-    def synonym_matrix(self, filename='Words.txt', dir='Word Lists/'):
+    def compose_synonym_matrix(self, filename='Words.txt', dir='Word Lists/'):
+
+        words = Words.open_array(filename, dir)
+        indices = dict(zip(words, range(len(words))))
+        sm = np.zeros(len(words)**2).reshape(len(words), len(words))
+
+        for i in range(len(sm)):
+            composition = Words.collect(words[i])
+            if composition and 'S' in composition:
+                for synonym in composition['S']:
+                    synonym = Words.clean(synonym)
+                    if synonym in indices:
+                        sm[i][indices[synonym]] = 1
+
+        print(sm)
+        return Words.save_numpy(sm, 'Synonyms_Matrix', 'etc/')
+
 
 
 
@@ -108,21 +132,69 @@ class Words:
     def synonyms(word):
         soup = BS(requests.get('https://www.thesaurus.com/browse/{}'.format(word)).content, 'html.parser')
         # return [span.text for span in soup.find('div', {'id': 'meanings'}).find('ul').findAll('a', {'class': ' '.join(soup.find('div', {'id': 'meanings'}).find('ul').findAll('a', {'class': 'eh475bn0'})[0]['class'])})]
-        try: return [span.text for span in soup.find('div', {'id': 'meanings'}).find('ul').findAll('a', {'class': ' '.join(soup.find('div', {'id': 'meanings'}).find('ul').findAll('a', {'class': 'eh475bn0'})[0]['class'])})]
+        try: return [Words.clean(span.text) for span in soup.find('div', {'id': 'meanings'}).find('ul').findAll('a', {'class': ' '.join(soup.find('div', {'id': 'meanings'}).find('ul').findAll('a', {'class': 'eh475bn0'})[0]['class'])})]
         except: return []
 
     @staticmethod
     def antonyms(word):
         soup = BS(requests.get('https://www.thesaurus.com/browse/{}'.format(word)).content, 'html.parser')
         # return [span.text for span in soup.find('div', {'id': 'antonyms'}).find('ul').findAll('a', {'class': ' '.join(soup.find('div', {'id': 'antonyms'}).find('ul').findAll('a', {'class': 'eh475bn0'})[0]['class'])})]
-        try: return [span.text for span in soup.find('div', {'id': 'antonyms'}).find('ul').findAll('a', {'class': ' '.join(soup.find('div', {'id': 'antonyms'}).find('ul').findAll('a', {'class': 'eh475bn0'})[0]['class'])})]
+        try: return [Words.clean(span.text) for span in soup.find('div', {'id': 'antonyms'}).find('ul').findAll('a', {'class': ' '.join(soup.find('div', {'id': 'antonyms'}).find('ul').findAll('a', {'class': 'eh475bn0'})[0]['class'])})]
         except: return []
 
 
 
     #
     #
-    # MISC
+    # etc
+
+    @staticmethod
+    def clean(word):
+        return word.strip()
+
+    @staticmethod
+    def open_array(filename, dir=""):
+        if os.path.exists(dir + filename):
+            with open(dir + filename, 'r') as file:
+                a = file.read().splitlines()
+            return a
+
+        raise Exception('File not found: ' + dir + filename)
+
+    @staticmethod
+    def open_json(filename, dir=""):
+        if os.path.exists(dir + filename):
+            with open(dir + filename, 'r') as file:
+                d = json.load(file)
+            return d
+
+        raise Exception('File not found: ' + dir + filename)
+
+    @staticmethod
+    def open_numpy(filename, dir=""):
+        if os.path.exists(dir + filename):
+            with open(dir + filename, 'r') as file:
+                n = np.load(file)
+            return n
+
+        raise Exception('File not found: ' + dir + filename)
+
+    @staticmethod
+    def save_array(a, filename, dir=""):
+        with open(dir + filename, 'w') as file:
+            file.write('\n'.join(a))
+        return True
+
+
+    @staticmethod
+    def save_json(d, filename, dir=""):
+        with open(dir + filename, 'w') as file:
+            file.write(json.dumps(d))
+        return True
+
+    @staticmethod
+    def save_numpy(n, filename, dir=""):
+        return np.save(dir + filename, n)
 
     def status(self):
         print('\rProgress: ' + str(round(100 * self.progress / len(self.words), 2)) + '%  (' + str(self.progress) + ' of ' + str(len(self.words)) + ')', end="")
