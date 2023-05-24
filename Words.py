@@ -10,7 +10,7 @@ class Words:
     def __init__(self):
         pass
 
-    def compose_dictionary(self, filename='Words.txt', dir="", threads=20, batch_size=25):
+    def compose_dictionary(self, filename='Words.txt', dir='Word Lists/', threads=20, batch_size=25):
 
         batch = []
         self.threadies = threads
@@ -74,7 +74,9 @@ class Words:
     def compose(word):
         return {'D': Words.define(word), 'S': Words.synonyms(word), 'A': Words.antonyms(word)}
 
-    def filter_top_words(self, word_lists, dir=""):
+
+
+    def filter_top_words(self, word_lists, dir='Word Lists/'):
 
         top = []
 
@@ -85,10 +87,16 @@ class Words:
                 if os.path.exists('Dictionary/' + word + '.w'):
                     top.append(word)
 
-        with open('Top.txt', 'w') as file:
+        with open(dir + 'Top.txt', 'w') as file:
             file.write('\n'.join(top))
 
         return True
+
+
+
+    def synonym_matrix(self, filename='Words.txt', dir='Word Lists/'):
+
+
 
     @staticmethod
     def define(word):
